@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = پێویستە لەسەر ماڵپەڕەکان کە وێنەکان و زانیارییەکان باربکاتەوە
 
-clear-site-data-cancel =
-    .label = پاشگەزبوونەوە
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = پاککردنەوە
-    .accesskey = I
-

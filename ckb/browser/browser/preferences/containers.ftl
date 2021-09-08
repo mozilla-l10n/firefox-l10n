@@ -5,11 +5,6 @@
 containers-window-new =
     .title = لەخۆگرێکی نوێ زیاد بکە
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } هەڵبژاردنەکانی لەخۆگر
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = وێنۆچکە
 containers-color-label = ڕەنگ
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = تەواو
-    .accesskey = D
 
 containers-color-blue =
     .label = شین

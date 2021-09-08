@@ -7,20 +7,12 @@ about-logins-page-title = چوونەژوورەوە و وشەی تێپەڕەکا�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = وشەی تێپەڕەکەت لەگەڵ خۆت بەرە
-login-app-promo-subtitle = داوانامای { -lockwise-brand-name } بە خۆڕایی بەدەستبێنە
-login-app-promo-android =
-    .alt = بەدەستهێنانی لە کۆگای گووگڵ
-login-app-promo-apple =
-    .alt = داگرتن لە کۆگای ئەپڵ
-
 login-filter =
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
 
 create-login-button = چوونەژوورەوە دروست بکە
 
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
-fxaccounts-sign-in-button = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = بۆ هاوکاتکردن بچۆژوورەوە
 fxaccounts-avatar-button =
     .title = ڕێکخستنی هەژمار
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] هەڵبژاردنەکان
     }
 about-logins-menu-menuitem-help = یارمەتی
-menu-menuitem-android-app = { -lockwise-brand-short-name } بۆ ئەندرۆید
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } بۆ iPhone و iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
-
 about-logins-login-intro-heading-logged-out2 = بۆ چوونەژوورەوە پاشەکەوتکراوەکانت دەگەڕێی؟ هاوکاتکردن هەڵکە یان هاوردەیان بکە
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
-login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
-login-intro-instruction-fxa-settings = دڵنیابە لەوەی کە بۆکسی دیاریکردنی هەڵبژاردوە بۆ چوونەژوورەوەکان لە ڕێکخستنەکانی { -sync-brand-short-name }
-about-logins-intro-instruction-help = سەردانی <a data-l10n-name="help-link">{ -lockwise-brand-short-name } پشتگیری</a> بکە بۆ زانیاری زیاتر
 about-logins-intro-import = ئەگەر چوونەژوورەوەکانت لە وێبگەڕێکی تر پاشەکەوت کراوە، دەتوانیت <a data-l10n-name="import-link">هاوردەیان بکەیت بۆ { -lockwise-brand-short-name }</a>
 
 about-logins-intro-import2 = ئەگەر چوونەژوورەوەکانت لە دەرەوەی { -brand-product-name }ـە، ئەتوانی <a data-l10n-name="import-browser-link">بیانهێنیت لە وێبگەڕێکی ترەوە</a> یان <a data-l10n-name="import-file-link"> لە پەڕگەیەکەوە</a>
@@ -137,8 +122,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی
 
 ## Master Password notification
 
-master-password-notification-message = وشەی تێپەڕبوونی سەرەکی لێبدە بۆ ئەوەی بتوانی چوونەژوورەوە و وشەی تێپەڕەکان ببینی.
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = بۆ دەرهێنانی چوونەژوورەکانت، زانیاریەکانی چوونەژووری ویندۆز بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to export a password in about:logins
@@ -153,22 +136,6 @@ master-password-reload-button =
     .accesskey = ب
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] ئەتەوێ چوونەژوورەکانت لە هەموو جێگایەک بێ‌ بە بەکارهێنانی { -brand-product-name }؟ بڕۆ بۆ بژاردەکانی { -sync-brand-short-name } و چوارگۆشەی چوونەژوور کارا بکە.
-       *[other] ئەتەوێ چوونەژوورەکانت لە هەموو جێگایەک بێ‌ بە بەکارهێنانی { -brand-product-name }؟ بڕۆ بۆ بژاردەکانی { -sync-brand-short-name } و چوارگۆشەی چوونەژوور کارا بکە.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] هەڵبژاردنەکانی { -sync-brand-short-name } ببینە
-           *[other] هەڵبژاردەکانی { -sync-brand-short-name } ببینە
-        }
-    .accesskey = ب
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = جارێکی تر ئەم پرسیارە مەکەرەوە
-    .accesskey = ج
 
 ## Dialogs
 

@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = لە پەنجەرەیەکی تا
 about-private-browsing-search-placeholder = بە وێبدا بگەڕێ
 about-private-browsing-info-title = تۆ لە پەنجەرەی تایبەتدایت
 about-private-browsing-info-myths = ئەفسانەی باو دەربارەی گەڕانی تایبەت
-about-private-browsing =
-    .title = بە وێبدا بگەڕێ
 about-private-browsing-not-private = تۆ ئێستا لە پەنجەرەی تایبەت دا نیت.
 about-private-browsing-info-description = { -brand-short-name } هەموو زانیارییەکانی گەڕانت دەسڕێتەوە کاتێک داوانەمەکە دادەخەیت یان هەموو پەنجەرە و بازدەرەکانی تایبەتیی دادەخەیتەوە.ئەمە لە کاتێکدا تۆ ناشارێتەوە لە ماڵپەڕەکان یان دابینکەرانی هێڵی ئینتەرنێت. کارەکەت ئاسان تر دەکات بۆ ئەوەی کە بە تایبەتی لەسەرهێڵ بیت دوورلەو کەسانەی هەمان کۆمپیوتەر بەکاردێنن.
 

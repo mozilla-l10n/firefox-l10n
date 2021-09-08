@@ -32,9 +32,6 @@ toolbar-context-menu-report-extension =
     .label = پێوەکراو ڕاپۆرت بکە
     .accesskey = o
 
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = شاردنەوەی خۆکار لە توڵامراز
-    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = سڕینەوەی لە توڵامراز
     .accesskey = R

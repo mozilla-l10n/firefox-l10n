@@ -43,9 +43,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = بازدەر دڵخواز بکە
     .accesskey = B
-reopen-in-container =
-    .label = دووبارە کردنەوەی لە لەخۆگر (کۆنتێنەر)
-    .accesskey = e
 move-to-start =
     .label = بڕۆ بۆ دەستپێکردن
     .accesskey = S
@@ -55,18 +52,6 @@ move-to-end =
 move-to-new-window =
     .label = بڕۆ بۆ پەنجەرەیەکی نوێ
     .accesskey = W
-close-tab =
-    .label = بازدەر دابخە
-    .accesskey = c
-close-tabs =
-    .label = بازدەرەکان دابخە
-    .accesskey = S
-move-tabs =
-    .label = بازدەرەکان بجوڵێنە
-    .accesskey = v
-move-tab =
-    .label = بازدەر بجوڵێنە
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

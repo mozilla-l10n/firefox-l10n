@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = بەڕێوەبەری پێوەکراوەکان
-
 addons-page-title = بەڕێوەبەری پێوەکراوەکان
 
 search-header =
@@ -33,60 +30,11 @@ help-button = پشتگیری پێوەکراوە
 sidebar-help-button-title =
     .title = پشتگیری پێوەکراوە
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } هەڵبژاردەکان
-       *[other] { -brand-short-name } هەڵبژاردنەکان
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } هەڵبژاردەکان
-           *[other] { -brand-short-name } هەڵبژاردنەکان
-        }
-
 show-unsigned-extensions-button =
     .label = هەندێک پێوەکراو ناتوانرێت بسەلمێندرێت
 
 show-all-extensions-button =
     .label = هەمووی پێوەکراوەکان پیشان بدە
-
-cmd-show-details =
-    .label = زانیاری زیاتر پیشان بدە
-    .accesskey = S
-
-cmd-find-updates =
-    .label = نوێکاری بدۆزرەوە
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] هەڵبژاردەکان
-           *[other] هەڵبژاردنەکان
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ڕووکارێک بپۆشە
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = ئیتر ڕووکار مەپۆشە
-    .accesskey = W
-
-cmd-install-addon =
-    .label = دامەزراندن
-    .accesskey = I
-
-cmd-contribute =
-    .label = بەشداری
-    .accesskey = C
-    .tooltiptext = بەشدار بە لە گەشەپێدانی حەم پێوەکراوە
 
 detail-version =
     .label = وەشان
@@ -347,8 +295,6 @@ dictionary-disabled-heading = ناچالاکە
 
 locale-enabled-heading = چالاکە
 locale-disabled-heading = ناچالاکە
-
-ask-to-activate-button = پرسیار بۆ چالاککردن
 
 always-activate-button = هەموو کات چالاک
 never-activate-button = بەهیچ جۆرێک چالاک نەبێت

@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "لە پڕاوپڕی شاشە دەرچۆ">
 <!ENTITY castingButton.castingLabel "بینێرە بۆ شاشە">
 <!ENTITY closedCaption.off "ناکارا">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "لاتەنیشتی پلەی دەنگ">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

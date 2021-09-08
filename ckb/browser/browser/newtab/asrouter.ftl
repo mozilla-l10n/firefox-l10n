@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = پێوەکراوی پێشنیازکراو
 cfr-doorhanger-feature-heading = تایبەتمەندی پێشنیازکراو
-cfr-doorhanger-pintab-heading = ئەمە تاقیبکەرەوە: بازدەر جێگیربکە
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = ئێستا نا
 
 cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
     .accesskey = ز
-cfr-doorhanger-pintab-ok-button = ئەم بازدەرە جێگیر بکە
-    .accesskey = ج
 
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنی پێشنیازکراوەکان
     .accesskey = ب
@@ -61,12 +58,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>کرتەی ڕاست</b> بکە لەسەر ئەو بازدەرەی کە جـێگیری دەکەیت.
-cfr-doorhanger-pintab-step2 = <b>جێگیرکردنی بازدەر</b> هەڵبژێرە لە پێڕستەوە.
-
-cfr-doorhanger-pintab-animation-pause = وچان
-cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
-
 
 ## Firefox Accounts Message
 
@@ -92,33 +83,7 @@ cfr-whatsnew-button =
     .label = چی نوێ هەیە
     .tooltiptext = چی نوێ هەیە
 
-cfr-whatsnew-panel-header = چی نوێ هەیە
-
 cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێنەوە
-
-cfr-whatsnew-fx70-title = { -brand-short-name } ئێستا هەوڵی زیادتر دەدات بۆ پاراستنی زانیارییەکانت
-cfr-whatsnew-fx70-body = وەشانی تازە تایبەتمەندیی پاراستن لە جێپێ هەڵگرتن بەهێزتر دەکا و ئاسانکاری دەکات بۆ دانانی تێپەڕەوشەی پارێزراو بۆ هەموو ماڵپەڕێک.
-
-cfr-whatsnew-tracking-protect-title = خۆت بپارێزە لە جێپێ هەڵگرەکان
-cfr-whatsnew-tracking-protect-body = { -brand-short-name } زۆر لەو جێپێ هەڵگرە کۆمەڵایەتییانە بلۆک دەکات کە چاودێری کارەکانت دەکەن لەسەر هێڵ و لەنێوان ماڵپەڕەکاندا دەیگوازنەوە.
-cfr-whatsnew-tracking-protect-link-text = ڕاپۆرت پیشان بدە
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] شوینپێ هەڵگر بلۆک کرا
-       *[other] شوینپێ هەڵگر بلۆک کرا
-    }
-cfr-whatsnew-tracking-blocked-subtitle = لە { DATETIME($earliestDate, month: "long", year: "numeric") }
-cfr-whatsnew-tracking-blocked-link-text = ڕاپۆرت پیشان بدە
-
-cfr-whatsnew-lockwise-backup-title = وشەی تێپەڕبوونەکانت پاڵپشت هەڵگرە.
-cfr-whatsnew-lockwise-backup-link-text = پاڵپشتی کارا بکە
-
-cfr-whatsnew-lockwise-take-title = وشەی تێپەڕبوون لەگەڵ خۆت ببە
-cfr-whatsnew-lockwise-take-link-text = داوانامە بەدەست بهێنە
 
 ## Search Bar
 
@@ -128,51 +93,19 @@ cfr-whatsnew-lockwise-take-link-text = داوانامە بەدەست بهێنە
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = زیاتر بزانە
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-header = پەنجەرەی دەرپەڕیوی بێزارکەر کەمتر پیشان بدە لە ماڵپەڕەکانەوە
-cfr-whatsnew-permission-prompt-cta = زیاتر بزانە
 
 ## Fingerprinter Counter
 
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = پەنجە مۆرەکان
-
 ## Bookmark Sync
-
-cfr-doorhanger-sync-bookmarks-header = ئەم دڵخوازە لەم مۆبایەلەکەت بەدەستبهێنە
-cfr-doorhanger-sync-bookmarks-ok-button = کارپێکردنی { -sync-brand-short-name }
-    .accesskey = T
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = جارێکی تر وشەی تێپەڕبوون لەدەست مەدە
-cfr-doorhanger-sync-logins-ok-button = کارپێکردنی { -sync-brand-short-name }
-    .accesskey = T
-
 ## Send Tab
-
-cfr-doorhanger-send-tab-header = ئەمە بخوێنەوە بەدەم ڕێوە
-cfr-doorhanger-send-tab-recipe-header = ئەم شۆربایە ببە بۆ چێشتخانە
-cfr-doorhanger-send-tab-ok-button = ناردنی بازدەر تاقیبکەرەوە
-    .accesskey = T
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = بەپارێزراوی ئەم پەڕەی PDF بڵاوبکەرەوە
-cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } تاقیبکەرەوە
-    .accesskey = T
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-ok-button = پارێزگاری ببینە
-    .accesskey = P
-cfr-doorhanger-socialtracking-close-button = داخستن
-    .accesskey = C
-cfr-doorhanger-socialtracking-dont-show-again = پەیامی لەم شێوەیەم دووبارە پیشان مەدەرەوە
-    .accesskey = پ
 
 ## Enhanced Tracking Protection Milestones
 
@@ -184,15 +117,10 @@ cfr-doorhanger-milestone-ok-button = هەمووی ببینە
 
 ## Lockwise message
 
-cfr-whatsnew-lockwise-header = بە ئاسانی وشەی تێپەڕبوونی پارێزراو درووست بکە
-cfr-whatsnew-lockwise-icon-alt = وێنۆچکەی { -lockwise-brand-short-name }
-
 ## Vulnerable Passwords message
 
 
 ## Picture-in-Picture fullscreen message
-
-cfr-whatsnew-pip-fullscreen-icon-alt = وێنۆچکەی وێنە-لەناو-وێنە
 
 ## Protections Dashboard message
 
@@ -233,3 +161,10 @@ cfr-doorhanger-video-support-body = ڤیدیۆکان لەوانەیە لەم م�
 cfr-doorhanger-video-support-header = { -brand-short-name } نوێبکەرەوە بۆ پێکردنی ڤیدیۆ
 cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
     .accesskey = ئ
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+

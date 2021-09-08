@@ -5,31 +5,9 @@
 places-open =
     .label = کردنەوە
     .accesskey = O
-places-open-tab =
-    .label =  کردنەوەی بازدەری نوێ
-    .accesskey = w
 places-open-all-in-tabs =
     .label = هەمووی لە ناو بازدەرەکان بکەرەوە
     .accesskey = O
-places-open-window =
-    .label = لە پەنجەرەیەکی نوێ بیکەرەوە
-    .accesskey = N
-places-open-private-window =
-    .label = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
-    .accesskey = P
-
-places-new-bookmark =
-    .label = دڵخوازی نوێ...
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = بوخچەی نوێ...
-    .accesskey = F
-places-new-folder =
-    .label = بوخچەی نوێ...
-    .accesskey = o
-places-new-separator =
-    .label = جیاکەرەوەی نوێ
-    .accesskey = S
 
 places-view =
     .label = پیشاندان
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = بەپێی ناو
     .accesskey = r
-places-properties =
-    .label = تایبەتمەندی
-    .accesskey = i
 

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (گەڕانی تایبەتیی)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (گەڕانی تایبەتیی)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (گەڕانی تایبەتیی)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (گەڕانی تایبەتیی)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -126,10 +128,12 @@ urlbar-popup-blocked =
     .tooltiptext = تۆ دەرپڕاندنەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-autoplay-media-blocked =
     .tooltiptext = تۆ پێکردنی خۆکاری دەنگیت بۆ ئەم ماڵپەڕە بلۆک کرد.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ئەم دڵخوازە دەستکاریبکە ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -137,12 +141,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-add-to-urlbar =
-    .label = زیادی بکە بۆ توڵی ناونیشان
 page-action-manage-extension =
     .label = ڕێکخستنی پێوەکراو...
-page-action-remove-from-urlbar =
-    .label = سڕینەوە لە توڵی ناونیشان
 page-action-remove-extension =
     .label = سڕینەوەی پێوەکراو
 
@@ -160,12 +160,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = لەم کاتەدا، بگەڕێ لەگەڵ:
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = گۆڕینی ڕێکخستنەکانی گەڕان
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
+
 search-one-offs-context-open-new-tab =
     .label = گەڕان لە بازدەری نوێ
     .accesskey = گ
@@ -175,12 +173,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
     .accesskey = پ
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -205,8 +205,7 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
     .accesskey = س
-bookmark-panel-done-button =
-    .label = تەواو
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -226,15 +225,14 @@ identity-passive-loaded = بەشێک لەم پەڕەیە پارێزراو نیە
 identity-active-loaded = تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.
 identity-weak-encryption = ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.
 identity-insecure-login-forms = چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.
-identity-permissions =
-    .value = ڕێگەپێدانەکان
+
 identity-https-only-connection-upgraded = (بەرزکرایەوە بۆ https)
 identity-https-only-dropdown-on =
     .label = کارا
 identity-https-only-dropdown-off =
     .label = ناکارا
+
 identity-permissions-reload-hint = لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.
-identity-permissions-empty = هیچ دەسەڵاتێکی تایبەتت نەداوە بەم پەڕەیە.
 identity-clear-site-data =
     .label = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
 identity-connection-not-secure-security-view = تۆ بە پارێزراوی نەبەستراوی بەم ماڵپەڕەوە.
@@ -278,19 +276,7 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = کامێرا بۆ بڵاوکردنەوە
-    .accesskey = ک
-popup-select-microphone =
-    .value = مایکرۆفۆن بۆ بڵاوکردنەوە
-    .accesskey = م
 popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.
-popup-screen-sharing-not-now =
-    .label = ئێستا نا
-    .accesskey = ئ
-popup-screen-sharing-never =
-    .label = هەرگیز ڕێگە مەدە
-    .accesskey = م
 
 ## WebRTC window or screen share tab switch warning
 
@@ -302,12 +288,11 @@ sharing-warning-proceed-to-tab =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = بگەڕێ یان ناونیشان بنووسە
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = بگەڕێ یان ناونیشان بنووسە
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -316,6 +301,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = بە وێبدا بگەڕێ
     .aria-label = بگەڕێ لەگەڵ { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -324,33 +310,38 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە دڵخوازەکان
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە مێژوو
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە بازدەرەکان
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = بگەڕێ بەهۆی { $name } یان ناونیشان بنووسە
+
 urlbar-switch-to-tab =
     .value = بچۆ بۆ بازدەری:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = پێوەکراوەکان:
+
 urlbar-go-button =
     .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-page-action-button =
     .tooltiptext = کردارەکانی پەڕە
-urlbar-pocket-button =
-    .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -402,9 +393,12 @@ urlbar-result-action-search-tabs = گەڕان لە بازدەرەکان
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ئێستا لە پڕێ شاشەکەیە
 fullscreen-warning-no-domain = بەڵگەنامە ئێستا پڕی شاشەکەیە
+
+
 fullscreen-exit-button = لە پڕاوپڕی شاشە دەرچۆ (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = لە پڕاوپڕی شاشە دەرچۆ (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -450,6 +444,7 @@ bookmarks-tools =
     .label = ئامرازەکانی دڵخوازکردن
 bookmarks-bookmark-edit-panel =
     .label = ئەم دڵخوازە دەستکاریبکە
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -486,6 +481,7 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = بەدەرهێڵ کاربکە
     .accesskey = ک
+
 toolbar-overflow-customize-button =
     .label = دڵخوازکردنی توڵامراز...
     .accesskey = C

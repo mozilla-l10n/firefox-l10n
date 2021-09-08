@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = لیست
 
-blocklist-button-cancel =
-    .label = پاشگەزبوونەوە
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = گۆڕانکارییەکان هەڵگرە
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
     .buttonaccesskeyaccept = گ

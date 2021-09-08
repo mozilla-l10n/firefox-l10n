@@ -88,9 +88,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = چۆن کار دەکات
 
-turn-on-sync = کارپێکردنی { -sync-brand-short-name }…
-    .title = بڕۆ بۆ هەڵبژاردنەکانی هاوکاتگەری
-
 monitor-title = بگەڕێ بۆ دزەپێکردنی زانیاریی
 monitor-link = چۆن کار دەکات
 monitor-header-content-signed-in = { -monitor-brand-name } ئاگادارت دەکاتەوە کاتێک زانیارییەکانت بڵاو دەکرێتەوە و یان دزەی پێدەکرێت لەو ماڵپەڕە جیهانییەکان.

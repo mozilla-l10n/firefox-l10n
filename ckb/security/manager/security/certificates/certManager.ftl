@@ -22,44 +22,7 @@ certmgr-tab-ca =
 
 certmgr-mine = تۆ بڕوانامەت لەم ڕێکخراوانە هەیە کە تۆ دەناسن
 certmgr-people = بڕوانامەت هەیە لە پەڕگە کە ئەو خەڵکانە دەناسێتەوە
-certmgr-servers = بڕوانامەت هەیە لە پەڕگە کە ئەو ڕاژانە دەناسێتەوە
 certmgr-ca = بڕوانامەت هەیە لە پەڕگە کە دەسەڵاتدارانی بڕەوانامە دەناسێتەوە
-
-certmgr-detail-general-tab-title =
-    .label = گشتی
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = وردەکاری
-    .accesskey = و
-
-certmgr-pending-label =
-    .value = لە ئێستادا بڕوانامەکان پەسەنددەکرێت...
-
-certmgr-subject-label = سەرچاوە کراوە بۆ
-
-certmgr-issuer-label = سەرچاوە کراوە لە لایەن
-
-certmgr-period-of-validity = ماوەی کارایی
-
-certmgr-fingerprints = پەنجەمۆرەکان
-
-certmgr-cert-detail =
-    .title = وردەکاری بڕوانامە
-    .buttonlabelaccept = داخستن
-    .buttonaccesskeyaccept = د
-
-certmgr-cert-detail-commonname = ناوی باوی (ن.ب)
-
-certmgr-cert-detail-org = ڕێکخراو (ڕ)
-
-certmgr-cert-detail-orgunit = یەکەی ڕێکخراوەیی (یڕ)
-
-certmgr-cert-detail-serial-number = ژمارەی زنجیرە
-
-certmgr-cert-detail-sha-256-fingerprint = پەنجەمۆری SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = پەنجەمۆری SHA1
 
 certmgr-cert-host =
     .label = خانەخوێ
@@ -76,12 +39,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = ئامێری پاراستن
 
-certmgr-begins-on = دەستپێدەکات لە
-
 certmgr-begins-label =
     .label = دەستپێدەکات لە
-
-certmgr-expires-on = بەسەردەچێت لە
 
 certmgr-expires-label =
     .label = بەسەردەچێت لە
@@ -123,18 +82,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = هاوردەکردن...
     .accesskey = و
-
-certmgr-details =
-    .value = بوارەکانی بڕوانامە
-    .accesskey = ب
-
-certmgr-fields =
-    .value = بواری نرخەکان
-    .accesskey = ن
-
-certmgr-hierarchy =
-    .value = درەختی بڕوانامەکان
-    .accesskey = د
 
 certmgr-add-exception =
     .label = هەڵاوێردی زیادبکە...
@@ -189,21 +136,6 @@ delete-user-cert-impact = ئەگەر یەکێک لە بڕوانامەکان بس
 
 ## Cert Viewer
 
-not-present =
-    .value = <بەشێک نیە لە بڕوانامە>
-
-# Cert verification
-cert-verified = ئەم بڕوانامەیە پەسەند کرا بۆ ئەم کارانە:
-
-# Add usage
-verify-ssl-client =
-    .value = یروانامەی SSL کڕیار
-
-verify-ssl-server =
-    .value = یروانامەی SSL ڕاژە
-
-verify-ssl-ca =
-    .value = دەسەڵاتی بڕوانامەی SSL
 
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (هەڵنەگیراوە )

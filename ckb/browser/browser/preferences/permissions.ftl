@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = هەموو ماڵپەڕەکان بسڕەوە
     .accesskey = e
 
-permissions-button-cancel =
-    .label = پاشگەزبوونەوە
-    .accesskey = C
-
-permissions-button-ok =
-    .label = گۆڕانکارییەکان هەڵگرە
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
     .buttonaccesskeyaccept = گ

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = هەموو ماڵپەڕەکان بسڕەوە
     .accesskey = i
 
-translation-button-close =
-    .label = داخستن
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = داخستن
     .buttonaccesskeyaccept = د

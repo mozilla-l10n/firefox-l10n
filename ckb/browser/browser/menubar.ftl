@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = دەستکاریکردن
     .accesskey = ک
-menu-edit-find-on =
-    .label = دۆزینەوە لەم پەڕەیە...
-    .accesskey = ۆ
 menu-edit-find-again =
     .label = دووبارە بگەڕێ
     .accesskey = د
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = توڵامراز
     .accesskey = ت
-menu-view-customize-toolbar =
-    .label = دڵخوازکردن…
-    .accesskey = ڵ
 menu-view-sidebar =
     .label = لاتەنیشت
     .accesskey = ل
@@ -166,9 +160,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = شێوازی پەڕەی ئاسایی
     .accesskey = س
-menu-view-charset =
-    .label = کۆدکردنی دەق
-    .accesskey = ک
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -217,10 +208,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = دڵخوازەکان
     .accesskey = د
-menu-bookmarks-show-all =
-    .label = هەموو دڵخوازەکان پیشان بدە
-menu-bookmark-this-page =
-    .label = ئەم پەرەیە دڵخواز بکە
 menu-bookmark-edit =
     .label = ئەم دڵخوازە دەستکاریبکە
 menu-bookmarks-all-tabs =
@@ -240,41 +227,18 @@ menu-tools =
 menu-tools-downloads =
     .label = داگرتنەکان
     .accesskey = د
-menu-tools-addons =
-    .label = پێوەکراوەکان
-    .accesskey = پ
-menu-tools-fxa-sign-in =
-    .label = بچۆژوورەوە بۆ { -brand-product-name }...
-    .accesskey = ب
-menu-tools-turn-on-sync =
-    .label = کارپێکردنی { -sync-brand-short-name }…
-    .accesskey = ک
 menu-tools-sync-now =
     .label = هاوکاتگەری بکە ئێستا
     .accesskey = ه
 menu-tools-fxa-re-auth =
     .label = دووبارە ببەستەوە بۆ { -brand-product-name }…
     .accesskey = ب
-menu-tools-web-developer =
-    .label = گەشەپێدەری وێب
-    .accesskey = گ
 menu-tools-page-source =
     .label = سەرچاوەی پەڕە
     .accesskey = س
 menu-tools-page-info =
     .label = زانیاری پەڕە
     .accesskey = ز
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] هەڵبژاردنەکان
-           *[other] هەڵبژاردەکان
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ه
-           *[other] ه
-        }
 menu-tools-layout-debugger =
     .label = نەخشەی هەڵەدۆزی
     .accesskey = ڵ
@@ -309,32 +273,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = یارمەتی
     .accesskey = ی
-menu-help-product =
-    .label = { -brand-shorter-name } یارمەتی
-    .accesskey = ی
-menu-help-show-tour =
-    .label = { -brand-shorter-name } گەشت
-    .accesskey = گ
-menu-help-import-from-another-browser =
-    .label = هێنان لە وێبگەڕی ترەوە...
-    .accesskey = ێ
-menu-help-keyboard-shortcuts =
-    .label = قەدبڕەکانی تەختەکلیل
-    .accesskey = ق
-menu-help-troubleshooting-info =
-    .label = زانیاری گەڕان بۆ کێشەکان
-    .accesskey = ز
 menu-help-report-site-issue =
     .label = کێشەی ماڵپەڕ بنێرە...
 menu-help-feedback-page =
     .label = ڕەخنەوپێشنیار بنێرە...
     .accesskey = ڕ
-menu-help-safe-mode-without-addons =
-    .label = دووبارە پێکردنەوە بە پێوەکراوی ناچالاکەوە...
-    .accesskey = ێ
-menu-help-safe-mode-with-addons =
-    .label = دووبارە پێکردنەوە بە پێوەکراوی چالاکەوە...
-    .accesskey = چ
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

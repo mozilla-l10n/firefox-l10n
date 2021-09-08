@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-httpsonly-insecure-title = پەیوەندی پارێزراو بەردەست نیە
-
-about-httpsonly-button-make-exception = مەترسیەکە وەردەگرم و بەردەوام بە بۆ ماڵەڕەکە
-
 about-httpsonly-explanation-question = چی دەبێتە هۆی ئەوە؟
 about-httpsonly-explanation-nosupport = زۆرکات، بەهۆی ئەوەیە کە ماڵپەڕەکە پشتگیری HTTPS ناکات.
 

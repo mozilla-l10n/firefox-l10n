@@ -25,9 +25,6 @@ options-stylesheet-autocompletion-label = تەواوکردنی خۆکاری CSS
 
 ## Screenshot section
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = وێنەی ڕووپەر لەبەربگرەوە بۆردی پاشکەوتکراوەکان (کلیپبۆرد)
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = دەنگی چرکاندن کامێرا پێبکە
 

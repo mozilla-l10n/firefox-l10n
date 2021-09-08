@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = هەمووکات
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] هەڵبژاردەکان
-       *[other] هەڵبژاردنەکان
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] بیدۆزەرەوە لە هەڵبژاردەکان
-           *[other] بیدۆزرەوە لە هەڵبژاردنەکان
-        }
-
 managed-notice = وێبگەڕەکەت بەڕێوەدەبرێت لەلایەن کۆمپانیاکەتەوە.
 
 pane-general-title = گشتی
@@ -48,10 +26,6 @@ category-search =
 pane-privacy-title = تایبەتی و پاراستن
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } پشتگیری
 addons-button-label = پێوەکراوەکان & ڕووکارەکان
@@ -81,10 +55,6 @@ restart-later = دوواتر پێبکەوە
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = پێوەکراوێک،  <img data-l10n-name="icon"/> { $name }, ماڵپەڕەکەت بەڕێوەدەبات.
-
 ## Preferences UI Search Results
 
 search-results-header = گەڕانی ئەنجامەکان
@@ -92,9 +62,6 @@ search-results-header = گەڕانی ئەنجامەکان
 ## General Section
 
 startup-header = دەستپێکردن
-
-get-started-not-logged-in = بچۆ ژوورەوە بۆ { -sync-brand-short-name }...
-get-started-configured = هەڵبژاردنەکانی { -sync-brand-short-name } بکەرەوە
 
 always-check-default =
     .label = هەموو کات چێکی ئەوە بکە کە { -brand-short-name } وێبگەڕی بنەڕەتییە
@@ -134,10 +101,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = کاتێک چەند بازدەرێک دەکەیتەوە لەوانەیە ببێتە هۆی خاو کردنەوەی { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = کاتێک بەستەرێک دەکەیتەوە لە بازدەری نوێ یەکسەر بچۆ سەری
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = بازدەر پیشان بدە لە لیستی کاری پەنجەرەکان
@@ -309,11 +272,6 @@ applications-manage-app =
     .label = وردەکارییەکانی داوانامەکان...
 applications-always-ask =
     .label = هەموو کات پرسیار بکە
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -609,10 +567,6 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = پێشنیارەکانی گەڕان لە پەنجەرەی تایبەت پیشان بدە
 
-suggestions-addressbar-settings-generic = هەڵبژاردنەکان بگۆڕە بۆ پێشنیارەکانی تووڵی ناونیشان
-
-search-one-click-header = بزوێنەری گەڕان بە یەک کرتە
-
 search-one-click-header2 = قەدبڕەکانی گەڕان
 
 search-one-click-desc = بزوێنەرێکی تری گەڕان بەکاربێنە دەربکەوێت کاتێک لە شریتی گەڕانی یان شریتی ناونیشان دەست دەکەی بە نووسین.
@@ -641,13 +595,6 @@ search-keyword-warning-engine = کلیلر وشەیەکی هەڵبژاردووە
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] بگەڕێوە بۆ هەڵبژاردەکان
-           *[other] بگەڕێوە بۆ هەڵبژاردنەکان
-        }
-
 containers-header = بازدەری لەخۆگر
 containers-add-button =
     .label = لەخۆگرێکی نوێ زیاد بکە
@@ -657,9 +604,6 @@ containers-new-tab-check =
     .label = لەخۆگر دیاریبکە بۆ هەر بازدەرێک
     .accesskey = S
 
-containers-preferences-button =
-    .label = هەڵبژاردنەکان
-
 containers-remove-button =
     .label = بیسڕەوە
 
@@ -667,10 +611,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = وێب لەگەڵ خۆت ببە
-
-sync-signedout-account-signin2 =
-    .label = بچۆ ژوورەوە بۆ { -sync-brand-short-name }...
-    .accesskey = i
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -715,10 +655,6 @@ prefs-syncing-on = هاوکاتگەری: کارایە
 
 prefs-syncing-off = هاوکاتگەری: کارانیە
 
-prefs-sync-setup =
-    .label = دروستکردن { -sync-brand-short-name }…
-    .accesskey = S
-
 prefs-sync-now =
     .labelnotsyncing = هاوکاتگەری بکە ئێستا
     .accesskeynotsyncing = N
@@ -735,11 +671,6 @@ sync-currently-syncing-logins-passwords = چوونەژوورەوە و وشەی �
 sync-currently-syncing-addresses = ناونیشانەکان
 sync-currently-syncing-creditcards = کارتی پڕکردنەوەی بانکی
 sync-currently-syncing-addons = پێوەکراوەکان
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] هەڵبژاردەکان
-       *[other] هەڵبژاردنەکان
-    }
 
 sync-change-options =
     .label = گۆڕین...
@@ -769,15 +700,6 @@ sync-engine-addresses =
     .label = ناونیشانەکان
     .tooltiptext = نانونیشانی پۆست کە پاشەکەوتت کردووە (تەنها ڕوومێز)
     .accesskey = e
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] هەڵبژاردەکان
-           *[other] هەڵبژاردنەکان
-        }
-    .tooltiptext = گشتی، تایبەتیی لەگەڵ ڕێکخستنی پاراستن کە گۆڕیوتە
-    .accesskey = ه
 
 ## The device name controls.
 
@@ -829,9 +751,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = چوونەژوورەوە پاشەکەوتکراوەکان...
     .accesskey = L
-forms-master-pw-use =
-    .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
-    .accesskey = U
 forms-primary-pw-use =
     .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
     .accesskey = ت
@@ -842,7 +761,6 @@ forms-master-pw-change =
     .label = وشەی تێپەڕبوونی سەرەکی بگۆڕە...
     .accesskey = M
 
-forms-master-pw-fips-title = تۆ ئێستا لە دۆخی FIPS دایت. FIPS پێویستە وشەی تێپەڕی سەرەکی بەتاڵ نەبێت.
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -851,12 +769,6 @@ forms-primary-pw-former-name = پێشتر ناوی وشەی تێپەڕبوونی
 forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سەرکەوتوو نەبوو
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = وشەی تێپەڕبوونی سەرەکی درووست بکە
 
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -935,10 +847,6 @@ sitedata-clear =
 sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = بەڕێوەبردنی ڕێگەپێدانەکان...
-    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -1091,8 +999,6 @@ permissions-addon-exceptions =
     .label = هەڵاوێردی...
     .accesskey = E
 
-permissions-a11y-privacy-link = زیاتر بزانە
-
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = تێبینی لەسەر تایبەتێتی
@@ -1102,8 +1008,6 @@ collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 
 addon-recommendations-link = زیاتر بزانە
-
-collection-backlogged-crash-reports-link = زیاتر بزانە
 
 ## Privacy Section - Security
 ##
@@ -1117,30 +1021,6 @@ security-enable-safe-browsing-link = زیاتر بزانە
 ## Privacy Section - Certificates
 
 certs-header = بڕوانامە
-
-certs-select-ask-option =
-    .label = هەموو کات پرسیارت لی دەکات
-    .accesskey = A
-
-space-alert-learn-more-button =
-    .label = زیاتر بزانە
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] هەڵبژاردەکان بکەرەوە
-           *[other] هەڵبژاردنەکان بکەرەوە
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ه
-           *[other] ه
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = باشە، تێگەشتم
-    .accesskey = K
 
 ## Privacy Section - HTTPS-Only
 

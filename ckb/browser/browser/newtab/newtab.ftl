@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = گەڕان
     .aria-label = گەڕان
 
-newtab-search-box-search-the-web-text = بە وێبدا بگەڕێ
-
 newtab-search-box-search-the-web-input =
     .placeholder = بە وێبدا بگەڕێ
     .title = بە وێبدا بگەڕێ

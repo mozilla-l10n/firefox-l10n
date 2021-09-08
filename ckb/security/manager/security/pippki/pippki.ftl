@@ -6,9 +6,6 @@ password-quality-meter = پێوەری بەهێزی تێپەڕە وشە
 
 ## Change Password dialog
 
-change-password-window =
-    .title = تێپەڕە وشەی سەرەکی بگۆڕە
-
 change-device-password-window =
     .title = گۆڕینی تێپەڕە وشە
 

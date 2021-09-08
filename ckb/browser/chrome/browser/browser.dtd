@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "پێڕست بکەرەوە">
-
 <!ENTITY navbarOverflow.label                "ئامرازی تر...">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "بازدەر جێگیربکە">
-<!ENTITY  unpinTab.label                     "بازدەر لابەرە">
 
 <!ENTITY  listAllTabs.label      "هەموو بازدەرەکان لیست بکە">
 
@@ -25,21 +15,12 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "پەڕگە بکەرەوە...">
 <!ENTITY printCmd.label "چاپکردن...">
 
-<!ENTITY taskManagerCmd.label "بەڕێوەبردنی تاسک (ئەرک)">
-
 <!ENTITY menubarCmd.label "شریتی پێڕست">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "ڕێدۆزی">
-<!ENTITY personalbarCmd.label "توڵامرازی دڵخوازەکان">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "دڵخوازەکان">
-<!ENTITY bookmarksToolbarItem.label "بڕگەکانی توڵامرازی دڵخوازەکان">
 
 <!ENTITY fullScreenCmd.label "پڕاوپڕ">
 
@@ -47,53 +28,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pictureInPictureHideToggle.label "هێمادانانی وێنە-لەناو-وێنە بشارەوە">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "ڕێکخستنەکانی &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "پەیوەندی بکە بە ئامێرێکی تر...">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "بچۆژوورەوە لە &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "کاراکردنی &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "خزمەتگوزارییەکانی &brandProductName;">
-<!ENTITY fxa.menu.account.label "هەژمار">
-<!ENTITY fxa.menu.settings.label "ڕێکخستنەکان">
-<!ENTITY fxa.menu.accountSettings.label "ڕێکخستنی هەژمار">
-<!ENTITY fxa.menu.manageAccount2.label "بەڕێوەبردنی هەژمار">
-<!ENTITY fxa.menu.signOut.label "بچۆ دەرەوە...">
-<!ENTITY fxa.menu.setupSync.label "پێکهێنانی &syncBrand.shortName.label;...">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ئێستا لە پڕێ شاشەکەیە">
-<!ENTITY fullscreenWarning.generic.label "بەڵگەنامە ئێستا پڕی شاشەکەیە">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "لە پڕاوپڕی شاشە دەرچۆ (ESC)">
-<!ENTITY exitDOMFullscreenMac.button "لە پڕاوپڕی شاشە دەرچۆ (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC  بۆ بەدەستهێنانەوەی جڵەوگیری.">
-<!ENTITY pointerlockWarning.generic.label "ئەم بەڵگەنامەیە جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC بۆ بەدەستهێنانەوەی جڵەوگیری.">
-
-<!ENTITY showAllBookmarks2.label "هەموو دڵخوازەکان پیشان بدە">
-<!ENTITY recentBookmarks.label "دووا دڵخوازکراو">
-<!ENTITY bookmarksToolbarChevron.tooltip "دڵخوازی زیاتر پیشان بدە">
 
 <!ENTITY printButton.label            "چاپکردن">
 <!ENTITY printButton.tooltip          "ئەم پەڕەیە چاپبکە">
@@ -106,28 +45,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "ماڵەوە">
 <!ENTITY homeButton.defaultPage.tooltip "پەڕەی سەرەکی &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "دڵخوازەکان">
-
-<!ENTITY bookmarksSubview.label             "دڵخوازەکان">
-<!ENTITY bookmarksMenuButton2.label         "پێڕستی دڵخوازەکان">
-<!ENTITY bookmarksMenuButton.other.label    "دڵخوازی تر">
-<!ENTITY bookmarksMenuButton.mobile.label   "دڵخوازەکانی مۆبایل">
-<!ENTITY viewBookmarksSidebar2.label        "لاتەنیشتی دڵخوازەکان ببینە">
-<!ENTITY hideBookmarksSidebar.label         "لاتەنیشتی دڵخوازەکان بشارەوە">
-<!ENTITY viewBookmarksToolbar.label         "توڵامرازی دڵخوازەکان ببینە">
-<!ENTITY hideBookmarksToolbar.label         "توڵامرازی دڵخوازەکان بشارەوە">
-<!ENTITY searchBookmarks.label              "گەڕان لە دڵخوازەکان">
-<!ENTITY bookmarkingTools.label             "ئامرازەکانی دڵخوازکردن">
-<!ENTITY addBookmarksMenu.label             "پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز">
-<!ENTITY removeBookmarksMenu.label          "پێڕستی دڵخوازەکان بسڕەوە لە توڵامراز">
-
 <!ENTITY historyButton.label            "مێژوو">
 
 <!ENTITY downloads.label              "داگرتنەکان">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "داگرتنەکان">
-<!ENTITY addons.label                 "پێوەکراوەکان">
 
 <!ENTITY webDeveloperMenu.label       "گەشەپێدەری وێب">
 
@@ -144,28 +67,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "مێژوو">
 
-<!ENTITY historyUndoMenu.label "دووا بازدەری داخراو">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "دووا پەنجەرەی داخراو">
-
-<!ENTITY appMenuHistory.showAll.label "هەموو مێژووی کار پیشان بدە">
-
-<!ENTITY appMenuHistory.clearRecent.label "دووا مێژووی بەکارهێنان بسڕەوە...">
-<!ENTITY appMenuHistory.restoreSession.label "دانیشتنی پێشوو بهێنەوە">
-<!ENTITY appMenuHistory.viewSidebar.label "لاتەنیشتی مێژوو پیشانبدە">
-<!ENTITY appMenuHistory.hideSidebar.label "لاتەنیشتی مێژوو بشارەوە">
-<!ENTITY appMenuHistory.recentHistory.label "دووا مێژووی کار">
-
 <!ENTITY appMenuHelp.label "یارمەتی">
-
-<!ENTITY appMenuRemoteTabs.label "بازدەرە هاوکاتییەکان">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "بازدەری کراوە نیە">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "زیاتر ببینە">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "بازدەری زیاتر لەم ئامێرەوە پیشان بدە">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -181,14 +87,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "هەـلبژاردنەکانی هاوکاتگەری بکەرەوە">
 <!ENTITY appMenuRemoteTabs.welcome.label "لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.">
 <!ENTITY appMenuRemoteTabs.unverified.label "پێویستە هەژمارەکەت بسەلمێندرێت.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "بچۆژوورەوە بۆ &syncBrand.shortName.label;...">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "کاراکردنی &syncBrand.shortName.label;...">
-<!ENTITY appMenuRemoteTabs.managedevices.label "بەڕێوەبردنی ئامێرەکان...">
-<!ENTITY appMenuRemoteTabs.sidebar.label "لاتەنیشتی بازدەرە هاوکاتیبوەکان پیشان بدە">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "لاتەنیشتی بازدەرە هاوکاتیبوەکان بشارەوە">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "پەیوەندی بکە بە ئامێرێکی تر">
-
-<!ENTITY appMenuRecentHighlights.label "نوێترین دیاریکراو">
 
 <!ENTITY customizeMenu.addToToolbar.label "زیادی بکە بۆ توڵامراز">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -198,8 +97,6 @@ this container is a toolbar. This avoids double-speaking. -->
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "سڕینەوەی لە توڵامراز">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "بڕگەی تر زیاد بکە...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -217,15 +114,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "بەستەر لەبەربگرەوە">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "پاشەکەوتی بکە لە Pocket">
-<!ENTITY pocketMenuitem.label         "لیستەی Pocket پیشان بدە">
-
-<!ENTITY emailPageCmd.label           "بەستەر بنێرە...">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -237,13 +125,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "زووم">
 
 <!ENTITY sidebarCloseButton.tooltip     "لاتەنیشت دابخە">
-
-<!ENTITY quitApplicationCmdWin2.label       "دەرچوون">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "داخستنی &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "وازهێنان">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "وازهێنانی &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -264,10 +145,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "بازدەرەکانی وێبگەڕ">
 
-<!ENTITY syncBrand.shortName.label    "هاوکاتگەری">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "شاردنەوەی خۆکار">
-
 
 <!ENTITY uiTour.infoPanel.close "داخستن">
 
@@ -275,15 +152,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "گەڕانێکی پارێزراو!">
 <!ENTITY panicButton.thankyou.buttonlabel         "سوپاس!">
 
-<!ENTITY updateAvailable.panelUI.label "نوێکاری &brandShorterName; دابگرە">
-<!ENTITY updateManual.panelUI.label "ڕوونووسێکی نوێ دابگرە لە &brandShorterName;">
-<!ENTITY updateUnsupported.panelUI.label "ناتوانیت نوێکاری زیاتر ئەنجام بدەیت">
-<!ENTITY updateRestart.panelUI.label2 "پێبکەرەوە بۆ نوێکردنەوە &brandShorterName;">
-
 <!ENTITY sendToDevice.syncNotReady.label "هاوکاتگەریکردنی ئامێرەکان...">
-
-<!ENTITY pageAction.shareUrl.label "بڵاوکردنەوە">
-<!ENTITY pageAction.shareMore.label "زیاتر...">
 
 <!ENTITY libraryButton.tooltip "مێژووی کار، دڵخوازراو پاشەکەوتکراو، و زیاتر پیشان بدە">
 

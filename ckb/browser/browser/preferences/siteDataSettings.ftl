@@ -28,14 +28,6 @@ site-data-remove-selected =
     .label = دیاریکراو بسڕەوە
     .accesskey = R
 
-site-data-button-cancel =
-    .label = پاشگەزبوونەوە
-    .accesskey = C
-
-site-data-button-save =
-    .label = گۆڕانکارییەکان هەڵگرە
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
     .buttonaccesskeyaccept = گ
