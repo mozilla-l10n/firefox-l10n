@@ -10,8 +10,8 @@ about-unloads-page-title = Rajtark wotstronić
 about-unloads-intro-1 =
     { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wotstronja,
     zo by tomu zadźěwała, zo nałoženje njedosahaceho składa dla spaduje,
-    hdyž skład, kotryž je systemej k dispoziciji, je niski. Přichodny rajtark, kotryž ma so wotstronić so
-    na zakładźe wjacorych atributow wuběra. Tuta strona pokazje, kak
+    hdyž skład, kotryž je systemej k dispoziciji, je niski. Přichodny rajtark, kotryž ma so
+    wotstronić, so na zakładźe wjacorych atributow wuběra. Tuta strona pokazuje, kak
     { -brand-short-name } prioritu rajtarkow staja a kotry rajtark so wotstroni,
     hdyž wotstronjenje rajtark so pušći.
 about-unloads-intro-2 =
