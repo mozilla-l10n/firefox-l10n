@@ -157,6 +157,15 @@ confirm-on-close-multiple-tabs =
     .label = Chiedi conferma quando si chiudono più schede
     .accesskey = d
 
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Chiedi conferma prima di uscire con { $quitKey }
+    .accesskey = u
+
 warn-on-open-many-tabs =
     .label = Avvisa quando l’apertura contemporanea di più schede potrebbe rallentare { -brand-short-name }
     .accesskey = c
