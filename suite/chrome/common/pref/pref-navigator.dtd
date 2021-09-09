@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Solo restaurar pestañas cuando las necesite">
 <!ENTITY restoreDeferred.accesskey      "o">
 
+<!ENTITY siteIcons.label                "Íconos del sitio web">
+<!ENTITY useSiteIcons.label             "Mostrar íconos del sitio web">
+<!ENTITY useSiteIcons.accesskey         "w">
+<!ENTITY useFavIcons.label              "Tratar de usar el favicon del servidor cuando la página no defina un ícono">
+<!ENTITY useFavIcons.accesskey          "T">
+
 <!ENTITY homePageIntro.label            "El botón Inicio lo llevará a este grupo de páginas:">
 <!ENTITY useCurrent.label               "Usar página actual">
 <!ENTITY useCurrent.accesskey           "U">

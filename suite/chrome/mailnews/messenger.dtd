@@ -30,7 +30,7 @@
 <!ENTITY newAccountCmd.label "Cuenta…">
 <!ENTITY newAccountCmd.accesskey "a">
 <!ENTITY openMessageFileCmd.label "Abrir archivo…">
-<!ENTITY openMessageFileCmd.accesskey "m">
+<!ENTITY openMessageFileCmd.accesskey "v">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
 <!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Guardar como">
