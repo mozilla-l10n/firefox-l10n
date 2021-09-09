@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = புகுபதிகைககளும் கடவுச்சொற்களும்
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
-
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
-
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
 fxaccounts-avatar-button =
     .title = கணக்கை நிர்வகி
@@ -44,7 +39,7 @@ login-list-sort-label-text = வரிசைப்படுத்து:
 login-list-name-option = பெயர் (அ-ஃ)
 login-list-name-reverse-option = பெயர் (ஃ-அ)
 about-logins-login-list-alerts-option = விழிப்பூட்டல்
-login-list-last-changed-option = கடைசியாக மாற்ற‌ப்பட்டது:
+login-list-last-changed-option = இறுதியாக மாற்ற‌ப்பட்டது:
 login-list-last-used-option = இறுதியாக பயன்படுத்தியது
 login-list-intro-title = உள்நுழைவுகள் ஏதுமில்லை
 login-list-intro-description = கடவுச்சொல்லை { -brand-product-name } என்பதில் சேமிக்கும் பொருட்டு, இங்கே காட்டும்
@@ -89,29 +84,22 @@ login-item-time-used = கடைசியாகப் பயனில் இர�
 ## notes are only valid for English. Please test in your respected locale.
 
 
-## Master Password notification
-
 ## Primary Password notification
 
 master-password-reload-button =
     .label = உள் நுழை
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
-
 about-logins-confirm-remove-dialog-title = இந்த உள்நுழைவை நீக்கவா?
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
 about-logins-confirm-remove-dialog-confirm-button = நீக்கு
-
 about-logins-confirm-export-dialog-title = உள்நுழைவுகளையும் கடவுச்சொற்களையும் ஏற்றுமதி செய்
 about-logins-confirm-export-dialog-confirm-button = ஏற்றுமதி...
-
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி
