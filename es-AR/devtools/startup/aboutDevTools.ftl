@@ -13,7 +13,6 @@ enable-common-message = Las Herramientas para desarrolladores de Firefox están 
 enable-learn-more-link = Conocer más sobre las herramientas de desarrollador
 enable-enable-button = Habilitar herramientas de desarrollador
 enable-close-button = Cerrar esta pestaña
-
 welcome-title = ¡Bienvenido a las herramientas de desarrollador de Firefox!
 newsletter-title = Boletín de Desarrolladores de Mozilla
 newsletter-message = Obtenga noticias, trucos y recursos de desarrollador directamente en su casilla de correo.
@@ -22,12 +21,10 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Acepto que Mozilla maneje mis datos tal como explica en la <a data-l10n-name="privacy-policy">Política de privacidad</a>.
 newsletter-subscribe-button = Suscribirse
 newsletter-thanks-title = ¡Gracias!
-newsletter-thanks-message = Si todavía no confirmó la suscripción a un boletín relacionado con Mozilla, puede que resulte necesario hacerlo. Por favor verifique si le llegó un correo electrónico nuestro a la Bandeja de entrada o si está en el filtro de Correo basura.
-
+newsletter-thanks-message = Si todavía no confirmó la suscripción a un boletín relacionado con Mozilla, puede que resulte necesario hacerlo. Verifique si le llegó un correo electrónico nuestro a la bandeja de entrada o si está en el filtro de correo basura.
 footer-title = Firefox Developer Edition
 footer-message = ¿Busca algo más que herramientas para desarrolladores? Compruebe que el navegador Firefox es construido específicamente para los desarrolladores y los procesos de trabajo modernos.
 footer-learn-more-link = Conocer más
-
 features-learn-more = Conocer más
 features-inspector-title = Inspector
 features-inspector-desc = Inspeccionar y refinar código para construir diseños perfectos. <a data-l10n-name="learn-more">{ features-learn-more }</a>
