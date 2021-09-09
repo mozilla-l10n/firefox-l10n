@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Tembiapoite ñe’ẽporãpyre
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mba’ére ahechahína kóva
-
 cfr-doorhanger-extension-cancel-button = Ko’ág̃a nahániri
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Embojuaju ko’ág̃a
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Eñangareko je’eporã ñemboheko rehe
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Ani ehechauka ko je’eporã
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Kuaave
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Hese { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Je’ete
 cfr-doorhanger-extension-notification2 = Je’eporã
     .tooltiptext = Jepysokue je’eporã
     .a11y-announcement = Jepysokue je’eporã eipurukuaáva
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Je’eporã
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } puruhára
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Embojuehe nde rechaukaha eimeha guive.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Eikuaave
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Peteĩchagua pyahu:
-
 cfr-whatsnew-button =
     .label = Oĩpa mba’e pyahu
     .tooltiptext = Oĩpa mba’e pyahu
-
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -123,20 +93,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Mboty
     .accesskey = C
 
@@ -172,6 +128,7 @@ cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Eipurúvaicha peteĩ Wi-Fi opavaveguáva
+spotlight-public-wifi-vpn-body = Eñomi hag̃ua ne rendaite ha kundahára rembiapo, eipurukuaa red privada virtual. Ñepytyvõta eime hag̃ua ñemo’ãme eikundahakuévo tenda opavave oipurukuaáva ikatúva pepoatãguejyha ha taperyva’uha.
 spotlight-public-wifi-vpn-primary-button = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ani ko’ág̃a

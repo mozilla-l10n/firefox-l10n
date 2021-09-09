@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Eike Ovetã Ñemigua Pyahúpe
     .accesskey = P
-
 places-add-bookmark =
     .label = Embojuaju techaukaha…
     .accesskey = B
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Embojuaju mopa’ũha
     .accesskey = S
-
 places-view =
     .label = Hecha
     .accesskey = w
@@ -52,12 +50,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Arange ha tenda rupi
     .accesskey = t
-
 places-history-search =
     .placeholder = Tembiasakuépe jeheka
 places-bookmarks-search =
     .placeholder = Techaukahápe jeheka
-
 places-delete-domain-data =
     .label = Ko Ñanduti Rendágui Tesarái
     .accesskey = T
@@ -82,7 +78,6 @@ places-remove-folder =
            *[other] Emboguete ñongatuhakuéra
         }
     .accesskey = m
-
 places-edit-folder2 =
     .label = Embosako’i ñongatuha…
     .accesskey = i
@@ -94,18 +89,15 @@ places-delete-folder =
            *[other] Emboguete ñongatuhakuéra
         }
     .accesskey = D
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Techaukaha ñangarekopyre
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Marandurenda’i
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ambuekuéra Techaukaha
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -116,7 +108,6 @@ places-remove-bookmark =
            *[other] Emboguete techaukahakuéra
         }
     .accesskey = e
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -127,11 +118,11 @@ places-delete-bookmark =
            *[other] Emboguete techaukahakuéra
         }
     .accesskey = D
-
 places-manage-bookmarks =
     .label = Eñangareko Techaukaháre
     .accesskey = M
-
 places-forget-about-this-site-confirmation-title = Eñembyesarái ko tendágui
-
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ko tembiapo omboguepáta umi mba’ekuaarã ojokupytýva { $hostOrBaseDomain } ndive oĩhápe tembiasakue, ñe’ẽñemi, kookie, kache ha tetepy guerohoryvéva. ¿Eku’eseve añetehápe?
 places-forget-about-this-site-forget = Tesarái
