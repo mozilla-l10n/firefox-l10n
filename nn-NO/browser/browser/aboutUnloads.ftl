@@ -10,3 +10,6 @@ about-unloads-column-priority = Prioritet
 about-unloads-column-host = Vert
 about-unloads-column-memory = Minne
     .title = Utrekna bruk av minne i fane
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB

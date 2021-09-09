@@ -8,6 +8,7 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = Fullføre installeringa av { -brand-short-name }?
 prompt-to-install-yes-button = Installer
 prompt-to-install-no-button = Ikkje installer
 
