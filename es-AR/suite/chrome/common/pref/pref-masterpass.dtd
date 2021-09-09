@@ -9,7 +9,9 @@
 <!ENTITY  changepassword.button                  "Cambiar la contraseña…">
 <!ENTITY  changepassword.accesskey               "C">
 
-<!ENTITY  resetpassword.caption                  "Reiniciar contraseña maestra">
-<!ENTITY  resetpassword.text                     "Si reinicia su contraseña maestra, todas su contraseñas de páginas y correo, datos de formularios, certificados personales y claves privadas se perderán.">
-<!ENTITY  resetpassword.button                   "Reiniciar contraseña">
+<!ENTITY  resetpassword.caption                  "Restablecer contraseña maestra">
+<!ENTITY  resetpassword.text                     "Si restablece su contraseña maestra, todas sus contraseñas de páginas y correo, datos de formularios, certificados personales y claves privadas se perderán.">
+<!ENTITY  resetpassword.button                   "Restablecer contraseña">
 <!ENTITY  resetpassword.accesskey                "R">
+<!ENTITY  resetpassword2.button                  "Restablecer contraseña">
+<!ENTITY  resetpassword2.accesskey               "t">

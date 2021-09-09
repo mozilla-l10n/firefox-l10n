@@ -16,6 +16,13 @@
 <!ENTITY setDefaultMail.accesskey         "r">
 <!ENTITY setDefaultNews.label             "Noticias">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Canales">
+<!ENTITY setDefaultFeed.accesskey         "C">
+<!ENTITY useInternalSettings.description  "Use correo y noticias de &brandShortName; al abrir enlaces del navegador para:">
+<!ENTITY useInternalMail.label            "Correo (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Noticias (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "e">
 
 <!ENTITY printing.label                   "Imprimiendo">
 <!ENTITY useNativePrintDialog.label       "Usar el cuadro de diálogo de impresión nativo (donde sea compatible)">
