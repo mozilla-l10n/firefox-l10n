@@ -137,21 +137,21 @@ because displayed names don't have the comma in between. -->
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Επιλέξτε στήλες προς εμφάνιση">
-<!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής στο ευρετήριο">
+<!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής ευρετηρίου">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
 <!ENTITY editPropertiesButton.tooltip                   "Επεξεργασία επιλεγμένου στοιχείου">
 <!ENTITY editAbPropertiesButton.tooltip                 "Επεξεργασία ιδιοτήτων επιλεγμένου ευρετηρίου">
 <!ENTITY editContactPropertiesButton.tooltip            "Επεξεργασία επιλεγμένης επαφής">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Επεξεργασία επιλεγμένης λίστας αλληλογραφίας">
-<!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
-<!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
-<!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">
+<!ENTITY newmsgButton.tooltip                           "Αποστολή μηνύματος email">
+<!ENTITY newIM.tooltip                                  "Αποστολή άμεσου μηνύματος ή συνομιλία">
+<!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου στοιχείου">
 <!ENTITY removeButton.tooltip                           "Αφαίρεση του επιλεγμένου ευρετηρίου">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Όνομα ή email">
 <!ENTITY SearchNameOrEmail.accesskey                    "ν">
-<!ENTITY advancedButton.tooltip                         "Προχωρημένη αναζήτηση διεύθυνσης">
+<!ENTITY advancedButton.tooltip                         "Σύνθετη αναζήτηση διεύθυνσης">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
 
@@ -164,7 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Όνομα συνομιλίας">
 <!ENTITY ChatName.accesskey                             "σ">
-<!ENTITY Company.label                                  "Εταιρεία">
+<!ENTITY Company.label                                  "Οργανισμός">
 <!ENTITY Company.accesskey                              "ρ">
 <!ENTITY NickName.label                                 "Ψευδώνυμο">
 <!ENTITY NickName.accesskey                             "δ">
@@ -204,7 +204,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Διευθύνσεις">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Λήψη χάρτη">
-<!ENTITY mapIt.tooltip                                  "Εμφάνιση ενός χάρτη αυτής της διεύθυνσης από το διαδίκτυο">
+<!ENTITY mapIt.tooltip                                  "Προβολή χάρτη για αυτήν τη διεύθυνση από το διαδίκτυο">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
