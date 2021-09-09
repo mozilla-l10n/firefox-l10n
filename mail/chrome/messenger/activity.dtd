@@ -8,10 +8,10 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "500">
 <!ENTITY window.height                    "310">
 
-<!ENTITY activity.title                  "Διαχείριση δραστηριότητας">
+<!ENTITY activity.title                  "Διαχείριση δραστηριοτήτων">
 
 <!ENTITY cmd.pause.label                  "Παύση">
-<!ENTITY cmd.pause.accesskey              "σ">
+<!ENTITY cmd.pause.accesskey              "Π">
 <!ENTITY cmd.resume.label                 "Συνέχεια">
 <!ENTITY cmd.resume.accesskey             "ν">
 <!ENTITY cmd.cancel.label                 "Ακύρωση">
