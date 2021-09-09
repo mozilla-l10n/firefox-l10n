@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = Rejtarik wótwónoźeś
+about-unloads-intro-1 =
+    { -brand-short-name } ma funkciju, kótaraž rejtariki awtomatiski wótwónoźuju,
+    aby tomu zajźowała, až seš nałoženje njedosegajuceho składa dla wowalujo,
+    gaž skład, kótaryž jo systemoju k dispoziciji, jo niski. Pśiducy rejtarik, kótaryž ma se
+    wótwónoźeś, se na zakłaźe někotarych atributow wuběra. Toś ten bok pokazujo, kak
+    { -brand-short-name } prioritu rejtarikow staja a kótary rejtarik se wótwónoźijo,
+    haž wótwónoźenje rejtarki se zapušćijo.
 about-unloads-last-updated = Slědna aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Wótwónoźeś
     .title = Rejtarik z nejwušeju prioritu wótwónoźeś
