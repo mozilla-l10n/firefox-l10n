@@ -17,9 +17,10 @@ about-unloads-intro-1 =
 about-unloads-intro-2 =
     Las pestañas existentes se muestran en el siguiente cuadro en el mismo orden en que las usa
     { -brand-short-name } para elegir la siguiente pestaña para descargar. Los ID de proceso
-    se muestran en <strong> negrita </strong> cuando alojan la parte superior del marco de la pestaña y en <em> cursiva </em> cuando el proceso se comparte entre diferentes
-    pestañas. Puede activar la descarga de pestañas de manera manual haciendo clic en el botón <em> Descargar </em>
-    boton de abajo.
+    se muestran en <strong>negrita</strong> cuando alojan el marco superior
+    de la pestaña y en <em>itálica</em> cuando el proceso se comparte entre diferentes
+    pestañas. Puede activar la descarga de pestañas de manera manual haciendo clic en el botón <em>Descargar</em>
+    aquí debajo.
 about-unloads-last-updated = Última actualización: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Descargar
     .title = Descargar la pestaña con la mayor prioridad
@@ -38,4 +39,4 @@ about-unloads-column-processes = IDs de proceso
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
-    .title = { NUMBER($interval, maxFractionalUnits: 2) } MB
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
