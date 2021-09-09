@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-last-updated = Laatst bijgewerkt: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Prioriteit
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Laatst benaderd
