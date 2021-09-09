@@ -6,15 +6,15 @@
 
 <!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός μηνυμάτων">
 <!ENTITY MsgSelect.label "Στοιχεία για χρήση εκτός σύνδεσης">
-<!ENTITY MsgSyncDesc.label "Αν έχετε ήδη επιλέξει φακέλους αλληλογραφίας και συζητήσεων για εργασία χωρίς σύνδεση, μπορείτε να κάνετε λήψη ή και να τους συγχρονίσετε τώρα.Αλλιώς χρησιμοποιήστε το κουμπί &quot;Επιλογή&quot; για να επιλέξετε φακέλους. ">
+<!ENTITY MsgSyncDesc.label "Αν έχετε ήδη επιλέξει φακέλους ταχυδρομείων ή ομάδες συζητήσεων για εργασία εκτός σύνδεσης, μπορείτε να κάνετε λήψη ή/και συγχρονισμό τους τώρα. Διαφορετικά, χρησιμοποιήστε το κουμπί «Επιλογή» για να επιλέξτε τους φακέλους ταχυδρομείων και τις ομάδες συζητήσεων για χρήση εκτός σύνδεσης.">
 <!ENTITY MsgSyncDirections.label "Λήψη ή/και συγχρονισμός των ακόλουθων:">
 <!ENTITY syncTypeMail.label "Μηνύματα email">
 <!ENTITY syncTypeMail.accesskey "Μ">
-<!ENTITY syncTypeNews.label "Μηνύματα ομάδας συζητήσεων">
+<!ENTITY syncTypeNews.label "Μηνύματα ομάδων συζητήσεων">
 <!ENTITY syncTypeNews.accesskey "ζ">
 <!ENTITY sendMessage.label "Αποστολή μη απεσταλμένων μηνυμάτων">
 <!ENTITY sendMessage.accesskey "μ">
-<!ENTITY workOffline.label "Να γίνει αποσύνδεση όταν ολοκληρωθεί η λήψη ή/και ο συγχρονισμός ολοκληρωθεί">
+<!ENTITY workOffline.label "Εργασία εκτός σύνδεσης όταν ολοκληρωθεί η λήψη ή/και ο συγχρονισμός">
 <!ENTITY workOffline.accesskey "γ">
 <!ENTITY selectButton.label "Επιλογή…">
 <!ENTITY selectButton.accesskey "λ">
