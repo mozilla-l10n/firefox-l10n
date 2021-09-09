@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Sairch
     .aria-label = Sairch
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Sairch wi { $engine } or inpit address
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Sairch or inpit address
     .title = Sairch or inpit address
     .aria-label = Sairch or inpit address
-
 newtab-search-box-search-the-web-input =
     .placeholder = Sairch the Wab
     .title = Sairch the Wab
     .aria-label = Sairch the Wab
-
 newtab-search-box-text = Sairch the wab
 newtab-search-box-input =
     .placeholder = Sairch the wab
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Edit Shortcut
 newtab-topsites-title-label = Title
 newtab-topsites-title-input =
     .placeholder = Inpit a title
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Type or paste a URL
 newtab-topsites-url-validation = Suithfest URL needit
-
 newtab-topsites-image-url-label = Custom Image URL
 newtab-topsites-use-image-link = Yaise an image o yer ain...
 newtab-topsites-image-validation = Image couldnae load. Try anither URL.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = Sponsored
 newtab-menu-section-tooltip =
     .title = Open menu
     .aria-label = Open menu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Remuive
     .aria-label = Remuive
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,12 +161,10 @@ newtab-label-removed-bookmark = Buikmerk remuived
 newtab-label-recommended = Trendin
 newtab-label-saved = Saved tae { -pocket-brand-name }
 newtab-label-download = Doonloadit
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsored
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -211,8 +202,7 @@ newtab-section-header-pocket = Recommendit by { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Stairt stravaigin, and we'll shaw some o the smashin airticles, videos, and ither pages ye've recently veesitit or buikmerkt here.
-
+newtab-empty-section-highlights = Stert stravaigin, and we'll shaw some o the smashin airticles, videos, and ither pages ye've recently veesitit or buikmerkt here.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
