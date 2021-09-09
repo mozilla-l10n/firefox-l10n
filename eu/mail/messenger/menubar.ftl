@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -12,7 +10,6 @@
 menu-tools-preferences =
     .label = Hobespenak
     .accesskey = H
-
 menu-addons-and-themes =
     .label = Gehigarriak eta itxurak
     .accesskey = G
@@ -22,11 +19,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Arazoak konpontzeko modua…
     .accesskey = A
-
 menu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = i
@@ -57,18 +52,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Dentsitatea
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Trinkoa
     .accesskey = T
-
 mail-uidensity-normal =
     .label = Arrunta
     .accesskey = A
-
 mail-uidensity-touch =
     .label = Ukipena
     .accesskey = U
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Berri-talde kontua…
+    .accesskey = B

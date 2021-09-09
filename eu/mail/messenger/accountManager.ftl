@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = { -brand-short-name } hobespenak
-
 open-addons-sidebar-button = Gehigarriak eta itxurak
-
+account-action-add-newsgroup-account =
+    .label = Gehitu berri-talde kontua…
+    .accesskey = G
