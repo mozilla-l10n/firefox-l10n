@@ -130,6 +130,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Ripristina la sessione precedente
     .accesskey = R
+startup-restore-windows-and-tabs =
+    .label = Apri finestre e schede esistenti
+    .accesskey = r
 
 startup-restore-warn-on-quit =
     .label = Avvisa quando si chiude il browser
@@ -149,6 +152,9 @@ open-new-link-as-tabs =
 
 warn-on-close-multiple-tabs =
     .label = Avvisa quando si chiudono più schede
+    .accesskey = d
+confirm-on-close-multiple-tabs =
+    .label = Chiedi conferma quando si chiudono più schede
     .accesskey = d
 
 warn-on-open-many-tabs =
