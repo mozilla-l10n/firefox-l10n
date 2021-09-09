@@ -14,6 +14,13 @@ about-unloads-intro-1 =
     wótwónoźeś, se na zakłaźe někotarych atributow wuběra. Toś ten bok pokazujo, kak
     { -brand-short-name } prioritu rejtarikow staja a kótary rejtarik se wótwónoźijo,
     haž wótwónoźenje rejtarki se zapušćijo.
+about-unloads-intro-2 =
+    Eksistěrujuce rejtariki se w tabeli dołojce w tom samskem pórěźe pokazuju, kótaryž
+    { -brand-short-name } wužywa, aby pśiducy rejtarik wótwónoźeł. Procesowe ID se
+    <strong>tucnje</strong> pokazuju, gaž nejwušy wobceŕk góspóduju
+    a <em>kursiwnje</em>, gaž proces se mjazy rozdźělnymi rejtarikami źěli.
+    Móžośo rejtarik manuelnje zapušćiś, gaž na tłocašk <em>Wótwónoźeś</em>
+    dołojce klikaśo.
 about-unloads-last-updated = Slědna aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Wótwónoźeś
     .title = Rejtarik z nejwušeju prioritu wótwónoźeś
