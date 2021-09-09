@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱲ ᱥᱟᱵᱟᱫ ᱠᱚ
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = ᱞᱚᱜᱤᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-
 create-login-button = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
-
 fxaccounts-sign-in-text = ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱧᱟᱢ ᱛᱟᱢ
 fxaccounts-sign-in-sync-button = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
 fxaccounts-avatar-button =
@@ -62,7 +57,6 @@ about-logins-list-item-breach-icon =
     .title = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ
 about-logins-list-item-vulnerable-password-icon =
     .title = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ
-
 about-logins-list-section-breach = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ
 about-logins-list-section-vulnerable = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱠᱚ
 about-logins-list-section-nothing = ᱪᱮᱫ ᱟᱹᱞᱟᱹᱴ ᱵᱟᱹᱱᱩᱜᱼᱟ
@@ -113,17 +107,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱱᱚᱠᱚᱞ ᱢᱮ
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
@@ -135,24 +124,32 @@ master-password-reload-button =
     .label = ᱵᱚᱞᱚᱱ ᱢᱮ
     .accesskey = ᱵ
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 confirmation-dialog-dismiss-button =
     .title = ᱵᱟᱹᱰᱨᱟᱹ
-
 about-logins-confirm-remove-dialog-title = ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ?
 confirm-delete-dialog-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 about-logins-confirm-remove-dialog-confirm-button = ᱚᱪᱚᱜᱽ ᱢᱮ
-
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ᱚᱪᱚᱜᱽ
+        [one] ᱚᱪᱚᱜᱽ ᱢᱮ
+        [two] ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+       *[other] ᱡᱷᱚᱛᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+        [one] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+        [two] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+       *[other] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+    }
 about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
-
 about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 about-logins-alert-import-message = ᱠᱷᱟᱴᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-
 confirm-discard-changes-dialog-title = ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱟᱢ ᱢᱮ?
 confirm-discard-changes-dialog-message = ᱡᱷᱚᱛᱚ ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱟᱫᱚᱜ ᱛᱟᱢᱟ ᱾
 confirm-discard-changes-dialog-confirm-button = ᱵᱟᱹᱨᱜᱤᱞ
@@ -218,15 +215,12 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
-
 about-logins-import-dialog-done = ᱦᱩᱭᱮᱱᱟ
-
 about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
 about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
-
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 about-logins-import-report-row-description-error = ᱵᱷᱩᱞ: ᱟᱫ ᱡᱟᱭᱜᱟ
 

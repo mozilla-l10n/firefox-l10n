@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ᱥᱮᱞᱮᱫᱽ ᱢᱮ ᱴᱮᱜᱽ ᱠᱚ
-
 pocket-panel-saved-page-removed = ᱥᱟᱦᱴᱟ ᱚᱪᱚᱜ ᱮᱱᱟ
 pocket-panel-saved-page-saved = { -pocket-brand-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱮᱱᱟ
 pocket-panel-saved-processing-remove = ᱥᱟᱦᱴᱟ ᱚᱪᱚᱜᱚᱜ ᱠᱟᱱᱟ…
@@ -32,3 +31,4 @@ pocket-panel-signup-signup-email = ᱤᱢᱮᱞ ᱛᱮ ᱥᱟᱭᱤᱱ ᱚᱯ �
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = ᱤᱧᱟᱜ ᱞᱤᱥᱴᱭ

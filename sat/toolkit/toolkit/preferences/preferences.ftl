@@ -4,19 +4,18 @@
 
 password-not-set =
     .value = (ᱵᱟᱝ ᱥᱟᱡᱟᱣ)
-
-pw-change-success-title = दानाङ साबाद बोदोल रा़स लेकाते हुयेना.
-pw-change-failed-title = दानाङ साबाद बोदोल डिगा़वेना.
+pw-change-success-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱨᱟᱹᱥ ᱞᱮᱠᱟᱛᱮ ᱦᱩᱭᱮᱱᱟ ᱾
+pw-change-failed-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
 pw-remove-button =
-    .label = ओचोक्
-
-set-password-old-password = नितोगाक् दानाङ साबाद :
-set-password-new-password = नावा दानाङ साबाद आदेर:
-set-password-reenter-password = दानाङ साबाद दोहड़ा आदेर
-set-password-meter = दानाङ साबाद गुन मिटार
-set-password-meter-loading = लादेयेत् आ
-
+    .label = ᱚᱪᱚᱜᱽ
+primary-password-dialog =
+    .title = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
+set-password-old-password = ᱱᱤᱛᱚᱜᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ:
+set-password-new-password = ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ:
+set-password-reenter-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱩᱦᱲᱟᱹ ᱟᱫᱮᱨ
+set-password-meter = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱜᱩᱱ ᱱᱤᱴᱚᱨ
+set-password-meter-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ
 remove-info =
-    .value = आम माड़ाङ सेत् चालाक् ला़गित् आमाक् दानाङ साबाद आदेर होचो ला़कती:
+    .value = ᱟᱢ ᱢᱟᱲᱟᱝ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱦᱚᱪᱚ ᱞᱟᱹᱠᱛᱤ:
 remove-password-old-password =
-    .value = नितोगाक् दानाङ साबाद :
+    .value = ᱱᱤᱛᱚᱜᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ:
