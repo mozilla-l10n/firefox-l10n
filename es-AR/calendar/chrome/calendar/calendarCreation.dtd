@@ -43,9 +43,9 @@
 <!ENTITY location.placeholder "URL o nombre del servidor del servidor del calendario">
 
 <!ENTITY network.nocredentials.label "Esta ubicación no requiere credenciales">
-<!ENTITY network.loading.description "Por favor espere mientras sus calendarios se descubren.">
-<!ENTITY network.notfound.description "No se pudo encontrar calendarios en esta ubicación. Por favor revise su configuración.">
-<!ENTITY network.authfail.description "Las credenciales que ingresó no fueron aceptadas. Por favor revise su configuración.">
+<!ENTITY network.loading.description "Espere mientras sus calendarios se descubren.">
+<!ENTITY network.notfound.description "No se pudieron encontrar calendarios en esta ubicación. Revise su configuración.">
+<!ENTITY network.authfail.description "Las credenciales que ingresó no fueron aceptadas. Revise su configuración.">
 
-<!ENTITY network.subscribe.single.description "Por favor seleccione los calendarios y listas de tareas a las que desee suscribirse.">
-<!ENTITY network.subscribe.multiple.description "Para esta ubicación están disponibles muchos tipos de calendarios. Por favor seleccione el tipo de calendario, luego marque los calendarios a los que le gustaría suscribirse.">
+<!ENTITY network.subscribe.single.description "Seleccione los calendarios a los que desee suscribirse.">
+<!ENTITY network.subscribe.multiple.description "Para esta ubicación están disponibles muchos tipos de calendarios. Seleccione el tipo de calendario y luego marque los calendarios a los que le gustaría suscribirse.">
