@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Tilrådd funksjon
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kvifor ser eg dette
-
 cfr-doorhanger-extension-cancel-button = Ikkje no
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Legg til no
     .accesskey = e
-
 cfr-doorhanger-extension-manage-settings-button = Handter tilrådingsinnstillingar
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Ikkje vis meg denne tilrådinga
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Les meir
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tilråding
 cfr-doorhanger-extension-notification2 = Tilråding
     .tooltiptext = Utvidingstilråding
     .a11y-announcement = Utvidingstilråding tilgjengeleg
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Tilråding
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brukarar
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerka dine overalt.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Les meir
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funksjon:
-
 cfr-whatsnew-button =
     .label = Kva er nytt
     .tooltiptext = Kva er nytt
-
 cfr-whatsnew-release-notes-link-text = Les versjonsnotatet
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -123,20 +93,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = s
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Lat att
     .accesskey = L
 
@@ -171,5 +127,8 @@ cfr-doorhanger-video-support-primary-button = Oppdater no
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Det ser ut til at du brukar offentleg Wi-Fi
+spotlight-public-wifi-vpn-primary-button = Hald deg privat med { -mozilla-vpn-brand-name }
+    .accesskey = H
 spotlight-public-wifi-vpn-link = Ikkje no
     .accesskey = I
