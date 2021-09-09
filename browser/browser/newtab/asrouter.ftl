@@ -129,6 +129,7 @@ cfr-doorhanger-video-support-primary-button = No bywurkje
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = It liket derop dat jo iepenbiere wifi brûke
+spotlight-public-wifi-vpn-body = Oerwaach in Virtual Private Network om jo lokaasje en sneupaktiviteit te ferbergjen. It helpt jo beskerme te bliuwen wylst it navigearjen op iepenbiere plakken, lykas flechthavens en kofjebars.
 spotlight-public-wifi-vpn-primary-button = Bliuw privee mei { -mozilla-vpn-brand-name }
     .accesskey = B
 spotlight-public-wifi-vpn-link = No net
