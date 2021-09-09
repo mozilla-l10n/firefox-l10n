@@ -18,5 +18,5 @@
 <!ENTITY showData.label               "Εμφάνιση τοποθεσίας δεδομένων">
 <!ENTITY showData.accesskey           "Ε">
 <!ENTITY progressPending              "Αφαίρεση επιλεγμένων δεδομένων…">
-<!ENTITY progressSuccess              "Η αφαίρεση έγινε με επιτυχία.">
-<!ENTITY progressFailure              "Αποτυχία αφαίρεσης.">
+<!ENTITY progressSuccess              "Η αφαίρεση ολοκληρώθηκε.">
+<!ENTITY progressFailure              "Η αφαίρεση απέτυχε.">
