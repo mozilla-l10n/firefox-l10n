@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Stravaigin)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (Private Stravaigin)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (Private Stravaigin)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (Private Stravaigin)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Type less, find mair: Sairch { $engineName } richt fae yer address baur.
 urlbar-search-tips-redirect-2 = Stert yer sairch in the address baur fur tae see suggestions fae { $engineName } and yer wab-stravaigin historie.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Select this shortcut tae airt-oot whit ye're efter faster.
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Ye've blockit MIDI ingang fur this wabsite.
 urlbar-install-blocked =
     .tooltiptext = Ye've blockit eik-on instawment fur this wabsite.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this buikmerk ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = This time, sairch wi:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Chynge sairch settins
-
 search-one-offs-context-open-new-tab =
     .label = Sairch in New Tab
     .accesskey = T
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Set as Staunart Airt-oot Engine fur Private Windaes
     .accesskey = S
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -253,7 +244,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Save
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,7 +271,6 @@ identity-passive-loaded = Pairt o this page arenae siccar (sic as images).
 identity-active-loaded = Ye've disabled bieldin on this page.
 identity-weak-encryption = The encryption on this page is stintit.
 identity-insecure-login-forms = Logins inpit on this page micht be compromised.
-
 identity-https-only-connection-upgraded = (upgradit tae HTTPS)
 identity-https-only-label = HTTPS-Anely Mode
 identity-https-only-dropdown-on =
@@ -293,11 +282,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Turn on HTTPS-Anely Mode fur this site gin ye want { -brand-short-name } tae upgrade the connection when it can.
 identity-https-only-info-turn-off2 = Gin this page luiks mogert, ye micht want tae turn aff HTTPS-Anely Mode fur this site tae reload yaisin insiccar HTTP.
 identity-https-only-info-no-upgrade = No able tae upgrade connection fae HTTP.
-
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These pairties can yaise cross-site cookies and site data while ye're on this site.
 identity-permissions-storage-access-learn-more = Lairn mair
-
 identity-permissions-reload-hint = Ye'll mebbe need tae reload the page fur chynges tae wirk.
 identity-clear-site-data =
     .label = Dicht Cookies and Site Data...
@@ -360,13 +347,11 @@ browser-tab-mute =
         [1] WHEESHT TAB
        *[other] WHEESHT { $count } TABS
     }
-
 browser-tab-unmute =
     { $count ->
         [1] UNWHEESHT TAB
        *[other] UNWHEESHT { $count } TABS
     }
-
 browser-tab-unblock =
     { $count ->
         [1] PLEY TAB
@@ -378,7 +363,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Inbring buikmerks…
     .tooltiptext = Inbring buikmerks fae anither wab-stravaiger tae { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = For quick ingang, pit yer buikmerks here on the buikmerks toolbaur. <a data-l10n-name="manage-bookmarks">Manage buikmerks…</a>
 
 ## WebRTC Pop-up notifications
@@ -396,15 +380,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Speakers
 popup-all-windows-shared = Aw veesible windaes on yer screen will be shared.
-
 popup-screen-sharing-block =
     .label = Block
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Ayeweys block
     .accesskey = w
-
 popup-mute-notifications-checkbox = Wheesht wabsite notifications while sharin
 
 ## WebRTC window or screen share tab switch warning
@@ -426,7 +407,6 @@ enable-devtools-popup-description = Fur tae yaise the F12 shortcut, first open D
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Sairch or inpit address
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -435,7 +415,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Sairch the Wab
     .aria-label = Sairch wi { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -444,27 +423,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Inpit airt-oot terms
     .aria-label = Sairch { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Inpit airt-oot terms
     .aria-label = Sairch buikmerks
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Inpit airt-oot terms
     .aria-label = Airt-oot historie
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Inpit airt-oot terms
     .aria-label = Sairch tabs
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Sairch wi { $name } or inpit address
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -474,11 +448,9 @@ urlbar-permissions-granted =
     .tooltiptext = Ye've gied this wabsite mair permeesions.
 urlbar-switch-to-tab =
     .value = Switch tae tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
-
 urlbar-go-button =
     .tooltiptext = Gang tae the address in the Airtin Baur
 urlbar-page-action-button =
@@ -545,7 +517,6 @@ urlbar-result-action-search-tabs = Sairch Tabs
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -560,12 +531,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is noo hale screen
 fullscreen-warning-no-domain = This document is noo hale screen
-
-
 fullscreen-exit-button = Ootgang fae Hale Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ootgang fae Hale Screen (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -575,7 +543,6 @@ pointerlock-warning-no-domain = This document has control o yer pynter. Press Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Pairt o this page crashed.</strong> Fur tae lat { -brand-product-name } ken aboot this issue and get it sortit faster, gonnae inpit a report.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -631,7 +598,6 @@ bookmarks-tools =
     .label = Buikmerkin Tools
 bookmarks-bookmark-edit-panel =
     .label = Edit This Buikmerk
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -645,7 +611,6 @@ bookmarks-toolbar-placeholder =
     .title = Buikmerks Toolbaur Items
 bookmarks-toolbar-placeholder-button =
     .label = Buikmerks Toolbaur Items
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Buikmerk Current Tab
@@ -676,7 +641,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Eik-ons and themes
     .tooltiptext = Manage yer eik-ons and themes { $shortcut }
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -692,7 +656,6 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Wirk Affline
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = Mak Toolbaur Yer Ain…
     .accesskey = M
@@ -737,7 +700,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Alloo lowp-ups fur { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block lowp-ups fur { $uriHost }
     .accesskey = p
@@ -747,7 +709,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dinnae kythe this message whan lowp-ups are blockit
     .accesskey = D
-
+edit-popup-settings =
+    .label = Manage lowp-up settins
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Hide Pictur-in-Pictur Toggle
     .accesskey = H
