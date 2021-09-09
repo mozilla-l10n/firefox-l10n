@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Блокировать сайты, подозреваемые в мошенничестве (фишинге)">
 <!ENTITY blockWebForgeries.accesskey      "и">
 
+<!ENTITY blockAutoRefresh.label           "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
+<!ENTITY blockAutoRefresh.accesskey       "н">

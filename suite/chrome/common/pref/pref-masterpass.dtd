@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "При сбросе мастер-пароля, все сохранённые вами почтовые и веб-пароли, данные форм, личные сертификаты и закрытые ключи будут утеряны.">
 <!ENTITY  resetpassword.button                   "Сбросить пароль">
 <!ENTITY  resetpassword.accesskey                "п">
+<!ENTITY  resetpassword2.button                  "Сбросить пароль">
+<!ENTITY  resetpassword2.accesskey               "а">
