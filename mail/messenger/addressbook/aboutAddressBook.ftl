@@ -20,7 +20,6 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Όλα τα ευρετήρια
-
 about-addressbook-books-context-properties =
     .label = Ιδιότητες
 about-addressbook-books-context-synchronize =
@@ -31,11 +30,10 @@ about-addressbook-books-context-delete =
     .label = Διαγραφή
 about-addressbook-books-context-remove =
     .label = Αφαίρεση
-
 about-addressbook-confirm-delete-book-title = Διαγραφή ευρετηρίου
 # Variables:
 # $name (String) - Name of the address book to be deleted.
-about-addressbook-confirm-delete-book = Θέλετε σίγουρα να διαγράψετε το { $name } και όλες τις επαφές του;
+about-addressbook-confirm-delete-book = Θέλετε σίγουρα να διαγράψετε το «{ $name }» και όλες τις επαφές του;
 about-addressbook-confirm-remove-remote-book-title = Αφαίρεση ευρετηρίου
 # Variables:
 # $name (String) - Name of the remote address book to be removed.
@@ -49,17 +47,14 @@ about-addressbook-search =
     .placeholder = Αναζήτηση για { $name }
 about-addressbook-search-all =
     .placeholder = Αναζήτηση όλων των βιβλίων διευθύνσεων
-
 about-addressbook-sort-button =
     .title = Αλλαγή σειράς λίστας
-
 about-addressbook-name-format-display =
     .label = Εμφανιζόμενο όνομα
 about-addressbook-name-format-firstlast =
     .label = Όνομα Επώνυμο
 about-addressbook-name-format-lastfirst =
     .label = Επώνυμο, Όνομα
-
 about-addressbook-sort-name-ascending =
     .label = Ταξινόμηση κατά όνομα (Α > Ω)
 about-addressbook-sort-name-descending =
@@ -68,10 +63,8 @@ about-addressbook-sort-email-ascending =
     .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
-
 about-addressbook-cards-context-write =
     .label = Σύνταξη
-
 about-addressbook-confirm-delete-mixed-title = Διαγραφή επαφών και λιστών
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,7 +121,6 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Επεξεργασία
 about-addressbook-cancel-edit-contact-button = Ακύρωση
 about-addressbook-save-edit-contact-button = Αποθήκευση
-
 about-addressbook-details-email-addresses-header = Διευθύνσεις email
 about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνου
 about-addressbook-details-home-address-header = Διεύθυνση οικίας
