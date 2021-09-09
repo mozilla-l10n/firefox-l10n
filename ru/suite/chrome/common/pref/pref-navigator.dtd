@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Восстанавливать вкладки только когда мне нужно">
 <!ENTITY restoreDeferred.accesskey      "а">
 
+<!ENTITY siteIcons.label                "Значки веб-сайтов">
+<!ENTITY useSiteIcons.label             "Показывать значки веб-сайтов">
+<!ENTITY useSiteIcons.accesskey         "з">
+<!ENTITY useFavIcons.label              "Пытаться использовать значки серверов, если они не указаны страницей">
+<!ENTITY useFavIcons.accesskey          "ы">
+
 <!ENTITY homePageIntro.label            "При нажатии кнопки «Домашняя страница» загрузится следующая группа страниц:">
 <!ENTITY useCurrent.label               "Текущая страница">
 <!ENTITY useCurrent.accesskey           "щ">
