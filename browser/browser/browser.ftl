@@ -678,6 +678,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Прилагоди траку са алаткама…
     .accesskey = П
+toolbar-button-email-link =
+    .label = Пошаљи везу имејлом
+    .tooltiptext = Пошаљи имејлом везу до ове странице
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
