@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Neien Tab
 appmenuitem-new-window =
     .label = Nei Fënster
 appmenuitem-new-private-window =
     .label = Nei privat Fënster
+appmenuitem-print =
+    .label = Drécken…
+appmenuitem-zoom =
+    .value = Zoom
 appmenuitem-help =
     .label = Hëllef
 
@@ -25,11 +27,9 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Keng oppen Tabs
-
 appmenu-remote-tabs-connectdevice =
     .label = Aneren Apparat verbannen
 appmenu-remote-tabs-unverified = Äre Benotzerkont muss iwwerpréift ginn.
-
 appmenuitem-save-page =
     .label = Säit späicheren ënner…
 
