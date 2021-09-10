@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Nove fenestra private
 appmenuitem-history =
     .label = Chronologia
+appmenuitem-downloads =
+    .label = Discargamentos
 appmenuitem-passwords =
     .label = Contrasignos
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Vider un lista de schedas de tu altere apparatos.
 appmenu-remote-tabs-unverified = Tu conto debe esser verificate.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
+appmenuitem-fxa-sign-in = Aperir session in { -brand-product-name }
 appmenuitem-fxa-manage-account = Gerer conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
