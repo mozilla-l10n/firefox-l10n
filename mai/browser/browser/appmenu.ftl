@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = नव विंडो
 appmenuitem-new-private-window =
     .label = नया निज विंडो (W)
+appmenuitem-history =
+    .label = इतिहास
+appmenuitem-print =
+    .label = छापू…
+appmenuitem-zoom =
+    .value = पैघ-छोट करू
 
 ## Zoom and Fullscreen Controls
 
@@ -41,9 +45,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = प्रतिक्रिया दिअ…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
