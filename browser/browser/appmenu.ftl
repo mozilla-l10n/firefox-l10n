@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Пабачыць спіс картак з іншых сваіх прылад.
 appmenu-remote-tabs-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
 appmenuitem-fxa-toolbar-sync-now2 = Сінхранізаваць зараз
+appmenuitem-fxa-sign-in = Увайсці ў { -brand-product-name }
 appmenuitem-fxa-manage-account = Кіраванне ўліковым запісам
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
