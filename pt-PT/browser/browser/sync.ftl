@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = A sincronizar dispositivos…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Envie um separador instantaneamente para qualquer dispositivo em que tenha sessão iniciada.
 fxa-menu-sign-out =
     .label = Terminar sessão…
