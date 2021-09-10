@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Quản lý tiến trình
-
 # The Actions column
 about-processes-column-action =
     .title = Hành động
@@ -25,12 +24,6 @@ about-processes-column-cpu-total = CPU
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Tiến trình web được chia sẻ ({ $pid })
@@ -44,9 +37,9 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Bộ giải mã dữ liệu ({ $pid })
 about-processes-socket-process = Mạng ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Máy chủ Fork ({ $pid })
 about-processes-preallocated-process = Được tải trước ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -59,7 +52,11 @@ about-processes-unknown-process = Khác: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, lớn)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, đã cô lập cross-origin)
 about-processes-web-isolated-process-private = { $origin } — Riêng tư ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Riêng tư ({ $pid }, lớn)
+about-processes-with-coop-coep-process-private = { $origin } — Riêng tư ({ $pid }, đã cô lập cross-origin)
 
 ## Details within processes
 
@@ -77,7 +74,6 @@ about-processes-active-threads =
     { $active ->
        *[other] { $active } luồng hoạt động trong số { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -88,25 +84,21 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } luồng không hoạt động
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID luồng: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Thẻ: { $name }
 about-processes-preloaded-tab = Thẻ mới được tải trước
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Khung phụ: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -125,10 +117,8 @@ about-processes-frame-name-many = Khung phụ ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Tổng thời gian CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (đang đo)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = Rảnh
     .title = Tổng thời gian CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -144,6 +134,9 @@ about-processes-cpu-idle = Rảnh
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = Thay đổi: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
