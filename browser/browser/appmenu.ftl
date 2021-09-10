@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Nij priveefinster
 appmenuitem-history =
     .label = Skiednis
+appmenuitem-downloads =
+    .label = Downloads
 appmenuitem-passwords =
     .label = Wachtwurden
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Besjoch in list mei ljepblêden fan jo oare apparaten.
 appmenu-remote-tabs-unverified = Jo account moat ferifiearre wurde.
 appmenuitem-fxa-toolbar-sync-now2 = No syngronisearje
+appmenuitem-fxa-sign-in = Oanmelde by { -brand-product-name }
 appmenuitem-fxa-manage-account = Account beheare
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables

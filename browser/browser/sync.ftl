@@ -3,24 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Syngronisearje…
-
 sync-disconnect-dialog-title2 = Ferbining ferbrekke?
 sync-disconnect-dialog-body = { -brand-product-name } stoppet de syngronisaasje mei jo account, mar sil gjin navigaasjegegevens op dit apparaat fuortsmite.
 sync-disconnect-dialog-button = Ferbining ferbrekke
-
 fxa-signout-dialog2-title = Ofmelde by { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Syngronisearre gegevens sille yn jo account bliuwe.
 fxa-signout-dialog2-button = Ofmelde
 fxa-signout-dialog2-checkbox = Gegevens (wachtwurden, skiednis, blêdwizers, ensfh.) fan dit apparaat fuortsmite
-
 fxa-menu-sync-settings =
     .label = Syngronisaasjeynstellingen
 fxa-menu-turn-on-sync =
     .value = Syngronisaasje ynskeakelje
 fxa-menu-turn-on-sync-default = Syngronisaasje ynskeakelje
-
 fxa-menu-connect-another-device =
     .label = In oar apparaat ferbine…
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Apparaten syngronisearje…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Stjoer in ljepblêd daliks nei elk apparaat wêrop jo oanmeld binne.
 fxa-menu-sign-out =
     .label = Ofmelde…
