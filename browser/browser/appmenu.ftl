@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Bekijk een lijst met tabbladen van uw overige apparaten.
 appmenu-remote-tabs-unverified = Uw account moet worden geverifieerd.
 appmenuitem-fxa-toolbar-sync-now2 = Nu synchroniseren
+appmenuitem-fxa-sign-in = Aanmelden bij { -brand-product-name }
 appmenuitem-fxa-manage-account = Account beheren
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
