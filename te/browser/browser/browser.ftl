@@ -583,6 +583,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = పనిముట్లపట్టీని మలుచుకోండి…
     .accesskey = C
+toolbar-button-email-link =
+    .label = లింకును ఈమెయిలు చేయి
+    .tooltiptext = ఈ పేజీకి లింకును ఈమెయిలు చేయి
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
