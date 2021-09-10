@@ -17,6 +17,9 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Activează sincronizarea
 fxa-menu-connect-another-device =
     .label = Conectează alt dispozitiv…
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Se sincronizează dispozitivele…
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Trimite o filă instantaneu oricărui dispozitiv pe care te-ai autentificat.
 fxa-menu-sign-out =
