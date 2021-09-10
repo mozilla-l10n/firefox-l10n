@@ -5,12 +5,18 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = འཆར་སྒྲོམ་གསར་བ
 appmenuitem-new-private-window =
     .label = མི་སྒེར་གྱི་འཆར་སྒྲོམ་གསར་བ
+appmenuitem-history =
+    .label = ཟིན་ཐོ
+appmenuitem-downloads =
+    .label = ལེན་འཇུག
+appmenuitem-print =
+    .label = པར་འདེབས་པ…
+appmenuitem-zoom =
+    .value = བཅར་ཚད
 appmenuitem-help =
     .label = རོགས་རམ
 
@@ -23,18 +29,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ཁ་ཕྱེས་ཡོད་པའི་ཡན་ལག་ངོས་མེད
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Turn on tab syncing to view a list of tabs from your other devices.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Want to see your tabs from other devices here?
-
 appmenu-remote-tabs-connectdevice =
     .label = Connect Another Device
 appmenu-remote-tabs-unverified = Your account needs to be verified.
-
 appmenuitem-save-page =
     .label = དྲ་ངོས་ཉར་སྟངས…
 
@@ -70,4 +72,3 @@ appmenu-help-feedback-page =
 
 appmenu-taskmanager =
     .label = ལས་འགན་དོ་དམ་པ
-
