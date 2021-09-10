@@ -9,8 +9,12 @@ appmenuitem-new-window =
     .label = Window e Ntšha
 appmenuitem-new-private-window =
     .label = Window e Ntšha ya Poraefete
+appmenuitem-history =
+    .label = Tiragalo Tse di Fetileng
 appmenuitem-print =
     .label = Gatisa…
+appmenuitem-zoom =
+    .value = Laola bogolo
 
 ## Zoom and Fullscreen Controls
 
