@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = गोदान टेब
 appmenuitem-new-window =
     .label = गोदान उइन्ड'
 appmenuitem-new-private-window =
     .label = गोदान प्राइभेट उइन्ड'
+appmenuitem-history =
+    .label = जारिमिन
+appmenuitem-print =
+    .label = साफाय...( P)
 appmenuitem-help =
     .label = मदद
 
@@ -75,4 +77,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = टास्क मेनेजार
-
