@@ -675,6 +675,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Синхрондалған беттер
     .tooltiptext = Басқа құрылғылардан беттерді көрсету
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Жаңа жекелік терезе
+    .tooltiptext = Жаңа жекелік шолу терезені ашу ({ $shortcut })
 
 ## EME notification panel
 
