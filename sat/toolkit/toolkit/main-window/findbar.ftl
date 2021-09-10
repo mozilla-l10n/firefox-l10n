@@ -6,15 +6,16 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = आयात् हिंस रेयाक् इना़ तायोम ओडोक् ञाम मे
+    .tooltiptext = ᱟᱭᱟᱛ ᱦᱤᱸᱥ ᱨᱮᱭᱟᱜ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱚᱰᱚᱠ ᱧᱟᱢ ᱢᱮ
 findbar-previous =
-    .tooltiptext = आयात् हिंस रेयाक् पा़हिल सेदाक् ओडोक् ञाम मे
-
+    .tooltiptext = ᱟᱭᱟᱛ ᱦᱤᱸᱥ ᱨᱮᱭᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱥᱮᱫᱟᱜ ᱚᱰᱚᱠ ᱧᱟᱢ ᱢᱮ
 findbar-find-button-close =
-    .tooltiptext = ञाम बार बोंदोय मे
-
+    .tooltiptext = ᱯᱟᱱᱛᱮ ᱵᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 findbar-case-sensitive =
-    .label = जोड़ काथा
-    .accesskey = c
-    .tooltiptext = काथा भेदावाक् सांव पानते.
-
+    .label = ᱡᱚᱲ ᱠᱟᱛᱷᱟ
+    .accesskey = ᱡ
+    .tooltiptext = ᱠᱟᱛᱷᱟ ᱵᱷᱮᱫᱟᱣᱠ ᱥᱟᱶ ᱯᱟᱱᱛᱮ
+findbar-entire-word =
+    .label = ᱡᱷᱚᱛᱚ ᱟᱹᱲᱟᱹ
+    .accesskey = ᱡ
+    .tooltiptext = ᱠᱷᱟᱹᱞᱤ ᱡᱷᱚᱛᱚ ᱟᱹᱲᱟᱹ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
