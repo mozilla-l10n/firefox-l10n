@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Vis ei liste over faner frå dei andre einingane dine.
 appmenu-remote-tabs-unverified = Kontoen din må stadfestast.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser no
+appmenuitem-fxa-sign-in = Logg inn på { -brand-product-name }
 appmenuitem-fxa-manage-account = Handter kontoen
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
