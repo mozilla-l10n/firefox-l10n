@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Nuwe oortjie
 appmenuitem-new-window =
     .label = Nuwe venster
 appmenuitem-new-private-window =
     .label = Nuwe private venster
+appmenuitem-history =
+    .label = Geskiedenis
+appmenuitem-print =
+    .label = Druk…
 appmenuitem-help =
     .label = Hulp
 
@@ -25,14 +27,11 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Geen oop oortjies nie
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Lus om oortjies van ander toestelle hier te sien?
-
 appmenuitem-save-page =
     .label = Stoor bladsy as…
 
