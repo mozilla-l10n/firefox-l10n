@@ -663,6 +663,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = টুলবাৰ কাষ্টমাইজ কৰক...
     .accesskey = C
+toolbar-button-email-link =
+    .label = লিংক ইমেইল কৰক
+    .tooltiptext = এই পৃষ্ঠালৈ এটা লিংক ইমেইল কৰক
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -673,6 +676,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ফাইল খোলক
     .tooltiptext = এটা ফাইল খোলক ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = ছিংক কৰা টেবসমূহ
+    .tooltiptext = অন্য ডিভাইচৰ টেবসমূহ দেখুৱাওক
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = নতুন ব্যক্তিগত উইণ্ড'
+    .tooltiptext = এটা নতুন ব্যক্তিগত ব্ৰাউছিং উইণ্ড' ({ $shortcut }) খোলক
 
 ## EME notification panel
 
