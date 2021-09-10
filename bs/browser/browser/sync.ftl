@@ -4,6 +4,8 @@
 
 fxa-menu-connect-another-device =
     .label = Poveži drugi uređaj…
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Sinhronizujem uređaje…
 fxa-menu-sign-out =
     .label = Odjava…
