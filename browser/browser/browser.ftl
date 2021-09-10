@@ -573,6 +573,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Deschide fișier
     .tooltiptext = Deschide un fișier ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = File sincronizate
+    .tooltiptext = Afișează file de pe alte dispozitive
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
