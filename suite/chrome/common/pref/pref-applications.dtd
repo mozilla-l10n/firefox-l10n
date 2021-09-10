@@ -13,3 +13,5 @@
 
 <!ENTITY search.placeholder      "Typen und Aktionen durchsuchen">
 
+<!ENTITY useAppChooser.label     "Systemeigenen Dialog für Auswahl der Hilfsanwendungen verwenden sofern verfügbar">
+<!ENTITY useAppChooser.accesskey "D">
