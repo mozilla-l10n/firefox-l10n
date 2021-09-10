@@ -675,6 +675,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Onglets sincronizats
     .tooltiptext = Mostrar los onglets dels autres periferics
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Novèla fenèstra de navegacion privada
+    .tooltiptext = Novèla fenèstra de navegacion privada ({ $shortcut })
 
 ## EME notification panel
 
