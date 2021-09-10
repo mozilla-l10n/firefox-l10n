@@ -15,6 +15,8 @@ appmenuitem-history =
     .label = Geskiedenis
 appmenuitem-print =
     .label = Druk…
+appmenuitem-zoom =
+    .value = Zoem
 appmenuitem-help =
     .label = Hulp
 
