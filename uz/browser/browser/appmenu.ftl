@@ -15,6 +15,8 @@ appmenuitem-history =
     .label = Tarix
 appmenuitem-print =
     .label = Chop qilish…
+appmenuitem-zoom =
+    .value = Masshtab
 appmenuitem-help =
     .label = Yordam
 
