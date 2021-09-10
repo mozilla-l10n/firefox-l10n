@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Dirisha Mpya
 appmenuitem-new-private-window =
     .label = Window Mpya ya Kibinafsi
+appmenuitem-history =
+    .label = Historia
+appmenuitem-print =
+    .label = Chapisha…
+appmenuitem-zoom =
+    .value = Kuza
 
 ## Zoom and Fullscreen Controls
 
@@ -43,9 +47,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Wasilisha Maoni…
     .accesskey = W
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
