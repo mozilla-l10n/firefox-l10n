@@ -682,6 +682,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Karty z innych urządzeń
     .tooltiptext = Wyświetl karty z innych urządzeń
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nowe okno prywatne
+    .tooltiptext = Otwórz nowe okno w trybie prywatnym ({ $shortcut })
 
 ## EME notification panel
 
