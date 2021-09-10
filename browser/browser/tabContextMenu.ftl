@@ -91,6 +91,14 @@ tab-context-close-tabs =
            *[other] Pechar as lapelas
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Pechar lapela
+            [one] Pechar { $tabCount } lapela
+           *[other] Pechar { $tabCount } lapelas
+        }
+    .accesskey = P
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -99,7 +107,6 @@ tab-context-move-tabs =
            *[other] Mover lapelas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
