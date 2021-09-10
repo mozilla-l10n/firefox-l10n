@@ -13,6 +13,8 @@ appmenuitem-history =
     .label = Abakɔsɛm
 appmenuitem-print =
     .label = Prente…
+appmenuitem-zoom =
+    .value = Zuum
 
 ## Zoom and Fullscreen Controls
 
