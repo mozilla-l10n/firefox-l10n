@@ -5,12 +5,12 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Window e Ntšha
 appmenuitem-new-private-window =
     .label = Window e Ntšha ya Poraefete
+appmenuitem-print =
+    .label = Gatisa…
 
 ## Zoom and Fullscreen Controls
 
@@ -21,10 +21,8 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ga gona dithebe tse di butsweng
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Tobetsa go dirisa thulaganyo ka tsamaisano ya thebe go leba lenaane la dithebe go tsweng mo didirisweng tse dingwe tsa gago.
-
 appmenuitem-save-page =
     .label = Boloka Tsebe Jaaka…
 
