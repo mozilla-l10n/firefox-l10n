@@ -492,7 +492,7 @@
 <!ENTITY importCmd.accesskey "γ">
 <!ENTITY exportCmd.label "Εξαγωγή…">
 <!ENTITY exportCmd.accesskey "ξ">
-<!ENTITY clearRecentHistory.label "Εκκαθάριση πρόσφατου ιστορικού…">
+<!ENTITY clearRecentHistory.label "Απαλοιφή πρόσφατου ιστορικού…">
 <!ENTITY clearRecentHistory.accesskey "Ι">
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountManagerCmd2.accesskey "θ">
