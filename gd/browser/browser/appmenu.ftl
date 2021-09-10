@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Seall liosta nan tabaichean a tha agad air uidheaman eile.
 appmenu-remote-tabs-unverified = Tha an cunntas agad feumach air dearbhadh.
 appmenuitem-fxa-toolbar-sync-now2 = Sioncronaich an-dràsta
+appmenuitem-fxa-sign-in = Clàraich a-steach gu { -brand-product-name }
 appmenuitem-fxa-manage-account = Stiùirich an cunntas
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
