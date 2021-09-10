@@ -427,6 +427,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinhronizovani tabovi
     .tooltiptext = Prikaži tabove s ostalih uređaja
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Novi privatni prozor
+    .tooltiptext = Otvori novi prozor privatnog surfanja ({ $shortcut })
 
 ## EME notification panel
 
