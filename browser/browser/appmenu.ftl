@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Переглядайте список вкладок з ваших інших пристроїв.
 appmenu-remote-tabs-unverified = Ваш обліковий запис потребує підтвердження.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
+appmenuitem-fxa-sign-in = Увійти в { -brand-product-name }
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
