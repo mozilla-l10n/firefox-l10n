@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Đang đồng bộ các thiết bị…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Gửi một thẻ ngay lập tức đến bất kỳ thiết bị nào mà bạn đã đăng nhập.
 fxa-menu-sign-out =
     .label = Đăng xuất…
