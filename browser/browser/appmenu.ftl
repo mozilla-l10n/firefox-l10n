@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Поверителен прозорец
 appmenuitem-history =
     .label = История
+appmenuitem-downloads =
+    .label = Изтегляния
 appmenuitem-passwords =
     .label = Пароли
 appmenuitem-addons-and-themes =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Вижте списък с разделите от другите ваши устройства.
 appmenu-remote-tabs-unverified = Сметката ви трябва да бъде потвърдена.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
+appmenuitem-fxa-sign-in = Вписване в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление на сметка
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
