@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private blaaiery)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private blaaiery)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private blaaiery)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private blaaiery)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -103,12 +101,10 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -130,14 +126,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
-
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Stel as verstek-soekenjin
     .accesskey = v
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -153,6 +147,7 @@ search-one-offs-add-engine-menu =
 
 ## Bookmark Panel
 
+
 ## Identity Panel
 
 identity-connection-internal = Hierdie is 'n beveiligde { -brand-short-name }-bladsy.
@@ -163,7 +158,6 @@ identity-passive-loaded = Dele van dié blad is nie beveilig nie (soos prente).
 identity-active-loaded = U het beskerming vir dié blad gedeaktiveer.
 identity-weak-encryption = Dié bladsy gebruik swak enkripsie.
 identity-insecure-login-forms = Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word.
-
 identity-permissions-reload-hint = Dit is dalk nodig om die bladsy te herlaai voor veranderinge toegepas word.
 identity-remove-cert-exception =
     .label = Verwyder uitsondering
@@ -221,14 +215,11 @@ popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
 
 urlbar-placeholder =
     .placeholder = Soek of tik adres in
-
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uitbreiding:
-
 urlbar-go-button =
     .tooltiptext = Gaan na die adres in die adresbalk
 
@@ -258,12 +249,9 @@ urlbar-result-action-visit = Besoek
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> beslaan nou die volle skerm
 fullscreen-warning-no-domain = Dié dokument beslaan nou die volle skerm
-
-
 fullscreen-exit-button = Verlaat volskerm (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Verlaat volskerm (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -285,7 +273,6 @@ bookmarks-search =
     .label = Deursoek boekmerke
 bookmarks-bookmark-edit-panel =
     .label = Redigeer hierdie boekmerk
-
 bookmarks-toolbar-menu =
     .label = Boekmerknutsbalk
 bookmarks-toolbar-placeholder =
@@ -310,6 +297,27 @@ bookmarks-toolbar-placeholder-button =
 more-menu-go-offline =
     .label = Werk vanlyn
     .accesskey = k
+toolbar-button-email-link =
+    .label = E-pos skakel
+    .tooltiptext = E-pos 'n skakel na dié bladsy
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Stoor bladsy
+    .tooltiptext = Stoor dié bladsy… ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Open lêer
+    .tooltiptext = Open 'n lêer… ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Gesinkroniseerde oortjies
+    .tooltiptext = Wys oortjies van ander toestelle
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nuwe private venster
+    .tooltiptext = Open 'n nuwe private blaaivenster ({ $shortcut })
 
 ## EME notification panel
 
@@ -335,7 +343,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Laat opspringers vir { $uriHost } toe
     .accesskey = p
-
 popups-infobar-block =
     .label = Blokkeer opspringers vir { $uriHost }
     .accesskey = p
@@ -345,4 +352,3 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Moenie weer wys wanneer opspringers geblokkeer word nie
     .accesskey = D
-
