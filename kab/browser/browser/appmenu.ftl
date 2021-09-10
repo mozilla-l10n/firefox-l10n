@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Wali tabdart n waccaren seg yibenkan-ik-nniḍen.
 appmenu-remote-tabs-unverified = Amiḍan-ik yeḥwaǧ ad ittusenqed.
 appmenuitem-fxa-toolbar-sync-now2 = Mtawi tura
+appmenuitem-fxa-sign-in = Qqen ɣer { -brand-product-name }
 appmenuitem-fxa-manage-account = Sefrek amiḍan
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
