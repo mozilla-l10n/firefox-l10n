@@ -3,24 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = همگام‌سازی…
-
 sync-disconnect-dialog-title2 = قطع ارتباط؟
 sync-disconnect-dialog-body = { -brand-product-name } همگام‌سازی با حساب شما را متوقف می‌کند اما هیچ یک از داده‌های مرور شما بر روی این دستگاه را پاک نخواهد کرد.
 sync-disconnect-dialog-button = قطع ارتباط
-
 fxa-signout-dialog2-title = خروج از { -fxaccount-brand-name }؟
 fxa-signout-dialog-body = داده‌های همگام‌سازی شده در حساب شما باقی می‌مانند.
 fxa-signout-dialog2-button = خروج
 fxa-signout-dialog2-checkbox = حذف داده‌ها از این دستگاه (گذرواژه‌ها، تاریخچه، نشانک‌ها و غیره)
-
 fxa-menu-sync-settings =
     .label = تنظیمات همگام‌سازی
 fxa-menu-turn-on-sync =
     .value = روشن کردن همگام‌سازی
 fxa-menu-turn-on-sync-default = روشن کردن همگام‌سازی
-
 fxa-menu-connect-another-device =
     .label = اتصال به دستگاه دیگر…
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = همرسانی دستگاه‌ها…
 fxa-menu-sign-out =
     .label = خروج…
