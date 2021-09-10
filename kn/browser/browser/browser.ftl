@@ -341,6 +341,11 @@ toolbar-button-email-link =
     .label = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು
     .tooltiptext = ಈ ಪುಟದ ಕೊಂಡಿಯನ್ನು ವಿ-ಅಂಚೆ ಮಾಡು
 # Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = ಪುಟ ಉಳಿಸು
+    .tooltiptext = ಈ ಪುಟ ಉಳಿಸು ({ $shortcut })
+# Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ಕಡತವನ್ನು ತೆರೆ
