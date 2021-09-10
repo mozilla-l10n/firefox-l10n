@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Xem danh sách các thẻ từ các thiết bị khác của bạn.
 appmenu-remote-tabs-unverified = Tài khoản của bạn cần phải xác thực.
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
+appmenuitem-fxa-sign-in = Đăng nhập vào { -brand-product-name }
 appmenuitem-fxa-manage-account = Quản lý tài khoản
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
