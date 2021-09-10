@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = 查看您的其他设备上的标签页列表。
 appmenu-remote-tabs-unverified = 您的账号需要验证。
 appmenuitem-fxa-toolbar-sync-now2 = 立即同步
+appmenuitem-fxa-sign-in = 登录 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理账户
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
