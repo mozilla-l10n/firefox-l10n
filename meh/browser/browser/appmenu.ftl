@@ -6,19 +6,24 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = Panel de protecciones
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Sukua jíía
 appmenuitem-new-window =
     .label = Ventana jíía
 appmenuitem-new-private-window =
     .label = Ventana jíía yu´u
+appmenuitem-history =
+    .label = Sɨ´ɨ
+appmenuitem-downloads =
+    .label = Da nxinú
 appmenuitem-passwords =
     .label = Da contraseña
+appmenuitem-print =
+    .label = Nátava…
 appmenuitem-find-in-page =
     .label = Nánuku nu página
+appmenuitem-zoom =
+    .value = Naja ka'nu
 appmenuitem-more-tools =
     .label = Kue'eka ka̱a̱
 appmenuitem-help =
@@ -29,7 +34,6 @@ appmenuitem-exit2 =
             [linux] Kene
            *[other] Kene
         }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -50,31 +54,26 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Kajie´e sesión ji Sync...
 appmenu-remote-tabs-turn-on-sync =
     .label = Tee Sync…
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ntu nune pestañas
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?
-
 appmenu-remote-tabs-connectdevice =
     .label = Chu´un inka ka̱a̱
 appmenu-remote-tabs-welcome = Kune´ya iin lista da pestañas da inka dispositivos.
 appmenu-remote-tabs-unverified = Cuenta noo´o nejika koo verificada.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ntañu´u
+appmenuitem-fxa-sign-in = Kajie'e sesión { -brand-product-name }
 appmenuitem-fxa-manage-account = Tetiñu cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Kajie´e sesión
-
 appmenuitem-save-page =
     .label = Chuva´a kua...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nakuvi a jíía íyo
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -87,21 +86,16 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-learn-more = Ka´vi kue´eka
-
 profiler-popup-settings =
     .value = Ke´i
-
 profiler-popup-start-recording-button =
     .label = Kajie'e grabación
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,5 +152,4 @@ appmenu-customizetoolbar =
     .label = Sá´á vii barra ka̱a̱...
 appmenu-taskmanager =
     .label = Tetiñu da tareas
-
 appmenu-developer-tools-subheader = Da ka̱a̱ ka̱a̱ nánuku
