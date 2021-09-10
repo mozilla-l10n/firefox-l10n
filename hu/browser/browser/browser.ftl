@@ -662,6 +662,19 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Eszköztár testreszabása…
     .accesskey = E
+toolbar-button-email-link =
+    .label = Hivatkozás küldése
+    .tooltiptext = Az oldalra mutató hivatkozás küldése e-mailben
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Oldal mentése
+    .tooltiptext = Oldal mentése ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Fájl megnyitása
+    .tooltiptext = Fájl megnyitása ({ $shortcut })
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
