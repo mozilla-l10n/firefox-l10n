@@ -330,6 +330,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ເປີດໄຟລ໌
     .tooltiptext = ເປີດຟາຍ ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = ແທັບທີ່ຊິງຄ໌ແລ້ວ
+    .tooltiptext = ສະແດງແທັບຈາກອຸປະກອນອື່ນ
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = ວິນໂດສ່ວນຕົວໃໝ່
+    .tooltiptext = ເປີດວິນໂດການທ່ອງເວັບສ່ວນຕົວໃໝ່ ({ $shortcut })
 
 ## EME notification panel
 
