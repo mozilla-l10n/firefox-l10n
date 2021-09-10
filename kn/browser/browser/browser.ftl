@@ -353,6 +353,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
     .tooltiptext = ‌ಇತರೆ ಸಾಧನಗಳ ಹಾಳೆಗಳನ್ನು ತೋರಿಸು
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
+    .tooltiptext = ಒಂದು ಹೊಸ ಖಾಸಗಿ ಜಾಲಾಟ ಪರದೆಯನ್ನು ತೆರೆಯಿರಿ ({ $shortcut })
 
 ## EME notification panel
 
