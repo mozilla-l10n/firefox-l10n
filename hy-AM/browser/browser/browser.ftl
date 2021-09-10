@@ -501,6 +501,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Հարմարեցնել Գործիքագոտին...
     .accesskey = C
+toolbar-button-email-link =
+    .label = Հղումը ուղարկել էլ. փոստով
+    .tooltiptext = Հղումը ուղարկել էլ֊փոստով
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
