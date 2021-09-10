@@ -662,6 +662,14 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = ਲਿੰਕ ਈਮੇਲ ਕਰੋ
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਲਈ ਲਿੰਕ ਈਮੇਲ ਕਰਕੇ ਭੇਜੋ
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
+    .tooltiptext = ਇਹ ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
+    .tooltiptext = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਓ
 
 ## EME notification panel
 
