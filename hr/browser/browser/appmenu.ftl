@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Novi privatni prozor
 appmenuitem-history =
     .label = Povijest
+appmenuitem-downloads =
+    .label = Preuzimanja
 appmenuitem-passwords =
     .label = Lozinke
 appmenuitem-addons-and-themes =
@@ -80,6 +82,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Pogledaj popis kartica s tvojih ostalih uređaja.
 appmenu-remote-tabs-unverified = Tvoj račun mora biti potvrđen.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
+appmenuitem-fxa-sign-in = Prijavi se u { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljaj računom
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
