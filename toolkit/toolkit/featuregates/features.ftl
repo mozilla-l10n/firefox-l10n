@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = 실험적인 CSS Masonry 레이�
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = CSS Cascade Layer 기능을 지원합니다. 자세한 내용은 <a data-l10n-name="spec">진행 중인 사양</a>을 참고하세요. 이 기능과 관련된 버그에 대해 <a data-l10n-name="bugzilla">버그 1699215</a>에 신고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
