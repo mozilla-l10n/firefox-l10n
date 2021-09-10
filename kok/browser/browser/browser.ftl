@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (खासगी ब्रावजींग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (खासगी ब्रावजींग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (खासगी ब्रावजींग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (खासगी ब्रावजींग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,7 +65,6 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = हे बूकमार्क ({ $shortcut }) संपादित करात
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -86,6 +83,7 @@ full-screen-exit =
     .accesskey = प
 
 ## Search Engine selection buttons (one-offs)
+
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -136,10 +134,8 @@ popup-all-windows-shared = तुमच्या पड्ड्यावयल�
 
 urlbar-placeholder =
     .placeholder = सोदात वो नामो दियात
-
 urlbar-switch-to-tab =
     .value = टॅबाचेर स्विच करचें:
-
 urlbar-go-button =
     .tooltiptext = थळ पट्टेन नाम्यान वचात
 
@@ -169,7 +165,6 @@ bookmarks-sidebar-content =
     .aria-label = बुकमार्क
 bookmarks-bookmark-edit-panel =
     .label = हो बूकमार्क संपादीत करचो
-
 bookmarks-toolbar-menu =
     .label = पुस्तकखूण साधनपट्टी
 bookmarks-toolbar-placeholder =
@@ -194,6 +189,24 @@ bookmarks-toolbar-placeholder-button =
 more-menu-go-offline =
     .label = ऑफलायन काम करात
     .accesskey = k
+toolbar-button-email-link =
+    .label = ईमेल जोड
+    .tooltiptext = ह्या पानाची जोडणी ईमेल करात
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = पानाची जतनाय करात
+    .tooltiptext = ह्या पानाची ({ $shortcut }) जतनाय करात
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = फायल उगडात
+    .tooltiptext = ({ $shortcut }) फायल उगडात
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = नवो खाजगी विंडो
+    .tooltiptext = नवो खाजगी ब्रावजिंग विंडो ({ $shortcut }) उगडात
 
 ## EME notification panel
 
@@ -219,7 +232,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } खातीर पॉप अपांक मान्यताय दियात
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } खातीर पॉप अप आडायात
     .accesskey = p
@@ -229,4 +241,3 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पॉप अप आडायल्ले आसता तेन्ना हो संदेश दाखोव नाकात
     .accesskey = D
-
