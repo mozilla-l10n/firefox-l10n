@@ -438,6 +438,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = কাস্টোমাইজ টুলবার…
     .accesskey = C
+toolbar-button-email-link =
+    .label = ইমেইল লিঙ্ক
+    .tooltiptext = এই পাতায় একটি লিঙ্ক ইমেল করুন
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
