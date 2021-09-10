@@ -5,14 +5,18 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Jauna cilne
 appmenuitem-new-window =
     .label = Jauns lūgs
 appmenuitem-new-private-window =
     .label = Jauns privatais lūgs
+appmenuitem-history =
+    .label = Viesture
+appmenuitem-downloads =
+    .label = Lejupīluodes
+appmenuitem-zoom =
+    .value = Mārūgs
 appmenuitem-help =
     .label = Paleidzeiba
 
@@ -25,18 +29,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav attaisietu cilņu
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Īslēdz cilņu sinhronizaceji, kab radzātu cilnes nu cytom īreicem.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Grybot redzeit cilnes nu cytom sovom īreičom?
-
 appmenu-remote-tabs-connectdevice =
     .label = Daslēgt cytu īreici
 appmenu-remote-tabs-unverified = Tovam kontam jōbyun apstyprynōtam.
-
 appmenuitem-save-page =
     .label = Saglobōt lopu kai…
 
