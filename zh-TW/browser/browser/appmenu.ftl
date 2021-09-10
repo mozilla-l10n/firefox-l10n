@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = 開新隱私視窗
 appmenuitem-history =
     .label = 歷史
+appmenuitem-downloads =
+    .label = 下載項目
 appmenuitem-passwords =
     .label = 密碼
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = 檢視您其他裝置中的分頁清單。
 appmenu-remote-tabs-unverified = 需要驗證您的帳號。
 appmenuitem-fxa-toolbar-sync-now2 = 立刻同步
+appmenuitem-fxa-sign-in = 登入 { -brand-product-name }
 appmenuitem-fxa-manage-account = 管理帳號
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
