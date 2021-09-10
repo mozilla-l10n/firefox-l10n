@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -144,12 +142,10 @@ urlbar-midi-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 urlbar-install-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए ऐड-ऑन संस्थापन को अवरूद्ध कर दिया है।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यह बुकमार्क संपादित करें ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -176,10 +172,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = इस बार, इसके साथ खोजें:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग बदले
-
 search-one-offs-context-open-new-tab =
     .label = नया टैब में खोजें
     .accesskey = T
@@ -189,14 +183,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो के लिए तयशुदा खोज इंजन के रूप में सेट करें
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -237,7 +229,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = सहेजें
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -264,16 +255,13 @@ identity-passive-loaded = इस पेज का भाग सुरक्ष�
 identity-active-loaded = आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.
 identity-weak-encryption = यह पेज कमजोर गोपन का उपयोग करता हैं.
 identity-insecure-login-forms = इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.
-
 identity-https-only-dropdown-on =
     .label = चालू
 identity-https-only-dropdown-off =
     .label = बंद
 identity-https-only-dropdown-off-temporarily =
     .label = अस्थाई रूप से बंद
-
 identity-permissions-storage-access-learn-more = अधिक जानें
-
 identity-permissions-reload-hint = बदलाव को लागु करने के लिए आपको पृष्ठ को फिर से लोड करने की आवश्यकता हैं.
 identity-clear-site-data =
     .label = कूकीज़ तथा साइट डेटा हटायें…
@@ -357,19 +345,15 @@ sharing-warning-disable-for-session =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजें या पता दर्ज करें
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } के साथ खोजें या पता दर्ज करें
-
 urlbar-switch-to-tab =
     .value = टैब में जाएँ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = विस्तारक:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पता में जाएँ
 urlbar-page-action-button =
@@ -416,12 +400,9 @@ urlbar-result-action-search-history = खोज इतिहास
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अब पूर्ण स्क्रीन है
 fullscreen-warning-no-domain = यह दस्तावेज़ अब पूर्ण स्क्रीन पर है
-
-
 fullscreen-exit-button = पूर्ण स्क्रीन से निकलें (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण स्क्रीन से निकलें (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -472,7 +453,6 @@ bookmarks-tools =
     .label = बुकमार्क के उपकरण
 bookmarks-bookmark-edit-panel =
     .label = यह बुकमार्क संपादित करें
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -509,10 +489,30 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = ऑफ़लाइन काम करें
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = औज़ारपट्टी अनुकूलित करें...
     .accesskey = C
+toolbar-button-email-link =
+    .label = ईमेल कडी
+    .tooltiptext = इस पृष्ठ में कोई कड़ी ईमेल करें
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = पृष्ठ सहेजें
+    .tooltiptext = इस पृष्ठ को सहेजें ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = फ़ाइल खोलें
+    .tooltiptext = फ़ाइल खोलें ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = संकलित टैब्स
+    .tooltiptext = अन्य उपकरण से टैब को दिखाएँ
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = नयी निजी विंडो
+    .tooltiptext = एक नए निजी ब्राउजिंग विंडो खोलें ({ $shortcut })
 
 ## EME notification panel
 
@@ -542,7 +542,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } के लिए पॉप-अप स्वीकारें
     .accesskey = P
-
 popups-infobar-block =
     .label = { $uriHost } के लिए पॉप-अप रोकें
     .accesskey = P
@@ -552,4 +551,3 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = इस संदेश को मत दिखाएँ जब पॉप-अप रोके जाते हैं
     .accesskey = डी
-
