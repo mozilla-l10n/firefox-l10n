@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Tunigin Tusligt)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Tunigin Tusligt)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Tunigin Tusligt)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Tunigin Tusligt)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Aru cwiṭ, af-d ugar : nadi s { $engineName } srid seg ufeggag n tensa.
 urlbar-search-tips-redirect-2 = Bdu anadi-ik deg ufeggag n tansiwin i wakken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Fren anegzum-a akken ad tafeḍ ayen tettnadiḍ s tɣawla.
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Tesweḥleḍ anekcum i MIDI γer usmel-agi.
 urlbar-install-blocked =
     .tooltiptext = Tesweḥleḍ asbeddi n yizegrar i usmel-a.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Ẓreg tacreḍṭ-a n usebter ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tikkelt-agi, nadi s:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Beddel iɣewwaren n unadi
-
 search-one-offs-context-open-new-tab =
     .label = Nadi deg yiccer amaynut
     .accesskey = c
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Sbadu-t amsedday n unadi amezwer i Windows Private
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -253,7 +244,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = k
 bookmark-panel-save-button =
     .label = Sekles
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,7 +271,6 @@ identity-passive-loaded = Kra n yiḥricen deg usebter-a mačči d iɣelsanen (a
 identity-active-loaded = Tessenseḍ ammesten deg usebter-a.
 identity-weak-encryption = Asebter-a isseqdac awgelhen fessusen.
 identity-insecure-login-forms = Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.
-
 identity-https-only-connection-upgraded = (leqqem ɣer HTTPS)
 identity-https-only-label = Askar HTTPS-Only
 identity-https-only-dropdown-on =
@@ -293,11 +282,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Rmed askar HTTPS-Only i usmel-a ma tebɣiḍ { -brand-short-name } i uleqqem n tuqqna melmi tzemreḍ.
 identity-https-only-info-turn-off2 = Ma asebter yettban yerreẓ, tzemreḍ ad tsenseḍ kan askar HTTPS i usmel-a akken ad talseḍ asali s useqdec n HTTP araɣellsan.
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
-
 identity-permissions-storage-access-header = Inagan n tuqqna gar yismal
 identity-permissions-storage-access-hint = Imdanen-a zemren ad sxedmen inagan n tuqqna n gar yismal d yisefka n usmel mi ara tiliḍ deg usmel-a.
 identity-permissions-storage-access-learn-more = Issin ugar
-
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
 identity-clear-site-data =
     .label = Sfeḍ inagan n tuqqna akked isefka n usme…
@@ -361,14 +348,12 @@ browser-tab-mute =
         [one] Sgugem iccer
        *[other] Sgugem accaren { $count }
     }
-
 browser-tab-unmute =
     { $count ->
         [1] Kkes asgugem n yiccer
         [one] Kkes asgugem n yiccer
        *[other] Kkes asgugem n waccaren { $count }
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ΓEṚ ICCER
@@ -381,7 +366,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Kter ticraḍ n yisebtar…
     .tooltiptext = Kter ticraḍ n yisebtar seg yiminig-nniḍen ɣer { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = I unekcum s zzerb, err ticraḍ-inek·inem n yisebtar da, ɣef ufeggag n tecraḍ n yisebtar. <a data-l10n-name="manage-bookmarks">Sefrek ticraḍ n yisebtar…</a>
 
 ## WebRTC Pop-up notifications
@@ -399,15 +383,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Wid yettmeslayen
 popup-all-windows-shared = Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.
-
 popup-screen-sharing-block =
     .label = Sewḥel
     .accesskey = Ḥ
-
 popup-screen-sharing-always-block =
     .label = Sewḥel yal tikkelt
     .accesskey = W
-
 popup-mute-notifications-checkbox = Sgugem ilɣa n usmel web mi ara tbeṭṭuḍ
 
 ## WebRTC window or screen share tab switch warning
@@ -429,7 +410,6 @@ enable-devtools-popup-description = Akken ad tesqedceḍ anegzum F12, ldi qbel D
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Nadi neɣ sekcem tansa
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -438,7 +418,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Nadi deg uẓeṭṭa web
     .aria-label = Nadi s { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -447,27 +426,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Sekcem awalen n unadi
     .aria-label = Nadi s { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Sekcem awalen n unadi
     .aria-label = Nadi s tecraḍ
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Sekcem awalen n unadi
     .aria-label = Amazray n unadi
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Sekcem awalen n unadi
     .aria-label = Iccaren n unadi
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nadi s { $name } neɣ sekcem tansa
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -477,11 +451,9 @@ urlbar-permissions-granted =
     .tooltiptext = Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.
 urlbar-switch-to-tab =
     .value = Ddu ɣer yiccer:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Asiɣzef:
-
 urlbar-go-button =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
@@ -548,7 +520,6 @@ urlbar-result-action-search-tabs = Nadi deg waccaren
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -563,12 +534,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> atan tura deg ugdil ačaran
 fullscreen-warning-no-domain = Isemli-a, atan tura deg ugdil ačuṛan
-
-
 fullscreen-exit-button = Ffeɣ seg ugdil ačuṛan (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ffeɣ seg ugdil ačuṛan (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -578,7 +546,6 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Aḥric seg usebter-a yerreẓ.</strong> I wakken ad iẓer { -brand-product-name } ɣef wugur-a, ad t-iṣeggem s zzerb, ttxil-k·m azen aneqqis.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -634,7 +601,6 @@ bookmarks-tools =
     .label = Ifecka n tecraḍ n yisebtar
 bookmarks-bookmark-edit-panel =
     .label = Ẓreg tacreḍṭ n usebter-a
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -648,7 +614,6 @@ bookmarks-toolbar-placeholder =
     .title = Iferdisen n ufeggag n tecraḍ n yisebtar
 bookmarks-toolbar-placeholder-button =
     .label = Iferdisen n ufeggag n tecraḍ n yisebtar
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Iccer amiran n tecreḍt n usebter
@@ -679,7 +644,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Izegrar d yisental
     .tooltiptext = Sefrek izegrar d yisental inek·inem ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -695,10 +659,14 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Mahel war tuqqna
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = Sagen afeggag n yifecka…
     .accesskey = M
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Asfaylu amaynut n tunigin tusligt
+    .tooltiptext = Asfaylu amaynut n tunigin tusligt ({ $shortcut })
 
 ## EME notification panel
 
@@ -740,7 +708,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Sireg isfuyla udhimen i { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Sewḥel isfuyla udhimen i { $uriHost }
     .accesskey = p
@@ -750,7 +717,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ur d-skan ara izen-a ticki isfuyla udhimen weḥlen
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = Ffer asfaylu tugna deg tugna
     .accesskey = H
