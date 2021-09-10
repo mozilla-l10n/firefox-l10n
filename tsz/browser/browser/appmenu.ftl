@@ -5,12 +5,14 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Eraatarakua jimpani
 appmenuitem-new-private-window =
     .label = Juchiiti eraatarakua jimpani
+appmenuitem-history =
+    .label = Patsakata
+appmenuitem-print =
+    .label = Uéchatantsï…
 
 ## Zoom and Fullscreen Controls
 
@@ -38,9 +40,6 @@ appmenuitem-save-page =
 appmenu-help-feedback-page =
     .label = Arhístatsperakua axá…
     .accesskey = A
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
