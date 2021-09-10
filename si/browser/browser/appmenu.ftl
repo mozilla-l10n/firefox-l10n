@@ -17,6 +17,8 @@ appmenuitem-downloads =
     .label = බාගැනිම්
 appmenuitem-print =
     .label = මුද්‍රණය...
+appmenuitem-zoom =
+    .value = විශාලනය
 appmenuitem-help =
     .label = උදව්
 
