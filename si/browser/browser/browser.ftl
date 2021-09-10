@@ -373,6 +373,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ගොනුව විවෘත කරන්න
     .tooltiptext = ගොනුව විවෘත කරන්න ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = සම්මුහුර්ථ කළ ටැබ
+    .tooltiptext = වෙනත් මෙවලම් වලින් ටැබ පෙන්වන්න
 
 ## EME notification panel
 
