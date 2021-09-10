@@ -5,12 +5,18 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Nova finestra
 appmenuitem-new-private-window =
     .label = Nova finestra privata
+appmenuitem-history =
+    .label = Cronuluggìa
+appmenuitem-downloads =
+    .label = Scarricamenti
+appmenuitem-print =
+    .label = Stampa…
+appmenuitem-zoom =
+    .value = Grannizza
 appmenuitem-help =
     .label = Ajutu
 
@@ -27,19 +33,16 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nuḍḍa scheda raputa
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazziuni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
-
 appmenu-remote-tabs-connectdevice =
     .label = Cunnetti n'autru dispusitivu
 appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi toi.
 appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
-
+appmenuitem-fxa-sign-in = Trasi nne { -brand-product-name }
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
@@ -82,4 +85,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gisturi attività
-
