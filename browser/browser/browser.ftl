@@ -389,6 +389,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម
     .tooltiptext = បង្ហាញ​ផ្ទាំង​ពី​ឧបករណ៍​ដទៃ​ទៀត
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = បង្អួច​ឯកជន​ថ្មី
+    .tooltiptext = បើក​បង្អួច​ការ​រុករក​ឯកជន​ថ្មី ({ $shortcut })
 
 ## EME notification panel
 
