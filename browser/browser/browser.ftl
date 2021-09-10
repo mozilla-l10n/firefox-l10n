@@ -472,6 +472,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sünkroniseeritud kaardid
     .tooltiptext = Kuva teistes seadmetes avatud kaarte
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Uus privaatne aken
+    .tooltiptext = Ava uus privaatse veebilehitsemise aken ({ $shortcut })
 
 ## EME notification panel
 
