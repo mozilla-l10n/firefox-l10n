@@ -655,6 +655,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = 도구 모음 사용자 지정…
     .accesskey = C
+toolbar-button-email-link =
+    .label = 메일로 링크 보내기
+    .tooltiptext = 메일로 이 페이지의 링크 보내기
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -665,6 +668,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = 파일 열기
     .tooltiptext = 파일 열기 ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = 동기화된 탭
+    .tooltiptext = 다른 기기의 탭 보기
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = 새 사생활 보호 창
+    .tooltiptext = 새 사생활 보호 창 열기 ({ $shortcut })
 
 ## EME notification panel
 
