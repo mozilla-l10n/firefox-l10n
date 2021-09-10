@@ -670,6 +670,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = פתיחת קובץ
     .tooltiptext = פתיחת קובץ ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = לשוניות מסונכרנות
+    .tooltiptext = הצגת לשוניות ממכשירים אחרים
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
