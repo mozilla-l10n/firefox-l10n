@@ -683,6 +683,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Dataju wócyniś
     .tooltiptext = Dataju wócyniś ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synchronizěrowane rejtariki
+    .tooltiptext = Rejtariki z drugich rědow pokazaś
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
