@@ -17,6 +17,9 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Ŝalti speguladon
 fxa-menu-connect-another-device =
     .label = Konekti alian aparaton…
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Aparatoj spegulataj…
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Sendi langeton tuj al iu ajn aparato, en kiu vi komencis seancon.
 fxa-menu-sign-out =
