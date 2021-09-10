@@ -45,6 +45,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Ganachun' 'ngà a'ngo aga'a...
 appmenu-remote-tabs-welcome = Ni’iāj nej rakïj ñaj āsìj riña a'ngô nej si agâ’t.
 appmenu-remote-tabs-unverified = Da'ui' ma ganatsij ma si kuentat
+appmenuitem-fxa-sign-in = Nutà' si yuguît riña { -brand-product-name }
 appmenuitem-save-page =
     .label = Na'nïnj sà' Pâjina Gù'na…
 
