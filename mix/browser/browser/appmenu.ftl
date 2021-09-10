@@ -5,10 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Ventana tsaá
+appmenuitem-history =
+    .label = Ña ntsinu
+appmenuitem-downloads =
+    .label = Snuù
+appmenuitem-print =
+    .label = Ndatava…
+appmenuitem-zoom =
+    .value = Kua
 appmenuitem-help =
     .label = Chincheyu
 
@@ -20,6 +26,7 @@ appmenuitem-zoom-reduce =
     .label = Saa luu
 
 ## Firefox Account toolbar button and Sync panel in App menu.
+
 
 ## What's New panel in App menu.
 
