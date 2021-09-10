@@ -12,10 +12,14 @@ appmenuitem-new-window =
     .label = Ventana nakàa
 appmenuitem-new-private-window =
     .label = Nànin' 'ngo ventana huìi
+appmenuitem-history =
+    .label = Sa gini’iājt
 appmenuitem-downloads =
     .label = Nadunïnj
 appmenuitem-print =
     .label = Nari' ña du'ua
+appmenuitem-zoom =
+    .value = Soom
 appmenuitem-help =
     .label = Sa ruguñu'unj un
 

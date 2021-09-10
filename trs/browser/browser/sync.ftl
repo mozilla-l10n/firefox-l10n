@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Hìaj nagi'iaj gūñanj
-
 sync-disconnect-dialog-body = { -brand-product-name } si nagi'iaj nuguàn'anj si kuendât sanī si nadure'ej nej sa gi'iát.
 sync-disconnect-dialog-button = Nitāj si 'iaj sunj ngà'
-
 fxa-menu-connect-another-device =
     .label = Duguatûj a'ngô aga'a…
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = 'Iaj sun nugua'ān darn' Aga'a...
 fxa-menu-sign-out =
     .label = Gahuī…
