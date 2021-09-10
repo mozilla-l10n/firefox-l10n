@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = View a list of tabs from your other devices.
 appmenu-remote-tabs-unverified = Your account needs to be verified.
 appmenuitem-fxa-toolbar-sync-now2 = Sync now
+appmenuitem-fxa-sign-in = Sign in to { -brand-product-name }
 appmenuitem-fxa-manage-account = Manage account
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # Variables
