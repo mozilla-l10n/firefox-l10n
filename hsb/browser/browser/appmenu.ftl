@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Nowe priwatne wokno
 appmenuitem-history =
     .label = Historija
+appmenuitem-downloads =
+    .label = Sćehnjenja
 appmenuitem-passwords =
     .label = Hesła
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Wobhladajće sej lisćinu rajtarkow ze swojich gratow.
 appmenu-remote-tabs-unverified = Waše konto dyrbi so wobkrućić.
 appmenuitem-fxa-toolbar-sync-now2 = Nětko synchronizować
+appmenuitem-fxa-sign-in = Pola { -brand-product-name } přizjewić
 appmenuitem-fxa-manage-account = Konto rjadować
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
