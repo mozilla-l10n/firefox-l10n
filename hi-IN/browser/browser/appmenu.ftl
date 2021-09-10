@@ -70,6 +70,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = अपने अन्य उपकरणों से टैब की एक सूची दिखाएं।
 appmenu-remote-tabs-unverified = आपके खाते की पृष्टि करने की आवश्यकता है.
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
+appmenuitem-fxa-sign-in = { -brand-product-name } में साइन इन करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
 appmenuitem-save-page =
