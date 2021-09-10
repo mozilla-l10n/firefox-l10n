@@ -675,6 +675,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Abrir archivo
     .tooltiptext = Abrir archivo ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Pestañas sincronizadas
+    .tooltiptext = Mostrar pestañas de otros dispositivos
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
