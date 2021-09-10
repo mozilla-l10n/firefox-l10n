@@ -20,7 +20,6 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Tất cả các sổ địa chỉ
-
 about-addressbook-books-context-properties =
     .label = Thuộc tính
 about-addressbook-books-context-synchronize =
@@ -31,7 +30,6 @@ about-addressbook-books-context-delete =
     .label = Xóa
 about-addressbook-books-context-remove =
     .label = Xóa
-
 about-addressbook-confirm-delete-book-title = Xóa sổ địa chỉ
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -49,17 +47,14 @@ about-addressbook-search =
     .placeholder = Tìm kiếm { $name }
 about-addressbook-search-all =
     .placeholder = Tìm kiếm tất cả các sổ địa chỉ
-
 about-addressbook-sort-button =
     .title = Thay đổi thứ tự danh sách
-
 about-addressbook-name-format-display =
     .label = Tên hiển thị
 about-addressbook-name-format-firstlast =
     .label = Tên Họ
 about-addressbook-name-format-lastfirst =
     .label = Họ, Tên
-
 about-addressbook-sort-name-ascending =
     .label = Sắp xếp theo tên (A > Z)
 about-addressbook-sort-name-descending =
@@ -68,7 +63,8 @@ about-addressbook-sort-email-ascending =
     .label = Sắp xếp theo địa chỉ e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sắp xếp theo địa chỉ e-mail (Z > A)
-
+about-addressbook-cards-context-write =
+    .label = Viết
 about-addressbook-confirm-delete-mixed-title = Xóa liên hệ và danh sách
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -119,7 +115,6 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Chỉnh sửa
 about-addressbook-cancel-edit-contact-button = Hủy bỏ
 about-addressbook-save-edit-contact-button = Lưu
-
 about-addressbook-details-email-addresses-header = Địa chỉ e-mail
 about-addressbook-details-phone-numbers-header = Số điện thoại
 about-addressbook-details-home-address-header = Địa chỉ nhà
