@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = نافذة خاصة جديدة
 appmenuitem-history =
     .label = التأريخ
+appmenuitem-downloads =
+    .label = التنزيلات
 appmenuitem-passwords =
     .label = كلمات السر
 appmenuitem-addons-and-themes =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = اعرض قائمة بالألسنة من أجهزتك الأخرى.
 appmenu-remote-tabs-unverified = يجب تأكيد حسابك.
 appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
+appmenuitem-fxa-sign-in = لِج إلى { -brand-product-name }
 appmenuitem-fxa-manage-account = أدِر الحساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
