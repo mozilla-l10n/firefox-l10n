@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (приватно прегледање)
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } (приватно прегледање)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } – (приватно прегледање)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – (приватно прегледање)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Куцајте мање, нађите више: користите претраживач { $engineName } директно из траке за адресу.
 urlbar-search-tips-redirect-2 = Почните да куцате у траци за адресу и приказаће вам се предлози које обезбеђује { $engineName } и историја прегледања.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Изаберите ову пречицу за бржу претраживање.
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Овом веб-сајту сте забранили приступ MIDI уређајима.
 urlbar-install-blocked =
     .tooltiptext = Блокирали сте инсталацију додатака са овог веб-сајта.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Уреди обележивач ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Претражи помоћу:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени подешавања претраге
-
 search-one-offs-context-open-new-tab =
     .label = Претражи на новој картици
     .accesskey = П
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Постави као подразумевани претраживач у приватним прозорима
     .accesskey = о
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -254,7 +245,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = П
 bookmark-panel-save-button =
     .label = Сачувај
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -294,7 +284,6 @@ identity-passive-loaded = Неки делови ове странице, поп�
 identity-active-loaded = Онемогућили сте заштиту на овој страници.
 identity-weak-encryption = Ова страница користи слабо шифровање.
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
-
 identity-https-only-connection-upgraded = (надограђено на HTTPS)
 identity-https-only-label = Режим „Само HTTPS”
 identity-https-only-dropdown-on =
@@ -306,11 +295,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Укључите режим „Само HTTPS” за овај сајт ако желите да { -brand-short-name } надогради везу кад је то могуће.
 identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити режим „Само HTTPS” и поново је учитати преко небезбедног HTTP-а.
 identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
-
 identity-permissions-storage-access-header = Колачићи трећих страна
 identity-permissions-storage-access-hint = Ове стране могу користити вишестраничне колачиће и страничне податке током ваше посете страници.
 identity-permissions-storage-access-learn-more = Сазнајте више
-
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
 identity-clear-site-data =
     .label = Обриши колачиће и податке сајта…
@@ -375,7 +362,6 @@ browser-tab-mute =
         [few] ИСКЉУЧИ ЗВУК { $count } КАРТИЦЕ
        *[other] ИСКЉУЧИ ЗВУК { $count } КАРТИЦА
     }
-
 browser-tab-unmute =
     { $count ->
         [1] УКЉУЧИ ЗВУК КАРТИЦЕ
@@ -383,7 +369,6 @@ browser-tab-unmute =
         [few] УКЉУЧИ ЗВУК { $count } КАРТИЦЕ
        *[other] УКЉУЧИ ЗВУК { $count } КАРТИЦА
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ПУСТИ САДРЖАЈ ИЗ КАРТИЦЕ
@@ -397,7 +382,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Увези обележиваче…
     .tooltiptext = Увезите обележиваче из другог прегледача у { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Брзо приступите обележивачима тако што ћете их поставити на ову траку. <a data-l10n-name="manage-bookmarks">Управљајте обележивачима…</a>
 
 ## WebRTC Pop-up notifications
@@ -415,15 +399,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Звучници
 popup-all-windows-shared = Сви видљиви прозори на екрану ће бити подељени.
-
 popup-screen-sharing-block =
     .label = Блокирај
     .accesskey = Б
-
 popup-screen-sharing-always-block =
     .label = Увек блокирај
     .accesskey = У
-
 popup-mute-notifications-checkbox = Током дељења искључи обавештења веб-сајтова
 
 ## WebRTC window or screen share tab switch warning
@@ -445,7 +426,6 @@ enable-devtools-popup-description = Да бисте користили преч�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Претражи или унеси адресу
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -454,7 +434,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Претражите интернет
     .aria-label = Претражите у претраживачу { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -463,27 +442,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Унеси појмове за претрагу
     .aria-label = Претражи { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Унесите термин за претрагу
     .aria-label = Претражите обележиваче
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Унесите термин за претрагу
     .aria-label = Претражите историју
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Унесите термин за претрагу
     .aria-label = Претражи картице
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Претражите у претраживачу { $name } или унесите адресу
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -493,11 +467,9 @@ urlbar-permissions-granted =
     .tooltiptext = Овом веб-сајту сте одобрили додатне дозволе.
 urlbar-switch-to-tab =
     .value = Пређите на картицу:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Додатак:
-
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
@@ -564,7 +536,6 @@ urlbar-result-action-search-tabs = Претражи картице
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -579,12 +550,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> је сада у приказу преко целог екрана
 fullscreen-warning-no-domain = Овај документ се приказује преко целог екрана
-
-
 fullscreen-exit-button = Изађи из режима целог екрана (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Изађи из режима целог екрана (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -594,7 +562,6 @@ pointerlock-warning-no-domain = Овај документ управља са в
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Део странице се срушио. </strong>Пошаљите извештај да би { -brand-product-name } сазнао за овај проблем и брже га решио.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -650,7 +617,6 @@ bookmarks-tools =
     .label = Алатке за обележиваче
 bookmarks-bookmark-edit-panel =
     .label = Уреди обележивач
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -664,7 +630,6 @@ bookmarks-toolbar-placeholder =
     .title = Ставке на траци са обележивачима
 bookmarks-toolbar-placeholder-button =
     .label = Ставке на траци са обележивачима
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Обележи тренутну картицу
@@ -695,7 +660,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Додаци и теме
     .tooltiptext = Управљајте додацима и темама ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -711,10 +675,19 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Офлајн режим
     .accesskey = ф
-
 toolbar-overflow-customize-button =
     .label = Прилагоди траку са алаткама…
     .accesskey = П
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Сачувај страницу
+    .tooltiptext = Сачувај ову страницу ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Отвори датотеку
+    .tooltiptext = Отвори датотеку ({ $shortcut })
 
 ## EME notification panel
 
@@ -756,7 +729,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Дозволи искачуће прозоре за { $uriHost }
     .accesskey = Д
-
 popups-infobar-block =
     .label = Блокирај искачуће прозоре за { $uriHost }
     .accesskey = Д
@@ -766,7 +738,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Не приказуј ову поруку када су искачући прозори блокирани
     .accesskey = Н
-
 picture-in-picture-hide-toggle =
     .label = Сакриј прекидач „Слика у слици”
     .accesskey = С
