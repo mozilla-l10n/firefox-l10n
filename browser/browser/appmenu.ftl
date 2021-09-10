@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Mussar ina glista dals tabs da tes auters apparats.
 appmenu-remote-tabs-unverified = Tes conto sto vegnir verifitgà.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
+appmenuitem-fxa-sign-in = S'annunziar tar { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar il conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
