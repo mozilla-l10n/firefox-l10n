@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Als Betrugsversuch gemeldete Websites blockieren (Phishing)">
 <!ENTITY blockWebForgeries.accesskey      "B">
 
+<!ENTITY blockAutoRefresh.label           "Warnen, wenn Websites versuchen, weiterzuleiten oder die Seite neu zu laden">
+<!ENTITY blockAutoRefresh.accesskey       "n">
