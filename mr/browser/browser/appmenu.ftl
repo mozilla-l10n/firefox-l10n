@@ -43,6 +43,7 @@ appmenu-remote-tabs-noclients = आपल्या इतर उपकरणा�
 appmenu-remote-tabs-connectdevice =
     .label = अन्य उपकरण जोडा
 appmenu-remote-tabs-unverified = आपले खाते सत्यापित करणे आवश्यक आहे.
+appmenuitem-fxa-sign-in = { -brand-product-name } मध्ये साइन इन करा
 appmenuitem-save-page =
     .label = पृष्ठ असे साठवा…
 
