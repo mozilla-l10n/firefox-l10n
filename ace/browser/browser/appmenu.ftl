@@ -5,15 +5,16 @@
 
 ## App Menu
 
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Tab Barô
 appmenuitem-new-window =
     .label = Tingkap Barô
 appmenuitem-new-private-window =
     .label = Tingkap Rahsia Barô
+appmenuitem-history =
+    .label = Riwayat
+appmenuitem-downloads =
+    .label = Beureukaih teukeubah
 appmenuitem-help =
     .label = Beunatu
 
