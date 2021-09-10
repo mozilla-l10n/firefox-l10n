@@ -13,6 +13,10 @@ appmenuitem-new-private-window =
     .label = Sutura zanfun taaga
 appmenuitem-history =
     .label = Taariki
+appmenuitem-print =
+    .label = Kar…
+appmenuitem-zoom =
+    .value = Bebbeerandi
 appmenuitem-help =
     .label = Faaba
 
