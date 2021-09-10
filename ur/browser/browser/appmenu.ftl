@@ -80,6 +80,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = دیگر آلات سے ٹیبیں کی فہرست دیکھنیں۔
 appmenu-remote-tabs-unverified = آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔
 appmenuitem-fxa-toolbar-sync-now2 = ابھی سنک کریں
+appmenuitem-fxa-sign-in = { -brand-product-name } میں سائن ان کریں
 appmenuitem-fxa-manage-account = اکاؤنٹ منظم کریں
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-sync-and-save-data2 = سنک اور محفوظ کریں

@@ -14,5 +14,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = آلات کی ہمہ وقت سازی کر رہے ہے…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = کسی بھی آلے پر فوری طور پر ایک ٹیب بھیجیں جس پر آپ نے سائن ان کیا ہے۔
 fxa-menu-sign-out =
     .label = سائن آؤٹ…
