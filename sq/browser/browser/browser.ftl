@@ -654,6 +654,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Hap Kartelë
     .tooltiptext = Hapni kartelë ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Skeda të Njëkohësuara
+    .tooltiptext = Shfaqni skeda nga pajisje të tjera
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
