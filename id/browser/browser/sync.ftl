@@ -17,6 +17,9 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Aktifkan Sinkronisasi
 fxa-menu-connect-another-device =
     .label = Sambungkan Peranti Lain…
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Menyinkronkan Peranti…
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Kirim tab secara instan ke perangkat apa pun tempat Anda masuk.
 fxa-menu-sign-out =
