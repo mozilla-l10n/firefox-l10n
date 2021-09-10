@@ -653,6 +653,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = แท็บที่ซิงค์
     .tooltiptext = แสดงแท็บจากอุปกรณ์อื่น ๆ
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = หน้าต่างส่วนตัวใหม่
+    .tooltiptext = เปิดหน้าต่างเรียกดูแบบส่วนตัวใหม่ ({ $shortcut })
 
 ## EME notification panel
 
