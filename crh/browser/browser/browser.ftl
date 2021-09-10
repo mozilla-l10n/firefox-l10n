@@ -398,6 +398,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Aynılaştırılğan İlmekler
     .tooltiptext = Diger cihazlardan ilmeklerni köster
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Yañı Hususiy Pencere
+    .tooltiptext = Yañı bir Hususiy Kezinüv penceresini aç ({ $shortcut })
 
 ## EME notification panel
 
