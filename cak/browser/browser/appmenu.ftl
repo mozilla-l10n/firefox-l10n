@@ -11,11 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Ütz k'exoj — tiqasäx wakami
     .label-update-unsupported = Man ütz ta k'exoj —man k'amonel ta q'inoj
     .label-update-restart = Ütz k'exoj — titzolïx wakami
-
 appmenuitem-protection-dashboard-title = Rupas taq Chajinïk
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = K'ak'a' Ruwi'
 appmenuitem-new-window =
@@ -28,6 +24,8 @@ appmenuitem-addons-and-themes =
     .label = Taq Tz'aqat chuqa' taq Wachinel
 appmenuitem-find-in-page =
     .label = Tilitäj Pa Ruxaq…
+appmenuitem-zoom =
+    .value = Runimilem
 appmenuitem-more-tools =
     .label = Ch'aqa' Samajib'äl
 appmenuitem-help =
@@ -44,7 +42,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Titz'apïx Ruk'utsamaj Chokoy
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,27 +62,21 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Titikirisäx molojri'ïl pa Ximoj…
 appmenu-remote-tabs-turn-on-sync =
     .label = Titzij Ximoj…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Kek'ut pe ch'aqa' taq ruwi'
     .tooltiptext = Kek'ut pe ri taq ruwi' e k'o pa re okisaxel re'
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Majun ruwi' ejaqon
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?
-
 appmenu-remote-tabs-connectdevice =
     .label = Tokisäx Jun Chik Okisaxel
 appmenu-remote-tabs-welcome = Titz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.
 appmenu-remote-tabs-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
-
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -99,14 +90,12 @@ appmenu-fxa-signed-in-label = Titikirisäx Molojri'ïl
 appmenu-fxa-setup-sync =
     .label = Titzij Ximoj…
 appmenu-fxa-show-more-tabs = Kek'ut pe ch'aqa' taq ruwi'
-
 appmenuitem-save-page =
     .label = Tiyak Ruxaq Achi'el…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Achike natzijoj
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -119,49 +108,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Ketz'et juley rutzijol
-
 profiler-popup-description-title =
     .value = Tiyak, tinik'öx, tikomonïx
-
 profiler-popup-description = Kato'on pa kik'ayewal rub'eyal nisamäj, akuchi' nataluj kitzijol ruwäch taq b'i'aj richin nakomonij rik'in ri amolaj.
-
 profiler-popup-learn-more = Tetamäx juley
-
 profiler-popup-settings =
     .value = Taq nuk'ulem
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kenuk' taq Runuk'ulem…
-
 profiler-popup-disabled =
     Wakami chupül ri ya'öl ruwäch rub'i', rik'in jub'a' ruma jun ichinan rokem tzuwäch
     nijaq.
-
 profiler-popup-recording-screen = Niyak…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Ichinan
-
 profiler-popup-start-recording-button =
     .label = Titikïr Ruyakik
-
 profiler-popup-discard-button =
     .label = Tich'aqïx
-
 profiler-popup-capture-button =
     .label = Chapoj
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -229,7 +204,6 @@ appmenu-customizetoolbar =
     .label = Tichinäx Rukajtz'ik Samajib'äl…
 appmenu-taskmanager =
     .label = Kinuk'samajel taq Samaj
-
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
 appmenu-developer-tools-extensions =
     .label = Kik'amal B'anonela'
