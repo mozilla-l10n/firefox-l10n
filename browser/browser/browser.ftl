@@ -655,6 +655,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Lapelas sincronizadas
     .tooltiptext = Amosar as lapelas doutros dispositivos
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nova xanela privada
+    .tooltiptext = Abrir unha nova xanela de navegación privada ({ $shortcut })
 
 ## EME notification panel
 
