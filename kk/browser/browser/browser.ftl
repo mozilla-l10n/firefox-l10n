@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Жекелік шолу режимі)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Жекелік шолу режимі)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Жекелік шолу режимі)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Жекелік шолу режимі)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Азырақ теріп, көбірек табыңыз: { $engineName } қызметінен тура адрестік жолақтан іздеңіз.
 urlbar-search-tips-redirect-2 = { $engineName } және шолу тарихы ұсыныстарын көру үшін, іздеуді адрестік жолағында бастаңыз.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Қажетті нәрсені тезірек табу үшін бұл жарлықты таңдаңыз.
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-install-blocked =
     .tooltiptext = Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Бұл бетбелгіні түзету ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Осы рет, келесімен іздеу:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Іздеу баптауларын өзгерту
-
 search-one-offs-context-open-new-tab =
     .label = Жаңа бетте іздеу
     .accesskey = т
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Жекелік терезелері үшін негізгі іздеу жүйесі ретінде орнату
     .accesskey = р
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -253,7 +244,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = с
 bookmark-panel-save-button =
     .label = Сақтау
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,7 +271,6 @@ identity-passive-loaded = Бұл парақтың кейбір бөліктер�
 identity-active-loaded = Бұл парақта қорғанысты сөндіргенсіз.
 identity-weak-encryption = Бұл парақ әлсіз шифрлеуді қолданады.
 identity-insecure-login-forms = Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.
-
 identity-https-only-connection-upgraded = (HTTPS дейін жаңартылды)
 identity-https-only-label = Тек-HTTPS режимі
 identity-https-only-dropdown-on =
@@ -293,11 +282,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = { -brand-short-name } мүмкін болған кезде байланысты қауіпсіз нұсқасына жаңартуы үшін, бұл сайт үшін тек-HTTPS режимін іске қосыңыз.
 identity-https-only-info-turn-off2 = Егер парақ бұзылған сияқты көрінсе, сіз оны қауіпсіз емес HTTP арқылы қайта жүктеу үшін осы сайт үшін тек-HTTPS режимін өшіре аласыз.
 identity-https-only-info-no-upgrade = Байланысты HTTP-дан жаңарту мүмкін емес.
-
 identity-permissions-storage-access-header = Сайтаралық cookie файлдары
 identity-permissions-storage-access-hint = Бұл тараптар сіз осы сайтта болған кезде сайтаралық cookie файлдарын және сайт деректерін қолдана алады.
 identity-permissions-storage-access-learn-more = Көбірек білу
-
 identity-permissions-reload-hint = Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.
 identity-clear-site-data =
     .label = Cookies файлдары және сайт деректерін тазарту…
@@ -360,13 +347,11 @@ browser-tab-mute =
         [1] БЕТ ДЫБЫСЫН БАСУ
        *[other] { $count } БЕТ ДЫБЫСЫН БАСУ
     }
-
 browser-tab-unmute =
     { $count ->
         [1] БЕТ ДЫБЫСЫН ІСКЕ ҚОСУ
        *[other] { $count } БЕТ ДЫБЫСЫН ІСКЕ ҚОСУ
     }
-
 browser-tab-unblock =
     { $count ->
         [1] БЕТТІ ОЙНАТУ
@@ -378,7 +363,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Бетбелгілерді импорттау…
     .tooltiptext = Басқа браузерден бетбелгілерді { -brand-short-name } ішіне иморттау.
-
 bookmarks-toolbar-empty-message = Жылдам қатынау үшін, бетбелгілеріңізді бетбелгілер панеліне орналастырыңыз. <a data-l10n-name="manage-bookmarks">Бетбелгілерді басқару…</a>
 
 ## WebRTC Pop-up notifications
@@ -396,15 +380,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Динамиктер
 popup-all-windows-shared = Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.
-
 popup-screen-sharing-block =
     .label = Бұғаттау
     .accesskey = Б
-
 popup-screen-sharing-always-block =
     .label = Әрқашан бұғаттау
     .accesskey = ш
-
 popup-mute-notifications-checkbox = Бөлісу кезінде веб-сайт хабарламаларының дыбысын сөндіру
 
 ## WebRTC window or screen share tab switch warning
@@ -426,7 +407,6 @@ enable-devtools-popup-description = F12 жарлығын қолдану үшін
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Іздеу немесе адрес
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -435,7 +415,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Интернеттен іздеу
     .aria-label = { $name } көмегімен іздеу
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -444,27 +423,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = { $name } іздеу
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Бетбелгілерден іздеу
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Тарихтан іздеу
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Беттерден іздеу
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } көмегімен іздеу немесе адрес
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -474,11 +448,9 @@ urlbar-permissions-granted =
     .tooltiptext = Бұл веб-сайтқа қосымша рұқсаттарды бердіңіз.
 urlbar-switch-to-tab =
     .value = Бетке ауысу:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Кеңейту:
-
 urlbar-go-button =
     .tooltiptext = Енгізілген адреске өту
 urlbar-page-action-button =
@@ -545,7 +517,6 @@ urlbar-result-action-search-tabs = Беттерден іздеу
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -560,12 +531,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> енді толық экран режимінде
 fullscreen-warning-no-domain = Бұл құжат енді толық экран режимінде
-
-
 fullscreen-exit-button = Толық экраннан шығу (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Толық экраннан шығу (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -575,7 +543,6 @@ pointerlock-warning-no-domain = Бұл құжат курсорыңызды ба�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Бұл парақтың бір бөлігі құлады.</strong> Бұл мәселе туралы { -brand-product-name } хабардар ету және оны тезірек шешу үшін есептеме жіберіңіз.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -631,7 +598,6 @@ bookmarks-tools =
     .label = Бетбелгілер құралдары
 bookmarks-bookmark-edit-panel =
     .label = Бетбелгіні түзету
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -645,7 +611,6 @@ bookmarks-toolbar-placeholder =
     .title = Бетбелгілер панелінің элементтері
 bookmarks-toolbar-placeholder-button =
     .label = Бетбелгілер панелінің элементтері
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Ағымдағы бетті бетбелгілерге қосу
@@ -676,7 +641,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Қосымшалар және темалар
     .tooltiptext = Қосымшалар және темаларыңызды басқару ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -692,10 +656,25 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Дербес жұмыс істеу
     .accesskey = Д
-
 toolbar-overflow-customize-button =
     .label = Құралдар панелін баптау…
     .accesskey = б
+toolbar-button-email-link =
+    .label = Сілтемені эл. поштамен жіберу
+    .tooltiptext = Бұл парақ сілтемесін эл. поштамен жіберу
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Парақты сақтау
+    .tooltiptext = Бұл парақты сақтау ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Файлды ашу
+    .tooltiptext = Файлды ашу ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Синхрондалған беттер
+    .tooltiptext = Басқа құрылғылардан беттерді көрсету
 
 ## EME notification panel
 
@@ -737,7 +716,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } үшін "атып шығатын" терезелерді болдыру
     .accesskey = т
-
 popups-infobar-block =
     .label = { $uriHost } үшін "атып шығатын" терезелерді болдырмау
     .accesskey = т
@@ -747,7 +725,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = "Атып шығатын" терезелерді болдырмау мүмкіндігі қосулы кезінде осы хабарламаны көрсетпеу
     .accesskey = п
-
 picture-in-picture-hide-toggle =
     .label = Суреттегі сурет қосқышын жасыру
     .accesskey = ы
