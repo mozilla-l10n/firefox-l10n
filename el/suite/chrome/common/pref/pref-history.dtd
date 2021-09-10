@@ -8,7 +8,7 @@
 <!ENTITY  historyPages.label                "Το ιστορικό είναι μια λίστα με σελίδες που επισκεφθήκατε προηγουμένως.">
 <!ENTITY  enableHistory.label               "Απομνημόνευση σελίδων που έχετε επισκεφθεί">
 <!ENTITY  enableHistory.accesskey           "Α">
-<!ENTITY  clearHistory.label                "Εκκαθάριση ιστορικού">
+<!ENTITY  clearHistory.label                "Απαλοιφή ιστορικού">
 <!ENTITY  clearHistory.accesskey            "σ">
 
 <!ENTITY  locationBarHistory.caption        "Ιστορικό γραμμής διευθύνσεων">

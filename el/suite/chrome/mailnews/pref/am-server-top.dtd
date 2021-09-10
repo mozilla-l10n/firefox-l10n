@@ -50,7 +50,7 @@
 <!ENTITY modelDeleteImmediately.label "Άμεση αφαίρεση">
 <!ENTITY modelDeleteImmediately.accesskey "φ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Διαγραφή&quot;) εισερχομένων κατά την έξοδο">
+<!ENTITY expungeOnExit.label "Εκκαθάριση («Διαγραφή») εισερχομένων κατά την έξοδο">
 <!ENTITY expungeOnExit.accesskey "Ε">
 <!ENTITY emptyTrashOnExit.label "Άδειασμα απορριμάτων κατά την έξοδο">
 <!ENTITY emptyTrashOnExit.accesskey "δ">
