@@ -672,6 +672,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = 開啟檔案
     .tooltiptext = 開啟檔案（{ $shortcut }）
+toolbar-button-synced-tabs =
+    .label = 同步的分頁
+    .tooltiptext = 顯示來自其他裝置的分頁
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = 開新隱私視窗
+    .tooltiptext = 新增隱私瀏覽視窗 ({ $shortcut })
 
 ## EME notification panel
 
