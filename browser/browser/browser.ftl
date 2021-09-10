@@ -413,9 +413,19 @@ toolbar-button-email-link =
 toolbar-button-save-page =
     .label = Sarva pagina
     .tooltiptext = Sarva sta pagina ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Arvi schedaio
+    .tooltiptext = Arvi schedaio ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Feuggi scincronizæ
     .tooltiptext = Fanni vedde feuggi da n'atro aparato
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Neuvo barcon privòu
+    .tooltiptext = Arvi 'n neuvo barcon privòu ({ $shortcut })
 
 ## EME notification panel
 
