@@ -517,6 +517,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Համաժամեցված ներդիրներ
     .tooltiptext = Ցուցադրել այլ սարքերի ներդիրները
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Սկսել Գաղտնի դիտարկում
+    .tooltiptext = Բացել Գաղտնի դիտարկման նոր պատուհան ({ $shortcut })
 
 ## EME notification panel
 
