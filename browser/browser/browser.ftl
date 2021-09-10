@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Brabhsáil Phríobháideach)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Brabhsáil Phríobháideach)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Brabhsáil Phríobháideach)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Brabhsáil Phríobháideach)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -112,12 +110,10 @@ urlbar-screen-blocked =
     .tooltiptext = Chuir tú cosc ar an suíomh seo do scáileán a chomhroinnt.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Chuir tú cosc ar stóras seasmhach ar an suíomh seo.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cuir an leabharmharc seo in eagar ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -142,17 +138,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = An uair seo, cuardaigh le:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Athraigh na socruithe cuardaigh
-
 search-one-offs-context-open-new-tab =
     .label = Cuardaigh i gCluaisín Nua
     .accesskey = r
 search-one-offs-context-set-as-default =
     .label = Socraigh mar Inneall Cuardaigh Réamhshocraithe
     .accesskey = d
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -168,6 +161,7 @@ search-one-offs-add-engine-menu =
 
 ## Bookmark Panel
 
+
 ## Identity Panel
 
 identity-connection-internal = Is leathanach slán { -brand-short-name } é seo.
@@ -178,7 +172,6 @@ identity-passive-loaded = Tá codanna den leathanach seo neamhshlán (léithéid
 identity-active-loaded = Tá cosaint díchumasaithe agat ar an leathanach seo.
 identity-weak-encryption = Úsáideann an leathanach seo criptiú lag.
 identity-insecure-login-forms = D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.
-
 identity-permissions-reload-hint = Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.
 identity-clear-site-data =
     .label = Glan na Fianáin agus Sonraí Suímh...
@@ -238,19 +231,15 @@ popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáile�
 
 urlbar-placeholder =
     .placeholder = Cuardaigh nó cuir seoladh isteach
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cuardaigh le { $name } nó cuir seoladh isteach
-
 urlbar-switch-to-tab =
     .value = Téigh go cluaisín:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Eisínteacht:
-
 urlbar-go-button =
     .tooltiptext = Téigh go dtí an seoladh atá sa Bharra Suímh
 urlbar-page-action-button =
@@ -282,12 +271,9 @@ urlbar-result-action-visit = Oscail
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = Tá <span data-l10n-name="domain">{ $domain }</span> ar lánscáileán anois
 fullscreen-warning-no-domain = Tá an cháipéis seo ar lánscáileán anois
-
-
 fullscreen-exit-button = Fág Mód Lánscáileáin (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Fág Mód Lánscáileáin (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -315,7 +301,6 @@ bookmarks-tools =
     .label = Uirlisí Leabharmharcála
 bookmarks-bookmark-edit-panel =
     .label = Cuir an Leabharmharc Seo in Eagar
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -352,10 +337,22 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Oibrigh As Líne
     .accesskey = b
-
 toolbar-overflow-customize-button =
     .label = Saincheap an Barra Uirlisí…
     .accesskey = c
+toolbar-button-email-link =
+    .label = Seol an Nasc trí Ríomhphost
+    .tooltiptext = Seol nasc leis an leathanach seo trí ríomhphost
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Sábháil an Leathanach
+    .tooltiptext = Sábháil an leathanach seo ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Oscail Comhad
+    .tooltiptext = Oscail comhad ({ $shortcut })
 
 ## EME notification panel
 
@@ -381,7 +378,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ceadaigh preabfhuinneoga do { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Cuir cosc ar phreabfhuinneoga do { $uriHost }
     .accesskey = p
@@ -391,7 +387,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ná taispeáin an teachtaireacht seo nuair a bhíonn cosc ar phreabfhuinneoga
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = Folaigh an Scoránú Pictiúr-i-bPictiúr
     .accesskey = F
