@@ -662,6 +662,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Send lenke med e-post
     .tooltiptext = Send ei lenke til sida med e-post
+toolbar-button-synced-tabs =
+    .label = Synkroniserte faner
+    .tooltiptext = Vis faner frå andre einingar
 
 ## EME notification panel
 
