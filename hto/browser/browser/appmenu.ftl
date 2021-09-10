@@ -5,12 +5,14 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Kómue eroirafo
 appmenuitem-new-private-window =
     .label = Dáma kúe kómue eroirafo
+appmenuitem-history =
+    .label = Jagaɨ
+appmenuitem-zoom =
+    .value = Dɨeze
 
 ## Zoom and Fullscreen Controls
 
@@ -19,7 +21,6 @@ appmenuitem-new-private-window =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Túide úitɨraɨ íñede
-
 appmenuitem-save-page =
     .label = Jóne bénomo...
 
