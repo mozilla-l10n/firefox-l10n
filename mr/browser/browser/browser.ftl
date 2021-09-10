@@ -402,11 +402,19 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = साधनपट्टी बदला...
     .accesskey = C
+toolbar-button-email-link =
+    .label = ईमेल दुवा
+    .tooltiptext = ह्या पृष्ठासाठीचा दुवा ईमेल करा
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ संकलित करा
     .tooltiptext = हे पृष्ठ संकलित करा ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = फाइल उघडा
+    .tooltiptext = फाइल उघडा ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = ताळमेळीत टॅब्स
     .tooltiptext = आपल्या इतर उपकरणांवरील टॅब्स येथे दाखवा
