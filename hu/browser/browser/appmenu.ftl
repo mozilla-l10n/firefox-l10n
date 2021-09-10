@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Új privát ablak
 appmenuitem-history =
     .label = Előzmények
+appmenuitem-downloads =
+    .label = Letöltések
 appmenuitem-passwords =
     .label = Jelszavak
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Tekintse meg a más eszközökről származó lapok listáját.
 appmenu-remote-tabs-unverified = A fiókját ellenőrizni kell.
 appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
+appmenuitem-fxa-sign-in = Jelentkezzen be a { -brand-product-name }ba
 appmenuitem-fxa-manage-account = Fiók kezelése
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
