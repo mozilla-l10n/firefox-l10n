@@ -11,6 +11,14 @@ findbar-previous =
     .tooltiptext = ᱟᱭᱟᱛ ᱦᱤᱸᱥ ᱨᱮᱭᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱥᱮᱫᱟᱜ ᱚᱰᱚᱠ ᱧᱟᱢ ᱢᱮ
 findbar-find-button-close =
     .tooltiptext = ᱯᱟᱱᱛᱮ ᱵᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+findbar-highlight-all2 =
+    .label = ᱡᱷᱚᱛᱚ ᱩᱫᱩᱜ ᱨᱟᱠᱟᱵ
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ᱩ
+           *[other] ᱨ
+        }
+    .tooltiptext = ᱠᱟᱛᱷᱟ ᱢᱟᱞᱟ ᱡᱷᱚᱛᱚ ᱩᱫᱩᱜ ᱨᱟᱠᱟᱵ ᱢᱮ
 findbar-case-sensitive =
     .label = ᱡᱚᱲ ᱠᱟᱛᱷᱟ
     .accesskey = ᱡ
