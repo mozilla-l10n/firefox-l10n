@@ -658,6 +658,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Ireki fitxategia
     .tooltiptext = Ireki fitxategia ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Sinkronizatutako fitxak
+    .tooltiptext = Erakutsi beste gailuetako fitxak
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
