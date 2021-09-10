@@ -666,6 +666,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Уладкаванне паліцы прылад…
     .accesskey = У
+toolbar-button-email-link =
+    .label = Даслаць спасылку эл.поштай
+    .tooltiptext = Даслаць спасылку на гэту старонку эл.поштай
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
