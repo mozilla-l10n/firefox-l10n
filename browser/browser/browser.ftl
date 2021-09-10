@@ -666,6 +666,11 @@ toolbar-button-email-link =
     .label = Enviar por email
     .tooltiptext = Enviar ligação para esta página
 # Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Guardar página
+    .tooltiptext = Guardar esta página ({ $shortcut })
+# Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Abrir ficheiro
