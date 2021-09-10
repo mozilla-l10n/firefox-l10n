@@ -662,6 +662,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Personalizar barra de herramientas…
     .accesskey = C
+toolbar-button-email-link =
+    .label = Enviar enlace
+    .tooltiptext = Enviar un enlace a esta página…
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -672,6 +675,11 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Abrir archivo
     .tooltiptext = Abrir archivo ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nueva ventana privada
+    .tooltiptext = Abrir una nueva ventana de navegación privada ({ $shortcut })
 
 ## EME notification panel
 
