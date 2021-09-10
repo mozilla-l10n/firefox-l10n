@@ -15,6 +15,8 @@ appmenuitem-history =
     .label = வரலாறு
 appmenuitem-print =
     .label = அச்சிடு…
+appmenuitem-zoom =
+    .value = பெரியதாக்கு
 appmenuitem-help =
     .label = உதவி
 
