@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Bagong Private Window
 appmenuitem-history =
     .label = Kasaysayan
+appmenuitem-downloads =
+    .label = Mga Download
 appmenuitem-passwords =
     .label = Mga Password
 appmenuitem-addons-and-themes =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Tingnan ang listahan ng mga tab mula sa iba mong mga device.
 appmenu-remote-tabs-unverified = Ang iyong account ay kailangang ma-verify.
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
+appmenuitem-fxa-sign-in = Mag-sign in sa { -brand-product-name }
 appmenuitem-fxa-manage-account = Pamahalaan ang account
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables

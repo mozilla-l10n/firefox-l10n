@@ -11,5 +11,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Nag-sysync ng Devices…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Magpadala agad ng tab sa device na naka-sign in ka.
 fxa-menu-sign-out =
     .label = Sign Out…
