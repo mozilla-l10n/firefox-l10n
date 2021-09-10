@@ -678,6 +678,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Syngroane ljepblêden
     .tooltiptext = Ljepblêden fan oare apparaten toane
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nij priveefinster
+    .tooltiptext = Iepenje in nij priveenavigaasjefinster ({ $shortcut })
 
 ## EME notification panel
 
