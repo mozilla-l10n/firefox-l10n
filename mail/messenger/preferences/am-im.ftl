@@ -4,3 +4,11 @@
 
 account-settings-title = Configurações de autenticação
 account-channel-title = Canais padrão
+chat-encryption-label = Criptografia nativa de ponta a ponta
+chat-encryption-status = Status de criptografia
+chat-encryption-placeholder = Criptografia não iniciada.
+chat-encryption-sessions = Sessões
+chat-encryption-session-verify = Validar
+    .title = Validar a identidade desta sessão
+chat-encryption-session-trusted = confiável
+    .title = A identidade desta sessão foi validada
