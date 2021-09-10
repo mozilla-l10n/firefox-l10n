@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Новое приватное окно
 appmenuitem-history =
     .label = Журнал
+appmenuitem-downloads =
+    .label = Загрузки
 appmenuitem-passwords =
     .label = Пароли
 appmenuitem-addons-and-themes =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Просмотрите список вкладок с других устройств.
 appmenu-remote-tabs-unverified = Ваш аккаунт должен быть подтверждён.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизировать
+appmenuitem-fxa-sign-in = Войти в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление аккаунтом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
