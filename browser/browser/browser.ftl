@@ -662,6 +662,17 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Werkbalk aanpassen…
     .accesskey = a
+toolbar-button-email-link =
+    .label = Koppeling e-mailen
+    .tooltiptext = Een koppeling naar deze pagina e-mailen
+toolbar-button-synced-tabs =
+    .label = Gesynchroniseerde tabbladen
+    .tooltiptext = Tabbladen van andere apparaten tonen
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nieuw privévenster
+    .tooltiptext = Een nieuw privénavigatievenster openen ({ $shortcut })
 
 ## EME notification panel
 
