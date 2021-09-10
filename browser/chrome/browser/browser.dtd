@@ -146,7 +146,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg2                "Безпечний перегляд!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Дякую!">
 
-<!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристроїв…">
+<!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
 
 <!ENTITY libraryButton.tooltip "Перегляд історії, збережених закладок та інших даних">
 
