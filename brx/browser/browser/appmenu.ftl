@@ -15,6 +15,8 @@ appmenuitem-history =
     .label = जारिमिन
 appmenuitem-print =
     .label = साफाय...( P)
+appmenuitem-zoom =
+    .value = जुम खालाम
 appmenuitem-help =
     .label = मदद
 
