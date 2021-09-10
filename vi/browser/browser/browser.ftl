@@ -668,6 +668,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Mở tập tin
     .tooltiptext = Mở một tập tin ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Các thẻ đã đồng bộ
+    .tooltiptext = Hiện thẻ từ các thiết bị khác
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
