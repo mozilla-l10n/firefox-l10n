@@ -356,6 +356,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Cluaisíní Sioncronaithe
     .tooltiptext = Taispeáin cluaisíní ó ghléasanna eile
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Fuinneog Nua Phríobháideach
+    .tooltiptext = Oscail Fuinneog Nua Phríobháideach ({ $shortcut })
 
 ## EME notification panel
 
