@@ -11,11 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Доступне оновлення — завантажити
     .label-update-unsupported = Не вдається оновити — несумісна система
     .label-update-restart = Доступне оновлення — перезавантажити
-
 appmenuitem-protection-dashboard-title = Панель стану захисту
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Нова вкладка
 appmenuitem-new-window =
@@ -26,6 +22,8 @@ appmenuitem-passwords =
     .label = Паролі
 appmenuitem-addons-and-themes =
     .label = Додатки й теми
+appmenuitem-print =
+    .label = Друкувати…
 appmenuitem-find-in-page =
     .label = Знайти на сторінці…
 appmenuitem-more-tools =
@@ -44,7 +42,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Закрити меню програми
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,30 +62,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Увійти до Синхронізації…
 appmenu-remote-tabs-turn-on-sync =
     .label = Увімкнути синхронізацію…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Показати більше вкладок
     .tooltiptext = Показати більше вкладок з цього пристрою
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Немає відкритих вкладок
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Увімкнути синхронізацію вкладок для можливості перегляду вашого списку вкладок з інших пристроїв.
-
 appmenu-remote-tabs-opensettings =
     .label = Налаштування
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Хочете побачити тут свої вкладки з інших пристроїв?
-
 appmenu-remote-tabs-connectdevice =
     .label = Під'єднати інший пристрій
 appmenu-remote-tabs-welcome = Переглядайте список вкладок з ваших інших пристроїв.
 appmenu-remote-tabs-unverified = Ваш обліковий запис потребує підтвердження.
-
 appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -102,14 +92,12 @@ appmenu-fxa-signed-in-label = Увійти
 appmenu-fxa-setup-sync =
     .label = Увімкнути синхронізацію…
 appmenu-fxa-show-more-tabs = Показати більше вкладок
-
 appmenuitem-save-page =
     .label = Зберегти як…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Що нового
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,49 +110,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Розкрити більше інформації
-
 profiler-popup-description-title =
     .value = Записуйте, аналізуйте, діліться
-
 profiler-popup-description = Співпрацюйте над проблемами швидкодії, оприлюднюючи профілі для своєї команди.
-
 profiler-popup-learn-more = Докладніше
-
 profiler-popup-settings =
     .value = Налаштування
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Змінити налаштування…
-
 profiler-popup-disabled =
     Profiler зараз вимкнений, швидше за все, через відкрите вікно
     приватного перегляду.
-
 profiler-popup-recording-screen = Запис…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Власне
-
 profiler-popup-start-recording-button =
     .label = Почати запис
-
 profiler-popup-discard-button =
     .label = Відхилити
-
 profiler-popup-capture-button =
     .label = Захоплення
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -232,7 +206,6 @@ appmenu-customizetoolbar =
     .label = Налаштувати панель інструментів…
 appmenu-taskmanager =
     .label = Менеджер завдань
-
 appmenu-developer-tools-subheader = Інструменти браузера
 appmenu-developer-tools-extensions =
     .label = Розширення для розробників
