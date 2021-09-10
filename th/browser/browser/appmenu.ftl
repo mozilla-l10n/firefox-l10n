@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = ดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ
 appmenu-remote-tabs-unverified = บัญชีของคุณจำเป็นต้องได้รับการยืนยัน
 appmenuitem-fxa-toolbar-sync-now2 = ซิงค์ตอนนี้
+appmenuitem-fxa-sign-in = ลงชื่อเข้า { -brand-product-name }
 appmenuitem-fxa-manage-account = จัดการบัญชี
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
