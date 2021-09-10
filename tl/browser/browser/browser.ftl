@@ -641,6 +641,11 @@ toolbar-button-email-link =
     .label = Email Link
     .tooltiptext = Mag-email ng link sa page na ito
 # Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = i-Save ang Pahina
+    .tooltiptext = i-Save ang pahina na ito ({ $shortcut })
+# Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Magbukas ng file
@@ -648,6 +653,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Mga Naka-sync na Tab
     .tooltiptext = Ipakita ang mga tabs mula sa ibang devices
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Bagong Private Window
+    .tooltiptext = Magbukas ng panibagong Private Browsing window ({ $shortcut })
 
 ## EME notification panel
 
