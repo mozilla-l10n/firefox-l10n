@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Nýr flipi
 appmenuitem-new-window =
     .label = Nýr gluggi
 appmenuitem-new-private-window =
     .label = Nýr huliðsgluggi
+appmenuitem-history =
+    .label = Ferill
+appmenuitem-print =
+    .label = Prenta…
 appmenuitem-help =
     .label = Hjálp
 
@@ -25,18 +27,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Engir opnir flipar
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Viltu sjá hérna þína flipa frá öðrum tækjum?
-
 appmenu-remote-tabs-connectdevice =
     .label = Tengja annað tæki
 appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
-
 appmenuitem-save-page =
     .label = Vista síðu sem…
 
@@ -89,4 +87,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Verkefnisstjóri
-
