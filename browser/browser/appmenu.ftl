@@ -11,23 +11,25 @@ appmenuitem-update-banner3 =
     .label-update-manual = Na voljo je posodobitev – prenesi zdaj
     .label-update-unsupported = Posodobitev ni mogoča – nezdružljiv sistem
     .label-update-restart = Na voljo je posodobitev – zaženi znova
-
 appmenuitem-protection-dashboard-title = Nadzorna plošča zaščit
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Nov zavihek
 appmenuitem-new-window =
     .label = Novo okno
 appmenuitem-new-private-window =
     .label = Novo zasebno okno
+appmenuitem-history =
+    .label = Zgodovina
 appmenuitem-passwords =
     .label = Gesla
 appmenuitem-addons-and-themes =
     .label = Dodatki in teme
+appmenuitem-print =
+    .label = Natisni …
 appmenuitem-find-in-page =
     .label = Najdi na strani …
+appmenuitem-zoom =
+    .value = Povečava
 appmenuitem-more-tools =
     .label = Več orodij
 appmenuitem-help =
@@ -44,7 +46,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zapri meni programa
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,27 +66,21 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Prijava v sinhronizacijo …
 appmenu-remote-tabs-turn-on-sync =
     .label = Vklopi sinhronizacijo …
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Prikaži več zavihkov
     .tooltiptext = Prikaži več zavihkov iz te naprave
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ni odprtih zavihkov
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Vključite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Želite tukaj videti zavihke drugih naprav?
-
 appmenu-remote-tabs-connectdevice =
     .label = Poveži drugo napravo
 appmenu-remote-tabs-welcome = Oglejte si seznam zavihkov drugih naprav.
 appmenu-remote-tabs-unverified = Svoj račun morate potrditi.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-manage-account = Upravljanje računa
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -99,14 +94,12 @@ appmenu-fxa-signed-in-label = Prijava
 appmenu-fxa-setup-sync =
     .label = Vklopi sinhronizacijo …
 appmenu-fxa-show-more-tabs = Prikaži več zavihkov
-
 appmenuitem-save-page =
     .label = Shrani stran kot …
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novosti
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -119,47 +112,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Razkrij več podatkov
-
 profiler-popup-description-title =
     .value = Spremljajte, analizirajte, delite
-
 profiler-popup-description = Sodelujte pri izboljšavah učinkovitosti, tako da objavljate profile, ki jih delite s svojo ekipo.
-
 profiler-popup-learn-more = Več o tem
-
 profiler-popup-settings =
     .value = Nastavitve
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi nastavitve …
-
 profiler-popup-disabled = Spremljanje delovanja je trenutno onemogočeno, najverjetneje zato, ker je odprto okno zasebnega brskanja.
-
 profiler-popup-recording-screen = Spremljanje …
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Po meri
-
 profiler-popup-start-recording-button =
     .label = Začni spremljati
-
 profiler-popup-discard-button =
     .label = Zavrzi
-
 profiler-popup-capture-button =
     .label = Zajemi
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -227,7 +206,6 @@ appmenu-customizetoolbar =
     .label = Prilagodi orodno vrstico …
 appmenu-taskmanager =
     .label = Upravitelj opravil
-
 appmenu-developer-tools-subheader = Orodja brskalnika
 appmenu-developer-tools-extensions =
     .label = Razširitve za razvijalce
