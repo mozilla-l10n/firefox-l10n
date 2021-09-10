@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = חלון פרטי חדש
 appmenuitem-history =
     .label = היסטוריה
+appmenuitem-downloads =
+    .label = הורדות
 appmenuitem-passwords =
     .label = ססמאות
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = הצגת רשימה של הלשוניות שלך ממכשירים אחרים.
 appmenu-remote-tabs-unverified = יש לאמת את החשבון שלך.
 appmenuitem-fxa-toolbar-sync-now2 = סנכרון כעת
+appmenuitem-fxa-sign-in = התחברות אל { -brand-product-name }
 appmenuitem-fxa-manage-account = ניהול חשבון
 appmenu-fxa-header2 = { -fxaccount-brand-name(case: "a") }
 # Variables
