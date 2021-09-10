@@ -662,6 +662,19 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Arkbalke wizigje…
     .accesskey = A
+toolbar-button-email-link =
+    .label = Keppeling e-maile
+    .tooltiptext = Keppeling nei dizze side e-maile
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = ­Side bewarje
+    .tooltiptext = Dizze side bewarje ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = ­Bestân iepenje
+    .tooltiptext = Bestân iepenje ({ $shortcut })
 
 ## EME notification panel
 
