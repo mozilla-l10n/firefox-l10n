@@ -659,11 +659,27 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = ხელსაწყოთა ზოლის მორგება…
     .accesskey = ზ
+toolbar-button-email-link =
+    .label = ბმულის ელფოსტით გაგზავნა
+    .tooltiptext = გვერდის ბმულის ელფოსტით გაგზავნა
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = გვერდის შენახვა
+    .tooltiptext = გვერდის შენახვა ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ფაილის გახსნა
     .tooltiptext = ფაილის გახსნა ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = დასინქ. ჩანართები
+    .tooltiptext = ჩანართები სხვა მოწყობილობებიდან
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = ახალი პირადი ფანჯარა
+    .tooltiptext = ახალი პირადი ფანჯრის გახსნა ({ $shortcut })
 
 ## EME notification panel
 
