@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Allgemein">
 <!ENTITY  generalTab.accesskey  "g">
+<!ENTITY  generalTitle          "Titel:">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Typ:">
 <!ENTITY  generalMode           "Anzeigemodus:">
@@ -60,6 +61,7 @@
 
 <!ENTITY  mediaTab              "Medien">
 <!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Adresse:">
 <!ENTITY  mediaAltHeader        "Alternativtext">
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Typ">
