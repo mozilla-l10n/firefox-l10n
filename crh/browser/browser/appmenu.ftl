@@ -13,8 +13,12 @@ appmenuitem-new-private-window =
     .label = Yañı Hususiy Pencere
 appmenuitem-history =
     .label = Keçmiş
+appmenuitem-downloads =
+    .label = Endirmeler
 appmenuitem-print =
     .label = Bastır…
+appmenuitem-zoom =
+    .value = Miqyasla
 appmenuitem-help =
     .label = Yardım
 
