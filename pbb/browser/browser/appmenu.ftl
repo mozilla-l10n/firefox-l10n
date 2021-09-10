@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Use vxitx le'çxkwe
 appmenuitem-new-private-window =
     .label = Pzte vxitx leçxkwe
+appmenuitem-history =
+    .label = Yaçka fxi'hjnxi's
+appmenuitem-print =
+    .label = Kapna'jnxi's kutxi'jna…
+appmenuitem-zoom =
+    .value = Isanxii's
 
 ## Zoom and Fullscreen Controls
 
@@ -21,10 +25,8 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Phadenxii meeta
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.
-
 appmenuitem-save-page =
     .label = Ma'h jxawnah…
 
