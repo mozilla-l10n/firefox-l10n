@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = નવી ટૅબ
 appmenuitem-new-window =
     .label = નવી વિન્ડો
 appmenuitem-new-private-window =
     .label = નવી ખાનગી વિન્ડો
+appmenuitem-print =
+    .label = છાપો...
+appmenuitem-zoom =
+    .value = લખાણ માપ
 appmenuitem-help =
     .label = મદદ
 
@@ -29,18 +31,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = કોઈ ખુલ્લા ટૅબ્સ નથી
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે ટેબ સમન્વયન ચાલુ કરો.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = અહીં અન્ય ઉપકરણોથી તમારા ટેબ્સ જોવા માંગો છો?
-
 appmenu-remote-tabs-connectdevice =
     .label = બીજા ઉપકરણ સાથે જોડાણ કરો
 appmenu-remote-tabs-unverified = તમારા એકાઉન્ટને ચકાસવાની જરૂર છે.
-
 appmenuitem-save-page =
     .label = આ રીતે પૃષ્ઠ સાચવો ...
 
@@ -94,4 +92,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = કાર્ય વ્યવસ્થાપક
-
