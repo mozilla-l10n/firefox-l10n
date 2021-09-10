@@ -666,6 +666,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = الألسنة المُزامنة
     .tooltiptext = اعرض الألسنة من الأجهزة الأخرى
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = نافذة خاصة جديدة
+    .tooltiptext = افتح نافذة تصفح خاصة جديدة ({ $shortcut })
 
 ## EME notification panel
 
