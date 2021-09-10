@@ -682,6 +682,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Облачные вкладки
     .tooltiptext = Показать вкладки с других устройств
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Новое приватное окно
+    .tooltiptext = Открыть новое приватное окно ({ $shortcut })
 
 ## EME notification panel
 
