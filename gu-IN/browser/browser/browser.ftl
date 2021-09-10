@@ -409,6 +409,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = સમન્વિત કરેલા ટૅબ્સ
     .tooltiptext = અન્ય ઉપકરણોમાંથી ટેબ્સ બતાવો
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = નવી ખાનગી વિન્ડો
+    .tooltiptext = નવી ખાનગી બ્રાઉઝીંગ વિન્ડો ({ $shortcut }) ને ખોલો
 
 ## EME notification panel
 
