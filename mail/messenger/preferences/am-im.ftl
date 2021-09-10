@@ -5,6 +5,7 @@
 account-settings-title = 驗證設定
 account-channel-title = 預設頻道
 chat-encryption-label = 原生端到端加密
+chat-encryption-description = { $protocol } 可對聊天訊息進行端到端加密，如此可以防止第三方竊聽對話內容。可能需要在下方進行更多設定才能開啟加密功能。
 chat-encryption-status = 加密狀態
 chat-encryption-placeholder = 加密機制尚未初始化。
 chat-encryption-sessions = 使用階段
