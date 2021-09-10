@@ -4,3 +4,6 @@
 
 account-settings-title = Ρυθμίσεις ταυτοποίησης
 account-channel-title = Προεπιλεγμένα κανάλια
+chat-encryption-label = Εγγενής διατερματική κρυπτογράφηση
+chat-encryption-status = Κατάσταση κρυπτογράφησης
+chat-encryption-sessions = Συνεδρίες
