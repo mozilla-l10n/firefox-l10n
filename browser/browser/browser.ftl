@@ -660,26 +660,26 @@ toolbar-overflow-customize-button =
     .label = Customise toolbar…
     .accesskey = C
 toolbar-button-email-link =
-    .label = Email Link
+    .label = Email link
     .tooltiptext = Email a link to this page
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
-    .label = Save Page
+    .label = Save page
     .tooltiptext = Save this page ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = Open File
+    .label = Open file
     .tooltiptext = Open a file ({ $shortcut })
 toolbar-button-synced-tabs =
-    .label = Synced Tabs
+    .label = Synced tabs
     .tooltiptext = Show tabs from other devices
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = New private window
-    .tooltiptext = Open a new Private Browsing window ({ $shortcut })
+    .tooltiptext = Open a new private browsing window ({ $shortcut })
 
 ## EME notification panel
 
