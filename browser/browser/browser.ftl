@@ -274,6 +274,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = सिंक टैब
     .tooltiptext = आन उपकरण सँ टैब देखाबू
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = नया निज विंडो (W)
+    .tooltiptext = नव विंडो खोलू निज ब्राउसिंग स्थिति मे ({ $shortcut })
 
 ## EME notification panel
 
