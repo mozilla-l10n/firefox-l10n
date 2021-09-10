@@ -669,6 +669,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Odpri datoteko
     .tooltiptext = Odpri datoteko ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Sinhronizirani zavihki
+    .tooltiptext = Prikaži zavihke iz drugih naprav
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
