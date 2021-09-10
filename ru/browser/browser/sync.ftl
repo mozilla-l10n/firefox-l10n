@@ -17,6 +17,9 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Включить синхронизацию
 fxa-menu-connect-another-device =
     .label = Подключить другое устройство…
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Синхронизация устройств…
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Мгновенно отправляйте вкладку на любое привязанное устройство.
 fxa-menu-sign-out =
