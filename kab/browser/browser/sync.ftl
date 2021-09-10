@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Amtawi n yibenkan…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Azen iccer imir imir i yal ibenk i ɣur teqqneḍ.
 fxa-menu-sign-out =
     .label = Ffeɣ…
