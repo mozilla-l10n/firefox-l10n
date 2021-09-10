@@ -393,6 +393,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinhronizeituos cilnes
     .tooltiptext = Paruodeit cilnes nu cytom īreičom
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Jauns privatais lūgs
+    .tooltiptext = Attaisa jaunu privatuos puorlūkuošonys lūgu ({ $shortcut })
 
 ## EME notification panel
 
