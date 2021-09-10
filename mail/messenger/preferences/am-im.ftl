@@ -4,3 +4,4 @@
 
 account-settings-title = 验证设置
 account-channel-title = 默认频道
+chat-encryption-status = 加密状态
