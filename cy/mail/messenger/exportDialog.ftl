@@ -3,21 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 export-dialog-brand-name = { -brand-product-name }
-
 export-dialog-window =
     .title = Allforio
-
+export-dialog-title = Allforio
 export-dialog =
     .buttonlabelaccept = Nesaf
-
 export-dialog-button-finish = Gorffen
-
 export-dialog-file-picker = Allforio i ffeil zip
-
 export-dialog-desc1 = Allforio cyfrifon e-bost, negeseuon e-bost, llyfrau cyfeiriadau a dewisiadau i ffeil zip.
-
 export-dialog-desc2 = Pan fydd angen, gallwch fewnforio'r ffeil zip i adfer eich proffil.
-
 export-dialog-exporting = Yn allforio…
-
 export-dialog-exported = Wedi'i allforio!
