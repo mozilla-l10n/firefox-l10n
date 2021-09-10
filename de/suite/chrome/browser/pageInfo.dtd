@@ -62,11 +62,13 @@
 <!ENTITY  mediaTab              "Medien">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Adresse:">
+<!ENTITY  mediaText             "Zugeordneter Text:">
 <!ENTITY  mediaAltHeader        "Alternativtext">
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Typ">
 <!ENTITY  mediaSize             "Größe">
 <!ENTITY  mediaCount            "Anzahl">
+<!ENTITY  mediaDimension        "Maße:">
 <!ENTITY  mediaLongdesc         "Lange Beschreibung:">
 <!ENTITY  mediaBlockImage.accesskey "b">
 <!ENTITY  mediaSaveAs           "Speichern unter…">
@@ -95,6 +97,7 @@
 <!ENTITY  securityView.identity.owner    "Eigentümer:">
 <!ENTITY  securityView.identity.domain   "Website:">
 <!ENTITY  securityView.identity.verifier "Verifiziert von:">
+<!ENTITY  securityView.identity.validity "Gültig bis:">
 
 <!ENTITY  securityView.privacy.header                   "Privatsphäre &amp; Chronik">
 <!ENTITY  securityView.privacy.history                  "Wurde diese Website heute schon besucht?">
