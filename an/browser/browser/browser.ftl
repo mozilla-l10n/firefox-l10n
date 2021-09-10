@@ -492,9 +492,27 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Personalizar la barra de ferramientas…
     .accesskey = C
+toolbar-button-email-link =
+    .label = Ninviar un vinclo
+    .tooltiptext = Ninvia por correu un vinclo ta ista pachina
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Alzar a pachina
+    .tooltiptext = Alza ista pachina ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Ubrir un fichero
+    .tooltiptext = Ubre un fichero ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Pestanyas sincronizadas
     .tooltiptext = Amostrar las pestanyas d'atros dispositivos
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nueva finestra privada
+    .tooltiptext = Ubrir una nueva finestra de navegación privada ({ $shortcut })
 
 ## EME notification panel
 
