@@ -555,6 +555,11 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = مسل کھولیں
     .tooltiptext = مسل کھولیں ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = نیا نجی ونڈوں
+    .tooltiptext = نیا زاتی براؤزنگ ونڈوں کھولیں ({ $shortcut })
 
 ## EME notification panel
 
