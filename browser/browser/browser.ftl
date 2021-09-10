@@ -659,6 +659,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Προσαρμογή γραμμής εργαλείων…
     .accesskey = ο
+toolbar-button-email-link =
+    .label = Αποστολή συνδέσμου
+    .tooltiptext = Αποστολή συνδέσμου σελίδας
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -672,6 +675,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Συγχρονισμένες καρτέλες
     .tooltiptext = Εμφάνιση καρτελών από άλλες συσκευές
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Νέο ιδιωτικό παράθυρο
+    .tooltiptext = Άνοιγμα σε νέο παράθυρο ιδιωτικής περιήγησης ({ $shortcut })
 
 ## EME notification panel
 
