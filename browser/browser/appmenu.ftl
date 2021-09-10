@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Naujas privataus naršymo langas
 appmenuitem-history =
     .label = Žurnalas
+appmenuitem-downloads =
+    .label = Atsiuntimai
 appmenuitem-passwords =
     .label = Slaptažodžiai
 appmenuitem-addons-and-themes =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Peržiūrėkite kituose įrenginiuose esančias korteles.
 appmenu-remote-tabs-unverified = Jūsų paskyra turi būti patvirtinta.
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
+appmenuitem-fxa-sign-in = Prisijungti prie „{ -brand-product-name }“
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
 # Variables
