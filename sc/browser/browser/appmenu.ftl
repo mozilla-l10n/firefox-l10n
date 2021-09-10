@@ -5,12 +5,12 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Ventana noa
 appmenuitem-new-private-window =
     .label = Ventana privada noa
+appmenuitem-history =
+    .label = Cronologia
 appmenuitem-help =
     .label = Agiudu
 
