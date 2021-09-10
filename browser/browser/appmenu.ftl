@@ -13,6 +13,8 @@ appmenuitem-new-private-window =
     .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
 appmenuitem-history =
     .label = ಇತಿಹಾಸ
+appmenuitem-zoom =
+    .value = ಗಾತ್ರ ಬದಲಿಸು
 appmenuitem-help =
     .label = ಸಹಾಯ
 
