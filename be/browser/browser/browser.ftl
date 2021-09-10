@@ -671,6 +671,14 @@ toolbar-overflow-customize-button =
 toolbar-button-save-page =
     .label = Захаваць старонку
     .tooltiptext = Захаваць гэтую старонку ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Адкрыць файл
+    .tooltiptext = Адкрыць файл ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Сінхранізаваныя карткі
+    .tooltiptext = Паказваць карткі з іншых прылад
 
 ## EME notification panel
 
