@@ -662,6 +662,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Personalizar la barra d'aisinas…
     .accesskey = P
+toolbar-button-email-link =
+    .label = Madar per corrièr electronic un ligam cap a la pagina…
+    .tooltiptext = Enviar per corrièl lo ligam d’aquesta pagina
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
