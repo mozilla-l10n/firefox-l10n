@@ -509,6 +509,11 @@ toolbar-button-email-link =
 toolbar-button-save-page =
     .label = Պահպանել էջը
     .tooltiptext = Պահպանել էջը ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Բացել ֆայլը
+    .tooltiptext = Բացել ֆայլ ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Համաժամեցված ներդիրներ
     .tooltiptext = Ցուցադրել այլ սարքերի ներդիրները
