@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Ehecha tendayke rysýi ambue ne mba’e’okagua.
 appmenu-remote-tabs-unverified = Tekotevẽ ñemboaje ne mba’ete.
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
+appmenuitem-fxa-sign-in = Eike { -brand-product-name }
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
