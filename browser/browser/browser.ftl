@@ -670,6 +670,19 @@ toolbar-button-email-link =
 toolbar-button-save-page =
     .label = Enregistrer la page
     .tooltiptext = Enregistrer la page ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Ouvrir un fichier
+    .tooltiptext = Ouvrir un fichier ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Onglets synchronisés
+    .tooltiptext = Afficher les onglets d’autres appareils
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nouvelle fenêtre privée
+    .tooltiptext = Nouvelle fenêtre de navigation privée ({ $shortcut })
 
 ## EME notification panel
 
