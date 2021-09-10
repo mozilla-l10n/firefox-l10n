@@ -406,6 +406,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ફાઇલ ખોલો
     .tooltiptext = ફાઇલ ({ $shortcut }) ને ખોલો
+toolbar-button-synced-tabs =
+    .label = સમન્વિત કરેલા ટૅબ્સ
+    .tooltiptext = અન્ય ઉપકરણોમાંથી ટેબ્સ બતાવો
 
 ## EME notification panel
 
