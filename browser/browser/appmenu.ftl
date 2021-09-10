@@ -5,14 +5,18 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = thebhu entsha
 appmenuitem-new-window =
     .label = Ifestile entsha
 appmenuitem-new-private-window =
     .label = Ifestile yangasese entsha
+appmenuitem-history =
+    .label = Imbali
+appmenuitem-print =
+    .label = Printa…
+appmenuitem-zoom =
+    .value = Yandisa/nciphisa
 appmenuitem-help =
     .label = Uncedo
 
@@ -25,14 +29,11 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Azikho iithebhu ezivuliweyo
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ufuna ukubona iithebhu kwezinye izixhobo apha?
-
 appmenuitem-save-page =
     .label = Gcina iphepha njenge…
 
