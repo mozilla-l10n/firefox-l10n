@@ -662,9 +662,24 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Send lenke med e-post
     .tooltiptext = Send ei lenke til sida med e-post
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Lagre side
+    .tooltiptext = Lagre denne sida ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Opne fil
+    .tooltiptext = Opne fil ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Synkroniserte faner
     .tooltiptext = Vis faner frå andre einingar
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nytt privat vindauge
+    .tooltiptext = Opne eit nytt privat nettlesarvindauge ({ $shortcut })
 
 ## EME notification panel
 
