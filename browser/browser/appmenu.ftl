@@ -11,23 +11,25 @@ appmenuitem-update-banner3 =
     .label-update-manual = Išleistas naujinimas – atsiųsti dabar
     .label-update-unsupported = Nepavyko atnaujinti – sistema nesuderinama
     .label-update-restart = Išleistas naujinimas – paleisti iš naujo dabar
-
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Nauja kortelė
 appmenuitem-new-window =
     .label = Naujas langas
 appmenuitem-new-private-window =
     .label = Naujas privataus naršymo langas
+appmenuitem-history =
+    .label = Žurnalas
 appmenuitem-passwords =
     .label = Slaptažodžiai
 appmenuitem-addons-and-themes =
     .label = Priedai ir grafiniai apvalkalai
+appmenuitem-print =
+    .label = Spausdinti…
 appmenuitem-find-in-page =
     .label = Rasti tinklalapyje…
+appmenuitem-zoom =
+    .value = Mastelis
 appmenuitem-more-tools =
     .label = Daugiau priemonių
 appmenuitem-help =
@@ -44,7 +46,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Užverti programos meniu
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,27 +66,21 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Prisijungti sinchronizavimui…
 appmenu-remote-tabs-turn-on-sync =
     .label = Įjungti sinchronizavimą…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Rodyti daugiau kortelių
     .tooltiptext = Rodyti daugiau kortelių iš šio įrenginio
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nėra atvirų kortelių
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Norite čia matyti savo korteles iš kitų įrenginių?
-
 appmenu-remote-tabs-connectdevice =
     .label = Susieti kitą įrenginį
 appmenu-remote-tabs-welcome = Peržiūrėkite kituose įrenginiuose esančias korteles.
 appmenu-remote-tabs-unverified = Jūsų paskyra turi būti patvirtinta.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
@@ -99,14 +94,12 @@ appmenu-fxa-signed-in-label = Prisijungti
 appmenu-fxa-setup-sync =
     .label = Įjungti sinchronizavimą…
 appmenu-fxa-show-more-tabs = Rodyti daugiau kortelių
-
 appmenuitem-save-page =
     .label = Įrašyti kaip…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kas naujo
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -119,47 +112,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Rodyti daugiau informacijos
-
 profiler-popup-description-title =
     .value = Įrašykite, analizuokite, dalinkitės
-
 profiler-popup-description = Bendraukite spręsdami našumo problemas, paskelbdami profilius pasidalinimui su savo komanda.
-
 profiler-popup-learn-more = Sužinoti daugiau
-
 profiler-popup-settings =
     .value = Nuostatos
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Keisti nuostatas…
-
 profiler-popup-disabled = Profiliuoklė šiuo metu išjungta, greičiausiai dėl atverto privačiojo naršymo lango.
-
 profiler-popup-recording-screen = Įrašinėjama…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Pasirinktinės
-
 profiler-popup-start-recording-button =
     .label = Pradėti įrašinėjimą
-
 profiler-popup-discard-button =
     .label = Atmesti
-
 profiler-popup-capture-button =
     .label = Užfiksuoti
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -227,7 +206,6 @@ appmenu-customizetoolbar =
     .label = Tvarkyti priemonių juostą…
 appmenu-taskmanager =
     .label = Užduočių tvarkytuvė
-
 appmenu-developer-tools-subheader = Naršyklės įrankiai
 appmenu-developer-tools-extensions =
     .label = Priedai programuotojams
