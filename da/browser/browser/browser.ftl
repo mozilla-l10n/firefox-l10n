@@ -656,6 +656,27 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Tilpas værktøjslinje…
     .accesskey = T
+toolbar-button-email-link =
+    .label = Send link
+    .tooltiptext = Send link til siden i en mail…
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Gem side
+    .tooltiptext = Gem denne side ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Åbn fil
+    .tooltiptext = Åbn en fil ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synkroniserede faneblade
+    .tooltiptext = Vis faneblade fra dine andre enheder
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nyt privat vindue
+    .tooltiptext = Åbn et nyt vindue til privat browsing ({ $shortcut })
 
 ## EME notification panel
 
