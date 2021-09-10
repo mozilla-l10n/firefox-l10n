@@ -126,10 +126,10 @@ account-setup-results-area-title =
     }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
-account-setup-result-imap-description = Διατηρήστε συγχρονισμένους τους φακέλους και τα μηνύματα με τον διακομιστή σας
+account-setup-result-imap-description = Διατηρήστε συγχρονισμένους τους φακέλους και τα email σας με τον διακομιστή σας
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
-account-setup-result-pop-description = Διατηρήστε τους φακέλους και τα μηνύματα στον υπολογιστή σας
+account-setup-result-pop-description = Διατηρήστε τους φακέλους και τα email σας στον υπολογιστή σας
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 # Note: Exchange, Office365 are the name of products.
