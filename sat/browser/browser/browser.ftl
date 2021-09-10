@@ -270,6 +270,11 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = रेत् झिज मे
     .tooltiptext = मित् रेत् झिज मे. ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
+    .tooltiptext = मित् नावा निजेर ब्राउजिंग विंडो झिज मे .({ $shortcut })
 
 ## EME notification panel
 
