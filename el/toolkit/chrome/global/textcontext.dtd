@@ -12,5 +12,4 @@
 <!ENTITY spellDictionaries.label "Γλώσσες">
 <!ENTITY spellDictionaries.accesskey "λ">
 
-<!ENTITY searchTextBox.clear.label "Εκκαθάριση">
-
+<!ENTITY searchTextBox.clear.label "Απαλοιφή">
