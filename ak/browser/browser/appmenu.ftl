@@ -5,12 +5,14 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Tokura foforo
 appmenuitem-new-private-window =
     .label = Tokura praevet foforo ma wo nko ara
+appmenuitem-history =
+    .label = Abakɔsɛm
+appmenuitem-print =
+    .label = Prente…
 
 ## Zoom and Fullscreen Controls
 
@@ -38,9 +40,6 @@ appmenuitem-save-page =
 appmenu-help-feedback-page =
     .label = Sabmet wo fiidbak…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
