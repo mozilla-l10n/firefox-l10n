@@ -13,6 +13,8 @@ appmenuitem-new-private-window =
     .label = Dirica manyen me mung
 appmenuitem-history =
     .label = Gin mukato
+appmenuitem-downloads =
+    .label = Gam
 appmenuitem-print =
     .label = Go…
 appmenuitem-zoom =
@@ -41,6 +43,7 @@ appmenu-remote-tabs-noclients = imito neno dirica matino ki nyonyo mukene?
 appmenu-remote-tabs-connectdevice =
     .label = Kub Nyonyo Mukene
 appmenu-remote-tabs-unverified = Myero ki mok ada pa akaunt mamegi.
+appmenuitem-fxa-sign-in = Dony iyie { -brand-product-name }
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
 
