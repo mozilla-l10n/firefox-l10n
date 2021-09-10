@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gachenu hùì'
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Gachenu hùì'
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Gachenu hùì'
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Gachenu hùì'
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -130,12 +128,10 @@ urlbar-midi-blocked =
     .tooltiptext = Gi'iaj blokeandot MIDI guenda sitio web na.
 urlbar-install-blocked =
     .tooltiptext = Naránt da' nutà' man nej sa huāa guendâ sitiô nan.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Nagi'io' sa arajsun nichrò' doj ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -160,10 +156,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diû nan, nana'uì' ngà:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Naduna daj ga sa nana'uit
-
 search-one-offs-context-open-new-tab =
     .label = Nana'ui' riña a'ngô rakïj ñaj nakàa
     .accesskey = T
@@ -173,7 +167,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Dunâj da' nahuin man sa riña nana'uì' niganjt sa ruhuât riña Private Windows
     .accesskey = P
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -204,7 +197,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Digun' sa nagi'iaj 'ngà na'nïnj so'
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,7 +223,6 @@ identity-passive-loaded = Hua da'aj nej sa 'na' riña ñanj na ni sa yi'ìi huin
 identity-active-loaded = Guxunt sa dugumin pajinâ na.
 identity-weak-encryption = Ûta ninaj hua sifrado arajsun pajinâ na.
 identity-insecure-login-forms = Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.
-
 identity-permissions-reload-hint = Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.
 identity-clear-site-data =
     .label = Nagi'iaj niñu' kookies nī si dato sitio...
@@ -297,21 +288,17 @@ popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nana'ui' 'ngà { $name } nej si gachrun' direksiôn
-
 urlbar-permissions-granted =
     .tooltiptext = Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.
 urlbar-switch-to-tab =
     .value = Naduno' a'ngô rakij ñaj:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = A'ngô ra'a:
-
 urlbar-go-button =
     .tooltiptext = Gun' dukuán 'na direksion
 urlbar-page-action-button =
@@ -343,12 +330,9 @@ urlbar-result-action-visit = Gatu gan'anj ni'iajt
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 'nga nahuin yachij riña aga' sikà ràa
 fullscreen-warning-no-domain = Ñaj na ni 'ngà nahuin yachij ma da'ua gè riña aga' na
-
-
 fullscreen-exit-button = Nagi'iaj lij riña aga' sikà' ràa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Nagi'iaj lij riña aga' sikà' ràa (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -394,7 +378,6 @@ bookmarks-tools =
     .label = Si rasun markadores
 bookmarks-bookmark-edit-panel =
     .label = Nagi'io' sa arajsun nichrò' doj
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -431,10 +414,30 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Gi'iaj sun nùnj si nitaj koneksiôn hua
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = Nagi'io' dukuán ma sa rajeunit'...
     .accesskey = C
+toolbar-button-email-link =
+    .label = Ga'ni' Link…
+    .tooltiptext = Ga'nï' link riña pajina na
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Na'nïn sa'
+    .tooltiptext = Na'nïnj so' pajinâ na ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Na'nïn' chrû ñanj
+    .tooltiptext = Na'nï' chrûn ñanj ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Nej rakïj ñaj guña huaa
+    .tooltiptext = Digun' nej rakïj ñanj ma riña a'ngò aga'a
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nànin' 'ngo ventana huìi
+    .tooltiptext = Na'nï' 'ngò ventana riña gache nu huì' ({ $shortcut })
 
 ## EME notification panel
 
@@ -460,7 +463,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ga'nïn' gi'iaj sun ventana ra'ñanj an { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Si gi'iaj sun ventana ra'ñanj an { $uriHost }
     .accesskey = p
@@ -470,7 +472,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Si gà ra'nga ventana 'ngà narran' riña ventana râ'ñanj an
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
