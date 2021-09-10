@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -87,7 +85,6 @@ urlbar-search-mode-history = ᱱᱟᱜᱟᱢ
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -131,7 +128,6 @@ bookmarks-edit-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 bookmark-panel-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = ᱵ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -141,7 +137,6 @@ bookmark-panel =
 ## Identity Panel
 
 identity-permissions-storage-access-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 identity-learn-more =
     .value = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 identity-disable-mixed-content-blocking =
@@ -182,10 +177,8 @@ popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ �
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
-
 urlbar-switch-to-tab =
     .value = ᱴᱮᱵᱽ ᱨᱮ ᱚᱛᱟ:
-
 urlbar-go-button =
     .tooltiptext = ᱴᱷᱟᱣ ᱵᱟᱨ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱮ ᱪᱟᱞᱟᱣ
 
@@ -229,7 +222,6 @@ bookmarks-mobile-bookmarks-menu =
     .label = ᱢᱚᱵᱟᱤᱞ ᱵᱩᱠᱢᱟᱨᱠ
 bookmarks-bookmark-edit-panel =
     .label = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱩᱤᱱᱟᱹ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱢᱮ
-
 bookmarks-toolbar-menu =
     .label = ᱴᱩᱞᱵᱟᱨ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ
 bookmarks-toolbar-placeholder =
@@ -265,6 +257,19 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = ᱚᱯᱷᱞᱟᱭᱤ ᱠᱟᱹᱢᱤ ᱢᱮ
     .accesskey = ᱚ
+toolbar-button-email-link =
+    .label = इमेल खोंजा
+    .tooltiptext = नोवा साहटा रे मित् खोंजा इमेल में.
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = साहटा सांचाव मे
+    .tooltiptext = नोवा साहटा सांचाव मे. ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = रेत् झिज मे
+    .tooltiptext = मित् रेत् झिज मे. ({ $shortcut })
 
 ## EME notification panel
 
