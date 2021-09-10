@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = იხილეთ ჩანართების სია თქვენი სხვა მოწყობილობებიდან.
 appmenu-remote-tabs-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
+appmenuitem-fxa-sign-in = { -brand-product-name } – შესვლა
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
