@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = ວິນໂດໃໝ່
 appmenuitem-new-private-window =
     .label = ວິນໂດສ່ວນຕົວໃໝ່
+appmenuitem-history =
+    .label = ປະຫວັດການໃຊ້ງານ
+appmenuitem-print =
+    .label = ພິມ...
+appmenuitem-zoom =
+    .value = ຂະຫຍາຍ
 appmenuitem-help =
     .label = ວິທີໃຊ້
 
@@ -23,18 +27,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ບໍ່ມີແທັບທີ່ເປີດຢູ່
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ເປີດການຊິງຄ໌ແທັບເພື່ອເບິ່ງລາຍການແທັບທີ່ເປີດຢູ່ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ຕ້ອງການໃຫ້ເຫັນແທັບທີ່ນີ້ຂອງທ່ານໄດ້ຈາກອຸປະກອນອື່ນໆບໍ່?
-
 appmenu-remote-tabs-connectdevice =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢືນຢັນ.
-
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
