@@ -38,6 +38,10 @@
 <!ENTITY bookmarksToolbar.tooltip         "Lesezeichen-Symbolleiste">
 <!ENTITY navigationToolbar.tooltip        "Navigations-Symbolleiste">
 
+<!ENTITY editBookmark.done.label "Fertig">
+<!ENTITY editBookmark.cancel.label "Abbrechen">
+<!ENTITY editBookmark.removeBookmark.accessKey "L">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Zurück">
 <!ENTITY backButton.tooltip           "Eine Seite zurück gehen">
@@ -79,3 +83,5 @@
 <!ENTITY viewCertManager.label       "Zertifikatverwaltung öffnen">
 <!ENTITY viewCertManager.accesskey   "M">
 
+<!ENTITY zoomIn.tooltiptext          "Vergrößern">
+<!ENTITY zoomOut.tooltiptext         "Verkleinern">
