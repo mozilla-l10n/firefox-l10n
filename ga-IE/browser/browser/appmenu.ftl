@@ -13,6 +13,8 @@ appmenuitem-new-private-window =
     .label = Fuinneog Nua Phríobháideach
 appmenuitem-history =
     .label = Stair
+appmenuitem-downloads =
+    .label = Íoslódálacha
 appmenuitem-print =
     .label = Priontáil…
 appmenuitem-help =
@@ -40,6 +42,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Ceangail Gléas Eile
 appmenu-remote-tabs-welcome = Amharc ar liosta cluaisíní ó do ghléasanna eile.
 appmenu-remote-tabs-unverified = Ní mór duit do chuntas a dheimhniú.
+appmenuitem-fxa-sign-in = Logáil isteach i { -brand-product-name }
 appmenuitem-save-page =
     .label = Sábháil an Leathanach Mar…
 
