@@ -11,17 +11,15 @@ appmenuitem-update-banner3 =
     .label-update-manual = আপডেট উপলব্ধ — এতিয়াই ডাউনল'ড কৰক
     .label-update-unsupported = আপডেট কৰিব পৰা নগ'ল — ছিষ্টেম অসংগত
     .label-update-restart = আপডেট উপলব্ধ — এতিয়াই পুনৰাৰম্ভ কৰক
-
 appmenuitem-protection-dashboard-title = সুৰক্ষা ডেশ্বব'ৰ্ড
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = নতুন টেব
 appmenuitem-new-window =
     .label = নতুন উইণ্ড'
 appmenuitem-new-private-window =
     .label = নতুন ব্যক্তিগত উইণ্ড'
+appmenuitem-history =
+    .label = ইতিহাস
 appmenuitem-passwords =
     .label = পাছৱৰ্ড
 appmenuitem-addons-and-themes =
@@ -44,7 +42,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু বন্ধ কৰক
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,30 +62,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ছিংক কৰিবলৈ ছাইন ইন কৰক…
 appmenu-remote-tabs-turn-on-sync =
     .label = ছিংক চালু কৰক…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = অধিক টেব দেখুৱাওক
     .tooltiptext = এই ডিভাইচৰ অধিক টেব দেখুৱাওক
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = কোনো খোলা টেব নাই
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = আপোনাৰ আনবোৰ ডিভাইচৰ টেবৰ তালিকা চাবলৈ টেব ছিংকিং চালু কৰক।
-
 appmenu-remote-tabs-opensettings =
     .label = ছেটিংছ
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ইয়াত আপোনাৰ আনবোৰ ডিভাইচৰ টেবসমূহ চাব বিচাৰেনে?
-
 appmenu-remote-tabs-connectdevice =
     .label = আন এটা ডিভাইচ সংযোগ কৰক
 appmenu-remote-tabs-welcome = আপোনাৰ আনবোৰ ডিভাইচৰ টেবৰ তালিকা এখন চাওক।
 appmenu-remote-tabs-unverified = আপোনাৰ একাউণ্টটো প্ৰমাণিত কৰাৰ প্ৰয়োজন আছে।
-
 appmenuitem-fxa-toolbar-sync-now2 = এতিয়াই ছিংক কৰক
 appmenuitem-fxa-manage-account = একাউণ্ট পৰিচালনা কৰক
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -102,14 +92,12 @@ appmenu-fxa-signed-in-label = ছাইন ইন কৰক
 appmenu-fxa-setup-sync =
     .label = ছিংক কৰা চালু কৰক…
 appmenu-fxa-show-more-tabs = আৰু টেব দেখুৱাওক
-
 appmenuitem-save-page =
     .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = নতুন কি আছে
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,49 +110,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = অধিক তথ্য প্ৰকাশ কৰক
-
 profiler-popup-description-title =
     .value = ৰেকৰ্ড কৰক, বিশ্লেষণ কৰক, ভাগ-বতৰা কৰক
-
 profiler-popup-description = আপোনাৰ দলৰ সৈতে ভাগ-বতৰা কৰিবলৈ প্ৰ'ফাইল প্ৰকাশ কৰি কাৰ্য্যকৰিতাৰ সমস্যাবোৰত সহযোগিতা কৰক।
-
 profiler-popup-learn-more = অধিক জানক
-
 profiler-popup-settings =
     .value = ছেটিংছ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ছেটিংছ সম্পাদনা কৰক…
-
 profiler-popup-disabled =
     প্ৰ'ফাইলাৰটো বৰ্তমানে নিষ্ক্ৰিয় হৈ আছে, সম্ভৱতঃ এটা ব্যক্তিগত ব্ৰাউজিং ৱিণ্ড'
     খোল খাই থকা কাৰণে।
-
 profiler-popup-recording-screen = ৰেকৰ্ড হৈ আছে…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = নিজৰ হিচাপে
-
 profiler-popup-start-recording-button =
     .label = ৰেকৰ্ডিং আৰম্ভ কৰক
-
 profiler-popup-discard-button =
     .label = নাকচ কৰক
-
 profiler-popup-capture-button =
     .label = কেপচাৰ
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -232,7 +206,6 @@ appmenu-customizetoolbar =
     .label = টুলবাৰ কাষ্টমাইজ কৰক...
 appmenu-taskmanager =
     .label = কাৰ্য্য ব্যৱস্থাপক
-
 appmenu-developer-tools-subheader = ব্ৰাউজাৰৰ সা-সঁজুলি
 appmenu-developer-tools-extensions =
     .label = বিকাশকাৰীৰ বাবে এক্সটেনশ্যন
