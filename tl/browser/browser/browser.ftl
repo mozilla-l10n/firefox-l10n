@@ -645,6 +645,9 @@ toolbar-button-email-link =
 toolbar-button-open-file =
     .label = Magbukas ng file
     .tooltiptext = Magbukas ng file ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Mga Naka-sync na Tab
+    .tooltiptext = Ipakita ang mga tabs mula sa ibang devices
 
 ## EME notification panel
 
