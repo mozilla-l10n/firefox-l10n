@@ -80,6 +80,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = 他の端末のタブ一覧を表示する。
 appmenu-remote-tabs-unverified = あなたのアカウントは検証する必要があります。
 appmenuitem-fxa-toolbar-sync-now2 = 今すぐ同期
+appmenuitem-fxa-sign-in = { -brand-product-name } にログイン
 appmenuitem-fxa-manage-account = アカウントを管理
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
