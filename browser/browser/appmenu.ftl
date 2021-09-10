@@ -14,6 +14,8 @@ appmenuitem-new-private-window =
     .label = Nueva finestra privada
 appmenuitem-history =
     .label = Historial
+appmenuitem-downloads =
+    .label = Descargas
 appmenuitem-print =
     .label = Imprentar…
 appmenuitem-zoom =
@@ -43,6 +45,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Connectar belatro dispositivo
 appmenu-remote-tabs-welcome = Veyer una lista d'as pestanyas d'os atros dispositivos.
 appmenu-remote-tabs-unverified = Fa falta verificar lo tuyo conto.
+appmenuitem-fxa-sign-in = Iniciar la sesión en { -brand-product-name }
 appmenuitem-save-page =
     .label = Alzar a pachina como…
 
