@@ -9,6 +9,7 @@ chat-encryption-description = { $protocol } fornece criptografia de ponta a pont
 chat-encryption-status = Status de criptografia
 chat-encryption-placeholder = Criptografia não iniciada.
 chat-encryption-sessions = Sessões
+chat-encryption-sessions-description = Para que a criptografia de ponta a ponta funcione corretamente, você precisa aceitar como confiáveis as outras sessões atualmente conectadas à sua conta. A interação com o outro cliente é necessária para validar uma sessão. A validação de uma sessão pode fazer com que todas as sessões que ela confia também sejam consideradas confiáveis pelo { -brand-short-name }.
 chat-encryption-session-verify = Validar
     .title = Validar a identidade desta sessão
 chat-encryption-session-trusted = confiável
