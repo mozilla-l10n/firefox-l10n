@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Näytä lista välilehdistä muilta laitteiltasi.
 appmenu-remote-tabs-unverified = Tilisi tarvitsee vahvistaa.
 appmenuitem-fxa-toolbar-sync-now2 = Synkronoi nyt
+appmenuitem-fxa-sign-in = Kirjaudu { -brand-product-name }iin
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
