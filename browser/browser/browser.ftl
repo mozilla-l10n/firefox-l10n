@@ -677,6 +677,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Eşitlenmiş sekmeler
     .tooltiptext = Diğer cihazlardaki sekmeleri göster
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Yeni gizli pencere
+    .tooltiptext = Yeni bir Gizli Gezinti penceresi aç ({ $shortcut })
 
 ## EME notification panel
 
