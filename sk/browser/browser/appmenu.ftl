@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Nové súkromné okno
 appmenuitem-history =
     .label = História
+appmenuitem-downloads =
+    .label = Stiahnuté súbory
 appmenuitem-passwords =
     .label = Heslá
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Zobraziť zoznam kariet z ostatných zariadení.
 appmenu-remote-tabs-unverified = Váš účet musí byť overený.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovať teraz
+appmenuitem-fxa-sign-in = Prihlásiť sa do aplikácie { -brand-product-name }
 appmenuitem-fxa-manage-account = Spravovať účet
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
