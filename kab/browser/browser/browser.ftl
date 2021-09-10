@@ -670,6 +670,14 @@ toolbar-button-email-link =
 toolbar-button-save-page =
     .label = Sekles asebter
     .tooltiptext = Sekles asebter-a ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Ldi afaylu
+    .tooltiptext = Ldi afaylu ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Iccaren yemtawin
+    .tooltiptext = Sken iccaren seg ibenkan-nniḍen
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
