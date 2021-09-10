@@ -275,6 +275,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synced Tabs
     .tooltiptext = Show tabs from other devices
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = New Private Window
+    .tooltiptext = Open a new Private Browsing window ({ $shortcut })
 
 ## EME notification panel
 
