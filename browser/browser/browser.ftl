@@ -708,6 +708,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Nastavení tlačítek a lišt…
     .accesskey = V
+toolbar-button-email-link =
+    .label = Poslat odkaz e-mailem
+    .tooltiptext = Odešle odkaz na aktuální stránku
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -718,6 +721,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Otevřít soubor
     .tooltiptext = Otevře soubor ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synchronizované panely
+    .tooltiptext = Zobrazí panely z jiných zařízení
 
 ## EME notification panel
 
