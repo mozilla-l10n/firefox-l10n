@@ -647,6 +647,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Buka Berkas
     .tooltiptext = Buka berkas ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Tab yang Disinkronkan
+    .tooltiptext = Tampilkan tab dari perangkat lain
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
