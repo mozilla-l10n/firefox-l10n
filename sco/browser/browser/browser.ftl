@@ -659,6 +659,22 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Mak Toolbaur Yer Ain…
     .accesskey = M
+toolbar-button-email-link =
+    .label = Email Link
+    .tooltiptext = Email a link tae this page
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Save Page
+    .tooltiptext = Save this page ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Open File
+    .tooltiptext = Open a file ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synced Tabs
+    .tooltiptext = Kythe tabs fae ither devices
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
