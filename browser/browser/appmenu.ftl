@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Lefasetere le leswa
 appmenuitem-new-private-window =
     .label = Lefasetere le leswa la praebete
+appmenuitem-history =
+    .label = Histori
+appmenuitem-print =
+    .label = Gatiša…
+appmenuitem-zoom =
+    .value = Godiša
 appmenuitem-help =
     .label = Thušo
 
