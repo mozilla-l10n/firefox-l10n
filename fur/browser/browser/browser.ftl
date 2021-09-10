@@ -622,6 +622,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Personalize sbare dai struments…
     .accesskey = P
+toolbar-button-email-link =
+    .label = Invie colegament vie pueste
+    .tooltiptext = Invie vie e-mail un colegament a cheste pagjine
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -632,6 +635,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Vierç file
     .tooltiptext = Vierç un file ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Schedis sincronizadis
+    .tooltiptext = Mostre lis schedis di altris dispositîfs
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
