@@ -662,6 +662,14 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Sagen afeggag n yifecka…
     .accesskey = M
+toolbar-button-email-link =
+    .label = Azen aseɣwen
+    .tooltiptext = Azen aseɣwen ɣer usebter-a
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Sekles asebter
+    .tooltiptext = Sekles asebter-a ({ $shortcut })
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
