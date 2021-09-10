@@ -150,7 +150,7 @@ left instead of right. -->
 <!ENTITY popupsManager.label "Διαχείριση αναδυόμενων παραθύρων">
 <!ENTITY popupsManager.accesskey "χ">
 
-<!ENTITY clearPrivateDataCmd.label "Εκκαθάριση ιδιωτικών δεδομένων…">
+<!ENTITY clearPrivateDataCmd.label "Απαλοιφή ιδιωτικών δεδομένων…">
 <!ENTITY clearPrivateDataCmd.accesskey "κ">
 
 <!ENTITY stopCmd.macCommandKey ".">

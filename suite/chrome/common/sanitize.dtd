@@ -10,7 +10,7 @@
 
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear"
      dropdown. -->
-<!ENTITY clearTimeDuration.label          "Χρονικό διάστημα εκκαθάρισης: ">
+<!ENTITY clearTimeDuration.label          "Χρονικό διάστημα απαλοιφής: ">
 <!ENTITY clearTimeDuration.accesskey      "Χ">
 <!ENTITY clearTimeDuration.lastHour       "Τελευταία ώρα">
 <!ENTITY clearTimeDuration.last2Hours     "Τελευταίες δύο ώρες">
