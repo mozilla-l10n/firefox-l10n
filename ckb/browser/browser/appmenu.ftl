@@ -6,16 +6,20 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = بۆردی پارێزگاری
-
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = پەنجەرەی نوێ
 appmenuitem-new-private-window =
     .label = پەنجەرەی تایبەتی نوێ
+appmenuitem-history =
+    .label = مێژوو
+appmenuitem-downloads =
+    .label = داگرتنەکان
+appmenuitem-print =
+    .label = چاپکردن...
+appmenuitem-zoom =
+    .value = زووم
 appmenuitem-help =
     .label = یارمەتی
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -34,26 +38,22 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بازدەری کراوە نیە
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = هاوکاتگەری بازدەر چالاک بکە بۆ ئەوەی لیستی هەموو بازدەرەکان ببینیت لە ئامێرەکەی ترەوە.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = دەتەوێت بازدەرەکانت لە ئامێرەکانی ترەوە ببینی؟
-
 appmenu-remote-tabs-connectdevice =
     .label = پەیوەندی بکە بە ئامێرێکی تر
 appmenu-remote-tabs-welcome = لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.
 appmenu-remote-tabs-unverified = پێویستە هەژمارەکەت بسەلمێندرێت.
-
+appmenuitem-fxa-sign-in = بچۆژوورەوە لە { -brand-product-name }
 appmenuitem-save-page =
     .label = پەرە پاشەکەوت بکە وەک...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = چی نوێ هەیە
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -97,4 +97,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = بەڕێوەبردنی تاسک (ئەرک)
-
