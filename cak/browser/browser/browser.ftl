@@ -651,6 +651,16 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Ximonel taqoya'l
     .tooltiptext = Titaq pa taqoya'l jun ximöy pa re ruxaq re'
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Tiyak Ruxaq
+    .tooltiptext = Tiyak re ruxaq re' ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Tijaq Yakb'äl
+    .tooltiptext = Tijaq yakb'äl ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Ximon taq ruwi'
     .tooltiptext = Kek'ut pe ri taq ruwi' e k'o pa ch'aqa' chik taq okisaxel
