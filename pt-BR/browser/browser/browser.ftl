@@ -659,6 +659,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Personalizar barra de ferramentas…
     .accesskey = P
+toolbar-button-email-link =
+    .label = Enviar link por email
+    .tooltiptext = Enviar link desta página por email
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
