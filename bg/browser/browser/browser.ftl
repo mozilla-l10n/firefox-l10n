@@ -641,6 +641,14 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Приспособяване…
     .accesskey = П
+toolbar-button-email-link =
+    .label = Препратка по имейл
+    .tooltiptext = Изпращане на препратка към страница по ел. поща
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Запазване на страницата
+    .tooltiptext = Запазване на страницата ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -649,6 +657,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Синхронизирани раздели
     .tooltiptext = Показване на раздели от други устройства
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Поверителен прозорец
+    .tooltiptext = Отваряне на поверителен прозорец ({ $shortcut })
 
 ## EME notification panel
 
