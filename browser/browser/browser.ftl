@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Mode Penjelajahan Pribadi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Mode Penjelajahan Pribadi)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Mode Penjelajahan Pribadi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Mode Penjelajahan Pribadi)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,7 +109,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Ketik lebih sedikit, temukan lebih banyak: Pencarian { $engineName } langsung dari bilah alamat Anda.
 urlbar-search-tips-redirect-2 = Mulai pencarian Anda di bilah alat untuk melihat saran dari { $engineName } dan riwayat penjelajahan Anda.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pilih pintasan ini untuk menemukan lebih cepat apa yang dibutuhkan.
@@ -148,12 +145,10 @@ urlbar-midi-blocked =
     .tooltiptext = Anda telah memblokir akses MIDI untuk situs web ini.
 urlbar-install-blocked =
     .tooltiptext = Anda telah memblokir pemasangan pengaya untuk situs Web ini.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit markah ini ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,10 +175,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Kali ini, cari dengan:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah setelan pencarian
-
 search-one-offs-context-open-new-tab =
     .label = Cari di Tab Baru
     .accesskey = T
@@ -193,14 +186,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Jadikan sebagai Mesin Pencari Baku untuk Jendela Pribadi
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -245,7 +236,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = e
 bookmark-panel-save-button =
     .label = Simpan
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -273,7 +263,6 @@ identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
 identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
 identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
 identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
-
 identity-https-only-connection-upgraded = (ditingkatkan ke HTTPS)
 identity-https-only-label = Mode Hanya HTTPS
 identity-https-only-dropdown-on =
@@ -285,11 +274,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Nyalakan Mode HTTPS-Only untuk situs ini jika Anda ingin { -brand-short-name } meningkatkan sambungan bila memungkinkan.
 identity-https-only-info-turn-off2 = Jika laman terlihat bermasalah, Anda mungkin ingin menonaktifkan Mode HTTPS-Only lalu memuat ulang situsnya dengan HTTP yang tidak aman.
 identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
-
 identity-permissions-storage-access-header = Kuki lintas situs
 identity-permissions-storage-access-hint = Pihak berikut dapat menggunakan kuki lintas situs dan data situs saat Anda berada di situs ini.
 identity-permissions-storage-access-learn-more = Pelajari lebih lanjut
-
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
 identity-clear-site-data =
     .label = Hapus Kuki dan Data Situs…
@@ -352,13 +339,11 @@ browser-tab-mute =
         [1] SENYAPKAN { $count } TAB
        *[other] S
     }
-
 browser-tab-unmute =
     { $count ->
         [1] SUARAKAN { $count } TAB
        *[other] U
     }
-
 browser-tab-unblock =
     { $count ->
         [1] PUTAR { $count } TAB
@@ -370,7 +355,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Impor markah…
     .tooltiptext = Impor markah dari peramban lain ke { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Untuk akses cepat, tempatkan markah Anda di sini pada bilah alat markah. <a data-l10n-name="manage-bookmarks">Kelola markah…</a>
 
 ## WebRTC Pop-up notifications
@@ -388,15 +372,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Pengeras suara
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
-
 popup-screen-sharing-block =
     .label = Blokir
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Selalu blokir
     .accesskey = S
-
 popup-mute-notifications-checkbox = Bisukan notifikasi situs web ketika sedang berbagi
 
 ## WebRTC window or screen share tab switch warning
@@ -418,7 +399,6 @@ enable-devtools-popup-description = Untuk menggunakan pintasan F12, pertama buka
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -427,7 +407,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Cari di Web
     .aria-label = Cari lewat { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -436,27 +415,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Masukkan istilah pencarian
     .aria-label = Cari di { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Masukan istilah pencarian
     .aria-label = Cari markah
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Masukan istilah pencarian
     .aria-label = Cari riwayat
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Masukkan istilah pencarian
     .aria-label = Cari tab
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cari lewat { $name } atau masukkan alamat
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -466,11 +440,9 @@ urlbar-permissions-granted =
     .tooltiptext = Anda telah memberikan izin tambahan kepada situs web ini.
 urlbar-switch-to-tab =
     .value = Pindah ke tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
-
 urlbar-go-button =
     .tooltiptext = Pindah ke alamat di Bilah Lokasi
 urlbar-page-action-button =
@@ -541,12 +513,9 @@ urlbar-result-action-search-tabs = Cari Tab
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> sekarang dalam layar penuh
 fullscreen-warning-no-domain = Sekarang dokumen ini dalam layar penuh
-
-
 fullscreen-exit-button = Keluar dari Layar Penuh (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Keluar dari Layar Penuh (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -556,7 +525,6 @@ pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Sebagian dari laman ini mogok. </strong>Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
-
 crashed-subframe-learnmore-link =
     .value = Pelajari Lebih Lanjut
 crashed-subframe-submit =
@@ -608,7 +576,6 @@ bookmarks-tools =
     .label = Alat Pemarkahan
 bookmarks-bookmark-edit-panel =
     .label = Edit Markah Ini
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -622,7 +589,6 @@ bookmarks-toolbar-placeholder =
     .title = Nama Markah
 bookmarks-toolbar-placeholder-button =
     .label = Nama Markah
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Markahi Tab Saat Ini
@@ -653,7 +619,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Pengaya dan tema
     .tooltiptext = Kelola pengaya dan tema ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -669,10 +634,24 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Bekerja Luring
     .accesskey = L
-
 toolbar-overflow-customize-button =
     .label = Ubahsuai Bilah Alat…
     .accesskey = U
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Simpan Laman
+    .tooltiptext = Simpan laman ini ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Buka Berkas
+    .tooltiptext = Buka berkas ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Jendela Mode Pribadi Baru
+    .tooltiptext = Buka jendela Penjelajahan Pribadi baru ({ $shortcut })
 
 ## EME notification panel
 
@@ -711,7 +690,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Izinkan pop-up untuk { $uriHost }
     .accesskey = i
-
 popups-infobar-block =
     .label = Blokir pop-up untuk { $uriHost }
     .accesskey = i
@@ -721,7 +699,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Jangan tampilkan pesan ini saat pop-up diblokir
     .accesskey = J
-
 picture-in-picture-hide-toggle =
     .label = Sembunyikan Sakelar Gambar-dalam-Gambar
     .accesskey = S
