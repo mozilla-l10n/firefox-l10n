@@ -694,6 +694,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Tabiau wedi'u Cydweddu
     .tooltiptext = Dangos tabiau o ddyfeisiau eraill
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Ffenestr Breifat Newydd
+    .tooltiptext = Agor ffenestr Pori Preifat newydd ({ $shortcut })
 
 ## EME notification panel
 
