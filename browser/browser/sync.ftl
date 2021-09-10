@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Graty so synchronizuja…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Sćelće rajtark hnydom na grat, pola kotrehož sće přizjewjeny.
 fxa-menu-sign-out =
     .label = Wotzjewić…
