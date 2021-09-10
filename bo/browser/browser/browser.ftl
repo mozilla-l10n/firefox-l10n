@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -126,12 +124,10 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -155,7 +151,6 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
-
 search-one-offs-context-open-new-tab =
     .label = ཡན་ལག་ངོས་གསར་བའི་ནང་དུ་འཚོལ་བ
     .accesskey = T
@@ -184,7 +179,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -201,7 +195,6 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
-
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-clear-site-data =
     .label = Clear Cookies and Site Data…
@@ -261,19 +254,15 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 urlbar-placeholder =
     .placeholder = འཚོལ་བཤེར་དང་ཡང་ན་དྲ་གནས་འཇུག་དགོས
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }་ཐོག་ཏུ་འཚོལ་བ་དང་ཡང་ན་དྲ་གནས་བླུག་དགོས
-
 urlbar-switch-to-tab =
     .value = Switch to tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ཟུར་སྣོན:
-
 urlbar-go-button =
     .tooltiptext = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
 urlbar-page-action-button =
@@ -305,12 +294,9 @@ urlbar-result-action-visit = སྐྱོད་པ།
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is now full screen
 fullscreen-warning-no-domain = ཡིག་ཆ་འདི་ད་ལྟ་འཆར་ངོས་ཡོངས་ཀྱི་རྣམ་པ་ཡིན
-
-
 fullscreen-exit-button = འཆར་ངོས་ཡོངས་ནས་ཕྱིར་བུད (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = འཆར་ངོས་ཡོངས་ནས་ཕྱིར་བུད (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -356,7 +342,6 @@ bookmarks-tools =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ
 bookmarks-bookmark-edit-panel =
     .label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
-
 bookmarks-toolbar-menu =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ་ངོས
 bookmarks-toolbar-placeholder =
@@ -383,10 +368,30 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = Work Offline
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = ལག་ཆའི་ངོས་རང་མོས་སྒྲིག་འགོས…
     .accesskey = C
+toolbar-button-email-link =
+    .label = གློག་ཡི་བརྒྱུད་ནས་སྦྲེལ་ཐག་སྐུར་བ
+    .tooltiptext = Email a link to this page
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = དྲ་ངོས་ཉར་ཚགས
+    .tooltiptext = དྲ་ངོས་འདི་ཉར་ཚགས ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = ཡིག་ཆ་ཁ་ཕྱེ
+    .tooltiptext = ཡིག་ཆ་ཞིག་ཁ་ཕྱེ ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = སྙོམ་སྒྲིག་བྱས་པའི་ཡན་ལག་ངོས
+    .tooltiptext = Show tabs from other devices
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = མི་སྒེར་གྱི་འཆར་སྒྲོམ་གསར་བ
+    .tooltiptext = Open a new Private Browsing window ({ $shortcut })
 
 ## EME notification panel
 
@@ -412,7 +417,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -422,4 +426,3 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
-
