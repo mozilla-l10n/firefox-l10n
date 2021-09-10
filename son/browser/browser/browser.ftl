@@ -320,6 +320,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Kanji hangantey
     .tooltiptext = Jinay taney kanjey cebe
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Sutura zanfun taaga
+    .tooltiptext = Sutura ceeciyan zanfun taaga feeri ({ $shortcut })
 
 ## EME notification panel
 
