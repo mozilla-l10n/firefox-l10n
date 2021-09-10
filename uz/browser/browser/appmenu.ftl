@@ -44,6 +44,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Boshqa qurilmaga ulanish
 appmenu-remote-tabs-welcome = Boshqa qurilmalaridagi varaqlar roʻyxatini koʻring.
 appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
+appmenuitem-fxa-sign-in = { -brand-product-name } hisobiga kirish
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 

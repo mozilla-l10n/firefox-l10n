@@ -4,6 +4,10 @@
 
 fxa-menu-connect-another-device =
     .label = Boshqa qurilmani ulash
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Qurilmalar sinxronlanmoqda…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Varaqni hisobingizdan kirilgan boshqa qurilmaga yuboring.
 fxa-menu-sign-out =
     .label = Chiqish…
