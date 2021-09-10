@@ -28,6 +28,8 @@ appmenuitem-print =
     .label = 인쇄…
 appmenuitem-find-in-page =
     .label = 페이지에서 찾기…
+appmenuitem-zoom =
+    .value = 확대/축소
 appmenuitem-more-tools =
     .label = 더 많은 도구
 appmenuitem-help =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = 다른 기기의 탭 목록을 봅니다.
 appmenu-remote-tabs-unverified = 계정 확인이 필요합니다.
 appmenuitem-fxa-toolbar-sync-now2 = 지금 동기화
+appmenuitem-fxa-sign-in = { -brand-product-name }에 로그인
 appmenuitem-fxa-manage-account = 계정 관리
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
