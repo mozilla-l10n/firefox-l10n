@@ -44,6 +44,7 @@ appmenu-remote-tabs-connectdevice =
     .label = অন্য ডিভাইস সংযুক্ত করুন
 appmenu-remote-tabs-welcome = আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখুন।
 appmenu-remote-tabs-unverified = আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।
+appmenuitem-fxa-sign-in = { -brand-product-name } এ সাইন ইন করুন
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 
