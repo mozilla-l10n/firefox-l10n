@@ -271,6 +271,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = फाइल खोलू
     .tooltiptext = एकटा फाइल खोलू ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = सिंक टैब
+    .tooltiptext = आन उपकरण सँ टैब देखाबू
 
 ## EME notification panel
 
