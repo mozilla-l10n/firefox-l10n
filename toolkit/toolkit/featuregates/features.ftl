@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = 開啟實驗中的 CSS 瀑布流
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = 開啟支援 CSS Cascade Layers 功能。若需更多資訊，請參考<a data-l10n-name="spec">正在設計中的規格</a>。若遇到與此功能相關的任何 bug 請回報，並 block <a data-l10n-name="bugzilla">bug 1699215</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
