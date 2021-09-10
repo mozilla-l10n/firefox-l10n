@@ -413,6 +413,9 @@ toolbar-button-email-link =
 toolbar-button-save-page =
     .label = Sarva pagina
     .tooltiptext = Sarva sta pagina ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Feuggi scincronizæ
+    .tooltiptext = Fanni vedde feuggi da n'atro aparato
 
 ## EME notification panel
 
