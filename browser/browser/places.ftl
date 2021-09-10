@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Abrir todo en lapelas
     .accesskey = o
-
 places-open-in-window =
     .label = Abrir nunha nova xanela
     .accesskey = n
 places-open-in-private-window =
     .label = Abrir nunha nova xanela privada
     .accesskey = p
-
 places-add-bookmark =
     .label = Engadir marcador…
     .accesskey = m
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Engadir separador
     .accesskey = s
-
 places-view =
     .label = Ver
     .accesskey = V
@@ -53,19 +50,16 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por data e sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Buscar no historial
 places-bookmarks-search =
     .placeholder = Buscar nos marcadores
-
 places-delete-domain-data =
     .label = Esquecer este sitio
     .accesskey = s
 places-sortby-name =
     .label = Ordenar por nome
     .accesskey = r
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Editar marcador…
@@ -84,18 +78,26 @@ places-remove-folder =
            *[other] Retirar cartafoles
         }
     .accesskey = m
-
+places-edit-folder2 =
+    .label = Editar cartafol…
+    .accesskey = E
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Eliminar cartafol
+            [one] Eliminar cartafol
+           *[other] Eliminar cartafoles
+        }
+    .accesskey = E
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores xestionados
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subcartafol
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Outros marcadores
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -106,8 +108,21 @@ places-remove-bookmark =
            *[other] Retirar marcadores
         }
     .accesskey = R
-
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Eliminar marcador
+            [one] Eliminar marcador
+           *[other] Eliminar marcadores
+        }
+    .accesskey = m
 places-manage-bookmarks =
     .label = Xestionar marcadores
     .accesskey = X
-
+places-forget-about-this-site-confirmation-title = Esquecer este sitio
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Esta acción retira todos os datos relacionados con { $hostOrBaseDomain }, incluído o historial, os contrasinais, as cookies, a caché e as preferencias de contido. Confirma que desexa proseguir?
+places-forget-about-this-site-forget = Esquecer
