@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Titz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.
 appmenu-remote-tabs-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
+appmenuitem-fxa-sign-in = Titikirisäx molojri'ïl pa { -brand-product-name }
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
