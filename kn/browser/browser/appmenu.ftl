@@ -5,14 +5,14 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = ಹೊಸ ಹಾಳೆ
 appmenuitem-new-window =
     .label = ಹೊಸ ಕಿಟಕಿ
 appmenuitem-new-private-window =
     .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
+appmenuitem-history =
+    .label = ಇತಿಹಾಸ
 appmenuitem-help =
     .label = ಸಹಾಯ
 
@@ -25,18 +25,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ಯಾವುದೆ ತೆರೆದ ಹಾಳೆಗಳಿಲ್ಲ
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಿಂದ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಟ್ಯಾಬ್‌ ಸಿಂಕ್ ಮಾಡುವಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?
-
 appmenu-remote-tabs-connectdevice =
     .label = ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು
 appmenu-remote-tabs-unverified = ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ.
-
 appmenuitem-save-page =
     .label = ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...
 
