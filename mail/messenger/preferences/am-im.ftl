@@ -4,6 +4,7 @@
 
 account-settings-title = 驗證設定
 account-channel-title = 預設頻道
+chat-encryption-label = 原生端到端加密
 chat-encryption-status = 加密狀態
 chat-encryption-placeholder = 加密機制尚未初始化。
 chat-encryption-sessions = 對話階段
