@@ -6,6 +6,7 @@ account-encryption =
     .label = Amgryptio Pen-i-Ben
 account-otr-label = Negeseuon Dim Cofnod (OTR)
 account-otr-description = Mae { -brand-short-name } yn cefnogi amgryptio sgyrsiau un i un o'r dechrau i'r diwedd. Mae hyn yn atal trydydd partïon rhag clustfeinio ar sgyrsiau. Dim ond pan fydd y person arall hefyd yn defnyddio meddalwedd sy'n cefnogi OTR y mae modd defnyddio amgryptio o'r dechrau i'r diwedd.
+account-otr-description2 = Mae { -brand-short-name } yn cefnogi amgryptio sgyrsiau un i un o'r dechrau i'r diwedd wedi ei seilio ar OTR. Mae hyn yn atal trydydd partïon rhag clustfeinio ar sgyrsiau. Dim ond pan fydd y person arall hefyd yn defnyddio meddalwedd sy'n cefnogi OTR y mae modd defnyddio amgryptio o'r dechrau i'r diwedd.
 otr-encryption-title = Amgryptio wedi'i Wirio
 otr-encryption-caption = Er mwyn galluogi pobl eraill i wirio'ch hunaniaeth mewn sgyrsiau OTR, rhannwch eich bysbrintiau OTR eich hun gan ddefnyddio sianel gyfathrebu allanol (tu-allan-i'r-band).
 otr-fingerprint-label = Eich Bysbrint:
@@ -15,7 +16,6 @@ view-fingerprint-button =
 otr-settings-title = Gosodiadau OTR
 otr-log =
     .label = Cynnwys negeseuon wedi'u hamgryptio OTR mewn cofnodion sgwrsio
-
 otr-require-encryption =
     .label = Angen amgryptio o'r dechrau i'r diwedd ar gyfer sgyrsiau un i un
 otr-require-encryption-info =
@@ -24,6 +24,4 @@ otr-require-encryption-info =
     derbyn heb eu hamgryptio yn cael eu dangos fel rhan o'r sgwrs arferol, na'u cofnodi chwaith.
 otr-verify-nudge =
     .label = Atgoffa bob tro i wirio cyswllt heb ei wirio
-
 otr-not-yet-available = ddim ar gael eto
-
