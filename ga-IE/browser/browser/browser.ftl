@@ -353,6 +353,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Oscail Comhad
     .tooltiptext = Oscail comhad ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Cluaisíní Sioncronaithe
+    .tooltiptext = Taispeáin cluaisíní ó ghléasanna eile
 
 ## EME notification panel
 
