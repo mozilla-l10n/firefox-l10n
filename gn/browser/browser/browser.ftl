@@ -675,6 +675,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Marandurendápe jeike
     .tooltiptext = Marandurendápe jeike ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Tendayke oñembojuehepyre
+    .tooltiptext = Ambue mba’e’oka rendaykekuéra jehechauka
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
