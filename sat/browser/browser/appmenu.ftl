@@ -5,8 +5,6 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 appmenuitem-new-window =
@@ -17,7 +15,10 @@ appmenuitem-passwords =
     .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 appmenuitem-addons-and-themes =
     .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
-
+appmenuitem-print =
+    .label = छापा…
+appmenuitem-zoom =
+    .value = हुडिञ माराङ होचो
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -41,15 +42,11 @@ whatsnew-panel-header = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = ᱟᱨᱦᱚᱸ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱛᱟᱣ ᱪᱷᱚ
-
 profiler-popup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 profiler-popup-settings =
     .value = ᱥᱟᱡᱟᱣ ᱠᱚ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
 
