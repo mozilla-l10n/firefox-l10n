@@ -672,6 +672,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Åpne fil
     .tooltiptext = Åpne fil ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synkroniserte faner
+    .tooltiptext = Vis faner fra andre enheter
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
