@@ -6,7 +6,9 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-last-updated = Τελευταία ενημέρωση: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Προτεραιότητα
+about-unloads-column-host = Κεντρικός υπολογιστής
 about-unloads-column-last-accessed = Τελευταία πρόσβαση
 about-unloads-column-memory = Μνήμη
     .title = Εκτιμώμενη χρήση μνήμης καρτέλας
