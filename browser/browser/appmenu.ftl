@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = Nyt privat vindue
 appmenuitem-history =
     .label = Historik
+appmenuitem-downloads =
+    .label = Filhentning
 appmenuitem-passwords =
     .label = Adgangskoder
 appmenuitem-addons-and-themes =
@@ -82,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Se en liste med faneblade fra dine andre enheder.
 appmenu-remote-tabs-unverified = Din konto skal bekræftes.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nu
+appmenuitem-fxa-sign-in = Log ind på { -brand-product-name }
 appmenuitem-fxa-manage-account = Håndter konto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
