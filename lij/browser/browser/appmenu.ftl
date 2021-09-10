@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Neuvo feuggio
 appmenuitem-new-window =
     .label = Neuvo barcon
 appmenuitem-new-private-window =
     .label = Neuvo barcon privòu
+appmenuitem-history =
+    .label = Stöia
+appmenuitem-zoom =
+    .value = Zoom
 appmenuitem-help =
     .label = Agiutto
 
@@ -29,18 +31,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nisciun feuggio averto
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ativâ a scincronizaçion di feuggi pe vedde i feuggi averti inti atri dispoxitivi.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = T'eu amiâ chi i teu feuggi da atri dipoxitivi?
-
 appmenu-remote-tabs-connectdevice =
     .label = Conetti 'n atro dispoxitivo
 appmenu-remote-tabs-unverified = O teu conto o deve ese verificou.
-
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
@@ -94,4 +92,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gestion ativitæ
-
