@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sinhroniziranje naprav ...
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Takoj pošljite zavihek na katerokoli napravo, v katero ste prijavljeni.
 fxa-menu-sign-out =
     .label = Odjava …

@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Oglejte si seznam zavihkov drugih naprav.
 appmenu-remote-tabs-unverified = Svoj račun morate potrditi.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
+appmenuitem-fxa-sign-in = Prijava v { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljanje računa
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
