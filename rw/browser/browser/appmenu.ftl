@@ -7,6 +7,8 @@
 
 appmenuitem-new-window =
     .label = Idirisha Rishya
+appmenuitem-history =
+    .label = Amateka
 appmenuitem-print =
     .label = Gucapa...
 
