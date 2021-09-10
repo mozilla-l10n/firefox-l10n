@@ -422,6 +422,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinxron Vərəqlər
     .tooltiptext = Digər cihazlardan olan vərəqləri göstər
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Yeni Məxfi Pəncərə
+    .tooltiptext = Yeni Gizli Pəncərə aç ({ $shortcut })
 
 ## EME notification panel
 
