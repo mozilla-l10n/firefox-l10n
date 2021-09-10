@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Loo gib kuub
 appmenuitem-new-private-window =
     .label = Loo gib kuub chan taa luu
+appmenuitem-history =
+    .label = Ree koo güil
+appmenuitem-print =
+    .label = Key loo yets...
+appmenuitem-zoom =
+    .value = Loo Narú
 appmenuitem-help =
     .label = M-ta thib yá
 
