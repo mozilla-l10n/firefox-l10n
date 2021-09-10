@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Sutura naarumi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Sutura naarumi)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Sutura naarumi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Sutura naarumi)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -107,12 +105,10 @@ urlbar-screen-blocked =
     .tooltiptext = War na interneti nungoo woo gagay nd'a ma war dijoo zemni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = War na bayhaya jišiyan duumante gagay interneti nungoo woo se.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Doo-šilbaa woo fasal ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -134,14 +130,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ceeciyan kayandiyaney barmay
-
 search-one-offs-context-open-new-tab =
     .label = Ceeci kanji taaga ra
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Kayandi sanda tilasu ceecijinay
     .accesskey = t
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -167,7 +161,6 @@ identity-passive-loaded = Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).
 identity-active-loaded = War na jejebuyanoo kaa moɲoo woo ga.
 identity-weak-encryption = Moɲoo woo tuguyan dabaroo ga yalaafu.
 identity-insecure-login-forms = Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.
-
 identity-permissions-reload-hint = War ma moɲoo zumandi taaga ka barmawey kanandi.
 identity-remove-cert-exception =
     .label = Hasaraw kaa
@@ -225,14 +218,11 @@ popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
 
 urlbar-placeholder =
     .placeholder = Ceeci wala aderesu dam
-
 urlbar-switch-to-tab =
     .value = Bere kanjoo ga:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dobuyan:
-
 urlbar-go-button =
     .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
 urlbar-page-action-button =
@@ -264,12 +254,9 @@ urlbar-result-action-visit = Naaru
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> dijikul cebeyan sohõ
 fullscreen-warning-no-domain = Takaddaa woo ga cebe dijikul ga sohõ
-
-
 fullscreen-exit-button = Fatta dijikul ra (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Fatta dijikul ra (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -293,7 +280,6 @@ bookmarks-search =
     .label = Doo-šilbawey ceeci
 bookmarks-bookmark-edit-panel =
     .label = Doo-šilbaa woo fasal
-
 bookmarks-toolbar-menu =
     .label = Doo-šilbawey goyjinay žeeri
 bookmarks-toolbar-placeholder =
@@ -318,6 +304,22 @@ bookmarks-toolbar-placeholder-button =
 more-menu-go-offline =
     .label = Goy bila nda cinari
     .accesskey = G
+toolbar-button-email-link =
+    .label = Bataga dobu
+    .tooltiptext = Dobu sanba moɲoo woo ga
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Moɲoo gaabu
+    .tooltiptext = Moɲoo woo gaabu ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Tuku feeri
+    .tooltiptext = Tuku feeri ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Kanji hangantey
+    .tooltiptext = Jinay taney kanjey cebe
 
 ## EME notification panel
 
@@ -343,7 +345,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Biiboŋ batawey noo fondo { $uriHost } se
     .accesskey = p
-
 popups-infobar-block =
     .label = Biiboŋ batawey gagay { $uriHost } se
     .accesskey = p
@@ -353,4 +354,3 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ši alhabaroo cebe waati kaŋ biiboŋ batawey gagayandi
     .accesskey = D
-
