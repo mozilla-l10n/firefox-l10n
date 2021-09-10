@@ -651,6 +651,14 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Ximonel taqoya'l
     .tooltiptext = Titaq pa taqoya'l jun ximöy pa re ruxaq re'
+toolbar-button-synced-tabs =
+    .label = Ximon taq ruwi'
+    .tooltiptext = Kek'ut pe ri taq ruwi' e k'o pa ch'aqa' chik taq okisaxel
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = K'ak'a' ichinan tzuwäch
+    .tooltiptext = Tijaq jun k'ak'a' rutzuwäch ichinan okik'amaya'l ({ $shortcut })
 
 ## EME notification panel
 
