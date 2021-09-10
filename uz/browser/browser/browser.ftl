@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Maxfiy koʻrish)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Maxfiy koʻrish)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Maxfiy koʻrish)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Maxfiy koʻrish)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -141,12 +139,10 @@ urlbar-midi-blocked =
     .tooltiptext = Bu sayt uchun MIDI ruxsatini blokladingiz.
 urlbar-install-blocked =
     .tooltiptext = Bu saytdan qoʻshimcha dastur oʻrnatishni bloklagansiz.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Ushbu xatcho‘pni tahrirlash ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -171,10 +167,8 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bu safar quyidagi bilan izlash:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qidiruv sozlamalarini oʻzgartirish
-
 search-one-offs-context-open-new-tab =
     .label = Yangi varaqdan qidirish
     .accesskey = i
@@ -184,14 +178,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Maxfiy oynalar uchun asosiy qidiruv tizimi sifatida oʻrnatish
     .accesskey = s
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -213,7 +205,6 @@ bookmark-panel-cancel =
 bookmark-panel-show-editor-checkbox =
     .label = Saqlashda muharrirni ko‘rsatish
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -233,7 +224,6 @@ identity-passive-loaded = Ushbu sahifa qismlari xavfsiz emas (masalan, rasmlar).
 identity-active-loaded = Siz bu sahifadagi himoyani o‘chirib qo‘ygansiz.
 identity-weak-encryption = Ushbu sahifa kuchsiz kodlash usulidan foydalanadi.
 identity-insecure-login-forms = Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.
-
 identity-permissions-reload-hint = O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.
 identity-clear-site-data =
     .label = Kuki va sayt ma’lumotlarini tozalash
@@ -299,7 +289,6 @@ popup-all-windows-shared = Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lis
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Izlang yoki manzilni kiriting
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -308,7 +297,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Internetdan qidirish
     .aria-label = { $name } bilan qidirish
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -317,21 +305,17 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Qidiriladigan soʻzni kiriting
     .aria-label = { $name }ni qidirish
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } orqali qidiring yoki manzilni kiriting
-
 urlbar-permissions-granted =
     .tooltiptext = Bu saytga qoʻshimcha maxsus ruxsat bergansiz.
 urlbar-switch-to-tab =
     .value = Varaqqa oʻtish:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Kengaytma:
-
 urlbar-go-button =
     .tooltiptext = Manzil panelidagi manzilga o‘tish
 urlbar-page-action-button =
@@ -369,12 +353,9 @@ urlbar-result-action-visit = Kirish
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> – hozir butun ekranda
 fullscreen-warning-no-domain = Bu hujjat hozir butun ekranda ko‘rinmoqda
-
-
 fullscreen-exit-button = "Butun ekranda" usulidan chiqish (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = "Butun ekranda" usulidan chiqish (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -420,7 +401,6 @@ bookmarks-tools =
     .label = Xatcho‘p vositalari
 bookmarks-bookmark-edit-panel =
     .label = Ushbu xatcho‘pni o‘zgartirish
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -457,10 +437,19 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Oflayn ishlash
     .accesskey = i
-
 toolbar-overflow-customize-button =
     .label = Asboblar panelini sozlash…
     .accesskey = C
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Sahifani saqlash
+    .tooltiptext = Sahifani saqlash ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Faylni ochish
+    .tooltiptext = Faylni ochish ({ $shortcut })
 
 ## EME notification panel
 
@@ -486,7 +475,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } uchun paydo bo‘luvchi oynalarga ruxsat berish
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } uchun paydo bo‘luvchi oynalarni bloklash
     .accesskey = p
@@ -496,7 +484,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Paydo bo‘luvchi oynalar bloklanganda ushbu xabar ko‘rsatilmasin
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = Rasm ichida rasm rejimini yashirish
     .accesskey = H
