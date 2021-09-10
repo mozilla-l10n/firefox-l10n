@@ -28,7 +28,7 @@
 <!ENTITY rights.intro-point2da "Manche Funktionen in &brandShortName; wie der Absturzmelder geben Ihnen die Möglichkeit, Rückmeldungen an &vendorShortName; zu geben. Wenn Sie das Senden von Rückmeldungen wählen, geben Sie &vendorShortName; die Berechtigung, die Rückmeldungen zur Verbesserung ihren Anwendungen zu verwenden, Rückmeldungen auf ihren Websites zu veröffentlichen und zu verteilen.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Datenschutzrichtlinien für &vendorShortName;s Produkte finden Sie ">
+<!ENTITY rights.intro-point3a "Datenschutzrichtlinien für &vendorShortName; Produkte finden Sie ">
 <!ENTITY rights.intro-point3b "hier">
 <!ENTITY rights.intro-point3c ".">
 
