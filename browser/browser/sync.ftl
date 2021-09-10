@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = A’ sioncronachadh nan uidheam...
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Cuir taba sa bhad gu uidheam sam bith sa bheil thu air do chlàradh a-steach.
 fxa-menu-sign-out =
     .label = Clàraich a-mach…
