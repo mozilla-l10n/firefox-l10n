@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Cydweddu Dyfeisiau…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Anfon tab ar unwaith i unrhyw ddyfais rydych wedi mewngofnodi arni.
 fxa-menu-sign-out =
     .label = Allgofnodi…

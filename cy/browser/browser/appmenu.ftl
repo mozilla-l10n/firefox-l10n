@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Gweld rhestr o dabiau o'ch dyfeisiau eraill.
 appmenu-remote-tabs-unverified = Mae angen i'ch cyfrif cael ei gwirio.
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
+appmenuitem-fxa-sign-in = Mewngofnodi i { -brand-product-name }
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
