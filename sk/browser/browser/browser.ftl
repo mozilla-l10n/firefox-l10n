@@ -679,6 +679,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Otvoriť súbor
     .tooltiptext = Otvorí súbor ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synchronizované karty
+    .tooltiptext = Zobraziť karty z iných zariadení
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nové súkromné okno
+    .tooltiptext = Otvorí nové súkromné okno ({ $shortcut })
 
 ## EME notification panel
 
