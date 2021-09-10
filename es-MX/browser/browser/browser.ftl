@@ -674,6 +674,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Pestañas sincronizadas
     .tooltiptext = Mostrar pestañas de otros dispositivos
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nueva ventana privada
+    .tooltiptext = Abrir una nueva ventana de navegación privada ({ $shortcut })
 
 ## EME notification panel
 
