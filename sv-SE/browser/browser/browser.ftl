@@ -659,6 +659,22 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Anpassa verktygsfält…
     .accesskey = n
+toolbar-button-email-link =
+    .label = E-posta länk
+    .tooltiptext = Maila en länk till denna sidan
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Spara sida
+    .tooltiptext = Spara den här sidan… ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Öppna fil
+    .tooltiptext = Öppna en fil… ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Synkade flikar
+    .tooltiptext = Visa flikar från andra enheter
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
