@@ -17,17 +17,15 @@ appmenuitem-update-banner3 =
     .label-update-manual = Nová aktualizace — stáhnout
     .label-update-unsupported = Nekompatibilní systém pro novou aktualizaci
     .label-update-restart = Nová aktualizace — restartovat
-
 appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Nový panel
 appmenuitem-new-window =
     .label = Nové okno
 appmenuitem-new-private-window =
     .label = Nové anonymní okno
+appmenuitem-history =
+    .label = Historie
 appmenuitem-passwords =
     .label = Přihlašovací údaje
 appmenuitem-addons-and-themes =
@@ -46,7 +44,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zavře nabídku aplikace
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -67,30 +64,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Přihlásit se k synchronizaci…
 appmenu-remote-tabs-turn-on-sync =
     .label = Zapnout synchronizaci…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Zobrazit další panely
     .tooltiptext = Zobrazí panely z tohoto zařízení
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Žádné otevřené panely
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.
-
 appmenu-remote-tabs-opensettings =
     .label = Nastavení
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Chcete zde vidět své panely z ostatních zařízení?
-
 appmenu-remote-tabs-connectdevice =
     .label = Připojit další zařízení
 appmenu-remote-tabs-welcome = Seznam panelů z ostatních zařízení
 appmenu-remote-tabs-unverified = Je potřeba ověřit váš účet.
-
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovat
 appmenuitem-fxa-manage-account = Správa účtu
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -104,14 +94,12 @@ appmenu-fxa-signed-in-label = Přihlásit se
 appmenu-fxa-setup-sync =
     .label = Zapnout synchronizaci…
 appmenu-fxa-show-more-tabs = Zobrazit další panely
-
 appmenuitem-save-page =
     .label = Uložit stránku jako…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Co je nového
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -124,47 +112,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Zobrazit podrobnosti
-
 profiler-popup-description-title =
     .value = Zaznamenejte, analyzujte, sdílejte
-
 profiler-popup-description = Spolupracujte na řešení výkonnostních problémů sdílením dat se svým týmem.
-
 profiler-popup-learn-more = Zjistit více
-
 profiler-popup-settings =
     .value = Nastavení
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Úprava nastavení
-
 profiler-popup-disabled = Profiler je v tuto chvíli vypnutý, pravděpodobně protože máte otevřené okno anonymního prohlížení.
-
 profiler-popup-recording-screen = Nahrávání…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Vlastní
-
 profiler-popup-start-recording-button =
     .label = Spustit nahrávání
-
 profiler-popup-discard-button =
     .label = Zahodit
-
 profiler-popup-capture-button =
     .label = Nahrávat
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -238,7 +212,6 @@ appmenu-customizetoolbar =
     .label = Nastavení tlačítek a lišt…
 appmenu-taskmanager =
     .label = Správce úloh
-
 appmenu-developer-tools-subheader = Nástroje prohlížeče
 appmenu-developer-tools-extensions =
     .label = Rozšíření pro vývojáře
