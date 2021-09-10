@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Luu ta tak güi Internet )
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Luu ta tak güi Internet )
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Luu ta tak güi Internet )
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Luu ta tak güi Internet )
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,7 +69,6 @@ urlbar-translate-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tùs kùe ndó~làz=ná ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -128,6 +125,7 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+
 ## WebRTC window or screen share tab switch warning
 
 
@@ -138,10 +136,8 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
-
 urlbar-switch-to-tab =
     .value = Xhe loo gibb:
-
 urlbar-go-button =
     .tooltiptext = Cuan taa diff loo
 
@@ -165,8 +161,6 @@ urlbar-result-action-search-w-engine = KwàɁn loo { $engine }
 ## Full Screen and Pointer Lock UI
 
 fullscreen-warning-no-domain = Yêtz ré de loo lo narú
-
-
 fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
@@ -188,7 +182,6 @@ bookmarks-search =
     .label = KwàɁn ndó~làz=ná
 bookmarks-bookmark-edit-panel =
     .label = Tùs kùe Ndó~làz=ná
-
 bookmarks-toolbar-menu =
     .label = Té tak güin ko ndó~làz=ná
 bookmarks-toolbar-placeholder =
@@ -213,6 +206,11 @@ bookmarks-toolbar-placeholder-button =
 more-menu-go-offline =
     .label = Kee xhin sin Internet
     .accesskey = x
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Xhal yets ndedizh
+    .tooltiptext = Mb-šàlɁ lá yêtz ({ $shortcut })
 
 ## EME notification panel
 
