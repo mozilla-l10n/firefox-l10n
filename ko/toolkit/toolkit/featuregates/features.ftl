@@ -9,6 +9,10 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = 실험적인 CSS Masonry 레이아웃 기능을 지원합니다. 기능에 대한 자세한 내용은 <a data-l10n-name="explainer">설명자</a>를 참조하세요. 사용자 의견을 제공하시려면, <a data-l10n-name="w3c-issue">이 GitHub 문제</a> 또는 <a data-l10n-name="bug">이 버그</a>에 의견을 보내주세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS: Cascade Layers
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = 이 새로운 API는 사용자의 장치 또는 컴퓨터의 <a data-l10n-name="wikipedia">GPU (그래픽 처리 장치)</a>를 사용하여 계산 및 그래픽 렌더링을 수행하기 위한 낮은 수준의 지원을 제공합니다. <a data-l10n-name="spec">사양</a>은 여전히 진행 중입니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1602129</a>를 참고하세요.
