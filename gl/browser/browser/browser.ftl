@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Xestiona o uso dos engadidos
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Xestiona o uso compartido da cámara e/ou do micrófono co sitio
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Xestionar o uso compartido doutros altofalantes co sitio
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Abre o panel de reprodución automática
 urlbar-persistent-storage-notification-anchor =
@@ -376,6 +380,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micrófono
+popup-select-speaker-icon =
+    .tooltiptext = Altofalantes
 popup-all-windows-shared = Compartiranse todas as xanelas visíbeis na súa pantalla.
 popup-screen-sharing-block =
     .label = Bloquear
@@ -510,6 +516,16 @@ urlbar-result-action-search-tabs = Buscar nas lapelas
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Sexestións de { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -530,6 +546,10 @@ pointerlock-warning-no-domain = Este documento ten o control do punteiro. Prema 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parte desta páxina petou.</strong> Para que { -brand-product-name } saiba desta incidencia se poida arranxar máis axiña, envíe un informe.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Parte desta páxina quebrou. Para que o { -brand-product-name } saiba desta incidencia e se poida amañar máis axiña, envíe un informe.
 crashed-subframe-learnmore-link =
     .value = Máis información
 crashed-subframe-submit =
@@ -613,6 +633,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Reparar codificación do texto
+    .tooltiptext = Adiviñar a codificación correcta do texto a partir do contido da páxina
 
 ## Customize Toolbar Buttons
 
@@ -689,6 +712,9 @@ remote-tabs-sync-now = Sincronizar agora
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Máis...
 ui-tour-info-panel-close =
     .tooltiptext = Pechar
 
@@ -707,6 +733,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Non amosar esta mensaxe se as xanelas emerxentes están bloqueadas
     .accesskey = D
+edit-popup-settings =
+    .label = Xestionar configuración de emerxentes...
+    .accesskey = X
 picture-in-picture-hide-toggle =
     .label = Agochar «Alternar imaxe en imaxe»
     .accesskey = H

@@ -38,20 +38,16 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Saír do { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Saír do { -brand-shorter-name }
-
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Enviar a ligazón por correo…
     .accesskey = E
+menu-file-share-url =
+    .label = Compartir
+    .accesskey = C
 menu-file-print-setup =
     .label = Configuración da páxina…
     .accesskey = o
@@ -168,6 +167,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estilo de páxina básico
     .accesskey = b
+menu-view-repair-text-encoding =
+    .label = Reparar codificación do texto
+    .accesskey = R
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -210,7 +212,6 @@ menu-history-undo-menu =
     .label = Lapelas pechadas recentemente
 menu-history-undo-window-menu =
     .label = Xanelas pechadas recentemente
-
 menu-history-reopen-all-tabs = Reabrir todas as lapelas
 menu-history-reopen-all-windows = Reabrir todas as xanelas
 
@@ -219,6 +220,8 @@ menu-history-reopen-all-windows = Reabrir todas as xanelas
 menu-bookmarks-menu =
     .label = Marcadores
     .accesskey = M
+menu-bookmarks-manage =
+    .label = Xestionar marcadores
 menu-bookmark-current-tab =
     .label = Marcar lapela actual
 menu-bookmark-edit =

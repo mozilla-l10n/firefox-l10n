@@ -11,11 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Engadir etiquetas
-
 pocket-panel-saved-error-generic = Produciuse un erro ao tentar gardar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = As etiquetas está limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Só se poden gardar ligazóns
 pocket-panel-saved-error-not-saved = Non se gardou a páxina
+pocket-panel-saved-error-no-internet = É necesario estar conectado á Internet para poder gardar en { -pocket-brand-name }. Conéctese á Internet e tente de novo.
 pocket-panel-saved-page-removed = Retirouse a páxina
 pocket-panel-saved-page-saved = Gardouse en { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Retirando páxina…
