@@ -669,6 +669,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Abrir arquivo
     .tooltiptext = Abrir um arquivo ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Abas sincronizadas
+    .tooltiptext = Mostrar abas de outros dispositivos
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nova janela privativa
+    .tooltiptext = Abrir uma nova janela de navegação privativa ({ $shortcut })
 
 ## EME notification panel
 
