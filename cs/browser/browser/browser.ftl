@@ -724,6 +724,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synchronizované panely
     .tooltiptext = Zobrazí panely z jiných zařízení
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Nové anonymní okno
+    .tooltiptext = Otevře nové anonymní okno ({ $shortcut })
 
 ## EME notification panel
 
