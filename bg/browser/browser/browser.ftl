@@ -646,6 +646,9 @@ toolbar-overflow-customize-button =
 toolbar-button-open-file =
     .label = Отваряне на файл
     .tooltiptext = Отваряне на файл ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Синхронизирани раздели
+    .tooltiptext = Показване на раздели от други устройства
 
 ## EME notification panel
 
