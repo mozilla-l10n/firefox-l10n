@@ -657,6 +657,19 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = התאמה אישית של סרגל הכלים…
     .accesskey = ס
+toolbar-button-email-link =
+    .label = שליחת קישור בדוא״ל
+    .tooltiptext = שליחת קישור לדף זה בדוא״ל
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = שמירת דף
+    .tooltiptext = שמירת דף זה ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = פתיחת קובץ
+    .tooltiptext = פתיחת קובץ ({ $shortcut })
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
