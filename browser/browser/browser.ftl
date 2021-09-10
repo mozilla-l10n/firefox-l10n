@@ -373,11 +373,27 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Penyesuaian Bar Alatan…
     .accesskey = P
+toolbar-button-email-link =
+    .label = E-mel Pautan
+    .tooltiptext = E-mel pautan ke halaman ini
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Simpan Halaman
+    .tooltiptext = Simpan halaman ini ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Buka Fail
     .tooltiptext = Buka fail ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Tab Sync
+    .tooltiptext = Papar tab dari peranti lain
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Tetingkap Peribadi Baru
+    .tooltiptext = Buka tetingkap Pelayaran Peribadi baharu ({ $shortcut })
 
 ## EME notification panel
 
