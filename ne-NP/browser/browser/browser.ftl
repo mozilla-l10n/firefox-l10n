@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउजिङ्ग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउजिङ्ग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउजिङ्ग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउजिङ्ग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -117,12 +115,10 @@ urlbar-canvas-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ।
 urlbar-midi-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यस ({ $shortcut }) पुस्तकचिनोलाई सम्पादन गर्नुहोस्
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -146,14 +142,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिङ परिवर्तन गर्नुहोस्
-
 search-one-offs-context-open-new-tab =
     .label = नयाँ ट्याबमा खोज्नुहोस्
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -169,6 +163,7 @@ search-one-offs-add-engine-menu =
 
 ## Bookmark Panel
 
+
 ## Identity Panel
 
 identity-connection-internal = यो सुरक्षित { -brand-short-name } पृष्ठ हो।
@@ -179,7 +174,6 @@ identity-passive-loaded = यो पृष्ठको भागहरू सु
 identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
 identity-weak-encryption = यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।
 identity-insecure-login-forms = यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
-
 identity-permissions-reload-hint = परिवर्तनहरू लागू हुन पेज पुनः लोड गर्नुहोस्
 identity-remove-cert-exception =
     .label = एक्सेप्सन हटाउनुहोस्
@@ -237,19 +231,15 @@ popup-all-windows-shared = तपाईँको स्क्रिन मा �
 
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } सँग खोज्नुहोस् वा ठेगाना राखनुहोस्।
-
 urlbar-switch-to-tab =
     .value = यस ट्याबमा स्विच गर्नुहोस्:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = एक्सटेन्सन:
-
 urlbar-go-button =
     .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
 urlbar-page-action-button =
@@ -281,12 +271,9 @@ urlbar-result-action-visit = भ्रमण गर्नुहोस्
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> पुरा स्क्रिन अहिले भयो
 fullscreen-warning-no-domain = तपाईँको खाता पुरा पर्दाको भएको छ
-
-
 fullscreen-exit-button = पुरा पर्दाबाट निस्कनुहोस् (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पुरा स्क्रिनबाट निस्कनुहोस (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -332,7 +319,6 @@ bookmarks-tools =
     .label = पुस्तकचिनो लगाउने उपकरणहरू
 bookmarks-bookmark-edit-panel =
     .label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
-
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
@@ -359,10 +345,30 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = अफलाइन कार्य गर्नुहोस्
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = उपकरणपट्टि अनुकुलन गर्नुहोस्…
     .accesskey = C
+toolbar-button-email-link =
+    .label = लिङ्कलाई इमेल गर्नुहोस्
+    .tooltiptext = यस पृष्ठ को लिङ्क इमेल गर्नुहोस्
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = पृष्ठ सङ्ग्रह गर्नुहोस्
+    .tooltiptext = यस पृष्ठ ({ $shortcut })लाई सङ्ग्रह गर्नुहोस्
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = फाइल खोल्नुहोस्
+    .tooltiptext = ({ $shortcut }) फाइल खोल्नुहोस्
+toolbar-button-synced-tabs =
+    .label = Sync गरिएको ट्याबहरू
+    .tooltiptext = अन्य यन्त्रमा भएका टयाबहरू देखाउनुहोस्
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = नयाँ निजी सञ्झ्याल
+    .tooltiptext = एउटा नयाँ निजी ब्राउजिङ्ग सञ्झ्याल खोल्नुहोस् ({ $shortcut })
 
 ## EME notification panel
 
@@ -388,7 +394,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } लाई पप-अपको स्विकृति दिनुहोस्।
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } को लागि पप-अपहरू रोक्नुहोस्
     .accesskey = p
@@ -398,4 +403,3 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पप-अपहरू रोकिएका बेलामा यो सन्देश नदेखाउनुहोस्
     .accesskey = D
-
