@@ -294,6 +294,11 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ଫାଇଲ ଖୋଲନ୍ତୁ
     .tooltiptext = ଫାଇଲ ଖୋଲନ୍ତୁ  ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
+    .tooltiptext = ନୂତନ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ୱିଣ୍ଡୋ ଖୋଲନ୍ତୁ ({ $shortcut })
 
 ## EME notification panel
 
