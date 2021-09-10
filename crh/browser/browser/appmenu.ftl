@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Yañı İlmek
 appmenuitem-new-window =
     .label = Yañı Pencere
 appmenuitem-new-private-window =
     .label = Yañı Hususiy Pencere
+appmenuitem-history =
+    .label = Keçmiş
+appmenuitem-print =
+    .label = Bastır…
 appmenuitem-help =
     .label = Yardım
 
@@ -25,18 +27,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Açıq ilmekler yoq
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Diger cihazlardaki ilmeklerni körmek içün ilmek aynılaştırmasını açıq yapıñız.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Diger cihazlardan ilmekleriñizni mında köresiñiz kile?
-
 appmenu-remote-tabs-connectdevice =
     .label = Başqa bir Cihaznı Bağla
 appmenu-remote-tabs-unverified = Esabıñız doğrulanmağa muhtac.
-
 appmenuitem-save-page =
     .label = Saifeni Şöyle Saqla…
 
@@ -89,4 +87,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Uhde İdareçisi
-
