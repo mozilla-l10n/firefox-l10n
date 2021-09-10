@@ -12,8 +12,14 @@ appmenuitem-new-window =
     .label = Uus aken
 appmenuitem-new-private-window =
     .label = Uus privaatne aken
+appmenuitem-history =
+    .label = Ajalugu
 appmenuitem-downloads =
     .label = Allalaadimised
+appmenuitem-print =
+    .label = Prindi…
+appmenuitem-zoom =
+    .value = Suurendamine
 appmenuitem-help =
     .label = Abi
 
