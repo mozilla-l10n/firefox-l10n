@@ -453,6 +453,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Faylni ochish
     .tooltiptext = Faylni ochish ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Sinxronlangan varaqlar
+    .tooltiptext = Boshqa qurilmalardagi varaqlarni koʻrsatish
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
