@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = M
     .buttonlabelextra2 = 不相符
     .buttonaccesskeyextra2 = D
+challenge-label = 請確認顯示的字串，與對方畫面上顯示的相同。
