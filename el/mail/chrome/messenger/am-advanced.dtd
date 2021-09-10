@@ -25,4 +25,4 @@
 <!ENTITY serverPort.label "Θύρα: ">
 <!ENTITY userName.label   "Όνομα χρήστη: ">
 <!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης: ">
-<!ENTITY authMethod.label   "Μέθοδος πιστοποίησης: ">
+<!ENTITY authMethod.label   "Μέθοδος ταυτοποίησης: ">
