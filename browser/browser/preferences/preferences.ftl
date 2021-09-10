@@ -136,6 +136,14 @@ warn-on-close-multiple-tabs =
 confirm-on-close-multiple-tabs =
     .label = Перапытваць пры закрыцці некалькіх картак
     .accesskey = ь
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Перапытваць пры выхадзе з дапамогай { $quitKey }
+    .accesskey = т
 warn-on-open-many-tabs =
     .label = Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць { -brand-short-name }
     .accesskey = в
