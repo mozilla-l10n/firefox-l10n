@@ -15,6 +15,8 @@ appmenuitem-history =
     .label = Riwayat
 appmenuitem-downloads =
     .label = Beureukaih teukeubah
+appmenuitem-print =
+    .label = Rakam...
 appmenuitem-help =
     .label = Beunatu
 
