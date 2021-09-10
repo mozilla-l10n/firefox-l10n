@@ -641,6 +641,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Digeriñ ur restr
     .tooltiptext = Digeriñ ur restr ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Ivinelloù goubredet
+    .tooltiptext = Diskouez ivinelloù an trevnadoù all
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
