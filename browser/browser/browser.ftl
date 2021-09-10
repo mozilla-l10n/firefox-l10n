@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name }（隱私瀏覽模式）
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name }（隱私瀏覽模式）
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } —（隱私瀏覽模式）
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } —（隱私瀏覽模式）
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = 打得更少，找到更多: 直接從網址列進行 { $engineName } 搜尋。
 urlbar-search-tips-redirect-2 = 在網址列進行搜尋，就可看見由 { $engineName } 及瀏覽紀錄提供的搜尋建議。
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = 使用此捷徑，讓您更快找到想要的東西。
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = 您已封鎖此網站的 MIDI 存取權限。
 urlbar-install-blocked =
     .tooltiptext = 您已封鎖此網站安裝附加元件。
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = 編輯此書籤 ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 這次使用下列搜尋引擎搜尋:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = 修改搜尋設定
-
 search-one-offs-context-open-new-tab =
     .label = 在新分頁中搜尋
     .accesskey = T
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 設為隱私瀏覽模式中的預設搜尋引擎
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName }（{ $alias }）
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -253,7 +244,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = 儲存
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,7 +271,6 @@ identity-passive-loaded = 本頁面中的部分內容（例如圖片）並不安
 identity-active-loaded = 您已停用此頁面中的保護。
 identity-weak-encryption = 此頁面使用了弱強度的加密。
 identity-insecure-login-forms = 在此頁面輸入的登入資訊可能會被洩漏。
-
 identity-https-only-connection-upgraded = （升級 HTTPS）
 identity-https-only-label = 純 HTTPS 模式
 identity-https-only-dropdown-on =
@@ -293,11 +282,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = 若您想要 { -brand-short-name } 盡可能升級使用安全連線，請對此網站開啟純 HTTPS 模式。
 identity-https-only-info-turn-off2 = 若網頁外觀看起來不正常，您可能會想要針對此網站關閉純 HTTPS 模式，使用不安全的 HTTP 重新載入。
 identity-https-only-info-no-upgrade = 無法將網站連線從 HTTP 升級。
-
 identity-permissions-storage-access-header = 跨網站 Cookie
 identity-permissions-storage-access-hint = 當您開啟此網站時，這些網站可以使用跨網站 Cookie，並且取得您在此網站的資料。
 identity-permissions-storage-access-learn-more = 了解更多
-
 identity-permissions-reload-hint = 您可能需要重新載入頁面才能讓變更生效。
 identity-clear-site-data =
     .label = 清除 Cookie 與網站資料…
@@ -360,13 +347,11 @@ browser-tab-mute =
         [1] 將分頁靜音
        *[other] 將 { $count } 個分頁靜音
     }
-
 browser-tab-unmute =
     { $count ->
         [1] 將分頁取消靜音
        *[other] 將 { $count } 個分頁取消靜音
     }
-
 browser-tab-unblock =
     { $count ->
         [1] 播放分頁聲音
@@ -378,7 +363,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = 匯入書籤…
     .tooltiptext = 將其他瀏覽器的書籤匯入到 { -brand-short-name }。
-
 bookmarks-toolbar-empty-message = 可將書籤放到這個書籤工具列上，方便快速開啟。<a data-l10n-name="manage-bookmarks">管理書籤…</a>
 
 ## WebRTC Pop-up notifications
@@ -396,15 +380,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = 音效輸出裝置
 popup-all-windows-shared = 將分享您畫面上所有可見的視窗。
-
 popup-screen-sharing-block =
     .label = 封鎖
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = 總是封鎖
     .accesskey = w
-
 popup-mute-notifications-checkbox = 分享視窗或畫面時，隱藏網站通知
 
 ## WebRTC window or screen share tab switch warning
@@ -426,7 +407,6 @@ enable-devtools-popup-description = 請透過「網頁開發者」選單開啟�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = 搜尋或輸入網址
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -435,7 +415,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = 搜尋 Web
     .aria-label = 使用 { $name } 搜尋
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -444,27 +423,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = 輸入搜尋詞彙
     .aria-label = 搜尋 { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = 輸入搜尋詞彙
     .aria-label = 搜尋書籤
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = 輸入搜尋詞彙
     .aria-label = 搜尋瀏覽紀錄
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = 輸入搜尋詞彙
     .aria-label = 搜尋分頁
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = 使用 { $name } 搜尋或輸入網址
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -474,11 +448,9 @@ urlbar-permissions-granted =
     .tooltiptext = 您已授予此網站更多權限。
 urlbar-switch-to-tab =
     .value = 切換到分頁:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 擴充套件:
-
 urlbar-go-button =
     .tooltiptext = 按此前往網址列中的網址
 urlbar-page-action-button =
@@ -545,7 +517,6 @@ urlbar-result-action-search-tabs = 搜尋分頁
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -560,12 +531,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 已進入全螢幕模式
 fullscreen-warning-no-domain = 此文件已進入全螢幕模式
-
-
 fullscreen-exit-button = 離開全螢幕模式（Esc）
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = 離開全螢幕模式（Esc）
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -575,7 +543,6 @@ pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc �
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>此頁面中的部分內容發生錯誤。</strong>您同意的話，可將此問題回報給 { -brand-product-name }，讓我們更快修正。
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -631,7 +598,6 @@ bookmarks-tools =
     .label = 書籤工具
 bookmarks-bookmark-edit-panel =
     .label = 編輯此書籤
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -645,7 +611,6 @@ bookmarks-toolbar-placeholder =
     .title = 書籤工具列項目
 bookmarks-toolbar-placeholder-button =
     .label = 書籤工具列項目
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = 將目前分頁加入書籤
@@ -676,7 +641,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = 附加元件與佈景主題
     .tooltiptext = 管理您的附加元件與佈景主題（{ $shortcut }）
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -692,10 +656,22 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = 離線模式
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = 自訂工具列…
     .accesskey = C
+toolbar-button-email-link =
+    .label = 寄送鏈結
+    .tooltiptext = 寄出本頁面的鏈結
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = 儲存本頁
+    .tooltiptext = 儲存此頁面 ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = 開啟檔案
+    .tooltiptext = 開啟檔案（{ $shortcut }）
 
 ## EME notification panel
 
@@ -737,7 +713,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = 允許 { $uriHost } 的彈出型視窗
     .accesskey = p
-
 popups-infobar-block =
     .label = 封鎖 { $uriHost } 的彈出型視窗
     .accesskey = p
@@ -747,11 +722,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = 擋下彈出型視窗時不顯示此訊息
     .accesskey = D
-
 edit-popup-settings =
     .label = 管理彈出視窗設定…
     .accesskey = M
-
 picture-in-picture-hide-toggle =
     .label = 隱藏子母畫面切換按鈕
     .accesskey = H
