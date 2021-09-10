@@ -5,14 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Yangi varaq
 appmenuitem-new-window =
     .label = Yangi oyna
 appmenuitem-new-private-window =
     .label = Yangi maxfiy oyna
+appmenuitem-history =
+    .label = Tarix
+appmenuitem-print =
+    .label = Chop qilish…
 appmenuitem-help =
     .label = Yordam
 
@@ -29,19 +31,15 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ochiq varaqlar yoʻq
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Varaqlar roʻyxatini boshqa qurilmada koʻrish uchun sinxronizatsiyani yoqing.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Bu yerdagi varaqlarni boshqa qurilmalarda koʻrishni xohlaysizmi?
-
 appmenu-remote-tabs-connectdevice =
     .label = Boshqa qurilmaga ulanish
 appmenu-remote-tabs-welcome = Boshqa qurilmalaridagi varaqlar roʻyxatini koʻring.
 appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
-
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 
@@ -95,4 +93,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Vazifa menejeri
-
