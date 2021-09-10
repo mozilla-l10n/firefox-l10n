@@ -13,8 +13,12 @@ appmenuitem-new-private-window =
     .label = Нов приватен прозорец
 appmenuitem-history =
     .label = Историја
+appmenuitem-downloads =
+    .label = Преземања
 appmenuitem-print =
     .label = Печати…
+appmenuitem-zoom =
+    .value = Приказ
 appmenuitem-help =
     .label = Помош
 
