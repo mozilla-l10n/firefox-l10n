@@ -11,17 +11,15 @@ appmenuitem-update-banner3 =
     .label-update-manual = განახლება ხელმისაწვდომია — ჩამოტვირთვა ახლავე
     .label-update-unsupported = ვერ განახლდება — შეუთავსებელია
     .label-update-restart = განახლება ხელმისაწვდომია — გადატვირთვა ახლავე
-
 appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = ახალი ჩანართი
 appmenuitem-new-window =
     .label = ახალი ფანჯარა
 appmenuitem-new-private-window =
     .label = ახალი პირადი ფანჯარა
+appmenuitem-history =
+    .label = ისტორია
 appmenuitem-passwords =
     .label = პაროლები
 appmenuitem-addons-and-themes =
@@ -44,7 +42,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = პროგრამის მენიუს დახურვა
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,30 +62,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = სინქრონიზაციაში შესვლა…
 appmenu-remote-tabs-turn-on-sync =
     .label = დასინქრონების ჩართვა…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = მეტი ჩანართის ჩვენება
     .tooltiptext = სხვა ჩანართების ჩვენებაც, ამ მოწყობილობიდან
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = გახსნილი ჩანართები არაა
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.
-
 appmenu-remote-tabs-opensettings =
     .label = პარამეტრები
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?
-
 appmenu-remote-tabs-connectdevice =
     .label = სხვა მოწყობილობის დაკავშირება
 appmenu-remote-tabs-welcome = იხილეთ ჩანართების სია თქვენი სხვა მოწყობილობებიდან.
 appmenu-remote-tabs-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
-
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -102,14 +92,12 @@ appmenu-fxa-signed-in-label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
 appmenu-fxa-show-more-tabs = მეტი ჩანართის ჩვენება
-
 appmenuitem-save-page =
     .label = გვერდის შენახვა როგორც…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = რა სიახლეებია
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,49 +110,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = მეტი ინფორმაციის გამოვლენა
-
 profiler-popup-description-title =
     .value = ჩაწერა, გამოკვლევა, გაზიარება
-
 profiler-popup-description = იმუშავეთ წარმადობის საკითხებზე მახასიათებლების გამოქვეყნებით, გუნდისთვის გასაზიარებლად.
-
 profiler-popup-learn-more = ვრცლად
-
 profiler-popup-settings =
     .value = პარამეტრები
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = პარამეტრების ჩასწორება…
-
 profiler-popup-disabled =
     მახასიათებლების აღრიცხვა ამჟამად გამორთულია, უმეტესად პირადი ფანჯრის
     გახსნის გამო.
-
 profiler-popup-recording-screen = იწერება…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = მორგებული
-
 profiler-popup-start-recording-button =
     .label = ჩაწერის დაწყება
-
 profiler-popup-discard-button =
     .label = გაუქმება
-
 profiler-popup-capture-button =
     .label = აღება
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -232,7 +206,6 @@ appmenu-customizetoolbar =
     .label = ხელსაწყოთა ზოლის მორგება...
 appmenu-taskmanager =
     .label = ამოცანათა მმართველი
-
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
