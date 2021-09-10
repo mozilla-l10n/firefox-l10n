@@ -5,9 +5,8 @@
 
 ## App Menu
 
-
-## Zoom Controls
-
+appmenuitem-print =
+    .label = Emprimar…
 
 ## Zoom and Fullscreen Controls
 
@@ -34,9 +33,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = Balyér vo‛tr’opinion…
     .accesskey = B
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
