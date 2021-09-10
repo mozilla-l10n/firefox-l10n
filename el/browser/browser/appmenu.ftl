@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Δείτε μια λίστα με καρτέλες από τις άλλες σας συσκευές.
 appmenu-remote-tabs-unverified = Ο λογαριασμός σας πρέπει να επαληθευτεί.
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
+appmenuitem-fxa-sign-in = Σύνδεση στο { -brand-product-name }
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
