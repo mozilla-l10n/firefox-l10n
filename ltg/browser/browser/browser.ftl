@@ -386,6 +386,11 @@ toolbar-button-email-link =
     .label = Nūsyuteit saiti
     .tooltiptext = Nūsyuteit saiti epostā
 # Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Saglobōt lopu
+    .tooltiptext = Sagloboj itū lopu ({ $shortcut })
+# Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Attaiseit failu
