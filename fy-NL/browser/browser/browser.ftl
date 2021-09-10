@@ -675,6 +675,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ­Bestân iepenje
     .tooltiptext = Bestân iepenje ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Syngroane ljepblêden
+    .tooltiptext = Ljepblêden fan oare apparaten toane
 
 ## EME notification panel
 
