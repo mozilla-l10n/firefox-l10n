@@ -672,6 +672,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Dobrir lo fichièr
     .tooltiptext = Dobrir un fichièr ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Onglets sincronizats
+    .tooltiptext = Mostrar los onglets dels autres periferics
 
 ## EME notification panel
 
