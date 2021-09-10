@@ -672,6 +672,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Tabaichean sioncronaichte
     .tooltiptext = Seall tabaichean o uidheaman eile
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Uinneag phrìobhaideach ùr
+    .tooltiptext = Fosgail uinneag brabhsaidh phrìobhaideach ùr ({ $shortcut })
 
 ## EME notification panel
 
