@@ -688,6 +688,14 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Отвори датотеку
     .tooltiptext = Отвори датотеку ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Синхронизоване картице
+    .tooltiptext = Прикажи картице са других уређаја
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Нови приватни прозор
+    .tooltiptext = Отвори нови приватни прозор ({ $shortcut })
 
 ## EME notification panel
 
