@@ -5,14 +5,18 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = പുതിയ റ്റാബ്‌
 appmenuitem-new-window =
     .label = പുതിയ ജാലകം
 appmenuitem-new-private-window =
     .label = പുതിയ സ്വകാര്യ ജാലകം
+appmenuitem-history =
+    .label = നാള്‍വഴി
+appmenuitem-print =
+    .label = പ്രിന്റ് ചെയ്യുക...
+appmenuitem-zoom =
+    .value = വലിപ്പം മാറ്റുക
 appmenuitem-help =
     .label = സഹായം
 
@@ -29,18 +33,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?
-
 appmenu-remote-tabs-connectdevice =
     .label = മറ്റൊരു ഉപകരണം കണക്റ്റുചെയ്യുക
 appmenu-remote-tabs-unverified = നിങ്ങളുടെ അക്കൌണ്ട് സ്ഥിരീകരിക്കേണ്ടതുണ്ട്.
-
 appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 
