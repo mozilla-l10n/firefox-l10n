@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.
 appmenu-remote-tabs-unverified = حساب‌کاربری شما باید تایید شود.
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
+appmenuitem-fxa-sign-in = ورود به { -brand-product-name }
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
