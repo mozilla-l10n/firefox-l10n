@@ -13,6 +13,10 @@ appmenuitem-new-private-window =
     .label = नयाँ निजी सञ्झ्याल
 appmenuitem-history =
     .label = इतिहास
+appmenuitem-print =
+    .label = प्रिन्ट...
+appmenuitem-zoom =
+    .value = जुम गर्नुहोस्
 appmenuitem-help =
     .label = मद्दत
 
