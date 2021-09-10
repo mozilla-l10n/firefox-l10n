@@ -21,13 +21,15 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Навігація">
-
 <!ENTITY fullScreenCmd.label "На весь екран">
 
 <!ENTITY pictureInPictureHideToggle.label "Приховати перемикач Зображення в зображенні">
 <!ENTITY pictureInPictureHideToggle.accesskey "х">
 
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Увійти в &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -138,14 +140,13 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 
-
 <!ENTITY uiTour.infoPanel.close "Закрити">
 
 <!ENTITY panicButton.thankyou.msg1                "Вашу недавню історію видалено.">
 <!ENTITY panicButton.thankyou.msg2                "Безпечний перегляд!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Дякую!">
 
-<!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
+<!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристроїв…">
 
 <!ENTITY libraryButton.tooltip "Перегляд історії, збережених закладок та інших даних">
 
