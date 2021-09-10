@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Duyệt web riêng tư)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Duyệt web riêng tư)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Duyệt web riêng tư)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Duyệt web riêng tư)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Nhập ít hơn, tìm thêm: Tìm kiếm { $engineName } ngay từ thanh địa chỉ của bạn.
 urlbar-search-tips-redirect-2 = Bắt đầu tìm kiếm của bạn trong thanh địa chỉ để xem các đề xuất từ { $engineName } và lịch sử duyệt web của bạn.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Chọn phím tắt này để tìm những gì bạn cần nhanh hơn.
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Bạn đã chặn quyền truy cập MIDI của trang web này.
 urlbar-install-blocked =
     .tooltiptext = Bạn đã chặn cài đặt tiện ích cho trang web này.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Chỉnh sửa dấu trang này ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Lần này, tìm kiếm với:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Thay đổi cài đặt tìm kiếm
-
 search-one-offs-context-open-new-tab =
     .label = Tìm trong thẻ mới
     .accesskey = T
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Đặt làm công cụ tìm kiếm mặc định cho cửa sổ riêng tư
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -249,7 +240,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Lưu
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -277,7 +267,6 @@ identity-passive-loaded = Có nhiều thành phân của trang không an toàn (
 identity-active-loaded = Bạn đã tắt tính năng bảo vệ trên trang này.
 identity-weak-encryption = Trang này sử dụng mã hóa yếu.
 identity-insecure-login-forms = Đăng nhập vào trang này bạn có thể bị xâm nhập.
-
 identity-https-only-connection-upgraded = (đã nâng cấp lên HTTPS)
 identity-https-only-label = Chế độ chỉ HTTPS
 identity-https-only-dropdown-on =
@@ -289,11 +278,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Bật Chế độ chỉ HTTPS cho trang web này nếu bạn muốn { -brand-short-name } nâng cấp kết nối khi có thể.
 identity-https-only-info-turn-off2 = Nếu trang có vẻ bị hỏng, bạn có thể tắt Chế độ chỉ HTTPS để trang web này tải lại sử dụng HTTP không an toàn.
 identity-https-only-info-no-upgrade = Không thể nâng cấp kết nối từ HTTP.
-
 identity-permissions-storage-access-header = Cookie trên nhiều trang web
 identity-permissions-storage-access-hint = Khi bạn mở trang web này, các trang web này có thể sử dụng cookie trên nhiều trang web và lấy thông tin của bạn trên trang web này.
 identity-permissions-storage-access-learn-more = Tìm hiểu thêm
-
 identity-permissions-reload-hint = Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.
 identity-clear-site-data =
     .label = Xóa cookie và dữ liệu trang web…
@@ -356,13 +343,11 @@ browser-tab-mute =
         [1] TẮT TIẾNG THẺ
        *[other] TẮT TIẾNG { $count } THẺ
     }
-
 browser-tab-unmute =
     { $count ->
         [1] BỎ TẮT TIẾNG THẺ
        *[other] BỎ TẮT TIẾNG { $count } THẺ
     }
-
 browser-tab-unblock =
     { $count ->
         [1] PHÁT THẺ
@@ -374,7 +359,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Nhập dấu trang…
     .tooltiptext = Nhập dấu trang từ trình duyệt khác sang { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Để truy cập nhanh, hãy đặt dấu trang của bạn tại đây trên thanh công cụ dấu trang. <a data-l10n-name="manage-bookmarks">Quản lý dấu trang…</a>
 
 ## WebRTC Pop-up notifications
@@ -392,15 +376,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Loa
 popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.
-
 popup-screen-sharing-block =
     .label = Chặn
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Luôn chặn
     .accesskey = w
-
 popup-mute-notifications-checkbox = Ẩn thông báo trang web khi chia sẻ
 
 ## WebRTC window or screen share tab switch warning
@@ -422,7 +403,6 @@ enable-devtools-popup-description = Để sử dụng phím tắt F12, trước 
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -431,7 +411,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Tìm kiếm trên mạng
     .aria-label = Tìm kiếm với { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -440,27 +419,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Nhập từ tìm kiếm
     .aria-label = Tìm kiếm { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Nhập từ tìm kiếm
     .aria-label = Tìm kiếm dấu trang
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Nhập từ tìm kiếm
     .aria-label = Tìm kiếm lịch sử
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Nhập từ tìm kiếm
     .aria-label = Tìm kiếm thẻ
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Tìm kiếm với { $name } hoặc nhập địa chỉ
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -470,11 +444,9 @@ urlbar-permissions-granted =
     .tooltiptext = Bạn đã cấp cho trang web này các quyền bổ sung.
 urlbar-switch-to-tab =
     .value = Chuyển qua thẻ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tiện ích mở rộng:
-
 urlbar-go-button =
     .tooltiptext = Mở trang trong thanh địa chỉ
 urlbar-page-action-button =
@@ -541,7 +513,6 @@ urlbar-result-action-search-tabs = Tìm kiếm thẻ
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -556,12 +527,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> giờ đã hiển thị toàn màn hình
 fullscreen-warning-no-domain = Trang này giờ đã hiển thị toàn màn hình
-
-
 fullscreen-exit-button = Thoát toàn màn hình (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Thoát toàn màn hình (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -571,7 +539,6 @@ pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Một phần của trang này đã bị vớ.</strong> Để { -brand-product-name } biết về lỗi này và sửa nó nhanh hơn, vui lòng báo cáo nó.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -627,7 +594,6 @@ bookmarks-tools =
     .label = Công cụ đánh dấu trang
 bookmarks-bookmark-edit-panel =
     .label = Chỉnh sửa dấu trang này
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -641,7 +607,6 @@ bookmarks-toolbar-placeholder =
     .title = Các mục của thanh dấu trang
 bookmarks-toolbar-placeholder-button =
     .label = Các mục của thanh dấu trang
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Đánh dấu thẻ hiện tại
@@ -672,7 +637,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Tiện ích mở rộng và chủ đề
     .tooltiptext = Quản lý các tiện ích mở rộng và chủ đề của bạn ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -688,10 +652,27 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Làm việc ngoại tuyến
     .accesskey = k
-
 toolbar-overflow-customize-button =
     .label = Tùy biến thanh công cụ…
     .accesskey = C
+toolbar-button-email-link =
+    .label = Gửi liên kết này qua email
+    .tooltiptext = Gửi một thư điện tử chứa liên kết tới trang này
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Lưu trang
+    .tooltiptext = Lưu trang này ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Mở tập tin
+    .tooltiptext = Mở một tập tin ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Cửa sổ riêng tư mới
+    .tooltiptext = Mở một cửa sổ duyệt web riêng tư mới ({ $shortcut })
 
 ## EME notification panel
 
@@ -733,7 +714,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Cho phép { $uriHost } mở cửa sổ bật lên
     .accesskey = p
-
 popups-infobar-block =
     .label = Chặn cửa sổ bật lên từ { $uriHost }
     .accesskey = p
@@ -743,11 +723,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Không hiện thông báo này khi có cửa sổ bật lên bị chặn
     .accesskey = D
-
 edit-popup-settings =
     .label = Quản lý cài đặt cửa sổ bật lên…
     .accesskey = M
-
 picture-in-picture-hide-toggle =
     .label = Ẩn nút hình trong hình
     .accesskey = H
