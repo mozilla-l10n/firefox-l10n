@@ -86,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Ikusi zure beste gailuetako fitxen zerrenda.
 appmenu-remote-tabs-unverified = Zure kontua egiaztatu egin behar da.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
+appmenuitem-fxa-sign-in = Hasi saioa { -brand-product-name }(e)n
 appmenuitem-fxa-manage-account = Kudeatu kontua
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
