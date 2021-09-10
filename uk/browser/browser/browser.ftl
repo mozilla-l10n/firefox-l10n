@@ -664,13 +664,13 @@ toolbar-overflow-customize-button =
     .label = Налаштувати панель інструментів…
     .accesskey = Н
 toolbar-button-email-link =
-    .label = Надіслати посилання е-поштою
+    .label = Надіслати посилання
     .tooltiptext = Надіслати посилання на цю сторінку е-поштою
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Зберегти сторінку
-    .tooltiptext = Зберегти сторінку ({ $shortcut })
+    .tooltiptext = Зберегти цю сторінку ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -678,12 +678,12 @@ toolbar-button-open-file =
     .tooltiptext = Відкрити файл ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Синхронізовані вкладки
-    .tooltiptext = Показувати вкладки з інших пристроїв
+    .tooltiptext = Показати вкладки з інших пристроїв
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Нове приватне вікно
-    .tooltiptext = Відкрийте нове вікно приватного перегляду ({ $shortcut })
+    .label = Приватне вікно
+    .tooltiptext = Відкрити нове вікно приватного перегляду ({ $shortcut })
 
 ## EME notification panel
 
