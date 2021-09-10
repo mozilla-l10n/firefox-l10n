@@ -555,6 +555,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = مسل کھولیں
     .tooltiptext = مسل کھولیں ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = سینک ہو چکے ٹیبز
+    .tooltiptext = دیگر آلات سے ٹیبز دکھائیں
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
