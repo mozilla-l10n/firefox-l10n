@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazziuni privata)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigazziuni privata)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigazziuni privata)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigazziuni privata)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -128,12 +126,10 @@ urlbar-midi-blocked =
     .tooltiptext = Bluccasti l'accessu MIDI pi stu situ.
 urlbar-install-blocked =
     .tooltiptext = Bluccasti u nzitamentu d'agghiuncitini pi stu situ.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cancia stu nzingalibbru ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,10 +154,8 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vota, cerca cu:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cancia i mpustazziuna di ricerca
-
 search-one-offs-context-open-new-tab =
     .label = Cerca nta na scheda nova
     .accesskey = n
@@ -188,7 +182,6 @@ bookmark-panel-cancel =
 bookmark-panel-show-editor-checkbox =
     .label = Mustra l'edituri quannu sarbi
     .accesskey = s
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -202,7 +195,6 @@ identity-connection-file = Sta pàggina è sarbata nnô to computer.
 identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
 identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
-
 identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.
 identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazziuna chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-description-insecure-login-forms = I nfurmazziuna d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
@@ -251,21 +243,17 @@ popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni
 
 urlbar-placeholder =
     .placeholder = Cerca o metti nu nnirizzu
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cerca cu { $name } o metti nu nnirizzu
-
 urlbar-permissions-granted =
     .tooltiptext = Ci dasti pirmisi addizziunali a stu situ.
 urlbar-switch-to-tab =
     .value = Passa â scheda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Stinziuni:
-
 urlbar-go-button =
     .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =
@@ -291,12 +279,9 @@ urlbar-result-action-visit = Vìsita
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> è a tuttu schirmu ora
 fullscreen-warning-no-domain = Sta pàggina ora è a tuttu schirmu
-
-
 fullscreen-exit-button = Nesci di tuttu schirmu (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Nesci di tuttu schirmu (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -342,7 +327,6 @@ bookmarks-tools =
     .label = Strumenti pî nzingalibbri
 bookmarks-bookmark-edit-panel =
     .label = Cancia stu nzingalibbru
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -379,10 +363,17 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Travagghia sculligatu
     .accesskey = s
-
 toolbar-overflow-customize-button =
     .label = Pirsunalizza a sbarra dî strumenti…
     .accesskey = P
+toolbar-button-email-link =
+    .label = Manna lijami
+    .tooltiptext = Manna na lijami a sta pàggina
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Rapi pricu
+    .tooltiptext = Rapi un pricu ({ $shortcut })
 
 ## EME notification panel
 
