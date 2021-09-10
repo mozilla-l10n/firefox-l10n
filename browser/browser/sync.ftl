@@ -3,24 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Cydweddu…
-
 sync-disconnect-dialog-title2 = Datgysylltu?
 sync-disconnect-dialog-body = Bydd { -brand-product-name } yn peidio cydweddu eich cyfrif ond ni fydd yn dileu eich data pori ar y ddyfais hon.
 sync-disconnect-dialog-button = Datgysylltu
-
 fxa-signout-dialog2-title = Allgofnodi o { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Bydd data wedi'i gydweddu'n aros yn eich cyfrif.
 fxa-signout-dialog2-button = Allgofnodi
 fxa-signout-dialog2-checkbox = Dileu data o'r ddyfais hon (mewngofnodion, cyfrineiriau, hanes, nodau tudalen, ac ati).
-
 fxa-menu-sync-settings =
     .label = Gosodiadau Sync
 fxa-menu-turn-on-sync =
     .value = Cychwyn Sync
 fxa-menu-turn-on-sync-default = Cychwyn Sync
-
 fxa-menu-connect-another-device =
     .label = Cysylltu Dyfais Arall…
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Cydweddu Dyfeisiau…
 fxa-menu-sign-out =
     .label = Allgofnodi…
