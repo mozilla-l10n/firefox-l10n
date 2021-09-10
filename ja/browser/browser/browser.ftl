@@ -658,6 +658,11 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ファイルを開く
     .tooltiptext = ファイルを開きます ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = 新しいプライベートウィンドウ
+    .tooltiptext = 新しいプライベートブラウジングウィンドウを開きます ({ $shortcut })
 
 ## EME notification panel
 
