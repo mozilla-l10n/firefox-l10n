@@ -388,6 +388,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = ஒத்திசைவு
     .tooltiptext = பிற சாதனங்களிலிருந்து கீற்றுகளைக் காட்டு
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = புதிய கமுக்க சாளரம்
+    .tooltiptext = புதிய கமுக்க சாளரத்தைத் திற ({ $shortcut })
 
 ## EME notification panel
 
