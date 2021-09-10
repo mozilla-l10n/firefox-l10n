@@ -637,6 +637,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = I-customize ang Toolbar...
     .accesskey = C
+toolbar-button-email-link =
+    .label = Email Link
+    .tooltiptext = Mag-email ng link sa page na ito
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
