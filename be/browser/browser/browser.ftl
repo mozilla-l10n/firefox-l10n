@@ -682,6 +682,11 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Сінхранізаваныя карткі
     .tooltiptext = Паказваць карткі з іншых прылад
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Новае прыватнае акно
+    .tooltiptext = Адкрыць новае акно для прыватнага аглядання ({ $shortcut })
 
 ## EME notification panel
 
