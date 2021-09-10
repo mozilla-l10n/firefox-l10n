@@ -4,3 +4,11 @@
 
 account-settings-title = Hitelesítési beállítások
 account-channel-title = Alapértelmezett csatornák
+chat-encryption-label = Natív végpontok közötti titkosítás
+chat-encryption-status = Titkosítási állapot
+chat-encryption-placeholder = A titkosítás nincs előkészítve.
+chat-encryption-sessions = Munkamenetek
+chat-encryption-session-verify = ellenőrzés
+    .title = Munkamenet személyazonosságának ellenőrzése
+chat-encryption-session-trusted = megbízható
+    .title = A munkamenet személyazonossága ellenőrzött
