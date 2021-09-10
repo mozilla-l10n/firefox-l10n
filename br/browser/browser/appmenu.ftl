@@ -84,6 +84,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Gwelout ur roll ivinelloù eus ho trevnadoù all.
 appmenu-remote-tabs-unverified = Ret eo gwiriekaat ho kont.
 appmenuitem-fxa-toolbar-sync-now2 = Goubredañ bremañ
+appmenuitem-fxa-sign-in = Kennaskañ ouzh { -brand-product-name }
 appmenuitem-fxa-manage-account = Merañ ar gont
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
