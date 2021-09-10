@@ -3,24 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Синхрондау…
-
 sync-disconnect-dialog-title2 = Байланысты үзу керек пе?
 sync-disconnect-dialog-body = { -brand-product-name } тіркелгіңізді синхрондауды тоқтатады, бірақ, бұл құрылғыда шолу тарихын өшірмейді.
 sync-disconnect-dialog-button = Байланысты үзу
-
 fxa-signout-dialog2-title = { -fxaccount-brand-name } ішінен шығу керек пе?
 fxa-signout-dialog-body = Синхрондалған деректер сіздің тіркелгіңізде қалады.
 fxa-signout-dialog2-button = Шығу
 fxa-signout-dialog2-checkbox = Осы құрылғыдан деректерді өшіру (парольдер, тарих, бетбелгілер және т.б.).
-
 fxa-menu-sync-settings =
     .label = Синхрондау баптаулары
 fxa-menu-turn-on-sync =
     .value = Синхрондауды іске қосу
 fxa-menu-turn-on-sync-default = Синхрондауды іске қосу
-
 fxa-menu-connect-another-device =
     .label = Басқа құрылғыны байланыстыру…
-
+# This is shown dynamically within "Send tab to device" in fxa menu.
+fxa-menu-send-tab-to-device-syncnotready =
+    .label = Құрылғыларды синхрондау…
 fxa-menu-sign-out =
     .label = Шығу…
