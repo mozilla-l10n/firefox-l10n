@@ -11,23 +11,25 @@ appmenuitem-update-banner3 =
     .label-update-manual = Actualización dispoñíbel — descargar agora
     .label-update-unsupported = Imposíbel actualizar — sistema incompatíbel
     .label-update-restart = Actualización dispoñíbel — reiniciar agora
-
 appmenuitem-protection-dashboard-title = Panel de proteccións
-
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Nova lapela
 appmenuitem-new-window =
     .label = Nova xanela
 appmenuitem-new-private-window =
     .label = Nova xanela privada
+appmenuitem-history =
+    .label = Historial
 appmenuitem-passwords =
     .label = Contrasinais
 appmenuitem-addons-and-themes =
     .label = Complementos e temas
+appmenuitem-print =
+    .label = Imprimir…
 appmenuitem-find-in-page =
     .label = Atopar na páxina…
+appmenuitem-zoom =
+    .value = Zoom
 appmenuitem-more-tools =
     .label = Máis ferramentas
 appmenuitem-help =
@@ -44,7 +46,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Pechar menú da aplicación
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,27 +66,21 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Acceda para sincronizar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar a sincronización ...
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostrar máis lapelas
     .tooltiptext = Amosar máis lapelas deste dispositivo
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ningunha lapela aberta
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Active a sincronización de lapelas para ver a lista de lapelas dos outros dispositivos.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Quere ver aquí as lapelas dos outros dispositivos?
-
 appmenu-remote-tabs-connectdevice =
     .label = Conectar outro dispositivo
 appmenu-remote-tabs-welcome = Ver unha lista de lapelas doutros dispositivos.
 appmenu-remote-tabs-unverified = Necesita comprobar a súa conta.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar conta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -99,14 +94,12 @@ appmenu-fxa-signed-in-label = Identificarse
 appmenu-fxa-setup-sync =
     .label = Activar a sincronización
 appmenu-fxa-show-more-tabs = Mostrar máis lapelas
-
 appmenuitem-save-page =
     .label = Gardar páxina como…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novidades
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -119,49 +112,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Revelar máis información
-
 profiler-popup-description-title =
     .value = Grava, analiza, comparte
-
 profiler-popup-description = Colabore coas incidencias de rendemento publicando perfís para compartir co teu equipo.
-
 profiler-popup-learn-more = Saber máis
-
 profiler-popup-settings =
     .value = Configuración
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar a configuración ...
-
 profiler-popup-disabled =
     O perfilador está actualmente desactivado, moi probablemente debido a que unha xanela
     de navegación privada estea aberta.
-
 profiler-popup-recording-screen = Gravando…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Personalizar
-
 profiler-popup-start-recording-button =
     .label = Comezar a gravación
-
 profiler-popup-discard-button =
     .label = Desbotar
-
 profiler-popup-capture-button =
     .label = Capturar
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maiús+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -229,7 +208,6 @@ appmenu-customizetoolbar =
     .label = Personalizar a barra de ferramentas…
 appmenu-taskmanager =
     .label = Xestor de tarefas
-
 appmenu-developer-tools-subheader = Caixa de ferramentas do navegador
 appmenu-developer-tools-extensions =
     .label = Extensións para desenvolvedores
