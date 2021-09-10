@@ -659,6 +659,11 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Mak Toolbaur Yer Ain…
     .accesskey = M
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = New Private Windae
+    .tooltiptext = Open a new Private Stravaigin windae ({ $shortcut })
 
 ## EME notification panel
 
