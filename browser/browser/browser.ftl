@@ -637,6 +637,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Ubahsuai Bilah Alat…
     .accesskey = U
+toolbar-button-email-link =
+    .label = Surelkan Tautan
+    .tooltiptext = Surelkan tautan laman ini
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
