@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = نئئ وِنڈو
 appmenuitem-new-private-window =
     .label = نْو پرایوٹ وینڈو&
+appmenuitem-history =
+    .label = تٲریخ
+appmenuitem-print =
+    .label = پرینٹ...
+appmenuitem-zoom =
+    .value = بڈٲویو
 
 ## Zoom and Fullscreen Controls
 
@@ -41,9 +45,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = & پنِن راے كریو دٲخل...
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
