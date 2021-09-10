@@ -9,6 +9,8 @@ appmenuitem-new-window =
     .label = Pencereya Nû
 appmenuitem-new-private-window =
     .label = Pencereyeke Nepen ya nû
+appmenuitem-print =
+    .label = Çapkirin…
 appmenuitem-zoom =
     .value = Nêzîk Bike
 
