@@ -5,11 +5,14 @@
 
 ## App Menu
 
-
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = Шинэ цонх
+appmenuitem-history =
+    .label = Түүх
+appmenuitem-print =
+    .label = Хэвлэ…
+appmenuitem-zoom =
+    .value = Харуулах хэмжээ
 
 ## Zoom and Fullscreen Controls
 
@@ -26,22 +29,20 @@ appmenuitem-save-page =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+
 ## History panel
+
 
 ## Help panel
 
 
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-
-##
 
 ## More Tools
 
