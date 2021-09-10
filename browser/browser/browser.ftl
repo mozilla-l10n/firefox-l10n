@@ -658,6 +658,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ファイルを開く
     .tooltiptext = ファイルを開きます ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = 同期タブ
+    .tooltiptext = 他の端末のタブを表示します
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
