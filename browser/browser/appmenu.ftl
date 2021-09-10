@@ -5,14 +5,14 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-tab =
     .label = Tab Baru
 appmenuitem-new-window =
     .label = Tetingkap Baru
 appmenuitem-new-private-window =
     .label = Tetingkap Peribadi Baru
+appmenuitem-zoom =
+    .value = Zum
 appmenuitem-help =
     .label = Bantuan
 
@@ -25,18 +25,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Tiada tab terbuka
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Mahu melihat tab anda daripada peranti lain di sini?
-
 appmenu-remote-tabs-connectdevice =
     .label = Sambung Peranti Lain
 appmenu-remote-tabs-unverified = Akaun anda perlu disahkan.
-
 appmenuitem-save-page =
     .label = Simpan Halaman Sebagai…
 
@@ -89,4 +85,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Pengurus Tugasan
-
