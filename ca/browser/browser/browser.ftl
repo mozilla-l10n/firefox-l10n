@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navegació privada)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navegació privada)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegació privada)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegació privada)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,7 +109,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleccioneu aquesta drecera per trobar el que necessiteu més ràpidament.
@@ -148,12 +145,10 @@ urlbar-midi-blocked =
     .tooltiptext = Heu blocat l'accés MIDI per a aquest lloc web.
 urlbar-install-blocked =
     .tooltiptext = Heu blocat la instal·lació de complements per a aquest lloc web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -180,10 +175,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Aquesta vegada, cerca amb:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Canvia els paràmetres de cerca
-
 search-one-offs-context-open-new-tab =
     .label = Cerca en una pestanya nova
     .accesskey = t
@@ -193,14 +186,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Defineix com a motor de cerca per defecte per a les finestres privades
     .accesskey = D
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -249,7 +240,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = s
 bookmark-panel-save-button =
     .label = Desa
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -277,7 +267,6 @@ identity-passive-loaded = Parts d'aquesta pàgina no són segures (com les imatg
 identity-active-loaded = Heu desactivat la protecció en aquesta pàgina.
 identity-weak-encryption = Aquesta pàgina utilitza xifratge feble.
 identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.
-
 identity-https-only-connection-upgraded = (actualitzat a HTTPS)
 identity-https-only-label = Mode només HTTPS
 identity-https-only-dropdown-on =
@@ -289,11 +278,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activeu el mode només HTTPS per a aquest lloc si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
 identity-https-only-info-turn-off2 = Si sembla que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a aquest lloc per tornar-lo a carregar amb HTTP insegur.
 identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
-
 identity-permissions-storage-access-header = Galetes entre llocs
 identity-permissions-storage-access-hint = Aquests subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en aquest lloc.
 identity-permissions-storage-access-learn-more = Més informació
-
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
 identity-clear-site-data =
     .label = Esborra les galetes i dades dels llocs…
@@ -356,13 +343,11 @@ browser-tab-mute =
         [1] SILENCIA LA PESTANYA
        *[other] SILENCIA { $count } PESTANYES
     }
-
 browser-tab-unmute =
     { $count ->
         [1] NO SILENCIÏS LA PESTANYA
        *[other] NO SILENCIÏS { $count } PESTANYES
     }
-
 browser-tab-unblock =
     { $count ->
         [1] REPRODUEIX LA PESTANYA
@@ -374,7 +359,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importa les adreces d'interès…
     .tooltiptext = Importa les adreces d'interès d'un altre navegador al { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Col·loqueu les adreces d'interès aquí, a la barra de les adreces d'interès, per accedir-hi ràpidament. <a data-l10n-name="manage-bookmarks">Gestiona les adreces d'interès…</a>
 
 ## WebRTC Pop-up notifications
@@ -392,15 +376,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Altaveus
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
-
 popup-screen-sharing-block =
     .label = Bloca
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Bloca sempre
     .accesskey = s
-
 popup-mute-notifications-checkbox = Silencia les notificacions del lloc web mentre s'està compartint
 
 ## WebRTC window or screen share tab switch warning
@@ -422,7 +403,6 @@ enable-devtools-popup-description = Per a usar la drecera F12, primer obriu DevT
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -431,7 +411,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Cerca al web
     .aria-label = Cerca amb { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -440,27 +419,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en les adreces d'interès
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en l'historial
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Escriviu els termes de la cerca
     .aria-label = Cerca en les pestanyes
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cerqueu amb { $name } o escriviu una adreça
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -470,11 +444,9 @@ urlbar-permissions-granted =
     .tooltiptext = Heu donat permisos addicionals a aquest lloc web.
 urlbar-switch-to-tab =
     .value = Canvia a la pestanya:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensió:
-
 urlbar-go-button =
     .tooltiptext = Vés a l'adreça de la barra d'ubicació
 urlbar-page-action-button =
@@ -545,12 +517,9 @@ urlbar-result-action-search-tabs = Cerca en les pestanyes
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> està a pantalla completa
 fullscreen-warning-no-domain = Aquest document està a pantalla completa
-
-
 fullscreen-exit-button = Surt de la pantalla completa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Surt de la pantalla completa (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -560,7 +529,6 @@ pointerlock-warning-no-domain = Aquest document té el control del punter. Preme
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part d'aquesta pàgina ha fallat.</strong> Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
-
 crashed-subframe-learnmore-link =
     .value = Més informació
 crashed-subframe-submit =
@@ -612,7 +580,6 @@ bookmarks-tools =
     .label = Eines d'adreces d'interès
 bookmarks-bookmark-edit-panel =
     .label = Edita aquesta adreça d'interès
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -626,7 +593,6 @@ bookmarks-toolbar-placeholder =
     .title = Elements de la barra de les adreces d'interès
 bookmarks-toolbar-placeholder-button =
     .label = Elements de la barra de les adreces d'interès
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Afegeix la pestanya actual a les adreces d'interès
@@ -657,7 +623,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Complements i temes
     .tooltiptext = Gestioneu els complements i temes ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -673,10 +638,27 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Treballa fora de línia
     .accesskey = b
-
 toolbar-overflow-customize-button =
     .label = Personalitza la barra d'eines…
     .accesskey = P
+toolbar-button-email-link =
+    .label = Envia l'enllaç per correu
+    .tooltiptext = Envia per correu un enllaç a aquesta pàgina
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = ­Desa la pàgina
+    .tooltiptext = Desa aquesta pàgina ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Obre un fitxer
+    .tooltiptext = Obre un fitxer ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Finestra privada nova
+    .tooltiptext = Obre una finestra de navegació privada nova ({ $shortcut })
 
 ## EME notification panel
 
@@ -715,7 +697,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permet les finestres emergents per a { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Bloca les finestres emergents per a { $uriHost }
     .accesskey = p
@@ -725,7 +706,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostris aquest missatge quan es bloquin finestres emergents
     .accesskey = n
-
 picture-in-picture-hide-toggle =
     .label = Amaga el botó d'Imatge sobre imatge
     .accesskey = m
