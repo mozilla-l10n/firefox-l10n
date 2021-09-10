@@ -17,6 +17,8 @@ appmenuitem-downloads =
     .label = Íoslódálacha
 appmenuitem-print =
     .label = Priontáil…
+appmenuitem-zoom =
+    .value = Súmáil
 appmenuitem-help =
     .label = Cabhair
 
