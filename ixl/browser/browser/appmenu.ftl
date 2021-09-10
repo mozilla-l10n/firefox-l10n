@@ -5,8 +5,10 @@
 
 ## App Menu
 
-## Zoom Controls
-
+appmenuitem-downloads =
+    .label = Eq'omal ku'tzan
+appmenuitem-print =
+    .label = Tel ch'u'l vatz u'uj…
 appmenuitem-help =
     .label = Lochb'al
 
