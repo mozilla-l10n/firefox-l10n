@@ -728,8 +728,8 @@ popups-infobar-block =
 ##
 
 popups-infobar-dont-show-message =
-    .label = Να μην εμφανίζεται αυτό το μήνυμα όταν γίνεται φραγή
-    .accesskey = Ν
+    .label = Απόκρυψη μηνύματος όταν αποκλείονται αναδυόμενα παράθυρα
+    .accesskey = Α
 edit-popup-settings =
     .label = Διαχείριση ρυθμίσεων αναδυόμενων παραθύρων…
     .accesskey = Δ
