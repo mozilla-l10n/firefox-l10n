@@ -83,6 +83,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Poveži dodatni uređaj
 appmenu-remote-tabs-unverified = Vaš račun mora biti verifikovan.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizuj odmah
+appmenuitem-fxa-sign-in = Prijava u { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljanje računom
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # Variables
