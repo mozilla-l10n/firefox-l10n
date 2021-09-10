@@ -5,12 +5,16 @@
 
 ## App Menu
 
-## Zoom Controls
-
 appmenuitem-new-window =
     .label = ନୂତନ ୱିଣ୍ଡୋ
 appmenuitem-new-private-window =
     .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
+appmenuitem-history =
+    .label = ପୁରୁଣା ତଥ୍ୟ
+appmenuitem-print =
+    .label = ମୁଦ୍ରଣ କରନ୍ତୁ…
+appmenuitem-zoom =
+    .value = ସାନବଡ଼ କରନ୍ତୁ
 
 ## Zoom and Fullscreen Controls
 
@@ -18,7 +22,6 @@ appmenuitem-zoom-enlarge =
     .label = ବଡ଼ କରନ୍ତୁ
 appmenuitem-zoom-reduce =
     .label = ଛୋଟ କରନ୍ତୁ
-
 appmenuitem-fullscreen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
 
@@ -47,9 +50,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = ମତାମତ ଦାଖଲ କରନ୍ତୁ…
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
