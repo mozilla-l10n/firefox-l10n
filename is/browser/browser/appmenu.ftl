@@ -15,6 +15,8 @@ appmenuitem-history =
     .label = Ferill
 appmenuitem-print =
     .label = Prenta…
+appmenuitem-zoom =
+    .value = Aðdráttur
 appmenuitem-help =
     .label = Hjálp
 
