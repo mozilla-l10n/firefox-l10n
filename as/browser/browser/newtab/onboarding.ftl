@@ -24,6 +24,11 @@ onboarding-not-now-button-label = এতিয়া নহয়
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-welcome-secondary-button-label = ছাইন ইন কৰক
+onboarding-multistage-set-default-subtitle = আপুনি যেইবাৰেই ব্ৰাউজ কৰে সেইবাৰেই দ্ৰুততা, সুৰক্ষা আৰু গোপনীয়তা।
+onboarding-multistage-set-default-secondary-button-label = এতিয়া নহয়
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name }-ক মোৰ প্ৰাথমিক ব্ৰাউজাৰ কৰক
+onboarding-multistage-import-subtitle = আন এটা ব্ৰাউজাৰৰ পৰা আহিছেনে? { -brand-short-name }-লৈ সকলো বস্তু অনাটো সহজ।
 onboarding-multistage-import-primary-button-label = আমদানি আৰম্ভ কৰক
 onboarding-multistage-import-secondary-button-label = এতিয়া নহয়
 
