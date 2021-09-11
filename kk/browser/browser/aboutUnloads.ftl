@@ -6,9 +6,12 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-last-updated = Соңғы жаңартылған: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Приоритет
 about-unloads-column-host = Хост
 about-unloads-column-last-accessed = Соңғы қатынаған
+about-unloads-column-memory = Жады
+    .title = Беттің шамаланған жады қолдануы
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } МБ
 about-unloads-memory-in-mb-tooltip =
