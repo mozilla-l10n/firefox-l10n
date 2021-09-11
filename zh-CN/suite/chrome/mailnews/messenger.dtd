@@ -368,7 +368,7 @@
 <!ENTITY markAsShowRemoteCmd.label "显示远程内容">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
-<!ENTITY markAsNotPhishCmd.label "标记为非垃圾指令.label">
+<!ENTITY markAsNotPhishCmd.label "为非诈骗邮件">
 <!ENTITY markAsNotPhishCmd.accesskey "S">
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openFeedMessage.label "打开收取点消息">
