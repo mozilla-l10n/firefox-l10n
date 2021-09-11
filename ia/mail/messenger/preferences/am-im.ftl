@@ -4,6 +4,8 @@
 
 account-settings-title = Parametros de authentication
 account-channel-title = Canales predefinite
+chat-encryption-label = Cryptation de un extremo al altere, native
+chat-encryption-description = { $protocol } offere cryptation de un extremo al altere pro messages de chat. Isto impedi al tertie partes de spiar un conversation. Altere configuration pote esser necessari infra pro que le cryptation sia operative.
 chat-encryption-status = Stato de cryptation
 chat-encryption-placeholder = Cryptation non initialisate.
 chat-encryption-sessions = Sessiones
