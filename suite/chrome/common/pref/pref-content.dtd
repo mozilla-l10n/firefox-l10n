@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "till">
 <!ENTITY maxZoom.accesskey                      "i">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Standardzoom">
 <!ENTITY defaultZoom.accesskey                  "d">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "Kom ihåg vald zoomnivå för varje webbplats separat">
 <!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY showZoomStatusPanel.label              "Visa zoomkontrollerna i statusfältet">
+<!ENTITY showZoomStatusPanel.accesskey          "s">
 <!ENTITY enableAutomaticImageResizing.label     "Förminska stora bilder så att de ryms i webbfönstret">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 
