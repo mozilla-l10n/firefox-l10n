@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = t
     .buttonlabelextra2 = Njejstej jenakej
     .buttonaccesskeyextra2 = N
+challenge-label = Přepruwujće, hač pokazany znamješkowy rjećazk tomu na druhim kóncu wotpowěduje.
