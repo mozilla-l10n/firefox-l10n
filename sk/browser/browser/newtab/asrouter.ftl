@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Odporúčaná funkcia
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
-
 cfr-doorhanger-extension-cancel-button = Teraz nie
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Pridať
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Nastavenia odporúčania
     .accesskey = d
-
 cfr-doorhanger-extension-never-show-recommendation = Toto odporúčanie už nezobrazovať
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Ďalšie informácie
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od vývojára { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Odporúčanie
 cfr-doorhanger-extension-notification2 = Odporúčanie
     .tooltiptext = Odporúčanie rozšírenia
     .a11y-announcement = K dispozícii je odporúčané rozšírenie
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Odporúčanie
@@ -67,9 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } používateľov
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
@@ -90,32 +79,10 @@ cfr-protections-panel-link-text = Ďalšie informácie
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nová funkcia:
-
 cfr-whatsnew-button =
     .label = Čo je nové
     .tooltiptext = Čo je nové
-
 cfr-whatsnew-release-notes-link-text = Prečítajte si poznámky k vydaniu
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -130,25 +97,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Zobraziť všetko
     .accesskey = v
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Zavrieť
     .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -168,18 +118,6 @@ cfr-doorhanger-fission-primary-button = OK, rozumiem
 cfr-doorhanger-fission-secondary-button = Ďalšie informácie
     .accesskey = a
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videá na tejto stránke sa v tejto verzii { -brand-short-name(case: "gen") } nemusia prehrávať správne. Ak chcete získať úplnú podporu videa, aktualizujte prehliadač { -brand-short-name } na novšiu verziu.
@@ -193,3 +131,5 @@ cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = Teraz nie
+    .accesskey = T
