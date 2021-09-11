@@ -32,3 +32,4 @@ calendar-delete-item-prompt-message =
         [one] Vil du verkeleg slette dette elementet?
        *[other] Vil du verkeleg slette desse { $count } elementa?
     }
+calendar-delete-prompt-disable-message = Ikkje spør igjen.
