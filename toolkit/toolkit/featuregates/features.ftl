@@ -7,103 +7,89 @@
 experimental-features-css-masonry2 =
     .label = CSS: diseño de mampostería
 experimental-features-css-masonry-description = Habilita la compatibilidad con la función de diseño de mampostería CSS experimental. Consulte el <a data-l10n-name="explainer"> explicador </a> para obtener una descripción de alto nivel de la función. Para enviar comentarios, comente en <a data-l10n-name="w3c-issue"> este problema de GitHub </a> o <a data-l10n-name="bug"> este error </a>.
-
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = Habilita la compatibilidad con CSS Cascade Layers. Consulte la <a data-l10n-name="spec">especificación en progreso</a> para ver más detalles. Informe de errores bloqueando el <a data-l10n-name="bugzilla">bug 1699215</a> para bugs relacionados con esta función.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API web: WebGPU
 experimental-features-web-gpu-description2 = Esta nueva API proporciona soporte de bajo nivel para realizar computación y renderizado de gráficos usando la <a data-l10n-name="wikipedia">Unidad de procesamiento de gráficos (GPU)</a> del dispositivo o computadora del usuario. La <a data-l10n-name="spec">especificación</a> es un trabajo en progreso. Consultá el <a data-l10n-name="bugzilla">bug 1602129</a> para obtener más detalles.
-
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
 experimental-features-media-avif-description = Con esta función activada, { -brand-short-name } es compatible con el formato de archivo de imagen AV1 (AVIF). Este es un formato de archivo de imagen fija que aprovecha las capacidades de los algoritmos de compresión de video AV1 para reducir el tamaño de la imagen. Consultá el <a data-l10n-name="bugzilla">bug 1443863</a> para obtener más detalles.
-
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Medios: JPEG XL
 experimental-features-media-jxl-description = eCon esta función activada, { -brand-short-name } admite el formato JPEG (JXL). Este es un formato mejorado de archivo de imagen que permite la transición desde archivos JPEG tradicionales sin pérdidas. Para más detalles, consulte <a data-l10n-name="bugzilla">bug 1539075</a>.
-
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: modo de entrada
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
 experimental-features-web-api-inputmode-description = Nuestra implementación del atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> se actualizó según <a data-l10n-name="whatwg">la especificación WHATWG</a>, pero también necesitamos hacer otros cambios, como hacerlo disponible en contenido contenteditable. Ver <a data-l10n-name="bugzilla">bug 1205133</a> para más detalles.
-
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = La adición de un constructor a la interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> así como una variedad de cambios relacionados hace posible crear directamente nuevas hojas de estilo sin tener que agregar la hoja al HTML. Esto hace más fácil crear hojas de estilo reutilizables para usar con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Ver <a data-l10n-name="bugzilla">bug 1520690</a> para más detalles.
-
 experimental-features-devtools-color-scheme-simulation =
     .label = Herramientas para desarrolladores: simulación de esquemas de color
 experimental-features-devtools-color-scheme-simulation-description = Agrega una opción para simular diferentes esquemas de color que le permite probar <a data-l10n-name="mdn-preferscolorscheme"> @prefers-color-scheme </a> consultas de medios. El uso de esta función permite que su hoja de estilo responda si el usuario prefiere una interfaz de usuario clara u oscura. Esto le permite probar su código sin tener que cambiar la configuración de su navegador (o sistema operativo, si el navegador sigue una configuración de esquema de color para todo el sistema). Ver <a data-l10n-name="bugzilla1"> bug 1550804 </a> y <a data-l10n-name="bugzilla2"> bug 1137699 </a> para obtener más detalles.
-
 experimental-features-devtools-execution-context-selector =
     .label = Herramientas de desarrollo: Selector de contexto de ejecución
 experimental-features-devtools-execution-context-selector-description = Esta función muestra un botón en la línea de comando de la consola que le permite cambiar el contexto en el que se ejecutará la expresión que ingrese. Consulte <a data-l10n-name="bugzilla1"> bug 1605154 </a> y <a data-l10n-name="bugzilla2"> bug 1605153 </a> para obtener más detalles.
-
 experimental-features-devtools-compatibility-panel =
     .label = Herramientas para desarrolladores: Panel de compatibilidad
 experimental-features-devtools-compatibility-panel-description = Un panel lateral para el Inspector de página que muestra información que detalla el estado de compatibilidad entre navegadores de su aplicación. Consulte <a data-l10n-name="bugzilla"> bug 1584464 </a> para obtener más detalles.
-
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite = Lax predeterminado
 experimental-features-cookie-samesite-lax-by-default2-description = Tratar las cookies como "SameSite = Lax" de forma predeterminada si no se especifica el atributo "SameSite". Los desarrolladores deben optar por el statu quo actual de uso sin restricciones al afirmar explícitamente "SameSite = None".
-
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite = None requiere un atributo secure
 experimental-features-cookie-samesite-none-requires-secure2-description = Las cookies con el atributo "sameSite=none" requieren el atributo secure. Esta función requiere "Cookies: SameSite = lax predeterminado".
-
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = Un caché para el documento inicial about:home que se carga de manera predeterminada al inicio. El propósito del caché es mejorar el rendimiento de inicio.
-
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Tratar las cookies del mismo dominio, pero con diferentes esquemas (por ejemplo, http://example.com y https://example.com) como sitios cruzados en lugar de sitios iguales. Mejora la seguridad, pero potencialmente introduce rotura.
-
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas para desarrolladores: Depuración de Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Habilita el soporte experimental para Service Workers en el panel del Depurador. Esta función puede lentificar las Herramientas de desarrollo y aumentar el consumo de memoria.
-
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Alternar sonido WebRTC globalmente
 experimental-features-webrtc-global-mute-toggles-description = Agregar controles al indicador de intercambio global WebRTC que permitan a los usuarios silenciar globalmente sus fuentes de micrófono y cámara.
-
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Aislamiento de Win32k
 experimental-features-win32k-lockdown-description = Deshabilitar el uso de las API de Win32k en las pestañas del navegador. Proporciona un aumento de la seguridad, pero puede ser inestable o con fallas. (Solo en Windows)
-
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Habilitar Warp, un proyecto para mejorar el rendimiento y el uso de la memoria de JavaScript.
-
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fisión (aislamiento del sitio)
 experimental-features-fission-description = La fisión (aislamiento del sitio) es una función experimental en { -brand-short-name } para proporcionar una capa adicional de defensa contra errores de seguridad. Al aislar cada sitio en un proceso separado, Fission dificulta que los sitios web maliciosos accedan a la información de otras páginas que está visitando. Este es un cambio arquitectónico muy importante en { -brand-short-name } y le agradecemos que pruebe e informe cualquier problema que pueda encontrar. Para obtener más detalles, consulte <a data-l10n-name="wiki"> la wiki </a>.
-
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Compatibilidad para Picture-in-Picture
 experimental-features-multi-pip-description = Ayuda experimental para permitir que se abran varias ventanas Picture-in-Picture al mismo tiempo.
-
 # Search during IME
 experimental-features-ime-search =
     .label = Barra de direcciones: mostrar los resultados durante la composición IME
