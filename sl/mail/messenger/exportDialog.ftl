@@ -3,21 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 export-dialog-brand-name = { -brand-product-name }
-
 export-dialog-window =
     .title = Izvozi
-
+export-dialog-title = Izvozi
 export-dialog =
     .buttonlabelaccept = Naprej
-
 export-dialog-button-finish = Dokončaj
-
 export-dialog-file-picker = Izvozi v datoteko .zip
-
 export-dialog-desc1 = Izvozite poštne račune, sporočila, imenike in nastavitve v stisnjeno datoteko.
-
 export-dialog-desc2 = Ob potrebi lahko obnovite svoj profil z uvozom datoteke .zip.
-
 export-dialog-exporting = Izvažanje …
-
 export-dialog-exported = Izvoženo!

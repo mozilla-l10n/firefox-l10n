@@ -4,3 +4,5 @@
 
 account-settings-title = Nastavitve overjanja
 account-channel-title = Privzeti kanali
+chat-encryption-status = Stanje šifriranja
+chat-encryption-sessions = Seje
