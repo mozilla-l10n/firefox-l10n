@@ -671,7 +671,7 @@ toolbar-button-save-page =
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Öppna fil
-    .tooltiptext = Öppna en fil… ({ $shortcut })
+    .tooltiptext = Öppna en fil ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Synkade flikar
     .tooltiptext = Visa flikar från andra enheter
