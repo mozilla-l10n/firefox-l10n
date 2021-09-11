@@ -46,7 +46,7 @@
 <!ENTITY serverInfo.label             "Πληροφορίες διακομιστή     ">
 <!ENTITY loginInfo.label              "Πληροφορίες διαπίστευσης">
 <!ENTITY siteName.label               "Όνομα ιστοτόπου:">
-<!ENTITY siteName.accesskey           "ε">
+<!ENTITY siteName.accesskey           "τ">
 <!ENTITY siteName.tooltip             "Ένα όνομα που γνωστοποιεί την προς δημοσίευση σελίδα (e.g.: 'MySite')">
 <!ENTITY siteUrl.label                "Τοποθεσία δημοσίευσης (π.χ.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "δ">
