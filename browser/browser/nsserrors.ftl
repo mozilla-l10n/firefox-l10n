@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 错误代码：{ $error }
-
 psmerr-ssl-disabled = 由于 SSL 协议已被禁用，无法安全地连接。
 psmerr-ssl2-disabled = 由于该站点使用了旧的不安全版本的SSL协议，无法安全地连接。
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     您收到了一个无效的证书。请与服务器管理员或者邮件联系人联系，并提供以下信息：
     
     您的证书具有与证书颁发机构签发的另一个证书相同的序列号。请获取一个具有唯一序列号的新证书。
-
 ssl-error-export-only-server = 无法安全通信。对等端不支持高等级加密。
 ssl-error-us-only-server = 无法安全通信。不支持对等端要求的高等级加密。
 ssl-error-no-cypher-overlap = 无法安全地与对等端通信：没有双方共用的加密算法。
@@ -127,7 +123,7 @@ ssl-error-insufficient-security-alert = 服务器要求的密码比那些由客�
 ssl-error-internal-error-alert = 对等端报告其遇到一个内部错误。
 ssl-error-user-canceled-alert = 对等端用户取消了握手。
 ssl-error-no-renegotiation-alert = 对等端不允许 SSL 安全参数重议。
-ssl-error-server-cache-not-configured = SSL 服务器缓存没有设置且对此接口没有禁用。
+ssl-error-server-cache-not-configured = SSL 服务器缓存没有设置且对未禁用此接口。
 ssl-error-unsupported-extension-alert = SSL 对等端不支持所请求的 TLS hello 扩展。
 ssl-error-certificate-unobtainable-alert = SSL 对等端无法从所提供的 URL 获得您的证书。
 ssl-error-unrecognized-name-alert = SSL 对等端没有所请求 DNS 名称的证书。
