@@ -5,7 +5,6 @@
 printui-title = Titz'ajb'äx
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Tiyak Achi'el
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,7 +12,6 @@ printui-sheets-count =
         [one] { $sheetCount } ruxaq wuj
        *[other] { $sheetCount } taq ruxaq wuj
     }
-
 printui-page-range-all = Ronojel
 printui-page-range-custom = Ichinan
 printui-page-range-label = Taq ruxaq
@@ -22,29 +20,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Titz'ib'äx rupalem ichinan ruxaq
     .placeholder = e.g. 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Taq wachib'äl
-
 printui-orientation = Rucholajem
 printui-landscape = Kotz'olem
 printui-portrait = Palem
-
 # Section title for the printer or destination device to target
 printui-destination-label = Achoq chi re
 printui-destination-pdf-label = Tiyak pa PDF
-
 printui-more-settings = Ch'aqa' taq runuk'ulem
 printui-less-settings = Jub'a' runuk'ulem
-
 printui-paper-size-label = Rupalem ruxaq
-
 # Section title (noun) for the print scaling options
 printui-scale = Xakb'äl
 printui-scale-fit-to-page-width = Titz'aj pa ruwa ri ruxaq
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Xakb'äl
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Nitz'ajb'äx pa ka'i'-ruwa
 printui-two-sided-printing-off = Chupun
@@ -52,7 +43,6 @@ printui-two-sided-printing-off = Chupun
 printui-two-sided-printing-long-edge = Tiq'och pa ri nïm raqän ruchi'
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Tiq'och pa ri nïm ko'öl ruchi'
-
 # Section title for miscellaneous print options
 printui-options = Taq cha'oj
 printui-headers-footers-checkbox = Titz'ajb'äl taq nab'ey chuqa' ruxe' rub'i' ruxaq
@@ -62,12 +52,14 @@ printui-backgrounds-checkbox = Ketz'ajb'äx taq rupam
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = B'anikil
+
 ##
 
 printui-color-mode-label = B'onil b'anikil
 printui-color-mode-color = B'onil
 printui-color-mode-bw = Q'ëq chuqa' säq
-
 printui-margins = Taq ruchi'
 printui-margins-default = K'o wi
 printui-margins-min = Ko'öl
@@ -86,23 +78,17 @@ printui-margins-custom-left-mm = Xokon (mm)
 printui-margins-custom-right = Ajkiq'a'
 printui-margins-custom-right-inches = Ajkiq'a' (taq pulwata')
 printui-margins-custom-right-mm = Ajkiq'a' (mm)
-
 printui-system-dialog-link = Titz'jb'äl rik'in ri rutzijonem q'inoj…
-
 printui-primary-button = Titz'ajb'äx
 printui-primary-button-save = Tiyak
 printui-cancel-button = Tiq'at
 printui-close-button = Titz'apïx
-
 printui-loading = Runuk'ik Nab'ey Tz'etoj
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Nab'ey Tz'etoj
-
 printui-pages-per-sheet = Taq ruxaq chi ruxaq
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Nitz'ajb'äx…
@@ -129,7 +115,6 @@ printui-paper-tabloid = Taloyit
 printui-error-invalid-scale = Ri rukojol k'o chi jun ajilab'äl 10 o chuqa' 200.
 printui-error-invalid-margin = Tatz'ib'aj jun okel ruchi' rupalem wuj xacha'.
 printui-error-invalid-copies = Ri rajilab'al taq wachib'äl k'o chi k'o chi kikojol 1 chuqa' 10000.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ri rupalem k'o chi jun ajilab'äl 1 chuqa' { $numPages }.
