@@ -136,6 +136,14 @@ warn-on-close-multiple-tabs =
 confirm-on-close-multiple-tabs =
     .label = Vyžadovať potvrdenie pred zatvorením viacerých kariet naraz
     .accesskey = V
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Vyžadovať potvrdenie pred ukončením pomocou { $quitKey }
+    .accesskey = V
 warn-on-open-many-tabs =
     .label = Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie prehliadača { -brand-short-name }
     .accesskey = U
