@@ -8,6 +8,9 @@
 newtab-page-title = নতুন টেব
 newtab-settings-button =
     .title = আপোনাৰ নতুন টেবৰ পৃষ্ঠা কাষ্টমাইজ কৰক
+newtab-personalize-icon-label =
+    .title = নতুন টেব ব্যক্তিগতকৰণ কৰক
+    .aria-label = নতুন টেব ব্যক্তিগতকৰণ কৰক।
 newtab-personalize-dialog-label =
     .aria-label = ব্যক্তিগতকৰণ কৰক
 
@@ -17,6 +20,20 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = সন্ধান কৰক
     .aria-label = সন্ধান কৰক
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
+newtab-search-box-handoff-text-no-engine = সন্ধান কৰক নাইবা ঠিকনা লিখক
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
+    .title = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
+    .aria-label = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = সন্ধান কৰক নাইবা ঠিকনা লিখক
+    .title = সন্ধান কৰক নাইবা ঠিকনা লিখক
+    .aria-label = সন্ধান কৰক নাইবা ঠিকনা লিখক
 newtab-search-box-search-the-web-input =
     .placeholder = ৱেবত সন্ধান কৰক
     .title = ৱেবত সন্ধান কৰক
@@ -57,6 +74,7 @@ newtab-confirm-delete-history-p2 = এই কাৰ্য্য পিছত প
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = পৃষ্ঠপোষকতা কৰা
 
 ## Context Menu - Action Tooltips.
 
