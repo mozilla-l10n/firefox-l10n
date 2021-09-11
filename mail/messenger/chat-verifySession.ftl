@@ -6,3 +6,8 @@ verify-window-title = Integritu přepruwować
 # Variables:
 #   $subject (String) - a human readable identifier for the other side of the verification flow.
 verify-window-subject-title = Identitu { $subject } přepruwować
+verify-dialog =
+    .buttonlabelaccept = Stej jenakej
+    .buttonaccesskeyaccept = t
+    .buttonlabelextra2 = Njejstej jenakej
+    .buttonaccesskeyextra2 = N
