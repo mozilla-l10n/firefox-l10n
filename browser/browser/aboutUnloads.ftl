@@ -7,6 +7,20 @@
 ### feature.
 
 about-unloads-page-title = Frigör flik
+about-unloads-intro-1 =
+    { -brand-short-name } har en funktion som automatiskt tömmer flikar
+    för att förhindra att applikationen kraschar på grund av otillräckligt minne
+    när systemets andel ledigt minne är lågt. Denna sida visar hur
+    { -brand-short-name } prioriterar flikar och vilken flik som kommer att tömmas
+    när frigörande av flikar behövs.
+about-unloads-intro-2 =
+    Befintliga flikar visas i tabellen nedan i samma ordning som används av
+    { -brand-short-name } för att välja nästa flik att tömma. Process-IDn
+    visas med <strong>fetstil</strong> när de är värd för flikens huvud-
+    ram och i <em>kursiv</em> när processen delas mellan flera flikar.
+    Du kan starta frigörande av flikar manuellt genom att klicka på <em>Frigör</em>
+    knappen nedan.
+about-unloads-last-updated = Senast uppdaterad: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigör
     .title = Frigör fliken med högsta prioritet
 about-unloads-no-unloadable-tab = Det finns inga flikar att frigöra.
@@ -21,6 +35,7 @@ about-unloads-column-memory = Minne
     .title = Flikens beräknade minnesanvändning
 about-unloads-column-processes = Process-ID
     .title = ID för processerna som är värd för flikens innehåll
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
