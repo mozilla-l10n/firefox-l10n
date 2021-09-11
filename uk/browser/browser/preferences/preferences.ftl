@@ -81,7 +81,7 @@ extension-controlled-password-saving = Розширення <img data-l10n-name=
 extension-controlled-web-notifications = Розширення <img data-l10n-name="icon"/> { $name } контролює цей параметр.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Для роботи розширення <img data-l10n-name="icon"/> { $name } необхідні вкладки в контейнері.
+extension-controlled-privacy-containers = Для роботи розширення <img data-l10n-name="icon"/> { $name } необхідні контейнери вкладок.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Розширення <img data-l10n-name="icon"/> { $name } контролює цей параметр.
@@ -125,7 +125,7 @@ disable-extension =
     .label = Вимкнути розширення
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab перемикає між вкладками в порядку недавнього їх використання
+    .label = Перемикати вкладки з Ctrl+Tab в порядку недавнього їх використання
     .accesskey = T
 open-new-link-as-tabs =
     .label = Відкривати посилання у вкладках замість нових вікон
@@ -421,7 +421,7 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = з
 browsing-picture-in-picture-learn-more = Докладніше
 browsing-media-control =
-    .label = Контролюйте медіа клавіатурою, гарнітурою чи віртуальним інтерфейсом
+    .label = Контролювати медіа клавіатурою, гарнітурою чи віртуальним інтерфейсом
     .accesskey = ю
 browsing-media-control-learn-more = Докладніше
 browsing-cfr-recommendations =
