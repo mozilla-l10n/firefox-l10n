@@ -9,6 +9,7 @@ chat-encryption-description = { $protocol } zaklučowanje kónć do kónca za č
 chat-encryption-status = Zaklučowanski status:
 chat-encryption-placeholder = Zaklučowanje njeje inicializowane.
 chat-encryption-sessions = Posedźenja
+chat-encryption-sessions-description = Zo byšće zaklučowanje kónc do kónca kortektnje fungowało, dyrbiće druhim posedźenjam dowěrić, kotrež su tuchwilu pola wašeho konta přizjewjene. Interakcija z druhim klientom je trěbna, zo by posedźenje přepruwowała. Přepruwowanje posedźenja móhło k tomu wjesć, zo wšěm posedźenjam, kotrež dowěrja, { -brand-short-name } tež dowěrja.
 chat-encryption-session-verify = přepruwować
     .title = Identitu tutoho posedźenja přepruwować
 chat-encryption-session-trusted = dowěry hódny
