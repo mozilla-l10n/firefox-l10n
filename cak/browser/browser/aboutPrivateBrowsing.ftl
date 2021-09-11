@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Tijaq jun Ichinan Tzuwäch
 about-private-browsing-search-placeholder = Tikanöx pan Ajk'amaya'l
 about-private-browsing-info-title = At k'o pa jun Ichinan Tzuwäch
 about-private-browsing-info-myths = Ch'ob'on taq tzij chi rij ri ichinan okem pa k'amaya'l
+about-private-browsing-search-btn =
+    .title = Tikanöx pan ajk'amaya'l
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -19,10 +21,9 @@ about-private-browsing-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri roc
 about-private-browsing-handoff-text-no-engine = Tikanöx o titz'ib'äx ochochib'äl
 about-private-browsing-not-private = Wakami man at k'o ta chupam jun ichinan tzuwäch.
 about-private-browsing-info-description = { -brand-short-name } nuyüj ri ri rukanoxik chuqa' runatab'al awokem pa k'amaya'l toq yatel pa ri okisab'äl o ye'atz'ajij ri taq ruwi' chuqa' ichinan okem taq tzuwäch. Estape' re re' man yatrewaj ta pan ajk'amaya'l o chuwäch ri niya'on k'amaya'l chawe. Nub'än chi man k'ayew ta nachajij ri ichinan nab'än pa k'amab'ey chuwäch jun chik winäq nrokisaj ri kematz'ib' ri'.
-
 about-private-browsing-need-more-privacy = ¿La nawajo' mas ichinanem?
 about-private-browsing-turn-on-vpn = Tatojtob'ej { -mozilla-vpn-brand-name }
-
+about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

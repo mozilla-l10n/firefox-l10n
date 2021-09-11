@@ -76,6 +76,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Majun ruwi' ejaqon
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.
+appmenu-remote-tabs-opensettings =
+    .label = Runuk'ulem
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?

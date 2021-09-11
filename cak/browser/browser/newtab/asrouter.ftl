@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Chilab'en Samaj
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
-
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
-
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
-
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Chilab'enïk
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } okisanela'
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Xab'akuchi' Ke'axima' ri taq ayaketal.
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
-
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
-
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -127,25 +94,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Titzet Ronojel
     .accesskey = t
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Titz'apïx
     .accesskey = t
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -165,18 +115,6 @@ cfr-doorhanger-fission-primary-button = ÜTZ, Wetaman chik
 cfr-doorhanger-fission-secondary-button = Tetamäx ch'aqa' chik
     .accesskey = e
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Rik'in jub'a' man xketzije' ta pa rub'eyal ri taq silowäch pa re ruxaq re' rik'in re ruwäch { -brand-short-name }{ -brand-short-name }. Richin nik'ul tz'aqät ruk'amoj silowäch, tak'exa' { -brand-short-name } wakani.
@@ -190,3 +128,5 @@ cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = Wakami Mani
+    .accesskey = M
