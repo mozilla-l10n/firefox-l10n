@@ -131,5 +131,9 @@ cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Zdá sa, že používate verejnú sieť Wi-Fi
+spotlight-public-wifi-vpn-body = Ak chcete skryť svoju polohu a aktivitu pri prehliadaní, zvážte použiť virtuálnu súkromnú sieť. Pomôže vám to chrániť sa pri prehliadaní z verejných miest, ako sú letiská a kaviarne.
+spotlight-public-wifi-vpn-primary-button = Ochrániť súkromie pomocou { -mozilla-vpn-brand-name }
+    .accesskey = O
 spotlight-public-wifi-vpn-link = Teraz nie
     .accesskey = T
