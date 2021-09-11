@@ -7,3 +7,7 @@ account-channel-title = Canales predefinite
 chat-encryption-status = Stato de cryptation
 chat-encryption-placeholder = Cryptation non initialisate.
 chat-encryption-sessions = Sessiones
+chat-encryption-session-verify = verificar
+    .title = Verifica le identitate de iste session
+chat-encryption-session-trusted = fidibile
+    .title = Iste session es verificate
