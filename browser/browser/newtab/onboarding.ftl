@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding modal / about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
-## These button action text can be split onto multiple lines, so use explicit
-## newlines in translations to control where the line break appears (e.g., to
-## avoid breaking quoted text).
-
-## Welcome modal dialog strings
-
-
 ### UI strings for the simplified onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -24,31 +12,11 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name }-লৈ স্বাগতম
 onboarding-start-browsing-button-label = ব্ৰাউজ কৰা আৰম্ভ কৰক
-
-## Welcome full page string
-
-
-## Firefox Sync modal dialog strings.
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-## Message strings belonging to the Return to AMO flow
-
 onboarding-not-now-button-label = এতিয়া নহয়
 
 ## Custom Return To AMO onboarding strings
@@ -56,8 +24,23 @@ onboarding-not-now-button-label = এতিয়া নহয়
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-import-primary-button-label = আমদানি আৰম্ভ কৰক
+onboarding-multistage-import-secondary-button-label = এতিয়া নহয়
 
 ## Multistage onboarding strings (about:welcome pages)
+
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = আৰম্ভ কৰা: { $total }টাৰ { $current } নং স্ক্ৰীণ
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = এটা <span data-l10n-name="zap">ৰূপ</span> বাছি লওক
+onboarding-multistage-theme-subtitle = এটা থীমেৰে { -brand-short-name } ব্যক্তিগতকৰণ কৰক।
+onboarding-multistage-theme-primary-button-label2 = হৈ গ'ল
+onboarding-multistage-theme-secondary-button-label = এতিয়া নহয়
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -85,6 +68,6 @@ onboarding-not-now-button-label = এতিয়া নহয়
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
