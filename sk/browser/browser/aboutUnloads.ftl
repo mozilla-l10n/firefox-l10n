@@ -13,6 +13,12 @@ about-unloads-intro-1 =
     systémovej pamäte. Karta, ktorá bude uvoľnená ako ďalšia v poradí, je vybratá
     na základe viacerých atribútov. Táto stránka ukazuje ako { -brand-short-name }
     prioritizuje karty a určuje, ktorá karta sa najbližšie uvoľní.
+about-unloads-intro-2 =
+    Existujúce karty sa v nižšie uvedenej tabuľke zobrazujú v poradí, v akom ich
+    { -brand-short-name } bude podľa potreby uvoľňovať. Identifikátor procesu sa
+    zobrazuje <strong>tučne</strong>, ak je hostiteľom hlavného rámca karty,
+    a <em>kurzívou</em>, ak je proces zdieľaný medzi rôznymi kartami.
+    Uvoľnenie kariet môžete spustiť ručne kliknutím na tlačidlo <em>Uvoľniť</em>.
 about-unloads-last-updated = Naposledy aktualizované: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Uvoľniť
     .title = Uvoľní kartu s najvyššou prioritou
