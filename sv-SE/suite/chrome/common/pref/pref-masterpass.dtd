@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "Om du tar bort ditt huvudlösenord kommer alla dina lagrade webb- och e-post-lösenord, formulärdata, personliga certifikat och hemliga nycklar att tas bort.">
 <!ENTITY  resetpassword.button                   "Ta bort lösenord">
 <!ENTITY  resetpassword.accesskey                "b">
+<!ENTITY  resetpassword2.button                  "Återställ lösenord">
+<!ENTITY  resetpassword2.accesskey               "t">
