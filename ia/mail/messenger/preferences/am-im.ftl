@@ -9,6 +9,7 @@ chat-encryption-description = { $protocol } offere cryptation extremo-a-extremo 
 chat-encryption-status = Stato de cryptation
 chat-encryption-placeholder = Cryptation non initialisate.
 chat-encryption-sessions = Sessiones
+chat-encryption-sessions-description = Proque le cryptation de extremo-a-extremo labora correctemente, tu debe confider in le altere sessiones actualmente connexe a tu conto. Le interaction con un altere application cliente es necesse pro verificar un session. Verificar un session pote ducer a totes le sessiones in que illo confide, pro alsi esser confidite per { -brand-short-name }.
 chat-encryption-session-verify = verificar
     .title = Verifica le identitate de iste session
 chat-encryption-session-trusted = fidibile
