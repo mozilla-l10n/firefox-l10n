@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = Descarga de pestañas
+about-unloads-intro-1 =
+    { -brand-short-name } tiene una función que descarga automáticamente pestañas
+    para evitar que la aplicación falle por falta de memoria
+    cuando la memoria disponible del sistema es baja. La siguiente pestaña que se descargará es
+    elegida en función de múltiples atributos. Esta página muestra cómo
+    { -brand-short-name } prioriza las pestañas y qué pestaña se descargará
+    cuando se active la descarga de pestañas.
 about-unloads-button-unload = Descargar
     .title = Descargar la pestaña con la mayor prioridad
 about-unloads-no-unloadable-tab = No hay pestañas descargables.
