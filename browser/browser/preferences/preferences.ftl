@@ -125,7 +125,7 @@ disable-extension =
     .label = Вимкнути розширення
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
-    .label = Перемикати вкладки з Ctrl+Tab в порядку недавнього їх використання
+    .label = Перемикати вкладки натисканням Ctrl+Tab у порядку недавнього їх використання
     .accesskey = T
 open-new-link-as-tabs =
     .label = Відкривати посилання у вкладках замість нових вікон
@@ -189,7 +189,7 @@ containers-remove-cancel-button = Не вилучати цей контейне�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Мова і зовнішній вигляд
-fonts-and-colors-header = Шрифти і кольори
+fonts-and-colors-header = Шрифти й кольори
 default-font = Типовий шрифт
     .accesskey = ш
 default-font-size = Розмір
