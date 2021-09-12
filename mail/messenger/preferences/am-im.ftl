@@ -9,6 +9,7 @@ chat-encryption-description = { $protocol } koděrowanje kóńć do kóńca za c
 chat-encryption-status = Koděrowański status
 chat-encryption-placeholder = Koděrowanje njejo inicializěrowane.
 chat-encryption-sessions = Pósejźenja
+chat-encryption-sessions-description = Aby koděrowanje kóńc do kóńca kortektnje funkcioněrowało, musyśo drugim pósejźenjam dowěriś, kótarež su tuchylu pla wašogo konta pśizjawjone. Interakcija z drugim klientom jo trjebna, aby pósejźenje pśeglědowała. Pśeglědowanje pósejźenja mógło k tomu wjasć, až wšym pósejźenjam, kótarež dowěrja, { -brand-short-name } teke dowěri.
 chat-encryption-session-verify = pśespytowaś
     .title = Identitu toś togo pósejźenja pśeglědowaś
 chat-encryption-session-trusted = dowěry gódny
