@@ -18,7 +18,11 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
-
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Таваққуф кардан
     .accesskey = Т
@@ -29,32 +33,26 @@ downloads-cmd-cancel =
     .tooltiptext = Бекор кардан
 downloads-cmd-cancel-panel =
     .aria-label = Бекор кардан
-
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Кушодани ҷузвдони дорои файл
     .accesskey = К
-
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Намоиш додан дар ҷӯянда
     .accesskey = Н
-
 downloads-cmd-use-system-default =
     .label = Кушодан дар намоишгари низом
     .accesskey = К
-
 downloads-cmd-always-use-system-default =
     .label = Ҳамеша кушодан дар намоишгари низом
     .accesskey = Ҳ
-
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Намоиш додан дар ҷӯянда
            *[other] Кушодани ҷузвдони дорои файл
         }
-
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -67,7 +65,6 @@ downloads-cmd-show-description =
             [macos] Намоиш додан дар ҷӯянда
            *[other] Кушодани ҷузвдони дорои файл
         }
-
 downloads-cmd-show-downloads =
     .label = Намоиш додани ҷузвдони боргириҳо
 downloads-cmd-retry =
@@ -89,42 +86,33 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Пок кардани боргириҳо
     .accesskey = П
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Иҷозат додани боргирӣ
     .accesskey = И
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Тоза кардани файл
-
 downloads-cmd-remove-file-panel =
     .aria-label = Тоза кардани файл
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Файлро тоза кунед ё барои боргирӣ иҷозат диҳед
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Файлро тоза кунед ё барои боргирӣ иҷозат диҳед
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Файлро кушоед ё тоза намоед
-
 downloads-cmd-choose-open-panel =
     .aria-label = Файлро кушоед ё тоза намоед
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Намоиш додани маълумоти бештар
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -150,33 +138,27 @@ downloading-file-opens-in-some-time = Пас аз анҷоми амал кушо
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Аз нав кӯшиш кардани боргирӣ
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Бекор кардани боргирӣ
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Намоиш додани ҳамаи боргириҳо
     .accesskey = Н
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Тафсилоти боргирӣ
-
 downloads-clear-downloads-button =
     .label = Пок кардани боргириҳо
     .tooltiptext = Боргириҳои иҷрошуда, бекоркардашуда ё қатъшударо пок мекунад
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Ягон боргирӣ нест.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ягон боргирӣ барои ин ҷаласа нест.

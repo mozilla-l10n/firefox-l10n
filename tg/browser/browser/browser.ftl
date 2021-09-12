@@ -672,6 +672,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Кушодани файл
     .tooltiptext = Кушодани файл ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Варақаҳои ҳамоҳангшуда
+    .tooltiptext = Намоиш додани варақаҳо аз дастгоҳҳои дигар
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =

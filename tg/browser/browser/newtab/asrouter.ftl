@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Хусусияти тавсияшуда
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаро ман инро дида истодаам?
-
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Ҳозир илова карда шавад
     .accesskey = Ҳ
-
 cfr-doorhanger-extension-manage-settings-button = Идоракунии танзимоти тавсияшуда
     .accesskey = И
-
 cfr-doorhanger-extension-never-show-recommendation = Ин тавсия дигар нишон дода нашавад
     .accesskey = И
-
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = аз { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Тавсия
 cfr-doorhanger-extension-notification2 = Тавсия
     .tooltiptext = Тавсияи васеъшавӣ
     .a11y-announcement = Тавсияи васеъшавӣ дастрас аст
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Тавсия
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } корбар
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Хатбаракҳои худро дар куҷое, ки набошед, ҳамоҳанг кунед.
@@ -87,50 +77,15 @@ cfr-protections-panel-link-text = Маълумоти бештар
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Хусусияти нав:
-
 cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
-
 cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Ҳамаро дидан
     .accesskey = Ҳ
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Пӯшидан
     .accesskey = П
 
@@ -151,6 +106,7 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header = Барои пахш кардани видео { -brand-short-name }-ро навсозӣ кунед
 cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
     .accesskey = Ҳ
 
@@ -160,5 +116,6 @@ cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ куне
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Чунин менамояд, ки шумо Wi-Fi-и ҷамъиятиро истифода мебаред
 spotlight-public-wifi-vpn-link = Ҳоло не
     .accesskey = Ҳ
