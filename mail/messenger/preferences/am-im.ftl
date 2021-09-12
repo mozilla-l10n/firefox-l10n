@@ -4,3 +4,7 @@
 
 account-settings-title = Impostazioni di autenticazione
 account-channel-title = Canali predefiniti
+chat-encryption-label = Crittografia end-to-end nativa
+chat-encryption-status = Stato della crittografia
+chat-encryption-placeholder = Crittografia non inizializzata.
+chat-encryption-sessions = Sessioni
