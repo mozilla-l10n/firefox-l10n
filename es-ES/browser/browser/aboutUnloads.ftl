@@ -14,6 +14,14 @@ about-unloads-intro-1 =
     elegida en función de múltiples atributos. Esta página muestra cómo
     { -brand-short-name } prioriza las pestañas y qué pestaña se descargará
     cuando se active la descarga de pestañas.
+about-unloads-intro-2 =
+    Las pestañas existentes se muestran en la siguiente tabla en el mismo orden que utiliza
+    { -brand-short-name } para elegir la siguiente pestaña para descargar. Los ID de proceso
+    se muestran en <strong>negrita</strong> cuando contienen el marco superior
+    de la pestaña y en <em>itálica</em> cuando el proceso se comparte entre diferentes
+    pestañas. Puede activar la descarga de pestañas de manera manual haciendo clic en el botón <em>Descargar</em>
+    aquí debajo.
+about-unloads-last-updated = Última actualización: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Descargar
     .title = Descargar la pestaña con la mayor prioridad
 about-unloads-no-unloadable-tab = No hay pestañas descargables.
