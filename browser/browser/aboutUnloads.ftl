@@ -7,8 +7,10 @@
 ### feature.
 
 about-unloads-page-title = Descargament de l’onglet
+about-unloads-last-updated = Darrièra actualizacion : { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Descargar
     .title = Descargar mai la prioritat mai nauta
+about-unloads-no-unloadable-tab = Cap d’onglet de descargar.
 about-unloads-column-priority = Prioritat
 about-unloads-column-host = Òste
 about-unloads-column-last-accessed = Darrièr accès
