@@ -77,6 +77,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا خطایی در هنگام انتقال اطلاعات رُخ داده است.</p><ul><li>لطفاً با صاحبان این پایگاه اینترنتی تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "پذیرش خطر و ادامه">
@@ -99,6 +100,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "صفحهٔ مسدود شده">
+
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "اگر درون یک شبکه سازمانی هستید، می توانید با واحد آی‌تی خود تماس بگیرید.">
 
 
 <!ENTITY prefReset.longDesc "به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟">
