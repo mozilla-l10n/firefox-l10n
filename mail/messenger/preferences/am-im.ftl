@@ -5,9 +5,11 @@
 account-settings-title = Impostazioni di autenticazione
 account-channel-title = Canali predefiniti
 chat-encryption-label = Crittografia end-to-end nativa
+chat-encryption-description = { $protocol } fornisce la crittografia end-to-end per i messaggi di chat. Ciò impedisce a terzi di intercettare una conversazione. Nella sezione successiva potrebbe essere necessario completare ulteriori configurazioni affinché la crittografia sia operativa.
 chat-encryption-status = Stato della crittografia
 chat-encryption-placeholder = Crittografia non inizializzata.
 chat-encryption-sessions = Sessioni
+chat-encryption-sessions-description = Affinché la crittografia end-to-end funzioni correttamente, devi considerare affidabili le altre sessioni che attualmente risultano aperte per il tuo account. Per verificare una sessione è necessario interagire con l’altro client. La verifica di una sessione potrebbe portare { -brand-short-name } a considerare affidabili tutte le sessioni già ritenute affidabili da quel client.
 chat-encryption-session-verify = verifica
     .title = Verifica l’identità di questa sessione
 chat-encryption-session-trusted = attendibile
