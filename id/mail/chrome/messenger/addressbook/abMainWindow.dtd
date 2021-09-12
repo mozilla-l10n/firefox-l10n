@@ -42,6 +42,9 @@
 <!ENTITY editMenu.accesskey                             "h">
 <!ENTITY deleteCmd.label                                "Hapus">
 <!ENTITY deleteAbCmd.label                              "Hapus Buku Alamat">
+<!ENTITY deleteAbCmd.accesskey                          "D">
+<!ENTITY removeAbCmd.label                              "Hapus Buku Alamat">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Hapus Data Kenalan">
 <!ENTITY deleteContactsCmd.label                        "Hapus Data Kenalan">
 <!ENTITY deleteListCmd.label                            "Hapus Daftar">
@@ -129,6 +132,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Hapus">
 <!ENTITY deleteButton2.accesskey                        "H">
+<!ENTITY removeButton.label                             "Hapus">
+<!ENTITY removeButton.accesskey                         "R">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Pilih kolom untuk ditampilkan">
@@ -141,6 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Kirim email">
 <!ENTITY newIM.tooltip                                  "Kirim pesan instan atau chatting">
 <!ENTITY deleteButton2.tooltip                          "Hapus item terpilih">
+<!ENTITY removeButton.tooltip                           "Hapus buku alamat yang dipilih">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nama atau Email">
