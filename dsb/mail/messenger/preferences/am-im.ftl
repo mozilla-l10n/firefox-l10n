@@ -4,3 +4,12 @@
 
 account-settings-title = Awtentificěrowańske nastajenja
 account-channel-title = Standardne kanale
+chat-encryption-label = Natiwne koděrowanje wót kóńca do kóńca
+chat-encryption-description = { $protocol } koděrowanje kóńć do kóńca za chatpowěsći bitujo. To tomu zajźujo, až tśeśe rozgrono wobsłuchuju. Pśidatna konfiguracija jo snaź dołojce trjebna, aby koděrowanje funkcioněrowało.
+chat-encryption-status = Koděrowański status
+chat-encryption-placeholder = Koděrowanje njejo inicializěrowane.
+chat-encryption-sessions = Pósejźenja
+chat-encryption-session-verify = pśespytowaś
+    .title = Identitu toś togo pósejźenja pśeglědowaś
+chat-encryption-session-trusted = dowěry gódny
+    .title = Identita toś togo pósejźenja jo se pśeglědała

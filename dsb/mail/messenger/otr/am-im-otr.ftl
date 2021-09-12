@@ -6,6 +6,7 @@ account-encryption =
     .label = Koděrowanje wót kóńca do kóńca
 account-otr-label = Off-the-Record Messaging (OTR)
 account-otr-description = { -brand-short-name } koděrowanje wót kóńca do kóńca rozgronow mjazy dwěma wósoboma pódpěra. To tomu zajźujo, až tśeśe w rozgronje wótsłuchuju. Koděrowanje wót kóńca do kóńca dajo se jano wužywaś, gaž druga wósoba teke softwaru wužywa, kótaraž OTR pódpěra.
+account-otr-description2 = { -brand-short-name } koděrowanje wót kóńca do kóńca rozgronow mjazy dwěma wósoboma na zakłaźe OTR pódpěra. To tomu zajźujo, až tśeśe w rozgronje wótsłuchuju. Toś ten typ koděrowanja wót kóńca do kóńca dajo se jano wužywaś, gaž druga wósoba teke softwaru wužywa, kótaraž OTR pódpěra.
 otr-encryption-title = Wobkšuśone koděrowanje
 otr-encryption-caption = Aby drugim wósobam zmóžnił, wašu identitu w OTR-chatach pśeglědowaś, źělśo swój palcowy wótśišć OTR z pomocu eksternego komunikaciskego kanala.
 otr-fingerprint-label = Waš palcowy wótśišć:
@@ -15,7 +16,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-nastajenja
 otr-log =
     .label = Skoděrowane OTR-powěsći do rozgronowych protokolow pśiwześ
-
 otr-require-encryption =
     .label = Koděrowanje wót kóńca do kóńca za rozgrona mjazy dwěma wósoboma pominaś
 otr-require-encryption-info =
@@ -24,6 +24,4 @@ otr-require-encryption-info =
     se ako źěl normalnego rozgrona njepokaže daniž njeprotokolěruju.
 otr-verify-nudge =
     .label = Mě pśecej na to dopomniś, njepśeglědany kontakt pśeglědowaś
-
 otr-not-yet-available = njejo hyšći k dispoziciji
-
