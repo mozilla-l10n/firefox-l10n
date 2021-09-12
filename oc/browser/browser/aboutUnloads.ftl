@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Descargament de l’onglet
 about-unloads-button-unload = Descargar
     .title = Descargar mai la prioritat mai nauta
 about-unloads-column-priority = Prioritat
