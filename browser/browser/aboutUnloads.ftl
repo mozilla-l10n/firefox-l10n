@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-no-unloadable-tab = Aucun onglet ne peut être déchargé.
 about-unloads-column-priority = Priorité
 about-unloads-column-host = Hôte
 about-unloads-column-last-accessed = Dernier accès
