@@ -8,3 +8,7 @@ chat-encryption-label = Crittografia end-to-end nativa
 chat-encryption-status = Stato della crittografia
 chat-encryption-placeholder = Crittografia non inizializzata.
 chat-encryption-sessions = Sessioni
+chat-encryption-session-verify = verifica
+    .title = Verifica l’identità di questa sessione
+chat-encryption-session-trusted = attendibile
+    .title = L’identità di questa sessione risulta verificata
