@@ -5,40 +5,32 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = افزونه‌های توصیه شده
+cfr-doorhanger-extension-heading = افزونه‌های پیشنهادی
 cfr-doorhanger-feature-heading = ویژگی پیشنهادی
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = چرا این را می‌بینم
-
 cfr-doorhanger-extension-cancel-button = اکنون نه
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = اکنون اضافه کن
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = مدیریت تنظیمات پیشنهادی
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = این پیشنهاد را به من نشان نده
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = بیشتر بدانید
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = توسط { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصیه
 cfr-doorhanger-extension-notification2 = توصیه
     .tooltiptext = افزونه‌های توصیه شده
     .a11y-announcement = افزونه‌های توصیه شده موجود
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = توصیه
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } کاربر
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = نشانک‌های خود را در هر جایی همگام کنید.
@@ -87,49 +77,15 @@ cfr-protections-panel-link-text = بیشتر بدانید
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ویژگی‌های جدید:
-
 cfr-whatsnew-button =
     .label = تازه‌ها
     .tooltiptext = تازه‌ها
-
 cfr-whatsnew-release-notes-link-text = یادداشت‌های انتشار را بخوانید
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = نمایش همه
     .accesskey = ن
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = بستن
     .accesskey = C
 
