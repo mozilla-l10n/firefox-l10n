@@ -4,3 +4,13 @@
 
 account-settings-title = Authenticatie-instellingen
 account-channel-title = Standaardkanalen
+chat-encryption-label = Ingebouwde end-to-end-versleuteling
+chat-encryption-description = { $protocol } biedt end-to-end-versleuteling voor chatberichten. Hierdoor kunnen derden een gesprek niet afluisteren. Mogelijk zijn hieronder aanvullende instellingen vereist om de versleuteling operationeel te maken.
+chat-encryption-status = Versleutelingsstatus
+chat-encryption-placeholder = Versleuteling niet geïnitialiseerd.
+chat-encryption-sessions = Sessies
+chat-encryption-sessions-description = Om end-to-end-versleuteling correct te laten werken, moet u de andere sessies vertrouwen die momenteel zijn aangemeld bij uw account. Interactie met de andere client is vereist om een sessie te verifiëren. Het verifiëren van een sessie kan ertoe leiden dat alle sessies die het vertrouwt ook worden vertrouwd door { -brand-short-name }.
+chat-encryption-session-verify = verifiëren
+    .title = De identiteit van deze sessie verifiëren
+chat-encryption-session-trusted = vertrouwd
+    .title = De identiteit van deze sessie is geverifieerd

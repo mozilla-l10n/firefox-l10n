@@ -139,10 +139,22 @@ mail-play-sound-label =
 mail-play-button =
     .label = Afspelen
     .accesskey = f
-change-dock-icon = Voorkeuren van het programmasymbool wijzigen
+change-dock-icon =
+    { PLATFORM() ->
+        [macos] Voorkeuren van het programmasymbool wijzigen
+       *[other] Voorkeuren van het taakbalkitem wijzigen
+    }
 app-icon-options =
-    .label = Programmasymboolopties…
-    .accesskey = P
+    .label =
+        { PLATFORM() ->
+            [macos] Programmasymboolopties…
+           *[other] Taakbalkitemopties…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] P
+           *[other] T
+        }
 notification-settings = Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.
 animated-alert-label =
     .label = Een waarschuwing tonen
