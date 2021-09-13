@@ -7,6 +7,10 @@
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Embojuruja pe jokopytykuaa CSS Masonry Layout ipyahúva ndive. Eñe’ẽ <a data-l10n-name="explainer">mba’emimive</a> ndive ereko hag̃ua marandu tembiapoite rehegua. Emondo hag̃ua haipyre, emombe’u <a data-l10n-name="w3c-issue">ko issue GitHub mba’épe</a> térã <a data-l10n-name="bug">ko bug</a>-pe.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS: Cascade Layers
 experimental-features-css-cascade-layers-description = Emyandy CSS Cascade Layers pytyvõhápe g̃uarã. Eporandu <a data-l10n-name="spec">mba’eteete oñemboguatáva</a> erekove hag̃ua mba’emimi. Emombe’u jejavy ejokóvo <a data-l10n-name="bugzilla">bug 1699215</a> bugs peg̃uarã ojokupytýva tembiapoitére.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
