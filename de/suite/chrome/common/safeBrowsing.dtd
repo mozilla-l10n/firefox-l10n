@@ -24,7 +24,7 @@
 <!ENTITY safeb.blocked.harmfulPage.title "Website welche eventuell Schadsoftware enthält blockiert">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; hat die Webseite <span id='harmful_sitename'/> blockiert, da sie versuchen könnte, schädliche Apps zu installieren, welche Ihre Informationen stehlen oder löschen (zum Beispiel Fotos, Passwörter, Nachrichten und Kreditkarteninformationen).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc '""'>
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
 
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Betrugsversuch melden…">
