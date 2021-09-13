@@ -4,3 +4,7 @@
 
 account-settings-title = Paramètres d’authentification
 account-channel-title = Canaux par défaut
+chat-encryption-label = Chiffrement natif de bout en bout
+chat-encryption-status = État du chiffrement
+chat-encryption-placeholder = Le chiffrement n’est pas initialisé.
+chat-encryption-sessions = Sessions
