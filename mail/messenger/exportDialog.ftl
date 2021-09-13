@@ -3,21 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 export-dialog-brand-name = { -brand-product-name }
-
 export-dialog-window =
     .title = Exportar
-
+export-dialog-title = Exportar
 export-dialog =
     .buttonlabelaccept = Siguiente
-
 export-dialog-button-finish = Terminar
-
 export-dialog-file-picker = Exportar a un archivo zip
-
 export-dialog-desc1 = Exportar cuentas de correo, mensajes de correo, libretas de direcciones, preferencias a un archivo zip.
-
 export-dialog-desc2 = Cuando sea necesario, puede importar el archivo zip para restaurar tu perfil.
-
 export-dialog-exporting = Exportar…
-
 export-dialog-exported = ¡Exportado!
