@@ -6,6 +6,7 @@ account-encryption =
     .label = End-to-end-fersifering
 account-otr-label = Off-the-Record-berjochten (OTR)
 account-otr-description = { -brand-short-name } stipet end-to-end-fersifering fan ien-op-ien-petearen. Hjirtroch kinne tredden in petear net ôflústerje. End-to-end-fersifering kin allinnich brûkt wurde as de oar ek software brûkt dy't OTR stipet.
+account-otr-description2 = { -brand-short-name } stipet end-to-end-fersifering fan ien-op-ien-peateren op basis fan OTR. Hjirtroch kinne tredden in petear net ôflústerje. Dit soarte fan end-to-end-fersifering kin allinnich brûkt wurden as de oar ek software brûkt dy't OTR stipet.
 otr-encryption-title = Ferifiearre fersifering
 otr-encryption-caption = Om oaren yn steat te stellen jo identiteit yn OTR-chats te ferifiearjen, diele jo jo eigen OTR-fingerôfdruk yn in ekstern (out-of-band-)kommunikaasjekanaal.
 otr-fingerprint-label = Jo fingerôfdruk:
@@ -15,7 +16,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-ynstellingen
 otr-log =
     .label = OTR-fersifere berjochten yn petearlochboeken opnimme
-
 otr-require-encryption =
     .label = End-to-end-fersifering foar ien-op-ien-petearen fereaskje
 otr-require-encryption-info =
@@ -24,6 +24,4 @@ otr-require-encryption-info =
     wurde net toand as ûnderdiel fan it reguliere petear en ek net registrearre.
 otr-verify-nudge =
     .label = My altyd in omtinken stjoere om in net-ferifiearre kontakt te ferifiearjen
-
 otr-not-yet-available = noch net beskikber
-
