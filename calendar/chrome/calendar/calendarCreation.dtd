@@ -8,7 +8,7 @@
 
 <!ENTITY initialpage.description    "Το ημερολόγιό σας μπορεί να αποθηκευτεί στον υπολογιστή σας ή σε κάποιο διακομιστή ώστε να έχετε πρόσβαση σε αυτό από μακριά ή να το μοιράζεστε με τους φίλους σας και τους συνεργάτες σας." >
 <!ENTITY initialpage.computer.label  "Στον υπολογιστή μου">
-<!ENTITY initialpage.network.label  "Στο διαδίκτυο">
+<!ENTITY initialpage.network.label  "Στο δίκτυο">
 
 <!ENTITY locationpage.description         "Συμπληρώστε τα στοιχεία που χρειάζονται για πρόσβαση στο απομακρυσμένο ημερολόγιό σας" >
 <!ENTITY locationpage.login.description   "Προαιρετικά: εισαγάγετε όνομα χρήστη και κωδικό πρόσβασης" >
@@ -40,7 +40,7 @@
 
 <!ENTITY calendartype.label "Τύπος ημερολογίου:">
 <!ENTITY location.label "Τοποθεσία:">
-<!ENTITY location.placeholder "Διεύθυνση URL ή όνομα διακομιστή του διακομιστή ημερολογίου">
+<!ENTITY location.placeholder "URL ή όνομα κεντρικού υπολογιστή του διακομιστή ημερολογίου">
 
 <!ENTITY network.nocredentials.label "Αυτή η τοποθεσία δεν απαιτεί διαπιστευτήρια">
 <!ENTITY network.loading.description "Παρακαλώ περιμένετε για την ανίχνευση των ημερολογίων σας.">
