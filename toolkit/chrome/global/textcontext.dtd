@@ -8,7 +8,7 @@
 <!ENTITY spellUndoAddToDictionary.accesskey "ν">
 <!ENTITY spellCheckToggle.label "Ορθογραφικός έλεγχος">
 <!ENTITY spellCheckToggle.accesskey "θ">
-<!ENTITY spellNoSuggestions.label "(Δεν υπάρχουν προτάσεις)">
+<!ENTITY spellNoSuggestions.label "(Καμία πρόταση ορθογραφίας)">
 <!ENTITY spellDictionaries.label "Γλώσσες">
 <!ENTITY spellDictionaries.accesskey "λ">
 
