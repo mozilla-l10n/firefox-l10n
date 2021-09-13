@@ -84,6 +84,13 @@ cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хон�
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] Аз санаи { DATETIME($date, month: "long", year: "numeric") } браузери { -brand-short-name } зиёда аз <b>{ $blockedCount }</b> воситаи пайгириро манъ кард!
+    }
 cfr-doorhanger-milestone-ok-button = Ҳамаро дидан
     .accesskey = Ҳ
 cfr-doorhanger-milestone-close-button = Пӯшидан
@@ -91,6 +98,7 @@ cfr-doorhanger-milestone-close-button = Пӯшидан
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Махфияти шумо муҳим аст. Акнун браузери { -brand-short-name } дархостҳои DNS-и шуморо ба хидмати шарик ба таври бехатар интиқол медиҳад, то ки шуморо ҳангоми тамошокунӣ муҳофизат кунад.
 cfr-doorhanger-doh-primary-button-2 = Хуб
     .accesskey = Х
 cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
