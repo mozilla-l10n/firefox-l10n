@@ -201,9 +201,9 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .label = Προσθήκη "{ $engineName }"
-    .tooltiptext = Προσθήκη μηχανής αναζήτησης "{ $engineName }"
-    .aria-label = Προσθήκη μηχανής αναζήτησης "{ $engineName }"
+    .label = Προσθήκη «{ $engineName }»
+    .tooltiptext = Προσθήκη μηχανής αναζήτησης «{ $engineName }»
+    .aria-label = Προσθήκη μηχανής αναζήτησης «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
