@@ -4,15 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Σελιδοδείκτες
-
 sidebar-menu-history =
     .label = Ιστορικό
-
 sidebar-menu-synced-tabs =
     .label = Συγχρονισμένες καρτέλες
-
 sidebar-menu-close =
-    .label = Κλείσιμο πλευρικής γραμμής
-
+    .label = Κλείσιμο πλαϊνής γραμμής
 sidebar-close-button =
     .tooltiptext = Κλείσιμο πλαϊνής γραμμής
