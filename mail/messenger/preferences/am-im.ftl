@@ -4,3 +4,7 @@
 
 account-settings-title = Tunnistautumisen asetukset
 account-channel-title = Oletuskanavat
+chat-encryption-label = Natiivi päästä päähän -salaus
+chat-encryption-status = Salauksen tila
+chat-encryption-placeholder = Salausta ei ole alustettu.
+chat-encryption-sessions = Istunnot
