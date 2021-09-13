@@ -15,3 +15,10 @@
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefPara                            "HTTP-Verbindungen können mit diesen Optionen feineingestelt werden, um Geschwindigkeit oder Kompatibilität zu verbessern. Manche Proxy-Server zum Beispiel benötigen bekannterweise HTTP/1.0 (siehe Release Notes für Details).">
 <!ENTITY prefUseragent.label                 "User-Agent-String">
+<!ENTITY prefFirefoxStrict.label             "Als Firefox ausweisen">
+<!ENTITY prefFirefoxStrict.accesskey         "F">
+<!ENTITY prefFirefoxNone.label               "Als SeaMonkey ohne Firefox Kompatibilität ausweisen">
+<!ENTITY prefFirefoxNone.accesskey           "i">
+<!ENTITY prefFirefoxCompat2.label            "Als SeaMonkey kompatibel mit Firefox ausweisen (Standard)">
+<!ENTITY prefFirefoxCompat2.accesskey        "S">
+<!ENTITY prefCompatWarning2.desc             "WARNUNG: Das Ändern dieser Einstellungen kann dazu führen das Websites oder Funktionen nicht mehr richtig funktionieren.">

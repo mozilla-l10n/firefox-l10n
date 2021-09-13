@@ -19,3 +19,9 @@
 <!ENTITY browseWithCaretWarn.label "Eine Warnung anzeigen, bevor Textcursor-Browsing aktiviert wird">
 <!ENTITY browseWithCaretWarn.accesskey "W">
 
+<!ENTITY modifiers.label "Modifikatortasten">
+<!ENTITY acceleratorKey.label "Tastaturbeschleiniger:">
+<!ENTITY acceleratorKey.accesskey "a">
+<!ENTITY menuAccessKey.label "Zugriffstaste Menü:">
+<!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "Hinweis: Ein Wert von 0 deaktiviert die Modifikationstaste.">
