@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Tabs nur wiederherstellen, wenn sie benötigt werden">
 <!ENTITY restoreDeferred.accesskey      "T">
 
+<!ENTITY siteIcons.label                "Website-Symbole">
+<!ENTITY useSiteIcons.label             "Website-Symbole anzeigen">
+<!ENTITY useSiteIcons.accesskey         "W">
+<!ENTITY useFavIcons.label              "Favicon-Symbol des Servers verwenden, wenn die Seite kein Symbol definiert">
+<!ENTITY useFavIcons.accesskey          "F">
+
 <!ENTITY homePageIntro.label            "Klicken auf die Schaltfläche &quot;Startseite&quot; bringt Sie zu dieser Seite oder Gruppe von Seiten.">
 <!ENTITY useCurrent.label               "Aktuelle Seite">
 <!ENTITY useCurrent.accesskey           "k">

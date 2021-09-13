@@ -27,6 +27,9 @@
 <!ENTITY useHtml.accesskey                    "N">
 <!ENTITY autoQuote.label                      "Originalnachricht beim Antworten automatisch zitieren">
 <!ENTITY autoQuote.accesskey                  "O">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Beim Zitieren">
+<!ENTITY quoting.accesskey                    "Z">
 <!ENTITY aboveQuote.label                     "Antwort über zitiertem Text beginnen">
 <!ENTITY belowQuote.label                     "Antwort unter zitiertem Text beginnen">
 <!ENTITY selectAndQuote.label                 "zitierten Text markieren">
