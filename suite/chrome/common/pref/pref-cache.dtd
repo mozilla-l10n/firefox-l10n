@@ -30,3 +30,8 @@
 <!ENTITY enablePrefetch.label            "Webseiten im Voraus laden, wenn nichts zu tun ist, sodass Links in Webseiten, die für das Laden in Voraus bestimmt sind, schneller geladen werden können">
 <!ENTITY enablePrefetch.accesskey        "V">
 
+<!ENTITY debugCache.label                "Debugeinstellungen">
+<!ENTITY debugEnableMemCache.label       "Speicher Cache aktivieren">
+<!ENTITY debugEnableMemCache.accesskey   "S">
+<!ENTITY debugEnableDiskCache.label      "Platten Cache aktivieren">
+<!ENTITY debugEnableDiskCache.accesskey  "P">
