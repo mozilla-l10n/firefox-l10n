@@ -99,6 +99,7 @@ cfr-doorhanger-milestone-close-button = Пӯшидан
 ## DOH Message
 
 cfr-doorhanger-doh-body = Махфияти шумо муҳим аст. Акнун браузери { -brand-short-name } дархостҳои DNS-и шуморо ба хидмати шарик ба таври бехатар интиқол медиҳад, то ки шуморо ҳангоми тамошокунӣ муҳофизат кунад.
+cfr-doorhanger-doh-header = Ҷустуҷӯҳои DNS-и рамзгузоришуда ва бехатартар
 cfr-doorhanger-doh-primary-button-2 = Хуб
     .accesskey = Х
 cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
