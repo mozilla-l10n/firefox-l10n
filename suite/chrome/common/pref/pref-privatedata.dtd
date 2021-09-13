@@ -7,15 +7,21 @@
 -->
 <!ENTITY pref.privatedata.title           "Private Daten">
 
-
 <!ENTITY clearPrivateData.label           "Private Daten löschen">
 
 <!ENTITY alwaysClear.label                "Private Daten beim Schließen von &brandShortName; immer löschen">
 <!ENTITY alwaysClear.accesskey            "D">
 
+<!--LOCALIZATION NOTE : The askBeforeClear label is
+    no longer used but we might bring it back later
+-->
 <!ENTITY askBeforeClear.label             "Vor dem Löschen von privaten Daten nachfragen">
 
 <!ENTITY clearDataSettings.label          "Wenn SeaMonkey angewiesen wird, private Daten zu löschen, folgende Daten entfernen:">
+
+<!ENTITY clearData.label "Diese privaten Daten löschen:">
+<!ENTITY clearData.cpd.label "Interaktiv">
+<!ENTITY clearData.onShutdown.label "Beim Schließen">
 
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
