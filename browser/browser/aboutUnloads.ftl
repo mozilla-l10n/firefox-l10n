@@ -7,3 +7,5 @@
 ### feature.
 
 about-unloads-page-title = Frigjør fane
+about-unloads-button-unload = Frigjør
+    .title = Frigjør fanen med høyeste prioritet
