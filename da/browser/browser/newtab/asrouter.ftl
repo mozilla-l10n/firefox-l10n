@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Anbefalet udvidelse
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor får jeg vist dette?
-
 cfr-doorhanger-extension-cancel-button = Ikke nu
     .accesskey = I
-
 cfr-doorhanger-extension-ok-button = Tilføj nu
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Vis ikke denne anbefaling
     .accesskey = V
-
 cfr-doorhanger-extension-learn-more-link = Læs mere
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = af { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
 cfr-doorhanger-extension-notification2 = Anbefaling
     .tooltiptext = Anbefalet udvidelse
     .a11y-announcement = Anbefalet udvidelse tilgængelig
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Anbefaling
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brugere
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser dine bogmærker overalt.
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Læs mere
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
-
 cfr-whatsnew-button =
     .label = Nyheder
     .tooltiptext = Nyheder
-
 cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -126,25 +93,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = V
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Luk
     .accesskey = L
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -164,18 +114,6 @@ cfr-doorhanger-fission-primary-button = Ok, forstået
 cfr-doorhanger-fission-secondary-button = Læs mere
     .accesskey = L
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videoer på dette websted afspilles måske ikke korrekt i denne version af { -brand-short-name }. Opdater { -brand-short-name } nu for fuld understøttelse af video.
@@ -189,3 +127,5 @@ cfr-doorhanger-video-support-primary-button = Opdater nu
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-primary-button = Beskyt dit privatliv med { -mozilla-vpn-brand-name }
+    .accesskey = B
