@@ -151,7 +151,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "D">
 <!ENTITY showFolderPaneColsCmd.label "Dizin bölmesi sütunları">
 <!ENTITY showFolderPaneColsCmd.accesskey "B">
-<!ENTITY showMessageCmd.label "İleti Bölmesi">
+<!ENTITY showMessageCmd.label "İleti bölmesi">
 <!ENTITY showMessageCmd.accesskey "B">
 
 <!ENTITY folderView.label "Dizinler">
