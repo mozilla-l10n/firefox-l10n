@@ -14,6 +14,13 @@ about-unloads-intro-1 =
     ojeporavórõ tekome’ẽita rembiapoite rupi. Kuatiarogue ohechauka mba’éichapa
     { -brand-short-name } omotenonde tendayke ha mba’e tendayképa omboguejýta
     hendy rire tendayke mboguejyha.
+about-unloads-intro-2 =
+    Umi tendayke oĩva ojehecháta tenda oipurúvape
+    { -brand-short-name } oiporavo hag̃ua tendayke mboguejyrãme. Tembiaporape ID rapereko
+    ojehechávo <strong>hũva</strong> orekóramo ipype kora tuichavéva
+    tendayke rehegua ha <em>tai’yke</em>-pe tapereko oñemoherakuãrõ heta tendayke
+    pa’ũme. Emyandykuaa tendayke mboguejyha nde poite rupi eikutúvo votõ <em>Mboguejy</em>
+    ko’ápe yvy gotyo.
 about-unloads-last-updated = Mbohekopyahu ramovegua: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Mboguejy
     .title = Emboguejy tendayke pya’eterei
