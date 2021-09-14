@@ -7,7 +7,7 @@
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountName.label "Όνομα λογαριασμού:">
 <!ENTITY accountName.accesskey "ν">
-<!ENTITY identityTitle.label "Ταυτότητα">
+<!ENTITY identityTitle.label "Προεπιλεγμένη ταυτότητα">
 <!ENTITY identityDesc.label "Κάθε λογαριασμός έχει μια ταυτότητα, η οποία αποτελείται από πληροφορίες που βλέπουν οι αναγνώστες των μηνυμάτων σας.">
 <!ENTITY name.label "Το όνομά σας:">
 <!ENTITY name.accesskey "μ">
@@ -24,7 +24,7 @@
 <!ENTITY signatureText.accesskey "μ">
 <!ENTITY signatureHtml.label "Χρήση HTML (π.χ. &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "η">
-<!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο (κείμενο, HTML, ή εικόνα):">
+<!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο (κείμενο, HTML ή εικόνα):">
 <!ENTITY signatureFile.accesskey "ψ">
 <!ENTITY edit.label "Επεξεργασία…">
 <!ENTITY choose.label "Επιλογή…">
