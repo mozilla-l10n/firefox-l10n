@@ -51,7 +51,7 @@ appmenu-menu-button-opened2 =
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
-    .label = Configuración
+    .label = Ajustes
 
 ## Zoom and Fullscreen Controls
 
@@ -77,7 +77,7 @@ appmenu-remote-tabs-notabs = Sin pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Habilitar sincronización de pestañas para ver una lista de pestañás de los otros dispositivos.
 appmenu-remote-tabs-opensettings =
-    .label = Opciones
+    .label = Ajustes
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿Desea ver las pestañas de sus otros dispositivos acá?
@@ -124,9 +124,9 @@ profiler-popup-description-title =
 profiler-popup-description = Colaborá en problemas de rendimiento publicando perfiles para compartir con tu equipo.
 profiler-popup-learn-more = Conocer más
 profiler-popup-settings =
-    .value = Configuración
+    .value = Ajustes
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Editar configuración…
+profiler-popup-edit-settings = Editar Ajustes…
 profiler-popup-disabled =
     El perfilador está desactivado en este momento, muy probablemente debido a una ventana de navegación privada
     que se está abriendo.
