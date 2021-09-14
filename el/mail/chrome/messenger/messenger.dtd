@@ -468,7 +468,7 @@
 <!ENTITY imAccountsStatus.label "Κατάσταση συνομιλίας">
 <!ENTITY imAccountsStatus.accesskey "Κ">
 <!ENTITY imStatus.available          "Διαθέσιμος/-η">
-<!ENTITY imStatus.unavailable        "Μη διαθέσιμος">
+<!ENTITY imStatus.unavailable        "Μη διαθέσιμος/-η">
 <!ENTITY imStatus.offline            "Εκτός σύνδεσης">
 <!ENTITY imStatus.showAccounts       "Εμφάνιση λογαριασμών…">
 <!ENTITY joinChatCmd.label "Συμμετοχή στη συνομιλία…">
@@ -559,7 +559,7 @@
 <!ENTITY replyListButton.tooltip "Απάντηση στη λίστα αλληλογραφίας">
 <!ENTITY forwardButton.tooltip "Προώθηση επιλεγμένου μηνύματος">
 <!ENTITY forwardAsInline.tooltip "Προώθηση επιλεγμένου μηνύματος ως ενσωματωμένου κειμένου">
-<!ENTITY forwardAsAttachment.tooltip "Προώθηση επιλεγμένου μηνύματος ως συνημμένο">
+<!ENTITY forwardAsAttachment.tooltip "Προώθηση επιλεγμένου μηνύματος ως συνημμένου">
 <!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
 <!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
 <!ENTITY openMsgConversationButton.tooltip "Εμφάνιση συζήτησης για το επιλεγμένο μήνυμα">
@@ -742,7 +742,7 @@
 <!ENTITY contextEditMsgAsNew.label "Επεξεργασία ως νέο μήνυμα">
 <!ENTITY contextEditMsgAsNew.accesskey "ω">
 <!ENTITY contextEditDraftMsg.label "Επεξεργασία πρόχειρου μηνύματος">
-<!ENTITY contextEditTemplate.label "Επεξεργασία πρότυπου">
+<!ENTITY contextEditTemplate.label "Επεξεργασία προτύπου">
 <!ENTITY contextEditTemplate.accesskey "Π">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
 <!ENTITY contextArchive.accesskey "χ">
