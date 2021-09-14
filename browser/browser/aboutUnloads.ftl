@@ -8,7 +8,7 @@
 
 about-unloads-page-title = 标签页卸载
 about-unloads-intro-1 = { -brand-short-name } 提供自动卸载标签页的功能，以防止应用程序在系统可用内存较低时，因内存不足而崩溃。标签页的卸载顺序取决于多个属性。此页面显示的是 { -brand-short-name } 如何排序标签页的优先级，以及触发卸载时将卸载哪些标签页。
-about-unloads-intro-2 = 打开的标签页已按 { -brand-short-name } 对其的卸载顺序显示如下。<strong>粗体</strong>显示的进程 ID 表示其在处理标签页的顶层框架；<em>斜体</em>显示的标签页代表其进程在其他不同标签页间共享。您可以点击下方的“<em>卸载</em>”按钮手动触发标签页卸载。
+about-unloads-intro-2 = 打开的标签页已按 { -brand-short-name } 对其的卸载顺序显示如下。<strong>粗体</strong>显示的进程 ID 表示其在处理标签页的顶层框架；<em>斜体 </em>显示的标签页代表其进程在其他不同标签页间共享。您可以点击下方的<em>卸载 </em>按钮手动触发标签页卸载。
 about-unloads-last-updated = 最后更新：{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = 卸载
     .title = 卸载最高优先级的标签页
