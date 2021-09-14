@@ -513,6 +513,16 @@ urlbar-result-action-search-tabs = Search Tabs
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } Suggestions
 
 ## Full Screen and Pointer Lock UI
 
@@ -720,6 +730,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
+edit-popup-settings =
+    .label = Manage pop-up settings…
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Hide Picture-in-Picture Toggle
     .accesskey = H
