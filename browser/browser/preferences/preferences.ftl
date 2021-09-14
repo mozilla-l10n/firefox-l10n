@@ -99,7 +99,7 @@ extension-controlled-enable = Για να ενεργοποιήσετε την ε
 
 search-results-header = Αποτελέσματα αναζήτησης
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Λυπούμαστε! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις ρυθμίσεις.
+search-results-empty-message2 = Δυστυχώς, δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις ρυθμίσεις.
 search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>
 
 ## General Section
@@ -230,7 +230,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Χρησιμοποιήστε τις ρυθμίσεις του συστήματος σας για το “{ $localeName }” για μορφοποίηση ημερομηνίας, ώρας, αριθμών και μετρήσεων.
+    .label = Χρήση ρυθμίσεων λειτουργικού συστήματος για τα «{ $localeName }» για μορφοποίηση ημερομηνίας, ώρας, αριθμών και μετρήσεων.
 check-user-spelling =
     .label = Έλεγχος ορθογραφίας κατά την πληκτρολόγηση
     .accesskey = π
@@ -587,7 +587,7 @@ search-find-more-link = Εύρεση περισσότερων μηχανών α�
 search-keyword-warning-title = Διπλή λέξη-κλειδί
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το “{ $name }”. Παρακαλώ επιλέξτε κάποια άλλη.
+search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το «{ $name }». Παρακαλώ επιλέξτε κάποια άλλη.
 search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από ένα σελιδοδείκτη. Παρακαλώ επιλέξτε κάποια άλλη.
 
 ## Containers Section
