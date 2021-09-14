@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = Emboguejy tendayke
+about-unloads-intro-1 =
+    { -brand-short-name } oreko tembiapoite omboguejývo ijehegui tendayke
+    omboyke hag̃ua tembipuru’i ojavývo sa’ígui imarandurenda
+    pe marandurenda apopyvusugua eipurukuaáva sa’írõ. Pe tendayke upeigua oñemboguejýtava
+    ojeporavórõ tekome’ẽita rembiapoite rupi. Kuatiarogue ohechauka mba’éichapa
+    { -brand-short-name } omotenonde tendayke ha mba’e tendayképa omboguejýta
+    hendy rire tendayke mboguejyha.
 about-unloads-last-updated = Mbohekopyahu ramovegua: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Mboguejy
     .title = Emboguejy tendayke pya’eterei
