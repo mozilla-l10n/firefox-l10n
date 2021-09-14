@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "Για εξοικονόμηση αποθηκευτικού χώρου, να μη λαμβάνονται:">
-<!ENTITY doNotDownloadNntp.label "Για εξοικονόμηση αποθηκευτικού χώρου, να μη λαμβάνονται για εργασία χωρίς σύνδεση:">
-<!ENTITY doNotDownloadImap.label "Για εξοικονόμηση χώρου, μπορείτε να περιορίσετε κατά ημερομηνία ή μέγεθος τη λήψη μηνυμάτων από το διακομιστή, καθώς και τη διατήρηση τοπικών αντιγράφων για εργασία εκτός σύνδεσης.">
+<!ENTITY doNotDownloadPop3Movemail.label "Για εξοικονόμηση χώρου, να μην λαμβάνονται:">
+<!ENTITY doNotDownloadNntp.label "Για εξοικονόμηση χώρου, να μην λαμβάνονται για χρήση εκτός σύνδεσης:">
+<!ENTITY doNotDownloadImap.label "Για εξοικονόμηση χώρου, μπορείτε να περιορίσετε κατά ημερομηνία ή μέγεθος τη λήψη μηνυμάτων από τον διακομιστή, καθώς και τη διατήρηση τοπικών αντιγράφων για χρήση εκτός σύνδεσης.">
 <!ENTITY allFoldersOffline2.label "Διατήρηση των μηνυμάτων όλων των φακέλων αυτού του λογαριασμού, σε αυτό τον υπολογιστή">
 <!ENTITY allFoldersOffline2.accesskey "ο">
 <!ENTITY allFoldersOfflineNote.label "Σημείωση: Η αλλαγή θα επηρεάσει όλους τους φακέλους αυτού του λογαριασμού. Για ορισμό μεμονωμένων φακέλων, κάντε κλικ στο κουμπί «Σύνθετα…».">
@@ -21,7 +21,7 @@
 <!ENTITY nntpDownloadMsg.accesskey "σ">
 <!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στον δίσκο, μπορείτε να διαγράψετε οριστικά τα παλιά μηνύματα.">
 <!ENTITY retentionCleanupImap.label "Για ανάκτηση χώρου, μπορείτε να διαγράψετε οριστικά τα παλιά σας μηνύματα (τοπικά αντίγραφα και πρωτότυπα απομακρυσμένου διακομιστή).">
-<!ENTITY retentionCleanupPop.label "Για εξοικονόμηση αποθηκευτικού χώρου, μπορείτε να διαγράψετε μόνιμα τα παλιά σας μηνύματα μαζί με τα αρχικά μηνύματα στον απομακρυσμένο διακομιστή.">
+<!ENTITY retentionCleanupPop.label "Για ανάκτηση χώρου, μπορείτε να διαγράψετε οριστικά τα παλιά σας μηνύματα, μαζί με τα αρχικά μηνύματα στον απομακρυσμένο διακομιστή.">
 <!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων, παλαιότερων από">
 <!ENTITY retentionKeepMsg.accesskey "μ">
 <!ENTITY retentionKeepAll.label "Να μην γίνει διαγραφή μηνυμάτων">

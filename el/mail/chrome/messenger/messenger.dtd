@@ -166,7 +166,7 @@
 <!ENTITY favoriteFolders.accesskey "γ">
 <!ENTITY recentFolders.label "Πρόσφατοι">
 <!ENTITY recentFolders.accesskey "ρ">
-<!ENTITY compactVersion.label "Συμπτυγμένη όψη">
+<!ENTITY compactVersion.label "Συμπτυγμένη προβολή">
 <!ENTITY compactVersion.accesskey "Σ">
 
 <!-- Sort Menu -->
@@ -369,7 +369,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
 <!ENTITY editDraftMsgCmd.accesskey "χ">
-<!ENTITY editTemplateMsgCmd.label "Επεξεργασία πρότυπου">
+<!ENTITY editTemplateMsgCmd.label "Επεξεργασία προτύπου">
 <!ENTITY editTemplateMsgCmd.accesskey "Π">
 <!ENTITY newMsgFromTemplateCmd.label "Νέο μήνυμα από πρότυπο">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
@@ -467,7 +467,7 @@
 <!ENTITY activitymanager.accesskey "χ">
 <!ENTITY imAccountsStatus.label "Κατάσταση συνομιλίας">
 <!ENTITY imAccountsStatus.accesskey "Κ">
-<!ENTITY imStatus.available          "Διαθέσιμος">
+<!ENTITY imStatus.available          "Διαθέσιμος/-η">
 <!ENTITY imStatus.unavailable        "Μη διαθέσιμος">
 <!ENTITY imStatus.offline            "Εκτός σύνδεσης">
 <!ENTITY imStatus.showAccounts       "Εμφάνιση λογαριασμών…">
