@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Recommended Feature
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Why am I seeing this
-
 cfr-doorhanger-extension-cancel-button = Not Now
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Add Now
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settings
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Don’t Show Me This Recommendation
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Learn more
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = by { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendation
     .a11y-announcement = Extension recommendation available
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommendation
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } users
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sync your bookmarks everywhere.
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Learn more
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = New feature:
-
 cfr-whatsnew-button =
     .label = What’s New
     .tooltiptext = What’s New
-
 cfr-whatsnew-release-notes-link-text = Read the release notes
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -126,25 +93,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = See All
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Close
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -164,18 +114,6 @@ cfr-doorhanger-fission-primary-button = OK, Got it
 cfr-doorhanger-fission-secondary-button = Learn more
     .accesskey = L
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videos on this site may not play correctly on this version of { -brand-short-name }. For full video support, update { -brand-short-name } now.
@@ -189,3 +127,9 @@ cfr-doorhanger-video-support-primary-button = Update Now
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Looks like you’re using public Wi-Fi
+spotlight-public-wifi-vpn-body = To hide your location and browsing activity, consider a Virtual Private Network. It will help keep you protected when browsing in public places like airports and coffee shops.
+spotlight-public-wifi-vpn-primary-button = Stay private with { -mozilla-vpn-brand-name }
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Not Now
+    .accesskey = N
