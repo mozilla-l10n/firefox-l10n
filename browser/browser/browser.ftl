@@ -647,11 +647,11 @@ toolbar-addons-themes-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
-    .label = Configuración
+    .label = Ajustes
     .tooltiptext =
         { PLATFORM() ->
-            [macos] Abrir configuración ({ $shortcut })
-           *[other] Abrir configuración
+            [macos] Abrir Ajustes ({ $shortcut })
+           *[other] Abrir Ajustes
         }
 
 ## More items
@@ -687,7 +687,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Algún audio o video en este sitio usa software con DRM que puede limitar lo que { -brand-short-name } puede permitirle hacer con él.
-eme-notifications-drm-content-playing-manage = Administrar configuraciones
+eme-notifications-drm-content-playing-manage = Administrar ajustes
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Descartar
 eme-notifications-drm-content-playing-dismiss-accesskey = D
