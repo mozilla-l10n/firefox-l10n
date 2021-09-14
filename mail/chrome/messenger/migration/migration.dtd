@@ -7,7 +7,7 @@
 
 <!ENTITY importFromWin.label            "Εισαγωγή επιλογών, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
 <!ENTITY importFromNonWin.label         "Εισαγωγή προτιμήσεων, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
-<!ENTITY importSourceNotFound.label     "Δεν βρέθηκε εφαρμογή από την οποία να μπορεί να γίνει εισαγωγή δεδομένων.">
+<!ENTITY importSourceNotFound.label     "Δεν βρέθηκε εφαρμογή για εισαγωγή δεδομένων.">
 
 <!ENTITY importFromNothing.label        "Χωρίς εισαγωγή">
 <!ENTITY importFromNothing.accesskey    "Χ">
