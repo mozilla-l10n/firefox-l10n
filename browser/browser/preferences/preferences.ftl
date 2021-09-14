@@ -1042,7 +1042,7 @@ collection-studies =
     .label = 允许 { -brand-short-name } 安装并运行一些实验项目
 collection-studies-link = 查看 { -brand-short-name } 在进行的实验
 addon-recommendations =
-    .label = 允许 { -brand-short-name } 提供个性化的扩展推荐
+    .label = 允许 { -brand-short-name } 提供个性化扩展推荐
 addon-recommendations-link = 详细了解
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
