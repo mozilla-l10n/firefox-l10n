@@ -4,3 +4,8 @@
 
 account-settings-title = Nastavenia overenia
 account-channel-title = Predvolené kanály
+chat-encryption-label = Natívne obojstranné šifrovanie
+chat-encryption-description = { $protocol } poskytuje obokstranné šifrovanie pre správy rozhovoru. To zabraňuje tretím stranám odpočúvať konverzáciu. Aby bolo šifrovanie funkčné, nižšie môže byť potrebné ďalšie nastavenie.
+chat-encryption-status = Stav šifrovania
+chat-encryption-placeholder = Šifrovanie nebolo inicializované.
+chat-encryption-sessions = Relácie
