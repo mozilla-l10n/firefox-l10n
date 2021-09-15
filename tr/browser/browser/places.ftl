@@ -121,4 +121,7 @@ places-manage-bookmarks =
     .label = Yer imlerini yönet
     .accesskey = n
 places-forget-about-this-site-confirmation-title = Bu siteyi unut
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Bu işlem; { $hostOrBaseDomain } sitesine ait gezinti geçmişi, parolalar, çerezler, önbellek ve içerik tercihleri de dahil olmak üzere tüm verileri kaldıracaktır. Devam etmek istediğinizden emin misiniz?
 places-forget-about-this-site-forget = Unut
