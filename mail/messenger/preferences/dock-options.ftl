@@ -5,22 +5,19 @@
 dock-options-window-dialog =
     .title = Nastavenia ikony aplikácie
     .style = width: 35em;
-
+dock-options-show-badge =
+    .label = Zobraziť notifikácie na ikone aplikácie
+    .accesskey = f
 bounce-system-dock-icon =
     .label = Animovať ikonu aplikácie po prijatí novej správy
     .accesskey = A
-
 dock-icon-legend = Notifikácie na ikone aplikácie
-
 dock-icon-show-label =
     .value = Na ikonu aplikácie pridať nasledovnú notifikáciu:
-
 count-unread-messages-radio =
     .label = Počet neprečítaných správ
     .accesskey = n
-
 count-new-messages-radio =
     .label = Počet nových správ
     .accesskey = P
-
 notification-settings-info = Notifikácie na ikone aplikácie môžete zrušiť v nastaveniach systému na paneli Notifikácie.
