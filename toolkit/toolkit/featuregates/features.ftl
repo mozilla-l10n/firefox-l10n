@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Makket stipe foar de eksperimint
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade-lagen
+experimental-features-css-cascade-layers-description = Skeakelet stipe foar CSS Cascade Layers yn. Lês de <a data-l10n-name="spec">specificatie-in-wording</a> foar details. Meld bugs dy't <a data-l10n-name="bugzilla">bug 1699215</a> blokkearje foar bugs yn relaasje ta dizze funksje.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
