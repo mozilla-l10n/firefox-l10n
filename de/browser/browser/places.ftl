@@ -117,3 +117,8 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Lesezeichen verwalten
     .accesskey = v
+places-forget-about-this-site-confirmation-title = Diese Website wird vergessen
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Diese Aktion entfernt alle Daten, die sich auf { $hostOrBaseDomain } beziehen, einschließlich Chronik, Passwörter, Cookies, Cache und Inhaltseinstellungen. Sind Sie sicher, dass Sie fortfahren möchten?
+places-forget-about-this-site-forget = Vergessen
