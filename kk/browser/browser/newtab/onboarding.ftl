@@ -121,6 +121,7 @@ mr1-onboarding-default-primary-button-label = Негізгі браузер қы
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Барлығын өзіңізбен бірге алыңыз
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
