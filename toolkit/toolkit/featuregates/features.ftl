@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Aktiviert die Unterstützung fü
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = Aktiviert die Unterstützung für CSS Cascade Layers. Weitere Informationen sind in der <a data-l10n-name="spec">Spezifikation</a> zu finden, die noch in Arbeit ist. Melden Sie Fehler im Zusammenhang mit dieser Funktion als blockierend für <a data-l10n-name="bugzilla">Bug 1699215</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
