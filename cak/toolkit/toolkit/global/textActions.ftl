@@ -40,3 +40,5 @@ text-action-spell-no-suggestions =
 text-action-spell-dictionaries =
     .label = Taq ch'ab'äl
     .accesskey = c
+text-action-search-text-box-clear =
+    .title = Tijosq'ïx
