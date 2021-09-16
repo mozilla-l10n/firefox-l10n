@@ -318,6 +318,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = डाउनलोड
+navbar-overflow =
+    .tooltiptext = बेसी अओजार…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = छापू
+    .tooltiptext = ई पृष्ठ छापू… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = छापू
     .tooltiptext = ई पृष्ठ छापू
