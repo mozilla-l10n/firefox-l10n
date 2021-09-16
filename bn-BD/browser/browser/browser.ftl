@@ -460,6 +460,8 @@ navbar-library =
     .tooltiptext = ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও অনেক কিছু দেখুন
 navbar-search =
     .title = অনুসন্ধান
+navbar-accessibility-indicator =
+    .tooltiptext = প্রবেশগম্যতার ফিচারটি সক্রিয় হয়েছে
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
