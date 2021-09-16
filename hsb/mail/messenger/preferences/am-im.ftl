@@ -4,6 +4,9 @@
 
 account-settings-title = Awtentifikaciske nastajenja
 account-channel-title = Standardne kanale
+chat-encryption-generic = Powšitkowny
+chat-encryption-log =
+    .label = Powěsće zaklučowane kónc do kónca do rozmołwnych protokolow zapřijeć
 chat-encryption-label = Natiwne zaklučowanje wot kónca do kónca
 chat-encryption-description = { $protocol } zaklučowanje kónć do kónca za četowe powěsće skići. To tomu zadźěwa, zo třeći rozmołwu přisłuchuja. Přidatna konfiguracija je snano deleka trěbna, zo by zaklučowanje fungowało.
 chat-encryption-status = Zaklučowanski status:
