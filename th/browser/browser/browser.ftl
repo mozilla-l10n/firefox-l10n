@@ -714,6 +714,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = การดาวน์โหลด
 navbar-overflow =
     .tooltiptext = เครื่องมือเพิ่มเติม…
 # Variables:
@@ -724,8 +726,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = พิมพ์
     .tooltiptext = พิมพ์หน้านี้
+navbar-home =
+    .label = หน้าแรก
+    .tooltiptext = หน้าแรกของ { -brand-short-name }
+navbar-library =
+    .label = ห้องสมุด
+    .tooltiptext = ดูประวัติ, ที่คั่นหน้าที่บันทึกไว้ และอื่น ๆ
 navbar-search =
     .title = ค้นหา
+navbar-accessibility-indicator =
+    .tooltiptext = คุณลักษณะการช่วยการเข้าถึงถูกเปิดใช้งานอยู่
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
