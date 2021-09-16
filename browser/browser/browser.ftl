@@ -733,3 +733,9 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = مخفی کردن تصویر-در-تصویر
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = چاپ
+    .tooltiptext = چاپ کردن این صفحه
