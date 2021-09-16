@@ -496,3 +496,9 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = পিকচার-ইন-পিকচার টগল লুকান
     .accesskey = H
+
+# Navigator Toolbox
+
+tabs-toolbar-list-all-tabs =
+    .label = সব ট্যাবের তালিকা
+    .tooltiptext = সব ট্যাবের তালিকা
