@@ -63,7 +63,6 @@ search-one-offs-context-open-new-tab =
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
-
 identity-learn-more =
     .value = Aiyo onóde
 identity-enable-mixed-content-blocking =
@@ -90,6 +89,7 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+
 ## WebRTC window or screen share tab switch warning
 
 
@@ -100,7 +100,6 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
-
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 
@@ -170,3 +169,16 @@ ui-tour-info-panel-close =
 
 ##
 
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Yúnua
+navbar-print-tab-modal-disabled =
+    .label = Rábe fɨnoraɨma
+    .tooltiptext = Bíe Rábe fɨno
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Mákara úitɨraɨ
