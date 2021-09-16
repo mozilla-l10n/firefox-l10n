@@ -740,3 +740,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Приховати перемикач Зображення в зображенні
     .accesskey = х
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Нова вкладка
