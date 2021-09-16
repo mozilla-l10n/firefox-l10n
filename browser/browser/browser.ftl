@@ -716,3 +716,6 @@ picture-in-picture-hide-toggle =
 
 tabs-toolbar-new-tab =
     .label = แท็บใหม่
+tabs-toolbar-list-all-tabs =
+    .label = แสดงรายการแท็บทั้งหมด
+    .tooltiptext = แสดงรายการแท็บทั้งหมด
