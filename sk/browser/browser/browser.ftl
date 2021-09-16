@@ -748,6 +748,16 @@ picture-in-picture-hide-toggle =
 
 navbar-overflow =
     .tooltiptext = Ďalšie nástroje…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Tlačiť
+    .tooltiptext = Umožní vytlačiť túto stránku… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Tlačiť
+    .tooltiptext = Umožní vytlačiť túto stránku
+navbar-search =
+    .title = Vyhľadávanie
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
