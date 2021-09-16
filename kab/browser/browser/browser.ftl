@@ -742,5 +742,7 @@ picture-in-picture-hide-toggle =
 navbar-print-tab-modal-disabled =
     .label = Siggez
     .tooltiptext = Siggez asebtar-a
+navbar-search =
+    .title = Nadi
 tabs-toolbar-new-tab =
     .label = Iccer amaynut
