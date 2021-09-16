@@ -748,3 +748,6 @@ navbar-search =
     .title = Søk
 tabs-toolbar-new-tab =
     .label = Ny fane
+tabs-toolbar-list-all-tabs =
+    .label = Vis liste over alle faner
+    .tooltiptext = Vis liste over alle faner
