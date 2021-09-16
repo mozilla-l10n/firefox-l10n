@@ -17,7 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecciona totes les pestanyes
     .accesskey = t
-
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -25,21 +24,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Torna a obrir les pestanyes tancades
         }
     .accesskey = o
-
 toolbar-context-menu-manage-extension =
     .label = Gestiona l'extensió
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Elimina l'extensió
     .accesskey = l
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Informa sobre l'extensió
     .accesskey = o
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -58,7 +54,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Personalitza la barra d'eines…
     .accesskey = P
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Mostra sempre
     .accesskey = M
@@ -68,7 +63,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Mostra només en una pestanya nova
     .accesskey = o
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostra «Altres adreces d'interés»
     .accesskey = M
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Barra de menú
+    .accesskey = m
