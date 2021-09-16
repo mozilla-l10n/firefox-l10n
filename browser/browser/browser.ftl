@@ -431,6 +431,13 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = Alatan seterusnya…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Cetak
+    .tooltiptext = Cetak laman ini… ({ $shortcut })
 tabs-toolbar-new-tab =
     .label = Tab Baru
 tabs-toolbar-list-all-tabs =
