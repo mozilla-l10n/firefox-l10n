@@ -753,6 +753,9 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Presi
     .tooltiptext = Presi ĉi tiun paĝon
+navbar-home =
+    .label = Eka paĝo
+    .tooltiptext = Eka paĝo de { -brand-short-name }
 navbar-search =
     .title = Serĉi
 # Name for the tabs toolbar as spoken by screen readers. The word
