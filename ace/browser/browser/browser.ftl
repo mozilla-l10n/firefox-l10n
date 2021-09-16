@@ -232,3 +232,6 @@ navbar-search =
     .title = Mita
 tabs-toolbar-new-tab =
     .label = Tab Barô
+tabs-toolbar-list-all-tabs =
+    .label = Peudapeuta ban dum tab
+    .tooltiptext = Peudapeuta ban dum tab
