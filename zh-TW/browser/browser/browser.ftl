@@ -739,5 +739,9 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = 下載
+navbar-search =
+    .title = 搜尋
 tabs-toolbar-new-tab =
     .label = 開新分頁
