@@ -397,9 +397,18 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
+navbar-overflow =
+    .tooltiptext = ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = ಮುದ್ರಿಸು
+    .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸಿ… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = ಮುದ್ರಿಸು
     .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು
+tabs-toolbar-new-tab =
+    .label = ಹೊಸ ಹಾಳೆ
 tabs-toolbar-list-all-tabs =
     .label = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು
     .tooltiptext = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು
