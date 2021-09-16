@@ -522,5 +522,35 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigatsioon
+navbar-downloads =
+    .label = Allalaadimised
+navbar-overflow =
+    .tooltiptext = Rohkem tööriistu…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Prindi
+    .tooltiptext = Prindi see leht… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Prindi
+    .tooltiptext = Prindi see leht
+navbar-home =
+    .label = Kodu
+    .tooltiptext = { -brand-short-name }i avaleht
+navbar-library =
+    .label = Kogumik
+    .tooltiptext = Vaata ajalugu, salvestatud järjehoidjaid ja muid asju
+navbar-search =
+    .title = Otsi
 navbar-accessibility-indicator =
     .tooltiptext = Hõlbustus on lubatud
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Brauseri kaartide
+tabs-toolbar-new-tab =
+    .label = Uus kaart
+tabs-toolbar-list-all-tabs =
+    .label = Näita kõigi kaartide nimekirja
+    .tooltiptext = Näita kõigi kaartide nimekirja
