@@ -306,6 +306,8 @@ ui-tour-info-panel-close =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = आ़तुर आंड़गो
 navbar-overflow =
     .tooltiptext = बड़ती  टुल…
 # Variables:
@@ -316,6 +318,8 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = छापा
     .tooltiptext = नोवा साहटा छापाय मे
+tabs-toolbar-new-tab =
+    .label = नावा टैब
 tabs-toolbar-list-all-tabs =
     .label = जोतो टैब को सुची मे
     .tooltiptext = जोतो टैब को सुची मे
