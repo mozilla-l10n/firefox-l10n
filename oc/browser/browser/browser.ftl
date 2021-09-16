@@ -744,7 +744,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Telecargaments
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir aquesta pagina
 navbar-search =
     .title = Recercar
 tabs-toolbar-new-tab =
     .label = Onglet novèl
+tabs-toolbar-list-all-tabs =
+    .label = Far la lista de totes los onglets
+    .tooltiptext = Far la lista de totes los onglets
