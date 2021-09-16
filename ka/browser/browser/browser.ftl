@@ -736,3 +736,10 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = ეკრანი-ეკრანში გადამრთველის დამალვა
     .accesskey = ე
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ჩამოტვირთვები
+navbar-search =
+    .title = ძიება
