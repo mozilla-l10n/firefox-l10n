@@ -741,6 +741,8 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Downloads
+navbar-overflow =
+    .tooltiptext = Mais ferramentas…
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir a página
