@@ -360,3 +360,14 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Musa ukubonisa lo myalezo xa kunqandiwe okuzivelelayo
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Okukhutshelwayo
+navbar-print-tab-modal-disabled =
+    .label = Printa
+    .tooltiptext = Printa eli phepha
+tabs-toolbar-list-all-tabs =
+    .label = Dwelisa zonke iithebhu
+    .tooltiptext = Dwelisa zonke iithebhu
