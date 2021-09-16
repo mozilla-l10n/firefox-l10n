@@ -245,6 +245,8 @@ navbar-overflow =
 navbar-print-tab-modal-disabled =
     .label = Keey loo yets
     .tooltiptext = Kee loo yets loo ree
+navbar-search =
+    .title = KwàɁn
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
