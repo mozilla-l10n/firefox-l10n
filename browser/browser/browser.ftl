@@ -742,6 +742,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Ofdrukke
+    .tooltiptext = Dizze side ôfdrukke… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Ofdrukke
     .tooltiptext = Dizze side ôfdrukke
