@@ -721,3 +721,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة
     .accesskey = خ
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = لسان جديد
