@@ -431,5 +431,17 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ទាញ​យក
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = បោះពុម្ព
+    .tooltiptext = បោះពុម្ព​ទំព័រ​នេះ… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = បោះពុម្ព
+    .tooltiptext = បោះពុម្ព​ទំព័រ​នេះ
 navbar-search =
     .title = ស្វែងរក
+tabs-toolbar-new-tab =
+    .label = ផ្ទាំង​ថ្មី
