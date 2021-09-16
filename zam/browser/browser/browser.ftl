@@ -235,3 +235,23 @@ ui-tour-info-panel-close =
 
 ##
 
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Koo blaal
+navbar-overflow =
+    .tooltiptext = Loo ree yibb...
+navbar-print-tab-modal-disabled =
+    .label = Keey loo yets
+    .tooltiptext = Kee loo yets loo ree
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Gua let lo loo
+tabs-toolbar-new-tab =
+    .label = Xhal loo kub
+tabs-toolbar-list-all-tabs =
+    .label = Loo ree taa loo
+    .tooltiptext = Loo ree taa loo
