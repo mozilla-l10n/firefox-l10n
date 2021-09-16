@@ -746,3 +746,6 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Imprimir a página
 tabs-toolbar-new-tab =
     .label = Nova aba
+tabs-toolbar-list-all-tabs =
+    .label = Listar todas as abas
+    .tooltiptext = Listar todas as abas
