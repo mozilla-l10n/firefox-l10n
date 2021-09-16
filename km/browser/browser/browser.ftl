@@ -443,8 +443,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = បោះពុម្ព
     .tooltiptext = បោះពុម្ព​ទំព័រ​នេះ
+navbar-library =
+    .label = បណ្ណាល័យ
+    .tooltiptext = មើលប្រវត្តិ ចំណាំដែលបានរក្សាទុក និងច្រើនទៀត
 navbar-search =
     .title = ស្វែងរក
+navbar-accessibility-indicator =
+    .tooltiptext = បានបើក​មុខងារ​ភាពងាយស្រួលចូលប្រើ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
