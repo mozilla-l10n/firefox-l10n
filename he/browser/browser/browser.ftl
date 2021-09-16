@@ -751,6 +751,13 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = הדפסת דף זה
 navbar-search =
     .title = חיפוש
+navbar-accessibility-indicator =
+    .tooltiptext = תכונות נגישות מופעלות
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = לשוניות הדפדפן
 tabs-toolbar-new-tab =
     .label = לשונית חדשה
 tabs-toolbar-list-all-tabs =
