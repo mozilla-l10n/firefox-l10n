@@ -741,11 +741,26 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Downloads
+navbar-overflow =
+    .tooltiptext = Mehr Werkzeuge…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Drucken
+    .tooltiptext = Diese Seite drucken… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Drucken
     .tooltiptext = Diese Seite drucken
+navbar-home =
+    .label = Startseite
+    .tooltiptext = { -brand-short-name }-Startseite
+navbar-library =
+    .label = Bibliothek
+    .tooltiptext = Öffnen von Chronik, Lesezeichen und mehr
 navbar-search =
     .title = Suchen
+navbar-accessibility-indicator =
+    .tooltiptext = Funktionen für Barrierefreiheit aktiviert
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
