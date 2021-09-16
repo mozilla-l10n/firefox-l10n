@@ -426,3 +426,38 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ལེན་འཇུག
+navbar-overflow =
+    .tooltiptext = ལག་ཆ་གཞན…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = པར་འདེབས
+    .tooltiptext = དྲ་ངོས་འདི་པར་འདེབས… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = པར་འདེབས
+    .tooltiptext = དྲ་ངོས་འདི་པར་འདེབས
+navbar-home =
+    .label = གཅོ་ངོས
+    .tooltiptext = { -brand-short-name } ཡི་གཙོ་ངོས
+navbar-library =
+    .label = གསོག་མཛོད
+    .tooltiptext = ཟིན་ཐོ་དང་ཉར་ཚགས་བྱས་པའི་ཡིག་རྟགས་སོགས་ལ་ལྟ་བ
+navbar-search =
+    .title = འཚོལ་བཤེར
+navbar-accessibility-indicator =
+    .tooltiptext = Accessibility Features Enabled
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Browser tabs
+tabs-toolbar-new-tab =
+    .label = ཡན་ལག་ངོས་གསར་བ
+tabs-toolbar-list-all-tabs =
+    .label = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
+    .tooltiptext = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ

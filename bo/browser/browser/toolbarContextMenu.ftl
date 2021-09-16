@@ -17,14 +17,12 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ཡན་ལག་ངོས་ཡོངས་གདམ་པ
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = ཟུར་སྣོན་དོ་དམ་བྱེད་པ
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = ཟུར་སྣོན་བསུབ་པ
     .accesskey = v
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -37,4 +35,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = རང་མོས་སྒྲིག་འགོད…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = གདམ་ཐོའི་ངོས
+    .accesskey = M
