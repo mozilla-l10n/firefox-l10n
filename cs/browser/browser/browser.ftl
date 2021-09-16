@@ -797,10 +797,30 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigace
 navbar-downloads =
     .label = Stahování
 navbar-overflow =
     .tooltiptext = Další nástroje…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Vytisknout
+    .tooltiptext = Vytiskne tuto stránku… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Vytisknout
+    .tooltiptext = Vytiskne tuto stránku
+navbar-home =
+    .label = Domů
+    .tooltiptext = Otevře domovskou stránku aplikace { -brand-short-name }
+navbar-search =
+    .title = Vyhledávací pole
+navbar-accessibility-indicator =
+    .tooltiptext = Funkce pro podporu přístupnosti povoleny
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
