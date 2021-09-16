@@ -633,6 +633,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = اس صفحہ کو چھاپیں
 navbar-search =
     .title = تلاش
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = براؤزر ٹیبز
 tabs-toolbar-new-tab =
     .label = نیا ٹیب
 tabs-toolbar-list-all-tabs =
