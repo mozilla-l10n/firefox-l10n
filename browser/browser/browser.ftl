@@ -722,5 +722,22 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Deskargak
+navbar-overflow =
+    .tooltiptext = Tresna gehiago…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Inprimatu
+    .tooltiptext = Inprimatu orri hau… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Inprimatu
+    .tooltiptext = Inprimatu orri hau
+navbar-search =
+    .title = Bilatu
 tabs-toolbar-new-tab =
     .label = Fitxa berria
+tabs-toolbar-list-all-tabs =
+    .label = Zerrendatu fitxa guztiak
+    .tooltiptext = Zerrendatu fitxa guztiak
