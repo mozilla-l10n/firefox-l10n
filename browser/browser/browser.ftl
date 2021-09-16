@@ -746,6 +746,8 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Gezinme
+navbar-downloads =
+    .label = İndirilenler
 navbar-overflow =
     .tooltiptext = Daha fazla araç…
 # Variables:
