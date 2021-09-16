@@ -364,6 +364,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Zumandiyaney
+navbar-overflow =
+    .tooltiptext = Goyjinay tontoney…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Kar
+    .tooltiptext = Moɲoo woo kar… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Kar
     .tooltiptext = Moɲoo woo kar
+navbar-search =
+    .title = Ceeci
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Ceecikaw kanjey
+tabs-toolbar-new-tab =
+    .label = Kanji taaga
+tabs-toolbar-list-all-tabs =
+    .label = Kanjey kul šeedandi
+    .tooltiptext = Kanjey kul šeedandi
