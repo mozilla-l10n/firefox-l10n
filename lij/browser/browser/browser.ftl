@@ -465,6 +465,11 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Descaregamenti
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Stanpa
+    .tooltiptext = Stanpa sta pagina… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Stanpa
     .tooltiptext = Stanpa questa pagina
