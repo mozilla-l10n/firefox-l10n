@@ -366,3 +366,13 @@ ui-tour-info-panel-close =
 popups-infobar-dont-show-message =
     .label = ບໍສະແດງຂໍ້ຄວາມນີ້ເມື່ອປັອບອັບບໍໄດ້ຮັບການບັອກ
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-search =
+    .title = ຊອກຫາ
+tabs-toolbar-new-tab =
+    .label = ແທັບໃຫມ່
+tabs-toolbar-list-all-tabs =
+    .label = ສະແດງລາຍຊື່ແຖບທັງໝົດ
+    .tooltiptext = ສະແດງລາຍຊື່ແຖບທັງໝົດ
