@@ -748,6 +748,8 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = ਪਰਿੰਟ ਕਰੋ
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
+navbar-search =
+    .title = ਖੋਜ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
