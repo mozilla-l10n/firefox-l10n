@@ -736,3 +736,14 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Απόκρυψη διακόπτη εικόνας εντός εικόνας
     .accesskey = Α
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Λήψεις
+navbar-overflow =
+    .tooltiptext = Περισσότερα εργαλεία…
+navbar-search =
+    .title = Αναζήτηση
+tabs-toolbar-new-tab =
+    .label = Νέα καρτέλα
