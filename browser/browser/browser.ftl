@@ -761,3 +761,6 @@ navbar-search =
 # in the string
 tabs-toolbar =
     .aria-label = Onglets du navigateur
+tabs-toolbar-list-all-tabs =
+    .label = Lister tous les onglets
+    .tooltiptext = Lister tous les onglets
