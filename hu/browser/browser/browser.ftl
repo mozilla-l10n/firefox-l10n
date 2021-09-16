@@ -739,3 +739,13 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Kép a képben kapcsoló elrejtése
     .accesskey = r
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Letöltések
+navbar-print-tab-modal-disabled =
+    .label = Nyomtatás
+    .tooltiptext = Oldal kinyomtatása
+tabs-toolbar-new-tab =
+    .label = Új lap
