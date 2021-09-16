@@ -435,3 +435,25 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nerādīt šo paziņojumu, bloķējot jaunos logus
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Lejupielādes
+navbar-overflow =
+    .tooltiptext = Citi rīki…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Drukāt
+    .tooltiptext = Drukāt šo lapu… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Drukāt
+    .tooltiptext = Drukāt šo lapu
+navbar-search =
+    .title = Meklēt
+tabs-toolbar-new-tab =
+    .label = Jauna cilne
+tabs-toolbar-list-all-tabs =
+    .label = Visu ciļņu saraksts
+    .tooltiptext = Visu ciļņu saraksts
