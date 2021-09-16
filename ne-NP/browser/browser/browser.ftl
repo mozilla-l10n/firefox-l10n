@@ -403,3 +403,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पप-अपहरू रोकिएका बेलामा यो सन्देश नदेखाउनुहोस्
     .accesskey = D
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = नयाँ ट्याब
