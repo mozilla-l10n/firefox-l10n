@@ -743,6 +743,11 @@ navbar-downloads =
     .label = ჩამოტვირთვები
 navbar-search =
     .title = ძიება
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ბრაუზერის ჩანართები
 tabs-toolbar-new-tab =
     .label = ახალი ჩანართი
 tabs-toolbar-list-all-tabs =
