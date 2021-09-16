@@ -719,3 +719,43 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Skryj szalter ôbrazu we ôbrozie
     .accesskey = S
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Nawigacyjo
+navbar-downloads =
+    .label = Pobiyranie
+navbar-overflow =
+    .tooltiptext = Wiyncyj noczyń…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Durkuj
+    .tooltiptext = Durkuj ta strōna… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Durkuj
+    .tooltiptext = Durkuj ta strōna
+navbar-home =
+    .label = Dōmowo strōna
+    .tooltiptext = Dōmowo strōna { -brand-short-name }
+navbar-library =
+    .label = Bibliotyka
+    .tooltiptext = Pokoż historyjo, spamiyntane zokłodki i inksze
+navbar-search =
+    .title = Szukej
+navbar-accessibility-indicator =
+    .tooltiptext = Funkcyje dostympu sōm załōnczōne
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Karty przeglōndarki
+tabs-toolbar-new-tab =
+    .label = Nowo karta
+tabs-toolbar-list-all-tabs =
+    .label = Wykoz wszyskich kart
+    .tooltiptext = Wykoz wszyskich kart
