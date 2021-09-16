@@ -740,3 +740,6 @@ navbar-downloads =
     .label = ਡਾਊਨਲੋਡ
 tabs-toolbar-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
+tabs-toolbar-list-all-tabs =
+    .label = ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ
+    .tooltiptext = ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ
