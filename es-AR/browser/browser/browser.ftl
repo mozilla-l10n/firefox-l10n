@@ -742,6 +742,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navegación
 navbar-downloads =
     .label = Descargas
 navbar-overflow =
@@ -754,6 +759,9 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir esta página
+navbar-home =
+    .label = Inicio
+    .tooltiptext = Página de inicio de { -brand-short-name }
 navbar-library =
     .label = Biblioteca
     .tooltiptext = Ver historial, marcadores guardados y más
