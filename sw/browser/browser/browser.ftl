@@ -216,6 +216,8 @@ navbar-downloads =
 navbar-print-tab-modal-disabled =
     .label = Chapisha
     .tooltiptext = Chapisha ukurasa huu
+navbar-search =
+    .title = Tafuta
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
