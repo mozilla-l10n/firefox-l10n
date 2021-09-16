@@ -760,6 +760,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Llwytho i Lawr
+navbar-overflow =
+    .tooltiptext = Rhagor o offer…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Argraffu
+    .tooltiptext = Argraffu'r dudalen… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Argraffu
     .tooltiptext = Argraffu'r dudalen
