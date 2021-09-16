@@ -400,3 +400,6 @@ navbar-downloads =
 navbar-print-tab-modal-disabled =
     .label = ಮುದ್ರಿಸು
     .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು
+tabs-toolbar-list-all-tabs =
+    .label = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು
+    .tooltiptext = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು

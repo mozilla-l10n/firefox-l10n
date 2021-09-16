@@ -5,7 +5,6 @@
 toolbar-context-menu-reload-selected-tabs =
     .label = ಆಯ್ದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು
     .accesskey = R
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -18,4 +17,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = ಮೆನು ಪಟ್ಟಿಕೆ
+    .accesskey = M
