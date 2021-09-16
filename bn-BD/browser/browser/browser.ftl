@@ -437,3 +437,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = পপ-আপ রোধ করা হলে এই বার্তাটি প্রদর্শন করা হবে না
     .accesskey = D
+
+# Navigator Toolbox
+
+tabs-toolbar-list-all-tabs =
+    .label = সব ট্যাবের তালিকা
+    .tooltiptext = সব ট্যাবের তালিকা
