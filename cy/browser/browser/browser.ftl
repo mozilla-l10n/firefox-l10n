@@ -758,6 +758,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Llwytho i Lawr
 navbar-print-tab-modal-disabled =
     .label = Argraffu
     .tooltiptext = Argraffu'r dudalen
