@@ -736,3 +736,15 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Dölj bild-i-bild växling
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Filhämtaren
+navbar-print-tab-modal-disabled =
+    .label = Skriv ut
+    .tooltiptext = Skriv ut denna sida
+navbar-search =
+    .title = Sök
+tabs-toolbar-new-tab =
+    .label = Ny flik
