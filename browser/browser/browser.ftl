@@ -407,6 +407,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
+navbar-overflow =
+    .tooltiptext = കൂടുതല്‍ പ്രയോഗങ്ങള്‍...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = പ്രിന്റ് ചെയ്യുക
+    .tooltiptext = ഈ താള്‍ പ്രിന്റ് ചെയ്യുക… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ അച്ചടിക്കുക
