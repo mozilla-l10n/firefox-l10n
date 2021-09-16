@@ -759,5 +759,15 @@ navbar-home =
     .tooltiptext = Asebter agejdan { -brand-short-name }
 navbar-search =
     .title = Nadi
+navbar-accessibility-indicator =
+    .tooltiptext = Timahilin n unekcum remdent
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Accaren n yiminig
 tabs-toolbar-new-tab =
     .label = Iccer amaynut
+tabs-toolbar-list-all-tabs =
+    .label = Bder akk accaren
+    .tooltiptext = Bder akk accaren
