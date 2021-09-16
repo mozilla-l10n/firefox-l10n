@@ -220,3 +220,13 @@ ui-tour-info-panel-close =
 
 ##
 
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Beureukaih teukeubah
+navbar-home =
+    .label = Ônkeuë
+    .tooltiptext = Ônkeuë { -brand-short-name }
+tabs-toolbar-new-tab =
+    .label = Tab Barô
