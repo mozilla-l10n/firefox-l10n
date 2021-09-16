@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Jirhinhakurhipantani)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Jirhinhakurhipantani)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Jirhinhakurhipantani)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Jirhinhakurhipantani)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,8 +64,6 @@ browser-main-window-title = { -brand-full-name }
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -102,9 +98,11 @@ browser-window-minimize-button =
 
 ## Tab actions
 
+
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -122,7 +120,6 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Mójtakuni ma iorhukua:
-
 urlbar-go-button =
     .tooltiptext = Arhistatsperakuecharhu motsi
 
@@ -137,10 +134,12 @@ urlbar-go-button =
 
 ## Labels shown above groups of urlbar results
 
+
 ## Full Screen and Pointer Lock UI
 
 
 ## Subframe crash notification
+
 
 ## Bookmarks panels, menus and toolbar
 
@@ -148,7 +147,6 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Xarhatani sánderu kuirunharitarakuecha
 bookmarks-sidebar-content =
     .aria-label = Kuirunharitarakuecha
-
 bookmarks-toolbar-menu =
     .label = T'antsïratarakuaecha
 bookmarks-toolbar-placeholder =
@@ -161,9 +159,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -173,16 +174,35 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+
 ## Password save/update panel
+
 
 ## Add-on removal warning
 
+
 ## Remote / Synced tabs
 
+
 ##
+
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+
 ##
 
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Anchitarakua keskukuecha
+navbar-print-tab-modal-disabled =
+    .label = Uéchantaa
+    .tooltiptext = Ini karakatani uechatantsï
+tabs-toolbar-new-tab =
+    .label = Jimbanhi iorhukua
+tabs-toolbar-list-all-tabs =
+    .label = Xarhatani iámenduecha ma iorhukua
+    .tooltiptext = Xarhatani iámenduecha ma iorhukua

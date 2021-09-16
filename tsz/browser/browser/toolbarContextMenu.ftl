@@ -5,4 +5,6 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Peerakurhini…
     .accesskey = P
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Anchikurhitecha
+    .accesskey = A
