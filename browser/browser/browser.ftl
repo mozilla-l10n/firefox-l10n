@@ -735,6 +735,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Điều hướng
 navbar-overflow =
     .tooltiptext = Thêm công cụ...
 # Variables:
@@ -745,6 +750,12 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = In
     .tooltiptext = In trang này
+navbar-home =
+    .label = Trang chủ
+    .tooltiptext = { -brand-short-name } Trang Chủ
+navbar-library =
+    .label = Thư viện
+    .tooltiptext = Xem lịch sử, dấu trang đã lưu và nhiều hơn nữa
 navbar-search =
     .title = Tìm kiếm
 navbar-accessibility-indicator =
