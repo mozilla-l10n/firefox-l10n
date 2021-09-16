@@ -461,3 +461,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Avtomatik açılan pəncərələr bloklananda bu mesajı göstərmə
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-search =
+    .title = Axtar
+tabs-toolbar-list-all-tabs =
+    .label = Bütün vərəqləri siyahıla
+    .tooltiptext = Bütün vərəqləri siyahıla
