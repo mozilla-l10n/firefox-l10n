@@ -332,3 +332,13 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ପପ୍-ଅପ୍ ଗୁଡ଼ିକୁ ଅଟକାଯାଇଥିବା ସମୟରେ ଏହି ସନ୍ଦେଶକୁ ଦର୍ଶାନ୍ତୁ ନାହିଁ
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ଆହରଣଗୁଡ଼ିକ
+navbar-print-tab-modal-disabled =
+    .label = ମୁଦ୍ରଣ କରନ୍ତୁ
+    .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ
+tabs-toolbar-new-tab =
+    .label = ନୂତନ ଟ୍ୟାବ
