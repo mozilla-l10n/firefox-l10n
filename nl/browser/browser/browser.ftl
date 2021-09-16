@@ -754,10 +754,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Afdrukken
     .tooltiptext = Deze pagina afdrukken
+navbar-home =
+    .label = Startpagina
+    .tooltiptext = { -brand-short-name }-startpagina
+navbar-library =
+    .label = Bibliotheek
+    .tooltiptext = Geschiedenis, opgeslagen bladwijzers en meer bekijken
 navbar-search =
     .title = Zoeken
+navbar-accessibility-indicator =
+    .tooltiptext = Toegankelijkheidsfuncties ingeschakeld
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Browsertabbladen
+tabs-toolbar-list-all-tabs =
+    .label = Alle tabbladtitels tonen
+    .tooltiptext = Alle tabbladtitels tonen
