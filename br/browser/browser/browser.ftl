@@ -699,3 +699,23 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Kuzhat an afell skeudenn-ouzh-skeudenn
     .accesskey = K
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Pellgargadurioù
+navbar-overflow =
+    .tooltiptext = Muioc'h a ostilhoù…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Moullañ
+    .tooltiptext = Moullañ ar bajenn-mañ… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Moullañ
+    .tooltiptext = Moullañ ar bajennad-mañ
+tabs-toolbar-new-tab =
+    .label = Ivinell nevez
+tabs-toolbar-list-all-tabs =
+    .label = Roll an holl ivinelloù
+    .tooltiptext = Roll an holl ivinelloù
