@@ -151,5 +151,10 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Layishela
+navbar-print-tab-modal-disabled =
+    .label = Printa
+    .tooltiptext = Printa lelipheji
 tabs-toolbar-new-tab =
     .label = Emathebhu Lamasha
