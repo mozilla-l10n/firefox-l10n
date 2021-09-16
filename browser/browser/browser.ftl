@@ -455,8 +455,18 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Prenta
     .tooltiptext = Prenta síðu
+navbar-library =
+    .label = Safn
+    .tooltiptext = Skoða feril, vistuð bókamerki, og meira
 navbar-search =
     .title = Leita
+navbar-accessibility-indicator =
+    .tooltiptext = Aðgengi virkjað
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Vafraflipa
 tabs-toolbar-new-tab =
     .label = Nýr flipi
 tabs-toolbar-list-all-tabs =
