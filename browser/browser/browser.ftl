@@ -432,6 +432,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = பதிவிறக்கங்கள்
+navbar-overflow =
+    .tooltiptext = இதர கருவிகள்...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = அச்சிடு
+    .tooltiptext = இப்பக்கத்தை அச்சிடு... ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = அச்சிடு
     .tooltiptext = இந்தப் பக்கத்தை அச்சிடு
+navbar-search =
+    .title = தேடு
+tabs-toolbar-new-tab =
+    .label = புதிய கீற்று
+tabs-toolbar-list-all-tabs =
+    .label = அனைத்து கீற்றுகளையும் பட்டியலிடு
+    .tooltiptext = அனைத்து கீற்றுகளையும் பட்டியலிடு
