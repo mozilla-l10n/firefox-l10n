@@ -731,3 +731,43 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Nascondi selettore Picture-in-Picture
     .accesskey = N
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigazione
+navbar-downloads =
+    .label = Download
+navbar-overflow =
+    .tooltiptext = Altri strumenti…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Stampa
+    .tooltiptext = Stampa questa pagina… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Stampa
+    .tooltiptext = Stampa questa pagina
+navbar-home =
+    .label = Pagina iniziale
+    .tooltiptext = Pagina iniziale di { -brand-short-name }
+navbar-library =
+    .label = Libreria
+    .tooltiptext = Visualizza cronologia, password salvate e altro ancora
+navbar-search =
+    .title = Cerca
+navbar-accessibility-indicator =
+    .tooltiptext = Caratteristiche per l’accessibilità attive
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Schede del browser
+tabs-toolbar-new-tab =
+    .label = Nuova scheda
+tabs-toolbar-list-all-tabs =
+    .label = Elenco di tutte le schede
+    .tooltiptext = Elenco di tutte le schede
