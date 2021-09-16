@@ -414,3 +414,16 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = පොප්-අප් අවහිර කර ඇතිවිට මෙම පණිවිඩය පෙන්වන්න එපා
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = බාගැනිම්
+navbar-print-tab-modal-disabled =
+    .label = මුද්‍රණය
+    .tooltiptext = පිටුව මුද්‍රණය
+tabs-toolbar-new-tab =
+    .label = නව ටැබයක් විවෘත කරන්න
+tabs-toolbar-list-all-tabs =
+    .label = සියළු ටැබ් ලැයිස්තුගත කරන්න
+    .tooltiptext = සියළු ටැබ් ලැයිස්තුගත කරන්න
