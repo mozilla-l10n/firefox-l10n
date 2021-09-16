@@ -5,46 +5,35 @@
 text-action-undo =
     .label = Anulla
     .accesskey = A
-
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
     .label = Ripeti
     .accesskey = R
-
 text-action-redo-shortcut =
     .key = Y
-
 text-action-cut =
     .label = Taggia
     .accesskey = T
-
 text-action-cut-shortcut =
     .key = X
-
 text-action-copy =
     .label = Còpia
     .accesskey = C
-
 text-action-copy-shortcut =
     .key = C
-
 text-action-paste =
     .label = Incòlla
     .accesskey = I
-
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
     .label = Scancella
     .accesskey = S
-
 text-action-select-all =
     .label = Seleçionn-a tutto
     .accesskey = a
-
 text-action-select-all-shortcut =
     .key = A
-
+text-action-search-text-box-clear =
+    .title = Scancella
