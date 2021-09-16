@@ -427,3 +427,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = பாப்பப்கள் தடுக்கப்படும் போது இந்த செய்தியைக் காட்டாதே
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = பதிவிறக்கங்கள்
+navbar-print-tab-modal-disabled =
+    .label = அச்சிடு
+    .tooltiptext = இந்தப் பக்கத்தை அச்சிடு
