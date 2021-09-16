@@ -747,6 +747,8 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = In trang này
 navbar-search =
     .title = Tìm kiếm
+navbar-accessibility-indicator =
+    .tooltiptext = Chức năng về khả năng truy cập đã được bật
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
