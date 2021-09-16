@@ -719,3 +719,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = ピクチャーインピクチャーの切り替えボタンを隠す
     .accesskey = H
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = 新規タブ
