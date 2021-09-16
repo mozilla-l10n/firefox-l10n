@@ -711,5 +711,25 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigasi
+navbar-downloads =
+    .label = Unduhan
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Cetak
+    .tooltiptext = Cetak laman ini… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Cetak
+    .tooltiptext = Cetak laman ini
+navbar-search =
+    .title = Cari
 tabs-toolbar-new-tab =
     .label = Tab Baru
+tabs-toolbar-list-all-tabs =
+    .label = Daftar tab
+    .tooltiptext = Daftar tab
