@@ -764,5 +764,31 @@ navbar-downloads =
     .label = Преузимања
 navbar-overflow =
     .tooltiptext = Више алатки…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Одштампај
+    .tooltiptext = Одштампај ову страницу… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Одштампај
+    .tooltiptext = Одштампај ову страницу
+navbar-home =
+    .label = Почетна
+    .tooltiptext = Отвори почетну страницу програма { -brand-short-name }
+navbar-library =
+    .label = Библиотека
+    .tooltiptext = Погледајте историју, сачуване обележиваче и друго
 navbar-search =
     .title = Претрага
+navbar-accessibility-indicator =
+    .tooltiptext = Функције приступачности су омогућене
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Картице прегледача
+tabs-toolbar-new-tab =
+    .label = Нова картица
+tabs-toolbar-list-all-tabs =
+    .label = Прикажи све картице
+    .tooltiptext = Прикажи све картице
