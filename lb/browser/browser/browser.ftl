@@ -276,11 +276,18 @@ ui-tour-info-panel-close =
 
 navbar-overflow =
     .tooltiptext = Méi Handwierksgeschir…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Drécken
+    .tooltiptext = Dës Säit drécken… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Drécken
     .tooltiptext = Dës Säit drécken
 navbar-search =
     .title = Sich
+tabs-toolbar-new-tab =
+    .label = Neien Tab
 tabs-toolbar-list-all-tabs =
     .label = All Tabs oplëschten
     .tooltiptext = All Tabs oplëschten
