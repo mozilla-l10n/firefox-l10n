@@ -755,3 +755,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Cuddio'r Togl Llun mewn Llun
     .accesskey = L
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Tab Newydd
