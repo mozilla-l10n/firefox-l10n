@@ -484,6 +484,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Štampaj
     .tooltiptext = Štampaj ovu stranicu
+navbar-library =
+    .label = Biblioteka
+    .tooltiptext = Prikaži historiju, spašene zabilješke, i više
+navbar-search =
+    .title = Pretraga
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tabovi browsera
 tabs-toolbar-new-tab =
     .label = Novi tab
 tabs-toolbar-list-all-tabs =
