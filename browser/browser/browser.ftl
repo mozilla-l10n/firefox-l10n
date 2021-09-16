@@ -357,6 +357,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Afgelaai
+navbar-overflow =
+    .tooltiptext = Meer gereedskap…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Druk
+    .tooltiptext = Druk hierdie bladsy… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Druk
     .tooltiptext = Druk hierdie bladsy
