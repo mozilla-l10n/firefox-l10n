@@ -729,6 +729,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Okem pa k'amaya'l
 navbar-downloads =
     .label = Taq qasanïk
 navbar-overflow =
@@ -756,3 +761,8 @@ navbar-accessibility-indicator =
 # in the string
 tabs-toolbar =
     .aria-label = Ruwi' kanonel
+tabs-toolbar-new-tab =
+    .label = K'ak'a' Ruwi'
+tabs-toolbar-list-all-tabs =
+    .label = Kecholajïx ronojel taq ruwi'
+    .tooltiptext = Kecholajïx ronojel taq ruwi'
