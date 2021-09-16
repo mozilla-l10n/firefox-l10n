@@ -740,5 +740,13 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Udskriv denne side
 navbar-search =
     .title = Søgefelt
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Faneblade
 tabs-toolbar-new-tab =
     .label = Nyt faneblad
+tabs-toolbar-list-all-tabs =
+    .label = List alle faneblade
+    .tooltiptext = List alle faneblade
