@@ -465,8 +465,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = डाउनलोड्स
+navbar-print-tab-modal-disabled =
+    .label = छापा
+    .tooltiptext = हे पृष्ठ छापा
 navbar-search =
     .title = शोधा
+tabs-toolbar-new-tab =
+    .label = नवीन टॅब
 tabs-toolbar-list-all-tabs =
     .label = सर्व टॅब्स्ची सूची
     .tooltiptext = सर्व टॅब्स्ची सूची
