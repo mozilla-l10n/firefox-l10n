@@ -746,6 +746,13 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Gezinme
+navbar-overflow =
+    .tooltiptext = Daha fazla araç…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Yazdır
+    .tooltiptext = Bu sayfayı yazdır… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Yazdır
     .tooltiptext = Bu sayfayı yazdır
