@@ -528,3 +528,36 @@ remote-tabs-sync-now = Sincronizar agora
 
 ##
 
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navegación
+navbar-downloads =
+    .label = Descargues
+navbar-overflow =
+    .tooltiptext = Más ferramientes…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprentar
+    .tooltiptext = Imprenta esta páxina… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprentar
+    .tooltiptext = Imprentar esta páxina
+navbar-home =
+    .label = Aniciu
+    .tooltiptext = Páxina d'aniciu de { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Mira l'historial, los marcadores guardaos y más coses
+navbar-accessibility-indicator =
+    .tooltiptext = Carauterístiques de l'accesibilidá activaes
+tabs-toolbar-new-tab =
+    .label = Llingüeta nueva
+tabs-toolbar-list-all-tabs =
+    .label = Llistar toles llingüetes
+    .tooltiptext = Llistar toles llingüetes
