@@ -726,9 +726,18 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = التنزيلات
+navbar-overflow =
+    .tooltiptext = المزيد من الأدوات…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = اطبع
+    .tooltiptext = اطبع هذه الصّفحة… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = اطبع
     .tooltiptext = اطبع هذه الصفحة
+navbar-search =
+    .title = ابحث
 tabs-toolbar-new-tab =
     .label = لسان جديد
 tabs-toolbar-list-all-tabs =
