@@ -406,6 +406,19 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Nascleanúint
+navbar-overflow =
+    .tooltiptext = Tuilleadh uirlisí…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Priontáil
+    .tooltiptext = Priontáil an leathanach seo… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Priontáil
+    .tooltiptext = Priontáil an leathanach seo
+navbar-home =
+    .label = Baile
+    .tooltiptext = Leathanach Baile { -brand-short-name }
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -413,3 +426,6 @@ tabs-toolbar =
     .aria-label = Cluaisíní brabhsálaí
 tabs-toolbar-new-tab =
     .label = Cluaisín Nua
+tabs-toolbar-list-all-tabs =
+    .label = Liostaigh gach cluaisín
+    .tooltiptext = Liostaigh gach cluaisín
