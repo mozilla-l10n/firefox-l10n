@@ -730,6 +730,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Seòladaireachd
 navbar-downloads =
     .label = Luchdaidhean a-nuas
 navbar-overflow =
@@ -750,6 +755,8 @@ navbar-library =
     .tooltiptext = Seall air an eachdraidh, comharran-lìn a shàbhail thu ’s mòran a bharrachd
 navbar-search =
     .title = Lorg
+navbar-accessibility-indicator =
+    .tooltiptext = Tha gleusan na so-ruigsinneachd an comas
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
