@@ -730,3 +730,13 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Slėpti vaizdo-vaizde perjungimą
     .accesskey = S
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Atsiuntimai
+navbar-print-tab-modal-disabled =
+    .label = Spausdinti
+    .tooltiptext = Spausdinti šį tinklalapį
+tabs-toolbar-new-tab =
+    .label = Nauja kortelė
