@@ -742,6 +742,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-library =
+    .label = Catálogo
+    .tooltiptext = Ver historial, marcadores guardados y más
+navbar-accessibility-indicator =
+    .tooltiptext = Características de accesibilidad activadas
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
