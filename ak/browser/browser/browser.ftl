@@ -217,6 +217,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ntwe
+navbar-overflow =
+    .tooltiptext = Ntuul bio a wɔka ho…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Prente
+    .tooltiptext = Prente krataafa yi… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Prente
     .tooltiptext = Prente krataafa yi
