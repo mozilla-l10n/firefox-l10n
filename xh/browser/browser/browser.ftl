@@ -377,6 +377,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Printa eli phepha
 navbar-search =
     .title = Khangela
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Iithebhu zokubhrawuza
 tabs-toolbar-new-tab =
     .label = thebhu entsha
 tabs-toolbar-list-all-tabs =
