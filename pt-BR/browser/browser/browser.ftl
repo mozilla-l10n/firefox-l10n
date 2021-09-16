@@ -751,8 +751,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir a página
+navbar-home =
+    .label = Página inicial
+    .tooltiptext = Página inicial do { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Ver histórico, favoritos salvos e muito mais
 navbar-search =
     .title = Pesquisar
+navbar-accessibility-indicator =
+    .tooltiptext = Recursos de acessibilidade ativos
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
