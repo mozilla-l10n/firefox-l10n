@@ -4,48 +4,59 @@
 
 receipts-dialog-window =
     .title = Acuses de recibo
-
 return-receipt-checkbox =
     .label = Al enviar mensajes, siempre pedir un acuse de recibo
     .acceskey = e
-
+return-receipt-checkbox-control =
+    .label = Al enviar mensajes, solicitar siempre un acuse de recibo
+    .accesskey = W
 receipt-arrive-label = Cuando llegue un acuse de recibo:
-
 receipt-leave-radio =
     .label = Dejarlo en mi bandeja de entrada
     .acceskey = i
-
 receipt-move-radio =
     .label = Moverlo a mi carpeta "Enviados"
     .acceskey = M
-
+receipt-leave-radio-control =
+    .label = Dejarlo en mi bandeja de entrada
+    .accesskey = i
+receipt-move-radio-control =
+    .label = Moverlo a mi carpeta "Enviados"
+    .accesskey = m
 receipt-request-label = Cuando recibo una solicitud de acuse de recibo:
-
 receipt-return-never-radio =
     .label = Nunca enviar un acuse de recibo
     .acceskey = N
-
 receipt-return-some-radio =
     .label = Permitir acuses de recibo de algunos mensajes
     .acceskey = r
-
 receipt-not-to-cc =
     .value = Si no estoy en A: o CC: del mensaje:
     .acceskey = S
-
+receipt-return-never-radio-control =
+    .label = Nunca enviar acuse de recibo
+    .accesskey = n
+receipt-return-some-radio-control =
+    .label = Permitir acuse de recibo para algunos mensajes
+    .accesskey = r
+receipt-not-to-cc-label =
+    .value = Si no estoy en A: o CC: del mensaje:
+    .accesskey = f
 receipt-send-never-label =
     .label = Nunca enviar
-
 receipt-send-always-label =
     .label = Enviar siempre
-
 receipt-send-ask-label =
     .label = Preguntarme
-
 sender-outside-domain =
     .value = Si el remitente está fuera de mi dominio web:
     .acceskey = t
-
 other-cases-label =
     .value = En todos los demás casos:
     .acceskey = a
+sender-outside-domain-label =
+    .value = Si el remitente está fuera de mi dominio web:
+    .accesskey = t
+other-cases-text-label =
+    .value = En los demás casos:
+    .accesskey = a
