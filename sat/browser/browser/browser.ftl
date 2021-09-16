@@ -308,6 +308,11 @@ ui-tour-info-panel-close =
 
 navbar-overflow =
     .tooltiptext = बड़ती  टुल…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = छापा
+    .tooltiptext = नोवा साहटा छापाय मे … ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = छापा
     .tooltiptext = नोवा साहटा छापाय मे
