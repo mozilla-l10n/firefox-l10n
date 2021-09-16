@@ -444,8 +444,31 @@ navbar-downloads =
     .label = Lejupīluodes
 navbar-overflow =
     .tooltiptext = Cyti reiki…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Drukōt
+    .tooltiptext = Print this page… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Drukōt
+    .tooltiptext = Drukōt itū lopu
+navbar-home =
+    .label = Suokumlopa
+    .tooltiptext = { -brand-short-name } sōkuma lopa
+navbar-library =
+    .label = Biblioteka
+    .tooltiptext = Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu
 navbar-search =
     .title = Mekleit
+navbar-accessibility-indicator =
+    .tooltiptext = Pīejameibas reiki daslāgti
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Puorlūka cilnes
+tabs-toolbar-new-tab =
+    .label = Jauna cilne
 tabs-toolbar-list-all-tabs =
     .label = Vysu ciļņu saroksts
     .tooltiptext = Vysu ciļņu saroksts
