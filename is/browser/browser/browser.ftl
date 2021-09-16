@@ -443,5 +443,22 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Niðurhal
+navbar-overflow =
+    .tooltiptext = Fleiri verkfæri…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Prenta
+    .tooltiptext = Prenta þessa síðu… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Prenta
+    .tooltiptext = Prenta síðu
+navbar-search =
+    .title = Leita
 tabs-toolbar-new-tab =
     .label = Nýr flipi
+tabs-toolbar-list-all-tabs =
+    .label = Sýna alla flipa
+    .tooltiptext = Sýna alla flipa
