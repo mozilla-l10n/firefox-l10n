@@ -463,5 +463,7 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = છાપો
     .tooltiptext = આ પાનું છાપો
+navbar-search =
+    .title = શોધો
 tabs-toolbar-new-tab =
     .label = નવી ટૅબ
