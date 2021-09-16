@@ -620,3 +620,43 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Ուղղորդում
+navbar-downloads =
+    .label = Ներբեռնումներ
+navbar-overflow =
+    .tooltiptext = Հաւելեալ գործիքներ…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Տպել
+    .tooltiptext = Տպել էջը… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Տպել
+    .tooltiptext = Տպել տուեալ էջը
+navbar-home =
+    .label = Տուն
+    .tooltiptext = { -brand-short-name } Տնէջ
+navbar-library =
+    .label = Դարան
+    .tooltiptext = Դիտել պատմութիւնը, պահպանուած էջանիշերը եւ աւելին
+navbar-search =
+    .title = Որոնում
+navbar-accessibility-indicator =
+    .tooltiptext = Մատչելիութեան յուրահատկութիւնները միացուած են
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Դիտարկիչի ներդիրներ
+tabs-toolbar-new-tab =
+    .label = Նոր ներդիր
+tabs-toolbar-list-all-tabs =
+    .label = Ցուցադրել բոլոր էջերը
+    .tooltiptext = Ցուցադրել բոլոր էջերը
