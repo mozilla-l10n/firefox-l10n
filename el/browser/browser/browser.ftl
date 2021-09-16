@@ -743,7 +743,20 @@ navbar-downloads =
     .label = Λήψεις
 navbar-overflow =
     .tooltiptext = Περισσότερα εργαλεία…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Εκτύπωση
+    .tooltiptext = Εκτύπωση σελίδας… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Εκτύπωση
+    .tooltiptext = Εκτύπωση σελίδας
+navbar-library =
+    .label = Βιβλιοθήκη
+    .tooltiptext = Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων
 navbar-search =
     .title = Αναζήτηση
+navbar-accessibility-indicator =
+    .tooltiptext = Οι λειτουργίες προσβασιμότητας ενεργοποιήθηκαν
 tabs-toolbar-new-tab =
     .label = Νέα καρτέλα
