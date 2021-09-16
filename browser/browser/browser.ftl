@@ -742,8 +742,18 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navegación
 navbar-overflow =
     .tooltiptext = Más herramientas…
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Ver historial, marcadores guardados y más
+navbar-accessibility-indicator =
+    .tooltiptext = Funciones de accesibilidad activadas
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
