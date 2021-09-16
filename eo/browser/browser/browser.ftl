@@ -756,8 +756,13 @@ navbar-print-tab-modal-disabled =
 navbar-home =
     .label = Eka paĝo
     .tooltiptext = Eka paĝo de { -brand-short-name }
+navbar-library =
+    .label = Biblioteko
+    .tooltiptext = Vidi historion, konservitajn legosignojn kaj pli
 navbar-search =
     .title = Serĉi
+navbar-accessibility-indicator =
+    .tooltiptext = Alireblecaj trajtoj aktivaj
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
