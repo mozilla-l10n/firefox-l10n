@@ -5,68 +5,52 @@
 text-action-undo =
     .label = Sefsex
     .accesskey = S
-
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
     .label = Err-d
     .accesskey = E
-
 text-action-redo-shortcut =
     .key = Y
-
 text-action-cut =
     .label = Gzem
     .accesskey = G
-
 text-action-cut-shortcut =
     .key = X
-
 text-action-copy =
     .label = Nɣel
     .accesskey = N
-
 text-action-copy-shortcut =
     .key = C
-
 text-action-paste =
     .label = Senṭeḍ
     .accesskey = n
-
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
     .label = Kkes
     .accesskey = K
-
 text-action-select-all =
     .label = Fren Kullec
     .accesskey = F
-
 text-action-select-all-shortcut =
     .key = A
-
 text-action-spell-no-suggestions =
     .label = Ulac awalen ittwasumren
-
 text-action-spell-add-to-dictionary =
     .label = Rnu ɣer umawal
     .accesskey = n
-
 text-action-spell-undo-add-to-dictionary =
     .label = Sefsex timerna n umawal
     .accesskey = e
-
 text-action-spell-check-toggle =
     .label = Senqed tira
     .accesskey = a
-
 text-action-spell-add-dictionaries =
     .label = Rnu imawalen...
     .accesskey = R
-
 text-action-spell-dictionaries =
     .label = Tutlayin
     .accesskey = T
+text-action-search-text-box-clear =
+    .title = Sfeḍ
