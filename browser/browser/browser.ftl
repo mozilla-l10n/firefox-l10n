@@ -550,3 +550,23 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Amaga lo commutador d'imachen incrustada
     .accesskey = A
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Descargas
+navbar-overflow =
+    .tooltiptext = Mas ferramientas...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprentar
+    .tooltiptext = Imprente ista pachina... ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprentar
+    .tooltiptext = Imprentar ista pachina
+tabs-toolbar-new-tab =
+    .label = Nueva pestanya
+tabs-toolbar-list-all-tabs =
+    .label = Amostrar todas as pestanyas
+    .tooltiptext = Amostrar todas as pestanyas
