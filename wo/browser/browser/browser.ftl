@@ -209,6 +209,8 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yeb yi
+navbar-overflow =
+    .tooltiptext = Yeneeni jumtukaay...
 navbar-print-tab-modal-disabled =
     .label = Móol
     .tooltiptext = Móol xët bii
@@ -219,3 +221,8 @@ navbar-search =
 # in the string
 tabs-toolbar =
     .aria-label = Koñi jowwkat bi
+tabs-toolbar-new-tab =
+    .label = Làcc wu wees
+tabs-toolbar-list-all-tabs =
+    .label = Lim Làcc yépp
+    .tooltiptext = Lim Làcc yépp
