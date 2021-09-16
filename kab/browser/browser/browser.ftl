@@ -736,3 +736,11 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Ffer asfaylu tugna deg tugna
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = Siggez
+    .tooltiptext = Siggez asebtar-a
+tabs-toolbar-new-tab =
+    .label = Iccer amaynut
