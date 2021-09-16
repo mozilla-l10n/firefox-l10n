@@ -392,3 +392,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ಪುಟಿಕೆಗಳು ಪ್ರತಿಬಂಧಿತಗೊಂಡಾಗ ಈ ಸಂದೇಶವನ್ನು ತೋರಿಸಬೇಡ
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
+navbar-print-tab-modal-disabled =
+    .label = ಮುದ್ರಿಸು
+    .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು
