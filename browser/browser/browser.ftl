@@ -428,3 +428,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Jangan papar mesej ini apabila popup telah disekat
     .accesskey = J
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Tab Baru
+tabs-toolbar-list-all-tabs =
+    .label = Senarai semua tab
+    .tooltiptext = Senarai semua tab
