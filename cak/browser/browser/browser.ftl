@@ -726,3 +726,18 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Tewäx Rupitz'b'al Picture-in-Picture
     .accesskey = T
+
+# Navigator Toolbox
+
+navbar-overflow =
+    .tooltiptext = Ch'aqa' chik Samajib'äl…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Titz'ajb'äx
+    .tooltiptext = Titz'ajb'äx re ruxaq re'… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Titz'ajb'äx
+    .tooltiptext = Titz'ajb'äx re ruxaq re'
+navbar-search =
+    .title = Tikanöx
