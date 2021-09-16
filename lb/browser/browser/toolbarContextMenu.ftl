@@ -5,4 +5,6 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Upassen…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Menüleescht
+    .accesskey = M
