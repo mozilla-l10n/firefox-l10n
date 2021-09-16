@@ -739,3 +739,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Ocultar o comutador de vídeo em janela flutuante
     .accesskey = O
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Novo separador
