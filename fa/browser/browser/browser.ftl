@@ -739,3 +739,6 @@ picture-in-picture-hide-toggle =
 navbar-print-tab-modal-disabled =
     .label = چاپ
     .tooltiptext = چاپ کردن این صفحه
+tabs-toolbar-list-all-tabs =
+    .label = فهرست کردن همهٔ زبانه‌ها
+    .tooltiptext = فهرست کردن همهٔ زبانه‌ها
