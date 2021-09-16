@@ -462,10 +462,17 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ဆွဲချချက်များ
 navbar-overflow =
     .tooltiptext = အခြားတန်ဆာပလာများ…
+navbar-library =
+    .label = စာကြည့်တိုက်
+    .tooltiptext = မှတ်တမ်း၊ သိမ်းထားသည့် စာမှတ်များနှင့် အခြားစသည်တို့ကို ကြည့်ရှုရန်
 navbar-search =
     .title = ရှာဖွေပါ
+navbar-accessibility-indicator =
+    .tooltiptext = သုံးစွဲနိုင်စွမ်းလုပ်ဆောင်ချက်များကို ဖွင့်ထားသည်
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
