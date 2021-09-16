@@ -619,6 +619,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = نیویگیشن
 navbar-downloads =
     .label = ڈاؤن لوڈ
 navbar-overflow =
@@ -631,8 +636,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = چھاپیں
     .tooltiptext = اس صفحہ کو چھاپیں
+navbar-home =
+    .label = گھر
+    .tooltiptext = { -brand-short-name } ابتدائی صفحہ
 navbar-search =
     .title = تلاش
+navbar-accessibility-indicator =
+    .tooltiptext = قابل رسائی خصوصیات کو فعال بنادیا گیا  پے
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
