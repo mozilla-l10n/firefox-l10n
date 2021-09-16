@@ -440,3 +440,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ekki sýna þessi skilaboð þegar sprettigluggum er lokað
     .accesskey = D
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Nýr flipi
