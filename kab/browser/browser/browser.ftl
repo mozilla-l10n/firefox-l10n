@@ -739,6 +739,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Siggez
+    .tooltiptext = Siggez asebter-a… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Siggez
     .tooltiptext = Siggez asebtar-a
