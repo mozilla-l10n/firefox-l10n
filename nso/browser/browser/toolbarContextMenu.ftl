@@ -5,4 +5,6 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Tlwaelanya…
     .accesskey = T
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Para ya lelokelelo
+    .accesskey = l
