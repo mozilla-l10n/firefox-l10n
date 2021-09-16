@@ -739,6 +739,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = 導覽
 navbar-downloads =
     .label = 下載
 navbar-overflow =
@@ -751,8 +756,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = 列印
     .tooltiptext = 列印此頁
+navbar-home =
+    .label = 首頁
+    .tooltiptext = { -brand-short-name } 首頁
+navbar-library =
+    .label = 收藏庫
+    .tooltiptext = 檢視瀏覽紀錄、已存書籤等資料
 navbar-search =
     .title = 搜尋
+navbar-accessibility-indicator =
+    .tooltiptext = 已開啟輔助功能
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
