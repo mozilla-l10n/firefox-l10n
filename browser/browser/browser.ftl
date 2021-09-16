@@ -749,6 +749,8 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = 打印当前页
 navbar-search =
     .title = 搜索
+navbar-accessibility-indicator =
+    .tooltiptext = 无障碍功能已启用
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
