@@ -722,3 +722,6 @@ tabs-toolbar =
     .aria-label = Mga tab ng browser
 tabs-toolbar-new-tab =
     .label = Bagong Tab
+tabs-toolbar-list-all-tabs =
+    .label = Ilista ang lahat ng mga tabs
+    .tooltiptext = Ilista ang lahat ng mga tabs
