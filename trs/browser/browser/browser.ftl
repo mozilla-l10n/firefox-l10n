@@ -478,6 +478,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Sun aché nuu
 navbar-downloads =
     .label = Nadunïnj
 navbar-overflow =
