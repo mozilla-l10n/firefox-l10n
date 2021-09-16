@@ -748,8 +748,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = چاپ
     .tooltiptext = چاپ کردن این صفحه
+navbar-library =
+    .label = مخزن
+    .tooltiptext = نمایش تاریخچه، نشانک‌های ذخیره شده و بیشتر
 navbar-search =
     .title = جست‌وجو
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = زبانه‌های مرورگر
 tabs-toolbar-new-tab =
     .label = زبانه جدید
 tabs-toolbar-list-all-tabs =
