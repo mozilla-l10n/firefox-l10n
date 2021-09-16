@@ -736,8 +736,15 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Навигация
 navbar-downloads =
     .label = Жүктемелер
+navbar-overflow =
+    .tooltiptext = Көбірек құралдар…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -746,8 +753,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Баспаға шығару
     .tooltiptext = Ағымдағы бетті баспаға шығару
+navbar-home =
+    .label = Үйге
+    .tooltiptext = { -brand-short-name } үй беті
+navbar-library =
+    .label = Жинақталған
+    .tooltiptext = Тарихты, сақталған бетбелгілерді қарау және т.б.
 navbar-search =
     .title = Іздеу
+navbar-accessibility-indicator =
+    .tooltiptext = Қолжетерлілік мүмкіндіктері іске қосылған
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Браузер беттері
 tabs-toolbar-new-tab =
     .label = Жаңа бет
 tabs-toolbar-list-all-tabs =
