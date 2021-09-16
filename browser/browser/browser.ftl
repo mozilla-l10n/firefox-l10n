@@ -463,7 +463,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = છાપો
     .tooltiptext = આ પાનું છાપો
+navbar-home =
+    .label = મુખ્ય
+    .tooltiptext = { -brand-short-name } મુખ પાનું
+navbar-library =
+    .label = લાઈબ્રેરી
+    .tooltiptext = ઇતિહાસ, સાચવેલા બુકમાર્ક્સ, અને વધુ જુઓ
 navbar-search =
     .title = શોધો
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = બ્રાઉઝર ટૅબ્સ
 tabs-toolbar-new-tab =
     .label = નવી ટૅબ
+tabs-toolbar-list-all-tabs =
+    .label = બધા ટૅબ્સની યાદી કરો
+    .tooltiptext = બધા ટૅબ્સની યાદી કરો
