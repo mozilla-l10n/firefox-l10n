@@ -437,5 +437,22 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ডাউনলোড
+navbar-overflow =
+    .tooltiptext = অতিরিক্ত সরঞ্জাম…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = প্রিন্ট করুন
+    .tooltiptext = এই পৃষ্ঠা প্রিন্ট করুন… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = প্রিন্ট করুন
+    .tooltiptext = বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন
 navbar-search =
     .title = অনুসন্ধান
+tabs-toolbar-new-tab =
+    .label = নতুন ট্যাব
+tabs-toolbar-list-all-tabs =
+    .label = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
+    .tooltiptext = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
