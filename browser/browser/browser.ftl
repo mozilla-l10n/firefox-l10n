@@ -629,5 +629,10 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Descărcări
+navbar-search =
+    .title = Caută
 tabs-toolbar-new-tab =
     .label = Filă nouă
+tabs-toolbar-list-all-tabs =
+    .label = Listează toate filele
+    .tooltiptext = Listează toate filele
