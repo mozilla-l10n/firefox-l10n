@@ -744,6 +744,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Letöltések
+navbar-overflow =
+    .tooltiptext = További eszközök…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Nyomtatás
+    .tooltiptext = Oldal kinyomtatása… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Nyomtatás
     .tooltiptext = Oldal kinyomtatása
