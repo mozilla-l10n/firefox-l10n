@@ -579,6 +579,18 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Տպել
     .tooltiptext = Տպել տվյալ էջը
+navbar-library =
+    .label = Շտեմարան
+    .tooltiptext = Դիտել պատմությունը, պահպանված էջանիշերը և ավելին
+navbar-search =
+    .title = Որոնում
+navbar-accessibility-indicator =
+    .tooltiptext = ՄԱտչելիության յուրահատկությունները միացված են
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Դիտարկիչի ներդիրներ
 tabs-toolbar-new-tab =
     .label = Նոր Ներդիր
 tabs-toolbar-list-all-tabs =
