@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Go praosa ga praebete)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Go praosa ga praebete)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Go praosa ga praebete)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Go praosa ga praebete)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,6 +109,7 @@ browser-window-minimize-button =
 
 ## WebRTC Pop-up notifications
 
+
 ## WebRTC window or screen share tab switch warning
 
 
@@ -121,10 +120,8 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
-
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
-
 urlbar-go-button =
     .tooltiptext = Eya atereseng go para ya lefelo
 
@@ -156,7 +153,6 @@ bookmarks-search =
     .label = Nyaka dipukutshwayo
 bookmarks-bookmark-edit-panel =
     .label = Lokiša pukutshwayo ye
-
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
@@ -203,7 +199,6 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Dumelela dirunyi tša { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Thibela dirunyi tša { $uriHost }
     .accesskey = p
@@ -214,3 +209,20 @@ popups-infobar-dont-show-message =
     .label = O se ke wa laetša molaetša wo ge dirunyi di thibetšwe
     .accesskey = D
 
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Ditaollo
+navbar-print-tab-modal-disabled =
+    .label = Gatiša
+    .tooltiptext = Gatiša letlakala le
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Dithepo tša praosara
+tabs-toolbar-new-tab =
+    .label = Thepo e mpsha
+tabs-toolbar-list-all-tabs =
+    .label = Lokeletša dithepo tšohle
+    .tooltiptext = Lokeletša dithepo tšohle
