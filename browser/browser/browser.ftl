@@ -717,6 +717,8 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Baixades
+navbar-overflow =
+    .tooltiptext = Més eines…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -725,6 +727,8 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimeix
     .tooltiptext = Imprimeix aquesta pàgina
+tabs-toolbar-new-tab =
+    .label = Pestanya nova
 tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
