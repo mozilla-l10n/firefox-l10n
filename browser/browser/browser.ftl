@@ -735,6 +735,8 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Filhentning
+navbar-overflow =
+    .tooltiptext = Flere værktøjer…
 navbar-print-tab-modal-disabled =
     .label = Udskriv
     .tooltiptext = Udskriv denne side
