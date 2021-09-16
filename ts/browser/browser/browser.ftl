@@ -106,7 +106,6 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Timakara ta buku
-
 bookmarks-toolbar-menu =
     .label = Xo secha timakara ta buku
 bookmarks-toolbar-placeholder =
@@ -153,7 +152,6 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Pfumela ku tlakuka ka { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Sivela ku tlakuka ka { $uriHost }
     .accesskey = p
@@ -164,3 +162,14 @@ popups-infobar-dont-show-message =
     .label = U nga kombisi hungu leri loko mintlakuso yi siveriwa
     .accesskey = D
 
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Panga nakambe
+navbar-print-tab-modal-disabled =
+    .label = Pirinta
+    .tooltiptext = Pirinta pheji leri
+navbar-search =
+    .title = Secha
+tabs-toolbar-new-tab =
+    .label = Thebe yintshwa
