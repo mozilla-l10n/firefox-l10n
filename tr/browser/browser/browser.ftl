@@ -738,3 +738,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Görüntü içinde görüntü düğmesini gizle
     .accesskey = G
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Yeni sekme
