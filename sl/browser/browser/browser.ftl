@@ -736,3 +736,30 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Skrij preklop slike v sliki
     .accesskey = p
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Prenosi
+navbar-overflow =
+    .tooltiptext = Več orodij …
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Natisni
+    .tooltiptext = Natisni stran … ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Natisni
+    .tooltiptext = Natisni to stran
+navbar-search =
+    .title = Iskanje
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Zavihki brskalnika
+tabs-toolbar-new-tab =
+    .label = Nov zavihek
+tabs-toolbar-list-all-tabs =
+    .label = Seznam vseh zavihkov
+    .tooltiptext = Seznam vseh zavihkov
