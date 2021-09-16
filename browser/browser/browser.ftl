@@ -734,8 +734,18 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Inprimatu
     .tooltiptext = Inprimatu orri hau
+navbar-library =
+    .label = Biltegia
+    .tooltiptext = Ikusi historia, gordetako laster-markak eta gehiago
 navbar-search =
     .title = Bilatu
+navbar-accessibility-indicator =
+    .tooltiptext = Erabilgarritasun-eginbideak gaituta
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Nabigatzailearen fitxak
 tabs-toolbar-new-tab =
     .label = Fitxa berria
 tabs-toolbar-list-all-tabs =
