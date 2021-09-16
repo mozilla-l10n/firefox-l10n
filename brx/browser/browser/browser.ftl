@@ -343,3 +343,21 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = प'पआपखौ ब्लक खालामनाय समाव बे खौरांखौ दिनथिनो नाङा
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = डाउनल'डफोर
+navbar-overflow =
+    .tooltiptext = गोबां टुल...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = साफाय
+    .tooltiptext = बे बिलाइखौ साफाय... ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = साफाय
+    .tooltiptext = बे बिलाइखौ साफाय
+tabs-toolbar-list-all-tabs =
+    .label = गासै टेबखौ लिस्ट खालाम
+    .tooltiptext = गासै टेबखौ लिस्ट खालाम
