@@ -407,6 +407,9 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = ಮುದ್ರಿಸು
     .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು
+navbar-library =
+    .label = ಲೈಬ್ರರಿ
+    .tooltiptext = ಇತಿಹಾಸ, ಉಳಿಸಿದ ಬುಕ್‍ಮಾರ್ಕ್‌ಗಳು ಮತ್ತು ಹೆಚ್ಚಿದುದನ್ನು ನೋಡಿ
 navbar-search =
     .title = ಹುಡುಕು
 # Name for the tabs toolbar as spoken by screen readers. The word
