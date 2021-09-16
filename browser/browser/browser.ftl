@@ -739,3 +739,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Amagar lo boton Imatge incrustada
     .accesskey = A
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Onglet novèl
