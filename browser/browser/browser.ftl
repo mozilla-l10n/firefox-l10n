@@ -743,6 +743,26 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Загрузки
+navbar-overflow =
+    .tooltiptext = Другие инструменты…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Печать
+    .tooltiptext = Распечатать эту страницу… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Печать
+    .tooltiptext = Распечатать эту страницу
+navbar-home =
+    .label = Домой
+    .tooltiptext = Домашняя страница { -brand-short-name }
+navbar-library =
+    .label = Библиотека
+    .tooltiptext = Просмотр истории, сохранённых закладок и многого другого
+navbar-search =
+    .title = Поиск
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -750,3 +770,6 @@ tabs-toolbar =
     .aria-label = Вкладки браузера
 tabs-toolbar-new-tab =
     .label = Новая вкладка
+tabs-toolbar-list-all-tabs =
+    .label = Список всех вкладок
+    .tooltiptext = Список всех вкладок
