@@ -735,6 +735,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Atsiuntimai
+navbar-overflow =
+    .tooltiptext = Daugiau priemonių…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Spausdinti
+    .tooltiptext = Spausdinti šį tinklalapį… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Spausdinti
     .tooltiptext = Spausdinti šį tinklalapį
