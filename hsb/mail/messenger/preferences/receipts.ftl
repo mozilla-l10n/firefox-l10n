@@ -57,3 +57,6 @@ other-cases-label =
 sender-outside-domain-label =
     .value = Jeli wotpósłar je zwonka mojeje domeny:
     .accesskey = t
+other-cases-text-label =
+    .value = We wšěch druhich padach:
+    .accesskey = h
