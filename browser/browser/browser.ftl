@@ -740,3 +740,16 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Схаваць пераключальнік Выява ў выяве
     .accesskey = р
+
+# Navigator Toolbox
+
+navbar-overflow =
+    .tooltiptext = Іншыя прылады…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Друкаваць
+    .tooltiptext = Друкаваць старонку… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Друкаваць
+    .tooltiptext = Друкаваць гэтую старонку
