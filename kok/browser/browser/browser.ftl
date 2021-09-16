@@ -241,3 +241,28 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पॉप अप आडायल्ले आसता तेन्ना हो संदेश दाखोव नाकात
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = उतरावन
+navbar-overflow =
+    .tooltiptext = अदिक साधनां...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = छापात
+    .tooltiptext = हे पान... ({ $shortcut }) छापात
+navbar-print-tab-modal-disabled =
+    .label = छापात
+    .tooltiptext = हे पान छापात
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ब्रावजर टॅब्स
+tabs-toolbar-new-tab =
+    .label = नवीन टॅब
+tabs-toolbar-list-all-tabs =
+    .label = सगळ्या टॅब्सांची सूची करची
+    .tooltiptext = सगळ्या टॅब्सांची सूची करची
