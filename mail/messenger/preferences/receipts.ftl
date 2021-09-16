@@ -9,13 +9,25 @@ return-receipt-checkbox =
     .label = Quando si spediscono i messaggi chiedere sempre la ricevuta di ritorno
     .accesskey = u
 
+return-receipt-checkbox-control =
+    .label = Quando si spediscono i messaggi chiedere sempre la ricevuta di ritorno
+    .accesskey = u
+
 receipt-arrive-label = Quando arriva una ricevuta:
 
 receipt-leave-radio =
     .label = Lasciala nella posta in arrivo
     .accesskey = i
 
+receipt-leave-radio-control =
+    .label = Lasciala nella posta in arrivo
+    .accesskey = i
+
 receipt-move-radio =
+    .label = Spostala nella cartella “Posta inviata”
+    .accesskey = S
+
+receipt-move-radio-control =
     .label = Spostala nella cartella “Posta inviata”
     .accesskey = S
 
@@ -33,6 +45,18 @@ receipt-not-to-cc =
     .value = Se il proprio indirizzo non è nel campo “A” o “Cc”:
     .accesskey = e
 
+receipt-return-never-radio-control =
+    .label = Non inviare mai una ricevuta di ritorno
+    .accesskey = n
+
+receipt-return-some-radio-control =
+    .label = Consenti ricevuta di ritorno per alcuni messaggi
+    .accesskey = r
+
+receipt-not-to-cc-label =
+    .value = Se il proprio indirizzo non è nel campo “A” o “Cc”:
+    .accesskey = e
+
 receipt-send-never-label =
     .label = Non inviare mai
 
@@ -47,5 +71,13 @@ sender-outside-domain =
     .accesskey = t
 
 other-cases-label =
+    .value = In tutti gli altri casi:
+    .accesskey = a
+
+sender-outside-domain-label =
+    .value = Se il mittente è esterno al proprio dominio:
+    .accesskey = t
+
+other-cases-text-label =
     .value = In tutti gli altri casi:
     .accesskey = a
