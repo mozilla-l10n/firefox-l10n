@@ -744,6 +744,8 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Tunigin
+navbar-downloads =
+    .label = Isadaren
 navbar-overflow =
     .tooltiptext = Ugar n yifecka…
 # Variables:
@@ -757,6 +759,9 @@ navbar-print-tab-modal-disabled =
 navbar-home =
     .label = Asebter agejdan
     .tooltiptext = Asebter agejdan { -brand-short-name }
+navbar-library =
+    .label = Tamkarḍit
+    .tooltiptext = Sken azray, ticraḍ yettwakelsen, d wayen-nniḍen
 navbar-search =
     .title = Nadi
 navbar-accessibility-indicator =
