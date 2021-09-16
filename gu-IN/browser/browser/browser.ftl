@@ -448,3 +448,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = જ્યારે પોપઅપ અટકાવાયેલ હોય ત્યારે આ સંદેશો બતાવશો નહિં
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = છાપો
+    .tooltiptext = આ પાનું છાપો
