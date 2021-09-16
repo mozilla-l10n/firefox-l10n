@@ -732,3 +732,17 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = 화면 속 화면 토글 숨기기
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = 다운로드
+navbar-search =
+    .title = 검색
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = 브라우저 탭
+tabs-toolbar-new-tab =
+    .label = 새 탭
