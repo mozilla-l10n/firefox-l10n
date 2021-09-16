@@ -506,8 +506,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Go
     .tooltiptext = Go pot buk man
+navbar-home =
+    .label = Gang
+    .tooltiptext = { -brand-short-name } Acakki
+navbar-library =
+    .label = Ot gwoko buk
+    .tooltiptext = Nen mukato, alamabuk ma kigwoko, ki mapol
 navbar-search =
     .title = Yeny
+navbar-accessibility-indicator =
+    .tooltiptext = Kicako jami me nong
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Dirica matino me layeny
 tabs-toolbar-new-tab =
     .label = Drica matidi manyen
 tabs-toolbar-list-all-tabs =
