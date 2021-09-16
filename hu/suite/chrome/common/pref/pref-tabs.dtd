@@ -9,13 +9,13 @@
 <!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Új lap aktiválása a hivatkozások megnyitásakor">
 <!ENTITY background.accesskey "h">
+<!ENTITY browserFocus.label "A böngészőablak fókuszáljon a más alkalmazásokból megnyitott hivatkozások lapjára">
 <!ENTITY warnOnClose.label "Figyelmeztetés több lap bezárása előtt">
 <!ENTITY warnOnClose.accesskey "t">
 <!ENTITY relatedAfterCurrent.label "Kapcsolodó lapok megnyitása az aktuális lap után">
 <!ENTITY relatedAfterCurrent.accesskey "o">
 
 <!ENTITY openTabs.label "Megnyitás új ablak helyett új lapon, ha a felhasználó">
-
 <!ENTITY middleClick.label "Középső kattintás, Ctrl+kattintás vagy Ctrl+Enter a linkeken a weboldalon">
 <!ENTITY middleClick.accesskey "M">
 <!ENTITY middleClickMac.label "Középső kattintás, &#8984;+kattintás vagy &#8984;+Return a linkeken a weboldalon">
