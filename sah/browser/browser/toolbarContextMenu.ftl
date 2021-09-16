@@ -5,4 +5,6 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Туруорууларын чопчулаа…
     .accesskey = Т
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Меню хаптаһына
+    .accesskey = М

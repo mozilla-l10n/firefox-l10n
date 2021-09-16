@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Саһан көрөөһүн)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Саһан көрөөһүн)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Саһан көрөөһүн)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Саһан көрөөһүн)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,7 +65,6 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Бу бэлиэни уларытыы ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -120,6 +117,7 @@ browser-window-minimize-button =
 
 ## WebRTC Pop-up notifications
 
+
 ## WebRTC window or screen share tab switch warning
 
 
@@ -130,10 +128,8 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Көрдөт эбэтэр аадырыһы ук
-
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
-
 urlbar-go-button =
     .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
 
@@ -163,7 +159,6 @@ bookmarks-sidebar-content =
     .aria-label = Бэлиэлэр
 bookmarks-bookmark-edit-panel =
     .label = Бэлиэни уларытыы
-
 bookmarks-toolbar-menu =
     .label = Бэлиэтиир үстүрүмүөн
 bookmarks-toolbar-placeholder =
@@ -210,7 +205,6 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = { $uriHost } ойон тахсар түннүктэрин көҥүллээ
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } ойон тахсар түннүктэрин боп
     .accesskey = p
@@ -221,3 +215,20 @@ popups-infobar-dont-show-message =
     .label = Ойон тахсар түннүгү боборго бу сэрэтиини көрдөрүмэ
     .accesskey = D
 
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Хачайдааһыннар
+navbar-print-tab-modal-disabled =
+    .label = Бэчээт
+    .tooltiptext = Бу сирэйи бэчээттээ
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Браузер кыбытыктара
+tabs-toolbar-new-tab =
+    .label = Саҥа кыбытык
+tabs-toolbar-list-all-tabs =
+    .label = Бары кыбытыктар тиһиктэрэ
+    .tooltiptext = Бары кыбытыктар тиһиктэрэ
