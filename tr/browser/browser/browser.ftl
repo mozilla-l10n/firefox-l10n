@@ -766,3 +766,6 @@ tabs-toolbar =
     .aria-label = Tarayıcı sekmeleri
 tabs-toolbar-new-tab =
     .label = Yeni sekme
+tabs-toolbar-list-all-tabs =
+    .label = Tüm sekmeleri listele
+    .tooltiptext = Tüm sekmeleri listele
