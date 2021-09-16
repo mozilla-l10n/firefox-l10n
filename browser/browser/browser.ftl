@@ -757,6 +757,8 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Надрукувати поточну сторінку
 navbar-search =
     .title = Пошук
+navbar-accessibility-indicator =
+    .tooltiptext = Функції доступності увімкнено
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
