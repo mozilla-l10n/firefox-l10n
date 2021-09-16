@@ -5,7 +5,6 @@
 toolbar-context-menu-manage-extension =
     .label = Porvaldēt paplašinōjumu
     .accesskey = P
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -18,4 +17,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Pīlāgōt…
     .accesskey = P
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Izvielne
+    .accesskey = I

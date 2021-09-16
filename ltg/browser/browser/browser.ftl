@@ -437,3 +437,15 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Lejupīluodes
+navbar-overflow =
+    .tooltiptext = Cyti reiki…
+navbar-search =
+    .title = Mekleit
+tabs-toolbar-list-all-tabs =
+    .label = Vysu ciļņu saroksts
+    .tooltiptext = Vysu ciļņu saroksts
