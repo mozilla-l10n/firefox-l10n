@@ -747,6 +747,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = In trang này
 navbar-search =
     .title = Tìm kiếm
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Thẻ trình duyệt
 tabs-toolbar-new-tab =
     .label = Thẻ mới
 tabs-toolbar-list-all-tabs =
