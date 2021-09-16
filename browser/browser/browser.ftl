@@ -742,6 +742,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigáció
 navbar-downloads =
     .label = Letöltések
 navbar-overflow =
@@ -754,8 +759,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Nyomtatás
     .tooltiptext = Oldal kinyomtatása
+navbar-home =
+    .label = Kezdőlap
+    .tooltiptext = { -brand-short-name } kezdőoldal
+navbar-library =
+    .label = Könyvtár
+    .tooltiptext = Előzmények, mentett könyvjelzők megtekintése
 navbar-search =
     .title = Keresés
+navbar-accessibility-indicator =
+    .tooltiptext = Akadálymentesítési funkciók engedélyezve
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Böngészőlapok
 tabs-toolbar-new-tab =
     .label = Új lap
 tabs-toolbar-list-all-tabs =
