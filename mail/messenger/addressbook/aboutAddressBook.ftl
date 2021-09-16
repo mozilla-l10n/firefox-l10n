@@ -16,22 +16,26 @@ about-addressbook-toolbar-new-contact =
     .label = Új névjegy
 about-addressbook-toolbar-new-list =
     .label = Új lista
+about-addressbook-toolbar-import =
+    .label = Importálás
 
 ## Books
 
 all-address-books = Minden címjegyzék
-
 about-addressbook-books-context-properties =
     .label = Tulajdonságok
 about-addressbook-books-context-synchronize =
     .label = Szinkronizálás
 about-addressbook-books-context-print =
     .label = Nyomtatás…
+about-addressbook-books-context-export =
+    .label = Exportálás…
 about-addressbook-books-context-delete =
     .label = Törlés
 about-addressbook-books-context-remove =
     .label = Eltávolítás
-
+about-addressbook-books-context-startup-default =
+    .label = Alapértelmezett indulási könyvtár
 about-addressbook-confirm-delete-book-title = Címjegyzék törlése
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -49,17 +53,14 @@ about-addressbook-search =
     .placeholder = Keresés ebben: { $name }
 about-addressbook-search-all =
     .placeholder = Keresés az összes címjegyzékben
-
 about-addressbook-sort-button =
     .title = A lista sorrendjének módosítása
-
 about-addressbook-name-format-display =
     .label = Megjelenő név
 about-addressbook-name-format-firstlast =
     .label = Utónév, vezetéknév
 about-addressbook-name-format-lastfirst =
     .label = Vezetéknév, utónév
-
 about-addressbook-sort-name-ascending =
     .label = Rendezés név szerint (A > Z)
 about-addressbook-sort-name-descending =
@@ -68,10 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Rendezés e-mail-cím szerint (A > Z)
 about-addressbook-sort-email-descending =
     .label = Rendezés e-mail-cím szerint (Z > A)
-
 about-addressbook-cards-context-write =
     .label = Írás
-
 about-addressbook-confirm-delete-mixed-title = Névjegyek és listák törlése
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,7 +127,6 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Szerkesztés
 about-addressbook-cancel-edit-contact-button = Mégse
 about-addressbook-save-edit-contact-button = Mentés
-
 about-addressbook-details-email-addresses-header = E-mail-címek
 about-addressbook-details-phone-numbers-header = Telefonszámok
 about-addressbook-details-home-address-header = Otthoni cím

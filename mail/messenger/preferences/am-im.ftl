@@ -4,6 +4,9 @@
 
 account-settings-title = Hitelesítési beállítások
 account-channel-title = Alapértelmezett csatornák
+chat-encryption-generic = Általános
+chat-encryption-log =
+    .label = A végpontok közötti titkosít üzenetek felvétele a beszélgetési naplókba
 chat-encryption-label = Natív végpontok közötti titkosítás
 chat-encryption-description = A(z) { $protocol } végpontok közti titkosítást kínál a csevegőüzenetekhez. Ez megakadályozza hogy harmadik felek lehallgassák a beszélgetést. További beállításokra lehet szükség, hogy a titkosítás működőképes legyen.
 chat-encryption-status = Titkosítási állapot
