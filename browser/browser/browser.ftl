@@ -551,3 +551,23 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = इस संदेश को मत दिखाएँ जब पॉप-अप रोके जाते हैं
     .accesskey = डी
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = डाउनलोड
+navbar-overflow =
+    .tooltiptext = अधिक औज़ार…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = छापें
+    .tooltiptext = यह पृष्ठ छापें… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = छापें
+    .tooltiptext = यह पृष्ठ छापें
+tabs-toolbar-new-tab =
+    .label = नया टैब
+tabs-toolbar-list-all-tabs =
+    .label = सभी टैब सूचीबद्ध करें
+    .tooltiptext = सभी टैब सूचीबद्ध करें
