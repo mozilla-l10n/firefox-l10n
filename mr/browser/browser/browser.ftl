@@ -460,3 +460,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = पिक्चर-इन-पिक्चर टॉगल लपवा
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = डाउनलोड्स
