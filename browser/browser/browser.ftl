@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Приватно прелистување)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Приватно прелистување)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Приватно прелистување)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Приватно прелистување)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -104,6 +102,7 @@ urlbar-screen-blocked =
 
 ## Page Action Context Menu
 
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -117,7 +116,6 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставки за пребарување
-
 search-one-offs-context-open-new-tab =
     .label = Пребарај во ново јазиче
     .accesskey = П
@@ -138,7 +136,6 @@ search-one-offs-context-set-as-default =
 bookmark-panel-cancel =
     .label = Откажи
     .accesskey = О
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -157,7 +154,6 @@ identity-passive-loaded = Делови од оваа страница не се 
 identity-active-loaded = Ја исклучивте заштитата за оваа страница.
 identity-weak-encryption = Оваа страница користи слаба енкрипција.
 identity-insecure-login-forms = Најавувањата на оваа страница можат да бидат злоупотребени.
-
 identity-permissions-reload-hint = Можно е да треба да ја превчитате страницата за измените да имаат ефект.
 identity-clear-site-data =
     .label = Исчисти колачиња и податоци за мрежно место
@@ -221,14 +217,11 @@ popup-all-windows-shared = Сите видливи прозорци на ваш�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Барај или внеси адреса
-
 urlbar-switch-to-tab =
     .value = Оди до јазиче:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Проширување:
-
 urlbar-go-button =
     .tooltiptext = Ја отвора адресата во локациската лента
 urlbar-page-action-button =
@@ -258,12 +251,9 @@ urlbar-result-action-search-w-engine = Пребарај со { $engine }
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> сега се прикажува на цел екран
 fullscreen-warning-no-domain = Овој документ сега се прикажува на цел екран
-
-
 fullscreen-exit-button = Излези од приказ на цел екран (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Излези од приказ на цел екран (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -309,7 +299,6 @@ bookmarks-tools =
     .label = Алатки за обележување
 bookmarks-bookmark-edit-panel =
     .label = Уреди го овој обележувач
-
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
@@ -336,7 +325,6 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = Работи локално
     .accesskey = Р
-
 toolbar-overflow-customize-button =
     .label = Прилагоди мени…
     .accesskey = П
@@ -364,7 +352,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Дозволи скокачки прозорци од { $uriHost }
     .accesskey = с
-
 popups-infobar-block =
     .label = Блокирај скокачки прозорци од { $uriHost }
     .accesskey = с
@@ -375,3 +362,7 @@ popups-infobar-dont-show-message =
     .label = Не ја покажувај оваа порака кога се блокираат скокачки прозорци
     .accesskey = Н
 
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Ново јазиче
