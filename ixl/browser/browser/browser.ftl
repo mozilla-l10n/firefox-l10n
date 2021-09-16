@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Axh kuxh la xaan axh stuul)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Axh kuxh la xaan axh stuul)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Axh kuxh la xaan axh stuul)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -149,7 +147,6 @@ search-one-offs-with-title = cheel,  chuk  tuk'
 bookmark-panel-cancel =
     .label = Ya'sakan
     .accesskey = C
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -259,3 +256,10 @@ ui-tour-info-panel-close =
 
 ##
 
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Eq'omal ku'tzan
+navbar-search =
+    .title = Chuka
