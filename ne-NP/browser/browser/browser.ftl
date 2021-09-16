@@ -418,8 +418,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = मुद्रण गर्नुहोस्
     .tooltiptext = यो पृष्ठ मुद्रण गर्नुहोस्
+navbar-library =
+    .label = Library
+    .tooltiptext = इतिहास, संग्रह गरिएका पुस्तकचिनोहरू, र अन्य हेर्नुहोस्
 navbar-search =
     .title = खोजी गर्नुहोस्
+navbar-accessibility-indicator =
+    .tooltiptext = उपलब्धता सुविधा सक्षम गरियो
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
