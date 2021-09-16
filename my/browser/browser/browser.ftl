@@ -459,3 +459,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ဤစာတန်းအား pop-ups ဝင်းဒိုးများပိတ်ထားပါက ထပ်မပြပါနှင့်။
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-search =
+    .title = ရှာဖွေပါ
