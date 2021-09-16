@@ -474,6 +474,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Preuzimanja
+navbar-overflow =
+    .tooltiptext = Više alata…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Štampaj
+    .tooltiptext = Printaj ovu stranicu… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Štampaj
     .tooltiptext = Štampaj ovu stranicu
