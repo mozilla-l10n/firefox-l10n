@@ -475,3 +475,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-overflow =
+    .tooltiptext = Doj sa ga'ue garasun'
