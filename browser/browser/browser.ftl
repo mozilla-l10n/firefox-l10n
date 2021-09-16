@@ -431,6 +431,8 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Muat turun
 navbar-overflow =
     .tooltiptext = Alatan seterusnya…
 # Variables:
@@ -438,6 +440,24 @@ navbar-overflow =
 navbar-print =
     .label = Cetak
     .tooltiptext = Cetak laman ini… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Cetak
+    .tooltiptext = Cetak halaman ini
+navbar-home =
+    .label = Laman
+    .tooltiptext = Laman { -brand-short-name }
+navbar-library =
+    .label = Pustaka
+    .tooltiptext = Papar sejarah, tandabuku yang disimpan dan banyak lagi
+navbar-search =
+    .title = Cari
+navbar-accessibility-indicator =
+    .tooltiptext = Ciri Ketercapaian Diaktifkan
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tab pelayar
 tabs-toolbar-new-tab =
     .label = Tab Baru
 tabs-toolbar-list-all-tabs =
