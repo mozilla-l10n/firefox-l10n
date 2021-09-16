@@ -736,9 +736,22 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = بارگیری‌ها
+navbar-overflow =
+    .tooltiptext = ابزارهای بیشتر…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = چاپ
+    .tooltiptext = چاپ کردن این صفحه({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = چاپ
     .tooltiptext = چاپ کردن این صفحه
+navbar-search =
+    .title = جست‌وجو
+tabs-toolbar-new-tab =
+    .label = زبانه جدید
 tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
