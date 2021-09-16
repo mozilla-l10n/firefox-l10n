@@ -751,3 +751,6 @@ tabs-toolbar =
     .aria-label = 브라우저 탭
 tabs-toolbar-new-tab =
     .label = 새 탭
+tabs-toolbar-list-all-tabs =
+    .label = 탭 전체 목록
+    .tooltiptext = 탭 전체 목록
