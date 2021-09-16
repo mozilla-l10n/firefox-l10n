@@ -756,6 +756,13 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Ko kuatiarogue mbokuatia
 navbar-search =
     .title = Heka
+navbar-accessibility-indicator =
+    .tooltiptext = Jeikekatu Reko Oñemyendýkuri
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Kundahára rendayke
 tabs-toolbar-new-tab =
     .label = Tendayke pyahu
 tabs-toolbar-list-all-tabs =
