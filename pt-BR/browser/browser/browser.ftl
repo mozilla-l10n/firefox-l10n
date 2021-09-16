@@ -753,6 +753,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Imprimir a página
 navbar-search =
     .title = Pesquisar
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Abas do navegador
 tabs-toolbar-new-tab =
     .label = Nova aba
 tabs-toolbar-list-all-tabs =
