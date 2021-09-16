@@ -460,3 +460,18 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No fâ vedde sta notiçia quande i pop-up son blocæ
     .accesskey = N
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Descaregamenti
+navbar-print-tab-modal-disabled =
+    .label = Stanpa
+    .tooltiptext = Stanpa questa pagina
+navbar-search =
+    .title = Riçerca
+tabs-toolbar-new-tab =
+    .label = Neuvo feuggio
+tabs-toolbar-list-all-tabs =
+    .label = Lista de tutti i feuggi
+    .tooltiptext = Lista de tutti i feuggi
