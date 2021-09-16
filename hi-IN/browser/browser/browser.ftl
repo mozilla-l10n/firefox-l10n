@@ -566,8 +566,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = छापें
     .tooltiptext = यह पृष्ठ छापें
+navbar-home =
+    .label = घर
+    .tooltiptext = { -brand-short-name } होम पेज
 navbar-search =
     .title = खोज
+navbar-accessibility-indicator =
+    .tooltiptext = अभिगम्यता सुविधाएँ सक्षम
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
