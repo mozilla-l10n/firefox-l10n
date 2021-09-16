@@ -352,3 +352,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Moenie weer wys wanneer opspringers geblokkeer word nie
     .accesskey = D
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Nuwe oortjie
