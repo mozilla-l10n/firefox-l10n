@@ -17,14 +17,12 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Izvēlēties visas cilnes
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
     .accesskey = P
 toolbar-context-menu-remove-extension =
     .label = Aizvākt meklētāju
     .accesskey = n
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -37,4 +35,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Pielāgot…
     .accesskey = P
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Izvēlne
+    .accesskey = I
