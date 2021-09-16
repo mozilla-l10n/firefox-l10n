@@ -754,13 +754,20 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimer
     .tooltiptext = Imprimer cette page
+navbar-home =
+    .label = Accueil
+    .tooltiptext = Page d’accueil de { -brand-short-name }
 navbar-search =
     .title = Rechercher
+navbar-accessibility-indicator =
+    .tooltiptext = Fonctionnalités d’accessibilité activées
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Onglets du navigateur
+tabs-toolbar-new-tab =
+    .label = Nouvel onglet
 tabs-toolbar-list-all-tabs =
     .label = Lister tous les onglets
     .tooltiptext = Lister tous les onglets
