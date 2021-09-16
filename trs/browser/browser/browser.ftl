@@ -482,8 +482,31 @@ navbar-downloads =
     .label = Nadunïnj
 navbar-overflow =
     .tooltiptext = Doj sa ga'ue garasun'
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Nari' ña du'ua
+    .tooltiptext = Giri' ña du'ua pajinâ na… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Nari' ña du'ua
     .tooltiptext = Giri' ña du'ua pagina na
+navbar-home =
+    .label = Riñan gayi'ij
+    .tooltiptext = { -brand-short-name } Riña gayi'ìj
+navbar-library =
+    .label = Dukuâ ñanj
+    .tooltiptext = Ni'io' riña gaché nu', nej markador na'ní so' nī doj
 navbar-search =
     .title = Nana'ui'
+navbar-accessibility-indicator =
+    .tooltiptext = Hua ni'nïnj da' gatu'
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Nej rakïj ñanj riña aché nu'
+tabs-toolbar-new-tab =
+    .label = Rakïj ñanj nakàa
+tabs-toolbar-list-all-tabs =
+    .label = Ni'io' nej rakïj ñanj hua ni'ninj
+    .tooltiptext = Ni'io' nej rakïj ñanj hua ni'ninj
