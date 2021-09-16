@@ -742,8 +742,19 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Clò-bhuail
     .tooltiptext = Clò-bhuail an duilleag seo
+navbar-home =
+    .label = Dhachaigh
+    .tooltiptext = Duilleag-dhachaigh { -brand-short-name }
+navbar-library =
+    .label = Leabhar-lann
+    .tooltiptext = Seall air an eachdraidh, comharran-lìn a shàbhail thu ’s mòran a bharrachd
 navbar-search =
     .title = Lorg
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tabaichean a' bhrabhsair
 tabs-toolbar-new-tab =
     .label = Taba ùr
 tabs-toolbar-list-all-tabs =
