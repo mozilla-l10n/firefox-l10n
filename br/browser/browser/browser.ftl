@@ -714,11 +714,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Moullañ
     .tooltiptext = Moullañ ar bajennad-mañ
+navbar-home =
+    .label = D'ar gêr
+    .tooltiptext = Pennbajenn { -brand-short-name }
 navbar-library =
     .label = Levraoueg
     .tooltiptext = Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh
 navbar-search =
     .title = Klask
+navbar-accessibility-indicator =
+    .tooltiptext = Gweredekaet ar c'heweriusterioù haezadusted
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
