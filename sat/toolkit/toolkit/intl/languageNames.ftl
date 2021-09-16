@@ -2,15 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-language-name-aa = आफार
-language-name-ab = अबखाजियन
-language-name-ae = एवेस्टान
-language-name-af = आफ्रीकान
-language-name-ak = अकान
-language-name-am = अम्हारिक
-language-name-an = अर्गोनीज
-language-name-ar = अरबी
-language-name-as = असामी
+language-name-aa = ᱟᱹᱯᱷᱟᱹᱨ
+language-name-ab = ᱟᱵᱠᱷᱟᱡᱤᱭᱟᱹᱱ
+language-name-ach = ᱟᱹᱠᱷᱚᱞᱤ
+language-name-ae = ᱟᱹᱣᱮᱥᱛᱟᱱ
+language-name-af = ᱟᱹᱯᱷᱨᱤᱠᱟᱱᱥ
+language-name-ak = ᱟᱠᱟᱱ
+language-name-am = ᱟᱢᱦᱟᱨᱤᱠ
+language-name-an = ᱟᱨᱟᱜᱚᱱᱤᱡᱽ
+language-name-ar = ᱟᱹᱨᱵᱤ
+language-name-as = ᱟᱥᱟᱢᱤ
 language-name-ast = एस्टुरियन
 language-name-av = आवारिक
 language-name-ay = एमारा
