@@ -724,6 +724,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = التنقل
 navbar-downloads =
     .label = التنزيلات
 navbar-overflow =
@@ -736,8 +741,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = اطبع
     .tooltiptext = اطبع هذه الصفحة
+navbar-home =
+    .label = البداية
+    .tooltiptext = صفحة بداية { -brand-short-name }
+navbar-library =
+    .label = المكتبة
+    .tooltiptext = اعرض التأريخ، والعلامات المحفوظة وغيرها
 navbar-search =
     .title = ابحث
+navbar-accessibility-indicator =
+    .tooltiptext = مزايا الإتاحة مفعّلة
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ألسنة المتصفح
 tabs-toolbar-new-tab =
     .label = لسان جديد
 tabs-toolbar-list-all-tabs =
