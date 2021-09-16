@@ -747,11 +747,26 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navegación
+navbar-downloads =
+    .label = Descargas
 navbar-overflow =
     .tooltiptext = Más herramientas…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página
+navbar-home =
+    .label = Inicio
+    .tooltiptext = Página de inicio de { -brand-short-name }
 navbar-library =
     .label = Biblioteca
     .tooltiptext = Ver historial, marcadores guardados y más
+navbar-search =
+    .title = Buscar
 navbar-accessibility-indicator =
     .tooltiptext = Funciones de accesibilidad activadas
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -761,3 +776,6 @@ tabs-toolbar =
     .aria-label = Pestañas del navegador
 tabs-toolbar-new-tab =
     .label = Nueva pestaña
+tabs-toolbar-list-all-tabs =
+    .label = Listar todas las pestañas
+    .tooltiptext = Listar todas las pestañas
