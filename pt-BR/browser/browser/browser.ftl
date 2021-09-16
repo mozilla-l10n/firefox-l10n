@@ -743,9 +743,16 @@ navbar-downloads =
     .label = Downloads
 navbar-overflow =
     .tooltiptext = Mais ferramentas…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir a página
+navbar-search =
+    .title = Pesquisar
 tabs-toolbar-new-tab =
     .label = Nova aba
 tabs-toolbar-list-all-tabs =
