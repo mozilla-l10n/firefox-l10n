@@ -429,8 +429,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = මුද්‍රණය
     .tooltiptext = පිටුව මුද්‍රණය
+navbar-library =
+    .label = පුස්තකාලය
+    .tooltiptext = ඉතිහාසය, සුරැකි පිටු සලකුණු හා තවත් දෑ බලන්න
 navbar-search =
     .title = සොයන්න
+navbar-accessibility-indicator =
+    .tooltiptext = පිවිසුම්කාරක විශේෂාංග සක්‍රීයයි
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
