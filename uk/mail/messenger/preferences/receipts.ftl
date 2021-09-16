@@ -4,48 +4,59 @@
 
 receipts-dialog-window =
     .title = Сповіщення про отримання
-
 return-receipt-checkbox =
     .label = Завжди вимагати звіт про прочитання під час надсилання повідомлень
     .acceskey = з
-
+return-receipt-checkbox-control =
+    .label = Завжди вимагати звіт про прочитання під час надсилання повідомлень
+    .accesskey = З
 receipt-arrive-label = При отриманні сповіщення:
-
 receipt-leave-radio =
     .label = Залишити в теці «Вхідні»
     .acceskey = ш
-
 receipt-move-radio =
     .label = Перемістити в теку «Надіслані»
     .acceskey = м
-
+receipt-leave-radio-control =
+    .label = Залишити в теці «Вхідні»
+    .accesskey = В
+receipt-move-radio-control =
+    .label = Перемістити в теку «Надіслані»
+    .accesskey = Н
 receipt-request-label = При отриманні запиту на сповіщення:
-
 receipt-return-never-radio =
     .label = Ніколи не надсилати сповіщення про отримання
     .acceskey = Н
-
 receipt-return-some-radio =
     .label = Надсилати сповіщення для деяких повідомлень
     .acceskey = с
-
 receipt-not-to-cc =
     .value = Якщо я не знаходжуся в списку «Кому» або «Копія»:
     .acceskey = Я
-
+receipt-return-never-radio-control =
+    .label = Ніколи не надсилати сповіщення про отримання
+    .accesskey = н
+receipt-return-some-radio-control =
+    .label = Надсилати сповіщення для деяких повідомлень
+    .accesskey = л
+receipt-not-to-cc-label =
+    .value = Якщо я відсутній у списках «Кому» чи «Копія»:
+    .accesskey = к
 receipt-send-never-label =
     .label = Ніколи не надсилати
-
 receipt-send-always-label =
     .label = Завжди надсилати
-
 receipt-send-ask-label =
     .label = Питати мене
-
 sender-outside-domain =
     .value = Якщо відправник не знаходиться в моєму домені:
     .acceskey = м
-
 other-cases-label =
     .value = У решті випадків:
     .acceskey = ш
+sender-outside-domain-label =
+    .value = Якщо відправник перебуває поза моїм доменом:
+    .accesskey = о
+other-cases-text-label =
+    .value = В інших випадках:
+    .accesskey = і
