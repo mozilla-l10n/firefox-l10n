@@ -642,6 +642,8 @@ navbar-search =
 # in the string
 tabs-toolbar =
     .aria-label = Da sukua ka̱a̱ nánuku
+tabs-toolbar-new-tab =
+    .label = Sukua jíía
 tabs-toolbar-list-all-tabs =
     .label = Kutuvi kuaiyo pestañas
     .tooltiptext = Kutuvi kuaiyo pestañas
