@@ -471,6 +471,8 @@ navbar-library =
     .tooltiptext = ઇતિહાસ, સાચવેલા બુકમાર્ક્સ, અને વધુ જુઓ
 navbar-search =
     .title = શોધો
+navbar-accessibility-indicator =
+    .tooltiptext = ઍક્સેસિબિલિટી સુવિધાઓ સક્ષમ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
