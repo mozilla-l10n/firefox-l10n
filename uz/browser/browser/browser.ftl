@@ -498,3 +498,18 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Rasm ichida rasm rejimini yashirish
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Yuklab olishlar
+navbar-overflow =
+    .tooltiptext = Ko‘proq asboblar…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Chop qilish
+    .tooltiptext = { $shortcut } sahifasini chop qilish
+navbar-print-tab-modal-disabled =
+    .label = Chop qilish
+    .tooltiptext = Ushbu sahifani chop qilish
