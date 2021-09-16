@@ -499,6 +499,22 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ডাউনলোড
+navbar-overflow =
+    .tooltiptext = আরও টুল…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = মুদ্রণ
+    .tooltiptext = এই পাতাটি মুদ্রণ করুন… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = মুদ্রণ
+    .tooltiptext = এই পাতা মুদ্রণ
+navbar-search =
+    .title = অনুসন্ধান
+tabs-toolbar-new-tab =
+    .label = নতুন ট্যাব T
 tabs-toolbar-list-all-tabs =
     .label = সব ট্যাবের তালিকা
     .tooltiptext = সব ট্যাবের তালিকা
