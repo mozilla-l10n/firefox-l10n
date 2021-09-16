@@ -742,6 +742,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Ñekundaha
 navbar-downloads =
     .label = Ñemboguejy
 navbar-overflow =
@@ -754,6 +759,12 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Mbokuatia
     .tooltiptext = Ko kuatiarogue mbokuatia
+navbar-home =
+    .label = Ñepyrũ
+    .tooltiptext = Kuatiarogue ñepyrũ { -brand-short-name } mba’éva
+navbar-library =
+    .label = Mba’erysýi
+    .tooltiptext = Ehecha tembiasakue, ñongatupyre ha ambueve
 navbar-search =
     .title = Heka
 navbar-accessibility-indicator =
