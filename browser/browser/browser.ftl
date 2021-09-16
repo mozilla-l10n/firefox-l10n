@@ -739,6 +739,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigasjon
 navbar-downloads =
     .label = Nedlastinger
 navbar-overflow =
@@ -751,8 +756,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Skriv ut
     .tooltiptext = Skriv ut denne siden
+navbar-home =
+    .label = Startside
+    .tooltiptext = { -brand-short-name }-startside
+navbar-library =
+    .label = Arkiv
+    .tooltiptext = Se historikk, lagrede bokmerker og mer
 navbar-search =
     .title = Søk
+navbar-accessibility-indicator =
+    .tooltiptext = Tilgjengelighetsfunksjoner aktivert
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Nettleserfaner
 tabs-toolbar-new-tab =
     .label = Ny fane
 tabs-toolbar-list-all-tabs =
