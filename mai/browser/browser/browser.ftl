@@ -321,5 +321,13 @@ navbar-downloads =
 navbar-print-tab-modal-disabled =
     .label = छापू
     .tooltiptext = ई पृष्ठ छापू
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ब्राउजर टैब
 tabs-toolbar-new-tab =
     .label = नव टैब
+tabs-toolbar-list-all-tabs =
+    .label = सभटा टैब सूचीबद्ध करू
+    .tooltiptext = सभटा टैब सूचीबद्ध करू
