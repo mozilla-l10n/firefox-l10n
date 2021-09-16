@@ -417,8 +417,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ അച്ചടിക്കുക
+navbar-library =
+    .label = സംഭരണി
+    .tooltiptext = ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക
 navbar-search =
     .title = തെരയുക
+navbar-accessibility-indicator =
+    .tooltiptext = അക്സസ്സിബിലിറ്റി ഫീച്ചേര്‍സ് സജ്ജമാണ്
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
