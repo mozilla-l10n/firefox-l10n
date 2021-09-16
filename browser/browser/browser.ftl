@@ -434,3 +434,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = পপ-আপ প্রদর্শনে বাধা প্রদান করা হলে এই বার্তাটি প্রদর্শন করা হবে না
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-search =
+    .title = অনুসন্ধান
