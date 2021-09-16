@@ -102,7 +102,6 @@ browser-window-minimize-button =
 
 bookmarks-sidebar-content =
     .aria-label = Tibekiso
-
 bookmarks-toolbar-menu =
     .label = LiIthulusi-bha Letibekiso
 bookmarks-toolbar-placeholder =
@@ -150,3 +149,7 @@ popups-infobar-dont-show-message =
     .label = Ungawukhombisi lomlayeto nangabe emapopup avinjelwe
     .accesskey = D
 
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Emathebhu Lamasha
