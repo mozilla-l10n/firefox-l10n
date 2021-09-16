@@ -736,3 +736,15 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Hide Picture-in-Picture Toggle
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Downloads
+navbar-print-tab-modal-disabled =
+    .label = Print
+    .tooltiptext = Print this page
+navbar-search =
+    .title = Search
+tabs-toolbar-new-tab =
+    .label = New Tab
