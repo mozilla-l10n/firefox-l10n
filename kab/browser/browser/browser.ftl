@@ -744,6 +744,8 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Tunigin
+navbar-overflow =
+    .tooltiptext = Ugar n yifecka…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
