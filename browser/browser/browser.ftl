@@ -712,3 +712,17 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Скриване на бутона за превключване на картина в картината
     .accesskey = с
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Изтегляния
+navbar-overflow =
+    .tooltiptext = Още инструменти…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Отпечатване
+    .tooltiptext = Отпечатване на страница… ({ $shortcut })
+navbar-search =
+    .title = Търсене
