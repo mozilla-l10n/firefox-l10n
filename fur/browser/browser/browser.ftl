@@ -693,3 +693,9 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Plate seletôr pal Picture-in-Picture
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = Stampe
+    .tooltiptext = Stampe cheste pagjine
