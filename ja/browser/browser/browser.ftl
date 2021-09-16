@@ -722,5 +722,24 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ダウンロード
+navbar-overflow =
+    .tooltiptext = その他のツール...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = 印刷
+    .tooltiptext = このページを印刷します... ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = 印刷
+    .tooltiptext = このページを印刷します
+navbar-library =
+    .label = ブラウジングライブラリー
+    .tooltiptext = 履歴や保存したブックマークなどを表示します
+navbar-search =
+    .title = 検索
+navbar-accessibility-indicator =
+    .tooltiptext = アクセシビリティ機能が有効です
 tabs-toolbar-new-tab =
     .label = 新しいタブ
