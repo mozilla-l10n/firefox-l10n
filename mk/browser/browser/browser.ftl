@@ -368,11 +368,21 @@ navbar-downloads =
     .label = Преземања
 navbar-overflow =
     .tooltiptext = Повеќе алатки...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Печати
+    .tooltiptext = Печати ја оваа страница… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Печати
     .tooltiptext = Ја печати оваа страница
+navbar-library =
+    .label = Библиотека
+    .tooltiptext = Преглед на историјата на прелистување, снимените обележувачи и друго
 navbar-search =
     .title = Пребарување
+navbar-accessibility-indicator =
+    .tooltiptext = Особеностите за пристапност се овозможени
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
