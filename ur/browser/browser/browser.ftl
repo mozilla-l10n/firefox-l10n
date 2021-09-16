@@ -616,3 +616,13 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = تصویر میں تصویر ٹوگل چھپائیں
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ڈاؤن لوڈ
+tabs-toolbar-new-tab =
+    .label = نیا ٹیب
+tabs-toolbar-list-all-tabs =
+    .label = تمام ٹیب دکھائیں
+    .tooltiptext = تمام ٹیب دکھائیں
