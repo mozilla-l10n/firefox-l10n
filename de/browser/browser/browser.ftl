@@ -746,5 +746,13 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Diese Seite drucken
 navbar-search =
     .title = Suchen
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Browser-Tabs
 tabs-toolbar-new-tab =
     .label = Neuer Tab
+tabs-toolbar-list-all-tabs =
+    .label = Alle Tabs auflisten
+    .tooltiptext = Alle Tabs auflisten
