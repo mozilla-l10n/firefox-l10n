@@ -736,3 +736,15 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Gøym bilde-i-bilde-veksleknapp
     .accesskey = G
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Nedlastingar
+navbar-print-tab-modal-disabled =
+    .label = Skriv ut
+    .tooltiptext = Skriv ut denne sida
+navbar-search =
+    .title = Søk
+tabs-toolbar-new-tab =
+    .label = Ny fane
