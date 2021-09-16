@@ -656,6 +656,8 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = మరిన్ని పనిముట్లు…
 navbar-print-tab-modal-disabled =
     .label = ముద్రించు
     .tooltiptext = ఈ పేజీని ముద్రించు
