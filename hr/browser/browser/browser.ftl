@@ -739,3 +739,6 @@ navbar-downloads =
     .label = Preuzimanja
 tabs-toolbar-new-tab =
     .label = Nova kartica
+tabs-toolbar-list-all-tabs =
+    .label = Popis svih tabova
+    .tooltiptext = Popis svih tabova
