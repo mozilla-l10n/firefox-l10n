@@ -770,8 +770,18 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Argraffu
     .tooltiptext = Argraffu'r dudalen
+navbar-library =
+    .label = Llyfrgell
+    .tooltiptext = Gweld hanes, nodau tudalen wedi eu cadw, a rhagor
 navbar-search =
     .title = Chwilio
+navbar-accessibility-indicator =
+    .tooltiptext = Nodweddion Hygyrchedd wedi eu Galluogi
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tabiau porwyr
 tabs-toolbar-new-tab =
     .label = Tab Newydd
 tabs-toolbar-list-all-tabs =
