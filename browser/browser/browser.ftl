@@ -755,5 +755,9 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Преузимања
+navbar-overflow =
+    .tooltiptext = Више алатки…
 navbar-search =
     .title = Претрага
