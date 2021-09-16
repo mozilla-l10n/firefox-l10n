@@ -364,6 +364,13 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Преземања
+navbar-print-tab-modal-disabled =
+    .label = Печати
+    .tooltiptext = Ја печати оваа страница
+navbar-search =
+    .title = Пребарување
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -371,3 +378,6 @@ tabs-toolbar =
     .aria-label = Browser tabs
 tabs-toolbar-new-tab =
     .label = Ново јазиче
+tabs-toolbar-list-all-tabs =
+    .label = Прикажи ги сите јазичиња
+    .tooltiptext = Прикажи ги сите јазичиња
