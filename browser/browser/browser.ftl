@@ -732,3 +732,10 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Sakrij prekidač za slika-u-sliku
     .accesskey = S
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Preuzimanja
+tabs-toolbar-new-tab =
+    .label = Nova kartica
