@@ -747,8 +747,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir esta página
+navbar-home =
+    .label = Inicio
+    .tooltiptext = Página de inicio de { -brand-short-name }
 navbar-search =
     .title = Buscar
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Pestañas del navegador
 tabs-toolbar-new-tab =
     .label = Nueva pestaña
 tabs-toolbar-list-all-tabs =
