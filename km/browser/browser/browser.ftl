@@ -428,3 +428,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = កុំ​បង្ហាញ​សារ​នេះ ​ពេល​ដែល​បង្អួច​លេចឡើង​ត្រូវ​បាន​ទប់ស្កាត់
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-search =
+    .title = ស្វែងរក
