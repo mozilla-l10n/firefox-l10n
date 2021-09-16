@@ -734,3 +734,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = הסתרת הכפתור של תמונה בתוך תמונה
     .accesskey = ה
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = לשונית חדשה
