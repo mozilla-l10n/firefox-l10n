@@ -740,3 +740,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Скрыть переключатель «Картинка в картинке»
     .accesskey = ы
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Новая вкладка
