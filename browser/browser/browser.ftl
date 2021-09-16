@@ -733,3 +733,35 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Zuppentar il buttun per activar/deactivar maletg-en-maletg
     .accesskey = Z
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Telechargiadas
+navbar-overflow =
+    .tooltiptext = Dapli utensils…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Stampar
+    .tooltiptext = Stampar questa pagina… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Stampar
+    .tooltiptext = Stampar questa pagina
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Mussar la cronologia, ils segnapaginas e dapli
+navbar-search =
+    .title = Tschertgar
+navbar-accessibility-indicator =
+    .tooltiptext = Activà las funcziuns d'accessibilitad
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tabs dal navigatur
+tabs-toolbar-new-tab =
+    .label = Nov tab
+tabs-toolbar-list-all-tabs =
+    .label = Far ina glista da tut ils tabs
+    .tooltiptext = Far ina glista da tut ils tabs
