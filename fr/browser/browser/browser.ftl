@@ -746,3 +746,8 @@ navbar-downloads =
     .label = Téléchargements
 navbar-search =
     .title = Rechercher
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Onglets du navigateur
