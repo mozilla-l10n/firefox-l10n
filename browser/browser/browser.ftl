@@ -749,3 +749,6 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Oldal kinyomtatása
 tabs-toolbar-new-tab =
     .label = Új lap
+tabs-toolbar-list-all-tabs =
+    .label = Minden lap felsorolása
+    .tooltiptext = Minden lap felsorolása
