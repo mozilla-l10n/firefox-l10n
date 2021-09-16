@@ -564,3 +564,11 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = Տպել
+    .tooltiptext = Տպել տվյալ էջը
+tabs-toolbar-new-tab =
+    .label = Նոր Ներդիր
