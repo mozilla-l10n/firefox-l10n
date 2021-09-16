@@ -359,3 +359,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ši alhabaroo cebe waati kaŋ biiboŋ batawey gagayandi
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Zumandiyaney
+navbar-print-tab-modal-disabled =
+    .label = Kar
+    .tooltiptext = Moɲoo woo kar
