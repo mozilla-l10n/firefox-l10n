@@ -472,6 +472,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigacija
 navbar-downloads =
     .label = Preuzimanja
 navbar-overflow =
@@ -489,6 +494,8 @@ navbar-library =
     .tooltiptext = Prikaži historiju, spašene zabilješke, i više
 navbar-search =
     .title = Pretraga
+navbar-accessibility-indicator =
+    .tooltiptext = Funkcionalnosti pristupačnosti su omogućene
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
