@@ -228,5 +228,7 @@ navbar-downloads =
 navbar-home =
     .label = Ônkeuë
     .tooltiptext = Ônkeuë { -brand-short-name }
+navbar-search =
+    .title = Mita
 tabs-toolbar-new-tab =
     .label = Tab Barô
