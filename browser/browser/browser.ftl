@@ -743,5 +743,22 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Завантаження
+navbar-overflow =
+    .tooltiptext = Інші інструменти…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Друкувати
+    .tooltiptext = Друкувати цю сторінку… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Друкувати
+    .tooltiptext = Надрукувати поточну сторінку
+navbar-search =
+    .title = Пошук
 tabs-toolbar-new-tab =
     .label = Нова вкладка
+tabs-toolbar-list-all-tabs =
+    .label = Список усіх вкладок
+    .tooltiptext = Список усіх вкладок
