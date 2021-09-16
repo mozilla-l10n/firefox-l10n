@@ -219,6 +219,8 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Хачайдааһыннар
+navbar-overflow =
+    .tooltiptext = Атын тэриллэр...
 navbar-print-tab-modal-disabled =
     .label = Бэчээт
     .tooltiptext = Бу сирэйи бэчээттээ
