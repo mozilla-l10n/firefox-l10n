@@ -11,14 +11,12 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ជ្រើសរើស​ផ្ទាំង​ទាំងអស់
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = គ្រប់គ្រងផ្នែកបន្ថែម
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = យកផ្នែក​បន្ថែម​ចេញ
     .accesskey = v
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -31,4 +29,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = ប្ដូរ​តាម​តម្រូវ​ការ…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = របារ​ម៉ឺនុយ
+    .accesskey = M
