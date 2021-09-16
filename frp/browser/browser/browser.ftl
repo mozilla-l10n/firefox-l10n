@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigacion privâye)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigacion privâye)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigacion privâye)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigacion privâye)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -68,7 +66,6 @@ urlbar-plugins-notification-anchor =
 
 ## Page Action Context Menu
 
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -138,6 +135,7 @@ identity-remove-cert-exception =
 
 ## Labels shown above groups of urlbar results
 
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -158,7 +156,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Recondre la barra d’otils de mârca pâges
            *[other] &Bârra de mârca pâges
         }
-
 bookmarks-toolbar-menu =
     .label = Bârra de mârca pâges
 
@@ -170,7 +167,9 @@ bookmarks-toolbar-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -186,10 +185,19 @@ bookmarks-toolbar-menu =
 
 ## Remote / Synced tabs
 
+
 ##
+
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+
 ##
 
+
+# Navigator Toolbox
+
+tabs-toolbar-list-all-tabs =
+    .label = Listar totes les ongllètes
+    .tooltiptext = Listar totes les ongllètes
