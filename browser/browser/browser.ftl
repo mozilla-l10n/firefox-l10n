@@ -514,3 +514,13 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Peida pilt-pildis lüliti
     .accesskey = p
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigatsioon
+navbar-accessibility-indicator =
+    .tooltiptext = Hõlbustus on lubatud
