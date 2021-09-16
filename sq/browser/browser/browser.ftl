@@ -712,3 +712,10 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Fshih Buton Picture-in-Picture
     .accesskey = F
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Shkarkime
+tabs-toolbar-new-tab =
+    .label = Skedë e Re
