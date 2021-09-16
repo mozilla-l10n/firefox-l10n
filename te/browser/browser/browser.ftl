@@ -653,3 +653,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = ముద్రించు
+    .tooltiptext = ఈ పేజీని ముద్రించు
