@@ -708,3 +708,17 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Mga Download
+navbar-search =
+    .title = Hanapin
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Mga tab ng browser
+tabs-toolbar-new-tab =
+    .label = Bagong Tab
