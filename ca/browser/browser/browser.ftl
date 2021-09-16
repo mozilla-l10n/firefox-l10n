@@ -715,6 +715,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navegació
 navbar-downloads =
     .label = Baixades
 navbar-overflow =
@@ -727,8 +732,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimeix
     .tooltiptext = Imprimeix aquesta pàgina
+navbar-home =
+    .label = Inici
+    .tooltiptext = Pàgina d'inici del { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Mostra l'historial, les adreces d'interès desades i més
 navbar-search =
     .title = Cerca
+navbar-accessibility-indicator =
+    .tooltiptext = Funcions d'accessibilitat activades
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Pestanyes del navegador
 tabs-toolbar-new-tab =
     .label = Pestanya nova
 tabs-toolbar-list-all-tabs =
