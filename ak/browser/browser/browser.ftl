@@ -225,6 +225,8 @@ navbar-print-tab-modal-disabled =
 # in the string
 tabs-toolbar =
     .aria-label = Brawsa ntab
+tabs-toolbar-new-tab =
+    .label = Tab foforo
 tabs-toolbar-list-all-tabs =
     .label = Kyerɛ ntab nyinara
     .tooltiptext = Kyerɛ ntab nyinara
