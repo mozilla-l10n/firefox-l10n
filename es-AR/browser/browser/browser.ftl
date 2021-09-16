@@ -739,3 +739,30 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Alternar ocultar Picture-in-Picture
     .accesskey = P
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Descargas
+navbar-overflow =
+    .tooltiptext = Más herramientas…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página
+navbar-search =
+    .title = Buscar
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Pestañas del navegador
+tabs-toolbar-new-tab =
+    .label = Nueva pestaña
+tabs-toolbar-list-all-tabs =
+    .label = Listar todas las pestañas
+    .tooltiptext = Listar todas las pestañas
