@@ -711,3 +711,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = ซ่อนสลับภาพที่เล่นควบคู่
     .accesskey = อ
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = แท็บใหม่
