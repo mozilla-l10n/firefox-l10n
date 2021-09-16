@@ -402,3 +402,14 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = പോപ്പപ്പുകള്‍ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ഡൌണ്‍ലോഡുകള്‍
+navbar-print-tab-modal-disabled =
+    .label = പ്രിന്റ് ചെയ്യുക
+    .tooltiptext = ഈ താള്‍ അച്ചടിക്കുക
+tabs-toolbar-list-all-tabs =
+    .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
+    .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
