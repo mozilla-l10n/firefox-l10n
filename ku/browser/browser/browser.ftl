@@ -224,6 +224,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yên hatine daxistin
+navbar-overflow =
+    .tooltiptext = Amûrên din…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Çap bike
+    .tooltiptext = Vê rûpelê çap bike… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Çap bike
     .tooltiptext = Vê rûpelê çap bike
