@@ -417,6 +417,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ അച്ചടിക്കുക
+navbar-search =
+    .title = തെരയുക
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ബ്രൌസര്‍ റ്റാബുകള്‍
 tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
