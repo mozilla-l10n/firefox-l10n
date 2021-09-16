@@ -735,8 +735,20 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = Thêm công cụ...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = In
+    .tooltiptext = In trang này… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = In
     .tooltiptext = In trang này
 navbar-search =
     .title = Tìm kiếm
+tabs-toolbar-new-tab =
+    .label = Thẻ mới
+tabs-toolbar-list-all-tabs =
+    .label = Liệt kê tất cả các thẻ
+    .tooltiptext = Liệt kê tất cả các thẻ
