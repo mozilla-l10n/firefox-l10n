@@ -401,3 +401,43 @@ ui-tour-info-panel-close =
 picture-in-picture-hide-toggle =
     .label = Ammuccia buttuni dâ mmàggini-nnâ-mmàggini
     .accesskey = A
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigazziuni
+navbar-downloads =
+    .label = Scarricamenti
+navbar-overflow =
+    .tooltiptext = Cchiù strumenti…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Stampa
+    .tooltiptext = Stampa sta pàggina… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Stampa
+    .tooltiptext = Stampa sta pàggina
+navbar-home =
+    .label = Pàggina mastra
+    .tooltiptext = Pàggina mastra di { -brand-short-name }
+navbar-library =
+    .label = Libbrarìa
+    .tooltiptext = Vidi cronuluggìa, nzingalibbri sarbati e autru
+navbar-search =
+    .title = Cerca
+navbar-accessibility-indicator =
+    .tooltiptext = Carattarìstichi d'accissibbilità abbilitati
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Schedi di navigazziuni
+tabs-toolbar-new-tab =
+    .label = Nova scheda
+tabs-toolbar-list-all-tabs =
+    .label = Lista di tutti i schedi
+    .tooltiptext = Lista di tutti i schedi
