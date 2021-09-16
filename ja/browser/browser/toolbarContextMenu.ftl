@@ -65,3 +65,6 @@ toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = 他のブックマークを表示
     .accesskey = h
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = メニューバー
+    .accesskey = M
