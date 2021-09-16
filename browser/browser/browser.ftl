@@ -627,13 +627,29 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigare
 navbar-downloads =
     .label = Descărcări
 navbar-overflow =
     .tooltiptext = Mai multe instrumente…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Tipărește
+    .tooltiptext = Tipărește pagina… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Tipărește
+    .tooltiptext = Tipărește pagina
 navbar-home =
     .label = Pagină de start
     .tooltiptext = Pagina de start { -brand-short-name }
+navbar-library =
+    .label = Bibliotecă
+    .tooltiptext = Vezi istoricul, marcajele salvate și multe altele
 navbar-search =
     .title = Caută
 navbar-accessibility-indicator =
