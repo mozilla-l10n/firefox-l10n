@@ -739,6 +739,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Πλοήγηση
 navbar-downloads =
     .label = Λήψεις
 navbar-overflow =
@@ -761,5 +766,13 @@ navbar-search =
     .title = Αναζήτηση
 navbar-accessibility-indicator =
     .tooltiptext = Οι λειτουργίες προσβασιμότητας ενεργοποιήθηκαν
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Καρτέλες φυλλομετρητή
 tabs-toolbar-new-tab =
     .label = Νέα καρτέλα
+tabs-toolbar-list-all-tabs =
+    .label = Παράθεση όλων των καρτελών
+    .tooltiptext = Παράθεση όλων των καρτελών
