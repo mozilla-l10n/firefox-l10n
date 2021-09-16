@@ -748,8 +748,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = ਪਰਿੰਟ ਕਰੋ
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
+navbar-home =
+    .label = ਘਰ
+    .tooltiptext = { -brand-short-name } ਮੁੱਖ ਸਫ਼ਾ
+navbar-library =
+    .label = ਲਾਇਬਰੇਰੀ
+    .tooltiptext = ਅਤੀਤ, ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਹੋਰ ਨੂੰ ਵੇਖੋ
 navbar-search =
     .title = ਖੋਜ
+navbar-accessibility-indicator =
+    .tooltiptext = ਅਸੈਸਬਿਲਟੀ ਫੀਚਰ ਸਮਰੱਥ ਕੀਤੇ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
