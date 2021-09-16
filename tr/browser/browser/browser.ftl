@@ -741,5 +741,28 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Gezinme
+navbar-print-tab-modal-disabled =
+    .label = Yazdır
+    .tooltiptext = Bu sayfayı yazdır
+navbar-home =
+    .label = Başlangıç
+    .tooltiptext = { -brand-short-name } Giriş Sayfası
+navbar-library =
+    .label = Arşiv
+    .tooltiptext = Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın
+navbar-search =
+    .title = Ara
+navbar-accessibility-indicator =
+    .tooltiptext = Erişilebilirlik özellikleri açık
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tarayıcı sekmeleri
 tabs-toolbar-new-tab =
     .label = Yeni sekme
