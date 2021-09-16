@@ -418,6 +418,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = मुद्रण गर्नुहोस्
     .tooltiptext = यो पृष्ठ मुद्रण गर्नुहोस्
+navbar-search =
+    .title = खोजी गर्नुहोस्
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ब्राउजर ट्याबहरू
 tabs-toolbar-new-tab =
     .label = नयाँ ट्याब
 tabs-toolbar-list-all-tabs =
