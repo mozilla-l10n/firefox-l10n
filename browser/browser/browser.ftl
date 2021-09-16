@@ -398,3 +398,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Folaigh an Scoránú Pictiúr-i-bPictiúr
     .accesskey = F
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Cluaisín Nua
