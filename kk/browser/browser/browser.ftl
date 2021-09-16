@@ -733,3 +733,18 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Суреттегі сурет қосқышын жасыру
     .accesskey = ы
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Жүктемелер
+navbar-print-tab-modal-disabled =
+    .label = Баспаға шығару
+    .tooltiptext = Ағымдағы бетті баспаға шығару
+navbar-search =
+    .title = Іздеу
+tabs-toolbar-new-tab =
+    .label = Жаңа бет
+tabs-toolbar-list-all-tabs =
+    .label = Барлық беттерді тізіп шығу
+    .tooltiptext = Барлық беттерді тізіп шығу

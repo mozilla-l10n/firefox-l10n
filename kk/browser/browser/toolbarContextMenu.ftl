@@ -20,7 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Барлық беттерді таңдау
     .accesskey = т
-
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -28,21 +27,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Жабылған беттерді қайта ашу
         }
     .accesskey = й
-
 toolbar-context-menu-manage-extension =
     .label = Кеңейтуді басқару
     .accesskey = е
 toolbar-context-menu-remove-extension =
     .label = Кеңейтуді өшіру
     .accesskey = ш
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Кеңейтуді хабарлау
     .accesskey = у
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -61,7 +57,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Құралдар панелін баптау…
     .accesskey = п
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Әрқашан көрсету
     .accesskey = а
@@ -71,7 +66,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Тек жаңа беттерде көрсету
     .accesskey = е
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Басқа бетбелгілерді көрсету
     .accesskey = с
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Мәзір жолағы
+    .accesskey = М
