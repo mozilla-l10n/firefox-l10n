@@ -724,3 +724,16 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Piilota kuva kuvassa -kytkin
     .accesskey = P
+
+# Navigator Toolbox
+
+navbar-overflow =
+    .tooltiptext = Lisää työkaluja…
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Selaimen välilehdet
+tabs-toolbar-list-all-tabs =
+    .label = Listaa kaikki välilehdet
+    .tooltiptext = Listaa kaikki välilehdet
