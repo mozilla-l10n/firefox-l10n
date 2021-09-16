@@ -797,6 +797,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Stahování
 navbar-overflow =
     .tooltiptext = Další nástroje…
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -806,3 +808,6 @@ tabs-toolbar =
     .aria-label = Ouška panelů
 tabs-toolbar-new-tab =
     .label = Nový panel
+tabs-toolbar-list-all-tabs =
+    .label = Seznam všech panelů
+    .tooltiptext = Seznam všech panelů
