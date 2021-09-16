@@ -12,11 +12,9 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Asocedió un fallu na conexón a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Códigu del fallu: { $error }
-
 ssl-error-bad-client = El sirvidor atopó datos incorreutos del veceru.
 ssl-error-bad-server = El veceru atopó datos incorreutos del sirvidor.
 ssl-error-generate-random-failure = SSL esperimentó un fallu del so xenerador de númberos al debalu.
@@ -35,6 +33,8 @@ sec-error-exporting-certificates = Hebo un fallu al tentar d'esportar los certif
 sec-error-importing-certificates = Hebo un fallu al tentar d'importar los certificaos.
 sec-error-pkcs12-duplicate-data = Nun s'importó, yá ta na base de datos.
 sec-error-message-send-aborted = El mensaxe nun s'unvió.
+sec-error-js-add-mod-failure = Nun ye posible amestar el módulu
+sec-error-js-del-mod-failure = Nun ye posible desaniciar el módulu
 sec-error-ocsp-not-enabled = Has activar OCSP enantes de facer esta operación.
 sec-error-crl-already-exists = La CRL yá esiste.
 sec-error-not-initialized = NSS nun s'anició.
