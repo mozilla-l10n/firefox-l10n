@@ -744,6 +744,8 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Telecargaments
+navbar-overflow =
+    .tooltiptext = Mai d'aisinas…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
