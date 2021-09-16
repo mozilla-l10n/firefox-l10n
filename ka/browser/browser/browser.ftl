@@ -741,8 +741,23 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = ჩამოტვირთვები
+navbar-overflow =
+    .tooltiptext = დამატებითი ხელსაწყოები...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = ამობეჭდვა
+    .tooltiptext = გვერდის ამობეჭდვა… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = ამობეჭდვა
+    .tooltiptext = გვერდის ამობეჭდვა
+navbar-home =
+    .label = საწყისი გვერდი
+    .tooltiptext = { -brand-short-name } საწყისი გვერდი
 navbar-search =
     .title = ძიება
+navbar-accessibility-indicator =
+    .tooltiptext = დამხმარე საშუალებები ჩართულია
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
