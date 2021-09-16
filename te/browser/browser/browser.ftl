@@ -658,6 +658,16 @@ popups-infobar-dont-show-message =
 
 navbar-overflow =
     .tooltiptext = మరిన్ని పనిముట్లు…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = ముద్రించు
+    .tooltiptext = ఈ పేజీని ముద్రించు… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = ముద్రించు
     .tooltiptext = ఈ పేజీని ముద్రించు
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = విహారిణి ట్యాబులు
