@@ -763,6 +763,8 @@ navbar-library =
     .tooltiptext = Просмотр истории, сохранённых закладок и многого другого
 navbar-search =
     .title = Поиск
+navbar-accessibility-indicator =
+    .tooltiptext = Поддержка доступности включена
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
