@@ -407,6 +407,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = ಮುದ್ರಿಸು
     .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು
+navbar-search =
+    .title = ಹುಡುಕು
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ಜಾಲವೀಕ್ಷಣಾ ಟ್ಯಾಬ್‌ಗಳು
 tabs-toolbar-new-tab =
     .label = ಹೊಸ ಹಾಳೆ
 tabs-toolbar-list-all-tabs =
