@@ -739,3 +739,10 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Masquer le bouton pour l’incrustation vidéo
     .accesskey = M
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Téléchargements
+navbar-search =
+    .title = Rechercher
