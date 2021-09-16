@@ -724,5 +724,13 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = التنزيلات
+navbar-print-tab-modal-disabled =
+    .label = اطبع
+    .tooltiptext = اطبع هذه الصفحة
 tabs-toolbar-new-tab =
     .label = لسان جديد
+tabs-toolbar-list-all-tabs =
+    .label = اسرد كل الألسنة
+    .tooltiptext = اسرد كل الألسنة
