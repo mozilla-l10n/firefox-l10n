@@ -311,6 +311,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micrófonu
+popup-select-speaker-icon =
+    .tooltiptext = Altavoces
 popup-all-windows-shared = Van compartise toles ventanes visibles de la pantalla.
 popup-screen-sharing-block =
     .label = Bloquiar
@@ -521,6 +523,11 @@ remote-tabs-sync-now = Sincronizar agora
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Más…
+ui-tour-info-panel-close =
+    .tooltiptext = Zarrar
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
