@@ -732,9 +732,18 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Luchdaidhean a-nuas
+navbar-overflow =
+    .tooltiptext = Barrachd innealan…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Clò-bhuail
+    .tooltiptext = Clò-bhuail an duilleag seo… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Clò-bhuail
     .tooltiptext = Clò-bhuail an duilleag seo
+navbar-search =
+    .title = Lorg
 tabs-toolbar-new-tab =
     .label = Taba ùr
 tabs-toolbar-list-all-tabs =
