@@ -20,7 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Выбрать все вкладки
     .accesskey = л
-
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -30,21 +29,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[many] Восстановить закрытые вкладки
         }
     .accesskey = н
-
 toolbar-context-menu-manage-extension =
     .label = Управление расширением
     .accesskey = в
 toolbar-context-menu-remove-extension =
     .label = Удалить расширение
     .accesskey = л
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Пожаловаться на расширение
     .accesskey = ж
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -63,7 +59,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Настройка панели инструментов…
     .accesskey = с
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Всегда отображать
     .accesskey = е
@@ -73,7 +68,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Отображать только на новой вкладке
     .accesskey = л
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Показать другие закладки
     .accesskey = з
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Панель меню
+    .accesskey = е
