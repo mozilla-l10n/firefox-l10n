@@ -733,15 +733,33 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigation
 navbar-downloads =
     .label = Filhentning
 navbar-overflow =
     .tooltiptext = Flere værktøjer…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Udskriv
+    .tooltiptext = Udskriv denne side… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Udskriv
     .tooltiptext = Udskriv denne side
+navbar-home =
+    .label = Hjem
+    .tooltiptext = Startside for { -brand-short-name }
+navbar-library =
+    .label = Arkiv
+    .tooltiptext = Se historik, gemte bogmærker og andet
 navbar-search =
     .title = Søgefelt
+navbar-accessibility-indicator =
+    .tooltiptext = Tilgængelighedsfunktioner er aktiveret
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
