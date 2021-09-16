@@ -737,11 +737,20 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Descargas
+navbar-overflow =
+    .tooltiptext = Más herramientas…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir esta página
 navbar-search =
     .title = Buscar
+tabs-toolbar-new-tab =
+    .label = Nueva pestaña
 tabs-toolbar-list-all-tabs =
     .label = Mostrar todas las pestañas
     .tooltiptext = Mostrar todas las pestañas
