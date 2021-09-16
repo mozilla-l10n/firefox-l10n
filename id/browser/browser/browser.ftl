@@ -708,3 +708,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Sembunyikan Sakelar Gambar-dalam-Gambar
     .accesskey = S
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Tab Baru
