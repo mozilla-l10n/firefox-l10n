@@ -736,3 +736,43 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Пинҳон кардани васлаки реҷаи «Расм-дар-расм»
     .accesskey = П
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Паймоиш
+navbar-downloads =
+    .label = Боргириҳо
+navbar-overflow =
+    .tooltiptext = Абзорҳои бештар…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Чоп кардан
+    .tooltiptext = Чоп кардани саҳифаи ҷорӣ… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Чоп кардан
+    .tooltiptext = Чоп кардани саҳифаи ҷорӣ
+navbar-home =
+    .label = Саҳифаи асосӣ
+    .tooltiptext = Саҳифаи асосии { -brand-short-name }
+navbar-library =
+    .label = Китобхона
+    .tooltiptext = Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра
+navbar-search =
+    .title = Ҷустуҷӯ
+navbar-accessibility-indicator =
+    .tooltiptext = Хусусиятҳои қобилияти дастрасӣ фаъоланд
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Варақаҳои браузер
+tabs-toolbar-new-tab =
+    .label = Варақаи нав
+tabs-toolbar-list-all-tabs =
+    .label = Рӯйхати ҳамаи варақаҳо
+    .tooltiptext = Рӯйхати ҳамаи варақаҳо
