@@ -636,6 +636,8 @@ navbar-home =
     .tooltiptext = Pagina de start { -brand-short-name }
 navbar-search =
     .title = Caută
+navbar-accessibility-indicator =
+    .tooltiptext = Funcții de accesibilitate activate
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
