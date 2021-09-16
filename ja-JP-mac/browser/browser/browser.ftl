@@ -722,6 +722,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = ナビゲーション
 navbar-downloads =
     .label = ダウンロード
 navbar-overflow =
@@ -734,6 +739,9 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = プリント
     .tooltiptext = このページをプリントします
+navbar-home =
+    .label = ホーム
+    .tooltiptext = { -brand-short-name } のホームページです
 navbar-library =
     .label = ブラウジングライブラリー
     .tooltiptext = 履歴や保存したブックマークなどを表示します
