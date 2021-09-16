@@ -742,9 +742,23 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Descargas
+navbar-overflow =
+    .tooltiptext = Más herramientas…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprima esta página… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página
 navbar-library =
     .label = Catálogo
     .tooltiptext = Ver historial, marcadores guardados y más
+navbar-search =
+    .title = Buscar
 navbar-accessibility-indicator =
     .tooltiptext = Características de accesibilidad activadas
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -754,3 +768,6 @@ tabs-toolbar =
     .aria-label = Pestañas del navegador
 tabs-toolbar-new-tab =
     .label = Nueva pestaña
+tabs-toolbar-list-all-tabs =
+    .label = Mostrar todas las pestañas
+    .tooltiptext = Mostrar todas las pestañas
