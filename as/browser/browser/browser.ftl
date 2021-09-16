@@ -737,3 +737,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = "ছবিৰ-ওপৰত-ছবি"ৰ ট'গল লুকুৱাওক
     .accesskey = H
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = নতুন টেব
