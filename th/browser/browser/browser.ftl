@@ -714,6 +714,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-print-tab-modal-disabled =
+    .label = พิมพ์
+    .tooltiptext = พิมพ์หน้านี้
+navbar-search =
+    .title = ค้นหา
 tabs-toolbar-new-tab =
     .label = แท็บใหม่
 tabs-toolbar-list-all-tabs =
