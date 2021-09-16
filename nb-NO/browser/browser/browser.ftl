@@ -741,6 +741,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Nedlastinger
+navbar-overflow =
+    .tooltiptext = Flere verktøy …
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Skriv ut
+    .tooltiptext = Skriv ut denne siden … ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Skriv ut
     .tooltiptext = Skriv ut denne siden
@@ -748,3 +755,6 @@ navbar-search =
     .title = Søk
 tabs-toolbar-new-tab =
     .label = Ny fane
+tabs-toolbar-list-all-tabs =
+    .label = Vis liste over alle faner
+    .tooltiptext = Vis liste over alle faner
