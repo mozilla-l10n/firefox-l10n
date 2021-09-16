@@ -736,3 +736,13 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Ocultar seletor de picture-in-picture
     .accesskey = O
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Downloads
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir a página
+tabs-toolbar-new-tab =
+    .label = Nova aba
