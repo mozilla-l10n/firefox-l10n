@@ -744,6 +744,11 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Telecargaments
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprimir aquesta pagina… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir aquesta pagina
