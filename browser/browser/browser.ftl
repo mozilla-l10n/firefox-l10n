@@ -737,5 +737,22 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = הורדות
+navbar-overflow =
+    .tooltiptext = כלים נוספים…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = הדפסה
+    .tooltiptext = הדפסת דף זה… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = הדפסה
+    .tooltiptext = הדפסת דף זה
+navbar-search =
+    .title = חיפוש
 tabs-toolbar-new-tab =
     .label = לשונית חדשה
+tabs-toolbar-list-all-tabs =
+    .label = רשימת כל הלשוניות
+    .tooltiptext = רשימת כל הלשוניות
