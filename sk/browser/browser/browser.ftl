@@ -743,3 +743,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Skryť prepínanie obrazu v obraze
     .accesskey = S
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Nová karta
