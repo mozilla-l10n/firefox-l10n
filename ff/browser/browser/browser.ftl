@@ -468,3 +468,25 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Hoto hollir nduu ɓatakuru so cuppitte palaama
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Gaawte
+navbar-overflow =
+    .tooltiptext = Kuutorɗe goɗɗe…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Waanjito
+    .tooltiptext = Muul hello… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Waanjito
+    .tooltiptext = Waanjito ngoo hello
+navbar-search =
+    .title = Yiylo
+tabs-toolbar-new-tab =
+    .label = Tabbere Hesere
+tabs-toolbar-list-all-tabs =
+    .label = Waɗ doggol tabbe kala
+    .tooltiptext = Waɗ doggol tabbe kala

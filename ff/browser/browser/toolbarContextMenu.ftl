@@ -17,14 +17,12 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Suɓo tabbe ɗee fof
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = Toppito Jokkel
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Momtu jokkel
     .accesskey = v
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -37,4 +35,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Heertin…
     .accesskey = H
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Palal Dosi
+    .accesskey = P
