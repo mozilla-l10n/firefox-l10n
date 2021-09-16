@@ -748,3 +748,6 @@ navbar-search =
     .title = Search
 tabs-toolbar-new-tab =
     .label = New Tab
+tabs-toolbar-list-all-tabs =
+    .label = List all tabs
+    .tooltiptext = List all tabs
