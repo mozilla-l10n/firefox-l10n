@@ -17,4 +17,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Prilagodi alatnu traku…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Traka sa menijem
+    .accesskey = m

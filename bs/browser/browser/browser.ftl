@@ -469,3 +469,16 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Sakrij preklop sa slike u sliku
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Preuzimanja
+navbar-print-tab-modal-disabled =
+    .label = Štampaj
+    .tooltiptext = Štampaj ovu stranicu
+tabs-toolbar-new-tab =
+    .label = Novi tab
+tabs-toolbar-list-all-tabs =
+    .label = Izlistaj sve tabove
+    .tooltiptext = Izlistaj sve tabove
