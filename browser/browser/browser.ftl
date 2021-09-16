@@ -742,5 +742,9 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Telecargaments
+navbar-search =
+    .title = Recercar
 tabs-toolbar-new-tab =
     .label = Onglet novèl
