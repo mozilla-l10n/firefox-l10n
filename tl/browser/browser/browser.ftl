@@ -713,6 +713,9 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Mga Download
+navbar-print-tab-modal-disabled =
+    .label = I-print
+    .tooltiptext = I-limbag ang pahina na ito
 navbar-search =
     .title = Hanapin
 # Name for the tabs toolbar as spoken by screen readers. The word
