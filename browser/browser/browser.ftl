@@ -747,3 +747,25 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Přepinanje wobraz-we-wobrazu schować
     .accesskey = P
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Sćehnjenja
+navbar-overflow =
+    .tooltiptext = Dalše nastroje…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Ćišćeć
+    .tooltiptext = Tutu stronu ćišćeć... ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Ćišćeć
+    .tooltiptext = Tutu stronu ćišćeć
+navbar-search =
+    .title = Pytać
+tabs-toolbar-new-tab =
+    .label = Nowy rajtark
+tabs-toolbar-list-all-tabs =
+    .label = Wšě rajtarki nalistować
+    .tooltiptext = Wšě rajtarki nalistować

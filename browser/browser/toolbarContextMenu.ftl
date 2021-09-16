@@ -20,7 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Wšě rajtarki wubrać
     .accesskey = u
-
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -31,21 +30,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Začinjene rajtarki znowa wočinić
         }
     .accesskey = Z
-
 toolbar-context-menu-manage-extension =
     .label = Rozšěrjenje rjadować
     .accesskey = R
 toolbar-context-menu-remove-extension =
     .label = Rozšěrjenje wotstronić
     .accesskey = s
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rozšěrjenje zdźělić
     .accesskey = o
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -64,7 +60,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Symbolowu lajstu přiměrić…
     .accesskey = S
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Přeco pokazać
     .accesskey = P
@@ -74,7 +69,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Jenož w nowym rajtarku pokazać
     .accesskey = J
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Druhe zapołožki pokazać
     .accesskey = D
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Menijowa lajsta
+    .accesskey = M
