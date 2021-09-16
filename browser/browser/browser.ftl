@@ -365,9 +365,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Okukhutshelwayo
+navbar-overflow =
+    .tooltiptext = Izixhobo ezingakumbi…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Printa
+    .tooltiptext = Printa eli phepha… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Printa
     .tooltiptext = Printa eli phepha
+navbar-search =
+    .title = Khangela
+tabs-toolbar-new-tab =
+    .label = thebhu entsha
 tabs-toolbar-list-all-tabs =
     .label = Dwelisa zonke iithebhu
     .tooltiptext = Dwelisa zonke iithebhu
