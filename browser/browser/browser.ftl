@@ -449,8 +449,13 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = প্রিন্ট করুন
     .tooltiptext = বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন
+navbar-library =
+    .label = লাইব্রেরি
+    .tooltiptext = দেখুন ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও
 navbar-search =
     .title = অনুসন্ধান
+navbar-accessibility-indicator =
+    .tooltiptext = অ্যাক্সেসিবিলিটি বৈশিষ্ট্য সক্রিয় করা হয়েছে
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
