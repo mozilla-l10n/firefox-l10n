@@ -718,6 +718,8 @@ navbar-accessible =
     .aria-label = Navigasi
 navbar-downloads =
     .label = Unduhan
+navbar-overflow =
+    .tooltiptext = Alat lainnya…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
