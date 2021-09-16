@@ -742,6 +742,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Downloads
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
