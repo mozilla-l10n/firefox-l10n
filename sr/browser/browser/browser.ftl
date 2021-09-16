@@ -752,3 +752,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Сакриј прекидач „Слика у слици”
     .accesskey = С
+
+# Navigator Toolbox
+
+navbar-search =
+    .title = Претрага
