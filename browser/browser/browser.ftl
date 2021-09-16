@@ -450,8 +450,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Drukāt
     .tooltiptext = Drukāt šo lapu
+navbar-home =
+    .label = Sākumlapa
+    .tooltiptext = { -brand-short-name } sākumlapa
+navbar-library =
+    .label = Bibliotēka
+    .tooltiptext = Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu
 navbar-search =
     .title = Meklēt
+navbar-accessibility-indicator =
+    .tooltiptext = Aktivēti pieejamības rīki
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Pārlūka cilnes
 tabs-toolbar-new-tab =
     .label = Jauna cilne
 tabs-toolbar-list-all-tabs =
