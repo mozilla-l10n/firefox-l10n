@@ -757,6 +757,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Надрукувати поточну сторінку
 navbar-search =
     .title = Пошук
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Вкладки браузера
 tabs-toolbar-new-tab =
     .label = Нова вкладка
 tabs-toolbar-list-all-tabs =
