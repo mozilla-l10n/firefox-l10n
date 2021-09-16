@@ -747,6 +747,8 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navegação
+navbar-downloads =
+    .label = Transferências
 navbar-overflow =
     .tooltiptext = Mais ferramentas…
 # Variables:
@@ -757,8 +759,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir esta página
+navbar-home =
+    .label = Início
+    .tooltiptext = Página inicial do { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Ver histórico, marcadores guardados, e mais
 navbar-search =
     .title = Pesquisa
+navbar-accessibility-indicator =
+    .tooltiptext = Funcionalidades de acessibilidade ativadas
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Separadores do navegador
 tabs-toolbar-new-tab =
     .label = Novo separador
 tabs-toolbar-list-all-tabs =
