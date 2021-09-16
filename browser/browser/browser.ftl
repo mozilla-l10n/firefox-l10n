@@ -747,5 +747,20 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navegação
+navbar-overflow =
+    .tooltiptext = Mais ferramentas…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página
+navbar-search =
+    .title = Pesquisa
 tabs-toolbar-new-tab =
     .label = Novo separador
+tabs-toolbar-list-all-tabs =
+    .label = Listar todos os separadores
+    .tooltiptext = Listar todos os separadores
