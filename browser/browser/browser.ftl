@@ -754,6 +754,9 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Imprimir
     .tooltiptext = Imprimir esta página
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Ver historial, marcadores guardados y más
 navbar-search =
     .title = Buscar
 # Name for the tabs toolbar as spoken by screen readers. The word
