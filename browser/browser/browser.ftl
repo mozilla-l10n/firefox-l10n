@@ -732,3 +732,16 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Ocultar interruptor de imagen superpuesta
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Descargas
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta página
+navbar-search =
+    .title = Buscar
+tabs-toolbar-list-all-tabs =
+    .label = Mostrar todas las pestañas
+    .tooltiptext = Mostrar todas las pestañas
