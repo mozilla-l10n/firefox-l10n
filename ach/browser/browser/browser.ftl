@@ -491,3 +491,25 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Pe inyut kwena man kace kigengo pye-malo woko
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Gam
+navbar-overflow =
+    .tooltiptext = Jami tic mukene…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Go
+    .tooltiptext = Go pot buk man… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Go
+    .tooltiptext = Go pot buk man
+navbar-search =
+    .title = Yeny
+tabs-toolbar-new-tab =
+    .label = Drica matidi manyen
+tabs-toolbar-list-all-tabs =
+    .label = Rwe dirica matino weng
+    .tooltiptext = Rwe dirica matino weng

@@ -17,11 +17,9 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Yer dirica matino weng
     .accesskey = Y
-
 toolbar-context-menu-manage-extension =
     .label = Lo Lamed
     .accesskey = A
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -34,4 +32,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Yiki…
     .accesskey = Y
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Lanyut nying gin ayera
+    .accesskey = L
