@@ -739,3 +739,13 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Ofbylding-yn-ôfbylding-skeakeler ferstopje
     .accesskey = O
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = Ofdrukke
+    .tooltiptext = Dizze side ôfdrukke
+navbar-search =
+    .title = Sykje
+tabs-toolbar-new-tab =
+    .label = Nij ljepblêd
