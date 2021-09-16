@@ -406,5 +406,20 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = डाउनलोडहरू
+navbar-overflow =
+    .tooltiptext = अरु सामग्रीहरू...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = मुद्रण गर्नुहोस्
+    .tooltiptext = यो पृष्ठ छाप्नुहोस्… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = मुद्रण गर्नुहोस्
+    .tooltiptext = यो पृष्ठ मुद्रण गर्नुहोस्
 tabs-toolbar-new-tab =
     .label = नयाँ ट्याब
+tabs-toolbar-list-all-tabs =
+    .label = सब ट्याबहरूको सूचि बनाउनुहोस्
+    .tooltiptext = सब ट्याबहरूको सूचि बनाउनुहोस्
