@@ -740,6 +740,8 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Điều hướng
+navbar-downloads =
+    .label = Tải xuống
 navbar-overflow =
     .tooltiptext = Thêm công cụ...
 # Variables:
