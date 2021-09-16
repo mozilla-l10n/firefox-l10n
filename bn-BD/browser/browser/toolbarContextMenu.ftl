@@ -17,14 +17,12 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = সব ট্যাব নির্বাচন করুন
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = এক্সটেনশন ব্যবস্থাপনা
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = এক্সটেনশন অপসারণ করুন
     .accesskey = v
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -37,4 +35,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = নিজের পছন্দানুযায়ী নির্বাচন…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = মেনু বার M
+    .accesskey = M
