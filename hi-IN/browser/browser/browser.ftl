@@ -554,6 +554,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = पथ प्रदर्शन
 navbar-downloads =
     .label = डाउनलोड
 navbar-overflow =
