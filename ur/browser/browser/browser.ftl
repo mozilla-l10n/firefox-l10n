@@ -621,6 +621,18 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = ڈاؤن لوڈ
+navbar-overflow =
+    .tooltiptext = مزید ٹول…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = چھاپیں
+    .tooltiptext = یہ صفحہ پرنٹ کریں… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = چھاپیں
+    .tooltiptext = اس صفحہ کو چھاپیں
+navbar-search =
+    .title = تلاش
 tabs-toolbar-new-tab =
     .label = نیا ٹیب
 tabs-toolbar-list-all-tabs =
