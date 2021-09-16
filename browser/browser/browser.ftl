@@ -465,6 +465,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = डाउनलोड्स
+navbar-overflow =
+    .tooltiptext = आणखी साधने…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = छापा
+    .tooltiptext = ह्या पृष्ठाची छपाई करा… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = छापा
     .tooltiptext = हे पृष्ठ छापा
