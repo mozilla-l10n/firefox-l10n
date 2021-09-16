@@ -714,6 +714,13 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = เครื่องมือเพิ่มเติม…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = พิมพ์
+    .tooltiptext = พิมพ์หน้านี้… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = พิมพ์
     .tooltiptext = พิมพ์หน้านี้
