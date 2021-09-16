@@ -715,7 +715,40 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Lëvizje
 navbar-downloads =
     .label = Shkarkime
+navbar-overflow =
+    .tooltiptext = Më tepër mjete…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Shtype
+    .tooltiptext = Shtypeni këtë faqe… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Shtype
+    .tooltiptext = Shtypeni këtë faqe
+navbar-home =
+    .label = Kreu
+    .tooltiptext = Faqe Hyrëse e { -brand-short-name }-it
+navbar-library =
+    .label = Arkiv
+    .tooltiptext = Shihni historikun, faqerojtësit e ruajtur, etj
+navbar-search =
+    .title = Kërkoni
+navbar-accessibility-indicator =
+    .tooltiptext = Me Veçori Përdorshmërie të Aktivizuara
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Skedash shfletuesi
 tabs-toolbar-new-tab =
     .label = Skedë e Re
+tabs-toolbar-list-all-tabs =
+    .label = Paraqiti krejt skedat
+    .tooltiptext = Paraqiti krejt skedat
