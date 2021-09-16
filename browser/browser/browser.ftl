@@ -219,3 +219,8 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dema ku pop-up bê astenkirin, min hişyar neke
     .accesskey = ê
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Hilpekîna Nû
