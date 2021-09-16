@@ -730,3 +730,15 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Skjul kontakt for billed-i-billed
     .accesskey = S
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Filhentning
+navbar-print-tab-modal-disabled =
+    .label = Udskriv
+    .tooltiptext = Udskriv denne side
+navbar-search =
+    .title = Søgefelt
+tabs-toolbar-new-tab =
+    .label = Nyt faneblad
