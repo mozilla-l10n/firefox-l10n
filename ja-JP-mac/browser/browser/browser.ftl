@@ -743,3 +743,6 @@ navbar-accessibility-indicator =
     .tooltiptext = アクセシビリティ機能が有効です
 tabs-toolbar-new-tab =
     .label = 新規タブ
+tabs-toolbar-list-all-tabs =
+    .label = タブを一覧表示します
+    .tooltiptext = タブを一覧表示します
