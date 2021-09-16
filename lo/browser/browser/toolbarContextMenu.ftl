@@ -8,7 +8,6 @@ toolbar-context-menu-manage-extension =
 toolbar-context-menu-remove-extension =
     .label = ລຶບສ່ວນຂະຫຍາຍ
     .accesskey = v
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -21,4 +20,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = ປັບແຕ່ງ…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = ແຖບເມນູ
+    .accesskey = M

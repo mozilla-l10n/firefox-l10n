@@ -369,10 +369,31 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ດາວໂຫລດ
 navbar-overflow =
     .tooltiptext = ເຄື່ອງມືເພີ່ມເຕີມ…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = ພິມ
+    .tooltiptext = ພິມຫນ້ານີ້… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = ພິມ
+    .tooltiptext = ພິມຫນ້ານີ້
+navbar-home =
+    .label = ຫນ້າຫລັກ
+    .tooltiptext = ຫນ້າຫລັກ { -brand-short-name }
+navbar-library =
+    .label = ຄັງ
+    .tooltiptext = ເບິ່ງປະຫວັດການໃຊ້ງານ, ບຸກມາກທີ່ບັນທຶກໄວ້, ແລະອື່ນໆ
 navbar-search =
     .title = ຊອກຫາ
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ແທັບບຣາວເຊີ
 tabs-toolbar-new-tab =
     .label = ແທັບໃຫມ່
 tabs-toolbar-list-all-tabs =
