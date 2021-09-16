@@ -8,4 +8,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = tshwanedisa...
     .accesskey = t
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Bara ya Menu
+    .accesskey = B

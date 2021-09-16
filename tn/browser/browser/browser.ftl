@@ -301,6 +301,23 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Dikopololo
+navbar-overflow =
+    .tooltiptext = Didirisiwa tse dintsi...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Gatisa
+    .tooltiptext = Gatisa tsebe e... ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Gatisa
     .tooltiptext = Gatisa tsebe eno
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Dithebe tsa Sebatli
+tabs-toolbar-new-tab =
+    .label = Thebe e Ntšha
+tabs-toolbar-list-all-tabs =
+    .label = Dira lenaane la dithebe tsotlhe
+    .tooltiptext = Dira lenaane la dithebe tsotlhe
