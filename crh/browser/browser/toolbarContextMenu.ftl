@@ -17,14 +17,12 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = İlmeklerniñ Episini Sayla
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = Eklentini İdare Et
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Uzantını Çetleştir
     .accesskey = t
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -37,4 +35,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Şahsiyleştir…
     .accesskey = L
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Menü Çubuğı
+    .accesskey = M

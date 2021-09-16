@@ -437,3 +437,18 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Peydalar bloklanğanda bu mesajnı kösterme
     .accesskey = d
+
+# Navigator Toolbox
+
+navbar-library =
+    .label = Kitaphane
+    .tooltiptext = Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster
+navbar-accessibility-indicator =
+    .tooltiptext = İrişilebilirlik Hususiyetleri Qabilleştirilgen
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Kezici ilmekleri
+tabs-toolbar-new-tab =
+    .label = Yañı İlmek
