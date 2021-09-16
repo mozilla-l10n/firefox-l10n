@@ -8,4 +8,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Doelmaak…
     .accesskey = D
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Kieslysbalk
+    .accesskey = K

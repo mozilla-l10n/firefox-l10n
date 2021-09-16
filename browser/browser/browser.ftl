@@ -355,5 +355,18 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Afgelaai
+navbar-print-tab-modal-disabled =
+    .label = Druk
+    .tooltiptext = Druk hierdie bladsy
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Blaaieroortjies
 tabs-toolbar-new-tab =
     .label = Nuwe oortjie
+tabs-toolbar-list-all-tabs =
+    .label = Lys alle oortjies
+    .tooltiptext = Lys alle oortjies
