@@ -429,6 +429,8 @@ navbar-accessibility-indicator =
 # in the string
 tabs-toolbar =
     .aria-label = ബ്രൌസര്‍ റ്റാബുകള്‍
+tabs-toolbar-new-tab =
+    .label = പുതിയ റ്റാബ്‌
 tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
