@@ -451,6 +451,10 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = ડાઉનલોડ
 navbar-print-tab-modal-disabled =
     .label = છાપો
     .tooltiptext = આ પાનું છાપો
+tabs-toolbar-new-tab =
+    .label = નવી ટૅબ
