@@ -719,3 +719,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Ezkutatu bideoa beste leiho batean txandakatzeko botoia
     .accesskey = E
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Fitxa berria
