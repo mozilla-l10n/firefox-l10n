@@ -319,6 +319,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Downloads
+navbar-overflow =
+    .tooltiptext = More tools…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Print
+    .tooltiptext = Print this page… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Print
     .tooltiptext = Print this page
