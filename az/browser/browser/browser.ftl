@@ -464,6 +464,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Endirilənlər
+navbar-print-tab-modal-disabled =
+    .label = Çap Et
+    .tooltiptext = Bu səhifəni çap et
 navbar-search =
     .title = Axtar
 tabs-toolbar-list-all-tabs =
