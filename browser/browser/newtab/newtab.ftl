@@ -179,6 +179,12 @@ newtab-label-sponsored = { $sponsorOrSource } · Sponsorizzata
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsorizzata da { $sponsor }
 
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
+
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
