@@ -736,3 +736,15 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Schalter für Bild-im-Bild (PiP) ausblenden
     .accesskey = B
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Downloads
+navbar-print-tab-modal-disabled =
+    .label = Drucken
+    .tooltiptext = Diese Seite drucken
+navbar-search =
+    .title = Suchen
+tabs-toolbar-new-tab =
+    .label = Neuer Tab
