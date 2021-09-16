@@ -727,6 +727,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigointi
 navbar-downloads =
     .label = Lataukset
 navbar-overflow =
@@ -739,6 +744,12 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Tulosta
     .tooltiptext = Tulosta sivu
+navbar-home =
+    .label = Aloitussivu
+    .tooltiptext = { -brand-short-name }-aloitussivu
+navbar-library =
+    .label = Kirjasto
+    .tooltiptext = Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta
 navbar-search =
     .title = Etsi
 navbar-accessibility-indicator =
