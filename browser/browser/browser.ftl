@@ -483,8 +483,18 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Waanjito
     .tooltiptext = Waanjito ngoo hello
+navbar-library =
+    .label = Deftordu
+    .tooltiptext = Yiy aslol, maantore danndaaɗe, e goɗɗe
 navbar-search =
     .title = Yiylo
+navbar-accessibility-indicator =
+    .tooltiptext = Fannuuji Weeɓitaare Kurminama
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Tabbe wanngorde
 tabs-toolbar-new-tab =
     .label = Tabbere Hesere
 tabs-toolbar-list-all-tabs =
