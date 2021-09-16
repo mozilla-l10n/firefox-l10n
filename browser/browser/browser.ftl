@@ -442,8 +442,18 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = அச்சிடு
     .tooltiptext = இந்தப் பக்கத்தை அச்சிடு
+navbar-library =
+    .label = தரவகம்
+    .tooltiptext = வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்
 navbar-search =
     .title = தேடு
+navbar-accessibility-indicator =
+    .tooltiptext = அணுகல்தன்மை வசதி செயற்படுத்தப்பட்டது
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = உலாவி கீற்றுகள்
 tabs-toolbar-new-tab =
     .label = புதிய கீற்று
 tabs-toolbar-list-all-tabs =
