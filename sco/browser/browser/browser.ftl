@@ -744,6 +744,26 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigation
+navbar-downloads =
+    .label = Doonloads
+navbar-overflow =
+    .tooltiptext = Mair tools…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Prent
+    .tooltiptext = Print this page… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Prent
+    .tooltiptext = Prent this page
+navbar-home =
+    .label = Hame
+    .tooltiptext = { -brand-short-name } Hame Page
+navbar-library =
+    .label = Leebrar
+    .tooltiptext = View historie, saved buikmerks, and mair
+navbar-search =
+    .title = Sairch
 navbar-accessibility-indicator =
     .tooltiptext = Accessibility Featurs Enabled
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -751,3 +771,8 @@ navbar-accessibility-indicator =
 # in the string
 tabs-toolbar =
     .aria-label = Stravaiger tabs
+tabs-toolbar-new-tab =
+    .label = New Tab
+tabs-toolbar-list-all-tabs =
+    .label = List aw tabs
+    .tooltiptext = List aw tabs
