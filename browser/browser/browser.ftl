@@ -742,9 +742,22 @@ navbar-accessible =
     .aria-label = 탐색
 navbar-downloads =
     .label = 다운로드
+navbar-overflow =
+    .tooltiptext = 도구 더보기…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = 인쇄
+    .tooltiptext = 이 페이지 인쇄… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = 인쇄
+    .tooltiptext = 이 페이지 인쇄
 navbar-home =
     .label = 홈
     .tooltiptext = { -brand-short-name } 홈 페이지
+navbar-library =
+    .label = 라이브러리
+    .tooltiptext = 기록, 저장된 북마크 등 보기
 navbar-search =
     .title = 검색
 navbar-accessibility-indicator =
