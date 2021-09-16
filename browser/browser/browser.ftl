@@ -196,3 +196,11 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Татаж авсан файлууд
+navbar-print-tab-modal-disabled =
+    .label = Хэвлэ
+    .tooltiptext = Энэ хуудсыг хэвлэ
+tabs-toolbar-new-tab =
+    .label = Хөтлөгч самбар
+tabs-toolbar-list-all-tabs =
+    .label = Бүх самбарын жагсаалтыг харуул
+    .tooltiptext = Бүх самбарын жагсаалтыг харуул
