@@ -406,6 +406,8 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Nascleanúint
+navbar-downloads =
+    .label = Íoslódálacha
 navbar-overflow =
     .tooltiptext = Tuilleadh uirlisí…
 # Variables:
@@ -419,6 +421,8 @@ navbar-print-tab-modal-disabled =
 navbar-home =
     .label = Baile
     .tooltiptext = Leathanach Baile { -brand-short-name }
+navbar-search =
+    .title = Cuardaigh
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
