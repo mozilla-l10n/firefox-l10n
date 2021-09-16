@@ -466,6 +466,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Endirilənlər
+navbar-overflow =
+    .tooltiptext = Daha çox alət…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Çap Et
+    .tooltiptext = Bu səhifəni çap et… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Çap Et
     .tooltiptext = Bu səhifəni çap et
