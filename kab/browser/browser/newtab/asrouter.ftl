@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Timahilin ihulen
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
-
 cfr-doorhanger-extension-cancel-button = Mačči tura
     .accesskey = T
-
 cfr-doorhanger-extension-ok-button = Rnu Tura
     .accesskey = N
-
 cfr-doorhanger-extension-manage-settings-button = Sefrek Iɣewwaṛen n wahul
     .accesskey = S
-
 cfr-doorhanger-extension-never-show-recommendation = Ur yid-skan ara Ahul Agi
     .accesskey = U
-
 cfr-doorhanger-extension-learn-more-link = Issin ugar
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = S { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Awelleh
 cfr-doorhanger-extension-notification2 = Iwellihen
     .tooltiptext = Iseɣzaf ihulen
     .a11y-announcement = Iseɣzaf ihulen i yellan
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Iwellihen
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } iseqdacen
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Issin ugar
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Timahilin timaynutin:
-
 cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut
-
 cfr-whatsnew-release-notes-link-text = Ɣer tizmilin n lqem.
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -124,20 +94,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Wali akk
     .accesskey = W
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Mdel
     .accesskey = C
 
@@ -172,3 +128,5 @@ cfr-doorhanger-video-support-primary-button = Leqqem tura
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = Mačči tura
+    .accesskey = M

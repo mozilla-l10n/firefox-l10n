@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Ldi merra ɣef yIccaren
     .accesskey = m
-
 places-open-in-window =
     .label = Ldi deg usfaylu amaynut
     .accesskey = A
 places-open-in-private-window =
     .label = Ldi deg usfaylu uslig amaynut
     .accesskey = d
-
 places-add-bookmark =
     .label = Rnu tacreṭ n usebter…
     .accesskey = T
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Rnu anabraz
     .accesskey = B
-
 places-view =
     .label = Smizzwer
     .accesskey = S
@@ -53,19 +50,16 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = S wazemz d usmel
     .accesskey = m
-
 places-history-search =
     .placeholder = Azray n unadi
 places-bookmarks-search =
     .placeholder = Nadi ticraḍ n isebtar
-
 places-delete-domain-data =
     .label = Ttu asmel-a
     .accesskey = a
 places-sortby-name =
     .label = Smizzwer s yisem
     .accesskey = r
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Ẓreg tacreṭ n usebter…
@@ -84,18 +78,18 @@ places-remove-folder =
            *[other] Kkes ikaramen
         }
     .accesskey = K
-
+places-edit-folder2 =
+    .label = Ẓreg Akaram…
+    .accesskey = k
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Ticraḍ n yisebtar yettusefraken
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Adakaram
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ticraḍ-nniḍen n yisebtar
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -106,8 +100,7 @@ places-remove-bookmark =
            *[other] Kkes ticraḍ n yisebtar
         }
     .accesskey = k
-
 places-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
     .accesskey = S
-
+places-forget-about-this-site-forget = Ttu
