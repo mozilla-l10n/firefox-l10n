@@ -8,4 +8,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Taybet Bike
     .accesskey = T
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Darikê Pêşekê
+    .accesskey = D

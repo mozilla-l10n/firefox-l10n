@@ -222,5 +222,18 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Yên hatine daxistin
+navbar-print-tab-modal-disabled =
+    .label = Çap bike
+    .tooltiptext = Vê rûpelê çap bike
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Hilpekînên gerokê
 tabs-toolbar-new-tab =
     .label = Hilpekîna Nû
+tabs-toolbar-list-all-tabs =
+    .label = Hemû hilpekînan lîste bike
+    .tooltiptext = Hemû hilpekînan lîste bike
