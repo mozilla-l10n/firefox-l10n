@@ -739,3 +739,13 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Picture-in-Picture-knop verbergen
     .accesskey = v
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Downloads
+navbar-print-tab-modal-disabled =
+    .label = Afdrukken
+    .tooltiptext = Deze pagina afdrukken
+navbar-search =
+    .title = Zoeken
