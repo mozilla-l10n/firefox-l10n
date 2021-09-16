@@ -20,7 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vybrat všechny panely
     .accesskey = a
-
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -30,21 +29,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Obnovit zavřené panely
         }
     .accesskey = b
-
 toolbar-context-menu-manage-extension =
     .label = Nastavení tohoto rozšíření
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Odebrat rozšíření
     .accesskey = r
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Nahlásit rozšíření
     .accesskey = N
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -63,7 +59,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Nastavení tlačítek a lišt…
     .accesskey = v
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Vždy zobrazit
     .accesskey = a
@@ -73,7 +68,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Zobrazit pouze v novém panelu
     .accesskey = o
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Zobrazit ostatní záložky
     .accesskey = o
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Hlavní nabídka
+    .accesskey = H
