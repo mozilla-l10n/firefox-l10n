@@ -739,6 +739,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = გადაადგილება
 navbar-downloads =
     .label = ჩამოტვირთვები
 navbar-overflow =
@@ -754,6 +759,9 @@ navbar-print-tab-modal-disabled =
 navbar-home =
     .label = საწყისი გვერდი
     .tooltiptext = { -brand-short-name } საწყისი გვერდი
+navbar-library =
+    .label = ბიბლიოთეკა
+    .tooltiptext = იხილეთ ისტორია, შენახული სანიშნები და ა. შ.
 navbar-search =
     .title = ძიება
 navbar-accessibility-indicator =
