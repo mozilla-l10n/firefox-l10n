@@ -738,6 +738,11 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Жүктемелер
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Баспаға шығару
+    .tooltiptext = Ағымдағы бетті баспаға шығару… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Баспаға шығару
     .tooltiptext = Ағымдағы бетті баспаға шығару
