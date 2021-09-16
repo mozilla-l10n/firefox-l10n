@@ -733,6 +733,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigacija
 navbar-downloads =
     .label = Atsiuntimai
 navbar-overflow =
@@ -745,8 +750,21 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Spausdinti
     .tooltiptext = Spausdinti šį tinklalapį
+navbar-home =
+    .label = Pradžios tinklalapis
+    .tooltiptext = „{ -brand-short-name }“ pradžios tinklalapis
+navbar-library =
+    .label = Archyvas
+    .tooltiptext = Peržiūrėti žurnalą, adresyno įrašus ir daugiau
 navbar-search =
     .title = Paieška
+navbar-accessibility-indicator =
+    .tooltiptext = Prieinamumo funkcijos įjungtos
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Kortelių juosta
 tabs-toolbar-new-tab =
     .label = Nauja kortelė
 tabs-toolbar-list-all-tabs =
