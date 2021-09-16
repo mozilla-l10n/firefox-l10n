@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ukuphequlula okuyimfihlo)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ukuphequlula okuyimfihlo)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,6 +109,7 @@ browser-window-minimize-button =
 
 ## WebRTC Pop-up notifications
 
+
 ## WebRTC window or screen share tab switch warning
 
 
@@ -121,10 +120,8 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
-
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
-
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 
@@ -154,7 +151,6 @@ bookmarks-sidebar-content =
     .aria-label = Izimpawu zokubekisa
 bookmarks-bookmark-edit-panel =
     .label = Hlela lolu phawu lokubekisa
-
 bookmarks-toolbar-menu =
     .label = Ibha yamathuluzi ezimpawu zokubekisa
 bookmarks-toolbar-placeholder =
@@ -201,7 +197,6 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo ku-{ $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Vimbela okuqhamuka esikhaleni { $uriHost }
     .accesskey = p
@@ -212,3 +207,20 @@ popups-infobar-dont-show-message =
     .label = Ungawuvezi lo myalezi uma okuqhamuka esikhaleni kuvinjelwe
     .accesskey = D
 
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Ukwaziswa okuthathwe kwafakwa
+navbar-print-tab-modal-disabled =
+    .label = Printa
+    .tooltiptext = Printa leli khasi
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Omoki bokuphequlula
+tabs-toolbar-new-tab =
+    .label = Ithebhu entsha
+tabs-toolbar-list-all-tabs =
+    .label = Faka ohlwini bonke omaki
+    .tooltiptext = Faka ohlwini bonke omaki
