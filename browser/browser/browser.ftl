@@ -737,8 +737,13 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = 다운로드
+navbar-home =
+    .label = 홈
+    .tooltiptext = { -brand-short-name } 홈 페이지
 navbar-search =
     .title = 검색
+navbar-accessibility-indicator =
+    .tooltiptext = 접근성 기능 활성화됨
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
