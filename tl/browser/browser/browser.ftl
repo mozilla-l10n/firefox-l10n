@@ -721,6 +721,9 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = I-print
     .tooltiptext = I-limbag ang pahina na ito
+navbar-home =
+    .label = Home
+    .tooltiptext = { -brand-short-name } Home Page
 navbar-search =
     .title = Hanapin
 # Name for the tabs toolbar as spoken by screen readers. The word
