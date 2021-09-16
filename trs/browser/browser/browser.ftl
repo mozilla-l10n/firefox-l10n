@@ -478,5 +478,12 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Nadunïnj
 navbar-overflow =
     .tooltiptext = Doj sa ga'ue garasun'
+navbar-print-tab-modal-disabled =
+    .label = Nari' ña du'ua
+    .tooltiptext = Giri' ña du'ua pagina na
+navbar-search =
+    .title = Nana'ui'
