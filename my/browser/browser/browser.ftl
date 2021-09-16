@@ -466,6 +466,14 @@ navbar-downloads =
     .label = ဆွဲချချက်များ
 navbar-overflow =
     .tooltiptext = အခြားတန်ဆာပလာများ…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = ပုံနှိပ်ရန်
+    .tooltiptext = ဤစာမျက်နှာအား ပရင့်ထုတ်ပါ ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = ပုံနှိပ်ရန်
+    .tooltiptext = ဒီစာမျက်နှာကို ပုံနှိပ်ရန်
 navbar-library =
     .label = စာကြည့်တိုက်
     .tooltiptext = မှတ်တမ်း၊ သိမ်းထားသည့် စာမှတ်များနှင့် အခြားစသည်တို့ကို ကြည့်ရှုရန်
