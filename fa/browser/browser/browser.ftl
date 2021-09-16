@@ -753,6 +753,8 @@ navbar-library =
     .tooltiptext = نمایش تاریخچه، نشانک‌های ذخیره شده و بیشتر
 navbar-search =
     .title = جست‌وجو
+navbar-accessibility-indicator =
+    .tooltiptext = ویژیگی دسترسی پذیری فعال شده است
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
