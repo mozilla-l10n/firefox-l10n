@@ -729,6 +729,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Taq qasanïk
 navbar-overflow =
     .tooltiptext = Ch'aqa' chik Samajib'äl…
 # Variables:
@@ -739,8 +741,16 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Titz'ajb'äx
     .tooltiptext = Titz'ajb'äx re ruxaq re'
+navbar-home =
+    .label = Tikirib'äl
+    .tooltiptext = { -brand-short-name } Rutikirib'al Ruxaq
+navbar-library =
+    .label = Wujb'äl
+    .tooltiptext = Titz'et ri natab'äl, yakon taq yaketal, chuqa' ch'aqa' chik
 navbar-search =
     .title = Tikanöx
+navbar-accessibility-indicator =
+    .tooltiptext = Etzijon ri taq Rub'anikil Okem
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
