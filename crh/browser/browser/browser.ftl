@@ -440,9 +440,26 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Endirmeler
+navbar-overflow =
+    .tooltiptext = Daa çoq alet…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Bastır
+    .tooltiptext = Bu saifeni bastır… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Bastır
+    .tooltiptext = Bu saifeni bastır
+navbar-home =
+    .label = Ev
+    .tooltiptext = { -brand-short-name } Ev Saifesi
 navbar-library =
     .label = Kitaphane
     .tooltiptext = Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster
+navbar-search =
+    .title = Qıdır
 navbar-accessibility-indicator =
     .tooltiptext = İrişilebilirlik Hususiyetleri Qabilleştirilgen
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -452,3 +469,6 @@ tabs-toolbar =
     .aria-label = Kezici ilmekleri
 tabs-toolbar-new-tab =
     .label = Yañı İlmek
+tabs-toolbar-list-all-tabs =
+    .label = İlmeklerniñ episini tiz
+    .tooltiptext = İlmeklerniñ episini tiz
