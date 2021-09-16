@@ -212,3 +212,10 @@ navbar-downloads =
 navbar-print-tab-modal-disabled =
     .label = Móol
     .tooltiptext = Móol xët bii
+navbar-search =
+    .title = Wut
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Koñi jowwkat bi
