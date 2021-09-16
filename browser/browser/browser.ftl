@@ -744,6 +744,16 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Téléchargements
+navbar-overflow =
+    .tooltiptext = Outils supplémentaires…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimer
+    .tooltiptext = Imprimer cette page… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprimer
+    .tooltiptext = Imprimer cette page
 navbar-search =
     .title = Rechercher
 # Name for the tabs toolbar as spoken by screen readers. The word
