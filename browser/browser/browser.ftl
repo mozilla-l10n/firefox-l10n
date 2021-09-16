@@ -624,3 +624,10 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Ascunde comutatorul Picture-in-Picture
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Descărcări
+tabs-toolbar-new-tab =
+    .label = Filă nouă
