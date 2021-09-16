@@ -453,6 +453,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ડાઉનલોડ
+navbar-overflow =
+    .tooltiptext = વધારે સાધનો…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = છાપો
+    .tooltiptext = આ પાનાંને છાપો… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = છાપો
     .tooltiptext = આ પાનું છાપો
