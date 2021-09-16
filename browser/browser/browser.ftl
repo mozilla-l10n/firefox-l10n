@@ -313,3 +313,13 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ई संदेश केँ नहि देखाउ जखन पापअप रोकल गेल अछि
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = डाउनलोड
+navbar-print-tab-modal-disabled =
+    .label = छापू
+    .tooltiptext = ई पृष्ठ छापू
+tabs-toolbar-new-tab =
+    .label = नव टैब
