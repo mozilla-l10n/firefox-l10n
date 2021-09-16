@@ -747,5 +747,10 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Dizze side ôfdrukke
 navbar-search =
     .title = Sykje
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Browserljepblêden
 tabs-toolbar-new-tab =
     .label = Nij ljepblêd
