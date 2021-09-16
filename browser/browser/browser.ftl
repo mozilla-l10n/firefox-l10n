@@ -656,6 +656,8 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = దింపుకోళ్ళు
 navbar-overflow =
     .tooltiptext = మరిన్ని పనిముట్లు…
 # Variables:
@@ -666,8 +668,23 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = ముద్రించు
     .tooltiptext = ఈ పేజీని ముద్రించు
+navbar-home =
+    .label = ముంగిలి
+    .tooltiptext = { -brand-short-name } ముంగిలి పేజీ
+navbar-library =
+    .label = లైబ్రరీ
+    .tooltiptext = చరిత్ర, భద్రపరచిన ఇష్టాంశాలు, ఇంకా మరెన్నో చూడండి
+navbar-search =
+    .title = వెతకడం
+navbar-accessibility-indicator =
+    .tooltiptext = ప్రాప్యత లక్షణాలు చేతనమైవున్నాయి
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = విహారిణి ట్యాబులు
+tabs-toolbar-new-tab =
+    .label = కొత్త ట్యాబు
+tabs-toolbar-list-all-tabs =
+    .label = అన్ని ట్యాబుల జాబితా చూపించు
+    .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు
