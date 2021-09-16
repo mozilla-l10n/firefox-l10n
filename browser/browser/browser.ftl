@@ -741,7 +741,25 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = 下載
+navbar-overflow =
+    .tooltiptext = 更多工具…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = 列印
+    .tooltiptext = 列印此頁面… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = 列印
+    .tooltiptext = 列印此頁
 navbar-search =
     .title = 搜尋
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = 瀏覽器分頁
 tabs-toolbar-new-tab =
     .label = 開新分頁
+tabs-toolbar-list-all-tabs =
+    .label = 列出所有分頁
+    .tooltiptext = 列出所有分頁
