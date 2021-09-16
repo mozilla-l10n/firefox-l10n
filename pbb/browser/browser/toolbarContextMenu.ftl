@@ -8,4 +8,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Pekxkĩiçxaa
     .accesskey = P
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Pheu'nxisa's txe & khukhna
+    .accesskey = M
