@@ -5,4 +5,6 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Geuza kukufaa…
     .accesskey = G
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Pau Menyu
+    .accesskey = P
