@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Carauterística aconseyada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué toi viendo esto
-
 cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Amestar agora
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Xestionar los axustes de «Recomendación»
     .accesskey = X
-
 cfr-doorhanger-extension-never-show-recommendation = Nun amosar esta recomendación
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Lleer más
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación d'estensiones
     .a11y-announcement = Hai una recomendación d'estensiones disponible
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuarios
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza los marcadores onde teas.
@@ -88,30 +77,9 @@ cfr-protections-panel-link-text = Lleer más
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Carauterística nueva:
-
 cfr-whatsnew-button =
     .label = Novedaes
     .tooltiptext = Novedaes
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -125,26 +93,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver too
     .accesskey = V
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Zarrar
     .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -164,22 +114,6 @@ cfr-doorhanger-fission-primary-button = D'acuerdu, entendílo
 cfr-doorhanger-fission-secondary-button = Lleer más
     .accesskey = L
 
-## What's new: Cookies message
-
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-
-## What's new: Cookies protection
-
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-header = Anueva { -brand-short-name } pa reproducir el videu
@@ -192,3 +126,5 @@ cfr-doorhanger-video-support-primary-button = Anovar
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = Agora non
+    .accesskey = n

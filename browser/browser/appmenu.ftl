@@ -66,6 +66,8 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nun hai llingüetes abiertes
+appmenu-remote-tabs-opensettings =
+    .label = Axustes
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿Quies ver equí les llingüetes d'otros preseos de to?
