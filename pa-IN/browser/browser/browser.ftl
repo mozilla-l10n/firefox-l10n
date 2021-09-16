@@ -733,3 +733,10 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬਦਲਣ ਨੂੰ ਲੁਕਾਓ
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ਡਾਊਨਲੋਡ
+tabs-toolbar-new-tab =
+    .label = ਨਵੀਂ ਟੈਬ
