@@ -733,3 +733,35 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Kaŝi butonon de bildo en bildo
     .accesskey = K
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Esplorado
+navbar-downloads =
+    .label = Elŝutoj
+navbar-overflow =
+    .tooltiptext = Pli da iloj…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Presi
+    .tooltiptext = Presi tiun ĉi paĝon… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Presi
+    .tooltiptext = Presi ĉi tiun paĝon
+navbar-search =
+    .title = Serĉi
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Langetoj de retumilo
+tabs-toolbar-new-tab =
+    .label = Nova langeto
+tabs-toolbar-list-all-tabs =
+    .label = Listigi ĉiujn langetojn
+    .tooltiptext = Listigi ĉiujn langetojn
