@@ -366,6 +366,8 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Преземања
+navbar-overflow =
+    .tooltiptext = Повеќе алатки...
 navbar-print-tab-modal-disabled =
     .label = Печати
     .tooltiptext = Ја печати оваа страница
