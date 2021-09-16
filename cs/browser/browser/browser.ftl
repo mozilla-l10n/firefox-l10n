@@ -794,3 +794,8 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Skrýt přepínač obrazu v obraze
     .accesskey = v
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = Nový panel
