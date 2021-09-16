@@ -737,6 +737,8 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Preuzimanja
+navbar-overflow =
+    .tooltiptext = Više alata…
 tabs-toolbar-new-tab =
     .label = Nova kartica
 tabs-toolbar-list-all-tabs =
