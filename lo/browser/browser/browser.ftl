@@ -369,6 +369,8 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = ເຄື່ອງມືເພີ່ມເຕີມ…
 navbar-search =
     .title = ຊອກຫາ
 tabs-toolbar-new-tab =
