@@ -727,3 +727,16 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Falaich toglachadh dealbh am broinn deilbh
     .accesskey = h
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Luchdaidhean a-nuas
+navbar-print-tab-modal-disabled =
+    .label = Clò-bhuail
+    .tooltiptext = Clò-bhuail an duilleag seo
+tabs-toolbar-new-tab =
+    .label = Taba ùr
+tabs-toolbar-list-all-tabs =
+    .label = Liostaich gach taba
+    .tooltiptext = Liostaich gach taba
