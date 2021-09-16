@@ -225,6 +225,8 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Beureukaih teukeubah
+navbar-overflow =
+    .tooltiptext = Peukakah laén…
 navbar-home =
     .label = Ônkeuë
     .tooltiptext = Ônkeuë { -brand-short-name }
