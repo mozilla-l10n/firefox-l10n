@@ -106,7 +106,6 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Amatshwayo weencwadi
-
 bookmarks-toolbar-menu =
     .label = Isivalo sethulusi lamatshwayo weencwadi
 bookmarks-toolbar-placeholder =
@@ -153,7 +152,6 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Vumela ama { $uriHost } weposo ewelako
     .accesskey = p
-
 popups-infobar-block =
     .label = Vimba ama { $uriHost } weposo ewelako
     .accesskey = p
@@ -164,3 +162,14 @@ popups-infobar-dont-show-message =
     .label = Ungabonisi umlayezo lo nakube iinsetjenziswa zeposo ewelako zivaliwe
     .accesskey = D
 
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Khuphela
+navbar-print-tab-modal-disabled =
+    .label = Gadangisa
+    .tooltiptext = Gadangisa ikhaseli
+navbar-search =
+    .title = Rhubhulula
+tabs-toolbar-new-tab =
+    .label = Okutjha Isitjhidisi
