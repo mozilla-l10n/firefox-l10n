@@ -462,5 +462,12 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = အခြားတန်ဆာပလာများ…
 navbar-search =
     .title = ရှာဖွေပါ
+tabs-toolbar-new-tab =
+    .label = တပ်ဗ်အသစ်
+tabs-toolbar-list-all-tabs =
+    .label = တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ
+    .tooltiptext = တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ
