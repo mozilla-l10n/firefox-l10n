@@ -501,6 +501,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigatsiya
 navbar-downloads =
     .label = Yuklab olishlar
 navbar-overflow =
@@ -513,5 +518,23 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Chop qilish
     .tooltiptext = Ushbu sahifani chop qilish
+navbar-home =
+    .label = Uy
+    .tooltiptext = { -brand-short-name } bosh sahifasi
+navbar-library =
+    .label = Kutubxona
+    .tooltiptext = Tarix va saqlangan xatcho‘p kabilarni ko‘rish
 navbar-search =
     .title = Qidiruv
+navbar-accessibility-indicator =
+    .tooltiptext = Qulay funksiyalar yoqildi
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Brauzer varaqlari
+tabs-toolbar-new-tab =
+    .label = Yangi varaq
+tabs-toolbar-list-all-tabs =
+    .label = Barcha varaqlar roʻyxati
+    .tooltiptext = Barcha varaqlar roʻyxati
