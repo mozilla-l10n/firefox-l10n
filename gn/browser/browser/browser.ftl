@@ -739,3 +739,25 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Emokañy votõ Picture-in-Picture (PIP)
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Ñemboguejy
+navbar-overflow =
+    .tooltiptext = Tembipuruve…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Mbokuatia
+    .tooltiptext = Embokuatia ko kuatiarogue… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Mbokuatia
+    .tooltiptext = Ko kuatiarogue mbokuatia
+navbar-search =
+    .title = Heka
+tabs-toolbar-new-tab =
+    .label = Tendayke pyahu
+tabs-toolbar-list-all-tabs =
+    .label = Opaite tendayke jehechauka
+    .tooltiptext = Opaite tendayke jehechauka
