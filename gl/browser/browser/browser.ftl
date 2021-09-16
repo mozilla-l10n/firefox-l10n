@@ -739,3 +739,11 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Agochar «Alternar imaxe en imaxe»
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Descargas
+navbar-print-tab-modal-disabled =
+    .label = Imprimir
+    .tooltiptext = Imprimir esta páxina
