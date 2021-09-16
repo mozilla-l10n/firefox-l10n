@@ -736,3 +736,8 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = 隱藏子母畫面切換按鈕
     .accesskey = H
+
+# Navigator Toolbox
+
+tabs-toolbar-new-tab =
+    .label = 開新分頁
