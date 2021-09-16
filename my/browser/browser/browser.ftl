@@ -466,6 +466,11 @@ navbar-overflow =
     .tooltiptext = အခြားတန်ဆာပလာများ…
 navbar-search =
     .title = ရှာဖွေပါ
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ဘရောက်ဆာတပ်ဗ်များ
 tabs-toolbar-new-tab =
     .label = တပ်ဗ်အသစ်
 tabs-toolbar-list-all-tabs =
