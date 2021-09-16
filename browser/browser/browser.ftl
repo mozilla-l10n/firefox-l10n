@@ -567,6 +567,15 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Ներբեռնումներ
+navbar-overflow =
+    .tooltiptext = Լր. գործիքներ...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Տպել
+    .tooltiptext = Տպել էջը... ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Տպել
     .tooltiptext = Տպել տվյալ էջը
