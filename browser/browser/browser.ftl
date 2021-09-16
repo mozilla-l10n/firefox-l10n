@@ -572,3 +572,6 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Տպել տվյալ էջը
 tabs-toolbar-new-tab =
     .label = Նոր Ներդիր
+tabs-toolbar-list-all-tabs =
+    .label = Ցուցադրել բոլոր էջերը
+    .tooltiptext = Ցուցադրել բոլոր էջերը
