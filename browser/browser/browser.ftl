@@ -433,6 +433,8 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ទាញ​យក
+navbar-overflow =
+    .tooltiptext = ឧបករណ៍ច្រើនទៀត…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -443,5 +445,13 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = បោះពុម្ព​ទំព័រ​នេះ
 navbar-search =
     .title = ស្វែងរក
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត
 tabs-toolbar-new-tab =
     .label = ផ្ទាំង​ថ្មី
+tabs-toolbar-list-all-tabs =
+    .label = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
+    .tooltiptext = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
