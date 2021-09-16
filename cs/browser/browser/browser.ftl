@@ -797,6 +797,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-overflow =
+    .tooltiptext = Další nástroje…
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
