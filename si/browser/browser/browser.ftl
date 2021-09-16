@@ -419,6 +419,13 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = බාගැනිම්
+navbar-overflow =
+    .tooltiptext = තවත් මෙවලම්...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = මුද්‍රණය
+    .tooltiptext = මෙම පිටුව මුදරණය කරන්න... ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = මුද්‍රණය
     .tooltiptext = පිටුව මුද්‍රණය
