@@ -747,3 +747,18 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Pśešaltowanje wobraz-we-wobrazu schowaś
     .accesskey = P
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Ześěgnjenja
+navbar-overflow =
+    .tooltiptext = Dalšne rědy…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Śišćaś
+    .tooltiptext = Toś ten bok śišćaś... ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Śišćaś
+    .tooltiptext = Toś ten bok śišćaś
