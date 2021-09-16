@@ -340,5 +340,13 @@ navbar-downloads =
 navbar-print-tab-modal-disabled =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ
     .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = ବ୍ରାଉଜର ଟ୍ୟାବଗୁଡ଼ିକ
 tabs-toolbar-new-tab =
     .label = ନୂତନ ଟ୍ୟାବ
+tabs-toolbar-list-all-tabs =
+    .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
+    .tooltiptext = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
