@@ -513,3 +513,5 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Chop qilish
     .tooltiptext = Ushbu sahifani chop qilish
+navbar-search =
+    .title = Qidiruv
