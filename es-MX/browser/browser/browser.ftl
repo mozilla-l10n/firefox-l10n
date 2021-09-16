@@ -755,6 +755,9 @@ navbar-print-tab-modal-disabled =
 navbar-home =
     .label = Inicio
     .tooltiptext = Página de inicio de { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Ver historial, marcadores guardados y más
 navbar-search =
     .title = Buscar
 # Name for the tabs toolbar as spoken by screen readers. The word
