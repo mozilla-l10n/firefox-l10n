@@ -742,6 +742,8 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = ডাউনল'ডসমূহ
+navbar-overflow =
+    .tooltiptext = অধিক সঁজুলি…
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
