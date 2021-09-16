@@ -761,3 +761,6 @@ tabs-toolbar =
     .aria-label = Browserljepblêden
 tabs-toolbar-new-tab =
     .label = Nij ljepblêd
+tabs-toolbar-list-all-tabs =
+    .label = Alle ljepblêdtitels werjaan
+    .tooltiptext = Alle ljepblêdtitels werjaan
