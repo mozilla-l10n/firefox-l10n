@@ -762,3 +762,5 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Śišćaś
     .tooltiptext = Toś ten bok śišćaś
+navbar-search =
+    .title = Pytaś
