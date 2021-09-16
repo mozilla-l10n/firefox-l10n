@@ -712,3 +712,19 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Amaga el botó d'Imatge sobre imatge
     .accesskey = m
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Baixades
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprimeix
+    .tooltiptext = Imprimeix aquesta pàgina… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Imprimeix
+    .tooltiptext = Imprimeix aquesta pàgina
+tabs-toolbar-list-all-tabs =
+    .label = Llista totes les pestanyes
+    .tooltiptext = Llista totes les pestanyes
