@@ -476,8 +476,23 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Çap Et
     .tooltiptext = Bu səhifəni çap et
+navbar-home =
+    .label = Ev
+    .tooltiptext = { -brand-short-name } Ana Səhifə
+navbar-library =
+    .label = Kitabxana
+    .tooltiptext = Tarixçəni, saxlanılmış əlfəcinləri və daha çox şeyi görün
 navbar-search =
     .title = Axtar
+navbar-accessibility-indicator =
+    .tooltiptext = Əlçatanlıq Özəllikləri Aktivdir
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Brauzer vərəqləri
+tabs-toolbar-new-tab =
+    .label = Yeni vərəq
 tabs-toolbar-list-all-tabs =
     .label = Bütün vərəqləri siyahıla
     .tooltiptext = Bütün vərəqləri siyahıla
