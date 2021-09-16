@@ -758,5 +758,13 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-print-tab-modal-disabled =
+    .label = Argraffu
+    .tooltiptext = Argraffu'r dudalen
+navbar-search =
+    .title = Chwilio
 tabs-toolbar-new-tab =
     .label = Tab Newydd
+tabs-toolbar-list-all-tabs =
+    .label = Rhestru pob tab
+    .tooltiptext = Rhestru pob tab
