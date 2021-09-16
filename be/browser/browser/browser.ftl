@@ -743,6 +743,8 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+navbar-downloads =
+    .label = Сцягванні
 navbar-overflow =
     .tooltiptext = Іншыя прылады…
 # Variables:
@@ -755,6 +757,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Друкаваць гэтую старонку
 navbar-search =
     .title = Пошук
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Карткі браўзера
 tabs-toolbar-new-tab =
     .label = Новая картка
 tabs-toolbar-list-all-tabs =
