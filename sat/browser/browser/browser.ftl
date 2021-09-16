@@ -303,3 +303,14 @@ ui-tour-info-panel-close =
 
 ##
 
+
+# Navigator Toolbox
+
+navbar-overflow =
+    .tooltiptext = बड़ती  टुल…
+navbar-print-tab-modal-disabled =
+    .label = छापा
+    .tooltiptext = नोवा साहटा छापाय मे
+tabs-toolbar-list-all-tabs =
+    .label = जोतो टैब को सुची मे
+    .tooltiptext = जोतो टैब को सुची मे
