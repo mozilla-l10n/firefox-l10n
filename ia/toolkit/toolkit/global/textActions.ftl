@@ -5,68 +5,52 @@
 text-action-undo =
     .label = Disfacer
     .accesskey = D
-
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
     .label = Refacer
     .accesskey = R
-
 text-action-redo-shortcut =
     .key = Y
-
 text-action-cut =
     .label = Taliar
     .accesskey = t
-
 text-action-cut-shortcut =
     .key = X
-
 text-action-copy =
     .label = Copiar
     .accesskey = C
-
 text-action-copy-shortcut =
     .key = C
-
 text-action-paste =
     .label = Collar
     .accesskey = l
-
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
     .label = Deler
     .accesskey = D
-
 text-action-select-all =
     .label = Seliger toto
     .accesskey = t
-
 text-action-select-all-shortcut =
     .key = A
-
 text-action-spell-no-suggestions =
     .label = Nulle suggestiones orthographic
-
 text-action-spell-add-to-dictionary =
     .label = Adder al dictionario
     .accesskey = d
-
 text-action-spell-undo-add-to-dictionary =
     .label = Disfacer le addition al dictionario
     .accesskey = s
-
 text-action-spell-check-toggle =
     .label = Verificar le orthographia
     .accesskey = g
-
 text-action-spell-add-dictionaries =
     .label = Adder dictionarios…
     .accesskey = A
-
 text-action-spell-dictionaries =
     .label = Linguas
     .accesskey = L
+text-action-search-text-box-clear =
+    .title = Vacuar
