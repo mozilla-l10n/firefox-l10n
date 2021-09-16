@@ -726,6 +726,11 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = พิมพ์หน้านี้
 navbar-search =
     .title = ค้นหา
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = แท็บเบราว์เซอร์
 tabs-toolbar-new-tab =
     .label = แท็บใหม่
 tabs-toolbar-list-all-tabs =
