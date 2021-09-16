@@ -743,11 +743,26 @@ navbar-downloads =
     .label = Nedlastingar
 navbar-overflow =
     .tooltiptext = Fleire verktøy…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Skriv ut
+    .tooltiptext = Skriv ut denne sida… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Skriv ut
     .tooltiptext = Skriv ut denne sida
+navbar-library =
+    .label = Arkiv
+    .tooltiptext = Vis historikk, lagra bokmerker med meir
 navbar-search =
     .title = Søk
+navbar-accessibility-indicator =
+    .tooltiptext = Tilgjengefunksjonar aktiverte
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Nettlesarfaner
 tabs-toolbar-new-tab =
     .label = Ny fane
 tabs-toolbar-list-all-tabs =
