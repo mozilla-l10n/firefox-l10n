@@ -8,4 +8,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Customise…
     .accesskey = C
-
+toolbar-context-menu-menu-bar-cmd =
+    .toolbarname = Menu Bar
+    .accesskey = M

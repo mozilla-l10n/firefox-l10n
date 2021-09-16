@@ -314,3 +314,21 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Downloads
+navbar-print-tab-modal-disabled =
+    .label = Print
+    .tooltiptext = Print this page
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Browser tabs
+tabs-toolbar-new-tab =
+    .label = New Tab
+tabs-toolbar-list-all-tabs =
+    .label = List all tabs
+    .tooltiptext = List all tabs
