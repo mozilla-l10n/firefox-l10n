@@ -746,6 +746,31 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Nawigacja
+navbar-downloads =
+    .label = Pobieranie plików
+navbar-overflow =
+    .tooltiptext = Więcej narzędzi…
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Drukuj
+    .tooltiptext = Wydrukuj tę stronę… ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = Drukuj
+    .tooltiptext = Drukuj bieżącą stronę
+navbar-home =
+    .label = Strona startowa
+    .tooltiptext = Przejdź do strony startowej
+navbar-library =
+    .label = Biblioteka
+    .tooltiptext = Wyświetl historię, zachowane zakładki i jeszcze więcej
+navbar-search =
+    .title = Znajdź
 navbar-accessibility-indicator =
     .tooltiptext = Aktywne usługi ułatwień dostępu
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -753,3 +778,8 @@ navbar-accessibility-indicator =
 # in the string
 tabs-toolbar =
     .aria-label = Karty przeglądarki
+tabs-toolbar-new-tab =
+    .label = Nowa karta
+tabs-toolbar-list-all-tabs =
+    .label = Pokaż wszystkie karty
+    .tooltiptext = Pokaż wszystkie karty
