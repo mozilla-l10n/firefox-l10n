@@ -508,3 +508,43 @@ ui-tour-info-panel-close =
 picture-in-picture-hide-toggle =
     .label = هێمادانانی وێنە-لەناو-وێنە بشارەوە
     .accesskey = H
+
+# Navigator Toolbox
+
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = ڕێدۆزی
+navbar-downloads =
+    .label = داگرتنەکان
+navbar-overflow =
+    .tooltiptext = ئامرازی تر...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = چاپکردن
+    .tooltiptext = ئەم پەڕەیە چاپبکە...({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = چاپکردن
+    .tooltiptext = ئەم پەڕەیە چاپبکە
+navbar-home =
+    .label = ماڵەوە
+    .tooltiptext = پەڕەی سەرەکی { -brand-short-name }
+navbar-library =
+    .label = کتێبخانە
+    .tooltiptext = مێژووی کار، دڵخوازراو پاشەکەوتکراو، و زیاتر پیشان بدە
+navbar-search =
+    .title = گەڕان
+navbar-accessibility-indicator =
+    .tooltiptext = تایبەتمەندییەکانی دەستپێگەیشتن چالاکە
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = بازدەرەکانی وێبگەڕ
+tabs-toolbar-new-tab =
+    .label = بازدەری نوێ
+tabs-toolbar-list-all-tabs =
+    .label = هەموو بازدەرەکان لیست بکە
+    .tooltiptext = هەموو بازدەرەکان لیست بکە
