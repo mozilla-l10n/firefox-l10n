@@ -743,6 +743,11 @@ picture-in-picture-hide-toggle =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Навігація
 navbar-downloads =
     .label = Завантаження
 navbar-overflow =
@@ -755,6 +760,12 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = Друкувати
     .tooltiptext = Надрукувати поточну сторінку
+navbar-home =
+    .label = Домівка
+    .tooltiptext = Домівка { -brand-short-name }
+navbar-library =
+    .label = Бібліотека
+    .tooltiptext = Перегляд історії, збережених закладок та інших даних
 navbar-search =
     .title = Пошук
 navbar-accessibility-indicator =
