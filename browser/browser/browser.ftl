@@ -732,3 +732,11 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Ẩn nút hình trong hình
     .accesskey = H
+
+# Navigator Toolbox
+
+navbar-print-tab-modal-disabled =
+    .label = In
+    .tooltiptext = In trang này
+navbar-search =
+    .title = Tìm kiếm
