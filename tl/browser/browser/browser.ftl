@@ -713,6 +713,11 @@ picture-in-picture-hide-toggle =
 
 navbar-downloads =
     .label = Mga Download
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = I-print
+    .tooltiptext = I-print ang pahinang ito ... ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = I-print
     .tooltiptext = I-limbag ang pahina na ito
