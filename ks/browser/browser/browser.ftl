@@ -250,3 +250,28 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = یئ شیچھ مئ ہٲویو یل۪ی پاپ اَپس بند گژھَن
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = ڈاؤن لوڈز
+navbar-overflow =
+    .tooltiptext = مزید ٹول ۔ ۔ ۔
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = پرینٹ
+    .tooltiptext = یہ پیج کْریو پرینٹ ۔ ۔ ۔ ({ $shortcut })
+navbar-print-tab-modal-disabled =
+    .label = پرینٹ
+    .tooltiptext = یئ صفحئ چھپٲویو
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = براوزر ٹیبس
+tabs-toolbar-new-tab =
+    .label = نئو ٹیب
+tabs-toolbar-list-all-tabs =
+    .label = سارنی ٹیبن ہیوند فہرست بنٲویو
+    .tooltiptext = سارنی ٹیبن ہیوند فہرست بنٲویو
