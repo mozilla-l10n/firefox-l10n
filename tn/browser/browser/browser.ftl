@@ -296,3 +296,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Se bontshe molaetsa o fa ditlhagelelo di thibetswe
     .accesskey = D
+
+# Navigator Toolbox
+
+navbar-downloads =
+    .label = Dikopololo
+navbar-print-tab-modal-disabled =
+    .label = Gatisa
+    .tooltiptext = Gatisa tsebe eno
