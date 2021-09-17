@@ -15,11 +15,11 @@ about-unloads-intro-1 =
     när frigörande av flikar behövs.
 about-unloads-intro-2 =
     Befintliga flikar visas i tabellen nedan i samma ordning som används av
-    { -brand-short-name } för att välja nästa flik att tömma. Process-IDn
+    { -brand-short-name } för att välja nästa flik att tömma. Process-ID
     visas med <strong>fetstil</strong> när de är värd för flikens huvud-
     ram och i <em>kursiv</em> när processen delas mellan flera flikar.
-    Du kan starta frigörande av flikar manuellt genom att klicka på <em>Frigör</em>
-    knappen nedan.
+    Du kan starta frigörande av flikar manuellt genom att klicka på knappen
+    <em>Frigör</em> nedan.
 about-unloads-last-updated = Senast uppdaterad: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigör
     .title = Frigör fliken med högsta prioritet
