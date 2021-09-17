@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Sykje
     .aria-label = Sykje
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Mei { $engine } sykje of fier adres yn
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Fier sykterm of adres yn
     .title = Fier sykterm of adres yn
     .aria-label = Fier sykterm of adres yn
-
 newtab-search-box-search-the-web-input =
     .placeholder = Sykje op it web
     .title = Sykje op it web
     .aria-label = Sykje op it web
-
 newtab-search-box-text = Sykje op it web
 newtab-search-box-input =
     .placeholder = Sykje op it web
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Fluchkeppeling bewurkje
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Titel ynfiere
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Typ of plak in URL
 newtab-topsites-url-validation = Jildige URL fereaske
-
 newtab-topsites-image-url-label = URL fan oanpaste ôfbylding
 newtab-topsites-use-image-link = In oanpaste ôfbylding brûke…
 newtab-topsites-image-validation = Ofbylding koe net laden wurde. Probearje in oare URL.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = Sponsore
 newtab-menu-section-tooltip =
     .title = Menu iepenje
     .aria-label = Menu iepenje
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fuortsmite
     .aria-label = Fuortsmite
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,16 +161,19 @@ newtab-label-removed-bookmark = Blêdwizer fuortsmiten
 newtab-label-recommended = Trending
 newtab-label-saved = Bewarre nei { -pocket-brand-name }
 newtab-label-download = Download
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsore
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsore troch { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min.
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -212,7 +208,6 @@ newtab-section-header-pocket = Oanrekommandearre troch { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Start mei sneupen en wy toane jo guon moaie artikelen, fideo's en oare siden dy't jo resint besocht hawwe of in blêdwizer fan makke hawwe.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
