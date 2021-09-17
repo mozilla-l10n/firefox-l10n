@@ -7,6 +7,8 @@
 ### feature.
 
 about-unloads-page-title = Déchargement d’onglets
+about-unloads-intro-1 = { -brand-short-name } est doté d’une fonctionnalité qui décharge automatiquement des onglets pour empêcher le plantage de l’application par manque de mémoire quand la quantité de mémoire disponible du système est faible. Le prochain onglet à décharger est choisi selon plusieurs attributs. Cette page montre comment { -brand-short-name } choisit la priorité des onglets et lequel sera déchargé lorsque le déchargement d’onglets sera déclenché.
+about-unloads-intro-2 = Les onglets existants sont affichés dans le tableau ci-dessous dans l’ordre même que { -brand-short-name } utilise pour choisir le prochain onglet à décharger. L’identifiant de processus apparaît en <strong>gras</strong> quand ce processus héberge le cadre supérieur d’un onglet et en <em>italique</em> quand il est partagé entre différents onglets. Vous pouvez déclencher manuellement le déchargement d’onglets en cliquant sur le bouton <em>Décharger</em> ci-dessous.
 about-unloads-last-updated = Dernière actualisation : { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Décharger
     .title = Décharger l’onglet possédant la priorité la plus élevée
