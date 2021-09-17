@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-yes-button = Sebded
+prompt-to-install-no-button = Ur sebdad ara
 
 ## Strings for a dialog that opens if the installation failed.
 
