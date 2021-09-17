@@ -78,13 +78,13 @@ places-remove-folder =
         }
     .accesskey = v
 places-edit-folder2 =
-    .label = Rediger plica…
+    .label = Modificar dossier…
     .accesskey = i
 places-delete-folder =
     .label =
         { $count ->
-            [1] Deler plica
-           *[other] Deler plicas
+            [1] Deler dossier
+           *[other] Deler dossiers
         }
     .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
