@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = Τ
     .buttonlabelextra2 = Δεν ταιριάζουν
     .buttonaccesskeyextra2 = Δ
+challenge-label = Επαληθεύστε ότι η εμφανιζόμενη συμβολοσειρά ταιριάζει με αυτή στο άλλο άκρο.
