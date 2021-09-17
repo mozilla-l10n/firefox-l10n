@@ -9,6 +9,21 @@
 <!ENTITY prefCheckDefaultClient.label     "Alapértelmezett programok beállításának ellenőrzése induláskor">
 <!ENTITY prefCheckDefaultClient.accesskey "A">
 
+<!ENTITY defaultClientFor.description     "A &brandShortName; alapértelmezetté tétele a következőkhöz:">
+<!ENTITY setDefaultBrowser.label          "Böngésző">
+<!ENTITY setDefaultBrowser.accesskey      "B">
+<!ENTITY setDefaultMail.label             "Levelezés">
+<!ENTITY setDefaultMail.accesskey         "L">
+<!ENTITY setDefaultNews.label             "Hírek">
+<!ENTITY setDefaultNews.accesskey         "H">
+<!ENTITY setDefaultFeed.label             "Hírforrások">
+<!ENTITY setDefaultFeed.accesskey         "f">
+<!ENTITY useInternalSettings.description  "&brandShortName; Levelező és hírolvasó használata a hivatkozások böngészőben történő megnyitásakor:">
+<!ENTITY useInternalMail.label            "Levelezés (mailto:)">
+<!ENTITY useInternalMail.accesskey        "e">
+<!ENTITY useInternalNews.label            "Hírcsoportok (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "r">
+
 <!ENTITY printing.label                   "Nyomtatás">
 <!ENTITY useNativePrintDialog.label       "Natív nyomtatás párbeszédablak használata (ha támogatott)">
 <!ENTITY useNativePrintDialog.accesskey   "N">
