@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Adder etiquettas
-
 pocket-panel-saved-error-generic = Un error occurreva durante le tentativa de salvar in { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Le etiquettas es limitate a 25 characteres
 pocket-panel-saved-error-only-links = Solmente ligamines pote esser salvate
@@ -32,7 +31,7 @@ pocket-panel-signup-view-list = Vide le lista
 
 pocket-panel-signup-already-have = Jam usator de { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Saper plus
-pocket-panel-signup-login = Authenticar se
+pocket-panel-signup-login = Aperir session
 pocket-panel-signup-signup-email = Inscribe te con e-mail
 pocket-panel-signup-signup-cta = Inscribe te a { -pocket-brand-name }. Es gratuite.
 pocket-panel-signup-signup-firefox = Inscribe te con { -brand-product-name }

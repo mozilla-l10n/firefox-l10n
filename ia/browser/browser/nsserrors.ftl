@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Un error occurreva durante un connexion a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codice de error: { $error }
-
 psmerr-ssl-disabled = Connexion secur impossibile perque le protocollo SSL ha essite disactivate.
 psmerr-ssl2-disabled = On non pote connecter se securmente perque le sito usa un version plus vetule e insecur del protocollo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tu ha recipite un certificato invalide.  Per favor contacta le administrator del servitor o le correspondente de email e da les le sequente information:
     
     Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification.  Per favor obtene un nove certificato continente un numero serial unic.
-
 ssl-error-export-only-server = Impossibile communicar in maniera secur. Le par non supporta cryptographia de alte nivello.
 ssl-error-us-only-server = Impossibile communicar in maniera secur. Le par require cryptographia de un alte nivello que non es supportate.
 ssl-error-no-cypher-overlap = Impossibile communicar in maniera secur con le par: nulle algorithmo cryptographic in commun.
@@ -317,7 +313,7 @@ sec-error-incompatible-pkcs11 = Le driver PKCS #11 viola le specificationes in u
 sec-error-no-event = Nulle nove evento de slot es actualmente disponibile.
 sec-error-crl-already-exists = Le CRL existe jam.
 sec-error-not-initialized = NSS non es initialisate.
-sec-error-token-not-logged-in = Le operation falleva perque le token PKCS#11 non es authenticate.
+sec-error-token-not-logged-in = Le operation falleva perque le token PKCS#11 non ha aperite session.
 sec-error-ocsp-responder-cert-invalid = Le certificato del responditor OCSP configurate non es valide.
 sec-error-ocsp-bad-signature = Le responsa de OCSP ha un signatura invalide.
 sec-error-out-of-search-limits = Le recerca de validation del certificato es foras del limites de recerca
