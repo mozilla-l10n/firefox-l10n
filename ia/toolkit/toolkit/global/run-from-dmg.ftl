@@ -9,7 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Completar le installation de { -brand-short-name }?
-prompt-to-install-message = Conclude iste installation pro adjutar a mantener o { -brand-short-name } actualisate e evitar perdita de datos. { -brand-short-name } sera addite a tu plica Applicationes e al Dock.
+prompt-to-install-message = Conclude iste installation in un sol passo pro mantener { -brand-short-name } actualisate e evitar le perdita de datos. { -brand-short-name } essera addite al dossier Applicationes e al Dock.
 prompt-to-install-yes-button = Installar
 prompt-to-install-no-button = Non installar
 
