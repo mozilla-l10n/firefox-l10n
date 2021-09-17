@@ -5,16 +5,14 @@
 otr-finger =
     .buttonlabelaccept = Zapri
     .title = Doslej videni prstni odtisi OTR
-
 finger-intro = Prstni odtisi ključev OTR s prejšnjih šifriranih pogovorov.
-
+finger-screen-name =
+    .label = Stik
 finger-verified =
     .label = Preverjenost
 finger-fingerprint =
     .label = Prstni odtis
-
 finger-remove =
     .label = Odstrani izbrane
-
 finger-remove-all =
     .label = Odstrani vse

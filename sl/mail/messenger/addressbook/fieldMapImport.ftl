@@ -4,10 +4,9 @@
 
 import-ab-csv-window =
     .title = Uvozi imenik iz besedilne datoteke
-
+import-ab-csv-dialog-title = Uvozi imenik iz besedilne datoteke
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Predogled uvoza podatkov za zapis { $recordNumber }
-
 import-ab-csv-dialog =
     .buttonlabelaccept = Uvozi
     .buttonaccesskeyaccept = U
