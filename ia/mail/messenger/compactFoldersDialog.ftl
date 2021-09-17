@@ -3,9 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 compact-dialog-window =
-    .title = Compactar plicas
+    .title = Compactar dossiers
     .style = width: 50em;
-
 compact-dialog =
     .buttonlabelaccept = Compactar ora
     .buttonaccesskeyaccept = C
@@ -13,12 +12,9 @@ compact-dialog =
     .buttonaccesskeycancel = R
     .buttonlabelextra1 = Pro saper plus…
     .buttonaccesskeyextra1 = s
-
 # Variables:
 #  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
-compact-dialog-message = { -brand-short-name } debe facer mantenentia de file regular pro meliorar le prestation de tu plicas e-mail. Isto recuperara { $datos } de spatio de disco sin modificar tu messages. Pro que { -brand-short-name } lo face automaticamente in le futuro sin demandar, marca le cassa infra e elige ‘{ compact-dialog.buttonlabelaccept }’.
-
+compact-dialog-message = { -brand-short-name } debe facer regularmente un mantenentia de files pro meliorar le prestationes de tu dossiers de e-mail. Isto recuperara { $datos } de spatio de disco sin modificar tu messages. Pro permitter a { -brand-short-name } de facer isto automaticamente in le futuro sin demandar, marca le quadrato hic infra ante de eliger ‘{ compact-dialog.buttonlabelaccept }’.
 compact-dialog-never-ask-checkbox =
-    .label = Compactar plicas automaticamente in le futuro
+    .label = Compactar dossiers automaticamente in le futuro
     .accesskey = a
-

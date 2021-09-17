@@ -4,27 +4,18 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = Importar posta de un directorio de profilo Thunderbird.
-
 import-from-thunderbird-zip =
     .label = Thunderbird (backup de profilo exportate; file zip minor de 2GB)
     .accesskey = Z
-
 import-from-thunderbird-dir =
-    .label = Thunderbird (plica de profilo)
+    .label = Thunderbird (dossier de profilo)
     .accesskey = T
-
 import-select-profile-zip = Eliger un directorio de profilo zippate
-
 import-select-profile-dir = Selige un directorio de profilo
-
 zip-file-too-big-title = File zip troppo grande
-
 zip-file-too-big-message = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
-
 wizardpage-failed =
     .label = Importation fallite
-
 wizardpage-failed-message = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
