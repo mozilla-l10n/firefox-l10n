@@ -734,12 +734,20 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = যেতিয়া পপ-আপসমূহ প্ৰতিৰোধিত তেতিয়া এই বাৰ্তা নেদেখাব
     .accesskey = D
+edit-popup-settings =
+    .label = প'প-আপ ছেটিংছ পৰিচালনা কৰক…
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = "ছবিৰ-ওপৰত-ছবি"ৰ ট'গল লুকুৱাওক
     .accesskey = H
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = নেভিগেশ্যন...
 navbar-downloads =
     .label = ডাউনল'ডসমূহ
 navbar-overflow =
@@ -752,6 +760,14 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = প্ৰিণ্ট কৰক
     .tooltiptext = এই পৃষ্ঠা প্ৰিণ্ট কৰক
+navbar-home =
+    .label = মুখ্যপৃষ্ঠা
+    .tooltiptext = { -brand-short-name }-ৰ মুখ্যপৃষ্ঠা
+navbar-library =
+    .label = লাইব্ৰেৰী
+    .tooltiptext = ইতিহাস, সাঁচি থোৱা বুকমাৰ্ক আৰু বহুতো চাওক
+navbar-search =
+    .title = সন্ধান কৰক
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
