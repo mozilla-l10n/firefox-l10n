@@ -7,7 +7,7 @@
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "Άγνωστη έκδοση">
 <!ENTITY version.known.label   "Έκδοση &#37;S">
-<!ENTITY description.label     "Ένα απλό στη χρήση, αλλά εξαιρετικά επεκτάσιμο πρόγραμμα IRC (Internet Relay Chat).">
+<!ENTITY description.label     "Ένας απλός στη χρήση, αλλά εξαιρετικά ευέλικτος πελάτης IRC (Internet Relay Chat).">
 
 <!ENTITY homepage.label    "Αρχική σελίδα">
 <!ENTITY copyversion.label "Αντιγραφή λεπτομερειών έκδοσης">
