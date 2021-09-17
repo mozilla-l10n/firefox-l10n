@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "eddig:">
 <!ENTITY maxZoom.accesskey                      "e">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Alapértelmezett nagyítás">
 <!ENTITY defaultZoom.accesskey                  "A">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "Minden webhely egyedi nagyításának megjegyzése">
 <!ENTITY siteSpecific.accesskey                 "M">
 <!ENTITY showZoomStatusPanel.label              "Nagyítási vezérlőelemek megjelenítése az állapotsorban">
+<!ENTITY showZoomStatusPanel.accesskey          "v">
 <!ENTITY enableAutomaticImageResizing.label     "Nagy képek átméretezése, hogy elférjen a böngésző ablakban">
 <!ENTITY enableAutomaticImageResizing.accesskey "N">
 
