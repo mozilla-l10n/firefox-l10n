@@ -173,6 +173,23 @@ about-logins-confirm-remove-all-dialog-title =
         [many] Dilemel { $count } a ditouroù kennaskañ?
        *[other] Dilemel { $count } titour kennaskañ?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Dilemel a raio an titour kennaskañ enrollet ganeoc’h e { -brand-short-name } ha kement galv diwall frailh a vez skrammet amañ. Ne vo ket tu deoc’h dizober kement-mañ.
+        [one] Dilemel a raio an titouroù kennaskañ enrollet ganeoc’h e { -brand-short-name } ha kement galv diwall frailh a vez skrammet amañ. Ne vo ket tu deoc’h dizober kement-mañ.
+        [two] Dilemel a raio an titouroù kennaskañ enrollet ganeoc’h e { -brand-short-name } ha kement galv diwall frailh a vez skrammet amañ. Ne vo ket tu deoc’h dizober kement-mañ.
+        [few] Dilemel a raio an titouroù kennaskañ enrollet ganeoc’h e { -brand-short-name } ha kement galv diwall frailh a vez skrammet amañ. Ne vo ket tu deoc’h dizober kement-mañ.
+        [many] Dilemel a raio an titouroù kennaskañ enrollet ganeoc’h e { -brand-short-name } ha kement galv diwall frailh a vez skrammet amañ. Ne vo ket tu deoc’h dizober kement-mañ.
+       *[other] Dilemel a raio an titouroù kennaskañ enrollet ganeoc’h e { -brand-short-name } ha kement galv diwall frailh a vez skrammet amañ. Ne vo ket tu deoc’h dizober kement-mañ.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Dilemel { $count } titour kennaskañ eus an holl drevnadoù?
+        [two] Dilemel { $count } ditour kennaskañ eus an holl drevnadoù?
+        [few] Dilemel { $count } zitour kennaskañ eus an holl drevnadoù?
+        [many] Dilemel { $count } a ditouroù kennaskañ eus an holl drevnadoù?
+       *[other] Dilemel { $count } titour kennaskañ eus an holl drevnadoù?
+    }
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c’hallo bezañ lennet gant an holl a c’hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
@@ -259,6 +276,14 @@ about-logins-import-dialog-items-added =
         [few] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
         [many] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+        [two] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+        [many] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
