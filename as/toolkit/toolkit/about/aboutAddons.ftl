@@ -34,6 +34,9 @@ detail-version =
 detail-last-updated =
     .label = সৰবশেষ আপডেইট কৰা হৈছিল
 detail-contributions-description = এই এড-অনৰ উন্নয়কে বিচাৰে যে আপুনি সৰু এটা বৰঙনি আগবঢ়াই ইয়াৰ উন্নয়ন কাৰ্য্য সমৰ্থন কৰে।
+detail-contributions-button = অৱদান দিয়ক
+    .title = এই এড-অনৰ বিকাশত অৰিহণা যোগাওক
+    .accesskey = C
 detail-update-type =
     .value = স্বচালিত আপডেইটসমূহ
 detail-update-default =
@@ -77,9 +80,15 @@ detail-rating =
     .value = হাৰাংক
 addon-restart-now =
     .label = এতিয়া পুনৰাম্ভ কৰক
+legacy-warning-show-legacy = লিগেচী এক্সটেনশ্যনসমূহ দেখুৱাওক
+legacy-extensions =
+    .value = লিগেচী এক্সটেনশ্যনসমূহ
 addon-category-extension = সম্প্ৰসাৰনসমূহ
 addon-category-extension-title =
     .title = সম্প্ৰসাৰনসমূহ
+addon-category-theme = থীমসমূহ
+addon-category-theme-title =
+    .title = থীমসমূহ
 addon-category-plugin = প্লাগিনসমূহ
 addon-category-plugin-title =
     .title = প্লাগিনসমূহ
@@ -143,9 +152,17 @@ addon-install-from-file = ফাইলৰ পৰা এড-অন ইনস্�
     .accesskey = I
 addon-install-from-file-dialog-title = ইনস্টল কৰিবলে এড-অন বাছক
 addon-install-from-file-filter-name = এড-অনসমূহ
+addon-open-about-debugging = এড-অন ডিবাগ কৰক
+    .accesskey = b
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = এক্সটেনশ্যনৰ চমুপথসমূহ পৰিচালনা কৰক
+    .accesskey = S
+shortcuts-no-addons = আপোনাৰ কোনো এক্সটেনশ্যন সক্ৰিয় কৰা হোৱা নাই।
+shortcuts-modifier-mac = Ctrl, Alt বা ⌘ অন্তৰ্ভুক্ত কৰক
+shortcuts-invalid = অবৈধ সংমিশ্ৰণ
 
 ## Recommended add-ons page
 
@@ -166,5 +183,10 @@ discopane-notice-learn-more = অধিক জানক
 
 ## Page headings
 
+locale-heading = আপোনাৰ ভাষাসমূহ পৰিচালনা কৰক
+shortcuts-heading = এক্সটেনশ্যনৰ চমুপথসমূহ পৰিচালনা কৰক
+default-heading-search-label = অধিক এড-অন বিচাৰক
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org-ত সন্ধান কৰক
 addon-page-options-button =
     .title = সকলো এড-অনৰ পৰা সঁজুলিসমূহ
