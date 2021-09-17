@@ -8,12 +8,12 @@
 
 about-unloads-page-title = Remotion de schedas
 about-unloads-intro-1 =
-    { -brand-short-name } ha un functionalitate que remove automaticamente schedas
-    pro impedir le crashes del application per memoria insufficiente
-    quando illo disponibile del systema es basse. Le proxime scheda a esser removite es
-    eligite in base a plure attributos. Iste pagina monstra como
-    { -brand-short-name } da prioritate al schedas e qual scheda sera removite
-    quando le remotion de schedas es discatenate.
+    { -brand-short-name } ha un function que remove automaticamente le
+    contento de schedas del memoria pro impedir que le application collabe
+    quando le memoria disponibile in le systema deveni insufficiente. Le
+    proxime scheda a esser removite es eligite a base de plure attributos.
+    Iste pagina monstra como { -brand-short-name } da prioritate al schedas e
+    qual scheda essera removite quando le remotion de schedas es actionate.
 about-unloads-intro-2 =
     Le schedas existente es monstrate in le tabula infra in le mesme ordine usate per
     { -brand-short-name } pro eliger le proxime scheda a remover. Le IDs de processo
