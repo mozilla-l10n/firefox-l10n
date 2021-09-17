@@ -16,22 +16,26 @@ about-addressbook-toolbar-new-contact =
     .label = Ny kontakt
 about-addressbook-toolbar-new-list =
     .label = Ny lista
+about-addressbook-toolbar-import =
+    .label = Importera
 
 ## Books
 
 all-address-books = Alla adressböcker
-
 about-addressbook-books-context-properties =
     .label = Egenskaper
 about-addressbook-books-context-synchronize =
     .label = Synkronisera
 about-addressbook-books-context-print =
     .label = Skriv ut…
+about-addressbook-books-context-export =
+    .label = Exportera…
 about-addressbook-books-context-delete =
     .label = Ta bort
 about-addressbook-books-context-remove =
     .label = Ta bort
-
+about-addressbook-books-context-startup-default =
+    .label = Standardstartkatalog
 about-addressbook-confirm-delete-book-title = Ta bort adressbok
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -49,17 +53,14 @@ about-addressbook-search =
     .placeholder = Sök i { $name }
 about-addressbook-search-all =
     .placeholder = Sök i alla adressböcker
-
 about-addressbook-sort-button =
     .title = Ändra listordningen
-
 about-addressbook-name-format-display =
     .label = Visningsnamn
 about-addressbook-name-format-firstlast =
     .label = Förnamn Efternamn
 about-addressbook-name-format-lastfirst =
     .label = Efternamn, Förnamn
-
 about-addressbook-sort-name-ascending =
     .label = Sortera efter namn (A > Ö)
 about-addressbook-sort-name-descending =
@@ -68,10 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Sortera efter e-postadress (A > Ö)
 about-addressbook-sort-email-descending =
     .label = Sortera efter e-postadress (Ö > A)
-
 about-addressbook-cards-context-write =
     .label = Skriv meddelande
-
 about-addressbook-confirm-delete-mixed-title = Ta bort kontakter och listor
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -128,7 +127,6 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Redigera
 about-addressbook-cancel-edit-contact-button = Avbryt
 about-addressbook-save-edit-contact-button = Spara
-
 about-addressbook-details-email-addresses-header = E-postadresser
 about-addressbook-details-phone-numbers-header = Telefonnummer
 about-addressbook-details-home-address-header = Hemadresser

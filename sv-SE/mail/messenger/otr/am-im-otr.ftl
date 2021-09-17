@@ -6,6 +6,7 @@ account-encryption =
     .label = End-to-end kryptering
 account-otr-label = Off-the-Record meddelanden (OTR)
 account-otr-description = { -brand-short-name } stöder end-to-end kryptering av en-till-en-konversationer. Detta förhindrar att tredje parter avlyssnar en konversation. End-to-end kryptering kan endast användas när den andra personen också använder programvara som stöder OTR.
+account-otr-description2 = { -brand-short-name } stöder end-to-end kryptering av en-till-en-konversationer baserat på OTR. Detta hindrar tredje part från att avlyssna en konversation. Denna typ av end-to-end kryptering kan bara användas när den andra personen också använder programvara som stöder OTR.
 otr-encryption-title = Verifierad kryptering
 otr-encryption-caption = För att göra det möjligt för andra att verifiera din identitet i OTR-chattar, dela ditt egna OTR-fingeravtryck med en extern kommunikationskanal.
 otr-fingerprint-label = Ditt fingeravtryck:
@@ -15,7 +16,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-inställningar
 otr-log =
     .label = Inkludera OTR-krypterade meddelanden i konversationsloggar
-
 otr-require-encryption =
     .label = Kräv end-to-end kryptering för en-till-en-konversationer
 otr-require-encryption-info =
@@ -24,6 +24,4 @@ otr-require-encryption-info =
     visas inte som en del av den vanliga konversationen och loggas inte heller.
 otr-verify-nudge =
     .label = Påminn mig alltid att verifiera en overifierad kontakt
-
 otr-not-yet-available = inte tillgänglig än
-
