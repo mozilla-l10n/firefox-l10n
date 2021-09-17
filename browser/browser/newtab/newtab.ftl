@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Αναζήτηση
     .aria-label = Αναζήτηση
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Αναζήτηση ή εισαγωγή διεύθυνσης
     .title = Αναζήτηση ή εισαγωγή διεύθυνσης
     .aria-label = Αναζήτηση ή εισαγωγή διεύθυνσης
-
 newtab-search-box-search-the-web-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
     .title = Αναζήτηση στο διαδίκτυο
     .aria-label = Αναζήτηση στο διαδίκτυο
-
 newtab-search-box-text = Αναζήτηση στο διαδίκτυο
 newtab-search-box-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσ
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισαγωγή τίτλου
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Εισαγωγή ή επικόλληση URL
 newtab-topsites-url-validation = Απαιτείται έγκυρο URL
-
 newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = Χορηγία
 newtab-menu-section-tooltip =
     .title = Άνοιγμα μενού
     .aria-label = Άνοιγμα μενού
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Αφαίρεση
     .aria-label = Αφαίρεση
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,16 +161,19 @@ newtab-label-removed-bookmark = Ο σελιδοδείκτης αφαιρέθηκ
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
 newtab-label-download = Λήψεις
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Χορηγία
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Χορηγία από { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } λεπ.
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -212,7 +208,6 @@ newtab-section-header-pocket = Προτάσεις του { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ξεκινήστε την περιήγηση και θα σας δείξουμε μερικά υπέροχα άρθρα, βίντεο και άλλες σελίδες που έχετε επισκεφθεί πρόσφατα ή έχετε προσθέσει στους σελιδοδείκτες σας.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
