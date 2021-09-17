@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = תכונה מומלצת
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
-
 cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
-
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
-
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
     .accesskey = ג
-
 cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
     .accesskey = ל
-
 cfr-doorhanger-extension-learn-more-link = מידע נוסף
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = מאת { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = המלצה
 cfr-doorhanger-extension-notification2 = המלצה
     .tooltiptext = המלצה על הרחבה
     .a11y-announcement = זמינה המלצה על הרחבה
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = המלצה
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } משתמשים
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
@@ -86,31 +76,10 @@ cfr-protections-panel-link-text = מידע נוסף
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = תכונה חדשה:
-
 cfr-whatsnew-button =
     .label = מה חדש
     .tooltiptext = מה חדש
-
 cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -124,20 +93,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = צפייה בהכל
     .accesskey = צ
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = סגירה
     .accesskey = ס
 
@@ -171,5 +126,7 @@ cfr-doorhanger-video-support-primary-button = עדכון כעת
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = נראה שהתחברת לרשת אלחוטית ציבורית
+spotlight-public-wifi-vpn-body = כדי להסתיר את המיקום ואת פעילות הגלישה שלך, כדאי לשקול להשתמש ברשת וירטואלית פרטית (VPN). היא תסייע לך להתגונן בזמן גלישה במקומות ציבוריים כמו נמלי תעופה ובתי קפה.
 spotlight-public-wifi-vpn-link = לא כעת
     .accesskey = ל
