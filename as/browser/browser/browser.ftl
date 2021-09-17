@@ -768,6 +768,8 @@ navbar-library =
     .tooltiptext = ইতিহাস, সাঁচি থোৱা বুকমাৰ্ক আৰু বহুতো চাওক
 navbar-search =
     .title = সন্ধান কৰক
+navbar-accessibility-indicator =
+    .tooltiptext = সহজলভ্যতাৰ সুবিধাসমূহ সক্ৰিয় কৰা আছে
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string

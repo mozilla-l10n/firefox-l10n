@@ -20,6 +20,8 @@ appmenuitem-new-private-window =
     .label = নতুন ব্যক্তিগত উইণ্ড'
 appmenuitem-history =
     .label = ইতিহাস
+appmenuitem-downloads =
+    .label = ডাউনল'ডসমূহ
 appmenuitem-passwords =
     .label = পাছৱৰ্ড
 appmenuitem-addons-and-themes =
@@ -84,6 +86,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = আপোনাৰ আনবোৰ ডিভাইচৰ টেবৰ তালিকা এখন চাওক।
 appmenu-remote-tabs-unverified = আপোনাৰ একাউণ্টটো প্ৰমাণিত কৰাৰ প্ৰয়োজন আছে।
 appmenuitem-fxa-toolbar-sync-now2 = এতিয়াই ছিংক কৰক
+appmenuitem-fxa-sign-in = { -brand-product-name }-ত ছাইন ইন কৰক
 appmenuitem-fxa-manage-account = একাউণ্ট পৰিচালনা কৰক
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
