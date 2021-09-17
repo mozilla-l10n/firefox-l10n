@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Ενεργοποιεί την υ
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = Ενεργοποιεί την υποστήριξη για CSS Cascade Layers. Δείτε τις <a data-l10n-name="spec">προδιαγραφές (σε εξέλιξη)</a> για λεπτομέρειες. Για ζητήματα που σχετίζονται με αυτήν τη λειτουργία, αναφέρετε σφάλματα που να αποκλείουν το <a data-l10n-name="bugzilla">σφάλμα 1699215</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
