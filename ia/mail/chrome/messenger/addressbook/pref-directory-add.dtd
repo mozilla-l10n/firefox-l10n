@@ -31,7 +31,7 @@
 <!ENTITY return.accesskey                  "v">
 <!ENTITY results.label                     "resultatos">
 <!ENTITY offlineText.label                 "Tu pote discargar un copia local de iste directorio pro poter usar lo quando tu labora foras de linea.">
-<!ENTITY saslMechanism.label               "Methodo de accesso: ">
+<!ENTITY saslMechanism.label               "Methodo de apertura de session: ">
 <!ENTITY saslMechanism.accesskey           "a">
 <!ENTITY saslOff.label                     "Simple">
 <!ENTITY saslOff.accesskey                 "l">

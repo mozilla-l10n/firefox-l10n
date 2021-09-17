@@ -208,7 +208,7 @@ insecure-dialog-confirm-button = Confirmar
 # Variables:
 #  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
 exchange-dialog-question = { -brand-short-name } ha trovate informationes de installation de tu conto sur { $domain }. Vole tu continuar e inviar tu credentiales?
-exchange-dialog-confirm-button = Authentication
+exchange-dialog-confirm-button = Aperir session
 exchange-dialog-cancel-button = Cancellar
 
 ## Dismiss account creation dialog
