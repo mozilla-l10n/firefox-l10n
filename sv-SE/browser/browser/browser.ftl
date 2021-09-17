@@ -774,5 +774,5 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Ny flik
 tabs-toolbar-list-all-tabs =
-    .label = Visa upp alla flikar
-    .tooltiptext = Visa upp alla flikar
+    .label = Lista alla flikar
+    .tooltiptext = Lista alla flikar
