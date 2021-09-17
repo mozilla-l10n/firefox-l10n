@@ -661,12 +661,12 @@ toolbar-overflow-customize-button =
     .accesskey = n
 toolbar-button-email-link =
     .label = E-posta länk
-    .tooltiptext = Maila en länk till denna sidan
+    .tooltiptext = Mejla en länk till denna sidan
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Spara sida
-    .tooltiptext = Spara den här sidan… ({ $shortcut })
+    .tooltiptext = Spara denna sida ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -752,7 +752,7 @@ navbar-overflow =
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Skriv ut
-    .tooltiptext = Skriv ut sidan… ({ $shortcut })
+    .tooltiptext = Skriv ut denna sida… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Skriv ut
     .tooltiptext = Skriv ut denna sida
