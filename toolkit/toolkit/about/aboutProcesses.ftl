@@ -16,6 +16,16 @@ about-processes-shutdown-process =
 about-processes-shutdown-tab =
     .title = Chiudi scheda
 
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title = { $duration ->
+   [one] Crea un profilo di tutti i thread di questo processo per { $duration } secondo
+  *[other] Crea un profilo di tutti i thread di questo processo per { $duration } secondi
+}
+
 ## Column headers
 
 about-processes-column-name = Nome
