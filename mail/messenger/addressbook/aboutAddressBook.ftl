@@ -16,6 +16,8 @@ about-addressbook-toolbar-new-contact =
     .label = Νέα επαφή
 about-addressbook-toolbar-new-list =
     .label = Νέα λίστα
+about-addressbook-toolbar-import =
+    .label = Εισαγωγή
 
 ## Books
 
@@ -26,10 +28,14 @@ about-addressbook-books-context-synchronize =
     .label = Συγχρονισμός
 about-addressbook-books-context-print =
     .label = Εκτύπωση…
+about-addressbook-books-context-export =
+    .label = Εξαγωγή…
 about-addressbook-books-context-delete =
     .label = Διαγραφή
 about-addressbook-books-context-remove =
     .label = Αφαίρεση
+about-addressbook-books-context-startup-default =
+    .label = Προεπιλεγμένος κατάλογος εκκίνησης
 about-addressbook-confirm-delete-book-title = Διαγραφή ευρετηρίου
 # Variables:
 # $name (String) - Name of the address book to be deleted.
