@@ -567,7 +567,7 @@ key-expired = Clave '{ $key }' expirate
 msg-compose-internal-error = Error interne.
 keys-to-export = Eliger claves OpenPGP a inserer
 msg-compose-partially-encrypted-inlinePGP =
-    Le message al qual tu responde contineva partes cryptate e non cryptate. Si le expeditor non poteva originalmente decifrar alcun partes del message, es possibile que tu es sur le puncto de revelar informationes confidential que le expeditor non poteva originalmente decifrar ille mesme.
+    Le message al qual tu responde contine partes cryptate e non cryptate. Si le expeditor non poteva originalmente decryptar certe partes del message, es possibile que tu es sur le puncto de divulgar informationes confidential que le expeditor non poteva originalmente decryptar ille mesme.
     Per favor, considera remover tote le texto citate de tu responsa a iste expeditor.
 msg-compose-cannot-save-draft = Error salvante le minuta
 msg-compose-partially-encrypted-short = Presta attention al revelation de datos sensibile - email partialmente cryptate.
@@ -605,7 +605,7 @@ do-import-multiple =
     { $key }
 do-import-one = Importar { $name } ({ $id })?
 cant-import = Error al importation del clave public
-unverified-reply = Le parte del message indentate (replica) ha essite probabilemente modificate
+unverified-reply = Le parte indentate del message (responsa) ha probabilemente essite modificate
 key-in-message-body = Un clave ha essite trovate in le corpore del message.
 sig-mismatch = Error - discordantia firma
 invalid-email = Error - adresse(s) email  invalide
