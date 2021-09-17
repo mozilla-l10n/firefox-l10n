@@ -34,9 +34,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = גודל חוצץ:
-
 perftools-custom-threads-label = הוספת תהליכונים מותאמים אישית לפי שם:
-
 perftools-devtools-threads-label = תהליכונים
 perftools-devtools-settings-label = הגדרות
 
@@ -70,6 +68,8 @@ perftools-thread-gecko-main =
     .title = התהליכים הראשיים עבור תהליך האב ועבור תהליכי התוכן
 perftools-thread-render-backend =
     .title = תהליכון ה־WebRender RenderBackend
+perftools-thread-dns-resolver =
+    .title = פתרון כתובות מול ה־DNS מתרחש בתהליכון הזה
 
 ##
 
@@ -79,7 +79,5 @@ perftools-thread-render-backend =
 ## preferences are true.
 
 perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משולב כעת בכלי הפיתוח. <a>מידע נוסף</a> על הכלי החדש והעוצמתי הזה.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (לזמן מוגבל, ניתן לגשת לחלונית הביצועים המקורית דרך <a>{ options-context-advanced-settings }</a>)
-
