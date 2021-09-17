@@ -40,12 +40,12 @@
 <p>&brandShortName; non pote cargar iste pagina pro alcun ration.</p>
 ">
 
-<!ENTITY captivePortal.title "Authenticar se al rete">
+<!ENTITY captivePortal.title "Aperir session in le rete">
 <!ENTITY captivePortal.longDesc2 "
-<p>Tu debe authenticar te a iste rete ante que tu pote acceder a Internet.</p>
+<p>Tu debe aperir session in iste rete ante que tu pote acceder a internet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label2 "Aperir le pagina de authentication al rete">
+<!ENTITY openPortalLoginPage.label2 "Aperir le pagina de apertura de session del rete">
 
 <!ENTITY malformedURI.pageTitle "URL invalide">
 

@@ -4,131 +4,94 @@
 
 certmgr-title =
     .title = Gestor de certificatos
-
 certmgr-tab-mine =
     .label = Tu certificatos
-
 certmgr-tab-remembered =
     .label = Decisiones de authentication
-
 certmgr-tab-people =
     .label = Personas
-
 certmgr-tab-servers =
     .label = Servitores
-
 certmgr-tab-ca =
     .label = Autoritates
-
 certmgr-mine = Tu ha certificatos ex iste organisationes que identifica te
 certmgr-remembered = Iste certificatos es usate pro identificar te al sitos web
 certmgr-people = Tu ha certificatos sur le file que identifica iste personas
 certmgr-server = Iste entratas identifica exceptiones de error del certificato de servitor
 certmgr-ca = Tu ha certificatos sur le file que identifica iste autoritates
-
 certmgr-edit-ca-cert =
     .title = Modificar le parametros de confidentia del CA
     .style = width: 48em;
-
 certmgr-edit-cert-edit-trust = Modificar le parametros de confidentialitate:
-
 certmgr-edit-cert-trust-ssl =
     .label = Iste certificato pote identificar sitos web.
-
 certmgr-edit-cert-trust-email =
     .label = Iste certificato pote identificar usatores de email.
-
 certmgr-delete-cert =
     .title = Deler le certificato
     .style = width: 48em; height: 24em;
-
 certmgr-cert-host =
     .label = Hoste
-
 certmgr-cert-name =
     .label = Nomine del certificato
-
 certmgr-cert-server =
     .label = Servitor
-
 certmgr-override-lifetime =
     .label = Duration del vita
-
 certmgr-token-name =
     .label = Dispositivo de securitate
-
 certmgr-begins-label =
     .label = Initia in
-
 certmgr-expires-label =
     .label = Expira le
-
 certmgr-email =
     .label = Adresse de e-mail
-
 certmgr-serial =
     .label = Numero serial
-
 certmgr-view =
     .label = Vider…
     .accesskey = V
-
 certmgr-edit =
     .label = Modificar le confidentia…
     .accesskey = M
-
 certmgr-export =
     .label = Exportar…
     .accesskey = E
-
 certmgr-delete =
     .label = Deler…
     .accesskey = D
-
 certmgr-delete-builtin =
     .label = Deler o non confider plus…
     .accesskey = D
-
 certmgr-backup =
     .label = Salveguardar…
     .accesskey = S
-
 certmgr-backup-all =
     .label = Salveguardar toto…
     .accesskey = t
-
 certmgr-restore =
     .label = Importar…
     .accesskey = I
-
 certmgr-add-exception =
     .label = Adder un exception…
     .accesskey = x
-
 exception-mgr =
     .title = Adder un exception de securitate
-
 exception-mgr-extra-button =
     .label = Confirmar le exception de securitate
     .accesskey = C
-
 exception-mgr-supplemental-warning = Bancas, botecas e altere sitos public legitime non te demandara pro facer isto.
-
 exception-mgr-cert-location-url =
     .value = Adresse:
-
 exception-mgr-cert-location-download =
     .label = Obtener le certificato
     .accesskey = O
-
 exception-mgr-cert-status-view-cert =
     .label = Vider…
     .accesskey = V
-
 exception-mgr-permanent =
     .label = Conservar permanentemente iste exception
     .accesskey = C
-
 pk11-bad-password = Le contrasigno inserite esseva incorrecte.
 pkcs12-decode-err = Falta a decodificar le file.  Pote esser que illo non es in le formato PKCS #12, o que illo ha essite corrumpite, o que le contrasigno que tu ha inserite es incorrecte.
 pkcs12-unknown-err-restore = Falta a restaurar le file PKCS #12 pro rationes incognite.
@@ -161,39 +124,28 @@ delete-user-cert-title =
     .title = Deler tu certificatos
 delete-user-cert-confirm = Desira tu vermente deler iste certificatos?
 delete-user-cert-impact = Si tu dele un de tu proprie certificatos, tu non potera plus usar lo pro identificar te.
-
-
 delete-ssl-override-title =
     .title = Deler le exception del certificato de servitor
 delete-ssl-override-confirm = Desira tu vermente deler iste exception de servitor?
 delete-ssl-override-impact = Si tu dele un exception del servitor, su restaura le verificationes de securitate usual pro ille servitor e require que illo usa un certificato valide.
-
 delete-ca-cert-title =
     .title = Deler o non plus confider a certificatos de CA
 delete-ca-cert-confirm = Tu ha requestate de deler iste certificatos del CA. Pro le certificatos integrate, tote le confidentias essera removite, le qual ha le mesme effecto. Desira tu vermente deler o non plus confider?
 delete-ca-cert-impact = SI tu dele o non plus confide un certificato de un autoritate de certification (CA), iste application non plus confidera qualcunque certificatos emittite per ille CA.
-
-
 delete-email-cert-title =
     .title = Deler certificatos de email
 delete-email-cert-confirm = Desira tu vermente deler le certificatos de email de iste personas?
 delete-email-cert-impact = Si tu dele le certificato de e-mail de un persona, tu non potera plus inviar messages cryptate a ille persona.
-
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certificato con numero de serie: { $serialNumber }
-
-## Cert Viewer
-
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
-send-no-client-certificate = Non inviar alcun certificato cliente
-
+send-no-client-certificate = Non inviar certificato de cliente
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Non salvate)
-
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
 certificate-not-available = (Indisponibile)
 
