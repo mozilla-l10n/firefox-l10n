@@ -5,7 +5,6 @@
 printui-title = প্ৰিণ্ট কৰক
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = এইৰূপে সাঁচি থওক
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,7 +12,6 @@ printui-sheets-count =
         [one] কাগজৰ { $sheetCount }খন পাত
        *[other] কাগজৰ { $sheetCount }খন পাত
     }
-
 printui-page-range-all = সকলো
 printui-page-range-custom = নিজৰ হিচাপে
 printui-page-range-label = পৃষ্ঠা
@@ -22,29 +20,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = নিজৰ হিচাপে পৃষ্ঠাৰ পৰিসৰ লিখক
     .placeholder = যেনে– 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = কপি
-
 printui-orientation = অৰিয়েণ্টেশ্যন
 printui-landscape = লেণ্ডস্কে'প
 printui-portrait = পৰ্ট্ৰেইট
-
 # Section title for the printer or destination device to target
 printui-destination-label = গন্তব্যস্থান
 printui-destination-pdf-label = PDFত সাঁচি থওক
-
 printui-more-settings = অধিক ছেটিংছ
 printui-less-settings = কম ছেটিংছ
-
 printui-paper-size-label = কাগজৰ আকাৰ
-
 # Section title (noun) for the print scaling options
 printui-scale = স্কেল
 printui-scale-fit-to-page-width = পৃষ্ঠাৰ প্ৰস্থত খাপ খাওক
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = স্কেল
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = দুপিঠিত ছপোৱা
 printui-two-sided-printing-off = বন্ধ
@@ -52,7 +43,6 @@ printui-two-sided-printing-off = বন্ধ
 printui-two-sided-printing-long-edge = দীঘল দাঁতিত লুটিয়াওক
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = চুটি দাঁতিত লুটিয়াওক
-
 # Section title for miscellaneous print options
 printui-options = বিকল্পসমূহ
 printui-headers-footers-checkbox = শিৰোশাৰী আৰু পাদশাৰী প্ৰিণ্ট কৰক
@@ -76,7 +66,6 @@ printui-simplify-page-radio = সৰলীকৃত
 printui-color-mode-label = ৰং ম'ড
 printui-color-mode-color = ৰং
 printui-color-mode-bw = বগা আৰু ক'লা
-
 printui-margins = প্ৰান্তৰেখা
 printui-margins-default = ডিফ'ল্ট
 printui-margins-min = সৰ্বনিম্ন
@@ -95,21 +84,16 @@ printui-margins-custom-left-mm = বাঁওফালে (মিঃমিঃ)
 printui-margins-custom-right = সোঁফালে
 printui-margins-custom-right-inches = সোঁফালে (ইঞ্চি)
 printui-margins-custom-right-mm = সোঁফালে (মিঃমিঃ)
-
 printui-system-dialog-link = ছিষ্টেমৰ সংলাপ ব্যৱহাৰ কৰি প্ৰিণ্ট কৰক…
-
 printui-primary-button = প্ৰিণ্ট কৰক
 printui-primary-button-save = সাঁচি থওক
 printui-cancel-button = বাতিল কৰক
 printui-close-button = বন্ধ কৰক
-
 printui-loading = পূৰ্বদৰ্শন তৈয়াৰ হৈ আছে
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = প্ৰিণ্ট পূৰ্বদৰ্শন
-
 printui-print-progress-indicator-saving = সাঁচি থকা হৈছে…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
@@ -133,7 +117,6 @@ printui-paper-tabloid = টেবলৈড
 printui-error-invalid-scale = স্কেল 10 আৰু 200ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
 printui-error-invalid-margin = অনুগ্ৰহ কৰি বাছনি কৰা কাগজৰ আকাৰৰ বাবে এটা বৈধ সীমা লিখক।
 printui-error-invalid-copies = কপি 1 আৰু 10000ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = পৰিসৰ 1 আৰু { $numPages }ৰ মাজৰে এটা সংখ্যা হ'ব লাগিব।
