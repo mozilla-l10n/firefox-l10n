@@ -9,7 +9,10 @@
 <!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Új lap aktiválása a hivatkozások megnyitásakor">
 <!ENTITY background.accesskey "h">
+<!ENTITY diverted.label "Új lap aktiválása az eltérített hivatkozások megnyitásakor">
+<!ENTITY diverted.accesskey "a">
 <!ENTITY browserFocus.label "A böngészőablak fókuszáljon a más alkalmazásokból megnyitott hivatkozások lapjára">
+<!ENTITY browserFocus.accesskey "f">
 <!ENTITY warnOnClose.label "Figyelmeztetés több lap bezárása előtt">
 <!ENTITY warnOnClose.accesskey "t">
 <!ENTITY relatedAfterCurrent.label "Kapcsolodó lapok megnyitása az aktuális lap után">

@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Lapok visszaállítása igény esetén">
 <!ENTITY restoreDeferred.accesskey      "i">
 
+<!ENTITY siteIcons.label                "Webhely ikonok">
+<!ENTITY useSiteIcons.label             "Webhely ikonok megjelenítése">
+<!ENTITY useSiteIcons.accesskey         "W">
+<!ENTITY useFavIcons.label              "Próbálja a kiszolgáló faviconját használni, ha a lap nem határoz meg ikont">
+<!ENTITY useFavIcons.accesskey          "P">
+
 <!ENTITY homePageIntro.label            "A 'Kezdőlap' gombra kattintva ez az oldal töltődik be.">
 <!ENTITY useCurrent.label               "Aktuális oldal használata">
 <!ENTITY useCurrent.accesskey           "A">

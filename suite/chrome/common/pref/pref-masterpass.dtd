@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "Ha törli a mesterjelszót, minden tárolt webes és e-mail jelszó, űrlapadat, valamint a személyes tanúsítványok és a személyes kulcsok elvesznek.">
 <!ENTITY  resetpassword.button                   "Jelszó törlése">
 <!ENTITY  resetpassword.accesskey                "t">
+<!ENTITY  resetpassword2.button                  "Jelszó visszaállítása">
+<!ENTITY  resetpassword2.accesskey               "v">
