@@ -11,7 +11,7 @@ experimental-features-css-masonry-description = Aktiverar stöd för den experim
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Aktiverar stöd för CSS Cascade Layers. Se <a data-l10n-name="spec"> pågående specifikation </a> för mer information. Skapa buggar som blockerar <a data-l10n-name="bugzilla"> bug 1699215 </a> för buggar relaterade till den här funktionen.
+experimental-features-css-cascade-layers-description = Aktiverar stöd för CSS Cascade Layers. Se <a data-l10n-name="spec">pågående specifikation</a> för mer information. Skapa buggar som blockerar <a data-l10n-name="bugzilla">bug 1699215</a> för buggar relaterade till den här funktionen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
