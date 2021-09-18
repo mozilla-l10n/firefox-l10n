@@ -9,8 +9,8 @@ printui-save-to-pdf-title = এইৰূপে সাঁচি থওক
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
     { $sheetCount ->
-        [one] কাগজৰ { $sheetCount }খন পাত
-       *[other] কাগজৰ { $sheetCount }খন পাত
+        [one] কাগজৰ { $sheetCount }খন শ্বীট
+       *[other] কাগজৰ { $sheetCount }খন শ্বীট
     }
 printui-page-range-all = সকলো
 printui-page-range-custom = নিজৰ হিচাপে
@@ -33,11 +33,11 @@ printui-less-settings = কম ছেটিংছ
 printui-paper-size-label = কাগজৰ আকাৰ
 # Section title (noun) for the print scaling options
 printui-scale = স্কেল
-printui-scale-fit-to-page-width = পৃষ্ঠাৰ প্ৰস্থত খাপ খাওক
+printui-scale-fit-to-page-width = পৃষ্ঠাৰ প্ৰস্থৰ সৈতে খাপ খুৱাওক
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = স্কেল
 # Section title (noun) for the two-sided print options
-printui-two-sided-printing = দুপিঠিত ছপোৱা
+printui-two-sided-printing = দুপিঠিত প্ৰিণ্ট কৰা
 printui-two-sided-printing-off = বন্ধ
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = দীঘল দাঁতিত লুটিয়াওক
@@ -66,16 +66,16 @@ printui-simplify-page-radio = সৰলীকৃত
 printui-color-mode-label = ৰং ম'ড
 printui-color-mode-color = ৰং
 printui-color-mode-bw = বগা আৰু ক'লা
-printui-margins = প্ৰান্তৰেখা
+printui-margins = সীমা
 printui-margins-default = ডিফ'ল্ট
 printui-margins-min = সৰ্বনিম্ন
 printui-margins-none = একো নাই
 printui-margins-custom-inches = নিজৰ হিচাপে (ইঞ্চি)
 printui-margins-custom-mm = নিজৰ হিচাপে (মিঃমিঃ)
-printui-margins-custom-top = ওপৰত
+printui-margins-custom-top = ওপৰফালে
 printui-margins-custom-top-inches = ওপৰফালে (ইঞ্চি)
 printui-margins-custom-top-mm = ওপৰফালে (মিঃমিঃ)
-printui-margins-custom-bottom = তলত
+printui-margins-custom-bottom = তলফালে
 printui-margins-custom-bottom-inches = তলফালে (ইঞ্চি)
 printui-margins-custom-bottom-mm = তলফালে (মিঃমিঃ)
 printui-margins-custom-left = বাওঁফালে
@@ -94,6 +94,10 @@ printui-loading = পূৰ্বদৰ্শন তৈয়াৰ হৈ আছ�
 # the print preview has focus.
 printui-preview-label =
     .aria-label = প্ৰিণ্ট পূৰ্বদৰ্শন
+printui-pages-per-sheet = পৃষ্ঠা প্ৰতি শ্বীট
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = প্ৰিণ্ট হৈ আছে…
 printui-print-progress-indicator-saving = সাঁচি থকা হৈছে…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
@@ -110,7 +114,7 @@ printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
 printui-paper-letter = US চিঠি
 printui-paper-legal = US আইনী
-printui-paper-tabloid = টেবলৈড
+printui-paper-tabloid = টেব্লইড
 
 ## Error messages shown when a user has an invalid input
 
