@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name }i uuenduse allalaadimine
+    .label-update-available = Uuendus on saadaval — laadi kohe alla
+    .label-update-manual = Uuendus on saadaval — laadi kohe alla
+    .label-update-unsupported = Uuendamine pole võimalik — süsteem pole ühilduv
+    .label-update-restart = Uuendus on saadaval — taaskäivita kohe
 appmenuitem-protection-dashboard-title = Kaitsete koondpaneel
 appmenuitem-new-tab =
     .label = Uus kaart
