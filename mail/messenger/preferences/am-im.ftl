@@ -4,5 +4,8 @@
 
 account-settings-title = Nastavitve overjanja
 account-channel-title = Privzeti kanali
+chat-encryption-generic = Splošno
+chat-encryption-log =
+    .label = Vključi od konca do konca šifrirana sporočila v dnevnike pogovorov
 chat-encryption-status = Stanje šifriranja
 chat-encryption-sessions = Seje
