@@ -21,13 +21,15 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "การนำทาง">
-
 <!ENTITY fullScreenCmd.label "เต็มหน้าจอ">
 
 <!ENTITY pictureInPictureHideToggle.label "ซ่อนสลับภาพที่เล่นควบคู่">
 <!ENTITY pictureInPictureHideToggle.accesskey "อ">
 
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -42,6 +44,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "หน้าแรก">
 <!ENTITY homeButton.defaultPage.tooltip "หน้าแรกของ &brandShortName;">
+
+<!-- Toolbar items -->
 
 <!ENTITY historyButton.label            "ประวัติ">
 
@@ -138,11 +142,10 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
 
-
 <!ENTITY uiTour.infoPanel.close "ปิด">
 
 <!ENTITY panicButton.thankyou.msg1                "ล้างประวัติล่าสุดของคุณแล้ว">
-<!ENTITY panicButton.thankyou.msg2                "การท่องเว็บปลอดภัย!">
+<!ENTITY panicButton.thankyou.msg2                "การเรียกดูปลอดภัย!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณ!">
 
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">

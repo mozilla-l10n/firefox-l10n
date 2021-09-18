@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "การอัดบันทึกประวัติไม่พร้อมใช้งานในขณะนี้ โปรดปิดหน้าต่างการท่องเว็บแบบส่วนตัวทั้งหมดแล้วลองอีกครั้ง">
+<!ENTITY performanceUI.unavailableNoticePB "การอัดบันทึกประวัติไม่พร้อมใช้งานในขณะนี้ โปรดปิดหน้าต่างการเรียกดูแบบส่วนตัวทั้งหมดแล้วลองอีกครั้ง">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
