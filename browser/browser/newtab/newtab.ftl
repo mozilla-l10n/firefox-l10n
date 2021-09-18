@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Haku
     .aria-label = Haku
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Kirjoita osoite tai hakusana
     .title = Kirjoita osoite tai hakusana
     .aria-label = Kirjoita osoite tai hakusana
-
 newtab-search-box-search-the-web-input =
     .placeholder = Verkkohaku
     .title = Verkkohaku
     .aria-label = Verkkohaku
-
 newtab-search-box-text = Verkkohaku
 newtab-search-box-input =
     .placeholder = Verkkohaku
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
-
 newtab-topsites-url-label = Osoite
 newtab-topsites-url-input =
     .placeholder = Kirjoita tai liitä osoite
 newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
-
 newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = Sponsoroitu
 newtab-menu-section-tooltip =
     .title = Avaa valikko
     .aria-label = Avaa valikko
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Poista
     .aria-label = Poista
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,16 +161,19 @@ newtab-label-removed-bookmark = Kirjanmerkki poistettu
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
 newtab-label-download = Ladatut
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsoroitu
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsorina { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -212,7 +208,6 @@ newtab-section-header-pocket = Suositukset lähteestä { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä juttuja, videoita ja muita sivuja, joilla olet käynyt hiljattain tai jotka olet lisännyt kirjanmerkkeihin.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
