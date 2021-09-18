@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Frigjer fane
 about-unloads-column-priority = Prioritet
 about-unloads-column-host = Vert
 about-unloads-column-memory = Minne
