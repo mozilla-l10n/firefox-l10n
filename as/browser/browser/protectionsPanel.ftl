@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = প্ৰতিবেদন পঠিয়াওঁতে ত্ৰুটি ঘটিছে। অনুগ্ৰহ কৰি পিছত পুনৰ চেষ্টা কৰিব।
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = ছাইট ঠিক হ'লনে? প্ৰতিবেদন পঠিয়াওক
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = মানক
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = বৰ্ধিত ট্ৰেকিং সুৰক্ষাৰ বিষয়ে অধিক তথ্য
-
 protections-panel-etp-on-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা চালু আছে
 protections-panel-etp-off-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা বন্ধ আছে
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ছাইট কাম কৰি থকা নাইনে?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = ছাইট কাম কৰি থকা নাইনে?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = সুৰক্ষা ব�
 ##
 
 protections-panel-no-trackers-found = এই পৃষ্ঠাত { -brand-short-name }-এ চিনি পোৱা কোনো ট্ৰেকাৰ ধৰা পৰা নাই।
-
 protections-panel-content-blocking-tracking-protection = ট্ৰেকিং সমল
-
 protections-panel-content-blocking-socialblock = ছ'চিয়েল মিডিয়া ট্ৰেকাৰ
 protections-panel-content-blocking-cryptominers-label = ক্ৰীপ্ট'মাইনাৰ
 protections-panel-content-blocking-fingerprinters-label = ফিংগাৰপ্ৰিণ্টাৰ
@@ -63,7 +57,6 @@ protections-panel-not-found-label = একো ধৰা পৰা নাই
 ##
 
 protections-panel-settings-label = সুৰক্ষা ছেটিংছ
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = সুৰক্ষা ডেশ্বব'ৰ্ড
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -71,25 +64,26 @@ protections-panel-protectionsdashboard-label = সুৰক্ষা ডেশ�
 
 # The header of the list
 protections-panel-site-not-working-view-header = যদি আপুনি এইবোৰত সমস্যা পাই আছে তেনেহ'লে সুৰক্ষা বন্ধ কৰক:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = লগিন ক্ষেত্ৰ
 protections-panel-site-not-working-view-issue-list-forms = প্ৰ-পত্ৰ
 protections-panel-site-not-working-view-issue-list-payments = পৰিশোধ
 protections-panel-site-not-working-view-issue-list-comments = মন্তব্য
 protections-panel-site-not-working-view-issue-list-videos = ভিডিঅ'
-
 protections-panel-site-not-working-view-send-report = প্ৰতিবেদন পঠিয়াওক
 
 ##
 
 protections-panel-social-media-trackers = আপুনি অনলাইন কি কৰে আৰু চায় সেয়া অনুসৰণ কৰিবলৈ ছ'চিয়েল নেটৱৰ্কসমূহে অন্য ৱেবছাইটত ট্ৰেকাৰ লগায়। ই ছ'চিয়েল মিডিয়া কোম্পানীসমূহক আপুনি আপোনাৰ ছ'চিয়েল মিডিয়া প্ৰ'ফাইলত ভাগ-বতৰা কৰাখিনিৰ উপৰিও আপোনাৰ বিষয়ে অধিক জানিবলৈ দিয়ে।
-
 protections-panel-description-shim-allowed-learn-more = অধিক জানক
-
+protections-panel-content-blocking-breakage-report-view =
+    .title = নষ্ট ছাইটৰ প্ৰতিবেদন দিয়ক
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = বৈকল্পিক: সমস্যাটোৰ বিৱৰণ দিয়ক
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = বৈকল্পিক: সমস্যাটোৰ বিৱৰণ দিয়ক
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = বাতিল কৰক
 protections-panel-content-blocking-breakage-report-view-send-report =
