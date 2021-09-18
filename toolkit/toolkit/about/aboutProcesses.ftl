@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = ตัวจัดการกระบวนการ
-
 # The Actions column
 about-processes-column-action =
     .title = การกระทำ
@@ -25,12 +24,6 @@ about-processes-column-cpu-total = CPU
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name }{ $pid }
 about-processes-web-process = กระบวนการเว็บที่ใช้ร่วมกัน ({ $pid })
@@ -47,7 +40,6 @@ about-processes-socket-process = เครือข่าย ({ $pid })
 about-processes-remote-sandbox-broker-process = ตัวกลาง Sandbox ระยะไกล ({ $pid })
 about-processes-fork-server-process = ฟอร์คเซิร์ฟเวอร์ ({ $pid })
 about-processes-preallocated-process = จัดสรรล่วงหน้า ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -64,6 +56,7 @@ about-processes-web-large-allocation-process = { $origin } ({ $pid }, ขนา�
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, ถูกแยก cross-origin)
 about-processes-web-isolated-process-private = { $origin } — ส่วนตัว ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — ส่วนตัว ({ $pid }, ขนาดใหญ่)
+about-processes-with-coop-coep-process-private = { $origin } — ส่วนตัว ({ $pid }, ถูกแยก cross-origin)
 
 ## Details within processes
 
@@ -81,7 +74,6 @@ about-processes-active-threads =
     { $active ->
        *[other] { $active } เธรดที่ใช้งานอยู่จาก { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -92,25 +84,21 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } เธรดที่ไม่ได้ใช้งาน
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = เธรด id: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = แท็บ: { $name }
 about-processes-preloaded-tab = แท็บใหม่ที่โหลดไว้ล่วงหน้า
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = เฟรมย่อย: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -129,10 +117,8 @@ about-processes-frame-name-many = เฟรมย่อย ({ $number }): { $sho
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = เวลาของ CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (กำลังวัด)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = ไม่ได้ใช้งาน
     .title = เวลาที่ใช้งาน CPU ทั้งหมด: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
@@ -148,6 +134,9 @@ about-processes-cpu-idle = ไม่ได้ใช้งาน
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
+    .title = วิวัฒนาการ: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
