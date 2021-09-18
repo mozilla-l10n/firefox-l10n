@@ -89,6 +89,13 @@ tab-context-close-tabs =
            *[other] ปิดแท็บ
         }
     .accesskey = ป
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ปิดแท็บ
+           *[other] ปิด { $tabCount } แท็บ
+        }
+    .accesskey = ป
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -96,7 +103,6 @@ tab-context-move-tabs =
            *[other] ย้ายแท็บ
         }
     .accesskey = ย
-
 tab-context-send-tabs-to-device =
     .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
     .accesskey = ส
