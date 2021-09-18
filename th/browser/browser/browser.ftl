@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = จัดการการใช้ปลั๊กอิน
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = จัดการการแบ่งปันลำโพงอื่น ๆ กับไซต์
 urlbar-autoplay-notification-anchor =
     .tooltiptext = เปิดแผงการเล่นอัตโนมัติ
 urlbar-persistent-storage-notification-anchor =
@@ -505,6 +509,16 @@ urlbar-result-action-search-tabs = ค้นหาแท็บ
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } ข้อเสนอแนะ
 
 ## Full Screen and Pointer Lock UI
 
@@ -525,6 +539,10 @@ pointerlock-warning-no-domain = เอกสารชิ้นนี้ได้
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>เนื้อหาบางส่วนของหน้านี้ขัดข้อง</strong> หากต้องการแจ้งให้ { -brand-product-name } ทราบเกี่ยวกับปัญหานี้เพื่อให้ได้รับการแก้ไขเร็วขึ้น โปรดส่งรายงาน
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = เนื้อหาบางส่วนของหน้านี้ขัดข้อง หากต้องการแจ้งให้ { -brand-product-name } ทราบเกี่ยวกับปัญหานี้เพื่อให้ได้รับการแก้ไขเร็วขึ้น โปรดส่งรายงาน
 crashed-subframe-learnmore-link =
     .value = เรียนรู้เพิ่มเติม
 crashed-subframe-submit =
@@ -708,6 +726,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ไม่แสดงข้อความนี้เมื่อป๊อปอัปถูกปิดกั้น
     .accesskey = ข
+edit-popup-settings =
+    .label = จัดการการตั้งค่าป๊อปอัป…
+    .accesskey = จ
 picture-in-picture-hide-toggle =
     .label = ซ่อนสลับภาพที่เล่นควบคู่
     .accesskey = อ
