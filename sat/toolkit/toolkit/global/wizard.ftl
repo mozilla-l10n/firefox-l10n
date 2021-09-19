@@ -3,35 +3,32 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = तायोम सेत् चालाव
-    .accesskey = B
+    .label = ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱣ
+    .accesskey = ᱛ
 wizard-linux-button-back =
-    .label = तायोम सेत्
-    .accesskey = B
+    .label = ᱛᱟᱭᱚᱢ ᱥᱮᱫ
+    .accesskey = ᱛ
 wizard-win-button-back =
-    .label = < तायोम सेत्
-    .accesskey = B
-
+    .label = < ᱛᱟᱭᱚᱢ ᱥᱮᱫ
+    .accesskey = ᱛ
 wizard-macos-button-next =
-    .label = लेताड़
-    .accesskey = C
+    .label = ᱞᱮᱛᱟᱲ
+    .accesskey = ᱞ
 wizard-linux-button-next =
-    .label = इना़ तायनोम
-    .accesskey = N
+    .label = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ
+    .accesskey = ᱤ
 wizard-win-button-next =
-    .label = इना़ तायोम >
-    .accesskey = N
-
+    .label = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ >
+    .accesskey = ᱤ
 wizard-macos-button-finish =
-    .label = का़मी येना
+    .label = ᱠᱟᱹᱢᱤ ᱮᱱᱟ
 wizard-linux-button-finish =
-    .label = चाबा
+    .label = ᱪᱟᱵᱟ
 wizard-win-button-finish =
-    .label = चाबा
-
+    .label = ᱪᱟᱵᱟ
 wizard-macos-button-cancel =
-    .label = बा़डरा़
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
 wizard-linux-button-cancel =
-    .label = बा़डरा़
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
 wizard-win-button-cancel =
-    .label = बा़डरा़
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
