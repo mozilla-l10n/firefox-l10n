@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Hľadať
     .aria-label = Hľadať
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Vyhľadávajte cez { $engine } alebo zadajte webovú adresu
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Zadajte adresu alebo výraz vyhľadávania
     .title = Zadajte adresu alebo výraz vyhľadávania
     .aria-label = Zadajte adresu alebo výraz vyhľadávania
-
 newtab-search-box-search-the-web-input =
     .placeholder = Vyhľadávanie na webe
     .title = Vyhľadávanie na webe
     .aria-label = Vyhľadávanie na webe
-
 newtab-search-box-text = Vyhľadávanie na webe
 newtab-search-box-input =
     .placeholder = Vyhľadávanie na webe
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Upraviť skratku
 newtab-topsites-title-label = Názov
 newtab-topsites-title-input =
     .placeholder = Zadajte názov
-
 newtab-topsites-url-label = Adresa URL
 newtab-topsites-url-input =
     .placeholder = Zadajte alebo prilepte adresu URL
 newtab-topsites-url-validation = Vyžaduje sa platná adresa URL
-
 newtab-topsites-image-url-label = Adresa URL vlastného obrázka
 newtab-topsites-use-image-link = Použiť vlastný obrázok…
 newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú adresu URL.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = Sponzorované
 newtab-menu-section-tooltip =
     .title = Otvorí ponuku
     .aria-label = Otvorí ponuku
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Odstrániť
     .aria-label = Odstrániť
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -164,16 +157,19 @@ newtab-label-removed-bookmark = Záložka bola odstránená
 newtab-label-recommended = Trendy
 newtab-label-saved = Uložené do služby { -pocket-brand-name }
 newtab-label-download = Stiahnuté
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponzorované
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponzorované spoločnosťou { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min.
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -208,7 +204,6 @@ newtab-section-header-pocket = Odporúča { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začnite s prehliadaním a my vám na tomto mieste ukážeme skvelé články, videá a ostatné stránky, ktoré ste nedávno navštívili alebo pridali medzi záložky.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
