@@ -258,18 +258,18 @@ more-menu-go-offline =
     .label = ᱚᱯᱷᱞᱟᱭᱤ ᱠᱟᱹᱢᱤ ᱢᱮ
     .accesskey = ᱚ
 toolbar-button-email-link =
-    .label = इमेल खोंजा
-    .tooltiptext = नोवा साहटा रे मित् खोंजा इमेल में.
+    .label = ᱤᱢᱮᱞ ᱞᱤᱝᱠ
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱞᱤᱝᱠ ᱧᱮᱞ ᱢᱮ
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
-    .label = साहटा सांचाव मे
-    .tooltiptext = नोवा साहटा सांचाव मे. ({ $shortcut })
+    .label = ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .tooltiptext = ᱱᱚᱣᱟ ᱥᱟᱦᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = रेत् झिज मे
-    .tooltiptext = मित् रेत् झिज मे. ({ $shortcut })
+    .label = ᱨᱮᱫ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .tooltiptext = ᱢᱤᱫ ᱨᱮᱫ ᱡᱷᱤᱡᱽ ᱢᱮ ({ $shortcut })
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -307,24 +307,24 @@ ui-tour-info-panel-close =
 # Navigator Toolbox
 
 navbar-downloads =
-    .label = आ़तुर आंड़गो
+    .label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ
 navbar-overflow =
-    .tooltiptext = बड़ती  टुल…
+    .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱴᱩᱞᱥ…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
-    .label = छापा
-    .tooltiptext = नोवा साहटा छापाय मे … ({ $shortcut })
+    .label = ᱪᱷᱟᱯᱟ
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ… ({ $shortcut })
 navbar-print-tab-modal-disabled =
-    .label = छापा
-    .tooltiptext = नोवा साहटा छापाय मे
+    .label = ᱪᱷᱟᱯᱟ
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = ब्राउजार टैब को
+    .aria-label = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱴᱮᱵᱽ ᱠᱚ
 tabs-toolbar-new-tab =
-    .label = नावा टैब
+    .label = ᱱᱟᱶᱟ ᱴᱚᱵᱽ
 tabs-toolbar-list-all-tabs =
-    .label = जोतो टैब को सुची मे
-    .tooltiptext = जोतो टैब को सुची मे
+    .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ
+    .tooltiptext = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ

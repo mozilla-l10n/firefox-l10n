@@ -18,9 +18,9 @@ appmenuitem-passwords =
 appmenuitem-addons-and-themes =
     .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
 appmenuitem-print =
-    .label = छापा…
+    .label = ᱪᱷᱟᱯᱟ…
 appmenuitem-zoom =
-    .value = हुडिञ माराङ होचो
+    .value = ᱡᱩᱢ
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
