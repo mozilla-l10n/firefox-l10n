@@ -4,6 +4,7 @@
 
 account-settings-title = Impostazioni di autenticazione
 account-channel-title = Canali predefiniti
+chat-encryption-generic = Altro
 chat-encryption-log =
     .label = Includi i messaggi con crittografia end-to-end nei registri delle conversazioni
 chat-encryption-label = Crittografia end-to-end nativa
