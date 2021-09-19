@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Active la prise en charge de la 
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS : Cascade Layers
+experimental-features-css-cascade-layers-description = Active la prise en charge des couches CSS en cascade (cascade layers). Voir la <a data-l10n-name="spec">spécification en cours de création</a> pour plus de détails. Signalez tout problème en créant un bug bloquant le <a data-l10n-name="bugzilla">bug 1699215</a> s’il est lié à cette fonctionnalité.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
