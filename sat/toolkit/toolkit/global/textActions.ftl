@@ -3,32 +3,32 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 text-action-undo =
-    .label = रुवा़ड़
-    .accesskey = U
-
+    .label = ᱨᱩᱣᱟᱹᱲ
+    .accesskey = ᱨ
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
-    .label = दोहड़ाकोराव
-    .accesskey = R
-
+    .label = ᱫᱚᱦᱲᱟᱠᱚᱨᱟᱣ
+    .accesskey = ᱫ
+text-action-redo-shortcut =
+    .key = Y
 text-action-cut =
-    .label = गेत्
-    .accesskey = t
-
+    .label = ᱜᱮᱫ
+    .accesskey = ᱜ
+text-action-cut-shortcut =
+    .key = X
 text-action-paste =
-    .label = लाठा
-    .accesskey = P
-
+    .label = ᱞᱟᱴᱷᱟ
+    .accesskey = ᱞ
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
-    .label = मेटाव
-    .accesskey = D
-
+    .label = ᱢᱮᱴᱟᱣ ᱢᱮ
+    .accesskey = ᱢ
 text-action-select-all =
-    .label = जोतो बाछाव
-    .accesskey = A
-
+    .label = ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .accesskey = ᱡ
+text-action-select-all-shortcut =
+    .key = A
+text-action-spell-no-suggestions =
+    .label = (ᱡᱟᱦᱟᱱ ᱵᱚᱱᱟᱱ ᱧᱮᱞ ᱤᱛᱞᱟᱹᱭ ᱵᱟᱝ)

@@ -3,34 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-window =
-    .title = { -brand-short-name } -बेभारिजाक् मोहोर बाछाव मे.
-
+    .title = { -brand-short-name } - ᱵᱮᱵᱷᱟᱨᱤᱡ ᱢᱚᱦᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 profile-selection-button-accept =
-    .label = { -brand-short-name } एहोब मे .
-
+    .label = { -brand-short-name } ᱮᱦᱚᱵ ᱢᱮ
 profile-selection-button-cancel =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
-
 profile-selection-new-button =
-    .label = मोहोर तेयार मे...
-    .accesskey = C
-
+    .label = ᱢᱚᱦᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ...
+    .accesskey = ᱢ
 profile-selection-rename-button =
-    .label = मोहोर दोहड़ा ञुतुम मे...
+    .label = ᱢᱚᱦᱚᱨ ᱫᱩᱦᱲᱟᱹ ᱧᱩᱛᱩᱢ ᱢᱮ...
     .accesskey = R
-
 profile-selection-delete-button =
-    .label = मोहोर मेटाव  मे...
-    .accesskey = D
+    .label = ᱢᱚᱦᱚᱨ ᱢᱮᱴᱟᱣ ᱢᱮ...
+    .accesskey = ᱢ
 
 ## Messages used in the profile manager
 
-profile-manager-description = { -brand-short-name } आमाक् साजाव कुसियाक् आर एटाक् बेभार कोवाक् बाबोत जिनिस जोगाव ला़य सोदोर .
-
+profile-manager-description = { -brand-short-name } ᱟᱢᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱩᱥᱤᱭᱟᱜ ᱟᱨ ᱮᱴᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱣᱟᱜ ᱵᱟᱵᱚᱛ ᱡᱤᱱᱤᱥ ᱡᱚᱜᱟᱣ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱾
 profile-manager-work-offline =
-    .label = ऑफलाइन का़मी
-    .accesskey = o
-
+    .label = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤ
+    .accesskey = ᱚ
 profile-manager-use-selected =
-    .label = एहोब रे बेगोर कुली ते बाछावाक् प्रोफाइल बेभार मे
-    .accesskey = s
+    .label = ᱮᱦᱚᱵ ᱨᱮ ᱵᱚᱜᱚᱨ ᱠᱩᱞᱤ ᱛᱮ ᱵᱟᱪᱷᱟᱣᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ  ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = ᱮ
