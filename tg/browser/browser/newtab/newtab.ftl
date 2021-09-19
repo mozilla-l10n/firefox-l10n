@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ҷустуҷӯ
     .aria-label = Ҷустуҷӯ
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Нишониеро тавассути { $engine } ҷустуҷӯ кунед ё ворид намоед
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
     .title = Нишониеро ҷустуҷӯ кунед ё ворид намоед
     .aria-label = Нишониеро ҷустуҷӯ кунед ё ворид намоед
-
 newtab-search-box-search-the-web-input =
     .placeholder = Ҷустуҷӯ дар Интернет
     .title = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ дар Интернет
-
 newtab-search-box-text = Ҷустуҷӯ дар Интернет
 newtab-search-box-input =
     .placeholder = Ҷустуҷӯ дар Интернет
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Таҳрир кардани миёнбу�
 newtab-topsites-title-label = Сарлавҳа
 newtab-topsites-title-input =
     .placeholder = Сарлавҳаро ворид намоед
-
 newtab-topsites-url-label = Нишонии URL
 newtab-topsites-url-input =
     .placeholder = Нишонии URL-ро ворид кунед ё гузоред
 newtab-topsites-url-validation = Нишонии URL-и эътибор лозим аст
-
 newtab-topsites-image-url-label = Нишонии URL-и тасвири шахсӣ
 newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
 newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии URL-и дигареро кӯшиш кунед.
@@ -89,12 +84,10 @@ newtab-topsite-sponsored = Сарпарастӣ
 newtab-menu-section-tooltip =
     .title = Кушодани меню
     .aria-label = Кушодани меню
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Тоза кардан
     .aria-label = Тоза кардан
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,16 +155,19 @@ newtab-label-removed-bookmark = Хатбарак тоза карда шуд
 newtab-label-recommended = Маъмул
 newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
 newtab-label-download = Боргиришуда
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · дорои реклама мебошад
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Аз тарафи сарпарасти { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } дақиқа
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
