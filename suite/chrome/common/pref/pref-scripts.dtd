@@ -20,6 +20,14 @@
 <!ENTITY allowContextmenuDisable.label   "Kontextmenü einer Seite deaktivieren oder ersetzen">
 <!ENTITY allowHideStatusBar.label        "Statusleiste verstecken">
 
+<!ENTITY debugging.label                  "JavaScript Debugeinstellungen">
+<!ENTITY debugEnableDump.label            "JavaScript dump() Ausgaben aktivieren">
+<!ENTITY debugEnableDump.accesskey        "U">
+<!ENTITY debugStrictJavascript.label      "Anzeige von strengen JavaScript Warnungen">
+<!ENTITY debugStrictJavascript.accesskey  "W">
+<!ENTITY debugConsoleJavascript.label     "Anzeige von Chrome JavaScript Fehlern und Warnungen">
+<!ENTITY debugConsoleJavascript.accesskey "J">
+
 <!ENTITY enablePlugins.label             "Plugins aktivieren für">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">

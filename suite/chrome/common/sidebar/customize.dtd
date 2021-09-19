@@ -4,6 +4,9 @@
 
 <!-- extracted from ./customize.xul -->
 
+<!ENTITY sidebar.customize.title                "Sidebar anpassen">
+<!ENTITY sidebar.customize.current2.label       "Tabs in Sidebar:">
+<!ENTITY sidebar.customize.current2.accesskey   "T">
 <!ENTITY sidebar.customize.customize.label      "Tab anpassen…">
 <!ENTITY sidebar.customize.customize.accesskey  "a">
 <!ENTITY sidebar.customize.remove.label         "Entfernen">
