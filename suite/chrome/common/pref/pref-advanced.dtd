@@ -9,6 +9,15 @@
 <!ENTITY prefCheckDefaultClient.label     "Tarkista oletussovellusten asetukset käynnistyksen yhteydessä">
 <!ENTITY prefCheckDefaultClient.accesskey "T">
 
+<!ENTITY defaultClientFor.description     "Tee &brandShortName; oletussovellukseksi seuraaviin:">
+<!ENTITY setDefaultBrowser.label          "Selain">
+<!ENTITY setDefaultMail.label             "Sähköposti">
+<!ENTITY setDefaultNews.label             "Keskusteluryhmät">
+<!ENTITY setDefaultFeed.label             "Syötteet">
+<!ENTITY useInternalSettings.description  "Käytä &brandShortName;n sähköposti- ja keskusteluryhmätoiminnallisuuksia kun avataan selainlinkkejä seuraaville:">
+<!ENTITY useInternalMail.label            "Sähköposti (mailto:)">
+<!ENTITY useInternalNews.label            "Keskusteluryhmät (news:, snews:, nntp:)">
+
 <!ENTITY printing.label                   "Tulostaminen">
 <!ENTITY useNativePrintDialog.label       "Käytä järjestelmän tulostusdialogia (jos tuettu)">
 <!ENTITY useNativePrintDialog.accesskey   "j">
