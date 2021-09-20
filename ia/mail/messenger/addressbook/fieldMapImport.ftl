@@ -4,10 +4,9 @@
 
 import-ab-csv-window =
     .title = Importar Libro de adresses de File de texto
-
+import-ab-csv-dialog-title = Importar libro de adresses de file de texto
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Vista preliminar del importation de datos pro le registro { $recordNumber }
-
 import-ab-csv-dialog =
     .buttonlabelaccept = Importar
     .buttonaccesskeyaccept = I
