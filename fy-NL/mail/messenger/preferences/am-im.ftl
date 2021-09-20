@@ -4,6 +4,9 @@
 
 account-settings-title = Autentikaasjeynstellingen
 account-channel-title = Standertkanalen
+chat-encryption-generic = Algemien
+chat-encryption-log =
+    .label = End-to-end-fersifere berjochten yn petearlochboeken opnimme
 chat-encryption-label = Ynboude end-to-end-fersifering
 chat-encryption-description = { $protocol } biedt end-to-end-fersifering foar chatberjochten. Hjirtroch kinne tredden in petear net ôfharkje. Mooglik binne hjirûnder oanfoljende ynstellingen fereaske om de fersifering operasjoneel te meitsjen.
 chat-encryption-status = Fersiferingssteat

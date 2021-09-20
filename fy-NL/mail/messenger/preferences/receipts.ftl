@@ -4,48 +4,59 @@
 
 receipts-dialog-window =
     .title = Lêsbefêstigingen
-
 return-receipt-checkbox =
     .label = Altyd in lêsbefêstiging freegje by it ferstjoeren fan berjochten
     .acceskey = t
-
+return-receipt-checkbox-control =
+    .label = Altyd in lêsbefêstiging freegje by it ferstjoeren fan berjochten
+    .accesskey = A
 receipt-arrive-label = As in lêsbefêstiging oankomt:
-
 receipt-leave-radio =
     .label = Dy yn myn Postfek YN stean litte
     .acceskey = l
-
 receipt-move-radio =
     .label = Dy nei myn map "Ferstjoerd" ferpleatse
     .acceskey = f
-
+receipt-leave-radio-control =
+    .label = Dizze yn myn Postfek YN stean litte
+    .accesskey = y
+receipt-move-radio-control =
+    .label = Dy nei myn map ‘Ferstjoerd’ ferpleatse
+    .accesskey = f
 receipt-request-label = As in fersyk foar in lêsbefêstiging oankomt:
-
 receipt-return-never-radio =
     .label = Nea in lêsbefêstiging stjoere
     .acceskey = s
-
 receipt-return-some-radio =
     .label = Yn de folgjende gefallen in lêsbefêstiging stjoere
     .acceskey = o
-
 receipt-not-to-cc =
     .value = As ik net yn de Oan of CC fan it berjocht stean:
     .acceskey = n
-
+receipt-return-never-radio-control =
+    .label = Nea in lêsbefêstiging stjoere
+    .accesskey = n
+receipt-return-some-radio-control =
+    .label = Lêsbefêstigingen by guon berjochten tastean
+    .accesskey = r
+receipt-not-to-cc-label =
+    .value = As ik net yn de Oan of CC fan it berjocht stean:
+    .accesskey = i
 receipt-send-never-label =
     .label = Nea ferstjoere
-
 receipt-send-always-label =
     .label = Altyd ferstjoere
-
 receipt-send-ask-label =
     .label = My freegje
-
 sender-outside-domain =
     .value = As de ôfstjoerder bûten myn domein is:
     .acceskey = b
-
 other-cases-label =
     .value = Yn alle oare gefallen:
     .acceskey = a
+sender-outside-domain-label =
+    .value = As de ôfstjoerder bûten myn domein is:
+    .accesskey = b
+other-cases-text-label =
+    .value = Yn alle oare gefallen:
+    .accesskey = a
