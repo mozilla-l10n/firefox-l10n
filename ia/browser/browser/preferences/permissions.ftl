@@ -87,7 +87,7 @@ permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o 
 permissions-exceptions-https-only-window =
     .title = Exceptiones - modo solo-HTTPS
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Tu pote disactivar le Modo solo-HTTPS pro specific sitos web. { -brand-short-name } non tentara promover le connexion a secur HTTPS pro ille sitos. Le  exceptiones non vale pro fenestras anonyme.
+permissions-exceptions-https-only-desc = Tu pote disactivar le modo solo HTTPS pro sitos web specific. { -brand-short-name } non tentara securisar le connexion a HTTPS pro ille sitos. Exceptiones non se applica a fenestras private.
 
 ## Exceptions - Pop-ups
 
