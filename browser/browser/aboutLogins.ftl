@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लॉगिन और पासवर्ड
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = लॉगिन खोजें
-
 create-login-button = नई लॉगिन बनाएँ
-
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-sign-in-sync-button = सिंक करने के लिए साइन इन करें
 fxaccounts-avatar-button =
@@ -59,6 +54,7 @@ about-logins-list-item-breach-icon =
     .title = उलंघित वेबसाइट
 about-logins-list-item-vulnerable-password-icon =
     .title = असुरक्षित पासवर्ड
+about-logins-list-section-today = आज
 
 ## Introduction screen
 
@@ -66,7 +62,6 @@ about-logins-login-intro-heading-logged-out2 = अपने सहेजे ग�
 about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 login-intro-description = यदि आपने अपने लॉगिन को एक अलग डिवाइस पर { -brand-product-name } में सहेजा है, तो उन्हें यहां ऐसे प्राप्त करें:
 about-logins-intro-import = यदि आपके लॉगिन किसी अन्य ब्राउज़र में सहेजे गए हैं, तो आप उन्हें { -lockwise-brand-short-name } में <a data-l10n-name="import-link"> आयात </a> कर सकते हैं
-
 about-logins-intro-import2 = अगर आपके लॉगिन { -brand-product-name } के बाहर सहेजे गए हैं, तो आप उन्हें <a data-l10n-name="import-browser-link">किसी दूसरे ब्राउज़र से</a> या <a data-l10n-name="import-file-link"> फ़ाइल से आयात करें</a>
 
 ## Login
@@ -107,21 +102,16 @@ about-logins-edit-login-os-auth-dialog-message-win = अपने लॉगि�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = सहेजे गए लॉगिन को संपादित करें
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = अपना पासवर्ड देखने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड देखें
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = अपने पासवर्ड को कॉपी करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड को कॉपी करें
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = अपने लॉगिंस को निर्यात करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to export a password in about:logins
@@ -135,22 +125,17 @@ master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = रद्द करें
 confirmation-dialog-dismiss-button =
     .title = रद्द करें
-
 about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
-
 about-logins-confirm-export-dialog-title = लॉगिन और पासवर्ड निर्यात करें
 about-logins-confirm-export-dialog-message = आपके पासवर्ड पढ़ने योग्य टेक्स्ट (जैसे BadP@ssw0rd) के रूप में सहेजे जाएंगे ताकि जो भी निर्यात की गई फ़ाइल को खोल पाएंगे, उन्हें देख सकते हैं।
 about-logins-confirm-export-dialog-confirm-button = निर्यात करें…
-
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
 confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
 confirm-discard-changes-dialog-confirm-button = छोड़ें
@@ -178,7 +163,6 @@ about-logins-vulnerable-alert-learn-more-link = अधिक जानें
 
 # This is a generic error message.
 about-logins-error-message-default = पासवर्ड सहेजने का प्रयास करते समय एक त्रुटि हुई।
-
 
 ## Login Export Dialog
 
@@ -222,7 +206,6 @@ about-logins-import-file-picker-tsv-filter-title =
 
 about-logins-import-dialog-error-learn-more = अधिक जानें
 about-logins-import-dialog-error-cancel = रद्द करें
-
 about-logins-import-report-row-description-added = नया लॉगिन जोड़ा गया
 
 ##
