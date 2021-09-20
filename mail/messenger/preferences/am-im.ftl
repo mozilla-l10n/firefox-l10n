@@ -5,6 +5,8 @@
 account-settings-title = 验证设置
 account-channel-title = 默认频道
 chat-encryption-generic = 常规
+chat-encryption-log =
+    .label = 在对话日志中包含端到端加密消息
 chat-encryption-label = 原生端到端加密
 chat-encryption-description = { $protocol } 为聊天消息提供端到端加密保护，如此便可防止第三方窃听对话内容。要使加密功能正常启用，可能需在下方进行更多设置。
 chat-encryption-status = 加密状态
