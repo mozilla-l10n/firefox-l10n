@@ -4,6 +4,9 @@
 
 account-settings-title = Authenticatie-instellingen
 account-channel-title = Standaardkanalen
+chat-encryption-generic = Algemeen
+chat-encryption-log =
+    .label = End-to-end-versleutelde berichten in gesprekslogboeken opnemen
 chat-encryption-label = Ingebouwde end-to-end-versleuteling
 chat-encryption-description = { $protocol } biedt end-to-end-versleuteling voor chatberichten. Hierdoor kunnen derden een gesprek niet afluisteren. Mogelijk zijn hieronder aanvullende instellingen vereist om de versleuteling operationeel te maken.
 chat-encryption-status = Versleutelingsstatus
