@@ -13,6 +13,7 @@
 <!ENTITY loadInBackground.accesskey       "v">
 <!ENTITY mailOpenTabsFor.label            "Avaa välilehti ikkunan sijaan">
 <!ENTITY mailMiddleClick.label            "Hiiren keskimmäisen painikkeen napsautus tai Ctrl+Enter viestin tai kansion kohdalla">
+<!ENTITY mailMiddleClickMac.label         "Hiiren keskimmäisen painikkeen napsautus tai &#8984;+Return viestin tai kansion kohdalla">
 <!ENTITY mailDoubleClick.label            "Kaksoisnapsauta viestiä">
 <!ENTITY mailBiffOnNewWindow.label        "Nouda uudet viestit vasta sähköpostiohjelman avaamisen jälkeen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "N">

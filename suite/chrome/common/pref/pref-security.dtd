@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Estä ilmiannetut huijaussivustot (tietojen kalastelu)">
 <!ENTITY blockWebForgeries.accesskey      "l">
 
+<!ENTITY blockAutoRefresh.label           "Varoita, kun sivustot yrittävät päivittää sivua tai uudelleenohjata toiselle sivulle">
+<!ENTITY blockAutoRefresh.accesskey       "a">
