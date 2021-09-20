@@ -4,10 +4,9 @@
 
 import-ab-csv-window =
     .title = Adresboek uit tekstbestand importeren
-
+import-ab-csv-dialog-title = Adresboek uit tekstbestand importeren
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Voorbeeld van de gegevensimport voor record { $recordNumber }
-
 import-ab-csv-dialog =
     .buttonlabelaccept = Importeren
     .buttonaccesskeyaccept = I
