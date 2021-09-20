@@ -8,7 +8,7 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-psmerr-ssl-disabled = जा़पती लेकाते बाय जोड़ाव दाड़ेयाक् आ चेदाक् जे  SSL गापते बाङ हुय होचोवाकाना .
+psmerr-ssl-disabled = ᱡᱟᱹᱯᱛᱤ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱭ ᱡᱚᱲᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱡᱮ SSL ᱜᱚᱯᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚᱣᱟᱠᱟᱱᱟ ᱾
 psmerr-ssl2-disabled = जा़पती लेकाते बाय जोड़ाव दाड़ेयाक् आ चेदाक् जे साइट SSL गापाते रेयाक् बाङ जापती हा़लियाक्, खोन मारेयाक् बेभारेत् आ .
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
