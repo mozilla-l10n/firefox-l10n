@@ -9,3 +9,12 @@
 about-unloads-page-title = Frigjør fane
 about-unloads-button-unload = Frigjør
     .title = Frigjør fanen med høyeste prioritet
+about-unloads-column-priority = Prioritet
+about-unloads-column-host = Server
+about-unloads-column-last-accessed = Sist åpnet
+about-unloads-column-weight = Grunnvekt
+    .title = Faner sorteres først etter denne verdien, som stammer fra noen spesielle attributter som å spille av lyd, WebRTC, etc.
+about-unloads-column-sortweight = Sekundær vekt
+    .title = Hvis det er tilgjengelig, sorteres fanene etter denne verdien etter å ha blitt sortert etter basisvekten. Verdien stammer fra fanens minnebruk og antall prosesser.
+about-unloads-column-memory = Minne
+    .title = Fanens estimerte minnebruk
