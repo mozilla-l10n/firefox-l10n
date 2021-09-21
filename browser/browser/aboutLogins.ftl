@@ -174,6 +174,17 @@ about-logins-import-dialog-error-file-permission-description = { -brand-short-na
 about-logins-import-dialog-error-unable-to-read-description = तुम्ही CSV किंवा TSV फाइल निवडल्याची खात्री करा.
 about-logins-import-dialog-error-no-logins-imported = कोणतेही लॉगिन आयात केले गेलेले नाही
 about-logins-import-dialog-error-learn-more = अधिक जाणा
+about-logins-import-dialog-error-try-import-again = पुन्हा आयात करण्याचा प्रयत्न करा…
+about-logins-import-dialog-error-cancel = रद्द करा
+about-logins-import-report-title = आयात संबंधित सारांश
+about-logins-import-report-description = लॉगिन आणि पासवर्ड { -brand-short-name } वर आयात केलेत.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = पंक्ती { $number }
+about-logins-import-report-row-description-no-change = डुप्लिकेट: विद्यमान लॉगिनशी अचूक मिळते.
+about-logins-import-report-row-description-modified = विद्यमान लॉगिन अद्ययावत केले
+about-logins-import-report-row-description-added = नवीन लॉगिन जोडले
 
 ##
 ## Variables:
