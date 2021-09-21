@@ -28,7 +28,6 @@
   phishing providers will vary from human review to machine-based heuristics
   to a combination of both, so it's important that these strings convey the
   meaning "reported" (and not something like "known").
-
 -->
 <!ENTITY safeBrowsing.label               "Bezpečné prehliadanie">
 <!ENTITY safeBrowsingIntro.label          "&brandShortName; dokáže blokovať webové stránky, ktoré podľa hlásení obsahujú nebezpečný obsah.">
@@ -39,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Blokovať nahlásené podvodné stránky">
 <!ENTITY blockWebForgeries.accesskey      "k">
 
+<!ENTITY blockAutoRefresh.label           "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
+<!ENTITY blockAutoRefresh.accesskey       "U">

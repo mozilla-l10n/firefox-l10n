@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "do">
 <!ENTITY maxZoom.accesskey                      "d">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Predvolená veľkosť">
 <!ENTITY defaultZoom.accesskey                  "d">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "Pamätať si nastavenie lupy pre každú stránku zvlášť">
 <!ENTITY siteSpecific.accesskey                 "n">
 <!ENTITY showZoomStatusPanel.label              "Zobraziť nastavenie priblíženia v stavovom riadku">
+<!ENTITY showZoomStatusPanel.accesskey          "i">
 <!ENTITY enableAutomaticImageResizing.label     "Meniť veľkosť veľkých obrázkov na veľkosť okna">
 <!ENTITY enableAutomaticImageResizing.accesskey "M">
 
