@@ -4,10 +4,9 @@
 
 import-ab-csv-window =
     .title = Nhập sổ địa chỉ từ tập tin văn bản
-
+import-ab-csv-dialog-title = Nhập sổ địa chỉ từ tập tin văn bản
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Xem trước quá trình nhập dữ liệu cho bản ghi { $recordNumber }
-
 import-ab-csv-dialog =
     .buttonlabelaccept = Nhập
     .buttonaccesskeyaccept = I
