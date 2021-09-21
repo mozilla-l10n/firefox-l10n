@@ -116,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Gendan forrige session
     .accesskey = G
+startup-restore-windows-and-tabs =
+    .label = Åbn tidligere vinduer og faneblade
+    .accesskey = t
 startup-restore-warn-on-quit =
     .label = Advar mig, når jeg lukker browseren
 disable-extension =
@@ -130,6 +133,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advar mig, når jeg lukker flere faneblade
     .accesskey = l
+confirm-on-close-multiple-tabs =
+    .label = Bekræft, når jeg lukker flere faneblade
+    .accesskey = B
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Bekræft, inden jeg afslutter med { $quitKey }
+    .accesskey = a
 warn-on-open-many-tabs =
     .label = Advar mig, hvis jeg åbner flere faneblade, som kan gøre { -brand-short-name } langsommere
     .accesskey = å
