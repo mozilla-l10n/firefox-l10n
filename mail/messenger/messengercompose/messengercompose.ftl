@@ -100,8 +100,8 @@ move-attachment-right-panel-button =
 move-attachment-last-panel-button =
     .label = Di chuyển xuống cuối
 button-return-receipt =
-    .label = Biên nhận
-    .tooltiptext = Yêu cầu biên nhận trả lại cho thư này
+    .label = Xác nhận
+    .tooltiptext = Yêu cầu xác nhận đã nhận thư cho thư này
 
 # Encryption
 

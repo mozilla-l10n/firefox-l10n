@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 receipts-dialog-window =
-    .title = Chứng nhận Hồi báo
+    .title = Xác nhận đã nhận thư
 return-receipt-checkbox =
-    .label = Khi gửi thư, luôn luôn yêu cầu gửi lại biên nhận
+    .label = Khi gửi thư, luôn luôn yêu cầu gửi lại xác nhận đã nhận thư
     .accesskey = W
 return-receipt-checkbox-control =
-    .label = Khi gửi thư, luôn luôn yêu cầu gửi lại biên nhận
+    .label = Khi gửi thư, luôn luôn yêu cầu xác nhận đã nhận thư
     .accesskey = W
 receipt-arrive-label = Khi một chứng nhận đến:
 receipt-leave-radio =
