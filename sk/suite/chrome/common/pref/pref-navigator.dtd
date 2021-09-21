@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Obnovovať karty po jednej (prepnutím sa na kartu)">
 <!ENTITY restoreDeferred.accesskey      "t">
 
+<!ENTITY siteIcons.label                "Ikony webových stránok">
+<!ENTITY useSiteIcons.label             "Zobrazovať ikony webových stránok">
+<!ENTITY useSiteIcons.accesskey         "b">
+<!ENTITY useFavIcons.label              "Skúsiť použiť ikonu servera, ak stránka neurčuje vlastnú">
+<!ENTITY useFavIcons.accesskey          "S">
+
 <!ENTITY homePageIntro.label            "Kliknutím na tlačidlo Domov prejdete na túto skupinu stránok:">
 <!ENTITY useCurrent.label               "Použiť aktuálnu stránku">
 <!ENTITY useCurrent.accesskey           "a">

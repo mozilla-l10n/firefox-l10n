@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.masterpass.title                  "Hlavné heslá">
+<!ENTITY  pref.masterpass.title                  "Hlavné heslá">
 
-<!ENTITY changepassword.caption                 "Zmena hlavného hesla">
-<!ENTITY changepassword.text                    "Hlavné heslo chráni citlivé údaje, napríklad internetové heslá a certifikáty.">
-<!ENTITY changepassword.button                  "Zmeniť heslo…">
-<!ENTITY changepassword.accesskey               "Z">
+<!ENTITY  changepassword.caption                 "Zmena hlavného hesla">
+<!ENTITY  changepassword.text                    "Hlavné heslo chráni citlivé údaje, napríklad internetové heslá a certifikáty.">
+<!ENTITY  changepassword.button                  "Zmeniť heslo…">
+<!ENTITY  changepassword.accesskey               "Z">
 
-<!ENTITY resetpassword.caption                  "Vymazanie hlavného hesla">
-<!ENTITY resetpassword.text                     "Ak vymažete svoje hlavné heslo, všetky uložené internetové a e-mailové heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané.">
-<!ENTITY resetpassword.button                   "Vymazať heslo">
-<!ENTITY resetpassword.accesskey                "h">
+<!ENTITY  resetpassword.caption                  "Vymazanie hlavného hesla">
+<!ENTITY  resetpassword.text                     "Ak vymažete svoje hlavné heslo, všetky uložené internetové a e-mailové heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané.">
+<!ENTITY  resetpassword.button                   "Vymazať heslo">
+<!ENTITY  resetpassword.accesskey                "h">
+<!ENTITY  resetpassword2.button                  "Obnoviť heslo">
+<!ENTITY  resetpassword2.accesskey               "h">
