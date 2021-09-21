@@ -144,8 +144,8 @@
 <!ENTITY attachVCard.label "Đính kèm thẻ cá nhân (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Biên lai hoàn trả">
-<!ENTITY returnReceiptMenu.accesskey "C">
+<!ENTITY returnReceiptMenu.label "Xác nhận đã nhận thư">
+<!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Thông báo trạng thái gửi thư">
 <!ENTITY dsnMenu.accesskey "G">
 <!ENTITY deliveryFormatMenu.label "Định dạng phân phối">
