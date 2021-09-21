@@ -4,6 +4,9 @@
 
 account-settings-title = Cài đặt xác thực
 account-channel-title = Kênh mặc định
+chat-encryption-generic = Chung
+chat-encryption-log =
+    .label = Bao gồm các thư được mã hóa đầu cuối trong nhật ký hội thoại
 chat-encryption-description = { $protocol } cung cấp mã hóa đầu cuối cho các tin nhắn trò chuyện. Điều này ngăn các bên thứ ba nghe trộm cuộc trò chuyện. Có thể yêu cầu thiết lập bổ sung bên dưới để mã hóa hoạt động.
 chat-encryption-status = Trạng thái mã hóa
 chat-encryption-placeholder = Chưa khởi tạo mã hóa.

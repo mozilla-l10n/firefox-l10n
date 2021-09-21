@@ -16,6 +16,8 @@ about-addressbook-toolbar-new-contact =
     .label = Liên hệ mới
 about-addressbook-toolbar-new-list =
     .label = Danh sách mới
+about-addressbook-toolbar-import =
+    .label = Nhập
 
 ## Books
 
@@ -26,10 +28,14 @@ about-addressbook-books-context-synchronize =
     .label = Đồng bộ hoá
 about-addressbook-books-context-print =
     .label = In…
+about-addressbook-books-context-export =
+    .label = Xuất…
 about-addressbook-books-context-delete =
     .label = Xóa
 about-addressbook-books-context-remove =
     .label = Xóa
+about-addressbook-books-context-startup-default =
+    .label = Thư mục khởi động mặc định
 about-addressbook-confirm-delete-book-title = Xóa sổ địa chỉ
 # Variables:
 # $name (String) - Name of the address book to be deleted.
