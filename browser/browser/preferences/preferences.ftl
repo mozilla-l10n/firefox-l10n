@@ -133,6 +133,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advar meg når jeg lukker flere faner
     .accesskey = A
+confirm-on-close-multiple-tabs =
+    .label = Bekreft før lukking av flere faner
+    .accesskey = B
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Bekreft før avslutting med { $quitKey }
+    .accesskey = B
 warn-on-open-many-tabs =
     .label = Advar når åpning av mange faner samtidig kan gjøre { -brand-short-name } treg
     .accesskey = d
