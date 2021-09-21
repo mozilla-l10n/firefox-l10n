@@ -4,48 +4,59 @@
 
 receipts-dialog-window =
     .title = Potvrdenia o prečítaní
-
 return-receipt-checkbox =
     .label = Pri posielaní správy vždy žiadať potvrdenie o prečítaní
     .acceskey = P
-
+return-receipt-checkbox-control =
+    .label = Pri odosielaní správy vždy žiadať potvrdenie o prečítaní
+    .accesskey = d
 receipt-arrive-label = Ak príde potvrdenie:
-
 receipt-leave-radio =
     .label = Nechať ho v priečinku "Doručená pošta"
     .acceskey = e
-
 receipt-move-radio =
     .label = Presunúť ho do priečinka "Odoslaná pošta"
     .acceskey = r
-
+receipt-leave-radio-control =
+    .label = Nechať ho v priečinku Doručená pošta
+    .accesskey = N
+receipt-move-radio-control =
+    .label = Presunúť ho do priečinka "Odoslaná pošta"
+    .accesskey = r
 receipt-request-label = Ak prijatá správa obsahuje žiadosť o potvrdenie o prečítaní:
-
 receipt-return-never-radio =
     .label = Nikdy neposielať potvrdenie
     .acceskey = N
-
 receipt-return-some-radio =
     .label = Posielať potvrdenia pre správy nasledovne:
     .acceskey = v
-
 receipt-not-to-cc =
     .value = Ak nie som v poliach "Komu" alebo "Kópia":
     .acceskey = A
-
+receipt-return-never-radio-control =
+    .label = Nikdy neposielať potvrdenie
+    .accesskey = k
+receipt-return-some-radio-control =
+    .label = Posielať potvrdenia pre správy nasledovne:
+    .accesskey = P
+receipt-not-to-cc-label =
+    .value = Ak nie som v poliach Komu alebo Kópia:
+    .accesskey = A
 receipt-send-never-label =
     .label = Nikdy neposielať
-
 receipt-send-always-label =
     .label = Vždy odoslať
-
 receipt-send-ask-label =
     .label = Opýtať sa
-
 sender-outside-domain =
     .value = Ak je odosielateľ mimo mojej domény:
     .acceskey = d
-
 other-cases-label =
     .value = V ostatných prípadoch:
     .acceskey = o
+sender-outside-domain-label =
+    .value = Ak je odosielateľ mimo mojej domény:
+    .accesskey = m
+other-cases-text-label =
+    .value = V ostatných prípadoch:
+    .accesskey = V
