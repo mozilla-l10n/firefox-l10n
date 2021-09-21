@@ -4,10 +4,9 @@
 
 import-ab-csv-window =
     .title = Importovať adresár z textového súboru
-
+import-ab-csv-dialog-title = Import adresára z textového súboru
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Ukážka importovaných údajov pre záznam { $recordNumber }
-
 import-ab-csv-dialog =
     .buttonlabelaccept = Importovať
     .buttonaccesskeyaccept = I
