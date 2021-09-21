@@ -1060,7 +1060,7 @@ addon-recommendations-link = Докладніше
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Відправлення даних вимкнено для цієї конфігурації збірки
 collection-backlogged-crash-reports-with-link = Дозволити { -brand-short-name } надсилати звіти про збої від вашого імені <a data-l10n-name="crash-reports-link">Докладніше</a>
-    .accesskey = c
+    .accesskey = м
 
 ## Privacy Section - Security
 ##
