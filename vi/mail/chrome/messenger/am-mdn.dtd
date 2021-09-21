@@ -7,9 +7,9 @@
 <!ENTITY useGlobalPrefs.accesskey     "D">
 <!ENTITY globalReceipts.label         "Tùy chỉnh tổng quát…">
 <!ENTITY globalReceipts.accesskey     "G">
-<!ENTITY useCustomPrefs.label         "Tùy chỉnh xác nhận nhận thư cho tài khoản này">
+<!ENTITY useCustomPrefs.label         "Tùy chỉnh xác nhận đã nhận thư cho tài khoản này">
 <!ENTITY useCustomPrefs.accesskey     "y">
-<!ENTITY requestReceipt.label         "Khi gửi thư, luôn luôn yêu cầu xác nhận nhận thư">
+<!ENTITY requestReceipt.label         "Khi gửi thư, luôn luôn yêu cầu xác nhận đã nhận thư">
 <!ENTITY requestReceipt.accesskey     "K">
 <!ENTITY receiptArrive.label          "Khi một chứng nhận đến:">
 <!ENTITY leaveIt.label                "Để nó trong Hộp thư của tôi">
@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Chuyển nó vào thư mục &quot;Đã gửi&quot;">
 <!ENTITY moveToSent.accesskey         "C">
-<!ENTITY requestMDN.label             "Khi tôi nhận được yêu cầu về xác nhận nhận thư:">
+<!ENTITY requestMDN.label             "Khi tôi nhận được yêu cầu về xác nhận đã nhận thư:">
 <!ENTITY returnSome.label             "Cho phép xác nhận đã nhận thư cho một số thư">
 <!ENTITY returnSome.accesskey         "b">
 <!ENTITY never.label                  "Không bao giờ gửi xác nhận đã nhận thư">
