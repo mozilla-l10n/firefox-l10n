@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लॉगिन व पासवर्ड
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = लॉगिन शोधा
-
 create-login-button = नविन लॉगिन बनवा
-
 fxaccounts-sign-in-text = आपल्या इतर उपकरणांवर आपले पासवर्ड मिळवा
 fxaccounts-sign-in-sync-button = सींक करण्यासाठी साइन इन करा
 fxaccounts-avatar-button =
@@ -61,7 +56,6 @@ about-logins-list-item-breach-icon =
     .title = उल्लंघीत वेबसाईट
 about-logins-list-item-vulnerable-password-icon =
     .title = असुरक्षित पासवर्ड
-
 about-logins-list-section-breach = ब्रीच झालेल्या वेबसाइट्स
 about-logins-list-section-vulnerable = असुरक्षित पासवर्ड
 about-logins-list-section-nothing = कोणताही अलर्ट नाही
@@ -111,16 +105,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = जतन केलेले लॉगिन संपादित करा
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = जतन केलेला पासवर्ड दाखवा.
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = जतन केलेला पासवर्ड कॉपी करा
-
-## Master Password notification
 
 ## Primary Password notification
 
@@ -128,26 +118,20 @@ master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = रद्द करा
 confirmation-dialog-dismiss-button =
     .title = रद्द करा
-
 about-logins-confirm-remove-dialog-title = लॉगिन मिटवायचे?
 confirm-delete-dialog-message = ही कृती बदलू शकत नाही
 about-logins-confirm-remove-dialog-confirm-button = काढा
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } लॉगिन काढायचे का?
        *[other] सर्व { $count } लॉगिन काढायचे का?
     }
-
 about-logins-confirm-export-dialog-confirm-button = निर्यात…
-
 confirm-discard-changes-dialog-title = जतन न केलेले बदल टाकून द्यायचे?
 confirm-discard-changes-dialog-message = सर्व जतन न केलेले बदल गमावले जातील.
 confirm-discard-changes-dialog-confirm-button = रद्द करा
@@ -182,6 +166,14 @@ about-logins-export-file-picker-export-button = निर्यात करा
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = झाले
+about-logins-import-dialog-error-title = आयात त्रुटी
+about-logins-import-dialog-error-file-format-title = फाइल फॉरमॅट संबंधित समस्या
+about-logins-import-dialog-error-file-permission-title = फाईल वाचण्यात अक्षम
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ला फाइल वाचण्याची परवानगी नाही. फाइल परवानग्या बदलण्याचा प्रयत्न करा.
+about-logins-import-dialog-error-unable-to-read-description = तुम्ही CSV किंवा TSV फाइल निवडल्याची खात्री करा.
+about-logins-import-dialog-error-no-logins-imported = कोणतेही लॉगिन आयात केले गेलेले नाही
+about-logins-import-dialog-error-learn-more = अधिक जाणा
 
 ##
 ## Variables:
