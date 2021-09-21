@@ -129,3 +129,5 @@ cfr-doorhanger-video-support-primary-button = Opdater nu
 
 spotlight-public-wifi-vpn-primary-button = Beskyt dit privatliv med { -mozilla-vpn-brand-name }
     .accesskey = B
+spotlight-public-wifi-vpn-link = Ikke nu
+    .accesskey = k
