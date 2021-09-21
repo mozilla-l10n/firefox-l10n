@@ -46,6 +46,8 @@ cfr-doorhanger-fission-secondary-button = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-primary-button = ᱱᱤᱛᱚᱜ ᱟᱹᱯᱰᱮᱴ ᱢᱮ
+    .accesskey = ᱱ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
