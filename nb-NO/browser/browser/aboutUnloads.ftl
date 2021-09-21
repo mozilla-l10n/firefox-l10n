@@ -7,8 +7,17 @@
 ### feature.
 
 about-unloads-page-title = Frigjør fane
+about-unloads-intro-2 =
+    Eksisterende faner vises i tabellen nedenfor i samme rekkefølge som brukes av
+    { -brand-short-name } for å velge neste fane som skal frigjøres. Prosess-ID-er
+    vises med <strong>fet</strong> når de inneholder fanens øverste
+    ramme, og med <em>kursiv</em> når prosessen deles mellom forskjellige
+    faner. Du kan utløse frigjøring av faner manuelt ved å klikke på <em>Frigjør</em>-
+    knappen nedenfor.
+about-unloads-last-updated = Sist oppdatert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigjør
     .title = Frigjør fanen med høyeste prioritet
+about-unloads-no-unloadable-tab = Det finnes ingen faner som kan frigjøres.
 about-unloads-column-priority = Prioritet
 about-unloads-column-host = Server
 about-unloads-column-last-accessed = Sist åpnet
