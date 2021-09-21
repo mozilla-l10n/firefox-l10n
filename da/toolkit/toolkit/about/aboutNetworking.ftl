@@ -20,6 +20,7 @@ about-networking-active = Aktiv
 about-networking-idle = Inaktiv
 about-networking-host = Vært
 about-networking-tcp = TCP
+about-networking-type = Type
 about-networking-sent = Sendt
 about-networking-received = Modtaget
 about-networking-family = Familie
