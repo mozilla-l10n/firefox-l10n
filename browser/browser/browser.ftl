@@ -520,6 +520,12 @@ urlbar-result-action-search-tabs = Søg i faneblade
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Forslag fra { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -727,6 +733,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Vis ikke denne besked når pop op-vinduer bliver blokeret
     .accesskey = V
+edit-popup-settings =
+    .label = Håndter pop op-indstillinger
+    .accesskey = H
 picture-in-picture-hide-toggle =
     .label = Skjul kontakt for billed-i-billed
     .accesskey = S
