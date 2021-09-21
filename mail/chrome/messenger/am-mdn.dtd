@@ -9,7 +9,7 @@
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Tùy biến chứng nhận hồi báo cho tài khoản này">
 <!ENTITY useCustomPrefs.accesskey     "y">
-<!ENTITY requestReceipt.label         "Khi gửi thư, luôn luôn yêu cầu chứng chận hồi báo">
+<!ENTITY requestReceipt.label         "Khi gửi thư, luôn luôn yêu cầu gửi lại biên nhận">
 <!ENTITY requestReceipt.accesskey     "K">
 <!ENTITY receiptArrive.label          "Khi một chứng nhận đến:">
 <!ENTITY leaveIt.label                "Để nó trong Hộp thư của tôi">
