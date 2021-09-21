@@ -118,4 +118,8 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Håndter bogmærker
     .accesskey = g
+places-forget-about-this-site-confirmation-title = Glemmer dette websted
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Denne handling fjerner alle data relateret til { $hostOrBaseDomain } herunder historik, adgangskoder, cookies, cachet indhold og indholdsspecifikke indstillinger. Er du sikker på, at du vil fortsætte?
 places-forget-about-this-site-forget = Glem
