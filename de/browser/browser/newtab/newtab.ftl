@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Suchen
     .aria-label = Suchen
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Mit { $engine } suchen oder Adresse eingeben
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Suche oder Adresse eingeben
     .title = Suche oder Adresse eingeben
     .aria-label = Suche oder Adresse eingeben
-
 newtab-search-box-search-the-web-input =
     .placeholder = Das Web durchsuchen
     .title = Das Web durchsuchen
     .aria-label = Das Web durchsuchen
-
 newtab-search-box-text = Das Web durchsuchen
 newtab-search-box-input =
     .placeholder = Das Web durchsuchen
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Verknüpfung bearbeiten
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Name eingeben
-
 newtab-topsites-url-label = Adresse
 newtab-topsites-url-input =
     .placeholder = Eine Adresse eingeben oder einfügen
 newtab-topsites-url-validation = Gültige Adresse erforderlich
-
 newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 newtab-topsites-image-validation = Grafik konnte nicht geladen werden. Verwenden Sie eine andere Adresse.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = Gesponsert
 newtab-menu-section-tooltip =
     .title = Menü öffnen
     .aria-label = Menü öffnen
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Entfernen
     .aria-label = Entfernen
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,16 +161,19 @@ newtab-label-removed-bookmark = Lesezeichen entfernt
 newtab-label-recommended = Beliebt
 newtab-label-saved = Bei { -pocket-brand-name } gespeichert
 newtab-label-download = Heruntergeladen
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Gesponsert
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Gesponsert von { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -212,7 +208,6 @@ newtab-section-header-pocket = Empfohlen von { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Surfen Sie los und wir zeigen Ihnen hier einige der interessanten Artikel, Videos und anderen Seiten, die Sie kürzlich besucht oder als Lesezeichen gespeichert haben.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
