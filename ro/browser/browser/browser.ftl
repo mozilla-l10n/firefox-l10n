@@ -594,6 +594,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Elimini { $name }?
+addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
 
 ## Remote / Synced tabs
 
