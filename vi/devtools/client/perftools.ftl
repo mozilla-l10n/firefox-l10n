@@ -38,7 +38,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Kích thước đệm:
-
+perftools-custom-threads-label = Thêm luồng tùy chỉnh theo tên:
 perftools-devtools-interval-label = Khoảng thời gian
 perftools-devtools-threads-label = Luồng:
 perftools-devtools-settings-label = Cài đặt
@@ -59,6 +59,8 @@ perftools-request-to-get-profile-and-stop-profiler = Đang ghi hồ sơ
 ##
 
 perftools-button-start-recording = Bắt đầu ghi
+perftools-button-capture-recording = Bắt đầu ghi
+perftools-button-cancel-recording = Hủy bỏ ghi
 perftools-button-save-settings = Lưu cài đặt và quay lại
 perftools-button-restart = Khởi động lại
 perftools-button-add-directory = Thêm một thư mục
@@ -73,6 +75,8 @@ perftools-thread-renderer =
     .title = Khi WebRender được bật, luồng đó sẽ thực thi lệnh gọi OpenGL
 perftools-thread-render-backend =
     .title = Luồng WebRender RenderBackend
+perftools-thread-img-decoder =
+    .title = Luồng giải mã hình ảnh
 
 ##
 
@@ -82,7 +86,5 @@ perftools-thread-render-backend =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Mới</b>: { -profiler-brand-name } hiện được tích hợp vào Công cụ nhà phát triển. <a>Tìm hiểu thêm</a> về công cụ mới mạnh mẽ này.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Trong thời gian giới hạn, bạn có thể truy cập bảng hiệu suất ban đầu qua <a>{ options-context-advanced-settings }</a>)
-
