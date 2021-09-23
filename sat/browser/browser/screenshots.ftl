@@ -4,4 +4,5 @@
 
 screenshots-instructions = ᱡᱟᱭᱜᱟ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱪᱫ ᱚᱨ ᱟᱬᱜᱚᱭ ᱢᱨ ᱟᱨ ᱵᱟᱝ ᱥᱟᱦᱴᱟ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾ ᱵᱟᱹᱰᱨᱟᱹ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
 screenshots-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
-
+screenshots-copy-button = ᱱᱚᱠᱚᱞ
+screenshots-copy-button-tooltip = ᱨᱮᱴᱚᱯᱵᱚᱰ ᱨᱮ ᱵᱮᱨᱮᱞ ᱰᱟᱴᱟ ᱱᱚᱠᱚᱞ ᱢᱮ

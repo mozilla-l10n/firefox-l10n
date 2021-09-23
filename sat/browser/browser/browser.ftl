@@ -190,6 +190,8 @@ urlbar-go-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ᱥᱟᱶ ᱯᱟᱱᱛᱮ
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

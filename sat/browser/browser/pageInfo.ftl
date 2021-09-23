@@ -2,14 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
 menu-copy =
     .label = नोकोल
     .accesskey = C
-
 menu-select-all =
     .label = जोतो बाछाव
     .accesskey = A
-
 general-tab =
     .label = साधारोन
     .accesskey = G
@@ -29,7 +29,6 @@ general-meta-name =
     .label = ञुतुम
 general-meta-content =
     .label = बिसोय
-
 media-tab =
     .label = मिडिया
     .accesskey = M
@@ -54,13 +53,11 @@ media-long-desc =
 media-save-image-as =
     .label = लेका सांचाव…
     .accesskey = e
-
 perm-tab =
     .label = छाड को
     .accesskey = P
 permissions-for =
     .value = ला़गित् छा़ड को:
-
 security-tab =
     .label = जा़पती
     .accesskey = S
@@ -79,14 +76,10 @@ security-view-identity-verifier =
     .value = दाराय ते ञेल मिला़व:
 security-view-privacy =
     .value = निजेर हिता़ल
-
 security-view-privacy-history-value = चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?
-
 security-view-privacy-passwords-value = चेत् इञ नोवा वेब साइट ला़गित् जाहान दानाङ साबाद सांचाव आकाना ?
-
 security-view-technical =
     .value = टेकनिकाल पुरा़ बिबरोन को.
-
 help-button =
     .label = गोड़ो
 
@@ -95,6 +88,7 @@ help-button =
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
 
 ##
 
@@ -116,7 +110,6 @@ media-video = बिडियो
 media-audio = साडे आंजोमाक्
 saved-passwords-yes = हें
 saved-passwords-no = बाङ
-
 no-page-title =
     .value = बाङ ञुतुमाक् साहटा:
 general-quirks-mode =
@@ -131,14 +124,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = हुड़ाक् बेभार मे
 security-no-visits = बाङ
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } चिता़र
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -148,13 +139,11 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px रे नाप)
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -162,11 +151,10 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } खोन चिता़र को आकोट.
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = साहटा ला़य सोदोर  - { $website }
 page-info-frame =
