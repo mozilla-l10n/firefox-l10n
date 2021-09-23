@@ -5,41 +5,28 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱡᱟᱹᱯᱛᱤ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢᱮ ᱵᱮᱵᱷᱟᱨᱮᱜ ᱟᱭ ᱾
-
 cert-error-mitm-intro = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱥᱟᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱱᱦᱟᱹᱯᱚᱜ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱟᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱚᱛᱷᱚᱨᱤᱴᱭ ᱮ ᱮᱢᱚᱜᱼᱟᱭ ᱾
-
 cert-error-mitm-mozilla = { -brand-short-name } ᱫᱚ ᱱᱤᱨ ᱞᱟᱵᱷ Mozilla ᱮ ᱜᱚᱲᱚ ᱮᱢ ᱟᱠᱟᱫᱟᱭ, ᱚᱠᱚᱭ ᱫᱚ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡᱟᱜ (CA) ᱫᱚᱠᱟᱱ ᱛᱚᱨᱟᱣ ᱮᱫᱟᱭ ᱾ CA ᱫᱚᱠᱟᱱ ᱫᱚ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱠᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡᱟᱜ ᱵᱮᱥ ᱮ ᱠᱟᱹᱢᱤ ᱮᱫᱟᱭ ᱾
-
+cert-error-mitm-connection = { -brand-short-name } ᱫᱚ ᱡᱩᱲᱟᱹᱣ ᱯᱚᱨᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ Mozilla CA ᱫᱚᱠᱟᱱ ᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱭ, ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱼᱟᱜ ᱱᱤᱡᱚᱨ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱾ ᱢᱮᱱᱠᱷᱟᱱ, ᱡᱩᱫᱤ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱱᱴᱤᱵᱷᱟᱭᱨᱚᱥ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱮᱴᱣᱟᱨᱠ ᱡᱩᱲᱟᱹᱣ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ CA ᱡᱟᱹᱨᱤ ᱠᱟᱫ Mozilla CA ᱥᱴᱚᱨ ᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱵᱟᱝ ᱴᱷᱤᱠ ᱟ ᱾
+cert-error-trust-unknown-issuer-intro = ᱡᱟᱦᱟᱸᱭ ᱠᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱡᱟᱹᱞᱤ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱪᱷᱚ ᱪᱮᱥᱴᱟ ᱟᱠᱟᱫᱼᱟ ᱠᱚ ᱟᱨ ᱟᱢ ᱫᱚ ᱵᱟᱝ ᱞᱟᱦᱟ ᱠᱟᱛᱷᱟ ᱾
 cert-error-trust-cert-invalid = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱢᱤᱫ ᱵᱟᱝ ᱵᱟᱛᱟᱣ CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱫᱟᱨᱟᱭ ᱛᱮ ᱮᱢ ᱟᱠᱟᱱᱟ ᱾
-
 cert-error-trust-untrusted-issuer = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱫᱚ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱚᱫᱟᱜ ᱡᱮ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱮᱢᱚᱜᱤᱡ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱜ ᱠᱟᱱᱟ ᱾
-
 cert-error-trust-signature-algorithm-disabled = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱚᱜ ᱡᱮ ᱱᱚᱶᱟ ᱜᱚᱞᱟᱝ ᱮᱞᱮᱠᱷ ᱴᱩᱰᱟᱹᱜ ᱥᱩᱦᱤ ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱥᱩᱦᱤ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱚᱠᱟ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱜᱚᱞᱚᱝ ᱮᱞᱮᱠᱷ ᱴᱩᱰᱟᱹᱜ ᱵᱟᱭ ᱡᱟᱹᱯᱛᱤ ᱟ ᱾
-
 cert-error-trust-expired-issuer = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ ᱚᱠᱛᱚ ᱪᱟᱵᱟ ᱟᱠᱟᱱᱟ ᱾
-
 cert-error-trust-self-signed = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱚᱶᱟ ᱱᱤᱡᱮ ᱥᱩᱦᱤᱭᱟᱜ ᱠᱟᱱᱟ ᱾
-
 cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, ᱟᱨ VeriSign ᱠᱚ ᱮᱢ ᱪᱷᱚ ᱠᱟᱫ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱫᱚ ᱟᱨ ᱵᱟᱝ ᱡᱟᱹᱯᱛᱤᱭᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩ ᱫᱚ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱠᱟᱹᱢᱤ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱛᱟᱦᱮᱸ ᱠᱟᱱ ᱛᱟᱠᱚᱣᱟ ᱾
-
 cert-error-untrusted-default = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱥᱨᱚᱛ ᱠᱷᱚᱱ ᱵᱟᱭ ᱦᱮᱡ ᱟᱠᱟᱱᱟ ᱾
-
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ᱵᱷᱩᱞ ᱠᱳᱰ: <a data-l10n-name="error-code-link">{ $error }</a>
-
 cert-error-symantec-distrust-admin = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱵᱟᱵᱚᱛ ᱟᱢ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱮᱰᱢᱤᱱᱤᱥᱴᱨᱮᱴᱚᱨ ᱮᱢ ᱮᱛᱞᱟ ᱫᱟᱲᱮᱟᱭᱟ ᱾
-
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP ᱥᱴᱨᱤᱠᱴ ᱴᱨᱟᱱᱥᱯᱚᱴ ᱥᱮᱠᱭᱚᱨᱤᱴᱭ: { $hasHSTS }
-
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP ᱯᱟᱹᱵᱞᱤᱠ ᱠᱤᱭ ᱯᱤᱱᱤᱝ: { $hasHPKP }
-
 cert-error-details-cert-chain-label = ᱯᱚᱨᱢᱟᱱ ᱪᱮᱱᱺ
-
 open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱟᱭᱤᱴ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 
 ## Messages used for certificate error titles
