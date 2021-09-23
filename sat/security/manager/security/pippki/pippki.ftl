@@ -13,8 +13,6 @@ change-password-old = नितोगाक् दानाङ साबाद :
 change-password-new = नावा दानाङ साबाद :
 change-password-reenter = नावा दानाङ साबाद (दोहड़ा ):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -32,8 +30,8 @@ download-cert-trust-email =
     .label = इमेल बेभार को उपरुम ला़गित् नोवा  CA पा़तया़वाक् मे .
 download-cert-message-desc = जाहान कारोन ला़गित् नोवा CA चेतान पा़तया़व माड़ाङ , आम उनियाक् पोरमान साकाम ञेल बिड़ाव ला़कती आर उनीयाक् निती आर का़मी होरा  (जुदी ञामोक् आ ).
 download-cert-view-cert =
-    .label = ञेनेल
-download-cert-view-text = CA पोरमान साकाम ञेल बिड़ाव
+    .label = ᱧᱮᱱᱮᱞ
+download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ ᱵᱤᱲᱟᱹᱣ
 
 ## Client Authorization Ask dialog
 

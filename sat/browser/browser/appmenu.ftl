@@ -13,6 +13,8 @@ appmenuitem-new-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
 appmenuitem-history =
     .label = ᱱᱟᱜᱟᱢ
+appmenuitem-downloads =
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 appmenuitem-passwords =
     .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 appmenuitem-addons-and-themes =
@@ -31,6 +33,9 @@ appmenuitem-settings =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = ᱟᱢᱟᱠ ᱴᱮᱵ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱱᱚᱸᱱᱰᱮ ᱧᱮᱞ ᱪᱷᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟᱢ ᱥᱮ?
 appmenuitem-save-page =
     .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
 
