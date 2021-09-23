@@ -21,8 +21,20 @@ appmenuitem-addons-and-themes =
     .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
 appmenuitem-print =
     .label = ᱪᱷᱟᱯᱟ…
+appmenuitem-find-in-page =
+    .label = ᱥᱟᱦᱴᱟ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ…
 appmenuitem-zoom =
     .value = ᱡᱩᱢ
+appmenuitem-more-tools =
+    .label = ᱵᱟᱹᱲᱛᱤ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
+appmenuitem-help =
+    .label = ᱜᱚᱲᱚ
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] ᱵᱟᱹᱜᱤ
+           *[other] ᱵᱟᱹᱜᱤ
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -36,6 +48,7 @@ appmenuitem-settings =
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ᱟᱢᱟᱠ ᱴᱮᱵ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱱᱚᱸᱱᱰᱮ ᱧᱮᱞ ᱪᱷᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟᱢ ᱥᱮ?
+appmenuitem-fxa-toolbar-sync-now2 = ᱱᱤᱛᱚᱜ ᱥᱤᱸᱝᱠ ᱢᱮ
 appmenuitem-save-page =
     .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
 

@@ -293,6 +293,7 @@ panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
 
 ## Remote / Synced tabs
 
+remote-tabs-sync-now = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
 
 ##
 
