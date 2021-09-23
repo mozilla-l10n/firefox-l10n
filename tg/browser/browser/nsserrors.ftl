@@ -12,13 +12,10 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } хато ба миён омад. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
-
 psmerr-ssl-disabled = Ба таври бехатар пайваст карда наметавонад, зеро ки протоколи SSL ғайрифаъол карда шуд.
-
 ssl-error-unsupported-certificate-type = Навъи ин гувоҳинома дастгирӣ намешавад.
 ssl-error-post-warning = Рамзи номаълуми хатои SSL.
 ssl-error-bad-mac-read = SSL сабтеро бо рамзи нодурусти паёми санҷиши ҳаққоният қабул кард.
@@ -27,6 +24,7 @@ ssl-error-bad-cert-alert = Ҳамсони SSL гувоҳиномаи шумор�
 ssl-error-revoked-cert-alert = Ҳамсони SSL гувоҳиномаи шуморо ҳамчун лағвшуда рад кард.
 ssl-error-expired-cert-alert = Ҳамсони SSL гувоҳиномаи шуморо ҳамчун аз муҳлаташ гузашта рад кард.
 ssl-error-ssl-disabled = Пайваст нашуд: SSL ғайрифаъол аст.
+ssl-error-unknown-cipher-suite = Маҷмӯъи рамзҳои SSL-и номаълум дархост карда шуд.
 ssl-error-rx-malformed-hello-request = SSL паёми вайроншудаи дастфишории «Дархости салом»-ро қабул кард.
 ssl-error-rx-malformed-client-hello = SSL паёми вайроншудаи дастфишории «Саломи муштарӣ»-ро қабул кард.
 ssl-error-rx-malformed-server-hello = SSL паёми вайроншудаи дастфишории «Саломи сервер»-ро қабул кард.
