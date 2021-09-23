@@ -5,15 +5,12 @@
 app-manager-window =
     .title = एपलिकेसोन पुरा़ बिबरोन .
     .style = width: 30em; min-height: 20em;
-
 app-manager-remove =
-    .label = ओचोक्
-    .accesskey = R
-
+    .label = ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = ᱚ
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = नोवा एपलिकेसोन साब सोझे ला़गित् बेभार दाड़ेयाक्  { $type }खोंजा को.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = नोवा एपलिकेसोन साब सोझे ला़गित् बेभार दाड़ेयाक्  { $type } बिसोय.
