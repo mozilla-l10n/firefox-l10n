@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = సిఫార్సు చేసిన సౌ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ఇది నేను ఎందుకు చూస్తున్నాను
-
 cfr-doorhanger-extension-cancel-button = ఇప్పుడు వద్దు
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = ఇప్పుడే చేర్చు
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = సిఫారసు అమరికలను నిర్వహించండి
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } నుండి
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = సిఫార్సు
 cfr-doorhanger-extension-notification2 = సిఫార్సు
     .tooltiptext = పొడగింత సిఫార్సు
     .a11y-announcement = పొడగింత సిఫార్సు అందుబాటులో ఉంది
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = సిఫార్సు
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } వాడుకరులు
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = మీ ఇష్టాంశాలను ప్రతిచోటా సింక్రనించుకోండి.
@@ -87,50 +77,15 @@ cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = కొత్త విశేషం:
-
 cfr-whatsnew-button =
     .label = కొత్తవి ఏమిటి
     .tooltiptext = కొత్తవి ఏమిటి
-
 cfr-whatsnew-release-notes-link-text = విడుదల గమనికలను చదవండి
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడండి
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = మూసివేయి
     .accesskey = C
 
@@ -160,3 +115,5 @@ cfr-doorhanger-video-support-primary-button = ఇప్పుడే తాజా
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = ఇప్పుడు కాదు
+    .accesskey = N

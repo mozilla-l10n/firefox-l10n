@@ -66,6 +66,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = తెరిచివున్న ట్యాబులు లేవు
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడడానికి ట్యాబ్ సింక్ ను ప్రారంభించండి.
+appmenu-remote-tabs-opensettings =
+    .label = అమరికలు
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?
