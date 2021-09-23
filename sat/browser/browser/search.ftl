@@ -10,8 +10,7 @@
 
 opensearch-error-duplicate-title = बोहाल भुल
 opensearch-error-duplicate-desc = { -brand-short-name } खोन पानते खोंजा आदेर बाङ बोहाल दाड़ेयाक्  "{ $location-url }" चेदाक् जे सोमान ञुतुम सां व मित् इंजिन माड़ाङ खोन मेनाक् आ .
-
-opensearch-error-download-title = आ़तुर आ़डगो भुल
+opensearch-error-download-title = ᱰᱟᱩᱱᱞᱚᱰ ᱵᱷᱩᱞ
 opensearch-error-download-desc = { -brand-short-name } खोन पानते खोंजा आदेर बाङ आ़तुर आंड़गो दाड़ेयाक् आ: { $location-url }
 
 ##

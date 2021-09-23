@@ -41,7 +41,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyButton.label            "ᱱᱟᱜᱟᱢ">
 
-<!ENTITY downloads.label              "आ़तुर आंड़गो">
+<!ENTITY downloads.label              "ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 
