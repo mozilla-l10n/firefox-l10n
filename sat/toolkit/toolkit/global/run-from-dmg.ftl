@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name } ᱵᱚᱦᱟᱞ ᱪᱟᱵᱟ ᱮᱱᱟ ᱥᱮ?
+prompt-to-install-message = { -brand-short-name } ᱟᱹᱯ ᱴᱩ ᱰᱮᱴ ᱟᱨ ᱰᱟᱴᱟ ᱟᱫ ᱠᱚ ᱟᱞᱚ ᱦᱩᱭᱩᱜ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱴᱮᱯ ᱵᱚᱦᱟᱞ ᱪᱟᱵᱟᱭᱢᱮ ᱾ { -brand-short-name } ᱫᱚ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱯᱚᱴᱚᱢ ᱟᱨ ᱰᱚᱠ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾
 prompt-to-install-yes-button = ᱵᱚᱦᱟᱞ ᱢᱮ
 prompt-to-install-no-button = ᱟᱞᱚᱢ ᱵᱚᱦᱟᱞᱟ
 
