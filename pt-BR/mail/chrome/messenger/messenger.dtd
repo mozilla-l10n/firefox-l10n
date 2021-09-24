@@ -645,7 +645,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "E">
 <!ENTITY folderContextUnsubscribe.label "Cancelar inscrição">
 <!ENTITY folderContextUnsubscribe.accesskey "C">
-<!ENTITY folderContextMarkNewsgroupRead.label "Marcar newsgroup como lido">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de notícias como lido">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcar a pasta como lida">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">
@@ -748,7 +748,7 @@
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder só ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Responder ao grupo">
+<!ENTITY contextReplyNewsgroup2.label "Responder ao grupo de notícias">
 <!ENTITY contextReplyNewsgroup2.accesskey "p">
 <!ENTITY contextReplyAll.label "Re: Todos">
 <!ENTITY contextReplyAll.accesskey "T">
@@ -877,7 +877,7 @@
 <!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Ver contato">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Inscrever o newsgroup">
+<!ENTITY SubscribeToNewsgroup.label "Inscrever-se no grupo de notícias">
 <!ENTITY SubscribeToNewsgroup.accesskey "I">
 <!ENTITY SendMessageTo.label "Nova mensagem para">
 <!ENTITY SendMessageTo.accesskey "N">
@@ -885,7 +885,7 @@
 <!ENTITY CopyEmailAddress.accesskey "o">
 <!ENTITY CopyNameAndEmailAddress.label "Copiar nome e endereço de email">
 <!ENTITY CopyNameAndEmailAddress.accesskey "N">
-<!ENTITY CopyNewsgroupName.label "Copiar o nome do newsgroup">
+<!ENTITY CopyNewsgroupName.label "Copiar o nome do grupo de notícias">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
