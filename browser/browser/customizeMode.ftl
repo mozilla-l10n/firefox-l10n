@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Annulla
 customize-mode-lwthemes-my-themes =
     .value = I miei temi
+customize-mode-lwthemes-link = Gestisci temi
 customize-mode-touchbar-cmd =
     .label = Personalizza Touch Bar…
 customize-mode-downloads-button-autohide =
