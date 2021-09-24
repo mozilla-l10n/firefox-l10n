@@ -34,17 +34,22 @@
 
 <!ENTITY cmd.backup.label               "Нусхаи эҳтиётӣ…">
 <!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "Барқарор кардан">
+<!ENTITY cmd.restore2.accesskey         "Б">
 <!ENTITY cmd.restoreFromFile.label      "Интихоб кардани файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Ном">
 <!ENTITY col.tags.label          "Барчаспҳо">
 <!ENTITY col.url.label           "Ҷойгиршавӣ">
+<!ENTITY col.dateadded.label     "Илова шуд">
+<!ENTITY col.lastmodified.label  "Тағйири охирин">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Воридот ва нусхаи эҳтиётӣ">
 <!ENTITY maintenance.tooltip    "Воридот ва нусхаи эҳтиётии хатбаракҳо">
 
+<!ENTITY backButton.tooltip  "Бозгашт">
 
 

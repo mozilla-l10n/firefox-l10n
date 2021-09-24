@@ -20,8 +20,8 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Паймоиш">
-
 <!ENTITY fullScreenCmd.label "Экрани пурра">
+
 
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -32,18 +32,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-
 <!ENTITY printButton.label            "Чоп кардан">
 <!ENTITY printButton.tooltip          "Чоп кардани саҳифаи ҷорӣ">
 
@@ -52,6 +40,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Саҳифаи асосӣ">
 <!ENTITY homeButton.defaultPage.tooltip "Саҳифаи асосии &brandShortName;">
+
+<!-- Toolbar items -->
 
 <!ENTITY historyButton.label            "Таърих">
 
@@ -97,7 +87,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.unverified.label "Ҳисоби шумо бояд тасдиқ карда шавад.">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Пайваст кардани дастгоҳи дигар">
 
-
 <!ENTITY customizeMenu.addToToolbar.label "Илова кардан ба навори абзорҳо">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -124,6 +113,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullZoom.label                 "Танзими андоза">
 
+<!ENTITY sidebarCloseButton.tooltip     "Пӯшидани навори ҷонибӣ">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -134,15 +124,18 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY findOnCmd.label     "Ҷустуҷӯ дар ин саҳифа…">
 
+<!ENTITY spellAddDictionaries.label "Илова кардани луғатҳо…">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Варақаҳои браузер">
 
-
+<!ENTITY uiTour.infoPanel.close "Пӯшидан">
 
 <!ENTITY panicButton.thankyou.msg1                "Таърихи охирини шумо тоза карда шуд.">
+<!ENTITY panicButton.thankyou.buttonlabel         "Ташаккур!">
 
+<!ENTITY sendToDevice.syncNotReady.label "Ҳамоҳангсозии дастгоҳҳо…">
 
 <!ENTITY libraryButton.tooltip "Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра">
 
