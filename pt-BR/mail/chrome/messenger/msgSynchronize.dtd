@@ -18,6 +18,6 @@
 <!ENTITY workOffline.accesskey "t">
 <!ENTITY selectButton.label "Selecionar…">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Selecione pastas de mensagens e newsgroups para uso desconectado.">
+<!ENTITY MsgSelectDesc.label "Selecione pastas de mensagens e grupos de notícias para uso desconectado.">
 <!ENTITY MsgSelectInd.label "Receber">
-<!ENTITY MsgSelectItems.label "Pastas e newsgroups">
+<!ENTITY MsgSelectItems.label "Pastas e grupos de notícias">
