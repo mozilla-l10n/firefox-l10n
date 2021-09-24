@@ -351,7 +351,7 @@ urlbar-placeholder =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Որոնեք { $name }-ով կամ մուտքագրեք հասցե
+    .placeholder = Որոնեք { $name }-ում կամ մուտքագրեք հասցե
 urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:
 urlbar-switch-to-tab =
