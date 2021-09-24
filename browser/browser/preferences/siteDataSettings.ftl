@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Gerenciar cookies e dados de sites
-site-data-settings-description = Os seguintes sites armazenam cookies e dados de site no seu computador. O { -brand-short-name } mantém dados de sites com armazenamento persistente até você excluí-los, e apaga dados de sites com armazenamento não persistente à medida que necessita de espaço.
+site-data-settings-description = Os seguintes sites armazenam cookies e dados no seu computador. O { -brand-short-name } mantém dados de sites com armazenamento persistente até você excluir e apaga dados de sites com armazenamento não persistente à medida que necessita de espaço.
 site-data-search-textbox =
     .placeholder = Pesquisar sites
     .accesskey = P
