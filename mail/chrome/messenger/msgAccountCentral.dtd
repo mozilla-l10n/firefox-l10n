@@ -6,8 +6,8 @@
 <!ENTITY readMsgsLink.label           "Ler mensagens">
 <!ENTITY composeMsgLink.label         "Escrever nova mensagem">
 
-<!ENTITY newsSectionHdr.label         "Newsgroups">
-<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de newsgroups">
+<!ENTITY newsSectionHdr.label         "Grupos de notícias">
+<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições em grupos de notícias">
 
 <!ENTITY feedsSectionHdr.label        "RSS">
 <!ENTITY subscribeFeeds.label         "Gerenciar inscrições">
