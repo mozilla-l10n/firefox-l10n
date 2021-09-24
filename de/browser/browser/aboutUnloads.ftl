@@ -14,6 +14,7 @@ about-unloads-intro-1 =
     basierend auf mehreren Eigenschaften ausgewählt. Diese Seite zeigt, wie
     { -brand-short-name } Tabs priorisiert und welche Tabs entladen werden,
     wenn die Tab-Entladung ausgelöst wird.
+about-unloads-last-updated = Zuletzt aktualisiert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Entladen
     .title = Den Tab mit der höchsten Priorität entladen
 about-unloads-no-unloadable-tab = Es gibt keine Tabs, die entladen werden können.
