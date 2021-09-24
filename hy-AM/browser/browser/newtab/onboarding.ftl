@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding modal / about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
-## These button action text can be split onto multiple lines, so use explicit
-## newlines in translations to control where the line break appears (e.g., to
-## avoid breaking quoted text).
-
-## Welcome modal dialog strings
-
-
 ### UI strings for the simplified onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -24,28 +12,12 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ## Welcome page strings
 
 onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
 onboarding-start-browsing-button-label = Սկսել դիտարկումը
-
-## Welcome full page string
-
-## Firefox Sync modal dialog strings.
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-## Message strings belonging to the Return to AMO flow
+onboarding-not-now-button-label = Ոչ հիմա
 
 ## Custom Return To AMO onboarding strings
 
@@ -56,8 +28,16 @@ onboarding-start-browsing-button-label = Սկսել դիտարկումը
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Բարի գալուստ <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Մուտք գործել
+onboarding-multistage-set-default-secondary-button-label = Ոչ հիմա
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Ներմուծեք ձեր գանղտնաբառերը, <br/>էջանիշերը և <span data-l10n-name="zap">ավելին</span>
+onboarding-multistage-import-secondary-button-label = Ոչ հիմա
 
 ## Multistage onboarding strings (about:welcome pages)
+
+onboarding-multistage-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
+onboarding-multistage-theme-secondary-button-label = Ոչ հիմա
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -66,6 +46,7 @@ onboarding-multistage-welcome-secondary-button-label = Մուտք գործել
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -74,6 +55,18 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Այս ամենը բերեք ձեզ հետ
+mr1-onboarding-import-subtitle = Ներմուծեք ձեր գանղտնաբառերը, էջանիշերը և ավելին:
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Ներմուծել { $previous }-ից
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ զննիչից
+mr1-onboarding-import-secondary-button-label = Ոչ հիմա
+mr1-onboarding-theme-header = Դարձրեք այն ձերը
+mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
+mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -85,7 +78,7 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
 
