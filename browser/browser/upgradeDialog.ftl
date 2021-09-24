@@ -35,3 +35,4 @@ upgrade-dialog-pin-secondary-button = Ոչ հիմա
 
 ## Theme selection screen
 
+upgrade-dialog-theme-primary-button = Պահել ոճը
