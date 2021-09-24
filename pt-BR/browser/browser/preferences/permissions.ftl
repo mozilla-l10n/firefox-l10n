@@ -5,77 +5,59 @@
 permissions-window =
     .title = Exceções
     .style = width: 45em
-
 permissions-close-key =
     .key = W
-
 permissions-address = Endereço do site
-    .accesskey = e
-
+    .accesskey = E
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir nesta sessão
     .accesskey = n
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desativar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desativar temporariamente
     .accesskey = t
-
 permissions-site-name =
     .label = Site
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Remover site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remover todos os sites
     .accesskey = t
-
 permission-dialog =
     .buttonlabelaccept = Salvar alterações
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Padrão em todos os sites:
-
 permissions-searchbox =
     .placeholder = Pesquisar sites
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir áudio e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear áudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear áudio e vídeo
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Sempre perguntar
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sessão
-
 permissions-capabilities-listitem-off =
     .value = Desativado
 permissions-capabilities-listitem-off-temporarily =
@@ -98,7 +80,7 @@ permissions-exceptions-etp-desc = Você desativou proteções nestes sites.
 permissions-exceptions-cookie-window =
     .title = Exceções - Cookies e dados de sites
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Você pode especificar que sites têm ou não permissão para armazenar cookies e dados de sites no seu computador. Digite o endereço exato de um site e clique em Permitir, Bloquear ou Permitir nesta sessão.
+permissions-exceptions-cookie-desc = Você pode especificar alguns sites para sempre ou nunca ter permissão para armazenar cookies e dados no seu computador. Digite o endereço exato de um site e clique em Permitir, Bloquear ou Permitir nesta sessão.
 
 ## Exceptions - HTTPS-Only Mode
 
