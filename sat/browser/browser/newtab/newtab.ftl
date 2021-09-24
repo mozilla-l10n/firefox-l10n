@@ -5,18 +5,28 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = ᱥᱮᱸᱫᱽᱨᱟ
+    .aria-label = ᱥᱮᱸᱫᱽᱨᱟ
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
+newtab-topsites-url-label = URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 newtab-topsites-delete-history-button = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
 newtab-topsites-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+newtab-topsites-preview-button = ᱢᱟᱲᱟᱝ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ
+newtab-topsites-add-button = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -26,9 +36,28 @@ newtab-topsites-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .aria-label = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = ᱚᱪᱚᱜᱽ ᱢᱮ
+    .aria-label = ᱚᱪᱚᱜᱽ ᱢᱮ
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .aria-label = { $title } ᱞᱟᱹᱜᱤᱫ ᱠᱚᱱᱴᱮᱠᱥᱴ ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+    .aria-label = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = ᱥᱟᱯᱲᱟᱣ
 newtab-menu-delete-history = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.

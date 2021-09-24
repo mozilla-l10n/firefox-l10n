@@ -18,3 +18,5 @@ styleeditor-editor-textbox =
     .data-placeholder = नोडे CSS टाइप मे.
 styleeditor-no-stylesheet = नोवा साहटा रे जाहान हुना़र पातार बा़नुक् आ.
 styleeditor-no-stylesheet-tip = पालेन आम सानाम काना<a data-l10n-name="append-new-stylesheet">मित् नावा हुना़र पातार आकाय मे</a>?
+styleeditor-open-link-new-tab =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱢᱮ

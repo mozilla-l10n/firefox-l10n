@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
+    .accesskey = w
 reload-tab =
     .label = टैब लादे दोहड़ा
     .accesskey = R
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = जोजोम सेत् टैब को बोनदोय में
     .accesskey = i
