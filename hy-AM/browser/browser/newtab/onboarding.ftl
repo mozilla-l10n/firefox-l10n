@@ -38,6 +38,10 @@ onboarding-multistage-import-secondary-button-label = Ոչ հիմա
 
 onboarding-multistage-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
 onboarding-multistage-theme-secondary-button-label = Ոչ հիմա
+onboarding-multistage-theme-label-light = Բաց
+onboarding-multistage-theme-label-dark = Մուգ
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -66,7 +70,14 @@ mr1-onboarding-import-primary-button-label-no-attribution = Ներմուծել �
 mr1-onboarding-import-secondary-button-label = Ոչ հիմա
 mr1-onboarding-theme-header = Դարձրեք այն ձերը
 mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
+mr1-onboarding-theme-primary-button-label = Պահել ոճը
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Համակարգային
+mr1-onboarding-theme-label-light = Բաց
+mr1-onboarding-theme-label-dark = Մուգ
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
