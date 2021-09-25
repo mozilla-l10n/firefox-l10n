@@ -36,3 +36,7 @@ about-unloads-column-memory = Pamięć
     .title = Szacowane użycie pamięci przez kartę
 about-unloads-column-processes = Identyfikatory procesów
     .title = Identyfikatory procesów zawierających treść karty
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
