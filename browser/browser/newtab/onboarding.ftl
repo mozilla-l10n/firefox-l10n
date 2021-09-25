@@ -21,6 +21,7 @@ onboarding-not-now-button-label = এতিয়া নহয়
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = বঢ়িয়া, আপুনি { -brand-short-name } লাভ কৰিলে
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
