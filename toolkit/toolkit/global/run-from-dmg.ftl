@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name } yüklemesi tamamlansın mı?
+prompt-to-install-message = { -brand-short-name } uygulamasını güncel tutmak ve veri kaybını önlemek için bu kurulumu tamamlayın. { -brand-short-name }, Uygulamalar klasörünüze ve Dock’a eklenecektir.
 prompt-to-install-yes-button = Yükle
 prompt-to-install-no-button = Yükleme
 
