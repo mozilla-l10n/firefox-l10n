@@ -227,6 +227,7 @@ about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢ�
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
+about-logins-import-report-row-description-modified = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱚᱞᱚ ᱠᱚ ᱟᱹᱯᱰᱮᱴᱮᱱᱟ
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 about-logins-import-report-row-description-error = ᱵᱷᱩᱞ: ᱟᱫ ᱡᱟᱭᱜᱟ
 
@@ -241,6 +242,18 @@ about-logins-import-report-row-description-error-missing-field = ᱵᱷᱩᱞ: �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱤᱱ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱵᱚᱞᱚ ᱟᱹᱯᱰᱮ ᱮᱱᱟ</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱵᱚᱞᱚ ᱠᱤᱱ ᱛᱟᱢ ᱟᱹᱯᱰᱮ ᱮᱱᱟ</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱵᱚᱞᱚ ᱠᱚ ᱛᱟᱢ ᱟᱹᱯᱰᱮ ᱮᱱᱟ</div>
+    }
 about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
