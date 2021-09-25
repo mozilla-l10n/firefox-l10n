@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = Sekme Boşaltma
+about-unloads-intro-1 = { -brand-short-name }, sistemdeki kullanılabilir bellek yetersizse uygulamanın yetersiz bellek nedeniyle çökmesini önlemek için sekmeleri otomatik olarak boşaltan bir özelliğe sahiptir. Boşaltılacak sekme, birçok özellik göz önünde bulundurarak seçilir. Bu sayfa { -brand-short-name } uygulamasının sekmelere nasıl öncelik verdiğini ve sekme boşaltması tetiklendiği zaman hangi sekmelerin boşaltılacağını göstermektedir.
 about-unloads-last-updated = Son güncelleme: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Boşalt
     .title = En yüksek önceliğe sahip sekmeyi boşalt
