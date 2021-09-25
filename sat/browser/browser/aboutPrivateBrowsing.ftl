@@ -19,5 +19,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 about-private-browsing-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
+about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ

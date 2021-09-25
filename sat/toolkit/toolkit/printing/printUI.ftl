@@ -32,7 +32,10 @@ printui-copies-label = ᱱᱚᱠᱚᱞ ᱠᱚ
 ##
 
 printui-color-mode-color = ᱨᱚᱝ
-printui-margins-min = ᱠᱚᱢ ᱤᱮ ᱠᱮᱢ
+printui-color-mode-bw = ᱦᱮᱸᱫᱮ ᱟᱨ ᱯᱩᱸᱰ
+printui-margins = ᱢᱟᱨᱡᱤᱱ
+printui-margins-default = ᱢᱩᱞ
+printui-margins-min = ᱠᱚᱢ ᱥᱮ ᱠᱚᱢ
 printui-margins-none = ᱡᱟᱦᱱᱟᱜ ᱵᱟᱝ
 printui-margins-custom-inches = ᱠᱚᱥᱴᱚᱢ (inches)
 printui-margins-custom-mm = ᱠᱚᱥᱴᱚᱢ (mm)
