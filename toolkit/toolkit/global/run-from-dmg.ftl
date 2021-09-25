@@ -15,3 +15,4 @@ prompt-to-install-no-button = Ikkje installer
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name } installasjonen var mislykka.
+install-failed-message = Klarte ikkje å installere { -brand-short-name }, men vil fortsetje å køyre.
