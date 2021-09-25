@@ -86,7 +86,7 @@ places-delete-folder =
             [1] Ordner löschen
            *[other] Ordner löschen
         }
-    .accesskey = l
+    .accesskey = s
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Verwaltete Lesezeichen
@@ -113,11 +113,11 @@ places-delete-bookmark =
             [1] Lesezeichen löschen
            *[other] Lesezeichen löschen
         }
-    .accesskey = l
+    .accesskey = s
 places-manage-bookmarks =
     .label = Lesezeichen verwalten
     .accesskey = v
-places-forget-about-this-site-confirmation-title = Diese Website wird vergessen
+places-forget-about-this-site-confirmation-title = Diese Website vergessen
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Diese Aktion entfernt alle Daten, die sich auf { $hostOrBaseDomain } beziehen, einschließlich Chronik, Passwörter, Cookies, Cache und Inhaltseinstellungen. Sind Sie sicher, dass Sie fortfahren möchten?
