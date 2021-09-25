@@ -10,6 +10,7 @@ about-unloads-page-title = Frigjer fane
 about-unloads-last-updated = Sist oppdatert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigjer
     .title = Frigjer fana med høgaste prioritet
+about-unloads-no-unloadable-tab = Det finst ingen faner som kan frigjerast.
 about-unloads-column-priority = Prioritet
 about-unloads-column-host = Vert
 about-unloads-column-last-accessed = Sist opna
