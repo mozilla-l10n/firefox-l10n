@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Preferencje programu
-
 open-addons-sidebar-button = Dodatki i motywy
-
+account-action-add-newsgroup-account =
+    .label = Dodaj konto grup dyskusyjnych…
+    .accesskey = D
