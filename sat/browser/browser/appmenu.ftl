@@ -45,10 +45,33 @@ appmenuitem-settings =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-turn-on-sync =
+    .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = ᱟᱨᱦᱚᱸ ᱴᱮᱵ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱴᱮᱵ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = ᱠᱷᱩᱞᱟᱹᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱴᱮᱵ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱚᱱ ᱛᱟᱢ ᱾
+appmenu-remote-tabs-opensettings =
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ᱟᱢᱟᱠ ᱴᱮᱵ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱱᱚᱸᱱᱰᱮ ᱧᱮᱞ ᱪᱷᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟᱢ ᱥᱮ?
+appmenu-remote-tabs-connectdevice =
+    .label = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ
+appmenu-remote-tabs-welcome = ᱟᱢᱟᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾
+appmenu-remote-tabs-unverified = ᱟᱢᱟᱠ ᱠᱷᱟᱛᱟ ᱧᱮᱞ ᱢᱤᱞᱟᱹᱣ ᱞᱟᱹᱜᱛᱤ-ᱟ ᱾
 appmenuitem-fxa-toolbar-sync-now2 = ᱱᱤᱛᱚᱜ ᱥᱤᱸᱝᱠ ᱢᱮ
+appmenuitem-fxa-sign-in = { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+appmenuitem-fxa-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-fxa-signed-in-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+appmenu-fxa-setup-sync =
+    .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
+appmenu-fxa-show-more-tabs = ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 appmenuitem-save-page =
     .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
 
@@ -69,9 +92,30 @@ profiler-popup-settings =
     .value = ᱥᱟᱡᱟᱣ ᱠᱚ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
+profiler-popup-recording-screen = ᱨᱮᱠᱚᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = ᱠᱚᱥᱴᱚᱢ
+profiler-popup-start-recording-button =
+    .label = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
+profiler-popup-discard-button =
+    .label = ᱵᱟᱹᱨᱜᱤᱞ
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
+appmenu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Help panel
 
