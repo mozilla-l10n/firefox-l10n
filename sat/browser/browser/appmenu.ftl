@@ -116,9 +116,25 @@ profiler-popup-capture-shortcut =
 
 appmenu-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 appmenu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
+appmenu-clear-history =
+    .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
+appmenu-recently-closed-tabs =
+    .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ
+appmenu-recently-closed-windows =
+    .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱣᱤᱱᱰᱚ ᱠᱚ
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } ᱜᱚᱱᱚ
+appmenu-about =
+    .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
+    .accesskey = A
+appmenu-help-more-troubleshooting-info =
+    .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+    .accesskey = t
+appmenu-help-report-site-issue =
+    .label = ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱤᱛᱞᱟᱹᱭ ᱢᱮ…
 appmenu-help-feedback-page =
     .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟ ᱮᱢ …
     .accesskey = ᱮ
@@ -133,3 +149,5 @@ appmenu-help-feedback-page =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
