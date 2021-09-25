@@ -143,7 +143,7 @@ confirm-on-close-multiple-tabs =
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
     .label = Bestätigen, bevor mit { $quitKey } beendet wird
-    .accesskey = b
+    .accesskey = B
 warn-on-open-many-tabs =
     .label = Warnen, wenn das gleichzeitige Öffnen mehrerer Tabs { -brand-short-name } verlangsamen könnte
     .accesskey = c
