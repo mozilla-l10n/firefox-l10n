@@ -31,6 +31,17 @@ cert-error-domain-mismatch-single = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣ
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ ᱾ { -brand-short-name } ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱭ  ᱯᱟᱹᱛᱤᱣᱟᱹᱜᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱣᱟ ᱚᱱᱟ ᱥᱟᱴᱤᱯᱷᱤᱠᱮᱴ ᱮ ᱵᱮᱵᱷᱟᱨᱟᱭ ᱚᱠᱟ ᱫᱚ { $hostname } ᱯᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱴᱷᱤᱠᱼᱟ ᱾ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱫᱚ { $alt-name } ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱴᱷᱤᱠᱼᱟ ᱾
 # Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ ᱾ { -brand-short-name } ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱭ  ᱯᱟᱹᱛᱤᱣᱟᱹᱜᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱣᱟ ᱚᱱᱟ ᱥᱟᱴᱤᱯᱷᱤᱠᱮᱴ ᱮ ᱵᱮᱵᱷᱟᱨᱟᱭ ᱚᱠᱟ ᱫᱚ { $hostname } ᱯᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱴᱷᱤᱠᱼᱟ ᱾ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱫᱚ ᱱᱚᱣᱟ ᱠᱚ ᱧᱩᱛᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱴᱷᱤᱠᱼᱟ ᱺ { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱮᱴ ᱠᱟᱱ ᱴᱟᱭᱤᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱴᱷᱠ ᱜᱭᱟ ᱾ { $hostname } ᱞᱟᱹᱜᱤᱫ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱫᱚ { $not-after-local-time } ᱨᱮ ᱪᱟᱵᱟᱜᱼᱟ ᱾
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱮᱴ ᱠᱟᱱ ᱴᱟᱭᱤᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱴᱷᱠ ᱜᱭᱟ ᱾ { $hostname } ᱞᱟᱹᱜᱤᱫ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱫᱚ { $not-after-local-time } ᱦᱟᱹᱵᱤᱡ ᱴᱷᱤᱠ ᱵᱟᱭ ᱛᱟᱦᱮᱱᱟ ᱾
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ᱵᱷᱩᱞ ᱠᱳᱰ: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱵᱟᱵᱚᱛ ᱟᱢ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱮᱰᱢᱤᱱᱤᱥᱴᱨᱮᱴᱚᱨ ᱮᱢ ᱮᱛᱞᱟ ᱫᱟᱲᱮᱟᱭᱟ ᱾
