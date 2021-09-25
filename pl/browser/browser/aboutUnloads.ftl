@@ -6,7 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Wyładowywanie kart
+about-unloads-page-title = Zwalnianie kart
 about-unloads-intro-1 =
     { -brand-short-name } ma funkcję automatycznie zwalniającą karty,
     aby zapobiec awariom programu z powodu niewystarczającej pamięci,
