@@ -136,6 +136,14 @@ warn-on-close-multiple-tabs =
 confirm-on-close-multiple-tabs =
     .label = Pytanie o potwierdzenie przed zamknięciem wielu kart
     .accesskey = a
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Pytanie o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
+    .accesskey = P
 warn-on-open-many-tabs =
     .label = Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić przeglądarkę { -brand-short-name }
     .accesskey = m
