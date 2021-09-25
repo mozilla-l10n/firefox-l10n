@@ -8,7 +8,7 @@
 
 about-unloads-page-title = Tabs entladen
 about-unloads-intro-1 =
-    { -brand-short-name } hat eine Funktion, die Tabs automatisch entlädt,
+    { -brand-short-name } enthält eine Funktion zum automatischen Entladen von Tabs,
     um zu verhindern, dass die Anwendung aufgrund von unzureichendem Speicher abstürzt,
     wenn der verfügbare Speicher des Systems knapp ist. Der nächste zu entladende Tab wird
     basierend auf mehreren Eigenschaften ausgewählt. Diese Seite zeigt, wie
