@@ -128,6 +128,7 @@ cfr-doorhanger-video-support-primary-button = Oppdater no
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Det ser ut til at du brukar offentleg Wi-Fi
+spotlight-public-wifi-vpn-body = For å skjule posisjonen din og nettlesingsaktiviteten, bør du vurdere eit virtuelt privat nettverk. Det vil bidra til å halde deg beskytta når du surfar på offentlege stadar som flyplassar og kaféar.
 spotlight-public-wifi-vpn-primary-button = Hald deg privat med { -mozilla-vpn-brand-name }
     .accesskey = H
 spotlight-public-wifi-vpn-link = Ikkje no
