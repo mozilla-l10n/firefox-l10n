@@ -65,6 +65,7 @@ about-logins-list-section-week = Oxirgi 7 kun
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = Saqlangan loginlarni izlayapsizmi? Sinxronizatsiyani yoqing yoki ularni import qiling.
 about-logins-login-intro-heading-logged-in = Sinxronlangan loginlar topilmadi
 login-intro-description = Loginlaringizni boshqa qurilmadagi { -brand-product-name } brauzeriga saqlagan boʻlsangiz, ularni olish haqida bu yerdan maʼlumot olish mumkin:
 about-logins-intro-import = Loginlaringiz boshqa brauzerga saqlangan boʻlsa, ularni <a data-l10n-name="import-link">import qilishingiz mumkin { -lockwise-brand-short-name }</a>
