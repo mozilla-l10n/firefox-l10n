@@ -7,6 +7,12 @@
 ### feature.
 
 about-unloads-page-title = Frigjer fane
+about-unloads-intro-1 =
+    { -brand-short-name } har ein funksjon som automatisk frigjer faner 
+    for å hindre programmet i å krasje når systemet har lite minne. 
+    Neste fane som skal frigjerast vert vald etter fleire kriterium. 
+    Denne sida viser korleis { -brand-short-name } prioriterer mellom fanene, 
+    og kva for faner som skal frigjerast når fanefrigjering trengst.
 about-unloads-intro-2 =
     Eksisterande faner vert viste i tabellen nedanfor i same rekkjefølgje som brukt av
     { -brand-short-name } for å velje neste fane som skal frigjerast. Prosess-ID-ar
