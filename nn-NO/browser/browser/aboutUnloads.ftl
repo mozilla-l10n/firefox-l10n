@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = Frigjer fane
+about-unloads-intro-2 =
+    Eksisterande faner vert viste i tabellen nedanfor i same rekkjefølgje som brukt av
+    { -brand-short-name } for å velje neste fane som skal frigjerast. Prosess-ID-ar
+    vert viste med <strong>fet</strong> når dei inneheld den øvste ramma 
+    i fana, og med <em>kursiv</em> når prosessen vert delt mellom ulike
+    faner. Du kan utløyse frigjering av faner manuelt ved å klikke på <em>Frigjer</em>-
+    knappen nedanfor.
 about-unloads-last-updated = Sist oppdatert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigjer
     .title = Frigjer fana med høgaste prioritet
