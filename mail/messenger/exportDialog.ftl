@@ -5,6 +5,7 @@
 export-dialog-brand-name = { -brand-product-name }
 export-dialog-window =
     .title = エクスポート
+export-dialog-title = エクスポート
 export-dialog =
     .buttonlabelaccept = 次へ
 export-dialog-button-finish = 完了
