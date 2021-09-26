@@ -116,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Восстанавливать предыдущую сессию
     .accesskey = о
+startup-restore-windows-and-tabs =
+    .label = Открыть предыдущие окна и вкладки
+    .accesskey = п
 startup-restore-warn-on-quit =
     .label = Предупреждать при выходе из браузера
 disable-extension =
@@ -130,6 +133,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Предупреждать при закрытии нескольких вкладок
     .accesskey = д
+confirm-on-close-multiple-tabs =
+    .label = Подтвердить перед закрытием нескольких вкладок
+    .accesskey = е
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Подтвердить перед выходом с помощью { $quitKey }
+    .accesskey = м
 warn-on-open-many-tabs =
     .label = Предупреждать, когда открытие нескольких вкладок может замедлить { -brand-short-name }
     .accesskey = р
