@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Prijave in gesla
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Iskanje prijav
-
 create-login-button = Ustvari novo prijavo
-
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-sync-button = Prijava v sinhronizacijo
 fxaccounts-avatar-button =
@@ -63,8 +58,8 @@ about-logins-list-item-breach-icon =
     .title = Ogrožena spletna stran
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranljivo geslo
-
 about-logins-list-section-vulnerable = Ranljiva gesla
+about-logins-list-section-nothing = Brez opozorila
 about-logins-list-section-today = Danes
 about-logins-list-section-yesterday = Včeraj
 about-logins-list-section-week = Zadnjih 7 dni
@@ -119,21 +114,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Če želite urediti svojo p
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Če si želite ogledati geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = reveal the saved password
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Če želite kopirati geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved password
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pred izvozom prijav vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,18 +137,14 @@ master-password-reload-button =
     .label = Prijava
     .accesskey = P
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Prekliči
 confirmation-dialog-dismiss-button =
     .title = Prekliči
-
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Odstrani
@@ -167,7 +153,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Odstrani vse
        *[other] Odstrani vse
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Da, odstrani to prijavo
@@ -176,7 +161,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Da, odstrani te prijave
        *[other] Da, odstrani te prijave
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Odstranim { $count } prijavo?
@@ -192,7 +176,6 @@ about-logins-confirm-remove-all-dialog-message =
         [few] S tem boste odstranili prijave, ki ste jih shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
        *[other] S tem boste odstranili prijave, ki ste jih shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Odstrani { $count } prijavo z vseh naprav?
@@ -208,14 +191,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name }, na vseh napravah, sinhroniziranih z vašim { -fxaccount-brand-name }om. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
        *[other] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name }, na vseh napravah, sinhroniziranih z vašim { -fxaccount-brand-name }om. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
     }
-
 about-logins-confirm-export-dialog-title = Izvozite prijave in gesla
 about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
 about-logins-confirm-export-dialog-confirm-button = Izvozi …
-
 about-logins-alert-import-title = Uvoz dokončan
 about-logins-alert-import-message = Prikaži podroben povzetek uvoza
-
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
 confirm-discard-changes-dialog-confirm-button = Prezri
@@ -246,7 +226,6 @@ about-logins-vulnerable-alert-learn-more-link = Več o tem
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Vnos za { $loginTitle } s tem uporabniškim imenom že obstaja. <a data-l10n-name="duplicate-link">Odprem obstoječi vnos?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Med poskusom shranjevanja tega gesla se je pojavila napaka.
 
@@ -295,12 +274,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Posodobljene obstoječe prijave:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Najdene podvojene prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
@@ -310,7 +287,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Napake:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
     }
 about-logins-import-dialog-done = Končano
-
 about-logins-import-dialog-error-title = Napaka pri uvozu
 about-logins-import-dialog-error-conflicting-values-title = Več nasprotujočih si vrednosti za eno prijavo
 about-logins-import-dialog-error-conflicting-values-description = Npr. več uporabniških imen, gesel, spletnih naslovov … za eno prijavo.
@@ -324,10 +300,8 @@ about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena pr
 about-logins-import-dialog-error-learn-more = Več o tem
 about-logins-import-dialog-error-try-import-again = Poskusi znova uvoziti …
 about-logins-import-dialog-error-cancel = Prekliči
-
 about-logins-import-report-title = Povzetek uvoza
 about-logins-import-report-description = Prijave in gesla, uvožena v { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

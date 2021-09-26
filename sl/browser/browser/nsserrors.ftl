@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Med povezovanjem na { $hostname } je prišlo do napake. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Koda napake: { $error }
-
 psmerr-ssl-disabled = Varna povezava ni mogoča, ker je bil protokol SSL onemogočen.
 psmerr-ssl2-disabled = Varna povezava ni mogoča, ker stran uporablja starejšo, nevarno različico protokola SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prejeli ste neveljavno digitalno potrdilo. Obrnite se na skrbnika strežnika ali pošljite elektronsko pošto odgovornim, a ne pozabite dodati naslednje vsebine:
     
     Vaše digitalno potrdilo vsebuje enako serijsko številko, kot drugo digitalno potrdilo, ki ga je izdala uradna oseba. Potrebovali boste novo digitalno potrdilo z unikatno serisjko številko.
-
 ssl-error-export-only-server = Varna komunikacija ni možna. Vrstnik ne podpira visoke stopnje šifriranja.
 ssl-error-us-only-server = Varna komunikacija ni možna. Vrstnik zahteva visoko stopnjo šifriranja, ki ni na voljo.
 ssl-error-no-cypher-overlap = Varna komunikacija z vrstnikom ni mogoča: na voljo ni skupnih šifrirnih algoritmov.
@@ -206,9 +203,9 @@ sec-error-unknown-critical-extension = Digitalno potrdilo vsebuje nepoznano krit
 sec-error-old-crl = Nov CPS nima kasnejšega datuma kot trenutni.
 sec-error-no-email-cert = Ni šifrirano ali podpisano: nimate še digitalnega potrdila za elektronsko pošto.
 sec-error-no-recipient-certs-query = Ni šifrirano: nimate digitalnih potrdil za vse prejemnike.
-sec-error-not-a-recipient = Dešifriranje ni možno: niste prejemnik ali pa ne morem najti ustreznega digitalnega potrdila in zasebnega ključa.
+sec-error-not-a-recipient = Dešifriranje ni možno: niste prejemnik ali pa ni mogoče najti ustreznega digitalnega potrdila in zasebnega ključa.
 sec-error-pkcs7-keyalg-mismatch = Dešifriranje ni možno: algoritem za šifriranje ključa se ne ujema z vašim digitalnim potrdilom.
-sec-error-pkcs7-bad-signature = Preverjanje podpisa ni uspelo: ne morem najti podpisovalca, preveč podpisovalcev najdenih ali pa so podatki neustrezni oziroma pokvarjeni.
+sec-error-pkcs7-bad-signature = Preverjanje podpisa ni uspelo: podpisovalca ni mogoče najti, najdenih je preveč podpisovalcev ali pa so podatki neustrezni oziroma pokvarjeni.
 sec-error-unsupported-keyalg = Nepodprt ali nepoznan algoritem ključa.
 sec-error-decryption-disallowed = Dešifriranje ni možno: sporočilo je šifrirano z uporabi nedovoljenega algoritma oziroma nedovoljeno dolžino ključa.
 xp-sec-fortezza-bad-card = Fortezza kartica ni bila pravilno inicializirana. Odstranite jo in jo vrnite vašemu izdajatelju kartice.
@@ -261,7 +258,7 @@ sec-error-pkcs12-unable-to-export-key = Izvoz ni možen. Zasebnega ključa ni mo
 sec-error-pkcs12-unable-to-write = Izvoz ni možen. Datoteke za izvoz ni mogoče zapisati.
 sec-error-pkcs12-unable-to-read = Uvoz ni možen. Datoteke za uvoz ni mogoče prebrati.
 sec-error-pkcs12-key-database-not-initialized = Izvoz ni možen. Podatkovna baza ključev je pokvarjena ali izbrisana.
-sec-error-keygen-fail = Ne morem ustvariti para javnega in zasebnega ključa.
+sec-error-keygen-fail = Para javnega in zasebnega ključa ni mogoče ustvariti.
 sec-error-invalid-password = Vnešeno geslo ni pravilno. Prosimo izberite drugačno geslo.
 sec-error-retry-old-password = Staro geslo je vnešeno nepravilno. Poskusite znova.
 sec-error-bad-nickname = Vzdevek digitalnega potrdila je že v uporabi.

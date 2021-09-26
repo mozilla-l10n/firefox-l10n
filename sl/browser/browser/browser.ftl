@@ -520,6 +520,10 @@ urlbar-result-action-search-tabs = Išči zavihke
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -733,6 +737,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj tega sporočila, ko so pojavna okna zavrnjena
     .accesskey = N
+edit-popup-settings =
+    .label = Upravljaj nastavitve pojavnih oken …
+    .accesskey = U
 picture-in-picture-hide-toggle =
     .label = Skrij preklop slike v sliki
     .accesskey = p
