@@ -133,3 +133,7 @@ cfr-doorhanger-video-support-primary-button = Абнавіць зараз
 
 spotlight-public-wifi-vpn-header = Выглядае на тое, што вы карыстаецеся агульнадаступнай сеткай Wi-Fi
 spotlight-public-wifi-vpn-body = Каб схаваць сваё месцазнаходжанне і актыўнасць агляду, падумайце аб віртуальнай прыватнай сетцы. Гэта дапаможа абараніць вас пры агляданні ў грамадскіх месцах, такіх як аэрапорты і кавярні.
+spotlight-public-wifi-vpn-primary-button = Заставайцеся прыватнымі з { -mozilla-vpn-brand-name }
+    .accesskey = ы
+spotlight-public-wifi-vpn-link = Не зараз
+    .accesskey = Н
