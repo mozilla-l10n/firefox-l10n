@@ -62,6 +62,8 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Միացրեք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից ձեր ներդիրների ցանկը։
+appmenu-remote-tabs-opensettings =
+    .label = Կարգավորումներ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
@@ -169,6 +171,6 @@ appmenu-customizetoolbar =
     .label = Հարմարեցնել Գործիքագոտին...
 appmenu-taskmanager =
     .label = Խնդիրների կառավար
-appmenu-developer-tools-subheader = Զննարկչի գործիքներ
+appmenu-developer-tools-subheader = Զննիչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
