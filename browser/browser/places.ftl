@@ -111,6 +111,22 @@ places-remove-bookmark =
            *[many] Удалить { $count } закладок
         }
     .accesskey = л
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Удалить закладку
+            [one] Удалить { $count } закладку
+            [few] Удалить { $count } закладки
+           *[many] Удалить { $count } закладок
+        }
+    .accesskey = л
 places-manage-bookmarks =
     .label = Управление закладками
     .accesskey = в
+places-forget-about-this-site-confirmation-title = Забыть об этом сайте
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Это действие удалит все данные, связанные с { $hostOrBaseDomain }, в том числе историю, пароли, куки, кэш и настройки содержимого. Вы уверены, что хотите продолжить?
+places-forget-about-this-site-forget = Забыть
