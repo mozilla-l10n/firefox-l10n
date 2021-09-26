@@ -17,3 +17,4 @@ openpgp-cancel-key =
 
 # Strings used in enigmailMessengerOverlay.js
 
+invalid-email = Սխալ՝ անվավեր էլ. փոստի հասցե(ներ)

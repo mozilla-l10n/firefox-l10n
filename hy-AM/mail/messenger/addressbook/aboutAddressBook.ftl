@@ -15,3 +15,4 @@
 ## Details
 
 about-addressbook-cancel-edit-contact-button = Չեղարկել
+about-addressbook-details-email-addresses-header = էլ­. փոստի հասցեներ
