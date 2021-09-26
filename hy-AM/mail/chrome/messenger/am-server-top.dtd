@@ -10,7 +10,7 @@
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Օգտվողի անունը.">
 <!ENTITY userName.accesskey "N">
-<!ENTITY port.label "Դարպասը.">
+<!ENTITY port.label "Պորտը.">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Ծրագրային.">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
@@ -29,7 +29,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, եթե հասանելի է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Իսկորոշման եղանակ.">
+<!ENTITY authMethod.label "Իսկորոշման եղանակը.">
 <!ENTITY authMethod.accesskey "շ">
 <!ENTITY leaveOnServer.label "Թողնել նամակները սպասարկիչում՝">
 <!ENTITY leaveOnServer.accesskey "g">

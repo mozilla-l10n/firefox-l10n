@@ -8,7 +8,7 @@
 <!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Նկարագրություն.">
 <!ENTITY serverDescription.accesskey "Ն">
-<!ENTITY serverPort.label "Դարպասը.">
+<!ENTITY serverPort.label "Պորտը.">
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Օգտվողի անունը.">
 <!ENTITY userName.accesskey "m">

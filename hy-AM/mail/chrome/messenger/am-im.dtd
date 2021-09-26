@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Գլխավոր">
 <!ENTITY account.advanced              "Ընդլայնված ընտրանքներ">
-<!ENTITY account.name                  "Մականուն.">
+<!ENTITY account.name                  "Օգտվողի անուն.">
 <!ENTITY account.password              "Գաղտնաբառը.">
 <!ENTITY account.alias                 "Մականուններ.">
 <!ENTITY account.newMailNotification   "Տեղեկացնել նոր նամակի մասին">

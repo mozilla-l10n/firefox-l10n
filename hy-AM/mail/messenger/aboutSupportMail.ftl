@@ -14,7 +14,5 @@ accounts-conn-security = Կապուղու անվտանգությունը
 accounts-auth-method = Իսկորոշման եղանակ
 accounts-default = Լռելյա՞յն
 identity-name = Որոշիչ
-
 send-via-email = Ուղարկել նամակով
-
 app-basics-telemetry = Telemetry-ի տվյալ
