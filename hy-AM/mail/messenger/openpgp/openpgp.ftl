@@ -5,12 +5,18 @@
 openpgp-cancel-key =
     .label = Չեղարկել
     .tooltiptext = Չեղարկման բանալու ստեղծում
+openpgp-key-man-title =
+    .title = OpenPGP բանալիների կառավարիչ
 
 ## e2e encryption settings
 
 
 ## OpenPGP Key selection area
 
+openpgp-manager-button =
+    .label = OpenPGP բանալիների կառավարիչ
+    .accesskey = K
+expiry-open-key-manager = Բացել OpenPGP բանալիների կառավարիչը
 
 ## Account settings export output
 

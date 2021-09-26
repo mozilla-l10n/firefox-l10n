@@ -13,6 +13,9 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Հավելումներ և ոճեր
+    .tooltiptext = Կառավարել հավելումները
 
 ## Folder Pane
 
@@ -25,6 +28,8 @@ content-tab-security-broken-icon =
 
 ## AppMenu
 
+appmenu-addons-and-themes =
+    .label = Հավելումներ և ոճեր
 
 ## Context menu
 

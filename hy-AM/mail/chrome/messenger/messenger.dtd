@@ -926,7 +926,7 @@
 <!ENTITY zoomWindow.label "Չափը">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "Նախապատվությունները">
+<!ENTITY preferencesCmdMac2.label       "Նախապատվություններ">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Ծառայություններ">
