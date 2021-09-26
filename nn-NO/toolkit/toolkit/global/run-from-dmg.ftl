@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Fullføre installeringa av { -brand-short-name }?
+prompt-to-install-message = Fullfør denne eitt-stegs installasjonen for å halde { -brand-short-name } oppdatert og forhindre tap av data. { -brand-short-name } blir lagt til i Programmar-mappa og i Dock.
 prompt-to-install-yes-button = Installer
 prompt-to-install-no-button = Ikkje installer
 
