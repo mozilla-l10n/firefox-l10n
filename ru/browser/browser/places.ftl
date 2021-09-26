@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Открыть в новом приватном окне
     .accesskey = и
-
 places-add-bookmark =
     .label = Создать закладку…
     .accesskey = з
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Добавить разделитель
     .accesskey = р
-
 places-view =
     .label = Вид
     .accesskey = и
@@ -52,12 +50,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По дате и сайтам
     .accesskey = и
-
 places-history-search =
     .placeholder = Поиск по журналу
 places-bookmarks-search =
     .placeholder = Поиск закладок
-
 places-delete-domain-data =
     .label = Забыть об этом сайте
     .accesskey = б
@@ -83,18 +79,27 @@ places-remove-folder =
            *[many] Удалить папки
         }
     .accesskey = л
-
+places-edit-folder2 =
+    .label = Изменить папку…
+    .accesskey = н
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Удалить папку
+            [one] Удалить папку
+            [few] Удалить папки
+           *[many] Удалить папки
+        }
+    .accesskey = л
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управляемые закладки
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Вложенная папка
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Другие закладки
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -106,8 +111,6 @@ places-remove-bookmark =
            *[many] Удалить { $count } закладок
         }
     .accesskey = л
-
 places-manage-bookmarks =
     .label = Управление закладками
     .accesskey = в
-
