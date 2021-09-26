@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Ativa o suporte ao recurso exper
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Camadas em cascata
+experimental-features-css-cascade-layers-description = Ativa o suporte para camadas em cascata do CSS. Consulte a especificação <a data-l10n-name="spec">em desenvolvimento</a> para detalhes. Submeta bugs bloqueantes do <a data-l10n-name="bugzilla">bug 1699215</a> para problemas relacionados com esta funcionalidade.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
