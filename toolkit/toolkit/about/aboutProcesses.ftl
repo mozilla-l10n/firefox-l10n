@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Upravitelj procesov
-
 # The Actions column
 about-processes-column-action =
     .title = Dejanja
@@ -25,12 +24,6 @@ about-processes-column-cpu-total = CPE
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Skupni spletni proces ({ $pid })
@@ -45,7 +38,6 @@ about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Dekoder podatkov ({ $pid })
 about-processes-socket-process = Omrežje ({ $pid })
 about-processes-preallocated-process = Vnaprej dodeljeno ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -58,6 +50,9 @@ about-processes-unknown-process = Drugo: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, velik)
+about-processes-web-isolated-process-private = { $origin } – Zaseben ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } – Zaseben ({ $pid }, velik)
 
 ## Details within processes
 
@@ -78,7 +73,6 @@ about-processes-active-threads =
         [few] { $active } dejavne niti od { $number }: { $list }
        *[other] { $active } dejavnih niti od { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -92,25 +86,21 @@ about-processes-inactive-threads =
         [few] { $number } nedejavne niti
        *[other] { $number } nedejavnih niti
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID niti: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Zavihek: { $name }
 about-processes-preloaded-tab = Prednaloženi novi zavihek
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Podokvir: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -129,10 +119,8 @@ about-processes-frame-name-many = Podokviri ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Skupen procesorski čas: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (merjenje)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = nedejavno
     .title = Skupen čas CPE: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
@@ -151,7 +139,6 @@ about-processes-cpu-idle = nedejavno
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Razvoj: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
