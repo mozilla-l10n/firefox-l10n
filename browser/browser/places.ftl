@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Opne i nytt privat vindauge
     .accesskey = p
-
 places-add-bookmark =
     .label = Legg til bokmerke
     .accesskey = b
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Legg til skiljelinje
     .accesskey = s
-
 places-view =
     .label = Vis
     .accesskey = i
@@ -52,12 +50,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Etter dato og nettstad
     .accesskey = d
-
 places-history-search =
     .placeholder = Søkjehistorikk
 places-bookmarks-search =
     .placeholder = Søk i bokmerka
-
 places-delete-domain-data =
     .label = Gløym denne nettstaden
     .accesskey = G
@@ -81,7 +77,6 @@ places-remove-folder =
            *[other] Fjern mapper
         }
     .accesskey = F
-
 places-edit-folder2 =
     .label = Rediger mappe…
     .accesskey = R
@@ -92,18 +87,15 @@ places-delete-folder =
            *[other] Slett mapper
         }
     .accesskey = S
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerke
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Undermappe
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andre bokmerke
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -113,7 +105,6 @@ places-remove-bookmark =
            *[other] Fjern bokmerke
         }
     .accesskey = F
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -123,11 +114,11 @@ places-delete-bookmark =
            *[other] Slett bokmerke
         }
     .accesskey = S
-
 places-manage-bookmarks =
     .label = Handter bokmerke
     .accesskey = H
-
 places-forget-about-this-site-confirmation-title = Gløymer denne nettstaden
-
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Denne handlinga fjernar alle dataa relaterte til { $hostOrBaseDomain }, inkludert historikk, passord, infokapslar, hurtigbuffer og innhalds-innstillingar. Er du sikker på at du vil fortsetje?
 places-forget-about-this-site-forget = Gløym
