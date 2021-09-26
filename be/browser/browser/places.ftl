@@ -79,6 +79,9 @@ places-remove-folder =
            *[many] Выдаліць папкі
         }
     .accesskey = ь
+places-edit-folder2 =
+    .label = Рэдагаваць папку…
+    .accesskey = д
 places-delete-folder =
     .label =
         { $count ->
@@ -122,4 +125,8 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Кіраванне закладкамі
     .accesskey = К
+places-forget-about-this-site-confirmation-title = Забыцца на гэты сайт
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Гэта дзеянне выдаліць усе дадзеныя, звязаныя з { $hostOrBaseDomain }, у тым ліку гісторыю, паролі, кукі, кэш і перавагі змесціва. Вы ўпэўнены, што хочаце працягнуць?
 places-forget-about-this-site-forget = Забыць
