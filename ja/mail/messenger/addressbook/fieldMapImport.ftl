@@ -4,7 +4,7 @@
 
 import-ab-csv-window =
     .title = テキストファイルからアドレス帳をインポート
-
+import-ab-csv-dialog-title = テキストファイルからアドレス帳をインポート
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = インポートデータのレコード番号 { $recordNumber } のプレビュー
 import-ab-csv-dialog =

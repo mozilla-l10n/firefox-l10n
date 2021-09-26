@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label		"名前を付けてページを保存...">
 <!ENTITY savePageCmd.accesskey		"A">
 <!ENTITY savePageCmd.commandkey		"S">
-<!ENTITY pageSetupCmd.label		"ページ設定...">
-<!ENTITY pageSetupCmd.accesskey		"u">
-<!ENTITY printPreviewCmd.label		"印刷プレビュー">
-<!ENTITY printPreviewCmd.accesskey	"v">
 <!ENTITY printCmd.label			"印刷...">
 <!ENTITY printCmd.accesskey		"P">
 <!ENTITY printCmd.commandkey		"P">
