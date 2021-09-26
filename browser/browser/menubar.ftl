@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Նախապատվություններ
 menu-application-services =
     .label = Ծառայություններ
 menu-application-hide-this =
@@ -36,20 +38,16 @@ menu-quit =
             [windows] ա
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Փակել { -brand-shorter-name }-ը
-
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
@@ -242,6 +240,9 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Վերակապակցվել { -brand-product-name }․․․
     .accesskey = R
+menu-tools-browser-tools =
+    .label = Զննիչի գործիքներ
+    .accesskey = B
 menu-tools-task-manager =
     .label = Խնդիրների կառավար
     .accesskey = M
@@ -251,6 +252,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Էջի Մասին Տվյալներ
     .accesskey = վ
+menu-settings =
+    .label = Կարգավորումներ
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Դասավորության վրիպազերծում
     .accesskey = L
