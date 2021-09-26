@@ -13,7 +13,6 @@ address-input-type-aria-label =
         [one] { $type } հասցեներով, օգտագործեք ձախ սլաքի ստեղնը `դրանց վրա կենտրոնանալու համար:
        *[other] { $type } { $count } հասցեներով, օգտագործեք ձախ սլաքի ստեղնը `դրանց վրա կենտրոնանալու համար:
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -21,19 +20,15 @@ pill-aria-label =
         [one] { $email }. սեղմեք Enter՝ խմբագրելու, Ջնջել՝ ջնջելու համար:
        *[other] { $email }, 1-ը { $count }-ից. սեղմեք Enter՝ խմբագրելու, Ջնջել՝ ջնջելու համար:
     }
-
 pill-action-edit =
     .label = Խմբագրել հասցեն
     .accesskey = e
-
 pill-action-move-to =
     .label = Տեղափոխել Ում
     .accesskey = T
-
 pill-action-move-cc =
     .label = Տեղափոխել Cc
     .accesskey = C
-
 pill-action-move-bcc =
     .label = Տեղափոխել Bcc
     .accesskey = B
@@ -58,12 +53,16 @@ button-return-receipt =
 
 # Encryption
 
+
 # Addressing Area
 
+many-public-recipients-prompt-cancel = Չեղարկել ուղարկումը
 
 ## Notifications
 
+
 ## Editing
+
 
 # Tools
 

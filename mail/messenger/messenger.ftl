@@ -6,25 +6,40 @@ about-rights-notification-text = { -brand-short-name }-ը անվճար և բաց
 
 ## Content tabs
 
+content-tab-security-high-icon =
+    .alt = Կապակցումն անվտանգ է
+content-tab-security-broken-icon =
+    .alt = Կապակցումն անվտանգ չէ
+
 ## Toolbar
+
 
 ## Folder Pane
 
+
 ## Folder Toolbar Header Popup
+
 
 ## Menu
 
+
 ## AppMenu
+
 
 ## Context menu
 
+
 ## Message header pane
+
 
 ## Action Button Context Menu
 
+
 ## Message headers
 
+
 ## Add-on removal warning
+
 
 ## no-reply handling
 
