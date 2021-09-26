@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Актывуе падтрымк�
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Каскадныя пласты
+experimental-features-css-cascade-layers-description = Уключае падтрымку каскадных пластоў CSS. Глядзіце <a data-l10n-name="spec">спецыфікацыю ў працэсе</a> для падрабязных звестак. Паведамляйце як памылкі, што блакуюць <a data-l10n-name="bugzilla">хібу 1699215</a>, калі памылкі звязаны з гэтай функцыяй.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
