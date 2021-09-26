@@ -226,9 +226,9 @@
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Չընթերցված">
 <!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "Շղթաները Չընթերցվածների հետ">
+<!ENTITY threadsWithUnreadCmd.label "Չընթերցված շղթաներ">
 <!ENTITY threadsWithUnreadCmd.accesskey "Շ">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Դիտված շղթաներ՝ Չընթերցվածների հետ">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Դիտված շղթաները՝ Չընթերցվածների հետ">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "Դ">
 <!ENTITY ignoredThreadsCmd.label "Անտեսված շղթաներ">
 <!ENTITY ignoredThreadsCmd.accesskey "Ա">
@@ -696,7 +696,6 @@
 <!ENTITY locationColumn.label "Տեղադրությունը">
 <!ENTITY idColumn.label "Ստացման կարգի">
 <!ENTITY attachmentColumn.label "Կցորդներ">
-
 <!ENTITY deleteColumn.label "Ջնջել">
 
 <!-- Thread Pane Tooltips -->
@@ -722,7 +721,6 @@
 <!ENTITY locationColumn2.tooltip "Տեսակավորել ըստ՝ տեղադրության">
 <!ENTITY idColumn2.tooltip "Տեսակավորել ըստ՝ ստանալու կարգի">
 <!ENTITY attachmentColumn2.tooltip "Տեսակավորել ըստ՝ կցորդների">
-
 <!ENTITY deleteColumn.tooltip "Ջնջել նամակը">
 
 <!-- Thread Pane Context Menu -->
