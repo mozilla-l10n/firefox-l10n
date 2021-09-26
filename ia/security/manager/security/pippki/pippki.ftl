@@ -25,12 +25,12 @@ pippki-pw-change2empty-in-fips-mode = Tu es actualmente in modo FIPS. FIPS requi
 ## Reset Primary Password dialog
 
 reset-primary-password-window =
-    .title = Restabilir contrasigno primari
+    .title = Reinitialisar contrasigno primari
     .style = width: 40em
 reset-password-button-label =
     .label = Reinitialisar
 reset-primary-password-text = Si tu reinitialisa tu contrasigno primari, tote tu contrasignos web e email, tu certificatos personal e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno primari?
-pippki-reset-password-confirmation-title = Restabilir contrasigno primari
+pippki-reset-password-confirmation-title = Reinitialisar contrasigno primari
 pippki-reset-password-confirmation-message = Tu contrasigno primari ha essite reinitialisate.
 
 ## Downloading cert dialog
