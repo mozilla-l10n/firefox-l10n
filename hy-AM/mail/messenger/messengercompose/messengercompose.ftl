@@ -35,6 +35,28 @@ pill-action-move-bcc =
 
 # Attachment widget
 
+menuitem-toggle-attachment-pane =
+    .label = Կցորդի վահանակ
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Կցել
+    .tooltiptext = Հավելել կցորդ { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+add-attachment-notification-reminder =
+    .label = Կցել ֆայլ...
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Կցել ֆայլ...
+    .accesskey = A
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Ֆայլ(եր)
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Կցել ֆայլ(եր)...
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -44,6 +66,11 @@ attachment-bucket-count =
            *[other] { $count } կցորդներ
         }
     .accesskey = m
+drop-file-label-attachment =
+    { $count ->
+        [one] Հավելել որպես կցորդ
+       *[other] Հավելել որպես կցորդներ
+    }
 
 # Reorder Attachment Panel
 
