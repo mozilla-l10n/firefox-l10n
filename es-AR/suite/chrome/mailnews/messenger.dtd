@@ -54,7 +54,7 @@
 <!ENTITY sendUnsentCmd.accesskey "v">
 <!ENTITY subscribeCmd.label "Suscribirse…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY renameFolder.label "Renombrar carpeta">
+<!ENTITY renameFolder.label "Renombrar carpeta…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "Compactar carpetas">
 <!ENTITY compactFolders.accesskey "C">
