@@ -53,7 +53,7 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "s">
 <!ENTITY firstLastCmd.label                             "Nombre y apellido">
 <!ENTITY firstLastCmd.accesskey                         "N">
-<!ENTITY lastFirstCmd.label                             "Apellidos, nombre">
+<!ENTITY lastFirstCmd.label                             "Apellido, nombre">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "Nombre mostrado">
 <!ENTITY displayNameCmd.accesskey                       "d">
