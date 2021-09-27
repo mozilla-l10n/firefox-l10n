@@ -4,7 +4,7 @@
 
 <!ENTITY downloadManager.title           "Správce stahování">
 
-<!ENTITY menuBar.tooltip                 "Lišta nabídky">
+<!ENTITY menuBar.tooltip                 "Hlavní nabídka">
 <!ENTITY searchBar.tooltip               "Lišta hledání">
 
 <!ENTITY search.placeholder              "Hledat stahování">
@@ -93,4 +93,3 @@
      -->
 <!ENTITY cmd.unblock2.label               "Povolit stažení">
 <!ENTITY cmd.unblock2.accesskey           "l">
-

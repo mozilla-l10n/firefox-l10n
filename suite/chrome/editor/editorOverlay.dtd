@@ -290,7 +290,7 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Nabídka">
+<!ENTITY menuBar.tooltip "Hlavní nabídka">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
 <!ENTITY cutToolbarCmd.tooltip "Vyjmout">
 <!ENTITY copyToolbarCmd.tooltip "Kopírovat">
