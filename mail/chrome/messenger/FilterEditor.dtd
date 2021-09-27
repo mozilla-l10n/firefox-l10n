@@ -27,7 +27,6 @@
 <!ENTITY contextOutgoing.accesskey "s">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "A">
-
 <!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
@@ -51,7 +50,7 @@
 <!ENTITY deleteFromPOP.label "Borrar del servidor POP">
 <!ENTITY fetchFromPOP.label "Traer del servidor POP">
 <!ENTITY ignoreThread.label "Ignorar conversación">
-<!ENTITY ignoreSubthread.label "Ignorar Subconversación">
+<!ENTITY ignoreSubthread.label "Ignorar subconversación">
 <!ENTITY watchThread.label "Observar conversación">
 <!ENTITY stopExecution.label "Detener ejecución del filtro">
 
