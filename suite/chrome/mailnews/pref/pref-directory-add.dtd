@@ -17,7 +17,7 @@
 <!ENTITY General.tab                       "General">
 <!ENTITY Offline.tab                       "Sin conexión">
 <!ENTITY Advanced.tab                      "Avanzadas">
-<!ENTITY portNumber.label                  "Número de puerto: ">
+<!ENTITY portNumber.label                  "Número de puerto:">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtro de búsqueda: ">
 <!ENTITY searchFilter.accesskey            "F">
