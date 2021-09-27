@@ -6,5 +6,6 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Asefsex n usali n yiccer
 about-unloads-column-host = Asenneftaɣ
 about-unloads-column-last-accessed = Anekcum aneggaru
