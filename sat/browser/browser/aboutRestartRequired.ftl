@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = ᱫᱩᱦᱲᱟᱹ ᱮᱢᱚᱵᱽ ᱢᱮ
+restart-required-header = ᱤᱠᱟᱹ᱾ ᱞᱟᱦᱟ ᱥᱮᱫ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱮ ᱠᱷᱟᱹᱞᱤ ᱢᱤᱫ ᱦᱩᱰᱤᱝ ᱡᱤᱱᱤᱥ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤᱭᱟᱞᱮᱭᱟ ᱾
 restart-button-label = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
