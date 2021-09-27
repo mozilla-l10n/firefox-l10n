@@ -148,7 +148,7 @@ newtab-menu-show-file =
         [macos] Mostrar en Finder
        *[other] Abrir Carpeta contenedora
     }
-newtab-menu-open-file = Abrir Archivo
+newtab-menu-open-file = Abrir archivo
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
