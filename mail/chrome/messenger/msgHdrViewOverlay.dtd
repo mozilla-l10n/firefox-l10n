@@ -36,7 +36,7 @@
 <!ENTITY hdrForwardButton1.label "Přeposlat">
 <!ENTITY hdrForwardButton1.tooltip "Přepošle tuto zprávu">
 <!ENTITY hdrJunkButton1.label "Nevyžádaná pošta">
-<!ENTITY hdrJunkButton1.tooltip "Označí tuto zprávu jako nevyžádaná">
+<!ENTITY hdrJunkButton1.tooltip "Označí tuto zprávu jako nevyžádanou">
 <!ENTITY hdrTrashButton1.label "Smazat">
 <!ENTITY hdrTrashButton1.tooltip "Smaže tuto zprávu">
 
