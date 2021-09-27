@@ -9,6 +9,7 @@ open-preferences-sidebar-button =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace
     }
-
 open-addons-sidebar-button = Doplňky a vzhledy
-
+account-action-add-newsgroup-account =
+    .label = Přidat účet pro diskusní skupiny…
+    .accesskey = d

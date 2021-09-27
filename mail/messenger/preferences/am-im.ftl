@@ -4,3 +4,13 @@
 
 account-settings-title = Nastavení ověřování
 account-channel-title = Výchozí kanály
+chat-encryption-log =
+    .label = Zahrnout koncově šifrované zprávy do protokolů konverzací
+chat-encryption-label = Nativní koncové šifrování
+chat-encryption-status = Stav šifrování
+chat-encryption-placeholder = Šifrování nebylo zahájeno.
+chat-encryption-sessions = Relace
+chat-encryption-session-verify = ověřit
+    .title = Ověřit identitu této relace
+chat-encryption-session-trusted = důvěryhodná
+    .title = Identita této relace byla ověřena
