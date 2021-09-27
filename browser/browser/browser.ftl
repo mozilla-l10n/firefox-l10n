@@ -816,7 +816,13 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Vytiskne tuto stránku
 navbar-home =
     .label = Domů
-    .tooltiptext = Otevře domovskou stránku aplikace { -brand-short-name }
+    .tooltiptext =
+        Otevře domovskou stránku { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace { -brand-short-name }
+        }
 navbar-library =
     .label = Knihovna stránek
     .tooltiptext = Zobrazí historii, uložené záložky, a mnoho dalšího
