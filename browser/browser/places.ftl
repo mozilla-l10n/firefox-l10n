@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Otvori sve u karticama
     .accesskey = s
-
 places-open-in-window =
     .label = Otvori u novom prozoru
     .accesskey = n
 places-open-in-private-window =
     .label = Otvori u novom privatnom prozoru
     .accesskey = p
-
 places-add-bookmark =
     .label = Dodaj zabilješku…
     .accesskey = b
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Dodaj razdjelnik (S)
     .accesskey = S
-
 places-view =
     .label = Prikaz
     .accesskey = i
@@ -53,19 +50,16 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Prema datumu i stranici
     .accesskey = t
-
 places-history-search =
     .placeholder = Povijest pretraživanja
 places-bookmarks-search =
     .placeholder = Pretraži zabilješke
-
 places-delete-domain-data =
     .label = Zaboravi ovu stranicu
     .accesskey = Z
 places-sortby-name =
     .label = Poredaj po imenu
     .accesskey = r
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Uredi zabilješku…
@@ -85,18 +79,15 @@ places-remove-folder =
            *[other] Ukloni mape
         }
     .accesskey = m
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljane zabilješke
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Podmapa
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druge zabilješke
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -108,8 +99,7 @@ places-remove-bookmark =
            *[other] Ukloni zabilješke
         }
     .accesskey = e
-
 places-manage-bookmarks =
     .label = Upravljaj zabilješkama
     .accesskey = m
-
+places-forget-about-this-site-forget = Zaboravi
