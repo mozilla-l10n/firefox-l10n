@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocurrió un error al conectarse a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
-
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL fue deshabilitado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibió un certificado no válido.  Contacte al administrador del servidor o correspondiente correo electrónico y envíeles la siguiente información:
     
     Su certificado contiene el mismo número de serie que otro certificado emitido por la autoridad de certificados.  Obtenga un nuevo certificado conteniendo un número de serie único.
-
 ssl-error-export-only-server = No es posible comunicarse de forma segura. La otra parte no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicarse de forma segura. La otra parte requiere cifrado de grado alto que no es compatible.
 ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con un compañero: no hay algoritmos de cifrado comunes.
@@ -178,7 +174,7 @@ sec-error-revoked-certificate = El certificado del par fue revocado.
 sec-error-unknown-issuer = El emisor del certificado del par no fue reconocido.
 sec-error-bad-key = La clave pública del par no es válida.
 sec-error-bad-password = La contraseña de seguridad es incorrecta.
-sec-error-retry-password = New password entered incorrectly.  Please try again.
+sec-error-retry-password = Nueva contraseña ingresada incorrectamente. Intente de nuevo.
 sec-error-no-nodelock = security library: no nodelock.
 sec-error-bad-database = biblioteca de seguridad: base de datos incorrecta.
 sec-error-no-memory = biblioteca de seguridad: fallo en la asignación de memoria.
