@@ -8,9 +8,7 @@ do-not-track-option-default-content-blocking-known =
     .label = Jen pokud je zapnuto blokování nalezených sledovacích prvků
 do-not-track-option-always =
     .label = Vždy
-
 settings-page-title = Nastavení
-
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -22,32 +20,24 @@ settings-page-title = Nastavení
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = Najít nastavení
-
 managed-notice = Tento prohlížeč je spravován vaší organizací.
-
 category-list =
     .aria-label = Kategorie
-
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
-
 pane-home-title = Domovská stránka
 category-home =
     .tooltiptext = { pane-home-title }
-
 pane-search-title = Vyhledávání
 category-search =
     .tooltiptext = { pane-search-title }
-
 pane-privacy-title = Soukromí a zabezpečení
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
 pane-sync-title3 = Synchronizace
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty { -brand-short-name(case: "gen") }
@@ -60,11 +50,9 @@ pane-experimental-description2 =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }.
-
 pane-experimental-reset =
     .label = Obnovit výchozí nastavení
     .accesskey = O
-
 help-button-label =
     { -brand-short-name.gender ->
         [masculine] Nápověda { -brand-short-name(case: "gen") }
@@ -73,10 +61,8 @@ help-button-label =
        *[other] Nápověda
     }
 addons-button-label = Rozšíření a vzhledy
-
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Zavřít
 
@@ -126,19 +112,15 @@ restart-later = Restartovat později
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } vyžaduje kontejnerové panely.
-
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
-
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config =
@@ -148,7 +130,6 @@ extension-controlled-proxy-config =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     } k internetu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
-
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -159,10 +140,8 @@ extension-controlled-enable = Pro povolení rozšíření otevřete <img data-l1
 ## Preferences UI Search Results
 
 search-results-header = Výsledky hledání
-
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v nastavení nic nenašli.
-
 search-results-help-link =
     Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -174,42 +153,45 @@ search-results-help-link =
 ## General Section
 
 startup-header = Spuštění
-
 always-check-default =
     .label = Kontrolovat, jestli je { -brand-short-name } výchozím webovým prohlížečem
     .accesskey = w
-
 is-default = { -brand-short-name } je vaším výchozím prohlížečem
 is-not-default = { -brand-short-name } aktuálně není výchozím prohlížečem
-
 set-as-my-default-browser =
     .label = Nastavit jako výchozí…
     .accesskey = i
-
 startup-restore-previous-session =
     .label = Otevřít panely z minula
     .accesskey = O
-
+startup-restore-windows-and-tabs =
+    .label = Otevřít předchozí okna nebo panely
+    .accesskey = p
 startup-restore-warn-on-quit =
     .label = Varovat při ukončování prohlížeče
-
 disable-extension =
     .label = Zakázat rozšíření
-
 tabs-group-header = Panely
-
 ctrl-tab-recently-used-order =
     .label = Přepínat panely pomocí Ctrl+Tab v pořadí podle jejich posledního použití
     .accesskey = T
-
 open-new-link-as-tabs =
     .label = Otevírat odkazy v panelech místo v nových oknech
     .accesskey = O
-
 warn-on-close-multiple-tabs =
     .label = Varovat při zavírání více panelů
     .accesskey = v
-
+confirm-on-close-multiple-tabs =
+    .label = Vždy se zeptat při zavírání více panelů
+    .accesskey = V
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Vždy se zeptat při ukončování aplikace zkratkou { $quitKey }
+    .accesskey = V
 warn-on-open-many-tabs =
     .label =
         Varovat, pokud by mohlo otevření více panelů { -brand-short-name.gender ->
@@ -219,25 +201,19 @@ warn-on-open-many-tabs =
            *[other] aplikaci { -brand-short-name }
         } zpomalit
     .accesskey = d
-
 switch-to-new-tabs =
     .label = Přepnout na nový panel otevřený z odkazu
     .accesskey = n
-
 show-tabs-in-taskbar =
     .label = V hlavním panelu Windows zobrazit náhledy panelů
     .accesskey = h
-
 browser-containers-enabled =
     .label = Povolit kontejnerové panely
     .accesskey = n
-
 browser-containers-learn-more = Zjistit více
-
 browser-containers-settings =
     .label = Nastavení…
     .accesskey = v
-
 containers-disable-alert-title = Zavřít všechny kontejnerové panely?
 containers-disable-alert-desc =
     { $tabCount ->
@@ -245,7 +221,6 @@ containers-disable-alert-desc =
         [few] Zakážete-li kontejnerové panely, budou zavřeny { $tabCount } kontejnerové panely. Opravdu chcete zakázat kontejnerové panely?
        *[other] Zakážete-li kontejnerové panely, bude zavřeno { $tabCount } kontejnerových panelů. Opravdu chcete zakázat kontejnerové panely?
     }
-
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Zavřít { $tabCount } kontejnerový panel
@@ -253,9 +228,7 @@ containers-disable-alert-ok-button =
        *[other] Zavřít { $tabCount } kontejnerových panelů
     }
 containers-disable-alert-cancel-button = Nechat povolené
-
 containers-remove-alert-title = Odstranit tento kontejner?
-
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -264,50 +237,37 @@ containers-remove-alert-msg =
         [few] Pokud odstraníte tento kontejner, budou zavřeny { $count } kontejnerové panely. Opravdu chcete kontejner odstranit?
        *[other] Pokud odstraníte tento kontejner, bude zavřeno { $count } kontejnerových panelů. Opravdu chcete kontejner odstranit?
     }
-
 containers-remove-ok-button = Odstranit tento kontejner
 containers-remove-cancel-button = Neodstraňovat tento kontejner
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Zobrazení a jazyk stránek
-
 fonts-and-colors-header = Písma a barvy
-
 default-font = Výchozí písmo
     .accesskey = p
 default-font-size = Velikost
     .accesskey = V
-
 advanced-fonts =
     .label = Rozšířené…
     .accesskey = o
-
 colors-settings =
     .label = Barvy…
     .accesskey = y
-
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Velikost stránek
-
 preferences-default-zoom = Výchozí velikost
     .accesskey = z
-
 preferences-default-zoom-value =
     .label = { $percentage } %
-
 preferences-zoom-text-only =
     .label = Pouze velikost textu
     .accesskey = t
-
 language-header = Jazyk
-
 choose-language-description = Vyberte jazyky pro zobrazování webových stránek
-
 choose-button =
     .label = Vybrat jazyky…
     .accesskey = j
-
 choose-browser-language-description =
     Vyberte požadovaný jazyk uživatelského rozhraní { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -326,26 +286,20 @@ confirm-browser-language-change-description =
        *[other] aplikaci { -brand-short-name }
     }
 confirm-browser-language-change-button = Potvrdit a restartovat
-
 translate-web-pages =
     .label = Překládat webové stránky
     .accesskey = T
-
 fx-translate-web-pages = { -translations-brand-name }
-
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Překlady od <img data-l10n-name="logo"/>
-
 translate-exceptions =
     .label = Výjimky…
     .accesskey = V
-
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Formátovat data, časy, čísla a jednotky podle nastavení jazyka „{ $localeName }“ z operačního systému
-
 check-user-spelling =
     .label = Při psaní kontrolovat pravopis
     .accesskey = t
@@ -353,13 +307,10 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Soubory a aplikace
-
 download-header = Stahování
-
 download-save-to =
     .label = Ukládat všechny soubory do složky
     .accesskey = v
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -371,64 +322,49 @@ download-choose-folder =
             [macos] y
            *[other] o
         }
-
 download-always-ask-where =
     .label = U každého souboru se zeptat, kam ho uložit
     .accesskey = a
-
 applications-header = Aplikace
-
 applications-description = Co má { -brand-short-name } dělat se staženými soubory, nebo s aplikacemi, které používáte při prohlížení?
-
 applications-filter =
     .placeholder = Hledat typ souboru nebo aplikaci
-
 applications-type-column =
     .label = Typ obsahu
     .accesskey = T
-
 applications-action-column =
     .label = Akce
     .accesskey = A
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Soubor { $extension }
 applications-action-save =
     .label = Uložit soubor
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Použít { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Použít { $app-name } (výchozí)
-
 applications-use-os-default =
     .label = Použít výchozí systémovou aplikaci
-
 applications-use-other =
     .label = Použít jinou…
 applications-select-helper = Zvolit pomocnou aplikaci
-
 applications-manage-app =
     .label = Podrobnosti o aplikaci…
 applications-always-ask =
     .label = Vždy se zeptat
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 #   $type (String) - the MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -454,38 +390,28 @@ applications-open-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
-
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
 ##
 
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
-
 play-drm-content =
     .label = Přehrávat obsah chráněný pomocí DRM
     .accesskey = P
-
 play-drm-content-learn-more = Zjistit více
-
 update-application-title =
     Aktualizace { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -493,7 +419,6 @@ update-application-title =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
-
 update-application-description =
     Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -501,13 +426,10 @@ update-application-description =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } stále aktuální.
-
 update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
-
 update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
-
 update-application-allow-description =
     Povolit { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "dat") }
@@ -515,19 +437,15 @@ update-application-allow-description =
         [neuter] { -brand-short-name(case: "dat") }
        *[other] aplikaci { -brand-short-name }
     }
-
 update-application-auto =
     .label = Instalovat aktualizace automaticky (doporučeno)
     .accesskey = A
-
 update-application-check-choose =
     .label = Vyhledávat aktualizace, ale zeptat se na jejich instalaci
     .accesskey = c
-
 update-application-manual =
     .label = Nikdy nevyhledávat aktualizace (nedoporučeno)
     .accesskey = N
-
 update-application-background-enabled =
     .label =
         { -brand-short-name.gender ->
@@ -537,7 +455,6 @@ update-application-background-enabled =
            *[other] Když je aplikace vypnutá
         }
     .accesskey = v
-
 update-application-warning-cross-user-setting =
     Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -545,13 +462,10 @@ update-application-warning-cross-user-setting =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }, pokud používají stejnou instalaci.
-
 update-application-use-service =
     .label = K instalaci aktualizací použít službu na pozadí
     .accesskey = b
-
 update-setting-write-failure-title2 = Chyba při ukládání nastavení aktualizací
-
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -565,9 +479,7 @@ update-setting-write-failure-message2 =
     } problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
     
         Není možný zápis do souboru: { $path }
-
 update-in-progress-title = Probíhá aktualizace
-
 update-in-progress-message =
     { -brand-short-name.gender ->
         [masculine] Chcete, aby { -brand-short-name } pokračoval v aktualizaci?
@@ -575,7 +487,6 @@ update-in-progress-message =
         [neuter] Chcete, aby { -brand-short-name } pokračovalo v aktualizaci?
        *[other] Chcete, aby aplikace { -brand-short-name } pokračovala v aktualizaci?
     }
-
 update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -584,22 +495,16 @@ update-in-progress-cancel-button = &Pokračovat
 ## General Section - Performance
 
 performance-title = Výkon
-
 performance-use-recommended-settings-checkbox =
     .label = Použít doporučené nastavení výkonu
     .accesskey = u
-
 performance-use-recommended-settings-desc = Tato nastavení jsou ušita na míru podle hardwaru a operačního systému vašeho počítače.
-
 performance-settings-learn-more = Zjistit více
-
 performance-allow-hw-accel =
     .label = Použít hardwarovou akceleraci, je-li dostupná
     .accesskey = h
-
 performance-limit-content-process-option = Omezit počet procesů pro obsah na
     .accesskey = b
-
 performance-limit-content-process-enabled-desc = Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale potřebují více paměti.
 performance-limit-content-process-blocked-desc =
     Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu { -brand-short-name.gender ->
@@ -608,7 +513,6 @@ performance-limit-content-process-blocked-desc =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
-
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -617,52 +521,40 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Prohlížení
-
 browsing-use-autoscroll =
     .label = Použít automatické posouvání
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = Použít plynulé posouvání
     .accesskey = l
-
 browsing-use-onscreen-keyboard =
     .label = V případě potřeby zobrazit dotykovou klávesnici
     .accesskey = d
-
 browsing-use-cursor-navigation =
     .label = Používat kurzorové šipky pro pohyb po stránce
     .accesskey = c
-
 browsing-search-on-start-typing =
     .label = Psaním vyhledávat text na stránce
     .accesskey = x
-
 browsing-picture-in-picture-toggle-enabled =
     .label = Zobrazovat přepínač do režimu obrazu v obraze
     .accesskey = E
-
 browsing-picture-in-picture-learn-more = Zjistit více
-
 browsing-media-control =
     .label = Ovládat média pomocí klávesnice, sluchátek nebo virtuálního rozhraní
     .accesskey = v
-
 browsing-media-control-learn-more = Zjistit více
-
 browsing-cfr-recommendations =
     .label = Doporučovat vhodná rozšíření pro navštívené stránky
     .accesskey = r
 browsing-cfr-features =
     .label = Doporučovat funkce během prohlížení
     .accesskey = f
-
 browsing-cfr-recommendations-learn-more = Zjistit více
 
 ## General Section - Proxy
 
 network-settings-title = Nastavení sítě
-
 network-proxy-connection-description =
     Konfigurovat připojení { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -670,9 +562,7 @@ network-proxy-connection-description =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     } k internetu.
-
 network-proxy-connection-learn-more = Zjistit více
-
 network-proxy-connection-settings =
     .label = Nastavení…
     .accesskey = e
@@ -680,33 +570,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nová okna a panely
-
 home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna nebo panelu.
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Na domovské stránce a v novém okně
-
 home-newtabs-mode-label = V novém panelu
-
 home-restore-defaults =
     .label = Obnovit výchozí
     .accesskey = O
-
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Výchozí domovskou stránku Firefoxu
-
 home-mode-choice-custom =
     .label = Vlastní adresy…
-
 home-mode-choice-blank =
     .label = Prázdnou stránku
-
 home-homepage-custom-url =
     .placeholder = Zadejte URL adresu…
-
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -718,7 +600,6 @@ use-current-pages =
            *[other] Použít aktuální stránky
         }
     .accesskey = k
-
 choose-bookmark =
     .label = Použít záložku…
     .accesskey = z
@@ -727,7 +608,6 @@ choose-bookmark =
 
 home-prefs-content-header = Obsah domovské stránky Firefoxu
 home-prefs-content-description = Vyberte obsah, který chcete mít na výchozí domovské stránce Firefoxu.
-
 home-prefs-search-header =
     .label = Vyhledávání na webu
 home-prefs-topsites-header =
@@ -754,7 +634,6 @@ home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společn
 home-prefs-recommended-by-learn-more = Jak to funguje
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorované články
-
 home-prefs-highlights-header =
     .label = Vybrané
 home-prefs-highlights-description = Výběr z uložených nebo navštívených stránek
@@ -766,11 +645,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Nedávná stahování
 home-prefs-highlights-option-saved-to-pocket =
     .label = Stránky uložené do { -pocket-brand-name(case: "gen") }
-
 home-prefs-recent-activity-header =
     .label = Nedávná aktivita
 home-prefs-recent-activity-description = Výběr z nedávných stránek a obsahu
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -789,9 +666,7 @@ home-prefs-snippets-description =
         [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     }
-
 home-prefs-snippets-description-new = Tipy a novinky od { -vendor-short-name(case: "gen") } a aplikace { -brand-product-name }
-
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -807,25 +682,20 @@ search-bar-hidden =
     .label = Použít adresní řádek pro navigaci i vyhledávání
 search-bar-shown =
     .label = Přidat na lištu vyhledávací pole
-
 search-engine-default-header = Výchozí vyhledávač
 search-engine-default-desc-2 = Vyberte si výchozí vyhledávač pro adresní řádek i vyhledávací pole.
 search-engine-default-private-desc-2 = Vyberte odlišný výchozí vyhledávač pro použití v režimu anonymního prohlížení.
 search-separate-default-engine =
     .label = Použít tento vyhledávač jako výchozí také v režimu anonymního prohlížení
     .accesskey = u
-
 search-suggestions-header = Našeptávání dotazů pro vyhledávač
 search-suggestions-desc = Zvolte si, zda a jak má prohlížeč zobrazovat návrhy od vyhledávače.
-
 search-suggestions-option =
     .label = Našeptávat dotazy pro vyhledávač
     .accesskey = n
-
 search-show-suggestions-url-bar-option =
     .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
-
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -833,12 +703,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Našeptávat dotazy pro vyhledávač v adresním řádku nad stránkami z historie prohlížení
-
 search-show-suggestions-private-windows =
     .label = Našeptávat dotazy pro vyhledávač také v anonymních oknech
-
 suggestions-addressbar-settings-generic2 = Změnit nastavení našeptávání v adresním řádku
-
 search-suggestions-cant-show =
     Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -851,29 +718,22 @@ search-suggestions-cant-show =
         [neuter] nepamatovalo
        *[other] nepamatovala
     } historii.
-
 search-one-click-header2 = Vyhledávače
-
 search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
-
 search-choose-engine-column =
     .label = Vyhledávač
 search-choose-keyword-column =
     .label = Klíčové slovo
-
 search-restore-default =
     .label = Obnovit výchozí vyhledávače
     .accesskey = d
-
 search-remove-engine =
     .label = Odebrat
     .accesskey = r
 search-add-engine =
     .label = Přidat
     .accesskey = P
-
 search-find-more-link = Přidat další vyhledávače
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Použité klíčové slovo
@@ -890,11 +750,9 @@ containers-header = Kontejnerové panely
 containers-add-button =
     .label = Přidat kontejner
     .accesskey = a
-
 containers-new-tab-check =
     .label = Zobrazit výběr kontejneru při klepnutí na tlačítko otevření nového panelu
     .accesskey = t
-
 containers-settings-button =
     .label = Nastavení
 containers-remove-button =
@@ -905,11 +763,9 @@ containers-remove-button =
 
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
-
 sync-signedout-account-signin3 =
     .label = Přihlásit se k synchronizaci…
     .accesskey = i
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -924,25 +780,19 @@ sync-mobile-promo = Stáhněte si Firefox pro <img data-l10n-name="android-icon
 
 sync-profile-picture =
     .tooltiptext = Změnit profilový obrázek
-
 sync-sign-out =
     .label = Odhlásit se…
     .accesskey = O
-
 sync-manage-account = Spravovat účet
     .accesskey = S
-
 sync-signedin-unverified = Účet { $email } není ověřen.
 sync-signedin-login-failure = Pro opětovné připojení účtem { $email } se přihlaste
-
 sync-resend-verification =
     .label = Znovu odeslat ověření
     .accesskey = d
-
 sync-remove-account =
     .label = Odebrat účet
     .accesskey = d
-
 sync-sign-in =
     .label = Přihlásit se
     .accesskey = i
@@ -950,15 +800,11 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronizace zapnuta
-
 prefs-syncing-off = Synchronizace vypnuta
-
 prefs-sync-turn-on-syncing =
     .label = Zapnout synchronizaci…
     .accesskey = s
-
 prefs-sync-offer-setup-label2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
-
 prefs-sync-now =
     .labelnotsyncing = Synchronizovat
     .accesskeynotsyncing = S
@@ -967,7 +813,6 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Máte zapnutou synchronizaci následujících dat:
-
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = Historie
 sync-currently-syncing-tabs = Otevřené panely
@@ -976,7 +821,6 @@ sync-currently-syncing-addresses = Adresy
 sync-currently-syncing-creditcards = Platební karty
 sync-currently-syncing-addons = Doplňky
 sync-currently-syncing-settings = Nastavení
-
 sync-change-options =
     .label = Změnit…
     .accesskey = Z
@@ -990,40 +834,32 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = U
     .buttonlabelextra2 = Zrušit synchronizaci…
     .buttonaccesskeyextra2 = Z
-
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z
-
 sync-engine-history =
     .label = Historii
     .accesskey = r
-
 sync-engine-tabs =
     .label = Otevřené panely
     .tooltiptext = Seznam panelů otevřených v ostatních zařízeních
     .accesskey = t
-
 sync-engine-logins-passwords =
     .label = Přihlašovací údaje
     .tooltiptext = Uložená uživatelská jména a hesla
     .accesskey = P
-
 sync-engine-addresses =
     .label = Adresy
     .tooltiptext = Uložené poštovní adresy (pouze na počítači)
     .accesskey = e
-
 sync-engine-creditcards =
     .label = Platební karty
     .tooltiptext = Jména, čísla a data expirace (pouze na počítači)
     .accesskey = K
-
 sync-engine-addons =
     .label = Doplňky
     .tooltiptext = Rozšíření a motivy vzhledu ve Firefoxu pro počítač
     .accesskey = D
-
 sync-engine-settings =
     .label = Nastavení
     .tooltiptext = Nastavení v sekcích Obecné a Soukromí a zabezpečení
@@ -1032,19 +868,15 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Název zařízení
-
 sync-device-name-change =
     .label = Přejmenovat toto zařízení…
     .accesskey = j
-
 sync-device-name-cancel =
     .label = Zrušit
     .accesskey = u
-
 sync-device-name-save =
     .label = Uložit
     .accesskey = l
-
 sync-connect-another-device = Připojit další zařízení
 
 ## Privacy Section
@@ -1056,7 +888,6 @@ privacy-header = Nastavení soukromí
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Přihlašovací údaje
     .searchkeywords = { -lockwise-brand-short-name }
-
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ptát se na ukládání přihlašovacích údajů
@@ -1071,7 +902,6 @@ forms-breach-alerts =
     .label = Upozorňovat na hesla uložená pro servery, kde došlo k úniku dat
     .accesskey = ú
 forms-breach-alerts-learn-more-link = Zjistit více
-
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automaticky vyplňovat přihlašovací údaje
@@ -1096,7 +926,6 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = { "" }
-
 forms-primary-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
 forms-master-pw-fips-desc = Neúspěšná změna hesla
 forms-windows-sso =
@@ -1108,7 +937,6 @@ forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízen
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
-
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -1119,7 +947,6 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy Section - History
 
 history-header = Historie prohlížení
-
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -1131,29 +958,23 @@ history-header = Historie prohlížení
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Historii prohlížených stránek
     .accesskey = i
-
 history-remember-option-all =
     .label = ukládat
 history-remember-option-never =
     .label = nikdy neukládat
 history-remember-option-custom =
     .label = ukládat podle vlastního nastavení
-
 history-remember-description = { -brand-short-name } si bude pamatovat historii vašeho prohlížení, stahování, formulářů a vyhledávání.
 history-dontremember-description = { -brand-short-name } použije stejné nastavení jako v režimu anonymního prohlížení a nebude si pamatovat žádnou historii prohlížení.
-
 history-private-browsing-permanent =
     .label = Vždy použít režim anonymního prohlížení
     .accesskey = p
-
 history-remember-browser-option =
     .label = Pamatovat si historii stránek a stahování
     .accesskey = s
-
 history-remember-search-option =
     .label = Pamatovat si historii hledání a formulářů
     .accesskey = f
-
 history-clear-on-close-option =
     .label =
         Vymazat historii při ukončení { -brand-short-name.gender ->
@@ -1163,11 +984,9 @@ history-clear-on-close-option =
            *[other] aplikace { -brand-short-name }
         }
     .accesskey = r
-
 history-clear-on-close-settings =
     .label = Nastavení…
     .accesskey = t
-
 history-clear-button =
     .label = Vymazat historii…
     .accesskey = V
@@ -1175,16 +994,12 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies a data stránek
-
 sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek…
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti je { $value } { $unit }.
-
 sitedata-learn-more = Zjistit více
-
 sitedata-delete-on-close =
     .label =
         Vymazat cookies a data stránek při zavření { -brand-short-name.gender ->
@@ -1194,22 +1009,17 @@ sitedata-delete-on-close =
            *[other] aplikace { -brand-short-name }
         }
     .accesskey = c
-
 sitedata-delete-on-close-private-browsing = V trvalém režimu anonymního prohlížení { -brand-short-name } smaže cookies a data stránek vždy při svém ukončení.
-
 sitedata-allow-cookies-option =
     .label = Ukládat všechny cookies a data stránek
     .accesskey = a
-
 sitedata-disallow-cookies-option =
     .label = Blokovat cookies a data stránek
     .accesskey = B
-
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokovat
     .accesskey = t
-
 sitedata-option-block-cross-site-trackers =
     .label = Sledovací prvky
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -1226,15 +1036,12 @@ sitedata-option-block-all-third-party =
     .label = Všechny cookies třetích stran (může omezit fungování některých stránek)
 sitedata-option-block-all =
     .label = Všechny cookies (omezí fungování některých stránek)
-
 sitedata-clear =
     .label = Vymazat data…
     .accesskey = V
-
 sitedata-settings =
     .label = Spravovat data…
     .accesskey = S
-
 sitedata-cookies-exceptions =
     .label = Výjimky…
     .accesskey = k
@@ -1242,9 +1049,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresní řádek
-
 addressbar-suggest = V adresním řádku našeptávat
-
 addressbar-locbar-history-option =
     .label = Historii prohlížení
     .accesskey = H
@@ -1264,17 +1069,13 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Vyhledávače
     .accesskey = a
-
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Rozšířená ochrana proti sledování
-
 content-blocking-section-top-level-description = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
-
 content-blocking-learn-more = Zjistit více
-
 content-blocking-fpi-incompatibility-warning = Používáte izolaci prvních stran (FPI), která potlačí některá nastavení cookies ve { -brand-short-name(case: "loc") }.
 
 ## These strings are used to define the different levels of
@@ -1297,7 +1098,6 @@ content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní sp
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
 content-blocking-etp-custom-desc = Vyberte sledovací prvky a skripty, které chcete zablokovat.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
-
 content-blocking-private-windows = Sledující obsah v anonymních oknech
 content-blocking-cross-site-cookies-in-all-windows = Všechny cookies třetích stran (včetně sledovacích cookies)
 content-blocking-cross-site-tracking-cookies = Sledovací cookies
@@ -1310,17 +1110,14 @@ content-blocking-all-windows-tracking-content = Sledující obsah blokován ve v
 content-blocking-all-third-party-cookies = Všechny cookies třetích stran blokovány vždy
 content-blocking-cryptominers = Těžba kryptoměn
 content-blocking-fingerprinters = Vytváření otisku prohlížeče
-
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description = Blokování sledujícího obsahu a izolace cookies může ovlivnit fungování některých stránek. Pro zobrazení veškerého obsahu znovu načtěte stránku s povolenými sledovacími prvky.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
-
 content-blocking-reload-description = Aby se změny projevily, načtěte znovu své panely.
 content-blocking-reload-tabs-button =
     .label = Znovu načíst všechny panely
     .accesskey = n
-
 content-blocking-tracking-content-label =
     .label = Sledující obsah
     .accesskey = o
@@ -1331,19 +1128,15 @@ content-blocking-option-private =
     .label = jen v anonymních oknech
     .accesskey = a
 content-blocking-tracking-protection-change-block-list = Změnit úroveň blokování
-
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
-
 content-blocking-expand-section =
     .tooltiptext = Více informací
-
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Těžbu kryptoměn
     .accesskey = y
-
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
@@ -1359,33 +1152,27 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Oprávnění
-
 permissions-location = Poloha
 permissions-location-settings =
     .label = Nastavení…
     .accesskey = a
-
 permissions-xr = Virtuální realita
 permissions-xr-settings =
     .label = Nastavení…
     .accesskey = t
-
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Nastavení…
     .accesskey = a
-
 permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Nastavení…
     .accesskey = n
-
 permissions-notification = Oznámení
 permissions-notification-settings =
     .label = Nastavení…
     .accesskey = n
 permissions-notification-link = Zjistit více
-
 permissions-notification-pause =
     .label =
         Zakázat oznámení do restartu { -brand-short-name.gender ->
@@ -1395,32 +1182,25 @@ permissions-notification-pause =
            *[other] aplikace { -brand-short-name }
         }
     .accesskey = n
-
 permissions-autoplay = Automatické přehrávání
-
 permissions-autoplay-settings =
     .label = Nastavení…
     .accesskey = t
-
 permissions-block-popups =
     .label = Blokovat vyskakovací okna
     .accesskey = B
-
 permissions-block-popups-exceptions =
     .label = Výjimky…
     .accesskey = k
-
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Výjimky…
     .accesskey = k
     .searchkeywords = popup
-
 permissions-addon-install-warning =
     .label = Vždy upozornit při pokusu o instalaci doplňku
     .accesskey = u
-
 permissions-addon-exceptions =
     .label = Výjimky…
     .accesskey = k
@@ -1434,7 +1214,6 @@ collection-header =
         [neuter] { -brand-short-name(case: "loc") }
        *[other] aplikaci { -brand-short-name }
     }
-
 collection-description =
     S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -1443,10 +1222,8 @@ collection-description =
        *[other] aplikace { -brand-short-name }
     }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
-
 collection-health-report-telemetry-disabled = Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
 collection-health-report-telemetry-disabled-link = Zjistit více
-
 collection-health-report =
     .label =
         { -vendor-short-name.gender ->
@@ -1457,7 +1234,6 @@ collection-health-report =
         } technická data a data o interakcích
     .accesskey = r
 collection-health-report-link = Zjistit více
-
 collection-studies =
     .label =
         Povolit { -brand-short-name.gender ->
@@ -1473,7 +1249,6 @@ collection-studies-link =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
-
 addon-recommendations =
     .label =
         Povolit { -brand-short-name.gender ->
@@ -1483,11 +1258,9 @@ addon-recommendations =
            *[other] aplikaci { -brand-short-name }
         } doporučovat rozšíření vybraná přímo pro mě
 addon-recommendations-link = Zjistit více
-
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
-
 collection-backlogged-crash-reports-with-link =
     Odesílat nevyřízená hlášení o pádech { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -1503,18 +1276,14 @@ collection-backlogged-crash-reports-with-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Zabezpečení
-
 security-browsing-protection = Ochrana před klamavým obsahem a nebezpečným softwarem
-
 security-enable-safe-browsing =
     .label = Blokovat nebezpečný a klamavý obsah
     .accesskey = B
 security-enable-safe-browsing-link = Zjistit více
-
 security-block-downloads =
     .label = Blokovat nebezpečná stahování
     .accesskey = s
-
 security-block-uncommon-software =
     .label = Upozorňovat na nežádoucí nebo neobvyklý software
     .accesskey = w
@@ -1522,23 +1291,18 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikáty
-
 certs-enable-ocsp =
     .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
     .accesskey = o
-
 certs-view =
     .label = Zobrazit certifikáty…
     .accesskey = C
-
 certs-devices =
     .label = Bezpečnostní zařízení…
     .accesskey = B
-
 space-alert-over-5gb-settings-button =
     .label = Otevřít Nastavení
     .accesskey = O
-
 space-alert-over-5gb-message2 =
     <strong>{ -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "dat") }
@@ -1546,7 +1310,6 @@ space-alert-over-5gb-message2 =
         [neuter] { -brand-short-name(case: "dat") }
        *[other] Aplikaci { -brand-short-name }
     } dochází místo na disku.</strong> Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Nastavení  > Soukromí a zabezpečení > Cookies a data stránek.
-
 space-alert-under-5gb-message2 =
     <strong>{ -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "dat") }
@@ -1558,7 +1321,6 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim „pouze HTTPS“
-
 httpsonly-description =
     Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "ins") }
@@ -1566,15 +1328,11 @@ httpsonly-description =
         [neuter] { -brand-short-name(case: "ins") }
        *[other] aplikací { -brand-short-name }
     } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
-
 httpsonly-learn-more = Zjistit více
-
 httpsonly-radio-enabled =
     .label = Zapnout režim „pouze HTTPS“ ve všech oknech
-
 httpsonly-radio-enabled-pbm =
     .label = Zapnout režim „pouze HTTPS“ v anonymních oknech
-
 httpsonly-radio-disabled =
     .label = Nezapínat režim „pouze HTTPS“
 
@@ -1583,7 +1341,6 @@ httpsonly-radio-disabled =
 desktop-folder-name = Plocha
 downloads-folder-name = Stažené soubory
 choose-download-folder-title = Vyberte složku pro stahování souborů
-
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
