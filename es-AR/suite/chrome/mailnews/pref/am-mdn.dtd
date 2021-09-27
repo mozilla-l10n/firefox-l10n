@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Dejarlo en mi bandeja de entrada">
 <!ENTITY leaveIt.accesskey            "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Moverlo a mi carpeta &quot;Enviado&quot;">
+<!ENTITY moveToSent.label             "Moverlo a mi carpeta &quot;Enviados&quot;">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "Cuando me sea solicitado un acuse de recibo:">
 <!ENTITY returnSome.label             "Permitir acuse de recibo para algunos mensajes">

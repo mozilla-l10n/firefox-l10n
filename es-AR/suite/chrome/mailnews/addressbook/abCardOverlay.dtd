@@ -25,7 +25,7 @@
 
 <!ENTITY NameField1.label               "Nombre:">
 <!ENTITY NameField1.accesskey           "N">
-<!ENTITY NameField2.label               "Apellidos:">
+<!ENTITY NameField2.label               "Apellido:">
 <!ENTITY NameField2.accesskey           "l">
 <!ENTITY PhoneticField1.label           "Nombre fonético:">
 <!ENTITY PhoneticField2.label           "Nombre fonético:">
@@ -45,7 +45,6 @@
 <!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconocido">
-
 <!ENTITY chatName.label                 "Nombre del chat:">
 
 <!ENTITY WorkPhone.label                "Trabajo:">
