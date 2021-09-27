@@ -132,7 +132,7 @@
 <!ENTITY redoDefaultCmd.accesskey "o">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Lišta nabídky">
+<!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
@@ -147,11 +147,11 @@
 <!ENTITY messagePaneWide.accesskey "r">
 <!ENTITY messagePaneVertical.label "Svislý pohled">
 <!ENTITY messagePaneVertical.accesskey "v">
-<!ENTITY showFolderPaneCmd.label "Panel složek">
+<!ENTITY showFolderPaneCmd.label "Podokno složek">
 <!ENTITY showFolderPaneCmd.accesskey "s">
-<!ENTITY showFolderPaneColsCmd.label "Sloupce panelu složek">
+<!ENTITY showFolderPaneColsCmd.label "Sloupce podokna složek">
 <!ENTITY showFolderPaneColsCmd.accesskey "l">
-<!ENTITY showMessageCmd.label "Panel zpráv">
+<!ENTITY showMessageCmd.label "Podokno zpráv">
 <!ENTITY showMessageCmd.accesskey "z">
 
 <!ENTITY folderView.label "Složky">
@@ -448,7 +448,7 @@
 <!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Otevřít jako souhrn">
 <!ENTITY openFeedSummary.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Zaměnit webovou stránku a souhrn v oblasti zprávy">
+<!ENTITY openFeedWebPageInMP.label "Zaměnit webovou stránku a souhrn v podokně zpráv">
 <!ENTITY openFeedWebPageInMP.accesskey "Z">
 
 <!-- Windows Menu -->

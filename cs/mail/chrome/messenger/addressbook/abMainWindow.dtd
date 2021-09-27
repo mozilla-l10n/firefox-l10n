@@ -66,7 +66,7 @@
 <!ENTITY viewMenu.accesskey                             "Z">
 <!ENTITY viewToolbarsMenu.label                         "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey                     "N">
-<!ENTITY menubarCmd.label                               "Lišta nabídky">
+<!ENTITY menubarCmd.label                               "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey                           "n">
 <!ENTITY showAbToolbarCmd.label                         "Lišta kontaktů">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
@@ -132,7 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "t">
 <!ENTITY deleteButton2.label                            "Smazat">
 <!ENTITY deleteButton2.accesskey                        "m">
-
 <!ENTITY removeButton.label                             "Smazat">
 <!ENTITY removeButton.accesskey                         "S">
 
@@ -147,7 +146,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Vytvoří novou zprávu">
 <!ENTITY newIM.tooltip                                  "Pošle krátkou zprávu nebo začne rozhovor">
 <!ENTITY deleteButton2.tooltip                          "Smaže označenou položku">
-
 <!ENTITY removeButton.tooltip                           "Smaže vybranou složku kontaktů">
 
 <!-- Search Bar -->

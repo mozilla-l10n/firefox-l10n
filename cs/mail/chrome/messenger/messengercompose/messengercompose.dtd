@@ -91,18 +91,18 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Uspořádat přílohy">
-<!ENTITY moveAttachmentBundleUpPanelBtn.label "Přesunout hromadně">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Umístit vedle sebe">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Uspořádat od A do Z">
-<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Uspořádat od Z do A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Seřadit od A do Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Seřadit od Z do A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Uspořádat výběr od A do Z">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Uspořádat výběr od Z do A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Seřadit výběr od A do Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Seřadit výběr od Z do A">
 <!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
@@ -110,7 +110,7 @@
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenuNew.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
-<!ENTITY menubarCmd.label "Lišta nabídky">
+<!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showCompositionToolbarCmd.label "Lišta pošty">
 <!ENTITY showCompositionToolbarCmd.accesskey "p">

@@ -10,7 +10,6 @@ unread-messages-os-tooltip =
         [few] { $count } nepřečtená zprávy
        *[other] { $count } nepřečtených zpráv
     }
-
 about-rights-notification-text = { -brand-short-name } je svobodný a otevřený software vytvořený komunitou tisíců lidí z celého světa.
 
 ## Content tabs
@@ -27,11 +26,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Doplňky a vzhledy
     .tooltiptext = Správa doplňků
-
 quick-filter-toolbarbutton =
     .label = Rychlý filtr
     .tooltiptext = Filtrování zpráv
-
 redirect-msg-button =
     .label = Přesměrovat
     .tooltiptext = Přesměruje vybranou zprávu
@@ -39,12 +36,10 @@ redirect-msg-button =
 ## Folder Pane
 
 folder-pane-toolbar =
-    .toolbarname = Nástroje panelů složek
+    .toolbarname = Nástroje podokna složek
     .accesskey = a
-
 folder-pane-toolbar-options-button =
-    .tooltiptext = Nastavení panelu složek
-
+    .tooltiptext = Nastavení podokna složek
 folder-pane-header-label = Složky
 
 ## Folder Toolbar Header Popup
@@ -52,27 +47,21 @@ folder-pane-header-label = Složky
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Skrýt nástrojovou lištu
     .accesskey = S
-
 show-all-folders-label =
     .label = Všechny složky
     .accesskey = V
-
 show-unread-folders-label =
     .label = Nepřečtené složky
     .accesskey = N
-
 show-favorite-folders-label =
     .label = Oblíbené složky
     .accesskey = O
-
 show-smart-folders-label =
     .label = Jednotné složky
     .accesskey = J
-
 show-recent-folders-label =
     .label = Nedávné složky
     .accesskey = e
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktní zobrazení
     .accesskey = K
@@ -89,19 +78,14 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Předvolby
-
 appmenu-addons-and-themes =
     .label = Doplňky a vzhledy
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Režim řešení potíží…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Ukončit režim řešení potíží
-
 appmenu-help-more-troubleshooting-info =
     .label = Další technické informace
-
 appmenu-redirect-msg =
     .label = Přesměrovat
 
@@ -128,7 +112,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adresa je v kontaktech
-
 message-header-address-not-in-address-book-icon =
     .alt = Adresa není v kontaktech
 
@@ -145,11 +128,9 @@ addon-removal-confirmation-message =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }?
-
 caret-browsing-prompt-title = Procházení stránky
 caret-browsing-prompt-text = Stisknutím klávesy F7 zapnete či vypnete funkci Procházení stránky. Ta umístí do obsahu textový kurzor, který vám umožní vybírat text pomocí klávesnice. Chcete zapnout funkci Procházení stránky?
 caret-browsing-prompt-check-text = Příště se už neptat.
-
 repair-text-encoding-button =
     .label = Opravit znakovou sadu textu
     .tooltiptext = Na základě obsahu zprávy odhadne správnou znakovou sadu textu
