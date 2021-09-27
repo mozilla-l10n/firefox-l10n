@@ -110,7 +110,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "¡Felicitaciones!">
-<!ENTITY completionText.label "Por favor, compruebe que la siguiente información sea correcta.">
+<!ENTITY completionText.label "Compruebe que la siguiente información sea correcta.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor entrante:">
 <!ENTITY serverNamePrefix.label "Nombre del servidor entrante:">
 <!ENTITY smtpServerNamePrefix.label "Nombre del servidor de correo saliente (SMTP):">
