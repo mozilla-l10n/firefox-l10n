@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Doporučená funkce
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Co to je
-
 cfr-doorhanger-extension-cancel-button = Teď ne
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Přidat
     .accesskey = a
-
 cfr-doorhanger-extension-manage-settings-button = Nastavení doporučování
     .accesskey = d
-
 cfr-doorhanger-extension-never-show-recommendation = Toto doporučení už nezobrazovat
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Zjistit více
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autor: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Doporučení
 cfr-doorhanger-extension-notification2 = Doporučení
     .tooltiptext = Doporučené rozšíření
     .a11y-announcement = Je dostupné doporučené rozšíření
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Doporučení
@@ -67,9 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uživatelů
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mějte své záložky všude s sebou.
@@ -90,32 +79,10 @@ cfr-protections-panel-link-text = Zjistit více
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nové funkce
-
 cfr-whatsnew-button =
     .label = Co je nového
     .tooltiptext = Co je nového
-
 cfr-whatsnew-release-notes-link-text = Přečtěte si poznámky k vydání
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -140,25 +107,8 @@ cfr-doorhanger-milestone-heading2 =
     }.
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Zavřít
     .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -177,18 +127,6 @@ cfr-doorhanger-fission-primary-button = OK, rozumím
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Zjistit více
     .accesskey = Z
-
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
 
 ## Full Video Support CFR message
 
@@ -220,3 +158,7 @@ cfr-doorhanger-video-support-primary-button = Aktualizovat
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Zdá se, že používáte veřejnou Wi-Fi síť
+spotlight-public-wifi-vpn-body = Pokud chcete skrýt svou polohu a aktivity během prohlížení internetu, zvažte využítí služby virtuální privátní sítě. Poskytne vám ochranu během prohlížení internetu na veřejných místech, v kavárně nebo na letišti.
+spotlight-public-wifi-vpn-link = Teď ne
+    .accesskey = n
