@@ -125,3 +125,8 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Správa záložek
     .accesskey = S
+places-forget-about-this-site-confirmation-title = Zapomínání této stránky
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Tímto smažete všechna data související se serverem { $hostOrBaseDomain }, včetně historie prohlížení, cookies, mezipaměti, nastavení obsahu i uložených hesel. Opravdu to chcete provést?
+places-forget-about-this-site-forget = Zapomenout

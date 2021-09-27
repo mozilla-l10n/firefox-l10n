@@ -160,5 +160,13 @@ cfr-doorhanger-video-support-primary-button = Aktualizovat
 
 spotlight-public-wifi-vpn-header = Zdá se, že používáte veřejnou Wi-Fi síť
 spotlight-public-wifi-vpn-body = Pokud chcete skrýt svou polohu a aktivity během prohlížení internetu, zvažte využítí služby virtuální privátní sítě. Poskytne vám ochranu během prohlížení internetu na veřejných místech, v kavárně nebo na letišti.
+spotlight-public-wifi-vpn-primary-button =
+    Ochraňte své soukromí { -mozilla-vpn-brand-name.gender ->
+        [masculine] s { -mozilla-vpn-brand-name(case: "ins") }
+        [feminine] s { -mozilla-vpn-brand-name(case: "ins") }
+        [neuter] s { -mozilla-vpn-brand-name(case: "ins") }
+       *[other] se službou { -mozilla-vpn-brand-name }
+    }
+    .accesskey = s
 spotlight-public-wifi-vpn-link = Teď ne
     .accesskey = n
