@@ -48,11 +48,18 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
     .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
