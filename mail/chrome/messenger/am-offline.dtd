@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Para ahorrar espacio en disco, descargar mensajes del servidor y mantener copias locales para usar sin conexión puede ser restringido por antigüedad o tamaño.">
 <!ENTITY allFoldersOffline2.label "En esta computadora guardar los mensajes en todas las carpetas para esta cuenta">
 <!ENTITY allFoldersOffline2.accesskey "o">
-<!ENTITY allFoldersOfflineNote.label "Nota: Este cambio afecta a todas las carpetas de esta cuenta. Para configurar las carpetas use el botón Avanzadas…">
+<!ENTITY allFoldersOfflineNote.label "Nota: Cambiar esto afectará a todas las carpetas de esta cuenta. Para configurar carpetas individuales use el botón Avanzadas…">
 <!ENTITY offlineNotDownload.label "Mensajes de tamaño superior a">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "No descargar mensajes más grandes que">
