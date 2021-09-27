@@ -6,7 +6,7 @@
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Servidor: ">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "DN base: ">
+<!ENTITY directoryBaseDN.label             "DN base:">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Buscar">
 <!ENTITY findButton.accesskey              "B">
@@ -34,11 +34,11 @@
 <!ENTITY saslMechanism.label               "Método de ingreso: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">
-<!ENTITY saslOff.accesskey		   "l">
+<!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey		   "K">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
