@@ -54,10 +54,69 @@ bookmark-tab =
 tab-context-open-in-new-container-tab =
     .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = e
+move-to-start =
+    .label = ᱮᱦᱚᱵ ᱥᱮᱫ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
+    .accesskey = S
+move-to-end =
+    .label = ᱢᱩᱪᱟᱹᱫ ᱥᱮᱫ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
+    .accesskey = E
 move-to-new-window =
-    .label = नावा विंडो रे चालाव
+    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
     .accesskey = W
+tab-context-close-multiple-tabs =
+    .label = ᱟᱭᱢᱟ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = M
+tab-context-share-url =
+    .label = ᱦᱟᱹᱴᱤᱧ ᱢᱮ
+    .accesskey = h
+tab-context-share-more =
+    .label = ᱟᱨᱦᱚᱸ…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+            [one] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+            [two] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱤᱱ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+           *[other] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+        }
+    .accesskey = o
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [one] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+           *[other] ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+        }
+    .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [one] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] ᱴᱮᱵᱽ ᱩᱪᱟᱹᱲ ᱢᱮ
+            [one] ᱴᱮᱵᱽ ᱩᱪᱟᱹᱲ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱩᱪᱟᱹᱲ ᱢᱮ
+           *[other] ᱴᱮᱵᱽ ᱠᱚ ᱩᱪᱟᱹᱲ ᱢᱮ
+        }
+    .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [1] ᱴᱮᱵᱽ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+            [one] ᱴᱮᱵᱽ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+        }
+    .accesskey = n
