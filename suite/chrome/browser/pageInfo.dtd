@@ -94,10 +94,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identidad del sitio web">
-<!ENTITY  securityView.identity.owner    "Autor: ">
+<!ENTITY  securityView.identity.owner    "Autor:">
 <!ENTITY  securityView.identity.domain   "Sitio web: ">
 <!ENTITY  securityView.identity.verifier "Verificado por: ">
-
 <!ENTITY  securityView.identity.validity "Caduca el:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidad e historial">
