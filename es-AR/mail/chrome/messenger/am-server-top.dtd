@@ -43,7 +43,7 @@
 <!ENTITY downloadOnBiff.label "Descargar automáticamente los mensajes nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY deleteMessagePrefix.label "Cuando borre un mensaje:">
-<!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta">
+<!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marcarlo como borrado">
 <!ENTITY modelMarkDeleted.accesskey "b">
