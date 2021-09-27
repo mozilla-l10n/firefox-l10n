@@ -11,6 +11,16 @@ navbar-tooltip-instruction =
 
 ## Back
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
+    .aria-label = ᱛᱟᱭᱚᱢ
+    .accesskey = B
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = ᱛᱟᱭᱚᱢ
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -18,6 +28,16 @@ toolbar-button-back-2 =
 
 ## Forward
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
+    .aria-label = ᱞᱟᱦᱟ
+    .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = ᱞᱟᱦᱟ
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -25,6 +45,9 @@ toolbar-button-forward-2 =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -231,6 +254,15 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ᱥᱟᱡᱽ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱧᱮᱞ ᱢᱮ
     .accesskey = ᱥ
+main-context-menu-print-selection =
+    .label = ᱪᱷᱟᱯᱟ ᱵᱟᱪᱷᱟᱣ
+    .accesskey = r
+main-context-menu-take-screenshot =
+    .label = ᱥᱠᱨᱤᱱᱮᱚᱴ ᱤᱫᱤᱢᱮ
+    .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = ᱥᱠᱨᱤᱱᱮᱚᱴ ᱤᱫᱤᱢᱮ
+    .accesskey = o
 main-context-menu-view-page-source =
     .label = ᱥᱟᱦᱴᱟ ᱧᱚᱛ ᱧᱮᱞ ᱢᱮ
     .accesskey = ᱥ
