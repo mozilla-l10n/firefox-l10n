@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Obnovit panely až když jsou potřeba">
 <!ENTITY restoreDeferred.accesskey      "n">
 
+<!ENTITY siteIcons.label                "Ikony webového serveru">
+<!ENTITY useSiteIcons.label             "Zobrazovat ikony webového serveru">
+<!ENTITY useSiteIcons.accesskey         "Z">
+<!ENTITY useFavIcons.label              "Zkusit použít ikonu serveru, pokud stránka neurčuje vlastní">
+<!ENTITY useFavIcons.accesskey          "t">
+
 <!ENTITY homePageIntro.label            "Na tuto stránku přejdete klepnutím na tlačítko Domů.">
 <!ENTITY useCurrent.label               "Použít aktuální stránku">
 <!ENTITY useCurrent.accesskey           "a">

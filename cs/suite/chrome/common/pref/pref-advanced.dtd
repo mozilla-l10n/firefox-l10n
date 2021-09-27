@@ -9,6 +9,21 @@
 <!ENTITY prefCheckDefaultClient.label     "Při startu kontrolovat nastavení výchozí aplikace">
 <!ENTITY prefCheckDefaultClient.accesskey "t">
 
+<!ENTITY defaultClientFor.description     "Použít aplikaci &brandShortName; jako výchozí program pro:">
+<!ENTITY setDefaultBrowser.label          "Prohlížeč">
+<!ENTITY setDefaultBrowser.accesskey      "P">
+<!ENTITY setDefaultMail.label             "Pošta">
+<!ENTITY setDefaultMail.accesskey         "o">
+<!ENTITY setDefaultNews.label             "Diskusní skupiny">
+<!ENTITY setDefaultNews.accesskey         "n">
+<!ENTITY setDefaultFeed.label             "Kanály">
+<!ENTITY setDefaultFeed.accesskey         "K">
+<!ENTITY useInternalSettings.description  "Použít &brandShortName; Mail &amp; Novinky při otevření odkazu pro:">
+<!ENTITY useInternalMail.label            "E-mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Novinky (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "v">
+
 <!ENTITY printing.label                   "Tisk">
 <!ENTITY useNativePrintDialog.label       "Použít nativní dialog tisku (pokud je podporován)">
 <!ENTITY useNativePrintDialog.accesskey   "u">
