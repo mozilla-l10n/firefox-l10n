@@ -67,7 +67,7 @@
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "serif">
-<!ENTITY  useDefaultFontSansSerif.label           "sans-serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  useDocumentFonts.label                  "Permitir a los documentos usar otra tipografía">
 <!ENTITY  useDocumentFonts.accesskey              "o">
