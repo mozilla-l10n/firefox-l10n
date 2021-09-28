@@ -9,7 +9,7 @@
 <!ENTITY enableSnapToGrid.label "habilitar Snap para la cuadrícula">
 <!ENTITY enableSnapToGrid.accessKey "e">
 
-<!ENTITY sizeEditField.label "Size:">
+<!ENTITY sizeEditField.label "Tamaño:">
 <!ENTITY sizeEditField.accessKey "S">
 
 <!ENTITY pixelsLabel.value "pixels">
