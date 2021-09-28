@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-advanced.xul -->
-
 <!-- extracted from am-advanced.xhtml -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
@@ -18,7 +16,7 @@
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Eliminar">
 <!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "Predeterminado">
+<!ENTITY smtpListSetDefault.label "Establecer predeterminado">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
 <!ENTITY serverDetails.label "Detalles del servidor seleccionado:">
