@@ -61,7 +61,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd2.label "Obtener próximos mensajes">
 <!ENTITY getNextNMsgCmd2.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Procesar mensajes no enviados">
+<!ENTITY sendUnsentCmd.label "Enviar mensajes pendientes">
 <!ENTITY sendUnsentCmd.accesskey "v">
 <!ENTITY subscribeCmd.label "Suscribirse…">
 <!ENTITY subscribeCmd.accesskey "b">
@@ -641,7 +641,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "p">
 <!ENTITY folderContextEmptyJunk.label "Borrar correo basura">
 <!ENTITY folderContextEmptyJunk.accesskey "c">
-<!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes…">
+<!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes">
 <!ENTITY folderContextSendUnsentMessages.accesskey "n">
 <!ENTITY folderContextUnsubscribe.label "Cancelar suscripción">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
