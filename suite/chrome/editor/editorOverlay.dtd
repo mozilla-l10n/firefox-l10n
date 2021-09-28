@@ -74,7 +74,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.title "Tamaño de la fuente">
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
-<!ENTITY decreaseFontSize.label "Más pequeño">
+<!ENTITY decreaseFontSize.label "Más chico">
 <!ENTITY decreaseFontSize.accesskey "s">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
