@@ -5,3 +5,4 @@
 crashed-title = ᱴᱮᱵᱽ ᱨᱟᱹᱯᱩᱫ ᱠᱷᱚᱵᱚᱨᱤᱭᱟᱹ
 crashed-close-tab-button = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 crashed-restore-tab-button = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱫᱩᱦᱲᱟᱹ ᱡᱚᱜᱟᱣ ᱢᱮ
+crashed-request-report-title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱠᱷᱚᱵᱚᱨ ᱢᱮ

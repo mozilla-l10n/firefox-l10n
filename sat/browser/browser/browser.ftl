@@ -46,6 +46,8 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
+urlbar-identity-button =
+    .aria-label = ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱫᱮᱠᱷᱟᱣ
 
 ## Tooltips for images appearing in the address bar
 
@@ -67,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = ᱠᱷᱚᱵᱚᱨ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ᱡᱟᱭᱜᱟ ᱱᱚᱦᱚᱨ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+urlbar-translate-notification-anchor =
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

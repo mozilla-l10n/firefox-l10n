@@ -42,9 +42,17 @@ appmenuitem-settings =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = ᱡᱤᱢ ᱤᱱ
+appmenuitem-zoom-reduce =
+    .label = ᱡᱩᱢ ᱟᱣᱴ
+appmenuitem-fullscreen =
+    .label = ᱯᱩᱨᱟᱹᱝ ᱥᱠᱨᱤᱱ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ…
 appmenu-remote-tabs-turn-on-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -68,6 +76,11 @@ appmenuitem-fxa-toolbar-sync-now2 = ᱱᱤᱛᱚᱜ ᱥᱤᱸᱝᱠ ᱢᱮ
 appmenuitem-fxa-sign-in = { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 appmenuitem-fxa-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = ᱢᱟᱲᱟᱝ ᱥᱭᱝᱠ ᱠᱟᱱ { $time }
+    .label = ᱢᱟᱲᱟᱝ ᱥᱭᱝᱠ ᱠᱟᱱ { $time }
 appmenu-fxa-signed-in-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 appmenu-fxa-setup-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...

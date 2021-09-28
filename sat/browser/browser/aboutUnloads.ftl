@@ -6,6 +6,8 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = ᱴᱮᱵᱽ ᱟᱹᱱᱞᱚᱰᱤᱝ
+about-unloads-last-updated = ᱢᱟᱲᱟᱝ ᱦᱟᱹᱞᱤᱭᱟᱠ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-host = ᱵᱮᱵᱚᱥᱛᱟᱭᱤᱡ
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB

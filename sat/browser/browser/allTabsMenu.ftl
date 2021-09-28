@@ -9,3 +9,6 @@ all-tabs-menu-new-user-context =
     .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
 all-tabs-menu-hidden-tabs =
     .label = ᱩᱠᱩ ᱴᱮᱵᱽ ᱠᱚ
+all-tabs-menu-manage-user-context =
+    .label = ᱫᱚᱦᱚ ᱴᱷᱟᱶ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
+    .accesskey = o
