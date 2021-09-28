@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY joinChatWindow.title           "Join chat">
-<!ENTITY name.label                     "Room">
+<!ENTITY name.label                     "Salón">
 <!ENTITY optional.label                 "(opcional)">
 <!ENTITY account.label                  "Cuenta">
 <!ENTITY autojoin.label                 "Auto-join this Chat Room">
