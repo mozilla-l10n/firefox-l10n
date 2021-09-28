@@ -13,7 +13,7 @@
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Eliminar">
 <!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "Predeterminado">
+<!ENTITY smtpListSetDefault.label "Establecer predeterminado">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
 <!ENTITY serverDetails.label "Detalles del servidor seleccionado:">
