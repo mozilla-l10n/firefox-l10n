@@ -16,7 +16,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "O">
 <!ENTITY TextAreaDisabled.label "Deshabilitada">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
+<!ENTITY TextAreaTabIndex.label "Índice de tabulación:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Tecla de acceso:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
