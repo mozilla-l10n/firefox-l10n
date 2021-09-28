@@ -14,7 +14,7 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Apodo">
 <!ENTITY NickName.accesskey                    "o">
-<!ENTITY SecondEmail.label                     "Otro correo electrónico">
+<!ENTITY SecondEmail.label                     "Correo electrónico adicional">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "r">
