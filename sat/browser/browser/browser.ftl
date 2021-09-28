@@ -287,6 +287,7 @@ urlbar-result-action-search-in-private = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷ�
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ᱥᱟᱶ ᱯᱟᱱᱛᱮ
 urlbar-result-action-switch-tab = ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
+urlbar-result-action-visit = ᱦᱤᱨᱤ
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -386,6 +387,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = ᱚᱯᱷᱞᱟᱭᱤ ᱠᱟᱹᱢᱤ ᱢᱮ
     .accesskey = ᱚ
+toolbar-overflow-customize-button =
+    .label = ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
+    .accesskey = C
 toolbar-button-email-link =
     .label = ᱤᱢᱮᱞ ᱞᱤᱝᱠ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱞᱤᱝᱠ ᱧᱮᱞ ᱢᱮ
@@ -409,6 +413,9 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱛᱤᱱᱟᱫᱜ ᱜᱟᱱ ᱟᱸᱡᱚᱢᱟᱜ ᱟᱨ ᱵᱟᱝ ᱣᱤᱰᱤᱭᱚ DRM ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱮᱵᱷᱟᱨᱟᱭ, ᱚᱠᱟ ᱫᱚ ᱥᱤᱢᱟ ᱵᱷᱤᱛᱨᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱪᱮᱫ ᱱᱚᱶᱟ ᱥᱟᱶ ᱟᱢ ᱠᱟᱹᱢᱤ ᱦᱚᱪᱚ ᱫᱟᱲᱮᱭᱟᱢᱟ { -brand-short-name } ᱾
 eme-notifications-drm-content-playing-manage = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = ᱵᱚᱸᱫ
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
@@ -417,13 +424,21 @@ panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 remote-tabs-sync-now = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = ᱟᱨᱦᱚᱸ…
 ui-tour-info-panel-close =
     .tooltiptext = ᱵᱚᱸᱫ ᱢᱮ
 
@@ -448,6 +463,11 @@ navbar-print =
 navbar-print-tab-modal-disabled =
     .label = ᱪᱷᱟᱯᱟ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
+navbar-home =
+    .label = ᱚᱲᱟᱜ
+    .tooltiptext = { -brand-short-name } ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
+navbar-search =
+    .title = ᱥᱮᱸᱫᱽᱨᱟ
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string

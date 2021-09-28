@@ -4,6 +4,13 @@
 
 customize-mode-restore-defaults =
     .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
+customize-mode-done =
+    .label = ᱦᱩᱭᱮᱱᱟ
+customize-mode-lwthemes-menu-manage =
+    .label = ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+    .accesskey = M
+customize-mode-toolbars =
+    .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱨ ᱠᱚ
 customize-mode-titlebar =
     .label = ᱧᱩᱛᱩᱢ ᱵᱟᱨ
 customize-mode-lwthemes =
