@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = ਵਰਤੋਂ ਅਧੀਨ ਪਲੱਗਇਨ-ਇਨ ਦਾ ਬੰਦੋਬਸਤ
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = ਸਾਈਟ ਦੇ ਹੋਰ ਬੁਲਾਰਿਆਂ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = ਆਪੇ-ਚਲਾਓ ਪੈਨਲ ਖੋਲ੍ਹੋ
 urlbar-persistent-storage-notification-anchor =
@@ -730,6 +734,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ਜਦੋਂ ਪੋਪਅੱਪ ਬਲਾਕ ਕੀਤੇ ਹੋਣ ਤਾਂ ਇਹ ਸੁਨੇਹਾ ਨਾ ਵੇਖਾਓ
     .accesskey = D
+edit-popup-settings =
+    .label = …ਪੌਪ-ਅੱਪ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬਦਲਣ ਨੂੰ ਲੁਕਾਓ
     .accesskey = H
