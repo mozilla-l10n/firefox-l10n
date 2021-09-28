@@ -4,6 +4,7 @@
 
 about-httpsonly-title-alert = Avviso modalità solo HTTPS
 about-httpsonly-title-connection-not-available = Connessione sicura non disponibile
+about-httpsonly-title-site-not-available = Versione sicura del sito non disponibile
 
 about-httpsonly-explanation-unavailable2 = È stata attivata la modalità solo HTTPS per una maggiore sicurezza ma non è disponibile una versione HTTPS di <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = Quale potrebbe essere la causa?
