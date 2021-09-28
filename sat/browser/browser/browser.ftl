@@ -133,6 +133,27 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-open-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱞᱮᱠᱷᱟ ᱥᱮᱴ ᱢᱮ
+    .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = “{ $engineName }” ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+    .tooltiptext = “{ $engineName }” ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+    .aria-label = “{ $engineName }” ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -155,6 +176,8 @@ bookmarks-edit-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 bookmark-panel-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = ᱵ
+bookmark-panel-save-button =
+    .label = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -163,12 +186,18 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-https-only-dropdown-on =
+    .label = ᱪᱟᱹᱞᱩ
+identity-https-only-dropdown-off =
+    .label = ᱵᱚᱸᱫᱚ
 identity-permissions-storage-access-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 identity-learn-more =
     .value = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 identity-disable-mixed-content-blocking =
     .label = ᱱᱤᱛᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱲ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚᱜ ᱠᱟᱱᱟ
     .accesskey = ᱱ
+identity-more-info-link-text =
+    .label = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 
 ## Window controls
 
@@ -190,7 +219,22 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = ᱠᱮᱢᱨᱟ:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = ᱠᱮᱢᱨᱟ
+popup-select-microphone-device =
+    .value = ᱢᱟᱭᱠᱨᱚᱯᱷᱳᱱ:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = ᱢᱟᱭᱠᱨᱚᱯᱷᱳᱱ
+popup-select-speaker-icon =
+    .tooltiptext = ᱨᱚᱲᱠᱩᱜ
 popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ ᱧᱮᱞᱚᱜᱟᱜ ᱣᱤᱱᱰᱚ ᱦᱟᱹᱴᱤᱧᱟᱜᱼᱟ ᱾
+popup-screen-sharing-block =
+    .label = ᱟᱠᱚᱴ
+    .accesskey = B
 
 ## WebRTC window or screen share tab switch warning
 
@@ -204,6 +248,14 @@ popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ �
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .aria-label = { $name } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 urlbar-switch-to-tab =
     .value = ᱴᱮᱵᱽ ᱨᱮ ᱚᱛᱟ:
 urlbar-go-button =
