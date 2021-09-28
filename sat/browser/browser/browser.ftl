@@ -71,6 +71,22 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = ᱡᱟᱭᱜᱟ ᱱᱚᱦᱚᱨ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 urlbar-translate-notification-anchor =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱟᱢᱟᱜ ᱣᱤᱱᱰᱚ ᱟᱨ ᱵᱟᱝ ᱥᱠᱨᱤᱱ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = ᱚᱯᱷᱯᱟᱭᱤᱱ ᱫᱚᱦᱚ ᱡᱟᱭᱜᱟ ᱢᱮᱥᱮᱡᱽ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱟᱢᱟᱜ ᱠᱟᱢᱨᱟ ᱟᱨ/ᱟᱨ ᱵᱟᱝ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱮᱴᱟᱜ ᱨᱚᱨᱚᱲᱤᱡ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+urlbar-search-tips-confirm = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = ᱥᱚᱞᱦᱟ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -81,6 +97,7 @@ urlbar-translate-notification-anchor =
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+urlbar-search-mode-tabs = ᱴᱮᱵᱽ ᱠᱚ
 urlbar-search-mode-history = ᱱᱟᱜᱟᱢ
 
 ##
@@ -108,8 +125,14 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ, ᱱᱚᱶᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮᱺ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
+search-one-offs-context-open-new-tab =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .accesskey = T
 
 ## Local search mode one-off buttons
 ## Variables:
