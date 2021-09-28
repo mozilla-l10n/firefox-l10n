@@ -43,15 +43,10 @@
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indica que no se aceptarán contrapropuestas">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
-
-<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -93,10 +88,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Borrar…">
 <!ENTITY  event.menu.item.delete.accesskey                "B">
-<!ENTITY  event.menu.item.page.setup.label                "Configuración de página">
-<!ENTITY  event.menu.item.page.setup.accesskey            "u">
-<!ENTITY  event.menu.item.print.label                     "Imprimir">
-<!ENTITY  event.menu.item.print.accesskey                 "p">
 
 <!ENTITY  event.menu.edit.label                           "Editar">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -121,8 +112,6 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "z">
-<!ENTITY  event.menu.view.showlink.label                  "Mostrar enlace relacionado">
-<!ENTITY  event.menu.view.showlink.accesskey              "r">
 
 <!ENTITY  event.menu.options.label                            "Opciones">
 <!ENTITY  event.menu.options.accesskey                        "O">
@@ -331,7 +320,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.6.label       "Junio" >
 <!ENTITY event.recurrence.pattern.yearly.month.7.label       "Julio" >
 <!ENTITY event.recurrence.pattern.yearly.month.8.label       "Agosto" >
-<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Setiembre" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Septiembre" >
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "Octubre" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "Noviembre" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "Diciembre" >
@@ -359,7 +348,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Junio" >
 <!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Julio" >
 <!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Agosto" >
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Setiembre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Septiembre" >
 <!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Octubre" >
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Noviembre" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Diciembre" >
