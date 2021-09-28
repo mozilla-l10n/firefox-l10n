@@ -50,7 +50,7 @@
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Obtener 500 nuevos mensajes">
 <!ENTITY getNextNMsgCmd.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Procesar mensajes no enviados">
+<!ENTITY sendUnsentCmd.label "Enviar mensajes pendientes">
 <!ENTITY sendUnsentCmd.accesskey "v">
 <!ENTITY subscribeCmd.label "Suscribirse…">
 <!ENTITY subscribeCmd.accesskey "b">
@@ -520,7 +520,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "p">
 <!ENTITY folderContextEmptyJunk.label "Vaciar basura">
 <!ENTITY folderContextEmptyJunk.accesskey "V">
-<!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes…">
+<!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes">
 <!ENTITY folderContextSendUnsentMessages.accesskey "n">
 <!ENTITY folderContextUnsubscribe.label "Cancelar suscripción">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
