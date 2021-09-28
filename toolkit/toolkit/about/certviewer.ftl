@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Información de la autoridad (AIA)
 certificate-viewer-certificate-policies = Políticas de certificado
 certificate-viewer-embedded-scts = SCT integrados
 certificate-viewer-crl-endpoints = Puntos finales de CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Descargar
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Esta extensión fue marcada como crítica, lo que significa que los clientes deben rechazar el certificado si no lo entienden.
@@ -115,7 +113,7 @@ certificate-viewer-unknown-group-label = (desconocido)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
-certificate-viewer-tab-mine = Tus certificados
+certificate-viewer-tab-mine = Sus certificados
 certificate-viewer-tab-people = Personas
 certificate-viewer-tab-servers = Servidores
 certificate-viewer-tab-ca = Autoridades
