@@ -66,7 +66,7 @@
 <!ENTITY minSize.none                             "Ninguno">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "serif">
+<!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  useDocumentFonts.label                  "Permitir a los documentos usar otra tipografía">
