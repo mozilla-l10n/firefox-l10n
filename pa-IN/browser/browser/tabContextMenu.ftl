@@ -90,6 +90,13 @@ tab-context-close-tabs =
            *[other] ਟੈਬਾਂ ਬੰਦ ਕਰੋ
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਟੈਬ ਬੰਦ ਕਰੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਬੰਦ ਕਰੋ
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -98,7 +105,6 @@ tab-context-move-tabs =
            *[other] ਟੈਬਾਂ ਭੇਜੋ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
