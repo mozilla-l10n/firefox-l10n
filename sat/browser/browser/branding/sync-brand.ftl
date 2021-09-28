@@ -4,8 +4,4 @@
 
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name =
-    { $capitalization ->
-        [sentence] Firefox ᱠᱷᱟᱛᱟ
-       *[title] Firefox ᱠᱷᱟᱛᱟ
-    }
+-fxaccount-brand-name = Firefox ᱠᱷᱟᱛᱟ
