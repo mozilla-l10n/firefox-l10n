@@ -256,19 +256,37 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .aria-label = { $name } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = { $name } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 urlbar-switch-to-tab =
     .value = ᱴᱮᱵᱽ ᱨᱮ ᱚᱛᱟ:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ᱯᱟᱥᱱᱟᱣ:
 urlbar-go-button =
     .tooltiptext = ᱴᱷᱟᱣ ᱵᱟᱨ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱮ ᱪᱟᱞᱟᱣ
+urlbar-page-action-button =
+    .tooltiptext = ᱥᱟᱦᱟᱴᱟ ᱠᱟᱹᱢᱤ ᱠᱚ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ᱥᱟᱶ ᱯᱟᱱᱛᱮ
+urlbar-result-action-switch-tab = ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
 

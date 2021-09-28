@@ -114,6 +114,8 @@ profiler-popup-start-recording-button =
     .label = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
 profiler-popup-discard-button =
     .label = ᱵᱟᱹᱨᱜᱤᱞ
+profiler-popup-capture-button =
+    .label = ᱠᱮᱯᱪᱚᱨ
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -131,6 +133,7 @@ appmenu-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ �
 appmenu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 appmenu-clear-history =
     .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
+appmenu-recent-history-subheader = ᱱᱤᱛᱚᱜᱟᱜ ᱱᱟᱜᱟᱢ
 appmenu-recently-closed-tabs =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ
 appmenu-recently-closed-windows =
@@ -143,6 +146,9 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
     .accesskey = A
+appmenu-get-help =
+    .label = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
+    .accesskey = h
 appmenu-help-more-troubleshooting-info =
     .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
     .accesskey = t
@@ -164,3 +170,4 @@ appmenu-help-feedback-page =
 
 appmenu-customizetoolbar =
     .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
+appmenu-developer-tools-subheader = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
