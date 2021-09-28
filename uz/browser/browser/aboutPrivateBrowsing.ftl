@@ -12,7 +12,7 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = { $name } orqali qidiring yoki manzilni kiriting
+    .title = { $engine } orqali qidiring yoki manzilni kiriting
 about-private-browsing-handoff-no-engine =
     .title = Qidiring yoki manzilni kiriting
 # Variables
