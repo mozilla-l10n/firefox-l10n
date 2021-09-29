@@ -17,3 +17,8 @@ opensearch-error-download-desc = { -brand-short-name } は次の場所から検�
 
 ##
 
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = 検索
+searchbar-icon =
+    .tooltiptext = 検索します
