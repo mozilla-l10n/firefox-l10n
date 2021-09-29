@@ -20,6 +20,8 @@
 
 <!ENTITY domain.ctx.forgetdomain.label "Pozabi to domeno">
 <!ENTITY domain.ctx.forgetdomain.accesskey "F">
+<!ENTITY domain.ctx.forgetglobal.label "Pozabi globalne podatke">
+<!ENTITY domain.ctx.forgetglobal.accesskey "z">
 
 
 <!ENTITY tab.cookies.label "Piškotki">
@@ -31,7 +33,7 @@
 <!ENTITY tab.forget.label "Pozabi">
 
 <!-- cookies -->
-<!ENTITY cookies.description "Na vašem računalniku so shranjeni naslednji piškotki te domeae:">
+<!ENTITY cookies.description "Na vašem računalniku so shranjeni naslednji piškotki te domene:">
 
 <!ENTITY cookies.tree.host.label "Spletno mesto">
 <!ENTITY cookies.tree.name.label "Ime piškotka">
@@ -63,6 +65,9 @@
 <!ENTITY perm.AskAlways "Vedno vprašaj">
 <!ENTITY perm.NeverSave "Nikoli ne shranjuj">
 <!ENTITY perm.Allow "Dovoli">
+<!ENTITY perm.AllowSameDomain "Dovoli za isto domeno">
+<!ENTITY perm.AllowSession "Dovoli v tej seji">
+<!ENTITY perm.Block "Zavrni">
 
 <!ENTITY perm.host.placeholder "Vnesite ime gostitelja">
 <!ENTITY perm.button.add.label "Dodaj">
@@ -115,8 +120,33 @@
 
 <!-- form data -->
 
+<!ENTITY fdata.tree.fieldname.label "Ime polja">
+<!ENTITY fdata.tree.value.label "Vnesena vrednost">
+<!ENTITY fdata.tree.usecount.label "Št. uporab">
+<!ENTITY fdata.tree.firstused.label "Prvič uporabljeno">
+<!ENTITY fdata.tree.lastused.label "Nazadnje uporabljeno">
 
+<!ENTITY fdata.ctx.remove.label "Odstrani">
+<!ENTITY fdata.ctx.remove.accesskey "O">
+<!ENTITY fdata.ctx.selectAll.label "Izberi vse">
+<!ENTITY fdata.ctx.selectAll.accesskey "v">
 
+<!ENTITY fdata.button.remove.label "Odstrani">
+<!ENTITY fdata.button.remove.accesskey "O">
 
 <!-- forget -->
+<!ENTITY forget.cookies.label "Piškotki">
+<!ENTITY forget.cookies.accesskey "š">
+<!ENTITY forget.permissions.label "Dovoljenja">
+<!ENTITY forget.permissions.accesskey "D">
+<!ENTITY forget.preferences.label "Nastavitve vsebine">
+<!ENTITY forget.preferences.accesskey "b">
+<!ENTITY forget.passwords.label "Gesla">
+<!ENTITY forget.passwords.accesskey "G">
+<!ENTITY forget.storage.label "Shramba">
+<!ENTITY forget.storage.accesskey "S">
+<!ENTITY forget.formdata.label "Podatki obrazcev">
+<!ENTITY forget.formdata.accesskey "o">
 
+<!ENTITY forget.button.label "Pozabi te podatke">
+<!ENTITY forget.button.accesskey "z">
