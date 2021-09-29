@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Vula zonke iithebhu
     .accesskey = V
-
 places-view =
     .label = Jonga
     .accesskey = g
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ngalo Mhla Nangesi Siza
     .accesskey = h
-
+places-history =
+    .aria-label = Imbali
 places-delete-domain-data =
     .label = Libala ngale sayithi
     .accesskey = L
 places-sortby-name =
     .label = Lungisa ngeGama
     .accesskey = r
-
