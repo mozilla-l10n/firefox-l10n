@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = Tucḍa deg usebded
 opensearch-error-duplicate-desc = { -brand-short-name } ur yezmir ara ad isebded azegrir n unadi si «{ $location-url }» acku yella umsadday s yisem-agi yakan.
-
 opensearch-error-format-title = amasal arameɣtu
 opensearch-error-format-desc = { -brand-short-name } ur izmir ara ad isbed amsaɣ seg: { $location-url }
-
 opensearch-error-download-title = Tuccḍa n usader
 opensearch-error-download-desc = { -brand-short-name } ur yezmir ara ad yezdem azegrir si: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Azen anadi
