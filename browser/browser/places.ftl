@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = 새 사생활 보호 창에 열기
     .accesskey = P
-
 places-add-bookmark =
     .label = 북마크 추가…
     .accesskey = B
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = 구분자 추가
     .accesskey = S
-
 places-view =
     .label = 보기
     .accesskey = w
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = 날짜 및 사이트순
     .accesskey = t
-
 places-history-search =
     .placeholder = 기록 검색
+places-history =
+    .aria-label = 기록
 places-bookmarks-search =
     .placeholder = 북마크 검색
-
 places-delete-domain-data =
     .label = 이 사이트 기억 안 함
     .accesskey = F
@@ -81,7 +79,6 @@ places-remove-folder =
            *[other] 폴더 삭제
         }
     .accesskey = m
-
 places-edit-folder2 =
     .label = 폴더 편집…
     .accesskey = i
@@ -92,18 +89,15 @@ places-delete-folder =
            *[other] 폴더 삭제
         }
     .accesskey = D
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 관리되는 북마크
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = 하위 폴더
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = 기타 북마크
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -113,7 +107,6 @@ places-remove-bookmark =
            *[other] 북마크 삭제
         }
     .accesskey = e
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -123,15 +116,11 @@ places-delete-bookmark =
            *[other] 북마크 삭제
         }
     .accesskey = D
-
 places-manage-bookmarks =
     .label = 북마크 관리
     .accesskey = M
-
 places-forget-about-this-site-confirmation-title = 이 사이트 기억 안 함
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = 이 작업은 기록, 비밀번호, 쿠키, 캐시 및 콘텐츠 기본 설정을 포함하여 { $hostOrBaseDomain } 사이트와 관련된 모든 데이터를 삭제합니다. 계속하시겠습니까?
-
 places-forget-about-this-site-forget = 기억 안 함
