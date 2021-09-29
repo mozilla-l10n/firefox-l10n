@@ -779,3 +779,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Opaite tendayke jehechauka
     .tooltiptext = Opaite tendayke jehechauka
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Ehechauka mba’éichapa
