@@ -130,3 +130,7 @@ cfr-doorhanger-video-support-primary-button = Actualisar ussa
 
 spotlight-public-wifi-vpn-header = I para che ti utiliseschias in WLAN public
 spotlight-public-wifi-vpn-body = Per zuppentar tia posiziun ed activitad da navigaziun, considerescha l'utilisaziun dad ina rait privata virtuala (VPN). Ella gida da ta proteger cura che ti navigheschas en lieus publics sco eroports e cafés.
+spotlight-public-wifi-vpn-primary-button = Salva tia sfera privata cun { -mozilla-vpn-brand-name }
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Betg ussa
+    .accesskey = B
