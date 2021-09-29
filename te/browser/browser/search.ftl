@@ -22,3 +22,5 @@ searchbar-submit =
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = వెతకండి
+searchbar-icon =
+    .tooltiptext = వెతుకు
