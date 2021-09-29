@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = 安裝錯誤
 opensearch-error-duplicate-desc = { -brand-short-name } 無法從「{ $location-url }」安裝搜尋引擎，因為已存在同名的搜尋引擎。
-
 opensearch-error-format-title = 格式無效
 opensearch-error-format-desc = { -brand-short-name } 無法安裝來自下列位置的搜尋引擎: { $location-url }
-
 opensearch-error-download-title = 下載錯誤
 opensearch-error-download-desc = { -brand-short-name } 無法從下列網址下載搜尋引擎: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = 送出搜尋
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = 搜尋
+searchbar-icon =
+    .tooltiptext = 搜尋
