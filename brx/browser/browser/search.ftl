@@ -10,11 +10,14 @@
 
 opensearch-error-duplicate-title = इनष्टल गोरोन्थि
 opensearch-error-duplicate-desc = "{ -brand-short-name }" निफ्राय { $location-url } आ नागिरनाय प्लागिनखौ इनष्टल खालामनो हायाखै बै मुंनि इन्जिनआ सिगाङावनो दं।
-
 opensearch-error-format-title = बाहायजायै फरमेट
-
 opensearch-error-download-title = डाउनल'ड गोरोन्थि
 opensearch-error-download-desc = निफ्राय { -brand-short-name } आ नागिरनाय प्लागिनखौ डाउनल'ड खालामनो हायाखै: { $location-url }
 
 ##
 
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = नागिर
+searchbar-icon =
+    .tooltiptext = नागिर
