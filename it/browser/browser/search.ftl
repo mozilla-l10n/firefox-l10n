@@ -10,11 +10,17 @@
 
 opensearch-error-duplicate-title = Errore di installazione
 opensearch-error-duplicate-desc = Non è stato possibile installare il plugin di ricerca da “{ $location-url }” poiché ne esiste già uno con lo stesso nome.
-
 opensearch-error-format-title = Formato non valido
 opensearch-error-format-desc = Non è stato possibile installare il motore di ricerca da: { $location-url }
-
 opensearch-error-download-title = Errore download
 opensearch-error-download-desc = Non è stato possibile scaricare il plugin di ricerca da: { $location-url }
 
 ##
+
+searchbar-submit =
+    .tooltiptext = Avvia ricerca
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Cerca
+searchbar-icon =
+    .tooltiptext = Cerca
