@@ -15,6 +15,8 @@ opensearch-error-download-desc = { -brand-short-name } හට සෙවුම්
 
 ##
 
+searchbar-submit =
+    .tooltiptext = සෙවුම යොමු කරන්න
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = සෙවුම
