@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Telepítési hiba
 opensearch-error-duplicate-desc = A { -brand-short-name } nem tudja telepíteni a keresőszolgáltatást „{ $location-url }” helyről, mert ilyen nevű keresőszolgáltatás már van.
-
 opensearch-error-format-title = Érvénytelen formátum
 opensearch-error-format-desc = { -brand-short-name } nem tudta telepíteni a keresőszolgáltatást innen: { $location-url }
-
 opensearch-error-download-title = Letöltési hiba
 opensearch-error-download-desc = A { -brand-short-name } nem tudta letölteni a keresőbővítményt innen: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Keresés indítása
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Keresés
+searchbar-icon =
+    .tooltiptext = Keresés
