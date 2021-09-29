@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = गासैखौबो टेबाव खेव
     .accesskey = O
-
 places-view =
     .label = नुथाय
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = अक्‍त' आरो साइट मथे
     .accesskey = t
-
 places-history-search =
     .placeholder = नागिरनायनि जारिमिन
+places-history =
+    .aria-label = जारिमिन
 places-bookmarks-search =
     .placeholder = बुकमार्कफोरखौ नागिर
-
 places-delete-domain-data =
     .label = बे साइटखौ बाव लां
     .accesskey = F
 places-sortby-name =
     .label = मुं मथे थख' साजाय
     .accesskey = r
-
