@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Open almal in oortjies
     .accesskey = O
-
 places-view =
     .label = Bekyk
     .accesskey = k
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Volgens datum en werf
     .accesskey = a
-
+places-history =
+    .aria-label = Geskiedenis
 places-delete-domain-data =
     .label = Vergeet van hierdie werf
     .accesskey = V
 places-sortby-name =
     .label = Rangskik volgens naam
     .accesskey = R
-
