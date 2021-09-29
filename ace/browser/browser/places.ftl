@@ -5,8 +5,8 @@
 places-open =
     .label = Peuhah
     .accesskey = O
-
 places-view =
     .label = Ngieng
     .accesskey = w
-
+places-history =
+    .aria-label = Riwayat
