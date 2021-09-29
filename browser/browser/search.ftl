@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } no pudo descargar el plug
 
 searchbar-submit =
     .tooltiptext = Enviar búsqueda
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Buscar
+searchbar-icon =
+    .tooltiptext = Buscar
