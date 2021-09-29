@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Nu ga'ue gatú
 opensearch-error-duplicate-desc = { -brand-short-name } nun ga'ue nana'huij “{ $location-url }” dadin' nga hua ngê a'ngo sa gu'naj dananj
-
 opensearch-error-format-title = Nitaj si araj yinà ma Formatô na
 opensearch-error-format-desc = { -brand-short-name } nu ga'ue gatu sa nana'ui riñanj: { $location-url }
-
 opensearch-error-download-title = Guire' sa naduninj
 opensearch-error-download-desc = { -brand-short-name } nu ga'ue naninj sa ruguñu'unj nana'ui': { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Ga'nin' ga'anj sa nana'ui'
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Nanà'uì'
+searchbar-icon =
+    .tooltiptext = Nanà'uì'
