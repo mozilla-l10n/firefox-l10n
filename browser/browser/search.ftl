@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } לא יכל להוריד 
 
 searchbar-submit =
     .tooltiptext = שליחת החיפוש
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = חיפוש
+searchbar-icon =
+    .tooltiptext = חיפוש
