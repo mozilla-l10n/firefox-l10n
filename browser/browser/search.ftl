@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } ಇದರಿಂದ ಹು
 
 searchbar-submit =
     .tooltiptext = ಹುಡುಕನ್ನು ಒಪ್ಪಿಸು
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = ಹುಡುಕು
+searchbar-icon =
+    .tooltiptext = ಹುಡುಕು
