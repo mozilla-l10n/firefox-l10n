@@ -222,10 +222,22 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Chuta! Casi logramos car
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
+newtab-pocket-new-topics-title = ¿Quieres más historias? Mira estos temas populares de { -pocket-brand-name }
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-learn-more = Aprender más
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarda las historias que amas en { -pocket-brand-name }, y potencia tu mente con fascinantes lecturas.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } es parte de la familia { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Cargar más historias
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = ¡Estás al día!
+newtab-pocket-last-card-desc = Revisa más tarde para ver más.
+newtab-pocket-last-card-image =
+    .alt = Estás al día
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
