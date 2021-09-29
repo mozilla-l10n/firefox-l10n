@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Bal me ket
 opensearch-error-duplicate-desc = { -brand-short-name } pe onongo romo keto larwak me yeny ki bot "{ $location-url }" pien ot aceli ki nying marwate ni dong tye.
-
 opensearch-error-format-title = Kit mape atir
 opensearch-error-format-desc = { -brand-short-name } pe onongo twero keto injin yeny ki ii: { $location-url }
-
 opensearch-error-download-title = Bal me gam
 opensearch-error-download-desc = { -brand-short-name } pe onongo romo gamo larwak me yeny ki bot: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Cwal yeny
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Yeny
+searchbar-icon =
+    .tooltiptext = Yeny

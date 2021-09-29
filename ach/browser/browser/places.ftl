@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Yab weng i dirica matino
     .accesskey = Y
-
 places-view =
     .label = Nen
     .accesskey = n
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ki Nino dwe kacel ki Kakube
     .accesskey = n
-
 places-history-search =
     .placeholder = Yeny gin mukato
+places-history =
+    .aria-label = Gin mukato
 places-bookmarks-search =
     .placeholder = Yeny alamabuk
-
 places-delete-domain-data =
     .label = Wek wii owil woko ikom pot buk man
     .accesskey = W
 places-sortby-name =
     .label = Yek ki nying
     .accesskey = r
-
