@@ -776,3 +776,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = 列出所有分頁
     .tooltiptext = 列出所有分頁
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>想開啟先前的分頁？</strong>您可以從 { -brand-short-name } 應用程式選單 <img data-l10n-name="icon"/> 當中的「歷史」重新開啟先前的瀏覽階段。
+restore-session-startup-suggestion-button = 告訴我怎麼做

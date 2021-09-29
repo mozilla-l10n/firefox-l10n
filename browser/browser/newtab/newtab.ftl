@@ -222,10 +222,22 @@ newtab-discovery-empty-section-topstories-timed-out = 唉呀，暫時無法載�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 熱門主題:
+newtab-pocket-new-topics-title = 想要更多文章嗎？看這些來自 { -pocket-brand-name } 的熱門主題
 newtab-pocket-more-recommendations = 更多推薦項目
 newtab-pocket-learn-more = 了解更多
 newtab-pocket-cta-button = 取得 { -pocket-brand-name }
 newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-product-name } 產品家族的一部份
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = 載入更多文章
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = 都讀完了！
+newtab-pocket-last-card-desc = 晚點再回來看看有沒有新文章。
+newtab-pocket-last-card-image =
+    .alt = 都讀完了！
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

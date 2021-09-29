@@ -87,7 +87,7 @@ extension-controlled-privacy-containers = 擴充套件「<img data-l10n-name="ic
 extension-controlled-websites-content-blocking-all-trackers = 擴充套件<img data-l10n-name="icon"/> { $name } 正在控制此設定。
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的 { -brand-short-name } 如何連線至網際網路。
+extension-controlled-proxy-config = 擴充套件「<img data-l10n-name="icon"/>{ $name }」正在控制您的 { -brand-short-name } 連線至網際網路的方式。
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
