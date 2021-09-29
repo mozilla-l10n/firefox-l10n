@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } ne povis elŝuti la serĉ
 
 searchbar-submit =
     .tooltiptext = Sendi serĉon
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Serĉi
+searchbar-icon =
+    .tooltiptext = Serĉi
