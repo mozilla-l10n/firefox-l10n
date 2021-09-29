@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Oscail gach rud i gcluaisíní
     .accesskey = O
-
 places-view =
     .label = Amharc
     .accesskey = m
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = De réir Dáta agus Suímh
     .accesskey = t
-
+places-history =
+    .aria-label = Stair
 places-delete-domain-data =
     .label = Déan Dearmad ar an Suíomh Seo
     .accesskey = D
 places-sortby-name =
     .label = Sórtáil de réir Ainm
     .accesskey = r
-
