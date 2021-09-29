@@ -168,8 +168,8 @@ page-action-remove-extension =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Приховати панелі
-    .accesskey = П
+    .label = Сховати панелі
+    .accesskey = С
 full-screen-exit =
     .label = Вийти з повноекранного режиму
     .accesskey = В
@@ -575,13 +575,13 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Приховати бічну панель закладок
+            [true] Сховати бічну панель закладок
            *[other] Показати панель закладок
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Приховати панель закладок
+            [true] Сховати панель закладок
            *[other] Показати панель закладок
         }
 bookmarks-tools-toolbar-visibility-panel =
@@ -738,7 +738,7 @@ edit-popup-settings =
     .label = Керувати налаштуваннями спливних вікон…
     .accesskey = К
 picture-in-picture-hide-toggle =
-    .label = Приховати перемикач Зображення в зображенні
+    .label = Сховати перемикач Зображення в зображенні
     .accesskey = х
 
 # Navigator Toolbox
@@ -780,3 +780,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Список усіх вкладок
     .tooltiptext = Список усіх вкладок
+
+## Infobar shown at startup to suggest session-restore
+

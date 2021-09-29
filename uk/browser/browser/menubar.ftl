@@ -16,9 +16,9 @@ menu-application-preferences =
 menu-application-services =
     .label = Служби
 menu-application-hide-this =
-    .label = Приховати { -brand-shorter-name }
+    .label = Сховати { -brand-shorter-name }
 menu-application-hide-other =
-    .label = Приховати інші
+    .label = Сховати інші
 menu-application-show-all =
     .label = Показати все
 menu-application-touch-bar =
@@ -38,20 +38,16 @@ menu-quit =
             [windows] й
            *[other] В
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Вийти з { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Вийти з { -brand-shorter-name }
-
 menu-about =
     .label = Про { -brand-shorter-name }
     .accesskey = о
