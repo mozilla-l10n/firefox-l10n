@@ -17,6 +17,8 @@ opensearch-error-download-desc = { -brand-short-name } ei suutnud alla laadida o
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Soorita otsing
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Otsi
