@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = פתיחה בחלון פרטי חדש
     .accesskey = ט
-
 places-add-bookmark =
     .label = הוספת סימנייה…
     .accesskey = מ
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = הוספת קו מפריד
     .accesskey = ד
-
 places-view =
     .label = תצוגה
     .accesskey = ת
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = לפי תאריך ואתר
     .accesskey = ל
-
 places-history-search =
     .placeholder = חיפוש בהיסטוריה
+places-history =
+    .aria-label = היסטוריה
 places-bookmarks-search =
     .placeholder = חיפוש בסימניות
-
 places-delete-domain-data =
     .label = לשכוח מאתר זה
     .accesskey = ש
@@ -81,7 +79,6 @@ places-remove-folder =
            *[other] הסרת תיקיות
         }
     .accesskey = ס
-
 places-edit-folder2 =
     .label = עריכת תיקייה…
     .accesskey = ת
@@ -93,18 +90,15 @@ places-delete-folder =
            *[other] מחיקת תיקיות
         }
     .accesskey = מ
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = סימניות מנוהלות
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = תיקיית משנה
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = סימניות אחרות
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -114,7 +108,6 @@ places-remove-bookmark =
            *[other] הסרת סימניות
         }
     .accesskey = ס
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -125,15 +118,11 @@ places-delete-bookmark =
            *[other] מחיקת סימניות
         }
     .accesskey = מ
-
 places-manage-bookmarks =
     .label = ניהול סימניות
     .accesskey = נ
-
 places-forget-about-this-site-confirmation-title = לשכוח מאתר זה
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = פעולה זו תסיר את כל הנתונים הקשורים ל־{ $hostOrBaseDomain } כולל היסטוריה, ססמאות, עוגיות, מטמון והעדפות תוכן. האם ברצונך להמשיך?
-
 places-forget-about-this-site-forget = לשכוח
