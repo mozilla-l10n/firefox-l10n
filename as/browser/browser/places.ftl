@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = সকলোক টেবত খোলক
     .accesskey = O
-
 places-view =
     .label = দৰ্শন কৰক
     .accesskey = w
@@ -27,27 +26,24 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = তাৰিখ আৰু ছাইটৰে
     .accesskey = t
-
 places-history-search =
     .placeholder = ইতিহাসৰ সন্ধান কৰক
+places-history =
+    .aria-label = ইতিহাস
 places-bookmarks-search =
     .placeholder = বুকমাৰ্কৰ সন্ধান কৰক
-
 places-delete-domain-data =
     .label = এই ছাইটৰ বিষয়ে পাহৰি যাওক
     .accesskey = F
 places-sortby-name =
     .label = নামেৰে সজাঁওক
     .accesskey = r
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = পৰিচালিত বুকমাৰ্কসমূহ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = উপফ'ল্ডাৰ
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = অন্য বুকমাৰ্কসমূহ
-
