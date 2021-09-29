@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästa
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populära ämnen:
+newtab-pocket-new-topics-title = Vill du ha fler nyheter? Se dessa populära ämnen från { -pocket-brand-name }
 newtab-pocket-more-recommendations = Fler rekommendationer
 newtab-pocket-learn-more = Läs mer
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
 newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } är en del av familjen { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Ladda fler nyheter
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Du är ikapp!
+newtab-pocket-last-card-desc = Kom tillbaka senare för mer.
+newtab-pocket-last-card-image =
+    .alt = Du är ikapp!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
