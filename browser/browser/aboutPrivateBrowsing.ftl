@@ -27,6 +27,7 @@ about-private-browsing-info-description-private-window = Priwatne wokno: { -bran
 about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće, ale přez to njebudźeće anonymny.
 about-private-browsing-learn-more-link = Dalše informacije
 about-private-browsing-hide-activity = Schowajće swoju aktiwitu a stejnišćo, hdźežkuli wobhladowak wužiwaće
+about-private-browsing-get-privacy = Wobstarajće sej škit priwatnosće wšudźe, hdźež přehladujeće
 about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
