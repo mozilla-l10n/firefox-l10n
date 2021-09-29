@@ -17,6 +17,8 @@ opensearch-error-download-desc = { -brand-short-name } tidak dapat mengunduh plu
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Kirim penelusuran
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Cari
