@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Deschide într-o fereastră privată nouă
     .accesskey = P
-
 places-add-bookmark =
     .label = Adaugă un marcaj…
     .accesskey = B
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Adaugă un separator
     .accesskey = S
-
 places-view =
     .label = Vizualizare
     .accesskey = V
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = După dată și site
     .accesskey = t
-
 places-history-search =
     .placeholder = Caută în istoric
+places-history =
+    .aria-label = Istoric
 places-bookmarks-search =
     .placeholder = Caută în marcaje
-
 places-delete-domain-data =
     .label = Uită totul despre acest site
     .accesskey = d
@@ -83,18 +81,15 @@ places-remove-folder =
            *[other] Elimină dosarele
         }
     .accesskey = m
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcaje gestionate
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subdosar
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Alte marcaje
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -106,8 +101,6 @@ places-remove-bookmark =
            *[other] Elimină marcajele
         }
     .accesskey = e
-
 places-manage-bookmarks =
     .label = Gestionează marcajele
     .accesskey = M
-
