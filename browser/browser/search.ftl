@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Instalēšanas kļūda
 opensearch-error-duplicate-desc = { -brand-short-name } nevar pievienot jaunu meklētāju no "{ $location-url }", jo šāds meklētājs jau ir pievienots.
-
 opensearch-error-format-title = Nederīgs formāts
 opensearch-error-format-desc = { -brand-short-name } nevarēja instalēt meklētāju no: { $location-url }
-
 opensearch-error-download-title = Lejupielādes kļūda
 opensearch-error-download-desc = { -brand-short-name } nevar lejupielādēt meklētāju no: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Nosūtīt meklējumu
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Meklēt
+searchbar-icon =
+    .tooltiptext = Meklēt
