@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Òtemkni wszëtkò w kôrtach
     .accesskey = Ò
-
 places-view =
     .label = Wëzdrzatk
     .accesskey = W
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Wedle datuma i stronë
     .accesskey = t
-
+places-history =
+    .aria-label = Historiô
 places-delete-domain-data =
     .label = Rëmôj całowną domenã
     .accesskey = d
 places-sortby-name =
     .label = Zortëjë wedle miona
     .accesskey = r
-
