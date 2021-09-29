@@ -11,7 +11,6 @@ places-open-all-in-tabs =
 places-open-in-private-window =
     .label = Buksan sa Bagong Private Window
     .accesskey = P
-
 places-add-bookmark =
     .label = Magdagdag ng Bookmark…
     .accesskey = B
@@ -24,7 +23,6 @@ places-add-folder =
 places-add-separator =
     .label = Magdagdag ng Separator
     .accesskey = S
-
 places-view =
     .label = I-view
     .accesskey = w
@@ -43,12 +41,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ayon sa Petsa at Site
     .accesskey = t
-
 places-history-search =
     .placeholder = Kasaysayan ng paghahanap
+places-history =
+    .aria-label = Kasaysayan
 places-bookmarks-search =
     .placeholder = Maghanap ng mga bookmark
-
 places-delete-domain-data =
     .label = Kalimutan ang pahinang ito
     .accesskey = K
@@ -72,18 +70,15 @@ places-remove-folder =
            *[other] Alisin ang mga Folder
         }
     .accesskey = s
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Mga naka-manage na bookmark
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subfolder
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Iba pang mga Bookmark
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -93,4 +88,3 @@ places-remove-bookmark =
            *[other] Alisin ang Bookmarks
         }
     .accesskey = i
-

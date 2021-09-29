@@ -17,6 +17,8 @@ opensearch-error-download-desc = Hindi ma-download ng { -brand-short-name } ang 
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Isumite ang hinahanap
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Hanapin
