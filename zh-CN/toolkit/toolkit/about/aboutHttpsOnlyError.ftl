@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = HTTPS-Only 模式警告
 about-httpsonly-title-connection-not-available = 安全连接不可用
-
+about-httpsonly-title-site-not-available = 安全网站不可用
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = 为增强安全性，您已启用 HTTPS-Only 模式，但 <em>{ $websiteUrl }</em> 的 HTTPS 版本不可用。
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = 可能是什么原因造成的？
 about-httpsonly-explanation-nosupport = 该网站很可能根本不支持 HTTPS。
 about-httpsonly-explanation-risk = 也可能是有人正企图攻击您。若您还是决定访问此网站的 HTTP 版本，则不应在网站中输入密码、邮箱或信用卡号等敏感信息。
 about-httpsonly-explanation-continue = 若继续，将暂时对此网站关闭 HTTPS-Only 模式。
-
 about-httpsonly-button-continue-to-site = 继续前往 HTTP 网站
 about-httpsonly-button-go-back = 返回
 about-httpsonly-link-learn-more = 详细了解…
