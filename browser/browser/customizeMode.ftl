@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Anulěrowaś
 customize-mode-lwthemes-my-themes =
     .value = Móje drastwy
+customize-mode-lwthemes-link = Drastwy zastojaś
 customize-mode-touchbar-cmd =
     .label = Dotyknjeńsku rědku pśiměriś…
 customize-mode-downloads-button-autohide =

@@ -787,3 +787,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Wšykne rejtariki nalicyś
     .tooltiptext = Wšykne rejtariki nalicyś
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Cośo pjerwjejšne rejtariki wócyniś?</strong> Móžośo swóje pjerwjejšne pósejźenje z nałožeńskego menija { -brand-short-name } <img data-l10n-name="icon"/> pód Historija wótnowiś.
+restore-session-startup-suggestion-button = Pokažćo kak
