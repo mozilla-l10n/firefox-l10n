@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Uddit Fof e Tabbe
     .accesskey = U
-
 places-view =
     .label = Hollir
     .accesskey = i
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Leemto Ñalngu e Lowre
     .accesskey = g
-
 places-history-search =
     .placeholder = Yiylo aslol
+places-history =
+    .aria-label = Aslol
 places-bookmarks-search =
     .placeholder = Yiylo maantore
-
 places-delete-domain-data =
     .label = Faalkiso Ndee Lowre
     .accesskey = F
 places-sortby-name =
     .label = Leemtir Innde
     .accesskey = r
-
