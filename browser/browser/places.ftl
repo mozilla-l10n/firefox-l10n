@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Hamısını Vərəqlərdə Aç
     .accesskey = A
-
 places-view =
     .label = Görünüş
     .accesskey = G
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Tarix və sayt
     .accesskey = T
-
 places-history-search =
     .placeholder = Tarixçədə axtar
+places-history =
+    .aria-label = Tarixçə
 places-bookmarks-search =
     .placeholder = Əlfəcinlərdə Axtar
-
 places-delete-domain-data =
     .label = Bu saytı unut
     .accesskey = u
 places-sortby-name =
     .label = Ada görə sırala
     .accesskey = k
-
