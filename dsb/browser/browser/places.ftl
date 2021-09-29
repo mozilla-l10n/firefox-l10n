@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = W nowem priwatnem woknje wócyniś
     .accesskey = i
-
 places-add-bookmark =
     .label = Cytańske znamje pśidaś…
     .accesskey = C
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Nowu źěleńsku liniju pśidaś
     .accesskey = l
-
 places-view =
     .label = Naglěd
     .accesskey = N
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pó datumje a sedle
     .accesskey = t
-
 places-history-search =
     .placeholder = Historiju pśepytaś
+places-history =
+    .aria-label = Historija
 places-bookmarks-search =
     .placeholder = Cytańske znamjenja pśepytaś
-
 places-delete-domain-data =
     .label = Toś to sedło zabyś
     .accesskey = s
@@ -84,7 +82,6 @@ places-remove-folder =
            *[other] Zarědniki wótwónoźeś
         }
     .accesskey = t
-
 places-edit-folder2 =
     .label = Zarědnik wobźěłaś…
     .accesskey = Z
@@ -98,18 +95,15 @@ places-delete-folder =
            *[other] Zarědniki lašowaś
         }
     .accesskey = l
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Zastojane cytańske znamjenja
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Pódzarědnik
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druge cytańske znamjenja
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -122,7 +116,6 @@ places-remove-bookmark =
            *[other] $count cytańskich znamjenjow wótwónoźeś
         }
     .accesskey = t
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -135,15 +128,11 @@ places-delete-bookmark =
            *[other] Cytańske znamjenja lašowaś
         }
     .accesskey = l
-
 places-manage-bookmarks =
     .label = Cytańske znamjenja zastojaś
     .accesskey = C
-
 places-forget-about-this-site-confirmation-title = Toś to sedło zabyś
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Toś ta akcija wšykne daty nastupajucy { $hostOrBaseDomain }, mjazy drugimi historiju, gronidła, cookieje, pufrowak a nastajenja wopśimjeśa, wótwónoźijo. Cośo napšawdu pókšacowaś?
-
 places-forget-about-this-site-forget = Zabyś
