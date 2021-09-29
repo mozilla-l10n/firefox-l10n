@@ -34,13 +34,19 @@ printui-less-settings = ᱠᱚᱢ ᱥᱟᱡᱟᱣ ᱠᱚ
 printui-paper-size-label = ᱥᱟᱦᱴᱟ ᱢᱟᱯ
 # Section title (noun) for the print scaling options
 printui-scale = ᱱᱟᱯᱟᱠ
+printui-scale-fit-to-page-width = ᱥᱟᱦᱴᱟ ᱚᱥᱟᱨ ᱨᱮ ᱠᱷᱟᱯᱟᱜ
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = ᱱᱟᱯᱟᱠ
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = ᱵᱟᱨ ᱯᱟᱦᱴᱟ ᱪᱷᱟᱯᱟ
+printui-two-sided-printing-off = ᱵᱚᱸᱫᱚ
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = ᱛᱮᱭᱟᱨ
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = ᱦᱟᱛᱟᱣ
 
