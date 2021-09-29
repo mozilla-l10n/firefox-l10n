@@ -4,33 +4,27 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Ընտրել աւգտուողի հաշիւը
-
 profile-selection-button-accept =
     .label = մեկնարկել { -brand-short-name }­-ը
-
 profile-selection-button-cancel =
     .label = Ելք
-
 profile-selection-new-button =
     .label = Ստեղծել հաշիւ…
     .accesskey = C
-
 profile-selection-rename-button =
     .label = Հաշիւը վերանուանել…
     .accesskey = Հ
-
 profile-selection-delete-button =
     .label = Հաշիւը ջնջել…
     .accesskey = Հ
+profile-selection-conflict-message = { -brand-product-name }-ի այլ պատճենը ձեր հաշիւներում փոփոխութիւններ է կատարել։ Դուք պէտք է վերագործարկէք { -brand-short-name }-ը նախքան այլ փոփոութիւններ կատարելը։
 
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name }­-ը պահում է Ձեր կարգաւորումները, նախընտրանքներն ու այլ բնութագրերը Ձեր աւգտուողի հաշուում։
-
 profile-manager-work-offline =
     .label = Աշխատել ցանցից դուրս
     .accesskey = Ա
-
 profile-manager-use-selected =
     .label = Աւգտագործէք ընտրուած հաշիւը մեկնարկման ժամանակ
     .accesskey = ը
