@@ -17,6 +17,8 @@ opensearch-error-download-desc = { -brand-short-name }, arama yan uygulamasını
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Aramayı gönder
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Arama
