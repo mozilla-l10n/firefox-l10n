@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Відкрити в приватному вікні
     .accesskey = п
-
 places-add-bookmark =
     .label = Додати закладку…
     .accesskey = з
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Додати роздільник
     .accesskey = ь
-
 places-view =
     .label = Перегляд
     .accesskey = е
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = За датою і сайтом
     .accesskey = й
-
 places-history-search =
     .placeholder = Шукати в історії
+places-history =
+    .aria-label = Історія
 places-bookmarks-search =
     .placeholder = Шукати закладки
-
 places-delete-domain-data =
     .label = Забути про цей сайт
     .accesskey = З
@@ -83,7 +81,6 @@ places-remove-folder =
            *[many] Вилучити теки
         }
     .accesskey = и
-
 places-edit-folder2 =
     .label = Редагувати теку…
     .accesskey = г
@@ -95,18 +92,15 @@ places-delete-folder =
            *[many] Видалити теки
         }
     .accesskey = л
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Керовані закладки
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Підтека
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Інші закладки
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -117,7 +111,6 @@ places-remove-bookmark =
            *[many] Вилучити { $count } закладок
         }
     .accesskey = ч
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -128,15 +121,11 @@ places-delete-bookmark =
            *[many] Видалити закладки
         }
     .accesskey = з
-
 places-manage-bookmarks =
     .label = Керувати закладками
     .accesskey = К
-
 places-forget-about-this-site-confirmation-title = Забути цей сайт
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ця дія вилучить усі дані, пов'язані з { $hostOrBaseDomain }, включно з історією, паролями, куками, кешем та налаштуваннями вмісту. Ви дійсно хочете продовжити?
-
 places-forget-about-this-site-forget = Забути
