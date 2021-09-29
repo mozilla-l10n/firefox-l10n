@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = ເປີດທັງຫມົດໃນແທັບ
     .accesskey = O
-
 places-view =
     .label = ມູມມອງ
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ຕາມວັນທີແລະເວັບໄຊທ໌
     .accesskey = t
-
 places-history-search =
     .placeholder = ຊອກຫາປະຫວັດການໃຊ້ງານ
+places-history =
+    .aria-label = ປະຫວັດ
 places-bookmarks-search =
     .placeholder = ຊອກຫາບຸກມາກ
-
 places-delete-domain-data =
     .label = ລືມກ່ຽວກັບໄຊທ໌ນີ້
     .accesskey = F
 places-sortby-name =
     .label = ລຽງຕາມຊື່
     .accesskey = r
-
