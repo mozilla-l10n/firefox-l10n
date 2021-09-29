@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Otvori sve u tabovima
     .accesskey = O
-
 places-view =
     .label = Prikaži
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Po datumu i stranici
     .accesskey = t
-
 places-history-search =
     .placeholder = Pretraži historiju
+places-history =
+    .aria-label = Historija
 places-bookmarks-search =
     .placeholder = Pretraži zabilješke
-
 places-delete-domain-data =
     .label = Zaboravi na ovu stranicu
     .accesskey = Z
 places-sortby-name =
     .label = Sortiraj po imenu
     .accesskey = r
-
