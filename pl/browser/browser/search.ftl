@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Błąd instalacji
 opensearch-error-duplicate-desc = { -brand-short-name } nie mógł zainstalować wtyczki dla wyszukiwarki z „{ $location-url }”, ponieważ wtyczka o tej nazwie już istnieje.
-
 opensearch-error-format-title = Nieprawidłowy format
 opensearch-error-format-desc = { -brand-short-name } nie mógł zainstalować wyszukiwarki z adresu { $location-url }
-
 opensearch-error-download-title = Błąd pobierania
 opensearch-error-download-desc = { -brand-short-name } nie mógł pobrać wtyczki dla wyszukiwarki z adresu { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Szukaj
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Szukaj
+searchbar-icon =
+    .tooltiptext = Szukaj
