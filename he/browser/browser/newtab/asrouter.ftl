@@ -128,5 +128,7 @@ cfr-doorhanger-video-support-primary-button = עדכון כעת
 
 spotlight-public-wifi-vpn-header = נראה שהתחברת לרשת אלחוטית ציבורית
 spotlight-public-wifi-vpn-body = כדי להסתיר את המיקום ואת פעילות הגלישה שלך, כדאי לשקול להשתמש ברשת וירטואלית פרטית (VPN). היא תסייע לך להתגונן בזמן גלישה במקומות ציבוריים כמו נמלי תעופה ובתי קפה.
+spotlight-public-wifi-vpn-primary-button = להישאר אנונימי עם { -mozilla-vpn-brand-name }
+    .accesskey = ל
 spotlight-public-wifi-vpn-link = לא כעת
     .accesskey = ל
