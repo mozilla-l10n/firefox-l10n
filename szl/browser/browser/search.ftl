@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Feler przi instalacyji
 opensearch-error-duplicate-desc = Aplikacyjo { -brand-short-name } niy poradziyła zainstalować rozszyrzynio wyszukowarki „{ $location-url }“, bo już je inksze z takim mianym.
-
 opensearch-error-format-title = Zły format
 opensearch-error-format-desc = Aplikacyjo { -brand-short-name } niy poradziyła zainstalować wyszukowarki ze: { $location-url }
-
 opensearch-error-download-title = Feler przi pobiyraniu
 opensearch-error-download-desc = Aplikacyjo { -brand-short-name } niy poradziyła pobrać rozszyrzynio wyszukowarki ze: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Poślij szukanie
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Szukej
+searchbar-icon =
+    .tooltiptext = Szukej
