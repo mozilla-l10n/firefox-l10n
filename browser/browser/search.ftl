@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = Erreur à l’installation
 opensearch-error-duplicate-desc = { -brand-short-name } ne peut pas installer le plugin de recherche à partir de « { $location-url } » car un moteur portant le même nom existe déjà.
-
 opensearch-error-format-title = Format invalide
 opensearch-error-format-desc = { -brand-short-name } n’a pas pu installer le moteur de recherche depuis : { $location-url }
-
 opensearch-error-download-title = Erreur de téléchargement
 opensearch-error-download-desc = { -brand-short-name } n’a pas pu télécharger le plugin de recherche à partir de : { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Lancer la recherche
