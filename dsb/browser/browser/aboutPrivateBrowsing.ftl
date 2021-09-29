@@ -21,16 +21,15 @@ about-private-browsing-handoff-text = Pytajśo z { $engine } abo zapódajśo adr
 about-private-browsing-handoff-text-no-engine = Pytaś abo adresu zapódaś
 about-private-browsing-not-private = Tuchylu njejsćo w priwatnem woknje.
 about-private-browsing-info-description = { -brand-short-name } wašu pytańsku a pśeglědowańsku historjiu wuproznijo, gaž nałoženje spušćijośo abo wšykne rejtariki a wokna priwatnego modus zacynijośo. Pšez to se wólažcyjo, pśed drugimi, kótarež toś to licadło wužywaju, schowaś, což online gótujośo, lěcrownož to was za websedła abo wašogo póbitowarja internetneje słužby njeanonymizěrujo.
-
 about-private-browsing-need-more-privacy = Trjebaśo wěcej priwatnosći?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } wopytaś
-
+about-private-browsing-info-description-private-window = Priwatne wokno: { -brand-short-name } wašu pytańsku a pśeglědowańsku historiju lašujo, gaž wšykne priwatne wokna zacynjaśo. Pśez to njebuźośo anonymny.
 about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytańsku a pśeglědowańsku historiju lašujo, gaž wšykne priwatne wokna zacynjaśo, ale pśez to njebuźośo anonymny.
 about-private-browsing-learn-more-link = Dalšne informacije
-
 about-private-browsing-hide-activity = Schowajśo swóju aktiwitu a stojnišćo, źožkuli wobglědowak wužywaśo
+about-private-browsing-get-privacy = Wobstarajśo se šćit priwatnosći wšuźi, źož pśeglědujośo
+about-private-browsing-hide-activity-1 = Schowajśo pśeglědowańsku aktiwitu a stojnišćo z { -mozilla-vpn-brand-name }. Z jadnym kliknjenim napórajośo zwisk, samo w zjawnem WLAN:
 about-private-browsing-prominent-cta = Šćitajśo swóju priwatnosć z { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

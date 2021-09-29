@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy womało zacytal
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Woblubowane temy:
+newtab-pocket-new-topics-title = Cośo dalšne tšojeńka? Woglědajśo se toś te woblubowane temy z { -pocket-brand-name }
 newtab-pocket-more-recommendations = Dalšne pórucenja
 newtab-pocket-learn-more = Dalšne informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstaraś
 newtab-pocket-cta-text = Składujśo tšojeńka, kótarež se wam spódobuju, w { -pocket-brand-name } a žywśo swój duch z fasciněrujucymi cytańkami.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jo źěl swójźby { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Dalšne tšojeńka zacytaś
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Sćo na běžnem!
+newtab-pocket-last-card-desc = Glědajśo póozdźej za wěcej.
+newtab-pocket-last-card-image =
+    .alt = Sćo na běžnem
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
