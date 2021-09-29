@@ -6,6 +6,9 @@ screenshot-toolbarbutton =
   .label = Acquisisci schermata
   .tooltiptext = Acquisisci schermata
 
+screenshot-shortcut =
+  .key = S
+
 screenshots-instructions = Trascina o fai clic su una pagina per selezionare un’area della pagina. Premi ESC per annullare.
 screenshots-cancel-button = Annulla
 screenshots-save-visible-button = Salva l’area visibile
