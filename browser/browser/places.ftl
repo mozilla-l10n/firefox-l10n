@@ -5,7 +5,6 @@
 places-open =
     .label = Bula
     .accesskey = B
-
 places-view =
     .label = Leba
     .accesskey = a
@@ -24,4 +23,5 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ka Letlha le Setsha
     .accesskey = t
-
+places-history =
+    .aria-label = Tiragalo tse di fetileng
