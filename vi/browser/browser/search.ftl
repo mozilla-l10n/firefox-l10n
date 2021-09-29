@@ -10,12 +10,15 @@
 
 opensearch-error-duplicate-title = Lỗi cài đặt
 opensearch-error-duplicate-desc = { -brand-short-name } không thể cài đặt phần bổ trợ tìm kiếm từ "{ $location-url }" bởi vì một máy tìm kiếm cùng tên đã tồn tại.
-
 opensearch-error-format-title = Định dạng không hợp lệ
 opensearch-error-format-desc = { -brand-short-name } không thể cài đặt công cụ tìm kiếm từ: { $location-url }
-
 opensearch-error-download-title = Lỗi tải xuống
 opensearch-error-download-desc = { -brand-short-name } không thể tải xuống phần bổ trợ tìm kiếm từ: { $location-url }
 
 ##
 
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Tìm kiếm
+searchbar-icon =
+    .tooltiptext = Tìm kiếm
