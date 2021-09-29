@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = Eraro dum instalo
 opensearch-error-duplicate-desc = { -brand-short-name } ne povis instali la serĉilon el "{ $location-url }" ĉar alia serĉilo kun la sama nomo jam ekzistas.
-
 opensearch-error-format-title = Nevalida formo
 opensearch-error-format-desc = { -brand-short-name } ne povis instali la serĉilon el: { $location-url }
-
 opensearch-error-download-title = Eraro dum elŝuto
 opensearch-error-download-desc = { -brand-short-name } ne povis elŝuti la serĉilon el: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Sendi serĉon
