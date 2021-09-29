@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Síne nuu iin ventana yu´u
     .accesskey = p
-
 places-add-bookmark =
     .label = Tee a ta´a ini noo´o...
     .accesskey = m
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Tee separador
     .accesskey = s
-
 places-view =
     .label = Kune'ya
     .accesskey = V
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Taji Fecha ji Sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Nánuku historial
+places-history =
+    .aria-label = Sɨ´ɨ
 places-bookmarks-search =
     .placeholder = Nánuku a ta´a ini noo´o
-
 places-delete-domain-data =
     .label = Nnaku'u sitio ya'a
     .accesskey = O
@@ -75,15 +73,12 @@ places-remove-folder =
            *[other] Xita da carpetas
         }
     .accesskey = m
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tetiñu da marcadores
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subcarpeta
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Da inka marcadores
-

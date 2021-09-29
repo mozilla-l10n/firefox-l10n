@@ -9,10 +9,10 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Error sa nkajie'e chu'un
-
 opensearch-error-format-title = Formato ntu vatu
-
 opensearch-error-download-title = Nkene iin error sa nxinuu
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Chu'un íchi a nánuku
