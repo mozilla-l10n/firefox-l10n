@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } ले खोजी प�
 
 searchbar-submit =
     .tooltiptext = खोज बुझाउनुहोस्
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = खोजी गर्नुहोस्
+searchbar-icon =
+    .tooltiptext = खोजी गर्नुहोस्
