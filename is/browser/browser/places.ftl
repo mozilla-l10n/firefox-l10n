@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Opna allt í flipum
     .accesskey = O
-
 places-view =
     .label = Skoða
     .accesskey = S
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Eftir dagsetningu og vefsvæði
     .accesskey = t
-
 places-history-search =
     .placeholder = Leita í ferli
+places-history =
+    .aria-label = Ferill
 places-bookmarks-search =
     .placeholder = Leita í bókamerkjum
-
 places-delete-domain-data =
     .label = Gleyma þessu vefsvæði
     .accesskey = f
 places-sortby-name =
     .label = Raða eftir nafni
     .accesskey = r
-

@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Villa í uppsetningu
 opensearch-error-duplicate-desc = { -brand-short-name } gat ekki sett upp leitartengiforrit frá “{ $location-url }” því þegar er til leitarvél með sama nafni.
-
 opensearch-error-format-title = Ógilt snið
 opensearch-error-format-desc = { -brand-short-name } tókst ekki að setja inn leitarvél frá: { $location-url }
-
 opensearch-error-download-title = Villa í niðurhali
 opensearch-error-download-desc = { -brand-short-name } gat ekki niðurhalað leitar tengiforriti frá: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Senda leit
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Leita
+searchbar-icon =
+    .tooltiptext = Leita
