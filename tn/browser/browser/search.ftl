@@ -12,3 +12,5 @@ opensearch-error-download-title = Phoso ya Kopololo
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Romela patlo
