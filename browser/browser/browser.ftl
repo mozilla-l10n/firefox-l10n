@@ -776,3 +776,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listar todas as abas
     .tooltiptext = Listar todas as abas
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Abrir abas anteriores?</strong> Você pode restaurar a sessão anterior no menu <img data-l10n-name="icon"/> do { -brand-short-name }, em Histórico.
+restore-session-startup-suggestion-button = Mostrar como fazer
