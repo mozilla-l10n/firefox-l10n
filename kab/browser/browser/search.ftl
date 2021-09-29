@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } ur yezmir ara ad yezdem a
 
 searchbar-submit =
     .tooltiptext = Azen anadi
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Nadi
+searchbar-icon =
+    .tooltiptext = Nadi
