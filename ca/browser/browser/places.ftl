@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Obre-ho tot en pestanyes
     .accesskey = O
-
 places-open-in-window =
     .label = Obre en una finestra nova
     .accesskey = f
 places-open-in-private-window =
     .label = Obre en una finestra privada nova
     .accesskey = p
-
 places-add-bookmark =
     .label = Afegeix una adreça d'interès…
     .accesskey = A
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Afegeix un separador
     .accesskey = s
-
 places-view =
     .label = Visualitza
     .accesskey = V
@@ -53,19 +50,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Per data i lloc
     .accesskey = t
-
 places-history-search =
     .placeholder = Cerca en l'historial
+places-history =
+    .aria-label = Historial
 places-bookmarks-search =
     .placeholder = Cerca en les adreces d'interès
-
 places-delete-domain-data =
     .label = Oblida aquest lloc
     .accesskey = O
 places-sortby-name =
     .label = Ordena per nom
     .accesskey = r
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Edita l'adreça d'interès…
@@ -83,18 +79,15 @@ places-remove-folder =
            *[other] Elimina les carpetes
         }
     .accesskey = m
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Adreces d'interès gestionades
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subcarpeta
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altres adreces d'interès
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -104,8 +97,6 @@ places-remove-bookmark =
            *[other] Elimina les adreces d'interès
         }
     .accesskey = m
-
 places-manage-bookmarks =
     .label = Gestiona les adreces d'interès
     .accesskey = G
-
