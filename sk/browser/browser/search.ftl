@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Chyba pri inštalácii
 opensearch-error-duplicate-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z  “{ $location-url }”, pretože modul s rovnakým názvom už existuje.
-
 opensearch-error-format-title = Neplatný formát
 opensearch-error-format-desc = Aplikácii { -brand-short-name } sa nepodarilo nainštalovať vyhľadávací modul z { $location-url }
-
 opensearch-error-download-title = Chyba pri sťahovaní
 opensearch-error-download-desc = Aplikácii { -brand-short-name } sa nepodarilo sťiahnuť vyhľadávací modul z { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Odoslať vyhľadávanie
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Hľadať
+searchbar-icon =
+    .tooltiptext = Vyhľadávanie
