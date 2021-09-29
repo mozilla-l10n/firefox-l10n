@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = Napaka pri namestitvi
 opensearch-error-duplicate-desc = { -brand-short-name } ni uspel namestiti iskalnika iz "{ $location-url }", ker iskalnik z enakim imenom že obstaja.
-
 opensearch-error-format-title = Neveljavna oblika
 opensearch-error-format-desc = { -brand-short-name } ni uspel namestiti iskalnika na naslovu { $location-url }
-
 opensearch-error-download-title = Napaka pri prenosu
 opensearch-error-download-desc = { -brand-short-name } ni uspel prenesti iskalnika iz: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Začni iskati
