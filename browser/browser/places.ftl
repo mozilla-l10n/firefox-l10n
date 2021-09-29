@@ -11,7 +11,6 @@ places-open-in-tab =
 places-open-all-in-tabs =
     .label = Բացել Բոլորը Ներդիրներում
     .accesskey = O
-
 places-view =
     .label = Տեսք
     .accesskey = Տ
@@ -30,16 +29,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ըստ ամսաթվի և կայքի
     .accesskey = t
-
 places-history-search =
     .placeholder = Որոնել պատմություն
+places-history =
+    .aria-label = Պատմություն
 places-bookmarks-search =
     .placeholder = Որոնել էջանիշեր
-
 places-delete-domain-data =
     .label = Մոռանալ Այս Կայքի Մասին
     .accesskey = F
 places-sortby-name =
     .label = Խմբավորել ըստ անունների
     .accesskey = r
-
