@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Помилка встановлення
 opensearch-error-duplicate-desc = { -brand-short-name } не зміг встановити засіб пошуку з „{ $location-url }“ бо засіб з таким ім’ям вже існує.
-
 opensearch-error-format-title = Некоректний формат
 opensearch-error-format-desc = { -brand-short-name } не зміг встановити засіб пошуку з: { $location-url }
-
 opensearch-error-download-title = Помилка завантаження
 opensearch-error-download-desc = { -brand-short-name } не зміг завантажити засіб пошуку з: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Відправити пошуковий запит
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Пошук
+searchbar-icon =
+    .tooltiptext = Пошук
