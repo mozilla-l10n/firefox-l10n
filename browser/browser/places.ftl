@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Отвори во јазичиња
     .accesskey = т
-
 places-view =
     .label = Поглед
     .accesskey = П
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Датум и место
     .accesskey = т
-
 places-history-search =
     .placeholder = Барај во историјата
+places-history =
+    .aria-label = Историја
 places-bookmarks-search =
     .placeholder = Барај во обележувачите
-
 places-delete-domain-data =
     .label = Заборави го ова место
     .accesskey = б
 places-sortby-name =
     .label = Подреди по име
     .accesskey = р
-
