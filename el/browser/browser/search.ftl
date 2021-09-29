@@ -17,3 +17,5 @@ opensearch-error-download-desc = Το { -brand-short-name } δεν μπόρεσ�
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Υποβολή αναζήτησης
