@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } a pas pogut telecargar lo
 
 searchbar-submit =
     .tooltiptext = Mandar la recèrca
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Recercar
+searchbar-icon =
+    .tooltiptext = Recercar
