@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = បើក​ក្នុង​ផ្ទាំង​ទាំងអស់
     .accesskey = ប
-
 places-view =
     .label = មើល
     .accesskey = ម
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = តាម​កាលបរិច្ឆេទ និង​តំបន់បណ្ដាញ
     .accesskey = ក
-
 places-history-search =
     .placeholder = ប្រវត្តិ​ស្វែងរក
+places-history =
+    .aria-label = ប្រវត្តិ
 places-bookmarks-search =
     .placeholder = ចំណាំ​ការស្វែងរក
-
 places-delete-domain-data =
     .label = បំភ្លេច​តំបន់​បណ្ដាញ​នេះ
     .accesskey = ប
 places-sortby-name =
     .label = តម្រៀប​តាម​ឈ្មោះ
     .accesskey = r
-
