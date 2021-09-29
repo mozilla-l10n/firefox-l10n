@@ -12,6 +12,7 @@
 <!ENTITY privatebrowsingpage.status.private      "&brandShortName; za to okno ne bo shranjeval zgodovine.">
 <!ENTITY privatebrowsingpage.status.normal       "Trenutno niste v zasebnem oknu.">
 
+<!ENTITY privatebrowsingpage.common.description  "V oknu zasebnega brskanja &brandShortName; ne shranjuje nobene zgodovine brskanja, zgodovine iskanja, zgodovine prenosov, zgodovine sletnih obrazcev, piškotkov ali začasnih internetnih datotek.  Ustvarjeni zaznamki in prenesene datoteke bodo ohranjene.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Več o tem">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "V">
 
