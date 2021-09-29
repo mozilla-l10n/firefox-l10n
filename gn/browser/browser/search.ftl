@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Jejavy ñemohendakuévo
 opensearch-error-duplicate-desc = { -brand-short-name } ndaikatúi omohenda jehekaha mboguejyrã’i “{ $location-url }” guive oĩ haguére hekaha pe teraitépe.
-
 opensearch-error-format-title = Ysaja oiko’ỹva
 opensearch-error-format-desc = { -brand-short-name } ndaikatúi omohenda jehekaha mongu’eha guive: { $location-url }
-
 opensearch-error-download-title = Jejavy ñemboguejykuévo
 opensearch-error-download-desc = { -brand-short-name } ndaikatúi omboguejy jehekaha mboguejyrã’i guive: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Jeheka mondo
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Heka
+searchbar-icon =
+    .tooltiptext = Heka
