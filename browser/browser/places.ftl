@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Dobrir dins una fenèstra privada
     .accesskey = p
-
 places-add-bookmark =
     .label = Apondre un marcapagina…
     .accesskey = A
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Apondre un separador
     .accesskey = s
-
 places-view =
     .label = Visualizar
     .accesskey = z
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Per data e site
     .accesskey = t
-
 places-history-search =
     .placeholder = Cercar dins l’istoric
+places-history =
+    .aria-label = Istoric
 places-bookmarks-search =
     .placeholder = Cercar dins los marcapaginas
-
 places-delete-domain-data =
     .label = Oblidar aqueste site
     .accesskey = O
@@ -82,7 +80,6 @@ places-remove-folder =
            *[other] Suprimir los dossièrs
         }
     .accesskey = S
-
 places-edit-folder2 =
     .label = Modificar lo dossièr…
     .accesskey = i
@@ -94,18 +91,15 @@ places-delete-folder =
            *[other] Suprimir los dossièrs
         }
     .accesskey = S
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapaginas constrenches
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sosdossièr
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Autres marcapaginas
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -116,7 +110,6 @@ places-remove-bookmark =
            *[other] Suprimir los marcapaginas
         }
     .accesskey = S
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -127,11 +120,8 @@ places-delete-bookmark =
            *[other] Suprimir los marcapaginas
         }
     .accesskey = S
-
 places-manage-bookmarks =
     .label = Gerir los marcapaginas
     .accesskey = G
-
 places-forget-about-this-site-confirmation-title = Oblidar aqueste site
-
 places-forget-about-this-site-forget = Oblidar
