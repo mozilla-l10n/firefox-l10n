@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Kul feeri nor lokey ra
     .accesskey = f
-
 places-view =
     .label = Guna
     .accesskey = G
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Han nda nungu bande
     .accesskey = H
-
+places-history =
+    .aria-label = Taariki
 places-delete-domain-data =
     .label = Dirɲa nungoo woo
     .accesskey = D
 places-sortby-name =
     .label = Fay maa bande
     .accesskey = r
-
