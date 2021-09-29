@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Open All in Tabs
     .accesskey = O
-
 places-view =
     .label = View
     .accesskey = w
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = By Date and Site
     .accesskey = t
-
+places-history =
+    .aria-label = History
 places-delete-domain-data =
     .label = Forget About This Site
     .accesskey = F
 places-sortby-name =
     .label = Sort By Name
     .accesskey = r
-
