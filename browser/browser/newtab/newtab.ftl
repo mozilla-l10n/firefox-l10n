@@ -222,6 +222,7 @@ newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 热门主题：
+newtab-pocket-new-topics-title = 想刷到更多文章？看这些 { -pocket-brand-name } 上的热门主题
 newtab-pocket-more-recommendations = 更多推荐
 newtab-pocket-learn-more = 详细了解
 newtab-pocket-cta-button = 获取 { -pocket-brand-name }
