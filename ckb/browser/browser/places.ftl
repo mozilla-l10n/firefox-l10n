@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = هەمووی لە ناو بازدەرەکان بکەرەوە
     .accesskey = O
-
 places-view =
     .label = پیشاندان
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = بەپێی ڕۆژ و ماڵپەڕ
     .accesskey = t
-
 places-history-search =
     .placeholder = گەڕان لە ناو مێژووی کاردا
+places-history =
+    .aria-label = مێژوو
 places-bookmarks-search =
     .placeholder = گەڕان لە دڵخوازەکان
-
 places-delete-domain-data =
     .label = دەربارەی ئەم ماڵپەڕە لە بیربکە
     .accesskey = F
 places-sortby-name =
     .label = بەپێی ناو
     .accesskey = r
-
