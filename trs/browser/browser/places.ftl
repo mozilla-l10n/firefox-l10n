@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Na'nïn' dara'anj 'ngà rakïj ñanj
     .accesskey = O
-
 places-view =
     .label = Gini'iaj
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Da' dato ni sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Nej sa ni'io' gà' nana'uî'
+places-history =
+    .aria-label = Sa gini’iājt
 places-bookmarks-search =
     .placeholder = Nana'ui' sa raj sun nichrò' doj
-
 places-delete-domain-data =
     .label = Gini'ñu sitio na
     .accesskey = F
 places-sortby-name =
     .label = Nagi'iaj chre' daj si yugui ma
     .accesskey = r
-
