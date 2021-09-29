@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότ
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Δημοφιλή θέματα:
+newtab-pocket-new-topics-title = Θέλετε περισσότερα άρθρα; Δείτε αυτά τα δημοφιλή θέματα από το { -pocket-brand-name }
 newtab-pocket-more-recommendations = Περισσότερες προτάσεις
 newtab-pocket-learn-more = Μάθετε περισσότερα
 newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
 newtab-pocket-cta-text = Αποθηκεύστε τις ιστορίες που αγαπάτε στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.
+newtab-pocket-pocket-firefox-family = Το { -pocket-brand-name } ανήκει στην οικογένεια του { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Φόρτωση περισσότερων άρθρων
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Τελειώσατε!
+newtab-pocket-last-card-desc = Ελέγξτε ξανά αργότερα για περισσότερα.
+newtab-pocket-last-card-image =
+    .alt = Τελειώσατε!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
