@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Ouvrir dans une nouvelle fenêtre privée
     .accesskey = p
-
 places-add-bookmark =
     .label = Ajouter un marque-page…
     .accesskey = o
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Ajouter un séparateur
     .accesskey = s
-
 places-view =
     .label = Trier
     .accesskey = T
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = par date et par site
     .accesskey = t
-
 places-history-search =
     .placeholder = Rechercher dans l’historique
+places-history =
+    .aria-label = Historique
 places-bookmarks-search =
     .placeholder = Rechercher dans les marque-pages
-
 places-delete-domain-data =
     .label = Oublier ce site
     .accesskey = b
@@ -82,7 +80,6 @@ places-remove-folder =
            *[other] Supprimer les dossiers
         }
     .accesskey = m
-
 places-edit-folder2 =
     .label = Modifier le dossier…
     .accesskey = i
@@ -93,18 +90,15 @@ places-delete-folder =
            *[other] Supprimer les dossiers
         }
     .accesskey = S
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marque-pages gérés
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sous-dossier
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Autres marque-pages
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -115,7 +109,6 @@ places-remove-bookmark =
            *[other] Supprimer les marque-pages
         }
     .accesskey = e
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -125,15 +118,11 @@ places-delete-bookmark =
            *[other] Supprimer les marques pages
         }
     .accesskey = S
-
 places-manage-bookmarks =
     .label = Organiser les marque-pages
     .accesskey = m
-
 places-forget-about-this-site-confirmation-title = Oublier ce site
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Cette action supprime toutes les données relatives à { $hostOrBaseDomain }, y compris l’historique, les mots de passe, les cookies, le cache et les préférences de contenu. Voulez-vous vraiment poursuivre ?
-
 places-forget-about-this-site-forget = Oublier
