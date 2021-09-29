@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } ഇവിടെ നിന
 
 searchbar-submit =
     .tooltiptext = തിരയല്‍ സമർപ്പിയ്ക്കുക
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = തിരയുക
+searchbar-icon =
+    .tooltiptext = തിരയുക
