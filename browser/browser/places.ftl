@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
     .accesskey = γ
-
 places-add-bookmark =
     .label = Προσθήκη σελιδοδείκτη…
     .accesskey = σ
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Προσθήκη διαχωριστικού
     .accesskey = δ
-
 places-view =
     .label = Προβολή
     .accesskey = β
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Κατά ημερομηνία και σελίδα
     .accesskey = μ
-
 places-history-search =
     .placeholder = Αναζήτηση ιστορικού
+places-history =
+    .aria-label = Ιστορικό
 places-bookmarks-search =
     .placeholder = Αναζήτηση σελιδοδεικτών
-
 places-delete-domain-data =
     .label = Διαγραφή δεδομένων ιστοτόπου
     .accesskey = Δ
@@ -81,7 +79,6 @@ places-remove-folder =
            *[other] Αφαίρεση φακέλων
         }
     .accesskey = φ
-
 places-edit-folder2 =
     .label = Επεξεργασία φακέλου…
     .accesskey = ί
@@ -92,18 +89,15 @@ places-delete-folder =
            *[other] Διαγραφή φακέλων
         }
     .accesskey = Δ
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Διαχειριζόμενοι σελιδοδείκτες
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Yποφάκελος
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Άλλοι σελιδοδείκτες
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -113,7 +107,6 @@ places-remove-bookmark =
            *[other] Αφαίρεση σελιδοδεικτών
         }
     .accesskey = λ
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -123,15 +116,11 @@ places-delete-bookmark =
            *[other] Διαγραφή σελιδοδεικτών
         }
     .accesskey = Δ
-
 places-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
     .accesskey = Δ
-
 places-forget-about-this-site-confirmation-title = Εξάλειψη αυτού του ιστοτόπου
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Αυτή η ενέργεια θα αφαιρέσει όλα τα δεδομένα που σχετίζονται με το { $hostOrBaseDomain }, όπως το ιστορικό, τους κωδικούς πρόσβασης, τα cookies, την κρυφή μνήμη και τις προτιμήσεις περιεχομένου. Θέλετε σίγουρα να συνεχίσετε;
-
 places-forget-about-this-site-forget = Εξάλειψη
