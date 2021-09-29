@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Bue No Nyinara wɔ Ntab mu
     .accesskey = o
-
 places-view =
     .label = Hwɛ
     .accesskey = w
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Fa Afeda ne Saet
     .accesskey = d
-
+places-history =
+    .aria-label = Abakɔsɛm
 places-delete-domain-data =
     .label = Ma Wo Were Mfiri Saet Yi
     .accesskey = f
 places-sortby-name =
     .label = Fa Din Hyehyɛ
     .accesskey = r
-
