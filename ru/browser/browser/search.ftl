@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } не смог загру�
 
 searchbar-submit =
     .tooltiptext = Произвести поиск
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Поиск
+searchbar-icon =
+    .tooltiptext = Поиск
