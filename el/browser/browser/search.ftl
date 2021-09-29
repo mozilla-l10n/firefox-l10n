@@ -19,3 +19,8 @@ opensearch-error-download-desc = Το { -brand-short-name } δεν μπόρεσ�
 
 searchbar-submit =
     .tooltiptext = Υποβολή αναζήτησης
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Αναζήτηση
+searchbar-icon =
+    .tooltiptext = Αναζήτηση
