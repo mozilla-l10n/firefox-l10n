@@ -226,6 +226,13 @@ newtab-pocket-more-recommendations = 更多推荐
 newtab-pocket-learn-more = 详细了解
 newtab-pocket-cta-button = 获取 { -pocket-brand-name }
 newtab-pocket-cta-text = 将您喜爱的故事保存到 { -pocket-brand-name }，用精彩的读物为思想注入活力。
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = 加载更多文章
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = 都读完了！
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
