@@ -5,4 +5,5 @@
 places-open =
     .label = Kuna
     .accesskey = O
-
+places-history =
+    .aria-label = Ña ntsinu
