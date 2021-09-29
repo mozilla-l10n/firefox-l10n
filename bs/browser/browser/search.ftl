@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } nije uspio preuzeti plugi
 
 searchbar-submit =
     .tooltiptext = Pošalji pretragu
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Pretraga
+searchbar-icon =
+    .tooltiptext = Traži
