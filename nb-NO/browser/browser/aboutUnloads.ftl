@@ -7,6 +7,12 @@
 ### feature.
 
 about-unloads-page-title = Frigjør fane
+about-unloads-intro-1 =
+    { -brand-short-name } har en funksjon som automatisk frigjør faner
+    for å forhindre programmet i å krajse når systemet har lite minne.
+    Den neste fanen som skal frigjøres er utvalgt basert på flere kriterer.
+    Denne siden viser hvordan { -brand-short-name } prioriterer mellom fanene, og hvilken faner som frigjøres
+    når fanefrigjøring er nødvendig.
 about-unloads-intro-2 =
     Eksisterende faner vises i tabellen nedenfor i samme rekkefølge som brukes av
     { -brand-short-name } for å velge neste fane som skal frigjøres. Prosess-ID-er
