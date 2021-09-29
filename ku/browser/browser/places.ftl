@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Hemûyan di Hilpekînan de Veke
     .accesskey = H
-
 places-view =
     .label = Bibîne
     .accesskey = B
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Li gorî dîrok û malperê
     .accesskey = L
-
+places-history =
+    .aria-label = Raborî
 places-delete-domain-data =
     .label = Vê rûpelê ji bîr bike
     .accesskey = b
 places-sortby-name =
     .label = li Gorî Navan Rêz Bike
     .accesskey = R
-
