@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Cofnyć
 customize-mode-lwthemes-my-themes =
     .value = Moje drasty
+customize-mode-lwthemes-link = Drasty rjadować
 customize-mode-touchbar-cmd =
     .label = Dótknjensku lajstu přiměrić…
 customize-mode-downloads-button-autohide =

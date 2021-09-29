@@ -230,6 +230,17 @@ newtab-pocket-more-recommendations = Dalše doporučenja
 newtab-pocket-learn-more = Dalše informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dźěl swójby { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Dalše stawiznički začitać
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Sće na běžnym!
+newtab-pocket-last-card-desc = Hladajće pozdźišo za wjace.
+newtab-pocket-last-card-image =
+    .alt = Sće na běžnym
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
