@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = အားလုံးကို စာအမှတ်များနဲ့ ဖွင့်ပါ
     .accesskey = O
-
 places-view =
     .label = ရှုမြင်ချက်
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ရက်စွဲနှင့် ဝဘ်ဆိုက်လိပ်စာအားဖြင့်
     .accesskey = ရ
-
 places-history-search =
     .placeholder = ရှာဖွေမှု မှတ်တမ်း
+places-history =
+    .aria-label = မှတ်တမ်း
 places-bookmarks-search =
     .placeholder = စာမှတ်များကို ရှာရန်
-
 places-delete-domain-data =
     .label = ဒီကွန်ရက် အကြောင်းကို မေ့ပစ်ပါ
     .accesskey = F
 places-sortby-name =
     .label = အမည်အလိုက် မျိုးတူစုပါ
     .accesskey = r
-
