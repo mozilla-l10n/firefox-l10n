@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Jxuka kaskhewujnxite çehk phaden
     .accesskey = J
-
 places-view =
     .label = Thegna
     .accesskey = T
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Txawẽn aytewe'sx txi'pte
     .accesskey = t
-
+places-history =
+    .aria-label = Fxihjçxa txi'khnxisah
 places-delete-domain-data =
     .label = Peçxkanun ayte weba's
     .accesskey = P
 places-sortby-name =
     .label = Yase isa phewuhn
     .accesskey = r
-
