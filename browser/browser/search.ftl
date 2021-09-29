@@ -19,5 +19,8 @@ opensearch-error-download-desc = O { -brand-short-name } não conseguiu transfer
 
 searchbar-submit =
     .tooltiptext = Submeter pesquisa
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Pesquisar
 searchbar-icon =
     .tooltiptext = Pesquisa
