@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Buka Semua dalam Tab
     .accesskey = k
-
 places-view =
     .label = Papar
     .accesskey = a
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Mengikut Tarikh dan Laman
     .accesskey = t
-
 places-history-search =
     .placeholder = Sejarah carian
+places-history =
+    .aria-label = Sejarah
 places-bookmarks-search =
     .placeholder = Cari tandabuku
-
 places-delete-domain-data =
     .label = Lupakan Laman Ini
     .accesskey = L
 places-sortby-name =
     .label = Susun Mengikut Nama
     .accesskey = n
-
