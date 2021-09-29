@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Менеджер процесів
-
 # The Actions column
 about-processes-column-action =
     .title = Дії
@@ -15,18 +14,23 @@ about-processes-shutdown-process =
     .title = Розвантажити вкладки та вбити процес
 about-processes-shutdown-tab =
     .title = Закрити вкладку
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Записати профіль усіх потоків цього процесу впродовж { $duration } секунди
+            [few] Записати профіль усіх потоків цього процесу впродовж { $duration } секунд
+           *[many] Записати профіль усіх потоків цього процесу впродовж { $duration } секунд
+        }
 
 ## Column headers
 
 about-processes-column-name = Назва
 about-processes-column-memory-resident = Пам'ять
 about-processes-column-cpu-total = ЦП
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
 ## Process names
 ## Variables:
@@ -47,7 +51,6 @@ about-processes-socket-process = Мережа ({ $pid })
 about-processes-remote-sandbox-broker-process = Віддалений брокер пісочниці ({ $pid })
 about-processes-fork-server-process = Сервер розгалуження ({ $pid })
 about-processes-preallocated-process = Попередньо розподілено ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -85,7 +88,6 @@ about-processes-active-threads =
         [many] { $active } активних потоків з { $number }: { $list }
        *[other] { $active } активних потоків з { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -99,25 +101,21 @@ about-processes-inactive-threads =
         [many] { $number } неактивних потоків
        *[other] { $number } неактивних потоків
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Ідентифікатор потоку: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Вкладка: { $name }
 about-processes-preloaded-tab = Попередньо завантажена нова вкладка
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Підфрейм: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -136,10 +134,8 @@ about-processes-frame-name-many = Підфрейми ({ $number }): { $shortUrl 
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Загальний час CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (вимірювання)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = бездіяльний
     .title = Загальний час CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -158,7 +154,6 @@ about-processes-cpu-idle = бездіяльний
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Динаміка: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
