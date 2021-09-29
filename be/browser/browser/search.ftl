@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } не можа сцягн�
 
 searchbar-submit =
     .tooltiptext = Даслаць запыт
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Пошук
+searchbar-icon =
+    .tooltiptext = Пошук
