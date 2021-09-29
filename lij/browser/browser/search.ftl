@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = Erô de instalaçion
 opensearch-error-duplicate-desc = O { -brand-short-name } o no peu instalâ o plugin de riçerca da "{ $location-url }" perché gh'é za 'n motô co-o mæximo nomme.
-
 opensearch-error-format-title = Formou no valido
 opensearch-error-format-desc = O { -brand-short-name } o no peu instalâ o motô de riçerca da: { $location-url }
-
 opensearch-error-download-title = Erô de descaregamento
 opensearch-error-download-desc = O { -brand-short-name } o no peu descaregâ o plugin de riçerca da: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Inandia riçerca
