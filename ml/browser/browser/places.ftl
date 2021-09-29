@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = എല്ലാം ടാബുകളില്‍ തുറക്കുക
     .accesskey = O
-
 places-view =
     .label = കാഴ്ച
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = തീയതിയും സൈറ്റും അനുസരിച്ചു്
     .accesskey = t
-
 places-history-search =
     .placeholder = ഹിസ്റ്ററി സെര്‍ച്ച് ചെയ്യുക
+places-history =
+    .aria-label = നാള്‍വഴി
 places-bookmarks-search =
     .placeholder = ബുക്ക്മാര്‍ക്സ് സെര്‍ച്ച് ചെയ്യുക
-
 places-delete-domain-data =
     .label = ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ഉപേക്ഷിക്കുക
     .accesskey = F
 places-sortby-name =
     .label = പേരു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
     .accesskey = r
-
