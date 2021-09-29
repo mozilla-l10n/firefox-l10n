@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Earráid Suiteála
 opensearch-error-duplicate-desc = Níorbh fhéidir le { -brand-short-name } an forlíontán cuardaigh ó “{ $location-url }” a shuiteáil toisc go bhfuil inneall ann cheana leis an ainm céanna.
-
 opensearch-error-format-title = Formáid Neamhbhailí
 opensearch-error-format-desc = Níorbh fhéidir le { -brand-short-name } an t-inneall cuardaigh a shuiteáil ó { $location-url }
-
 opensearch-error-download-title = Earráid Íoslódála
 opensearch-error-download-desc = Níorbh fhéidir le { -brand-short-name } an forlíontán cuardaigh a íoslódáil ó: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Aighnigh iarratas
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Cuardaigh
+searchbar-icon =
+    .tooltiptext = Cuardaigh
