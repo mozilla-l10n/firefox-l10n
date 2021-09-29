@@ -23,6 +23,19 @@ printui-page-custom-range-input =
     .placeholder = ᱡᱮᱢᱚᱱ ᱺ 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = ᱱᱚᱠᱚᱞ ᱠᱚ
+printui-orientation = ᱚᱨᱤᱮᱱᱴᱮᱥᱚᱱ
+printui-landscape = ᱞᱮᱱᱰᱥᱠᱮᱯ
+printui-portrait = ᱯᱚᱴᱨᱮᱴ
+# Section title for the printer or destination device to target
+printui-destination-label = ᱡᱟᱭᱜᱟ
+printui-destination-pdf-label = PDF ᱞᱮᱠᱷᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+printui-more-settings = ᱰᱷᱮᱨ ᱥᱟᱡᱟᱣ ᱠᱚ
+printui-less-settings = ᱠᱚᱢ ᱥᱟᱡᱟᱣ ᱠᱚ
+printui-paper-size-label = ᱥᱟᱦᱴᱟ ᱢᱟᱯ
+# Section title (noun) for the print scaling options
+printui-scale = ᱱᱟᱯᱟᱠ
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = ᱱᱟᱯᱟᱠ
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
