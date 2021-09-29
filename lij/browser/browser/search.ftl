@@ -19,3 +19,8 @@ opensearch-error-download-desc = O { -brand-short-name } o no peu descaregâ o p
 
 searchbar-submit =
     .tooltiptext = Inandia riçerca
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Çerca
+searchbar-icon =
+    .tooltiptext = Çerca
