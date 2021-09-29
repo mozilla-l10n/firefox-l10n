@@ -220,10 +220,18 @@ newtab-discovery-empty-section-topstories-loading = בטעינה…
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = נושאים פופולריים:
+newtab-pocket-new-topics-title = רוצה אפילו עוד סיפורים? ניתן לעיין בנושאים הנפוצים האלו מ־{ -pocket-brand-name }
 newtab-pocket-more-recommendations = המלצות נוספות
 newtab-pocket-learn-more = מידע נוסף
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
+newtab-pocket-pocket-firefox-family = ‏{ -pocket-brand-name } הוא חלק ממשפחת { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = טעינת סיפורים נוספים
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

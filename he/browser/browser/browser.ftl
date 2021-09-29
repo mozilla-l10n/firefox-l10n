@@ -774,3 +774,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = רשימת כל הלשוניות
     .tooltiptext = רשימת כל הלשוניות
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>לפתוח את הלשוניות הקודמות?</strong> באפשרותך לשחזר את ההפעלה הקודמת שלך מתפריט היישום של { -brand-short-name } ‏<img data-l10n-name="icon"/>, תחת היסטוריה.
+restore-session-startup-suggestion-button = להראות לך איך
