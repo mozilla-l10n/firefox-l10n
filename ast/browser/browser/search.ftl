@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = Fallu d'instalación
 opensearch-error-duplicate-desc = { -brand-short-name } nun pudo instalar el complementu de busca de «{ $location-url }» porque yá esiste unu col mesmu nome.
-
 opensearch-error-format-title = El formatu nun ye válidu
 opensearch-error-format-desc = { -brand-short-name } nun pudo instalar el motor de busca de: { $location-url }
-
 opensearch-error-download-title = Fallu de descarga
 opensearch-error-download-desc = { -brand-short-name } nun pudo baxar el plugin de busca de: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Unviar la busca
