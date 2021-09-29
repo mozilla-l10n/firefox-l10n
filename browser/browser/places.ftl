@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
-
 places-add-bookmark =
     .label = სანიშნის დამატება
     .accesskey = ს
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = გამყოფის დამატება
     .accesskey = ყ
-
 places-view =
     .label = ხედი
     .accesskey = ხ
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = თარიღი და საიტი
     .accesskey = დ
-
 places-history-search =
     .placeholder = ძიება ისტორიაში
+places-history =
+    .aria-label = ისტორია
 places-bookmarks-search =
     .placeholder = სანიშნების ძიება
-
 places-delete-domain-data =
     .label = საიტის დავიწყება
     .accesskey = დ
@@ -81,7 +79,6 @@ places-remove-folder =
            *[other] საქაღალდეების მოცილება
         }
     .accesskey = მ
-
 places-edit-folder2 =
     .label = საქაღალდის ჩასწორება…
     .accesskey = ო
@@ -92,18 +89,15 @@ places-delete-folder =
            *[other] საქაღალდეების წაშლა
         }
     .accesskey = წ
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = გამართული სანიშნები
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ქვესაქაღალდე
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = სხვა სანიშნები
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -113,7 +107,6 @@ places-remove-bookmark =
            *[other] სანიშნების მოცილება
         }
     .accesskey = ც
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -123,15 +116,11 @@ places-delete-bookmark =
            *[other] სანიშნების წაშლა
         }
     .accesskey = წ
-
 places-manage-bookmarks =
     .label = სანიშნების მართვა
     .accesskey = მ
-
 places-forget-about-this-site-confirmation-title = ამ საიტის დავიწყება
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = ამ ქმედებით მოცილდება ყველა მონაცემი, რომლებიც უკავშირდება { $hostOrBaseDomain }-ს, მათ შორის ისტორია, პაროლები, ფუნთუშები, დროებითი ფაილები და შიგთავსის პარამეტრები. ნამდვილად გსურთ, განაგრძოთ?
-
 places-forget-about-this-site-forget = დავიწყება
