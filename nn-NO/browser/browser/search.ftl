@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } klarte ikkje å laste ned
 
 searchbar-submit =
     .tooltiptext = Send søk
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Søk
+searchbar-icon =
+    .tooltiptext = Søk
