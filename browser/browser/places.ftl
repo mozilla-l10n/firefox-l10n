@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = सर्व टॅब्जमध्ये उघडा
     .accesskey = O
-
 places-view =
     .label = दृष्य
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = दिनांक व साईटप्रमाणे
     .accesskey = t
-
 places-history-search =
     .placeholder = शोध इतिहास
+places-history =
+    .aria-label = इतिहास
 places-bookmarks-search =
     .placeholder = वाचनखूणा शोधा
-
 places-delete-domain-data =
     .label = या साईटविषयी विसरून जा
     .accesskey = F
 places-sortby-name =
     .label = नावाप्रमाणे क्रमवारीत लावा
     .accesskey = r
-
