@@ -79,6 +79,16 @@ places-remove-folder =
            *[other] Allontanar ils ordinaturs
         }
     .accesskey = l
+places-edit-folder2 =
+    .label = Modifitgar l'ordinatur…
+    .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Stizzar l'ordinatur
+           *[other] Stizzar ils ordinaturs
+        }
+    .accesskey = d
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnapaginas administrads
@@ -97,6 +107,20 @@ places-remove-bookmark =
            *[other] Allontanar ils segnapaginas
         }
     .accesskey = e
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Stizzar il segnapagina
+           *[other] Stizzar ils segnapaginas
+        }
+    .accesskey = S
 places-manage-bookmarks =
     .label = Administrar ils segnapaginas
     .accesskey = m
+places-forget-about-this-site-confirmation-title = Emblidar questa website
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Questa acziun allontanescha tut las datas en connex cun { $hostOrBaseDomain }, inclus la cronologia, ils pleds-clav, ils cookies, il cache e las preferenzas dal cuntegn. Vuls ti propi cuntinuar?
+places-forget-about-this-site-forget = Emblidar
