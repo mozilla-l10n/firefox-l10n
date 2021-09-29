@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Ava kõik kaartidel
     .accesskey = k
-
 places-view =
     .label = Näita
     .accesskey = N
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Kuupäeva ja veebilehe järgi
     .accesskey = e
-
 places-history-search =
     .placeholder = Otsi ajaloost
+places-history =
+    .aria-label = Ajalugu
 places-bookmarks-search =
     .placeholder = Otsi järjehoidjatest
-
 places-delete-domain-data =
     .label = Unusta selle lehe info
     .accesskey = U
 places-sortby-name =
     .label = Sordi nime järgi
     .accesskey = r
-
