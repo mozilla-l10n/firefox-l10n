@@ -10,12 +10,12 @@
 
 opensearch-error-duplicate-title = स्थापना त्रुटि
 opensearch-error-duplicate-desc = { -brand-short-name } ले "{ $location-url }" बाट खोजी प्लगइन स्थापना गर्न सकेन किन की उही नामको इन्जिन पहिले देखि नै अवस्थित छ।
-
 opensearch-error-format-title = अवैध ढाँचा
 opensearch-error-format-desc = { -brand-short-name } ले { $location-url } बाट खोज इन्जिन स्थापना गर्न सकेन
-
 opensearch-error-download-title = डाउनलोड गर्दा त्रुटि भयो
 opensearch-error-download-desc = { -brand-short-name } ले खोजी प्लगइन डाउनलोड गर्न सकेन यहाँ बाट: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = खोज बुझाउनुहोस्
