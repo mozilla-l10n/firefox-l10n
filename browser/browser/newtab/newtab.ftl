@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Отакої! Ми май�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярні теми:
+newtab-pocket-new-topics-title = Хочете ще більше розповідей? Перегляньте ці популярні теми від { -pocket-brand-name }
 newtab-pocket-more-recommendations = Інші рекомендації
 newtab-pocket-learn-more = Докладніше
 newtab-pocket-cta-button = Отримати { -pocket-brand-name }
 newtab-pocket-cta-text = Зберігайте улюблені статті в { -pocket-brand-name } і задовольніть себе захопливим читанням.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } є частиною родини { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Завантажити більше розповідей
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Ви все прочитали!
+newtab-pocket-last-card-desc = Перевірте згодом, щоб побачити більше.
+newtab-pocket-last-card-image =
+    .alt = Ви все прочитали!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
