@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = அனைத்தையும் கீற்றுகளாகத் திற
     .accesskey = O
-
 places-view =
     .label = பார்வை
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = தேதி மற்றும் தளத்தின் படி
     .accesskey = t
-
 places-history-search =
     .placeholder = வரலாற்றைத் தேர்
+places-history =
+    .aria-label = வரலாறு
 places-bookmarks-search =
     .placeholder = புத்தகக்குறிகளைத் தேடு
-
 places-delete-domain-data =
     .label = இந்த தளத்தை மறக்கவும்
     .accesskey = F
 places-sortby-name =
     .label = பெயரால் அடுக்கவும்
     .accesskey = r
-
