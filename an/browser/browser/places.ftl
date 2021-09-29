@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Ubrir tot en pestanyas
     .accesskey = o
-
 places-view =
     .label = Veyer
     .accesskey = r
@@ -27,23 +26,21 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por calendata y sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Buscar en l'historial
+places-history =
+    .aria-label = Historial
 places-bookmarks-search =
     .placeholder = Trobar marcapachinas
-
 places-delete-domain-data =
     .label = Xublidar iste puesto web
     .accesskey = X
 places-sortby-name =
     .label = Ordenar por nombre
     .accesskey = r
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapachinas chestionaus
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subcarpeta
-
