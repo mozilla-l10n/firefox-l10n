@@ -226,6 +226,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy tutón wotrězk
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Woblubowane temy:
+newtab-pocket-new-topics-title = Chceće dalše stawiznički? Wobhladajće sej tute woblubowane temy z { -pocket-brand-name }
 newtab-pocket-more-recommendations = Dalše doporučenja
 newtab-pocket-learn-more = Dalše informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
