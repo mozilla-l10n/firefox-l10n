@@ -19,3 +19,6 @@ opensearch-error-download-desc = { -brand-short-name } శోధన ప్లగ
 
 searchbar-submit =
     .tooltiptext = శోధనను సమర్పించండి
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = వెతకండి
