@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = සියල්ල ටැබ තුළ විවෘත කරන්න
     .accesskey = O
-
 places-view =
     .label = දසුන්
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = දිනය සහ අඩවිය අනුව පෙළ ගැසු
     .accesskey = t
-
 places-history-search =
     .placeholder = සෙවුම් ඉතිහාසය
+places-history =
+    .aria-label = ඉතිහාසය
 places-bookmarks-search =
     .placeholder = සෙවුම් පිටුසලකුණු
-
 places-delete-domain-data =
     .label = මෙම පිටුව ගැන නොසිතන්න
     .accesskey = F
 places-sortby-name =
     .label = නම අනුව පෙළ ගැසු
     .accesskey = r
-
