@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } kunde inte hämta sökmod
 
 searchbar-submit =
     .tooltiptext = Skicka sökning
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Sök
+searchbar-icon =
+    .tooltiptext = Sök
