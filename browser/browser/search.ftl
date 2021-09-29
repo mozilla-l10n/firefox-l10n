@@ -10,9 +10,13 @@
 
 opensearch-error-duplicate-title = ස්ථාපන දෝෂය
 opensearch-error-duplicate-desc = එම නමින්ම සෙවුම් යන්ත්‍රයක් දැනටමත් ඇති බැවින් { -brand-short-name } හට ප්ලගීනය "{ $location-url }" බාගැනිමට නොහැක.
-
 opensearch-error-download-title = බාගැනීමේ දෝෂය
 opensearch-error-download-desc = { -brand-short-name } හට සෙවුම් ප්ලගීනය බාගැනි කළ නොහැකි විය. පිහිටුම: { $location-url }
 
 ##
 
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = සෙවුම
+searchbar-icon =
+    .tooltiptext = සෙවුම
