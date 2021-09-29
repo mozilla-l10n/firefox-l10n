@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Instalaciska zmólka
 opensearch-error-duplicate-desc = { -brand-short-name } njejo mógał pytański tykac z "{ $location-url }" instalěrowaś, dokulaž pytnica z tym samskim mjenim južo eksistěrujo.
-
 opensearch-error-format-title = Njepłaśiwy format
 opensearch-error-format-desc = { -brand-short-name } njejo mógł pytnicu instalěrowaś z: { $location-url }
-
 opensearch-error-download-title = Ześěgnjeńska zmólka
 opensearch-error-download-desc = { -brand-short-name } njejo mógał pytański tykac ześěgnuś z: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Pytanje startowaś
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Pytaś
+searchbar-icon =
+    .tooltiptext = Pytaś
