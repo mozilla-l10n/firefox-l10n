@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Episini İlmeklerde Aç
     .accesskey = e
-
 places-view =
     .label = Körünim
     .accesskey = K
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Tarih ve Saytqa Köre
     .accesskey = v
-
 places-history-search =
     .placeholder = Keçmişni qıdır
+places-history =
+    .aria-label = Keçmiş
 places-bookmarks-search =
     .placeholder = Saife-imlerini qıdır
-
 places-delete-domain-data =
     .label = Bu Sayt Aqqında Unut
     .accesskey = U
 places-sortby-name =
     .label = İsim boyunca Sırala
     .accesskey = r
-
