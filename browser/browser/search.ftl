@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = Instalazio errorea
 opensearch-error-duplicate-desc = { -brand-short-name }(e)k ezin izan du bilaketa-plugina instalatu "{ $location-url }"(e)tik, izen bereko beste motor bat badagoelako.
-
 opensearch-error-format-title = Formatu baliogabea
 opensearch-error-format-desc = { -brand-short-name }(e)k ezin du instalatu bilaketa-motorra { $location-url } helbidetik
-
 opensearch-error-download-title = Deskarga errorea
 opensearch-error-download-desc = { -brand-short-name }(e)k ezin izan du bilaketa-plugina hemendik deskargatu: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Bidali bilaketa
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Bilatu
+searchbar-icon =
+    .tooltiptext = Bilatu
