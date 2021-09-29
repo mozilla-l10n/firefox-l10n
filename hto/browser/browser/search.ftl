@@ -10,9 +10,10 @@
 
 opensearch-error-duplicate-title = Fɨgòñede tɨ́raide
 opensearch-error-duplicate-desc = { -brand-short-name } ána jónenide plugin jénonide baíedo "{ $location-url }" daje mamekɨdo jénoraɨma ja íte.
-
 opensearch-error-download-title = Fɨgòñede yúnua
 opensearch-error-download-desc = { -brand-short-name } ána jónenide plugin jénonide baíedo: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Jenóyena  óre
