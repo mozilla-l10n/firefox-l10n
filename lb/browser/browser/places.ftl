@@ -5,11 +5,11 @@
 places-open =
     .label = Opmaachen
     .accesskey = O
-
 places-by-date =
     .label = No Datum
     .accesskey = D
 places-by-site =
     .label = No Site
     .accesskey = S
-
+places-history =
+    .aria-label = Historique
