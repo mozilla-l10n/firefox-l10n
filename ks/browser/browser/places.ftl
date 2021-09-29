@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = سٲری كھولیو ٹیبزن منز
     .accesskey = O
-
 places-view =
     .label = وچھیو
     .accesskey = w
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = تٲریخ تئ سایٹئ ہسابئ
     .accesskey = t
-
 places-history-search =
     .placeholder = تٲریخ ژھٲنڈيو
+places-history =
+    .aria-label = تٲریخ
 places-bookmarks-search =
     .placeholder = نشان زَد ژھٲنڈيو
-
 places-delete-domain-data =
     .label = یَتھ سایٹئ متعلق مشرٲویو
     .accesskey = F
 places-sortby-name =
     .label = ناوئ حسابئ ژٲریو
     .accesskey = r
-
