@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = सगळ्या टॅबांत उगडात
     .accesskey = O
-
 places-view =
     .label = पळयात
     .accesskey = w
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = तारिक आणि सायटीन
     .accesskey = t
-
+places-history =
+    .aria-label = इतिहास
 places-delete-domain-data =
     .label = या सायटीविशीं विसरात
     .accesskey = F
 places-sortby-name =
     .label = नावान वर्गीकरण
     .accesskey = r
-
