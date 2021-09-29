@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } n’a pas pu télécharge
 
 searchbar-submit =
     .tooltiptext = Lancer la recherche
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Rechercher
+searchbar-icon =
+    .tooltiptext = Rechercher
