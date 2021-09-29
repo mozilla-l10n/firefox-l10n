@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name }, axtarış mühərriki ə
 
 searchbar-submit =
     .tooltiptext = Axtarışı göndər
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Axtar
+searchbar-icon =
+    .tooltiptext = Axtar
