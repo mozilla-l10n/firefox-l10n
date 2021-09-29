@@ -27,6 +27,7 @@ about-private-browsing-info-description-private-window = Privát ablak: a { -bra
 about-private-browsing-info-description-simplified = A { -brand-short-name } törli a keresési és böngészési előzményeket, amikor bezárja az összes privát ablakot, de ez nem teszi névtelenné.
 about-private-browsing-learn-more-link = További tudnivalók
 about-private-browsing-hide-activity = Rejtse el tevékenységét és tartózkodási helyét, bárhol is böngésszen
+about-private-browsing-get-privacy = Szerezzen adatvédelmet, bárhol is böngésszen
 about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-name } használatával
 # This string is the title for the banner for search engine selection
 # in a private window.
