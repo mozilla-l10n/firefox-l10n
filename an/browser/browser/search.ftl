@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } no ha puesto descargar o 
 
 searchbar-submit =
     .tooltiptext = Ninvia la busca
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Mirar
+searchbar-icon =
+    .tooltiptext = Mirar
