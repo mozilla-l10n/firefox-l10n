@@ -5,6 +5,8 @@
 screenshot-toolbarbutton =
     .label = Capturar tela
     .tooltiptext = Capturar imagem da tela
+screenshot-shortcut =
+    .key = S
 screenshots-instructions = Clique e arraste, ou aponte e clique, para selecionar uma região. Tecle ESC para cancelar.
 screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Salvar área visível
