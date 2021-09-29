@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } इससे खोज �
 
 searchbar-submit =
     .tooltiptext = खोज जमा करें
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = खोज
+searchbar-icon =
+    .tooltiptext = खोज
