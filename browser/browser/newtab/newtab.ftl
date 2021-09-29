@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 인기 주제:
+newtab-pocket-new-topics-title = 더 많은 이야기를 원하세요? { -pocket-brand-name } 인기 주제 보기
 newtab-pocket-more-recommendations = 더 많은 추천
 newtab-pocket-learn-more = 더 알아보기
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name }은 { -brand-product-name } 제품군의 일부입니다.
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = 더 많은 이야기 불러오기
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = 모두 따라 잡았습니다!
+newtab-pocket-last-card-desc = 더 많은 이야기는 나중에 다시 확인해 보세요.
+newtab-pocket-last-card-image =
+    .alt = 모두 따라 잡았습니다
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
