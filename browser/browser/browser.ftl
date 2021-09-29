@@ -772,3 +772,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = 탭 전체 목록
     .tooltiptext = 탭 전체 목록
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>이전 탭을 여시겠습니까?</strong> { -brand-short-name } 애플리케이션 메뉴 <img data-l10n-name="icon"/>의 기록 아래에서 이전 세션을 복원할 수 있습니다.
+restore-session-startup-suggestion-button = 사용법 보기
