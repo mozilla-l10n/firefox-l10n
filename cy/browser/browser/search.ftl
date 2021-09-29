@@ -19,3 +19,8 @@ opensearch-error-download-desc = Methodd { -brand-short-name } â llwytho i lawr
 
 searchbar-submit =
     .tooltiptext = Cyflwyno'r chwilio
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Chwilio
+searchbar-icon =
+    .tooltiptext = Chwilio
