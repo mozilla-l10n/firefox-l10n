@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Hapi Krejt në Skeda
     .accesskey = T
-
 places-open-in-window =
     .label = Hape në Dritare të Re
     .accesskey = R
 places-open-in-private-window =
     .label = Hape në Dritare të Re Private
     .accesskey = P
-
 places-add-bookmark =
     .label = Shtoni Faqerojtës…
     .accesskey = F
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Shtoni Ndarës
     .accesskey = N
-
 places-view =
     .label = Shihni
     .accesskey = i
@@ -53,19 +50,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Sipas Datash dhe Sajtesh
     .accesskey = t
-
 places-history-search =
     .placeholder = Kërkoni në historik
+places-history =
+    .aria-label = Historik
 places-bookmarks-search =
     .placeholder = Kërkoni te faqerojtësit
-
 places-delete-domain-data =
     .label = Harroje Këtë Sajt
     .accesskey = H
 places-sortby-name =
     .label = Renditi Sipas Emrash
     .accesskey = r
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Përpunoni Faqerojtës…
@@ -83,18 +79,15 @@ places-remove-folder =
            *[other] Hiqni Dosje
         }
     .accesskey = H
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Faqerojtës të administruar
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Nëndosje
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Faqerojtës të Tjerë
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -105,8 +98,6 @@ places-remove-bookmark =
            *[other] Hiqi Faqerojtësit
         }
     .accesskey = i
-
 places-manage-bookmarks =
     .label = Administroni Faqerojtës
     .accesskey = A
-
