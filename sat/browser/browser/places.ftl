@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = टेब रे जोतो  झिज मे
     .accesskey = O
-
 places-view =
     .label = ञेल मे
     .accesskey = w
@@ -27,11 +26,11 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = मा़हित् आर साइट दाराय ते
     .accesskey = t
-
+places-history =
+    .aria-label = ᱱᱟᱜᱟᱢ
 places-delete-domain-data =
     .label = नोवा साइड बाबोत ते हिंड़िग मे
     .accesskey = F
 places-sortby-name =
     .label = ञुतुम दाराय ते झिज  मे
     .accesskey = r
-
