@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = ট্যাবের মধ্যে সকল প্রদর্শন করা হবে
     .accesskey = O
-
 places-view =
     .label = প্রদর্শন
     .accesskey = প
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = তারিখ ও সাইট অনুযায়ী
     .accesskey = ত
-
 places-history-search =
     .placeholder = ইতিহাস খুঁজুন
+places-history =
+    .aria-label = ইতিহাস
 places-bookmarks-search =
     .placeholder = বুকমার্কগুলি খুঁজুন
-
 places-delete-domain-data =
     .label = এই সাইট সম্বন্ধে তথ্য সংরক্ষণ করা হবে না
     .accesskey = F
 places-sortby-name =
     .label = নাম অনুসারে সুবিন্যস্ত করুন
     .accesskey = r
-

@@ -10,9 +10,10 @@
 
 opensearch-error-duplicate-title = Install Error
 opensearch-error-duplicate-desc = একই নামের ইঞ্জিন উপস্থিত থাকার ফলে { -brand-short-name } দ্বারা "{ $location-url }" থেকে অনুসন্ধানের প্লাগ-ইন ইনস্টল করা সম্ভব হয়নি।
-
 opensearch-error-download-title = ডাউনলোড সংক্রান্ত ত্রুটি
 opensearch-error-download-desc = { -brand-short-name } দ্বারা চিহ্নিত স্থান থেকে অনুসন্ধানের প্লাগ-ইন ডাউনলোড করা সম্ভব হয়নি: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = অনুসন্ধান জমা করুন
