@@ -10,12 +10,17 @@
 
 opensearch-error-duplicate-title = การติดตั้งผิดพลาด
 opensearch-error-duplicate-desc = { -brand-short-name } ไม่สามารถติดตั้งส่วนเสริมการค้นหาจาก “{ $location-url }” เพราะมีเครื่องมือค้นหาที่ใช้ชื่อเดียวกันอยู่แล้ว
-
 opensearch-error-format-title = รูปแบบผิดพลาด
 opensearch-error-format-desc = { -brand-short-name } ไม่สามารถติดตั้งเครื่องค้นหาจาก: { $location-url }
-
 opensearch-error-download-title = ข้อผิดพลาดการดาวน์โหลด
 opensearch-error-download-desc = { -brand-short-name } ไม่สามารถดาวน์โหลดส่วนเสริมการค้นหาจาก: { $location-url }
 
 ##
 
+searchbar-submit =
+    .tooltiptext = ค้นหา
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = ค้นหา
+searchbar-icon =
+    .tooltiptext = ค้นหา
