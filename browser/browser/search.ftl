@@ -17,6 +17,8 @@ opensearch-error-download-desc = { -brand-short-name } không thể tải xuốn
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Gửi tìm kiếm
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Tìm kiếm
