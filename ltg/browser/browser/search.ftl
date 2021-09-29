@@ -17,6 +17,8 @@ opensearch-error-download-desc = { -brand-short-name } navar lejupīluodeit mekl
 
 ##
 
+searchbar-submit =
+    .tooltiptext = Veikt mekliešonu
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Mekleit
