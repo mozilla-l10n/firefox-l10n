@@ -222,10 +222,22 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Túto sekciu sa nepo
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populárne témy:
+newtab-pocket-new-topics-title = Chcete ešte viac príbehov? Pozrite sa na tieto obľúbené témy z { -pocket-brand-name(case: "gen") }
 newtab-pocket-more-recommendations = Ďalšie odporúčania
 newtab-pocket-learn-more = Ďalšie informácie
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
 newtab-pocket-cta-text = Ukladajte si články do služby { -pocket-brand-name } a užívajte si skvelé čítanie.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je súčasťou rodiny { -brand-product-name(case: "gen") }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Načítať ďalšie príbehy
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Už ste prečítali všetko!
+newtab-pocket-last-card-desc = Ďalšie príbehy tu nájdete opäť neskôr.
+newtab-pocket-last-card-image =
+    .alt = Už ste prečítali všetko
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
