@@ -32,6 +32,7 @@ about-private-browsing-turn-on-vpn =
         [neuter] s { -mozilla-vpn-brand-name(case: "acc") }
        *[other] službu { -mozilla-vpn-brand-name }
     }
+about-private-browsing-info-description-private-window = Anonymní okno: { -brand-short-name } vymaže vaši historii vyhledávání a navštívených stránek po zavření všech anonymních oken. S touto funkcí ale nejste na internetu zcela neviditelní.
 about-private-browsing-info-description-simplified = { -brand-short-name } vymaže vaši historii vyhledávání a navštívených stránek po zavření všech anonymních oken, ale ani s touto funkcí nejste na internetu zcela neviditelní.
 about-private-browsing-learn-more-link = Zjistit více
 about-private-browsing-hide-activity = Skryjte své aktivity a polohu, ať už web prohlížíte odkudkoliv

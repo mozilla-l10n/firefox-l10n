@@ -843,3 +843,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Seznam všech panelů
     .tooltiptext = Seznam všech panelů
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Jak na to

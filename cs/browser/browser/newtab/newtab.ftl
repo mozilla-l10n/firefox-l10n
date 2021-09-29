@@ -232,6 +232,16 @@ newtab-pocket-more-recommendations = Další doporučení
 newtab-pocket-learn-more = Zjistit více
 newtab-pocket-cta-button = Získejte { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Ukládejte si články do { -pocket-brand-name(case: "gen") } a užívejte si skvělé čtení.
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Načíst další články
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Už jste všechno přečetli.
+newtab-pocket-last-card-desc = Další články zde najdete později.
+newtab-pocket-last-card-image =
+    .alt = Už jste všechno přečetli
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
