@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Arvi tutto inti feuggi
     .accesskey = o
-
 places-view =
     .label = Fanni vedde
     .accesskey = F
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pe dæta e scito
     .accesskey = t
-
 places-history-search =
     .placeholder = Çerca inta stöia
+places-history =
+    .aria-label = Stöia
 places-bookmarks-search =
     .placeholder = Çerca inti segnalibbri
-
 places-delete-domain-data =
     .label = Ascòrdite de questo scito
     .accesskey = A
 places-sortby-name =
     .label = Ordina pe nomme
     .accesskey = r
-
