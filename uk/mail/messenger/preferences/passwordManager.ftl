@@ -48,16 +48,14 @@ remove =
 import =
     .label = Імпортувати…
     .accesskey = І
-
 password-close-button =
     .label = Закрити
     .accesskey = З
-
 show-passwords =
     .label = Показати паролі
     .accesskey = П
 hide-passwords =
-    .label = Приховати паролі
+    .label = Сховати паролі
     .accesskey = П
 logins-description-all = На вашому компʼютері збережено паролі для таких провайдерів
 logins-description-filtered = Наступні дані для входу відповідають запиту:
@@ -75,12 +73,10 @@ no-master-password-prompt = Ви дійсно хочете показати па
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Підтвердьте права доступу, щоб показати збережені паролі.
-
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = показати збережені паролі
-
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
