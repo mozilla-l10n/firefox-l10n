@@ -207,12 +207,12 @@ newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会�
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多热门文章。等不及了？选择一个热门话题，找到更多网上的好文章。
+newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多精彩文章。等不及了？选择热门主题，找到更多网上的好文章。
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = 都读完了！
-newtab-discovery-empty-section-topstories-content = 待会儿回来看看更多新鲜事。
+newtab-discovery-empty-section-topstories-content = 待会再来看是否有新文章。
 newtab-discovery-empty-section-topstories-try-again-button = 重试
 newtab-discovery-empty-section-topstories-loading = 正在载入…
 # Displays when a layout in a section took too long to fetch articles.
@@ -234,6 +234,7 @@ newtab-pocket-load-more-stories-button = 加载更多文章
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-title = 都读完了！
+newtab-pocket-last-card-desc = 待会再来看是否有新文章。
 newtab-pocket-last-card-image =
     .alt = 都读完了
 
