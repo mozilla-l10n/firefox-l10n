@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Atverti kortelėse
     .accesskey = A
-
 places-open-in-window =
     .label = Atverti naujame lange
     .accesskey = n
 places-open-in-private-window =
     .label = Atverti naujoje privačiojoje kortele
     .accesskey = p
-
 places-add-bookmark =
     .label = Įtraukti adresą…
     .accesskey = r
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Įtraukti skirtuką
     .accesskey = s
-
 places-view =
     .label = Rodyti
     .accesskey = o
@@ -53,19 +50,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = pagal datą ir svetainę
     .accesskey = t
-
 places-history-search =
     .placeholder = Ieškoti žurnale
+places-history =
+    .aria-label = Žurnalas
 places-bookmarks-search =
     .placeholder = Ieškoti adresyne
-
 places-delete-domain-data =
     .label = Užmiršti viską apie šią svetainę
     .accesskey = U
 places-sortby-name =
     .label = Rikiuoti pagal pavadinimą
     .accesskey = R
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Redaguoti adresyno įrašą…
@@ -85,18 +81,15 @@ places-remove-folder =
            *[other] Pašalinti aplankų
         }
     .accesskey = n
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Poaplankis
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Kiti adresyno įrašai
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -108,8 +101,6 @@ places-remove-bookmark =
            *[other] Pašalinti įrašų
         }
     .accesskey = l
-
 places-manage-bookmarks =
     .label = Tvarkyti adresyną
     .accesskey = T
-
