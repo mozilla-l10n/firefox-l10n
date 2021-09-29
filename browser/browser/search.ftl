@@ -19,3 +19,8 @@ opensearch-error-download-desc = { -brand-short-name } ni uspel prenesti iskalni
 
 searchbar-submit =
     .tooltiptext = Začni iskati
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = Išči
+searchbar-icon =
+    .tooltiptext = Išči
