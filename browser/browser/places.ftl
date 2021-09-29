@@ -14,14 +14,12 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Отвори све на картицама
     .accesskey = О
-
 places-open-in-window =
     .label = Отвори у новом прозору
     .accesskey = т
 places-open-in-private-window =
     .label = Отвори у новом приватном прозору
     .accesskey = в
-
 places-add-bookmark =
     .label = Додај обележивач…
     .accesskey = б
@@ -34,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Додај разделник
     .accesskey = р
-
 places-view =
     .label = Приказ
     .accesskey = р
@@ -53,19 +50,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По датуму и сајту
     .accesskey = t
-
 places-history-search =
     .placeholder = Претражите историју
+places-history =
+    .aria-label = Историја
 places-bookmarks-search =
     .placeholder = Претражите обележиваче
-
 places-delete-domain-data =
     .label = Заборави на овај сајт
     .accesskey = F
 places-sortby-name =
     .label = Сортирај по имену
     .accesskey = r
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Уреди обележивач…
@@ -83,18 +79,15 @@ places-remove-folder =
            *[other] Уклони фасцикле
         }
     .accesskey = У
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управљај обележивачима
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Подфасцикла
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Остали обележивачи
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -104,8 +97,6 @@ places-remove-bookmark =
            *[other] Уклони обележиваче
         }
     .accesskey = л
-
 places-manage-bookmarks =
     .label = Управљај обележивачима
     .accesskey = У
-
