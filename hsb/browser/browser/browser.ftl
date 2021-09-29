@@ -787,3 +787,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Wšě rajtarki nalistować
     .tooltiptext = Wšě rajtarki nalistować
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Pokazajće kak
