@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## The following feature names must be treated as a brand, and kept in English.
-## They cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
-
-
 ## The following feature names must be treated as a brand.
 ##
 ## They cannot be:
@@ -27,13 +20,20 @@
 -lockwise-brand-short-name = Lockwise
 -monitor-brand-name = Firefox Monitor
 -monitor-brand-short-name = Monitor
--pocket-brand-name = Pocket
+-pocket-brand-name =
+    { $case ->
+       *[nom] Pocket
+        [gen] Pocketu
+        [dat] Pocketu
+        [acc] Pocket
+        [loc] Pockete
+        [ins] Pocketom
+    }
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
-
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Návrhy Firefoxu

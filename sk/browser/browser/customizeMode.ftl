@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Späť
 customize-mode-lwthemes-my-themes =
     .value = Moje témy
+customize-mode-lwthemes-link = Spravovať témy
 customize-mode-touchbar-cmd =
     .label = Prispôsobiť touch bar…
 customize-mode-downloads-button-autohide =
