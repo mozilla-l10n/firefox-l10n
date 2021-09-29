@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Barchasini varaqlarda ochish
     .accesskey = o
-
 places-view =
     .label = Koʻrinishi
     .accesskey = i
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Sana va sayt boʻyicha
     .accesskey = S
-
 places-history-search =
     .placeholder = Tarixdan qidirish
+places-history =
+    .aria-label = Tarix
 places-bookmarks-search =
     .placeholder = Xatchoʻplarni qidirish
-
 places-delete-domain-data =
     .label = Bu saytni unutish
     .accesskey = u
 places-sortby-name =
     .label = Nomi boʻyicha saralash
     .accesskey = r
-
