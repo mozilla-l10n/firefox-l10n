@@ -199,7 +199,7 @@ main-context-menu-media-show-controls =
     .label = Показати керувальники
     .accesskey = к
 main-context-menu-media-hide-controls =
-    .label = Приховати керувальники
+    .label = Сховати елементи керування
     .accesskey = к
 
 ##
@@ -270,8 +270,8 @@ main-context-menu-plugin-play =
     .label = Активувати цей плагін
     .accesskey = А
 main-context-menu-plugin-hide =
-    .label = Приховати цей плагін
-    .accesskey = П
+    .label = Сховати цей плагін
+    .accesskey = С
 main-context-menu-save-to-pocket =
     .label = Зберегти сторінку в { -pocket-brand-name }
     .accesskey = с

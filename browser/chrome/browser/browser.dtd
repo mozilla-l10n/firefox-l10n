@@ -23,7 +23,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Навігація">
 <!ENTITY fullScreenCmd.label "На весь екран">
 
-<!ENTITY pictureInPictureHideToggle.label "Приховати перемикач Зображення в зображенні">
+<!ENTITY pictureInPictureHideToggle.label "Сховати перемикач Зображення в зображенні">
 <!ENTITY pictureInPictureHideToggle.accesskey "х">
 
 
