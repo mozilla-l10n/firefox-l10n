@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = 新建隐私窗口打开
     .accesskey = P
-
 places-add-bookmark =
     .label = 新建书签…
     .accesskey = B
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = 新建分隔条
     .accesskey = S
-
 places-view =
     .label = 查看
     .accesskey = w
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = 按日期和站点
     .accesskey = t
-
 places-history-search =
     .placeholder = 在历史记录中搜索
+places-history =
+    .aria-label = 历史
 places-bookmarks-search =
     .placeholder = 在书签中搜索
-
 places-delete-domain-data =
     .label = 清除此网站相关信息
     .accesskey = F
@@ -81,7 +79,6 @@ places-remove-folder =
            *[other] 删除文件夹
         }
     .accesskey = m
-
 places-edit-folder2 =
     .label = 编辑文件夹…
     .accesskey = i
@@ -92,18 +89,15 @@ places-delete-folder =
            *[other] 删除文件夹
         }
     .accesskey = D
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受控书签
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = 子文件夹
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = 其他书签
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -113,7 +107,6 @@ places-remove-bookmark =
            *[other] 删除 { $count } 个书签
         }
     .accesskey = e
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -123,15 +116,11 @@ places-delete-bookmark =
            *[other] 删除书签
         }
     .accesskey = D
-
 places-manage-bookmarks =
     .label = 管理书签
     .accesskey = M
-
 places-forget-about-this-site-confirmation-title = 清除此网站相关信息
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = 此操作将移除与 { $hostOrBaseDomain } 相关的所有数据，包括历史记录、密码、Cookie、缓存和内容首选项。您确定要继续吗？
-
 places-forget-about-this-site-forget = 清除
