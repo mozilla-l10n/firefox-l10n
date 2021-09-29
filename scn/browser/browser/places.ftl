@@ -5,11 +5,10 @@
 places-open =
     .label = Rapi
     .accesskey = R
-
+places-history =
+    .aria-label = Cronuluggìa
 places-bookmarks-search =
     .placeholder = Cerca nnê nzingalibbri
-
 places-delete-domain-data =
     .label = Scòrdati stu situ
     .accesskey = S
-
