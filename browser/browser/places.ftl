@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Abrir em nova janela privativa
     .accesskey = p
-
 places-add-bookmark =
     .label = Adicionar favorito…
     .accesskey = f
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Adicionar separador
     .accesskey = s
-
 places-view =
     .label = Exibir
     .accesskey = b
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por data e site
     .accesskey = e
-
 places-history-search =
     .placeholder = Pesquisar no histórico
+places-history =
+    .aria-label = Histórico
 places-bookmarks-search =
     .placeholder = Procurar favoritos
-
 places-delete-domain-data =
     .label = Esquecer este site
     .accesskey = E
@@ -81,7 +79,6 @@ places-remove-folder =
            *[other] Remover pastas
         }
     .accesskey = m
-
 places-edit-folder2 =
     .label = Editar pasta…
     .accesskey = i
@@ -92,18 +89,15 @@ places-delete-folder =
            *[other] Excluir pastas
         }
     .accesskey = x
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Favoritos controlados
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subpasta
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Outros favoritos
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -113,7 +107,6 @@ places-remove-bookmark =
            *[other] Remover favoritos
         }
     .accesskey = e
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -123,15 +116,11 @@ places-delete-bookmark =
            *[other] Excluir favoritos
         }
     .accesskey = x
-
 places-manage-bookmarks =
     .label = Gerenciar favoritos
     .accesskey = G
-
 places-forget-about-this-site-confirmation-title = Esquecer este site
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Esta ação remove todos os dados relacionados a { $hostOrBaseDomain }, incluindo histórico, senhas, cookies, cache e preferências de conteúdo. Tem certeza que quer continuar?
-
 places-forget-about-this-site-forget = Esquecer
