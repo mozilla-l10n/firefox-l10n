@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Αναίρεση
 customize-mode-lwthemes-my-themes =
     .value = Τα θέματά μου
+customize-mode-lwthemes-link = Διαχείριση θεμάτων
 customize-mode-touchbar-cmd =
     .label = Προσαρμογή γραμμής αφής…
 customize-mode-downloads-button-autohide =
