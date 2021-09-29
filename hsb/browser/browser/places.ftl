@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = W nowym priwatnym woknje wočinić
     .accesskey = r
-
 places-add-bookmark =
     .label = Zapołožku přidać…
     .accesskey = Z
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Dźělatko přidać
     .accesskey = D
-
 places-view =
     .label = Napohlad
     .accesskey = N
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = po datumje a sydle
     .accesskey = t
-
 places-history-search =
     .placeholder = Historiju přepytać
+places-history =
+    .aria-label = Historija
 places-bookmarks-search =
     .placeholder = Zapołožki přepytać
-
 places-delete-domain-data =
     .label = Na tute sydło zabyć
     .accesskey = N
@@ -84,7 +82,6 @@ places-remove-folder =
            *[other] Rjadowaki wotstronić
         }
     .accesskey = s
-
 places-edit-folder2 =
     .label = Rjadowak wobdźěłać…
     .accesskey = d
@@ -98,18 +95,15 @@ places-delete-folder =
            *[other] Rjadowaki zhašeć
         }
     .accesskey = R
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Rjadowane zapołožki
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Podrjadowak
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druhe zapołožki
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -122,7 +116,6 @@ places-remove-bookmark =
            *[other] Zapołožki wotstronić
         }
     .accesskey = s
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -135,15 +128,11 @@ places-delete-bookmark =
            *[other] Zapołožki zhašeć
         }
     .accesskey = Z
-
 places-manage-bookmarks =
     .label = Zapołožki rjadować
     .accesskey = r
-
 places-forget-about-this-site-confirmation-title = Na tute sydło zabyć
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Tuta akcija wšě daty nastupajo { $hostOrBaseDomain }, mjez druhimi historiju, hesła, placki, pufrowak a nastajenja wobsaha, wotstroni. Chceće woprawdźe pokročować?
-
 places-forget-about-this-site-forget = Zabyć
