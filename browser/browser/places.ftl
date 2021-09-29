@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Megnyitás új privát ablakban
     .accesskey = p
-
 places-add-bookmark =
     .label = Könyvjelzők hozzáadása…
     .accesskey = K
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Elválasztó hozzáadása
     .accesskey = E
-
 places-view =
     .label = Megjelenítés
     .accesskey = M
@@ -52,12 +50,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Dátum és kiszolgáló szerint
     .accesskey = m
-
 places-history-search =
     .placeholder = Előzmények keresése
+places-history =
+    .aria-label = Előzmények
 places-bookmarks-search =
     .placeholder = Könyvjelzők keresése
-
 places-delete-domain-data =
     .label = Webhely elfelejtése
     .accesskey = W
@@ -82,7 +80,6 @@ places-remove-folder =
            *[other] Mappák eltávolítása
         }
     .accesskey = M
-
 places-edit-folder2 =
     .label = Mappa szerkesztése…
     .accesskey = e
@@ -94,18 +91,15 @@ places-delete-folder =
            *[other] Mappák törlése
         }
     .accesskey = t
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Menedzsel könyvjelzők
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Almappa
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Más könyvjelzők
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -116,7 +110,6 @@ places-remove-bookmark =
            *[other] Könyvjelzők eltávolítása
         }
     .accesskey = t
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -127,15 +120,11 @@ places-delete-bookmark =
            *[other] Könyvjelzők törlése
         }
     .accesskey = t
-
 places-manage-bookmarks =
     .label = Könyvjelzők kezelése
     .accesskey = K
-
 places-forget-about-this-site-confirmation-title = Webhely elfelejtése
-
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ez a művelet eltávolítja a(z) { $hostOrBaseDomain } domainhez kapcsolódó összes adatot, beleértve az előzményeket, a jelszavakat, a sütiket, a gyorsítótárat és a tartalmi beállításokat. Biztos, hogy folytatja?
-
 places-forget-about-this-site-forget = Elfelejtés
