@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Atvērt visas cilnēs
     .accesskey = A
-
 places-view =
     .label = Skats
     .accesskey = t
@@ -27,16 +26,15 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pēc datuma un vietnes
     .accesskey = t
-
 places-history-search =
     .placeholder = Meklēšanas vēsture
+places-history =
+    .aria-label = Vēsture
 places-bookmarks-search =
     .placeholder = Meklēt grāmatzīmes
-
 places-delete-domain-data =
     .label = Aizmirst par šo lapu
     .accesskey = A
 places-sortby-name =
     .label = Kārtot pēc nosaukuma
     .accesskey = r
-
