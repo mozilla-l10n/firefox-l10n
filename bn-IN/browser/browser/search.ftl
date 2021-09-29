@@ -17,3 +17,8 @@ opensearch-error-download-desc = { -brand-short-name } দ্বারা চি
 
 searchbar-submit =
     .tooltiptext = অনুসন্ধান জমা করুন
+# This string is displayed in the search box when the input field is empty
+searchbar-input =
+    .placeholder = অনুসন্ধান
+searchbar-icon =
+    .tooltiptext = অনুসন্ধান
