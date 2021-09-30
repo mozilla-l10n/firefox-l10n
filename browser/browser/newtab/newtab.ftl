@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksj
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populêre ûnderwerpen:
+newtab-pocket-new-topics-title = Wolle jo noch mear ferhalen? Besjoch dizze populêre ûnderwerpen fan { -pocket-brand-name }
 newtab-pocket-more-recommendations = Mear oanrekommandaasjes
 newtab-pocket-learn-more = Mear ynfo
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
 newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is ûnderdiel fan de { -brand-product-name }-famylje
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Mear ferhalen lade
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Jo binne folslein by!
+newtab-pocket-last-card-desc = Kom letter werom foar mear.
+newtab-pocket-last-card-image =
+    .alt = Jo binne folslein by
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
