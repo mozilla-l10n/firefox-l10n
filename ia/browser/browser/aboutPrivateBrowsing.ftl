@@ -28,6 +28,7 @@ about-private-browsing-info-description-simplified = { -brand-short-name } cance
 about-private-browsing-learn-more-link = Saper plus
 about-private-browsing-hide-activity = Cela tu activitate e tu position, ubicunque tu naviga
 about-private-browsing-get-privacy = Obtene protectiones del confidentialitate ubique tu naviga
+about-private-browsing-hide-activity-1 = Cela tu activate de navigation e tu position con { -mozilla-vpn-brand-name }. Un sol clic pro crear un connexion secur, mesmo sur wi-fi public.
 about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
