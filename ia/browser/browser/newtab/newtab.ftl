@@ -222,10 +222,15 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Nos non ha potite car
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subjectos popular:
+newtab-pocket-new-topics-title = Vole tu ancora plus historias? Vider iste popular argumentos de { -pocket-brand-name }
 newtab-pocket-more-recommendations = Altere recommendationes
 newtab-pocket-learn-more = Saper plus
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Salva le articulos que tu ama in { -pocket-brand-name }, e alimenta tu mente con lecturas fascinante.
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
