@@ -300,6 +300,7 @@ install-theme-button = Installa tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gestisci
 find-more-addons = Trova altri componenti aggiuntivi
+find-more-themes = Trova altri temi
 
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
@@ -332,6 +333,8 @@ theme-disabled-heading = Disattivati
 
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati
+theme-monochromatic-heading = Tonalità
+theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
 
 dictionary-enabled-heading = Attivi
 dictionary-disabled-heading = Disattivati
