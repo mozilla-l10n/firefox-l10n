@@ -35,7 +35,7 @@ pocket-panel-signup-login = Prihlásiť sa
 pocket-panel-signup-signup-email = Registrovať pomocou e-mailu
 pocket-panel-signup-signup-cta = Zaregistrujte sa v službe { -pocket-brand-name }. Je zadarmo.
 pocket-panel-signup-signup-firefox = Registrovať pomocou { -brand-product-name(case: "gen") }
-pocket-panel-signup-tagline = Ukladajte si články a videá z { -brand-product-name(case: "gen") } a majte ich dostupné kdekoľvek a na akomkoľvek zariadení využitím služby { -pocket-brand-name }.
+pocket-panel-signup-tagline = Ukladajte si články a videá z { -brand-product-name(case: "gen") } a majte ich vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
 pocket-panel-signup-tagline-story-one = Kliknutím na tlačidlo { -pocket-brand-name } vo { -brand-product-name(case: "loc") } uložíte akýkoľvek článok, video alebo stránku.
 pocket-panel-signup-tagline-story-two = Tieto sú potom vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
 
