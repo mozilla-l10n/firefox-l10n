@@ -14,6 +14,15 @@ about-processes-shutdown-process =
     .title = Đóng các thẻ và buộc dừng tiến trình
 about-processes-shutdown-tab =
     .title = Đóng thẻ
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+           *[other] Phân tích tất cả các luồng của tiến trình này trong { $duration } giây
+        }
 
 ## Column headers
 
