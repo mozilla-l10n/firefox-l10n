@@ -23,7 +23,18 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Smazat profil…
     .accesskey = m
-profile-selection-conflict-message = Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+profile-selection-conflict-message =
+    Další kopie { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    } změnila tento profil. Před provedením dalších změn { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } restartujte.
 
 ## Messages used in the profile manager
 
