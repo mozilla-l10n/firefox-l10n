@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Попередження HTTPS-режиму
 about-httpsonly-title-connection-not-available = Захищене з'єднання недоступне
-about-httpsonly-title-site-not-available = Безпечний сайт недоступний
+about-httpsonly-title-site-not-available = Захищений сайт недоступний
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Ви увімкнули HTTPS-режим для поліпшення безпеки, але HTTPS версія для <em>{ $websiteUrl }</em> недоступна.
