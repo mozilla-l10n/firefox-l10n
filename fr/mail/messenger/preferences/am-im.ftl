@@ -8,6 +8,7 @@ chat-encryption-generic = Générique
 chat-encryption-log =
     .label = Inclure les messages chiffrés de bout en bout dans les historiques de conversation
 chat-encryption-label = Chiffrement natif de bout en bout
+chat-encryption-description = { $protocol } fournit un chiffrement de bout en bout des messages instantanés. Des tiers ne peuvent donc pas espionner une conversation. Il peut être nécessaire d’effectuer une configuration supplémentaire ci-dessous pour que le chiffrement soit opérationnel.
 chat-encryption-status = État du chiffrement
 chat-encryption-placeholder = Le chiffrement n’est pas initialisé.
 chat-encryption-sessions = Sessions
