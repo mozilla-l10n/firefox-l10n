@@ -28,6 +28,7 @@ about-private-browsing-info-description-simplified = A { -brand-short-name } tö
 about-private-browsing-learn-more-link = További tudnivalók
 about-private-browsing-hide-activity = Rejtse el tevékenységét és tartózkodási helyét, bárhol is böngésszen
 about-private-browsing-get-privacy = Szerezzen adatvédelmet, bárhol is böngésszen
+about-private-browsing-hide-activity-1 = Rejtse el a böngészési tevékenységét és a tartózkodási helyét a { -mozilla-vpn-brand-name } használatával. Egy kattintással biztonságos kapcsolatot hozhat létre, még nyilvános Wi-Fin is.
 about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-name } használatával
 # This string is the title for the banner for search engine selection
 # in a private window.
