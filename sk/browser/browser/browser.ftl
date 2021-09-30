@@ -632,8 +632,8 @@ library-recent-activity-title =
 ## Pocket toolbar button
 
 save-to-pocket-button =
-    .label = Uložiť do { -pocket-brand-name }u
-    .tooltiptext = Uložiť do { -pocket-brand-name }u
+    .label = Uložiť do { -pocket-brand-name(case: "gen") }
+    .tooltiptext = Uložiť do { -pocket-brand-name(case: "gen") }
 
 ## Repair text encoding toolbar button
 

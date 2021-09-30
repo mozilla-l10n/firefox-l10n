@@ -109,9 +109,9 @@ newtab-menu-dismiss = Skryť
 newtab-menu-pin = Pripnúť
 newtab-menu-unpin = Odopnúť
 newtab-menu-delete-history = Odstrániť z histórie
-newtab-menu-save-to-pocket = Uložiť do služby { -pocket-brand-name }
-newtab-menu-delete-pocket = Odstrániť zo služby { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivovať v službe { -pocket-brand-name }
+newtab-menu-save-to-pocket = Uložiť do { -pocket-brand-name(case: "gen") }
+newtab-menu-delete-pocket = Odstrániť z { -pocket-brand-name(case: "gen") }
+newtab-menu-archive-pocket = Archivovať v { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Naši sponzori a vaše súkromie
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -155,7 +155,7 @@ newtab-label-visited = Navštívené
 newtab-label-bookmarked = V záložkách
 newtab-label-removed-bookmark = Záložka bola odstránená
 newtab-label-recommended = Trendy
-newtab-label-saved = Uložené do služby { -pocket-brand-name }
+newtab-label-saved = Uložené do { -pocket-brand-name(case: "gen") }
 newtab-label-download = Stiahnuté
 # This string is used in the story cards to indicate sponsored content
 # Variables:
@@ -226,7 +226,7 @@ newtab-pocket-new-topics-title = Chcete ešte viac príbehov? Pozrite sa na tiet
 newtab-pocket-more-recommendations = Ďalšie odporúčania
 newtab-pocket-learn-more = Ďalšie informácie
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
-newtab-pocket-cta-text = Ukladajte si články do služby { -pocket-brand-name } a užívajte si skvelé čítanie.
+newtab-pocket-cta-text = Ukladajte si články do { -pocket-brand-name(case: "gen") } a užívajte si skvelé čítanie.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je súčasťou rodiny { -brand-product-name(case: "gen") }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Načítať ďalšie príbehy
@@ -257,7 +257,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponzorované skratky
 newtab-custom-pocket-title = Odporúčané službou { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Výnimočný obsah vybraný službou { -pocket-brand-name }, ktorá je súčasťou { -brand-product-name(case: "gen") }
+newtab-custom-pocket-subtitle = Výnimočný obsah vybraný službou { -pocket-brand-name }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
 newtab-custom-pocket-sponsored = Sponzorované príbehy
 newtab-custom-recent-title = Nedávna aktivita
 newtab-custom-recent-subtitle = Výber z nedávno navštívených stránok a obsahu
