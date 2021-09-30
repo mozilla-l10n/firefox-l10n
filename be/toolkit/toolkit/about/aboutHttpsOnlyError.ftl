@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Папярэджанне аб рэжыме «Толькі HTTPS»
 about-httpsonly-title-connection-not-available = Бяспечнае злучэнне недаступна
-
+about-httpsonly-title-site-not-available = Бяспечны сайт недаступны
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Вы ўключылі рэжым "толькі HTTPS" для лепшай бяспекі, а HTTPS-версія для <em>{ $websiteUrl }</em> недаступная.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Што можа быць прычынай
 about-httpsonly-explanation-nosupport = Хутчэй за ўсё, сайт проста не падтрымлівае HTTPS.
 about-httpsonly-explanation-risk = Магчыма таксама дзеянне зламысніка. Калі вы рашыце наведаць гэты сайт, вам не варта ўводзіць якую-небудзь канфідэнцыйную інфармацыю, напрыклад, паролі, адрасы электроннай пошты ці рэквізіты крэдытнай карты.
 about-httpsonly-explanation-continue = Калі вы працягнеце, рэжым "толькі HTTPS" будзе часова адключаны для гэтага сайта.
-
 about-httpsonly-button-continue-to-site = Перайсці на HTTP-сайт
 about-httpsonly-button-go-back = Вярнуцца
 about-httpsonly-link-learn-more = Даведацца больш…
