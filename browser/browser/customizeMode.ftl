@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Dadwneud
 customize-mode-lwthemes-my-themes =
     .value = Fy Thema
+customize-mode-lwthemes-link = Rheoli Themâu
 customize-mode-touchbar-cmd =
     .label = Cyfaddasu'r Bar Cyffwrdd…
 customize-mode-downloads-button-autohide =
