@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Адмяніць
 customize-mode-lwthemes-my-themes =
     .value = Мае тэмы
+customize-mode-lwthemes-link = Кiраваць тэмамi
 customize-mode-touchbar-cmd =
     .label = Уладкаваць сенсарную панэль…
 customize-mode-downloads-button-autohide =
