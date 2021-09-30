@@ -14,7 +14,17 @@ about-unloads-intro-1 =
     keazen op basis fan meardere eigenskippen. Dizze side lit sjen hoe't
     { -brand-short-name } prioriteit jout oan ljepblêden en hokker ljepblêd ûntladen wurdt
     wannear it ûntladen fan ljepblêden aktivearre wurdt.
+about-unloads-intro-2 =
+    Besteande ljepblêden wurde yn de ûndersteande tabel yn deselde folchoarder toand as yn
+    { -brand-short-name } om it folgjende te ûntladen ljepblêd te kiezen. Proses-ID’s wurde
+    toand yn <strong>fet</strong> wannear't se it boppenste frame fan it ljepblêd hoste,
+    en yn <em>kursyf</em> wannear't it proses dield wurdt tusken ferskillende
+    ljepblêden. Jo kinne it ûntladen fan ljepblêden hânmjittich aktivearje troch hjirûnder op de knop
+    <em>Untlade</em> te klikken.
 about-unloads-last-updated = Lêst bywurke: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = Untlade
+    .title = Ljepblêd mei de heechste prioriteit ûntlade
+about-unloads-no-unloadable-tab = Der binne gjin te ûntladen ljepblêden.
 about-unloads-column-priority = Prioriteit
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Lêst benadere
