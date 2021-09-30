@@ -576,7 +576,7 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Сховати бічну панель закладок
-           *[other] Показати панель закладок
+           *[other] Показати бічну панель закладок
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
