@@ -501,7 +501,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
 home-prefs-recommended-by-description-update = Výnimočný obsah z celého internetu, vybraný službou { $provider }
-home-prefs-recommended-by-description-new = Výnimočný obsah vybraný službou { $provider }, ktorá je súčasťou { -brand-product-name(case: "gen") }
+home-prefs-recommended-by-description-new = Výnimočný obsah vybraný službou { $provider }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
 
 ##
 
@@ -518,7 +518,7 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-highlights-option-most-recent-download =
     .label = Nedávne sťahovania
 home-prefs-highlights-option-saved-to-pocket =
-    .label = Stránky uložené do služby { -pocket-brand-name }
+    .label = Stránky uložené do { -pocket-brand-name(case: "gen") }
 home-prefs-recent-activity-header =
     .label = Posledná aktivita
 home-prefs-recent-activity-description = Výber z nedávno navštívených stránok a obsahu
