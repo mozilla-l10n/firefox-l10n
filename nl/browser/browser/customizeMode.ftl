@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Ongedaan maken
 customize-mode-lwthemes-my-themes =
     .value = Mijn thema’s
+customize-mode-lwthemes-link = Thema’s beheren
 customize-mode-touchbar-cmd =
     .label = Aanraakbalk aanpassen…
 customize-mode-downloads-button-autohide =
