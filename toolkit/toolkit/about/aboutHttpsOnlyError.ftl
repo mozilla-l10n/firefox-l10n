@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Rhybudd Modd HTTPS-yn-Unig
 about-httpsonly-title-connection-not-available = Nid yw'r Cysylltiad Diogel ar Gael
-
+about-httpsonly-title-site-not-available = Nid yw'r Safle Diogel ar Gael
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Rydych wedi galluogi'r Modd HTTPS-yn-Unig ar gyfer gwell diogelwch, ac nid oes fersiwn HTTPS o <em>{ $websiteUrl }</em> ar gael.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Beth allai fod yn achosi hyn?
 about-httpsonly-explanation-nosupport = Yn fwyaf tebygol, nid yw'r wefan yn cefnogi HTTPS.
 about-httpsonly-explanation-risk = Mae hefyd yn bosibl bod ymosodwr yn ceisio ymyrryd. Os penderfynwch ymweld â'r wefan, peidiwch â rhannu unrhyw fanylion sensitif fel cyfrineiriau, e-byst, neu fanylion cardiau credyd.
 about-httpsonly-explanation-continue = Os byddwch yn parhau, bydd y Modd HTTPS-yn-Unig yn cael ei ddiffodd dros dro ar gyfer y wefan hon.
-
 about-httpsonly-button-continue-to-site = Ymlaen i'r Wefan HTTP
 about-httpsonly-button-go-back = Mynd Nôl
 about-httpsonly-link-learn-more = Dysgu Rhagor…
