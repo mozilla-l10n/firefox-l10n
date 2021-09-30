@@ -24,6 +24,18 @@ connection-dialog-window =
 connection-disable-extension =
     .label = Zakázat rozšíření
 disable-extension-button = Zakázat rozšíření
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension =
+    Připojení { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } k internetu spravuje rozšíření <img data-l10n-name="extension-icon" alt="" /> { $name }.
 connection-proxy-legend = Nastavení proxy serverů pro přístup k internetu
 proxy-type-no =
     .label = Bez proxy serveru
