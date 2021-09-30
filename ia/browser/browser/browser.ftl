@@ -776,3 +776,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listar tote le schedas
     .tooltiptext = Listar tote le schedas
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Como reaperir le schedas previe?</strong> Tu pote restaurar tu previe session ab le menu <img data-l10n-name="icone"/> de { -brand-short-name } , sub Chronologia.
+restore-session-startup-suggestion-button = Monstrar como
