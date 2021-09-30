@@ -236,6 +236,8 @@ newtab-pocket-load-more-stories-button = Cargar altere historias
 
 newtab-pocket-last-card-title = Vos tote es attrappate!
 newtab-pocket-last-card-desc = Controla de novo plus tarde pro altero.
+newtab-pocket-last-card-image =
+    .alt = Vos tote es attrappate
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
