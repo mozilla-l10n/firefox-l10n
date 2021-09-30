@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Các chủ đề phổ biến:
+newtab-pocket-new-topics-title = Muốn nhiều câu chuyện hơn nữa? Xem các chủ đề phổ biến này từ { -pocket-brand-name }
 newtab-pocket-more-recommendations = Nhiều khuyến nghị hơn
 newtab-pocket-learn-more = Tìm hiểu thêm
 newtab-pocket-cta-button = Nhận { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } là một phần của gia đình { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Tải thêm các câu chuyện
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Bạn đã bắt kịp tất cả!
+newtab-pocket-last-card-desc = Kiểm tra lại sau để biết thêm.
+newtab-pocket-last-card-image =
+    .alt = Bạn đã bắt kịp tất cả
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
