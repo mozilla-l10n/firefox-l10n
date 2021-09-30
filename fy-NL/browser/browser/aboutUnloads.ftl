@@ -6,6 +6,14 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Ljepblêden ûntlade
+about-unloads-intro-1 =
+    { -brand-short-name } hat in funksje dy't automatysk ljepblêden ûntlaadt
+    om foar te kommen dat de tapassing ferûngelokket fanwegen ûnfoldwaande ûnthâld
+    wannear't it beskikbere systeemûnthâld leech is. It folgjende ljepblêd dat ûntladen wurde moat wurdt
+    keazen op basis fan meardere eigenskippen. Dizze side lit sjen hoe't
+    { -brand-short-name } prioriteit jout oan ljepblêden en hokker ljepblêd ûntladen wurdt
+    wannear it ûntladen fan ljepblêden aktivearre wurdt.
 about-unloads-last-updated = Lêst bywurke: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Prioriteit
 about-unloads-column-host = Host
