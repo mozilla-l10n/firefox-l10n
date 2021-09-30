@@ -227,10 +227,22 @@ newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Pynciau Poblogaidd:
+newtab-pocket-new-topics-title = Am gael mwy fyth o straeon? Edrychwch ar y pynciau poblogaidd hyn gan { -pocket-brand-name }
 newtab-pocket-more-recommendations = Rhagor o Argymhellion
 newtab-pocket-learn-more = Dysgu rhagor
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
+newtab-pocket-pocket-firefox-family = Mae { -pocket-brand-name } yn rhan o deulu { -brand-product-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Llwytho rhagor o straeon
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Yn gyfredol nawr!
+newtab-pocket-last-card-desc = Dewch nôl eto am ragor o straeon.
+newtab-pocket-last-card-image =
+    .alt = Yn gyfredol nawr!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
