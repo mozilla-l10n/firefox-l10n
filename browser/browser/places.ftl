@@ -124,3 +124,17 @@ places-forget-about-this-site-confirmation-title = Quên trang web này
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Hành động này sẽ xóa tất cả dữ liệu liên quan đến { $hostOrBaseDomain } bao gồm lịch sử, mật khẩu, cookie, bộ nhớ đệm và tùy chỉnh nội dung. Bạn có chắc muốn tiếp tục?
 places-forget-about-this-site-forget = Quên
+places-library =
+    .title = Thư viện
+    .style = width:700px; height:500px;
+places-cmd-close =
+    .key = w
+places-view-sort-col-name =
+    .label = Tên
+places-view-sort-col-url =
+    .label = Địa chỉ
+places-cmd-find-key =
+    .key = f
+places-back-button =
+    .tooltiptext = Quay lại
+places-details-pane-select-an-item-description = Chọn một mục để xem và chỉnh sửa thuộc tính của nó
