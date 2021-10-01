@@ -188,6 +188,18 @@ mr1-onboarding-import-primary-button-label-attribution = Importa da { $previous 
 mr1-onboarding-import-primary-button-label-no-attribution = Importa da un browser esistente
 mr1-onboarding-import-secondary-button-label = Non adesso
 
+mr2-onboarding-colorway-header = Una vita a colori
+mr2-onboarding-colorway-subtitle = Nuove vibranti tonalità. Disponibili per un periodo limitato.
+mr2-onboarding-colorway-primary-button-label = Salva tonalità
+mr2-onboarding-colorway-secondary-button-label = Non adesso
+
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatico
+
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Predefinito
+
+
 mr1-onboarding-theme-header = Uno stile unico
 mr1-onboarding-theme-subtitle = Personalizza { -brand-short-name } con un tema.
 mr1-onboarding-theme-primary-button-label = Salva tema
@@ -312,3 +324,33 @@ mr1-onboarding-theme-description-alpenglow =
   .aria-description =
     Utilizza una combinazione di colori dinamica
     e variegata per pulsanti, menu e finestre.
+
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+  .title = Utilizza questa tonalità.
+
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+  .aria-description = Utilizza questa tonalità.
+
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+  .title = Scopri le tonalità { $colorwayName }.
+
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+  .aria-description = Scopri le tonalità { $colorwayName }.
+
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+  .title = Scopri i temi predefiniti.
+
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+  .aria-description = Scopri i temi predefiniti.
