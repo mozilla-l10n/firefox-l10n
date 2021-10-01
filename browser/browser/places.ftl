@@ -132,4 +132,13 @@ places-forget-about-this-site-confirmation-title = Zabudnúť na túto stránku
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Touto akciou odstránite všetky údaje súvisiace so stránkou { $hostOrBaseDomain } vrátane histórie, hesiel, súborov cookie, vyrovnávacej pamäte a nastavení pre obsah. Naozaj chcete pokračovať?
 places-forget-about-this-site-forget = Zabudnúť
+places-import-bookmarks-from-html =
+    .label = Importovať záložky zo súboru HTML…
+    .accesskey = I
+places-export-bookmarks-to-html =
+    .label = Exportovať záložky do súboru HTML…
+    .accesskey = E
+places-import-other-browser =
+    .label = Importovať údaje z iného prehliadača…
+    .accesskey = d
 places-details-pane-select-an-item-description = Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť
