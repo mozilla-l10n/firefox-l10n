@@ -72,3 +72,5 @@ other-bookmarks-folder =
 places-manage-bookmarks =
     .label = बुकमार्क प्रबंधित करें
     .accesskey = M
+places-cmd-find-key =
+    .key = f
