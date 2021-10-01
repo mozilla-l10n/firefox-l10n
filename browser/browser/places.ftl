@@ -34,4 +34,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sórtáil de réir Ainm
     .accesskey = r
+places-view-sort-col-most-recent-visit =
+    .label = Cuairt is Déanaí
 places-details-pane-select-an-item-description = Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar
