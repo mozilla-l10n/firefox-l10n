@@ -34,3 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sórtáil de réir Ainm
     .accesskey = r
+places-details-pane-select-an-item-description = Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar
