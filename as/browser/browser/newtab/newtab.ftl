@@ -227,5 +227,4 @@ newtab-custom-row-selector =
         [one] { $num }টা শাৰী
        *[other] { $num }টা শাৰী
     }
-newtab-custom-pocket-title = { -pocket-brand-name }-এ আগবঢ়োৱা পৰামৰ্শ
 newtab-custom-close-button = বন্ধ কৰক
