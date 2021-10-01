@@ -34,9 +34,9 @@ pocket-panel-signup-learn-more = Ďalšie informácie
 pocket-panel-signup-login = Prihlásiť sa
 pocket-panel-signup-signup-email = Registrovať pomocou e-mailu
 pocket-panel-signup-signup-cta = Zaregistrujte sa v službe { -pocket-brand-name }. Je zadarmo.
-pocket-panel-signup-signup-firefox = Registrovať pomocou { -brand-product-name(case: "gen") }
-pocket-panel-signup-tagline = Ukladajte si články a videá z { -brand-product-name(case: "gen") } a majte ich vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
-pocket-panel-signup-tagline-story-one = Kliknutím na tlačidlo { -pocket-brand-name } vo { -brand-product-name(case: "loc") } uložíte akýkoľvek článok, video alebo stránku.
+pocket-panel-signup-signup-firefox = Registrovať pomocou { -brand-product-name }u
+pocket-panel-signup-tagline = Ukladajte si články a videá z prehliadača { -brand-product-name } a majte ich vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
+pocket-panel-signup-tagline-story-one = Kliknutím na tlačidlo { -pocket-brand-name } v prehliadači { -brand-product-name } uložíte akýkoľvek článok, video alebo stránku.
 pocket-panel-signup-tagline-story-two = Tieto sú potom vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
 
 ## about:pocket-home panel
