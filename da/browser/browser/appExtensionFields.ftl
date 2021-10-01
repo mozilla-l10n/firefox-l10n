@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Følg operativsystems tema til knapper, menuer og vinduer.
 extension-firefox-compact-light-name = Lyst
 extension-firefox-compact-light-description = Tema med lyst farveskema
 extension-firefox-compact-dark-name = Mørkt
