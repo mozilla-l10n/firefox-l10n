@@ -34,3 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Rangskik volgens naam
     .accesskey = R
+places-details-pane-select-an-item-description = Kies 'n item om sy eienskappe te kyk en te redigeer
