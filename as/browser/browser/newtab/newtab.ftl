@@ -201,6 +201,11 @@ newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এ�
 
 newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থওক
+newtab-pocket-saved-to-pocket = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = অধিক কাহিনী ল'ড কৰক
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
@@ -222,4 +227,5 @@ newtab-custom-row-selector =
         [one] { $num }টা শাৰী
        *[other] { $num }টা শাৰী
     }
+newtab-custom-pocket-title = { -pocket-brand-name }-এ আগবঢ়োৱা পৰামৰ্শ
 newtab-custom-close-button = বন্ধ কৰক
