@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = ボタンやメニュー、ウインドウについてオペレーティングシステムの設定に従います。
 extension-firefox-compact-light-name = Light
 extension-firefox-compact-light-description = 明るいカラーのテーマです。
 extension-firefox-compact-dark-name = Dark
