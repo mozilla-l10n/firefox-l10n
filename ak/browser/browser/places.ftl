@@ -34,3 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Fa Din Hyehyɛ
     .accesskey = r
+places-details-pane-select-an-item-description = Fa aetɛm, hwɛ na sesa ne ho nsɛm
