@@ -179,3 +179,4 @@ places-back-button =
     .tooltiptext = Voltar
 places-forward-button =
     .tooltiptext = Avançar
+places-details-pane-select-an-item-description = Selecione um item para ver e editar as suas propriedades
