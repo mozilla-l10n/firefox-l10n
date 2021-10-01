@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Implijout arventennoù ar reizhiad korvoiñ evit ar boutonoù, lañserioù ha prenestroù.
 extension-firefox-compact-light-name = Sklaer
 extension-firefox-compact-light-description = Un neuz gant ur steuñv livioù sklaer.
 extension-firefox-compact-dark-name = Teñval
