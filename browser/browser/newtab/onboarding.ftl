@@ -277,12 +277,12 @@ mr2-onboarding-theme-description =
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = Wuslědźće barbowu kombinaciju { $colorwayName }.
+    .title = Wuslědźće barbowe kombinacije { $colorwayName }.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
-    .aria-description = Wuslědźće barbowu kombinaciju { $colorwayName }.
+    .aria-description = Wuslědźće barbowe kombinacije { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Wuslědźće standardne drasty.
