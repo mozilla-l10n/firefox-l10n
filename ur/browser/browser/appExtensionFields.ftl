@@ -10,6 +10,7 @@ extension-firefox-compact-light-name = ہلکا
 extension-firefox-compact-light-description = ایک تھم ہلکے رنگ کی اسکیم کے ساتھ۔
 extension-firefox-compact-dark-name = گہرا
 extension-firefox-compact-dark-description = ایک تھیم گہرے رنگ کی سکیم کے ساتھ۔
+extension-firefox-alpenglow-name = Firefox الپینگلو
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
