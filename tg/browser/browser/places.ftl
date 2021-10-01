@@ -186,5 +186,7 @@ places-view-sort-col-date-added =
     .label = Илова шуд
 places-view-sort-col-last-modified =
     .label = Тағйири охирин
+places-cmd-find-key =
+    .key = f
 places-back-button =
     .tooltiptext = Бозгашт
