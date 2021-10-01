@@ -232,6 +232,9 @@ newtab-pocket-learn-more = További tudnivalók
 newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
 newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket-brand-name }be, és töltse fel elméjét lebilincselő olvasnivalókkal.
 newtab-pocket-pocket-firefox-family = A { -pocket-brand-name } a { -brand-product-name } család része
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Mentés a { -pocket-brand-name }be
+newtab-pocket-saved-to-pocket = Mentve a { -pocket-brand-name }be
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = További történetek betöltése
 
