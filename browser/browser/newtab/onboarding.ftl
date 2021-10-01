@@ -152,6 +152,9 @@ mr1-onboarding-import-primary-button-label-attribution = Z { $previous } importo
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Z předchadneho wobhladowaka importować
 mr1-onboarding-import-secondary-button-label = Nic nětko
+mr2-onboarding-colorway-header = Žiwjenje w barbje
+mr2-onboarding-colorway-subtitle = Žiwe nowe barbowe kombinacije. Za wobmjezowany čas k dispoziciji.
+mr2-onboarding-colorway-primary-button-label = Barbowu kombinaciju składować
 mr2-onboarding-colorway-secondary-button-label = Nic nětko
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Awtomatiski
@@ -262,3 +265,27 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Dynamisku, barbojtu drastu za tłóčatka,
         menije a wokna wužiwać.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Tutu barbowu kombinaciju wužiwać.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Tutu barbowu kombinaciju wužiwać.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Wuslědźće barbowu kombinaciju { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Wuslědźće barbowu kombinaciju { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Wuslědźće standardne drasty.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Wuslědźće standardne drasty.
