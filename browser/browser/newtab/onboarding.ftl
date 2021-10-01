@@ -26,6 +26,7 @@ return-to-amo-subtitle = বঢ়িয়া, আপুনি { -brand-short-name } 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 onboarding-multistage-welcome-secondary-button-label = ছাইন ইন কৰক
+onboarding-multistage-welcome-secondary-button-text = একাউণ্ট আছেনে?
 onboarding-multistage-set-default-subtitle = আপুনি যেইবাৰেই ব্ৰাউজ কৰে সেইবাৰেই দ্ৰুততা, সুৰক্ষা আৰু গোপনীয়তা।
 onboarding-multistage-set-default-secondary-button-label = এতিয়া নহয়
 onboarding-multistage-pin-default-primary-button-label = { -brand-short-name }-ক মোৰ প্ৰাথমিক ব্ৰাউজাৰ কৰক
@@ -47,6 +48,12 @@ onboarding-multistage-theme-header = এটা <span data-l10n-name="zap">ৰূ
 onboarding-multistage-theme-subtitle = এটা থীমেৰে { -brand-short-name } ব্যক্তিগতকৰণ কৰক।
 onboarding-multistage-theme-primary-button-label2 = হৈ গ'ল
 onboarding-multistage-theme-secondary-button-label = এতিয়া নহয়
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = স্বয়ংক্ৰিয়
+onboarding-multistage-theme-label-light = পাতল
+onboarding-multistage-theme-label-dark = গাঢ়
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
