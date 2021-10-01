@@ -128,4 +128,6 @@ places-forget-about-this-site-confirmation-title = Olvidarse de este sitio
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Esta acción eliminará todos los datos relacionados con { $hostOrBaseDomain }, incluido el historial, contraseñas, cookies, caché y preferencias de contenido. ¿Estas seguro que deseas continuar?
 places-forget-about-this-site-forget = Olvidar
+places-view-sort-col-most-recent-visit =
+    .label = Última visita
 places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
