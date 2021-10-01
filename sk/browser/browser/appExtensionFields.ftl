@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Nasleduje nastavenia operačného systému pre tlačidlá, ponuky a okná.
 extension-firefox-compact-light-name = Svetlá
 extension-firefox-compact-light-description = Téma vzhľadu so svetlou schémou.
 extension-firefox-compact-dark-name = Tmavá
