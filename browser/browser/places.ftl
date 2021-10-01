@@ -83,3 +83,4 @@ places-back-button =
     .tooltiptext = ಹಿಂದಕ್ಕೆ ತೆರಳು
 places-forward-button =
     .tooltiptext = ಮುಂದಕ್ಕೆ ತೆರಳು
+places-details-pane-select-an-item-description = ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ
