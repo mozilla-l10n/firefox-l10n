@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Θέμα συστήματος — αυτόματο
 extension-default-theme-description = Χρήση ρύθμισης λειτουργικού συστήματος για κουμπιά, μενού και παράθυρα.
 extension-firefox-compact-light-name = Φωτεινό
 extension-firefox-compact-light-description = Ένα θέμα με φωτεινό σύνολο χρωμάτων.
