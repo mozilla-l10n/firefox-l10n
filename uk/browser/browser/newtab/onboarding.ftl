@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding modal / about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
-## These button action text can be split onto multiple lines, so use explicit
-## newlines in translations to control where the line break appears (e.g., to
-## avoid breaking quoted text).
-
-## Welcome modal dialog strings
-
-
 ### UI strings for the simplified onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -24,32 +12,11 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ## Welcome page strings
 
 onboarding-welcome-header = Вітаємо в { -brand-short-name }
-
 onboarding-start-browsing-button-label = Почати перегляд
-
-## Welcome full page string
-
-## Firefox Sync modal dialog strings.
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-## Message strings belonging to the Return to AMO flow
-
 onboarding-not-now-button-label = Не зараз
 
 ## Custom Return To AMO onboarding strings
@@ -71,14 +38,12 @@ onboarding-multistage-welcome-subtitle = Швидкий, безпечний та
 onboarding-multistage-welcome-primary-button-label = Почати налаштування
 onboarding-multistage-welcome-secondary-button-label = Увійти
 onboarding-multistage-welcome-secondary-button-text = Маєте обліковий запис?
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Зробіть { -brand-short-name } своїм <span data-l10n-name="zap">типовим</span>
 onboarding-multistage-set-default-subtitle = Швидкість, безпека та приватність завжди під час перегляду.
 onboarding-multistage-set-default-primary-button-label = Зробити типовим
 onboarding-multistage-set-default-secondary-button-label = Не зараз
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Розпочніть, зробивши <span data-l10n-name="zap">{ -brand-short-name }</span> на відстані одного натиску кнопки
@@ -88,14 +53,12 @@ onboarding-multistage-pin-default-waiting-subtitle = Оберіть { -brand-sho
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Ця дія закріпить { -brand-short-name } на панелі завдань і відкриє налаштування
 onboarding-multistage-pin-default-primary-button-label = Зробіть { -brand-short-name } своїм основним браузером
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Імпортуйте свої паролі, закладки та <span data-l10n-name="zap">інші дані</span>
 onboarding-multistage-import-subtitle = Переходите з іншого браузера? Легко переносьте усе до { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Почати імпортування
 onboarding-multistage-import-secondary-button-label = Не зараз
-
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Перелічені тут сайти знайдено на цьому пристрої. { -brand-short-name } не зберігає та не синхронізує дані з іншого браузера, доки ви не захочете їх імпортувати.
@@ -108,22 +71,18 @@ onboarding-import-sites-disclaimer = Перелічені тут сайти зн
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Початок роботи: екран { $current } з { $total }
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Змініть <span data-l10n-name="zap">зовнішній вигляд</span>
 onboarding-multistage-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
 onboarding-multistage-theme-primary-button-label2 = Виконано
 onboarding-multistage-theme-secondary-button-label = Не зараз
-
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Автоматично
-
 onboarding-multistage-theme-label-light = Світла
 onboarding-multistage-theme-label-dark = Темна
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -132,13 +91,11 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Вогонь лине звідси
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio — Дизайнерка меблів, шанувальниця Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Вимкнути анімацію
 
@@ -164,11 +121,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Розпочати
-
 mr1-onboarding-welcome-header = Вітаємо в { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Зробити { -brand-short-name } моїм основним браузером
     .title = Встановлює { -brand-short-name } типовим браузером та закріплює його на панелі завдань
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Зробити { -brand-short-name } моїм типовим браузером
@@ -184,26 +139,21 @@ mr1-onboarding-default-primary-button-label = Зробити типовим бр
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Візьміть все це з собою
+mr1-onboarding-import-header = Візьміть усе з собою
 mr1-onboarding-import-subtitle = Імпортуйте свої паролі, <br/>закладки та інші дані.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Імпортувати з { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Імпортувати з іншого браузера
 mr1-onboarding-import-secondary-button-label = Не зараз
-
 mr1-onboarding-theme-header = Зробіть його своїм
 mr1-onboarding-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
 mr1-onboarding-theme-primary-button-label = Зберегти тему
 mr1-onboarding-theme-secondary-button-label = Не зараз
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системна тема
-
 mr1-onboarding-theme-label-light = Світла
 mr1-onboarding-theme-label-dark = Темна
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -213,6 +163,7 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -224,43 +175,36 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Наслідування зовнішнього вигляду вашої
         операційної системи кнопками, меню та вікнами.
-
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Наслідування зовнішнього вигляду вашої
         операційної системи кнопками, меню та вікнами.
-
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
         Використовувати світлий вигляд
         кнопок, меню та вікон.
-
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
         Використовувати світлий вигляд
         кнопок, меню та вікон.
-
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         Використовувати темний вигляд
         кнопок, меню та вікон.
-
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
         Використовувати темний вигляд
         кнопок, меню та вікон.
-
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
         Використовувати різнобарвний вигляд
         кнопок, меню та вікон.
-
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
@@ -274,43 +218,36 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Повторювати тему операційної системи
         для кнопок, меню та вікон.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Повторювати тему операційної системи
         для кнопок, меню та вікон.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Застосувати світлу тему
         кнопок, меню та вікон.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Застосувати світлу тему
         кнопок, меню та вікон.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Застосувати темну тему
         кнопок, меню та вікон.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Застосувати темну тему
         кнопок, меню та вікон.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Застосувати динамічну, барвисту
         тему кнопок, меню та вікон.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
