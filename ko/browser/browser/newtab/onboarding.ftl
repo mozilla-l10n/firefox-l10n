@@ -148,6 +148,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 mr1-onboarding-import-secondary-button-label = 나중에
+mr2-onboarding-colorway-header = 색상 라이프
 mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 색상입니다. 제한된 시간 동안 사용할 수 있습니다.
 mr2-onboarding-colorway-primary-button-label = 색상 저장
 mr2-onboarding-colorway-secondary-button-label = 나중에
