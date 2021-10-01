@@ -38,3 +38,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = নাম অনুসারে সাজান
     .accesskey = r
+places-details-pane-select-an-item-description = একটি আইটেম নির্বাচন করে তার বৈশিষ্ট্য প্রদর্শন ও পরিবর্তন
