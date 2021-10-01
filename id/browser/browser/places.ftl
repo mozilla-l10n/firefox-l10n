@@ -100,3 +100,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Kelola Markah
     .accesskey = K
+places-details-pane-select-an-item-description = Pilih item untuk ditampilkan dan diubah propertinya
