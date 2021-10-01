@@ -124,3 +124,4 @@ places-manage-bookmarks =
     .label = Administrar marcadores
     .accesskey = M
 places-forget-about-this-site-forget = Olvidar
+places-details-pane-select-an-item-description = Selecciona un elemento para ver y editar sus propiedades
