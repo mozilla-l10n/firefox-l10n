@@ -226,6 +226,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi charg
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populars:
+newtab-pocket-new-topics-title = Vul anc dapli istorgias? Vesair quests temas populars da { -pocket-brand-name }
 newtab-pocket-more-recommendations = Dapli propostas
 newtab-pocket-learn-more = Ulteriuras infurmaziuns
 newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
