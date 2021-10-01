@@ -38,3 +38,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Kārtot pēc nosaukuma
     .accesskey = r
+places-details-pane-select-an-item-description = Izvēlieties elementu, ko aplūkot vai rediģēt
