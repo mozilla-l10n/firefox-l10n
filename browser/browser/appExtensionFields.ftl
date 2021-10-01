@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = 系统主题 — 自动
 extension-default-theme-description = 跟随系统主题配色显示按钮、菜单和窗口。
 extension-firefox-compact-light-name = 明亮
 extension-firefox-compact-light-description = 明亮配色的主题。
@@ -19,3 +21,7 @@ extension-firefox-alpenglow-description = 使用多彩按钮、菜单、窗口�
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — 柔和
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — 浓烈
