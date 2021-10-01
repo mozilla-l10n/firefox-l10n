@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Ikuti pengaturan sistem operasi untuk tombol, menu, dan jendela.
 extension-firefox-compact-light-name = Terang
 extension-firefox-compact-light-description = Tema dengan skema warna terang.
 extension-firefox-compact-dark-name = Gelap
