@@ -253,3 +253,19 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Use este esquema de cores.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Conheça o esquema de cores { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Conheça o esquema de cores { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Conheça os temas padrão.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Conheça os temas padrão.
