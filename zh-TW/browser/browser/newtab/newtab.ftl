@@ -228,6 +228,9 @@ newtab-pocket-learn-more = 了解更多
 newtab-pocket-cta-button = 取得 { -pocket-brand-name }
 newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-product-name } 產品家族的一部份
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = 儲存至 { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = 已儲存至 { -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = 載入更多文章
 
