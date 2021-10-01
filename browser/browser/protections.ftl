@@ -9,7 +9,6 @@ graph-week-summary =
         [one] { -brand-short-name } { $count } ردیاب را در طی هفته گذشته مسدود کرد
        *[other] { -brand-short-name } { $count } ردیاب را در طی هفته گذشته مسدود کرد
     }
-
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -19,24 +18,23 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ردیاب از { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } مسدود شده است
        *[other] <b>{ $count }</b> ردیاب از { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } مسدود شده‌اند.
     }
-
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } همچنان به مسدود کردن ردیاب‌ها در پنجره‌های خصوصی ادامه می‌دهد، اما سابقهٔ موارد مسدود شده را نگه نمی‌دارد.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = ردیاب‌هایی که { -brand-short-name } در این هفته مسدود کرده
+protection-report-webpage-title = تابلوی محافظت‌ها
+protection-report-page-content-title = تابلوی محافظت‌ها
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = امروز
-
 social-tab-title = ردیاب‌های شبکه‌های اجتماعی
-
 cookie-tab-title = کوکی‌هایِ ردیابِ بین‌پایگاهی
 cookie-tab-content = این کوکی‌ها از سایتی به سایتی دیگر شما را دنبال می‌کنند تا اطلاعات مربوط به کارهایی که آنلاین انجام می‌دهید را جمع‌آوری کنند. آنها توسط اشخاص ثالث مانند تبلیغ کنندگان و شرکت های تجزیه و تحلیل داده تولید و تنظیم می‌شوند. مسدود کردن کوکی‌های ردیابی بین پایگاهی، تعداد تبلیغاتی را که شما را دنبال می کنند، کاهش می‌دهد. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
-
 tracker-tab-title = محتوای ردیابی کننده
-
 cryptominer-tab-title = استخراج کننده‌های رمزارزها
-
 lockwise-title = هرگز گذرواژه را فراموش نکن
 lockwise-header-content = { -lockwise-brand-name } گذرواژه‌های شما را به صورت امن در مرورگر ذخیره می‌کند.
 lockwise-header-content-logged-in = ذخیره امن گذرواژه‌ها و همگام‌سازی با تمام دستگاه های شما.
-
 monitor-title = مواضب نشت اطلاعات باشید
 monitor-link = چگونه کار می‌کند
 
