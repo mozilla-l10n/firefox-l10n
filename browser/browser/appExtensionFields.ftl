@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Düğmeler, menüler ve pencereler için işletim sistemi ayarını kullan.
 extension-firefox-compact-light-name = Açık
 extension-firefox-compact-light-description = Açık renklere sahip bir tema.
 extension-firefox-compact-dark-name = Koyu
