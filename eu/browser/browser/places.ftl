@@ -111,3 +111,4 @@ places-manage-bookmarks =
     .label = Kudeatu laster-markak
     .accesskey = K
 places-forget-about-this-site-forget = Ahaztu
+places-details-pane-select-an-item-description = Hautatu elementu bat bere propietateak ikusi eta editatzeko
