@@ -38,3 +38,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ລຽງຕາມຊື່
     .accesskey = r
+places-file-close =
+    .label = ປິດ
+    .accesskey = C
