@@ -6,6 +6,7 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-firefox-compact-light-name = Aceɛlal
+extension-firefox-compact-light-description = Asentel s yiniten iceɛlalen.
 extension-firefox-compact-dark-name = Aberkan
 extension-firefox-compact-dark-description = Asentel akussim s uzenziɣ aberkan.
 
