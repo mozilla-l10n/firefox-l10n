@@ -149,8 +149,8 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가
 mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 mr1-onboarding-import-secondary-button-label = 나중에
 mr2-onboarding-colorway-header = 색상 라이프
-mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 색상입니다. 제한된 시간 동안 사용할 수 있습니다.
-mr2-onboarding-colorway-primary-button-label = 색상 저장
+mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 컬러웨이입니다. 제한된 시간 동안 사용할 수 있습니다.
+mr2-onboarding-colorway-primary-button-label = 컬러웨이 저장
 mr2-onboarding-colorway-secondary-button-label = 나중에
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 자동
@@ -264,21 +264,21 @@ mr1-onboarding-theme-description-alpenglow =
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
-    .title = 이 색상을 사용합니다.
+    .title = 이 컬러웨이를 사용합니다.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = 이 색상을 사용합니다.
+    .aria-description = 이 색 구성표를 사용합니다.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = { $colorwayName } 색상을 탐색합니다.
+    .title = { $colorwayName } 색 구성표를 탐색합니다.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
-    .aria-description = { $colorwayName } 색상을 탐색합니다.
+    .aria-description = { $colorwayName } 색 구성표를 탐색합니다.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 기본 테마를 탐색합니다.
