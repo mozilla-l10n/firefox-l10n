@@ -145,3 +145,7 @@ places-view-sort-col-last-modified =
     .label = Sist endra
 places-cmd-find-key =
     .key = f
+places-back-button =
+    .tooltiptext = Gå tilbake
+places-forward-button =
+    .tooltiptext = Gå fram
