@@ -38,3 +38,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Raða eftir nafni
     .accesskey = r
+places-view-sort-col-most-recent-visit =
+    .label = Nýjasta heimsókn
+places-details-pane-select-an-item-description = Veldu hlut til að skoða og breyta
