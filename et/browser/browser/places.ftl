@@ -38,3 +38,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sordi nime järgi
     .accesskey = r
+places-details-pane-select-an-item-description = Vali element, et vaadata ja muuta selle omadusi
