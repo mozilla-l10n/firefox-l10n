@@ -82,6 +82,9 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Da inka marcadores
+places-file-close =
+    .label = Nakasɨ
+    .accesskey = C
 places-cmd-close =
     .key = w
 places-view-sort-ascending =
