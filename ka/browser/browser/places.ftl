@@ -124,3 +124,16 @@ places-forget-about-this-site-confirmation-title = ამ საიტის დ
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = ამ ქმედებით მოცილდება ყველა მონაცემი, რომლებიც უკავშირდება { $hostOrBaseDomain }-ს, მათ შორის ისტორია, პაროლები, ფუნთუშები, დროებითი ფაილები და შიგთავსის პარამეტრები. ნამდვილად გსურთ, განაგრძოთ?
 places-forget-about-this-site-forget = დავიწყება
+places-library =
+    .title = ბიბლიოთეკა
+    .style = width:700px; height:500px;
+places-cmd-close =
+    .key = w
+places-view-sort-col-name =
+    .label = სახელი
+places-view-sort-col-tags =
+    .label = ჭდეები
+places-view-sort-col-last-modified =
+    .label = ბოლო ცვლილება
+places-cmd-find-key =
+    .key = f
