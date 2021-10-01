@@ -144,3 +144,4 @@ places-forget-about-this-site-confirmation-title = Anghofio'r wefan hon
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Bydd y weithred hon yn dileu'r holl ddata sy'n gysylltiedig â { $hostOrBaseDomain } gan gynnwys hanes, cyfrineiriau, cwcis, storfa a dewisiadau cynnwys. Ydych chi'n siŵr eich bod chi am barhau?
 places-forget-about-this-site-forget = Anghofio
+places-details-pane-select-an-item-description = Dewis eitem i'w gweld a golygu ei phriodweddau
