@@ -8,7 +8,6 @@ places-open =
 places-open-all-in-tabs =
     .label = Ggulirawo Byonna mu Awaddirira
     .accesskey = G
-
 places-view =
     .label = Endabika
     .accesskey = a
@@ -27,11 +26,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ku Lunaku n'Ekibanja
     .accesskey = n
-
 places-delete-domain-data =
     .label = Werabire Ebikwata ku Muko Gunno
     .accesskey = W
 places-sortby-name =
     .label = Tegeka ng'Osinziira ku Linnya
     .accesskey = r
-
+places-details-pane-select-an-item-description = Londayo ekintu nga bw'okirongoosamu
