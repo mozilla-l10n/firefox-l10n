@@ -27,6 +27,8 @@ about-private-browsing-info-description-private-window = Fanestra privata: { -br
 about-private-browsing-info-description-simplified = { -brand-short-name } stizza tia cronologia da tschertga e navigaziun cura che ti serras tut las fanestras privatas, ma quai na ta renda betg anonim.
 about-private-browsing-learn-more-link = Ulteriuras infurmaziuns
 about-private-browsing-hide-activity = Zuppenta tias activitads e tia posiziun, dapertut nua che ti navigheschas
+about-private-browsing-get-privacy = Protegia tia sfera privata dapertut nua che ti navigheschas
+about-private-browsing-hide-activity-1 = Zuppenta tia activitad da navigaziun e tia posiziun cun { -mozilla-vpn-brand-name }. In clic creescha ina connexiun segirada, perfin durant utilisar in WLAN public.
 about-private-browsing-prominent-cta = Salva tia sfera privata cun { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
