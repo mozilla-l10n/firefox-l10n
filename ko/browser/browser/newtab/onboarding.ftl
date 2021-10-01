@@ -148,6 +148,13 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous }에서 가
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
 mr1-onboarding-import-secondary-button-label = 나중에
+mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 색상입니다. 제한된 시간 동안 사용할 수 있습니다.
+mr2-onboarding-colorway-primary-button-label = 색상 저장
+mr2-onboarding-colorway-secondary-button-label = 나중에
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = 자동
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = 기본
 mr1-onboarding-theme-header = 나만의 것으로 만들기
 mr1-onboarding-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 mr1-onboarding-theme-primary-button-label = 테마 저장
