@@ -204,4 +204,6 @@ places-cmd-find-key =
     .key = f
 places-back-button =
     .tooltiptext = Go back
+places-forward-button =
+    .tooltiptext = Go forward
 places-details-pane-select-an-item-description = Select an item to view and edit its properties
