@@ -38,3 +38,7 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sort By Name
     .accesskey = r
+places-cmd-close =
+    .key = w
+places-cmd-find-key =
+    .key = f
