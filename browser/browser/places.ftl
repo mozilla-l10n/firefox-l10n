@@ -108,3 +108,4 @@ places-forget-about-this-site-confirmation-title = このサイトのデータ�
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = この操作は { $hostOrBaseDomain } に関連する履歴、パスワード、Cookie、キャッシュ、コンテンツの設定を含むすべてのデータを消去します。本当に消去してもよろしいですか？
 places-forget-about-this-site-forget = 消去
+places-details-pane-select-an-item-description = 各項目を選択すると、名前や詳細情報の表示や編集ができます
