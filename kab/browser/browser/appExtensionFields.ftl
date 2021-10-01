@@ -7,6 +7,7 @@
 
 extension-firefox-compact-light-name = Aceɛlal
 extension-firefox-compact-dark-name = Aberkan
+extension-firefox-compact-dark-description = Asentel akussim s uzenziɣ aberkan.
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
