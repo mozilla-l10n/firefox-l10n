@@ -126,3 +126,11 @@ places-forget-about-this-site-confirmation-title = לשכוח מאתר זה
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = פעולה זו תסיר את כל הנתונים הקשורים ל־{ $hostOrBaseDomain } כולל היסטוריה, ססמאות, עוגיות, מטמון והעדפות תוכן. האם ברצונך להמשיך?
 places-forget-about-this-site-forget = לשכוח
+places-view-sort-col-name =
+    .label = שם
+places-view-sort-col-tags =
+    .label = תגיות
+places-view-sort-col-last-modified =
+    .label = שינוי אחרון
+places-forward-button =
+    .tooltiptext = המשך קדימה
