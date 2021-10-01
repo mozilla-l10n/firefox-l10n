@@ -274,6 +274,7 @@ extension-disabled-heading = 사용 안 함
 theme-enabled-heading = 사용함
 theme-disabled-heading = 사용 안 함
 theme-monochromatic-heading = 색상
+theme-monochromatic-subheading = { -brand-product-name }의 생동감 넘치는 새로운 색상입니다. 제한된 시간 동안 사용할 수 있습니다.
 plugin-enabled-heading = 사용함
 plugin-disabled-heading = 사용 안 함
 dictionary-enabled-heading = 사용함
