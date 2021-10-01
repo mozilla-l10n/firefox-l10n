@@ -132,4 +132,13 @@ places-forget-about-this-site-confirmation-title = Pozabi na to spletno mesto
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = S tem boste odstranili vse podatke, povezane s spletnim mestom { $hostOrBaseDomain }, vključno z zgodovino, gesli, piškotki, predpomnilnikom in nastavitvami vsebine. Ali ste prepričani, da želite nadaljevati?
 places-forget-about-this-site-forget = Pozabi
+places-import-bookmarks-from-html =
+    .label = Uvozi zaznamke iz HTML …
+    .accesskey = U
+places-export-bookmarks-to-html =
+    .label = Izvozi zaznamke v HTML …
+    .accesskey = z
+places-import-other-browser =
+    .label = Uvozi podatke drugega brskalnika …
+    .accesskey = A
 places-details-pane-select-an-item-description = Izberi predmet za prikaz in urejanje njegovih lastnosti
