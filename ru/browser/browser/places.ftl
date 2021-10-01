@@ -132,3 +132,4 @@ places-forget-about-this-site-confirmation-title = Забыть об этом с
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Это действие удалит все данные, связанные с { $hostOrBaseDomain }, в том числе историю, пароли, куки, кэш и настройки содержимого. Вы уверены, что хотите продолжить?
 places-forget-about-this-site-forget = Забыть
+places-details-pane-select-an-item-description = Выберите элемент для просмотра и редактирования его свойств
