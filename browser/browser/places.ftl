@@ -5,4 +5,9 @@
 places-open =
     .label = Gufungura
     .accesskey = f
-
+places-view-sort-col-name =
+    .label = Izina
+places-view-sort-col-url =
+    .label = Ahantu
+places-view-sort-col-last-modified =
+    .label = Cyahinduwe Bwa Nyuma
