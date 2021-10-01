@@ -148,6 +148,14 @@ mr1-onboarding-import-primary-button-label-attribution = Імпортувати 
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Імпортувати з іншого браузера
 mr1-onboarding-import-secondary-button-label = Не зараз
+mr2-onboarding-colorway-header = Життя барвисте
+mr2-onboarding-colorway-subtitle = Сповнені життя нові барви. Доступні впродовж обмеженого часу.
+mr2-onboarding-colorway-primary-button-label = Зберегти забарвлення
+mr2-onboarding-colorway-secondary-button-label = Не зараз
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Авто
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Типові
 mr1-onboarding-theme-header = Зробіть його своїм
 mr1-onboarding-theme-subtitle = Персоналізуйте { -brand-short-name } за допомогою теми.
 mr1-onboarding-theme-primary-button-label = Зберегти тему
@@ -253,3 +261,27 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Застосувати динамічну, барвисту
         тему кнопок, меню та вікон.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Застосувати це забарвлення.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Застосувати це забарвлення.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Переглянути забарвлення { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Переглянути забарвлення { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Переглянути типові теми.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Переглянути типові теми.
