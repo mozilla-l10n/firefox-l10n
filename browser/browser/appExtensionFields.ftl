@@ -7,6 +7,8 @@
 
 extension-firefox-compact-light-name = Светла
 extension-firefox-compact-dark-name = Тамна
+extension-firefox-alpenglow-name = Firefox Alpenglow
+extension-firefox-alpenglow-description = Користите шарени изглед за тастере, меније и прозоре.
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
