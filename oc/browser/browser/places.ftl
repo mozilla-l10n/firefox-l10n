@@ -125,3 +125,4 @@ places-manage-bookmarks =
     .accesskey = G
 places-forget-about-this-site-confirmation-title = Oblidar aqueste site
 places-forget-about-this-site-forget = Oblidar
+places-details-pane-select-an-item-description = Seleccionatz un element per visualizar e modificar sas proprietats
