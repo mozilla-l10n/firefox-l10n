@@ -127,3 +127,4 @@ places-forget-about-this-site-confirmation-title = Bu siteyi unut
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Bu işlem; { $hostOrBaseDomain } sitesine ait gezinti geçmişi, parolalar, çerezler, önbellek ve içerik tercihleri de dahil olmak üzere tüm verileri kaldıracaktır. Devam etmek istediğinizden emin misiniz?
 places-forget-about-this-site-forget = Unut
+places-details-pane-select-an-item-description = Özelliklerini görmek ve değiştirmek için bir öğe seçin
