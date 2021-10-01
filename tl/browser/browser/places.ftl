@@ -88,6 +88,9 @@ places-remove-bookmark =
            *[other] Alisin ang Bookmarks
         }
     .accesskey = i
+places-library =
+    .title = Library
+    .style = width:700px; height:500px;
 places-organize-button =
     .label = Ayusin
     .tooltiptext = Ayusin ang iyong mga bookmark
