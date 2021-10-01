@@ -149,6 +149,7 @@ mr1-onboarding-import-primary-button-label-attribution = 从 { $previous } 导�
 mr1-onboarding-import-primary-button-label-no-attribution = 从先前所用浏览器导入
 mr1-onboarding-import-secondary-button-label = 暂时不要
 mr2-onboarding-colorway-header = 多彩生活
+mr2-onboarding-colorway-subtitle = 元气满满的新配色，限时提供。
 mr2-onboarding-colorway-primary-button-label = 保存配色
 mr2-onboarding-colorway-secondary-button-label = 暂时不要
 # Automatic theme uses operating system color settings
