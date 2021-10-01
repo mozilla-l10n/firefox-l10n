@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Използва темата на операционната система за бутони, менюта и прозорци.
 extension-firefox-compact-light-name = Светла
 extension-firefox-compact-light-description = Тема в светла палитра.
 extension-firefox-compact-dark-name = Тъмна
