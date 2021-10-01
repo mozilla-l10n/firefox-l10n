@@ -202,6 +202,13 @@ newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এ�
 newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = আপুনি সকলো চালে!
+newtab-pocket-last-card-image =
+    .alt = আপুনি সকলো চালে
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 

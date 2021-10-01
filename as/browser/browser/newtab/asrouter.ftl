@@ -76,6 +76,9 @@ cfr-doorhanger-milestone-ok-button = সকলো চাওক
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = ছাইট পৃথকীকৰণ
+cfr-doorhanger-fission-primary-button = বাৰু, বুজিছোঁ
+    .accesskey = O
 cfr-doorhanger-fission-secondary-button = অধিক জানক
     .accesskey = ন
 
@@ -91,5 +94,6 @@ cfr-doorhanger-video-support-primary-button = এতিয়াই আপডেট
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = আপুনি ৰাজহুৱা ৱাই-ফাই ব্যৱহাৰ কৰা যেন লাগিছে
 spotlight-public-wifi-vpn-link = এতিয়া নহয়
     .accesskey = N
