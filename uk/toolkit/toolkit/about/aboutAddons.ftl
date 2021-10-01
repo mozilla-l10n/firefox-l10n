@@ -3,109 +3,78 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Додатки
-
 search-header =
     .placeholder = Пошук на addons.mozilla.org
     .searchbuttonlabel = Пошук
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Отримати розширення й теми на <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = У вас не встановлено жодного додатка цього типу
-
 list-empty-available-updates =
     .value = Оновлень не знайдено
-
 list-empty-recent-updates =
     .value = Ви не оновлювали додатків останнім часом.
-
 list-empty-find-updates =
     .label = Перевірити оновлення
-
 list-empty-button =
     .label = Дізнайтесь більше про додатки
-
 help-button = Підтримка додатків
 sidebar-help-button-title =
     .title = Підтримка додатків
-
 addons-settings-button = Налаштування { -brand-short-name }
 sidebar-settings-button-title =
     .title = Налаштування { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = Деякі розширення не можуть бути перевірені
-
 show-all-extensions-button =
     .label = Показати всі розширення
-
 detail-version =
     .label = Версія
-
 detail-last-updated =
     .label = Востаннє оновлено
-
 detail-contributions-description = Розробник цього додатка просить вас посприяти його подальшому розвитку невеликим внеском.
-
 detail-contributions-button = Посприяти
     .title = Посприяти розвитку цього додатка
     .accesskey = П
-
 detail-update-type =
     .value = Автоматичні оновлення
-
 detail-update-default =
     .label = Типово
     .tooltiptext = Автоматично встановлювати оновлення лише якщо це типове налаштування
-
 detail-update-automatic =
     .label = Увімкнено
     .tooltiptext = Встановлювати оновлення автоматично
-
 detail-update-manual =
     .label = Вимкнено
     .tooltiptext = Не встановлювати оновлення автоматично
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Виконувати в приватних вікнах
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не дозволено в приватних вікнах
 detail-private-disallowed-description2 = Це розширення не працює під час приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Потребує доступу до приватних вікон
 detail-private-required-description2 = Це розширення має доступ до вашої онлайн діяльності під час приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
-
 detail-private-browsing-on =
     .label = Дозволити
     .tooltiptext = Увімкнути в приватному перегляді
-
 detail-private-browsing-off =
     .label = Не дозволяти
     .tooltiptext = Вимкнути в приватному перегляді
-
 detail-home =
     .label = Домівка
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Профіль додатку
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Перевірити оновлення
     .accesskey = П
     .tooltiptext = Перевірити наявність оновлень для цього додатка
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -122,38 +91,26 @@ detail-show-preferences =
             [windows] Змінити налаштування цього додатку
            *[other] Змінити налаштування цього додатку
         }
-
 detail-rating =
     .value = Рейтинг
-
 addon-restart-now =
     .label = Перезапустити зараз
-
 disabled-unsigned-heading =
     .value = Деякі додатки були вимкнені
-
 disabled-unsigned-description = Наступні додатки не були перевірені для використання в { -brand-short-name }. Ви можете <label data-l10n-name="find-addons">знайти їм заміну</label> або запитати розрабника провести їх перевірку.
-
 disabled-unsigned-learn-more = Дізнайтесь більше про наші зусилля в забезпеченні збереження вашої безпеки в Інтернеті.
-
 disabled-unsigned-devinfo = Розробники, зацікавлені в перевірці своїх додатків, можуть продовжити, прочитавши нашу <label data-l10n-name="learn-more">інструкцію</label>.
-
 plugin-deprecation-description = Чогось не вистачає? Деякі плагіни більше не підтримуються в { -brand-short-name }. <label data-l10n-name="learn-more">Докладніше.</label>
-
 legacy-warning-show-legacy = Показати застарілі розширення
-
 legacy-extensions =
     .value = Застарілі розширення
-
 legacy-extensions-description = Ці розширення не відповідають поточним стандартам { -brand-short-name }, тому вони були вимкнені. <label data-l10n-name="legacy-learn-more">Дізнайтеся про зміни, що стосуються додатків</label>
-
 private-browsing-description2 =
     { -brand-short-name } змінює роботу розширень в режимі приватного перегляду. Будь-які нові розширення,
     які ви встановлюєте в { -brand-short-name }, не виконуватимуться в приватних вікнах. Доки ви не встановите дозвіл
     в налаштуваннях, розширення не працюватиме під час приватного перегляду і не матиме доступу до вашої діяльності
     в цьому режимі. Ми зробили цю зміну для захисту вашої приватності.
     <label data-l10n-name="private-browsing-learn-more">Дізнайтеся, як керувати налаштуваннями розширень.</label>
-
 addon-category-discover = Рекомендації
 addon-category-discover-title =
     .title = Рекомендації
@@ -188,7 +145,6 @@ extensions-warning-check-compatibility-button = Увімкнути
 extensions-warning-update-security = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
 extensions-warning-update-security-button = Увімкнути
     .title = Увімкнути перевірку безпечного оновлення додатків
-
 
 ## Strings connected to add-on updates
 
@@ -235,44 +191,35 @@ addon-open-about-debugging = Зневадження додатків
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Керувати комбінаціями клавіш розширень
     .accesskey = б
-
 shortcuts-no-addons = У вас не увімкнено жодного розширення.
 shortcuts-no-commands = Такі розширення не мають комбінацій клавіш:
 shortcuts-input =
     .placeholder = Введіть комбінацію клавіш
-
 shortcuts-browserAction2 = Активувати кнопку панелі
 shortcuts-pageAction = Активувати дію сторінки
 shortcuts-sidebarAction = Перемкнути бічну панель
-
 shortcuts-modifier-mac = Додайте Ctrl, Alt, або ⌘
 shortcuts-modifier-other = Додайте Ctrl або Alt
 shortcuts-invalid = Неправильна комбінація
 shortcuts-letter = Введіть літеру
 shortcuts-system = Неможливо перевизначити комбінацію клавіш { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Дублікат комбінації клавіш
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } використовується більше одного випадку. Дублікати комбінацій клавіш можуть спричинити неочікувану поведінку.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Вже використовується додатком { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Показати ще { $numberToShow }
         [few] Показати ще { $numberToShow }
        *[many] Показати ще { $numberToShow }
     }
-
 shortcuts-card-collapse-button = Показати менше
-
 header-back-button =
     .title = Назад
 
@@ -286,13 +233,10 @@ discopane-intro =
     змінювати зовнішній вигляд браузера та багато іншого. Ці невеликі програми часто
     розробляються сторонніми організаціями.
     Ось декілька <a data-l10n-name="learn-more-trigger">рекомендацій</a> від { -brand-product-name } для виняткової безпеки, швидкодії та функціональності.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистики використання.
 discopane-notice-learn-more = Докладніше
-
 privacy-policy = Політика приватності
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -307,7 +251,7 @@ install-theme-button = Встановити тему
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Керувати
 find-more-addons = Знайти інші додатки
-
+find-more-themes = Знайти інші теми
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -333,46 +277,37 @@ preferences-addon-button =
 details-addon-button = Подробиці
 release-notes-addon-button = Примітки до випуску
 permissions-addon-button = Дозволи
-
 extension-enabled-heading = Увімкнено
 extension-disabled-heading = Вимкнено
-
 theme-enabled-heading = Увімкнено
 theme-disabled-heading = Вимкнено
-
+theme-monochromatic-heading = Забарвлення
+theme-monochromatic-subheading = Сповнені життя нові барви від { -brand-product-name }. Доступні впродовж обмеженого часу.
 plugin-enabled-heading = Увімкнено
 plugin-disabled-heading = Вимкнено
-
 dictionary-enabled-heading = Увімкнено
 dictionary-disabled-heading = Вимкнено
-
 locale-enabled-heading = Увімкнено
 locale-disabled-heading = Вимкнено
-
 always-activate-button = Завжди активувати
 never-activate-button = Ніколи не активувати
-
 addon-detail-author-label = Автор
 addon-detail-version-label = Версія
 addon-detail-last-updated-label = Востаннє оновлено
 addon-detail-homepage-label = Домівка
 addon-detail-rating-label = Оцінка
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Це розширення буде оновлено після перезапуску { -brand-short-name }.
 install-postponed-button = Оновити зараз
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Оцінка { NUMBER($rating, maximumFractionDigits: 1) } з 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (вимкнено)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -389,14 +324,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> було вилучено.
 pending-uninstall-undo-button = Повернути
-
 addon-detail-updates-label = Дозволити автоматичне оновлення
 addon-detail-updates-radio-default = Типово
 addon-detail-updates-radio-on = Увімкнено
 addon-detail-updates-radio-off = Вимкнено
 addon-detail-update-check-label = Перевірити оновлення
 install-update-button = Оновити
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -412,7 +345,6 @@ addon-detail-private-browsing-disallow = Не дозволяти
 addon-badge-recommended2 =
     .title = { -brand-product-name } рекомендує лише розширення, що задовольняють наші стандарти безпеки та швидкодії
     .aria-label = { addon-badge-recommended2.title }
-
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
@@ -426,19 +358,14 @@ addon-badge-verified2 =
 
 available-updates-heading = Доступні оновлення
 recent-updates-heading = Недавні оновлення
-
 release-notes-loading = Завантаження…
 release-notes-error = На жаль, під час завантаження приміток до випуску сталася помилка.
-
 addon-permissions-empty = Це розширення не потребує дозволів
-
 addon-permissions-required = Необхідні дозволи для роботи основних функцій:
 addon-permissions-optional = Необов’язкові дозволи для додаткових функцій:
 addon-permissions-learnmore = Докладніше про дозволи
-
 recommended-extensions-heading = Рекомендовані розширення
 recommended-themes-heading = Рекомендовані теми
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Відчуваєте творче натхнення? <a data-l10n-name="link">Створіть власну тему за допомогою Firefox Color.</a>
@@ -453,10 +380,8 @@ locale-heading = Керуйте своїми мовами
 updates-heading = Керуйте своїми оновленнями
 discover-heading = Персоналізуйте свій { -brand-short-name }
 shortcuts-heading = Керувати комбінаціями клавіш розширень
-
 default-heading-search-label = Знайти більше додатків
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
-
 addon-page-options-button =
     .title = Інструменти для всіх додатків
