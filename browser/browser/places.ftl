@@ -171,3 +171,7 @@ places-view-sort-col-last-modified =
     .label = 마지막 수정일
 places-cmd-find-key =
     .key = f
+places-back-button =
+    .tooltiptext = 뒤로 가기
+places-forward-button =
+    .tooltiptext = 앞으로 가기
