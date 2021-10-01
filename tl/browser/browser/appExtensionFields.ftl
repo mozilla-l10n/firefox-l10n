@@ -9,6 +9,8 @@ extension-firefox-compact-light-name = Maliwanag
 extension-firefox-compact-light-description = Tema na may maliwanag na color scheme.
 extension-firefox-compact-dark-name = Madilim
 extension-firefox-compact-dark-description = Tema na may madilim na color scheme.
+extension-firefox-alpenglow-name = Firefox Alpenglow
+extension-firefox-alpenglow-description = Gumamit ng makulay na itsura para sa mga button, menu, at window.
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
