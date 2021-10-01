@@ -5,8 +5,11 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = Користите тему оперативног система за дугмад, меније и прозоре.
 extension-firefox-compact-light-name = Светла
+extension-firefox-compact-light-description = Тема са светлим бојама.
 extension-firefox-compact-dark-name = Тамна
+extension-firefox-compact-dark-description = Тема са тамним бојама.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Користите шарени изглед за тастере, меније и прозоре.
 
