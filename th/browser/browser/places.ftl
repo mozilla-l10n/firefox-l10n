@@ -122,3 +122,5 @@ places-cmd-find-key =
     .key = f
 places-back-button =
     .tooltiptext = ย้อนกลับ
+places-forward-button =
+    .tooltiptext = เดินหน้า
