@@ -126,4 +126,10 @@ places-forget-about-this-site-confirmation-title = Oublier ce site
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Cette action supprime toutes les données relatives à { $hostOrBaseDomain }, y compris l’historique, les mots de passe, les cookies, le cache et les préférences de contenu. Voulez-vous vraiment poursuivre ?
 places-forget-about-this-site-forget = Oublier
+places-import-bookmarks-from-html =
+    .label = Importer des marque-pages au format HTML…
+    .accesskey = I
+places-export-bookmarks-to-html =
+    .label = Exporter des marque-pages au format HTML…
+    .accesskey = E
 places-details-pane-select-an-item-description = Sélectionner un élément pour afficher et modifier ses propriétés
