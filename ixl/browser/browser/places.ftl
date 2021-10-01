@@ -5,4 +5,10 @@
 places-sortby-name =
     .label = Nuk'el ta'n b'ii
     .accesskey = r
-
+places-file-close =
+    .label = Jupa
+    .accesskey = C
+places-cmd-close =
+    .key = w
+places-view-sort-col-name =
+    .label = B'ii
