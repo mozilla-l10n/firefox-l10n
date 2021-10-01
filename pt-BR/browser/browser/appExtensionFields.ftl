@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Tema do sistema — automático
 extension-default-theme-description = Seguir a configuração do sistema operacional de botões, menus e janelas.
 extension-firefox-compact-light-name = Claro
 extension-firefox-compact-light-description = Um tema com esquema de cores claras.
@@ -19,3 +21,8 @@ extension-firefox-alpenglow-description = Use uma aparência colorida em botões
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Suave
+extension-colorways-balanced-name = { $colorway-name } — Equilibrado
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Forte

@@ -228,6 +228,9 @@ newtab-pocket-learn-more = Saiba mais
 newtab-pocket-cta-button = Adicionar o { -pocket-brand-name }
 newtab-pocket-cta-text = Salve as histórias que você gosta no { -pocket-brand-name } e abasteça sua mente com leituras fascinantes.
 newtab-pocket-pocket-firefox-family = O { -pocket-brand-name } faz parte da família { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Salvar no { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Salvo no { -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Carregar mais histórias
 
