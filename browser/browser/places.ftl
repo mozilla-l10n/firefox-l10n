@@ -121,3 +121,7 @@ places-manage-bookmarks =
     .accesskey = M
 places-forget-about-this-site-confirmation-title = ਇਸ ਸਾਈਟ ਬਾਰੇ ਭੁੱਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
 places-forget-about-this-site-forget = ਭੁੱਲੋ
+places-cmd-close =
+    .key = w
+places-cmd-find-key =
+    .key = f
