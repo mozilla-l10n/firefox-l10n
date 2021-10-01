@@ -38,3 +38,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Подреди по име
     .accesskey = р
+places-details-pane-select-an-item-description = Одберете ставка за преглед и уредете ги нејзините својства
