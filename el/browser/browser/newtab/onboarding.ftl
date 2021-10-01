@@ -256,3 +256,9 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Χρήση ενός δυναμικού, πολύχρωμου θέματος για τα κουμπιά,
         τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Εξερευνήστε τα προεπιλεγμένα θέματα.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Εξερευνήστε τα προεπιλεγμένα θέματα.
