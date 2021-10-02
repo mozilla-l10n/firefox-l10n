@@ -294,4 +294,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Gratias pro haber nos seligite
+mr2-onboarding-thank-you-text = { -brand-short-name } es un navigator independente supportate per un organisation non-lucrative. Insimul, nos rende le web plus secur, plus salubre e plus private.
 mr2-onboarding-start-browsing-button-label = Comenciar a navigar
