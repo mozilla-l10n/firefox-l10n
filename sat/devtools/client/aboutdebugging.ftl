@@ -25,10 +25,33 @@ about-debugging-setup-network =
 about-debugging-setup-network-troubleshoot = Via ᱱᱮᱴᱣᱚᱨᱠ ᱴᱷᱟᱶ ᱟᱠᱚᱴ ᱡᱚᱯᱲᱟᱣ? <a>Troubleshoot</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
-about-debugging-network-locations-add-button = ᱡᱚᱲᱟᱣ
+about-debugging-network-locations-add-button = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = ᱱᱤᱛᱚᱜ ᱫᱷᱟᱹᱵᱤᱡ ᱱᱮᱴᱣᱚᱨᱠ ᱴᱷᱟᱶ ᱠᱚ ᱡᱚᱲᱟᱣ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = ᱚᱪᱚᱜ
 
 # Runtime Page strings
 
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = ᱴᱮᱵ ᱠᱚ
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = ᱵᱷᱟᱹᱞᱟᱹᱭ ᱠᱟᱹᱢᱤᱦᱚᱲ ᱠᱚ
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = ᱮᱴᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱲ
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱱᱤᱛ ᱦᱟᱹᱵᱤᱡ
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ
