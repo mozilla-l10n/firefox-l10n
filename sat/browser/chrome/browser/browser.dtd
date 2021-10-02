@@ -15,7 +15,7 @@
 <!ENTITY openFileCmd.label "रेत् झिज मे…">
 <!ENTITY printCmd.label "छापा…">
 
-<!ENTITY menubarCmd.label "मिनु बार">
+<!ENTITY menubarCmd.label "ᱢᱤᱱᱩ ᱵᱟᱨ">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
@@ -36,8 +36,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ओड़ाक् ">
-
-<!-- Toolbar items -->
 
 <!ENTITY historyButton.label            "ᱱᱟᱜᱟᱢ">
 

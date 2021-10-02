@@ -12,5 +12,5 @@ toolbar-context-menu-view-customize-toolbar =
     .label = कुसियाक् तेयार…
     .accesskey = C
 toolbar-context-menu-menu-bar-cmd =
-    .toolbarname = मिनु बार
+    .toolbarname = ᱢᱤᱱᱩ ᱵᱟᱨ
     .accesskey = M
