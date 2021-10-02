@@ -3,109 +3,78 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Priedų tvarkytuvė
-
 search-header =
     .placeholder = Ieškoti per addons.mozilla.org
     .searchbuttonlabel = Paieška
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Gaukite priedų ir grafinių apvalkalų iš <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = Nėra įdiegtų šio tipo priedų
-
 list-empty-available-updates =
     .value = Naujinimų nerasta
-
 list-empty-recent-updates =
     .value = Pastaruoju metu nesate atnaujinę jokių priedų
-
 list-empty-find-updates =
     .label = Tikrinti, ar yra naujinimų
-
 list-empty-button =
     .label = Sužinokite apie priedus daugiau
-
 help-button = Priedų pagalba
 sidebar-help-button-title =
     .title = Priedų pagalba
-
 addons-settings-button = „{ -brand-short-name }“ nuostatos
 sidebar-settings-button-title =
     .title = „{ -brand-short-name }“ nuostatos
-
 show-unsigned-extensions-button =
     .label = Kai kurių plėtinių patikrinti nepavyko
-
 show-all-extensions-button =
     .label = Rodyti visus plėtinius
-
 detail-version =
     .label = Laida
-
 detail-last-updated =
     .label = Paskiausiai atnaujintas
-
 detail-contributions-description = Šio priedo autorius prašo paremti tolesnį jo kūrimą nedideliu finansiniu įnašu.
-
 detail-contributions-button = Prisidėkite
     .title = Prisidėkite prie šio priedo plėtojimo
     .accesskey = P
-
 detail-update-type =
     .value = Naujinti automatiškai
-
 detail-update-default =
     .label = Kaip numatyta
     .tooltiptext = Automatiškai naujinti šį priedą, jeigu taip numatyta
-
 detail-update-automatic =
     .label = Taip
     .tooltiptext = Automatiškai naujinti šį priedą, kai jam randama naujinimų
-
 detail-update-manual =
     .label = Ne
     .tooltiptext = Nediegti priedo naujinimų automatiškai
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Leisti privačiojo naršymo languose
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Neleidžiama privačiojo naršymo languose
 detail-private-disallowed-description2 = Šis priedas neveikia privačiojo naršymo languose. <a data-l10n-name="learn-more">Sužinoti daugiau</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Reikalinga prieiga prie privačiojo naršymo langų
 detail-private-required-description2 = Šis priedas turi priėjimą prie jūsų veiklos naršant privačiai. <a data-l10n-name="learn-more">Sužinoti daugiau</a>
-
 detail-private-browsing-on =
     .label = Leisti
     .tooltiptext = Įjungti privačiajame naršyme
-
 detail-private-browsing-off =
     .label = Neleisti
     .tooltiptext = Išjungti privačiajame naršyme
-
 detail-home =
     .label = Svetainė
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Priedo profilis
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Ieškoti naujinimų
     .accesskey = I
     .tooltiptext = Ieškoti šio priedo naujinimų
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -122,38 +91,26 @@ detail-show-preferences =
             [windows] Keisti šio priedo parinktis
            *[other] Keisti šio priedo nuostatas
         }
-
 detail-rating =
     .value = Įvertinimas
-
 addon-restart-now =
     .label = Perleisti dabar
-
 disabled-unsigned-heading =
     .value = Kai kurie priedai buvo išjungti
-
 disabled-unsigned-description = Šių priedų nepavyko patikrinti kaip tinkamų „{ -brand-short-name }“. Jūs galite <label data-l10n-name="find-addons">ieškokite atitikmenų</label> arba paprašykite kūrėjo atlikti jų patikrinimą.
-
 disabled-unsigned-learn-more = Sužinokite daugiau apie mūsų pastangas siekiant apsaugoti jus naršant.
-
 disabled-unsigned-devinfo = Programuotojai, norintys atlikti savo priedų patikrinimą, gali tęsti perskaitydami mūsų <label data-l10n-name="learn-more">vadovą</label>.
-
 plugin-deprecation-description = Kažko trūksta? Kai kurie papildiniai daugiau nepalaikomi „{ -brand-short-name }“. <label data-l10n-name="learn-more">Sužinoti daugiau.</label>
-
 legacy-warning-show-legacy = Rodyti pasenusius plėtinius
-
 legacy-extensions =
     .value = Pasenę plėtiniai
-
 legacy-extensions-description = Šie plėtiniai neatitinka esamų „{ -brand-short-name }“ standartų, tad buvo išjungti. <label data-l10n-name="legacy-learn-more">Sužinokite apie priedų pokyčius</label>
-
 private-browsing-description2 =
     „{ -brand-short-name }“ keičia priedų veikimą privačiojo naršymo languose. Visi nauji priedai, kuriuos pridėsite į
     „{ -brand-short-name }“, neveiks privačiojo naršymo languose. Nebent leisite tai per nuostatas, priedas
     neveiks naršant privačiai, ir neturės prieigos prie tokios jūsų veiklos. Šį pakeitimą atlikome
     norėdami išlaikyti jūsų privatųjį naršymą privačiu.
     <label data-l10n-name="private-browsing-learn-more">Sužinokite, kaip tvarkyti priedų nuostatas.</label>
-
 addon-category-discover = Rekomendacijos
 addon-category-discover-title =
     .title = Rekomendacijos
@@ -188,7 +145,6 @@ extensions-warning-check-compatibility-button = Tikrinti
 extensions-warning-update-security = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
 extensions-warning-update-security-button = Tikrinti
     .title = Įjungti priedų naujinimų saugumo tikrinimą
-
 
 ## Strings connected to add-on updates
 
@@ -235,44 +191,35 @@ addon-open-about-debugging = Derinti priedus
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Tvarkyti sparčiuosius klavišus priedams
     .accesskey = s
-
 shortcuts-no-addons = Neturite jokių įjungtų priedų.
 shortcuts-no-commands = Šie priedai neturi sparčiųjų klavišų komandų:
 shortcuts-input =
     .placeholder = Surinkite klavišų kombinaciją
-
 shortcuts-browserAction2 = Aktyvuoti priemonių juostos mygtuką
 shortcuts-pageAction = Įjungti veiksmą tinklalapyje
 shortcuts-sidebarAction = Rodyti / slėpti šoninį polangį
-
 shortcuts-modifier-mac = Įtraukti Ctrl, Alt arba ⌘
 shortcuts-modifier-other = Įtraukti Ctrl arba Alt
 shortcuts-invalid = Netinkama kombinacija
 shortcuts-letter = Surinkite raidę
 shortcuts-system = Negalima naudoti „{ -brand-short-name }“ sparčiųjų klavišų
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Pasikartojantis spartusis klavišas
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } jau naudojamas kaip spartusis klavišas. Pasikartojantys spartieji klavišai gali sukelti nepageidaujamų pasekmių.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Jau naudoja priedas „{ $addon }“
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Rodyti dar { $numberToShow }
         [few] Rodyti dar { $numberToShow }
        *[other] Rodyti dar { $numberToShow }
     }
-
 shortcuts-card-collapse-button = Rodyti mažiau
-
 header-back-button =
     .title = Eiti atgal
 
@@ -287,15 +234,12 @@ discopane-intro =
     programas dažniausiai kuria trečiosios šalys. Čia pateikiame rinkinį, kurį
     „{ -brand-product-name }“ <a data-l10n-name="learn-more-trigger">rekomenduoja</a>
     išskirtiniam saugumui, našumui ir funkcionalumui.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Kai kurios iš šių rekomendacijų yra pritaikytos būtent jums. Yra atsižvelgiama į kitus
     jūsų įdiegtus priedus, profilio pasirinkimus, ir naudojimo statistikas.
 discopane-notice-learn-more = Sužinoti daugiau
-
 privacy-policy = Privatumo nuostatai
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -310,7 +254,7 @@ install-theme-button = Įdiegti grafinį apvalkalą
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Tvarkyti
 find-more-addons = Rasti daugiau priedų
-
+find-more-themes = Rasti daugiau apvalkalų
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -336,46 +280,35 @@ preferences-addon-button =
 details-addon-button = Išsamiau
 release-notes-addon-button = Laidos apžvalga
 permissions-addon-button = Leidimai
-
 extension-enabled-heading = Įjungtas
 extension-disabled-heading = Išjungtas
-
 theme-enabled-heading = Įjungtas
 theme-disabled-heading = Išjungtas
-
 plugin-enabled-heading = Įjungtas
 plugin-disabled-heading = Išjungtas
-
 dictionary-enabled-heading = Įjungtas
 dictionary-disabled-heading = Išjungtas
-
 locale-enabled-heading = Įjungta
 locale-disabled-heading = Išjungta
-
 always-activate-button = Visada aktyvinti
 never-activate-button = Niekada neaktyvinti
-
 addon-detail-author-label = Autorius
 addon-detail-version-label = Laida
 addon-detail-last-updated-label = Paskiausiai atnaujintas
 addon-detail-homepage-label = Svetainė
 addon-detail-rating-label = Įvertinimas
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Šis priedas atsinaujins, kai „{ -brand-short-name }“ bus paleista iš naujo.
 install-postponed-button = Atnaujinti dabar
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Įvertinta { NUMBER($rating, maximumFractionDigits: 1) } iš 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (išjungtas)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -392,14 +325,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">„{ $addon }“</span> buvo pašalintas.
 pending-uninstall-undo-button = Atšaukti
-
 addon-detail-updates-label = Leisti automatinius naujinimus
 addon-detail-updates-radio-default = Numatytasis
 addon-detail-updates-radio-on = Taip
 addon-detail-updates-radio-off = Ne
 addon-detail-update-check-label = Tikrinti, ar yra naujinimų
 install-update-button = Atnaujinti
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -415,7 +346,6 @@ addon-detail-private-browsing-disallow = Neleisti
 addon-badge-recommended2 =
     .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
     .aria-label = { addon-badge-recommended2.title }
-
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
@@ -429,19 +359,14 @@ addon-badge-verified2 =
 
 available-updates-heading = Galimi naujinimai
 recent-updates-heading = Paskiausiai atnaujinti
-
 release-notes-loading = Įkeliama…
 release-notes-error = Atsiprašome, bet įkeliant laidos apžvalgą įvyko klaida.
-
 addon-permissions-empty = Šis priedas nereikalauja jokių leidimų
-
 addon-permissions-required = Pagrindiniam funkcionalumui reikalingi leidimai:
 addon-permissions-optional = Papildomam funkcionalumui reikalingi leidimai:
 addon-permissions-learnmore = Sužinokite apie leidimus daugiau
-
 recommended-extensions-heading = Rekomenduojami priedai
 recommended-themes-heading = Rekomenduojami grafiniai apvalkalai
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Jaučiatės kūrybiškai? <a data-l10n-name="link">Sukurkite savo grafinį apvalkalą su „Firefox Color“.</a>
@@ -456,10 +381,8 @@ locale-heading = Tvarkykite savo kalbas
 updates-heading = Tvarkykite savo naujinimus
 discover-heading = Individualizuokite savo „{ -brand-short-name }“
 shortcuts-heading = Tvarkyti sparčiuosius klavišus priedams
-
 default-heading-search-label = Rasti daugiau priedų
 addons-heading-search-input =
     .placeholder = Ieškoti per addons.mozilla.org
-
 addon-page-options-button =
     .title = Visiems priedams taikomos priemonės
