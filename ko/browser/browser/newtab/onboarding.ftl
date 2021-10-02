@@ -152,6 +152,11 @@ mr2-onboarding-colorway-header = 색상 라이프
 mr2-onboarding-colorway-subtitle = 생동감 넘치는 새로운 컬러웨이입니다. 제한된 시간 동안 사용할 수 있습니다.
 mr2-onboarding-colorway-primary-button-label = 컬러웨이 저장
 mr2-onboarding-colorway-secondary-button-label = 나중에
+mr2-onboarding-colorway-label-soft = 부드럽게
+mr2-onboarding-colorway-label-balanced = 균형있게
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = 강렬하게
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 자동
 # This string will be used for Default theme
@@ -268,12 +273,12 @@ mr2-onboarding-theme-tooltip =
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = 이 색 구성표를 사용합니다.
+    .aria-description = 이 컬러웨이를 사용합니다.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = { $colorwayName } 색 구성표를 탐색합니다.
+    .title = { $colorwayName } 컬러웨이를 탐색합니다.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
@@ -285,3 +290,8 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = 기본 테마를 탐색합니다.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = 저희를 선택해 주셔서 감사합니다.
+mr2-onboarding-start-browsing-button-label = 탐색 시작
