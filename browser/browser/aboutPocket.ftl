@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = הוספת תגיות
-
 pocket-panel-saved-error-generic = אירעה שגיאה בעת ניסיון לשמור ל־{ -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = התגיות מוגבלות ל־25 תווים
 pocket-panel-saved-error-only-links = ניתן לשמור קישורים בלבד
@@ -44,7 +43,7 @@ pocket-panel-signup-tagline-story-two = להציג ב־{ -pocket-brand-name } ב
 
 pocket-panel-home-my-list = הרשימה שלי
 pocket-panel-home-welcome-back = ברוכים השבים
-pocket-panel-home-paragraph = באפשרותך להשתמש ב־{ -pocket-brand-name } כדי לחקור ולשמור דפי אינטרנט, מאמרים, סרטוניםו ופודקאסטים, או לחזור למה שקראת.
+pocket-panel-home-paragraph = באפשרותך להשתמש ב־{ -pocket-brand-name } כדי לחקור ולשמור דפי אינטרנט, מאמרים, סרטונים ופודקאסטים, או לחזור למה שקראת.
 pocket-panel-home-explore-popular-topics = סיור בנושאים נפוצים
 pocket-panel-home-discover-more = לגלות עוד
 pocket-panel-home-explore-more = סיור
