@@ -28,6 +28,7 @@ about-private-browsing-info-description-simplified = { -brand-short-name }, tüm
 about-private-browsing-learn-more-link = Daha fazla bilgi al
 about-private-browsing-hide-activity = İnternette gezinirken yaptıklarınızı ve konumunuzu gizleyin
 about-private-browsing-get-privacy = Gezindiğiniz her yerde gizliliğinizi koruyun
+about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ile gezdiğiniz sayfaları ve konumunuzu gizleyebilirsiniz. Tek bir tıklamayla halka açık Wi-Fi ağlarında bile güvenli bir bağlantı kurabilirsiniz.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ile gizli kalın
 # This string is the title for the banner for search engine selection
 # in a private window.

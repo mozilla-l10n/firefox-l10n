@@ -148,6 +148,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıc�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 mr1-onboarding-import-secondary-button-label = Daha sonra
+mr2-onboarding-colorway-secondary-button-label = Daha sonra
 mr2-onboarding-colorway-label-balanced = Dengeli
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Otomatik
