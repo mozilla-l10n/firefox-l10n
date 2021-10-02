@@ -504,7 +504,7 @@ home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provi
 
 home-prefs-recommended-by-learn-more = Hur fungerar det
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Sponsrade nyheter
+    .label = Sponsrade berättelser
 home-prefs-highlights-header =
     .label = Höjdpunkter
 home-prefs-highlights-description = Ett urval av sidor du har sparat eller besökt

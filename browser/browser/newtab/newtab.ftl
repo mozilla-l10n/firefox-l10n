@@ -216,7 +216,7 @@ newtab-empty-section-topstories = Det finns inte fler. Kom tillbaka senare för 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Du är ikapp!
-newtab-discovery-empty-section-topstories-content = Kom tillbaka senare för fler nyheter.
+newtab-discovery-empty-section-topstories-content = Kom tillbaka senare för fler berättelser.
 newtab-discovery-empty-section-topstories-try-again-button = Försök igen
 newtab-discovery-empty-section-topstories-loading = Laddar…
 # Displays when a layout in a section took too long to fetch articles.
@@ -226,17 +226,17 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästa
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populära ämnen:
-newtab-pocket-new-topics-title = Vill du ha fler nyheter? Se dessa populära ämnen från { -pocket-brand-name }
+newtab-pocket-new-topics-title = Vill du ha fler berättelser? Se dessa populära ämnen från { -pocket-brand-name }
 newtab-pocket-more-recommendations = Fler rekommendationer
 newtab-pocket-learn-more = Läs mer
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
-newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
+newtab-pocket-cta-text = Spara de historier som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } är en del av familjen { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Spara till { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Sparad till { -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Ladda fler nyheter
+newtab-pocket-load-more-stories-button = Ladda fler berättelser
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
@@ -264,7 +264,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsrade genvägar
 newtab-custom-pocket-title = Rekommenderas av { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Särskilt innehåll valt av { -pocket-brand-name }, en del av familjen { -brand-product-name }
-newtab-custom-pocket-sponsored = Sponsrade nyheter
+newtab-custom-pocket-sponsored = Sponsrade berättelser
 newtab-custom-recent-title = Senaste aktivitet
 newtab-custom-recent-subtitle = Ett urval av senaste webbplatser och innehåll
 newtab-custom-close-button = Stäng
