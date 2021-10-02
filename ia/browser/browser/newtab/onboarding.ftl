@@ -152,6 +152,11 @@ mr2-onboarding-colorway-header = Vita a color
 mr2-onboarding-colorway-subtitle = Nove vibrante combinationes de colores. Disponibile pro tempore limitate.
 mr2-onboarding-colorway-primary-button-label = Salvar combination de colores
 mr2-onboarding-colorway-secondary-button-label = Non ora
+mr2-onboarding-colorway-label-soft = Legier
+mr2-onboarding-colorway-label-balanced = Balanciate
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Forte
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Auto
 # This string will be used for Default theme
@@ -285,3 +290,8 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Discoperi le themas predefinite.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Gratias pro haber nos seligite
+mr2-onboarding-start-browsing-button-label = Comenciar a navigar
