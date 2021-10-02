@@ -150,7 +150,15 @@ mr1-onboarding-import-primary-button-label-attribution = 從 { $previous } 匯�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
 mr1-onboarding-import-secondary-button-label = 現在不要
+mr2-onboarding-colorway-header = 美麗生活
+mr2-onboarding-colorway-subtitle = 活力滿點的新配色，限時提供。
+mr2-onboarding-colorway-primary-button-label = 儲存配色
 mr2-onboarding-colorway-secondary-button-label = 現在不要
+mr2-onboarding-colorway-label-soft = 軟色調
+mr2-onboarding-colorway-label-balanced = 均衡色調
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = 濃烈色調
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 自動
 # This string will be used for Default theme
@@ -232,9 +240,33 @@ mr1-onboarding-theme-tooltip-alpenglow =
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description = 使用色彩繽紛的按鈕、選單、視窗佈景主題。
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = 使用這套配色。
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = 使用這套配色。
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = 探索 { $colorwayName } 的配色。
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = 探索 { $colorwayName } 的配色。
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 探索預設佈景主題。
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = 探索預設佈景主題。
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = 感謝您選用
+mr2-onboarding-thank-you-text = { -brand-short-name } 是一套由非營利組織所打造的獨立瀏覽器。由我們一起讓網路環境更安全、更健康、也更有隱私。
+mr2-onboarding-start-browsing-button-label = 開始上網
