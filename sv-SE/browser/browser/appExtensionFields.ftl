@@ -23,3 +23,6 @@ extension-firefox-alpenglow-description = Använd ett färgglatt utseende för k
 
 extension-colorways-soft-name = { $colorway-name } — Mjuk
 extension-colorways-balanced-name = { $colorway-name } — Balanserad
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Djärv
