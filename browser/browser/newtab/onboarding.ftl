@@ -152,6 +152,11 @@ mr2-onboarding-colorway-header = 多彩生活
 mr2-onboarding-colorway-subtitle = 元气满满的新配色，限时提供。
 mr2-onboarding-colorway-primary-button-label = 保存配色
 mr2-onboarding-colorway-secondary-button-label = 暂时不要
+mr2-onboarding-colorway-label-soft = 柔和
+mr2-onboarding-colorway-label-balanced = 平衡
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = 浓烈
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = 自动
 # This string will be used for Default theme
@@ -253,3 +258,8 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = 探索默认主题。
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = 感谢您选用
+mr2-onboarding-start-browsing-button-label = 开始上网
