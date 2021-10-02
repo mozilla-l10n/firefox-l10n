@@ -192,6 +192,12 @@ mr2-onboarding-colorway-header = Una vita a colori
 mr2-onboarding-colorway-subtitle = Nuove vibranti tonalità. Disponibili per un periodo limitato.
 mr2-onboarding-colorway-primary-button-label = Salva tonalità
 mr2-onboarding-colorway-secondary-button-label = Non adesso
+mr2-onboarding-colorway-label-soft = Delicata
+mr2-onboarding-colorway-label-balanced = Forte
+
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Bold
 
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatico
