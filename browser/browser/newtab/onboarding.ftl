@@ -65,7 +65,7 @@ return-to-amo-add-extension-label = Aggiungi l’estensione
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Benvenuto in <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = Il browser veloce, sicuro e riservato sostenuto da un’organizzazione senza fini di lucro.
+onboarding-multistage-welcome-subtitle = Il browser veloce, sicuro e rispettoso della privacy, sostenuto da un’organizzazione senza fini di lucro.
 onboarding-multistage-welcome-primary-button-label = Avvia la configurazione
 onboarding-multistage-welcome-secondary-button-label = Accedi
 onboarding-multistage-welcome-secondary-button-text = Hai già un account?
@@ -354,3 +354,7 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
   .aria-description = Scopri i temi predefiniti.
+
+mr2-onboarding-thank-you-header = Grazie per averci scelto
+mr2-onboarding-thank-you-text = { -brand-short-name } è un browser indipendente sostenuto da un’organizzazione senza fini di lucro. Insieme possiamo rendere il Web più sicuro, più sano e più rispettoso della privacy.
+mr2-onboarding-start-browsing-button-label = Inizia a navigare
