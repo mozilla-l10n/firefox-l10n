@@ -232,6 +232,9 @@ newtab-pocket-learn-more = Läs mer
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
 newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } är en del av familjen { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Spara till { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Sparad till { -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Ladda fler nyheter
 
