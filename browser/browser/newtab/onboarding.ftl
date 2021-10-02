@@ -151,7 +151,17 @@ mr1-onboarding-import-primary-button-label-attribution = Importera från { $prev
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importera från tidigare webbläsare
 mr1-onboarding-import-secondary-button-label = Inte nu
+mr2-onboarding-colorway-header = Livet i färg
+mr2-onboarding-colorway-subtitle = Levande nya colorways. Tillgängliga under en begränsad tid.
+mr2-onboarding-colorway-primary-button-label = Spara colorway
 mr2-onboarding-colorway-secondary-button-label = Inte nu
+mr2-onboarding-colorway-label-soft = Mjuk
+mr2-onboarding-colorway-label-balanced = Balanserad
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Djärv
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatisk
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Standard
 mr1-onboarding-theme-header = Gör den till din egen
@@ -259,9 +269,33 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Använd ett dynamiskt färgglatt tema för knappar,
         menyer och fönster.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Använd denna colorway.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Använd denna colorway.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Utforska colorways { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Utforska colorways { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Utforska standardteman.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Utforska standardteman.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Tack för att du väljer oss
+mr2-onboarding-thank-you-text = { -brand-short-name } är en oberoende webbläsare som stöds av en ideell organisation. Tillsammans gör vi webben säkrare, hälsosammare och mer privat.
+mr2-onboarding-start-browsing-button-label = Börja surfa
