@@ -156,6 +156,11 @@ mr2-onboarding-colorway-header = Žiwjenje w barbje
 mr2-onboarding-colorway-subtitle = Žiwe nowe barbowe kombinacije. Za wobmjezowany čas k dispoziciji.
 mr2-onboarding-colorway-primary-button-label = Barbowu kombinaciju składować
 mr2-onboarding-colorway-secondary-button-label = Nic nětko
+mr2-onboarding-colorway-label-soft = Cuni
+mr2-onboarding-colorway-label-balanced = Wurunany
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Jaskrawy
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Awtomatiski
 # This string will be used for Default theme
@@ -289,3 +294,9 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Wuslědźće standardne drasty.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Dźakujemy so, zo sće nas wubrał
+mr2-onboarding-thank-you-text = { -brand-short-name } je njewotwisny wobhladowak powšitkownosći wužitneje organizacije. Hromadźe činimy web wěsćiši, strowši a priwatniši.
+mr2-onboarding-start-browsing-button-label = Přehladowanje započeć
