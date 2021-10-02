@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Systemtema — automatisk
 extension-default-theme-description = Använder samma färgschema som operativsystemet för knappar, menyer och fönster.
 extension-firefox-compact-light-name = Ljus
 extension-firefox-compact-light-description = Ett tema med en ljus färgskala.
@@ -19,3 +21,5 @@ extension-firefox-alpenglow-description = Använd ett färgglatt utseende för k
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Mjuk
+extension-colorways-balanced-name = { $colorway-name } — Balanserad
