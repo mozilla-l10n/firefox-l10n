@@ -520,6 +520,16 @@ urlbar-result-action-search-tabs = Ieškoti kortelėse
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = „{ $engine }“ siūlymai
 
 ## Full Screen and Pointer Lock UI
 
@@ -727,6 +737,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Užblokavus iškylančiuosius langus nerodyti šio pranešimo
     .accesskey = n
+edit-popup-settings =
+    .label = Keisti iškylančiųjų langų nustatymus…
+    .accesskey = K
 picture-in-picture-hide-toggle =
     .label = Slėpti vaizdo-vaizde perjungimą
     .accesskey = S
@@ -770,3 +783,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Pateikti visas korteles
     .tooltiptext = Pateikti visas korteles
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Atverti ankstesnes korteles?</strong> Galite atkurti savo ankstesnį seansą iš „{ -brand-short-name }“ programos meniu <img data-l10n-name="icon"/>, iš žurnalo.
+restore-session-startup-suggestion-button = Parodyti instrukciją
