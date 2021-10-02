@@ -226,6 +226,9 @@ newtab-pocket-learn-more = מידע נוסף
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 newtab-pocket-pocket-firefox-family = ‏{ -pocket-brand-name } הוא חלק ממשפחת { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = שמירה אל { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = נשמר ל־{ -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = טעינת סיפורים נוספים
 
