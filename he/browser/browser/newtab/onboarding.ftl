@@ -247,7 +247,15 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         שימוש בערכת נושא דינאמית וצבעונית עבור כפתורים,
         תפריטים וחלונות.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = עיון בערכות נושא ברירת מחדל.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = עיון בערכות נושא ברירת מחדל.
 
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = תודה רבה שבחרת בנו
+mr2-onboarding-thank-you-text = ‏{ -brand-short-name } הוא דפדפן עצמאי המגובה על־ידי עמותה שאינה למטרות רווח. יחד, אנו הופכים את האינטרנט לבטוח, בריא ופרטי יותר.
+mr2-onboarding-start-browsing-button-label = התחלת גלישה
