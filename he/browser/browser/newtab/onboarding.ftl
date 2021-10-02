@@ -132,6 +132,16 @@ mr1-onboarding-import-primary-button-label-attribution = ייבוא מ־{ $previ
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = ייבוא מהדפדפן הקודם
 mr1-onboarding-import-secondary-button-label = לא כעת
+mr2-onboarding-colorway-secondary-button-label = לא כעת
+mr2-onboarding-colorway-label-soft = רך
+mr2-onboarding-colorway-label-balanced = מאוזן
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = נועז
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = אוטומטי
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = ברירת מחדל
 mr1-onboarding-theme-header = התאמה לטעם האישי שלך
 mr1-onboarding-theme-subtitle = התאמה אישית של { -brand-short-name } עם ערכת נושא.
 mr1-onboarding-theme-primary-button-label = שמירת ערכת נושא
@@ -237,3 +247,7 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         שימוש בערכת נושא דינאמית וצבעונית עבור כפתורים,
         תפריטים וחלונות.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = תודה רבה שבחרת בנו
