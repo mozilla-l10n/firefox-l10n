@@ -226,6 +226,9 @@ newtab-pocket-more-recommendations = Mai de recomandacions
 newtab-pocket-learn-more = Ne saber mai
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
 newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket-brand-name } e garissètz vòstre esperit amb de lecturas fascinantas.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Enregistrar dins { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Pagina enregistrada dins { -pocket-brand-name }
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.

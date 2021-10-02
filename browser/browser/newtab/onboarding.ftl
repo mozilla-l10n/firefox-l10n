@@ -148,7 +148,18 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar d’un autre navegador
 mr1-onboarding-import-secondary-button-label = Pas ara
+mr2-onboarding-colorway-header = La vida en color
+mr2-onboarding-colorway-primary-button-label = Salvar colorit
 mr2-onboarding-colorway-secondary-button-label = Pas ara
+mr2-onboarding-colorway-label-soft = Leugièr
+mr2-onboarding-colorway-label-balanced = Equilibrat
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Afortit
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Auto
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Per defaut
 mr1-onboarding-theme-header = Adaptatz-lo a vòstre estil
 mr1-onboarding-theme-subtitle = Personalizatz { -brand-short-name } amb un tèma.
 mr1-onboarding-theme-primary-button-label = Salvar lo tèma
@@ -254,3 +265,15 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Utilizar un tèma colorat e dinamic pels
         botons, menús e las fenèstras.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Utilizar aqueste colorit.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Utilizar aqueste colorit.
+
+## Strings for Thank You page
+
+mr2-onboarding-start-browsing-button-label = Començar de navegar

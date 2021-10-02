@@ -284,6 +284,7 @@ extension-enabled-heading = Activadas
 extension-disabled-heading = Desactivadas
 theme-enabled-heading = Activat
 theme-disabled-heading = Desactivats
+theme-monochromatic-heading = Colorit
 plugin-enabled-heading = Activats
 plugin-disabled-heading = Desactivats
 dictionary-enabled-heading = Activats
