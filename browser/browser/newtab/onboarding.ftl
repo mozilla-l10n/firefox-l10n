@@ -152,6 +152,11 @@ mr2-onboarding-colorway-header = Життя барвисте
 mr2-onboarding-colorway-subtitle = Сповнені життя нові барви. Доступні впродовж обмеженого часу.
 mr2-onboarding-colorway-primary-button-label = Зберегти забарвлення
 mr2-onboarding-colorway-secondary-button-label = Не зараз
+mr2-onboarding-colorway-label-soft = М'яка
+mr2-onboarding-colorway-label-balanced = Збалансована
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Насичена
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Авто
 # This string will be used for Default theme
@@ -285,3 +290,9 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Переглянути типові теми.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Дякуємо, що обрали нас
+mr2-onboarding-thank-you-text = { -brand-short-name } — незалежний браузер, підтримуваний некомерційною організацією. Разом ми робимо інтернет безпечнішим, здоровішим та приватнішим.
+mr2-onboarding-start-browsing-button-label = Почати перегляд
