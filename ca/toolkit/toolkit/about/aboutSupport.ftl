@@ -4,7 +4,6 @@
 
 page-title = Informació de resolució de problemes
 page-subtitle = Aquesta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del { -brand-short-name }, visiteu el nostre <a data-l10n-name="support-link">lloc web d'assistència</a>.
-
 crashes-title = Informes de fallada
 crashes-id = Identificador de l'informe
 crashes-send-date = Data d'enviament
@@ -55,12 +54,14 @@ app-basics-enabled-plugins = Connectors habilitats
 app-basics-build-config = Configuració de la versió
 app-basics-user-agent = Agent d'usuari
 app-basics-os = Sistema operatiu
+app-basics-os-theme = Tema del sistema operatiu
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Traduït per Rosetta
 app-basics-memory-use = Utilització de la memòria
 app-basics-performance = Rendiment
 app-basics-service-workers = Processos de treball de servei registrats
+app-basics-third-party = Mòduls de tercers
 app-basics-profiles = Perfils
 app-basics-launcher-process-status = Procés d'inici
 app-basics-multi-process-support = Finestres multiprocés
@@ -124,10 +125,12 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipus de procés
 sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
-
+troubleshoot-mode-title = Diagnostica problemes
 restart-in-troubleshoot-mode-label = Mode de resolució de problemes…
 clear-startup-cache-title = Proveu d'esborrar la memòria cau d'inici
 clear-startup-cache-label = Esborra la memòria cau d'inici…
+startup-cache-dialog-title2 = Voleu reiniciar el { -brand-short-name } per esborrar la memòria cau d'inici?
+startup-cache-dialog-body2 = Això no canviarà cap paràmetre ni eliminarà cap extensió.
 restart-button-label = Reinicia
 
 ## Media titles
@@ -149,6 +152,8 @@ media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
 media-capabilities-title = Capacitats multimèdia
+# List all the entries of the database.
+media-capabilities-enumerate = Enumera la base de dades
 
 ##
 
@@ -171,6 +176,8 @@ intl-regional-prefs = Preferències regionals
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Depuració remota (protocol Chromium)
+remote-debugging-accepting-connections = S'estan acceptant connexions
 remote-debugging-url = URL
 
 ##
@@ -182,7 +189,6 @@ report-crash-for-days =
         [one] Informes de fallada de l'últim dia
        *[other] Informes de fallada dels últims { $days } dies
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -190,7 +196,6 @@ crashes-time-minutes =
         [one] Fa un minut
        *[other] Fa { $minutes } minuts
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -198,7 +203,6 @@ crashes-time-hours =
         [one] Fa una hora
        *[other] Fa { $hours } hores
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -206,7 +210,6 @@ crashes-time-days =
         [one] Fa un dia
        *[other] Fa { $days } dies
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -214,7 +217,6 @@ pending-reports =
         [one] Tots els informes de fallada (inclosa { $reports } fallada pendent dins el període de temps indicat)
        *[other] Tots els informes de fallada (incloses { $reports } fallades pendents dins el període de temps indicat)
     }
-
 raw-data-copied = Les dades sense processar s'han copiat al porta-retalls
 text-copied = S'ha copiat el text al porta-retalls
 
@@ -227,11 +229,9 @@ blocked-mismatched-version = Blocat per què no coincideixen les versions del co
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat pel controlador gràfic. Proveu d'actualitzar-lo a la versió { $driverVersion } o posterior.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paràmetres ClearType
-
 compositing = Composició
 hardware-h264 = Descodificació H264 per maquinari
 main-thread-no-omtc = fil principal, sense OMTC
@@ -246,7 +246,6 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = S'ha trobat
 missing = Falta
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripció
@@ -261,20 +260,15 @@ gpu-driver-date = Data del controlador
 gpu-active = Activa
 webgl1-extensions = Extensions WebGL 1
 webgl2-extensions = Extensions WebGL 2
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
 gpu-process-kill-button = Finalitza el procés de GPU
-
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
-
 has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
 has-seccomp-tsync = Sincronització de fils Seccomp
 has-user-namespaces = Espais de noms de l'usuari
@@ -285,18 +279,14 @@ content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
 effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
 sandbox-proc-type-content = contingut
 sandbox-proc-type-media-plugin = connector multimèdia
-
 startup-cache-title = Memòria cau d'inici
-
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivat a causa d'un error
 launcher-process-status-unknown = Estat desconegut
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -311,7 +301,6 @@ fission-status-disabled-by-default = Desactivat per defecte
 fission-status-enabled-by-user-pref = Activat per l'usuari
 fission-status-disabled-by-user-pref = Desactivat per l'usuari
 fission-status-disabled-by-e10s-other = E10s desactivat
-
 async-pan-zoom = Pan/Zoom asíncrons
 apz-none = cap
 wheel-enabled = entrada amb roda activada
@@ -344,7 +333,6 @@ support-printing-prefs-value = Valor
 support-remote-experiments-title = Experiments remots
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Branca de l'experiment
-
 support-remote-features-title = Funcions remotes
 support-remote-features-name = Nom
 support-remote-features-status = Estat

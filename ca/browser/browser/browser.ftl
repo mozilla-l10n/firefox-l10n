@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Gestiona l'ús dels complements
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gestiona la compartició de la càmera o del micròfon amb el lloc
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Gestiona la compartició d'altres altaveus amb el lloc
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Obre la subfinestra de reproducció automàtica
 urlbar-persistent-storage-notification-anchor =
@@ -509,6 +513,16 @@ urlbar-result-action-search-tabs = Cerca en les pestanyes
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Suggeriments del { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -529,6 +543,10 @@ pointerlock-warning-no-domain = Aquest document té el control del punter. Preme
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part d'aquesta pàgina ha fallat.</strong> Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Part d'aquesta pàgina ha fallat. Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
 crashed-subframe-learnmore-link =
     .value = Més informació
 crashed-subframe-submit =
@@ -712,6 +730,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostris aquest missatge quan es bloquin finestres emergents
     .accesskey = n
+edit-popup-settings =
+    .label = Gestiona els paràmetres de finestres emergents…
+    .accesskey = G
 picture-in-picture-hide-toggle =
     .label = Amaga el botó d'Imatge sobre imatge
     .accesskey = m
@@ -758,3 +779,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Voleu obrir les pestanyes anteriors?</strong> Podeu restaurar la sessió anterior des del menú de l'aplicació del { -brand-short-name } <img data-l10n-name="icon"/>, dins l'«Historial».
+restore-session-startup-suggestion-button = Mostra com fer-ho
