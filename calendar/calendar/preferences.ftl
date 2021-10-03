@@ -4,6 +4,7 @@
 
 calendar-title = Calendari
 calendar-title-reminder = Recordatoris
+calendar-title-notification = Notificacions
 calendar-title-category = Categories
 dateformat-label =
     .value = Format de les dates:
@@ -133,6 +134,9 @@ task-due-label =
 edit-intab-label =
     .label = Edita les cites i tasques en una pestanya en lloc d'una finestra de diàleg.
     .accesskey = t
+prompt-delete-label =
+    .label = Pregunta abans de suprimir cites i tasques.
+    .accesskey = P
 accessibility-legend = Accessibilitat
 accessibility-colors-label =
     .label = Optimitza els colors per a l'accessibilitat
@@ -179,6 +183,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Temps per defecte que es definirà als recordatoris abans d'una tasca:
     .accesskey = T
+calendar-notifications-customize-label = Les notificacions es poden personalitzar per a cada calendari en la finestra de propietats del calendari.
 category-new-label = Categoria nova
 category-edit-label = Edita la categoria
 category-overwrite-title = Avís: Nom duplicat
