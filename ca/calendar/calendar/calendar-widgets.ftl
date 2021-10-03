@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Tots els calendaris estan desactivats. Activeu un calendari existent o afegiu-ne un altre per a crear i editar cites.
 calendar-deactivated-notification-tasks = Tots els calendaris estan desactivats. Activeu un calendari existent o afegiu-ne un altre per a crear o editar tasques.
+calendar-notifications-label = Mostra les notificacions de les cites properes
+calendar-add-notification-button =
+    .label = Afegeix una notificació
