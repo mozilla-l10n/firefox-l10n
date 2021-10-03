@@ -193,11 +193,11 @@ mr2-onboarding-colorway-subtitle = Nuove vibranti tonalità. Disponibili per un 
 mr2-onboarding-colorway-primary-button-label = Salva tonalità
 mr2-onboarding-colorway-secondary-button-label = Non adesso
 mr2-onboarding-colorway-label-soft = Delicata
-mr2-onboarding-colorway-label-balanced = Forte
+mr2-onboarding-colorway-label-balanced = Bilanciata
 
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-mr2-onboarding-colorway-label-bold = Bold
+mr2-onboarding-colorway-label-bold = Forte
 
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatico
