@@ -301,7 +301,7 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Ajuda
-    .accesskey = j
+    .accesskey = A
 menu-get-help =
     .label = Obteniu ajuda
     .accesskey = j
