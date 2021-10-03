@@ -4,18 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Pridruževanje klepetu
-
 chat-left-chat-icon2 =
     .alt = Zapustil klepet
-
 chat-participant-owner-role-icon2 =
     .alt = Lastnik
-
 chat-participant-administrator-role-icon2 =
     .alt = Skrbnik
-
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
-
 chat-participant-voiced-role-icon2 =
     .alt = Udeleženec lahko objavlja sporočila
+chat-verify-identity =
+    .label = Preveri istovetnost
+    .accesskey = i
+chat-identity-verified =
+    .label = Istovetnost je že preverjena
