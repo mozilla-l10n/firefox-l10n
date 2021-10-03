@@ -38,20 +38,16 @@ menu-quit =
             [windows] u
            *[other] u
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Surt del { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Surt del { -brand-shorter-name }
-
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Envia l'enllaç per correu…
     .accesskey = E
+menu-file-share-url =
+    .label = Comparteix
+    .accesskey = C
 menu-file-print-setup =
     .label = Configuració de la pàgina…
     .accesskey = g
@@ -168,7 +167,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estil de pàgina bàsic
     .accesskey = b
-
 menu-view-repair-text-encoding =
     .label = Repara la codificació del text
     .accesskey = c
@@ -214,7 +212,6 @@ menu-history-undo-menu =
     .label = Pestanyes tancades recentment
 menu-history-undo-window-menu =
     .label = Finestres tancades recentment
-
 menu-history-reopen-all-tabs = Torna a obrir totes les pestanyes
 menu-history-reopen-all-windows = Torna a obrir totes les finestres
 
