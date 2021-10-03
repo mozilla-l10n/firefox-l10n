@@ -691,6 +691,9 @@ remote-tabs-sync-now = Sincronitza ara
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Més…
 ui-tour-info-panel-close =
     .tooltiptext = Tanca
 
@@ -752,3 +755,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
+
+## Infobar shown at startup to suggest session-restore
+
