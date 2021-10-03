@@ -846,4 +846,12 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message =
+    <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
 restore-session-startup-suggestion-button = Jak na to

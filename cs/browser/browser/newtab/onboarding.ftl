@@ -239,6 +239,8 @@ mr2-onboarding-colorway-label-balanced = Vyvážená
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 mr2-onboarding-colorway-label-bold = Výrazná
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatický
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Výchozí
 mr1-onboarding-theme-header = Přizpůsobení
@@ -348,20 +350,21 @@ mr2-onboarding-theme-description =
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = Prozkoumejte paletu barev { $colorwayName }.
+    .title = Vyzkoušet paletu barev { $colorwayName }.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
-    .aria-description = Prozkoumejte paletu barev { $colorwayName }.
+    .aria-description = Vyzkoušet paletu barev { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = Podívejte se na výchozí vzhledy.
+    .title = Vyzkoušet výchozí vzhledy.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
-    .aria-description = Podívejte se na výchozí vzhledy.
+    .aria-description = Vyzkoušet výchozí vzhledy.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Děkujeme, že jste si vybrali nás
 mr2-onboarding-thank-you-text = { -brand-short-name } je nezávislý prohlížeč od neziskové organizace. Společně se snažíme udělat web bezpečnější, zdravější a s větším ohledem na soukromí.
 mr2-onboarding-start-browsing-button-label = Začít prohlížet
