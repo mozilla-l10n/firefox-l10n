@@ -779,3 +779,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Far la lista de totes los onglets
     .tooltiptext = Far la lista de totes los onglets
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Cossí far

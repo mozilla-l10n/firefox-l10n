@@ -273,7 +273,24 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Utilizar aqueste colorit.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Explorar los colorits { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Explorar los colorits { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Explorar los tèmas per defaut.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Explorar los tèmas per defaut.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Mercés de nos aver causits
 mr2-onboarding-start-browsing-button-label = Començar de navegar
