@@ -23,6 +23,7 @@ about-private-browsing-not-private = Actualment no esteu en una finestra privada
 about-private-browsing-info-description = El { -brand-short-name } esborra el vostre historial de cerques i de navegació quan sortiu de l'aplicació o tanqueu totes les pestanyes i finestres de navegació privada. Malgrat que això no fa que sigueu anònim per als llocs web o per al vostre proveïdor de serveis d'Internet, és més fàcil mantenir en privat allò que feu en línia davant de qualsevol altra persona que utilitzi aquest ordinador.
 about-private-browsing-need-more-privacy = Us cal més privadesa?
 about-private-browsing-turn-on-vpn = Proveu el { -mozilla-vpn-brand-name }
+about-private-browsing-learn-more-link = Més informació
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
