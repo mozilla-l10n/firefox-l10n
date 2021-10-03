@@ -25,4 +25,4 @@ extension-colorways-soft-name = { $colorway-name } — Мягкая
 extension-colorways-balanced-name = { $colorway-name } — Сбалансированная
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Насыщенная
+extension-colorways-bold-name = { $colorway-name } — Выразительная
