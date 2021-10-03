@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Obre una finestra privada
 about-private-browsing-search-placeholder = Cerca al web
 about-private-browsing-info-title = Esteu en una finestra privada
 about-private-browsing-info-myths = Mites comuns sobre la navegació privada
+about-private-browsing-search-btn =
+    .title = Cerca al web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -19,10 +21,8 @@ about-private-browsing-handoff-text = Cerqueu amb { $engine } o escriviu una adr
 about-private-browsing-handoff-text-no-engine = Escriviu una cerca o adreça
 about-private-browsing-not-private = Actualment no esteu en una finestra privada.
 about-private-browsing-info-description = El { -brand-short-name } esborra el vostre historial de cerques i de navegació quan sortiu de l'aplicació o tanqueu totes les pestanyes i finestres de navegació privada. Malgrat que això no fa que sigueu anònim per als llocs web o per al vostre proveïdor de serveis d'Internet, és més fàcil mantenir en privat allò que feu en línia davant de qualsevol altra persona que utilitzi aquest ordinador.
-
 about-private-browsing-need-more-privacy = Us cal més privadesa?
 about-private-browsing-turn-on-vpn = Proveu el { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
