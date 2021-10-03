@@ -9,6 +9,21 @@ account-setup-tab-title = Kontoinnstillingar
 
 ## Form fields
 
+account-setup-name-label = Fullt namn
+    .accesskey = F
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Ola Nordmann
+account-setup-name-info-icon =
+    .title = Namnet ditt som det skal visast for andre
+account-setup-name-warning-icon =
+    .title = Skriv inn namnet ditt
+account-setup-email-label = E-postadresse
+    .accesskey = E
+account-setup-email-input =
+    .placeholder = ola.nordmann@døme.no
+account-setup-email-info-icon =
+    .title = Eksisterande e-postadresse
 account-setup-email-warning-icon =
     .title = Ugyldig e-postadresse
 account-setup-password-label = Passord
@@ -16,6 +31,12 @@ account-setup-password-label = Passord
     .title = Valfritt, vil berre brukast for å validere brukarnamnet
 account-provisioner-button = Få ei ny e-postadresse
     .accesskey = F
+account-setup-password-toggle =
+    .title = Vis/gøym passord
+account-setup-password-toggle-show =
+    .title = Vis passordet i klartekt
+account-setup-password-toggle-hide =
+    .title = Gøym passordet
 
 ## Action buttons
 
