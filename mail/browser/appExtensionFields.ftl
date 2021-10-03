@@ -6,4 +6,6 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-thunderbird-compact-light-name = Svijetla
+extension-thunderbird-compact-light-description = Motiv sa svijetlom shemom boja.
 extension-thunderbird-compact-dark-name = Tamna
+extension-thunderbird-compact-dark-description = Motiv s tamnom shemom boja.
