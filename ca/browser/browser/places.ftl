@@ -120,6 +120,10 @@ places-manage-bookmarks =
     .label = Gestiona les adreces d'interès
     .accesskey = G
 places-forget-about-this-site-confirmation-title = Voleu oblidar aquest lloc?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Aquesta acció eliminarà totes les dades relacionades amb { $hostOrBaseDomain }, inclosos l'historial, les contrasenyes, les galetes, la memòria cau i les preferències de contingut. Segur que voleu continuar?
+places-forget-about-this-site-forget = Oblida
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
