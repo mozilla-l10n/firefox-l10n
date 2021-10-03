@@ -24,6 +24,12 @@ connection-dialog-window =
 connection-disable-extension =
     .label = Désactiver l’extension
 disable-extension-button = Désactiver l’extension
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension = Une extension, <img data-l10n-name="extension-icon" alt="" /> { $name }, contrôle la façon dont { -brand-short-name } se connecte à Internet.
 connection-proxy-legend = Configuration du serveur proxy pour accéder à Internet
 proxy-type-no =
     .label = Pas de proxy
