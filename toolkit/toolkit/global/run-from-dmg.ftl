@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Voleu acabar d'instal·lar el { -brand-short-name }?
+prompt-to-install-message = Feu aquesta instal·lació d'un sol pas per mantenir el { -brand-short-name } actualitzat i evitar la pèrdua de dades. El { -brand-short-name } s'afegirà a la carpeta «Aplicacions» i al Dock.
 prompt-to-install-yes-button = Instal·la
 prompt-to-install-no-button = No instal·lis
 

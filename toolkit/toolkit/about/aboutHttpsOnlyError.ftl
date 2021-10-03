@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Alerta del mode només HTTPS
 about-httpsonly-title-connection-not-available = Connexió segura no disponible
-
+about-httpsonly-title-site-not-available = Lloc segur no disponible
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Heu activat el «mode només HTTPS» per millorar la seguretat i no hi ha disponible la versió HTTPS de <em>{ $websiteUrl }</em>.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Quin motiu podria haver-hi?
 about-httpsonly-explanation-nosupport = El més probable és que el lloc web no admeti HTTPS.
 about-httpsonly-explanation-risk = També podria ser un intent d'atac. Si decidiu visitar el lloc web, no hi hauríeu d’introduir informació confidencial com ara contrasenyes, adreces electròniques o targetes de crèdit.
 about-httpsonly-explanation-continue = Si continueu, el mode només HTTPS es desactivarà temporalment per a aquest lloc.
-
 about-httpsonly-button-continue-to-site = Vés al lloc HTTP
 about-httpsonly-button-go-back = Vés enrere
 about-httpsonly-link-learn-more = Més informació…
