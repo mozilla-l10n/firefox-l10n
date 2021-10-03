@@ -19,3 +19,4 @@ chat-verify-identity =
     .accesskey = i
 chat-identity-verified =
     .label = Identitate jam verificate
+chat-buddy-identity-status = Nivello de confidentia del cryptation
