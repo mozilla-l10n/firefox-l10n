@@ -20,3 +20,5 @@ chat-verify-identity =
 chat-identity-verified =
     .label = Identitate jam verificate
 chat-buddy-identity-status = Nivello de confidentia del cryptation
+chat-buddy-identity-status-verified = Verificate
+chat-buddy-identity-status-unverified = Non verificate
