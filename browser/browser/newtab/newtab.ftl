@@ -169,6 +169,11 @@ newtab-label-sponsored = { $sponsorOrSource } · Patrocinat
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Patrocinat per { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } - { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -221,14 +226,25 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta se
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temes populars:
+newtab-pocket-new-topics-title = Voleu encara més articles? Descobriu aquests temes populars del { -pocket-brand-name }
 newtab-pocket-more-recommendations = Més recomanacions
 newtab-pocket-learn-more = Més informació
 newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
+newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Desa al { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = S'ha desat al { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Carrega més articles
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Ja esteu al dia.
+newtab-pocket-last-card-desc = Torneu més tard per veure si n'hi ha més.
+newtab-pocket-last-card-image =
+    .alt = Ja esteu al dia.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
