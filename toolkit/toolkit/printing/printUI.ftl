@@ -5,7 +5,6 @@
 printui-title = Imprimeix
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Anomena i desa
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,7 +12,6 @@ printui-sheets-count =
         [one] { $sheetCount } full de paper
        *[other] { $sheetCount } fulls de paper
     }
-
 printui-page-range-all = Tot
 printui-page-range-custom = Personalitzat
 printui-page-range-label = Pàgines
@@ -22,29 +20,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Introduïu un interval de pàgines personalitzat
     .placeholder = P. ex.: 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Còpies
-
 printui-orientation = Orientació
 printui-landscape = Apaïsat
 printui-portrait = Vertical
-
 # Section title for the printer or destination device to target
 printui-destination-label = Destinació
 printui-destination-pdf-label = Desa com a PDF
-
 printui-more-settings = Més paràmetres
 printui-less-settings = Menys paràmetres
-
 printui-paper-size-label = Mida del paper
-
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page-width = Ajusta a l'amplada de la pàgina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impressió a doble cara
 printui-two-sided-printing-off = Desactivada
@@ -52,7 +43,6 @@ printui-two-sided-printing-off = Desactivada
 printui-two-sided-printing-long-edge = Gira en el costat llarg
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Gira en el costat curt
-
 # Section title for miscellaneous print options
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimeix capçaleres i peus de pàgina
@@ -62,12 +52,20 @@ printui-backgrounds-checkbox = Imprimeix els fons
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = Format
+# Option for printing the original page.
+printui-source-radio = Original
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Selecció
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Simplificat
+
 ##
 
 printui-color-mode-label = Mode de color
 printui-color-mode-color = Color
 printui-color-mode-bw = Blanc i negre
-
 printui-margins = Marges
 printui-margins-default = Per defecte
 printui-margins-min = Mínims
@@ -86,23 +84,17 @@ printui-margins-custom-left-mm = Esquerre (mm)
 printui-margins-custom-right = Dret
 printui-margins-custom-right-inches = Dret (polzades)
 printui-margins-custom-right-mm = Dret (mm)
-
 printui-system-dialog-link = Imprimeix mitjançant el diàleg del sistema…
-
 printui-primary-button = Imprimeix
 printui-primary-button-save = Desa
 printui-cancel-button = Cancel·la
 printui-close-button = Tanca
-
 printui-loading = S'està preparant la previsualització
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Exemple d'impressió
-
 printui-pages-per-sheet = Pàgines per full
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = S'està imprimint…
@@ -129,7 +121,6 @@ printui-paper-tabloid = Tabloide
 printui-error-invalid-scale = L'escala ha de ser un nombre entre 10 i 200.
 printui-error-invalid-margin = Introduïu un marge vàlid per a la mida del paper seleccionat.
 printui-error-invalid-copies = El nombre de còpies ha de ser entre 1 i 10000.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval ha de ser un nombre entre 1 i { $numPages }.

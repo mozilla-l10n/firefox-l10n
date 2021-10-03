@@ -23,7 +23,13 @@ about-private-browsing-not-private = Actualment no esteu en una finestra privada
 about-private-browsing-info-description = El { -brand-short-name } esborra el vostre historial de cerques i de navegació quan sortiu de l'aplicació o tanqueu totes les pestanyes i finestres de navegació privada. Malgrat que això no fa que sigueu anònim per als llocs web o per al vostre proveïdor de serveis d'Internet, és més fàcil mantenir en privat allò que feu en línia davant de qualsevol altra persona que utilitzi aquest ordinador.
 about-private-browsing-need-more-privacy = Us cal més privadesa?
 about-private-browsing-turn-on-vpn = Proveu el { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-private-window = Finestra privada: En tancar totes les finestres privades, el { -brand-short-name } esborra el vostre l'historial de navegació i de cerca. Això no us fa anònim.
+about-private-browsing-info-description-simplified = En tancar totes les finestres privades, el { -brand-short-name } esborra el vostre l'historial de navegació i de cerca, tot i que això no us fa anònim.
 about-private-browsing-learn-more-link = Més informació
+about-private-browsing-hide-activity = Oculteu la vostra activitat i ubicació, arreu on navegueu
+about-private-browsing-get-privacy = Protegiu la vostra privadesa arreu on navegueu
+about-private-browsing-hide-activity-1 = Oculteu l'activitat de navegació i la ubicació amb el { -mozilla-vpn-brand-name }. Creeu una connexió segura amb un sol clic, fins i tot en connexions Wi-Fi públiques.
+about-private-browsing-prominent-cta = Protegiu la vostra privadesa amb el { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
