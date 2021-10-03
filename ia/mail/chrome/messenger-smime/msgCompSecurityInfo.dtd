@@ -7,7 +7,7 @@
 <!ENTITY title.label "Securitate del message">
 <!ENTITY subject.plaintextWarning "Nota: le rigas del subjecto del messages email non es jammais cifrate.">
 <!ENTITY status.heading "Le contento de tu message sera inviate assi:">
-<!ENTITY status.signed "Firmate digitalmente:">
+<!ENTITY status.signed "Signate digitalmente:">
 <!ENTITY status.encrypted "Cifrate:">
 <!ENTITY status.certificates "Certificatos:">
 <!ENTITY view.label "Vider">
