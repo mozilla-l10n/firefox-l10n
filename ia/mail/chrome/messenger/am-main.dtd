@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Parametros de contos">
@@ -15,14 +13,14 @@
 <!ENTITY name.accesskey "T">
 <!ENTITY email.label "Adresse de email:">
 <!ENTITY email.accesskey "e">
-<!ENTITY catchAll.label "Replicar ab iste identitate quando le titulos de consignation concorda:">
+<!ENTITY catchAll.label "Responder con iste identitate quando le capites de livration concorda:">
 <!ENTITY catchAll.accesskey "c">
 <!ENTITY replyTo.label "Adresse pro responsas:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Le destinatarios respondera a iste altere adresse">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signatureText.label "Testo pro firma:">
+<!ENTITY signatureText.label "Texto del signatura:">
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Usar HTML (e.g., &lt;b&gt;nigrate&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
