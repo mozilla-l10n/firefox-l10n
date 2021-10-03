@@ -152,6 +152,11 @@ mr2-onboarding-colorway-header = Vida em cores
 mr2-onboarding-colorway-subtitle = Novos esquemas vibrantes de cores. Disponíveis por tempo limitado.
 mr2-onboarding-colorway-primary-button-label = Salvar esquema de cores
 mr2-onboarding-colorway-secondary-button-label = Agora não
+mr2-onboarding-colorway-label-soft = Suave
+mr2-onboarding-colorway-label-balanced = Equilibrado
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Forte
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automático
 # This string will be used for Default theme
@@ -269,3 +274,9 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Conheça os temas padrão.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Obrigado por nos escolher
+mr2-onboarding-thank-you-text = O { -brand-short-name } é um navegador independente, respaldado por uma organização sem fins lucrativos. Juntos, estamos tornando a web mais segura, mais saudável e mais privativa.
+mr2-onboarding-start-browsing-button-label = Iniciar navegação
