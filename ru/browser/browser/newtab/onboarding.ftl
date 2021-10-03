@@ -156,7 +156,7 @@ mr2-onboarding-colorway-label-soft = Мягкая
 mr2-onboarding-colorway-label-balanced = Сбалансированная
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-mr2-onboarding-colorway-label-bold = Насыщенная
+mr2-onboarding-colorway-label-bold = Выразительная
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Автоматическая
 # This string will be used for Default theme
