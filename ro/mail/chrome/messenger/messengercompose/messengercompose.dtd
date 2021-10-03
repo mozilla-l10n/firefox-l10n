@@ -63,7 +63,7 @@
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "n">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Șterge">
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY editRewrapCmd.label "Reîncadrează">
