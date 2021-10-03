@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY subscribeDialog.title        "Subscribe">
-<!ENTITY subscribeButton.label        "Subscribe">
-<!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Unsubscribe">
-<!ENTITY unsubscribeButton.accesskey  "U">
-<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY subscribeDialog.title        "Administrilo de abonoj">
+<!ENTITY subscribeButton.label        "Aboni">
+<!ENTITY subscribeButton.accesskey    "A">
+<!ENTITY unsubscribeButton.label      "Malaboni">
+<!ENTITY unsubscribeButton.accesskey  "M">
+<!ENTITY newGroupsTab.label           "Novaj grupoj">
 <!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label          "Refresh">
-<!ENTITY refreshButton.accesskey      "R">
-<!ENTITY stopButton.label             "Stop">
-<!ENTITY stopButton.accesskey         "T">
-<!ENTITY server.label                 "Account:">
-<!ENTITY server.accesskey             "A">
-<!ENTITY subscribedHeader.label       "Subscribe">
-<!-- commenting out until bug 38906 is fixed 
+<!ENTITY refreshButton.label          "Aktualigi">
+<!ENTITY refreshButton.accesskey      "t">
+<!ENTITY stopButton.label             "Haltigi">
+<!ENTITY stopButton.accesskey         "H">
+<!ENTITY server.label                 "Konto:">
+<!ENTITY server.accesskey             "K">
+<!ENTITY subscribedHeader.label       "Aboni">
+<!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Show items that contain:">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY namefield.label              "Montri elementojn enhavantajn:">
+<!ENTITY namefield.accesskey          "r">
