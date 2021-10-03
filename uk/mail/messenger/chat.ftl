@@ -4,18 +4,21 @@
 
 chat-joining-chat-icon2 =
     .alt = Приєднання до бесіди
-
 chat-left-chat-icon2 =
     .alt = Залишили бесіду
-
 chat-participant-owner-role-icon2 =
     .alt = Власник
-
 chat-participant-administrator-role-icon2 =
     .alt = Адміністратор
-
 chat-participant-moderator-role-icon2 =
     .alt = Модератор
-
 chat-participant-voiced-role-icon2 =
     .alt = Учасники можуть розміщувати повідомлення
+chat-verify-identity =
+    .label = Перевірити справжність
+    .accesskey = с
+chat-identity-verified =
+    .label = Особу вже перевірено
+chat-buddy-identity-status = Довірене шифрування
+chat-buddy-identity-status-verified = Перевірено
+chat-buddy-identity-status-unverified = Неперевірено
