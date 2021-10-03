@@ -3,35 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Správce doplňků
-
 search-header =
     .placeholder = Vyhledat na addons.mozilla.org
     .searchbuttonlabel = Hledat
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Rozšíření a motivy vzhledů získáte na <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = Žádný doplněk tohoto typu není nainstalován
-
 list-empty-available-updates =
     .value = Nenalezeny žádné aktualizace
-
 list-empty-recent-updates =
     .value = Žádný doplněk nebyl aktualizován
-
 list-empty-find-updates =
     .label = Zkontrolovat aktualizace
-
 list-empty-button =
     .label = Zjistit více informací o doplňcích
-
 help-button = Nápověda
 sidebar-help-button-title =
     .title = Nápověda
-
 addons-settings-button =
     Nastavení { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -47,77 +37,56 @@ sidebar-settings-button-title =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] aplikace
         }
-
 show-unsigned-extensions-button =
     .label = Některá rozšíření nemohla být ověřena
-
 show-all-extensions-button =
     .label = Zobrazit všechna rozšíření
-
 detail-version =
     .label = Verze
-
 detail-last-updated =
     .label = Poslední aktualizace
-
 detail-contributions-description = Vývojář tohoto doplňku vás žádá o malý příspěvek, kterým pomůžete podpořit další vývoj.
-
 detail-contributions-button = Přispět
     .title = Přispějte a pomozte s vývojem tohoto rozšíření
     .accesskey = P
-
 detail-update-type =
     .value = Automatické aktualizace
-
 detail-update-default =
     .label = Výchozí
     .tooltiptext = Aktualizace se instalují automaticky, je-li to výchozí nastavení
-
 detail-update-automatic =
     .label = Povoleny
     .tooltiptext = Aktualizace se instalují automaticky
-
 detail-update-manual =
     .label = Zakázány
     .tooltiptext = Aktualizace se instalují manuálně
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Povolit v anonymních oknech
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Není povoleno v anonymních oknech
 detail-private-disallowed-description2 = Toto rozšíření v anonymních oknech nefunguje. <a data-l10n-name="learn-more">Zjistit více</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Vyžaduje přístup k anonymním oknům
 detail-private-required-description2 = Toto rozšíření má přístup k vašim aktivitám v anonymních oknech. <a data-l10n-name="learn-more">Zjistit více</a>
-
 detail-private-browsing-on =
     .label = Povolit
     .tooltiptext = Povolí rozšíření v anonymních oknech
-
 detail-private-browsing-off =
     .label = Nepovolit
     .tooltiptext = Zakáže rozšíření v anonymních oknech
-
 detail-home =
     .label = Domovská stránka
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profil doplňku
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Zkontrolovat aktualizace
     .accesskey = Z
     .tooltiptext = Zkontroluje dostupnost aktualizace doplňku
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -134,16 +103,12 @@ detail-show-preferences =
             [windows] Umožní změnit možnosti doplňku
            *[other] Umožní změnit předvolby doplňku
         }
-
 detail-rating =
     .value = Hodnocení
-
 addon-restart-now =
     .label = Restartovat
-
 disabled-unsigned-heading =
     .value = Některé doplňky byly zablokovány
-
 disabled-unsigned-description =
     Následující doplňky nebyly ověřeny pro použití { -brand-short-name.gender ->
         [masculine] ve { -brand-short-name(case: "loc") }
@@ -151,18 +116,12 @@ disabled-unsigned-description =
         [neuter] v { -brand-short-name(case: "loc") }
        *[other] v aplikaci { -brand-short-name }
     }. Můžete <label data-l10n-name="find-addons">za ně najít náhrady</label> nebo požádat vývojáře, aby je nechal ověřit.
-
 disabled-unsigned-learn-more = Zjistěte více o naší snaze o vaši bezpečnost.
-
 disabled-unsigned-devinfo = Vývojáři, kteří mají zájem o ověření svých rozšíření, mohou pokračovat přečtením <label data-l10n-name="learn-more">našeho manuálu</label>.
-
 plugin-deprecation-description = Něco chybí? Některé zásuvné moduly už { -brand-short-name } nepodporuje. <label data-l10n-name="learn-more">Zjistit více.</label>
-
 legacy-warning-show-legacy = Zobrazit zastaralá rozšíření
-
 legacy-extensions =
     .value = Zastaralá rozšíření
-
 legacy-extensions-description =
     Tato rozšíření byla zakázána, protože neodpovídají současným standardům { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -170,11 +129,9 @@ legacy-extensions-description =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
-
 private-browsing-description2 =
     Fungování rozšíření pro aplikaci { -brand-short-name } se v anonymních oknech mění. Žádné nově nainstalované rozšíření, nebude ve výchozím nastavení v anonymních oknech fungovat, pokud mu to nepovolíte. Rozšíření tak nebudou mít bez vašeho vědomí přístup k tomu, co v anonymních oknech děláte.
     <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření</label>
-
 addon-category-discover = Doporučení
 addon-category-discover-title =
     .title = Doporučení
@@ -209,7 +166,6 @@ extensions-warning-check-compatibility-button = Povolit
 extensions-warning-update-security = Kontrola bezpečné aktualizace doplňků je zakázána. Aplikace může být pomocí aktualizací napadena.
 extensions-warning-update-security-button = Povolit
     .title = Povolí kontrolu bezpečné aktualizace doplňků
-
 
 ## Strings connected to add-on updates
 
@@ -256,16 +212,13 @@ addon-open-about-debugging = Ladění doplňků
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Správa klávesových zkratek pro rozšíření
     .accesskey = S
-
 shortcuts-no-addons = Nemáte povoleno žádné rozšíření.
 shortcuts-no-commands = Následující rozšíření nemají žádné klávesové zkratky:
 shortcuts-input =
     .placeholder = Zadejte klávesovou zkratku
-
 shortcuts-browserAction2 = Přidat tlačítko na lištu
 shortcuts-pageAction = Povolit akci stránky
 shortcuts-sidebarAction = Přepnout zobrazení postranního panelu
-
 shortcuts-modifier-mac = Zahrnout Ctrl, Alt nebo ⌘
 shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
 shortcuts-invalid = Neplatná kombinace kláves
@@ -277,29 +230,23 @@ shortcuts-system =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplicitní zkratka
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Zkratka { $shortcut } se používá na více místech. To může způsobit její neočekávané chování.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Tuto zkratku už používá { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Zobrazit další
         [few] Zobrazit { $numberToShow } další
        *[other] Zobrazit { $numberToShow } dalších
     }
-
 shortcuts-card-collapse-button = Zobrazit méně
-
 header-back-button =
     .title = Zpátky
 
@@ -318,15 +265,12 @@ discopane-intro =
         [neuter] { -brand-product-name(case: "acc") }
        *[other] aplikaci { -brand-product-name }
     } díky jejich jedinečné bezpečnosti a funkcím.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Některá z těchto doporučení se zobrazují na základě informací o ostatních
     vámi nainstalovaných rozšíření, nastavení profilu a statistik o používání.
 discopane-notice-learn-more = Zjistit více
-
 privacy-policy = Zásady ochrany osobních údajů
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -347,7 +291,7 @@ install-theme-button = Nainstalovat vzhled
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Správa
 find-more-addons = Najít další doplňky
-
+find-more-themes = Najít další vzhledy
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -373,31 +317,31 @@ preferences-addon-button =
 details-addon-button = Podrobnosti
 release-notes-addon-button = Poznámky k vydání
 permissions-addon-button = Oprávnění
-
 extension-enabled-heading = Povolená rozšíření
 extension-disabled-heading = Zakázaná rozšíření
-
 theme-enabled-heading = Aktivní vzhled
 theme-disabled-heading = Zakázané vzhledy
-
+theme-monochromatic-heading = Palety barev
+theme-monochromatic-subheading =
+    Nové palety barev pro { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    } dostupné po omezenou dobu.
 plugin-enabled-heading = Povolené moduly
 plugin-disabled-heading = Zakázané moduly
-
 dictionary-enabled-heading = Povolené slovníky
 dictionary-disabled-heading = Zakázané slovníky
-
 locale-enabled-heading = Povolené jazyky
 locale-disabled-heading = Zakázané jazyky
-
 always-activate-button = Vždy spustit
 never-activate-button = Nespouštět
-
 addon-detail-author-label = Autor
 addon-detail-version-label = Verze
 addon-detail-last-updated-label = Poslední aktualizace
 addon-detail-homepage-label = Domovská stránka
 addon-detail-rating-label = Hodnocení
-
 # Message for add-ons with a staged pending update.
 install-postponed-message =
     Toto rozšíření bude aktualizováno během restartu { -brand-short-name.gender ->
@@ -407,18 +351,15 @@ install-postponed-message =
        *[other] aplikace { -brand-short-name }
     }.
 install-postponed-button = Aktualizovat hned
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Hodnoceno { NUMBER($rating, maximumFractionDigits: 1) } z 5 hvězdiček
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (zakázáno)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -435,14 +376,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Doplněk <span data-l10n-name="addon-name">{ $addon }</span> byl odebrán.
 pending-uninstall-undo-button = Vrátit zpět
-
 addon-detail-updates-label = Automatické aktualizace
 addon-detail-updates-radio-default = Výchozí nastavení
 addon-detail-updates-radio-on = Zapnuty
 addon-detail-updates-radio-off = Vypnuty
 addon-detail-update-check-label = Zkontrolovat aktualizace
 install-update-button = Aktualizovat
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -458,7 +397,6 @@ addon-detail-private-browsing-disallow = Nepovolit
 addon-badge-recommended2 =
     .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
     .aria-label = { addon-badge-recommended2.title }
-
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
@@ -472,19 +410,14 @@ addon-badge-verified2 =
 
 available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
-
 release-notes-loading = Načítání…
 release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
-
 addon-permissions-empty = Toto rozšíření nevyžaduje žádná oprávnění.
-
 addon-permissions-required = Vyžadovaná oprávnění pro základní funkce:
 addon-permissions-optional = Volitelná oprávnění pro dodatečné funkce:
 addon-permissions-learnmore = Zjistit více o oprávněních
-
 recommended-extensions-heading = Doporučená rozšíření
 recommended-themes-heading = Doporučené vzhledy
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Jste tvořiví? <a data-l10n-name="link">Vyrobte si vlastní vzhled pomocí Firefox Color.</a>
@@ -505,10 +438,8 @@ discover-heading =
        *[other] aplikaci { -brand-short-name }
     }
 shortcuts-heading = Správa klávesových zkratek pro rozšíření
-
 default-heading-search-label = Najít další doplňky
 addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
-
 addon-page-options-button =
     .title = Nástroje doplňků
