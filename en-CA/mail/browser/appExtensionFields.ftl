@@ -6,4 +6,6 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 extension-thunderbird-compact-light-name = Light
+extension-thunderbird-compact-light-description = A theme with a light colour scheme.
 extension-thunderbird-compact-dark-name = Dark
+extension-thunderbird-compact-dark-description = A theme with a dark colour scheme.
