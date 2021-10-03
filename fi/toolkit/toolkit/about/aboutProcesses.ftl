@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Prosessienhallinta
-
 # The Actions column
 about-processes-column-action =
     .title = Toiminnot
@@ -15,18 +14,22 @@ about-processes-shutdown-process =
     .title = Sulje välilehdet ja tapa prosessi
 about-processes-shutdown-tab =
     .title = Sulje välilehti
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Profiloi tämän prosessin kaikkia säikeitä { $duration } sekunnin ajan
+           *[other] Profiloi tämän prosessin kaikkia säikeitä { $duration } sekunnin ajan
+        }
 
 ## Column headers
 
 about-processes-column-name = Nimi
 about-processes-column-memory-resident = Muisti
 about-processes-column-cpu-total = Suoritin
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
 ## Process names
 ## Variables:
@@ -47,7 +50,6 @@ about-processes-socket-process = Verkko ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Esijaettu ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -83,7 +85,6 @@ about-processes-active-threads =
         [one] { $active }/{ $number } aktiivinen säie: { $list }
        *[other] { $active }/{ $number } aktiivista säiettä: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -95,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } ei-aktiivinen säie
        *[other] { $number } ei-aktiivista säiettä
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Säikeen id: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Välilehti: { $name }
 about-processes-preloaded-tab = Esiladattu uusi välilehti
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Alikehys: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -132,10 +129,8 @@ about-processes-frame-name-many = Alikehykset ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mittaus kesken)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = joutilas
     .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
@@ -154,7 +149,6 @@ about-processes-cpu-idle = joutilas
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Muutos: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
