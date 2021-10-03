@@ -4,18 +4,21 @@
 
 chat-joining-chat-icon2 =
     .alt = Pśizamkujo se chatoju
-
 chat-left-chat-icon2 =
     .alt = Jo spušćił chat
-
 chat-participant-owner-role-icon2 =
     .alt = Wobsejźaŕ
-
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
-
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
-
 chat-participant-voiced-role-icon2 =
     .alt = Wobźělnik móžo powěsći pósłaś
+chat-verify-identity =
+    .label = Identitu pśeglědowaś
+    .accesskey = I
+chat-identity-verified =
+    .label = Identita jo se južo pśeglědała
+chat-buddy-identity-status = Dowěra koděrowanja
+chat-buddy-identity-status-verified = Wobkšuśony
+chat-buddy-identity-status-unverified = Njewobkšuśony
