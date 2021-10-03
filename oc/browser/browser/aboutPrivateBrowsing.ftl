@@ -21,16 +21,13 @@ about-private-browsing-handoff-text = Recercar amb { $engine } o picar una adre�
 about-private-browsing-handoff-text-no-engine = Picar un tèrme de recercar o una adreça
 about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de navegacion privada.
 about-private-browsing-info-description = { -brand-short-name } escafa vòstre istoric de recèrcas e de navegacion quand quitatz l’aplicacion o tampatz totes los onglets e fenèstras de navegacion privada. Malgrat qu’aquò vos faga pas venir anonim pels sites web o vòstre provesidor Internet, fa venir mai simple de gardar privat çò que fasètz en linha pels autres qu’utilizan aqueste ordenador.
-
 about-private-browsing-need-more-privacy = Volètz mai de confidencialitat ?
 about-private-browsing-turn-on-vpn = Ensajatz { -mozilla-vpn-brand-name }
-
+about-private-browsing-info-description-private-window = Fenèstra privada : { -brand-short-name } escafa l’istoric de vòstras recèrcas e de vòstra navegacion a la tampadura de las fenèstras privada. Mas vos fa pas venir anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } escafa l’istoric de vòstras recèrcas e de vòstra navegacion a la tampadura de las fenèstras privada, mas vos fa pas venir anonim.
 about-private-browsing-learn-more-link = Ne saber mai
-
 about-private-browsing-hide-activity = Amagatz vòstras activitats e vòstres emplaçaments, pertot ont navigatz
 about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
