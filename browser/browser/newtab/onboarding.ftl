@@ -203,7 +203,7 @@ mr2-onboarding-colorway-label-bold = Forte
 mr2-onboarding-theme-label-auto = Automatico
 
 # This string will be used for Default theme
-mr2-onboarding-theme-label-default = Predefinito
+mr2-onboarding-theme-label-default = Tema predefinito
 
 
 mr1-onboarding-theme-header = Uno stile unico
