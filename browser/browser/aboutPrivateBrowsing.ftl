@@ -36,6 +36,8 @@ about-private-browsing-info-description-private-window = Anonymní okno: { -bran
 about-private-browsing-info-description-simplified = { -brand-short-name } vymaže vaši historii vyhledávání a navštívených stránek po zavření všech anonymních oken, ale ani s touto funkcí nejste na internetu zcela neviditelní.
 about-private-browsing-learn-more-link = Zjistit více
 about-private-browsing-hide-activity = Skryjte své aktivity a polohu, ať už web prohlížíte odkudkoliv
+about-private-browsing-get-privacy = Ochraňte své soukromí, ať jste kdekoliv
+about-private-browsing-hide-activity-1 = Skryjte informace o svém prohlížením se službou { -mozilla-vpn-brand-name }. Jediné klepnutí naváže bezpečné spojení, a to i na veřejných Wi-Fi sítích.
 about-private-browsing-prominent-cta =
     Ochraňte své soukromí { -mozilla-vpn-brand-name.gender ->
         [masculine] s { -mozilla-vpn-brand-name(case: "ins") }
