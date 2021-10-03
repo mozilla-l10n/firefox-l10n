@@ -116,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restaura la sessió anterior
     .accesskey = s
+startup-restore-windows-and-tabs =
+    .label = Obre les finestres i pestanyes anteriors
+    .accesskey = s
 startup-restore-warn-on-quit =
     .label = Avisa en sortir del navegador
 disable-extension =
@@ -130,6 +133,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisa en tancar diverses pestanyes
     .accesskey = d
+confirm-on-close-multiple-tabs =
+    .label = Confirma abans de tancar diverses pestanyes de cop
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Confirma abans de sortir amb { $quitKey }
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = Avisa quan el fet d'obrir moltes pestanyes pugui alentir el { -brand-short-name }
     .accesskey = o
@@ -206,6 +220,7 @@ confirm-browser-language-change-button = Aplica i reinicia
 translate-web-pages =
     .label = Tradueix el contingut web
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traducció feta per <img data-l10n-name="logo"/>
@@ -761,6 +776,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Anteriorment anomenada «Contrasenya mestra»
 forms-primary-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya principal que no sigui buida.
 forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
+forms-windows-sso =
+    .label = Permet l'inici de sessió únic del Windows per a comptes laborals i acadèmics de Microsoft
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 
