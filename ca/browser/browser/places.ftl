@@ -79,6 +79,16 @@ places-remove-folder =
            *[other] Elimina les carpetes
         }
     .accesskey = m
+places-edit-folder2 =
+    .label = Edita la carpeta…
+    .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Suprimeix la carpeta
+           *[other] Suprimeix les carpetes
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Adreces d'interès gestionades
@@ -97,9 +107,19 @@ places-remove-bookmark =
            *[other] Elimina les adreces d'interès
         }
     .accesskey = m
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Suprimeix l'adreça d'interès
+           *[other] Suprimeix les adreces d'interès
+        }
+    .accesskey = S
 places-manage-bookmarks =
     .label = Gestiona les adreces d'interès
     .accesskey = G
+places-forget-about-this-site-confirmation-title = Voleu oblidar aquest lloc?
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;
