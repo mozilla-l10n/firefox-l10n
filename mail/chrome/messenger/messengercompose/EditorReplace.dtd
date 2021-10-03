@@ -12,7 +12,7 @@
 <!ENTITY caseSensitiveCheckbox.label "Sensibil la litere mari și mici">
 <!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Încadrare de jur-împrejur">
-<!ENTITY wrapCheckbox.accesskey "p">
+<!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY backwardsCheckbox.label "Caută înapoi">
 <!ENTITY backwardsCheckbox.accesskey "a">
 <!ENTITY findNextButton.label "Mergi la rezultatul următor">
