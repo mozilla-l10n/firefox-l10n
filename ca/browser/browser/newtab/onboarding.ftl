@@ -296,3 +296,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Gràcies per triar-nos
+mr2-onboarding-thank-you-text = El { -brand-short-name } és un navegador independent que té el suport d'una organització sense ànim de lucre. Tots junts, fem que el web sigui més segur, més saludable i més privat.
+mr2-onboarding-start-browsing-button-label = Comença a navegar
