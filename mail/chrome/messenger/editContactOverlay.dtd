@@ -14,7 +14,7 @@
 <!ENTITY editContactAddressBook.label "Catálogo de endereços:">
 <!ENTITY editContactAddressBook.accesskey "t">
 
-<!ENTITY editContactPanelDone.label "Concluído">
+<!ENTITY editContactPanelDone.label "Pronto">
 <!ENTITY editContactPanelDone.accesskey "C">
 
 <!ENTITY contactMoveDisabledWarning.description "Você não pode alterar o catálogo de endereços porque o contato está em uma lista de emails.">

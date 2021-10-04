@@ -518,8 +518,8 @@
 <!ENTITY getMsgButton1.label "Receber mensagens">
 <!ENTITY newMsgButton.label "Escrever">
 <!ENTITY replyButton.label "Responder">
-<!ENTITY replyAllButton.label "Re: Todos">
-<!ENTITY replyListButton.label "Re: Lista">
+<!ENTITY replyAllButton.label "Responder a todos">
+<!ENTITY replyListButton.label "Responder à lista">
 <!ENTITY forwardButton.label "Encaminhar">
 <!ENTITY fileButton.label "Mover">
 <!ENTITY archiveButton.label "Arquivar">
@@ -750,9 +750,9 @@
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup2.label "Responder ao grupo de notícias">
 <!ENTITY contextReplyNewsgroup2.accesskey "p">
-<!ENTITY contextReplyAll.label "Re: Todos">
+<!ENTITY contextReplyAll.label "Responder a todos">
 <!ENTITY contextReplyAll.accesskey "T">
-<!ENTITY contextReplyList.label "Re: Lista">
+<!ENTITY contextReplyList.label "Responder à lista">
 <!ENTITY contextReplyList.accesskey "s">
 <!ENTITY contextForward.label "Encaminhar">
 <!ENTITY contextForward.accesskey "E">
@@ -919,7 +919,7 @@
 <!ENTITY openLinkInBrowser.accesskey "A">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Concluído">
+<!ENTITY statusText.label "Pronto">
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizar">
