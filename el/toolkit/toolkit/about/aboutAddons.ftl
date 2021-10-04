@@ -250,6 +250,7 @@ install-theme-button = Εγκατάσταση θέματος
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Διαχείριση
 find-more-addons = Εύρεση περισσότερων προσθέτων
+find-more-themes = Εύρεση περισσότερων θεμάτων
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
