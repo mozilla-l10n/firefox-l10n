@@ -64,6 +64,17 @@ upgrade-dialog-default-secondary-button = Teraz nie
 upgrade-dialog-theme-title-2 = Začnite s novým čistým vzhľadom
 upgrade-dialog-theme-system = Systémová téma vzhľadu
     .title = Nasleduje nastavenia operačného systému pre tlačidlá, ponuky a okná
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Život vo farbách
+upgrade-dialog-start-subtitle = Nové živé farebné prevedenie. K dispozícii na obmedzený čas.
+upgrade-dialog-start-primary-button = Preskúmajte farebné témy
+upgrade-dialog-start-secondary-button = Teraz nie
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Svetlá
     .title = Použije svetlú tému pre tlačidlá, ponuky a okná
 upgrade-dialog-theme-dark = Tmavá
@@ -74,3 +85,6 @@ upgrade-dialog-theme-keep = Ponechať doterajšiu
     .title = Zachová tému, ktorú ste používali pre aktualizáciou { -brand-short-name(case: "gen") }
 upgrade-dialog-theme-primary-button = Uložiť tému
 upgrade-dialog-theme-secondary-button = Teraz nie
+
+## Thank you screen
+
