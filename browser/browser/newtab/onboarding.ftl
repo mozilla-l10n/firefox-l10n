@@ -153,6 +153,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importer frå { $previo
 mr1-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
 mr1-onboarding-import-secondary-button-label = Ikkje no
 mr2-onboarding-colorway-header = Livet i fargar
+mr2-onboarding-colorway-secondary-button-label = Ikkje no
 mr1-onboarding-theme-header = Gjer han til din eigen
 mr1-onboarding-theme-subtitle = Tilpass { -brand-short-name } med eit tema.
 mr1-onboarding-theme-primary-button-label = Lagre tema
