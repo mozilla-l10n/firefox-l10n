@@ -150,7 +150,7 @@ mr1-onboarding-import-primary-button-label-no-attribution = Importar do navegado
 mr1-onboarding-import-secondary-button-label = Agora não
 mr2-onboarding-colorway-header = Vida em cores
 mr2-onboarding-colorway-subtitle = Novos esquemas vibrantes de cores. Disponíveis por tempo limitado.
-mr2-onboarding-colorway-primary-button-label = Salvar esquema de cores
+mr2-onboarding-colorway-primary-button-label = Aplicar esquema de cores
 mr2-onboarding-colorway-secondary-button-label = Agora não
 mr2-onboarding-colorway-label-soft = Suave
 mr2-onboarding-colorway-label-balanced = Equilibrado
@@ -253,21 +253,21 @@ mr1-onboarding-theme-description-alpenglow =
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
-    .title = Use este esquema de cores.
+    .title = Usar este esquema de cores.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = Use este esquema de cores.
+    .aria-description = Usar este esquema de cores.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = Conheça o esquema de cores { $colorwayName }.
+    .title = Conheça os esquemas de cores { $colorwayName }.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
-    .aria-description = Conheça o esquema de cores { $colorwayName }.
+    .aria-description = Conheça os esquemas de cores { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Conheça os temas padrão.

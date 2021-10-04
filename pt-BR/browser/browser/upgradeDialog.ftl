@@ -84,7 +84,7 @@ upgrade-dialog-colorway-theme-tooltip =
     .title = Conheça os temas padrão
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
 upgrade-dialog-colorway-colorway-tooltip =
-    .title = Conheça o esquema de cores { $colorwayName }
+    .title = Conheça os esquemas de cores { $colorwayName }
 upgrade-dialog-colorway-default-theme = Padrão
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Automático
