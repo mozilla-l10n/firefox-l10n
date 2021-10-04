@@ -4,18 +4,21 @@
 
 chat-joining-chat-icon2 =
     .alt = Đang tham gia trò chuyện
-
 chat-left-chat-icon2 =
     .alt = Đã rời khỏi cuộc trò chuyện
-
 chat-participant-owner-role-icon2 =
     .alt = Chủ sở hữu
-
 chat-participant-administrator-role-icon2 =
     .alt = Quản trị viên
-
 chat-participant-moderator-role-icon2 =
     .alt = Người xét duyệt
-
 chat-participant-voiced-role-icon2 =
     .alt = Người tham gia có thể gửi tin nhắn
+chat-verify-identity =
+    .label = Xác minh danh tính
+    .accesskey = I
+chat-identity-verified =
+    .label = Đã xác minh danh tính
+chat-buddy-identity-status = Mã hóa tin cậy
+chat-buddy-identity-status-verified = Đã xác minh
+chat-buddy-identity-status-unverified = Chưa xác minh
