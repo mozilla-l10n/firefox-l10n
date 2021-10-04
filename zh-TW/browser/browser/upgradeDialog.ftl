@@ -64,6 +64,17 @@ upgrade-dialog-default-secondary-button = 現在不要
 upgrade-dialog-theme-title-2 = 使用新佈景主題讓我們重新再出發
 upgrade-dialog-theme-system = 系統佈景主題
     .title = 依照作業系統設定的佈景主題顯示按鈕、選單、視窗
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = 現在不要
+
+## Colorway screen
+
+upgrade-dialog-colorway-default-theme = 預設
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = 自動
+    .title = 根據作業系統設定來顯示按鈕、選單、視窗的外觀。
 upgrade-dialog-theme-light = 亮色
     .title = 為按鈕、選單、視窗使用亮色佈景主題
 upgrade-dialog-theme-dark = 暗色
@@ -74,3 +85,6 @@ upgrade-dialog-theme-keep = 保留原設定
     .title = 使用您更新 { -brand-short-name } 前安裝使用的佈景主題
 upgrade-dialog-theme-primary-button = 儲存佈景主題
 upgrade-dialog-theme-secondary-button = 現在不要
+
+## Thank you screen
+
