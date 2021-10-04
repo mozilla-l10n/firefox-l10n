@@ -154,6 +154,9 @@ mr2-onboarding-colorway-primary-button-label = Guardar combinación de colores
 mr2-onboarding-colorway-secondary-button-label = No ahora
 mr2-onboarding-colorway-label-soft = Suave
 mr2-onboarding-colorway-label-balanced = Balanceado
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Fuerte
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Auto
 # This string will be used for Default theme
@@ -291,4 +294,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Gracias por elegirnos
+mr2-onboarding-thank-you-text = { -brand-short-name } es un navegador independiente respaldado por una organización sin fines de lucro. Juntos estamos haciendo que la web sea más segura, más saludable y más privada.
 mr2-onboarding-start-browsing-button-label = Empezar a navegar
