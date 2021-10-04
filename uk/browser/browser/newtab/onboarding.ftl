@@ -152,11 +152,11 @@ mr2-onboarding-colorway-header = Життя барвисте
 mr2-onboarding-colorway-subtitle = Сповнені життя нові барви. Доступні впродовж обмеженого часу.
 mr2-onboarding-colorway-primary-button-label = Зберегти забарвлення
 mr2-onboarding-colorway-secondary-button-label = Не зараз
-mr2-onboarding-colorway-label-soft = М'яка
-mr2-onboarding-colorway-label-balanced = Збалансована
+mr2-onboarding-colorway-label-soft = М'яке
+mr2-onboarding-colorway-label-balanced = Збалансоване
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-mr2-onboarding-colorway-label-bold = Насичена
+mr2-onboarding-colorway-label-bold = Насичене
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Авто
 # This string will be used for Default theme
