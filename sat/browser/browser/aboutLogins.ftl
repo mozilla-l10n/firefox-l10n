@@ -73,6 +73,7 @@ login-intro-instructions-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢ�
 login-intro-instructions-fxa-settings = ᱥᱟᱡᱟᱣ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱥᱭᱝᱠ >ᱥᱭᱝᱠᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ … ᱵᱚᱞᱚ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱪᱤᱱᱦᱟᱹᱯ ᱵᱟᱠᱚᱥ ᱵᱟᱪᱷᱟᱣ ᱡᱮ ᱾
 login-intro-instructions-fxa-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name }ᱪᱟᱞᱟᱜ ᱢᱮ, ᱥᱟᱹᱯᱚᱴ ᱞᱟᱹᱜᱤᱫ</a> ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱾
 about-logins-intro-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link"> ᱠᱷᱚᱱ { -lockwise-brand-short-name }</a> ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
+about-logins-intro-import2 = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚᱱ { -brand-product-name } ᱨᱮᱱᱟᱜ ᱵᱟᱦᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ, ᱟᱢ<a data-l10n-name="import-browser-link"> ᱤᱢᱯᱚᱨᱴ ᱫᱟᱲᱮᱭᱟᱜ ᱟᱢᱮᱴᱟᱜ ᱵᱽᱨᱳᱣᱡᱟᱨ ᱠᱷᱚᱱ<a data-l10n-name="import-file-link"> </a> ᱯᱷᱟᱭᱤᱞ ᱠᱷᱚᱱ
 
 ## Login
 
@@ -80,6 +81,7 @@ login-item-new-login-title = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
 login-item-edit-button = ᱥᱟᱯᱲᱟᱣ
 about-logins-login-item-remove-button = ᱚᱪᱚᱜᱽ
 login-item-origin-label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱴᱷᱤᱠᱬᱟᱹ
+login-item-tooltip-message = ᱱᱤᱦᱟᱹᱛᱤ ᱜᱮ ᱱᱚᱶᱟ ᱢᱤᱞᱟᱹᱣ ᱢᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱮᱱᱟᱜ ᱮᱜᱽᱡᱮᱠᱴ ᱮᱰᱨᱮᱥ ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ ᱵᱚᱞᱚᱱ ᱟᱢ ᱾
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ
@@ -107,6 +109,8 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱵᱚᱞᱚᱱ ᱦᱚᱨ ᱯᱷᱮᱰᱟᱛ ᱢᱮ, ᱟᱢᱟᱜ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱣᱤᱱᱰᱳᱣ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱠᱷᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
