@@ -64,6 +64,12 @@ upgrade-dialog-default-secondary-button = Ikke nå
 upgrade-dialog-theme-title-2 = Få en ny start med et nytt tema
 upgrade-dialog-theme-system = Systemtema
     .title = Følg operativsystem-temaet for knapper, menyer og vindu
+
+## Start screen
+
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Lyst
     .title = Bruk et lyst tema for knapper, menyer og vinduer
 upgrade-dialog-theme-dark = Mørkt
@@ -74,3 +80,16 @@ upgrade-dialog-theme-keep = Behold tidlegare tema
     .title = Bruk temaet du hadde installert før du oppdaterte { -brand-short-name }
 upgrade-dialog-theme-primary-button = Lagre tema
 upgrade-dialog-theme-secondary-button = Ikke nå
+upgrade-dialog-colorway-variation-soft = Myk
+    .title = Bruk denne fargesamansetningen
+upgrade-dialog-colorway-variation-balanced = Balansert
+    .title = Bruk denne fargesamansetningen
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Modig
+    .title =
+        Bruk dennne fargesamansetningen
+        Bruk denne fargesammensetningen
+
+## Thank you screen
+
