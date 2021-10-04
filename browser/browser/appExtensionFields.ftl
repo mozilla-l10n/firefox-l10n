@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Chủ đề hệ thống — tự động
 extension-default-theme-description = Áp dụng theo cài đặt hệ điều hành cho các nút, menu và cửa sổ.
 extension-firefox-compact-light-name = Sáng
 extension-firefox-compact-light-description = Một chủ đề với tông màu sáng.
@@ -19,3 +21,8 @@ extension-firefox-alpenglow-description = Sử dụng giao diện đầy màu s�
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Mềm
+extension-colorways-balanced-name = { $colorway-name } — Cân bằng
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Đậm
