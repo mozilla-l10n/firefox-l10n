@@ -151,7 +151,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importera från { $prev
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importera från tidigare webbläsare
 mr1-onboarding-import-secondary-button-label = Inte nu
-mr2-onboarding-colorway-header = Livet i färg
+mr2-onboarding-colorway-header = Ett liv i färg
 mr2-onboarding-colorway-subtitle = Levande nya colorways. Tillgängliga under en begränsad tid.
 mr2-onboarding-colorway-primary-button-label = Spara colorway
 mr2-onboarding-colorway-secondary-button-label = Inte nu

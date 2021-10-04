@@ -77,6 +77,7 @@ upgrade-dialog-start-secondary-button = Inte nu
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Välj din palett
+upgrade-dialog-colorway-home-checkbox = Växla till Firefox startsida med en bakgrund med tema
 upgrade-dialog-colorway-primary-button = Spara colorway
 upgrade-dialog-colorway-secondary-button = Behåll tidigare tema
 upgrade-dialog-colorway-theme-tooltip =
