@@ -82,7 +82,7 @@ upgrade-dialog-start-secondary-button = Non adesso
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Scegli la tua combinazione di colori
-upgrade-dialog-colorway-home-checkbox = Usa uno sfondo a tema per la pagina iniziale di Firefox
+upgrade-dialog-colorway-home-checkbox = Passa alla Pagina iniziale di Firefox con uno sfondo a tema
 upgrade-dialog-colorway-primary-button = Salva tonalità
 upgrade-dialog-colorway-secondary-button = Mantieni il tema precedente
 upgrade-dialog-colorway-theme-tooltip =
