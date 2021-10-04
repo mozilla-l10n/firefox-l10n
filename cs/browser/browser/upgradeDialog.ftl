@@ -109,6 +109,7 @@ upgrade-dialog-start-secondary-button = Teď ne
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Vyberte si paletu
+upgrade-dialog-colorway-home-checkbox = Přepnout na domovskou stránku Firefoxu s tématem na pozadí
 upgrade-dialog-colorway-primary-button = Uložit paletu barev
 upgrade-dialog-colorway-secondary-button = Ponechat předchozí vzhled
 upgrade-dialog-colorway-theme-tooltip =
