@@ -6,7 +6,7 @@
 about-logins-page-title = Thông tin đăng nhập & mật khẩu
 login-filter =
     .placeholder = Tìm kiếm thông tin đăng nhập
-create-login-button = Tạo đăng nhập mới
+create-login-button = Tạo thông tin đăng nhập mới
 fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
 fxaccounts-sign-in-sync-button = Đăng nhập vào đồng bộ hóa
 fxaccounts-avatar-button =
@@ -75,7 +75,7 @@ about-logins-intro-import2 = Nếu thông tin đăng nhập của bạn được
 
 ## Login
 
-login-item-new-login-title = Tạo đăng nhập mới
+login-item-new-login-title = Tạo thông tin đăng nhập mới
 login-item-edit-button = Chỉnh sửa
 about-logins-login-item-remove-button = Xóa
 login-item-origin-label = Địa chỉ trang web
