@@ -64,6 +64,19 @@ upgrade-dialog-default-secondary-button = Не зараз
 upgrade-dialog-theme-title-2 = Розпочніть роботу начисто зі свіжою темою
 upgrade-dialog-theme-system = Системна тема
     .title = Використовувати тему операційної системи для кнопок, меню та вікон
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Життя барвисте
+upgrade-dialog-start-subtitle = Сповнені життя нові барви. Доступні впродовж обмеженого часу.
+upgrade-dialog-start-primary-button = Переглянути барви
+upgrade-dialog-start-secondary-button = Не зараз
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Оберіть свою палітру
 upgrade-dialog-theme-light = Світла
     .title = Використовувати світлу тему для кнопок, меню та вікон
 upgrade-dialog-theme-dark = Темна
@@ -74,3 +87,6 @@ upgrade-dialog-theme-keep = Зберегти попередню
     .title = Використовувати тему, що була встановлена до оновлення { -brand-short-name }
 upgrade-dialog-theme-primary-button = Зберегти тему
 upgrade-dialog-theme-secondary-button = Не зараз
+
+## Thank you screen
+
