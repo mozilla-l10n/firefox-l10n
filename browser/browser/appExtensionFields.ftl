@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Thema'r system — awto
 extension-default-theme-description = Dilynwch osodiad y system weithredu ar gyfer botymau, dewislenni a ffenestri.
 extension-firefox-compact-light-name = Golau
 extension-firefox-compact-light-description = Thema gyda chynllun lliw golau.
@@ -19,3 +21,8 @@ extension-firefox-alpenglow-description = Defnyddiwch wedd liwgar ar gyfer botym
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Meddal
+extension-colorways-balanced-name = { $colorway-name } — Cytbwys
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Beiddgar
