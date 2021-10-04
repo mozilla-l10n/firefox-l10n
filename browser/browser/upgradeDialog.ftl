@@ -67,13 +67,18 @@ upgrade-dialog-theme-system = Θέμα συστήματος
 
 ## Start screen
 
+upgrade-dialog-start-subtitle = Νέοι, δυναμικοί χρωματικοί συνδυασμοί. Διαθέσιμοι για περιορισμένο χρονικό διάστημα.
+upgrade-dialog-start-primary-button = Εξερεύνηση χρωματικών συνδυασμών
 upgrade-dialog-start-secondary-button = Όχι τώρα
 
 ## Colorway screen
 
 upgrade-dialog-colorway-secondary-button = Διατήρηση προηγούμενου θέματος
-upgrade-dialog-theme-light = Φωτεινό
-    .title = Χρήση του φωτεινού θέματος για τα κουμπιά, τα μενού και τα παράθυρα
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Εξερεύνηση χρωματικών συνδυασμών «{ $colorwayName }»
+upgrade-dialog-theme-light = Ανοιχτόχρωμο
+    .title = Ανοιχτόχρωμο θέμα για τα κουμπιά, τα μενού και τα παράθυρα
 upgrade-dialog-theme-dark = Σκοτεινό
     .title = Χρήση του σκοτεινού θέματος για τα κουμπιά, τα μενού και τα παράθυρα
 upgrade-dialog-theme-alpenglow = Alpenglow

@@ -79,8 +79,8 @@ onboarding-multistage-theme-primary-button-label2 = Τέλος
 onboarding-multistage-theme-secondary-button-label = Όχι τώρα
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Αυτόματο
-onboarding-multistage-theme-label-light = Φωτεινό
-onboarding-multistage-theme-label-dark = Σκούρο
+onboarding-multistage-theme-label-light = Ανοιχτόχρωμο
+onboarding-multistage-theme-label-dark = Σκουρόχρωμο
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # "Hero Text" displayed on left side of welcome screen.
@@ -150,6 +150,7 @@ mr1-onboarding-import-primary-button-label-attribution = Εισαγωγή από
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 mr1-onboarding-import-secondary-button-label = Όχι τώρα
+mr2-onboarding-colorway-subtitle = Νέοι, δυναμικοί χρωματικοί συνδυασμοί. Διαθέσιμοι για περιορισμένο χρονικό διάστημα.
 mr2-onboarding-colorway-secondary-button-label = Όχι τώρα
 mr1-onboarding-theme-header = Κάντε το δικό σας
 mr1-onboarding-theme-subtitle = Εξατομικεύστε το { -brand-short-name } με ένα θέμα.
@@ -157,7 +158,7 @@ mr1-onboarding-theme-primary-button-label = Αποθήκευση θέματος
 mr1-onboarding-theme-secondary-button-label = Όχι τώρα
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Θέμα συστήματος
-mr1-onboarding-theme-label-light = Φωτεινό
+mr1-onboarding-theme-label-light = Ανοιχτόχρωμο
 mr1-onboarding-theme-label-dark = Σκοτεινό
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
@@ -206,12 +207,12 @@ onboarding-multistage-theme-description-dark =
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
-        Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
+        Πολύχρωμη εμφάνιση για τα κουμπιά,
         τα μενού και τα παράθυρα.
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
-        Χρήση πολύχρωμης εμφάνισης για τα κουμπιά,
+        Πολύχρωμη εμφάνιση για τα κουμπιά,
         τα μενού και τα παράθυρα.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
@@ -262,3 +263,6 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Εξερευνήστε τα προεπιλεγμένα θέματα.
+
+## Strings for Thank You page
+

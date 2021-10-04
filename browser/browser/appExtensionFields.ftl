@@ -8,12 +8,12 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Θέμα συστήματος — αυτόματο
 extension-default-theme-description = Χρήση ρύθμισης λειτουργικού συστήματος για κουμπιά, μενού και παράθυρα.
-extension-firefox-compact-light-name = Φωτεινό
+extension-firefox-compact-light-name = Ανοιχτόχρωμο
 extension-firefox-compact-light-description = Ένα θέμα με φωτεινό σύνολο χρωμάτων.
-extension-firefox-compact-dark-name = Σκούρο
+extension-firefox-compact-dark-name = Σκουρόχρωμο
 extension-firefox-compact-dark-description = Ένα θέμα με σκούρο σύνολο χρωμάτων.
 extension-firefox-alpenglow-name = Firefox Alpenglow
-extension-firefox-alpenglow-description = Χρήση πολύχρωμης εμφάνισης για τα κουμπιά, τα μενού και τα παράθυρα.
+extension-firefox-alpenglow-description = Πολύχρωμη εμφάνιση για τα κουμπιά, τα μενού και τα παράθυρα.
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
@@ -21,3 +21,8 @@ extension-firefox-alpenglow-description = Χρήση πολύχρωμης εμφ
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Απαλό
+extension-colorways-balanced-name = { $colorway-name } — Ισορροπημένο
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Έντονο
