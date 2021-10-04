@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Θέμα συστήματος — αυτόματο
 extension-thunderbird-compact-light-name = Ανοιχτόχρωμο
 extension-thunderbird-compact-light-description = Ένα θέμα με ανοιχτόχρωμο σύνολο χρωμάτων.
 extension-thunderbird-compact-dark-name = Σκουρόχρωμο
