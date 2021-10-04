@@ -64,6 +64,28 @@ upgrade-dialog-default-secondary-button = Nic nětko
 upgrade-dialog-theme-title-2 = Započńće z čistym startom z čerstwej drastu
 upgrade-dialog-theme-system = Systemowa drasta
     .title = Drastu dźěłoweho systema za tłóčatka, menije a wokna wužiwać
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Žiwjenje w barbje
+upgrade-dialog-start-subtitle = Žiwe nowe barbowe kombinacije. Za wobmjezowany čas k dispoziciji.
+upgrade-dialog-start-primary-button = Barbowe kombinacije wuslědźić
+upgrade-dialog-start-secondary-button = Nic nětko
+
+## Colorway screen
+
+upgrade-dialog-colorway-primary-button = Barbowu kombinaciju składować
+upgrade-dialog-colorway-secondary-button = Předchadnu drastu wobchować
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Standardne drasty wuslědźić
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Wuslědźće barbowe kombinacije { $colorwayName }
+upgrade-dialog-colorway-default-theme = Standard
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Awtomatisce
+    .title = Drastu dźěłoweho systema za tłóčatka, menije a wokna wužiwać
 upgrade-dialog-theme-light = Swětły
     .title = Swětłu drastu za tłóčatka, menije a wokna wužiwać
 upgrade-dialog-theme-dark = Ćmowy
@@ -74,3 +96,18 @@ upgrade-dialog-theme-keep = Předchadnu wobchować
     .title = Drastu wužiwać, kotruž sće před aktualizanjom { -brand-short-name } instalował
 upgrade-dialog-theme-primary-button = Drastu składować
 upgrade-dialog-theme-secondary-button = Nic nětko
+upgrade-dialog-colorway-variation-soft = Cuni
+    .title = Tutu barbowu kombinaciju wužiwać
+upgrade-dialog-colorway-variation-balanced = Wurunany
+    .title = Tutu barbowu kombinaciju wužiwać
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Jaskrawy
+    .title = Tutu barbowu kombinaciju wužiwać
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Dźakujemy so, zo sće nas wubrał
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } je njewotwisny wobhladowak powšitkownosći wužitneje organizacije. Hromadźe činimy web wěsćiši, strowši a priwatniši.
+upgrade-dialog-thankyou-primary-button = Přehladowanje započeć
