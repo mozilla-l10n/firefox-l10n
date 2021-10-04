@@ -67,16 +67,28 @@ upgrade-dialog-theme-system = Θέμα συστήματος
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Ζωή με χρώμα
 upgrade-dialog-start-subtitle = Νέοι, δυναμικοί χρωματικοί συνδυασμοί. Διαθέσιμοι για περιορισμένο χρονικό διάστημα.
 upgrade-dialog-start-primary-button = Εξερεύνηση χρωματικών συνδυασμών
 upgrade-dialog-start-secondary-button = Όχι τώρα
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Επιλέξτε την παλέτα σας
+upgrade-dialog-colorway-home-checkbox = Εναλλαγή στην Αρχική Firefox με θεματικό φόντο
+upgrade-dialog-colorway-primary-button = Αποθήκευση χρωματικού συνδυασμού
 upgrade-dialog-colorway-secondary-button = Διατήρηση προηγούμενου θέματος
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Εξερευνήστε τα προεπιλεγμένα θέματα
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
 upgrade-dialog-colorway-colorway-tooltip =
     .title = Εξερεύνηση χρωματικών συνδυασμών «{ $colorwayName }»
+upgrade-dialog-colorway-default-theme = Προεπιλογή
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Αυτόματο
+    .title = Χρήση θέματος λειτουργικού συστήματος για τα κουμπιά, τα μενού και τα παράθυρα
 upgrade-dialog-theme-light = Ανοιχτόχρωμο
     .title = Ανοιχτόχρωμο θέμα για τα κουμπιά, τα μενού και τα παράθυρα
 upgrade-dialog-theme-dark = Σκοτεινό
@@ -87,7 +99,18 @@ upgrade-dialog-theme-keep = Διατήρηση προηγούμενου
     .title = Χρήση του θέματος που είχατε ορίσει πριν την ενημέρωση του { -brand-short-name }
 upgrade-dialog-theme-primary-button = Αποθήκευση θέματος
 upgrade-dialog-theme-secondary-button = Όχι τώρα
+upgrade-dialog-colorway-variation-soft = Απαλό
+    .title = Χρήση χρωματικού συνδυασμού
+upgrade-dialog-colorway-variation-balanced = Ισορροπημένο
+    .title = Χρήση χρωματικού συνδυασμού
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Έντονο
+    .title = Χρήση χρωματικού συνδυασμού
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Ευχαριστούμε που μας επιλέξατε
+upgrade-dialog-thankyou-subtitle = Το { -brand-short-name } είναι ένα ανεξάρτητο πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Μαζί, κάνουμε το διαδίκτυο πιο ασφαλές, υγιές και ιδιωτικό.
 upgrade-dialog-thankyou-primary-button = Έναρξη περιήγησης

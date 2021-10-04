@@ -150,8 +150,19 @@ mr1-onboarding-import-primary-button-label-attribution = Εισαγωγή από
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 mr1-onboarding-import-secondary-button-label = Όχι τώρα
+mr2-onboarding-colorway-header = Ζωή με χρώμα
 mr2-onboarding-colorway-subtitle = Νέοι, δυναμικοί χρωματικοί συνδυασμοί. Διαθέσιμοι για περιορισμένο χρονικό διάστημα.
+mr2-onboarding-colorway-primary-button-label = Αποθήκευση χρωματικού συνδυασμού
 mr2-onboarding-colorway-secondary-button-label = Όχι τώρα
+mr2-onboarding-colorway-label-soft = Απαλό
+mr2-onboarding-colorway-label-balanced = Ισορροπημένο
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Έντονο
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Αυτόματο
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Προεπιλογή
 mr1-onboarding-theme-header = Κάντε το δικό σας
 mr1-onboarding-theme-subtitle = Εξατομικεύστε το { -brand-short-name } με ένα θέμα.
 mr1-onboarding-theme-primary-button-label = Αποθήκευση θέματος
@@ -257,6 +268,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Χρήση ενός δυναμικού, πολύχρωμου θέματος για τα κουμπιά,
         τα μενού και τα παράθυρα.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Χρήση αυτού του χρωματικού συνδυασμού.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Χρήση αυτού του χρωματικού συνδυασμού.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Εξερευνήστε τους χρωματικούς συνδυασμούς «{ $colorwayName }».
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Εξερευνήστε τους χρωματικούς συνδυασμούς «{ $colorwayName }».
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Εξερευνήστε τα προεπιλεγμένα θέματα.
@@ -266,3 +295,6 @@ mr2-onboarding-default-theme-description =
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Ευχαριστούμε που μας επιλέξατε
+mr2-onboarding-thank-you-text = Το { -brand-short-name } είναι ένα ανεξάρτητο πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Μαζί, κάνουμε το διαδίκτυο πιο ασφαλές, υγιές και ιδιωτικό.
+mr2-onboarding-start-browsing-button-label = Έναρξη περιήγησης
