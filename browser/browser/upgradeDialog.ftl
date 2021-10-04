@@ -75,6 +75,20 @@ upgrade-dialog-start-secondary-button = Teraz nie
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Zvoľte si paletu
+upgrade-dialog-colorway-home-checkbox = Prepnúť na domovskú stránku Firefoxu s témou na pozadí
+upgrade-dialog-colorway-primary-button = Uložiť farebnú tému
+upgrade-dialog-colorway-secondary-button = Ponechať predchádzajúcu tému
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Pozrite sa predvolené témy vzhľadu
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Pozrite sa na farebnú tému { $colorwayName }
+upgrade-dialog-colorway-default-theme = Predvolená
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatická
+    .title = Nasleduje nastavenia operačného systému pre tlačidlá, ponuky a okná.
 upgrade-dialog-theme-light = Svetlá
     .title = Použije svetlú tému pre tlačidlá, ponuky a okná
 upgrade-dialog-theme-dark = Tmavá
@@ -85,6 +99,18 @@ upgrade-dialog-theme-keep = Ponechať doterajšiu
     .title = Zachová tému, ktorú ste používali pre aktualizáciou { -brand-short-name(case: "gen") }
 upgrade-dialog-theme-primary-button = Uložiť tému
 upgrade-dialog-theme-secondary-button = Teraz nie
+upgrade-dialog-colorway-variation-soft = Jemná
+    .title = Použiť túto farebnú tému
+upgrade-dialog-colorway-variation-balanced = Vyvážená
+    .title = Použiť túto farebnú tému
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Výrazná
+    .title = Použiť túto farebnú tému
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Ďakujeme, že ste si nás vybrali
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } je nezávislý prehliadač podporovaný neziskovou organizáciou. Spoločne robíme web bezpečnejším, zdravším a s väčším ohľadom na súkromie.
+upgrade-dialog-thankyou-primary-button = Začať prehliadanie
