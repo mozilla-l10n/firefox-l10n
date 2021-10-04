@@ -21,7 +21,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Որոշիչ">
-<!ENTITY identityDesc.label "Յուրք. փոստարկղ անհատական է, այն ուղարկում է նշված տեղեկությունը Ձեր մասին, երբ որևէ մեկը ստանում է Ձեր նամակը։">
+<!ENTITY identityDesc.label "Յուրաքանչյուր փոստարկղ անհատական է, այն ուղարկում է նշված տեղեկությունը Ձեր մասին, երբ որևէ մեկը ստանում է Ձեր նամակը։">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Նշեք այն անունը, որը կերևա ուղարկված նամակների &quot;Ումից&quot; դաշտում">

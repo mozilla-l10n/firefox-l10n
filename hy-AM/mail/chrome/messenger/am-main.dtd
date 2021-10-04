@@ -2,15 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountName.label "Փոստարկղի անունը.">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Հիմնական որոշիչներ">
-<!ENTITY identityDesc.label "Յուրք. փոստարկղ ունի իր որոշիչը, դա այն տեղեկությունն է, որ այլ մարդիկ տեսնում են ընթերցելով Ձեր նամակները։">
+<!ENTITY identityDesc.label "Յուրաքանչյուր փոստարկղ ունի իր որոշիչը, դա այն տեղեկությունն է, որ այլ մարդիկ տեսնում են ընթերցելով Ձեր նամակները։">
 <!ENTITY name.label "Ձեր անունը.">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "էլ. փոստ.">
