@@ -78,6 +78,11 @@ upgrade-dialog-start-secondary-button = 暂时不要
 ## Colorway screen
 
 upgrade-dialog-colorway-primary-button = 保存配色
+upgrade-dialog-colorway-theme-tooltip =
+    .title = 探索默认主题
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = 探索 { $colorwayName } 配色
 upgrade-dialog-colorway-default-theme = 默认
 upgrade-dialog-theme-light = 明亮
     .title = 为按钮、菜单和窗口使用明亮配色主题
@@ -89,6 +94,18 @@ upgrade-dialog-theme-keep = 保留原设置
     .title = 使用您更新 { -brand-short-name } 前安装的主题
 upgrade-dialog-theme-primary-button = 保存主题
 upgrade-dialog-theme-secondary-button = 暂时不要
+upgrade-dialog-colorway-variation-soft = 柔和
+    .title = 使用此配色
+upgrade-dialog-colorway-variation-balanced = 平衡
+    .title = 使用此配色
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = 浓烈
+    .title = 使用此配色
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = 感谢您选用
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } 是一款由非营利组织支持的独立浏览器。我们共同努力，让网络环境更安全、更健康、也更有隐私。
+upgrade-dialog-thankyou-primary-button = 开始浏览
