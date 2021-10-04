@@ -5,6 +5,9 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Systémová téma — automatická
+extension-default-theme-description = Nasleduje nastavenia operačného systému pre tlačidlá, ponuky a okná.
 extension-thunderbird-compact-light-name = Svetlá
 extension-thunderbird-compact-light-description = Téma vzhľadu so svetlou schémou.
 extension-thunderbird-compact-dark-name = Tmavá
