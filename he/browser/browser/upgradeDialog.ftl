@@ -42,6 +42,23 @@ upgrade-dialog-default-secondary-button = לא כעת
 
 upgrade-dialog-theme-system = ערכת הנושא של המערכת
     .title = עוקב אחר ערכת הנושא של המערכות עבור כפתורים, תפריטים וחלונות
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = לא כעת
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = בחירת ערכת הצבעים שלך
+upgrade-dialog-colorway-home-checkbox = מעבר למסך הבית של Firefox עם רקע של ערכת הנושא
+upgrade-dialog-colorway-secondary-button = שמירת ערכת הנושא הקודמת
+upgrade-dialog-colorway-theme-tooltip =
+    .title = עיון בערכות נושא ברירת מחדל
+upgrade-dialog-colorway-default-theme = ברירת מחדל
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = אוטומטי
+    .title = עוקב אחר הגדרת מערכת ההפעלה עבור כפתורים, תפריטים וחלונות.
 upgrade-dialog-theme-light = בהירה
     .title = שימוש בערכת נושא בהירה עבור כפתורים, תפריטים וחלונות
 upgrade-dialog-theme-dark = כהה
@@ -52,3 +69,6 @@ upgrade-dialog-theme-keep = להשאיר את הקודמת
     .title = שימוש בערכת הנושא שהייתה מותקנת לפני העדכון של { -brand-short-name }
 upgrade-dialog-theme-primary-button = שמירת ערכת נושא
 upgrade-dialog-theme-secondary-button = לא כעת
+
+## Thank you screen
+
