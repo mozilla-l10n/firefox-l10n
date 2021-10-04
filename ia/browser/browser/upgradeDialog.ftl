@@ -77,6 +77,7 @@ upgrade-dialog-start-secondary-button = Non ora
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Elige tu combination de colores
+upgrade-dialog-colorway-home-checkbox = Passar al Pagina initial de Firefox con uno plano de fundo a thema
 upgrade-dialog-colorway-primary-button = Salvar combination de colores
 upgrade-dialog-colorway-secondary-button = Mantener le thema previe
 upgrade-dialog-colorway-theme-tooltip =
@@ -98,6 +99,18 @@ upgrade-dialog-theme-keep = Mantener le previe
     .title = Continuar a usar le thema jam installate ante le actualisation de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar le thema
 upgrade-dialog-theme-secondary-button = Non ora
+upgrade-dialog-colorway-variation-soft = Legier
+    .title = Usa iste combination de colores
+upgrade-dialog-colorway-variation-balanced = Balanciate
+    .title = Usa iste combination de colores
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Forte
+    .title = Usa iste combination de colores
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Gratias pro haber nos seligite
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } es un navigator independente supportate per un organisation non-lucrative. Insimul, nos rende le web plus secur, plus salubre e plus private.
+upgrade-dialog-thankyou-primary-button = Comenciar a navigar
