@@ -64,6 +64,30 @@ upgrade-dialog-default-secondary-button = Non ora
 upgrade-dialog-theme-title-2 = Initia ben con un thema nitide
 upgrade-dialog-theme-system = Thema del systema
     .title = Sequer le themas del systema operative pro buttones, menus e fenestras
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Vita a color
+upgrade-dialog-start-subtitle = Nove vibrante combinationes de colores. Disponibile pro tempore limitate.
+upgrade-dialog-start-primary-button = Discoperir combinationes de colores
+upgrade-dialog-start-secondary-button = Non ora
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Elige tu combination de colores
+upgrade-dialog-colorway-primary-button = Salvar combination de colores
+upgrade-dialog-colorway-secondary-button = Mantener le thema previe
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Discoperi le themas predefinite
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Discoperi le combinationes de colores { $colorwayName }
+upgrade-dialog-colorway-default-theme = Predefinite
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Auto
+    .title = Usa le mesme thema del systema operative pro buttones, menu e fenestras
 upgrade-dialog-theme-light = Clar
     .title = Usar un thema clar pro buttones, menus e fenestras
 upgrade-dialog-theme-dark = Obscur
@@ -74,3 +98,6 @@ upgrade-dialog-theme-keep = Mantener le previe
     .title = Continuar a usar le thema jam installate ante le actualisation de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar le thema
 upgrade-dialog-theme-secondary-button = Non ora
+
+## Thank you screen
+
