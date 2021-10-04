@@ -263,4 +263,4 @@ mr2-onboarding-default-theme-description =
 
 mr2-onboarding-thank-you-header = 感谢您选用
 mr2-onboarding-thank-you-text = { -brand-short-name } 是一款由非营利组织支持的独立浏览器。我们共同努力，让网络环境更安全、更健康、也更有隐私。
-mr2-onboarding-start-browsing-button-label = 开始上网
+mr2-onboarding-start-browsing-button-label = 开始浏览
