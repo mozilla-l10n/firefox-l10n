@@ -64,6 +64,15 @@ upgrade-dialog-default-secondary-button = Pas ara
 upgrade-dialog-theme-title-2 = Començatz ben amb un tèma aprestat
 upgrade-dialog-theme-system = Tèma sistèma
     .title = Seguir lo tèma del sistèma operatiu pels botons, menús e las fenèstras
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = La vida en color
+upgrade-dialog-start-secondary-button = Pas ara
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Clar
     .title = Utilizar un tèma clar pels botons, menús e las fenèstras
 upgrade-dialog-theme-dark = Fosc
@@ -74,3 +83,7 @@ upgrade-dialog-theme-keep = Gardar lo precedent
     .title = Utilizar lo tèma qu’installaretz abans la mesa a jorn de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar lo tèma
 upgrade-dialog-theme-secondary-button = Pas ara
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Començar de navegar
