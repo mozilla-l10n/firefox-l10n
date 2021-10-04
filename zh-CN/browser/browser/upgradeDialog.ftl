@@ -114,4 +114,4 @@ upgrade-dialog-colorway-variation-bold = 浓烈
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = 感谢您选用
 upgrade-dialog-thankyou-subtitle = { -brand-short-name } 是一款由非营利组织支持的独立浏览器。我们共同努力，让网络环境更安全、更健康、也更有隐私。
-upgrade-dialog-thankyou-primary-button = 开始浏览
+upgrade-dialog-thankyou-primary-button = 开始上网冲浪
