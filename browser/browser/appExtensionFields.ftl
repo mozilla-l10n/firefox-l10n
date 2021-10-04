@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Systemtema — automatisk
 extension-default-theme-description = Brukar same fargeskjema som operativsystemet for knappar, menyar og vindauge.
 extension-firefox-compact-light-name = Lyst
 extension-firefox-compact-light-description = Eit tema med ein lys fargeskala.
