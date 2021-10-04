@@ -64,6 +64,14 @@ upgrade-dialog-default-secondary-button = Όχι τώρα
 upgrade-dialog-theme-title-2 = Κάντε μια νέα αρχή με ένα φρέσκο θέμα
 upgrade-dialog-theme-system = Θέμα συστήματος
     .title = Χρήση του θέματος συστήματος για τα κουμπιά, τα μενού και τα παράθυρα
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = Όχι τώρα
+
+## Colorway screen
+
+upgrade-dialog-colorway-secondary-button = Διατήρηση προηγούμενου θέματος
 upgrade-dialog-theme-light = Φωτεινό
     .title = Χρήση του φωτεινού θέματος για τα κουμπιά, τα μενού και τα παράθυρα
 upgrade-dialog-theme-dark = Σκοτεινό
@@ -74,3 +82,7 @@ upgrade-dialog-theme-keep = Διατήρηση προηγούμενου
     .title = Χρήση του θέματος που είχατε ορίσει πριν την ενημέρωση του { -brand-short-name }
 upgrade-dialog-theme-primary-button = Αποθήκευση θέματος
 upgrade-dialog-theme-secondary-button = Όχι τώρα
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Έναρξη περιήγησης
