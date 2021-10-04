@@ -70,6 +70,13 @@ upgrade-dialog-theme-system = Systemtema
 
 ## Colorway screen
 
+upgrade-dialog-colorway-primary-button = Lagre fargesammensetting
+upgrade-dialog-colorway-secondary-button = Behold forrige tema
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Utforsk standardtemaer
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Utforsk { $colorwayName }-fargesammensettinger
 upgrade-dialog-theme-light = Lyst
     .title = Bruk et lyst tema for knapper, menyer og vinduer
 upgrade-dialog-theme-dark = Mørkt
@@ -81,15 +88,17 @@ upgrade-dialog-theme-keep = Behold tidlegare tema
 upgrade-dialog-theme-primary-button = Lagre tema
 upgrade-dialog-theme-secondary-button = Ikke nå
 upgrade-dialog-colorway-variation-soft = Myk
-    .title = Bruk denne fargesamansetningen
+    .title = Bruk denne fargesammensettingen
 upgrade-dialog-colorway-variation-balanced = Balansert
-    .title = Bruk denne fargesamansetningen
+    .title = Bruk denne fargesammensettingen
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
 upgrade-dialog-colorway-variation-bold = Modig
     .title =
-        Bruk dennne fargesamansetningen
+        Bruk dennne fargesammensettingen
         Bruk denne fargesammensetningen
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Takk for at du valgte oss
