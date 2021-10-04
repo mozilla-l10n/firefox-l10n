@@ -77,6 +77,18 @@ upgrade-dialog-start-secondary-button = Не зараз
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Оберіть свою палітру
+upgrade-dialog-colorway-home-checkbox = Змінити тему тла домівки Firefox
+upgrade-dialog-colorway-primary-button = Зберегти забарвлення
+upgrade-dialog-colorway-secondary-button = Залишити попередню тему
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Переглянути типові теми
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Переглянути забарвлення { $colorwayName }
+upgrade-dialog-colorway-default-theme = Типова
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Авто
+    .title = Дотримуватись теми операційної системи для кнопок, меню та вікон
 upgrade-dialog-theme-light = Світла
     .title = Використовувати світлу тему для кнопок, меню та вікон
 upgrade-dialog-theme-dark = Темна
@@ -87,6 +99,18 @@ upgrade-dialog-theme-keep = Зберегти попередню
     .title = Використовувати тему, що була встановлена до оновлення { -brand-short-name }
 upgrade-dialog-theme-primary-button = Зберегти тему
 upgrade-dialog-theme-secondary-button = Не зараз
+upgrade-dialog-colorway-variation-soft = М'яка
+    .title = Застосувати це забарвлення
+upgrade-dialog-colorway-variation-balanced = Збалансована
+    .title = Застосувати це забарвлення
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Насичена
+    .title = Застосувати це забарвлення
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Дякуємо, що обрали нас
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } — незалежний браузер, підтримуваний некомерційною організацією. Разом ми робимо інтернет безпечнішим, здоровішим та приватнішим.
+upgrade-dialog-thankyou-primary-button = Почати перегляд
