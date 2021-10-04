@@ -5,7 +5,10 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
-extension-firefox-compact-light-name = ᱢᱟᱨᱥᱟᱞ
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = ᱥᱤᱥᱴᱟᱢ ᱛᱷᱤᱢ — ᱚᱣᱴᱳ
+extension-default-theme-description = ᱵᱟᱴᱚᱢ, ᱢᱮᱱᱭᱩ ᱟᱨ ᱣᱤᱱᱰᱳᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱯᱨᱮᱥᱟᱱ ᱥᱤᱥᱴᱟᱢ ᱯᱟᱸᱡᱟᱭ ᱢᱮ ᱾
+extension-firefox-compact-light-name = ᱡᱚᱡᱚᱢ ᱥᱮᱫ
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
