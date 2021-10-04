@@ -66,6 +66,19 @@ upgrade-dialog-theme-title-2 =
     整装再出发
 upgrade-dialog-theme-system = 系统主题
     .title = 跟随系统主题配色显示按钮、菜单和窗口
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = 多彩生活
+upgrade-dialog-start-subtitle = 元气满满的新配色，限时提供。
+upgrade-dialog-start-primary-button = 探索配色
+upgrade-dialog-start-secondary-button = 暂时不要
+
+## Colorway screen
+
+upgrade-dialog-colorway-primary-button = 保存配色
+upgrade-dialog-colorway-default-theme = 默认
 upgrade-dialog-theme-light = 明亮
     .title = 为按钮、菜单和窗口使用明亮配色主题
 upgrade-dialog-theme-dark = 深邃
@@ -76,3 +89,6 @@ upgrade-dialog-theme-keep = 保留原设置
     .title = 使用您更新 { -brand-short-name } 前安装的主题
 upgrade-dialog-theme-primary-button = 保存主题
 upgrade-dialog-theme-secondary-button = 暂时不要
+
+## Thank you screen
+
