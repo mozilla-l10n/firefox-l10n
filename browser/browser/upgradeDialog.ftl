@@ -85,7 +85,7 @@ upgrade-dialog-colorway-theme-tooltip =
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
 upgrade-dialog-colorway-colorway-tooltip =
     .title = Переглянути забарвлення { $colorwayName }
-upgrade-dialog-colorway-default-theme = Типова
+upgrade-dialog-colorway-default-theme = Типові
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Авто
     .title = Дотримуватись теми операційної системи для кнопок, меню та вікон
@@ -99,13 +99,13 @@ upgrade-dialog-theme-keep = Зберегти попередню
     .title = Використовувати тему, що була встановлена до оновлення { -brand-short-name }
 upgrade-dialog-theme-primary-button = Зберегти тему
 upgrade-dialog-theme-secondary-button = Не зараз
-upgrade-dialog-colorway-variation-soft = М'яка
+upgrade-dialog-colorway-variation-soft = М'яке
     .title = Застосувати це забарвлення
-upgrade-dialog-colorway-variation-balanced = Збалансована
+upgrade-dialog-colorway-variation-balanced = Збалансоване
     .title = Застосувати це забарвлення
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-upgrade-dialog-colorway-variation-bold = Насичена
+upgrade-dialog-colorway-variation-bold = Насичене
     .title = Застосувати це забарвлення
 
 ## Thank you screen
