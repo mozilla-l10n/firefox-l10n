@@ -165,6 +165,13 @@ about-logins-confirm-remove-all-dialog-title =
         [two] { $count } ᱵᱚᱵᱚ ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱟᱢ ᱥᱮ?
        *[other] { $count } ᱵᱚᱵᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱟᱢ ᱥᱮ?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾  ᱱᱚᱶᱟ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+        [one] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾  ᱱᱚᱶᱟ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+        [two] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾  ᱱᱚᱶᱟ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+       *[other] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾ᱟᱢ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+    }
 about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
 about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
