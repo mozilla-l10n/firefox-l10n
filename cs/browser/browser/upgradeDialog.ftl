@@ -96,6 +96,30 @@ upgrade-dialog-default-secondary-button = Teď ne
 upgrade-dialog-theme-title-2 = Začněte s čistým a novým vzhledem
 upgrade-dialog-theme-system = Podle systému
     .title = Vzhled s barevným tématem podle nastavení operačního systému.
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Život v barvách
+upgrade-dialog-start-subtitle = Nové palety barev dostupné po omezenou dobu.
+upgrade-dialog-start-primary-button = Vyzkoušejte palety barev
+upgrade-dialog-start-secondary-button = Teď ne
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Vyberte si paletu
+upgrade-dialog-colorway-primary-button = Uložit paletu barev
+upgrade-dialog-colorway-secondary-button = Ponechat předchozí vzhled
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Vyzkoušet výchozí vzhledy
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Vyzkoušet paletu barev { $colorwayName }
+upgrade-dialog-colorway-default-theme = Výchozí
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automaticky
+    .title = Vzhled s barvami tlačítek, nabídek a oken podle nastavení operačního systému
 upgrade-dialog-theme-light = Světlý
     .title = Vzhled se světlým barevným tématem.
 upgrade-dialog-theme-dark = Tmavý
@@ -112,3 +136,18 @@ upgrade-dialog-theme-keep = Ponechat předchozí
         }
 upgrade-dialog-theme-primary-button = Uložit vzhled
 upgrade-dialog-theme-secondary-button = Teď ne
+upgrade-dialog-colorway-variation-soft = Jemná
+    .title = Použít tuto paletu barev
+upgrade-dialog-colorway-variation-balanced = Vyvážená
+    .title = Použít tuto paletu barev
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Výrazná
+    .title = Použít tuto paletu barev
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Děkujeme, že jste si vybrali nás
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } je nezávislý prohlížeč od neziskové organizace. Společně se snažíme udělat web bezpečnější, zdravější a s větším ohledem na soukromí.
+upgrade-dialog-thankyou-primary-button = Začít prohlížet
