@@ -152,6 +152,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
 mr1-onboarding-import-secondary-button-label = Agora não
+mr2-onboarding-colorway-header = Vida a cores
 mr2-onboarding-colorway-subtitle = Esquemas de cor vibrantes. Disponíveis por tempo limitado.
 mr2-onboarding-colorway-primary-button-label = Guardar esquema de cor
 mr2-onboarding-colorway-secondary-button-label = Agora não

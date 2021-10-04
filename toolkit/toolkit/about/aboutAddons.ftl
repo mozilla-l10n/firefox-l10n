@@ -3,109 +3,78 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Gestor de extras
-
 search-header =
     .placeholder = Pesquisar addons.mozilla.org
     .searchbuttonlabel = Pesquisar
-
 search-header-shortcut =
     .key = f
-
 list-empty-get-extensions-message = Obter extensões e temas em <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-installed =
     .value = Não tem instalado qualquer extra deste tipo
-
 list-empty-available-updates =
     .value = Nenhuma atualização encontrada
-
 list-empty-recent-updates =
     .value = Não atualizou quaisquer extras recentemente
-
 list-empty-find-updates =
     .label = Procurar atualizações
-
 list-empty-button =
     .label = Saber mais acerca dos extras
-
 help-button = Apoio dos extras
 sidebar-help-button-title =
     .title = Apoio dos extras
-
 addons-settings-button = Definições do { -brand-short-name }
 sidebar-settings-button-title =
     .title = Definições do { -brand-short-name }
-
 show-unsigned-extensions-button =
     .label = Algumas extensões não foram verificadas
-
 show-all-extensions-button =
     .label = Mostrar todas as extensões
-
 detail-version =
     .label = Versão
-
 detail-last-updated =
     .label = Última atualização
-
 detail-contributions-description = O programador deste extra pede para o ajudar no desenvolvimento com uma pequena contribuição.
-
 detail-contributions-button = Contribuir
     .title = Contribua para o desenvolvimento deste extra
     .accesskey = C
-
 detail-update-type =
     .value = Atualizações automáticas
-
 detail-update-default =
     .label = Predefinição
     .tooltiptext = Instalar atualizações automaticamente se for a predefinição
-
 detail-update-automatic =
     .label = Ligadas
     .tooltiptext = Instalar atualizações automaticamente
-
 detail-update-manual =
     .label = Desligadas
     .tooltiptext = Não instalar atualizações automaticamente
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar em janelas privadas
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Não permitido em janelas privadas
 detail-private-disallowed-description2 = Esta extensão não é executada durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requer acesso a janelas privadas
 detail-private-required-description2 = Esta extensão tem acesso às suas atividades on-line durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
-
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Ativar em navegação privada
-
 detail-private-browsing-off =
     .label = Não permitir
     .tooltiptext = Desativar em navegação privada
-
 detail-home =
     .label = Página inicial
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Perfil do extra
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Procurar atualizações
     .accesskey = c
     .tooltiptext = Procurar atualizações para este extra
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -122,38 +91,26 @@ detail-show-preferences =
             [windows] Alterar opções deste extra
            *[other] Mudar as preferências deste extra
         }
-
 detail-rating =
     .value = Avaliação
-
 addon-restart-now =
     .label = Reiniciar agora
-
 disabled-unsigned-heading =
     .value = Alguns extras foram desativados
-
 disabled-unsigned-description = Os seguintes extras não foram verificados para utilização no { -brand-short-name }. Pode <label data-l10n-name="find-addons">encontrar substitutos</label> ou solicitar que o programador peça a sua verificação.
-
 disabled-unsigned-learn-more = Saber mais acerca do nosso esforço para manter os utilizadores seguros.
-
 disabled-unsigned-devinfo = Os programadores interessados em que o seus extras sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = Falta alguma coisa? Alguns plugins deixaram de ser suportados pelo { -brand-short-name }. <label data-l10n-name="learn-more">Saber mais.</label>
-
 legacy-warning-show-legacy = Mostrar extensões de legado
-
 legacy-extensions =
     .value = Extensões de legado
-
 legacy-extensions-description = Estas extensões não atendem aos padrões atuais do { -brand-short-name } por isso foram desativadas <label data-l10n-name="legacy-learn-more">Saber acerca das alterações aos extras</label>
-
 private-browsing-description2 =
     O { -brand-short-name } está a mudar a maneira como as extensões funcionam na navegação privada. Quaisquer novas extensões que adicione ao
     { -brand-short-name } não serão executadas por predefinição em janelas privadas. A menos que permita isso nas definições, a
     extensão não irá funcionar durante a navegação privada e não irá ter acesso às suas atividades online
     lá. Fizemos esta alteração para manter a sua navegação privada, privada.
     <label data-l10n-name = "private-browsing-learn-more">Saber como gerir definições de extensões.</ label>
-
 addon-category-discover = Recomendações
 addon-category-discover-title =
     .title = Recomendações
@@ -188,7 +145,6 @@ extensions-warning-check-compatibility-button = Ativar
 extensions-warning-update-security = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
 extensions-warning-update-security-button = Ativar
     .title = Ativar verificação de segurança de atualização do extra
-
 
 ## Strings connected to add-on updates
 
@@ -235,43 +191,34 @@ addon-open-about-debugging = Depurar extras
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gerir atalhos de extensões
     .accesskey = s
-
 shortcuts-no-addons = Não tem quaisquer extensões ativadas.
 shortcuts-no-commands = As seguintes extensões não possuem atalhos:
 shortcuts-input =
     .placeholder = Escrever um atalho
-
 shortcuts-browserAction2 = Ativar botão da barra de ferramentas
 shortcuts-pageAction = Ativar ação da página
 shortcuts-sidebarAction = Alternar a barra lateral
-
 shortcuts-modifier-mac = Incluir Ctrl, Alt ou ⌘
 shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Escrever uma letra
 shortcuts-system = Não é possível sobrepor um atalho do { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Atalho duplicado
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } está a ser utilizado como um atalho em mais do que um caso. Atalhos duplicados podem causar comportamentos inesperados.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Já está em uso por { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mostrar mais { $numberToShow }
        *[other] Mostrar mais { $numberToShow }
     }
-
 shortcuts-card-collapse-button = Mostrar menos
-
 header-back-button =
     .title = Retroceder
 
@@ -285,15 +232,12 @@ discopane-intro =
     a aparência do seu navegador, e muito mais. Estes pequenos programas de software são
     muitas vezes programados por terceiros. Aqui está uma seleção que o { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recomenda</a> para segurança, desempenho e funcionalidade excecionais.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Algumas destas recomendações são personalizadas. Estas são baseadas noutras
     extensões que instalou, preferências de perfil e estatísticas de utilização.
 discopane-notice-learn-more = Saber mais
-
 privacy-policy = Política de privacidade
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -308,7 +252,7 @@ install-theme-button = Instalar tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gerir
 find-more-addons = Encontrar mais extras
-
+find-more-themes = Encontrar mais temas
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -334,46 +278,37 @@ preferences-addon-button =
 details-addon-button = Detalhes
 release-notes-addon-button = Notas de lançamento
 permissions-addon-button = Permissões
-
 extension-enabled-heading = Ativada
 extension-disabled-heading = Desativada
-
 theme-enabled-heading = Ativado
 theme-disabled-heading = Desativado
-
+theme-monochromatic-heading = Esquemas de cor
+theme-monochromatic-subheading = Novos esquemas de cor vibrantes do { -brand-product-name }. Disponível por tempo limitado.
 plugin-enabled-heading = Ativado
 plugin-disabled-heading = Desativado
-
 dictionary-enabled-heading = Ativado
 dictionary-disabled-heading = Desativado
-
 locale-enabled-heading = Ativada
 locale-disabled-heading = Desativada
-
 always-activate-button = Ativar sempre
 never-activate-button = Nunca ativar
-
 addon-detail-author-label = Autor
 addon-detail-version-label = Versão
 addon-detail-last-updated-label = Última atualização
 addon-detail-homepage-label = Página inicial
 addon-detail-rating-label = Avaliação
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = Esta extensão será atualizada quando o { -brand-short-name } for reiniciado.
 install-postponed-button = Atualizar agora
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Avaliado com { NUMBER($rating, maximumFractionDigits: 1) } de 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (desativado)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -389,14 +324,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> foi removido.
 pending-uninstall-undo-button = Desfazer
-
 addon-detail-updates-label = Permitir atualizações automáticas
 addon-detail-updates-radio-default = Predefinido
 addon-detail-updates-radio-on = Ligado
 addon-detail-updates-radio-off = Desligado
 addon-detail-update-check-label = Procurar atualizações
 install-update-button = Atualizar
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -412,7 +345,6 @@ addon-detail-private-browsing-disallow = Não permitir
 addon-badge-recommended2 =
     .title = O { -brand-product-name } recomenda apenas as extensões que cumpram aos nossos padrões para segurança e desempenho.
     .aria-label = { addon-badge-recommended2.title }
-
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
@@ -426,19 +358,14 @@ addon-badge-verified2 =
 
 available-updates-heading = Atualizações disponíveis
 recent-updates-heading = Atualizações recentes
-
 release-notes-loading = A carregar…
 release-notes-error = Desculpe mas ocorreu um erro ao carregar as notas de lançamento.
-
 addon-permissions-empty = Esta extensão não requer quaisquer permissões
-
 addon-permissions-required = Permissões necessárias para a funcionalidade principal:
 addon-permissions-optional = Permissões opcionais para a funcionalidade adicionada:
 addon-permissions-learnmore = Saber mais sobre permissões
-
 recommended-extensions-heading = Extensões recomendadas
 recommended-themes-heading = Temas recomendados
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = A sentir-se criativo(a)? <a data-l10n-name="link">Crie o seu próprio tema com o Firefox Color.</a>
@@ -453,10 +380,8 @@ locale-heading = Gira os seus idiomas
 updates-heading = Gerir as suas atualizações
 discover-heading = Personalize o seu { -brand-short-name }
 shortcuts-heading = Gira atalhos de extensões
-
 default-heading-search-label = Encontrar mais extras
 addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
-
 addon-page-options-button =
     .title = Ferramentas para todos os extras
