@@ -241,6 +241,10 @@ newtab-pocket-load-more-stories-button = Carreguar mais histórias
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Está atualizado!
+newtab-pocket-last-card-desc = Volte mais tarde para mais.
+newtab-pocket-last-card-image =
+    .alt = Está atualizado
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
