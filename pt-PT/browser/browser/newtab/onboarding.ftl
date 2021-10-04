@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding modal / about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
-## These button action text can be split onto multiple lines, so use explicit
-## newlines in translations to control where the line break appears (e.g., to
-## avoid breaking quoted text).
-
-## Welcome modal dialog strings
-
-
 ### UI strings for the simplified onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -24,32 +12,11 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ## Welcome page strings
 
 onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
-
 onboarding-start-browsing-button-label = Começar a navegar
-
-## Welcome full page string
-
-## Firefox Sync modal dialog strings.
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-## Message strings belonging to the Return to AMO flow
-
 onboarding-not-now-button-label = Agora não
 
 ## Custom Return To AMO onboarding strings
@@ -71,14 +38,12 @@ onboarding-multistage-welcome-subtitle = O navegador rápido, seguro e privado, 
 onboarding-multistage-welcome-primary-button-label = Iniciar configuração
 onboarding-multistage-welcome-secondary-button-label = Iniciar sessão
 onboarding-multistage-welcome-secondary-button-text = Tem uma conta?
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = <span data-l10n-name="zap">Predefinir</span> o { -brand-short-name }
 onboarding-multistage-set-default-subtitle = Velocidade, segurança e privacidade sempre que navegar.
 onboarding-multistage-set-default-primary-button-label = Predefinir
 onboarding-multistage-set-default-secondary-button-label = Agora não
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Comece por colocar o <span data-l10n-name="zap">{ -brand-short-name }</span> à distância de um clique
@@ -88,14 +53,12 @@ onboarding-multistage-pin-default-waiting-subtitle = Escolha { -brand-short-name
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Isto irá fixar o { -brand-short-name } na barra de tarefas e irá abrir as definições
 onboarding-multistage-pin-default-primary-button-label = Definir o { -brand-short-name } como o meu navegador principal
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importar as suas palavras-passe, marcadores, <span data-l10n-name="zap">entre outros</span>
 onboarding-multistage-import-subtitle = Era um utilizador de outro navegador? É simples trazer tudo para o { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Iniciar importação
 onboarding-multistage-import-secondary-button-label = Agora não
-
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer =
@@ -112,22 +75,18 @@ onboarding-import-sites-disclaimer =
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Primeiros passos: ecrã { $current } de { $total }
-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Escolha um <span data-l10n-name="zap">visual</span>
 onboarding-multistage-theme-subtitle = Personalize o { -brand-short-name } com um tema.
 onboarding-multistage-theme-primary-button-label2 = Concluído
 onboarding-multistage-theme-secondary-button-label = Agora não
-
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automático
-
 onboarding-multistage-theme-label-light = Claro
 onboarding-multistage-theme-label-dark = Escuro
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -136,13 +95,11 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = O fogo começa aqui
-
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - Designer de mobiliário, fã do Firefox
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desativar as animações
 
@@ -168,11 +125,9 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Começar
-
 mr1-onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Definir o { -brand-short-name } como o meu navegador principal
     .title = Define o { -brand-short-name } como o navegador principal e fixa o mesmo à barra de tarefas
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Definir o { -brand-short-name } no meu navegador principal
@@ -190,24 +145,31 @@ mr1-onboarding-default-primary-button-label = Predefinir o navegador
 
 mr1-onboarding-import-header = Leve tudo consigo
 mr1-onboarding-import-subtitle = Importe as suas palavras-passe, <br/>marcadores e muito mais.
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous }
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
 mr1-onboarding-import-secondary-button-label = Agora não
-
+mr2-onboarding-colorway-subtitle = Esquemas de cor vibrantes. Disponíveis por tempo limitado.
+mr2-onboarding-colorway-primary-button-label = Guardar esquema de cor
+mr2-onboarding-colorway-secondary-button-label = Agora não
+mr2-onboarding-colorway-label-soft = Suave
+mr2-onboarding-colorway-label-balanced = Equilibrado
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Audacioso
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automático
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Predefinido
 mr1-onboarding-theme-header = Personalize
 mr1-onboarding-theme-subtitle = Personalize o { -brand-short-name } com um tema.
 mr1-onboarding-theme-primary-button-label = Guardar tema
 mr1-onboarding-theme-secondary-button-label = Agora não
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema do sistema
-
 mr1-onboarding-theme-label-light = Claro
 mr1-onboarding-theme-label-dark = Escuro
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -217,6 +179,7 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -228,43 +191,36 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Herdar a aparência do seu sistema 
         operativo para botões, menus e janelas.
-
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Herdar a aparência do seu sistema 
         operativo para botões, menus e janelas.
-
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
         Utilizar uma aparência clara para 
         botões, menus e janelas.
-
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
         Utilizar uma aparência clara para 
         botões, menus e janelas.
-
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         Utilizar uma aparência escura para 
         botões, menus e janelas.
-
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
         Utilizar uma aparência escura para 
         botões, menus e janelas.
-
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
         Utilizar uma aparência colorida para 
         botões, menus e janelas.
-
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
@@ -278,45 +234,68 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Seguir o tema do sistema operativo 
         para botões, menus e janelas.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Seguir o tema do sistema operativo 
         para botões, menus e janelas.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Utilizar um tema claro para 
         botões, menus e janelas.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Utilizar um tema claro para 
         botões, menus e janelas.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Utilizar um tema escuro para 
         botões, menus e janelas.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Utilizar um tema escuro para 
         botões, menus e janelas.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Utilizar um tema dinâmico e colorido para 
         botões, menus e janelas.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Utilizar um tema dinâmico e colorido para 
         botões, menus e janelas.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Utilizar este esquema de cor.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Utilizar este esquema de cor.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Explorar os esquema de cor { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Explorar os esquema de cor { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Explorar os temas predefinidos.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Explorar os temas predefinidos.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Obrigado por nos escolher
+mr2-onboarding-thank-you-text = O { -brand-short-name } é um navegador independente apoiado por uma organização sem fins lucrativos. Juntos, estamos tornar a Internet mais segura, mais saudável e mais privada.
+mr2-onboarding-start-browsing-button-label = Começar a navegar
