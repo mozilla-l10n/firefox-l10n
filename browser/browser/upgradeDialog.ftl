@@ -75,6 +75,9 @@ upgrade-dialog-start-secondary-button = Nic nětko
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Wubjerće swoju paletu
+upgrade-dialog-colorway-home-checkbox = K startowej stronje Firefox z drastowym pozadkom přeńć
 upgrade-dialog-colorway-primary-button = Barbowu kombinaciju składować
 upgrade-dialog-colorway-secondary-button = Předchadnu drastu wobchować
 upgrade-dialog-colorway-theme-tooltip =
