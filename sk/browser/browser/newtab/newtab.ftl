@@ -228,6 +228,9 @@ newtab-pocket-learn-more = Ďalšie informácie
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
 newtab-pocket-cta-text = Ukladajte si články do { -pocket-brand-name(case: "gen") } a užívajte si skvelé čítanie.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je súčasťou rodiny { -brand-product-name(case: "gen") }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Uložiť do { -pocket-brand-name(case: "gen") }
+newtab-pocket-saved-to-pocket = Uložená do { -pocket-brand-name(case: "gen") }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Načítať ďalšie príbehy
 
