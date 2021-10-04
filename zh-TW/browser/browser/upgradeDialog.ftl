@@ -67,14 +67,28 @@ upgrade-dialog-theme-system = 系統佈景主題
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = 美麗生活
+upgrade-dialog-start-subtitle = 活力滿點的新配色，限時提供。
+upgrade-dialog-start-primary-button = 探索配色
 upgrade-dialog-start-secondary-button = 現在不要
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = 挑選您的色彩配置
+upgrade-dialog-colorway-home-checkbox = 切換成使用佈景主題背景的 Firefox 首頁
+upgrade-dialog-colorway-primary-button = 儲存配色
+upgrade-dialog-colorway-secondary-button = 繼續使用原先的佈景主題
+upgrade-dialog-colorway-theme-tooltip =
+    .title = 探索預設佈景主題
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = 探索 { $colorwayName } 的配色
 upgrade-dialog-colorway-default-theme = 預設
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = 自動
-    .title = 根據作業系統設定來顯示按鈕、選單、視窗的外觀。
+    .title = 根據作業系統佈景主題設定來顯示按鈕、選單、視窗。
 upgrade-dialog-theme-light = 亮色
     .title = 為按鈕、選單、視窗使用亮色佈景主題
 upgrade-dialog-theme-dark = 暗色
@@ -85,6 +99,18 @@ upgrade-dialog-theme-keep = 保留原設定
     .title = 使用您更新 { -brand-short-name } 前安裝使用的佈景主題
 upgrade-dialog-theme-primary-button = 儲存佈景主題
 upgrade-dialog-theme-secondary-button = 現在不要
+upgrade-dialog-colorway-variation-soft = 軟色調
+    .title = 使用這種色彩配置
+upgrade-dialog-colorway-variation-balanced = 均衡色調
+    .title = 使用這種色彩配置
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = 濃烈色調
+    .title = 使用這種色彩配置
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = 感謝您選用
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } 是一套由非營利組織所打造的獨立瀏覽器。由我們一起讓網路環境更安全、更健康、也更有隱私。
+upgrade-dialog-thankyou-primary-button = 開始瀏覽
