@@ -23,3 +23,6 @@ extension-firefox-alpenglow-description = Una apariencia colorida para los boton
 
 extension-colorways-soft-name = { $colorway-name } — Suave
 extension-colorways-balanced-name = { $colorway-name } — Balanceado
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Fuerte
