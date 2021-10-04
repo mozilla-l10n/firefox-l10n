@@ -64,6 +64,21 @@ upgrade-dialog-default-secondary-button = Agora não
 upgrade-dialog-theme-title-2 = Experimente um tema nítido
 upgrade-dialog-theme-system = Tema do sistema
     .title = Seguir o tema do sistema operacional em botões, menus e janelas
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Vida em cores
+upgrade-dialog-start-subtitle = Novos esquemas vibrantes de cores. Disponíveis por tempo limitado.
+upgrade-dialog-start-primary-button = Conhecer esquemas de cores
+upgrade-dialog-start-secondary-button = Agora não
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Escolha um esquema de cores
+upgrade-dialog-colorway-home-checkbox = Mude para a página inicial do Firefox com fundo temático
+upgrade-dialog-colorway-primary-button = Salvar esquema de cores
 upgrade-dialog-theme-light = Claro
     .title = Usar um tema claro em botões, menus e janelas
 upgrade-dialog-theme-dark = Escuro
@@ -74,3 +89,6 @@ upgrade-dialog-theme-keep = Manter anterior
     .title = Usar o tema que você tinha instalado antes de atualizar o { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar tema
 upgrade-dialog-theme-secondary-button = Agora não
+
+## Thank you screen
+
