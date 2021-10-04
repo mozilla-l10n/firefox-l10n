@@ -121,4 +121,4 @@
 <!ENTITY deferStorage.label "Usar a Caixa de Entrada Global (armazena o correio em Pastas Locais)">
 <!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Clique em Concluir para salvar estas configurações e sair do assistente de contas.">
-<!ENTITY clickFinish.labelMac "Clique em Feito para salvar estas configurações e sair do assistente de contas.">
+<!ENTITY clickFinish.labelMac "Clique em 'Pronto' para salvar essas configurações e sair do assistente de contas.">
