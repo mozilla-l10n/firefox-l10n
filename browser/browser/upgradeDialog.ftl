@@ -79,6 +79,16 @@ upgrade-dialog-start-secondary-button = Agora não
 upgrade-dialog-colorway-title = Escolha um esquema de cores
 upgrade-dialog-colorway-home-checkbox = Mude para a página inicial do Firefox com fundo temático
 upgrade-dialog-colorway-primary-button = Salvar esquema de cores
+upgrade-dialog-colorway-secondary-button = Manter tema anterior
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Conheça os temas padrão
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Conheça o esquema de cores { $colorwayName }
+upgrade-dialog-colorway-default-theme = Padrão
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automático
+    .title = Seguir o tema do sistema operacional em botões, menus e janelas
 upgrade-dialog-theme-light = Claro
     .title = Usar um tema claro em botões, menus e janelas
 upgrade-dialog-theme-dark = Escuro
@@ -89,6 +99,18 @@ upgrade-dialog-theme-keep = Manter anterior
     .title = Usar o tema que você tinha instalado antes de atualizar o { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar tema
 upgrade-dialog-theme-secondary-button = Agora não
+upgrade-dialog-colorway-variation-soft = Suave
+    .title = Usar este esquema de cores
+upgrade-dialog-colorway-variation-balanced = Equilibrado
+    .title = Usar este esquema de cores
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Forte
+    .title = Usar este esquema de cores
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Obrigado por nos escolher
+upgrade-dialog-thankyou-subtitle = O { -brand-short-name } é um navegador independente, respaldado por uma organização sem fins lucrativos. Juntos, estamos tornando a web mais segura, mais saudável e mais privativa.
+upgrade-dialog-thankyou-primary-button = Iniciar navegação
