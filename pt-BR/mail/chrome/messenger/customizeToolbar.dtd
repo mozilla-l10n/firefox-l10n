@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title             "Personalizar barra de ferramentas">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-<!ENTITY instructions.description "Arraste itens para as barras de ferramentas, ou remova arrastando para cá.">
+<!ENTITY instructions.description "Arraste itens para a barra de ferramentas, ou remova arrastando para cá.">
 <!ENTITY show.label               "Exibir:">
 <!ENTITY iconsAndText.label       "Ícone acima do texto">
 <!ENTITY icons.label              "Só ícone">
