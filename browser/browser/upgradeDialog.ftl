@@ -77,6 +77,8 @@ upgrade-dialog-start-secondary-button = 暂时不要
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = 挑选您的配色
 upgrade-dialog-colorway-primary-button = 保存配色
 upgrade-dialog-colorway-theme-tooltip =
     .title = 探索默认主题
@@ -84,6 +86,9 @@ upgrade-dialog-colorway-theme-tooltip =
 upgrade-dialog-colorway-colorway-tooltip =
     .title = 探索 { $colorwayName } 配色
 upgrade-dialog-colorway-default-theme = 默认
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = 自动
+    .title = 跟随系统主题配色显示按钮、菜单和窗口
 upgrade-dialog-theme-light = 明亮
     .title = 为按钮、菜单和窗口使用明亮配色主题
 upgrade-dialog-theme-dark = 深邃
