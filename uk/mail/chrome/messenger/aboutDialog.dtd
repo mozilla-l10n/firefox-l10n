@@ -33,7 +33,7 @@
 <!ENTITY community.exp.creditsLink  "всесвітня спільнота">
 <!ENTITY community.exp.end          ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
 
-<!ENTITY community.start2           "&brandShortName; було розроблено в">
+<!ENTITY community.start2           "&brandShortName; було розроблено в ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " — ">
@@ -58,7 +58,7 @@
 <!ENTITY bottomLinks.rights         "Права кінцевого користувача">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Політика конфіденційності">
+<!ENTITY bottomLinks.privacy        "Політика приватності">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Перевірка оновлень…">
