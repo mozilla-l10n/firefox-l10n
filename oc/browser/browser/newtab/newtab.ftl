@@ -229,10 +229,16 @@ newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Enregistrar dins { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Pagina enregistrada dins { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Cargar mai d’articles
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Sètz ja a jorn !
+newtab-pocket-last-card-desc = Tornatz mai tard per veire se i a mai d’articles.
+newtab-pocket-last-card-image =
+    .alt = Sètz ja a jorn
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
