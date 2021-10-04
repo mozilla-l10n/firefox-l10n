@@ -148,6 +148,16 @@ mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previ
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar desde el navegador anterior
 mr1-onboarding-import-secondary-button-label = No ahora
+mr2-onboarding-colorway-header = La vida en colores
+mr2-onboarding-colorway-subtitle = Nuevas combinaciones de colores brillantes. Disponible por tiempo limitado.
+mr2-onboarding-colorway-primary-button-label = Guardar combinación de colores
+mr2-onboarding-colorway-secondary-button-label = No ahora
+mr2-onboarding-colorway-label-soft = Suave
+mr2-onboarding-colorway-label-balanced = Balanceado
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Auto
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Predeterminado
 mr1-onboarding-theme-header = Hágalo suyo
 mr1-onboarding-theme-subtitle = Personalizar { -brand-short-name } con un tema
 mr1-onboarding-theme-primary-button-label = Guardar tema
@@ -253,3 +263,32 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Usar un tema dinámico y colorido para botones,
         menús y ventanas.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Usar esta combinación de colores.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Usar esta combinación de colores.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Explorar combinaciones de colores de { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Explorar combinaciones de colores de { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Explorar temas predeterminados.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Explorar temas predeterminados.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Gracias por elegirnos
+mr2-onboarding-start-browsing-button-label = Empezar a navegar
