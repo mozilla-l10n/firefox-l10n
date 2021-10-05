@@ -275,6 +275,7 @@ extension-enabled-heading = Activées
 extension-disabled-heading = Désactivées
 theme-enabled-heading = Activé
 theme-disabled-heading = Désactivés
+theme-monochromatic-heading = Coloris
 plugin-enabled-heading = Activés
 plugin-disabled-heading = Désactivés
 dictionary-enabled-heading = Activés

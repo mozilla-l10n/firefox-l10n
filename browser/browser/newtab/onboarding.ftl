@@ -148,6 +148,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importer depuis { $prev
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
 mr1-onboarding-import-secondary-button-label = Plus tard
+mr2-onboarding-colorway-primary-button-label = Enregistrer le coloris
 mr2-onboarding-colorway-secondary-button-label = Plus tard
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatique
@@ -260,6 +261,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Utiliser un thème dynamique et coloré
         pour les boutons, menus et fenêtres.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Utiliser ce coloris.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Utiliser ce coloris.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Voir le coloris { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Voir le coloris { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Découvrir les thèmes par défaut.
