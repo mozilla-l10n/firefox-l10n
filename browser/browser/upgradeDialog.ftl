@@ -102,7 +102,7 @@ upgrade-dialog-theme-system = Podle systému
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Život v barvách
 upgrade-dialog-start-subtitle = Nové palety barev dostupné po omezenou dobu.
-upgrade-dialog-start-primary-button = Vyzkoušejte palety barev
+upgrade-dialog-start-primary-button = Vyzkoušet palety barev
 upgrade-dialog-start-secondary-button = Teď ne
 
 ## Colorway screen
