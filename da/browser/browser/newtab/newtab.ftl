@@ -231,6 +231,13 @@ newtab-pocket-more-recommendations = Flere anbefalinger
 newtab-pocket-learn-more = Læs mere
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Gem til { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Gemt til { -pocket-brand-name }
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

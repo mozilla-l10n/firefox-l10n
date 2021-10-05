@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Fortryd
 customize-mode-lwthemes-my-themes =
     .value = Mine temaer
+customize-mode-lwthemes-link = Håndter temaer
 customize-mode-touchbar-cmd =
     .label = Tilpas Touch Bar…
 customize-mode-downloads-button-autohide =
