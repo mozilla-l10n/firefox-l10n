@@ -36,5 +36,5 @@ welcome-back-restore-button =
     .label = Vamos lá!
     .accesskey = V
 welcome-back-restore-all-label = Restaurar todas as janelas e abas
-welcome-back-restore-some-label = Restaurar só as que você quer
+welcome-back-restore-some-label = Restaurar só algumas
 welcome-back-page-info-link = Suas extensões e personalizações foram removidas e as configurações do navegador foram restauradas. Se isso não resolver o problema, <a data-l10n-name="link-more">saiba mais sobre o que você pode fazer</a>.
