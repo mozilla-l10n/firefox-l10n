@@ -79,7 +79,7 @@ upgrade-dialog-start-secondary-button = Non ora
 upgrade-dialog-colorway-title = Elige tu combination de colores
 upgrade-dialog-colorway-home-checkbox = Passar al Pagina initial de Firefox con uno plano de fundo a thema
 upgrade-dialog-colorway-primary-button = Salvar combination de colores
-upgrade-dialog-colorway-secondary-button = Mantener le thema previe
+upgrade-dialog-colorway-secondary-button = Mantener le previe thema
 upgrade-dialog-colorway-theme-tooltip =
     .title = Discoperi le themas predefinite
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
