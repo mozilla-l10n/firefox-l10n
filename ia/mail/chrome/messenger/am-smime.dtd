@@ -18,11 +18,11 @@
 <!ENTITY encryptionCert2.message "Certificato personal pro le cryptographia:">
 <!ENTITY digitalSign.certificate.button "Seliger…">
 <!ENTITY digitalSign.certificate.accesskey "S">
-<!ENTITY digitalSign.certificate_clear.button "Rader">
+<!ENTITY digitalSign.certificate_clear.button "Vacuar">
 <!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "Eliger…">
 <!ENTITY encryption.certificate.accesskey "r">
-<!ENTITY encryption.certificate_clear.button "Rader">
+<!ENTITY encryption.certificate_clear.button "Vacuar">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Signatura digital">
 <!ENTITY signMessage2.label "Adder mi signatura digital per predefinition">
