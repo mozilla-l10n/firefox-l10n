@@ -274,6 +274,24 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Eipuru ko sa’y ojueheguáva.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Ehapereka sa’y ojueheguáva { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Ehapereka sa’y ojueheguáva { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Ehapereka téma ypyguáva.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Ehapereka téma ypyguáva.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Aguyje reimére orendive
+mr2-onboarding-start-browsing-button-label = Eñepyrũ eikundaha

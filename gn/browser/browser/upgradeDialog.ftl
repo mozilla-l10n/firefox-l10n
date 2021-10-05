@@ -64,6 +64,15 @@ upgrade-dialog-default-secondary-button = Ani ko’ág̃a
 upgrade-dialog-theme-title-2 = Emoñepyrũ yvyetégui peteĩ téma pyahu ndive
 upgrade-dialog-theme-system = Téma apopyvusu
     .title = Ehapykueho téma apopyvusu oku'éva votõ, poravorã ha ovetãme g̃uarã
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Tekove sa’ýndi
+upgrade-dialog-start-secondary-button = Ani ko’ág̃a
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Sakã
     .title = Eipuru téma sakã votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-dark = Ypytũ
@@ -74,3 +83,6 @@ upgrade-dialog-theme-keep = Eguereko mboyvegua
     .title = Eipuru téma emohendáva embohekopyahu mbyve { -brand-short-name }
 upgrade-dialog-theme-primary-button = Eñongatu téma
 upgrade-dialog-theme-secondary-button = Ani ko’ág̃a
+
+## Thank you screen
+
