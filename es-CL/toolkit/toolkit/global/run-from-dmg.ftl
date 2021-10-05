@@ -16,4 +16,4 @@ prompt-to-install-no-button = No instalar
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name }
-install-failed-message = Falló la instalación de { -brand-short-name } pero de todas formas se ejecutarña.
+install-failed-message = Falló la instalación de { -brand-short-name } pero de todas formas se ejecutará.
