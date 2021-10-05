@@ -99,13 +99,13 @@ upgrade-dialog-theme-keep = 이전 유지
     .title = { -brand-short-name }를 업데이트하기 전에 설치한 테마를 사용
 upgrade-dialog-theme-primary-button = 테마 저장
 upgrade-dialog-theme-secondary-button = 나중에
-upgrade-dialog-colorway-variation-soft = 부드럽게
+upgrade-dialog-colorway-variation-soft = 연하게
     .title = 이 컬러웨이 사용
-upgrade-dialog-colorway-variation-balanced = 균형있게
+upgrade-dialog-colorway-variation-balanced = 중간
     .title = 이 컬러웨이 사용
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-upgrade-dialog-colorway-variation-bold = 강렬하게
+upgrade-dialog-colorway-variation-bold = 진하게
     .title = 이 컬러웨이 사용
 
 ## Thank you screen
