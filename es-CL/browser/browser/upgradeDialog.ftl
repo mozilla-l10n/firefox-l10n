@@ -66,6 +66,31 @@ upgrade-dialog-theme-title-2 =
     con un tema fresco
 upgrade-dialog-theme-system = Tema del sistema
     .title = Sigue el tema del sistema operativo para botones, menús y ventanas
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Vida a color
+upgrade-dialog-start-subtitle = Nuevas combinaciones de colores vívidos. Disponible por tiempo limitado.
+upgrade-dialog-start-primary-button = Explora combinaciones de colores
+upgrade-dialog-start-secondary-button = Ahora no
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Elige tu paleta
+upgrade-dialog-colorway-home-checkbox = Cambia a la página de inicio de Firefox con fondo temático
+upgrade-dialog-colorway-primary-button = Guardar combinación de colores
+upgrade-dialog-colorway-secondary-button = Mantener el tema anterior
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Explore temas predeterminados
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Explora combinaciones de colores de { $colorwayName }
+upgrade-dialog-colorway-default-theme = Por defecto
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Auto
+    .title = Sigue el tema del sistema operativo para los botones, menús y ventanas
 upgrade-dialog-theme-light = Claro
     .title = Usar un tema claro para botones, menús y ventanas
 upgrade-dialog-theme-dark = Oscuro
@@ -76,3 +101,17 @@ upgrade-dialog-theme-keep = Mantener anterior
     .title = Usar el tema que tenías instalado antes de actualizar { -brand-short-name }
 upgrade-dialog-theme-primary-button = Guardar tema
 upgrade-dialog-theme-secondary-button = Ahora no
+upgrade-dialog-colorway-variation-soft = Suave
+    .title = Usar esta combinación
+upgrade-dialog-colorway-variation-balanced = Balanceado
+    .title = Usar esta combinación
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Fuerte
+    .title = Usar esta combinación
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Gracias por elegirnos
+upgrade-dialog-thankyou-primary-button = Empezar a navegar
