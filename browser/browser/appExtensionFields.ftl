@@ -21,3 +21,6 @@ extension-firefox-alpenglow-description = Utiliser un thème coloré pour les bo
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Éclatant
