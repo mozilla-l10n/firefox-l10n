@@ -38,20 +38,16 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Encerrar { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Sair do { -brand-shorter-name }
-
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -310,8 +306,8 @@ menu-get-help =
     .label = Obter ajuda
     .accesskey = a
 menu-help-more-troubleshooting-info =
-    .label = Mais informações técnicas
-    .accesskey = i
+    .label = Informações técnicas
+    .accesskey = I
 menu-help-report-site-issue =
     .label = Relatar problema no site…
 menu-help-feedback-page =
