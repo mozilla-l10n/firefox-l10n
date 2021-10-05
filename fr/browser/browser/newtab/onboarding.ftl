@@ -150,6 +150,7 @@ mr1-onboarding-import-primary-button-label-no-attribution = Importer depuis un a
 mr1-onboarding-import-secondary-button-label = Plus tard
 mr2-onboarding-colorway-primary-button-label = Enregistrer le coloris
 mr2-onboarding-colorway-secondary-button-label = Plus tard
+mr2-onboarding-colorway-label-balanced = Équilibré
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatique
 # This string will be used for Default theme
