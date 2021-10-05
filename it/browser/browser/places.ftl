@@ -98,6 +98,9 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altri segnalibri
+places-show-in-folder =
+  .label = Mostra nella cartella
+  .accesskey = M
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
