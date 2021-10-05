@@ -74,7 +74,7 @@ policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actuali
 policy-PasswordManagerEnabled = Activar salvamento de contrasignos al gestor de contrasignos.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Disactivar o configurar PDF.js, le visor de PDF integrate in { -brand-short-name }.
-policy-Permissions2 = Configurar permissos pro camera, microphono, position, avisos e autoreproduction.
+policy-Permissions2 = Configurar permissiones pro camera, microphono, position, avisos e autoreproduction.
 policy-Preferences = Definir e blocar le valor de un sub-ensemble de preferentias.
 policy-PrimaryPassword = Requirer o impedir le empleo de un contrasigno primari.
 policy-PromptForDownloadLocation = Demandar ubi salvar le files quando on discarga.
