@@ -21,8 +21,8 @@ extension-firefox-alpenglow-description = 버튼, 메뉴 및 창에 색상형 �
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
-extension-colorways-soft-name = { $colorway-name } — 부드럽게
-extension-colorways-balanced-name = { $colorway-name } — 균형있게
+extension-colorways-soft-name = { $colorway-name } — 연하게
+extension-colorways-balanced-name = { $colorway-name } — 중간
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-extension-colorways-bold-name = { $colorway-name } — 강렬하게
+extension-colorways-bold-name = { $colorway-name } — 진하게
