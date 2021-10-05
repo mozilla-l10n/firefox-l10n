@@ -148,6 +148,36 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Maiusc+2
     }
 
+## Profiler presets
+## They are shown in the popup's select box.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-web-developer-description = Preset consigliato per il debug della maggior parte delle applicazioni web, con overhead limitato.
+profiler-popup-presets-web-developer-label =
+  .label = Sviluppo web
+
+profiler-popup-presets-firefox-platform-description = Preset consigliato per il debug degli aspetti interni della piattaforma di Firefox.
+profiler-popup-presets-firefox-platform-label =
+  .label = Firefox - Piattaforma
+
+profiler-popup-presets-firefox-front-end-description = Preset consigliato per il debug degli aspetti interni dell’interfaccia (front-end) di Firefox.
+profiler-popup-presets-firefox-front-end-label =
+  .label = Firefox - Front-end
+
+profiler-popup-presets-firefox-graphics-description = Preset consigliato per l’analisi delle prestazioni grafiche di Firefox.
+profiler-popup-presets-firefox-graphics-label =
+  .label = Firefox - Grafica
+
+profiler-popup-presets-media-description = Preset consigliato per la diagnosi di problemi audio e video.
+profiler-popup-presets-media-label =
+  .label = Multimediale
+
+profiler-popup-presets-custom-label =
+  .label = Personalizzato
+
 ## History panel
 
 appmenu-manage-history =
