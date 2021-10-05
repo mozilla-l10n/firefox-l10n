@@ -266,6 +266,14 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Eipuru téma hetia’e ha isa’ýva votõ,
         poravorã ha ovetãme g̃uarã.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Eipuru ko sa’y ojueheguáva.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Eipuru ko sa’y ojueheguáva.
 
 ## Strings for Thank You page
 
