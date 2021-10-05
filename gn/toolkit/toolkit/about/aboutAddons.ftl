@@ -244,6 +244,7 @@ install-theme-button = Emohenda téma
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Ñangareko
 find-more-addons = Ehekave moĩmbaha
+find-more-themes = Ejuhuvéta téma
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
