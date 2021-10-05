@@ -58,8 +58,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Le coo
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = cache de initio pro about:home
-experimental-features-abouthome-startup-cache-description = Cache pro le contento initial del pagina about:home que es normalmente cargate al initio. Le cache es pro augmentar le velocitate del initialisation.
+    .label = Cache de initio pro about:home
+experimental-features-abouthome-startup-cache-description = Un cache pro le contento initial del pagina about:home que es normalmente cargate al initio. Le cache es pro augmentar le velocitate del initialisation.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
