@@ -64,6 +64,15 @@ upgrade-dialog-default-secondary-button = Plus tard
 upgrade-dialog-theme-title-2 = Prenez un nouveau départ avec un thème rafraichi
 upgrade-dialog-theme-system = Thème du système
     .title = Suivre le thème du système pour les boutons, menus et fenêtres
+
+## Start screen
+
+
+## Colorway screen
+
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Voir le coloris { $colorwayName }
 upgrade-dialog-theme-light = Clair
     .title = Utiliser un thème clair pour les boutons, menus et fenêtres
 upgrade-dialog-theme-dark = Sombre
@@ -74,3 +83,7 @@ upgrade-dialog-theme-keep = Conserver le thème actuel
     .title = Utiliser le thème que vous aviez installé avant la mise à jour de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Enregistrer le thème
 upgrade-dialog-theme-secondary-button = Plus tard
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Commencer la navigation
