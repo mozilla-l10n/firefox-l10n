@@ -99,4 +99,7 @@ upgrade-dialog-colorway-variation-balanced = Équilibré
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Merci de nous avoir choisis
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } est un navigateur indépendant soutenu par une organisation à but non lucratif. Ensemble, nous rendons le Web plus sûr, plus sain et plus privé.
 upgrade-dialog-thankyou-primary-button = Commencer la navigation
