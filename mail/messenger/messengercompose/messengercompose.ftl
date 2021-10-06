@@ -229,6 +229,14 @@ many-public-recipients-ignore =
     .label = Naj bodo prejemniki javni
     .accesskey = N
 many-public-recipients-prompt-title = Preveč javnih prejemnikov
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Sporočilo ima javnega prejemnika. Če to ogroža njegovo zasebnost, se lahko temu izognete tako, da ga premaknete iz polja Za/Kp v Skp.
+        [two] Sporočilo ima { $count } javna prejemnika. Če to ogroža njuno zasebnost, se lahko temu izognete tako, da ju premaknete iz polja Za/Kp v Skp.
+        [few] Sporočilo ima { $count } javne prejemnike. Če to ogroža njihovo zasebnost, se lahko temu izognete tako, da jih premaknete iz polja Za/Kp v Skp.
+       *[other] Sporočilo ima { $count } javnih prejemnikov. Če to ogroža njihovo zasebnost, se lahko temu izognete tako, da jih premaknete iz polja Za/Kp v Skp.
+    }
 many-public-recipients-prompt-cancel = Prekliči pošiljanje
 many-public-recipients-prompt-send = Vseeno pošlji
 
