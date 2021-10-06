@@ -16,3 +16,12 @@ prompt-to-install-no-button = Non installare
 
 install-failed-title = Installazione di { -brand-short-name } non riuscita.
 install-failed-message = L’installazione non è riuscita ma { -brand-short-name } continuerà a funzionare.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Aprire l’applicazione { -brand-short-name } esistente?
+prompt-to-launch-existing-app-message = Sembra che tu abbia già installato { -brand-short-name }. Utilizza l’applicazione installata per rimanere costantemente aggiornato e prevenire perdite di dati.
+prompt-to-launch-existing-app-yes-button = Apri app esistente
+prompt-to-launch-existing-app-no-button = No grazie
