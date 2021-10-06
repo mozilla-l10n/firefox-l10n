@@ -70,12 +70,17 @@ upgrade-dialog-theme-system = Sistem teması
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Hayatına renk kat
 upgrade-dialog-start-subtitle = Yepyeni renk kuşakları. Sadece sınırlı bir süre için.
-upgrade-dialog-start-primary-button = Renk kuşaklarını keşfedin
+upgrade-dialog-start-primary-button = Renk kuşaklarını keşfet
 upgrade-dialog-start-secondary-button = Daha sonra
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Paletinizi seçin
 upgrade-dialog-colorway-primary-button = Renk kuşağını kaydet
+upgrade-dialog-colorway-secondary-button = Önceki temayı kullanmaya devam et
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Varsayılan temaları keşfet
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
 upgrade-dialog-colorway-colorway-tooltip =
     .title = { $colorwayName } renk kuşaklarını keşfedin
