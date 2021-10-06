@@ -64,6 +64,13 @@ upgrade-dialog-default-secondary-button = Ahora no
 upgrade-dialog-theme-title-2 = Comienza de nuevo con un nuevo tema
 upgrade-dialog-theme-system = Tema del sistema
     .title = Usar el tema del sistema operativo para botones, menùs y ventanas
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = Ahora no
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Claro
     .title = Usar un tema claro para botones, menús y ventanas
 upgrade-dialog-theme-dark = Oscuro
@@ -74,3 +81,6 @@ upgrade-dialog-theme-keep = Mantener anterior
     .title = Usar el tema instalado previamente a la actualización de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Guardar tema
 upgrade-dialog-theme-secondary-button = Ahora no
+
+## Thank you screen
+
