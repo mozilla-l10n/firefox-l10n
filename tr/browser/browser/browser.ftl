@@ -778,3 +778,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Tüm sekmeleri listele
     .tooltiptext = Tüm sekmeleri listele
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Önceki seçmeler açılsın mı?</strong> Önceki oturumunuzu { -brand-short-name } uygulama menüsündeki <img data-l10n-name="icon"/> “Geçmiş” kısmından geri yükleyebilirsiniz.
+restore-session-startup-suggestion-button = Nasıl yapacağımı göster
