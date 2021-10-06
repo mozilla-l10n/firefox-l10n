@@ -5,7 +5,7 @@
 refresh-profile-dialog-title = შეკეთდეს { -brand-short-name } ნაგულისხმევ პარამეტრებზე დაბრუნებით?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } – შეკეთება
-refresh-profile-dialog-description = შეაკეთეთ ხარვეზების მოსაგვარებლად. შედეგად, მოცილდება თქვენი გაფართოებები და მორგებული პარამეტრები. არ დაგეკარგებათ მნიშვნელოვანი მონაცემები, როგორიცაა სანიშნები და პაროლები.
+refresh-profile-dialog-description = შეაკეთეთ ხარვეზების მოსაგვარებლად. შედეგად, მოსცილდება თქვენი გაფართოებები და მორგებული პარამეტრები. არ დაგეკარგებათ მნიშვნელოვანი მონაცემები, როგორიცაა სანიშნები და პაროლები.
 refresh-profile = მოაწესრიგეთ { -brand-short-name }
 refresh-profile-button = { -brand-short-name } – შეკეთება…
 refresh-profile-learn-more = ვრცლად
