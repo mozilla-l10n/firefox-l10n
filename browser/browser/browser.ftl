@@ -776,3 +776,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = List all tabs
     .tooltiptext = List all tabs
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Show me how
