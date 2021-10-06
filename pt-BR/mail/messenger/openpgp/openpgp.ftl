@@ -278,7 +278,7 @@ openpgp-description =
        *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status-have-key = Sua configuração atual usa ID de chave <b>{ $key }</b>
+openpgp-selection-status-have-key = Sua configuração atual usa a chave com ID <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Sua configuração atual usa a chave <b>{ $key }</b>, que está vencida.
 openpgp-add-key-button =

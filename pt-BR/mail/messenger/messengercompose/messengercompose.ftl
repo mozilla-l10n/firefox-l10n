@@ -232,7 +232,7 @@ many-public-recipients-prompt-send = Enviar assim mesmo
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Não foi encontrada uma identidade única correspondente ao endereço do remetente. A mensagem será enviada usando o campo De atual e as configurações da identidade { $identity }.
 encrypted-bcc-warning = Ao enviar uma mensagem criptografada, destinatários em Cco não ficam totalmente ocultos. Todos os destinatários podem conseguir identificá-los.
-encrypted-bcc-ignore-button = Entendido
+encrypted-bcc-ignore-button = Entendi
 
 ## Editing
 
