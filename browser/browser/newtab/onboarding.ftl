@@ -148,8 +148,15 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } tarayıc�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
 mr1-onboarding-import-secondary-button-label = Daha sonra
+mr2-onboarding-colorway-header = Hayatına renk kat
+mr2-onboarding-colorway-subtitle = Yepyeni renk kuşakları. Sadece sınırlı bir süre için.
+mr2-onboarding-colorway-primary-button-label = Renk kuşağını kaydet
 mr2-onboarding-colorway-secondary-button-label = Daha sonra
+mr2-onboarding-colorway-label-soft = Yumuşak
 mr2-onboarding-colorway-label-balanced = Dengeli
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Canlı
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Otomatik
 # This string will be used for Default theme
@@ -243,6 +250,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Düğmeler, menüler ve pencereler için
         dinamik, renkli bir tema kullanın.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Bu renk kuşağını kullan.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Bu renk kuşağını kullan.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = { $colorwayName } renk kuşaklarını keşfedin.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = { $colorwayName } renk kuşaklarını keşfedin.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Varsayılan temaları keşfedin.

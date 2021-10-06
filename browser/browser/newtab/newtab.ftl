@@ -222,6 +222,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hata! Bu bölüm tam olara
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popüler konular:
+newtab-pocket-new-topics-title = Daha fazla içeriğe ne dersiniz? { -pocket-brand-name }’taki popüler konulara göz atın
 newtab-pocket-more-recommendations = Daha fazla öneri
 newtab-pocket-learn-more = Daha fazla bilgi al
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
@@ -230,11 +231,14 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name }, { -brand-product-n
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name }’a kaydet
 newtab-pocket-saved-to-pocket = { -pocket-brand-name }’a kaydedildi
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Daha fazla içerik yükle
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-title = Hepsini bitirdiniz!
+newtab-pocket-last-card-desc = Daha fazlası için daha sonra yine gelin.
 newtab-pocket-last-card-image =
     .alt = Hepsini bitirdiniz
 
