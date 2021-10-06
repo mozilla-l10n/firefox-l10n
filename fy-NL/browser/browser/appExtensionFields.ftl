@@ -6,7 +6,7 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 # "Auto" is short for automatic. It can be localized without limitations.
-extension-default-theme-name-auto = Systeemtema — automatysk
+extension-default-theme-name-auto = Systeemtema – automatysk
 extension-default-theme-description = De ynstelling fan it bestjoeringssysteem foar knoppen, menu’s en finsters folgje.
 extension-firefox-compact-light-name = Ljocht
 extension-firefox-compact-light-description = In tema mei in ljocht kleureskema.
@@ -21,8 +21,8 @@ extension-firefox-alpenglow-description = In kleurich uterlik brûke foar knoppe
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
-extension-colorways-soft-name = { $colorway-name } — Sêft
-extension-colorways-balanced-name = { $colorway-name } — Balansearre
+extension-colorways-soft-name = { $colorway-name } – Sêft
+extension-colorways-balanced-name = { $colorway-name } – Balansearre
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Fet
+extension-colorways-bold-name = { $colorway-name } – Stevich

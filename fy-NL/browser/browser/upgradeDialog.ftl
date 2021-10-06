@@ -64,6 +64,31 @@ upgrade-dialog-default-secondary-button = No net
 upgrade-dialog-theme-title-2 = Soargje foar in skjinne start mei in fris tema
 upgrade-dialog-theme-system = Systeemtema
     .title = It tema fan it bestjoeringssysteem folgje foar knoppen, menu’s en finsters
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Libben yn kleur
+upgrade-dialog-start-subtitle = Libbene nije kleuren. Beskikber foar in beheinde tiid.
+upgrade-dialog-start-primary-button = Kleurstellingen ferkenne.
+upgrade-dialog-start-secondary-button = No net
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Kies jo palet
+upgrade-dialog-colorway-home-checkbox = Skeakel oer nei Firefox Home mei in tematyske eftergrûn
+upgrade-dialog-colorway-primary-button = Kleurstelling bewarje
+upgrade-dialog-colorway-secondary-button = Foarige tema behâlde
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Standerttema's ferkenne
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Kleurstellingen { $colorwayName } ûntdekke
+upgrade-dialog-colorway-default-theme = Standert
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatysk
+    .title = It bestjoeringssysteem folgje foar knoppen, menu’s en finsters
 upgrade-dialog-theme-light = Ljocht
     .title = In ljocht tema foar knoppen, menu’s en finsters brûke
 upgrade-dialog-theme-dark = Donker
@@ -74,3 +99,12 @@ upgrade-dialog-theme-keep = Foarige behâlde
     .title = It tema dat jo ynstallearre hawwe eardat jo { -brand-short-name } bywurke brûke
 upgrade-dialog-theme-primary-button = Tema bewarje
 upgrade-dialog-theme-secondary-button = No net
+upgrade-dialog-colorway-variation-soft = Sêft
+    .title = Dizze kleurstelling brûke
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Tank dat jo keazen hawwe foar ús
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } is in ûnôfhinklike browser dy't stipe wurdt troch in non-profit. Tegearre meitsje wy it web feiliger, sûner en mear privee.
+upgrade-dialog-thankyou-primary-button = Start mei browsen
