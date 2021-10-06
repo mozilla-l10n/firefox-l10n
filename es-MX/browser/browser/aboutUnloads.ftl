@@ -7,3 +7,7 @@
 ### feature.
 
 about-unloads-page-title = Descarga de pestañas
+about-unloads-last-updated = Última actualización: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = Descargar
+    .title = Descargar la pestaña con la mayor prioridad
+about-unloads-no-unloadable-tab = No hay pestañas para descargar.
