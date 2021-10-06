@@ -133,6 +133,14 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisarme al cerrar varias pestañas
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Confirmar antes de salir con { $quitKey }
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = Avisarme si al abrir muchas pestañas { -brand-short-name } se pueda poner lento
     .accesskey = d

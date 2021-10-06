@@ -123,6 +123,7 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Administrar marcadores
     .accesskey = M
+places-forget-about-this-site-confirmation-title = Olvidar este sitio
 places-forget-about-this-site-forget = Olvidar
 places-library =
     .title = Biblioteca
