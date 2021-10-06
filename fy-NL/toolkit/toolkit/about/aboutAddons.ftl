@@ -282,6 +282,7 @@ extension-enabled-heading = Ynskeakele
 extension-disabled-heading = Utskeakele
 theme-enabled-heading = Ynskeakele
 theme-disabled-heading = Utskeakele
+theme-monochromatic-heading = Kleurstellingen
 theme-monochromatic-subheading = Libbene nije kleuren fan { -brand-product-name }. Beskikber foar in beheinde tiid.
 plugin-enabled-heading = Ynskeakele
 plugin-disabled-heading = Utskeakele

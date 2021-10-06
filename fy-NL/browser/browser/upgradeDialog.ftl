@@ -101,6 +101,12 @@ upgrade-dialog-theme-primary-button = Tema bewarje
 upgrade-dialog-theme-secondary-button = No net
 upgrade-dialog-colorway-variation-soft = Sêft
     .title = Dizze kleurstelling brûke
+upgrade-dialog-colorway-variation-balanced = Balansearre
+    .title = Dizze kleurstelling brûke
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Stevich
+    .title = Dizze kleurstelling brûke
 
 ## Thank you screen
 
