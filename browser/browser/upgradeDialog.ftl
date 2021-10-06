@@ -114,4 +114,5 @@ upgrade-dialog-colorway-variation-bold = Fuerte
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Gracias por elegirnos
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } es un navegador independiente respaldado por una organización sin fines de lucro. Juntos, estamos haciendo que la Web sea más segura, más saludable y más privada.
 upgrade-dialog-thankyou-primary-button = Empezar a navegar
