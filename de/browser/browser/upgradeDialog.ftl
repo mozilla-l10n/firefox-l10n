@@ -64,6 +64,22 @@ upgrade-dialog-default-secondary-button = Nicht jetzt
 upgrade-dialog-theme-title-2 = Starte neu durch mit einem frischen Theme
 upgrade-dialog-theme-system = System-Theme
     .title = Den Betriebssystemeinstellungen für Schaltflächen, Menüs und Fenster folgen
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Leben in Farbe
+upgrade-dialog-start-secondary-button = Nicht jetzt
+
+## Colorway screen
+
+upgrade-dialog-colorway-secondary-button = Vorheriges Theme beibehalten
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Standard-Themes erkunden
+upgrade-dialog-colorway-default-theme = Standard
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatisch
+    .title = Dem Theme des Betriebssystems für Schaltflächen, Menüs und Fenster folgen
 upgrade-dialog-theme-light = Hell
     .title = Ein helles Theme für Schaltflächen, Menüs und Fenster verwenden
 upgrade-dialog-theme-dark = Dunkel
@@ -74,3 +90,7 @@ upgrade-dialog-theme-keep = Vorheriges behalten
     .title = Das Theme verwenden, welches vor der Aktualisierung von { -brand-short-name } installiert war
 upgrade-dialog-theme-primary-button = Theme speichern
 upgrade-dialog-theme-secondary-button = Nicht jetzt
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Lossurfen
