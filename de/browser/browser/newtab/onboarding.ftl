@@ -151,7 +151,14 @@ mr1-onboarding-import-primary-button-label-attribution = Aus { $previous } impor
 mr1-onboarding-import-primary-button-label-no-attribution = Aus vorherigem Browser importieren
 mr1-onboarding-import-secondary-button-label = Nicht jetzt
 mr2-onboarding-colorway-header = Leben in Farbe
+mr2-onboarding-colorway-subtitle = Lebendige neue Farbgebungen. Verfügbar für eine begrenzte Zeit.
+mr2-onboarding-colorway-primary-button-label = Farbgebung speichern
 mr2-onboarding-colorway-secondary-button-label = Nicht jetzt
+mr2-onboarding-colorway-label-soft = Weich
+mr2-onboarding-colorway-label-balanced = Ausgewogen
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Kühn
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatisch
 # This string will be used for Default theme
@@ -261,6 +268,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Ein dynamisches, farbenfrohes Theme
         für Schaltflächen, Menüs und Fenster verwenden.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Diese Farbgebung verwenden.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Diese Farbgebung verwenden.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = { $colorwayName }-Farbgebungen erkunden.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = { $colorwayName }-Farbgebungen erkunden.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Standard-Themes erkunden.
@@ -270,4 +295,6 @@ mr2-onboarding-default-theme-description =
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Danke, dass du dich für uns entschieden hast
+mr2-onboarding-thank-you-text = { -brand-short-name } ist ein unabhängiger Browser, der von einer gemeinnützigen Organisation unterstützt wird. Gemeinsam machen wir das Web sicherer, gesünder und privater.
 mr2-onboarding-start-browsing-button-label = Lossurfen
