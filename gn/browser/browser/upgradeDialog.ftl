@@ -74,6 +74,13 @@ upgrade-dialog-start-secondary-button = Ani ko’ág̃a
 
 ## Colorway screen
 
+upgrade-dialog-colorway-primary-button = Eñongatu sa’y ojueheguáva
+upgrade-dialog-colorway-secondary-button = Eguereko téma mboyvegua
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Ehapereka téma ypyguáva
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Ehapereka sa’y ojueheguáva { $colorwayName }
 upgrade-dialog-colorway-default-theme = Ijypykue
 upgrade-dialog-theme-light = Sakã
     .title = Eipuru téma sakã votõ, poravorã ha ovetãme g̃uarã
