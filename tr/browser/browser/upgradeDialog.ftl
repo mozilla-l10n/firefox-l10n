@@ -68,7 +68,7 @@ upgrade-dialog-theme-system = Sistem teması
 ## Start screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-start-title = Hayatına renk kat
+upgrade-dialog-start-title = Hayatınıza renk katın
 upgrade-dialog-start-subtitle = Yepyeni renk kuşakları. Sadece sınırlı bir süre için.
 upgrade-dialog-start-primary-button = Renk kuşaklarını keşfet
 upgrade-dialog-start-secondary-button = Daha sonra

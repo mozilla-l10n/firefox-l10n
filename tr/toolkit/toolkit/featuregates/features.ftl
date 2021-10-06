@@ -33,6 +33,7 @@ experimental-features-devtools-color-scheme-simulation =
     .label = Geliştirici Araçları: Renk Şeması Simülasyonu
 experimental-features-devtools-execution-context-selector =
     .label = Geliştirici Araçları: Execution Context Selector
+experimental-features-devtools-execution-context-selector-description = Bu özellik, konsol komut satırında, girdiğiniz ifadenin çalıştırılacağı bağlamı değiştirmenizi sağlayacak bir düğme gösterir. Daha fazla bilgi için <a data-l10n-name="bugzilla1">bug 1605154</a>’e ve <a data-l10n-name="bugzilla2">bug 1605153</a>’e bakabilirsiniz.
 experimental-features-devtools-compatibility-panel =
     .label = Geliştirici Araçları: Uyumluluk Paneli
 experimental-features-devtools-compatibility-panel-description = Sayfa Denetçisi için, uygulamanızın tarayıcılar arası uyumluluk durumunu ayrıntılı olarak gösteren yan panel. Daha fazla bilgi için bkz. <a data-l10n-name="bugzilla">bug 1584464</a>.
