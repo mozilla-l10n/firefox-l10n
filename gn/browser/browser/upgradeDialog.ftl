@@ -82,6 +82,9 @@ upgrade-dialog-colorway-theme-tooltip =
 upgrade-dialog-colorway-colorway-tooltip =
     .title = Ehapereka sa’y ojueheguáva { $colorwayName }
 upgrade-dialog-colorway-default-theme = Ijypykue
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Jehegui
+    .title = Ehapykueho téma apopyvusu rehegua votõ, poravorã ha ovetã
 upgrade-dialog-theme-light = Sakã
     .title = Eipuru téma sakã votõ, poravorã ha ovetãme g̃uarã
 upgrade-dialog-theme-dark = Ypytũ
@@ -92,7 +95,17 @@ upgrade-dialog-theme-keep = Eguereko mboyvegua
     .title = Eipuru téma emohendáva embohekopyahu mbyve { -brand-short-name }
 upgrade-dialog-theme-primary-button = Eñongatu téma
 upgrade-dialog-theme-secondary-button = Ani ko’ág̃a
+upgrade-dialog-colorway-variation-soft = Kangy
+    .title = Eipuru ko ñembojopyru
+upgrade-dialog-colorway-variation-balanced = Vavapyre
+    .title = Eipuru ko ñembojopyru
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Mohũ
+    .title = Eipuru ko ñembojopyru
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Aguyje reimére orendive
 upgrade-dialog-thankyou-primary-button = Eñepyrũ eikundaha
