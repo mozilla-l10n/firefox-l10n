@@ -67,6 +67,8 @@ upgrade-dialog-theme-system = Thème du système
 
 ## Start screen
 
+upgrade-dialog-start-subtitle = De nouveaux coloris somptueux. Disponibles pendant une durée limitée.
+upgrade-dialog-start-primary-button = Découvrir ces coloris
 upgrade-dialog-start-secondary-button = Plus tard
 
 ## Colorway screen

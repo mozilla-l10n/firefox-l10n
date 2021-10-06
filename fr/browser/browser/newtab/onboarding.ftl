@@ -148,6 +148,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importer depuis { $prev
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
 mr1-onboarding-import-secondary-button-label = Plus tard
+mr2-onboarding-colorway-subtitle = De nouveaux coloris somptueux. Disponibles pendant une durée limitée.
 mr2-onboarding-colorway-primary-button-label = Enregistrer le coloris
 mr2-onboarding-colorway-secondary-button-label = Plus tard
 mr2-onboarding-colorway-label-balanced = Équilibré
@@ -289,5 +290,6 @@ mr2-onboarding-default-theme-description =
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Merci de nous avoir choisis
 mr2-onboarding-thank-you-text = { -brand-short-name } est un navigateur indépendant soutenu par une organisation à but non lucratif. Ensemble, nous rendons le Web plus sûr, plus sain et plus privé.
 mr2-onboarding-start-browsing-button-label = Commencer la navigation
