@@ -66,8 +66,8 @@ openpgp-key-man-edit-menu =
     .label = Editar
     .accesskey = E
 openpgp-key-man-view-menu =
-    .label = Ver
-    .accesskey = V
+    .label = Exibir
+    .accesskey = x
 openpgp-key-man-generate-menu =
     .label = Gerar
     .accesskey = G
@@ -608,7 +608,7 @@ invalid-email = Erro - Endereços de email inválidos
 attachment-pgp-key =
     O anexo '{ $name }' que você está abrindo parece ser um arquivo de chave OpenPGP.
     Clique em 'Importar' para importar as chaves contidas, ou em 'Ver' para ver o conteúdo do arquivo em uma janela do navegador
-dlg-button-view = &Ver
+dlg-button-view = E&xibir
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Mensagem descriptografada (restaurado o formato de email PGP corrompido, provavelmente causado por um servidor Exchange antigo, de modo que o resultado pode não ser perfeito para leitura)
 # Strings used in encryption.jsm
