@@ -278,4 +278,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Bizi tercih ettiğiniz için teşekkürler
+mr2-onboarding-thank-you-text = { -brand-short-name }, kâr amacı gütmeyen bir kuruluşun elinden çıkan bağımsız bir tarayıcıdır. Birlikte web’i daha güvenli, sağlıklı ve gizlilik yanlısı bir hale getiriyoruz.
 mr2-onboarding-start-browsing-button-label = Gezinmeye başla

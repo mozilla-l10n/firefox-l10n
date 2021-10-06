@@ -111,4 +111,5 @@ upgrade-dialog-colorway-variation-bold = Canlı
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Bizi tercih ettiğiniz için teşekkürler
+upgrade-dialog-thankyou-subtitle = { -brand-short-name }, kâr amacı gütmeyen bir kuruluşun elinden çıkan bağımsız bir tarayıcıdır. Birlikte web’i daha güvenli, sağlıklı ve gizlilik yanlısı bir hale getiriyoruz.
 upgrade-dialog-thankyou-primary-button = Gezinmeye başla
