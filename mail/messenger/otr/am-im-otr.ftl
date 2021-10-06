@@ -10,4 +10,6 @@ view-fingerprint-button =
     .label = Upravljaj prstne odtise stikov
     .accesskey = t
 otr-settings-title = Nastavitve OTR
-
+otr-verify-nudge =
+    .label = Vedno me opomni, naj preverim nepreverjen stik
+otr-not-yet-available = še ni na voljo
