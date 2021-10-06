@@ -729,6 +729,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostrar este mensaje cuando se bloqueen ventanas emergentes
     .accesskey = D
+edit-popup-settings =
+    .label = Administrar ajustes de ventanas emergentes…
+    .accesskey = A
 picture-in-picture-hide-toggle =
     .label = Ocultar interruptor de imagen superpuesta
     .accesskey = H
@@ -772,3 +775,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Mostrar todas las pestañas
     .tooltiptext = Mostrar todas las pestañas
+
+## Infobar shown at startup to suggest session-restore
+
