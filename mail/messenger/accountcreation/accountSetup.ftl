@@ -212,6 +212,8 @@ exchange-dialog-cancel-button = Vazgeç
 
 ## Dismiss account creation dialog
 
+account-setup-no-account-checkbox = { -brand-short-name }’ü e-posta hesabı olmadan kullan
+    .accesskey = k
 exit-dialog-cancel-button = Kuruluma devam et
     .accesskey = d
 exit-dialog-confirm-button = Kurulumdan çık

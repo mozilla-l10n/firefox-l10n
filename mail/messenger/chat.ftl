@@ -4,18 +4,15 @@
 
 chat-joining-chat-icon2 =
     .alt = Sohbete katılma
-
 chat-left-chat-icon2 =
     .alt = Sohbetten ayrıldı
-
 chat-participant-owner-role-icon2 =
     .alt = Sahip
-
 chat-participant-administrator-role-icon2 =
     .alt = Yönetici
-
 chat-participant-moderator-role-icon2 =
     .alt = Moderatör
-
 chat-participant-voiced-role-icon2 =
     .alt = Katılımcı mesaj gönderebilir
+chat-buddy-identity-status-verified = Doğrulandı
+chat-buddy-identity-status-unverified = Doğrulanmadı
