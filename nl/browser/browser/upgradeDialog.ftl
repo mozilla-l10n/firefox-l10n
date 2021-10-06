@@ -64,6 +64,31 @@ upgrade-dialog-default-secondary-button = Niet nu
 upgrade-dialog-theme-title-2 = Zorg voor een schone start met een fris thema
 upgrade-dialog-theme-system = Systeemthema
     .title = Het thema van het besturingssysteem volgen voor knoppen, menu’s en vensters
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Leven in kleur
+upgrade-dialog-start-subtitle = Levendige nieuwe kleurstellingen. Beschikbaar gedurende een beperkte tijd.
+upgrade-dialog-start-primary-button = Kleurstellingen verkennen
+upgrade-dialog-start-secondary-button = Niet nu
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Kies uw palet
+upgrade-dialog-colorway-home-checkbox = Overschakelen naar Firefox Home met thema-achtergrond
+upgrade-dialog-colorway-primary-button = Kleurstelling opslaan
+upgrade-dialog-colorway-secondary-button = Vorige thema behouden
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Standaardthema’s verkennen
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Kleurstellingen van { $colorwayName } verkennen
+upgrade-dialog-colorway-default-theme = Standaard
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatisch
+    .title = Het besturingssysteem volgen voor knoppen, menu’s en vensters
 upgrade-dialog-theme-light = Licht
     .title = Een licht thema voor knoppen, menu’s en vensters gebruiken
 upgrade-dialog-theme-dark = Donker
@@ -74,3 +99,18 @@ upgrade-dialog-theme-keep = Vorige behouden
     .title = Het thema dat u had geïnstalleerd voordat u { -brand-short-name } bijwerkte gebruiken
 upgrade-dialog-theme-primary-button = Thema opslaan
 upgrade-dialog-theme-secondary-button = Niet nu
+upgrade-dialog-colorway-variation-soft = Zacht
+    .title = Deze kleurstelling gebruiken
+upgrade-dialog-colorway-variation-balanced = Gebalanceerd
+    .title = Deze kleurstelling gebruiken
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Stevig
+    .title = Deze kleurstelling gebruiken
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Bedankt dat u voor ons kiest
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } is een onafhankelijke browser die wordt ondersteund door een non-profitorganisatie. Samen maken we het internet veiliger, gezonder en meer privé.
+upgrade-dialog-thankyou-primary-button = Beginnen met surfen
