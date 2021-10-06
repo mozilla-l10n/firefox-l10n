@@ -64,7 +64,7 @@ detail-private-browsing-off =
     .label = Tillåt inte
     .tooltiptext = Aktivera inte i privat surfning
 detail-home =
-    .label = Webbplats
+    .label = Startsida
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -291,7 +291,7 @@ never-activate-button = Aktivera aldrig
 addon-detail-author-label = Utvecklare
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Senast uppdaterad
-addon-detail-homepage-label = Hemsida
+addon-detail-homepage-label = Startsida
 addon-detail-rating-label = Betyg
 # Message for add-ons with a staged pending update.
 install-postponed-message = Detta tillägg kommer att uppdateras när { -brand-short-name } startar om.

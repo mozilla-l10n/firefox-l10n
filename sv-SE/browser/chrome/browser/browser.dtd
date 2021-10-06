@@ -21,13 +21,15 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navigering">
-
 <!ENTITY fullScreenCmd.label "Helskärm">
 
 <!ENTITY pictureInPictureHideToggle.label "Dölj bild-i-bild växling">
 <!ENTITY pictureInPictureHideToggle.accesskey "D">
 
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Logga in på &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -41,7 +43,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Startsida">
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Hemsida">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; startsida">
 
 <!ENTITY historyButton.label            "Historik">
 
@@ -70,6 +72,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Inga öppna flikar">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Visa flikar från denna enhet">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -135,7 +139,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Webbläsarflikar">
-
 
 <!ENTITY uiTour.infoPanel.close "Stäng">
 

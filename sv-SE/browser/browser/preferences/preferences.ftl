@@ -26,7 +26,7 @@ category-list =
 pane-general-title = Allmänt
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = Hem
+pane-home-title = Startsida
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Sök
@@ -478,7 +478,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Innehåll Firefox-startsida
-home-prefs-content-description = Välj vilket innehåll du vill ha på din startskärm i Firefox.
+home-prefs-content-description = Välj vilket innehåll du vill ha på din startsida i Firefox.
 home-prefs-search-header =
     .label = Webbsök
 home-prefs-topsites-header =
