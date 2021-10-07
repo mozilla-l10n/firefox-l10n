@@ -105,8 +105,8 @@ upgrade-dialog-colorway-variation-balanced = Balanceado
     .title = Usar esa combinación
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-upgrade-dialog-colorway-variation-bold = Negrita
-    .title = Usar esa combinación
+upgrade-dialog-colorway-variation-bold = Fuerte
+    .title = Usar esta combinación
 
 ## Thank you screen
 
