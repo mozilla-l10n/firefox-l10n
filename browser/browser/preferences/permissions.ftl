@@ -5,77 +5,59 @@
 permissions-window =
     .title = Exceptions
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address of website
     .accesskey = d
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-button-off =
     .label = Turn Off
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Turn Off Temporarily
     .accesskey = T
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Remove Website
     .accesskey = R
-
 permissions-remove-all =
     .label = Remove All Websites
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Save Changes
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Default for all websites:
-
 permissions-searchbox =
     .placeholder = Search Website
-
 permissions-capabilities-autoplay-allow =
     .label = Allow Audio and Video
 permissions-capabilities-autoplay-block =
     .label = Block Audio
 permissions-capabilities-autoplay-blockall =
     .label = Block Audio and Video
-
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Always Ask
-
 permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
     .value = Block
 permissions-capabilities-listitem-allow-session =
     .value = Allow for Session
-
 permissions-capabilities-listitem-off =
     .value = Off
 permissions-capabilities-listitem-off-temporarily =
@@ -98,7 +80,7 @@ permissions-exceptions-etp-desc = You’ve turned off protections on these websi
 permissions-exceptions-cookie-window =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = You can specify which websites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
+permissions-exceptions-cookie-desc = You can specify which websites are always or never allowed to use cookies and site data. Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
 
 ## Exceptions - HTTPS-Only Mode
 
