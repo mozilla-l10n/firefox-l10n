@@ -122,19 +122,19 @@ perftools-onboarding-reenable-old-panel = (per un periodo limitato di tempo sar�
 perftools-onboarding-close-button =
   .aria-label = Chiudi il messaggio introduttivo
 
-profiler-popup-presets-web-developer-description = Preset consigliato per il debug della maggior parte delle applicazioni web, con overhead limitato.
-profiler-popup-presets-web-developer-label = Sviluppo web
+perftools-presets-web-developer-description = Preset consigliato per il debug della maggior parte delle applicazioni web, con overhead limitato.
+perftools-presets-web-developer-label = Sviluppo web
 
-profiler-popup-presets-firefox-platform-description = Preset consigliato per il debug degli aspetti interni della piattaforma di Firefox.
-profiler-popup-presets-firefox-platform-label = Firefox - Piattaforma
+perftools-presets-firefox-platform-description = Preset consigliato per il debug degli aspetti interni della piattaforma di Firefox.
+perftools-presets-firefox-platform-label = Firefox - Piattaforma
 
-profiler-popup-presets-firefox-front-end-description = Preset consigliato per il debug degli aspetti interni dell’interfaccia (front-end) di Firefox.
-profiler-popup-presets-firefox-front-end-label = Firefox - Front-end
+perftools-presets-firefox-front-end-description = Preset consigliato per il debug degli aspetti interni dell’interfaccia (front-end) di Firefox.
+perftools-presets-firefox-front-end-label = Firefox - Front-end
 
-profiler-popup-presets-firefox-graphics-description = Preset consigliato per l’analisi delle prestazioni grafiche di Firefox.
-profiler-popup-presets-firefox-graphics-label = Firefox - Grafica
+perftools-presets-firefox-graphics-description = Preset consigliato per l’analisi delle prestazioni grafiche di Firefox.
+perftools-presets-firefox-graphics-label = Firefox - Grafica
 
-profiler-popup-presets-media-description = Preset consigliato per la diagnosi di problemi audio e video.
-profiler-popup-presets-media-label = Multimediale
+perftools-presets-media-description = Preset consigliato per la diagnosi di problemi audio e video.
+perftools-presets-media-label = Multimediale
 
-profiler-popup-presets-custom-label = Personalizzato
+perftools-presets-custom-label = Personalizzato
