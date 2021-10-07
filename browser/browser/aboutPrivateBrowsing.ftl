@@ -26,6 +26,8 @@ about-private-browsing-turn-on-vpn = Prøv { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-simplified = { -brand-short-name } rydder din søge- og browsing-historik, når du lukker alle private vinduer, men dette gør dig ikke anonym.
 about-private-browsing-learn-more-link = Læs mere
 about-private-browsing-hide-activity = Skjul din aktivitet og din placering
+about-private-browsing-get-privacy = Få beskyttet dine private oplysninger overalt på nettet
+about-private-browsing-hide-activity-1 = Skjul din placering og din aktivitet på nettet med { -mozilla-vpn-brand-name }. Med ét klik får du en sikker forbindelse, selv på offentlige netværk.
 about-private-browsing-prominent-cta = Beskyt dit privatliv med { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
