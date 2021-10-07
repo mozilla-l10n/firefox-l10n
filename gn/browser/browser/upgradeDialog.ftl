@@ -69,6 +69,7 @@ upgrade-dialog-theme-system = Téma apopyvusu
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Tekove sa’ýndi
+upgrade-dialog-start-subtitle = Sa’y ojuehegua overáva pyahu. Eipurukuaáva sapy’ami.
 upgrade-dialog-start-primary-button = Ehapereka sa’y ojueheguáva
 upgrade-dialog-start-secondary-button = Ani ko’ág̃a
 

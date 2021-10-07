@@ -225,6 +225,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Ñe’ẽmbyrã Ojehayhuvéva:
+newtab-pocket-new-topics-title = ¿Eipotavépa tembiasakue? Ehecha téma ojehechavéva { -pocket-brand-name } rehegua
 newtab-pocket-more-recommendations = Hetave je’eporã
 newtab-pocket-learn-more = Kuaave
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
