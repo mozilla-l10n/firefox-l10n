@@ -20,6 +20,6 @@ customize-menu-add-to-overflowmenu =
 
 # The forget button can be added to the toolbar or overflow menu via the cutomization menu.
 panic-button-thankyou-msg1 = Вашу недавню історію видалено.
-panic-button-thankyou-msg2 = Безпечний перегляд!
+panic-button-thankyou-msg2 = Безпечного перегляду!
 panic-button-thankyou-button =
     .label = Дякую!
