@@ -67,7 +67,7 @@ policy-ExtensionUpdate = Habilitar o deshabilitar las actualizaciones automátic
 policy-FirefoxHome = Configurar inicio de Firefox.
 policy-FlashPlugin = Permitir o denegar el uso del plugin Flash.
 policy-Handlers = Configurar controladores de aplicaciones predeterminados.
-policy-HardwareAcceleration = Si es falso, desactivar la aceleración de hardware.
+policy-HardwareAcceleration = Si es falso, deshabilitar aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y bloquear opcionalmente la página de inicio.
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
