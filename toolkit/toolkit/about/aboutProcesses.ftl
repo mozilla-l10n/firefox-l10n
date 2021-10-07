@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Prosessbehandler
-
 # The Actions column
 about-processes-column-action =
     .title = Handlinger
@@ -15,18 +14,22 @@ about-processes-shutdown-process =
     .title = Stopp faner og avslutt prosessen
 about-processes-shutdown-tab =
     .title = Lukk fane
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Profilér alle trådene i denne prosessen i { $duration } sekund
+           *[other] Profilér alle trådene i denne prosessen i { $duration } sekunder
+        }
 
 ## Column headers
 
 about-processes-column-name = Navn
 about-processes-column-memory-resident = Minne
 about-processes-column-cpu-total = Prosessor
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
 ## Process names
 ## Variables:
@@ -47,7 +50,6 @@ about-processes-socket-process = Nettverk ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Forkserver ({ $pid })
 about-processes-preallocated-process = Forhåndstildelt ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -83,7 +85,6 @@ about-processes-active-threads =
         [one] { $active } aktiv tråd av totalt { $number }: { $list }
        *[other] { $active } aktive tråder av totalt { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -95,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } inaktiv tråd
        *[other] { $number } inaktive tråder
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Tråd-ID: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Fane: { $name }
 about-processes-preloaded-tab = Forhåndslastet ny fane
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Underramme: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -132,10 +129,8 @@ about-processes-frame-name-many = Underrammer ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Total prosessortid: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (måling)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = inaktiv
     .title = Total prosessortid: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
@@ -154,7 +149,6 @@ about-processes-cpu-idle = inaktiv
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Utvikling: { $deltaSign } { NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
