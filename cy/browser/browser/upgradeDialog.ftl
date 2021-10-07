@@ -77,7 +77,7 @@ upgrade-dialog-start-secondary-button = Nid nawr
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Dewis eich palet
-upgrade-dialog-colorway-home-checkbox = Newid i Gartref Firefox gyda chefndir y thema
+upgrade-dialog-colorway-home-checkbox = Newid i Cartref Firefox gyda chefndir y thema
 upgrade-dialog-colorway-primary-button = Cadw'r llwybr lliw
 upgrade-dialog-colorway-secondary-button = Cadw'r thema flaenorol
 upgrade-dialog-colorway-theme-tooltip =
