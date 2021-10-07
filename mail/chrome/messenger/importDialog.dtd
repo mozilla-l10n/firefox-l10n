@@ -45,7 +45,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label             "Finalizar">
 <!ENTITY cancel.label             "Cancelar">
 
-<!ENTITY select.label             "O seleccione el tipo de material a importar:">
+<!ENTITY select.label             "o seleccione el tipo de material a importar:">
 
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">
