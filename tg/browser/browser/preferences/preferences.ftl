@@ -43,6 +43,7 @@ category-experimental =
     .tooltiptext = Озмоишҳои { -brand-short-name }
 pane-experimental-subtitle = Бо эҳтиёт идома диҳед
 pane-experimental-search-results-header = Озмоишҳои { -brand-short-name }: Бо эҳтиёт идома диҳед
+pane-experimental-description2 = Тағйир додани хусусиятҳо танзимоти иловагӣ метавонад ба кор ё амнияти { -brand-short-name } таъсир расонад.
 pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
