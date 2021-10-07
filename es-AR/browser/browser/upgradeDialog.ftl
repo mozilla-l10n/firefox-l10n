@@ -88,7 +88,7 @@ upgrade-dialog-colorway-colorway-tooltip =
 upgrade-dialog-colorway-default-theme = Predeterminado
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Auto
-    .title = Seguir el tema del sistema operativo para los botones, menús y ventanas
+    .title = Usar el tema del sistema operativo para los botones, menús y ventanas
 upgrade-dialog-theme-light = Claro
     .title = Usar un tema claro para botones, menús y ventanas
 upgrade-dialog-theme-dark = Oscuro
