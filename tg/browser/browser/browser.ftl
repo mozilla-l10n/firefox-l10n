@@ -776,3 +776,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Рӯйхати ҳамаи варақаҳо
     .tooltiptext = Рӯйхати ҳамаи варақаҳо
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Варақаҳои қаблиро мекушоед?</strong> Шумо метавонед ҷаласаи қаблии худро тавассути менюи барномаи { -brand-short-name } <img data-l10n-name="icon"/>, дар зери «Таърих», кушоед.
+restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ тавр

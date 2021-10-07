@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Бекор кардан
 customize-mode-lwthemes-my-themes =
     .value = Мавзӯъҳои ман
+customize-mode-lwthemes-link = Идоракунии мавзӯъҳо
 customize-mode-touchbar-cmd =
     .label = Танзим кардани навори ламсӣ…
 customize-mode-downloads-button-autohide =
