@@ -227,17 +227,23 @@ newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populære emner:
+newtab-pocket-new-topics-title = Vil du have endnu flere historier? Se disse populære emner fra { -pocket-brand-name }
 newtab-pocket-more-recommendations = Flere anbefalinger
 newtab-pocket-learn-more = Læs mere
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er en del af { -brand-product-name }-familien
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Gem til { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Gemt til { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Indlæs flere historier
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Du har læst det hele!
+newtab-pocket-last-card-desc = Kom tilbage senere for at se flere historier.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

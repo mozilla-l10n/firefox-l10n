@@ -779,3 +779,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = List alle faneblade
     .tooltiptext = List alle faneblade
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Vis mig hvordan
