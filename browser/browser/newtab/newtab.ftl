@@ -240,6 +240,10 @@ newtab-pocket-load-more-stories-button = Last inn flere artikler
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Du har lest alt!
+newtab-pocket-last-card-desc = Kom tilbake senere for mer.
+newtab-pocket-last-card-image =
+    .alt = Du har lest alt
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
