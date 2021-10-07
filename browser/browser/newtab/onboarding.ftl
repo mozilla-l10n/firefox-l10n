@@ -152,6 +152,11 @@ mr2-onboarding-colorway-header = Az élet színesben
 mr2-onboarding-colorway-subtitle = Élénk új színvilágok. Korlátozott ideig elérhető.
 mr2-onboarding-colorway-primary-button-label = Színvilág mentése
 mr2-onboarding-colorway-secondary-button-label = Most nem
+mr2-onboarding-colorway-label-soft = Puha
+mr2-onboarding-colorway-label-balanced = Kiegyensúlyozott
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Élénk
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatikus
 # This string will be used for Default theme
@@ -285,3 +290,9 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Fedezze fel az alapértelmezett témákat.
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Köszönjük, hogy minket választottál
+mr2-onboarding-thank-you-text = A { -brand-short-name } egy független böngésző, melyet egy nonprofit szervezet támogat. Együtt biztonságosabbá, egészségesebbé és privátabbá tesszük a világhálót.
+mr2-onboarding-start-browsing-button-label = Böngészés megkezdése
