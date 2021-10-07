@@ -75,6 +75,9 @@ upgrade-dialog-start-secondary-button = Ani ko’ág̃a
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Eiporavo sa’yrenda
+upgrade-dialog-colorway-home-checkbox = Emoambue Firefox kuatiarogue ñepyrũ ta’ãngarenda ndive
 upgrade-dialog-colorway-primary-button = Eñongatu sa’y ojueheguáva
 upgrade-dialog-colorway-secondary-button = Eguereko téma mboyvegua
 upgrade-dialog-colorway-theme-tooltip =
