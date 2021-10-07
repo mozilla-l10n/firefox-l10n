@@ -244,6 +244,8 @@ newtab-pocket-load-more-stories-button = Indlæs flere historier
 
 newtab-pocket-last-card-title = Du har læst det hele!
 newtab-pocket-last-card-desc = Kom tilbage senere for at se flere historier.
+newtab-pocket-last-card-image =
+    .alt = Du har læst det hele
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
