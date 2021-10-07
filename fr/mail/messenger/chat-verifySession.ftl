@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = C
     .buttonlabelextra2 = Elles ne correspondent pas
     .buttonaccesskeyextra2 = n
+challenge-label = Vérifiez que la chaîne affichée correspond à l’affichage à l’autre extrémité.
