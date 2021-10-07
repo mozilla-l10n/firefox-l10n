@@ -275,6 +275,7 @@ extension-disabled-heading = Ojepuruve’ỹva
 theme-enabled-heading = Myandypyre
 theme-disabled-heading = Ojepuruve’ỹva
 theme-monochromatic-heading = Sa’y ojueheguáva
+theme-monochromatic-subheading = Sa’y ojuehegua overáva pyahu { -brand-product-name }. Eipurukuaáva sapy’ami.
 plugin-enabled-heading = Myandypyre
 plugin-disabled-heading = Ojepuruve’ỹva
 dictionary-enabled-heading = Myandypyre
