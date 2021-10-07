@@ -80,6 +80,15 @@ upgrade-dialog-colorway-title = Válassza ki a palettáját
 upgrade-dialog-colorway-home-checkbox = Váltson a temázott háttérrel rendelkező Firefox kezdőoldalra
 upgrade-dialog-colorway-primary-button = Színvilág mentése
 upgrade-dialog-colorway-secondary-button = Előző téma megtartása
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Alapértelmezett témák felfedezése
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Fedezze fel a(z) { $colorwayName } színvilágokat
+upgrade-dialog-colorway-default-theme = Alapértelmezett
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatikus
+    .title = Az operációs rendszer témájának követése a gomboknál, menüknél és ablakoknál
 upgrade-dialog-theme-light = Világos
     .title = Világos téma használata a gomboknál, menüknél és ablakoknál
 upgrade-dialog-theme-dark = Sötét
@@ -90,6 +99,18 @@ upgrade-dialog-theme-keep = Előző megtartása
     .title = A { -brand-short-name } frissítése előtt használt téma használata
 upgrade-dialog-theme-primary-button = Téma mentése
 upgrade-dialog-theme-secondary-button = Most nem
+upgrade-dialog-colorway-variation-soft = Puha
+    .title = Ezen színvilág használata
+upgrade-dialog-colorway-variation-balanced = Kiegyensúlyozott
+    .title = Ezen színvilág használata
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Élénk
+    .title = Ezen színvilág használata
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Köszönjük, hogy minket választott
+upgrade-dialog-thankyou-subtitle = A { -brand-short-name } egy független böngésző, melyet egy nonprofit szervezet támogat. Együtt biztonságosabbá, egészségesebbé és privátabbá tesszük a világhálót.
+upgrade-dialog-thankyou-primary-button = Böngészés megkezdése
