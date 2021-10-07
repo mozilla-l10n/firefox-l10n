@@ -116,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restablir la session precedenta
     .accesskey = s
+startup-restore-windows-and-tabs =
+    .label = Dobrir las fenèstras e onglets precedents
+    .accesskey = o
 startup-restore-warn-on-quit =
     .label = Vos avisar en sortir del navegador
 disable-extension =
@@ -132,6 +135,14 @@ warn-on-close-multiple-tabs =
     .accesskey = m
 confirm-on-close-multiple-tabs =
     .label = Confirmar abans la tampadura de mantun onglet
+    .accesskey = a
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Confirmar abans de quitar amb { $quitKey }
     .accesskey = a
 warn-on-open-many-tabs =
     .label = Vos avisar quand dobrir d'onglets multiples pòt alentir { -brand-short-name }
