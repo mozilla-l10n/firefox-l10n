@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Página:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -49,7 +48,7 @@ printpreview-sheet-of-sheets = { $sheetNum } de { $sheetCount }
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
 printpreview-percentage-value =
-    .label = { $percent } %
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Primera página
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Última página
-
 printpreview-homearrow-button =
     .title = Primera página
 printpreview-previousarrow-button =
