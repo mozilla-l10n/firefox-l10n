@@ -293,6 +293,6 @@ mr2-onboarding-default-theme-description =
 
 ## Strings for Thank You page
 
-mr2-onboarding-thank-you-header = Köszönjük, hogy minket választottál
+mr2-onboarding-thank-you-header = Köszönjük, hogy minket választott
 mr2-onboarding-thank-you-text = A { -brand-short-name } egy független böngésző, melyet egy nonprofit szervezet támogat. Együtt biztonságosabbá, egészségesebbé és privátabbá tesszük a világhálót.
 mr2-onboarding-start-browsing-button-label = Böngészés megkezdése
