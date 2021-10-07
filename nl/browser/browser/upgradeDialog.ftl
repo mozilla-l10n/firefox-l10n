@@ -77,7 +77,7 @@ upgrade-dialog-start-secondary-button = Niet nu
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Kies uw palet
-upgrade-dialog-colorway-home-checkbox = Overschakelen naar Firefox Home met thema-achtergrond
+upgrade-dialog-colorway-home-checkbox = Overschakelen naar Firefox-startpagina met thema-achtergrond
 upgrade-dialog-colorway-primary-button = Kleurstelling opslaan
 upgrade-dialog-colorway-secondary-button = Vorige thema behouden
 upgrade-dialog-colorway-theme-tooltip =
