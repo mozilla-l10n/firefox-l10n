@@ -67,9 +67,17 @@ upgrade-dialog-theme-system = Systemtema
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Livet i farger
+upgrade-dialog-start-subtitle = Levende nye fargesammensettinger. Tilgjengelig i en begrenset periode.
+upgrade-dialog-start-primary-button = Utforsk fargesammensettinger
+upgrade-dialog-start-secondary-button = Ikke nå
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Velg din palett
+upgrade-dialog-colorway-home-checkbox = Bytt til Firefox-startside med temabakgrunn
 upgrade-dialog-colorway-primary-button = Lagre fargesammensetting
 upgrade-dialog-colorway-secondary-button = Behold forrige tema
 upgrade-dialog-colorway-theme-tooltip =
@@ -106,3 +114,5 @@ upgrade-dialog-colorway-variation-bold = Modig
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Takk for at du valgte oss
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } er en uavhengig nettleser som støttes av en ideell organisasjon. Sammen gjør vi nettet tryggere, sunnere og mer privat.
+upgrade-dialog-thankyou-primary-button = Begynn å surfe
