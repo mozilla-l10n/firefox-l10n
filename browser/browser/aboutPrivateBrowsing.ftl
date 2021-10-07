@@ -28,6 +28,7 @@ about-private-browsing-info-description-simplified = { -brand-short-name } slett
 about-private-browsing-learn-more-link = Les mer
 about-private-browsing-hide-activity = Skjul aktiviteten og plasseringen din, hvor enn du surfer
 about-private-browsing-get-privacy = Få personvernbeskyttelse overalt der du surfer
+about-private-browsing-hide-activity-1 = Skjul nettleseraktivitet og plasseringen din med { -mozilla-vpn-brand-name }. Ett klikk skaper en sikker tilkobling, selv på offentlig Wi-Fi.
 about-private-browsing-prominent-cta = Hold deg privat med { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
