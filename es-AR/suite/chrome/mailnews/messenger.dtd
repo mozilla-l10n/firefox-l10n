@@ -218,7 +218,7 @@
 <!ENTITY bodyAllParts.label "Todas las partes del cuerpo">
 <!ENTITY bodyAllParts.accesskey "a">
 
-<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.label "Cuerpo del mensaje como">
 <!ENTITY bodyMenuFeed.accesskey "S">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "w">

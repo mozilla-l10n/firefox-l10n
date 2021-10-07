@@ -6,7 +6,7 @@
 <!ENTITY mailListWindow.title           "Lista de correo">
 
 <!-- Labels and Access Keys -->
-<!ENTITY addToAddressBook.label         "Agregar a: ">
+<!ENTITY addToAddressBook.label         "Agregar a:">
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Nombre de lista:">
 <!ENTITY ListName.accesskey             "l">
