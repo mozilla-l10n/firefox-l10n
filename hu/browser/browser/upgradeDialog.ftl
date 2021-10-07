@@ -64,6 +64,22 @@ upgrade-dialog-default-secondary-button = Most nem
 upgrade-dialog-theme-title-2 = Induljon tisztán egy ropogós, új témával
 upgrade-dialog-theme-system = Rendszertéma
     .title = Az operációs rendszer témájának követése a gomboknál, menüknél és ablakoknál
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Az élet színesben
+upgrade-dialog-start-subtitle = Élénk új színvilágok. Korlátozott ideig elérhető.
+upgrade-dialog-start-primary-button = Fedezze fel a színvilágokat
+upgrade-dialog-start-secondary-button = Most nem
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Válassza ki a palettáját
+upgrade-dialog-colorway-home-checkbox = Váltson a temázott háttérrel rendelkező Firefox kezdőoldalra
+upgrade-dialog-colorway-primary-button = Színvilág mentése
+upgrade-dialog-colorway-secondary-button = Előző téma megtartása
 upgrade-dialog-theme-light = Világos
     .title = Világos téma használata a gomboknál, menüknél és ablakoknál
 upgrade-dialog-theme-dark = Sötét
@@ -74,3 +90,6 @@ upgrade-dialog-theme-keep = Előző megtartása
     .title = A { -brand-short-name } frissítése előtt használt téma használata
 upgrade-dialog-theme-primary-button = Téma mentése
 upgrade-dialog-theme-secondary-button = Most nem
+
+## Thank you screen
+
