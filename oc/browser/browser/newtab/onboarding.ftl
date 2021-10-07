@@ -149,6 +149,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 mr1-onboarding-import-primary-button-label-no-attribution = Importar d’un autre navegador
 mr1-onboarding-import-secondary-button-label = Pas ara
 mr2-onboarding-colorway-header = La vida en color
+mr2-onboarding-colorway-subtitle = Combinasons de colors vibrantas. Disponiblas durant un temps limitat.
 mr2-onboarding-colorway-primary-button-label = Salvar colorit
 mr2-onboarding-colorway-secondary-button-label = Pas ara
 mr2-onboarding-colorway-label-soft = Leugièr
