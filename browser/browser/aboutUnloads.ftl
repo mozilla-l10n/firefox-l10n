@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = Descargament de l’onglet
+about-unloads-intro-1 = { -brand-short-name } possedís una foncionalitat que descarga automaticament d’onglets per empachar lo plantatge de l’aplicacion per manca de memòria quand la quantitat de memòria disponibla del sistèma es febla. L’onglet de descargar es causit segon mantun atribut. Aquesta pagina mòstra coma { -brand-short-name } causís la prioritat dels onglets e quin serà descargat quand lo descargament d’onglets serà amodat.
 about-unloads-last-updated = Darrièra actualizacion : { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Descargar
     .title = Descargar mai la prioritat mai nauta
