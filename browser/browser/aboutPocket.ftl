@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = 新增標籤
-
 pocket-panel-saved-error-generic = 嘗試儲存至 { -pocket-brand-name } 時發生錯誤。
 pocket-panel-saved-error-tag-length = 標籤僅能有 25 字元
 pocket-panel-saved-error-only-links = 僅能儲存鏈結
