@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Activa la presa en caarga de la 
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS : calques en cascada
+experimental-features-css-cascade-layers-description = Activa la presa en carga dels jaces CSS en cascada (cascade layers). Veire l’ <a data-l10n-name="spec">especificacion en cors de creacion</a> per mai de detalhs. Senhalatz tot problèma en creant un bug blocant <a data-l10n-name="bugzilla">bug 1699215</a> s’es ligat a aquesta foncionalitat.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
