@@ -70,7 +70,7 @@ upgrade-dialog-theme-system = Системна тема
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Життя барвисте
 upgrade-dialog-start-subtitle = Сповнені життя нові барви. Доступні впродовж обмеженого часу.
-upgrade-dialog-start-primary-button = Переглянути барви
+upgrade-dialog-start-primary-button = Переглянути забарвлення
 upgrade-dialog-start-secondary-button = Не зараз
 
 ## Colorway screen
