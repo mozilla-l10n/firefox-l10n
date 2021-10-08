@@ -38,20 +38,16 @@ menu-quit =
             [windows] A
            *[other] A
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avsluta { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Avsluta { -brand-shorter-name }
-
 menu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -146,7 +142,7 @@ menu-view-bookmarks =
 menu-view-history-button =
     .label = Historik
 menu-view-synced-tabs-sidebar =
-    .label = Synkade Flikar
+    .label = Synkade flikar
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
