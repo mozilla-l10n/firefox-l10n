@@ -285,6 +285,7 @@ extension-disabled-heading = Desactivadas
 theme-enabled-heading = Activat
 theme-disabled-heading = Desactivats
 theme-monochromatic-heading = Colorit
+theme-monochromatic-subheading = Combinasons de colors vibrantas de { -brand-product-name }. Disponiblas durant un temps limitat.
 plugin-enabled-heading = Activats
 plugin-disabled-heading = Desactivats
 dictionary-enabled-heading = Activats
