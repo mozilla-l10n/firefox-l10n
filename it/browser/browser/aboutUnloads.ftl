@@ -6,6 +6,20 @@
 ### feature.
 
 about-unloads-page-title = Scaricamento schede
+about-unloads-intro =
+    { -brand-short-name } include una funzione che permette di scaricare
+    automaticamente le schede per impedire un arresto anomalo dell’applicazione
+    nel caso in cui la memoria disponibile nel sistema diventi insufficiente. La
+    scheda successiva da scaricare viene scelta in base a diversi criteri.
+    Questa pagina mostra in che modo { -brand-short-name } assegna la priorità
+    alle schede e la prossima scheda che verrà scaricata. È possibile
+    scaricare manualmente una scheda utilizzando il pulsante <em>Scarica</em>.
+
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Consultare il documento <a data-l10n-name="doc-link">Tab Unloading</a>
+    per ulteriori informazioni su questa funzione e questa pagina.
 about-unloads-intro-1 =
     { -brand-short-name } include una funzione che permette di scaricare
     automaticamente le schede per impedire un arresto anomalo dell’applicazione
