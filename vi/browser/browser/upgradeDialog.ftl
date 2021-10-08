@@ -77,7 +77,7 @@ upgrade-dialog-start-secondary-button = Không phải bây giờ
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Chọn bảng màu của bạn
-upgrade-dialog-colorway-home-checkbox = Chuyển sang trang chủ Firefox với nền theo chủ đề
+upgrade-dialog-colorway-home-checkbox = Chuyển sang Trang chủ Firefox với nền theo chủ đề
 upgrade-dialog-colorway-primary-button = Lưu màu
 upgrade-dialog-colorway-secondary-button = Giữ chủ đề trước đó
 upgrade-dialog-colorway-theme-tooltip =
