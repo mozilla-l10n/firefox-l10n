@@ -6,25 +6,25 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Remotion de schedas
+about-unloads-page-title = Evacuation de schedas
 about-unloads-intro-1 =
     { -brand-short-name } ha un function que remove automaticamente le
     contento de schedas del memoria pro impedir que le application collabe
     quando le memoria disponibile in le systema deveni insufficiente. Le
-    proxime scheda a esser removite es eligite a base de plure attributos.
+    proxime scheda a esser evacuate es eligite a base de plure attributos.
     Iste pagina monstra como { -brand-short-name } da prioritate al schedas e
-    qual scheda essera removite quando le remotion de schedas es actionate.
+    qual scheda essera evacuate quando le evacuation de schedas es actionate.
 about-unloads-intro-2 =
-    Le schedas existente appare in le tabula hic infra in le mesme ordine usate
-    per { -brand-short-name } pro eliger le proxime scheda a remover. Le IDs de
+    Le schedas existente appare in le tabella hic infra in le mesme ordine usate
+    per { -brand-short-name } pro eliger le proxime scheda a evacuar. Le IDs de
     processo es monstrate in litteras <strong>grasse</strong> quando illos gere
     le quadro principal del scheda, e in <em>italico</em> quando le processo es
     compartite inter schedas differente. Tu pote actionar manualmente le
-    remotion de schedas cliccante le button <em>Remover</em> hic infra.
+    evacuation de schedas cliccante le button <em>Evacuar</em> hic infra.
 about-unloads-last-updated = Ultime actualisation: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Remover
-    .title = Remove le scheda con le maxime prioritate
-about-unloads-no-unloadable-tab = Il non ha alcun schedas removibile.
+about-unloads-button-unload = Evacuar
+    .title = Evacua le scheda con le maxime prioritate
+about-unloads-no-unloadable-tab = Il non ha schedas evacuabile.
 about-unloads-column-priority = Prioritate
 about-unloads-column-host = Hospite
 about-unloads-column-last-accessed = Ultime accesso
