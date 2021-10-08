@@ -139,7 +139,7 @@ mr1-onboarding-default-primary-button-label = 設為預設瀏覽器
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = 隨身攜帶
+mr1-onboarding-import-header = 資料隨身攜帶
 mr1-onboarding-import-subtitle =
     匯入您的密碼、書籤<br/>
     與更多資料。
