@@ -465,8 +465,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Nội dung trang chủ của Firefox
-home-prefs-content-description = Chọn nội dung mà bạn muốn thêm vào trang chủ của Firefox.
+home-prefs-content-header = Nội dung của Trang chủ Firefox
+home-prefs-content-description = Chọn nội dung mà bạn muốn thêm vào Trang chủ Firefox.
 home-prefs-search-header =
     .label = Tìm kiếm web
 home-prefs-topsites-header =
