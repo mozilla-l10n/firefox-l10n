@@ -112,4 +112,5 @@ upgrade-dialog-colorway-variation-bold = Mohũ
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Aguyje reimére orendive
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } ha’e kundahára hekosãsóva oykekóva chupe atyguasu viru’ỹgua. Oñondivepa jajapo ñanduti hekorosã, hesãi ha hekoñemíva.
 upgrade-dialog-thankyou-primary-button = Eñepyrũ eikundaha
