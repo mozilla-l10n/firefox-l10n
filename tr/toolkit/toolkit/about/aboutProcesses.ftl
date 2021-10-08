@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = İşlem Yöneticisi
-
 # The Actions column
 about-processes-column-action =
     .title = Eylemler
@@ -15,18 +14,22 @@ about-processes-shutdown-process =
     .title = Sekmeleri kaldır ve işlemi sonlandır
 about-processes-shutdown-tab =
     .title = Sekmeyi kapat
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] { $duration } saniye boyunca bu işlemin bütün iş parçacıklarını profille
+           *[other] { $duration } saniye boyunca bu işlemin bütün iş parçacıklarını profille
+        }
 
 ## Column headers
 
 about-processes-column-name = İsim
 about-processes-column-memory-resident = Bellek
 about-processes-column-cpu-total = CPU
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
 ## Process names
 ## Variables:
@@ -47,7 +50,6 @@ about-processes-socket-process = Ağ ({ $pid })
 about-processes-remote-sandbox-broker-process = Uzak sandbox aracısı { $pid }
 about-processes-fork-server-process = Fork sunucusu ({ $pid })
 about-processes-preallocated-process = Ayrılmış ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -83,7 +85,6 @@ about-processes-active-threads =
         [one] { $number } iş parçacığından { $active } tanesi aktif: { $list }
        *[other] { $number } iş parçacığından { $active } tanesi aktif: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -95,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } pasif iş parçacığı
        *[other] { $number } pasif iş parçacığı
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = İş parçacığı kimliği: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Sekme: { $name }
 about-processes-preloaded-tab = Önyüklenmiş yeni sekme
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Alt çerçeve: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -132,10 +129,8 @@ about-processes-frame-name-many = Alt çerçeveler ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Toplam CPU süresi: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ölçülüyor)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = boşta
     .title = Toplam CPU süresi: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -154,7 +149,6 @@ about-processes-cpu-idle = boşta
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Değişim: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 

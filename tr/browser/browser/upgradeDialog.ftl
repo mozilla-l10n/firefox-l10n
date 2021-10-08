@@ -77,6 +77,7 @@ upgrade-dialog-start-secondary-button = Daha sonra
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Paletinizi seçin
+upgrade-dialog-colorway-home-checkbox = Temalı arka plana sahip Firefox giriş sayfasına geç
 upgrade-dialog-colorway-primary-button = Renk kuşağını kaydet
 upgrade-dialog-colorway-secondary-button = Önceki temayı kullanmaya devam et
 upgrade-dialog-colorway-theme-tooltip =
