@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,31 +12,27 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Під час з’єднання з { $hostname } сталася помилка. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код помилки: { $error }
-
 psmerr-ssl-disabled = Неможливо встановити безпечне з’єднання через те, що протокол SSL вимкнено.
 psmerr-ssl2-disabled = Неможливо встановити безпечне з’єднання через те, що сайт використовує стару, ненадійну версію протоколу SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ви отримали нечинний сертифікат. Будь ласка, зв’яжіться з адміністратором сервера чи адресатом і передайте їм наступну інформацію:
     
     Ваш сертифікат містить той же серійний номер що й інший сертифікат випущений центром сертифікації. Будь ласка отримайте сертифікат що має унікальний серійний номер.
-
-ssl-error-export-only-server = Неможливо спілкуватись конфіденційно. Вузол не підтримує високорівневе шифрування.
-ssl-error-us-only-server = Неможливо спілкуватись конфіденційно. Вузол вимагає високорівневе шифрування, котре не підтримується.
-ssl-error-no-cypher-overlap = З вузлом неможливо спілкуватись конфіденційно: немає спільних криптоалгоритмів.
+ssl-error-export-only-server = Неможливо з'єднатися безпечно. Вузол не підтримує високорівневе шифрування.
+ssl-error-us-only-server = Неможливо з'єднатися безпечно. Вузол вимагає високорівневе шифрування, котре не підтримується.
+ssl-error-no-cypher-overlap = З вузлом неможливо з'єднатися безпечно: немає спільних криптоалгоритмів.
 ssl-error-no-certificate = Не вдалось знайти сертифікат чи ключ необхідний для автентифікації.
-ssl-error-bad-certificate = З вузлом неможливо спілкуватись конфіденційно: сертифікат вузла відхилено.
+ssl-error-bad-certificate = З вузлом неможливо з'єднатися безпечно: сертифікат вузла відхилено.
 ssl-error-bad-client = Сервер отримав від клієнта хибні дані.
 ssl-error-bad-server = Клієнт отримав від сервера хибні дані.
 ssl-error-unsupported-certificate-type = Тип сертифіката не підтримується.
 ssl-error-unsupported-version = Вузол використовує непідтримувану версію протоколу секретності.
 ssl-error-wrong-certificate = Автентифікація клієнта не вдалася: приватний ключ у базі ключів не відповідає публічному ключу в базі сертифікатів.
-ssl-error-bad-cert-domain = З вузлом неможливо спілкуватись конфіденційно: ім’я домена не відповідає сертифікату сервера.
+ssl-error-bad-cert-domain = З вузлом неможливо з'єднатися безпечно: ім’я домена не збігається з сертифікатом сервера.
 ssl-error-post-warning = Невизначений код помилки SSL.
 ssl-error-ssl2-disabled = Вузол підтримує лише SSL версії 2, котра у вас вимкнена.
 ssl-error-bad-mac-read = SSL отримав запис із неправильним кодом автентифікації повідомлення.
