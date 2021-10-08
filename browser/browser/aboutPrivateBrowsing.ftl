@@ -21,16 +21,15 @@ about-private-browsing-handoff-text = Traži pomoću { $engine } ili upiši adre
 about-private-browsing-handoff-text-no-engine = Traži ili upiši adresu
 about-private-browsing-not-private = Trenutačno nisi u privatnom prozoru.
 about-private-browsing-info-description = { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web-stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
-
 about-private-browsing-need-more-privacy = Trebaš više privatnosti?
 about-private-browsing-turn-on-vpn = Isprobaj { -mozilla-vpn-brand-name }
-
+about-private-browsing-info-description-private-window = Privatni prozor: { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kada zatvoriš sve privatne prozore. Ovo te ne čini anonimnim.
 about-private-browsing-info-description-simplified = { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kada zatvoriš sve privatne prozore, ali ovo te ne čini anonimnim.
 about-private-browsing-learn-more-link = Saznaj više
-
 about-private-browsing-hide-activity = Sakrij svoju aktivnost i lokaciju, gdje god da pregledavaš
+about-private-browsing-get-privacy = Zaštiti svoju privatnost gdje god da surfaš
+about-private-browsing-hide-activity-1 = Sakrij svoju aktivnost pregledavanja pomoću { -mozilla-vpn-brand-name }-a. Jedan klik stvara sigurnu vezu, čak i na javnom WiFi-ju.
 about-private-browsing-prominent-cta = Sačuvaj privatnost uz { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
