@@ -10,7 +10,7 @@
 <!ENTITY  language.label                          "文字系统：">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "字型">
+<!ENTITY  typefaces.label                         "字体">
 <!ENTITY  sizes.label                             "大小（像素）">
 
 <!ENTITY  proportional.label                      "比例字体：">
