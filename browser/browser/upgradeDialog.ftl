@@ -77,6 +77,7 @@ upgrade-dialog-start-secondary-button = Pas ara
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Trapatz vòstra paleta
+upgrade-dialog-colorway-home-checkbox = Passar a l’acuèlh de Firefox amb las colors de vòstre tèma
 upgrade-dialog-colorway-primary-button = Salvar lo colorit
 upgrade-dialog-colorway-secondary-button = Servar lo tèma precedent
 upgrade-dialog-colorway-theme-tooltip =
@@ -111,4 +112,5 @@ upgrade-dialog-colorway-variation-bold = Afortit
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Mercés de nos aver causits
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } es un navegador independent sostengut per una organizacion sens tòca lucrativa. Amassa, fasèm que lo Web siá mai segur, sanitós e privat.
 upgrade-dialog-thankyou-primary-button = Començar de navegar

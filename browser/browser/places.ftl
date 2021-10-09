@@ -124,6 +124,9 @@ places-manage-bookmarks =
     .label = Gerir los marcapaginas
     .accesskey = G
 places-forget-about-this-site-confirmation-title = Oblidar aqueste site
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Aquesta accion suprimirà totas las donadas ligadas a { $hostOrBaseDomain }, inclutz l’istoric, los senhals, los cookies, lo cache e las preferéncias de contengut. Volètz vertadièrament contunhar ?
 places-forget-about-this-site-forget = Oblidar
 places-library =
     .title = Bibliotèca
