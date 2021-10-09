@@ -130,7 +130,7 @@ cfr-doorhanger-video-support-primary-button = Jetzt aktualisieren
 
 spotlight-public-wifi-vpn-header = Offenbar verwenden Sie öffentliches WLAN
 spotlight-public-wifi-vpn-body = Um Ihren Standort und Ihre Surfaktivitäten zu verbergen, sollten Sie ein virtuelles privates Netzwerk in Betracht ziehen. Es schützt Sie beim Surfen an öffentlichen Orten wie Flughäfen und Cafés.
-spotlight-public-wifi-vpn-primary-button = Privat bleiben mit { -mozilla-vpn-brand-name }
+spotlight-public-wifi-vpn-primary-button = Schützen Sie Ihre Privatsphäre mit { -mozilla-vpn-brand-name }
     .accesskey = P
 spotlight-public-wifi-vpn-link = Nicht jetzt
     .accesskey = N
