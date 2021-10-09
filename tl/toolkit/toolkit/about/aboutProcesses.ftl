@@ -7,15 +7,10 @@ about-processes-title = Process Manager
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Isara ang Tab
 
 ## Column headers
-
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
 
 ## Process names
