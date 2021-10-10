@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY virtualFolderListTitle.title        "Select Folder(s)">
-<!ENTITY virtualFolderDesc.label       "Select the folders to search:">
-
-
+<!ENTITY virtualFolderListTitle.title        "Elekti mesaĝujo(j)n">
+<!ENTITY virtualFolderDesc.label       "Elekti mesaĝujojn por traserĉi:">
+<!ENTITY folderName.label "Nomo de mesaĝujo">
+<!ENTITY folderSearch.label "Serĉi">
