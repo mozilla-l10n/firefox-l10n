@@ -8,14 +8,14 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Zoom In">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.label       "Pligrandigi">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "P">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.label        "Malgrandigi">
+<!ENTITY fullZoomReduceCmd.accesskey    "M">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
