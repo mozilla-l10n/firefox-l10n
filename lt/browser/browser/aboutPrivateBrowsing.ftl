@@ -26,8 +26,10 @@ about-private-browsing-turn-on-vpn = Išbandykite „{ -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Privatusis langas: „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo istoriją, kai užveriate visus privačiuosius langus. Tai nesuteikia jums anonimiškumo.
 about-private-browsing-info-description-simplified = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo istoriją, kai užveriate visus privačiuosius langus, bet tai nesuteikia jums anonimiškumo.
 about-private-browsing-learn-more-link = Sužinoti daugiau
-about-private-browsing-hide-activity = Paslėpkite savo veiklą ir vietą, kad ir kur naršytumėte
+about-private-browsing-hide-activity = Paslėpkite savo veiklą ir buvimo vietą, kad ir kur naršytumėte
 about-private-browsing-get-privacy = Gaukite privatumo apsaugą, kad ir kur naršytumėte
+about-private-browsing-hide-activity-1 = Paslėpkite naršymo veiklą ir buvimo vietą su „{ -mozilla-vpn-brand-name }“. Vienas spustelėjimas sukuria saugų ryšį, net ir naudojantis viešu „Wi-Fi“.
+about-private-browsing-prominent-cta = Išlikite privatūs su „{ -mozilla-vpn-brand-name }“
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
