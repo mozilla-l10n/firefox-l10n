@@ -64,6 +64,19 @@ upgrade-dialog-default-secondary-button = Ne dabar
 upgrade-dialog-theme-title-2 = Pradėkite švariai su atnaujintu grafiniu apvalkalu
 upgrade-dialog-theme-system = Sistemos grafinis apvalkalas
     .title = Atsižvelgti į operacinės sistemos grafinį apvalkalą mygtukams, meniu, ir langams.
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Spalvotas gyvenimas
+upgrade-dialog-start-subtitle = Ryškūs spalvų rinkiniai. Pasiekiami ribotą laiką.
+upgrade-dialog-start-primary-button = Atrasti spalvų rinkinius
+upgrade-dialog-start-secondary-button = Ne dabar
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Pasirinkite savo paletę
 upgrade-dialog-theme-light = Šviesus
     .title = Naudoti šviesų grafinį apvalkalą mygtukams, meniu, ir langams
 upgrade-dialog-theme-dark = Tamsus
@@ -74,3 +87,6 @@ upgrade-dialog-theme-keep = Palikti ankstesnį
     .title = Naudoti prieš atnaujinant „{ -brand-short-name }“ jūsų įdiegtą grafinį apvalkalą
 upgrade-dialog-theme-primary-button = Įrašyti grafinį apvalkalą
 upgrade-dialog-theme-secondary-button = Ne dabar
+
+## Thank you screen
+

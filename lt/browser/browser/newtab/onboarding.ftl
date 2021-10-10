@@ -274,6 +274,25 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = Naudoti šį spalvų rinkinį.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Atraskite „{ $colorwayName }“ spalvų rinkinius.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Atraskite „{ $colorwayName }“ spalvų rinkinius.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Atraskite numatytuosius grafinius apvalkalus.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Atraskite numatytuosius grafinius apvalkalus.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Ačiū, kad pasirinkote mus
+mr2-onboarding-thank-you-text = „{ -brand-short-name }“ yra nepriklausoma naršyklė, remiama ne pelno siekiančios organizacijos. Kartu mes kuriame saugesnį, sveikesnį, privatesnį internetą.
+mr2-onboarding-start-browsing-button-label = Pradėti naršymą

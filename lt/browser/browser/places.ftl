@@ -81,6 +81,18 @@ places-remove-folder =
            *[other] Pašalinti aplankų
         }
     .accesskey = n
+places-edit-folder2 =
+    .label = Redaguoti aplanką…
+    .accesskey = e
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Pašalinti aplanką
+            [one] Pašalinti aplanką
+            [few] Pašalinti aplankus
+           *[other] Pašalinti aplankus
+        }
+    .accesskey = P
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
@@ -101,9 +113,25 @@ places-remove-bookmark =
            *[other] Pašalinti įrašų
         }
     .accesskey = l
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Pašalinti įrašą
+            [one] Pašalinti įrašą
+            [few] Pašalinti įrašus
+           *[other] Pašalinti įrašus
+        }
+    .accesskey = P
 places-manage-bookmarks =
     .label = Tvarkyti adresyną
     .accesskey = T
+places-forget-about-this-site-confirmation-title = Užmiršti apie šią svetainę
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Šis veiksmas pašalins visus su { $hostOrBaseDomain } susijusius duomenis, įskaitant istoriją, slaptažodžius, slapukus, podėlį ir turinio nuostatas. Ar tikrai norite tęsti?
+places-forget-about-this-site-forget = Pamiršti
 places-library =
     .title = Archyvas
     .style = width:700px; height:500px;
