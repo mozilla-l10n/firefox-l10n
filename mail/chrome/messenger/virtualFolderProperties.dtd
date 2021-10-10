@@ -6,17 +6,17 @@
 <!ENTITY name.label                 "Nomo:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Krei mesaĝujon en:">
-<!ENTITY description.accesskey      "r">
+<!ENTITY description.accesskey      "m">
 
 <!ENTITY searchTermCaption.label "Kriterioj de serĉo uzotaj por tiu ĉi mesaĝujo de serĉo: ">
 
-<!ENTITY folderSelectionCaption.label "Select the folders to search: ">
-<!ENTITY chooseFoldersButton.label "Choose…">
-<!ENTITY chooseFoldersButton.accesskey "h">
+<!ENTITY folderSelectionCaption.label "Elekti mesaĝujojn por traserĉi: ">
+<!ENTITY chooseFoldersButton.label "Elekti…">
+<!ENTITY chooseFoldersButton.accesskey "E">
 
-<!ENTITY searchOnline.label "Search Online (Gives up-to-date results for IMAP and News folders but increases time to open the folder)">
-<!ENTITY searchOnline.accesskey "S">
-<!ENTITY newFolderButton.label       "Create">
-<!ENTITY newFolderButton.accesskey   "r">
-<!ENTITY editFolderButton.label      "Update">
-<!ENTITY editFolderButton.accesskey  "U">
+<!ENTITY searchOnline.label "Serĉi enrete (liveras aktualajn rezultojn por IMAP-mesaĝujoj kaj novaĵgrupoj, sed pliigas tempon necesan por malfermi la mesaĝujon)">
+<!ENTITY searchOnline.accesskey "r">
+<!ENTITY newFolderButton.label       "Krei">
+<!ENTITY newFolderButton.accesskey   "K">
+<!ENTITY editFolderButton.label      "Ĝisdatigi">
+<!ENTITY editFolderButton.accesskey  "d">
