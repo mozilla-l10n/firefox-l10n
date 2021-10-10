@@ -21,10 +21,13 @@ about-private-browsing-handoff-text = Įveskite adresą arba ieškokite per „{
 about-private-browsing-handoff-text-no-engine = Įveskite adresą arba paieškos žodžius
 about-private-browsing-not-private = Šiuo metu jūs esate ne privačiajame lange.
 about-private-browsing-info-description = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo žurnalą kai išjungiate programą, arba užveriate visas privačiojo naršymo korteles ir langus. Nors tai ir nepadaro jūsų anonimu internete, taip lengviau galite išlaikyti savo privatumą nuo kitų šiuo kompiuteriu besinaudojančių žmonių.
-
 about-private-browsing-need-more-privacy = Reikia daugiau privatumo?
 about-private-browsing-turn-on-vpn = Išbandykite „{ -mozilla-vpn-brand-name }“
-
+about-private-browsing-info-description-private-window = Privatusis langas: „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo istoriją, kai užveriate visus privačiuosius langus. Tai nesuteikia jums anonimiškumo.
+about-private-browsing-info-description-simplified = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo istoriją, kai užveriate visus privačiuosius langus, bet tai nesuteikia jums anonimiškumo.
+about-private-browsing-learn-more-link = Sužinoti daugiau
+about-private-browsing-hide-activity = Paslėpkite savo veiklą ir vietą, kad ir kur naršytumėte
+about-private-browsing-get-privacy = Gaukite privatumo apsaugą, kad ir kur naršytumėte
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
