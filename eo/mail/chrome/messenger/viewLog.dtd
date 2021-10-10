@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Protokolo de filtrado">
-<!ENTITY viewLogInfo.text "The Filter Log documents the filters that have been run for this account. Use the check box below to enable logging.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY enableLog.label "Enable the Filter Log">
-<!ENTITY enableLog.accesskey "E">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY viewLogInfo.text "La protokolo de filtrado registras aktivecon de filtriloj por tiu ĉi konto. Uzu la elektobutonon sube por aktivigi protokoladon.">
+<!ENTITY clearLog.label "Forviŝi protokolon">
+<!ENTITY clearLog.accesskey "v">
+<!ENTITY enableLog.label "Aktivigi protokolon de filtrado">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Fermi">
+<!ENTITY closeLog.accesskey "F">
