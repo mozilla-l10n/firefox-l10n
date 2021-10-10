@@ -270,6 +270,10 @@ mr1-onboarding-theme-description-alpenglow =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Naudoti šį spalvų rinkinį.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Naudoti šį spalvų rinkinį.
 
 ## Strings for Thank You page
 
