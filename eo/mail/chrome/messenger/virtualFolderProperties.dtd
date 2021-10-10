@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY virtualFolderProperties.title "New Saved Search Folder">
-<!ENTITY name.label                 "Name:">
+<!ENTITY virtualFolderProperties.title "Nove mesaĝujo de serĉo">
+<!ENTITY name.label                 "Nomo:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Create as a subfolder of:">
-<!ENTITY description.accesskey      "C">
+<!ENTITY description.label          "Krei mesaĝujon en:">
+<!ENTITY description.accesskey      "r">
 
-<!ENTITY searchTermCaption.label "Configure the search criteria used for this saved search folder: ">
+<!ENTITY searchTermCaption.label "Kriterioj de serĉo uzotaj por tiu ĉi mesaĝujo de serĉo: ">
 
 <!ENTITY folderSelectionCaption.label "Select the folders to search: ">
 <!ENTITY chooseFoldersButton.label "Choose…">
