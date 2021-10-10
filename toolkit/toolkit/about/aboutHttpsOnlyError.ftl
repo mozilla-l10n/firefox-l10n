@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = HTTPS-Only moduko abisua
 about-httpsonly-title-connection-not-available = Konexio segurua ez dago erabilgarri
-
+about-httpsonly-title-site-not-available = Gune segurua ez dago erabilgarri
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Segurtasun hobetua izateko HTTPS-Only modua gaitu duzu eta <em>{ $websiteUrl }</em> webgunearen HTTPS bertsioa ez dago erabilgarri.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Zerk eragin lezake hau?
 about-httpsonly-explanation-nosupport = Oso litekeena da webguneak HTTPS ez onartzea.
 about-httpsonly-explanation-risk = Baita ere baliteke erasotzaile bat tartean izatea. Webgunea bisitatzea erabakitzen baduzu. ez zenuke kontuzko informaziorik sartu behar, hala nola pasahitzak, helbide elektronikoak edo kreditu-txartelen xehetasunak.
 about-httpsonly-explanation-continue = Jarraituz gero, HTTPS-Only modua behin-behinean desgaituko da webgune honetarako.
-
 about-httpsonly-button-continue-to-site = Jarraitu HTTP gunera
 about-httpsonly-button-go-back = Joan atzera
 about-httpsonly-link-learn-more = Argibide gehiago…
