@@ -154,6 +154,13 @@ mr2-onboarding-colorway-primary-button-label = Įrašyti spalvų rinkinį
 mr2-onboarding-colorway-secondary-button-label = Ne dabar
 mr2-onboarding-colorway-label-soft = Švelnus
 mr2-onboarding-colorway-label-balanced = Subalansuotas
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Ryškus
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatinis
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Numatytasis
 mr1-onboarding-theme-header = Pritaikykite sau
 mr1-onboarding-theme-subtitle = Individualizuokite „{ -brand-short-name }“ su grafiniu apvalkalu.
 mr1-onboarding-theme-primary-button-label = Įrašyti grafinį apvalkalą
@@ -259,6 +266,10 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Naudoti dinamišką, spalvingą grafinį apvalkalą
         mygtukams, meniu, ir langams.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Naudoti šį spalvų rinkinį.
 
 ## Strings for Thank You page
 
