@@ -328,6 +328,7 @@ fission-status-disabled-by-default = Lehenespenez desgaituta
 fission-status-enabled-by-user-pref = Erabiltzaileak gaituta
 fission-status-disabled-by-user-pref = Erabiltzaileak desgaituta
 fission-status-disabled-by-e10s-other = E10s desgaituta
+fission-status-enabled-by-rollout = Urratseko ezagutzera ematearen bidez gaituta
 async-pan-zoom = Mugimendu panoramiko/zoom asinkronoak
 apz-none = bat ere ez
 wheel-enabled = gurpil bidezko sarrera gaituta
