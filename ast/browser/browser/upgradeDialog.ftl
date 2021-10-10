@@ -28,6 +28,7 @@ upgrade-dialog-new-primary-win7-button = D'acuerdu, entendílo
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = Agora non
 
 ## Default browser screen
 
@@ -39,6 +40,16 @@ upgrade-dialog-default-secondary-button = Agora non
 upgrade-dialog-theme-title-2 = Volvi comenzar con un estilu nítidu
 upgrade-dialog-theme-system = Estilu del sistema
     .title = Sigue l'estilu del sistema operativu pa los botones, les ventanes y los botones
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = La vida a color
+upgrade-dialog-start-secondary-button = Agora non
+
+## Colorway screen
+
+upgrade-dialog-colorway-secondary-button = Caltener l'estilu anterior
 upgrade-dialog-theme-light = Claridá
     .title = Usa un estilu claru pa los botones, les ventanes y los menús
 upgrade-dialog-theme-dark = Escuridá
@@ -49,3 +60,10 @@ upgrade-dialog-theme-keep = Caltener l'anterior
     .title = Usa l'estilu que teníes instaláu enantes d'anovar { -brand-short-name }
 upgrade-dialog-theme-primary-button = Guardar l'estilu
 upgrade-dialog-theme-secondary-button = Agora non
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Gracies por escoyenos
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } ye un restolador independiente fechu por una organización ensin ánimu de llucru. Xuntos facemos una web más segura, sana y más privada.
+upgrade-dialog-thankyou-primary-button = Comenzar a restolar
