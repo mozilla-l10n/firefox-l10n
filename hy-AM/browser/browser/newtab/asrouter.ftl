@@ -128,5 +128,7 @@ cfr-doorhanger-video-support-primary-button = Թարմացնել Հիմա
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-primary-button = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
+    .accesskey = S
 spotlight-public-wifi-vpn-link = Ոչ հիմա
     .accesskey = N

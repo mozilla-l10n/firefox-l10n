@@ -361,6 +361,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Միացնում է նկարում-պատկերված տեսանյութի կառավարները
     .accesskey = E
 browsing-picture-in-picture-learn-more = Իմանալ ավելին
+browsing-media-control-learn-more = Իմանալ ավելին
 browsing-cfr-recommendations =
     .label = Առարջարկեք հավելումներ՝ զննարկելիս
     .accesskey = R
@@ -980,6 +981,7 @@ certs-devices =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more = Իմանալ ավելին
 
 ## The following strings are used in the Download section of settings
 

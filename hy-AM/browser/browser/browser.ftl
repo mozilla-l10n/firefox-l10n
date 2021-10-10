@@ -259,6 +259,7 @@ identity-https-only-dropdown-off =
     .label = Անջ.
 identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
+identity-permissions-storage-access-learn-more = Իմանալ ավելին
 identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
 identity-clear-site-data =
     .label = Ջնջել նշոցիկների և կայքի տվյալները…
@@ -409,6 +410,8 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Իմանալ ավելին
 
 ## Bookmarks panels, menus and toolbar
 
@@ -605,3 +608,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
+
+## Infobar shown at startup to suggest session-restore
+
