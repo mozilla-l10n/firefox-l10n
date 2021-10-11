@@ -129,3 +129,5 @@ about-addressbook-details-phone-numbers-header = 電話號碼
 about-addressbook-details-home-address-header = 住家地址
 about-addressbook-details-work-address-header = 商務地址
 about-addressbook-details-other-info-header = 其他資訊
+about-addressbook-prompt-to-save-title = 要儲存變更嗎？
+about-addressbook-prompt-to-save = 您要儲存變更嗎？
