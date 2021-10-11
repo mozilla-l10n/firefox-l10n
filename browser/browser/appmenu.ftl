@@ -168,10 +168,16 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Web 开发者
+profiler-popup-presets-firefox-platform-description = 推荐在 Firefox 内部平台调试时使用。
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox 平台
+profiler-popup-presets-firefox-front-end-description = 推荐在 Firefox 内部前端调试时使用。
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox 前端
+profiler-popup-presets-firefox-graphics-description = 推荐在检查 Firefox 图形性能问题时使用。
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox 图形
+profiler-popup-presets-media-description = 推荐在诊断 Firefox 音视频问题时使用。
 profiler-popup-presets-media-label =
     .label = 媒体
 profiler-popup-presets-custom-label =
