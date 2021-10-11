@@ -123,10 +123,15 @@ profiler-popup-description-title =
     .value = Gravar, analisar, partilhar
 profiler-popup-description = Colabore em problemas de desempenho publicando perfis para partilhar com a sua equipa.
 profiler-popup-learn-more = Saber mais
+profiler-popup-learn-more-button =
+    .label = Saber mais
 profiler-popup-settings =
     .value = Definições
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar definições…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Editar definições…
 profiler-popup-disabled =
     Neste momento o profiler está, provavelmente, desativado devido a uma janela de navegação privada 
     que está a ser aberta.
@@ -151,6 +156,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
