@@ -171,6 +171,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
 profiler-popup-presets-firefox-platform-description = ערכה מומלצת לניפוי שגיאות בפלטפורמה הפנימית של Firefox.
@@ -179,6 +180,14 @@ profiler-popup-presets-firefox-platform-label =
 profiler-popup-presets-firefox-front-end-description = ערכה מומלצת לניפוי שגיאות בממשק הקצה הקדמי הפנימי של Firefox.
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox Front-End
+profiler-popup-presets-firefox-graphics-description = ערכה מומלצת לחקירת ביצועי הגרפיקה של Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox Graphics
+profiler-popup-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-custom-label =
+    .label = התאמה אישית
 
 ## History panel
 

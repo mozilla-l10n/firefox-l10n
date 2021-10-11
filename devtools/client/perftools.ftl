@@ -81,3 +81,25 @@ perftools-thread-dns-resolver =
 perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משולב כעת בכלי הפיתוח. <a>מידע נוסף</a> על הכלי החדש והעוצמתי הזה.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (לזמן מוגבל, ניתן לגשת לחלונית הביצועים המקורית דרך <a>{ options-context-advanced-settings }</a>)
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Web Developer
+perftools-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
+perftools-presets-firefox-platform-label = Firefox Platform
+perftools-presets-firefox-platform-description = ערכה מומלצת לניפוי שגיאות בפלטפורמה הפנימית של Firefox.
+perftools-presets-firefox-front-end-label = Firefox Front-End
+perftools-presets-firefox-front-end-description = ערכה מומלצת לניפוי שגיאות בממשק הקצה הקדמי הפנימי של Firefox.
+perftools-presets-firefox-graphics-label = Firefox Graphics
+perftools-presets-firefox-graphics-description = ערכה מומלצת לחקירת ביצועי הגרפיקה של Firefox.
+perftools-presets-media-label = Media
+perftools-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
+perftools-presets-custom-label = התאמה אישית
+
+##
+
