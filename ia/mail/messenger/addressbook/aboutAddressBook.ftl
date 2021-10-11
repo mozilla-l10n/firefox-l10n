@@ -132,3 +132,5 @@ about-addressbook-details-phone-numbers-header = Numeros de telephono
 about-addressbook-details-home-address-header = Adresse casa
 about-addressbook-details-work-address-header = Adresse de officio
 about-addressbook-details-other-info-header = Altere informationes
+about-addressbook-prompt-to-save-title = Salvar le cambiamentos?
+about-addressbook-prompt-to-save = Vole tu salvar tu cambiamentos?

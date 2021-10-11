@@ -30,12 +30,24 @@ account-provisioner-fetching-provisioners = Recuperation de fornitores…
 account-provisioner-connection-issues = Impossibile communicar con nostre servitores de inscription. Per favor controla tu connexion.
 account-provisioner-searching-email = In cerca de contos e-mail disponibile
 account-provisioner-searching-domain = In cerca de dominios disponibile…
+account-provisioner-searching-error = Impossibile trovar ulle adresses a suggerer. Prova cambiar le terminos de recerca.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Elige que conto crear
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Un adresse disponibile trovate pro:
+       *[other] { $count } adresses disponibile trovate pro:
+    }
 account-provisioner-mail-results-caption = Tu pote tentar de cercar pseudonymos o ulle altere termino pro trovar altere emails.
 account-provisioner-domain-results-caption = Tu pote tentar de cercar pseudonymos o ulle altere termino pro trovar altere dominios.
 account-provisioner-free-account = Libere
+account-provision-price-per-year = { $precio } pro anno
+account-provisioner-all-results-button = Monstrar tote le resultato
