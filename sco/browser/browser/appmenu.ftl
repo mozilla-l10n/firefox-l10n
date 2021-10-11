@@ -115,6 +115,9 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = Profiler
+    .tooltiptext = Record a performance profile
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -123,6 +126,8 @@ profiler-popup-description-title =
     .value = Record, analyse, share
 profiler-popup-description = Jyne in wi sortin performance issues by furthsettin profiles fur tae share wi yer team.
 profiler-popup-learn-more = Lairn mair
+profiler-popup-learn-more-button =
+    .label = Lairn mair
 profiler-popup-settings =
     .value = Settins
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
