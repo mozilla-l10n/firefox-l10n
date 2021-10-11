@@ -144,3 +144,5 @@ about-addressbook-details-phone-numbers-header = Telefonowe čisła
 about-addressbook-details-home-address-header = Priwatna adresa
 about-addressbook-details-work-address-header = Słužbna adresa
 about-addressbook-details-other-info-header = Druhe informacije
+about-addressbook-prompt-to-save-title = Změny składować?
+about-addressbook-prompt-to-save = Chceće swoje změny składować?
