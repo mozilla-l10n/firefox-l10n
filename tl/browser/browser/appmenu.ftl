@@ -124,6 +124,8 @@ profiler-popup-description-title =
     .value = Itala, pag-aralan, ibahagi
 profiler-popup-description = Makipagtulungan sa mga isyu sa performance sa pamamagitan ng pag-publish ng mga profile upang ibahagi sa iyong team.
 profiler-popup-learn-more = Alamin
+profiler-popup-learn-more-button =
+    .label = Alamin
 profiler-popup-settings =
     .value = Mga Setting
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
