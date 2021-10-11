@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] Lesezeichen entfernen
         }
     .accesskey = n
+places-show-in-folder =
+    .label = In Ordner anzeigen
+    .accesskey = O
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =

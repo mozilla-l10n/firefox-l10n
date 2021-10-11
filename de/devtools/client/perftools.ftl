@@ -40,9 +40,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Puffergröße:
-
 perftools-custom-threads-label = Benutzerdefinierte Threads nach Namen hinzufügen:
-
 perftools-devtools-interval-label = Intervall:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Einstellungen
@@ -95,14 +93,12 @@ perftools-thread-img-decoder =
     .title = Bilddekodierungsthreads
 perftools-thread-dns-resolver =
     .title = DNS-Auflösung erfolgt in diesem Thread
-
 perftools-thread-task-controller =
     .title = TaskController-Thread-Pool-Threads
 
 ##
 
 perftools-record-all-registered-threads = Thread-Auswahl ignorieren und alle registrierten Threads aufnehmen
-
 perftools-tools-threads-input-label =
     .title = Diese Thread-Namen sind durch Kommas getrennte Listen, mit denen das Profiling der Threads im Profiler aktiviert wird. Der Name muss nur teilweise mit dem einzuschließenden Thread-Namen übereinstimmen. Leerraum wird beachtet.
 
@@ -111,9 +107,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Neu</b>: { -profiler-brand-name } ist jetzt in die Entwicklerwerkzeuge integriert. <a>Erfahren Sie mehr</a> über dieses leistungsstarke neue Werkzeug.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Für eine begrenzte Zeit können Sie über <a>{ options-context-advanced-settings }</a> auf die ursprüngliche Ansicht für Leistungsanalyse zugreifen.)
-
 perftools-onboarding-close-button =
     .aria-label = Diese Änderungsmitteilung schließen
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Web-Entwickler
+perftools-presets-web-developer-description = Empfohlene Voreinstellung für das Debuggen der meisten Web-Apps mit geringem Overhead.
+perftools-presets-firefox-platform-label = Firefox-Plattform
+perftools-presets-firefox-platform-description = Empfohlene Voreinstellung für das interne Debugging der Firefox-Plattform.
+perftools-presets-firefox-front-end-label = Firefox-Frontend
+perftools-presets-firefox-front-end-description = Empfohlene Voreinstellung für das interne Debugging des Firefox-Frontend.
+perftools-presets-firefox-graphics-label = Firefox-Grafik
+perftools-presets-firefox-graphics-description = Empfohlene Voreinstellung für das Untersuchen der Grafikleistung von Firefox.
+perftools-presets-media-label = Medien
+perftools-presets-media-description = Empfohlene Voreinstellung zur Diagnose von Audio- und Videoproblemen.
+perftools-presets-custom-label = Benutzerdefiniert
+
+##
+
