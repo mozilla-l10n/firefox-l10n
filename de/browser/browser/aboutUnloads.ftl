@@ -21,6 +21,19 @@ about-unloads-intro-2 =
     enthalten, und in <em>kursiv</em>, wenn der Prozess zwischen verschiedenen Tabs geteilt wird.
     Sie können das Entladen des Tabs manuell auslösen, indem Sie unten auf die Schaltfläche
     <em>Entladen</em> klicken.
+about-unloads-intro =
+    { -brand-short-name } enthält eine Funktion zum automatischen Entladen von Tabs,
+    um zu verhindern, dass die Anwendung aufgrund von unzureichendem Speicher abstürzt,
+    wenn der verfügbare Speicher des Systems knapp ist. Der nächste zu entladende Tab wird
+    basierend auf mehreren Eigenschaften ausgewählt. Diese Seite zeigt, wie
+    { -brand-short-name } Tabs priorisiert und welche Tabs entladen werden,
+    wenn die Tab-Entladung ausgelöst wird. Sie können das Entladen von Tabs manuell
+    auslösen, indem Sie unten auf die <em>Entladen</em>-Schaltfläche klicken.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Siehe<a data-l10n-name="doc-link">Tabs entladen</a>, um mehr über
+    diese Funktion und diese Seite zu erfahren.
 about-unloads-last-updated = Zuletzt aktualisiert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Entladen
     .title = Den Tab mit der höchsten Priorität entladen
