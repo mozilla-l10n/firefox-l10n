@@ -6,8 +6,12 @@ about-rights-notification-text = { -brand-short-name } је слободан и 
 
 ## Content tabs
 
+
 ## Toolbar
 
+quick-filter-toolbarbutton =
+    .label = Брзо филтрирање
+    .tooltiptext = Филтрира поруке
 redirect-msg-button =
     .label = Преусмерење
     .tooltiptext = Преусмери изабрану поруку
@@ -30,10 +34,8 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Поставке
-
 appmenu-addons-and-themes =
     .label = Додаци и теме
-
 appmenu-redirect-msg =
     .label = Преусмери
 
@@ -54,6 +56,7 @@ other-action-redirect-msg =
 
 
 ## Add-on removal warning
+
 
 ## no-reply handling
 
