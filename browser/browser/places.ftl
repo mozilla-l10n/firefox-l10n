@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] 북마크 삭제
         }
     .accesskey = e
+places-show-in-folder =
+    .label = 폴더에서 보기
+    .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
