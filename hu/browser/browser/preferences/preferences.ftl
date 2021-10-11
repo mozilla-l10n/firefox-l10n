@@ -338,7 +338,7 @@ play-drm-content =
 play-drm-content-learn-more = További tudnivalók
 update-application-title = { -brand-short-name } frissítések
 update-application-description = Tartsa naprakészen a { -brand-short-name }ot a legjobb teljesítmény, stabilitás és biztonság érdekében.
-update-application-version = Verzió{ $version } <a data-l10n-name="learn-more">Újdonságok</a>
+update-application-version = Verzió: { $version } <a data-l10n-name="learn-more">Újdonságok</a>
 update-history =
     .label = Frissítési előzmények megjelenítése…
     .accesskey = z
