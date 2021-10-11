@@ -270,6 +270,23 @@ mr1-onboarding-theme-description-alpenglow =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
     .title = Bruk denne fargesamansetjinga.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Bruk denne fargesamansetjinga.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Utforsk { $colorwayName }-fargesamansetjingar.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Utforsk { $colorwayName }-fargesamansetjingar.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Utforsk standardtema.
 
 ## Strings for Thank You page
 
