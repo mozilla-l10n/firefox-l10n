@@ -123,6 +123,8 @@ profiler-popup-description-title =
     .value = Снимите, анализирајте и делите
 profiler-popup-description = Сарађујте на решавању проблема са перформансама дељењем профила са својим тимом.
 profiler-popup-learn-more = Сазнајте више
+profiler-popup-learn-more-button =
+    .label = Сазнајте више
 profiler-popup-settings =
     .value = Подешавања
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
@@ -149,6 +151,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
