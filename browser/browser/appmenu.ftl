@@ -115,6 +115,9 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = প্ৰ'ফাইলাৰ
+    .tooltiptext = প্ৰদৰ্শনৰ প্ৰ'ফাইল এটা ৰেকৰ্ড কৰক
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -123,10 +126,15 @@ profiler-popup-description-title =
     .value = ৰেকৰ্ড কৰক, বিশ্লেষণ কৰক, ভাগ-বতৰা কৰক
 profiler-popup-description = আপোনাৰ দলৰ সৈতে ভাগ-বতৰা কৰিবলৈ প্ৰ'ফাইল প্ৰকাশ কৰি কাৰ্য্যকৰিতাৰ সমস্যাবোৰত সহযোগিতা কৰক।
 profiler-popup-learn-more = অধিক জানক
+profiler-popup-learn-more-button =
+    .label = অধিক জানক
 profiler-popup-settings =
     .value = ছেটিংছ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ছেটিংছ সম্পাদনা কৰক…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = ছেটিংছ সম্পাদনা কৰক…
 profiler-popup-disabled =
     প্ৰ'ফাইলাৰটো বৰ্তমানে নিষ্ক্ৰিয় হৈ আছে, সম্ভৱতঃ এটা ব্যক্তিগত ব্ৰাউজিং ৱিণ্ড'
     খোল খাই থকা কাৰণে।
@@ -151,6 +159,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
