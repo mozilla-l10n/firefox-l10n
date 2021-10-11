@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = Spela in, analysera, dela
 profiler-popup-description = Samarbeta om prestandafrågor genom att publicera profiler för att dela med ditt team.
 profiler-popup-learn-more = Läs mer
+profiler-popup-learn-more-button =
+    .label = Läs mer
 profiler-popup-settings =
     .value = Inställningar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Redigera inställningar…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Redigera inställningar…
 profiler-popup-disabled =
     Profilen är för närvarande inaktiverad, troligtvis på grund av att ett privat webbläsarfönster
     är öppet.
