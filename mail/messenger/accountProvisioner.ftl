@@ -10,7 +10,7 @@ account-provisioner-description = Defnyddiwch ein partneriaid dibynadwy i gael c
 account-provisioner-start-help = Mae'r termau chwilio sydd wedi'u defnyddio'n cael eu anfon at { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Polisi Preifatrwydd</a>) a darparwyr e-bost 3ydd parti <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">Polisi Preifatrwydd</a>, <a data-l10n-name="mailfence-tou-link">Telerau Defnyddio</ a >) a <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Polisi Preifatrwydd</a>, <a data-l10n-name="gandi-tou-link">Amodau Defnydd</a>) i ganfod cyfeiriadau e-bost sydd ar gael.
 account-provisioner-mail-account-title = Prynu cyfeiriad e-bost newydd
 account-provisioner-mail-account-description = Mae Thunderbird wedi partneru â <a data-l10n-name="mailfence-home-link">Mailfence</a> i gynnig e-bost preifat a diogel newydd i chi. Credwn y dylai pawb gael e-bost diogel.
-account-provisioner-domain-title = Prynwch e-bost a pharth eich hun
+account-provisioner-domain-title = Prynwch e-bost a pharth i chi eich hun
 account-provisioner-domain-description = Mae Thunderbird wedi partneru â <a data-l10n-name="gandi-home-link">Gandi</a> i gynnig parth cyfaddas i chi. Mae hyn yn caniatáu i chi ddefnyddio unrhyw gyfeiriad ar y parth hwnnw.
 
 ## Forms
@@ -39,3 +39,19 @@ account-provisioner-step1-image =
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [zero] Dim cyfeiriadau ar gael ar gyfer:
+        [one] Un cyfeiriad ar gael ar gyfer:
+        [two] { $count } gyfeiriad ar gael ar gyfer:
+        [few] { $count } cyfeiriad ar gael ar gyfer:
+        [many] { $count } chyfeiriad ar gael ar gyfer:
+       *[other] { $count } cyfeiriad ar gael ar gyfer:
+    }
+account-provisioner-mail-results-caption = Gallwch hefyd chwilio am lysenwau neu dermau eraill i ganfod ragor o e-byst eraill.
+account-provisioner-domain-results-caption = Gallwch hefyd chwilio am lysenwau neu dermau eraill i ganfod ragor o barthau  eraill.
+account-provisioner-free-account = Am Ddim
+account-provision-price-per-year = { $price } y flwyddyn
+account-provisioner-all-results-button = Dangos yr holl ganlyniadau

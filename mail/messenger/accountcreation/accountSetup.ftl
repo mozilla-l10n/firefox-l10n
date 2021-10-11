@@ -161,7 +161,7 @@ account-setup-credentials-incomplete = Methodd y dilysu. Naill ai mae'r manylion
 account-setup-credentials-wrong = Methodd y dilysu. Gwiriwch yr enw defnyddiwr a'r cyfrinair
 account-setup-find-settings-failed = Methodd { -brand-short-name } â dod o hyd i'r gosodiadau ar gyfer eich cyfrif e-bost
 account-setup-exchange-config-unverifiable = Nid oedd modd dilysu eich ffurfweddiad. Os yw'ch enw defnyddiwr a'ch cyfrinair yn gywir, mae'n debygol bod gweinyddwr y gweinydd wedi analluogi'r ffurfweddiad a ddewiswyd ar gyfer eich cyfrif. Ceisiwch ddewis protocol arall.
-account-setup-provisioner-error = Digwyddodd gwall wrth osod eich cyfrif newydd yn { -brand-short-name }. Os gwelwch yn dda, ceisiwch osod eich cyfrif  gyda'ch manylion, â llaw.
+account-setup-provisioner-error = Digwyddodd gwall wrth osod eich cyfrif newydd yn { -brand-short-name }. Ceisiwch osod eich cyfrif gyda'ch manylion, â llaw.
 
 ## Manual configuration area
 
