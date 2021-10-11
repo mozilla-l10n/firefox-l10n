@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = Sekles, sleḍ, bḍu
 profiler-popup-description = Ttekki deg tifrat n wuguren n temlellit s usuffeɣ n yimaɣunen ara tebḍuḍ d terbaεt-ik·im.
 profiler-popup-learn-more = Issin ugar
+profiler-popup-learn-more-button =
+    .label = Issin ugar
 profiler-popup-settings =
     .value = Iɣewwaren
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ẓreg iɣewwaren
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Ẓreg iɣewwaren
 profiler-popup-disabled =
     Amaɣnay akka tura yensa, ahat ssebba n usfaylu n tunigin tusligt
     yeqqim yeldi.
