@@ -20,6 +20,18 @@ about-unloads-intro-2 =
     вони розміщують основну вкладку та <em>курсивом</em>, якщо процес
     розподіляється між різними вкладками. Ви можете вручну ініціювати
     вивантаження вкладки кнопкою <em>Вивантажити</em>, розташованою нижче.
+about-unloads-intro =
+    { -brand-short-name } може автоматично вивантажувати з пам'яті вкладки,
+    щоб запобігти збою програми через брак системної пам'яті, коли це необхідно.
+    Вкладка для вивантаження обирається на основі багатьох властивостей.
+    Ця сторінка показує, як { -brand-short-name } пріоритизує вкладки та яку вкладку
+    буде вивантажено під час спрацювання цієї функції. Ви можете активувати
+    вивантаження вкладки вручну натиснувши кнопку <em>Вивантажити</em> внизу.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Докладніше про функцію <a data-l10n-name="doc-link">Вивантаження вкладок</a>
+    і цю сторінку.
 about-unloads-last-updated = Востаннє оновлено: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Вивантажити
     .title = Вивантажити вкладку з найвищим пріоритетом

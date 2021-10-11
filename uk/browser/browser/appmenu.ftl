@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Запис профілю швидкодії
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Profiler записує профіль
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler захоплює вкладку
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Рекомендовані попередні налаштування для зневадження більшості вебзастосунків з низькими споживанням ресурсів.
+profiler-popup-presets-web-developer-label =
+    .label = Веброзробник
+profiler-popup-presets-firefox-platform-description = Рекомендовані попередні налаштування для внутрішнього зневадження Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Платформа Firefox
+profiler-popup-presets-firefox-front-end-description = Рекомендовані попередні налаштування для внутрішнього зневадження клієнтської частини Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Клієнтська частина Firefox
+profiler-popup-presets-firefox-graphics-description = Рекомендовані попередні налаштування для дослідження запису графіків швидкодії Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Графіка Firefox
+profiler-popup-presets-media-description = Рекомендовані попередні налаштування для визначення проблем зі звуком та відео.
+profiler-popup-presets-media-label =
+    .label = Медіа
+profiler-popup-presets-custom-label =
+    .label = Власний
 
 ## History panel
 
