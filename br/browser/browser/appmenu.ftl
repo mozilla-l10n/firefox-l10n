@@ -130,6 +130,9 @@ profiler-popup-settings =
     .value = Arventennoù
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kemmañ an arventennoù…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Kemmañ an arventennoù…
 profiler-popup-disabled =
     Diweredekaet eo an aelader evit ar mare, moarvat peogwir eo digoret ur prenestr
     merdeiñ prevez.
