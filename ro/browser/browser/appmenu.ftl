@@ -121,10 +121,15 @@ profiler-popup-title =
 profiler-popup-reveal-description-button =
     .aria-label = Dezvăluie mai multe informații
 profiler-popup-learn-more = Află mai multe
+profiler-popup-learn-more-button =
+    .label = Află mai multe
 profiler-popup-settings =
     .value = Setări
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editează setările…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Editează setările…
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
