@@ -155,6 +155,7 @@ account-setup-credentials-incomplete = Authentication fallite. O le credentiales
 account-setup-credentials-wrong = Authentication fallite. Verifica le nomine de usator e le contrasigno
 account-setup-find-settings-failed = { -brand-short-name } non ha potite trovar le parametros pro tu conto e-mail
 account-setup-exchange-config-unverifiable = Le configuration non pote esser verificate. Si tu nomine de usator e contrasigno es correcte, il es probabile que le administrator del servitor ha disactivate le configuration seligite pro tu conto. Prova seliger un altere protocollo.
+account-setup-provisioner-error = Un error occurreva durante le configuration del tu nove conto in { -brand-short-name }. Per favor, tenta de manualmente implementar tu conto con tu credentiales.
 
 ## Manual configuration area
 

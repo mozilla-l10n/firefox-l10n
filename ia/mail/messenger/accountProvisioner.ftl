@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-provisioner-tab-title = Obtene un nove adresse e-mail de un fornitor de servicio
 provisioner-searching-icon =
     .alt = In cerca…
+account-provisioner-title = Crear un nove adresse e-mail
 
 ## Forms
 
