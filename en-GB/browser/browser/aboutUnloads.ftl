@@ -21,6 +21,19 @@ about-unloads-intro-2 =
     frame, and in <em>italic</em> when the process is shared between different
     tabs. You can trigger tab unloading manually by clicking the <em>Unload</em>
     button below.
+about-unloads-intro =
+    { -brand-short-name } has a feature that automatically unloads tabs
+    to prevent the application from crashing due to insufficient memory
+    when the system’s available memory is low. The next tab to be unloaded is
+    chosen based on multiple attributes. This page shows how
+    { -brand-short-name } prioritises tabs and which tab will be unloaded
+    when tab unloading is triggered. You can trigger tab unloading manually
+    by clicking the <em>Unload</em> button below.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    See <a data-l10n-name="doc-link">Tab Unloading</a> to learn more about
+    the feature and this page.
 about-unloads-last-updated = Last updated: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Unload
     .title = Unload tab with the highest priority
