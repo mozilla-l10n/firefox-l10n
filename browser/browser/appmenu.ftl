@@ -180,6 +180,17 @@ profiler-popup-presets-web-developer-label =
 profiler-popup-presets-firefox-platform-description = 내부 Firefox 플랫폼 디버깅에 권장되는 프리셋입니다.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox 플랫폼
+profiler-popup-presets-firefox-front-end-description = 내부 Firefox 프런트 엔드 디버깅에 권장되는 프리셋입니다.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox 프런트 엔드
+profiler-popup-presets-firefox-graphics-description = Firefox 그래픽 성능 조사에 권장되는 프리셋입니다.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox 그래픽
+profiler-popup-presets-media-description = 오디오 및 비디오 문제 진단에 권장되는 프리셋입니다.
+profiler-popup-presets-media-label =
+    .label = 미디어
+profiler-popup-presets-custom-label =
+    .label = 사용자 지정
 
 ## History panel
 
