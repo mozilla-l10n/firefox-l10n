@@ -26,6 +26,10 @@ account-provisioner-button-back = Retornar
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Recuperation de fornitores…
+account-provisioner-connection-issues = Impossibile communicar con nostre servitores de inscription. Per favor controla tu connexion.
+account-provisioner-searching-email = In cerca de contos e-mail disponibile
+account-provisioner-searching-domain = In cerca de dominios disponibile…
 
 ## Illustrations
 
