@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = 기록, 분석, 공유
 profiler-popup-description = 팀과 공유할 프로필을 게시하여 성능 문제에 대해 협업합니다.
 profiler-popup-learn-more = 더 알아보기
+profiler-popup-learn-more-button =
+    .label = 더 알아보기
 profiler-popup-settings =
     .value = 설정
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 설정 편집…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = 설정 편집…
 profiler-popup-disabled =
     프로파일러가 현재 비활성화되어 있습니다. 대부분의 경우 
     사생활 보호 창이 열려 있기 때문입니다.
