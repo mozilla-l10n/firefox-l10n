@@ -126,6 +126,8 @@ profiler-popup-description-title =
     .value = Aufzeichnen, analysieren, teilen
 profiler-popup-description = Arbeiten Sie bei Leistungsproblemen zusammen, indem Sie Profile veröffentlichen, die Sie Ihrem Team zur Verfügung stellen.
 profiler-popup-learn-more = Weitere Informationen
+profiler-popup-learn-more-button =
+    .label = Weitere Informationen
 profiler-popup-settings =
     .value = Einstellungen
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
