@@ -37,18 +37,16 @@
 <!ENTITY event.attendees.notify.accesskey            "ד">
 <!ENTITY event.attendees.notifyundisclosed.label     "הזמנה נפרדת לכל משתתף">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "פ">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "אפשרות זו שולחת הזמנה אחת לכל משתתף. כל הזמנה מכילה רק את המשתתף כנמען כדי ששאר זהויות המשתתפים לא תיחשפנה.">
 <!ENTITY event.attendees.disallowcounter.label       "השבתת הצעות סותרות">
 <!ENTITY event.attendees.disallowcounter.accesskey   "ס">
 <!ENTITY event.attendees.disallowcounter.tooltip     "ציון לכך שלא תתקבלנה הצעות חלופיות">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -88,10 +86,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "מחיקה…">
 <!ENTITY  event.menu.item.delete.accesskey                "מ">
-<!ENTITY  event.menu.item.page.setup.label                "הגדרת עמוד">
-<!ENTITY  event.menu.item.page.setup.accesskey            "ה">
-<!ENTITY  event.menu.item.print.label                     "הדפסה">
-<!ENTITY  event.menu.item.print.accesskey                 "ה">
 
 <!ENTITY  event.menu.edit.label                           "עריכה">
 <!ENTITY  event.menu.edit.accesskey                       "ע">
@@ -116,8 +110,6 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "א">
 <!ENTITY  event.menu.view.toolbars.customize.label        "התאמה אישית…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "ה">
-<!ENTITY  event.menu.view.showlink.label                  "הצג קישורים קשורים">
-<!ENTITY  event.menu.view.showlink.accesskey              "ק">
 
 <!ENTITY  event.menu.options.label                            "אפשרויות">
 <!ENTITY  event.menu.options.accesskey                        "א">
@@ -408,10 +400,12 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "שמירה וסגירה">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "שמירת השינויים וסגירת החלון מבלי לשנות את מצב ההשתתפות או לשלוח תגובה">
 <!ENTITY summary.dialog.accept.label            "קבלה">
 <!ENTITY summary.dialog.accept.tooltiptext      "קבלת ההזמנה">
 <!ENTITY summary.dialog.decline.label           "סירוב">
 <!ENTITY summary.dialog.decline.tooltiptext     "סירוב להזמנה">
 <!ENTITY summary.dialog.dontsend.label          "לא לשלוח תגובה">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "שינוי מצב ההשתתפות שלך מבלי לשלוח תגובה למארגן/נת וסגירת החלון">
 <!ENTITY summary.dialog.send.label              "שליחת תגובה כעת">
-<!ENTITY summary.dialog.send.tooltiptext        "שליחת הודעה למארגן/נת ולסגור את החלון">
+<!ENTITY summary.dialog.send.tooltiptext        "שליחת הודעה למארגן/נת וסגירת החלון">

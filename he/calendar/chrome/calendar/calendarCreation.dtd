@@ -40,5 +40,12 @@
 
 <!ENTITY calendartype.label "סוג לוח שנה:">
 <!ENTITY location.label "מיקום:">
+<!ENTITY location.placeholder "כתובת או שם מארח של שרת לוחות השנה">
 
+<!ENTITY network.nocredentials.label "מיקום זה אינו דורש פרטי גישה">
+<!ENTITY network.loading.description "נא להמתין בזמן גילוי לוחות השנה שלך.">
+<!ENTITY network.notfound.description "לא ניתן למצוא לוחות שנה במיקום זה. נא לבדוק את ההגדרות שלך.">
+<!ENTITY network.authfail.description "פרטי הגישה שהקלדת לא התקבלו. נא לבדוק את ההגדרות שלך.">
 
+<!ENTITY network.subscribe.single.description "נא לבחור את לוחות השנה אליהם ברצונך להירשם.">
+<!ENTITY network.subscribe.multiple.description "במיקום זה ישנם מספר לוחות שנה. נא לבחור את סוג לוח השנה ולסמן את לוחות השנה אליהם ברצונך להירשם.">
