@@ -144,3 +144,5 @@ about-addressbook-details-phone-numbers-header = Telefonske številke
 about-addressbook-details-home-address-header = Domači naslov
 about-addressbook-details-work-address-header = Službeni naslov
 about-addressbook-details-other-info-header = Drugi podatki
+about-addressbook-prompt-to-save-title = Shrani spremembe?
+about-addressbook-prompt-to-save = Ali želite shraniti svoje spremembe?

@@ -11,7 +11,6 @@ unread-messages-os-tooltip =
         [few] { $count } neprebrana sporočila
        *[other] { $count } neprebranih sporočil
     }
-
 about-rights-notification-text = { -brand-short-name } je brezplačen in odprtokoden program, ki ga ustvarja skupnost tisočev prostovoljcev z vsega sveta.
 
 ## Content tabs
@@ -28,11 +27,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Dodatki in teme
     .tooltiptext = Upravljanje dodatkov
-
 quick-filter-toolbarbutton =
     .label = Hitri filter
     .tooltiptext = Filtriraj sporočila
-
 redirect-msg-button =
     .label = Preusmeri
     .tooltiptext = Preusmeri izbrano sporočilo
@@ -42,10 +39,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Orodna vrstica podokna map
     .accesskey = O
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Možnosti podokna map
-
 folder-pane-header-label = Mape
 
 ## Folder Toolbar Header Popup
@@ -53,27 +48,21 @@ folder-pane-header-label = Mape
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Skrij orodno vrstico
     .accesskey = S
-
 show-all-folders-label =
     .label = Vse mape
     .accesskey = V
-
 show-unread-folders-label =
     .label = Neprebrane mape
     .accesskey = N
-
 show-favorite-folders-label =
     .label = Priljubljene mape
     .accesskey = P
-
 show-smart-folders-label =
     .label = Poenotene mape
     .accesskey = e
-
 show-recent-folders-label =
     .label = Nedavne mape
     .accesskey = d
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Zgoščen pogled
     .accesskey = Z
@@ -83,26 +72,26 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Preusmeri
     .accesskey = u
+menu-file-save-as-file =
+    .label = Datoteko …
+    .accesskey = D
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Datoteko …
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Nastavitve
-
 appmenu-addons-and-themes =
     .label = Dodatki in teme
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Način za odpravljanje težav …
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Izključi način za odpravljanje težav
-
 appmenu-help-more-troubleshooting-info =
     .label = Več podatkov za odpravljanje težav
-
 appmenu-redirect-msg =
     .label = Preusmeri
 
@@ -129,7 +118,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Naslov je v imeniku
-
 message-header-address-not-in-address-book-icon =
     .alt = Naslova ni v imeniku
 
@@ -140,11 +128,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Odstranim { $name }?
 addon-removal-confirmation-button = Odstrani
 addon-removal-confirmation-message = Odstranim { $name } skupaj z njegovimi nastavitvami in podatki iz { -brand-short-name(sklon: "rodilnik") }
-
 caret-browsing-prompt-title = Brskanje s kazalko
 caret-browsing-prompt-text = Tipka F7 vključi ali izključi brskanje s kazalko. Ta možnost na nekatero vsebino postavi premični kazalec, ki vam omogoča izbiro besedila s tipkovnico. Ali želite vključiti brskanje s kazalko?
 caret-browsing-prompt-check-text = Ne sprašuj več.
-
 repair-text-encoding-button =
     .label = Popravi kodiranje besedila
     .tooltiptext = Ugani pravilni nabor znakov iz vsebine sporočila
