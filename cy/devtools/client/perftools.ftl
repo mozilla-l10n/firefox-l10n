@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Maint byffer:
-
 perftools-custom-threads-label = Ychwanegwch drywydd cyfaddas yn ôl enw:
-
 perftools-devtools-interval-label = Cyfnod:
 perftools-devtools-threads-label = Trywyddion:
 perftools-devtools-settings-label = Gosodiadau
@@ -98,14 +96,12 @@ perftools-thread-img-decoder =
     .title = Trywyddion datgodio delwedd
 perftools-thread-dns-resolver =
     .title = Mae datrysiad DNS yn digwydd ar y trywydd hwn
-
 perftools-thread-task-controller =
     .title = Edafedd pwll edafedd TaskController
 
 ##
 
 perftools-record-all-registered-threads = Osgoi'r dewisiadau uchod a chofnodi'r holl drywyddion cofrestredig
-
 perftools-tools-threads-input-label =
     .title = Mae'r enwau trywyddion hyn yn rhestr sydd wedi'i gwahanu â choma sy'n cael ei ddefnyddio i alluogi proffilio trywydd yn y proffiliwr. Mae angen i'r enw fod yn cyfateb yn unig â'r enw trywydd i'w gynnwys. Mae'n sensitif i ofod gwyn.
 
@@ -114,9 +110,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Newydd</b>: Mae'r { -profiler-brand-name } bellach wedi'i integreiddio i Offer Datblygwr. <a>Gweld rhagor</a> am yr offeryn newydd pwerus hwn.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Am gyfnod cyfyngedig, gallwch gyrchu'r panel Perfformiad gwreiddiol trwy <a>{ options-context-advanced-settings }</a>
-
 perftools-onboarding-close-button =
     .aria-label = Cau'r neges cyflwyno
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Datblygwr Gwe
+perftools-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
+perftools-presets-firefox-platform-label = Platfform Firefox
+perftools-presets-firefox-platform-description = Y rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform Firefox mewnol.
+perftools-presets-firefox-front-end-label = Blaen Firefox
+perftools-presets-firefox-front-end-description = Y rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform blaen Firefox.
+perftools-presets-firefox-graphics-label = Graffigau Firefox
+perftools-presets-firefox-graphics-description = Y rhagosodiad sy'n cael ei argymell ar gyfer ymchwilio i berfformiad graffeg Firefox.
+perftools-presets-media-label = Cyfrwng
+perftools-presets-media-description = Y rhagosodiad sy'n cael ei argymell ar gyfer gwneud diagnosis o broblemau sain a fideo.
+perftools-presets-custom-label = Cyfaddas
+
+##
+

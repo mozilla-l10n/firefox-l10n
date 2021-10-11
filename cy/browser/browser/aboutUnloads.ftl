@@ -29,8 +29,8 @@ about-unloads-intro =
     ddadlwytho yw cael ei ddewis yn seiliedig ar briodoleddau lluosog.
     Mae'r dudalen hon yn dangos sut mae { -brand-short-name } yn
     blaenoriaethu tabiau a pha dab fydd yn cael ei ddadlwytho pan
-     fydd dadlwytho tab yn cael ei gychwyn. Gallwch gychwyn dadlwytho tab â llaw
-    trwy glicio ar y botwm <em>Dadlwytho</em> isod.
+    fydd dadlwytho tab yn cael ei gychwyn. Gallwch gychwyn dadlwytho
+    tab â llaw trwy glicio ar y botwm <em>Dadlwytho</em> isod.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =

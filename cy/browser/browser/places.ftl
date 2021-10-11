@@ -122,6 +122,9 @@ places-remove-bookmark =
            *[other] Tynnu Nodau Tudalen
         }
     .accesskey = T
+places-show-in-folder =
+    .label = Dangos mewn Ffolder
+    .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
