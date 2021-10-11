@@ -132,6 +132,9 @@ profiler-popup-settings =
     .value = Einstellungen
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Einstellungen bearbeiten…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Einstellungen bearbeiten…
 profiler-popup-disabled =
     Der Profiler ist derzeit deaktiviert, wahrscheinlich aufgrund eines
     offenen privaten Fensters.
