@@ -118,10 +118,15 @@ profiler-popup-description-title =
     .value = Enregistreu, analitzeu i compartiu
 profiler-popup-description = Col·laboreu en la resolució de problemes de rendiment publicant perfils per compartir-los amb el vostre equip.
 profiler-popup-learn-more = Més informació
+profiler-popup-learn-more-button =
+    .label = Més informació
 profiler-popup-settings =
     .value = Paràmetres
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edita els paràmetres…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Edita els paràmetres…
 profiler-popup-disabled = Actualment l'analitzador de rendiment està desactivat, probablement perquè hi ha una finestra privada oberta.
 profiler-popup-recording-screen = S'està enregistrant…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
