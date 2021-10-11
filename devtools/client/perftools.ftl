@@ -115,6 +115,7 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web 开发者
+perftools-presets-web-developer-description = 推荐在对大部分 Web 应用程序调试时使用，开销较少。
 perftools-presets-firefox-platform-label = Firefox 平台
 perftools-presets-firefox-platform-description = 推荐在 Firefox 内部平台调试时使用。
 perftools-presets-firefox-front-end-label = Firefox 前端

@@ -23,5 +23,6 @@ install-failed-message = { -brand-short-name } 安装失败，但会继续运行
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = 要打开现有的 { -brand-short-name } 应用程序吗？
+prompt-to-launch-existing-app-message = 您已安装 { -brand-short-name }，请使用已安装的应用程序以时刻保持最新，并避免数据丢失。
 prompt-to-launch-existing-app-yes-button = 打开现有程序
 prompt-to-launch-existing-app-no-button = 不，谢谢
