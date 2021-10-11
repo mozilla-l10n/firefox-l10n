@@ -168,6 +168,16 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox - Plattform
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox - Front-End
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox - Grafik
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-custom-label =
+    .label = Anpassad
 
 ## History panel
 
