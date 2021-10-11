@@ -17,3 +17,12 @@ prompt-to-install-no-button = לא להתקין
 
 install-failed-title = ההתקנה של { -brand-short-name } נכשלה.
 install-failed-message = ‏{ -brand-short-name } נכשל בהתקנה אך ימשיך לפעול.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = לפתוח את יישום ה־{ -brand-short-name } הקיים?
+prompt-to-launch-existing-app-message = ‏{ -brand-short-name } כבר מותקן אצלך. יש להשתמש ביישום המותקן כדי להישאר מעודכן ולהימנע מאובדן נתונים.
+prompt-to-launch-existing-app-yes-button = לפתוח את הקיים
+prompt-to-launch-existing-app-no-button = לא תודה
