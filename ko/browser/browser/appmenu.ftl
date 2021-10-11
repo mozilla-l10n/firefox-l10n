@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = 프로파일러
     .tooltiptext = 성능 프로파일 기록
+profiler-popup-button-recording =
+    .label = 프로파일러
+    .tooltiptext = 프로파일러가 프로파일을 기록합니다
+profiler-popup-button-capturing =
+    .label = 프로파일러
+    .tooltiptext = 프로파일러가 프로파일을 캡처합니다
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = 오버헤드가 낮은 대부분의 웹 앱 디버깅에 권장되는 프리셋입니다.
+profiler-popup-presets-web-developer-label =
+    .label = 웹 개발자
+profiler-popup-presets-firefox-platform-description = 내부 Firefox 플랫폼 디버깅에 권장되는 프리셋입니다.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox 플랫폼
 
 ## History panel
 
