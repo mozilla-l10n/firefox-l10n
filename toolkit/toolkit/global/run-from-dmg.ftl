@@ -17,3 +17,11 @@ prompt-to-install-no-button = Njeinstalować
 
 install-failed-title = Instalowanje { -brand-short-name } je so nimokuliło.
 install-failed-message = { -brand-short-name } njeda so instalować, ale dale funguje.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Eksistowace nałoženje { -brand-short-name } wočinić?
+prompt-to-launch-existing-app-yes-button = Eksistowace wočinić
+prompt-to-launch-existing-app-no-button = Ně, dźakuju so

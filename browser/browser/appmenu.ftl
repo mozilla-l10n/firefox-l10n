@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilowak
     .tooltiptext = Natočće wukonowy profil
+profiler-popup-button-recording =
+    .label = Profilowak
+    .tooltiptext = Profilowak profil natoča.
+profiler-popup-button-capturing =
+    .label = Profilowak
+    .tooltiptext = Profilowak profil zapřijima
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,18 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Webwuwiwar
+profiler-popup-presets-firefox-platform-label =
+    .label = Platforma Firefox
+profiler-popup-presets-firefox-front-end-label =
+    .label = Frontend Firefox
+profiler-popup-presets-firefox-graphics-label =
+    .label = Grafika Firefox
+profiler-popup-presets-media-label =
+    .label = Medije
+profiler-popup-presets-custom-label =
+    .label = Swójski
 
 ## History panel
 
