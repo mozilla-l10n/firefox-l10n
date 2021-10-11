@@ -20,6 +20,19 @@ about-unloads-intro-2 =
     lapot. A folyamatazonosítók <strong>félkövérek</strong>, ha a lap felső
     keretét adják, és <em>dőltek</em>, ha a folyamaton több lap osztozik. Kézzel
     is kiválthatja a kisöprést, ha a lenti <em>Kisöprés</em> gombra kattint.
+about-unloads-intro =
+    A { -brand-short-name } rendelkezik egy olyan funkcióval, hogy
+    automatikusan kisöpri a lapokat, hogy megakadályozza az alkalmazás
+    összeomlását, ha kevés a rendszer elérhető memóriája. A következő
+    kisöprendő lap több tulajdonság alapján lesz kiválasztva. Az oldal
+    bemutatja, hogy a { -brand-short-name } miként priorizálja a lapokat,
+    és mely lap lesz kisöpörve, ha aktiválódik a funkció. A lap kisöprése
+    kézileg is aktiválható a lenti <em>Kisöprés</em> gombbal.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Lásd a <a data-l10n-name="doc-link">Lapkisöprés</a> leírást, hogy
+    többet tudjon meg a funkcióról és erről a lapról.
 about-unloads-last-updated = Legutóbb frissítve: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Kisöprés
     .title = A legmagasabb prioritású lap kisöprése
