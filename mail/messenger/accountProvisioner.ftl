@@ -15,12 +15,39 @@ account-provisioner-domain-description = A Thunderbird partnerségre lépett a <
 
 ## Forms
 
+account-provisioner-mail-input =
+    .placeholder = Az Ön neve, beceneve vagy más keresési kifejezések
+account-provisioner-domain-input =
+    .placeholder = Az Ön neve, beceneve vagy más keresési kifejezések
+account-provisioner-search-button = Keresés
+account-provisioner-button-cancel = Mégse
+account-provisioner-button-existing = Meglévő e-mail-fiók használata
+account-provisioner-button-back = Ugrás vissza
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Szolgáltatók lekérése…
+account-provisioner-connection-issues = Nem sikerült kapcsolódni a feliratkozási kiszolgálókhoz. Ellenőrizze a kapcsolatát.
+account-provisioner-searching-email = Elérhető e-mail-fiókok keresése…
+account-provisioner-searching-domain = Elérhető domainek keresése…
+account-provisioner-searching-error = Nem található javasolható cím. Próbálja megváltoztatni a keresési kifejezéseket.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Válassza ki, melyik fiókot szeretné létrehozni
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Egy elérhető e-mail-cím található a következőhöz:
+       *[other] { $count } elérhető e-mail-cím található a következőhöz:
+    }
+account-provisioner-mail-results-caption = Kereshet becenevekre vagy bármi másra is, hogy további e-mail-címeket találjon.
+account-provisioner-domain-results-caption = Kereshet becenevekre vagy bármi másra is, hogy további domaineket találjon.
+account-provisioner-free-account = Ingyenes
+account-provision-price-per-year = { $price } évente
+account-provisioner-all-results-button = Összes találat megjelenítése
