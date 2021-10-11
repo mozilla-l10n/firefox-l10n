@@ -153,7 +153,14 @@ mr1-onboarding-import-primary-button-label-attribution = Importer frå { $previo
 mr1-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
 mr1-onboarding-import-secondary-button-label = Ikkje no
 mr2-onboarding-colorway-header = Livet i fargar
+mr2-onboarding-colorway-primary-button-label = Lagre fargesamansetjing
 mr2-onboarding-colorway-secondary-button-label = Ikkje no
+mr2-onboarding-colorway-label-soft = Mjuk
+mr2-onboarding-colorway-label-balanced = Balansert
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatisk
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Standard
 mr1-onboarding-theme-header = Gjer han til din eigen
 mr1-onboarding-theme-subtitle = Tilpass { -brand-short-name } med eit tema.
 mr1-onboarding-theme-primary-button-label = Lagre tema
@@ -259,6 +266,10 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Bruk eit dynamisk, fargerikt tema for knappar,
         menyar og vindauge.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Bruk denne fargesamansetjinga.
 
 ## Strings for Thank You page
 
