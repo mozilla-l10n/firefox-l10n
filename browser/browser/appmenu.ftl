@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Spela in en prestationsprofil
+profiler-popup-button-recording =
+    .label = Profilerare
+    .tooltiptext = Profileraren spelar in en profil
+profiler-popup-button-capturing =
+    .label = Profilerare
+    .tooltiptext = Profileraren fångar en profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,12 +174,19 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Rekommenderad förinställning för de flesta webbappfelsökningar, med lite pålägg.
+profiler-popup-presets-web-developer-label =
+    .label = Webbutvecklare
+profiler-popup-presets-firefox-platform-description = Rekommenderad förinställning för intern felsökning av plattformar i Firefox.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox - Plattform
+profiler-popup-presets-firefox-front-end-description = Rekommenderad förinställning för intern felsökning av front-end i Firefox.
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox - Front-End
+profiler-popup-presets-firefox-graphics-description = Rekommenderad förinställning för utredning av grafikprestanda i Firefox.
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox - Grafik
+profiler-popup-presets-media-description = Rekommenderad förinställning för diagnos av ljud- och videoproblem.
 profiler-popup-presets-media-label =
     .label = Media
 profiler-popup-presets-custom-label =

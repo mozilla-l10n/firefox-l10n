@@ -122,10 +122,15 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Webbutvecklare
+perftools-presets-web-developer-description = Rekommenderad förinställning för de flesta webbappfelsökningar, med lite pålägg.
 perftools-presets-firefox-platform-label = Firefox - Plattform
+perftools-presets-firefox-platform-description = Rekommenderad förinställning för intern felsökning av plattformar i Firefox.
 perftools-presets-firefox-front-end-label = Firefox - Front-End
+perftools-presets-firefox-front-end-description = Rekommenderad förinställning för intern felsökning av front-end i Firefox.
 perftools-presets-firefox-graphics-label = Firefox - Grafik
+perftools-presets-firefox-graphics-description = Rekommenderad förinställning för utredning av grafikprestanda i Firefox.
 perftools-presets-media-label = Media
+perftools-presets-media-description = Rekommenderad förinställning för diagnos av ljud- och videoproblem.
 perftools-presets-custom-label = Anpassad
 
 ##

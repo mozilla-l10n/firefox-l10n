@@ -22,5 +22,7 @@ install-failed-message = Installationen misslyckades men { -brand-short-name } f
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = Öppna befintlig applikation { -brand-short-name }?
+prompt-to-launch-existing-app-message = Du har redan installerat { -brand-short-name }. Använd det installerade programmet för att hålla dig uppdaterad och förhindra dataförlust.
 prompt-to-launch-existing-app-yes-button = Öppna befintlig
 prompt-to-launch-existing-app-no-button = Nej, tack
