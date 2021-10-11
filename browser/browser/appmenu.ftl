@@ -99,10 +99,15 @@ profiler-popup-button-idle =
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-learn-more = Իմանալ ավելին
+profiler-popup-learn-more-button =
+    .label = Իմանալ ավելին
 profiler-popup-settings =
     .value = Կարգավորումներ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Խմբագրել կարգավորումները…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Խմբագրել կարգավորումները…
 profiler-popup-recording-screen = Գրանցում...
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
