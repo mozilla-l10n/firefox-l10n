@@ -17,3 +17,12 @@ prompt-to-install-no-button = Peidio â Gosod
 
 install-failed-title = Methodd gosod { -brand-short-name }.
 install-failed-message = Methodd { -brand-short-name } â gosod ond bydd yn parhau i redeg.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Agor y rhaglen { -brand-short-name } presennol?
+prompt-to-launch-existing-app-message = Mae { -brand-short-name } eisoes wedi'i osod. Defnyddiwch y rhaglen sydd wedi'i osod i gael y wybodaeth ddiweddaraf ac atal colli data.
+prompt-to-launch-existing-app-yes-button = Agor yr un cyfredol
+prompt-to-launch-existing-app-no-button = Dim diolch
