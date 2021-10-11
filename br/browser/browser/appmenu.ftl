@@ -124,6 +124,8 @@ profiler-popup-description-title =
     .value = Enrollañ, dielfennañ, rannañ
 profiler-popup-description = Kenlabourat war kudennoù digonusted en ur embann aeladoù da rannañ gant hor skipailh.
 profiler-popup-learn-more = Gouzout hiroc’h
+profiler-popup-learn-more-button =
+    .label = Gouzout hiroc’h
 profiler-popup-settings =
     .value = Arventennoù
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
