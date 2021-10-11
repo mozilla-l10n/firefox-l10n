@@ -4,3 +4,17 @@
 
 provisioner-searching-icon =
     .alt = 正在搜索…
+
+## Forms
+
+account-provisioner-search-button = 搜索
+account-provisioner-button-cancel = 取消
+
+## Notifications
+
+
+## Illustrations
+
+
+## Search results
+
