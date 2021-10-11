@@ -8,6 +8,7 @@
   -->
 
 <!-- Tools menu -->
+<!ENTITY lightning.preferencesLabel "לוח שנה">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "אירוע…">
@@ -41,9 +42,35 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "לעת עתה, ניתן להפעיל אפשרות זאת רק לאחר הגדרת לוח השנה הזה בתיבת דו־שיח המאפיינים אם שרת לוח השנה מטפל בתזמון.">
+
+<!-- The notifications settings in the properties dialog -->
 
 <!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.btnAccept.label                                  "לאשר">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "לאשר את הזימון לאירוע">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "לאשר הכול">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "קבלת ההזמנה לאירוע על כל מופעיו">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "הוספה">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "הוספת האירוע ללוח השנה">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "סירוב">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "סירוב להזמנה לאירוע">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "סירוב להכול">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "סירוב להזמנה לאירוע על כל מופעיו">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "סירוב">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "סירוב להצעה החלופית">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "מחיקה">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "מחיקה מלוח השנה">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "פרטים…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "הצגת פרטי האירוע">
 <!ENTITY lightning.imipbar.btnMore.label                                    "עוד">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "יש ללחוץ כדי להציג אפשרויות נוספות">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "אישור מחדש">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "שליחת אישור מחדש למארגן/נת">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "תזמון מחדש">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "תזמון מחדש של האירוע">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "שמירת עותק">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "שמירת עותק של האירוע ללוח שנה בנפרד מהתגובה למארגן. רשימת המשתתפים תימחק.">
 <!ENTITY lightning.imipbar.description                                      "הודעה זו כוללת הזמנה לאירוע.">
 
 
