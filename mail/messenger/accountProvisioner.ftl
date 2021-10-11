@@ -4,3 +4,17 @@
 
 provisioner-searching-icon =
     .alt = Iskanje …
+account-provisioner-title = Ustvarite nov e-poštni naslov
+account-provisioner-mail-account-title = Kupite nov e-poštni naslov
+
+## Forms
+
+
+## Notifications
+
+
+## Illustrations
+
+
+## Search results
+
