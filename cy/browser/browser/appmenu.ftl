@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Proffiliwr
     .tooltiptext = Cofnodi proffil perfformiad
+profiler-popup-button-recording =
+    .label = Proffiliwr
+    .tooltiptext = Mae'r proffiliwr yn recordio proffil
+profiler-popup-button-capturing =
+    .label = Proffiliwr
+    .tooltiptext = Mae'r proffiliwr yn cipio proffil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,15 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
+profiler-popup-presets-web-developer-label =
+    .label = Datblygwr Gwe
+profiler-popup-presets-firefox-platform-description = Rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform Firefox mewnol.
+profiler-popup-presets-firefox-platform-label =
+    .label = Platfform Firefox
+profiler-popup-presets-firefox-front-end-description = Rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform blaen Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Blaen Firefox
 
 ## History panel
 
