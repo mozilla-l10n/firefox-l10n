@@ -118,10 +118,15 @@ profiler-popup-reveal-description-button =
 profiler-popup-description-title =
     .value = កាត់ត្រា វិភាគ ចែករំលែក
 profiler-popup-learn-more = ស្វែងយល់បន្ថែម
+profiler-popup-learn-more-button =
+    .label = ស្វែងយល់បន្ថែម
 profiler-popup-settings =
     .value = ការកំណត់
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = កែសម្រួួលការកំណត់…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = កែសម្រួួលការកំណត់…
 profiler-popup-recording-screen = កំពុងថត …
 profiler-popup-start-recording-button =
     .label = ចាប់ផ្ដើមថត
@@ -139,6 +144,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
