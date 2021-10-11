@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = Запісвайце, аналізуйце, дзяліцеся
 profiler-popup-description = Супольна працуйце над праблемамі прадукцыйнасці, публікуючы профілі і дзелячыся імі з сваёй камандай.
 profiler-popup-learn-more = Падрабязней
+profiler-popup-learn-more-button =
+    .label = Падрабязней
 profiler-popup-settings =
     .value = Налады
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Змянiць налады...
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Змянiць налады...
 profiler-popup-disabled =
     Прафайлер зараз адключаны, хутчэй за ўсё, з-за адкрытага акна
     прыватнага аглядання.
