@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = Optag, analysér, del
 profiler-popup-description = Samarbejd om ydelses-problemer ved at dele profiler med dit hold.
 profiler-popup-learn-more = Læs mere
+profiler-popup-learn-more-button =
+    .label = Læs mere
 profiler-popup-settings =
     .value = Indstillinger
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Rediger indstillinger…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Rediger indstillinger…
 profiler-popup-disabled =
     Profilering er deaktiveret, sandsynligvis fordi et privat browsing-vindue
     er åbent.
