@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = Felvétel, elemzés, megosztás
 profiler-popup-description = Dolgozzon együtt a teljesítményproblémák kijavításán azáltal, hogy profilokat oszt meg a csapatával.
 profiler-popup-learn-more = További tudnivalók
+profiler-popup-learn-more-button =
+    .label = További tudnivalók
 profiler-popup-settings =
     .value = Beállítások
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Beállítások szerkesztése…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Beállítások szerkesztése…
 profiler-popup-disabled =
     A profilozó jelenleg le van tiltva, valószínűleg azért, mert nyitva van egy privát
     böngészési ablak.
