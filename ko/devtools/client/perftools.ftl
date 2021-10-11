@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 버퍼 크기:
-
 perftools-custom-threads-label = 이름으로 사용자 지정 스레드 추가:
-
 perftools-devtools-interval-label = 간격:
 perftools-devtools-threads-label = 스레드:
 perftools-devtools-settings-label = 설정
@@ -97,14 +95,12 @@ perftools-thread-img-decoder =
     .title = 이미지 디코딩 스레드
 perftools-thread-dns-resolver =
     .title = 이 스레드에서 DNS 확인 발생
-
 perftools-thread-task-controller =
     .title = TaskController 스레드 풀 스레드
 
 ##
 
 perftools-record-all-registered-threads = 위의 선택 사항을 무시하고 등록된 모든 스레드를 기록
-
 perftools-tools-threads-input-label =
     .title = 이러한 스레드 이름은 프로파일러에서 스레드의 프로파일링을 활성화하는데 사용되는 쉼표로 구분된 목록입니다. 이름은 포함할 스레드 이름과 부분적으로 일치해야 합니다. 공백에 민감합니다.
 
@@ -113,9 +109,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>새 기능</b>: { -profiler-brand-name }가 이제 개발자 도구에 통합되었습니다. 이 강력한 새 도구에 대해 <a>더 알아보세요</a>.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (한시적으로 <a>{ options-context-advanced-settings }</a>을 통해 원래의 성능 패널에 액세스할 수 있습니다)
-
 perftools-onboarding-close-button =
     .aria-label = 온보딩 메시지 닫기
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = 웹 개발자
+perftools-presets-web-developer-description = 오버헤드가 낮은 대부분의 웹 앱 디버깅에 권장되는 프리셋입니다.
+perftools-presets-firefox-platform-label = Firefox 플랫폼
+perftools-presets-firefox-platform-description = 내부 Firefox 플랫폼 디버깅에 권장되는 프리셋입니다.
+perftools-presets-firefox-front-end-label = Firefox 프런트 엔드
+perftools-presets-firefox-front-end-description = 내부 Firefox 프런트 엔드 디버깅에 권장되는 프리셋입니다.
+perftools-presets-firefox-graphics-label = Firefox 그래픽
+perftools-presets-firefox-graphics-description = Firefox 그래픽 성능 조사에 권장되는 프리셋입니다.
+perftools-presets-media-label = 미디어
+perftools-presets-media-description = 오디오 및 비디오 문제 진단에 권장되는 프리셋입니다.
+perftools-presets-custom-label = 사용자 지정
+
+##
+
