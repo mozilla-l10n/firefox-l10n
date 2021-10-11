@@ -86,8 +86,6 @@
 
 <!ENTITY calendar.newevent.button.label         "אירוע חדש" >
 <!ENTITY calendar.newtask.button.label          "מטלה חדשה" >
-<!ENTITY calendar.print.button.label            "הדפס" >
-<!ENTITY calendar.print.button.accesskey        "ד">
 
 <!ENTITY calendar.day.button.label              "יום" >
 <!ENTITY calendar.week.button.label             "שבוע" >
@@ -362,23 +360,6 @@
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "בחירת לוח שנה">
 
-<!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "הדפס לוח שנה">
-<!ENTITY calendar.print.title.label "כותרת:">
-<!ENTITY calendar.print.layout.label "צורה:">
-<!ENTITY calendar.print.range.label "מה ברצונך להדפיס">
-<!ENTITY calendar.print.currentView2.label "התצוגה הנוכחית">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "אירועים/משימות נבחרים">
-<!ENTITY calendar.print.tasks.label "משימות">
-<!ENTITY calendar.print.events.label "אירועים">
-<!ENTITY calendar.print.custom.label "טווח תאריכים מותאם אישית:">
-<!ENTITY calendar.print.from.label "מאת:">
-<!ENTITY calendar.print.to.label "אל:">
-<!ENTITY calendar.print.settingsGroup.label "הגדרות הדפסה">
-<!ENTITY calendar.print.optionsGroup.label "אפשרויות">
-<!ENTITY calendar.print.taskswithnoduedate.label "משימות ללא תאריך יעד">
-<!ENTITY calendar.print.completedtasks.label "משימות שהושלמו">
-
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "פרטים…">
 <!ENTITY calendar.error.code "קוד שגיאה:">
@@ -388,3 +369,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "הוספה כאירוע">
 <!ENTITY calendar.extract.task.button          "הוספה כמשימה">
+<!ENTITY calendar.extract.event.button.tooltip "חילוץ פרטי הצעת פגישה מההודעה והוספה ללוח השנה שלך כאירוע">
+<!ENTITY calendar.extract.task.button.tooltip  "חילוץ פרטי הצעת פגישה מההודעה והוספה ללוח השנה שלך כמשימה">
