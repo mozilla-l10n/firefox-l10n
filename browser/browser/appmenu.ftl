@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Record a performance profile
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = The profiler is recording a profile
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = The profiler is capturing a profile
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
+profiler-popup-presets-web-developer-label =
+    .label = Web Developer
+profiler-popup-presets-firefox-platform-description = Recommended preset for internal Firefox platform debugging.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox Platform
+profiler-popup-presets-firefox-front-end-description = Recommended preset for internal Firefox front-end debugging.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox Front-End
+profiler-popup-presets-firefox-graphics-description = Recommended preset for Firefox graphics performance investigation.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox Graphics
+profiler-popup-presets-media-description = Recommended preset for diagnosing audio and video problems.
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-custom-label =
+    .label = Custom
 
 ## History panel
 
