@@ -124,10 +124,15 @@ profiler-popup-description-title =
     .value = Rekam, analisis, bagikan
 profiler-popup-description = Berkolaborasi dalam masalah kinerja dengan mempublikasikan profil untuk dibagikan dengan tim Anda.
 profiler-popup-learn-more = Pelajari lebih lanjut
+profiler-popup-learn-more-button =
+    .label = Pelajari lebih lanjut
 profiler-popup-settings =
     .value = Pengaturan
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edit Pengaturan…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Edit Pengaturan…
 profiler-popup-disabled = Profiler saat ini dimatikan, kemungkinan besar karena jendela Penjelajahan Pribadi terbuka.
 profiler-popup-recording-screen = Merekam…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
