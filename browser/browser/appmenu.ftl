@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = Grabar, analizar, compartir
 profiler-popup-description = Colabore en problemas de rendimiento publicando perfiles para compartirlos con su equipo.
 profiler-popup-learn-more = Saber más
+profiler-popup-learn-more-button =
+    .label = Saber más
 profiler-popup-settings =
     .value = Ajustes
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar ajustes…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Editar ajustes…
 profiler-popup-disabled =
     El perfilador está actualmente desactivado, probablemente debido a una ventana de navegación privada
      abierta.
