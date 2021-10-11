@@ -17,3 +17,11 @@ prompt-to-install-no-button = 不安装
 
 install-failed-title = { -brand-short-name } 安装失败。
 install-failed-message = { -brand-short-name } 安装失败，但会继续运行。
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = 要打开现有的 { -brand-short-name } 应用程序吗？
+prompt-to-launch-existing-app-yes-button = 打开现有程序
+prompt-to-launch-existing-app-no-button = 不，谢谢
