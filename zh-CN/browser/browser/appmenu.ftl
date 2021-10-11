@@ -166,8 +166,16 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Web 开发者
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox 平台
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox 前端
 profiler-popup-presets-media-label =
     .label = 媒体
+profiler-popup-presets-custom-label =
+    .label = 自定义
 
 ## History panel
 
