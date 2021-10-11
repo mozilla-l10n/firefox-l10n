@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = 效能檢測器
     .tooltiptext = 紀錄效能檢測檔
+profiler-popup-button-recording =
+    .label = 效能檢測器
+    .tooltiptext = 檢測器正在紀錄效能檢測檔
+profiler-popup-button-capturing =
+    .label = 效能檢測器
+    .tooltiptext = 檢測器正在紀錄效能檢測檔
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -166,6 +172,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = 推薦於對大部分網頁應用程式除錯時使用，額外負荷較低。
+profiler-popup-presets-web-developer-label =
+    .label = 網頁開發者
+profiler-popup-presets-firefox-platform-description = 推薦於 Firefox 內部平台除錯時使用。
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox 平台
+profiler-popup-presets-firefox-front-end-description = 推薦於 Firefox 內部前端介面除錯時使用。
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox 前端
+profiler-popup-presets-firefox-graphics-description = 推薦於檢查 Firefox 圖形效能問題時使用。
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox 圖形
+profiler-popup-presets-media-description = 推薦於診斷 Firefox 影音問題時使用。
+profiler-popup-presets-media-label =
+    .label = 媒體
+profiler-popup-presets-custom-label =
+    .label = 自訂
 
 ## History panel
 

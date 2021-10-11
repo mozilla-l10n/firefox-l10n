@@ -9,6 +9,10 @@
 about-unloads-page-title = 分頁降載
 about-unloads-intro-1 = { -brand-short-name } 提供自動卸載分頁的功能，來防止應用程式因記憶體不足發生錯誤。此功能會依照多個屬性來決定接下來要卸除哪個分頁。此頁面顯示 { -brand-short-name } 如何排序分頁的優先程度，以及觸發降載時會卸載哪些分頁。
 about-unloads-intro-2 = 下方將依照 { -brand-short-name } 卸載分頁的順序來顯示目前開啟的分頁。以<strong>粗體字</strong>顯示的處理程序 ID 表示它們處理網頁的頂層畫框內容；以<em>斜體字</em>顯示的分頁則代表其處理程序是由其他不同分頁共同使用中。您可以點擊下方的「<em>卸載</em>」來進行分頁降載。
+about-unloads-intro = { -brand-short-name } 提供自動卸載分頁的功能，來防止應用程式因系統記憶體不足而發生錯誤。此功能會依照多個屬性來決定接下來要卸除哪個分頁。此頁面顯示 { -brand-short-name } 如何排序分頁的優先程度，以及觸發降載時會卸載哪些分頁。您可點擊下方的<em>卸載</em>按鈕來手動觸發此功能。
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = 若需有關本頁面與此功能的更多資訊，請參考 <a data-l10n-name="doc-link">Tab Unloading</a> 一文。
 about-unloads-last-updated = 最後更新於: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = 卸載
     .title = 卸載最高優先權的分頁

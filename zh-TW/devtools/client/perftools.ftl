@@ -35,9 +35,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 緩衝區大小:
-
 perftools-custom-threads-label = 依照名稱新增自訂執行緒:
-
 perftools-devtools-interval-label = 間隔:
 perftools-devtools-threads-label = 執行緒:
 perftools-devtools-settings-label = 設定
@@ -90,14 +88,12 @@ perftools-thread-img-decoder =
     .title = 圖片解碼執行緒
 perftools-thread-dns-resolver =
     .title = DNS 解析會發生在此執行緒
-
 perftools-thread-task-controller =
     .title = TaskController 執行緒池當中的執行緒
 
 ##
 
 perftools-record-all-registered-threads = 忽略上面選擇的項目，記錄所有註冊的執行緒
-
 perftools-tools-threads-input-label =
     .title = 下列執行緒名稱是要在 Profiler 當中測量效能的清單（用逗號分隔）。名稱必須與要列入測量的執行緒名稱部分符合，是否有空白視為不同。
 
@@ -106,9 +102,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>全新</b>: 現在起，已將 { -profiler-brand-name } 整合進開發者工具。了解這個全新強大工具的<a>更多資訊</a>。
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = （短時間內您還是可以透過<a>{ options-context-advanced-settings }</a>使用原本的效能面板）
-
 perftools-onboarding-close-button =
     .aria-label = 關閉功能介紹訊息
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = 網頁開發者
+perftools-presets-web-developer-description = 推薦於對大部分網頁應用程式除錯時使用，額外負荷較低。
+perftools-presets-firefox-platform-label = Firefox 平台
+perftools-presets-firefox-platform-description = 推薦於 Firefox 內部平台除錯時使用。
+perftools-presets-firefox-front-end-label = Firefox 前端
+perftools-presets-firefox-front-end-description = 推薦於 Firefox 內部前端介面除錯時使用。
+perftools-presets-firefox-graphics-label = Firefox 圖形
+perftools-presets-firefox-graphics-description = 推薦於檢查 Firefox 圖形效能問題時使用。
+perftools-presets-media-label = 媒體
+perftools-presets-media-description = 推薦於診斷 Firefox 影音問題時使用。
+perftools-presets-custom-label = 自訂
+
+##
+
