@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Kumoa
 customize-mode-lwthemes-my-themes =
     .value = Omat teemat
+customize-mode-lwthemes-link = Hallinnoi teemoja
 customize-mode-touchbar-cmd =
     .label = Muokkaa Touch Baria…
 customize-mode-downloads-button-autohide =

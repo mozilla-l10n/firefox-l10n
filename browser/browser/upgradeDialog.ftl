@@ -64,6 +64,17 @@ upgrade-dialog-default-secondary-button = Ei nyt
 upgrade-dialog-theme-title-2 = Uusi alku terävällä teemalla
 upgrade-dialog-theme-system = Järjestelmän teema
     .title = Seuraa käyttöjärjestelmän teemaa painikkeille, valikoille ja ikkunoille
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = Ei nyt
+
+## Colorway screen
+
+upgrade-dialog-colorway-secondary-button = Säilytä edellinen teema
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Selaa oletusteemoja
+upgrade-dialog-colorway-default-theme = Oletus
 upgrade-dialog-theme-light = Vaalea
     .title = Käytä vaaleaa teemaa painikkeille, valikoille ja ikkunoille
 upgrade-dialog-theme-dark = Tumma
@@ -74,3 +85,7 @@ upgrade-dialog-theme-keep = Säilytä edellinen
     .title = Käytä ennen { -brand-short-name }in päivitystä asennettuna ollutta teemaa
 upgrade-dialog-theme-primary-button = Tallenna teema
 upgrade-dialog-theme-secondary-button = Ei nyt
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Aloita selaaminen

@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Vain HTTPS -tilan varoitus
 about-httpsonly-title-connection-not-available = Suojattua yhteyttä ei ole käytettävissä
-
+about-httpsonly-title-site-not-available = Suojattu sivusto ei saatavilla
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Olet ottanut käyttöön Vain HTTPS -tilan turvallisuuden parantamiseksi, mutta HTTPS-versiota sivustosta <em>{ $websiteUrl }</em> ei ole käytettävissä.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Mistä tämä johtuu?
 about-httpsonly-explanation-nosupport = Todennäköisesti sivusto ei tue HTTPS:ää.
 about-httpsonly-explanation-risk = On myös mahdollista, että takana on hyökkääjä. Jos päätät vierailla sivustolla, sivustolle ei pitäisi kirjoittaa arkaluonteisia tietoja, kuten salasanoja, sähköpostiosoitteita tai luottokorttitietoja.
 about-httpsonly-explanation-continue = Jos jatkat, Vain HTTPS -tila poistetaan käytöstä väliaikaisesti tämän sivuston kohdalla.
-
 about-httpsonly-button-continue-to-site = Jatka HTTP-sivustolle
 about-httpsonly-button-go-back = Palaa takaisin
 about-httpsonly-link-learn-more = Lue lisää…
