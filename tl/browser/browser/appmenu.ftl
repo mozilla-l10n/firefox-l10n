@@ -130,6 +130,9 @@ profiler-popup-settings =
     .value = Mga Setting
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Baguhin ang Settings…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Baguhin ang Settings…
 profiler-popup-disabled =
     Ang profiler ay kasalukuyang nakapatay, malamang dahil nakabukas ang
     isang Private Browsing window.
