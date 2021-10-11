@@ -128,6 +128,8 @@ profiler-popup-description-title =
     .value = Zaznamenejte, analyzujte, sdílejte
 profiler-popup-description = Spolupracujte na řešení výkonnostních problémů sdílením dat se svým týmem.
 profiler-popup-learn-more = Zjistit více
+profiler-popup-learn-more-button =
+    .label = Zjistit více
 profiler-popup-settings =
     .value = Nastavení
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
