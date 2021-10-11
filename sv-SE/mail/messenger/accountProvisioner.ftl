@@ -7,6 +7,7 @@ provisioner-searching-icon =
     .alt = Söker…
 account-provisioner-title = Skapa en ny e-postadress
 account-provisioner-description = Använd våra betrodda partners för att få en ny privat och säker e-postadress.
+account-provisioner-start-help = De söktermer som används skickas till { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">sekretesspolicy</a>) och e-postleverantörer från tredje part <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">sekretesspolicy</a>, <a data-l10n-name="mailfence-tou-link">användningsvillkor</a >) och <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">sekretesspolicy</a>, <a data-l10n-name="gandi-tou-link">Användarvillkor</a>) för att hitta tillgängliga e-postadresser.
 account-provisioner-mail-account-title = Köp en ny e-postadress
 account-provisioner-mail-account-description = Thunderbird samarbetade med <a data-l10n-name="mailfence-home-link">Mailfence</a> för att erbjuda dig en ny privat och säker e-postadress. Vi anser att alla ska ha en säker e-postadress.
 account-provisioner-domain-title = Köp en e-postadress och en egen domän
