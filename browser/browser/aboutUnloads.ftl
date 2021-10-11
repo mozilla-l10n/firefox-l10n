@@ -20,6 +20,18 @@ about-unloads-intro-2 =
     ram och i <em>kursiv</em> när processen delas mellan flera flikar.
     Du kan starta frigörande av flikar manuellt genom att klicka på knappen
     <em>Frigör</em> nedan.
+about-unloads-intro =
+    { -brand-short-name } har en funktion som automatiskt frigör flikar
+    för att förhindra att programmet kraschar på grund av otillräckligt minne
+    när systemets lediga minne är lågt. Nästa flik som ska frigöras väljs baserat
+    på flera attribut. Den här sidan visar hur { -brand-short-name } prioriterar
+    flikar och vilken flik som kommer att frigöras. Du kan manuellt frigöra en
+    flik genom att klicka på knappen <em>Frigör</em> nedan.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Se <a data-l10n-name="doc-link">Frigör flik</a> om du vill veta mer om
+    funktionen och den här sidan.
 about-unloads-last-updated = Senast uppdaterad: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigör
     .title = Frigör fliken med högsta prioritet
