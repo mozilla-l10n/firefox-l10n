@@ -116,8 +116,13 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Web 开发者
 perftools-presets-firefox-platform-label = Firefox 平台
+perftools-presets-firefox-platform-description = 推荐在 Firefox 内部平台调试时使用。
 perftools-presets-firefox-front-end-label = Firefox 前端
+perftools-presets-firefox-front-end-description = 推荐在 Firefox 内部前端调试时使用。
+perftools-presets-firefox-graphics-label = Firefox 图形
+perftools-presets-firefox-graphics-description = 推荐在检查 Firefox 图形性能问题时使用。
 perftools-presets-media-label = 媒体
+perftools-presets-media-description = 推荐在诊断 Firefox 音视频问题时使用。
 perftools-presets-custom-label = 自定义
 
 ##
