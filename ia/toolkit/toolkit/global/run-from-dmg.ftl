@@ -22,4 +22,7 @@ install-failed-message = Le installation de { -brand-short-name } ha fallite, ma
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = Aperir le existente application { -brand-short-name }?
+prompt-to-launch-existing-app-message = Tu jam ha { -brand-short-name } installate. Usa le application installate pro star actualisate e impedir perdita de datos.
+prompt-to-launch-existing-app-yes-button = Aperir existente
 prompt-to-launch-existing-app-no-button = No, gratias
