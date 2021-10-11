@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] 删除 { $count } 个书签
         }
     .accesskey = e
+places-show-in-folder =
+    .label = 显示所在文件夹
+    .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
