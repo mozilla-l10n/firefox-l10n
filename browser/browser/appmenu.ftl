@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = 记录、分析、共享
 profiler-popup-description = 与您的团队共享性能测量信息，协作解决性能问题。
 profiler-popup-learn-more = 详细了解
+profiler-popup-learn-more-button =
+    .label = 详细了解
 profiler-popup-settings =
     .value = 设置
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 编辑设置…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = 编辑设置…
 profiler-popup-disabled = 分析器当前已禁用，可能是因为打开了隐私浏览窗口。
 profiler-popup-recording-screen = 正在记录…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
