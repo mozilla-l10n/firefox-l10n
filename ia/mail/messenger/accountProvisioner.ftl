@@ -6,9 +6,19 @@ account-provisioner-tab-title = Obtene un nove adresse e-mail de un fornitor de 
 provisioner-searching-icon =
     .alt = In cerca…
 account-provisioner-title = Crear un nove adresse e-mail
+account-provisioner-description = Usa nostre socios digne de fide pro obtener un nove private e secur adresse e-mail.
+account-provisioner-start-help = Le terminos de recerca usate ha essite inviate a { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Regulas del confidentialitate</a>) e fornitores de servicios e-mail de tertie parte <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">Regulas del confidentialitate</a>, <a data-l10n-name="mailfence-tou-link">Conditiones de uso</a>) e <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Regulas del confidentialitate</a>, <a data-l10n-name="gandi-tou-link">Conditiones de uso</a>) pro trovar adresses e-mail disponibile.
+account-provisioner-mail-account-title = Compra un nove adresse e-mail
+account-provisioner-mail-account-description = Thunderbird collabora con <a data-l10n-name="mailfence-home-link">Mailfence</a> pro offerer te un nove e-mail private e secur. Nos crede que totes deberea haber un e-mail secur.
+account-provisioner-domain-title = Compra un e-mail e dominio de tu proprietate
+account-provisioner-domain-description = Thunderbird collabora con <a data-l10n-name="gandi-home-link">Gandi</a> pro te offerer un dominio personal. Isto te permitte de usar ulle adresse sur ille dominio.
 
 ## Forms
 
+account-provisioner-mail-input =
+    .placeholder = Tu nomine, pseudonymo o altere termino de recerca
+account-provisioner-domain-input =
+    .placeholder = Tu nomine, pseudonymo o altere termino de recerca
 account-provisioner-search-button = Cercar
 account-provisioner-button-cancel = Cancellar
 account-provisioner-button-existing = Usar un conto email existente
