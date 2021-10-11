@@ -132,3 +132,5 @@ about-addressbook-details-phone-numbers-header = Telefonszámok
 about-addressbook-details-home-address-header = Otthoni cím
 about-addressbook-details-work-address-header = Munkahelyi cím
 about-addressbook-details-other-info-header = Egyéb információk
+about-addressbook-prompt-to-save-title = Menti a változtatásokat?
+about-addressbook-prompt-to-save = Szeretné menteni a módosításokat?
