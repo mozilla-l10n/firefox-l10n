@@ -17,3 +17,10 @@ prompt-to-install-no-button = Не встановлювати
 
 install-failed-title = Не вдалося встановити { -brand-short-name }.
 install-failed-message = Не вдалося встановити { -brand-short-name }, але він продовжуватиме працювати.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Відкрити наявний застосунок { -brand-short-name }?
+prompt-to-launch-existing-app-message = Ви вже встановили { -brand-short-name }. Скористаєтеся встановленим застосунком, щоб завжди мати найновішу версію та запобігти втраті даних.
