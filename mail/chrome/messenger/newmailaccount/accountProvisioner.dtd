@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Хочете завести нову адресу ел.пошти?">
 <!ENTITY other.languages "Ми показуємо лише провайдерів, що надають послуги у вашому регіоні. Клацніть тут, щоб показати усіх провайдерів.">
 <!ENTITY error.line1 "Шкода, але ми не знайшли ніяких припущень щодо адреси ел.пошти.">
-<!ENTITY error.line2 "Ви можете спробувати дати запит по прізвиську чи іншому слову, щоб знайти інші адреси">
+<!ENTITY error.line2 "Ви можете спробувати шукати за псевдонімом або іншим словом, щоб знайти інші адреси.">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into

@@ -21,12 +21,34 @@ account-provisioner-domain-input =
     .placeholder = Ваше ім’я, псевдонім або інший пошуковий термін
 account-provisioner-search-button = Пошук
 account-provisioner-button-cancel = Скасувати
+account-provisioner-button-existing = Скористатись наявним обліковим записом електронної пошти
+account-provisioner-button-back = Назад
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Завантаження постачальників…
+account-provisioner-connection-issues = Не вдалося зв'язатися з нашим сервером входу. Будь ласка, перевірте своє з'єднання.
+account-provisioner-searching-email = Пошук доступних облікових записів електронної пошти…
+account-provisioner-searching-domain = Пошук доступних доменів…
+account-provisioner-searching-error = Не вдалося знайти адреси, які можна запропонувати. Спробуйте змінити пошукові терміни.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Виберіть обліковий запис для створення
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Знайдено одну доступну адресу для:
+        [few] Знайдено { $count } доступні адреси для:
+       *[many] Знайдено { $count } доступних адрес для:
+    }
+account-provisioner-mail-results-caption = Ви можете спробувати шукати за псевдонімом або іншим словом, щоб знайти інші адреси.
+account-provisioner-domain-results-caption = Ви можете спробувати шукати за псевдонімом або іншим словом, щоб знайти інші домени.
+account-provisioner-free-account = Безплатно
+account-provision-price-per-year = { $price } на рік
+account-provisioner-all-results-button = Показати всі результати
