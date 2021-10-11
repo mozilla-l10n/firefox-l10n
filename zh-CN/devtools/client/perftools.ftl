@@ -35,9 +35,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 缓冲区大小：
-
 perftools-custom-threads-label = 按名称添加自定义线程：
-
 perftools-devtools-interval-label = 间隔：
 perftools-devtools-threads-label = 线程：
 perftools-devtools-settings-label = 设置
@@ -90,14 +88,12 @@ perftools-thread-img-decoder =
     .title = 图像解码线程
 perftools-thread-dns-resolver =
     .title = DNS 解析会发生在此线程
-
 perftools-thread-task-controller =
     .title = TaskController 线程池中的线程
 
 ##
 
 perftools-record-all-registered-threads = 忽略上面选择的项目，记录所有注册的线程
-
 perftools-tools-threads-input-label =
     .title = 下方列表是要在分析器中测量性能的线程名称（以逗号分隔）。名称须与要测量的线程的名称部分匹配，且对空格敏感。
 
@@ -106,9 +102,20 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name }现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = （在短时间内，您仍可以通过<a>{ options-context-advanced-settings }</a>访问旧的“性能”面板）
-
 perftools-onboarding-close-button =
     .aria-label = 关闭导览消息
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Web 开发者
+perftools-presets-media-label = 媒体
+
+##
+
