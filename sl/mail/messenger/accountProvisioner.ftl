@@ -9,6 +9,10 @@ account-provisioner-mail-account-title = Kupite nov e-poštni naslov
 
 ## Forms
 
+account-provisioner-search-button = Išči
+account-provisioner-button-cancel = Prekliči
+account-provisioner-button-existing = Uporabi obstoječ e-poštni račun
+account-provisioner-button-back = Nazaj
 
 ## Notifications
 
