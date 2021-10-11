@@ -115,6 +115,9 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = 效能檢測器
+    .tooltiptext = 紀錄效能檢測檔
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -123,10 +126,15 @@ profiler-popup-description-title =
     .value = 紀錄、分析、分享
 profiler-popup-description = 與您的團隊分享效能測量資訊，一同解決效能問題。
 profiler-popup-learn-more = 了解更多
+profiler-popup-learn-more-button =
+    .label = 了解更多
 profiler-popup-settings =
     .value = 設定
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 編輯設定值…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = 編輯設定值…
 profiler-popup-disabled = Profiler 目前已停用，可能是因為開啟了隱私瀏覽視窗。
 profiler-popup-recording-screen = 記錄中…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
@@ -149,6 +157,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
