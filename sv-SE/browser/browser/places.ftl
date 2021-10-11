@@ -108,6 +108,9 @@ places-remove-bookmark =
            *[other] Ta bort bokmärken
         }
     .accesskey = T
+places-show-in-folder =
+    .label = Visa i mapp
+    .accesskey = m
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
