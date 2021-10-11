@@ -126,10 +126,15 @@ profiler-popup-description-title =
     .value = บันทึก วิเคราะห์ แบ่งปัน
 profiler-popup-description = ทำงานร่วมกันในปัญหาด้านประสิทธิภาพโดยการเผยแพร่โปรไฟล์เพื่อแบ่งปันกับทีมของคุณ
 profiler-popup-learn-more = เรียนรู้เพิ่มเติม
+profiler-popup-learn-more-button =
+    .label = เรียนรู้เพิ่มเติม
 profiler-popup-settings =
     .value = การตั้งค่า
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = แก้ไขการตั้งค่า
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = แก้ไขการตั้งค่า
 profiler-popup-disabled = ขณะนี้ตัวสร้างโปรไฟล์ถูกปิดใช้งาน ซึ่งส่วนใหญ่เกิดจากหน้าต่างการเรียกดูแบบส่วนตัวกำลังถูกเปิด
 profiler-popup-recording-screen = กำลังบันทึก…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
