@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Angre
 customize-mode-lwthemes-my-themes =
     .value = Mine tema
+customize-mode-lwthemes-link = Handter tema
 customize-mode-touchbar-cmd =
     .label = Tilpass Touch Bar…
 customize-mode-downloads-button-autohide =
