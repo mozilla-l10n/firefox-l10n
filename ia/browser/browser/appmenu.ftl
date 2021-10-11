@@ -126,6 +126,8 @@ profiler-popup-description-title =
     .value = Registrar, analysar, compartir
 profiler-popup-description = Collabora sur problemas de prestationes publicante profilos a compartir con tu equipa.
 profiler-popup-learn-more = Saper plus
+profiler-popup-learn-more-button =
+    .label = Saper plus
 profiler-popup-settings =
     .value = Parametros
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
