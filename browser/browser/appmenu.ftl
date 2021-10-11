@@ -121,6 +121,9 @@ profiler-popup-button-idle =
 profiler-popup-button-recording =
     .label = יוצר הפרופילים
     .tooltiptext = יוצר הפרופילים מקליט כעת פרופיל
+profiler-popup-button-capturing =
+    .label = יוצר הפרופילים
+    .tooltiptext = יוצר הפרופילים לוכד כעת פרופיל
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +171,14 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Web Developer
+profiler-popup-presets-firefox-platform-description = ערכה מומלצת לניפוי שגיאות בפלטפורמה הפנימית של Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox Platform
+profiler-popup-presets-firefox-front-end-description = ערכה מומלצת לניפוי שגיאות בממשק הקצה הקדמי הפנימי של Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox Front-End
 
 ## History panel
 
