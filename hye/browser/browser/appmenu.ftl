@@ -83,10 +83,15 @@ profiler-popup-description-title =
     .value = Ձայնագրել, վերլուծել, կիսուել
 profiler-popup-description = Համագործակցէք կատարողականութեան բարձրացման շուրջ՝ հասանելի դարձնելով հաշիւները եւ կիսուելով ձեր խմբի հետ։
 profiler-popup-learn-more = Իմանալ աւելին
+profiler-popup-learn-more-button =
+    .label = Իմանալ աւելին
 profiler-popup-settings =
     .value = Կարգաւորումներ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Խմբագրել կարգաւորումները…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Խմբագրել կարգաւորումները…
 profiler-popup-disabled =
     Յատկագրողն անջատուած է, քանի որ, հաւանաբար, բացուած է 
     Գաղտնի դիտարկման պատուհան։
