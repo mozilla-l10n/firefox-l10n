@@ -184,6 +184,13 @@ profiler-popup-presets-firefox-front-end-description = Ajánlott előbeállítá
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox kezelőfelület
 profiler-popup-presets-firefox-graphics-description = Ajánlott előbeállítás a Firefox grafikus teljesítményének vizsgálatához.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox grafika
+profiler-popup-presets-media-description = Ajánlott előbeállítás a hang- és videóproblémák diagnosztizálásához.
+profiler-popup-presets-media-label =
+    .label = Média
+profiler-popup-presets-custom-label =
+    .label = Egyéni
 
 ## History panel
 
