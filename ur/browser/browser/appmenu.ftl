@@ -114,10 +114,15 @@ profiler-popup-reveal-description-button =
 profiler-popup-description-title =
     .value = ریکارڈ کریں ، تجزیہ کریں ، شیر کریں
 profiler-popup-learn-more = مزیدجانیے
+profiler-popup-learn-more-button =
+    .label = مزیدجانیے
 profiler-popup-settings =
     .value = سیٹنگز
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = سیٹنگز میں تدوین کریں…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = سیٹنگز میں تدوین کریں…
 profiler-popup-recording-screen = ریکارڈنگ ہو رہا…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
