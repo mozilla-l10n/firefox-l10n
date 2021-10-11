@@ -108,6 +108,9 @@ places-remove-bookmark =
            *[other] Remover marcapaginas
         }
     .accesskey = e
+places-show-in-folder =
+    .label = Monstrar in plica
+    .accesskey = p
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =

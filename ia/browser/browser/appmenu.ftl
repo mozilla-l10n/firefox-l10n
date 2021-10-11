@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilage
     .tooltiptext = Registrar un analyse de rendimento
+profiler-popup-button-recording =
+    .label = Profilator
+    .tooltiptext = Le profilator registra un profilo
+profiler-popup-button-capturing =
+    .label = Profilator
+    .tooltiptext = Le profilator captura un profilo
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -166,6 +172,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-firefox-graphics-label =
+    .label = Graphica de Firefox
+profiler-popup-presets-media-label =
+    .label = Medios
+profiler-popup-presets-custom-label =
+    .label = Personalisate
 
 ## History panel
 
