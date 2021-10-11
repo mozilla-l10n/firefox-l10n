@@ -110,6 +110,9 @@ places-remove-bookmark =
            *[other] Könyvjelzők eltávolítása
         }
     .accesskey = t
+places-show-in-folder =
+    .label = Megjelenítés mappában
+    .accesskey = M
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =

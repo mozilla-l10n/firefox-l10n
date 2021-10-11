@@ -17,3 +17,12 @@ prompt-to-install-no-button = Ne telepítse
 
 install-failed-title = A { -brand-short-name } telepítése sikertelen.
 install-failed-message = A { -brand-short-name } telepítése sikertelen, de továbbra is futni fog.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Megnyitja a meglévő { -brand-short-name } alkalmazást?
+prompt-to-launch-existing-app-message = Már telepítette a { -brand-short-name }ot. Használja a telepített alkalmazást, hogy naprakész maradjon és megakadályozza az adatvesztést.
+prompt-to-launch-existing-app-yes-button = Meglévő megnyitása
+prompt-to-launch-existing-app-no-button = Köszönöm, nem
