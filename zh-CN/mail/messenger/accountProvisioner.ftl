@@ -12,9 +12,14 @@ account-provisioner-button-cancel = 取消
 
 ## Notifications
 
+account-provisioner-searching-email = 正在搜索可用的邮箱账户…
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = 选择要创建的账户
 
 ## Search results
 
+account-provisioner-free-account = 免费
+account-provision-price-per-year = 每年 { $price }
