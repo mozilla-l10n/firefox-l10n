@@ -89,13 +89,21 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = प्रोफाइलर
+    .tooltiptext = एक प्रदर्शन प्रोफ़ाइल रिकॉर्ड करें
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-learn-more = अधिक जानें
+profiler-popup-learn-more-button =
+    .label = अधिक जानें
 profiler-popup-settings =
     .value = सेटिंग
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = सेटिंग संपादित करें…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = सेटिंग संपादित करें…
 profiler-popup-recording-screen = रिकॉर्डिंग…
 profiler-popup-start-recording-button =
     .label = रिकॉर्डिंग शुरू करें
@@ -109,6 +117,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
