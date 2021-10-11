@@ -123,10 +123,15 @@ profiler-popup-description-title =
     .value = Сабт кунед, таҳлил кунед, мубодила намоед
 profiler-popup-description = Бо интишори профилҳо барои мубодила бо дастаи худ, дар масъалаҳои самаранокӣ якҷоя кор кунед.
 profiler-popup-learn-more = Маълумоти бештар
+profiler-popup-learn-more-button =
+    .label = Маълумоти бештар
 profiler-popup-settings =
     .value = Танзимот
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Таҳрир кардани танзимот…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Таҳрир кардани танзимот…
 profiler-popup-disabled =
     Эҳтимол, ба сабаби кушода будани равзанаи тамошокунии махфӣ,
     айни замон профилкунанда ғайрифаъол аст.
@@ -151,6 +156,15 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
