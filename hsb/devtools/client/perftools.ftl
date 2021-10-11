@@ -41,9 +41,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Wulkosć pufrowaka:
-
 perftools-custom-threads-label = Přidajće swójske nitki po mjenje:
-
 perftools-devtools-interval-label = Interwal:
 perftools-devtools-threads-label = Nitki:
 perftools-devtools-settings-label = Nastajenja
@@ -96,14 +94,12 @@ perftools-thread-img-decoder =
     .title = Nitki dekodowanja wobrazow
 perftools-thread-dns-resolver =
     .title = Na tutej nitce so DNS-rozeznaće stawa
-
 perftools-thread-task-controller =
     .title = Nitki nitkoweho poola TaskController
 
 ##
 
 perftools-record-all-registered-threads = Wuběry horjeka wobeńć a wšě zregistrowane nitki natočić
-
 perftools-tools-threads-input-label =
     .title = Tute nitkowe mjena su přez komu dźělena lisćina, kotraž so wužiwa, zo by přepytowanje nitkow w profilowaku zmóžnił. Mjeno trjeba so jenož zdźěla z mjenom nitki kryć, kotrež so ma zapřijeć. Na mjezery so dźiwa.
 
@@ -112,9 +108,24 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } je nětko we wuwiwarskich nastrojach integrowany. <a>Dalše informacije</a> wo tutym mócnym nowym nastroju.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Za wobmjezowany čas móžeće přez <a>{ options-context-advanced-settings }</a> přistup k woknu Wukon měć.
-
 perftools-onboarding-close-button =
     .aria-label = Zapokazowansku powěsć začinić
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Webwuwiwar
+perftools-presets-firefox-platform-label = Platforma Firefox
+perftools-presets-firefox-front-end-label = Frontend Firefox
+perftools-presets-firefox-graphics-label = Grafika Firefox
+perftools-presets-media-label = Medije
+perftools-presets-custom-label = Swójski
+
+##
+

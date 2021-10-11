@@ -116,6 +116,9 @@ places-remove-bookmark =
            *[other] Zapołožki wotstronić
         }
     .accesskey = s
+places-show-in-folder =
+    .label = W rjadowaku pokazać
+    .accesskey = r
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
