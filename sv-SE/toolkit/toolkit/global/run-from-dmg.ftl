@@ -17,3 +17,10 @@ prompt-to-install-no-button = Installera inte
 
 install-failed-title = installationen av { -brand-short-name } misslyckades.
 install-failed-message = Installationen misslyckades men { -brand-short-name } fortsätter att fungera.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-yes-button = Öppna befintlig
+prompt-to-launch-existing-app-no-button = Nej, tack
