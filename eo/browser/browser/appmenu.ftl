@@ -124,10 +124,15 @@ profiler-popup-description-title =
     .value = Registri, analizi, dividi
 profiler-popup-description = Kunlaboru pri efikecaj problemoj per publikigo de profiloj dividotaj kun via teamo.
 profiler-popup-learn-more = Pli da informo
+profiler-popup-learn-more-button =
+    .label = Pli da informo
 profiler-popup-settings =
     .value = Agordoj
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifi agordojn…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Modifi agordojn…
 profiler-popup-disabled = La rulanalizilo estas nuntempe malaktiva, tre verŝajne pro tio ke fenestro de privata retumo estas malfermita.
 profiler-popup-recording-screen = Registrado…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
