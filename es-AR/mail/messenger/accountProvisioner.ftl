@@ -27,3 +27,12 @@ account-provisioner-searching-domain = Buscando dominios disponibles…
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Una dirección disponible encontrada para:
+       *[other] { $count } direcciones disponibles encontradas para:
+    }
+account-provisioner-free-account = Gratis
+account-provision-price-per-year = { $price } al año

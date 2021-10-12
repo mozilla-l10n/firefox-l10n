@@ -9,7 +9,6 @@ unread-messages-os-tooltip =
         [one] 1 mensaje no leído
        *[other] { $count } mensajes no leídos
     }
-
 about-rights-notification-text = { -brand-short-name } es un software gratuito y de código abierto, creado por una comunidad de miles de personas de todo el mundo.
 
 ## Content tabs
@@ -26,11 +25,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Complementos y temas
     .tooltiptext = Administrar los complementos
-
 quick-filter-toolbarbutton =
     .label = Filtro rápido
     .tooltiptext = Filtrar mensajes
-
 redirect-msg-button =
     .label = Redirigir
     .tooltiptext = Redirigir el mensaje seleccionado
@@ -40,10 +37,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Barra de herramientas del panel de carpetas
     .accesskey = F
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Opciones del panel de carpetas
-
 folder-pane-header-label = Carpetas
 
 ## Folder Toolbar Header Popup
@@ -51,27 +46,21 @@ folder-pane-header-label = Carpetas
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ocultar la barra de herramientas
     .accesskey = H
-
 show-all-folders-label =
     .label = Todas las carpetas
     .accesskey = A
-
 show-unread-folders-label =
     .label = Carpetas no leídas
     .accesskey = n
-
 show-favorite-folders-label =
     .label = Carpetas favoritas
     .accesskey = F
-
 show-smart-folders-label =
     .label = Carpetas unificadas
     .accesskey = U
-
 show-recent-folders-label =
     .label = Carpetas recientes
     .accesskey = R
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Vista compacta
     .accesskey = C
@@ -81,26 +70,26 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Redirigir
     .accesskey = D
+menu-file-save-as-file =
+    .label = Archivo…
+    .accesskey = A
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Archivo…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferencias
-
 appmenu-addons-and-themes =
     .label = Complementos y temas
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Resolución de problemas…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Deshabilitar resolución de problemas
-
 appmenu-help-more-troubleshooting-info =
     .label = Más información sobre resolución de problemas
-
 appmenu-redirect-msg =
     .label = Redirigir
 
@@ -127,7 +116,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = La dirección está en la libreta de direcciones
-
 message-header-address-not-in-address-book-icon =
     .alt = La dirección no está en la libreta de direcciones
 
@@ -138,11 +126,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = ¿Eliminar { $name }?
 addon-removal-confirmation-button = Eliminar
 addon-removal-confirmation-message = ¿Eliminar { $name }, así como su configuración y datos de { -brand-short-name }?
-
 caret-browsing-prompt-title = Navegación con cursor
 caret-browsing-prompt-text = Presionando F7 se habilita o deshabilita la navegación con cursor. Esta característica coloca un cursor móvil en algún contenido, permitiendo seleccionar texto con el teclado. ¿Desea habilitar la navegación con cursor?
 caret-browsing-prompt-check-text = No preguntar de nuevo.
-
 repair-text-encoding-button =
     .label = Reparar codificación de texto
     .tooltiptext = Adivinar la codificación correcta del texto desde el mensaje
