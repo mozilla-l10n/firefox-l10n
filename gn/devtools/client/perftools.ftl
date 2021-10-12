@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Búfer tuichakue:
-
 perftools-custom-threads-label = Embojuaju inimbo momba’epyre héra rupi:
-
 perftools-devtools-interval-label = Mbojopyru:
 perftools-devtools-threads-label = Inimbo:
 perftools-devtools-settings-label = Ñemboheko
@@ -103,7 +101,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Eñomi umi poravopyre yvategua ha eñongatu inimbo jehaipyre
-
 perftools-tools-threads-input-label =
     .title = Ko’ã hilo ha’e tysýi ipa’ũva kyguái rupive ha ojepurúva oñemyandy hag̃ua mba’ete ñemoheñói mbohapehápe. Pe téra ojokupytyva’erã michĩmínte hilo réra emoingévape. Oñandukuaa umi pa’ũ inandíva.
 
@@ -112,9 +109,24 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Ipyahu</b>: { -profiler-brand-name } ko’ág̃a oĩ juajúpe mboguatahára rembipuru ndive. <a>Eikuaave</a> ko tembipuru guasu rehegua.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Ndahetái aravo’ípe, ikatu eike tembiapokue ra’ãngarupa ypyguápe <a>{ options-context-advanced-settings } rupive</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Emboty pe ñe’ẽmondo jeikegua
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Ñanduti Mboguatahára
+perftools-presets-firefox-platform-label = Firefox Pyendavusu
+perftools-presets-firefox-front-end-label = Firefox Rechaha
+perftools-presets-firefox-graphics-label = Firefox ra’ãngaryrugua
+perftools-presets-media-label = Momaranduha
+perftools-presets-custom-label = Mboavapyre
+
+##
+

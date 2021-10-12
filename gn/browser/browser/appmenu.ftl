@@ -174,6 +174,18 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Ñanduti Mboguatahára
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox Pyendavusu
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox Rechaha
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox ra’ãngaryrugua
+profiler-popup-presets-media-label =
+    .label = Momaranduha
+profiler-popup-presets-custom-label =
+    .label = Mboavapyre
 
 ## History panel
 

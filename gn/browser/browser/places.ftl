@@ -110,6 +110,9 @@ places-remove-bookmark =
            *[other] Emboguete techaukahakuéra
         }
     .accesskey = e
+places-show-in-folder =
+    .label = Ehechauka marandurendápe
+    .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
