@@ -22,5 +22,6 @@ install-failed-message = { -brand-short-name } ndaikatúi emohenda hákatu omba�
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = ¿Embojuruja { -brand-short-name } rembipuru’i oĩvavoi?
 prompt-to-launch-existing-app-yes-button = Embojuruja oĩvavoi
 prompt-to-launch-existing-app-no-button = Nahániri aguyje
