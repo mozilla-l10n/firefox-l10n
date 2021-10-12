@@ -110,6 +110,9 @@ places-remove-bookmark =
            *[other] Bladwijzers verwijderen
         }
     .accesskey = v
+places-show-in-folder =
+    .label = In map tonen
+    .accesskey = m
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =

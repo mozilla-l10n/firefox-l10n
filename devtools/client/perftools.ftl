@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffergrootte:
-
 perftools-custom-threads-label = Aangepaste threads op naam toevoegen:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Instellingen
@@ -97,14 +95,12 @@ perftools-thread-img-decoder =
     .title = Afbeeldingsontsleutelingsthreads
 perftools-thread-dns-resolver =
     .title = Op deze thread vindt DNS-omzetting plaats
-
 perftools-thread-task-controller =
     .title = TaskController-threadpoolthreads
 
 ##
 
 perftools-record-all-registered-threads = Bovenstaande selectie omzeilen en alle geregistreerde threads opnemen
-
 perftools-tools-threads-input-label =
     .title = Deze threadnamen zijn een kommagescheiden lijst, die wordt gebruikt om het profileren van de threads in de profiler mogelijk te maken. De naam hoeft maar deels overeen te komen met de threadnaam om opgenomen te worden. Gevoelig voor witruimte.
 
@@ -113,9 +109,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nieuw</b>: { -profiler-brand-name } is nu geïntegreerd in de Ontwikkelaarshulpmiddelen. <a>Meer info</a> over dit krachtige nieuwe hulpmiddel.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (U kunt tijdelijk het oorspronkelijke paneel Prestaties benaderen via <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Het welkomstbericht sluiten
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Webontwikkelaar
+perftools-presets-web-developer-description = Aanbevolen voorinstelling voor de meeste foutopsporing in web-apps, met lage overhead.
+perftools-presets-firefox-platform-label = Firefox-platform
+perftools-presets-firefox-platform-description = Aanbevolen voorinstelling voor interne foutopsporing in het Firefox-platform.
+perftools-presets-firefox-front-end-label = Firefox-front-end
+perftools-presets-firefox-front-end-description = Aanbevolen voorinstelling voor interne foutopsporing in het front-end van Firefox.
+perftools-presets-firefox-graphics-label = Firefox-grafisch
+perftools-presets-firefox-graphics-description = Aanbevolen voorinstelling voor onderzoek naar grafische prestaties van Firefox.
+perftools-presets-media-label = Media
+perftools-presets-media-description = Aanbevolen voorinstelling voor het analyseren van audio- en videoproblemen.
+perftools-presets-custom-label = Aangepast
+
+##
+

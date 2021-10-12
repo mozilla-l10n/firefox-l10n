@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Neem een prestatieprofiel op
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = De profiler neemt een profiel op
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = De profiler neemt een profiel op
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Aanbevolen voorinstelling voor de meeste foutopsporing in web-apps, met lage overhead.
+profiler-popup-presets-web-developer-label =
+    .label = Webontwikkelaar
+profiler-popup-presets-firefox-platform-description = Aanbevolen voorinstelling voor interne foutopsporing in het Firefox-platform.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox-platform
+profiler-popup-presets-firefox-front-end-description = Aanbevolen voorinstelling voor interne foutopsporing in het front-end van Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox-front-end
+profiler-popup-presets-firefox-graphics-description = Aanbevolen voorinstelling voor onderzoek naar grafische prestaties van Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox-grafisch
+profiler-popup-presets-media-description = Aanbevolen voorinstelling voor het analyseren van audio- en videoproblemen.
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-custom-label =
+    .label = Aangepast
 
 ## History panel
 

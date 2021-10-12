@@ -21,6 +21,19 @@ about-unloads-intro-2 =
     en in <em>cursief</em> wanneer het proces wordt gedeeld tussen verschillende
     tabbladen. U kunt het lossen van tabbladen handmatig activeren door hieronder op de knop
     <em>Lossen</em> te klikken.
+about-unloads-intro =
+    { -brand-short-name } heeft een functie die automatisch tabbladen lost
+    om te voorkomen dat de toepassing crasht vanwege onvoldoende geheugen
+    wanneer het beschikbare systeemgeheugen laag is. Het volgende tabblad dat moet wordt gelost wordt
+    gekozen op basis van meerdere eigenschappen. Deze pagina laat zien hoe
+    { -brand-short-name } prioriteit geeft aan tabbladen en welk tabblad wordt gelost
+    wanneer het lossen van tabbladen wordt geactiveerd. U kunt handmatig het lossen van tabbladen
+    activeren door hieronder op de knop <em>Lossen</em> te klikken.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Zie <a data-l10n-name="doc-link">Tabbladen lossen</a> voor meer info over
+    de functie en deze pagina.
 about-unloads-last-updated = Laatst bijgewerkt: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Lossen
     .title = Tabblad met de hoogste prioriteit lossen
