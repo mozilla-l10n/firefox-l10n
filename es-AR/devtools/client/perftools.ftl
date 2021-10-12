@@ -125,6 +125,7 @@ perftools-presets-web-developer-label = Desarrollador web
 perftools-presets-firefox-platform-label = Plataforma Firefox
 perftools-presets-firefox-platform-description = Configuración predeterminada recomendada para la depuración interna de la plataforma Firefox.
 perftools-presets-media-label = Medios
+perftools-presets-media-description = Configuración predeterminada para diagnosticar problemas de audio y video.
 perftools-presets-custom-label = Personalizado
 
 ##
