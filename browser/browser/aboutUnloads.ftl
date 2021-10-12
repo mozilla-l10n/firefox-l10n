@@ -12,6 +12,10 @@ about-unloads-intro-2 =
     Las pestañas existentes se muestran en la tabla a continuación, en el mismo orden que usa  { -brand-short-name } para elegir la siguiente pestaña a liberar. Los IDs de proceso
     se muestran en <strong>negrita</strong> cuando alojan la parte superior del marco de la pestaña, y en <em>cursiva</em> cuando el proceso se comparte entre diferentes
     pestañas. Puede activar la liberación de pestañas manualmente haciendo clic en el botón <em>Liberar</em> a continuación.
+about-unloads-intro = { -brand-short-name } tiene una funcionalidad que libera automáticamente las pestañas para evitar que la aplicación se bloquee por falta de memoria cuando la memoria disponible del sistema sea poca. La siguiente pestaña a liberar es elegida en función de múltiples atributos. Esta página muestra cómo { -brand-short-name } prioriza las pestañas y qué pestaña será liberada cuando se active la liberación de pestañas. Puedes gatillar la liberación de pestañas de forma manual haciendo clic en el botón <em>Liberar</em> a continuación.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Revisa <a data-l10n-name="doc-link">Liberación de pestañas</a> para aprender más acerca de la funcionalidad y esta página.
 about-unloads-last-updated = Última actualización: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Liberar
     .title = Liberar pestaña con la prioridad más alta
