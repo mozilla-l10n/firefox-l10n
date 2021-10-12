@@ -63,6 +63,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "מחיקה מלוח השנה">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "פרטים…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "הצגת פרטי האירוע">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "לא להציג לי הודעות אלו">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "לוח שנה">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "מעבר ללשונית לוח השנה">
 <!ENTITY lightning.imipbar.btnMore.label                                    "עוד">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "יש ללחוץ כדי להציג אפשרויות נוספות">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "אישור מחדש">
@@ -71,8 +74,16 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "תזמון מחדש של האירוע">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "שמירת עותק">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "שמירת עותק של האירוע ללוח שנה בנפרד מהתגובה למארגן. רשימת המשתתפים תימחק.">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "עדכון">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "עדכון אירוע בלוח השנה">
 <!ENTITY lightning.imipbar.description                                      "הודעה זו כוללת הזמנה לאירוע.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "שליחת תגובה כעת">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "שליחת תגובה למארגן/נת">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "שליחת תגובה על כל הסדרה למארגן/נת">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "לא לשלוח תגובה">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "שינוי מצב ההשתתפות שלך מבלי לשלוח תגובה למארגן/נת">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "שינוי מצב ההשתתפות שלך בסדרה מבלי לשלוח תגובה למארגן/נת">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
