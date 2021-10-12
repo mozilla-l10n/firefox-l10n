@@ -21,6 +21,11 @@ about-unloads-intro-2 =
     tendayke rehegua ha <em>tai’yke</em>-pe tapereko oñemoherakuãrõ heta tendayke
     pa’ũme. Emyandykuaa tendayke mboguejyha nde poite rupi eikutúvo votõ <em>Mboguejy</em>
     ko’ápe yvy gotyo.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Ehecha <a data-l10n-name="doc-link">Emboguejy tendayke</a> eikuaave hag̃ua
+    tembiapoite ha kuatiarogue rehegua.
 about-unloads-last-updated = Mbohekopyahu ramovegua: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Mboguejy
     .title = Emboguejy tendayke pya’eterei
