@@ -17,3 +17,10 @@ prompt-to-install-no-button = Ani emohenda
 
 install-failed-title = { -brand-short-name } ojavy ñemohenda.
 install-failed-message = { -brand-short-name } ndaikatúi emohenda hákatu omba’apóta gueteri.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-yes-button = Embojuruja oĩvavoi
+prompt-to-launch-existing-app-no-button = Nahániri aguyje
