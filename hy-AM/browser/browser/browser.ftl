@@ -189,6 +189,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Ավելացնել “{ $engineName }”-ը
+    .tooltiptext = Ավելանցնել “{ $engineName }” որոնիչը
+    .aria-label = Ավելանցնել “{ $engineName }” որոնիչը
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -349,6 +357,14 @@ enable-devtools-popup-description = F12 դյուրանցումը օգտագոր�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Որոնել համացանցում
+    .aria-label = Որոնել { $name }-ով
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -383,6 +399,8 @@ urlbar-result-action-search-in-private = Դուք գաղտնի դիտարկմա�
 urlbar-result-action-search-w-engine = Որոնել { $engine }-ով
 urlbar-result-action-switch-tab = Փոխանջատել ներդիրը
 urlbar-result-action-visit = Այցելել
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Պատճենել
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
