@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] Xóa các dấu trang
         }
     .accesskey = e
+places-show-in-folder =
+    .label = Hiển thị trong thư mục
+    .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
