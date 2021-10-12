@@ -116,7 +116,7 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = Profilage
+    .label = Profilator
     .tooltiptext = Registrar un analyse de rendimento
 profiler-popup-button-recording =
     .label = Profilator
