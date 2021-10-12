@@ -114,6 +114,13 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Registra un profilo delle prestazioni
+profiler-popup-button-recording =
+  .label = Profiler
+  .tooltiptext = Registrazione del profilo in corso…
+
+profiler-popup-button-capturing =
+  .label = Profiler
+  .tooltiptext = Cattura del profilo in corso…
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
