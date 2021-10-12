@@ -132,3 +132,5 @@ about-addressbook-details-phone-numbers-header = Telefoannûmers
 about-addressbook-details-home-address-header = Adres
 about-addressbook-details-work-address-header = Wurkadres
 about-addressbook-details-other-info-header = Oare ynformaasje
+about-addressbook-prompt-to-save-title = Wizigingen bewarje?
+about-addressbook-prompt-to-save = Wolle jo jo wizigingen bewarje?
