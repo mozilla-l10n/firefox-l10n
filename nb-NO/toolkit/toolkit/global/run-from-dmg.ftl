@@ -17,3 +17,12 @@ prompt-to-install-no-button = Ikke installer
 
 install-failed-title = { -brand-short-name } installasjonen mislyktes.
 install-failed-message = { -brand-short-name } kunne ikke installeres, men vil fortsette å kjøre.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Åpne eksisterende { -brand-short-name }-program?
+prompt-to-launch-existing-app-message = Du har allerede { -brand-short-name } installert. Bruk det installerte programmet for å holde deg oppdatert og for å forhindre tap av data.
+prompt-to-launch-existing-app-yes-button = Åpne eksisterende
+prompt-to-launch-existing-app-no-button = Nei takk
