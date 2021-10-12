@@ -365,6 +365,14 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Որոնել համացանցում
     .aria-label = Որոնել { $name }-ով
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Մուտքագրել որոնվող բառը
+    .aria-label = Որոնել { $name }-ը
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
