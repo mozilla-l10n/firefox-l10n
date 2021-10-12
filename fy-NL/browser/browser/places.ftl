@@ -110,6 +110,9 @@ places-remove-bookmark =
            *[other] Blêdwizers fuortsmite
         }
     .accesskey = f
+places-show-in-folder =
+    .label = Yn map toane
+    .accesskey = m
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =

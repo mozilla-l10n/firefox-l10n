@@ -21,6 +21,19 @@ about-unloads-intro-2 =
     en yn <em>kursyf</em> wannear't it proses dield wurdt tusken ferskillende
     ljepblêden. Jo kinne it ûntladen fan ljepblêden hânmjittich aktivearje troch hjirûnder op de knop
     <em>Untlade</em> te klikken.
+about-unloads-intro =
+    { -brand-short-name } hat in funksje dy't automatysk ljepblêden ûntlaadt
+    om foar te kommen dat de tapassing ferûngelokket fanwegen net genôch ûnthâld
+    wannear't it beskikbere systeemûnthâld leech is. It folgjende ljepblêd dat ûntladen wurde moat wurdt
+    keazen op basis fan meardere eigenskippen. Dizze side lit sjen hoe
+    { -brand-short-name } prioriteit jout oan ljepblêden en hokker ljepblêd ûntladen wurdt
+    wannear it ûntladen fan ljepblêden aktivearre wurdt. Jo kinne hânmjittich it ûntladen fan ljepblêden
+    aktivearje troch hjirûnder op de knop <em>Untlade</em> te klikken.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Sjoch <a data-l10n-name="doc-link">Ljepblêden ûntlade</a> foar mear ynfo oer
+    de funksje en dizze side.
 about-unloads-last-updated = Lêst bywurke: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Untlade
     .title = Ljepblêd mei de heechste prioriteit ûntlade

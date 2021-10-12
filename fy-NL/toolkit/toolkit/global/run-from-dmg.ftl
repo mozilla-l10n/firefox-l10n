@@ -17,3 +17,12 @@ prompt-to-install-no-button = Net ynstallearje
 
 install-failed-title = { -brand-short-name }-ynstallaasje mislearre.
 install-failed-message = { -brand-short-name }-ysntallaasje is mislearre, mar sil wurkje bliuwe.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Besteande { -brand-short-name }-tapassing iepenje?
+prompt-to-launch-existing-app-message = Jo hawwe { -brand-short-name } al ynstallearre. Brûk de ynstallearre tapassing om by te bliuwen en gegevensferlies foar te kommen.
+prompt-to-launch-existing-app-yes-button = Besteande iepenje
+prompt-to-launch-existing-app-no-button = Nee, tankewol
