@@ -69,7 +69,7 @@ upgrade-dialog-theme-system = Thema del systema
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Vita in colores
-upgrade-dialog-start-subtitle = Nove vibrante combinationes de colores. Disponibile pro tempore limitate.
+upgrade-dialog-start-subtitle = Nove tonalitates vibrante. Disponibile pro tempore limitate.
 upgrade-dialog-start-primary-button = Discoperir combinationes de colores
 upgrade-dialog-start-secondary-button = Non ora
 
@@ -112,6 +112,6 @@ upgrade-dialog-colorway-variation-bold = Forte
 ## Thank you screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-thankyou-title = Gratias pro haber nos seligite
+upgrade-dialog-thankyou-title = Gratias pro haber eligite nos
 upgrade-dialog-thankyou-subtitle = { -brand-short-name } es un navigator independente supportate per un organisation non-lucrative. Insimul, nos rende le web plus secur, plus salubre e plus private.
 upgrade-dialog-thankyou-primary-button = Comenciar a navigar

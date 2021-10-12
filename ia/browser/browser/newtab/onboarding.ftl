@@ -149,7 +149,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 mr1-onboarding-import-primary-button-label-no-attribution = Importar del previe navigator
 mr1-onboarding-import-secondary-button-label = Non ora
 mr2-onboarding-colorway-header = Vita in colores
-mr2-onboarding-colorway-subtitle = Nove vibrante combinationes de colores. Disponibile pro tempore limitate.
+mr2-onboarding-colorway-subtitle = Nove tonalitates vibrante. Disponibile pro tempore limitate.
 mr2-onboarding-colorway-primary-button-label = Salvar combination de colores
 mr2-onboarding-colorway-secondary-button-label = Non ora
 mr2-onboarding-colorway-label-soft = Legier
@@ -293,6 +293,6 @@ mr2-onboarding-default-theme-description =
 
 ## Strings for Thank You page
 
-mr2-onboarding-thank-you-header = Gratias pro haber nos seligite
+mr2-onboarding-thank-you-header = Gratias pro haber eligite nos
 mr2-onboarding-thank-you-text = { -brand-short-name } es un navigator independente supportate per un organisation non-lucrative. Insimul, nos rende le web plus secur, plus salubre e plus private.
 mr2-onboarding-start-browsing-button-label = Comenciar a navigar
