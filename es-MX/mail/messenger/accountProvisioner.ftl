@@ -16,3 +16,4 @@ account-provisioner-button-cancel = Cancelar
 
 ## Search results
 
+account-provisioner-free-account = Gratis
