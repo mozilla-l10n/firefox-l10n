@@ -3,27 +3,34 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "סרגל כלים לוח שנה">
-<!ENTITY lightning.toolbar.calendar.accesskey "ל">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "ל">
 <!ENTITY lightning.toolbar.task.name "סרגל כלים משימות">
-<!ENTITY lightning.toolbar.task.accesskey     "מ">
+<!ENTITY lightning.toolbar.task.name.accesskey "ס">
 
 <!ENTITY lightning.toolbar.sync.label "סנכרון">
+<!ENTITY lightning.toolbar.sync.tooltip "רענון היומנים וסנכרון השינויים">
 <!ENTITY lightning.toolbar.delete.label "מחיקה">
+<!ENTITY lightning.toolbar.delete.tooltip "מחיקת האירועים או המשימות הנבחרים">
 <!ENTITY lightning.toolbar.edit.label "עריכה">
+<!ENTITY lightning.toolbar.edit.tooltip "עריכת האירוע או המשימה הנבחר">
 <!ENTITY lightning.toolbar.gototoday.label "מעבר להיום">
+<!ENTITY lightning.toolbar.gototoday.tooltip "מעבר להיום">
 <!ENTITY lightning.toolbar.print.label "הדפסה">
+<!ENTITY lightning.toolbar.print.tooltip "הדפסת אירועים או משימות">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "דואר">
-<!ENTITY lightning.toolbar.mail.accesskey     "ד">
 <!ENTITY lightning.toolbar.calendar.label     "לוח שנה">
 <!ENTITY lightning.toolbar.calendar.tooltip   "מעבר ללשונית לוח השנה">
+<!ENTITY lightning.toolbar.calendar.accesskey "ל">
 <!ENTITY lightning.toolbar.task.label         "משימות">
 <!ENTITY lightning.toolbar.task.tooltip       "מעבר ללשונית משימות">
+<!ENTITY lightning.toolbar.task.accesskey     "מ">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "אירוע">
+<!ENTITY lightning.toolbar.newevent.tooltip   "יצירת אירוע חדש">
 <!ENTITY lightning.toolbar.newtask.label      "משימה">
+<!ENTITY lightning.toolbar.newtask.tooltip    "יצירת משימה חדשה">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "יומי">
@@ -34,4 +41,10 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "ר">
 <!ENTITY lightning.toolbar.month.label               "חודשי">
 <!ENTITY lightning.toolbar.month.accesskey           "ח">
-
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "הצגת התפריט של &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "חלונית לוח שנה">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "ח">
+<!ENTITY lightning.toolbar.calendarpane.label        "הצגת חלונית לוח שנה">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "ח">

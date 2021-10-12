@@ -345,6 +345,7 @@
 <!ENTITY calendarproperties.readonly.label                 "קריאה בלבד">
 <!ENTITY calendarproperties.firealarms.label               "הצגת תזכורות">
 <!ENTITY calendarproperties.cache3.label                   "תמיכה בלתי מקוונת">
+<!ENTITY calendarproperties.enabled2.label                 "הפעלת לוח שנה זה">
 <!ENTITY calendarproperties.forceDisabled.label            "לא ניתן למצוא את הספק של לוח שנה זה. תקלה זו נגרמת אם נטרלת או הסרת תוספות מסוימות.">
 <!ENTITY calendarproperties.unsubscribe.label              "ביטול רישום">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "ב">
