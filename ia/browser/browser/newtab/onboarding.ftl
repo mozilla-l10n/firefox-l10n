@@ -90,7 +90,7 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Que nos comencia ci
+mr1-welcome-screen-hero-text = Ignition, preste, partir!
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
@@ -148,7 +148,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar del previe navigator
 mr1-onboarding-import-secondary-button-label = Non ora
-mr2-onboarding-colorway-header = Vita a color
+mr2-onboarding-colorway-header = Vita in colores
 mr2-onboarding-colorway-subtitle = Nove vibrante combinationes de colores. Disponibile pro tempore limitate.
 mr2-onboarding-colorway-primary-button-label = Salvar combination de colores
 mr2-onboarding-colorway-secondary-button-label = Non ora
