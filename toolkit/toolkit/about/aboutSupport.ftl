@@ -4,7 +4,6 @@
 
 page-title = 문제 해결 정보
 page-subtitle = 이 페이지에는 문제 해결에 유용한 기술 정보가 포함되어 있습니다. { -brand-short-name }의 일반적인 질문에 대한 답변은 <a data-l10n-name="support-link">지원 웹 사이트</a>를 확인하세요.
-
 crashes-title = 충돌 보고서
 crashes-id = 보고 ID
 crashes-send-date = 전송됨
@@ -186,23 +185,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 지난 { $days }일간의 충돌 보고서
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes }분 전
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours }시간 전
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days }일 전
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = 모든 충돌 보고서 (주어진 시간 범위에 있는 { $reports }개의 보류중인 충돌 포함)
-
 raw-data-copied = 원시 데이터를 클립보드에 복사함
 text-copied = 문자열을 클립보드에 복사함
 
@@ -215,11 +209,9 @@ blocked-mismatched-version = 레지스트리와 DLL간의 그래픽 드라이버
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = 그래픽 드라이버는 그리기 지원이 차단되었습니다.  그래픽 드라이버를 버전 { $driverVersion } 이상으로 업데이트해 보세요.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 매개 변수
-
 compositing = 합성
 hardware-h264 = 하드웨어 H264 디코딩
 main-thread-no-omtc = 주 스레드, OMTC 아님
@@ -234,7 +226,6 @@ virtual-monitor-disp = 가상 모니터 디스플레이
 
 found = 찾음
 missing = 없음
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = 설명
@@ -257,32 +248,26 @@ webgl2-renderer = WebGL2 드라이버 랜더러
 webgl2-version = WebGL 2 드라이버 버전
 webgl2-driver-extensions = WebGL 2 드라이버 확장 기능
 webgl2-extensions = WebGL 2 확장 기능
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = 알려진 문제로 인해 차단됨: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = 차단됨; 실패 코드 { $failureCode }
-
 d3d11layers-crash-guard = D3D11 컴포지터
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX 비디오 디코더
-
 reset-on-next-restart = 다음에 다시 시작할 때 초기화
 gpu-process-kill-button = GPU 프로세스 종료
 gpu-device-reset = 기기 초기화
-gpu-device-reset-button = 기기 초기화 시작
+gpu-device-reset-button = 기기 초기화 실행
 uses-tiling = 타일링 사용
 content-uses-tiling = 타일링(콘텐츠) 사용
 off-main-thread-paint-enabled = 오프 메인 스레드 페인팅 활성화됨
 off-main-thread-paint-worker-count = 오프 메인 스레드 페인팅 Worker 수
 target-frame-rate = 목표 프레임 레이트
-
 min-lib-versions = 요구되는 최소 버전
 loaded-lib-versions = 사용 중인 버전
-
 has-seccomp-bpf = Seccomp-BPF (시스템 호출 필터링)
 has-seccomp-tsync = Seccomp 스레드 동기화
 has-user-namespaces = 사용자 네임스페이스
@@ -296,18 +281,15 @@ sandbox-proc-type-content = 내용
 sandbox-proc-type-file = 파일 내용
 sandbox-proc-type-media-plugin = 미디어 플러그인
 sandbox-proc-type-data-decoder = 데이터 디코더
-
 startup-cache-title = 시작 캐시
 startup-cache-disk-cache-path = 디스크 캐시 경로
 startup-cache-ignore-disk-cache = 디스크 캐시 무시
 startup-cache-found-disk-cache-on-init = 초기화시 디스크 캐시 찾음
 startup-cache-wrote-to-disk-cache = 디스크 캐시에 기록
-
 launcher-process-status-0 = 활성화됨
 launcher-process-status-1 = 실패로 비활성화됨
 launcher-process-status-2 = 강제로 비활성화됨
 launcher-process-status-unknown = 알 수 없는 상태
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -327,7 +309,6 @@ fission-status-enabled-by-user-pref = 사용자에 의해 활성화됨
 fission-status-disabled-by-user-pref = 사용자에 의해 비활성화됨
 fission-status-disabled-by-e10s-other = E10s 비활성화됨
 fission-status-enabled-by-rollout = 단계적 출시에 의해 활성화됨
-
 async-pan-zoom = 비동기 팬 및 확대/축소
 apz-none = 없음
 wheel-enabled = 휠 입력 활성화됨
@@ -364,7 +345,6 @@ support-remote-experiments-title = 원격 실험
 support-remote-experiments-name = 이름
 support-remote-experiments-branch = 실험 지점
 support-remote-experiments-see-about-studies = 개별 실험을 비활성화하거나 { -brand-short-name }가 향후 이러한 유형의 실험을 실행하지 못하도록 하는 방법을 포함한 자세한 내용은 <a data-l10n-name="support-about-studies-link">about:studies</a>를 참조하세요.
-
 support-remote-features-title = 원격 기능
 support-remote-features-name = 이름
 support-remote-features-status = 상태
