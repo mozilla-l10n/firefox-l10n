@@ -21,8 +21,8 @@ about-processes-shutdown-tab =
 about-processes-profile-process =
     .title =
         { $duration ->
-            [one] Profilar tote le argumentos de iste processo pro { $duration } secunda
-           *[other] Profilar tote le argumentos de iste processo pro { $duration } secundas
+            [one] Profilar tote le filos de iste processo durante { $duration } secunda
+           *[other] Profilar tote le filos de iste processo durante { $duration } secundas
         }
 
 ## Column headers
