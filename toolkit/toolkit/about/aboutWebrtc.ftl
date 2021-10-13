@@ -106,7 +106,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зак�
 
 about-webrtc-local-candidate = Локальний кандидат
 about-webrtc-remote-candidate = Віддалений кандидат
-about-webrtc-raw-candidates-heading = Всі необроблені кандидати
+about-webrtc-raw-candidates-heading = Усі необроблені кандидати
 about-webrtc-raw-local-candidate = Необроблений локальний кандидат
 about-webrtc-raw-remote-candidate = Необроблений віддалений кандидат
 about-webrtc-raw-cand-show-msg = показати необроблені кандидати
