@@ -183,6 +183,7 @@ profiler-popup-presets-firefox-platform-label =
 profiler-popup-presets-firefox-front-end-description = Ñemboheko iporãva emopotĩ hag̃ua Firefox jehechaha.
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox Rechaha
+profiler-popup-presets-firefox-graphics-description = Ñemboheko ypygua iporãva ehapykuereka hag̃ua Firefox ra’ãngarenda.
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox ra’ãngaryrugua
 profiler-popup-presets-media-label =
