@@ -7,10 +7,18 @@ provisioner-searching-icon =
     .alt = Buscando…
 account-provisioner-title = Crear una nueva dirección de correo electrónico
 account-provisioner-description = Usar nuestros socios de confianza para obtener una nueva dirección de correo electrónico privada y segura.
+account-provisioner-start-help = Los términos de búsqueda son enviados a { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Política de privacidad</a>) y a los proveedores de correo electrónico externos <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">Política de privacidad</a>, <a data-l10n-name="mailfence-tou-link">Términos de uso</a>) y <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Política de privacidad</a>, <a data-l10n-name="gandi-tou-link">Términos de uso</a>) para encontrar direcciones de correo electrónico disponibles.
 account-provisioner-mail-account-title = Comprar una nueva dirección de correo electrónico
+account-provisioner-mail-account-description = Thunderbird se asocia con <a data-l10n-name="mailfence-home-link">Mailfence</a> para ofrecer un nuevo correo electrónico privado y seguro. Creemos que todos deberían tener un correo electrónico seguro.
+account-provisioner-domain-title = Comprar un correo electrónico y un dominio propio
+account-provisioner-domain-description = Thunderbird se asocia con <a data-l10n-name="gandi-home-link">Gandi</a> para ofrecer un dominio personalizado. Esto permite usar cualquier dirección en ese dominio.
 
 ## Forms
 
+account-provisioner-mail-input =
+    .placeholder = Nombre, apodo u otro término de búsqueda
+account-provisioner-domain-input =
+    .placeholder = Nombre, apodo u otro término de búsqueda
 account-provisioner-search-button = Buscar
 account-provisioner-button-cancel = Cancelar
 account-provisioner-button-existing = Usar una cuenta de correo electrónico existente
