@@ -14,6 +14,15 @@ about-unloads-intro-2 =
     L’identificant de processús apareis en <strong>gras</strong> quand
     aqueste processús albèrga lo quadre superior d’un onglet e en <em>italic</em> quand
     es partejat entre mantun onglet. Podètz amodar manualament lo descargament d’onglets en clicant lo boton <em>Descargar</em> çai-jos.
+about-unloads-intro =
+    { -brand-short-name } possedís una foncionalitat que descarga automaticament d’onglets per empachar lo plantatge de l’aplicacion per manca de memòria quand la quantitat de memòria disponibla del sistèma es febla. L’onglet de descargar es causit segon mantun atribut. Aquesta pagina mòstra coma { -brand-short-name } causís la prioritat dels onglets e quin serà descargat quand lo descargament d’onglets serà amodat. Podètz aviar lo descargament manualament
+    en clicant lo boton <em>Descargar</em> çai-jos.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Consultatz <a data-l10n-name="doc-link">Descargament d’onglet</a> per ne saber
+    mai tocant
+    aquesta foncionalitat e pagina.
 about-unloads-last-updated = Darrièra actualizacion : { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Descargar
     .title = Descargar mai la prioritat mai nauta
