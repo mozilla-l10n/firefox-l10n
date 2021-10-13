@@ -55,7 +55,7 @@
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
 <!ENTITY getNewMsgForCmd.label "Отримати нові повідомлення для">
 <!ENTITY getNewMsgForCmd.accesskey "в">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "Всіх облікових записів">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Усіх облікових записів">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "В">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Поточного облікового запису">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "П">
@@ -105,7 +105,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "п">
 <!ENTITY selectMenu.label "Виділити">
 <!ENTITY selectMenu.accesskey "и">
-<!ENTITY all.label "Всі">
+<!ENTITY all.label "Усі">
 <!ENTITY all.accesskey "В">
 <!ENTITY selectThreadCmd.label "Розмову">
 <!ENTITY selectThreadCmd.accesskey "Р">
@@ -158,7 +158,7 @@
 <!ENTITY folderView.accesskey "Т">
 <!ENTITY unifiedFolders.label "Об’єднані">
 <!ENTITY unifiedFolders.accesskey "є">
-<!ENTITY allFolders.label "Всі">
+<!ENTITY allFolders.label "Усі">
 <!ENTITY allFolders.accesskey "В">
 <!ENTITY unreadFolders.label "Непрочитані">
 <!ENTITY unreadFolders.accesskey "Н">
@@ -216,7 +216,7 @@
 <!ENTITY msgsMenu.accesskey "Л">
 <!ENTITY threads.label "Розмови">
 <!ENTITY threads.accesskey "Р">
-<!ENTITY allMsgsCmd.label "Всі">
+<!ENTITY allMsgsCmd.label "Усі">
 <!ENTITY allMsgsCmd.accesskey "В">
 <!ENTITY expandAllThreadsCmd.label "Розгорнути всі розмови">
 <!ENTITY expandAllThreadsCmd.accesskey "Р">
@@ -235,7 +235,7 @@
 
 <!ENTITY headersMenu.label "Заголовки">
 <!ENTITY headersMenu.accesskey "З">
-<!ENTITY headersAllCmd.label "Всі">
+<!ENTITY headersAllCmd.label "Усі">
 <!ENTITY headersAllCmd.accesskey "В">
 <!ENTITY headersNormalCmd.label "Звичайні">
 <!ENTITY headersNormalCmd.accesskey "З">
@@ -247,7 +247,7 @@
 <!ENTITY bodySanitized.accesskey "с">
 <!ENTITY bodyAsPlaintext.label "У вигляді звичайного тексту">
 <!ENTITY bodyAsPlaintext.accesskey "т">
-<!ENTITY bodyAllParts.label "Всіх частин тіла">
+<!ENTITY bodyAllParts.label "Усіх частин тіла">
 <!ENTITY bodyAllParts.accesskey "В">
 
 <!ENTITY bodyMenuFeed.label "Повідомлення зі стрічки новин як">
@@ -420,7 +420,7 @@
 <!ENTITY markReadByDateCmd.label "Прочитаним за датою…">
 <!ENTITY markReadByDateCmd.accesskey "ч">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "Всі прочитаними">
+<!ENTITY markAllReadCmd.label "Усі прочитаними">
 <!ENTITY markAllReadCmd.accesskey "В">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Додати зірочку">

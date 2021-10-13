@@ -237,7 +237,7 @@
 <!ENTITY tableCell.accesskey "К">
 <!ENTITY tableCellContents.label "Вміст клітинки">
 <!ENTITY tableCellContents.accesskey "В">
-<!ENTITY tableAllCells.label "Всі клітинки">
+<!ENTITY tableAllCells.label "Усі комірки">
 <!ENTITY tableAllCells.accesskey "і">
 <!ENTITY tableCellBefore.label "Клітинка до">
 <!ENTITY tableCellBefore.accesskey "и">
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "Властивості таблиці…">
 <!ENTITY tableProperties.accesskey "л">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Зображення">
 <!ENTITY imageToolbarCmd.tooltip "Вставити нове зображення або змінити властивості виділеного">
 <!ENTITY hruleToolbarCmd.label "Роздільник">
