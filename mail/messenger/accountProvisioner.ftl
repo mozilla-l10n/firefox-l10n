@@ -24,9 +24,28 @@ account-provisioner-button-back = Slědk
 ## Notifications
 
 account-provisioner-fetching-provisioners = Zastarowarje se wótwołuju…
+account-provisioner-connection-issues = Njemóžno ze swójim registrěrowańskim serwerom komunicěrowaś. Pšosym pśeglědajśo swój zwisk.
+account-provisioner-searching-email = K dispoziciji stojece e-mailowe konta se pytaju…
+account-provisioner-searching-domain = K dispoziciji stojece domeny se pytaju…
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Wubjeŕśo, kótare konto ma se załožyś
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] { $count } k dispoziciji stojeca adresa namakana za:
+        [two] { $count } k dispoziciji stojecej adresy namakanej za:
+        [few] { $count } k dispoziciji stojece adrese namakane za:
+       *[other] { $count } k dispoziciji stojecych adresow namakane za:
+    }
+account-provisioner-mail-results-caption = Móžośo teke za pśimjenjami abo hynakšim wurazom pytaś, aby dalšne e-mailowe adrese namakał.
+account-provisioner-domain-results-caption = Móžośo teke za pśimjenjami abo hynakšim wurazom pytaś, aby dalšne domeny namakał.
+account-provisioner-free-account = Dermo
+account-provision-price-per-year = { $price } na lěto
+account-provisioner-all-results-button = Wšykne wuslědki pokazaś
