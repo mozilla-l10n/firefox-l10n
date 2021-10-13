@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Паролі
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Шукати паролі
-
 create-login-button = Створити новий запис
-
 fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
 fxaccounts-sign-in-sync-button = Увійти до синхронізації
 fxaccounts-avatar-button =
@@ -62,7 +57,6 @@ about-logins-list-item-breach-icon =
     .title = Зламаний вебсайт
 about-logins-list-item-vulnerable-password-icon =
     .title = Ненадійний пароль
-
 about-logins-list-section-breach = Вебсайти з витоками
 about-logins-list-section-vulnerable = Вразливі паролі
 about-logins-list-section-nothing = Без попередження
@@ -120,21 +114,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Щоб змінити за�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = редагувати збережений пароль
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Щоб переглянути пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = відобразити збережений пароль
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Щоб скопіювати пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копіювати збережений пароль
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Щоб експортувати паролі, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to export a password in about:logins
@@ -148,18 +137,14 @@ master-password-reload-button =
     .label = Увійти
     .accesskey = в
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Скасувати
 confirmation-dialog-dismiss-button =
     .title = Скасувати
-
 about-logins-confirm-remove-dialog-title = Вилучити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
 about-logins-confirm-remove-dialog-confirm-button = Вилучити
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [one] Вилучити
@@ -167,7 +152,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [many] Вилучити { $count }
        *[other] Вилучити все
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Так, вилучити цей пароль
@@ -175,7 +159,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Так, вилучити ці паролі
        *[many] Так, вилучити ці паролі
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Вилучити { $count } пароль?
@@ -189,7 +172,6 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Це призведе до вилучення паролів, які ви зберегли до { -brand-short-name } та будь-які сповіщення про витоки, які з’являються тут. Ви не зможете скасувати цю дію.
        *[many] Це призведе до вилучення паролів, які ви зберегли до { -brand-short-name } та будь-які сповіщення про витоки, які з’являються тут. Ви не зможете скасувати цю дію.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Вилучити { $count } пароль з усіх пристроїв?
@@ -203,16 +185,13 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Це призведе до вилучення всіх збережених до { -brand-short-name } паролів з усіх пристроїв, синхронізованих із вашим обліковим записом { -fxaccount-brand-name }. Це також видалить попередження про витоки, які з’являються тут. Ви не зможете скасувати цю дію.
        *[many] Це призведе до вилучення всіх збережених до { -brand-short-name } паролів з усіх пристроїв, синхронізованих із вашим обліковим записом { -fxaccount-brand-name }. Це також видалить попередження про витоки, які з’являються тут. Ви не зможете скасувати цю дію.
     }
-
 about-logins-confirm-export-dialog-title = Експортувати паролі
 about-logins-confirm-export-dialog-message = Ваші паролі буде збережено у вигляді звичайного тексту (наприклад, BadP@ssw0rd), тож кожен, хто може відкрити експортований файл, зможе їх переглянути.
 about-logins-confirm-export-dialog-confirm-button = Експорт…
-
 about-logins-alert-import-title = Імпорт завершено
 about-logins-alert-import-message = Переглянути детальний підсумок імпорту
-
 confirm-discard-changes-dialog-title = Відхилити незбережені зміни?
-confirm-discard-changes-dialog-message = Всі незбережені зміни будуть втрачені.
+confirm-discard-changes-dialog-message = Усі незбережені зміни будуть втрачені.
 confirm-discard-changes-dialog-confirm-button = Відхилити
 
 ## Breach Alert notification
@@ -241,7 +220,6 @@ about-logins-vulnerable-alert-learn-more-link = Докладніше
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запис для { $loginTitle } з таким іменем користувача вже існує. <a data-l10n-name="duplicate-link">Перейти до того запису?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = При збереженні цього пароля сталася помилка.
 
@@ -290,12 +268,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Додано нових записів:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Оновлено наявних записів:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Знайдено дублікатів:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
@@ -305,7 +281,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Помилки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
     }
 about-logins-import-dialog-done = Готово
-
 about-logins-import-dialog-error-title = Помилка імпорту
 about-logins-import-dialog-error-conflicting-values-title = Кілька суперечливих значень для одного облікового запису
 about-logins-import-dialog-error-conflicting-values-description = Наприклад: кілька імен користувачів, паролів, URL-адрес тощо для одного облікового запису.
@@ -319,10 +294,8 @@ about-logins-import-dialog-error-no-logins-imported = Жоден пароль н
 about-logins-import-dialog-error-learn-more = Дізнатися більше
 about-logins-import-dialog-error-try-import-again = Повторити спробу імпорту…
 about-logins-import-dialog-error-cancel = Скасувати
-
 about-logins-import-report-title = Підсумок імпорту
 about-logins-import-report-description = Паролі, імпортовані до { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
