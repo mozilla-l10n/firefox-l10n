@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Регистрации и пароли
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Търсене на регистрация
-
 create-login-button = Нова регистрация
-
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
 fxaccounts-sign-in-sync-button = Вписване в Sync
 fxaccounts-avatar-button =
@@ -45,6 +40,8 @@ login-list-count =
 login-list-sort-label-text = Подреждане по:
 login-list-name-option = Име (A-Z)
 login-list-name-reverse-option = Име (Z-A)
+login-list-username-option = Име (А-Я)
+login-list-username-reverse-option = Име (Я-А)
 about-logins-login-list-alerts-option = Предупреждения
 login-list-last-changed-option = Последна промяна
 login-list-last-used-option = Последно използване
@@ -59,6 +56,10 @@ about-logins-list-item-breach-icon =
     .title = Взломена страница
 about-logins-list-item-vulnerable-password-icon =
     .title = Уязвима парола
+about-logins-list-section-vulnerable = Уязвими пароли
+about-logins-list-section-today = Днес
+about-logins-list-section-yesterday = Вчера
+about-logins-list-section-week = Последните 7 дни
 
 ## Introduction screen
 
@@ -69,7 +70,6 @@ login-intro-instructions-fxa = Създайте или влезте в своя�
 login-intro-instructions-fxa-settings = Отидете в "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
 about-logins-intro-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -lockwise-brand-short-name }</a>.
-
 about-logins-intro-import2 = Ако вашите данни за вписване се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
 
 ## Login
@@ -109,17 +109,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = прави промени в данни за вход
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = разкрие запазена парола
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копира запазена парола
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = изнасяне на запазени регистрации и пароли
@@ -131,49 +126,39 @@ master-password-reload-button =
     .label = Вписване
     .accesskey = в
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Отказ
 confirmation-dialog-dismiss-button =
     .title = Отказ
-
 about-logins-confirm-remove-dialog-title = Изтриване на регистрацията?
 confirm-delete-dialog-message = Действието е необратимо.
 about-logins-confirm-remove-dialog-confirm-button = Премахване
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [one] Премахване
        *[other] Премахване на всички
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [one] Да, премахване на регистрацията
        *[other] Да, премахване на регистрациите
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Премахване на { $count } регистрация?
        *[other] Премахване на { $count } регистрации?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Премахване на { $count } регистрация от всички устройства?
        *[other] Премахване на { $count } регистрации от всички устройства?
     }
-
 about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
-
 about-logins-alert-import-title = Внасянето е завършено
 about-logins-alert-import-message = Подробен отчет за внасянето
-
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
@@ -204,10 +189,8 @@ about-logins-vulnerable-alert-learn-more-link = Научете повече
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запис за { $loginTitle } с това потребителско име вече съществува. <a data-l10n-name="duplicate-link">Преглед на записа.</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Възникна грешка при опита за запазване на тази парола.
-
 
 ## Login Export Dialog
 
@@ -254,12 +237,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Добавени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Обновени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
@@ -270,7 +251,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не внесени)</span>
     }
 about-logins-import-dialog-done = Готово
-
 about-logins-import-dialog-error-title = Грешка при внасяне
 about-logins-import-dialog-error-conflicting-values-title = Множество конфликтни стойности за една регистрация
 about-logins-import-dialog-error-conflicting-values-description = Например: множество потребителски имена, пароли, адреси и т.н. за една регистрация.
@@ -284,10 +264,8 @@ about-logins-import-dialog-error-no-logins-imported = Не са внесени �
 about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново ...
 about-logins-import-dialog-error-cancel = Отказ
-
 about-logins-import-report-title = Отчет за внасянето
 about-logins-import-report-description = Регистрации и пароли внесени в { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
