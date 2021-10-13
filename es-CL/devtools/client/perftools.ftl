@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamaño del búfer:
-
 perftools-custom-threads-label = Añadir hilos personalizados por nombre:
-
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Hilos:
 perftools-devtools-settings-label = Ajustes
@@ -95,14 +93,12 @@ perftools-thread-img-decoder =
     .title = Hilos de decodificación de imágenes
 perftools-thread-dns-resolver =
     .title = La resolución de DNS ocurre en este hilo
-
 perftools-thread-task-controller =
     .title = Hilos del grupo de subprocesos de TaskController
 
 ##
 
 perftools-record-all-registered-threads = Omitir las selecciones anteriores y grabar todos los hilos registrados
-
 perftools-tools-threads-input-label =
     .title = Estos nombres de hilos son una lista separada por comas que se utiliza para habilitar la creación de perfiles de los hilos en el perfilador. El nombre debe ser solo una coincidencia parcial del nombre del hilo para que se incluya. Es sensible a los espacios en blanco.
 
@@ -111,9 +107,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } está ahora integrado en las herramientas para desarrolladores. <a>Aprender más</a> acerca de esta poderosa nueva herramienta.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, podrás acceder al panel de rendimiento original a través de <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Cerrar el mensaje de introducción
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Desarrollador web
+perftools-presets-web-developer-description = Ajustes predeterminados recomendados para la depuración de la mayoría de las aplicaciones web, con poca sobrecarga.
+perftools-presets-firefox-platform-label = Plataforma Firefox
+perftools-presets-firefox-platform-description = Ajustes predeterminados para la depuración interna de la plataforma Firefox.
+perftools-presets-firefox-front-end-label = Front-end de Firefox
+perftools-presets-firefox-front-end-description = Ajustes predeterminados para la depuración interna del front-end de Firefox.
+perftools-presets-firefox-graphics-label = Gráficos de Firefox
+perftools-presets-firefox-graphics-description = Ajustes predeterminados para la investigación de rendimiento gráfico de Firefox.
+perftools-presets-media-label = Medios
+perftools-presets-media-description = Ajustes predeterminados para el diagnóstico de problemas de audio y video.
+perftools-presets-custom-label = Personalizado
+
+##
+
