@@ -11,7 +11,6 @@ unread-messages-os-tooltip =
         [few] { $count } njecytane powěsći
        *[other] { $count } njecytanych powěsćow
     }
-
 about-rights-notification-text = { -brand-short-name } jo dermotna softwara wótwórjonego žrědła, wuwita wót zgromaźeństwa towzyntow luźi z cełego swěta.
 
 ## Content tabs
@@ -28,11 +27,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Dodanki a drastwy
     .tooltiptext = Waše dodanki zastojaś
-
 quick-filter-toolbarbutton =
     .label = Spěšny filter
     .tooltiptext = Powěsći filtrowaś
-
 redirect-msg-button =
     .label = Dalej pósrědniś
     .tooltiptext = Wubranu powěsć dalej pósrědniś
@@ -42,10 +39,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Symbolowa rědka zarědnikowego wobcerka
     .accesskey = z
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Nastajenja wobceŕka zarědnikow
-
 folder-pane-header-label = Zarědniki
 
 ## Folder Toolbar Header Popup
@@ -53,27 +48,21 @@ folder-pane-header-label = Zarědniki
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Symbolowu rědku schowaś
     .accesskey = S
-
 show-all-folders-label =
     .label = Wšykne zarědniki
     .accesskey = W
-
 show-unread-folders-label =
     .label = Njepśecytane zarědniki
     .accesskey = N
-
 show-favorite-folders-label =
     .label = Nejlubše zarědniki
     .accesskey = l
-
 show-smart-folders-label =
     .label = Zjadnośone zarědniki
     .accesskey = d
-
 show-recent-folders-label =
     .label = Nejnowše zarědniki
     .accesskey = o
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktny naglěd
     .accesskey = K
@@ -83,26 +72,26 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Dalej pósrědniś
     .accesskey = D
+menu-file-save-as-file =
+    .label = Dataja…
+    .accesskey = D
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Dataja…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Nastajenja
-
 appmenu-addons-and-themes =
     .label = Dodanki a drastwy
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozwězowanje problemow znjemóžniś
-
 appmenu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
-
 appmenu-redirect-msg =
     .label = Dalej pósrědniś
 
@@ -129,7 +118,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adresa jo w adresniku
-
 message-header-address-not-in-address-book-icon =
     .alt = Adresa njejo w adresniku
 
@@ -140,11 +128,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } wótwónoźeś?
 addon-removal-confirmation-button = Wótwónoźeś
 addon-removal-confirmation-message = { $name } a jogo konfiguraciju a daty z { -brand-short-name } wótwónoźeś?
-
 caret-browsing-prompt-title = Tastaturowa nawigacija
 caret-browsing-prompt-text = Tłocenje tasty F7 zašaltujo abo wušaltujo tastaturowu nawigaciju. Toś ta funkcija staja pógibny kursor do wopśimjeśa a dowólujo wam tekst z tastaturu wubraś. Cośo něnto tastaturowu nawigaciju zašaltowaś?
 caret-browsing-prompt-check-text = Wěcej se njepšašaś.
-
 repair-text-encoding-button =
     .label = Tekstowe koděrowanje reparěrowaś
     .tooltiptext = Korektne teksotwe koděrowanje z wopśimjeśa powěsći wugódás
