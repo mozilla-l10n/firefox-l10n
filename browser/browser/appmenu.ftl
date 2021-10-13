@@ -116,8 +116,8 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = Hiệu suất phát hiện
-    .tooltiptext = Ghi lại một hồ sơ hiệu suất
+    .label = Profiler
+    .tooltiptext = Ghi lại hồ sơ hiệu suất
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = Profiler đang ghi lại một hồ sơ
