@@ -17,3 +17,12 @@ prompt-to-install-no-button = Không cài đặt
 
 install-failed-title = Cài đặt { -brand-short-name } không thành công.
 install-failed-message = Không thể cài đặt { -brand-short-name } nhưng sẽ tiếp tục chạy.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Mở ứng dụng { -brand-short-name } hiện có?
+prompt-to-launch-existing-app-message = Bạn đã cài đặt { -brand-short-name }. Sử dụng ứng dụng đã cài đặt để luôn cập nhật và tránh mất dữ liệu.
+prompt-to-launch-existing-app-yes-button = Mở hiện có
+prompt-to-launch-existing-app-no-button = Không, cảm ơn
