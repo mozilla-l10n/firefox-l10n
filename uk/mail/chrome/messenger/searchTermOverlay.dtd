@@ -6,7 +6,7 @@
 <!ENTITY matchAll.accesskey "В">
 <!ENTITY matchAny.label     "За будь-якою з наступних умов">
 <!ENTITY matchAny.accesskey "Б">
-<!ENTITY matchAllMsgs.label     "Всі повідомлення">
+<!ENTITY matchAllMsgs.label     "Усі повідомлення">
 <!ENTITY matchAllMsgs.accesskey "с">
 
 <!-- LOCALIZATION NOTE

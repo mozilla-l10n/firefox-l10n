@@ -192,7 +192,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.label "Всі з">
+<!ENTITY quickFilterBar.booleanModeAll.label "Усі з">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
