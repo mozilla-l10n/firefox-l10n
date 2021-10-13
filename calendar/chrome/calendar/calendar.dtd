@@ -17,7 +17,7 @@
 
 <!ENTITY calendar.events.filter.all.label "Усі події">
 <!ENTITY calendar.events.filter.today.label "Події сьогодні">
-<!ENTITY calendar.events.filter.future.label "Всі майбутні події">
+<!ENTITY calendar.events.filter.future.label "Усі майбутні події">
 <!ENTITY calendar.events.filter.current.label "Події обраного дня">
 <!ENTITY calendar.events.filter.currentview.label "Події у поточному огляді">
 <!ENTITY calendar.events.filter.next7Days.label "Події наступних 7 днів">
@@ -86,8 +86,6 @@
 
 <!ENTITY calendar.newevent.button.label         "Нова подія" >
 <!ENTITY calendar.newtask.button.label          "Нове завдання" >
-<!ENTITY calendar.print.button.label            "Друк" >
-<!ENTITY calendar.print.button.accesskey        "Д">
 
 <!ENTITY calendar.day.button.label              "День" >
 <!ENTITY calendar.week.button.label             "Тиждень" >
@@ -177,7 +175,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Присутність">
 <!ENTITY calendar.context.attendance.menu.accesskey             "и">
 <!ENTITY calendar.context.attendance.occurrence.label           "Це повторення">
-<!ENTITY calendar.context.attendance.all2.label                 "Всі серії подій">
+<!ENTITY calendar.context.attendance.all2.label                 "Усі серії подій">
 <!ENTITY calendar.context.attendance.send.label                 "Надіслати сповіщення зараз">
 <!ENTITY calendar.context.attendance.send.accesskey             "Н">
 <!ENTITY calendar.context.attendance.dontsend.label             "Не надсилати сповіщення">
@@ -376,23 +374,6 @@
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Обрати календар">
-
-<!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Друк календаря">
-<!ENTITY calendar.print.title.label "Назва:">
-<!ENTITY calendar.print.layout.label "Макет:">
-<!ENTITY calendar.print.range.label "Що друкувати">
-<!ENTITY calendar.print.currentView2.label "Події поточного огляду">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Обрані події та завдання">
-<!ENTITY calendar.print.tasks.label "Завдання">
-<!ENTITY calendar.print.events.label "Події">
-<!ENTITY calendar.print.custom.label "Задати діапазон дат:">
-<!ENTITY calendar.print.from.label "Від:">
-<!ENTITY calendar.print.to.label "До:">
-<!ENTITY calendar.print.settingsGroup.label "Параметри друку">
-<!ENTITY calendar.print.optionsGroup.label "Налаштування">
-<!ENTITY calendar.print.taskswithnoduedate.label "Завдання без обмеження у часі">
-<!ENTITY calendar.print.completedtasks.label "Завершені завдання">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Докладніше…">
