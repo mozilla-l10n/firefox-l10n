@@ -116,6 +116,9 @@ places-remove-bookmark =
            *[other] $count cytańskich znamjenjow wótwónoźeś
         }
     .accesskey = t
+places-show-in-folder =
+    .label = W zarědniku pokazaś
+    .accesskey = z
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
