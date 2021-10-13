@@ -166,6 +166,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-media-description = Ajuste prévio recomendado para diagnosticar problemas de áudio e vídeo.
+profiler-popup-presets-media-label =
+    .label = Mídia
+profiler-popup-presets-custom-label =
+    .label = Personalizado
 
 ## History panel
 
