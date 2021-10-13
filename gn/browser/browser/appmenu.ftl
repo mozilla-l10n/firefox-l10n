@@ -186,6 +186,7 @@ profiler-popup-presets-firefox-front-end-label =
 profiler-popup-presets-firefox-graphics-description = Ñemboheko ypygua iporãva ehapykuereka hag̃ua Firefox ra’ãngarenda.
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox ra’ãngaryrugua
+profiler-popup-presets-media-description = Ñemboheko ypygua eikuaa hag̃ua mba’epu ha ta’ãngamýi apañuãi.
 profiler-popup-presets-media-label =
     .label = Momaranduha
 profiler-popup-presets-custom-label =

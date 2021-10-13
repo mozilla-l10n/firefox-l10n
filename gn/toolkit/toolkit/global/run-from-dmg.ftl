@@ -23,5 +23,6 @@ install-failed-message = { -brand-short-name } ndaikatúi emohenda hákatu omba�
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = ¿Embojuruja { -brand-short-name } rembipuru’i oĩvavoi?
+prompt-to-launch-existing-app-message = { -brand-short-name } oñemohendáma. Eipuru tembipuru’i mohendapyre hekopyahu tapiáva ha emboyke mba’ekuaarã ñehundi.
 prompt-to-launch-existing-app-yes-button = Embojuruja oĩvavoi
 prompt-to-launch-existing-app-no-button = Nahániri aguyje
