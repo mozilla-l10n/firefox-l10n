@@ -42,7 +42,7 @@ account-provisioner-results-title =
         [one] { $count } k dispoziciji stejaca adresa namakana za:
         [two] { $count } k dispoziciji stejacej adresy namakanej za:
         [few] { $count } k dispoziciji stejace adresy namakane za:
-       *[other] { $count } k dispoziciji stejacych adrespw namakane za:
+       *[other] { $count } k dispoziciji stejacych adresow namakane za:
     }
 account-provisioner-mail-results-caption = Móžeće tež za přimjenami abo hinašim wurazom pytać, zo byšće dalše e-mejlowe adresy namakał.
 account-provisioner-domain-results-caption = Móžeće tež za přimjenami abo hinašim wurazom pytać, zo byšće dalše e-domeny namakał.
