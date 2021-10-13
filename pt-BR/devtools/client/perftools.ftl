@@ -117,6 +117,10 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Desenvolvimento web
 perftools-presets-web-developer-description = Ajuste prévio recomendado para depuração da maioria dos aplicativos web, com pouca sobrecarga.
 perftools-presets-firefox-platform-label = Plataforma Firefox
+perftools-presets-firefox-front-end-description = Ajuste prévio recomendado para depuração de aspectos internos da interface do usuário (front-end) do Firefox.
+perftools-presets-media-label = Mídia
+perftools-presets-media-description = Ajuste prévio recomendado para diagnosticar problemas de áudio e vídeo.
+perftools-presets-custom-label = Personalizado
 
 ##
 

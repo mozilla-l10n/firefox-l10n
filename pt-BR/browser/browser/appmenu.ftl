@@ -166,6 +166,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Desenvolvimento web
+profiler-popup-presets-firefox-platform-description = Ajuste prévio recomendado para depuração de aspectos internos da plataforma Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Plataforma Firefox
+profiler-popup-presets-firefox-front-end-description = Ajuste prévio recomendado para depuração de aspectos internos da interface do usuário (front-end) do Firefox.
 profiler-popup-presets-media-description = Ajuste prévio recomendado para diagnosticar problemas de áudio e vídeo.
 profiler-popup-presets-media-label =
     .label = Mídia
