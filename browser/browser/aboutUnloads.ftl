@@ -21,6 +21,19 @@ about-unloads-intro-2 =
     trên cùng của thẻ, và <em>in nghiêng</em> khi quy trình được chia sẻ giữa
     các thẻ. Bạn có thể kích hoạt dỡ thẻ theo cách thủ công bằng cách nhấp vào nút
     <em>Dỡ</em> bên dưới.
+about-unloads-intro =
+    { -brand-short-name } có tính năng tự động dỡ thẻ
+    để ngăn ứng dụng bị treo do không đủ bộ nhớ
+    khi bộ nhớ khả dụng của hệ thống sắp hết. Thẻ tiếp theo sẽ dỡ xuống
+    được chọn dựa trên nhiều thuộc tính. Trang này hiển thị cách
+    { -brand-short-name } đặt ưu tiên các thẻ và thẻ nào sẽ được dỡ xuống
+    khi lệnh dỡ thẻ được kích hoạt. Bạn có thể kích hoạt dỡ thẻ theo cách
+    thủ công bằng cách nhấp vào nút <em>Dỡ</em>.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Xem <a data-l10n-name="doc-link">Quản lý dỡ thẻ</a> để tìm hiểu thêm
+    về tính năng và trang này.
 about-unloads-last-updated = Cập nhật gần đây nhất: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Dỡ
     .title = Dỡ thẻ có mức độ ưu tiên cao nhất
