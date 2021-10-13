@@ -27,11 +27,15 @@ account-provisioner-button-back = Atrás
 ## Notifications
 
 account-provisioner-fetching-provisioners = Descargando proveedores…
+account-provisioner-connection-issues = No pudimos comunicarnos con nuestro servidor de registros. Verifique su conexión.
 account-provisioner-searching-email = Buscando cuentas de correo electrónico disponibles…
 account-provisioner-searching-domain = Buscando dominios disponibles…
+account-provisioner-searching-error = No se pudo encontrar ninguna dirección para sugerir. Intente cambiar los términos de búsqueda.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Seleccione que cuenta crear
 
 ## Search results
 
@@ -42,5 +46,8 @@ account-provisioner-results-title =
         [one] Una dirección disponible encontrada para:
        *[other] { $count } direcciones disponibles encontradas para:
     }
+account-provisioner-mail-results-caption = Puede intentar buscar apodos o algún otro término para encontrar más correos electrónicos
+account-provisioner-domain-results-caption = Puede intentar buscar apodos o algún otro término para encontrar más dominios.
 account-provisioner-free-account = Gratis
 account-provision-price-per-year = { $price } al año
+account-provisioner-all-results-button = Mostrar todos los resultados
