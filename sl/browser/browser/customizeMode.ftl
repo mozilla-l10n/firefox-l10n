@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Razveljavi …
 customize-mode-lwthemes-my-themes =
     .value = Moje teme
+customize-mode-lwthemes-link = Upravljaj teme
 customize-mode-touchbar-cmd =
     .label = Prilagodi vrstico na dotik …
 customize-mode-downloads-button-autohide =

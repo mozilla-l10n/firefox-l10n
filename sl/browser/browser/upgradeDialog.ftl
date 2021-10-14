@@ -64,6 +64,26 @@ upgrade-dialog-default-secondary-button = Ne zdaj
 upgrade-dialog-theme-title-2 = Začnite znova s svežo temo
 upgrade-dialog-theme-system = Sistemska tema
     .title = Sledi temi operacijskega sistema za gumbe, menije in okna
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Barvito življenje
+upgrade-dialog-start-primary-button = Raziščite barvne kombinacije
+upgrade-dialog-start-secondary-button = Ne zdaj
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Izberite si paleto
+upgrade-dialog-colorway-primary-button = Shrani barvno kombinacijo
+upgrade-dialog-colorway-secondary-button = Obdrži dosedanjo temo
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Raziščite privzete teme
+upgrade-dialog-colorway-default-theme = Privzeta
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Samodejno
+    .title = Sledi nastavitvam operacijskega sistema za gumbe, menije in okna
 upgrade-dialog-theme-light = Svetla
     .title = Uporabi svetlo temo za gumbe, menije in okna
 upgrade-dialog-theme-dark = Temna
@@ -74,3 +94,17 @@ upgrade-dialog-theme-keep = Obdrži dosedanjo
     .title = Uporabi temo, nameščeno pred posodobitvijo { -brand-short-name(sklon: "rodilnik") }
 upgrade-dialog-theme-primary-button = Shrani temo
 upgrade-dialog-theme-secondary-button = Ne zdaj
+upgrade-dialog-colorway-variation-soft = Mehka
+    .title = Uporabi to barvno kombinacijo
+upgrade-dialog-colorway-variation-balanced = Uravnotežena
+    .title = Uporabi to barvno kombinacijo
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Drzna
+    .title = Uporabi to barvno kombinacijo
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Hvala, ker ste nas izbrali
+upgrade-dialog-thankyou-primary-button = Začnite z brskanjem

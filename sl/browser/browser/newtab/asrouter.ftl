@@ -135,5 +135,7 @@ cfr-doorhanger-video-support-primary-button = Posodobi zdaj
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Videti je, da uporabljate javni Wi-Fi
+spotlight-public-wifi-vpn-primary-button = Ohranite zasebnost z { -mozilla-vpn-brand-name }
+    .accesskey = z
 spotlight-public-wifi-vpn-link = Ne zdaj
     .accesskey = N
