@@ -23,3 +23,4 @@ account-provisioner-step1-image =
 
 account-provisioner-free-account = 免费
 account-provision-price-per-year = 每年 { $price }
+account-provisioner-all-results-button = 显示所有结果
