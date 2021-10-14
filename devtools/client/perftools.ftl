@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamaño do búfer:
-
 perftools-custom-threads-label = Engadir fíos personalizados por nome:
-
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Fíos:
 perftools-devtools-settings-label = Configuración
@@ -101,7 +99,6 @@ perftools-thread-dns-resolver =
 ##
 
 perftools-record-all-registered-threads = Rodea as seleccións anteriores e grava todos os fíos rexistrados
-
 perftools-tools-threads-input-label =
     .title =
         Eses nomes de fíos son unha lista separada por comas que se utiliza para activar o perfilado dos fíos no perfilador.
@@ -112,9 +109,19 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Novo</b>:{ -profiler-brand-name } está agora integrado nas Developer Tools.<a>Saiba máis</a> sobre esta poderosa ferramenta nova.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Durante un tempo limitado, pode acceder ao panel orixinal de Rendemento via<a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Pechar a mensaxe de incorporación
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Desenvolvedores web
+
+##
+
