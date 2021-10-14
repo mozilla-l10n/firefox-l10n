@@ -4,6 +4,7 @@
 
 provisioner-searching-icon =
     .alt = 正在搜索…
+account-provisioner-mail-account-title = 购买新的电子邮件地址
 
 ## Forms
 
