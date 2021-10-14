@@ -17,10 +17,14 @@ account-provisioner-domain-input =
     .placeholder = 您的名字、昵称或其他搜索词
 account-provisioner-search-button = 搜索
 account-provisioner-button-cancel = 取消
+account-provisioner-button-existing = 使用现有的邮箱账户
+account-provisioner-button-back = 返回
 
 ## Notifications
 
+account-provisioner-connection-issues = 无法与我们的注册服务器通信，请检查您的网络连接。
 account-provisioner-searching-email = 正在搜索可用的邮箱账户…
+account-provisioner-searching-domain = 正在搜索可用的域名…
 
 ## Illustrations
 
@@ -29,6 +33,12 @@ account-provisioner-step1-image =
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+       *[other] 找到 { $count } 个可用域名：
+    }
 account-provisioner-free-account = 免费
 account-provision-price-per-year = 每年 { $price }
 account-provisioner-all-results-button = 显示所有结果
