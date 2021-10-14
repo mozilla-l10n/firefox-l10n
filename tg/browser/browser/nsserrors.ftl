@@ -16,6 +16,13 @@ ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } 
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
 psmerr-ssl-disabled = Ба таври бехатар пайваст карда наметавонад, зеро ки протоколи SSL ғайрифаъол карда шуд.
+ssl-error-export-only-server = Пайвастшавии бехатар танзим карда нашуд. Ҳамсон рамзгузории дараҷаи баландро дастгирӣ намекунад.
+ssl-error-us-only-server = Пайвастшавии бехатар танзим карда нашуд. Ҳамсон рамзгузории дараҷаи баландеро дархост мекунад, ки дастгирӣ карда намешавад.
+ssl-error-no-cypher-overlap = Пайвастшавии бехатар бо ҳамсон танзим карда нашуд: алгоритм(ҳо)и рамзгузории умумӣ вуҷуд надорад.
+ssl-error-no-certificate = Гувоҳинома ё калиди лозимӣ барои санҷиши ҳаққоният ёфт нашуд.
+ssl-error-bad-certificate = Пайвастшавии бехатар бо ҳамсон танзим карда нашуд: гувоҳиномаи ҳамсон рад карда шуд.
+ssl-error-bad-client = Ба сервер аз тарафи муштарӣ маълумоти нодуруст пешниҳод карда шуд.
+ssl-error-bad-server = Ба муштарӣ аз тарафи сервер маълумоти нодуруст пешниҳод карда шуд.
 ssl-error-unsupported-certificate-type = Навъи ин гувоҳинома дастгирӣ намешавад.
 ssl-error-post-warning = Рамзи номаълуми хатои SSL.
 ssl-error-bad-mac-read = SSL сабтеро бо рамзи нодурусти паёми санҷиши ҳаққоният қабул кард.
