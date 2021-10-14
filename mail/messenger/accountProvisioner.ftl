@@ -4,10 +4,17 @@
 
 provisioner-searching-icon =
     .alt = 正在搜索…
-account-provisioner-mail-account-title = 购买新的电子邮件地址
+account-provisioner-mail-account-title = 购买新邮箱
+account-provisioner-mail-account-description = Thunderbird 与 <a data-l10n-name="mailfence-home-link">Mailfence</a> 合作，为您提供私密且安全的电子邮件服务。我们相信，每个人都应该拥有一个安全的邮箱。
+account-provisioner-domain-title = 购买邮箱和专属域名
+account-provisioner-domain-description = Thunderbird 与 <a data-l10n-name="gandi-home-link">Gandi</a> 合作，让您可以使用自定义域名创建任何邮箱账户。
 
 ## Forms
 
+account-provisioner-mail-input =
+    .placeholder = 您的名字、昵称或其他搜索词
+account-provisioner-domain-input =
+    .placeholder = 您的名字、昵称或其他搜索词
 account-provisioner-search-button = 搜索
 account-provisioner-button-cancel = 取消
 
