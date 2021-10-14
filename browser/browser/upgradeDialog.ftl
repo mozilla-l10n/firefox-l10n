@@ -64,6 +64,27 @@ upgrade-dialog-default-secondary-button = Agora non
 upgrade-dialog-theme-title-2 = Comece todo de novo cun tema vibrante
 upgrade-dialog-theme-system = Tema do sistema
     .title = Seguir o tema do sistema operativo para botóns, menús e xanelas
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = A vida en cor
+upgrade-dialog-start-subtitle = Novas cores vibrantes. Dispoñible por tempo limitado.
+upgrade-dialog-start-secondary-button = Agora non
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Escolla a súa paleta
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Pase ao Firefox Home con fondo temático
+upgrade-dialog-colorway-secondary-button = Manter tema anterior
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Explorar temas predefinidos
+upgrade-dialog-colorway-default-theme = Predefinido
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automático
+    .title = Seguir o tema do sistema operativo para os botóns, menús e xanelas
 upgrade-dialog-theme-light = Claro
     .title = Empregar un tema claro para botóns, menús e xanelas
 upgrade-dialog-theme-dark = Escuro
@@ -74,3 +95,6 @@ upgrade-dialog-theme-keep = Manter anterior
     .title = Empregar o tema que había instalado antes de actualizar o { -brand-short-name }
 upgrade-dialog-theme-primary-button = Gardar tema
 upgrade-dialog-theme-secondary-button = Agora non
+
+## Thank you screen
+
