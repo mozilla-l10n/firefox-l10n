@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-provisioner-tab-title = 从服务商注册新邮箱
 provisioner-searching-icon =
     .alt = 正在搜索…
 account-provisioner-mail-account-title = 购买新邮箱
