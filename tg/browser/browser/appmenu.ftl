@@ -165,6 +165,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Барномарезии сомонаҳо
+profiler-popup-presets-firefox-platform-label =
+    .label = Платформаи Firefox
+profiler-popup-presets-custom-label =
+    .label = Фармоишӣ
 
 ## History panel
 
