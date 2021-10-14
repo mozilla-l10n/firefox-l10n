@@ -78,3 +78,5 @@ about-addressbook-details-phone-numbers-header = Puhelinnumerot
 about-addressbook-details-home-address-header = Kotiosoite
 about-addressbook-details-work-address-header = Työosoite
 about-addressbook-details-other-info-header = Muut tiedot
+about-addressbook-prompt-to-save-title = Tallennetaanko muutokset?
+about-addressbook-prompt-to-save = Haluatko tallentaa tekemäsi muutokset?

@@ -9,7 +9,6 @@ unread-messages-os-tooltip =
         [one] 1 lukematon viesti
        *[other] { $count } lukematonta viestiä
     }
-
 about-rights-notification-text = { -brand-short-name } on vapaa ja avoimen lähdekoodin ohjelmisto, jota rakentaa tuhansista osallistujista ympäri maailmaa koostuva yhteisö.
 
 ## Content tabs
@@ -32,10 +31,8 @@ addons-and-themes-toolbarbutton =
 folder-pane-toolbar =
     .toolbarname = Kansiopaneelin työkalupalkki
     .accesskey = Ö
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Kansiopaneelin asetukset
-
 folder-pane-header-label = Kansiot
 
 ## Folder Toolbar Header Popup
@@ -43,41 +40,39 @@ folder-pane-header-label = Kansiot
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Piilota työkalupalkki
     .accesskey = P
-
 show-all-folders-label =
     .label = Kaikki kansiot
     .accesskey = K
-
 show-unread-folders-label =
     .label = Kansiot, joissa lukematta
     .accesskey = n
-
 show-favorite-folders-label =
     .label = Suosikkikansiot
     .accesskey = u
-
 show-smart-folders-label =
     .label = Yhdistetyt kansiot
     .accesskey = Y
-
 show-recent-folders-label =
     .label = Viimeisimmät kansiot
     .accesskey = V
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Tiivis näkymä
     .accesskey = T
 
 ## Menu
 
+menu-file-save-as-file =
+    .label = Tiedosto…
+    .accesskey = T
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Tiedosto…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Asetukset
-
 appmenu-addons-and-themes =
     .label = Lisäosat ja teemat
 
@@ -100,7 +95,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Osoite on osoitekirjassa
-
 message-header-address-not-in-address-book-icon =
     .alt = Osoite ei ole osoitekirjassa
 
@@ -111,11 +105,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Poistetaanko { $name }?
 addon-removal-confirmation-button = Poista
 addon-removal-confirmation-message = Poistetaanko { $name } ja siihen liittyvät asetukset sekä tiedot { -brand-short-name }ista?
-
 caret-browsing-prompt-title = Selaus kohdistimella
 caret-browsing-prompt-text = F7-näppäimellä voit ottaa käyttöön tai poistaa käytöstä selauksen kohdistimella. Tämän toiminnon ollessa päällä osassa sisällössä on liikuteltava kohdistin, jonka avulla voit näppäimistöllä valita tekstiä. Selataanko kohdistimella?
 caret-browsing-prompt-check-text = Älä kysy uudestaan.
-
 repair-text-encoding-button =
     .label = Korjaa merkistökoodaus
     .tooltiptext = Arvaa oikea merkistökoodaus viestin sisällöstä
