@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Upravljanje uporabe vtičnikov
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Upravljajte dovoljenje za uporabo drugih naprav za predvajanje zvoka na tej strani
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Odpri ploščo samodejnega predvajanja
 urlbar-persistent-storage-notification-anchor =
@@ -783,3 +787,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Seznam vseh zavihkov
     .tooltiptext = Seznam vseh zavihkov
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Želite odpreti zavihke od prejšnjič?</strong> Prejšnjo sejo lahko obnovite v meniju { -brand-short-name(sklon: "rodilnik") } <img data-l10n-name="icon"/> pod Zgodovina.
+restore-session-startup-suggestion-button = Pokaži, kako
