@@ -779,3 +779,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listar todas as lapelas
     .tooltiptext = Listar todas as lapelas
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Abrir lapelas anteriores?</strong> Pode restaurar a sesión anterior desde o { -brand-short-name } menú da aplicación <img data-l10n-name="icon"/>, en Historial.
+restore-session-startup-suggestion-button = Móstreme como.
