@@ -117,6 +117,8 @@ cfr-doorhanger-doh-secondary-button = Diweredekaat
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Pouezus eo ho puhez prevez. { -brand-short-name } a zigenvez al lec'hienn an eil ouzh hebenn, ar pezh a lak da vezañ diaesoc'h da laerez gerioù-tremen, niverennoù kartennoù bank ha titouroù kizidik all.
+cfr-doorhanger-fission-header = Digenvezañ al lec'hiennoù
 cfr-doorhanger-fission-primary-button = Mat, komprenet 'm eus
     .accesskey = M
 cfr-doorhanger-fission-secondary-button = Gouzout hiroc'h
@@ -124,6 +126,8 @@ cfr-doorhanger-fission-secondary-button = Gouzout hiroc'h
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Ar videoioù war al lec’hienn-mañ a c’hallfe chom hep mont en-dro war handelv { -brand-short-name }-mañ. Evit skor klok ar videoioù, hizivait { -brand-short-name } bremañ.
+cfr-doorhanger-video-support-header = Hizivaat { -brand-short-name } evit lenn ar video
 cfr-doorhanger-video-support-primary-button = Hizivaat bremañ
     .accesskey = H
 
@@ -133,3 +137,9 @@ cfr-doorhanger-video-support-primary-button = Hizivaat bremañ
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = War a-seblant e rit gant ur Wi-Fi foran
+spotlight-public-wifi-vpn-body = Evit kuzhat ho lec’hiadur hag hoc’h oberiantiz merdeiñ e c’hallit ober gant ur rouedad prevez galloudel (VPN). Skoazellañ a raio ac’hanoc’h da vezañ gwarezet en ur verdeiñ e lec’hioù foran evel an aerborzhioù pe ar c’hafedioù.
+spotlight-public-wifi-vpn-primary-button = Chomit prevez gant { -mozilla-vpn-brand-name }
+    .accesskey = C
+spotlight-public-wifi-vpn-link = Ket bremañ
+    .accesskey = K
