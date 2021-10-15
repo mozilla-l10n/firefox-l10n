@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Perfilador
     .tooltiptext = Gravar un perfil de rendemento
+profiler-popup-button-recording =
+    .label = Perfilador
+    .tooltiptext = O perfilador está a gravar un perfil
+profiler-popup-button-capturing =
+    .label = Perfilador
+    .tooltiptext = O perfilador está a capturar un perfil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Predefinido recomendado para a maioría da depuración de aplicacións web, con sobrecarga baixa.
+profiler-popup-presets-web-developer-label =
+    .label = Desenvolvedor web
+profiler-popup-presets-firefox-platform-description = Predefinición recomendada para a depuración interna da plataforma Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Plataforma Firefox
+profiler-popup-presets-firefox-front-end-description = Predefinición recomendada para a depuración interna da interface gráfica do Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Interface gráfica do Firefox
+profiler-popup-presets-firefox-graphics-description = Preestablecemento recomendado para a investigación do rendemento gráfico de Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Gráficos de Firefox
+profiler-popup-presets-media-description = Predefinición recomendada para diagnosticar problemas de son e vídeo.
+profiler-popup-presets-media-label =
+    .label = Recursos
+profiler-popup-presets-custom-label =
+    .label = Personalizado
 
 ## History panel
 
