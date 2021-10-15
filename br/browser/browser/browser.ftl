@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Ardeiñ arver an enlugellad
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Ardeiñ rannadur ho kamera ha/pe ho klevell gant al lec'hienn
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Merañ rannadur ar selaouelloù all gant al lec'hienn
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Digeriñ panell al lenn emgefreek
 urlbar-persistent-storage-notification-anchor =
@@ -341,12 +345,40 @@ browser-tab-audio-pip = SKEUDENN-OUZH-SKEUDENN
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] Tennañ son an ivinell
+        [one] Tennañ son { $count } ivinell
+        [two] Tennañ son { $count } ivinell
+        [few] Tennañ son { $count } ivinell
+        [many] Tennañ son { $count } a ivinelloù
+       *[other] Tennañ son { $count } ivinell
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] Adlakaat son an ivinell
+        [one] Adlakaat son { $count } ivinell
+        [two] Adlakaat son { $count } ivinell
+        [few] Adlakaat son { $count } ivinell
+        [many] Adlakaat son { $count } a ivinelloù
+       *[other] Adlakaat son { $count } ivinell
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] Lenn an ivinell
+        [one] Lenn { $count } ivinell
+        [two] Lenn { $count } ivinell
+        [few] Lenn { $count } ivinell
+        [many] Lenn { $count } a ivinelloù
+       *[other] Lenn { $count } ivinell
+    }
 
 ## Bookmarks toolbar items
 
 browser-import-button2 =
     .label = Enporzhiañ ar sinedoù…
     .tooltiptext = Enporzhiañ ar sinedoù adalek ur merdeer all betek { -brand-short-name }.
+bookmarks-toolbar-empty-message = Evit kaout anezho buan e c’hallit lakaat ho sinedoù amañ e barrenn-ostilhoù ar sinedoù. <a data-l10n-name="manage-bookmarks">Merañ ar sinedoù…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -496,6 +528,16 @@ urlbar-result-action-search-tabs = Klask ivinelloù
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Kinnigoù { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -739,3 +781,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Roll an holl ivinelloù
     .tooltiptext = Roll an holl ivinelloù
+
+## Infobar shown at startup to suggest session-restore
+

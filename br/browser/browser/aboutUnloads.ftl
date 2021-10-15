@@ -26,6 +26,12 @@ about-unloads-intro =
     evit mirout an arload da sac’hañ abalamour d'ur vank a vemor
     pa n’eus ket kalz a vemor gant ar reizhiad. An ivinell da vezañ diskarget
     a zo dibabet war veur a zoareen.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Lennit ar bajenn <a data-l10n-name="doc-link">diskargañ ivinelloù</a> evit deskiñ hiroc'h a-zivout
+    ar c'heweriuster hag ar bajenn-mañ.
+about-unloads-last-updated = Hizivaet da ziwezhañ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Diskargañ
     .title = Diskargañ an ivinell gant an tevet uhelañ
 about-unloads-no-unloadable-tab = N’eus ivinell ebet da ziskargañ.
