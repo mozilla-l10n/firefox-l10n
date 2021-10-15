@@ -76,6 +76,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Ivinell digor ebet
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.
+appmenu-remote-tabs-opensettings =
+    .label = Arventennoù
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?
@@ -116,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Aelader
     .tooltiptext = Enrollañ un aelad digonusted
+profiler-popup-button-recording =
+    .label = Aelader
+    .tooltiptext = An aelader a enroll un aelad
+profiler-popup-button-capturing =
+    .label = Aelader
+    .tooltiptext = An aelader a enroll an aelad
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -166,6 +174,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Rakarventennoù erbedet evit diveugañ an arloadoù gant un overhead izel.
 
 ## History panel
 
