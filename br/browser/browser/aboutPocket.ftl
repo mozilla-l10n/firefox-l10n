@@ -11,11 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ouzhpennañ skritelligoù
-
 pocket-panel-saved-error-generic = Ur fazi a zo bet en ur enrollañ davet { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Bevennet eo ar skritelligoù da 25 arouezenn
 pocket-panel-saved-error-only-links = N'haller enrollañ ereoù nemetken
 pocket-panel-saved-error-not-saved = N'eo ket bet enrollet ar bajenn
+pocket-panel-saved-error-no-internet = Ret eo deoc’h bezañ kennasket d’an internet evit enrollañ da { -pocket-brand-name }. Kennaskit d’an internet ha klaskit en-dro.
 pocket-panel-saved-page-removed = Dilamet ar bajenn
 pocket-panel-saved-page-saved = Enrollet davet { -pocket-brand-name }
 pocket-panel-saved-processing-remove = O tilemel ar bajenn...
@@ -43,6 +43,7 @@ pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name }
 
 pocket-panel-home-my-list = Ma roll
 pocket-panel-home-welcome-back = Eürus omp d'ho kwelout en-dro
+pocket-panel-home-paragraph = Gallout a rit ober gant { -pocket-brand-name } evit merdeiñ hag enrollañ pajennadoù web, pennadoù, videoioù, podskigndoù, pe distreiñ d'ar pezh a oac'h o lenn.
 pocket-panel-home-explore-popular-topics = Merdeiñ ar sujedoù brudet
 pocket-panel-home-discover-more = Dizoloiñ muioc'h c'hoazh
 pocket-panel-home-explore-more = Merdeiñ

@@ -190,6 +190,15 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [many] Dilemel { $count } a ditouroù kennaskañ eus an holl drevnadoù?
        *[other] Dilemel { $count } titour kennaskañ eus an holl drevnadoù?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Dilemel a raio an titour kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [one] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [two] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [few] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+        [many] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+       *[other] Dilemel a raio an titouroù kennaskañ enrollet e { -brand-short-name } war an holl drevnadoù goubredet war ho { -fxaccount-brand-name }. Dilemel a raio ivez ar galvoù frailhoù a vez skrammet amañ. Ne vo ket posupl deoc’h dizober ar gwered-mañ.
+    }
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c’hallo bezañ lennet gant an holl a c’hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
@@ -285,6 +294,14 @@ about-logins-import-dialog-items-modified =
         [many] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span>Titouroù kennaskañ hizivaet:</span><span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Eiladur titouroù kennaskañ kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+        [two] <span>Eiladur titouroù kennaskañ kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+        [few] <span>Eiladur titouroù kennaskañ kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+        [many] <span>Eiladur titouroù kennaskañ kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+       *[other] <span>Eiladur titouroù kennaskañ kavet:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(n'eo ket enporzhiet)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Fazioù:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ket enporzhiet)</span>
@@ -336,6 +353,30 @@ about-logins-import-report-added =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zitour kennaskañ nevez ouzhpennet</div>
         [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">A Ditouroù kennaskañ nevez ouzhpennet</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Titour kennaskañ nevez ouzhpennet</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Titour kennaskañ hizivaet</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Titour kennaskañ hizivaet</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Titour kennaskañ hizivaet</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Titour kennaskañ hizivaet</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Titour kennaskañ hizivaet</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur titouroù kennaskañ</div><div data-l10n-name="not-imported">(n'eo ket enporzhet)</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur titouroù kennaskañ</div><div data-l10n-name="not-imported">(n'eo ket enporzhet)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur titouroù kennaskañ</div><div data-l10n-name="not-imported">(n'eo ket enporzhet)</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">a eiladurioù titouroù kennaskañ</div><div data-l10n-name="not-imported">(n'eo ket enporzhet)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eiladur titouroù kennaskañ</div><div data-l10n-name="not-imported">(n'eo ket enporzhet)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">fazi</div><div data-l10n-name="not-imported">(ket enporzhet) </div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">fazi</div><div data-l10n-name="not-imported">(ket enporzhet) </div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">fazi</div><div data-l10n-name="not-imported">(ket enporzhet) </div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">fazi</div><div data-l10n-name="not-imported">(ket enporzhet) </div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">fazi</div><div data-l10n-name="not-imported">(ket enporzhet) </div>
     }
 
 ## Logins import report page
