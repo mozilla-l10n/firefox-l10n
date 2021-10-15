@@ -28,9 +28,26 @@ account-provisioner-button-back = Go back
 
 account-provisioner-fetching-provisioners = Retrieving provisioners…
 account-provisioner-connection-issues = Unable to communicate with our sign-up servers. Please check your connection.
+account-provisioner-searching-email = Searching for available email accounts…
+account-provisioner-searching-domain = Searching for available domains…
+account-provisioner-searching-error = Could not find any addresses to suggest. Try changing the search terms.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Choose which account to create
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] One available address found for:
+       *[other] { $count } available addresses found for:
+    }
+account-provisioner-mail-results-caption = You can try to search for nicknames or any other term to find more emails.
+account-provisioner-domain-results-caption = You can try to search for nicknames or any other term to find more domains.
+account-provisioner-free-account = Free
+account-provision-price-per-year = { $price } a year
+account-provisioner-all-results-button = Show all results
