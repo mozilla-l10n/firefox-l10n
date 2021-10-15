@@ -177,6 +177,11 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Rakarventennoù erbedet evit diveugañ an arloadoù gant un overhead izel.
 profiler-popup-presets-web-developer-label =
     .label = Diorroer web
+profiler-popup-presets-firefox-platform-label =
+    .label = Savenn Firefox
+profiler-popup-presets-firefox-front-end-description = Rakarventennoù erbedet evit diveugañ rakdraf diabarzh Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Rakdraf Firefox
 
 ## History panel
 
