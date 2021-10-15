@@ -157,6 +157,7 @@ account-setup-credentials-incomplete = Authentication failed. Either the entered
 account-setup-credentials-wrong = Authentication failed. Please check the username and password
 account-setup-find-settings-failed = { -brand-short-name } failed to find the settings for your email account
 account-setup-exchange-config-unverifiable = Configuration could not be verified. If your username and password are correct, it’s likely that the server administrator has disabled the selected configuration for your account. Try selecting another protocol.
+account-setup-provisioner-error = An error occurred while setting up your new account in { -brand-short-name }. Please, try to manually set up your account with your credentials.
 
 ## Manual configuration area
 
