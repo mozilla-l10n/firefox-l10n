@@ -11,6 +11,7 @@ account-provisioner-start-help = I termini di ricerca utilizzati vengono inviati
 account-provisioner-mail-account-title = Compra un nuovo indirizzo email
 account-provisioner-mail-account-description = Thunderbird collabora con <a data-l10n-name="mailfence-home-link">Mailfence</a> per offrirti un nuovo servizio di posta elettronica privato e sicuro, perché riteniamo che tutti abbiano diritto ad un servizio sicuro.
 account-provisioner-domain-title = Compra un indirizzo email con dominio personalizzato
+account-provisioner-domain-description = Thunderbird collabora con <a data-l10n-name="gandi-home-link">Gandi</a> per offrirti un dominio personalizzato: ciò ti consente di utilizzare qualsiasi indirizzo su quel dominio.
 
 ## Forms
 
