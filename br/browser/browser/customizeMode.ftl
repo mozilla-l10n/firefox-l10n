@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Dizober
 customize-mode-lwthemes-my-themes =
     .value = Ma neuzioù
+customize-mode-lwthemes-link = Merañ an neuzioù
 customize-mode-touchbar-cmd =
     .label = Personelaat ar varrenn-stok...
 customize-mode-downloads-button-autohide =

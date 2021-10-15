@@ -558,6 +558,10 @@ pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Sac’het eo ul lodenn eus al lec’hienn.</strong> Evit kelaouiñ { -brand-product-name } eus ar gudenn-se ha kempenn anezhi buanoc’h e c’hallit leuniañ un danevell.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Sac'het eo ul lodenn eus ar bajenn-mañ. Evit leuskel { -brand-product-name } da c'houzout ez eus bet ur gudenn ha kempenn anezhi buanoc'h, kinnig un danevell.
 crashed-subframe-learnmore-link =
     .value = Gouzout hiroc'h
 crashed-subframe-submit =
@@ -720,6 +724,9 @@ remote-tabs-sync-now = Goubredañ bremañ
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Muioc'h…
 ui-tour-info-panel-close =
     .tooltiptext = Serriñ
 
@@ -738,6 +745,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Na ziskouez ar gemennadenn-mañ pa vez harzet an diflugelloù
     .accesskey = D
+edit-popup-settings =
+    .label = Merañ arventennoù ar prenestroù diflugell...
+    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Kuzhat an afell skeudenn-ouzh-skeudenn
     .accesskey = K
@@ -784,3 +794,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Digeriñ an ivinelloù kent?</strong> Gallout a rit assav hoc'h estez kent adalek al lañser arload { -brand-short-name } <img data-l10n-name="icon"/>, dindan Roll istor
+restore-session-startup-suggestion-button = Diskouez din penaos ober

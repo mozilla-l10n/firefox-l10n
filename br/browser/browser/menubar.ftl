@@ -38,20 +38,16 @@ menu-quit =
             [windows] K
            *[other] K
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kuitaat { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Kuitaat { -brand-shorter-name }
-
 menu-about =
     .label = A-zivout { -brand-shorter-name }
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Kas an ere dre bostel…
     .accesskey = K
+menu-file-share-url =
+    .label = Rannañ
+    .accesskey = R
 menu-file-print-setup =
     .label = Arventennoù ar bajenn…
     .accesskey = A
@@ -168,7 +167,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stil pajennad eeun
     .accesskey = e
-
 menu-view-repair-text-encoding =
     .label = Ratreañ enkodadur an destenn
     .accesskey = k
@@ -214,7 +212,6 @@ menu-history-undo-menu =
     .label = Ivinelloù serret nevez zo
 menu-history-undo-window-menu =
     .label = Prenestroù serret nevez zo
-
 menu-history-reopen-all-tabs = Digeriñ en-dro an holl ivinelloù
 menu-history-reopen-all-windows = Digeriñ en-dro an holl brenestroù
 

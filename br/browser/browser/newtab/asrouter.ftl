@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Keweriuster erbedet
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
-
 cfr-doorhanger-extension-cancel-button = Ket bremañ
     .accesskey = K
-
 cfr-doorhanger-extension-ok-button = Ouzhpennañ bremañ
     .accesskey = O
-
 cfr-doorhanger-extension-manage-settings-button = Merañ an arventennoù erbediñ
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Na ziskouez din an erbedadenn-mañ
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Gouzout hiroc'h
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = gant { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Erbedadennoù
 cfr-doorhanger-extension-notification2 = Erbedadenn
     .tooltiptext = Erbedadenn askouezh
     .a11y-announcement = Erbedadenn askouezh egerzh
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Erbedadenn
@@ -71,8 +63,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } arveriad
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Goubredit ho sinedoù e pep lec'h.
@@ -93,49 +83,26 @@ cfr-protections-panel-link-text = Gouzout hiroc'h
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Keweriuster nevez:
-
 cfr-whatsnew-button =
     .label = Petra nevez
     .tooltiptext = Petra nevez
-
 cfr-whatsnew-release-notes-link-text = Lenn an notennoù ermaeziañ
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } en deus tanket ouzhpenn <b>{ $blockedCount }</b> heulier abaoe { DATETIME($date, month: "long", year: "numeric") }!
+        [two] { -brand-short-name } en deus tanket ouzhpenn <b>{ $blockedCount }</b> heulier abaoe { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } en deus tanket ouzhpenn <b>{ $blockedCount }</b> heulier abaoe { DATETIME($date, month: "long", year: "numeric") }!
+        [many] { -brand-short-name } en deus tanket ouzhpenn <b>{ $blockedCount }</b> a heulierien abaoe { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } en deus tanket ouzhpenn <b>{ $blockedCount }</b> heulier abaoe { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Gwelet pep tra
     .accesskey = G
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Serriñ
     .accesskey = S
 
