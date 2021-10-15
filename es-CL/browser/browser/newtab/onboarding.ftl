@@ -90,7 +90,10 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # choice to use Firefox over a larger competitor browser.
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = La llama empieza aquí
+mr1-welcome-screen-hero-text =
+    La flama
+    se enciende
+    aquí
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
