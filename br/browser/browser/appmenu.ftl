@@ -175,6 +175,8 @@ profiler-popup-capture-shortcut =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Rakarventennoù erbedet evit diveugañ an arloadoù gant un overhead izel.
+profiler-popup-presets-web-developer-label =
+    .label = Diorroer web
 
 ## History panel
 
