@@ -289,6 +289,27 @@ about-logins-import-report-row-description-error-missing-field = Faddina: ammanc
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale noa agiunta</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales noas agiuntas</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale esistente agiornada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales esistentes agiornadas</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale duplicada</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales duplicadas</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Faddina</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Faddinas</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Informe de su resumu de s'importatzione

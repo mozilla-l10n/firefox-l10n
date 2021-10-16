@@ -19,9 +19,27 @@ pocket-panel-saved-error-no-internet = Depes tènnere connessione a internet pro
 pocket-panel-saved-page-removed = Pàgina bogada
 pocket-panel-saved-page-saved = Sarvadu a { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Boghende sa pàgina…
+pocket-panel-saved-processing-tags = Agiunghende etichetas…
+pocket-panel-saved-remove-page = Boga sa pàgina
+pocket-panel-saved-save-tags = Sarva
+pocket-panel-saved-saving-tags = Sarvende...
+pocket-panel-saved-suggested-tags = Etichetas cussigiadas
+pocket-panel-saved-tags-saved = Etichetas agiuntas
+pocket-panel-signup-view-list = Ammustra sa lista
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = Ses giai utente de { -pocket-brand-name }?
+pocket-panel-signup-learn-more = Àteras informatziones
+pocket-panel-signup-login = Atzede
+pocket-panel-signup-signup-email = Registra·ti cun s'indiritzu eletrònicu
+pocket-panel-signup-signup-cta = Registra·ti a { -pocket-brand-name }. Est de badas.
+pocket-panel-signup-signup-firefox = Registra·ti cun { -brand-product-name }
+pocket-panel-signup-tagline = Sarva artìculos e vìdeos dae { -brand-product-name } pro ddos bìdere in { -pocket-brand-name } cando boles, in su dispositivu chi boles.
+pocket-panel-signup-tagline-story-one = Incarca su butone de { -pocket-brand-name } pro sarvare cale si siat artìculu, vìdeu o pàgina dae { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Ammustra is pàginas tuas in { -pocket-brand-name } cando boles, in su dispositivu chi boles.
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Sa lista mia
+pocket-panel-home-welcome-back = Ti donamus torra su benebènnidu!
