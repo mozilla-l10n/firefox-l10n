@@ -210,6 +210,12 @@ about-logins-import-file-picker-tsv-filter-title =
 
 about-logins-import-dialog-title = Importatzione cumpletada
 about-logins-import-dialog-done = Fatu
+about-logins-import-dialog-error-title = Faddina in s'importatzione
+about-logins-import-report-title = Resumu de s'importatzione
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Lìnia { $number }
 
 ##
 ## Variables:
