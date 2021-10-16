@@ -50,10 +50,10 @@ main-context-menu-open-link-new-window =
     .label = Aberi su ligòngiu in una ventana noa
     .accesskey = v
 main-context-menu-open-link-new-private-window =
-    .label = Aberi ligàmene in una ventana privada noa
+    .label = Aberi su ligòngiu in una ventana privada noa
     .accesskey = p
 main-context-menu-save-link =
-    .label = Sarva su ligàmene comente...
+    .label = Sarva su ligòngiu comente...
     .accesskey = g
 
 ## The access keys for "Copy Link" and "Copy Email Address"
@@ -140,7 +140,7 @@ main-context-menu-send-to-device =
 ##
 
 main-context-menu-link-send-to-device =
-    .label = Imbia ligàmene a su dispositivu
+    .label = Imbia su ligòngiu a su dispositivu
     .accesskey = d
 main-context-menu-view-page-source =
     .label = Visualiza su còdighe de sa pàgina
