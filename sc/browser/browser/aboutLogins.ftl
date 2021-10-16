@@ -5,7 +5,8 @@
 
 about-logins-page-title = Credentziales e craes
 login-filter =
-    .placeholder = Chirca atzessos
+    .placeholder = Chirca credentziales
+create-login-button = Crea atzessu nou
 fxaccounts-sign-in-text = Otene is craes tuas pro is àteros dispositivos tuos
 fxaccounts-sign-in-sync-button = Identìfica·ti a Sync
 fxaccounts-avatar-button =
@@ -18,6 +19,8 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru navigadore...
 about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
+about-logins-menu-menuitem-export-logins = Esporta credentziales...
+about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
 
 ## Login List
 
