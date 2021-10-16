@@ -146,7 +146,7 @@ profiler-popup-recording-screen = Запись…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
-    .label = Пользовательские
+    .label = Персональный
 profiler-popup-start-recording-button =
     .label = Начать запись
 profiler-popup-discard-button =
@@ -188,7 +188,7 @@ profiler-popup-presets-media-description = Рекомендуемые настр
 profiler-popup-presets-media-label =
     .label = Медиа
 profiler-popup-presets-custom-label =
-    .label = Пользовательские
+    .label = Персональный
 
 ## History panel
 
