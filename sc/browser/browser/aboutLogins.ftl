@@ -105,18 +105,25 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro modificare is credentzi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modìfica sa credentziale sarvada
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Pro bìdere sa crae tua, inserta is credentziales tuas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ammustra sa crae sarvada
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Pro copiare sa crae tua, inserta is credentziales tuas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = còpia sa crae sarvada
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Pro esportare is credentziales tuas, inserta cussas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esporta credentziales e craes sarvadas
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Inserta sa crae printzipale pro bìdere is credentziales e is craes sarvadas
 master-password-reload-button =
     .label = Atzede
     .accesskey = A
@@ -126,6 +133,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annulla
 confirmation-dialog-dismiss-button =
     .title = Annulla
+about-logins-confirm-remove-dialog-title = Boles bogare custa credentziale?
 confirm-delete-dialog-message = Custa atzione no dda podes annullare.
 about-logins-confirm-remove-dialog-confirm-button = Boga
 about-logins-confirm-remove-all-dialog-confirm-button-label =
@@ -151,6 +159,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
        *[other] Boles bogare totu is { $count } credentziales dae totu is dispositivos?
     }
 about-logins-confirm-export-dialog-title = Esporta credentziales e craes
+about-logins-confirm-export-dialog-message = Is craes tuas ant a èssere sarvadas comente testu leghìbile (comente «Cr@eN0Segura»), duncas chie si siat abèrgiat s'archìviu esportadu ddas at a pòdere bìdere.
 about-logins-confirm-export-dialog-confirm-button = Esporta...
 about-logins-alert-import-title = Importatzione cumpletada
 about-logins-alert-import-message = Visualiza su resumu detalliadu de s'importatzione
@@ -175,9 +184,18 @@ about-logins-vulnerable-alert-learn-more-link = Àteras informatziones
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Esistet giai un'intrada pro { $loginTitle } cun custu nòmine de utente. <a data-l10n-name="duplicate-link">Boles andare a cussa intrada?</a>
+# This is a generic error message.
+about-logins-error-message-default = Faddina in su sarvamentu de custa crae.
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Esporta s'archìviu de credentziales
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credentziales.csv
@@ -215,18 +233,57 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importatzione cumpletada
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Credentziale noa agiunta:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Credentziales noas agiuntas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Credentziale esistente agiornada:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Credentziales esistentes agiornadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Credentziale duplicada agatada:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importada)</span>
+       *[other] <span>Credentziales duplicadas agatadas:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importadas)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Faddina:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
+       *[other] <span>Faddinas:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
+    }
 about-logins-import-dialog-done = Fatu
 about-logins-import-dialog-error-title = Faddina in s'importatzione
+about-logins-import-dialog-error-conflicting-values-title = Prus valores in cunflitu pro una credentziale ispetzìfica
+about-logins-import-dialog-error-conflicting-values-description = Pro esempru: prus nòmines utentes, craes, URL, etc. pro una credentziale ispetzìfica.
+about-logins-import-dialog-error-file-format-title = Problema de formatu de s'archìviu
+about-logins-import-dialog-error-file-format-description = Is intestatziones de colunna ammancant o no sunt curretas. Assegura·ti chi s'archìviu includet colunnas pro su nòmine utente, sa crae e s'URL.
+about-logins-import-dialog-error-file-permission-title = Impossìbile lèghere s'archìviu
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } non tenet permissu pro lèghere s'archìviu. Proa a modificare is permissos de s'archìviu.
+about-logins-import-dialog-error-unable-to-read-title = Impossìbile analizare s'archìviu
+about-logins-import-dialog-error-unable-to-read-description = Assegura·ti chi as seberadu un'archìviu CSV o TSV.
+about-logins-import-dialog-error-no-logins-imported = Nissuna credentziale importada
+about-logins-import-dialog-error-learn-more = Àteras informatziones
+about-logins-import-dialog-error-try-import-again = Torra a proare s'importatzione...
+about-logins-import-dialog-error-cancel = Annulla
 about-logins-import-report-title = Resumu de s'importatzione
+about-logins-import-report-description = Credentziales e craes importadas a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Lìnia { $number }
+about-logins-import-report-row-description-no-change = Duplicadu: cointzidèntzia esata de una credentziale esistente
+about-logins-import-report-row-description-modified = Credentziale esistente agiornada
+about-logins-import-report-row-description-added = Credentziale noa agiunta
+about-logins-import-report-row-description-error = Faddina: ammancat unu campu
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Faddina: prus valores pro { $field }
+about-logins-import-report-row-description-error-missing-field = Faddina: ammancat { $field }
 
 ##
 ## Variables:
