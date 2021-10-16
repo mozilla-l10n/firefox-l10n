@@ -28,6 +28,7 @@ about-private-browsing-learn-more-link = Pelajari lebih lanjut
 about-private-browsing-hide-activity = Sembunyikan aktivitas dan lokasi Anda, di mana pun Anda menjelajah
 about-private-browsing-get-privacy = Dapatkan perlindungan privasi di mana pun saat Anda menjelajah
 about-private-browsing-hide-activity-1 = Sembunyikan aktivitas dan lokasi penjelajahan dengan { -mozilla-vpn-brand-name }. Satu klik menciptakan koneksi aman, bahkan di Wi-Fi publik.
+about-private-browsing-prominent-cta = Jaga privasi dengan { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
