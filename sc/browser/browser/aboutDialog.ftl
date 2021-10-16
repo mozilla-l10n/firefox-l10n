@@ -26,7 +26,21 @@ update-restarting = Torrende a aviare
 channel-description = Como ses in su <label data-l10n-name="current-channel"></label> canale de agiornamentos.
 warningDesc-version = { -brand-short-name } est isperimentale e diat pòdere no èssere istàbile.
 aboutdialog-help-user = Agiudu de { -brand-product-name }
+aboutdialog-submit-feedback = Imbia cummentos
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> est una <label data-l10n-name="community-exp-creditsLink">comunidade globale</label> chi traballat impare pro mantènnere sa rete aberta, pùblica e atzessìbile a totus.
+community-2 = { -brand-short-name } est designadu dae <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidade globale</label> chi traballat impare pro mantènnere sa rete aberta, pùblica e atzèssibile a totus.
 helpus = Cheres agiudare? <label data-l10n-name="helpus-donateLink">Faghe unu donu</label> o <label data-l10n-name="helpus-getInvolvedLink">ìmplica·ti!</label>
 bottomLinks-license = Informatziones de sa lissèntzia
 bottomLinks-rights = Deretos de s'utente
 bottomLinks-privacy = Polìtica de sa riservadesa
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits } bit)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits } bit)

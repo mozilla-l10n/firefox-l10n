@@ -4,6 +4,8 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Atzessos e craes
+login-filter =
+    .placeholder = Chirca atzessos
 fxaccounts-sign-in-text = Otene is craes tuas pro is àteros dispositivos tuos
 fxaccounts-sign-in-sync-button = Identìfica·ti a Sync
 fxaccounts-avatar-button =
