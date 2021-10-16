@@ -24,5 +24,5 @@ install-failed-message = Не удалось установить { -brand-short
 
 prompt-to-launch-existing-app-title = Открыть существующее приложение { -brand-short-name }?
 prompt-to-launch-existing-app-message = Вы уже установили { -brand-short-name }. Используйте установленное приложение, чтобы поддерживать его в актуальном состоянии и предотвратить потерю данных.
-prompt-to-launch-existing-app-yes-button = Открыть существующее
+prompt-to-launch-existing-app-yes-button = Открыть существующее приложение
 prompt-to-launch-existing-app-no-button = Нет, спасибо

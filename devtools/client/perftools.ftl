@@ -131,7 +131,7 @@ perftools-presets-firefox-graphics-label = Графика Firefox
 perftools-presets-firefox-graphics-description = Рекомендуемые настройки для исследования производительности графики Firefox.
 perftools-presets-media-label = Медиа
 perftools-presets-media-description = Рекомендуемые настройки для диагностики проблем со звуком и видео.
-perftools-presets-custom-label = Пользовательские
+perftools-presets-custom-label = Персональный
 
 ##
 
