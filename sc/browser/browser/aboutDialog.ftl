@@ -8,7 +8,10 @@ releaseNotes-link = Novidades
 update-checkForUpdatesButton =
     .label = Controlla agiornamentos
     .accesskey = C
-update-checkingForUpdates = Controllende sos agiornamentos...
+update-updateButton =
+    .label = Torra a aviare pro agiornare { -brand-shorter-name }
+    .accesskey = R
+update-checkingForUpdates = Controllende is agiornamentos...
 update-downloading = <img data-l10n-name="icon"/>Iscarrighende agiornamentu — <label data-l10n-name="download-status"/>
 update-applying = Aplichende agiornamentu...
 update-failed = Agiornamentu faddidu. <label data-l10n-name="failed-link">Iscàrriga s'ùrtima versione</label>
