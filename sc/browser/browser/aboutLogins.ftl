@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Atzessos e craes
+about-logins-page-title = Credentziales e craes
 login-filter =
     .placeholder = Chirca atzessos
 fxaccounts-sign-in-text = Otene is craes tuas pro is àteros dispositivos tuos
