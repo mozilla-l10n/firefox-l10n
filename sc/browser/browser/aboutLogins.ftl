@@ -25,6 +25,8 @@ about-logins-menu-menuitem-help = Agiudu
 
 ## Login List
 
+login-list =
+    .aria-label = Credentziales chi cointzident cun is critèrios de chirca
 login-list-count =
     { $count ->
         [one] { $count } credentziale
@@ -61,6 +63,8 @@ login-intro-description = Si as sarvadu is credentziales tuas in { -brand-produc
 login-intro-instructions-fxa = Crea o atzede a su { -fxaccount-brand-name } tuo in su dispositivu in ue sunt sarvadas is credentziales.
 login-intro-instructions-fxa-settings = Bae a Cunfiguratzione > Sincroniza > Ativa sincronizatzione... Seletziona sa casella «Credentziales e craes».
 login-intro-instructions-fxa-help = Bìsita s'<a data-l10n-name="help-link">{ -lockwise-brand-short-name }assistèntzia</a> pro àteru agiudu.
+about-logins-intro-import = Si is credentziales tuas sunt sarvadas in un'àteru navigadore, ddas podes <a data-l10n-name="import-link">importare a { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Si is credentziales tuas sunt sarvadas a foras de { -brand-product-name }, ddas podes <a data-l10n-name="import-browser-link">importare dae un'àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un'archìviu</a>
 
 ## Login
 
@@ -68,6 +72,7 @@ login-item-new-login-title = Crea credentziales noas
 login-item-edit-button = Modìfica
 about-logins-login-item-remove-button = Boga
 login-item-origin-label = Indiritzu de su situ
+login-item-tooltip-message = Assegura·ti chi cointzidet cun s'indiritzu esatu de su situ a su chi atzedes.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nòmine utente
@@ -84,6 +89,7 @@ login-item-save-changes-button = Sarva is modìficas
 login-item-save-new-button = Sarva
 login-item-cancel-button = Annulla
 login-item-time-changed = Ùrtima modìfica: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Data de creatzione: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ùrtimu impreu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
