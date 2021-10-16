@@ -25,6 +25,7 @@ update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="un
 update-restarting = Torrende a aviare
 channel-description = Como ses in su <label data-l10n-name="current-channel"></label> canale de agiornamentos.
 warningDesc-version = { -brand-short-name } est isperimentale e diat pòdere no èssere istàbile.
+aboutdialog-help-user = Agiudu de { -brand-product-name }
 helpus = Cheres agiudare? <label data-l10n-name="helpus-donateLink">Faghe unu donu</label> o <label data-l10n-name="helpus-getInvolvedLink">ìmplica·ti!</label>
 bottomLinks-license = Informatziones de sa lissèntzia
 bottomLinks-rights = Deretos de s'utente
