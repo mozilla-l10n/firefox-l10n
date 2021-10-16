@@ -32,4 +32,9 @@ restore-page-close-button =
 welcome-back-tab-title = Fatu.
 welcome-back-page-title = Revèntida!
 welcome-back-page-info = { -brand-short-name } est prontu.
-welcome-back-restore-some-label = Ripristina petzi sas chi cheres
+welcome-back-restore-button =
+    .label = Bae!
+    .accesskey = B
+welcome-back-restore-all-label = Recùpera totu is ventanas e ischedas
+welcome-back-restore-some-label = Recùpera isceti cussas chi boles
+welcome-back-page-info-link = Is cumplementos e is personalizatziones sunt istadas bogadas e is cunfiguratziones predefinidas de su navigadore sunt istadas recuperadas. Si custu no acontzat su problema, <a data-l10n-name="link-more">leghe ite àteru podes fàghere.</a>
