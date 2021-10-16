@@ -21,9 +21,37 @@ about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru n
 about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
 about-logins-menu-menuitem-export-logins = Esporta credentziales...
 about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
+about-logins-menu-menuitem-help = Agiudu
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } credentziale
+       *[other] { $count } credentziales
+    }
+login-list-sort-label-text = Assenta segundu:
+login-list-name-option = Nòmine (A-Z)
+login-list-name-reverse-option = Nòmine (Z-A)
+login-list-username-option = Nòmine utente (A-Z)
+login-list-username-reverse-option = Nòmine utente (Z-A)
+about-logins-login-list-alerts-option = Avisos
+login-list-last-changed-option = Ùrtima modìfica
+login-list-last-used-option = Ùrtimu impreu
+login-list-intro-title = Credentziales no agatadas
+login-list-intro-description = Cando sarvas una crae in { -brand-product-name }, at a aparèssere inoghe.
+about-logins-login-list-empty-search-title = Credentziales no agatadas
+about-logins-login-list-empty-search-description = Non b'at resurtados chi currispondent a sa chirca tua.
+login-list-item-title-new-login = Credentziale noa
+login-list-item-subtitle-new-login = Inserta is credentziales de atzessu tuas
+login-list-item-subtitle-missing-username = (nissunu nòmine utente)
+about-logins-list-item-vulnerable-password-icon =
+    .title = Crae non segura
+about-logins-list-section-vulnerable = Craes non seguras
+about-logins-list-section-nothing = Nissunu avisu
+about-logins-list-section-today = Oe
+about-logins-list-section-yesterday = Eris
+about-logins-list-section-week = Ùrtimas 7 dies
 
 ## Introduction screen
 
