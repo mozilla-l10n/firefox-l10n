@@ -10,3 +10,22 @@ cert-error-mitm-connection = { -brand-short-name } impreat su magasinu de CA de 
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Impossìbile connètere
+deniedPortAccess-title = Indiritzu restrintu
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = No renessimus a agatare custu situ.
+fileNotFound-title = Archìviu no agatadu
+fileAccessDenied-title = Atzessu denegadu a s'archìviu
+generic-title = Oia.
+captivePortal-title = Atzede a sa rete
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Custu indiritzu non paret giustu.
+netInterrupt-title = Connessione interrùmpida
+notCached-title = Documentu iscadidu
+netOffline-title = Modalidade foras de lìnia
+contentEncodingError-title = Faddina de codìfica de su cuntenutu
+unsafeContentType-title = Tipu de archìviu non seguru
+netReset-title = Connessione torrada a aviare
+netTimeout-title = Tempus pro sa connessione iscadidu
