@@ -43,3 +43,7 @@ pocket-panel-signup-tagline-story-two = Ammustra is pàginas tuas in { -pocket-b
 
 pocket-panel-home-my-list = Sa lista mia
 pocket-panel-home-welcome-back = Ti donamus torra su benebènnidu!
+pocket-panel-home-paragraph = Podes impreare { -pocket-brand-name } pro esplorare e sarvare sitos, artìculos, vìdeos, podcasts o pro torrare a su chi fias leghende.
+pocket-panel-home-explore-popular-topics = Esplora argumentos populares
+pocket-panel-home-discover-more = Iscoberi·nde àteros
+pocket-panel-home-explore-more = Esplora

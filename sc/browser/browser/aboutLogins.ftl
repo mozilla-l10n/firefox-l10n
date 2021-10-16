@@ -21,6 +21,11 @@ about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru n
 about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
 about-logins-menu-menuitem-export-logins = Esporta credentziales...
 about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Optziones
+       *[other] Preferèntzias
+    }
 about-logins-menu-menuitem-help = Agiudu
 
 ## Login List
