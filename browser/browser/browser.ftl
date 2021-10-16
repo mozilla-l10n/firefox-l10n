@@ -513,6 +513,12 @@ urlbar-result-action-search-tabs = Bilatu fitxak
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine }(r)en iradokizunak
 
 ## Full Screen and Pointer Lock UI
 
@@ -759,3 +765,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Zerrendatu fitxa guztiak
     .tooltiptext = Zerrendatu fitxa guztiak
+
+## Infobar shown at startup to suggest session-restore
+
