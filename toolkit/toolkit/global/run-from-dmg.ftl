@@ -22,4 +22,7 @@ install-failed-message = Houve falha na instalação do { -brand-short-name }, m
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = Abrir o aplicativo { -brand-short-name } existente?
+prompt-to-launch-existing-app-message = O { -brand-short-name } já está instalado. Use o aplicativo existente para manter-se atualizado e evitar perda de dados.
+prompt-to-launch-existing-app-yes-button = Abrir existente
 prompt-to-launch-existing-app-no-button = Não, obrigado
