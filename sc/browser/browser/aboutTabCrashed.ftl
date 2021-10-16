@@ -18,3 +18,4 @@ crashed-comment =
 crashed-include-URL-2 = Include is URL de is sitos chi fias bisitende cando { -brand-short-name } est faddidu
 crashed-report-sent = Informe de faddina imbiadu. Gràtzias de agiudare a megiorare { -brand-short-name }!
 crashed-request-auto-submit-title = Signala ischedas in segundu pranu
+crashed-auto-submit-checkbox-2 = Agiorna is preferèntzias pro imbiare informes de faddina { -brand-short-name } in automàticu.
