@@ -64,6 +64,19 @@ upgrade-dialog-default-secondary-button = Не сейчас
 upgrade-dialog-theme-title-2 = Начните с чистого листа со свежей темой
 upgrade-dialog-theme-system = Системная тема
     .title = Следовать теме операционной системы для кнопок, меню и окон
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Жизнь в цвете
+upgrade-dialog-start-subtitle = Яркие новые расцветки. Доступны в течение ограниченного времени.
+upgrade-dialog-start-primary-button = Взгляните на цветовые расцветки
+upgrade-dialog-start-secondary-button = Не сейчас
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Выберите свою палитру
 upgrade-dialog-theme-light = Светлая
     .title = Использовать светлую тему для кнопок, меню и окон
 upgrade-dialog-theme-dark = Тёмная
@@ -74,3 +87,6 @@ upgrade-dialog-theme-keep = Оставить предыдущую
     .title = Оставить тему, которую вы установили до обновления { -brand-short-name }
 upgrade-dialog-theme-primary-button = Выбрать тему
 upgrade-dialog-theme-secondary-button = Не сейчас
+
+## Thank you screen
+
