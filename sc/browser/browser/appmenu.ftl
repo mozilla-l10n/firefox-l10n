@@ -5,14 +5,49 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = Iscarrighende s'agiornamentu de { -brand-shorter-name }
+    .label-update-available = Agiornamentu a disponimentu — iscàrriga immoe
+    .label-update-manual = Agiornamentu a disponimentu — iscàrriga immoe
+    .label-update-unsupported = Impossìbile agiornare — sistema non cumpatìbile
+    .label-update-restart = Agiornamentu a disponimentu — torra a aviare immoe
+appmenuitem-protection-dashboard-title = Pannellu de protetziones
+appmenuitem-new-tab =
+    .label = Ischeda noa
 appmenuitem-new-window =
     .label = Ventana noa
 appmenuitem-new-private-window =
     .label = Ventana privada noa
 appmenuitem-history =
     .label = Cronologia
+appmenuitem-downloads =
+    .label = Iscarrigamentos
+appmenuitem-passwords =
+    .label = Craes
+appmenuitem-addons-and-themes =
+    .label = Cumplementos e temas
+appmenuitem-print =
+    .label = Imprenta...
+appmenuitem-find-in-page =
+    .label = Chirca in sa pàgina...
+appmenuitem-zoom =
+    .value = Ingrandimentu
+appmenuitem-more-tools =
+    .label = Àteros istrumentos
 appmenuitem-help =
     .label = Agiudu
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Essi
+           *[other] Essi
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Aberi su menù de s'aplicatzione
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Serra su menù de s'aplicatzione
+    .label = { -brand-short-name }
 
 ## Zoom and Fullscreen Controls
 
@@ -30,6 +65,15 @@ appmenu-remote-tabs-notabs = Peruna ischeda aberta
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 ## History panel
