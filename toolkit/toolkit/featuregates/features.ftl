@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = CSS Masonry Layout eginbide espe
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: teilakatutako geruzak
+experimental-features-css-cascade-layers-description = CSS teilakatutako geruzen euskarria gaitzen du. Xehetasunetarako ikusi <a data-l10n-name="spec">lantze-fasean dagoen espezifikazioa<</a>. Eginbide honekin lotutako akatsetarako, osatu bug berriak <a data-l10n-name="bugzilla">1699215 buga</a> blokeatuz.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
