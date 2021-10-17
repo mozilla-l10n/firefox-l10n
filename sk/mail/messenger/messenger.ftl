@@ -10,7 +10,6 @@ unread-messages-os-tooltip =
         [few] { $count } neprečítané správy
        *[other] { $count } neprečítaných správ
     }
-
 about-rights-notification-text = { -brand-short-name } je voľne šíriteľný otvorený softvér vytvorený spoločenstvom tisícov prispievateľov z celého sveta.
 
 ## Content tabs
@@ -27,11 +26,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Doplnky a témy
     .tooltiptext = Správa doplnkov a tém
-
 quick-filter-toolbarbutton =
     .label = Rýchly filter
     .tooltiptext = Umožní filtrovanie správ
-
 redirect-msg-button =
     .label = Presmerovať
     .tooltiptext = Presmerovať vybranú správu
@@ -41,10 +38,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Nástroje panela priečinkov
     .accesskey = a
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Možnosti panela priečinkov
-
 folder-pane-header-label = Priečinky
 
 ## Folder Toolbar Header Popup
@@ -52,27 +47,21 @@ folder-pane-header-label = Priečinky
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Skryť panel nástrojov
     .accesskey = S
-
 show-all-folders-label =
     .label = Všetky priečinky
     .accesskey = V
-
 show-unread-folders-label =
     .label = Neprečítané priečinky
     .accesskey = e
-
 show-favorite-folders-label =
     .label = Obľúbené priečinky
     .accesskey = O
-
 show-smart-folders-label =
     .label = Zoskupené priečinky
     .accesskey = Z
-
 show-recent-folders-label =
     .label = Najnovšie priečinky
     .accesskey = N
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktné zobrazenie
     .accesskey = K
@@ -82,26 +71,26 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Presmerovať
     .accesskey = r
+menu-file-save-as-file =
+    .label = Súbor…
+    .accesskey = S
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Súbor…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Nastavenia
-
 appmenu-addons-and-themes =
     .label = Doplnky a témy
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Režim riešenia problémov…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Vypnúť režim riešenia problémov
-
 appmenu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
-
 appmenu-redirect-msg =
     .label = Presmerovať
 
@@ -128,7 +117,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adresa sa nachádza v adresári kontaktov
-
 message-header-address-not-in-address-book-icon =
     .alt = Adresa sa nenachádza v adresári kontaktov
 
@@ -139,11 +127,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Odstrániť { $name }?
 addon-removal-confirmation-button = Odstrániť
 addon-removal-confirmation-message = Odstrániť doplnok { $name }, ako aj jeho konfiguráciu a údaje z aplikácie { -brand-short-name }?
-
 caret-browsing-prompt-title = Prehliadanie pomocou klávesnice
 caret-browsing-prompt-text = Stlačením klávesu F7 zapnete alebo vypnete prehliadanie pomocou klávesnice. Táto funkcia umiestni do webovej stránky posúvateľný kurzor, ktorý umožňuje označovať text pomocou klávesnice. Chcete zapnúť prehliadanie pomocou klávesnice?
 caret-browsing-prompt-check-text = Nabudúce sa už nepýtať
-
 repair-text-encoding-button =
     .label = Opraviť kódovanie textu
     .tooltiptext = Pokúsi sa odhadnúť kódovanie textu podľa obsahu správy
