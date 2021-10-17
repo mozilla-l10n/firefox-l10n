@@ -43,6 +43,8 @@ lockwise-header-content = { -lockwise-brand-name } گذرواژه‌های شم�
 lockwise-header-content-logged-in = ذخیره امن گذرواژه‌ها و همگام‌سازی با تمام دستگاه های شما.
 monitor-title = مواضب نشت اطلاعات باشید
 monitor-link = چگونه کار می‌کند
+monitor-header-content-no-account = { -monitor-brand-name } را بررسی کنید تا ببینید آیا تاکنون بخشی از نشت‌های اطلاعاتی شناخته شده بوده‌اید یا خیر، و در مورد نشت‌های جدید هشدار دریافت نمایید.
+monitor-header-content-signed-in = { -monitor-brand-name } اگر اطلاعات شما در نشت‌های اطلاعاتی شناخته شده باشد، به شما هشدار می‌دهد.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
