@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = برگردان
 customize-mode-lwthemes-my-themes =
     .value = تم‌های من
+customize-mode-lwthemes-link = مدیریت تم‌ها
 customize-mode-touchbar-cmd =
     .label = تنظیم کردن نوار لمسی…
 customize-mode-downloads-button-autohide =
