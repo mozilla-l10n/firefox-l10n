@@ -159,6 +159,7 @@ language-name-ru = Errusiera
 language-name-rw = Kinyarwandaera
 language-name-sa = Sanskritoa
 language-name-sc = Sardiera
+language-name-sco = Eskoziera
 language-name-sd = Sindiera
 language-name-se = Iparraldeko Samiera
 language-name-sg = Sangroa
