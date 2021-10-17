@@ -17,3 +17,12 @@ prompt-to-install-no-button = Neinštalovať
 
 install-failed-title = Inštalácia aplikácie { -brand-short-name } zlyhala.
 install-failed-message = { -brand-short-name } sa nepodarilo nainštalovať, ale bude naďalej fungovať.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Chcete otvoriť existujúcu aplikáciu { -brand-short-name }?
+prompt-to-launch-existing-app-message = { -brand-short-name } už máte nainštalovaný. Použite už nainštalovanú aplikáciu, aby ste predišli strate dát.
+prompt-to-launch-existing-app-yes-button = Otvoriť existujúcu
+prompt-to-launch-existing-app-no-button = Nie, ďakujem

@@ -19,6 +19,16 @@ about-unloads-intro-2 =
     zobrazuje <strong>tučne</strong>, ak je hostiteľom hlavného rámca karty,
     a <em>kurzívou</em>, ak je proces zdieľaný medzi rôznymi kartami.
     Uvoľnenie kariet môžete spustiť ručne kliknutím na tlačidlo <em>Uvoľniť</em>.
+about-unloads-intro =
+    { -brand-short-name } obsahuje funkciu, ktorá automaticky uvoľňuje karty,
+    aby sa zabránilo zlyhaniu aplikácie z dôvodu nedostatočného množstva voľnej
+    systémovej pamäte. Karta, ktorá bude uvoľnená ako ďalšia v poradí, je vybratá
+    na základe viacerých atribútov. Táto stránka ukazuje ako { -brand-short-name }
+    prioritizuje karty a určuje, ktorá karta sa najbližšie uvoľní. Uvoľnenie kariet môžete
+    spustiť aj ručne kliknutím na tlačidlo <em>Uvoľniť</em>.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Ďalšie informácie o funkcii a tejto stránke nájdete v časti <a data-l10n-name="doc-link">Uvoľňovanie kariet</a>.
 about-unloads-last-updated = Naposledy aktualizované: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Uvoľniť
     .title = Uvoľní kartu s najvyššou prioritou
