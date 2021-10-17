@@ -178,6 +178,17 @@ profiler-popup-presets-web-developer-label =
 profiler-popup-presets-firefox-platform-description = Rekomenduojamas nustatymas vidinės „Firefox“ platformos derinimui.
 profiler-popup-presets-firefox-platform-label =
     .label = „Firefox“ platforma
+profiler-popup-presets-firefox-front-end-description = Rekomenduojamas nustatymas vidinio „Firefox“ „front-end“ derinimui.
+profiler-popup-presets-firefox-front-end-label =
+    .label = „Firefox“ front-end
+profiler-popup-presets-firefox-graphics-description = Rekomenduojamas nustatymas „Firefox“ grafinio našumo tyrinėjimui.
+profiler-popup-presets-firefox-graphics-label =
+    .label = „Firefox“ grafika
+profiler-popup-presets-media-description = Rekomenduojamas nustatymas garso ir vaizdo problemų diagnozavimui.
+profiler-popup-presets-media-label =
+    .label = Medija
+profiler-popup-presets-custom-label =
+    .label = Kitas
 
 ## History panel
 
