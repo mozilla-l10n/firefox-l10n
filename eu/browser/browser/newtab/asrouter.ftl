@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Gomendatutako eginbidea
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
-
 cfr-doorhanger-extension-cancel-button = Une honetan ez
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Gehitu orain
     .accesskey = G
-
 cfr-doorhanger-extension-manage-settings-button = Kudeatu gomendioen ezarpenak
     .accesskey = K
-
 cfr-doorhanger-extension-never-show-recommendation = Ez erakutsi gomendio hau
     .accesskey = z
-
 cfr-doorhanger-extension-learn-more-link = Argibide gehiago
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = egilea: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Gomendioa
 cfr-doorhanger-extension-notification2 = Gomendioa
     .tooltiptext = Hedapenaren gomendioa
     .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Gomendioa
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } erabiltzaile
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronizatu laster-markak edonon.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Argibide gehiago
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Eginbide berria:
-
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
-
 cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -123,20 +93,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Itxi
     .accesskey = x
 
@@ -160,6 +116,8 @@ cfr-doorhanger-fission-secondary-button = Argibide gehiago
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Gune honetako bideoak agian ez dira ondo erreproduzituko { -brand-short-name } bertsio honetan. Bideo-euskarri osorako, eguneratu { -brand-short-name } orain.
+cfr-doorhanger-video-support-header = Eguneratu { -brand-short-name } bideoa erreproduzitzeko
 cfr-doorhanger-video-support-primary-button = Eguneratu orain
     .accesskey = E
 
@@ -169,5 +127,6 @@ cfr-doorhanger-video-support-primary-button = Eguneratu orain
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Badirudi Wi-Fi publikoa darabilzula
 spotlight-public-wifi-vpn-link = Une honetan ez
     .accesskey = z

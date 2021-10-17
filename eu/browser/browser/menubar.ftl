@@ -38,20 +38,16 @@ menu-quit =
             [windows] I
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Irten { -brand-shorter-name }(e)tik
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Irten { -brand-shorter-name }(e)tik
-
 menu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Bidali lotura postaz…
     .accesskey = s
+menu-file-share-url =
+    .label = Partekatu
+    .accesskey = P
 menu-file-print-setup =
     .label = Prestatu orria…
     .accesskey = u
