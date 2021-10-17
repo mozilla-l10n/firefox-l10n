@@ -151,7 +151,8 @@ mr1-onboarding-import-primary-button-label-attribution = وارد کردن از 
 mr1-onboarding-import-primary-button-label-no-attribution = وارد کردن از مرورگر قبلی
 mr1-onboarding-import-secondary-button-label = اکنون نه
 mr2-onboarding-colorway-header = زندگی با رنگ‌ها
-mr2-onboarding-colorway-primary-button-label = ذخیره
+mr2-onboarding-colorway-subtitle = رنگ‌بندی‌هایِ جدید و با طراوت. در دسترس برای مدتی محدود.
+mr2-onboarding-colorway-primary-button-label = ذخیره رنگ‌بندی
 mr2-onboarding-colorway-secondary-button-label = اکنون نه
 mr2-onboarding-colorway-label-soft = ملایم
 mr2-onboarding-colorway-label-balanced = متعادل
@@ -267,6 +268,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         استفاده از تم پویا و رنگی
         برای دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = استفاده از این رنگ‌بندی.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = استفاده از این رنگ‌بندی.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = بررسی رنگ‌بندی { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = استفاده از رنگ‌بندی { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = بررسی تم‌های پیش‌فرض.
@@ -277,3 +296,4 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = از اینکه ما را انتخاب کردید، متشکریم
+mr2-onboarding-start-browsing-button-label = شروع به مرور اینترنت کنید
