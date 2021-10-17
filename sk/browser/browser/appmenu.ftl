@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Nástroj na profilovanie
     .tooltiptext = Záznam výkonu
+profiler-popup-button-recording =
+    .label = Nástroj na profilovanie
+    .tooltiptext = Nástroj na profilovanie vykonáva záznam profilu
+profiler-popup-button-capturing =
+    .label = Nástroj na profilovanie
+    .tooltiptext = Nástroj na profilovanie zaznamenáva profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -166,6 +172,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Odporúčaná predvoľba pre väčšinu ladení webových aplikácií s nízkymi nárokmi na výkon.
+profiler-popup-presets-web-developer-label =
+    .label = Webový vývojár
+profiler-popup-presets-firefox-platform-description = Odporúčaná predvoľba pre ladenie internej platformy Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Platforma Firefox
+profiler-popup-presets-firefox-front-end-description = Odporúčaná predvoľba pre vnútorné ladenie klientskeho rozhrania Firefoxu.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Klientske rozhranie Firefoxu
+profiler-popup-presets-firefox-graphics-description = Odporúčaná predvoľba na skúmanie výkonu grafiky vo Firefoxe.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Grafika vo Firefoxe
+profiler-popup-presets-media-description = Odporúčaná predvoľba na diagnostiku problémov so zvukom a videom.
+profiler-popup-presets-media-label =
+    .label = Médiá
+profiler-popup-presets-custom-label =
+    .label = Vlastné
 
 ## History panel
 
