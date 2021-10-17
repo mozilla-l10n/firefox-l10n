@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profil sortzailea
     .tooltiptext = Grabatu errendimenduaren profila
+profiler-popup-button-recording =
+    .label = Profil sortzailea
+    .tooltiptext = Profil sortzailea profila grabatzen ari da
+profiler-popup-button-capturing =
+    .label = Profil sortzailea
+    .tooltiptext = Profil sortzailea profila kapturatzen ari da
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
+profiler-popup-presets-web-developer-label =
+    .label = Web garapena
+profiler-popup-presets-firefox-platform-description = Firefox plataformaren barneko arazketarako gomendatutako aurrezarpena.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox Plataforma
+profiler-popup-presets-firefox-front-end-description = Firefox frontend-aren barneko arazketarako gomendatutako aurrezarpena.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox Frontend
+profiler-popup-presets-firefox-graphics-description = Firefox grafikoen errendimenduaren ikerketarako gomendatutako aurrezarpena.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox Grafikoak
+profiler-popup-presets-media-description = Audio- eta bideo-arazoak diagnostikatzeko gomendatutako aurrezarpena.
+profiler-popup-presets-media-label =
+    .label = Multimedia
+profiler-popup-presets-custom-label =
+    .label = Pertsonalizatua
 
 ## History panel
 

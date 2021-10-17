@@ -21,12 +21,15 @@ about-private-browsing-handoff-text = Bilatu { $engine } erabiliz edo idatzi hel
 about-private-browsing-handoff-text-no-engine = Bilatu edo idatzi helbidea
 about-private-browsing-not-private = Une honetan ez zaude leiho pribatu batean.
 about-private-browsing-info-description = { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen du aplikazioa ixtean edo nabigatze pribatuko fitxa eta leiho guztiak ixtean. Honek ez zaitu anonimo egiten webguneen edo zure interneteko zerbitzu-hornitzailearen aurrean baina erraztu egiten du ordenagailu hau erabiltzen duten beste erabiltzaileengandik online duzun jarduera pribatu mantentzea.
-
 about-private-browsing-need-more-privacy = Pribatutasun gehiago behar duzu?
 about-private-browsing-turn-on-vpn = Probatu { -mozilla-vpn-brand-name }
-
+about-private-browsing-info-description-private-window = Leiho pribatua: { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen ditu leiho pribatu guztiak ixtean. Honek ez zaitu anonimo egiten.
+about-private-browsing-info-description-simplified = { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen ditu leiho pribatu guztiak ixtean baina honek ez zaitu anonimo egiten.
 about-private-browsing-learn-more-link = Argibide gehiago
-
+about-private-browsing-hide-activity = Ezkutatu zure jarduera eta kokapena, nabigatzen duzun toki orotan
+about-private-browsing-get-privacy = Eskuratu pribatutasun-babesak nabigatzen duzun toki orotan
+about-private-browsing-hide-activity-1 = Ezkutatu nabigazio-jarduera eta kokapena { -mozilla-vpn-brand-name } erabiliz. Klik bakarrak konexio segurua sortzen du, baita Wi-Fi publikoetan ere.
+about-private-browsing-prominent-cta = Mantendu pribatu { -mozilla-vpn-brand-name } erabiliz
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

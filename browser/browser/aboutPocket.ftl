@@ -11,11 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Gehitu etiketak
-
 pocket-panel-saved-error-generic = Errorea gertatu da { -pocket-brand-name }-en gordetzen saiatzean.
 pocket-panel-saved-error-tag-length = Etiketak 25 karakterera daude mugatuta
 pocket-panel-saved-error-only-links = Loturak gorde daitezke soilik
 pocket-panel-saved-error-not-saved = Ez da orria gorde
+pocket-panel-saved-error-no-internet = Internetera konektatuta egon behar duzu { -pocket-brand-name }-en gorde ahal izateko. Konektatu internetera eta saiatu berriro.
 pocket-panel-saved-page-removed = Orria kenduta
 pocket-panel-saved-page-saved = { -pocket-brand-name }-en gordeta
 pocket-panel-saved-processing-remove = Orria kentzen…
