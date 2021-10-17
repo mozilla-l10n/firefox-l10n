@@ -180,23 +180,73 @@ profiler-popup-presets-firefox-platform-label =
 profiler-popup-presets-firefox-front-end-description = Paràmetros cussigiados pro sa curretzione de faddinas interna de s'interfàtzia (front-end) de Firefox.
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox Front-end
+profiler-popup-presets-firefox-graphics-description = Paràmetros cussigiados pro s'investigatzione de su rendimentu gràficu de Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Gràfica de Firefox
+profiler-popup-presets-media-description = Paràmetros cussigiados pro sa diàgnosi de problemas de àudio e de vìdeu.
+profiler-popup-presets-media-label =
+    .label = Multimediale
+profiler-popup-presets-custom-label =
+    .label = Personalizadu
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Gesti sa cronologia
+appmenu-reopen-all-tabs = Torra a abèrrere totu is ischedas
+appmenu-reopen-all-windows = Torra a abèrrere totu is ventanas
+appmenu-restore-session =
+    .label = Recùpera sa sessione pretzedente
+appmenu-clear-history =
+    .label = Lìmpia sa cronologia reghente...
+appmenu-recent-history-subheader = Cronologia reghente
+appmenu-recently-closed-tabs =
+    .label = Ischedas serradas de reghente
+appmenu-recently-closed-windows =
+    .label = Ventanas serradas de reghente
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Agiudu de { -brand-shorter-name }
 appmenu-about =
     .label = Informatziones de { -brand-shorter-name }
+    .accesskey = I
+appmenu-get-help =
+    .label = Otene agiudu
+    .accesskey = O
+appmenu-help-more-troubleshooting-info =
+    .label = Informatzione de curretzione de faddinas
+    .accesskey = I
+appmenu-help-report-site-issue =
+    .label = Informa de unu problema de custu situ...
+appmenu-help-feedback-page =
+    .label = Imbia cummentos
     .accesskey = I
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Modalidade de curretzione de faddinas...
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Disativa sa modalidade de curretzione de faddinas
+    .accesskey = D
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Informa de unu situ ingannosu
+    .accesskey = I
+appmenu-help-not-deceptive =
+    .label = Custu no est unu situ ingannosu...
+    .accesskey = C
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personaliza sa barra de istrumentos...
+appmenu-taskmanager =
+    .label = Gestore de tareas
