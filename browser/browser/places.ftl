@@ -107,9 +107,25 @@ places-remove-bookmark =
            *[other] Kendu laster-markak
         }
     .accesskey = K
+places-show-in-folder =
+    .label = Erakutsi Finder-en
+    .accesskey = F
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Ezabatu laster-marka
+           *[other] Ezabatu-laster-markak
+        }
+    .accesskey = E
 places-manage-bookmarks =
     .label = Kudeatu laster-markak
     .accesskey = K
+places-forget-about-this-site-confirmation-title = Gune honetaz ahaztea
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ekintza honek { $hostOrBaseDomain } ostalariarekin lotutako datu guztiak kenduko ditu, hala nola historia, pasahitzak, cookieak, cachea eta edukiaren hobespenak. Ziur zaude jarraitu egin nahi duzula?
 places-forget-about-this-site-forget = Ahaztu
 places-library =
     .title = Biltegia

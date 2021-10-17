@@ -5,77 +5,59 @@
 permissions-window =
     .title = Salbuespenak
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Webgunearen helbidea
     .accesskey = h
-
 permissions-block =
     .label = Blokeatu
     .accesskey = B
-
 permissions-session =
     .label = Baimendu saiorako
     .accesskey = s
-
 permissions-allow =
     .label = Baimendu
     .accesskey = B
-
 permissions-button-off =
     .label = Desaktibatu
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desaktibatu behin-behinean
     .accesskey = b
-
 permissions-site-name =
     .label = Webgunea
-
 permissions-status =
     .label = Egoera
-
 permissions-remove =
     .label = Kendu webgunea
     .accesskey = K
-
 permissions-remove-all =
     .label = Kendu webgune guztiak
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Gorde aldaketak
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Webgune guztietarako lehenetsia:
-
 permissions-searchbox =
     .placeholder = Bilatu webgunea
-
 permissions-capabilities-autoplay-allow =
     .label = Baimendu audioa eta bideoa
 permissions-capabilities-autoplay-block =
     .label = Blokeatu audioa
 permissions-capabilities-autoplay-blockall =
     .label = Blokeatu audioa eta bideoa
-
 permissions-capabilities-allow =
     .label = Baimendu
 permissions-capabilities-block =
     .label = Blokeatu
 permissions-capabilities-prompt =
     .label = Galdetu beti
-
 permissions-capabilities-listitem-allow =
     .value = Baimendu
 permissions-capabilities-listitem-block =
     .value = Blokeatu
 permissions-capabilities-listitem-allow-session =
     .value = Baimendu saiorako
-
 permissions-capabilities-listitem-off =
     .value = Desaktibatuta
 permissions-capabilities-listitem-off-temporarily =
@@ -102,6 +84,9 @@ permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Salbuespenak - HTTPS-Only modua
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 

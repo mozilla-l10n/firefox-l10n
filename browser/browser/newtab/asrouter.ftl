@@ -128,5 +128,8 @@ cfr-doorhanger-video-support-primary-button = Eguneratu orain
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Badirudi Wi-Fi publikoa darabilzula
+spotlight-public-wifi-vpn-body = Zure kokapena eta nabigazio-jarduera ezkutatzeko, aintzat hartu sare pribatu birtuala (VPN) erabiltzea. Aireportu edo kafetegien tankerako gune publikoetan nabigatzean babestuta mantentzen lagunduko dizu.
+spotlight-public-wifi-vpn-primary-button = Mantendu pribatu { -mozilla-vpn-brand-name } erabiliz
+    .accesskey = M
 spotlight-public-wifi-vpn-link = Une honetan ez
     .accesskey = z
