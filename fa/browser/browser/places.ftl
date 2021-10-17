@@ -79,6 +79,16 @@ places-remove-folder =
            *[other] حذف پوشه‌ها
         }
     .accesskey = ح
+places-edit-folder2 =
+    .label = ویرایش پوشه…
+    .accesskey = و
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] حذف پوشه
+           *[other] حذف پوشه‌ها
+        }
+    .accesskey = ح
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = نشانک‌های مدیریت شده
@@ -97,9 +107,22 @@ places-remove-bookmark =
            *[other] حذف نشانک‌ها
         }
     .accesskey = e
+places-show-in-folder =
+    .label = نمایش در پوشه
+    .accesskey = ن
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] حذف نشانک
+           *[other] حذف نشانک‌ها
+        }
+    .accesskey = ح
 places-manage-bookmarks =
     .label = مدیریت نشانک‌ها
     .accesskey = M
+places-forget-about-this-site-forget = فراموش کن
 places-library =
     .title = مخزن
     .style = width:700px; height:500px;
