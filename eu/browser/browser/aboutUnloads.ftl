@@ -15,6 +15,29 @@ about-unloads-intro-1 =
     hainbat atributuren baitan aukeratzen da. Orri honek erakusten du
     zein lehentasun ematen dien fitxei { -brand-short-name }(e)k eta
     zein fitxa kenduko den memoriatik fitxen deskarga abiaraztean.
+about-unloads-intro-2 =
+    Uneko fitxak beheko taulan bistaratzen dira, { -brand-short-name }(e)k deskargatuko
+    duen hurrengo fitxa aukeratzeko ordena berean. Prozesuen IDak
+    <strong>lodiz</strong> bistaratzen dira fitxaren goiko markoa ostatatzen
+    dutenean, eta <em>etzanez</em> prozesua hainbat fitxen artean partekatzen
+    denean. Fitxen deskarga eskuz abiaraz dezakezu beheko
+    <em>Deskargatu</em> botoia sakatuta.
+about-unloads-intro =
+    Fitxak automatikoki deskargatzeko eginbidea dauka
+    { -brand-short-name }(e)k, memoria faltagatik aplikazioak
+    huts egitea eragozteko sistemaren memoria erabilgarria
+    baxua denean. Memoriatik kendu beharreko hurrengo fitxa
+    hainbat atributuren baitan aukeratzen da. Orri honek erakusten du
+    zein lehentasun ematen dien fitxei { -brand-short-name }(e)k eta
+    zein fitxa kenduko den memoriatik fitxen deskarga abiaraztean.
+    Fitxen deskarga eskuz abiaraz dezakezu beheko
+    <em>Deskargatu</em> botoia sakatuta.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Ikusi <a data-l10n-name="doc-link">Fitxak deskargatzea</a> eginbideari
+    eta orri honi buruzko argibide gehiago lortzeko.
+about-unloads-last-updated = Azken eguneraketa: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Deskargatu
     .title = Kendu memoriatik lehentasun altueneko fitxa
 about-unloads-no-unloadable-tab = Ez dago deskargatu beharreko fitxarik.
