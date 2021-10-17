@@ -39,9 +39,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Veľkosť buffera:
-
 perftools-custom-threads-label = Pridať vlastné vlákna podľa názvu:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Vlákna:
 perftools-devtools-settings-label = Nastavenia
@@ -94,14 +92,12 @@ perftools-thread-img-decoder =
     .title = Vlákna pre dekódovanie obrázkov
 perftools-thread-dns-resolver =
     .title = V tomto vlákne sa deje preklad DNS
-
 perftools-thread-task-controller =
     .title = Vlákna súboru vlákien TaskController
 
 ##
 
 perftools-record-all-registered-threads = Obísť položky zvolené vyššie a zaznamenať všetky registrované vlákna
-
 perftools-tools-threads-input-label =
     .title = Tieto názvy vlákien sú zoznamom oddeleným čiarkami, ktorý sa používa na povolenie profilovania vlákien v nástroji na profilovanie. Názov môže obsahovať iba časť názvu vlákna. Pozor na medzery.
 
@@ -110,9 +106,24 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teraz integrovaný do Nástrojov pre vývojárov. <a>Pozrite si ďalšie informácie</a> o tomto novom výkonnom nástroji.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Na obmedzený čas máte prístup k pôvodnému panelu Výkon prostredníctvom položky <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Zavrieť informačnú správu
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Webový vývojár
+perftools-presets-web-developer-description = Odporúčaná predvoľba pre väčšinu ladení webových aplikácií s nízkymi nárokmi na výkon.
+perftools-presets-firefox-platform-label = Platforma Firefox
+perftools-presets-firefox-platform-description = Odporúčaná predvoľba pre ladenie internej platformy Firefox.
+perftools-presets-firefox-front-end-label = Klientske rozhranie Firefoxu
+perftools-presets-firefox-front-end-description = Odporúčaná predvoľba pre vnútorné ladenie klientskeho rozhrania Firefoxu.
+
+##
+
