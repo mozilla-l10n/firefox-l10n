@@ -20,6 +20,7 @@ about-networking-active = Aktibo
 about-networking-idle = Inaktibo
 about-networking-host = Ostalaria
 about-networking-tcp = TCP
+about-networking-type = Mota
 about-networking-sent = Bidalitakoak
 about-networking-received = Jasotakoak
 about-networking-family = Familia
