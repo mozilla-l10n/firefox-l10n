@@ -24,6 +24,12 @@ graph-private-window = { -brand-short-name } همچنان به مسدود کرد
 graph-week-summary-private-window = ردیاب‌هایی که { -brand-short-name } در این هفته مسدود کرده
 protection-report-webpage-title = تابلوی محافظت‌ها
 protection-report-page-content-title = تابلوی محافظت‌ها
+protection-report-settings-link = تنظیمات حریم خصوصی و امنیت خود را مدیریت کنید
+etp-card-title-always = محافظت پیشرفته در برابر ردیابی: همیشه روشن
+etp-card-title-custom-not-blocking = محافظت پیشرفته در برابر ردیابی: خاموش
+etp-card-content-description = { -brand-short-name } به طور خودکار شرکت‌ها را از پیگیری مخفیانه شما در سراسر وب منع می‌کند.
+protection-report-etp-card-content-custom-not-blocking = در حال حاضر همه محافظت‌ها خاموش هستند. با مدیریت تنظیمات حفاظت‌های { -brand-short-name }، انتخاب کنید کدام ردیاب‌ها را مسدود شوند.
+protection-report-manage-protections = مدیریت تنظیمات
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = امروز
