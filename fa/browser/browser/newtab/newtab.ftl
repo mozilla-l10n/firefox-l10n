@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = جستجو
     .aria-label = جستجو
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = با { $engine } جستجو یا آدرسی وارد کنید
@@ -35,12 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .title = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .aria-label = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
-
 newtab-search-box-search-the-web-input =
     .placeholder = جستجوی وب
     .title = جستجوی وب
     .aria-label = جستجوی وب
-
 newtab-search-box-text = جست‌وجو در وب
 newtab-search-box-input =
     .placeholder = جستجو در وب
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = ویرایش میانبر
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = عنوان را وارد کنید
-
 newtab-topsites-url-label = نشانی
 newtab-topsites-url-input =
     .placeholder = یک نشانی بنویسید یا بچسبانید
 newtab-topsites-url-validation = نشانی معتبر الزامی است
-
 newtab-topsites-image-url-label = نشانیِ سفارشی عکس
 newtab-topsites-use-image-link = استفاده از یک عکس سفارشی…
 newtab-topsites-image-validation = بارگیری عکس شکست خورد. آدرس دیگری امتحان کنید.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = حمایت شده
 newtab-menu-section-tooltip =
     .title = باز کردن منو
     .aria-label = باز کردن منو
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = حذف
     .aria-label = حذف
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -163,12 +156,10 @@ newtab-label-removed-bookmark = نشانک حذف شد
 newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -207,7 +198,6 @@ newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -230,6 +220,14 @@ newtab-pocket-more-recommendations = توصیه‌های بیشتر
 newtab-pocket-learn-more = اطلاعات بیشتر
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = ذخیره در { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = در ‌{ -pocket-brand-name } ذخیره شده
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-desc = برای مطالب بیشتر بعدا دوباره سر بزنید.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
