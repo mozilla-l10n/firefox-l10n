@@ -102,9 +102,15 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "صفحهٔ مسدود شده">
 
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "اگر درون یک شبکه سازمانی هستید، می توانید با واحد آی‌تی خود تماس بگیرید.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "اگر با <span class='mitm-name'/> آشنایی ندارید، این ممکن است یک حمله باشد و نباید وارد این سایت شوید.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "اگر با <span class='mitm-name'/> آشنا نیستید، این می‌تواند یک حمله باشد و برای دسترسی به این سایت کاری نمی‌توانید انجام دهید.">
 
+<!ENTITY clockSkewError.longDesc "رایانه شما فکر می‌کند زمان کنونی <span id='wrongSystemTime_systemDate1'/> است، که امکان اتصال امن را از &brandShortName; می‌گیرد. برای مشاهده <span class='hostname'></span>، تاریخ، ساعت و منطقه زمانی رایانه خود را از طریق تنظیمات سیستم اصلاح کنید، و سپس <span class='hostname'></span> را نوسازی کنید.">
 
 <!ENTITY prefReset.longDesc "به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟">
 <!ENTITY prefReset.label "بازگردانی تنظیمات پیش‌فرض">
 
+<!ENTITY enableTls10.longDesc "ممکن است این وب سایت از پروتکل امنیت لایه انتقال TLS 1.2 که حداقل نسخه پشتیبانی شده در &brandShortName; است پشتیبانی نمی‌کند. فعال کردن پروتکل امنیت لایه 1.0 و 1.1 ممکن است باعث موفقیت این اتصال شود.">
+<!ENTITY enableTls10.note "نسخه‌های 1.0 و 1.1 TLS در انتشارهای آینده به صورت دائمی غیرفعال خواهند شد.">
+<!ENTITY enableTls10.label "فعال کردن TLS 1.0 و 1.1">
 
