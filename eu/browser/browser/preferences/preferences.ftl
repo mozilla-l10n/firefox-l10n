@@ -1022,6 +1022,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Salbuespenak…
     .accesskey = e
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Salbuespenak…
+    .accesskey = S
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Abisatu webgune bat gehigarriak instalatzen saiatzen bada
     .accesskey = A
@@ -1049,6 +1055,8 @@ addon-recommendations-link = Argibide gehiago
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
+collection-backlogged-crash-reports-with-link = Baimendu { -brand-short-name }(r)i zure izenean hutsegite-txostenak atzeko planoan bidaltzea <a data-l10n-name="crash-reports-link">Argibide gehiago</a>
+    .accesskey = h
 
 ## Privacy Section - Security
 ##
