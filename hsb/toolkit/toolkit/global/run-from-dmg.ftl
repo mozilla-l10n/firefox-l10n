@@ -23,5 +23,6 @@ install-failed-message = { -brand-short-name } njeda so instalować, ale dale fu
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Eksistowace nałoženje { -brand-short-name } wočinić?
+prompt-to-launch-existing-app-message = Sće { -brand-short-name } hižo zainstalował. Wužiwajće zainstalowane nałoženje, zo byšće na běžnym wostał a straće datow zadźěwał.
 prompt-to-launch-existing-app-yes-button = Eksistowace wočinić
 prompt-to-launch-existing-app-no-button = Ně, dźakuju so
