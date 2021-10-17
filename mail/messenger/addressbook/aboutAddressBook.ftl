@@ -138,3 +138,5 @@ about-addressbook-details-phone-numbers-header = Telefónne čísla
 about-addressbook-details-home-address-header = Adresa domov
 about-addressbook-details-work-address-header = Pracovná adresa
 about-addressbook-details-other-info-header = Ďalšie informácie
+about-addressbook-prompt-to-save-title = Uložiť zmeny?
+about-addressbook-prompt-to-save = Chcete uložiť zmeny?
