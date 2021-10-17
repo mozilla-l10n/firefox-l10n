@@ -37,6 +37,15 @@ account-provisioner-step1-image =
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Um endereço disponível encontrado para:
+       *[other] { $count } endereços disponíveis encontrados para:
+    }
+account-provisioner-mail-results-caption = Você pode tentar procurar apelidos ou qualquer outro termo para encontrar mais emails.
+account-provisioner-domain-results-caption = Você pode tentar procurar apelidos ou qualquer outro termo para encontrar mais domínios.
 account-provisioner-free-account = Grátis
 account-provision-price-per-year = { $price } por ano
 account-provisioner-all-results-button = Mostrar todos os resultados
