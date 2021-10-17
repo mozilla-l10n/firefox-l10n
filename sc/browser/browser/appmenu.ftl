@@ -172,6 +172,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Paràmetros cussigiados pro sa curretzione de faddinas de sa majoria de aplicatziones web, cun subra-càrriga (overhead) bàscia.
 profiler-popup-presets-web-developer-label =
     .label = Isvilupu web
 profiler-popup-presets-firefox-platform-description = Paràmetros cussigiados pro sa curretzione de faddinas interna de sa prataforma Firefox.
@@ -250,3 +251,6 @@ appmenu-customizetoolbar =
     .label = Personaliza sa barra de istrumentos...
 appmenu-taskmanager =
     .label = Gestore de tareas
+appmenu-developer-tools-subheader = Istrumentos de su navigadore
+appmenu-developer-tools-extensions =
+    .label = Estensiones pro s'isvilupu
