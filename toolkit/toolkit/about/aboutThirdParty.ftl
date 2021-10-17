@@ -20,6 +20,14 @@ third-party-th-duration = Kargatzearen iraupena (ms)
 third-party-th-status = Egoera
 third-party-tag-ime = IME
     .title = Hirugarrenen IME bat erabiltzean kargatzen da modulu mota hau.
+third-party-tag-shellex = Shell hedapena
+    .title = Modulu mota hau sistemako fitxategien elkarrizketa-koadroa irekitzean kargatzen da.
+third-party-tag-background = Atzeko planoa
+    .title =
+        Modulu honek ez du aplikazioa blokeatu atzeko planoan
+        kargatu delako.
+third-party-unsigned-icon =
+    .title = Modulu hau ez dago sinatuta
 third-party-warning-icon =
     .title = Modulu honetako kodean egin du huts { -brand-short-name }(e)k
 third-party-status-loaded = Kargatuta

@@ -9,6 +9,10 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = CSS Masonry Layout eginbide esperimentalaren euskarria gaitzen du. Ikusi <a data-l10n-name="explainer">azalpena</a> eginbidearen goi mailako deskribapen baterako. Iritzia emateko, idatzi iruzkina <a data-l10n-name="w3c-issue">GitHub issue honetan</a> edo <a data-l10n-name="bug">bug honetan</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS: teilakatutako geruzak
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = API berri honek behe mailako euskarria ematen du konputazioak eta grafikoen errendatzea burutzeko erabiltzailearen gailu edo ordenagailuko <a data-l10n-name="wikipedia">GPUa</a> erabiliz. <a data-l10n-name="spec">Espezifikazioa</a> oraindik lantze-fasean dago. Ikusi <a data-l10n-name="bugzilla">1602129 buga</a> xehetasun gehiagorako.
@@ -72,6 +76,7 @@ experimental-features-webrtc-global-mute-toggles-description = Erabiltzaileei gl
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k Lockdown
+experimental-features-win32k-lockdown-description = Desgaitu Win32k APIen erabilpena nabigatzailearen fitxetan. Segurtasun gehiago hornitzen du baina ezegonkorra edo akatsduna izan liteke. (Windows soilik)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

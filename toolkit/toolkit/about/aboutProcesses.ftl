@@ -14,6 +14,16 @@ about-processes-shutdown-process =
     .title = Deskargatu fitxak eta hil prozesua
 about-processes-shutdown-tab =
     .title = Itxi fitxa
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Egin prozesu honetako hari guztien profila segundo batez
+           *[other] Egin prozesu honetako hari guztien profila { $duration } segundoz
+        }
 
 ## Column headers
 
@@ -60,6 +70,32 @@ about-processes-with-coop-coep-process-private = { $origin } — Pribatua ({ $pi
 
 ## Details within processes
 
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $number }/{ $active } hari aktibo: { $list }
+       *[other] { $number }/{ $active } hari aktibo: { $list }
+    }
+# Single-line summary of threads (idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#                     The process is idle so all threads are inactive.
+about-processes-inactive-threads =
+    { $number ->
+        [one] hari inaktibo bat
+       *[other] { $number } hari inaktibo
+    }
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
@@ -90,6 +126,9 @@ about-processes-frame-name-many = Azpimarkoak ({ $number }): { $shortUrl }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+    .title = PUZ denbora guztira: { NUMBER($total, maximumFractionDigits: 0) }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (neurtzen)
 # Special case: process or thread is currently idle.
