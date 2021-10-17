@@ -128,7 +128,7 @@ about-processes-frame-name-many = Azpimarkoak ({ $number }): { $shortUrl }
 
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
-    .title = PUZ denbora guztira: { NUMBER($total, maximumFractionDigits: 0) }
+    .title = PUZ denbora guztira: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (neurtzen)
 # Special case: process or thread is currently idle.
