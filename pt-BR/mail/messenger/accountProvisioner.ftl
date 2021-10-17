@@ -25,9 +25,15 @@ account-provisioner-button-back = Voltar
 
 ## Notifications
 
+account-provisioner-connection-issues = Não foi possível comunicar com nossos servidores de inscrição. Verifique sua conexão.
+account-provisioner-searching-email = Procurando contas de email disponíveis…
+account-provisioner-searching-domain = Procurando domínios disponíveis…
+account-provisioner-searching-error = Não foi possível encontrar nenhum endereço a sugerir. Tente alterar os termos de pesquisa.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Escolha qual conta criar
 
 ## Search results
 
