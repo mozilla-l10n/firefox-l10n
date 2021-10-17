@@ -156,7 +156,7 @@ mr2-onboarding-colorway-label-soft = Leuna
 mr2-onboarding-colorway-label-balanced = Orekatua
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
-mr2-onboarding-colorway-label-bold = Lodia
+mr2-onboarding-colorway-label-bold = Bizia
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatikoa
 # This string will be used for Default theme
