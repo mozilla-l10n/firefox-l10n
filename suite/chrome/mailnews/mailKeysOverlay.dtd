@@ -6,7 +6,7 @@
 <!ENTITY markAsReadCmd.accesskey "A">
 <!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markAsUnreadCmd.label     "Als gelesen">
+<!ENTITY markAsUnreadCmd.label     "Als ungelesen">
 <!ENTITY markAsUnreadCmd.accesskey "u">
 <!ENTITY markAsUnreadCmd2.key      "u">
 
