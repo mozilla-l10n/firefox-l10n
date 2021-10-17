@@ -95,6 +95,8 @@ perftools-thread-img-decoder =
     .title = Irudiak deskodetzeko hariak
 perftools-thread-dns-resolver =
     .title = DNS ebazpena hari honetan gertatzen da
+perftools-thread-task-controller =
+    .title = TaskController hari-putzuko hariak
 
 ##
 
