@@ -87,6 +87,7 @@ permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz
 permissions-exceptions-https-only-window =
     .title = Salbuespenak - HTTPS-Only modua
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = HTTPS-Only modua desgai dezakezu gune zehatzetarako. { -brand-short-name } ez da saiatuko konexioa HTTPS segurura bihurtzen gune horietarako. Salbuespenek ez dute eraginik leiho pribatuetan.
 
 ## Exceptions - Pop-ups
 
