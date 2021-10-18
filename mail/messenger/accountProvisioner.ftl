@@ -46,3 +46,8 @@ account-provisioner-results-title =
         [one] Trovato un indirizzo disponibile per:
        *[other] Trovati { $count } indirizzi disponibili per:
     }
+account-provisioner-mail-results-caption = È possibile cercare soprannomi o altri termini per trovare più indirizzi di posta.
+account-provisioner-domain-results-caption = È possibile cercare soprannomi o altri termini per trovare più domini.
+account-provisioner-free-account = Gratuito
+account-provision-price-per-year = { $price } all’anno
+account-provisioner-all-results-button = Visualizza tutti i risultati
