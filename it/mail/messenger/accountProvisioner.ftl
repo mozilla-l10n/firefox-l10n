@@ -26,9 +26,23 @@ account-provisioner-button-back = Torna indietro
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Recupero fornitori in corso…
+account-provisioner-connection-issues = Impossibile comunicare con i nostri server di autenticazione. Controllare la connessione.
+account-provisioner-searching-email = Ricerca account di posta elettronica disponibili…
+account-provisioner-searching-domain = Ricerca domini disponibili…
+account-provisioner-searching-error = Impossibile trovare indirizzi da suggerire. Prova a cambiare i termini di ricerca.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Scegli quale account creare
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Trovato un indirizzo disponibile per:
+       *[other] Trovati { $count } indirizzi disponibili per:
+    }
