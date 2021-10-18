@@ -112,6 +112,7 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Iscrie prus pagu, agata de prus: chirca deretu { $engineName } in sa barra de is indiritzos.
+urlbar-search-tips-redirect-2 = Cumintza sa chirca tua in sa barra de indirizos pro bìdere cussìgios dae { $engineName } e sa cronologia de su navigadore.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seletziona custu curtzadòrgiu pro agatare prus a lestru su chi ti serbit.
@@ -149,7 +150,11 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Modìfica custu signalibru ({ $shortcut })
+    .tooltiptext = Modìfica custu marcadore ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Pone custa pàgina in marcadores ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -161,7 +166,7 @@ page-action-remove-extension =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Cua barras
+    .label = Cua barras de ainas
     .accesskey = C
 full-screen-exit =
     .label = Essi dae sa Mannària prena
@@ -203,6 +208,8 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Marcadores ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Ischedas ({ $restrict })
 search-one-offs-history =
