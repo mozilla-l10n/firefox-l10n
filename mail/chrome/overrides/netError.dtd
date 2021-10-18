@@ -189,7 +189,7 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños del sitio web para informarles este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños del sitio web para informarles de este problema.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "La conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
