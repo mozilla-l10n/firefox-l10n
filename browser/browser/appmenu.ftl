@@ -118,6 +118,9 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Ta opp en ytelses-profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profileren tar opp en profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +171,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Anbefalt forhåndsinnstilling for de fleste feilsøkinger i nettapper, med lite tillegg.
 profiler-popup-presets-media-label =
     .label = Media
 profiler-popup-presets-custom-label =
