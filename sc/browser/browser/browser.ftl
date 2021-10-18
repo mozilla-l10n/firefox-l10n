@@ -63,31 +63,100 @@ urlbar-web-authn-anchor =
     .tooltiptext = Aberi su pannellu de autenticatzione web
 urlbar-canvas-notification-anchor =
     .tooltiptext = Gesti is permissos de estratzione de telas (canvas)
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Gesti sa cumpartzidura de su micròfonu cun su situ
 urlbar-default-notification-anchor =
     .tooltiptext = Aberi pannellu de messàgios
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Aberi su pannellu de rechesta de positzione
+urlbar-xr-notification-anchor =
+    .tooltiptext = Aberi su pannellu de permissos de realidade virtuale
+urlbar-storage-access-anchor =
+    .tooltiptext = Aberi su pannellu de permissos de atividades de navigatzione
 urlbar-translate-notification-anchor =
-    .tooltiptext = Borta custa pàgina
+    .tooltiptext = Tradue custa pàgina
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Gesti sa cumpartzidura de is ventanas o de s'ischermu cun su situ
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Aberi su pannellu de su messàgiu de archiviatzione foras de lìnia
+urlbar-password-notification-anchor =
+    .tooltiptext = Aberi su pannellu de su messàgiu pro sarvare sa crae
 urlbar-translated-notification-anchor =
     .tooltiptext = Manìgia sa tradutzione de sa pàgina
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Gesti s'impreu de estensiones
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Gesti sa cumpartzidura de sa fotocàmera e de su micròfonu cun su situ
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Gesti sa cumpartzidura de àteros altoparlantes cun su situ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Aberi su pannellu de riprodutzione automàtica
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Archìvia datos in s'archiviatzione permanente
+urlbar-addons-notification-anchor =
+    .tooltiptext = Aberi su pannellu de su messàgiu de installatzione de su cumplementu
+urlbar-tip-help-icon =
+    .title = Otene agiudu
+urlbar-search-tips-confirm = AB, cumprèndidu
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Cussìgiu:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Iscrie prus pagu, agata de prus: chirca deretu { $engineName } in sa barra de is indiritzos.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Seletziona custu curtzadòrgiu pro agatare prus a lestru su chi ti serbit.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Signalibros
+urlbar-search-mode-tabs = Ischedas
+urlbar-search-mode-history = Cronologia
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = As blocadu is informatziones de sa positzione pro custu situ.
+urlbar-xr-blocked =
+    .tooltiptext = As blocadu s'atzessu a is dispositivos de realidade virtuale pro custu situ.
+urlbar-web-notifications-blocked =
+    .tooltiptext = As blocadu is notìficas pro custu situ.
 urlbar-camera-blocked =
     .tooltiptext = As blocadu sa càmera pro custu situ.
 urlbar-microphone-blocked =
     .tooltiptext = As blocadu su micròfonu pro custu situ.
+urlbar-screen-blocked =
+    .tooltiptext = As blocadu sa cumpartzidura de s'ischermu pro custu situ.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = As blocadu s'archiviatzione permanente pro custu situ.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = As blocadu sa riprodutzione automàtica cun sonu pro custu situ.
+urlbar-canvas-blocked =
+    .tooltiptext = As blocadu s'estratzione de datos de telas (canvas) pro custu situ.
+urlbar-midi-blocked =
+    .tooltiptext = As blocadu s'atzessu MIDI pro custu situ.
+urlbar-install-blocked =
+    .tooltiptext = As blocadu s'installatzione de cumplementos pro custu situ.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Modìfica custu signalibru ({ $shortcut })
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = Gesti s'estensione...
+page-action-remove-extension =
+    .label = Boga s'estensione
 
 ## Auto-hide Context Menu
 
@@ -108,6 +177,24 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Sèbera su motore de chirca predefinidu
     .accesskey = d
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Agiunghe “{ $engineName }”
+    .tooltiptext = Agiunghe su motore de chirca “{ $engineName }”
+    .aria-label = Agiunghe su motore de chirca “{ $engineName }”
+# When more than 5 engines are offered by a web page, they are grouped in a
+# submenu using this as its label.
+search-one-offs-add-engine-menu =
+    .label = Agiunghe unu motore de chirca
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -116,6 +203,10 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-tabs =
+    .tooltiptext = Ischedas ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Cronologia ({ $restrict })
 
 ## Bookmark Panel
 
