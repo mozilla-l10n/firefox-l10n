@@ -114,6 +114,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = プロファイラー
     .tooltiptext = パフォーマンスプロファイルを記録します
+profiler-popup-button-recording =
+    .label = プロファイラー
+    .tooltiptext = プロファイラーがプロファイルを記録中です
+profiler-popup-button-capturing =
+    .label = プロファイラー
+    .tooltiptext = プロファイラーがプロファイルをキャプチャ中です
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -157,11 +163,26 @@ profiler-popup-capture-shortcut =
 ## Profiler presets
 ## They are shown in the popup's select box.
 
-
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
-
+profiler-popup-presets-web-developer-description = 一般的なウェブアプリをデバッグするための低負荷な推奨プリセットです。
+profiler-popup-presets-web-developer-label =
+    .label = ウェブ開発
+profiler-popup-presets-firefox-platform-description = Firefox のプラットフォーム内部をデバッグするための推奨プリセットです。
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox プラットフォーム
+profiler-popup-presets-firefox-front-end-description = Firefox のフロントエンド内部をデバッグするための推奨プリセットです。
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox フロントエンド
+profiler-popup-presets-firefox-graphics-description = Firefox のグラフィック性能を調査するための推奨プリセットです。
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox グラフィック
+profiler-popup-presets-media-description = 音声と動画の問題を診断するための推奨プリセットです。
+profiler-popup-presets-media-label =
+    .label = メディア
+profiler-popup-presets-custom-label =
+    .label = カスタム
 
 ## History panel
 
