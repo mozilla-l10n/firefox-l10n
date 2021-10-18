@@ -95,6 +95,11 @@ other-bookmarks-folder =
 places-remove-bookmark =
     .label = ブックマークを削除
     .accesskey = e
+
+places-show-in-folder =
+  .label = フォルダーで表示
+  .accesskey = F
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -119,7 +124,7 @@ places-organize-button-mac =
     .label = 管理
     .tooltiptext = 履歴とブックマークを管理します
 places-file-close =
-    .label = ウインドウを閉じる
+    .label = 閉じる
     .accesskey = C
 places-cmd-close =
     .key = w
