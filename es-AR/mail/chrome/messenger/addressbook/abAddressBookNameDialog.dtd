@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY name.label "Nombre de la libreta de direcciones">
+<!ENTITY name.label      "Nombre de libreta de direcciones:">
 <!ENTITY name.accesskey  "a">
