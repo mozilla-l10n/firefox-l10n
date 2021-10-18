@@ -22,13 +22,14 @@ about-unloads-intro-2 =
     compartite inter schedas differente. Tu pote actionar manualmente le
     evacuation de schedas cliccante le button <em>Evacuar</em> hic infra.
 about-unloads-intro =
-    { -brand-short-name } ha un function que evacua automaticamente schedas
-    pro impedir le crashes del application per memoria insufficiente
-    quando es basse lo disponibile del systema. Le proxime scheda a esser evacuate es
-    eligite in base a plure attributos. Iste pagina monstra como
-    Iste pagina monstra como { -brand-short-name } da prioritate al schedas e que scheda sera evacuate
-    quando le evacuation de schedas es discatenate. Tu manualmente pote discatenar le evacuation de schedas
-    cliccante infra le button <em>Evacuar</em>.
+    { -brand-short-name } ha un function que remove automaticamente le
+    contento de schedas del memoria pro impedir que le application collabe
+    quando le memoria disponibile in le systema deveni insufficiente. Le
+    proxime scheda a esser evacuate es eligite a base de plure attributos.
+    Iste pagina monstra como { -brand-short-name } da prioritate al schedas e
+    qual scheda essera evacuate quando le evacuation de schedas es actionate.
+    Tu pote actionar manualmente le evacuation de schedas cliccante le button
+    <em>Evacuar</em> infra.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Vider <a data-l10n-name="doc-link">Evacuation de schedas</a> pro saper plus re le function e iste pagina.
