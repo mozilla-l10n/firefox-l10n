@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-remove-from-toolbar =
-    .label = Boga dae sa barra de istrumentos
-    .accesskey = r
+    .label = Boga dae sa barra de ainas
+    .accesskey = B
 toolbar-context-menu-view-customize-toolbar =
     .label = Personaliza
     .accesskey = P
