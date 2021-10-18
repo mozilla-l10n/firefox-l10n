@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Recùpera valores predefinidos
-customize-mode-menu-and-toolbars-header = Traga is elementos preferidos tuos in sa barra de istrumentos o in su menù de istrumentos agiuntivos.
+customize-mode-menu-and-toolbars-header = Traga is elementos preferidos tuos in sa barra de ainas o in su menù de ainas agiuntivas.
 customize-mode-overflow-list-title = Menù de istrumentos agiuntivos
 customize-mode-uidensity =
     .label = Densidade
@@ -14,7 +14,7 @@ customize-mode-lwthemes-menu-manage =
     .label = Gesti
     .accesskey = G
 customize-mode-toolbars =
-    .label = Barras de istrumentos
+    .label = Barras de ainas
 customize-mode-titlebar =
     .label = Barra de tìtulu
 customize-mode-uidensity-menu-touch =
@@ -25,7 +25,7 @@ customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Imprea «tàtile» pro sa modalidade tauledda
 customize-mode-lwthemes =
     .label = Temas
-customize-mode-overflow-list-description = Traga elementos inoghe pro ddos tènnere a portada, però in foras de sa barra de istrumentos...
+customize-mode-overflow-list-description = Traga elementos inoghe pro ddos tènnere a portada, però in foras de sa barra de ainas...
 customize-mode-uidensity-menu-normal =
     .label = Normale
     .accesskey = N

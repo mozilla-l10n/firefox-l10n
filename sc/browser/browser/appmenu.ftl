@@ -248,7 +248,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Personaliza sa barra de istrumentos...
+    .label = Personaliza sa barra de ainas...
 appmenu-taskmanager =
     .label = Gestore de tareas
 appmenu-developer-tools-subheader = Istrumentos de su navigadore

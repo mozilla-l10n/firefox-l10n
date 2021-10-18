@@ -217,9 +217,44 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Agiunghe marcadore
+bookmarks-edit-bookmark = Modìfica su marcadore
+bookmark-panel-cancel =
+    .label = Annulla
+    .accesskey = A
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] Boga marcadore
+           *[other] Boga { $count } marcadores
+        }
+    .accesskey = B
+bookmark-panel-show-editor-checkbox =
+    .label = Ammustra s'editore cando ses sarvende
+    .accesskey = A
+bookmark-panel-save-button =
+    .label = Sarva
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Informatziones de su situ { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Seguresa de sa connessione pro { $host }
+identity-connection-not-secure = Connessione non segura
+identity-connection-secure = Connessione segura
+identity-connection-failure = Faddina de connessione
+identity-connection-internal = Custa est una pàgina { -brand-short-name } segura.
+identity-connection-file = Custa pàgina est archiviada in s'elaboradore tuo.
+identity-extension-page = Custa pàgina est istada carrigada dae un'estensione.
+identity-active-blocked = { -brand-short-name } at blocadu partes de custa pàgina chi non sunt seguras.
+identity-custom-root = Connessione verificada dae un'emitente de tzertificados non reconnotu dae Mozilla.
+identity-passive-loaded = Partes de custa pàgina non sunt seguras (pro esèmpiu immàgines).
 identity-weak-encryption = Custa pàgina impreat tzifradura dèbile.
 identity-insecure-login-forms = Is credentziales postas in custa pàgina diant pòdere èssere in perìgulu.
 identity-https-only-connection-upgraded = (agiornadu a HTTPS)
