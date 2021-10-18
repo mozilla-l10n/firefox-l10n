@@ -213,6 +213,19 @@ search-one-offs-history =
 
 ## Identity Panel
 
+identity-weak-encryption = Custa pàgina impreat tzifradura dèbile.
+identity-insecure-login-forms = Is credentziales postas in custa pàgina diant pòdere èssere in perìgulu.
+identity-https-only-connection-upgraded = (agiornadu a HTTPS)
+identity-https-only-label = Modalidade «isceti HTTPS»
+identity-https-only-dropdown-on =
+    .label = Ativada
+identity-https-only-dropdown-off =
+    .label = Disativadada
+identity-https-only-dropdown-off-temporarily =
+    .label = Disativada in manera temporànea
+identity-https-only-info-turn-on2 = Ativa sa modalidade «isceti HTTPS» pro custu situ si boles chi { -brand-short-name } agiornet sa connessione cando possìbile.
+identity-https-only-info-turn-off2 = Si sa pàgina non funtzionat, podes proare a disativare sa modalidade «isceti HTTPS» pro custu situ e torrare a carrigare cun HTTP non seguru.
+identity-https-only-info-no-upgrade = No at fatu a agiornare sa connessione dae HTTP.
 identity-learn-more =
     .value = Nde chèrgio ischire de prus
 
