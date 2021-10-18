@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -53,6 +53,16 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = Aberi su pannellu cun su messàgiu de installatzione
+urlbar-web-notification-anchor =
+    .tooltiptext = Detzide si boles retzire notìficas dae custu situ
+urlbar-midi-notification-anchor =
+    .tooltiptext = Aberi su pannellu MIDI
+urlbar-eme-notification-anchor =
+    .tooltiptext = Gesti s'impreu de programmas DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = Aberi su pannellu de autenticatzione web
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Gesti is permissos de estratzione de telas (canvas)
 urlbar-default-notification-anchor =
     .tooltiptext = Aberi pannellu de messàgios
 urlbar-translate-notification-anchor =
@@ -144,6 +154,8 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Chirca o inserta·nche un'indiritzu
 urlbar-switch-to-tab =
@@ -247,3 +259,6 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Imprenta custa pàgina
 tabs-toolbar-new-tab =
     .label = Ischeda noa
+
+## Infobar shown at startup to suggest session-restore
+
