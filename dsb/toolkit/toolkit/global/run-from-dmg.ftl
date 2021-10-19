@@ -23,5 +23,6 @@ install-failed-message = { -brand-short-name } njedajo se instalěrowaś, ale da
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Eksistěrujuce nałoženje { -brand-short-name } wócyniś?
+prompt-to-launch-existing-app-message = Sćo južo zainstalěrował { -brand-short-name }. Wužywajśo zainstalěrowane nałoženje, aby na běžnem wostał a zgubjenju datow zajźował.
 prompt-to-launch-existing-app-yes-button = Eksistěrujuce wócyniś
 prompt-to-launch-existing-app-no-button = Ně, źěkujom se
