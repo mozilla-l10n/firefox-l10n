@@ -18,6 +18,7 @@
 <!ENTITY setDefaultNews.accesskey         "r">
 <!ENTITY setDefaultFeed.label             "les flux">
 <!ENTITY setDefaultFeed.accesskey         "F">
+<!ENTITY useInternalSettings.description  "Utiliser le courrier et les groupes de &brandShortName; lorsque ces liens sont ouverts via le navigateur :">
 <!ENTITY useInternalMail.label            "Courrier (mailto:)">
 <!ENTITY useInternalMail.accesskey        "o">
 <!ENTITY useInternalNews.label            "Groupes (news:, snews:, nntp:)">
