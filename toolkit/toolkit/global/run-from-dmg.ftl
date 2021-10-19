@@ -17,3 +17,11 @@ prompt-to-install-no-button = Installar pas
 
 install-failed-title = Installacion de { -brand-short-name } copada.
 install-failed-message = Installacion de { -brand-short-name } fracassada mas tendrà de s’executar.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Dobrir l’aplicacion{ -brand-short-name } existenta ?
+prompt-to-launch-existing-app-message = Avètz ja { -brand-short-name } d’installat. Utilizatz l’aplicacion installada per demorar a jorn e evitar una pèrda de donadas.
+prompt-to-launch-existing-app-no-button = Non, mercé
