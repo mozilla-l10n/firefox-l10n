@@ -20,6 +20,18 @@ about-unloads-intro-2 =
     ramme, og med <em>kursiv</em> når prosessen deles mellom forskjellige
     faner. Du kan utløse frigjøring av faner manuelt ved å klikke på <em>Frigjør</em>-
     knappen nedenfor.
+about-unloads-intro =
+    { -brand-short-name } har en funksjon som automatisk frigjør faner
+    for å forhindre programmet i å krajse når systemet har lite minne.
+    Den neste fanen som skal frigjøres er utvalgt basert på flere kriterer.
+    Denne siden viser hvordan { -brand-short-name } prioriterer mellom fanene, og hvilken faner som frigjøres
+    når fanefrigjøring er nødvendig. Du kan manuelt frigjøre faner
+    ved å klikke på <em>Frigjør</em>-knappen nedenfor.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Se <a data-l10n-name="doc-link">Frigjør fane</a> for å lære mer om
+    funksjonen og denne siden.
 about-unloads-last-updated = Sist oppdatert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigjør
     .title = Frigjør fanen med høyeste prioritet
