@@ -9,6 +9,16 @@
 <!ENTITY prefCheckDefaultClient.label     "Vérifier les paramètres par défaut de l’application au démarrage">
 <!ENTITY prefCheckDefaultClient.accesskey "V">
 
+<!ENTITY defaultClientFor.description     "Utiliser &brandShortName; comme application par défaut pour :">
+<!ENTITY setDefaultBrowser.label          "la navigation">
+<!ENTITY setDefaultBrowser.accesskey      "N">
+<!ENTITY setDefaultMail.label             "le courrier">
+<!ENTITY setDefaultMail.accesskey         "C">
+<!ENTITY setDefaultNews.label             "les groupes">
+<!ENTITY setDefaultNews.accesskey         "r">
+<!ENTITY setDefaultFeed.label             "les flux">
+<!ENTITY setDefaultFeed.accesskey         "F">
+
 <!ENTITY printing.label                   "Impression">
 <!ENTITY useNativePrintDialog.label       "Utiliser la boite de dialogue d’impression native (si elle est prise en charge)">
 <!ENTITY useNativePrintDialog.accesskey   "U">
