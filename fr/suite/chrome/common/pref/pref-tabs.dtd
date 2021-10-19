@@ -9,13 +9,14 @@
 <!ENTITY autoHide.accesskey2 "a">
 <!ENTITY background.label "Basculer vers les nouveaux onglets ouverts">
 <!ENTITY background.accesskey "B">
+<!ENTITY diverted.label "Basculer vers les nouveaux onglets ouverts à partir de liens détournés">
+<!ENTITY diverted.accesskey "o">
 <!ENTITY warnOnClose.label "Me prévenir lors de la fermeture d’une fenêtre contenant plusieurs onglets">
 <!ENTITY warnOnClose.accesskey "M">
 <!ENTITY relatedAfterCurrent.label "Ouvrir les onglets liés après l’onglet courant">
 <!ENTITY relatedAfterCurrent.accesskey "O">
 
 <!ENTITY openTabs.label "Ouvrir des onglets plutôt que des fenêtres pour">
-
 <!ENTITY middleClick.label "Clic du milieu, Ctrl+Clic ou Ctrl+Entrée sur les liens d’une page web">
 <!ENTITY middleClick.accesskey "C">
 <!ENTITY middleClickMac.label "Clic du milieu, &#8984;+clic ou &#8984;+Retour sur les liens d’une page web">

@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Ne restaurer les onglets que lorsque j’en ai besoin">
 <!ENTITY restoreDeferred.accesskey      "N">
 
+<!ENTITY siteIcons.label                "Icônes de sites web">
+<!ENTITY useSiteIcons.label             "Afficher les icônes de sites web">
+<!ENTITY useSiteIcons.accesskey         "s">
+<!ENTITY useFavIcons.label              "Essayer d’utiliser l’icône du serveur lorsque la page n’en définit pas">
+<!ENTITY useFavIcons.accesskey          "E">
+
 <!ENTITY homePageIntro.label            "Cliquer sur le bouton « Accueil » chargera cette page ou ce groupe de pages :">
 <!ENTITY useCurrent.label               "Utiliser la page actuelle">
 <!ENTITY useCurrent.accesskey           "s">

@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Bloquer les sites signalés comme étant des contrefaçons (hameçonnage)">
 <!ENTITY blockWebForgeries.accesskey      "l">
 
+<!ENTITY blockAutoRefresh.label           "Prévenir lorsque des sites web tentent de rediriger ou de recharger la page">
+<!ENTITY blockAutoRefresh.accesskey       "p">

@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "Si vous réinitialisez votre mot de passe principal, tous vos mots de passe web et de courrier, données de formulaires, certificats personnels et clés privées seront perdus.">
 <!ENTITY  resetpassword.button                   "Réinitialiser le mot de passe">
 <!ENTITY  resetpassword.accesskey                "R">
+<!ENTITY  resetpassword2.button                  "Réinitialiser le mot de passe">
+<!ENTITY  resetpassword2.accesskey               "M">
