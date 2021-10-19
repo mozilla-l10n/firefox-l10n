@@ -33,16 +33,16 @@ openpgp-broken-exchange-repair =
     .label = Reparar le message
 openpgp-broken-exchange-wait = Per favor attende…
 openpgp-cannot-decrypt-because-mdc =
-    Isto es un message cryptate que usa un vetere e vulnerabile mechanismo.¶
-    Illo poterea haber essite modificate durante le transito, con le intention de robar su contentos.¶
+    Isto es un message cryptate que usa un vetere e vulnerabile mechanismo.
+    Illo poterea haber essite modificate durante le transito, con le intention de robar su contentos.
     Pro impedir iste risco, le contentos non es monstrate.
 openpgp-cannot-decrypt-because-missing-key = Le clave secrete que es necessari pro decifrar iste message non es disponibile.
 openpgp-partially-signed =
-    Solo un sub-ensemble de iste message ha essite signate digitalmente per le OpenPGP.¶
+    Solo un sub-ensemble de iste message ha essite signate digitalmente per le OpenPGP.
     Si tu clicca le button de verification, le partes non protegite sera celate e le stato del firma digital essera monstrate.
 openpgp-partially-encrypted =
-    Solo un sub-ensemble de iste message ha essite cryptate per OpenPGP.¶
-    Le partes legibile del message que es jam monstrate non ha essite cryptate.¶
+    Solo un sub-ensemble de iste message ha essite cryptate per OpenPGP.
+    Le partes legibile del message que es jam monstrate non ha essite cryptate.
     Si tu clicca le button de decryptation, le contentos del partes cryptate essera monstrate.
 openpgp-reminder-partial-display = Memento: le message monstrate infra es solo un sub-ensemble del message original.
 openpgp-partial-verify-button = Verificar

@@ -551,7 +551,7 @@ attachment-no-match-to-signature = Impossibile associar annexo '{ $attachment }'
 signature-verified-ok = Le firma pro le annexo { $attachment } ha essite verificate con successo
 signature-verify-failed = Le firma pro le annexo { $attachment } non pote esser verificate
 decrypt-ok-no-sig =
-    ATTENTION¶
+    ATTENTION
     Decryptation exequite con successo, ma le firma non pote esser verificate correctemente
 msg-ovl-button-cont-anyway = &Continuar comocunque
 enig-content-note = *Annexos a iste message non ha essite signate ni cryptate*
@@ -578,13 +578,13 @@ minimal-line-wrapping =
     Tu ha configurate le ruptura e inveloppamento del lineas a { $width } characteres. Pro correcte cryptation o signatura, iste valor debe esser al minus 68.
     Vole tu cambiar ora le ruptura e inveloppamento del lineas a 68 characteres
 sending-news =
-    Invio cryptate abortate.¶ 
+    Invio cryptate abortate. 
     Iste message non pote esser cryptate perque il ha como destinatarios gruppos de discussion.
     Re-invia le message non cryptate.
 send-to-news-warning =
-    ATTENTION: tu va inviar un email cryptate a un gruppo de discussion.¶
+    ATTENTION: tu va inviar un email cryptate a un gruppo de discussion.
     Isto es discoragiate perque illo solo face senso si tote le membros del gruppo poter decifrar le message, i.e. le message debe esser cryptate con le claves de tote le participantes del gruppo.
-    Per favor invia iste message solo si tu sape exactemente lo que tu face.¶
+    Per favor invia iste message solo si tu sape exactemente lo que tu face.
     Continuar?
 save-attachment-header = Salvar le annexo decifrate
 no-temp-dir =
@@ -610,7 +610,7 @@ key-in-message-body = Un clave ha essite trovate in le corpore del message.
 sig-mismatch = Error - discordantia firma
 invalid-email = Error - adresse(s) email  invalide
 attachment-pgp-key =
-    Le annexo '{ $name }' que tu aperi appare esser un file clave OpenPGP.¶
+    Le annexo '{ $name }' que tu aperi appare esser un file clave OpenPGP.
     Clicca 'Importar' pro importar le claves continite o 'Vider' pro vider le contentos del file in un fenestra de navigator
 dlg-button-view = &Vider
 # Strings used in enigmailMsgHdrViewOverlay.js

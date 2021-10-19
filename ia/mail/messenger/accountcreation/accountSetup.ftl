@@ -7,7 +7,7 @@ account-setup-tab-title = Configuration de conto
 ## Header
 
 account-setup-title = Configura tu adresse email existente
-account-setup-description = Pro usar tu actual e-mail adresse plena tu credentiales.<br/>¶ { -brand-product-name } automaticamente cercara un configuration del servitor functionante e recommendate.
+account-setup-description = Pro usar tu actual e-mail adresse plena tu credentiales.<br/> { -brand-product-name } automaticamente cercara un configuration del servitor functionante e recommendate.
 account-setup-secondary-description = { -brand-product-name } cercara automaticamente un configuration functional et recommendate del servitor.
 account-setup-success-title = Conto create con successo
 account-setup-success-description = Ora tu pote usar iste conto con { -brand-short-name }.
