@@ -2,9 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Trìsina fache a bàsciu pro ammustrare sa cronologia
+           *[other] Tecla dereta o trìsina fache a bàsciu pro mustrare sa cronologia
+        }
 
 ## Back
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = Torra in segus de una pàgina ({ $shortcut })
+    .aria-label = In segus
+    .accesskey = T
+# This menuitem is only visible on macOS
+main-context-menu-back-mac =
+    .label = In segus
+    .accesskey = S
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -12,6 +28,16 @@ toolbar-button-back-2 =
 
 ## Forward
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = Bae a in antis de una pàgina ({ $shortcut })
+    .aria-label = In antis
+    .accesskey = A
+# This menuitem is only visible on macOS
+main-context-menu-forward-mac =
+    .label = In antis
+    .accesskey = n
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -19,11 +45,25 @@ toolbar-button-forward-2 =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Torra a carrigare
+    .accesskey = R
+# This menuitem is only visible on macOS
+main-context-menu-reload-mac =
+    .label = Torra a carrigare
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Firma
+    .accesskey = F
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = Firma
+    .accesskey = F
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 

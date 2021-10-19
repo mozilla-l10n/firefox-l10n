@@ -174,6 +174,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Custa borta, chirca cun:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modìfica sa cunfiguratzione de chirca
 search-one-offs-context-open-new-tab =
@@ -182,6 +185,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Sèbera su motore de chirca predefinidu
     .accesskey = d
+search-one-offs-context-set-as-default-private =
+    .label = Cunfigura comente motore de chirca predefinidu pro ventanas privadas
+    .accesskey = C
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -268,6 +274,23 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ativa sa modalidade «isceti HTTPS» pro custu situ si boles chi { -brand-short-name } agiornet sa connessione cando possìbile.
 identity-https-only-info-turn-off2 = Si sa pàgina non funtzionat, podes proare a disativare sa modalidade «isceti HTTPS» pro custu situ e torrare a carrigare cun HTTP non seguru.
 identity-https-only-info-no-upgrade = No at fatu a agiornare sa connessione dae HTTP.
+identity-permissions-storage-access-learn-more = Àteras informatziones
+identity-connection-not-secure-security-view = Sa connessione a custu situ no est segura.
+identity-connection-verified = Sa connessione a custu situ est segura.
+identity-ev-owner-label = Tzertificadu emìtidu pro:
+identity-description-custom-root = Mozilla non reconnoschet custu emitente de tzertificatzione. Diat pòdere èssere istadu agiuntu dae su sistema operativu o dae s'amministratzione. <label data-l10n-name="link">Àteras informatziones</label>
+identity-remove-cert-exception =
+    .label = Boga s'etzetzione
+    .accesskey = B
+identity-description-insecure = Sa connessione a custu situ no est privada. Is informatziones chi pones (craes, messàgios, cartas de crèditu, etc.) ddas diant pòdere bìdere àteras persones.
+identity-description-insecure-login-forms = Is credentziales chi as insertadu in custa pàgina non sunt seguras e podent èssere cumpromìtidas.
+identity-description-weak-cipher-intro = Sa connessione a custu situ impreat tzifradura dèbile e no est privada.
+identity-description-weak-cipher-risk = Àtera gente podet bìdere is informatziones tuas o modificare su cumportamentu de su situ.
+identity-description-active-blocked = { -brand-short-name } at blocadu partes de custa pàgina chi non sunt seguras. <label data-l10n-name="link">Àteras informatziones</label>
+identity-description-passive-loaded = Sa connessione tua no est privada e is informatziones chi cumpartzis cun su situ ddas diat pòdere bìdere àtera gente.
+identity-description-passive-loaded-insecure = Custu situ tenet cuntenutos non seguros (comente immàgines). <label data-l10n-name="link">Àteras informatziones</label>
+identity-description-passive-loaded-mixed = Mancari { -brand-short-name } at blocadu cuntenutos, ddoe at ancora cuntenutos de sa pàgina chi non sunt seguros (comente immàgines). <label data-l10n-name="link">Àteras informatziones</label>
+identity-description-active-loaded = Custu situ tenet cuntenutos non seguros (comente is script) e sa connessione tua no est privada.
 identity-learn-more =
     .value = Nde chèrgio ischire de prus
 
