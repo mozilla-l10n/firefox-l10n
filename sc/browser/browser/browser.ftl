@@ -292,22 +292,50 @@ identity-description-passive-loaded-insecure = Custu situ tenet cuntenutos non s
 identity-description-passive-loaded-mixed = Mancari { -brand-short-name } at blocadu cuntenutos, ddoe at ancora cuntenutos de sa pàgina chi non sunt seguros (comente immàgines). <label data-l10n-name="link">Àteras informatziones</label>
 identity-description-active-loaded = Custu situ tenet cuntenutos non seguros (comente is script) e sa connessione tua no est privada.
 identity-learn-more =
-    .value = Nde chèrgio ischire de prus
+    .value = Àteras informatziones
+identity-disable-mixed-content-blocking =
+    .label = Disativa sa protetzione pro immoe
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Ativa protetzione
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Àteras informatziones
 
 ## Window controls
 
 browser-window-minimize-button =
     .tooltiptext = Impicòchia
+browser-window-maximize-button =
+    .tooltiptext = Ismànnia
 browser-window-close-button =
     .tooltiptext = Serra
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = REPRODUENDE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = A SA MUDA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = RIPRODUTZIONE IN AUTOMÀTICU BLOCADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = IMMÀGINE SUBRA IMMÀGINE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ISCHEDA A SA MUDA
+       *[other] { $count } ISCHEDAS A SA MUDA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ATIVA ÀUDIU ISCHEDA
+       *[other] ATIVA ÀUDIU DE { $count } ISCHEDAS
+    }
 
 ## Bookmarks toolbar items
 
@@ -395,18 +423,30 @@ bookmarks-toolbar-placeholder-button =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Nòmine utente
+panel-save-update-password = Crae
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Nche boles bogare a { $name }?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Gesti su contu
+remote-tabs-sync-now = Sincroniza immoe
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Àteru...
 ui-tour-info-panel-close =
     .tooltiptext = Serra
 

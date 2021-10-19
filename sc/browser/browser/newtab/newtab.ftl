@@ -54,17 +54,28 @@ newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Inserta unu tìtulu
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Iscrie o incolla un'URL
+newtab-topsites-url-validation = Ddoe est bisòngiu de un'URL vàlidu
 newtab-topsites-image-url-label = URL de s'immàgine personalizada
 newtab-topsites-use-image-link = Imprea un'immàgine personalizada…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Annulla
+newtab-topsites-delete-history-button = Cantzella dae sa cronologia
+newtab-topsites-save-button = Sarva
+newtab-topsites-add-button = Agiunghe
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = Seguru chi boles cantzellare ònnia istàntzia de custa pàgina dae sa cronologia tua?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Custa atzione no dda podes annullare.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Isponsorizadu
 
 ## Context Menu - Action Tooltips.
 
