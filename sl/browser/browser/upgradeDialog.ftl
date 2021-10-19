@@ -69,6 +69,7 @@ upgrade-dialog-theme-system = Sistemska tema
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Barvito življenje
+upgrade-dialog-start-subtitle = Živahne nove barvne kombinacije. Le še kratek čas.
 upgrade-dialog-start-primary-button = Raziščite barvne kombinacije
 upgrade-dialog-start-secondary-button = Ne zdaj
 
@@ -80,6 +81,9 @@ upgrade-dialog-colorway-primary-button = Shrani barvno kombinacijo
 upgrade-dialog-colorway-secondary-button = Obdrži dosedanjo temo
 upgrade-dialog-colorway-theme-tooltip =
     .title = Raziščite privzete teme
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Raziščite barvne kombinacije za { $colorwayName }
 upgrade-dialog-colorway-default-theme = Privzeta
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Samodejno

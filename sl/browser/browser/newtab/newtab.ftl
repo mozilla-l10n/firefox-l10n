@@ -38,6 +38,7 @@ newtab-search-box-search-the-web-input =
     .placeholder = Iskanje po spletu
     .title = Iskanje po spletu
     .aria-label = Iskanje po spletu
+newtab-search-box-text = Išči po spletu
 newtab-search-box-input =
     .placeholder = Iskanje po spletu
     .aria-label = Iskanje po spletu

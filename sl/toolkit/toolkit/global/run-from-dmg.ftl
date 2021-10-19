@@ -17,3 +17,12 @@ prompt-to-install-no-button = Ne namesti
 
 install-failed-title = Namestitev { -brand-short-name(sklon: "rodilnik") } ni uspela.
 install-failed-message = { -brand-short-name } se ni uspešno namestil, vendar bo vseeno deloval.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Želite odpreti obstoječi { -brand-short-name }?
+prompt-to-launch-existing-app-message = { -brand-short-name } je že nameščen. Da ostanete na tekočem s posodobitvami in preprečite izgubo podatkov, priporočamo, da uporabljate nameščeni program.
+prompt-to-launch-existing-app-yes-button = Odpri obstoječi program
+prompt-to-launch-existing-app-no-button = Ne, hvala
