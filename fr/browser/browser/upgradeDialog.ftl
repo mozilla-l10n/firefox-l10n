@@ -67,6 +67,8 @@ upgrade-dialog-theme-system = Thème du système
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = La vie en couleur
 upgrade-dialog-start-subtitle = De nouveaux coloris somptueux. Disponibles pendant une durée limitée.
 upgrade-dialog-start-primary-button = Découvrir ces coloris
 upgrade-dialog-start-secondary-button = Plus tard
@@ -75,6 +77,7 @@ upgrade-dialog-start-secondary-button = Plus tard
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Choisissez vos couleurs
+# This is shown to users with a custom home page, so they can switch to default.
 upgrade-dialog-colorway-home-checkbox = Passer à l’accueil de Firefox avec les couleurs de votre thème
 upgrade-dialog-colorway-primary-button = Enregistrer le coloris
 upgrade-dialog-colorway-secondary-button = Conserver le thème précédent
