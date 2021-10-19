@@ -18,6 +18,10 @@
 <!ENTITY setDefaultNews.accesskey         "r">
 <!ENTITY setDefaultFeed.label             "les flux">
 <!ENTITY setDefaultFeed.accesskey         "F">
+<!ENTITY useInternalMail.label            "Courrier (mailto:)">
+<!ENTITY useInternalMail.accesskey        "o">
+<!ENTITY useInternalNews.label            "Groupes (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "r">
 
 <!ENTITY printing.label                   "Impression">
 <!ENTITY useNativePrintDialog.label       "Utiliser la boite de dialogue d’impression native (si elle est prise en charge)">
