@@ -175,6 +175,7 @@ profiler-popup-presets-web-developer-label =
 profiler-popup-presets-firefox-platform-description = Réglage recommandé pour le débogage interne de la plateforme Firefox.
 profiler-popup-presets-firefox-platform-label =
     .label = Plateforme Firefox
+profiler-popup-presets-firefox-front-end-description = Réglage recommandé pour le débogage interne de l’interface Firefox.
 profiler-popup-presets-firefox-front-end-label =
     .label = Interface Firefox
 profiler-popup-presets-firefox-graphics-description = Réglage recommandé pour l’étude des performances graphiques de Firefox.

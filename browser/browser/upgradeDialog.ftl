@@ -104,6 +104,10 @@ upgrade-dialog-colorway-variation-soft = Doux
     .title = Utiliser ce coloris
 upgrade-dialog-colorway-variation-balanced = Équilibré
     .title = Utiliser ce coloris
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Soutenu
+    .title = Utiliser ce coloris
 
 ## Thank you screen
 

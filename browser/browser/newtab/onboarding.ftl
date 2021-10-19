@@ -154,6 +154,9 @@ mr2-onboarding-colorway-primary-button-label = Enregistrer le coloris
 mr2-onboarding-colorway-secondary-button-label = Plus tard
 mr2-onboarding-colorway-label-soft = Doux
 mr2-onboarding-colorway-label-balanced = Équilibré
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Soutenu
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatique
 # This string will be used for Default theme
