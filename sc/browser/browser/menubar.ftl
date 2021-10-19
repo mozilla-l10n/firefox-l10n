@@ -86,15 +86,42 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Sarva sa pàgina comente...
     .accesskey = a
+menu-file-email-link =
+    .label = Imbia su ligòngiu cun posta eletrònica
+    .accesskey = m
+menu-file-share-url =
+    .label = Cumpartzi
+    .accesskey = C
 menu-file-print-setup =
     .label = Cunfiguratzione de pàgina...
     .accesskey = z
+menu-file-print-preview =
+    .label = Previsualizatzione de imprenta
+    .accesskey = v
+menu-file-print =
+    .label = Imprenta...
+    .accesskey = p
+menu-file-import-from-another-browser =
+    .label = Importa dae un'àteru navigadore...
+    .accesskey = I
+menu-file-go-offline =
+    .label = Traballa in foras de lìnia
+    .accesskey = f
 
 ## Edit Menu
 
 menu-edit =
     .label = Modìfica
     .accesskey = M
+menu-edit-find-in-page =
+    .label = Chirca in sa pàgina...
+    .accesskey = C
+menu-edit-find-again =
+    .label = Torra a chircare
+    .accesskey = o
+menu-edit-bidi-switch-text-direction =
+    .label = Cuncàmbia sa diretzione de su testu
+    .accesskey = u
 
 ## View Menu
 
@@ -104,16 +131,55 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barras de ainas
     .accesskey = B
+menu-view-customize-toolbar2 =
+    .label = Personaliza sa barra de ainas...
+    .accesskey = e
+menu-view-sidebar =
+    .label = Barra laterale
+    .accesskey = l
 menu-view-bookmarks =
-    .label = Signa-libros
+    .label = Marcadores
 menu-view-history-button =
     .label = Cronologia
 menu-view-synced-tabs-sidebar =
     .label = Ischedas sincronizadas
+menu-view-full-zoom =
+    .label = Ingrandimentu
+    .accesskey = I
+menu-view-full-zoom-enlarge =
+    .label = Ismànnia
+    .accesskey = m
+menu-view-full-zoom-reduce =
+    .label = Impitica
+    .accesskey = p
+menu-view-full-zoom-actual-size =
+    .label = Mannària reale
+    .accesskey = M
+menu-view-full-zoom-toggle =
+    .label = Ismànnia su testu isceti
+    .accesskey = t
+menu-view-page-style-menu =
+    .label = Istile de pàgina
+    .accesskey = I
+menu-view-page-style-no-style =
+    .label = Nissunu istile
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = Istile de pàgina bàsicu
+    .accesskey = b
+menu-view-repair-text-encoding =
+    .label = Acontza sa codìfica de su testu
+    .accesskey = z
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Aberi in mannària prena
+    .accesskey = r
+menu-view-exit-full-screen =
+    .label = Essi dae sa mannària prena
+    .accesskey = i
 menu-view-full-screen =
     .label = Mannària prena
     .accesskey = M
@@ -121,8 +187,11 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = Ammustra totu sas ischedas
+    .label = Ammustra totu is ischedas
     .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Cuncàmbia sa diretzione de su testu
+    .accesskey = d
 
 ## History Menu
 
@@ -136,36 +205,68 @@ menu-history-clear-recent-history =
 menu-history-synced-tabs =
     .label = Ischedas sincronizadas
 menu-history-restore-last-session =
-    .label = Ripristina sa sessione de prima
+    .label = Recùpera sa sessione de prima
+menu-history-hidden-tabs =
+    .label = Ischedas cuadas
 menu-history-undo-menu =
     .label = Ischedas serradas de reghente
 menu-history-undo-window-menu =
     .label = Ventanas serradas de reghente
+menu-history-reopen-all-tabs = Torra a abèrrere totu is ischedas
+menu-history-reopen-all-windows = Torra a abèrrere totu is ventanas
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = Signa-libros
-    .accesskey = S
+    .label = Marcadores
+    .accesskey = M
+menu-bookmarks-manage =
+    .label = Gesti is marcadores
+menu-bookmark-current-tab =
+    .label = Pone s'ischeda atuale in is marcadores
 menu-bookmark-edit =
-    .label = Modìfica custu signa-libru
+    .label = Modìfica custu marcadore
 menu-bookmarks-all-tabs =
-    .label = Pone totu sas ischedas in sos signa-libros
+    .label = Pone totu is ischedas in is marcadores...
 menu-bookmarks-toolbar =
-    .label = Barra de signa-libros
+    .label = Barra de is marcadores
 menu-bookmarks-other =
-    .label = Àteros signa-libros
+    .label = Àteros marcadores
 menu-bookmarks-mobile =
-    .label = Signa-libros mòbiles
+    .label = Marcadores de su telèfonu mòbile
 
 ## Tools Menu
 
 menu-tools =
-    .label = Istrumentos
-    .accesskey = I
+    .label = Ainas
+    .accesskey = A
 menu-tools-downloads =
     .label = Iscarrigamentos
     .accesskey = I
+menu-tools-addons-and-themes =
+    .label = Cumplementos e temas
+    .accesskey = C
+menu-tools-fxa-sign-in2 =
+    .label = Identìfica·ti
+    .accesskey = I
+menu-tools-turn-on-sync2 =
+    .label = Ativa sa sincronizatzione...
+    .accesskey = t
+menu-tools-sync-now =
+    .label = Sincroniza immoe
+    .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Torra a connètere cun { -brand-product-name }
+    .accesskey = T
+menu-tools-browser-tools =
+    .label = Ainas de su navigadore
+    .accesskey = A
+menu-tools-task-manager =
+    .label = Gestore de tareas
+    .accesskey = G
+menu-tools-page-source =
+    .label = Còdighe sorgente de sa pàgina
+    .accesskey = C
 menu-tools-page-info =
     .label = Informatziones de sa pàgina
     .accesskey = I
