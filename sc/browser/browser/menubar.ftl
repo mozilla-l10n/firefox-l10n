@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Preferèntzias
 menu-application-services =
     .label = Servìtzios
 menu-application-hide-this =
@@ -18,13 +20,34 @@ menu-application-hide-this =
 menu-application-hide-other =
     .label = Cua àteros
 menu-application-show-all =
-    .label = Ammustra Totu
+    .label = Ammustra totu
+menu-application-touch-bar =
+    .label = Personaliza sa barra tàtile...
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Essi
+           *[other] Essi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Essi de { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Essi de { -brand-shorter-name }
 menu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
@@ -37,15 +60,26 @@ menu-file =
 menu-file-new-tab =
     .label = Ischeda noa
     .accesskey = n
+menu-file-new-container-tab =
+    .label = Ischeda cuntenidore noa
+    .accesskey = I
 menu-file-new-window =
     .label = Ventana noa
     .accesskey = n
 menu-file-new-private-window =
     .label = Ventana privada noa
     .accesskey = V
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Aberi su percursu
 menu-file-open-file =
     .label = Aberi un'archìviu...
     .accesskey = A
+menu-file-close =
+    .label = Serra
+    .accesskey = S
 menu-file-close-window =
     .label = Serra sa ventana
     .accesskey = v
