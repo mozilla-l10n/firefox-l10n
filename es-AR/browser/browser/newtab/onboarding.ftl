@@ -201,7 +201,7 @@ onboarding-multistage-theme-tooltip-light-2 =
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
-        Usar una apariencia clara para botones, 
+        Usar una apariencia clara para botones,
         menúes y ventanas.
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
@@ -211,7 +211,7 @@ onboarding-multistage-theme-tooltip-dark-2 =
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
-        Usar una apariencia oscura para botones, 
+        Usar una apariencia oscura para botones,
         menúes y ventanas.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =

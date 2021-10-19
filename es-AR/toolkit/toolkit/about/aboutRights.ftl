@@ -20,7 +20,10 @@ rights-safebrowsing-term-2 = Seleccionar la pestaña Seguridad
 rights-safebrowsing-term-3 = Desmarcar la opción para "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Bloquear contenido peligroso y engañoso
 rights-safebrowsing-term-4 = La navegación segura ahora está deshabilitada
-rights-locationawarebrowsing = <strong>Navegación con ubicación geográfica: </strong>siempre es opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta característica por completo, siga estos pasos:
+rights-locationawarebrowsing =
+    <strong>Navegación con ubicación geográfica: </strong>siempre es opcional. Nunca se envía
+    información de ubicación sin su permiso. Si quiere
+    deshabilitar esta característica por completo, siga estos pasos:
 rights-locationawarebrowsing-term-1 = En la barra de direcciones ingrese <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Ingrese geo.enabled
 rights-locationawarebrowsing-term-3 = Haga doble clic en la preferencia geo.enabled
