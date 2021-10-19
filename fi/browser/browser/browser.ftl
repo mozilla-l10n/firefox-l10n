@@ -770,3 +770,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listaa kaikki välilehdet
     .tooltiptext = Listaa kaikki välilehdet
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Näytä ohje
