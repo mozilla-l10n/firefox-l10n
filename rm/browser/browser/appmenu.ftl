@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Analisa da la prestaziun
     .tooltiptext = Registrar in profil per l'analisa da la prestaziun
+profiler-popup-button-recording =
+    .label = Profilader
+    .tooltiptext = Il profilader registrescha in profil
+profiler-popup-button-capturing =
+    .label = Profilader
+    .tooltiptext = Il profilader registrescha in profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Preselecziun recumandada per il debugadi da las bleras web-apps cun pitschen overhead.
 
 ## History panel
 
