@@ -79,12 +79,44 @@ newtab-topsite-sponsored = Isponsorizadu
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Aberi su menù
+    .aria-label = Aberi su menù
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Boga
+    .aria-label = Boga
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Aberi su menù
+    .aria-label = Aberi su menù de cuntestu pro { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Modìfica custu situ
+    .aria-label = Modìfica custu situ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Modìfica
+newtab-menu-open-new-window = Aberi in una ventana noa
+newtab-menu-open-new-private-window = Aberi in una ventana privada noa
+newtab-menu-dismiss = Iscarta
+newtab-menu-pin = Apica
+newtab-menu-unpin = Isbloca
+newtab-menu-delete-history = Cantzella dae sa cronologia
+newtab-menu-save-to-pocket = Sarva in { -pocket-brand-name }
+newtab-menu-delete-pocket = Cantzella dae { -pocket-brand-name }
+newtab-menu-archive-pocket = Archìvia in { -pocket-brand-name }
+newtab-menu-show-privacy-info = Is isponsorizadores nostros e sa riservadesa tua
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Fatu
+newtab-privacy-modal-button-manage = Amministra is cunfiguratziones pro is cuntenutos isponsorizados
+newtab-privacy-modal-header = Sa riservadesa tua est de importu.
 
 ##
 
