@@ -24,4 +24,5 @@ install-failed-message = Installacion de { -brand-short-name } fracassada mas te
 
 prompt-to-launch-existing-app-title = Dobrir l’aplicacion{ -brand-short-name } existenta ?
 prompt-to-launch-existing-app-message = Avètz ja { -brand-short-name } d’installat. Utilizatz l’aplicacion installada per demorar a jorn e evitar una pèrda de donadas.
+prompt-to-launch-existing-app-yes-button = Dobrir l’existenta
 prompt-to-launch-existing-app-no-button = Non, mercé

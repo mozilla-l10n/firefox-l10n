@@ -181,6 +181,10 @@ profiler-popup-presets-firefox-graphics-description = Reglatge recomandat pels e
 profiler-popup-presets-firefox-graphics-label =
     .label = Grafics de Firefox
 profiler-popup-presets-media-description = Reglatge recomandat pel diagnosticar los problèmas àudio e vidèo.
+profiler-popup-presets-media-label =
+    .label = Multimèdia
+profiler-popup-presets-custom-label =
+    .label = Personalizats
 
 ## History panel
 

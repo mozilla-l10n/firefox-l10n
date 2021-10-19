@@ -110,6 +110,9 @@ places-remove-bookmark =
            *[other] Suprimir los marcapaginas
         }
     .accesskey = S
+places-show-in-folder =
+    .label = Mostrar dins Finder
+    .accesskey = M
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
