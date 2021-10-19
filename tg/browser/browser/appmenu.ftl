@@ -115,6 +115,15 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = Профилсоз
+    .tooltiptext = Профили самаранокро сабт кунед
+profiler-popup-button-recording =
+    .label = Профилсоз
+    .tooltiptext = Профилсоз профилеро сабт карда истодааст
+profiler-popup-button-capturing =
+    .label = Профилсоз
+    .tooltiptext = Профилсоз профилеро нусха бардошта истодааст
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -169,6 +178,8 @@ profiler-popup-presets-web-developer-label =
     .label = Барномарезии сомонаҳо
 profiler-popup-presets-firefox-platform-label =
     .label = Платформаи Firefox
+profiler-popup-presets-media-label =
+    .label = Расона
 profiler-popup-presets-custom-label =
     .label = Фармоишӣ
 
