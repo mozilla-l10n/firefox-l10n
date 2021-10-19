@@ -168,8 +168,19 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Reglatge recomandat pel desbugatge de la màger part de las aplicacions amb pauca subrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desvolopaire web
+profiler-popup-presets-firefox-platform-description = Reglatge recomandat pel desbugatge intèrne de la platafòrma Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Platafòrma Firefox
+profiler-popup-presets-firefox-front-end-description = Reglatge recomandat pel desbugatge intèrne de l’interfàcia Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Interfàcia Firefox
+profiler-popup-presets-firefox-graphics-description = Reglatge recomandat pels estudis de las performanças graficas de Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Grafics de Firefox
+profiler-popup-presets-media-description = Reglatge recomandat pel diagnosticar los problèmas àudio e vidèo.
 
 ## History panel
 
