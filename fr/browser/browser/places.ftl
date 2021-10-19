@@ -109,6 +109,9 @@ places-remove-bookmark =
            *[other] Supprimer les marque-pages
         }
     .accesskey = e
+places-show-in-folder =
+    .label = Afficher dans le dossier
+    .accesskey = d
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =

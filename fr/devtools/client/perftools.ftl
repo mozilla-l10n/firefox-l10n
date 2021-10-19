@@ -39,9 +39,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Taille du tampon :
-
 perftools-custom-threads-label = Ajouter des threads personnalisés par nom :
-
 perftools-devtools-interval-label = Intervalle :
 perftools-devtools-threads-label = Threads :
 perftools-devtools-settings-label = Paramètres
@@ -100,7 +98,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorer les sélections ci-dessus et enregistrer tous les fils enregistrés
-
 perftools-tools-threads-input-label =
     .title = Ces noms de fil d’exécution sont une liste séparée par des virgules utilisée pour activer le profilage des fils dans le profileur. Le nom ne doit correspondre que partiellement au nom du fil à inclure. Il est sensible aux espaces.
 
@@ -109,9 +106,27 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nouveau</b> : le { -profiler-brand-name } est à présent intégré dans les outils de développement. <a>En savoir plus</a> sur ce nouvel outil puissant.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pour une durée limitée, vous pouvez accéder au panneau de performances d’origine via <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Fermer le message d’intégration
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-firefox-platform-label = Plateforme Firefox
+perftools-presets-firefox-platform-description = Réglage recommandé pour le débogage interne de la plateforme Firefox.
+perftools-presets-firefox-front-end-label = Interface Firefox
+perftools-presets-firefox-front-end-description = Réglage recommandé pour le débogage interne de l’interface Firefox.
+perftools-presets-firefox-graphics-label = Performances graphiques de Firefox
+perftools-presets-firefox-graphics-description = Réglage recommandé pour l’étude des performances graphiques de Firefox.
+perftools-presets-media-label = Multimédia
+perftools-presets-media-description = Réglage recommandé pour diagnostiquer les problèmes audio et vidéo.
+perftools-presets-custom-label = Personnalisé
+
+##
+

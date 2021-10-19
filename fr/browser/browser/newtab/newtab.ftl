@@ -238,6 +238,9 @@ newtab-pocket-load-more-stories-button = Afficher plus d’articles
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-title = Vous avez fait le tour !
+newtab-pocket-last-card-desc = Revenez plus tard pour découvrir plus de contenu.
+newtab-pocket-last-card-image =
+    .alt = Vous avez fait le tour !
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

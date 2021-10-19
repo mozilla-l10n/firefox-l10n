@@ -24,4 +24,5 @@ install-failed-message = { -brand-short-name } n’a pas pu être installé mais
 
 prompt-to-launch-existing-app-title = Ouvrir l’application { -brand-short-name } existante ?
 prompt-to-launch-existing-app-message = Vous avez déjà installé { -brand-short-name }. Utilisez l’application installée pour rester à jour et éviter la perte de données.
+prompt-to-launch-existing-app-yes-button = Ouvrir l’application existante
 prompt-to-launch-existing-app-no-button = Non merci
