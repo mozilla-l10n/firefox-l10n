@@ -270,6 +270,16 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informatziones de sa pàgina
     .accesskey = I
+menu-settings =
+    .label = Cunfiguratzione
+    .accesskey =
+        { PLATFORM() ->
+            [windows] C
+           *[other] f
+        }
+menu-tools-layout-debugger =
+    .label = Curretzione de faddinas de dispositzione
+    .accesskey = u
 
 ## Window Menu
 
@@ -292,3 +302,28 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Agiudu
     .accesskey = A
+menu-get-help =
+    .label = Otene agiudu
+    .accesskey = O
+menu-help-more-troubleshooting-info =
+    .label = Informatzione de curretzione de faddinas
+    .accesskey = I
+menu-help-report-site-issue =
+    .label = Informa de unu problema de custu situ...
+menu-help-feedback-page =
+    .label = Imbia cummentos...
+    .accesskey = s
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modalidade de curretzione de faddinas...
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Disativa sa modalidade de curretzione de faddinas
+    .accesskey = d
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Informa de unu situ ingannosu...
+    .accesskey = n
+menu-help-not-deceptive =
+    .label = Custu no est unu situ ingannosu...
+    .accesskey = g
