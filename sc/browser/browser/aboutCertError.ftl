@@ -7,6 +7,12 @@
 cert-error-intro = { $hostname } est impreende unu tzertificadu de seguresa non vàlidu.
 cert-error-mitm-intro = Is sitos web verìficant s'identidade issoro pro mèdiu de tzertificados, emìtidos dae is autoridades.
 cert-error-mitm-connection = { -brand-short-name } impreat su magasinu de CA de Mozilla pro verificare chi una connessione siat segura, imbetzes de impreare tzertificados frunidos dae su sistema operativu de s'usuàriu. Duncas, si unu programma anti-virus o una rete de traballu est intertzetende una connessione cun unu tzertificadu de seguresa emìtidu dae unu CA chi non est in su magasinu CA de Mozilla, sa connessione est cunsiderada non segura.
+cert-error-trust-unknown-issuer-intro = Mancari sunt proende a si sostituire a su situ e non dias dèpere sighire.
+cert-error-details-cert-chain-label = Cadena de tzertificatziones:
+open-in-new-window-for-csp-or-xfo-error = Aberi situ in una ventana noa
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Pro amparare sa seguresa tua, { $hostname } no at a permìtere { -brand-short-name } de ammustrare sa pàgina si est inclùdida in un'àteru situ. Pro visualizare sa pàgina, depes abèrrere una ventana noa.
 
 ## Messages used for certificate error titles
 

@@ -17,9 +17,11 @@ error-short-desc-text = Bos torramus bìsita in paghe e bonu voluntade!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Unu robot non podet fàghere dannu a un'umanu o, pro inatzione, permìtere chi un'umanu siat fertu.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Is robots ant bidu cosas chi boisàteros, umanos, non diais àere mai crèidu.
+error-long-desc2 = Is robot ant bidu cosas chi boisàteros, umanos, non diais àere mai crèidu.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = Is robots sunt is amigos de plàstica bostros cun chie bos podides ispassiare.
+error-long-desc3 = Is robot sunt is amigos de plàstica bostros cun chie bos podides ispassiare.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Is robot tenent traseris de metallu lughente chi no si diant dèpere mossigare.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = E tenent unu pranu.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.

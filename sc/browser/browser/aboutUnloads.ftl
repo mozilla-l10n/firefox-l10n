@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = Iscarrigamentu de ischedas
+about-unloads-intro-2 =
+    Is ischedas chi esistint sunt ammustradas in sa tàula in suta in su pròpiu òrdine impreadu dae
+    { -brand-short-name } pro seberare s'ischeda imbeniente de iscarrigare. Is ID de protzessos sunt
+    ammustrados in <strong>grassetu</strong> cando sunt retzende sa curnisa de susu de s'ischeda,
+    e in <em>corsivu</em> cando su protzessu si partzit cun ischedas diferentes.
+    Podes incarrerare a iscarrigare a manu incarchende in su butone <em>Iscàrriga</em>
+    in suta.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
@@ -19,6 +26,8 @@ about-unloads-no-unloadable-tab = Nissuna ischeda de iscarrigare.
 about-unloads-column-priority = Prioridade
 about-unloads-column-host = Indiritzu
 about-unloads-column-last-accessed = Ùrtimu atzessu
+about-unloads-column-sortweight = Pesu segundàriu
+    .title = Si a disponimentu, is ischedas sunt assentadas segundu custu valore a pustis de s'assentada subra sa base de su pesu. Su valore benit dae s'impreu de sa memòria e dae su nùmeru de protzessos.
 about-unloads-column-memory = Memòria
     .title = Impreu de memòria istimadu in s'ischeda
 about-unloads-column-processes = ID de protzessos

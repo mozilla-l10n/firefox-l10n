@@ -163,6 +163,11 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] Boles bogare { $count } credentziale dae totu is dispositivos?
        *[other] Boles bogare totu is { $count } credentziales dae totu is dispositivos?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Custu at bogare is credentziales chi as sarvadu in { -brand-short-name } in totu is dispositivos sincronizados cun su contu de { -fxaccount-brand-name }. Custu nch'at a bogare puru is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
+       *[other] Custu at bogare totu is credentziales chi as sarvadu in { -brand-short-name } in totu is dispositivos sincronizados cun su contu de { -fxaccount-brand-name }. Custu nch'at a bogare puru is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
+    }
 about-logins-confirm-export-dialog-title = Esporta credentziales e craes
 about-logins-confirm-export-dialog-message = Is craes tuas ant a èssere sarvadas comente testu leghìbile (comente «Cr@eN0Segura»), duncas chie si siat abèrgiat s'archìviu esportadu ddas at a pòdere bìdere.
 about-logins-confirm-export-dialog-confirm-button = Esporta...
@@ -174,6 +179,9 @@ confirm-discard-changes-dialog-confirm-button = Iscarta
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Violatzione de su situ
+breach-alert-text = Is craes de custu situ sunt istadas furadas o isparghinadas s'ùrtima borta chi as agiornadu is credentziales. Muda sa crae pro amparare su contu tuo.
+about-logins-breach-alert-date = Custa violatzione est acontèssida su { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Bae a { $hostname }
@@ -182,6 +190,7 @@ about-logins-breach-alert-learn-more-link = Àteras informatziones
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Crae non segura
+about-logins-vulnerable-alert-text2 = Custa crae est istada impreada in un'àteru contu mancari cumpromìtidu in una violatzione de datos. Torrare a impreare is credentziales est perigulosu pro is contos tuos. Muda custa crae.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Bae a { $hostname }
