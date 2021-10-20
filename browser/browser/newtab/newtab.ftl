@@ -226,10 +226,22 @@ newtab-discovery-empty-section-topstories-timed-out = Ой! Мы амаль за
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Папулярныя тэмы:
+newtab-pocket-new-topics-title = Хочаце яшчэ больш гісторый? Глядзіце гэтыя папулярныя тэмы ад { -pocket-brand-name }
 newtab-pocket-more-recommendations = Больш рэкамендацый
 newtab-pocket-learn-more = Падрабязней
 newtab-pocket-cta-button = Атрымаць { -pocket-brand-name }
 newtab-pocket-cta-text = Захоўвайце ўлюбёныя гісторыі ў { -pocket-brand-name }, і сілкуйце свой розум добрай чытанкай.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } уваходзіць у сямейства { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Захаваць у { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Захавана ў { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Загрузіць больш гісторый
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Вы ўсё прачыталі!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
