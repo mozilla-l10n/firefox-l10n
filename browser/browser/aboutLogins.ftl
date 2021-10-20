@@ -124,9 +124,14 @@ confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Vànni a { $hostname }
+about-logins-breach-alert-learn-more-link = Atre informaçioin
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Poula segreta vulnerabile
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Vànni a { $hostname }
@@ -136,6 +141,10 @@ about-logins-vulnerable-alert-link = Vànni a { $hostname }
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = acesci.csv
+about-logins-export-file-picker-export-button = Espòrta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
@@ -146,11 +155,34 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Inpòrta file de acesso
+about-logins-import-file-picker-import-button = Inpòrta
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento CSV
+       *[other] Schedaio CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento TSV
+       *[other] Schedaio TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Inportaçion terminâ
+about-logins-import-dialog-error-cancel = Anulla
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Linia { $number }
 
 ##
 ## Variables:
