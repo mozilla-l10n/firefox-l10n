@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profilering
     .tooltiptext = Optag en ydelses-profil
+profiler-popup-button-recording =
+    .label = Profilering
+    .tooltiptext = Profilerings-værktøjet er ved at optage en profil
+profiler-popup-button-capturing =
+    .label = Profilering
+    .tooltiptext = Profilerings-værktøjet er ved at indfange en profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,21 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Anbefalet forhåndsindstilling med lavt overhead for generel debugging af web-apps.
+profiler-popup-presets-firefox-platform-description = Anbefalet forhåndsindstilling for intern debugging af Firefox-platformen.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox-platformen
+profiler-popup-presets-firefox-front-end-description = Anbefalet forhåndsindstilling for intern debugging af Firefox' frontend.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox frontend
+profiler-popup-presets-firefox-graphics-description = Anbefalet forhåndsindstilling for undersøgelse af grafik-ydelse i Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox-grafik
+profiler-popup-presets-media-description = Anbefalet forhåndsindstilling for at diagnosticere problemer med lyd og video.
+profiler-popup-presets-media-label =
+    .label = Medieindhold
+profiler-popup-presets-custom-label =
+    .label = Tilpasset
 
 ## History panel
 
