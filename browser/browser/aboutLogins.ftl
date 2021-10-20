@@ -313,6 +313,16 @@ about-logins-import-report-row-description-error-missing-field = Viga: väli { $
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uus kasutajakonto lisatud</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uut kasutajakontot lisatud</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolev kasutajakonto uuendati</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolevat kasutajakontot uuendati</div>
+    }
 
 ## Logins import report page
 
