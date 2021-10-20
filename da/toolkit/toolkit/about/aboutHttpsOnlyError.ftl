@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Advarsel for tilstanden kun-HTTPS
 about-httpsonly-title-connection-not-available = Sikker forbindelse er ikke tilgængelig
-
+about-httpsonly-title-site-not-available = Sikkert websted er ikke tilgængeligt
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Du har aktiveret tilstanden kun-HTTPS for at øge sikkerheden, og en HTTPS-version af <em>{ $websiteUrl }</em> er ikke tilgængelig.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Hvad kan årsagen være til dette?
 about-httpsonly-explanation-nosupport = Sandsynligvis understøtter webstedet simpelthen ikke HTTPS.
 about-httpsonly-explanation-risk = Det er også muligt, at en ondsindet aktør er involveret. Hvis du beslutter at besøge webstedet, så bør du ikke angive følsomme data som fx adgangskoder, mailadresser eller informationer om betalingskort.
 about-httpsonly-explanation-continue = Hvis du fortsætter, så vil kun-HTTPS blive slået midlertidigt fra for dette websted.
-
 about-httpsonly-button-continue-to-site = Fortsæt til HTTP-websted
 about-httpsonly-button-go-back = Gå tilbage
 about-httpsonly-link-learn-more = Læs mere…

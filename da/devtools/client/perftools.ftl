@@ -125,6 +125,7 @@ perftools-presets-web-developer-label = Webudvikler
 perftools-presets-web-developer-description = Anbefalet forhåndsindstilling med lavt overhead for generel debugging af web-apps.
 perftools-presets-firefox-platform-label = Firefox-platformen
 perftools-presets-firefox-platform-description = Anbefalet forhåndsindstilling for intern debugging af Firefox-platformen.
+perftools-presets-firefox-front-end-label = Firefox frontend
 perftools-presets-firefox-front-end-description = Anbefalet forhåndsindstilling for intern debugging af Firefox' frontend.
 perftools-presets-firefox-graphics-label = Firefox-grafik
 perftools-presets-firefox-graphics-description = Anbefalet forhåndsindstilling for undersøgelse af grafik-ydelse i Firefox.
