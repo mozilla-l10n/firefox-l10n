@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Прафайлер
     .tooltiptext = Запісаць профіль прадукцыйнасці
+profiler-popup-button-recording =
+    .label = Прафайлер
+    .tooltiptext = Прафайлер запісвае профіль
+profiler-popup-button-capturing =
+    .label = Прафайлер
+    .tooltiptext = Прафайлер захоплівае профіль
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,21 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Рэкамендаваны прадусталяваны варыянт для адладкі большасці вэб-прыкладанняў, з невялікімі выдаткамі.
+profiler-popup-presets-web-developer-label =
+    .label = Распрацоўшчык Сеціва
+profiler-popup-presets-firefox-platform-description = Рэкамендаваныя папярэднія налады для ўнутранай адладкі платформы Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Платформа Firefox
+profiler-popup-presets-firefox-front-end-description = Рэкамендаваныя папярэднія налады для ўнутранай адладкі кліенцкай часткі Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Кліенцкая частка Firefox
+profiler-popup-presets-firefox-graphics-label =
+    .label = Графіка Firefox
+profiler-popup-presets-media-label =
+    .label = Медыя
+profiler-popup-presets-custom-label =
+    .label = Адмысловыя
 
 ## History panel
 
