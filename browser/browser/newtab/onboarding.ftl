@@ -150,6 +150,15 @@ mr1-onboarding-import-primary-button-label-no-attribution = Importer fra tidlige
 mr1-onboarding-import-secondary-button-label = Ikke nu
 mr2-onboarding-colorway-header = Nye farver
 mr2-onboarding-colorway-secondary-button-label = Ikke nu
+mr2-onboarding-colorway-label-soft = Blød
+mr2-onboarding-colorway-label-balanced = Balanceret
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Dristig
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automatisk
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Standard
 mr1-onboarding-theme-header = Du bestemmer
 mr1-onboarding-theme-subtitle = Gør{ -brand-short-name } mere personlig med et tema.
 mr1-onboarding-theme-primary-button-label = Gem tema
