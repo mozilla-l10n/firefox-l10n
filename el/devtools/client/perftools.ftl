@@ -124,7 +124,9 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Ανάπτυξη web
 perftools-presets-firefox-platform-label = Πλατφόρμα Firefox
 perftools-presets-firefox-graphics-label = Γραφικά Firefox
+perftools-presets-firefox-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση επιδόσεων γραφικών του Firefox.
 perftools-presets-media-label = Πολυμέσα
+perftools-presets-media-description = Προτεινόμενη προεπιλογή για τη διάγνωση προβλημάτων ήχου και βίντεο.
 
 ##
 

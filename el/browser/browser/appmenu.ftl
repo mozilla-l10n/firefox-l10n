@@ -175,10 +175,14 @@ profiler-popup-presets-web-developer-label =
     .label = Ανάπτυξη web
 profiler-popup-presets-firefox-platform-label =
     .label = Πλατφόρμα Firefox
+profiler-popup-presets-firefox-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση επιδόσεων γραφικών του Firefox.
 profiler-popup-presets-firefox-graphics-label =
     .label = Γραφικά Firefox
+profiler-popup-presets-media-description = Προτεινόμενη προεπιλογή για τη διάγνωση προβλημάτων ήχου και βίντεο.
 profiler-popup-presets-media-label =
     .label = Πολυμέσα
+profiler-popup-presets-custom-label =
+    .label = Προσαρμογή
 
 ## History panel
 
