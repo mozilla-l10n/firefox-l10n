@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Login e Poule segrete
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Çerca inti login
-
 create-login-button = Crea neuvo login
-
 fxaccounts-sign-in-sync-button = Acedi a sync
 fxaccounts-avatar-button =
     .title = Gestisci conto
@@ -44,11 +39,13 @@ login-list-count =
 login-list-sort-label-text = Ordina pe:
 login-list-name-option = Nommi (A-Z)
 login-list-name-reverse-option = Nommi (Z-A)
+login-list-username-reverse-option = Nomme utente (Z-A)
 about-logins-login-list-alerts-option = Alarmi
 login-list-last-changed-option = Urtimo cangiamento
 login-list-last-used-option = Urtima vòtta
 login-list-intro-title = Nisciun acesso trovou
 about-logins-login-list-empty-search-title = Nisciun acesso trovou
+about-logins-login-list-empty-search-description = No gh'é exiti da teu riçerca
 login-list-item-title-new-login = Nuovo login
 login-list-item-subtitle-new-login = Scrivi e teu credensiali
 login-list-item-subtitle-missing-username = (nisciun nomme utente)
@@ -56,8 +53,15 @@ about-logins-list-item-breach-icon =
     .title = Scito ch'o viola i dæti
 about-logins-list-item-vulnerable-password-icon =
     .title = Poula segreta vulnerabile
+about-logins-list-section-breach = Scito con violaçioin
+about-logins-list-section-vulnerable = Poula segreta vulnerabile
+about-logins-list-section-nothing = Nisciun avizo
+about-logins-list-section-today = Ancheu
+about-logins-list-section-yesterday = Vei
+about-logins-list-section-week = Urtimi 7 giorni
 
 ## Introduction screen
+
 
 ## Login
 
@@ -95,12 +99,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = cangia l'acesso sarvou
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segrete
-
-## Master Password notification
 
 ## Primary Password notification
 
@@ -108,21 +109,17 @@ master-password-reload-button =
     .label = Intra
     .accesskey = I
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
-
 about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
 confirm-delete-dialog-message = St'açion a no peu ese anula.
 about-logins-confirm-remove-dialog-confirm-button = Scancella
-
 about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
 about-logins-confirm-export-dialog-confirm-button = Espòrta…
-
+about-logins-alert-import-title = Inportaçion terminâ
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
