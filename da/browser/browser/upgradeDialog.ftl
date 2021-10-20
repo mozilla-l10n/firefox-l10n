@@ -64,6 +64,16 @@ upgrade-dialog-default-secondary-button = Ikke nu
 upgrade-dialog-theme-title-2 = Start på en frisk med et nyt tema
 upgrade-dialog-theme-system = Systemets tema
     .title = Følg operativsystems tema til knapper, menuer og vinduer
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Nye farver
+upgrade-dialog-start-secondary-button = Ikke nu
+
+## Colorway screen
+
+upgrade-dialog-colorway-default-theme = Standard
 upgrade-dialog-theme-light = Lyst
     .title = Brug et lyst tema til knapper, menuer og vinduer
 upgrade-dialog-theme-dark = Mørkt
@@ -74,3 +84,6 @@ upgrade-dialog-theme-keep = Behold det gamle
     .title = Brug samme tema fra før du opdaterede { -brand-short-name }
 upgrade-dialog-theme-primary-button = Gem tema
 upgrade-dialog-theme-secondary-button = Ikke nu
+
+## Thank you screen
+
