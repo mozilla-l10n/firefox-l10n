@@ -17,3 +17,5 @@ chat-participant-voiced-role-icon2 =
 chat-verify-identity =
     .label = Επαλήθευση ταυτότητας
     .accesskey = Ε
+chat-identity-verified =
+    .label = Η ταυτότητα έχει ήδη επαληθευτεί
