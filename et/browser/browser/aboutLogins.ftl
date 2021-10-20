@@ -68,7 +68,7 @@ about-logins-list-section-week = Viimased 7 päeva
 about-logins-login-intro-heading-logged-out2 = Kas otsid oma salvestatud kasutajatunnuseid? Lülita sünkrooniseerimine sisse või impordi need.
 about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
-login-intro-instructions-fxa = Loo { -fxaccount-brand-name(capitalization: "sentence") } või logi sisse seadmes, kus salvestatud kasutajakontod on
+login-intro-instructions-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
 login-intro-instructions-fxa-settings = Ava Sätted > Sync > Lülita sünkroniseerimine sisse… Märgi linnukesega Kasutajatunnused ja paroolid.
 login-intro-instructions-fxa-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>.
 about-logins-intro-import = Kui sinu kasutajakontod on salvestatud teise brauserisse, siis saad need <a data-l10n-name="import-link">importida { -lockwise-brand-short-name }'i</a>
