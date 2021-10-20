@@ -108,6 +108,9 @@ places-remove-bookmark =
            *[other] Fjern bogmærker
         }
     .accesskey = j
+places-show-in-folder =
+    .label = Vis i mappe
+    .accesskey = m
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
