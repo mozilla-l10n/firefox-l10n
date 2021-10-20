@@ -149,6 +149,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importer fra { $previou
 mr1-onboarding-import-primary-button-label-no-attribution = Importer fra tidligere browser
 mr1-onboarding-import-secondary-button-label = Ikke nu
 mr2-onboarding-colorway-header = Nye farver
+mr2-onboarding-colorway-subtitle = Dynamiske nye farvekombinationer. Findes kun i begrænset tid.
+mr2-onboarding-colorway-primary-button-label = Gem farvekombination
 mr2-onboarding-colorway-secondary-button-label = Ikke nu
 mr2-onboarding-colorway-label-soft = Blød
 mr2-onboarding-colorway-label-balanced = Balanceret
@@ -264,6 +266,33 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Brug et dynamisk og farverigt tema til knapper, 
         menuer og vinduer.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Brug denne farvekombination.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Brug denne farvekombination.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Udforsk { $colorwayName }-farvekombinationer.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Udforsk { $colorwayName }-farvekombinationer.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Udforsk standard-temaer.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Udforsk standard-temaer.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Tak for at du valgte os
+mr2-onboarding-thank-you-text = { -brand-short-name } er en uafhængig browser støttet af en nonprofit-organisation. Sammen sørger vi for, at internettet er sikrere, sundere og respekterer folks privatliv.
+mr2-onboarding-start-browsing-button-label = Afslut rundvisningen
