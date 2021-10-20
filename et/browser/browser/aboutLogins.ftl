@@ -65,8 +65,12 @@ about-logins-list-section-week = Viimased 7 päeva
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = Kas otsid oma salvestatud kasutajatunnuseid? Lülita sünkrooniseerimine sisse või impordi need.
 about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
+login-intro-instructions-fxa = Loo { -fxaccount-brand-name(capitalization: "sentence") } või logi sisse seadmes, kus salvestatud kasutajakontod on
+login-intro-instructions-fxa-settings = Ava Sätted > Sync > Lülita sünkroniseerimine sisse… Märgi linnukesega Kasutajatunnused ja paroolid.
+login-intro-instructions-fxa-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>.
 about-logins-intro-import = Kui sinu kasutajakontod on salvestatud teise brauserisse, siis saad need <a data-l10n-name="import-link">importida { -lockwise-brand-short-name }'i</a>
 about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
 
@@ -285,12 +289,25 @@ about-logins-import-dialog-error-unable-to-read-title = Faili töötlemine ebaõ
 about-logins-import-dialog-error-unable-to-read-description = Veendu, et valisid CSV- või TSV-faili.
 about-logins-import-dialog-error-no-logins-imported = Ühtegi kasutajatunnust ei imporditud
 about-logins-import-dialog-error-learn-more = Rohkem teavet
+about-logins-import-dialog-error-try-import-again = Proovi uuesti importida…
 about-logins-import-dialog-error-cancel = Tühista
+about-logins-import-report-title = Importimise kokkuvõte
+about-logins-import-report-description = { -brand-short-name }i imporditud kasutajatunnused ja paroolid.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rida { $number }
+about-logins-import-report-row-description-no-change = Duplikaat: olemasoleva kasutajakonto täpne koopia
+about-logins-import-report-row-description-modified = Olemasolev kasutajatunnus uuendati
+about-logins-import-report-row-description-added = Lisati uus kasutajatunnus
+about-logins-import-report-row-description-error = Viga: väli puudub
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Viga: mitu väärtust väljale { $field }
+about-logins-import-report-row-description-error-missing-field = Viga: väli { $field } puudub
 
 ##
 ## Variables:
