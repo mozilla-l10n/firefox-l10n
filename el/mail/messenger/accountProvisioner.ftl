@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-provisioner-tab-title = Απόκτηση νέας διεύθυνσης email από πάροχο υπηρεσιών
 provisioner-searching-icon =
     .alt = Αναζήτηση…
+account-provisioner-title = Δημιουργία νέας διεύθυνσης email
 account-provisioner-mail-account-title = Αγορά νέας διεύθυνσης email
 account-provisioner-domain-description = Το Thunderbird συνεργάστηκε με το <a data-l10n-name="gandi-home-link">Gandi</a> για να σας προσφέρει έναν προσαρμοσμένο τομέα. Αυτό σας επιτρέπει να χρησιμοποιήσετε οποιαδήποτε διεύθυνση στον τομέα αυτό.
 
@@ -21,11 +23,14 @@ account-provisioner-button-back = Επιστροφή
 ## Notifications
 
 account-provisioner-fetching-provisioners = Ανάκτηση παρόχων…
+account-provisioner-connection-issues = Δεν ήταν δυνατή η επικοινωνία με τους διακομιστές εγγραφής μας. Παρακαλούμε ελέγξτε τη σύνδεσή σας.
 account-provisioner-searching-email = Αναζήτηση διαθέσιμων λογαριασμών email…
 account-provisioner-searching-domain = Αναζήτηση διαθέσιμων τομεών…
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Επιλέξτε λογαριασμό προς δημιουργία
 
 ## Search results
 
