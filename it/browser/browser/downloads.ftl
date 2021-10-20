@@ -43,6 +43,13 @@ downloads-cmd-show-menuitem-mac =
     .label = Mostra nel Finder
     .accesskey = F
 
+downloads-cmd-show-menuitem-2 =
+  .label = { PLATFORM() ->
+      [macos] Mostra nel Finder
+     *[other] Mostra nella cartella
+  }
+  .accesskey = n
+
 downloads-cmd-use-system-default =
   .label = Apri nel visualizzatore del sistema
   .accesskey = v
@@ -57,7 +64,6 @@ downloads-cmd-show-button =
             [macos] Mostra nel Finder
            *[other] Apri cartella di destinazione
         }
-
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -69,6 +75,25 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Mostra nel Finder
            *[other] Apri cartella di destinazione
+        }
+
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostra nel Finder
+           *[other] Mostra nella cartella
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mostra nel Finder
+           *[other] Mostra nella cartella
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Mostra nel Finder
+           *[other] Mostra nella cartella
         }
 
 downloads-cmd-show-downloads =
