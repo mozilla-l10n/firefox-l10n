@@ -132,3 +132,5 @@ about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνο
 about-addressbook-details-home-address-header = Διεύθυνση οικίας
 about-addressbook-details-work-address-header = Διεύθυνση εργασίας
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
+about-addressbook-prompt-to-save-title = Αποθήκευση αλλαγών;
+about-addressbook-prompt-to-save = Θέλετε να αποθηκεύσετε τις αλλαγές σας;

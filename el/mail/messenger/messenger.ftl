@@ -70,9 +70,14 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Ανακατεύθυνση
     .accesskey = κ
+menu-file-save-as-file =
+    .label = Αρχείο…
+    .accesskey = Α
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Αρχείο…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
