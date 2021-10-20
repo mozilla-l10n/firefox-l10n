@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Recurso recomendado
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por que isso apareceu
-
 cfr-doorhanger-extension-cancel-button = Agora não
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Adicionar agora
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gerenciar configuração de recomendações
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Não mostrar esta recomendação
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Saiba mais
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendação
 cfr-doorhanger-extension-notification2 = Recomendação
     .tooltiptext = Recomendação de extensão
     .a11y-announcement = Disponível uma recomendação de extensão
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendação
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } usuários
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronize seus favoritos em qualquer lugar.
@@ -79,7 +69,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Navegue sem ser seguido
-cfr-protections-panel-body = Mantenha seus dados com você. O { -brand-short-name } te protege de muitos dos rastreadores mais comuns que tentam seguir o que você faz online.
+cfr-protections-panel-body = Defenda seus dados. O { -brand-short-name } te protege de muitos dos rastreadores mais comuns que tentam seguir o que você faz online.
 cfr-protections-panel-link-text = Saiba mais
 
 ## What's New toolbar button and panel
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Saiba mais
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novo recurso:
-
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
-
 cfr-whatsnew-release-notes-link-text = Ler as notas de atualização
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -124,20 +94,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver tudo
     .accesskey = V
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Fechar
     .accesskey = F
 
