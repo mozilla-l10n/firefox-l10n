@@ -175,6 +175,8 @@ profiler-popup-capture-shortcut =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Anbefalet forhåndsindstilling med lavt overhead for generel debugging af web-apps.
+profiler-popup-presets-web-developer-label =
+    .label = Webudvikler
 profiler-popup-presets-firefox-platform-description = Anbefalet forhåndsindstilling for intern debugging af Firefox-platformen.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox-platformen

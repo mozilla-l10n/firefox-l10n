@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-størrelse:
-
 perftools-custom-threads-label = Tilføj tilpassede tråde ved deres navne:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Tråde:
 perftools-devtools-settings-label = Indstillinger
@@ -97,14 +95,12 @@ perftools-thread-img-decoder =
     .title = Billedafkodnings-tråde
 perftools-thread-dns-resolver =
     .title = DNS-opslag foregår på denne tråd
-
 perftools-thread-task-controller =
     .title = TaskController thread pool-tråde
 
 ##
 
 perftools-record-all-registered-threads = Ignorer valg ovenfor og optag alle registrerede tråde
-
 perftools-tools-threads-input-label =
     .title = Disse tråd-navne er en kommasepareret liste, der bruges til at aktivere profilering af trådene i profileringsværktøjet. Navnet behøver bare at stemme delvist overens med trådnavnet for at blive inkluderet. Mellemrum indgår i sammenligningen.
 
@@ -113,9 +109,28 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nyhed</b>: { -profiler-brand-name } er nu en del af Udviklerværktøj. <a>Læs mere</a> om dette praktiske nye værktøj.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (I en begrænset periode kan du se det originale Ydelses-panel i <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Luk introduktions-beskeden
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Webudvikler
+perftools-presets-web-developer-description = Anbefalet forhåndsindstilling med lavt overhead for generel debugging af web-apps.
+perftools-presets-firefox-platform-label = Firefox-platformen
+perftools-presets-firefox-platform-description = Anbefalet forhåndsindstilling for intern debugging af Firefox-platformen.
+perftools-presets-firefox-front-end-description = Anbefalet forhåndsindstilling for intern debugging af Firefox' frontend.
+perftools-presets-firefox-graphics-label = Firefox-grafik
+perftools-presets-firefox-graphics-description = Anbefalet forhåndsindstilling for undersøgelse af grafik-ydelse i Firefox.
+perftools-presets-media-label = Medieindhold
+perftools-presets-media-description = Anbefalet forhåndsindstilling for at diagnosticere problemer med lyd og video.
+perftools-presets-custom-label = Tilpasset
+
+##
+
