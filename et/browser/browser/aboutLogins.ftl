@@ -323,6 +323,16 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolev kasutajakonto uuendati</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolevat kasutajakontot uuendati</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaat</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaati</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">viga</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">viga</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
+    }
 
 ## Logins import report page
 
