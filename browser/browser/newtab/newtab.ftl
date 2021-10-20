@@ -242,6 +242,9 @@ newtab-pocket-load-more-stories-button = Загрузіць больш гіст�
 ## This is for the final card in the Pocket grid.
 
 newtab-pocket-last-card-title = Вы ўсё прачыталі!
+newtab-pocket-last-card-desc = Завітайце сюды пазней, каб пабачыць больш.
+newtab-pocket-last-card-image =
+    .alt = Вы ўсё прачыталі
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
