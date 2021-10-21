@@ -43,3 +43,7 @@ pocket-panel-signup-tagline-story-two = Vaata { -pocket-brand-name }ist kõigil 
 
 pocket-panel-home-my-list = Minu nimekiri
 pocket-panel-home-welcome-back = Tere tulemast tagasi
+pocket-panel-home-paragraph = { -pocket-brand-name }it saad kasutada veebisaitide, artiklite, videote, taskuhäälingusaadete avastamiseks ja salvestamiseks või loetu juurde naasmiseks.
+pocket-panel-home-explore-popular-topics = Avasta populaarseid teemasid
+pocket-panel-home-discover-more = Leia veel
+pocket-panel-home-explore-more = Avasta
