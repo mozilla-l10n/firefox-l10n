@@ -21,6 +21,14 @@ about-unloads-intro-2 =
     indeholder fanebladets øverste frame, og med <em>kursiv</em>, når 
     processen deles mellem forskellige faneblade. Du kan udløse nedlukning
     af faneblade manuelt ved at klikke på knappen <em>Nedluk</em> nedenfor.
+about-unloads-intro =
+    { -brand-short-name } har en funktion, der automatisk lukker faneblade 
+    ned for at forhindre programmet i at gå ned som følge af manglende 
+    hukommelse, når system ikke har meget tilgængelig hukommelse. En 
+    række kriterier bestemmer, hvilket faneblad, der lukkes ned først. Denne
+    side viser, hvordan { -brand-short-name } prioriterer mellem faneblade, og 
+    hvilket faneblad, der vil blive lukket ned, når nedlukning af faneblade udløses.
+    Du kan udløse nedlukning af faneblade manuelt ved at klikke på knappen <em>Nedluk</em> nedenfor.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
