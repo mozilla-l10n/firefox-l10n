@@ -11,11 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Lisa silte
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }isse salvestamisel esines viga.
 pocket-panel-saved-error-tag-length = Siltide pikkus võib olla kuni 25 tähemärki
 pocket-panel-saved-error-only-links = Salvestada saab ainult linke
 pocket-panel-saved-error-not-saved = Lehte ei salvestatud
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }isse salvestamiseks on vajalik töötav internetiühendus. Palun kontrolli oma ühendust ja proovi uuesti.
 pocket-panel-saved-page-removed = Leht eemaldati
 pocket-panel-saved-page-saved = { -pocket-brand-name }isse salvestatud
 pocket-panel-saved-processing-remove = Lehe eemaldamine…
@@ -41,3 +41,5 @@ pocket-panel-signup-tagline-story-two = Vaata { -pocket-brand-name }ist kõigil 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Minu nimekiri
+pocket-panel-home-welcome-back = Tere tulemast tagasi
