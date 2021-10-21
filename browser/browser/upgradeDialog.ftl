@@ -87,6 +87,9 @@ upgrade-dialog-colorway-theme-tooltip =
 upgrade-dialog-colorway-colorway-tooltip =
     .title = Udforsk { $colorwayName }-farvekombinationer
 upgrade-dialog-colorway-default-theme = Standard
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatisk
+    .title = Følg operativsystems tema til knapper, menuer og vinduer
 upgrade-dialog-theme-light = Lyst
     .title = Brug et lyst tema til knapper, menuer og vinduer
 upgrade-dialog-theme-dark = Mørkt
