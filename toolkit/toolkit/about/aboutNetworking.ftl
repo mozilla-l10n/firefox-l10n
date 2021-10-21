@@ -28,6 +28,7 @@ about-networking-trr = TRR
 about-networking-addresses = Indirizzi
 about-networking-expires = Scadenza (secondi)
 about-networking-originAttributesSuffix = Chiave di isolamento
+about-networking-flags = Flag aggiuntive
 about-networking-messages-sent = Messaggi inviati
 about-networking-messages-received = Messaggi ricevuti
 about-networking-bytes-sent = Byte inviati
