@@ -4,20 +4,16 @@
 
 connection-dns-over-https-url-resolver = Koristi pružatelja usluga
     .accesskey = r
-
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (zadano)
     .tooltiptext = Koristi zadani URL za DNS preko HTTPS
-
 connection-dns-over-https-url-custom =
     .label = Zadano
     .accesskey = Z
     .tooltiptext = Unesite željeni URL za DNS preko HTTPS
-
 connection-dns-over-https-custom-label = Zadano
-
 connection-dialog-window =
     .title = Postavke spajanja
     .style =
@@ -25,90 +21,74 @@ connection-dialog-window =
             [macos] width: 44em !important
            *[other] width: 49em !important
         }
-
 connection-disable-extension =
     .label = Onemogući dodatak
-
+disable-extension-button = Onemogući dodatak
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension = Dodatak, <img data-l10n-name="extension-icon" alt="" /> { $name }, kontrolira kako se { -brand-short-name } povezuje na Internet.
 connection-proxy-legend = Podesite proxy za pristupanje Internetu
-
 proxy-type-no =
     .label = Bez proxyja
     .accesskey = y
-
 proxy-type-wpad =
     .label = Automatski pronađi proxy postavke za ovu mrežu
     .accesskey = t
-
 proxy-type-system =
     .label = Koristi sistemske postavke za proxy
     .accesskey = s
-
 proxy-type-manual =
     .label = Ručno podešavanje proxyja:
     .accesskey = x
-
 proxy-http-label =
     .value = HTTP Proxy:
     .accesskey = H
-
 http-port-label =
     .value = Port:
     .accesskey = P
-
 proxy-http-sharing =
     .label = Koristi ovaj proxy i za HTTPS
     .accesskey = k
-
 proxy-https-label =
     .value = HTTPS proxy:
     .accesskey = S
-
 ssl-port-label =
     .value = Port:
     .accesskey = o
-
 proxy-socks-label =
     .value = SOCKS poslužitelj:
     .accesskey = C
-
 socks-port-label =
     .value = Port:
     .accesskey = t
-
 proxy-socks4-label =
     .label = SOCKS v4
     .accesskey = K
-
 proxy-socks5-label =
     .label = SOCKS v5
     .accesskey = v
-
 proxy-type-auto =
     .label = URL za automatsko podešavanje proxyja:
     .accesskey = a
-
 proxy-reload-label =
     .label = Ponovno učitaj
     .accesskey = j
-
 no-proxy-label =
     .value = Bez proxyja za:
     .accesskey = z
-
 no-proxy-example = Primjer: .mozilla.org, .net.nz, 192.168.1.0/24
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Veze na localhost, 127.0.0.1/8, i ::1 nikada nisu preko proxy.
-
 proxy-password-prompt =
     .label = Ne pitaj za prijavu ukoliko je lozinka spremljena
     .accesskey = i
     .tooltiptext = Ova mogućnost vas tiho prijavi na proxy ukoliko imate spremljene lozinke za njih. Biti ćete obaviješteni ukoliko prijava nije uspješna.
-
 proxy-remote-dns =
     .label = Proxy DNS ukoliko se koristi SOCKS v5
     .accesskey = d
-
 proxy-enable-doh =
     .label = Omogući DNS preko HTTPS
     .accesskey = D
