@@ -6,9 +6,41 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } est impreende unu tzertificadu de seguresa non vàlidu.
 cert-error-mitm-intro = Is sitos web verìficant s'identidade issoro pro mèdiu de tzertificados, emìtidos dae is autoridades.
+cert-error-mitm-mozilla = { -brand-short-name } est suportadu dae Mozilla, organizatzione chena profetu chi gestit unu depòsitu de autoridade de tzertificatzione de su totu abertu (CA). Su depòsitu CA agiudat a garantire chi is autoridades de tzertificatzione siant sighende pràticas seguras pro s'amparu de is utentes.
 cert-error-mitm-connection = { -brand-short-name } impreat su magasinu de CA de Mozilla pro verificare chi una connessione siat segura, imbetzes de impreare tzertificados frunidos dae su sistema operativu de s'usuàriu. Duncas, si unu programma anti-virus o una rete de traballu est intertzetende una connessione cun unu tzertificadu de seguresa emìtidu dae unu CA chi non est in su magasinu CA de Mozilla, sa connessione est cunsiderada non segura.
 cert-error-trust-unknown-issuer-intro = Mancari sunt proende a si sostituire a su situ e non dias dèpere sighire.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = Is sitos dimostrant s'identidade issoro cun is tzertificatziones. { -brand-short-name } non si fidat de { $hostname } ca s'emitente de su tzertificadu suo est disconnotu, ca su tzertificadu est firmadu dae isse etotu, o ca su serbidore no est imbiende is tzertificados intermèdios giustos.
+cert-error-trust-cert-invalid = Su tzertificadu no est atendìbile ca dd'at emìtidu unu tzertificadu CA non vàlidu.
+cert-error-trust-untrusted-issuer = Su tzertificadu no est atendìbile ca s'emitente de su tzertificadu no est fidadu.
+cert-error-trust-signature-algorithm-disabled = Su tzertificadu no est atendìbile ca est istadu firmadu impreende un'algoritmu de firma chi est istadu disativadu, ca no est seguru.
+cert-error-trust-expired-issuer = Su tzertificadu no est atendìbile ca s'emitente de su tzertificadu est iscadidu.
+cert-error-trust-self-signed = Su tzertificadu no est atendìbile ca est firmadu dae isse etotu.
+cert-error-trust-symantec = Is tzertificados emìtidos dae GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign non sunt prus cunsideradas seguras ca custas autoridades de tzertificatzione non ant rispetadu is pràticas de seguresa prevìdidas.
 cert-error-untrusted-default = Su tzertificadu non benit dae una fonte fidada.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Is sitos dimostrant s'identidade issoro cun tzertificados. { -brand-short-name } no est unu situ fidadu ca impreat unu tzertificadu non vàlidu pro { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Is sitos dimostrant s'identidade issoro cun tzertificados. { -brand-short-name } non si fidat de custu situ ca impreat unu tzertificadu chi no est vàlidu pro { $hostname }. Su tzertificadu est vàlidu isceti pro <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Is sitos dimostrant s'identidade issoro cun tzertificados. { -brand-short-name } non si fidat de custu situ ca impreat unu tzertificadu non vàlidu pro { $hostname }. Su tzertificadu est vàlidu isceti pro { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Is sitos dimostrant s'identidade issoro cun tzertificados. { -brand-short-name } non si fidat de custu situ ca impreat unu tzertificadu chi no est vàlidu pro { $hostname }. Su tzertificadu est vàlidu isceti pro is nòmines in fatu: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt vàlidos pro unu perìodu de tempus determinadu. Su tzertificadu pro { $hostname } est iscadidu su { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt vàlidos pro unu perìodu de tempus determinadu. Su tzertificadu pro { $hostname } no at a èssere vàlidu finas a su { $not-before-local-time }.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguresa istrinta de trasportu HTTP: { $hasHSTS }
