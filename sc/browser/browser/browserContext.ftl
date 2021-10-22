@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] Trìsina fache a bàsciu pro ammustrare sa cronologia
-           *[other] Tecla dereta o trìsina fache a bàsciu pro mustrare sa cronologia
+           *[other] Tecla dereta o trìsina fache a bàsciu pro ammustrare sa cronologia
         }
 
 ## Back

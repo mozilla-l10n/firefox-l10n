@@ -66,6 +66,7 @@ newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'
 newtab-topsites-cancel-button = Annulla
 newtab-topsites-delete-history-button = Cantzella dae sa cronologia
 newtab-topsites-save-button = Sarva
+newtab-topsites-preview-button = Anteprima
 newtab-topsites-add-button = Agiunghe
 
 ## Top Sites - Delete history confirmation dialog.
@@ -118,6 +119,11 @@ newtab-menu-show-privacy-info = Is isponsorizadores nostros e sa riservadesa tua
 newtab-privacy-modal-button-done = Fatu
 newtab-privacy-modal-button-manage = Amministra is cunfiguratziones pro is cuntenutos isponsorizados
 newtab-privacy-modal-header = Sa riservadesa tua est de importu.
+newtab-privacy-modal-paragraph-2 =
+    Paris a su de t'ammustrare istòrias geniosas, t'ammustramus fintzas cuntenutos rilevantes e curados in manera primorosa,
+    dae is isponsorizadores nostros. Non ti preocupes, <strong>sa cronologia tua non lassat mai sa còpia personale tua de { -brand-product-name }</strong>: no dda bidimus, e no dda bident
+    nemmancu is isponsorizadores nostros.
+newtab-privacy-modal-link = Impara comente funtzionat sa riservadesa in s'ischeda noa
 
 ##
 

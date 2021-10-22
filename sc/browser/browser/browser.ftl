@@ -291,6 +291,7 @@ identity-description-passive-loaded = Sa connessione tua no est privada e is inf
 identity-description-passive-loaded-insecure = Custu situ tenet cuntenutos non seguros (comente immàgines). <label data-l10n-name="link">Àteras informatziones</label>
 identity-description-passive-loaded-mixed = Mancari { -brand-short-name } at blocadu cuntenutos, ddoe at ancora cuntenutos de sa pàgina chi non sunt seguros (comente immàgines). <label data-l10n-name="link">Àteras informatziones</label>
 identity-description-active-loaded = Custu situ tenet cuntenutos non seguros (comente is script) e sa connessione tua no est privada.
+identity-description-active-loaded-insecure = Is informatziones (craes, messàgios, cartas de crèditu, etc.) chi cumpartzis cun custu situ ddas diat pòdere bìdere àtera gente.
 identity-learn-more =
     .value = Àteras informatziones
 identity-disable-mixed-content-blocking =

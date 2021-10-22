@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = Iscarrigamentu de ischedas
+about-unloads-intro-1 =
+    { -brand-short-name } tenet una funtzionalidade chi iscàrrigat ischedas in automàticu
+    pro evitare chi s'aplicatzione si blochet pro memòria non sufitziente
+    cando sa memòria de su sistema est pagu. S'ischeda imbeniente de iscarrigare est
+    seberada subra sa base de atributos diversos. Custa pàgina ammustrat comente
+    { -brand-short-name } donat sa prioridade a is ischedas e cale ischeda s'at a iscarrigare
+    cando s'incarrerat s'iscarrigamentu de ischedas.
 about-unloads-intro-2 =
     Is ischedas chi esistint sunt ammustradas in sa tàula in suta in su pròpiu òrdine impreadu dae
     { -brand-short-name } pro seberare s'ischeda imbeniente de iscarrigare. Is ID de protzessos sunt
@@ -14,6 +21,14 @@ about-unloads-intro-2 =
     e in <em>corsivu</em> cando su protzessu si partzit cun ischedas diferentes.
     Podes incarrerare a iscarrigare a manu incarchende in su butone <em>Iscàrriga</em>
     in suta.
+about-unloads-intro =
+    { -brand-short-name } tenet una funtzionalidade chi iscàrrigat ischedas in automàticu
+    pro evitare chi s'aplicatzione si blochet pro memòria non sufitziente
+    cando sa memòria de su sistema est pagu. S'ischeda imbeniente de iscarrigare est
+    seberada subra sa base de atributos diversos. Custa pàgina ammustrat comente
+    { -brand-short-name } donat sa prioridade a is ischedas e cale ischeda s'at a iscarrigare
+    cando s'incarrerat s'iscarrigamentu de ischedas. Podes incarrerare a iscarrigare a manu
+    incarchende in su butone <em>Iscàrriga</em> in suta.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =

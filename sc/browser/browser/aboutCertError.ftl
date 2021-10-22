@@ -42,6 +42,12 @@ cert-error-expired-now = Is sitos dimostrant s'identidade issoro cun tzertificad
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt vàlidos pro unu perìodu de tempus determinadu. Su tzertificadu pro { $hostname } no at a èssere vàlidu finas a su { $not-before-local-time }.
 # Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Còdighe de faddina: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt emìtidos dae autoridades de tzertificatzione. Medas navigadores non si fidant prus de is tzertificados emìtidos dae GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign. { $hostname } impreat unu tzertificadu de una de custas autoridades, duncas s'identidade de su situ non si podet cumproare.
+# Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguresa istrinta de trasportu HTTP: { $hasHSTS }
 # Variables:
