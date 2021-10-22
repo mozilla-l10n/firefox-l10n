@@ -11,6 +11,10 @@ about-unloads-intro-1 = { -brand-short-name }, sistemdeki kullanılabilir bellek
 about-unloads-intro-2 =
     Aşağıdaki tabloda, mevcut sekmeler { -brand-short-name } uygulamasının boşaltacağı sıraya göre dizilmiştir. İşlem kimlikleri, sekmenin üst çerçevesini barındırıyorsa <strong>kalın</strong> yazılır, işlem birden fazla sekme arasında paylaşılıyorsa
     <em>italik</em> yazılır. Sekme boşaltmasını kendiniz tetiklemek isterseniz aşağıdaki <em>Boşalt</em> düğmesine tıklayabilirsiniz.
+about-unloads-intro = { -brand-short-name }, sistemdeki kullanılabilir bellek yetersizse uygulamanın yetersiz bellek nedeniyle çökmesini önlemek için sekmeleri otomatik olarak boşaltan bir özelliğe sahiptir. Boşaltılacak sekme, birçok özellik göz önünde bulundurarak seçilir. Bu sayfa { -brand-short-name } uygulamasının sekmelere nasıl öncelik verdiğini ve sekme boşaltması tetiklendiği zaman hangi sekmelerin boşaltılacağını göstermektedir. Sekme boşaltmayı elle başlatmak isterseniz aşağıdaki <em>Boşalt</em> düğmesine tıklayabilirsiniz.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Bu özellik ve sayfa hakkında daha fazla bilgi almak için <a data-l10n-name="doc-link">Tab Unloading</a> makalesine bakabilirsiniz.
 about-unloads-last-updated = Son güncelleme: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Boşalt
     .title = En yüksek önceliğe sahip sekmeyi boşalt
