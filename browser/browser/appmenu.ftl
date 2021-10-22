@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profil oluşturucu
     .tooltiptext = Bir performans profili kaydet
+profiler-popup-button-recording =
+    .label = Profil oluşturucu
+    .tooltiptext = Profil oluşturucu bir profili kaydediyor
+profiler-popup-button-capturing =
+    .label = Profil oluşturucu
+    .tooltiptext = Profil oluşturucu bir profili yakalıyor
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -166,6 +172,16 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Web geliştirici
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox platformu
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox grafikleri
+profiler-popup-presets-media-label =
+    .label = Ortam
+profiler-popup-presets-custom-label =
+    .label = Özel
 
 ## History panel
 
