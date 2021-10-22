@@ -83,6 +83,20 @@ places-remove-folder =
            *[other] Dilemel an teuliadoù
         }
     .accesskey = D
+places-edit-folder2 =
+    .label = Embann an teuliad…
+    .accesskey = E
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Dilemel an teuliad
+            [one] Dilemel an teuliadoù
+            [two] Dilemel an teuliadoù
+            [few] Dilemel an teuliadoù
+            [many] Dilemel an teuliadoù
+           *[other] Dilemel an teuliadoù
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Sinedoù meret
@@ -105,9 +119,30 @@ places-remove-bookmark =
            *[other] Dilemel ar sinedoù
         }
     .accesskey = i
+places-show-in-folder =
+    .label = Diskouez en teuliad
+    .accesskey = t
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Dilemel ar sined
+            [one] Dilemel ar sinedoù
+            [two] Dilemel ar sinedoù
+            [few] Dilemel ar sinedoù
+            [many] Dilemel ar sinedoù
+           *[other] Dilemel ar sinedoù
+        }
+    .accesskey = S
 places-manage-bookmarks =
     .label = Merañ ar sinedoù
     .accesskey = M
+places-forget-about-this-site-confirmation-title = Disoñjal al lec’hienn-mañ
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ar gwered-mañ a dilamo an holl roadennoù liammet gant { $hostOrBaseDomain } eno zouez ar roll istor, ar gerioù-tremen, an toupinoù, ar c'hrubuilh hag ar gwellvezioù endalc’had. Sur oc’h e fell deoc’h kenderc’hel?
+places-forget-about-this-site-forget = Ankouaat
 places-library =
     .title = Levraoueg
     .style = width:700px; height:470px;
