@@ -170,6 +170,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Réglage recommandé pour le débogage de la plupart des applications web, avec une surcharge faible.
 profiler-popup-presets-web-developer-label =
     .label = Développement web
 profiler-popup-presets-firefox-platform-description = Réglage recommandé pour le débogage interne de la plateforme Firefox.
