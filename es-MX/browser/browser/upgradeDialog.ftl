@@ -71,6 +71,7 @@ upgrade-dialog-start-secondary-button = Ahora no
 
 ## Colorway screen
 
+upgrade-dialog-colorway-default-theme = Predeterminado
 upgrade-dialog-theme-light = Claro
     .title = Usar un tema claro para botones, menús y ventanas
 upgrade-dialog-theme-dark = Oscuro
