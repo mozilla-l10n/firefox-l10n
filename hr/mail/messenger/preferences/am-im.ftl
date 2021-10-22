@@ -4,3 +4,4 @@
 
 account-settings-title = Postavke autentifikacije
 account-channel-title = Zadani kanali
+chat-encryption-generic = Općenito
