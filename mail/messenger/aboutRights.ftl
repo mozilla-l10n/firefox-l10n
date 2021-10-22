@@ -35,7 +35,7 @@ rights-webservices-term-5 =
     relacionado con el uso de
     { -brand-short-name } y los servicios. La responsabilidad colectiva bajo
     estos términos no podrá exceder los U$S 500 (quinientos dólares estadounidenses). Algunas jurisdicciones
-    no permiten la exclusión o limitación de ciertos daños, por consiguiente esta
+    no permiten la exclusión o limitación de ciertos daños, por lo que esta
     exclusión y limitación puede no ser aplicable en su caso.</strong>
 rights-webservices-term-6 = De ser necesario, { -vendor-short-name } puede actualizar estos términos en forma esporádica. Estos términos no pueden ser modificados o cancelados sin el consentimiento por escrito de { -vendor-short-name }.
 rights-webservices-term-7 = Estos términos están regidos por las leyes del estado de California, EE.UU., excluyendo sus conflictos con otras estipulaciones de la ley. Si cualquier sección de estos términos no es válida o aplicable, las secciones restantes continuarán teniendo plena vigencia. En caso de existir un conflicto entre una versión traducida de estos términos y la versión en idioma inglés, la versión en inglés será la que tendrá validez.
