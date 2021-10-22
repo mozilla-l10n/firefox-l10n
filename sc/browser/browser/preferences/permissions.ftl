@@ -2,11 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-close-key =
+    .key = w
+permissions-button-off =
+    .label = Istuda
+    .accesskey = I
+permissions-button-off-temporarily =
+    .label = Istuda pro immoe
+    .accesskey = m
+permissions-site-name =
+    .label = Situ web
+permissions-status =
+    .label = Istadu
 permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Bloca
-
 permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
@@ -23,6 +34,7 @@ permissions-capabilities-listitem-block =
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 
@@ -32,10 +44,8 @@ permissions-capabilities-listitem-block =
 ## Exceptions - Add-ons
 
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -44,6 +54,7 @@ permissions-capabilities-listitem-block =
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

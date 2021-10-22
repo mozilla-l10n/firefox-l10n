@@ -177,7 +177,7 @@ newtab-section-menu-manage-section = Gesti sa setzione
 newtab-section-menu-manage-webext = Gesti is estensiones
 newtab-section-menu-add-topsite = Agiunghe unu situ populare
 newtab-section-menu-add-search-engine = Agiunghe unu motore de chirca
-newtab-section-menu-move-up = Move a susu
+newtab-section-menu-move-up = Move in artu
 newtab-section-menu-move-down = Move in bàsciu
 newtab-section-menu-privacy-notice = Avisu de riservadesa
 
