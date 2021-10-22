@@ -56,6 +56,8 @@ policy-DontCheckDefaultBrowser = Diweredekaat gwiriadur ar merdeer dre ziouer e-
 policy-DownloadDirectory = Arventennot ha morailhit ar c'havlec'h pellgargañ.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Gweredekaat pe diweredekaat stankadur an endalc'hadoù. Gallout a rit prennañ an dibab-mañ.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Gweredekaat pe diweredekaat astenn ar mediaoù. Gallout a rit prennañ an dibab-mañ.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -64,6 +66,7 @@ policy-ExtensionSettings = Ardoit pep tra a sell deus an askouezhioù
 policy-ExtensionUpdate = (Di)weredekaat hizivadennoù askouezhioù ent emgefreek.
 policy-FirefoxHome = Kefluniañ degemer firefox
 policy-FlashPlugin = Aotren pe difenn arver an enlugellad Flash.
+policy-Handlers = Kefluniañ ar verourien arloadoù dre ziouer.
 policy-HardwareAcceleration = M’eo lakaet da Gaou e vo diweredekaet herrekadur ar periant.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Arventennañ ar bennbajenn. Gallout a rit ivez prennañ anezhi.
@@ -72,10 +75,15 @@ policy-LegacyProfiles = Diweredekaat ar c'heweriuster a redi un aelad distag evi
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Gweredekaat dre ziouer an arventenn emzalc’h kozh SameSite evit an toupinoù.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Distreiñ d'emzalc’h kozh SameSite evit an toupinoù war lec’hiennoù 'zo.
 
 ##
 
 policy-LocalFileLinks = Aotren lec'hiennoù ’zo da liammañ restroù lec’hel.
+policy-ManagedBookmarks = Kefluniañ ur roll sinedoù meret gant an ardoer ha n’hallont ket bezañ kemmet gant an arveriad.
+policy-ManualAppUpdateOnly = Aotren hizivadennoù dre zorn hepken ha na rebuziñ an arveriad diwar-benn an hizivadennoù.
+policy-PrimaryPassword = Rediañ pe difenn implij ur ger-tremen pennañ.
 policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
 policy-NewTabPage = (Di)weredekaat ar bajenn ivinell nevez.
 policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
@@ -99,9 +107,11 @@ policy-SearchEngines = Kefluniañ arventennoù al lusker enklask. Ar reolenn-ma�
 policy-SearchSuggestEnabled = (Di)weredekaat an alioù klask.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Staliañ ar molladoù PKCS #11.
+policy-ShowHomeButton = Diskouez an afell degemer er varrenn ostilhoù.
 policy-SSLVersionMax = Arventennañ an handelv SSL uhelañ.
 policy-SSLVersionMin = Arventennañ an handelv SSL izelañ.
 policy-SupportMenu = Ouzhpennañ un elfenn lañser skor personelaet el lañser skoazell.
 policy-UserMessaging = Na ziskouez kemennadennoù ’zo d'an arveriad.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Stankañ al lec'hiennoù da vezañ gweladennet. Lennit an teuliadur evit kaout muioc'h a vunudoù war ar mentrezh.
+policy-Windows10SSO = Aotren dilesa eeun Windows evit ar c'hontoù Microsoft, al labour hag ar c'hontoù skol.
