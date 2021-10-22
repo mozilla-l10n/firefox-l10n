@@ -59,6 +59,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = Ddoe est bisòngiu de un'URL vàlidu
 newtab-topsites-image-url-label = URL de s'immàgine personalizada
 newtab-topsites-use-image-link = Imprea un'immàgine personalizada…
+newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'URL diferente.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
