@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = ਸਿਸਟਮ ਥੀਮ — ਆਪਣੇ-ਆਪ
 extension-default-theme-description = ਬਟਨਾਂ, ਮੇਨੂ ਤੇ ਵਿੰਡੋਆਂ ਲਈ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ।
 extension-firefox-compact-light-name = ਹਲਕਾ
 extension-firefox-compact-light-description = ਹਲਕੇ ਰੰਗ ਦੀ ਸਕੀਮ ਵਾਲਾ ਥੀਮ ਹੈ।
@@ -19,3 +21,8 @@ extension-firefox-alpenglow-description = ਬਟਨਾਂ, ਮੇਨੂ ਤੇ �
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — ਹਲਕਾ
+extension-colorways-balanced-name = { $colorway-name } — ਸੰਤੁਲਿਤ
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — ਗੂੜ੍ਹਾ
