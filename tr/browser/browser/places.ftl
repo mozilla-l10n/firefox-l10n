@@ -109,6 +109,9 @@ places-remove-bookmark =
            *[other] Yer imlerini sil
         }
     .accesskey = i
+places-show-in-folder =
+    .label = Klasörde göster
+    .accesskey = K
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
