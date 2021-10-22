@@ -76,6 +76,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = ਕੋਈ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨਹੀਂ
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖਣ ਲਈ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰੋ।
+appmenu-remote-tabs-opensettings =
+    .label = ਸੈਟਿੰਗਾਂ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
@@ -116,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = ਪਰੋਫਾਈਲਰ
     .tooltiptext = ਕਾਰਗੁਜ਼ਾਰੀ ਪਰੋਫਾਈਲ ਨੂੰ ਰਿਕਾਰਡ ਕਰੋ
+profiler-popup-button-recording =
+    .label = ਪਰੋਫਾਈਲਰ
+    .tooltiptext = ਪਰੋਫਾਈਲਰ ਇੱਕ ਰਿਕਾਰਡ ਕਰਨ ਵਾਲਾ ਪਰੋਫਾਈਲ ਹੈ
+profiler-popup-button-capturing =
+    .label = ਪਰੋਫਾਈਲਰ
+    .tooltiptext = ਪਰੋਫਾਈਲਰ ਪਰੋਫਾਈਲ ਇਕੱਤਰ ਕਰਦਾ ਹੈ
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -164,6 +172,18 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox ਮੰਚ
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox ਫਰੰਟ-ਐਂਡ
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox ਗਰਾਫਿਕਸ
+profiler-popup-presets-media-label =
+    .label = ਮੀਡਿਆ
+profiler-popup-presets-custom-label =
+    .label = ਕਸਟਮ
 
 ## History panel
 

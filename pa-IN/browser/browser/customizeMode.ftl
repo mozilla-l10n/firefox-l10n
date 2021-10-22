@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = ਵਾਪਸ
 customize-mode-lwthemes-my-themes =
     .value = ਮੇਰੇ ਥੀਮ
+customize-mode-lwthemes-link = ਥੀਮ ਦਾ ਇੰਤਜ਼ਾਮ
 customize-mode-touchbar-cmd =
     .label = ਟੱਚ-ਪੱਟੀ ਨੂੰ ਪਸੰਦੀਦਾ ਬਣਾਓ…
 customize-mode-downloads-button-autohide =
