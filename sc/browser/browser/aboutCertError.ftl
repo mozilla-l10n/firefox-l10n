@@ -9,6 +9,12 @@ cert-error-mitm-intro = Is sitos web verìficant s'identidade issoro pro mèdiu 
 cert-error-mitm-connection = { -brand-short-name } impreat su magasinu de CA de Mozilla pro verificare chi una connessione siat segura, imbetzes de impreare tzertificados frunidos dae su sistema operativu de s'usuàriu. Duncas, si unu programma anti-virus o una rete de traballu est intertzetende una connessione cun unu tzertificadu de seguresa emìtidu dae unu CA chi non est in su magasinu CA de Mozilla, sa connessione est cunsiderada non segura.
 cert-error-trust-unknown-issuer-intro = Mancari sunt proende a si sostituire a su situ e non dias dèpere sighire.
 cert-error-untrusted-default = Su tzertificadu non benit dae una fonte fidada.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Seguresa istrinta de trasportu HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Fissadura de craes pùblicas HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de tzertificatziones:
 open-in-new-window-for-csp-or-xfo-error = Aberi situ in una ventana noa
 # Variables:
