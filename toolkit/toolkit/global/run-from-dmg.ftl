@@ -17,3 +17,12 @@ prompt-to-install-no-button = Yükleme
 
 install-failed-title = { -brand-short-name } yüklemesi başarısız oldu.
 install-failed-message = { -brand-short-name } yüklenemedi ama çalışmaya devam edecek.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Mevcut { -brand-short-name } uygulaması açılsın mı?
+prompt-to-launch-existing-app-message = { -brand-short-name } zaten yüklenmiş durumda. Uygulamayı güncel tutmak veri kaybını önlemek için yüklü uygulamayı kullanın.
+prompt-to-launch-existing-app-yes-button = Mevcut uygulamayı aç
+prompt-to-launch-existing-app-no-button = Hayır
