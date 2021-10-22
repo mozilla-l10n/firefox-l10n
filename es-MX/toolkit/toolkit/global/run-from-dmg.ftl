@@ -13,3 +13,10 @@ prompt-to-install-no-button = No instalar
 
 ## Strings for a dialog that opens if the installation failed.
 
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-yes-button = Abrir existente
+prompt-to-launch-existing-app-no-button = No gracias
