@@ -79,7 +79,7 @@ tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Reabrir pestaña cerrada
-            [one] Reabrir pestañas cerrada
+            [one] Reabrir pestaña cerrada
            *[other] Reabrir pestañas cerradas
         }
     .accesskey = b
@@ -107,7 +107,6 @@ tab-context-move-tabs =
            *[other] Mover pestañas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

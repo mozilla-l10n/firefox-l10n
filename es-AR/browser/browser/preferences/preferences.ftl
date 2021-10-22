@@ -530,8 +530,8 @@ home-prefs-snippets-description-new = Consejos y noticias de { -vendor-short-nam
 home-prefs-sections-rows-option =
     .label =
         { $num ->
-            [one] fila de { $num }
-           *[other] filas de { $num }
+            [one] { $num } fila
+           *[other] { $num } filas
         }
 
 ## Search Section
