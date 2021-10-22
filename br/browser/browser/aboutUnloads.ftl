@@ -21,6 +21,14 @@ about-unloads-intro-2 =
     an ivinell, hag e <em>stouet</em> pa vez rannet an araezad etre meur a ivinell.
     Gallout a rit deluskañ diskarg an ivinelloù dre an dorn en ur glikañ war an afell
     <em>Diskargañ</em> dindan.
+about-unloads-intro =
+    Ur c’heweriuster a zo gant { -brand-short-name } a ziskarg an ivinelloù
+    evit mirout an arload da sac’hañ abalamour d'ur vank a vemor
+    pa n’eus ket kalz a vemor gant ar reizhiad. An ivinell da vezañ diskarget
+    a zo dibabet war veur a zoareen. Ar bajenn-mañ a ziskouez penaos e vez
+    lakaet un tevet gant { -brand-short-name } war an ivinelloù ha pe re vez
+    diskarget pa vez delusket an diskarg. Gallout a rit deluskañ diskargañ an
+    ivinelloù en ur glikañ war an afell <em>Diskargañ</em> dindan.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =

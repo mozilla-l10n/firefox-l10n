@@ -227,10 +227,20 @@ newtab-pocket-more-recommendations = Erbedadennoù ouzhpenn
 newtab-pocket-learn-more = Gouzout hiroc'h
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus familh { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Enrollañ da { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Enrollet e { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Kargañ muioc’h a bennadoù
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Echuet eo ganeoc’h!
+newtab-pocket-last-card-desc = Distroit amañ diwezhatoc’h evit lenn pennadoù all.
+newtab-pocket-last-card-image =
+    .alt = Echuet eo ganeoc’h
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
