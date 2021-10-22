@@ -47,6 +47,7 @@ cert-error-code-prefix-link = Còdighe de faddina: <a data-l10n-name="error-code
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt emìtidos dae autoridades de tzertificatzione. Medas navigadores non si fidant prus de is tzertificados emìtidos dae GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign. { $hostname } impreat unu tzertificadu de una de custas autoridades, duncas s'identidade de su situ non si podet cumproare.
+cert-error-symantec-distrust-admin = Podes sinnalare custu problema a s'amministratzione de su situ.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguresa istrinta de trasportu HTTP: { $hasHSTS }
