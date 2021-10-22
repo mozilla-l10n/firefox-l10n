@@ -158,7 +158,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad que la deshabilita.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad que no lo permite.</p>">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue en este contexto porque la página tiene una política de opciones de X-Frame que no lo permite.</p>">
 
