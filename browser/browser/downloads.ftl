@@ -58,6 +58,12 @@ downloads-cmd-always-use-system-default =
   .label = Apri sempre nel visualizzatore del sistema
   .accesskey = m
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+  .label = Apri sempre file simili a questo
+  .accesskey = m
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
