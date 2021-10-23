@@ -175,6 +175,22 @@ profiler-popup-capture-shortcut =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
+profiler-popup-presets-web-developer-label =
+    .label = Dla twórców witryn
+profiler-popup-presets-firefox-platform-description = Zalecane ustawienie do wewnętrznego debugowania platformy Firefoksa.
+profiler-popup-presets-firefox-platform-label =
+    .label = Platforma Firefoksa
+profiler-popup-presets-firefox-front-end-description = Zalecane ustawienie do wewnętrznego debugowania interfejsu Firefoksa.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Interfejs Firefoksa
+profiler-popup-presets-firefox-graphics-description = Zalecane ustawienie do badania wydajności graficznej Firefoksa.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Grafika Firefoksa
+profiler-popup-presets-media-description = Zalecane ustawienie do diagnozowania problemów z dźwiękiem i obrazem.
+profiler-popup-presets-media-label =
+    .label = Multimedia
+profiler-popup-presets-custom-label =
+    .label = Inne
 
 ## History panel
 
