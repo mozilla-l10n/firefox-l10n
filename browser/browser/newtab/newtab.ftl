@@ -225,11 +225,26 @@ newtab-discovery-empty-section-topstories-timed-out = Prawie udało się wczyta�
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Popularne treści:
+newtab-pocket-read-more = Popularne tematy:
+newtab-pocket-new-topics-title = Chcesz przeczytać jeszcze więcej artykułów? Zobacz, co { -pocket-brand-name } proponuje na te popularne tematy
 newtab-pocket-more-recommendations = Więcej polecanych
 newtab-pocket-learn-more = Więcej informacji
 newtab-pocket-cta-button = Pobierz { -pocket-brand-name }
 newtab-pocket-cta-text = Zachowuj artykuły w { -pocket-brand-name }, aby wrócić później do ich lektury.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jest częścią rodziny produktów { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Wyślij do { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Wysłano do { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Więcej artykułów
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Jesteś na bieżąco!
+newtab-pocket-last-card-desc = Wróć później po więcej artykułów.
+newtab-pocket-last-card-image =
+    .alt = Jesteś na bieżąco
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

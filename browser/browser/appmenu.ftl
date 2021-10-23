@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Nagraj profil wydajności
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Profiler nagrywa profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler przechwytuje profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
 
 ## History panel
 
