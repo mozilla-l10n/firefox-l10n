@@ -100,3 +100,49 @@ browser-data-cookies-checkbox =
     .label = Testimòngios
 browser-data-cookies-label =
     .value = Testimòngios
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Cronologia de navigatzione e sinnalibros
+           *[other] Cronologia de navigatzione
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Cronologia de navigatzione e sinnalibros
+           *[other] Cronologia de navigatzione
+        }
+browser-data-formdata-checkbox =
+    .label = Cronologia de formulàrios sarvados
+browser-data-formdata-label =
+    .value = Cronologia de formulàrios sarvados
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Credentziales e craes sarvadas
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Credentziales e craes sarvadas
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Preferidos
+            [edge] Preferidos
+           *[other] Sinnalibros
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Preferidos
+            [edge] Preferidos
+           *[other] Sinnalibros
+        }
+browser-data-otherdata-checkbox =
+    .label = Àteros datos
+browser-data-otherdata-label =
+    .label = Àteros datos
+browser-data-session-checkbox =
+    .label = Ventanas e ischedas
+browser-data-session-label =
+    .value = Ventanas e ischedas
