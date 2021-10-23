@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] Allontanar ils segnapaginas
         }
     .accesskey = e
+places-show-in-folder =
+    .label = Mussar en l'ordinatur
+    .accesskey = M
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
