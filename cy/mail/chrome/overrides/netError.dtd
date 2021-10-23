@@ -22,7 +22,7 @@
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li> <li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Mae mynediad i'r ffeil wedi ei wrthod">
+<!ENTITY fileAccessDenied.title "Mae mynediad at y ffeil wedi ei wrthod">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffeiliau yn rhwystro mynediad.</li> </ul>">
 
 <!ENTITY generic.title "Wps.">
