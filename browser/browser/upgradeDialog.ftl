@@ -102,7 +102,7 @@ upgrade-dialog-theme-primary-button = Zachowaj motyw
 upgrade-dialog-theme-secondary-button = Nie teraz
 upgrade-dialog-colorway-variation-soft = Stonowana
     .title = Użyj tej kolorystyki
-upgrade-dialog-colorway-variation-balanced = Zrównoważona
+upgrade-dialog-colorway-variation-balanced = Wyważona
     .title = Użyj tej kolorystyki
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
