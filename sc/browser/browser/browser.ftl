@@ -580,21 +580,71 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Sinnalibros
+library-recent-activity-title =
+    .value = Atividade reghente
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Sarva in { -pocket-brand-name }
+    .tooltiptext = Sarva in { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Assenta sa codìfica de su testu
+    .tooltiptext = Rileva sa codìfica de su testu dae su cuntenutu de sa pàgina
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Cumplementos e temas
+    .tooltiptext = Gesti cumplementos e temas tuos { $shortcut }
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Cunfiguratzione
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Aberi cunfiguratzione ({ $shortcut })
+           *[other] Aberi cunfiguratzione
+        }
 
 ## More items
 
+more-menu-go-offline =
+    .label = Traballa fora de lìnia
+    .accesskey = f
+toolbar-overflow-customize-button =
+    .label = Personaliza barra de ainas...
+    .accesskey = P
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = Sarva pàgina
+    .tooltiptext = Sarva custa pàgina ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = Aberi archìviu
+    .tooltiptext = Aberi un'archìviu ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = Ischedas sincronizadas
+    .tooltiptext = Ammustra ischedas dae àteros dispositivos
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Ventana privada noa
+    .tooltiptext = Aberi una ventana privada de navigatzione noa ({ $shortcut })
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = Custu situ tenet cuntenutos àudio o vìdeu chi impreant programmas DRM, chi podent limitare is atziones permìtidas dae { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Gesti sa cunfiguratzione
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Iscarta
 eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
@@ -607,6 +657,7 @@ panel-save-update-password = Crae
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Nche boles bogare a { $name }?
+addon-removal-abuse-report-checkbox = Sinnala custa estensione a { -vendor-short-name }
 
 ## Remote / Synced tabs
 
@@ -625,9 +676,21 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Permite ventanas a cumparsa pro { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloca ventanas a cumparsa pro { $uriHost }
+    .accesskey = B
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = No ammustres custu messàgiu cando is ventanas a cumparsa sunt blocadas
+    .accesskey = N
+edit-popup-settings =
+    .label = Gesti sa cunfiguratzione de is ventanas a cumparsa...
+    .accesskey = G
 
 # Navigator Toolbox
 
