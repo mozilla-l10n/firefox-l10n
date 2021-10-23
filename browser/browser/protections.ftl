@@ -9,7 +9,6 @@ graph-week-summary =
         [one] { -brand-short-name }(e)k jarraipen-elementu bat blokeatu du azken astean
        *[other] { -brand-short-name }(e)k { $count } jarraipen-elementu blokeatu ditu azken astean
     }
-
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -19,57 +18,43 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> jarraipen-elementu blokeatuta data honetatik: { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> jarraipen-elementu blokeatuta data honetatik: { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
-
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen jarraitzen du leiho pribatuetan baina ez du blokeatu denaren erregistrorik gordetzen.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = { -brand-short-name }(e)k aste honetan blokeatu dituen jarraipen-elementuak
-
 protection-report-webpage-title = Babesen arbela
 protection-report-page-content-title = Babesen arbela
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }(e)k zure pribatutasuna babestu dezake bigarren planoan nabigatzen duzun bitartean. Hau babes horien laburpen pertsonalizatu bat da, zure lineako segurtasunaren kontrola hartzeko tresnak barne.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = Nabigatu ahala zure pribatutasuna babesten du { -brand-short-name }(e)k. Babesen laburpen pertsonalizatua da hau eta lineako segurtasunaren kontrola hartzeko tresnak ere baditu.
-
-protection-report-settings-link = Kudeatu zure pribatutasun eta segurtasun ezartpenak
-
+protection-report-settings-link = Kudeatu zure pribatutasun- eta segurtasun-ezarpenak
 etp-card-title-always = Jarraipenaren babes hobetua: Beti aktibo
 etp-card-title-custom-not-blocking = Jarraipenaren babes hobetua: Itzalita
 etp-card-content-description = { -brand-short-name }(e)k automatikoki eragozten du konpainiek sekretuki zu webean zehar jarraitzea.
 protection-report-etp-card-content-custom-not-blocking = Une honetan babes guztiak desgaituta daude. Aukeratu zein jarraipen-elementu blokeatu zure { -brand-short-name } babes-ezarpenak kudeatuz.
 protection-report-manage-protections = Kudeatu ezarpenak
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Gaur
-
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Aste honetan blokeatutako jarraipen-elementu mota bakoitzeko guztirako kopurua duen grafikoa.
-
 social-tab-title = Sare sozialetako jarraipen-elementuak
 social-tab-contant = Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
-
 cookie-tab-title = Guneen arteko cookie jarraipen-egileak
 cookie-tab-content = Cookie hauek guneen artean jarraitzen zaituzte zure lineako jarduerari buruzko datuak biltzeko. Hirugarrenek ezartzen dituzte hauek, adibidez iragarleen eta estatistiken enpresek. Guneen arteko cookie jarraipen-egileak blokeatzeak zure jarraipena egiten duten iragarkien kopurua murrizten du. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
-
 tracker-tab-title = Edukiaren jarraipena
 tracker-tab-description = Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
-
 fingerprinter-tab-title = Hatz-marka bidezko jarraipena
 fingerprinter-tab-content = Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
-
 cryptominer-tab-title = Kriptomeatzariak
 cryptominer-tab-content = Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
-
 protections-close-button2 =
     .aria-label = Itxi
     .title = Itxi
-  
 mobile-app-title = Blokeatu publizitatearen jarraipen-elementuak gailu gehiagotan
 mobile-app-card-content = Erabili mugikorreko nabigatzailea publizitatearen jarraipen-elementuen babesarekin
 mobile-app-links = { -brand-product-name } nabigatzailea <a data-l10n-name="android-mobile-inline-link">Android</a> eta <a data-l10n-name="ios-mobile-inline-link">iOS</a> plataformetarako
-
 lockwise-title = Ez ahaztu sekula pasahitzik berriro
 lockwise-title-logged-in2 = Pasahitzen kudeaketa
 lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
@@ -81,7 +66,6 @@ protection-report-manage-passwords-button = Kudeatu pasahitzak
 lockwise-mobile-app-title = Eraman pasahitzak alboan
 lockwise-no-logins-card-content = Erabili { -brand-short-name }(e)n gordetako pasahitzak edozein gailutan.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>erako { -lockwise-brand-name }
-
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -89,7 +73,6 @@ lockwise-scanned-text-breached-logins =
         [one] Pasahitz bat datu-urratze batean agerian utzi da agian.
        *[other] { $count } pasahitz datu-urratze batean agerian utzi dira agian.
     }
-
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -100,7 +83,6 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Zure pasahitzak modu seguruan gorde dira.
     }
 lockwise-how-it-works-link = Nola dabilen
-
 monitor-title = Erne ibili datuen inguruko urratzeekin
 monitor-link = Nola dabilen
 monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna den datu-urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.
@@ -108,14 +90,12 @@ monitor-header-content-signed-in = { -monitor-brand-name } tresnak abisatu egite
 monitor-sign-up-link = Eman izena datuen inguruko urratzeen abisuetara
     .title = Eman izena datuen inguruko urratzeen abisuetara { -monitor-brand-name }(e)n
 auto-scan = Automatikoki eskaneatuta gaur
-
 monitor-emails-tooltip =
     .title = Ikusi monitorizatutako e-mail helbideak hemen { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Ikusi datu-urratze ezagunak hemen: { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Ikusi agerian utzitako pasahitzak hemen: { -monitor-brand-short-name }
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -124,7 +104,6 @@ info-monitored-emails =
         [one] Helbide elektroniko monitorizatzen ari da.
        *[other] Helbide elektroniko monitorizatzen ari dira.
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -133,7 +112,6 @@ info-known-breaches-found =
         [one] Datuen inguruko urratzek zure informazioa agerian utzi du
        *[other] Datuen inguruko urratzek zure informazioa agerian utzi dute
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -142,7 +120,6 @@ info-known-breaches-resolved =
         [one] Urratze ezaguna ebatzitako gisa markatu da
        *[other] Urratze ezagunak ebatzitako gisa markatu dira
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -151,7 +128,6 @@ info-exposed-passwords-found =
         [one] Pasahitz agerian utzi da datuen inguruko urratze guztien artean
        *[other] Pasahitz agerian utzi dira datuen inguruko urratze guztien artean
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
@@ -160,7 +136,6 @@ info-exposed-passwords-resolved =
         [one] Pasahitza ebatzi gabeko urratzeetan agerian utzi da
        *[other] Pasahitzak ebatzi gabeko urratzeetan agerian utzi dira
     }
-
 monitor-no-breaches-title = Berri onak!
 monitor-no-breaches-description = Ez zaude datu-urratze ezagunetan. Hau aldatuko balitz, jakinarazi egingo dizugu.
 monitor-view-report-link = Ikusi txostena
@@ -171,7 +146,6 @@ monitor-manage-breaches-link = Kudeatu datu-urratzeak
     .title = Kudeatu datu-urratzeak { -monitor-brand-short-name }(e)n
 monitor-breaches-resolved-title = Zoragarri! Ezagutzen diren datu-urratze guztiak ebatzi dituzu.
 monitor-breaches-resolved-description = Zure helbide elektronikoa datu-urratze berriren batean agertuko balitz, jakinarazi egingo dizugu.
-
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
@@ -179,11 +153,9 @@ monitor-partial-breaches-title =
     { $numBreaches ->
        *[other] { $numBreaches } / { $numBreachesResolved } datu-urratze ebatzitako gisa markatu dira
     }
-
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = %{ $percentageResolved } osatuta
-
 monitor-partial-breaches-motivation-title-start = Hasiera ona!
 monitor-partial-breaches-motivation-title-middle = Eutsi horri!
 monitor-partial-breaches-motivation-title-end = Ia eginda! Eutsi horri.
