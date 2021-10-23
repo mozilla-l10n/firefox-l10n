@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Rozmiar bufora:
-
 perftools-custom-threads-label = Dodaj własne wątki według nazw:
-
 perftools-devtools-interval-label = Przedział:
 perftools-devtools-threads-label = Wątki:
 perftools-devtools-settings-label = Ustawienia
@@ -97,14 +95,12 @@ perftools-thread-img-decoder =
     .title = Wątki dekodowania obrazów
 perftools-thread-dns-resolver =
     .title = Rozwiązywanie DNS odbywa się w tym wątku
-
 perftools-thread-task-controller =
     .title = Wątki puli wątków TaskController
 
 ##
 
 perftools-record-all-registered-threads = Pomiń powyższy wybór i nagraj wszystkie zarejestrowane wątki
-
 perftools-tools-threads-input-label =
     .title = Te nazwy wątków to lista oddzielona przecinkami, która jest używana do włączenia profilowania wątków w profilerze. Nazwa może tylko częściowo pasować do nazwy wątku, aby została uwzględniona. Spacje są rozróżniane.
 
@@ -113,9 +109,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nowość</b>: { -profiler-brand-name } jest teraz zintegrowany z narzędziami dla programistów. <a>Więcej informacji</a> o tym nowym potężnym narzędziu.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Przez ograniczony czas można korzystać z poprzedniego panelu wydajności w sekcji <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Zamknij ten komunikat
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Dla twórców witryn
+perftools-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
+perftools-presets-firefox-platform-label = Platforma Firefoksa
+perftools-presets-firefox-platform-description = Zalecane ustawienie do wewnętrznego debugowania platformy Firefoksa.
+perftools-presets-firefox-front-end-label = Interfejs Firefoksa
+perftools-presets-firefox-front-end-description = Zalecane ustawienie do wewnętrznego debugowania interfejsu Firefoksa.
+perftools-presets-firefox-graphics-label = Grafika Firefoksa
+perftools-presets-firefox-graphics-description = Zalecane ustawienie do badania wydajności graficznej Firefoksa.
+perftools-presets-media-label = Multimedia
+perftools-presets-media-description = Zalecane ustawienie do diagnozowania problemów z dźwiękiem i obrazem.
+perftools-presets-custom-label = Inne
+
+##
+
