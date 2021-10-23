@@ -28,6 +28,7 @@ about-private-browsing-info-description-simplified = { -brand-short-name } czyś
 about-private-browsing-learn-more-link = Więcej informacji
 about-private-browsing-hide-activity = Ukryj swoje działania i położenie wszędzie, gdzie przeglądasz
 about-private-browsing-get-privacy = Zapewnij sobie ochronę prywatności wszędzie, gdzie przeglądasz
+about-private-browsing-hide-activity-1 = Ukryj swoje działania w Internecie i położenie za pomocą { -mozilla-vpn-brand-name }. Jedno kliknięcie tworzy bezpieczne połączenie, nawet w publicznej sieci Wi-Fi.
 about-private-browsing-prominent-cta = Zachowaj prywatność dzięki { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
