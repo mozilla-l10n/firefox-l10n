@@ -140,3 +140,5 @@ about-addressbook-details-phone-numbers-header = Numery telefonu
 about-addressbook-details-home-address-header = Adres domowy
 about-addressbook-details-work-address-header = Adres służbowy
 about-addressbook-details-other-info-header = Pozostałe informacje
+about-addressbook-prompt-to-save-title = Czy zapisać zmiany?
+about-addressbook-prompt-to-save = Czy zapisać wprowadzone zmiany?
