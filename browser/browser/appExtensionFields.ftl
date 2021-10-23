@@ -19,3 +19,5 @@ extension-firefox-alpenglow-description = Батырмалар, мәзірлер
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Жұмсақ
+extension-colorways-balanced-name = { $colorway-name } — Теңгерілген
