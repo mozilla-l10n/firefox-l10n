@@ -4,7 +4,7 @@
 
 about-httpsonly-title-alert = Ostrzeżenie trybu używania wyłącznie protokołu HTTPS
 about-httpsonly-title-connection-not-available = Zabezpieczone połączenie jest niedostępne
-
+about-httpsonly-title-site-not-available = Zabezpieczona witryna jest niedostępna
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = W celu zwiększenia bezpieczeństwa włączony jest tryb używania wyłącznie protokołu HTTPS, a wersja HTTPS witryny <em>{ $websiteUrl }</em> nie jest dostępna.
@@ -12,7 +12,6 @@ about-httpsonly-explanation-question = Co może być tego przyczyną?
 about-httpsonly-explanation-nosupport = Prawdopodobnie witryna po prostu nie obsługuje protokołu HTTPS.
 about-httpsonly-explanation-risk = Możliwe jest również, że atakujący próbuje przechwycić informacje. Jeśli zdecydujesz się otworzyć tę witrynę, nie powinno się podawać na niej żadnych prywatnych informacji, takich jak hasła, adresy e-mail czy dane karty płatniczej.
 about-httpsonly-explanation-continue = Otwarcie witryny spowoduje tymczasowe wyłączenie dla niej trybu używania wyłącznie protokołu HTTPS.
-
 about-httpsonly-button-continue-to-site = Otwórz witrynę przez HTTP
 about-httpsonly-button-go-back = Wróć do poprzedniej strony
 about-httpsonly-link-learn-more = Więcej informacji…

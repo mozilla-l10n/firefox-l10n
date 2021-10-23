@@ -765,7 +765,7 @@ navbar-print-tab-modal-disabled =
     .tooltiptext = Drukuj bieżącą stronę
 navbar-home =
     .label = Strona startowa
-    .tooltiptext = Przejdź do strony startowej
+    .tooltiptext = Przejdź do strony startowej przeglądarki { -brand-short-name }
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Wyświetl historię, zachowane zakładki i jeszcze więcej
@@ -783,3 +783,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Pokaż wszystkie karty
     .tooltiptext = Pokaż wszystkie karty
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Otworzyć poprzednie karty?</strong> Możesz przywrócić poprzednią sesję w menu aplikacji { -brand-short-name } <img data-l10n-name="icon"/>, w sekcji Historia.
+restore-session-startup-suggestion-button = Pokaż, jak to zrobić
