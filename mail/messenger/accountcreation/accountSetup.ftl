@@ -239,7 +239,7 @@ account-setup-confirm-advanced-description = Bydd y ddeialog hon yn cael ei chau
 ## Addon installation section
 
 account-setup-addon-install-title = Gosod
-account-setup-addon-install-intro = Gall ychwanegyn trydydd parti ganiatáu i chi gael mynediad i'ch cyfrif e-bost ar y gweinydd hwn:
+account-setup-addon-install-intro = Gall ychwanegyn trydydd parti ganiatáu i chi gael mynediad at eich cyfrif e-bost ar y gweinydd hwn:
 account-setup-addon-no-protocol = Yn anffodus nid yw'r gweinydd e-bost hwn yn cefnogi protocolau agored. { account-setup-addon-install-intro }
 
 ## Success view

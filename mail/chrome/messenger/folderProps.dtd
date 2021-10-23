@@ -55,7 +55,7 @@
 <!ENTITY privileges.button.label                 "Breintiau…">
 <!ENTITY privileges.button.accesskey             "B">
 <!ENTITY permissionsDesc.label                   "Mae gennych y caniatâd canlynol:">
-<!ENTITY folderOtherUsers.label                  "Eraill sydd â mynediad i'r ffolder hon:">
+<!ENTITY folderOtherUsers.label                  "Eraill sydd â mynediad at y ffolder hon:">
 <!ENTITY folderType.label                        "Math o Ffolder:">
 
 <!ENTITY folderQuotaTab.label                    "Cwota">
