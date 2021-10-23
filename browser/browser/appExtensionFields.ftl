@@ -21,7 +21,7 @@ extension-firefox-alpenglow-description = Kolorowe przyciski, menu i okna.
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
-extension-colorways-soft-name = { $colorway-name } — miękka
+extension-colorways-soft-name = { $colorway-name } — stonowana
 extension-colorways-balanced-name = { $colorway-name } — zrównoważona
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
