@@ -129,6 +129,16 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ішін�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 mr1-onboarding-import-secondary-button-label = Қазір емес
+mr2-onboarding-colorway-secondary-button-label = Қазір емес
+mr2-onboarding-colorway-label-soft = Жұмсақ
+mr2-onboarding-colorway-label-balanced = Теңгерілген
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Жуан
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Автоматты түрде
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Бастапқы
 mr1-onboarding-theme-header = Оны өзіңіздікі етіп қылу
 mr1-onboarding-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 mr1-onboarding-theme-primary-button-label = Теманы сақтау
@@ -234,3 +244,7 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         динамикалық, түрлі-түсті теманы қолдану.
+
+## Strings for Thank You page
+
+mr2-onboarding-start-browsing-button-label = Шолуды бастау

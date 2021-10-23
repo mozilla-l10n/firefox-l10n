@@ -44,5 +44,16 @@ upgrade-dialog-default-secondary-button = Қазір емес
 
 ## Theme selection screen
 
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = Қазір емес
+
+## Colorway screen
+
+upgrade-dialog-colorway-default-theme = Бастапқы
 upgrade-dialog-theme-primary-button = Теманы сақтау
 upgrade-dialog-theme-secondary-button = Қазір емес
+
+## Thank you screen
+

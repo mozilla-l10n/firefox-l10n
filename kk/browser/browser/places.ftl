@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] Бетбелгілерді өшіру
         }
     .accesskey = р
+places-show-in-folder =
+    .label = Бумада көрсету
+    .accesskey = у
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
