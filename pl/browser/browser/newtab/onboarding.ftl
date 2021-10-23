@@ -154,7 +154,7 @@ mr2-onboarding-colorway-header = Życie w kolorze
 mr2-onboarding-colorway-subtitle = Energiczne nowe kolorystyki. Dostępne przez ograniczony czas.
 mr2-onboarding-colorway-primary-button-label = Zachowaj kolorystykę
 mr2-onboarding-colorway-secondary-button-label = Nie teraz
-mr2-onboarding-colorway-label-soft = Miękka
+mr2-onboarding-colorway-label-soft = Stonowana
 mr2-onboarding-colorway-label-balanced = Zrównoważona
 # "Bold" is used in the sense of bravery or courage, not in the sense of
 # emphasized text.
