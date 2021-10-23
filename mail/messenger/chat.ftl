@@ -4,18 +4,21 @@
 
 chat-joining-chat-icon2 =
     .alt = Dołączanie do rozmowy
-
 chat-left-chat-icon2 =
     .alt = Uczestnik opuścił rozmowę
-
 chat-participant-owner-role-icon2 =
     .alt = Właściciel
-
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
-
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
-
 chat-participant-voiced-role-icon2 =
     .alt = Uczestnik może wysyłać wiadomości
+chat-verify-identity =
+    .label = Zweryfikuj tożsamość
+    .accesskey = w
+chat-identity-verified =
+    .label = Tożsamość już zweryfikowana
+chat-buddy-identity-status = Zaufanie szyfrowania
+chat-buddy-identity-status-verified = Zweryfikowano
+chat-buddy-identity-status-unverified = Nie zweryfikowano
