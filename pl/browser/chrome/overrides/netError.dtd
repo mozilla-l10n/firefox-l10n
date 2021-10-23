@@ -77,7 +77,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co zrobić w takim przypadku?">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania.</p><p>Jeśli połączono poprzez sieć korporacyjną lub używasz oprogramowania antywirusowego, możesz spróbować skontaktować się z zespołem wsparcia. Możesz również powiadomić administratora strony o problemie.</p>">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania.</p><p>Jeśli połączono poprzez sieć firmową lub używasz oprogramowania antywirusowego, możesz spróbować skontaktować się z zespołem wsparcia. Możesz również powiadomić administratora strony o problemie.</p>">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Zegar systemowy jest ustawiony na <span id='wrongSystemTime_systemDate2'/>. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę „<span class='hostname'/>” ponownie.</p><p>Jeśli wskazania zegara systemowego są prawidłowe, to problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora strony o problemie.</p>">
 
@@ -115,7 +115,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.longDesc "„<span class='hostname'></span>” jest prawdopodobnie bezpieczną stroną, jednak nie można było nawiązać bezpiecznego połączenia. Jest to spowodowane przez program „<span class='mitm-name'/>”, działający na tym komputerze lub w tej sieci.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jeśli oprogramowania antywirusowe zawiera funkcję skanowania szyfrowanych połączeń (często nazywaną „skanowanie ruchu sieciowego” lub „skanowanie HTTPS”), można spróbować ją wyłączyć. Jeśli to nie pomoże, można usunąć i zainstalować oprogramowanie antywirusowe ponownie.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "W sieciach korporacyjnych najlepiej kontaktować się z działami IT.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "W sieciach firmowych najlepiej kontaktować się z działami IT.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jeśli nie rozpoznajesz nazwy „<span class='mitm-name'/>”, to może to być atak i nie powinno się otwierać tej strony.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jeśli nie rozpoznajesz nazwy „<span class='mitm-name'/>”, to może to być atak i tej strony nie można otworzyć.">
 

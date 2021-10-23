@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] Usuń zakładki
         }
     .accesskey = U
+places-show-in-folder =
+    .label = Pokaż w folderze
+    .accesskey = P
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
