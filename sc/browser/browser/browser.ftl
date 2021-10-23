@@ -139,6 +139,8 @@ urlbar-screen-blocked =
     .tooltiptext = As blocadu sa cumpartzidura de s'ischermu pro custu situ.
 urlbar-persistent-storage-blocked =
     .tooltiptext = As blocadu s'archiviatzione permanente pro custu situ.
+urlbar-popup-blocked =
+    .tooltiptext = As blocadu is ventanas a cumparsa pro custu situ.
 urlbar-autoplay-media-blocked =
     .tooltiptext = As blocadu sa riprodutzione automàtica cun sonu pro custu situ.
 urlbar-canvas-blocked =
@@ -242,6 +244,11 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = A
 bookmark-panel-save-button =
     .label = Sarva
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 

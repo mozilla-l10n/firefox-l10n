@@ -21,7 +21,7 @@ cert-error-trust-symantec = Is tzertificados emìtidos dae GeoTrust, RapidSSL, S
 cert-error-untrusted-default = Su tzertificadu non benit dae una fonte fidada.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Is sitos dimostrant s'identidade issoro cun tzertificados. { -brand-short-name } no est unu situ fidadu ca impreat unu tzertificadu non vàlidu pro { $hostname }.
+cert-error-domain-mismatch = Is sitos dimostrant s'identidade issoro cun tzertificados. { -brand-short-name } non si fidat de su situ ca impreat unu tzertificadu non vàlidu pro { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.

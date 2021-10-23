@@ -4,6 +4,9 @@
 
 permissions-close-key =
     .key = w
+permissions-allow =
+    .label = Permite
+    .accesskey = P
 permissions-button-off =
     .label = Istuda
     .accesskey = I
