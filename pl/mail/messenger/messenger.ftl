@@ -10,7 +10,6 @@ unread-messages-os-tooltip =
         [few] { $count } nieprzeczytane wiadomości
        *[many] { $count } nieprzeczytanych wiadomości
     }
-
 about-rights-notification-text = { -brand-short-name } to wolne oprogramowanie o otwartym kodzie źródłowym (open source), tworzone przez społeczność tysięcy ludzi z całego świata.
 
 ## Content tabs
@@ -27,11 +26,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Dodatki i motywy
     .tooltiptext = Zarządzaj dodatkami
-
 quick-filter-toolbarbutton =
     .label = Szybkie filtrowanie
     .tooltiptext = Filtruj wiadomości
-
 redirect-msg-button =
     .label = Przekieruj
     .tooltiptext = Przekieruj zaznaczoną wiadomość
@@ -41,10 +38,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Pasek panelu folderów
     .accesskey = f
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Opcje panelu folderów
-
 folder-pane-header-label = Foldery
 
 ## Folder Toolbar Header Popup
@@ -52,27 +47,21 @@ folder-pane-header-label = Foldery
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ukryj pasek narzędzi
     .accesskey = U
-
 show-all-folders-label =
     .label = Wszystkie
     .accesskey = W
-
 show-unread-folders-label =
     .label = Nieprzeczytane
     .accesskey = N
-
 show-favorite-folders-label =
     .label = Ulubione
     .accesskey = b
-
 show-smart-folders-label =
     .label = Pogrupowane
     .accesskey = P
-
 show-recent-folders-label =
     .label = Ostatnie
     .accesskey = O
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Widok kompaktowy
     .accesskey = k
@@ -82,26 +71,26 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Przekieruj
     .accesskey = k
+menu-file-save-as-file =
+    .label = Plik…
+    .accesskey = P
 
 ## AppMenu
 
+appmenu-save-as-file =
+    .label = Plik…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferencje
-
 appmenu-addons-and-themes =
     .label = Dodatki i motywy
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Tryb rozwiązywania problemów…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Wyłącz tryb rozwiązywania problemów
-
 appmenu-help-more-troubleshooting-info =
     .label = Więcej informacji do rozwiązywania problemów
-
 appmenu-redirect-msg =
     .label = Przekieruj
 
@@ -128,7 +117,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adres jest w książce adresowej
-
 message-header-address-not-in-address-book-icon =
     .alt = Adresu nie ma w książce adresowej
 
@@ -139,11 +127,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Czy usunąć „{ $name }”?
 addon-removal-confirmation-button = Usuń
 addon-removal-confirmation-message = Czy usunąć „{ $name }” z programu { -brand-short-name } wraz z jego konfiguracją i danymi?
-
 caret-browsing-prompt-title = Przeglądanie z użyciem kursora
 caret-browsing-prompt-text = Naciśnięcie klawisza F7 włącza lub wyłącza tryb przeglądania z użyciem kursora. Opcja ta wyświetla ruchomy kursor w pewnych treściach, pozwalając na zaznaczanie tekstu przy pomocy klawiatury. Czy włączyć opcję przeglądania z użyciem kursora?
 caret-browsing-prompt-check-text = Nie pytaj ponownie.
-
 repair-text-encoding-button =
     .label = Napraw kodowanie tekstu
     .tooltiptext = Spróbuj wykryć właściwe kodowanie tekstu na podstawie treści wiadomości
