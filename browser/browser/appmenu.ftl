@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Профильдеуші
     .tooltiptext = Өнімділік профилін жазу
+profiler-popup-button-recording =
+    .label = Профильдеуші
+    .tooltiptext = Профильдеуші профильді жазып отыруда
+profiler-popup-button-capturing =
+    .label = Профильдеуші
+    .tooltiptext = Профильдеуші профильді ұстап алуда
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,8 +174,14 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Веб-әзірлеуші
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox платформасы
+profiler-popup-presets-media-label =
+    .label = Медиа
+profiler-popup-presets-custom-label =
+    .label = Таңдауыңызша
 
 ## History panel
 
