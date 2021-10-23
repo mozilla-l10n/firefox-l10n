@@ -282,6 +282,7 @@ identity-https-only-info-turn-on2 = Ativa sa modalidade «isceti HTTPS» pro cus
 identity-https-only-info-turn-off2 = Si sa pàgina non funtzionat, podes proare a disativare sa modalidade «isceti HTTPS» pro custu situ e torrare a carrigare cun HTTP non seguru.
 identity-https-only-info-no-upgrade = No at fatu a agiornare sa connessione dae HTTP.
 identity-permissions-storage-access-learn-more = Àteras informatziones
+identity-permissions-reload-hint = Forsis depes torrare a carrigare sa pàgina pro aplicare is modìficas.
 identity-connection-not-secure-security-view = Sa connessione a custu situ no est segura.
 identity-connection-verified = Sa connessione a custu situ est segura.
 identity-ev-owner-label = Tzertificadu emìtidu pro:
@@ -344,18 +345,54 @@ browser-tab-unmute =
         [1] ATIVA ÀUDIU ISCHEDA
        *[other] ATIVA ÀUDIU DE { $count } ISCHEDAS
     }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUE ISCHEDA
+       *[other] REPRODUE { $count } ISCHEDAS
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importa sinnalibros...
+    .tooltiptext = Importa sinnalibros dae un'àteru navigadore a { -brand-short-name }.
+bookmarks-toolbar-empty-message = Pro un'atzessu lestru, pone is sinnalibros tuos inoghe, in sa barra de is sinnalibros. <a data-l10n-name="manage-bookmarks">Gesti sinnalibros…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Fotocàmera:
+    .accesskey = F
+popup-select-camera-icon =
+    .tooltiptext = Fotocàmera
+popup-select-microphone-device =
+    .value = Micròfonu:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micròfonu
+popup-select-speaker-icon =
+    .tooltiptext = Altoparlantes
+popup-all-windows-shared = S'ant a cumpartzire totu is ventanas visìbiles in s'ischermu tuo.
+popup-screen-sharing-block =
+    .label = Bloca
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloca semper
+    .accesskey = s
+popup-mute-notifications-checkbox = Disativa is notìficas de is sitos web cando ses cumpartzende
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Ses cumpartzende { -brand-short-name }. Àtera gente podet bìdere cando passas a un'àtera ischeda.
+sharing-warning-screen = Ses cumpartzende totu s'ischermu tuo. Àtera gente podet bìdere cando passas a un'àtera ischeda.
+sharing-warning-proceed-to-tab =
+    .label = Bae a s'ischeda
+sharing-warning-disable-for-session =
+    .label = Disativa sa protetzione de cumpartzidura pro custa sessione
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de Isvilupu web.
 
 ## URL Bar
 
@@ -363,23 +400,95 @@ browser-tab-unmute =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Chirca o inserta·nche un'indiritzu
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Chirca in sa rete
+    .aria-label = Chirca cun { $name }
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Chirca cun { $name } o inserta indiritzu
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Su navigadore est controlladu dae remotu (resone: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = As cuntzèdidu is permissos agiuntivos a custu situ web.
 urlbar-switch-to-tab =
     .value = Bae a s'ischeda:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Agiunta:
+urlbar-go-button =
+    .tooltiptext = Bae a s'indiritzu in sa barra de positzione
+urlbar-page-action-button =
+    .tooltiptext = Atziones de sa pàgina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Chirca cun { $engine } in una ventana privada
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Chirca in una ventana privada
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = Chirca cun { $engine }
+urlbar-result-action-switch-tab = Passa a s'ischeda
+urlbar-result-action-visit = Bìsita
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Incarca Tab pro chircare cun { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Chirca cun { $engine } deretu dae sa barra de indiritzos
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Chirca { $engine } deretu dae sa barra de indiritzos
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Còpia
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Chirca in sinnalibros
+urlbar-result-action-search-history = Chirca in sa cronologia
+urlbar-result-action-search-tabs = Chirca in ischedas
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Cussìgios de { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -394,28 +503,83 @@ fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parte de custa pàgina est faddida.</strong> Pro sinnalare custu problema a { -brand-product-name }, pro chi ddu risolvat a lestru, imbia un'informe.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Parte de custa pàgina est faddida. Pro sinnalare custu problema a { -brand-product-name }, pro chi ddu risolvat a lestru, imbia un'informe.
+crashed-subframe-learnmore-link =
+    .value = Àteras informatziones
+crashed-subframe-submit =
+    .label = Imbia informe
+    .accesskey = I
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Gesti is sinnalibros
+bookmarks-recent-bookmarks-panel-subheader = Sinnalibros reghentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Ammustra àteros signa-libros
 bookmarks-sidebar-content =
     .aria-label = Signa-libros
+bookmarks-menu-button =
+    .label = Menù de is sinnalibros
 bookmarks-other-bookmarks-menu =
     .label = Àteros signa-libros
 bookmarks-mobile-bookmarks-menu =
     .label = Signa-libros mòbiles
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Cua sa barra laterale de is sinnalibros
+           *[other] Ammustra sa barra laterale de is sinnalibros
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Cua sa barra de is sinnalibros
+           *[other] Ammustra sa barra de is sinnalibros
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Cua sa barra de is sinnalibros
+           *[other] Ammustra sa barra de is sinnalibros
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Boga su menù de is sinnalibros dae sa barra de ainas
+           *[other] Agiunghe su menù de is sinnalibros a sa barra de ainas
+        }
+bookmarks-search =
+    .label = Chirca in sinnalibros
+bookmarks-tools =
+    .label = Ainas de is sinnalibros
 bookmarks-bookmark-edit-panel =
     .label = Modìfica custu signa-libru
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra de is sinnalibros
+    .accesskey = S
+    .aria-label = Sinnalibros
 bookmarks-toolbar-menu =
     .label = Barra de signa-libros
 bookmarks-toolbar-placeholder =
     .title = Elementos de sa barra de signa-libros
 bookmarks-toolbar-placeholder-button =
     .label = Elementos de sa barra de signa-libros
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Agiunghe ischeda atuale a sinnalibros
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Sinnalibros
 
 ## Pocket toolbar button
 
