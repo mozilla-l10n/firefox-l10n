@@ -64,6 +64,32 @@ upgrade-dialog-default-secondary-button = Nie teraz
 upgrade-dialog-theme-title-2 = Nowy początek z odświeżonym motywem
 upgrade-dialog-theme-system = Motyw systemu
     .title = Używa motywu systemu operacyjnego do wyświetlania przycisków, menu i okien
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Życie w kolorze
+upgrade-dialog-start-subtitle = Energiczne nowe kolorystyki. Dostępne przez ograniczony czas.
+upgrade-dialog-start-primary-button = Poznaj kolorystyki
+upgrade-dialog-start-secondary-button = Nie teraz
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Wybierz swoją paletę
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Przełącz na stronę startową Firefoksa z tłem motywu
+upgrade-dialog-colorway-primary-button = Zachowaj kolorystykę
+upgrade-dialog-colorway-secondary-button = Zostań przy poprzednim motywie
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Poznaj domyślne motywy
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Poznaj kolorystykę { $colorwayName }
+upgrade-dialog-colorway-default-theme = Domyślny
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatyczny
+    .title = Używa motywu systemu operacyjnego do wyświetlania przycisków, menu i okien
 upgrade-dialog-theme-light = Jasny
     .title = Używa jasnego motywu do wyświetlania przycisków, menu i okien
 upgrade-dialog-theme-dark = Ciemny
@@ -74,3 +100,18 @@ upgrade-dialog-theme-keep = Nie zmieniaj motywu
     .title = Używa motywu zainstalowanego przed aktualizacją przeglądarki { -brand-short-name }
 upgrade-dialog-theme-primary-button = Zachowaj motyw
 upgrade-dialog-theme-secondary-button = Nie teraz
+upgrade-dialog-colorway-variation-soft = Miękka
+    .title = Użyj tej kolorystyki
+upgrade-dialog-colorway-variation-balanced = Zrównoważona
+    .title = Użyj tej kolorystyki
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Odważna
+    .title = Użyj tej kolorystyki
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Dziękujemy za wybranie nas
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } to niezależna przeglądarka wspierana przez organizację non-profit. Razem sprawiamy, że Internet jest bezpieczniejszy, zdrowszy i bardziej prywatny.
+upgrade-dialog-thankyou-primary-button = Zacznij przeglądać Internet

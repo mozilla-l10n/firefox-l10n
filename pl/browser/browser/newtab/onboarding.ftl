@@ -285,3 +285,4 @@ mr2-onboarding-default-theme-description =
 
 mr2-onboarding-thank-you-header = Dziękujemy za wybranie nas
 mr2-onboarding-thank-you-text = { -brand-short-name } to niezależna przeglądarka wspierana przez organizację non-profit. Razem sprawiamy, że Internet jest bezpieczniejszy, zdrowszy i bardziej prywatny.
+mr2-onboarding-start-browsing-button-label = Zacznij przeglądać Internet
