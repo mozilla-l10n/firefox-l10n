@@ -99,12 +99,27 @@ cfr-doorhanger-milestone-close-button = Serra
 ## DOH Message
 
 cfr-doorhanger-doh-body = Sa seguresa tua est de importu. Immoe { -brand-short-name } imbia is rechestas DNS tuas in manera segura, cando possìbile, a unu servìtziu assotziadu pro t'amparare cando ses in lìnia.
+cfr-doorhanger-doh-header = Consultas prus seguras e tzifradas
+cfr-doorhanger-doh-primary-button-2 = AB
+    .accesskey = A
+cfr-doorhanger-doh-secondary-button = Disativa
+    .accesskey = D
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Sa seguresa tua est de importu. Immoe { -brand-short-name } assolat is sitos web s'unu de s'àteru, e custu faghet prus difìtzile chi ti furent craes, nùmeros de cartas de crèditu e àteros datos cunfidentziales.
+cfr-doorhanger-fission-header = Assolamentu de sitos
+cfr-doorhanger-fission-primary-button = AB, apo cumprèndidu
+    .accesskey = B
+cfr-doorhanger-fission-secondary-button = Àteras informatziones
+    .accesskey = A
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Podet èssere chi is vìdeos de custu situ no siant ammustrados in manera curreta in custa versione de { -brand-short-name }. Pro una riprodutzione curreta, agiorna { -brand-short-name } immoe.
+cfr-doorhanger-video-support-header = Agiorna pro { -brand-short-name } bìdere su vìdeu
+cfr-doorhanger-video-support-primary-button = Agiorna immoe
+    .accesskey = i
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -112,3 +127,9 @@ cfr-doorhanger-doh-body = Sa seguresa tua est de importu. Immoe { -brand-short-n
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Paret chi ses impreende una rete Wi-Fi pùblica
+spotlight-public-wifi-vpn-body = Pro cuare sa positzione tua e s'atividade de navigatzione, cunsìdera de impreare una rete privada virtuale (VPN). T'at a agiudare a abarrare suta protetzione cando ses navighende in logos pùblicos comente aeroportos e tzilleris.
+spotlight-public-wifi-vpn-primary-button = Abarra suta protetzione cun { -mozilla-vpn-brand-name }
+    .accesskey = s
+spotlight-public-wifi-vpn-link = Immoe nono
+    .accesskey = n
