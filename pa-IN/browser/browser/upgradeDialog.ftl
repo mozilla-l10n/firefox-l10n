@@ -36,6 +36,13 @@ upgrade-dialog-pin-title =
         [macos] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
        *[other] { -brand-short-name } ਨੂੰ ਆਪਣੀ ਟਾਸਕਬਾਰ ਵਿੱਚ ਟੰਗੋ
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] ਨਵੇਂ { -brand-short-name } ਲਈ ਸੌਖੀ ਪਹੁੰਚ ਹਾਸਲ ਕਰੋ।
+       *[other] ਸਭ ਤੋਂ ਤਾਜ਼ੇ { -brand-short-name } ਨੂੰ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ।
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] ਡੌਕ ਵਿੱਚ ਰੱਖੋ
@@ -55,6 +62,18 @@ upgrade-dialog-default-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 upgrade-dialog-theme-system = ਸਿਸਟਮ ਥੀਮ
     .title = ਬਟਨਾਂ, ਮੇਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਥੀਮ ਦੇ ਮੁਤਾਬਕ ਚੱਲੋ
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = ਜ਼ਿੰਦਗੀ ਵਿੱਚ ਰੰਗ
+upgrade-dialog-start-primary-button = ਰੰਗ-ਢੰਗਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ
+upgrade-dialog-start-secondary-button = ਹੁਣੇ ਨਹੀਂ
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = ਆਪਣਾ ਰੰਗ-ਸਮੂਹ ਚੁਣੋ
 upgrade-dialog-theme-light = ਹਲਕਾ
     .title = ਬਟਨਾਂ, ਮੇਨੂ ਤੇ ਵਿੰਡੋਈਆਂ ਲਈ ਹਲਕਾ ਥੀਮ ਵਰਤੋ
 upgrade-dialog-theme-dark = ਗੂੜ੍ਹਾ
@@ -65,3 +84,6 @@ upgrade-dialog-theme-keep = ਪੁਰਾਣਾ ਹੀ ਰੱਖੋ
     .title = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇੰਸਟਾਲ ਕੀਤੇ ਥੀਮ ਨੂੰ ਵਰਤੋਂ
 upgrade-dialog-theme-primary-button = ਥੀਮ ਨੂੰ ਸੰਭਾਲੋ
 upgrade-dialog-theme-secondary-button = ਹੁਣੇ ਨਹੀਂ
+
+## Thank you screen
+
