@@ -175,6 +175,22 @@ profiler-popup-capture-shortcut =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Preselecziun recumandada per il debugadi da las bleras web-apps cun pitschen overhead.
+profiler-popup-presets-web-developer-label =
+    .label = Svilup web
+profiler-popup-presets-firefox-platform-description = Preselecziun recumandada per il debugadi intern da la plattafurma Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Plattafurma Firefox
+profiler-popup-presets-firefox-front-end-description = Preselecziun recumandada per il debugadi intern da l'interfatscha da Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Interfatscha da Firefox
+profiler-popup-presets-firefox-graphics-description = Preselecziun recumandada per l'examinaziun da la prestaziun grafica da Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Grafica da Firefox
+profiler-popup-presets-media-description = Preselecziun recumandada per diagnostitgar problems dad audio e video.
+profiler-popup-presets-media-label =
+    .label = Multimedia
+profiler-popup-presets-custom-label =
+    .label = Persunalisà
 
 ## History panel
 

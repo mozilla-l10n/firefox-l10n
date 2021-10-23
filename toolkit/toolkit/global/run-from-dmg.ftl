@@ -17,3 +17,12 @@ prompt-to-install-no-button = Betg installar
 
 install-failed-title = L'installaziun da { -brand-short-name } n'è betg reussida.
 install-failed-message = L'installaziun n'è betg reussida, ma { -brand-short-name } vegn vinavant a funcziunar.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Avrir l'applicaziun { -brand-short-name } existenta?
+prompt-to-launch-existing-app-message = Ti has gia installà { -brand-short-name }. Utilisescha l'applicaziun installada per restar à jour ed evitar ina sperdita da datas.
+prompt-to-launch-existing-app-yes-button = Avrir l'applicaziun existenta
+prompt-to-launch-existing-app-no-button = Na, grazia
