@@ -225,10 +225,25 @@ newtab-discovery-empty-section-topstories-timed-out = ਓਹ ਹੋ! ਅਸੀ�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ:
+newtab-pocket-new-topics-title = ਹੋਰ ਲੇਖ ਚਾਹੁੰਦੇ ਹੋ? { -pocket-brand-name } ਵਲੋਂ ਇਹ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਵੇਖੋ
 newtab-pocket-more-recommendations = ਹੋਰ ਸਿਫਾਰਸ਼ਾਂ
 newtab-pocket-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-pocket-cta-button = { -pocket-brand-name } ਲਵੋ
 newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਅਤੇ ਆਪਣੇ ਮਨ ਨੂੰ ਦਿਲਚਸਪ ਪੜ੍ਹ ਕੇ ਮਜਬੂਰ ਕਰੋ।
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } { -brand-product-name } ਗਰੁੱਪ ਦਾ ਭਾਗ ਹੈ
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+newtab-pocket-saved-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਿਆ
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = ਹੋਰ ਲੇਖ ਲੋਡ ਕਰੋ
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = ਤੁਸੀਂ ਪੂਰੇ ਕਰ ਲਏ ਹਨ!
+newtab-pocket-last-card-desc = ਹੋਰਾਂ ਲਈ ਫੇਰ ਵੇਖਿਓ।
+newtab-pocket-last-card-image =
+    .alt = ਤੁਸੀਂ ਪੂਰੇ ਕਰ ਲਏ ਹਨ!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
