@@ -7,3 +7,14 @@
 ### feature.
 
 about-unloads-page-title = Malŝargado de langetoj
+about-unloads-button-unload = Malŝargi
+    .title = Malŝargi langeton kun la plej alta prioritato
+about-unloads-column-priority = Prioritato
+about-unloads-column-host = Servilo
+about-unloads-column-last-accessed = Lasta aliro
+about-unloads-column-weight = Baza pezo
+    .title = Langetoj estas unue ordigitaj laŭ tiu ĉi valoro, derivita de kelkaj specifaj atributoj, kiel sonludado, WebRTC, etc.
+about-unloads-column-sortweight = Aldona pezo
+    .title = Se eblas, langetoj estas ordigitaj laŭ tiu ĉi valoro, post la ordigo laŭ la baza pezo. La aldona pezo estas kalkulita surbaze de la memoruzo kaj kvanto da procezoj de la langeto.
+about-unloads-column-memory = Memoro
+    .title = La taksita memoruzo de la langeto
