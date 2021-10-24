@@ -158,6 +158,11 @@ mr2-onboarding-colorway-header = Elämä väreissä
 mr2-onboarding-colorway-subtitle = Eläviä uusia värejä. Saatavana rajoitetun ajan.
 mr2-onboarding-colorway-primary-button-label = Tallenna väriteema
 mr2-onboarding-colorway-secondary-button-label = Ei nyt
+mr2-onboarding-colorway-label-soft = Kevyt
+mr2-onboarding-colorway-label-balanced = Tasapainotettu
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Rohkea
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automaattinen
 # This string will be used for Default theme
