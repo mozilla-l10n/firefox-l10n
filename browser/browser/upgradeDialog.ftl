@@ -64,6 +64,22 @@ upgrade-dialog-default-secondary-button = Не зараз
 upgrade-dialog-theme-title-2 = Пачніце з чыстага ліста з выразнай тэмай
 upgrade-dialog-theme-system = Сістэмная тэма
     .title = Выкарыстоўваць тэму аперацыйнай сістэмы для кнопак, меню і акон
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Жыццё ў колеры
+upgrade-dialog-start-subtitle = Яркія новыя колеры. Даступныя абмежаваны час.
+upgrade-dialog-start-primary-button = Паглядзець расфарбоўкі
+upgrade-dialog-start-secondary-button = Не зараз
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Выберыце сваю палітру
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Пераключыцеся на стартавую старонку Firefox з тэматычным фонам
+upgrade-dialog-colorway-primary-button = Захаваць расфарбоўку
 upgrade-dialog-theme-light = Светлая
     .title = Выкарыстоўваць светлую тэму для кнопак, меню і акон
 upgrade-dialog-theme-dark = Цёмная
@@ -74,3 +90,6 @@ upgrade-dialog-theme-keep = Захаваць папярэднюю
     .title = Выкарыстоўваць тэму, якую вы ўсталявалі да абнаўлення { -brand-short-name }
 upgrade-dialog-theme-primary-button = Захаваць тэму
 upgrade-dialog-theme-secondary-button = Не зараз
+
+## Thank you screen
+
