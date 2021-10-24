@@ -118,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Record a performance profile
+profiler-popup-button-recording =
+    .label = Profiloija
+    .tooltiptext = Profiloija nauhoittaa profiilia
+profiler-popup-button-capturing =
+    .label = Profiloija
+    .tooltiptext = Profiloija kaappaa profiilia
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -166,6 +172,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Suositeltu esiasetus suurimpaan osaan verkkosovellusten vianjäljityksessä.
+profiler-popup-presets-web-developer-label =
+    .label = Web-kehittäjä
+profiler-popup-presets-firefox-platform-description = Suositeltu esiasetus Firefox-alustan sisäiseen vianjäljitykseen.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox-alusta
+profiler-popup-presets-firefox-front-end-description = Suositeltu esiasetus Firefoxin käyttöliittymän sisäiseen vianjäljitykseen.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox-käyttöliittymä
+profiler-popup-presets-firefox-graphics-description = Suositeltu esiasetus Firefoxin grafiikan suorituskyvyn tutkintaan.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox-grafiikka
+profiler-popup-presets-media-description = Suositeltu esiasetus ääni- ja video-ongelmien diagnosointiin.
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-custom-label =
+    .label = Mukautettu
 
 ## History panel
 

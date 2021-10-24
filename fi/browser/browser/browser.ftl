@@ -727,6 +727,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Älä näytä tätä viestiä kun ponnahdusikkuna estetään
     .accesskey = Ä
+edit-popup-settings =
+    .label = Hallitse ponnahdusasetuksia…
+    .accesskey = p
 picture-in-picture-hide-toggle =
     .label = Piilota kuva kuvassa -kytkin
     .accesskey = P
@@ -773,4 +776,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Haluatko avata aiemmat välilehdet?</strong> Voit palauttaa aiemman istunnon { -brand-short-name }in sovellusvalikosta <img data-l10n-name="icon"/> kohdasta Sivuhistoria.
 restore-session-startup-suggestion-button = Näytä ohje

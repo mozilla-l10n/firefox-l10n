@@ -226,10 +226,25 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattii
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Suositut aiheet:
+newtab-pocket-new-topics-title = Haluatko lisää tarinoita? Katso nämä suositut aiheet { -pocket-brand-name }ista
 newtab-pocket-more-recommendations = Lisää suosituksia
 newtab-pocket-learn-more = Lue lisää
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name }-perhettä
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Tallenna { -pocket-brand-name }iin
+newtab-pocket-saved-to-pocket = Tallennettu { -pocket-brand-name }iin
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Lataa lisää tarinoita
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Siinä kaikki!
+newtab-pocket-last-card-desc = Katso lisää myöhemmin.
+newtab-pocket-last-card-image =
+    .alt = Siinä kaikki
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
