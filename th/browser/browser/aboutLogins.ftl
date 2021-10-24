@@ -24,7 +24,7 @@ about-logins-menu-menuitem-remove-all-logins = ลบการเข้าสู
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก
-       *[other] ค่ากำหนด
+       *[other] การตั้งค่า
     }
 about-logins-menu-menuitem-help = ช่วยเหลือ
 
