@@ -153,6 +153,7 @@ mr1-onboarding-import-primary-button-label-attribution = Importer frå { $previo
 mr1-onboarding-import-primary-button-label-no-attribution = Importer frå tidlegare nettlesar
 mr1-onboarding-import-secondary-button-label = Ikkje no
 mr2-onboarding-colorway-header = Livet i fargar
+mr2-onboarding-colorway-subtitle = Levande nye fargesamansetjingar. Tilgjengeleg i ein avgrensa periode.
 mr2-onboarding-colorway-primary-button-label = Lagre fargesamansetjing
 mr2-onboarding-colorway-secondary-button-label = Ikkje no
 mr2-onboarding-colorway-label-soft = Mjuk
