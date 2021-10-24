@@ -21,16 +21,15 @@ about-private-browsing-handoff-text = Hae hakukoneella { $engine } tai kirjoita 
 about-private-browsing-handoff-text-no-engine = Kirjoita osoite tai hakusana
 about-private-browsing-not-private = Tämä ei ole yksityinen selausikkuna.
 about-private-browsing-info-description = { -brand-short-name } poistaa haku- ja selaushistorian, kun ohjelma suljetaan tai kaikki yksityisen selauksen välilehdet ja ikkunat suljetaan. Tämä ei tee sinusta anonyymiä sivustoille tai internetpalveluntarjoajallesi, mutta helpottaa pitämään verkossa tekemäsi asiat yksityisinä muilta, jotka käyttävät tätä tietokonetta.
-
 about-private-browsing-need-more-privacy = Tarvitsetko lisää yksityisyyttä?
 about-private-browsing-turn-on-vpn = Kokeile { -mozilla-vpn-brand-name }:ää
-
+about-private-browsing-info-description-private-window = Yksityinen ikkuna: { -brand-short-name } tyhjentää haku- ja selaushistoriasi, kun suljet kaikki yksityiset ikkunat. Tämä ei tee sinusta anonyymiä.
 about-private-browsing-info-description-simplified = { -brand-short-name } tyhjentää haku- ja selaushistorian kun suljet kaikki yksityiset ikkunat, mutta tämä ei tee sinusta anonyymiä.
 about-private-browsing-learn-more-link = Lue lisää
-
 about-private-browsing-hide-activity = Piilota toimintasi ja sijaintisi kaikkialla missä selaat
+about-private-browsing-get-privacy = Hanki yksityisyyden suojaa kaikkialle missä selaat
+about-private-browsing-hide-activity-1 = Piilota selaustoimintasi ja sijaintisi käyttäen { -mozilla-vpn-brand-name }:ää. Yksi napsautus luo suojatun yhteyden, jopa julkisissa wifi-verkoissa.
 about-private-browsing-prominent-cta = Pysy yksityisenä käyttäen { -mozilla-vpn-brand-name }:ää
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
