@@ -156,7 +156,12 @@ mr1-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä sel
 mr1-onboarding-import-secondary-button-label = Ei nyt
 mr2-onboarding-colorway-header = Elämä väreissä
 mr2-onboarding-colorway-subtitle = Eläviä uusia värejä. Saatavana rajoitetun ajan.
+mr2-onboarding-colorway-primary-button-label = Tallenna väriteema
 mr2-onboarding-colorway-secondary-button-label = Ei nyt
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automaattinen
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Oletus
 mr1-onboarding-theme-header = Omalla tyylillä
 mr1-onboarding-theme-subtitle = Valitse { -brand-short-name }-teema makusi mukaan.
 mr1-onboarding-theme-primary-button-label = Tallenna teema
@@ -262,6 +267,14 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Käytä dynaamista ja värikästä teemaa
         painikkeille, valikoille ja ikkunoille.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Käytä tätä väriteemaa.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Käytä tätä väriteemaa.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Selaa oletusteemoja.
