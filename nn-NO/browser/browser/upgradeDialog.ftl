@@ -73,6 +73,8 @@ upgrade-dialog-start-secondary-button = Ikkje no
 
 ## Colorway screen
 
+upgrade-dialog-colorway-primary-button = Lagre fargesamansetjing
+upgrade-dialog-colorway-secondary-button = Behald førre tema
 upgrade-dialog-colorway-default-theme = Standard
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Automatisk
@@ -102,4 +104,5 @@ upgrade-dialog-colorway-variation-bold = Modig
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Takk for at du valde oss
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } er ein uavhengig nettlesar som er støtta av ein ideell organisasjon. Saman gjer vi nettet tryggare, sunnare og meir privat.
 upgrade-dialog-thankyou-primary-button = Byrj surfinga
