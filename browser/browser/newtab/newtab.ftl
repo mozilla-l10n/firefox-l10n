@@ -226,7 +226,7 @@ newtab-discovery-empty-section-topstories-timed-out = Leider ist ein Fehler beim
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Beliebte Themen:
-newtab-pocket-new-topics-title = Sie wollen noch mehr Artikel? Sehen Sie sich diese beliebte Themen von { -pocket-brand-name } an
+newtab-pocket-new-topics-title = Sie wollen noch mehr Artikel? Sehen Sie sich diese beliebten Themen von { -pocket-brand-name } an
 newtab-pocket-more-recommendations = Mehr Empfehlungen
 newtab-pocket-learn-more = Weitere Informationen
 newtab-pocket-cta-button = { -pocket-brand-name } holen
