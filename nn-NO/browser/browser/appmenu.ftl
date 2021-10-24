@@ -176,8 +176,10 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Nettsideutvikling
+profiler-popup-presets-firefox-platform-description = Tilrådd førehandsinnstilling for intern feilsøking av Firefox-plattforma.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox-plattform
+profiler-popup-presets-firefox-front-end-description = Tilrådd førehandsinnstilling for feilsøking av Firefox grenseflate.
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox grenseflate
 profiler-popup-presets-firefox-graphics-label =
