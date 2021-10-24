@@ -16,7 +16,7 @@ about-unloads-intro-1 =
     wenn die Tab-Entladung ausgelöst wird.
 about-unloads-intro-2 =
     Bestehende Tabs werden in der folgenden Tabelle in derselben Reihenfolge angezeigt,
-    in der sie von { -brand-short-name } werden, um den nächsten Tab zum Entladen auszuwählen.
+    in der sie von { -brand-short-name } ausgewählt werden, um den nächsten Tab zu entladen.
     Prozess-IDs werden in <strong>fett</strong> angezeigt, wenn sie den obersten Frame des Tabs
     enthalten, und in <em>kursiv</em>, wenn der Prozess zwischen verschiedenen Tabs geteilt wird.
     Sie können das Entladen des Tabs manuell auslösen, indem Sie unten auf die Schaltfläche
@@ -42,9 +42,9 @@ about-unloads-column-priority = Priorität
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Zuletzt zugegriffen
 about-unloads-column-weight = Basisgewicht
-    .title = Tabs werden zuerst nach diesem Wert sortiert, welcher sich aus besonderen Eigenschaften ableitet, z.B. ob der Tab Sound abspielt, WebRTC nutzt usw.
+    .title = Tabs werden zuerst nach diesem Wert sortiert, welcher sich aus besonderen Eigenschaften ableitet, z.B. ob der Tab Audio wiedergibt, WebRTC nutzt usw.
 about-unloads-column-sortweight = Sekundärgewicht
-    .title = Wenn verfügbar, werden Tabs nach diesem Wert sortiert, nachdem sie nach dem Basisgewicht sortiert wurden. Der Wert leitet sich vom Speicherverbrauch und der Anzahl Prozesse des Tabs ab.
+    .title = Falls verfügbar, werden Tabs nach diesem Wert sortiert, nachdem sie nach dem Basisgewicht sortiert wurden. Der Wert leitet sich vom Speicherverbrauch und der Anzahl der Prozesse des Tabs ab.
 about-unloads-column-memory = Arbeitsspeicher
     .title = Geschätzter Arbeitsspeicherverbrauch des Tabs
 about-unloads-column-processes = Prozess-IDs
