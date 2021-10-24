@@ -7,13 +7,10 @@
 
 site-data-settings-window =
     .title = Cookies файлдары және сайт деректерін басқару
-
 site-data-settings-description = Келесі веб-сайттар компьютеріңізде cookies файлдарын және сайт деректерін сақтайды. { -brand-short-name } тұрақты сақтауышты веб-сайттардан деректерді сіз оларды қолмен өшіргенше дейін сақтайды, ал, тұрақты емес сақтауышты веб-сайттардан деректерді орын керек болған кезде өшіреді.
-
 site-data-search-textbox =
     .placeholder = Сайттардан іздеу
     .accesskey = с
-
 site-data-column-host =
     .label = Сайт
 site-data-column-cookies =
@@ -22,18 +19,14 @@ site-data-column-storage =
     .label = Сақтауыш
 site-data-column-last-used =
     .label = Соңғы қолданылған
-
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (жергілікті файл)
-
 site-data-remove-selected =
     .label = Таңдалғанды өшіру
     .accesskey = р
-
 site-data-settings-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -41,11 +34,9 @@ site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value } (Тұрақты)
-
 site-data-remove-all =
     .label = Барлығын өшіру
     .accesskey = а
-
 site-data-remove-shown =
     .label = Көрсетілгеннің барлығын өшіру
     .accesskey = р
@@ -55,9 +46,9 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Өшіру
-
 site-data-removing-header = Cookies файлдары және сайт деректерін өшіру
-
 site-data-removing-desc = Cookies файлдарын және сайт деректерін өшіру нәтижесінде сіз сайттардан шығуыңыз мүмкін. Өзгерістерді іске асыруды қалайсыз ба?
-
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = Cookie файлдары мен сайт деректерін өшіру сіздің веб-сайттардан шығаруы мүмкін. <strong>{ $baseDomain }</strong> үшін cookie файлдары мен сайт деректерін шынымен өшіргіңіз келе ме?
 site-data-removing-table = Келесі веб-сайттар үшін cookies файлдары және сайттар деректері өшірілетін болады

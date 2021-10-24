@@ -1008,6 +1008,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Осыдан бөлек…
     .accesskey = О
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Ережелерден бөлек…
+    .accesskey = Е
+    .searchkeywords = атып шығатын тезелер
 permissions-addon-install-warning =
     .label = Вебсайттар кеңейтулерді орнатқысы келсе, ескерту
     .accesskey = В

@@ -5,77 +5,59 @@
 permissions-window =
     .title = Осыдан бөлек
     .style = width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Сайт адресі
     .accesskey = д
-
 permissions-block =
     .label = Блоктау
     .accesskey = Б
-
 permissions-session =
     .label = Тек осы сессияға рұқсат беру
     .accesskey = Т
-
 permissions-allow =
     .label = Рұқсат ету
     .accesskey = е
-
 permissions-button-off =
     .label = Сөндіру
     .accesskey = д
-
 permissions-button-off-temporarily =
     .label = Уақытша сөндіру
     .accesskey = т
-
 permissions-site-name =
     .label = Веб сайт
-
 permissions-status =
     .label = Қалып-күйі
-
 permissions-remove =
     .label = Вебсайтты өшіру
     .accesskey = ш
-
 permissions-remove-all =
     .label = Барлық вебсайттарды өшіру
     .accesskey = р
-
 permission-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с
-
 permissions-autoplay-menu = Барлық веб-сайттар үшін негізгі:
-
 permissions-searchbox =
     .placeholder = Вебсайттан іздеу
-
 permissions-capabilities-autoplay-allow =
     .label = Аудио және видеоны рұқсат ету
 permissions-capabilities-autoplay-block =
     .label = Аудионы бұғаттау
 permissions-capabilities-autoplay-blockall =
     .label = Аудио мен видеоны бұғаттау
-
 permissions-capabilities-allow =
     .label = Рұқсат ету
 permissions-capabilities-block =
     .label = Болдырмау
 permissions-capabilities-prompt =
     .label = Әрқашан сұрау
-
 permissions-capabilities-listitem-allow =
     .value = Рұқсат ету
 permissions-capabilities-listitem-block =
     .value = Болдырмау
 permissions-capabilities-listitem-allow-session =
     .value = Тек осы сессияға рұқсат ету
-
 permissions-capabilities-listitem-off =
     .value = Сөндіру
 permissions-capabilities-listitem-off-temporarily =
@@ -102,6 +84,10 @@ permissions-exceptions-cookie-desc = Қай веб-сайттарға cookies ф
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Ережеден тыс - тек-HTTPS режимі
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Белгілі бір веб-сайттар үшін тек-HTTPS режимін сөндіруге болады. { -brand-short-name } бұл сайттар үшін байланысты қауіпсіз HTTPS байланысына дейін жаңартуға әрекет жасамайды. Ережеден тыс жағдайлар жекелік терезелерге қолданылмайды.
 
 ## Exceptions - Pop-ups
 
