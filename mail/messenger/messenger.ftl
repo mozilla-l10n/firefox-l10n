@@ -25,6 +25,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Lisäosat ja teemat
     .tooltiptext = Hallitse lisäosia
+redirect-msg-button =
+    .label = Uudelleenohjaa
+    .tooltiptext = Uudelleenohjaa valittu viesti
 
 ## Folder Pane
 
@@ -61,6 +64,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Uudelleenohjaa
+    .accesskey = d
 menu-file-save-as-file =
     .label = Tiedosto…
     .accesskey = T
@@ -75,12 +81,18 @@ appmenu-preferences =
     .label = Asetukset
 appmenu-addons-and-themes =
     .label = Lisäosat ja teemat
+appmenu-redirect-msg =
+    .label = Uudelleenohjaa
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Uudelleenohjaa
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Uudelleenohjaa
 
 ## Action Button Context Menu
 

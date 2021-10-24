@@ -5,6 +5,9 @@
 dock-options-window-dialog =
     .title = Sovelluskuvakkeen asetukset
     .style = width: 35em;
+dock-options-show-badge =
+    .label = Näytä lukumäärää ilmaiseva kuvake
+    .accesskey = m
 bounce-system-dock-icon =
     .label = Toteuta animaatio kuvakkeeseen kun uusi viesti saapuu
     .accesskey = k
