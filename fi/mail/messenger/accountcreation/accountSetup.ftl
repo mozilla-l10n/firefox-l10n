@@ -222,6 +222,7 @@ account-setup-confirm-advanced-description = Tämä ikkuna suljetaan ja tili luo
 ## Addon installation section
 
 account-setup-addon-install-title = Asenna
+account-setup-addon-install-intro = Kolmannen osapuolen lisäosan avulla saattaa olla mahdollista käyttää sähköpostitiliä tällä palvelimella:
 account-setup-addon-no-protocol = Valitettavasti tämä sähköpostipalvelin ei tue avoimia yhteyskäytäntöjä. { account-setup-addon-install-intro }
 
 ## Success view
