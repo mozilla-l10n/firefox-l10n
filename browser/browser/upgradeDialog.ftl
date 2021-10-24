@@ -67,14 +67,22 @@ upgrade-dialog-theme-system = Järjestelmän teema
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Elämä väreissä
+upgrade-dialog-start-subtitle = Eläviä uusia värejä. Saatavana rajoitetun ajan.
 upgrade-dialog-start-secondary-button = Ei nyt
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Valitse paletti
 upgrade-dialog-colorway-secondary-button = Säilytä edellinen teema
 upgrade-dialog-colorway-theme-tooltip =
     .title = Selaa oletusteemoja
 upgrade-dialog-colorway-default-theme = Oletus
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automaattinen
+    .title = Seuraa käyttöjärjestelmän teemaa painikkeille, valikoille ja ikkunoille
 upgrade-dialog-theme-light = Vaalea
     .title = Käytä vaaleaa teemaa painikkeille, valikoille ja ikkunoille
 upgrade-dialog-theme-dark = Tumma
@@ -88,4 +96,7 @@ upgrade-dialog-theme-secondary-button = Ei nyt
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Kiitos, että valitsit meidät
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } on itsenäinen selain, jota tukee voittoa tavoittelematon taho. Yhdessä teemme verkosta aiempaa turvallisemman, terveellisemmän ja yksityisemmän.
 upgrade-dialog-thankyou-primary-button = Aloita selaaminen
