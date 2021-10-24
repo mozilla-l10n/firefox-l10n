@@ -76,6 +76,7 @@ upgrade-dialog-start-secondary-button = Ei nyt
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Valitse paletti
+upgrade-dialog-colorway-primary-button = Tallenna väriteema
 upgrade-dialog-colorway-secondary-button = Säilytä edellinen teema
 upgrade-dialog-colorway-theme-tooltip =
     .title = Selaa oletusteemoja
@@ -93,6 +94,14 @@ upgrade-dialog-theme-keep = Säilytä edellinen
     .title = Käytä ennen { -brand-short-name }in päivitystä asennettuna ollutta teemaa
 upgrade-dialog-theme-primary-button = Tallenna teema
 upgrade-dialog-theme-secondary-button = Ei nyt
+upgrade-dialog-colorway-variation-soft = Kevyt
+    .title = Käytä tätä väriteemaa
+upgrade-dialog-colorway-variation-balanced = Tasapainotettu
+    .title = Käytä tätä väriteemaa
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Rohkea
+    .title = Käytä tätä väriteemaa
 
 ## Thank you screen
 
