@@ -12,7 +12,7 @@
 ## Application Menu (macOS only)
 
 menu-application-preferences =
-    .label = ค่ากำหนด
+    .label = การตั้งค่า
 menu-application-services =
     .label = บริการ
 menu-application-hide-this =
@@ -38,20 +38,16 @@ menu-quit =
             [windows] อ
            *[other] อ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ออกจาก { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = ออกจาก { -brand-shorter-name }
-
 menu-about =
     .label = เกี่ยวกับ { -brand-shorter-name }
     .accesskey = ก

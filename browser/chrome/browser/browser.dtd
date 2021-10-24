@@ -45,8 +45,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "หน้าแรก">
 <!ENTITY homeButton.defaultPage.tooltip "หน้าแรกของ &brandShortName;">
 
-<!-- Toolbar items -->
-
 <!ENTITY historyButton.label            "ประวัติ">
 
 <!ENTITY downloads.label              "การดาวน์โหลด">
@@ -61,7 +59,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY editMenu.label         "แก้ไข">
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
-<!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
+<!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
 <!ENTITY logins.label                           "การเข้าสู่ระบบและรหัสผ่าน">
 
 <!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
