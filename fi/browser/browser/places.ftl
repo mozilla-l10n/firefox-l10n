@@ -82,6 +82,13 @@ places-remove-folder =
 places-edit-folder2 =
     .label = Muokkaa kansiota…
     .accesskey = M
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Poista kansio
+           *[other] Poista kansiot
+        }
+    .accesskey = P
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hallinnoidut kirjanmerkit
@@ -100,10 +107,25 @@ places-remove-bookmark =
            *[other] Poista kirjanmerkit
         }
     .accesskey = o
+places-show-in-folder =
+    .label = Näytä kansiossa
+    .accesskey = N
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Poista kirjanmerkki
+           *[other] Poista kirjanmerkit
+        }
+    .accesskey = r
 places-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
     .accesskey = J
 places-forget-about-this-site-confirmation-title = Sivuston unohtaminen
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Tämä toiminto poistaa kaikki sivustoon { $hostOrBaseDomain } liittyvät tiedot mukaan lukien historian, salasanat, evästeet, välimuistin ja sisältöasetukset. Haluatko varmasti jatkaa?
 places-forget-about-this-site-forget = Unohda
 places-library =
     .title = Kirjasto
