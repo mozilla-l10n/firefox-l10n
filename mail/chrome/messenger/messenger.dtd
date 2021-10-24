@@ -696,7 +696,6 @@
 <!ENTITY locationColumn.label "ตำแหน่งที่ตั้ง">
 <!ENTITY idColumn.label "ลำดับที่ได้รับ">
 <!ENTITY attachmentColumn.label "ไฟล์แนบ">
-
 <!ENTITY deleteColumn.label "ลบ">
 
 <!-- Thread Pane Tooltips -->
@@ -722,7 +721,6 @@
 <!ENTITY locationColumn2.tooltip "เรียงตามตำแหน่งที่ตั้ง">
 <!ENTITY idColumn2.tooltip "เรียงตามลำดับที่ได้รับ">
 <!ENTITY attachmentColumn2.tooltip "เรียงตามไฟล์แนบ">
-
 <!ENTITY deleteColumn.tooltip "ลบข้อความ">
 
 <!-- Thread Pane Context Menu -->
@@ -928,7 +926,7 @@
 <!ENTITY zoomWindow.label "ซูม">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "ค่ากำหนด">
+<!ENTITY preferencesCmdMac2.label       "การตั้งค่า">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "บริการ">
