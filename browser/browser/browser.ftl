@@ -776,3 +776,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Vis liste over alle faner
     .tooltiptext = Vis liste over alle faner
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Vis meg korleis
