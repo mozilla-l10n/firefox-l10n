@@ -63,7 +63,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentti on vanhentunut">
-<!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu selaimen väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu selaimen väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Lataa dokumentti uudelleen sivustolta napsauttamalla Yritä uudestaan.</li></ul>">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
 <!ENTITY netOffline.longDesc2 "

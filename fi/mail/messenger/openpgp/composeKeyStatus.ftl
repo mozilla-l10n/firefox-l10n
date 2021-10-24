@@ -5,7 +5,7 @@
 openpgp-compose-key-status-intro-need-keys = Lähettääksesi päästä päähän -salatun viestin, sinun tulee hankkia ja hyväksyä jokaisen vastaanottajan julkinen avain.
 openpgp-compose-key-status-keys-heading = OpenPGP-avainten saatavuus:
 openpgp-compose-key-status-title =
-    .title = OpenPGP-viestiturvallisuus
+    .title = OpenPGP-viestisuojaus
 openpgp-compose-key-status-recipient =
     .label = Vastaanottaja
 openpgp-compose-key-status-status =

@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-<!ENTITY status.label "Viestin turvallisuus">
+<!ENTITY status.label "Viestin suojaus">
 <!ENTITY signatureCert.label "Näytä allekirjoituksen varmenne">
 <!ENTITY encryptionCert.label "Näytä salausvarmenne">
 

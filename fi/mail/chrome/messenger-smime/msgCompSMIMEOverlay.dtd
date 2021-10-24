@@ -26,11 +26,11 @@
 <!ENTITY menu_techSMIME.label "S/MIME">
 <!ENTITY menu_techSMIME.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "Näytä turvallisuustiedot">
+<!ENTITY menu_securityStatus.label "Näytä suojaustiedot">
 <!ENTITY menu_securityStatus.accesskey "N">
 
-<!ENTITY securityButton.label "Turvallisuus">
-<!ENTITY securityButton.tooltip "Näytä tai muuta turvallisuusasetuksia">
+<!ENTITY securityButton.label "Suojaus">
+<!ENTITY securityButton.tooltip "Tarkastele suojausasetuksia">
 
-<!ENTITY menu_viewSecurityStatus.label "Viestin turvallisuustiedot">
+<!ENTITY menu_viewSecurityStatus.label "Viestin suojaustiedot">
 <!ENTITY menu_viewSecurityStatus.accesskey "V">

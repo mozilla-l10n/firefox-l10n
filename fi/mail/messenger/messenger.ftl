@@ -81,6 +81,12 @@ appmenu-preferences =
     .label = Asetukset
 appmenu-addons-and-themes =
     .label = Lisäosat ja teemat
+appmenu-help-enter-troubleshoot-mode =
+    .label = Ongelmanratkaisutila…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Poista ongelmanratkaisutila käytöstä
+appmenu-help-more-troubleshooting-info =
+    .label = Lisää ongelmanratkaisutietoja
 appmenu-redirect-msg =
     .label = Uudelleenohjaa
 

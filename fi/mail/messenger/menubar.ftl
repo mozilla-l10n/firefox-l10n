@@ -49,6 +49,9 @@ menu-view-repair-text-encoding =
 
 ## View / Layout
 
+mail-uidensity-label =
+    .label = Tiheys
+    .accesskey = h
 mail-uidensity-compact =
     .label = Tiivistä
     .accesskey = v
