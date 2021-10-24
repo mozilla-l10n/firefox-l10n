@@ -4,15 +4,15 @@
 
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
-<!ENTITY title.label  "Viestin turvallisuus">
-<!ENTITY subject.plaintextWarning  "Huomaa: Sähköpostiviestien aihekenttää ei salata koskaan.">
-<!ENTITY status.heading  "Viestisi sisältö lähetetään seuraavanlaisena:">
-<!ENTITY status.signed  "Digitaalisesti allekirjoitettu:">
-<!ENTITY status.encrypted  "Salattu:">
-<!ENTITY status.certificates  "Varmenteet:">
-<!ENTITY view.label  "Näytä">
-<!ENTITY view.accesskey  "N">
-<!ENTITY tree.recipient  "Vastaanottaja:">
-<!ENTITY tree.status  "Tila:">
-<!ENTITY tree.issuedDate  "Myönnetty:">
-<!ENTITY tree.expiresDate  "Vanhenee:">
+<!ENTITY title.label "Viestin suojaustiedot">
+<!ENTITY subject.plaintextWarning "Huomaa: Sähköpostiviestien aihekenttää ei salata koskaan.">
+<!ENTITY status.heading "Viestisi sisältö lähetetään seuraavanlaisena:">
+<!ENTITY status.signed "Digitaalisesti allekirjoitettu:">
+<!ENTITY status.encrypted "Salattu:">
+<!ENTITY status.certificates "Varmenteet:">
+<!ENTITY view.label "Näytä">
+<!ENTITY view.accesskey "N">
+<!ENTITY tree.recipient "Vastaanottaja:">
+<!ENTITY tree.status "Tila:">
+<!ENTITY tree.issuedDate "Myönnetty:">
+<!ENTITY tree.expiresDate "Vanhenee:">

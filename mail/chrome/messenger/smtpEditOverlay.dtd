@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY settings.caption  "Asetukset">
-<!ENTITY security.caption  "Turvallisuus ja todennus">
-<!ENTITY serverName.label  "Palvelin:">
-<!ENTITY serverName.accesskey  "P">
-<!ENTITY serverDescription.label  "Kuvaus:">
-<!ENTITY serverDescription.accesskey  "K">
-<!ENTITY serverPort.label  "Portti:">
-<!ENTITY serverPort.accesskey  "o">
-<!ENTITY userName.label  "Käyttäjätunnus:">
-<!ENTITY userName.accesskey  "ä">
+<!ENTITY settings.caption "Asetukset">
+<!ENTITY security.caption "Suojaus ja todennus">
+<!ENTITY serverName.label "Palvelin:">
+<!ENTITY serverName.accesskey "P">
+<!ENTITY serverDescription.label "Kuvaus:">
+<!ENTITY serverDescription.accesskey "K">
+<!ENTITY serverPort.label "Portti:">
+<!ENTITY serverPort.accesskey "o">
+<!ENTITY userName.label "Käyttäjätunnus:">
+<!ENTITY userName.accesskey "ä">
 <!ENTITY connectionSecurity.label "Yhteyden suojaus:">
 <!ENTITY connectionSecurity.accesskey "Y">
 <!ENTITY connectionSecurityType-0.label "Ei mitään">
