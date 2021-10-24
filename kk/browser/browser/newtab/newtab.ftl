@@ -169,6 +169,11 @@ newtab-label-sponsored = { $sponsorOrSource } · Демеушілік
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = { $sponsor } демеушісінен
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } мин
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -232,6 +237,10 @@ newtab-pocket-saved-to-pocket = { -pocket-brand-name } ішіне сақталд
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Барлығын оқып шықтыңыз!
+newtab-pocket-last-card-desc = Көбірек көру үшін кейінірек кіріңіз.
+newtab-pocket-last-card-image =
+    .alt = Барлығын оқып шықтыңыз
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

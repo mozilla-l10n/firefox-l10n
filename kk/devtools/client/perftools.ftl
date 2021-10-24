@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Буфер өлшемі:
-
 perftools-custom-threads-label = Таңдауыңызша ағындарды атаулары бойынша қосу:
-
 perftools-devtools-interval-label = Аралық:
 perftools-devtools-threads-label = Ағындар:
 perftools-devtools-settings-label = Баптаулар
@@ -101,7 +99,6 @@ perftools-thread-dns-resolver =
 ##
 
 perftools-record-all-registered-threads = Жоғарыдағы таңдауды елемей, барлық тіркелген ағындарды жазу
-
 perftools-tools-threads-input-label =
     .title = Бұл ағын атаулары - профильдеушіде ағындар профильдеуін іске қосу үшін қолданылатын үтірлермен ажыратылған тізім. Бұл атау қосылатын ағын атауымен жартылай сәйкестік де бола алады. Ол бос аралықтарға сезімтал.
 
@@ -110,9 +107,27 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Жаңа</b>: { -profiler-brand-name } енді әзірлеуші құралдарына ендірілген. Бұл мүмкіндігі көп жаңа құрал туралы <a>көбірек біліңіз</a>.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Белгілі бір шектелген уақыт ішінде, сіз түпнұсқа өнімділік панеліне <a>{ options-context-advanced-settings }</a> арқылы қатынай аласыз)
-
 perftools-onboarding-close-button =
     .aria-label = Қарсы алу хабарламасын жабу
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-firefox-platform-label = Firefox платформасы
+perftools-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
+perftools-presets-firefox-front-end-label = Firefox клиент бөлігі
+perftools-presets-firefox-front-end-description = Firefox клиент бөілігін ішкі жөндеу үшін ұсынылған баптаулар.
+perftools-presets-firefox-graphics-label = Firefox графикасы
+perftools-presets-firefox-graphics-description = Firefox графикасы өнімділігін тексеру үшін ұсынылған баптаулар.
+perftools-presets-media-label = Медиа
+perftools-presets-media-description = Аудио және видео мәселелерін диагностикалау үшін ұсынылған баптаулар.
+perftools-presets-custom-label = Таңдауыңызша
+
+##
+

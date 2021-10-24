@@ -773,3 +773,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Барлық беттерді тізіп шығу
     .tooltiptext = Барлық беттерді тізіп шығу
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Қалай жасау керектігін көрсету
