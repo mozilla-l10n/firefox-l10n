@@ -3,25 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 troubleshoot-mode-window =
-    .title = { -brand-short-name } Ongelmanratkaisutila
+    .title = { -brand-short-name }in ongelmanratkaisutila
     .style = width: 37em;
-
-troubleshoot-mode-description = Käytä { -brand-short-name } ongelmanratkaisutilaa ongelmien tutkimiseen. Lisäosasi ja mukautuksesi poistetaan väliaikaisesti käytöstä.
-
+troubleshoot-mode-description = Käytä { -brand-short-name }in ongelmanratkaisutilaa ongelmien tutkimiseen. Lisäosasi ja mukautuksesi poistetaan väliaikaisesti käytöstä.
 troubleshoot-mode-description2 = Voit tehdä joistain tai kaikista näistä asetuksista pysyviä:
-
 troubleshoot-mode-disable-addons =
     .label = Poista käytöstä kaikki lisäosat
     .accesskey = P
-
 troubleshoot-mode-change-and-restart =
     .label = Toteuta muutokset ja käynnistä uudelleen
     .accesskey = T
-
 troubleshoot-mode-continue =
     .label = Jatka ongelmanratkaisutilassa
     .accesskey = J
-
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
