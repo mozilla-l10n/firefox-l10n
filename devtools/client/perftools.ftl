@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Памер буфера:
-
 perftools-custom-threads-label = Дадаць адмысловыя патокi па назве:
-
 perftools-devtools-interval-label = Інтэрвал:
 perftools-devtools-threads-label = Патокі:
 perftools-devtools-settings-label = Налады
@@ -97,14 +95,12 @@ perftools-thread-img-decoder =
     .title = Патокі дэкадавання відарысаў
 perftools-thread-dns-resolver =
     .title = У гэтым патоку адбываецца вызначэнне DNS
-
 perftools-thread-task-controller =
     .title = Патокi пула патокаў TaskController
 
 ##
 
 perftools-record-all-registered-threads = Iгнараваць абранае вышэй і запісваць усе зарэгістраваныя патокі
-
 perftools-tools-threads-input-label =
     .title = Гэтыя назвы патокаў уяўляюць сабой пералік, падзелены коскамі, які ўжываецца для ўключэння прафілявання патокаў у прафайлеры. Назва можа толькі часткова адпавядаць назве патоку для ўключэння. Прабелы ўлічваюцца.
 
@@ -113,9 +109,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Новае</b>: { -profiler-brand-name } цяпер інтэграваны ў Інструменты распрацоўшчыка. <a>Даведайцеся больш</a> пра гэты новы магутны інструмент.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (На працягу абмежаванага часу вы можаце атрымаць доступ да арыгінальнай панэлі Прадукцыйнасці праз <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Закрыць прывiтальнае паведамленне
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Вэб-распрацоўка
+perftools-presets-web-developer-description = Рэкамендаваныя папярэднія налады для адладкі большасці вэб-прыкладанняў, з невялікімі выдаткамі.
+perftools-presets-firefox-platform-label = Платформа Firefox
+perftools-presets-firefox-platform-description = Рэкамендаваныя папярэднія налады для ўнутранай адладкі платформы Firefox.
+perftools-presets-firefox-front-end-label = Кліенцкая частка Firefox
+perftools-presets-firefox-front-end-description = Рэкамендаваныя папярэднія налады для ўнутранай адладкі кліенцкай часткі Firefox.
+perftools-presets-firefox-graphics-label = Графіка Firefox
+perftools-presets-firefox-graphics-description = Рэкамендаваныя папярэднія налады для даследавання прадукцыйнасці графікі Firefox.
+perftools-presets-media-label = Медыя
+perftools-presets-media-description = Рэкамендаваныя папярэднія налады для дыягностыкі праблем з гукам і відэа.
+perftools-presets-custom-label = Адмысловыя
+
+##
+
