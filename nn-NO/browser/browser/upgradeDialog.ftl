@@ -67,9 +67,16 @@ upgrade-dialog-theme-system = Systemtema
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Livet i fargar
+upgrade-dialog-start-secondary-button = Ikkje no
 
 ## Colorway screen
 
+upgrade-dialog-colorway-default-theme = Standard
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Automatisk
+    .title = Følg temaet til operativsystemet for knappar, menyar og vindauge
 upgrade-dialog-theme-light = Lyst
     .title = Bruk eit lyst tema for knappar, menyar og vindauge
 upgrade-dialog-theme-dark = Mørkt
@@ -93,3 +100,6 @@ upgrade-dialog-colorway-variation-bold = Modig
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Takk for at du valde oss
+upgrade-dialog-thankyou-primary-button = Byrj surfinga
