@@ -76,6 +76,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Neniu spegulita langeto
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ŝaltu la dividon de langetoj por vidi liston de langetoj en viaj aliaj aparatoj.
+appmenu-remote-tabs-opensettings =
+    .label = Agordoj
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?
@@ -116,6 +118,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Rulanalizilo
     .tooltiptext = Registri efikecan profilon
+profiler-popup-button-recording =
+    .label = Rulanalizilo
+    .tooltiptext = La rulanalizilo registras profilon
+profiler-popup-button-capturing =
+    .label = Rulanalizilo
+    .tooltiptext = La rulanalizilo kaptas profilon
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
