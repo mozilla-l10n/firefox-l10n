@@ -20,6 +20,19 @@ about-unloads-intro-2 =
     калі яны змяшчаюць асноўны фрэйм карткі, і <em>курсівам</em>, калі працэс
     падзелены паміж рознымі карткамі. Можна ўручную запусціць разгрузку
     картак, націснуўшы кнопку <em>Разгрузіць</em> ніжэй.
+about-unloads-intro =
+    { -brand-short-name } мае функцыю аўтаматычнай разгрузкі картак,
+    каб пазбегнуць аварый праграмы з-за недастатковай памяці,
+    калі на камп'ютары застаецца мала даступнай памяці. Наступная картка
+    для разгрузкі выбіраецца на падставе мноства атрыбутаў. Гэта старонка
+    паказвае, як { -brand-short-name } прыярытэзуе карткі і якая картка
+    будзе разгружана пры спрацоўванні функцыі.  Вы можаце запусціць 
+    разгрузку картак уручную, націснуўшы кнопку <em>Разгрузіць</em> ніжэй.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Наведайце старонку <a data-l10n-name="doc-link">Разгрузка картак</a>, 
+    каб даведацца больш пра функцыю і гэту старонку.
 about-unloads-last-updated = Апошняе абнаўленне: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Разгрузіць
     .title = Разгрузка карткі з найвышэйшым прыярытэтам
