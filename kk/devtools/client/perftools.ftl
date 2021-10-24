@@ -119,6 +119,7 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Веб-әзірлеуші
 perftools-presets-firefox-platform-label = Firefox платформасы
 perftools-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
 perftools-presets-firefox-front-end-label = Firefox клиент бөлігі
