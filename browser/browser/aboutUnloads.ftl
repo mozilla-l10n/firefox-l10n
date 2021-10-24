@@ -32,7 +32,7 @@ about-unloads-intro =
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
-    Siehe<a data-l10n-name="doc-link">Tabs entladen</a>, um mehr über
+    Lesen Sie <a data-l10n-name="doc-link">Tabs entladen</a>, um mehr über
     diese Funktion und diese Seite zu erfahren.
 about-unloads-last-updated = Zuletzt aktualisiert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Entladen
