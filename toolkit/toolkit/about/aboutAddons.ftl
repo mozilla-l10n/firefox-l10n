@@ -252,7 +252,7 @@ install-theme-button = Theme installieren
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Verwalten
 find-more-addons = Mehr Add-ons ansehen
-find-more-themes = Weitere Themes suchen
+find-more-themes = Mehr Themes ansehen
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -283,7 +283,7 @@ extension-disabled-heading = Deaktiviert
 theme-enabled-heading = Aktiviert
 theme-disabled-heading = Deaktiviert
 theme-monochromatic-heading = Farbgebungen
-theme-monochromatic-subheading = Lebendige neue Farbgebungen von { -brand-product-name }. Verfügbar für eine begrenzte Zeit.
+theme-monochromatic-subheading = Lebendige, neue Farbgebungen von { -brand-product-name }. Verfügbar für eine begrenzte Zeit.
 plugin-enabled-heading = Aktiviert
 plugin-disabled-heading = Deaktiviert
 dictionary-enabled-heading = Aktiviert
