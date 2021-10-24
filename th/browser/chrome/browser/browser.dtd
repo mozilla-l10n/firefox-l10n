@@ -86,7 +86,7 @@ this container is a toolbar. This avoids double-speaking. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดค่ากำหนด Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดการตั้งค่า Sync">
 <!ENTITY appMenuRemoteTabs.welcome.label "ดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.unverified.label "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "เชื่อมต่ออุปกรณ์อื่น">
