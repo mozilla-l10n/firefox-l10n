@@ -157,6 +157,9 @@ mr2-onboarding-colorway-primary-button-label = Lagre fargesamansetjing
 mr2-onboarding-colorway-secondary-button-label = Ikkje no
 mr2-onboarding-colorway-label-soft = Mjuk
 mr2-onboarding-colorway-label-balanced = Balansert
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Modig
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Automatisk
 # This string will be used for Default theme
@@ -287,6 +290,11 @@ mr2-onboarding-colorway-description =
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Utforsk standardtema.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Utforsk standardtema.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Takk for at du valde oss
+mr2-onboarding-start-browsing-button-label = Byrj surfinga
