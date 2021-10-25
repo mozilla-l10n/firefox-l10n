@@ -19,9 +19,9 @@ psmerr-ssl-disabled = Não foi possível conectar com segurança porque o protoc
 psmerr-ssl2-disabled = Não foi possível conectar com segurança porque o site usa uma versão antiga e não segura do protocolo SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Você recebeu um certificado inválido. Contate o administrador do servidor e forneça as seguintes informações:
+    Você recebeu um certificado inválido. Entre em contato com o administrador do servidor e forneça as seguintes informações:
     
-    Seu certificado contém o mesmo número de série que o de outro certificado expedido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
+    Seu certificado contém o mesmo número de série que o de outro certificado emitido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
 ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto grau.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: não há algoritmo(s) de criptografia em comum.
