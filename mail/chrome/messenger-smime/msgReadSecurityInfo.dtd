@@ -11,7 +11,7 @@
 <!ENTITY signer.name "Assinado por:">
 <!ENTITY recipient.name "Criptografado por:">
 <!ENTITY email.address "Endereço de email:">
-<!ENTITY issuer.name "Certificado expedido por:">
+<!ENTITY issuer.name "Certificado emitido por:">
 
 <!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
 <!ENTITY SMIME.label "S/MIME">
