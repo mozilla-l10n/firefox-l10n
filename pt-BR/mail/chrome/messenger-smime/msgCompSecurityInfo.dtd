@@ -14,5 +14,5 @@
 <!ENTITY view.accesskey "x">
 <!ENTITY tree.recipient "Destinatário">
 <!ENTITY tree.status "Status">
-<!ENTITY tree.issuedDate "Expedido">
+<!ENTITY tree.issuedDate "Emitido">
 <!ENTITY tree.expiresDate "Validade">
