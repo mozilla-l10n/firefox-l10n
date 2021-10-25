@@ -111,4 +111,5 @@ upgrade-dialog-colorway-variation-bold = Drzna
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Hvala, ker ste nas izbrali
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } je neodvisen brskalnik, za katerim stoji neprofitna organizacija. Skupaj ustvarjamo splet varnejši, zasebnejši in bolj zdrav.
 upgrade-dialog-thankyou-primary-button = Začnite z brskanjem
