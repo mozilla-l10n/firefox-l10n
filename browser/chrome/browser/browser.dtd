@@ -59,7 +59,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY editMenu.label         "แก้ไข">
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
-<!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
+<!ENTITY preferencesCmdUnix.label       "การกำหนดลักษณะ">
 <!ENTITY logins.label                           "การเข้าสู่ระบบและรหัสผ่าน">
 
 <!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
@@ -86,7 +86,7 @@ this container is a toolbar. This avoids double-speaking. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดการตั้งค่า Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดการกำหนดลักษณะ Sync">
 <!ENTITY appMenuRemoteTabs.welcome.label "ดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.unverified.label "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "เชื่อมต่ออุปกรณ์อื่น">
@@ -126,7 +126,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "แก้ไขค่ากำหนดตัวปิดกั้นป๊อปอัป…">
+<!ENTITY editPopupSettingsUnix.label "แก้ไขการกำหนดลักษณะตัวปิดกั้นป๊อปอัป…">
 <!ENTITY editPopupSettings.label "แก้ไขตัวเลือกตัวปิดกั้นป๊อปอัป…">
 <!ENTITY editPopupSettings.accesskey "ก">
 <!ENTITY dontShowMessage.accesskey "ข">

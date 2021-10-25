@@ -31,8 +31,8 @@ about-private-browsing-learn-more-link = เรียนรู้เพิ่ม
 about-private-browsing-search-banner-title = { $engineName } เป็นเครื่องมือค้นหาเริ่มต้นของคุณในหน้าต่างส่วนตัว
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] หากต้องการเลือกเครื่องมือค้นหาอื่นให้ไปที่ <a data-l10n-name="link-options">ตัวเลือก</a>
-       *[other] หากต้องการเลือกเครื่องมือค้นหาอื่นให้ไปที่ <a data-l10n-name="link-options">ค่ากำหนด</a>
+        [windows] เพื่อเลือกเครื่องมือค้นหาอื่นให้ไปยัง <a data-l10n-name="link-options">ตัวเลือก</a>
+       *[other] เพื่อเลือกเครื่องมือค้นหาอื่นให้ไปยัง <a data-l10n-name="link-options">การกำหนดลักษณะ</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ปิด

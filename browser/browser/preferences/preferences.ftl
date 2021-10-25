@@ -889,7 +889,7 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = เครื่องมือค้นหา
     .accesskey = a
-addressbar-suggestions-settings = เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา
+addressbar-suggestions-settings = เปลี่ยนการกำหนดลักษณะสำหรับข้อเสนอแนะของเครื่องมือค้นหา
 
 ## Privacy Section - Content Blocking
 
