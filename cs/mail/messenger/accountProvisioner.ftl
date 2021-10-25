@@ -2,10 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-provisioner-tab-title = Založení nové e-mailové schránky
 provisioner-searching-icon =
     .alt = Vyhledávání…
 account-provisioner-title = Vytvořit novou e-mailovou adresu
+account-provisioner-description = Využijte služeb našich prověřených partnerů pro založení nové soukromé a bezpečné e-mailové adresy.
 account-provisioner-mail-account-title = Zakoupit novou e-mailovou adresu
+account-provisioner-mail-account-description = Thunderbird spojil síly se službou <a data-l10n-name="mailfence-home-link">Mailfence</a>, která vám nabízí založení nového bezpečného a soukromého e-mailu. Věříme, že všechny e-mailové schránky by měly být bezpečné.
+account-provisioner-domain-title = Kupte si vlastní e-mail a doménu
+account-provisioner-domain-description = Thunderbird spojil síly se službou <a data-l10n-name="gandi-home-link">Gandi</a>, která vám nabízí založení nového bezpečného a soukromého e-mailu. Věříme, že všechny e-mailové schránky by měly být bezpečné.
 
 ## Forms
 
@@ -20,13 +25,27 @@ account-provisioner-button-back = Zpátky
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Získávání seznamu poskytovatelů…
 account-provisioner-connection-issues = Komunikace se servery pro vytváření účtů se nezdařila. Zkontrolujte prosím své připojení.
+account-provisioner-searching-email = Hledání dostupných e-mailových účtů…
+account-provisioner-searching-domain = Hledání dostupných domén…
+account-provisioner-searching-error = Nepodařilo se najít žádné návrhy adres. Zkuste změnit hledané výrazy.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Vyberte si, který účet chcete vytvořit
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Nalezena jedna dostupná adresa pro:
+        [few] Nalezeny { $count } dostupné adresy pro:
+       *[other] Nalezeno { $count } dostupných adres pro:
+    }
 account-provisioner-mail-results-caption = Pro získání více adres zkuste hledat přezdívku nebo jiný výraz.
 account-provisioner-domain-results-caption = Pro získání více domén zkuste hledat přezdívku nebo jiný výraz.
 account-provision-price-per-year = { $price } ročně
