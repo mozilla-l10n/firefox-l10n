@@ -80,6 +80,17 @@ places-remove-folder =
            *[other] Forigi dosierujojn
         }
     .accesskey = F
+places-edit-folder2 =
+    .label = Modifi dosierujon…
+    .accesskey = M
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Forigi dosierujon
+            [one] Forigi dosierujon
+           *[other] Forigi dosierujojn
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrataj legosignoj
@@ -99,9 +110,27 @@ places-remove-bookmark =
            *[other] Forigi legosignojn
         }
     .accesskey = F
+places-show-in-folder =
+    .label = Montri en dosierujo
+    .accesskey = d
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Forigi legosignon
+            [one] Forigi legosignon
+           *[other] Forigi legosignojn
+        }
+    .accesskey = l
 places-manage-bookmarks =
     .label = Administri legosignojn
     .accesskey = l
+places-forget-about-this-site-confirmation-title = Forgesi tiun ĉi retejon
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Tiu ĉi ago forigos ĉiujn datumojn, kiuj estas rilatitaj kun { $hostOrBaseDomain }. Tio inkluzivas historion, pasvortojn, kuketojn, staplon kaj preferojn pri enhavo. Ĉu vi certe volas daŭrigi?
+places-forget-about-this-site-forget = Forgesi
 places-library =
     .title = Biblioteko
     .style = width:700px; height:500px;

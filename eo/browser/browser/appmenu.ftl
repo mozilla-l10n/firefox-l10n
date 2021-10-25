@@ -172,6 +172,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
+profiler-popup-presets-web-developer-label =
+    .label = Teksaĵa programisto
+profiler-popup-presets-firefox-platform-description = Rekomendita agordaro por interna senerarigo de la platformo de Firefox.
+profiler-popup-presets-firefox-platform-label =
+    .label = Platformo Firefox
+profiler-popup-presets-firefox-front-end-description = Rekomendita agordaro por interna senerarigo de la fasado de Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Fasado de Firefox
+profiler-popup-presets-firefox-graphics-description = Rekomendita agordaro por esplori la efikecon de la grafikoj de Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Grafikoj de Firefox
+profiler-popup-presets-media-description = Rekomendita agordaro por diagnozi aŭdajn kaj videajn problemojn.
+profiler-popup-presets-media-label =
+    .label = Aŭdvidaĵo
+profiler-popup-presets-custom-label =
+    .label = Personecigita
 
 ## History panel
 
