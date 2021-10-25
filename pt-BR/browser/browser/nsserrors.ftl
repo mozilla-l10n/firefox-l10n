@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocorreu um erro durante uma conexão com { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código do erro: { $error }
-
 psmerr-ssl-disabled = Não foi possível conectar com segurança porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não foi possível conectar com segurança porque o site usa uma versão antiga e não segura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Você recebeu um certificado inválido. Contate o administrador do servidor e forneça as seguintes informações:
     
     Seu certificado contém o mesmo número de série que o de outro certificado expedido pela autoridade certificadora. Providencie um novo certificado contendo um número de série único.
-
 ssl-error-export-only-server = Não foi possível comunicar com segurança. O sistema remoto não oferece suporte a criptografia de alto grau.
 ssl-error-us-only-server = Não foi possível comunicar com segurança. O sistema remoto necessita de criptografia de alto nível que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar com segurança com o sistema remoto: não há algoritmo(s) de criptografia em comum.
@@ -194,11 +190,11 @@ sec-error-cert-not-valid = Este certificado não é válido.
 sec-error-cert-no-response = Biblioteca de certificados: sem resposta
 sec-error-expired-issuer-certificate = O certificado da entidade certificadora expirou. Verifique a data e hora do seu sistema.
 sec-error-crl-expired = A CRL para emissores de certificados expirou. Atualize ou verifique a data e hora do seu sistema.
-sec-error-crl-bad-signature = A CRL para o expedidor do certificado possui uma assinatura inválida.
+sec-error-crl-bad-signature = A CRL do emissor do certificado tem uma assinatura inválida.
 sec-error-crl-invalid = A nova CRL possui um formato inválido.
 sec-error-extension-value-invalid = O valor da extensão de certificado é inválido.
 sec-error-extension-not-found = Extensão de certificado não encontrada.
-sec-error-ca-cert-invalid = O certificado do expedidor é inválido.
+sec-error-ca-cert-invalid = O certificado do emissor é inválido.
 sec-error-path-len-constraint-invalid = A restrição de comprimento do caminho do certificado é inválida.
 sec-error-cert-usages-invalid = O campo usos do certificado é inválido.
 sec-internal-only = **Módulo EXCLUSIVAMENTE interno**
@@ -300,18 +296,18 @@ sec-error-unsupported-message-type = O tipo de mensagem CMS ou PKCS #7 não é s
 sec-error-module-stuck = Módulo PKCS #11 não pode ser removido porque ainda está em uso.
 sec-error-bad-template = Não foi possível decodificar os dados ASN.1. O modelo especificado era inválido.
 sec-error-crl-not-found = Nenhuma CRL foi encontrada.
-sec-error-reused-issuer-and-serial = Você está tentando importar um cert com o mesmo expedidor/serial de um cert existente, mas que não é o mesmo cert.
+sec-error-reused-issuer-and-serial = Você está tentando importar um cert com o mesmo emissor/série de um cert existente, mas que não é o mesmo cert.
 sec-error-busy = O NSS não pôde ser desligado. Objetos ainda estão em uso.
 sec-error-extra-input = A mensagem codificada com DER continha dados não usados extras.
 sec-error-unsupported-elliptic-curve = Curva elíptica não suportada.
 sec-error-unsupported-ec-point-form = Forma do ponto da curva elíptica não suportada.
 sec-error-unrecognized-oid = Identificador de objeto não reconhecido.
 sec-error-ocsp-invalid-signing-cert = Certificado de assinatura OCSP inválido na resposta OCSP.
-sec-error-revoked-certificate-crl = O certificado está revogado na lista de certificados revogados do expedidor.
-sec-error-revoked-certificate-ocsp = O servidor OCSP do expedidor informa que o certificado está revogado.
-sec-error-crl-invalid-version = A Lista de Certificados Revogados do expedidor possui um número de versão desconhecido.
-sec-error-crl-v1-critical-extension = A Lista de Certificados Revogados V1 do expedidor possui uma extensão obrigatória.
-sec-error-crl-unknown-critical-extension = A Lista de Certificados Revogados V2 do expedidor possui uma extensão obrigatória desconhecida.
+sec-error-revoked-certificate-crl = O certificado está revogado na lista de certificados revogados do emissor.
+sec-error-revoked-certificate-ocsp = O servidor OCSP do emissor informa que o certificado está revogado.
+sec-error-crl-invalid-version = A Lista de Certificados Revogados do emissor tem um número de versão desconhecido.
+sec-error-crl-v1-critical-extension = A Lista de Certificados Revogados V1 do emissor tem uma extensão crítica.
+sec-error-crl-unknown-critical-extension = A Lista de Certificados Revogados V2 do emissor tem uma extensão crítica desconhecida.
 sec-error-unknown-object-type = Tipo de objeto desconhecido especificado.
 sec-error-incompatible-pkcs11 = O driver PKCS #11 viola a especificação de uma forma incompatível.
 sec-error-no-event = No new slot event is available at this time.
