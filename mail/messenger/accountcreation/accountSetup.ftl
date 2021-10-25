@@ -153,6 +153,7 @@ account-setup-credentials-incomplete = Overitev ni uspela. Ali so vnesene poveri
 account-setup-credentials-wrong = Overitev ni uspela. Preverite uporabniško ime in geslo
 account-setup-find-settings-failed = { -brand-short-name } ni uspel najti nastavitev za vaš e-poštni račun
 account-setup-exchange-config-unverifiable = Nastavitve ni bilo mogoče preveriti. Če sta uporabniško ime in geslo pravilni, je verjetno, da je skrbnik strežnika onemogočil izbrano nastavitev za vaš račun. Poskusite izbrati drug protokol.
+account-setup-provisioner-error = Pri nastavljanju vašega novega računa v { -brand-short-name(sklon: "mestnik") } je prišlo do napake. Poskusite ga nastaviti ročno s svojimi poverilnicami.
 
 ## Manual configuration area
 
