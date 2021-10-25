@@ -26,9 +26,11 @@ account-provisioner-button-back = Terug
 
 ## Notifications
 
+account-provisioner-fetching-provisioners = Aanbieders ophalen…
 account-provisioner-connection-issues = Kan niet met onze registratieservers communiceren. Controleer uw verbinding.
 account-provisioner-searching-email = Zoeken naar beschikbare e-mailaccounts...
 account-provisioner-searching-domain = Zoeken naar beschikbare domeinen…
+account-provisioner-searching-error = Kan geen adressen vinden om voor te stellen. Probeer de zoektermen te wijzigen.
 
 ## Illustrations
 
