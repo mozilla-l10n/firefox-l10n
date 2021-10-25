@@ -15,7 +15,7 @@ rights-intro-point-6 = เพื่อเล่นเนื้อหาวิด
 rights-webservices-header = บริการข้อมูลผ่านเว็บ { -brand-full-name }
 rights-webservices = { -brand-full-name } ใช้บริการข้อมูลผ่านเว็บ ("บริการ") ในการเสนอความสามารถให้กับคุณใน { -brand-short-name } รุ่นนี้ภายใต้ข้อตกลงที่อธิบายไว้ข้างล่าง ถ้าคุณไม่ต้องการใช้งานบริการเหล่านั้นหรือข้อตกลงข้างล่างนั้นไม่สามารถยอมรับได้ คุณอาจจะปิดการใช้งานความสามารถเหล่านั้น วิธีการปิดใช้งานความสามารถส่วนใดส่วนหนึ่งอาจจะพบได้ <a data-l10n-name="mozilla-disable-service-link">ที่นี่</a> คุณลักษณะและบริการอื่น ๆ สามารถปิดใช้งานได้ในค่ากำหนดแอปพลิเคชัน
 rights-safebrowsing = <strong>การเรียกดูแบบปลอดภัย: </strong>ไม่แนะนำให้ปิดใช้งานการเรียกดูแบบปลอดภัยเพราะอาจจะส่งผลให้คุณเข้าไปยังเว็บไซต์ที่ไม่ปลอดภัย ถ้าคุณต้องการปิดความสามารถนี้อย่างถาวร โปรแกรมทำตามขั้นตอนนี้:
-rights-safebrowsing-term-1 = เปิดการตั้งค่าแอปพลิเคชัน
+rights-safebrowsing-term-1 = เปิดการกำหนดลักษณะแอปพลิเคชัน
 rights-safebrowsing-term-2 = เลือก ความปลอดภัย
 rights-safebrowsing-term-3 = ยกเลิกการกาเครื่องหมายตัวเลือก "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = ปิดกั้นเนื้อหาที่เป็นอันตรายและหลอกลวง
@@ -23,7 +23,7 @@ rights-safebrowsing-term-4 = ปิดใช้งานการเรียก
 rights-locationawarebrowsing = <strong>การเรียกดูที่ผูกพันกับสถานที่: </strong>เป็นการใช้งานตามความสมัครใจเสมอ ข้อมูลที่เกี่ยวข้องกับสถานที่จะไม่ถูกส่งออกหากคุณไม่อนุญาต ถ้าคุณต้องการปิดใช้งาน โปรดทำตามขั้นตอนนี้:
 rights-locationawarebrowsing-term-1 = ในแถบ URL พิมพ์ <code>about:config</code>
 rights-locationawarebrowsing-term-2 = พิมพ์ geo.enabled
-rights-locationawarebrowsing-term-3 = คลิกสองครั้งที่ค่ากำหนด geo.enabled
+rights-locationawarebrowsing-term-3 = คลิกสองครั้งที่การกำหนดลักษณะ geo.enabled
 rights-locationawarebrowsing-term-4 = การเรียกดูที่ผูกพันกับสถานที่ถูกปิดใช้งานแล้ว
 rights-webservices-unbranded = ภาพรวมของบริการเว็บที่ได้รวมเข้าในผลิตภัณฑ์ รวมไปถึงวิธีใช้การยกเลิกใช้งานบริการเหล่านั้น ควรนำมารวมไว้ที่นี่
 rights-webservices-term-unbranded = ข้อกำหนดการของบริการใดๆ ที่เข้ากันควรจะแสดงไว้ที่นี่

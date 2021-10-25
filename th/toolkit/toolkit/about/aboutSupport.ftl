@@ -87,7 +87,7 @@ experimental-features-value = ค่า
 modified-key-prefs-title = ค่ากำหนดสำคัญที่ถูกเปลี่ยนแปลง
 modified-prefs-name = ชื่อ
 modified-prefs-value = ค่า
-user-js-title = ค่ากำหนด user.js
+user-js-title = การกำหนดลักษณะ user.js
 user-js-description = โฟลเดอร์โปรไฟล์ของคุณมี <a data-l10n-name="user-js-link">ไฟล์ user.js</a> ซึ่งมีค่ากำหนดที่ไม่ได้ถูกสร้างโดย { -brand-short-name }
 locked-key-prefs-title = ค่ากำหนดสำคัญที่ถูกล็อค
 locked-prefs-name = ชื่อ
@@ -165,7 +165,7 @@ intl-locales-supported = ภาษาของแอป
 intl-locales-default = ภาษาเริ่มต้น
 intl-os-title = ระบบปฏิบัติการ
 intl-os-prefs-system-locales = ภาษาของระบบ
-intl-regional-prefs = ค่ากำหนดภูมิภาค
+intl-regional-prefs = การกำหนดลักษณะภูมิภาค
 
 ## Remote Debugging
 ##

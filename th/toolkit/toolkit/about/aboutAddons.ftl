@@ -79,7 +79,7 @@ detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] ตัวเลือก
-           *[other] การตั้งค่า
+           *[other] การกำหนดลักษณะ
         }
     .accesskey =
         { PLATFORM() ->
@@ -89,7 +89,7 @@ detail-show-preferences =
     .tooltiptext =
         { PLATFORM() ->
             [windows] เปลี่ยนตัวเลือกของส่วนเสริมนี้
-           *[other] เปลี่ยนการตั้งค่าของส่วนเสริมนี้
+           *[other] เปลี่ยนการกำหนดลักษณะของส่วนเสริมนี้
         }
 detail-rating =
     .value = การจัดอันดับ
@@ -271,7 +271,7 @@ extension-enable-addon-button-label =
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ตัวเลือก
-       *[other] การตั้งค่า
+       *[other] การกำหนดลักษณะ
     }
 details-addon-button = รายละเอียด
 release-notes-addon-button = บันทึกประจำรุ่น
