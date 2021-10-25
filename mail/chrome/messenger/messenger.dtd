@@ -585,7 +585,7 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "ส">
 <!ENTITY editRemoteContentSettings.label "แก้ไขตัวเลือกเนื้อหาระยะไกล…">
 <!ENTITY editRemoteContentSettings.accesskey "ก">
-<!ENTITY editRemoteContentSettingsUnix.label "แก้ไขค่ากำหนดเนื้อหาระยะไกล…">
+<!ENTITY editRemoteContentSettingsUnix.label "แก้ไขการกำหนดลักษณะเนื้อหาระยะไกล…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "ก">
 
 <!-- Phishing Button Popup -->
@@ -593,7 +593,7 @@
 <!ENTITY phishingOptionIgnore.accesskey "พ">
 <!ENTITY phishingOptionSettings.label "แก้ไขตัวเลือกการตรวจหาการหลอกลวง…">
 <!ENTITY phishingOptionSettings.accesskey "แ">
-<!ENTITY phishingOptionSettingsUnix.label "แก้ไขค่ากำหนดการตรวจหาการหลอกลวง…">
+<!ENTITY phishingOptionSettingsUnix.label "แก้ไขการกำหนดลักษณะการตรวจหาการหลอกลวง…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "แ">
 
 <!-- AppMenu Popup -->
@@ -926,7 +926,7 @@
 <!ENTITY zoomWindow.label "ซูม">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "การตั้งค่า">
+<!ENTITY preferencesCmdMac2.label       "การกำหนดลักษณะ">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "บริการ">
