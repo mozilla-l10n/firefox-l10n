@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "ตัวช่วยนำเข้า">
 
 <!ENTITY importFromWin.label            "นำเข้าตัวเลือก การตั้งค่าบัญชี สมุดรายชื่อ ตัวกรองและข้อมูลอื่น ๆ จาก:">
-<!ENTITY importFromNonWin.label         "นำเข้าค่ากำหนด การตั้งค่าบัญชี สมุดรายชื่อ ตัวกรองและข้อมูลอื่น ๆ จาก:">
+<!ENTITY importFromNonWin.label         "นำเข้าการกำหนดลักษณะ, การตั้งค่าบัญชี, สมุดรายชื่อ, ตัวกรอง และข้อมูลอื่น ๆ จาก:">
 <!ENTITY importSourceNotFound.label     "ไม่พบแอปพลิเคชันที่จะนำเข้าข้อมูล">
 
 <!ENTITY importFromNothing.label        "ไม่นำเข้าสิ่งใด">
