@@ -730,6 +730,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne montri ĉiun ĉi mesaĝon kiam ŝprucfenestroj estas blokataj
     .accesskey = N
+edit-popup-settings =
+    .label = Administri agordojn de ŝprucaĵoj
+    .accesskey = A
 picture-in-picture-hide-toggle =
     .label = Kaŝi butonon de bildo en bildo
     .accesskey = K
@@ -773,3 +776,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listigi ĉiujn langetojn
     .tooltiptext = Listigi ĉiujn langetojn
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Ĉu malfermi antaŭajn langetojn?</strong> Vi povas restarigi vian antaŭan seancon el la menuo de la programo { -brand-short-name } <img data-l10n-name="icon"/>, Sub Historio.
+restore-session-startup-suggestion-button = Montri al mi kiel fari tion
