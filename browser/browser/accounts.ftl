@@ -5,7 +5,10 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Lõpeta konto seadistamine
-
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Konto ühendati lahti
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Kõikidesse seadmetesse
-
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Halda seadmeid…
