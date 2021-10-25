@@ -77,7 +77,7 @@ newtab-confirm-delete-history-p2 = Custa atzione no dda podes annullare.
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = Isponsorizadu
+newtab-topsite-sponsored = Patrotzinadu
 
 ## Context Menu - Action Tooltips.
 
@@ -112,17 +112,17 @@ newtab-menu-delete-history = Cantzella dae sa cronologia
 newtab-menu-save-to-pocket = Sarva in { -pocket-brand-name }
 newtab-menu-delete-pocket = Cantzella dae { -pocket-brand-name }
 newtab-menu-archive-pocket = Archìvia in { -pocket-brand-name }
-newtab-menu-show-privacy-info = Is isponsorizadores nostros e sa riservadesa tua
+newtab-menu-show-privacy-info = Is patrotzinadores nostros e sa riservadesa tua
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Fatu
-newtab-privacy-modal-button-manage = Amministra is cunfiguratziones pro is cuntenutos isponsorizados
+newtab-privacy-modal-button-manage = Amministra is cunfiguratziones pro is cuntenutos patrotzinados
 newtab-privacy-modal-header = Sa riservadesa tua est de importu.
 newtab-privacy-modal-paragraph-2 =
     Paris a su de t'ammustrare istòrias geniosas, t'ammustramus fintzas cuntenutos rilevantes e curados in manera primorosa,
-    dae is isponsorizadores nostros. Non ti preocupes, <strong>sa cronologia tua non lassat mai sa còpia personale tua de { -brand-product-name }</strong>: no dda bidimus, e no dda bident
-    nemmancu is isponsorizadores nostros.
+    dae is patrotzinadores nostros. Non ti preocupes, <strong>sa cronologia tua non lassat mai sa còpia personale tua de { -brand-product-name }</strong>: no dda bidimus, e no dda bident
+    nemmancu is patrotzinadores nostros.
 newtab-privacy-modal-link = Impara comente funtzionat sa riservadesa in s'ischeda noa
 
 ##
@@ -156,11 +156,11 @@ newtab-label-download = Iscarrigadu
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · Isponsorizadu
+newtab-label-sponsored = { $sponsorOrSource } · Patrotzinadu
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
-newtab-label-sponsored-by = Isponsorizadu dae { $sponsor }
+newtab-label-sponsored-by = Patrotzinadu dae { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -236,10 +236,10 @@ newtab-custom-row-selector =
         [one] { $num } riga
        *[other] { $num } rigas
     }
-newtab-custom-sponsored-sites = Curtzadòrgios isponsorizados
+newtab-custom-sponsored-sites = Curtzadòrgios patrotzinados
 newtab-custom-pocket-title = Cussigiadu dae { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cuntenutos de primore curados dae { -pocket-brand-name }, parte de sa famìlia de { -brand-product-name }
-newtab-custom-pocket-sponsored = Istòrias isponsorizadas
+newtab-custom-pocket-sponsored = Istòrias patrotzinadas
 newtab-custom-recent-title = Atividade reghente
 newtab-custom-recent-subtitle = Una seletzione de sitos e cuntenutos reghentes
 newtab-custom-close-button = Serra
