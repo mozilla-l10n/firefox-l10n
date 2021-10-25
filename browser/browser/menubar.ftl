@@ -12,7 +12,7 @@
 ## Application Menu (macOS only)
 
 menu-application-preferences =
-    .label = การตั้งค่า
+    .label = การกำหนดลักษณะ
 menu-application-services =
     .label = บริการ
 menu-application-hide-this =

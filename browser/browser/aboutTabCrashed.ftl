@@ -19,4 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = รวม URL ของไซต์ที่คุณกำลังเยี่ยมชมเมื่อ { -brand-short-name } ขัดข้อง
 crashed-report-sent = ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ { -brand-short-name } ให้ดีขึ้น!
 crashed-request-auto-submit-title = รายงานแท็บเบื้องหลัง
-crashed-auto-submit-checkbox-2 = อัปเดตค่ากำหนดเพื่อให้ส่งรายงานเมื่อ { -brand-short-name } ขัดข้องโดยอัตโนมัติ
+crashed-auto-submit-checkbox-2 = อัปเดตการกำหนดลักษณะเพื่อให้ส่งรายงานโดยอัตโนมัติเมื่อ { -brand-short-name } ขัดข้อง
