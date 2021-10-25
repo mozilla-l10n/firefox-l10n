@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-provisioner-tab-title = Een nieuw e-mailadres van een serviceprovider aanvragen
 provisioner-searching-icon =
     .alt = Zoeken…
 account-provisioner-title = Een nieuw e-mailadres aanmaken
+account-provisioner-description = Gebruik onze vertrouwde partners om een nieuw persoonlijk en veilig e-mailadres te verkrijgen.
+account-provisioner-start-help = De gebruikte zoektermen worden verzonden naar { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Privacybeleid</a>) en de externe e-mailproviders <strong>mailfence.com </strong> (<a data-l10n-name="mailfence-privacy-link">Privacybeleid</a>, <a data-l10n-name="mailfence-tou-link">Gebruiksvoorwaarden</a >) en <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Privacybeleid</a>, <a data-l10n-name="gandi-tou- link">Gebruiksvoorwaarden</a>) om beschikbare e-mailadressen te vinden.
+account-provisioner-mail-account-title = Een nieuw e-mailadres kopen
 
 ## Forms
 
