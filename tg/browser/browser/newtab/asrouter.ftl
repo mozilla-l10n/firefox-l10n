@@ -126,5 +126,7 @@ cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ куне
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Чунин менамояд, ки шумо Wi-Fi-и ҷамъиятиро истифода мебаред
+spotlight-public-wifi-vpn-primary-button = Бо { -mozilla-vpn-brand-name } махфӣ бошед
+    .accesskey = Б
 spotlight-public-wifi-vpn-link = Ҳоло не
     .accesskey = Ҳ

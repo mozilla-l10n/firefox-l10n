@@ -262,3 +262,4 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Ташаккур барои интихоби мо
+mr2-onboarding-start-browsing-button-label = Оғоз кардани тамошо

@@ -218,6 +218,19 @@ newtab-pocket-read-more = Мавзӯъҳои маъмул:
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Нигоҳ доштан ба «{ -pocket-brand-name }»
+newtab-pocket-saved-to-pocket = Ба «{ -pocket-brand-name }» нигоҳ дошта шуд
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Нишон додани ҳикоятҳои бештар
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Шумо ҳамаро хондед!
+newtab-pocket-last-card-desc = Барои маълумоти бештар дертар баргардед.
+newtab-pocket-last-card-image =
+    .alt = Шумо ҳамаро хондед
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
