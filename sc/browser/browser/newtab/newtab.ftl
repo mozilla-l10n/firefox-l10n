@@ -127,6 +127,10 @@ newtab-privacy-modal-link = Impara comente funtzionat sa riservadesa in s'isched
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Boga·nche su sinnalibru
+# Bookmark is a verb here.
+newtab-menu-bookmark = Agiunghe a is sinnalibros
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -144,12 +148,15 @@ newtab-menu-show-file =
         [macos] Ammustra in Finder
        *[other] Aberi sa cartella de destinatzione
     }
+newtab-menu-open-file = Aberi s'archìviu
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Bisitadu
+newtab-label-bookmarked = Agiuntu a sinnalibros
+newtab-label-removed-bookmark = Sinnalibru bogadu
 newtab-label-recommended = De tendèntzia
 newtab-label-saved = Sarvadu in { -pocket-brand-name }
 newtab-label-download = Iscarrigadu
@@ -199,18 +206,29 @@ newtab-section-header-pocket = Cussigiados dae { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Comente cumintzes a navigare, amus a ammustrare inoghe is mègius artìculos, vìdeos, e àteras pàginas chi as bisitadu o agiuntu a is sinnalibros de reghente.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = As giai bidu totu. Torra a chircare prus a tardu àteras istòrias dae { $provider }. Non bides s'ora? Seletziona unu faeddu populare pro agatare àteras istòrias bellas de sa rete.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = Controlla prus a tardu si ddoe at a èssere àteras istòrias.
 newtab-discovery-empty-section-topstories-try-again-button = Torra·bi a proare
 newtab-discovery-empty-section-topstories-loading = Carrighende...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ohi! Paret chi sa setzione non si siat carrigada de su totu.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Argumentos populares:
+newtab-pocket-new-topics-title = Boles ancora àteras istòrias? Càstia custos faeddos populares de { -pocket-brand-name }
+newtab-pocket-more-recommendations = Àteros cussìgios
 newtab-pocket-learn-more = Leghe àteru
 newtab-pocket-cta-button = Otene { -pocket-brand-name }
+newtab-pocket-cta-text = Sarva is istòrias tuas preferidas in { -pocket-brand-name }, e ispàssia·ti cun leturas incantadoras.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } est parte de sa famìlia de { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Sarva in { -pocket-brand-name }
@@ -221,10 +239,15 @@ newtab-pocket-load-more-stories-button = Càrriga àteras istòrias
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = As giai bidu totu!
+newtab-pocket-last-card-desc = Torra·nde a chircare prus a tardu.
+newtab-pocket-last-card-image =
+    .alt = As giai bidu totu
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ohi, ddoe est istada una faddina in su carrigamentu de custu cuntenutu.
 newtab-error-fallback-refresh-link = Agiorna sa pàgina pro torrare a proare.
 
 ## Customization Menu

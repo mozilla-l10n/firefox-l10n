@@ -60,6 +60,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza is sinnalibros tuos in ònnia logu.
+cfr-doorhanger-bookmark-fxa-body = Ite iscoberta! Immoe no abarres chena custu sinnalibru in is dispositivos tuos. Est tempus de impreare { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincroniza is sinnalibros immoe…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Butone Serra

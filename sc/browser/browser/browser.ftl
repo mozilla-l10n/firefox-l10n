@@ -445,6 +445,7 @@ urlbar-result-action-search-in-private = Chirca in una ventana privada
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Chirca cun { $engine }
+urlbar-result-action-sponsored = Patrotzinadu
 urlbar-result-action-switch-tab = Passa a s'ischeda
 urlbar-result-action-visit = Bìsita
 # Directs a user to press the Tab key to perform a search with the specified
@@ -453,6 +454,12 @@ urlbar-result-action-visit = Bìsita
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-before-tabtosearch-web = Incarca Tab pro chircare cun { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Incarca Tab pro chircare { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -694,15 +701,43 @@ edit-popup-settings =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigatzione
 navbar-downloads =
     .label = Iscarrigamentos
 navbar-overflow =
     .tooltiptext = Àteros istrumentos...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = Imprenta
+    .tooltiptext = Imprenta custa pàgina… ({ $shortcut })
 navbar-print-tab-modal-disabled =
     .label = Imprenta
     .tooltiptext = Imprenta custa pàgina
+navbar-home =
+    .label = Pàgina printzipale
+    .tooltiptext = Pàgina printzipale de { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Visualiza cronologia, sinnalibros sarvados e àteru
+navbar-search =
+    .title = Chirca
+navbar-accessibility-indicator =
+    .tooltiptext = Caraterìsticas de atzessibilidade ativadas
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = Ischedas de su navigadore
 tabs-toolbar-new-tab =
     .label = Ischeda noa
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Boles abèrrere is ischedas pretzedentes?</strong> Podes recuperare sa sessione pretzedente dae su menù de is aplicatziones { -brand-short-name } <img data-l10n-name="icon"/>, in sa cronologia.
+restore-session-startup-suggestion-button = Ammustra·mi comente
