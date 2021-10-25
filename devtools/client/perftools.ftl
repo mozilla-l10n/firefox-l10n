@@ -35,9 +35,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Grando de bufro:
-
 perftools-custom-threads-label = Aldoni personecigitajn fadenojn, lay nomo:
-
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Fadenoj:
 perftools-devtools-settings-label = Agordoj
@@ -94,7 +92,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignori la suprajn eblojn kaj registri ĉiujn registritajn fadenojn
-
 perftools-tools-threads-input-label =
     .title = Tiuj ĉi nomoj de fadenoj estas listo apartigita per komoj, kiu estas uzita por aktivigi la rulanalizon de la fadenoj en la rulanalizilo. La nomo bezonas nur parte kongrui kun la nomo de la fadeno, por esti inkluzivita. Ĝi ne ignoras blankspacojn.
 
@@ -103,9 +100,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nova</b>: { -profiler-brand-name } estas integrita al la iloj por programistoj. Jen <a>pli da informo</a> pri tiu pova nova ilo.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Dum iom da tempo, vi povas ankoraŭ aliri la originalan efikecan panelon ĉi tie <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Fermi la enkondukan mesaĝon
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Teksaĵa programisto
+perftools-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
+perftools-presets-firefox-platform-label = Platformo Firefox
+perftools-presets-firefox-platform-description = Rekomendita agordaro por interna senerarigo de la platformo de Firefox.
+perftools-presets-firefox-front-end-label = Fasado de Firefox
+perftools-presets-firefox-front-end-description = Rekomendita agordaro por interna senerarigo de la fasado de Firefox.
+perftools-presets-firefox-graphics-label = Grafikoj de Firefox
+perftools-presets-firefox-graphics-description = Rekomendita agordaro por esplori la efikecon de la grafikoj de Firefox.
+perftools-presets-media-label = Aŭdvidaĵo
+perftools-presets-media-description = Rekomendita agordaro por diagnozi aŭdajn kaj videajn problemojn.
+perftools-presets-custom-label = Personecigita
+
+##
+
