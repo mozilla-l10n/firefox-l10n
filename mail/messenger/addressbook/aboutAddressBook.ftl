@@ -130,3 +130,5 @@ about-addressbook-details-phone-numbers-header = Telefon numaraları
 about-addressbook-details-home-address-header = Ev adresi
 about-addressbook-details-work-address-header = İş adresi
 about-addressbook-details-other-info-header = Diğer bilgiler
+about-addressbook-prompt-to-save-title = Değişiklikler kaydedilsin mi?
+about-addressbook-prompt-to-save = Değişikliklerinizi kaydetmek istiyor musunuz?
