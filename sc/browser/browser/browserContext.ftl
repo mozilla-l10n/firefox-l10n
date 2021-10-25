@@ -86,6 +86,10 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = Agiunghe custa pàgina a is sinnalibros
+    .accesskey = s
+    .tooltiptext = Agiunghe custa pàgina a is sinnalibros
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
@@ -98,6 +102,12 @@ main-context-menu-bookmark-add-mac =
 main-context-menu-bookmark-edit-mac =
     .label = Modìfica su sinnalibru
     .accesskey = M
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Agiunghe custa pàgina a is sinnalibros
+    .accesskey = s
+    .tooltiptext = Agiunghe custa pàgina a is sinnalibros ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Modìfica custu sinnalibru
     .accesskey = m
@@ -301,3 +311,17 @@ main-context-menu-take-screenshot =
 main-context-menu-view-page-source =
     .label = Visualiza su còdighe de sa pàgina
     .accesskey = V
+main-context-menu-bidi-switch-text =
+    .label = Cuncàmbia sa diretzione de su testu
+    .accesskey = C
+main-context-menu-bidi-switch-page =
+    .label = Cuncàmbia sa diretzione de su testu
+    .accesskey = C
+main-context-menu-eme-learn-more =
+    .label = Leghe àteru subra de DRM…
+    .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Aberi su ligòngiu in un'ischeda noa de { $containerName }
+    .accesskey = A
