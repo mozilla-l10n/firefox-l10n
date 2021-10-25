@@ -257,6 +257,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Cua custu plugin
     .accesskey = C
+main-context-menu-save-to-pocket =
+    .label = Sarva sa pàgina in { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Imbia pàgina a su dispositivu
     .accesskey = d
@@ -265,12 +268,36 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Imprea is credentziales sarvadas
+    .accesskey = I
+main-context-menu-use-saved-password =
+    .label = Imprea una crae sarvada
+    .accesskey = I
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Cussìgia una crae segura...
+    .accesskey = s
+main-context-menu-manage-logins2 =
+    .label = Gesti is credentziales
+    .accesskey = G
+main-context-menu-keyword =
+    .label = Agiunghe unu faeddu crae pro custa chirca...
+    .accesskey = f
 main-context-menu-link-send-to-device =
     .label = Imbia su ligòngiu a su dispositivu
     .accesskey = d
+main-context-menu-print-selection =
+    .label = Imprenta sa seletzione
+    .accesskey = r
+main-context-menu-view-selection-source =
+    .label = Visualiza su còdighe de sa seletzione
+    .accesskey = V
+main-context-menu-take-screenshot =
+    .label = Faghe una catura de ischermu
+    .accesskey = F
 main-context-menu-view-page-source =
     .label = Visualiza su còdighe de sa pàgina
     .accesskey = V
