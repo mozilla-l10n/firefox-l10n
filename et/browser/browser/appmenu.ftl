@@ -22,12 +22,36 @@ appmenuitem-history =
     .label = Ajalugu
 appmenuitem-downloads =
     .label = Allalaadimised
+appmenuitem-passwords =
+    .label = Paroolid
+appmenuitem-addons-and-themes =
+    .label = Lisad ja teemad
 appmenuitem-print =
     .label = Prindi…
+appmenuitem-find-in-page =
+    .label = Otsi lehelt…
 appmenuitem-zoom =
     .value = Suurendamine
+appmenuitem-more-tools =
+    .label = Rohkem tööriistu
 appmenuitem-help =
     .label = Abi
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Välju
+           *[other] Välju
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Ava rakenduse menüü
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Sulge rakenduse menüü
+    .label = { -brand-short-name }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Sätted
 
 ## Zoom and Fullscreen Controls
 
@@ -40,10 +64,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Sünkroniseerimiseks logi sisse…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Lülita sünkroniseerimine sisse…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Kuva rohkem kaarte
+    .tooltiptext = Kuva rohkem kaarte sellest seadmest
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Avatud kaarte pole
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Teistes seadmetes avatud kaartide nägemiseks lülita sisse kaartide sünkroniseerimine.
+appmenu-remote-tabs-opensettings =
+    .label = Sätted
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Soovid näha teistes seadmetes avatud kaarte?
@@ -51,7 +85,19 @@ appmenu-remote-tabs-connectdevice =
     .label = Ühenda teine seade
 appmenu-remote-tabs-welcome = Vaata teistes seadmetes avatud kaartide nimekirja.
 appmenu-remote-tabs-unverified = Sinu konto vajab kinnitamist.
+appmenuitem-fxa-toolbar-sync-now2 = Sünkroniseeri kohe
 appmenuitem-fxa-sign-in = Logi { -brand-product-name }i sisse
+appmenuitem-fxa-manage-account = Halda kontot
+appmenu-fxa-header2 = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Viimati sünkroniseeritud { $time }
+    .label = Viimati sünkroniseeritud { $time }
+appmenu-fxa-sync-and-save-data2 = Sünkroniseeri ja salvesta andmed
+appmenu-fxa-signed-in-label = Logi sisse
+appmenu-fxa-setup-sync =
+    .label = Lülita sünkroniseerimine sisse…
 appmenuitem-save-page =
     .label = Salvesta veebileht kui…
 

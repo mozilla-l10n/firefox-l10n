@@ -40,6 +40,7 @@ appmenu-update-other-instance-message = { -brand-shorter-name }ile on saadaval u
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Sobib
     .buttonaccesskey = S
+appmenu-addon-post-install-message3 = Halda lisasid ja teemasid rakenduse menüü kaudu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sellel laiendusel lubatakse käivituda privaatsetes akendes
     .accesskey = S
