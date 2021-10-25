@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -8,12 +9,15 @@
   -  In en-US it looks like this:
   -    This page is in [detected language] Translate this page?
   -  "detected language" here is a language name coming from the
-  -  global/languageNames.properties file; for some locales it may not be in
+  -  toolkit/intl/languageNames.ftl file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
-<!ENTITY translation.translate.button           "Borta">
+<!ENTITY translation.thisPageIsIn.label         "Custa pàgina est in">
+<!ENTITY translation.translateThisPage.label    "Boles tradùere custa pàgina?">
+<!ENTITY translation.translate.button           "Tradue">
 <!ENTITY translation.notNow.button              "No como">
+
+<!ENTITY translation.translatingContent.label   "Traduende su cuntenutu de sa pàgina…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -23,19 +27,22 @@
   -  In en-US it looks like this:
   -    This page has been translated from [from language] to [to language]
   -  "from language" and "to language" here are language names coming from the
-  -  global/languageNames.properties file; for some locales they may not be in
+  -  toolkit/intl/languageNames.ftl file; for some locales they may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence.
   -
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
+<!ENTITY translation.translatedFrom.label       "Pàgina tradùida dae">
+<!ENTITY translation.translatedTo.label         "a su">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Ammustra s'originale">
+<!ENTITY translation.showTranslation.button     "Ammustra sa tradutzione">
 
-
-
+<!ENTITY translation.errorTranslating.label     "Faddina in sa tradutzione de custa pàgina.">
+<!ENTITY translation.tryAgain.button            "Torra·bi a proare">
 
 <!ENTITY translation.serviceUnavailable.label   "Translation is not available at the moment. Torra·bi a proare a pustis.">
 
@@ -45,14 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
-<!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
-                        translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  translation.options.attribution.poweredByYandex is displayed instead of
-  -  the other two strings when yandex translation engine is preferred by the
-  -  user.
-  -->
-
+<!ENTITY translation.options.neverForSite.label "Non traduas mai custu situ">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Preferèntzias de sa tradutzione">
+<!ENTITY translation.options.preferences.accesskey "T">

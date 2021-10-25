@@ -252,7 +252,7 @@ newtab-error-fallback-refresh-link = Agiorna sa pàgina pro torrare a proare.
 
 ## Customization Menu
 
-newtab-custom-shortcuts-title = Curtzadòrgiu
+newtab-custom-shortcuts-title = Curtzadòrgios
 newtab-custom-shortcuts-subtitle = Sitos chi as sarvadu o bisitadu
 newtab-custom-row-selector =
     { $num ->
