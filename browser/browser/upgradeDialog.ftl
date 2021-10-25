@@ -66,6 +66,32 @@ upgrade-dialog-theme-system = Sistema etoso
     .title =
         Uzi la etoson de la mastruma sistemo
         por butonoj, menuoj kaj fenestroj
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Multkolora vivo
+upgrade-dialog-start-subtitle = Novaj, vibraj koloraroj. Disponeblaj dum limigita tempo.
+upgrade-dialog-start-primary-button = Esplori kolorarojn
+upgrade-dialog-start-secondary-button = Ne nun
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Elektu vian koloraron
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Ŝanĝi al la eka paĝo de Firefox kun la fono de via etoso
+upgrade-dialog-colorway-primary-button = Konservi koloraron
+upgrade-dialog-colorway-secondary-button = Gardi antaŭan etoson
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Esplori normajn etosojn
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Esplori kolorarojn { $colorwayName }
+upgrade-dialog-colorway-default-theme = Norma
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Aŭtomata
+    .title = Sekvi la etoson de la mastruma sistemo por butonoj, menuoj kaj fenestroj
 upgrade-dialog-theme-light = Hela
     .title = Uzi helan aspekton por butonoj, menuoj kaj fenestroj
 upgrade-dialog-theme-dark = Malhela
@@ -76,3 +102,18 @@ upgrade-dialog-theme-keep = Gardi antaŭan
     .title = Uzi la etoson kiun vi havis instalita antaŭ la ĝisdatigo de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Konservi etoson
 upgrade-dialog-theme-secondary-button = Ne nun
+upgrade-dialog-colorway-variation-soft = Dolĉa
+    .title = Uzi tiun ĉi koloraron
+upgrade-dialog-colorway-variation-balanced = Ekvilibra
+    .title = Uzi tiun ĉi koloraron
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Kuraĝa
+    .title = Uzi tiun ĉi koloraron
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Dankon pro tio ke vi nin elektis
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } estas sendependa retumilo subtenata de neprofitcela organizo. Kune, ni igas la reton pli sekura, pli sana kaj pli privata.
+upgrade-dialog-thankyou-primary-button = Komenci retumi
