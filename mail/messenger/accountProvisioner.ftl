@@ -6,7 +6,9 @@ account-provisioner-tab-title = Απόκτηση νέας διεύθυνσης e
 provisioner-searching-icon =
     .alt = Αναζήτηση…
 account-provisioner-title = Δημιουργία νέας διεύθυνσης email
+account-provisioner-description = Χρησιμοποιήστε τους έμπιστους συνεργάτες μας για να αποκτήσετε μια νέα, ιδιωτική και ασφαλή διεύθυνση email.
 account-provisioner-mail-account-title = Αγορά νέας διεύθυνσης email
+account-provisioner-domain-title = Αγοράστε ένα email και έναν δικό σας τομέα
 account-provisioner-domain-description = Το Thunderbird συνεργάστηκε με το <a data-l10n-name="gandi-home-link">Gandi</a> για να σας προσφέρει έναν προσαρμοσμένο τομέα. Αυτό σας επιτρέπει να χρησιμοποιήσετε οποιαδήποτε διεύθυνση στον τομέα αυτό.
 
 ## Forms
@@ -26,6 +28,7 @@ account-provisioner-fetching-provisioners = Ανάκτηση παρόχων…
 account-provisioner-connection-issues = Δεν ήταν δυνατή η επικοινωνία με τους διακομιστές εγγραφής μας. Παρακαλούμε ελέγξτε τη σύνδεσή σας.
 account-provisioner-searching-email = Αναζήτηση διαθέσιμων λογαριασμών email…
 account-provisioner-searching-domain = Αναζήτηση διαθέσιμων τομεών…
+account-provisioner-searching-error = Δεν ήταν δυνατή η εύρεση διευθύνσεων. Δοκιμάστε να αλλάξετε τους όρους αναζήτησης.
 
 ## Illustrations
 
@@ -41,6 +44,8 @@ account-provisioner-results-title =
         [one] Βρέθηκε μία διαθέσιμη διεύθυνση για:
        *[other] Βρέθηκαν { $count } διαθέσιμες διευθύνσεις για:
     }
+account-provisioner-mail-results-caption = Μπορείτε να αναζητήσετε ψευδώνυμα ή άλλους όρους για να βρείτε περισσότερα email.
+account-provisioner-domain-results-caption = Μπορείτε να αναζητήσετε ψευδώνυμα ή άλλους όρους για να βρείτε περισσότερους τομείς.
 account-provisioner-free-account = Δωρεάν
 account-provision-price-per-year = { $price } ανά έτος
 account-provisioner-all-results-button = Εμφάνιση όλων των αποτελεσμάτων
