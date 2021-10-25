@@ -68,7 +68,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
-<!ENTITY performanceUI.options.gear.tooltiptext "กำหนดค่าค่ากำหนดประสิทธิภาพ">
+<!ENTITY performanceUI.options.gear.tooltiptext "กำหนดค่าการกำหนดลักษณะประสิทธิภาพ">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
