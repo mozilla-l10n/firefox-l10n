@@ -279,3 +279,4 @@ mr2-onboarding-default-theme-description =
 
 mr2-onboarding-thank-you-header = Dankon pro tio ke vi nin elektis
 mr2-onboarding-thank-you-text = { -brand-short-name } estas sendependa retumilo subtenata de neprofitcela organizo. Kune, ni igas la reton pli sekura, pli sana kaj pli privata.
+mr2-onboarding-start-browsing-button-label = Komenci retumi
