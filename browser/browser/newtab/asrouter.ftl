@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Rekomendata trajto
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
-
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
-
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Pli da informo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendo
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } uzantoj
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Spegulu viajn legosignojn ĉie.
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
-
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
-
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -126,25 +93,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
     .accesskey = V
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Fermi
     .accesskey = F
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -164,18 +114,6 @@ cfr-doorhanger-fission-primary-button = En ordo, mi komprenis
 cfr-doorhanger-fission-secondary-button = Pli da informo
     .accesskey = P
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Filmetoj en tiu ĉi retejo povus ne bone videbli en tiu ĉi versio de { -brand-short-name }. Por havi tutampleksan videan subtenon, ĝisdatigu { -brand-short-name } nun.
@@ -189,3 +127,9 @@ cfr-doorhanger-video-support-primary-button = Ĝisdatigi nun
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Vi ŝajnas uzi publikan sendratan reton
+spotlight-public-wifi-vpn-body = Por kaŝi vian lokon kaj retumon, konsideru uzi virtualan privatan reton (VPN). Ĝi helpos vin resti protektita dum retumo en publikaj ejoj kiel flughavenoj kaj kafejoj.
+spotlight-public-wifi-vpn-primary-button = Protektu vian privatecon per { -mozilla-vpn-brand-name }
+    .accesskey = P
+spotlight-public-wifi-vpn-link = Ne nun
+    .accesskey = N

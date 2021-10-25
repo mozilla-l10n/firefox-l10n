@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = Malŝargado de langetoj
+about-unloads-intro-1 = { -brand-short-name } havas funktion kiu aŭtomate malŝargas langetojn por eviti paneojn pro manko da memoro. La venonta malŝargita langeto estas elektita surbaze de pluraj  atributoj. Tiuj ĉi paĝo montras kiel { -brand-short-name } indicas langetojn kaj kiu langeto estos malŝargita kiam la malŝargado de langetoj aktiviĝos.
 about-unloads-button-unload = Malŝargi
     .title = Malŝargi langeton kun la plej alta prioritato
 about-unloads-column-priority = Prioritato

@@ -237,7 +237,10 @@ newtab-pocket-load-more-stories-button = Ŝargi pli da artikoloj
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Vi ĉion vidis!
+newtab-pocket-last-card-title = Estas nenio alia.
+newtab-pocket-last-card-desc = Kontrolu poste por pli da artikoloj.
+newtab-pocket-last-card-image =
+    .alt = Estas nenio alia.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
