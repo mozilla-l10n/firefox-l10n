@@ -9,13 +9,16 @@
 <!ENTITY autoHide.accesskey2 "l">
 <!ENTITY background.label "Prepnúť na nové karty otvorené z odkazov">
 <!ENTITY background.accesskey "e">
+<!ENTITY diverted.label "Prepnúť na nové karty otvorené z presmerovaných odkazov">
+<!ENTITY diverted.accesskey "m">
+<!ENTITY browserFocus.label "Prepnúť okno prehliadača na odkazy otvorené na kartách z iných aplikácií">
+<!ENTITY browserFocus.accesskey "c">
 <!ENTITY warnOnClose.label "Upozorniť pri zatváraní viacerých kariet">
 <!ENTITY warnOnClose.accesskey "U">
 <!ENTITY relatedAfterCurrent.label "Príbuzné karty otvárať za aktuálnou kartou">
 <!ENTITY relatedAfterCurrent.accesskey "b">
 
 <!ENTITY openTabs.label "Otvoriť karty namiesto okien po">
-
 <!ENTITY middleClick.label "Prostredné tlačidlo, Ctrl+kliknutie alebo Ctrl+Enter na odkaze webovej stránke">
 <!ENTITY middleClick.accesskey "P">
 <!ENTITY middleClickMac.label "Prostredné tlačidlo, &#8984;+kliknutie alebo &#8984;+Return na odkaze webovej stránke">
