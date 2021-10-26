@@ -8,6 +8,7 @@ about-networking-sockets = 套接字
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = 清除 DNS 缓存
 about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = DoH 模式
 about-networking-dns-suffix = DNS 后缀
 about-networking-websockets = WebSocket
 about-networking-refresh = 刷新
