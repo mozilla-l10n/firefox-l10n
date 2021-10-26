@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Avaa Finderissa
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Näytä Finderissa
+           *[other] Näytä kansiossa
+        }
+    .accesskey = N
 downloads-cmd-use-system-default =
     .label = Avaa järjestelmän katseluohjelmassa
     .accesskey = v
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Avaa aina järjestelmän katseluohjelmassa
     .accesskey = t
@@ -64,6 +73,24 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Avaa Finderissa
            *[other] Avaa tallennuskansio
+        }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Näytä Finderissa
+           *[other] Näytä kansiossa
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Näytä Finderissa
+           *[other] Näytä kansiossa
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Näytä Finderissa
+           *[other] Näytä kansiossa
         }
 downloads-cmd-show-downloads =
     .label = Näytä latauskansio
