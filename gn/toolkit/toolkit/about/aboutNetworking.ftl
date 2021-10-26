@@ -8,6 +8,7 @@ about-networking-sockets = Moingeha
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Embogue DNS kache
 about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = DoH Ayvu
 about-networking-dns-suffix = Ñe’ẽpehẽ upeigua DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Mbopiro’y
