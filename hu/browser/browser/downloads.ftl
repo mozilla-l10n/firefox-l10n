@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Megjelenítés a Finderben
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Megjelenítés mappában
+           *[other] Megjelenítés mappában
+        }
+    .accesskey = m
 downloads-cmd-use-system-default =
     .label = Megnyitás a rendszer megjelenítőjében
     .accesskey = j
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Megnyitás mindig a rendszer megjelenítőjében
     .accesskey = m
@@ -64,6 +73,24 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Megjelenítés a Finderben
            *[other] Tartalmazó mappa megnyitása
+        }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Megjelenítés mappában
+           *[other] Megjelenítés mappában
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Megjelenítés mappában
+           *[other] Megjelenítés mappában
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Megjelenítés mappában
+           *[other] Megjelenítés mappában
         }
 downloads-cmd-show-downloads =
     .label = Letöltési mappa megjelenítése
@@ -162,3 +189,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nincs letöltés ebben a munkamenetben.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } további fájl letöltése folyamatban van
+       *[other] { $count } további fájl letöltése folyamatban van
+    }
