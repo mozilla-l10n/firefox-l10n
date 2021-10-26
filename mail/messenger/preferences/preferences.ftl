@@ -711,7 +711,7 @@ search-results-empty-message =
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 =
     { PLATFORM() ->
-        [windows] Sorry! There are no results in Options for “<span data-l10n-name="query"></span>”.
+        [windows] Não há resultados de “<span data-l10n-name="query"></span>” nas opções.
        *[other] Não há resultados de “<span data-l10n-name="query"></span>” nas configurações.
     }
 search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">suporte do { -brand-short-name }</a>
