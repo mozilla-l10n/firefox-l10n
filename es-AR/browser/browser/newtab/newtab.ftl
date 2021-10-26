@@ -240,7 +240,7 @@ newtab-pocket-load-more-stories-button = Cargar más historias
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = ¡Está atrapado!
+newtab-pocket-last-card-title = ¡Está al día!
 newtab-pocket-last-card-desc = Revise más tarde para ver si hay historias nuevas.
 newtab-pocket-last-card-image =
     .alt = ¡Está atrapado!
