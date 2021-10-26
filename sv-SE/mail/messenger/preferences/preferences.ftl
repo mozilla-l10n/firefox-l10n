@@ -126,6 +126,7 @@ remove-search-engine =
     .label = Ta bort
     .accesskey = T
 add-opensearch-provider-title = Lägg till OpenSearch-leverantör
+add-opensearch-provider-text = Ange URL-adressen till OpenSearch-leverantören som du vill lägga till. Använd antingen den direkta URL-adressen till OpenSearch-beskrivningsfilen eller en URL där den kan upptäckas automatiskt.
 adding-opensearch-provider-failed-title = Det gick inte att lägga till OpenSearch-leverantör
 adding-opensearch-provider-failed-text = Det gick inte att lägga till OpenSearch-leverantör för { $url }.
 minimize-to-tray-label =
@@ -147,6 +148,7 @@ app-icon-options =
     .label = Alternativ för programsymbol…
     .accesskey = n
 notification-settings = Varningar och standardljud kan stängas av aviseringsfältet i Systeminställningar.
+notification-settings2 = Varningar och standardljud kan stängas av i aviseringsfältet i systeminställningar.
 animated-alert-label =
     .label = Visa en meddelanderuta
     .accesskey = V
@@ -710,5 +712,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Tyvärr! Det finns inga resultat i Inställningar för "<span data-l10n-name="query"></span>".
        *[other] Tyvärr! Det finns inga resultat i Inställningar för "<span data-l10n-name="query"></span>".
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Förlåt! Det finns inga resultat i inställningar för "<span data-l10n-name="query"></span>".
+       *[other] Förlåt! Det finns inga resultat i inställningar för "<span data-l10n-name="query"></span>".
     }
 search-results-help-link = Behöver du hjälp? <a data-l10n-name="url">{ -brand-short-name } supporten</a>

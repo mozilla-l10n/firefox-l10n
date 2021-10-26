@@ -18,6 +18,15 @@ rights-intro-point-5-unbranded = Om den här produkten innehåller integrerade w
 rights-intro-point-6 = För att spela upp vissa typer av videoinnehåll, { -brand-short-name }hämtar innehåll från vissa dekrypteringsmoduler från tredje part.
 rights-webservices-header = { -brand-full-name } webbaserade informationstjänster
 rights-webservices = { -brand-full-name } använder webbaserade informationstjänster (”Tjänster”) för vissa funktioner i den här binära versionen av { -brand-short-name }. Villkoren för dessa beskrivs nedan. Om du inte vill använda en eller flera av dessa Tjänster eller om nedanstående villkor är oacceptabla, kan du inaktivera funktionen eller tjänsten. Instruktioner om hur du inaktiverar en särskild funktion eller tjänst finns <a data-l10n-name="mozilla-disable-service-link">här</a>. Andra funktioner och tjänster kan inaktiveras i programinställningarna.
+rights-webservices2 =
+    { -brand-full-name } använder webbaserade informationstjänster ("Services") för att
+    tillhandahålla några av de funktioner som tillhandahålls för din användning med
+    denna binära version av { -brand-short-name } enligt villkoren som beskrivs nedan.
+    Om du inte vill använda en eller flera av tjänsterna eller om villkoren nedan är
+    oacceptabla, kan du inaktivera funktionen eller tjänsterna. Instruktioner om hur du
+    inaktiverar en viss funktion eller tjänst kan hittas
+    <a data-l10n-name="mozilla-disable-service-link">här</a>. Andra funktioner och
+    tjänster kan inaktiveras i programinställningarna.
 rights-locationawarebrowsing = <strong>Positionsberoende surfning: </strong>kräver alltid ditt medgivande.  Ingen positionsinformation skickas utan ditt tillstånd.  Om du helt vill inaktivera funktionen, följ dessa steg:
 rights-locationawarebrowsing-term-1 = I Adressfältet, skriv in <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Skriv geo.enabled
