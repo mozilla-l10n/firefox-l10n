@@ -78,11 +78,13 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Datoteko …
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
+    .label = Nastavitve
+appmenu-save-as-file =
+    .label = Datoteko …
+appmenu-settings =
     .label = Nastavitve
 appmenu-addons-and-themes =
     .label = Dodatki in teme
