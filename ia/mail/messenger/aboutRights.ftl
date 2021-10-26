@@ -14,6 +14,15 @@ rights-intro-point-5-unbranded = Si iste producto incorpora servicios web, qualc
 rights-intro-point-6 = A fin de poter leger alcun typos de contento de video, { -brand-short-name } discarga certe modulos de decryptation de contento ab tertios.
 rights-webservices-header = { -brand-full-name } Servicios de information basate sur web
 rights-webservices = { -brand-full-name } usa servicios de informationes web ("Servicios") pro fornir certe functiones fornite pro tu uso con iste version binari de { -brand-short-name } sub le terminos describite a basso. Si tu non vole usar le un o le altere Servicio(s) o le terminos a basso es inacceptabile, tu pote disactivar le functiones o le Servicio(s). Instructiones sur como disactivar un function o Servicio particular pote esser trovate <a data-l10n-name="mozilla-disable-service-link">hic</a>. Altere functiones e Servicios pote esser disactivate in le preferentias del application.
+rights-webservices2 =
+    { -brand-full-name } usa servicios de informationes web ("Servicios") pro
+    fornir alcun del functiones pro tu uso con iste version binari
+    de { -brand-short-name } sub le terminos describite a basso. Si tu non
+    vole usar le un o le altere Servicio(s) o le terminos a basso es
+    inacceptabile, tu pote disactivar le function o le Servicio(s). Instructiones sur
+    como disactivar un function o Servicio particular pote esser trovate
+    <a data-l10n-name="mozilla-disable-service-link">hic</a>. Altere functiones
+    e Servicios pote esser disactivate in le preferentias del application.
 rights-locationawarebrowsing = <strong>Navigation geolocalisate: </strong>es sempre optional. Nulle information sur tu position se invia jammais sin tu permission. Si tu desira disactivar le function completemente, seque iste passos:
 rights-locationawarebrowsing-term-1 = In barra del URL, insere <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Insere geo.enabled
