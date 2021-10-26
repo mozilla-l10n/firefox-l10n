@@ -41,6 +41,7 @@ openpgp-enc-invalid-label = Powěsć njeda so dešifrować
 openpgp-enc-invalid = Tuta powěsć bu zaklučowana, prjedy hač bu k wam pósłana, ale njeda so dešifrować.
 openpgp-enc-clueless = Su njeznate problemy z tutej zaklučowanej powěsću.
 openpgp-enc-valid-label = Powěsć je zaklučowana
+openpgp-enc-valid = Tuta powěsć je so zaklučowała, prjedy hač je so wam pósłała. Zaklučowanje zawěsćuje, zo powěsć hodźi so jenož wot přijimarjow čitać, za kotrychž je myslena.
 openpgp-unknown-key-id = Njeznaty kluč
 openpgp-other-enc-additional-key-ids = Nimo toho je so powěsć za wobsedźerjow slědowacych klučow zaklučowała:
 openpgp-other-enc-all-key-ids = Powěsć je so za wobsedźerjow slědowacych klučow zaklučowała:
