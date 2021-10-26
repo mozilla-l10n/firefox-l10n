@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Afficher dans le Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Afficher dans le dossier
+        }
+    .accesskey = A
 downloads-cmd-use-system-default =
     .label = Ouvrir avec la visionneuse du système
     .accesskey = v
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Toujours ouvrir avec la visionneuse du système
     .accesskey = T
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Afficher dans le Finder
            *[other] Ouvrir le dossier contenant le fichier
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Toujours ouvrir les fichiers similaires
+    .accesskey = T
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Afficher dans le dossier
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Afficher dans le dossier
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Afficher dans le dossier
         }
 downloads-cmd-show-downloads =
     .label = Afficher le dossier des téléchargements
@@ -162,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Aucun téléchargement pour cette session.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } téléchargement de fichier supplémentaire
+       *[other] { $count } téléchargements de fichiers supplémentaires
+    }
