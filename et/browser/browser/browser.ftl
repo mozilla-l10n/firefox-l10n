@@ -389,12 +389,20 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Blokitakse alati
     .accesskey = a
+popup-mute-notifications-checkbox = Jagamise ajal saidi teavitused vaigistatakse
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Jagad tervet { -brand-short-name }i. Teised inimesed näevad, kui vahetad uuele kaardile.
+sharing-warning-screen = Jagad kogu oma ekraani. Teised inimesed näevad, kui vahetad uuele kaardile.
+sharing-warning-proceed-to-tab =
+    .label = Liigu kaardile
+sharing-warning-disable-for-session =
+    .label = Jagamise kaitse selleks seansiks keelatakse
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = To use the F12 shortcut, first open DevTools via the Web Developer menu.
 
 ## URL Bar
 
@@ -402,6 +410,34 @@ popup-screen-sharing-always-block =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Otsi või sisesta aadress
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Otsi veebist
+    .aria-label = Otsi otsingumootoriga { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Sisesta otsitav fraas
+    .aria-label = Otsi otsingumootoriga { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Sisesta otsitav fraas
+    .aria-label = Otsi järjehoidjatest
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Sisesta otsitav fraas
+    .aria-label = Otsi ajaloost
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Sisesta otsitav fraas
+    .aria-label = Otsi kaartide seast
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
