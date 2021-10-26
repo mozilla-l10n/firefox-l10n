@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Inställningar
     .accesskey = n
+menu-tools-settings =
+    .label = Inställningar
+    .accesskey = n
 menu-addons-and-themes =
     .label = Tillägg och teman
     .accesskey = T
