@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = W programje Finder pokazać
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] W Finder pokazać
+           *[other] W rjadowaku pokazać
+        }
+    .accesskey = d
 downloads-cmd-use-system-default =
     .label = W systemowym wobhladowaku wočinić
     .accesskey = h
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Přeco w systemowym wobhladowaku wočinić
     .accesskey = P
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] W programje Finder pokazać
            *[other] Wobsahowacy rjadowak wočinić
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Přeco podobne dataje wočinić
+    .accesskey = P
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] W Finder pokazać
+           *[other] W rjadowaku pokazać
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] W Finder pokazać
+           *[other] W rjadowaku pokazać
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] W Finder pokazać
+           *[other] W rjadowaku pokazać
         }
 downloads-cmd-show-downloads =
     .label = Rjadowak sćehnjenjow pokazać
@@ -162,3 +194,14 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Žane sćehnjenja za tute posedźenje.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } dalša dataja so sćahuje
+        [two] { $count } dalšej dataji so sćahujetej
+        [few] { $count } dalša dataje so sćahuja
+       *[other] { $count } dalšich datajow so sćahuje
+    }
