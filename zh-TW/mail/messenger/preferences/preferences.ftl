@@ -126,6 +126,7 @@ remove-search-engine =
     .label = 移除
     .accesskey = v
 add-opensearch-provider-title = 新增 OpenSearch 搜尋引擎
+add-opensearch-provider-text = 請輸入要新增的 OpenSearch 搜尋引擎網址。可使用 OpenSearch 描述檔的網址，或是該引擎的自動探索網址。
 adding-opensearch-provider-failed-title = OpenSearch 搜尋引擎新增失敗
 adding-opensearch-provider-failed-text = 無法新增 { $url } 的 OpenSearch 搜尋引擎。
 minimize-to-tray-label =
