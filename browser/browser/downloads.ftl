@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Finder에서 보기
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Finder에서 보기
+           *[other] 폴더에서 보기
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = 시스템 뷰어에서 열기
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = 항상 시스템 뷰어에서 열기
     .accesskey = w
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Finder에서 보기
            *[other] 상위 폴더 열기
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = 항상 유사한 파일 열기
+    .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Finder에서 보기
+           *[other] 폴더에서 보기
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Finder에서 보기
+           *[other] 폴더에서 보기
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Finder에서 보기
+           *[other] 폴더에서 보기
         }
 downloads-cmd-show-downloads =
     .label = 다운로드 폴더 보기
@@ -162,3 +194,11 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = 이 세션에 다운로드 항목이 없습니다.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+       *[other] 파일 { $count }개 더 다운로드 중
+    }
