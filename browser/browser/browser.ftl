@@ -161,7 +161,7 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-manage-extension =
-    .label = Správa rozšírenia…
+    .label = Spravovať rozšírenie…
 page-action-remove-extension =
     .label = Odstrániť rozšírenie
 
