@@ -126,6 +126,7 @@ remove-search-engine =
     .label = Wotstronić
     .accesskey = t
 add-opensearch-provider-title = Poskićowarja OpenSearch přidać
+add-opensearch-provider-text = Zapodajće URL poskićowarja OpenSearch, kotryž so ma přidać. Wužiwajće pak direktny URL wopisanskeje dataje OpenSearch pak URL, hdźež hodźi so awtomatisce namakać.
 adding-opensearch-provider-failed-title = Přidawanje  poskićowarja OpenSearch njeje so poradźiło
 adding-opensearch-provider-failed-text = Njeje móžno było, poskićowarja OpenSearch za { $url } přidać.
 minimize-to-tray-label =
