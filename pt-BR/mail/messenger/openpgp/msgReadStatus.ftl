@@ -19,6 +19,7 @@ openpgp-view-your-encryption-key =
     .label = Ver sua chave de descriptografia
 openpgp-openpgp = OpenPGP
 openpgp-no-sig = Sem assinatura digital
+openpgp-no-sig-info = Esta mensagem não tem assinatura digital do remetente. A ausência de uma assinatura digital significa que a mensagem pode ter sido enviada por alguém fingindo ter esse endereço de email. É também possível que a mensagem tenha sido interceptada e alterada durante a transmissão pela rede.
 openpgp-uncertain-sig = Assinatura digital duvidosa
 openpgp-invalid-sig = Assinatura digital inválida
 openpgp-good-sig = Boa assinatura digital
