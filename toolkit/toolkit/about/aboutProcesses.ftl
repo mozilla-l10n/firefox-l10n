@@ -134,6 +134,13 @@ about-processes-cpu-user-and-kernel-not-ready = (måling)
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = inaktiv
     .title = Total prosessortid: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = Total CPU-tid: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: process or thread is currently idle.
+about-processes-cpu-fully-idle = inaktiv
+    .title = Total CPU-tid: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
