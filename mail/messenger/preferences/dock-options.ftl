@@ -21,3 +21,4 @@ count-new-messages-radio =
     .label = Počet nových správ
     .accesskey = P
 notification-settings-info = Notifikácie na ikone aplikácie môžete zrušiť v nastaveniach systému na paneli Notifikácie.
+notification-settings-info2 = Notifikácie na ikone aplikácie môžete zrušiť v nastaveniach systému na paneli Notifikácie.

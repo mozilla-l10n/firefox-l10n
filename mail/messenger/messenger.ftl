@@ -77,11 +77,13 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Súbor…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
+    .label = Nastavenia
+appmenu-save-as-file =
+    .label = Súbor…
+appmenu-settings =
     .label = Nastavenia
 appmenu-addons-and-themes =
     .label = Doplnky a témy

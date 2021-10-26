@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Nastavenia
     .accesskey = t
+menu-tools-settings =
+    .label = Nastavenia
+    .accesskey = t
 menu-addons-and-themes =
     .label = Doplnky a témy
     .accesskey = D
