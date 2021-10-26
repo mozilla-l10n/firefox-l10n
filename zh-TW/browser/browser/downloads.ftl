@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = 在 Finder 中顯示
     .accesskey = f
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] 於 Finder 顯示
+           *[other] 於資料夾顯示
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = 用系統檢視器開啟
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = 永遠使用系統檢視器開啟
     .accesskey = w
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] 在 Finder 中顯示
            *[other] 開啟所在資料夾
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = 總是開啟類似檔案
+    .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] 於 Finder 顯示
+           *[other] 於資料夾顯示
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] 於 Finder 顯示
+           *[other] 於資料夾顯示
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] 於 Finder 顯示
+           *[other] 於資料夾顯示
         }
 downloads-cmd-show-downloads =
     .label = 顯示下載資料夾
@@ -162,3 +194,11 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = 此次瀏覽階段沒有下載項目。
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+       *[other] 還在下載 { $count } 個檔案
+    }
