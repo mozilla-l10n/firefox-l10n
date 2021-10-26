@@ -7,8 +7,11 @@ provisioner-searching-icon =
     .alt = Pyta so…
 account-provisioner-title = Nowu e-mejlowu adresu wutworić
 account-provisioner-description = Wužiwajće našich dowěryhódnych partnerow, zo byšće nowu priwatnu a wěstu e-mejlowu adresu dóstał.
+account-provisioner-start-help = Pytanske wurazy, kotrež su so wužili, so na { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">prawidła priwatnosće</a>) a třećich e-mejlowych poskićowarjow <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">prawidła priwatnosće</a>, <a data-l10n-name="mailfence-tou-link">wužiwanske wuměnjenja</a>) a <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">prawidła priwatnosće</a>, <a data-l10n-name="gandi-tou-link">wužiwanske wuměnjenja</a>) sćelu, zo bychu so k dispoziciji stejace e-mejlowe adresy namakali.
 account-provisioner-mail-account-title = Nowu e-mejlowu adresu kupić
+account-provisioner-mail-account-description = Thunderbird ma partnerstwo z <a data-l10n-name="mailfence-home-link">Mailfence</a>, zo by wam nowu priwatnu a wěstu e-mejlowu adresu poskićił. Myslimy sej, zo kóždy měł wěstu e-mejlowu adresu měć.
 account-provisioner-domain-title = Swójsku e-mejlowu adresu a domenu kupić
+account-provisioner-domain-description = Thunderbird ma partnerstwo z <a data-l10n-name="gandi-home-link">Gandi</a>, zo by wam swójsku domenu poskićił. To wam zmóžnja, někajkužkuli adresu na tutej domenje wužiwać.
 
 ## Forms
 
