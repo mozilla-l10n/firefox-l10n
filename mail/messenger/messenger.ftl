@@ -78,11 +78,13 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Dataja…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
+    .label = Nastajenja
+appmenu-save-as-file =
+    .label = Dataja…
+appmenu-settings =
     .label = Nastajenja
 appmenu-addons-and-themes =
     .label = Dodanki a drastwy
