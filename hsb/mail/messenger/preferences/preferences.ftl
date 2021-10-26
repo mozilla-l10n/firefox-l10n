@@ -706,7 +706,7 @@ search-preferences-input =
 # Do not translate.
 search-preferences-input2 =
     .style = width: 15.4em
-    .placeholder = W nastajenjach namakać
+    .placeholder = W nastajenjach pytać
 
 ## Settings UI Search Results
 
