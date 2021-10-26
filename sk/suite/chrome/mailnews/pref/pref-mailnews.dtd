@@ -8,8 +8,17 @@
 <!ENTITY confirmMove.accesskey            "Z">
 <!ENTITY preserveThreading.label          "Pri usporiadaní správ zachovať vlákna">
 <!ENTITY preserveThreading.accesskey      "u">
+<!ENTITY mailAutoHide.label               "Skryť panel s kartami pošty, keď je otvorená iba jedna karta">
+<!ENTITY mailAutoHide.accesskey           "b">
 <!ENTITY loadInBackground.label           "Pri otvorení prepnúť na novú kartu">
 <!ENTITY loadInBackground.accesskey       "t">
+<!ENTITY mailOpenTabsFor.label            "Otvoriť karty namiesto okien po">
+<!ENTITY mailMiddleClick.label            "kliknutí stredným tlačidlom myši alebo Ctrl+Enter na správe alebo priečinku">
+<!ENTITY mailMiddleClick.accesskey        "k">
+<!ENTITY mailMiddleClickMac.label         "kliknutí stredným tlačidlom myši alebo &#8984;+Return na správe alebo priečinku">
+<!ENTITY mailMiddleClickMac.accesskey     "k">
+<!ENTITY mailDoubleClick.label            "dvojitom kliknutí na správu">
+<!ENTITY mailDoubleClick.accesskey        "d">
 <!ENTITY mailBiffOnNewWindow.label        "Novú poštu kontrolovať až po otvorení okna Pošta a diskusné skupiny">
 <!ENTITY mailBiffOnNewWindow.accesskey    "N">
 
