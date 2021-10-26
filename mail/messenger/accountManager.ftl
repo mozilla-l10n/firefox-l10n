@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Préférences de { -brand-short-name }
+open-preferences-sidebar-button2 = Paramètres de { -brand-short-name }
 open-addons-sidebar-button = Modules complémentaires et thèmes
 account-action-add-newsgroup-account =
     .label = Ajouter un compte de groupes de discussion
