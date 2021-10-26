@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Clauder
 preferences-doc-title = Preferentias
+preferences-doc-title2 = Parametros
 category-list =
     .aria-label = Categorias
 pane-general-title = General
@@ -118,9 +119,13 @@ default-search-engine = Motor de recerca predefinite
 add-search-engine =
     .label = Adder per file
     .accesskey = A
+add-web-search-engine =
+    .label = Adder…
+    .accesskey = A
 remove-search-engine =
     .label = Remover
     .accesskey = v
+add-opensearch-provider-title = Adder fornitor OpenSearch
 minimize-to-tray-label =
     .label = Quando { -brand-short-name } es minimisate, mover lo al zona del avisos
     .accesskey = m
@@ -144,6 +149,7 @@ app-icon-options =
     .label = Optiones del icone del app…
     .accesskey = n
 notification-settings = Le alertas e le sono predefinite pote esser disactivate in le pannello de notification in le preferentias del systema.
+notification-settings2 = Le alertas e le sono predefinite pote esser disactivate in le pannello de notification in le parametros del systema.
 animated-alert-label =
     .label = Monstrar un alerta
     .accesskey = M
@@ -317,6 +323,8 @@ type-column-label =
 action-column-label =
     .label = Action
     .accesskey = A
+type-column-header = Typo de contento
+action-column-header = Action
 save-to-label =
     .label = Salvar le files in
     .accesskey = S
@@ -685,11 +693,31 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Trovar in parametros
+
+## Settings UI Search Results
+
 search-results-header = Resultatos del recerca
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
         [windows] Pardono! Il ha nulle resultatos in le optiones pro “<span data-l10n-name="query"></span>”.
        *[other] Pardono! Il ha nulle resultatos in le preferentias pro “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Desolate! Il ha nulle resultato in le Optiones pro “<span data-l10n-name="query"></span>”.
+       *[other] Desolate! Il ha nulle resultato in le Parametros pro “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Require adjuta? Visita <a data-l10n-name="url">Assistentia de { -brand-short-name }</a>
