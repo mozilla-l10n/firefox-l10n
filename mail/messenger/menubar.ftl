@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = 偏好設定
     .accesskey = P
+menu-tools-settings =
+    .label = 設定
+    .accesskey = e
 menu-addons-and-themes =
     .label = 附加元件與佈景主題
     .accesskey = A

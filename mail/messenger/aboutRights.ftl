@@ -14,6 +14,7 @@ rights-intro-point-5-unbranded = 若此產品包含任何網站資訊服務，�
 rights-intro-point-6 = { -brand-short-name } 需要下載某些第三方內容解碼程式才能播放某些格式的視訊內容。
 rights-webservices-header = 以網頁為基礎的 { -brand-full-name } 資訊服務
 rights-webservices = { -brand-full-name } 依照下列方式使用以網頁為基礎的資訊（以下簡稱「服務」）以在此二進位版本的 { -brand-short-name } 提供某些功能。如果您不想使用當中一或多個服務或不願意接受以下的服務條款，您可以停用這些功能或服務。停用某種特定功能或服務的方式可以在<a data-l10n-name="mozilla-disable-service-link">這裡</a>找到，其它功能與服務可在應用程式偏好設定中停用。
+rights-webservices2 = { -brand-full-name } 依照下列方式使用以網頁為基礎的資訊（以下簡稱「服務」）以在此二進位版本的 { -brand-short-name } 提供某些功能。如果您不想使用當中一或多個服務或不願意接受以下的服務條款，您可以停用這些功能或服務。停用某種特定功能或服務的方式可以在<a data-l10n-name="mozilla-disable-service-link">這裡</a>找到，其它功能與服務可在應用程式設定中停用。
 rights-locationawarebrowsing = <strong>位置感知瀏覽: </strong>是永遠可選的，在您同意前不會送出任何資訊。如果您想要完全停用這些功能，請依照以下步驟:
 rights-locationawarebrowsing-term-1 = 在網址列輸入 <code>about:config</code>
 rights-locationawarebrowsing-term-2 = 輸入 geo.enabled
