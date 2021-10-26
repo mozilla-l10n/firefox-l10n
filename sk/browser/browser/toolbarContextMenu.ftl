@@ -30,7 +30,7 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = b
 toolbar-context-menu-manage-extension =
-    .label = Správa rozšírenia
+    .label = Spravovať rozšírenie
     .accesskey = S
 toolbar-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
@@ -41,9 +41,9 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
     .accesskey = r
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pripnúť do rozširujúcej ponuky
     .accesskey = P
