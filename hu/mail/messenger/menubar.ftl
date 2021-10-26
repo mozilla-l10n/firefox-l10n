@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Beállítások
     .accesskey = B
+menu-tools-settings =
+    .label = Beállítások
+    .accesskey = B
 menu-addons-and-themes =
     .label = Kiegészítők és témák
     .accesskey = K

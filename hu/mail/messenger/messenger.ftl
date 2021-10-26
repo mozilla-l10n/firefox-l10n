@@ -76,11 +76,13 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Fájl…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
+    .label = Beállítások
+appmenu-save-as-file =
+    .label = Fájl…
+appmenu-settings =
     .label = Beállítások
 appmenu-addons-and-themes =
     .label = Kiegészítők és témák
