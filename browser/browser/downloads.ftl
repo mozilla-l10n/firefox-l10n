@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Mostrar no Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Mostrar no Finder
+           *[other] Mostrar na pasta
+        }
+    .accesskey = M
 downloads-cmd-use-system-default =
     .label = Abrir no visor do sistema
     .accesskey = v
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Sempre abrir no visor do sistema
     .accesskey = m
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Mostrar no Finder
            *[other] Abrir pasta
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Sempre abrir arquivos semelhantes
+    .accesskey = S
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostrar no Finder
+           *[other] Mostrar na pasta
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mostrar no Finder
+           *[other] Mostrar na pasta
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Mostrar no Finder
+           *[other] Mostrar na pasta
         }
 downloads-cmd-show-downloads =
     .label = Mostrar pasta de downloads
@@ -162,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nenhum download nessa sessão.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Mais { $count } arquivo sendo baixado
+       *[other] Mais { $count } arquivos sendo baixados
+    }
