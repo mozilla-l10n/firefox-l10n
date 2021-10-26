@@ -76,11 +76,13 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Arkiv…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
+    .label = Inställningar
+appmenu-save-as-file =
+    .label = Arkiv…
+appmenu-settings =
     .label = Inställningar
 appmenu-addons-and-themes =
     .label = Tillägg och teman
