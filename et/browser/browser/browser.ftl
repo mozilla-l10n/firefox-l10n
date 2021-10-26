@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Halda pluginate kasutust
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Halda kaamera ja/või mikrofoni jagamist saidiga
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Halda teiste kõlarite jagamist selle saidiga
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Ava automaatse esitamise paneel
 urlbar-persistent-storage-notification-anchor =
@@ -192,6 +196,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Lisa “{ $engineName }”
+    .tooltiptext = Lisa otsingumootor “{ $engineName }”
+    .aria-label = Lisa otsingumootor “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -213,6 +225,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Lisa järjehoidjatesse
+bookmarks-edit-bookmark = Muuda järjehoidjat
 bookmark-panel-cancel =
     .label = Loobu
     .accesskey = L
@@ -228,6 +242,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Lisamisel kuvatakse seda dialoogi
     .accesskey = d
+bookmark-panel-save-button =
+    .label = Salvesta
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -245,6 +261,7 @@ identity-header-security-with-host =
     .title = Saidi { $host } ühenduse turvalisus
 identity-connection-not-secure = Ebaturvaline ühendus
 identity-connection-secure = Turvaline ühendus
+identity-connection-failure = Ühenduse viga
 identity-connection-internal = See on turvaline { -brand-short-name }i leht.
 identity-connection-file = See leht on loodud arvutisse salvestatud faili põhjal.
 identity-extension-page = Selle lehe sisu pärineb laienduselt.
@@ -262,6 +279,12 @@ identity-https-only-dropdown-off =
     .label = väljas
 identity-https-only-dropdown-off-temporarily =
     .label = ajutiselt väljas
+identity-https-only-info-turn-on2 = Kui soovid, et { -brand-short-name } eelistaks võimalusel turvalist ühendust, siis lülita selle saidi puhul sisse HTTPS-režiim.
+identity-https-only-info-turn-off2 = Kui leht tundub olevat katki, siis võid proovida selle saidi puhul HTTPS-režiimi välja lülitada, et laadida sisu ebaturvalise HTTP kaudu.
+identity-https-only-info-no-upgrade = Ühenduse turvaliseks muutmine ebaõnnestus.
+identity-permissions-storage-access-header = Saidiülesed küpsised
+identity-permissions-storage-access-hint = Need osapooled võivad sinu sellel saidil viibimise ajal kasutada saidiüleseid küpsiseid ja saidiandmeid.
+identity-permissions-storage-access-learn-more = Rohkem teavet
 identity-permissions-reload-hint = Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.
 identity-clear-site-data =
     .label = Kustuta küpsised ja saidi andmed…
@@ -297,23 +320,75 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimeeri
+browser-window-maximize-button =
+    .tooltiptext = Maksimeeri
+browser-window-restore-down-button =
+    .tooltiptext = Taasta alla
 browser-window-close-button =
     .tooltiptext = Sulge
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ESITAMINE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = VAIGISTATUD
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMAATNE ESITAMINE BLOKITUD
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PILT-PILDIS
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] VAIGISTA KAART
+        [one] VAIGISTA KAART
+       *[other] VAIGISTA { $count } KAARTI
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] LÕPETA KAARDI VAIGISTAMINE
+        [one] LÕPETA KAARDI VAIGISTAMINE
+       *[other] LÕPETA { $count } KAARDI VAIGISTAMINE
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ESITA KAARDI SISU
+        [one] ESITA KAARDI SISU
+       *[other] ESITA { $count } KAARDI SISU
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Impordi järjehoidjad…
+    .tooltiptext = Impordi järjehoidjad teisest brauserist { -brand-short-name }i.
+bookmarks-toolbar-empty-message = Kiiremaks ligipääsuks paiguta oma järjehoidjad siia järjehoidjate ribale. <a data-l10n-name="manage-bookmarks">Halda järjehoidjaid…</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Kaamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kaamera
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Kõlarid
 popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
+popup-screen-sharing-block =
+    .label = Bloki
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Blokitakse alati
+    .accesskey = a
 
 ## WebRTC window or screen share tab switch warning
 
@@ -554,3 +629,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Näita kõigi kaartide nimekirja
     .tooltiptext = Näita kõigi kaartide nimekirja
+
+## Infobar shown at startup to suggest session-restore
+
