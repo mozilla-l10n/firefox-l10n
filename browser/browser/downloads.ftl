@@ -44,6 +44,8 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Адкрыць у сістэмным праглядальніку
     .accesskey = м
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Заўжды адкрываць у сістэмным праглядальніку
     .accesskey = ц
@@ -64,6 +66,24 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Паказаць у шукальніку
            *[other] Адкрыць змяшчальную папку
+        }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Паказаць у Finder
+           *[other] Паказаць у папцы
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Паказаць у Finder
+           *[other] Паказаць у папцы
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Паказаць у Finder
+           *[other] Паказаць у папцы
         }
 downloads-cmd-show-downloads =
     .label = Паказаць папку сцягванняў
