@@ -84,3 +84,9 @@ fonts-minsize-none =
 fonts-allow-own =
     .label = Permite chi is pàginas sèberent is tipografias issoro, imbetzes de sa seletzione tua anteriore
     .accesskey = P
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = { $name } (predefinida)
+fonts-label-default-unnamed =
+    .label = Predefinida
