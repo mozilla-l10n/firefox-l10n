@@ -108,6 +108,9 @@ places-remove-bookmark =
            *[other] הסרת סימניות
         }
     .accesskey = ס
+places-show-in-folder =
+    .label = הצגה בתיקייה
+    .accesskey = ה
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
