@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Ehechauka Finder-pe
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Ehechauka Finder-pe
+           *[other] Ehechauka marandurendápe
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Embojuruja apopyvusu rechahápe
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Embojuruja tapia apopyvusu rechahápe
     .accesskey = w
