@@ -41,6 +41,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Паказаць у шукальніку
     .accesskey = ш
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Паказаць у Finder
+           *[other] Паказаць у папцы
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Адкрыць у сістэмным праглядальніку
     .accesskey = м
@@ -67,6 +74,11 @@ downloads-cmd-show-description =
             [macos] Паказаць у шукальніку
            *[other] Адкрыць змяшчальную папку
         }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Заўсёды адкрываць падобныя файлы
+    .accesskey = З
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
