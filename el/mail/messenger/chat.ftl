@@ -19,3 +19,6 @@ chat-verify-identity =
     .accesskey = Ε
 chat-identity-verified =
     .label = Η ταυτότητα έχει ήδη επαληθευτεί
+chat-buddy-identity-status = Αξιοπιστία κρυπτογράφησης
+chat-buddy-identity-status-verified = Επαληθευμένη
+chat-buddy-identity-status-unverified = Μη επαληθευμένη
