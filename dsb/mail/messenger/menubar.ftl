@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Nastajenja
     .accesskey = N
+menu-tools-settings =
+    .label = Nastajenja
+    .accesskey = N
 menu-addons-and-themes =
     .label = Dodanki a drastwy
     .accesskey = D
