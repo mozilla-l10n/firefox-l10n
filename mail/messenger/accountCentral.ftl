@@ -33,6 +33,7 @@ newsgroups-label = Grupos de notícias
 newsgroups-description = O { -brand-short-name } permite você se conectar a todos os grupos de notícias que quiser.
 import-title = Importar de outro programa
 import-paragraph = O { -brand-short-name } permite importar mensagens de email, itens do catálogo de endereços, assinaturas de feeds, preferências e/ou filtros de outros programas de email e de formatos comuns de catálogo de endereços.
+import-paragraph2 = O { -brand-short-name } permite importar mensagens de email, itens do catálogo de endereços, assinaturas de feeds, configurações e/ou filtros de outros programas de email e de formatos comuns de catálogo de endereços.
 import-label = Importar
     .aria-label = Importar dados de outros programas
 about-paragraph = O Thunderbird é o principal cliente de email e agenda de código aberto, multiplataforma e livre para uso comercial e pessoal. Queremos que ele permaneça seguro e melhore ainda mais. Uma doação nos permitirá contratar mais desenvolvedores, pagar a infraestrutura e continuar a aprimorar.
