@@ -5,6 +5,9 @@
 reload-tab =
     .label = Athlódáil an Cluaisín
     .accesskey = A
+tab-context-play-tab =
+    .label = Seinn an Cluaisín
+    .accesskey = l
 close-tabs-to-the-end =
     .label = Dún na cluaisíní ar dheis
     .accesskey = i
