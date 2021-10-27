@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Chọn tất cả các thẻ
     .accesskey = S
+tab-context-play-tab =
+    .label = Phát âm thanh thẻ
+    .accesskey = l
 duplicate-tab =
     .label = Nhân đôi thẻ
     .accesskey = D
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Di chuyển các thẻ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label = Gửi { $tabCount } thẻ đến thiết bị
     .accesskey = n
