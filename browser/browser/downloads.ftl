@@ -71,8 +71,26 @@ downloads-cmd-show-panel =
 downloads-cmd-show-description =
     .value =
         { PLATFORM() ->
-            [macos] 在 Finder 中显示
+            [macos] 在访达中显示
            *[other] 打开所在文件夹
+        }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] 在访达中显示
+           *[other] 在文件夹中显示
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] 在访达中显示
+           *[other] 在文件夹中显示
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] 在访达中显示
+           *[other] 在文件夹中显示
         }
 downloads-cmd-show-downloads =
     .label = 显示下载文件夹

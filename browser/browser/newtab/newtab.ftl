@@ -142,7 +142,7 @@ newtab-menu-remove-download = 从历史记录中移除
 
 newtab-menu-show-file =
     { PLATFORM() ->
-        [macos] 显示于访达
+        [macos] 在访达中显示
        *[other] 打开所在文件夹
     }
 newtab-menu-open-file = 打开文件
