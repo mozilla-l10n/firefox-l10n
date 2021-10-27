@@ -20,3 +20,7 @@ explore-link = סיור בתכונות
 support-link = תמיכה
 involved-link = גילוי מעורבות
 developer-link = תיעוד למפתחים
+compose = כתיבת הודעה חדשה
+search = חיפוש הודעות
+filter = ניהול מסנני הודעות
+e2e = הצפנה מקצה לקצה
