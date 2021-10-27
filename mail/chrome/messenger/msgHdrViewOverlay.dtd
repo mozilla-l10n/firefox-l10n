@@ -88,6 +88,10 @@
 
 <!ENTITY openAttachment.tooltip "פתח את הקובץ המצורף">
 
+<!ENTITY detachedAttachmentFolder.show.label        "פתיחת תיקייה מכילה">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "פ">
+<!ENTITY detachedAttachmentFolder.showMac.label     "הצגה ב־Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "שמירה">

@@ -4,6 +4,7 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
+
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
@@ -14,6 +15,14 @@
 <!ENTITY menu_securitySign.label "חתום הודעה זו חתימה דיגיטלית">
 <!ENTITY menu_securitySign.accesskey "ח">
 
+<!ENTITY menu_securityTech.label "טכנולוגיית הצפנה">
+<!ENTITY menu_securityTech.accesskey "ט">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
+
 <!ENTITY menu_securityStatus.label "הצג מידע על אבטחה">
 <!ENTITY menu_securityStatus.accesskey "מ">
 
@@ -22,4 +31,3 @@
 
 <!ENTITY menu_viewSecurityStatus.label "מידע על אבטחת הודעה">
 <!ENTITY menu_viewSecurityStatus.accesskey "מ">
-

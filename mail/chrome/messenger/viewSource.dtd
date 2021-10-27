@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/viewSource.xul -->
-
 <!-- extracted from content/viewSource.xhtml -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
@@ -14,6 +12,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "המקור של: ">
 
+<!ENTITY editMenu.label "עריכה">
+<!ENTITY editMenu.accesskey "ע">
 <!ENTITY fileMenu.label "קובץ">
 <!ENTITY fileMenu.accesskey "ק">
 <!ENTITY savePageCmd.label "שמירת העמוד בשם…">
@@ -35,6 +35,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goToLineCmd.label "מעבר לשורה…">
 
+<!ENTITY viewMenu.label           "תצוגה">
+<!ENTITY viewMenu.accesskey       "צ">
+<!ENTITY reloadCmd.label "טעינה מחדש">
+<!ENTITY reloadCmd.accesskey "ט">
+<!ENTITY menu_wrapLongLines.title "גלישת שורות ארוכות">
+<!ENTITY menu_wrapLongLines.accesskey "ג">
 <!ENTITY menu_highlightSyntax.label "הדגשת תחביר">
 <!ENTITY menu_highlightSyntax.accesskey "ח">
 <!ENTITY menu_textSize.label "גודל הטקסט">
@@ -49,6 +55,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "חיפוש בעמוד הזה…">
 <!ENTITY findOnCmd.accesskey "ע">
 <!ENTITY findOnCmd.commandkey "ע">
+<!ENTITY findAgainCmd.label  "חיפוש מחדש">
+<!ENTITY findAgainCmd.accesskey "ד">
+<!ENTITY findAgainCmd.commandkey "ד">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY backCmd.label "חזרה">
+<!ENTITY backCmd.accesskey "ז">
+<!ENTITY forwardCmd.label "קדימה">
+<!ENTITY forwardCmd.accesskey "ק">
 
-
+<!ENTITY copyLinkCmd.label "העתקת מיקום קישור">
+<!ENTITY copyLinkCmd.accesskey "ע">
+<!ENTITY copyEmailCmd.label "העתקת כתובת דוא״ל">
+<!ENTITY copyEmailCmd.accesskey "ד">

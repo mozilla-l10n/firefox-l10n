@@ -12,3 +12,6 @@
 <!ENTITY removeDataChat.accesskey     "ד">
 <!ENTITY showData.label               "הצגת מיקום הנתונים">
 <!ENTITY showData.accesskey           "צ">
+<!ENTITY progressPending              "הנתונים הנבחרים נמחקים…">
+<!ENTITY progressSuccess              "ההסרה הצליחה.">
+<!ENTITY progressFailure              "ההסרה נכשלה.">
