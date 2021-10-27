@@ -717,4 +717,10 @@ search-results-empty-message =
         [windows] No hay resultados en Preferencias para “<span data-l10n-name="query"></span>”.
        *[other] No hay resultados en Opciones para “<span data-l10n-name="query"></span>”.
     }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] ¡Lo sentimos! No hay resultados en Opciones para “<span data-l10n-name="query">”.
+       *[other] ¡Lo sentimos! No hay resultados en Ajustes para “<span data-l10n-name="query">”.
+    }
 search-results-help-link = ¿Necesita ayuda? Visite <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
