@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Dangos yn Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Dangos yn Finder
+           *[other] Dangos mewn Ffolder
+        }
+    .accesskey = D
 downloads-cmd-use-system-default =
     .label = Agor yn Narllenydd System
     .accesskey = N
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Agor Bob Tro mewn Darllenydd System
     .accesskey = B
@@ -64,6 +73,17 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Dangos yn Finder
            *[other] Agor Ffolder Cynnwys
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Agor Ffeiliau Tebyg Bob Tro
+    .accesskey = T
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Dangos yn Finder
+           *[other] Dangos mewn Ffolder
         }
 downloads-cmd-show-downloads =
     .label = Dangos y Ffowleder Llwythi
