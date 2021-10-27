@@ -3,9 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY e2eTitle.label "הצפנה מקצה לקצה">
+<!ENTITY e2eLearnMore.label "מידע נוסף">
 
 
+<!ENTITY e2eTechPref.description "טכנולוגיית הצפנה מועדפת:">
 
+<!ENTITY doNotEncrypt.label "לא להפעיל הצפנה כברירת מחדל">
+<!ENTITY doNotEncrypt.accesskey "ל">
+<!ENTITY requireEncryptMessage.label "לדרוש הצפנה כברירת מחדל">
+<!ENTITY requireEncryptMessage.accesskey "ד">
+<!ENTITY encryptionCert2.message "אישור אבטחה אישי להצפנה:">
 <!ENTITY digitalSign.certificate.button "בחירה…">
 <!ENTITY digitalSign.certificate.accesskey "ב">
 <!ENTITY digitalSign.certificate_clear.button "מחיקה">
@@ -15,15 +22,30 @@
 <!ENTITY encryption.certificate_clear.button "מחיקה">
 <!ENTITY encryption.certificate_clear.accesskey "ק">
 <!ENTITY signingGroupTitle.label "חתימה דיגיטלית">
+<!ENTITY signMessage2.label "הוספת החתימה הדיגיטלית שלי כברירת מחדל">
 <!ENTITY signMessage.accesskey "ד">
+<!ENTITY signingCert2.message "אישור אבטחה אישי לחתימה דיגיטלית:">
 
+<!ENTITY sendingDefaults.label "הגדרות ברירת מחדל לשליחת הודעות">
 
+<!ENTITY technologyAutomatic.label "בחירה באופן אוטומטי על סמך מפתחות או אישורים זמינים">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "ניהול אישורי S/MIME">
+<!ENTITY manageCerts3.accesskey "נ">
+<!ENTITY manageDevices2.label "התקני אבטחה של S/MIME">
+<!ENTITY manageDevices2.accesskey "ה">
 
+<!ENTITY technologySMIME.label "להעדיף S/MIME">
+<!ENTITY technologyOpenPGP.label "להעדיף OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "בחירת אישור">
 <!ENTITY certPicker.info  "אישור:">
 <!ENTITY certPicker.detailsLabel "פרטי האישור הנבחר:">
 
+<!ENTITY openpgpKey.message "מפתח אישי להצפנה וחתימה דיגיטלית:">
+<!ENTITY openpgpKey.button "הגדרת מפתח אישי…">
+<!ENTITY openpgpKey.accesskey "ג">
