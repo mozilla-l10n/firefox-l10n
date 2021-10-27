@@ -28,3 +28,23 @@ about-unloads-intro =
     სხვადასხვა მახასიათებლით ხდება. ამ გვერდზე ნაჩვენება, რა უპირატესობით
     ალაგებს { -brand-short-name } ჩანართებს და რომელი მათგანი განიტვირთება,
     როცა ამის საჭიროება დადგება. ხელითაც შეგიძლიათ, <em>განტივრთვის</em> ღილაკზე დაჭერით.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    იხილეთ <a data-l10n-name="doc-link">ჩანართის განტვირთვის</a> შესახებ, რომ
+    ვრცლად გაეცნოთ ამ შესაძლებლობას.
+about-unloads-last-updated = ბოლოს განახლებული: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = განტვირთვა
+    .title = განსატვირთი ჩანართი, მაღალი უპირატესობით
+about-unloads-no-unloadable-tab = განსატვირთი ჩანართები არაა.
+about-unloads-column-priority = უპირატესობა
+about-unloads-column-host = მისამართი
+about-unloads-column-last-accessed = ბოლო წვდომა
+about-unloads-column-memory = მეხსიერება
+    .title = გამოყენებული მეხსიერება მიახლოებით
+about-unloads-column-processes = პროცესის ID
+    .title = კოდი იმ პროცესის, რომელიც ამუშავებს შიგთავსს
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } ᲛᲑ
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } ᲛᲑ
