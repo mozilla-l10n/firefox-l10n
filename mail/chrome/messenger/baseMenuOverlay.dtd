@@ -9,4 +9,24 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "עזרה">
 <!ENTITY helpMenuWin.accesskey "ע">
+<!ENTITY aboutProduct2.label "על אודות &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "א">
+<!ENTITY productHelp.label "עזרה עבור &brandShortName;">
+<!ENTITY productHelp.accesskey "ע">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
 
+<!ENTITY helpKeyboardShortcuts.label "קיצורי מקלדת">
+<!ENTITY helpKeyboardShortcuts.accesskey "ק">
+
+<!ENTITY helpFeedbackPage.label "שליחת משוב…">
+<!ENTITY helpFeedbackPage.accesskey "מ">
+
+<!ENTITY helpShowTour2.label "סיור ב־&brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "ס">
+
+<!ENTITY helpGetInvolvedPage.label "גילוי מעורבות">
+<!ENTITY helpGetInvolvedPage.accesskey "ג">
+
+<!ENTITY helpDonationsPage.label "מתן תרומה">
+<!ENTITY helpDonationsPage.accesskey "ת">

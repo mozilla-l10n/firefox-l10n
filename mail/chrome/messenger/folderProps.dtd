@@ -45,6 +45,9 @@
 
 <!ENTITY folderProps.name.label                  "שם:">
 <!ENTITY folderProps.name.accesskey              "ש">
+<!ENTITY folderProps.color.label                 "צבע הסמל:">
+<!ENTITY folderProps.color.accesskey             "צ">
+<!ENTITY folderProps.reset.tooltip               "שחזור צבע ברירת המחדל">
 <!ENTITY folderProps.location.label              "מיקום:">
 <!ENTITY folderProps.location.accesskey          "מ">
 
@@ -52,6 +55,7 @@
 <!ENTITY privileges.button.label                 "הרשאות...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "ברשותך ההרשאות הבאות:">
+<!ENTITY folderOtherUsers.label                  "אחרים עם גישה לתיקיה זו:">
 <!ENTITY folderType.label                        "סוג תיקייה:">
 
 <!ENTITY folderQuotaTab.label                    "מכסה">
