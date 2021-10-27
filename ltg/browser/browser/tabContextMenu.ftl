@@ -5,6 +5,9 @@
 reload-tab =
     .label = Puorluodeit cilni
     .accesskey = r
+tab-context-play-tab =
+    .label = Play Tab
+    .accesskey = l
 duplicate-tab =
     .label = Dublēt cilni
     .accesskey = D
