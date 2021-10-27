@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] სანიშნების მოცილება
         }
     .accesskey = ც
+places-show-in-folder =
+    .label = ჩვენება საქაღალდეში
+    .accesskey = ქ
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
