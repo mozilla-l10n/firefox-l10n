@@ -115,12 +115,68 @@ openpgp-key-details-structure-tab =
     .label = מבנה
 openpgp-key-details-id-label =
     .label = מזהה
+openpgp-key-details-key-type-label = סוג
+openpgp-key-details-algorithm-label =
+    .label = אלגוריתם
+openpgp-key-details-size-label =
+    .label = גודל
+openpgp-key-details-created-label =
+    .label = תאריך יצירה
+openpgp-key-details-created-header = תאריך יצירה
+openpgp-key-details-expiry-label =
+    .label = תפוגה
+openpgp-key-details-expiry-header = תפוגה
+openpgp-key-details-usage-label =
+    .label = שימוש
+openpgp-key-details-fingerprint-label = טביעת אצבע
+openpgp-key-details-sel-action =
+    .label = בחירת פעולה…
+    .accesskey = ב
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = סגירה
+openpgp-copy-cmd-label =
+    .label = העתקה
 
 ## e2e encryption settings
 
+openpgp-add-key-button =
+    .label = הוספת מפתח…
+    .accesskey = ה
+e2e-learn-more = מידע נוסף
+openpgp-keygen-success = מפתח OpenPGP נוצר בהצלחה!
+openpgp-keygen-import-success = מפתחות OpenPGP יובאו בהצלחה!
+openpgp-keygen-external-success = מזהה מפתח GnuPG חיצוני נשמר!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = ללא
+openpgp-radio-none-desc = לא להשתמש ב־OpenPGP עבור זהות זו.
+openpgp-radio-key-not-usable = מפתח זה אינו שמיש כמפתח אישי, כי המפתח הסודי חסר!
+openpgp-radio-key-not-accepted = כדי להשתמש במפתח זה עליך לאשר אותו כמפתח אישי!
+openpgp-radio-key-not-found = מפתח זה לא נמצא! אם ברצונך להשתמש בו, עליך לייבא אותו אל { -brand-short-name }.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = יפוג בתאריך: { $date }
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = פג בתאריך: { $date }
+openpgp-key-expires-within-6-months-icon =
+    .title = תוקף המפתח יפוג בעוד פחות מ־6 חודשים
+openpgp-key-has-expired-icon =
+    .title = פג תוקף המפתח
+openpgp-key-expand-section =
+    .tooltiptext = מידע נוסף
+openpgp-key-edit-title = שינוי מפתח OpenPGP
+openpgp-key-edit-date-title = הארכת תאריך התפוגה
+openpgp-key-remove-external =
+    .label = הסרת מזהה מפתח חיצוני
+    .accesskey = ס
+key-external-label = מפתח GnuPG חיצוני
+# Strings in keyDetailsDlg.xhtml
+key-type-public = מפתח ציבורי
+key-type-primary = מפתח ראשי
+key-type-subkey = מפתח משנה
+key-expired-date = תוקף המפתח פג ב־{ $keyExpiry }
+key-expired-simple = פג תוקף המפתח
 
 ## Account settings export output
 
