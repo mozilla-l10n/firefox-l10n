@@ -80,6 +80,17 @@ menu-file-open-file =
 menu-file-close =
     .label = Закрити
     .accesskey = к
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Закрити вкладку
+            [one] Закрити { $tabCount } вкладку
+            [few] Закрити { $tabCount } вкладки
+           *[many] Закрити { $tabCount } вкладок
+        }
+    .accesskey = к
 menu-file-close-window =
     .label = Закрити вікно
     .accesskey = а
