@@ -200,7 +200,7 @@ downloads-panel-empty =
 #                     panel list.
 downloads-more-downloading =
     { $count ->
-        [zero] Dim rhagor o ffeiliau'n llwytho i lawr
+        [zero] Dim rhagor o ffeiliau i'w llwytho i lawr
         [one] { $count } ffeil arall yn llwytho i lawr
         [two] { $count } ffeil arall yn llwytho i lawr
         [few] { $count } ffeil arall yn llwytho i lawr
