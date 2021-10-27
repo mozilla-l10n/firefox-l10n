@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Изабери све картице
     .accesskey = И
+tab-context-play-tab =
+    .label = Пусти тон
+    .accesskey = П
 duplicate-tab =
     .label = Дуплирај картицу
     .accesskey = Д
@@ -105,7 +108,6 @@ tab-context-move-tabs =
            *[other] Премести картице
         }
     .accesskey = П
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
