@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Upravljaj ključe za izbranega prejemn
 openpgp-recip-good = v redu
 openpgp-recip-missing = ni razpoložljivega ključa
 openpgp-recip-none-accepted = ni sprejetega ključa
+openpgp-compose-general-info-alias-learn-more = Več o tem
