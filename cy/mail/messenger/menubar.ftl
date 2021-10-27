@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Dewisiadau
     .accesskey = D
+menu-tools-settings =
+    .label = Gosodiadau
+    .accesskey = G
 menu-addons-and-themes =
     .label = Ychwanegion a Themâu
     .accesskey = Y
