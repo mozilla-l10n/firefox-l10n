@@ -159,6 +159,13 @@ cfr-doorhanger-video-support-header = Aggiorna { -brand-short-name } per riprodu
 cfr-doorhanger-video-support-primary-button = Aggiorna adesso
   .accesskey = A
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Ulteriori informazioni
+  .title = Espandi per scoprire ulteriori informazioni su questa funzione
+spotlight-learn-more-expanded = Ulteriori informazioni
+  .title = Chiudi
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
@@ -171,3 +178,17 @@ spotlight-public-wifi-vpn-primary-button = Proteggi la tua privacy con { -mozill
   .accesskey = M
 spotlight-public-wifi-vpn-link = Non adesso
   .accesskey = N
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+  Prova in anteprima una nuova esperienza
+  per il massimo della privacy
+spotlight-total-cookie-protection-body = La Protezione totale per i cookie impedisce l’utilizzo dei cookie per seguire le tue attività online.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } crea un recinto intorno ai cookie, limitandoli al sito in cui ti trovi. In questo modo non è possibile utilizzarli per seguirti sul Web. Attivando questa funzione in anteprima, ci aiuti a perfezionarla e costruire un Web migliore per tutti.
+spotlight-total-cookie-protection-primary-button = Attiva Protezione totale per i cookie
+spotlight-total-cookie-protection-secondary-button = Non adesso
