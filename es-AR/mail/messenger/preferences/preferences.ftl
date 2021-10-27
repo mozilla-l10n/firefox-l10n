@@ -126,6 +126,9 @@ remove-search-engine =
     .label = Eliminar
     .accesskey = E
 add-opensearch-provider-title = Agregar proveedor OpenSearch
+add-opensearch-provider-text = Ingrese URL del proveedor OpenSearch para agregar. Puede usar la URL directa del archivo de descripción OpenSearch o una URL dónde puede descubrirse automáticamente.
+adding-opensearch-provider-failed-title = No se pudo agregar el proveedor OpenSearch
+adding-opensearch-provider-failed-text = No se pudo agregar el proveedor OpenSearch para { $url }.
 minimize-to-tray-label =
     .label = Cuando { -brand-short-name } está minimizado, muévalo a la bandeja
     .accesskey = m
@@ -149,6 +152,7 @@ app-icon-options =
     .label = Opciones de ícono de la aplicación…
     .accesskey = n
 notification-settings = Alertas y el sonido predeterminado pueden deshabilitarse en la vista de notificaciones de las preferencias del sistema.
+notification-settings2 = Se pueden deshabilitar las alertas y el sonido predeterminado en la vista de notificaciones de la configuración del sistema.
 animated-alert-label =
     .label = Mostrar una alerta
     .accesskey = M
@@ -322,6 +326,8 @@ type-column-label =
 action-column-label =
     .label = Acción
     .accesskey = A
+type-column-header = Tipo de contenido
+action-column-header = Acción
 save-to-label =
     .label = Guardar archivos en
     .accesskey = G
@@ -690,6 +696,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Buscar en Ajustes
 
 ## Settings UI Search Results
 
