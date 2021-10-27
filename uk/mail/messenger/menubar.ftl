@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Налаштування
     .accesskey = Н
+menu-tools-settings =
+    .label = Налаштування
+    .accesskey = а
 menu-addons-and-themes =
     .label = Додатки й теми
     .accesskey = о

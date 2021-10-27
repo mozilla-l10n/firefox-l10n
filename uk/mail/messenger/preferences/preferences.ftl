@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Закрити
 preferences-doc-title = Налаштування
+preferences-doc-title2 = Налаштування
 category-list =
     .aria-label = Категорії
 pane-general-title = Загальні
@@ -118,9 +119,16 @@ default-search-engine = Типовий засіб пошуку
 add-search-engine =
     .label = Додати з файлу
     .accesskey = Д
+add-web-search-engine =
+    .label = Додати…
+    .accesskey = о
 remove-search-engine =
     .label = Вилучити
     .accesskey = в
+add-opensearch-provider-title = Додайте постачальника OpenSearch
+add-opensearch-provider-text = Введіть URL-адресу постачальника OpenSearch, який потрібно додати. Або використовуйте пряму URL-адресу файлу опису OpenSearch, або URL-адресу, де його можна автоматично знайти.
+adding-opensearch-provider-failed-title = Помилка додавання постачальника OpenSearch
+adding-opensearch-provider-failed-text = Не вдалося додати постачальника OpenSearch для { $url }.
 minimize-to-tray-label =
     .label = Коли вікно з { -brand-short-name } згорнуте, перемістіть його в системний лоток
     .accesskey = з
@@ -140,6 +148,7 @@ app-icon-options =
     .label = Налаштування піктограми програми…
     .accesskey = л
 notification-settings = Сигнали і типові звуки можна вимкнути в панелі сповіщень системних налаштувань.
+notification-settings2 = Сигнали й типові звуки можна вимкнути в панелі сповіщень системних налаштувань.
 animated-alert-label =
     .label = Показувати сповіщення
     .accesskey = с
@@ -313,6 +322,8 @@ type-column-label =
 action-column-label =
     .label = Дія
     .accesskey = Д
+type-column-header = Тип вмісту
+action-column-header = Дія
 save-to-label =
     .label = Зберігати файли до
     .accesskey = З
@@ -681,9 +692,29 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Знайти в налаштуваннях
+
+## Settings UI Search Results
+
 search-results-header = Результати пошуку
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
+       *[other] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
     { PLATFORM() ->
         [windows] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
        *[other] Перепрошуємо! В налаштуваннях немає результатів для “<span data-l10n-name="query"></span>”.
