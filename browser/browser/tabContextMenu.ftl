@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Odaberi sve kartice
     .accesskey = s
+tab-context-play-tab =
+    .label = Kartica reprodukcije
+    .accesskey = r
 duplicate-tab =
     .label = Dupliciraj karticu
     .accesskey = D
@@ -111,7 +114,6 @@ tab-context-move-tabs =
            *[other] Premjesti kartice
         }
     .accesskey = m
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
