@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Seleziona tutte le schede
     .accesskey = z
+tab-context-play-tab =
+    .label = Riproduci audio nella scheda
+    .accesskey = e
+tab-context-play-tabs =
+    .label = Riproduci audio nelle schede
+    .accesskey = e
 duplicate-tab =
     .label = Duplica scheda
     .accesskey = D
@@ -99,7 +105,6 @@ tab-context-move-tabs =
            *[other] Sposta schede
         }
     .accesskey = S
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
