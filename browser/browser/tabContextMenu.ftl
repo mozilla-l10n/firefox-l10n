@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = 選擇所有分頁
     .accesskey = S
+tab-context-play-tab =
+    .label = 播放分頁
+    .accesskey = P
+tab-context-play-tabs =
+    .label = 播放分頁
+    .accesskey = y
 duplicate-tab =
     .label = 複製分頁
     .accesskey = D
@@ -101,7 +107,6 @@ tab-context-move-tabs =
            *[other] 移動分頁
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
