@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Wšykne rejtariki wubraś
     .accesskey = W
+tab-context-play-tab =
+    .label = Rejtarik wótgraś
+    .accesskey = R
+tab-context-play-tabs =
+    .label = Rejtariki wótgraś
+    .accesskey = g
 duplicate-tab =
     .label = Rejatark pódwójś
     .accesskey = R
@@ -115,7 +121,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } rejtarikow pśesunuś
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
