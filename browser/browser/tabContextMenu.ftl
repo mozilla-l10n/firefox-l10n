@@ -8,6 +8,12 @@ reload-tab =
 select-all-tabs =
     .label = Vali kõik kaardid
     .accesskey = k
+tab-context-play-tab =
+    .label = Esita kaardi sisu
+    .accesskey = s
+tab-context-play-tabs =
+    .label = Esita kaartide sisu
+    .accesskey = E
 duplicate-tab =
     .label = Klooni kaart
     .accesskey = K
@@ -71,7 +77,6 @@ tab-context-move-tabs =
            *[other] Liiguta kaarte
         }
     .accesskey = L
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
