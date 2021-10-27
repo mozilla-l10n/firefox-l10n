@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = პროცესების მმართველი
-
 # The Actions column
 about-processes-column-action =
     .title = მოქმედებები
@@ -15,18 +14,22 @@ about-processes-shutdown-process =
     .title = ჩანართების გაუქმება და პროცესის გათიშვა
 about-processes-shutdown-tab =
     .title = ჩანართის დახურვა
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] აღიწეროს ამ პროცესის ყველა ნაკადი { $duration } წამის განმავლობაში
+           *[other] აღიწეროს ამ პროცესის ყველა ნაკადი { $duration } წამის განმავლობაში
+        }
 
 ## Column headers
 
 about-processes-column-name = სახელი
 about-processes-column-memory-resident = მეხსიერება
 about-processes-column-cpu-total = პროცესორი
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
 ## Process names
 ## Variables:
@@ -47,7 +50,6 @@ about-processes-socket-process = ქსელი ({ $pid })
 about-processes-remote-sandbox-broker-process = გარე Sandbox-Broker ({ $pid })
 about-processes-fork-server-process = Fork-სერვერი ({ $pid })
 about-processes-preallocated-process = წინასწარ გამოყოფილი ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -83,7 +85,6 @@ about-processes-active-threads =
         [one] { $active } მოქმედი ნაკადი, სულ { $number }: { $list }
        *[other] { $active } მოქმედი ნაკადი, სულ { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -95,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } უქმი ნაკადი
        *[other] { $number } უქმი ნაკადი
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ნაკადის id: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ჩანართი: { $name }
 about-processes-preloaded-tab = წინასწარ ჩატვირთული ჩანართი
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = ქვეჩარჩო: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -132,13 +129,18 @@ about-processes-frame-name-many = ქვეჩარჩო ({ $number }): { $sho
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = პროცესორის დრო ჯამში: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ითვლება)
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = უქმი
     .title = პროცესორის დრო ჯამში: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = სულ CPU-დრო: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: process or thread is currently idle.
+about-processes-cpu-fully-idle = უქმი
+    .title = სულ CPU-დრო: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -154,7 +156,6 @@ about-processes-cpu-idle = უქმი
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = განვითარება: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
