@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer size:
-
 perftools-custom-threads-label = Add custom threads by name:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Settings
@@ -103,7 +101,6 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Bypass selections above and record all registered threads
-
 perftools-tools-threads-input-label =
     .title = These thread names are a comma separated list that is used to enable profiling of the threads in the profiler. The name needs to be only a partial match of the thread name to be included. It is whitespace sensitive.
 
@@ -112,9 +109,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>New</b>: { -profiler-brand-name } is now integrated into Developer Tools. <a>Learn more</a> about this powerful new tool.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (For a limited time, you can access the original Performance panel via <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Close the onboarding message
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = ვებშემუშავება
+perftools-presets-web-developer-description = მზა პარამეტრები, განკუთვნილი პროგრამების ხარვეზების დასადგენად, ნაკლები დატვირთვით.
+perftools-presets-firefox-platform-label = Firefox-პლატფორმა
+perftools-presets-firefox-platform-description = მზა პარამეტრები, განკუთვნილი Firefox-პლატფორმის შიდა ხარვეზების დასადგენად.
+perftools-presets-firefox-front-end-label = Firefox კლიენტის მხარე
+perftools-presets-firefox-front-end-description = მზა პარამეტრები, განკუთვნილი Firefox-ის კლიენტის მხარის შიდა ხარვეზების გამოსავლენად.
+perftools-presets-firefox-graphics-label = Firefox-გრაფიკა
+perftools-presets-firefox-graphics-description = მზა პარამეტრები, განკუთვნილი Firefox-ის გრაფიკული წარმადობის გამოსაკვლევად.
+perftools-presets-media-label = ფაილები
+perftools-presets-media-description = მზა პარამეტრები, განკუთვნილი ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად.
+perftools-presets-custom-label = მორგებული
+
+##
+
