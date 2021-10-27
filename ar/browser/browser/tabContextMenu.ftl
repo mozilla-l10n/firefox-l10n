@@ -8,6 +8,9 @@ reload-tab =
 select-all-tabs =
     .label = اختر كل الألسنة
     .accesskey = خ
+tab-context-play-tab =
+    .label = شغّل اللسان
+    .accesskey = ش
 duplicate-tab =
     .label = كرّر اللسان
     .accesskey = ك
@@ -108,7 +111,6 @@ tab-context-move-tabs =
            *[other] انقل الألسنة
         }
     .accesskey = ن
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
