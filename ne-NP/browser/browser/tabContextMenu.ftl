@@ -5,6 +5,9 @@
 reload-tab =
     .label = ट्याब पुनः लोड गर्नुहोस्
     .accesskey = R
+tab-context-play-tab =
+    .label = प्ले ट्याब
+    .accesskey = I
 duplicate-tab =
     .label = नक्कली ट्याब
     .accesskey = D
