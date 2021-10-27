@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Vælg alle faneblade
     .accesskey = V
+tab-context-play-tab =
+    .label = Afspil lyd/video i faneblad
+    .accesskey = A
+tab-context-play-tabs =
+    .label = Afspil lyd/video i fanebladene.
+    .accesskey = s
 duplicate-tab =
     .label = Kopier faneblad
     .accesskey = K
@@ -107,7 +113,6 @@ tab-context-move-tabs =
            *[other] Flyt faneblade
         }
     .accesskey = y
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
