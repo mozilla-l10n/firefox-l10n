@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Selecionar todos os separadores
     .accesskey = S
+tab-context-play-tab =
+    .label = Reproduzir separador
+    .accesskey = e
 duplicate-tab =
     .label = Duplicar separador
     .accesskey = D
@@ -107,7 +110,6 @@ tab-context-move-tabs =
            *[other] Mover separadores
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
