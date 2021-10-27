@@ -85,6 +85,18 @@ downloads-cmd-show-button-2 =
             [macos] Dangos yn Finder
            *[other] Dangos mewn Ffolder
         }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Dangos yn Finder
+           *[other] Dangos mewn Ffolder
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Dangos yn Finder
+           *[other] Dangos mewn Ffolder
+        }
 downloads-cmd-show-downloads =
     .label = Dangos y Ffowleder Llwythi
 downloads-cmd-retry =
@@ -182,3 +194,16 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Dim llwytho i lawr yn ystod y sesiwn yma.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [zero] Dim rhagor o ffeiliau'n llwytho i lawr
+        [one] { $count } ffeil arall yn llwytho i lawr
+        [two] { $count } ffeil arall yn llwytho i lawr
+        [few] { $count } ffeil arall yn llwytho i lawr
+        [many] { $count } ffeil arall yn llwytho i lawr
+       *[other] { $count } ffeil arall yn llwytho i lawr
+    }
