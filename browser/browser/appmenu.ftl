@@ -12,6 +12,16 @@ appmenuitem-update-banner3 =
     .label-update-unsupported = 更新不可 — システムの互換性なし
     .label-update-restart = 更新可能 — 今すぐ再起動
 appmenuitem-protection-dashboard-title = プライバシー保護ダッシュボード
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name } の更新をダウンロード中
+appmenuitem-banner-update-available =
+    .label = 更新可能 — 今すぐダウンロード
+appmenuitem-banner-update-manual =
+    .label = 更新可能 — 今すぐダウンロード
+appmenuitem-banner-update-unsupported =
+    .label = 更新不可 — システムの互換性なし
+appmenuitem-banner-update-restart =
+    .label = 更新可能 — 今すぐ再起動
 appmenuitem-new-tab =
     .label = 新しいタブ
 appmenuitem-new-window =
@@ -162,6 +172,11 @@ profiler-popup-capture-shortcut =
 
 ## Profiler presets
 ## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
