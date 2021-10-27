@@ -38,6 +38,8 @@
 <!ENTITY newIMContactCmd.accesskey "ק">
 <!ENTITY  newMessageCmd.label "הודעה">
 <!ENTITY  newMessageCmd.accesskey "ד">
+<!ENTITY openMenuCmd.label "פתיחה">
+<!ENTITY openMenuCmd.accesskey "פ">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY saveAsMenu.label "שמור">
@@ -275,6 +277,8 @@
 <!ENTITY searchMailCmd.label "חפש בהודעות...">
 <!ENTITY searchMailCmd.accesskey "ה">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "חיפוש גלובלי…">
+<!ENTITY glodaSearchCmd.accesskey "ג">
 <!ENTITY searchAddressesCmd.label "חפש בכתובות...">
 <!ENTITY searchAddressesCmd.accesskey "כ">
 
@@ -472,6 +476,8 @@
 <!ENTITY deleteJunk.accesskey "ח">
 <!ENTITY importCmd.label "ייבוא…">
 <!ENTITY importCmd.accesskey "י">
+<!ENTITY exportCmd.label "ייצוא…">
+<!ENTITY exportCmd.accesskey "י">
 <!ENTITY clearRecentHistory.label "ניקוי היסטוריה אחרונה…">
 <!ENTITY clearRecentHistory.accesskey "ה">
 <!ENTITY accountManagerCmd2.label "הגדרות חשבון">

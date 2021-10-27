@@ -73,9 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "סידור קבצים מצורפים מחדש…">
 <!ENTITY reorderAttachmentsCmd.accesskey "צ">
 <!ENTITY reorderAttachmentsCmd.key "ח">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY findBarCmd.label "חיפוש…">
 <!ENTITY findBarCmd.accesskey "ח">
@@ -220,12 +217,16 @@
 <!ENTITY printButton.tooltip "הדפסת הודעה זו">
 
 <!-- Headers -->
-<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "מאת">
 <!ENTITY fromAddr.accesskey "r">
+<!ENTITY subject2.label "נושא">
 <!ENTITY subject.accesskey "נ">
 <!ENTITY attachmentBucketCloseButton.tooltip "הסתרת לוח קבצים מצורפים">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">
 <!ENTITY smiley1Cmd.label "חיוך">
 <!ENTITY smiley2Cmd.label "זועף">
@@ -306,6 +307,7 @@
 <!ENTITY customizeFromAddress.accesskey "כ">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "גוף ההודעה">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "שפת בדיקת האיות">
