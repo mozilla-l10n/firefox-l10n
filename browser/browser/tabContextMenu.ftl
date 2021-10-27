@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Hautatu fitxa guztiak
     .accesskey = z
+tab-context-play-tab =
+    .label = Erreproduzitu fitxa
+    .accesskey = E
 duplicate-tab =
     .label = Bikoiztu fitxa
     .accesskey = B
@@ -105,7 +108,6 @@ tab-context-move-tabs =
            *[other] Mugitu fitxak
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
