@@ -156,6 +156,7 @@ account-setup-credentials-incomplete = Quá trình xác thực thất bại. Th�
 account-setup-credentials-wrong = Quá trình xác thực thất bại. Vui lòng kiểm tra tên người dùng và mật khẩu
 account-setup-find-settings-failed = { -brand-short-name } không tìm thấy cài đặt cho tài khoản email của bạn
 account-setup-exchange-config-unverifiable = Không thể xác minh cấu hình. Nếu tên người dùng và mật khẩu của bạn chính xác, có khả năng quản trị viên máy chủ đã vô hiệu hóa cấu hình đã chọn cho tài khoản của bạn. Hãy thử chọn một giao thức khác.
+account-setup-provisioner-error = Đã xảy ra lỗi khi thiết lập tài khoản mới của bạn trong { -brand-short-name }. Vui lòng thử thiết lập tài khoản của bạn theo cách thủ công bằng thông tin đăng nhập của bạn.
 
 ## Manual configuration area
 

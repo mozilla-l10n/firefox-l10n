@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Đóng
 preferences-doc-title = Tùy chỉnh
+preferences-doc-title2 = Cài đặt
 category-list =
     .aria-label = Thể loại
 pane-general-title = Tổng quát
@@ -118,9 +119,16 @@ default-search-engine = Công cụ tìm kiếm mặc định
 add-search-engine =
     .label = Thêm từ tập tin
     .accesskey = A
+add-web-search-engine =
+    .label = Thêm…
+    .accesskey = a
 remove-search-engine =
     .label = Xóa
     .accesskey = v
+add-opensearch-provider-title = Thêm nhà cung cấp OpenSearch
+add-opensearch-provider-text = Nhập URL của nhà cung cấp OpenSearch để thêm. Sử dụng URL trực tiếp của dập tin mô tả OpenSearch, hoặc một URL mànó có thể được tự động phát hiện.
+adding-opensearch-provider-failed-title = Thêm nhà cung cấp OpenSearch không thành công
+adding-opensearch-provider-failed-text = Không thể thêm nhà cung cấp OpenSearch cho { $url }.
 minimize-to-tray-label =
     .label = Khi { -brand-short-name } đã thu nhỏ, di chuyển nó vào khay
     .accesskey = m
@@ -144,6 +152,7 @@ app-icon-options =
     .label = Tùy chọn biểu tượng ứng dụng…
     .accesskey = n
 notification-settings = Thông báo và âm thanh mặc định có thể được tắt trong Notification pane của System Preferences.
+notification-settings2 = Có thể tắt cảnh báo và âm thanh mặc định trên ngăn thông báo của cài đặt hệ thống.
 animated-alert-label =
     .label = Hiển thị thông báo
     .accesskey = S
@@ -317,6 +326,8 @@ type-column-label =
 action-column-label =
     .label = Hành động
     .accesskey = A
+type-column-header = Kiểu dữ liệu
+action-column-header = Thao tác
 save-to-label =
     .label = Lưu các tập tin vào
     .accesskey = S
@@ -685,11 +696,31 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Tìm trong Cài đặt
+
+## Settings UI Search Results
+
 search-results-header = Kết quả tìm kiếm
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
         [windows] Xin lỗi! Không có kết quả trong phần Tùy chọn cho “<span data-l10n-name="query"></span>”.
        *[other] Xin lỗi! Không có kết quả trong phần Tùy chỉnh cho “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Xin lỗi! Không có kết quả nào trong Tùy chọn cho “<span data-l10n-name="query"></span>”.
+       *[other] Xin lỗi! Không có kết quả nào trong Cài đặt cho “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Cần trợ giúp? Đi đến <a data-l10n-name="url">Hỗ trợ { -brand-short-name }</a>

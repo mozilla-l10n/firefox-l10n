@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Tùy chỉnh
     .accesskey = P
+menu-tools-settings =
+    .label = Cài đặt
+    .accesskey = e
 menu-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = A
