@@ -225,6 +225,7 @@ newtab-discovery-empty-section-topstories-timed-out = ჰმ! თითქმი
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
+newtab-pocket-new-topics-title = გსურთ, მეტი ამბების მონახვა? იხილეთ, გავრცელებული თემებისთვის { -pocket-brand-name }
 newtab-pocket-more-recommendations = მეტი შემოთავაზებები
 newtab-pocket-learn-more = იხილეთ ვრცლად
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }

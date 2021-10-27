@@ -116,8 +116,14 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = აღმრიცხავი
+    .label = აღმწერი
     .tooltiptext = წარმადობის მახასიათებლების აღრიცხვა
+profiler-popup-button-recording =
+    .label = აღმწერი
+    .tooltiptext = იწერს მახასიათებლებს
+profiler-popup-button-capturing =
+    .label = აღმწერი
+    .tooltiptext = აღრიცხავს მახასიათებლებს
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -168,6 +174,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = მზა პარამეტრები, განკუთვნილი პროგრამების ხარვეზების გამოსავლენად, ნაკლები დატვირთვით.
+profiler-popup-presets-web-developer-label =
+    .label = ვებშემუშავება
+profiler-popup-presets-firefox-platform-description = მზა პარამეტრები, განკუთვნილი Firefox-პლატფორმის შიდა ხარვეზების გამოსავლენად.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox-პლატფორმა
+profiler-popup-presets-firefox-front-end-description = მზა პარამეტრები, განკუთვნილი Firefox-ის კლიენტის მხარის შიდა ხარვეზების გამოსავლენად.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox კლიენტის მხარე
+profiler-popup-presets-firefox-graphics-description = მზა პარამეტრები, განკუთვნილი Firefox-ის გრაფიკული წარმადობის გამოსაკვლევად.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox-გრაფიკა
+profiler-popup-presets-media-description = მზა პარამეტრები, განკუთვნილი ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად.
+profiler-popup-presets-media-label =
+    .label = ფაილები
+profiler-popup-presets-custom-label =
+    .label = მორგებული
 
 ## History panel
 
