@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = 모든 탭 선택
     .accesskey = S
+tab-context-play-tab =
+    .label = 탭 재생
+    .accesskey = P
+tab-context-play-tabs =
+    .label = 탭 재생
+    .accesskey = y
 duplicate-tab =
     .label = 탭 복제
     .accesskey = D
@@ -103,7 +109,6 @@ tab-context-move-tabs =
            *[other] 탭 이동
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
     .accesskey = n
