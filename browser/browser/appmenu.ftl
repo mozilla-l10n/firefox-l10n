@@ -171,6 +171,10 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Desarrollador web
+profiler-popup-presets-firefox-graphics-label =
+    .label = Gráficos de Firefox
+profiler-popup-presets-custom-label =
+    .label = Personalizado
 
 ## History panel
 
