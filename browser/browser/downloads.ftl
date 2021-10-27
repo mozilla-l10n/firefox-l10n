@@ -41,6 +41,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Finder’da göster
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Finder’da göster
+           *[other] Klasörde göster
+        }
+    .accesskey = ö
 downloads-cmd-use-system-default =
     .label = Sistem görüntüleyicisinde aç
     .accesskey = S
@@ -66,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Finder’da göster
            *[other] Bulunduğu klasörü aç
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Benzer dosyaları her zaman aç
+    .accesskey = B
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Finder’da göster
+           *[other] Klasörde göster
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Finder’da göster
+           *[other] Klasörde göster
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Finder’da göster
+           *[other] Klasörde göster
         }
 downloads-cmd-show-downloads =
     .label = İndirilenler klasörünü göster
