@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Барлық беттерді таңдау
     .accesskey = т
+tab-context-play-tab =
+    .label = Бетті ойнату
+    .accesskey = о
 duplicate-tab =
     .label = Бетті қосарлау
     .accesskey = о
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
