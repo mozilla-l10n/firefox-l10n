@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Избиране на всички раздели
     .accesskey = и
+tab-context-play-tab =
+    .label = Включване на звука
+    .accesskey = з
+tab-context-play-tabs =
+    .label = Включване на звука
+    .accesskey = з
 duplicate-tab =
     .label = Дублиране на раздела
     .accesskey = р
@@ -96,7 +102,6 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
