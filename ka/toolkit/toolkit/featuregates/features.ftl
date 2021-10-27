@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = მხარდაჭერი�
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = მხარდაჭერილი გახდება CSS Cascade Layers. გაეცანით <a data-l10n-name="spec">მიმდინარე მახასიათებლებს</a>, ვრცლად. ხარვეზების მოსახსენებლად ან შესაზღუდად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1699215</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
