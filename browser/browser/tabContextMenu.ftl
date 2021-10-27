@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Pilih Semua Tab
     .accesskey = A
+tab-context-play-tabs =
+    .label = Putar Tab
+    .accesskey = p
 duplicate-tab =
     .label = Gandakan Tab
     .accesskey = G
@@ -96,7 +99,6 @@ tab-context-move-tabs =
            *[other] Pindahkan Tab
         }
     .accesskey = P
-
 tab-context-send-tabs-to-device =
     .label = Kirim Tab ke { $tabCount } Peranti
     .accesskey = k
