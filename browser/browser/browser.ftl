@@ -545,9 +545,22 @@ pointerlock-warning-no-domain = See dokument kontrollib sinu kursori tegevust. K
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Osa sellest lehest jooksis kokku.</strong> Kui soovid, et { -brand-product-name } teaks sellest probleemist ja lahendaks selle kiiremini, siis raporteeri sellest palun.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Osa sellest lehest jooksis kokku. Kui soovid, et { -brand-product-name } teaks sellest probleemist ja lahendaks selle kiiremini, siis raporteeri sellest palun.
+crashed-subframe-learnmore-link =
+    .value = Rohkem teavet
+crashed-subframe-submit =
+    .label = Saada raport
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Halda järjehoidjaid
+bookmarks-recent-bookmarks-panel-subheader = Hiljutised järjehoidjad
 bookmarks-toolbar-chevron =
     .tooltiptext = Veel järjehoidjaid
 bookmarks-sidebar-content =
@@ -565,6 +578,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Kuva järjehoidjate külgriba
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Peida järjehoidjariba
+           *[other] Kuva järjehoidjariba
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Peida järjehoidjariba
@@ -595,11 +614,16 @@ bookmarks-toolbar-placeholder =
     .title = Järjehoidjariba elemendid
 bookmarks-toolbar-placeholder-button =
     .label = Järjehoidjariba elemendid
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Lisa praegune kaart järjehoidjatesse
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Järjehoidjad
+library-recent-activity-title =
+    .value = Hiljutine tegevus
 
 ## Pocket toolbar button
 
