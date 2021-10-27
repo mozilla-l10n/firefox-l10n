@@ -18,6 +18,22 @@ appmenuitem-update-banner3 =
     .label-update-unsupported = Nekompatibilní systém pro novou aktualizaci
     .label-update-restart = Nová aktualizace — restartovat
 appmenuitem-protection-dashboard-title = Přehled ochrany soukromí
+appmenuitem-banner-update-downloading =
+    .label =
+        Stahování aktualizace { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] { "" }
+        }
+appmenuitem-banner-update-available =
+    .label = Nová aktualizace — stáhnout
+appmenuitem-banner-update-manual =
+    .label = Nová aktualizace — stáhnout
+appmenuitem-banner-update-unsupported =
+    .label = Nekompatibilní systém pro novou aktualizaci
+appmenuitem-banner-update-restart =
+    .label = Nová aktualizace — restartovat
 appmenuitem-new-tab =
     .label = Nový panel
 appmenuitem-new-window =
