@@ -8,6 +8,9 @@ reload-tab =
 select-all-tabs =
     .label = ట్యాబులన్నీ ఎంచుకో
     .accesskey = S
+tab-context-play-tab =
+    .label = ప్లే ట్యాబు
+    .accesskey = P
 duplicate-tab =
     .label = ట్యాబుని నకలుతీయి
     .accesskey = D
@@ -66,4 +69,3 @@ tab-context-close-tabs =
            *[other] ట్యాబులను మూసివేయి
         }
     .accesskey = C
-
