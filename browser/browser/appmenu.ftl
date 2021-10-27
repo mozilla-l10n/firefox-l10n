@@ -18,6 +18,22 @@ appmenuitem-update-banner3 =
     .label-update-unsupported = Ажурирање није могуће – некомпатибилан систем
     .label-update-restart = Доступно је ажурирање – рестартујте прегледач
 appmenuitem-protection-dashboard-title = Контролна табла заштите
+appmenuitem-banner-update-downloading =
+    .label =
+        Преузимање ажурирања { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] програма { -brand-shorter-name }
+        }
+appmenuitem-banner-update-available =
+    .label = Доступно је ажурирање – преузмите га
+appmenuitem-banner-update-manual =
+    .label = Доступно је ажурирање – преузмите га
+appmenuitem-banner-update-unsupported =
+    .label = Ажурирање није могуће – некомпатибилан систем
+appmenuitem-banner-update-restart =
+    .label = Доступно је ажурирање – рестартујте прегледач
 appmenuitem-new-tab =
     .label = Нова картица
 appmenuitem-new-window =
