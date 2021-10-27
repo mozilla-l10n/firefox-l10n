@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Seliger tote le schedas
     .accesskey = S
+tab-context-play-tab =
+    .label = Sonar le scheda
+    .accesskey = l
 duplicate-tab =
     .label = Duplicar le scheda
     .accesskey = D
@@ -106,7 +109,6 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
