@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Vybrať všetky karty
     .accesskey = v
+tab-context-play-tab =
+    .label = Prehrať kartu
+    .accesskey = P
+tab-context-play-tabs =
+    .label = Prehrať karty
+    .accesskey = y
 duplicate-tab =
     .label = Duplikovať kartu
     .accesskey = D
@@ -107,7 +113,6 @@ tab-context-move-tabs =
            *[other] Presunúť karty
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
