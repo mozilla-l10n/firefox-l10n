@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Ընտրել բոլոր ներդիրները
     .accesskey = S
+tab-context-play-tab =
+    .label = Նվագարկել ներդիրը
+    .accesskey = l
+tab-context-play-tabs =
+    .label = Նվագարկել ներդիրները
+    .accesskey = y
 duplicate-tab =
     .label = Կրկնօրինակել ներդիրը
     .accesskey = D
@@ -86,7 +92,6 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
