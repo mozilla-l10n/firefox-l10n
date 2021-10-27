@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = ყველა ჩანართის შერჩევა
     .accesskey = შ
+tab-context-play-tab =
+    .label = ჩანართში ხმის გაშვება
+    .accesskey = ჩ
+tab-context-play-tabs =
+    .label = ჩანართში ხმის გაშვება
+    .accesskey = გ
 duplicate-tab =
     .label = ჩანართის გაორმაგება
     .accesskey = ო
@@ -103,7 +109,6 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
