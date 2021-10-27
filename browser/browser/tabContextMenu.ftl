@@ -5,6 +5,9 @@
 reload-tab =
     .label = Phinda ulayishe ithebhu
     .accesskey = P
+tab-context-play-tab =
+    .label = Dlala iThebhu
+    .accesskey = l
 close-tabs-to-the-end =
     .label = Vala iithebhu ngaseKunene
     .accesskey = n
