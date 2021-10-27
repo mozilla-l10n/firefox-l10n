@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Përzgjidhi Krejt Skedat
     .accesskey = P
+tab-context-play-tab =
+    .label = Luaje lëndën e Skedës
+    .accesskey = L
+tab-context-play-tabs =
+    .label = Luaje lëndën e Skedave
+    .accesskey = u
 duplicate-tab =
     .label = Përsëdyte Skedën
     .accesskey = P
@@ -99,7 +105,6 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
