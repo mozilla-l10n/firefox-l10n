@@ -7,6 +7,7 @@
 <!ENTITY conversationsHeader.label     "שיחות">
 <!ENTITY searchResultConversation.label "תוצאת חיפוש">
 <!ENTITY chat.noConv.title             "השיחות תוצגנה כאן.">
+<!ENTITY chat.noPreviousConv.description       "ל־&brandShortName; אין כרגע שיחות קודמות המאוחסנות עבור איש קשר זה.">
 <!ENTITY chat.noAccount.title             "טרם הגדרת חשבון צ׳אט.">
 <!ENTITY chat.accountWizard.button       "איך מתחילים">
 <!ENTITY chat.noConnectedAccount.title             "חשבונות הצ׳אט שלך אינם מחוברים.">

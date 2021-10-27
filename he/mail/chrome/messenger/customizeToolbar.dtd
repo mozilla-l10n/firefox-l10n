@@ -11,5 +11,7 @@
 <!ENTITY iconsBesideText.label    "סמלים לצד טקסט">
 <!ENTITY useSmallIcons.label      "שימוש בסמלים קטנים">
 <!ENTITY restoreDefaultSet.label  "שחזור ערכת בררת המחדל">
+<!ENTITY showTitlebar2.label      "שורת כותרת">
+<!ENTITY extraDragSpace2.label    "שטח גרירה">
 <!ENTITY saveChanges.label        "סיום">
 <!ENTITY undoChanges.label        "ביטול השינויים">
