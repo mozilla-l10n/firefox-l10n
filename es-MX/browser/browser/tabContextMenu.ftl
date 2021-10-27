@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Seleccionar todas las pestañas
     .accesskey = S
+tab-context-play-tab =
+    .label = Reproducir pestaña
+    .accesskey = P
 duplicate-tab =
     .label = Duplicar Pestaña
     .accesskey = D
@@ -107,7 +110,6 @@ tab-context-move-tabs =
            *[other] Mover pestañas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
