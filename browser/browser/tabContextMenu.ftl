@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Velg alle faner
     .accesskey = f
+tab-context-play-tab =
+    .label = Spill fane
+    .accesskey = S
 duplicate-tab =
     .label = Dupliser fane
     .accesskey = D
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
