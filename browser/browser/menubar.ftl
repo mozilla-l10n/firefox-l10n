@@ -84,6 +84,7 @@ menu-file-close-tab =
             [1] Chiudi scheda
            *[other] Chiudi { $tabCount } schede
         }
+    .accesskey = C
 menu-file-close-window =
     .label = Chiudi finestra
     .accesskey = d
