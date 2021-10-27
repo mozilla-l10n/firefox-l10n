@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Alle ljepblêden selektearje
     .accesskey = b
+tab-context-play-tab =
+    .label = Ljepblêd ôfspylje
+    .accesskey = L
+tab-context-play-tabs =
+    .label = Ljepblêden ôfspylje
+    .accesskey = s
 duplicate-tab =
     .label = Ljepblêd duplisearje
     .accesskey = e
@@ -107,7 +113,6 @@ tab-context-move-tabs =
            *[other] Ljepblêden ferpleatse
         }
     .accesskey = f
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
