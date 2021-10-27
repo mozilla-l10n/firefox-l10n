@@ -77,6 +77,14 @@ gnupg-file = קובצי GnuPG
 import-error-file-size = <b>שגיאה!</b> קבצים הגדולים מ־5MB אינם נתמכים.
 #   $error (String) - the reported error from the failed key import method
 import-error-failed = <b>שגיאה!</b> ייבוא הקובץ נכשל. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>שגיאה!</b> ייבוא המפתחות נכשל. { $error }
+openpgp-import-identity-label = זהות
+openpgp-import-fingerprint-label = טביעת אצבע
+openpgp-import-key-props =
+    .label = מאפייני מפתח
+    .accesskey = מ
 
 ## External Key section
 
+openpgp-external-key-title = מפתח GnuPG חיצוני
