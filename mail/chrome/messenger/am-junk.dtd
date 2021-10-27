@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "הגדרות זבל">
+<!ENTITY trainingDescription.label "אם אפשרות זו פעילה, עליך לאמן את &brandShortName; לזהות דואר זבל תחילה על־ידי שימוש בכפתור הזבל שבסרגל הכלים לטובת סימון הודעות אם הן זבל או לא. עליך לסייע בהבחנה בין הודעות זבל לבין כאלה שאינן. לאחר מכן, תהיה ל־&brandShortName; היכולת לסמן דואר זבל אוטומטית.">
 <!ENTITY level.label "אפשר פקדי דואר זבל מסתגלים לחשבון זה">
 <!ENTITY level.accesskey "א">
 
@@ -19,6 +20,7 @@
 <!ENTITY whitelistHeader.label "לא לסמן כזבל אוטומטית אם השולח הוא מבין אלה: ">
 <!ENTITY whitelistHeader.accesskey "ל">
 
+<!ENTITY ispHeadersWarning.label "אם אפשרות זו פעילה, &brandShortName; יתייחס אוטומטית להודעות שסומנו על־ידי המסווג החיצוני הזה כזבל.">
 <!ENTITY ispHeaders.label "סמוך על כותרי דואר זבל שנוצרו על־ידי:">
 <!ENTITY ispHeaders.accesskey "ס">
 

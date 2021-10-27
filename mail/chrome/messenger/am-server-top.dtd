@@ -72,6 +72,7 @@
 <!ENTITY advancedButton.label "מתקדם…">
 <!ENTITY advancedButton.accesskey "ק">
 <!ENTITY serverDefaultCharset2.label "קידוד טקסט כבררת מחדל:">
+<!ENTITY localPath1.label "ספרייה מקומית:">
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
 <!ENTITY browseFolder.label "עיון…">
 <!ENTITY browseFolder.accesskey "ע">

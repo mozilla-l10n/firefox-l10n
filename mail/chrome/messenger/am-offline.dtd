@@ -5,7 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "כדי לחסוך שטח דיסק, אל תוריד:">
 <!ENTITY doNotDownloadNntp.label "כדי לשמור שטח דיסק, אל תוריד לשימוש לא־מקוון:">
 <!ENTITY doNotDownloadImap.label "כדי לשמור שטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה">
+<!ENTITY allFoldersOffline2.label "להשאיר את ההודעות בכל התיקיות עבור חשבון זה במחשב זה">
 <!ENTITY allFoldersOffline2.accesskey "ש">
+<!ENTITY allFoldersOfflineNote.label "לתשומת לבך: שינוי הגדרה זו משפיע על כל התיקיות בחשבון זה. כדי להגדיר זאת עבור תיקיות באופן פרטני, יש להשתמש בכפתור מתקדם….">
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "ג">
 <!ENTITY autosyncNotDownload.label "אל תוריד הודעות גדולות מ־">
