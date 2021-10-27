@@ -5,6 +5,9 @@
 reload-tab =
     .label = Obnovi tab
     .accesskey = O
+tab-context-play-tab =
+    .label = Reproduciraj tab
+    .accesskey = p
 duplicate-tab =
     .label = Dupliciraj tab
     .accesskey = D
