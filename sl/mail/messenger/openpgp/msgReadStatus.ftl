@@ -41,6 +41,7 @@ openpgp-enc-invalid-label = Sporočila ni mogoče dešifrirati
 openpgp-enc-invalid = To sporočilo je bilo pred pošiljanjem šifrirano, vendar ga ni mogoče dešifrirati.
 openpgp-enc-clueless = S tem šifriranim sporočilom obstaja neznana težava.
 openpgp-enc-valid-label = Sporočilo je šifrirano
+openpgp-enc-valid = To sporočilo je bilo šifrirano, preden vam je bilo poslano. Šifriranje zagotavlja, da sporočilo lahko preberejo samo prejemniki, ki jim je bilo namenjeno.
 openpgp-unknown-key-id = Neznan ključ
 openpgp-other-enc-additional-key-ids = Poleg tega je bilo sporočilo šifrirano lastnikom naslednjih ključev:
 openpgp-other-enc-all-key-ids = Sporočilo je bilo šifrirano lastnikom naslednjih ključev:
