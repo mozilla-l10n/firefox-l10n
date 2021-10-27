@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Selecciona totes les pestanyes
     .accesskey = t
+tab-context-play-tab =
+    .label = Reprodueix la pestanya
+    .accesskey = x
+tab-context-play-tabs =
+    .label = Reprodueix les pestanyes
+    .accesskey = x
 duplicate-tab =
     .label = Duplica la pestanya
     .accesskey = D
@@ -103,7 +109,6 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
