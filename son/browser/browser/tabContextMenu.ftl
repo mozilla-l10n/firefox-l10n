@@ -5,6 +5,9 @@
 reload-tab =
     .label = Kanjoo dam taaga
     .accesskey = d
+tab-context-play-tab =
+    .label = Kanje hẽenandi
+    .accesskey = K
 close-tabs-to-the-end =
     .label = Kanji gumey daabu
     .accesskey = g
