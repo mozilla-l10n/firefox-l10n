@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Выбраць усе карткі
     .accesskey = ы
+tab-context-play-tab =
+    .label = Прайграць картку
+    .accesskey = П
 duplicate-tab =
     .label = Дубляваць картку
     .accesskey = Д
@@ -111,7 +114,6 @@ tab-context-move-tabs =
            *[many] Перамясціць карткі
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
