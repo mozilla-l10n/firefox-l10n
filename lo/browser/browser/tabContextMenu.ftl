@@ -5,6 +5,12 @@
 reload-tab =
     .label = ໂຫລດແທັບໃຫມ່
     .accesskey = R
+tab-context-play-tab =
+    .label = ຫລີ້ນແທັບ
+    .accesskey = l
+tab-context-play-tabs =
+    .label = ຫລີ້ນແທັບ
+    .accesskey = y
 duplicate-tab =
     .label = ເປີດແທັບທີ່ຊ້ຳກັນ
     .accesskey = D
