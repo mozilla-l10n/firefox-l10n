@@ -21,3 +21,4 @@ count-new-messages-radio =
     .label = Đếm số tin nhắn mới
     .accesskey = n
 notification-settings-info = Bạn có thể tắt huy hiệu trên ngăn thông báo của tùy chọn hệ thống.
+notification-settings-info2 = Bạn có thể tắt huy hiệu trên ngăn thông báo của cài đặt hệ thống.
