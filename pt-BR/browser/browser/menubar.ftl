@@ -80,6 +80,15 @@ menu-file-open-file =
 menu-file-close =
     .label = Fechar
     .accesskey = F
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Fechar aba
+           *[other] Fechar { $tabCount } abas
+        }
+    .accesskey = F
 menu-file-close-window =
     .label = Fechar janela
     .accesskey = h
