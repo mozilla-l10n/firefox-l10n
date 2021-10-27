@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Eiporavopaite tendayke
     .accesskey = S
+tab-context-play-tabs =
+    .label = Tendayke mboheta
+    .accesskey = y
 duplicate-tab =
     .label = Embojoyvy Tendayke
     .accesskey = D
@@ -107,7 +110,6 @@ tab-context-move-tabs =
            *[other] Eguerova tendaykekuéra
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
