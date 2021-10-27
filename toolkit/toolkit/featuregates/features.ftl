@@ -9,6 +9,10 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = მხარდაჭერილს გახდის საცდელ შესაძლებლობას სახელწოდებით CSS Masonry Layout. იხილეთ მაღალი დონის <a data-l10n-name="explainer">განმარტებითი</a> აღწერა, ამ შესაძლებლობის. უკუკავშირისთვის, გთხოვთ გამოხმაურება დატოვოთ <a data-l10n-name="w3c-issue">GitHub-ის ამ საკითხის</a> ან <a data-l10n-name="bug">ამ ხარვეზის</a> განხილვაში.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS: Cascade Layers
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = ახალი API უზრუნველყოფს დაბალი დონის მხარდაჭერას გამოთვლისა და გრაფიკული გამოსახვისთვის, <a data-l10n-name="wikipedia">ვიდეო პროცესორის (GPU)</a> გამოყენებით, მომხმარებლის მოწყობილობიდან. <a data-l10n-name="spec">მახასიათებლები</a> ჯერ კიდევ მუშავდება. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1602129</a>.

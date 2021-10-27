@@ -17,3 +17,12 @@ prompt-to-install-no-button = დაყენების გარეშე
 
 install-failed-title = { -brand-short-name } ვერ დაყენდა.
 install-failed-message = { -brand-short-name } ვერ დაყენდა, მაგრამ განაგრძობს მუშაობას.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = გაეშვას არსებული { -brand-short-name }?
+prompt-to-launch-existing-app-message = უკვე დაყენებულია { -brand-short-name }. გამოიყენეთ არსებული, განახლებისთვის და მონაცემების დაკარგვის ასარიდებლად.
+prompt-to-launch-existing-app-yes-button = არსებულის გაშვება
+prompt-to-launch-existing-app-no-button = არა, გმადლობთ
