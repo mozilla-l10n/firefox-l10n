@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Cerrar
 preferences-doc-title = Preferencias
+preferences-doc-title2 = Ajustes
 category-list =
     .aria-label = Categorías
 pane-general-title = General
@@ -118,9 +119,13 @@ default-search-engine = Buscador predeterminado
 add-search-engine =
     .label = Agregar desde archivo
     .accesskey = A
+add-web-search-engine =
+    .label = Agregar…
+    .accesskey = A
 remove-search-engine =
     .label = Eliminar
     .accesskey = E
+add-opensearch-provider-title = Agregar proveedor OpenSearch
 minimize-to-tray-label =
     .label = Cuando { -brand-short-name } está minimizado, muévalo a la bandeja
     .accesskey = m
@@ -684,6 +689,9 @@ search-preferences-input =
     .placeholder = Buscar en preferencias
 
 ## Preferences UI Search Results
+
+
+## Settings UI Search Results
 
 search-results-header = Resultados de búsqueda
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
