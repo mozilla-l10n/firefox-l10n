@@ -46,7 +46,6 @@
 <!ENTITY deleteListsCmd.label                           "מחק רשימות">
 <!ENTITY deleteItemsCmd.label                           "מחק פרטים">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "מאפיינים">
 <!ENTITY propertiesMenu.accesskey                       "א">
 <!ENTITY propertiesCmd.key                              "i">
@@ -114,6 +113,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "מ">
 <!ENTITY abPropertiesContext.label                      "מאפיינים">
 <!ENTITY abPropertiesContext.accesskey                  "א">
+<!ENTITY syncContext.label                              "סנכרון">
+<!ENTITY syncContext.accesskey                          "ס">
 <!ENTITY editContactContext.label                       "עריכת איש קשר">
 <!ENTITY editContactContext.accesskey                   "ע">
 <!ENTITY editMailingListContext.label                   "עריכת רשימה">
@@ -126,8 +127,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "פ">
 <!ENTITY deleteButton2.label                            "מחיקה">
 <!ENTITY deleteButton2.accesskey                        "מ">
+<!ENTITY removeButton.label                             "הסרה">
+<!ENTITY removeButton.accesskey                         "ה">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "בחירת עמודות להצגה">
 <!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
 <!ENTITY newlistButton.tooltip                          "צור רשימה חדשה">
 <!ENTITY editPropertiesButton.tooltip                   "עריכת הפריט הנבחר">
