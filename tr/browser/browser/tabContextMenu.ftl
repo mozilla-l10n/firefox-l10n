@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Tüm sekmeleri seç
     .accesskey = ü
+tab-context-play-tab =
+    .label = Sekmeyi oynat
+    .accesskey = o
 duplicate-tab =
     .label = Sekmeyi çoğalt
     .accesskey = o
@@ -107,7 +110,6 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
