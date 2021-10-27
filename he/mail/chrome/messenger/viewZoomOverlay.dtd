@@ -23,3 +23,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.accesskey     "א">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 
+<!ENTITY fullZoomToggleCmd.label        "שינוי גודל טקסט בלבד">
+<!ENTITY fullZoomToggleCmd.accesskey    "ט">
+<!ENTITY fullZoom.label                 "מרחק מתצוגה">
+<!ENTITY fullZoom.accesskey             "מ">

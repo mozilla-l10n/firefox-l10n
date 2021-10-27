@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- for SearchDialog.xul -->
+<!-- for SearchDialog.xhtml -->
 <!ENTITY searchHeading.label         "חפש הודעות בתוך:">
 <!ENTITY searchHeading.accesskey     "ח">
 <!ENTITY searchSubfolders.label      "חפש בתת־תיקיות">
@@ -17,19 +17,21 @@
 <!ENTITY deleteButton.accesskey      "מ">
 <!ENTITY searchDialogTitle.label     "חפש בהודעות">
 <!ENTITY results.label               "תוצאות">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY moveButton.label            "העברה אל">
+<!ENTITY moveButton.accesskey        "ע">
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "פתח בתיקיה">
 <!ENTITY openInFolder.accesskey      "ת">
 <!ENTITY saveAsVFButton.label        "שמור כתיקיית חיפוש">
 <!ENTITY saveAsVFButton.accesskey    "ת">
 
-<!-- for ABSearchDialog.xul -->
+<!-- for abSearchDialog.xhtml -->
 <!ENTITY abSearchHeading.label       "חפש בתוך:">
 <!ENTITY abSearchHeading.accesskey   "ב">
 <!ENTITY propertiesButton.label      "מאפיינים">
 <!ENTITY propertiesButton.accesskey  "מ">
 <!ENTITY composeButton.label         "כתוב הודעה">
 <!ENTITY composeButton.accesskey     "כ">
+<!ENTITY deleteCardButton.label      "מחיקה">
+<!ENTITY deleteCardButton.accesskey  "ח">
 <!ENTITY abSearchDialogTitle.label   "חיפוש מתקדם בפנקס כתובות">
-
-

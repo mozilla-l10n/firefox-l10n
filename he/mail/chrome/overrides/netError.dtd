@@ -34,6 +34,7 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li>
@@ -144,8 +145,11 @@
 </ul>
 ">
 
+<!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; מנע מדף זה להיטען בדרך הזו מכיוון שלדף יש מדיניות אבטחת תוכן שאינה מאפשרת זאת.</p>">
 
+<!ENTITY xfoBlocked.title "נחסם בהתאם למדיניות ה־X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; מנע מדף זה להיטען בהקשר זה מכיוון שלדף יש מדיניות X-Frame-Options שאינה מרשה זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
@@ -173,5 +177,7 @@ functionality specific to thunderbird. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "עמוד חסום">
 
+<!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
 <!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
