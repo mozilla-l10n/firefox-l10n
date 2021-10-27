@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Обрати всі вкладки
     .accesskey = О
+tab-context-play-tab =
+    .label = Відтворити вкладку
+    .accesskey = т
 duplicate-tab =
     .label = Дублювати вкладку
     .accesskey = ю
@@ -107,7 +110,6 @@ tab-context-move-tabs =
            *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
