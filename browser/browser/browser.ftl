@@ -442,6 +442,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Otsi otsingumootoriga { $name } või sisesta veebiaadress
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Brauserit kontrollitakse kaugelt (põhjus: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Sa oled taganud sellele saidile täiendavaid õigusi.
 urlbar-switch-to-tab =
@@ -457,21 +462,70 @@ urlbar-page-action-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Otsi privaatses aknas otsingumootoriga { $engine }
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Otsi privaatses aknas
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Otsi otsingumootoriga { $engine }
+urlbar-result-action-sponsored = Sponsitud
 urlbar-result-action-switch-tab = Vaheta kaarti
 urlbar-result-action-visit = Külasta
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Otsingumootoriga { $engine } otsimiseks vajuta tabulaatori klahvi
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Otsingumootoriga { $engine } otsimiseks vajuta tabulaatori klahvi
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Otsi otsingumootoriga { $engine } otse aadressiribalt
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Otsi otsingumootoriga { $engine } otse aadressiribalt
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopeeri
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Otsi järjehoidjatest
+urlbar-result-action-search-history = Otsi ajaloost
+urlbar-result-action-search-tabs = Otsi kaartide hulgast
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Otsingumootori { $engine } soovitused
 
 ## Full Screen and Pointer Lock UI
 

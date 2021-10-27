@@ -363,3 +363,8 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Rohkem teavet DRMi kohta…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Ava link uuel kaardil konteineris { $containerName }
+    .accesskey = k
