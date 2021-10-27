@@ -674,7 +674,7 @@
 <!ENTITY attachmentColumn.label "נספחים">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "נא לבחור עמודות להצגה">
+<!ENTITY columnChooser2.tooltip "בחירת עמודות להצגה">
 <!ENTITY threadColumn2.tooltip "הצגת נושאי דיון של הודעות">
 <!ENTITY fromColumn2.tooltip "מיון לפי מאת">
 <!ENTITY recipientColumn2.tooltip "מיון לפי נמען">
@@ -904,3 +904,4 @@
 <!ENTITY writeNewMessageDock.label      "כתיבת הודעה חדשה">
 <!ENTITY openAddressBookDock.label      "פתיחת פנקס כתובות">
 
+<!-- Content tab Navigation buttons -->

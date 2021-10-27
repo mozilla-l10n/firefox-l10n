@@ -15,13 +15,18 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "פרטי:">
 <!ENTITY NameField1.accesskey           "פ">
 <!ENTITY NameField2.label               "משפחה:">
+<!ENTITY NameField2.accesskey           "מ">
 <!ENTITY PhoneticField1.label           "פונטי:">
 <!ENTITY PhoneticField2.label           "פונטי:">
 <!ENTITY DisplayName.label              "תצוגה:">
@@ -69,7 +74,10 @@
 <!ENTITY HomeWebPage.accesskey          "ר">
 <!ENTITY Birthday.label                 "יום הולדת:">
 <!ENTITY Birthday.accesskey             "י">
+<!ENTITY Month.placeholder              "חודש">
+<!ENTITY Day.placeholder                "יום">
 <!ENTITY Year.placeholder               "שנה">
+<!ENTITY Age.label                      "גיל:">
 <!ENTITY Age.placeholder                "גיל">
 
 <!ENTITY Work.tab                       "עבודה">
@@ -108,6 +116,7 @@
 
 <!ENTITY Chat.tab                       "צ׳אט">
 <!ENTITY Chat.accesskey                 "צ">
+<!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
 <!ENTITY AIM2.accesskey                 "M">
