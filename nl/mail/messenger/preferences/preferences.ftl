@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Sluiten
 preferences-doc-title = Voorkeuren
+preferences-doc-title2 = Instellingen
 category-list =
     .aria-label = Categorieën
 pane-general-title = Algemeen
@@ -118,9 +119,13 @@ default-search-engine = Standaardzoekmachine
 add-search-engine =
     .label = Uit bestand toevoegen
     .accesskey = U
+add-web-search-engine =
+    .label = Toevoegen…
+    .accesskey = T
 remove-search-engine =
     .label = Verwijderen
     .accesskey = d
+add-opensearch-provider-title = OpenSearch-provider toevoegen
 minimize-to-tray-label =
     .label = Naar de systeembalk verplaatsen wanneer { -brand-short-name } is geminimaliseerd
     .accesskey = m
@@ -325,6 +330,8 @@ search-handler-table =
     .placeholder = Inhoudstypen en acties filteren
 type-column-label = Inhoudstype
 action-column-label = Actie
+type-column-header = Inhoudstype
+action-column-header = Actie
 save-to-label =
     .label = Bestanden opslaan in
     .accesskey = o
@@ -692,6 +699,9 @@ search-preferences-input =
     .placeholder = Zoeken in Voorkeuren
 
 ## Preferences UI Search Results
+
+
+## Settings UI Search Results
 
 search-results-header = Zoekresultaten
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
