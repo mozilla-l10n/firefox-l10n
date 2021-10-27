@@ -154,6 +154,15 @@ mr2-onboarding-colorway-header = სიცოცხლე ფერებში
 mr2-onboarding-colorway-subtitle = ხასხასა შეფერილობა. ხელმისაწვდომია, მცირე დროით
 mr2-onboarding-colorway-primary-button-label = შეფერილობის შენახვა
 mr2-onboarding-colorway-secondary-button-label = ახლა არა
+mr2-onboarding-colorway-label-soft = ღია
+mr2-onboarding-colorway-label-balanced = საშუალო
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = მუქი
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = თვითშერჩევა
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = ნაგულისხმევი
 mr1-onboarding-theme-header = გახადეთ თქვენებური
 mr1-onboarding-theme-subtitle = მოირგეთ { -brand-short-name } გაფორმებით.
 mr1-onboarding-theme-primary-button-label = გაფორმების არჩევა
@@ -259,8 +268,33 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         ცვალებადი, ფერადი გაფორმება ღილაკებზე,
         მენიუსა და ფანჯრებზე
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = ამ შეფერილობის გამოყენება.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = ამ შეფერილობის გამოყენება.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = მოსინჯეთ { $colorwayName } შეფერილობა.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = მოსინჯეთ { $colorwayName } შეფერილობა.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = მოსინჯეთ ნაგულისხმევი შეფერილობა.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = მოსინჯეთ ნაგულისხმევი შეფერილობა.
 
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = გმადლობთ, რომ ჩვენ აგვირჩიეთ
+mr2-onboarding-thank-you-text = { -brand-short-name } დამოუკიდებელი ბრაუზერია, არამომგებიანი დაწესებულებისგან. ერთად, ჩვენ ვქმნით მეტად უსაფრთხო, ჯანსაღ და პირადულ ვებსამყაროს.
 mr2-onboarding-start-browsing-button-label = გვერდების მონახულება

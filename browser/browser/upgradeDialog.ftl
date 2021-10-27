@@ -64,6 +64,19 @@ upgrade-dialog-default-secondary-button = ახლა არა
 upgrade-dialog-theme-title-2 = სუფთა ფურცლიდან, ახალთახალი გაფორმებით
 upgrade-dialog-theme-system = სისტემური გაფორმება
     .title = შეუხამებს სისტემის გაფორმებას ღილაკებს, მენიუსა და ფანჯრებს
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = სიცოცხლე ფერებში
+upgrade-dialog-start-subtitle = ხასხასა ფერთა შეხამება. ხელმისაწვდომია, მცირე დროით
+upgrade-dialog-start-primary-button = მოსინჯეთ შეფერილობა
+upgrade-dialog-start-secondary-button = ახლა არა
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = შეარჩიეთ ფერთა შეხამება
 upgrade-dialog-theme-light = ნათელი
     .title = ნათელი გაფორმება ღილაკებზე, მენიუსა და ფანჯრებზე
 upgrade-dialog-theme-dark = მუქი
@@ -74,3 +87,6 @@ upgrade-dialog-theme-keep = ადრინდელის დატოვებ
     .title = არსებული გაფორმების დატოვება, რომელსაც იყენებდა { -brand-short-name } განახლებამდე
 upgrade-dialog-theme-primary-button = გაფორმების არჩევა
 upgrade-dialog-theme-secondary-button = ახლა არა
+
+## Thank you screen
+
