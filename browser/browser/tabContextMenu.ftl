@@ -5,6 +5,12 @@
 reload-tab =
     .label = টেব পুনৰ ল'ড কৰক
     .accesskey = R
+tab-context-play-tab =
+    .label = টেব চলাওক
+    .accesskey = l
+tab-context-play-tabs =
+    .label = টেববোৰ চলাওক
+    .accesskey = y
 close-tabs-to-the-end =
     .label = সোঁফালৰ টেবসমূহক বন্ধ কৰক
     .accesskey = i
