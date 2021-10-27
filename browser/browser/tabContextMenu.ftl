@@ -8,6 +8,12 @@ reload-tab =
 select-all-tabs =
     .label = Izvēlēties visas cilnes
     .accesskey = S
+tab-context-play-tab =
+    .label = Atskaņot cilni
+    .accesskey = A
+tab-context-play-tabs =
+    .label = Atskaņot cilnes
+    .accesskey = t
 duplicate-tab =
     .label = Dublēt cilni
     .accesskey = D
@@ -63,7 +69,6 @@ tab-context-move-tabs =
            *[other] Pārvietot cilnes
         }
     .accesskey = c
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
