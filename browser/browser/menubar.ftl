@@ -76,6 +76,14 @@ menu-file-open-file =
 menu-file-close =
     .label = Chiudi
     .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Chiudi scheda
+           *[other] Chiudi { $tabCount } schede
+        }
 menu-file-close-window =
     .label = Chiudi finestra
     .accesskey = d
