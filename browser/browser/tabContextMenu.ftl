@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Izberi vse zavihke
     .accesskey = b
+tab-context-play-tab =
+    .label = Predvajaj zavihek
+    .accesskey = P
 duplicate-tab =
     .label = Podvoji zavihek
     .accesskey = o
@@ -114,7 +117,6 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
