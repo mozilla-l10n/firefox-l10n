@@ -125,7 +125,7 @@ add-web-search-engine =
 remove-search-engine =
     .label = Tynnu
     .accesskey = T
-add-opensearch-provider-title = Ychwanegu Darparwr OpenSearch?
+add-opensearch-provider-title = Ychwanegu Darparwr OpenSearch
 add-opensearch-provider-text = Rhowch URL y darparwr OpenSearch i'w ychwanegu. Naill ai defnyddiwch URL uniongyrchol y ffeil OpenSearch Description, neu URL lle mae modd ei ddarganfod yn awtomatig.
 adding-opensearch-provider-failed-title = Methodd Ychwanegu Darparwr OpenSearch
 adding-opensearch-provider-failed-text = Nid oedd modd ychwanegu OpenSearch Provider ar gyfer { $url }.
@@ -696,6 +696,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Canfod yn y Gosodiadau
 
 ## Settings UI Search Results
 
@@ -705,5 +716,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
        *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
+       *[other] Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Angen cymorth? Ewch i <a data-l10n-name="url">Cefnogaeth { -brand-short-name }</a>
