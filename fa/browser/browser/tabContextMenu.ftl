@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = انتخاب همه‌ی زبانه‌ها
     .accesskey = S
+tab-context-play-tab =
+    .label = پخش زبانه
+    .accesskey = پ
 duplicate-tab =
     .label = تکرار کردن زبانه
     .accesskey = D
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] جابجایی زبانه‌ها
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
