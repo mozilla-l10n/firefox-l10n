@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 離開 { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = 結束 { -brand-shorter-name }
-
 menu-about =
     .label = 關於 { -brand-shorter-name }
     .accesskey = A
@@ -83,6 +79,15 @@ menu-file-open-file =
     .accesskey = O
 menu-file-close =
     .label = 關閉
+    .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] 關閉分頁
+           *[other] 關閉 { $tabCount } 個分頁
+        }
     .accesskey = C
 menu-file-close-window =
     .label = 關閉視窗
