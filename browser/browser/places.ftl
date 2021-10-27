@@ -108,7 +108,7 @@ places-remove-bookmark =
         }
     .accesskey = e
 places-show-in-folder =
-    .label = 显示所在文件夹
+    .label = 在文件夹中显示
     .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.

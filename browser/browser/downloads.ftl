@@ -39,24 +39,33 @@ downloads-cmd-show-menuitem =
     .accesskey = F
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
-    .label = 在 Finder 中显示
+    .label = 在访达中显示
+    .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] 在访达中显示
+           *[other] 在文件夹中显示
+        }
     .accesskey = F
 downloads-cmd-use-system-default =
     .label = 用系统查看器打开
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = 一律使用系统查看器打开
     .accesskey = w
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
-            [macos] 在 Finder 中显示
+            [macos] 在访达中显示
            *[other] 打开所在文件夹
         }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
-            [macos] 在 Finder 中显示
+            [macos] 在访达中显示
            *[other] 打开所在文件夹
         }
 downloads-cmd-show-description =
