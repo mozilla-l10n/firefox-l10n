@@ -8,6 +8,12 @@ reload-tab =
 select-all-tabs =
     .label = Selezione dutis lis schedis
     .accesskey = S
+tab-context-play-tab =
+    .label = Riprodûs schede
+    .accesskey = l
+tab-context-play-tabs =
+    .label = Riprodûs schedis
+    .accesskey = û
 duplicate-tab =
     .label = Dupliche schede
     .accesskey = D
@@ -96,7 +102,6 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
