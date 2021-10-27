@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Показати у Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Показати у Finder
+           *[other] Показати у теці
+        }
+    .accesskey = з
 downloads-cmd-use-system-default =
     .label = Відкрити у системному переглядачі
     .accesskey = п
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Завжди відкривати у системному переглядачі
     .accesskey = в
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Показати у Finder
            *[other] Відкрити теку з файлом
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Завжди відкривати схожі файли
+    .accesskey = х
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Показати у Finder
+           *[other] Показати у теці
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Показати у Finder
+           *[other] Показати у теці
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Показати у Finder
+           *[other] Показати у теці
         }
 downloads-cmd-show-downloads =
     .label = Показати теку завантажень
@@ -162,3 +194,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Немає завантажень в цьому сеансі.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } інший файл завантажується
+        [few] { $count } інші файли завантажуються
+       *[many] { $count } інших файлів завантажуються
+    }
