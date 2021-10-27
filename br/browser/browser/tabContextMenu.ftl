@@ -8,6 +8,9 @@ reload-tab =
 select-all-tabs =
     .label = Diuzañ an holl ivinelloù
     .accesskey = D
+tab-context-play-tab =
+    .label = Lenn an ivinell
+    .accesskey = L
 duplicate-tab =
     .label = Eilañ an ivinell
     .accesskey = E
@@ -79,7 +82,6 @@ tab-context-move-tabs =
            *[other] Dilec'hiañ an ivinelloù
         }
     .accesskey = D
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
