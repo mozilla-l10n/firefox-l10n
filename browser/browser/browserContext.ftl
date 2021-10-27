@@ -257,6 +257,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Salvesta audio kui…
     .accesskey = a
+main-context-menu-video-take-snapshot =
+    .label = Tee pilti…
+    .accesskey = T
 main-context-menu-video-email =
     .label = Saada video e-postiga…
     .accesskey = i
@@ -280,9 +283,21 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Kasuta salvestatud kasutajakontot
+    .accesskey = u
+main-context-menu-use-saved-password =
+    .label = Kasuta salvestatud parooli
+    .accesskey = u
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Soovita tugevat parooli…
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = Halda kasutajakontosid
+    .accesskey = H
 main-context-menu-keyword =
     .label = Lisa võti sellele otsingule...
     .accesskey = v
@@ -319,9 +334,18 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Vaata paneeli teavet
     .accesskey = i
+main-context-menu-print-selection =
+    .label = Prindi valik
+    .accesskey = P
 main-context-menu-view-selection-source =
     .label = Vaata valiku lähtekoodi
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Tee ekraanipilt
+    .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = Tee ekraanipilt
+    .accesskey = T
 main-context-menu-view-page-source =
     .label = Vaata veebilehe lähtekoodi
     .accesskey = t
@@ -331,6 +355,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Muuda lehe suunda
     .accesskey = h
+main-context-menu-inspect =
+    .label = Inspekteeri
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Inspect Accessibility Properties
 main-context-menu-eme-learn-more =
