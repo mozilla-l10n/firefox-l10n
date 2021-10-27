@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = تمام ٹیب منتخب کریں
     .accesskey = S
+tab-context-play-tab =
+    .label = ٹیب چلائیں
+    .accesskey = چ
 duplicate-tab =
     .label = دوهرا ٹیب
     .accesskey = D
@@ -85,4 +88,3 @@ tab-context-move-tabs =
            *[other] ٹیب منتقل کریں
         }
     .accesskey = v
-
