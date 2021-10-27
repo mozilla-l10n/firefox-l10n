@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Vybrat všechny panely
     .accesskey = a
+tab-context-play-tab =
+    .label = Spustit v panelu přehrávání
+    .accesskey = p
+tab-context-play-tabs =
+    .label = Spustit v panelech přehrávání
+    .accesskey = p
 duplicate-tab =
     .label = Duplikovat panel
     .accesskey = D
@@ -109,7 +115,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } panelů
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
