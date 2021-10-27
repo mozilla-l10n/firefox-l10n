@@ -126,3 +126,5 @@ about-addressbook-details-phone-numbers-header = Số điện thoại
 about-addressbook-details-home-address-header = Địa chỉ nhà
 about-addressbook-details-work-address-header = Địa chỉ cơ quan
 about-addressbook-details-other-info-header = Thông tin khác
+about-addressbook-prompt-to-save-title = Lưu thay đổi?
+about-addressbook-prompt-to-save = Bạn có muốn lưu các thay đổi của bạn?

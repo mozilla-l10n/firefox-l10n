@@ -18,6 +18,15 @@ rights-intro-point-5-unbranded = Nếu sản phẩm này kết hợp các dịch
 rights-intro-point-6 = Để có thể phát một số loại nội dung video, { -brand-short-name } cần tải xuống một số mô đun giải mã nội dung từ một bên thứ ba.
 rights-webservices-header = Dịch vụ Thông tin Dựa trên Web { -brand-full-name }
 rights-webservices = { -brand-full-name } dùng dịch vụ thông tin dựa trên web ("Dịch Vụ") để cung cấp một số tính năng mà bạn dùng trong phiên bản { -brand-short-name } theo điều khoản được mô tả bên dưới. Nếu bạn không muốn dùng một hoặc nhiều Dịch Vụ hoặc điều khoản bên dưới không chấp nhận được, bạn có thể vô hiệu hóa tính năng hoặc Dịch Vụ. Chỉ dẫn cho cách vô hiệu hóa một tính năng hay Dịch Vụ đặc thù có thể được tìm <a data-l10n-name="mozilla-disable-service-link">tại đây</a>. Các tính năng và dịch vụ khác có thể bị tắt trong phần tùy chỉnh ứng dụng.
+rights-webservices2 =
+    { -brand-full-name } sử dụng các dịch vụ thông tin dựa trên web (“dịch vụ”) để
+    cung cấp một số tính năng được cung cấp cho bạn sử dụng với phiên bản
+    nhị phân này của { -brand-short-name } theo các điều khoản được mô tả bên
+    dưới. Nếu bạn không muốn sử dụng một hoặc nhiều Dịch vụ hoặc các điều
+    khoản dưới đây không được chấp nhận, bạn có thể vô hiệu hóa tính năng
+    hoặc (các) dịch vụ. Bạn có thể tìm thấy hướng dẫn về cách tắt một tính năng
+    hoặc dịch vụ cụ thể <a data-l10n-name="mozilla-disable-service-link">tại đây</a>.
+    Các tính năng và dịch vụ khác có thể tắt trong cài đặt ứng dụng.
 rights-locationawarebrowsing = <strong>Duyệt web Nhận diện Vị trí: </strong>luôn có sẵn. Không có thông tin địa điểm nào được gửi đi mà không có sự cho phép của bạn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng này, làm theo các bước sau:
 rights-locationawarebrowsing-term-1 = Trong thanh URL, gõ <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Gõ geo.enabled
