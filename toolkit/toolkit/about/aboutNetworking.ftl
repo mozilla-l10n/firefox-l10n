@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = 地址
 about-networking-expires = 过期时间 (秒)
 about-networking-originAttributesSuffix = 隔离键(值)
+about-networking-flags = 额外标记
 about-networking-messages-sent = 发出的信息数
 about-networking-messages-received = 收到的信息数
 about-networking-bytes-sent = 发送字节数
