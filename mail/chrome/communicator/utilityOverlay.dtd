@@ -17,6 +17,8 @@
 <!ENTITY redoCmd.accesskey          "צ">
 <!ENTITY deleteCmd.label          "מחק">
 <!ENTITY deleteCmd.accesskey        "ח">
+<!ENTITY customizeCmd.label "התאמה אישית">
+<!ENTITY customizeCmd.accesskey "ה">
 
 <!ENTITY viewMenu.label          "תצוגה">
 <!ENTITY viewMenu.accesskey        "ת">
