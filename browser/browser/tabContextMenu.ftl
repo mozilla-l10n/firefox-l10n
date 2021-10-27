@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Tscherner tut ils tabs
     .accesskey = T
+tab-context-play-tab =
+    .label = Far ir il tab
+    .accesskey = I
+tab-context-play-tabs =
+    .label = Far ir ils tabs
+    .accesskey = r
 duplicate-tab =
     .label = Duplitgar il tab
     .accesskey = D
@@ -105,7 +111,6 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
