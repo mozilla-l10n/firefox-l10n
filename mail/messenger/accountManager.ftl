@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Налаштування { -brand-short-name }
+open-preferences-sidebar-button2 = Налаштування { -brand-short-name }
 open-addons-sidebar-button = Додатки й теми
 account-action-add-newsgroup-account =
     .label = Додати обліковий запис групи новин…
