@@ -5,6 +5,9 @@
 reload-tab =
     .label = Herlaai oortjie
     .accesskey = H
+tab-context-play-tab =
+    .label = Speel oortjie
+    .accesskey = l
 close-tabs-to-the-end =
     .label = Sluit oortjies wat regs lê
     .accesskey = e
