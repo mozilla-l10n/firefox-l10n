@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Zaznacz wszystkie karty
     .accesskey = c
+tab-context-play-tab =
+    .label = Odtwarzaj
+    .accesskey = O
+tab-context-play-tabs =
+    .label = Odtwarzaj
+    .accesskey = O
 duplicate-tab =
     .label = Duplikuj kartę
     .accesskey = u
@@ -105,7 +111,6 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
