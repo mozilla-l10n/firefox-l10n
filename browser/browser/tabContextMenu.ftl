@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Выбрать все вкладки
     .accesskey = б
+tab-context-play-tab =
+    .label = Воспроизвести звук во вкладке
+    .accesskey = о
+tab-context-play-tabs =
+    .label = Воспроизвести звук во вкладках
+    .accesskey = и
 duplicate-tab =
     .label = Дублировать вкладку
     .accesskey = л
@@ -111,7 +117,6 @@ tab-context-move-tabs =
            *[many] { $tabCount } вкладок
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
