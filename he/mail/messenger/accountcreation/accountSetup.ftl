@@ -154,21 +154,69 @@ account-setup-warning-cleartext = ‏<b>{ $server }</b> אינו משתמש בה
 account-setup-warning-cleartext-details = שרתי דואר שאינם מאובטחים לא משתמשים בחיבורים מוצפנים כדי להגן על הססמאות שלך ומידע פרטי. התחברות לשרתים אלו עשוייה לחשוף את הססמאות שלך ומידע פרטי.
 account-setup-insecure-server-checkbox = הסיכונים מובנים לי
     .accesskey = ס
+account-setup-insecure-description = ‏{ -brand-short-name } יכול לאפשר לך לקבל את הדואר שלך עם ההגדרות שסופקו. למרות זאת, כדאי ליצור קשר עם המנהל או ספק שירות הדוא״ל שלך בנוגע לחיבורים לא תקינים אלו. ניתן לעיין <a data-l10n-name="thunderbird-faq-link">בשו״ת של Thunderbird</a> למידע נוסף.
+insecure-dialog-cancel-button = שינוי הגדרות
+    .accesskey = ש
+insecure-dialog-confirm-button = אישור
+    .accesskey = א
 
 ## Warning Exchange confirmation dialog
 
+exchange-dialog-cancel-button = ביטול
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = לא הוגדר חשבון דוא״ל
+exit-dialog-description = לבטל את תהליך הגדרת החשבון? ניתן עדיין להשתמש ב־{ -brand-short-name } בלי חשבון דוא״ל, אך תכונות רבות לא תהיינה זמינות.
+account-setup-no-account-checkbox = שימוש ב־{ -brand-short-name } ללא חשבון דוא״ל
+    .accesskey = ש
+exit-dialog-cancel-button = המשך בהגדרת החשבון
+    .accesskey = ה
+exit-dialog-confirm-button = יציאה מהגדרת החשבון
+    .accesskey = י
 
 ## Alert dialogs
 
+account-setup-creation-error-title = שגיאה ביצירת החשבון
+account-setup-error-server-exists = שרת דואר נכנס כבר קיים.
 
 ## Addon installation section
 
+account-setup-addon-install-title = התקנה
+account-setup-addon-install-intro = תוספת מצד שלישי יכולה לאפשר לך לגשת לחשבון הדוא״ל שלך בשרת זה:
+account-setup-addon-no-protocol = שרת דוא״ל זה אינו תומך בפרוטוקולים פתוחים למרבה הצער. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = הגדרות חשבון
+account-setup-encryption-button = הצפנה מקצה לקצה
+account-setup-signature-button = הוספת חתימה
+account-setup-dictionaries-button = הורדת מילונים
+account-setup-calendar-button = התחברות ללוח שנה מרוחק
+account-setup-linked-services-title = התחברות לשירותים המקושרים שלך
+account-setup-linked-services-description = ‏{ -brand-short-name } זיהה שירותים אחרים המקושרים לחשבון הדוא״ל שלך.
+account-setup-button-finish = סיום
+    .accesskey = ס
+account-setup-calendars-button = לוחות שנה
 
 ## Calendar synchronization dialog
 
+calendar-dialog-cancel-button = ביטול
+    .accesskey = ב
+account-setup-calendar-name-label = שם
+account-setup-calendar-name-input =
+    .placeholder = לוח השנה שלי
+account-setup-calendar-color-label = צבע
+account-setup-calendar-refresh-label = רענון
+account-setup-calendar-refresh-manual = באופן ידני
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] כל דקה
+       *[other] כל { $count } דקות
+    }
+account-setup-calendar-read-only = לקריאה בלבד
+    .accesskey = ק
+account-setup-calendar-show-reminders = הצגת תזכורות
+    .accesskey = ה
+account-setup-calendar-offline-support = תמיכה במצב לא מקוון
+    .accesskey = ת
