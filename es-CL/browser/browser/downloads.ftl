@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Mostrar en el Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar en carpeta
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Abrir en el visor del sistema
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Abrir siempre en el visor del sistema
     .accesskey = w
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Mostrar en el Finder
            *[other] Abrir carpeta contenedora
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Siempre abrir archivos similares
+    .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar en carpeta
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar en carpeta
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar carpeta
         }
 downloads-cmd-show-downloads =
     .label = Mostrar carpeta de descargas
