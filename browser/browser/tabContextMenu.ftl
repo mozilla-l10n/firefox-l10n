@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Összes lap kiválasztása
     .accesskey = e
+tab-context-play-tab =
+    .label = Lap lejátszása
+    .accesskey = L
+tab-context-play-tabs =
+    .label = Lapok lejátszása
+    .accesskey = j
 duplicate-tab =
     .label = Lap duplikálása
     .accesskey = d
@@ -107,7 +113,6 @@ tab-context-move-tabs =
            *[other] Lapok áthelyezése
         }
     .accesskey = h
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
