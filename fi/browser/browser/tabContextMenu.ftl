@@ -11,6 +11,9 @@ reload-tab =
 select-all-tabs =
     .label = Valitse kaikki välilehdet
     .accesskey = a
+tab-context-play-tab =
+    .label = Toista välilehden äänet
+    .accesskey = T
 duplicate-tab =
     .label = Monista välilehti
     .accesskey = n
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Siirrä välilehdet
         }
     .accesskey = r
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
