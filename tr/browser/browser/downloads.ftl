@@ -44,6 +44,8 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Sistem görüntüleyicisinde aç
     .accesskey = S
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Her zaman sistem görüntüleyicisinde aç
     .accesskey = H
@@ -162,3 +164,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Bu oturumda indirme yapılmadı.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } dosya daha indiriliyor
+       *[other] { $count } dosya daha indiriliyor
+    }
