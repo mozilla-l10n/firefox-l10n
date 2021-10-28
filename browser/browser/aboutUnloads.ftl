@@ -21,6 +21,9 @@ about-unloads-intro-2 =
     a <em>kursiwnje</em>, gaž proces se mjazy rozdźělnymi rejtarikami źěli.
     Móžośo rejtarik manuelnje zapušćiś, gaž na tłocašk <em>Wótwónoźeś</em>
     dołojce klikaśo.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Glejśo <a data-l10n-name="doc-link">pušćenje rejtarikow</a>, aby wěcej wó toś tej funkciji a toś tom boku zgónił.
 about-unloads-last-updated = Slědna aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Wótwónoźeś
     .title = Rejtarik z nejwušeju prioritu wótwónoźeś
