@@ -633,9 +633,26 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Paranda teksti kodeering
+    .tooltiptext = Tuvasta lehe sisu alusel korrektne kodeering
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Lisad ja teemad
+    .tooltiptext = Halda lisasid ja teemasid ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Sätted
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ava sätted ({ $shortcut })
+           *[other] Ava sätted
+        }
 
 ## More items
 
@@ -670,18 +687,34 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Osa sellel lehel olevast audiost või videost kasutab DRM-tarkvara, mis võib piirata seda, mida { -brand-short-name } saab lubada sul sellega teha.
+eme-notifications-drm-content-playing-manage = Halda sätteid
+eme-notifications-drm-content-playing-manage-accesskey = H
+eme-notifications-drm-content-playing-dismiss = Peida
+eme-notifications-drm-content-playing-dismiss-accesskey = P
 
 ## Password save/update panel
 
+panel-save-update-username = Kasutajanimi
+panel-save-update-password = Parool
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Kas eemaldada lisa { $name }?
+addon-removal-abuse-report-checkbox = Teavita { -vendor-short-name }t sellest lisast
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Halda kontot
+remote-tabs-sync-now = Sünkroniseeri kohe
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Veel…
 ui-tour-info-panel-close =
     .tooltiptext = Sulge
 
@@ -700,6 +733,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Seda teadet ei näidata, kui hüpikaknad blokitakse
     .accesskey = d
+edit-popup-settings =
+    .label = Halda hüpikakende sätteid
+    .accesskey = H
 picture-in-picture-hide-toggle =
     .label = Peida pilt-pildis lüliti
     .accesskey = p
@@ -746,3 +782,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Kas avada eelmised kaardid?</strong> Sul on võimalus taastada eelmine seanss, avades { -brand-short-name }i rakenduse menüü <img data-l10n-name="icon"/> ja sealt Ajalugu.
+restore-session-startup-suggestion-button = Näita juhiseid
