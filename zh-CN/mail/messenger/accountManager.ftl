@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = { -brand-short-name } 首选项
+open-preferences-sidebar-button2 = { -brand-short-name } 设置
 open-addons-sidebar-button = 扩展和主题
 account-action-add-newsgroup-account =
     .label = 新建新闻组账户...
