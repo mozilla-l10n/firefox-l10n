@@ -14,6 +14,7 @@ rights-intro-point-5-unbranded = 如果此产品结合了网站服务，任何�
 rights-intro-point-6 = 为了能够播放某些类型的视频内容，{ -brand-short-name } 会下载一些来自第三方的内容解密模块。
 rights-webservices-header = { -brand-full-name } 基于网络的信息服务
 rights-webservices = { -brand-full-name } 依照下列条款，为该二进制版本 { -brand-short-name } 的用户使用基于网络的信息服务（以下简称“服务”）提供某些功能。如果您不想使用其中的一项或者多项服务，或者不接受下述条款，您可以停用相应功能或服务。停用特定功能或服务的说明信息请参见<a data-l10n-name="mozilla-disable-service-link">这里</a>。其他特性和服务可以在本应用程序的首选项中禁用。
+rights-webservices2 = { -brand-full-name } 依照下列条款，为该二进制版本 { -brand-short-name } 的用户使用基于网络的信息服务（以下简称“服务”）提供某些功能。如果您不想使用其中的一项或者多项服务，或者不接受下述条款，您可以停用相应功能或服务。停用特定功能或服务的说明信息请参见<a data-l10n-name="mozilla-disable-service-link">这里</a>。其他特性和服务可以在本应用程序的设置中禁用。
 rights-locationawarebrowsing = <strong>位置感知浏览：</strong>是否启用的选择权永远在您的手中。未经您的许可不会有位置信息被发送。如果您想完全禁用此功能，请按照下列步骤操作：
 rights-locationawarebrowsing-term-1 = 在地址栏中，输入 <code>about:config</code>
 rights-locationawarebrowsing-term-2 = 输入 geo.enabled
