@@ -126,6 +126,9 @@ remove-search-engine =
     .label = Verwijderen
     .accesskey = d
 add-opensearch-provider-title = OpenSearch-provider toevoegen
+add-opensearch-provider-text = Voer de URL in van de OpenSearch-provider die u wilt toevoegen. Gebruik de directe URL van het OpenSearch-beschrijvingsbestand of een URL waar het automatisch kan worden gevonden.
+adding-opensearch-provider-failed-title = Toevoegen van OpenSearch-provider mislukt
+adding-opensearch-provider-failed-text = Kan OpenSearch-provider voor { $url } niet toevoegen.
 minimize-to-tray-label =
     .label = Naar de systeembalk verplaatsen wanneer { -brand-short-name } is geminimaliseerd
     .accesskey = m
@@ -161,6 +164,7 @@ app-icon-options =
            *[other] T
         }
 notification-settings = Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.
+notification-settings2 = Waarschuwingen en het standaardgeluid kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeeminstellingen.
 animated-alert-label =
     .label = Een waarschuwing tonen
     .accesskey = r
@@ -700,6 +704,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Zoeken in instellingen
 
 ## Settings UI Search Results
 
@@ -709,5 +724,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span data-l10n-name="query"></span>’.
        *[other] Sorry! Er zijn geen resultaten in Voorkeuren voor ‘<span data-l10n-name="query"></span>’.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Sorry! Er zijn geen resultaten in Opties voor ‘<span data-l10n-name="query"></span>’.
+       *[other] Sorry! Er zijn geen resultaten in Instellingen voor ‘<span data-l10n-name="query"></span>’.
     }
 search-results-help-link = Hulp nodig? Bezoek <a data-l10n-name="url">{ -brand-short-name } Ondersteuning</a>
