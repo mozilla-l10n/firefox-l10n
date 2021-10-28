@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Voorkeuren
     .accesskey = V
+menu-tools-settings =
+    .label = Instellingen
+    .accesskey = e
 menu-addons-and-themes =
     .label = Add-ons en thema’s
     .accesskey = A

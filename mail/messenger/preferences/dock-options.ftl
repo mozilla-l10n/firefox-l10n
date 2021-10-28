@@ -33,3 +33,4 @@ count-new-messages-radio =
     .label = Aantal nieuwe berichten
     .accesskey = n
 notification-settings-info = U kunt de badge uitschakelen via het paneel Berichtgeving in Systeemvoorkeuren.
+notification-settings-info2 = U kunt de badge uitschakelen via het paneel Berichtgeving in Systeeminstellingen.
