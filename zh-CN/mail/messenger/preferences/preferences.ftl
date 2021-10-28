@@ -377,7 +377,7 @@ open-msg-ex-window =
     .label = 在现有的窗口
     .accesskey = e
 close-move-delete =
-    .label = 移动或删除后关闭消息窗口/标签页
+    .label = 移动或删除邮件后关闭消息窗口/标签页
     .accesskey = C
 display-name-label =
     .value = 显示名称
@@ -388,7 +388,7 @@ condensed-addresses-label =
 ## Compose Tab
 
 forward-label =
-    .value = 转发消息：
+    .value = 转发邮件：
     .accesskey = F
 inline-label =
     .label = 内联
