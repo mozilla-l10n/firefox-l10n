@@ -17,7 +17,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "ยังไม่มีบัญชีที่กำหนดค่า">
-<!ENTITY accountManager.noAccount.description "คลิกที่ปุ่ม &accountManager.newAccount.label; เพื่อให้ &brandShortName; แนะนำคุณผ่านกระบวนการกำหนดค่า">
+<!ENTITY accountManager.noAccount.description "คลิกที่ปุ่ม &accountManager.newAccount.label; เพื่อให้ &brandShortName; แนะนำกระบวนการกำหนดค่าให้กับคุณ">
 <!ENTITY account.autoSignOn.label     "ลงชื่อเข้าเมื่อเริ่มการทำงาน">
 <!ENTITY account.autoSignOn.accesskey "ล">
 <!ENTITY account.connect.label        "เชื่อมต่อ">

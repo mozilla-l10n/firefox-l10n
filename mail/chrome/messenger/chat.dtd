@@ -10,7 +10,7 @@
 <!ENTITY chat.noConv.description       "เลือกผู้ติดต่อจากรายชื่อที่อยู่ในแผงด้านซ้ายเพื่อเริ่มการสนทนา">
 <!ENTITY chat.noPreviousConv.description       "ขณะนี้ &brandShortName; ไม่มีการสนทนาก่อนหน้าใด ๆ ที่เก็บไว้สำหรับผู้ติดต่อนี้">
 <!ENTITY chat.noAccount.title             "คุณยังไม่ได้ตั้งค่าบัญชีแชท">
-<!ENTITY chat.noAccount.description       "ให้ &brandShortName; แนะนำคุณผ่านกระบวนการตั้งค่าบัญชีแชทของคุณ">
+<!ENTITY chat.noAccount.description       "ให้ &brandShortName; แนะนำกระบวนการตั้งค่าบัญชีแชทของคุณ">
 <!ENTITY chat.accountWizard.button       "เริ่มต้นใช้งาน">
 <!ENTITY chat.noConnectedAccount.title             "บัญชีแชทของคุณไม่ได้ถูกเชื่อมต่อ">
 <!ENTITY chat.noConnectedAccount.description       "คุณสามารถเชื่อมต่อบัญชีแชทได้จากกล่องโต้ตอบ 'สถานะการแชท':">
