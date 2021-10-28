@@ -121,6 +121,10 @@ cfr-doorhanger-video-support-primary-button = 지금 업데이트
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = 더 알아보기
+    .title = 기능에 대해 더 알아보려면 확장하세요
+spotlight-learn-more-expanded = 더 알아보기
+    .title = 닫기
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -138,4 +142,6 @@ spotlight-public-wifi-vpn-link = 나중에
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-body = 전체 쿠키 보호는 추적기가 쿠키를 사용하여 웹에서 사용자를 스토킹하는 것을 방지합니다.
+spotlight-total-cookie-protection-primary-button = 전체 쿠키 보호 켜기
 spotlight-total-cookie-protection-secondary-button = 나중에
