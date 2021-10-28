@@ -38,20 +38,16 @@ menu-quit =
             [windows] G
            *[other] G
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Gadael { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Gadael { -brand-shorter-name }
-
 menu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
@@ -83,6 +79,20 @@ menu-file-open-file =
     .accesskey = F
 menu-file-close =
     .label = Cau
+    .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Cau Tab
+            [zero] Cau { $tabCount } Tab
+            [one] Cau { $tabCount } Tab
+            [two] Cau { $tabCount } Dab
+            [few] Cau { $tabCount } Thab
+            [many] Cau { $tabCount } Thab
+           *[other] Cau { $tabCount } Tab
+        }
     .accesskey = C
 menu-file-close-window =
     .label = Cau Ffenestr
