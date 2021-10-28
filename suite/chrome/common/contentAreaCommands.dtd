@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Context Menu -->
 <!ENTITY openLinkCmdInTab.label       "ბმულის ახალ ჩანართზე გახსნა">
 <!ENTITY openLinkCmdInTab.accesskey   "გ">
 <!ENTITY openLinkCmd.label            "ბმულის ახალ სარკმლეში გახსნა">
@@ -115,7 +116,7 @@
 <!ENTITY mediaPlaybackRate150.accesskey "უ">
 <!ENTITY mediaPlaybackRate200.label     "ორმაგი სიჩქარის">
 <!ENTITY mediaPlaybackRate200.accesskey "ო">
-<!ENTITY mediaLoop.label              "გამეორება დაუსრულებლად">
+<!ENTITY mediaLoop.label              "გამეორება უსასრულოდ">
 <!ENTITY mediaLoop.accesskey          "გ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
