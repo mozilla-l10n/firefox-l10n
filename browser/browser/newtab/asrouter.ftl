@@ -142,6 +142,14 @@ spotlight-public-wifi-vpn-link = 나중에
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    가장 강력한 개인 정보 보호 기능을
+    최초로 시험해 보세요
 spotlight-total-cookie-protection-body = 전체 쿠키 보호는 추적기가 쿠키를 사용하여 웹에서 사용자를 스토킹하는 것을 방지합니다.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }는 쿠키 주위에 울타리를 치고 사용자가 있는 사이트로 제한하므로 추적기가 사용자를 팔로우하는 데 쿠키를 사용할 수 없습니다. 먼저 이용해 보시면 이 기능을 최적화하는데 도움이 되므로 저희가 모든 사용자를 위한 더 나은 웹을 계속 구축할 수 있습니다.
 spotlight-total-cookie-protection-primary-button = 전체 쿠키 보호 켜기
 spotlight-total-cookie-protection-secondary-button = 나중에
