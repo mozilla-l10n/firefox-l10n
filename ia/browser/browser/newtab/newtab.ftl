@@ -222,7 +222,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Nos non ha potite car
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subjectos popular:
-newtab-pocket-new-topics-title = Vole tu ancora plus historias? Vider iste popular argumentos de { -pocket-brand-name }
+newtab-pocket-new-topics-title = Vole ancora plus historias? Vide iste topicos popular de { -pocket-brand-name }
 newtab-pocket-more-recommendations = Altere recommendationes
 newtab-pocket-learn-more = Saper plus
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
@@ -232,15 +232,15 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } es parte del famili
 newtab-pocket-save-to-pocket = Salvar in { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Salvate in { -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Cargar altere historias
+newtab-pocket-load-more-stories-button = Cargar plus historias
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Vos tote es attrappate!
-newtab-pocket-last-card-desc = Controla de novo plus tarde pro altero.
+newtab-pocket-last-card-title = Tu es toto al currente!
+newtab-pocket-last-card-desc = Reveni plus tarde pro leger plus.
 newtab-pocket-last-card-image =
-    .alt = Vos tote es attrappate
+    .alt = Tu es toto al currente
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

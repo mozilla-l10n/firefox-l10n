@@ -7,13 +7,13 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Thema del systema — automatic
-extension-default-theme-description = Seque le thema del systema operative pro buttones, menus e fenestras.
+extension-default-theme-description = Sequer le thema del systema de operation pro buttones, menus e fenestras.
 extension-firefox-compact-light-name = Clar
 extension-firefox-compact-light-description = Un thema con colores clar.
 extension-firefox-compact-dark-name = Obscur
 extension-firefox-compact-dark-description = Un thema con colores obscur.
 extension-firefox-alpenglow-name = Firefox Alpenglow
-extension-firefox-alpenglow-description = Usa un apparentia colorate pro buttones, menus e fenestras.
+extension-firefox-alpenglow-description = Usar un apparentia colorate pro buttones, menus e fenestras.
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
