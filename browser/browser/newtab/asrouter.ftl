@@ -121,15 +121,27 @@ cfr-doorhanger-video-support-header = Mettez à jour { -brand-short-name } pour 
 cfr-doorhanger-video-support-primary-button = Mettre à jour
     .accesskey = M
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = En savoir plus
+    .title = Développer pour en savoir plus sur la fonctionnalité
+spotlight-learn-more-expanded = En savoir plus
+    .title = Fermer
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Vous semblez utiliser un Wi-Fi public
 spotlight-public-wifi-vpn-body = Afin de masquer votre emplacement et votre activité de navigation, envisagez l’usage d’un réseau privé virtuel (VPN). Il vous aidera à vous protéger lorsque vous naviguerez dans des lieux publics comme les aéroports et les cafés.
 spotlight-public-wifi-vpn-primary-button = Gardez votre vie privée avec { -mozilla-vpn-brand-name }
     .accesskey = G
 spotlight-public-wifi-vpn-link = Plus tard
     .accesskey = t
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-body = La protection totale des cookies empêche les traqueurs d’utiliser des cookies pour vous pister sur le Web.
