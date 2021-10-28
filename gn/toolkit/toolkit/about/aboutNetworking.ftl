@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Kundaharape
 about-networking-expires = Paha (aravo’ive)
 about-networking-originAttributesSuffix = Mba’eñemi momombyryha
+about-networking-flags = Poyvi ykeguáva
 about-networking-messages-sent = Marandu mondopyre
 about-networking-messages-received = Marandu japyhypyre
 about-networking-bytes-sent = Bytes mondopyre
