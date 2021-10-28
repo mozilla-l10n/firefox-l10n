@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Mussar en il finder
     .accesskey = f
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Mussar en il Finder
+           *[other] Mussar en l'ordinatur
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Avrir cun il program da standard
     .accesskey = v
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Adina avrir cun il program da standard
     .accesskey = u
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Mussar en il finder
            *[other] Mussar l'ordinatur che cuntegna la datoteca
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Adina avrir datotecas sumegliantas
+    .accesskey = v
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mussar en il Finder
+           *[other] Mussar en l'ordinatur
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mussar en il Finder
+           *[other] Mussar en l'ordinatur
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Mussar en il Finder
+           *[other] Mussar en l'ordinatur
         }
 downloads-cmd-show-downloads =
     .label = Mussar l'ordinatur da telechargiadas
@@ -162,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Naginas telechargiadas per questa sesida.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } telechargiada da datotecas supplementara
+       *[other] { $count } telechargiadas da datotecas supplementaras
+    }
