@@ -150,4 +150,5 @@ spotlight-public-wifi-vpn-link = Non ora
 spotlight-total-cookie-protection-header =
     Prova primo nostre potentissime
     experientia de confidentialitate
+spotlight-total-cookie-protection-body = Le protection total del cookies bloca le traciatores de usar le cookies pro sequer te furtivemente circum le web.
 spotlight-total-cookie-protection-secondary-button = Non ora
