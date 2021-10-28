@@ -80,6 +80,16 @@ menu-file-open-file =
 menu-file-close =
     .label = Cerrar
     .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Cerrar pestaña
+            [one] Cerrar pestaña
+           *[other] Cerrar { $tabCount } pestañas
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = Cerrar ventana
     .accesskey = e
