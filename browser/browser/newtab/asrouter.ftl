@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = შემოთავაზებული შ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
-
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
-
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
-
 cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
     .accesskey = შ
-
 cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
     .accesskey = წ
-
 cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = შემქმნელი: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = შემოთავაზება
 cfr-doorhanger-extension-notification2 = შემოთავაზება
     .tooltiptext = გაფართოების შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = შემოთავაზება
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } მომხმარებელი
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = დაასინქრონეთ სანიშნები ყველგან.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = ვრცლად
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ახალი შესაძლებლობა:
-
 cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
-
 cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -124,20 +94,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = ყველას ნახვა
     .accesskey = ნ
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = დახურვა
     .accesskey = ხ
 
@@ -166,15 +122,26 @@ cfr-doorhanger-video-support-header = განაახლეთ { -brand-short
 cfr-doorhanger-video-support-primary-button = განახლება ახლავე
     .accesskey = გ
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = ვრცლად
+    .title = ჩამოშლა, დაწვრილებით გასაცნობად
+spotlight-learn-more-expanded = ვრცლად
+    .title = დახურვა
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = როგორც ჩანს, საჯარო WiFi-ს იყენებთ
 spotlight-public-wifi-vpn-body = ადგილმდებარეობისა და ინტერნეტში მოქმედებების დასაფარად, გამოგადგებათ წარმოსახვითი კერძო ქსელი. მისი მეშვეობით, უსაფრთხოდ შეძლებთ გვერდების მონახულებას ღია ადგილებში, მათ შორის აეროპორტებსა და კაფეებში.
 spotlight-public-wifi-vpn-primary-button = დაიცავით პირადულობა { -mozilla-vpn-brand-name }-ით
     .accesskey = ც
 spotlight-public-wifi-vpn-link = ახლა არა
     .accesskey = ა
+
+## Total Cookie Protection Rollout
+
