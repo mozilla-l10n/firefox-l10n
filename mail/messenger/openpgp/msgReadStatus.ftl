@@ -41,6 +41,7 @@ openpgp-enc-invalid-label = 无法解密消息
 openpgp-enc-invalid = 此消息发送给你之前已被加密，但是无法解密。
 openpgp-enc-clueless = 处理此消息时发生未知问题。
 openpgp-enc-valid-label = 消息已加密
+openpgp-enc-valid = 此消息在发送给您之前已进行加密。通过加密，可确保消息只被该收到的收件人阅读。
 openpgp-unknown-key-id = 未知密钥
 openpgp-other-enc-additional-key-ids = 此外，消息已由下列密钥的拥有者加密：
 openpgp-other-enc-all-key-ids = 消息已由下列密钥的拥有者加密：
