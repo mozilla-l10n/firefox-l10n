@@ -143,3 +143,8 @@ spotlight-public-wifi-vpn-link = לא כעת
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = נסו את חווית הפרטיות העוצמתית ביותר אי פעם שלנו
+spotlight-total-cookie-protection-body = הגנת עוגיות מלאה מונעת מרכיבי מעקב להשתמש בעוגיות כדי לעקוב אחריך ברחבי הרשת.
+spotlight-total-cookie-protection-secondary-button = לא כעת
