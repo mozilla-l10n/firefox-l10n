@@ -126,6 +126,7 @@ remove-search-engine =
     .label = 移除
     .accesskey = v
 add-opensearch-provider-title = 添加 OpenSearch 搜索引擎
+add-opensearch-provider-text = 请输入要添加的 OpenSearch 搜索引擎网址。OpenSearch 描述文件的网址，或是可被自动发现的网址。
 adding-opensearch-provider-failed-title = 添加 OpenSearch 搜索引擎失败
 adding-opensearch-provider-failed-text = 无法添加 { $url } 的 OpenSearch 搜索引擎。
 minimize-to-tray-label =
