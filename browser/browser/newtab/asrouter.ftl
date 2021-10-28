@@ -122,15 +122,32 @@ cfr-doorhanger-video-support-header = Wurkje { -brand-short-name } by om fideo �
 cfr-doorhanger-video-support-primary-button = No bywurkje
     .accesskey = w
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Mear ynfo
+    .title = Utklappe foar mear ynfo oer de funksje
+spotlight-learn-more-expanded = Mear ynfo
+    .title = Slute
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = It liket derop dat jo iepenbiere wifi brûke
 spotlight-public-wifi-vpn-body = Oerwaach in Virtual Private Network om jo lokaasje en sneupaktiviteit te ferbergjen. It helpt jo beskerme te bliuwen wylst it navigearjen op iepenbiere plakken, lykas flechthavens en kofjebars.
 spotlight-public-wifi-vpn-primary-button = Bliuw privee mei { -mozilla-vpn-brand-name }
     .accesskey = B
 spotlight-public-wifi-vpn-link = No net
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Meitsje in testrit yn ús krêftichste
+    privacy-ûnderfining ea
+spotlight-total-cookie-protection-body = Totale cookiebeskerming foarkomt dat trackers cookies brûke om jo stikem op it ynternet te folgjen.
