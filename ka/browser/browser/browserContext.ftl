@@ -189,7 +189,7 @@ main-context-menu-media-play-speed-faster-2 =
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
 main-context-menu-media-loop =
-    .label = გამეორება დაუსრულებლად
+    .label = გამეორება უსასრულოდ
     .accesskey = ო
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
