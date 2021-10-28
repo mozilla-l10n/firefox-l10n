@@ -142,4 +142,5 @@ spotlight-public-wifi-vpn-link = 暂时不要
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = 开启 Cookie 全面保护
 spotlight-total-cookie-protection-secondary-button = 暂时不要
