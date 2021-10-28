@@ -122,14 +122,14 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Disveloppamento web
-perftools-presets-web-developer-description = Pre-configuration recommendate, con basse supercarga, pro le major parte del depuration de app web.
+perftools-presets-web-developer-description = Pre-configuration recommendate pro le depuration del major parte de applicationes web, con poc supercarga.
 perftools-presets-firefox-platform-label = Platteforma Firefox
 perftools-presets-firefox-platform-description = Pre-configuration recommendate pro le depuration del platteforma interne Firefox.
-perftools-presets-firefox-front-end-label = Interfacie anterior Firefox
-perftools-presets-firefox-front-end-description = Pre-configuration recommendate pro depuration de interfacie anterior interne Firefox.
+perftools-presets-firefox-front-end-label = Interfacie de Firefox
+perftools-presets-firefox-front-end-description = Pre-configuration recommendate pro le depuration interne del interfacie de Firefox.
 perftools-presets-firefox-graphics-label = Graphica de Firefox
 perftools-presets-firefox-graphics-description = Pre-configuration recommendate pro le investigation del prestation graphic de Firefox.
-perftools-presets-media-label = Medios
+perftools-presets-media-label = Multimedia
 perftools-presets-media-description = Pre-configuration recommendate pro diagnosticar problemas audio e video.
 perftools-presets-custom-label = Personalisate
 

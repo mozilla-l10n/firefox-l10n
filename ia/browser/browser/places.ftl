@@ -109,8 +109,8 @@ places-remove-bookmark =
         }
     .accesskey = e
 places-show-in-folder =
-    .label = Monstrar in plica
-    .accesskey = p
+    .label = Monstrar in dossier
+    .accesskey = d
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -157,8 +157,8 @@ places-view-menu-sort =
     .label = Ordinar
     .accesskey = O
 places-view-sort-unsorted =
-    .label = Sin ordine
-    .accesskey = S
+    .label = Non ordinate
+    .accesskey = N
 places-view-sort-ascending =
     .label = Ordine crescente
     .accesskey = c
@@ -185,7 +185,7 @@ places-import-bookmarks-from-html =
     .label = Importar marcapaginas ab HTML…
     .accesskey = I
 places-export-bookmarks-to-html =
-    .label = Exportar marcapaginas a HTML…
+    .label = Exportar marcapaginas in HTML…
     .accesskey = E
 places-import-other-browser =
     .label = Importar datos ab un altere navigator…
