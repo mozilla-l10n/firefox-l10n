@@ -146,5 +146,8 @@ spotlight-public-wifi-vpn-link = 現在不要
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = 試用我們有史以來最強大的隱私保護功能
 spotlight-total-cookie-protection-body = 「全方位 Cookie 保護」功能可防止追蹤器透過 Cookie 在網路上追蹤您。
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } 會將 Cookie 包圍起來，讓它們僅能在您所在的網站使用，這樣追蹤器就無法用它們來追蹤您。透過搶先試用，您可以協助我們最佳化這個功能，持續為每個人打造更好的網路環境。
 spotlight-total-cookie-protection-primary-button = 開啟「全方位 Cookie 保護」功能
 spotlight-total-cookie-protection-secondary-button = 現在不要
