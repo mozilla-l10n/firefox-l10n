@@ -151,3 +151,8 @@ spotlight-total-cookie-protection-header =
     Meitsje in testrit yn ús krêftichste
     privacy-ûnderfining ea
 spotlight-total-cookie-protection-body = Totale cookiebeskerming foarkomt dat trackers cookies brûke om jo stikem op it ynternet te folgjen.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } bout in stek rûnom cookies, wêrtroch se beheint wurde ta de website wêrop jo jo binne, sadat trackers se net brûke kinne om jo te folgjen. As betide brûker helpe jo dizze funksje te optimalisearjen, sadat wy in better ynternet foar elkenien bouwe bliuwe kinne.
+spotlight-total-cookie-protection-primary-button = Totale cookiebeskerming ynskeakelje
+spotlight-total-cookie-protection-secondary-button = No net
