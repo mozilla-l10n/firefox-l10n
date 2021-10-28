@@ -147,7 +147,9 @@ spotlight-public-wifi-vpn-link = Không phải bây giờ
 spotlight-total-cookie-protection-header =
     Thử trải nghiệm quyền riêng tư mạnh mẽ nhất
     của chúng tôi từ trước đến nay
+spotlight-total-cookie-protection-body = Trình chống cookie chung ngăn những trình theo dõi sử dụng cookie để theo dõi bạn trên web.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
 spotlight-total-cookie-protection-expanded = { -brand-short-name } xây dựng một hàng rào xung quanh cookie, giới hạn chúng ở trang web bạn đang truy cập để trình theo dõi không thể sử dụng chúng để theo dõi bạn. Với quyền truy cập sớm, bạn sẽ giúp tối ưu hóa tính năng này để chúng tôi có thể tiếp tục xây dựng một trang web tốt hơn cho mọi người.
+spotlight-total-cookie-protection-primary-button = Bật Trình chống cookie chung
 spotlight-total-cookie-protection-secondary-button = Không phải bây giờ
