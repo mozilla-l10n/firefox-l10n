@@ -349,7 +349,7 @@ delete-tag-button =
     .label = 删除
     .accesskey = D
 auto-mark-as-read =
-    .label = 自动将邮件标为已读
+    .label = 自动将邮件标记为已读
     .accesskey = A
 mark-read-no-delay =
     .label = 显示时立即
@@ -691,6 +691,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = 查找设置
 
 ## Settings UI Search Results
 
@@ -700,5 +711,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] 很抱歉，没有找到有关 “<span data-l10n-name="query"></span>” 的选项。
        *[other] 很抱歉，没有找到有关 “<span data-l10n-name="query"></span>” 的首选项。
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] 抱歉！未找到与“<span data-l10n-name="query"></span>”有关的选项。
+       *[other] 抱歉！未找到与“<span data-l10n-name="query"></span>”有关的设置。
     }
 search-results-help-link = 需要帮助？访问 <a data-l10n-name="url">{ -brand-short-name } 技术支持</a>
