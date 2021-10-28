@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = უფლებამოსილი მ
 certificate-viewer-certificate-policies = სერტიფიკატის პირობები
 certificate-viewer-embedded-scts = ჩაშენებული SCT- ები
 certificate-viewer-crl-endpoints = CRL-ს მომწოდებლები
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ჩამოტვირთვა
@@ -101,10 +100,9 @@ certificate-viewer-download-pem = PEM (სერტიფიკატი)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ჯაჭვი)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = ეს გაფართოება მიჩნეულია გადამწვეტად, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის გაუგებარია.
+    .title = ეს გაფართოება გადამწყვეტი მნიშვნელობის მქონეა, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის დაუდგენელია.
 certificate-viewer-export = ცალკე შენახვა
     .download = { $fileName }.pem
 
