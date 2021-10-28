@@ -157,7 +157,7 @@ was trying to connect. -->
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha blocate le cargamento de iste pagina in iste contexto perque le pagina ha un politica X-Frame-Options que non lo permitte.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote ser monstrate a causa de un error revelate in le transmission del datos.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le transmission de datos.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar le risco e continuar">
 

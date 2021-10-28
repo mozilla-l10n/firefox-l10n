@@ -45,7 +45,7 @@ downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
             [macos] Monstrar in Finder
-           *[other] Monstrar in plica
+           *[other] Monstrar in dossier
         }
     .accesskey = F
 downloads-cmd-use-system-default =
@@ -83,19 +83,19 @@ downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Monstrar in Finder
-           *[other] Monstrar in plica
+           *[other] Monstrar in dossier
         }
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
             [macos] Monstrar in Finder
-           *[other] Monstrar in plica
+           *[other] Monstrar in dossier
         }
 downloads-cmd-show-description-2 =
     .value =
         { PLATFORM() ->
             [macos] Monstrar in Finder
-           *[other] Monstrar in plica
+           *[other] Monstrar in dossier
         }
 downloads-cmd-show-downloads =
     .label = Monstrar le dossier de discargamentos
@@ -200,6 +200,6 @@ downloads-panel-empty =
 #                     panel list.
 downloads-more-downloading =
     { $count ->
-        [one] Discargamento de { $count } altere file
-       *[other] Discargamento de { $count } altere files
+        [one] { $count } altere file in discargamento
+       *[other] { $count } altere files in discargamento
     }
