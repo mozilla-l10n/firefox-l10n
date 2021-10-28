@@ -120,15 +120,26 @@ cfr-doorhanger-video-support-header = עדכון { -brand-short-name } להפע�
 cfr-doorhanger-video-support-primary-button = עדכון כעת
     .accesskey = ע
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = מידע נוסף
+    .title = יש להרחיב כדי לקבל מידע נוסף על תכונה זו
+spotlight-learn-more-expanded = מידע נוסף
+    .title = סגירה
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = נראה שהתחברת לרשת אלחוטית ציבורית
 spotlight-public-wifi-vpn-body = כדי להסתיר את המיקום ואת פעילות הגלישה שלך, כדאי לשקול להשתמש ברשת וירטואלית פרטית (VPN). היא תסייע לך להתגונן בזמן גלישה במקומות ציבוריים כמו נמלי תעופה ובתי קפה.
 spotlight-public-wifi-vpn-primary-button = להישאר אנונימי עם { -mozilla-vpn-brand-name }
     .accesskey = ל
 spotlight-public-wifi-vpn-link = לא כעת
     .accesskey = ל
+
+## Total Cookie Protection Rollout
+
