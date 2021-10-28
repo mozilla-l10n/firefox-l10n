@@ -147,4 +147,8 @@ spotlight-public-wifi-vpn-link = לא כעת
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = נסו את חווית הפרטיות העוצמתית ביותר אי פעם שלנו
 spotlight-total-cookie-protection-body = הגנת עוגיות מלאה מונעת מרכיבי מעקב להשתמש בעוגיות כדי לעקוב אחריך ברחבי הרשת.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = ‏{ -brand-short-name } בונה גדר סביב עוגיות, ומבודד אותם לאתר שבו אתה נמצא, כך שעוגיות לא יכולות להשתמש בהן כדי לעקוב אחריך. הפעלת תכונה זו תסייע לנו לייעל אותה כדי שנוכל להמשיך לבנות אינטרנט טוב יותר עבור כולם.
+spotlight-total-cookie-protection-primary-button = הפעלת הגנת עוגיות מלאה
 spotlight-total-cookie-protection-secondary-button = לא כעת
