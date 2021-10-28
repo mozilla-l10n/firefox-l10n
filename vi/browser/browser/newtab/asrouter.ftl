@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Tính năng được đề xuất
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
-
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = bởi { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Đề xuất
 cfr-doorhanger-extension-notification2 = Đề xuất
     .tooltiptext = Tiện ích được đề xuất
     .a11y-announcement = Tiện ích được đề xuất có sẵn
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Đề xuất
@@ -63,8 +55,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } người dùng
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ dấu trang của bạn ở mọi nơi.
@@ -85,30 +75,10 @@ cfr-protections-panel-link-text = Tìm hiểu thêm
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Tính năng mới:
-
 cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
-
 cfr-whatsnew-release-notes-link-text = Đọc ghi chú phát hành
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -121,20 +91,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Xem tất cả
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Đóng
     .accesskey = C
 
@@ -163,15 +119,35 @@ cfr-doorhanger-video-support-header = Cập nhật { -brand-short-name } để p
 cfr-doorhanger-video-support-primary-button = Cập nhật bây giờ
     .accesskey = U
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Tìm hiểu thêm
+    .title = Mở rộng để tìm hiểu thêm về tính năng này
+spotlight-learn-more-expanded = Tìm hiểu thêm
+    .title = Đóng
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Có vẻ như bạn đang sử dụng Wi-Fi công cộng
 spotlight-public-wifi-vpn-body = Để ẩn vị trí và hoạt động duyệt web của bạn, hãy xem xét đến VPN. Nó sẽ giúp bạn được bảo vệ khi duyệt web ở những nơi công cộng như sân bay và quán cà phê.
 spotlight-public-wifi-vpn-primary-button = Giữ riêng tư với { -mozilla-vpn-brand-name }
     .accesskey = S
 spotlight-public-wifi-vpn-link = Không phải bây giờ
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Thử trải nghiệm quyền riêng tư mạnh mẽ nhất
+    của chúng tôi từ trước đến nay
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } xây dựng một hàng rào xung quanh cookie, giới hạn chúng ở trang web bạn đang truy cập để trình theo dõi không thể sử dụng chúng để theo dõi bạn. Với quyền truy cập sớm, bạn sẽ giúp tối ưu hóa tính năng này để chúng tôi có thể tiếp tục xây dựng một trang web tốt hơn cho mọi người.
+spotlight-total-cookie-protection-secondary-button = Không phải bây giờ
