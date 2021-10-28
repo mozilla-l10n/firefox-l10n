@@ -151,4 +151,7 @@ spotlight-total-cookie-protection-header =
     Prova primo nostre potentissime
     experientia de confidentialitate
 spotlight-total-cookie-protection-body = Le protection total del cookies bloca le traciatores de usar le cookies pro sequer te furtivemente circum le web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } crea un barriera circum le cookies, limitante los al sito sur que tu es, assi le traciatores non pote usar los pro te sequer. Con un precoce accesso, tu adjutara optimisar iste functionalitate assi que nos pote continuar edificar un web melior pro totes.
 spotlight-total-cookie-protection-secondary-button = Non ora
