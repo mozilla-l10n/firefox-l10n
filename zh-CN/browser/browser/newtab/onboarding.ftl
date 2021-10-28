@@ -191,16 +191,16 @@ onboarding-multistage-theme-description-automatic-2 =
     .aria-description = 遵循操作系统的按钮、菜单、窗口外观。
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
-    .title = 使用亮色按钮、菜单、窗口外观。
+    .title = 使用浅色按钮、菜单、窗口外观。
 # Input description for light theme
 onboarding-multistage-theme-description-light =
-    .aria-description = 使用亮色按钮、菜单、窗口外观。
+    .aria-description = 使用浅色按钮、菜单、窗口外观。
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
-    .title = 使用暗色按钮、菜单、窗口外观。
+    .title = 使用深色按钮、菜单、窗口外观。
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
-    .aria-description = 使用暗色按钮、菜单、窗口外观。
+    .aria-description = 使用深色按钮、菜单、窗口外观。
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title = 使用多彩按钮、菜单、窗口外观。
