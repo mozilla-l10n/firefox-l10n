@@ -145,3 +145,14 @@ spotlight-public-wifi-vpn-link = ახლა არა
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    პირველმა გამოცადეთ ყველაზე მძლავრი
+    საშუალება პირადულობისთვის, რაც კი არსებობს
+spotlight-total-cookie-protection-body = ფუნთუშებისგან ყოველმხრივი დაცვა არ მისცემს მეთვალყურეებს საშუალებას, თვალი გადევნონ ვებსივრცეში ფუნთუშების გამოყენებით.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ზღუდით შემოსაზღვრავს ფუნთუშებს, რომ ვერ გასცდეს არსებულ საიტს და მეთვალყურეებმაც ვეღარ მოახერხონ, თვალის დევნება. ადრეული წვდომით, თქვენ დაგვეხმარებით ამ შესაძლებლობის დახვეწაში, შედეგად შევძლებთ გავხადოთ ვებსამყარო უკეთესი, ყველასათვის.
+spotlight-total-cookie-protection-primary-button = ჩართეთ ფუნთუშებისგან ყოველმხრივი დაცვა
+spotlight-total-cookie-protection-secondary-button = ახლა არა
