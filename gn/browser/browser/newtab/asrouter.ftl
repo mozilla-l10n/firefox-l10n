@@ -121,15 +121,28 @@ cfr-doorhanger-video-support-header = Embohekopyahu { -brand-short-name } ehecha
 cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
     .accesskey = U
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Kuaave
+    .title = Embotuicha eñemomaranduve hag̃ua tembiapoite rehegua
+spotlight-learn-more-expanded = Kuaave
+    .title = Mboty
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Eipurúvaicha peteĩ Wi-Fi opavaveguáva
 spotlight-public-wifi-vpn-body = Eñomi hag̃ua ne rendaite ha kundahára rembiapo, eipurukuaa red privada virtual. Ñepytyvõta eime hag̃ua ñemo’ãme eikundahakuévo tenda opavave oipurukuaáva ikatúva pepoatãguejyha ha taperyva’uha.
 spotlight-public-wifi-vpn-primary-button = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ani ko’ág̃a
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
+spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a

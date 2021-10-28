@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-gui ñesẽ
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name }-gui ñesẽ
-
 menu-about =
     .label = { -brand-shorter-name } rehegua
     .accesskey = A
@@ -83,6 +79,16 @@ menu-file-open-file =
     .accesskey = O
 menu-file-close =
     .label = Mboty
+    .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Emboty tendayke
+            [one] Emboty tendayke
+           *[other] Emboty { $tabCount } tendayke
+        }
     .accesskey = C
 menu-file-close-window =
     .label = Ovetã mboty
