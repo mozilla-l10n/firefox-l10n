@@ -125,15 +125,31 @@ cfr-doorhanger-video-support-header = Ak chcete prehrať video, aktualizujte { -
 cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
     .accesskey = A
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Ďalšie informácie
+    .title = Rozbalením zobrazíte ďalšie informácie o tejto funkcii
+spotlight-learn-more-expanded = Ďalšie informácie
+    .title = Zavrieť
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Zdá sa, že používate verejnú sieť Wi-Fi
 spotlight-public-wifi-vpn-body = Ak chcete skryť svoju polohu a aktivitu pri prehliadaní, zvážte použiť virtuálnu súkromnú sieť. Pomôže vám to chrániť sa pri prehliadaní z verejných miest, ako sú letiská a kaviarne.
 spotlight-public-wifi-vpn-primary-button = Ochrániť súkromie pomocou { -mozilla-vpn-brand-name }
     .accesskey = O
 spotlight-public-wifi-vpn-link = Teraz nie
     .accesskey = T
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-body = Úplná ochrana súborov cookie bráni sledovačom používať súbory cookie na sledovanie webu.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } vytvára virtuálny plot okolo súborov cookie a obmedzuje ich na stránku, na ktorej sa nachádzate, takže sledovači ich nemôžu použiť na to, aby vás sledovali. Vďaka testovaciemu programu nám pomôžete optimalizovať túto funkciu, aby sme mohli naďalej vytvárať lepší web pre všetkých.
+spotlight-total-cookie-protection-secondary-button = Teraz nie
