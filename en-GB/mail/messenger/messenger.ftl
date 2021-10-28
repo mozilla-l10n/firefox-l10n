@@ -76,12 +76,14 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = File…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferences
+appmenu-save-as-file =
+    .label = File…
+appmenu-settings =
+    .label = Settings
 appmenu-addons-and-themes =
     .label = Add-ons and Themes
 appmenu-help-enter-troubleshoot-mode =
