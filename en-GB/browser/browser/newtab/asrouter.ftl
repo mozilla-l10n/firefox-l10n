@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Recommended Feature
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Why am I seeing this
-
 cfr-doorhanger-extension-cancel-button = Not Now
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Add Now
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settings
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Don’t Show Me This Recommendation
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Learn more
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = by { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendation
     .a11y-announcement = Extension recommendation available
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommendation
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } users
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronise your bookmarks everywhere.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Learn more
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = New feature:
-
 cfr-whatsnew-button =
     .label = What’s New
     .tooltiptext = What’s New
-
 cfr-whatsnew-release-notes-link-text = Read the release notes
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -123,20 +93,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = See All
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Close
     .accesskey = C
 
@@ -165,15 +121,37 @@ cfr-doorhanger-video-support-header = Update { -brand-short-name } to play video
 cfr-doorhanger-video-support-primary-button = Update Now
     .accesskey = U
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Learn more
+    .title = Expand to learn more about the feature
+spotlight-learn-more-expanded = Learn more
+    .title = Close
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Looks like you’re using public Wi-Fi
 spotlight-public-wifi-vpn-body = To hide your location and browsing activity, consider a Virtual Private Network. It will help keep you protected when browsing in public places like airports and coffee shops.
 spotlight-public-wifi-vpn-primary-button = Stay private with { -mozilla-vpn-brand-name }
     .accesskey = S
 spotlight-public-wifi-vpn-link = Not Now
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Test pilot our most powerful
+    privacy experience ever
+spotlight-total-cookie-protection-body = Total Cookie Protection stops trackers from using cookies to stalk you around the web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } builds a fence around cookies, limiting them to the site you’re on so trackers can’t use them to follow you. With early access, you’ll help optimise this feature so we can keep building a better web for everyone.
+spotlight-total-cookie-protection-primary-button = Turn on Total Cookie Protection
+spotlight-total-cookie-protection-secondary-button = Not now
