@@ -930,6 +930,14 @@ content-blocking-all-windows-tracking-content = 所有視窗中的追蹤內容
 content-blocking-all-third-party-cookies = 所有第三方 Cookie
 content-blocking-cryptominers = 加密貨幣採礦程式
 content-blocking-fingerprinters = 數位指紋追蹤程式
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = 試用我們有史以來最強大的隱私保護功能
+    .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = 全方位 Cookie 保護功能會將 Cookie 限制於您所在的網站當中，這樣追蹤器就無法透過 Cookie 在不同網站間追蹤您。
+content-blocking-etp-standard-tcp-rollout-learn-more = 了解更多
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description = 封鎖追蹤器並隔離 Cookie 可能會造成某些網站運作不正常。重新載入含有追蹤器的頁面即可載入所有內容。
 content-blocking-and-isolating-etp-warning-description-2 = 此設定可能會造成某些網站無法顯示內容或正常運作。若網站運作不正常，您可能會想要對該網站關掉追蹤保護功能，載入完整內容。
