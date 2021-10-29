@@ -962,6 +962,14 @@ content-blocking-all-windows-tracking-content = Tracio cynnwys ym mhob ffenestr
 content-blocking-all-third-party-cookies = Pob cwci trydydd parti
 content-blocking-cryptominers = Cryptogloddwyr
 content-blocking-fingerprinters = Bysbrintwyr
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Rhowch brawf ar ein profiad preifatrwydd mwyaf pwerus erioed
+    .accesskey = R
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Mae Diogelwch Cwcis Llwyr yn cyfyngu cwcis i'r wefan rydych chi arni, felly nid yw tracwyr yn gallu eu defnyddio i'ch dilyn rhwng gwefannau.
+content-blocking-etp-standard-tcp-rollout-learn-more = Dysgu rhagor
 content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description = Gall rhwystro tracwyr effeithio ar ymarferoldeb rhai gwefannau. Ail-lwythwch dudalen gyda thracwyr i lwytho'r holl gynnwys.
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
