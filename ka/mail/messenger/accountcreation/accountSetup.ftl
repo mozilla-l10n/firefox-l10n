@@ -217,6 +217,13 @@ exchange-dialog-cancel-button = გაუქმება
 ## Dismiss account creation dialog
 
 exit-dialog-title = ელფოსტის ანგარიში ვერ გაიმართა
+exit-dialog-description = ნამდვილად გსურთ, შეწყვიტოთ გამართვა? { -brand-short-name } ელფოსტის ანგარიშის გარეშეც შეგიძლიათ გამოიყენოთ, მაგრამ შესაძლებლობების უმეტესობა, არ ექნება.
+account-setup-no-account-checkbox = გამოიყენეთ { -brand-short-name } ელფოსტის გარეშე
+    .accesskey = ყ
+exit-dialog-cancel-button = განაგრძეთ გამართვა
+    .accesskey = რ
+exit-dialog-confirm-button = გამართვის დატოვება
+    .accesskey = ო
 
 ## Alert dialogs
 
@@ -233,6 +240,65 @@ account-setup-addon-no-protocol = ელფოსტის ამ სერვ�
 
 ## Success view
 
+account-setup-settings-button = ანგარიშის პარამეტრები
+account-setup-encryption-button = გამჭოლი დაშიფვრა
+account-setup-signature-button = ხელმოწერის დამატება
+account-setup-dictionaries-button = ლექსიკონის ჩამოტვირთვა
+account-setup-address-book-carddav-button = დაკავშირება CardDAV-წიგნაკთან
+account-setup-address-book-ldap-button = დაკავშირება LDAP-წიგნაკთან
+account-setup-calendar-button = დაკავშირება დაშორებულ კალენდართან
+account-setup-linked-services-title = დაკავშირება მიბმულ მომსახურებებთან
+account-setup-linked-services-description = { -brand-short-name } დაადგენს ელფოსტის ანგარიშთან დაკავშირებულ სხვა მომსახურებებსაც.
+account-setup-no-linked-description = გამართეთ სხვა მომსახურებებიც, რომ სრულყოფილად გამოიყენოთ { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] როგორც { -brand-short-name } ადგენს, ელფოსტის ანგარიშზე წიგნაკია მიბმული
+       *[other] როგორც { -brand-short-name } ადგენს, ელფოსტის ანგარიშზე { $count } წიგნაკია მიბმული
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] როგორც { -brand-short-name } ადგენს, ელფოსტის ანგარიშზე კალენდარია მიბმული.
+       *[other] როგორც { -brand-short-name } ადგენს, ელფოსტის ანგარიშზე { $count } კალენდარია მიბმული.
+    }
+account-setup-button-finish = დასრულება
+    .accesskey = უ
+account-setup-looking-up-address-books = მისამართების წიგნაკების ძიება…
+account-setup-looking-up-calendars = კალენდრების ძიება…
+account-setup-address-books-button = წიგნაკები
+account-setup-calendars-button = კალენდრები
+account-setup-connect-link = დაკავშირება
+account-setup-existing-address-book = დაკავშირებულია
+    .title = წიგნაკი უკვე დაკავშირებულია
+account-setup-existing-calendar = დაკავშირებულია
+    .title = კალენდარი უკვე დაკავშირებულია
+account-setup-connect-all-calendars = ყველა კალენდრის დაკავშირება
+account-setup-connect-all-address-books = ყველა წიგნაკის დაკავშირება
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = კალენდრის დაკავშირება
+calendar-dialog-cancel-button = გაუქმება
+    .accesskey = ქ
+calendar-dialog-confirm-button = დაკავშირება
+    .accesskey = კ
+account-setup-calendar-name-label = სახელი
+account-setup-calendar-name-input =
+    .placeholder = ჩემი კალენდარი
+account-setup-calendar-color-label = ფერი
+account-setup-calendar-refresh-label = განახლება
+account-setup-calendar-refresh-manual = ხელით
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] ყოველ წუთში
+       *[other] ყოველ { $count } წუთში
+    }
+account-setup-calendar-read-only = მხოლოდ წასაკითხი
+    .accesskey = წ
+account-setup-calendar-show-reminders = შეხსენებათა ჩვენება
+    .accesskey = ხ
+account-setup-calendar-offline-support = კავშირგარეშე მხარდაჭერა
+    .accesskey = ჭ
