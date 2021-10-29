@@ -144,5 +144,9 @@ spotlight-public-wifi-vpn-link = Plus tard
 
 ## Total Cookie Protection Rollout
 
-spotlight-total-cookie-protection-body = La protection totale des cookies empêche les traqueurs d’utiliser des cookies pour vous pister sur le Web.
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = Testez en avant-première l’expérience de confidentialité la plus puissante que nous avons jamais conçue
+spotlight-total-cookie-protection-body = La protection totale contre les cookies empêche les traqueurs d’utiliser des cookies pour vous pister sur le Web.
+spotlight-total-cookie-protection-primary-button = Activer la protection totale contre les cookies
 spotlight-total-cookie-protection-secondary-button = Plus tard
