@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安裝擴充套件與佈景主題
+list-empty-get-dictionaries-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安裝字典
+list-empty-get-language-packs-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安裝語言套件
 list-empty-installed =
     .value = 您並未安裝任何此類型的附加元件
 list-empty-available-updates =
