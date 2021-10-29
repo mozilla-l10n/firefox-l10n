@@ -1152,6 +1152,16 @@ content-blocking-all-third-party-cookies = Tutti i cookie di terze parti
 content-blocking-cryptominers = Cryptominer
 content-blocking-fingerprinters = Fingerprinter
 
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+  .label = Prova in anteprima la nuova potente funzione per la privacy
+  .accesskey = P
+
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = La Protezione totale per i cookie isola i cookie del sito in cui ti trovi. In questo modo non è possibile utilizzarli per seguirti da un sito all’altro.
+content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriori informazioni
+
 content-blocking-warning-title = Attenzione
 content-blocking-and-isolating-etp-warning-description = Il blocco degli elementi traccianti e l’isolamento dei cookie possono impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per visualizzare tutti i contenuti.
 content-blocking-and-isolating-etp-warning-description-2 = Questa impostazione potrebbe causare in alcuni siti la mancata visualizzazione di contenuti o altri problemi di funzionamento. Se una pagina non viene visualizzata correttamente, provare a disattivare la protezione antitracciamento per quel sito per ricaricare tutti i contenuti.
