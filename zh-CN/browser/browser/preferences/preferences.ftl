@@ -943,6 +943,8 @@ content-blocking-fingerprinters = 数字指纹跟踪程序
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = 前所未有的强大隐私保护，抢先体验
     .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = “全方位 Cookie 保护”能够完全隔离每个网站的 Cookie，阻止跟踪器借其跨网站跟踪您。
 content-blocking-etp-standard-tcp-rollout-learn-more = 详细了解
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description = 拦截跟踪器并隔离 Cookie 可能会影响某些网站的功能。放行跟踪器，刷新页面即可加载所有内容。
