@@ -125,15 +125,23 @@ cfr-doorhanger-video-support-header = Абнавіце { -brand-short-name } д�
 cfr-doorhanger-video-support-primary-button = Абнавіць зараз
     .accesskey = А
 
+## Spotlight modal shared strings
+
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Выглядае на тое, што вы карыстаецеся агульнадаступнай сеткай Wi-Fi
 spotlight-public-wifi-vpn-body = Каб схаваць сваё месцазнаходжанне і актыўнасць агляду, падумайце аб віртуальнай прыватнай сетцы. Гэта дапаможа абараніць вас пры агляданні ў грамадскіх месцах, такіх як аэрапорты і кавярні.
 spotlight-public-wifi-vpn-primary-button = Заставайцеся прыватнымі з { -mozilla-vpn-brand-name }
     .accesskey = ы
 spotlight-public-wifi-vpn-link = Не зараз
     .accesskey = Н
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Не зараз
