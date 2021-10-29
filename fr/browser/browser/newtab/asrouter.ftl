@@ -145,3 +145,4 @@ spotlight-public-wifi-vpn-link = Plus tard
 ## Total Cookie Protection Rollout
 
 spotlight-total-cookie-protection-body = La protection totale des cookies empêche les traqueurs d’utiliser des cookies pour vous pister sur le Web.
+spotlight-total-cookie-protection-secondary-button = Plus tard
