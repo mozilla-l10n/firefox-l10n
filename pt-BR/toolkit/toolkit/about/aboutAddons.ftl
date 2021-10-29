@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Obtenha extensões e temas em <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Obtenha dicionários em <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Obtenha pacotes de idioma em <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Não há nenhuma extensão deste tipo instalada
 list-empty-available-updates =

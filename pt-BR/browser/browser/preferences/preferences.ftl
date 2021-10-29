@@ -951,6 +951,8 @@ content-blocking-fingerprinters = Fingerprinters (rastreadores de identidade dig
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Seja piloto de teste do mais poderoso recurso de privacidade que já fizemos
     .accesskey = t
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = A proteção total contra cookies isola os cookies do site em que você está, assim os rastreadores não conseguem usá-los para te seguir de um site para outro.
 content-blocking-etp-standard-tcp-rollout-learn-more = Saiba mais
 content-blocking-warning-title = Atenção!
 content-blocking-and-isolating-etp-warning-description = Bloquear rastreadores e isolar cookies pode afetar a funcionalidade de alguns sites. Desative a proteção contra rastreamento em um site para carregar todo o conteúdo.
