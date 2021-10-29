@@ -938,6 +938,12 @@ content-blocking-all-windows-tracking-content = 所有窗口中的跟踪性内�
 content-blocking-all-third-party-cookies = 所有第三方 Cookie
 content-blocking-cryptominers = 加密货币挖矿程序
 content-blocking-fingerprinters = 数字指纹跟踪程序
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = 前所未有的强大隐私保护，抢先体验
+    .accesskey = T
+content-blocking-etp-standard-tcp-rollout-learn-more = 详细了解
 content-blocking-warning-title = 注意！
 content-blocking-and-isolating-etp-warning-description = 拦截跟踪器并隔离 Cookie 可能会影响某些网站的功能。放行跟踪器，刷新页面即可加载所有内容。
 content-blocking-and-isolating-etp-warning-description-2 = 此设置可能会导致某些网站无法显示内容或正常工作。若网站异常，则可能需要对该网站关闭跟踪保护功能，以加载全部内容。
