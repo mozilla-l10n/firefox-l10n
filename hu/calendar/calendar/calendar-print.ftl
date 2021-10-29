@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Befejezett feladatok
 calendar-print-filter-taskswithnoduedate = Határidő nélküli feladatok
 calendar-print-range-from = Feladó
 calendar-print-range-to = Címzett
+calendar-print-back-button = Vissza
 calendar-print-next-button = Tovább
