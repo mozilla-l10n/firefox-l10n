@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Завершені завдання
 calendar-print-filter-taskswithnoduedate = Завдання без терміну виконання
 calendar-print-range-from = Від
 calendar-print-range-to = Кому
+calendar-print-back-button = Назад
 calendar-print-next-button = Далі
