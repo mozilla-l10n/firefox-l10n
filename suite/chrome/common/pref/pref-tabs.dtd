@@ -9,13 +9,16 @@
 <!ENTITY autoHide.accesskey2 "მ">
 <!ENTITY background.label "ბმებიდან გახსნილი ჩანართების არჩევა">
 <!ENTITY background.accesskey "ხ">
+<!ENTITY diverted.label "გადამისამართებული ბმულებიდან გახსნილ ახალ ჩანართებზე გადართვა">
+<!ENTITY diverted.accesskey "ა">
+<!ENTITY browserFocus.label "ბრაუზერის ფანჯარაზე გადართვა, სხვა პროგრამებიდან გახსნილი ბმულებისთვის">
+<!ENTITY browserFocus.accesskey "ფ">
 <!ENTITY warnOnClose.label "გაფრთხილება, მრავალი ჩანართის ერთდროულად დახურვისას">
 <!ENTITY warnOnClose.accesskey "ფ">
 <!ENTITY relatedAfterCurrent.label "დაკავშირებული ჩანართების გახსნა მიმდინარე ჩანართის შემდეგ">
 <!ENTITY relatedAfterCurrent.accesskey "დ">
 
 <!ENTITY openTabs.label "გახსნა ჩანართებზე ნაცვლად სარკმლებისა">
-
 <!ENTITY middleClick.label "შუა წკაპი, Ctrl+წკაპი,ან Ctrl+Enter ვებგვერდზე არსებულ ბმულებზე">
 <!ENTITY middleClick.accesskey "შ">
 <!ENTITY middleClickMac.label "შუა წკაპი, &#8984;+წკაპი, ან &#8984;+Enter ვებგვერდზე არსებულ ბმულებზე">

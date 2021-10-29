@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "—">
 <!ENTITY maxZoom.accesskey                      "ზ">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "ნაგულისხმევი ზომა">
 <!ENTITY defaultZoom.accesskey                  "გ">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">
 <!ENTITY siteSpecific.accesskey                 "მ">
 <!ENTITY showZoomStatusPanel.label              "ზომის სამართავის ჩვენება მდგომარეობის ზოლში">
+<!ENTITY showZoomStatusPanel.accesskey          "ვ">
 <!ENTITY enableAutomaticImageResizing.label     "დიდი ზომის გამოსახულებათა ბრაუზერის ფანჯრის ზომაზე მორგება">
 <!ENTITY enableAutomaticImageResizing.accesskey "ო">
 
