@@ -14,6 +14,12 @@ search-header-shortcut =
 list-empty-get-extensions-message =
     Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare estensioni e temi
 
+list-empty-get-dictionaries-message =
+    Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare dizionari
+
+list-empty-get-language-packs-message =
+    Visita <a data-l10n-name="get-extensions">{ $domain }</a> per installare pacchetti per la lingua
+
 list-empty-installed =
     .value = Non risulta installato alcun componente aggiuntivo di questo tipo
 
