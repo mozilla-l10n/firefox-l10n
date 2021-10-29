@@ -8,7 +8,9 @@ search-header =
     .searchbuttonlabel = 搜索
 search-header-shortcut =
     .key = f
-list-empty-get-extensions-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 获取扩展和主题。
+list-empty-get-extensions-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安装扩展和主题。
+list-empty-get-dictionaries-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安装字典
+list-empty-get-language-packs-message = 到 <a data-l10n-name="get-extensions">{ $domain }</a> 安装语言包
 list-empty-installed =
     .value = 您没有安装任何此类型的附加组件
 list-empty-available-updates =
