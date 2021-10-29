@@ -5,22 +5,20 @@
 dock-options-window-dialog =
     .title = პროგრამის ხატულის პარამეტრები
     .style = width: 35em;
-
+dock-options-show-badge =
+    .label = ნიშნის ხატულის ჩვენება
+    .accesskey = ნ
 bounce-system-dock-icon =
     .label = ხატულის ამოძრავება ახალი წერილის მიღებისას
     .accesskey = უ
-
 dock-icon-legend = პროგრამის ხატულას ნიშანი
-
 dock-icon-show-label =
     .value = პროგრამის ხატულას ნიშანზე:
-
 count-unread-messages-radio =
     .label = წასაკითხი წერილების რაოდენობა
     .accesskey = ო
-
 count-new-messages-radio =
     .label = ახალი წერილების რაოდენობა
     .accesskey = დ
-
 notification-settings-info = შეგიძლიათ გამორთოთ ნიშანი შეტყობინებების არეში სისტემის პარამეტრებიდან.
+notification-settings-info2 = შეგიძლიათ გამორთოთ ნიშანი შეტყობინებების არეში სისტემის პარამეტრებიდან.
