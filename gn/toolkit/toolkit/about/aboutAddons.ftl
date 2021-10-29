@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Eguereko jepysokue ha téma <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Eguereko ñe’ẽryru <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Eguereko ñe’ẽ aty <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Ndereguerekói ãichagua moĩmbaha
 list-empty-available-updates =
