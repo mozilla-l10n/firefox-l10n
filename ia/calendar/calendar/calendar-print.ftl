@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Activitates completate
 calendar-print-filter-taskswithnoduedate = Eventos sin data de termino
 calendar-print-range-from = De
 calendar-print-range-to = A
+calendar-print-back-button = Retro
 calendar-print-next-button = Sequente
