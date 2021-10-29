@@ -144,5 +144,10 @@ spotlight-public-wifi-vpn-link = Ani ko’ág̃a
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Eipuru ore rembiaporapykuere
+    ñemigua imbaretevéva tembiasakuépe
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
