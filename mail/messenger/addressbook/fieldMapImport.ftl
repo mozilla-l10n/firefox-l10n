@@ -4,10 +4,9 @@
 
 import-ab-csv-window =
     .title = წიგნაკის გადმოტანა ტექსტური ფაილიდან
-
+import-ab-csv-dialog-title = წიგნაკის შემოტანა ტექსტური ფაილიდან
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = შეთვალიერება მონაცემების, გადმოსატანი ჩანაწერიდან { $recordNumber }
-
 import-ab-csv-dialog =
     .buttonlabelaccept = გადმოტანა
     .buttonaccesskeyaccept = ო
