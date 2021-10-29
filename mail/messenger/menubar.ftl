@@ -56,13 +56,13 @@ mail-uidensity-label =
     .label = სიმჭიდროვე
     .accesskey = ჭ
 mail-uidensity-compact =
-    .label = შეკუმშვა
+    .label = შეკუმშული
     .accesskey = კ
 mail-uidensity-normal =
     .label = ჩვეულებრივი
     .accesskey = ჩ
 mail-uidensity-touch =
-    .label = შეხება
+    .label = შეხებისთვის
     .accesskey = ხ
 
 ## File
