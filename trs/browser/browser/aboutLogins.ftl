@@ -58,6 +58,10 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Nitāj si ran hua da’nga’ huìi
 about-logins-list-section-breach = Nej sitio giran\’ sāñūun
 about-logins-list-section-vulnerable = Nej da’nga’ huì huā ahīi
+about-logins-list-section-nothing = Nitāj sa atāj snan’ānj an hua
+about-logins-list-section-today = Gui hìaj
+about-logins-list-section-yesterday = Guki
+about-logins-list-section-week = Sa gahuin 7 gui ga'na'
 
 ## Introduction screen
 
@@ -204,6 +208,13 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = Gà' huaj
+about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
+about-logins-import-dialog-error-cancel = Dūyichin\'
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Dukuáan { $number }
 
 ##
 ## Variables:
