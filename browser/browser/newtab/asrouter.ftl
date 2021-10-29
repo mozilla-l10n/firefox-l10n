@@ -157,4 +157,5 @@ spotlight-total-cookie-protection-body = Повний захист кук не �
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
 spotlight-total-cookie-protection-expanded = { -brand-short-name } обгороджує куки, обмежуючи їх використання сайтом, на якому ви перебуваєте, тому елементи стеження не можуть використовувати їх для переслідування. Завдяки ранньому доступу ви допомагаєте оптимізувати цю функцію, щоб ми продовжували створювати кращий Інтернет для кожного.
+spotlight-total-cookie-protection-primary-button = Увімкнути повний захист кук
 spotlight-total-cookie-protection-secondary-button = Не зараз
