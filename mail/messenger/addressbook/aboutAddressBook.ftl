@@ -16,22 +16,26 @@ about-addressbook-toolbar-new-contact =
     .label = ახალი პირი
 about-addressbook-toolbar-new-list =
     .label = ახალი სია
+about-addressbook-toolbar-import =
+    .label = გადმოტანა
 
 ## Books
 
 all-address-books = ყველა წიგნაკი
-
 about-addressbook-books-context-properties =
     .label = პარამეტრები
 about-addressbook-books-context-synchronize =
     .label = სინქრონიზაცია
 about-addressbook-books-context-print =
     .label = ამობეჭდვა…
+about-addressbook-books-context-export =
+    .label = გატანა…
 about-addressbook-books-context-delete =
     .label = წაშლა
 about-addressbook-books-context-remove =
     .label = მოცილება
-
+about-addressbook-books-context-startup-default =
+    .label = ნაგულისხმევი საწყისი საქაღალდე
 about-addressbook-confirm-delete-book-title = წიგნაკის წაშლა
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -49,17 +53,14 @@ about-addressbook-search =
     .placeholder = მოიძებნოს { $name }
 about-addressbook-search-all =
     .placeholder = მოიძებნოს ყველა წიგნაკი
-
 about-addressbook-sort-button =
     .title = ჩამონათვალის რიგითობის შეცვლა
-
 about-addressbook-name-format-display =
     .label = გამოსაჩენი სახელი
 about-addressbook-name-format-firstlast =
     .label = სახელი, გვარი
 about-addressbook-name-format-lastfirst =
     .label = გვარი, სახელი
-
 about-addressbook-sort-name-ascending =
     .label = დალაგება სახელით (ანბანურად)
 about-addressbook-sort-name-descending =
@@ -68,7 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = დალაგება ელფოსტის მისამართით (ანბანურად)
 about-addressbook-sort-email-descending =
     .label = დალაგება ელფოსტის მისამართით (უკუანბანურად)
-
+about-addressbook-cards-context-write =
+    .label = მიწერა
 about-addressbook-confirm-delete-mixed-title = ხალხისა და სიების წაშლა
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -125,9 +127,10 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = ჩასწორება
 about-addressbook-cancel-edit-contact-button = გაუქმება
 about-addressbook-save-edit-contact-button = შენახვა
-
 about-addressbook-details-email-addresses-header = ელფოსტის მისამართები
 about-addressbook-details-phone-numbers-header = ტელეფონის ნომრები
 about-addressbook-details-home-address-header = ბინის მისამართი
 about-addressbook-details-work-address-header = სამსახურის მისამართი
 about-addressbook-details-other-info-header = სხვა ინფორმაცია
+about-addressbook-prompt-to-save-title = შეინახოს ცვლილებები?
+about-addressbook-prompt-to-save = გსურთ, ცვლილებების შენახვა?

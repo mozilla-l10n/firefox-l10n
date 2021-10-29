@@ -253,6 +253,9 @@ diskspace-legend = ადგილი დისკზე
 offline-compact-folder =
     .label = ყველა საქაღალდის შეკუმშვა, თუ მეტ სივრცეს გამოათავისუფლებს
     .accesskey = ტ
+offline-compact-folder-automatically =
+    .label = შეკითხვა ყოველ ჯერზე შემჭიდროებამდე
+    .accesskey = ჯ
 compact-folder-size =
     .value = მბაიტი ჯამში
 
@@ -323,6 +326,8 @@ type-column-label =
 action-column-label =
     .label = ქმედება
     .accesskey = A
+type-column-header = შიგთავსის სახეობა
+action-column-header = მოქმედება
 save-to-label =
     .label = ფაილების შენახვა…
     .accesskey = ნ
@@ -691,6 +696,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = პოვნა პარამეტრებში
 
 ## Settings UI Search Results
 
@@ -700,5 +716,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] ვწუხვართ! შედეგები ფრაზისთვის „<span data-l10n-name="query"></span>“ ვერ მოიძებნა.
        *[other] ვწუხვართ! შედეგები ფრაზისთვის „<span data-l10n-name="query"></span>“ ვერ მოიძებნა.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] ვწუხვართ! შედეგები ფრაზისთვის „<span data-l10n-name="query"></span>“ ვერ მოიძებნა პარამეტრებში.
+       *[other] ვწუხვართ! შედეგები ფრაზისთვის „<span data-l10n-name="query"></span>“ ვერ მოიძებნა პარამეტრებში.
     }
 search-results-help-link = გესაჭიროებათ დახმარება? ეწვიეთ <a data-l10n-name="url">{ -brand-short-name } მხარდაჭერის გვერდს</a>
