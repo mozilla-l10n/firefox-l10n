@@ -950,6 +950,7 @@ content-blocking-all-windows-tracking-content = Элементы сачэння 
 content-blocking-all-third-party-cookies = Усе кукі трэцяга боку
 content-blocking-cryptominers = Майнеры крыптавалют
 content-blocking-fingerprinters = Збіральнікі адбіткаў пальцаў
+content-blocking-etp-standard-tcp-rollout-learn-more = Падрабязней
 content-blocking-warning-title = Увага!
 content-blocking-and-isolating-etp-warning-description = Блакаванне трэкераў і ізаляванне кукаў можа адбіцца на функцыянальнасці некаторых сайтаў. Абнавіце старонку з трэкерамі, каб загрузіць усё змесціва.
 content-blocking-and-isolating-etp-warning-description-2 = Гэта налада можа прывесці да таго, што некаторыя вэб-сайты не будуць паказваць змесціва ці працаваць карэктна. Калі сайт здаецца няспраўным, вы можаце адключыць ахову ад сачэння на гэтым сайце, каб чытаць увесь змест.
