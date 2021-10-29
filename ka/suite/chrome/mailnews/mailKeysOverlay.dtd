@@ -8,6 +8,7 @@
 
 <!ENTITY markAsUnreadCmd.label     "წასაკითხად">
 <!ENTITY markAsUnreadCmd.accesskey "ს">
+<!ENTITY markAsUnreadCmd2.key      "u">
 
 <!ENTITY markFlaggedCmd.label     "ალამი">
 <!ENTITY markFlaggedCmd.accesskey "F">

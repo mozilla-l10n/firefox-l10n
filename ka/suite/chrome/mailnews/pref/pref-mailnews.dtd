@@ -8,8 +8,17 @@
 <!ENTITY confirmMove.accesskey            "ხ">
 <!ENTITY preserveThreading.label          "მიმოწერის შენარჩუნება წერილების დახარისხებისას">
 <!ENTITY preserveThreading.accesskey      "ნ">
+<!ENTITY mailAutoHide.label               "ფოსტის ჩანართების არის დამალვა მხოლოდ ერთი გახსნილი ჩანართის შემთხვევაში">
+<!ENTITY mailAutoHide.accesskey           "დ">
 <!ENTITY loadInBackground.label           "ახალ ჩანართებზე გადასვლა გახსნისთანავე">
 <!ENTITY loadInBackground.accesskey       "ს">
+<!ENTITY mailOpenTabsFor.label            "გახსნა ჩანართებზე ნაცვლად ფანჯრებისა">
+<!ENTITY mailMiddleClick.label            "შუა წკაპი ან Ctrl+Enter წერილზე ან საქაღალდეზე">
+<!ENTITY mailMiddleClick.accesskey        "შ">
+<!ENTITY mailMiddleClickMac.label         "შუა წკაპი ან &#8984;+Return წერილზე ან საქაღალდეზე">
+<!ENTITY mailMiddleClickMac.accesskey     "შ">
+<!ENTITY mailDoubleClick.label            "ორმაგი წკაპი წერილზე">
+<!ENTITY mailDoubleClick.accesskey        "კ">
 <!ENTITY mailBiffOnNewWindow.label        "ახალი ფოსტის შემოწმება მხოლოდ ფოსტისა და სიახლეთა ჯგუფების გახსნის შემდეგ">
 <!ENTITY mailBiffOnNewWindow.accesskey    "დ">
 

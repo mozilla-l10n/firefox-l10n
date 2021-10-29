@@ -9,6 +9,21 @@
 <!ENTITY prefCheckDefaultClient.label     "პროგრამის ნაგულისხმები პარამეტრების შემოწმება სეანსის დაწყებისას">
 <!ENTITY prefCheckDefaultClient.accesskey "წ">
 
+<!ENTITY defaultClientFor.description     "გახადეთ &brandShortName; ნაგულისხმევი:">
+<!ENTITY setDefaultBrowser.label          "ბრაუზერი">
+<!ENTITY setDefaultBrowser.accesskey      "ბ">
+<!ENTITY setDefaultMail.label             "ფოსტა">
+<!ENTITY setDefaultMail.accesskey         "ფ">
+<!ENTITY setDefaultNews.label             "სიახლეები">
+<!ENTITY setDefaultNews.accesskey         "ა">
+<!ENTITY setDefaultFeed.label             "არხები">
+<!ENTITY setDefaultFeed.accesskey         "ხ">
+<!ENTITY useInternalSettings.description  "&brandShortName; ფოსტისა &amp; სიახლეების გამოყენება, ბრაუზერის ბმულების გახსნისას:">
+<!ENTITY useInternalMail.label            "ფოსტა (mailto:)">
+<!ENTITY useInternalMail.accesskey        "ა">
+<!ENTITY useInternalNews.label            "სიახლეები (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "ე">
+
 <!ENTITY printing.label                   "იბეჭდება">
 <!ENTITY useNativePrintDialog.label       "სისტემის ამობეჭდვის ფანჯრით სარგებლობა (სადაც მხარდაჭერილია)">
 <!ENTITY useNativePrintDialog.accesskey   "გ">
