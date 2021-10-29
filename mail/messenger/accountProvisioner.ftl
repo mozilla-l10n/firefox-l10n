@@ -47,3 +47,7 @@ account-provisioner-results-title =
        *[other] ნაპოვნია, { $count } ხელმისაწვდომი მისამართი:
     }
 account-provisioner-mail-results-caption = ძიება შეგიძლიათ სცადოთ მეტსახელით ან ნებისმიერი საძიებო სიტყვით, ელფოსტის სხვა მისამართების მოსანახად.
+account-provisioner-domain-results-caption = ძიება შეგიძლიათ სცადოთ მეტსახელით ან ნებისმიერი საძიებო სიტყვით, დომენის სხვა მისამართების მოსანახად.
+account-provisioner-free-account = უფასო
+account-provision-price-per-year = { $price } წელიწადში
+account-provisioner-all-results-button = ყველა შედეგის ჩვენება
