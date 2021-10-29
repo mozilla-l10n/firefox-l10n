@@ -56,6 +56,8 @@ about-logins-list-item-breach-icon =
     .title = Gi'iaj yi'ì si riña sitiô nan
 about-logins-list-item-vulnerable-password-icon =
     .title = Nitāj si ran hua da’nga’ huìi
+about-logins-list-section-breach = Nej sitio giran\’ sāñūun
+about-logins-list-section-vulnerable = Nej da’nga’ huì huā ahīi
 
 ## Introduction screen
 
