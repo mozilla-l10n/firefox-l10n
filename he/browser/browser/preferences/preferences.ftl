@@ -938,6 +938,9 @@ content-blocking-all-windows-tracking-content = תוכן מעקב בכל החל�
 content-blocking-all-third-party-cookies = כל העוגיות צד־שלישי
 content-blocking-cryptominers = כורי מטבעות דיגיטליים
 content-blocking-fingerprinters = רכיבי זהות דיגיטלית
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מלאה מגבילה עוגיות לאתר שבו אתה נמצא, כך שרכיבי מעקב לא יכולים להשתמש בהם כדי לעקוב אחרי בין אתרים.
+content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-and-isolating-etp-warning-description = חסימת רכיבי מעקב ובידוד עוגיות עשויים להשפיע על הפונקציונליות של אתרים מסוימים. יש לטעון מחדש דף עם רכיבי מעקב כדי לטעון את כל התוכן.
 content-blocking-and-isolating-etp-warning-description-2 = הגדרה זו עלולה לגרום לאתרים מסויימים שלא להציג תוכן או שלא לעבוד כראוי. אם נראה שאתר מסויים שבור, באפשרותך לכבות את הגנת המעקב עבור אותו אתר כדי לטעון את כל התוכן.

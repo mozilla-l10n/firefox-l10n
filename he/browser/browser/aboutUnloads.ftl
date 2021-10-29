@@ -17,6 +17,7 @@ about-unloads-column-memory = זיכרון
     .title = הערכת ניצול הזיכרון של הלשונית
 about-unloads-column-processes = מזהי תהליכים
     .title = מספרי הזיהוי של התהליכים שמאחסנים את תוכן הלשונית
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } מ״ב
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } מ״ב
