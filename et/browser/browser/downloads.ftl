@@ -79,6 +79,24 @@ downloads-cmd-show-description =
 downloads-cmd-always-open-similar-files =
     .label = Ava alati sarnased failid
     .accesskey = v
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Kuva Finderis
+           *[other] Ava faili sisaldav kaust
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Kuva Finderis
+           *[other] Ava faili sisaldav kaust
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Kuva Finderis
+           *[other] Ava faili sisaldav kaust
+        }
 downloads-cmd-show-downloads =
     .label = Kuva allalaadimiste kausta
 downloads-cmd-retry =
@@ -140,6 +158,11 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Avatakse { $hours }t { $minutes }m pärast…
+downloading-file-opens-in-minutes = Avatakse { $minutes }m pärast…
+downloading-file-opens-in-minutes-and-seconds = Avatakse { $minutes }m { $seconds }s pärast…
+downloading-file-opens-in-seconds = Avatakse { $seconds }s pärast…
+downloading-file-opens-in-some-time = Avatakse allalaadimise lõppemisel…
 
 ##
 
@@ -171,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Selle seansi jooksul pole midagi alla laaditud.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Laaditakse alla veel ühte faili
+       *[other] Laaditakse alla veel { $count } faili
+    }
