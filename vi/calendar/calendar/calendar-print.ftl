@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Tác vụ đã hoàn tất
 calendar-print-filter-taskswithnoduedate = Tác vụ không có ngày đến hạn
 calendar-print-range-from = Từ
 calendar-print-range-to = Đến
+calendar-print-back-button = Quay lại
 calendar-print-next-button = Tiếp theo
