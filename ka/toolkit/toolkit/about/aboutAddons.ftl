@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = იხილეთ გაფართოებები და თემები, <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = ლექსიკონებისთვის, იხილეთ <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = ენის კრებულებისთვის, იხილეთ <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = ამ სახის არცერთი დამატება არ გაქვთ დაყენებული
 list-empty-available-updates =
