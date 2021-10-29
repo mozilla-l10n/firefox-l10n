@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Kiegészítők és témák beszerzése itt: <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Szótárak beszerzése itt: <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Nyelvi csomagok beszerzése itt: <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nincs ilyen típusú kiegészítője
 list-empty-available-updates =

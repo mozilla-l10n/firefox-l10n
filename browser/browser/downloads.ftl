@@ -74,6 +74,11 @@ downloads-cmd-show-description =
             [macos] Megjelenítés a Finderben
            *[other] Tartalmazó mappa megnyitása
         }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Mindig nyissa meg a hasonló fájlokat
+    .accesskey = M
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
