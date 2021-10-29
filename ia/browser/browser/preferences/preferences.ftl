@@ -946,6 +946,12 @@ content-blocking-all-windows-tracking-content = Contento de traciamento in tote 
 content-blocking-all-third-party-cookies = Tote le cookies de tertios
 content-blocking-cryptominers = Cryptominatores
 content-blocking-fingerprinters = Dactylogrammatores
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Prova primo nostre potentissime function de confidentialitate
+    .accesskey = P
+content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
 content-blocking-warning-title = Attention!
 content-blocking-and-isolating-etp-warning-description = Blocar traciatores e isolar cookies poterea impedir le functionamento de alcun sitos. Recarga un pagina con traciatores pro cargar tote le contento.
 content-blocking-and-isolating-etp-warning-description-2 = Iste parametro pote causar alcun sitos web a non monstrar contento o non pote functionar correctemente. Si un sito pare corrupte, prova disactivar protection de traciamento pro ille sito pote cargar tote le contento.
