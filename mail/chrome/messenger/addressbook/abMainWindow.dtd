@@ -42,6 +42,9 @@
 <!ENTITY editMenu.accesskey                             "ჩ">
 <!ENTITY deleteCmd.label                                "წაშლა">
 <!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">
+<!ENTITY deleteAbCmd.accesskey                          "ლ">
+<!ENTITY removeAbCmd.label                              "მისამართების წიგნაკის მოცილება">
+<!ENTITY removeAbCmd.accesskey                          "ც">
 <!ENTITY deleteContactCmd.label                         "პირის ამოშლა">
 <!ENTITY deleteContactsCmd.label                        "ხალხის ამოშლა">
 <!ENTITY deleteListCmd.label                            "სიის წაშლა">
@@ -129,6 +132,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "ჭ">
 <!ENTITY deleteButton2.label                            "წაშლა">
 <!ENTITY deleteButton2.accesskey                        "შ">
+<!ENTITY removeButton.label                             "მოცილება">
+<!ENTITY removeButton.accesskey                         "ც">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "სვეტების შერჩევა საჩვენებლად">
@@ -141,6 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "წერილის გაგზავნა">
 <!ENTITY newIM.tooltip                                  "სწრაფი შეტყობინების გაგზავნა ან საუბარი">
 <!ENTITY deleteButton2.tooltip                          "მონიშნული ელემენტის წაშლა">
+<!ENTITY removeButton.tooltip                           "შერჩეული მისამართების წიგნაკის მოცილება">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "სახელი ან ელფოსტა">
