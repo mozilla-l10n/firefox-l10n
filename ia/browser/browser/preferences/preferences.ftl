@@ -951,6 +951,8 @@ content-blocking-fingerprinters = Dactylogrammatores
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Prova primo nostre potentissime function de confidentialitate
     .accesskey = P
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Le protection total contra le cookies contine le cookies del sito ubi tu es, assi le traciatores non pote sequer te inter le sitos.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pro saper plus
 content-blocking-warning-title = Attention!
 content-blocking-and-isolating-etp-warning-description = Blocar traciatores e isolar cookies poterea impedir le functionamento de alcun sitos. Recarga un pagina con traciatores pro cargar tote le contento.
