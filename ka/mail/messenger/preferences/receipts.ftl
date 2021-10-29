@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = მიღების დასტური
-
-return-receipt-checkbox =
-    .label = წერილების გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა
-    .acceskey = წ
-
+return-receipt-checkbox-control =
+    .label = წერილის გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა
+    .accesskey = ბ
 receipt-arrive-label = მიღების დასტურის მოსვლისას:
-
-receipt-leave-radio =
+receipt-leave-radio-control =
     .label = მიღებულ წერილებში დატოვება
-    .acceskey = i
-
-receipt-move-radio =
-    .label = გადატანა საქაღალდეში "გაგზავნილი"
-    .acceskey = m
-
+    .accesskey = ო
+receipt-move-radio-control =
+    .label = გადატანა საქაღალდეში „გაგზავნილი“
+    .accesskey = ზ
 receipt-request-label = მიღების დასტურის მოთხოვნის მოსვლისას:
-
-receipt-return-never-radio =
-    .label = დასტურის არასოდეს გაგზავნა
-    .acceskey = n
-
-receipt-return-some-radio =
-    .label = დასტურის გაგზავნა ზოგიერთი წერილისთვის
-    .acceskey = r
-
-receipt-not-to-cc =
-    .value = თუ არ ვარ მითითებული ამ წერილის ან მისი ასლის მიმღებად:
-    .acceskey = f
-
+receipt-return-never-radio-control =
+    .label = დასტურის დაბრუნების გარეშე
+    .accesskey = უ
+receipt-return-some-radio-control =
+    .label = დასტურის დაბრუნება ზოგიერთ წერილზე
+    .accesskey = ზ
+receipt-not-to-cc-label =
+    .value = თუ არ ვარ წერილის „მიმღების“ ან „ასლის“ ველებში:
+    .accesskey = თ
 receipt-send-never-label =
     .label = არასდროს გაიგზავნოს
-
 receipt-send-always-label =
     .label = გაგზავნე ყოველთვის
-
 receipt-send-ask-label =
     .label = შეკითხვა ყოველ ჯერზე
-
-sender-outside-domain =
-    .value = თუ გამომგზავნი ჩემს დომენს არ ეკუთვნის:
-    .acceskey = t
-
-other-cases-label =
+sender-outside-domain-label =
+    .value = თუ გამომგზავნი ჩემი დომენიდან არაა:
+    .accesskey = თ
+other-cases-text-label =
     .value = ყველა სხვა შემთხვევაში:
-    .acceskey = a
+    .accesskey = ვ

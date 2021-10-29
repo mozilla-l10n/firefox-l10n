@@ -4,18 +4,21 @@
 
 chat-joining-chat-icon2 =
     .alt = სასაუბროს უერთდება
-
 chat-left-chat-icon2 =
     .alt = სასაუბრო დატოვა
-
 chat-participant-owner-role-icon2 =
     .alt = მფლობელი
-
 chat-participant-administrator-role-icon2 =
     .alt = მმართველი
-
 chat-participant-moderator-role-icon2 =
     .alt = ზედამხედველი
-
 chat-participant-voiced-role-icon2 =
     .alt = მონაწილეს შეუძლია შეტყობინებების დატოვება
+chat-verify-identity =
+    .label = ვინაობის დამოწმება
+    .accesskey = წ
+chat-identity-verified =
+    .label = ვინაობა უკვე დამოწმებულია
+chat-buddy-identity-status = დაშიფვრის სანდოობა
+chat-buddy-identity-status-verified = დამოწმებულია
+chat-buddy-identity-status-unverified = დაუმოწმებელია

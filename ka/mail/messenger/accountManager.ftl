@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = { -brand-short-name } პარამეტრები
-
+open-preferences-sidebar-button2 = { -brand-short-name } პარამეტრები
 open-addons-sidebar-button = დანამატები და თემები
-
+account-action-add-newsgroup-account =
+    .label = სიახლეთა ჯგუფების დამატება…
+    .accesskey = ს

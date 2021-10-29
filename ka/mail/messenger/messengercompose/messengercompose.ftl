@@ -39,6 +39,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = გადატანა ფარული ასლის ველში
     .accesskey = ფ
+pill-action-expand-list =
+    .label = ჩამონათვალის გაშლა
+    .accesskey = ვ
 
 # Attachment widget
 
@@ -155,6 +158,11 @@ bcc-compose-show-address-row-label =
 many-public-recipients-info = ველებში მითითებული { $count } მიმღები იხილავს ერთმანეთის მისამართს. ამის ასარიდებლად, შეგიძლიათ გამოიყენოთ ფარული (Bcc) ველი.
 to-address-row-label =
     .value = ვის
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = მიმღების ველი
+    .accesskey = ი
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-to-row-button text.
 show-to-row-extra-menuitem =
@@ -180,21 +188,55 @@ show-cc-row-button = ასლი
     .title = ასლის ველის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = ფარული ასლი
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = ფარული ასლის ველი
+    .accesskey = ფ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = ფარული ასლი
+    .accesskey = ფ
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = ფარული ასლი
+    .title = ფარული ასლის ველის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = მისამართების სხვა ველების გამოჩენა
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] თქვენს წერილს საჯარო მიმღები ჰყავს. სხვა მიმღებების გამხელის არიდება, ფარული ასლის გამოყენებით შეიძლება.
+       *[other] თქვენს წერილს { $count } საჯარო მიმღები ჰყავს. სხვა მიმღებების გამხელის არიდება, ფარული ასლის გამოყენებით შეიძლება.
+    }
 many-public-recipients-bcc =
     .label = ფარული ასლებით შეცვლა
     .accesskey = ფ
 many-public-recipients-ignore =
     .label = მიმღებების საჯაროდ დატოვება
     .accesskey = ჯ
+many-public-recipients-prompt-title = ზედმეტად ბევრი საჯარო მიმღებია
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] თქვენს წერილს საჯარო მიმღები ჰყავს. შესაძლოა, პირადი მონაცემების არასასურველი გამჟღავნება გამოიწვიოს. ასარიდებლად, ფარული ასლის გამოყენება შეიძლება.
+       *[other] თქვენს წერილს { $count } საჯარო მიმღები ჰყავს, რომლებიც ერთმანეთის მისამართებს ნახავენ. შესაძლოა, პირადი მონაცემების არასასურველი გამჟღავნება გამოიწვიოს. ასარიდებლად, ფარული ასლის გამოყენება შეიძლება.
+    }
+many-public-recipients-prompt-cancel = გაგზავნის გაუქმება
+many-public-recipients-prompt-send = მაინც გაგზავნა
 
 ## Notifications
 
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = გამგზავნის მისამართის შესაბამისი ვინაობა ვერ მოიძებნა. შეტყობინება გაიგზავნება გამგზავნის ველში მოცემული მისამართიდან და { $identity } ვინაობის პარამეტრებით.
+encrypted-bcc-warning = დაშიფრული შეტყობინების გაგზავნისას, მიმღებები ფარული ასლის ველში, სრულად დამალული არაა. ყველა მიმღებს შეეძლება მათი გამომჟღავნება.
+encrypted-bcc-ignore-button = გასაგებია
 
 ## Editing
 
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = ტექსტის გაფორმების მოცილება
