@@ -946,6 +946,7 @@ content-blocking-all-windows-tracking-content = Volginhoud in alle vensters
 content-blocking-all-third-party-cookies = Alle cookies van derden
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+content-blocking-etp-standard-tcp-rollout-learn-more = Meer info
 content-blocking-warning-title = Let op!
 content-blocking-and-isolating-etp-warning-description = Het blokkeren van trackers en isoleren van cookies kan de functionaliteit van sommige websites beïnvloeden. Laad een pagina met trackers opnieuw om alle inhoud te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Deze instelling kan ervoor zorgen dat sommige websites inhoud niet tonen of niet correct werken. Als een website niet lijkt te werken, dan kunt u bescherming tegen volgen voor die website uitschakelen om alle inhoud te laden.
