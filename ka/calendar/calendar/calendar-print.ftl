@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = დასრულებული და�
 calendar-print-filter-taskswithnoduedate = უვადო დავალებები
 calendar-print-range-from = დაწყ.
 calendar-print-range-to = დასრ.
+calendar-print-back-button = უკან
 calendar-print-next-button = შემდეგი
