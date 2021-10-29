@@ -930,6 +930,14 @@ content-blocking-all-windows-tracking-content = Trình theo dõi nội dung tron
 content-blocking-all-third-party-cookies = Toàn bộ cookie từ bên thứ ba
 content-blocking-cryptominers = Tiền điện tử
 content-blocking-fingerprinters = Dấu vết (Fingerprintng)
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Thử tính năng bảo mật mạnh mẽ nhất của chúng tôi từ trước đến nay
+    .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Trình chống cookie chung chứa các cookie cho trang web bạn đang truy cập, vì vậy, trình theo dõi không thể sử dụng chúng để theo dõi bạn giữa các trang web.
+content-blocking-etp-standard-tcp-rollout-learn-more = Tìm hiểu thêm
 content-blocking-warning-title = Hãy cân nhắc!
 content-blocking-and-isolating-etp-warning-description = Chặn trình theo dõi và cô lập cookie có thể ảnh hưởng đến chức năng của một số trang web. Tải lại một trang với trình theo dõi để tải tất cả nội dung.
 content-blocking-and-isolating-etp-warning-description-2 = Cài đặt này có thể khiến một số trang web không hiển thị nội dung hoặc hoạt động không chính xác. Nếu trang web có vẻ bị hỏng, bạn có thể muốn tắt trình chống theo dõi để trang web đó tải tất cả nội dung.
