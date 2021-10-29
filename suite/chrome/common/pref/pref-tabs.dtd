@@ -11,6 +11,8 @@
 <!ENTITY background.accesskey "B">
 <!ENTITY diverted.label "Basculer vers les nouveaux onglets ouverts à partir de liens détournés">
 <!ENTITY diverted.accesskey "o">
+<!ENTITY browserFocus.label "Donner le focus à la fenêtre du navigateur pour les liens ouverts dans des onglets depuis d’autres applications">
+<!ENTITY browserFocus.accesskey "F">
 <!ENTITY warnOnClose.label "Me prévenir lors de la fermeture d’une fenêtre contenant plusieurs onglets">
 <!ENTITY warnOnClose.accesskey "M">
 <!ENTITY relatedAfterCurrent.label "Ouvrir les onglets liés après l’onglet courant">
