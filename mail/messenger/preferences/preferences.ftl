@@ -327,6 +327,7 @@ action-column-label =
     .label = Action
     .accesskey = A
 type-column-header = Type de contenu
+action-column-header = Action
 save-to-label =
     .label = Enregistrer les fichiers sous
     .accesskey = E
