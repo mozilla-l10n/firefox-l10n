@@ -127,6 +127,10 @@ cfr-doorhanger-video-support-primary-button = Абнавіць зараз
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Падрабязней
+    .title = Разгарнiцe, каб даведацца больш пра гэтую функцыю
+spotlight-learn-more-expanded = Падрабязней
+    .title = Закрыць
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
