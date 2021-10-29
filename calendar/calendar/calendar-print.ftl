@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Voltooide taken
 calendar-print-filter-taskswithnoduedate = Taken zonder einddatum
 calendar-print-range-from = Van
 calendar-print-range-to = Aan
+calendar-print-back-button = Terug
 calendar-print-next-button = Volgende
