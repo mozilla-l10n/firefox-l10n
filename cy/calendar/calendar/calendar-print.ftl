@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Tasgau wedi'u cwblhau
 calendar-print-filter-taskswithnoduedate = Tasgau heb ddyddiad cwblhau
 calendar-print-range-from = O
 calendar-print-range-to = Tan
+calendar-print-back-button = Nôl
 calendar-print-next-button = Nesaf
