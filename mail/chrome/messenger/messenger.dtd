@@ -490,6 +490,8 @@
 <!ENTITY deleteJunk.accesskey "მ">
 <!ENTITY importCmd.label "გადმოტანა…">
 <!ENTITY importCmd.accesskey "გ">
+<!ENTITY exportCmd.label "გატანა…">
+<!ENTITY exportCmd.accesskey "გ">
 <!ENTITY clearRecentHistory.label "უახლესი ისტორიის გასუფთავება…">
 <!ENTITY clearRecentHistory.accesskey "ს">
 <!ENTITY accountManagerCmd2.label "ანგარიშის პარამეტრები">
@@ -696,7 +698,6 @@
 <!ENTITY locationColumn.label "მისამართი">
 <!ENTITY idColumn.label "მიღების რიგი">
 <!ENTITY attachmentColumn.label "დანართები">
-
 <!ENTITY deleteColumn.label "წაშლა">
 
 <!-- Thread Pane Tooltips -->
@@ -722,7 +723,6 @@
 <!ENTITY locationColumn2.tooltip "მდებარეობის მიხედვით">
 <!ENTITY idColumn2.tooltip "მიღების თანმიმდევრობით">
 <!ENTITY attachmentColumn2.tooltip "დანართების მიხედვით">
-
 <!ENTITY deleteColumn.tooltip "წერილის წაშლა">
 
 <!-- Thread Pane Context Menu -->
