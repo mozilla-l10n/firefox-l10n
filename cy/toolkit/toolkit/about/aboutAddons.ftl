@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Cewch estyniadau a themâu yn <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Cael geiriaduron o <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Cael pecynnau iaith o <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nid oes gennych ychwanegion o'r math yma wedi eu gosod
 list-empty-available-updates =
