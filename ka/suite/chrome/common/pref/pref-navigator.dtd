@@ -5,23 +5,23 @@
 <!ENTITY pref.navigator.title           "ბრაუზერი">
 
 <!ENTITY navRadio.label                 "ჩვენება">
-<!ENTITY navRadio.accesskey             "n">
+<!ENTITY navRadio.accesskey             "ნ">
 <!ENTITY navStartPageMenu.label         "ნავიგატორის სეანსის დაწყება">
 <!ENTITY newWinPageMenu.label           "ახალ სარკმელში">
 <!ENTITY newTabPageMenu.label           "ახალ ჩანართიზე">
 
 <!ENTITY blankPageRadio.label           "სუფთა გვერდით">
-<!ENTITY blankPageRadio.accesskey       "B">
+<!ENTITY blankPageRadio.accesskey       "ფ">
 <!ENTITY homePageRadio.label            "თავფურცლით">
-<!ENTITY homePageRadio.accesskey        "m">
+<!ENTITY homePageRadio.accesskey        "ც">
 <!ENTITY lastPageRadio.label            "წინა სეანსის ბოლო გვერდით">
-<!ENTITY lastPageRadio.accesskey        "L">
+<!ENTITY lastPageRadio.accesskey        "წ">
 <!ENTITY restoreSessionRadio.label      "წინა სეანსის აღდგენა">
-<!ENTITY restoreSessionRadio.accesskey  "P">
+<!ENTITY restoreSessionRadio.accesskey  "ნ">
 
 <!ENTITY restoreSessionIntro.label      "სეანსებისა და სარკმლების აღდგენისას">
 <!ENTITY restoreImmediately.label       "ყველა ჩანართის დაუყოვნებლივ აღდგენა">
-<!ENTITY restoreImmediately.accesskey   "e">
+<!ENTITY restoreImmediately.accesskey   "ე">
 <!-- LOCALIZATION NOTE (restoreTabs.label): This will concatenate to
      "Restore [___] tab(s) at a time",
      using (restoreTabs.label) and a number (restoreTabsAtATime.label). -->
@@ -29,7 +29,13 @@
 <!ENTITY restoreTabs.accesskey          "ღ">
 <!ENTITY restoreTabsAtATime.label       "ჩანართი ერთ ჯერზე">
 <!ENTITY restoreDeferred.label          "ჩანართების აღდგენა მხოლოდ მოთხოვნისას">
-<!ENTITY restoreDeferred.accesskey      "O">
+<!ENTITY restoreDeferred.accesskey      "ხ">
+
+<!ENTITY siteIcons.label                "ვებსაიტის ხატულები">
+<!ENTITY useSiteIcons.label             "ვებსაიტის ხატულების ჩვენება">
+<!ENTITY useSiteIcons.accesskey         "ლ">
+<!ENTITY useFavIcons.label              "სერვერის favicon ხატულის გამოყენების მცდელობა, როცა გვერდს არ გააჩნია განსაზღვრული ხატულა">
+<!ENTITY useFavIcons.accesskey          "ტ">
 
 <!ENTITY homePageIntro.label            "თავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
 <!ENTITY useCurrent.label               "გამოიყენე მიმდინარე გვერდი">
