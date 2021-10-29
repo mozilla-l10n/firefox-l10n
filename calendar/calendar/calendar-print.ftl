@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = 已完成的工作
 calendar-print-filter-taskswithnoduedate = 沒有到期日的工作
 calendar-print-range-from = 從
 calendar-print-range-to = 到
+calendar-print-back-button = 上一頁
 calendar-print-next-button = 下一個
