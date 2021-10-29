@@ -65,6 +65,10 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Sa ri perfîl
     .tooltiptext = Gi'iaj grabândo 'ngō perfil nikāj rendimiênto
+profiler-popup-learn-more-button =
+    .label = Gāhuin chrūn doj
+profiler-popup-settings =
+    .value = Nāgi\'iô\'
 
 ## Profiler presets
 ## They are shown in the popup's select box.
