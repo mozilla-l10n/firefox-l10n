@@ -111,11 +111,21 @@ account-setup-step5-image =
 account-setup-privacy-footnote2 = თქვენი მონაცემები, მხოლოდ ადგილობრივად შეინახება კომპიუტერში.
 account-setup-selection-help = არ იცით რა აირჩიოთ?
 account-setup-selection-error = გესაჭიროებათ დახმარება?
+account-setup-success-help = ზუსტად არ იცით, შემდეგ რა მოიმოქმედოთ?
 account-setup-documentation-help = გამართვის მასალები
 account-setup-forum-help = მხარდაჭერის ფორუმი
+account-setup-privacy-help = პირადულობის დებულება
+account-setup-getting-started = დაწყება
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] ხელმისაწვდომი წყობა
+       *[other] ხელმისაწვდომი წყობები
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = ინარჩუნებს თქვენს საქაღალდეებსა და წერილებს სერვერთან სინქრონში
@@ -124,6 +134,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = ინარჩუნებს თქვენს საქაღალდეებსა და წერილებს თქვენს კომპიუტერში
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = გამოიყენეთ Microsoft Exchange სერვერი ან Office365 ღრუბლოვანი მომსახურებები
 account-setup-incoming-title = მიღებული
 account-setup-outgoing-title = გაგზავნილი
 account-setup-username-title = მომხმარებლის სახელი
@@ -145,6 +157,7 @@ account-setup-credentials-incomplete = შესვლა ვერ მოხე
 account-setup-credentials-wrong = შესვლა ვერ მოხერხდა. გთხოვთ, გადაამოწმოთ სახელი და პაროლი
 account-setup-find-settings-failed = { -brand-short-name } ვერ ახერხებს პარამეტრების მოძიებას, თქვენი ელფოსტის ანგარიშისთვის.
 account-setup-exchange-config-unverifiable = გამართვის პარამეტრების დამოწმება ვერ მოხერხდა. თუ თქვენი სახელი და პაროლი სწორია, შესაძლოა სერვერის ხელმძღვანელობამ გათიშა აღნიშნული პარამეტრები თქვენი ანგარიშისთვის. სცადეთ სხვა ოქმის მითითება.
+account-setup-provisioner-error = შეცდომა წარმოიშვა, როცა { -brand-short-name } ახალ ანგარიშს აყენებდა. გთხოვთ, ხელით გამართოთ საკუთარი მონაცემებით.
 
 ## Manual configuration area
 
@@ -203,6 +216,7 @@ exchange-dialog-cancel-button = გაუქმება
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = ელფოსტის ანგარიში ვერ გაიმართა
 
 ## Alert dialogs
 
