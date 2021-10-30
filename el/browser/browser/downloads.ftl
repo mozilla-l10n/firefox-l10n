@@ -44,6 +44,8 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Άνοιγμα με το πρόγραμμα προβολής συστήματος
     .accesskey = π
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Άνοιγμα πάντα με το πρόγραμμα προβολής συστήματος
     .accesskey = ν
@@ -64,6 +66,12 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Προβολή στο Finder
            *[other] Άνοιγμα φακέλου λήψης
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Εμφάνιση στο Finder
+           *[other] Εμφάνιση στον φάκελο
         }
 downloads-cmd-show-downloads =
     .label = Εμφάνιση φακέλου λήψεων
