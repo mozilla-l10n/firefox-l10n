@@ -954,6 +954,11 @@ content-blocking-all-windows-tracking-content = Slědowacy wobsah we wšěch wok
 content-blocking-all-third-party-cookies = Wšě placki třećich
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Porstowe wotćišće
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Testujće našu najmócnišu funkciju priwatnosće wšěch čšasow
+    .accesskey = T
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
 content-blocking-warning-title = Kedźbu!
 content-blocking-and-isolating-etp-warning-description = Blokowanje přesćěhowakow a izolowanje placko móhłoj funkcionalnosć někotrych websydłow wobwliwować. Začitajće stronu z přesćěhowakami znowa, zo byšće wšón wobsah začitał.
