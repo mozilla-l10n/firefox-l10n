@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Κλείσιμο
 preferences-doc-title = Προτιμήσεις
+preferences-doc-title2 = Ρυθμίσεις
 category-list =
     .aria-label = Κατηγορίες
 pane-general-title = Γενικά
@@ -117,6 +118,9 @@ restore-default-label =
 default-search-engine = Προεπιλεγμένη μηχανή αναζήτησης
 add-search-engine =
     .label = Προσθήκη από αρχείο
+    .accesskey = Π
+add-web-search-engine =
+    .label = Προσθήκη…
     .accesskey = Π
 remove-search-engine =
     .label = Αφαίρεση
@@ -309,6 +313,8 @@ search-handler-table =
     .placeholder = Φιλτράρισμα τύπων περιεχομένου και ενεργειών
 type-column-label = Τύπος περιεχομένου
 action-column-label = Ενέργεια
+type-column-header = Τύπος περιεχομένου
+action-column-header = Ενέργεια
 save-to-label =
     .label = Αποθήκευση αρχείων σε
     .accesskey = θ
@@ -676,6 +682,20 @@ search-preferences-input =
     .placeholder = Εύρεση στις προτιμήσεις
 
 ## Preferences UI Search Results
+
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Εύρεση στις ρυθμίσεις
+
+## Settings UI Search Results
 
 search-results-header = Αποτελέσματα αναζήτησης
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
