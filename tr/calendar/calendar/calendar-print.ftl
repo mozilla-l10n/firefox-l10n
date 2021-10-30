@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Tamamlanmış görevler
 calendar-print-filter-taskswithnoduedate = Bitiş tarihi olmayan görevler
 calendar-print-range-from = Başlangıç
 calendar-print-range-to = Bitiş
+calendar-print-back-button = Geri dön
 calendar-print-next-button = İleri
