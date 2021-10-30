@@ -732,6 +732,19 @@ picture-in-picture-hide-toggle =
     .label = Nascondi selettore Picture-in-Picture
     .accesskey = N
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Sposta selettore Picture-in-Picture a destra
+    .accesskey = d
+
+picture-in-picture-move-toggle-left =
+    .label = Sposta selettore Picture-in-Picture a sinistra
+    .accesskey = s
+
+##
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
