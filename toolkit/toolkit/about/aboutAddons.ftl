@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Λήψη επεκτάσεων και θεμάτων στο <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Λήψη λεξικών στο <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Λήψη πακέτων γλωσσών στο <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου
 list-empty-available-updates =

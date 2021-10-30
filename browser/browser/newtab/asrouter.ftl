@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Προτεινόμενη λειτουργία
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
-
 cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
-
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
-
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
-
 cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
     .accesskey = Ν
-
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = από { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Πρόταση
 cfr-doorhanger-extension-notification2 = Πρόταση
     .tooltiptext = Πρόταση επέκτασης
     .a11y-announcement = Διαθέσιμη πρόταση επέκτασης
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Πρόταση
@@ -65,8 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } χρήστες
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
@@ -87,30 +77,10 @@ cfr-protections-panel-link-text = Μάθετε περισσότερα
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Νέο χαρακτηριστικό:
-
 cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
-
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -123,20 +93,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Προβολή όλων
     .accesskey = Π
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Κλείσιμο
     .accesskey = Κ
 
@@ -165,15 +121,25 @@ cfr-doorhanger-video-support-header = Ενημερώστε το { -brand-short-n
 cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
     .accesskey = Ε
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-expanded = Μάθετε περισσότερα
+    .title = Κλείσιμο
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Φαίνεται πως χρησιμοποιείτε δημόσιο Wi-Fi
 spotlight-public-wifi-vpn-body = Για να αποκρύψετε την τοποθεσία και τη διαδικτυακή σας δραστηριότητα, δοκιμάστε ένα VPN. Θα σας προστατεύει κατά την περιήγηση από δημόσια μέρη, όπως αεροδρόμια και καφετέριες.
 spotlight-public-wifi-vpn-primary-button = Προστατέψτε το απόρρητό σας με το { -mozilla-vpn-brand-name }
     .accesskey = Π
 spotlight-public-wifi-vpn-link = Όχι τώρα
     .accesskey = Ό
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Όχι τώρα
