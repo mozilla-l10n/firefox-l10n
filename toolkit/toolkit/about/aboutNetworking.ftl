@@ -8,6 +8,7 @@ about-networking-sockets = Υποδοχές
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Απαλοιφή κρυφής μνήμης DNS
 about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = Λειτουργία DoH
 about-networking-dns-suffix = Κατάληξη DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Ανανέωση
