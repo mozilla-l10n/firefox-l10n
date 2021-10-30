@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Ολοκληρωμένες εργασίε
 calendar-print-filter-taskswithnoduedate = Εργασίες χωρίς προθεσμία
 calendar-print-range-from = Από
 calendar-print-range-to = Έως
+calendar-print-back-button = Πίσω
 calendar-print-next-button = Επόμενο
