@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Προτιμήσεις
     .accesskey = Π
+menu-tools-settings =
+    .label = Ρυθμίσεις
+    .accesskey = θ
 menu-addons-and-themes =
     .label = Πρόσθετα και θέματα
     .accesskey = ρ
