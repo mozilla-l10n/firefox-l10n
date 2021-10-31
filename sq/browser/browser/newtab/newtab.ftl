@@ -8,7 +8,6 @@
 newtab-page-title = Skedë e Re
 newtab-settings-button =
     .title = Personalizoni faqen tuaj Skedë e Re
-
 newtab-personalize-icon-label =
     .title = Personalizoni skedën e re
     .aria-label = Personalizoni skedën e re
@@ -21,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Kërkoni me { $engine } ose jepni adresë
@@ -36,12 +34,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Bëni kërkim ose jepni adresë
     .title = Bëni kërkim ose jepni adresë
     .aria-label = Bëni kërkim ose jepni adresë
-
 newtab-search-box-search-the-web-input =
     .placeholder = Kërkoni në Web
     .title = Kërkoni në Web
     .aria-label = Kërkoni në Web
-
+newtab-search-box-text = Kërkoni në web
 newtab-search-box-input =
     .placeholder = Kërkoni në web
     .aria-label = Kërkoni në web
@@ -56,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Shtypni ose hidhni një URL
 newtab-topsites-url-validation = Lypset URL e vlefshme
-
 newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
@@ -90,12 +85,10 @@ newtab-topsite-sponsored = E sponsorizuar
 newtab-menu-section-tooltip =
     .title = Hapni menunë
     .aria-label = Hapni menunë
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Hiqe
     .aria-label = Hiqe
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -164,16 +157,19 @@ newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
 newtab-label-saved = Ruajtur te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · E sponsorizuar
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsorizuar nga { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } minuta
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -208,12 +204,10 @@ newtab-section-header-pocket = Rekomanduar nga { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Filloni shfletimin, dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Gjithë ç’kish, e dini. Rikontrolloni më vonë për më tepër histori nga { $provider }. S’pritni dot? Përzgjidhni një temë popullore që të gjenden në internet më tepër histori të goditura.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -228,10 +222,25 @@ newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam k
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tema Popullore:
+newtab-pocket-new-topics-title = Doni më tepër gjëra? Shihni këto tema popullore prej { -pocket-brand-name }
 newtab-pocket-more-recommendations = Më Tepër Rekomandime
 newtab-pocket-learn-more = Mësoni më tepër
 newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
 newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni, dhe ushqejeni mendjen me lexime të mahnitshme.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } është pjesë e familjes { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Ruajeni te { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = U ruajt te { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Ngarko më tepër gjëra
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = S’ka tjetër!
+newtab-pocket-last-card-desc = Kontrolloni më vonë për më tepër.
+newtab-pocket-last-card-image =
+    .alt = S’ka tjetër
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -255,5 +264,4 @@ newtab-custom-pocket-sponsored = Histori të sponsorizuara
 newtab-custom-recent-title = Veprimtari së fundi
 newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-close-button = Mbylle
-
 newtab-custom-settings = Administroni më tepër rregullime

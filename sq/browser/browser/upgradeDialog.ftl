@@ -64,6 +64,19 @@ upgrade-dialog-default-secondary-button = Jo tani
 upgrade-dialog-theme-title-2 = Kini një fillim të pastër, me një temë të kthjellët
 upgrade-dialog-theme-system = Temë sistemi
     .title = Për butona, menu dhe dritare ndiq temën e sistemit operativ
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = Jo tani
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Zgjidhni paletën tuaj
+upgrade-dialog-colorway-secondary-button = Mbaj temën e mëparshme
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Eksploroni tema parazgjedhje
+upgrade-dialog-colorway-default-theme = Parazgjedhje
 upgrade-dialog-theme-light = E çelët
     .title = Për butona, menu dhe dritare përdor një temë të çelët
 upgrade-dialog-theme-dark = E errët
@@ -74,3 +87,9 @@ upgrade-dialog-theme-keep = Mba të mëparshmen
     .title = Përdorni temën që patët instaluar para përditësimit të  { -brand-short-name }-it
 upgrade-dialog-theme-primary-button = Ruaje temën
 upgrade-dialog-theme-secondary-button = Jo tani
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Faleminderit që na zgjidhni ne
+upgrade-dialog-thankyou-primary-button = Nisni shfletimin
