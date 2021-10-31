@@ -144,10 +144,10 @@ spotlight-public-wifi-vpn-link = 暂时不要
 
 # "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
 # "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = 抢先体验有史以来最强大的隐私保护
-spotlight-total-cookie-protection-body = “全方位 Cookie 保护”可阻止跟踪器借 Cookie 在网上跟踪您。
+spotlight-total-cookie-protection-header = 体验有史以来最强大的隐私保护
+spotlight-total-cookie-protection-body = 全方位 Cookie 保护 - 阻止跟踪器借 Cookie 实施跟踪。
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
 spotlight-total-cookie-protection-expanded = { -brand-short-name } 可将每个网站的 Cookie 用“围栏”完全隔离，以阻止跟踪器借其实施跟踪。您可以通过抢先体验来帮助我们优化此功能，为每个人构建更好的网络环境。
-spotlight-total-cookie-protection-primary-button = 开启“全方位 Cookie 保护”
+spotlight-total-cookie-protection-primary-button = 立即开启
 spotlight-total-cookie-protection-secondary-button = 暂时不要
