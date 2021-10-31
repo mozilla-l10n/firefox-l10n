@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Аяқталған тапсырмалар
 calendar-print-filter-taskswithnoduedate = Бітіру уақыты жоқ тапсырмалар
 calendar-print-range-from = Бастап
 calendar-print-range-to = Дейін
+calendar-print-back-button = Артқа
 calendar-print-next-button = Келесі
