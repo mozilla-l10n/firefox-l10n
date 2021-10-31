@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Parapëlqime { -brand-short-name }-i
-
+open-preferences-sidebar-button2 = Rregullime { -brand-short-name }-i
 open-addons-sidebar-button = Shtesa dhe Tema
-
+account-action-add-newsgroup-account =
+    .label = Shtoni Llogari Grupi Lajmesh…
+    .accesskey = L
