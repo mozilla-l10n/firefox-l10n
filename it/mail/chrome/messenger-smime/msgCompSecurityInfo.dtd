@@ -5,10 +5,10 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Sicurezza messaggio">
-<!ENTITY subject.plaintextWarning "Nota: il testo nell’oggetto del messaggio non verrà cifrato.">
+<!ENTITY subject.plaintextWarning "Nota: il testo nell’oggetto del messaggio non verrà crittato.">
 <!ENTITY status.heading "I contenuti del messaggio verranno spediti come segue:">
 <!ENTITY status.signed "Firma digitale:">
-<!ENTITY status.encrypted "Cifratura:">
+<!ENTITY status.encrypted "Crittografia:">
 <!ENTITY status.certificates "Certificati:">
 <!ENTITY view.label "Visualizza">
 <!ENTITY view.accesskey "V">
