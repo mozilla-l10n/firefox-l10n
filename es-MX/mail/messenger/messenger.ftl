@@ -12,13 +12,14 @@ unread-messages-os-tooltip =
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = La pagina esta cargando
 
 ## Toolbar
 
 addons-and-themes-toolbarbutton =
     .label = Complementos y temas
     .tooltiptext = Administra tus complementos
-
 quick-filter-toolbarbutton =
     .label = Filtro rápido
     .tooltiptext = Filtrar mensajes
@@ -32,23 +33,18 @@ folder-pane-header-label = Carpetas
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ocultar barra de herramientas
     .accesskey = O
-
 show-all-folders-label =
     .label = Todas las carpetas
     .accesskey = T
-
 show-unread-folders-label =
     .label = Carpetas no leídas
     .accesskey = C
-
 show-favorite-folders-label =
     .label = Carpetas favoritas
     .accesskey = C
-
 show-recent-folders-label =
     .label = Carpetas recientes
     .accesskey = C
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Vista compacta
     .accesskey = C
@@ -62,16 +58,12 @@ folder-toolbar-toggle-folder-compact-view =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferencias
-
 appmenu-addons-and-themes =
     .label = Complementos y temas
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Modo de resolución de problemas…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar modo de resolución de problemas
-
 appmenu-help-more-troubleshooting-info =
     .label = Más información sobre resolución de problemas
 
@@ -96,7 +88,6 @@ toolbar-context-menu-remove-extension =
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = ¿Eliminar { $name }?
 addon-removal-confirmation-button = Eliminar
-
 caret-browsing-prompt-check-text = No volver a preguntar.
 
 ## no-reply handling
