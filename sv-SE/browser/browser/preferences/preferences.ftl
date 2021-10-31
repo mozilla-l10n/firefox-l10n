@@ -952,7 +952,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Förhandstesta vår mest kraftfulla sekretessfunktion någonsin
     .accesskey = F
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Totalt Cookie Protection begränsar cookies till webbplatsen du är på, så spårare kan inte använda dem för att följa dig mellan webbplatser.
+content-blocking-etp-standard-tcp-rollout-description = Totalt skydd mot kakor isolerar kakor från webbplatsen du är på, så spårare inte kan använda dem för att följa dig mellan webbplatser.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer
 content-blocking-warning-title = Se upp!
 content-blocking-and-isolating-etp-warning-description = Blockering av spårare och isolering av kakor kan påverka funktionaliteten på vissa webbplatser. Ladda om en sida med spårare för att ladda allt innehåll.
