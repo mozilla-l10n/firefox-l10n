@@ -151,5 +151,8 @@ spotlight-total-cookie-protection-header =
     Şimdiye kadarki en güçlü gizlilik özelliğimizi
     ilk deneyen siz olun
 spotlight-total-cookie-protection-body = Komple çerez koruması, takip kodlarının sizi web’de takip etmek için çerezleri kullanmasını engeller.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }, çerezlerin etrafına bir duvar örerek bulunduğunuz sitedeki çerezleri sadece o sitenin kullanmasına izin verir. Böylece takip kodları sizi izlemek için çerezleri kullanamaz. Erken erişim aşamasında bu özelliği deneyerek herkes için daha iyi web yaratmamıza yardımcı olabilirsiniz.
 spotlight-total-cookie-protection-primary-button = Komple çerez korumasını aç
 spotlight-total-cookie-protection-secondary-button = Daha sonra
