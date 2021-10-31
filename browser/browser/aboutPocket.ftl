@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Dodaj oznake
-
 pocket-panel-saved-error-generic = Med shranjevanjem na { -pocket-brand-name } je prišlo do napake.
 pocket-panel-saved-error-tag-length = Oznake so omejene na 25 znakov
 pocket-panel-saved-error-only-links = Shranite lahko samo povezave
@@ -44,7 +43,7 @@ pocket-panel-signup-tagline-story-two = Oglejte si v { -pocket-brand-name }u na 
 
 pocket-panel-home-my-list = Moj seznam
 pocket-panel-home-welcome-back = Dobrodošli nazaj
-pocket-panel-home-paragraph = { -pocket-brand-name } lahko uporabljate za raziskovanje in shranjevanje spletnih strani, člankov, videoposnetkov in poddaj ali za vračanje na vsebine, ki ste jih brali.
+pocket-panel-home-paragraph = { -pocket-brand-name } lahko uporabljate za odkrivanje in shranjevanje spletnih strani, člankov, videoposnetkov in podkastov ali za vračanje na vsebine, ki ste jih brali.
 pocket-panel-home-explore-popular-topics = Razišči pogoste teme
 pocket-panel-home-discover-more = Odkrijte več
 pocket-panel-home-explore-more = Razišči
