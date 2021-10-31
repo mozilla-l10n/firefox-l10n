@@ -946,6 +946,14 @@ content-blocking-all-windows-tracking-content = Tüm pencerelerde takip amaçlı
 content-blocking-all-third-party-cookies = Tüm üçüncü taraf çerezlerini engeller
 content-blocking-cryptominers = Kripto madencileri
 content-blocking-fingerprinters = Parmak izi toplayıcılar
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Şimdiye kadarki en güçlü gizlilik özelliğimizi ilk deneyen siz olun
+    .accesskey = m
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Komple çerez koruması, çerezleri sadece bulunduğunuz sitenin kullanabileceği şekilde sınırlar. Bu sayede çerezler hangi sitelerde gezindiğinizi izlemek için kullanılamaz.
+content-blocking-etp-standard-tcp-rollout-learn-more = Daha fazla bilgi al
 content-blocking-warning-title = Dikkat!
 content-blocking-and-isolating-etp-warning-description = Takipçileri engellemek ve çerezleri izole etmek bazı sitelerin düzgün çalışmamasına yol açabilir. Takipçi içeren bir sayfanın tüm içeriğini yüklemek için sayfayı tazeleyin.
 content-blocking-and-isolating-etp-warning-description-2 = Bu ayar, bazı web sitelerinin içeriğinin görünmemesine veya düzgün çalışmamasına neden olabilir. Site bozuk görünüyorsa o sitenin tüm içeriğinin yüklemesi için izlenme korumasını kapatabilirsiniz.
