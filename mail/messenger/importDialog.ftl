@@ -4,9 +4,8 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = Importoni postë që prej një drejtorie profili Thunderbird.
-
 import-select-profile-zip = Përzgjidhni një drejtori profili në format zip
-
+import-select-profile-dir = Përzgjidhni drejtori profili
+zip-file-too-big-title = Kartelë Zip Shumë e Madhe
