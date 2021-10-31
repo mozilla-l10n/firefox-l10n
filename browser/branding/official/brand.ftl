@@ -24,4 +24,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox र Firefox को लोगो Mozilla Foundation का ट्रेडमार्कहरू हुन्।
+trademarkInfo = Firefox र Firefox को लोगोहरु Mozilla फाउण्डेसनका ट्रेडमार्कहरू हुन्।
