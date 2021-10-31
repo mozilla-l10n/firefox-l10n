@@ -65,6 +65,27 @@ login-intro-description = यदि तपाईंले आफ्नो लग
 ## Login
 
 login-item-new-login-title = नयाँ लगइन सिर्जना गर्नुहोस्
+login-item-edit-button = सम्पादन गर्नुहोस्
+about-logins-login-item-remove-button = हटाउनुहोस्
+login-item-origin-label = वेबसाइट ठेगाना
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = प्रयोगकर्ताको नाम
+about-logins-login-item-username =
+    .placeholder = (प्रयोगकर्ताको नाम छैन)
+login-item-copy-username-button-text = प्रतिलिपि गर्नुहोस्
+login-item-copied-username-button-text = प्रतिलिपि गरियो !
+login-item-password-label = पासवर्ड
+login-item-password-reveal-checkbox =
+    .aria-label = पासवर्ड देखाउनुहोस्
+login-item-copy-password-button-text = प्रतिलिपि गर्नुहोस्
+login-item-copied-password-button-text = प्रतिलिपि गरियो !
+login-item-save-changes-button = परिवर्तनहरू सुरक्षित गर्नुहोस्
+login-item-save-new-button = सङ्ग्रह गर्नुहोस्
+login-item-cancel-button = रद्द गर्नुहोस्
+login-item-time-changed = अन्तिम परिमार्जन: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = सिर्जना गरिएको: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = अन्तिम प्रयोग: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -80,12 +101,25 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = सेभ गरे
 
 ## Primary Password notification
 
+master-password-reload-button =
+    .label = लगइन गर्नुहोस्
+    .accesskey = ल
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = रद्द गर्नुहोस्
+confirmation-dialog-dismiss-button =
+    .title = रद्द गर्नुहोस्
+about-logins-confirm-remove-dialog-title = यो लगइन हटाउन चाहनुहुन्छ?
+confirm-delete-dialog-message = यो कार्य पूर्ववत गर्न सकिँदैन ।
+about-logins-confirm-remove-dialog-confirm-button = हटाउनुहोस्
+confirm-discard-changes-dialog-title = सङ्ग्रह नगरिएका परिवर्तनहरू रद्द गर्न चाहानुहुन्छ ?
+confirm-discard-changes-dialog-message = सबै सङ्ग्रह नगरिएका परिवर्तनहरू हराउने छन्।
+confirm-discard-changes-dialog-confirm-button = खारेज गर्नुहोस्
 
 ## Breach Alert notification
 
+breach-alert-text = पछिल्लोपटक तपाईले आफ्नो लगइन विवरण अद्यावधिक गरेपछि यस वेबसाइटबाट पासवर्ड चोरी भएको थियो। तपाईंको खाता सुरक्षित गर्न तपाईंको पासवर्ड परिवर्तन गर्नुहोस्।
 
 ## Vulnerable Password notification
 
