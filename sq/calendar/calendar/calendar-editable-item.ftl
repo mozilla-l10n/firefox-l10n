@@ -22,3 +22,5 @@ calendar-editable-item-reminder-icon-suppressed-alarm =
     .alt = Është vënë në plan një sinjalizim për kujtesë, por është ndalur aktualisht
 calendar-editable-item-reminder-icon-email =
     .alt = Është vënë në plan një email për kujtesë
+calendar-editable-item-reminder-icon-audio =
+    .alt = Është vënë në plan një sinjalizim audio për kujtesë
