@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Punë të plotësuara
 calendar-print-filter-taskswithnoduedate = Punë pa datë afati
 calendar-print-range-from = Nga
 calendar-print-range-to = Për
+calendar-print-back-button = Mbrapsht
 calendar-print-next-button = Pasuesja

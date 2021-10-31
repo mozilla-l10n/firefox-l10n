@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Krejt kalendarët janë hëpërhë të çaktivizuar. Që të krijoni dhe përpunoni akte, aktivizoni një kalendar ekzistues ose shtoni një të ri.
 calendar-deactivated-notification-tasks = Krejt kalendarët janë hëpërhë të çaktivizuar. Që të krijoni dhe përpunoni punë, aktivizoni një kalendar ekzistues ose shtoni një të ri.
+calendar-notifications-label = Shfaq njoftime për veprimtari të ardhshme
+calendar-add-notification-button =
+    .label = Shtoni njoftim

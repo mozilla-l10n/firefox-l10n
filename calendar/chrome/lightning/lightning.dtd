@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Hape">
-<!ENTITY lightning.menupopup.open.accesskey           "H">
-<!ENTITY lightning.menupopup.open.message.label       "Mesazh i Ruajtur…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kartelë Kalendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Tani për tani, këtë mund ta aktivizoni pasi të rregulloni këtë kalendar te dialogu i vetive për të, nëse shërbyesi i kalendarit kujdeset për planifikimet.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Kjo mundësi është e përdorshme vetëm nëse shërbyesi i kalendarit e mbulon planifikimin. Aktivizimi do të lejojë përdorimin e planifikimeve standard , bazuar në email, në vend se kjo t’i lihet shërbyesit.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Njoftime">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Parapëlqime Globale Njoftimesh…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Pranoje">
