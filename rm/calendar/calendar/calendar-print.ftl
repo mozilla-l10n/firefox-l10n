@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Incumbensas finidas
 calendar-print-filter-taskswithnoduedate = Incumbensas senza data da scadenza
 calendar-print-range-from = Da
 calendar-print-range-to = A
+calendar-print-back-button = Enavos
 calendar-print-next-button = Enavant
