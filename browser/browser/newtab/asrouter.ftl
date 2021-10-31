@@ -122,15 +122,32 @@ cfr-doorhanger-video-support-header = Actualisar { -brand-short-name } per far i
 cfr-doorhanger-video-support-primary-button = Actualisar ussa
     .accesskey = u
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Ulteriuras infurmaziuns
+    .title = Expander per vegnir a savair dapli davart la funcziun
+spotlight-learn-more-expanded = Ulteriuras infurmaziuns
+    .title = Serrar
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = I para che ti utiliseschias in WLAN public
 spotlight-public-wifi-vpn-body = Per zuppentar tia posiziun ed activitad da navigaziun, considerescha l'utilisaziun dad ina rait privata virtuala (VPN). Ella gida da ta proteger cura che ti navigheschas en lieus publics sco eroports e cafés.
 spotlight-public-wifi-vpn-primary-button = Salva tia sfera privata cun { -mozilla-vpn-brand-name }
     .accesskey = S
 spotlight-public-wifi-vpn-link = Betg ussa
     .accesskey = B
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Testescha gia ussa la nova funcziun per
+    la protecziun optimala da tia sfera privata
+spotlight-total-cookie-protection-body = La protecziun totala cunter cookies impedescha ch'ils fastizaders dovrian ils cookies per ta persequitar en il web.
