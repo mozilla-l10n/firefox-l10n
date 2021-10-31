@@ -6,6 +6,12 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry Layout
+experimental-features-css-masonry-description = Deneysel CSS Masonry Layout desteğini etkinleştirir. Bu özellik hakkında daha detaylı bilgi için <a data-l10n-name="explainer">anlatıcıya</a> bakabilirsiniz. Geri bildirimde bulunmak için <a data-l10n-name="w3c-issue">GitHub’daki bu soruna</a> veya <a data-l10n-name="bug">bu bug’a</a> yorum yapabilirsiniz.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS: Cascade Layers
+experimental-features-css-cascade-layers-description = CSS Cascade Layers desteğini etkinleştirir. Ayrıntılar için <a data-l10n-name="spec">henüz tamamlanmamış şartnameye</a> bakabilirsiniz. Bu özellikle ilgili hataları <a data-l10n-name="bugzilla">bug 1699215</a>’i bloke ederek rapor edebilirsiniz.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
@@ -25,6 +31,8 @@ experimental-features-media-jxl-description = Bu özellik etkinleştirildiğinde
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inputmode">inputmode</a> genel özniteliği uygulamamız <a data-l10n-name="whatwg">WHATWG şartnamesi</a> uyarınca güncellendi ama hâlâ yapmamız gereken bazı değişiklikler var (örn. bu özniteliği contenteditable içeriğinde kullanılabilir hale getirmek). Daha fazla bilgi için <a data-l10n-name="bugzilla">bug 1205133</a>’e bakabilirsiniz.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -54,6 +62,7 @@ experimental-features-abouthome-startup-cache-description = Başlangıçta varsa
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Çerezler: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Aynı alan adındaki ancak farklı şemadaki sitelerin (örn. http://example.com ve https://example.com) çerezlerini aynı site olarak saymak yerine siteler arası olarak sayar. Güvenliği artırır ama bazı sitelerin bozulmasına yol açabilir.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Geliştirici Araçları: Service Worker hata ayıklama

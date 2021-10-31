@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Uzantıları ve temaları <a data-l10n-name="get-extensions">{ $domain }</a> adresinden indirebilirsiniz.
+list-empty-get-dictionaries-message = Sözlükleri <a data-l10n-name="get-extensions">{ $domain }</a> adresinden indirebilirsiniz.
+list-empty-get-language-packs-message = Dil paketlerini <a data-l10n-name="get-extensions">{ $domain }</a> adresinden indirebilirsiniz.
 list-empty-installed =
     .value = Bu türden kurulmuş bir eklentiniz yok
 list-empty-available-updates =
