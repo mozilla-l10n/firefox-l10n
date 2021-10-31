@@ -5,68 +5,55 @@
 permissions-window =
     .title = Përjashtime
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresë e sajtit
     .accesskey = d
-
 permissions-block =
     .label = Bllokoje
     .accesskey = B
-
 permissions-session =
     .label = Lejoje për Sesionin
     .accesskey = S
-
 permissions-allow =
     .label = Lejoje
     .accesskey = L
-
 permissions-site-name =
     .label = Sajt
-
 permissions-status =
     .label = Gjendje
-
 permissions-remove =
     .label = Hiqe Sajtin
     .accesskey = H
-
 permissions-remove-all =
     .label = Hiqi Krejt Sajtet
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R
-
 permissions-autoplay-menu = Parazgjedhje për krejt sajtet:
-
 permissions-searchbox =
     .placeholder = Kërko Në Sajte
-
 permissions-capabilities-autoplay-allow =
     .label = Lejo Audio dhe Video
 permissions-capabilities-autoplay-block =
     .label = Blloko Audion
 permissions-capabilities-autoplay-blockall =
     .label = Blloko Audio dhe Video
-
 permissions-capabilities-allow =
     .label = Lejoje
 permissions-capabilities-block =
     .label = Bllokoje
 permissions-capabilities-prompt =
     .label = Pyet Përherë
-
 permissions-capabilities-listitem-allow =
     .value = Lejoje
 permissions-capabilities-listitem-block =
     .value = Bllokoje
 permissions-capabilities-listitem-allow-session =
     .value = Lejoje për Sesionin
+permissions-capabilities-listitem-off =
+    .value = Off
 
 ## Invalid Hostname Dialog
 
@@ -88,6 +75,7 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet përherë ose kurrë të përdorin cookies dhe të dhëna sajtesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni Bllokoje, Lejoje për Sesion, ose Lejoje.
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 

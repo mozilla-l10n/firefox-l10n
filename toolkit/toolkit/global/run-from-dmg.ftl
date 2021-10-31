@@ -8,6 +8,7 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = Të përfundohet instalimi i { -brand-short-name }-it?
 prompt-to-install-yes-button = Instaloje
 prompt-to-install-no-button = Mos e Instalo
 
@@ -22,3 +23,4 @@ install-failed-message = { -brand-short-name }-i s’arriti të instalohej, por 
 
 prompt-to-launch-existing-app-title = Të hapet aplikacioni { -brand-short-name } ekzistues?
 prompt-to-launch-existing-app-yes-button = Hap ekzistuesin
+prompt-to-launch-existing-app-no-button = Jo, faleminderit
