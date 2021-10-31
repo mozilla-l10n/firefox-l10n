@@ -5,52 +5,39 @@
 key-wizard-button =
     .buttonlabelaccept = Continuar
     .buttonlabelhelp = Regresar
-
 key-wizard-learn-more = Saber más
 
 ## Generate key section
 
 openpgp-generate-key-title = Generar clave OpenPGP
-
 radio-keygen-expiry =
     .label = La clave expira en
     .accesskey = e
-
 radio-keygen-no-expiry =
     .label = La clave no expira
     .accesskey = c
-
 openpgp-keygen-days-label =
     .label = días
 openpgp-keygen-months-label =
     .label = meses
 openpgp-keygen-years-label =
     .label = años
-
 openpgp-keygen-advanced-title = Configuración avanzada
-
 openpgp-keygen-keytype =
     .value = Tipo de clave:
     .accesskey = t
-
 openpgp-keygen-keysize =
     .value = Tamaño de clave:
     .accesskey = s
-
 openpgp-keygen-type-rsa =
     .label = RSA
-
 openpgp-keygen-button = Generar clave
-
 openpgp-keygen-confirm =
     .label = Confirmar
-
 openpgp-keygen-dismiss =
     .label = Cancelar
-
 openpgp-keygen-cancel =
     .label = Cancelar proceso…
-
 openpgp-keygen-import-complete =
     .label = Cerrar
     .accesskey = C
@@ -58,6 +45,8 @@ openpgp-keygen-import-complete =
 ## Import Key section
 
 gnupg-file = Archivos GnuPG
+openpgp-import-identity-label = Identidad
+openpgp-import-bits-label = Bits
 
 ## External Key section
 

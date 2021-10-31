@@ -19,6 +19,8 @@ account-setup-email-input =
     .placeholder = john.doe@example.com
 account-setup-password-toggle-hide =
     .title = Ocultar contraseña
+account-setup-remember-password = Recordar contraseña
+    .accesskey = m
 
 ## Action buttons
 
@@ -76,11 +78,14 @@ protocol-exchange-option = { account-setup-result-exchange }
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-cleartext-password-option = Contraseña normal
 ssl-encrypted-password-option = Contraseña cifrada
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Ninguno
+account-setup-auth-label = Método de autenticación:
+account-setup-username-label = Nombre de usuario:
 account-setup-advanced-setup-button = Configuración avanzada
     .accesskey = a
 
