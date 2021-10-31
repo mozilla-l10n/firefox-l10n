@@ -182,12 +182,19 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük overhead.
 profiler-popup-presets-web-developer-label =
     .label = Web geliştirici
+profiler-popup-presets-firefox-platform-description = Dahili Firefox platformu hata ayıklaması için önerilen ayarlar.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox platformu
+profiler-popup-presets-firefox-front-end-description = Dahili Firefox ön yüz hata ayıklaması için önerilen ayarlar.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox ön yüzü
+profiler-popup-presets-firefox-graphics-description = Firefox grafik performans incelemesi için önerilen ayarlar.
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox grafikleri
+profiler-popup-presets-media-description = Ses ve video sorunlarını tanılamak için önerilen ayarlar.
 profiler-popup-presets-media-label =
     .label = Ortam
 profiler-popup-presets-custom-label =

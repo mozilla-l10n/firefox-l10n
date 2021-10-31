@@ -122,15 +122,34 @@ cfr-doorhanger-video-support-header = Videoları izlemek için { -brand-short-na
 cfr-doorhanger-video-support-primary-button = Şimdi güncelle
     .accesskey = m
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Daha fazla bilgi al
+    .title = Özellik hakkında daha fazla bilgi al
+spotlight-learn-more-expanded = Daha fazla bilgi al
+    .title = Kapat
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Galiba herkese açık bir Wi-Fi ağına bağlısınız
 spotlight-public-wifi-vpn-body = Konumunuzu ve girdiğiniz siteleri gizlemek için VPN kullanabilirsiniz. Havalimanları ve kafeler gibi halka açık yerlerde internette gezinirken VPN kullanmanız güvenliğinizi artırır.
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ile gizli kalın
     .accesskey = k
 spotlight-public-wifi-vpn-link = Daha sonra
     .accesskey = D
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Şimdiye kadarki en güçlü gizlilik özelliğimizi
+    ilk deneyen siz olun
+spotlight-total-cookie-protection-body = Komple çerez koruması, takip kodlarının sizi web’de takip etmek için çerezleri kullanmasını engeller.
+spotlight-total-cookie-protection-primary-button = Komple çerez korumasını aç
+spotlight-total-cookie-protection-secondary-button = Daha sonra

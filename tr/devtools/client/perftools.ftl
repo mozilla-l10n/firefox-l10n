@@ -115,9 +115,15 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web geliştirici
+perftools-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük overhead.
 perftools-presets-firefox-platform-label = Firefox platformu
+perftools-presets-firefox-platform-description = Dahili Firefox platformu hata ayıklaması için önerilen ayarlar.
+perftools-presets-firefox-front-end-label = Firefox ön yüzü
+perftools-presets-firefox-front-end-description = Dahili Firefox ön yüz hata ayıklaması için önerilen ayarlar.
 perftools-presets-firefox-graphics-label = Firefox grafikleri
+perftools-presets-firefox-graphics-description = Firefox grafik performans incelemesi için önerilen ayarlar.
 perftools-presets-media-label = Ortam
+perftools-presets-media-description = Ses ve video sorunlarını tanılamak için önerilen ayarlar.
 perftools-presets-custom-label = Özel
 
 ##
