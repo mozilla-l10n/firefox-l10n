@@ -62,6 +62,8 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-notabs = कोई टैब खुला नहीं
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले.
+appmenu-remote-tabs-opensettings =
+    .label = सेटिंग
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
@@ -71,6 +73,7 @@ appmenu-remote-tabs-welcome = अपने अन्य उपकरणों �
 appmenu-remote-tabs-unverified = आपके खाते की पृष्टि करने की आवश्यकता है.
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenuitem-fxa-sign-in = { -brand-product-name } में साइन इन करें
+appmenuitem-fxa-manage-account = खाता प्रबंधित करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
 appmenuitem-save-page =
@@ -126,9 +129,13 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-media-label =
+    .label = मीडिया
 
 ## History panel
 
+appmenu-manage-history =
+    .label = इतिहास प्रबंधित करें
 appmenu-reopen-all-tabs = सभी टैब फिर से खोलें
 appmenu-reopen-all-windows = सभी विंडो फिर से खोलें
 appmenu-restore-session =
