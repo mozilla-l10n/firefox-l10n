@@ -941,7 +941,7 @@ content-blocking-fingerprinters = 数字指纹跟踪程序
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
-    .label = 前所未有的强大隐私保护，抢先体验
+    .label = 体验有史以来最强大的隐私保护
     .accesskey = T
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = “全方位 Cookie 保护”能够完全隔离每个网站的 Cookie，阻止跟踪器借其跨网站跟踪您。
