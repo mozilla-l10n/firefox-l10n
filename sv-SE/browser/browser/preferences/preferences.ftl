@@ -946,6 +946,14 @@ content-blocking-all-windows-tracking-content = Spårningsinnehåll i alla föns
 content-blocking-all-third-party-cookies = Alla kakor från tredje part
 content-blocking-cryptominers = Kryptogrävare
 content-blocking-fingerprinters = Fingeravtrycksspårare
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Förhandstesta vår mest kraftfulla sekretessfunktion någonsin
+    .accesskey = F
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Totalt Cookie Protection begränsar cookies till webbplatsen du är på, så spårare kan inte använda dem för att följa dig mellan webbplatser.
+content-blocking-etp-standard-tcp-rollout-learn-more = Lär dig mer
 content-blocking-warning-title = Se upp!
 content-blocking-and-isolating-etp-warning-description = Blockering av spårare och isolering av kakor kan påverka funktionaliteten på vissa webbplatser. Ladda om en sida med spårare för att ladda allt innehåll.
 content-blocking-and-isolating-etp-warning-description-2 = Denna inställning kan göra att vissa webbplatser inte visar innehåll eller fungerar korrekt. Om en webbplats verkar trasig kanske du vill inaktivera spårningsskydd för den webbplatsen för att ladda allt innehåll.
