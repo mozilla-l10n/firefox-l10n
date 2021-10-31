@@ -10,21 +10,20 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = ट्याग थप्नुहोस्
-
-pocket-panel-saved-error-generic = { -pocket-brand-name } मा सङ्ग्रह गर्न प्रयास गर्दा, एउटा त्रुटी भयो।
-pocket-panel-saved-error-tag-length = ट्याग २५ अक्षर सम्म सिमित हुन्छन
+    .placeholder = ट्यागहरु थप्नुहोस्
+pocket-panel-saved-error-generic = { -pocket-brand-name } मा सेभ गर्ने क्रममा, एउटा समस्या देखा पर्यो।
+pocket-panel-saved-error-tag-length = ट्याग २५ अक्षरहरु सम्म सिमित छन्
 pocket-panel-saved-error-only-links = लिङ्कहरू मात्र सङ्ग्रह गर्न सकिन्छ
-pocket-panel-saved-error-not-saved = पृष्ठ सङ्ग्रह गरिएको छैन
+pocket-panel-saved-error-not-saved = पृष्ठ सेभ गरिएको छैन
 pocket-panel-saved-page-removed = पृष्ठ हटाइयो
-pocket-panel-saved-page-saved = { -pocket-brand-name } मा सङ्ग्रह गरियो
+pocket-panel-saved-page-saved = { -pocket-brand-name } मा सेभ गरियो
 pocket-panel-saved-processing-remove = पृष्ठ हटाउँदै ...
 pocket-panel-saved-processing-tags = ट्यागहरू थप्दै…
 pocket-panel-saved-remove-page = पृष्ठ हटाउनुहोस्
-pocket-panel-saved-save-tags = सङ्ग्रह गर्नुहोस्
-pocket-panel-saved-saving-tags = सङ्ग्रह गरिँदै…
+pocket-panel-saved-save-tags = सेभ गर्नुहोस्
+pocket-panel-saved-saving-tags = सेभ गरिँदै…
 pocket-panel-saved-suggested-tags = सिफारिस गरिएका ट्यागहरू
-pocket-panel-saved-tags-saved = ट्यागहरू थिपियो
+pocket-panel-saved-tags-saved = ट्यागहरू थपियो
 pocket-panel-signup-view-list = सुची हेर्नुहोस्
 
 ## about:pocket-signup panel
