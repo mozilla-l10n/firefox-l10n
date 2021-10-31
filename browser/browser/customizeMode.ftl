@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Zhbëje
 customize-mode-lwthemes-my-themes =
     .value = Temat e Mia
+customize-mode-lwthemes-link = Administroni Tema
 customize-mode-touchbar-cmd =
     .label = Përshtatni Shtyllën e Prekjeve…
 customize-mode-downloads-button-autohide =

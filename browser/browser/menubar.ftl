@@ -38,20 +38,16 @@ menu-quit =
             [windows] D
            *[other] l
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Dilni prej { -brand-shorter-name }-it
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Dilni nga { -brand-shorter-name }-i
-
 menu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
@@ -84,6 +80,15 @@ menu-file-open-file =
 menu-file-close =
     .label = Mbylleni
     .accesskey = M
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Mbylle Skedën
+           *[other] Mbylli { $tabCount } Skedat
+        }
+    .accesskey = M
 menu-file-close-window =
     .label = Mbylleni Dritaren
     .accesskey = D
@@ -93,6 +98,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Dërgoni Lidhje me Email…
     .accesskey = E
+menu-file-share-url =
+    .label = Ndajeni me të tjerët
+    .accesskey = N
 menu-file-print-setup =
     .label = Rregullim Faqeje…
     .accesskey = u
@@ -168,6 +176,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stil Elementar Faqeje
     .accesskey = S
+menu-view-repair-text-encoding =
+    .label = Riparo Kodim Teksti
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -210,7 +221,6 @@ menu-history-undo-menu =
     .label = Skeda të Mbyllura Së Fundi
 menu-history-undo-window-menu =
     .label = Dritare të mbyllura Së Fundi
-
 menu-history-reopen-all-tabs = Rihapi Krejt Skedat
 menu-history-reopen-all-windows = Rihapi Krejt Dritaret
 
@@ -219,6 +229,8 @@ menu-history-reopen-all-windows = Rihapi Krejt Dritaret
 menu-bookmarks-menu =
     .label = Faqerojtës
     .accesskey = F
+menu-bookmarks-manage =
+    .label = Administroni Faqerojtës
 menu-bookmark-current-tab =
     .label = Faqeruaj Skedën e Tanishme
 menu-bookmark-edit =

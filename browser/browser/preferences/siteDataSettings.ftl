@@ -7,13 +7,10 @@
 
 site-data-settings-window =
     .title = Administroni Cookies dhe të Dhëna Sajtesh
-
 site-data-settings-description = Sajtet vijuese depozitojnë cookies dhe të dhëna sajtesh në kompjuterin tuaj. { -brand-short-name }-i mban nën depozitim të përhershëm të dhëna nga sajte, deri sa t’i fshini, dhe fshin të dhëna nga sajte me depozitim jo të përhershëm dora-dorës që lypset hapësirë.
-
 site-data-search-textbox =
     .placeholder = Kërko në sajte
     .accesskey = K
-
 site-data-column-host =
     .label = Sajt
 site-data-column-cookies =
@@ -22,18 +19,14 @@ site-data-column-storage =
     .label = Depozitë
 site-data-column-last-used =
     .label = Përdorur Së Fundi Më
-
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (kartelë vendore)
-
 site-data-remove-selected =
     .label = Hiq të Përzgjedhurën
     .accesskey = H
-
 site-data-settings-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -41,11 +34,9 @@ site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value } (I qëndrueshëm)
-
 site-data-remove-all =
     .label = Hiqi Krejt
     .accesskey = i
-
 site-data-remove-shown =
     .label = Hiqi Krejt të Shfaqurit
     .accesskey = i
@@ -55,9 +46,9 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Hiqe
-
 site-data-removing-header = Heqje Cookies dhe të Dhëna Sajtesh
-
 site-data-removing-desc = Heqja e cookie-eve dhe të dhënave të sajteve mund të sjellë daljen tuaj nga llogaritë në sajte. Jeni i sigurt se doni të bëhen këto ndryshime?
-
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = Heqja e cookie-ve dhe të dhënave të sajtit mund të sjellë daljen tuaj nga sajte. Jeni i sigurt se doni të hiqen cookies dhe të dhëna sajtesh për <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookie-t dhe të dhënat e sajteve për sajtet vijues do të hiqen
