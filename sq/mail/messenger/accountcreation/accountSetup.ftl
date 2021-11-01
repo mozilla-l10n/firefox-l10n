@@ -157,6 +157,7 @@ account-setup-credentials-incomplete = Mirëfilltësimi dështoi. Ose kredencial
 account-setup-credentials-wrong = Mirëfilltësimi dështoi. Ju lutemi,, kontrolloni emrin e përdoruesi dhe fjalëkalimin
 account-setup-find-settings-failed = { -brand-short-name } s’arriti të gjejë rregullimet për llogarinë tuaj email
 account-setup-exchange-config-unverifiable = Formësimi s’u verifikua dot. Nëse emri juaj i përdoruesit dhe fjalëkalimi janë të saktë, gjasat janë që përgjegjësi i shërbyesit të ketë çaktivizuar për llogarinë tuaj formësimin e përzgjedhur. Provoni përzgjedhjen e një protokolli tjetër.
+account-setup-provisioner-error = Ndodhi një gabim teksa ujdisej llogaria juaj e re në { -brand-short-name }. Ju lutemi, provoni ta ujdisni dorazi llogarinë tuaj duke përdorur kredencialet tuaja.
 
 ## Manual configuration area
 
@@ -215,6 +216,10 @@ exchange-dialog-cancel-button = Anuloje
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = S’ka Llogari Email të Formësuar
+exit-dialog-description = Jeni i sigurt se doni të anulohet procesi i ujdisjes? { -brand-short-name }-i mundet prapë të përdoret pa një llogari email, por shumë veçori s’do të jenë të pranishme.
+account-setup-no-account-checkbox = Përdoreni { -brand-short-name }-in pa një llogari email
+    .accesskey = P
 exit-dialog-cancel-button = Vazhdoni Ujdisjen
     .accesskey = V
 exit-dialog-confirm-button = Braktise Ujdisjen
@@ -243,23 +248,57 @@ account-setup-address-book-carddav-button = Lidheni me një libër adresash Card
 account-setup-address-book-ldap-button = Lidheni me një libër adresash LDAP
 account-setup-calendar-button = Lidheni me një kalendar së largëti
 account-setup-linked-services-title = Lidheni me shërbimet tuaja të lidhura
+account-setup-linked-services-description = { -brand-short-name }-i pikasi shërbime të tjera të lidhura me llogarinë tuaj email.
+account-setup-no-linked-description = Që të përfitoni maksimumin e punimit tuaj në { -brand-short-name }, ujdisni shërbime të tjera.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name }-i gjeti një libër adresash të lidhur me llogarinë tuaj email.
+       *[other] { -brand-short-name }-i gjeti { $count } libra adresash të lidhur me llogarinë tuaj email.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name }-i gjeti një kalendar të lidhur me llogarinë tuaj email.
+       *[other] { -brand-short-name }-i gjeti { $count } kalendarë të lidhur me llogarinë tuaj email.
+    }
 account-setup-button-finish = Përfundoje
     .accesskey = P
+account-setup-looking-up-address-books = Po shihet për libra adresash…
+account-setup-looking-up-calendars = Po shihet për kalendarë…
 account-setup-address-books-button = Libra Adresash
 account-setup-calendars-button = Kalendarë
 account-setup-connect-link = Lidhe
+account-setup-existing-address-book = I lidhur
+    .title = Libër adresash tashmë i lidhur
+account-setup-existing-calendar = I lidhur
+    .title = Kalendar tashmë i lidhur
+account-setup-connect-all-calendars = Lidhi krejt kalendarët
+account-setup-connect-all-address-books = Lidhi krejt librat e adresave
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Lidhni kalendar
 calendar-dialog-cancel-button = Anuloje
     .accesskey = A
+calendar-dialog-confirm-button = Lidhe
+    .accesskey = L
 account-setup-calendar-name-label = Emër
 account-setup-calendar-name-input =
     .placeholder = Kalendari im
 account-setup-calendar-color-label = Ngjyrë
 account-setup-calendar-refresh-label = Rifreskoje
 account-setup-calendar-refresh-manual = Dorazi
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Çdo minutë
+       *[other] Çdo { $count } minuta
+    }
 account-setup-calendar-read-only = Vetëm lexim
     .accesskey = L
+account-setup-calendar-show-reminders = Shfaq alarme
+    .accesskey = S
 account-setup-calendar-offline-support = Asistencë Jo Në Internet
     .accesskey = o
