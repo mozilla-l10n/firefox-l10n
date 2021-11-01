@@ -9,4 +9,11 @@
 <!ENTITY multiline-expand.tooltip   "მრავალხაზიან შეტანაზე გადართვა (Ctrl+Up)">
 <!ENTITY multiline-contract.tooltip "ერთხაზიან შეტანაზე გადართვა (Ctrl+Up)">
 <!ENTITY multiline-send.tooltip     "ამ ტექსტის გაგზავნა (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "შეცვალეთ მეტსახელი ან მიუთითეთ, რომ გასული ხართ. შეყვანის ველზე გადასვლისთვის, გამოიყენეთ Escape.">
 
+<!ENTITY Underline.label             "ხაზგასმული">
+<!ENTITY Bold.label                  "მუქი">
+<!ENTITY Reverse.label               "შებრუნებული ვიდეო">
+<!ENTITY Normal.label                "ჩვეულებრივი">
+<!ENTITY Color.label                 "ფერი">
+<!ENTITY ForeBack.label              "xx=შემდეგი yy=წინა">
