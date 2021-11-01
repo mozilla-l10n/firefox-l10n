@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Të përfundohet instalimi i { -brand-short-name }-it?
+prompt-to-install-message = Që të ndihmoni të mbahet { -brand-short-name }-i i përditësuar dhe të parandalohen humbje të dhënash, plotësoni këtë instalim me një hap. { -brand-short-name }-i do të shtohet te dosja juaj Aplikacione dhe te Paneli.
 prompt-to-install-yes-button = Instaloje
 prompt-to-install-no-button = Mos e Instalo
 
@@ -22,5 +23,6 @@ install-failed-message = { -brand-short-name }-i s’arriti të instalohej, por 
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Të hapet aplikacioni { -brand-short-name } ekzistues?
+prompt-to-launch-existing-app-message = E keni tashmë { -brand-short-name }-in të instaluar. Që të jini i përditësuar dhe të parandaloni humbje të dhënash, përdorni aplikacionin e instaluar.
 prompt-to-launch-existing-app-yes-button = Hap ekzistuesin
 prompt-to-launch-existing-app-no-button = Jo, faleminderit
