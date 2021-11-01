@@ -10,8 +10,8 @@
 <!ENTITY directoryBaseDN.accesskey         "נ">
 <!ENTITY findButton.label                  "חיפוש">
 <!ENTITY findButton.accesskey              "ח">
-<!ENTITY directorySecure.label             "השתמש בקשר מאובטח (SSL)">
-<!ENTITY directorySecure.accesskey         "ה">
+<!ENTITY directorySecure.label             "שימוש בחיבור מאובטח (SSL)">
+<!ENTITY directorySecure.accesskey         "ש">
 <!ENTITY directoryLogin.label              "קשור שם נבחר:">
 <!ENTITY directoryLogin.accesskey          "ב">
 <!ENTITY General.tab                       "כללי">
@@ -27,7 +27,7 @@
 <!ENTITY scopeOneLevel.accesskey           "ר">
 <!ENTITY scopeSubtree.label                "תת־עץ">
 <!ENTITY scopeSubtree.accesskey            "ת">
-<!ENTITY return.label                      "אל תחזיר יותר מאשר">
+<!ENTITY return.label                      "לא להחזיר יותר מאשר">
 <!ENTITY return.accesskey                  "מ">
 <!ENTITY results.label                     "תוצאות">
 <!ENTITY offlineText.label                 "ניתן להוריד עותק מקומי של מדריך זה כך שיהיה זמין לשימוש כאשר אתה עובד במצב לא־מקוון.">
@@ -38,7 +38,7 @@
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)‎">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
