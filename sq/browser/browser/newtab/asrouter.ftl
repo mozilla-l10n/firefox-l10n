@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Veçori e Këshilluar
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
-
 cfr-doorhanger-extension-cancel-button = Jo Tani
     .accesskey = J
-
 cfr-doorhanger-extension-ok-button = Shtoje Tani
     .accesskey = S
-
 cfr-doorhanger-extension-manage-settings-button = Administroni Rregullimet Mbi Rekomandimet
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Mos Ma Shfaq Këtë Rekomandim
     .accesskey = o
-
 cfr-doorhanger-extension-learn-more-link = Mësoni më tepër
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = nga { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomandim
 cfr-doorhanger-extension-notification2 = Rekomandim
     .tooltiptext = Rekomandim zgjerimi
     .a11y-announcement = Ka gati një rekomandim zgjerimi
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomandim
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } përdorues
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Njëkohësoni faqerojtësit tuaj kudo.
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Mësoni më tepër
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Veçori e re:
-
 cfr-whatsnew-button =
     .label = Ç’ka të Re
     .tooltiptext = Ç’ka të Re
-
 cfr-whatsnew-release-notes-link-text = Lexoni shënimet mbi hedhjen në qarkullim
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -126,25 +93,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Shihini Krejt
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Mbylle
     .accesskey = M
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -164,18 +114,6 @@ cfr-doorhanger-fission-primary-button = OK, e mora vesh
 cfr-doorhanger-fission-secondary-button = Mësoni më tepër
     .accesskey = M
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videot në këtë sajt mund të mos luhen si duhet nën këtë version të { -brand-short-name }-it. Për mbulim të plotë të videove, përditësoni tani { -brand-short-name }-in.
@@ -183,9 +121,37 @@ cfr-doorhanger-video-support-header = Që të luhet videoja, përditësoni { -br
 cfr-doorhanger-video-support-primary-button = Përditësojeni Tani
     .accesskey = P
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Mësoni më tepër
+    .title = Që të mësoni më tepër rreth veçorisë, zgjerojeni
+spotlight-learn-more-expanded = Mësoni më tepër
+    .title = Mbylle
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Duket se po përdorni Wi-Fi publik
+spotlight-public-wifi-vpn-body = Që të fshihni vendndodhjen tuaj dhe veprimtarinë tuaj të shfletimit, shihni mundësinë e përdorimit të një Rrjeti Virtual Privat. Do të ndihmojë për t’ju mbajtur të mbrojtur teksa shfletoni në vende publike, bie fjala, aeroporte dhe kafe.
+spotlight-public-wifi-vpn-primary-button = Jini privat, me { -mozilla-vpn-brand-name }
+    .accesskey = J
+spotlight-public-wifi-vpn-link = Jo Tani
+    .accesskey = J
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Provoni funksionimin tonë në
+    privatësi, më të fuqishëm se kurrë
+spotlight-total-cookie-protection-body = Mbrojtja Tërësore Nga Cookie-t i ndal gjurmuesit të përdorin “cookies” për t’ju ndjekur nëpër internet.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }-i thur një gardh përreth cookie-ve, duke i kufizuar te sajti ku gjendeni, që kështu gjurmuesit s’mund t’i përdorin për t’ju ndjekur. Duke e provuar që herët, do të ndihmoni të optimizohet kjo veçori, që kështu të mund të vazhdojmë të ndërtojmë një internet më të mirë për këdo.
+spotlight-total-cookie-protection-primary-button = Aktivizo Mbrojtje Tërësore Nga Cookie-t
+spotlight-total-cookie-protection-secondary-button = Jo tani
