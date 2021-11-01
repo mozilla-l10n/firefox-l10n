@@ -28,15 +28,14 @@ perftools-description-local-build = Nëse po krijoni profil të një montimi që
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Interval kampionizimi:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Madhësi shtytëze:
-
 perftools-custom-threads-label = Shtoni rrjedha vetjake sipas emrash:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Rrjedha:
 perftools-devtools-settings-label = Rregullime
@@ -87,7 +86,6 @@ perftools-thread-dns-resolver =
 ##
 
 perftools-record-all-registered-threads = Anashkalo përzgjedhjet më sipër dhe regjistro krejt rrjedha e regjistruara
-
 perftools-tools-threads-input-label =
     .title = Këto emra rrjedhash janë një listë e ndarë me presje, që përdoret për të aktivizuar profilizim rrjedhash te profilizuesi. Emri lypset të jetë vetëm një përputhje e pjesshme e emrit të rrjedhës që duhet përfshirë. Është i ndjeshëm ndaj hapësirave të zbrazëta.
 
@@ -96,9 +94,27 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>E re</b>: { -profiler-brand-name } tani është i integruar me Mjete Zhvilluesi. <a>Mësoni më tepër</a> rreth këtij mjeti të fuqishëm.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Për një kohë të kufizuar, mund të përdorni panelin origjinal Funksionim përmes <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Mbylle mesazhin e mirëseardhjes
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Zhvillues Web
+perftools-presets-web-developer-description = Profil i gatshëm i rekomanduar për shumicën e diagnostikimit të aplikacioneve web, me kokëçarje të pakta.
+perftools-presets-firefox-platform-label = Platformë Firefox
+perftools-presets-firefox-platform-description = Profil i gatshëm i rekomanduar për diagnostikim të brendshëm të platformës së Firefox-it.
+perftools-presets-firefox-front-end-label = Pjesa e Përparme e Firefox-it
+perftools-presets-firefox-front-end-description = Profil i gatshëm i rekomanduar për diagnostikim të brendshëm të pjesës së përparme të Firefox-it.
+perftools-presets-firefox-graphics-label = Ana Grafike e Firefox-it
+perftools-presets-firefox-graphics-description = Profil i gatshëm i rekomanduar për hetim funksionimi anësh grafike të Firefox-it.
+perftools-presets-media-label = Media
+
+##
+
