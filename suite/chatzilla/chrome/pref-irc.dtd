@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref-irc.window.title "ChatZilla">
+
+<!ENTITY pref-irc.open.title     "ChatZilla პარამეტრები">
+<!ENTITY pref-irc.open.desc      "ChatZilla-ს პარამეტრები ზედმეტად ვრცელია ამ ფანჯარაში დასატევად, სანაცვლოდ, შეგიძლიათ იხილოთ აქედან.">
+<!ENTITY pref-irc.open.label     "ChatZilla პარამეტრების გახსნა">
+<!ENTITY pref-irc.open.accesskey "ხ">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "Z">

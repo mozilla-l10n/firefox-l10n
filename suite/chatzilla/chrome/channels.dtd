@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title  "არხზე მიერთება">
+
+<!ENTITY network.label     "ქსელი:">
+<!ENTITY network.accesskey "ქ">
+
+<!ENTITY channel.label     "არხი:">
+<!ENTITY channel.accesskey "ხ">
+
+<!ENTITY topics.label     "მოძებნეთ თემები, ასევე არხის სახელები">
+<!ENTITY topics.accesskey "თ">
+
+<!ENTITY join.label     "მიერთება">
+<!ENTITY join.accesskey "რ">
+
+<!ENTITY minusers.label     "მომხმარებლები, არანაკლებ:">
+<!ENTITY minusers.accesskey "ნ">
+
+<!ENTITY maxusers.label     "მომხმარებლები, არაუმეტეს:">
+<!ENTITY maxusers.accesskey "უ">
+
+<!ENTITY refreshNow.label     "გაახლება ახლავე">
+<!ENTITY refreshNow.accesskey "ლ">
+
+
