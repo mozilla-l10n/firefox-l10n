@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Lejoje
     .accesskey = L
+permissions-button-off =
+    .label = Çaktivizoje
+    .accesskey = Ç
+permissions-button-off-temporarily =
+    .label = Çaktivizoje Përkohësisht
+    .accesskey = P
 permissions-site-name =
     .label = Sajt
 permissions-status =
@@ -54,6 +60,8 @@ permissions-capabilities-listitem-allow-session =
     .value = Lejoje për Sesionin
 permissions-capabilities-listitem-off =
     .value = Off
+permissions-capabilities-listitem-off-temporarily =
+    .value = Off përkohësisht
 
 ## Invalid Hostname Dialog
 
@@ -76,6 +84,10 @@ permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet p�
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Përjashtime - Mënyra Vetëm-HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të sigurt. Përjashtimet nuk vlejnë për dritare private.
 
 ## Exceptions - Pop-ups
 
