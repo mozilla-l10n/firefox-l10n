@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "ל">
 
 <!ENTITY ispHeadersWarning.label "אם אפשרות זו פעילה, &brandShortName; יתייחס אוטומטית להודעות שסומנו על־ידי המסווג החיצוני הזה כזבל.">
-<!ENTITY ispHeaders.label "סמוך על כותרי דואר זבל שנוצרו על־ידי:">
+<!ENTITY ispHeaders.label "לסמוך על כותרי דואר זבל שנוצרו על־ידי:">
 <!ENTITY ispHeaders.accesskey "ס">
 
 <!ENTITY junkClassification.label "בחירה">

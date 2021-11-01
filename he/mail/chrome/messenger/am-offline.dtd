@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "כדי לחסוך שטח דיסק, אל תוריד:">
-<!ENTITY doNotDownloadNntp.label "כדי לשמור שטח דיסק, אל תוריד לשימוש לא־מקוון:">
-<!ENTITY doNotDownloadImap.label "כדי לשמור שטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה">
+<!ENTITY doNotDownloadPop3Movemail.label "כדי לחסוך בשטח דיסק, לא להוריד:">
+<!ENTITY doNotDownloadNntp.label "כדי לחסוך בשטח דיסק, לא להוריד לשימוש לא־מקוון:">
+<!ENTITY doNotDownloadImap.label "כדי לחסוך בשטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא־מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה.">
 <!ENTITY allFoldersOffline2.label "להשאיר את ההודעות בכל התיקיות עבור חשבון זה במחשב זה">
 <!ENTITY allFoldersOffline2.accesskey "ש">
 <!ENTITY allFoldersOfflineNote.label "לתשומת לבך: שינוי הגדרה זו משפיע על כל התיקיות בחשבון זה. כדי להגדיר זאת עבור תיקיות באופן פרטני, יש להשתמש בכפתור מתקדם….">
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "ג">
-<!ENTITY autosyncNotDownload.label "אל תוריד הודעות גדולות מ־">
+<!ENTITY autosyncNotDownload.label "לא להוריד הודעות גדולות מ־">
 <!ENTITY autosyncNotDownload.accesskey "ג">
 <!ENTITY kb.label "ק״ב">
 <!ENTITY daysOld.label "ימים">
@@ -19,10 +19,10 @@
 <!ENTITY nntpNotDownloadRead.accesskey "נ">
 <!ENTITY nntpDownloadMsg.label "הודעות מלפני יותר מאשר">
 <!ENTITY nntpDownloadMsg.accesskey "י">
-<!ENTITY retentionCleanup.label "כדי להשיג שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות">
+<!ENTITY retentionCleanup.label "כדי להשיג שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות.">
 <!ENTITY retentionCleanupImap.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, גם העותק המקומי וגם המקור על השרת המרוחק.">
 <!ENTITY retentionCleanupPop.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, כולל הודעות המקור בשרת המרוחק.">
-<!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
+<!ENTITY retentionKeepMsg.label "למחוק הודעות מלפני">
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
