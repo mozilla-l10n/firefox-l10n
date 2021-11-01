@@ -103,22 +103,22 @@
 
 <!ENTITY accnameTitle.label "שם החשבון">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "הכנס את השם שבעזרתו תרצה להתייחס לחשבון זה (לדוגמה, &quot;חשבון עבודה&quot;, &quot;חשבון בית&quot;, &quot;חשבון קבוצות דיון&quot;)">
+<!ENTITY accnameDesc.label "נא להכניס את השם שבעזרתו ברצונך להתייחס לחשבון זה (לדוגמה, &quot;חשבון עבודה&quot;, &quot;חשבון בית&quot; או &quot;חשבון קבוצות דיון&quot;).">
 <!ENTITY accnameLabel.label "שם החשבון:">
 <!ENTITY accnameLabel.accesskey "A">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "ברכותינו!">
-<!ENTITY completionText.label "אנא בדוק שהמידע שלהלן נכון.">
+<!ENTITY completionText.label "נא לוודא שהמידע שלהלן נכון.">
 <!ENTITY serverTypePrefix.label "סוג שרת נכנס:">
 <!ENTITY serverNamePrefix.label "שם שרת נכנס:">
 <!ENTITY smtpServerNamePrefix.label "שם שרת יוצא (SMTP):">
 <!ENTITY newsServerNamePrefix.label "שם שרת קבוצות דיון (NNTP):">
-<!ENTITY downloadOnLogin.label "הורד הודעות כעת">
+<!ENTITY downloadOnLogin.label "הורדת הודעות כעת">
 <!ENTITY downloadOnLogin.accesskey "ה">
-<!ENTITY deferStorageDesc.label "בטל את הסימון מתיבת סימון זאת כדי לאכסן דואר עבור חשבון זה בתיקיה נפרדת. זה יגרום לחשבון זה להופיע כחשבון בחלק העליון. אחרת, זה יהיה חלק מחשבון תיבת הדואר הנכנס הכללית בתיקיות מקומיות.">
-<!ENTITY deferStorage.label "השתמש בתיבת דואר נכנס כללית (אחסן דואר בתיקיות מקומיות)">
+<!ENTITY deferStorageDesc.label "יש לבטל את הסימון מתיבת סימון זאת כדי לאחסן דואר עבור חשבון זה בתיקייה נפרדת. פעולה זו תגרום לחשבון זה להופיע כחשבון בחלק העליון. אחרת, זה יהיה חלק מחשבון תיבת הדואר הנכנס הכללית בתיקיות מקומיות.">
+<!ENTITY deferStorage.label "שימוש בתיבת דואר נכנס כללית (אחסון דואר בתיקיות מקומיות)">
 <!ENTITY deferStorage.accesskey "כ">
-<!ENTITY clickFinish.label "לחץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
-<!ENTITY clickFinish.labelMac "לחץ על סיום כדי לשמור את ההגדרות הללו ולצאת מאשף החשבונות.">
+<!ENTITY clickFinish.label "יש ללחוץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
+<!ENTITY clickFinish.labelMac "יש ללחוץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
