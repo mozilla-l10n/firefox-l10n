@@ -79,6 +79,16 @@ places-remove-folder =
            *[other] Hiqni Dosje
         }
     .accesskey = H
+places-edit-folder2 =
+    .label = Përpunoni Dosjen…
+    .accesskey = P
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Fshije Dosjen
+           *[other] Fshiji Dosjet
+        }
+    .accesskey = F
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Faqerojtës të administruar
@@ -98,9 +108,26 @@ places-remove-bookmark =
            *[other] Hiqi Faqerojtësit
         }
     .accesskey = i
+places-show-in-folder =
+    .label = Shfaqe Në Dosje
+    .accesskey = S
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Fshije Faqerojtësin
+           *[other] Fshiji Faqerojtësit
+        }
+    .accesskey = F
 places-manage-bookmarks =
     .label = Administroni Faqerojtës
     .accesskey = A
+places-forget-about-this-site-confirmation-title = Harrim i këtij sajti
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ky veprim do të heqë krejt të dhënat e lidhura me { $hostOrBaseDomain }, përfshi historik, fjalëkalime, cookies, fshehtinë dhe parapëlqime për lëndën. Jeni i sigurt se doni të vazhdohet?
+places-forget-about-this-site-forget = Harroje
 places-library =
     .title = Arkiv
     .style = width:700px; height:500px;
