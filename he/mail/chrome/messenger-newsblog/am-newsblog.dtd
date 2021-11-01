@@ -5,9 +5,9 @@
 <!ENTITY biffAll.label                 "הפעלת עדכונים לכל ההזנות">
 <!ENTITY biffAll.accesskey             "פ">
 
-<!ENTITY newFeedSettings.label         "הגדרות בררת מחדל להזנות של חדשות">
+<!ENTITY newFeedSettings.label         "הגדרות ברירת מחדל להזנות של חדשות">
 
-<!ENTITY manageSubscriptions.label     "נהל מינויים…">
+<!ENTITY manageSubscriptions.label     "ניהול מינויים…">
 <!ENTITY manageSubscriptions.accesskey "נ">
 
 <!ENTITY feedWindowTitle.label         "אשף חשבון הזנה">
