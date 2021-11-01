@@ -946,6 +946,7 @@ content-blocking-all-windows-tracking-content = Seurantaan tarkoitettu sisältö
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
 content-blocking-cryptominers = Kryptolouhijat
 content-blocking-fingerprinters = Yksilöijät
+content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
 content-blocking-warning-title = Huomio!
 content-blocking-and-isolating-etp-warning-description = Seurainten estäminen ja evästeiden eristäminen saattaa vaikuttaa joidenkin sivustojen toimivuuteen. Lataa sivu uudelleen seurainten kera ladataksesi kaiken sisällön.
 content-blocking-and-isolating-etp-warning-description-2 = Tämä asetus saattaa aiheuttaa sen, että jotkin verkkosivustot eivät näytä sisältöä tai toimi oikein. Jos sivusto vaikuttaa rikkoutuneen, saatat haluta poistaa seurannan suojauksen käytöstä kyseisen sivuston kohdalta, jotta kaikki sisältö voidaan ladata.
