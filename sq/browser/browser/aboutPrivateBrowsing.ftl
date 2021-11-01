@@ -28,11 +28,13 @@ about-private-browsing-info-description-simplified = { -brand-short-name }-i spa
 about-private-browsing-learn-more-link = Mësoni më tepër
 about-private-browsing-hide-activity = Fshihni veprimtarinë dhe vendndodhjen tuaj, kudo ku shfletoni
 about-private-browsing-get-privacy = Përfitoni mbrojtje të privatësisë, kudo ku shfletoni
+about-private-browsing-hide-activity-1 = Fshihni me { -mozilla-vpn-brand-name }-in veprimtari shfletimi dhe vendndodhje. Një klikim krijon një lidhje të sigurt, madje edhe në Wi-Fi publik.
+about-private-browsing-prominent-cta = Jini privat, me { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } është motori juaj parazgjedhje për kërkime në Dritare Private
+about-private-browsing-search-banner-title = { $engineName } është motori juaj parazgjedhje i kërkimeve në Dritare Private
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Që të përzgjidhni një tjetër motor kërkimesh, shkoni te <a data-l10n-name="link-options">Mundësitë</a>
