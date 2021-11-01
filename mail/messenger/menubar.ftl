@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Foarkarren
     .accesskey = F
+menu-tools-settings =
+    .label = Ynstellingen
+    .accesskey = e
 menu-addons-and-themes =
     .label = Add-ons en tema’s
     .accesskey = A
