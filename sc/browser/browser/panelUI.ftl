@@ -5,8 +5,15 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Boga dae su menù de ainas agiuntivas
+    .accesskey = B
 customize-menu-add-to-toolbar =
     .label = Agiunghe a sa barra de ainas
+    .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = Agiunghe a su menù de ainas agiuntivas
     .accesskey = A
 
 ## Forget Button

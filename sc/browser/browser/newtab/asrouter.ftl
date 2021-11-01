@@ -124,6 +124,10 @@ cfr-doorhanger-video-support-primary-button = Agiorna immoe
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Àteras informatziones
+    .title = Ismànnia si boles ischire de prus subra de sa funtzionalidade
+spotlight-learn-more-expanded = Àteras informatziones
+    .title = Serra
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -141,4 +145,10 @@ spotlight-public-wifi-vpn-link = Immoe nono
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Proa in anteprima s'esperièntzia de riservadesa
+    prus poderosa de semper
 spotlight-total-cookie-protection-primary-button = Ativa sa protetzione totale contra is testimòngios (cookies)
+spotlight-total-cookie-protection-secondary-button = Immoe nono

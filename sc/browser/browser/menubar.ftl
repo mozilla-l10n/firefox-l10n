@@ -148,7 +148,7 @@ menu-view-sidebar =
     .label = Barra laterale
     .accesskey = l
 menu-view-bookmarks =
-    .label = Marcadores
+    .label = Sinnalibros
 menu-view-history-button =
     .label = Cronologia
 menu-view-synced-tabs-sidebar =
@@ -228,22 +228,22 @@ menu-history-reopen-all-windows = Torra a abèrrere totu is ventanas
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = Marcadores
-    .accesskey = M
+    .label = Sinnalibros
+    .accesskey = S
 menu-bookmarks-manage =
-    .label = Gesti is marcadores
+    .label = Gesti is sinnalibros
 menu-bookmark-current-tab =
-    .label = Pone s'ischeda atuale in is marcadores
+    .label = Pone s'ischeda atuale in is sinnalibros
 menu-bookmark-edit =
-    .label = Modìfica custu marcadore
+    .label = Modìfica custu sinnalibru
 menu-bookmarks-all-tabs =
-    .label = Pone totu is ischedas in is marcadores...
+    .label = Pone totu is ischedas in is sinnalibros...
 menu-bookmarks-toolbar =
-    .label = Barra de is marcadores
+    .label = Barra de is sinnalibros
 menu-bookmarks-other =
-    .label = Àteros marcadores
+    .label = Àteros sinnalibros
 menu-bookmarks-mobile =
-    .label = Marcadores de su telèfonu mòbile
+    .label = Sinnalibros de su telèfonu mòbile
 
 ## Tools Menu
 

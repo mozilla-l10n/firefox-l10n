@@ -509,6 +509,11 @@ fullscreen-warning-no-domain = Custu documentu s'ammustrat como in mannària pre
 fullscreen-exit-button = Essi dae sa mannària prena (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tenet su controllu de su puntadore tuo. Preme Esc pro recuperare su controllu.
+pointerlock-warning-no-domain = Custu documentu tenet su controllu de su puntadore tuo. Preme Esc pro recuperare su controllu.
 
 ## Subframe crash notification
 
@@ -529,15 +534,15 @@ bookmarks-manage-bookmarks =
     .label = Gesti is sinnalibros
 bookmarks-recent-bookmarks-panel-subheader = Sinnalibros reghentes
 bookmarks-toolbar-chevron =
-    .tooltiptext = Ammustra àteros signa-libros
+    .tooltiptext = Ammustra àteros sinnalibros
 bookmarks-sidebar-content =
-    .aria-label = Signa-libros
+    .aria-label = Sinnalibros
 bookmarks-menu-button =
     .label = Menù de is sinnalibros
 bookmarks-other-bookmarks-menu =
-    .label = Àteros signa-libros
+    .label = Àteros sinnalibros
 bookmarks-mobile-bookmarks-menu =
-    .label = Signa-libros mòbiles
+    .label = Sinnalibros mòbiles
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -567,7 +572,7 @@ bookmarks-search =
 bookmarks-tools =
     .label = Ainas de is sinnalibros
 bookmarks-bookmark-edit-panel =
-    .label = Modìfica custu signa-libru
+    .label = Modìfica custu sinnalibru
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -576,14 +581,14 @@ bookmarks-toolbar =
     .accesskey = S
     .aria-label = Sinnalibros
 bookmarks-toolbar-menu =
-    .label = Barra de signa-libros
+    .label = Barra de sinnalibros
 bookmarks-toolbar-placeholder =
-    .title = Elementos de sa barra de signa-libros
+    .title = Elementos de sa barra de sinnalibros
 bookmarks-toolbar-placeholder-button =
-    .label = Elementos de sa barra de signa-libros
+    .label = Elementos de sa barra de sinnalibros
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Agiunghe ischeda atuale a sinnalibros
+    .label = Agiunghe s'ischeda atuale a is sinnalibros
 
 ## Library Panel items
 
@@ -629,6 +634,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Personaliza barra de ainas...
     .accesskey = P
+toolbar-button-email-link =
+    .label = Imbia su ligòngiu cun posta eletrònica
+    .tooltiptext = Imbia unu ligòngiu a custa pàgina cun posta eletrònica
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

@@ -18,4 +18,5 @@ app-manager-handle-file = Is aplicatziones imbenientes si podent impreare pro ge
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Custa aplicatzione web est allogiada in:
 app-manager-local-app-info = Custa aplicatzione s'agatat in:

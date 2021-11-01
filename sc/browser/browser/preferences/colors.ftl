@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Subrascrie is colores ispetzificados dae sa pàgina cun is seletziones tuas in subra
+    .accesskey = S
 colors-page-override-option-always =
     .label = Semper
 colors-page-override-option-auto =
