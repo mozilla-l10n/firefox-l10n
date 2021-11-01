@@ -128,6 +128,7 @@ about-webrtc-discarded-packets-label = Pacchetti scartati:
 about-webrtc-decoder-label = Decodificatore
 about-webrtc-encoder-label = Codificatore
 about-webrtc-show-tab-label = Mostra scheda
+about-webrtc-current-framerate-label = Frequenza frame
 about-webrtc-width-px = Larghezza (px)
 about-webrtc-height-px = Altezza (px)
 about-webrtc-consecutive-frames = Frame consecutivi
@@ -259,4 +260,3 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 ##
 
 ##
-
