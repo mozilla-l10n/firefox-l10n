@@ -17,7 +17,7 @@
 <!ENTITY addFeedAccountButton.accesskey "ז">
 <!ENTITY addOtherAccountButton.label "הוספת חשבון אחר…">
 <!ENTITY addOtherAccountButton.accesskey "א">
-<!ENTITY setDefaultButton.label "הגדר כברירת מחדל">
+<!ENTITY setDefaultButton.label "הגדרה כברירת מחדל">
 <!ENTITY setDefaultButton.accesskey "ב">
 <!ENTITY removeButton.label "הסרת חשבון">
 <!ENTITY removeButton.accesskey "ס">
