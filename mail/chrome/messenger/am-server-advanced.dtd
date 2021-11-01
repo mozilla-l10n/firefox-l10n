@@ -6,12 +6,12 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "ספריית שרת IMAP:‏">
 <!ENTITY serverDirectory.accesskey "I">
-<!ENTITY usingSubscription.label "הראה רק תיקיות להן אני מנוי">
-<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY usingSubscription.label "להציג רק תיקיות להן אני מנוי">
+<!ENTITY usingSubscription.accesskey "מ">
 <!ENTITY dualUseFolders.label "השרת תומך בתיקיות המכילות תת־תיקיות והודעות">
-<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY dualUseFolders.accesskey "ת">
 <!ENTITY maximumConnectionsNumber.label "מספר מרבי של חיבורי שרת אל המטמון">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "ט">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "העדפות אלו מציינות את מרחבי השמות על שרת ה־IMAP שלך">
 <!ENTITY personalNamespace.label "מרחב שמות אישי:">
