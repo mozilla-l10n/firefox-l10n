@@ -104,6 +104,10 @@ upgrade-dialog-colorway-variation-soft = I butë
     .title = Përdor këtë kombinim ngjyrash
 upgrade-dialog-colorway-variation-balanced = I baraspeshuar
     .title = Përdor këtë kombinim ngjyrash
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = I guximshëm
+    .title = Përdor këtë kombinim ngjyrash
 
 ## Thank you screen
 
