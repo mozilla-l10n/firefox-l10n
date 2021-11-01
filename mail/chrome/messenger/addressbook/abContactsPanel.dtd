@@ -41,9 +41,9 @@
 <!ENTITY newListAbContext.label             "רשימה חדשה">
 <!ENTITY newListAbContext.accesskey         "ד">
 
-<!ENTITY toButton.label                     "הוסף לשורה אל:">
+<!ENTITY toButton.label                     "הוספה לשורה אל:">
 <!ENTITY toButton.accesskey                 "א">
-<!ENTITY ccButton.label                     "הוסף לעותק:">
+<!ENTITY ccButton.label                     "הוספה לעותק:">
 <!ENTITY ccButton.accesskey                 "ע">
-<!ENTITY bccButton.label                    "הוסף עותק סמוי:">
+<!ENTITY bccButton.label                    "הוספת עותק סמוי:">
 <!ENTITY bccButton.accesskey                "ס">

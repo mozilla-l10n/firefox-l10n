@@ -6,7 +6,7 @@
 <!ENTITY mailListWindowAdd.title        "רשימת דיוור חדשה">
 
 <!-- Labels and Access Keys -->
-<!ENTITY addToAddressBook.label         "הוסף אל:">
+<!ENTITY addToAddressBook.label         "הוספה אל:">
 <!ENTITY addToAddressBook.accesskey     "ה">
 <!ENTITY ListName.label                 "שם רשימה:">
 <!ENTITY ListName.accesskey             "ש">
@@ -15,8 +15,7 @@
 <!ENTITY ListDescription.label          "תיאור:">
 <!ENTITY ListDescription.accesskey      "ת">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "הקלד כתובות דוא״ל כדי להוסיפן לרשימת הדיוור:">
+<!ENTITY AddressTitle.label             "יש להקליד כתובות דוא״ל כדי להוסיפן לרשימת הדיוור:">
 <!ENTITY AddressTitle.accesskey         "ד">
-<!ENTITY UpButton.label                 "הזז למעלה">
-<!ENTITY DownButton.label               "הזז למטה">
-
+<!ENTITY UpButton.label                 "העברה למעלה">
+<!ENTITY DownButton.label               "העברה למטה">
