@@ -946,6 +946,14 @@ content-blocking-all-windows-tracking-content = Contenido de rastreo en todas la
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Fingerprinters
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Pruebe nuestra experiencia de privacidad más poderosa de la historia
+    .accesskey = t
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = La protección total contra las cookies contiene cookies para el sitio en el que está, así que los rastreadores no pueden usarlas para seguirle entre sitios.
+content-blocking-etp-standard-tcp-rollout-learn-more = Saber más
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description = Bloquear los rastreadores y aislar las cookies puede afectar a la funcionalidad de algunos sitios. Recargue una página con los rastreadores para cargar todo el contenido.
 content-blocking-and-isolating-etp-warning-description-2 = Este ajuste puede hacer que algunos sitios web no muestren contenido o que no funcionen correctamente. Si un sitio no se muestra correctamente, puede que quiera desactivar la protección contra el rastreo para que ese sitio cargue todo el contenido.
