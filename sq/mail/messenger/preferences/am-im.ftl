@@ -12,6 +12,7 @@ chat-encryption-description = { $protocol } furnizon fshehtëzim skaj-më-skaj p
 chat-encryption-status = Gjendje Fshehtëzimi
 chat-encryption-placeholder = Fshehtëzimi s’është gatitur.
 chat-encryption-sessions = Sesione
+chat-encryption-sessions-description = Që fshehtëzimi skaj-më-skaj të funksionojë si duhet, duhet të besoni sesionet e tjera aktualisht të futura në llogarinë tuaj. Që një sesion të verifikohet, është i domosdoshëm ndërveprimi me klientin tjetër. Verifikimi i një sesioni mund të sjellë që krejt sesionet që beson, të besohen edhe ato nga { -brand-short-name }-i.
 chat-encryption-session-verify = verifikoje
     .title = Verifikoni identitetin e këtij sesioni
 chat-encryption-session-trusted = i besuar
