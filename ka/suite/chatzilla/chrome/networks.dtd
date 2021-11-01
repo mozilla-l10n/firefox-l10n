@@ -40,5 +40,16 @@
 <!-- LOCALIZATION NOTE:
    - *.label are shared between networks-edit and networks-server dialogs
    - *.accesskey are only used in network-servers dialog -->
+<!ENTITY serverDetails.label          "შერჩეული სერვერის შესახებ:">
+<!ENTITY serverName.label             "სერვერი:">
+<!ENTITY serverName.accesskey         "ს">
+<!ENTITY serverPort.label             "პორტი:">
+<!ENTITY serverPort.accesskey         "პ">
+<!ENTITY connectionSecurity.label     "კავშირის უსაფრთხოება:">
+<!ENTITY connectionSecurity.accesskey "ფ">
 
 <!-- Used in networks-server dialog -->
+<!ENTITY serverEditDialog.title       "IRC-სერვერი">
+<!ENTITY settings.caption             "პარამეტრები">
+<!ENTITY security.caption             "უსაფრთხოება">
+<!ENTITY serverPortDefault.label      "ნაგულისხმევი:">
