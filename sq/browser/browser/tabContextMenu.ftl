@@ -97,6 +97,13 @@ tab-context-close-tabs =
            *[other] Mbylli Skedat
         }
     .accesskey = M
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mbylle Skedën
+           *[other] Mbylli { $tabCount } Skedat
+        }
+    .accesskey = M
 tab-context-move-tabs =
     .label =
         { $tabCount ->
