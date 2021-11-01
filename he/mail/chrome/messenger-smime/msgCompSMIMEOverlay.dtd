@@ -4,12 +4,15 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
+<!ENTITY menu_securityDoNotEncrypt.label "לא להצפין">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "ל">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "דרישת הצפנה">
 <!ENTITY menu_securityEncryptRequire.accesskey "צ">
 
 <!ENTITY menu_securitySign.label "חתום הודעה זו חתימה דיגיטלית">
