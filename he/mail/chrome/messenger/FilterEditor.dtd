@@ -16,7 +16,7 @@
 <!ENTITY highPriorityCmd.label "גבוהה">
 <!ENTITY highestPriorityCmd.label "הכי גבוהה">
 
-<!ENTITY contextDesc.label "הפעל מסננים כאשר:">
+<!ENTITY contextDesc.label "הפעלת מסננים כאשר:">
 <!ENTITY contextIncomingMail.label "קבלת הודעת דוא״ל חדשה:">
 <!ENTITY contextIncomingMail.accesskey "ק">
 <!ENTITY contextManual.label "מורץ ידנית">

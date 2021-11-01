@@ -16,8 +16,8 @@
 <!ENTITY cmd.open.accesskey                        "פ">
 <!ENTITY cmd.removeFromHistory.label               "הסרה מההיסטוריה">
 <!ENTITY cmd.removeFromHistory.accesskey           "ס">
-<!ENTITY cmd.clearList.label                       "פינוי הרשימה">
-<!ENTITY cmd.clearList.accesskey                   "פ">
+<!ENTITY cmd.clearList.label                       "ניקוי הרשימה">
+<!ENTITY cmd.clearList.accesskey                   "נ">
 <!ENTITY cmd.clearList.tooltip                     "הסרת כל הרשומות מרשימת הקבצים השמורים, למעט הורדות המתבצעות כעת.">
 <!ENTITY cmd.searchDownloads.label                 "חיפוש…">
 <!ENTITY cmd.searchDownloads.key                   "ח">

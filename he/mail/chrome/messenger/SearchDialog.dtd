@@ -3,34 +3,34 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xhtml -->
-<!ENTITY searchHeading.label         "חפש הודעות בתוך:">
+<!ENTITY searchHeading.label         "חיפוש הודעות בתוך:">
 <!ENTITY searchHeading.accesskey     "ח">
-<!ENTITY searchSubfolders.label      "חפש בתת־תיקיות">
+<!ENTITY searchSubfolders.label      "חיפוש בתת־תיקיות">
 <!ENTITY searchSubfolders.accesskey  "ת">
-<!ENTITY searchOnServer.label        "הרץ חיפוש בשרת">
+<!ENTITY searchOnServer.label        "הפעלת חיפוש בשרת">
 <!ENTITY searchOnServer.accesskey    "ש">
-<!ENTITY resetButton.label           "נקה">
+<!ENTITY resetButton.label           "ניקוי">
 <!ENTITY resetButton.accesskey       "נ">
-<!ENTITY openButton.label            "פתח">
+<!ENTITY openButton.label            "פתיחה">
 <!ENTITY openButton.accesskey        "פ">
-<!ENTITY deleteButton.label          "מחק">
+<!ENTITY deleteButton.label          "מחיקה">
 <!ENTITY deleteButton.accesskey      "מ">
-<!ENTITY searchDialogTitle.label     "חפש בהודעות">
+<!ENTITY searchDialogTitle.label     "חיפוש בהודעות">
 <!ENTITY results.label               "תוצאות">
 <!ENTITY moveButton.label            "העברה אל">
 <!ENTITY moveButton.accesskey        "ע">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY openInFolder.label          "פתח בתיקיה">
+<!ENTITY openInFolder.label          "פתיחה בתיקייה">
 <!ENTITY openInFolder.accesskey      "ת">
-<!ENTITY saveAsVFButton.label        "שמור כתיקיית חיפוש">
+<!ENTITY saveAsVFButton.label        "שמירה כתיקיית חיפוש">
 <!ENTITY saveAsVFButton.accesskey    "ת">
 
 <!-- for abSearchDialog.xhtml -->
-<!ENTITY abSearchHeading.label       "חפש בתוך:">
+<!ENTITY abSearchHeading.label       "חיפוש בתוך:">
 <!ENTITY abSearchHeading.accesskey   "ב">
 <!ENTITY propertiesButton.label      "מאפיינים">
 <!ENTITY propertiesButton.accesskey  "מ">
-<!ENTITY composeButton.label         "כתוב הודעה">
+<!ENTITY composeButton.label         "כתיבת הודעה">
 <!ENTITY composeButton.accesskey     "כ">
 <!ENTITY deleteCardButton.label      "מחיקה">
 <!ENTITY deleteCardButton.accesskey  "ח">
