@@ -37,8 +37,10 @@ experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inp
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> arayüzüne bir constructor’ın eklenmesi ve bununla ilgili çeşitli değişiklikler, yeni stil dosyalarını HTML’e eklemeye gerek kalmadan oluşturmayı mümkün kılıyor. Bu da <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> ile yeniden kullanılabilen stil dosyaları oluşturmayı kolaylaştırıyor. Daha fazla bilgi için <a data-l10n-name="bugzilla">bug 1520690</a>’a bakabilirsiniz.
 experimental-features-devtools-color-scheme-simulation =
     .label = Geliştirici Araçları: Renk Şeması Simülasyonu
+experimental-features-devtools-color-scheme-simulation-description = <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> media sorgularını denemek için farklı renk şemalarının simülasyonunu yapmanızı sağlayan bir seçenek ekler. Bu media sorgusunu kullanmak, stil dosyanızın kullanıcının açık veya koyu kullanıcı arayüzü tercihine göre değişmesini sağlar. Bu özellik, tarayıcınızın (veya tarayıcınız işletim sisteminin renk şeması ayarını kullanıyorsa işletim sisteminin) ayarlarını değiştirmeye gerek kalmadan kodunuzu test etmenize olanak tanır. Detaylı bilgi için <a data-l10n-name="bugzilla1">bug 1550804</a>’e ve <a data-l10n-name="bugzilla2">bug 1137699</a>’a bakabilirsiniz.
 experimental-features-devtools-execution-context-selector =
     .label = Geliştirici Araçları: Execution Context Selector
 experimental-features-devtools-execution-context-selector-description = Bu özellik, konsol komut satırında, girdiğiniz ifadenin çalıştırılacağı bağlamı değiştirmenizi sağlayacak bir düğme gösterir. Daha fazla bilgi için <a data-l10n-name="bugzilla1">bug 1605154</a>’e ve <a data-l10n-name="bugzilla2">bug 1605153</a>’e bakabilirsiniz.
