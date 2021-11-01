@@ -63,39 +63,100 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Su nòmine de elaboradore tzentrale no est vàlidu
+permissions-invalid-uri-label = Inserta unu nòmine de elaboradore tzentrale vàlidu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window =
+    .title = Etzetziones pro sa protetzione megiorada contra sa sighidura
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = As disativadu is protetziones in custos sitos web.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Etzetziones - Testimòngios (cookies) e datos de is sitos
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Podes pretzisare a cales sitos web est semper o mai permìtidu de impreare testimòngios (cookies) e datos de is sitos. Iscrie s'indiritzu esatu de su situ chi boles gestire e luego incarca Bloca, Permite in sa sessione, o Permite.
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Etzetziones - Modalidade isceti HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de agiornare sa connessione a sa versione de HTTPS segura pro custos sitos. Is etzetziones non s'ant a aplicare a is ventanas privadas.
 
 ## Exceptions - Pop-ups
 
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Etzetziones - Credentziales sarvadas
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Is credentziales pro is sitos web imbenientes no ant a èssere sarvadas
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Sitos web permìtidos - Installatzione de is cumplementos
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Podes pretzisare is sitos in ue est permìtida s'installatzione de cumplementos. Iscrie s'indiritzu esatu de su situ a su chi boles donare permissu e incarca Permite.
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Cunfiguratzione - Riprodutzione in automàticu
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Inoghe podes gestire is sitos chi non sighent sa cunfiguratzione tua pro sa riprodutzione in automàticu.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Cunfiguratzione - Permissos de notìficas
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Is sitos web imbenientes ant rechestu de t'imbiare notìficas. Podes pretzisare is sitos a is chi permitis s'imbiu de notìficas. Podes fintzas blocare is rechestas noas de permissos de notìficas.
+permissions-site-notification-disable-label =
+    .label = Bloca is rechestas noas de permissos de notìficas
+permissions-site-notification-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu pro imbiare notìficas. Blochende is notìficas, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Cunfiguratzione - Permissos de positzione
+    .style = { permissions-window.style }
+permissions-site-location-desc = Is sitos web imbenientes ant rechestu de atzèdere a sa positzione tua. Podes pretzisare a cales sitos est permìtidu de atzèdere a sa positzione tua. Podes fintzas blocare is rechestas noas de atzessu a sa positzione.
+permissions-site-location-disable-label =
+    .label = Bloca is rechestas noas de atzessu a sa positzione
+permissions-site-location-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu de atzèdere a sa positzione tua. Blochende s'atzessu a sa positzione, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Cunfiguratzione - Permissos de realidade virtuale
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Is sitos web imbenientes ant rechestu de atzèdere a is dispositivos tuos de realidade virtuale. Podes pretzisare a cales sitos est permìtidu de atzèdere a is dispositivos tuos de realidade virtuale. Podes fintzas blocare is rechestas noas de atzessu a is dispositivos de realidade virtuale.
+permissions-site-xr-disable-label =
+    .label = Bloca is rechestas noas de atzessu a is dispositivos tuos de realidade virtuale
+permissions-site-xr-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu de atzèdere a is dispositivos tuos de realidade virtuale. Blochende s'atzessu a is dispositivos de realidade virtuale, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Cunfiguratzione - Permissos de sa fotocàmera
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Is sitos web imbenientes ant rechestu de atzèdere a sa fotocàmera. Podes pretzisare a cales sitos est permìtidu de atzèdere a sa fotocàmera. Podes fintzas blocare is rechestas noas de atzessu a sa fotocàmera.
+permissions-site-camera-disable-label =
+    .label = Bloca is rechestas noas de atzessu a sa fotocàmera
+permissions-site-camera-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu de atzèdere a sa fotocàmera tua. Blochende s'atzessu a sa fotocàmera, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Cunfiguratzione - Permissos de su micròfonu
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Is sitos web imbenientes ant rechestu de atzèdere a su micròfonu. Podes pretzisare a cales sitos est permìtidu de atzèdere a su micròfonu. Podes fintzas blocare is rechestas noas de atzessu a su micròfonu.
+permissions-site-microphone-disable-label =
+    .label = Bloca is rechestas noas de atzessu a su micròfonu
+permissions-site-microphone-disable-desc = Custu at a evitare chi is sitos web chi non sunt in custa lista rechedant su permissu de atzèdere a su micròfonu tuo. Blochende s'atzessu a su micròfonu, podet èssere chi calicuna funtzionalidade de su situ no at a funtzionare bene.
