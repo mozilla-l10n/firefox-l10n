@@ -29,10 +29,10 @@
 <!ENTITY closeCmd.label                                 "סגירה">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printContactCmd.label                          "הדפס פרטי איש קשר…">
+<!ENTITY printContactCmd.label                          "הדפסת פרטי איש קשר…">
 <!ENTITY printContactCmd.accesskey                      "ד">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "הדפס ספר כתובות...">
+<!ENTITY printAddressBook.label                         "הדפסת ספר כתובות…">
 <!ENTITY printAddressBook.accesskey                     "ס">
 
 <!-- Edit Menu -->
@@ -40,11 +40,12 @@
 <!ENTITY editMenu.accesskey                             "ע">
 <!ENTITY deleteCmd.label                                "מחיקה">
 <!ENTITY deleteAbCmd.label                              "מחק ספר כתובות">
+<!ENTITY deleteAbCmd.accesskey                          "מ">
 <!ENTITY deleteContactCmd.label                         "מחיקת איש קשר">
 <!ENTITY deleteContactsCmd.label                        "מחיקת אנשי קשר">
-<!ENTITY deleteListCmd.label                            "מחק רשימה">
-<!ENTITY deleteListsCmd.label                           "מחק רשימות">
-<!ENTITY deleteItemsCmd.label                           "מחק פרטים">
+<!ENTITY deleteListCmd.label                            "מחיקת רשימה">
+<!ENTITY deleteListsCmd.label                           "מחיקת רשימות">
+<!ENTITY deleteItemsCmd.label                           "מחיקת פריטים">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY propertiesMenu.label                           "מאפיינים">
 <!ENTITY propertiesMenu.accesskey                       "א">
