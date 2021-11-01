@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "מינויי הזנות">
-<!ENTITY learnMore.label             "מידע נוסף אודות הזנות">
+<!ENTITY learnMore.label             "מידע נוסף על הזנות">
 
 <!ENTITY feedTitle.label             "כותרת:">
 <!ENTITY feedTitle.accesskey         "כ">
@@ -13,7 +13,7 @@
 <!ENTITY feedLocation.accesskey      "ז">
 <!ENTITY feedLocation2.placeholder   "נא להזין כתובת הזנה תקנית">
 <!ENTITY locationValidate.label      "בדיקה">
-<!ENTITY validateText.label          "בדיקת וקבלת כתובת תקנית.">
+<!ENTITY validateText.label          "בדיקה וקבלת כתובת תקנית.">
 
 <!ENTITY feedFolder.label            "אחסון מאמרים תחת:">
 <!ENTITY feedFolder.accesskey        "א">
@@ -44,10 +44,11 @@
 <!ENTITY button.updateFeed.accesskey "ע">
 <!ENTITY button.removeFeed.label     "הסרה">
 <!ENTITY button.removeFeed.accesskey "ה">
-<!ENTITY button.importOPML.label     "יבא">
+<!ENTITY button.importOPML.label     "ייבוא">
 <!ENTITY button.importOPML.accesskey "ב">
-<!ENTITY button.exportOPML.label     "יצא">
+<!ENTITY button.exportOPML.label     "ייצוא">
 <!ENTITY button.exportOPML.accesskey "צ">
+<!ENTITY button.exportOPML.tooltip   "ייצוא ההזנות לרבות מבנה התיקיות; יש ללחוץ על כפתור העכבר עם ctrl או ctrl ו־enter כדי לייצא את ההזנות כרשימה">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "סגירה">
