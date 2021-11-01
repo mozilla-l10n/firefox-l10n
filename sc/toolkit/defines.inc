@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Ingresu (IUA)
+#define MOZ_LANG_TITLE Inglesu (IUA)
