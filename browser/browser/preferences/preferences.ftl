@@ -954,7 +954,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         დაცვა პირადულობისთვის, რაც კი არსებობს
     .accesskey = ც
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = ფუნთუშებისგან ყოველმხრივი დაცვა ფუნთუშებს იმ საიტის საზღვრებში აქცევს, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ შეძლებენ, საიტებს შორის მიმოსვლისას გადევნონ თვალი.
+content-blocking-etp-standard-tcp-rollout-description = ფუნთუშების სრული გამიჯვნით, ყველა ფუნთუშა იმ საიტის საზღვრებშივე დარჩება, რომელზეც იმყოფებით და მეთვალყურეები ვეღარ დაგედევნებიან, სხვა საიტებზე გადასვლისას.
 content-blocking-etp-standard-tcp-rollout-learn-more = ვრცლად
 content-blocking-warning-title = ფრთხილად!
 content-blocking-and-isolating-etp-warning-description = მეთვალყურეების შეზღუდვით და ფუნთუშების გამიჯვნით, შესაძლოა დაზიანდეს ზოგიერთი საიტის შესაძლებლობები. შიგთავსის სრულად სანახავად, ხელახლა გახსენით გვერდი დაშვებული მეთვალყურეებით.
