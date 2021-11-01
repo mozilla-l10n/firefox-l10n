@@ -25,4 +25,9 @@
 <!ENTITY refreshNow.label     "გაახლება ახლავე">
 <!ENTITY refreshNow.accesskey "ლ">
 
+<!ENTITY network.hint.label "შეიყვანეთ ნებისმიერი ქსელის ან სერვერის სახელი (შეგიძლიათ დაურთოთ პორტიც), ასევე არხის და შეუერთდით.">
 
+<!ENTITY col.network "ქსელი">
+<!ENTITY col.name  "სახელი">
+<!ENTITY col.users "მომხმარებელი">
+<!ENTITY col.topic "თემა">
