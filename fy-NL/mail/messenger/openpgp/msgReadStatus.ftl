@@ -41,6 +41,7 @@ openpgp-enc-invalid-label = Berjocht kin net ûntsifere wurde
 openpgp-enc-invalid = Dit berjocht is fersifere foardat it nei jo tastjoerd waard, mar kin net ûntsifere wurde.
 openpgp-enc-clueless = Der binne ûnbekende swierrichheden mei dit fersifere berjocht.
 openpgp-enc-valid-label = Berjocht is fersifere
+openpgp-enc-valid = Dit berjocht is fersifere eardat it nei jo ferstjoerd waard. Fersiferling soarget derfoar dat it berjocht allinnich lêzen wurde kin troch de ûntfangers wêrfoar it bedoeld is.
 openpgp-unknown-key-id = Unbekende kaai
 openpgp-other-enc-additional-key-ids = Dêrneist is it berjocht fersifere nei de eigeners fan de folgjende kaaien:
 openpgp-other-enc-all-key-ids = It berjocht is fersifere nei de eigeners fan de folgjende kaaien:
