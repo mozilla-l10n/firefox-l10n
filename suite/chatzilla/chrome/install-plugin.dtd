@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowtitle                    "მოდულის ჩადგმა…">
+
+<!ENTITY name.label                     "სახელი:">
+<!ENTITY name.accesskey                 "ს">
+
+<!ENTITY name.autopick.label            "სახელის თვითშერჩევა">
+<!ENTITY name.autopick.accesskey        "თ">
+
+<!ENTITY source.label                   "წყარო:">
+<!ENTITY source.accesskey               "წ">
+
+<!ENTITY browse.label                   "ამორჩევა…">
+<!ENTITY browse.accesskey               "ო">

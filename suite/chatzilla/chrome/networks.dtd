@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Used in networks-edit dialog -->
+<!ENTITY networksEditDialog.title     "ქსელის ჩასწორება">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
+<!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
+
+<!ENTITY restoreButton.label          "ნაგულისხმევის აღდგენა">
+<!ENTITY restoreButton.accesskey      "ვ">
+
+<!ENTITY networkListAdd.label         "ქსელის დამატება…">
+<!ENTITY networkListAdd.accesskey     "ქ">
+<!ENTITY networkListAdd.tooltip       "ახალი ქსელის დამატება">
+<!ENTITY networkListEdit.label        "ქსელის ჩასწორება…">
+<!ENTITY networkListEdit.accesskey    "ე">
+<!ENTITY networkListEdit.tooltip      "შერჩეული ქსელის ჩასწორება">
+<!ENTITY networkListRemove.label      "ქსელის მოცილება">
+<!ENTITY networkListRemove.accesskey  "ც">
+<!ENTITY networkListRemove.tooltip    "შერჩეული ქსელის მოცილება">
+
+<!ENTITY serverListUp.label           "აწევა">
+<!ENTITY serverListUp.accesskey       "ე">
+<!ENTITY serverListUp.tooltip         "შერჩეული სერვერი სიის ზემოთ ატანა">
+<!ENTITY serverListDown.label         "ჩამოწევა">
+<!ENTITY serverListDown.accesskey     "ჩ">
+<!ENTITY serverListDown.tooltip       "შერჩეული სერვერი სიის ქვემოთ ჩატანა">
+<!ENTITY serverListAdd.label          "სერვერის დამატება…">
+<!ENTITY serverListAdd.accesskey      "ს">
+<!ENTITY serverListAdd.tooltip        "ახალი სერვერის დამატება">
+<!ENTITY serverListEdit.label         "სერვერის ჩასწორება…">
+<!ENTITY serverListEdit.accesskey     "რ">
+<!ENTITY serverListEdit.tooltip       "შერჩეული სერვერის ჩასწორება">
+<!ENTITY serverListRemove.label       "სერვერის მოცილება">
+<!ENTITY serverListRemove.accesskey   "ბ">
+<!ENTITY serverListRemove.tooltip     "შერჩეული სერვერის მოცილება">
+
+<!-- LOCALIZATION NOTE:
+   - *.label are shared between networks-edit and networks-server dialogs
+   - *.accesskey are only used in network-servers dialog -->
+
+<!-- Used in networks-server dialog -->
