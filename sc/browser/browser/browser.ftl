@@ -119,7 +119,7 @@ urlbar-tabtosearch-onboard = Seletziona custu curtzadòrgiu pro agatare prus a l
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = Signalibros
+urlbar-search-mode-bookmarks = Sinnalibros
 urlbar-search-mode-tabs = Ischedas
 urlbar-search-mode-history = Cronologia
 
@@ -152,11 +152,11 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Modìfica custu marcadore ({ $shortcut })
+    .tooltiptext = Modìfica custu sinnalibru ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Pone custa pàgina in marcadores ({ $shortcut })
+    .tooltiptext = Pone custa pàgina in sinnalibros ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -217,7 +217,7 @@ search-one-offs-add-engine-menu =
 ##    bookmarks).
 
 search-one-offs-bookmarks =
-    .tooltiptext = Marcadores ({ $restrict })
+    .tooltiptext = Sinnalibros ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Ischedas ({ $restrict })
 search-one-offs-history =
@@ -225,8 +225,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
-bookmarks-add-bookmark = Agiunghe marcadore
-bookmarks-edit-bookmark = Modìfica su marcadore
+bookmarks-add-bookmark = Agiunghe sinnalibru
+bookmarks-edit-bookmark = Modìfica su sinnalibru
 bookmark-panel-cancel =
     .label = Annulla
     .accesskey = A
@@ -235,8 +235,8 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [1] Boga marcadore
-           *[other] Boga { $count } marcadores
+            [1] Boga sinnalibru
+           *[other] Boga { $count } sinnalibros
         }
     .accesskey = B
 bookmark-panel-show-editor-checkbox =
