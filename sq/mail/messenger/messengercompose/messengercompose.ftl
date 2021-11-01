@@ -183,21 +183,60 @@ show-cc-row-main-menuitem =
 show-cc-row-extra-menuitem =
     .label = Cc
     .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Cc
+    .title = Shfaqni Fushë “Cc” ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Bcc
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Fushë “Bcc”
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Bcc
+    .accesskey = B
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Bcc
+    .title = Shfaqni Fushë “Bcc” ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Fusha të tjera adrese për t’u shfaqur
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Mesazhi juaj ka një marrës publik. Nxjerrjen zbuluar të marrësve mund të shmangni duke përdorur fushën Bcc.
+       *[other] { $count } marrësit te fushat Për dhe Cc do të shohin adresat e njëri-tjetrit. Nxjerrjen zbuluar të marrësve mund të shmangni duke përdorur fushën Bcc.
+    }
 many-public-recipients-bcc =
     .label = Më mirë përdor Bcc
     .accesskey = M
 many-public-recipients-ignore =
     .label = Mbaji Publikë Marrësit
     .accesskey = b
+many-public-recipients-prompt-title = Shumë Marrës Publikë
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Mesazhi juaj ka një marrës publik. Kjo mund të jetë problem privatësie. Këtë mund ta shmangni duke e kaluar marrësin nga Për/Cc te Bcc.
+       *[other] Mesazhi juaj ka { $count } marrës publikë, që do të jenë në gjendje të shohin adresat e njëri-tjetrit. This may be a privacy concern. Kjo mund të jetë problem privatësie. Këtë mund ta shmangni duke i kaluar marrësit nga Për/Cc te Bcc.
+    }
+many-public-recipients-prompt-cancel = Anuloje Dërgimin
+many-public-recipients-prompt-send = Dërgoje, Sido Qoftë
 
 ## Notifications
 
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Su gjet ndonjë identitet unik që përputhet me adresën Nga. Mesazhi do të dërgohet duke përdorur fushën e tanishme Nga dhe rregullimet nga identiteti { $identity }.
+encrypted-bcc-warning = Kur dërgohet një mesazh i fshehtëzuar, marrësit te fusha Bcc tani s’janë plotësisht të fshehur. Krejt marrësit mund të jenë në gjendje t’i identifikojnë ata.
+encrypted-bcc-ignore-button = E kuptova
 
 ## Editing
 
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Hiq Stilizim Teksti
