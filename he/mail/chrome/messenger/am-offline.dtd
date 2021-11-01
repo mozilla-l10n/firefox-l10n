@@ -24,15 +24,14 @@
 <!ENTITY retentionCleanupPop.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, כולל הודעות המקור בשרת המרוחק.">
 <!ENTITY retentionKeepMsg.label "למחוק הודעות מלפני">
 <!ENTITY retentionKeepMsg.accesskey "ל">
-<!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
+<!ENTITY retentionKeepAll.label "לא למחוק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
-<!ENTITY retentionKeepRecent.label "מחק הכול מלבד">
 <!ENTITY retentionKeepRecent.accesskey "מ">
-<!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות">
+<!ENTITY retentionApplyToFlagged.label "לשמור תמיד הודעות מסומנות בכוכבית">
 <!ENTITY retentionApplyToFlagged.accesskey "ס">
-<!ENTITY nntpRemoveMsgBody.label "הסר גוף בהודעות בנות יותר מאשר">
+<!ENTITY nntpRemoveMsgBody.label "הסרת גוף בהודעות בנות יותר מאשר">
 <!ENTITY nntpRemoveMsgBody.accesskey "י">
-<!ENTITY offlineSelectNntp.label "בחר קבוצות דיון לשימוש לא־מקוון">
+<!ENTITY offlineSelectNntp.label "בחירת קבוצות דיון לשימוש לא־מקוון…">
 <!ENTITY offlineSelectNntp.accesskey "ב">
 <!ENTITY offlineImapAdvancedOffline.label "מתקדם…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "מ">
@@ -45,9 +44,8 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "סנכרן את כל ההודעות מקומית ללא התחשבות בגיל">
+<!ENTITY allAutosync.label               "סנכרון כל ההודעות מקומית ללא התחשבות בגיל">
 <!ENTITY allAutosync.accesskey           "ל">
-<!ENTITY ageAutosyncBefore.label         "סנכרן הודעות מ־">
 <!ENTITY ageAutosync.accesskey           "ס">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "ימים">
