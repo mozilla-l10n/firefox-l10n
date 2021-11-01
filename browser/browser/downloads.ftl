@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Показать в Finder
     .accesskey = к
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Показать в Finder
+           *[other] Показать в папке
+        }
+    .accesskey = а
 downloads-cmd-use-system-default =
     .label = Открыть в программе просмотра по умолчанию
     .accesskey = ы
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Всегда открывать в программе просмотра по умолчанию
     .accesskey = е
@@ -64,6 +73,24 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Показать в Finder
            *[other] Открыть папку с файлом
+        }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Показать в Finder
+           *[other] Показать в папке
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Показать в Finder
+           *[other] Показать в папке
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Показать в Finder
+           *[other] Показать в папке
         }
 downloads-cmd-show-downloads =
     .label = Открыть папку Загрузки
@@ -162,3 +189,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = В этой сессии загрузок не было.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Загружается ещё { $count } файл
+        [few] Загружается ещё { $count } файла
+       *[many] Загружается ещё { $count } файлов
+    }
