@@ -294,6 +294,7 @@ can-sandbox-content = Mbajtje Brenda Bankëprovës e Proceseve të Lëndës
 can-sandbox-media = Mbajtje Brenda Bankëprovës e Shtojcave Për Media
 content-sandbox-level = Shkallë Mbajtjeje Brenda Bankëprovës e Proceseve të Lëndës
 effective-content-sandbox-level = Shkallë Efektive Mbajtjeje Brenda Bankëprovës e Proceseve të Lëndës
+content-win32k-lockdown-state = Gjendje “Win32k Lockdown” për Proces Lënde
 sandbox-proc-type-content = lëndë
 sandbox-proc-type-file = lëndë kartele
 sandbox-proc-type-media-plugin = shtojcë mediash
