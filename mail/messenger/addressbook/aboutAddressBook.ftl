@@ -16,22 +16,26 @@ about-addressbook-toolbar-new-contact =
     .label = Kontakt i Ri
 about-addressbook-toolbar-new-list =
     .label = Listë e Re
+about-addressbook-toolbar-import =
+    .label = Importo
 
 ## Books
 
 all-address-books = Krejt Librat e Adresave
-
 about-addressbook-books-context-properties =
     .label = Veti
 about-addressbook-books-context-synchronize =
     .label = Njëkohësoje
 about-addressbook-books-context-print =
     .label = Shtypni…
+about-addressbook-books-context-export =
+    .label = Eksportoni…
 about-addressbook-books-context-delete =
     .label = Fshije
 about-addressbook-books-context-remove =
     .label = Hiqe
-
+about-addressbook-books-context-startup-default =
+    .label = Drejtori parazgjedhje në nisje
 about-addressbook-confirm-delete-book-title = Fshini Libër Adresash
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -49,17 +53,14 @@ about-addressbook-search =
     .placeholder = Kërko për { $name }
 about-addressbook-search-all =
     .placeholder = Kërko në krejt librat e adresave
-
 about-addressbook-sort-button =
     .title = Ndryshoni renditjen e listës
-
 about-addressbook-name-format-display =
     .label = Emër i Shfaqur
 about-addressbook-name-format-firstlast =
     .label = Emër Mbiemër
 about-addressbook-name-format-lastfirst =
     .label = Mbiemër, Emër
-
 about-addressbook-sort-name-ascending =
     .label = Renditi sipas emrash (A > Z)
 about-addressbook-sort-name-descending =
@@ -68,7 +69,6 @@ about-addressbook-sort-email-ascending =
     .label = Renditi sipas adresash email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Renditi sipas adresash email (Z > A)
-
 about-addressbook-confirm-delete-mixed-title = Fshini Kontakte dhe Lista
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -125,9 +125,10 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Përpunoni
 about-addressbook-cancel-edit-contact-button = Anuloje
 about-addressbook-save-edit-contact-button = Ruaje
-
 about-addressbook-details-email-addresses-header = Adresa Email
 about-addressbook-details-phone-numbers-header = Numra Telefonash
 about-addressbook-details-home-address-header = Adresë Shtëpie
 about-addressbook-details-work-address-header = Adresë Pune
 about-addressbook-details-other-info-header = Hollësi të Tjera
+about-addressbook-prompt-to-save-title = Të Ruhen Ndryshimet?
+about-addressbook-prompt-to-save = Doni të ruhen ndryshimet tuaja?

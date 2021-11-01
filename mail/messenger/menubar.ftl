@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -12,7 +10,9 @@
 menu-tools-preferences =
     .label = Parapëlqime
     .accesskey = P
-
+menu-tools-settings =
+    .label = Rregullime
+    .accesskey = e
 menu-addons-and-themes =
     .label = Shtesa dhe Tema
     .accesskey = S
@@ -22,11 +22,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Mënyra Diagnostikim…
     .accesskey = D
-
 menu-help-exit-troubleshoot-mode =
     .label = Çaktivizo Mënyrën Diagnostikim
     .accesskey = Ç
-
 menu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
     .accesskey = M
@@ -57,18 +55,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Dendësi
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Kompakte
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normale
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Llogari Grupi Lajmesh…
+    .accesskey = L

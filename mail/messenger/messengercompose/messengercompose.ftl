@@ -86,6 +86,10 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Shfaqni kuadrat bashkëngjitjesh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Fshihe kuadratin e bashkëngjitjeve ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Shfaqeni kuadratin e bashkëngjitjeve ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Fshiheni kuadratin e bashkëngjitjeve ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Shtoje si Bashkëngjitje
@@ -164,6 +168,21 @@ show-to-row-main-menuitem =
 show-to-row-extra-menuitem =
     .label = Për
     .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Për
+    .title = Shfaqni Fushën “Për” ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Fushë “Cc”
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Cc
+    .accesskey = C
 many-public-recipients-bcc =
     .label = Më mirë përdor Bcc
     .accesskey = M
