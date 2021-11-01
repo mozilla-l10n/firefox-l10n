@@ -123,6 +123,8 @@ cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Μάθετε περισσότερα
+    .title = Επεκτείνετε για να μάθετε περισσότερα για τη λειτουργία
 spotlight-learn-more-expanded = Μάθετε περισσότερα
     .title = Κλείσιμο
 
@@ -142,4 +144,11 @@ spotlight-public-wifi-vpn-link = Όχι τώρα
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Δοκιμάστε την πιο ισχυρή
+    λειτουργία απορρήτου μας
+spotlight-total-cookie-protection-body = Η Ολική προστασία cookie εμποδίζει τη χρήση των cookies από ιχνηλάτες για την καταγραφή της δραστηριότητάς σας.
+spotlight-total-cookie-protection-primary-button = Ενεργοποίηση ολικής προστασίας cookie
 spotlight-total-cookie-protection-secondary-button = Όχι τώρα
