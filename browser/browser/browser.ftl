@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Administroni përdorim shtojcash
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Administroni ndarje altoparlantësh të tjerë me sajtin
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Hap panel vetëluajtje
 urlbar-persistent-storage-notification-anchor =
@@ -509,6 +513,16 @@ urlbar-result-action-search-tabs = Kërkoni Në Skeda
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Sugjerime nga { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -529,6 +543,10 @@ pointerlock-warning-no-domain = Kursori është nën kontrollin e kursorit tuaj.
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Një pjesë e kësaj faqeje u vithis.</strong> Për t’ia bërë të ditur { -brand-product-name }-it këtë çështje dhe për t’u zgjidhur më shpejt, ju lutemi, parashtroni një raport.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Një pjesë e kësaj faqeje u vithis. Që ta lejoni { -brand-product-name }-in të dijë rreth kësaj çështjeje dhe që ta ndreqë më shpejt, ju lutemi, parashtroni një raportim.
 crashed-subframe-learnmore-link =
     .value = Mësoni Më Tepër
 crashed-subframe-submit =
@@ -691,6 +709,9 @@ remote-tabs-sync-now = Njëkohësoji Tani
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Më tepër…
 ui-tour-info-panel-close =
     .tooltiptext = Mbylleni
 
@@ -709,6 +730,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Mos e shfaq këtë mesazh kur bllokohen flluska
     .accesskey = D
+edit-popup-settings =
+    .label = Administroni rregullime për flluskat…
+    .accesskey = A
 picture-in-picture-hide-toggle =
     .label = Fshih Buton Picture-in-Picture
     .accesskey = F
@@ -752,3 +776,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Paraqiti krejt skedat
     .tooltiptext = Paraqiti krejt skedat
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Të hapen skeda të mëparshme?</strong> Sesionin tuaj të mëparshëm mund ta riktheni që nga menuja e aplikacionit { -brand-short-name } <img data-l10n-name="icon"/>, nën Historik.
+restore-session-startup-suggestion-button = Tregomëni se si
