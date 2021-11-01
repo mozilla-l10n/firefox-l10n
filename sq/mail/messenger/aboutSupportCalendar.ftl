@@ -18,6 +18,7 @@ calendars-table-imip-identity = Identitet iMIP
 calendars-table-imip-identity-disabled = iMIP e Çaktivizuar
 calendars-table-imip-identity-account = Llogari iMIP
 calendars-table-organizerid = Id Organizuesi
+calendars-table-forceemailscheduling = Detyro Planifikim Email-esh
 calendars-table-capabilities-alarms-popup-supported = Mbulon Flluska Alarmesh
 calendars-table-capabilities-alarms-oninviations-supported = Mbulon Alarme Për Ftesa
 calendars-table-capabilities-alarms-maxcount = Maksimum Alarmesh Për Veprimtari

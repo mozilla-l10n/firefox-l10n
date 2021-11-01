@@ -10,8 +10,10 @@ account-setup-title = Ujdisni Adresën Tuaj Email Ekzistuese
 account-setup-description =
     Që të përdoret adresa juaj e tanishme email, plotësoni kredencialet tuaja.<br/>
     { -brand-product-name }-i do të kërkojë automatikisht për një formësim funksional dhe të rekomanduar shërbyesi.
+account-setup-secondary-description = { -brand-product-name } do të kërkojë automatikisht për një formësim funksional dhe të rekomanduar shërbyesi.
 account-setup-success-title = Llogaria u krijua me sukses
 account-setup-success-description = Tani mund ta përdorni këtë llogari me { -brand-short-name }-in.
+account-setup-success-secondary-description = Këtë anë mund ta përmirësoni duke lidhur shërbime të afërta dhe duke formësuar rregullime të mëtejshme llogarie.
 
 ## Form fields
 
@@ -106,8 +108,10 @@ account-setup-step4-image =
     .title = Gabim lidhjeje
 account-setup-step5-image =
     .title = Llogaria u krijua
+account-setup-privacy-footnote2 = Kredencialet tuaja do të depozitohen vetëm lokalisht, në kompjuterin tuaj.
 account-setup-selection-help = S’jeni të sigurt ç’të përzgjidhni?
 account-setup-selection-error = Ju duhet ndihmë?
+account-setup-success-help = Të pasigurt për hapat tuaj të mëtejshëm?
 account-setup-documentation-help = Dokumentim ujdisjeje
 account-setup-forum-help = Forum asistence
 account-setup-privacy-help = Rregulla privatësie
@@ -130,6 +134,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Mbajini dosjet dhe email-et në kompjuterin tuaj
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Përdorni shërbyesin Microsoft Exchange, ose shërbime në re Office365
 account-setup-incoming-title = Ardhëse
 account-setup-outgoing-title = Ikëse
 account-setup-username-title = Emër përdoruesi
