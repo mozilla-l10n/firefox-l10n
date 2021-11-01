@@ -21,6 +21,20 @@
 <!ENTITY object.reset.hint      "შერჩეულის პარამეტრების ნაგულისხმევზე დაბრუნება">
 <!ENTITY object.reset.accesskey "ჩ">
 
+<!ENTITY dialog.apply   "ასახვა">
 
+<!ENTITY network "ქსელი">
+<!ENTITY channel "არხი">
+<!ENTITY user    "მომხმარებელი">
 
+<!ENTITY config.add.title "პარამეტრის დამატება">
 
+<!ENTITY config.type.label        "სახეობა:">
+<!ENTITY config.type.hint         "სახეობა, პარამეტრების დასამატებლად">
+<!ENTITY config.type.accesskey    "ს">
+<!ENTITY config.network.label     "ქსელი:">
+<!ENTITY config.network.hint      "ქსელის ცნობილი სახელი ან სერვერის სახელი">
+<!ENTITY config.network.accesskey "ქ">
+<!ENTITY config.target.label      "სამიზნე:">
+<!ENTITY config.target.hint       "სამიზნე არხი ან მომხმარებლის სახელი">
+<!ENTITY config.target.accesskey  "ს">
