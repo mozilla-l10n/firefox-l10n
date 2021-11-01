@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = Kthim Faturash
-
-return-receipt-checkbox =
+return-receipt-checkbox-control =
     .label = Kur dërgohen mesazhe, kërko përherë një faturë kthimi
-    .acceskey = K
-
+    .accesskey = K
 receipt-arrive-label = Kur mbërrin një faturë:
-
-receipt-leave-radio =
+receipt-leave-radio-control =
     .label = Lëre te Të marrët e mi
-    .acceskey = L
-
-receipt-move-radio =
+    .accesskey = m
+receipt-move-radio-control =
     .label = Shpjere te dosja ime "Të dërguar"
-    .acceskey = S
-
+    .accesskey = u
 receipt-request-label = Kur marr një kërkesë për faturë kthimi:
-
-receipt-return-never-radio =
+receipt-return-never-radio-control =
     .label = Mos dërgo kurrë faturë kthimi
-    .acceskey = M
-
-receipt-return-some-radio =
+    .accesskey = k
+receipt-return-some-radio-control =
     .label = Lejo fatura kthimi për disa mesazhe
-    .acceskey = e
-
-receipt-not-to-cc =
-    .value = Nëse nuk jam te Për ose Cc e mesazhit:
-    .acceskey = u
-
+    .accesskey = s
+receipt-not-to-cc-label =
+    .value = Nëse nuk jam te Për, ose Cc e mesazhit:
+    .accesskey = N
 receipt-send-never-label =
     .label = Mos e dërgo kurrë
-
 receipt-send-always-label =
     .label = Dërgoje përherë
-
 receipt-send-ask-label =
     .label = Pyetmë
-
-sender-outside-domain =
+sender-outside-domain-label =
     .value = Nëse dërguesi është jashtë përkatësisë sime:
-    .acceskey = d
-
-other-cases-label =
+    .accesskey = p
+other-cases-text-label =
     .value = Në krejt rastet e tjera:
-    .acceskey = N
+    .accesskey = e
