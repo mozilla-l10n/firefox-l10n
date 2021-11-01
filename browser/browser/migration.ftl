@@ -114,6 +114,34 @@ browser-data-history-label =
         }
 browser-data-formdata-checkbox =
     .label = Salvestatud vormide ajalugu
+browser-data-formdata-label =
+    .value = Salvestatud vormide ajalugu
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Salvestatud kasutajatunnused ja paroolid
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Salvestatud kasutajatunnused ja paroolid
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Lemmikud
+            [edge] Lemmikud
+           *[other] Järjehoidjad
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Lemmikud
+            [edge] Lemmikud
+           *[other] Järjehoidjad
+        }
+browser-data-otherdata-checkbox =
+    .label = Muud andmed
+browser-data-otherdata-label =
+    .label = Muud andmed
 browser-data-session-checkbox =
     .label = Aknad ja kaardid
 browser-data-session-label =
