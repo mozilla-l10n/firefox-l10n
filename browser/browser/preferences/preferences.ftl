@@ -946,6 +946,16 @@ content-blocking-all-windows-tracking-content = Folchynhâld yn alle finsters
 content-blocking-all-third-party-cookies = Alle cookies fan tredden
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label =
+        Meitsje in testrit yn ús krêftichste privacyfunksje ea
+        privacy-ûnderfining ea
+    .accesskey = t
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Totale cookiebeskerming slút cookies yn op de website dy't jo besykje, sadat trackers se net brûke kinne om jo tusken websites te folgjen.
+content-blocking-etp-standard-tcp-rollout-learn-more = Mear ynfo
 content-blocking-warning-title = Let op!
 content-blocking-and-isolating-etp-warning-description = It blokkearjen fan trackers en isolearjen fan cookies kin de funksjonaliteit fan guon websites beynfloedzje. Laad in side mei trackers opnij om alle ynhâld te laden.
 content-blocking-and-isolating-etp-warning-description-2 = Dizze ynstelling kin derfoar soargje dat guon websites ynhâld net toane of net korrekt wurkje. As in website net liket te wurkjen, dan kinne jo beskerming tsjin folgjen foar dy website útskeakelje om alle ynhâld te laden.
