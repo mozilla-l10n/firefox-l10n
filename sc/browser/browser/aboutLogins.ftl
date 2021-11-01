@@ -161,6 +161,12 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Boles bogare { $count } credentziale?
        *[other] Boles bogare totu is { $count } credentziales?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Custu at a bogare sa credentziale chi as sarvadu in { -brand-short-name } e puru totu is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
+        [one] Custu at a bogare sa credentziale chi as sarvadu in { -brand-short-name } e puru totu is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
+       *[other] Custu at a bogare totu is credentziales chi as sarvadu in { -brand-short-name } e puru totu is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Boles bogare { $count } credentziale dae totu is dispositivos?

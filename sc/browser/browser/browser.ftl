@@ -317,6 +317,8 @@ browser-window-minimize-button =
     .tooltiptext = Impicòchia
 browser-window-maximize-button =
     .tooltiptext = Ismànnia
+browser-window-restore-down-button =
+    .tooltiptext = Riprìstina in bàsciu
 browser-window-close-button =
     .tooltiptext = Serra
 

@@ -80,6 +80,16 @@ menu-file-open-file =
 menu-file-close =
     .label = Serra
     .accesskey = S
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Serra s'ischeda
+            [one] Serra { $tabCount } ischeda
+           *[other] Serra { $tabCount } ischedas
+        }
+    .accesskey = S
 menu-file-close-window =
     .label = Serra sa ventana
     .accesskey = v

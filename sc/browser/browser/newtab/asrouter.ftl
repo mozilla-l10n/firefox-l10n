@@ -122,15 +122,23 @@ cfr-doorhanger-video-support-header = Agiorna pro { -brand-short-name } bìdere 
 cfr-doorhanger-video-support-primary-button = Agiorna immoe
     .accesskey = i
 
+## Spotlight modal shared strings
+
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Paret chi ses impreende una rete Wi-Fi pùblica
 spotlight-public-wifi-vpn-body = Pro cuare sa positzione tua e s'atividade de navigatzione, cunsìdera de impreare una rete privada virtuale (VPN). T'at a agiudare a abarrare suta protetzione cando ses navighende in logos pùblicos comente aeroportos e tzilleris.
 spotlight-public-wifi-vpn-primary-button = Abarra suta protetzione cun { -mozilla-vpn-brand-name }
     .accesskey = s
 spotlight-public-wifi-vpn-link = Immoe nono
     .accesskey = n
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-primary-button = Ativa sa protetzione totale contra is testimòngios (cookies)
