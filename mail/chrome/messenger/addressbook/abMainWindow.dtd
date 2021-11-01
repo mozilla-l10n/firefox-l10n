@@ -72,11 +72,9 @@
 <!ENTITY customizeToolbar.accesskey                     "א">
 <!ENTITY layoutMenu.label                               "פריסה">
 <!ENTITY layoutMenu.accesskey                           "פ">
-<!ENTITY showDirectoryPane.label                        "לוח מדריך">
-<!ENTITY showDirectoryPane.accesskey                    "מ">
 <!ENTITY showContactPane2.label                         "לוח אנשי קשר">
 <!ENTITY showContactPane2.accesskey                     "א">
-<!ENTITY menu_ShowNameAs.label                          "הצג שם בצורה">
+<!ENTITY menu_ShowNameAs.label                          "הצגת שם בצורה">
 <!ENTITY menu_ShowNameAs.accesskey                      "צ">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
@@ -86,7 +84,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey                         "מ">
 <!ENTITY displayNameCmd.label                           "שם תצוגה">
 <!ENTITY displayNameCmd.accesskey                       "ת">
-<!ENTITY sortMenu.label                                 "מיין לפי">
+<!ENTITY sortMenu.label                                 "מיון לפי">
 <!ENTITY sortMenu.accesskey                             "מ">
 
 <!-- Tools Menu -->
@@ -95,11 +93,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "דואר וקבוצות דיון">
 <!ENTITY messengerCmd.accesskey                         "ד">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "חפש בכתובות…">
+<!ENTITY searchAddressesCmd.label                       "חיפוש כתובות…">
 <!ENTITY searchAddressesCmd.accesskey                   "ח">
-<!ENTITY importCmd.label                                "יבוא…">
+<!ENTITY importCmd.label                                "ייבוא…">
 <!ENTITY importCmd.accesskey                            "ב">
-<!ENTITY exportCmd.label                                "יצוא…">
+<!ENTITY exportCmd.label                                "ייצוא…">
 <!ENTITY exportCmd.accesskey                            "צ">
 
 <!-- Address Book Toolbar and Context Menus -->
@@ -122,7 +120,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "ר">
 <!ENTITY newmsgButton.label                             "כתיבה">
 <!ENTITY newmsgButton.accesskey                         "כ">
-<!ENTITY newIM.label                                    "הודעה מידית">
+<!ENTITY newIM.label                                    "הודעה מיידית">
 <!ENTITY newIM.accesskey                                "מ">
 <!ENTITY printButton.label                              "הדפסה…">
 <!ENTITY printButton.accesskey                          "פ">
@@ -133,15 +131,16 @@ because displayed names don't have the comma in between. -->
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "בחירת עמודות להצגה">
-<!ENTITY newContactButton.tooltip                       "צור איש קשר חדש בספר הכתובות">
-<!ENTITY newlistButton.tooltip                          "צור רשימה חדשה">
+<!ENTITY newContactButton.tooltip                       "יצירת איש קשר חדש בספר הכתובות">
+<!ENTITY newlistButton.tooltip                          "יצירת רשימה חדשה">
 <!ENTITY editPropertiesButton.tooltip                   "עריכת הפריט הנבחר">
 <!ENTITY editAbPropertiesButton.tooltip                 "עריכת מאפייני פנקס הכתובות הנבחר">
 <!ENTITY editContactPropertiesButton.tooltip            "עריכת איש הקשר הנבחר">
 <!ENTITY editMailingListPropertiesButton.tooltip        "עריכת רשימת הדיוור שנבחרה">
-<!ENTITY newmsgButton.tooltip                           "שלח הודעת דואר">
-<!ENTITY newIM.tooltip                                  "שלח הודעה מידית או צ׳אט">
-<!ENTITY deleteButton2.tooltip                          "מחיקת פריטים נבחרים">
+<!ENTITY newmsgButton.tooltip                           "שליחת הודעת דואר">
+<!ENTITY newIM.tooltip                                  "שליחת הודעה מיידית או צ׳אט">
+<!ENTITY deleteButton2.tooltip                          "מחיקת הפריט הנבחר">
+<!ENTITY removeButton.tooltip                           "הסרת פנקס הכתובת הנבחר">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "שם או דוא״ל">
@@ -206,7 +205,7 @@ because displayed names don't have the comma in between. -->
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "חלון">
-<!ENTITY minimizeWindow.label                           "מזער חלון">
+<!ENTITY minimizeWindow.label                           "מזעור">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "הבא הכול לקידמה">
-<!ENTITY zoomWindow.label                               "הגדל חלון">
+<!ENTITY zoomWindow.label                               "מרחק מתצוגה">
