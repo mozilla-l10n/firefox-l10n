@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Foltôge taken
 calendar-print-filter-taskswithnoduedate = Taken sûnder eindatum
 calendar-print-range-from = Fan
 calendar-print-range-to = Oan
+calendar-print-back-button = Tebek
 calendar-print-next-button = Folgjende
