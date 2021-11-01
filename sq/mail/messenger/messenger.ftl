@@ -137,3 +137,5 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-message = Adresa e përgjigjes ({ $email }) s’duket të jetë një adresë e mbikëqyrur. Mesazhet te kjo adresë ka gjasa të mos lexohen nga ndonjë.
+no-reply-reply-anyway-button = Përgjigjuni, Sido Qoftë
