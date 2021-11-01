@@ -6,6 +6,7 @@ account-encryption =
     .label = Fshehtëzim Skaj-Më-Skaj
 account-otr-label = Shkëmbim Mesazhesh Off-the-Record (OTR)
 account-otr-description = { -brand-short-name } mbulon fshehtëzim skaj-më-skaj në biseda tek-për-tek. Kjo u pengon palëve të treta të përgjojnë një bisedë. Fshehtëzimi skaj-më-skaj mund të përdoret vetëm kur edhe personi tjetër përdor program që mbulon OTR-në.
+account-otr-description2 = { -brand-short-name } mbulon fshehtëzim skaj-më-skaj në biseda tek-për-tek, bazuar në OTR. Kjo u pengon palëve të treta të përgjojnë një bisedë. Ky lloj fshehtëzimi skaj-më-skaj mund të përdoret vetëm kur edhe personi tjetër përdor program që mbulon OTR-në.
 otr-encryption-title = Fshehtëzim i Verifikuar
 otr-encryption-caption = Për t’u bërë të mundur të tjerëve të verifikojnë identitetin tuaj në biseda OTR, ndani me ta shenjat tuaja të gishtave OTR duke përdorur një kanal të jashtëm komunikimesh (out-of-band).
 otr-fingerprint-label = Shenjat Tuaja të Gishtave:
@@ -15,7 +16,6 @@ view-fingerprint-button =
 otr-settings-title = Rregullime për OTR
 otr-log =
     .label = Përfshi në regjistra bisedash mesazhe OTR të fshehtëzuar
-
 otr-require-encryption =
     .label = Kërko doemos fshehtëzim skaj-më-skaj për biseda tek-për-tek
 otr-require-encryption-info =
@@ -25,6 +25,4 @@ otr-require-encryption-info =
     i tyre.
 otr-verify-nudge =
     .label = Kujtomë përherë të verifikoj një kontakt të paverifikuar
-
 otr-not-yet-available = ende jo gati
-
