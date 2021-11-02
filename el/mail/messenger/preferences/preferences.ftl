@@ -125,6 +125,9 @@ add-web-search-engine =
 remove-search-engine =
     .label = Αφαίρεση
     .accesskey = ρ
+add-opensearch-provider-title = Προσθήκη παρόχου OpenSearch
+adding-opensearch-provider-failed-title = Αποτυχία προσθήκης παρόχου OpenSearch
+adding-opensearch-provider-failed-text = Δεν ήταν δυνατή η προσθήκη παρόχου OpenSearch για το { $url }.
 minimize-to-tray-label =
     .label = Όταν το { -brand-short-name } ελαχιστοποιείται, να γίνεται μετακίνηση στη γραμμή εργασιών
     .accesskey = ε
@@ -144,6 +147,7 @@ app-icon-options =
     .label = Επιλογές εικονιδίου εφαρμογής…
     .accesskey = Ε
 notification-settings = Οι ειδοποιήσεις και ο προεπιλεγμένος ήχος μπορούν να απενεργοποιηθούν στην καρτέλα Ειδοποιήσεις των ρυθμίσεων συστήματος.
+notification-settings2 = Οι ειδοποιήσεις και ο προεπιλεγμένος ήχος μπορούν να απενεργοποιηθούν στην καρτέλα «Ειδοποιήσεις» των ρυθμίσεων συστήματος.
 animated-alert-label =
     .label = Εμφάνιση ειδοποίησης
     .accesskey = φ
@@ -703,5 +707,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις Επιλογές.
        *[other] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις Προτιμήσεις.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Δυστυχώς, δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις επιλογές.
+       *[other] Δυστυχώς, δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις ρυθμίσεις.
     }
 search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>
