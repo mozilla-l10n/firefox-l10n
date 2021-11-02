@@ -488,18 +488,74 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ammustra cussìgios de chirca in is resurtados de sa barra de indiritzos
     .accesskey = i
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Ammustra cussìgios de chirca, in is resurtados de sa barra de indiritzos, prima de sa cronologia de navigatzione
+search-show-suggestions-private-windows =
+    .label = Ammustra cussìgios de chirca in is ventanas privadas
+suggestions-addressbar-settings-generic2 = Modìfica sa cunfiguratzione de àteros cussìgios de sa barra de indiritzos
+search-suggestions-cant-show = Is cussìgios de chirca no ant a èssere ammustrados in is resurtados de sa barra de positzione ca as cunfiguradu { -brand-short-name } in manera chi no regordet mai sa cronologia.
+search-one-click-header2 = Curtzadòrgios de chirca
+search-one-click-desc = Sèbera motores de chirca alternativos chi ant a èssere ammustrados a suta de sa barra de indiritzos e de sa barra de chirca comente cumintzas a iscrìere unu faeddu.
+search-choose-engine-column =
+    .label = Motore de chirca
+search-choose-keyword-column =
+    .label = Faeddu crae
+search-restore-default =
+    .label = Recùpera is motores de chirca predefinidos
+    .accesskey = R
+search-remove-engine =
+    .label = Boga
+    .accesskey = B
+search-add-engine =
+    .label = Agiunghe
+    .accesskey = A
+search-find-more-link = Agata àteros motores de chirca
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Su faeddu crae esistit giai
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = As seberadu unu faeddu crae chi est giai imperadu dae “{ $name }”. Sèbera·nde un'àteru.
+search-keyword-warning-bookmark = As seberadu unu faeddu crae chi est giai imperadu dae unu sinnalibru. Sèbera·nde un'àteru.
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Torra a sa cunfiguratzione
+containers-settings-button =
+    .label = Cunfiguratzione
 containers-remove-button =
     .label = Boga
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-description2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
+sync-signedout-account-signin3 =
+    .label = Identìfica·ti pro sincronizare…
+    .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Iscàrriga Firefox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o pro <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pro sincronizare cun su dispositivu mòbile tuo.
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Muda s'immàgine de su profilu
+sync-sign-out =
+    .label = Serra sa sessione…
+    .accesskey = s
 
 ## Sync section - enabling or disabling sync.
 
