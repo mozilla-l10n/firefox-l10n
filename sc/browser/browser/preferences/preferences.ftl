@@ -915,6 +915,17 @@ permissions-microphone-settings =
     .label = Cunfiguratzione…
     .accesskey = t
 permissions-notification = Notìficas
+permissions-notification-settings =
+    .label = Cunfiguratzione…
+    .accesskey = t
+permissions-notification-link = Àteras informatziones
+permissions-notification-pause =
+    .label = Pone is notìficas in pàusa fintzas a cando { -brand-short-name } no at a èssere torradu a aviare
+    .accesskey = n
+permissions-autoplay = Riprodutzione in automàticu
+permissions-autoplay-settings =
+    .label = Cunfiguratzione…
+    .accesskey = t
 
 ## Privacy Section - Data Collection
 
