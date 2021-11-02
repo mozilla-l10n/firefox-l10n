@@ -99,9 +99,21 @@ cfr-doorhanger-milestone-close-button = Sulge
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Sinu privaatsus on oluline. { -brand-short-name } suunab nüüd DNS-päringud sinu kaitsmiseks turvaliselt partnerteenusesse.
+cfr-doorhanger-doh-header = Turvalisemad, krüptitud DNS-päringud
+cfr-doorhanger-doh-primary-button-2 = Sobib
+    .accesskey = S
+cfr-doorhanger-doh-secondary-button = Keela
+    .accesskey = K
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Sinu privaatsus on oluline. { -brand-short-name } isoleerib või aedikkäitab nüüd veebilehed üksteisest eraldi, mis teeb kurikaeladel paroolide, krediitkaardinumbrite ja muu tundliku teabe varastamise raskemaks.
+cfr-doorhanger-fission-header = Saitide isoleerimine
+cfr-doorhanger-fission-primary-button = Olgu, sain aru
+    .accesskey = g
+cfr-doorhanger-fission-secondary-button = Rohkem teavet
+    .accesskey = h
 
 ## Full Video Support CFR message
 
