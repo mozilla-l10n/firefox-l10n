@@ -148,17 +148,133 @@ show-tabs-in-taskbar =
     .label = Ammustra previsualizatziones de ischeda in sa barra de tareas de Windows
     .accesskey = t
 browser-containers-learn-more = Leghe àteru
+browser-containers-settings =
+    .label = Cunfiguratzione…
+    .accesskey = u
+containers-disable-alert-cancel-button = Mantene ativadas
+containers-remove-alert-title = Boles bogare custu cuntenidore?
+containers-remove-ok-button = Boga custu cuntenidore
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Limbas e aspetu
+default-font-size = Mannària
+    .accesskey = M
+advanced-fonts =
+    .label = Avantzadas…
+    .accesskey = A
+colors-settings =
+    .label = Colores…
+    .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Ingrandimentu
+preferences-default-zoom = Predefinidu
+    .accesskey = P
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Ismànnia isceti su testu
+    .accesskey = t
+language-header = Limba
+choose-language-description = Sèbera sa limba preferida tua pro ammustrare pàginas
+choose-button =
+    .label = Sèbera…
+    .accesskey = b
+choose-browser-language-description = Sèbera is limbas impreadas pro ammustrare menùs, messàgios e notìficas de { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Cunfigura alternativas…
+    .accesskey = u
+confirm-browser-language-change-description = Torra a aviare { -brand-short-name } pro aplicare custas modìficas
+confirm-browser-language-change-button = Àplica e torra a aviare
+translate-web-pages =
+    .label = Borta su cuntenutu web
+    .accesskey = B
+fx-translate-web-pages = { -translations-brand-name }
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Tradutzione fata dae <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Etzetziones…
+    .accesskey = z
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Imprea sa cunfiguratzione de su sistema operativu de “{ $localeName }” pro formatare datas, oras, nùmeros e medidas.
+check-user-spelling =
+    .label = Controlla s'ortografia comente iscries
+    .accesskey = o
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Archìvios e aplicatziones
 download-header = Iscarrigamentos
+download-save-to =
+    .label = Sarva archìvios in
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Sèbera…
+           *[other] Nàviga…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] n
+        }
+download-always-ask-where =
+    .label = Dimanda semper su percursu de sarvamentu de archìvios
+    .accesskey = D
+applications-header = Aplicatziones
+applications-filter =
+    .placeholder = Chirca genias de archìviu o aplicatziones
+applications-type-column =
+    .label = Genias de cuntenutu
+    .accesskey = G
+applications-action-column =
+    .label = Atzione
+    .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = archìviu { $extension }
+applications-action-save =
+    .label = Sarva s'archìviu
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Imprea { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Imprea { $app-name } (predefinidu)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Imprea s'aplicatzione predefinida de macOS
+            [windows] Imprea s'aplicatzione predefinida de Windows
+           *[other] Imprea s'aplicatzione predefinida de su sistema
+        }
+applications-use-other =
+    .label = Imprea un'àtera aplicatzione…
+applications-select-helper = Sèbera s'aplicatzione ausiliare
+applications-manage-app =
+    .label = Detàllios de s'aplicatzione…
+applications-always-ask =
+    .label = Dimanda semper
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Imprea { $plugin-name } (in { -brand-short-name })
+applications-open-inapp =
+    .label = Aberi in { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -170,16 +286,23 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content-learn-more = Leghe àteru
+update-application-title = Agiornamentos de { -brand-short-name }
+update-application-description = Mantene { -brand-short-name } agiornadu pro una seguresa, istabilidade e rendimentu òtimos.
 
 ## General Section - Performance
 
