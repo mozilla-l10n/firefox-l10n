@@ -117,9 +117,17 @@ cfr-doorhanger-fission-secondary-button = Rohkem teavet
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Sellel saidil olevaid videoid ei pruugita selle { -brand-short-name } versiooniga õigesti esitada. Täieliku videotoe saamiseks uuendage { -brand-short-name } kohe.
+cfr-doorhanger-video-support-header = Video esitamiseks uuenda { -brand-short-name }
+cfr-doorhanger-video-support-primary-button = Uuenda kohe
+    .accesskey = U
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Rohkem teavet
+    .title = Funktsionaalsuse rohkema teabe jaoks laienda
+spotlight-learn-more-expanded = Rohkem teavet
+    .title = Sulge
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -127,6 +135,16 @@ cfr-doorhanger-fission-secondary-button = Rohkem teavet
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Näib, et kasutad avalikku WiFit
+spotlight-public-wifi-vpn-body = Oma asukoha ja lehitsemistegevuse peitmiseks kaalu virtuaalset privaatvõrku (VPN). See aitab kaitsta sinu veebilehitsemist avalikes kohtades nagu lennujaamad ja kohvikud.
+spotlight-public-wifi-vpn-primary-button = Jää privaatseks { -mozilla-vpn-brand-name }iga
+    .accesskey = p
+spotlight-public-wifi-vpn-link = Mitte praegu
+    .accesskey = M
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = Testi meie kõige võimsamat privaatsuskogemust
