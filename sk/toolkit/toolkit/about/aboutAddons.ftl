@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Rozšírenia a témy získate na stránkach <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Slovníky získate na stránkach <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Jazykové balíky získate na stránkach <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nemáte nainštalované žiadne doplnky tohto typu
 list-empty-available-updates =
