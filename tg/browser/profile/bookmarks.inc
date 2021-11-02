@@ -11,6 +11,7 @@
 #define bookmarks_heading Хатбаракҳо
 
 #define bookmarks_toolbarfolder Ҷузвдони навори хатбаракҳо
+#define bookmarks_toolbarfolder_description Барои дидани хатбаракҳо дар Навори хатбаракҳо, онҳоро ба ин ҷузвдон илова намоед
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
@@ -19,10 +20,6 @@
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox
-
-# LOCALIZATION NOTE (firefox_help):
-# link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help Кумак ва дастурҳо
 
 # LOCALIZATION NOTE (firefox_get_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
