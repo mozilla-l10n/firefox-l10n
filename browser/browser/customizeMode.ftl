@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = เลิกทำ
 customize-mode-lwthemes-my-themes =
     .value = ชุดตกแต่งของฉัน
+customize-mode-lwthemes-link = จัดการชุดตกแต่ง
 customize-mode-touchbar-cmd =
     .label = ปรับแต่งแถบสัมผัส…
 customize-mode-downloads-button-autohide =
