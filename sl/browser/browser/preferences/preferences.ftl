@@ -954,6 +954,7 @@ content-blocking-all-windows-tracking-content = Sledilno vsebino v vseh oknih
 content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
 content-blocking-cryptominers = Kriptorudarje
 content-blocking-fingerprinters = Sledilce prstnih odtisov
+content-blocking-etp-standard-tcp-rollout-learn-more = Več o tem
 content-blocking-warning-title = Opozorilo!
 content-blocking-and-isolating-etp-warning-description = Zavračanje sledilcev in izolacija piškotkov lahko vplivata na delovanje nekaterih strani. Naložite stran s sledilci, da naložite vso vsebino.
 content-blocking-and-isolating-etp-warning-description-2 = Ta nastavitev lahko povzroči, da nekatera spletna mesta ne delujejo pravilno ali da se vsebina ne prikaže. Če se vam zdi spletno mesto pokvarjeno, lahko za nalaganje vse vsebine izklopite zaščito pred sledenjem.
