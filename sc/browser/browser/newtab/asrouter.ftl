@@ -150,5 +150,6 @@ spotlight-public-wifi-vpn-link = Immoe nono
 spotlight-total-cookie-protection-header =
     Proa in anteprima s'esperièntzia de riservadesa
     prus poderosa de semper
+spotlight-total-cookie-protection-body = Sa protetzione totale contra is testimòngios arressa is sighidores dae s'impreu de is testimòngios pro ti sighire a inghìriu de sa rete.
 spotlight-total-cookie-protection-primary-button = Ativa sa protetzione totale contra is testimòngios (cookies)
 spotlight-total-cookie-protection-secondary-button = Immoe nono

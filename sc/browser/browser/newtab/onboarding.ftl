@@ -130,6 +130,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Cunfigura { -brand-short-n
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Cunfigura { -brand-short-name } comente navigadore predefinidu miu
 mr1-onboarding-set-default-secondary-button-label = Immoe nono
+mr1-onboarding-sign-in-button-label = Intra
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser

@@ -5,6 +5,7 @@
 
 ## Settings
 
+site-data-settings-description = Is sitos web imbenientes sunt archiviende testimòngios e datos de is sitos in s'elaboradore cosa tua. { -brand-short-name } mantenet is datos dae is sitos web cun archiviatzione permanente finas a cando no ddos bogas tue, e bogat is datos dae is sitos web cun archiviatzione non permanente cando serbit logu.
 site-data-search-textbox =
     .placeholder = Chirca sitos web
     .accesskey = C
