@@ -5,49 +5,37 @@
 permissions-window =
     .title = अपवादहरू
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = वेबसाइटको ठेगाना
     .accesskey = d
-
 permissions-block =
     .label = छेक्नुहोस्
     .accesskey = B
-
 permissions-session =
     .label = सत्रका लागि अनुमति दिनुहोस्
     .accesskey = S
-
 permissions-allow =
     .label = अनुमति दिनुहोस्
     .accesskey = A
-
 permissions-site-name =
     .label = वेबसाइट
-
 permissions-status =
     .label = स्थिति
-
 permissions-remove =
     .label = साइट हटाउनुहोस्
     .accesskey = R
-
 permissions-remove-all =
     .label = सबै साइट हटाउनुहोस्
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = वेबसाइट खोज्नुहोस्
-
 permissions-capabilities-allow =
     .label = अनुमति दिनुहोस्
 permissions-capabilities-block =
     .label = छेक्नुहोस्
 permissions-capabilities-prompt =
     .label = सधैँ सोध्नुहोस्
-
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिनुहोस्
 permissions-capabilities-listitem-block =
@@ -62,10 +50,15 @@ permissions-invalid-uri-label = कृपया वैध होस्टना�
 
 ## Exceptions - Tracking Protection
 
+
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = अपवादहरु - कुकिजहरु र साइट डाटा
+    .style = { permissions-window.style }
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 
@@ -88,10 +81,8 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -104,8 +95,11 @@ permissions-site-notification-window =
 permissions-site-location-window =
     .title = सेटिङस् - स्थान अनुमतिहरु
     .style = { permissions-window.style }
+permissions-site-location-disable-label =
+    .label = तपाईंको स्थान सोध्ने अनुरोधहरूलाई ब्लक गर्नुहोस्
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

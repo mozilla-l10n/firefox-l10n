@@ -8,22 +8,20 @@
 site-data-search-textbox =
     .placeholder = वेबसाइटहरु खोज्नुहोस्
     .accesskey = S
-
 site-data-column-host =
     .label = साइट
 site-data-column-cookies =
     .label = कुकीहरू
 site-data-column-storage =
     .label = भण्डारण
-
+site-data-column-last-used =
+    .label = अन्तिम प्रयोग
 site-data-remove-selected =
     .label = चयन गरिएको हटाउनुहोस्
     .accesskey = r
-
 site-data-remove-all =
     .label = सबै हटाउनुहोस्
     .accesskey = e
-
 site-data-remove-shown =
     .label = देखाइएको सबै हटाउनुहोस्
     .accesskey = e
@@ -33,4 +31,3 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = हटाउनुहोस्
-
