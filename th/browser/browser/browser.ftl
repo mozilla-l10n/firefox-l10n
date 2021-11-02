@@ -775,3 +775,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = แสดงวิธีให้ฉันดู
