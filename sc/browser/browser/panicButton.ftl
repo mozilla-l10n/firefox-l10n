@@ -25,5 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Chi sighes, as a:
+panic-button-delete-cookies = Eliminare is <strong>testimòngios</strong> reghentes
 panic-button-delete-history = Cantzella sa <strong>cronologia</strong> reghente
 panic-button-delete-tabs-and-windows = Serra totu is <strong>ischedas</strong> e <strong>ventanas</strong>

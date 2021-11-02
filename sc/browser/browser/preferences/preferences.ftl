@@ -124,6 +124,29 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Disativa estensione
 tabs-group-header = Ischedas
+open-new-link-as-tabs =
+    .label = Aberi ligòngios in ischedas imbetzes de ventanas noas
+    .accesskey = A
+warn-on-close-multiple-tabs =
+    .label = Avisa prima de serrare prus ischedas
+    .accesskey = v
+confirm-on-close-multiple-tabs =
+    .label = Cunfirma prima de serrare prus ischedas
+    .accesskey = C
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Cunfirma prima de essire cun { $quitKey }
+    .accesskey = u
+switch-to-new-tabs =
+    .label = Cando aberis unu ligòngiu, un'immàgine o un'elementu multimediale in un'ischeda noa, cola·bi deretu
+    .accesskey = n
+show-tabs-in-taskbar =
+    .label = Ammustra previsualizatziones de ischeda in sa barra de tareas de Windows
+    .accesskey = t
 browser-containers-learn-more = Leghe àteru
 
 ## General Section - Language & Appearance
