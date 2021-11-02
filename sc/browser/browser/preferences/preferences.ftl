@@ -672,17 +672,112 @@ forms-generate-passwords =
     .label = Cussìgia e gènera craes fortes
     .accesskey = u
 forms-breach-alerts-learn-more-link = Àteras informatziones
+forms-saved-logins =
+    .label = Credentziales sarvadas…
+    .accesskey = l
+forms-primary-pw-use =
+    .label = Imprea una crae printzipale
+    .accesskey = u
+forms-primary-pw-learn-more-link = Àteras informatziones
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
+forms-master-pw-change =
+    .label = Muda sa crae printzipale
+    .accesskey = M
+forms-primary-pw-change =
+    .label = Muda sa crae printzipale…
+    .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Prima fiat tzerriada "crae maistra"
+forms-primary-pw-fips-title = Immoe ses in modalidade FIPS. FIPS rechedet una crae printzipale chi non siat bòida.
+forms-master-pw-fips-desc = Faddina in sa modìfica de sa crae
+forms-windows-sso-learn-more-link = Àteras informatziones
+forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crea una crae printzipale
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
 history-header = Cronologia
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = f
+history-remember-option-all =
+    .label = at a regordare sa cronologia
+history-remember-option-never =
+    .label = no at a regordare mai sa cronologia
+history-remember-option-custom =
+    .label = Imprea sa cunfiguratzione personalizada pro sa cronologia
+history-remember-description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
+history-dontremember-description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
+history-private-browsing-permanent =
+    .label = Imprea semper sa modalidade de navigatzione privada
+    .accesskey = p
+history-remember-browser-option =
+    .label = Regorda sa cronologia de navigatzione e de iscarrigamentos
+    .accesskey = R
+history-remember-search-option =
+    .label = Regorda sa cronologia de chirca e de formulàrios
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Isbòida sa cronologia comente serras { -brand-short-name }
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Cunfiguratzione…
+    .accesskey = g
+history-clear-button =
+    .label = Isbòida sa cronologia…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Testimòngios e datos de is sitos
+sitedata-total-size-calculating = Carculende sa mannària de is datos de is sitos e de sa memòria temporànea…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Is testimòngios, is datos de is sitos e sa memòria temporànea sunt impreende immoe { $value } { $unit } de s'ispàtziu in discu.
 sitedata-learn-more = Leghe àteru
+sitedata-delete-on-close =
+    .label = Cantzella is testimòngios e is datos de is sitos comente serras { -brand-short-name }
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = In sa modalidade de navigatzione privada permanente, is testimòngios e is datos de is sitos ant a èssere semper cantzellados comente serras { -brand-short-name }.
+sitedata-allow-cookies-option =
+    .label = Atzeta testimòngios e datos de is sitos
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloca is testimòngios e is datos de is sitos
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Genia de su cuntenutu blocadu
+    .accesskey = G
+sitedata-option-block-cross-site-trackers =
+    .label = Sighidores intre sitos
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Sighidores intre sitos e de retes sotziales
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Testimòngios de sighidura intre sitos (includet testimòngios de retes sotziales)
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Testimòngios intre sitos (includet testimòngios de retes sotziales)
 
 ## Privacy Section - Address Bar
 
