@@ -313,13 +313,38 @@ update-history =
 update-application-auto =
     .label = Installa agiornamentos in automàticu (cussigiadu)
     .accesskey = I
+update-application-warning-cross-user-setting = Custa cunfiguratzione at a èssere aplicada a totu is contos de Windows e a is profilos de { -brand-short-name } chi imperent custa installatzione de { -brand-short-name }
+update-application-use-service =
+    .label = Installa is agiornamentos in segundu pranu
+    .accesskey = g
+update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de agiornamentu
+update-in-progress-title = Agiornamentu in cursu
+update-in-progress-ok-button = &Iscarta
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Sighi
 
 ## General Section - Performance
 
+performance-use-recommended-settings-desc = Custas cunfiguratziones sunt personalizadas pro su hardware e su sistema operativu tuos.
 performance-settings-learn-more = Leghe àteru
+performance-allow-hw-accel =
+    .label = Imprea atzeleratzione de hardware cando siat a disponimentu
+    .accesskey = r
+performance-limit-content-process-option = Lìmite de protzessos de cuntenutu
+    .accesskey = l
+performance-limit-content-process-enabled-desc = Impreare prus protzessos de cuntenutu podet megiorare su rendimentu cando impreas prus ischedas, ma tenet fintzas bisòngiu de prus memòria.
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predefinidu)
 
 ## General Section - Browsing
 
+browsing-title = Navigatzione
+browsing-use-autoscroll =
+    .label = Imprea iscurrimentu in automàticu
+    .accesskey = a
 
 ## General Section - Proxy
 
