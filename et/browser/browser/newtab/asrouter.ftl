@@ -148,3 +148,9 @@ spotlight-public-wifi-vpn-link = Mitte praegu
 # "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = Testi meie kõige võimsamat privaatsuskogemust
+spotlight-total-cookie-protection-body = Täielik küpsistevastane kaitse takistab jälitajatel küpsiste kaudu sinu tegevuse jälgimise.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ehitab küpsiste ümber aia, piirates need ühele saidile, nii et jälitajad ei saa neid sinu jälitamiseks kasutada. Varase ligipääsu kaudu aitad meil seda funktsionaalsust optimeerida, nii et saaksime ehitada parema veebi kõigile.
+spotlight-total-cookie-protection-primary-button = Lülita sisse täielik küpsiste vastane kaitse
+spotlight-total-cookie-protection-secondary-button = Mitte praegu
