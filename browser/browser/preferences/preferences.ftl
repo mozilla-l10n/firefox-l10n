@@ -950,6 +950,14 @@ content-blocking-all-windows-tracking-content = Sledovací obsah je blokovaný v
 content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán
 content-blocking-cryptominers = Blokovaná je ťažba kryptomien
 content-blocking-fingerprinters = Blokovaná je tvorba odtlačku prehliadača
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Testovací program pre našu najvýkonnejšiu funkciu ochrany súkromia
+    .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana súborov cookie izoluje súbory cookie pre konkrétnu webovú stránku, takže sledovači ich nemôžu použiť na to, aby vás sledovali medzi webmi.
+content-blocking-etp-standard-tcp-rollout-learn-more = Ďalšie informácie
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description = Blokovanie sledovacích prvkov a izolácia cookies môžu ovplyvniť fungovanie niektorých stránok. Pre načítanie všetkého obsahu obnovte stránku s povolenými sledovacími prvkami.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavenie môže ovplyvniť fungovanie niektorých stránok. Ak sa vám stránka zdá rozbitá, vypnutie ochrany pred sledovaním by vám mohlo pomôcť načítať všetok obsah.
