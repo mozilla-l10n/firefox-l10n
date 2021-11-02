@@ -556,24 +556,122 @@ sync-profile-picture =
 sync-sign-out =
     .label = Serra sa sessione…
     .accesskey = s
+sync-manage-account = Gesti su contu
+    .accesskey = o
+sync-signedin-unverified = { $email } no est verificadu.
+sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+sync-resend-verification =
+    .label = Torra a imbiare sa verìfica
+    .accesskey = b
+sync-remove-account =
+    .label = Boga custu contu
+    .accesskey = B
+sync-sign-in =
+    .label = Identìfica·ti
+    .accesskey = I
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronizatzione ativada
+prefs-syncing-off = Sincronizatzione disativada
+prefs-sync-turn-on-syncing =
+    .label = Ativa sa sincronizatzione…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
+prefs-sync-now =
+    .labelnotsyncing = Sincroniza immoe
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizende…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Ses sincronizende custos elementos:
+sync-currently-syncing-bookmarks = Sinnalibros
+sync-currently-syncing-history = Cronologia
+sync-currently-syncing-tabs = Ischedas abertas
+sync-currently-syncing-logins-passwords = Credentziales e craes
+sync-currently-syncing-addresses = Indiritzos
+sync-currently-syncing-creditcards = Cartas de crèditu
+sync-currently-syncing-addons = Cumplementos
+sync-currently-syncing-settings = Cunfiguratzione
+sync-change-options =
+    .label = Modìfica…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Sèbera ite boles sincronizare
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Sarva modìficas
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnete…
+    .buttonaccesskeyextra2 = D
+sync-engine-bookmarks =
+    .label = Sinnalibros
+    .accesskey = S
+sync-engine-history =
+    .label = Cronologia
+    .accesskey = C
+sync-engine-tabs =
+    .label = Ischedas abertas
+    .tooltiptext = Una lista de is ischedas abertas in totu is dispositivos sincronizados
+    .accesskey = h
+sync-engine-logins-passwords =
+    .label = Credentziales e craes
+    .tooltiptext = Nòmines de utente e craes chi as sarvadu
+    .accesskey = r
+sync-engine-addresses =
+    .label = Indiritzos
+    .tooltiptext = Indiritzos postales chi as sarvadu (isceti in Firefox de iscrivania)
+    .accesskey = n
+sync-engine-creditcards =
+    .label = Cartas de crèditu
+    .tooltiptext = Nòmines, nùmeros e iscadèntzias (isceti in Firefox de iscrivania)
+    .accesskey = C
+sync-engine-addons =
+    .label = Cumplementos
+    .tooltiptext = Estensiones e temas pro Firefox de iscrivania
+    .accesskey = u
+sync-engine-settings =
+    .label = Cunfiguratzione
+    .tooltiptext = Cunfiguratzione generale, de riservadesa e de seguresa chi apas modificadu
+    .accesskey = n
 
 ## The device name controls.
 
+sync-device-name-header = Nòmine de su dispositivu
+sync-device-name-change =
+    .label = Muda su nòmine de su dispositivu…
+    .accesskey = u
+sync-device-name-cancel =
+    .label = Annulla
+    .accesskey = n
+sync-device-name-save =
+    .label = Sarva
+    .accesskey = v
+sync-connect-another-device = Connete un'àteru dispositivu
 
 ## Privacy Section
 
+privacy-header = Riservadesa de su navigadore
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Credentziales e craes
+    .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Dimanda si bògio sarvare is credentziales e is craes de is sitos web
+    .accesskey = D
+forms-exceptions =
+    .label = Etzetziones…
+    .accesskey = z
+forms-generate-passwords =
+    .label = Cussìgia e gènera craes fortes
+    .accesskey = u
+forms-breach-alerts-learn-more-link = Àteras informatziones
 
 ## OS Authentication dialog
 
