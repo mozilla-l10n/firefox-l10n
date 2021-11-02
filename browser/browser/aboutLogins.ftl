@@ -56,6 +56,7 @@ about-logins-list-item-breach-icon =
     .title = Взломена страница
 about-logins-list-item-vulnerable-password-icon =
     .title = Уязвима парола
+about-logins-list-section-breach = Взломени страници
 about-logins-list-section-vulnerable = Уязвими пароли
 about-logins-list-section-today = Днес
 about-logins-list-section-yesterday = Вчера
