@@ -953,8 +953,8 @@ content-blocking-fingerprinters = Blokovaná je tvorba odtlačku prehliadača
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
-    .label = Testovací program pre našu najvýkonnejšiu funkciu ochrany súkromia
-    .accesskey = T
+    .label = Otestujte našu najvýkonnejšiu funkciu ochrany súkromia
+    .accesskey = t
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Úplná ochrana súborov cookie izoluje súbory cookie pre konkrétnu webovú stránku, takže sledovači ich nemôžu použiť na to, aby vás sledovali medzi webmi.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ďalšie informácie
