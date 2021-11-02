@@ -18,7 +18,6 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 80ch
-
 downloads-cmd-pause =
     .label = Premor
     .accesskey = o
@@ -29,32 +28,35 @@ downloads-cmd-cancel =
     .tooltiptext = Prekliči
 downloads-cmd-cancel-panel =
     .aria-label = Prekliči
-
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Odpri vsebujočo mapo
     .accesskey = V
-
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Prikaži v Finderju
     .accesskey = F
-
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Prikaži v Finderju
+           *[other] Prikaži v mapi
+        }
+    .accesskey = ž
 downloads-cmd-use-system-default =
     .label = Odpri v sistemskem pregledovalniku
     .accesskey = s
-
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Vedno odpri v sistemskem pregledovalniku
     .accesskey = V
-
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Prikaži v Finderju
            *[other] Odpri vsebujočo mapo
         }
-
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -67,7 +69,29 @@ downloads-cmd-show-description =
             [macos] Prikaži v Finderju
            *[other] Odpri vsebujočo mapo
         }
-
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Vedno odpri podobne datoteke
+    .accesskey = V
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Prikaži v Finderju
+           *[other] Prikaži v mapi
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Prikaži v Finderju
+           *[other] Prikaži v mapi
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Prikaži v Finderju
+           *[other] Prikaži v mapi
+        }
 downloads-cmd-show-downloads =
     .label = Prikaži mapo s prenosi
 downloads-cmd-retry =
@@ -89,42 +113,33 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Počisti prenose
     .accesskey = S
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Dovoli prenos
     .accesskey = D
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Odstrani datoteko
-
 downloads-cmd-remove-file-panel =
     .aria-label = Odstrani datoteko
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Odstrani datoteko ali dovoli prenos
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Odstrani datoteko ali dovoli prenos
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Odpri ali odstrani datoteko
-
 downloads-cmd-choose-open-panel =
     .aria-label = Odpri ali odstrani datoteko
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Več informacij
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -150,33 +165,38 @@ downloading-file-opens-in-some-time = Odprto, ko bo končano …
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Ponovno zaženi prenos
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Prekliči prenos
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Prikaži vse prenose
     .accesskey = S
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Podrobnosti o prenosu
-
 downloads-clear-downloads-button =
     .label = Počisti prenose
     .tooltiptext = Počisti dokončane, preklicane in spodletele prenose
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Ni prenosov.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ni prenosov v tej seji.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Prenaša se še { $count } datoteka
+        [two] Prenašata se še { $count } datoteki
+        [few] Prenašajo se še { $count } datoteke
+       *[other] Prenaša se še { $count } datotek
+    }
