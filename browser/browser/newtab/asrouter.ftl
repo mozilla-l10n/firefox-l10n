@@ -8,35 +8,34 @@
 cfr-doorhanger-extension-heading = Laienduse soovitus
 cfr-doorhanger-feature-heading = Funktsionaalsuse soovitus
 
-
-
 ##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miks seda kuvatakse?
-
 cfr-doorhanger-extension-cancel-button = Mitte praegu
     .accesskey = M
-
 cfr-doorhanger-extension-ok-button = Paigalda
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Halda soovituste sätteid
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Rohkem seda soovitust ei kuvata
     .accesskey = R
-
 cfr-doorhanger-extension-learn-more-link = Rohkem teavet
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Soovitus
+cfr-doorhanger-extension-notification2 = Soovitus
+    .tooltiptext = Laienduse soovitus
+    .a11y-announcement = Laienduse soovitus on saadaval
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Soovitus
+    .tooltiptext = Funktsionaalsuse soovitus
+    .a11y-announcement = Funktsionaalsuse soovitus on saadaval
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -58,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } kasutajat
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Järjehoidjate sünkroonimine kõikjal.
@@ -78,55 +74,47 @@ cfr-protections-panel-link-text = Rohkem teavet
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Uus funktsionaalsus:
 cfr-whatsnew-button =
     .label = Mis on uut?
     .tooltiptext = Mis on uut?
-
 cfr-whatsnew-release-notes-link-text = Loe väljalasketeadet
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name }blokkis üle <b>{ $blockedCount }</b> jälitaja alates { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name }blokkis üle <b>{ $blockedCount }</b> jälitaja alates { DATETIME($date, month: "long", year: "numeric") }!
+    }
+cfr-doorhanger-milestone-ok-button = Vaata kõiki
+    .accesskey = V
+cfr-doorhanger-milestone-close-button = Sulge
+    .accesskey = S
 
 ## DOH Message
 
-## What's new: Cookies message
 
 ## Fission Experiment Message
 
+
 ## Full Video Support CFR message
+
+
+## Spotlight modal shared strings
+
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
+
+
+## Total Cookie Protection Rollout
 
