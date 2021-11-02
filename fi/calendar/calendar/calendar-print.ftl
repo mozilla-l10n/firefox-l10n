@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Suoritetut tehtävät
 calendar-print-filter-taskswithnoduedate = Tehtävät ilman valmistumispäivää
 calendar-print-range-from = Lähettäjä
 calendar-print-range-to = Vastaanottaja
+calendar-print-back-button = Edellinen
 calendar-print-next-button = Seuraava
