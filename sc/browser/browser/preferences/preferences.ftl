@@ -124,6 +124,9 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Disativa estensione
 tabs-group-header = Ischedas
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cuncàmbia ischedas in s'òrdine de impreu reghente
+    .accesskey = T
 open-new-link-as-tabs =
     .label = Aberi ligòngios in ischedas imbetzes de ventanas noas
     .accesskey = A
@@ -307,6 +310,9 @@ update-application-version = Versione { $version }<a data-l10n-name="learn-more"
 update-history =
     .label = Ammustra sa cronologia de agiornamentos…
     .accesskey = g
+update-application-auto =
+    .label = Installa agiornamentos in automàticu (cussigiadu)
+    .accesskey = I
 
 ## General Section - Performance
 

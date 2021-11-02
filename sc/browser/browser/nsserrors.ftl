@@ -15,6 +15,8 @@ ssl-connection-error = Ddoe est istada una faddina durante una connessione a { $
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdighe de faddina: { $error }
+psmerr-ssl-disabled = Impossìbile connètere in manera segura ca su protocollu SSL est istadu disativadu.
+psmerr-ssl2-disabled = Impossìbile connètere in manera segura ca su situ impreat una versione betza e insegura de su protocollu SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     As retzidu unu tzertificadu non vàlidu. Cuntata s'amministratzione de su serbidore o s'indiritzu de posta eletrònica chi ddi currispondet e fruni·ddi is informatziones chi sighint:
@@ -42,5 +44,6 @@ ssl-error-ssl-disabled = Impossìbile connètere: s'SSL est disativadu.
 ssl-error-fortezza-pqg = Impossìbile connètere: s'àtera parte de sa connessione SSL est in un'àteru domìniu FORTEZZA.
 ssl-error-unknown-cipher-suite = Est istadu pedidu unu pachete de tzifrados SSL disconnotu.
 ssl-error-no-ciphers-supported = Nissunu pachete de tzifrados est presente e ativu in custu programma.
+ssl-error-bad-block-padding = SSL at retzidu unu registru cun una separatzione de blocu non curreta.
 sec-error-retry-password = New password entered incorrectly. Torra·bi a proare.
 sec-error-retry-old-password = Old password entered incorrectly. Torra·bi a proare.
