@@ -268,6 +268,7 @@ identity-extension-page = Custa pàgina est istada carrigada dae un'estensione.
 identity-active-blocked = { -brand-short-name } at blocadu partes de custa pàgina chi non sunt seguras.
 identity-custom-root = Connessione verificada dae un'emitente de tzertificados non reconnotu dae Mozilla.
 identity-passive-loaded = Partes de custa pàgina non sunt seguras (pro esèmpiu immàgines).
+identity-active-loaded = As disativadu s'amparu pro custa pàgina.
 identity-weak-encryption = Custa pàgina impreat tzifradura dèbile.
 identity-insecure-login-forms = Is credentziales postas in custa pàgina diant pòdere èssere in perìgulu.
 identity-https-only-connection-upgraded = (agiornadu a HTTPS)
@@ -410,6 +411,26 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Chirca in sa rete
     .aria-label = Chirca cun { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Inserta is tèrmines de chirca
+    .aria-label = Chirca in { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Inserta is tèrmines de chirca
+    .aria-label = Chirca in sinnalibros
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Inserta is tèrmines de chirca
+    .aria-label = Chirca in sa cronologia
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Inserta is tèrmines de chirca
+    .aria-label = Chirca in ischedas
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
