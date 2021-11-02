@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Disfe
 customize-mode-lwthemes-my-themes =
     .value = I miei temis
+customize-mode-lwthemes-link = Gjestìs i temis
 customize-mode-touchbar-cmd =
     .label = Personalize sbare tatil…
 customize-mode-downloads-button-autohide =

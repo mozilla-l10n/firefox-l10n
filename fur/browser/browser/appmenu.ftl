@@ -70,6 +70,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Nissune schede vierte
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ative la sincronizazion des schedis par visualizâ une liste di schedis dai tiei altris dispositîfs.
+appmenu-remote-tabs-opensettings =
+    .label = Impostazions
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Desideristu viodi achì lis tôs schedis di altris dispositîfs?
@@ -110,6 +112,9 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiladôr
     .tooltiptext = Regjistre un profîl di prestazion
+profiler-popup-button-recording =
+    .label = Profiladôr
+    .tooltiptext = Regjistrazion dal profîl in cors
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =

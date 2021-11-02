@@ -271,6 +271,7 @@ identity-https-only-info-turn-off2 = Se la pagjine e somee ruvinade, tu podaress
 identity-https-only-info-no-upgrade = No si rive a inzornâ la conession dal HTTP.
 identity-permissions-storage-access-header = Cookies inter-sîts
 identity-permissions-storage-access-hint = Chestis parts a puedin doprâ cookies inter-sît e dâts di sît intant che tu stâs su chest sît.
+identity-permissions-storage-access-learn-more = Plui informazions
 identity-permissions-reload-hint = Tu podaressis vê di tornâ a cjariâ la pagjine par aplicâ lis modifichis.
 identity-clear-site-data =
     .label = Nete i cookies e i dâts dal sît…
@@ -733,3 +734,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Liste dutis lis schedis
     .tooltiptext = Liste dutis lis schedis
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Mostrimi cemût

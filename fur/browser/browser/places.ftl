@@ -91,6 +91,7 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Gjestìs segnelibris
     .accesskey = M
+places-forget-about-this-site-forget = Dismentee
 places-library =
     .title = Librarie
     .style = width:700px; height:500px;

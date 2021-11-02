@@ -27,14 +27,25 @@ upgrade-dialog-new-secondary-button = No cumò
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = No cumò
+
 ## Default browser screen
 
+upgrade-dialog-default-primary-button-2 = Met come navigadôr predefinît
 upgrade-dialog-default-secondary-button = No cumò
 
 ## Theme selection screen
 
 upgrade-dialog-theme-system = Teme di sisteme
     .title = Va daûr dal teme dal sisteme operatîf pai botons, i menù e i barcons
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = No cumò
+
+## Colorway screen
+
+upgrade-dialog-colorway-default-theme = Predefinît
 upgrade-dialog-theme-light = Clâr
     .title = Dopre un teme clâr pai botons, i menù e i barcons
 upgrade-dialog-theme-dark = Scûr
@@ -45,3 +56,6 @@ upgrade-dialog-theme-keep = Ten il precedent
     .title = Dopre il teme che tu vevis instalât prime di inzornâ { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salve il teme
 upgrade-dialog-theme-secondary-button = No cumò
+
+## Thank you screen
+
