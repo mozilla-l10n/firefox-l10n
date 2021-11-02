@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Vierç un barcon privât
 about-private-browsing-search-placeholder = Cîr tal web
 about-private-browsing-info-title = Tu stâs intun barcon privât
 about-private-browsing-info-myths = Mîts comuns su la navigazion privade
+about-private-browsing-search-btn =
+    .title = Cîr tal web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -19,10 +21,11 @@ about-private-browsing-handoff-text = Cîr cun { $engine } o inserìs une direzi
 about-private-browsing-handoff-text-no-engine = Cîr o inserìs une direzion
 about-private-browsing-not-private = In chest moment no tu sês intun barcon privât.
 about-private-browsing-info-description = { -brand-short-name } al nete la cronologjie di navigazion e des ricercjis cuant che tu jessis de aplicazion o tu sieris lis schedis e i barcons de navigazion privade. Ancje se chest no ti rint anonim sui sîts web o al tô furnidôr di servizis internet, al rint plui sempliç tignî privât a chei altris che a doprin il computer, ce che tu fasis in rêt.
-
 about-private-browsing-need-more-privacy = Ti coventie plui riservatece?
 about-private-browsing-turn-on-vpn = Prove { -mozilla-vpn-brand-name }
-
+about-private-browsing-learn-more-link = Plui informazions
+about-private-browsing-hide-activity = Plate la tô posizion e lis tôs ativitâts in rêt, dapardut là che tu navighis
+about-private-browsing-get-privacy = Protêç la tô riservatece dapardut là che tu navighis
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
