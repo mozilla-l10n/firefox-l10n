@@ -946,6 +946,11 @@ content-blocking-all-windows-tracking-content = Contenu utilisé pour le pistage
 content-blocking-all-third-party-cookies = Tous les cookies tiers
 content-blocking-cryptominers = Mineurs de cryptomonnaies
 content-blocking-fingerprinters = Détecteurs d’empreinte numérique
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Tester en avant-première la fonctionnalité de confidentialité la plus puissante que nous avons jamais conçue
+    .accesskey = T
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = La protection totale contre les cookies restreint les cookies au site sur lequel vous vous trouvez et les traqueurs ne peuvent donc pas s’en servir pour vous pister de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = En savoir plus
