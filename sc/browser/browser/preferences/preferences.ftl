@@ -778,25 +778,142 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Testimòngios de sighidura intre sitos (includet testimòngios de retes sotziales)
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Testimòngios intre sitos (includet testimòngios de retes sotziales)
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Sighidores intre sitos e de retes sotziales, assola is àteros testimòngios
+sitedata-option-block-unvisited =
+    .label = Testimòngios de sitos chi no as bisitadu
+sitedata-clear =
+    .label = Isbòida is datos…
+    .accesskey = I
+sitedata-settings =
+    .label = Gesti is datos…
+    .accesskey = G
+sitedata-cookies-exceptions =
+    .label = Gesti etzetziones…
+    .accesskey = z
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra de indiritzos
+addressbar-suggest = Cando ses impreende sa barra de indiritzos, cussìgia
+addressbar-locbar-history-option =
+    .label = cronologia de navigatzione
+    .accesskey = n
+addressbar-locbar-bookmarks-option =
+    .label = sinnalibros
+    .accesskey = s
+addressbar-locbar-openpage-option =
+    .label = ischedas abertas
+    .accesskey = i
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = curtzadòrgios
+    .accesskey = u
+addressbar-locbar-topsites-option =
+    .label = sitos populares
+    .accesskey = p
+addressbar-locbar-engines-option =
+    .label = motores de chirca
+    .accesskey = m
+addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Àteras informatziones
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Istandard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Restrinta
+    .accesskey = R
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizada
+    .accesskey = P
 
 ##
 
+content-blocking-etp-standard-desc = Echilìbriu intre amparu e rendimentu. Is pàginas s'ant a carrigare cun normalidade.
+content-blocking-etp-blocking-desc = { -brand-short-name } blocat:
+content-blocking-private-windows = Cuntenutu de sighimentu in ventanas privadas
+content-blocking-cross-site-cookies-in-all-windows = Testimòngios intre sitos in totu is ventanas (includet testimòngios de sighimentu)
+content-blocking-cross-site-tracking-cookies = Testimòngios de sighimentu intre sitos
+content-blocking-all-cross-site-cookies-private-windows = Testimòngios intre sitos in ventanas privadas
+content-blocking-cross-site-tracking-cookies-plus-isolate = Testimòngios de sighidura intre sitos, e assola is àteros testimòngios
+content-blocking-social-media-trackers = Sighidores de retes sotziales
+content-blocking-all-cookies = Totu is testimòngios
+content-blocking-unvisited-cookies = Testimòngios de sitos web chi no as bisitadu
+content-blocking-all-windows-tracking-content = Cuntenutu de sighimentu in totu is ventanas
+content-blocking-cryptominers = Cripto-minadores
+content-blocking-fingerprinters = Generadores de imprentas digitales
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label =
+        Proa in anteprima sa funtzionalidade de riservadesa
+        prus poderosa de semper
+    .accesskey = P
+content-blocking-etp-standard-tcp-rollout-learn-more = Àteras informatziones
+content-blocking-warning-title = Atentzione!
+content-blocking-warning-learn-how = Impara comente ddu fàghere
+content-blocking-reload-description = As a dèpere torrare a carrigare is ischedas tuas pro carrigare custas modìficas.
+content-blocking-reload-tabs-button =
+    .label = Torra a carrigare totu is ischedas
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = Cuntenutu chi ti sighit
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = In totu is ventanas
+    .accesskey = I
+content-blocking-option-private =
+    .label = In ventanas privadas isceti
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Muda sa lista de blocos
+content-blocking-cookies-label =
+    .label = Testimòngios
+    .accesskey = T
+content-blocking-expand-section =
+    .tooltiptext = Àteras informatziones
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cripto-minadores
+    .accesskey = d
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Generadores de imprentas digitales
+    .accesskey = G
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Gesti etzetziones…
+    .accesskey = z
 
 ## Privacy Section - Permissions
 
+permissions-header = Permissos
+permissions-location = Positzione
+permissions-location-settings =
+    .label = Cunfiguratzione…
+    .accesskey = t
+permissions-xr = Realidade virtuale
+permissions-xr-settings =
+    .label = Cunfiguratzione…
+    .accesskey = t
+permissions-camera = Fotocàmera
+permissions-camera-settings =
+    .label = Cunfiguratzione…
+    .accesskey = t
+permissions-microphone = Micròfonu
+permissions-microphone-settings =
+    .label = Cunfiguratzione…
+    .accesskey = t
 permissions-notification = Notìficas
 
 ## Privacy Section - Data Collection
