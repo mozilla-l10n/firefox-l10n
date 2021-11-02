@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adresses
 about-networking-expires = Expiration (secondes)
 about-networking-originAttributesSuffix = Clé d’isolement
+about-networking-flags = Flags supplémentaires
 about-networking-messages-sent = Messages envoyés
 about-networking-messages-received = Messages reçus
 about-networking-bytes-sent = Octets envoyés
