@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Διευθύνσεις
 about-networking-expires = Λήξη (δευτερόλεπτα)
 about-networking-originAttributesSuffix = Κλειδί απομόνωσης
+about-networking-flags = Επιπλέον επισημάνσεις
 about-networking-messages-sent = Απεσταλμένα μηνύματα
 about-networking-messages-received = Ληφθέντα μηνύματα
 about-networking-bytes-sent = Απεσταλμένα byte
