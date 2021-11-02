@@ -345,29 +345,149 @@ browsing-title = Navigatzione
 browsing-use-autoscroll =
     .label = Imprea iscurrimentu in automàticu
     .accesskey = a
+browsing-use-onscreen-keyboard =
+    .label = Ammustra unu tecladu tàtile cando siat netzessàriu
+    .accesskey = c
+browsing-use-cursor-navigation =
+    .label = Imprea semper is teclas de su puntadore pro navigare in is pàginas
+    .accesskey = m
+browsing-search-on-start-typing =
+    .label = Chirca su testu cando cumintzas a iscrìere
+    .accesskey = z
+browsing-picture-in-picture-learn-more = Àteras informatziones
+browsing-media-control =
+    .label = Controlla su cuntenutu multimediale cun su tecladu, is cùfias o s'interfache virtuale
+    .accesskey = o
+browsing-media-control-learn-more = Àteras informatziones
+browsing-cfr-recommendations =
+    .label = Cussìgia estensiones durante sa navigatzione
+    .accesskey = d
+browsing-cfr-features =
+    .label = Cussìgia funtzionalidades durante sa navigatzione
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = Àteras informatziones
 
 ## General Section - Proxy
 
+network-settings-title = Cunfiguratzione de rete
+network-proxy-connection-description = Cunfigura comente { -brand-short-name } si connetet a internet.
+network-proxy-connection-learn-more = Àteras informatziones
+network-proxy-connection-settings =
+    .label = Cunfiguratzione…
+    .accesskey = c
 
 ## Home Section
 
+home-new-windows-tabs-header = Ventanas e ischedas noas
+home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgina printzipale, e is ventanas e is ischedas noas.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pàgina printzipale e ventanas noas
+home-newtabs-mode-label = Ischedas noas
+home-restore-defaults =
+    .label = Recùpera valores predefinidos
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pàgina printzipale de Firefox (predefinida)
+home-mode-choice-custom =
+    .label = URL personalizados…
+home-mode-choice-blank =
+    .label = Pàgina in biancu
+home-homepage-custom-url =
+    .placeholder = Incolla un'URL…
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Imprea sa pàgina atuale
+            [one] Imprea sa pàgina atuale
+           *[other] Imprea is pàginas atuales
+        }
+    .accesskey = I
+choose-bookmark =
+    .label = Imprea unu sinnalibru…
+    .accesskey = s
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Cuntenutu de sa pàgina printzipale de Firefox
+home-prefs-content-description = Sèbera su cuntenutu chi boles in sa pàgina printzipale de Firefox.
+home-prefs-search-header =
+    .label = Chirca web
+home-prefs-topsites-header =
+    .label = Sitos populares
+home-prefs-topsites-description = Is sitos chi bìsitas de prus
+home-prefs-topsites-by-option-sponsored =
+    .label = Sitos patrotzinados
+home-prefs-shortcuts-header =
+    .label = Curtzadòrgios
+home-prefs-shortcuts-description = Sitos chi as sarvadu o bisitadu
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Curtzadòrgios patrotzinados
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+home-prefs-recommended-by-header =
+    .label = Cussigiados dae { $provider }
+home-prefs-recommended-by-description-update = Cuntenutu de primore de totu sa rete, curadu dae { $provider }
+home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $provider }, parte de sa famìlia de { -brand-product-name }
 
 ##
 
+home-prefs-recommended-by-learn-more = Comente funtzionat
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Istòrias patrotzinadas
+home-prefs-highlights-header =
+    .label = In evidèntzia
+home-prefs-highlights-description = Una seletzione de sitos chi as sarvadu o bisitadu
+home-prefs-highlights-option-visited-pages =
+    .label = Pàginas bisitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Sinnalibros
+home-prefs-highlights-option-most-recent-download =
+    .label = Iscarrigamentos reghentes
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pàginas sarvadas in { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Atividade reghente
+home-prefs-recent-activity-description = Una seletzione de sitos e cuntenutos reghentes
+home-prefs-snippets-description = Agiornamentos dae { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Cussìgios e noas dae { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } rigas
+        }
 
 ## Search Section
 
+search-bar-header = Barra de chirca
+search-bar-hidden =
+    .label = Imprea sa barra de indiritzos pro fàghere chircas e navigare
+search-bar-shown =
+    .label = Agiunghe sa barra de chirca a sa barra de ainas
 search-engine-default-header = Pone su primu chircadore chi b'est istadu
+search-engine-default-desc-2 = Custu est su motore de chirca predefinidu in sa barra de indiritzos e in sa barra de chirca. Ddu podes modificare cando boles.
+search-engine-default-private-desc-2 = Sèbera un'àteru motore de chirca predefinidu pro is ventanas privadas ebbia
+search-separate-default-engine =
+    .label = Imprea custu motore de chirca in is ventanas privadas
+    .accesskey = u
+search-suggestions-header = Cussìgios de chirca
+search-suggestions-desc = Sèbera comente depent èssere ammustrados is cussìgios de is motores de chirca.
+search-suggestions-option =
+    .label = Fruni cussìgios de chirca
+    .accesskey = f
+search-show-suggestions-url-bar-option =
+    .label = Ammustra cussìgios de chirca in is resurtados de sa barra de indiritzos
+    .accesskey = i
 
 ## Containers Section
 
