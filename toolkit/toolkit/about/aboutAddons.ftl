@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Odkrijte razširitve in teme na <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Prenesite slovarje z <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Prenesite jezikovne pakete z <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Nimate nameščenega nobenega dodatka te vrste.
 list-empty-available-updates =
@@ -283,6 +285,7 @@ extension-disabled-heading = Onemogočeno
 theme-enabled-heading = Omogočeno
 theme-disabled-heading = Onemogočeno
 theme-monochromatic-heading = Barvne kombinacije
+theme-monochromatic-subheading = Živahne nove barvne kombinacije za { -brand-product-name }. Le še kratek čas.
 plugin-enabled-heading = Omogočeno
 plugin-disabled-heading = Onemogočeno
 dictionary-enabled-heading = Omogočeno
