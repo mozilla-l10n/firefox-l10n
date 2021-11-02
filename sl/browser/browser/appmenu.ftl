@@ -177,6 +177,7 @@ profiler-popup-capture-shortcut =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Priporočena prednastavitev za razhroščevanje večine spletnih aplikacij, z nizko porabo sredstev.
+profiler-popup-presets-media-description = Priporočena prednastavitev za prepoznavanje težav z zvokom in videom.
 profiler-popup-presets-media-label =
     .label = Predstavnost
 profiler-popup-presets-custom-label =

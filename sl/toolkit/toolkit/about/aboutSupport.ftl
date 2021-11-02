@@ -7,7 +7,6 @@ page-subtitle =
     Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanju
     težav. Če iščete odgovore na splošna vprašanja o programu
     { -brand-short-name }, obiščite <a data-l10n-name="support-link">strani za podporo uporabnikom</a>.
-
 crashes-title = Poročila o sesutjih
 crashes-id = ID poročila
 crashes-send-date = Datum pošiljanja
@@ -195,7 +194,6 @@ report-crash-for-days =
         [few] Poročila o sesutjih za zadnje { $days } dni
        *[other] Poročila o sesutjih za zadnjih { $days } dni
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -205,7 +203,6 @@ crashes-time-minutes =
         [few] Pred { $minutes } minutami
        *[other] Pred { $minutes } minutami
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -215,7 +212,6 @@ crashes-time-hours =
         [few] Pred { $hours } urami
        *[other] Pred { $hours } urami
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -225,7 +221,6 @@ crashes-time-days =
         [few] Pred { $days } dnevi
        *[other] Pred { $days } dnevi
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -235,7 +230,6 @@ pending-reports =
         [few] Vsa poročila o sesutjih, vključno s { $reports } čakajočimi sesutji v danem časovnem obsegu
        *[other] Vsa poročila o sesutjih, vključno s { $reports } čakajočimi sesutji v danem časovnem obsegu
     }
-
 raw-data-copied = Neobdelani podatki kopirani v odložišče
 text-copied = Besedilo kopirano v odložišče
 
@@ -248,11 +242,9 @@ blocked-mismatched-version = Onemogočeno zaradi neujemanja različice grafične
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Onemogočeno za vaš grafični gonilnik. Poskusite ga posodobiti na različico { $driverVersion } ali novejšo.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametri ClearType
-
 compositing = Sestavljanje
 hardware-h264 = Strojno dekodiranje H264
 main-thread-no-omtc = glavna nit, brez OMTC
@@ -267,7 +259,6 @@ virtual-monitor-disp = Navidezni zaslon
 
 found = Najdeno
 missing = Manjka
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Opis
@@ -290,19 +281,15 @@ webgl2-renderer = Izrisovalnik gonilnika WebGL 2
 webgl2-version = Različica gonilnika WebGL 2
 webgl2-driver-extensions = Razširitve gonilnika WebGL 2
 webgl2-extensions = Razširitve WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav: <a data-l10n-name="bug-link">hrošč { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Dodano na seznam zavrnjenih; koda napake { $failureCode }
-
 d3d11layers-crash-guard = Sestavljalnik D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Videodekodirnik WMF VPX
-
 reset-on-next-restart = Ponastavi ob naslednjem zagonu
 gpu-process-kill-button = Prekini proces GPE
 gpu-device-reset = Ponastavitev naprave
@@ -312,10 +299,8 @@ content-uses-tiling = Uporablja razpostavljanje (vsebina)
 off-main-thread-paint-enabled = Izrisovanje izven glavne niti je omogočeno
 off-main-thread-paint-worker-count = Število workerjev za izrisovanje izven glavne niti
 target-frame-rate = Ciljna hitrost sličic
-
 min-lib-versions = Najnižja podprta različica
 loaded-lib-versions = Trenutna različica
-
 has-seccomp-bpf = Seccomp-BPF (Filtriranje sistemskih klicev)
 has-seccomp-tsync = Sinhronizacija niti Seccomp
 has-user-namespaces = Uporabniški imenski prostori
@@ -324,22 +309,20 @@ can-sandbox-content = Peskovnik vsebinskih procesov
 can-sandbox-media = Peskovnik večpredstavnih vtičnikov
 content-sandbox-level = Raven peskovnika vsebinskih opravil
 effective-content-sandbox-level = Dejanska raven peskovnika vsebinskih opravil
+content-win32k-lockdown-state = Stanje zaklepa Win32k za vsebinske procese
 sandbox-proc-type-content = vsebina
 sandbox-proc-type-file = vsebina datoteke
 sandbox-proc-type-media-plugin = večpredstavni vtičnik
 sandbox-proc-type-data-decoder = podatkovni dekodirnik
-
 startup-cache-title = Predpomnilnik zagona
 startup-cache-disk-cache-path = Pot predpomnilnika diska
 startup-cache-ignore-disk-cache = Prezri predpomnilnik diska
 startup-cache-found-disk-cache-on-init = Najden predpomnilnik diska ob inicializaciji
 startup-cache-wrote-to-disk-cache = Zapisano v predpomnilnik diska
-
 launcher-process-status-0 = Omogočeno
 launcher-process-status-1 = Onemogočeno zaradi napake
 launcher-process-status-2 = Prisilno onemogočeno
 launcher-process-status-unknown = Neznano stanje
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -358,7 +341,6 @@ fission-status-disabled-by-default = Privzeto onemogočeno
 fission-status-enabled-by-user-pref = Omogočil uporabnik
 fission-status-disabled-by-user-pref = Onemogočil uporabnik
 fission-status-disabled-by-e10s-other = E10s Onemogočen
-
 async-pan-zoom = Asinhrono pomikanje/povečava
 apz-none = brez
 wheel-enabled = vnos s koleščkom omogočen
@@ -395,7 +377,6 @@ support-remote-experiments-title = Oddaljeni poskusi
 support-remote-experiments-name = Ime
 support-remote-experiments-branch = Področje poskusa
 support-remote-experiments-see-about-studies = Oglejte si <a data-l10n-name="support-about-studies-link">about:studies</a> za več informacij, med drugim o onemogočanju posameznih poskusov ali preprečevanju, da bi { -brand-short-name } izvajal poskuse te vrste v prihodnje.
-
 support-remote-features-title = Oddaljene zmogljivosti
 support-remote-features-name = Ime
 support-remote-features-status = Stanje
