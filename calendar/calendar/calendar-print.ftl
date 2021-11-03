@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Завершённые задачи
 calendar-print-filter-taskswithnoduedate = Бессрочные задачи
 calendar-print-range-from = С
 calendar-print-range-to = По
+calendar-print-back-button = Назад
 calendar-print-next-button = Далее
