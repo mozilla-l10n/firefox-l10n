@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = V
 welcome-back-restore-all-label = Restaurar todas las ventanas & pestañas
 welcome-back-restore-some-label = Restaurar solo las que quiere
-welcome-back-page-info-link = Los complementos y personalizaciones se eliminaron y los ajustes del navegador se restauró a sus valores predeterminados. Si esto no corrige el problema, <a data-l10n-name="link-more">conozca más acerca de lo que puede hacer.</a>
+welcome-back-page-info-link = Los complementos y personalizaciones se eliminaron y los ajustes del navegador se restauraron a sus valores predeterminados. Si esto no corrige el problema, <a data-l10n-name="link-more">conozca más acerca de lo que puede hacer.</a>
