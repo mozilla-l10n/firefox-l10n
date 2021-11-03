@@ -281,7 +281,7 @@ menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
 menu-settings =
-    .label = Ajustes
+    .label = Preferencias
     .accesskey =
         { PLATFORM() ->
             [windows] S
