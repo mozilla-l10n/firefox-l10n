@@ -522,7 +522,7 @@ urlbar-group-firefox-suggest =
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
-    .label = { $engine } Förslag
+    .label = { $engine }-förslag
 
 ## Full Screen and Pointer Lock UI
 
