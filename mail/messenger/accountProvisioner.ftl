@@ -9,6 +9,10 @@ account-provisioner-title = Yeni e-posta adresi oluştur
 
 ## Forms
 
+account-provisioner-mail-input =
+    .placeholder = Adınız, rumuzunuz veya diğer arama terimleriniz
+account-provisioner-domain-input =
+    .placeholder = Adınız, rumuzunuz veya diğer arama terimleriniz
 account-provisioner-search-button = Ara
 account-provisioner-button-cancel = Vazgeç
 account-provisioner-button-existing = Mevcut e-posta hesabımı kullanacağım
