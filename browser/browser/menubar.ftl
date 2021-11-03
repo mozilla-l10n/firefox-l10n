@@ -22,7 +22,7 @@ menu-application-hide-other =
 menu-application-show-all =
     .label = Visa alla
 menu-application-touch-bar =
-    .label = Anpassa menyrad för Touch…
+    .label = Anpassa Touch Bar…
 
 ##
 
