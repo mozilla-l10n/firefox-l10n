@@ -19,5 +19,6 @@ chat-verify-identity =
     .accesskey = d
 chat-identity-verified =
     .label = Kimlik zaten doğrulanmış
+chat-buddy-identity-status = Şifreleme güveni
 chat-buddy-identity-status-verified = Doğrulandı
 chat-buddy-identity-status-unverified = Doğrulanmadı

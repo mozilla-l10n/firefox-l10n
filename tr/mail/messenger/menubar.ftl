@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Tercihler
     .accesskey = T
+menu-tools-settings =
+    .label = Ayarlar
+    .accesskey = A
 menu-addons-and-themes =
     .label = Eklentiler ve Temalar
     .accesskey = E

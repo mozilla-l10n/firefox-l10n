@@ -76,12 +76,14 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Dosya…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Tercihler
+appmenu-save-as-file =
+    .label = Dosya…
+appmenu-settings =
+    .label = Ayarlar
 appmenu-addons-and-themes =
     .label = Eklentiler ve temalar
 appmenu-help-enter-troubleshoot-mode =
