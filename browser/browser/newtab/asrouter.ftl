@@ -123,6 +123,8 @@ cfr-doorhanger-video-support-primary-button = Päivitä nyt
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-expanded = Lue lisää
+    .title = Sulje
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
