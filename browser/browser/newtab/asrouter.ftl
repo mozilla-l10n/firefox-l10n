@@ -145,4 +145,14 @@ spotlight-public-wifi-vpn-link = Ahora no
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Prueba nuestra experiencia de 
+    privacidad más poderosa de la historia
+spotlight-total-cookie-protection-body = La  protección total contra cookies evita que los rastreadores te sigan por la web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } construye un cerco alrededor de tus cookies, limitándolas al sitio en el que estás, para que los rastreadores no las puedan usar para seguirte. Con el acceso anticipado, ayudarás a optimizar esta funcionalidad para que sigamos construyendo una mejor web para todos.
+spotlight-total-cookie-protection-primary-button = Activar la protección total contra cookies
 spotlight-total-cookie-protection-secondary-button = Ahora no
