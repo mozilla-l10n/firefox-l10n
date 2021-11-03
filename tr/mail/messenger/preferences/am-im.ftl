@@ -4,6 +4,7 @@
 
 account-settings-title = Kimlik Doğrulama Ayarları
 account-channel-title = Varsayılan Kanallar
+chat-encryption-label = Yerel uçtan uca şifreleme
 chat-encryption-status = Şifreleme durumu
 chat-encryption-placeholder = Şifreleme başlatılmadı.
 chat-encryption-sessions = Oturumlar

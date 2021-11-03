@@ -127,6 +127,7 @@ remove-search-engine =
     .accesskey = r
 add-opensearch-provider-title = OpenSearch sağlayıcısı ekle
 adding-opensearch-provider-failed-title = OpenSearch sağlayıcısı ekleme başarısız
+adding-opensearch-provider-failed-text = { $url } için OpenSearch sağlayıcısı eklenemedi.
 minimize-to-tray-label =
     .label = { -brand-short-name } simge durumuna küçültüldüğünde sistem tepsisine taşı
     .accesskey = m
@@ -320,6 +321,8 @@ type-column-label =
 action-column-label =
     .label = Eylem
     .accesskey = E
+type-column-header = İçerik türü
+action-column-header = Eylem
 save-to-label =
     .label = Dosyaları kaydetme konumu
     .accesskey = k
@@ -688,6 +691,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Ayarlarda ara
 
 ## Settings UI Search Results
 
@@ -697,5 +711,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Kusura bakmayın, seçeneklerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
        *[other] Kusura bakmayın, tercihlerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Kusura bakmayın, seçeneklerde “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
+       *[other] Kusura bakmayın, ayarlarda “<span data-l10n-name="query"></span>” ile ilgili bir sonuç bulamadık.
     }
 search-results-help-link = Yardım mı gerekiyor? <a data-l10n-name="url">{ -brand-short-name } Destek</a>’i ziyaret edin.
