@@ -44,6 +44,9 @@ onboarding-multistage-set-default-header = Määra { -brand-short-name } oma <sp
 onboarding-multistage-set-default-subtitle = Lehitse veebi kiirelt, turvaliselt ja privaatselt alati.
 onboarding-multistage-set-default-primary-button-label = Määra vaikebrauseriks
 onboarding-multistage-set-default-secondary-button-label = Mitte praegu
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Alusta <span data-l10n-name="zap">{ -brand-short-name }i</span> klõpsu kaugusele seadmisega
 
 ## Multistage onboarding strings (about:welcome pages)
 
