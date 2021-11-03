@@ -946,6 +946,11 @@ content-blocking-all-windows-tracking-content = Seurantaan tarkoitettu sisältö
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
 content-blocking-cryptominers = Kryptolouhijat
 content-blocking-fingerprinters = Yksilöijät
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Testaa kaikkien aikojen tehokkainta yksityisyyttä varjelevaa ominaisuuttamme
+    .accesskey = T
 content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
 content-blocking-warning-title = Huomio!
 content-blocking-and-isolating-etp-warning-description = Seurainten estäminen ja evästeiden eristäminen saattaa vaikuttaa joidenkin sivustojen toimivuuteen. Lataa sivu uudelleen seurainten kera ladataksesi kaiken sisällön.
