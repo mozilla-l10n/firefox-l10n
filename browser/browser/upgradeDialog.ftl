@@ -85,3 +85,5 @@ upgrade-dialog-theme-secondary-button = Ahora no
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Gracias por elegirnos
