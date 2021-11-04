@@ -154,6 +154,25 @@ mr2-onboarding-colorway-header = Elu värvides
 mr2-onboarding-colorway-subtitle = Uued särtsakad värvitoonid. Saadaval piiratud aja jooksul.
 mr2-onboarding-colorway-primary-button-label = Salvesta värvitoon
 mr2-onboarding-colorway-secondary-button-label = Mitte praegu
+mr2-onboarding-colorway-label-soft = Pehme
+mr2-onboarding-colorway-label-balanced = Tasakaalustatud
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Paks
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Automaatne
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Vaikimisi
+mr1-onboarding-theme-header = Tee see enda omaks
+mr1-onboarding-theme-subtitle = Isikupärasta oma { -brand-short-name } teemaga.
+mr1-onboarding-theme-primary-button-label = Salvesta teema
+mr1-onboarding-theme-secondary-button-label = Mitte praegu
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Süsteemi teema
+mr1-onboarding-theme-label-light = Hele
+mr1-onboarding-theme-label-dark = Tume
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -166,6 +185,26 @@ mr2-onboarding-colorway-secondary-button-label = Mitte praegu
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Kasutatakse operatsioonisüsteemi nuppude,
+        menüüde ja akende välimust.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Kasutatakse operatsioonisüsteemi nuppude,
+        menüüde ja akende välimust.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse heledat välimust.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse heledat välimust.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
