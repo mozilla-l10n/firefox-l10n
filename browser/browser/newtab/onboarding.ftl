@@ -93,3 +93,8 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = Շնորհակալություն մեզ ընտրելու համար
+mr2-onboarding-thank-you-text = { -brand-short-name }-ը անկախ դիտարկիչ է, որն ապահովված է շահույթ չհետապնդող կազմակերպության կողմից: Միասին մենք վեբն ավելի անվտանգ, առողջ և անձնական ենք դարձնում:
