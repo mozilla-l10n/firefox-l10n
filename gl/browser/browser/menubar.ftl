@@ -80,6 +80,16 @@ menu-file-open-file =
 menu-file-close =
     .label = Pechar
     .accesskey = c
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Pechar lapela
+            [one] Pechar { $tabCount } lapela
+           *[other] Pechar { $tabCount } lapelas
+        }
+    .accesskey = P
 menu-file-close-window =
     .label = Pechar xanela
     .accesskey = P
