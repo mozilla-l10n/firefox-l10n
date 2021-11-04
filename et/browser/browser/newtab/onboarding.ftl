@@ -56,9 +56,43 @@ onboarding-multistage-pin-default-primary-button-label = Määra { -brand-short-
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Impordi oma paroolid, <br/>järjehoidjad ja <span data-l10n-name="zap">muud asjad</span>
+onboarding-multistage-import-subtitle = Tuled teisest brauserist? Asjad on sealt lihtne { -brand-short-name }i kaasa tuua.
+onboarding-multistage-import-primary-button-label = Käivita importimine
+onboarding-multistage-import-secondary-button-label = Mitte praegu
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Sellest seadmest leiti siin loetletud saidid. { -brand-short-name } ei salvesta ega sünkroniseeri andmeid teisest brauserist, kui sa ei otsusta neid importida.
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Alustamine: { $current }/{ $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">Välimuse</span> valimine
+onboarding-multistage-theme-subtitle = Isikupärasta oma { -brand-short-name } teemaga.
+onboarding-multistage-theme-primary-button-label2 = Valmis
+onboarding-multistage-theme-secondary-button-label = Mitte praegu
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automaatne
+onboarding-multistage-theme-label-light = Hele
+onboarding-multistage-theme-label-dark = Tume
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Tuli algab
+    siit
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
