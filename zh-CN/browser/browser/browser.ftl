@@ -450,7 +450,7 @@ urlbar-extension =
 urlbar-go-button =
     .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
-    .tooltiptext = 页面动作
+    .tooltiptext = 页面操作
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
