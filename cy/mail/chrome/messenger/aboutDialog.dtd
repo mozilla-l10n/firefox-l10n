@@ -104,8 +104,7 @@
 <!ENTITY update.downloading.start   "Llwytho'r diweddariad i lawr - ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Gosod diweddariad…">
-
+<!ENTITY update.applying            "Gosod y diweddariad…">
 <!ENTITY update.restarting          "Ailgychwyn…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
