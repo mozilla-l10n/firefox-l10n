@@ -35,4 +35,16 @@ upgrade-dialog-pin-secondary-button = Ոչ հիմա
 
 ## Theme selection screen
 
+
+## Start screen
+
+
+## Colorway screen
+
 upgrade-dialog-theme-primary-button = Պահել ոճը
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Շնորհակալություն մեզ ընտրելու համար
+upgrade-dialog-thankyou-subtitle = { -brand-short-name }-ը անկախ դիտարկիչ է, որն ապահովված է շահույթ չհետապնդող կազմակերպության կողմից: Միասին մենք վեբն ավելի անվտանգ, առողջ և անձնական ենք դարձնում:
