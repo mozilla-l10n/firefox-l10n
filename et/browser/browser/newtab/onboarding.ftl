@@ -93,21 +93,67 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 mr1-welcome-screen-hero-text =
     Tuli algab
     siit
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — mööblidisainer, Firefoxi fänn
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Lülita animatsioonid välja
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Lihtsamaks juurdepääsuks kinnita { -brand-short-name } dokile
+       *[other] Lihtsamaks juurdepääsuks kinnita { -brand-short-name } tegumiribale
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Hoia dokil
+       *[other] Kinnita tegumiribale
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Tee algust
+mr1-onboarding-welcome-header = Tere tulemast { -brand-short-name }i
+mr1-onboarding-set-default-pin-primary-button-label = Määra { -brand-short-name } vaikebrauseriks
+    .title = Määrab { -brand-short-name } vaikebrauseriks ja kinnitab tegumiribale
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Määra { -brand-short-name } vaikebrauseriks
+mr1-onboarding-set-default-secondary-button-label = Mitte praegu
+mr1-onboarding-sign-in-button-label = Logi sisse
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Määra { -brand-short-name } vaikebrauseriks
+mr1-onboarding-default-subtitle = Pane kiirus, turvalisus ja privaatsus autopiloodile.
+mr1-onboarding-default-primary-button-label = Määra vaikebrauseriks
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Võta see kõik endaga kaasa
+mr1-onboarding-import-subtitle = Impordi oma paroolid, <br/>järjehoidjad ja muud asjad.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Impordi brauserist { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Impordi eelmisest brauserist
+mr1-onboarding-import-secondary-button-label = Mitte praegu
+mr2-onboarding-colorway-header = Elu värvides
+mr2-onboarding-colorway-subtitle = Uued särtsakad värvitoonid. Saadaval piiratud aja jooksul.
+mr2-onboarding-colorway-primary-button-label = Salvesta värvitoon
+mr2-onboarding-colorway-secondary-button-label = Mitte praegu
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
