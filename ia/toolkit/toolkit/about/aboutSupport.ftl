@@ -217,8 +217,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Tote le reportos de collapso (includente { $reports } collapso pendente in le intervallo indicate)
-       *[other] Tote le reportos de collapso (includente { $reports } collapsos pendente in le intervallo indicate)
+        [one] Tote le reportos de crash (includente { $reports } crash pendente in le intervallo indicate)
+       *[other] Tote le reportos de crashes (includente { $reports } crashes pendente in le intervallo indicate)
     }
 raw-data-copied = Datos brute copiate al area de transferentia
 text-copied = Texto copiate al area de transferentia
