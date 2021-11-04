@@ -5,6 +5,8 @@
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Холӣ кардани варақаҳо ва қатъ кардани равандҳо
 about-processes-shutdown-tab =
     .title = Пӯшидани варақа
 
@@ -14,18 +16,13 @@ about-processes-shutdown-tab =
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
+
 
 ## Details within processes
 

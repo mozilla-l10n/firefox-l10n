@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr-button-unload =
+    .label = Холӣ кардан
+    .accesskey = Х
 
 ## Strings used for load device
 
