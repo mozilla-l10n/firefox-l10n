@@ -149,6 +149,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importar desde { $previ
 mr1-onboarding-import-primary-button-label-no-attribution = Importar desde un navegador anterior
 mr1-onboarding-import-secondary-button-label = Agora non
 mr2-onboarding-colorway-header = A vida en cores
+mr2-onboarding-colorway-subtitle = Novas cores vibrantes. Dispoñíbel por tempo limitado.
+mr2-onboarding-colorway-primary-button-label = Gardar combinación de cores
 mr2-onboarding-colorway-secondary-button-label = Agora non
 mr2-onboarding-colorway-label-soft = Suave
 mr2-onboarding-colorway-label-balanced = Equilibrado
@@ -260,6 +262,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Empregar un tema dinámico e colorido para botóns,
         menús e xanelas.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Empregar esta combinación de cores.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Empregar esta combinación de cores.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Explore combinacións de cores { $colorwayName }
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Explore combinacións de cores { $colorwayName }
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Explorar temas predeterminados.

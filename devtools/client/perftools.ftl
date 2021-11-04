@@ -95,6 +95,8 @@ perftools-thread-img-decoder =
     .title = Fíos da descodificación de imaxe
 perftools-thread-dns-resolver =
     .title = Neste fío sucede a resolución de DNS
+perftools-thread-task-controller =
+    .title = Fíos de agrupación de subprocesos de TaskController
 
 ##
 
@@ -122,6 +124,15 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Desenvolvedores web
+perftools-presets-web-developer-description = Predefinición recomendada para a maioría da depuración de aplicacións web, con sobrecarga baixa.
+perftools-presets-firefox-platform-label = Plataforma Firefox
+perftools-presets-firefox-platform-description = Predefinición recomendada para a depuración interna da plataforma Firefox.
+perftools-presets-firefox-front-end-label = Interface gráfica do Firefox
+perftools-presets-firefox-front-end-description = Predefinición recomendada para a depuración interna da interface gráfica do Firefox.
+perftools-presets-firefox-graphics-label = Gráficos de Firefox
+perftools-presets-firefox-graphics-description = Preestablecemento recomendado para a investigación do rendemento gráfico de Firefox.
+perftools-presets-media-label = Multimedia
+perftools-presets-media-description = Predefinición recomendada para diagnosticar problemas de son e vídeo.
 perftools-presets-custom-label = Personalizado
 
 ##
