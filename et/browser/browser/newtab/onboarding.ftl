@@ -47,6 +47,15 @@ onboarding-multistage-set-default-secondary-button-label = Mitte praegu
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Alusta <span data-l10n-name="zap">{ -brand-short-name }i</span> klõpsu kaugusele seadmisega
+onboarding-multistage-pin-default-subtitle = Lehitse veebi kiirelt, turvaliselt ja privaatselt alati.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Sätete avanemisel vali veebibrauserite alt { -brand-short-name }
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = See kinnitab { -brand-short-name }i tegumiribale ja avab sätted
+onboarding-multistage-pin-default-primary-button-label = Määra { -brand-short-name } vaikebrauseriks
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Impordi oma paroolid, <br/>järjehoidjad ja <span data-l10n-name="zap">muud asjad</span>
 
 ## Multistage onboarding strings (about:welcome pages)
 
