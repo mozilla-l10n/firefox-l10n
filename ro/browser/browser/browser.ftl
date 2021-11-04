@@ -591,6 +591,8 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Nume de utilizator
+panel-save-update-password = Parolă
 
 ## Add-on removal warning
 
@@ -668,3 +670,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Listează toate filele
     .tooltiptext = Listează toate filele
+
+## Infobar shown at startup to suggest session-restore
+
