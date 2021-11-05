@@ -16,3 +16,16 @@ screenshots-meta-key =
         [macos] ⌘
        *[other] Ctrl
     }
+screenshots-notification-link-copied-title = Ligòngiu copiadu
+screenshots-notification-link-copied-details = Ligòngiu a sa catura copiadu in punta de billete. Preme { screenshots-meta-key }-V pro incollare.
+screenshots-notification-image-copied-title = Catura copiada
+screenshots-notification-image-copied-details = Catura copiada in punta de billete. Preme { screenshots-meta-key }-V pro incollare.
+screenshots-request-error-title = Non funtzionat.
+screenshots-request-error-details = Impossìbile sarvare sa catura tua. Torra·bi a proare a pustis.
+screenshots-connection-error-title = Impossìbile connètere a is caturas tuas.
+screenshots-connection-error-details = Controlla sa connessione internet. Si renesses a ti connètere a internet, podet dare chi ddoe siat unu problema temporàneu cun su servìtziu de { -screenshots-brand-name }.
+screenshots-login-error-details = Impossìbile sarvare sa catura pro more de unu problema cun su servìtziu de { -screenshots-brand-name }. Torra·bi a proare a pustis.
+screenshots-empty-selection-error-title = Sa seletzione tua est tropu pitica
+screenshots-private-window-error-title = { -screenshots-brand-name } est disativadu in sa modalidade de navigatzione privada
+screenshots-generic-error-title = Cess! { -screenshots-brand-name } s'est ammachiende.
+screenshots-generic-error-details = No ischimus ite siat sutzèdidu. Torra·bi a proare, forsis cun un'àtera pàgina.

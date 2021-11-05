@@ -4,3 +4,8 @@
 
 safeb-blocked-phishing-page-title = Custu situ est ingannosu
 safeb-blocked-malware-page-title = Intrare in custu situ diat pòdere fàghere dannu a s'elaboradore
+safeb-palm-accept-label = A coa
+safeb-palm-see-details-label = Ammustra detàllios
+safeb-palm-notdeceptive =
+    .label = Custu no est unu situ ingannosu…
+    .accesskey = i
