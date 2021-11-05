@@ -226,7 +226,7 @@ download-choose-folder =
            *[other] n
         }
 download-always-ask-where =
-    .label = Dimanda semper su percursu de sarvamentu de archìvios
+    .label = Pregonta semper su percursu de sarvamentu de archìvios
     .accesskey = D
 applications-header = Aplicatziones
 applications-filter =
@@ -263,7 +263,7 @@ applications-select-helper = Sèbera s'aplicatzione ausiliare
 applications-manage-app =
     .label = Detàllios de s'aplicatzione…
 applications-always-ask =
-    .label = Dimanda semper
+    .label = Pregonta semper
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -663,7 +663,7 @@ pane-privacy-logins-and-passwords-header = Credentziales e craes
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Dimanda si bògio sarvare is credentziales e is craes de is sitos web
+    .label = Pregonta si bògio sarvare is credentziales e is craes de is sitos web
     .accesskey = D
 forms-exceptions =
     .label = Etzetziones…
