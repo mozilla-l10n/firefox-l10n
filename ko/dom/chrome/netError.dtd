@@ -25,7 +25,7 @@
 <!ENTITY generic.title "요청을 완료할 수 없음">
 <!ENTITY generic.longDesc "<p>현재 이 문제 또는 오류에 대한 추가적인 정보를 사용할 수 없습니다.</p>">
 
-<!ENTITY malformedURI.title "주소가 유효하지 않음">
+<!ENTITY malformedURI.title "잘못된 주소">
 <!ENTITY malformedURI.longDesc "<p>제공한 주소는 인식 가능한 형식이 아닙니다. 주소 표시줄에 실수가 없는지 확인한 후 다시 시도하세요.</p>">
 
 <!ENTITY netInterrupt.title "데이터 전송이 중단되었습니다">
