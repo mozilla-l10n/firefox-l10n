@@ -343,6 +343,9 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = خُذ لقطة شاشة
     .accesskey = خ
+main-context-menu-take-frame-screenshot =
+    .label = خُذ لقطة شاشة
+    .accesskey = خ
 main-context-menu-view-page-source =
     .label = اعرض مصدر هذه الصفحة
     .accesskey = ص
@@ -360,3 +363,8 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = اطلع أكثر عن إدارة الحقوق الرقمية…
     .accesskey = د
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = افتح الرابط في لسان { $containerName } جديد
+    .accesskey = ت

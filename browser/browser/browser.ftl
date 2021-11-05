@@ -538,6 +538,10 @@ pointerlock-warning-no-domain = يتحكم هذا المستند في مؤشرك
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>انهار جزء من هذه الصفحة.</strong> لإبلاغ { -brand-product-name } بهذه المشكلة وإصلاحها أسرع، رجاء أرسل بلاغا.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = انهار جزء من هذه الصفحة. لإبلاغ { -brand-product-name } بهذه المشكلة وإصلاحها أسرع، رجاء أرسل بلاغا.
 crashed-subframe-learnmore-link =
     .value = اطّلع على المزيد
 crashed-subframe-submit =
@@ -700,6 +704,9 @@ remote-tabs-sync-now = زامِن الآن
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = أكثر…
 ui-tour-info-panel-close =
     .tooltiptext = أغلق
 
@@ -761,3 +768,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = اسرد كل الألسنة
     .tooltiptext = اسرد كل الألسنة
+
+## Infobar shown at startup to suggest session-restore
+
