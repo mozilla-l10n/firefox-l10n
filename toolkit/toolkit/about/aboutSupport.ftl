@@ -341,6 +341,7 @@ fission-status-disabled-by-default = Privzeto onemogočeno
 fission-status-enabled-by-user-pref = Omogočil uporabnik
 fission-status-disabled-by-user-pref = Onemogočil uporabnik
 fission-status-disabled-by-e10s-other = E10s Onemogočen
+fission-status-enabled-by-rollout = Omogoča izdajanje po korakih
 async-pan-zoom = Asinhrono pomikanje/povečava
 apz-none = brez
 wheel-enabled = vnos s koleščkom omogočen
