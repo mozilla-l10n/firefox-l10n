@@ -5,6 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+extension-default-theme-description = اتبع إعدادات نظام التشغيل لعرض الأزرار والقوائم والنوافذ.
 extension-firefox-compact-light-name = فاتحة
 extension-firefox-compact-light-description = سمة بمخطّط ألوان فاتح.
 extension-firefox-compact-dark-name = داكنة
