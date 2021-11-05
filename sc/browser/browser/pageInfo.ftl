@@ -56,8 +56,50 @@ media-size =
     .label = Mannària
 media-count =
     .label = Contègiu
+media-dimension =
+    .value = Dimensiones:
+media-long-desc =
+    .value = Descritzione longa:
+media-save-as =
+    .label = Sarva comente…
+    .accesskey = S
+media-save-image-as =
+    .label = Sarva comente…
+    .accesskey = e
+perm-tab =
+    .label = Permissos
+    .accesskey = P
+permissions-for =
+    .value = Permissos pro:
+security-tab =
+    .label = Seguresa
+    .accesskey = S
+security-view =
+    .label = Ammustra su tzertificadu
+    .accesskey = z
 security-view-unknown = Disconnotu
     .value = Disconnotu
+security-view-identity =
+    .value = Identidade de su situ
+security-view-identity-owner =
+    .value = Mere:
+security-view-identity-domain =
+    .value = Situ web:
+security-view-identity-validity =
+    .value = Iscadit:
+security-view-privacy =
+    .value = Riservadesa e cronologia
+security-view-privacy-history-value = Apo giai bisitadu custu situ, oe?
+security-view-privacy-sitedata-value = Custu situ sarvat informatziones in s'ordinadore miu?
+security-view-privacy-clearsitedata =
+    .label = Isbòida is testimòngios (cookies) e is datos de is sitos
+    .accesskey = I
+security-view-privacy-passwords-value = Apo giai sarvadu craes pro custu situ?
+security-view-privacy-viewpasswords =
+    .label = Ammustra is craes sarvadas
+    .accesskey = v
+security-view-technical =
+    .value = Detàllios tècnicos
 help-button =
     .label = Agiudu
 
@@ -67,11 +109,21 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Eja, testimòngios e { $value } { $unit } de datos de su situ
+security-site-data-only = Eja, { $value } { $unit } de datos de su situ
+security-site-data-cookies-only = Eja, testimòngios
+security-site-data-no = Nono
 
 ##
 
 image-size-unknown = Disconnotu
+page-info-not-specified =
+    .value = No ispetzificadu
+not-set-alternative-text = No ispetzificadu
+not-set-date = No ispetzificadu
+media-img = Immàgine
 media-bg-img = A-de-segus
+media-border-img = Oru
 media-video = Vìdeu
 saved-passwords-yes = Eja
 saved-passwords-no = Nono
