@@ -80,6 +80,19 @@ menu-file-open-file =
 menu-file-close =
     .label = Serriñ
     .accesskey = S
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Serriñ an ivinell
+            [one] Serriñ { $tabCount } ivinell
+            [two] Serriñ { $tabCount } ivinell
+            [few] Serriñ { $tabCount } ivinell
+            [many] Serriñ { $tabCount } a ivinelloù
+           *[other] Serriñ { $tabCount } ivinell
+        }
+    .accesskey = S
 menu-file-close-window =
     .label = Serriñ ar prenestr
     .accesskey = r

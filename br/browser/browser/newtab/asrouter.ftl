@@ -131,15 +131,29 @@ cfr-doorhanger-video-support-header = Hizivaat { -brand-short-name } evit lenn a
 cfr-doorhanger-video-support-primary-button = Hizivaat bremañ
     .accesskey = H
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Deskiñ hiroc’h
+    .title = Astenn evit gouzout hiroc'h diwar-benn ar c’heweriuster
+spotlight-learn-more-expanded = Gouzout hiroc'h
+    .title = Serriñ
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = War a-seblant e rit gant ur Wi-Fi foran
 spotlight-public-wifi-vpn-body = Evit kuzhat ho lec’hiadur hag hoc’h oberiantiz merdeiñ e c’hallit ober gant ur rouedad prevez galloudel (VPN). Skoazellañ a raio ac’hanoc’h da vezañ gwarezet en ur verdeiñ e lec’hioù foran evel an aerborzhioù pe ar c’hafedioù.
 spotlight-public-wifi-vpn-primary-button = Chomit prevez gant { -mozilla-vpn-brand-name }
     .accesskey = C
 spotlight-public-wifi-vpn-link = Ket bremañ
     .accesskey = K
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = Amprouit a-raok an holl an arnod prevezded galloudusañ graet ganeomp.
