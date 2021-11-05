@@ -124,6 +124,7 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Desarrollador web
 perftools-presets-firefox-platform-label = Plataforma Firefox
 perftools-presets-firefox-graphics-label = Gráficos de Firefox
+perftools-presets-media-label = Multimedia
 perftools-presets-custom-label = Personalizado
 
 ##
