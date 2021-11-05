@@ -23,3 +23,14 @@ webrtc-camera-unmuted =
     .title = Disativa sa càmera
 webrtc-camera-muted =
     .title = Ativa sa càmera
+webrtc-minimize =
+    .title = Impicòchia s'indicadore
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Ses cumpartzende sa càmera. Incarca inoghe pro controllare sa cumpartzidura.
+webrtc-microphone-system-menu =
+    .label = Ses cumpartzende su micròfonu. Incarca inoghe pro controllare sa cumpartzidura.
+webrtc-screen-system-menu =
+    .label = Ses cumpartzende una ventana o s'ischermu. Incarca inoghe pro controllare sa cumpartzidura.
