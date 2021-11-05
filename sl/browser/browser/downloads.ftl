@@ -18,6 +18,11 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 80ch
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 37em
 downloads-cmd-pause =
     .label = Premor
     .accesskey = o
