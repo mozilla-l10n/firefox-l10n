@@ -6,7 +6,7 @@
 all-tabs-menu-search-tabs =
     .label = Chirca ischedas
 all-tabs-menu-new-user-context =
-    .label = Ischeda cuntenidore noa
+    .label = Ischeda cuntenidora noa
 all-tabs-menu-hidden-tabs =
     .label = Ischedas cuadas
 all-tabs-menu-manage-user-context =
