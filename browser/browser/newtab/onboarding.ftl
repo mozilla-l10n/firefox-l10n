@@ -205,9 +205,96 @@ onboarding-multistage-theme-description-light =
     .aria-description =
         Nuppude, menüüde ja akende jaoks
         kasutatakse heledat välimust.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse tumedat välimust.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse tumedat välimust.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse värvikat välimust.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse värvikat välimust.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse operatsioonisüsteemi välimust.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse operatsioonisüsteemi välimust.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse heledat teemat.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse heledat teemat.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse tumedat teemat.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse tumedat teemat.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse värvikat teemat.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Nuppude, menüüde ja akende jaoks
+        kasutatakse värvikat teemat.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Kasuta seda värvivalikut.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Kasuta seda värvivalikut.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Avasta { $colorwayName } värvivalikud.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Avasta { $colorwayName } värvivalikud.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Vaata vaikimisi teemasid.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Vaata vaikimisi teemasid.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Täname, et valisid meid
+mr2-onboarding-thank-you-text = { -brand-short-name } on sõltumatu brauser, mida toetab mittetulundusühing. Koos muudame veebi turvalisemaks, tervislikumaks ja privaatsemaks.
+mr2-onboarding-start-browsing-button-label = Alusta veebilehitsemist
