@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = Lìmpia is datos
     .style = width: 35em
+clear-site-data-description = Limpiare totu is testimòngios e is datos de is sitos archiviados dae { -brand-short-name } diat pòdere serrare is sessiones de is sitos web e bogare su cuntenutu web a foras de lìnia. Limpiare sa memòria temporànea no at a tènnere efetu subra is sessiones abertas.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
