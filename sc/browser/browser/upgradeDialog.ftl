@@ -103,5 +103,5 @@ upgrade-dialog-colorway-variation-bold = Forte
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Gràtzias pro nos àere seberadu
-upgrade-dialog-thankyou-subtitle = { -brand-short-name } est unu navigadore indipendente suportadu dae un'organizatzione chena punna de lucru. Paris semus faghende in manera chi su web siat prus seguru, sanu e privadu.
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } est unu navigadore indipendente suportadu dae un'organizatzione sena punna de lucru. Paris semus faghende in manera chi su web siat prus seguru, sanu e privadu.
 upgrade-dialog-thankyou-primary-button = Cumintza a navigare

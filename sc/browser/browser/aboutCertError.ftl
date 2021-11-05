@@ -6,7 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } est impreende unu tzertificadu de seguresa non vàlidu.
 cert-error-mitm-intro = Is sitos web verìficant s'identidade issoro pro mèdiu de tzertificados, emìtidos dae is autoridades.
-cert-error-mitm-mozilla = { -brand-short-name } est suportadu dae Mozilla, organizatzione chena profetu chi gestit unu depòsitu de autoridade de tzertificatzione de su totu abertu (CA). Su depòsitu CA agiudat a garantire chi is autoridades de tzertificatzione siant sighende pràticas seguras pro s'amparu de is utentes.
+cert-error-mitm-mozilla = { -brand-short-name } est suportadu dae Mozilla, organizatzione sena profetu chi gestit unu depòsitu de autoridade de tzertificatzione de su totu abertu (CA). Su depòsitu CA agiudat a garantire chi is autoridades de tzertificatzione siant sighende pràticas seguras pro s'amparu de is utentes.
 cert-error-mitm-connection = { -brand-short-name } impreat su magasinu de CA de Mozilla pro verificare chi una connessione siat segura, imbetzes de impreare tzertificados frunidos dae su sistema operativu de s'usuàriu. Duncas, si unu programma anti-virus o una rete de traballu est intertzetende una connessione cun unu tzertificadu de seguresa emìtidu dae unu CA chi non est in su magasinu CA de Mozilla, sa connessione est cunsiderada non segura.
 cert-error-trust-unknown-issuer-intro = Mancari sunt proende a si sostituire a su situ e non dias dèpere sighire.
 # Variables:
