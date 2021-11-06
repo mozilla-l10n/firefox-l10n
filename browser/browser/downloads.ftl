@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Erakutsi Finder-en
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Erakutsi Finder-en
+           *[other] Erakutsi karpetan
+        }
+    .accesskey = k
 downloads-cmd-use-system-default =
     .label = Ireki sistemaren ikustailean
     .accesskey = k
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Ireki beti sistemaren ikustailean
     .accesskey = b
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Erakutsi Finder-en
            *[other] Ireki dagoen karpeta
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Ireki beti antzerako fitxategiak
+    .accesskey = b
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Erakutsi Finder-en
+           *[other] Erakutsi karpetan
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Erakutsi Finder-en
+           *[other] Erakutsi karpetan
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Erakutsi Finder-en
+           *[other] Erakutsi karpetan
         }
 downloads-cmd-show-downloads =
     .label = Erakutsi deskargen karpeta
