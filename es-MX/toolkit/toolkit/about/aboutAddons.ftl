@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Obtener extensiones y temas en <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Obtén diccionarios en <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Obtén paquetes de idioma en <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = No tienes complementos de este tipo instalados
 list-empty-available-updates =
@@ -281,6 +283,8 @@ extension-enabled-heading = Habilitado
 extension-disabled-heading = Deshabilitado
 theme-enabled-heading = Habilitado
 theme-disabled-heading = Deshabilitado
+theme-monochromatic-heading = Combinaciones de colores
+theme-monochromatic-subheading = Nuevas combinaciones de vibrantes colores de { -brand-product-name }. Disponible por tiempo limitado.
 plugin-enabled-heading = Habilitado
 plugin-disabled-heading = Deshabilitado
 dictionary-enabled-heading = Habilitado

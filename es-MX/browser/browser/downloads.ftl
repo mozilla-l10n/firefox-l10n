@@ -74,6 +74,29 @@ downloads-cmd-show-description =
             [macos] Mostrar en Finder
            *[other] Abrir carpeta contenedora
         }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Siempre abrir archivos similares
+    .accesskey = w
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar en Carpeta
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mostrar en FInder
+           *[other] Mostrar en Carpeta
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar en Carpeta
+        }
 downloads-cmd-show-downloads =
     .label = Mostrar carpeta de descargas
 downloads-cmd-retry =
@@ -171,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = No hay descargas para esta sesión.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } archivo más descargando
+       *[other] { $count } archivos más descargando
+    }
