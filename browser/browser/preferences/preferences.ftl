@@ -951,6 +951,8 @@ content-blocking-fingerprinters = Generadors d’emprentas numericas
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Ensajatz abans lo monde la melhora foncionalitat de confidencialitat jamai concebuda
     .accesskey = E
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = La proteccion totala contra los cookies los reten al site ont vos trobatz, doncas los traçadors los pòdon pas utilizar per vos pistar de site en site.
 content-blocking-etp-standard-tcp-rollout-learn-more = Ne saber mai
 content-blocking-warning-title = Atencion !
 content-blocking-and-isolating-etp-warning-description = Lo blocatge de traçadors e l’isolacion dels cookies pòdon aver una incidéncia sus las foncionalitats de certans sites. Tornatz cargar una pagina amb los traçadors per cargar tot lo contengut.
