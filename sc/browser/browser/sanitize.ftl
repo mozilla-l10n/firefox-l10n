@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Isbòida totu sa cronologia
     .style = width: 34em
+clear-data-settings-label = Comente benit serradu, { -brand-short-name } lìmpia in automàticu
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -24,6 +25,15 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Perìodu temporàneu de limpiare: { " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = S'ùrtima ora
+clear-time-duration-value-last-2-hours =
+    .label = Is ùrtimas 2 oras
+clear-time-duration-value-last-4-hours =
+    .label = Is ùrtimas 4 oras
 clear-time-duration-value-today =
     .label = Oe
 clear-time-duration-value-everything =
@@ -35,4 +45,23 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologia
+item-history-and-downloads =
+    .label = Cronologia de navigatzione e iscarrigamentos
+    .accesskey = C
+item-cookies =
+    .label = Testimòngios (cookies)
+    .accesskey = T
+item-active-logins =
+    .label = Connessiones ativas
+    .accesskey = o
+item-cache =
+    .label = Memòria temporànea
+    .accesskey = m
+item-form-search-history =
+    .label = Cronologia de formulàrios e de chirca
+    .accesskey = r
+data-section-label = Datos
+item-site-preferences =
+    .label = Preferèntzias de is sitos
+    .accesskey = P
 sanitize-everything-undo-warning = Custa atzione no la podes annullare.

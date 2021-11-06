@@ -4,6 +4,7 @@
 
 screenshot-shortcut =
     .key = S
+screenshots-instructions = Traga o incarca in sa pàgina pro nde seberare una banda. Preme ESC pro annullare.
 screenshots-cancel-button = Annulla
 screenshots-save-visible-button = Catura sa parte visìbile
 screenshots-save-page-button = Catura totu sa pàgina
@@ -27,5 +28,6 @@ screenshots-connection-error-details = Controlla sa connessione internet. Si ren
 screenshots-login-error-details = Impossìbile sarvare sa catura pro more de unu problema cun su servìtziu de { -screenshots-brand-name }. Torra·bi a proare a pustis.
 screenshots-empty-selection-error-title = Sa seletzione tua est tropu pitica
 screenshots-private-window-error-title = { -screenshots-brand-name } est disativadu in sa modalidade de navigatzione privada
+screenshots-private-window-error-details = Dimandamus iscusa pro su discòmodu. Semus traballende a subra de custa funtzionalidade pro is versiones imbenientes.
 screenshots-generic-error-title = Cess! { -screenshots-brand-name } s'est ammachiende.
 screenshots-generic-error-details = No ischimus ite siat sutzèdidu. Torra·bi a proare, forsis cun un'àtera pàgina.
