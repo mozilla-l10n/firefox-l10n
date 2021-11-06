@@ -27,6 +27,8 @@ about-private-browsing-info-description-private-window = Ventana privada: { -bra
 about-private-browsing-info-description-simplified = { -brand-short-name } borra tu historial de búsqueda y navegación al cerrar todas las ventanas privadas, pero esto no le hace anónimo.
 about-private-browsing-learn-more-link = Saber más
 about-private-browsing-hide-activity = Oculta tu actividad y ubicación, donde sea que estés navegando
+about-private-browsing-get-privacy = Obtén protecciones de privacidad dondequiera que navegues
+about-private-browsing-hide-activity-1 = Oculta la actividad de navegación y la ubicación con { -mozilla-vpn-brand-name }. Un clic crea una conexión segura, incluso en Wi-Fi público.
 about-private-browsing-prominent-cta = Mantente privado con { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.

@@ -127,6 +127,9 @@ places-manage-bookmarks =
     .label = Administrar marcadores
     .accesskey = M
 places-forget-about-this-site-confirmation-title = Olvidar este sitio
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Esta acción eliminará todos los datos relacionados con { $hostOrBaseDomain } incluyendo el historial, contraseñas, cookies, caché y preferencias de contenido. ¿Estás seguro de querer continuar?
 places-forget-about-this-site-forget = Olvidar
 places-library =
     .title = Biblioteca
