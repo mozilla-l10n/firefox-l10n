@@ -151,4 +151,5 @@ spotlight-public-wifi-vpn-link = Nic něnto
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = Dopołny šćit pśed cookiejami zmóžniś
 spotlight-total-cookie-protection-secondary-button = Nic něnto
