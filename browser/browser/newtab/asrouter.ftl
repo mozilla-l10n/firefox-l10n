@@ -121,15 +121,33 @@ cfr-doorhanger-video-support-header = Eguneratu { -brand-short-name } bideoa err
 cfr-doorhanger-video-support-primary-button = Eguneratu orain
     .accesskey = E
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Argibide gehiago
+    .title = Zabaldu eginbideari buruz gehiago jakiteko
+spotlight-learn-more-expanded = Argibide gehiago
+    .title = Itxi
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Badirudi Wi-Fi publikoa darabilzula
 spotlight-public-wifi-vpn-body = Zure kokapena eta nabigazio-jarduera ezkutatzeko, aintzat hartu sare pribatu birtuala (VPN) erabiltzea. Aireportu edo kafetegien tankerako gune publikoetan nabigatzean babestuta mantentzen lagunduko dizu.
 spotlight-public-wifi-vpn-primary-button = Mantendu pribatu { -mozilla-vpn-brand-name } erabiliz
     .accesskey = M
 spotlight-public-wifi-vpn-link = Une honetan ez
     .accesskey = z
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Hartu parte gure orainoko
+    proba pilotu boteretsuenean
+spotlight-total-cookie-protection-primary-button = Gaitu cookien erabateko babesa
+spotlight-total-cookie-protection-secondary-button = Orain ez

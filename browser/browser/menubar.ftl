@@ -80,6 +80,15 @@ menu-file-open-file =
 menu-file-close =
     .label = Itxi
     .accesskey = x
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Itxi fitxa
+           *[other] Itxi { $tabCount } fitxa
+        }
+    .accesskey = x
 menu-file-close-window =
     .label = Itxi leihoa
     .accesskey = h
