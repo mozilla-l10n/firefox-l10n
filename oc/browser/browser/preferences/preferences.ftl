@@ -946,6 +946,11 @@ content-blocking-all-windows-tracking-content = Contengut utilizat per pistar to
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
 content-blocking-cryptominers = Minaires de criptomonedas
 content-blocking-fingerprinters = Generadors d’emprentas numericas
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Ensajatz abans lo monde la melhora foncionalitat de confidencialitat jamai concebuda
+    .accesskey = E
 content-blocking-etp-standard-tcp-rollout-learn-more = Ne saber mai
 content-blocking-warning-title = Atencion !
 content-blocking-and-isolating-etp-warning-description = Lo blocatge de traçadors e l’isolacion dels cookies pòdon aver una incidéncia sus las foncionalitats de certans sites. Tornatz cargar una pagina amb los traçadors per cargar tot lo contengut.
