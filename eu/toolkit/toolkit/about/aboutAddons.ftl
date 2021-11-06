@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Eskuratu hedapen eta itxurak <a data-l10n-name="get-extensions">{ $domain }</a> gunean.
+list-empty-get-dictionaries-message = Eskuratu hiztegiak <a data-l10n-name="get-extensions">{ $domain }</a> gunean.
+list-empty-get-language-packs-message = Eskuratu hizkuntza-paketeak <a data-l10n-name="get-extensions">{ $domain }</a> gunean.
 list-empty-installed =
     .value = Ez daukazu mota honetako gehigarririk instalatuta
 list-empty-available-updates =

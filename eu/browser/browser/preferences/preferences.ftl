@@ -946,6 +946,12 @@ content-blocking-all-windows-tracking-content = Edukiaren jarraipena leiho guzti
 content-blocking-all-third-party-cookies = Hirugarrenen cookie guztiak
 content-blocking-cryptominers = Kriptomeatzariak
 content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten elementuak
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Hartu parte gure orainoko proba pilotu boteretsuenean
+    .accesskey = H
+content-blocking-etp-standard-tcp-rollout-learn-more = Argibide gehiago
 content-blocking-warning-title = Argi!
 content-blocking-and-isolating-etp-warning-description = Jarraipen-elementuak blokeatuz eta cookieak bakartuz gero, zenbait gunetako eginbideak kaltetu litezke. Eduki guztiak kargatzeko, berritu jarraipen-elementuak dituen orria.
 content-blocking-and-isolating-etp-warning-description-2 = Hainbat webgunek edukiak ondo ez bistaratzea edo ondo ez ibiltzea eragin lezake ezarpen honek. Gune batek hondatua badirudi, gune horretarako jarraipenaren babesa desgaitu nahiko duzu eduki guztia karga dadin.
