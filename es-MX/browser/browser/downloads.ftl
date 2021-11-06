@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Mostrar en Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Mostrar en carpeta
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Abrir en el visor del sistema
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Abrir siempre en el visor del sistema
     .accesskey = w
