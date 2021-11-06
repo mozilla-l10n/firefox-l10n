@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Dokóńcone nadawki
 calendar-print-filter-taskswithnoduedate = Nadawki bźez termina
 calendar-print-range-from = Wót
 calendar-print-range-to = Komu
+calendar-print-back-button = Slědk
 calendar-print-next-button = Dalej
