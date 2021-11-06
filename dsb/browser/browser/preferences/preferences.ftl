@@ -954,6 +954,12 @@ content-blocking-all-windows-tracking-content = Slědujuce wopśimjeśe we wšyc
 content-blocking-all-third-party-cookies = Wšykne cookieje tśeśich
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Palcowe wótśišće
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Testujśo našu nejmócnjejšu funkciju priwatnosći wšych casow
+    .accesskey = T
+content-blocking-etp-standard-tcp-rollout-learn-more = Dalšne informacije
 content-blocking-warning-title = Glědajśo!
 content-blocking-and-isolating-etp-warning-description = Blokěrowanje pśeslědowakow a izolěrowanje plackow mógłej funkcionalnosć někotarych websedłow wobwliwowaś. Zacytajśo bok z pśeslědowakami znowego, aby wšykno wopśimjeśe zacytał.
 content-blocking-and-isolating-etp-warning-description-2 = Toś to nastajenje móžo zwinowaś, až někotare websedła wopśimjeśe njepokazuju abo korektnje njefunkcioněruju. Jolic sedło zda se wobškóźone byś, móžośo slědowański šćit za to sedło znjemóžniś, aby cełe wopśimjeśe zacytał.
