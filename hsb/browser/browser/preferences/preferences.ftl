@@ -957,7 +957,7 @@ content-blocking-fingerprinters = Porstowe wotćišće
 # "Test pilot" is used as a verb. Possible alternatives:
 # "Be the first to try", "Join an early experiment".
 content-blocking-etp-standard-tcp-rollout-checkbox =
-    .label = Testujće našu najmócnišu funkciju priwatnosće wšěch čšasow
+    .label = Testujće našu najmócnišu funkciju priwatnosće wšěch časow
     .accesskey = T
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
 content-blocking-warning-title = Kedźbu!
