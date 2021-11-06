@@ -126,6 +126,7 @@ remove-search-engine =
     .label = Αφαίρεση
     .accesskey = ρ
 add-opensearch-provider-title = Προσθήκη παρόχου OpenSearch
+add-opensearch-provider-text = Εισαγάγετε το URL του παρόχου OpenSearch για προσθήκη. Χρησιμοποιήστε είτε το άμεσο URL του αρχείου περιγραφής του OpenSearch είτε ένα URL όπου μπορεί να εντοπιστεί αυτόματα.
 adding-opensearch-provider-failed-title = Αποτυχία προσθήκης παρόχου OpenSearch
 adding-opensearch-provider-failed-text = Δεν ήταν δυνατή η προσθήκη παρόχου OpenSearch για το { $url }.
 minimize-to-tray-label =
