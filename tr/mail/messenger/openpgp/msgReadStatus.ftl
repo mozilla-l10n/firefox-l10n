@@ -19,6 +19,7 @@ openpgp-view-your-encryption-key =
     .label = Şifre çözme anahtarımı görüntüle
 openpgp-openpgp = OpenPGP
 openpgp-no-sig = Dijital imza yok
+openpgp-no-sig-info = Bu ileti, gönderenin sayısal imzasını içermiyor. İmzanın yokluğu, başka birisinin bu e-posta adresinden geliyormuş gibi posta göndermesi ihtimalini doğurur. Hatta iletinin ağ üzerinde değiştirilmesi dahi mümkündür.
 openpgp-uncertain-sig = Belirsiz dijital imza
 openpgp-invalid-sig = Geçersiz dijital imza
 openpgp-good-sig = İyi dijital imza

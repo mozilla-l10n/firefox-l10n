@@ -318,6 +318,7 @@ key-usage-encrypt = Şifrele
 key-usage-sign = İmzala
 key-usage-certify = Onayla
 key-usage-authentication = Yetkilendirme
+key-does-not-expire = Anahtarın süresi dolmasın
 key-expired-date = Anahtarın süresi { $keyExpiry } tarihinde doldu
 key-expired-simple = Anahtarın süresi doldu
 key-revoked-simple = Anahtar iptal edildi

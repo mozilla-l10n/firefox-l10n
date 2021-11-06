@@ -212,6 +212,7 @@ exchange-dialog-cancel-button = Vazgeç
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Yapılandırılmış E-posta Hesabı Yok
 account-setup-no-account-checkbox = { -brand-short-name }’ü e-posta hesabı olmadan kullan
     .accesskey = k
 exit-dialog-cancel-button = Kuruluma devam et
@@ -241,6 +242,8 @@ account-setup-dictionaries-button = Sözlük indir
 account-setup-address-book-carddav-button = Bir CardDAV adres defterine bağlanın
 account-setup-address-book-ldap-button = Bir LDAP adres defterine bağlanın
 account-setup-calendar-button = Uzak bir takvime bağlanın
+account-setup-linked-services-title = Hizmetlerinizi bağlayın
+account-setup-linked-services-description = { -brand-short-name }, e-posta hesabınızla bağlantılı başka hizmetler buldu.
 # Variables:
 # $count (Number) - The number of calendars found during autoconfig.
 account-setup-found-calendars-description =

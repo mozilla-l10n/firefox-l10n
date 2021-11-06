@@ -24,6 +24,12 @@ connection-dialog-window =
 connection-disable-extension =
     .label = Uzantıyı etkisizleştir
 disable-extension-button = Uzantıyı etkisizleştir
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını <img data-l10n-name="extension-icon" alt="" /> { $name } adlı uzantı kontrol ediyor.
 connection-proxy-legend = İnternete Erişmek İçin Vekil Sunucuları Yapılandırın
 proxy-type-no =
     .label = Vekil sunucu kullanma
