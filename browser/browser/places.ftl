@@ -82,6 +82,13 @@ places-remove-folder =
 places-edit-folder2 =
     .label = แก้ไขโฟลเดอร์
     .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] ลบโฟลเดอร์
+           *[other] ลบโฟลเดอร์
+        }
+    .accesskey = ล
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ที่คั่นหน้าที่ถูกจัดการ
@@ -100,9 +107,26 @@ places-remove-bookmark =
            *[other] เอาที่คั่นหน้าออก
         }
     .accesskey = e
+places-show-in-folder =
+    .label = แสดงในโฟลเดอร์
+    .accesskey = ฟ
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] ลบที่คั่นหน้า
+           *[other] ลบที่คั่นหน้า
+        }
+    .accesskey = ล
 places-manage-bookmarks =
     .label = จัดการที่คั่นหน้า
     .accesskey = M
+places-forget-about-this-site-confirmation-title = ลืมเกี่ยวกับไซต์นี้
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = การดำเนินการนี้จะลบข้อมูลทั้งหมดที่เกี่ยวข้องกับ { $hostOrBaseDomain } รวมถึงประวัติ รหัสผ่าน คุกกี้ แคช และการตั้งค่าเนื้อหา คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ
+places-forget-about-this-site-forget = ลืม
 places-library =
     .title = ห้องสมุด
     .style = width:700px; height:500px;
