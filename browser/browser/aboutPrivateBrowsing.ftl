@@ -28,7 +28,7 @@ about-private-browsing-info-description-simplified = { -brand-short-name } escaf
 about-private-browsing-learn-more-link = Ne saber mai
 about-private-browsing-hide-activity = Amagatz vòstras activitats e vòstres emplaçaments, pertot ont navigatz
 about-private-browsing-get-privacy = Protegissètz vòstra vida privada pertot ont navegatz
-about-private-browsing-hide-activity-1 = Amagatz vòstre navegacion e vòstre emplaçament amb { -mozilla-vpn-brand-name }.D’un simple clic, creatz una connexion securizada, amai sus un ret Wi-Fi public.
+about-private-browsing-hide-activity-1 = Amagatz vòstre navegacion e vòstre emplaçament amb { -mozilla-vpn-brand-name }. D’un simple clic, creatz una connexion securizada, amai sus un ret Wi-Fi public.
 about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
