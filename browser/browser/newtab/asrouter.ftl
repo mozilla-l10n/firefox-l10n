@@ -153,3 +153,9 @@ spotlight-public-wifi-vpn-link = Ne dabar
 spotlight-total-cookie-protection-header =
     Išbandykite mūsų galingiausią
     privatumo apsaugą
+spotlight-total-cookie-protection-body = Visapusiška slapukų apsauga neleidžia stebėjimo elementams sekti jūsų naršymą naudojant slapukus.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = „{ -brand-short-name }“ pastato užtvarą aplink slapukus, ribodama jų pasiekimą jūsų lankomoje svetainėje, todėl stebėjimo elementai negali jų naudoti jūsų sekimui. Išbandydami iš anksto, padėsite optimizuoti šį funkcionalumą, kad galėtume kurti visiems geresnį internetą.
+spotlight-total-cookie-protection-primary-button = Įjungti visapusišką slapukų apsaugą
+spotlight-total-cookie-protection-secondary-button = Ne dabar
