@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = ขนาดบัฟเฟอร์:
-
 perftools-custom-threads-label = เพิ่มหัวข้อที่กำหนดเองตามชื่อ:
-
 perftools-devtools-interval-label = ช่วงเวลา:
 perftools-devtools-threads-label = เธรด:
 perftools-devtools-settings-label = การตั้งค่า
@@ -97,11 +95,12 @@ perftools-thread-img-decoder =
     .title = เธรดการถอดรหัสรูปภาพ
 perftools-thread-dns-resolver =
     .title = การแก้ปัญหา DNS เกิดขึ้นในเธรดนี้
+perftools-thread-task-controller =
+    .title = เธรดในเธรดพูล TaskController
 
 ##
 
 perftools-record-all-registered-threads = ข้ามการเลือกด้านบนและบันทึกเธรดที่ลงทะเบียนทั้งหมด
-
 perftools-tools-threads-input-label =
     .title = ชื่อเธรดเหล่านี้เป็นรายการที่คั่นด้วยจุลภาคที่ใช้ในการเปิดใช้งานการสร้างโปรไฟล์ของเธรดในตัวสร้างโปรไฟล์ ชื่อจะต้องตรงกับชื่อเธรดที่จะรวมเพียงบางส่วนเท่านั้น โดยจะมีการเทียบช่องว่างด้วย
 
@@ -110,9 +109,29 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>ใหม่</b>: { -profiler-brand-name } ถูกรวมเข้ากับเครื่องมือสำหรับนักพัฒนาแล้ว <a>เรียนรู้เพิ่มเติม</a>เกี่ยวกับเครื่องมือใหม่อันทรงพลังนี้
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (คุณสามารถเข้าถึงแผงประสิทธิภาพแบบเดิมได้ผ่านทาง <a>{ options-context-advanced-settings }</a> ในระยะเวลาจำกัด)
-
 perftools-onboarding-close-button =
     .aria-label = ปิดข้อความออนบอร์ด
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = นักพัฒนาเว็บ
+perftools-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
+perftools-presets-firefox-platform-label = แพลตฟอร์ม Firefox
+perftools-presets-firefox-platform-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กแพลตฟอร์ม Firefox ภายใน
+perftools-presets-firefox-front-end-label = ฟรอนต์เอนด์ Firefox
+perftools-presets-firefox-front-end-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กฟรอนต์เอนด์ Firefox ภายใน
+perftools-presets-firefox-graphics-label = กราฟิก Firefox
+perftools-presets-firefox-graphics-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการตรวจสอบประสิทธิภาพด้านกราฟิกของ Firefox
+perftools-presets-media-label = สื่อ
+perftools-presets-media-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการวินิจฉัยปัญหาเกี่ยวกับเสียงและวิดีโอ
+perftools-presets-custom-label = กำหนดเอง
+
+##
+

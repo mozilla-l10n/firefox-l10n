@@ -68,7 +68,7 @@ upgrade-dialog-theme-system = ชุดตกแต่งระบบ
 ## Start screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-start-title = สีสันแห่งชีวิต
+upgrade-dialog-start-title = Life in color
 upgrade-dialog-start-subtitle = ชุดรูปแบบสีใหม่ที่สดใส มีให้ใช้ในช่วงเวลาจำกัด
 upgrade-dialog-start-primary-button = สำรวจชุดรูปแบบสี
 upgrade-dialog-start-secondary-button = ไม่ใช่ตอนนี้
@@ -111,3 +111,7 @@ upgrade-dialog-colorway-variation-bold = Bold
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = ขอบคุณที่เลือกเรา
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } เป็นเบราว์เซอร์อิสระที่สนับสนุนโดยองค์กรไม่แสวงหาผลกำไร เรากำลังร่วมกันทำให้เว็บปลอดภัยขึ้น แข็งแกร่งขึ้น และเป็นส่วนตัวมากขึ้น
+upgrade-dialog-thankyou-primary-button = เริ่มการเรียกดู

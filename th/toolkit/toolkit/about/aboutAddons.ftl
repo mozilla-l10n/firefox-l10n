@@ -251,6 +251,7 @@ install-theme-button = ติดตั้งชุดตกแต่ง
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = จัดการ
 find-more-addons = ค้นหาส่วนเสริมเพิ่มเติม
+find-more-themes = ค้นหาชุดตกแต่งเพิ่มเติม
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -280,6 +281,8 @@ extension-enabled-heading = ถูกเปิดใช้งาน
 extension-disabled-heading = ถูกปิดใช้งาน
 theme-enabled-heading = ถูกเปิดใช้งาน
 theme-disabled-heading = ถูกปิดใช้งาน
+theme-monochromatic-heading = ชุดรูปแบบสี
+theme-monochromatic-subheading = ชุดรูปแบบใหม่ที่สดใสจาก { -brand-product-name } มีให้ใช้ในช่วงเวลาจำกัด
 plugin-enabled-heading = ถูกเปิดใช้งาน
 plugin-disabled-heading = ถูกปิดใช้งาน
 dictionary-enabled-heading = ถูกเปิดใช้งาน

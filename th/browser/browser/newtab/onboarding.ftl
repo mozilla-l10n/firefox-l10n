@@ -150,7 +150,7 @@ mr1-onboarding-import-primary-button-label-attribution = นำเข้าจ�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = นำเข้าจากเบราว์เซอร์ก่อนหน้า
 mr1-onboarding-import-secondary-button-label = ไม่ใช่ตอนนี้
-mr2-onboarding-colorway-header = สีสันแห่งชีวิต
+mr2-onboarding-colorway-header = Life in color
 mr2-onboarding-colorway-subtitle = ชุดรูปแบบสีใหม่ที่สดใส มีให้ใช้ในช่วงเวลาจำกัด
 mr2-onboarding-colorway-primary-button-label = บันทึกชุดรูปแบบสี
 mr2-onboarding-colorway-secondary-button-label = ไม่ใช่ตอนนี้
