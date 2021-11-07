@@ -951,6 +951,8 @@ content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten ele
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Hartu parte gure orainoko proba pilotu boteretsuenean
     .accesskey = H
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Cookien erabateko babesak zauden guneko cookieak ditu soilik, hortaz jarraipen-elementuek ezin dituzte erabili guneen arteko zure jarraipena egiteko.
 content-blocking-etp-standard-tcp-rollout-learn-more = Argibide gehiago
 content-blocking-warning-title = Argi!
 content-blocking-and-isolating-etp-warning-description = Jarraipen-elementuak blokeatuz eta cookieak bakartuz gero, zenbait gunetako eginbideak kaltetu litezke. Eduki guztiak kargatzeko, berritu jarraipen-elementuak dituen orria.
