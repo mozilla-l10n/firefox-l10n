@@ -717,17 +717,17 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = אפשר חלונות קופצים עבור { $uriHost }
-    .accesskey = ח
+    .label = לאפשר חלונות קופצים עבור { $uriHost }
+    .accesskey = א
 popups-infobar-block =
-    .label = חסימת חלונות קופצים עבור { $uriHost }
+    .label = לחסום חלונות קופצים עבור { $uriHost }
     .accesskey = ח
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = אל תראה הודעה זו בעת חסימת חלונות קופצים
-    .accesskey = א
+    .label = לא להציג הודעה זו בעת חסימת חלונות קופצים
+    .accesskey = ל
 edit-popup-settings =
     .label = ניהול הגדרות של חלונות קופצים…
     .accesskey = ח
