@@ -169,6 +169,11 @@ newtab-label-sponsored = { $sponsorOrSource } · ผู้สนับสนุ�
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = สนับสนุนโดย { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } นาที
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -221,10 +226,25 @@ newtab-discovery-empty-section-topstories-timed-out = อุ๊ปส์! เร
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = หัวข้อยอดนิยม:
+newtab-pocket-new-topics-title = ต้องการเรื่องราวเพิ่มเติมหรือไม่ ดูหัวข้อยอดนิยมเหล่านี้จาก { -pocket-brand-name }
 newtab-pocket-more-recommendations = คำแนะนำเพิ่มเติม
 newtab-pocket-learn-more = เรียนรู้เพิ่มเติม
 newtab-pocket-cta-button = รับ { -pocket-brand-name }
 newtab-pocket-cta-text = บันทึกเรื่องราวที่คุณรักลงใน { -pocket-brand-name } และเติมเต็มสมองของคุณด้วยบทความที่น่าหลงใหล
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } เป็นส่วนหนึ่งของตระกูล { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = บันทึกไปยัง { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = บันทึกไปยัง { -pocket-brand-name } แล้ว
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = โหลดเรื่องราวเพิ่มเติม
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว!
+newtab-pocket-last-card-desc = คุณสามารถกลับมาตรวจดูเรื่องราวเพิ่มเติมได้ภายหลัง
+newtab-pocket-last-card-image =
+    .alt = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

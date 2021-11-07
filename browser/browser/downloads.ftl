@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = แสดงใน Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] แสดงในโฟลเดอร์
+           *[other] แสดงในโฟลเดอร์
+        }
+    .accesskey = ฟ
 downloads-cmd-use-system-default =
     .label = เปิดในตัวดูของระบบ
     .accesskey = ต
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = เปิดในตัวดูของระบบเสมอ
     .accesskey = ส
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] แสดงใน Finder
            *[other] เปิดโฟลเดอร์ที่บรรจุ
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = เปิดไฟล์ที่คล้ายกันเสมอ
+    .accesskey = ส
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] แสดงในโฟลเดอร์
+           *[other] แสดงในโฟลเดอร์
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] แสดงในโฟลเดอร์
+           *[other] แสดงในโฟลเดอร์
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] แสดงในโฟลเดอร์
+           *[other] แสดงในโฟลเดอร์
         }
 downloads-cmd-show-downloads =
     .label = แสดงโฟลเดอร์การดาวน์โหลด
@@ -162,3 +194,11 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ไม่มีการดาวน์โหลดในวาระนี้
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+       *[other] อีก { $count } ไฟล์กำลังดาวน์โหลดอยู่
+    }

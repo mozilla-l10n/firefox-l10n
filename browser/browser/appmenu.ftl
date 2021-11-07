@@ -128,6 +128,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = ตัวสร้างโปรไฟล์
     .tooltiptext = บันทึกโปรไฟล์ประสิทธิภาพ
+profiler-popup-button-recording =
+    .label = ตัวสร้างโปรไฟล์
+    .tooltiptext = ตัวสร้างโปรไฟล์กำลังอัดบันทึกโปรไฟล์
+profiler-popup-button-capturing =
+    .label = ตัวสร้างโปรไฟล์
+    .tooltiptext = ตัวสร้างโปรไฟล์กำลังจับโปรไฟล์
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -176,6 +182,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
+profiler-popup-presets-web-developer-label =
+    .label = นักพัฒนาเว็บ
+profiler-popup-presets-firefox-platform-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กแพลตฟอร์ม Firefox ภายใน
+profiler-popup-presets-firefox-platform-label =
+    .label = แพลตฟอร์ม Firefox
+profiler-popup-presets-firefox-front-end-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กฟรอนต์เอนด์ Firefox ภายใน
+profiler-popup-presets-firefox-front-end-label =
+    .label = ฟรอนต์เอนด์ Firefox
+profiler-popup-presets-firefox-graphics-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการตรวจสอบประสิทธิภาพด้านกราฟิกของ Firefox
+profiler-popup-presets-firefox-graphics-label =
+    .label = กราฟิก Firefox
+profiler-popup-presets-media-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการวินิจฉัยปัญหาเกี่ยวกับเสียงและวิดีโอ
+profiler-popup-presets-media-label =
+    .label = สื่อ
+profiler-popup-presets-custom-label =
+    .label = กำหนดเอง
 
 ## History panel
 
