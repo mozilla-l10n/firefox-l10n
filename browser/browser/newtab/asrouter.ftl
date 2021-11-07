@@ -149,5 +149,9 @@ spotlight-public-wifi-vpn-link = Une honetan ez
 spotlight-total-cookie-protection-header =
     Hartu parte gure orainoko
     proba pilotu boteretsuenean
+spotlight-total-cookie-protection-body = Cookien erabateko babesarekin jarraipen-elementuek ezingo dituzte webean zehar zelatatzen zaituzten cookieak erabili.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }(e)k hesi bat sortzen du cookien inguruan eta zauden gunera mugatzen ditu, hauek zure jarraipena egiteko erabiltzea galarazteko. Sarbide esklusiboarekin, eginbide hau optimizatzen lagunduko duzu, guztiontzat hobea den weba eraikitzen jarraitzeko.
 spotlight-total-cookie-protection-primary-button = Gaitu cookien erabateko babesa
 spotlight-total-cookie-protection-secondary-button = Orain ez
