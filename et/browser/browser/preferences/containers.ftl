@@ -5,10 +5,13 @@
 containers-window-new =
     .title = Uue konteineri lisamine
     .style = width: 45em
-
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings =
+    .title = Konteineri sätted - { $name }
+    .style = width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nimi
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Sisesta konteineri nimi
-
 containers-icon-label = Ikoon
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Värv
     .accesskey = V
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Valmis
     .buttonaccesskeyaccept = a
-
 containers-color-blue =
     .label = Sinine
 containers-color-turquoise =
@@ -57,7 +54,6 @@ containers-color-purple =
     .label = Lilla
 containers-color-toolbar =
     .label = Tööriistaribaga ühilduv
-
 containers-icon-fence =
     .label = Piirdeaed
 containers-icon-fingerprint =
