@@ -74,6 +74,11 @@ downloads-cmd-show-description =
             [macos] Avaa Finderissa
            *[other] Avaa tallennuskansio
         }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Avaa aina samankaltaiset tiedostot
+    .accesskey = A
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
@@ -189,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ei latauksia tämän istunnon aikana.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } tiedosto lisää latautumassa
+       *[other] { $count } tiedostoa lisää latautumassa
+    }
