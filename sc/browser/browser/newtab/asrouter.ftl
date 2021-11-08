@@ -137,8 +137,8 @@ spotlight-learn-more-expanded = Àteras informatziones
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Paret chi ses impreende una rete Wi-Fi pùblica
-spotlight-public-wifi-vpn-body = Pro cuare sa positzione tua e s'atividade de navigatzione, cunsìdera de impreare una rete privada virtuale (VPN). T'at a agiudare a abarrare suta protetzione cando ses navighende in logos pùblicos comente aeroportos e tzilleris.
-spotlight-public-wifi-vpn-primary-button = Abarra suta protetzione cun { -mozilla-vpn-brand-name }
+spotlight-public-wifi-vpn-body = Pro cuare sa positzione tua e s'atividade de navigatzione, cunsìdera de impreare una rete privada virtuale (VPN). T'at a agiudare a abarrare suta amparu cando ses navighende in logos pùblicos comente aeroportos e tzilleris.
+spotlight-public-wifi-vpn-primary-button = Abarra suta amparu cun { -mozilla-vpn-brand-name }
     .accesskey = s
 spotlight-public-wifi-vpn-link = Immoe nono
     .accesskey = n
@@ -150,6 +150,9 @@ spotlight-public-wifi-vpn-link = Immoe nono
 spotlight-total-cookie-protection-header =
     Proa in anteprima s'esperièntzia de riservadesa
     prus poderosa de semper
-spotlight-total-cookie-protection-body = Sa protetzione totale contra is testimòngios arressa is sighidores dae s'impreu de is testimòngios pro ti sighire a inghìriu de sa rete.
-spotlight-total-cookie-protection-primary-button = Ativa sa protetzione totale contra is testimòngios (cookies)
+spotlight-total-cookie-protection-body = S'amparu totale contra is testimòngios arressa is sighidores dae s'impreu de is testimòngios pro ti sighire a inghìriu de sa rete.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } creat una cresura a inghìriu de is testimòngios, limitende·ddos a su situ in ue ses, in manera chi is sighidores non ddos potzant impreare pro ti sighire. Impreende custa funtzionalidade in antìtzipu, as a agiudare a dda megiorare, pro creare una rete megiore pro totus.
+spotlight-total-cookie-protection-primary-button = Ativa s'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-secondary-button = Immoe nono
