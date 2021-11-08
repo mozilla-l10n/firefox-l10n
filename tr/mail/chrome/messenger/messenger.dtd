@@ -491,6 +491,7 @@
 <!ENTITY importCmd.label "İçe aktar…">
 <!ENTITY importCmd.accesskey "t">
 <!ENTITY exportCmd.label "Dışa aktar…">
+<!ENTITY exportCmd.accesskey "D">
 <!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
 <!ENTITY clearRecentHistory.accesskey "t">
 <!ENTITY accountManagerCmd2.label "Hesap ayarları">
