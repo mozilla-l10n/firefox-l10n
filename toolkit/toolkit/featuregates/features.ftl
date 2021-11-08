@@ -46,7 +46,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Kjo veçori ju lejon të shfaqni një buton te rreshti i urdhrave të konsolës, i cili ju lejon të ndryshoni kontekstin në të cilin do të ekzekutohet shprehja që dhatë. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla1">të metën 1605154</a> dhe <a data-l10n-name="bugzilla2">të metën 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Mjete Zhvilluesi: Panel Përputhshmërie
-experimental-features-devtools-compatibility-panel-description = Një panel anësor për Mbikëqyrësin e Faqes, që ju shfaq hollësi rreth gjendjes së përputhshmërisë të aplikacionit tuaj nëpër shfletues. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1584464</a>.
+experimental-features-devtools-compatibility-panel-description = Një panel anësor për Inspektorin e Faqes, që ju shfaq hollësi rreth gjendjes së përputhshmërisë të aplikacionit tuaj nëpër shfletues. Për më tepër hollësi, shihni <a data-l10n-name="bugzilla">të metën 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax, si parazgjedhje
