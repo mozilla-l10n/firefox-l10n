@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, lomaketiedot, henkilökohtaiset varmenteet sekä salaiset salausavaimet menetetään.">
 <!ENTITY  resetpassword.button                   "Poista salasana">
 <!ENTITY  resetpassword.accesskey                "P">
+<!ENTITY  resetpassword2.button                  "Nollaa salasana">
+<!ENTITY  resetpassword2.accesskey               "N">
