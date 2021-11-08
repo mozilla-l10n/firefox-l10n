@@ -5,68 +5,63 @@
 permissions-window =
     .title = Erandid
     .style = width: 36em
-
 permissions-close-key =
     .key = W
-
 permissions-address = Saidi aadress
     .accesskey = a
-
 permissions-block =
     .label = Bloki
     .accesskey = B
-
 permissions-session =
     .label = Luba selleks seansiks
     .accesskey = s
-
 permissions-allow =
     .label = Luba
     .accesskey = a
-
+permissions-button-off =
+    .label = Lülita välja
+    .accesskey = L
+permissions-button-off-temporarily =
+    .label = Lülita ajutiselt välja
+    .accesskey = j
 permissions-site-name =
     .label = Sait
-
 permissions-status =
     .label = Olek
-
 permissions-remove =
     .label = Eemalda sait
     .accesskey = E
-
 permissions-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Vaikeväärtus kõigi saitide jaoks:
-
 permissions-searchbox =
     .placeholder = Otsi saiti
-
 permissions-capabilities-autoplay-allow =
     .label = heli ja video lubatakse
 permissions-capabilities-autoplay-block =
     .label = heli blokitakse
 permissions-capabilities-autoplay-blockall =
     .label = heli ja video blokitakse
-
 permissions-capabilities-allow =
     .label = Lubatud
 permissions-capabilities-block =
     .label = Blokitud
 permissions-capabilities-prompt =
     .label = Alati küsitakse
-
 permissions-capabilities-listitem-allow =
     .value = Lubatud
 permissions-capabilities-listitem-block =
     .value = Blokitud
 permissions-capabilities-listitem-allow-session =
     .value = Lubatud seansi jooksul
+permissions-capabilities-listitem-off =
+    .value = Väljas
+permissions-capabilities-listitem-off-temporarily =
+    .value = Ajutiselt väljas
 
 ## Invalid Hostname Dialog
 
@@ -88,6 +83,11 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = Siin saad määrata, millistel saitidel on alati või mitte kunagi lubatud küpsiste ja saidi andmete kasutamine.  Sisesta hallatava saidi täpne aadress ning seejärel klõpsa Bloki, Luba selleks seansiks või Luba.
 
 ## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = HTTPS-režiim - erandid
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Kindlate saitide puhul on võimalik HTTPS-režiim välja lülitada. Nende saitide puhul ei ürita { -brand-short-name } ühendust turvaliseks sundida. Erandid ei rakendu privaatsetele akendele.
 
 ## Exceptions - Pop-ups
 
@@ -139,6 +139,13 @@ permissions-site-location-disable-desc = See takistab kõigil ülal mitte välja
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Sätted - virtuaalreaalsuse õigused
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Järgnevad saidid on avaldanud soovi ligipääsuks sinu virtuaalreaalsuse seadmetele. Siin saad määrata, millistel saitidel on ligipääs sinu virtuaalreaalsuse seadmetele. Samuti saad blokkida uusi soove pääseda ligi sinu virtuaalreaalsuse seadmetele.
+permissions-site-xr-disable-label =
+    .label = Bloki uued virtuaalreaalsuse seadmete ligipääsemise soovid
+permissions-site-xr-disable-desc = See takistab kõigil ülal mitte välja toodud saitidel virtuaalreaalsuse seadmetele ligipääsu kohta soovi avaldada. Virtuaalreaalsuse seadmetele ligipääsu blokkimine võib põhjustada probleeme mõne saidi töötamises.
 
 ## Site Permissions - Camera
 
