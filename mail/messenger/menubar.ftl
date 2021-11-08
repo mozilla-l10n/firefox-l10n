@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Asetukset
     .accesskey = A
+menu-tools-settings =
+    .label = Asetukset
+    .accesskey = A
 menu-addons-and-themes =
     .label = Lisäosat ja teemat
     .accesskey = L
