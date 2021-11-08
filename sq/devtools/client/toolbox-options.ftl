@@ -25,7 +25,7 @@ options-select-dev-tools-theme-label = Tema
 ## Inspector section
 
 # The heading
-options-context-inspector = Mbikëqyrës
+options-context-inspector = Inspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Shfaqni Stile Shfletuesi
 options-show-user-agent-styles-tooltip =
@@ -33,7 +33,7 @@ options-show-user-agent-styles-tooltip =
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Cungo atribute DOM
 options-collapse-attrs-tooltip =
-    .title = Cungo te mbikëqyrësi atribute të gjatë
+    .title = Cungo te inspektori atribute të gjatë
 
 ## "Default Color Unit" options for the Inspector
 
