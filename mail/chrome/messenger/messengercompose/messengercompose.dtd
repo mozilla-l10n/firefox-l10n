@@ -23,7 +23,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vCard">
 <!ENTITY attachVCardCmd.accesskey "v">
-<!ENTITY remindLater.label "Lembrar-me depois">
+<!ENTITY remindLater.label "Lembrar mais tarde">
 <!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Fechar">
 <!ENTITY closeCmd.key "w">
