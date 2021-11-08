@@ -25,6 +25,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Lisäosat ja teemat
     .tooltiptext = Hallitse lisäosia
+quick-filter-toolbarbutton =
+    .label = Pikasuodatus
+    .tooltiptext = Suodata viestejä
 redirect-msg-button =
     .label = Uudelleenohjaa
     .tooltiptext = Uudelleenohjaa valittu viesti
@@ -73,11 +76,13 @@ menu-file-save-as-file =
 
 ## AppMenu
 
-appmenu-save-as-file =
-    .label = Tiedosto…
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 appmenu-preferences =
+    .label = Asetukset
+appmenu-save-as-file =
+    .label = Tiedosto…
+appmenu-settings =
     .label = Asetukset
 appmenu-addons-and-themes =
     .label = Lisäosat ja teemat

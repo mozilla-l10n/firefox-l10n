@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Sulje
 preferences-doc-title = Asetukset
+preferences-doc-title2 = Asetukset
 category-list =
     .aria-label = Luokat
 pane-general-title = Yleiset
@@ -117,6 +118,9 @@ restore-default-label =
 default-search-engine = Oletushakukone
 add-search-engine =
     .label = Lisää tiedostosta
+    .accesskey = L
+add-web-search-engine =
+    .label = Lisää…
     .accesskey = L
 remove-search-engine =
     .label = Poista
@@ -317,6 +321,7 @@ type-column-label =
 action-column-label =
     .label = Toiminto
     .accesskey = o
+type-column-header = Sisältötyyppi
 save-to-label =
     .label = Tallenna kansioon
     .accesskey = T
@@ -684,6 +689,9 @@ search-preferences-input =
     .placeholder = Etsi asetuksista
 
 ## Preferences UI Search Results
+
+
+## Settings UI Search Results
 
 search-results-header = Hakutulokset
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
