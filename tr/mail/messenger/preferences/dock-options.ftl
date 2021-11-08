@@ -21,3 +21,4 @@ count-new-messages-radio =
     .label = Yeni ileti sayısı
     .accesskey = s
 notification-settings-info = Rozeti, Sistem Tercihleri'nde bulunan Bildirim panelinden kapatabilirsiniz.
+notification-settings-info2 = Rozeti, Sistem Ayarları'nda bulunan Bildirim panelinden kapatabilirsiniz.

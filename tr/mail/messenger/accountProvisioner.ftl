@@ -6,6 +6,7 @@ account-provisioner-tab-title = Bir servis sağlayıcıdan yeni bir e-posta adre
 provisioner-searching-icon =
     .alt = Aranıyor…
 account-provisioner-title = Yeni e-posta adresi oluştur
+account-provisioner-description = Güvenilir iş ortaklarımız aracılığıyla yeni, gizli ve güvenli bir e-posta adresi alabilirsiniz.
 account-provisioner-mail-account-title = Yeni bir e-posta adresi satın al
 account-provisioner-domain-title = Kendime ait bir e-posta ve alan adı satın al
 

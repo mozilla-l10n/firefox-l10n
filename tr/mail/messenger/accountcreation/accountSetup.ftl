@@ -109,6 +109,7 @@ account-setup-step5-image =
 account-setup-privacy-footnote2 = Hesap bilgileriniz yalnızca yerel olarak bilgisayarınızda depolanır.
 account-setup-selection-help = Neyi seçeceğinizden emin değil misiniz?
 account-setup-selection-error = Yardım mı lazım?
+account-setup-success-help = Şimdi ne yapmanız gerektiğinden emin değil misiniz?
 account-setup-documentation-help = Kurulum belgeleri
 account-setup-forum-help = Destek forumu
 account-setup-privacy-help = Gizlilik ilkeleri
