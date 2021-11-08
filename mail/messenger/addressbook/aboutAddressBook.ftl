@@ -69,6 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = E-posta adresine göre sırala (A > Z)
 about-addressbook-sort-email-descending =
     .label = E-posta adresine göre sırala (Z > A)
+about-addressbook-cards-context-write =
+    .label = Yaz
 about-addressbook-confirm-delete-mixed-title = Kişileri ve listeleri sil
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.

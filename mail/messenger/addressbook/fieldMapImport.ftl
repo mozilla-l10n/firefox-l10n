@@ -5,6 +5,8 @@
 import-ab-csv-window =
     .title = Adres defterini metin dosyasından içe aktar
 import-ab-csv-dialog-title = Adres defterini metin dosyasından içe aktar
+#   $recordNumber (Number) - The current record number of the preview data.
+import-ab-csv-preview-record-number = { $recordNumber } kaydı için veri içe aktarımının önizlemesi
 import-ab-csv-dialog =
     .buttonlabelaccept = İçe aktar
     .buttonaccesskeyaccept = İ

@@ -138,4 +138,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Yanıt desteklenmiyor
+no-reply-message = Yanıt adresi ({ $email }) izlenen bir adrese benzemiyor. Bu adrese gönderilen iletiler muhtemelen okunmayacaktır.
 no-reply-reply-anyway-button = Yine de yanıtla

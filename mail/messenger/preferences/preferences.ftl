@@ -251,6 +251,9 @@ diskspace-legend = Disk Alanı
 offline-compact-folder =
     .label = Toplam
     .accesskey = o
+offline-compact-folder-automatically =
+    .label = Sıkıştırmadan önce her seferinde sor
+    .accesskey = o
 compact-folder-size =
     .value = MB kazanılabileceği zaman tüm dizinleri sıkıştır
 

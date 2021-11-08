@@ -37,6 +37,7 @@ state-generic-not-private = Bu görüşme gizli değil.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = { $name } kişisinin kimliği henüz doğrulanmadığından geçerli ileti dizisi şifrelenmiş ancak gizli değil.
+state-generic-unverified = Bazı kişilerin kimliği henüz doğrulanmadığından geçerli ileti dizisi şifrelenmiş ancak gizli değil.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = { $name } kişisinin kimliği doğrulandı. Geçerli görüşme artık şifrelenmiş ve gizlidir.
