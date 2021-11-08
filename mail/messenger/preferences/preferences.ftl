@@ -271,7 +271,7 @@ use-cache-after = MB de espaço para o cache
 ##
 
 smart-cache-label =
-    .label = Substituir o gerenciamento automático do cache
+    .label = Substituir gerenciamento automático de cache
     .accesskey = u
 clear-cache-button =
     .label = Limpar cache agora
