@@ -12,8 +12,13 @@ unknowncontenttype-settingschange =
            *[other] Nuostatas galima pakeisti „{ -brand-short-name }“ nuostatų lange.
         }
 unknowncontenttype-intro = Pasirinkote atverti failą:
+unknowncontenttype-which-is = tipas:
 unknowncontenttype-from = iš:
 unknowncontenttype-prompt = Ar įrašyti šį failą?
+unknowncontenttype-action-question = Ką „{ -brand-short-name }“ turėtų daryti su šiuo failu?
+unknowncontenttype-open-with =
+    .label = atverti programa:
+    .accesskey = t
 unknowncontenttype-other =
     .label = Kita…
 unknowncontenttype-choose-handler =
