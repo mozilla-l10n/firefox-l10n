@@ -11,6 +11,8 @@ unknowncontenttype-settingschange =
             [windows] Pode modificar a configuración nas Opcións de { -brand-short-name }.
            *[other] Pode modificar a configuración nas Preferencias de { -brand-short-name }.
         }
+unknowncontenttype-intro = Escolleu abrir:
+unknowncontenttype-which-is = que é:
 unknowncontenttype-from = de:
 unknowncontenttype-prompt = Desexa gardar este ficheiro?
 unknowncontenttype-action-question = Que debe facer { -brand-short-name } con este ficheiro?
