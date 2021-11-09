@@ -5,10 +5,13 @@
 unknowncontenttype-handleinternally =
     .label = Otvori pomoću { -brand-short-name }
     .accesskey = m
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Postavke mogu biti promijenjene u  { -brand-short-name }ovim mogućnostima.
            *[other] Postavke se mogu promijeniti u { -brand-short-name } postavkama.
         }
+unknowncontenttype-from = iz:
+unknowncontenttype-action-question = Što bi { -brand-short-name } trebao učiniti s ovom datotekom?
+unknowncontenttype-other =
+    .label = Drugo...
