@@ -11,6 +11,10 @@ unknowncontenttype-settingschange =
             [windows] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
            *[other] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
         }
+unknowncontenttype-intro = Megnyitotta a következőt:
+unknowncontenttype-which-is = ami egy:
 unknowncontenttype-from = forrás:
 unknowncontenttype-prompt = Szeretné menteni ezt a fájlt?
 unknowncontenttype-action-question = Mit tegyen a { -brand-short-name } ezzel a fájllal?
+unknowncontenttype-other =
+    .label = Másik…
