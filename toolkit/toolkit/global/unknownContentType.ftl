@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Les paramètres peuvent être modifiés dans le Menu Préférences de { -brand-short-name }.
         }
 unknowncontenttype-intro = Vous avez choisi d’ouvrir :
+unknowncontenttype-which-is = qui est un fichier de type :
 unknowncontenttype-from = à partir de :
 unknowncontenttype-prompt = Voulez-vous enregistrer ce fichier ?
 unknowncontenttype-action-question = Que doit faire { -brand-short-name } avec ce fichier ?
