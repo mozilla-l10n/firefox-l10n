@@ -5,16 +5,13 @@
 containers-window-new =
     .title = Ychwanegu Cynhwysydd Newydd
     .style = width: 45em
-
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
-    .title = Dewisiadau Cynhwysyddion { $name }
+    .title = Dewisiadau Cynwysyddion { $name }
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -25,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Enw
     .accesskey = E
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Rhowch enw cynhwysydd
-
 containers-icon-label = Eicon
     .accesskey = E
     .style = { -containers-labels-style }
-
 containers-color-label = Lliw
     .accesskey = L
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Gorffen
     .buttonaccesskeyaccept = G
-
 containers-color-blue =
     .label = Glas
 containers-color-turquoise =
@@ -63,7 +54,6 @@ containers-color-purple =
     .label = Porffor
 containers-color-toolbar =
     .label = Cydweddu'r bar offer
-
 containers-icon-fence =
     .label = Ffens
 containers-icon-fingerprint =
