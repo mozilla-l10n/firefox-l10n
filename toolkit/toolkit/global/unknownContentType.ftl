@@ -8,3 +8,13 @@ unknowncontenttype-settingschange =
             [windows] Teelte ena mbaawi wayleede e Cuɓe { -brand-short-name }.
            *[other] Teelte ena mbaawi wayleede to Cuɓoraaɗe { -brand-short-name }.
         }
+unknowncontenttype-prompt = Aɗa yiɗi danndude ndee fiilde?
+unknowncontenttype-action-question = Hol ko { -brand-short-name } foti waɗde e ndee fiilde?
+unknowncontenttype-open-with =
+    .label = Udditir
+    .accesskey = U
+unknowncontenttype-other =
+    .label = Goɗɗum…
+unknowncontenttype-remember-choice =
+    .label = Waɗ ɗum e jaajol dow piille nannduɗe e ndee-ɗoo tuggi jooni.
+    .accesskey = j
