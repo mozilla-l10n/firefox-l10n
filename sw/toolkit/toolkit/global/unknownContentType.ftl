@@ -8,3 +8,28 @@ unknowncontenttype-settingschange =
             [windows] Mipangilio inaweza kubadilishwa katika { -brand-short-name } Chaguo.
            *[other] Mipangilio inaweza kubadilishwa katika { -brand-short-name } Mapendeleo.
         }
+unknowncontenttype-from = kutoka:
+unknowncontenttype-prompt = Ungetaka kuhifadhi faili hii?
+unknowncontenttype-action-question = Je { -brand-short-name } inafaa kufanya nini na faili hii?
+unknowncontenttype-open-with =
+    .label = Fungua na
+    .accesskey = F
+unknowncontenttype-other =
+    .label = Nyingine…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Chagua…
+           *[other] Vinjari…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] V
+        }
+unknowncontenttype-save-file =
+    .label = Hifadhi Faili
+    .accesskey = H
+unknowncontenttype-remember-choice =
+    .label = Fanya hivi kiotomatiki kwa faili kama hizi kuanzia sasa kuendelea.
+    .accesskey = k
