@@ -18,6 +18,20 @@ unknowncontenttype-open-with =
     .accesskey = O
 unknowncontenttype-other =
     .label = অন্যান্য…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] নির্বাচন…
+           *[other] ব্রাউজ…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = ফাইল সংরক্ষণ
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = এই ধরনের ফাইলের জন্য এখন থেকে স্বয়ংক্রিয়ভাবে এই ব্যবস্থা গ্রহণ করা হবে। (a)
     .accesskey = a
