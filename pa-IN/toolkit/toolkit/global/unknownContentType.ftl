@@ -14,6 +14,8 @@ unknowncontenttype-settingschange =
 unknowncontenttype-intro = ਤੁਹਾਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਚੋਣ ਕਰਨੀ ਪਵੇਗੀ:
 unknowncontenttype-which-is = ਕਿਹੜੀ ਹੈ:
 unknowncontenttype-from = ਇੱਥੋਂ:
+unknowncontenttype-prompt = ਕੀ ਤੁਸੀਂ ਇਹ ਫਾਈਲ ਸੰਭਾਲਣੀ ਚਾਹੁੰਦੇ ਹੋ?
+unknowncontenttype-action-question = { -brand-short-name } ਇਸ ਫਾਈਲ ਨਾਲ ਕੀ ਕਰੇ?
 unknowncontenttype-open-with =
     .label = ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ
     .accesskey = o
@@ -30,3 +32,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = ਫਾਈਲ ਸੰਭਾਲੋ
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = ਇਸ ਤਰਾਂ ਦੀਆਂ ਫਾਈਲਾਂ ਨਾਲ ਖੁਦ ਇੰਜ ਹੀ ਕਰੋ
+    .accesskey = a
