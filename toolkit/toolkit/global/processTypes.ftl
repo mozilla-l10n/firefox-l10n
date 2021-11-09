@@ -8,28 +8,24 @@
 ##
 
 process-type-web = Webtartalom
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegizált „about” oldal
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Privilegizált Mozilla tartalom
-
 process-type-extension = Kiegészítő
-
 # process used to open file:// URLs
 process-type-file = Helyi fájl
-
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Nagy lefoglalás
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Elkülönített webtartalom
-
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Izolált Service Worker
 # process preallocated; may change to other types
 process-type-prealloc = Előre lefoglalt
 
@@ -39,14 +35,11 @@ process-type-prealloc = Előre lefoglalt
 
 process-type-default = Elsődleges
 process-type-tab = Lap
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Foglalat
-
 # process used to decode media
 process-type-rdd = RDD
 
