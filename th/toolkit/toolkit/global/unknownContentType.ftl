@@ -5,10 +5,11 @@
 unknowncontenttype-handleinternally =
     .label = เปิดด้วย { -brand-short-name }
     .accesskey = ป
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] การตั้งค่าสามารถเปลี่ยนได้ในตัวเลือกของ { -brand-short-name }
            *[other] การตั้งค่าสามารถเปลี่ยนได้ในค่ากำหนดของ { -brand-short-name }
         }
+unknowncontenttype-other =
+    .label = อื่น ๆ…
