@@ -13,3 +13,17 @@ unknowncontenttype-from = पासून:
 unknowncontenttype-action-question = { -brand-short-name } नी या फाइलशी काय करावे?
 unknowncontenttype-other =
     .label = इतर...
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] निवडा…
+           *[other] चाळा…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-remember-choice =
+    .label = आत्तापासून यापुढे ह्या फाइल्सकरिता असेच आपोआप करा.
+    .accesskey = a
