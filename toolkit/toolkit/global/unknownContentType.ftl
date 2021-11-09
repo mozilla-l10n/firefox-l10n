@@ -12,7 +12,13 @@ unknowncontenttype-settingschange =
            *[other] Μπορείτε να αλλάξετε τις ρυθμίσεις στις προτιμήσεις του { -brand-short-name }.
         }
 unknowncontenttype-which-is = που είναι:
+unknowncontenttype-from = από:
 unknowncontenttype-prompt = Θέλετε να αποθηκεύσετε αυτό το αρχείο;
+unknowncontenttype-open-with =
+    .label = Άνοιγμα με
+    .accesskey = ν
+unknowncontenttype-other =
+    .label = Άλλο...
 unknowncontenttype-save-file =
     .label = Αποθήκευση αρχείου
     .accesskey = σ
