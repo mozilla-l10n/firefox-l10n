@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Optionen können in den { -brand-short-name }-Einstellungen geändert werden.
         }
 unknowncontenttype-intro = Sie möchten folgende Datei öffnen:
+unknowncontenttype-which-is = Vom Typ:
 unknowncontenttype-from = Von:
 unknowncontenttype-prompt = Möchten Sie diese Datei speichern?
 unknowncontenttype-action-question = Wie soll { -brand-short-name } mit dieser Datei verfahren?
