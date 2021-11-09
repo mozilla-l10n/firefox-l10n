@@ -8,3 +8,5 @@ unknowncontenttype-settingschange =
             [windows] E inpostaçioin peuan ese cangiæ inte Preferense de { -brand-short-name }
            *[other] E inpostaçioin peuan ese cangiæ inte Preferense de { -brand-short-name }.
         }
+unknowncontenttype-from = da:
+unknowncontenttype-action-question = E cöse dovieiva fâ o { -brand-short-name } con sto file?
