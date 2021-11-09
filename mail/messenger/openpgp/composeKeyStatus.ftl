@@ -16,4 +16,9 @@ openpgp-recip-missing = s’ka kyçe
 openpgp-recip-none-accepted = s’ka kyç të pranuar
 openpgp-compose-general-info-alias = { -brand-short-name }-i normalisht lyp që kyçi publik i marrësit të përmbajë një ID përdoruesi me një adresë email që përputhet. Kjo mund të anashkalohet duke përdorur rregulla OpenPGP aliasesh marrësi.
 openpgp-compose-general-info-alias-learn-more = Mësoni më tepër
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] përshoqëruar një kyçi aliasi
+       *[other] përshoqëruar { $count } kyçeve aliasi
+    }
 openpgp-compose-alias-status-error = kyç aliasi i papërdorshëm/jo i passhëm
