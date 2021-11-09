@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Les paramètres peuvent être modifiés dans le menu Options de { -brand-short-name }.
            *[other] Les paramètres peuvent être modifiés dans le Menu Préférences de { -brand-short-name }.
         }
+unknowncontenttype-intro = Vous avez choisi d’ouvrir :
 unknowncontenttype-from = à partir de :
 unknowncontenttype-prompt = Voulez-vous enregistrer ce fichier ?
 unknowncontenttype-action-question = Que doit faire { -brand-short-name } avec ce fichier ?
