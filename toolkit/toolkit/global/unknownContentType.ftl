@@ -13,6 +13,9 @@ unknowncontenttype-which-is = जे अछि :
 unknowncontenttype-from = से:
 unknowncontenttype-prompt = की अहाँ एहि फाइल केँ सहेजब चाहैत अछि ?
 unknowncontenttype-action-question = ई फाइलक सँग { -brand-short-name } केँ कएनाइ चाही?
+unknowncontenttype-open-with =
+    .label = एकरासँ खोलू
+    .accesskey = O
 unknowncontenttype-other =
     .label = आन …
 unknowncontenttype-choose-handler =
@@ -26,6 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = फाइल सहेजू
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = ई तरहक फाइलक एहिना आब स्वचालित रूप सँ करू .
     .accesskey = a
