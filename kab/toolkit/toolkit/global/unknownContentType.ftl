@@ -12,7 +12,9 @@ unknowncontenttype-settingschange =
            *[other] Tzemreḍ ad tesnifleḍ iɣwwaṛen d umuɣ Ismenyifen n { -brand-short-name }.
         }
 unknowncontenttype-intro = Tferneḍ alduy:
+unknowncontenttype-which-is = d afaylu n tewsit:
 unknowncontenttype-from = si:
+unknowncontenttype-prompt = Tevɣiḍ ad teskelsed afaylu-yagi?
 unknowncontenttype-action-question = D acu ara yemahel { -brand-short-name } s ufaylu-yagi?
 unknowncontenttype-open-with =
     .label = Ldi s
