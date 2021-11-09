@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Optionen können in den { -brand-short-name }-Einstellungen geändert werden.
         }
 unknowncontenttype-from = Von:
+unknowncontenttype-prompt = Möchten Sie diese Datei speichern?
 unknowncontenttype-action-question = Wie soll { -brand-short-name } mit dieser Datei verfahren?
 unknowncontenttype-open-with =
     .label = Öffnen mit
