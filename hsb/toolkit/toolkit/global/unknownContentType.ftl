@@ -19,6 +19,8 @@ unknowncontenttype-action-question = Što ma { -brand-short-name } z tutej dataj
 unknowncontenttype-open-with =
     .label = Wočinić z
     .accesskey = o
+unknowncontenttype-other =
+    .label = Druhe…
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
