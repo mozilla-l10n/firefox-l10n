@@ -11,8 +11,30 @@ unknowncontenttype-settingschange =
             [windows] Oppsettet kan endrast i { -brand-short-name }, Innstilingar.
            *[other] Oppsettet kan endrast i { -brand-short-name }, Innstillingar.
         }
+unknowncontenttype-intro = Du har valt å opne:
 unknowncontenttype-which-is = som er:
 unknowncontenttype-from = Frå:
+unknowncontenttype-prompt = Vil du lagre denne fila?
+unknowncontenttype-action-question = Kva skal { -brand-short-name } gjere med denne fila?
+unknowncontenttype-open-with =
+    .label = Opne med
+    .accesskey = O
+unknowncontenttype-other =
+    .label = Andre…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Vel…
+           *[other] Bla gjennom…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = Lagre fila
+    .accesskey = L
 unknowncontenttype-remember-choice =
     .label = Gjer dette automatisk frå no av.
     .accesskey = d
