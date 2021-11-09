@@ -8,3 +8,16 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } యొక్క ఎంపికలలో అమర్పులను మార్చగలము.
            *[other] { -brand-short-name } యొక్క అభీష్టాలలో అమర్పులను మార్చగలము.
         }
+unknowncontenttype-other =
+    .label = ఇతర...
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] ఎంచుకో...
+           *[other] అన్వేషించు...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
