@@ -5,7 +5,6 @@
 unknowncontenttype-handleinternally =
     .label = Отвори преко { -brand-short-name }
     .accesskey = е
-
 unknowncontenttype-settingschange =
     .value =
         Параметре можете да промените у подешавањима { -brand-short-name.gender ->
@@ -14,3 +13,12 @@ unknowncontenttype-settingschange =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] програма { -brand-short-name }
         }.
+unknowncontenttype-action-question = Како да { -brand-short-name } обради ову датотеку?
+unknowncontenttype-open-with =
+    .label = Отвори помоћу
+    .accesskey = О
+unknowncontenttype-other =
+    .label = Друго…
+unknowncontenttype-remember-choice =
+    .label = Користи овај избор за све датотеке овог типа.
+    .accesskey = К
