@@ -11,3 +11,10 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name }'ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
            *[other] { -brand-short-name }' ᱠᱩᱥᱤᱭᱟᱜ ᱨᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱾
         }
+unknowncontenttype-intro = आम झिज ला़गित् एम बाछावाकात् आ:
+unknowncontenttype-which-is = ओका काना:
+unknowncontenttype-from = खोन:
+unknowncontenttype-prompt = चेत् आम नोवा रेत् सांचाव सानाम काना ?
+unknowncontenttype-action-question = नोवा रेत् सांव { -brand-short-name } चेत् चेका ला़कती. ?
+unknowncontenttype-other =
+    .label = एटागाक्…
