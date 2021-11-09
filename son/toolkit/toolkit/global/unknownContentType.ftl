@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Kayandiyaney ši hin ka barmay { -brand-short-name } suubarey ra.
            *[other] Kayandiyaney ši hin ka barmay { -brand-short-name } ibaayey ra.
         }
+unknowncontenttype-intro = War soobay ka feera:
 unknowncontenttype-from = hun doo:
 unknowncontenttype-prompt = War baa ka tukoo woo gaabu?
 unknowncontenttype-action-question = Cin no { -brand-short-name } ga hima ga tee?
