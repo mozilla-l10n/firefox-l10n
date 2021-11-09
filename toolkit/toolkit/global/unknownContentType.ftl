@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] تنظیمات را می‌توان در گزینه‌های { -brand-short-name } تغییر داد.
            *[other] تنظیمات را می‌توان در ترجیحات { -brand-short-name } تغییر داد.
         }
+unknowncontenttype-intro = شما انتخاب کردید که باز کنید:
 unknowncontenttype-from = از:
 unknowncontenttype-prompt = آیا می‌خواهید این پرونده را ذخیره کنید؟
 unknowncontenttype-action-question = { -brand-short-name } با این پرونده چه‌کار کند؟
