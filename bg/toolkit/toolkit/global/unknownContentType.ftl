@@ -32,6 +32,9 @@ unknowncontenttype-choose-handler =
             [macos] И
            *[other] Р
         }
+unknowncontenttype-save-file =
+    .label = Запазване на файла
+    .accesskey = З
 unknowncontenttype-remember-choice =
     .label = Запомняне на действието за този вид файлове.
     .accesskey = З
