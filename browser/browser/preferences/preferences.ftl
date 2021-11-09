@@ -98,6 +98,8 @@ extension-controlled-enable = Laienduse lubamiseks ava <img data-l10n-name="addo
 ## Preferences UI Search Results
 
 search-results-header = Otsingutulemused
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
 search-results-help-link = Vajad abi? Külasta lehte <a data-l10n-name="url">{ -brand-short-name }i abi</a>
 
 ## General Section
@@ -114,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Taastatakse eelmine seanss
     .accesskey = T
+startup-restore-windows-and-tabs =
+    .label = Ava eelmised aknad ja kaardid
+    .accesskey = v
 startup-restore-warn-on-quit =
     .label = Brauserist väljumisel hoiatatakse
 disable-extension =
@@ -128,6 +133,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Hoiatus, kui suletakse mitu kaarti korraga
     .accesskey = H
+confirm-on-close-multiple-tabs =
+    .label = Mitme kaardi sulgemisel kuvatakse kinnitusdialoogi
+    .accesskey = M
 warn-on-open-many-tabs =
     .label = Hoiatus, kui mitme kaardi avamine võib aeglustada { -brand-short-name }i tööd
     .accesskey = i
