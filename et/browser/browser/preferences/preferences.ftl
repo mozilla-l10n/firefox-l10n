@@ -203,6 +203,9 @@ preferences-default-zoom = Vaikimisi suurendamine
     .accesskey = u
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Suurendatakse ainult teksti
+    .accesskey = r
 language-header = Keel
 choose-language-description = Vali oma eelistatud keel veebilehtede kuvamiseks
 choose-button =
@@ -217,12 +220,17 @@ confirm-browser-language-change-button = Rakenda ja taaskäivita
 translate-web-pages =
     .label = Lubatakse veebisisu tõlkimine
     .accesskey = t
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Tõlkijaks on <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Erandid…
     .accesskey = n
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Kuupäevade, aja, numbrite ja mõõtühikute kuvamiseks keeles “{ $localeName }”, kasutatakse operatsioonisüsteemi sätteid.
 check-user-spelling =
     .label = Sisestamisel kontrollitakse õigekirja
     .accesskey = m
@@ -271,6 +279,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Kasutatakse rakendust { $app-name } (vaikimisi)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] kasutatakse macOSi vaikerakendust
+            [windows] kasutatakse Windowsi vaikerakendust
+           *[other] kasutatakse süsteemi vaikerakendust
+        }
 applications-use-other =
     .label = Kasuta muud...
 applications-select-helper = Abistava rakenduse valimine
@@ -282,6 +297,10 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
