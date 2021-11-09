@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Pengaturan dapat diubah di Pengaturan { -brand-short-name }.
            *[other] Pengaturan dapat diubah di Pengaturan { -brand-short-name }.
         }
+unknowncontenttype-intro = Anda memutuskan untuk membuka:
 unknowncontenttype-from = dari:
 unknowncontenttype-prompt = Ingin menyimpan berkas ini?
 unknowncontenttype-action-question = Apa yang sebaiknya { -brand-short-name } lakukan dengan berkas ini?
