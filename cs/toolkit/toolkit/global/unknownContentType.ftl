@@ -11,7 +11,6 @@ unknowncontenttype-handleinternally =
            *[other] v aplikaci { -brand-short-name }
         }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         Nastavení lze změnit v { PLATFORM() ->
@@ -23,3 +22,30 @@ unknowncontenttype-settingschange =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] aplikace { -brand-short-name }
         }.
+unknowncontenttype-intro = Stažení souboru:
+unknowncontenttype-which-is = typ:
+unknowncontenttype-from = zdroj:
+unknowncontenttype-prompt = Chcete tento soubor uložit?
+unknowncontenttype-action-question = Co má { -brand-short-name } s tímto souborem udělat?
+unknowncontenttype-open-with =
+    .label = Otevřít pomocí
+    .accesskey = O
+unknowncontenttype-other =
+    .label = Jiná…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Vybrat…
+           *[other] Procházet…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] P
+        }
+unknowncontenttype-save-file =
+    .label = Uložit soubor
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = Provádět od teď s podobnými soubory automaticky.
+    .accesskey = P
