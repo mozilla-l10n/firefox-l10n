@@ -12,6 +12,8 @@ unknowncontenttype-settingschange =
            *[other] Thiết lập có thể được thay đổi trong Tùy chỉnh của { -brand-short-name }.
         }
 unknowncontenttype-from = từ:
+unknowncontenttype-prompt = Bạn có muốn lưu tập tin này không?
+unknowncontenttype-action-question = { -brand-short-name } nên làm gì với tập tin này?
 unknowncontenttype-other =
     .label = Khác…
 unknowncontenttype-choose-handler =
@@ -25,3 +27,6 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] D
         }
+unknowncontenttype-save-file =
+    .label = Lưu Tập Tin
+    .accesskey = L
