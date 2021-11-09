@@ -21,10 +21,6 @@ cfr-doorhanger-extension-manage-settings-button = Gesti sa cunfiguratzione de is
 cfr-doorhanger-extension-never-show-recommendation = No m'ammustres prus custu cussìgiu
     .accesskey = o
 cfr-doorhanger-extension-learn-more-link = Àteras informatziones
-# This string is used on a new line below the add-on name
-# Variables:
-#   $name (String) - Add-on author name
-cfr-doorhanger-extension-author = dae
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Cussìgiu

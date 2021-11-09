@@ -99,7 +99,7 @@ extension-controlled-enable = Pro ativare s'estensione bae a <img data-l10n-name
 
 search-results-header = Resurtados de sa chirca
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Nissunu resurtadu in sa Cunfiguratzione pro “<span data-l10n-name="query">”.
+search-results-empty-message2 = Nissunu resurtadu in sa Cunfiguratzione pro “<span data-l10n-name="query"></span>”.
 search-results-help-link = Boles agiudu? Bae a s'<a data-l10n-name="url">Assistèntzia de { -brand-short-name }</a>
 
 ## General Section
