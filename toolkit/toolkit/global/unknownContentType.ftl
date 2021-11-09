@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Μπορείτε να αλλάξετε τις ρυθμίσεις στις επιλογές του { -brand-short-name }.
            *[other] Μπορείτε να αλλάξετε τις ρυθμίσεις στις προτιμήσεις του { -brand-short-name }.
         }
+unknowncontenttype-which-is = που είναι:
 unknowncontenttype-prompt = Θέλετε να αποθηκεύσετε αυτό το αρχείο;
 unknowncontenttype-save-file =
     .label = Αποθήκευση αρχείου
