@@ -16,6 +16,9 @@ unknowncontenttype-which-is = যি এটা:
 unknowncontenttype-from = চিহ্নিত বস্তুৰ পৰা:
 unknowncontenttype-prompt = আপুনি এই ফাইল সংৰক্ষণ কৰিব বিচাৰে নে?
 unknowncontenttype-action-question = { -brand-short-name } এ এই ফাইলৰ লগত কি কৰিব লাগে?
+unknowncontenttype-open-with =
+    .label = চিহ্নিত এপ্লিকেচনৰ সৈতে খোলক
+    .accesskey = O
 unknowncontenttype-other =
     .label = অন্য…
 unknowncontenttype-choose-handler =
@@ -29,6 +32,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = ফাইল সংৰক্ষণ কৰক
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = এতিয়াৰ পৰা এই ধৰণৰ ফাইল সৈতে এই কাৰ্য্য স্বচালিতভাৱে কৰিব।
     .accesskey = a
