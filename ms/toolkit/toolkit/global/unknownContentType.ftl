@@ -13,8 +13,22 @@ unknowncontenttype-which-is = iaitu:
 unknowncontenttype-from = daripada:
 unknowncontenttype-prompt = Adakah anda ingin menyimpan fail ini?
 unknowncontenttype-action-question = Apa perlu { -brand-short-name } lakukan dengan fail ini?
+unknowncontenttype-open-with =
+    .label = Buka dengan
+    .accesskey = g
 unknowncontenttype-other =
     .label = Lain-lain...
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Pilih…
+           *[other] Cari…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] i
+           *[other] r
+        }
 unknowncontenttype-save-file =
     .label = Simpan Fail
     .accesskey = s
