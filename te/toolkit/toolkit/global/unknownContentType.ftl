@@ -8,6 +8,9 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } యొక్క ఎంపికలలో అమర్పులను మార్చగలము.
            *[other] { -brand-short-name } యొక్క అభీష్టాలలో అమర్పులను మార్చగలము.
         }
+unknowncontenttype-open-with =
+    .label = దీనితో తెరువు
+    .accesskey = O
 unknowncontenttype-other =
     .label = ఇతర...
 unknowncontenttype-choose-handler =
