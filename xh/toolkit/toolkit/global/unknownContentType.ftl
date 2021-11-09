@@ -8,9 +8,11 @@ unknowncontenttype-settingschange =
             [windows] Iisetingi zingatshintshwa kwi-{ -brand-short-name }'s Izikhethwa.
            *[other] Iisetingi zingatshintshwa yi-{ -brand-short-name }'s Izikhethwa.
         }
+unknowncontenttype-intro = Ukhethe ukuvula:
 unknowncontenttype-which-is = eyile:
 unknowncontenttype-from = ukusuka:
 unknowncontenttype-prompt = Ungathanda ukuyigcina le fayile?
+unknowncontenttype-action-question = I-{ -brand-short-name } kufuneka yenze ntoni ngale fayili?
 unknowncontenttype-open-with =
     .label = Kuvulwa ngayo
     .accesskey = K
