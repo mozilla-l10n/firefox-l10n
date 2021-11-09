@@ -11,8 +11,13 @@ unknowncontenttype-settingschange =
             [windows] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებიდან.
            *[other] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებში.
         }
+unknowncontenttype-intro = თქვენ ხსნით ფაილს:
 unknowncontenttype-which-is = რომელიც არის:
+unknowncontenttype-from = წყარო:
 unknowncontenttype-prompt = გნებავთ ამ ფაილის შენახვა?
 unknowncontenttype-action-question = როგორ მოეპყრას { -brand-short-name } ამ ფაილს?
 unknowncontenttype-other =
     .label = სხვა…
+unknowncontenttype-remember-choice =
+    .label = მოქმედების დამახსოვრება ყველა მსგავსი ფაილისთვის.
+    .accesskey = მ
