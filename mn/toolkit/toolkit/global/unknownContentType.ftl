@@ -8,3 +8,15 @@ unknowncontenttype-settingschange =
             [windows] SТохируулгууд { -brand-short-name }-н Тохируулга цонхонд хийгдэж болно.
            *[other] Тохируулгууд { -brand-short-name }-н Тохируулга цонхонд хийгдэж болно.
         }
+unknowncontenttype-from = хаанаас:
+unknowncontenttype-prompt = Та энэ файлыг хадгалмаар байна уу?
+unknowncontenttype-action-question = { -brand-short-name } энэ файлыг яах вэ?
+unknowncontenttype-open-with =
+    .label = Үүгээр нээ
+    .accesskey = н
+unknowncontenttype-save-file =
+    .label = Файлыг хадгал
+    .accesskey = л
+unknowncontenttype-remember-choice =
+    .label = Одооноос эхлэн ийм файлд энэ үйлдлийг автомаар гүйцэтгэ.
+    .accesskey = д
