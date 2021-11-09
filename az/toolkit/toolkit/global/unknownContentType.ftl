@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] { -brand-short-name } Seçimlər bölməsindən tənzimləmələrinizi dəyişdirə bilərsiniz.
         }
 unknowncontenttype-intro = Siz açmaq üçün seçdiniz:
+unknowncontenttype-which-is = növü:
 unknowncontenttype-from = ünvan:
 unknowncontenttype-prompt = Bu faylı saxlamaq istərdiniz?
 unknowncontenttype-action-question = { -brand-short-name } bu fayl ilə nə etsin?
