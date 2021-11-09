@@ -5,10 +5,20 @@
 unknowncontenttype-handleinternally =
     .label = Otwórz w programie { -brand-short-name }
     .accesskey = O
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Ustawienia można zmienić w oknie Opcje programu { -brand-short-name }.
            *[other] Ustawienia można zmienić w oknie Preferencje programu { -brand-short-name }.
+        }
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Wybierz…
+           *[other] Przeglądaj…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] W
+           *[other] P
         }
