@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-from = Bivuye:
+unknowncontenttype-prompt = Urashaka kubika iyi dosiye?
 unknowncontenttype-action-question = IzinaRigufi ry'{ -brand-short-name } Gukoresha iyi Dosiye iki?
 unknowncontenttype-open-with =
     .label = Gufungura Hifashishijwe
