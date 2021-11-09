@@ -11,7 +11,16 @@ unknowncontenttype-settingschange =
             [windows] Ustawienia można zmienić w oknie Opcje programu { -brand-short-name }.
            *[other] Ustawienia można zmienić w oknie Preferencje programu { -brand-short-name }.
         }
+unknowncontenttype-intro = Rozpoczęto pobieranie pliku:
+unknowncontenttype-which-is = Typ pliku:
+unknowncontenttype-from = Adres:
 unknowncontenttype-prompt = Czy zapisać ten plik?
+unknowncontenttype-action-question = Po ukończeniu pobierania:
+unknowncontenttype-open-with =
+    .label = Otwórz za pomocą
+    .accesskey = o
+unknowncontenttype-other =
+    .label = Inna aplikacja…
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
@@ -23,3 +32,9 @@ unknowncontenttype-choose-handler =
             [macos] W
            *[other] P
         }
+unknowncontenttype-save-file =
+    .label = Zapisz plik
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = Pamiętaj tę decyzję dla wszystkich plików tego typu
+    .accesskey = a
