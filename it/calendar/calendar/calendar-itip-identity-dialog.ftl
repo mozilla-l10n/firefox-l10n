@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Imbucarsi a una festa?
 calendar-itip-identity-warning = Non si è ancora nella lista degli invitati.
 calendar-itip-identity-label = Rispondi come:
+calendar-itip-identity-label-none = Associa questo evento a:
