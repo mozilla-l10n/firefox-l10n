@@ -740,6 +740,19 @@ picture-in-picture-hide-toggle =
     .label = Masquer le bouton pour l’incrustation vidéo
     .accesskey = M
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Déplacer le bouton d’incrustation vidéo du côté droit
+    .accesskey = D
+picture-in-picture-move-toggle-left =
+    .label = Déplacer le bouton d’incrustation vidéo du côté gauche
+    .accesskey = G
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
