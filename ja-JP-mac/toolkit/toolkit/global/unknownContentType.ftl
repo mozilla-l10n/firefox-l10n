@@ -11,6 +11,8 @@ unknowncontenttype-settingschange =
             [windows] この設定は { -brand-short-name } のオプション画面で変更できます。
            *[other] この設定は { -brand-short-name } の設定画面で変更できます。
         }
+unknowncontenttype-intro = 次のファイルを開こうとしています:
+unknowncontenttype-which-is = ファイルの種類:
 unknowncontenttype-from = ファイルの場所:
 unknowncontenttype-prompt = このファイルを保存しますか？
 unknowncontenttype-action-question = このファイルをどのように処理するか選んでください
@@ -19,6 +21,17 @@ unknowncontenttype-open-with =
     .accesskey = o
 unknowncontenttype-other =
     .label = その他...
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] 選択...
+           *[other] 選択...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
 unknowncontenttype-save-file =
     .label = ファイルを保存する
     .accesskey = s
