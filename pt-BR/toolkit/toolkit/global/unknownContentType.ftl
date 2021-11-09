@@ -16,3 +16,17 @@ unknowncontenttype-from = de:
 unknowncontenttype-action-question = O que o { -brand-short-name } deve fazer?
 unknowncontenttype-other =
     .label = Outro aplicativo…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Escolher…
+           *[other] Procurar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] P
+        }
+unknowncontenttype-remember-choice =
+    .label = Fazer isso automaticamente nos arquivos como este de agora em diante.
+    .accesskey = M
