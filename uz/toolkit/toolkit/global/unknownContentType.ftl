@@ -8,3 +8,26 @@ unknowncontenttype-settingschange =
             [windows] Sozlamalarni { -brand-short-name }'ning moslamalaridan o‘zgartirsa bo‘ladi.
            *[other] Sozlamalarni { -brand-short-name }'ning parametrlaridan o‘zgartirish mumkin.
         }
+unknowncontenttype-intro = Ochish uchun tanladingiz:
+unknowncontenttype-which-is = -
+unknowncontenttype-prompt = Ushbu faylni saqlashni xohlaysizmi?
+unknowncontenttype-action-question = Ushbu fayl bilan { -brand-short-name } nima qilsin?
+unknowncontenttype-other =
+    .label = Boshqa
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Tanlash
+           *[other] Koʻrish…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] K
+        }
+unknowncontenttype-save-file =
+    .label = Faylni saqlash
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = Hozirdan shunga oʻxshagan  fayllarda avtomatik bajarilsin.
+    .accesskey = a
