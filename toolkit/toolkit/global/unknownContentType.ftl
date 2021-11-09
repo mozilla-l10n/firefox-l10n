@@ -11,6 +11,8 @@ unknowncontenttype-settingschange =
             [windows] Innstillinger kan endres i { -brand-short-name } sine innstillinger.
            *[other] Innstillinger kan endres i { -brand-short-name } sine innstillinger.
         }
+unknowncontenttype-intro = Du har valgt å åpne:
+unknowncontenttype-which-is = som er:
 unknowncontenttype-from = Fra:
 unknowncontenttype-prompt = Vil du lagre denne filen?
 unknowncontenttype-action-question = Hva skal { -brand-short-name } gjøre med denne filen?
