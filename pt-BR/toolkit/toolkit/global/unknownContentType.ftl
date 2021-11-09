@@ -5,10 +5,10 @@
 unknowncontenttype-handleinternally =
     .label = Abrir no { -brand-short-name }
     .accesskey = n
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] As configurações podem ser alteradas nas opções do { -brand-short-name }.
            *[other] As configurações podem ser alteradas nas preferências do { -brand-short-name }.
         }
+unknowncontenttype-action-question = O que o { -brand-short-name } deve fazer?
