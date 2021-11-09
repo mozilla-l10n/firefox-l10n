@@ -11,8 +11,10 @@ unknowncontenttype-settingschange =
             [windows] Պարամետրերը կարող են փոփոխվել { -brand-short-name }ի կարգավորումներում:
            *[other] Պարամետրերը կարող են փոփոխել { -brand-short-name }-ի կարգավորումներում:
         }
+unknowncontenttype-intro = Դուք պատրաստվում եք բացել՝
 unknowncontenttype-which-is = ֆայլի տեսակը.
 unknowncontenttype-from = աղբյուրը.
+unknowncontenttype-prompt = Ցանկանու՞մ եք պահպանել այս ֆայլը:
 unknowncontenttype-action-question = Ի՞նչ պիտի { -brand-short-name }­ն անի այս ֆայլի հետ:
 unknowncontenttype-other =
     .label = Այլ…
@@ -27,6 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] Ը
            *[other] Ը
         }
+unknowncontenttype-save-file =
+    .label = Պահպանել Ֆայլը
+    .accesskey = Պ
 unknowncontenttype-remember-choice =
     .label = Ինքնաբար կատարել նմանատիպ ֆայլերի համար:
     .accesskey = Ի
