@@ -11,6 +11,9 @@ unknowncontenttype-settingschange =
             [windows] 請從 { -brand-short-name } 的選項變更設定值。
            *[other] 請從 { -brand-short-name } 的偏好設定變更設定值。
         }
+unknowncontenttype-intro = 您已決定開啟:
+unknowncontenttype-which-is = 檔案類型:
+unknowncontenttype-from = 從:
 unknowncontenttype-prompt = 您確定要儲存此檔案？
 unknowncontenttype-action-question = { -brand-short-name } 應該如何處理此檔案？
 unknowncontenttype-open-with =
@@ -18,6 +21,17 @@ unknowncontenttype-open-with =
     .accesskey = O
 unknowncontenttype-other =
     .label = 其它…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] 選擇…
+           *[other] 瀏覽…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
 unknowncontenttype-save-file =
     .label = 儲存檔案
     .accesskey = S
