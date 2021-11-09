@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Mostra-ho en el Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Mostra-ho en el Finder
+           *[other] Obre la carpeta on es troba
+        }
+    .accesskey = M
 downloads-cmd-use-system-default =
     .label = Obre amb el visualitzador del sistema
     .accesskey = v
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Obre sempre amb el visualitzador del sistema
     .accesskey = z
@@ -60,6 +69,29 @@ downloads-cmd-show-panel =
            *[other] Obre la carpeta on es troba
         }
 downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Mostra-ho en el Finder
+           *[other] Obre la carpeta on es troba
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Obre sempre els fitxers similars
+    .accesskey = s
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostra-ho en el Finder
+           *[other] Obre la carpeta on es troba
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Mostra-ho en el Finder
+           *[other] Obre la carpeta on es troba
+        }
+downloads-cmd-show-description-2 =
     .value =
         { PLATFORM() ->
             [macos] Mostra-ho en el Finder
@@ -162,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = No heu baixat res durant aquesta sessió.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] S'està baixant { $count } altre fitxer
+       *[other] S'estan baixant { $count } fitxers més
+    }
