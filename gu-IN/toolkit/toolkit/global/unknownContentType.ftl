@@ -8,4 +8,5 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } ના વિકલ્પોમાં સેટીંગ બદલી શકાશે.
            *[other] { -brand-short-name } ની પસંદગીઓમાં સેટીંગ બદલી શકાશે.
         }
+unknowncontenttype-which-is = જે છે :
 unknowncontenttype-prompt = શું તમે આ ફાઈલ સંગ્રહવા માંગો છો?
