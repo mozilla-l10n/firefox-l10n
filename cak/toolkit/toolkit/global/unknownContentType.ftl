@@ -32,6 +32,9 @@ unknowncontenttype-choose-handler =
             [macos] T
            *[other] T
         }
+unknowncontenttype-save-file =
+    .label = Tiyak Yakb'äl
+    .accesskey = T
 unknowncontenttype-remember-choice =
     .label = Tikamulüx re na'oj re' wakami junelïk chi ke re ruwäch taq yakb'äl re'.
     .accesskey = a
