@@ -8,3 +8,22 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name }ର ବିକଳ୍ପଗୁଡ଼ିକରେ ସଂରଚନାକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ।
            *[other] { -brand-short-name }ର ପସନ୍ଦରେ ସଂରଚନାକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ।
         }
+unknowncontenttype-from = ରୁ:
+unknowncontenttype-prompt = ଆପଣ ଏହି ଫାଇଲକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?
+unknowncontenttype-action-question = { -brand-short-name } ଏହି ଫାଇଲ ସହିତ କଣ କରିବ?
+unknowncontenttype-other =
+    .label = ଅନ୍ୟାନ୍ୟ…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] ବାଛନ୍ତୁ…
+           *[other] ବ୍ରାଉଜ କରନ୍ତୁ…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-remember-choice =
+    .label = ଏହା ପରଠୁ ଏହି ପରି ଫାଇଲଗୁଡ଼ିକ ପାଇଁ ଏହା ସ୍ୱୟଂଚାଳିତ ଭାବରେ କରନ୍ତୁ।
+    .accesskey = a
