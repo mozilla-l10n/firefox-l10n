@@ -15,6 +15,7 @@ unknowncontenttype-intro = Heu triat obrir:
 unknowncontenttype-which-is = que és:
 unknowncontenttype-from = des de:
 unknowncontenttype-prompt = Voleu guardar este fitxer?
+unknowncontenttype-action-question = Què ha de fer el { -brand-short-name } amb este fitxer?
 unknowncontenttype-open-with =
     .label = Obri amb
     .accesskey = O
