@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Enteegeka ziyinza okukyusibwa mu byokweroboza bya { -brand-short-name }.
            *[other] Enteegeka ziyinza okukyusibwa mu byokweroboza bya { -brand-short-name }.
         }
+unknowncontenttype-intro = Osazewo okuggulawo:
 unknowncontenttype-from = okuva:
 unknowncontenttype-prompt = Wandiyagadde okutereka fayiro eno?
 unknowncontenttype-action-question = Kiki kyetu { -brand-short-name } kyetubatukozesa fayiro eno?
