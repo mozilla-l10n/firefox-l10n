@@ -12,3 +12,5 @@ unknowncontenttype-settingschange =
            *[other] As configurações podem ser alteradas nas preferências do { -brand-short-name }.
         }
 unknowncontenttype-action-question = O que o { -brand-short-name } deve fazer?
+unknowncontenttype-other =
+    .label = Outro aplicativo…
