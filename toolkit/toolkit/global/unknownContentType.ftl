@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] सेटिंग { -brand-short-name }के विकल्प में बदला जा सकता है.
            *[other] सेटिंग { -brand-short-name } की वरीयता में बदला जा सकता है.
         }
+unknowncontenttype-intro = आपने खोलने के लिए चुना है:
 unknowncontenttype-from = से:
 unknowncontenttype-prompt = क्या आप इस फाइल को सहेजना चाहते हैं?
 unknowncontenttype-action-question = इस फाइल के साथ { -brand-short-name } को क्या करना चाहिए?
