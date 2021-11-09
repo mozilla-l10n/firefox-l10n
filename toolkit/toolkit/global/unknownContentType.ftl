@@ -13,6 +13,9 @@ unknowncontenttype-which-is = ಇದು ಒಂದು:
 unknowncontenttype-from = ಇಂದ:
 unknowncontenttype-prompt = ನೀವು ಈ ಕಡತವನ್ನು ಉಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
 unknowncontenttype-action-question = { -brand-short-name }ಈ ಕಡತದಿಂದ ಏನು ಮಾಡಬೇಕು?
+unknowncontenttype-open-with =
+    .label = ಇದರೊಂದಿಗೆ ತೆರೆ
+    .accesskey = O
 unknowncontenttype-other =
     .label = ಇತರೆ…
 unknowncontenttype-choose-handler =
@@ -26,6 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = ಕಡತವನ್ನು ಉಳಿಸು
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = ಇನ್ನು ಮುಂದೆ ಈ ಬಗೆಯ ಕಡತಗಳಿಗೆ ಹೀಗೆಯೆ ಮಾಡು.
     .accesskey = a
