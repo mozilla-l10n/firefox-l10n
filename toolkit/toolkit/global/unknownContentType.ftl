@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] ការ​កំណត់​​អាច​ត្រូវ​បាន​ផ្លាស់ប្ដូរ​នៅ​​ក្នុង​ចំណូល​ចិត្ត​របស់ { -brand-short-name } ។
         }
 unknowncontenttype-intro = អ្នកបាន​ជ្រើស ដើម្បី​បើក ៖
+unknowncontenttype-which-is = ដែល​ជា ៖
 unknowncontenttype-from = ពី ៖
 unknowncontenttype-prompt = តើ​អ្នក​ចង់​រក្សា​ទុក​ឯកសារ​នេះ​ឬ?
 unknowncontenttype-action-question = តើ { -brand-short-name } គួរ​ធ្វើ​អ្វី​ជាមួយ​ឯកសារ​នេះ?
