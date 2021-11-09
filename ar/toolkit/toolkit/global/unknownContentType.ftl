@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] يُمكن تغيير الإعدادات من تفضيلات { -brand-short-name }.
         }
 unknowncontenttype-intro = اخترت فتح:
+unknowncontenttype-which-is = ونوعه:
 unknowncontenttype-from = مِن:
 unknowncontenttype-prompt = أترغب في حفظ هذا الملف؟
 unknowncontenttype-action-question = ماذا على { -brand-short-name } أن يفعل بهذا الملفّ؟
