@@ -19,6 +19,8 @@ unknowncontenttype-action-question = Co ma { -brand-short-name } z toś teju dat
 unknowncontenttype-open-with =
     .label = Wócyniś z
     .accesskey = c
+unknowncontenttype-other =
+    .label = Druge…
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
