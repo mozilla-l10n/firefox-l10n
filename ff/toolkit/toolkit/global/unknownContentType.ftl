@@ -15,6 +15,20 @@ unknowncontenttype-open-with =
     .accesskey = U
 unknowncontenttype-other =
     .label = Goɗɗum…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Suɓo…
+           *[other] Weɗɗit…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] W
+        }
+unknowncontenttype-save-file =
+    .label = Danndu Fiilde
+    .accesskey = D
 unknowncontenttype-remember-choice =
     .label = Waɗ ɗum e jaajol dow piille nannduɗe e ndee-ɗoo tuggi jooni.
     .accesskey = j
