@@ -8,6 +8,10 @@ unknowncontenttype-settingschange =
             [windows] Sätteid saab muuta { -brand-short-name }i sätetes.
            *[other] Sätteid saab muuta { -brand-short-name }i eelistustes.
         }
+unknowncontenttype-intro = Avamiseks on valitud:
+unknowncontenttype-which-is = tüüp:
+unknowncontenttype-from = asukoht:
+unknowncontenttype-prompt = Kas soovid selle faili salvestada?
 unknowncontenttype-action-question = Mida peaks { -brand-short-name } selle failiga tegema?
 unknowncontenttype-open-with =
     .label = Avama rakendusega
