@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = Celar le commutator imagine-in-imagine
     .accesskey = C
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Mover le commutator de imagine-annidate al latere dextre
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Mover le commutator de imagine-annidate al latere sinistre
+    .accesskey = s
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
