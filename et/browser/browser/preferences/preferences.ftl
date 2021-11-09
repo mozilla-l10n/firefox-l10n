@@ -305,6 +305,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Kasutatakse pluginat { $plugin-name } (kaustas { -brand-short-name })
+applications-open-inapp =
+    .label = avatakse { -brand-short-name }is
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -316,12 +318,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -346,10 +352,22 @@ update-application-check-choose =
 update-application-manual =
     .label = Uuendusi ei otsita (mittesoovitatav)
     .accesskey = e
+update-application-background-enabled =
+    .label = Uuendatakse siis, kui { -brand-short-name } ei tööta
+    .accesskey = k
 update-application-warning-cross-user-setting = See säte rakendub kõigile Windowsi kontodele ja { -brand-short-name }i profiilidele, mis kasutavad seda { -brand-short-name }i paigaldust.
 update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
     .accesskey = d
+update-setting-write-failure-title2 = Uuendamise sätete salvestamisel esines viga
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name }il esines viga ja muudatust ei salvestatud. Antud sätte muutmiseks on vajalikud õigused alloleva faili muutmiseks. Probleem võib laheneda, kui sina või sinu süsteemiadministraator annab Users grupile täielikud muutmise õigused sellele failile.
+    
+    Järgmist faili polnud võimalik muuta: { $path }
 update-in-progress-title = Uuendamine
 update-in-progress-message = Kas soovid, et { -brand-short-name } jätkaks uuendamisega?
 update-in-progress-ok-button = &Loobu
@@ -399,6 +417,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Lubatakse pilt-pildis juhtnupud
     .accesskey = u
 browsing-picture-in-picture-learn-more = Rohkem teavet
+browsing-media-control =
+    .label = Meedia kontrollimiseks kasutatakse klaviatuuri, peakomplekti või virtuaalset liidest
+    .accesskey = d
+browsing-media-control-learn-more = Rohkem teavet
 browsing-cfr-recommendations =
     .label = Veebilehitsemise ajal soovitatakse laiendusi
     .accesskey = V
@@ -462,6 +484,13 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Top saidid
 home-prefs-topsites-description = Enim külastatud saidid
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponsitud top saidid
+home-prefs-shortcuts-header =
+    .label = Otseteed
+home-prefs-shortcuts-description = Saidid, mida oled külastanud või mille oled salvestanud
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsitud otseteed
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
