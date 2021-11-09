@@ -5,10 +5,34 @@
 unknowncontenttype-handleinternally =
     .label = بازکردن با { -brand-short-name }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] تنظیمات را می‌توان در گزینه‌های { -brand-short-name } تغییر داد.
            *[other] تنظیمات را می‌توان در ترجیحات { -brand-short-name } تغییر داد.
         }
+unknowncontenttype-from = از:
+unknowncontenttype-prompt = آیا می‌خواهید این پرونده را ذخیره کنید؟
+unknowncontenttype-action-question = { -brand-short-name } با این پرونده چه‌کار کند؟
+unknowncontenttype-open-with =
+    .label = باز کردن با
+    .accesskey = ب
+unknowncontenttype-other =
+    .label = غیره…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] انتخاب…
+           *[other] مرور…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ا
+           *[other] م
+        }
+unknowncontenttype-save-file =
+    .label = ذخیرهٔ پرونده
+    .accesskey = ذ
+unknowncontenttype-remember-choice =
+    .label = از این به بعد به طور خودکار برای پرونده‌های مثل این همین کار انجام شود.
+    .accesskey = خ
