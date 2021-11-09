@@ -946,6 +946,7 @@ content-blocking-all-windows-tracking-content = Inhalte zur Aktivitätenverfolgu
 content-blocking-all-third-party-cookies = Alle Cookies von Drittanbietern
 content-blocking-cryptominers = Heimliche Digitalwährungsberechner (Krypto-Miner)
 content-blocking-fingerprinters = Identifizierer (Fingerprinter)
+content-blocking-etp-standard-tcp-rollout-learn-more = Weitere Informationen
 content-blocking-warning-title = Achtung!
 content-blocking-and-isolating-etp-warning-description = Das Blockieren von Skripten zur Aktivitätenverfolgung und das Isolieren von Cookies kann Auswirkungen auf das Funktionieren einiger Websites haben. Laden Sie eine Seite einschließlich Skripten zur Aktivitätenverfolgung neu, damit der komplette Inhalt geladen wird.
 content-blocking-and-isolating-etp-warning-description-2 = Diese Einstellung kann dazu führen, dass einige Websites nicht korrekt Inhalte anzeigen oder funktionieren. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden.
