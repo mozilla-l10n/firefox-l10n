@@ -13,6 +13,9 @@ unknowncontenttype-which-is = အရာတခုကတော့ -
 unknowncontenttype-from = မှ -
 unknowncontenttype-prompt = ဒီဖိုင်ကို သင် သိမ်းဆည်းလိုသလား။
 unknowncontenttype-action-question = ဒီဖိုင် { -brand-short-name }နဲ့ ဘာလုပ်မလဲ။
+unknowncontenttype-open-with =
+    .label = ဖွင့်မဲ့အရာ
+    .accesskey = O
 unknowncontenttype-other =
     .label = အခြား...
 unknowncontenttype-choose-handler =
@@ -26,6 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = ဖိုင်ကို သိမ်းဆည်းပါ
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = ဖိုင်များအတွက် ဒီအရာကို အခုကစပြီး ဒီအတိုင်းပဲ အလိုအလျှောက် လုပ်ပေးပါ။
     .accesskey = a
