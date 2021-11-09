@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Optionen können in den { -brand-short-name }-Einstellungen geändert werden.
            *[other] Optionen können in den { -brand-short-name }-Einstellungen geändert werden.
         }
+unknowncontenttype-intro = Sie möchten folgende Datei öffnen:
 unknowncontenttype-from = Von:
 unknowncontenttype-prompt = Möchten Sie diese Datei speichern?
 unknowncontenttype-action-question = Wie soll { -brand-short-name } mit dieser Datei verfahren?
