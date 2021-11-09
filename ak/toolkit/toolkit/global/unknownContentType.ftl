@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] Wobetumi asesa nhyehyɛe wɔ { -brand-short-name } apɛdeɛ mu.
         }
 unknowncontenttype-intro = Wo apaw sɛ wo bɛbue:
+unknowncontenttype-which-is = a ɛyɛ:
 unknowncontenttype-from = efiri:
 unknowncontenttype-prompt = Wo pɛ sɛ wo sie fael yi?
 unknowncontenttype-action-question = { -brand-short-name } mfa fael yi nyɛ dɛn?
