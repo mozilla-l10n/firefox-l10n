@@ -10,8 +10,23 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-intro = Siz açmaq üçün seçdiniz:
 unknowncontenttype-from = ünvan:
+unknowncontenttype-prompt = Bu faylı saxlamaq istərdiniz?
 unknowncontenttype-open-with =
     .label = Bununla aç
     .accesskey = a
 unknowncontenttype-other =
     .label = Digər…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Seç…
+           *[other] Bax…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] B
+        }
+unknowncontenttype-remember-choice =
+    .label = Bu cür bütün fayllar üçün bunu avtomatik et.
+    .accesskey = a
