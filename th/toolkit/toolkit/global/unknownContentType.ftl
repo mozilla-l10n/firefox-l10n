@@ -11,5 +11,6 @@ unknowncontenttype-settingschange =
             [windows] การตั้งค่าสามารถเปลี่ยนได้ในตัวเลือกของ { -brand-short-name }
            *[other] การตั้งค่าสามารถเปลี่ยนได้ในค่ากำหนดของ { -brand-short-name }
         }
+unknowncontenttype-which-is = ซึ่งเป็น:
 unknowncontenttype-other =
     .label = อื่น ๆ…
