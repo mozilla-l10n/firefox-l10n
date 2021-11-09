@@ -5,10 +5,31 @@
 unknowncontenttype-handleinternally =
     .label = Digeriñ gant { -brand-short-name }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Kemmet e vez an arventennoù gant Dibarzhioù { -brand-short-name }.
            *[other] Kemmet e vez an arventennoù gant Gwellvezioù { -brand-short-name }.
         }
+unknowncontenttype-open-with =
+    .label = Digeriñ gant
+    .accesskey = g
+unknowncontenttype-other =
+    .label = All…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Dibab…
+           *[other] Furchal…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] D
+           *[other] F
+        }
+unknowncontenttype-save-file =
+    .label = Enrollañ ar restr
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = Ober an dra-se ent emgefreek evit restroù a rizh-se adalek bremañ.
+    .accesskey = a
