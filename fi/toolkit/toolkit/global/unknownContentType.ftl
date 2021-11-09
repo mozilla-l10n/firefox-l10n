@@ -11,7 +11,11 @@ unknowncontenttype-settingschange =
             [windows] Asetuksia voi muuttaa { -brand-short-name }in asetuksista.
            *[other] Asetuksia voi muuttaa { -brand-short-name }in asetuksista.
         }
+unknowncontenttype-intro = Olet avaamassa tiedostoa:
+unknowncontenttype-which-is = Tiedosto on tyyppiä:
+unknowncontenttype-from = osoitteesta:
 unknowncontenttype-prompt = Tallennetaanko tiedosto?
+unknowncontenttype-action-question = Mitä tiedostolle tehdään?
 unknowncontenttype-save-file =
     .label = Tallenna tiedosto
     .accesskey = T
