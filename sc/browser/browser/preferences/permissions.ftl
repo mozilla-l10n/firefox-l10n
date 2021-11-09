@@ -71,7 +71,7 @@ permissions-invalid-uri-label = Inserta unu nòmine de ordinadore tzentrale vàl
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Etzetziones pro sa protetzione megiorada contra sa sighidura
+    .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = As disativadu is protetziones in custos sitos web.
 

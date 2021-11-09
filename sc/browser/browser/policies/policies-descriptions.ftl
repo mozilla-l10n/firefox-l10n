@@ -21,7 +21,46 @@ policy-BlockAboutConfig = Bloca s'atzessu a sa pàgina about:config.
 policy-BlockAboutProfiles = Bloca s'atzessu a sa pàgina about:profiles.
 policy-BlockAboutSupport = Bloca s'atzessu a sa pàgina about:support.
 policy-Bookmarks = Crea sinnalibros in sa barra de is sinnalibros, in su menù de is sinnalibros, o in una cartella dislindada a intro de ue.
+policy-CertificatesDescription = Agiunghe tzertificados o imprea tzertificados integrados.
+policy-Cookies = Permite o nega a is sitos de definire testimòngios.
+policy-DisabledCiphers = Disativa is tzifraduras.
+policy-DefaultDownloadDirectory = Cunfigura sa cartella predefinida de iscarrigamentu.
 policy-DisableAppUpdate = Impedi a su navigadore de s'agiornare.
+policy-DisableBuiltinPDFViewer = Disativa PDF.js, su leghidore de PDF integradu in { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Impedi a s'agente de su navigadore predefinidu de fàghere cale si siat atzione. Si podet aplicare petzi a Windows; àteras prataformas non tenent s'agente.
+policy-DisableDeveloperTools = Bloca s'atzessu a is ainas de isvilupu.
+policy-DisableFeedbackCommands = Disativa is cumandos pro imbiare opiniones dae su menù Agiudu («Imbia opiniones» e «Sinnala unu situ ingannosu»).
+policy-DisableFirefoxAccounts = Disativa is servìtzios basados subra de { -fxaccount-brand-name }, incluende Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Disativa sa funtzionalidade de ischermadas de Firefox Screenshots.
+policy-DisableFirefoxStudies = Impedi a { -brand-short-name } de fàghere istùdios.
+policy-DisableForgetButton = Impedi s'atzessu a su butone Iscaressi.
+policy-DisableFormHistory = Non sarves sa cronologia de chirca e de formulàrios.
+policy-DisablePrimaryPasswordCreation = Si est beru, non si podet creare una crae printzipale.
+policy-DisablePasswordReveal = Non permitas chi is craes bèngiant riveladas in is credentziales sarvadas.
+policy-DisablePocket = Disativa sa funtzionalidade pro sarvare pàginas web in Pocket.
+policy-DisablePrivateBrowsing = Disativa sa navigatzione privada.
+policy-DisableProfileImport = Disativa su cumandu de su menù pro importare datos dae un'àteru navigadore.
+policy-DisableProfileRefresh = Disativa su butone "Agiorna{ -brand-short-name }" in sa pàgina about:support.
+policy-DisableSafeMode = Disativa sa funtzionalidade pro torrare a allùghere in modalidade segura. Dae cara: sa tecla Majùsculu pro intrare in sa modalidade segura si podet disativare in Windows isceti impreende sa polìtica de grupu.
+policy-DisableSecurityBypass = Impedi a s'utente de brincare unos cantos avisos de seguresa.
+policy-DisableSetAsDesktopBackground = Disativa su cumandu de su menù "Cunfigura comente isfundu de iscrivania" pro is immàgines.
+policy-DisableSystemAddonUpdate = Impedi a su navigadore de installare e agiornare cumplementos de sistema.
+policy-DisableTelemetry = Istuda sa telemetria.
+policy-DisplayBookmarksToolbar = Ammustra sa barra de is sinnalibros comente cunfiguratzione predefinida.
+policy-DisplayMenuBar = Ammustra sa barra de su menù comente cunfiguratzione predefinida.
+policy-DNSOverHTTPS = Cunfigura DNS pro mèdiu de HTTPS.
+policy-DontCheckDefaultBrowser = Disativa sa verìfica de su navigadore predefinidu a s'aviu.
+policy-DownloadDirectory = Cunfigura e bloca sa cartella de iscarrigamentu.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Ativa o disativa su blocu de cuntenutos e, si boles, bloca·ddu.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Ativa o disativa is estensiones pro is mèdios tzifrados e, si boles, bloca s'optzione.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Installa, disinstalla o bloca estensiones. S'optzione de installatzione pigat URL o àndalas comente paràmetros. Is optziones de disinstallatzione e de blocu pigant is ID de is estensiones.
+policy-ExtensionSettings = Gesti totu is aspetos de s'installatzione de estensiones.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
