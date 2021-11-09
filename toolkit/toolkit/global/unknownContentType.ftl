@@ -11,6 +11,8 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } Seçenekler bölümünden ayarlarınızı değiştirebilirsiniz.
            *[other] { -brand-short-name } Tercihler bölümünden ayarlarınızı değiştirebilirsiniz.
         }
+unknowncontenttype-intro = Şunu açmayı seçtiniz:
+unknowncontenttype-from = nereden:
 unknowncontenttype-prompt = Bu dosyayı kaydetmek ister misiniz?
 unknowncontenttype-action-question = { -brand-short-name } bu dosya ile ne yapsın?
 unknowncontenttype-other =
