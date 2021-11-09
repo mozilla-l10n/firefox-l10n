@@ -8,3 +8,15 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } এর অপশন থেকে সেটিং পরিবর্তন করা যাবে।
            *[other] { -brand-short-name } এর পছন্দসমূহ থেকে সেটিং পরিবর্তন করা যাবে।
         }
+unknowncontenttype-intro = আপনি খোলার জন্য পছন্দ করেছেন:
+unknowncontenttype-from = হতে:
+unknowncontenttype-prompt = আপনি কি এই ফাইলটি সংরক্ষণ করতে চান?
+unknowncontenttype-action-question = { -brand-short-name } ফাইলটি কি করবে?
+unknowncontenttype-open-with =
+    .label = অন্য অ্যাপ্লিকেশনে খুলুন (O)
+    .accesskey = O
+unknowncontenttype-other =
+    .label = অন্যান্য…
+unknowncontenttype-remember-choice =
+    .label = এই ধরনের ফাইলের জন্য এখন থেকে স্বয়ংক্রিয়ভাবে এই ব্যবস্থা গ্রহণ করা হবে। (a)
+    .accesskey = a
