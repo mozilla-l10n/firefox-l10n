@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = Amaga el botó d'Imatge sobre imatge
     .accesskey = m
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Mou el botó d'Imatge sobre imatge al costat dret
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Mou el botó d'Imatge sobre imatge al costat esquerre
+    .accesskey = e
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include

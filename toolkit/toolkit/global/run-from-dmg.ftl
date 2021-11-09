@@ -22,4 +22,7 @@ install-failed-message = El { -brand-short-name } no s'ha pogut instal·lar, per
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = Voleu obrir l’aplicació del { -brand-short-name } existent?
+prompt-to-launch-existing-app-message = Ja teniu el { -brand-short-name } instal·lat. Utilitzeu l’aplicació instal·lada per a mantenir-vos al dia i evitar la pèrdua de dades.
+prompt-to-launch-existing-app-yes-button = Obre l’existent
 prompt-to-launch-existing-app-no-button = No, gràcies
