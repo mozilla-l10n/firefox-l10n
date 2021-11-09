@@ -20,6 +20,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = Tvöfalda flipa
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Loka flipum til vinstri
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -58,10 +63,21 @@ move-to-end =
 move-to-new-window =
     .label = Færa yfir í nýjan glugga
     .accesskey = g
+tab-context-close-multiple-tabs =
+    .label = Loka mörgum flipum
+    .accesskey = m
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Afturkalla að loka flipa
+            [one] Afturkalla að loka flipa
+           *[other] Afturkalla að loka flipum
+        }
+    .accesskey = o
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
