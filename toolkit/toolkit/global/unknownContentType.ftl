@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Ils parameters pon vegnir midads en las preferenzas da { -brand-short-name }.
         }
 unknowncontenttype-intro = Ti vuls telechargiar la suandanta datoteca:
+unknowncontenttype-which-is = Dal tip:
 unknowncontenttype-from = Da:
 unknowncontenttype-prompt = Vuls ti memorisar questa datoteca sin in purtader da datas?
 unknowncontenttype-action-question = Tge duai { -brand-short-name } far cun questa datoteca?
