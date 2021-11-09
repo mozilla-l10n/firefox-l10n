@@ -14,6 +14,7 @@ unknowncontenttype-settingschange =
 unknowncontenttype-which-is = που είναι:
 unknowncontenttype-from = από:
 unknowncontenttype-prompt = Θέλετε να αποθηκεύσετε αυτό το αρχείο;
+unknowncontenttype-action-question = Τι να κάνει το { -brand-short-name } με αυτό το αρχείο;
 unknowncontenttype-open-with =
     .label = Άνοιγμα με
     .accesskey = ν
