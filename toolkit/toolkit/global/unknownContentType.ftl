@@ -11,6 +11,9 @@ unknowncontenttype-settingschange =
 unknowncontenttype-which-is = जे आहे:
 unknowncontenttype-from = पासून:
 unknowncontenttype-action-question = { -brand-short-name } नी या फाइलशी काय करावे?
+unknowncontenttype-open-with =
+    .label = यासह उघडा
+    .accesskey = O
 unknowncontenttype-other =
     .label = इतर...
 unknowncontenttype-choose-handler =
@@ -24,6 +27,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = फाइल साठवा
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = आत्तापासून यापुढे ह्या फाइल्सकरिता असेच आपोआप करा.
     .accesskey = a
