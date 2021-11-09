@@ -5,10 +5,31 @@
 unknowncontenttype-handleinternally =
     .label = Embojuruja { -brand-short-name }-pe
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Pe ñembohekopyahu ikatu emoambue { -brand-short-name } jeporavorã rupi.
            *[other] Pe ñembohekopyahu ikatu emoambue { -brand-short-name } oguerohoryvéva rupi.
         }
+unknowncontenttype-intro = Eiporavo jeike:
+unknowncontenttype-from = pegua:
+unknowncontenttype-prompt = Añetetépa eñongatuse ko marandurenda.
+unknowncontenttype-open-with =
+    .label = Eike ndive
+    .accesskey = O
+unknowncontenttype-other =
+    .label = Ambue…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Poravo…
+           *[other] Poravo…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = Marandurenda ñongatu
+    .accesskey = S
