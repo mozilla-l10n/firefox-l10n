@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] Settings can be changed in { -brand-short-name }'s Preferences.
         }
 unknowncontenttype-intro = You have chosen to open:
+unknowncontenttype-which-is = which is:
 unknowncontenttype-from = from:
 unknowncontenttype-prompt = Would you like to save this file?
 unknowncontenttype-action-question = What should { -brand-short-name } do with this file?
