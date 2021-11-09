@@ -5,10 +5,10 @@
 unknowncontenttype-handleinternally =
     .label = Openen met { -brand-short-name }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Instellingen kunnen worden gewijzigd in de opties van { -brand-short-name }.
            *[other] Instellingen kunnen worden gewijzigd in de voorkeuren van { -brand-short-name }.
         }
+unknowncontenttype-prompt = Wilt u dit bestand opslaan?
