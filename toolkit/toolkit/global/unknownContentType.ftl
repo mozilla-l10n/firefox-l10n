@@ -13,12 +13,30 @@ unknowncontenttype-settingschange =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] програма { -brand-short-name }
         }.
+unknowncontenttype-intro = Све је спремно за преузимање датотеке:
+unknowncontenttype-which-is = Тип:
+unknowncontenttype-from = Адреса:
+unknowncontenttype-prompt = Желите ли да сачувате ову датотеку?
 unknowncontenttype-action-question = Како да { -brand-short-name } обради ову датотеку?
 unknowncontenttype-open-with =
     .label = Отвори помоћу
     .accesskey = О
 unknowncontenttype-other =
     .label = Друго…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Одабери…
+           *[other] Одабери…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] И
+           *[other] И
+        }
+unknowncontenttype-save-file =
+    .label = Сачувај
+    .accesskey = С
 unknowncontenttype-remember-choice =
     .label = Користи овај избор за све датотеке овог типа.
     .accesskey = К
