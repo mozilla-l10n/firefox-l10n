@@ -8,3 +8,20 @@ unknowncontenttype-settingschange =
             [windows] Kitwero loko ter ki i gin ayera me { -brand-short-name }.
            *[other] Kitwero loko ter ki i ma imaro me { -brand-short-name }.
         }
+unknowncontenttype-open-with =
+    .label = Yab kwede
+    .accesskey = Y
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Yer…
+           *[other] Yeny…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] Y
+           *[other] Y
+        }
+unknowncontenttype-remember-choice =
+    .label = Tim mman pire kene pi fail ma cal kit man kombedi ceto kwede anyim.
+    .accesskey = p
