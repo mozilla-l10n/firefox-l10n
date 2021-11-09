@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Els paràmetres poden canviar-se a les preferències del { -brand-short-name }.
         }
 unknowncontenttype-intro = Heu triat obrir:
+unknowncontenttype-which-is = que és:
 unknowncontenttype-from = des de:
 unknowncontenttype-prompt = Voleu desar aquest fitxer?
 unknowncontenttype-open-with =
