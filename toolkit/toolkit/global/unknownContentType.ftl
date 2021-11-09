@@ -16,5 +16,25 @@ unknowncontenttype-which-is = ami egy:
 unknowncontenttype-from = forrás:
 unknowncontenttype-prompt = Szeretné menteni ezt a fájlt?
 unknowncontenttype-action-question = Mit tegyen a { -brand-short-name } ezzel a fájllal?
+unknowncontenttype-open-with =
+    .label = Megnyitás
+    .accesskey = n
 unknowncontenttype-other =
     .label = Másik…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Tallózás…
+           *[other] Tallózás…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] T
+        }
+unknowncontenttype-save-file =
+    .label = Fájl mentése
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = Mostantól minden hasonló fájllal tegyen ugyanígy.
+    .accesskey = a
