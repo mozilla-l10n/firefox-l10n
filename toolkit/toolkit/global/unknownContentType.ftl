@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] ההגדרות ניתנות לשינוי באפשרויות של { -brand-short-name }.
            *[other] ההגדרות ניתנות לשינוי בההעדפות של { -brand-short-name }.
         }
+unknowncontenttype-intro = בחרת לפתוח את:
 unknowncontenttype-which-is = שהוא:
 unknowncontenttype-from = מאת:
 unknowncontenttype-prompt = האם ברצונך לשמור קובץ זה?
