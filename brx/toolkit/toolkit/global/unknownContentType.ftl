@@ -13,6 +13,9 @@ unknowncontenttype-which-is = मबेया:
 unknowncontenttype-from = निफ्राय:
 unknowncontenttype-prompt = नोंथांहा बे फाइलखौ थिना दोननो लुबैयो नामा?
 unknowncontenttype-action-question = बे फाइलजों { -brand-short-name } आ मा मावनो?
+unknowncontenttype-open-with =
+    .label = जों खेव
+    .accesskey = O
 unknowncontenttype-other =
     .label = गुबुन...
 unknowncontenttype-choose-handler =
@@ -26,3 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = फाइलखौ थिना दोन
+    .accesskey = S
+unknowncontenttype-remember-choice =
+    .label = दानिफ्राय बे बादि फाइलफोरनि थाखाय गावनो गाव महरै बेखौ बाहाय।
+    .accesskey = a
