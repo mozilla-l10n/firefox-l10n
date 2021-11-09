@@ -5,10 +5,24 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } ile aç
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] { -brand-short-name } Seçenekler bölümünden ayarlarınızı değiştirebilirsiniz.
            *[other] { -brand-short-name } Tercihler bölümünden ayarlarınızı değiştirebilirsiniz.
+        }
+unknowncontenttype-prompt = Bu dosyayı kaydetmek ister misiniz?
+unknowncontenttype-action-question = { -brand-short-name } bu dosya ile ne yapsın?
+unknowncontenttype-other =
+    .label = Diğer…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Seçin…
+           *[other] Gözat…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] t
         }
