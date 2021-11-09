@@ -9,6 +9,8 @@ unknowncontenttype-settingschange =
            *[other] Kitwero loko ter ki i ma imaro me { -brand-short-name }.
         }
 unknowncontenttype-intro = I yero me yabo:
+unknowncontenttype-which-is = ma obedo:
+unknowncontenttype-from = kibot:
 unknowncontenttype-prompt = I mito gwoko pwail man?
 unknowncontenttype-action-question = Ngo ma myero { -brand-short-name }otim okom pwail man?
 unknowncontenttype-open-with =
