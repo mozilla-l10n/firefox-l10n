@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] { -brand-short-name } এর পছন্দসমূহ থেকে সেটিং পরিবর্তন করা যাবে।
         }
 unknowncontenttype-intro = আপনি খোলার জন্য পছন্দ করেছেন:
+unknowncontenttype-which-is = এটি একটি:
 unknowncontenttype-from = হতে:
 unknowncontenttype-prompt = আপনি কি এই ফাইলটি সংরক্ষণ করতে চান?
 unknowncontenttype-action-question = { -brand-short-name } ফাইলটি কি করবে?
