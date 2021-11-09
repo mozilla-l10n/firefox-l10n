@@ -5,10 +5,28 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } के साथ खोलें
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] सेटिंग { -brand-short-name }के विकल्प में बदला जा सकता है.
            *[other] सेटिंग { -brand-short-name } की वरीयता में बदला जा सकता है.
         }
+unknowncontenttype-from = से:
+unknowncontenttype-prompt = क्या आप इस फाइल को सहेजना चाहते हैं?
+unknowncontenttype-action-question = इस फाइल के साथ { -brand-short-name } को क्या करना चाहिए?
+unknowncontenttype-other =
+    .label = अन्य…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] चुनें…
+           *[other] ब्राउज़…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-remember-choice =
+    .label = इस तरह की फाइलों के ऐसा अब से स्वचालित रूप से करें.
+    .accesskey = a
