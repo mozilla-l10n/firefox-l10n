@@ -16,8 +16,25 @@ unknowncontenttype-which-is = რომელიც არის:
 unknowncontenttype-from = წყარო:
 unknowncontenttype-prompt = გნებავთ ამ ფაილის შენახვა?
 unknowncontenttype-action-question = როგორ მოეპყრას { -brand-short-name } ამ ფაილს?
+unknowncontenttype-open-with =
+    .label = გახსნის პროგრამით
+    .accesskey = გ
 unknowncontenttype-other =
     .label = სხვა…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] არჩევა…
+           *[other] მოძიება…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ა
+           *[other] ო
+        }
+unknowncontenttype-save-file =
+    .label = შეინახავს
+    .accesskey = შ
 unknowncontenttype-remember-choice =
     .label = მოქმედების დამახსოვრება ყველა მსგავსი ფაილისთვის.
     .accesskey = მ
