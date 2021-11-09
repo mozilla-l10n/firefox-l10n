@@ -136,9 +136,20 @@ warn-on-close-multiple-tabs =
 confirm-on-close-multiple-tabs =
     .label = Mitme kaardi sulgemisel kuvatakse kinnitusdialoogi
     .accesskey = M
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Enne klahvikombinatsiooniga { $quitKey } väljumist kuvatakse kinnitusdialoogi
+    .accesskey = n
 warn-on-open-many-tabs =
     .label = Hoiatus, kui mitme kaardi avamine võib aeglustada { -brand-short-name }i tööd
     .accesskey = i
+switch-to-new-tabs =
+    .label = Lingi, pildi või meedia avamisel uuel kaardil lülitutakse sellele koheselt
+    .accesskey = L
 show-tabs-in-taskbar =
     .label = Kaartide eelvaateid näidatakse Windowsi tegumiribal
     .accesskey = K
@@ -186,6 +197,12 @@ advanced-fonts =
 colors-settings =
     .label = Värvid…
     .accesskey = d
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Suurendamine
+preferences-default-zoom = Vaikimisi suurendamine
+    .accesskey = u
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = Keel
 choose-language-description = Vali oma eelistatud keel veebilehtede kuvamiseks
 choose-button =
