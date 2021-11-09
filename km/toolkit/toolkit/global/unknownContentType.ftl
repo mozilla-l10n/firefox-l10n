@@ -13,6 +13,9 @@ unknowncontenttype-which-is = ដែល​ជា ៖
 unknowncontenttype-from = ពី ៖
 unknowncontenttype-prompt = តើ​អ្នក​ចង់​រក្សា​ទុក​ឯកសារ​នេះ​ឬ?
 unknowncontenttype-action-question = តើ { -brand-short-name } គួរ​ធ្វើ​អ្វី​ជាមួយ​ឯកសារ​នេះ?
+unknowncontenttype-open-with =
+    .label = ​បើក​ជាមួយ
+    .accesskey = O
 unknowncontenttype-other =
     .label = ផ្សេង​ទៀត...
 unknowncontenttype-choose-handler =
@@ -26,3 +29,6 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = រក្សា​ទុក​ឯកសារ
+    .accesskey = S
