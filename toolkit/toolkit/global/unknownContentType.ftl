@@ -13,6 +13,9 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-prompt = Hoffech chi gadw'r ffeil?
 unknowncontenttype-action-question = Beth ddylai { -brand-short-name } wneud gyda'r ffeil?
+unknowncontenttype-open-with =
+    .label = Agor gyda
+    .accesskey = o
 unknowncontenttype-save-file =
     .label = Cadw Ffeil
     .accesskey = C
