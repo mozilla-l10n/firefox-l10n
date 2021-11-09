@@ -8,3 +8,21 @@ unknowncontenttype-settingschange =
             [windows] सेटिंखौ { -brand-short-name }नि उफ्राफोराव सोलायनो हायो।
            *[other] सेटिंखौ { -brand-short-name }नि पसन्दफोराव सोलायनो हायो।
         }
+unknowncontenttype-intro = खेवनो नोंथाङा बासिखबाय:
+unknowncontenttype-which-is = मबेया:
+unknowncontenttype-from = निफ्राय:
+unknowncontenttype-prompt = नोंथांहा बे फाइलखौ थिना दोननो लुबैयो नामा?
+unknowncontenttype-action-question = बे फाइलजों { -brand-short-name } आ मा मावनो?
+unknowncontenttype-other =
+    .label = गुबुन...
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] बासिख...
+           *[other] बाउज...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
