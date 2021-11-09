@@ -133,6 +133,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] हटाएँ
+        [one] हटाएँ
+       *[other] सभी हटाएं
+    }
 about-logins-confirm-export-dialog-title = लॉगिन और पासवर्ड निर्यात करें
 about-logins-confirm-export-dialog-message = आपके पासवर्ड पढ़ने योग्य टेक्स्ट (जैसे BadP@ssw0rd) के रूप में सहेजे जाएंगे ताकि जो भी निर्यात की गई फ़ाइल को खोल पाएंगे, उन्हें देख सकते हैं।
 about-logins-confirm-export-dialog-confirm-button = निर्यात करें…
@@ -204,8 +210,11 @@ about-logins-import-file-picker-tsv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = संपन्न
+about-logins-import-dialog-error-file-permission-title = फ़ाइल पढ़ने में असमर्थ
 about-logins-import-dialog-error-learn-more = अधिक जानें
 about-logins-import-dialog-error-cancel = रद्द करें
+about-logins-import-report-title = आयात सारांश
 about-logins-import-report-row-description-added = नया लॉगिन जोड़ा गया
 
 ##
