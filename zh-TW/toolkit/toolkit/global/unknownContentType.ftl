@@ -5,10 +5,21 @@
 unknowncontenttype-handleinternally =
     .label = 用 { -brand-short-name } 開啟
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] 請從 { -brand-short-name } 的選項變更設定值。
            *[other] 請從 { -brand-short-name } 的偏好設定變更設定值。
         }
+unknowncontenttype-action-question = { -brand-short-name } 應該如何處理此檔案？
+unknowncontenttype-open-with =
+    .label = 開啟方式:
+    .accesskey = O
+unknowncontenttype-other =
+    .label = 其它…
+unknowncontenttype-save-file =
+    .label = 儲存檔案
+    .accesskey = S
+unknowncontenttype-remember-choice =
+    .label = 對此類檔案自動採用此處理方式。
+    .accesskey = a
