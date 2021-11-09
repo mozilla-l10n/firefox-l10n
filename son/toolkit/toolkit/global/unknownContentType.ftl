@@ -8,3 +8,28 @@ unknowncontenttype-settingschange =
             [windows] Kayandiyaney ši hin ka barmay { -brand-short-name } suubarey ra.
            *[other] Kayandiyaney ši hin ka barmay { -brand-short-name } ibaayey ra.
         }
+unknowncontenttype-from = hun doo:
+unknowncontenttype-prompt = War baa ka tukoo woo gaabu?
+unknowncontenttype-action-question = Cin no { -brand-short-name } ga hima ga tee?
+unknowncontenttype-open-with =
+    .label = Feeri nda
+    .accesskey = F
+unknowncontenttype-other =
+    .label = Affoo tana…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Suuba…
+           *[other] Naaru…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] N
+        }
+unknowncontenttype-save-file =
+    .label = Tuku gaabu
+    .accesskey = T
+unknowncontenttype-remember-choice =
+    .label = Woo tee bonše tuku dumey wey še sohõ banda ga.
+    .accesskey = b
