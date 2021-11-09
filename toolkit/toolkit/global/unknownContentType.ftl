@@ -5,10 +5,23 @@
 unknowncontenttype-handleinternally =
     .label = Mở bằng { -brand-short-name }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Thiết lập có thể được thay đổi trong tùy chọn của { -brand-short-name }.
            *[other] Thiết lập có thể được thay đổi trong Tùy chỉnh của { -brand-short-name }.
+        }
+unknowncontenttype-from = từ:
+unknowncontenttype-other =
+    .label = Khác…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Chọn…
+           *[other] Duyệt…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] D
         }
