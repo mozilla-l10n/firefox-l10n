@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Kitwero loko ter ki i gin ayera me { -brand-short-name }.
            *[other] Kitwero loko ter ki i ma imaro me { -brand-short-name }.
         }
+unknowncontenttype-intro = I yero me yabo:
 unknowncontenttype-prompt = I mito gwoko pwail man?
 unknowncontenttype-action-question = Ngo ma myero { -brand-short-name }otim okom pwail man?
 unknowncontenttype-open-with =
