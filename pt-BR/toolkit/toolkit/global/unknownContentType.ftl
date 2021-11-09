@@ -11,6 +11,8 @@ unknowncontenttype-settingschange =
             [windows] As configurações podem ser alteradas nas opções do { -brand-short-name }.
            *[other] As configurações podem ser alteradas nas preferências do { -brand-short-name }.
         }
+unknowncontenttype-which-is = tipo:
+unknowncontenttype-from = de:
 unknowncontenttype-action-question = O que o { -brand-short-name } deve fazer?
 unknowncontenttype-other =
     .label = Outro aplicativo…
