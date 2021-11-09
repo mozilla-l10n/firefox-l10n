@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] سیٹنگز { -brand-short-name } کی ترجیحات سےتبدیل کی جا سکتی ہیں۔
         }
 unknowncontenttype-intro = آپ نے اسے کھولنے کا انتخاب کیا ہے:
+unknowncontenttype-which-is = جو کہ:
 unknowncontenttype-from = از:
 unknowncontenttype-prompt = کیا آپ اس مسل کو محفوظ کرنا چاہتے ہیں؟
 unknowncontenttype-action-question = { -brand-short-name } اس مسل کے ساتھ کیا کرے؟
