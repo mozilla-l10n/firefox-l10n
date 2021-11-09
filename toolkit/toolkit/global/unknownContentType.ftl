@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] পছন্দক { -brand-short-name } ৰ পছন্দসমূহত সলনি কৰিব পাৰি।
         }
 unknowncontenttype-intro = আপুনি খুলিবলৈ নিৰ্বাচন কৰিছে:
+unknowncontenttype-which-is = যি এটা:
 unknowncontenttype-from = চিহ্নিত বস্তুৰ পৰা:
 unknowncontenttype-prompt = আপুনি এই ফাইল সংৰক্ষণ কৰিব বিচাৰে নে?
 unknowncontenttype-action-question = { -brand-short-name } এ এই ফাইলৰ লগত কি কৰিব লাগে?
