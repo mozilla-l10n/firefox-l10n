@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Le parametros pote esser cambiate in le optiones de { -brand-short-name }.
            *[other] Le parametros pote esser cambiate in le preferentias de { -brand-short-name }.
         }
+unknowncontenttype-intro = Tu ha eligite de aperir:
 unknowncontenttype-which-is = le qual es:
 unknowncontenttype-from = de:
 unknowncontenttype-prompt = Desira tu salvar iste file?
@@ -20,6 +21,17 @@ unknowncontenttype-open-with =
     .accesskey = o
 unknowncontenttype-other =
     .label = Altere…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Eliger…
+           *[other] Percurrer…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] P
+        }
 unknowncontenttype-save-file =
     .label = Salvar le file
     .accesskey = s
