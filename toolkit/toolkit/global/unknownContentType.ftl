@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] सेटिंग { -brand-short-name } की वरीयता में बदला जा सकता है.
         }
 unknowncontenttype-intro = आपने खोलने के लिए चुना है:
+unknowncontenttype-which-is = जो है:
 unknowncontenttype-from = से:
 unknowncontenttype-prompt = क्या आप इस फाइल को सहेजना चाहते हैं?
 unknowncontenttype-action-question = इस फाइल के साथ { -brand-short-name } को क्या करना चाहिए?
