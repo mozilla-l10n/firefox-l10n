@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
 unknowncontenttype-intro = Siz açmaq üçün seçdiniz:
 unknowncontenttype-from = ünvan:
 unknowncontenttype-prompt = Bu faylı saxlamaq istərdiniz?
+unknowncontenttype-action-question = { -brand-short-name } bu fayl ilə nə etsin?
 unknowncontenttype-open-with =
     .label = Bununla aç
     .accesskey = a
@@ -27,6 +28,9 @@ unknowncontenttype-choose-handler =
             [macos] S
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = Fərqli saxla
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = Bu cür bütün fayllar üçün bunu avtomatik et.
     .accesskey = a
