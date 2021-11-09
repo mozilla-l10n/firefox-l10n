@@ -123,6 +123,7 @@ about-webrtc-discarded-packets-label = Απορριφθέντα πακέτα:
 about-webrtc-decoder-label = Αποκωδικοποιητής
 about-webrtc-encoder-label = Κωδικοποιητής
 about-webrtc-show-tab-label = Εμφάνιση καρτέλας
+about-webrtc-current-framerate-label = Ρυθμός καρέ
 about-webrtc-width-px = Πλάτος (px)
 about-webrtc-height-px = Ύψος (px)
 about-webrtc-consecutive-frames = Διαδοχικά καρέ

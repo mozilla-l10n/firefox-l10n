@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = Απόκρυψη διακόπτη εικόνας εντός εικόνας
     .accesskey = Α
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Μετακίνηση διακόπτη «εικόνας εντός εικόνας» στα δεξιά
+    .accesskey = ε
+picture-in-picture-move-toggle-left =
+    .label = Μετακίνηση διακόπτη «εικόνας εντός εικόνας» στα αριστερά
+    .accesskey = α
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
