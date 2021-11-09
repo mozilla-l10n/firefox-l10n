@@ -8,7 +8,10 @@ unknowncontenttype-settingschange =
             [windows] E inpostaçioin peuan ese cangiæ inte Preferense de { -brand-short-name }
            *[other] E inpostaçioin peuan ese cangiæ inte Preferense de { -brand-short-name }.
         }
+unknowncontenttype-intro = Ti t'æ çernuo de arvî
+unknowncontenttype-which-is = tipo:
 unknowncontenttype-from = da:
+unknowncontenttype-prompt = Ti veu sarvâ sto schedaio?
 unknowncontenttype-action-question = E cöse dovieiva fâ o { -brand-short-name } con sto file?
 unknowncontenttype-open-with =
     .label = Arvi con
@@ -26,3 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] i
            *[other] Ç
         }
+unknowncontenttype-save-file =
+    .label = Sarva schedaio
+    .accesskey = S
+unknowncontenttype-remember-choice =
+    .label = Fannilo in aotomatico pe-i schedai comme sto chi da oua in avanti.
+    .accesskey = a
