@@ -8,3 +8,17 @@ unknowncontenttype-settingschange =
             [windows] सेटिंग { -brand-short-name }के विकल्पमे बदलल जाए सकैत अछि .
            *[other] सेटिंग { -brand-short-name } क वरीयतामे बदलल जाए सकैत अछि .
         }
+unknowncontenttype-from = से:
+unknowncontenttype-other =
+    .label = आन …
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] चुनू…
+           *[other] ब्राउज़…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
