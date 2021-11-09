@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] تنظیمات را می‌توان در ترجیحات { -brand-short-name } تغییر داد.
         }
 unknowncontenttype-intro = شما انتخاب کردید که باز کنید:
+unknowncontenttype-which-is = که پرونده‌ای از این نوع است:
 unknowncontenttype-from = از:
 unknowncontenttype-prompt = آیا می‌خواهید این پرونده را ذخیره کنید؟
 unknowncontenttype-action-question = { -brand-short-name } با این پرونده چه‌کار کند؟
