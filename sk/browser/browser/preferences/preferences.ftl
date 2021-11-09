@@ -783,7 +783,7 @@ forms-master-pw-fips-desc = Heslo sa nepodarilo zmeniť
 forms-windows-sso =
     .label = Povoliť jednotné prihlásenie systému Windows pre účty Microsoft, pracovné a školské účty
 forms-windows-sso-learn-more-link = Ďalšie informácie
-forms-windows-sso-desc = Spravovať účty v tomto zariadení
+forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zariadenia
 
 ## OS Authentication dialog
 
