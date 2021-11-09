@@ -11,7 +11,30 @@ unknowncontenttype-settingschange =
             [windows] Pues camudar los axustes nes opciones de { -brand-short-name }.
            *[other] Pues camudar los axustes nes preferencies de { -brand-short-name }.
         }
+unknowncontenttype-intro = Escoyesti abrir:
+unknowncontenttype-which-is = que ye:
 unknowncontenttype-from = de:
+unknowncontenttype-prompt = ¿Quies guardar esti ficheru?
+unknowncontenttype-action-question = ¿Qué habría facer { -brand-short-name } con esti ficheru?
 unknowncontenttype-open-with =
     .label = Abrir con
     .accesskey = A
+unknowncontenttype-other =
+    .label = Otra aplicación…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Escoyer…
+           *[other] Restolar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] R
+        }
+unknowncontenttype-save-file =
+    .label = Guardar el ficheru
+    .accesskey = G
+unknowncontenttype-remember-choice =
+    .label = Facer esto con ficheros como esti dende agora.
+    .accesskey = a
