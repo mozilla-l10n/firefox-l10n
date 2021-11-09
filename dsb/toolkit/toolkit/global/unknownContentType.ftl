@@ -33,3 +33,6 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Dataju składowaś
     .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = To awtomatiski za dataje ako toś tu wótněnta cyniś.
+    .accesskey = T
