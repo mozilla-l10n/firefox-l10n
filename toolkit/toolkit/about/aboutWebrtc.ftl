@@ -123,6 +123,7 @@ about-webrtc-discarded-packets-label = แพ็คเก็ตที่ถู�
 about-webrtc-decoder-label = ตัวถอดรหัส
 about-webrtc-encoder-label = ตัวเข้ารหัส
 about-webrtc-show-tab-label = แสดงแท็บ
+about-webrtc-current-framerate-label = อัตราเฟรม
 about-webrtc-width-px = ความกว้าง (px)
 about-webrtc-height-px = ความสูง (px)
 about-webrtc-consecutive-frames = เฟรมต่อเนื่อง

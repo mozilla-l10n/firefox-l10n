@@ -733,6 +733,19 @@ picture-in-picture-hide-toggle =
     .label = ซ่อนสลับภาพที่เล่นควบคู่
     .accesskey = อ
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = เลื่อนภาพที่เล่นควบคู่สลับไปทางด้านขวา
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = เลื่อนภาพที่เล่นควบคู่สลับไปทางด้านซ้าย
+    .accesskey = L
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
