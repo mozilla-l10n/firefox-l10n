@@ -5,10 +5,34 @@
 unknowncontenttype-handleinternally =
     .label = Ouvrir avec { -brand-short-name }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Les paramètres peuvent être modifiés dans le menu Options de { -brand-short-name }.
            *[other] Les paramètres peuvent être modifiés dans le Menu Préférences de { -brand-short-name }.
         }
+unknowncontenttype-from = à partir de :
+unknowncontenttype-prompt = Voulez-vous enregistrer ce fichier ?
+unknowncontenttype-action-question = Que doit faire { -brand-short-name } avec ce fichier ?
+unknowncontenttype-open-with =
+    .label = Ouvrir avec
+    .accesskey = O
+unknowncontenttype-other =
+    .label = Autre…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Choisir…
+           *[other] Parcourir…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] P
+        }
+unknowncontenttype-save-file =
+    .label = Enregistrer le fichier
+    .accesskey = E
+unknowncontenttype-remember-choice =
+    .label = Toujours effectuer cette action pour ce type de fichier.
+    .accesskey = T
