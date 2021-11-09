@@ -11,6 +11,9 @@ unknowncontenttype-settingschange =
             [windows] Kemmet e vez an arventennoù gant Dibarzhioù { -brand-short-name }.
            *[other] Kemmet e vez an arventennoù gant Gwellvezioù { -brand-short-name }.
         }
+unknowncontenttype-intro = Dibabet ho peus da zigeriñ:
+unknowncontenttype-which-is = hag a zo ur:
+unknowncontenttype-from = adalek:
 unknowncontenttype-open-with =
     .label = Digeriñ gant
     .accesskey = g
