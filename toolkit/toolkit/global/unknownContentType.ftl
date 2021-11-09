@@ -16,6 +16,19 @@ unknowncontenttype-action-question = Beth ddylai { -brand-short-name } wneud gyd
 unknowncontenttype-open-with =
     .label = Agor gyda
     .accesskey = o
+unknowncontenttype-other =
+    .label = Arall…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Dewis…
+           *[other] Pori…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] D
+           *[other] P
+        }
 unknowncontenttype-save-file =
     .label = Cadw Ffeil
     .accesskey = C
