@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Setările pot fi schimbate din fereastra de opțiuni { -brand-short-name }.
            *[other] Setările pot fi schimbate din fereastra de preferințe { -brand-short-name }.
         }
+unknowncontenttype-which-is = care este:
 unknowncontenttype-from = De la:
 unknowncontenttype-save-file =
     .label = Salvează fișierul
