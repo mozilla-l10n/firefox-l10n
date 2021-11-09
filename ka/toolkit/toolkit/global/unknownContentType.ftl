@@ -5,10 +5,13 @@
 unknowncontenttype-handleinternally =
     .label = გახსნის { -brand-short-name }
     .accesskey = ხ
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებიდან.
            *[other] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებში.
         }
+unknowncontenttype-prompt = გნებავთ ამ ფაილის შენახვა?
+unknowncontenttype-action-question = როგორ მოეპყრას { -brand-short-name } ამ ფაილს?
+unknowncontenttype-other =
+    .label = სხვა…
