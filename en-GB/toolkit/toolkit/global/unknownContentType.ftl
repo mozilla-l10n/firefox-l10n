@@ -12,9 +12,13 @@ unknowncontenttype-settingschange =
            *[other] Settings can be changed in { -brand-short-name }’s Preferences.
         }
 unknowncontenttype-intro = You have chosen to open:
+unknowncontenttype-which-is = which is:
 unknowncontenttype-from = from:
 unknowncontenttype-prompt = Would you like to save this file?
 unknowncontenttype-action-question = What should { -brand-short-name } do with this file?
+unknowncontenttype-open-with =
+    .label = Open with
+    .accesskey = O
 unknowncontenttype-other =
     .label = Other…
 unknowncontenttype-choose-handler =
@@ -28,6 +32,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = Save File
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = Do this automatically for files like this from now on.
     .accesskey = a
