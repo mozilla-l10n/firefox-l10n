@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Inställningarna kan ändras i { -brand-short-name }s Inställningar.
         }
 unknowncontenttype-intro = Du har valt att öppna:
+unknowncontenttype-which-is = som är en fil av typen:
 unknowncontenttype-from = från:
 unknowncontenttype-prompt = Vill du spara den här filen?
 unknowncontenttype-action-question = Vad vill du att { -brand-short-name } gör med denna fil?
