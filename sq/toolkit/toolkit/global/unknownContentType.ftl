@@ -5,10 +5,13 @@
 unknowncontenttype-handleinternally =
     .label = Hape me { -brand-short-name }
     .accesskey = H
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Rregullimet mund të ndryshohen te Mundësitë e { -brand-short-name }-it.
            *[other] Rregullimet mund të ndryshohen te Parapëlqimet e { -brand-short-name }-it.
         }
+unknowncontenttype-prompt = Do të donit ta ruanit këtë kartelë?
+unknowncontenttype-save-file =
+    .label = Ruaje Kartelën
+    .accesskey = r
