@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] يُمكن تغيير الإعدادات من خيارات { -brand-short-name }.
            *[other] يُمكن تغيير الإعدادات من تفضيلات { -brand-short-name }.
         }
+unknowncontenttype-intro = اخترت فتح:
 unknowncontenttype-from = مِن:
 unknowncontenttype-prompt = أترغب في حفظ هذا الملف؟
 unknowncontenttype-action-question = ماذا على { -brand-short-name } أن يفعل بهذا الملفّ؟
