@@ -19,6 +19,19 @@ unknowncontenttype-action-question = { -brand-short-name } бұл файлды �
 unknowncontenttype-open-with =
     .label = Көмегімен ашу
     .accesskey = ш
+unknowncontenttype-other =
+    .label = Таңдау…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Таңдау…
+           *[other] Қарап шығу…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] Т
+           *[other] ш
+        }
 unknowncontenttype-save-file =
     .label = Файлды сақтау
     .accesskey = с
