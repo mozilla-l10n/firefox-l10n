@@ -11,8 +11,25 @@ unknowncontenttype-settingschange =
             [windows] Setările pot fi schimbate din fereastra de opțiuni { -brand-short-name }.
            *[other] Setările pot fi schimbate din fereastra de preferințe { -brand-short-name }.
         }
+unknowncontenttype-intro = Ai ales să deschizi:
 unknowncontenttype-which-is = care este:
 unknowncontenttype-from = De la:
+unknowncontenttype-open-with =
+    .label = Deschide cu
+    .accesskey = O
+unknowncontenttype-other =
+    .label = Altceva…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Alege…
+           *[other] Răsfoiește…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] f
+        }
 unknowncontenttype-save-file =
     .label = Salvează fișierul
     .accesskey = S
