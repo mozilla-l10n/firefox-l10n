@@ -12,3 +12,27 @@ unknowncontenttype-settingschange =
            *[other] 세부 설정은 { -brand-short-name } 환경설정에서 바꿀 수 있습니다.
         }
 unknowncontenttype-intro = 열기 선택:
+unknowncontenttype-from = 원본 위치:
+unknowncontenttype-prompt = 이 파일을 저장하시겠습니까?
+unknowncontenttype-open-with =
+    .label = 열기:
+    .accesskey = o
+unknowncontenttype-other =
+    .label = 기타…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] 선택하기…
+           *[other] 찾아보기…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = 파일 저장
+    .accesskey = s
+unknowncontenttype-remember-choice =
+    .label = 다시 묻지 않음
+    .accesskey = a
