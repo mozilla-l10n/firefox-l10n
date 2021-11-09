@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] 'S urrainn dhut na roghainnean atharrachadh ann an roghainnean { -brand-short-name }.
            *[other] 'S urrainn dhut na roghainnean atharrachadh ann an roghainnean { -brand-short-name }.
         }
+unknowncontenttype-intro = Chuir thu romhad na leanas fhosgladh:
 unknowncontenttype-from = o:
 unknowncontenttype-prompt = A bheil thu airson am faidhle seo a shàbhaladh?
 unknowncontenttype-action-question = Dè nì { -brand-short-name } leis an fhaidhle seo?
