@@ -13,6 +13,7 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-intro = Rydych wedi dewis agor:
 unknowncontenttype-which-is = sydd yn:
+unknowncontenttype-from = oddi wrth:
 unknowncontenttype-prompt = Hoffech chi gadw'r ffeil?
 unknowncontenttype-action-question = Beth ddylai { -brand-short-name } wneud gyda'r ffeil?
 unknowncontenttype-open-with =
