@@ -5,10 +5,34 @@
 unknowncontenttype-handleinternally =
     .label = Åpne med { -brand-short-name }
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Innstillinger kan endres i { -brand-short-name } sine innstillinger.
            *[other] Innstillinger kan endres i { -brand-short-name } sine innstillinger.
         }
+unknowncontenttype-from = Fra:
+unknowncontenttype-prompt = Vil du lagre denne filen?
+unknowncontenttype-action-question = Hva skal { -brand-short-name } gjøre med denne filen?
+unknowncontenttype-open-with =
+    .label = Åpne med
+    .accesskey = Å
+unknowncontenttype-other =
+    .label = Andre …
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Velg …
+           *[other] Bla gjennom …
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = Lagre fil
+    .accesskey = L
+unknowncontenttype-remember-choice =
+    .label = Gjør dette automatisk fra nå av.
+    .accesskey = d
