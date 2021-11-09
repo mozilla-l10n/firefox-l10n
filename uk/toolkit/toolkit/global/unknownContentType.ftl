@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Вподобання можуть бути змінені в Налаштуваннях { -brand-short-name }.
            *[other] Вподобання можуть бути змінені в Налаштуваннях { -brand-short-name }.
         }
+unknowncontenttype-intro = Ви збираєтесь відкрити:
 unknowncontenttype-from = з
 unknowncontenttype-prompt = Зберегти цей файл?
 unknowncontenttype-action-question = Як { -brand-short-name } повинен обробити цей файл?
@@ -19,6 +20,17 @@ unknowncontenttype-open-with =
     .accesskey = В
 unknowncontenttype-other =
     .label = Вибрати…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Вибрати…
+           *[other] Огляд…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] б
+           *[other] г
+        }
 unknowncontenttype-save-file =
     .label = Зберегти файл
     .accesskey = З
