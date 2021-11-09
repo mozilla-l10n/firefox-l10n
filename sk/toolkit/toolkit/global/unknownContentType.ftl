@@ -5,10 +5,36 @@
 unknowncontenttype-handleinternally =
     .label = Otvoriť v aplikácii { -brand-short-name }
     .accesskey = o
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Nastavenia je možné zmeniť v Možnostiach prehliadača { -brand-short-name }.
            *[other] Nastavenia je možné zmeniť v Možnostiach prehliadača { -brand-short-name }.
         }
+unknowncontenttype-intro = Vybrali ste akciu otvoriť súbor alebo odkaz:
+unknowncontenttype-which-is = ktorý je typu:
+unknowncontenttype-from = umiestnený na serveri:
+unknowncontenttype-prompt = Chcete uložiť tento súbor?
+unknowncontenttype-action-question = Čo má { -brand-short-name } vykonať s týmto súborom?
+unknowncontenttype-open-with =
+    .label = Otvoriť pomocou
+    .accesskey = O
+unknowncontenttype-other =
+    .label = Iné…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Vybrať…
+           *[other] Prehľadávať…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] h
+        }
+unknowncontenttype-save-file =
+    .label = Uložiť súbor
+    .accesskey = U
+unknowncontenttype-remember-choice =
+    .label = Odteraz to robiť automaticky so všetkými súbormi ako je tento
+    .accesskey = a
