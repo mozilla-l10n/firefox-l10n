@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name }ನ ಆಯ್ಕೆಗಳಲ್ಲಿ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದಾಗಿದೆ.
            *[other] { -brand-short-name }ನ ಆದ್ಯತೆಗಳಲ್ಲಿ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದಾಗಿದೆ.
         }
+unknowncontenttype-intro = ನೀವು ಇದನ್ನು ತೆರೆಯಲು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ:
 unknowncontenttype-from = ಇಂದ:
 unknowncontenttype-prompt = ನೀವು ಈ ಕಡತವನ್ನು ಉಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
 unknowncontenttype-action-question = { -brand-short-name }ಈ ಕಡತದಿಂದ ಏನು ಮಾಡಬೇಕು?
