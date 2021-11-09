@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Hívatlanul érkezik?
 calendar-itip-identity-warning = Még nem szerepel a vendéglistán.
 calendar-itip-identity-label = Válasz mint:
+calendar-itip-identity-label-none = Esemény összekapcsolása ezzel:
