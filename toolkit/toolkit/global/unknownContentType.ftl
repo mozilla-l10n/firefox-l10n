@@ -5,10 +5,12 @@
 unknowncontenttype-handleinternally =
     .label = Megnyitás a { -brand-short-name }szal
     .accesskey = M
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
            *[other] A beállítások a { -brand-short-name } Beállítások párbeszédpaneljén megváltoztathatók.
         }
+unknowncontenttype-from = forrás:
+unknowncontenttype-prompt = Szeretné menteni ezt a fájlt?
+unknowncontenttype-action-question = Mit tegyen a { -brand-short-name } ezzel a fájllal?
