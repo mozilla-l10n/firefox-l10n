@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Не запрошені?
 calendar-itip-identity-warning = Ви ще не в списку запрошених.
 calendar-itip-identity-label = Відповісти як:
+calendar-itip-identity-label-none = Пов’язати цю подію з:
