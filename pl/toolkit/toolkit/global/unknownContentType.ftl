@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Ustawienia można zmienić w oknie Opcje programu { -brand-short-name }.
            *[other] Ustawienia można zmienić w oknie Preferencje programu { -brand-short-name }.
         }
+unknowncontenttype-prompt = Czy zapisać ten plik?
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
