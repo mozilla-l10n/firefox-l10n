@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Oppsettet kan endrast i { -brand-short-name }, Innstilingar.
            *[other] Oppsettet kan endrast i { -brand-short-name }, Innstillingar.
         }
+unknowncontenttype-which-is = som er:
 unknowncontenttype-from = Frå:
 unknowncontenttype-remember-choice =
     .label = Gjer dette automatisk frå no av.
