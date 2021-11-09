@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Nuostatas galima pakeisti „{ -brand-short-name }“ parinkčių lange.
            *[other] Nuostatas galima pakeisti „{ -brand-short-name }“ nuostatų lange.
         }
+unknowncontenttype-intro = Pasirinkote atverti failą:
 unknowncontenttype-from = iš:
 unknowncontenttype-prompt = Ar įrašyti šį failą?
 unknowncontenttype-other =
