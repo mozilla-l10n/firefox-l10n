@@ -10,3 +10,19 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-from = da:
 unknowncontenttype-action-question = E cöse dovieiva fâ o { -brand-short-name } con sto file?
+unknowncontenttype-open-with =
+    .label = Arvi con
+    .accesskey = c
+unknowncontenttype-other =
+    .label = Atri…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Çerni…
+           *[other] Çerca…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] i
+           *[other] Ç
+        }
