@@ -9,6 +9,8 @@ unknowncontenttype-settingschange =
            *[other] सेटिंग { -brand-short-name } क वरीयतामे बदलल जाए सकैत अछि .
         }
 unknowncontenttype-from = से:
+unknowncontenttype-prompt = की अहाँ एहि फाइल केँ सहेजब चाहैत अछि ?
+unknowncontenttype-action-question = ई फाइलक सँग { -brand-short-name } केँ कएनाइ चाही?
 unknowncontenttype-other =
     .label = आन …
 unknowncontenttype-choose-handler =
@@ -22,3 +24,6 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-remember-choice =
+    .label = ई तरहक फाइलक एहिना आब स्वचालित रूप सँ करू .
+    .accesskey = a
