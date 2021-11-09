@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] Thiết lập có thể được thay đổi trong tùy chọn của { -brand-short-name }.
            *[other] Thiết lập có thể được thay đổi trong Tùy chỉnh của { -brand-short-name }.
         }
+unknowncontenttype-intro = Bạn phải chọn để mở:
 unknowncontenttype-from = từ:
 unknowncontenttype-prompt = Bạn có muốn lưu tập tin này không?
 unknowncontenttype-action-question = { -brand-short-name } nên làm gì với tập tin này?
