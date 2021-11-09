@@ -32,3 +32,6 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Захаваць файл
     .accesskey = З
+unknowncontenttype-remember-choice =
+    .label = Рабіць гэта аўтаматычна для падобных файлаў з гэтага часу.
+    .accesskey = с
