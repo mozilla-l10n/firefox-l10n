@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Wobetumi asesa nhyehyɛe wɔ { -brand-short-name } nɔphyɛn mu.
            *[other] Wobetumi asesa nhyehyɛe wɔ { -brand-short-name } apɛdeɛ mu.
         }
+unknowncontenttype-intro = Wo apaw sɛ wo bɛbue:
 unknowncontenttype-from = efiri:
 unknowncontenttype-prompt = Wo pɛ sɛ wo sie fael yi?
 unknowncontenttype-action-question = { -brand-short-name } mfa fael yi nyɛ dɛn?
