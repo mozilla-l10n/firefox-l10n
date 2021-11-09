@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] Параметрите може да се променат во Поставки на { -brand-short-name }.
         }
 unknowncontenttype-intro = Избравте да отворите:
+unknowncontenttype-which-is = која е:
 unknowncontenttype-from = од:
 unknowncontenttype-prompt = Дали би сакале да ја снимите оваа датотека?
 unknowncontenttype-action-question = Што треба { -brand-short-name } да прави со оваа датотека?
