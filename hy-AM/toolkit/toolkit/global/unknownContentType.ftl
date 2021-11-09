@@ -5,10 +5,13 @@
 unknowncontenttype-handleinternally =
     .label = Բացել { -brand-short-name }-ում
     .accesskey = e
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Պարամետրերը կարող են փոփոխվել { -brand-short-name }ի կարգավորումներում:
            *[other] Պարամետրերը կարող են փոփոխել { -brand-short-name }-ի կարգավորումներում:
         }
+unknowncontenttype-from = աղբյուրը.
+unknowncontenttype-action-question = Ի՞նչ պիտի { -brand-short-name }­ն անի այս ֆայլի հետ:
+unknowncontenttype-other =
+    .label = Այլ…
