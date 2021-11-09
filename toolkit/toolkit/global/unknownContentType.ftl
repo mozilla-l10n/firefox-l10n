@@ -32,3 +32,6 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = រក្សា​ទុក​ឯកសារ
     .accesskey = S
+unknowncontenttype-remember-choice =
+    .label = ចាប់ពី​ពេល​នេះ​ទៅ ត្រូវតែ​ធ្វើ​​ដូច្នេះ​ដោយ​ស្វ័យប្រវត្តិ​សម្រាប់​ឯកសារ​ទាំងនេះ។
+    .accesskey = a
