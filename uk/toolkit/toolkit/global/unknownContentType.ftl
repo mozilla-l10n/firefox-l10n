@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] Вподобання можуть бути змінені в Налаштуваннях { -brand-short-name }.
         }
 unknowncontenttype-intro = Ви збираєтесь відкрити:
+unknowncontenttype-which-is = який є:
 unknowncontenttype-from = з
 unknowncontenttype-prompt = Зберегти цей файл?
 unknowncontenttype-action-question = Як { -brand-short-name } повинен обробити цей файл?
