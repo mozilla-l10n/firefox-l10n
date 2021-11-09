@@ -35,3 +35,6 @@ unknowncontenttype-choose-handler =
 unknowncontenttype-save-file =
     .label = Gem fil
     .accesskey = G
+unknowncontenttype-remember-choice =
+    .label = Gør dette automatisk med filer som denne fremover.
+    .accesskey = a
