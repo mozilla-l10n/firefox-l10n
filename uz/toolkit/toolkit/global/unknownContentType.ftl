@@ -10,8 +10,12 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-intro = Ochish uchun tanladingiz:
 unknowncontenttype-which-is = -
+unknowncontenttype-from = Manba:
 unknowncontenttype-prompt = Ushbu faylni saqlashni xohlaysizmi?
 unknowncontenttype-action-question = Ushbu fayl bilan { -brand-short-name } nima qilsin?
+unknowncontenttype-open-with =
+    .label = Ochish:
+    .accesskey = O
 unknowncontenttype-other =
     .label = Boshqa
 unknowncontenttype-choose-handler =
