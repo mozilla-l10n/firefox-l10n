@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-intro = Арыйарга маны таллыҥ:
+unknowncontenttype-which-is = маннык буолар:
 unknowncontenttype-from = мантан:
 unknowncontenttype-prompt = Бу билэни бигэргэтэҕин дуо?
 unknowncontenttype-action-question = { -brand-short-name } бу билэни хайдах таҥастыахтааҕый?
