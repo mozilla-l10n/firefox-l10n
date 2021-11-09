@@ -12,6 +12,7 @@ unknowncontenttype-settingschange =
            *[other] ਸੈਟਿੰਗ ਨੂੰ { -brand-short-name } ਦੀ ਪਸੰਦ ਵਿੱਚੋਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
         }
 unknowncontenttype-intro = ਤੁਹਾਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਚੋਣ ਕਰਨੀ ਪਵੇਗੀ:
+unknowncontenttype-which-is = ਕਿਹੜੀ ਹੈ:
 unknowncontenttype-from = ਇੱਥੋਂ:
 unknowncontenttype-open-with =
     .label = ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ
