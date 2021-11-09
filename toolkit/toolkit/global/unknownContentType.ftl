@@ -19,6 +19,17 @@ unknowncontenttype-open-with =
     .accesskey = D
 unknowncontenttype-other =
     .label = Autre…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Causir…
+           *[other] Percórrer…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] P
+        }
 unknowncontenttype-save-file =
     .label = Enregistrar lo fichièr
     .accesskey = E
