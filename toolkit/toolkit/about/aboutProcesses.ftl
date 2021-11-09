@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Gestor de processos
-
 # The Actions column
 about-processes-column-action =
     .title = Accions
@@ -58,6 +57,8 @@ about-processes-gpu-process = GPU ({ $pid })
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 

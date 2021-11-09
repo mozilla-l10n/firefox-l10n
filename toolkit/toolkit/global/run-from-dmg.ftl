@@ -17,3 +17,9 @@ prompt-to-install-no-button = No instal·lis
 
 install-failed-title = La instal·lació del { -brand-short-name } ha fallat.
 install-failed-message = El { -brand-short-name } no s'ha pogut instal·lar, però se seguirà executant.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-no-button = No, gràcies
