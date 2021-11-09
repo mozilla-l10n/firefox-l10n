@@ -64,6 +64,7 @@ about-processes-unknown-process = Druhi: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, wulki)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, přez cross-origin izolowany)
 about-processes-web-isolated-process-private = { $origin } – priwatny ({ $pid })
