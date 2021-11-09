@@ -122,15 +122,23 @@ cfr-doorhanger-video-support-header = { -brand-short-name } aktualisieren, um Vi
 cfr-doorhanger-video-support-primary-button = Jetzt aktualisieren
     .accesskey = a
 
+## Spotlight modal shared strings
+
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Offenbar verwenden Sie öffentliches WLAN
 spotlight-public-wifi-vpn-body = Um Ihren Standort und Ihre Surfaktivitäten zu verbergen, sollten Sie ein virtuelles privates Netzwerk in Betracht ziehen. Es schützt Sie beim Surfen an öffentlichen Orten wie Flughäfen und Cafés.
 spotlight-public-wifi-vpn-primary-button = Schützen Sie Ihre Privatsphäre mit { -mozilla-vpn-brand-name }
     .accesskey = P
 spotlight-public-wifi-vpn-link = Nicht jetzt
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Nicht jetzt
