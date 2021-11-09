@@ -11,7 +11,21 @@ unknowncontenttype-settingschange =
             [windows] ਸੈਟਿੰਗ ਨੂੰ { -brand-short-name } ਦੀ ਚੋਣ ਵਿੱਚੋਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
            *[other] ਸੈਟਿੰਗ ਨੂੰ { -brand-short-name } ਦੀ ਪਸੰਦ ਵਿੱਚੋਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
         }
+unknowncontenttype-intro = ਤੁਹਾਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਚੋਣ ਕਰਨੀ ਪਵੇਗੀ:
 unknowncontenttype-from = ਇੱਥੋਂ:
 unknowncontenttype-open-with =
     .label = ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ
     .accesskey = o
+unknowncontenttype-other =
+    .label = …ਹੋਰ
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] …ਚੁਣੋ
+           *[other] …ਝਲਕ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
