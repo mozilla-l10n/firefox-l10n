@@ -8,3 +8,27 @@ unknowncontenttype-settingschange =
             [windows] Iisetingi zingatshintshwa kwi-{ -brand-short-name }'s Izikhethwa.
            *[other] Iisetingi zingatshintshwa yi-{ -brand-short-name }'s Izikhethwa.
         }
+unknowncontenttype-from = ukusuka:
+unknowncontenttype-prompt = Ungathanda ukuyigcina le fayile?
+unknowncontenttype-open-with =
+    .label = Kuvulwa ngayo
+    .accesskey = K
+unknowncontenttype-other =
+    .label = Okunye…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] Khetha…
+           *[other] Khangela…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] K
+           *[other] K
+        }
+unknowncontenttype-save-file =
+    .label = Gcina Ifayile
+    .accesskey = G
+unknowncontenttype-remember-choice =
+    .label = Yenza oku ngokuzenzekela kwiifayile ezifana nezi ukususela ngoku.
+    .accesskey = n
