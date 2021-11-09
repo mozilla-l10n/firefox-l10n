@@ -13,6 +13,9 @@ unknowncontenttype-which-is = ଯାହାକି ଗୋଟିଏ:
 unknowncontenttype-from = ରୁ:
 unknowncontenttype-prompt = ଆପଣ ଏହି ଫାଇଲକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?
 unknowncontenttype-action-question = { -brand-short-name } ଏହି ଫାଇଲ ସହିତ କଣ କରିବ?
+unknowncontenttype-open-with =
+    .label = ସହିତ ଖୋଲନ୍ତୁ
+    .accesskey = O
 unknowncontenttype-other =
     .label = ଅନ୍ୟାନ୍ୟ…
 unknowncontenttype-choose-handler =
@@ -26,6 +29,9 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = ଫାଇଲ ସଂରକ୍ଷଣ କରନ୍ତୁ
+    .accesskey = S
 unknowncontenttype-remember-choice =
     .label = ଏହା ପରଠୁ ଏହି ପରି ଫାଇଲଗୁଡ଼ିକ ପାଇଁ ଏହା ସ୍ୱୟଂଚାଳିତ ଭାବରେ କରନ୍ତୁ।
     .accesskey = a
