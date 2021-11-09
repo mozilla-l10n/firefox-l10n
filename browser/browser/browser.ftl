@@ -735,6 +735,19 @@ picture-in-picture-hide-toggle =
     .label = הסתרת הכפתור של תמונה בתוך תמונה
     .accesskey = ה
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = העברת הכפתור של תמונה בתוך תמונה לצד ימין
+    .accesskey = י
+picture-in-picture-move-toggle-left =
+    .label = העברת הכפתור של תמונה בתוך תמונה לצד שמאל
+    .accesskey = ש
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
