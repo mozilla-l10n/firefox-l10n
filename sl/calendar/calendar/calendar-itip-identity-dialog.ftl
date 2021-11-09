@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Vdirate na zabavo?
 calendar-itip-identity-warning = Ni vas še na seznamu gostov.
 calendar-itip-identity-label = Odzovi se kot:
+calendar-itip-identity-label-none = Poveži ta dogodek z:
