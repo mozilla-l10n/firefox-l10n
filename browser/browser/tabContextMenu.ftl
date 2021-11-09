@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nýr flipi
+    .accesskey = N
 reload-tab =
     .label = Endurnýja flipa
     .accesskey = r
@@ -54,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bókamerkja flipa
     .accesskey = B
+tab-context-open-in-new-container-tab =
+    .label = Opna í nýjum innihaldsflipa
+    .accesskey = i
 move-to-start =
     .label = Færa á byrjun
     .accesskey = S
@@ -66,6 +72,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Loka mörgum flipum
     .accesskey = m
+tab-context-share-url =
+    .label = Deila
+    .accesskey = D
+tab-context-share-more =
+    .label = Meira…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -78,6 +89,30 @@ tab-context-reopen-closed-tabs =
            *[other] Afturkalla að loka flipum
         }
     .accesskey = o
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Loka flipa
+            [one] Loka flipa
+           *[other] Loka flipum
+        }
+    .accesskey = L
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Loka { $tabCount } flipa
+            [one] Loka { $tabCount } flipa
+           *[other] Loka { $tabCount } flipum
+        }
+    .accesskey = L
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Færa flipa
+            [one] Færa flipa
+           *[other] Færa flipa
+        }
+    .accesskey = F
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
