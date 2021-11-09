@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Buổi tiệc đã tàn?
 calendar-itip-identity-warning = Bạn hiện chưa ở trong danh sách khách mời.
 calendar-itip-identity-label = Trả lời với tư cách:
+calendar-itip-identity-label-none = Liên kết sự kiện này với:
