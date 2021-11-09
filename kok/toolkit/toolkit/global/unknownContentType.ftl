@@ -8,3 +8,26 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } पर्यायान स्थापितां बदलुपाक शकता
            *[other] { -brand-short-name } प्राधान्यांन स्थापितां बदलुपाक शकता
         }
+unknowncontenttype-intro = तुमी उदडप निवडला:
+unknowncontenttype-from = सावन्:
+unknowncontenttype-prompt = तुमी ही धारिका जतन करपाक सोदता?
+unknowncontenttype-action-question = { -brand-short-name }  न ह्या धारिकेचे किदे करपाचे?
+unknowncontenttype-other =
+    .label = हेर...
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] निवडाडात...
+           *[other] ब्रावज...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] न
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = संरक्षित करात
+    .accesskey = S
+unknowncontenttype-remember-choice =
+    .label = आतासावन अशा तरेच्या धारिकांखातीर हे करात automatically
+    .accesskey = a
