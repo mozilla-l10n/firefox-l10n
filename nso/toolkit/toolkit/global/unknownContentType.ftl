@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-intro = O kgethile go bula:
+unknowncontenttype-which-is = yeo e lego:
 unknowncontenttype-from = go tšwa go:
 unknowncontenttype-prompt = Na o ka rata go boloka faele ye?
 unknowncontenttype-action-question = Na { -brand-short-name } e swanetše go dira eng ka faele ye?
