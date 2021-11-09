@@ -16,5 +16,25 @@ unknowncontenttype-which-is = ओका काना:
 unknowncontenttype-from = खोन:
 unknowncontenttype-prompt = चेत् आम नोवा रेत् सांचाव सानाम काना ?
 unknowncontenttype-action-question = नोवा रेत् सांव { -brand-short-name } चेत् चेका ला़कती. ?
+unknowncontenttype-open-with =
+    .label = सांव झिच्
+    .accesskey = O
 unknowncontenttype-other =
     .label = एटागाक्…
+unknowncontenttype-choose-handler =
+    .label =
+        { PLATFORM() ->
+            [macos] बाछाव मे…
+           *[other] पानते मे…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] B
+        }
+unknowncontenttype-save-file =
+    .label = रेत् सांचाव
+    .accesskey = S
+unknowncontenttype-remember-choice =
+    .label = नोवा आच् आच् ते नित् खोन नोवा रेत् को ला़गित्.
+    .accesskey = a
