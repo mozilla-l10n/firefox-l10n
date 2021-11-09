@@ -8,6 +8,7 @@ unknowncontenttype-settingschange =
             [windows] Instellings kan gewysig word in { -brand-short-name } se opsies.
            *[other] Instellings kan gewysig word in { -brand-short-name } se voorkeure.
         }
+unknowncontenttype-intro = U het gekies om te open:
 unknowncontenttype-from = van:
 unknowncontenttype-prompt = Wil u hierdie lêer stoor?
 unknowncontenttype-action-question = Wat moet { -brand-short-name } met hierdie lêer doen?
