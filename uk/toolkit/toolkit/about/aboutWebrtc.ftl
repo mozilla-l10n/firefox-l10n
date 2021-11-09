@@ -123,6 +123,7 @@ about-webrtc-discarded-packets-label = Відхилені пакети:
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Енкодер
 about-webrtc-show-tab-label = Показати вкладку
+about-webrtc-current-framerate-label = Частота кадрів
 about-webrtc-width-px = Ширина (px)
 about-webrtc-height-px = Висота (px)
 about-webrtc-consecutive-frames = Послідовні кадри
