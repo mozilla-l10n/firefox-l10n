@@ -9,6 +9,7 @@ unknowncontenttype-settingschange =
            *[other] Teelte ena mbaawi wayleede to Cuɓoraaɗe { -brand-short-name }.
         }
 unknowncontenttype-intro = A suɓiima udditde:
+unknowncontenttype-which-is = ko nde:
 unknowncontenttype-from = wonnde to:
 unknowncontenttype-prompt = Aɗa yiɗi danndude ndee fiilde?
 unknowncontenttype-action-question = Hol ko { -brand-short-name } foti waɗde e ndee fiilde?
