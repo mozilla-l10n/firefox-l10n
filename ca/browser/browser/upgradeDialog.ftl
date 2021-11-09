@@ -77,10 +77,15 @@ upgrade-dialog-start-secondary-button = Ara no
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Trieu una paleta de colors
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Canvieu a l'Inici del Firefox amb un fons temàtic
 upgrade-dialog-colorway-primary-button = Desa la combinació de colors
 upgrade-dialog-colorway-secondary-button = Conserva el tema anterior
 upgrade-dialog-colorway-theme-tooltip =
     .title = Descobriu els temes per defecte.
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Descobriu les combinacions de colors de { $colorwayName }
 upgrade-dialog-colorway-default-theme = Per defecte
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Automàtic
