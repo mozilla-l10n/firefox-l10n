@@ -5,10 +5,13 @@
 unknowncontenttype-handleinternally =
     .label = Abrir con { -brand-short-name }
     .accesskey = b
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Pues camudar los axustes nes opciones de { -brand-short-name }.
            *[other] Pues camudar los axustes nes preferencies de { -brand-short-name }.
         }
+unknowncontenttype-from = de:
+unknowncontenttype-open-with =
+    .label = Abrir con
+    .accesskey = A
