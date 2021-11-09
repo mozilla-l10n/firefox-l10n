@@ -36,5 +36,5 @@ unknowncontenttype-save-file =
     .label = 파일 저장
     .accesskey = s
 unknowncontenttype-remember-choice =
-    .label = 다시 묻지 않음
+    .label = 이 파일 형식에 대해 다시 묻지 않음
     .accesskey = a
