@@ -11,6 +11,7 @@ unknowncontenttype-settingschange =
             [windows] 請從 { -brand-short-name } 的選項變更設定值。
            *[other] 請從 { -brand-short-name } 的偏好設定變更設定值。
         }
+unknowncontenttype-prompt = 您確定要儲存此檔案？
 unknowncontenttype-action-question = { -brand-short-name } 應該如何處理此檔案？
 unknowncontenttype-open-with =
     .label = 開啟方式:
