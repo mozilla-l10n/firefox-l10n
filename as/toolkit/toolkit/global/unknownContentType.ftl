@@ -28,3 +28,6 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-remember-choice =
+    .label = এতিয়াৰ পৰা এই ধৰণৰ ফাইল সৈতে এই কাৰ্য্য স্বচালিতভাৱে কৰিব।
+    .accesskey = a
