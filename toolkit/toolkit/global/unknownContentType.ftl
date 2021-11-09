@@ -8,6 +8,8 @@ unknowncontenttype-settingschange =
             [windows] Mîhengên di vebijêrkên { -brand-short-name }'ê tên guhertin.
            *[other] Mîhengên di vebijêrkên { -brand-short-name }'ê de tên guhertin.
         }
+unknowncontenttype-intro = Te xwest ku vê vekî:
+unknowncontenttype-which-is = cure:
 unknowncontenttype-from = Ji vê:
 unknowncontenttype-prompt = Dixwazî vê pelê tomar bikî?
 unknowncontenttype-action-question = { -brand-short-name } wê bi vê pelê çi bike?
