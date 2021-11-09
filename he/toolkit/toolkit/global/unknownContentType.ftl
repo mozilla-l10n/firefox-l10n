@@ -17,3 +17,6 @@ unknowncontenttype-prompt = האם ברצונך לשמור קובץ זה?
 unknowncontenttype-action-question = מה על { -brand-short-name } לעשות עם הקובץ?
 unknowncontenttype-other =
     .label = אחר...
+unknowncontenttype-remember-choice =
+    .label = יש לבצע זאת באופן אוטומטי לקבצים מסוג זה להבא.
+    .accesskey = ב
