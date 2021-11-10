@@ -740,6 +740,19 @@ picture-in-picture-hide-toggle =
     .label = Ocultar botón de Picture-in-Picture (PIP)
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Mover botón de Picture-in-Picture al lado derecho
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = Mover botón de Picture-in-Picture al lado izquierdo
+    .accesskey = L
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
