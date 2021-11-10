@@ -474,7 +474,7 @@ search-bar-hidden =
     .label = Imprea sa barra de indiritzos pro fàghere chircas e navigare
 search-bar-shown =
     .label = Agiunghe sa barra de chirca a sa barra de ainas
-search-engine-default-header = Pone su primu chircadore chi b'est istadu
+search-engine-default-header = Motore de chirca predefinidu
 search-engine-default-desc-2 = Custu est su motore de chirca predefinidu in sa barra de indiritzos e in sa barra de chirca. Ddu podes modificare cando boles.
 search-engine-default-private-desc-2 = Sèbera un'àteru motore de chirca predefinidu pro is ventanas privadas ebbia
 search-separate-default-engine =
@@ -937,6 +937,12 @@ collection-health-report-link = Leghe àteru
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguresa
+security-enable-safe-browsing =
+    .label = Bloca is cuntenutos perigulosos e ingannosos
+    .accesskey = B
+security-block-downloads =
+    .label = Bloca is iscarrigamentos perigulosos
+    .accesskey = p
 
 ## Privacy Section - Certificates
 

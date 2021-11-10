@@ -34,7 +34,7 @@ about-unloads-intro =
 about-unloads-learn-more =
     Leghe su documentu <a data-l10n-name="doc-link">Tab Unloading</a> pro ischire de prus subra
     de custa funtzione e custa pàgina.
-about-unloads-last-updated = Ùrtimu agiornamentu: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = Ùrtima atualizatzione: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Iscàrriga
     .title = Iscàrriga s'ischeda cun prioridade prus arta
 about-unloads-no-unloadable-tab = Nissuna ischeda de iscarrigare.

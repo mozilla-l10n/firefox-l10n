@@ -20,4 +20,4 @@ default-browser-prompt-title-alt = Boles chi { -brand-short-name } siat su navig
 default-browser-prompt-message-alt = Nàviga semper a sa lestra, cun seguresa e in manera privada.
 default-browser-prompt-button-primary-alt = Cunfigura comente navigadore predefinidu
 default-browser-prompt-checkbox-not-again-label = No ammustres prus custu messàgiu
-default-browser-prompt-button-secondary = Immoe no
+default-browser-prompt-button-secondary = Immoe nono

@@ -6,24 +6,24 @@ aboutDialog-title =
     .title = Informatziones de { -brand-full-name }
 releaseNotes-link = Novidades
 update-checkForUpdatesButton =
-    .label = Controlla agiornamentos
+    .label = Controlla atualizatziones
     .accesskey = C
 update-updateButton =
     .label = Torra a aviare pro agiornare { -brand-shorter-name }
     .accesskey = R
-update-checkingForUpdates = Controllende is agiornamentos...
-update-downloading = <img data-l10n-name="icon"/>Iscarrighende agiornamentu — <label data-l10n-name="download-status"/>
-update-downloading-message = Carrighende s'agiornamentu — <label data-l10n-name="download-status"/>
-update-applying = Aplichende agiornamentu...
-update-failed = Agiornamentu faddidu. <label data-l10n-name="failed-link">Iscàrriga s'ùrtima versione</label>
-update-failed-main = Agiornamentu faddidu. <a data-l10n-name="failed-link-main">Isarriga s'ùrtima versione</a>
-update-adminDisabled = S'amministradore de su sistema tuo at disativadu is agiornamentos
+update-checkingForUpdates = Controllende is atualizatziones…
+update-downloading = <img data-l10n-name="icon"/>Iscarrighende atualizatziones — <label data-l10n-name="download-status"/>
+update-downloading-message = Carrighende s'atualizatzione — <label data-l10n-name="download-status"/>
+update-applying = Aplichende s'atualizatzione…
+update-failed = Atualizatzione faddida. <label data-l10n-name="failed-link">Iscàrriga s'ùrtima versione</label>
+update-failed-main = Atualizatzione faddida. <a data-l10n-name="failed-link-main">Iscàrriga s'ùrtima versione</a>
+update-adminDisabled = S'amministradore de su sistema tuo at disativadu is atualizatziones
 update-noUpdatesFound = { -brand-short-name } est agiornadu
 update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -brand-short-name }
-update-manual = Agiornamentos a disponimentu in <label data-l10n-name="manual-link"/>
+update-manual = Atualizatziones a disponimentu in <label data-l10n-name="manual-link"/>
 update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="unsupported-link">Leghe àteru</label>
 update-restarting = Torrende a aviare
-channel-description = Immoe ses in su canale <label data-l10n-name="current-channel"></label> de agiornamentos.
+channel-description = Immoe ses in su canale <label data-l10n-name="current-channel"></label> de atualizatziones.
 warningDesc-version = { -brand-short-name } est isperimentale e diat pòdere no èssere istàbile.
 aboutdialog-help-user = Agiudu de { -brand-product-name }
 aboutdialog-submit-feedback = Imbia cummentos
