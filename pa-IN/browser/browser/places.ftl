@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
         }
     .accesskey = e
+places-show-in-folder =
+    .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
+    .accesskey = F
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
