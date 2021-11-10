@@ -64,6 +64,30 @@ detail-repository =
     .label = Profilu de su cumplementu
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Controlla agiornamentos
+    .accesskey = C
+    .tooltiptext = Controlla agiornamentos de custu cumplementu
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Optziones
+           *[other] Preferèntzias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Modìfica is optziones de custu cumplementu
+           *[other] Modìfica is preferèntzias de custu cumplementu
+        }
+detail-rating =
+    .value = Valutatzione
+addon-restart-now =
+    .label = Torra a aviare immoe
 addon-category-locale = Limba
 addon-category-locale-title =
     .title = Limba
