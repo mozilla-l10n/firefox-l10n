@@ -6,6 +6,12 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = सुरक्षा डैशबोर्ड
+appmenuitem-banner-update-available =
+    .label = अपडेट उपलब्ध है — अभी डाउनलोड करें
+appmenuitem-banner-update-manual =
+    .label = अपडेट उपलब्ध है — अभी डाउनलोड करें
+appmenuitem-banner-update-restart =
+    .label = अपडेट उपलब्ध है — अभी फिर से चालु करें
 appmenuitem-new-tab =
     .label = नया टैब
 appmenuitem-new-window =
@@ -22,8 +28,12 @@ appmenuitem-addons-and-themes =
     .label = ऐड-ऑन और थीम
 appmenuitem-print =
     .label = छापें...
+appmenuitem-find-in-page =
+    .label = पृष्ठ में ढूँढें…
 appmenuitem-zoom =
     .value = बड़ा-छोटा करें
+appmenuitem-more-tools =
+    .label = अधिक उपकरण
 appmenuitem-help =
     .label = मदद
 appmenuitem-exit2 =
@@ -75,7 +85,11 @@ appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenuitem-fxa-sign-in = { -brand-product-name } में साइन इन करें
 appmenuitem-fxa-manage-account = खाता प्रबंधित करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data2 = सिंक करें और डेटा सहेजें
 appmenu-fxa-signed-in-label = साइन इन
+appmenu-fxa-setup-sync =
+    .label = सिंक चालू करें…
+appmenu-fxa-show-more-tabs = सभी टैब दिखाएँ
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
 
@@ -108,8 +122,16 @@ profiler-popup-edit-settings = सेटिंग संपादित कर�
 profiler-popup-edit-settings-button =
     .label = सेटिंग संपादित करें…
 profiler-popup-recording-screen = रिकॉर्डिंग…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = मनपसंद
 profiler-popup-start-recording-button =
     .label = रिकॉर्डिंग शुरू करें
+profiler-popup-discard-button =
+    .label = छोड़ें
+profiler-popup-capture-button =
+    .label = कैप्चर
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -129,8 +151,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = वेब डेवलेपर
 profiler-popup-presets-media-label =
     .label = मीडिया
+profiler-popup-presets-custom-label =
+    .label = मनपसंद
 
 ## History panel
 
