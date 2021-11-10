@@ -12,35 +12,42 @@
 
 <!ENTITY tabCmd.label "Ischeda noa">
 <!ENTITY openFileCmd.label "Aberi un'archìviu...">
+<!ENTITY printCmd.label "Imprenta…">
 
 <!ENTITY menubarCmd.label "Barra de menù">
 <!ENTITY menubarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigatzione">
 <!ENTITY fullScreenCmd.label "Mannària prena">
 
-
+<!ENTITY pictureInPictureHideToggle.accesskey "C">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signin.label "Identìfica·ti in &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Imbia deretu un'ischeda a cale si siat dispositivu connètidu a su contu tuo.">
 
 <!ENTITY printButton.label            "Imprenta">
 <!ENTITY printButton.tooltip          "Imprenta custa pàgina">
 
+<!ENTITY searchItem.title             "Chirca">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pàgina printzipale">
+<!ENTITY homeButton.defaultPage.tooltip "Pàgina printzipale de &brandShortName;">
 
 <!ENTITY historyButton.label            "Cronologia">
 
 <!ENTITY downloads.label              "Iscarrigamentos">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Iscarrigamentos">
 
 <!ENTITY webDeveloperMenu.label       "Isvilupadore web">
 
@@ -50,7 +57,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Modìfica">
 <!ENTITY preferencesCmd2.label       "Optziones">
 <!ENTITY preferencesCmdUnix.label       "Preferèntzias">
+<!ENTITY logins.label                           "Credentziales e craes">
 
+<!ENTITY overflowCustomizeToolbar.label       "Personaliza sa barra de ainas…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Cronologia">
 
@@ -68,9 +78,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Ammustra totu sas ischedas dae custu dispositivu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ativa sa sincronizatzione de ischedas pro visualizare una lista de is ischedas de is àteros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Boles bìdere inoghe is ischedas de is àteros dispositivos tuos?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Aberi is preferèntzias de sincronizatzione">
+<!ENTITY appMenuRemoteTabs.welcome.label "Ammustra una lista de ischedas abertas in àteros dispositivos tuos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Su contu tuo depet èssere verificadu.">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connete un'àteru dispositivu">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agiunghe a sa barra de ainas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -78,6 +94,10 @@ this container is a toolbar. This avoids double-speaking. -->
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Agiunghe a su menù de ainas agiuntivas">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Boga dae su menù de ainas agiuntivas">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "B">
 <!ENTITY customizeMenu.addMoreItems.label "Agiunghe àteros elementos">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -90,15 +110,22 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Chirca">
+<!ENTITY searchIcon.tooltip           "Chirca">
 
 <!ENTITY openLinkCmdInTab.accesskey   "A">
 
+<!ENTITY fullZoom.label                 "Ingrandimentu">
 
+<!ENTITY sidebarCloseButton.tooltip     "Serra sa barra laterale">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "n">
 
+<!ENTITY findOnCmd.label     "Chirca in custa pàgina…">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
