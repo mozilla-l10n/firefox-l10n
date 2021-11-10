@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Rajtarki znjemóžnić a proces zničić
+    .title = Rajtarki wuswobodźić a proces zničić
 about-processes-shutdown-tab =
     .title = Rajtark začinić
 # Profiler icons

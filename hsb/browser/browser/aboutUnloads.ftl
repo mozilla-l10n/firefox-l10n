@@ -6,7 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Rajtark wotstronić
+about-unloads-page-title = Rajtark wuswobodźić
 about-unloads-intro-1 =
     { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wuswobodźuje,
     zo by tomu zadźěwała, zo nałoženje njedosahaceho składa dla spaduje,
@@ -16,10 +16,10 @@ about-unloads-intro-1 =
     hdyž wuswobodźenje rajtarka so pušći.
 about-unloads-intro-2 =
     Eksistowace rajtarki so w tabeli deleka w samsnym porjedźe pokazuja, kotryž
-    { -brand-short-name } wužiwa, zo by přichodny rajtark wotstronił. Procesowe ID so
+    { -brand-short-name } wužiwa, zo by přichodny rajtark wuswobodźił. Procesowe ID so
     <strong>tučnje</strong> pokazuja, hdyž najwyši wobłuk hospoduja
     a <em>kursiwnje</em>, hdyž proces so mjez rozdźělnymi rajtarkami dźěli.
-    Móžeće rajtark manuelnje pušćić, hdyž na tłóčatko <em>Wotstronić</em>
+    Móžeće rajtark manuelnje pušćić, hdyž na tłóčatko <em>Wuswobodźić</em>
     deleka klikaće.
 about-unloads-intro =
     { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wuswobodźa,
@@ -32,9 +32,9 @@ about-unloads-intro =
 # with title "Tab Unloading"
 about-unloads-learn-more = Hlejće <a data-l10n-name="doc-link">wuswobodźenje rajtarkow</a>, zo byšće wjace wo tutej funkciji a tutej stronje zhonił.
 about-unloads-last-updated = Poslednja aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Wotstronić
-    .title = Rajtark z najwyšej prioritu wotstronić
-about-unloads-no-unloadable-tab = Wotstronjomne rajtarki njejsu.
+about-unloads-button-unload = Wuswobodźić
+    .title = Rajtark z najwyšej prioritu wuswobodźić
+about-unloads-no-unloadable-tab = Wuswobodźujomne rajtarki njejsu.
 about-unloads-column-priority = Priorita
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Posledni přistup
