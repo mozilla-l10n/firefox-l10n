@@ -149,6 +149,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ਤੋਂ
 mr1-onboarding-import-primary-button-label-no-attribution = ਪਿਛਲੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
 mr1-onboarding-import-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
 mr2-onboarding-colorway-header = ਜ਼ਿੰਦਗੀ ਵਿੱਚ ਰੰਗ
+mr2-onboarding-colorway-subtitle = ਵੱਖੋ-ਵੱਖ ਨਵੇਂ ਰੰਗ। ਹੁਣ ਸੀਮਿਤ ਸਮੇਂ ਲਈ ਹੀ ਮੌਜੂਦ ਹਨ।
 mr2-onboarding-colorway-primary-button-label = ਰੰਗ-ਢੰਗ ਸੰਭਾਲੋ
 mr2-onboarding-colorway-secondary-button-label = ਹੁਣੇ ਨਹੀਂ
 mr2-onboarding-colorway-label-soft = ਹਲਕੇ
