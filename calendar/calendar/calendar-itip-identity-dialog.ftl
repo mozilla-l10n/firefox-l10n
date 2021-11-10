@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = ¿Colándose en una fiesta?
 calendar-itip-identity-warning = No está en la lista de invitados.
 calendar-itip-identity-label = Responder como:
+calendar-itip-identity-label-none = Asociar este evento con:
