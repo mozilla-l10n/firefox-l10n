@@ -127,17 +127,25 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY findOnCmd.label     "Chirca in custa pàgina…">
 
+<!ENTITY spellAddDictionaries.label "Agiunghe ditzionàrios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Ischedas de su navigadore">
 
 <!ENTITY uiTour.infoPanel.close "Serra">
 
+<!ENTITY panicButton.thankyou.msg1                "Cronologia reghente cantzellada.">
+<!ENTITY panicButton.thankyou.msg2                "Bonu navigatzione!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Gràtzias!">
 
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizende dispositivos…">
 
+<!ENTITY libraryButton.tooltip "Ammustra sa cronologia, is sinnalibros sarvados e àteru">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Caraterìsticas de atzessibilidade ativadas">
