@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Mynd heb wahoddiad?
 calendar-itip-identity-warning = Nid ydych ar y rhestr westeion eto.
 calendar-itip-identity-label = Ymateb fel:
+calendar-itip-identity-label-none = Cysylltwch y digwyddiad hwn â:
