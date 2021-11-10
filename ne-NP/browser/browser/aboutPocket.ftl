@@ -39,3 +39,8 @@ pocket-panel-signup-tagline-story-two = कुनै पनि उपकरण, 
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = मेरो सूची
+pocket-panel-home-welcome-back = पुनः स्वागत छ
+pocket-panel-home-explore-popular-topics = लोकप्रिय बिषयहरु अन्वेषण गर्नुहोस्
+pocket-panel-home-discover-more = थप पत्ता लगाउनुहोस्
+pocket-panel-home-explore-more = अन्वेषण गर्नुहोस्

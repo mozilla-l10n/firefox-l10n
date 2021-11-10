@@ -153,6 +153,9 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } लगइन हटाउन चाहानुहुन्छ ?
        *[other] { $count } लगइनहरु हटाउन चाहानुहुन्छ ?
     }
+about-logins-confirm-export-dialog-confirm-button = निर्यात गर्नुहोस्…
+about-logins-alert-import-title = आयात सफल भयो
+about-logins-alert-import-message = विस्तृत आयात कार्यहरुको सारांश हेर्नुहोस्
 confirm-discard-changes-dialog-title = सङ्ग्रह नगरिएका परिवर्तनहरू रद्द गर्न चाहानुहुन्छ ?
 confirm-discard-changes-dialog-message = सबै सङ्ग्रह नगरिएका परिवर्तनहरू हराउने छन्।
 confirm-discard-changes-dialog-confirm-button = खारेज गर्नुहोस्
@@ -160,9 +163,15 @@ confirm-discard-changes-dialog-confirm-button = खारेज गर्नु�
 ## Breach Alert notification
 
 breach-alert-text = पछिल्लोपटक तपाईले आफ्नो लगइन विवरण अद्यावधिक गरेपछि यस वेबसाइटबाट पासवर्ड चोरी भएको थियो। तपाईंको खाता सुरक्षित गर्न तपाईंको पासवर्ड परिवर्तन गर्नुहोस्।
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } मा जानुहोस्
+about-logins-breach-alert-learn-more-link = थप जान्नुहोस्
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = कमजोर पासवर्ड
+about-logins-vulnerable-alert-learn-more-link = थप जान्नुहोस्
 
 ## Error Messages
 
