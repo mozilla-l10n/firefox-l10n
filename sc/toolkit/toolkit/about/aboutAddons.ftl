@@ -175,15 +175,97 @@ shortcuts-duplicate-warning-message = { $shortcut } est giai impreadu comente cu
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Giai impreadu dae { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Ammustra·nde un'àteru
+       *[other] Ammustra·nde àteros { $numberToShow }
+    }
+shortcuts-card-collapse-button = Ammustra·nde prus pagu
+header-back-button =
+    .title = A coa
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Àteras informatziones
+privacy-policy = Polìtica de sa riservadesa
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = dae <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Utentes: { $dailyUsers }
+install-extension-button = Agiunghe a { -brand-product-name }
+install-theme-button = Installa su tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gesti
+find-more-addons = Agata àteros cumplementos
+find-more-themes = Agata àteros temas
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Àteras optziones
 
 ## Add-on actions
 
+report-addon-button = Sinnala
+remove-addon-button = Boga
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Impossìbile bogare. <a data-l10n-name="link">Pro ite?</a>
+disable-addon-button = Disativa
+enable-addon-button = Ativa
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Ativa
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Optziones
+       *[other] Preferèntzias
+    }
+details-addon-button = Detàllios
+permissions-addon-button = Permissos
+extension-enabled-heading = Ativadas
+extension-disabled-heading = Disativadas
+theme-enabled-heading = Ativadu
+theme-disabled-heading = Disativados
+plugin-enabled-heading = Ativados
+plugin-disabled-heading = Disativados
+dictionary-enabled-heading = Ativados
+dictionary-disabled-heading = Disativados
+locale-enabled-heading = Ativadu
+locale-disabled-heading = Disativados
+always-activate-button = Ativa semper
+never-activate-button = No atives mai
+addon-detail-author-label = Autoria
+addon-detail-version-label = Versione
+addon-detail-last-updated-label = Ùrtimu agiornamentu
+addon-detail-homepage-label = Pàgina printzipale
+addon-detail-rating-label = Valutatzione
+# Message for add-ons with a staged pending update.
+install-postponed-message = Custa estensione at a èssere agiornada comente torras a aviare { -brand-short-name }.
+install-postponed-button = Agiorna immoe
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Valutadu cun { NUMBER($rating, maximumFractionDigits: 1) }/5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (disativadu)
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = Iscontza
+addon-detail-updates-label = Permite is agiornamentos in automàticu
+addon-detail-updates-radio-default = Predefinidu
+addon-detail-updates-radio-on = Eja
+addon-detail-updates-radio-off = Nono
+addon-detail-update-check-label = Controlla agiornamentos
+install-update-button = Agiorna
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
