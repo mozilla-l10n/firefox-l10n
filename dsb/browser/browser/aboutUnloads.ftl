@@ -25,9 +25,9 @@ about-unloads-intro-2 =
 # with title "Tab Unloading"
 about-unloads-learn-more = Glejśo <a data-l10n-name="doc-link">wuwólnjenje rejtarikow</a>, aby wěcej wó toś tej funkciji a toś tom boku zgónił.
 about-unloads-last-updated = Slědna aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Wótwónoźeś
-    .title = Rejtarik z nejwušeju prioritu wótwónoźeś
-about-unloads-no-unloadable-tab = Njedaju wótwónoźujobne rejtariki.
+about-unloads-button-unload = Wuwólniś
+    .title = Rejtarik z nejwušeju prioritu wuwólniś
+about-unloads-no-unloadable-tab = Njedaju wuwólnjujobne rejtariki.
 about-unloads-column-priority = Priorita
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Slědny pśistup

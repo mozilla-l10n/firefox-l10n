@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Rejtariki znjemóžniś a proces znicyś
+    .title = Rejtariki wuwólniś a proces znicyś
 about-processes-shutdown-tab =
     .title = Rejtarik zacyniś
 # Profiler icons
