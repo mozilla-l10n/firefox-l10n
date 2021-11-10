@@ -24,6 +24,7 @@ about-private-browsing-info-description = जब आप ऐप छोड़त�
 about-private-browsing-need-more-privacy = अधिक गोपनीयता चाहते हैं?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } आज़माएं
 about-private-browsing-learn-more-link = अधिक जानें
+about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } के साथ निजी रहें
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

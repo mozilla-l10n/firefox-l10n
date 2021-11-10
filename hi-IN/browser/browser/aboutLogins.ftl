@@ -40,6 +40,8 @@ login-list-count =
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
 login-list-name-reverse-option = नाम (Z-A)
+login-list-username-option = उपयोगकर्ता नाम (A-Z)
+login-list-username-reverse-option = उपयोगकर्ता नाम (Z-A)
 about-logins-login-list-alerts-option = चेतावनी
 login-list-last-changed-option = अंतिम परिवर्तन
 login-list-last-used-option = अंतिम प्रयुक्त
@@ -54,7 +56,11 @@ about-logins-list-item-breach-icon =
     .title = उलंघित वेबसाइट
 about-logins-list-item-vulnerable-password-icon =
     .title = असुरक्षित पासवर्ड
+about-logins-list-section-breach = उलंघित वेबसाइटें
+about-logins-list-section-vulnerable = असुरक्षित पासवर्ड
 about-logins-list-section-today = आज
+about-logins-list-section-yesterday = कल
+about-logins-list-section-week = पिछले 7 दिन
 
 ## Introduction screen
 
@@ -142,6 +148,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
 about-logins-confirm-export-dialog-title = लॉगिन और पासवर्ड निर्यात करें
 about-logins-confirm-export-dialog-message = आपके पासवर्ड पढ़ने योग्य टेक्स्ट (जैसे BadP@ssw0rd) के रूप में सहेजे जाएंगे ताकि जो भी निर्यात की गई फ़ाइल को खोल पाएंगे, उन्हें देख सकते हैं।
 about-logins-confirm-export-dialog-confirm-button = निर्यात करें…
+about-logins-alert-import-title = आयात संपन्न‌
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
 confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
 confirm-discard-changes-dialog-confirm-button = छोड़ें
@@ -210,6 +217,7 @@ about-logins-import-file-picker-tsv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = आयात संपन्न‌
 about-logins-import-dialog-done = संपन्न
 about-logins-import-dialog-error-file-permission-title = फ़ाइल पढ़ने में असमर्थ
 about-logins-import-dialog-error-learn-more = अधिक जानें
