@@ -23,7 +23,7 @@ update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -bra
 update-manual = Agiornamentos a disponimentu in <label data-l10n-name="manual-link"/>
 update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="unsupported-link">Leghe àteru</label>
 update-restarting = Torrende a aviare
-channel-description = Como ses in su <label data-l10n-name="current-channel"></label> canale de agiornamentos.
+channel-description = Immoe ses in su canale <label data-l10n-name="current-channel"></label> de agiornamentos.
 warningDesc-version = { -brand-short-name } est isperimentale e diat pòdere no èssere istàbile.
 aboutdialog-help-user = Agiudu de { -brand-product-name }
 aboutdialog-submit-feedback = Imbia cummentos

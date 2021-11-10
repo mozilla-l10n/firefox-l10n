@@ -529,8 +529,8 @@ urlbar-group-search-suggestions =
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> est como in mannària prena
-fullscreen-warning-no-domain = Custu documentu s'ammustrat como in mannària prena
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> est immoe in mannària prena
+fullscreen-warning-no-domain = Custu documentu s'ammustrat immoe in mannària prena
 fullscreen-exit-button = Essi dae sa mannària prena (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
@@ -733,6 +733,13 @@ popups-infobar-dont-show-message =
 edit-popup-settings =
     .label = Gesti sa cunfiguratzione de is ventanas a cumparsa...
     .accesskey = G
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
 
 # Navigator Toolbox
 
