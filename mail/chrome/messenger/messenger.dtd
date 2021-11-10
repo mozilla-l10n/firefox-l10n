@@ -459,7 +459,7 @@
 <!ENTITY tasksMenu.accesskey "V">
 <!ENTITY messengerCmd.label "E-post &amp; Diskussionsgrupper">
 <!ENTITY messengerCmd.accesskey "E">
-<!ENTITY addressBookCmd.label "Adressboken">
+<!ENTITY addressBookCmd.label "Adressbok">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addonNoPrefs.label "Inga inställningar för tillägg hittades.">
@@ -538,7 +538,7 @@
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
 <!ENTITY junkItem.title "Skräppost">
-<!ENTITY addressBookButton.label "Adressboken">
+<!ENTITY addressBookButton.label "Adressbok">
 <!ENTITY chatButton.label "Chatt">
 <!ENTITY glodaSearch.title "Global sökning">
 <!ENTITY searchItem.title "Snabbsökning">

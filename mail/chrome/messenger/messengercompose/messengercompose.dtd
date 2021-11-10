@@ -183,7 +183,7 @@
 <!ENTITY messengerCmd.label "E-post &amp; Diskussionsgrupper">
 <!ENTITY messengerCmd.accesskey "p">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Adressboken">
+<!ENTITY addressBookCmd.label "Adressbok">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Kontoinställningar">
