@@ -16,3 +16,4 @@ extension-firefox-compact-dark-description = गहरी रंग योजन
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — सॉफ्ट

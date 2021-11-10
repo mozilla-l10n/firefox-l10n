@@ -13,6 +13,7 @@ crashed-multiple-offer-help-message = पृष्ठ को पुनः लो
 crashed-request-help = क्या आप हमारी मदद करेंगे?
 crashed-request-help-message = क्रेश रिपोर्ट्स हमे खामियों को ठीक करने में और { -brand-short-name } को बेहतर बनाने में मदद करती है.
 crashed-request-report-title = इस टैब को रिपोर्ट करे
+crashed-send-report-2 = एक स्वचालित क्रैश रिपोर्ट भेजें ताकि हम इस तरह की समस्याओं को ठीक कर सकें।
 crashed-comment =
     .placeholder = वैकल्पिक टिप्पणियाँ (टिप्पणियाँ सार्वजनिक हैं)
 crashed-report-sent = दुर्घटना की रिपोर्ट पहले से ही प्रस्तुत; बेहतर बनाने में { -brand-short-name } मदद के लिए धन्यवाद!
