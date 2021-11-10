@@ -7,5 +7,10 @@
 ### feature.
 
 about-unloads-page-title = Asefsex n usali n yiccer
+about-unloads-column-priority = Tazwart
 about-unloads-column-host = Asenneftaɣ
 about-unloads-column-last-accessed = Anekcum aneggaru
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MAṬ
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MAṬ
