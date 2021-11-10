@@ -38,20 +38,16 @@ menu-quit =
             [windows] ы
            *[other] Ш
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } жұмысын аяқтау
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } жұмысын аяқтау
-
 menu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
@@ -84,6 +80,15 @@ menu-file-open-file =
 menu-file-close =
     .label = Жабу
     .accesskey = Ж
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Бетті жабу
+           *[other] { $tabCount } бетті жабу
+        }
+    .accesskey = ж
 menu-file-close-window =
     .label = Терезені жабу
     .accesskey = б
