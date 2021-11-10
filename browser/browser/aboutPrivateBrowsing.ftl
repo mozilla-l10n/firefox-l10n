@@ -21,9 +21,12 @@ about-private-browsing-not-private = Այժմ դուք Գաղտնի դիտարկ
 about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է ձեր որոնման և զննարկման պատմությունը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները: Չնայած դա ձեզ անանուն չի դարձնում կայքէջերի կամ ձեր ինտերնետային ծառայություններ մատուցողի համար, այն ավելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից օգտվող ցանկացած այլ անձի կողմից:
 about-private-browsing-need-more-privacy = Ավելի շատ գաղտնիությո՞ւն է պետք:
 about-private-browsing-turn-on-vpn = Փորձեք { -mozilla-vpn-brand-name }-ը
+about-private-browsing-info-description-private-window = Մասնավոր պատուհան. { -brand-short-name }-ը մաքրում է ձեր որոնումը և զննարկման պատնությունը, երբ փակում եք բոլոր մասնավոր պատուհանները: Դա ձեզ անանուն չի դարձնում:
 about-private-browsing-info-description-simplified = { -brand-short-name }-ը մաքրում է որոնման և զննման պատմությունը, երբ փակում եք բոլոր մասնավոր պատուհանները, բայց դա ձեզ անանուն չի դարձնում:
 about-private-browsing-learn-more-link = Իմանալ ավելին
 about-private-browsing-hide-activity = Թաքցրեք ձեր ակտիվությունը և տեղադրությունը
+about-private-browsing-get-privacy = Ստացեք գաղտնիության պաշտպանություն ամենուր, որտեղից զննարկում եք
+about-private-browsing-hide-activity-1 = Թաքցրեք զննարկման ակտիվությունը և տեղադրությունը { -mozilla-vpn-brand-name }-ով: Մեկ կտտոցով ստեղծում է անվտանգ կապակցում, եթե անգամ Wi-Fi-ը հանրային է:
 about-private-browsing-prominent-cta = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
 # This string is the title for the banner for search engine selection
 # in a private window.
