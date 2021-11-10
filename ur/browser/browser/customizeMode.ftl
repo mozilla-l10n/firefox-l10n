@@ -37,6 +37,7 @@ customize-mode-undo-cmd =
     .label = کالعدم کریں
 customize-mode-lwthemes-my-themes =
     .value = میرے تھیم
+customize-mode-lwthemes-link = تھیمز کا نظم کریں۔
 customize-mode-touchbar-cmd =
     .label = ٹچ بار کی تخصیص کریں
 customize-mode-downloads-button-autohide =

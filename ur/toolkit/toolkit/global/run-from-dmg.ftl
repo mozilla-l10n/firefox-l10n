@@ -17,4 +17,5 @@ prompt-to-install-yes-button = تنصیب کریں
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = موجودہ { -brand-short-name } ایپلیکیشن کھولیں؟
 prompt-to-launch-existing-app-no-button = نہیں شکریہ
