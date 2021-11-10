@@ -748,6 +748,19 @@ picture-in-picture-hide-toggle =
     .label = Pśešaltowanje wobraz-we-wobrazu schowaś
     .accesskey = P
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Suwak wobraz we wobrazu napšawo pśesunuś
+    .accesskey = p
+picture-in-picture-move-toggle-left =
+    .label = Suwak wobraz we wobrazu nalěwo pśesunuś
+    .accesskey = l
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
