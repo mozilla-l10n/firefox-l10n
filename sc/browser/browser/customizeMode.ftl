@@ -45,4 +45,4 @@ customize-mode-lwthemes-link = Gesti is temas
 customize-mode-touchbar-cmd =
     .label = Personaliza sa barra tàtile...
 customize-mode-downloads-button-autohide =
-    .label = Cua su butone cando siat bòidu
+    .label = Cua su butone cando sa lista siat bòida

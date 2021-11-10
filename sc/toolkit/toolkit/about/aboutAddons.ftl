@@ -2,15 +2,66 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-page-title = Gestore de cumplementos
+search-header =
+    .placeholder = Chirca in addons.mozilla.org
+    .searchbuttonlabel = Chirca
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Otene estensiones e temas dae <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Otene ditzionàrios dae <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Otene pachetes de limba dae <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-installed =
+    .value = Non tenes installadu nissunu cumplementu de custa genia
+list-empty-available-updates =
+    .value = Nissunu agiornamentu agatadu
+list-empty-recent-updates =
+    .value = No as agiornadu de reghente nissunu cumplementu
+list-empty-find-updates =
+    .label = Controlla agiornamentos
+list-empty-button =
+    .label = Leghe àteru subra is cumplementos
+help-button = Agiudu cun is cumplementos
+sidebar-help-button-title =
+    .title = Agiudu cun is cumplementos
 addons-settings-button = Cunfiguratzione de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Cunfiguratzione de { -brand-short-name }
+show-all-extensions-button =
+    .label = Ammustra totu is estensiones
+detail-version =
+    .label = Versione
+detail-last-updated =
+    .label = Ùrtimu agiornamentu
+detail-contributions-button = Contribui
+    .title = Contribui a s'isvilupu de custu cumplementu
+    .accesskey = C
+detail-update-type =
+    .value = Agiornamentos in automàticu
+detail-update-default =
+    .label = Predefinidu
+    .tooltiptext = Installa agiornamentos in automàticu isceti si est sa cunfiguratzione predefinida
+detail-update-automatic =
+    .label = Ativados
+    .tooltiptext = Installa agiornamentos in automàticu
+detail-update-manual =
+    .label = Disativados
+    .tooltiptext = No installes is agiornamentos in automàticu
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Disativada in is ventanas privadas
+detail-private-browsing-on =
+    .label = Permite
+    .tooltiptext = Ativa in sa navigatzione privada
+detail-private-browsing-off =
+    .label = Non permitas
+    .tooltiptext = Disativada in sa navigatzione privada
 detail-home =
     .label = Prima pàgina
 detail-home-value =
     .value = { detail-home.label }
+detail-repository =
+    .label = Profilu de su cumplementu
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-locale = Limba
