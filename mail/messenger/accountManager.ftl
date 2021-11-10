@@ -9,6 +9,13 @@ open-preferences-sidebar-button =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace
     }
+open-preferences-sidebar-button2 =
+    Nastavení { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace
+    }
 open-addons-sidebar-button = Doplňky a vzhledy
 account-action-add-newsgroup-account =
     .label = Přidat účet pro diskusní skupiny…
