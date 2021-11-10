@@ -5,6 +5,8 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Mòdulos e dispositivos de seguresa
 
 ## Strings used for load device
 
@@ -13,10 +15,7 @@
 
 devinfo-status-disabled =
     .label = Disativadu
-
 devinfo-desc =
     .label = Descritzione
-
 devinfo-label =
     .label = Eticheta
-

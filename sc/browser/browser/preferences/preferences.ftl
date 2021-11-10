@@ -956,7 +956,15 @@ certs-devices =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Modalidade «isceti HTTPS»
+httpsonly-header = Modalidade HTTPS ebbia
+httpsonly-description = HTTPS garantit una connessione segura e tzifrada intre { -brand-short-name } e is sitos web chi ses bisitende. Sa majoria de is sitos sunt cumpatìbiles cun HTTPS; si sa Modalidade HTTPS ebbia est ativada, { -brand-short-name } at a impreare HTTPS in totu is connessiones.
+httpsonly-learn-more = Àteras informatziones
+httpsonly-radio-enabled =
+    .label = Ativa sa modalidade HTTPS ebbia in totu is ventanas
+httpsonly-radio-enabled-pbm =
+    .label = Ativa sa modalidade HTTPS ebbia isceti in is ventanas privadas
+httpsonly-radio-disabled =
+    .label = No atives sa modalidade HTTPS ebbia
 
 ## The following strings are used in the Download section of settings
 
