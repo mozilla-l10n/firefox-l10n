@@ -61,6 +61,10 @@ about-logins-list-section-week = पछिल्लो 7 दिन
 about-logins-login-intro-heading-logged-out2 = सेभ गरेका लगइनहरु खोज्दै हुनुहुन्छ ? सिङ्कलाई सुचारु गर्नुहोस् वा आयात गर्नुहोस् ।
 about-logins-login-intro-heading-logged-in = सिङ्क गरिएका लगइनहरु भेट्टिएनन् ।
 login-intro-description = यदि तपाईंले आफ्नो लगइनहरू { -brand-product-name }  मा बिभिन्न उपकरणमा बचत गर्नुभयो भने, तिनीहरूलाई यहाँ कसरी लिने भन्ने बारे यहाँ छ:
+login-intro-instructions-fxa-settings = सेटिङ्गहरूमा जानुहोस् > सिङ्क > सिङ्किङ सक्षम गर्नुहोस… लगइनहरू र पासवर्डहरू जाँच बाकस चयन गर्नुहोस्।
+login-intro-instructions-fxa-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name } भ्रमण गर्नुहोस् अझै धेरै मद्दतका लागि </a> सहयोग गर्नुहोस्
+about-logins-intro-import = यदि तपाइँको लगइनहरू अर्को ब्राउजरमा बचत गरिएको छ भने, तपाइँ <a data-l10n-name="import-link"> बाट तिनीहरूलाई { -lockwise-brand-short-name }</a> मा आयात गर्न सक्नुहुन्छ।
+about-logins-intro-import2 = यदि तपाइँको लगइनहरू { -brand-product-name } भन्दा बाहिर सुरक्षित गरिएका छन् भने, तपाइँ <a data-l10n-name="import-browser-link"> बाट तिनीहरूलाई अर्को ब्राउजरबाट </a> वा <a data-l10n- name="import-file-link">फाइलबाट आयात गर्न सक्नुहुन्छ</a>
 
 ## Login
 
@@ -68,6 +72,7 @@ login-item-new-login-title = नयाँ लगइन सिर्जना ग
 login-item-edit-button = सम्पादन गर्नुहोस्
 about-logins-login-item-remove-button = हटाउनुहोस्
 login-item-origin-label = वेबसाइट ठेगाना
+login-item-tooltip-message = तपाईंले लगइन गर्नुभएको वेबसाइटको सही ठेगानासँग यो मेल खान्छ भन्ने कुरा निश्चित गर्नुहोस्।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = प्रयोगकर्ताको नाम
@@ -95,12 +100,30 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = आफ्नो लगइन सम्पादन गर्न, आफ्नो लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न सहयोग गर्छ।
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = बचत गरिएका लगइनहरु सम्पादन गर्नुहोस्
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = आफ्नो लगइन सम्पादन गर्न, आफ्नो लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न सहयोग गर्दछ।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सेभ गरेको पासवर्ड देखाउनुहोस्
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = आफ्नो पासवर्ड कपि गर्न, आफ्नो लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न सहयोग गर्दछ।
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = सेभ गरेको पासवर्ड कपि गर्नुहोस्
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = आफ्नो लगइनहरु निर्यात गर्न, आफ्नो लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न सहयोग गर्छ।
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = सेभ गरिएका लगइनहरू र पासवर्डहरू निर्यात गर्नुहोस्
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = सेभ गरिएका लगइनहरु र पासवर्डहरू हेर्नको लागि, कृपया आफ्नो प्राथमिक पासवर्ड प्रविष्ट गर्नुहोस्
 master-password-reload-button =
     .label = लगइन गर्नुहोस्
     .accesskey = ल
@@ -113,6 +136,23 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = यो लगइन हटाउन चाहनुहुन्छ?
 confirm-delete-dialog-message = यो कार्य पूर्ववत गर्न सकिँदैन ।
 about-logins-confirm-remove-dialog-confirm-button = हटाउनुहोस्
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] हटाउनुहोस्
+        [one] सबै हटाउनुहोस्
+       *[other] सबै हटाउनुहोस्
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] हुन्छ, यो लगइन हटाउनुहोस्
+        [one] हुन्छ, यी लगइनहरू हटाउनुहोस्
+       *[other] हुन्छ, यी लगइनहरू हटाउनुहोस्
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } लगइन हटाउन चाहानुहुन्छ ?
+       *[other] { $count } लगइनहरु हटाउन चाहानुहुन्छ ?
+    }
 confirm-discard-changes-dialog-title = सङ्ग्रह नगरिएका परिवर्तनहरू रद्द गर्न चाहानुहुन्छ ?
 confirm-discard-changes-dialog-message = सबै सङ्ग्रह नगरिएका परिवर्तनहरू हराउने छन्।
 confirm-discard-changes-dialog-confirm-button = खारेज गर्नुहोस्
