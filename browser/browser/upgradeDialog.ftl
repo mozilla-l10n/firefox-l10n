@@ -112,3 +112,4 @@ upgrade-dialog-colorway-variation-bold = ਗੂੜ੍ਹਾ
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = ਸਾਨੂੰ ਚੁਣਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ
 upgrade-dialog-thankyou-subtitle = { -brand-short-name } ਗ਼ੈਰ-ਫਾਇਦਾ ਸੰਗਠਨ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਆਜ਼ਾਦ ਬਰਾਊਜ਼ਰ ਹੈ। ਮਿਲ ਕੇ ਅਸੀਂ ਵੈੱਬ ਨੂੰ ਵੱਧ ਸੁਰੱਖਿਅਤ, ਮਜ਼ਬੂਤ ਅਤੇ ਵੱਧ ਨਿੱਜੀ ਬਣਾ ਰਹੇ ਹਾਂ।
+upgrade-dialog-thankyou-primary-button = ਬਰਾਊਜ਼ ਕਰੋ
