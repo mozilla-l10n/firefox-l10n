@@ -8,12 +8,12 @@
 
 about-unloads-page-title = Rajtark wotstronić
 about-unloads-intro-1 =
-    { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wotstronja,
+    { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wuswobodźuje,
     zo by tomu zadźěwała, zo nałoženje njedosahaceho składa dla spaduje,
     hdyž skład, kotryž je systemej k dispoziciji, je niski. Přichodny rajtark, kotryž ma so
-    wotstronić, so na zakładźe wjacorych atributow wuběra. Tuta strona pokazuje, kak
-    { -brand-short-name } prioritu rajtarkow staja a kotry rajtark so wotstroni,
-    hdyž wotstronjenje rajtark so pušći.
+    wuswobodźić, so na zakładźe wjacorych atributow wuběra. Tuta strona pokazuje, kak
+    { -brand-short-name } prioritu rajtarkow staja a kotry rajtark so wuswobodźuje,
+    hdyž wuswobodźenje rajtarka so pušći.
 about-unloads-intro-2 =
     Eksistowace rajtarki so w tabeli deleka w samsnym porjedźe pokazuja, kotryž
     { -brand-short-name } wužiwa, zo by přichodny rajtark wotstronił. Procesowe ID so
@@ -21,6 +21,13 @@ about-unloads-intro-2 =
     a <em>kursiwnje</em>, hdyž proces so mjez rozdźělnymi rajtarkami dźěli.
     Móžeće rajtark manuelnje pušćić, hdyž na tłóčatko <em>Wotstronić</em>
     deleka klikaće.
+about-unloads-intro =
+    { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wuswobodźa,
+    zo by tomu zadźěwała, zo nałoženje njedosahaceho składa dla spaduje,
+    hdyž skład, kotryž je systemej k dispoziciji, je niski. Přichodny rajtark, kotryž ma so
+    wuswobodźić, so na zakładźe wjacorych atributow wuběra. Tuta strona pokazuje, kak
+    { -brand-short-name } prioritu rajtarkow staja a kotry rajtark so wuswobodźi,
+    hdyž wuswobodźenje rajtarka so pušći. Móžeće wuswobodźenje rajtarka manuelnje pušćić, hdyž na tłóčatko <em>Wuswobodźić</em> deleka klikaće.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Hlejće <a data-l10n-name="doc-link">wuswobodźenje rajtarkow</a>, zo byšće wjace wo tutej funkciji a tutej stronje zhonił.
