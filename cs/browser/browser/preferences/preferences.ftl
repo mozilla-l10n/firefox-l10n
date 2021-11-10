@@ -1110,6 +1110,7 @@ content-blocking-all-windows-tracking-content = Sledující obsah blokován ve v
 content-blocking-all-third-party-cookies = Všechny cookies třetích stran blokovány vždy
 content-blocking-cryptominers = Těžba kryptoměn
 content-blocking-fingerprinters = Vytváření otisku prohlížeče
+content-blocking-etp-standard-tcp-rollout-learn-more = Zjistit více
 content-blocking-warning-title = Pozor!
 content-blocking-and-isolating-etp-warning-description = Blokování sledujícího obsahu a izolace cookies může ovlivnit fungování některých stránek. Pro zobrazení veškerého obsahu znovu načtěte stránku s povolenými sledovacími prvky.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.

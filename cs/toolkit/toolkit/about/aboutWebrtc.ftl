@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Interní WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = uložit about:webrtc jako
@@ -76,12 +75,10 @@ about-webrtc-type-remote = vzdálené
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominováno
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Vybráno
-
 about-webrtc-save-page-label = Uložit stránku
 about-webrtc-debug-mode-msg-label = Režim ladění
 about-webrtc-debug-mode-off-state-label = Spustit režim ladění
@@ -126,6 +123,7 @@ about-webrtc-discarded-packets-label = Zahozeno paketů:
 about-webrtc-decoder-label = Dekodér
 about-webrtc-encoder-label = Kodér
 about-webrtc-show-tab-label = Zobrazit panel
+about-webrtc-current-framerate-label = Frekvence snímků
 about-webrtc-width-px = Šířka (px)
 about-webrtc-height-px = Výška (px)
 about-webrtc-consecutive-frames = Po sobě jdoucí snímky
@@ -147,36 +145,26 @@ about-webrtc-remote-send-ssrc = Vzdálené odchozí SSRC
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Poskytnuto
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Neposkytnuto
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uživatelská nastavení WebRTC
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Odhadovaná šířka pásma
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Identifikátor stopy
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Šířka pásma pro odesílání (bajty/s)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Šířka pásma pro příjem (bajty/s)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maximální výplň (bajty/s)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Zpoždění mezi pakety (ms)
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -204,7 +192,6 @@ about-webrtc-received-label =
         [few] Přijaty { $packets } pakety
        *[other] Přijato { $packets } paketů
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -214,7 +201,6 @@ about-webrtc-lost-label =
         [few] Ztraceny { $packets } pakety
        *[other] Ztraceno { $packets } paketů
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -224,13 +210,11 @@ about-webrtc-sent-label =
         [few] Odeslány { $packets } pakety
        *[other] Odesláno { $packets } paketů
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -243,12 +227,10 @@ about-webrtc-trickle-caption-msg = Trickled candidates (doručené po odpovědi)
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Nastavit Local SDP v časové značce { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Nastavit Remote SDP v časové značce { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

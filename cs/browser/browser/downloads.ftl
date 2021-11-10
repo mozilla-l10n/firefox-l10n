@@ -44,6 +44,8 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Otevřít v systémovém prohlížeči
     .accesskey = p
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Vždy otevírat v systémovém prohlížeči
     .accesskey = V
@@ -162,3 +164,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Žádná stahování pro tuto relaci.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Stahuje se jeden další soubor
+        [few] Stahují se { $count } další soubory
+       *[other] Stahuje se { $count } dalších souborů
+    }
