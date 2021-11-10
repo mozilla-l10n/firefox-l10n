@@ -152,12 +152,18 @@ cfr-doorhanger-video-support-header =
 cfr-doorhanger-video-support-primary-button = Aktualizovat
     .accesskey = A
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-expanded = Zjistit více
+    .title = Zavřít
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Zdá se, že používáte veřejnou Wi-Fi síť
 spotlight-public-wifi-vpn-body = Pokud chcete skrýt svou polohu a aktivity během prohlížení internetu, zvažte využítí služby virtuální privátní sítě. Poskytne vám ochranu během prohlížení internetu na veřejných místech, v kavárně nebo na letišti.
 spotlight-public-wifi-vpn-primary-button =
@@ -170,3 +176,7 @@ spotlight-public-wifi-vpn-primary-button =
     .accesskey = s
 spotlight-public-wifi-vpn-link = Teď ne
     .accesskey = n
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Teď ne

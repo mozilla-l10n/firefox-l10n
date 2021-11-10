@@ -36,7 +36,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Ukončit
     .accesskey = k
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -46,11 +45,9 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "acc") }
            *[other] aplikaci { -brand-shorter-name }
         }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
@@ -61,7 +58,6 @@ menu-quit-button-win =
             [neuter] { -brand-shorter-name(case: "acc") }
            *[other] aplikaci { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         O { -brand-shorter-name.gender ->
@@ -99,6 +95,17 @@ menu-file-open-file =
     .accesskey = s
 menu-file-close =
     .label = Zavřít
+    .accesskey = Z
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Zavřít panel
+            [one] Zavřít panel
+            [few] Zavřít { $tabCount } panely
+           *[other] Zavřít { $tabCount } panelů
+        }
     .accesskey = Z
 menu-file-close-window =
     .label = Zavřít okno
