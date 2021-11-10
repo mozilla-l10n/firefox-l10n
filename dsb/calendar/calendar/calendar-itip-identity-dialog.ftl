@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Njepśepšosony?
 calendar-itip-identity-warning = Hyšći njejsćo na góstnej lisćinje.
 calendar-itip-identity-label = Wótegroniś ako:
+calendar-itip-identity-label-none = Toś to tšojenje zwězaś z:
