@@ -737,6 +737,13 @@ picture-in-picture-hide-toggle =
     .label = Ffer asfaylu tugna deg tugna
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -776,3 +783,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Sken-iyi-d amek
