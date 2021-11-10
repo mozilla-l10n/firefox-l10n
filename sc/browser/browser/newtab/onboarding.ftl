@@ -34,7 +34,7 @@ return-to-amo-add-extension-label = Agiunghe s'estensione
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Ti donamus su benebènnidu a <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = Su navigadore lestru, seguru e privadu suportadu dae una organizatzione sena punna de lucru.
+onboarding-multistage-welcome-subtitle = Su navigadore lestru, seguru e privadu suportadu dae una organizatzione chene punna de lucru.
 onboarding-multistage-welcome-primary-button-label = Cumintza sa cunfiguratzione
 onboarding-multistage-welcome-secondary-button-label = Identìfica·ti
 onboarding-multistage-welcome-secondary-button-text = Tenes unu contu?
@@ -294,5 +294,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Gràtzias pro nos àere seberadu
-mr2-onboarding-thank-you-text = { -brand-short-name } est unu navigadore indipendente suportadu dae un'organizatzione sena punna de lucru. Paris semus faghende in manera chi su web siat prus seguru, sanu e privadu.
+mr2-onboarding-thank-you-text = { -brand-short-name } est unu navigadore indipendente suportadu dae un'organizatzione chene punna de lucru. Paris semus faghende in manera chi su web siat prus seguru, sanu e privadu.
 mr2-onboarding-start-browsing-button-label = Cumintza a navigare

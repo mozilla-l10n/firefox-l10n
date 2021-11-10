@@ -161,6 +161,9 @@ containers-remove-ok-button = Boga custu cuntenidore
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbas e aspetu
+fonts-and-colors-header = Caràteres e colores
+default-font = Caràtere predefinidu
+    .accesskey = C
 default-font-size = Mannària
     .accesskey = M
 advanced-fonts =
@@ -953,6 +956,9 @@ collection-studies-link = Ammustra is istùdios de { -brand-short-name }
 addon-recommendations =
     .label = Permite chi { -brand-short-name } cussiget estensiones personalizadas
 addon-recommendations-link = Àteras informatziones
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = S'informe de datos est disativadu in sa cunfiguratzione de custa versione
 
 ## Privacy Section - Security
 ##
@@ -964,6 +970,7 @@ security-browsing-protection = Cuntenutu ingannosu e amparu contra programmas pe
 security-enable-safe-browsing =
     .label = Bloca is cuntenutos perigulosos e ingannosos
     .accesskey = B
+security-enable-safe-browsing-link = Àteras informatziones
 security-block-downloads =
     .label = Bloca is iscarrigamentos perigulosos
     .accesskey = p
@@ -976,6 +983,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguresa…
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = Aberi sa cunfiguratzione
+    .accesskey = A
 
 ## Privacy Section - HTTPS-Only
 
@@ -991,4 +1001,10 @@ httpsonly-radio-disabled =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Iscrivania
 downloads-folder-name = Iscarrigamentos
+choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Sarva is archìvios in { $service-name }
