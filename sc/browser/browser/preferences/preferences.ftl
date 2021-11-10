@@ -304,21 +304,21 @@ applications-use-os-default-label =
 
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content-learn-more = Leghe àteru
-update-application-title = Agiornamentos de { -brand-short-name }
+update-application-title = Atualizatziones de { -brand-short-name }
 update-application-description = Mantene { -brand-short-name } agiornadu pro una seguresa, istabilidade e rendimentu òtimos.
 update-application-version = Versione { $version }<a data-l10n-name="learn-more">Ite noas</a>
 update-history =
-    .label = Ammustra sa cronologia de agiornamentos…
-    .accesskey = g
+    .label = Ammustra sa cronologia de atualizatziones…
+    .accesskey = z
 update-application-auto =
-    .label = Installa agiornamentos in automàticu (cussigiadu)
+    .label = Installa atualizatziones in automàticu (cussigiadu)
     .accesskey = I
 update-application-warning-cross-user-setting = Custa cunfiguratzione at a èssere aplicada a totu is contos de Windows e a is profilos de { -brand-short-name } chi imperent custa installatzione de { -brand-short-name }
 update-application-use-service =
-    .label = Installa is agiornamentos in segundu pranu
+    .label = Installa is atualizatziones in segundu pranu
     .accesskey = g
-update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de agiornamentu
-update-in-progress-title = Agiornamentu in cursu
+update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
+update-in-progress-title = Atualizatzione in cursu
 update-in-progress-ok-button = &Iscarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -458,7 +458,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Atividade reghente
 home-prefs-recent-activity-description = Una seletzione de sitos e cuntenutos reghentes
-home-prefs-snippets-description = Agiornamentos dae { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description = Atualizatziones dae { -vendor-short-name } e { -brand-product-name }
 home-prefs-snippets-description-new = Cussìgios e noas dae { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
@@ -937,6 +937,7 @@ collection-health-report-link = Leghe àteru
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguresa
+security-browsing-protection = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-enable-safe-browsing =
     .label = Bloca is cuntenutos perigulosos e ingannosos
     .accesskey = B
@@ -946,9 +947,16 @@ security-block-downloads =
 
 ## Privacy Section - Certificates
 
+certs-view =
+    .label = Ammustra is tzertificados…
+    .accesskey = A
+certs-devices =
+    .label = Dispositivos de seguresa…
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Modalidade «isceti HTTPS»
 
 ## The following strings are used in the Download section of settings
 

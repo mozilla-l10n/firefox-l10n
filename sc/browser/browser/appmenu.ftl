@@ -6,22 +6,22 @@
 ## App Menu
 
 appmenuitem-update-banner3 =
-    .label-update-downloading = Iscarrighende s'agiornamentu de { -brand-shorter-name }
-    .label-update-available = Agiornamentu a disponimentu — iscàrriga immoe
-    .label-update-manual = Agiornamentu a disponimentu — iscàrriga immoe
-    .label-update-unsupported = Impossìbile agiornare — sistema non cumpatìbile
-    .label-update-restart = Agiornamentu a disponimentu — torra a aviare immoe
+    .label-update-downloading = Iscarrighende s'atualizatzione de { -brand-shorter-name }
+    .label-update-available = Atualizatzione a disponimentu — iscàrriga immoe
+    .label-update-manual = Atualizatzione a disponimentu — iscàrriga immoe
+    .label-update-unsupported = Impossìbile atualizare — sistema non cumpatìbile
+    .label-update-restart = Atualizatzione a disponimentu — torra a aviare immoe
 appmenuitem-protection-dashboard-title = Pannellu de protetziones
 appmenuitem-banner-update-downloading =
-    .label = Iscarrighende s'agiornamentu de { -brand-shorter-name }
+    .label = Iscarrighende s'atualizatzione de { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = Agiornamentu a disponimentu — iscàrriga immoe
+    .label = Atualizatzione a disponimentu — iscàrriga immoe
 appmenuitem-banner-update-manual =
-    .label = Agiornamentu a disponimentu — iscàrriga immoe
+    .label = Atualizatzione a disponimentu — iscàrriga immoe
 appmenuitem-banner-update-unsupported =
     .label = Impossìbile agiornare — sistema non cumpatìbile
 appmenuitem-banner-update-restart =
-    .label = Agiornamentu a disponimentu — torra a aviare immoe
+    .label = Atualizatzione a disponimentu — torra a aviare immoe
 appmenuitem-new-tab =
     .label = Ischeda noa
 appmenuitem-new-window =

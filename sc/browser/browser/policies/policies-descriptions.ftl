@@ -11,11 +11,11 @@
 ## in the documentation section in about:policies.
 
 policy-AllowedDomainsForApps = Defini is domìnios chi tenent su permissu de atzèdere a Google Workspace.
-policy-AppAutoUpdate = Ativa o disativa is agiornamentos automàticos de s'aplicatzione.
-policy-AppUpdateURL = Imposta un'URL personalizadu de agiornamentu pro s'aplicatzione.
+policy-AppAutoUpdate = Ativa o disativa is atualizatziones in automàticu de s'aplicatzione.
+policy-AppUpdateURL = Cunfigura un'URL personalizadu de atualizatzione pro s'aplicatzione.
 policy-Authentication = Cunfigura s'autenticatzione integrada pro is sitos chi dda suportant.
 policy-AutoLaunchProtocolsFromOrigins = Defini una lista de protocollos esternos chi si podent impreare dae is orìgines aprovadas sena pedire a s'utente.
-policy-BackgroundAppUpdate2 = Ativa o disativa s'agiornamentu in s'isfundu.
+policy-BackgroundAppUpdate2 = Ativa o disativa s'atualizatzione in segundu pranu.
 policy-BlockAboutAddons = Bloca s'atzessu a su gestore de cumplementos (about:addons).
 policy-BlockAboutConfig = Bloca s'atzessu a sa pàgina about:config.
 policy-BlockAboutProfiles = Bloca s'atzessu a sa pàgina about:profiles.
@@ -67,3 +67,5 @@ policy-ExtensionSettings = Gesti totu is aspetos de s'installatzione de estensio
 
 ##
 
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Installa mòdulos de PKCS #11.

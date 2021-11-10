@@ -13,5 +13,4 @@
 ##  $url: the url of script specification and current worker.
 
 # This term is used as a button label (verb, not noun).
-update-button = Agiornamentu
-
+update-button = Atualiza

@@ -14,11 +14,11 @@ list-empty-get-language-packs-message = Otene pachetes de limba dae <a data-l10n
 list-empty-installed =
     .value = Non tenes installadu nissunu cumplementu de custa genia
 list-empty-available-updates =
-    .value = Nissunu agiornamentu agatadu
+    .value = Nissuna atualizatzione agatada
 list-empty-recent-updates =
     .value = No as agiornadu de reghente nissunu cumplementu
 list-empty-find-updates =
-    .label = Controlla agiornamentos
+    .label = Controlla atualizatziones
 list-empty-button =
     .label = Leghe àteru subra is cumplementos
 help-button = Agiudu cun is cumplementos
@@ -32,21 +32,21 @@ show-all-extensions-button =
 detail-version =
     .label = Versione
 detail-last-updated =
-    .label = Ùrtimu agiornamentu
+    .label = Ùrtima atualizatzione
 detail-contributions-button = Contribui
     .title = Contribui a s'isvilupu de custu cumplementu
     .accesskey = C
 detail-update-type =
-    .value = Agiornamentos in automàticu
+    .value = Atualizatziones in automàticu
 detail-update-default =
-    .label = Predefinidu
-    .tooltiptext = Installa agiornamentos in automàticu isceti si est sa cunfiguratzione predefinida
+    .label = Predefinidas
+    .tooltiptext = Installa atualizatziones in automàticu isceti si est sa cunfiguratzione predefinida
 detail-update-automatic =
-    .label = Ativados
-    .tooltiptext = Installa agiornamentos in automàticu
+    .label = Ativadas
+    .tooltiptext = Installa atualizatziones in automàticu
 detail-update-manual =
-    .label = Disativados
-    .tooltiptext = No installes is agiornamentos in automàticu
+    .label = Disativadas
+    .tooltiptext = No installes is atualizatziones in automàticu
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Disativada in is ventanas privadas
@@ -65,9 +65,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Controlla agiornamentos
+    .label = Controlla atualizatziones
     .accesskey = C
-    .tooltiptext = Controlla agiornamentos de custu cumplementu
+    .tooltiptext = Controlla is atualizatziones pro custu cumplementu
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -101,15 +101,15 @@ addon-category-plugin = Cumplementos
 addon-category-dictionary = Ditzionàrios
 addon-category-dictionary-title =
     .title = Ditzionàrios
-addon-category-locale = Limba
+addon-category-locale = Limbas
 addon-category-locale-title =
-    .title = Limba
-addon-category-available-updates = Agiornamentos a disponimentu
+    .title = Limbas
+addon-category-available-updates = Atualizatziones a disponimentu
 addon-category-available-updates-title =
-    .title = Agiornamentos a disponimentu
-addon-category-recent-updates = Agiornamentos reghentes
+    .title = Atualizatziones a disponimentu
+addon-category-recent-updates = Atualizatziones reghentes
 addon-category-recent-updates-title =
-    .title = Agiornamentos reghentes
+    .title = Atualizatziones reghentes
 
 ## These are global warnings
 
@@ -117,9 +117,9 @@ extensions-warning-safe-mode = Sa modalidade segura at disativadu totu is cumple
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Controlla agiornamentos
+addon-updates-check-for-updates = Controlla atualizatziones
     .accesskey = C
-addon-updates-view-updates = Ammustra agiornamentos reghentes
+addon-updates-view-updates = Ammustra atualizatziones reghentes
     .accesskey = m
 
 # This menu item is a checkbox that toggles the default global behavior for
@@ -139,8 +139,8 @@ addon-updates-update-addons-automatically = Agiorna is cumplementos in automàti
 
 addon-updates-updating = Agiornende is cumplementos
 addon-updates-installed = Cumplementos agiornados.
-addon-updates-none-found = Nissunu agiornamentu agatadu
-addon-updates-manual-updates-found = Ammustra is agiornamentos a disponimentu
+addon-updates-none-found = Nissuna atualizatzione agatada
+addon-updates-manual-updates-found = Ammustra is atualizatziones a disponimentu
 
 ## Add-on install/debug strings for page options menu
 
@@ -241,7 +241,7 @@ always-activate-button = Ativa semper
 never-activate-button = No atives mai
 addon-detail-author-label = Autoria
 addon-detail-version-label = Versione
-addon-detail-last-updated-label = Ùrtimu agiornamentu
+addon-detail-last-updated-label = Ùrtima atualizatzione
 addon-detail-homepage-label = Pàgina printzipale
 addon-detail-rating-label = Valutatzione
 # Message for add-ons with a staged pending update.
@@ -260,11 +260,11 @@ addon-name-disabled = { $name } (disativadu)
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = Iscontza
-addon-detail-updates-label = Permite is agiornamentos in automàticu
+addon-detail-updates-label = Permite is atualizatziones in automàticu
 addon-detail-updates-radio-default = Predefinidu
 addon-detail-updates-radio-on = Eja
 addon-detail-updates-radio-off = Nono
-addon-detail-update-check-label = Controlla agiornamentos
+addon-detail-update-check-label = Controlla atualizatziones
 install-update-button = Agiorna
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
