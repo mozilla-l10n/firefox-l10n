@@ -50,9 +50,9 @@ about-addressbook-confirm-remove-remote-book = Θέλετε σίγουρα να 
 # Variables:
 # $name (String) - Name of the address book that will be searched.
 about-addressbook-search =
-    .placeholder = Αναζήτηση για { $name }
+    .placeholder = Αναζήτηση σε { $name }
 about-addressbook-search-all =
-    .placeholder = Αναζήτηση όλων των βιβλίων διευθύνσεων
+    .placeholder = Αναζήτηση σε όλα τα ευρετήρια
 about-addressbook-sort-button =
     .title = Αλλαγή σειράς λίστας
 about-addressbook-name-format-display =
