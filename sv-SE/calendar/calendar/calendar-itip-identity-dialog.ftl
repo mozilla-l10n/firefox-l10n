@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Inte inbjuden?
 calendar-itip-identity-warning = Du är inte med på gästlistan än.
 calendar-itip-identity-label = Svara som:
+calendar-itip-identity-label-none = Associera denna händelse med:
