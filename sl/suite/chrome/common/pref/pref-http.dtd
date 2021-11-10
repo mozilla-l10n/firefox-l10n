@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.http.title                     "Omrežje HTTP">
 
 <!-- Network-->
 <!ENTITY prefDirect.label                    "Možnosti neposredne povezave">
 <!ENTITY prefProxy.label                     "Možnosti povezave s posrednikom">
 <!ENTITY prefEnableHTTP10.label              "Uporabi HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP11.label              "Uporabi HTTP 1.1">
+<!ENTITY prefFirefoxStrict.label             "Predstavi se kot Firefox">
+<!ENTITY prefFirefoxNone.label               "Predstavi se kot SeaMonkey">
+<!ENTITY prefFirefoxCompat2.label            "Predstavi se kot SeaMonkey in oglašuj združljivost s Firefoxom">
+<!ENTITY prefCompatWarning2.desc             "OPOZORILO: sprememba te nastavitve lahko povzroči, da spletna mesta ali storitve ne bodo delovale pravilno.">
