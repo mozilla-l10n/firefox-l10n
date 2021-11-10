@@ -66,6 +66,7 @@ about-processes-unknown-process = Arall: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, gweithiwr gwasanaeth)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, mawr)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, traws-darddiad ynysig)
 about-processes-web-isolated-process-private = { $origin } — Preifat ({ $pid })
