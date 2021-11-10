@@ -756,6 +756,19 @@ picture-in-picture-hide-toggle =
     .label = Cuddio'r Togl Llun mewn Llun
     .accesskey = L
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Symud Toglo Llun-mewn-Llun i'r Ochr Dde
+    .accesskey = D
+picture-in-picture-move-toggle-left =
+    .label = Symud Toglo Llun-mewn-Llun i'r Ochr Chwith
+    .accesskey = C
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
