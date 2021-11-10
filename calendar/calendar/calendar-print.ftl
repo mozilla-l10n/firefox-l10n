@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Dokončené úkoly
 calendar-print-filter-taskswithnoduedate = Úkoly bez termínu
 calendar-print-range-from = Od
 calendar-print-range-to = Do
+calendar-print-back-button = Zpět
 calendar-print-next-button = Další
