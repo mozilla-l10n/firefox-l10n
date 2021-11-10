@@ -319,6 +319,7 @@ update-application-use-service =
     .accesskey = g
 update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
 update-in-progress-title = Atualizatzione in cursu
+update-in-progress-message = Boles chi { -brand-short-name } andet a in antis cun custa atualizatzione?
 update-in-progress-ok-button = &Iscarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -326,6 +327,10 @@ update-in-progress-cancel-button = &Sighi
 
 ## General Section - Performance
 
+performance-title = Rendimentu
+performance-use-recommended-settings-checkbox =
+    .label = Imprea is cunfiguratziones de rendimentu cussigiadas
+    .accesskey = I
 performance-use-recommended-settings-desc = Custas cunfiguratziones sunt personalizadas pro su hardware e su sistema operativu tuos.
 performance-settings-learn-more = Leghe àteru
 performance-allow-hw-accel =
@@ -719,7 +724,7 @@ history-header = Cronologia
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
-    .accesskey = f
+    .accesskey = a
 history-remember-option-all =
     .label = at a regordare sa cronologia
 history-remember-option-never =
@@ -819,6 +824,7 @@ addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motor
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Amparu megioradu contra sa sighidura
 content-blocking-learn-more = Àteras informatziones
 
 ## These strings are used to define the different levels of
@@ -838,6 +844,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Echilìbriu intre amparu e rendimentu. Is pàginas s'ant a carrigare cun normalidade.
+content-blocking-etp-custom-desc = Sèbera cale elementos de sighidura e scripts depent èssere blocados.
 content-blocking-etp-blocking-desc = { -brand-short-name } blocat:
 content-blocking-private-windows = Cuntenutu de sighimentu in ventanas privadas
 content-blocking-cross-site-cookies-in-all-windows = Testimòngios intre sitos in totu is ventanas (includet testimòngios de sighimentu)
@@ -926,10 +933,26 @@ permissions-autoplay = Riprodutzione in automàticu
 permissions-autoplay-settings =
     .label = Cunfiguratzione…
     .accesskey = t
+permissions-block-popups-exceptions =
+    .label = Etzetziones…
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Etzetziones…
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
-collection-health-report-link = Leghe àteru
+collection-header = Impreu e còllida de datos dae { -brand-short-name }
+collection-privacy-notice = Avisu de riservadesa
+collection-health-report-telemetry-disabled-link = Àteras informatziones
+collection-health-report =
+    .label = Permite chi { -brand-short-name } imbiet datos tècnicos e de interatzione a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Àteras informatziones
+collection-studies-link = Ammustra is istùdios de { -brand-short-name }
+addon-recommendations =
+    .label = Permite chi { -brand-short-name } cussiget estensiones personalizadas
+addon-recommendations-link = Àteras informatziones
 
 ## Privacy Section - Security
 ##
