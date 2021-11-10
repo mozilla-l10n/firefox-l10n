@@ -68,11 +68,11 @@ about-logins-list-section-week = पछिल्लो 7 दिन
 about-logins-login-intro-heading-logged-out2 = सेभ गरेका लगइनहरु खोज्दै हुनुहुन्छ ? सिङ्कलाई सुचारु गर्नुहोस् वा आयात गर्नुहोस् ।
 about-logins-login-intro-heading-logged-in = सिङ्क गरिएका लगइनहरु भेट्टिएनन् ।
 login-intro-description = यदि तपाईंले आफ्नो लगइनहरू { -brand-product-name }  मा बिभिन्न उपकरणमा बचत गर्नुभयो भने, तिनीहरूलाई यहाँ कसरी लिने भन्ने बारे यहाँ छ:
-login-intro-instructions-fxa = खाता सिर्जना गर्नुहोस् वा साइन इन गर्नुहोस् तपाईंको { -fxaccount-brand-name(capitalization: "sentence") } जसले गर्दा तपाईंको उपकरणमा लगइनहरू बचत हुन्छन्।
+login-intro-instructions-fxa = खाता सिर्जना गर्नुहोस् वा साइन इन गर्नुहोस् तपाईंको { -fxaccount-brand-name } जसले गर्दा तपाईंको उपकरणमा लगइनहरू बचत हुन्छन्।
 login-intro-instructions-fxa-settings = सेटिङ्गहरूमा जानुहोस् > सिङ्क > सिङ्किङ सक्षम गर्नुहोस… लगइनहरू र पासवर्डहरू जाँच बाकस चयन गर्नुहोस्।
 login-intro-instructions-fxa-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name } भ्रमण गर्नुहोस् अझै धेरै मद्दतका लागि </a> सहयोग गर्नुहोस्
 about-logins-intro-import = यदि तपाइँको लगइनहरू अर्को ब्राउजरमा बचत गरिएको छ भने, तपाइँ <a data-l10n-name="import-link"> बाट तिनीहरूलाई { -lockwise-brand-short-name }</a> मा आयात गर्न सक्नुहुन्छ।
-about-logins-intro-import2 = यदि तपाइँको लगइनहरू { -brand-product-name } भन्दा बाहिर सुरक्षित गरिएका छन् भने, तपाइँ <a data-l10n-name="import-browser-link"> बाट तिनीहरूलाई अर्को ब्राउजरबाट </a> वा <a data-l10n- name="import-file-link">फाइलबाट आयात गर्न सक्नुहुन्छ</a>
+about-logins-intro-import2 = यदि तपाइँको लगइनहरू { -brand-product-name } भन्दा बाहिर सुरक्षित गरिएका छन् भने, तपाइँ <a data-l10n-name="import-browser-link"> बाट तिनीहरूलाई अर्को ब्राउजरबाट </a> वा <a data-l10n-name="import-file-link">फाइलबाट आयात गर्न सक्नुहुन्छ</a>
 
 ## Login
 
