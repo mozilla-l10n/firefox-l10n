@@ -4,6 +4,9 @@
 
 search-header-shortcut =
     .key = f
+addons-settings-button = Cunfiguratzione de { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Cunfiguratzione de { -brand-short-name }
 detail-home =
     .label = Prima pàgina
 detail-home-value =
