@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+screenshot-toolbarbutton =
+    .label = Catura
+    .tooltiptext = Faghe una catura
 screenshot-shortcut =
     .key = S
 screenshots-instructions = Traga o incarca in sa pàgina pro nde seberare una banda. Preme ESC pro annullare.
@@ -26,6 +29,8 @@ screenshots-request-error-details = Impossìbile sarvare sa catura tua. Torra·b
 screenshots-connection-error-title = Impossìbile connètere a is caturas tuas.
 screenshots-connection-error-details = Controlla sa connessione internet. Si renesses a ti connètere a internet, podet dare chi ddoe siat unu problema temporàneu cun su servìtziu de { -screenshots-brand-name }.
 screenshots-login-error-details = Impossìbile sarvare sa catura pro more de unu problema cun su servìtziu de { -screenshots-brand-name }. Torra·bi a proare a pustis.
+screenshots-unshootable-page-error-title = Impossìbile fàghere una catura de custa pàgina.
+screenshots-unshootable-page-error-details = Custa no est una pàgina web istandard, duncas no est possìbile a nde fàghere una catura.
 screenshots-empty-selection-error-title = Sa seletzione tua est tropu pitica
 screenshots-private-window-error-title = { -screenshots-brand-name } est disativadu in sa modalidade de navigatzione privada
 screenshots-private-window-error-details = Dimandamus iscusa pro su discòmodu. Semus traballende a subra de custa funtzionalidade pro is versiones imbenientes.

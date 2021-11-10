@@ -276,3 +276,4 @@ install-update-button = Agiorna
 
 ## Page headings
 
+locale-heading = Gesti is lìnguas

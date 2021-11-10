@@ -4,3 +4,9 @@
 
 translation-languages-column =
     .label = Limbas
+translation-languages-button-remove =
+    .label = Boga sa lìngua
+    .accesskey = s
+translation-languages-button-remove-all =
+    .label = Boga·nche totu is lìnguas
+    .accesskey = o
