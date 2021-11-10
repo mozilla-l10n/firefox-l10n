@@ -12,3 +12,4 @@ migration-progress-header = { -brand-short-name } se pśigótujo…
 
 migration-task-test-fast = Malsnu změnu testowaś
 migration-task-test-slow = Pómału změnu testowaś
+migration-task-test-progress = Póstupnu rědku testowaś
