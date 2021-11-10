@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Chcete se zúčastnit události?
 calendar-itip-identity-warning = Zatím nejste na seznamu hostů.
 calendar-itip-identity-label = Odpovědět jako:
+calendar-itip-identity-label-none = Spojit tuto událost s:
