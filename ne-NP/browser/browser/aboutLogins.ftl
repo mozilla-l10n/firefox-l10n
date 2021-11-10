@@ -223,6 +223,7 @@ about-logins-import-file-picker-import-button = आयात
 
 about-logins-import-dialog-title = आयात सफल भयो
 about-logins-import-dialog-done = सम्पन्न भयो
+about-logins-import-dialog-error-title = आयात गर्ने क्रममा त्रुटि भयो
 about-logins-import-dialog-error-cancel = रद्द गर्नुहोस्
 about-logins-import-report-title = सारांश आयात गर्नुहोस्
 about-logins-import-report-row-description-added = नयाँ लगइन थपियो
