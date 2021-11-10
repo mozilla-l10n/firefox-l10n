@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Шақырған жоқ па?
 calendar-itip-identity-warning = Сіз әлі қонақтар тізмінде емессіз.
 calendar-itip-identity-label = Келесі ретінде жауап беру:
+calendar-itip-identity-label-none = Бұл оқиғаны келесімен байланыстыру:
