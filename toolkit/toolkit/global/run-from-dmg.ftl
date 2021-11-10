@@ -23,5 +23,6 @@ install-failed-message = Klarte ikkje å installere { -brand-short-name }, men v
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Opne eksisterande { -brand-short-name }-program?
+prompt-to-launch-existing-app-message = Du har allereie { -brand-short-name } installert. Bruk det installerte programmet for å halde deg oppdatert og for å hindre tap av data.
 prompt-to-launch-existing-app-yes-button = Opne eksisterande
 prompt-to-launch-existing-app-no-button = Nei takk
