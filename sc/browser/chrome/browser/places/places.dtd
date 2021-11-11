@@ -4,7 +4,21 @@
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Biblioteca">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organiza">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organiza is sinnalibros">
 
+<!ENTITY file.close.label               "Serra">
+<!ENTITY file.close.accesskey           "S">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Visualizatziones">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Modìfica sa visualizatzione">
+<!ENTITY view.columns.label             "Ammustra colunnas">
+<!ENTITY view.columns.accesskey         "A">
+<!ENTITY view.sort.label                "Assenta">
 
 
 
