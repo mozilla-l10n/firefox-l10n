@@ -16,7 +16,7 @@ list-empty-installed =
 list-empty-available-updates =
     .value = Nissuna atualizatzione agatada
 list-empty-recent-updates =
-    .value = No as agiornadu de reghente nissunu cumplementu
+    .value = No as atualizadu de reghente nissunu cumplementu
 list-empty-find-updates =
     .label = Controlla atualizatziones
 list-empty-button =
@@ -138,7 +138,7 @@ addon-updates-update-addons-automatically = Agiorna is cumplementos in automàti
 ## Status messages displayed when updating add-ons
 
 addon-updates-updating = Agiornende is cumplementos
-addon-updates-installed = Cumplementos agiornados.
+addon-updates-installed = Cumplementos atualizados.
 addon-updates-none-found = Nissuna atualizatzione agatada
 addon-updates-manual-updates-found = Ammustra is atualizatziones a disponimentu
 
@@ -245,7 +245,7 @@ addon-detail-last-updated-label = Ùrtima atualizatzione
 addon-detail-homepage-label = Pàgina printzipale
 addon-detail-rating-label = Valutatzione
 # Message for add-ons with a staged pending update.
-install-postponed-message = Custa estensione at a èssere agiornada comente torras a aviare { -brand-short-name }.
+install-postponed-message = Custa estensione at a èssere atualizada comente torras a aviare { -brand-short-name }.
 install-postponed-button = Agiorna immoe
 # The average rating that the add-on has received.
 # Variables:

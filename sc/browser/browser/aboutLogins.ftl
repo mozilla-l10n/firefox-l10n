@@ -189,7 +189,7 @@ confirm-discard-changes-dialog-confirm-button = Iscarta
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Violatzione de su situ
-breach-alert-text = Is craes de custu situ sunt istadas furadas o isparghinadas s'ùrtima borta chi as agiornadu is credentziales. Muda sa crae pro amparare su contu tuo.
+breach-alert-text = Is craes de custu situ sunt istadas furadas o isparghinadas s'ùrtima borta chi as atualizadu is credentziales. Muda sa crae pro amparare su contu tuo.
 about-logins-breach-alert-date = Custa violatzione est acontèssida su { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -263,8 +263,8 @@ about-logins-import-dialog-items-added =
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Credentziale esistente agiornada:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Credentziales esistentes agiornadas:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Credentziale esistente atualizada:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Credentziales esistentes atualizadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
@@ -297,7 +297,7 @@ about-logins-import-report-description = Credentziales e craes importadas a { -b
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Lìnia { $number }
 about-logins-import-report-row-description-no-change = Duplicadu: cointzidèntzia esata de una credentziale esistente
-about-logins-import-report-row-description-modified = Credentziale esistente agiornada
+about-logins-import-report-row-description-modified = Credentziale esistente atualizada
 about-logins-import-report-row-description-added = Credentziale noa agiunta
 about-logins-import-report-row-description-error = Faddina: ammancat unu campu
 
@@ -319,8 +319,8 @@ about-logins-import-report-added =
     }
 about-logins-import-report-modified =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale esistente agiornada</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales esistentes agiornadas</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale esistente atualizada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales esistentes atualizadas</div>
     }
 about-logins-import-report-no-change =
     { $count ->

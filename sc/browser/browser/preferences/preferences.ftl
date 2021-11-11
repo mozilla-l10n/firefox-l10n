@@ -308,7 +308,7 @@ applications-use-os-default-label =
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content-learn-more = Leghe àteru
 update-application-title = Atualizatziones de { -brand-short-name }
-update-application-description = Mantene { -brand-short-name } agiornadu pro una seguresa, istabilidade e rendimentu òtimos.
+update-application-description = Mantene { -brand-short-name } atualizada pro una seguresa, istabilidade e rendimentu òtimos.
 update-application-version = Versione { $version }<a data-l10n-name="learn-more">Ite noas</a>
 update-history =
     .label = Ammustra sa cronologia de atualizatziones…
