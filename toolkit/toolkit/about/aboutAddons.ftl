@@ -236,7 +236,7 @@ discopane-intro =
     розробляються сторонніми організаціями.
     Ось декілька <a data-l10n-name="learn-more-trigger">рекомендацій</a> від { -brand-product-name } для виняткової безпеки, швидкодії та функціональності.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистики використання.
+discopane-notice-recommendations = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистиці використання.
 discopane-notice-learn-more = Докладніше
 privacy-policy = Політика приватності
 # Refers to the author of an add-on, shown below the name of the add-on.
