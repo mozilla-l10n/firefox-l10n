@@ -610,6 +610,10 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Võta oma veeb endaga kaasa
+sync-signedout-description2 = Sünkroniseeri oma järjehoidjad, ajalugu, kaardid, paroolid, lisad ja sätted kõigis oma seadmetes.
+sync-signedout-account-signin3 =
+    .label = Sünkroniseerimiseks logi sisse…
+    .accesskey = S
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -645,6 +649,10 @@ sync-sign-in =
 
 prefs-syncing-on = Sünkroniseerimine: SEES
 prefs-syncing-off = Sünkroniseerimine: VÄLJAS
+prefs-sync-turn-on-syncing =
+    .label = Lülita sünkroniseerimine sisse…
+    .accesskey = L
+prefs-sync-offer-setup-label2 = Sünkroniseeri oma järjehoidjad, ajalugu, kaardid, paroolid, lisad ja sätted kõigis oma seadmetes.
 prefs-sync-now =
     .labelnotsyncing = Sünkroniseeri kohe
     .accesskeynotsyncing = S
@@ -660,6 +668,7 @@ sync-currently-syncing-logins-passwords = Kasutajatunnused ja paroolid
 sync-currently-syncing-addresses = Aadressid
 sync-currently-syncing-creditcards = Krediitkaardid
 sync-currently-syncing-addons = Lisad
+sync-currently-syncing-settings = Sätted
 sync-change-options =
     .label = Muuda…
     .accesskey = M
@@ -699,6 +708,10 @@ sync-engine-addons =
     .label = Lisad
     .tooltiptext = Arvutis kasutatava Firefoxi laiendused ja teemad
     .accesskey = i
+sync-engine-settings =
+    .label = Sätted
+    .tooltiptext = Üldised, privaatsuse ja turvalisuse sätted, mida oled muutnud
+    .accesskey = S
 
 ## The device name controls.
 
@@ -744,13 +757,29 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Salvestatud kasutajakontod…
     .accesskey = l
+forms-primary-pw-use =
+    .label = Kasutatakse ülemparooli
+    .accesskey = K
+forms-primary-pw-learn-more-link = Rohkem teavet
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Muuda ülemparooli…
     .accesskey = p
+forms-primary-pw-change =
+    .label = Muuda ülemparooli…
+    .accesskey = M
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
+forms-primary-pw-fips-title = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
 forms-master-pw-fips-desc = Parooli muutmine nurjus
+forms-windows-sso =
+    .label = Kasutatakse Windowsi ühekordset sisselogimist Microsofti, töö- ja koolikontode jaoks
+forms-windows-sso-learn-more-link = Rohkem teavet
+forms-windows-sso-desc = Halda kontosid oma seadme sätetes
 
 ## OS Authentication dialog
 
