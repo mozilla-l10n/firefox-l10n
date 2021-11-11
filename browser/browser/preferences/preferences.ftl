@@ -497,6 +497,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
+home-prefs-recommended-by-description-update = Erakordne sisu kogu veebist kureerijalt { $provider }
+home-prefs-recommended-by-description-new = Erakordne sisu, mida kureerib { -brand-product-name } perekonda kuuluv { $provider }
 
 ##
 
@@ -514,6 +516,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Viimane allalaadimine
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }isse salvestatud lehed
+home-prefs-recent-activity-header =
+    .label = Hiljutine tegevus
+home-prefs-recent-activity-description = Valik hiljutisi saite ja sisu
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -521,6 +526,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Infokillud
 home-prefs-snippets-description = Uuendused { -vendor-short-name }lt ja { -brand-product-name }ilt
+home-prefs-snippets-description-new = Näpunäited ja uudised { -vendor-short-name }lt ja { -brand-product-name }ilt
 home-prefs-sections-rows-option =
     .label =
         { $num ->
