@@ -740,6 +740,19 @@ picture-in-picture-hide-toggle =
     .label = Ofbylding-yn-ôfbylding-skeakeler ferstopje
     .accesskey = O
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Picture-in-picture-skeakeler nei de rjochterside ferpleatse
+    .accesskey = s
+picture-in-picture-move-toggle-left =
+    .label = Picture-in-picture-skeakeler nei de linkerside ferpleatse
+    .accesskey = l
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
