@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Feestje verstoren?
 calendar-itip-identity-warning = U staat nog niet op de gastenlijst.
 calendar-itip-identity-label = Reageren als:
+calendar-itip-identity-label-none = Deze gebeurtenis koppelen aan:
