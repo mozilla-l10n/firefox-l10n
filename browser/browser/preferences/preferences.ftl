@@ -598,6 +598,11 @@ containers-header = Konteinerkaardid
 containers-add-button =
     .label = Lisa uus konteiner
     .accesskey = L
+containers-new-tab-check =
+    .label = Konteiner valitakse iga uue kaardi jaoks
+    .accesskey = K
+containers-settings-button =
+    .label = Sätted
 containers-remove-button =
     .label = Eemalda
 
