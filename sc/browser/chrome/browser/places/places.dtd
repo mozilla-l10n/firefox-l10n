@@ -19,15 +19,44 @@
 <!ENTITY view.columns.label             "Ammustra colunnas">
 <!ENTITY view.columns.accesskey         "A">
 <!ENTITY view.sort.label                "Assenta">
+<!ENTITY view.sort.accesskey            "s">
+<!ENTITY view.unsorted.label            "No assentadu">
+<!ENTITY view.unsorted.accesskey        "N">
+<!ENTITY view.sortAscending.label       "Assentada in òrdine A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Assentada in òrdine Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
+<!ENTITY importBookmarksFromHTML.label     "Importa sinnalibros dae HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Esporta sinnalibros in HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importa datos dae un'àteru navigadore…">
+<!ENTITY importOtherBrowser.accesskey      "n">
 
+<!ENTITY cmd.backup.label               "Faghe una còpia de seguresa…">
+<!ENTITY cmd.backup.accesskey           "F">
+<!ENTITY cmd.restore2.label             "Recùpera dae una còpia de seguresa">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Sèbera un'archìviu…">
+<!ENTITY cmd.restoreFromFile.accesskey  "c">
 
 <!ENTITY col.name.label          "Nùmene">
+<!ENTITY col.tags.label          "Etichetas">
 <!ENTITY col.url.label           "Positzione">
+<!ENTITY col.mostrecentvisit.label "Bìsita prus reghente">
+<!ENTITY col.visitcount.label    "Nùmeru de bìsitas">
 <!ENTITY col.dateadded.label     "Agiuntu">
+<!ENTITY col.lastmodified.label  "Ùrtima modìfica">
 
 <!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.label      "Importatzione e còpia de seguresa">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importa e faghe una còpia de seguresa de is sinnalibros tuos">
 
+<!ENTITY backButton.tooltip  "A coa">
 
+<!ENTITY forwardButton.tooltip  "In antis">
 
+<!ENTITY detailsPane.selectAnItemText.description "Sèbera un'elementu pro dd'ammustrare e nde modificare is propiedades">
