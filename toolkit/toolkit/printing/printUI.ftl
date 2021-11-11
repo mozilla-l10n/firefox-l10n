@@ -16,6 +16,8 @@ printui-sheets-count =
     }
 
 printui-page-range-all = Tutto
+printui-page-range-odd = Dispari
+printui-page-range-even = Pari
 printui-page-range-custom = Personalizzato
 printui-page-range-label = Pagine
 printui-page-range-picker =
