@@ -737,10 +737,10 @@ picture-in-picture-hide-toggle =
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = 移动画中画按钮至右侧
+    .label = 移动画中画切换按钮至右侧
     .accesskey = R
 picture-in-picture-move-toggle-left =
-    .label = 移动画中画按钮至左侧
+    .label = 移动画中画切换按钮至左侧
     .accesskey = L
 
 ##
