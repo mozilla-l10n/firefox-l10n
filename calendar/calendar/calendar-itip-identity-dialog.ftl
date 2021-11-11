@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Feestje fiere?
 calendar-itip-identity-warning = Jo steane noch net op de gastelist.
 calendar-itip-identity-label = Reagearje as:
+calendar-itip-identity-label-none = Dit barren keppelje oan:
