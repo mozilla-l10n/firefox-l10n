@@ -542,6 +542,8 @@ search-bar-hidden =
 search-bar-shown =
     .label = Kasutatakse eraldi otsinguriba
 search-engine-default-header = Vaikeotsingumootor
+search-engine-default-desc-2 = See on sinu vaikeotsingumootor aadressi- ja otsinguribal. Saad seda igal ajal vahetada.
+search-engine-default-private-desc-2 = Vali ainult privaatsete akende jaoks mõni muu vaikeotsingumootor
 search-separate-default-engine =
     .label = Seda otsingumootorit kasutatakse ka privaatsetes akendes
     .accesskey = e
@@ -560,7 +562,11 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Aadressiriba tulemustes kuvatakse otsingusoovitusi enne lehitsemise ajalugu
+search-show-suggestions-private-windows =
+    .label = Privaatsetes akendes pakutakse otsingusoovitusi
+suggestions-addressbar-settings-generic2 = Muuda teisi aadressiriba soovituste sätteid
 search-suggestions-cant-show = Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest { -brand-short-name } ei ole häälestatud ajalugu säilitama.
+search-one-click-header2 = Otsingu otseteed
 search-one-click-desc = Vali alternatiivsed otsingumootorid, mida kuvatakse aadressi- ja otsinguriba all, kui alustad märksõna sisestamist.
 search-choose-engine-column =
     .label = Otsingumootor
@@ -572,6 +578,9 @@ search-restore-default =
 search-remove-engine =
     .label = Eemalda
     .accesskey = E
+search-add-engine =
+    .label = Lisa
+    .accesskey = L
 search-find-more-link = Leia veel otsingumootoreid
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -583,6 +592,8 @@ search-keyword-warning-bookmark = Sa valisid võtmesõna, mis on kasutusel järj
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Tagasi sätetesse
 containers-header = Konteinerkaardid
 containers-add-button =
     .label = Lisa uus konteiner
