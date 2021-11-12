@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "열기 선택:">
 <!ENTITY  from.label                  "원본 위치:">
-<!ENTITY  actionQuestion.label        "작업 선택:">
+<!ENTITY  actionQuestion.label        "&brandShortName;로 어떤 작업을 하시겠습니까?">
 
 <!ENTITY  openWith.label              "열기:">
 <!ENTITY  openWith.accesskey          "o">
@@ -13,7 +13,7 @@
 <!ENTITY  saveFile.label              "파일 저장">
 <!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY  rememberChoice.label        "다시 묻지 않음">
+<!ENTITY  rememberChoice.label        "이 파일 형식에 대해 다시 묻지 않음">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "파일 형식:">
