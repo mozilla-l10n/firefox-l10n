@@ -860,6 +860,12 @@ sitedata-option-block-cross-site-trackers =
     .label = Saitideülesed jälitajad
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Saitideülesed ja sotsiaalmeedia jälitajad
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = saitideülesed jälitavad küpsised — sisaldab sotsiaalmeedia küpsiseid
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = saitideülesed küpsised — sisaldab sotsiaalmeedia küpsiseid
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = saitideülesed ja sotsiaalmeedia jälitajad, ülejäänud küpsised isoleeritakse
 sitedata-option-block-unvisited =
     .label = küpsised külastamata veebisaitidelt
 sitedata-option-block-all-third-party =
@@ -871,6 +877,9 @@ sitedata-clear =
     .accesskey = u
 sitedata-settings =
     .label = Halda andmeid…
+    .accesskey = H
+sitedata-cookies-exceptions =
+    .label = Halda erandeid…
     .accesskey = H
 
 ## Privacy Section - Address Bar
@@ -886,6 +895,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = avatud kaartide seast
     .accesskey = v
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = otseteedest
+    .accesskey = o
+addressbar-locbar-topsites-option =
+    .label = top saitidest
+    .accesskey = t
+addressbar-locbar-engines-option =
+    .label = otsingumootorite seast
+    .accesskey = g
 addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 
 ## Privacy Section - Content Blocking
@@ -893,6 +912,7 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 content-blocking-enhanced-tracking-protection = Täiustatud jälitamisvastane kaitse
 content-blocking-section-top-level-description = Jälitajad järgnevad sulle kõikjal veebis, et koguda andmeid sinu lehitsemisharjumuste ja huvide kohta. { -brand-short-name } blokib paljud neist jälitajatest ja ka muud pahatahtlikud skriptid.
 content-blocking-learn-more = Rohkem teavet
+content-blocking-fpi-incompatibility-warning = Kasutad esimese osapoole isoleerimist (FPI), mis kirjutab üle mõned { -brand-short-name }i küpsiste sätted.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -913,8 +933,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Tasakaalustatud kaitse ja jõudluse jaoks. Lehed laaditakse tavapäraselt.
 content-blocking-etp-strict-desc = Tugevam kaitse, võib põhjustada mõnel saidil või sisus probleeme.
 content-blocking-etp-custom-desc = Vali blokitavad jälitajad ja skriptid.
-content-blocking-private-windows = Jälitav sisu privaatsetes akendes
+content-blocking-etp-blocking-desc = { -brand-short-name } blokib järgnevad asjad:
+content-blocking-private-windows = jälitava sisu privaatsetes akendes
+content-blocking-cross-site-cookies-in-all-windows = saitideülesed küpsised kõigis akendes (kaasa arvatus jälitavad küpsised)
 content-blocking-cross-site-tracking-cookies = saitideülesed jälitamisküpsised
+content-blocking-all-cross-site-cookies-private-windows = saitideülesed küpsised privaatsetes akendes
+content-blocking-cross-site-tracking-cookies-plus-isolate = saitideülesed jälitavad küpsised, ülejäänud küpsised isoleeritakse
 content-blocking-social-media-trackers = Sotsiaalmeedia jälitajad
 content-blocking-all-cookies = Kõik küpsised
 content-blocking-unvisited-cookies = küpsised külastamata saitidelt
