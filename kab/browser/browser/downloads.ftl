@@ -41,6 +41,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Sken-d di Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Sken deg ukaram
+           *[other] Sken deg ukaram
+        }
+    .accesskey = A
 downloads-cmd-use-system-default =
     .label = Ldi deg umeskan n unagraw
     .accesskey = L
@@ -66,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Sken-d di Finder
            *[other] Ldi akaram igebren afaylu
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Ttalday yal tikkelt ifuyla yemṣadan
+    .accesskey = y
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Sken deg ukaram
+           *[other] Sken deg ukaram
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Sken deg ukaram
+           *[other] Sken deg ukaram
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Sken deg ukaram
+           *[other] Sken deg ukaram
         }
 downloads-cmd-show-downloads =
     .label = Sken-d akaram n yisadaren
@@ -164,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ulac yisadaren deg tɣimit-a.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } n usader n wugar n ufaylu
+       *[other] { $count } n usader n wugar n yifuyla
+    }

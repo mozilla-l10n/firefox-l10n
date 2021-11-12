@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = Asefsex n usali n yiccer
+about-unloads-last-updated = Aleqqem anaggaru: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Tazwart
 about-unloads-column-host = Asenneftaɣ
 about-unloads-column-last-accessed = Anekcum aneggaru
