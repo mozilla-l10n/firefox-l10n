@@ -946,7 +946,16 @@ content-blocking-all-windows-tracking-content = Jälitav sisu kõigis akendes
 content-blocking-all-third-party-cookies = kõik kolmanda osapoole küpsised
 content-blocking-cryptominers = krüptorahakaevurid
 content-blocking-fingerprinters = seadmetuvastajad
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Testi meie kõige võimsamat privaatsuse funktsionaalsust
+    .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Täielik küpsistevastane kaitse sisaldab ka külastatava saidi küpsiseid, nii et jälitajaid ei saaks sind saitide üleselt jälitada.
+content-blocking-etp-standard-tcp-rollout-learn-more = Rohkem teavet
 content-blocking-warning-title = Tähelepanu!
+content-blocking-and-isolating-etp-warning-description = Jälitajate blokkimine ja küpsiste isoleerimine võib mõjutada mõnede saitide funktsionaalsust. Kogu sisu nägemiseks laadige leht uuesti koos jälitajatega.
 content-blocking-warning-learn-how = Vaata juhendit
 content-blocking-reload-description = Tehtud muudatuste rakendamiseks tuleb sul kaardid uuesti laadida.
 content-blocking-reload-tabs-button =
