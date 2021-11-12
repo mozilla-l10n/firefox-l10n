@@ -8,8 +8,19 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = Fak asebded { -brand-short-name }?
 prompt-to-install-yes-button = Sebded
 prompt-to-install-no-button = Ur sebdad ara
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-title = Asebded n { -brand-short-name } yecceḍ.
+install-failed-message = { -brand-short-name } yegguma ad yebded maca ad ikemmel ad yeddu.
+
+## Strings for a dialog that recommends to the user to start an existing
+## installation of the app in the Applications directory if one is detected,
+## rather than the app that was double-clicked in a .dmg.
+
+prompt-to-launch-existing-app-title = Ldi asnas { -brand-short-name } yellan?
+prompt-to-launch-existing-app-yes-button = Ldi asnas yellan
+prompt-to-launch-existing-app-no-button = Uhu, tanemmirt
