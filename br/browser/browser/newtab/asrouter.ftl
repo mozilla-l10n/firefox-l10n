@@ -157,3 +157,9 @@ spotlight-public-wifi-vpn-link = Ket bremañ
 # "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = Amprouit a-raok an holl an arnod prevezded galloudusañ graet ganeomp.
+spotlight-total-cookie-protection-body = Ar gwarez klok toupinoù a vir an heulierien d'ober gant toupinoù a heuilh ac'hanoc'h er web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } a sav ur voger tro-dro d'an toupinoù, ar pezh a vir anezho el lec'hienn lec'h m'emaoc'h ha n'hallont ket bezañ implijet evit heuliañ ac'hanoc'h. Gant an haeziñ abred e c'hallit gwellekaat ar c'heweriuster-mañ evit ma savfemp ur web gwelloc'h evit an holl.
+spotlight-total-cookie-protection-primary-button = Gweredekaat ar gwarez toupinoù klok
+spotlight-total-cookie-protection-secondary-button = Ket bremañ

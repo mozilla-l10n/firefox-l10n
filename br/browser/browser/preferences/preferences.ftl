@@ -73,6 +73,9 @@ restart-later = Adloc'hañ diwezhatoc'h
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Un askouezh, <img data-l10n-name="icon"/>{ $name }, a reol an arventenn-se.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Un askouezh, <img data-l10n-name="icon"/> { $name } ec'h anv, a reol an arventenn-mañ.
@@ -113,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Assav an estez kent
     .accesskey = A
+startup-restore-windows-and-tabs =
+    .label = Digeriñ ar prenestroù hag an ivinelloù kent
+    .accesskey = D
 startup-restore-warn-on-quit =
     .label = Kelaouiñ pa kuitait ar merdeer
 disable-extension =
@@ -127,9 +133,23 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Kas keloù din pa vez serret meur a ivinell war un taol
     .accesskey = K
+confirm-on-close-multiple-tabs =
+    .label = Kadarnaat a-raok serriñ meur a ivinell
+    .accesskey = K
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Kadarnaat a-raok serriñ gant { $quitKey }
+    .accesskey = K
 warn-on-open-many-tabs =
     .label = Kas keloù din ma vez gorrekaet { -brand-short-name } gant digoradur meur a ivinell
     .accesskey = m
+switch-to-new-tabs =
+    .label = Pa tigorit un ere, skeudenn pe media en un ivinell nevez, mont warni ent emgefreek
+    .accesskey = P
 show-tabs-in-taskbar =
     .label = Diskouez alberzioù an ivinelloù e-barzh barrenn an trevelloù
     .accesskey = i
@@ -209,12 +229,17 @@ confirm-browser-language-change-button = Arloañ hag adloc'hañ
 translate-web-pages =
     .label = Treiñ an endalc'had web
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Troidigezhioù gant <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Nemedennoù…
     .accesskey = N
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Ober gant arventennoù ho reizhiad korvoiñ evit “{ $localeName }” evit mentrezhañ an deiziadoù, an amzer, an niveroù pe ar mentoù.
 check-user-spelling =
     .label = Gwiriañ ar reizhskrivañ pa skrivan
     .accesskey = G
@@ -263,6 +288,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Arverañ { $app-name } (dre ziouer)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Ober gant arload macOS dre ziouer
+            [windows] Ober gant arload Windows dre ziouer
+           *[other] Ober gant arload ar reizhiad dre ziouer
+        }
 applications-use-other =
     .label = Arverañ re all…
 applications-select-helper = Diuzañ an arload skoazellañ
@@ -329,6 +361,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Na wiriañ biken mard ez eus hizivadurioù (n'eo ket erbedet)
     .accesskey = N
+update-application-background-enabled =
+    .label = Pa n'eo ket lañset { -brand-short-name }
+    .accesskey = P
 update-application-warning-cross-user-setting = An arventenn-mañ a vo arloet d'an holl gontoù Windows hag an aeladoù { -brand-short-name } a arver ar staliadur { -brand-short-name }-mañ.
 update-application-use-service =
     .label = Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù
@@ -391,6 +426,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Gweredekaat ar reoliadurioù video skeudenn-war-skeudenn
     .accesskey = G
 browsing-picture-in-picture-learn-more = Gouzout hiroc'h
+browsing-media-control =
+    .label = Reoliañ ar media dre ar c'hlavier, an tokarn pe ur c'hetal hewel
+    .accesskey = R
 browsing-media-control-learn-more = Gouzout hiroc'h
 browsing-cfr-recommendations =
     .label = Erbediñ askouezhioù p’emaoc'h o verdeiñ
@@ -459,6 +497,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = Lec'hiennoù gwellañ paeroniet
 home-prefs-shortcuts-header =
     .label = Berradennoù
+home-prefs-shortcuts-description = Lec’hiennoù a enrollit pe a weladennit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Berradennoù paeroniet
 
@@ -467,6 +506,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = Erbedet gant { $provider }
+home-prefs-recommended-by-description-update = Danvez dreistordinal eus a bep lec’h er web, dibabet gant { $provider }
+home-prefs-recommended-by-description-new = Danvezioù dibar dibabet gant { $provider }, ezel familh { -brand-product-name }
 
 ##
 
@@ -486,6 +527,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Pajennoù enrollet e { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Oberiantiz a-nevez
+home-prefs-recent-activity-description = Un dibab a lec’hiennoù ha danvez nevez
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -493,6 +535,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Notennigoù
 home-prefs-snippets-description = Keleier eus { -vendor-short-name } ha { -brand-product-name }
+home-prefs-snippets-description-new = Tunioù ha nevezinti gant { -vendor-short-name } ha { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -533,6 +576,7 @@ search-show-suggestions-above-history-option =
     .label = Diskouez an alioù klask a-us d'ar roll istor e disoc'hoù ar varrenn chomlec'h
 search-show-suggestions-private-windows =
     .label = Diskouez ar c'hinnigoù enklask er prenestroù prevez
+suggestions-addressbar-settings-generic2 = Kemmañ an arventennoù evit ar c’hinnigoù barenn chomlec’h all
 search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m’ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 search-one-click-header2 = Berradennoù enklask
 search-one-click-desc = Dibabit al luskerioù enklask all diskouezet dindan ar varrenn chomlec'hioù hag ar varrenn glask pa grogit da skrivañ ur ger.
@@ -636,6 +680,7 @@ sync-currently-syncing-logins-passwords = Titouroù kennaskañ
 sync-currently-syncing-addresses = Chomlec'hioù
 sync-currently-syncing-creditcards = Kartennoù kred
 sync-currently-syncing-addons = Askouezhioù
+sync-currently-syncing-settings = Arventennoù
 sync-change-options =
     .label = Kemmañ…
     .accesskey = K
@@ -674,6 +719,10 @@ sync-engine-creditcards =
 sync-engine-addons =
     .label = Askouezhioù
     .tooltiptext = Askouezhioù ha neuzioù evit Firefox war burev
+    .accesskey = A
+sync-engine-settings =
+    .label = Arventennoù
+    .tooltiptext = Arventennoù hollek, buhez prevez ha diogelroez kemmet ganeoc’h
     .accesskey = A
 
 ## The device name controls.
@@ -739,6 +788,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Anvet "ger-tremen mestr" a-raok
 forms-primary-pw-fips-title = E mod FIPS emaoc'h. FIPS a c'houlenn ur ger-tremen mestr ha n'eo ket goulo.
 forms-master-pw-fips-desc = Fazi en ur gemmañ ar ger-tremen
+forms-windows-sso =
+    .label = Aotren dilesa eeun Windows evit ar c'hontoù Microsoft, al labour hag ar c'hontoù skol.
+forms-windows-sso-learn-more-link = Gouzout hiroc'h
+forms-windows-sso-desc = Merañ ar c'hontoù e arventennoù ho trevnad
 
 ## OS Authentication dialog
 
@@ -819,6 +872,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Heulierien etre-lec'hienn
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Heulierien etre-lec'hienn ha kevredadel
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Toupinoù heuliañ etre-lec’hienn — Ebarzhiñ a ra an toupinoù media kevredadel
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Toupinoù etre-lec’hienn — Ebarzhiñ a ra an toupinoù media kevredadel
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Heulierien etre lec'hiennoù ha media kevredadel, ha strollañ an toupinoù a chom
 sitedata-option-block-unvisited =
@@ -856,6 +913,9 @@ addressbar-locbar-shortcuts-option =
     .accesskey = B
 addressbar-locbar-topsites-option =
     .label = Lec'hiennoù gwellañ
+    .accesskey = L
+addressbar-locbar-engines-option =
+    .label = Luskerioù enklask
     .accesskey = L
 addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask
 
