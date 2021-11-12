@@ -924,6 +924,7 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 content-blocking-enhanced-tracking-protection = Gwarez heuliañ araoket
 content-blocking-section-top-level-description = An heulierien a heuilh ac'hanoc'h enlinenn evit tapout titouroù diwar-benn ho poazioù merdeiñ hag ho kreizennoù dedenn. { -brand-short-name } a stank lodenn vrasañ anezho.
 content-blocking-learn-more = Gouzout hiroc'h
+content-blocking-fpi-incompatibility-warning = Ober a rit gant an Difuadur an Domani Kentañ (DDK), ar pezh a flastr lod eus arventennoù toupinoù { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -944,8 +945,12 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù ’zo da derriñ.
 content-blocking-etp-custom-desc = Dibabit pe heulier pe skript herzel.
+content-blocking-etp-blocking-desc = { -brand-short-name } a stank an toupinoù dindan:
 content-blocking-private-windows = Heulierien er prenestroù prevez
+content-blocking-cross-site-cookies-in-all-windows = Toupinoù etrelec’hienn en holl brenestroù (toupinoù heuliañ en o zouez)
 content-blocking-cross-site-tracking-cookies = Toupinoù heuliañ etre-lec'hienn
+content-blocking-all-cross-site-cookies-private-windows = Toupinoù etrelec’hienn er prenestroù prevez
+content-blocking-cross-site-tracking-cookies-plus-isolate = Toupinoù heuliañ etrelec’hienn, ha difuiñ an toupinoù a chom
 content-blocking-social-media-trackers = Heulierien media kevredadel
 content-blocking-all-cookies = An holl doupinoù
 content-blocking-unvisited-cookies = Toupinoù al lec'hiennoù n'int ket bet gweladennet
@@ -953,6 +958,14 @@ content-blocking-all-windows-tracking-content = Endalc'had heuliañ en holl bren
 content-blocking-all-third-party-cookies = Holl doupinoù an tredeoù
 content-blocking-cryptominers = Kriptogleuzerien
 content-blocking-fingerprinters = Dinoerien roudoù niverel
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Amprouit hor c'heweriuster galloudusañ betek en
+    .accesskey = A
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Ar gwarez toupinoù klok a endalc'h toupinoù al lec'hienn m'emaoc'h warni, evel-se n’hall ket an heulierien ober ganto evit heuliañ ac'hanoc'h etre al lec'hiennoù.
+content-blocking-etp-standard-tcp-rollout-learn-more = Gouzout hiroc'h
 content-blocking-warning-title = Diwallit!
 content-blocking-and-isolating-etp-warning-description = Stankañ an heulierien ha difuiñ an toupinoù a c'hallfe kaout un efed war implij lec'hiennoù ’zo. Adkargit ur bajenn gant an heulierien evit kargañ pep tra.
 content-blocking-warning-learn-how = Deskit penaos
