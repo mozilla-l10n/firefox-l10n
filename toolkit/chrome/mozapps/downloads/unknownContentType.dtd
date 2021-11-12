@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "열기 선택:">
+<!ENTITY  intro2.label                "다음 파일 열기를 선택하셨습니다:">
 <!ENTITY  from.label                  "원본 위치:">
 <!ENTITY  actionQuestion.label        "&brandShortName;로 어떤 작업을 하시겠습니까?">
 

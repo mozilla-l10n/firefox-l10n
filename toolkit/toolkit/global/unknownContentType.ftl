@@ -11,7 +11,7 @@ unknowncontenttype-settingschange =
             [windows] { -brand-short-name } 설정에서 변경할 수 있습니다.
            *[other] { -brand-short-name } 설정에서 변경할 수 있습니다.
         }
-unknowncontenttype-intro = 열기 선택:
+unknowncontenttype-intro = 다음 파일 열기를 선택하셨습니다:
 unknowncontenttype-which-is = 파일 형식:
 unknowncontenttype-from = 원본 위치:
 unknowncontenttype-prompt = 이 파일을 저장하시겠습니까?
