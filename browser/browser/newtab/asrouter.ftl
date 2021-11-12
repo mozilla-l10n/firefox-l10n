@@ -124,6 +124,8 @@ cfr-doorhanger-video-support-primary-button = Jetzt aktualisieren
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-expanded = Weitere Informationen
+    .title = Schließen
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
