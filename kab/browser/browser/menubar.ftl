@@ -38,20 +38,16 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Anef { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Anef { -brand-shorter-name }
-
 menu-about =
     .label = Ɣef { -brand-shorter-name }
     .accesskey = Γ
@@ -83,6 +79,16 @@ menu-file-open-file =
     .accesskey = L
 menu-file-close =
     .label = Mdel
+    .accesskey = M
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Mdel iccer
+            [one] Mdel iccer
+           *[other] Mdel { $tabCount } waccaren
+        }
     .accesskey = M
 menu-file-close-window =
     .label = Mdel asfaylu
