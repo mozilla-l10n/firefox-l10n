@@ -21,16 +21,15 @@ about-private-browsing-handoff-text = Nadi s { $engine } neɣ sekcem tansa
 about-private-browsing-handoff-text-no-engine = Nadi neɣ sekcem tansa
 about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
 about-private-browsing-info-description = { -brand-short-name } iseffeḍ azray n unadi d tunigin mi ara teffɣeḍ seg usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara tinigeḍ.
-
 about-private-browsing-need-more-privacy = Tesriḍ ugar n tbaḍnit?
 about-private-browsing-turn-on-vpn = Ɛreḍ { -mozilla-vpn-brand-name }
-
+about-private-browsing-info-description-private-window = Asfaylu uslig: { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen. Aya ur ak·akem-yettarra ara d t·udrig·t.
 about-private-browsing-info-description-simplified = { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen, maca aya ur ak·akem-yettarra ara d t·udrig·t.
 about-private-browsing-learn-more-link = Issin ugar
-
 about-private-browsing-hide-activity = Ffer armud-ik·im d wadig, anida akk i tettinigeḍ
+about-private-browsing-get-privacy = Sεu ammesten n tbaḍnit anida akk tettinigeḍ
+about-private-browsing-hide-activity-1 = Ffer armud d wadig n tunigin s { -mozilla-vpn-brand-name }. Yiwen n usiti, rnu tuqqna , ula ɣef Wi-Fi azayaz.
 about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
