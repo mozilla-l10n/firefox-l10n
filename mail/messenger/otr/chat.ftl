@@ -10,3 +10,5 @@ start-tooltip =
     .tooltiptext = { start-text }
 end-label =
     .label = Finalizar la conversación cifrada
+auth-label =
+    .label = Verificar la identidad de tu contacto
