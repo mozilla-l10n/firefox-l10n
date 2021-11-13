@@ -8,28 +8,24 @@
 ##
 
 process-type-web = Saityno turinys
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegijuotas „about“
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Privilegijuotas „Mozillos“ turinio
-
 process-type-extension = Plėtinys
-
 # process used to open file:// URLs
 process-type-file = Vietinis failas
-
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Didelis išskyrimas
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izoliuotas saityno turinys
-
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Izoliuotas aptarnavimo scenarijus
 # process preallocated; may change to other types
 process-type-prealloc = Išskirtas iš anksto
 
@@ -39,14 +35,11 @@ process-type-prealloc = Išskirtas iš anksto
 
 process-type-default = Pagrindinis
 process-type-tab = Kortelės
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Sujungimas
-
 # process used to decode media
 process-type-rdd = RDD
 
