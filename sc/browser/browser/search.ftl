@@ -9,9 +9,11 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Faddina de installatzione
+opensearch-error-duplicate-desc = { -brand-short-name } no at pòdidu installare su cumplementu de chirca dae { $location-url } ca esistit giai unu motore cun su pròpiu nòmine.
 opensearch-error-format-title = Formadu non vàlidu
 opensearch-error-format-desc = { -brand-short-name } no at pòdidu installare su motore de chirca dae: { $location-url }
 opensearch-error-download-title = Faddina de iscarrigamentu
+opensearch-error-download-desc = { -brand-short-name } no at pòdidu iscarrigare su cumplementu de chirca dae: { $location-url }
 
 ##
 

@@ -29,6 +29,9 @@ protection-report-page-summary = { -brand-short-name } podet amparare in manera 
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } amparat in manera trasparente sa riservadesa tua cando nàvigas. Custu est unu resumu personalizadu de cussas protetziones, cun ainas pro controllare sa seguresa tua in lìnia.
 protection-report-settings-link = Gesti sa cunfiguratzione de riservadesa e seguresa
+protections-close-button2 =
+    .aria-label = Serra
+    .title = Serra
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

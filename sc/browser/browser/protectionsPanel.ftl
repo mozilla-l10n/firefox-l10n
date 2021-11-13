@@ -19,7 +19,7 @@ protections-popup-footer-protection-label-standard = Istandard
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Àteras informatziones a subra de sa protetzione contra de sa sighidura megiorada
+    .aria-label = Àteras informatziones a subra de s'amparu contra de sa sighidura megiorada
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -44,3 +44,4 @@ protections-panel-etp-more-info =
 
 ##
 
+protections-panel-description-shim-allowed-learn-more = Àteras informatziones
