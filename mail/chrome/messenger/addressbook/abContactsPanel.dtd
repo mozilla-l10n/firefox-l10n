@@ -19,7 +19,7 @@
 <!ENTITY searchContacts.accesskey           "ν">
 <!ENTITY SearchNameOrEmail.label            "Όνομα ή email">
 
-<!ENTITY addtoToFieldMenu.label             "Προσθήκη στο πεδίο Προς">
+<!ENTITY addtoToFieldMenu.label             "Προσθήκη στο πεδίο «Προς»">
 <!ENTITY addtoToFieldMenu.accesskey         "Π">
 <!ENTITY addtoCcFieldMenu.label             "Προσθήκη στο πεδίο «Κοιν.»">
 <!ENTITY addtoCcFieldMenu.accesskey         "Κ">
