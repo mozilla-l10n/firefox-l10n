@@ -126,6 +126,7 @@ remove-search-engine =
     .label = Eliminar
     .accesskey = v
 add-opensearch-provider-title = Agregar proveedor de OpenSearch
+adding-opensearch-provider-failed-title = No se pudo agregar el proveedor OpenSearch
 minimize-to-tray-label =
     .label = Mover { -brand-short-name } a la bandeja cuando es minimizado
     .accesskey = m
@@ -322,6 +323,7 @@ type-column-label =
 action-column-label =
     .label = Acción
     .accesskey = A
+type-column-header = Tipo de contenido
 action-column-header = Acción
 save-to-label =
     .label = Guardar archivos en
@@ -691,6 +693,17 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Buscar en ajustes
 
 ## Settings UI Search Results
 
