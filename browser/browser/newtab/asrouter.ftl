@@ -157,5 +157,8 @@ spotlight-total-cookie-protection-header =
     Med prvimi preizkusite našo
     najzmogljivejšo zaščito zasebnosti doslej
 spotlight-total-cookie-protection-body = Popolna zaščita pred piškotki preprečuje sledilcem, da bi vam po spletu sledili z uporabo piškotkov.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ograjuje piškotke znotraj spletnega mesta, na katerem se nahajate, tako da jih sledilci ne morejo uporabiti, da bi vam sledili. Z zgodnjim dostopom boste pomagali izboljšati to zmogljivost, da bomo lahko še naprej gradili boljši splet za vse.
 spotlight-total-cookie-protection-primary-button = Vključi popolno zaščito pred piškotki
 spotlight-total-cookie-protection-secondary-button = Ne zdaj

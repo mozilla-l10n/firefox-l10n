@@ -225,6 +225,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ojoj! Nekaj se je zalomilo
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Priljubljene teme:
+newtab-pocket-new-topics-title = Želite še več zgodb? Oglejte si najbolj priljubljene teme iz storitve { -pocket-brand-name }
 newtab-pocket-more-recommendations = Več priporočil
 newtab-pocket-learn-more = Več o tem
 newtab-pocket-cta-button = Prenesi { -pocket-brand-name }
