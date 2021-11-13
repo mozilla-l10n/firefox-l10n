@@ -106,6 +106,8 @@ exchange-dialog-cancel-button = Cancelar
 
 ## Dismiss account creation dialog
 
+account-setup-no-account-checkbox = Usar { -brand-short-name } sin una cuenta de correo electrónico
+    .accesskey = U
 
 ## Alert dialogs
 
