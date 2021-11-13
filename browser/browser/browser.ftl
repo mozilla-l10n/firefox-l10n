@@ -744,6 +744,19 @@ picture-in-picture-hide-toggle =
     .label = Скрыть переключатель «Картинка в картинке»
     .accesskey = ы
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Переместить переключатель «Картинка в картинке» вправо
+    .accesskey = п
+picture-in-picture-move-toggle-left =
+    .label = Переместить переключатель «Картинка в картинке» влево
+    .accesskey = л
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
