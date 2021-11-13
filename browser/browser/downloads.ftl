@@ -41,6 +41,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Vis i Finder
     .accesskey = V
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Vis i Finder
+           *[other] Vis i mappe
+        }
+    .accesskey = V
 downloads-cmd-use-system-default =
     .label = Åbn i systemets standard-program
     .accesskey = s
