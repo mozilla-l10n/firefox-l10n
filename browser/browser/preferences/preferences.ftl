@@ -954,6 +954,13 @@ content-blocking-all-windows-tracking-content = Sledilno vsebino v vseh oknih
 content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
 content-blocking-cryptominers = Kriptorudarje
 content-blocking-fingerprinters = Sledilce prstnih odtisov
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Bodite med prvimi, ki boste preizkusili novo zmogljivost na področju zasebnosti
+    .accesskey = t
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Popolna zaščita pred piškotki zadrži piškotke na spletnem mestu, na katerem se nahajte, tako da jih sledilci ne morejo uporabiti za sledenje med različnimi spletnimi mesti.
 content-blocking-etp-standard-tcp-rollout-learn-more = Več o tem
 content-blocking-warning-title = Opozorilo!
 content-blocking-and-isolating-etp-warning-description = Zavračanje sledilcev in izolacija piškotkov lahko vplivata na delovanje nekaterih strani. Naložite stran s sledilci, da naložite vso vsebino.

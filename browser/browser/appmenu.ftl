@@ -128,6 +128,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Zajemite profil učinkovitosti
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Profiler spremlja profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler zajema profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -177,6 +183,8 @@ profiler-popup-capture-shortcut =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Priporočena prednastavitev za razhroščevanje večine spletnih aplikacij, z nizko porabo sredstev.
+profiler-popup-presets-web-developer-label =
+    .label = Spletni razvoj
 profiler-popup-presets-media-description = Priporočena prednastavitev za prepoznavanje težav z zvokom in videom.
 profiler-popup-presets-media-label =
     .label = Predstavnost
