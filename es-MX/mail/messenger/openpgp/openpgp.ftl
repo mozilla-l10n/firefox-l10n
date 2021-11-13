@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-key-user-id-label = Cuenta / ID de usuario
+openpgp-keygen-title-label =
+    .title = Generar clave OpenPGP
 openpgp-cancel-key =
     .label = Cancelar
     .tooltiptext = Cancelar generación de clave
@@ -14,12 +17,25 @@ openpgp-key-gen-months-label =
     .label = meses
 openpgp-key-gen-years-label =
     .label = años
+openpgp-key-gen-no-expiry-label =
+    .label = La clave no expira
+openpgp-key-gen-key-size-label = Tamaño de clave
+openpgp-key-gen-console-label = Generación de clave
+openpgp-key-gen-key-type-label = Tipo de clave
 openpgp-key-gen-key-type-rsa =
     .label = RSA
 openpgp-key-gen-key-type-ecc =
     .label = ECC (curva elíptica)
+openpgp-generate-key =
+    .label = Generar clave
+    .tooltiptext = Genera una nueva clave compatible con OpenPGP para cifrado y/o firma
 openpgp-advanced-prefs-button-label =
     .label = Avanzado…
+openpgp-key-id-label =
+    .label = ID de clave
+openpgp-key-man-generate =
+    .label = Nuevo par de claves
+    .accesskey = c
 openpgp-key-man-file-menu =
     .label = Archivo
     .accesskey = A
@@ -36,6 +52,20 @@ openpgp-key-man-discover-progress = Buscando…
 openpgp-key-man-ctx-copy =
     .label = Copiar
     .accesskey = C
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Huella digital
+           *[other] Huellas digitales
+        }
+    .accesskey = H
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Clave pública
+           *[other] Claves públicas
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = Cerrar
 openpgp-key-man-key-more =
@@ -70,9 +100,17 @@ e2e-learn-more = Saber más
 
 ## OpenPGP Key selection area
 
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Expira el: { $date }
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Expiro el: { $date }
 openpgp-key-expand-section =
     .tooltiptext = Más información
+openpgp-key-revoke-title = Revocar clave
+# Strings in keyDetailsDlg.xhtml
+key-type-public = clave pública
 key-type-primary = clave primaria
+key-type-subkey = subclave
 key-expiry-never = nunca
 key-usage-encrypt = Cifrar
 key-usage-sign = Firma
@@ -84,7 +122,11 @@ general-error = Error: { $reason }
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+delete-key-title = Eliminar clave OpenPGP
 key-trust-group = (grupo)
+gnupg-file = Archivos GnuPG
 
 # Strings used in enigmailMessengerOverlay.js
 
