@@ -57,8 +57,10 @@ inactive-scroll-padding-when-not-scroll-container-fix = Poskusite dodati <strong
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> ni podprt v naslednjih brskalnikih:
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> je bila poskusna lastnost, ki je po standardih W3C zdaj opuščena. Ne podpirajo je naslednji brskalniki:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> je bila poskusna lastnost, ki je po standardih W3C zastarela. Ne podpirajo je naslednji brskalniki:
 css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> je bila poskusna lastnost, ki je po standardih W3C zastarela.
 css-compatibility-deprecated-message = <strong>{ $property }</strong> je po standardih W3C zastarela. Ne podpirajo je naslednji brskalniki:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> je po standardih W3C zastarela. Ne podpirajo je naslednji brskalniki:
+css-compatibility-experimental-message = <strong>{ $property }</strong> je poskusna lastnost. Ne podpirajo je naslednji brskalniki:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> je poskusna lastnost.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Več</span> o <strong>{ $rootProperty }</strong>
