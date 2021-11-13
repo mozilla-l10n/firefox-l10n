@@ -14,6 +14,10 @@ unread-messages-os-tooltip =
 
 content-tab-page-loading-icon =
     .alt = La pagina esta cargando
+content-tab-security-high-icon =
+    .alt = La conexión es segura
+content-tab-security-broken-icon =
+    .alt = La conexión no es segura
 
 ## Toolbar
 

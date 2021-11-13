@@ -31,6 +31,8 @@ to-compose-address-row-label =
     .value = Para
 cc-compose-address-row-label =
     .value = Cc
+many-public-recipients-prompt-cancel = Cancelar envío
+many-public-recipients-prompt-send = Enviar de todos modos
 
 ## Notifications
 
