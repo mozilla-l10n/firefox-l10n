@@ -56,7 +56,7 @@ menu-about =
 
 menu-file =
     .label = Archìviu
-    .accesskey = A
+    .accesskey = r
 menu-file-new-tab =
     .label = Ischeda noa
     .accesskey = n
@@ -249,7 +249,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Ainas
-    .accesskey = A
+    .accesskey = i
 menu-tools-downloads =
     .label = Iscarrigamentos
     .accesskey = I
@@ -311,7 +311,7 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Agiudu
-    .accesskey = A
+    .accesskey = g
 menu-get-help =
     .label = Otene agiudu
     .accesskey = O
