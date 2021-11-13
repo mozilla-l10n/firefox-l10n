@@ -62,6 +62,7 @@ about-processes-unknown-process = Bestelakoa: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, zerbitzu-langilea)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, handia)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, jatorri gurutzatu isolatua)
 about-processes-web-isolated-process-private = { $origin } — Pribatua ({ $pid })

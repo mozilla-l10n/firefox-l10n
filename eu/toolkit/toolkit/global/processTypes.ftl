@@ -23,6 +23,9 @@ process-type-weblargeallocation = Esleipen handia
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isolatutako web edukia
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Zerbitzu-langile isolatua
 # process preallocated; may change to other types
 process-type-prealloc = Aurrez esleituta
 
