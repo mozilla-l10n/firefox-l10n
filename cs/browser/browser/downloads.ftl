@@ -41,6 +41,17 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Zobrazit ve Finderu
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Zobrazit ve Finderu
+           *[other] Otevřít složku
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] F
+           *[other] l
+        }
 downloads-cmd-use-system-default =
     .label = Otevřít v systémovém prohlížeči
     .accesskey = p
@@ -62,6 +73,24 @@ downloads-cmd-show-panel =
            *[other] Otevřít složku
         }
 downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Zobrazit ve Finderu
+           *[other] Otevřít složku
+        }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Zobrazit ve Finderu
+           *[other] Otevřít složku
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Zobrazit ve Finderu
+           *[other] Otevřít složku
+        }
+downloads-cmd-show-description-2 =
     .value =
         { PLATFORM() ->
             [macos] Zobrazit ve Finderu

@@ -113,6 +113,9 @@ places-remove-bookmark =
            *[other] Odebrat záložky
         }
     .accesskey = d
+places-show-in-folder =
+    .label = Otevřít složku
+    .accesskey = l
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
