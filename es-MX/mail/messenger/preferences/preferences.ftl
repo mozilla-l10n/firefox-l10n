@@ -127,6 +127,7 @@ remove-search-engine =
     .accesskey = v
 add-opensearch-provider-title = Agregar proveedor de OpenSearch
 adding-opensearch-provider-failed-title = No se pudo agregar el proveedor OpenSearch
+adding-opensearch-provider-failed-text = No se pudo agregar el proveedor de OpenSearch para { $url }.
 minimize-to-tray-label =
     .label = Mover { -brand-short-name } a la bandeja cuando es minimizado
     .accesskey = m
@@ -713,5 +714,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] No se han encontrado resultados en Opciones para “<span data-l10n-name="query"></span>”.
        *[other] No se han encontrado resultados en Preferencias para “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] ¡Lo sentimos! No hay resultados en la Configuración para “<span data-l10n-name="query"></span>”.
+       *[other] ¡Lo sentimos! No hay resultados en los Ajustes para “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = ¿Necesitas ayuda? Visita el soporte de <a data-l10n-name="url">{ -brand-short-name }</a>
