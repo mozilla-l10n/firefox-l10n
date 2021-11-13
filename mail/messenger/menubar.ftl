@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Nastavitve
     .accesskey = N
+menu-tools-settings =
+    .label = Nastavitve
+    .accesskey = t
 menu-addons-and-themes =
     .label = Dodatki in teme
     .accesskey = D
