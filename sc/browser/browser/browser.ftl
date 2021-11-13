@@ -777,6 +777,9 @@ tabs-toolbar =
     .aria-label = Ischedas de su navigadore
 tabs-toolbar-new-tab =
     .label = Ischeda noa
+tabs-toolbar-list-all-tabs =
+    .label = Elenca totu is ischedas
+    .tooltiptext = Elenca totu is ischedas
 
 ## Infobar shown at startup to suggest session-restore
 
