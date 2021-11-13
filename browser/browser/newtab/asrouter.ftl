@@ -156,4 +156,6 @@ spotlight-public-wifi-vpn-link = Ne zdaj
 spotlight-total-cookie-protection-header =
     Med prvimi preizkusite našo
     najzmogljivejšo zaščito zasebnosti doslej
+spotlight-total-cookie-protection-body = Popolna zaščita pred piškotki preprečuje sledilcem, da bi vam po spletu sledili z uporabo piškotkov.
+spotlight-total-cookie-protection-primary-button = Vključi popolno zaščito pred piškotki
 spotlight-total-cookie-protection-secondary-button = Ne zdaj

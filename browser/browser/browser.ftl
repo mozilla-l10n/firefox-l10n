@@ -748,6 +748,19 @@ picture-in-picture-hide-toggle =
     .label = Skrij preklop slike v sliki
     .accesskey = p
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Premakni gumb slike v sliki na desno
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Premakni gumb slike v sliki na levo
+    .accesskey = l
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
