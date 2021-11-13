@@ -99,7 +99,7 @@ extension-controlled-enable = Para habilitar la extensión ve a complementos de 
 
 search-results-header = Buscar resultados
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = ¡Lo siento! No hay resultados en la Configuración para "<span data-l10n-name="query"></span>".
+search-results-empty-message2 = ¡Lo sentimos! No hay resultados en la Configuración para "<span data-l10n-name="query"></span>".
 search-results-help-link = ¿Necesitas ayuda? Visita <a data-l10n-name="url">Apoyo de { -brand-short-name }</a>
 
 ## General Section
