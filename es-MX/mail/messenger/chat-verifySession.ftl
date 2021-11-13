@@ -6,3 +6,4 @@ verify-window-title = Verificar identidad
 # Variables:
 #   $subject (String) - a human readable identifier for the other side of the verification flow.
 verify-window-subject-title = Verificar la identidad de { $subject }
+challenge-label = Verificar que la cadena que se muestra coincida con la que se muestra en el otro extremo.
