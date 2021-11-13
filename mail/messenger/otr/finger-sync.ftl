@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 finger-yes = Verificado
+finger-subset-title = Eliminar huellas digitales
+finger-remove-all-title = Eliminar todas las huellas digitales
