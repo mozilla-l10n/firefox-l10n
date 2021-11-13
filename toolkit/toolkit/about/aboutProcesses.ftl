@@ -63,6 +63,7 @@ about-processes-unknown-process = Kitas: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, aptarnavimo scenarijus)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, didelis)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, „cross-origin“ izoliacija)
 about-processes-web-isolated-process-private = { $origin } – privatus ({ $pid })

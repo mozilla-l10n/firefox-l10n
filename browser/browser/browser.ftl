@@ -744,6 +744,19 @@ picture-in-picture-hide-toggle =
     .label = Slėpti vaizdo-vaizde perjungimą
     .accesskey = S
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Perkelti vaizdo-vaizde mygtuką į dešinę pusę
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Perkelti vaizdo-vaizde mygtuką į kairę pusę
+    .accesskey = k
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
