@@ -20,6 +20,12 @@ about-debugging-refresh-usb-devices-button = Agiorna is dispositivos
 
 # Runtime Page strings
 
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Disconnete
 
 # Debug Targets strings
 
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Serra su messàgiu
