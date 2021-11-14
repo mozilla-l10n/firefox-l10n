@@ -60,6 +60,8 @@ upgrade-dialog-default-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = ਨਵੇਂ ਨਕੋਰ ਥੀਮ ਨਾਲ ਨਵੀਂ ਸ਼ੁਰੂਆਤ ਕਰੋ
 upgrade-dialog-theme-system = ਸਿਸਟਮ ਥੀਮ
     .title = ਬਟਨਾਂ, ਮੇਨੂ ਅਤੇ ਵਿੰਡੋਆਂ ਲਈ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਥੀਮ ਦੇ ਮੁਤਾਬਕ ਚੱਲੋ
 

@@ -745,6 +745,19 @@ picture-in-picture-hide-toggle =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬਦਲਣ ਨੂੰ ਲੁਕਾਓ
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਨੂੰ ਸੱਜੇ ਪਾਸੇ ਭੇਜੋ
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਨੂੰ ਖੱਬੇ ਪਾਸੇ ਭੇਜੋ
+    .accesskey = L
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include

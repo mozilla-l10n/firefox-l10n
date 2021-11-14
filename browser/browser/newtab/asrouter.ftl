@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ
+cfr-doorhanger-extension-heading = ਸਿਫ਼ਾਰਸ਼ੀ ਇਕਸਟੈਨਸ਼ਨ
 cfr-doorhanger-feature-heading = ਸਿਫ਼ਾਰਸ਼ੀ ਫੀਚਰ
 
 ##
@@ -28,12 +28,12 @@ cfr-doorhanger-extension-author = { $name } ਰਾਹੀਂ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ੀ
-cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ਾਂ
+cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ੀ
     .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
     .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
-cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼
+cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼ੀ
     .tooltiptext = ਭਵਿੱਖ ਦੀ ਸਿਫਾਰਸ਼
     .a11y-announcement = ਭਵਿੱਖ ਦੀ ਸਿਫਾਰਸ਼ ਮੌਜੂਦ ਹੈ
 
@@ -140,12 +140,13 @@ spotlight-learn-more-expanded = ਹੋਰ ਜਾਣੋ
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ ਵਾਈ-ਫਾਈ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ
 spotlight-public-wifi-vpn-body = ਆਪਣੇ ਟਿਕਾਣੇ ਤੇ ਬਰਾਊਜ਼ ਸਰਗਰਮੀ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ ਬਾਰੇ ਸੋਚੋ। ਇਹ ਤੁਹਾਨੂੰ ਪਬਲਿਕ ਥਾਵਾਂ ਜਿਵੇਂ ਕਿ ਏਅਰਪੋਰਟ ਅਤੇ ਕਾਫ਼ੀ ਦੁਕਾਨਾਂ ਵਰਗੀ ਪਬਲਿਕ ਥਾਵਾਂ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।
-spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ਨਾਲ ਪ੍ਰਾਈਵੇਖ ਰਹੋ
+spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਰਹੋ
     .accesskey = S
 spotlight-public-wifi-vpn-link = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
 
 ## Total Cookie Protection Rollout
 
-spotlight-total-cookie-protection-primary-button = ਕੁੱਲ ਕੂਕੀ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ
+spotlight-total-cookie-protection-body = ਪੂਰੀ ਕੂਕੀਜ਼ ਸੁਰੱਖਿਆ ਟਰੈਕਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਵਰਤ ਕੇ ਵੈੱਬ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।
+spotlight-total-cookie-protection-primary-button = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ
 spotlight-total-cookie-protection-secondary-button = ਹੁਣੇ ਨਹੀਂ
