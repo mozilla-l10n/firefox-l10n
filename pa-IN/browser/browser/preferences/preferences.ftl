@@ -948,6 +948,11 @@ content-blocking-all-windows-tracking-content = ਸਾਰੀਆਂ ਵਿੰਡ�
 content-blocking-all-third-party-cookies = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
 content-blocking-cryptominers = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
 content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = ਸਾਡੇ ਸਭ ਤੋਂ ਜ਼ਬਰਦਸਤ ਪਰਦੇਦਾਰੀ ਫ਼ੀਚਰ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ
+    .accesskey = T
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਵਿੱਚ ਜਿਸ ਸਾਈਟ ਉੱਤੇ ਤੁਸੀਂ ਹੋ, ਉਸ ਲਈ ਕੂਕੀਜ਼ ਹੁੰਦੇ ਹਨ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਹੋਰ ਸਾਈਟਾਂ ਵਰਤੇ ਜਾਣ ਦੌਰਾਨ ਟਰੈਕਰ ਉਹਨਾਂ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰ ਸਕਣ।
 content-blocking-etp-standard-tcp-rollout-learn-more = ਹੋਰ ਜਾਣੋ
