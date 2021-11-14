@@ -7,6 +7,7 @@ provisioner-searching-icon =
     .alt = Iskanje …
 account-provisioner-title = Ustvarite nov e-poštni naslov
 account-provisioner-mail-account-title = Kupite nov e-poštni naslov
+account-provisioner-mail-account-description = Thunderbird je združil moči s ponudnikom <a data-l10n-name="mailfence-home-link">Mailfence</a>, da bi vam ponudil nov zaseben in varen e-poštni naslov. Verjamemo, da bi vsak e-poštni predal moral biti varen.
 account-provisioner-domain-title = Kupite lasten e-poštni naslov in domeno
 
 ## Forms
