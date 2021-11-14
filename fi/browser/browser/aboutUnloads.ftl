@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Välilehtien latauksen purkaminen
 about-unloads-column-priority = Tärkeysaste
 about-unloads-column-last-accessed = Viimeksi käytetty
 about-unloads-column-memory = Muisti
