@@ -37,3 +37,4 @@ pocket-panel-signup-signup-email = ᱤᱢᱮᱞ ᱛᱮ ᱥᱟᱭᱤᱱ ᱟᱯ �
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = ᱤᱧᱟᱜ ᱞᱤᱥᱴᱭ
+pocket-panel-home-explore-more = ᱥᱮᱸᱫᱽᱨᱟ
