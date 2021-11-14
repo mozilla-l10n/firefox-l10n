@@ -184,8 +184,10 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои аксари барномаҳои веб бо хароҷоти иловагии паст.
 profiler-popup-presets-web-developer-label =
     .label = Барномарезии сомонаҳо
+profiler-popup-presets-firefox-platform-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои дохилии платформаи Firefox.
 profiler-popup-presets-firefox-platform-label =
     .label = Платформаи Firefox
 profiler-popup-presets-firefox-graphics-label =
