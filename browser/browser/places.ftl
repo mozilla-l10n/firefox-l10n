@@ -123,6 +123,9 @@ places-manage-bookmarks =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M
 places-forget-about-this-site-confirmation-title = ਇਸ ਸਾਈਟ ਬਾਰੇ ਭੁੱਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = ਇਹ ਕਾਰਵਾਈ { $hostOrBaseDomain } ਨਾਲ ਸੰਬੰਧਿਤ ਸਾਰਾ ਡਾਟਾ ਹਟਾਏਗੀ, ਜਿਸ ਵਿੱਚ ਅਤੀਤ, ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਕੈਸ਼ ਤੇ ਸਮਰੱਗੀ ਪਸੰਦਾਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 places-forget-about-this-site-forget = ਭੁੱਲੋ
 places-library =
     .title = ਲਾਇਬਰੇਰੀ

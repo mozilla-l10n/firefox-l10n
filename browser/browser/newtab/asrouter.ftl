@@ -138,7 +138,7 @@ spotlight-learn-more-expanded = ਹੋਰ ਜਾਣੋ
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 # This header text can be explicitly wrapped.
-spotlight-public-wifi-vpn-header = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ ਵਾਈ-ਫਾਈ ਇਸਤੇਮਾਲ ਕਰ ਰਹੇ ਹੋ
+spotlight-public-wifi-vpn-header = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ ਵਾਈ-ਫਾਈ ਵਰਤ ਰਹੇ ਹੋ
 spotlight-public-wifi-vpn-body = ਆਪਣੇ ਟਿਕਾਣੇ ਤੇ ਬਰਾਊਜ਼ ਸਰਗਰਮੀ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ ਬਾਰੇ ਸੋਚੋ। ਇਹ ਤੁਹਾਨੂੰ ਪਬਲਿਕ ਥਾਵਾਂ ਜਿਵੇਂ ਕਿ ਏਅਰਪੋਰਟ ਅਤੇ ਕਾਫ਼ੀ ਦੁਕਾਨਾਂ ਵਰਗੀ ਪਬਲਿਕ ਥਾਵਾਂ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਰਹੋ
     .accesskey = S
@@ -147,6 +147,9 @@ spotlight-public-wifi-vpn-link = ਹੁਣੇ ਨਹੀਂ
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = ਸਾਡੇ ਸਭ ਤੋਂ ਜ਼ਬਰਦਸਤ ਪਰਦੇਦਾਰੀ ਤਜਰਬੇ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ
 spotlight-total-cookie-protection-body = ਪੂਰੀ ਕੂਕੀਜ਼ ਸੁਰੱਖਿਆ ਟਰੈਕਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਵਰਤ ਕੇ ਵੈੱਬ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।
 spotlight-total-cookie-protection-primary-button = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ
 spotlight-total-cookie-protection-secondary-button = ਹੁਣੇ ਨਹੀਂ
