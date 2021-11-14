@@ -21,6 +21,7 @@ policy-BlockAboutConfig = Bloca s'atzessu a sa pàgina about:config.
 policy-BlockAboutProfiles = Bloca s'atzessu a sa pàgina about:profiles.
 policy-BlockAboutSupport = Bloca s'atzessu a sa pàgina about:support.
 policy-Bookmarks = Crea sinnalibros in sa barra de is sinnalibros, in su menù de is sinnalibros, o in una cartella dislindada a intro de ue.
+policy-CaptivePortal = Ativa o disativa su suportu pro portales cautivos.
 policy-CertificatesDescription = Agiunghe tzertificados o imprea tzertificados integrados.
 policy-Cookies = Permite o nega a is sitos de definire testimòngios.
 policy-DisabledCiphers = Disativa is tzifraduras.
