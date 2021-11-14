@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Намоиш додан дар ҷӯянда
     .accesskey = Н
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Намоиш додан дар ҷӯянда
+           *[other] Намоиш додан дар ҷузвдон
+        }
+    .accesskey = Н
 downloads-cmd-use-system-default =
     .label = Кушодан дар намоишгари низом
     .accesskey = К
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Ҳамеша кушодан дар намоишгари низом
     .accesskey = Ҳ
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Намоиш додан дар ҷӯянда
            *[other] Кушодани ҷузвдони дорои файл
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Ҳамеша кушодани файлҳои монанд
+    .accesskey = Ҳ
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Намоиш додан дар ҷӯянда
+           *[other] Намоиш додан дар ҷузвдон
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Намоиш додан дар ҷӯянда
+           *[other] Намоиш додан дар ҷузвдон
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Намоиш додан дар ҷӯянда
+           *[other] Намоиш додан дар ҷузвдон
         }
 downloads-cmd-show-downloads =
     .label = Намоиш додани ҷузвдони боргириҳо
@@ -162,3 +194,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ягон боргирӣ барои ин ҷаласа нест.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } файли дигар боргирӣ шуда истодааст
+       *[other] { $count } файли дигар боргирӣ шуда истодаанд
+    }
