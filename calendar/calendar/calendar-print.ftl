@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Tarefas concluídas
 calendar-print-filter-taskswithnoduedate = Tarefas sem data de vencimento
 calendar-print-range-from = De
 calendar-print-range-to = Para
+calendar-print-back-button = Voltar
 calendar-print-next-button = Seguinte
