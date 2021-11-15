@@ -27,6 +27,10 @@ inactive-css-not-display-block-on-floated = Pogon je spremenil vrednost <strong>
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> ni mogoče preglasiti zaradi omejitve <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne vpliva na ta element, ker element ni postavljen.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne vpliva na ta element, ker <strong>overflow:hidden</strong> ni nastavljen.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ne vpliva na notranje elemente tabele.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ne vpliva na notranje elemente tabele, razen na celice.
+inactive-css-not-table = <strong>{ $property }</strong> ne vpliva na ta element, ker ni tabela.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ne drsi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,6 +50,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Poskusite
 inactive-css-not-display-block-on-floated-fix = Poskusite odstraniti<strong>float</strong> ali dodati <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Poskusite nastaviti lastnost <strong>position</strong> na kaj drugega kot <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Poskusite dodati <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Poskusite dodati <strong>display:table</strong> ali <strong>display:inline-table</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Poskusite dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ali <strong>overflow:hidden</strong>. { learn-more }
 
