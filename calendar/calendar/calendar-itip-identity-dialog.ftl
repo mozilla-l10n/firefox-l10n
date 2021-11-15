@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Us autoinviteu a la festa?
 calendar-itip-identity-warning = Encara no sou a la llista de convidats.
 calendar-itip-identity-label = Respon com a:
+calendar-itip-identity-label-none = Associa aquest esdeveniment amb:
