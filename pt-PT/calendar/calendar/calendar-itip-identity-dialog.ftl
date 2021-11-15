@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Participação sem convite?
 calendar-itip-identity-warning = Ainda não está na lista de convidados.
 calendar-itip-identity-label = Responder como:
+calendar-itip-identity-label-none = Associar este evento a:
