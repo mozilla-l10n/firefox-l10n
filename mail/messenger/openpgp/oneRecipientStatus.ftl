@@ -12,6 +12,7 @@ openpgp-one-recipient-status-open-details =
     .label = Abrir detalles y editar aprobación…
 openpgp-one-recipient-status-discover =
     .label = Descubrir clave nueva o actualizada
+openpgp-one-recipient-status-instruction1 = Para enviar un mensaje cifrado de extremo a un destinatario, necesitas obtener tu clave pública OpenPGP y marcarla como aceptada.
 openpgp-key-own = Aceptado (clave personal)
 openpgp-key-secret-not-personal = No utilizable
 openpgp-key-verified = Aceptada (verificado)
