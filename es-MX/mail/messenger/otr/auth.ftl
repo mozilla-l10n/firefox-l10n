@@ -20,3 +20,5 @@ auth-question-and-answer-label =
 auth-shared-secret-label =
     .label = { auth-shared-secret }
 auth-question = Ingresa una pregunta:
+auth-answer = Ingresa la respuesta (distingue entre mayúsculas y minúsculas):
+auth-secret = Ingresa el secreto:
