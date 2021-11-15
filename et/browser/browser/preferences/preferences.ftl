@@ -1107,6 +1107,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }il saab salvestusp
 httpsonly-header = Ainult HTTPS-režiim
 httpsonly-description = HTTPS tagab turvalise ja krüptitud ühenduse { -brand-short-name }i ja külastatava saidi vahel. Enamus saite toetab HTTPSi ja seega ainult HTTPS-režiimis kasutab { -brand-short-name } ühendumiseks ainult HTTPSi.
 httpsonly-learn-more = Rohkem teavet
+httpsonly-radio-enabled =
+    .label = Ainult HTTPS-režiimi kasutatakse kõigis akendes
+httpsonly-radio-enabled-pbm =
+    .label = Ainult HTTPS-režiimi kasutatakse ainult privaatsetes akendes
+httpsonly-radio-disabled =
+    .label = Ainult HTTPS-režiimi ei lubata
 
 ## The following strings are used in the Download section of settings
 
