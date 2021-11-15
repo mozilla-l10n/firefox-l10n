@@ -10,6 +10,8 @@ about-addressbook-toolbar-new-address-book =
     .label = Nueva libreta de direcciones
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Agregar libreta de direcciones CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Agregar libreta de direcciones LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nuevo contacto
 about-addressbook-toolbar-new-list =
@@ -36,6 +38,9 @@ about-addressbook-books-context-startup-default =
     .label = Carpeta de inicio predeterminada
 about-addressbook-confirm-delete-book-title = Borrar libreta de direcciones
 about-addressbook-confirm-remove-remote-book-title = Eliminar libreta de direcciones
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = ¿Estás seguro de que deseas eliminar { $name }?
 
 ## Cards
 
