@@ -336,7 +336,7 @@ browser-tab-audio-muted2 = SILENCIADO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = REPRODUÇÃO AUTOMÁTICA BLOQUEADA
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = IMAGEM NA IMAGEM
+browser-tab-audio-pip = VÍDEO EM JANELA FLUTUANTE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -739,6 +739,19 @@ edit-popup-settings =
 picture-in-picture-hide-toggle =
     .label = Ocultar o comutador de vídeo em janela flutuante
     .accesskey = O
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Mover o comutador de vídeo em janela flutuante para o lado direito
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Mover o comutador de vídeo em janela flutuante para o lado esquerdo
+    .accesskey = e
+
+##
+
 
 # Navigator Toolbox
 
