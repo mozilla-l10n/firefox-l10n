@@ -123,6 +123,7 @@ about-webrtc-discarded-packets-label = Pacotes descartados:
 about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificado
 about-webrtc-show-tab-label = Mostrar separador
+about-webrtc-current-framerate-label = Taxa de fotogramas
 about-webrtc-width-px = Largura (px)
 about-webrtc-height-px = Altura (px)
 about-webrtc-consecutive-frames = Frames consecutivos
