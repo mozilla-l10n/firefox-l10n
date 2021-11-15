@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-colors.xul -->
+
+<!-- LOCALIZATION NOTE : FILE Color management prefs -->
+<!ENTITY pref.colors.title                 "Barve">
+<!ENTITY color                             "Besedilo in ozadje">
+<!ENTITY textColor.label                   "Besedilo:">
+<!ENTITY textColor.accesskey               "B">
+<!ENTITY backgroundColor.label             "Ozadje:">
+<!ENTITY backgroundColor.accesskey         "O">
+<!ENTITY useSystemColors.label             "Uporabi barve sistema">
+<!ENTITY useSystemColors.accesskey         "s">
+
+<!ENTITY underlineLinks.label              "Podčrtaj povezave">
+<!ENTITY underlineLinks.accesskey          "č">
+<!ENTITY links                             "Barve povezav">
+<!ENTITY linkColor.label                   "Neobiskane povezave:">
+<!ENTITY linkColor.accesskey               "N">
+<!ENTITY activeLinkColor.label             "Dejavne povezave:">
+<!ENTITY activeLinkColor.accesskey         "e">
+<!ENTITY visitedLinkColor.label            "Že obiskane povezave:">
+<!ENTITY visitedLinkColor.accesskey        "Ž">
+<!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
