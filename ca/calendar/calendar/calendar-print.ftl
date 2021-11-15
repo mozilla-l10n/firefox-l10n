@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Tasques acabades
 calendar-print-filter-taskswithnoduedate = Tasques sense data de venciment
 calendar-print-range-from = De
 calendar-print-range-to = A
+calendar-print-back-button = Enrere
 calendar-print-next-button = Següent
