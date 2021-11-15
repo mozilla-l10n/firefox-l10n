@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Predpomnilnik">
+<!ENTITY pref.cache.caption              "Možnosti predpomnilnika">
+<!ENTITY cachePara                       "Predpomnilnik hrani kopije nedavno obiskanih spletnih strani na vašem disku. (S klikom na Ponovno naloži se vedno prikaže najnovejša različica strani.)">
+<!ENTITY cacheCheck.label                "Naj &brandShortName; upravlja z velikostjo predpomnilnika">
+<!ENTITY cacheCheck.accesskey            "j">
+<!ENTITY diskCacheUpTo.label             "Uporabi do">
+<!ENTITY diskCacheUpTo.accesskey         "U">
+<!ENTITY spaceMbytes                     "MB prostora na disku za predpomnjenje">
+<!ENTITY diskCacheFolder.label           "Mesto mape predpomnilnika:">
+<!ENTITY clearDiskCache.label            "Počisti predpomnilnik">
+<!ENTITY clearDiskCache.accesskey        "P">
+<!ENTITY chooseDiskCacheFolder.label     "Izberi mapo …">
+<!ENTITY chooseDiskCacheFolder.accesskey "I">
+<!ENTITY docCache.label                  "Primerjaj stran v predpomnilniku s stranjo na spletu:">
+<!ENTITY docCache.accesskey              "m">
+<!ENTITY checkOncePerSession.label       "Enkrat na sejo">
+<!ENTITY checkEveryTime.label            "Vsakič, ko obiščem stran">
+<!ENTITY checkNever.label                "Nikoli">
+<!ENTITY checkAutomatically.label        "Ko stran zastara">
+
+
