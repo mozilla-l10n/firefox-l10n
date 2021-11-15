@@ -14,6 +14,7 @@ auth-your-fp-value = Huella digital para ti, { $own_name }:
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
 auth-their-fp-value = Huella digital de { $their_name }:
+auth-question-received = Esta es la pregunta que hizo tu contacto:
 auth-yes =
     .label = Sí
 auth-no =
