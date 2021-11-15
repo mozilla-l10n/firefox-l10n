@@ -4,7 +4,18 @@
 
 openpgp-one-recipient-status-title =
     .title = Seguridad de mensajes OpenPGP
+openpgp-one-recipient-status-status =
+    .label = Estatus
 openpgp-one-recipient-status-created-date =
     .label = Creado
+openpgp-one-recipient-status-open-details =
+    .label = Abrir detalles y editar aprobación…
+openpgp-one-recipient-status-discover =
+    .label = Descubrir clave nueva o actualizada
+openpgp-key-own = Aceptado (clave personal)
+openpgp-key-secret-not-personal = No utilizable
+openpgp-key-verified = Aceptada (verificado)
+openpgp-key-unverified = Aceptada (sin verificar)
 openpgp-key-undecided = No aceptado (indeciso)
 openpgp-key-rejected = No aceptado (rechazado)
+openpgp-intro = Claves públicas disponibles para { $key }
