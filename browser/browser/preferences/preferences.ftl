@@ -1048,6 +1048,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name }i andmete kogumine ja kasutamine
 collection-description = Me pingutame, et pakkuda sulle erinevaid valikuvõimalusi, ja kogume ainult neid andmeid, mis aitavad meil { -brand-short-name }i paremaks muuta kõigi jaoks. Isiklike andmete puhul küsime me alati enne saatmist luba.
 collection-privacy-notice = Privaatsusreeglid
+collection-health-report-telemetry-disabled = Sa ei luba enam { -vendor-short-name }il koguda tehnilisi andmeid. Kõik varasemad andmed kustutatakse 30 päeva jooksul.
+collection-health-report-telemetry-disabled-link = Rohkem teavet
 collection-health-report =
     .label = { -brand-short-name }il lubatakse automaatselt saata tehnilisi andmeid { -vendor-short-name }le
     .accesskey = u
@@ -1061,6 +1063,8 @@ addon-recommendations-link = Rohkem teavet
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
+collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
+    .accesskey = L
 
 ## Privacy Section - Security
 ##
@@ -1092,6 +1096,9 @@ certs-view =
 certs-devices =
     .label = Turvaseadmed…
     .accesskey = T
+space-alert-over-5gb-settings-button =
+    .label = Ava sätted
+    .accesskey = v
 
 ## Privacy Section - HTTPS-Only
 
