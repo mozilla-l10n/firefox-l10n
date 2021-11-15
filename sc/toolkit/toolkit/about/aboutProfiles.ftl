@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 profiles-restart-title = Torra a aviare
-
-profiles-rename = Muda su nùmene
+profiles-rename = Muda su nòmine
 profiles-remove = Boga
-
-

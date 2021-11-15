@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Sèbera un'archìviu…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
-<!ENTITY col.name.label          "Nùmene">
+<!ENTITY col.name.label          "Nòmine">
 <!ENTITY col.tags.label          "Etichetas">
 <!ENTITY col.url.label           "Positzione">
 <!ENTITY col.mostrecentvisit.label "Bìsita prus reghente">
