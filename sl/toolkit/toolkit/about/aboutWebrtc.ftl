@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Podatki o WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = shrani about:webrtc kot
@@ -76,12 +75,10 @@ about-webrtc-type-remote = Oddaljeno
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Predlagano
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izbrano
-
 about-webrtc-save-page-label = Shrani stran
 about-webrtc-debug-mode-msg-label = Razhroščevanje
 about-webrtc-debug-mode-off-state-label = Začni razhroščevanje
@@ -135,9 +132,15 @@ about-webrtc-rotation-degrees = Vrtenje (stopinj)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Oddaljeno pošiljanje SSRC
 
 ##
 
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Uporabniške nastavitve WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Ocenjena pasovna širina
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -151,12 +154,41 @@ about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdet
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Prejet { $packets } paket
+        [two] Prejeta { $packets } paketa
+        [few] Prejeti { $packets } paketi
+       *[other] Prejetih { $packets } paketov
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Izgubljen { $packets } paket
+        [two] Izgubljena { $packets } paketa
+        [few] Izgubljeni { $packets } paketi
+       *[other] Izgubljenih { $packets } paketov
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Poslan { $packets } paket
+        [two] Poslana { $packets } paketa
+        [few] Poslani { $packets } paketi
+       *[other] Poslanih { $packets } paketov
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Tresenje { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
