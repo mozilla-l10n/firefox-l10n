@@ -1099,9 +1099,14 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = Ava sätted
     .accesskey = v
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name }il saab salvestuspind otsa.</strong> Saidi sisu võidakse kuvada ebakorrektselt. Saidi salvestatud andmeid on võimalik kustutada, avades Sätted > Privaatsus ja turvalisus > Küpsised ja saidi andmed.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name }il saab salvestuspind otsa.</strong> Saidi sisu võidakse kuvada ebakorrektselt. Vaata “Rohkem teavet”, et optimeerida oma salvestuspinna kasutust parema kogemuse saamiseks.
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Ainult HTTPS-režiim
+httpsonly-description = HTTPS tagab turvalise ja krüptitud ühenduse { -brand-short-name }i ja külastatava saidi vahel. Enamus saite toetab HTTPSi ja seega ainult HTTPS-režiimis kasutab { -brand-short-name } ühendumiseks ainult HTTPSi.
+httpsonly-learn-more = Rohkem teavet
 
 ## The following strings are used in the Download section of settings
 
