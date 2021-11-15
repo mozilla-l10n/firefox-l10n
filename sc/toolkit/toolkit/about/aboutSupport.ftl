@@ -37,9 +37,49 @@ app-basics-update-dir =
     }
 app-basics-update-history = Cronologia de atualizatziones
 app-basics-show-update-history = Ammustra sa cronologia de atualizatziones
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Cartella de su profilu
+       *[other] Cartella de su profilu
+    }
+app-basics-os = Sistema operativu
+app-basics-os-theme = Tema de su sistema operativu
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Tradùidu dae Rosetta
+app-basics-memory-use = Impreu de sa memòria
+app-basics-performance = Rendimentu
+app-basics-service-workers = Protzessos de traballu de servìtziu registrados
+app-basics-profiles = Profilos
+app-basics-remote-processes-count = Protzessos remotos
+app-basics-enterprise-policies = Polìticas aziendales
+app-basics-location-service-key-google = Crae de su servìtziu de positzione de Google
+app-basics-safebrowsing-key-google = Crae de su servìtziu de navigatzione segura Google Safebrowsing
+app-basics-key-mozilla = Crae de su servìtziu de positzione de Mozilla
+app-basics-safe-mode = Modalidade segura
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Ammustra in Finder
+        [windows] Aberi sa cartella
+       *[other] Aberi sa cartella
+    }
+environment-variables-name = Nòmine
+environment-variables-value = Valore
+experimental-features-title = Caraterìsticas isperimentales
+experimental-features-name = Nòmine
+experimental-features-value = Valore
+modified-key-prefs-title = Preferèntzias importantes modificadas
 modified-prefs-name = Nòmine
+modified-prefs-value = Valore
+user-js-title = Preferèntzias de user.js
+locked-key-prefs-title = Preferèntzias importantes blocadas
 locked-prefs-name = Nòmine
+locked-prefs-value = Valore
+graphics-title = Gràficas
 graphics-features-title = Caraterìsticas
+graphics-diagnostics-title = Diagnòsticos
+graphics-failure-log-title = Registru de faddinas
+graphics-gpu1-title = GPU nùm. 1
 
 ## Media titles
 
