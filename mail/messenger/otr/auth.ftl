@@ -8,10 +8,18 @@ otr-auth =
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 auth-title = Verificar la identidad de { $name }
+# Variables:
+#   $own_name (String) - the user's own screen name
+auth-your-fp-value = Huella digital para ti, { $own_name }:
+# Variables:
+#   $their_name (String) - the screen name of a chat contact
+auth-their-fp-value = Huella digital de { $their_name }:
 auth-yes =
     .label = Sí
 auth-no =
     .label = No
+auth-manual-verification = Verificación manual de huellas digitales
+auth-question-and-answer = Pregunta y respuesta
 auth-shared-secret = Secreto compartido
 auth-manual-verification-label =
     .label = { auth-manual-verification }
