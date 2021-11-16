@@ -136,6 +136,7 @@ spotlight-learn-more-expanded = Маълумоти бештар
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Чунин менамояд, ки шумо Wi-Fi-и ҷамъиятиро истифода мебаред
+spotlight-public-wifi-vpn-body = Барои пинҳон кардани ҷойгиршавӣ ва фаъолияти тамошокунии худ, истифодаи шабакаи хусусии маҷозиро ба назар гиред. Он барои муҳофизат кардани шумо ҳангоми кор бо сомонаҳо дар ҷойҳои ҷамъиятӣ, масалан дар фурудгоҳҳо ва қаҳвахонаҳо, кумак мерасонад.
 spotlight-public-wifi-vpn-primary-button = Бо { -mozilla-vpn-brand-name } махфӣ бошед
     .accesskey = Б
 spotlight-public-wifi-vpn-link = Ҳоло не
@@ -143,3 +144,9 @@ spotlight-public-wifi-vpn-link = Ҳоло не
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Аз таҷрибаи навтарини боқувват барои
+    ҳифзи махфияти шахсӣ истифода баред
+spotlight-total-cookie-protection-secondary-button = Ҳоло не

@@ -37,6 +37,14 @@ upgrade-dialog-default-secondary-button = Ҳоло не
 
 upgrade-dialog-theme-system = Мавзӯи низомӣ
     .title = Истифодаи мавзӯи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = Ҳоло не
+
+## Colorway screen
+
+upgrade-dialog-colorway-default-theme = Пешфарз
 upgrade-dialog-theme-light = Равшан
     .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-dark = Торик
@@ -45,3 +53,6 @@ upgrade-dialog-theme-alpenglow = Нури алпӣ
     .title = Истифодаи мавзӯи мутараққӣ ва рангин барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-primary-button = Нигоҳ доштани мавзӯъ
 upgrade-dialog-theme-secondary-button = Ҳоло не
+
+## Thank you screen
+
