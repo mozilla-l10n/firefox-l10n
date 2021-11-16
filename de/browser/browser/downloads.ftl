@@ -44,6 +44,8 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Im Standardprogramm öffnen
     .accesskey = p
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Immer im Standardprogramm öffnen
     .accesskey = m
@@ -64,6 +66,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Im Finder anzeigen
            *[other] Ziel-Ordner öffnen
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Ähnliche Dateien immer öffnen
+    .accesskey = i
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Im Finder anzeigen
+           *[other] In Ordner anzeigen
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Im Finder anzeigen
+           *[other] In Ordner anzeigen
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Im Finder anzeigen
+           *[other] In Ordner anzeigen
         }
 downloads-cmd-show-downloads =
     .label = Ordner "Downloads" öffnen
@@ -162,3 +187,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Keine Downloads in dieser Sitzung
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } weitere Datei wird heruntergeladen
+       *[other] { $count } weitere Dateien werden heruntergeladen
+    }
