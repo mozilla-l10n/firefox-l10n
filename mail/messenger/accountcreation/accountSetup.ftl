@@ -80,6 +80,8 @@ protocol-exchange-option = { account-setup-result-exchange }
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Autodetectar
+ssl-no-authentication-option = Sin autenticación
 ssl-cleartext-password-option = Contraseña normal
 ssl-encrypted-password-option = Contraseña cifrada
 
@@ -108,6 +110,8 @@ exchange-dialog-cancel-button = Cancelar
 
 account-setup-no-account-checkbox = Usar { -brand-short-name } sin una cuenta de correo electrónico
     .accesskey = U
+exit-dialog-cancel-button = Continuar la instalación
+    .accesskey = C
 
 ## Alert dialogs
 
