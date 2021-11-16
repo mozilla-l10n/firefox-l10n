@@ -730,17 +730,17 @@ edit-popup-settings =
     .label = 팝업 설정 관리…
     .accesskey = M
 picture-in-picture-hide-toggle =
-    .label = 화면 속 화면 토글 숨기기
+    .label = 화면 속 화면 전환 버튼 숨기기
     .accesskey = H
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = 화면 속 화면 전환을 오른쪽으로 이동
+    .label = 화면 속 화면 전환 버튼을 오른쪽으로 이동
     .accesskey = R
 picture-in-picture-move-toggle-left =
-    .label = 화면 속 화면 전환을 왼쪽으로 이동
+    .label = 화면 속 화면 전환 버튼을 왼쪽으로 이동
     .accesskey = L
 
 ##
