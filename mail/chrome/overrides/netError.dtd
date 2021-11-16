@@ -49,7 +49,7 @@
 <p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გარკვეული მიზეზით.</p>
 ">
 
-<!ENTITY malformedURI.title "მისამართი უმართებლოა">
+<!ENTITY malformedURI.title "მისამართი უმართებულოა">
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>ვებ მისამართი ჩვეულებრივ ამგვარად მიეთითება
