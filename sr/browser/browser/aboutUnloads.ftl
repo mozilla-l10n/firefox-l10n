@@ -6,4 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Sproščanje zavihkov
+about-unloads-page-title = Пражњење картица
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Детаљније о овој функцији пронађите у <a data-l10n-name="doc-link">документацији</a>.
