@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashes-id = Рақами мушаххаси гузориш
+crashes-send-date = Санаи пешниҳод
 support-addons-title = Ҷузъҳои иловагӣ
 features-title = Хусусиятҳои { -brand-short-name }
 app-basics-title = Асосҳои барнома
@@ -39,7 +41,6 @@ crashes-time-minutes =
         [one] { $minutes } дақиқа пеш
        *[other] { $minutes } дақиқа пеш
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -47,7 +48,6 @@ crashes-time-hours =
         [one] { $hours } соат пеш
        *[other] { $hours } соат пеш
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -68,9 +68,7 @@ virtual-monitor-disp = Экрани монитори маҷозӣ
 ## not found.
 
 glcontext-crash-guard = OpenGL
-
 launcher-process-status-unknown = Вазъияти номаълум
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
