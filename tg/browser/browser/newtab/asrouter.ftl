@@ -107,6 +107,7 @@ cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Махфияти шумо муҳим аст. Акнун { -brand-short-name } сомонаҳоро аз ҳар як сомонаи дигар ҷудо карда, ба «қуттиҳо» мегузорад ва ба хакерон имкони дуздидани ниҳонвожаҳо, рақамҳои кортҳои кредитӣ ва маълумоти муҳими дигар душвор мекунад.
 cfr-doorhanger-fission-header = Маҳдудкунии сомона
 cfr-doorhanger-fission-primary-button = Хуб, фаҳмидам
     .accesskey = Х
@@ -119,14 +120,21 @@ cfr-doorhanger-video-support-header = Барои пахш кардани вид�
 cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
     .accesskey = Ҳ
 
+## Spotlight modal shared strings
+
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Чунин менамояд, ки шумо Wi-Fi-и ҷамъиятиро истифода мебаред
 spotlight-public-wifi-vpn-primary-button = Бо { -mozilla-vpn-brand-name } махфӣ бошед
     .accesskey = Б
 spotlight-public-wifi-vpn-link = Ҳоло не
     .accesskey = Ҳ
+
+## Total Cookie Protection Rollout
+
