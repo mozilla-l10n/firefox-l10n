@@ -21,12 +21,10 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "탐색">
-
 <!ENTITY fullScreenCmd.label "전체 화면">
 
-<!ENTITY pictureInPictureHideToggle.label "화면 속 화면 토글 숨기기">
+<!ENTITY pictureInPictureHideToggle.label "화면 속 화면 전환 버튼 숨기기">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -124,7 +122,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY sidebarCloseButton.tooltip     "탐색창 닫기">
 
 <!ENTITY allowPopups.accesskey "p">
-
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -142,9 +139,7 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "브라우저 탭">
 
-
 <!ENTITY uiTour.infoPanel.close "닫기">
-
 
 <!ENTITY panicButton.thankyou.msg1                "최근 기록이 지워졌습니다.">
 <!ENTITY panicButton.thankyou.msg2                "안전한 탐색!">
