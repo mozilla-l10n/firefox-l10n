@@ -124,6 +124,8 @@ cfr-doorhanger-video-support-primary-button = Jetzt aktualisieren
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Weitere Informationen
+    .title = Ausklappen, um mehr über die Funktion zu erfahren
 spotlight-learn-more-expanded = Weitere Informationen
     .title = Schließen
 
