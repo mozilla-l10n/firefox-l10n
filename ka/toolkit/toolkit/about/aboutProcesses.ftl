@@ -62,6 +62,7 @@ about-processes-unknown-process = სხვა: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, დიდი)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, საიტთაშორისი გამიჯნული)
 about-processes-web-isolated-process-private = { $origin } — პირადი ({ $pid })

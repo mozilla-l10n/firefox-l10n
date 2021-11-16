@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = ეკრანი-ეკრანში გადამრთველის დამალვა
     .accesskey = ე
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = ეკრანი-ეკრანში გადამრთველის მარჯვნივ გადატანა
+    .accesskey = ჯ
+picture-in-picture-move-toggle-left =
+    .label = ეკრანი-ეკრანში გადამრთველის მარცხნივ გადატანა
+    .accesskey = ც
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
