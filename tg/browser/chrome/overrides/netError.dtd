@@ -76,6 +76,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.longDesc2 "Маълумоти муфассал: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Диққат: Эҳтимол, хатари амният вуҷуд дорад">
+<!ENTITY certerror.copyToClipboard.label "Нусха бардоштани матн ба ҳофизаи муваққатӣ">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

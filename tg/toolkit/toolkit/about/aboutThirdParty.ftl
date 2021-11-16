@@ -4,6 +4,6 @@
 
 third-party-tag-background = Реҷаи пасзамина
     .title = Ин модул барномаро манъ накард, зеро ки он дар пасзамина бор карда шуд.
-
+third-party-button-copy-to-clipboard = Нусха бардоштани иттилооти нокорам ба ҳофизаи муваққатӣ
 third-party-button-open =
     .title = Кушодани ҷойгиршавии файл…
