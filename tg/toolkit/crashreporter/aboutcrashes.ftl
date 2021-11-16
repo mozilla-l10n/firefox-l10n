@@ -13,3 +13,4 @@ submit-crash-button-label = Пешниҳод кардан
 crashes-submitted-label = Гузоришҳои пешниҳодшуда дар бораи садама
 date-submitted-heading = Санаи пешниҳод
 view-crash-button-label = Намоиш
+no-reports-label = Ягон гузориш дар бораи садама пешниҳод карда нашуд.

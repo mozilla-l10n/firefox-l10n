@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashes-title = Гузоришҳо дар бораи садама
 crashes-id = Рақами мушаххаси гузориш
 crashes-send-date = Санаи пешниҳод
+crashes-all-reports = Ҳамаи гузоришҳо дар бораи садама
+crashes-no-config = Ин барнома барои намоиши гузоришҳо дар бораи садама танзим карда нашудааст.
 support-addons-title = Ҷузъҳои иловагӣ
 features-title = Хусусиятҳои { -brand-short-name }
 app-basics-title = Асосҳои барнома
