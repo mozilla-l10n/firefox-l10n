@@ -62,6 +62,7 @@ about-processes-unknown-process = Other: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, large)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolated)
 about-processes-web-isolated-process-private = { $origin } — Private ({ $pid })
@@ -134,6 +135,13 @@ about-processes-cpu-user-and-kernel-not-ready = (measuring)
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = idle
     .title = Total CPU time: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
+# Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
+# This case only occurs on Windows where the precision of the CPU times is low.
+about-processes-cpu-almost-idle = < 0.1%
+    .title = Total CPU time: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: process or thread is currently idle.
+about-processes-cpu-fully-idle = idle
+    .title = Total CPU time: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
