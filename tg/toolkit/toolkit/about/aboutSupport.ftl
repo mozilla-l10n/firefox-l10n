@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Маълумот барои ислоҳи нуқсонҳо
 crashes-title = Гузоришҳо дар бораи садама
 crashes-id = Рақами мушаххаси гузориш
 crashes-send-date = Санаи пешниҳод
@@ -16,6 +17,9 @@ app-basics-show-update-history = Намоиши таърихи навсозиҳ�
 app-basics-binary = Файли дуии барнома
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
+troubleshoot-mode-title = Ташхис кардани мушкилиҳо
+restart-in-troubleshoot-mode-label = Реҷаи ислоҳи нуқсонҳо…
+clear-startup-cache-title = Пок кардани зерҳофизаи оғози кори барнома
 
 ## Media titles
 

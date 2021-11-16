@@ -5,5 +5,6 @@
 refresh-profile-dialog-title = { -brand-short-name }-ро ба танзимоти пешфарз навсозӣ мекунед?
 refresh-profile-dialog-button =
     .label = Аз нав сохтани { -brand-short-name }
+refresh-profile = Ислоҳ кардани нуқсонҳои кори { -brand-short-name }
 refresh-profile-button = Аз нав сохтани { -brand-short-name }…
 refresh-profile-learn-more = Маълумоти бештар

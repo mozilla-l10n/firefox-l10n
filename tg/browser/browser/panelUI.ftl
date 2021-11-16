@@ -13,5 +13,6 @@ customize-menu-add-to-toolbar =
 
 # The forget button can be added to the toolbar or overflow menu via the cutomization menu.
 panic-button-thankyou-msg1 = Таърихи охирини шумо тоза карда шуд.
+panic-button-thankyou-msg2 = Тамошокунии бехатар!
 panic-button-thankyou-button =
     .label = Ташаккур!

@@ -107,6 +107,9 @@ places-remove-bookmark =
            *[other] Тоза кардани хатбаракҳо
         }
     .accesskey = Т
+places-show-in-folder =
+    .label = Намоиш додан дар ҷузвдон
+    .accesskey = Н
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
