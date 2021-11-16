@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Системска тема – аутоматска
 extension-default-theme-description = Користите тему оперативног система за дугмад, меније и прозоре.
 extension-firefox-compact-light-name = Светла
 extension-firefox-compact-light-description = Тема са светлим бојама.
