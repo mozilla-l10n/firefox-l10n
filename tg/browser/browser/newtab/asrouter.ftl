@@ -116,12 +116,17 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Видеоҳои ин сомона метаводанд дар ин версияи { -brand-short-name } дуруст кор накунанд. Барои дастгирии пурраи видео, { -brand-short-name }-ро ҳозир навсозӣ кунед.
 cfr-doorhanger-video-support-header = Барои пахш кардани видео { -brand-short-name }-ро навсозӣ кунед
 cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
     .accesskey = Ҳ
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Маълумоти бештар
+    .title = Барои гирифтани маълумоти бештар оид ба ин хусусият, густариш диҳед
+spotlight-learn-more-expanded = Маълумоти бештар
+    .title = Пӯшидан
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
