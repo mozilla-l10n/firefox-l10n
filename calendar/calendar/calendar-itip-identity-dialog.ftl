@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = ვერ ჩატარდება?
 calendar-itip-identity-warning = თქვენ ჯერ არ ხართ სტუმრების სიაში.
 calendar-itip-identity-label = პასუხი, როგორც:
+calendar-itip-identity-label-none = დაუკავშირეთ ეს ღონისძიება:
