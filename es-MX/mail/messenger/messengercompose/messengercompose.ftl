@@ -43,3 +43,5 @@ encrypted-bcc-ignore-button = Entendido
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Eliminar estilo de texto
