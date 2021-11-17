@@ -24,6 +24,12 @@ graph-private-window = { -brand-short-name } jätkab jälitajate blokkimist priv
 graph-week-summary-private-window = { -brand-short-name }i poolt sel nädalal blokitud jälitajad
 protection-report-webpage-title = Kaitsete koondpaneel
 protection-report-page-content-title = Kaitsete koondpaneel
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } saab kaitsta sinu privaatsust tagaplaanil. See on kokkuvõte kaitsemeetmetest ja tööriistadest, mis aitavad sul võrguturbe üle kontrolli võtta.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } kaitseb sinu privaatsust tagaplaanil. See on kokkuvõte kaitsemeetmetest ja tööriistadest, mis aitavad sul võrguturbe üle kontrolli võtta.
+protection-report-settings-link = Halda oma privaatsus- ja turvasätteid
+etp-card-title-always = Täiustatud jälitamisvastane kaitse: Alati sees
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Täna
