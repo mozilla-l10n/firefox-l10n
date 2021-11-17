@@ -265,3 +265,4 @@ mr1-onboarding-theme-description-alpenglow =
 
 ## Strings for Thank You page
 
+mr2-onboarding-start-browsing-button-label = Bdu tunigin
