@@ -168,6 +168,7 @@ theme-heading = Идоракунии мавзуъҳои худ
 plugin-heading = Идоракунии плагинҳои худ
 dictionary-heading = Идоракунии луғатҳои худ
 locale-heading = Идоракунии забонҳои худ
+updates-heading = Идоракунии навсозиҳои худ
 default-heading-search-label = Гирифтани ҷузъҳои иловагии бештар
 addon-page-options-button =
     .title = Абзорҳо барои ҳамаи ҷузъҳои иловагӣ
