@@ -142,6 +142,27 @@ monitor-view-report-link = Vaata raportit
     .title = Märgi leke lahendatuks { -monitor-brand-short-name }is
 monitor-breaches-unresolved-title = Lahenda andmeleketest tekkinud probleemid
 monitor-breaches-unresolved-description = Pärast lekke andmete kontrollimist ja oma andmete kaitsmiseks vajalike sammude tegemist, saad lekke lahendatuks märkida.
+monitor-manage-breaches-link = Halda lekkeid
+    .title = Halda lekkeid { -monitor-brand-short-name }is
+monitor-breaches-resolved-title = Tore! Sa oled kõik teadaolevad lekete probleemid lahendanud.
+monitor-breaches-resolved-description = Kui sinu e-posti aadress esineb mõnes uues lekkes, siis anname sulle sellest teada.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] kõik lekete probleemid on lahendatud
+       *[other] { $numBreachesResolved }/{ $numBreaches } lekete probleemi on lahendatud
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% valmis
+monitor-partial-breaches-motivation-title-start = Hea algus!
+monitor-partial-breaches-motivation-title-middle = Jätka samas vaimus!
+monitor-partial-breaches-motivation-title-end = Peaaegu valmis! Jätka samas tempos.
+monitor-partial-breaches-motivation-description = Lahenda ülejäänud leketest tulenevad probleemid { -monitor-brand-short-name }is.
+monitor-resolve-breaches-link = Lahenda leketest tulenevad probleemid
+    .title = Lahenda leketest tulenevad probleemid { -monitor-brand-short-name }is
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
