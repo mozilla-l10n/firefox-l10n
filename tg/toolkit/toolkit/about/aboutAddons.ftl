@@ -48,6 +48,30 @@ addon-restart-now =
     .label = Ҳозир аз нав оғоз карда шавад
 disabled-unsigned-heading =
     .value = Баъзеи ҷузъҳои иловагӣ ғайрифаъол карда шудаанд
+addon-category-discover = Тавсияҳо
+addon-category-discover-title =
+    .title = Тавсияҳо
+addon-category-extension = Васеъшавиҳо
+addon-category-extension-title =
+    .title = Васеъшавиҳо
+addon-category-theme = Мавзуъҳо
+addon-category-theme-title =
+    .title = Мавзуъҳо
+addon-category-plugin = Плагинҳо
+addon-category-plugin-title =
+    .title = Плагинҳо
+addon-category-dictionary = Луғатҳо
+addon-category-dictionary-title =
+    .title = Луғатҳо
+addon-category-locale = Забонҳо
+addon-category-locale-title =
+    .title = Забонҳо
+addon-category-available-updates = Навсозиҳои дастрас
+addon-category-available-updates-title =
+    .title = Навсозиҳои дастрас
+addon-category-recent-updates = Навсозиҳои охирин
+addon-category-recent-updates-title =
+    .title = Навсозиҳои охирин
 
 ## These are global warnings
 
@@ -124,6 +148,8 @@ pending-uninstall-undo-button = Бекор кардан
 addon-badge-private-browsing-allowed2 =
     .title = Дар равзанаҳои махфӣ иҷозат дода мешавад
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-allow = Иҷозат додан
+addon-detail-private-browsing-disallow = Иҷозат дода нашавад
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -131,10 +157,17 @@ addon-badge-private-browsing-allowed2 =
 
 ##
 
+available-updates-heading = Навсозиҳои дастрас
+recent-updates-heading = Навсозиҳои охирин
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 
 ## Page headings
 
+extension-heading = Идоракунии васеъшавиҳои худ
+theme-heading = Идоракунии мавзуъҳои худ
+plugin-heading = Идоракунии плагинҳои худ
+dictionary-heading = Идоракунии луғатҳои худ
+locale-heading = Идоракунии забонҳои худ
 default-heading-search-label = Гирифтани ҷузъҳои иловагии бештар
 addon-page-options-button =
     .title = Абзорҳо барои ҳамаи ҷузъҳои иловагӣ
