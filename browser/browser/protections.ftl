@@ -66,11 +66,34 @@ protection-report-manage-passwords-button = Halda paroole
 lockwise-mobile-app-title = Võta oma paroolid kõikjale kaasa
 lockwise-no-logins-card-content = Kasuta { -brand-short-name }i salvestatud paroole kõigis oma seadmetes.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidile</a> ja <a data-l10n-name="lockwise-ios-inline-link">iOSile</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 parool võib andmelekke tõttu paljastatud olla.
+       *[other] { $count } parooli võivad andmelekke tõttu paljastatud olla.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 parool on turvaliselt salvestatud.
+       *[other] Sinu paroolid on turvaliselt salvestatud.
+    }
+lockwise-how-it-works-link = Kuidas see töötab?
 monitor-title = Hoia end kursis andmeleketega
 monitor-link = Kuidas see töötab?
 monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.
 monitor-header-content-signed-in = { -monitor-brand-name } hoiatab, kui sinu andmed ilmnevad mõnes teadaolevas andmelekkes.
+monitor-sign-up-link = Telli lekkehoiatused
+    .title = Telli lekkehoiatused { -monitor-brand-name }i
 auto-scan = Täna automaatselt skanneeritud
+monitor-emails-tooltip =
+    .title = Vaata jälgitavaid e-posti aadresse { -monitor-brand-short-name }is
+monitor-breaches-tooltip =
+    .title = Vaata teadaolevaid andmelekkeid { -monitor-brand-short-name }is
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
