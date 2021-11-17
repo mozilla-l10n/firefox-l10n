@@ -14,10 +14,21 @@ features-title = Хусусиятҳои { -brand-short-name }
 features-version = Силсила
 app-basics-title = Асосҳои барнома
 app-basics-version = Силсила
+app-basics-build-id = Рақами мушаххаси сохтор
+app-basics-distribution-id = Рақами мушаххаси тақсимот
+app-basics-update-channel = Шабакаи навсозӣ
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Феҳристи навсозӣ
+       *[other] Ҷузвдони навсозӣ
+    }
 app-basics-update-history = Таърихи навсозиҳо
 app-basics-show-update-history = Намоиши таърихи навсозиҳо
 # Represents the path to the binary used to start the application.
 app-basics-binary = Файли дуии барнома
+app-basics-user-agent = Восити корбарӣ
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 copy-text-to-clipboard-label = Нусха бардоштани матн ба ҳофизаи муваққатӣ
@@ -26,7 +37,7 @@ troubleshoot-mode-title = Ташхис кардани мушкилиҳо
 restart-in-troubleshoot-mode-label = Реҷаи ислоҳи нуқсонҳо…
 clear-startup-cache-title = Пок кардани зерҳофизаи оғози кори барнома
 clear-startup-cache-label = Поксозии зерҳофизаи оғози кор…
-startup-cache-dialog-title2 = { -brand-short-name }-ро барои пок кардани зерҳофизаи оғози кори барнома аз нав оғоз мекунед?
+startup-cache-dialog-title2 = { -brand-short-name }-ро барои пок кардани зерҳофизаи\nоғози кори барнома аз нав оғоз мекунед?
 startup-cache-dialog-body2 = Ин амал танзимоти шуморо иваз намекунад ё васеъшавиҳоро тоза намекунад.
 restart-button-label = Аз нав оғоз кардан
 
