@@ -78,6 +78,13 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Huellas digitales
         }
     .accesskey = H
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] ID de clave
+           *[other] ID de claves
+        }
+    .accesskey = K
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
