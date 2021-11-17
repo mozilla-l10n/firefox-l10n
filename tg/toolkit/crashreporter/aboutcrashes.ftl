@@ -6,6 +6,7 @@ crash-reports-title = Гузоришҳо дар бораи садама
 submit-all-button-label = Ҳамаро пешниҳод кунед
 delete-button-label = Ҳамаро тоза кунед
 delete-confirm-title = Шумо мутмаин ҳастед?
+delete-unsubmitted-description = Ин амал ҳамаи гузоришҳои ирсолнашударо дар бораи садама нест мекунад ва бекор карда намешавад.
 crashes-unsubmitted-label = Гузоришҳои пешниҳоднашуда дар бораи садама
 id-heading = Рақами мушаххаси гузориш
 date-crashed-heading = Санаи садама
