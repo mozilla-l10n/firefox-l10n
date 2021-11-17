@@ -20,6 +20,11 @@ about-unloads-intro-2 =
     i fana, og med <em>kursiv</em> når prosessen vert delt mellom ulike
     faner. Du kan utløyse frigjering av faner manuelt ved å klikke på <em>Frigjer</em>-
     knappen nedanfor.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    Sjå <a data-l10n-name="doc-link">Frigjer fane</a> for å lære meir om
+    funksjonen og denne sida.
 about-unloads-last-updated = Sist oppdatert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigjer
     .title = Frigjer fana med høgaste prioritet
