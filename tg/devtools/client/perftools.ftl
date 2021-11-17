@@ -36,6 +36,7 @@ perftools-devtools-settings-label = Танзимот
 
 perftools-button-cancel-recording = Бекор кардани сабт
 perftools-button-save-settings = Нигоҳ доштани танзимот ва бозгашт
+perftools-button-restart = Аз нав оғоз кардан
 perftools-button-add-directory = Илова кардани ҷузвдон
 perftools-button-remove-directory = Тоза кардани маводи интихобшуда
 perftools-button-edit-settings = Таҳрир кардани танзимот…
@@ -49,4 +50,15 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
+
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
+##
 

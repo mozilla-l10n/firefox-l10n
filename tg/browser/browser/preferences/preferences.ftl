@@ -180,6 +180,7 @@ choose-button =
     .label = Интихоб кунед ...
     .accesskey = И
 choose-browser-language-description = Забонҳоро барои намоиш додани менюҳо, паёмҳо ва огоҳиномаҳо аз { -brand-short-name } интихоб намоед.
+confirm-browser-language-change-description = Барои татбиқ кардани ин тағйирот, { -brand-short-name }-ро аз нав оғоз намоед
 confirm-browser-language-change-button = Татбиқ ва аз нав оғоз кардан
 translate-web-pages =
     .label = Тарҷума кардани муҳтавои сомона

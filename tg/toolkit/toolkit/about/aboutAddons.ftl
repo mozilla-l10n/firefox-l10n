@@ -44,6 +44,8 @@ detail-show-preferences =
             [windows] Тағйир додани ин имкони ҷузъи иловагӣ
            *[other] Тағйир додани ин хусусияти ҷузъи иловагӣ
         }
+addon-restart-now =
+    .label = Ҳозир аз нав оғоз карда шавад
 disabled-unsigned-heading =
     .value = Баъзеи ҷузъҳои иловагӣ ғайрифаъол карда шудаанд
 
