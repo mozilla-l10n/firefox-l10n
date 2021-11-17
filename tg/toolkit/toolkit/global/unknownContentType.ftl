@@ -29,3 +29,6 @@ unknowncontenttype-choose-handler =
             [macos] C
            *[other] B
         }
+unknowncontenttype-save-file =
+    .label = Нигоҳ доштани файл
+    .accesskey = Н

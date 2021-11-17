@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-restart-title = Аз нав оғоз кардан
+profiles-restart-normal = Аз нав оғоз кардани барнома дар реҷаи муқаррар…
 profiles-flush-fail-title = Тағйирот нигоҳ дошта нашуд
 profiles-flush-restart-button = Аз нав оғоз кардани { -brand-short-name }
 profiles-cannot-set-as-default-title = Ҳамчун пешфарз таъин карда намешавад

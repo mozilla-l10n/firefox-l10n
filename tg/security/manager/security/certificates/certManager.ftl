@@ -5,18 +5,14 @@
 certmgr-delete-cert =
     .title = Нест кардани гувоҳинома
     .style = width: 48em; height: 24em;
-
 certmgr-delete =
     .label = Нест кардан…
     .accesskey = Н
-
 certmgr-delete-builtin =
     .label = Нест кардан ё нобоварӣ сохтан…
     .accesskey = Н
-
 exception-mgr-cert-location-url =
     .value = Ҷойгиршавӣ:
-
 exception-mgr-cert-location-download =
     .label = Гирифтани гувоҳинома
     .accesskey = Г
@@ -35,13 +31,11 @@ exception-mgr-cert-location-download =
 delete-user-cert-title =
     .title = Нест кардани гувоҳиномаҳои худ
 delete-user-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин гувоҳиномаҳоро нест намоед?
-
-
 delete-email-cert-title =
     .title = Нест кардани гувоҳиномаҳои почтаи электронӣ
 delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳои почтаи электронии одамони зеринро нест намоед?
-
-## Cert Viewer
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Дастнорас)
 
 ## Used to show whether an override is temporary or permanent
 

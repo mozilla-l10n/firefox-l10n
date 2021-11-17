@@ -10,7 +10,6 @@
 
 certificate-viewer-location = Ҷойгиршавӣ
 certificate-viewer-fingerprints = Нақшҳои ангушт
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Боргирӣ кардан
@@ -18,6 +17,8 @@ certificate-viewer-download = Боргирӣ кардан
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-export = Содир кардан
+    .download = { $fileName }.pem
 
 ##
 
