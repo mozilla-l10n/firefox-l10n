@@ -21,12 +21,10 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Ուղղորդում">
-
 <!ENTITY fullScreenCmd.label "Լիաէկրան">
 
 <!ENTITY pictureInPictureHideToggle.label "Թաքցնել նկարը նկարի փոխարկիչում">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -63,7 +61,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY logins.label                           "Մուտքեր և գաղտնաբառեր">
 
-<!ENTITY overflowCustomizeToolbar.label       "Հարմարեցնել Գործիքագոտին...">
+<!ENTITY overflowCustomizeToolbar.label       "ousՀարմարեցնել Գործիքագոտին...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Պատմություն">
@@ -140,7 +138,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Դիտարկիչի ներդիրներ">
-
 
 <!ENTITY uiTour.infoPanel.close "Փակել">
 

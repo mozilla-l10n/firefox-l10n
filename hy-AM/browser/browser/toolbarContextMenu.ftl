@@ -40,9 +40,9 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Զեկուցել ընդլայնման մասին
     .accesskey = o
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Ամրացնել Գերլցված ցանկում
     .accesskey = P
@@ -51,6 +51,9 @@ toolbar-context-menu-remove-from-toolbar =
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = Հարմարեցնել…
+    .accesskey = C
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Հարմարեցնել Գործիքագոտին...
     .accesskey = C
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Միշտ ցուցադրել
