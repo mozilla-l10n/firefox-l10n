@@ -94,6 +94,8 @@ monitor-emails-tooltip =
     .title = Vaata jälgitavaid e-posti aadresse { -monitor-brand-short-name }is
 monitor-breaches-tooltip =
     .title = Vaata teadaolevaid andmelekkeid { -monitor-brand-short-name }is
+monitor-passwords-tooltip =
+    .title = Vaata teadaolevaid lekkinud paroole { -monitor-brand-short-name }is
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -111,6 +113,14 @@ info-known-breaches-found =
        *[other] teadaolevat andmeleket on paljastanud sinu andmed
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] lahendatuks märgitud andmeleke
+       *[other] lahendatuks märgitud andmeleket
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -118,6 +128,20 @@ info-exposed-passwords-found =
         [one] parool on paljastatud kõigi lekete tõttu
        *[other] parooli on paljastatud kõigi lekete tõttu
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] parool on paljastatud lahendamata leketes
+       *[other] parooli on paljastatud lahendamata leketes
+    }
+monitor-no-breaches-title = Head uudised!
+monitor-no-breaches-description = Sinu andmed pole teadaolevalt lekkinud. Kui miskit peaks muutuma, siis anname sulle teada.
+monitor-view-report-link = Vaata raportit
+    .title = Märgi leke lahendatuks { -monitor-brand-short-name }is
+monitor-breaches-unresolved-title = Lahenda andmeleketest tekkinud probleemid
+monitor-breaches-unresolved-description = Pärast lekke andmete kontrollimist ja oma andmete kaitsmiseks vajalike sammude tegemist, saad lekke lahendatuks märkida.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
