@@ -184,6 +184,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Tilrådd førehandsinnstilling for dei fleste feilsøkingar i nettappar, med lite tillegg.
 profiler-popup-presets-web-developer-label =
     .label = Nettsideutvikling
 profiler-popup-presets-firefox-platform-description = Tilrådd førehandsinnstilling for intern feilsøking av Firefox-plattforma.
@@ -192,8 +193,10 @@ profiler-popup-presets-firefox-platform-label =
 profiler-popup-presets-firefox-front-end-description = Tilrådd førehandsinnstilling for feilsøking av Firefox grenseflate.
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox grenseflate
+profiler-popup-presets-firefox-graphics-description = Tilrådd førehandsinnstilling for undersøking av grafikkyting i Firefox.
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox-grafikk
+profiler-popup-presets-media-description = Tilrådde førehandsinnstillingar for diagnostisering av lyd- og videoproblem.
 profiler-popup-presets-media-label =
     .label = Media
 profiler-popup-presets-custom-label =
