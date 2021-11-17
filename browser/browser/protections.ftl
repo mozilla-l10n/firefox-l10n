@@ -30,6 +30,10 @@ protection-report-page-summary = { -brand-short-name } saab kaitsta sinu privaat
 protection-report-page-summary-default = { -brand-short-name } kaitseb sinu privaatsust tagaplaanil. See on kokkuvõte kaitsemeetmetest ja tööriistadest, mis aitavad sul võrguturbe üle kontrolli võtta.
 protection-report-settings-link = Halda oma privaatsus- ja turvasätteid
 etp-card-title-always = Täiustatud jälitamisvastane kaitse: Alati sees
+etp-card-title-custom-not-blocking = Täiustatud jälitamisvastane kaitse: VÄLJAS
+etp-card-content-description = { -brand-short-name } takistab automaatselt ettevõtetel sinu salajase jälitamise.
+protection-report-etp-card-content-custom-not-blocking = Kõik kaitsed on praegu välja lülitatud. Vali, milliseid jälitajad blokkida, hallates oma { -brand-short-name }i kaitsesätteid.
+protection-report-manage-protections = Halda sätteid
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Täna
@@ -45,6 +49,12 @@ fingerprinter-tab-title = Seadmetuvastajad
 fingerprinter-tab-content = Seadmetuvastajad koguvad profileerimiseks sinu brauseri ja arvuti sätteid. Neid digitaalseid sõrmejälgi kasutades saavad nad jälitada sind erinevatel saitidel. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
 cryptominer-tab-title = Krüptorahakaevurid
 cryptominer-tab-content = Krüptorahakaevurid kasutavad sinu süsteemi arvutusressursse digitaalse raha kaevandamiseks. Krüptoraha kaevandamise skriptid tühjendavad sinu seadme akut, aeglustavad sinu arvutit ja suurendavad sinu elektriarvet. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
+protections-close-button2 =
+    .aria-label = Sulge
+    .title = Sulge
+mobile-app-title = Bloki jälitajaid rohkemates seadmetes
+mobile-app-card-content = Kasuta mobiilset brauserit, millel on sisseehitatud jälitamisvastane kaitse.
+mobile-app-links = { -brand-product-name } - veebilehitseja <a data-l10n-name="android-mobile-inline-link">Androidile</a> ja <a data-l10n-name="ios-mobile-inline-link">iOSile</a>
 lockwise-title = Lõpp paroolide unustamisele
 lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
 lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
