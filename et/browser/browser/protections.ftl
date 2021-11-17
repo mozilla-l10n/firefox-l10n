@@ -56,8 +56,16 @@ mobile-app-title = Bloki jälitajaid rohkemates seadmetes
 mobile-app-card-content = Kasuta mobiilset brauserit, millel on sisseehitatud jälitamisvastane kaitse.
 mobile-app-links = { -brand-product-name } - veebilehitseja <a data-l10n-name="android-mobile-inline-link">Androidile</a> ja <a data-l10n-name="ios-mobile-inline-link">iOSile</a>
 lockwise-title = Lõpp paroolide unustamisele
+lockwise-title-logged-in2 = Paroolihaldus
 lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
 lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
+protection-report-save-passwords-button = Salvesta paroolid
+    .title = Salvesta paroolid { -lockwise-brand-short-name }'i
+protection-report-manage-passwords-button = Halda paroole
+    .title = Halda paroole { -lockwise-brand-short-name }'is
+lockwise-mobile-app-title = Võta oma paroolid kõikjale kaasa
+lockwise-no-logins-card-content = Kasuta { -brand-short-name }i salvestatud paroole kõigis oma seadmetes.
+lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidile</a> ja <a data-l10n-name="lockwise-ios-inline-link">iOSile</a>
 monitor-title = Hoia end kursis andmeleketega
 monitor-link = Kuidas see töötab?
 monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.
