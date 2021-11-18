@@ -3,8 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Sünkroniseerimine…
+sync-disconnect-dialog-title2 = Kas soovid ühenduse katkestada?
 sync-disconnect-dialog-body = { -brand-product-name } lõpetab sinu konto sünkroniseerimise, aga ei kustuta lehitsemise andmeid sellest seadmest.
 sync-disconnect-dialog-button = Ühenda lahti
+fxa-signout-dialog2-title = Logi { -fxaccount-brand-name }st välja
+fxa-signout-dialog-body = Sünkroniseeritud andmed jäävad sinu kontole alles.
+fxa-signout-dialog2-button = Logi välja
+fxa-signout-dialog2-checkbox = Kustuta selle seadme andmed (paroolid, ajalugu, järjehoidjad jne).
+fxa-menu-sync-settings =
+    .label = Sünkroniseerimise sätted
+fxa-menu-turn-on-sync =
+    .value = Lülita sünkroniseerimine sisse
+fxa-menu-turn-on-sync-default = Lülita sünkroniseerimine sisse
 fxa-menu-connect-another-device =
     .label = Ühenda teine seade…
 # This is shown dynamically within "Send tab to device" in fxa menu.
