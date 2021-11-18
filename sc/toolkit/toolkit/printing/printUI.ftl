@@ -12,6 +12,7 @@ printui-less-settings = Prus pagu cunfiguratziones
 
 ##
 
+printui-close-button = Serra
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
