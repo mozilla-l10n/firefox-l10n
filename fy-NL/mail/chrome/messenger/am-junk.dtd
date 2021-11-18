@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "m">
 
 <!ENTITY ispHeadersWarning.label "As aktivearre, sil &brandShortName; automatysk berjochten markearre troch dizze eksterne klassifisearder oerwaagje as net-winske.">
-<!ENTITY ispHeaders.label "Net-winske-berjochtkoppen fertrouwe dy't ynsteld binne troch: ">
+<!ENTITY ispHeaders.label "Net-winske-berjochtkoppen fertrouwe dy’t ynsteld binne troch: ">
 <!ENTITY ispHeaders.accesskey "f">
 
 <!ENTITY junkClassification.label "Seleksje">

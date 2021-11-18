@@ -20,7 +20,7 @@
 <!ENTITY retentionCleanup.label "Om skiifromte frij te meitsjen, kinne âlde berjochten foargoed fuortsmiten wurde">
 <!ENTITY retentionCleanupImap.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, sawol lokale kopyen as de orizjinele op de server.">
 <!ENTITY retentionCleanupPop.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, ynklusyf orizjinelen op de server.">
-<!ENTITY retentionDeleteMsg.label "Berjochten fuortsmite dy't âlder binne as">
+<!ENTITY retentionDeleteMsg.label "Berjochten fuortsmite dy’t âlder binne as">
 <!ENTITY retentionDeleteMsg.accesskey "o">
 <!ENTITY retentionKeepAll.label "Gjin berjochten fuortsmite">
 <!ENTITY retentionKeepAll.accesskey "n">

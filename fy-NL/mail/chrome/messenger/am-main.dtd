@@ -2,15 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Accountynstellingen">
 <!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
 <!ENTITY identityTitle.label "Standertidentiteit">
-<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't oaren sjogge as se jo berjochten lêze.">
+<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy’t oaren sjogge as se jo berjochten lêze.">
 <!ENTITY name.label "Jo namme:">
 <!ENTITY name.accesskey "J">
 <!ENTITY email.label "E-mailadres:">

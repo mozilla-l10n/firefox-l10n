@@ -1,12 +1,9 @@
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Om fersifere of digitaal ûndertekene berjochten te ferstjoeren, moatte jo in fersiferingstechnology ynstelle, itsij OpenPGP of S/MIME.
-
 e2e-intro-description-more = Selektearje jo persoanlike kaai om it gebrûk fan OpenPGP mooglik te meitsjen, of jo persoanlike sertifikaat om it gebrûk fan S/MIME mooglik te meitsjen. Foar in persoanlike kaai of sertifikaat besitte jo de byhearrende geheime kaai.
-
 e2e-advanced-section = Avansearre ynstellingen
 e2e-attach-key =
     .label = Myn publike kaai byfoegje as ik in digitale OpenPGP-hantekening tafoegje
@@ -17,7 +14,6 @@ e2e-encrypt-subject =
 e2e-encrypt-drafts =
     .label = Konseptberjochten bewarje yn fersifere opmaak
     .accesskey = f
-
 openpgp-key-user-id-label = Account / Brûkers-ID
 openpgp-keygen-title-label =
     .title = OpenPGP-kaai oanmeitsje
@@ -47,16 +43,12 @@ openpgp-generate-key =
     .tooltiptext = Makket in nije OpenPGP-kaai oan foar fersifering en/of ûndertekening
 openpgp-advanced-prefs-button-label =
     .label = Avansearre…
-openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OPMERKING: it oanmeitsjen fan de kaai kin inkelde minuten duorje.</a> Slút de tapassing net ôf wylst de kaai oanmakke wurdt. Aktyf navigearje of skiifyntensive bewurkingen útfiere wylst it oanmeitsjen fan de kaai sil de ‘samar-wat-pool’ oanfolje en it proses fersnelle. Jo wurde warskôge wannear't it oanmeitsjen fan de kaai ree is.
-
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OPMERKING: it oanmeitsjen fan de kaai kin inkelde minuten duorje.</a> Slút de tapassing net ôf wylst de kaai oanmakke wurdt. Aktyf navigearje of skiifyntensive bewurkingen útfiere wylst it oanmeitsjen fan de kaai sil de ‘samar-wat-pool’ oanfolje en it proses fersnelle. Jo wurde warskôge wannear’t it oanmeitsjen fan de kaai ree is.
 openpgp-key-expiry-label =
     .label = Ferrindatum
-
 openpgp-key-id-label =
     .label = Kaai-ID
-
 openpgp-cannot-change-expiry = Dit is in kaai mei in komplekse struktuer, it wizigjen fan de ferrindatum wurdt net stipe.
-
 openpgp-key-man-title =
     .title = OpenPGP-kaaibehearder
 openpgp-key-man-generate =
@@ -67,7 +59,6 @@ openpgp-key-man-gen-revoke =
     .accesskey = Y
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Ynlûkingssertifikaat oanmeitsje en bewarje
-
 openpgp-key-man-file-menu =
     .label = Bestân
     .accesskey = B
@@ -83,7 +74,6 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Kaaiserver
     .accesskey = K
-
 openpgp-key-man-import-public-from-file =
     .label = Iepenbiere kaai(en) ymportearje út bestân
     .accesskey = I
@@ -106,29 +96,23 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Reservekopybestân fan geheime kaai(en) meitsje
     .accesskey = R
-
 openpgp-key-man-discover-cmd =
     .label = Kaaien online ûntdekke
     .accesskey = o
 openpgp-key-man-discover-prompt = Fier om OpenPGP-kaaien online, op kaaiservers of mei it WKD-protokol te ûntdekken, in e-mailadres of in kaai-ID yn.
 openpgp-key-man-discover-progress = Sykje…
-
 openpgp-key-copy-key =
     .label = Iepenbiere kaai kopiearje
     .accesskey = k
-
 openpgp-key-export-key =
     .label = Iepenbiere kaai nei bestân eksportearje
     .accesskey = k
-
 openpgp-key-backup-key =
     .label = Reservekopybestân fan geheime kaai meitsje
     .accesskey = R
-
 openpgp-key-send-key =
     .label = Iepenbiere kaai fia e-mail ferstjoere
     .accesskey = f
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -136,7 +120,6 @@ openpgp-key-man-copy-key-ids =
            *[other] Kaai-ID's nei klamboerd kopiearje
         }
     .accesskey = K
-
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -144,7 +127,6 @@ openpgp-key-man-copy-fprs =
            *[other] Fingerôfdrukken nei klamboerd kopiearje
         }
     .accesskey = F
-
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -152,14 +134,11 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Publike kaaien nei klamboerd kopiearje
         }
     .accesskey = P
-
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kaaien nei bestân eksportearje
-
 openpgp-key-man-ctx-copy =
     .label = Kopiearje
     .accesskey = K
-
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -167,7 +146,6 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Fingerôfdrukken
         }
     .accesskey = F
-
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -175,7 +153,6 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] Kaai-ID's
         }
     .accesskey = K
-
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -183,7 +160,6 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Publike kaaien
         }
     .accesskey = P
-
 openpgp-key-man-close =
     .label = Slute
 openpgp-key-man-reload =
@@ -231,15 +207,12 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Gjin inkelde kaai komt oerien mei jo syktermen
 openpgp-key-man-please-wait-tooltip =
     .label = In amerijke geduld wylst de kaaien laden wurde…
-
 openpgp-key-man-filter-label =
     .placeholder = Sykje nei kaaien
-
 openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
-
 openpgp-key-details-title =
     .title = Kaaieigenskippen
 openpgp-key-details-signatures-tab =
@@ -291,7 +264,6 @@ openpgp-personal-no-label =
     .label = Nee, net as myn persoanlike kaai brûke.
 openpgp-personal-yes-label =
     .label = Ja, dizze kaai as in persoanlike kaai behannelje.
-
 openpgp-copy-cmd-label =
     .label = Kopiearje
 
@@ -302,72 +274,50 @@ openpgp-copy-cmd-label =
 openpgp-description =
     { $count ->
         [0] Thunderbird hat gjin persoanlike OpenPGP-kaai foar <b>{ $identity }</b>
-        [one] Thunderbird hat { $count } persoanlike OpenPGP-kaai fûn dy't keppele is oan <b>{ $identity }</b>
-       *[other] Thunderbird hat { $count } persoanlike OpenPGP-kaaien fûn dy't keppele binne oan <b>{ $identity }</b>
+        [one] Thunderbird hat { $count } persoanlike OpenPGP-kaai fûn dy’t keppele is oan <b>{ $identity }</b>
+       *[other] Thunderbird hat { $count } persoanlike OpenPGP-kaaien fûn dy’t keppele binne oan <b>{ $identity }</b>
     }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
-
 #   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status-error = Jo aktuele konfiguraasje brûkt de kaai <b>{ $key }</b>, dy't ferfallen is.
-
+openpgp-selection-status-error = Jo aktuele konfiguraasje brûkt de kaai <b>{ $key }</b>, dy’t ferfallen is.
 openpgp-add-key-button =
     .label = Kaai tafoegje…
     .accesskey = f
-
 e2e-learn-more = Mear ynfo
-
 openpgp-keygen-success = OpenPGP-kaai mei sukses oanmakke!
-
 openpgp-keygen-import-success = OpenPGP-kaaien mei sukses ymportearre!
-
 openpgp-keygen-external-success = Eksterne GnuPG-kaai-ID bewarre!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Gjin
-
 openpgp-radio-none-desc = Brûk OpenPGP net foar dizze identiteit.
-
 openpgp-radio-key-not-usable = Dizze kaai is net brûkber as persoanlike kaai, omdat de geheime kaai ûntbrekt!
 openpgp-radio-key-not-accepted = Om dizze kaai te brûken, moatte jo dizze goedkarre as persoanlike kaai!
 openpgp-radio-key-not-found = Dizze kaai koe net fûn wurde! As jo it brûke wolle, moatte jo him ymportearje yn { -brand-short-name }.
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Ferrint op: { $date }
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Ferrûn op: { $date }
-
 openpgp-key-expires-within-6-months-icon =
     .title = Kaai ferrint oer minder as 6 moannen
-
 openpgp-key-has-expired-icon =
     .title = Kaai ferrûn
-
 openpgp-key-expand-section =
     .tooltiptext = Mear ynformaasje
-
 openpgp-key-revoke-title = Kaai ynlûke
-
 openpgp-key-edit-title = OpenPGP-kaai wizigje
-
 openpgp-key-edit-date-title = Ferrindatum ferlingje
-
 openpgp-manager-description = Brûk de OpenPGP-kaaibehearder om iepenbiere kaaien fan jo korrespondinten en alle oare net hjirboppe neamde kaaien te besjen en te behearen .
-
 openpgp-manager-button =
     .label = OpenPGP-kaaibehearder
     .accesskey = P
-
 openpgp-key-remove-external =
     .label = Eksterne kaai-ID fuortsmite
     .accesskey = E
-
 key-external-label = Eksterne GnuPG-kaai
-
 # Strings in keyDetailsDlg.xhtml
 key-type-public = iepenbiere kaai
 key-type-primary = haadkaai
@@ -384,16 +334,13 @@ key-expired-simple = De kaai is ferrûn
 key-revoked-simple = De kaai is ynlutsen
 key-do-you-accept = Akseptearje jo dizze kaai foar it ferifiearjen fan digitale hantekeningen en foar it fersiferjen fan berjochten?
 key-accept-warning = Akseptearje gjin frauduleuze kaai. Brûk in oar kommunikaasjekanaal as e-mail om de fingerôfdruk fan de kaai fan jo korrespondint te ferifiearjen.
-
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kin it berjocht net ferstjoere, omdat der in probleem is mei jo persoanlike kaai. { $problem }
 cannot-encrypt-because-missing = Kin dit berjocht net ferstjoere mei end-to-end-fersifering, omdat der problemen binne mei de kaaien fan de folgjende ûntfangers: { $problem }
 window-locked = It opstelfinster is beskoattele; ferstjoeren annulearre
-
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Fersifere berjochtdiel
 mime-decrypt-encrypted-part-concealed-data = Dit is in fersifere berjochtdiel. Jo moatte it yn in apart finster iepenje troch op de bylage te klikken.
-
 # Strings in keyserver.jsm
 keyserver-error-aborted = Ofbrutsen
 keyserver-error-unknown = Der is in ûnbekende flater bard
@@ -403,7 +350,6 @@ keyserver-error-unavailable = De kaaiserver is net beskikber.
 keyserver-error-security-error = De kaaiserver stipet gjin fersifere tagong.
 keyserver-error-certificate-error = It sertifikaat fan de kaaiserver is net jildich.
 keyserver-error-unsupported = De kaaiserver wurdt net stipe.
-
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Jo e-mailprovider hat jo fersyk om jo iepenbiere kaai op te laden nei de OpenPGP Web Key Directory ferwurke.
@@ -411,17 +357,14 @@ wkd-message-body-req =
 wkd-message-body-process =
     Dit is in e-mailberjocht foar de automatyske ferwurking om jo iepenbiere kaai op te laden nei de OpenPGP Web Key Directory.
     Jo hoege op dit stuit gjin hânmjittige aksje te ûndernimmen.
-
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Kin berjocht mei ûnderwerp { $subject }
     net ûntsiferje.
     Wolle jo it opnij probearje mei in oare wachtwurdsin of wolle jo it berjocht oerslaan?
-
 # Strings in gpg.jsm
 unknown-signing-alg = Unbekend ûndertekeningsalgoritme (ID: { $id })
 unknown-hash-alg = Unbekende kryptografyske hash (ID: { $id })
-
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Jo kaai { $desc } ferfalt oer minder as { $days } dagen.
@@ -438,7 +381,6 @@ expiry-keys-missing-owner-trust =
     Wy riede jo oan ‘Jo fertrouwe op sertifisearringen’ yn de kaaieigenskippen yn te stellen op ‘maksimaal’.
 expiry-open-key-manager = OpenPGP-kaaibehearder iepenje
 expiry-open-key-properties = Kaaieigenskippen iepenje
-
 # Strings filters.jsm
 filter-folder-required = Jo moatte in doelmap selektearje.
 filter-decrypt-move-warn-experimental =
@@ -450,12 +392,10 @@ filter-key-not-found = Kin gjin fersiferingssin fine foar ‘{ $desc }’.
 filter-warn-key-not-secret =
     Warskôging – de filteraksje ‘Fersiferje nei kaai’ ferfangt de ûntfangers.
     As jo de geheime kaai foar ‘{ $desc }’ net hawwe, kinne jo de e-mailberjochten net mear lêze.
-
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Permanint ûntsiferje (OpenPGP)
 filter-decrypt-copy-label = Untsifere kopy meitsje (OpenPGP)
 filter-encrypt-label = Fersiferje nei kaai (OpenPGP)
-
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Sukses! Kaaien ymportearre
@@ -464,7 +404,6 @@ import-info-created = Oanmakke
 import-info-fpr = Fingerôfdruk
 import-info-details = Details besjen en kaaiakseptaasje beheare
 import-info-no-keys = Gjin kaaien ymportearre.
-
 # Strings in enigmailKeyManager.js
 import-from-clip = Wolle jo ien of inkelde kaai(en) fan it klamboerd ymportearje?
 import-from-url = Iepenbiere kaai fan dizze URL downloade:
@@ -473,13 +412,13 @@ copy-to-clipbrd-ok = Kaai(en) nei klamboerd kopiearre
 delete-secret-key =
     WARSKÔGING: Jo stean op it punt in geheime kaai fuort te smiten!
     
-    As jo jo geheime kaai fuortsmite, kinne jo gjin berjochten mear ûntsiferje dy't foar dy kaai fersifere binne, en kinne jo dizze ek net ynlûke.
+    As jo jo geheime kaai fuortsmite, kinne jo gjin berjochten mear ûntsiferje dy’t foar dy kaai fersifere binne, en kinne jo dizze ek net ynlûke.
     
     Wolle jo echt SAWOL de geheime kaai AS de iepenbiere kaai ‘{ $userId }’
     fuortsmite?
 delete-mix =
     WARSKÔGING: Jo stean op it punt in geheime kaaien fuort te smiten!
-    As jo jo geheime kaai fuortsmite, kinne jo gjin berjochten mear ûntsiferje dy't foar dy kaai fersifere binne
+    As jo jo geheime kaai fuortsmite, kinne jo gjin berjochten mear ûntsiferje dy’t foar dy kaai fersifere binne
     Wolle jo echt SAWOL de selektearre geheime kaai AS de iepenbiere kaaien fuortsmite?
 delete-pub-key =
     Wolle jo de iepenbiere kaai ‘{ $userId }’
@@ -508,10 +447,8 @@ dlg-button-delete = &Fuortsmite
 
 openpgp-export-public-success = <b>Publike kaai mei sukses eksportearre!</b>
 openpgp-export-public-fail = <b>Kin de selektearre iepenbiere kaai net eksportearje!</b>
-
 openpgp-export-secret-success = <b>Geheime kaai mei sukses eksportearre!</b>
 openpgp-export-secret-fail = <b>Kin de selektearre geheime kaai net eksportearje!</b>
-
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = De kaai { $userId } (sleutel-ID { $keyId }) is ynlutsen.
 key-ring-pub-key-expired = De kaai { $userId } (sleutel-ID { $keyId }) is ferfallen.
@@ -522,67 +459,47 @@ key-ring-sign-sub-keys-revoked = Alle ûndertekeningssubkaaien fan kaai { $userI
 key-ring-sign-sub-keys-expired = Alle ûndertekeningssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ferfallen.
 key-ring-enc-sub-keys-revoked = Alle fersiferingssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ynlutsen.
 key-ring-enc-sub-keys-expired = Alle fersiferingssubkaaien fan kaai { $userId } (kaai-ID { $keyId }) binne ferfallen.
-
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Brûkerskenmerk (JPEG-ôfbylding)
-
 # Strings in key.jsm
 already-revoked = Dizze kaai is al ynlutsen.
-
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Jo steane op it punt de kaai ‘{ $identity }’ yn te lûken.
     Jo kinne mei dizze kaai net mear ûndertekenje en nei distribúsje kinne oaren net mear mei dy kaai kodearje. Jo kinne de kaai noch hieltyd brûke om âlde berjochten te ûntsiferjen.
     Wolle jo trochgean?
-
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
-    Jo hawwe gjin kaai (0x{ $keyId }) dy't oerienkomt mei dit ynlûkingssertifikaat!
+    Jo hawwe gjin kaai (0x{ $keyId }) dy’t oerienkomt mei dit ynlûkingssertifikaat!
     As jo jo kaai kwyt binne, moatte jo dizze ymportearje (bygelyks fan in kaaiserver) eardat jo it ynlûkingssertifikaat ymportearje!
-
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = De kaai 0x{ $keyId } is al ynlutsen.
-
 key-man-button-revoke-key = Kaai &ynlûke
-
 openpgp-key-revoke-success = Kaai mei sukses ynlutsen.
-
 after-revoke-info =
     De kaai is ynlutsen.
     Diel dizze publike kaai opnij troch dizze per e-mail te ferstjoeren of troch dizze nei kaaiservers op te laden, sadat oaren witte dat jo jo kaai ynlûkt hawwe.
-    Sa gau as de software dy't troch oare minsken brûkt wurdt oer de ynlûking ynformearre wurde, sil dizze jo âlde kaai net mear brûke.
-    As jo in nije kaai brûke foar itselde e-mailadres en jo foegje de nije publike kaai ta oan e-mailberjochten dy't jo ferstjoere, dan wurdt automatysk ynformaasje oer jo ynlutsen âlde kaai tafoege.
-
+    Sa gau as de software dy’t troch oare minsken brûkt wurdt oer de ynlûking ynformearre wurde, sil dizze jo âlde kaai net mear brûke.
+    As jo in nije kaai brûke foar itselde e-mailadres en jo foegje de nije publike kaai ta oan e-mailberjochten dy’t jo ferstjoere, dan wurdt automatysk ynformaasje oer jo ynlutsen âlde kaai tafoege.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Ymportearje
-
 delete-key-title = OpenPGP-kaai fuortsmite
-
 delete-external-key-title = De eksterne GnuPG-kaai fuortsmite
-
 delete-external-key-description = Wolle jo dizze eksterne GnuPG-kaai-ID fuortsmite?
-
 key-in-use-title = OpenPGP-kaai wurdt op dit stuit brûkt
-
-delete-key-in-use-description = Kin net trochgean! De kaai dy't jo selektearre hawwe foar fuort te smiten wurdt op dit stuit brûkt troch dizze identiteit. Selektearje in oare kaai of selektearje der gjin en probearje it opnij.
-
-revoke-key-in-use-description = Kin net trochgean! De kaai dy't jo selektearre hawwe foar yn te lûken wurdt op dit stuit brûkt troch dizze identiteit. Selektearje in oare kaai of selektearje der gjin en probearje it opnij.
-
+delete-key-in-use-description = Kin net trochgean! De kaai dy’t jo selektearre hawwe foar fuort te smiten wurdt op dit stuit brûkt troch dizze identiteit. Selektearje in oare kaai of selektearje der gjin en probearje it opnij.
+revoke-key-in-use-description = Kin net trochgean! De kaai dy’t jo selektearre hawwe foar yn te lûken wurdt op dit stuit brûkt troch dizze identiteit. Selektearje in oare kaai of selektearje der gjin en probearje it opnij.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = It e-mailadres ‘{ $keySpec }’ kin net keppele wurde oan in kaai oan jo kaaihinger.
 key-error-key-id-not-found = De konfigurearre kaai-ID ‘{ $keySpec }’ kin net fûn wurde oan jo kaaihinger.
 key-error-not-accepted-as-personal = Jo hawwe net befêstige dat de kaai mei ID ‘{ $keySpec }’ jo persoanlike kaai is.
-
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = De selektearre funksje is net beskikber yn de offlinemodus. Gean online en probearje it opnij.
-
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
-no-key-found = Wy kinne gjin kaai fine dy't oerienkomt mei de opjûne sykkritearia.
-
+no-key-found = Wy kinne gjin kaai fine dy’t oerienkomt mei de opjûne sykkritearia.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Flater – kaaiekstraksjeopdracht mislearre
-
 # Strings used in keyRing.jsm
 fail-cancel = Flater – kaaiûntfangst annulearre troch brûker
 not-first-block = Flater – earste OpenPGP-blok is gjin publyk kaaiblok
@@ -590,8 +507,7 @@ import-key-confirm = Yn berjocht ynsluten publike kaai(en) ymportearje?
 fail-key-import = Flater – ymportearjen fan kaai mislearre
 file-write-failed = Kin net nei bestân { $output } skriuwe
 no-pgp-block = Flater – gjin jildich armored OpenPGP-gegevensblok fûn
-confirm-permissive-import = Ymportearjen mislearre. De kaai dy't jo probearje te ymportearjen, is mooglik skansearre of brûkt ûnbekende attributen. Wolle jo probearje de krekte dielen te ymportearjen? Dit kin der ta liede dat net folslein en net brûkbere kaaien ymportearre wurde.
-
+confirm-permissive-import = Ymportearjen mislearre. De kaai dy’t jo probearje te ymportearjen, is mooglik skansearre of brûkt ûnbekende attributen. Wolle jo probearje de krekte dielen te ymportearjen? Dit kin der ta liede dat net folslein en net brûkbere kaaien ymportearre wurde.
 # Strings used in trust.jsm
 key-valid-unknown = ûnbekend
 key-valid-invalid = ûnjildich
@@ -603,7 +519,6 @@ key-trust-marginal = net folle
 key-trust-full = fertroud
 key-trust-ultimate = maksimaal
 key-trust-group = (groep)
-
 # Strings used in commonWorkflows.js
 import-key-file = OpenPGP-kaaibestân ymportearje
 import-rev-file = OpenPGP-ynlûkingsbestân ymportearje
@@ -611,7 +526,6 @@ gnupg-file = GnuPG-bestannen
 import-keys-failed = It ymportearjen fan de kaaien is mislearre
 passphrase-prompt = Fier de wachtwurdsin yn wêrmei't de folgjende kaai ûntskoattele wurdt: { $key }
 file-to-big-to-import = Dit bestân is te grut. Ymportearje gjin grutte set kaaien tagelyk.
-
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Ynlûkingssertifikaat meitsje en bewarje
 revoke-cert-ok = It ynlûkingssertifikaat is mei sukses makke. Jo kinne it brûke om jo publike kaai ûnjildich te meitsjen, bygelyks foar it gefal jo jo geheime kaai ferlieze soe.
@@ -619,7 +533,7 @@ revoke-cert-failed = It ynlûkingssertifikaat koe net makke wurde.
 gen-going = Kaai wurdt al oanmakke!
 keygen-missing-user-name = Der is gjin namme foar de selektearre account/identiteit opjûn. Fier yn de accountynstellingen in wearde yn it fjild ‘Jo namme’ yn.
 expiry-too-short = Jo kaai moat op syn minst ien dei jildich wêze.
-expiry-too-long = Jo kinne gjin kaai oanmeitsje dy't oer mear as 100 jier ferrint.
+expiry-too-long = Jo kinne gjin kaai oanmeitsje dy’t oer mear as 100 jier ferrint.
 key-confirm = Publike en geheime kaai foar ‘{ $id }’ oanmeitsje?
 key-man-button-generate-key = Kaai &oanmeitsje
 key-abort = Kaaioanmaak ôfbrekke?
@@ -630,7 +544,6 @@ key-man-button-generate-key-continue = Kaaioanmaak &trochsette
 
 failed-decrypt = Flater - ûntsiferjen mislearre
 fix-broken-exchange-msg-failed = Koe berjocht net reparearje.
-
 attachment-no-match-from-signature = Kin hantekeningbestân ‘{ $attachment }’ net keppelje oan in bylage
 attachment-no-match-to-signature = Kin bylage ‘{ $attachment }’ net keppelje oan in hantekeningbestân
 signature-verified-ok = De hantekening foar bylage { $attachment } is mei sukses ferifiearre
@@ -640,7 +553,6 @@ decrypt-ok-no-sig =
     It ûntsiferjen is slagge, mar de hantekening kin net korrekt ferifiearre wurde
 msg-ovl-button-cont-anyway = Dochs &trochgean
 enig-content-note = *Bylagen by dit berjocht binne net ûndertekene of fersifere*
-
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Berjocht ferstjoere
 msg-compose-details-button-label = Details…
@@ -653,7 +565,7 @@ key-expired = Kaai ‘{ $key }’ is ferfallen
 msg-compose-internal-error = Der is in ynterne flater bard.
 keys-to-export = Selektearje yn te foegjen OpenPGP-kaaien
 msg-compose-partially-encrypted-inlinePGP =
-    It berjocht wêrop jo reagearje befettet sawol net-fersifere as fersifere dielen. As de ôfstjoerder guon berjochtgedielten oarspronklik net ûntsiferje koene, lekke jo mooglik fertroulike ynformaasje dy't de ôfstjoerder oarspronklik net ûntsifere hat.
+    It berjocht wêrop jo reagearje befettet sawol net-fersifere as fersifere dielen. As de ôfstjoerder guon berjochtgedielten oarspronklik net ûntsiferje koene, lekke jo mooglik fertroulike ynformaasje dy’t de ôfstjoerder oarspronklik net ûntsifere hat.
     Oerwaach om alle sitearre tekst út jo antwurd oan dizze ôfstjoerder fuort te smiten.
 msg-compose-cannot-save-draft = Flater by it bewarjen fan konsept
 msg-compose-partially-encrypted-short = Pas op foar it lekken fan gefoelige ynformaasje – diels fersifere e-mailberjocht.
@@ -677,14 +589,12 @@ no-temp-dir =
 possibly-pgp-mime = Mooglik PGP/MIME-fersifere of -ûndertekene berjocht; brûk de funksje ‘Untsiferje/Ferifiearje’ om te ferifiearjen
 cannot-send-sig-because-no-own-key = Kin dit berjocht net digitaal ûndertekenje, omdat jo noch gjin end-to-end-fersifering foar <{ $key }> konfigurearre hawwe
 cannot-send-enc-because-no-own-key = Kin dit berjocht net fersifere fersjoere, omdat jo noch gjin end-to-end-fersifering foar <{ $key }> konfigurearre hawwe
-
 compose-menu-attach-key =
     .label = Foegje myn iepenbiere kaai ta
     .accesskey = F
 compose-menu-encrypt-subject =
     .label = Underwerpfersifering
     .accesskey = f
-
 # Strings used in decryption.jsm
 do-import-multiple =
     De folgjende kaaien ymportearje?
@@ -696,21 +606,17 @@ key-in-message-body = Der is in kaai fûn yn de berjochttekst. Klik op ‘Kaai y
 sig-mismatch = Flater – hantekening komt net oerien
 invalid-email = Flater – ûnjildich(ge) e-mailadres(sen)
 attachment-pgp-key =
-    De bylage ‘{ $name }’ dy't jo probearje te iepenjen liket in OpenPGP-kaaibestân te wêzen.
+    De bylage ‘{ $name }’ dy’t jo probearje te iepenjen liket in OpenPGP-kaaibestân te wêzen.
     Klik op ‘Ymportearje’ om de kaaien te ymportearjen of op ‘Werjaan’ om de ynhâld fan it bestân yn in browserfinster te besjen
 dlg-button-view = &Werjaan
-
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Untsifere berjocht (skansearre PGP-e-mailyndieling, wierskynlik feroarsake troch in âlde Exchange-server, is wersteld, dêrom is it resultaat mooglik net perfekt te lêzen)
-
 # Strings used in encryption.jsm
 not-required = Flater – gjin fersifering fereaske
-
 # Strings used in windows.jsm
 no-photo-available = Gjin foto beskikber
 error-photo-path-not-readable = Fotopaad '{ $photo }' is net lêsber
 debug-log-title = OpenPGP-debuglochboek
-
 # Strings used in dialog.jsm
 repeat-prefix = Werhellingsfrekwinsje warskôging: { $count }
 repeat-suffix-singular = kear.
@@ -725,11 +631,9 @@ enig-prompt = OpenPGP-fraach
 enig-confirm = OpenPGP-befêstiging
 enig-alert = OpenPGP-warskôging
 enig-info = OpenPGP-ynformaasje
-
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Opnij probearje
 dlg-button-skip = Oer&slaan
-
 # Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = OpenPGP-warskôging

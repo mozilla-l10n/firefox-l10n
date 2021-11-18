@@ -19,7 +19,7 @@
 <!ENTITY title.tooltip "It HTML-attribút ‘title’ dat ferskynt as sweefjende tip">
 <!ENTITY altText.label "Alternative tekst:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "Typ de tekst dy't ferskynt yn stee fan de ôfbylding">
+<!ENTITY altTextEditField.tooltip "Typ de tekst dy’t ferskynt yn stee fan de ôfbylding">
 <!ENTITY noAltText.label "Gjin alternative tekst brûke">
 <!ENTITY noAltText.accessKey "G">
 

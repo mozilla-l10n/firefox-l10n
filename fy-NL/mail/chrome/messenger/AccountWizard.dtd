@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Om berjochten ûntfange te kinnen, moatte jo earst in account oanmeitsje.">
 <!ENTITY accountTypeTitle.label "Nij account oanmeitsje">
-<!ENTITY accountTypeDesc2.label "Dizze helper sammelet de ynformaasje dy't nedich is om in account oan te meitsje. As jo net oer de frege ynformaasje beskikke, nim dan kontakt op mei jo systeembehearder of ynternetprovider.">
+<!ENTITY accountTypeDesc2.label "Dizze helper sammelet de ynformaasje dy’t nedich is om in account oan te meitsje. As jo net oer de frege ynformaasje beskikke, nim dan kontakt op mei jo systeembehearder of ynternetprovider.">
 <!ENTITY accountTypeDirections.label "Selektearje it type account dat jo oanmeitsje wolle:">
 <!ENTITY accountTypeMail.label "E-mailaccount">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -21,10 +21,10 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identiteit">
-<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't jo identifisearret by oaren as se berjochten fan jo ûntfange.">
+<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy’t jo identifisearret by oaren as se berjochten fan jo ûntfange.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Fier de namme yn dy't jo brûke wolle yn it ‘Fan’-fjild fan jo útgeande berjochten">
+<!ENTITY fullnameDesc.label "Fier de namme yn dy’t jo brûke wolle yn it ‘Fan’-fjild fan jo útgeande berjochten">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -57,7 +57,7 @@
 <!ENTITY incomingServer.label "Ynkommende server:">
 <!ENTITY incomingServer.accesskey "o">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Fier de ynkommende brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (bygelyks ‘jsmit’).">
+<!ENTITY incomingUsername.description "Fier de ynkommende brûkersnamme yn dy’t jo fan jo e-mailprovider krigen hawwe (bygelyks ‘jsmit’).">
 <!ENTITY incomingUsername.label "Brûkersnamme:">
 <!ENTITY incomingUsername.accesskey "B">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Fier de namme yn fan jo útgeande server (SMTP) (bygelyks ‘smtp.example.net’).">
 <!ENTITY outgoingServer.label "Utgeande server:">
 <!ENTITY outgoingServer.accesskey "d">
-<!ENTITY outgoingUsername.description "Fier de útgeande brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (dit is meastentiids itselde as jo ynkommende brûkersnamme).">
+<!ENTITY outgoingUsername.description "Fier de útgeande brûkersnamme yn dy’t jo fan jo e-mailprovider krigen hawwe (dit is meastentiids itselde as jo ynkommende brûkersnamme).">
 <!ENTITY outgoingUsername.label "Utgeande brûkersnamme:">
 <!ENTITY outgoingUsername.accesskey "U">
 
