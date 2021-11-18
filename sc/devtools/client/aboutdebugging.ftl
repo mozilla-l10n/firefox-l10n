@@ -17,6 +17,9 @@ about-debugging-refresh-usb-devices-button = Agiorna is dispositivos
 
 # Setup Page strings
 
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Boga
 
 # Runtime Page strings
 
@@ -26,6 +29,9 @@ about-debugging-runtime-disconnect-button = Disconnete
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Boga
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Serra su messàgiu

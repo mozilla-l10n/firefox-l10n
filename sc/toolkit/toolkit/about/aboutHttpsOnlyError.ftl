@@ -6,6 +6,7 @@
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = As ativadu sa modalidade HTTPS ebbia pro megiorare sa seguresa, ma no esistet sa versione HTTPS de su situ <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-continue = Si sighis in antis, sa modalidade HTTPS ebbia at a èssere disativada in manera temporànea pro custu situ.
+about-httpsonly-link-learn-more = Àteras informatziones…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:

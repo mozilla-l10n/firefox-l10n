@@ -43,9 +43,9 @@
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (serradu) { $now }
 
 ##
-
 
 about-webrtc-priority = Prioridade
 
@@ -66,11 +66,6 @@ about-webrtc-priority = Prioridade
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
-
-
-##
-
-##
 
 
 ##

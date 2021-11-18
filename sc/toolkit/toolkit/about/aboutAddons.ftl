@@ -273,6 +273,7 @@ install-update-button = Agiorna
 
 ##
 
+addon-permissions-learnmore = Àteras informatziones subra de is permissos
 
 ## Page headings
 
