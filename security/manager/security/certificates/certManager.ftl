@@ -156,7 +156,7 @@ temporary-override = Tydlik
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = Jo steane op it punt om hoe't { -brand-short-name } dizze side identifisearet te oerskriuwen.
+add-exception-branded-warning = Jo steane op it punt om hoe’t { -brand-short-name } dizze side identifisearet te oerskriuwen.
 add-exception-invalid-header = Dizze side probearret om himsels te identifisearjen mei foute ynformaasje
 add-exception-domain-mismatch-short = Foute website
 add-exception-domain-mismatch-long = It sertifikaat heart ta oan in oare website, wat betsjutte kin dat ien dizze website probearret nei te meitsjen.

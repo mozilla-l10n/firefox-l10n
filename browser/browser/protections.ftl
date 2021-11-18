@@ -82,9 +82,9 @@ lockwise-scanned-text-no-breached-logins =
         [one] In wachtwurd is feilich bewarre.
        *[other] Jo wachtwurden wurde feilich bewarre.
     }
-lockwise-how-it-works-link = Hoe't it wurket
+lockwise-how-it-works-link = Hoe’t it wurket
 monitor-title = Let op datalekken
-monitor-link = Hoe't it wurket
+monitor-link = Hoe’t it wurket
 monitor-header-content-no-account = Sjoch op { -monitor-brand-name } om te sjen oft jo troffen binne troch in bekend datalek en ûntfang warskôgingen oer nije datalekken.
 monitor-header-content-signed-in = { -monitor-brand-name } warskôget jo as jo gegevens foarkomme yn in bekend datalek
 monitor-sign-up-link = Ynskriuwe foar warskôgingen oer datalekken
