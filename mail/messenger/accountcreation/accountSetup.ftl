@@ -170,7 +170,7 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Hostnamme:
 account-setup-port-label = Poarte:
     .title = Stel it poartenûmer yn op 0 foar autodeteksje
-account-setup-auto-description = { -brand-short-name } probearret fjilden dy't leech litten binne, automatysk te detektearjen.
+account-setup-auto-description = { -brand-short-name } probearret fjilden dy’t leech litten binne, automatysk te detektearjen.
 account-setup-ssl-label = Ferbiningsbefeiliging:
 account-setup-outgoing-server-legend = Utgeande server
 
@@ -248,21 +248,21 @@ account-setup-address-book-carddav-button = Ferbining meitsje mei in CardDAV-adr
 account-setup-address-book-ldap-button = Ferbining meitsje mei in LDAP-adresboek
 account-setup-calendar-button = Ferbining meitsje mei in eksterne aginda
 account-setup-linked-services-title = Ferbining meitsje mei jo keppele services
-account-setup-linked-services-description = { -brand-short-name } hat oare services dy't oan jo e-mailaccount keppele binne detektearre.
+account-setup-linked-services-description = { -brand-short-name } hat oare services dy’t oan jo e-mailaccount keppele binne detektearre.
 account-setup-no-linked-description = Oare services ynstelle om it measte út jo { -brand-short-name }-ûnderfining te heljen.
 # Variables:
 # $count (Number) - The number of address books found during autoconfig.
 account-setup-found-address-books-description =
     { $count ->
         [one] { -brand-short-name } hat ien adresboek dat keppele is oan jo e-mailaccount fûn.
-       *[other] { -brand-short-name } hat { $count } adresboeken dy't keppele binne oan jo e-mailaccount fûn.
+       *[other] { -brand-short-name } hat { $count } adresboeken dy’t keppele binne oan jo e-mailaccount fûn.
     }
 # Variables:
 # $count (Number) - The number of calendars found during autoconfig.
 account-setup-found-calendars-description =
     { $count ->
-        [one] { -brand-short-name } hat ien adresboek dy't keppele is oan jo e-mailaccount fûn.
-       *[other] { -brand-short-name } hat { $count } adresboeken dy't keppele binne oan jo e-mailaccount fûn.
+        [one] { -brand-short-name } hat ien adresboek dy’t keppele is oan jo e-mailaccount fûn.
+       *[other] { -brand-short-name } hat { $count } adresboeken dy’t keppele binne oan jo e-mailaccount fûn.
     }
 account-setup-button-finish = Foltôgje
     .accesskey = F

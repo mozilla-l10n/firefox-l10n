@@ -10,7 +10,7 @@
 <!ENTITY allFoldersOfflineNote.label "Let op: dizze wiziging hat effekt op alle mappen yn dizze account. Brûk de knop Avansearre… om yndividuele mappen yn te stellen.">
 <!ENTITY offlineNotDownload.label "Berjochten grutter as">
 <!ENTITY offlineNotDownload.accesskey "r">
-<!ENTITY autosyncNotDownload.label "Berjochten net downloade dy't grutter binne as">
+<!ENTITY autosyncNotDownload.label "Berjochten net downloade dy’t grutter binne as">
 <!ENTITY autosyncNotDownload.accesskey "b">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "dagen">
@@ -22,7 +22,7 @@
 <!ENTITY retentionCleanup.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde">
 <!ENTITY retentionCleanupImap.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, sawol lokale kopyen as de orizjinele op de server.">
 <!ENTITY retentionCleanupPop.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, ynklusyf orizjinelen op de server.">
-<!ENTITY retentionKeepMsg.label "Berjochten fuortsmite dy't âlder binne as">
+<!ENTITY retentionKeepMsg.label "Berjochten fuortsmite dy’t âlder binne as">
 <!ENTITY retentionKeepMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Gjin berjochten fuortsmite">
 <!ENTITY retentionKeepAll.accesskey "n">

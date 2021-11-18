@@ -12,9 +12,9 @@
 <!ENTITY removeData.accesskey         "B">
 <!ENTITY removeDataChat.label         "Peteargegevens fuortsmite">
 <!ENTITY removeDataChat.accesskey     "P">
-<!ENTITY removeDataLocalAccount.desc  "Smyt alle berjochten, mappen en mei dit account assosjearre filters fuort fan jo lokale skiif. Dit hat gjin effekt op guon berjochten dy't miskien noch op de server stean. Kies dit net as jo fan doel binne de lokale gegevens te argivearjen of letter opnij te brûken yn &brandShortName;.">
+<!ENTITY removeDataLocalAccount.desc  "Smyt alle berjochten, mappen en mei dit account assosjearre filters fuort fan jo lokale skiif. Dit hat gjin effekt op guon berjochten dy’t miskien noch op de server stean. Kies dit net as jo fan doel binne de lokale gegevens te argivearjen of letter opnij te brûken yn &brandShortName;.">
 <!ENTITY removeDataServerAccount.desc "Smyt alle berjochten, mappen en mei dit account assosjearre filters fuort fan jo lokale skiif. Jo berjochten en mappen wurde noch hieltyd bewarre op de server.">
-<!ENTITY removeDataChatAccount.desc   "Smyt alle lochs fan petearen dy't foar dit account bewarre binne op jo lokale skiif fuort.">
+<!ENTITY removeDataChatAccount.desc   "Smyt alle lochs fan petearen dy’t foar dit account bewarre binne op jo lokale skiif fuort.">
 <!ENTITY showData.label               "Gegevenslokaasje toane">
 <!ENTITY showData.accesskey           "G">
 <!ENTITY progressPending              "Selektearre gegevens fuortsmite…">

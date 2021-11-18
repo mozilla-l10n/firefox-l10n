@@ -3,11 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
+
 <!ENTITY fieldMapImport.next.label "Folgjende">
 <!ENTITY fieldMapImport.next.accesskey "F">
 <!ENTITY fieldMapImport.previous.label "Foarige">
 <!ENTITY fieldMapImport.previous.accesskey "o">
-<!ENTITY fieldMapImport.text "Brûk Omheech ferpleatse en Omleech ferpleatse om de adresboekfjlden oan de lofterkant oerienkomme te litten mei de goede te ymportearjen gegevens oan de rjochterkant. Fink ûnderdielen dy't jo net ymportearje wolle út.">
+<!ENTITY fieldMapImport.text "Brûk Omheech ferpleatse en Omleech ferpleatse om de adresboekfjlden oan de lofterkant oerienkomme te litten mei de goede te ymportearjen gegevens oan de rjochterkant. Fink ûnderdielen dy’t jo net ymportearje wolle út.">
 <!ENTITY fieldMapImport.up.label "Omheech ferpleatse">
 <!ENTITY fieldMapImport.up.accesskey "h">
 <!ENTITY fieldMapImport.down.label "Omleech ferpleatse">
