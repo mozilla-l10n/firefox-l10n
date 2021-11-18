@@ -5,4 +5,6 @@
 refresh-profile-dialog-title = Boles torrare { -brand-short-name } a sa cunfiguratzione predefinida?
 refresh-profile-dialog-button =
     .label = Torra { -brand-short-name } a sa cunfiguratzione predefinida
+refresh-profile-dialog-description = Torra a cumintzare dae zero pro acontzare problemas de rendimentu. Custu at a bogare is estensiones e is personalizatziones tuas. No as a pèrdere informatziones essentziales comente sinnalibros e craes.
+refresh-profile-button = Torra { -brand-short-name } a sa cunfiguratzione predefinida…
 refresh-profile-learn-more = Àteras informatziones

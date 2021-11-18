@@ -2,9 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+language-name-aa = Afar
+language-name-ab = Abcasu
+language-name-ach = Acholi
+language-name-ae = Avèsticu
+language-name-af = Afrikaans
+language-name-ak = Akan
+language-name-am = Amàricu
+language-name-an = Aragonesu
 language-name-ar = Àrabu
+language-name-as = Assamesu
+language-name-ast = Asturianu
+language-name-av = Avaru
+language-name-ay = Aimarà
+language-name-az = Azeru
+language-name-ba = Baschiru
 language-name-be = Bielorussu
 language-name-bg = Bùlgaru
+language-name-bh = Bihari
+language-name-bi = Bislama
+language-name-bm = Bambara
 language-name-ca = Catalanu
 language-name-cs = Tzecu
 language-name-da = Danesu
