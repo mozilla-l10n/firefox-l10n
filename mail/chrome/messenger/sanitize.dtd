@@ -7,7 +7,6 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Interval de temps per esborrar:">
 <!ENTITY clearTimeDuration.accesskey      "I">
 <!ENTITY clearTimeDuration.lastHour       "Darrera hora">
@@ -18,10 +17,9 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
-     of the "Details" progressive disclosure button.  See UI mockup at bug
-     480169 -->
 
+
+<!ENTITY historyGroup.label                "Historial">
 
 <!ENTITY itemHistory.label                 "Historial de navegació">
 <!ENTITY itemHistory.accesskey             "n">
@@ -29,10 +27,10 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "G">
 <!ENTITY itemCache.label                   "Memòria cau">
 <!ENTITY itemCache.accesskey               "a">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Aquesta acció no es pot desfer.">
 
 <!ENTITY dialog.width                 "30em">
