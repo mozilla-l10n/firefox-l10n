@@ -42,4 +42,4 @@ calendar-ics-file-import-errors =
         [one] Ien item kin net ymportearre wurde. Rieplachtsje de flaterconsole foar details.
        *[other] { $errorsCount } items koene net ymportearre wurde. Rieplachtsje de flaterconsole foar details.
     }
-calendar-ics-file-dialog-no-calendars = Der binne gjin aginda’s dy't ôfspraken of taken ymportearje kinne.
+calendar-ics-file-dialog-no-calendars = Der binne gjin aginda’s dy’t ôfspraken of taken ymportearje kinne.
