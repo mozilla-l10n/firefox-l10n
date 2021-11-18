@@ -31,6 +31,8 @@ upgrade-dialog-pin-secondary-button = Ҳоло не
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин кунед
 upgrade-dialog-default-primary-button-2 = Гузоштан ҳамчун браузери пешфарз
 upgrade-dialog-default-secondary-button = Ҳоло не
 
@@ -41,6 +43,8 @@ upgrade-dialog-theme-system = Мавзӯи низомӣ
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Ҳаёт бо ранг
 upgrade-dialog-start-secondary-button = Ҳоло не
 
 ## Colorway screen
