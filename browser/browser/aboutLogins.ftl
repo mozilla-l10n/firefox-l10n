@@ -8,6 +8,7 @@ login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
+fxaccounts-sign-in-sync-button = ஒத்திசைக்க உள்நுழை
 fxaccounts-avatar-button =
     .title = கணக்கை நிர்வகி
 
@@ -38,6 +39,8 @@ login-list-count =
 login-list-sort-label-text = வரிசைப்படுத்து:
 login-list-name-option = பெயர் (அ-ஃ)
 login-list-name-reverse-option = பெயர் (ஃ-அ)
+login-list-username-option = பயனர்பெயர் (A-Z)
+login-list-username-reverse-option = பயனர்பெயர் (Z-A)
 about-logins-login-list-alerts-option = விழிப்பூட்டல்
 login-list-last-changed-option = இறுதியாக மாற்ற‌ப்பட்டது:
 login-list-last-used-option = இறுதியாக பயன்படுத்தியது
@@ -48,6 +51,8 @@ about-logins-login-list-empty-search-description = தங்கள் தேட�
 login-list-item-title-new-login = புதிய உள்நுழைவு
 login-list-item-subtitle-new-login = உங்கள் உள்நுழைவு சான்றுகளை உள்ளிடவும்
 login-list-item-subtitle-missing-username = (பயனர் பெயர் இல்லை)
+about-logins-list-item-vulnerable-password-icon =
+    .title = பாதிக்கப்படக்கூடிய கடவுச்சொல்
 
 ## Introduction screen
 
@@ -67,6 +72,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = நகலெடு
 login-item-copied-username-button-text = நகலெடுக்கப்பட்டது!
 login-item-password-label = கடவுச்சொல்
+login-item-password-reveal-checkbox =
+    .aria-label = கடவுச்சொல்லை காட்டு
 login-item-copy-password-button-text = நகலெடு
 login-item-copied-password-button-text = நகலெடுக்கப்பட்டது
 login-item-save-changes-button = மாற்றங்களைச் சேமி
@@ -78,11 +85,18 @@ login-item-time-used = கடைசியாகப் பயனில் இர�
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = சேமித்த கடவுச்சொல்லை வெளிப்படுத்து
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = சேமித்த கடவுச்சொல்லை நகலெடு
 
 ## Primary Password notification
 
@@ -108,6 +122,7 @@ confirm-discard-changes-dialog-confirm-button = நிராகரி
 
 about-logins-breach-alert-title = வலைத்தள அத்மீறல்
 breach-alert-text = உங்கள் உள்நுழைவு விவரங்களைக் கடைசியாகப் புதுப்பித்ததிலிருந்து இந்த வலைத்தளத்திலிருந்து கடவுச்சொற்கள் கசிந்தன அல்லது திருடப்பட்டன. உங்கள் கணக்கைப் பாதுகாக்க கடவுச்சொல்லை மாற்றவும்.
+about-logins-breach-alert-date = இந்த மீறல் ஏற்பட்டது { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } தளத்திற்குச் செல்க
@@ -116,6 +131,7 @@ about-logins-breach-alert-learn-more-link = மேலும் அறிக
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = பாதிப்பிற்குள்ளாகும் கடவுச்சொல்
+about-logins-vulnerable-alert-text2 = இந்த கடவுச்சொல் தரவு மீறலுக்குள்ளான மற்றொரு கணக்கில் பயன்படுத்தப்பட்டுள்ளது. சான்றுகளை மீண்டும் பயன்படுத்துவது தங்கள் எல்லா கணக்குகளையும் ஆபத்தில் வைக்கிறது. இந்த கடவுச்சொல்லை மாற்றவும்.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } தளத்திற்குச் செல்க
@@ -123,6 +139,8 @@ about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = இந்த கடவுச்சொல்லைச் சேமிக்க முயற்சிக்கும்போது பிழை ஏற்பட்டது.
 
 ## Login Export Dialog
 
