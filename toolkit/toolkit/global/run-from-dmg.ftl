@@ -9,7 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name }-installatie voltooien?
-prompt-to-install-message = Voltooi deze installatie in één stap om { -brand-short-name } up-to-date te houden en gegevensverlies te voorkomen. { -brand-short-name } wordt aan uw map Programma's en Dock toegevoegd.
+prompt-to-install-message = Voltooi deze installatie in één stap om { -brand-short-name } up-to-date te houden en gegevensverlies te voorkomen. { -brand-short-name } wordt aan uw map Programma’s en Dock toegevoegd.
 prompt-to-install-yes-button = Installeren
 prompt-to-install-no-button = Niet installeren
 
