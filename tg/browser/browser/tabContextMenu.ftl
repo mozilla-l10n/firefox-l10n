@@ -11,6 +11,12 @@ reload-tab =
 select-all-tabs =
     .label = Интихоб кардани ҳамаи варақаҳо
     .accesskey = И
+tab-context-play-tab =
+    .label = Пахш кардани варақа
+    .accesskey = П
+tab-context-play-tabs =
+    .label = Пахш кардани варақаҳо
+    .accesskey = П
 duplicate-tab =
     .label = Такроран кушодани варақа
     .accesskey = Т
@@ -106,4 +112,10 @@ tab-context-move-tabs =
            *[other] Ҷ
         }
     .accesskey = Ҷ
-
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [1] Фиристодани варақа ба дастгоҳ
+           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
+        }
+    .accesskey = Ф

@@ -9,6 +9,7 @@
 ## New changes screen
 
 upgrade-dialog-new-item-tabs-title = Варақаҳои ҳозиразамон
+upgrade-dialog-new-primary-default-button = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
 upgrade-dialog-new-primary-theme-button = Мавзӯеро интихоб кунед
 upgrade-dialog-new-secondary-button = Ҳоло не
 # This string is only shown on Windows 7, where we intentionally suppress the
