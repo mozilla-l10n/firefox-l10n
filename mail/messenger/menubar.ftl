@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Preferencias
     .accesskey = P
+menu-tools-settings =
+    .label = Ajustes
+    .accesskey = e
 menu-addons-and-themes =
     .label = Complementos y temas
     .accesskey = C
@@ -31,12 +34,21 @@ menu-help-more-troubleshooting-info =
 toolbar-junk-button =
     .label = Basura
     .tooltiptext = Marcar los mensajes seleccionados como basura
+toolbar-not-junk-button =
+    .label = No es basura
+    .tooltiptext = Marcar los mensajes seleccionados como no basura
 toolbar-delete-button =
     .label = Eliminar
     .tooltiptext = Eliminar mensajes o carpetas seleccionadas
+toolbar-undelete-button =
+    .label = Recuperar
+    .tooltiptext = Recuperar mensajes seleccionados
 
 ## View
 
+menu-view-repair-text-encoding =
+    .label = Reparar la codificación de texto
+    .accesskey = c
 
 ## View / Layout
 
@@ -55,3 +67,6 @@ mail-uidensity-touch =
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Cuenta de grupos de noticias…
+    .accesskey = N
