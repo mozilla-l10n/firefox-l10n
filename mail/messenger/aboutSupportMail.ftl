@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+accounts-title = Cuentas de correo y noticias
 accounts-ID = ID
 accounts-name = Nombre
 accounts-incoming-server = Servidor entrante
@@ -11,7 +12,5 @@ accounts-conn-security = Seguridad de la conexión
 accounts-auth-method = Método de autenticación
 accounts-default = ¿Predeterminado?
 identity-name = Identidad
-
 send-via-email = Enviar por correo electrónico
-
 app-basics-telemetry = Datos de telemetría
