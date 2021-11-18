@@ -490,6 +490,8 @@
 <!ENTITY deleteJunk.accesskey "x">
 <!ENTITY importCmd.label "Importa…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exporta…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Neteja l'historial recent…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Paràmetres dels comptes">
@@ -696,7 +698,6 @@
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
 <!ENTITY attachmentColumn.label "Adjuncions">
-
 <!ENTITY deleteColumn.label "Suprimeix">
 
 <!-- Thread Pane Tooltips -->
@@ -722,7 +723,6 @@
 <!ENTITY locationColumn2.tooltip "Ordena per ubicació">
 <!ENTITY idColumn2.tooltip "Ordena per ordre de recepció">
 <!ENTITY attachmentColumn2.tooltip "Ordena per adjuncions">
-
 <!ENTITY deleteColumn.tooltip "Suprimeix un missatge">
 
 <!-- Thread Pane Context Menu -->
