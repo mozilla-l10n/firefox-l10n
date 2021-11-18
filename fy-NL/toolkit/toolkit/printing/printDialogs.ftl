@@ -4,7 +4,7 @@
 
 print-setup =
     .title = Side-ynstellingen
-custom-prompt-title = Oanpast...
+custom-prompt-title = Oanpast…
 custom-prompt-prompt = Meitsje jo eigen kop-/fuottekst
 basic-tab =
     .label = Formaat & opsjes
@@ -90,20 +90,19 @@ hf-page =
 hf-page-and-total =
     .label = Side # fan #
 hf-custom =
-    .label = Oanpast...
+    .label = Oanpast…
 print-preview-window =
     .title = Ofdrukfoarbyld
 print-title =
     .value = Titel:
 print-preparing =
-    .value = Tarieding...
+    .value = Tarieding…
 print-progress =
     .value = Foartgong:
 print-window =
     .title = Ofdrukke
 print-complete =
     .value = Ofdrukken is klear.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
