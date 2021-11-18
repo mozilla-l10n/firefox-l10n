@@ -10,7 +10,7 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Sis hallo tsjin in nije { -brand-short-name }
-upgrade-dialog-new-subtitle = Untwurpen om jo flugger te bringen wêr't jo hinne wolle
+upgrade-dialog-new-subtitle = Untwurpen om jo flugger te bringen wêr’t jo hinne wolle
 upgrade-dialog-new-item-menu-title = Streamline arkbalke en menu’s
 upgrade-dialog-new-item-menu-description = Jou prioriteit oan de wichtige dingen, sadat jo fine wat jo nedich hawwe.
 upgrade-dialog-new-item-tabs-title = Moderne ljepblêden
@@ -82,7 +82,7 @@ upgrade-dialog-colorway-home-checkbox = Skeakel oer nei Firefox Home mei in tema
 upgrade-dialog-colorway-primary-button = Kleurstelling bewarje
 upgrade-dialog-colorway-secondary-button = Foarige tema behâlde
 upgrade-dialog-colorway-theme-tooltip =
-    .title = Standerttema's ferkenne
+    .title = Standerttema’s ferkenne
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
 upgrade-dialog-colorway-colorway-tooltip =
     .title = Kleurstellingen { $colorwayName } ûntdekke

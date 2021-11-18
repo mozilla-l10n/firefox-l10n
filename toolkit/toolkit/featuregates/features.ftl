@@ -40,7 +40,7 @@ experimental-features-css-constructable-stylesheets =
 experimental-features-css-constructable-stylesheets-description = De tafoeging fan in constructor oan de <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>-ynterface en in oantal relatearre wizigingen, makket it mooglik om daliks nije stylesheets te meitsjen sûnder it blêd ta te foegjen oan de HTML. Dit makket it folle makliker om op nij brûkbere stylesheets te meitsjen foar gebrûk mei <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sjoch <a data-l10n-name="bugzilla">bug 1520690</a> foar mear details.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
-experimental-features-devtools-color-scheme-simulation-description = Foeget in opsje ta om ferskate kleureskema's te simulearjen, sadat jo <a data-l10n-name="mdn-preferscolorscheme">@prefers-colour-scheme</a>-mediaquery's teste kinne. Mei help fan dizze mediaquery, kinne jo stylesheet reagearje op de fraach oft de brûker de foarkar jout oan in ljochte of donkere brûkersynterface. Mei dizze funksje kinne jo jo koade teste sûnder dat jo de ynstellingen yn jo browser (of bestjoeringssysteem, as de browser in systeembreed kleureskema folget) hoege te wizigjen. Sjoch <a data-l10n-name="bugzilla1">bug 1550804</a> en <a data-l10n-name="bugzilla2">bug 1137699</a> foar mear details.
+experimental-features-devtools-color-scheme-simulation-description = Foeget in opsje ta om ferskate kleureskema’s te simulearjen, sadat jo <a data-l10n-name="mdn-preferscolorscheme">@prefers-colour-scheme</a>-mediaquery's teste kinne. Mei help fan dizze mediaquery, kinne jo stylesheet reagearje op de fraach oft de brûker de foarkar jout oan in ljochte of donkere brûkersynterface. Mei dizze funksje kinne jo jo koade teste sûnder dat jo de ynstellingen yn jo browser (of bestjoeringssysteem, as de browser in systeembreed kleureskema folget) hoege te wizigjen. Sjoch <a data-l10n-name="bugzilla1">bug 1550804</a> en <a data-l10n-name="bugzilla2">bug 1137699</a> foar mear details.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
 experimental-features-devtools-execution-context-selector-description = Dizze funksje jout in knop wer op de opdrachtrigel fan de console wêrmei't jo de kontekst wizigje kinne wêryn de ekspresje dy’t jo ynfiere, útfierd wurdt. Sjoch <a data-l10n-name="bugzilla1">bug 1605154</a> en <a data-l10n-name="bugzilla2">bug 1605153</a> foar mear details.
@@ -64,7 +64,7 @@ experimental-features-abouthome-startup-cache-description = In opstartbuffer foa
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Behannelje cookies fan itselfe domein, mar mei ferskate skema's (bygelyks http://example.com en https://example.com) as cross-site yn stee fan deselfe site. Ferbetteret de befeiliging, mar soarget der mooglik foar dat de website net goed wurket.
+experimental-features-cookie-samesite-schemeful-description = Behannelje cookies fan itselfe domein, mar mei ferskate skema’s (bygelyks http://example.com en https://example.com) as cross-site yn stee fan deselfe site. Ferbetteret de befeiliging, mar soarget der mooglik foar dat de website net goed wurket.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging

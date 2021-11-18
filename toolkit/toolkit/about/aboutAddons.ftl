@@ -119,9 +119,9 @@ addon-category-discover-title =
 addon-category-extension = Utwreidingen
 addon-category-extension-title =
     .title = Utwreidingen
-addon-category-theme = Tema's
+addon-category-theme = Tema’s
 addon-category-theme-title =
-    .title = Tema's
+    .title = Tema’s
 addon-category-plugin = Ynstekkers
 addon-category-plugin-title =
     .title = Ynstekkers
@@ -228,7 +228,7 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Utwreidingen en tema's binne as apps foar jo browser en sy litte jo wachtwurden
+    Utwreidingen en tema’s binne as apps foar jo browser en sy litte jo wachtwurden
     beskermje, fideo’s downloade, oanbiedingen fine, ferfelende advertinsjes blokkearje, wizigje
     hoe't jo browser derút sjocht, en noch folle mear. Dizze lytse softwareprogramma's binne
     faaks ûntwikkele troch in tredde partij. Hjir is in seleksje dy’t { -brand-product-name }
@@ -254,7 +254,7 @@ install-theme-button = Tema ynstallearje
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Beheare
 find-more-addons = Mear add-ons sykje
-find-more-themes = Fyn mear tema's
+find-more-themes = Fyn mear tema’s
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -367,7 +367,7 @@ addon-permissions-required = Fereaske tastimmingen foar kernfunksjonaliteit:
 addon-permissions-optional = Opsjonele tastimmingen foar ekstra funksjonaliteit:
 addon-permissions-learnmore = Mear ynfo oer tastimmingen
 recommended-extensions-heading = Oanrekommandearre útwreidingen
-recommended-themes-heading = Oanrekommandearre tema's
+recommended-themes-heading = Oanrekommandearre tema’s
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Fiele jo jo kreätyf? <a data-l10n-name="link"> Bou jo eigen tema mei Firefox Color.</a>
