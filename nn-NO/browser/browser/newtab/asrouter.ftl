@@ -123,6 +123,8 @@ cfr-doorhanger-video-support-primary-button = Oppdater no
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Les meir
+    .title = Utvid for å lære meir om denne funksjonen
 spotlight-learn-more-expanded = Les meir
     .title = Lat att
 
