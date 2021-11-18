@@ -126,7 +126,7 @@ remove-search-engine =
     .label = Fuortsmite
     .accesskey = u
 add-opensearch-provider-title = OpenSearch-provider tafoegje
-add-opensearch-provider-text = Fier de URL yn fan de OpenSearch-provider dy’t jo tafoegje wolle. Brûk de direkte URL fan it OpenSearch-beskriuwingsbestân of in URL wêr't it automatysk fûn wurde kin.
+add-opensearch-provider-text = Fier de URL yn fan de OpenSearch-provider dy’t jo tafoegje wolle. Brûk de direkte URL fan it OpenSearch-beskriuwingsbestân of in URL wêr’t it automatysk fûn wurde kin.
 adding-opensearch-provider-failed-title = Tafoegjen fan OpenSearch-provider mislearre
 adding-opensearch-provider-failed-text = Kin OpenSearch-provider foar { $url } net tafoegje.
 minimize-to-tray-label =
@@ -343,7 +343,7 @@ choose-folder-label =
            *[other] B
         }
 always-ask-label =
-    .label = My altyd freegje wêr't bestannen bewarre wurde moatte
+    .label = My altyd freegje wêr’t bestannen bewarre wurde moatte
     .accesskey = M
 display-tags-text = Labels kinne brûkt wurde foar it kategorisearjen fan jo berjochten.
 new-tag-button =
