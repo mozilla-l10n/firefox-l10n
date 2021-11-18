@@ -22,7 +22,7 @@
 <!ENTITY removeButton.label "Account fuortsmite">
 <!ENTITY removeButton.accesskey "F">
 
-<!ENTITY addonsButton.label "Utwreidingen &amp; Tema's">
+<!ENTITY addonsButton.label "Utwreidingen &amp; Tema’s">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
