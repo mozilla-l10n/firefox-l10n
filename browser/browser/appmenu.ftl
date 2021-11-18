@@ -193,10 +193,21 @@ profiler-popup-presets-firefox-graphics-description = Preset consigliato per lâ€
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox - Grafica
 profiler-popup-presets-media-description = Preset consigliato per la diagnosi di problemi audio e video.
-profiler-popup-presets-media-label =
-    .label = Multimediale
+
 profiler-popup-presets-custom-label =
     .label = Personalizzato
+
+profiler-popup-presets-firefox-description = Preset consigliato per la profilazione di { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+  .label = { -brand-shorter-name }
+
+profiler-popup-presets-graphics-description = Preset per la diagnosi di problemi grafici in { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+  .label = Grafica
+
+profiler-popup-presets-media-description2 = Preset per la diagnosi di problemi audio e video in { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Multimediale
 
 ## History panel
 

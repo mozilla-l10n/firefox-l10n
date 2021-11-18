@@ -128,6 +128,14 @@ perftools-presets-web-developer-label = Sviluppo web
 perftools-presets-firefox-platform-description = Preset consigliato per il debug degli aspetti interni della piattaforma di Firefox.
 perftools-presets-firefox-platform-label = Firefox - Piattaforma
 
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Preset consigliato per la profilazione di { -brand-shorter-name }.
+
+perftools-presets-graphics-label = Grafica
+perftools-presets-graphics-description = Preset per la diagnosi di problemi grafici in { -brand-shorter-name }.
+
+perftools-presets-media-description2 = Preset per la diagnosi di problemi audio e video in { -brand-shorter-name }.
+
 perftools-presets-firefox-front-end-description = Preset consigliato per il debug degli aspetti interni dell’interfaccia (front-end) di Firefox.
 perftools-presets-firefox-front-end-label = Firefox - Front-end
 
