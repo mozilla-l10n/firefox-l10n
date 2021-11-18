@@ -3,7 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-button-cancel =
-    .label = Serra Vivaldi
+    .label = Serra
+profile-selection-new-button =
+    .label = Crea unu profilu…
+    .accesskey = C
 
 ## Messages used in the profile manager
 

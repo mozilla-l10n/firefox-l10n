@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Imposta polìticas a is chi WebExtensions potzant atzèdere pro mèdiu de chrome.storage.managed.
 policy-AllowedDomainsForApps = Defini is domìnios chi tenent su permissu de atzèdere a Google Workspace.
 policy-AppAutoUpdate = Ativa o disativa is atualizatziones in automàticu de s'aplicatzione.
 policy-AppUpdateURL = Cunfigura un'URL personalizadu de atualizatzione pro s'aplicatzione.
