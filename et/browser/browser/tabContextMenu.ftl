@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Uus kaart
+    .accesskey = U
 reload-tab =
     .label = Laadi kaart uuesti
     .accesskey = i
@@ -20,6 +23,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Klooni kaardid
     .accesskey = o
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Sulge vasakule jäävad kaardid
+    .accesskey = v
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Sulge paremale jäävad kaardid
     .accesskey = u
@@ -47,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Lisa kaart järjehoidjatesse
     .accesskey = j
+tab-context-open-in-new-container-tab =
+    .label = Ava uuel konteinerkaardil
+    .accesskey = u
 move-to-start =
     .label = Liiguta algusesse
     .accesskey = a
@@ -59,10 +72,23 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sulge mitu kaarti
     .accesskey = m
+tab-context-share-url =
+    .label = Jaga
+    .accesskey = J
+tab-context-share-more =
+    .label = Veel…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ava suletud kaart uuesti
+            [one] Ava suletud kaart uuesti
+           *[other] Ava suletud kaardid uuesti
+        }
+    .accesskey = d
 tab-context-close-tabs =
     .label =
         { $tabCount ->
@@ -70,6 +96,14 @@ tab-context-close-tabs =
            *[other] Sulge kaardid
         }
     .accesskey = S
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sulge kaart
+            [one] Sulge kaart
+           *[other] Sulge { $tabCount } kaarti
+        }
+    .accesskey = g
 tab-context-move-tabs =
     .label =
         { $tabCount ->
