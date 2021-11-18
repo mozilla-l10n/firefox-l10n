@@ -144,7 +144,9 @@ key-usage-certify = Certificar
 key-usage-authentication = Autenticación
 import-info-bits = Bits
 import-info-created = Creado
+import-info-fpr = Huella digital
 general-error = Error: { $reason }
+dlg-button-delete = &Eliminar
 
 ## Account settings export output
 

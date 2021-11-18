@@ -27,6 +27,9 @@ addons-and-themes-toolbarbutton =
 quick-filter-toolbarbutton =
     .label = Filtro rápido
     .tooltiptext = Filtrar mensajes
+redirect-msg-button =
+    .label = Redirigir
+    .tooltiptext = Redirigir mensaje seleccionado
 
 ## Folder Pane
 
@@ -55,6 +58,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+menu-file-save-as-file =
+    .label = Archivo…
+    .accesskey = F
 
 ## AppMenu
 
@@ -62,6 +68,10 @@ folder-toolbar-toggle-folder-compact-view =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferencias
+appmenu-save-as-file =
+    .label = Archivo…
+appmenu-settings =
+    .label = Ajustes
 appmenu-addons-and-themes =
     .label = Complementos y temas
 appmenu-help-enter-troubleshoot-mode =
@@ -70,6 +80,8 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar modo de resolución de problemas
 appmenu-help-more-troubleshooting-info =
     .label = Más información sobre resolución de problemas
+appmenu-redirect-msg =
+    .label = Redirigir
 
 ## Context menu
 
@@ -79,6 +91,9 @@ appmenu-help-more-troubleshooting-info =
 
 ## Action Button Context Menu
 
+toolbar-context-menu-manage-extension =
+    .label = Gestionar extensión
+    .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Eliminar extensión
     .accesskey = E
@@ -96,3 +111,4 @@ caret-browsing-prompt-check-text = No volver a preguntar.
 
 ## no-reply handling
 
+no-reply-reply-anyway-button = Responder de todos modos
