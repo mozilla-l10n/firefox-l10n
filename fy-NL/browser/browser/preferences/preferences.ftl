@@ -207,7 +207,7 @@ preferences-zoom-text-only =
     .label = Allinnich tekst ynzoome
     .accesskey = t
 language-header = Taal
-choose-language-description = Talen kieze dêr't websites yn werjûn wurde moatte.
+choose-language-description = Talen kieze dêr’t websites yn werjûn wurde moatte.
 choose-button =
     .label = Kieze…
     .accesskey = i
@@ -254,7 +254,7 @@ download-choose-folder =
            *[other] d
         }
 download-always-ask-where =
-    .label = My altyd freegje wêr't bestannen bewarre wurde moatte
+    .label = My altyd freegje wêr’t bestannen bewarre wurde moatte
     .accesskey = b
 applications-header = Applikaasjes
 applications-description = Kieze hoe't { -brand-short-name } omgiet mei de bestannen dy’t jo fan it web downloade of de tapassingen dy’t jo wylst it sneupen brûke.
@@ -706,7 +706,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = Add-ons
-    .tooltiptext = Utwreidingen en tema's foar Firefox foar desktop
+    .tooltiptext = Utwreidingen en tema’s foar Firefox foar desktop
     .accesskey = A
 sync-engine-settings =
     .label = Ynstellingen

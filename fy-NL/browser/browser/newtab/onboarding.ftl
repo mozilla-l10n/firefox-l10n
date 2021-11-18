@@ -286,10 +286,10 @@ mr2-onboarding-colorway-description =
     .aria-description = Kleurstellingen { $colorwayName } ûntdekke.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = Standerttema's ferkenne.
+    .title = Standerttema’s ferkenne.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
-    .aria-description = Standerttema's ferkenne.
+    .aria-description = Standerttema’s ferkenne.
 
 ## Strings for Thank You page
 

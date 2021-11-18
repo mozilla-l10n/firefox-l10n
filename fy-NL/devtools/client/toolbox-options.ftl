@@ -20,7 +20,7 @@ options-select-additional-tools-label = Untwikkelark ynstallearre troch add-ons
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Beskikbere arkknoppen
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = Tema's
+options-select-dev-tools-theme-label = Tema’s
 
 ## Inspector section
 
