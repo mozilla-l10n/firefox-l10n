@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adreças
 about-networking-expires = Expiracion (segondas)
 about-networking-originAttributesSuffix = Clau d’isolacion
+about-networking-flags = Flags suplementaris
 about-networking-messages-sent = Messatges mandats
 about-networking-messages-received = Messatges recebuts
 about-networking-bytes-sent = Octets mandats
