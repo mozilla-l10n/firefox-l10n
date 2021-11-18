@@ -24,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "De buffer is fol. Aldere monsters wurde no oerskreaun.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Opnimmen fan in profyl is op dit stuit net beskikber. Slút alle priveenavigaasjefinsters en probearje it opnij.">
@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Wetterfal">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Toant de ferskate bewurkingen dy't de browser útfiert wylst de opname, efterfolgjend werjûn as in wetterfal.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Toant de ferskate bewurkingen dy’t de browser útfiert wylst de opname, efterfolgjend werjûn as in wetterfal.">
 <!ENTITY performanceUI.toolbar.js-calltree "Oanropstruktuer">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Markearret JavaScript-funksjes wêroan de browser de measte tiid spendearre ûnder de opname.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Tawizingen">
@@ -48,11 +48,11 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Totale tiid">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "De hoemannichte bestege tiid yn dizze funksje en funksjes dy't dizze oanropt">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "De hoemannichte bestege tiid yn dizze funksje en funksjes dy’t dizze oanropt">
 <!ENTITY performanceUI.table.selfDuration             "Eigen tiid">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "De hoemannichte bestege tiid, allinnich binnen dizze funksje">
 <!ENTITY performanceUI.table.totalPercentage          "Totale kosten">
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "It persintaazje bestege tiid yn dizze funksje en funksjes dy't dizze oanropt">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "It persintaazje bestege tiid yn dizze funksje en funksjes dy’t dizze oanropt">
 <!ENTITY performanceUI.table.selfPercentage           "Eigen kosten">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "It persintaazje bestege tiid, allinnich binnen dizze funksje">
 <!ENTITY performanceUI.table.samples                  "Monsters">

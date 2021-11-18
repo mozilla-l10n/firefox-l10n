@@ -11,7 +11,7 @@ experimental-features-css-masonry-description = Makket stipe foar de eksperimint
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS: Cascade-lagen
-experimental-features-css-cascade-layers-description = Skeakelet stipe foar CSS Cascade Layers yn. Lês de <a data-l10n-name="spec">specificatie-in-wording</a> foar details. Meld bugs dy't <a data-l10n-name="bugzilla">bug 1699215</a> blokkearje foar bugs yn relaasje ta dizze funksje.
+experimental-features-css-cascade-layers-description = Skeakelet stipe foar CSS Cascade Layers yn. Lês de <a data-l10n-name="spec">specificatie-in-wording</a> foar details. Meld bugs dy’t <a data-l10n-name="bugzilla">bug 1699215</a> blokkearje foar bugs yn relaasje ta dizze funksje.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
@@ -26,7 +26,7 @@ experimental-features-media-avif-description = As dizze funksje ynskeakele is, s
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
-experimental-features-media-jxl-description = As dizze funksje ynskeakele is, stipet { -brand-short-name } de JPEG XL (JXL)-yndieling. Dit is in ferbettere bestânsyndieling foar ôfbyldingen dy't in ferliesfrije oergong fan tradisjonele JPEG-bestannen stipet. Sjoch <a data-l10n-name="bugzilla">bug 1539075</a> foar mear details.
+experimental-features-media-jxl-description = As dizze funksje ynskeakele is, stipet { -brand-short-name } de JPEG XL (JXL)-yndieling. Dit is in ferbettere bestânsyndieling foar ôfbyldingen dy’t in ferliesfrije oergong fan tradisjonele JPEG-bestannen stipet. Sjoch <a data-l10n-name="bugzilla">bug 1539075</a> foar mear details.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -43,7 +43,7 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = Foeget in opsje ta om ferskate kleureskema's te simulearjen, sadat jo <a data-l10n-name="mdn-preferscolorscheme">@prefers-colour-scheme</a>-mediaquery's teste kinne. Mei help fan dizze mediaquery, kinne jo stylesheet reagearje op de fraach oft de brûker de foarkar jout oan in ljochte of donkere brûkersynterface. Mei dizze funksje kinne jo jo koade teste sûnder dat jo de ynstellingen yn jo browser (of bestjoeringssysteem, as de browser in systeembreed kleureskema folget) hoege te wizigjen. Sjoch <a data-l10n-name="bugzilla1">bug 1550804</a> en <a data-l10n-name="bugzilla2">bug 1137699</a> foar mear details.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Execution Context Selector
-experimental-features-devtools-execution-context-selector-description = Dizze funksje jout in knop wer op de opdrachtrigel fan de console wêrmei't jo de kontekst wizigje kinne wêryn de ekspresje dy't jo ynfiere, útfierd wurdt. Sjoch <a data-l10n-name="bugzilla1">bug 1605154</a> en <a data-l10n-name="bugzilla2">bug 1605153</a> foar mear details.
+experimental-features-devtools-execution-context-selector-description = Dizze funksje jout in knop wer op de opdrachtrigel fan de console wêrmei't jo de kontekst wizigje kinne wêryn de ekspresje dy’t jo ynfiere, útfierd wurdt. Sjoch <a data-l10n-name="bugzilla1">bug 1605154</a> en <a data-l10n-name="bugzilla2">bug 1605153</a> foar mear details.
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
 experimental-features-devtools-compatibility-panel-description = In sidepaniel foar de Page Inspector dat ynformaasje toant oer de kompatibiliteitssteat fan de browser yn jo app. Sjoch <a data-l10n-name="bugzilla">bug 1584464</a> foar mear details.
@@ -85,7 +85,7 @@ experimental-features-js-warp-description = Warp ynskeakelje, in projekt om de p
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (website-isolaasje)
-experimental-features-fission-description = Fission (website-isolaasje) is in eksperimintele funksje yn { -brand-short-name } dy't in ekstra beskermingslaach biedt tsjin befeiligingsbugs. Troch elke website yn in apart proses te isolearjen, makket Fission it swierder foar kweawollende websites om tagong te krijen ta ynformaasje fan oare troch jo besochte siden. Dit is in grutte wiziging yn de arsjitektuer fan { -brand-short-name } en wy stelle it op priis as jo it teste en alle problemen dy't jo tsjinkomme rapportearje. Foar mear details, sjoch <a data-l10n-name="wiki">de wiki</a>.
+experimental-features-fission-description = Fission (website-isolaasje) is in eksperimintele funksje yn { -brand-short-name } dy’t in ekstra beskermingslaach biedt tsjin befeiligingsbugs. Troch elke website yn in apart proses te isolearjen, makket Fission it swierder foar kweawollende websites om tagong te krijen ta ynformaasje fan oare troch jo besochte siden. Dit is in grutte wiziging yn de arsjitektuer fan { -brand-short-name } en wy stelle it op priis as jo it teste en alle problemen dy’t jo tsjinkomme rapportearje. Foar mear details, sjoch <a data-l10n-name="wiki">de wiki</a>.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Stipe foar mear Picture-in-picture

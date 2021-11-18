@@ -19,8 +19,8 @@ about-telemetry-current-store = Aktuele winkel:
 about-telemetry-more-information = Sykje jo mear ynformaasje?
 about-telemetry-firefox-data-doc = De <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> befettet hantliedingen oer it wurkjen mei ús gegevensark.
 about-telemetry-telemetry-client-doc = De <a data-l10n-name="client-doc-link">Firefox Telemetry-clientdokumintaasje</a> befettet definysjes foar konsepten, API-dokumintaasje en gegevensferwizingen.
-about-telemetry-telemetry-dashboard = Mei de <a data-l10n-name="dashboard-link">Telemetry-dashboerds</a> kinne jo de gegevens fisualisearje dy't Mozilla fia Telemetry ûntfangt.
-about-telemetry-telemetry-probe-dictionary = De <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> biedt details en beskriuwingen foar de probes dy't troch Telemetry sammele wurde.
+about-telemetry-telemetry-dashboard = Mei de <a data-l10n-name="dashboard-link">Telemetry-dashboerds</a> kinne jo de gegevens fisualisearje dy’t Mozilla fia Telemetry ûntfangt.
+about-telemetry-telemetry-probe-dictionary = De <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> biedt details en beskriuwingen foar de probes dy’t troch Telemetry sammele wurde.
 about-telemetry-show-in-Firefox-json-viewer = Iepenje yn de JSON-viewer
 about-telemetry-home-section = Startside
 about-telemetry-general-data-section = Algemiene gegevens

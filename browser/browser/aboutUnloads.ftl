@@ -8,23 +8,23 @@
 
 about-unloads-page-title = Ljepblêden ûntlade
 about-unloads-intro-1 =
-    { -brand-short-name } hat in funksje dy't automatysk ljepblêden ûntlaadt
+    { -brand-short-name } hat in funksje dy’t automatysk ljepblêden ûntlaadt
     om foar te kommen dat de tapassing ferûngelokket fanwegen ûnfoldwaande ûnthâld
-    wannear't it beskikbere systeemûnthâld leech is. It folgjende ljepblêd dat ûntladen wurde moat wurdt
+    wannear’t it beskikbere systeemûnthâld leech is. It folgjende ljepblêd dat ûntladen wurde moat wurdt
     keazen op basis fan meardere eigenskippen. Dizze side lit sjen hoe't
     { -brand-short-name } prioriteit jout oan ljepblêden en hokker ljepblêd ûntladen wurdt
     wannear it ûntladen fan ljepblêden aktivearre wurdt.
 about-unloads-intro-2 =
     Besteande ljepblêden wurde yn de ûndersteande tabel yn deselde folchoarder toand as yn
     { -brand-short-name } om it folgjende te ûntladen ljepblêd te kiezen. Proses-ID’s wurde
-    toand yn <strong>fet</strong> wannear't se it boppenste frame fan it ljepblêd hoste,
-    en yn <em>kursyf</em> wannear't it proses dield wurdt tusken ferskillende
+    toand yn <strong>fet</strong> wannear’t se it boppenste frame fan it ljepblêd hoste,
+    en yn <em>kursyf</em> wannear’t it proses dield wurdt tusken ferskillende
     ljepblêden. Jo kinne it ûntladen fan ljepblêden hânmjittich aktivearje troch hjirûnder op de knop
     <em>Untlade</em> te klikken.
 about-unloads-intro =
-    { -brand-short-name } hat in funksje dy't automatysk ljepblêden ûntlaadt
+    { -brand-short-name } hat in funksje dy’t automatysk ljepblêden ûntlaadt
     om foar te kommen dat de tapassing ferûngelokket fanwegen net genôch ûnthâld
-    wannear't it beskikbere systeemûnthâld leech is. It folgjende ljepblêd dat ûntladen wurde moat wurdt
+    wannear’t it beskikbere systeemûnthâld leech is. It folgjende ljepblêd dat ûntladen wurde moat wurdt
     keazen op basis fan meardere eigenskippen. Dizze side lit sjen hoe
     { -brand-short-name } prioriteit jout oan ljepblêden en hokker ljepblêd ûntladen wurdt
     wannear it ûntladen fan ljepblêden aktivearre wurdt. Jo kinne hânmjittich it ûntladen fan ljepblêden
@@ -48,7 +48,7 @@ about-unloads-column-sortweight = Sekundêr gewicht
 about-unloads-column-memory = Unthâld
     .title = It skatte ûnthâldgebrûk fan it ljepblêd
 about-unloads-column-processes = Proses-ID’s
-    .title = ID’s fan de prosessen dy't de ynhâld fan it ljepblêd hoste
+    .title = ID’s fan de prosessen dy’t de ynhâld fan it ljepblêd hoste
 about-unloads-last-accessed = { DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

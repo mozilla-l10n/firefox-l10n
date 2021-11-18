@@ -77,6 +77,7 @@ upgrade-dialog-start-secondary-button = No net
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Kies jo palet
+# This is shown to users with a custom home page, so they can switch to default.
 upgrade-dialog-colorway-home-checkbox = Skeakel oer nei Firefox Home mei in tematyske eftergrûn
 upgrade-dialog-colorway-primary-button = Kleurstelling bewarje
 upgrade-dialog-colorway-secondary-button = Foarige tema behâlde
@@ -112,5 +113,5 @@ upgrade-dialog-colorway-variation-bold = Stevich
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Tank dat jo keazen hawwe foar ús
-upgrade-dialog-thankyou-subtitle = { -brand-short-name } is in ûnôfhinklike browser dy't stipe wurdt troch in non-profit. Tegearre meitsje wy it web feiliger, sûner en mear privee.
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } is in ûnôfhinklike browser dy’t stipe wurdt troch in non-profit. Tegearre meitsje wy it web feiliger, sûner en mear privee.
 upgrade-dialog-thankyou-primary-button = Start mei browsen

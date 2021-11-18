@@ -29,7 +29,7 @@ perftools-description-intro =
     Opnamen starte <a>profiler.firefox.com</a> yn in nij ljepblêd. Alle gegevens wurde lokaal
     bewarre, mar jo kinne derfoar kieze se op te laden om se te dielen.
 perftools-description-local-build =
-    As jo in build profilearje dy't jo sels, op dizze masine, kompilearre hawwe,
+    As jo in build profilearje dy’t jo sels, op dizze masine, kompilearre hawwe,
     foegje dan de objdir fan jo build oan de ûndersteande list ta, sadat
     dizze brûkt wurde kin om symboalynformaasje op te sykjen.
 
@@ -80,7 +80,7 @@ perftools-thread-compositor =
 perftools-thread-dom-worker =
     .title = Dit ferwurket sawol webworkers as serviceworkers
 perftools-thread-renderer =
-    .title = As WebRender ynskeakele is, de thread dy't OpenGL-oanroppen útfiert
+    .title = As WebRender ynskeakele is, de thread dy’t OpenGL-oanroppen útfiert
 perftools-thread-render-backend =
     .title = De WebRender RenderBackend-thread
 perftools-thread-paint-worker =
@@ -102,7 +102,7 @@ perftools-thread-task-controller =
 
 perftools-record-all-registered-threads = Boppesteande seleksje pasearje en alle registrearre threads opnimme
 perftools-tools-threads-input-label =
-    .title = Dizze threadnammen binne in kommaskieden list, dy't brûkt wurdt om it profilearjen fan de threads yn de profiler mooglik te meitsjen. De namme hoecht mar in part oerien te kommen mei de threadnamme om opnommen te wurden. Gefoelich foar wytromte.
+    .title = Dizze threadnammen binne in kommaskieden list, dy’t brûkt wurdt om it profilearjen fan de threads yn de profiler mooglik te meitsjen. De namme hoecht mar in part oerien te kommen mei de threadnamme om opnommen te wurden. Gefoelich foar wytromte.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled

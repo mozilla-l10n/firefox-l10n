@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>It liket derop dat it website wol bestiet, mar it is net slagge om der ferbining mei te meitsjen.</p><ul><li>Miskien is it website tydlik net beskikber? Probearje it letter nochris.</li><li>Kinne jo ek gjin oare websites besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in brânmuorre of proxy? Ferkearde ynstellingen kinne it funksjonearjen dêrfan by it websneupjen opkeare.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Poarte beheind om befeiligingsredenen">
-<!ENTITY deniedPortAccess.longDesc "<p>It frege adres spesifisearret in poarte (byg. <q>mozilla.org:80</q> foar poarte 80 op mozilla.org) dy't normaal sprutsen foar <em>oare</em> doelen as websneupjen brûkt wurdt. De browser hat it fersyk foar jo beskerming en feilichheid annulearre.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>It frege adres spesifisearret in poarte (byg. <q>mozilla.org:80</q> foar poarte 80 op mozilla.org) dy’t normaal sprutsen foar <em>oare</em> doelen as websneupjen brûkt wurdt. De browser hat it fersyk foar jo beskerming en feilichheid annulearre.</p>">
 
 <!ENTITY dnsNotFound.title "Adres net fûn">
 <!ENTITY dnsNotFound.longDesc "<p>De browser koe de hostserver foar it opjûne adres net fine.</p><ul><li>Ha jo in flater makke by it yntypen fan it domein? (byg. <q><strong>ww</strong>.mozilla.org</q> yn stee fan <q><strong>www</strong>.mozilla.org</q>)</li><li>Wit jo seker dat dit domeinadres bestiet? De registraasje derfan kin ferrûn wêze.</li><li>Kin jo gjin oare websites besykje? Kontrolearje jo netwurkferbining en DNS-serverynstellingen.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in firewall of proxy? Ferkearde ynstellingen kinne in goede wurking wylst it webbrowsen tsjin gean.</li></ul>">
@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei it frege ûnderdiel.</p><ul><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li>Klik &quot;Probearje opnij&quot; om nei online modus te gean en laad de side opnij.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Ynhâldkodearringsflater">
-<!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in flater of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>De side dy’t jo probearje te besjen kin net toant wurde, want it brûkt in flater of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Unfeilich bestânstype">
 <!ENTITY unsafeContentType.longDesc "
@@ -63,13 +63,13 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>De browser is konfigurearre om in proxyserver te brûken, mar de proxy koe net fûn wurde.</p><ul><li>Is de proxykonfiguraasje fan de browser in oarder? Kontrolearje de ynstellingen en probearje it opnij.</li><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li>Ha jo noch hieltyd problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
 <!ENTITY redirectLoop.title "Uneindige lusk">
-<!ENTITY redirectLoop.longDesc "<p>De browser is stoppe mei te probearjen it opfrege item op te heljen. It website ferwiist de oanfraach troch op in manier dy't nea dien wêze sil.</p><ul><li>Ha jo cookies dy't nedich binne foar dizze website útskeakele of blokkearre?</li><li><em>NOAT</em>: as it akseptearjen fan cookies fan dizze website it probleem net oplost is it wierskynlik in serverkonfiguraasjeprobleem en net jo kompjûter.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>De browser is stoppe mei te probearjen it opfrege item op te heljen. It website ferwiist de oanfraach troch op in manier dy’t nea dien wêze sil.</p><ul><li>Ha jo cookies dy’t nedich binne foar dizze website útskeakele of blokkearre?</li><li><em>NOAT</em>: as it akseptearjen fan cookies fan dizze website it probleem net oplost is it wierskynlik in serverkonfiguraasjeprobleem en net jo kompjûter.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Ferkeard antwurd">
 <!ENTITY unknownSocketType.longDesc "<p>De website antwurde op in ûnferwachte manier op de netwurkoanfraach en de browser kin net trochgean.</p>">
 
 <!ENTITY nssFailure2.title "Befeilige ferbining mislearre">
-<!ENTITY nssFailure2.longDesc2 "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>De side dy’t jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
 
 <!ENTITY nssBadCert.title "Feilige ferbining mislearre">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -80,7 +80,7 @@
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje…">
 <!ENTITY securityOverride.warningContent "
-<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining brûke dy't jo net folslein fertrouwe, of as jo normaal sprutsen gjin warskôging krije foar dizze server.</p>
+<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining brûke dy’t jo net folslein fertrouwe, of as jo normaal sprutsen gjin warskôging krije foar dizze server.</p>
 <p>As jo dochs in útsûndering foar dizze website tafoegje wolle, kinne jo dat dwaan yn jo avansearre fersiferingsynstellingen.</p>
 ">
 
@@ -91,7 +91,7 @@
 <!ENTITY xfoBlocked.longDesc "<p>De browser hat opkeard dat de side yn dizze kontekst laden waard, omdat de side in belied foar X-Frame-Options hat dat dit net tastiet.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Skansearre-ynhâldsflater">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy’t jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul></p>">
@@ -99,9 +99,9 @@
 <!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy’t kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkearre side">
 
 <!ENTITY networkProtocolError.title "Netwurkprotokolflater">
-<!ENTITY networkProtocolError.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn it netwurkprotokol detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>De side dy’t jo besjen wolle kin net werjûn wurde, omdat der in flater yn it netwurkprotokol detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">

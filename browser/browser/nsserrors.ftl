@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Flater bard wylst in ferbining mei { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Flaterkoade: { $error }
-
 psmerr-ssl-disabled = Kin gjin befeilige ferbining opsette, omdat it SSL-protokol útskeakele is.
 psmerr-ssl2-disabled = Kin gjin befeilige ferbining opsette, omdat de side in âldere, minder feilige ferzje fan it SSL-protokol brûkt.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Jo hawwe in ûnjildich sertifikaat ûntfangen. Nim kontakt op mei de serverbehearder of e-mailkorrespondint en jou harren de folgjende ynformaasje:
     
     Jo sertifikaat hat itselde searjenûmer as in oar troch de sertifikaatautoriteit útjûn sertifikaat. Helje in nij sertifikaat mei in unyk searjenûmer op.
-
 ssl-error-export-only-server = Befeilige kommunikaasje net mooglik.  Peer stipet gjin hege graad fan fersifering.
 ssl-error-us-only-server = Befeilige kommunikaasje net mooglik.  Peer fereasket hege graad fan fersifering, hokker net stipe wurd.
 ssl-error-no-cypher-overlap = Kin net befeiligd kommunisearje mei peer: gjin algemien(e) fersiferingsalgoritme(n).
@@ -115,12 +112,12 @@ ssl-error-cert-kea-mismatch = It oanbean sertifikaat kin net brûkt wurde mei it
 ssl-error-no-trusted-ssl-client-ca = Gjin fertroude sertifikaatautoriteit foar SSL-clientautentikaasje.
 ssl-error-session-not-found = SSL-sesje-ID fan client net fûn in sesjebuffer fan server.
 ssl-error-decryption-failed-alert = Peer koe ûntfongen SSL-record net ûntsiferje.
-ssl-error-record-overflow-alert = Peer ûntfong in SSL-record dy't langer wie as tastien.
-ssl-error-unknown-ca-alert = Peer herkent en fertrout de CA net dy't jo sertifikaat hat útjûn.
+ssl-error-record-overflow-alert = Peer ûntfong in SSL-record dy’t langer wie as tastien.
+ssl-error-unknown-ca-alert = Peer herkent en fertrout de CA net dy’t jo sertifikaat hat útjûn.
 ssl-error-access-denied-alert = Peer ûntfong in jildich sertifikaat, mar tagong wurde wegere.
 ssl-error-decode-error-alert = Peer koe in SSL-handshakeberjocht net ûntsiferje.
 ssl-error-decrypt-error-alert = Peer rapporteart flater by ûndertekeningsferifikaasje of kaai-útwikseling.
-ssl-error-export-restriction-alert = Peer rapporteart ûnderhanneling dy't eksportregulaasjes net neilibbet.
+ssl-error-export-restriction-alert = Peer rapporteart ûnderhanneling dy’t eksportregulaasjes net neilibbet.
 ssl-error-protocol-version-alert = Peer rapporteart net-kompatibele of net-stipe protokolferzje.
 ssl-error-insufficient-security-alert = Server fereasket feiliger kodearringen as hokker troch client stipe wurde.
 ssl-error-internal-error-alert = Peer rapporteart in ynterne flater.
@@ -153,9 +150,9 @@ ssl-error-unsupported-hash-algorithm = Net stipe hash-algoritme brûkt troch TLS
 ssl-error-digest-failure = Digest-funksje mislearre.
 ssl-error-incorrect-signature-algorithm = Ferkearde ûndertekeneingsalgoritme spesifisearre yn in digitaal-ûndertekene elemint.
 ssl-error-next-protocol-no-callback = De folgjene protokolûndehannelingsútwreiding is útskeakele, mar de callback wie wiske eardat it ferwacht waard.
-ssl-error-next-protocol-no-protocol = De server stipet gjin protokollen dy't de client foarstelt yn de ALPN-útwreiding.
+ssl-error-next-protocol-no-protocol = De server stipet gjin protokollen dy’t de client foarstelt yn de ALPN-útwreiding.
 ssl-error-inappropriate-fallback-alert = De server wegere de handshake, omdat de client nei in legere TLS-ferzje brocht is as de server stipet.
-ssl-error-weak-server-cert-key = It serversertifikaat befette in iepenbiere kaai dy't te swak wie.
+ssl-error-weak-server-cert-key = It serversertifikaat befette in iepenbiere kaai dy’t te swak wie.
 ssl-error-rx-short-dtls-read = Net genôch romte yn buffer foar DTLS-record.
 ssl-error-no-supported-signature-algorithm = Der is gjin stipe TLS-ûndertekening konfigurearre.
 ssl-error-unsupported-signature-algorithm = De peer brûkte in net-stipe kombinaasje fan ûndertekening en hash-algoritme.
@@ -225,7 +222,7 @@ sec-error-krl-bad-signature = De KRL foar it sertifikaat fan dizze website hat i
 sec-error-revoked-key = De kaai foar it sertifikaat fan dizze website is ynlûkt.
 sec-error-krl-invalid = Nije KRL hat in ûnjildich formaat.
 sec-error-need-random = befeiligingsbiblioteek: samar wat gegevens nedich.
-sec-error-no-module = befeiligingsbiblioteek: gjin befeiligingsmodule dy't de frege bewurking útfiere kin.
+sec-error-no-module = befeiligingsbiblioteek: gjin befeiligingsmodule dy’t de frege bewurking útfiere kin.
 sec-error-no-token = De befeiligingskaart of -token bestiet net, moat inisjalisearre wurde, of is fuortsmiten.
 sec-error-read-only = befeiligingsbiblioteek: allinnich-lêzendatabase.
 sec-error-no-slot-selected = Gjin leech plak of token selektearre.
@@ -338,8 +335,8 @@ sec-error-locked-password = It wachtwurd is fêstsetten.
 sec-error-unknown-pkcs11-error = Unbekende PKCS #11-flater.
 sec-error-bad-crl-dp-url = Unjildige of net-stipe URL yn CRL-distribúsjepuntennamme.
 sec-error-cert-signature-algorithm-disabled = It sertifikaat is fersifere mei in ûndertekening dat is útskeakele, omdat it ûnfeilich is.
-mozilla-pkix-error-key-pinning-failure = De server brûkt kaaipinning (HPKP), mar der kin gjin fertroude sertifikaatketen makke dy't mei de pinset oerienkomt. Skeining fan kaaipinning kin net negearre wurde.
-mozilla-pkix-error-ca-cert-used-as-end-entity = De server brûkt in sertifikaat mei in basisbetingst-útwreiding dy't identifisearret as in sertifikaatautoriteit. Foar in korrekt útjûn sertifikaat, soe dit net it gefal wêze moatte.
+mozilla-pkix-error-key-pinning-failure = De server brûkt kaaipinning (HPKP), mar der kin gjin fertroude sertifikaatketen makke dy’t mei de pinset oerienkomt. Skeining fan kaaipinning kin net negearre wurde.
+mozilla-pkix-error-ca-cert-used-as-end-entity = De server brûkt in sertifikaat mei in basisbetingst-útwreiding dy’t identifisearret as in sertifikaatautoriteit. Foar in korrekt útjûn sertifikaat, soe dit net it gefal wêze moatte.
 mozilla-pkix-error-inadequate-key-size = De server hat in sertifikaat mei in te lytse kaaigrutte presintearre om in befeilige ferbining te meitsjen.
 mozilla-pkix-error-v1-cert-used-as-ca = Foar it útjaan fan it sertifikaat fan de server is in X.509 ferzje 1-sertifikaat brûkt dat gjin fertrouensanker is. X.509 ferzje 1-sertifikaten wurde net mear stipe en kinne better net foar it ûndertekenjen fan oare sertifikaten brûkt wurde.
 mozilla-pkix-error-not-yet-valid-certificate = De server presintearre in sertifikaat dat noch net falide is.
@@ -348,7 +345,7 @@ mozilla-pkix-error-signature-algorithm-mismatch = It ûndertekeningsalgoritme yn
 mozilla-pkix-error-ocsp-response-for-cert-missing = It OCSP-antwurd befettet gjin steat foar it sertifikaat dat ferifiearre wurdt.
 mozilla-pkix-error-validity-too-long = De server hat in sertifikaat presintearre dat te lang jildich is.
 mozilla-pkix-error-required-tls-feature-missing = Der ûntbrekt in fereaske TLS-funksje.
-mozilla-pkix-error-invalid-integer-encoding = De server hat in sertifikaat presintearre dat in ûnjildige kodearring fan in integer befettet. Gebrûklike oarsaken omfetsje negative searjenûmers, negative RSA-moduli, en kodearringen dy't langer binne as nedich.
+mozilla-pkix-error-invalid-integer-encoding = De server hat in sertifikaat presintearre dat in ûnjildige kodearring fan in integer befettet. Gebrûklike oarsaken omfetsje negative searjenûmers, negative RSA-moduli, en kodearringen dy’t langer binne as nedich.
 mozilla-pkix-error-empty-issuer-name = De server presintearre in sertifikaat mei in lege namme foar de ûnderskiedende útjouwer.
 mozilla-pkix-error-additional-policy-constraint-failed = In oanfoljende beliedsbeheining is mislearre by it falidearjen fan dit sertifikaat.
 mozilla-pkix-error-self-signed-cert = It sertifikaat is net fertroud, omdat it sels ûndertekene is.

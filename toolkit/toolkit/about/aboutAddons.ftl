@@ -101,14 +101,14 @@ disabled-unsigned-heading =
     .value = Guon add-ons binne útskeakele
 disabled-unsigned-description = De folgjende add-ons binne net ferifiearre foar gebrûk yn { -brand-short-name }. Jo kinne <label data-l10n-name="find-addons">nei ferfangingen sykje</label> of de ûntwikkeler freegje dizze ferifiearje te litten.
 disabled-unsigned-learn-more = Mear ynfo oer ús besykjen om jo online feilich te hâlden.
-disabled-unsigned-devinfo = Untwikkelers dy't ynteresse hawwe yn it ferifiearjen litten fan harren add-ons kinne fierdergean troch ús <label data-l10n-name="learn-more">hantlieding</label> te lêzen.
+disabled-unsigned-devinfo = Untwikkelers dy’t ynteresse hawwe yn it ferifiearjen litten fan harren add-ons kinne fierdergean troch ús <label data-l10n-name="learn-more">hantlieding</label> te lêzen.
 plugin-deprecation-description = Misse jo wat? Guon ynstekkers wurde net langer stipe troch { -brand-short-name }. <label data-l10n-name="learn-more">Mear ynfo.</label>
 legacy-warning-show-legacy = Ferâldere útwreidingen toane
 legacy-extensions =
     .value = Ferâldere útwreidingen
 legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
 private-browsing-description2 =
-    { -brand-short-name } wizigt de manier wêrop útwreidingen yn priveenavigaasje wurkje. Nije útwreidingen dy't jo oan
+    { -brand-short-name } wizigt de manier wêrop útwreidingen yn priveenavigaasje wurkje. Nije útwreidingen dy’t jo oan
     { -brand-short-name } tafoegje, wurkje standert net yn priveefinsters. Utsein jo dit tastean yn de ynstellingen, wurket
     de útwreiding net yn priveenavigaasje, en hat dizze dêryn gjin tagong ta jo online-aktiviteiten.
     Dizze wiziging is oanbrocht om jo priveenavigaasje privee te hâlden.
@@ -231,7 +231,7 @@ discopane-intro =
     Utwreidingen en tema's binne as apps foar jo browser en sy litte jo wachtwurden
     beskermje, fideo’s downloade, oanbiedingen fine, ferfelende advertinsjes blokkearje, wizigje
     hoe't jo browser derút sjocht, en noch folle mear. Dizze lytse softwareprogramma's binne
-    faaks ûntwikkele troch in tredde partij. Hjir is in seleksje dy't { -brand-product-name }
+    faaks ûntwikkele troch in tredde partij. Hjir is in seleksje dy’t { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">oanrekommandearret</a> foar bjusterbaarlike
     befeiliging, prestaasjes en funksjonaliteit.
 # Notice to make user aware that the recommendations are personalized.
@@ -345,7 +345,7 @@ addon-detail-private-browsing-disallow = Net tastean
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy't foldogge oan ús noarms foar feilichheid en prestaasjes.
+    .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy’t foldogge oan ús noarms foar feilichheid en prestaasjes.
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
