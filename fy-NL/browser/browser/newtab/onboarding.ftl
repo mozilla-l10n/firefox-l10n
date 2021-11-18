@@ -34,7 +34,7 @@ return-to-amo-add-extension-label = De útwreiding tafoegje
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Wolkom by <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = De flugge, feilige en priveebrowser dy't stipe wurdt troch in non-profitorganisaasje.
+onboarding-multistage-welcome-subtitle = De flugge, feilige en priveebrowser dy’t stipe wurdt troch in non-profitorganisaasje.
 onboarding-multistage-welcome-primary-button-label = Ynstellen starte
 onboarding-multistage-welcome-secondary-button-label = Oanmelde
 onboarding-multistage-welcome-secondary-button-text = Hawwe jo in account?
@@ -294,5 +294,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Tank dat jo keazen hawwe foar ús
-mr2-onboarding-thank-you-text = { -brand-short-name } is in ûnôfhinklike browser dy't stipe wurdt troch in non-profit. Tegearre meitsje wy it web feiliger, sûner en mear privee.
+mr2-onboarding-thank-you-text = { -brand-short-name } is in ûnôfhinklike browser dy’t stipe wurdt troch in non-profit. Tegearre meitsje wy it web feiliger, sûner en mear privee.
 mr2-onboarding-start-browsing-button-label = Start mei browsen

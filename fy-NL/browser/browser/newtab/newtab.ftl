@@ -207,7 +207,7 @@ newtab-section-header-pocket = Oanrekommandearre troch { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Start mei sneupen en wy toane jo guon moaie artikelen, fideo's en oare siden dy't jo resint besocht hawwe of in blêdwizer fan makke hawwe.
+newtab-empty-section-highlights = Start mei sneupen en wy toane jo guon moaie artikelen, fideo's en oare siden dy’t jo resint besocht hawwe of in blêdwizer fan makke hawwe.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -230,7 +230,7 @@ newtab-pocket-new-topics-title = Wolle jo noch mear ferhalen? Besjoch dizze popu
 newtab-pocket-more-recommendations = Mear oanrekommandaasjes
 newtab-pocket-learn-more = Mear ynfo
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
-newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
+newtab-pocket-cta-text = Bewarje de ferhalen dy’t jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is ûnderdiel fan de { -brand-product-name }-famylje
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Bewarje nei { -pocket-brand-name }
