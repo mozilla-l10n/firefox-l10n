@@ -232,9 +232,9 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Extensies en thema's zijn als apps voor uw browser en zij laten u wachtwoorden
+    Extensies en thema’s zijn als apps voor uw browser en zij laten u wachtwoorden
     beschermen, video’s downloaden, koopjes vinden, vervelende advertenties blokkeren, wijzigen
-    hoe uw browser eruit ziet, en nog veel meer. Deze kleine softwareprogramma's zijn
+    hoe uw browser eruit ziet, en nog veel meer. Deze kleine softwareprogramma’s zijn
     vaak ontwikkeld door een derde partij. Hier is een selectie die { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">aanbeveelt</a> voor uitstekende
     beveiliging, prestaties en functionaliteit.
