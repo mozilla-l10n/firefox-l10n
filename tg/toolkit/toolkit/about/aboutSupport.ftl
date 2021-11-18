@@ -37,7 +37,7 @@ troubleshoot-mode-title = Ташхис кардани мушкилиҳо
 restart-in-troubleshoot-mode-label = Реҷаи ислоҳи нуқсонҳо…
 clear-startup-cache-title = Пок кардани зерҳофизаи оғози кори барнома
 clear-startup-cache-label = Поксозии зерҳофизаи оғози кор…
-startup-cache-dialog-title2 = { -brand-short-name }-ро барои пок кардани зерҳофизаи\nоғози кори барнома аз нав оғоз мекунед?
+startup-cache-dialog-title2 = { -brand-short-name }-ро барои поксозии зерҳофизаи оғози кор аз нав оғоз мекунед?
 startup-cache-dialog-body2 = Ин амал танзимоти шуморо иваз намекунад ё васеъшавиҳоро тоза намекунад.
 restart-button-label = Аз нав оғоз кардан
 
