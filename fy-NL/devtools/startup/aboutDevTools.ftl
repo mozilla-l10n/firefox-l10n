@@ -18,7 +18,7 @@ newsletter-title = Mozilla Developer nijsbrief
 newsletter-message = Untfang ûntwikkelersnijs, trúks en helpboarnen streekrjocht yn jo Postfek YN.
 newsletter-email-placeholder =
     .placeholder = E-mailadres
-newsletter-privacy-label = Ik bin it iens mei hoe't jo mei dizze gegevens omgeane, lykas útlein yn jo <a data-l10n-name="privacy-policy">privacybelied</a>.
+newsletter-privacy-label = Ik bin it iens mei hoe’t jo mei dizze gegevens omgeane, lykas útlein yn jo <a data-l10n-name="privacy-policy">privacybelied</a>.
 newsletter-subscribe-button = Abonnearje
 newsletter-thanks-title = Tank!
 newsletter-thanks-message = As jo noch net earder in ynskriuwing foar in Mozilla-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.

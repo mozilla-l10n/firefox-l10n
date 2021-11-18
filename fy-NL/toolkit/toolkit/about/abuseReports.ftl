@@ -2,26 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport foar { $addon-name }
-
 abuse-report-title-extension = Dizze tafoeging rapportearje oan { -vendor-short-name }
 abuse-report-title-theme = Dit tema rapportearje oan { -vendor-short-name }
 abuse-report-subtitle = Wat is it probleem?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = troch <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Binne jo net wis hokker probleem jo selektearje moatte?
     <a data-l10n-name="learnmore-link">Mear ynfo oer it rapportearjen fan útwreidingen en tema’s</a>
-
 abuse-report-submit-description = Beskriuw it probleem (opsjoneel)
 abuse-report-textarea =
     .placeholder = It is makliker foar ús om in probleem te behanneljen as wy details hawwe. Beskriuw it probleem dat jo hawwe. Tank foar jo help by it sûn hâlden fan it web.
@@ -35,12 +30,6 @@ abuse-report-cancel-button = Annulearje
 abuse-report-next-button = Folgjende
 abuse-report-goback-button = Tebek
 abuse-report-submit-button = Yntsjinje
-
-## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
 
 ## Message bars descriptions.
 ##
@@ -69,18 +58,14 @@ abuse-report-messagebar-action-cancel = Annulearje
 
 abuse-report-damage-reason-v2 = It hat myn kompjûter skansearre of myn gegevens kompromittearre
 abuse-report-damage-example = Foarbyld: hat malware ynjektearre of gegevens stellen
-
 abuse-report-spam-reason-v2 = It befettet spam of foeget net winske advertinsjes ta
 abuse-report-spam-example = Foarbyld: foeget advertinsjes ta oan websiden
-
 abuse-report-settings-reason-v2 = It hat sûnder dit te melden of te freegjen myn sykmasine, startside of nije ljepblêd wizige
 abuse-report-settings-suggestions = Eardat jo de útwreiding meldt, kinne jo probearje jo ynstellingen te wizigjen:
 abuse-report-settings-suggestions-search = Jo standert sykynstellingen wizigje
 abuse-report-settings-suggestions-homepage = Jo startside en nij ljepblêd wizigje
-
 abuse-report-deceptive-reason-v2 = It docht him foar as wat oars
 abuse-report-deceptive-example = Foarbyld: misliedende beskriuwing of ôfbyldingen
-
 abuse-report-broken-reason-extension-v2 = It wurket net, soarget derfoar dat websites net wurkje of fertraget { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = It wurket net of soarget derfoar dat de browserwerjefte net wurket
 abuse-report-broken-example = Foarbyld: funksjes binne stadich, swier te brûken of wurkje net; dielen fan websites lade net of sjogge der ûngebrûklik út
@@ -89,14 +74,10 @@ abuse-report-broken-suggestions-theme =
     It klinkt as oft jo in bug fûn hawwe. Neist it hjir yntsjinjen fan in rapport, is de bêste manier
     om in funksjoneel probleem op te lossen, kontakt op te nimmen mei de ûntwikkeler fan it tema.
     <a data-l10n-name="support-link">Besykje de website fan it tema</a> foar ynformaasje oer de ûntwikkeler.
-
 abuse-report-policy-reason-v2 = It befettet haatdragende, gewelddiedige of yllegale ynhâld
 abuse-report-policy-suggestions =
     Opmerking: problemen mei auteursrjochten en hannelsmerken moatte yn in ôfsûnderlik proses melden wurde.
     <a data-l10n-name="report-infringement-link">Folgje dizze ynstruksjes</a> om it probleem te melden.
-
-abuse-report-unwanted-reason-v2 = Ik haw it nea wold en wit net hoe't ik der fan ôf komme moat
+abuse-report-unwanted-reason-v2 = Ik haw it nea wold en wit net hoe’t ik der fan ôf komme moat
 abuse-report-unwanted-example = Foarbyld: in tapassing hat dizze sûnder myn tastimming ynstallearre
-
 abuse-report-other-reason = Wat oars
-

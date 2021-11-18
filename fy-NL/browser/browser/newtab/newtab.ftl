@@ -124,7 +124,7 @@ newtab-privacy-modal-paragraph-2 =
     goed trochljochte ynhâld fan selektearre sponsors. Wês gerêst, <strong>jo navigaasjegegevens
     ferlitte nea jo persoanlike eksimplaar fan { -brand-product-name }</strong> – wy krije se net te sjen,
     en ús sponsors ek net.
-newtab-privacy-modal-link = Untdek hoe't privacy wurket op it nije ljepblêd
+newtab-privacy-modal-link = Untdek hoe’t privacy wurket op it nije ljepblêd
 
 ##
 

@@ -367,7 +367,7 @@ support-printing-prefs-value = Wearde
 support-remote-experiments-title = Eksterne eksperiminten
 support-remote-experiments-name = Namme
 support-remote-experiments-branch = Eksperiminttak
-support-remote-experiments-see-about-studies = Sjoch <a data-l10n-name="support-about-studies-link">about:studies</a> foar mear ynformaasje, wêrûnder hoe't jo yndividuele eksperiminten útskeakelje kinne of foarkomme kinne dat{ -brand-short-name } dit soarte eksperiminten yn de takomst útfiert.
+support-remote-experiments-see-about-studies = Sjoch <a data-l10n-name="support-about-studies-link">about:studies</a> foar mear ynformaasje, wêrûnder hoe’t jo yndividuele eksperiminten útskeakelje kinne of foarkomme kinne dat{ -brand-short-name } dit soarte eksperiminten yn de takomst útfiert.
 support-remote-features-title = Eksterne funksjes
 support-remote-features-name = Namme
 support-remote-features-status = Steat

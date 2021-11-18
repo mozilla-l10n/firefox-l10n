@@ -230,7 +230,7 @@ header-back-button =
 discopane-intro =
     Utwreidingen en tema’s binne as apps foar jo browser en sy litte jo wachtwurden
     beskermje, fideo’s downloade, oanbiedingen fine, ferfelende advertinsjes blokkearje, wizigje
-    hoe't jo browser derút sjocht, en noch folle mear. Dizze lytse softwareprogramma's binne
+    hoe’t jo browser derút sjocht, en noch folle mear. Dizze lytse softwareprogramma's binne
     faaks ûntwikkele troch in tredde partij. Hjir is in seleksje dy’t { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">oanrekommandearret</a> foar bjusterbaarlike
     befeiliging, prestaasjes en funksjonaliteit.

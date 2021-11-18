@@ -87,7 +87,7 @@ extension-controlled-privacy-containers = In útwreiding, <img data-l10n-name="i
 extension-controlled-websites-content-blocking-all-trackers = In útwreiding, <img data-l10n-name="icon"/> { $name }, hat behear oer dizze ynstelling.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = De útwreiding <img data-l10n-name="icon"/> { $name } bepaalt hoe't { -brand-short-name } ferbining makket mei it ynternet.
+extension-controlled-proxy-config = De útwreiding <img data-l10n-name="icon"/> { $name } bepaalt hoe’t { -brand-short-name } ferbining makket mei it ynternet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -257,7 +257,7 @@ download-always-ask-where =
     .label = My altyd freegje wêr’t bestannen bewarre wurde moatte
     .accesskey = b
 applications-header = Applikaasjes
-applications-description = Kieze hoe't { -brand-short-name } omgiet mei de bestannen dy’t jo fan it web downloade of de tapassingen dy’t jo wylst it sneupen brûke.
+applications-description = Kieze hoe’t { -brand-short-name } omgiet mei de bestannen dy’t jo fan it web downloade of de tapassingen dy’t jo wylst it sneupen brûke.
 applications-filter =
     .placeholder = Bestânstypen of tapassingen sykje
 applications-type-column =
@@ -548,7 +548,7 @@ search-separate-default-engine =
     .label = Dizze sykmasine yn priveefinsters brûke
     .accesskey = s
 search-suggestions-header = Sykfoarstellen
-search-suggestions-desc = Kies hoe't sykfoarstellen fan sykmasinen werjûn wurde.
+search-suggestions-desc = Kies hoe’t sykfoarstellen fan sykmasinen werjûn wurde.
 search-suggestions-option =
     .label = Sykfoarstellen jaan
     .accesskey = S
