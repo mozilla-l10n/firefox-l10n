@@ -123,6 +123,7 @@ account-setup-addon-install-title = Instalar
 
 ## Success view
 
+account-setup-settings-button = Ajustes de la cuenta
 account-setup-signature-button = Agregar una firma
 account-setup-dictionaries-button = Descargar diccionarios
 account-setup-button-finish = Finalizar
