@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 accounts-title = Cuentas de correo y noticias
+show-private-data-main-text = Incluye nombres de cuenta
 accounts-ID = ID
 accounts-name = Nombre
 accounts-incoming-server = Servidor entrante
