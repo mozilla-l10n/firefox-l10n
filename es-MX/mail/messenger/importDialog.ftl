@@ -4,4 +4,7 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
+import-from-thunderbird-dir =
+    .label = Thunderbird (carpeta de perfil)
+    .accesskey = T
+zip-file-too-big-title = Archivo zip demasiado grande
