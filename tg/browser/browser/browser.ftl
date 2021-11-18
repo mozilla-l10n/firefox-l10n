@@ -384,7 +384,7 @@ popup-screen-sharing-block =
     .label = Манъ кардан
     .accesskey = М
 popup-screen-sharing-always-block =
-    .label = Ҳамеша манъ кардан
+    .label = Ҳамеша манъ карда шавад
     .accesskey = Ҳ
 popup-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
 
