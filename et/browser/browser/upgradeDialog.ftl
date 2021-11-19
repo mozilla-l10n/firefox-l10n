@@ -16,6 +16,13 @@ upgrade-dialog-new-item-menu-description = Esikohal on olulisemad asjad, et leia
 upgrade-dialog-new-item-tabs-title = Kaasaegsed kaardid
 upgrade-dialog-new-item-tabs-description = Sisaldavad asjalikku sisu, mis toetab keskendumist ja paindlikku liikumist.
 upgrade-dialog-new-item-icons-title = Värsked ikoonid ja selgemad sõnumid
+upgrade-dialog-new-item-icons-description = Aitab leida tee kergema puudutusega.
+upgrade-dialog-new-primary-default-button = Määra { -brand-short-name } vaikebrauseriks
+upgrade-dialog-new-primary-theme-button = Vali teema
+upgrade-dialog-new-secondary-button = Mitte praegu
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Olgu, sain aru!
 
 ## Pin Firefox screen
 ##
@@ -23,6 +30,12 @@ upgrade-dialog-new-item-icons-title = Värsked ikoonid ja selgemad sõnumid
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Hoia { -brand-short-name } dokis
+       *[other] Kinnita { -brand-short-name } tegumiribale
+    }
 
 ## Default browser screen
 
