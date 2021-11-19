@@ -83,6 +83,14 @@ places-remove-folder =
 places-edit-folder2 =
     .label = Ẓreg Akaram…
     .accesskey = k
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Kkes akaram
+            [one] Kkes akaram
+           *[other] Kkes ikaramen
+        }
+    .accesskey = K
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Ticraḍ n yisebtar yettusefraken
@@ -102,9 +110,23 @@ places-remove-bookmark =
            *[other] Kkes ticraḍ n yisebtar
         }
     .accesskey = k
+places-show-in-folder =
+    .label = Sken deg ukaram
+    .accesskey = S
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Kkes ticreḍt n usebter
+            [one] Kkes ticreḍt n usebter
+           *[other] Kkes ticraḍ n yisebtar
+        }
+    .accesskey = K
 places-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
     .accesskey = S
+places-forget-about-this-site-confirmation-title = Ttu asmel-a
 places-forget-about-this-site-forget = Ttu
 places-library =
     .title = Tamkarḍit
