@@ -134,6 +134,9 @@ mr1-onboarding-theme-label-alpenglow = ایلپینگلو
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = طے شدہ تھیمز دریافت کریں۔
 
 ## Strings for Thank You page
 

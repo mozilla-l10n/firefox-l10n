@@ -110,6 +110,8 @@ cfr-doorhanger-video-support-primary-button = ابھی تازہ کاری کری�
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-expanded = مزید سیکھیں
+    .title = بند کریں
 
 ## VPN promotion dialog for public Wi-Fi users
 ##

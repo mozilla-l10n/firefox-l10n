@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-yes-button = تنصیب کریں
+prompt-to-install-no-button = انسٹال نہ کریں۔
 
 ## Strings for a dialog that opens if the installation failed.
 
