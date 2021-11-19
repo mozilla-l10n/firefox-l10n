@@ -5,6 +5,7 @@
 
 ## Header
 
+account-setup-success-title = Cuenta creada correctamente
 
 ## Form fields
 
@@ -17,12 +18,24 @@ account-setup-email-label = Dirección de correo electrónico
     .accesskey = D
 account-setup-email-input =
     .placeholder = john.doe@example.com
+account-setup-email-warning-icon =
+    .title = Dirección de correo electrónico no válido
+account-setup-password-label = Contraseña
+    .accesskey = C
+    .title = Opcional, solo es usará para validar el nombre de usuario
+account-provisioner-button = Obtener una nueva dirección de correo electrónico
+    .accesskey = O
 account-setup-password-toggle =
     .title = Mostrar/ocultar contraseña
 account-setup-password-toggle-hide =
     .title = Ocultar contraseña
 account-setup-remember-password = Recordar contraseña
     .accesskey = m
+account-setup-exchange-label = Tu inicio de sesión
+    .accesskey = i
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = TUDOMINIO\tunombredeusuario
 
 ## Action buttons
 

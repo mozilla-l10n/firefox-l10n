@@ -23,3 +23,4 @@ developer-link = Documentación para desarrolladores
 read = Leer mensajes
 compose = Escribir un nuevo mensaje
 search = Buscar mensajes
+e2e = Cifrado de extremo a extremo
