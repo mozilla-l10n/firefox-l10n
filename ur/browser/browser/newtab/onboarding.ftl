@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding modal / about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
-## These button action text can be split onto multiple lines, so use explicit
-## newlines in translations to control where the line break appears (e.g., to
-## avoid breaking quoted text).
-
-## Welcome modal dialog strings
-
-
 ### UI strings for the simplified onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -24,32 +12,11 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
-
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
-
-## Welcome full page string
-
-## Firefox Sync modal dialog strings.
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-## Message strings belonging to the Return to AMO flow
-
 onboarding-not-now-button-label = ابھی نہیں
 
 ## Custom Return To AMO onboarding strings
@@ -66,12 +33,9 @@ onboarding-multistage-welcome-subtitle = تیز ، محفوظ ، اور نجی �
 onboarding-multistage-welcome-primary-button-label = سیٹ اپ شروع کریں
 onboarding-multistage-welcome-secondary-button-label = سائن ان کریں
 onboarding-multistage-welcome-secondary-button-text = کیا آپ کا اکاؤنٹ ہے؟
-
 onboarding-multistage-set-default-primary-button-label = طے شدہ بنائیں
 onboarding-multistage-set-default-secondary-button-label = ابھی نہیں
-
 onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } کو میرا بنیادی برائوزر بنائیں
-
 onboarding-multistage-import-subtitle = کسی دوسرے براؤزر سے آرہے ہیں؟ سب چیزوں کو { -brand-short-name } پر لانا آسان ہے۔
 onboarding-multistage-import-primary-button-label = درآمد شروع کریں
 onboarding-multistage-import-secondary-button-label = ابھی نہیں
@@ -80,15 +44,12 @@ onboarding-multistage-import-secondary-button-label = ابھی نہیں
 
 onboarding-multistage-theme-primary-button-label2 = ہوگیا
 onboarding-multistage-theme-secondary-button-label = ابھی نہیں
-
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = خودکار
-
 onboarding-multistage-theme-label-light = ہلکا
 onboarding-multistage-theme-label-dark = گہرا
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -97,7 +58,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = آگ یہاں سے شروع ہوتی ہے
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = متحرک تصاویر بند کردیں
 
@@ -117,9 +77,7 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = شروع کریں
-
 mr1-onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
-
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کو میرا طے شدہ برائوزر بنائیں
@@ -135,23 +93,28 @@ mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائی
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = یہ سب اپنے ساتھ لائیں
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } سے درآمد کریں
-
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = پچھلے براؤزر سے درآمد کریں
 mr1-onboarding-import-secondary-button-label = ابھی نہیں
-
+mr2-onboarding-colorway-secondary-button-label = ابھی نہیں
+mr2-onboarding-colorway-label-soft = نرم
+mr2-onboarding-colorway-label-balanced = متوازن
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = بولڈ
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = خودکار
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = طے شدہ
 mr1-onboarding-theme-header = اسے اپنا بنائیں
 mr1-onboarding-theme-primary-button-label = تھیم کو محفوظ کریں
 mr1-onboarding-theme-secondary-button-label = ابھی نہیں
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = سسٹم تھیم
-
 mr1-onboarding-theme-label-light = ہلکا
 mr1-onboarding-theme-label-dark = گہرا
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -168,5 +131,10 @@ mr1-onboarding-theme-label-alpenglow = ایلپینگلو
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+
+## Strings for Thank You page
+
+mr2-onboarding-thank-you-header = ہمیں منتخب کرنے کے لیے آپ کا شکریہ
