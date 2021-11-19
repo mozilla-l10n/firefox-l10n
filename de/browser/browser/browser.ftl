@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = Schalter für Bild-im-Bild (PiP) ausblenden
     .accesskey = B
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Schalter für Bild-im-Bild (PiP) nach rechts verschieben
+    .accesskey = r
+picture-in-picture-move-toggle-left =
+    .label = Schalter für Bild-im-Bild (PiP) nach links verschieben
+    .accesskey = l
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
