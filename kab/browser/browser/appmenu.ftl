@@ -184,10 +184,19 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Uzwirfren yettuwellhen i tuget n tseɣtit n usnas web, s uwzir fessusen maḍi.
 profiler-popup-presets-web-developer-label =
     .label = Aneflay web
+profiler-popup-presets-firefox-platform-description = Uzwirfren yettuwellhen i tseɣtit tagensant n tɣerɣert n Firefox.
 profiler-popup-presets-firefox-platform-label =
     .label = Tiɣerɣert n Firefox
+profiler-popup-presets-firefox-front-end-description = Uzwirfren yettuwellhen i tseɣtit tagensant n ugrudem n Firefox.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Agrudem n Firefox
+profiler-popup-presets-firefox-graphics-description = Uzwirfren yettuwellhen i tezrawt n temlellit n wudlifen n Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Udlifen n Firefox
+profiler-popup-presets-media-description = Uzwirfren yettuwellhen i tesleḍt n wuguren n umeslaw d tvidyut.
 profiler-popup-presets-media-label =
     .label = Allalen n teywalt
 profiler-popup-presets-custom-label =

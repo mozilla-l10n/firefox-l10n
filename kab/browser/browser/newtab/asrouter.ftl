@@ -124,6 +124,8 @@ cfr-doorhanger-video-support-primary-button = Leqqem tura
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Issin ugar
+    .title = Snefli akken ad tissineḍ ugar ɣef tmahilt
 spotlight-learn-more-expanded = Issin ugar
     .title = Mdel
 
@@ -133,6 +135,8 @@ spotlight-learn-more-expanded = Issin ugar
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Akka yettban tseqqdaceḍ Wi-Fi azayaz
 spotlight-public-wifi-vpn-primary-button = Qqim d uslig s { -mozilla-vpn-brand-name }
     .accesskey = Q
 spotlight-public-wifi-vpn-link = Mačči tura
