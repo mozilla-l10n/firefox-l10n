@@ -8,7 +8,6 @@
 newtab-page-title = نیا ٹیب
 newtab-settings-button =
     .title = اپنے نئے ٹیب کہ صفحہ کی تخصیص کریں
-
 newtab-personalize-dialog-label =
     .aria-label = ‏‏تخصیص کریں
 
@@ -18,18 +17,16 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = تلاش
     .aria-label = تلاش
-
 newtab-search-box-handoff-text-no-engine = پتہ تلاش یا داخل کریں
 newtab-search-box-handoff-input-no-engine =
     .placeholder = تلاش کریں یا پتہ داخل کریں
     .title = تلاش کریں یا پتہ داخل کریں
     .aria-label = تلاش کریں یا پتہ داخل کریں
-
 newtab-search-box-search-the-web-input =
     .placeholder = ويب پر تلاش کريں
     .title = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
-
+newtab-search-box-text = ويب پر تلاش کريں
 newtab-search-box-input =
     .placeholder = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
@@ -44,12 +41,10 @@ newtab-topsites-edit-shortcut-header = شارٹ کٹ میں ترمیم کریں
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ایک عنوان داخل کریں
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ٹائپ کریں یا ایک URL چسباں کریں
 newtab-topsites-url-validation = جائز URL درکار ہے
-
 newtab-topsites-image-url-label = مخصوص نقش کا URL
 newtab-topsites-use-image-link = ایک مخصوص تصویر استعمال کریں…
 newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہا۔ براہ مہربانی ایک مختلف URL کو آزمائیں۔
@@ -78,12 +73,10 @@ newtab-topsite-sponsored = سپانسر شدہ
 newtab-menu-section-tooltip =
     .title = مینیو کھولیں
     .aria-label = مینیو کھولیں
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ہٹائیں
     .aria-label = ہٹائیں
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -151,7 +144,6 @@ newtab-label-removed-bookmark = نشانی ہٹا دی گئی
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -191,7 +183,6 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 
 newtab-empty-section-highlights = برائوزنگگ شروع کریں،اور ہم آپ کو کچھ بہترین عبارات، وڈیوز اور حالیہ دورہ شددہ دیگر صفحات یا نشانیاں دکھائیں گے۔
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = آپ پکڑے گئے!
@@ -208,6 +199,16 @@ newtab-pocket-read-more = مشہور مضامین:
 newtab-pocket-more-recommendations = اور زیادہ سفارشات
 newtab-pocket-learn-more = مزید سیکھیں
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name } میں محفوظ کریں
+newtab-pocket-saved-to-pocket = { -pocket-brand-name } میں محفوظ شدہ
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = مزید کہانیاں لوڈ کریں۔
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-desc = مزید کے لیے بعد میں دوبارہ پڑتال کریں۔
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -218,6 +219,7 @@ newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے 
 ## Customization Menu
 
 newtab-custom-shortcuts-title = تیز راہ
+newtab-custom-shortcuts-subtitle = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } قطار
@@ -225,5 +227,4 @@ newtab-custom-row-selector =
     }
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
-
 newtab-custom-settings = مزید سیٹنگز کو نظم کریں
