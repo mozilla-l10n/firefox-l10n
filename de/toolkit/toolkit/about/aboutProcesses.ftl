@@ -62,6 +62,7 @@ about-processes-unknown-process = Andere: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, Service-Worker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, groß)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, quellübergreifend isoliert)
 about-processes-web-isolated-process-private = { $origin } – Privat ({ $pid })

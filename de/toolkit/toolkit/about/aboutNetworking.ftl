@@ -29,6 +29,7 @@ about-networking-trr = TRR (Trusted Recursive Resolver)
 about-networking-addresses = Adressen
 about-networking-expires = Läuft ab (Sekunden)
 about-networking-originAttributesSuffix = Isolationsschlüssel
+about-networking-flags = Zusätzliche Flaggen
 about-networking-messages-sent = Nachrichten gesendet
 about-networking-messages-received = Nachrichten empfangen
 about-networking-bytes-sent = Bytes gesendet
