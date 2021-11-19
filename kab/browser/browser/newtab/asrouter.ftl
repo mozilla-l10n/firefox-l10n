@@ -144,4 +144,5 @@ spotlight-public-wifi-vpn-link = Mačči tura
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
 spotlight-total-cookie-protection-secondary-button = Mačči tura

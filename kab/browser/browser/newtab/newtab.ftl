@@ -222,17 +222,25 @@ newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-t
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Isental ittwasnen aṭas:
+newtab-pocket-new-topics-title = Tebɣiḍ ugar n yimagraden? Wali isental-a yettwassnen aṭas seg { -pocket-brand-name }
 newtab-pocket-more-recommendations = Ugar n iwellihen
 newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult n { -brand-product-name }
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Sekles ɣer { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Yettwakles ɣer { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Sali-d ugar n tqessiḍin
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Aql-ak·akem tezziḍ-d akk!
+newtab-pocket-last-card-desc = Uɣal-d ticki ad tesnimreḍ ugar n ugbur.
+newtab-pocket-last-card-image =
+    .alt = Aql-ak·akem tezziḍ-d akk!
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

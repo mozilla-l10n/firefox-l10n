@@ -262,7 +262,14 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Seqdec asentel arurad, s yini aččuran i tqeffalin,
         umuɣen d yiwfuyla.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Snirem isental imezwer.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Snirem isental imezwer.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Tanemmirt imi d nekkni i tferneḍ
 mr2-onboarding-start-browsing-button-label = Bdu tunigin
