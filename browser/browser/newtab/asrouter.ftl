@@ -142,3 +142,4 @@ spotlight-public-wifi-vpn-link = Қазір емес
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = Қазір емес

@@ -129,6 +129,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ішін�
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 mr1-onboarding-import-secondary-button-label = Қазір емес
+mr2-onboarding-colorway-header = Түрлі-түсті өмір
 mr2-onboarding-colorway-secondary-button-label = Қазір емес
 mr2-onboarding-colorway-label-soft = Жұмсақ
 mr2-onboarding-colorway-label-balanced = Теңгерілген
