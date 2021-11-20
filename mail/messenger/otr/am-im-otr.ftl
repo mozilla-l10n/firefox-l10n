@@ -4,3 +4,14 @@
 
 account-encryption =
     .label = Cifrado de extremo a extremo
+otr-encryption-title = Cifrado verificado
+otr-fingerprint-label = Tu huella digital:
+view-fingerprint-button =
+    .label = Administrar huellas digitales de contactos
+    .accesskey = F
+otr-settings-title = Ajustes OTR
+otr-log =
+    .label = Incluir mensajes cifrados OTR en los registros de conversaciones
+otr-require-encryption =
+    .label = Requiere cifrado de extremo a extremo para conversaciones uno a uno
+otr-not-yet-available = aún no disponible
