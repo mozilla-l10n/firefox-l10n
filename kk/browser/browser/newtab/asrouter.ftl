@@ -119,15 +119,26 @@ cfr-doorhanger-video-support-header = Видеоны ойнату үшін { -br
 cfr-doorhanger-video-support-primary-button = Қазір жаңарту
     .accesskey = у
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Көбірек білу
+    .title = Бұл мүмкіндік туралы көбірек білу үшін ашыңыз
+spotlight-learn-more-expanded = Көбірек білу
+    .title = Жабу
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Жалпыға ортақ Wi-Fi қолданып жатқан сияқтысыз
 spotlight-public-wifi-vpn-body = Орналасқан жеріңізді және шолу әрекетін жасыру үшін виртуалды жеке желіні қарастырыңыз. Бұл әуежайлар мен кофеханалар сияқты қоғамдық орындардан шолу кезінде сізді қорғауға көмектеседі.
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } көмегімен жекелікті сақтаңыз
     .accesskey = с
 spotlight-public-wifi-vpn-link = Қазір емес
     .accesskey = м
+
+## Total Cookie Protection Rollout
+

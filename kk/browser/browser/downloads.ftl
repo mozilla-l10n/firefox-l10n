@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Finder ішінен көрсету
     .accesskey = ш
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Бумада көрсету
+           *[other] Бумада көрсету
+        }
+    .accesskey = б
 downloads-cmd-use-system-default =
     .label = Жүйелік көрсету қолданбасында ашу
     .accesskey = л
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Әрқашан жүйелік көрсету қолданбасында ашу
     .accesskey = ш
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Finder ішінен көрсету
            *[other] Файл орналасқан буманы ашу
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Осындай файлдарды әрқашан ашу
+    .accesskey = ш
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Бумада көрсету
+           *[other] Бумада көрсету
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Бумада көрсету
+           *[other] Бумада көрсету
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Бумада көрсету
+           *[other] Бумада көрсету
         }
 downloads-cmd-show-downloads =
     .label = Жүктемелер бумасын көрсету
@@ -162,3 +194,11 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Бұл сессия үшін жүктемелер жоқ.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+       *[other] Тағы { $count } файл жүктеп алынуда
+    }
