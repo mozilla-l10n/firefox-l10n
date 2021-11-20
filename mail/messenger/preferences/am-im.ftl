@@ -12,3 +12,5 @@ chat-encryption-status = Estado de cifrado
 chat-encryption-sessions = Sesiones
 chat-encryption-session-verify = verificar
     .title = Verificar la identidad de esta sesión
+chat-encryption-session-trusted = confiable
+    .title = La identidad de esta sesión está verificada
