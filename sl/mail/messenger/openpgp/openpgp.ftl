@@ -4,6 +4,16 @@
 
 e2e-intro-description = Za pošiljanje šifriranih ali digitalno podpisanih sporočil morate nastaviti tehnologijo šifriranja, bodisi OpenPGP bodisi S/MIME.
 e2e-intro-description-more = Izberite si osebni ključ za omogočitev uporabe OpenPGP ali osebno digitalno potrdilo za omogočitev uporabe S/MIME. Za osebni ključ ali digitalno potrdilo imate ustrezen skrivni ključ.
+e2e-advanced-section = Napredne nastavitve
+e2e-attach-key =
+    .label = Ob dodajanju digitalnega podpisa OpenPGP priloži moj javni ključ
+    .accesskey = j
+e2e-encrypt-subject =
+    .label = Šifriraj zadevo sporočil OpenPGP
+    .accesskey = z
+e2e-encrypt-drafts =
+    .label = Shranjuj osnutke sporočil v šifrirani obliki
+    .accesskey = o
 openpgp-key-user-id-label = Račun/ID uporabnika
 openpgp-keygen-title-label =
     .title = Ustvari ključ OpenPGP
@@ -282,6 +292,10 @@ openpgp-radio-none-desc = Ne uporabljaj OpenPGP za to identiteto.
 openpgp-radio-key-expires = Datum preteka: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Pretekel: { $date }
+openpgp-key-expires-within-6-months-icon =
+    .title = Ključ bo pretekel čez manj kot 6 mesecev
+openpgp-key-has-expired-icon =
+    .title = Veljavnost ključa je pretekla
 openpgp-key-expand-section =
     .tooltiptext = Več informacij
 openpgp-key-revoke-title = Prekliči ključ
@@ -418,8 +432,22 @@ msg-compose-cannot-save-draft = Napaka pri shranjevanju osnutka
 save-attachment-header = Shrani dešifrirano priponko
 cannot-send-sig-because-no-own-key = Tega sporočila ni mogoče digitalno podpisati, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
 cannot-send-enc-because-no-own-key = Tega sporočila ni mogoče poslati šifrirano, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
+compose-menu-attach-key =
+    .label = Priloži moj javni ključ
+    .accesskey = P
+compose-menu-encrypt-subject =
+    .label = Šifriranje zadeve
+    .accesskey = z
 do-import-one = Uvozi { $name } ({ $id })?
 cant-import = Napaka pri uvažanju javnega ključa
+# Strings used in encryption.jsm
+not-required = Napaka – šifriranje ni zahtevano
+# Strings used in windows.jsm
+no-photo-available = Ni razpoložljive fotografije
+# Strings used in dialog.jsm
+repeat-prefix = To opozorilo se bo ponovilo še { $count }-
+repeat-suffix-singular = krat.
+repeat-suffix-plural = krat.
 no-repeat = To opozorilo ne bo več prikazano.
 dlg-keep-setting = Zapomni si moj odgovor in me ne vprašaj več
 dlg-button-ok = &V redu
