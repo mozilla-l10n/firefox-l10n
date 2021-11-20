@@ -167,6 +167,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basic na Estilo ng Pahina
     .accesskey = b
+menu-view-repair-text-encoding =
+    .label = Ayusin ang Pag-encode ng Teksto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -217,6 +220,8 @@ menu-history-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 menu-bookmarks-menu =
     .label = Mga Bookmark
     .accesskey = B
+menu-bookmarks-manage =
+    .label = Pamahalaan ang mga Bookmark
 menu-bookmark-current-tab =
     .label = I-bookmark ang Kasalukuyang Tab
 menu-bookmark-edit =

@@ -126,6 +126,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Mag-record ng performance profile
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = The profiler is recording a profile
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = The profiler is capturing a profile
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -176,6 +182,14 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Web Developer
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox Platform
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox Front-End
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox Graphics
 
 ## History panel
 

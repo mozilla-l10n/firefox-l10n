@@ -5,6 +5,12 @@
 places-open =
     .label = Buksan
     .accesskey = O
+places-open-in-tab =
+    .label = Buksan sa Bagong Tab
+    .accesskey = g
+places-open-all-bookmarks =
+    .label = Buksan ang Lahat ng mga Bookmark
+    .accesskey = B
 places-open-all-in-tabs =
     .label = Buksan Lahat sa mga Tab
     .accesskey = O
