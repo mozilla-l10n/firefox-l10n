@@ -37,5 +37,13 @@ openpgp-cannot-decrypt-because-mdc =
     Med potovanjem bi lahko bilo spremenjeno z namenom kraje njegove vsebine.
     Za preprečitev tega tveganja vsebina ni prikazana.
 openpgp-cannot-decrypt-because-missing-key = Skrivni ključ, ki je potreben za dešifriranje tega sporočila, ni na voljo.
+openpgp-partially-signed =
+    Samo del tega sporočila je bil digitalno podpisan z uporabo OpenPGP.
+    Ob kliku na gumb Preveri bodo nezaščiteni deli skriti in prikazano bo stanje digitalnega podpisa.
+openpgp-partially-encrypted =
+    Samo del tega sporočila je bil šifriran z OpenPGP.
+    Berljivi deli sporočila, ki so že prikazani, niso bili šifrirani.
+    Če kliknete gumb Dešifriraj, bo prikazana vsebina šifriranih delov.
+openpgp-reminder-partial-display = Opomnik: Spodaj prikazano sporočilo je le del izvirnega sporočila.
 openpgp-partial-verify-button = Preveri
 openpgp-partial-decrypt-button = Dešifriraj
