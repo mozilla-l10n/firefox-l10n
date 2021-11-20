@@ -47,6 +47,8 @@ upgrade-dialog-default-secondary-button = Қазір емес
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Түрлі-түсті өмір
 upgrade-dialog-start-secondary-button = Қазір емес
 
 ## Colorway screen
