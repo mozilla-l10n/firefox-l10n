@@ -27,6 +27,7 @@ about-private-browsing-info-description-private-window = Жекелік тере
 about-private-browsing-info-description-simplified = { -brand-short-name } барлық жеке терезелерді жапқан кезде іздеу мен шолу тарихын тазалайды, бірақ бұл сізді анонимды етпейді.
 about-private-browsing-learn-more-link = Көбірек білу
 about-private-browsing-hide-activity = Сіз шолатын барлық жерде белсенділігіңізді және орналасқан жеріңізді жасырыңыз
+about-private-browsing-get-privacy = Интернеттің кез келген жерінде жекелік қорғанысын алыңыз
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } көмегімен жекелікті сақтаңыз
 # This string is the title for the banner for search engine selection
 # in a private window.
