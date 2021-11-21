@@ -164,6 +164,11 @@ newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = حمایت شده توسط { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } دقیقه
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -216,18 +221,25 @@ newtab-discovery-empty-section-topstories-timed-out = آخ! ما تقریباً 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = موضوع‌های محبوب:
+newtab-pocket-new-topics-title = مطالب بیشتری می‌خواهید؟ موضوعات پرطرفدار را در { -pocket-brand-name } ببینید
 newtab-pocket-more-recommendations = توصیه‌های بیشتر
 newtab-pocket-learn-more = اطلاعات بیشتر
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } بخشی از خانوادهٔ { -brand-product-name } است
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = ذخیره در { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = در ‌{ -pocket-brand-name } ذخیره شده
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = بارگیری مطالب بیشتر
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = تمام شد!
 newtab-pocket-last-card-desc = برای مطالب بیشتر بعدا دوباره سر بزنید.
+newtab-pocket-last-card-image =
+    .alt = تمام شد
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
