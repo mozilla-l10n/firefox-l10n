@@ -5,6 +5,7 @@
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-encryption-required-part1 = Stiku { $name } ste poskušali poslati nešifrirano sporočilo. Po pravilniku nešifrirana sporočila niso dovoljena.
+msgevent-encryption-required-part2 = Poskus začetka zasebnega pogovora. Vaše sporočilo bo poslano, ko se začne zasebni pogovor.
 msgevent-encryption-error = Pri šifriranju vašega sporočila je prišlo do napake. Sporočilo ni bilo poslano.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
