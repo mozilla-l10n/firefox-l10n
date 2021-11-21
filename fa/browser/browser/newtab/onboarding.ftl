@@ -296,4 +296,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = از اینکه ما را انتخاب کردید، متشکریم
+mr2-onboarding-thank-you-text = { -brand-short-name } یک مرورگر مستقل است که توسط یک سازمان غیرانتفاعی پشتیبانی می‌شود. با هم، ما وب را ایمن‌تر، سالم‌تر و خصوصی‌تر می‌کنیم.
 mr2-onboarding-start-browsing-button-label = شروع به مرور اینترنت کنید
