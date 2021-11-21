@@ -122,6 +122,10 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = مدیریت نشانک‌ها
     .accesskey = M
+places-forget-about-this-site-confirmation-title = فراموش کردن این سایت
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = این اقدام همه داده‌های مربوط به { $hostOrBaseDomain } از جمله تاریخچه، گذرواژه‌ها، کوکی‌ها، حافظه پنهان و ترجیحات مربوط به محتوا را حذف می‌کند. آیا مطمئن هستید که می‌خواهید ادامه دهید؟
 places-forget-about-this-site-forget = فراموش کن
 places-library =
     .title = مخزن
