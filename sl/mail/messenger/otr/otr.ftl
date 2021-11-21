@@ -27,6 +27,14 @@ msgevent-rcvdmsg-unreadable = Prejeli ste neberljivo šifrirano sporočilo od st
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-malformed = Prejeli ste sporočilo s poškodovanimi podatki od stika { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Prejet znak prisotnosti od stika { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Znak prisotnosti poslan stiku { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg-general-err = Med poskusom zavarovanja pogovora z OTR je prišlo do nepričakovane napake.
 # Variables:
@@ -59,3 +67,8 @@ resent = [znova poslano]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = Stik { $name } je končal šifriran pogovor z vami; storite enako tudi vi.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = Stik { $name } je zahteval pogovor, šifriran z OTR (Off-the-Record), vendar nimate nameščenega vtičnika, ki to omogoča. Za več informacij glejte https://en.wikipedia.org/wiki/Off-the-Record_Messaging.
