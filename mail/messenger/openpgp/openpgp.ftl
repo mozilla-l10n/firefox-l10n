@@ -142,6 +142,7 @@ key-usage-encrypt = Cifrar
 key-usage-sign = Firma
 key-usage-certify = Certificar
 key-usage-authentication = Autenticación
+filter-term-pgpencrypted-label = OpenPGP cifrado
 import-info-bits = Bits
 import-info-created = Creado
 import-info-fpr = Huella digital
@@ -152,11 +153,28 @@ dlg-button-delete = &Eliminar
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
+key-valid-invalid = no válido
 key-trust-group = (grupo)
 gnupg-file = Archivos GnuPG
+key-man-button-generate-key = &Generar clave
 
 # Strings used in enigmailMessengerOverlay.js
 
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Enviar mensaje
 msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
+dlg-button-view = &Ver
+repeat-suffix-singular = más tiempo.
+repeat-suffix-plural = más veces.
+dlg-button-close = &Cerrar
+dlg-button-cancel = &Cancelar
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Reintentar
+dlg-button-skip = &Ignorar
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = Alerta OpenPGP
