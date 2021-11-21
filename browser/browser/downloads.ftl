@@ -41,9 +41,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = نمایش در یابنده
     .accesskey = ی
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] نمایش در Finder
+           *[other] نمایش در پوشه
+        }
+    .accesskey = پ
 downloads-cmd-use-system-default =
     .label = باز کردن در نمایشگر سامانه (V)
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = باز کردن همیشگی در نمایشگر سامانه (w)
     .accesskey = w
@@ -64,6 +73,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] نمایش در یابنده
            *[other] باز کردن پوشهٔ محتوی پرونده
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = همیشه پرونده‌های مشابه باز شوند
+    .accesskey = م
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] نمایش در Finder
+           *[other] نمایش در پوشه
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] نمایش در Finder
+           *[other] نمایش در پوشه
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] نمایش در Finder
+           *[other] نمایش در پوشه
         }
 downloads-cmd-show-downloads =
     .label = باز کردن پوشه بارگیری‌ها
