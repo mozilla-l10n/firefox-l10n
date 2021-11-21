@@ -548,7 +548,7 @@ search-separate-default-engine =
     .label = Në Dritare Private përdor këtë motor kërkimesh
     .accesskey = p
 search-suggestions-header = Kërkoni Për Sugjerime
-search-suggestions-desc = Zgjidhini si shfaqen sugjerimet nga motorë kërkimesh.
+search-suggestions-desc = Zgjidhni si shfaqen sugjerimet nga motorë kërkimesh.
 search-suggestions-option =
     .label = Ofro sugjerime kërkimi
     .accesskey = O
@@ -622,7 +622,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Shkarkoni Firefox-in për <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ose <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> që të kryeni njëkohësim te pajisja juaj celulare.
+sync-mobile-promo = Që të kryeni njëkohësim te pajisja juaj celulare, shkarkoni Firefox-in për <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ose <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>.
 
 ## Firefox Account - Signed in
 

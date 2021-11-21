@@ -71,7 +71,7 @@ permissions-invalid-uri-label = Ju lutemi, jepni një strehëemër të vlefshëm
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
-    .title = Përjashtime për Mbrojtje të Thelluar Nga Gjurmimet
+    .title = Përjashtime nga Mbrojtje e Thelluar Nga Gjurmimet
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = I keni çaktivizuar mbrojtjet në këto sajte.
 
