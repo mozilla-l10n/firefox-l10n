@@ -730,9 +730,25 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = این پیام را هر زمان که بالاپرها مسدود می‌شوند نمایش نده
     .accesskey = D
+edit-popup-settings =
+    .label = مدیریت تنظیمات پنجره‌های واشو…
+    .accesskey = و
 picture-in-picture-hide-toggle =
     .label = مخفی کردن تصویر-در-تصویر
     .accesskey = H
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = جایجای دکمه‌ٔ تصویر در تصویر به سمت راست
+    .accesskey = ر
+picture-in-picture-move-toggle-left =
+    .label = جایجای دکمه‌ٔ تصویر در تصویر به سمت چپ
+    .accesskey = چ
+
+##
+
 
 # Navigator Toolbox
 
@@ -773,3 +789,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>می‌خواهید برگه‌های قبلی را باز کنید؟</strong> می‌توانید نشست قبلی خود را از منوی { -brand-short-name } <img data-l10n-name="icon"/>، در قسمت تاریخچه بازیابی کنید.
+restore-session-startup-suggestion-button = نمایش روش کار
