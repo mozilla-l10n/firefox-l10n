@@ -184,10 +184,13 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Doporučene přednastajenje za pytanje zmylkow za najwjace webnałoženjow z mało zarjadniskimi datami.
 profiler-popup-presets-web-developer-label =
     .label = Webwuwiwar
+profiler-popup-presets-firefox-platform-description = Doporučene přednastajenje za nutřkowne pytanje zmylkow platformy Firefox.
 profiler-popup-presets-firefox-platform-label =
     .label = Platforma Firefox
+profiler-popup-presets-firefox-front-end-description = Doporučene přednastajenje za nutřkowne pytanje zmylkow frontenda Firefox.
 profiler-popup-presets-firefox-front-end-label =
     .label = Frontend Firefox
 profiler-popup-presets-firefox-graphics-label =
