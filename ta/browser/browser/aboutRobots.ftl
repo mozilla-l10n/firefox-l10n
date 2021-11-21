@@ -15,7 +15,7 @@ error-title-text = மனிதர்களே வரவேற்கின்ற
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = நாங்கள் சமாதான மற்றும் நல்லெண்ணத்துடன் உங்களை பார்க்க வந்திருக்கிறோம்!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = இயந்திரமனிதன் மனிதர்களுக்கு தீங்கு விளைவிக்காது, அல்லது செயல்படாமல் இருப்பதன் மூலமாக மனிதர்கள் தீங்கு அடைய விட்டுவிடக்கூடும்.
+error-long-desc1 = இயந்திரமனிதன் மனிதர்களுக்குத் தீங்கு விளைவிக்காது, அல்லது செயல்படாமல் இருப்பதன் மூலமாக மனிதர்கள் தீங்கு அடைய விட்டுவிடக்கூடும்.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = இயந்திரமனிதர்கள் பார்த்த விஷயங்களை நம்மை போன்ற மக்களால் நம்ப இயலாது.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.

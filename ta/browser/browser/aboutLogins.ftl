@@ -142,6 +142,11 @@ about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = { $loginTitle } -க்கான நுழைவு ஏற்கனவே அந்தப் பயனர்பெயருடன் உள்ளது.<a data-l10n-name="duplicate-link">இருக்கும் நுழைவுக்குச் செல்லவா?</a>
 # This is a generic error message.
 about-logins-error-message-default = இந்த கடவுச்சொல்லைச் சேமிக்க முயற்சிக்கும்போது பிழை ஏற்பட்டது.
 
