@@ -64,6 +64,30 @@ upgrade-dialog-default-secondary-button = اکنون نه
 upgrade-dialog-theme-title-2 = با یک تم جذاب، یک شروع تازه داشته باشید
 upgrade-dialog-theme-system = تم سیستم
     .title = از تم سیستم برای دکمه‌ها، منوها و پنجره‌ها استفاده شود
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = زندگی با رنگ‌ها
+upgrade-dialog-start-subtitle = رنگ‌بندی‌هایِ جدید و با طراوت. در دسترس برای مدتی محدود.
+upgrade-dialog-start-primary-button = بررسیِ رنگ‌بندی‌ها
+upgrade-dialog-start-secondary-button = اکنون نه
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = پالت خود را انتخاب کنید
+upgrade-dialog-colorway-primary-button = ذخیره رنگ‌بندی
+upgrade-dialog-colorway-secondary-button = استفاده از تم قبلی
+upgrade-dialog-colorway-theme-tooltip =
+    .title = بررسی تم‌های پیش‌فرض
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = بررسی رنگ‌بندی‌های { $colorwayName }
+upgrade-dialog-colorway-default-theme = پیش‌فرض
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = خودکار
+    .title = دنبال کردن از تنظیمات سیستم برای دکمه‌ها، منوها و پنجره‌ها
 upgrade-dialog-theme-light = روشن
     .title = از یک تم روشن برای دکمه‌ها، منوها و پنجره‌ها استفاده کنید
 upgrade-dialog-theme-dark = تاریک
@@ -74,3 +98,18 @@ upgrade-dialog-theme-keep = استفاده از تم قبلی
     .title = از تمی که پیش از بروزرسانی { -brand-short-name } استفاده می‌کردید استفاده شود
 upgrade-dialog-theme-primary-button = ذخیره تم
 upgrade-dialog-theme-secondary-button = اکنون نه
+upgrade-dialog-colorway-variation-soft = ملایم
+    .title = استفاده از این رنگ‌بندی
+upgrade-dialog-colorway-variation-balanced = متعادل
+    .title = استفاده از این رنگ‌بندی
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = پُررنگ
+    .title = استفاده از این رنگ‌بندی
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = از اینکه ما را انتخاب کردید، متشکریم
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } یک مرورگر مستقل است که توسط یک سازمان غیرانتفاعی پشتیبانی می‌شود. با هم، ما وب را ایمن‌تر، سالم‌تر و خصوصی‌تر می‌کنیم.
+upgrade-dialog-thankyou-primary-button = شروعِ وب‌گردی
