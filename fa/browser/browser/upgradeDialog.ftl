@@ -77,6 +77,8 @@ upgrade-dialog-start-secondary-button = اکنون نه
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = پالت خود را انتخاب کنید
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = تعویض به خانهٔ فایرفاکس با پیش‌زمینهٔ تم
 upgrade-dialog-colorway-primary-button = ذخیره رنگ‌بندی
 upgrade-dialog-colorway-secondary-button = استفاده از تم قبلی
 upgrade-dialog-colorway-theme-tooltip =
