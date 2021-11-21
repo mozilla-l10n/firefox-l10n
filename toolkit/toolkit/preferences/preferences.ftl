@@ -27,5 +27,7 @@ remove-primary-password =
     .title = حذف گذرواژهٔ اصلی
 remove-info =
     .value = برای پیش‌روی باید گذرواژهٔ فعلی خود را وارد کنید:
+remove-primary-password-warning1 = گذرواژهٔ اصلی برای محافظت از اطلاعات حساس شما مانند ورودها و گذرواژه‌ها استفاده می‌شود.
+remove-primary-password-warning2 = اگر گذرواژهٔ اصلی را حذف کنید، اطلاعات حساس شما در صورت نفوذ به رایانهٔ شما محافظت نخواهند شد.
 remove-password-old-password =
     .value = گذرواژهٔ فعلی:
