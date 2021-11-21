@@ -733,6 +733,9 @@ popups-infobar-dont-show-message =
 edit-popup-settings =
     .label = Gesti sa cunfiguratzione de is ventanas a cumparsa...
     .accesskey = G
+picture-in-picture-hide-toggle =
+    .label = Cua su butone de Immàgine-subra-immàgine
+    .accesskey = C
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,

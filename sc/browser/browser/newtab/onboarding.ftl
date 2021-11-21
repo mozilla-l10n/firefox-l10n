@@ -147,6 +147,8 @@ mr1-onboarding-import-subtitle = Importa is craes, <br/>sinnalibros, e àteru.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importa dae { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Importa dae su navigadore anteriore tuo
 mr1-onboarding-import-secondary-button-label = Immoe nono
 mr2-onboarding-colorway-header = Sa bida a colores
 mr2-onboarding-colorway-subtitle = Cumbinatziones noas de colores vibrantes. A disponimentu pro unu tempus limitadu.

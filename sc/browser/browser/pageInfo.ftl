@@ -129,6 +129,7 @@ media-border-img = Oru
 media-list-img = Puntu de elencu
 media-cursor = Puntadore
 media-object = Ogetu
+media-embed = Incrustadu
 media-link = Icona
 media-input = Intrada
 media-video = Vìdeu
@@ -196,6 +197,15 @@ media-animated-image-type =
 #   $type (string) - The type of an image
 media-image-type =
     .value = Immàgine { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (iscalados a { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image

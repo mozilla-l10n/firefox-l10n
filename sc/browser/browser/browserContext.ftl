@@ -210,6 +210,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Essi dae sa mannària prena
     .accesskey = m
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Càstia in Immàgine-subra-immàgine
+    .accesskey = i
 main-context-menu-image-reload =
     .label = Torra a carrigare s'immàgine
     .accesskey = r
@@ -350,6 +355,11 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Cuncàmbia sa diretzione de su testu
     .accesskey = C
+main-context-menu-inspect =
+    .label = Compida
+    .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Compida is propiedades de atzessibilidade
 main-context-menu-eme-learn-more =
     .label = Leghe àteru subra de DRM…
     .accesskey = D
