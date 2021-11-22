@@ -13,6 +13,8 @@ printui-sheets-count =
        *[other] { $sheetCount } orrialde
     }
 printui-page-range-all = Denak
+printui-page-range-odd = Bakoitia
+printui-page-range-even = Bikoitia
 printui-page-range-custom = Pertsonalizatua
 printui-page-range-label = Orriak
 printui-page-range-picker =
