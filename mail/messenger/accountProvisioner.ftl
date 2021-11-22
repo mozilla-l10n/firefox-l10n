@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Jo kinne sykje op nicknames of oare
 account-provisioner-free-account = Fergees
 account-provision-price-per-year = { $price } yn it jier
 account-provisioner-all-results-button = Alle resultaten toane
+account-provisioner-open-in-tab-img =
+    .title = Iepenet yn in nije ljepblêd
