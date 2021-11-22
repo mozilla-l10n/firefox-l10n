@@ -201,6 +201,7 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = Grafikk
+profiler-popup-presets-media-description2 = Forhåndsinnstilt for å undersøke lyd- og videofeil i { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
 profiler-popup-presets-custom-label =
