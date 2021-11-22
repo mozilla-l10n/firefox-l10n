@@ -126,8 +126,13 @@ perftools-presets-firefox-front-end-label = Klientske rozhranie Firefoxu
 perftools-presets-firefox-front-end-description = Odporúčaná predvoľba pre vnútorné ladenie klientskeho rozhrania Firefoxu.
 perftools-presets-firefox-graphics-label = Grafika vo Firefoxe
 perftools-presets-firefox-graphics-description = Odporúčaná predvoľba na skúmanie výkonu grafiky vo Firefoxe.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Odporúčaná predvoľba pre profilovanie { -brand-shorter-name(case: "gen") }.
+perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Predvoľby pre ladenie grafických chýb v prehliadači { -brand-shorter-name }.
 perftools-presets-media-label = Médiá
 perftools-presets-media-description = Odporúčaná predvoľba na diagnostiku problémov so zvukom a videom.
+perftools-presets-media-description2 = Predvoľby pre ladenie chýb zvuku a videa v prehliadači { -brand-shorter-name }.
 perftools-presets-custom-label = Vlastné
 
 ##
