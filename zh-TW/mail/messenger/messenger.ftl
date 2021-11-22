@@ -103,6 +103,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = 重導
+message-header-msg-is-flagged =
+    .title = 加上星號的郵件
+message-header-msg-not-flagged =
+    .title = 未加上星號的郵件
 
 ## Action Button Context Menu
 
