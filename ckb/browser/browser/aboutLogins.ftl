@@ -55,6 +55,7 @@ about-logins-list-item-breach-icon =
 about-logins-list-item-vulnerable-password-icon =
     .title = وشەی تێپەڕ ئاسانە
 about-logins-list-section-vulnerable = وشەی تێپەڕی گوماناوی
+about-logins-list-section-nothing = بێ ئاگادارکردنەوە
 about-logins-list-section-today = ئەمڕۆ
 about-logins-list-section-yesterday = دوێنێ
 about-logins-list-section-week = کۆتا 7 ڕۆژ
@@ -157,6 +158,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
 about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
 about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
+about-logins-alert-import-title = هاوردەکردن تەواو بوو
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
@@ -216,6 +218,9 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = تەواو
+about-logins-import-dialog-error-learn-more = زیاتر بزانە
+about-logins-import-dialog-error-cancel = پاشگەزبوونەوە
 
 ##
 ## Variables:
