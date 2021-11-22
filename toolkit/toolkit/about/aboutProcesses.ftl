@@ -62,6 +62,7 @@ about-processes-unknown-process = Annet: { $type }({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, stor)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolert)
 about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
