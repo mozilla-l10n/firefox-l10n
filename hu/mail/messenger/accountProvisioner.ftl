@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Kereshet becenevekre vagy bármi m�
 account-provisioner-free-account = Ingyenes
 account-provision-price-per-year = { $price } évente
 account-provisioner-all-results-button = Összes találat megjelenítése
+account-provisioner-open-in-tab-img =
+    .title = Új lapon nyílik meg
