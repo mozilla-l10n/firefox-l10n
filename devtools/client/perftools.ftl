@@ -40,6 +40,7 @@ perftools-devtools-settings-label = Nastavitve
 perftools-status-private-browsing-notice =
     Profiler je onemogočen, kadar je vključeno zasebno brskanje.
     Za omogočenje profilerja zaprite vsa zasebna okna
+perftools-status-recording-stopped-by-another-tool = Drugo orodje je ustavilo spremljanje.
 perftools-status-restart-required = Za vključitev te možnosti se mora brskalnik ponovno zagnati.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
@@ -89,8 +90,10 @@ perftools-presets-firefox-front-end-label = Firefox: čelni del
 perftools-presets-firefox-front-end-description = Priporočena prednastavitev za razhroščevanje čelnega dela Firefoxa.
 perftools-presets-firefox-graphics-label = Firefox: grafika
 perftools-presets-firefox-graphics-description = Priporočena prednastavitev za raziskovanje učinkovitosti grafike Firefoxa.
+perftools-presets-graphics-description = Prednastavitev za preiskovanje napak grafike v { -brand-shorter-name(sklon: "mestnik") }
 perftools-presets-media-label = Predstavnost
 perftools-presets-media-description = Priporočena prednastavitev za prepoznavanje težav z zvokom in videom.
+perftools-presets-media-description2 = Prednastavitev za preiskovanje napak zvoka in videa v { -brand-shorter-name(sklon: "mestnik") }.
 perftools-presets-custom-label = Po meri
 
 ##
