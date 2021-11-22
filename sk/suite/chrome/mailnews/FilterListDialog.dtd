@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Povolený">
 <!ENTITY newButton.label "Nový…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY copyButton.label "Kopírovať…">
+<!ENTITY copyButton.accesskey "p">
 <!ENTITY editButton.label "Upraviť…">
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Odstrániť">
 <!ENTITY deleteButton.accesskey "O">
+<!ENTITY reorderTopButton "Presunúť hore">
+<!ENTITY reorderTopButton.accessKey "h">
+<!ENTITY reorderTopButton.toolTip "Presunie filter na prvú pozíciu, takže bude vykonaný skôr ako ostatné definované filtre">
 <!ENTITY reorderUpButton.label "Posunúť nahor">
 <!ENTITY reorderUpButton.accesskey "h">
 <!ENTITY reorderDownButton.label "Posunúť nadol">
 <!ENTITY reorderDownButton.accesskey "d">
+<!ENTITY reorderBottomButton "Presunúť dole">
+<!ENTITY reorderBottomButton.accessKey "d">
+<!ENTITY reorderBottomButton.toolTip "Presunie filter na poslednú pozíciu, takže bude vykonaný až po ostatných definovaných filtroch">
 <!ENTITY filterHeader.label "Povolené filtre budú spustené v zobrazenom poradí.">
 <!ENTITY filtersForPrefix.label "Filtre pre:">
 <!ENTITY filtersForPrefix.accesskey "F">
