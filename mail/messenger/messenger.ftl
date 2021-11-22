@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Átirányítás
+message-header-msg-is-flagged =
+    .title = Csillagozott üzenet
+message-header-msg-not-flagged =
+    .title = Nem csillagozott üzenet
 
 ## Action Button Context Menu
 

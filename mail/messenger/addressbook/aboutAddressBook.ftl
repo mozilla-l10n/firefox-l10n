@@ -134,3 +134,13 @@ about-addressbook-details-work-address-header = Munkahelyi cím
 about-addressbook-details-other-info-header = Egyéb információk
 about-addressbook-prompt-to-save-title = Menti a változtatásokat?
 about-addressbook-prompt-to-save = Szeretné menteni a módosításokat?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Húzzon vagy illesszen be egy fényképet ide, vagy kattintson a fájl kiválasztásához.
+about-addressbook-photo-drop-loading = Fénykép betöltése…
+about-addressbook-photo-drop-error = A fénykép betöltése sikertelen.
+about-addressbook-photo-filepicker-title = Válasszon egy képfájlt
+about-addressbook-photo-discard = Meglévő fénykép elvetése
+about-addressbook-photo-cancel = Mégse
+about-addressbook-photo-save = Mentés
