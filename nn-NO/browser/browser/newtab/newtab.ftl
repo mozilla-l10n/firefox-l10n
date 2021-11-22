@@ -225,10 +225,12 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lasta nesten denne
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populære emne:
+newtab-pocket-new-topics-title = Vil du ha endå fleire artiklar? Sjå desse populære emna frå { -pocket-brand-name }
 newtab-pocket-more-recommendations = Fleire tilrådingar
 newtab-pocket-learn-more = Les meir
 newtab-pocket-cta-button = Last ned { -pocket-brand-name }
 newtab-pocket-cta-text = Lagre artiklane du synest er interessante i { -pocket-brand-name }, og stimuler tankane dine med fasinerande lesemateriell.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er ein del av { -brand-product-name }-familien.
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Lagre til { -pocket-brand-name }
 newtab-pocket-saved-to-pocket = Lagra til { -pocket-brand-name }
