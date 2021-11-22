@@ -52,3 +52,5 @@ account-provisioner-domain-results-caption = Ви можете спробува�
 account-provisioner-free-account = Безплатно
 account-provision-price-per-year = { $price } на рік
 account-provisioner-all-results-button = Показати всі результати
+account-provisioner-open-in-tab-img =
+    .title = Відкривається в новій вкладці
