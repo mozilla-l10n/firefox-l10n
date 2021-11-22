@@ -65,7 +65,7 @@ about-logins-list-section-week = کۆتا 7 ڕۆژ
 about-logins-login-intro-heading-logged-out2 = بۆ چوونەژوورەوە پاشەکەوتکراوەکانت دەگەڕێی؟ هاوکاتکردن هەڵکە یان هاوردەیان بکە
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
-login-intro-instructions-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name(capitalization: "sentence") } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
+login-intro-instructions-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
 login-intro-instructions-fxa-help = سەردانی <a data-l10n-name="help-link">{ -lockwise-brand-short-name } پشتگیری</a> بکە بۆ زانیاری زیاتر.
 about-logins-intro-import = ئەگەر چوونەژوورەوەکانت لە وێبگەڕێکی تر پاشەکەوت کراوە، دەتوانیت <a data-l10n-name="import-link">هاوردەیان بکەیت بۆ { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = ئەگەر چوونەژوورەوەکانت لە دەرەوەی { -brand-product-name }ـە، ئەتوانی <a data-l10n-name="import-browser-link">بیانهێنیت لە وێبگەڕێکی ترەوە</a> یان <a data-l10n-name="import-file-link"> لە پەڕگەیەکەوە</a>
