@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = Firefox 프런트 엔드
 perftools-presets-firefox-front-end-description = 내부 Firefox 프런트 엔드 디버깅에 권장되는 프리셋입니다.
 perftools-presets-firefox-graphics-label = Firefox 그래픽
 perftools-presets-firefox-graphics-description = Firefox 그래픽 성능 조사에 권장되는 프리셋입니다.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = { -brand-shorter-name } 프로파일링에 권장되는 프리셋입니다.
+perftools-presets-graphics-label = 그래픽
+perftools-presets-graphics-description = { -brand-shorter-name }의 그래픽 버그를 조사하기 위한 프리셋입니다.
 perftools-presets-media-label = 미디어
 perftools-presets-media-description = 오디오 및 비디오 문제 진단에 권장되는 프리셋입니다.
+perftools-presets-media-description2 = { -brand-shorter-name }의 오디오 및 비디오 버그를 조사하기 위한 프리셋입니다.
 perftools-presets-custom-label = 사용자 지정
 
 ##
