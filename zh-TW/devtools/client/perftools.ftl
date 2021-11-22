@@ -123,9 +123,12 @@ perftools-presets-firefox-front-end-description = 推薦於 Firefox 內部前端
 perftools-presets-firefox-graphics-label = Firefox 圖形
 perftools-presets-firefox-graphics-description = 推薦於檢查 Firefox 圖形效能問題時使用。
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = 對 { -brand-shorter-name } 進行效能檢測的建議預設值。
 perftools-presets-graphics-label = 圖形
+perftools-presets-graphics-description = 於 { -brand-shorter-name } 診斷圖形 Bug 時的預設值。
 perftools-presets-media-label = 媒體
 perftools-presets-media-description = 推薦於診斷 Firefox 影音問題時使用。
+perftools-presets-media-description2 = 於 { -brand-shorter-name } 診斷影音 Bug 時的預設值。
 perftools-presets-custom-label = 自訂
 
 ##
