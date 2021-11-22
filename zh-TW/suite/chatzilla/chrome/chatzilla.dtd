@@ -13,6 +13,7 @@
 
 <!ENTITY Underline.label             "底線">
 <!ENTITY Bold.label                  "粗體">
+<!ENTITY Reverse.label               "前景背景色互換">
 <!ENTITY Normal.label                "標準">
 <!ENTITY Color.label                 "色彩">
 <!ENTITY ForeBack.label              "xx=前景 yy=背景">
