@@ -151,3 +151,8 @@ spotlight-total-cookie-protection-header =
     Testescha gia ussa la nova funcziun per
     la protecziun optimala da tia sfera privata
 spotlight-total-cookie-protection-body = La protecziun totala cunter cookies impedescha ch'ils fastizaders dovrian ils cookies per ta persequitar en il web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } construescha ina saiv enturn cookies, cun als limitar a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar. Cun duvrar gia ussa questa funcziun gidas ti a l'optimar per che nus possian crear in meglier web per ina e mintgin.
+spotlight-total-cookie-protection-primary-button = Activar la protecziun totala cunter cookies
+spotlight-total-cookie-protection-secondary-button = Betg ussa

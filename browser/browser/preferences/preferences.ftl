@@ -946,6 +946,16 @@ content-blocking-all-windows-tracking-content = Cuntegn che fastizescha en tut l
 content-blocking-all-third-party-cookies = Tut ils cookies da terzas partidas
 content-blocking-cryptominers = Criptominiers
 content-blocking-fingerprinters = Improntaders dal det
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label =
+        Testescha gia ussa nossa funcziun la pli ferma per la protecziun da datas 
+        la protecziun optimala da tia sfera privata
+    .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = La protecziun totala cunter ils cookies limitescha ils cookies a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar sur pliras websites.
+content-blocking-etp-standard-tcp-rollout-learn-more = Ulteriuras infurmaziuns
 content-blocking-warning-title = Attenziun!
 content-blocking-and-isolating-etp-warning-description = La bloccada da fastizaders e l'isolaziun da cookies po influenzar las funcziunalitads da tschertas websites. Rechargiar ina pagina cun fastizaders per chargiar l'entir cuntegn.
 content-blocking-and-isolating-etp-warning-description-2 = Quest parameter po avair per consequenza che tschertas websites na mussan nagin cuntegn u ch'ellas na funcziunan betg endretg. Sche ina website para defecta, pos ti deactivar la protecziun cunter il fastizar per quella website per chargiar l'entir cuntegn.
