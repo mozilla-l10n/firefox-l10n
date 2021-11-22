@@ -154,6 +154,8 @@ cfr-doorhanger-video-support-primary-button = Aktualizovat
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Zjistit více
+    .title = Zobrazit více informací o této funkci
 spotlight-learn-more-expanded = Zjistit více
     .title = Zavřít
 
@@ -179,4 +181,11 @@ spotlight-public-wifi-vpn-link = Teď ne
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Vyzkoušejte naši zatím nejsilnější
+    funkci na ochranu soukromí
+spotlight-total-cookie-protection-body = Úplná ochrana cookies brání sledovacím prvkům používat cookies pro vaše sledování napříč webovými stránkami.
+spotlight-total-cookie-protection-primary-button = Zapnout úplnou ochranu cookies
 spotlight-total-cookie-protection-secondary-button = Teď ne
