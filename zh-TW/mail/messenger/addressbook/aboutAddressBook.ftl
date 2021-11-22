@@ -131,3 +131,13 @@ about-addressbook-details-work-address-header = 商務地址
 about-addressbook-details-other-info-header = 其他資訊
 about-addressbook-prompt-to-save-title = 要儲存變更嗎？
 about-addressbook-prompt-to-save = 您要儲存變更嗎？
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = 將照片放到或貼到此處，或點擊此處選擇檔案。
+about-addressbook-photo-drop-loading = 正在載入照片…
+about-addressbook-photo-drop-error = 照片載入失敗。
+about-addressbook-photo-filepicker-title = 選擇圖檔
+about-addressbook-photo-discard = 捨棄現有照片
+about-addressbook-photo-cancel = 取消
+about-addressbook-photo-save = 儲存
