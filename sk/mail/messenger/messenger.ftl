@@ -105,6 +105,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Presmerovať
+message-header-msg-is-flagged =
+    .title = Správa označená hviezdičkou
+message-header-msg-not-flagged =
+    .title = Správa neoznačená hviezdičkou
 
 ## Action Button Context Menu
 
