@@ -10,6 +10,8 @@ devtools-commandkey-toggle-toolbox-f12 = VK_F12
 devtools-commandkey-browser-toolbox = I
 # Key pressed to open the Browser Console, used for debugging Firefox itself
 devtools-commandkey-browser-console = J
+# Key pressed to toggle on the Responsive Design Mode
+devtools-commandkey-responsive-design-mode = M
 # Key pressed to open a toolbox with the inspector panel selected
 devtools-commandkey-inspector = C
 # Key pressed to open a toolbox with the web console panel selected
