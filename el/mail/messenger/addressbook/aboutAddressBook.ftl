@@ -134,3 +134,13 @@ about-addressbook-details-work-address-header = Διεύθυνση εργασί�
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
 about-addressbook-prompt-to-save-title = Αποθήκευση αλλαγών;
 about-addressbook-prompt-to-save = Θέλετε να αποθηκεύσετε τις αλλαγές σας;
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Εναποθέστε ή επικολλήστε μια φωτογραφία εδώ ή κάντε κλικ για να επιλέξετε ένα αρχείο.
+about-addressbook-photo-drop-loading = Φόρτωση φωτογραφίας…
+about-addressbook-photo-drop-error = Αποτυχία φόρτωσης φωτογραφίας.
+about-addressbook-photo-filepicker-title = Επιλογή αρχείου εικόνας
+about-addressbook-photo-discard = Απόρριψη υπάρχουσας φωτογραφίας
+about-addressbook-photo-cancel = Ακύρωση
+about-addressbook-photo-save = Αποθήκευση

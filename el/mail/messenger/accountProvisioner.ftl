@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Μπορείτε να αναζητ�
 account-provisioner-free-account = Δωρεάν
 account-provision-price-per-year = { $price } ανά έτος
 account-provisioner-all-results-button = Εμφάνιση όλων των αποτελεσμάτων
+account-provisioner-open-in-tab-img =
+    .title = Ανοίγει σε νέα καρτέλα
