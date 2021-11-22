@@ -97,8 +97,13 @@ perftools-presets-firefox-front-end-label = Firefox Front-End
 perftools-presets-firefox-front-end-description = ערכה מומלצת לניפוי שגיאות בממשק הקצה הקדמי הפנימי של Firefox.
 perftools-presets-firefox-graphics-label = Firefox Graphics
 perftools-presets-firefox-graphics-description = ערכה מומלצת לחקירת ביצועי הגרפיקה של Firefox.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = ערכת מומלצת ליצירת פרופיל ביצועים של { -brand-shorter-name }.
+perftools-presets-graphics-label = Graphics
+perftools-presets-graphics-description = ערכה לחקירת באגים גרפיים ב־{ -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
+perftools-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
 perftools-presets-custom-label = התאמה אישית
 
 ##
