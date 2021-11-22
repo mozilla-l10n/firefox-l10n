@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Ανακατεύθυνση
+message-header-msg-is-flagged =
+    .title = Μήνυμα με αστέρι
+message-header-msg-not-flagged =
+    .title = Μήνυμα χωρίς αστέρι
 
 ## Action Button Context Menu
 
