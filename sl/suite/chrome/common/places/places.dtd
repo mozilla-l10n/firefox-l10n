@@ -78,6 +78,7 @@
 
 <!ENTITY detailsPane.more.label "Več">
 <!ENTITY detailsPane.less.label "Manj">
+<!ENTITY detailsPane.selectAnItemText.description "Izberite predmet za ogled in urejanje njegovih lastnosti">
 
 <!ENTITY view.label               "Pogled">
 <!ENTITY byDate.label             "Po datumu">
