@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "使用">
 <!ENTITY newButton.label "新增…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY copyButton.label "複製…">
+<!ENTITY copyButton.accesskey "p">
 <!ENTITY editButton.label "編輯…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "刪除">
 <!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderTopButton "移到頂端">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "重新整理篩選條件，讓它最早執行">
 <!ENTITY reorderUpButton.label "上移">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "下移">
 <!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderBottomButton "移到底端">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "重新整理篩選條件，讓它最晚執行">
 <!ENTITY filterHeader.label "被勾選的篩選條件將自動依照下列順序進行篩選。">
 <!ENTITY filtersForPrefix.label "篩選:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -28,4 +36,3 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "選取這個資料夾">
 <!ENTITY choosethisnewsserver.label "選取此新聞伺服器">
-
