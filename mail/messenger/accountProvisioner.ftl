@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Vous pouvez essayer de rechercher d
 account-provisioner-free-account = Gratuit
 account-provision-price-per-year = { $price } par an
 account-provisioner-all-results-button = Afficher tous les résultats
+account-provisioner-open-in-tab-img =
+    .title = S’ouvre dans un nouvel onglet

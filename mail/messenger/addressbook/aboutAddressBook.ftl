@@ -134,3 +134,13 @@ about-addressbook-details-work-address-header = Adresse professionnelle
 about-addressbook-details-other-info-header = Autres informations
 about-addressbook-prompt-to-save-title = Enregistrer les modifications ?
 about-addressbook-prompt-to-save = Voulez-vous enregistrer vos modifications ?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Déposez ou collez une photo ici, ou cliquez pour sélectionner un fichier.
+about-addressbook-photo-drop-loading = Chargement de la photo…
+about-addressbook-photo-drop-error = Échec du chargement de la photo.
+about-addressbook-photo-filepicker-title = Sélectionner un fichier d’image
+about-addressbook-photo-discard = Supprimer la photo existante
+about-addressbook-photo-cancel = Annuler
+about-addressbook-photo-save = Enregistrer
