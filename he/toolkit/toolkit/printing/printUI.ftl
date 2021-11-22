@@ -13,6 +13,8 @@ printui-sheets-count =
        *[other] { $sheetCount } גיליונות נייר
     }
 printui-page-range-all = הכול
+printui-page-range-odd = אי־זוגיים
+printui-page-range-even = זוגיים
 printui-page-range-custom = התאמה אישית
 printui-page-range-label = עמודים
 printui-page-range-picker =
