@@ -106,6 +106,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Preusmeri
+message-header-msg-is-flagged =
+    .title = Sporočilo, označeno z zvezdico
+message-header-msg-not-flagged =
+    .title = Sporočilo, ki ni označeno z zvezdico
 
 ## Action Button Context Menu
 
