@@ -130,9 +130,12 @@ perftools-presets-firefox-front-end-description = Oanrekommandearre foarynstelli
 perftools-presets-firefox-graphics-label = Firefox-grafysk
 perftools-presets-firefox-graphics-description = Oanrekommandearre foarynstelling foar ûndersyk nei grafyske prestaasjes fan Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Oanrekommandearre foarynstelling foar profilearjen { -brand-shorter-name }.
 perftools-presets-graphics-label = Grafysk
+perftools-presets-graphics-description = Foarynstelling foar it ûndersykjen fan grafyske bugs yn { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description = Oanrekommandearre foarynstelling foar it analysearjen fan audio- en fideoproblemen.
+perftools-presets-media-description2 = Foarynstelling foar it ûndersykjen fan fideobugs yn { -brand-shorter-name }.
 perftools-presets-custom-label = Oanpast
 
 ##
