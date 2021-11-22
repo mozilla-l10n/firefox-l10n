@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = Firefox Frontend
 perftools-presets-firefox-front-end-description = Firefox frontend-aren barneko arazketarako gomendatutako aurrezarpena.
 perftools-presets-firefox-graphics-label = Firefox Grafikoak
 perftools-presets-firefox-graphics-description = Firefox grafikoen errendimenduaren ikerketarako gomendatutako aurrezarpena.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = { -brand-shorter-name }(r)en profila egiteko gomendatutako aurrezarpena.
+perftools-presets-graphics-label = Grafikoak
+perftools-presets-graphics-description = { -brand-shorter-name }(r)en programa-errore grafikoak ikertzeko aurrezarpena.
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description = Audio- eta bideo-arazoak diagnostikatzeko gomendatutako aurrezarpena.
+perftools-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
 perftools-presets-custom-label = Pertsonalizatua
 
 ##
