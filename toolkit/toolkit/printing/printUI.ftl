@@ -14,6 +14,8 @@ printui-sheets-count =
        *[many] { $sheetCount } аркушів паперу
     }
 printui-page-range-all = Усі
+printui-page-range-odd = Непарні
+printui-page-range-even = Парні
 printui-page-range-custom = Вибірково
 printui-page-range-label = Сторінки
 printui-page-range-picker =
