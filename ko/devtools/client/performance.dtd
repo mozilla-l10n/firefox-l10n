@@ -102,19 +102,19 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableMemory             "메모리 기록">
-<!ENTITY performanceUI.enableMemory.tooltiptext "프로파일할 때 메모리를 기록합니다.">
+<!ENTITY performanceUI.enableMemory.tooltiptext "프로파일링하는 동안 메모리 사용량을 기록합니다.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "할당 기록">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "프로파일할 때 객체 할당을 기록합니다.">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "프로파일링하는 동안 개체 할당을 기록합니다.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "프레임비율 기록">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "프로파일할 때 프레임비율을 기록합니다.">
+<!ENTITY performanceUI.enableFramerate             "프레임레이트 기록">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "프로파일링하는 동안 프레임레이트를 기록합니다.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
