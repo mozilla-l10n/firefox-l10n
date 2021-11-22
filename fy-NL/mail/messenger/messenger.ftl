@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Omliede
+message-header-msg-is-flagged =
+    .title = Mei stjer markearre berjocht
+message-header-msg-not-flagged =
+    .title = Net mei stjer markearre berjocht
 
 ## Action Button Context Menu
 
