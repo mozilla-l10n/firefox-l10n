@@ -203,6 +203,31 @@ profiler-popup-presets-firefox-graphics-description = Doporučené nastavení pr
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox Graphics
 profiler-popup-presets-media-description = Doporučené nastavení pro ladění problémů se zvukem a videem.
+profiler-popup-presets-firefox-description =
+    Doporučené nastavení pro profilování { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description =
+    Doporučené nastavení pro ladění grafických chyb v { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "loc") }
+        [feminine] { -brand-shorter-name(case: "loc") }
+        [neuter] { -brand-shorter-name(case: "loc") }
+       *[other] aplikaci { -brand-shorter-name }
+    }.
+profiler-popup-presets-graphics-label =
+    .label = Grafika
+profiler-popup-presets-media-description2 =
+    Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "loc") }
+        [feminine] { -brand-shorter-name(case: "loc") }
+        [neuter] { -brand-shorter-name(case: "loc") }
+       *[other] aplikaci { -brand-shorter-name }
+    }.
 profiler-popup-presets-media-label =
     .label = Média
 profiler-popup-presets-custom-label =

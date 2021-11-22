@@ -187,5 +187,8 @@ spotlight-total-cookie-protection-header =
     Vyzkoušejte naši zatím nejsilnější
     funkci na ochranu soukromí
 spotlight-total-cookie-protection-body = Úplná ochrana cookies brání sledovacím prvkům používat cookies pro vaše sledování napříč webovými stránkami.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ochrání vaše cookies tak, že omezí jejich dostupnost pro konkrétní stránku, kterou prohlížíte, takže je sledovací prvky nemohou používat pro vaše sledování napříč stránkami. Vykoušením této funkce nám je pomůžete dále optimalizovat pro vás i všechny ostatní uživatele.
 spotlight-total-cookie-protection-primary-button = Zapnout úplnou ochranu cookies
 spotlight-total-cookie-protection-secondary-button = Teď ne
