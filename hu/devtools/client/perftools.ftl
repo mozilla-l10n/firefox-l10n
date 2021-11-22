@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = Firefox kezelőfelület
 perftools-presets-firefox-front-end-description = Ajánlott előbeállítás a Firefox felületének belső hibakereséséhez.
 perftools-presets-firefox-graphics-label = Firefox grafika
 perftools-presets-firefox-graphics-description = Ajánlott előbeállítás a Firefox grafikus teljesítményének vizsgálatához.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Javasolt előbeállítás a { -brand-shorter-name } profilozásához.
+perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibáinak kivizsgálásához.
 perftools-presets-media-label = Média
 perftools-presets-media-description = Ajánlott előbeállítás a hang- és videóproblémák diagnosztizálásához.
+perftools-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
 perftools-presets-custom-label = Egyéni
 
 ##
