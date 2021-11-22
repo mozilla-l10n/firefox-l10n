@@ -137,7 +137,7 @@ about-logins-vulnerable-alert-title = பாதிப்பிற்குள்
 about-logins-vulnerable-alert-text2 = இந்த கடவுச்சொல் தரவு மீறலுக்குள்ளான மற்றொரு கணக்கில் பயன்படுத்தப்பட்டுள்ளது. சான்றுகளை மீண்டும் பயன்படுத்துவது தங்கள் எல்லா கணக்குகளையும் ஆபத்தில் வைக்கிறது. இந்த கடவுச்சொல்லை மாற்றவும்.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-vulnerable-alert-link = { $name } தளத்திற்குச் செல்க
+about-logins-vulnerable-alert-link = { $hostname } தளத்திற்குச் செல்க
 about-logins-vulnerable-alert-learn-more-link = மேலும் அறிக
 
 ## Error Messages
