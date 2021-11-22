@@ -52,3 +52,5 @@ account-provisioner-domain-results-caption = Ďalšie domény nájdete, ak do vy
 account-provisioner-free-account = Zadarmo
 account-provision-price-per-year = { $price } ročne
 account-provisioner-all-results-button = Zobraziť všetky výsledky
+account-provisioner-open-in-tab-img =
+    .title = Otvorí sa na novej karte

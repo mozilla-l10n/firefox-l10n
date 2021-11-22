@@ -140,3 +140,13 @@ about-addressbook-details-work-address-header = Pracovná adresa
 about-addressbook-details-other-info-header = Ďalšie informácie
 about-addressbook-prompt-to-save-title = Uložiť zmeny?
 about-addressbook-prompt-to-save = Chcete uložiť zmeny?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Sem presuňte alebo prilepte fotografiu alebo kliknutím vyberte súbor.
+about-addressbook-photo-drop-loading = Načítava sa fotografia…
+about-addressbook-photo-drop-error = Fotografiu sa nepodarilo načítať.
+about-addressbook-photo-filepicker-title = Vyberte súbor obrázka
+about-addressbook-photo-discard = Zahodiť existujúcu fotografiu
+about-addressbook-photo-cancel = Zrušiť
+about-addressbook-photo-save = Uložiť
