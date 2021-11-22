@@ -129,10 +129,10 @@ perftools-presets-firefox-graphics-description = Odporúčaná predvoľba na sk�
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Odporúčaná predvoľba pre profilovanie { -brand-shorter-name(case: "gen") }.
 perftools-presets-graphics-label = Grafika
-perftools-presets-graphics-description = Predvoľby pre ladenie grafických chýb v prehliadači { -brand-shorter-name }.
+perftools-presets-graphics-description = Predvoľba na diagnostiku grafických chýb v prehliadači { -brand-shorter-name }.
 perftools-presets-media-label = Médiá
 perftools-presets-media-description = Odporúčaná predvoľba na diagnostiku problémov so zvukom a videom.
-perftools-presets-media-description2 = Predvoľby pre ladenie chýb zvuku a videa v prehliadači { -brand-shorter-name }.
+perftools-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
 perftools-presets-custom-label = Vlastné
 
 ##
