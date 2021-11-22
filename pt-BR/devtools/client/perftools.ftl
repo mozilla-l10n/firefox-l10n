@@ -122,8 +122,13 @@ perftools-presets-firefox-front-end-label = Interface do usuário do Firefox
 perftools-presets-firefox-front-end-description = Ajuste prévio recomendado para depuração de aspectos internos da interface do usuário (front-end) do Firefox.
 perftools-presets-firefox-graphics-label = Gráfico do Firefox
 perftools-presets-firefox-graphics-description = Ajuste prévio recomendado para investigação de desempenho gráfico do Firefox.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Predefinição recomendada para gravação de profile no { -brand-shorter-name }.
+perftools-presets-graphics-label = Gráficos
+perftools-presets-graphics-description = Predefinição para investigar bugs gráficos no { -brand-shorter-name }.
 perftools-presets-media-label = Mídia
 perftools-presets-media-description = Ajuste prévio recomendado para diagnosticar problemas de áudio e vídeo.
+perftools-presets-media-description2 = Predefinição para investigar bugs de áudio e vídeo no { -brand-shorter-name }.
 perftools-presets-custom-label = Personalizado
 
 ##
