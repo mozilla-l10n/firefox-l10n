@@ -740,6 +740,19 @@ picture-in-picture-hide-toggle =
     .label = Emokañy votõ Picture-in-Picture (PIP)
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Emongu’e pe votõ Picture-in-Picture akatúa gotyo
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = Emongu’e pe votõ Picture-in-Picture asu gotyo
+    .accesskey = L
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
