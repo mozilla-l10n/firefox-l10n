@@ -134,3 +134,8 @@ about-addressbook-details-work-address-header = Adresse de officio
 about-addressbook-details-other-info-header = Altere informationes
 about-addressbook-prompt-to-save-title = Salvar le cambiamentos?
 about-addressbook-prompt-to-save = Vole tu salvar tu cambiamentos?
+
+# Photo dialog
+
+about-addressbook-photo-cancel = Cancellar
+about-addressbook-photo-save = Salvar

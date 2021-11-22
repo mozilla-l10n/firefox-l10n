@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Tu pote tentar de cercar pseudonymo
 account-provisioner-free-account = Libere
 account-provision-price-per-year = { $precio } pro anno
 account-provisioner-all-results-button = Monstrar tote le resultato
+account-provisioner-open-in-tab-img =
+    .title = Aperi in un nove scheda
