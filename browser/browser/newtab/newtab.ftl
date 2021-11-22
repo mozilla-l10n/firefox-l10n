@@ -230,6 +230,16 @@ newtab-pocket-more-recommendations = Više preporuka
 newtab-pocket-learn-more = Saznaj više
 newtab-pocket-cta-button = Nabavi { -pocket-brand-name }
 newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-name } i napuni si mozak vrhunskim štivom.
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Učitaj više priča
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = U toku si sa svime!
+newtab-pocket-last-card-desc = Provjeri kasnije za više sadržaja
+newtab-pocket-last-card-image =
+    .alt = U toku si sa svime
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

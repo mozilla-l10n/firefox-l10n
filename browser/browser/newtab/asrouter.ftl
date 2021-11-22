@@ -125,15 +125,26 @@ cfr-doorhanger-video-support-header = Nadogradi { -brand-short-name } za reprodu
 cfr-doorhanger-video-support-primary-button = Nadogradi sada
     .accesskey = N
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Saznaj više
+    .title = Proširi za više informacija o značajci
+spotlight-learn-more-expanded = Saznaj više
+    .title = Zatvori
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Izgleda da koristiš javni Wi-Fi
 spotlight-public-wifi-vpn-body = Za skrivanje tvoje lokacije i aktivnosti pregledavanja, razmisli o virtualnoj privatnoj mreži. Pomoći će ti u zaštiti svog pregledavanja weba na javnim mjestima, kao što su zračne luke i kafići.
 spotlight-public-wifi-vpn-primary-button = Sačuvaj privatnost uz { -mozilla-vpn-brand-name }
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ne sada
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
