@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Qua senza invit?
 calendar-itip-identity-warning = Ti n'es anc betg sin la glista da giasts.
 calendar-itip-identity-label = Respunder sco:
+calendar-itip-identity-label-none = Associar quest eveniment cun:
