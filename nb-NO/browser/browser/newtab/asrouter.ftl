@@ -123,6 +123,10 @@ cfr-doorhanger-video-support-primary-button = Oppdater nå
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Les mer
+    .title = Utvid for å lese mer om funksjonen
+spotlight-learn-more-expanded = Les mer
+    .title = Lukk
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
