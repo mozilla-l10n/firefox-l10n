@@ -105,6 +105,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Переслати
+message-header-msg-is-flagged =
+    .title = Повідомлення, позначене зірочкою
+message-header-msg-not-flagged =
+    .title = Повідомлення, не позначене зірочкою
 
 ## Action Button Context Menu
 

@@ -140,3 +140,13 @@ about-addressbook-details-work-address-header = Робоча адреса
 about-addressbook-details-other-info-header = Інші відомості
 about-addressbook-prompt-to-save-title = Зберегти зміни?
 about-addressbook-prompt-to-save = Бажаєте зберегти зміни?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Перетягніть або вставте сюди світлину або клацніть, щоб вибрати файл.
+about-addressbook-photo-drop-loading = Завантаження світлин…
+about-addressbook-photo-drop-error = Не вдалося завантажити світлину.
+about-addressbook-photo-filepicker-title = Вибрати файл зображення
+about-addressbook-photo-discard = Відкинути наявну світлину
+about-addressbook-photo-cancel = Скасувати
+about-addressbook-photo-save = Зберегти
