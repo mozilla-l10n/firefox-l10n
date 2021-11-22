@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = Zuppentar il buttun per activar/deactivar maletg-en-maletg
     .accesskey = Z
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Spustar il buttun maletg-en-maletg a dretga
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Spustar il buttun maletg-en-maletg a sanestra
+    .accesskey = s
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
