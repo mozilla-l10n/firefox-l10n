@@ -26,3 +26,5 @@ devtools-commandkey-performance = VK_F5
 devtools-commandkey-storage = VK_F9
 # Key pressed to open a toolbox with the DOM panel selected
 devtools-commandkey-dom = W
+# Key pressed to open a toolbox with the accessibility panel selected
+devtools-commandkey-accessibility-f12 = VK_F12
