@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Ενεργό">
 <!ENTITY newButton.label "Νέο…">
 <!ENTITY newButton.accesskey "Ν">
+<!ENTITY copyButton.label "Αντιγραφή…">
+<!ENTITY copyButton.accesskey "γ">
 <!ENTITY editButton.label "Επεξεργασία…">
 <!ENTITY editButton.accesskey "Ε">
 <!ENTITY deleteButton.label "Διαγραφή">
 <!ENTITY deleteButton.accesskey "φ">
+<!ENTITY reorderTopButton "Μετακίνηση στο πάνω μέρος">
+<!ENTITY reorderTopButton.accessKey "π">
+<!ENTITY reorderTopButton.toolTip "Αναδιατάξτε το φίλτρο ώστε να εκτελείται πριν από τα άλλα">
 <!ENTITY reorderUpButton.label "Μετακίνηση πάνω">
 <!ENTITY reorderUpButton.accesskey "π">
 <!ENTITY reorderDownButton.label "Μετακίνηση κάτω">
 <!ENTITY reorderDownButton.accesskey "κ">
+<!ENTITY reorderBottomButton "Μετακίνηση στο κάτω μέρος">
+<!ENTITY reorderBottomButton.accessKey "κ">
+<!ENTITY reorderBottomButton.toolTip "Αναδιατάξτε το φίλτρο ώστε να εκτελείται μετά τα άλλα">
 <!ENTITY filterHeader.label "Τα ενεργά φίλτρα εκτελούνται αυτόματα με την παρακάτω σειρά.">
 <!ENTITY filtersForPrefix.label "Φίλτρα για:">
 <!ENTITY filtersForPrefix.accesskey "Φ">
