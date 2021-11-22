@@ -134,3 +134,13 @@ about-addressbook-details-work-address-header = Wurkadres
 about-addressbook-details-other-info-header = Oare ynformaasje
 about-addressbook-prompt-to-save-title = Wizigingen bewarje?
 about-addressbook-prompt-to-save = Wolle jo jo wizigingen bewarje?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Sleep of plak hjir in foto, of klik om in bestân te selektearjen.
+about-addressbook-photo-drop-loading = Foto lade…
+about-addressbook-photo-drop-error = Foto laden mislearre.
+about-addressbook-photo-filepicker-title = Ofbyldingsbestân selektearje
+about-addressbook-photo-discard = Besteande foto fuortsmite
+about-addressbook-photo-cancel = Annulearje
+about-addressbook-photo-save = Bewarje
