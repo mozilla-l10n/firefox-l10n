@@ -53,3 +53,5 @@ account-provisioner-domain-results-caption = Móžośo teke za pśimjenjami abo 
 account-provisioner-free-account = Dermo
 account-provision-price-per-year = { $price } na lěto
 account-provisioner-all-results-button = Wšykne wuslědki pokazaś
+account-provisioner-open-in-tab-img =
+    .title = Wócynja w nowem rejtariku
