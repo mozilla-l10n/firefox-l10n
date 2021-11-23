@@ -47,11 +47,14 @@ account-setup-button-stop = Stopp
 
 ## Notifications
 
+account-setup-checking-password = Kontrollerer passord…
 
 ## Illustrations
 
 account-setup-step2-image =
     .title = Lastar…
+account-setup-step5-image =
+    .title = Konto opretta
 account-setup-selection-error = Treng du hjelp?
 account-setup-getting-started = Kom i gang
 
@@ -61,7 +64,14 @@ account-setup-getting-started = Kom i gang
 account-setup-result-imap = IMAP
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-incoming-title = Innkomande
+account-setup-outgoing-title = Utgåande
+account-setup-username-title = Brukarnamn
+account-setup-exchange-title = Server
 account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Inga kryptering
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
 
 ## Error messages
 
