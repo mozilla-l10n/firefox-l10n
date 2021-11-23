@@ -21,6 +21,14 @@ about-unloads-intro-2 =
     a <em>kursiwnje</em>, gaž proces se mjazy rozdźělnymi rejtarikami źěli.
     Móžośo rejtarik manuelnje zapušćiś, gaž na tłocašk <em>Wuwólniś</em>
     dołojce klikaśo.
+about-unloads-intro =
+    { -brand-short-name } ma funkciju, kótaraž rejtariki awtomatiski wuwólnjuju,
+    aby tomu zajźowała, až seš nałoženje njedosegajuceho składa dla wowalujo,
+    gaž skład, kótaryž jo systemoju k dispoziciji, jo niski. Pśiducy rejtarik, kótaryž ma se
+    wuwólniś, se na zakłaźe někotarych atributow wuběra. Toś ten bok pokazujo, kak
+    { -brand-short-name } prioritu rejtarikow staja a kótary rejtarik se wuwólnijo,
+    gaž se wuwólnjenje rejtarika zapušćijo. Móžośo wuwólnjenje rejtarika manuelnje zapušćiś,
+    gaž na tłocašk <em>Wuwólniś</em> dołojce klikaśo.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Glejśo <a data-l10n-name="doc-link">wuwólnjenje rejtarikow</a>, aby wěcej wó toś tej funkciji a toś tom boku zgónił.

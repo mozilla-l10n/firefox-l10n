@@ -121,10 +121,17 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Webwuwijaŕ
+perftools-presets-web-developer-description = Dopórucone pśednastajenje za pytanje zmólkow za nejwecej webnałoženjow z mało zastojańskimi datami.
 perftools-presets-firefox-platform-label = Platforma Firefox
+perftools-presets-firefox-platform-description = Dopórucone pśednastajenje za nutśikowne pytanje zmólkow platformy Firefox.
 perftools-presets-firefox-front-end-label = Frontend Firefox
+perftools-presets-firefox-front-end-description = Dopórucone pśednastajenje za nutśikowne pytanje zmólkow frontenda Firefox.
 perftools-presets-firefox-graphics-label = Grafika Firefox
+perftools-presets-firefox-graphics-description = Dopórucone pśednastajenje za pśepytowanje wugbaśa grafiki Firefox.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-graphics-label = Grafika
 perftools-presets-media-label = Medije
+perftools-presets-media-description = Dopórucone pśednastajenje za diagnosticěrowanje awdio- a wideoproblemow.
 perftools-presets-custom-label = Swójski
 
 ##

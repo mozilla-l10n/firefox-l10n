@@ -184,14 +184,23 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Dopórucone pśednastajenje za pytanje zmólkow za nejwěcej webnałoženjow z mało zastojańskimi datami.
 profiler-popup-presets-web-developer-label =
     .label = Webwuwijaŕ
+profiler-popup-presets-firefox-platform-description = Dopórucone pśednastajenje za nutśikowne pytanje zmólkow platformy Firefox.
 profiler-popup-presets-firefox-platform-label =
     .label = Platforma Firefox
+profiler-popup-presets-firefox-front-end-description = Dopórucone pśednastajenje za nutśikowne pytanje zmólkow frontenda Firefox.
 profiler-popup-presets-firefox-front-end-label =
     .label = Frontend Firefox
+profiler-popup-presets-firefox-graphics-description = Dopórucone pśednastajenje za pśepytowanje wugbaśa grafiki Firefox.
 profiler-popup-presets-firefox-graphics-label =
     .label = Grafika Firefox
+profiler-popup-presets-media-description = Dopórucone pśednastajenje za diagnosticěrowanje awdio- a wideoproblemow.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Grafika
 profiler-popup-presets-media-label =
     .label = Medije
 profiler-popup-presets-custom-label =
