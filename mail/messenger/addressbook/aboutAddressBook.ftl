@@ -137,6 +137,7 @@ about-addressbook-prompt-to-save = Wilt u uw wijzigingen opslaan?
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Versleep een foto hierheen of plak er een, of klik om een bestand te selecteren.
 about-addressbook-photo-drop-loading = Foto laden…
 about-addressbook-photo-drop-error = Kan foto niet laden.
 about-addressbook-photo-filepicker-title = Selecteer een afbeeldingsbestand
