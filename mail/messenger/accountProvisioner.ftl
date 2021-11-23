@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = È possibile cercare soprannomi o a
 account-provisioner-free-account = Gratuito
 account-provision-price-per-year = { $price } all’anno
 account-provisioner-all-results-button = Visualizza tutti i risultati
+account-provisioner-open-in-tab-img =
+    .title = Apri in una nuova scheda
