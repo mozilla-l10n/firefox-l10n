@@ -134,3 +134,13 @@ about-addressbook-details-work-address-header = Arbetsadress
 about-addressbook-details-other-info-header = Annan information
 about-addressbook-prompt-to-save-title = Spara ändringar?
 about-addressbook-prompt-to-save = Vill du spara dina ändringar?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Släpp eller klistra in ett foto här, eller klicka för att välja en fil.
+about-addressbook-photo-drop-loading = Laddar foto…
+about-addressbook-photo-drop-error = Det gick inte att ladda fotot.
+about-addressbook-photo-filepicker-title = Välj en bildfil
+about-addressbook-photo-discard = Ignorera befintligt foto
+about-addressbook-photo-cancel = Avbryt
+about-addressbook-photo-save = Spara

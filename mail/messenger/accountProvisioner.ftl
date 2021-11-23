@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Du kan försöka söka efter smekna
 account-provisioner-free-account = Gratis
 account-provision-price-per-year = { $price } per år
 account-provisioner-all-results-button = Visa alla resultat
+account-provisioner-open-in-tab-img =
+    .title = Öppnas i en ny flik
