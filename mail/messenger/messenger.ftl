@@ -108,6 +108,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Ailgyfeirio
+message-header-msg-is-flagged =
+    .title = Neges wedi'i marcio â seren
+message-header-msg-not-flagged =
+    .title = Neges heb ei marcio â seren
 
 ## Action Button Context Menu
 
