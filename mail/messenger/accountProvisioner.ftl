@@ -55,3 +55,5 @@ account-provisioner-domain-results-caption = Gallwch hefyd chwilio am lysenwau n
 account-provisioner-free-account = Am Ddim
 account-provision-price-per-year = { $price } y flwyddyn
 account-provisioner-all-results-button = Dangos yr holl ganlyniadau
+account-provisioner-open-in-tab-img =
+    .title = Yn agor mewn Tab newydd
