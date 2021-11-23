@@ -158,3 +158,10 @@ about-addressbook-details-work-address-header = Cyfeiriad Gwaith
 about-addressbook-details-other-info-header = Manylion Eraill
 about-addressbook-prompt-to-save-title = Cadw'r Newidiadau?
 about-addressbook-prompt-to-save = Ydych chi eisiau cadw eich newidiadau?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Gollwng neu gludo llun yma, neu glicio i ddewis ffeil.
+about-addressbook-photo-drop-loading = Yn llwytho llun…
+about-addressbook-photo-drop-error = Wedi methu llwytho llun.
+about-addressbook-photo-filepicker-title = Dewiswch ffeil delwedd
