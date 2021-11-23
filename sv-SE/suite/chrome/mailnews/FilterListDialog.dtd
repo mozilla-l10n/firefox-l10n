@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Aktiverat">
 <!ENTITY newButton.label "Nytt…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY copyButton.label "Kopiera…">
+<!ENTITY copyButton.accesskey "p">
 <!ENTITY editButton.label "Redigera…">
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Ta bort">
 <!ENTITY deleteButton.accesskey "b">
+<!ENTITY reorderTopButton "Flytta till toppen">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Ordna filter så det utförs före alla andra">
 <!ENTITY reorderUpButton.label "Flytta upp">
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Flytta ned">
 <!ENTITY reorderDownButton.accesskey "d">
+<!ENTITY reorderBottomButton "Flytta till botten">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Ordna filter så det utförs efter alla andra">
 <!ENTITY filterHeader.label "Aktiva filterregler körs i följande ordning.">
 <!ENTITY filtersForPrefix.label "Filter för:">
 <!ENTITY filtersForPrefix.accesskey "F">
