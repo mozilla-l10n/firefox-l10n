@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = U kunt op bijnamen of andere termen
 account-provisioner-free-account = Gratis
 account-provision-price-per-year = { $price } per jaar
 account-provisioner-all-results-button = Alle resultaten tonen
+account-provisioner-open-in-tab-img =
+    .title = Opent in een nieuw tabblad
