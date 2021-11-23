@@ -130,8 +130,13 @@ perftools-presets-firefox-front-end-label = Blaen Firefox
 perftools-presets-firefox-front-end-description = Y rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform blaen Firefox.
 perftools-presets-firefox-graphics-label = Graffigau Firefox
 perftools-presets-firefox-graphics-description = Y rhagosodiad sy'n cael ei argymell ar gyfer ymchwilio i berfformiad graffeg Firefox.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Y rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
+perftools-presets-graphics-label = Graffigau
+perftools-presets-graphics-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }.
 perftools-presets-media-label = Cyfrwng
 perftools-presets-media-description = Y rhagosodiad sy'n cael ei argymell ar gyfer gwneud diagnosis o broblemau sain a fideo.
+perftools-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
 perftools-presets-custom-label = Cyfaddas
 
 ##
