@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Você pode tentar procurar apelidos
 account-provisioner-free-account = Grátis
 account-provision-price-per-year = { $price } por ano
 account-provisioner-all-results-button = Mostrar todos os resultados
+account-provisioner-open-in-tab-img =
+    .title = Abre em uma nova aba
