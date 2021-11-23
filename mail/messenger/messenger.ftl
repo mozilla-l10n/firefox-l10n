@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Redirecionar
+message-header-msg-is-flagged =
+    .title = Mensagem marcada com estrela
+message-header-msg-not-flagged =
+    .title = Mensagem não marcada com estrela
 
 ## Action Button Context Menu
 
