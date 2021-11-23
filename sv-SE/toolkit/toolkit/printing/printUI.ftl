@@ -14,7 +14,7 @@ printui-sheets-count =
     }
 printui-page-range-all = Alla
 printui-page-range-odd = Udda
-printui-page-range-even = Jämn
+printui-page-range-even = Jämna
 printui-page-range-custom = Anpassad
 printui-page-range-label = Sidor
 printui-page-range-picker =
