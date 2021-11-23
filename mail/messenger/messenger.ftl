@@ -106,6 +106,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Dalej pósrědniś
+message-header-msg-is-flagged =
+    .title = Powěsć z gwězdku
+message-header-msg-not-flagged =
+    .title = Powěsć bźez gwězdki
 
 ## Action Button Context Menu
 

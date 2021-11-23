@@ -146,3 +146,13 @@ about-addressbook-details-work-address-header = Słužbna adresa
 about-addressbook-details-other-info-header = Druge informacije
 about-addressbook-prompt-to-save-title = Změny składowaś?
 about-addressbook-prompt-to-save = Cośo swóje změny składowaś?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Pušććo abo zasajźćo how foto abo klikniśo, aby dataju wubrał.
+about-addressbook-photo-drop-loading = Foto se zacytujo …
+about-addressbook-photo-drop-error = Foto njedajo se zacytaś.
+about-addressbook-photo-filepicker-title = Wobrazowu dataju wubraś
+about-addressbook-photo-discard = Eksistěrujuce foto zachyśiś
+about-addressbook-photo-cancel = Pśetergnuś
+about-addressbook-photo-save = Składowaś
