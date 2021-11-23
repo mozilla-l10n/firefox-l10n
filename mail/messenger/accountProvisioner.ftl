@@ -53,3 +53,5 @@ account-provisioner-domain-results-caption = Móžeće tež za přimjenami abo h
 account-provisioner-free-account = Darmo
 account-provision-price-per-year = { $price } na lěto
 account-provisioner-all-results-button = Wšě wuslědki pokazać
+account-provisioner-open-in-tab-img =
+    .title = Wočinja w nowym rajtarku
