@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Omdirigera
+message-header-msg-is-flagged =
+    .title = Stjärnmärkt meddelande
+message-header-msg-not-flagged =
+    .title = Ej stjärnmärkt meddelande
 
 ## Action Button Context Menu
 
