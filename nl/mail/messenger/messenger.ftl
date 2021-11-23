@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Omleiden
+message-header-msg-is-flagged =
+    .title = Met ster gemarkeerd bericht
+message-header-msg-not-flagged =
+    .title = Niet met ster gemarkeerd bericht
 
 ## Action Button Context Menu
 
