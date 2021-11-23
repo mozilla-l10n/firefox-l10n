@@ -134,3 +134,12 @@ about-addressbook-details-work-address-header = Werkadres
 about-addressbook-details-other-info-header = Andere informatie
 about-addressbook-prompt-to-save-title = Wijzigingen opslaan?
 about-addressbook-prompt-to-save = Wilt u uw wijzigingen opslaan?
+
+# Photo dialog
+
+about-addressbook-photo-drop-loading = Foto laden…
+about-addressbook-photo-drop-error = Kan foto niet laden.
+about-addressbook-photo-filepicker-title = Selecteer een afbeeldingsbestand
+about-addressbook-photo-discard = Bestaande foto verwijderen
+about-addressbook-photo-cancel = Annuleren
+about-addressbook-photo-save = Opslaan
