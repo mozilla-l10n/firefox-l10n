@@ -165,3 +165,6 @@ about-addressbook-photo-drop-target = Gollwng neu gludo llun yma, neu glicio i d
 about-addressbook-photo-drop-loading = Yn llwytho llun…
 about-addressbook-photo-drop-error = Wedi methu llwytho llun.
 about-addressbook-photo-filepicker-title = Dewiswch ffeil delwedd
+about-addressbook-photo-discard = Dileu'r llun presennol
+about-addressbook-photo-cancel = Diddymu
+about-addressbook-photo-save = Cadw
