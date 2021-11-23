@@ -17,6 +17,12 @@ screenshots-download-button = Scarica
 screenshots-download-button-tooltip = Scarica screenshot
 screenshots-copy-button = Copia
 screenshots-copy-button-tooltip = Copia lo screenshot negli appunti
+screenshots-download-button-title =
+  .title = Scarica screenshot
+screenshots-copy-button-title =
+  .title = Copia lo screenshot negli appunti
+screenshots-cancel-button-title =
+  .title = Annulla
 
 screenshots-meta-key =
     { PLATFORM() ->
