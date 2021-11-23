@@ -197,6 +197,7 @@ profiler-popup-presets-firefox-graphics-description = Anbefalt forhåndsinnstill
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox-grafikk
 profiler-popup-presets-media-description = Anbefalt forhåndsinnstilling for diagnostisering av lyd- og videoproblemer.
+profiler-popup-presets-firefox-description = Anbefalt forhåndsinnstilling for profilering { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
