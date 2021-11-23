@@ -137,5 +137,6 @@ about-addressbook-prompt-to-save = Vole tu salvar tu cambiamentos?
 
 # Photo dialog
 
+about-addressbook-photo-filepicker-title = Eliger un file imagine
 about-addressbook-photo-cancel = Cancellar
 about-addressbook-photo-save = Salvar
