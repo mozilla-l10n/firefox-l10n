@@ -34,3 +34,7 @@ suffixes-label = Päätteet
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Lisenssitiedot
+plugins-gmp-privacy-info = Tietosuojatiedot
+plugins-openh264-name = OpenH264 Video Codec, toimittaja Cisco Systems, Inc.
+plugins-openh264-description = Mozilla asensi tämän liitännäisen automaattisesti WebRTC-rajapinnan määritelmän mukaisesti ja jotta WebRTC-puhelut olisivat mahdollisia laitteisiin, jotka vaativat H.264-videokoodekin. Lue lisää koodekin toteutustavasta ja tarkastele lähdekoodia osoitteesta http://www.openh264.org/.
+plugins-widevine-name = Widevine Content Decryption Module, toimittaja Google Inc.
