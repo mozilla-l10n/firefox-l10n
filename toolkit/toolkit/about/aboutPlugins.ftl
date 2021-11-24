@@ -37,3 +37,4 @@ plugins-gmp-license-info = Fiosrachadh mun cheadachas
 plugins-gmp-privacy-info = Fiosrachadh prìobhaideachd
 plugins-openh264-name = OpenH264 Video Codec 'ga sholar le Cisco Systems, Inc.
 plugins-widevine-name = Tha an Widevine Content Decryption Module ’ga sholar le Google Inc.
+plugins-widevine-description = This plugin enables playback of encrypted media in compliance with the Encrypted Media Extensions specification. Encrypted media is typically used by sites to protect against copying of premium media content. Visit https://www.w3.org/TR/encrypted-media/ for more information on Encrypted Media Extensions.
