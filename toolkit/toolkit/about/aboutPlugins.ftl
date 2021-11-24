@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Про плагіни
-
 installed-plugins-label = Встановлені плагіни
 no-plugins-are-installed-label = Встановлених плагінів не знайдено
-
 deprecation-description = Чогось не вистачає? Деякі плагіни більше не підтримуються. <a data-l10n-name="deprecation-link">Докладніше.</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">Стан:</span> Увімкне�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Стан:</span> Увімкнений ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Стан:</span> Вимкнений
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Стан:</span> Вимкнений ({ $blockListState })
-
 mime-type-label = Тип MIME
 description-label = Опис
 suffixes-label = Суфікси
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Інформація про ліцензію
+plugins-openh264-name = Відеокодек OpenH264 наданий Cisco Systems, Inc.
+plugins-openh264-description = Цей плагін автоматично встановлений Mozilla для взаємодії зі специфікацією WebRTC та увімкнення викликів WebRTC з пристроями, які потребують відеокодек H.264. Відвідайте http://www.openh264.org/ для перегляду програмного коду кодека та докладної інформації про його застосування.
+plugins-widevine-name = Модуль розшифрування вмісту Widevine наданий Google Inc.
