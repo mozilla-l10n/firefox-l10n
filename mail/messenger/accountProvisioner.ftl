@@ -10,6 +10,8 @@ account-provisioner-description = Usar nuestros socios de confianza para obtener
 account-provisioner-start-help = Los términos de búsqueda usados se envían a { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Política de privacidad</a>) y a los proveedores de correo electrónico de terceros <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">Política de privacidad</a>, <a data-l10n-name="mailfence-tou-link">Términos de uso</a>) y <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Política de privacidad</a>, <a data-l10n-name="gandi-tou-link">Términos de uso</a>) para encontrar direcciones de correo electrónicos disponibles.
 account-provisioner-mail-account-title = Comprar una nueva dirección de correo electrónico
 account-provisioner-mail-account-description = Thunderbird se asoció con <a data-l10n-name="mailfence-home-link">Mailfence</a> para ofrecerte un nuevo correo electrónico privado y seguro. Creemos que todo el mundo debería tener un correo electrónico seguro.
+account-provisioner-domain-title = Comprar un correo electrónico y un dominio propio
+account-provisioner-domain-description = Thunderbird se asoció con <a data-l10n-name="gandi-home-link">Gandi</a> para ofrecerte un dominio personalizado. Esto te permite usar cualquier dirección en ese dominio.
 
 ## Forms
 
