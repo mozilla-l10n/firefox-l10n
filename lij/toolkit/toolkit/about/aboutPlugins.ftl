@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Informaçioin rigoardo i Plugin
-
 installed-plugins-label = Plugin instalæ
 no-plugins-are-installed-label = Nisciun plugin instalou
-
 deprecation-description = Te manca quarcösa? Çerti plugin no en ciù soportæ. <a data-l10n-name="deprecation-link">Atre informaçioin.</a>
 
 ## The information of plugins
@@ -29,7 +27,12 @@ state-dd-enabled = <span data-l10n-name="state">Stato:</span> ativo
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Stato:</span> ativo ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Stato:</span> dizativou
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stato:</span> dizativou ({ $blockListState })
-
 mime-type-label = Tipo de MIME
 description-label = Descriçion
 suffixes-label = Sufisci
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Informaçioin in sciâ licensa
+plugins-openh264-name = Codec video OpenH264 fæto da Cisco Systems, Inc.
+plugins-openh264-description = Sto plugin o vegne instalou aotomaticamente da Mozilla, in conformitæ co-e specifiche WebRTC, per consentire chiamate con dispositivi che richiedono un codec video H.264. Vixita http://www.openh264.org/ pe amiate o còdice sorgente e descovrî atre cöse in sce l'inplementaçion.
