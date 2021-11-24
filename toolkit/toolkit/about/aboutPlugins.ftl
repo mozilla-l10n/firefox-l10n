@@ -38,3 +38,4 @@ plugins-gmp-privacy-info = اطلاعات حریم‌خصوصی
 plugins-openh264-name = کدک ویدیویی OpenH264 ارائه شده توسط سیسکو سیستمز
 plugins-openh264-description = این افزایه به صورت خودکار توسط موزیلا نصب شده است. جهت تطابق با خصوصیات WebRTC و فعال سازی فراخوان های  WebRTC  با دستگاه ها کدک ویدیویی H.264 مورد نیاز است. http://www.openh264.org/ رابرای منبع کدک و اطلاعات بیشتر جهت پیاده سازی مشاهده کنید.
 plugins-widevine-name = ماژول رمزگشایی محتوا Widevine تهیه شده توسط گوگل
+plugins-widevine-description = این افزونه پخش رسانه‌های رمزگذاری شده را مطابق با قراردادِ Encrypted Media Extensions فعال می‌کند. رسانه‌های رمزگذاری شده معمولاً توسط سایت‌ها برای محافظت در برابر رونوشت از محتوای رسانه‌ای استفاده می‌شوند. برای اطلاعات بیشتر در مورد Encrypted Media Extensions، از https://www.w3.org/TR/encrypted-media/ دیدن کنید.
