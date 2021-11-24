@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = अनुशंसित विशेषता
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = मैं यह क्यों देख रहा हूँ
-
 cfr-doorhanger-extension-cancel-button = अभी नहीं
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = अभी जोड़ें
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = अनुशंसा सेटिंग प्रबंधित करें|
     .accesskey = म
-
 cfr-doorhanger-extension-never-show-recommendation = मुझे यह अनुशंसा न दिखाएं
     .accesskey = स
-
 cfr-doorhanger-extension-learn-more-link = अधिक जानें
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } द्वारा
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = सिफारिश
 cfr-doorhanger-extension-notification2 = अनुशंसा
     .tooltiptext = विस्तारक अनुशंसा
     .a11y-announcement = विस्तारक अनुशंसा उपलब्ध
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = अनुशंसा
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } उपयोग्कत्तायें
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = अपने बुकमार्क हर जगह सिंक करें।
@@ -87,56 +76,15 @@ cfr-protections-panel-link-text = अधिक जानें
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = नई विशेषताएँ:
-
 cfr-whatsnew-button =
     .label = क्या नया है
     .tooltiptext = क्या नया है
-
 cfr-whatsnew-release-notes-link-text = रिलीज नोट्स पढ़ें
-
-## Search Bar
-
-
-## Search bar
-
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = सभी देखें
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-
-## Picture-in-Picture fullscreen message
-
-
-## Protections Dashboard message
-
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = बंद करें
     .accesskey = C
 
@@ -148,21 +96,13 @@ cfr-doorhanger-milestone-close-button = बंद करें
 cfr-doorhanger-fission-secondary-button = अधिक जानें
     .accesskey = L
 
-## What's new: Cookies message
-
-
-## What's new: Media controls message
-
-
-## What's new: Search shortcuts
-
-
-## What's new: Cookies protection
-
-
-## What's new: Better bookmarking
-
 ## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = अभी अपडेट करें
+    .accesskey = U
+
+## Spotlight modal shared strings
+
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -170,3 +110,9 @@ cfr-doorhanger-fission-secondary-button = अधिक जानें
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = अभी नहीं
+    .accesskey = N
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = अभी नहीं
