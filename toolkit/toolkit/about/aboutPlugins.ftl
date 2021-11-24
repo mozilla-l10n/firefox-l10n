@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ପ୍ଲଗଇନ ବିଷୟରେ
-
 installed-plugins-label = ସ୍ଥାପିତ ପ୍ଲଗଇନଗୁଡ଼ିକ
 no-plugins-are-installed-label = କୌଣସି ସ୍ଥାପିତ ପ୍ଲଗଇନ ମିଳିଲା ନାହିଁ
 
@@ -27,7 +26,10 @@ state-dd-enabled = <span data-l10n-name="state">ସ୍ଥିତି:</span> ନ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">ସ୍ଥିତି:</span> ନିଷ୍କ୍ରିୟ ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">ସ୍ଥିତି:</span> ସକ୍ରିୟ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ସ୍ଥିତି:</span> ସକ୍ରିୟ ({ $blockListState })
-
 mime-type-label = ମାଇମ ପ୍ରକାର
 description-label = ବର୍ଣ୍ଣନା
 suffixes-label = ଅନୁଲଗ୍ନ
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Cisco Systems, Inc. ଦ୍ୱାରା ପ୍ରଦତ୍ତ OpenH264 ଭିଡ଼ିଓ କଡେକ
