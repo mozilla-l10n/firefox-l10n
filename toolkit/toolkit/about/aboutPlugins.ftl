@@ -34,3 +34,4 @@ suffixes-label = 后缀
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = 许可协议信息
+plugins-gmp-privacy-info = 隐私信息
