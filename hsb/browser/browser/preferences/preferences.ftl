@@ -959,6 +959,8 @@ content-blocking-fingerprinters = Porstowe wotćišće
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Testujće našu najmócnišu funkciju priwatnosće wšěch časow
     .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Dospołny plackowy škit placki k sydłu, na kotrymž sće, zo njebychu přesćěhowaki móhli je wužiwać, zo bychu was na rozdźělnych sydłach slědowali.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalše informacije
 content-blocking-warning-title = Kedźbu!
 content-blocking-and-isolating-etp-warning-description = Blokowanje přesćěhowakow a izolowanje placko móhłoj funkcionalnosć někotrych websydłow wobwliwować. Začitajće stronu z přesćěhowakami znowa, zo byšće wšón wobsah začitał.
