@@ -33,4 +33,8 @@ suffixes-label = Skráarendingar
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Notkunarskilmálar
+plugins-gmp-privacy-info = Persónuupplýsingar
 plugins-openh264-name = OpenH264 Video Codec gert af Cisco Systems, Inc.
+plugins-openh264-description = Þetta tengiforrit er sett inn sjálfkrafa frá Mozilla til að fara eftir WebRTC staðlinum og til að leyfa WebRTC köll á tæki sem þarfnast H.264 mynd kóðara. Kíktu á http://www.openh264.org/ til að skoða frumkóðann og fræðast meira um útfærsluna.
+plugins-widevine-name = Widevine Content Decryption Module frá Google Inc.
