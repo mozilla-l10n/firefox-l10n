@@ -34,3 +34,4 @@ suffixes-label = Суфикси
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Информације о лиценци
+plugins-gmp-privacy-info = Информације о приватности
