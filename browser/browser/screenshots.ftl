@@ -15,6 +15,12 @@ screenshots-download-button = Telechargiar
 screenshots-download-button-tooltip = Telechargiar il maletg dal visur
 screenshots-copy-button = Copiar
 screenshots-copy-button-tooltip = Copiar il maletg dal visur en l'archiv provisoric
+screenshots-download-button-title =
+    .title = Telechargiar il maletg dal visur
+screenshots-copy-button-title =
+    .title = Copiar il maletg dal visur en l'archiv provisoric
+screenshots-cancel-button-title =
+    .title = Interrumper
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
