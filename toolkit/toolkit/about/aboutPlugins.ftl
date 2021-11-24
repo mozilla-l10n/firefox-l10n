@@ -34,6 +34,7 @@ suffixes-label = 확장자
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = 라이선스 정보
+plugins-gmp-privacy-info = 개인정보 보호정보
 plugins-openh264-name = Cisco Systems, Inc.가 제공하는 OpenH264 동영상 코덱
 plugins-openh264-description = 이 플러그인은 WebRTC 표준을 따르고 H.264 동영상 코덱을 필요로 하는 기기로 부터의 WebRTC 통신을 활성화하기 위해서 Mozilla에 의해서 설치되었습니다. 코덱 소스 코드와 구현에 대한 내용을 확인하기 위해서는 http://www.openh264.org/ 를 방문하세요.
 plugins-widevine-name = Google Inc.가 제공하는 Widevine Content Decryption Module
