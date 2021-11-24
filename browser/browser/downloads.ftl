@@ -193,6 +193,7 @@ downloads-files-not-downloaded =
        *[other] { $num } datajow njeje so sćahnyło.
     }
 downloads-blocked-from-url = Wot { $url } zablokowane sćehnjenja.
+downloads-blocked-download-detailed-info = { $url } je spytało, wjacore dataje awtomatisce sćahnyć. Sydło je snano wobškodźene abo pospytuje spamowe dataje na wašim graće składować.
 
 ##
 
