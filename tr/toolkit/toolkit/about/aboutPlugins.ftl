@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Yan Uygulamalar Hakkında
-
 installed-plugins-label = Kurulu yan uygulamalar
 no-plugins-are-installed-label = Yüklenmiş yan uygulama bulunamadı
-
 deprecation-description = Bir şeyler mi eksik? Bazı yan uygulamalar artık desteklenmiyor. <a data-l10n-name="deprecation-link">Daha fazla bilgi alın.</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">Durum:</span> Etkinleştirildi
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Durum:</span> Etkinleştirildi ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Durum:</span> Devre dışı
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Durum:</span> Devre dışı ({ $blockListState })
-
 mime-type-label = MIME türü
 description-label = Tanım
 suffixes-label = Son ekler
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Lisans bilgileri
+plugins-gmp-privacy-info = Gizlilik bilgileri
+plugins-openh264-name = OpenH264 Video Çözücü (sağlayan: Cisco Systems, Inc.)
+plugins-widevine-name = Widevine İçerik Çözme Modülü (sağlayan: Google Inc.)
