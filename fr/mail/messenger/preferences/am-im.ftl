@@ -4,6 +4,8 @@
 
 account-settings-title = Paramètres d’authentification
 account-channel-title = Canaux par défaut
+chat-autologin =
+    .label = S’identifier au démarrage
 chat-encryption-generic = Générique
 chat-encryption-log =
     .label = Inclure les messages chiffrés de bout en bout dans les historiques de conversation
