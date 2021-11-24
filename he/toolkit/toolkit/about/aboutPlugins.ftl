@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = אודות תוספים חיצוניים
-
 installed-plugins-label = תוספים חיצוניים מותקנים
 no-plugins-are-installed-label = לא נמצאו תוספים חיצוניים מותקנים
-
 deprecation-description = חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד. <a data-l10n-name="deprecation-link">למידע נוסף.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">מצב:</span> מאופשר
 state-dd-enabled-block-list-state = <span data-l10n-name="state">מצב:</span> מאופשר ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">מצב:</span> מנוטרל
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">מצב:</span> מנוטרל ({ $blockListState })
-
 mime-type-label = סוג MIME
 description-label = תיאור
 suffixes-label = סיומות
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = פרטי רישוי
