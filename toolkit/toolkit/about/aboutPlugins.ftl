@@ -36,4 +36,6 @@ suffixes-label = Суффиксы
 plugins-gmp-license-info = Информация о лицензии
 plugins-gmp-privacy-info = Информация о конфиденциальности
 plugins-openh264-name = Видеокодек OpenH264, предоставленный Cisco Systems, Inc.
+plugins-openh264-description = Плагин автоматически установлен Mozilla для реализации спецификации WebRTC и выполнения звонков через WebRTC на устройства, требующие использования видеокодека H.264. Посетите https://www.openh264.org/ для просмотра исходного кода кодека и получения подробной информации о его реализации.
 plugins-widevine-name = Плагин расшифровки контента Widevine, предоставленный Google Inc.
+plugins-widevine-description = Плагин включает поддержку воспроизведения зашифрованного медиа в соответствии со спецификацией Encrypted Media Extensions (EME). Зашифрованные медиа обычно используются сайтами для защиты от копирования премиум медиа-контента. Посетите https://www.w3.org/TR/encrypted-media/ для получения подробной информации об Encrypted Media Extensions (EME).
