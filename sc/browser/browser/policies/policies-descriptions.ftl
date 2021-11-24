@@ -64,6 +64,7 @@ policy-EncryptedMediaExtensions = Ativa o disativa is estensiones pro is mèdios
 policy-Extensions = Installa, disinstalla o bloca estensiones. S'optzione de installatzione pigat URL o àndalas comente paràmetros. Is optziones de disinstallatzione e de blocu pigant is ID de is estensiones.
 policy-ExtensionSettings = Gesti totu is aspetos de s'installatzione de estensiones.
 policy-ExtensionUpdate = Ativa o disativa s'atualizatzione automàtica de is estensiones.
+policy-FirefoxHome = Cunfigura Firefox Home.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
