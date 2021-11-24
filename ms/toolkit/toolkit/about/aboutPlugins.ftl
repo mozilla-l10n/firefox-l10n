@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Perihal Plugin
-
 installed-plugins-label = Plugin dipasang
 no-plugins-are-installed-label = Tiada plugin terpasang yang ditemui
-
 deprecation-description = Ada sesuatu yang tidak kena? Ada plugin yang tidak lagi disokong. <a data-l10n-name="deprecation-link">Ketahui Selanjutnya.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Keadaan:</span> Didayakan
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Keadaan:</span> Didayakan ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Keadaan:</span> Dinyahdayakan
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Keadaan:</span> Dinyahdayakan ({ $blockListState })
-
 mime-type-label = Jenis MIME
 description-label = Keterangan
 suffixes-label = Akhiran
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Kodek Video OpenH264 disediakan oleh Cisco Systems, Inc.
