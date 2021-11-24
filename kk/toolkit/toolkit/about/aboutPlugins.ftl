@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Плагиндер туралы
-
 installed-plugins-label = Орнатылған плагиндер
 no-plugins-are-installed-label = Ортатылған плагиндер табылмады
-
 deprecation-description = Бірнәрсе жетіспей ма? Кейбір плагиндерге қолдау енді жоқ. <a data-l10n-name="deprecation-link">Көбірек білу.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Қалып-күйі:</span> Іс
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Қалып-күйі:</span> Іске қосулы ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Қалып-күйі:</span> Сөндірілген
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Қалып-күйі:</span> Сөндірілген ({ $blockListState })
-
 mime-type-label = MIME түрі
 description-label = Сипаттамасы
 suffixes-label = Суффикстер
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = OpenH264 видео кодекті Cisco Systems, Inc қамтамасыз етеді.
