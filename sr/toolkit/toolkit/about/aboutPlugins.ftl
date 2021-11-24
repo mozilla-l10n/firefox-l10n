@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = О додатним компонентама
-
 installed-plugins-label = Инсталиране додатне компоненте
 no-plugins-are-installed-label = Ниједна додатна компонента није инсталирана
-
 deprecation-description = Нешто недостаје? Неке додатне компоненте више нису подржане. <a data-l10n-name="deprecation-link">Сазнајте више</a>.
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Статус:</span> Омогу�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Статус:</span> Омогућен ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Статус:</span> Онемогућен
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Статус:</span> Онемогућен ({ $blockListState })
-
 mime-type-label = MIME тип
 description-label = Опис
 suffixes-label = Суфикси
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Информације о лиценци
