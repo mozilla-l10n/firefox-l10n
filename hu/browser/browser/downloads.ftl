@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Letöltés részletei
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] A fájl nincs letöltve.
+       *[other] { $num } fájl nincs letöltve.
+    }
+downloads-blocked-from-url = Letöltések letiltva innen: { $url }.
+downloads-blocked-download-detailed-info = A(z) { $url } több fájl automatikus letöltését kísérelte meg. Előfordulhat, hogy a webhely meghibásodott, vagy kéretlen fájlokat próbál tárolni az eszközén.
+
+##
+
 downloads-clear-downloads-button =
     .label = Letöltések törlése
     .tooltiptext = Törli a befejezett, megszakított és meghiúsult letöltéseket

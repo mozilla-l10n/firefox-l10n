@@ -15,6 +15,12 @@ screenshots-download-button = Letöltés
 screenshots-download-button-tooltip = Képernyőkép letöltése
 screenshots-copy-button = Másolás
 screenshots-copy-button-tooltip = Képernyőkép másolása a vágólapra
+screenshots-download-button-title =
+    .title = Képernyőkép letöltése
+screenshots-copy-button-title =
+    .title = Képernyőkép másolása a vágólapra
+screenshots-cancel-button-title =
+    .title = Mégse
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
