@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Détails du téléchargement
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Fichier non téléchargé.
+       *[other] { $num } fichiers non téléchargés.
+    }
+downloads-blocked-from-url = Téléchargements bloqués depuis { $url }.
+downloads-blocked-download-detailed-info = { $url } a essayé de télécharger automatiquement de nombreux fichiers. Le site peut être défectueux ou en train de tenter d’enregistrer des fichiers de spam sur votre appareil.
+
+##
+
 downloads-clear-downloads-button =
     .label = Vider la liste des téléchargements
     .tooltiptext = Vider la liste des téléchargements terminés, annulés et qui ont échoué
