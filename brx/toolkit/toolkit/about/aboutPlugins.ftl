@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = प्लागिननि सोमोन्दै
-
 installed-plugins-label = इनष्टल खालामखानाय प्लागिन
 no-plugins-are-installed-label = जेबो इनष्टल खालामखानाय प्लागिन मोनाखै
-
 deprecation-description = माबाफोर गोमादों? माखासेे फ्लागिनफोरा आरोबाव हेफाजाब होलिया| <a data-l10n-name="deprecation-link"> बांसिन सोलोंबाव|</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">राइजो:</span> मा�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">राइजो:</span> मावथि खालामबाय ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">राइजो:</span> लोरबां जाबाय
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">राइजो:</span> लोरबां जाबाय ({ $blockListState })
-
 mime-type-label = MIME रोखोम
 description-label = बेखेवनाय
 suffixes-label = उन दाजाबदाफोर
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = चिसक' सिस्टेम्स, Inc जों होजानाय OpenH264 भिडिअ' Codec
