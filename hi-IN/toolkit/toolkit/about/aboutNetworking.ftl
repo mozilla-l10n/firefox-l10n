@@ -8,6 +8,7 @@ about-networking-sockets = सॉकेट
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS कैशे साफ करें
 about-networking-dns-trr-url = DoH URL
+about-networking-dns-trr-mode = DoH मोड
 about-networking-websockets = वेबसॉकेट
 about-networking-refresh = ताज़ा करें
 about-networking-auto-refresh = हर 3 सेकेंड में स्वतःफ्रेश
