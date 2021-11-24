@@ -36,6 +36,13 @@ upgrade-dialog-pin-title =
         [macos] Mantene { -brand-short-name } in su Dock
        *[other] Apica su { -brand-short-name } a sa barra de is fainas
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Otene atzessu fàtzile a sa versione prus reghente de { -brand-short-name }.
+       *[other] Tene sa versione prus reghente de { -brand-short-name } a portada.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Mantene in Dock
@@ -53,6 +60,8 @@ upgrade-dialog-default-secondary-button = Immoe nono
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Cumintza dae zero cun unu tema nìdidu
 upgrade-dialog-theme-system = Tema de su sistema
     .title = Imprea su tema de su sistema operativu pro is butones, is menùs e is ventanas
 
@@ -60,6 +69,7 @@ upgrade-dialog-theme-system = Tema de su sistema
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Sa vida a colores
+upgrade-dialog-start-subtitle = Cumbinatziones de colores noas e lughentes. A disponimentu pro unu tempus limitadu.
 upgrade-dialog-start-primary-button = Esplora is cumbinatziones de colores
 upgrade-dialog-start-secondary-button = Immoe nono
 

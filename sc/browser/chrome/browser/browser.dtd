@@ -9,6 +9,7 @@
 
 <!-- Tab context menu -->
 
+<!ENTITY  listAllTabs.label      "Elenca totu is ischedas">
 
 <!ENTITY tabCmd.label "Ischeda noa">
 <!ENTITY openFileCmd.label "Aberi un'archìviu...">
@@ -22,6 +23,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navigatzione">
 <!ENTITY fullScreenCmd.label "Mannària prena">
 
+<!ENTITY pictureInPictureHideToggle.label "Cua su butone de Immàgine-subra-immàgine">
 <!ENTITY pictureInPictureHideToggle.accesskey "C">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -119,6 +121,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY sidebarCloseButton.tooltip     "Serra sa barra laterale">
 
+<!ENTITY allowPopups.accesskey "c">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
