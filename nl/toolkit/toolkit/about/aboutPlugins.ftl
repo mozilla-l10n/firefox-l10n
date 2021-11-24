@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Over plug-ins
-
 installed-plugins-label = Geïnstalleerde plug-ins
 no-plugins-are-installed-label = Er zijn geen geïnstalleerde plug-ins gevonden
-
 deprecation-description = Mist u iets? Sommige plug-ins worden niet meer ondersteund. <a data-l10n-name="deprecation-link">Meer info.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Status:</span> Ingeschakeld
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Ingeschakeld ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Status:</span> Uitgeschakeld
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Uitgeschakeld ({ $blockListState })
-
 mime-type-label = MIME-type
 description-label = Beschrijving
 suffixes-label = Achtervoegsels
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Licentie-informatie
