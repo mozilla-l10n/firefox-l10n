@@ -87,6 +87,8 @@ about-telemetry-no-search-results-all = माफ़ कीजिए! “{ $sear
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = माफ़ कीजिए! “{ $sectionName }” के लिए फ़िलहाल कोई डेटा उपलब्ध नहीं है
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = मौजूदा डेटा
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = सभी
 # button label to copy the histogram
