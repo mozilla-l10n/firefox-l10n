@@ -149,5 +149,6 @@ spotlight-public-wifi-vpn-link = Ani ko’ág̃a
 spotlight-total-cookie-protection-header =
     Eipuru ore rembiaporapykuere
     ñemigua imbaretevéva tembiasakuépe
+spotlight-total-cookie-protection-body = Ñemo’ãmbaite kookie rovake omboyke tapykuehohápe oipurúvo kookie nde rapykueho hag̃ua ñandutípe.
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
