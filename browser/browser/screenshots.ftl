@@ -15,6 +15,12 @@ screenshots-download-button = Baixar
 screenshots-download-button-tooltip = Baixar captura
 screenshots-copy-button = Copiar
 screenshots-copy-button-tooltip = Copiar captura para área de transferência
+screenshots-download-button-title =
+    .title = Baixar captura de tela
+screenshots-copy-button-title =
+    .title = Copiar captura para área de transferência
+screenshots-cancel-button-title =
+    .title = Cancelar
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
