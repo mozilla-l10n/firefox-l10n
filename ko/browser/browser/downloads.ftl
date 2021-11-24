@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,21 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = 다운로드 상세 정보
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+       *[other] 파일 { $num }개가 다운로드되지 않았습니다.
+    }
+downloads-blocked-from-url = { $url }에서 다운로드가 차단되었습니다.
+downloads-blocked-download-detailed-info = { $url } 사이트가 자동으로 여러 파일을 다운로드하려고 했습니다. 사이트가 손상되었거나 기기에 스팸 파일을 저장하려고 할 수 있습니다.
+
+##
+
 downloads-clear-downloads-button =
     .label = 다운로드 정리
     .tooltiptext = 완료, 취소 및 실패한 다운로드 항목 지우기

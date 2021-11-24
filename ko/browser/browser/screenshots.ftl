@@ -15,6 +15,12 @@ screenshots-download-button = 다운로드
 screenshots-download-button-tooltip = 스크린샷 다운로드
 screenshots-copy-button = 복사
 screenshots-copy-button-tooltip = 클립보드에 스크린샷 복사
+screenshots-download-button-title =
+    .title = 스크린샷 다운로드
+screenshots-copy-button-title =
+    .title = 클립보드에 스크린샷 복사
+screenshots-cancel-button-title =
+    .title = 취소
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
