@@ -37,3 +37,4 @@ plugins-gmp-license-info = Informacije o licenci
 plugins-gmp-privacy-info = Informacije o privatnosti
 plugins-openh264-name = OpenH264 Video Codec je omogućio Cisco Systems, Inc.
 plugins-widevine-name = Widevine Content Decryption Module omogućuje Google Inc.
+plugins-widevine-description = Ovaj dodatak omogućuje reprodukciju kodiranih medija u skladu sa Encrypted Media Extensions specifikacijom. Stranice obično koriste kodirane medije za zaštitu od kopiranja vrhunskog medijskog sadržaja. Posjetite https://www.w3.org/TR/encrypted-media/ za više informacija o Encrypted Media Extensions.
