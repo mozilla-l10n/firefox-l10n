@@ -130,9 +130,12 @@ perftools-presets-firefox-front-end-description = Ñemboheko iporãva emopotĩ h
 perftools-presets-firefox-graphics-label = Firefox ra’ãngaryrugua
 perftools-presets-firefox-graphics-description = Ñemboheko ypygua iporãva ehapykuereka hag̃ua Firefox ra’ãngarenda.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Ñemboheko ypykue eipurukuaáva emoheñói hag̃ua mba’ete { -brand-shorter-name }.
 perftools-presets-graphics-label = Ta’ãnga
+perftools-presets-graphics-description = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
 perftools-presets-media-label = Momaranduha
 perftools-presets-media-description = Ñemboheko ypygua eikuaa hag̃ua mba’epu ha ta’ãngamýi apañuãi.
+perftools-presets-media-description2 = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
 perftools-presets-custom-label = Mboavapyre
 
 ##

@@ -19,3 +19,4 @@ text-title = about:compat
 ## Firefox's Total Cookie Protection feature.
 
 label-smartblock = SmartBlock Ñemoĩporã
+text-no-smartblock = Ndojepurúi SmartBlock ñemoĩporãha
