@@ -34,3 +34,5 @@ suffixes-label = Endelser
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Licensinformation
+plugins-openh264-name = OpenH264 Video Codec provided by Cisco Systems, Inc.
+plugins-openh264-description = Dette plugin installeres automatisk af Mozilla for at overholde WebRTC-specifikationerne og muliggøre WebRTC-samtaler, som benytter video codec'et H.264. Du kan læse mere om implementeringen, og du kan finde kildekoden, på http://www.openh264.org/.
