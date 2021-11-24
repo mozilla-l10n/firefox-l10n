@@ -16,18 +16,26 @@ about-processes-column-cpu-total = CPU
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-file-process = फाइल ({ $pid })
+about-processes-extension-process = एक्सटेंशन ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = डेटा डिकोडर ({ $pid })
+about-processes-socket-process = नेटवर्क ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = अन्य: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
+
+about-processes-web-isolated-process = { $origin } ({ $pid })
 
 ## Details within processes
 
@@ -44,6 +52,7 @@ about-processes-tab-name = टैब: { $name }
 ##                    its start.
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
+
 
 ## Displaying Memory (total and delta)
 ## Variables:
