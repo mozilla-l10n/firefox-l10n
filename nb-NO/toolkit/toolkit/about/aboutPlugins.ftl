@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Om programtillegg
-
 installed-plugins-label = Installerte programtillegg
 no-plugins-are-installed-label = Fant ingen installerte programtillegg
-
 deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger. <a data-l10n-name="deprecation-link">Les mer.</a>
 
 ## The information of plugins
@@ -29,7 +27,14 @@ state-dd-enabled = <span data-l10n-name="state">Tilstand:</span> Påslått
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Tilstand:</span> Påslått ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Tilstand:</span> Avslått
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tilstand:</span> Avslått ({ $blockListState })
-
 mime-type-label = MIME-type
 description-label = Beskrivelse
 suffixes-label = Filtyper
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Lisensinformasjon
+plugins-gmp-privacy-info = Personverninformasjon
+plugins-openh264-name = OpenH264 video-kodek er levert av Cisco Systems, Inc.
+plugins-openh264-description = Dette programtillegget installeres automatisk av Mozilla for å følge WebRTC-spesifikasjonen, og for å tillate WebRTC-kall med enheter som bruker videokodeken H.264. Gå til http://www.openh264.org/ for å se kildekoden og lese mer om implementasjonen.
+plugins-widevine-name = Widevine Content Decryption Module levert av Google Inc.
