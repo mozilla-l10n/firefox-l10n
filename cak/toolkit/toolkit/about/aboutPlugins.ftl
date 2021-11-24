@@ -34,4 +34,7 @@ suffixes-label = Rij taq tzij
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Etamab'äl chi rij ri ruya'ik q'ij
+plugins-gmp-privacy-info = Ichinan etamab'äl
 plugins-openh264-name = Rucholajinel silowachib'äl OpenH264 talun ruma Cisco Systems, Inc.
+plugins-openh264-description = Re nak'ab'äl re' niyak ruma ri Mozilla pa ruyonil, richin nojqäx ri rub'anikil WebRTC, ruma nuya' q'ij chi ke ri WebRTC taq oyonïk rik'in okisaxel rajowaxik chi ke ri H.264 rucholajinel silowachib'äl. Kab'etz'eton pa http://www.openh264.org/ richin natz'ët ri rucholajil ruxe' ri codec chuqa' richin nawetamaj ch'aqa' chik chi rij re samajib'äl.
+plugins-widevine-name = Widevine juperaj etaman rusik'ixik chi rupam ri Google Inc.
