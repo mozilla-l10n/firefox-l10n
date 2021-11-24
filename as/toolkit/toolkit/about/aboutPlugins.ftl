@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = প্লাগিনসমূহৰ বিষয়ে
-
 installed-plugins-label = ইনস্টল্ড প্লাগিনসমূহ
 no-plugins-are-installed-label = কোনো ইনস্টল্ড প্লাগিন পোৱা নগল
-
 deprecation-description = কিবা বিচাৰি পোৱা নাই? কিছুমান প্লাগিন এতিয়া আৰু সমৰ্থিত নহয়। <a data-l10n-name="deprecation-link">অধিক জানক</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">অৱস্থা:</span> স�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">অৱস্থা:</span> সামৰ্থবান ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">অৱস্থা:</span> অসামৰ্থবান
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">অৱস্থা:</span> অসামৰ্থবান ({ $blockListState })
-
 mime-type-label = MIME ধৰণ
 description-label = বিৱৰণ
 suffixes-label = প্ৰত্যয়সমূহ
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Cisco Systems, Inc দ্বাৰা প্ৰদান কৰা OpenH264।
