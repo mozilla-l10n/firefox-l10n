@@ -33,4 +33,5 @@ suffixes-label = Bylagen
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Lisinsjeynformaasje
 plugins-openh264-name = OpenH264-fideocodec útjûn troch Cisco Systems, Inc.
