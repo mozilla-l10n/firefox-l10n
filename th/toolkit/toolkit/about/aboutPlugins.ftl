@@ -36,4 +36,6 @@ suffixes-label = ส่วนต่อท้าย
 plugins-gmp-license-info = ข้อมูลสัญญาอนุญาต
 plugins-gmp-privacy-info = ข้อมูลความเป็นส่วนตัว
 plugins-openh264-name = ตัวแปลงสัญญาณวิดีโอ OpenH264 ให้บริการโดย Cisco Systems, Inc.
+plugins-openh264-description = ปลั๊กอินนี้ติดตั้งโดยอัตโนมัติโดย Mozilla เพื่อให้สอดคล้องกับข้อกำหนด WebRTC และเปิดใช้งานการเรียก WebRTC ด้วยอุปกรณ์ที่ต้องใช้ตัวแปลงสัญญาณวิดีโอ H.264 เยี่ยมชม https://www.openh264.org/ เพื่อดูรหัสต้นฉบับของตัวแปลงสัญญาณและเรียนรู้เพิ่มเติมเกี่ยวกับการใช้งาน
 plugins-widevine-name = โมดูลถอดรหัสเนื้อหา Widevine ให้บริการโดย Google Inc.
+plugins-widevine-description = ปลั๊กอินนี้ช่วยให้สามารถเล่นสื่อที่เข้ารหัสตามข้อกำหนดของ Encrypted Media Extensions ได้ โดยทั่วไปแล้วสื่อที่เข้ารหัสจะถูกใช้โดยไซต์เพื่อป้องกันการคัดลอกเนื้อหาสื่อพรีเมียม เยี่ยมชม https://www.w3.org/TR/encrypted-media/ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Encrypted Media Extensions
