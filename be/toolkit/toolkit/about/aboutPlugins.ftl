@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Пра плагіны
-
 installed-plugins-label = Усталяваныя плагіны
 no-plugins-are-installed-label = Няма ўсталяваных плагінаў
-
 deprecation-description = Нешта адсутнічае? Некаторыя плагіны больш не падтрымліваюцца. <a data-l10n-name="deprecation-link">Падрабязней.</a>
 
 ## The information of plugins
@@ -29,7 +27,12 @@ state-dd-enabled = <span data-l10n-name="state">Стан:</span> Уключан�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Стан:</span> Уключаны ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Стан:</span> Забаронена
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Стан:</span> Забаронена ({ $blockListState })
-
 mime-type-label = Тып MIME
 description-label = Апісанне
 suffixes-label = Суфіксы
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Звесткі пра ліцэнзію
+plugins-gmp-privacy-info = Звесткі аб прыватнасці
+plugins-openh264-name = OpenH264 відэакодэк ад Cisco Systems, Inc.
