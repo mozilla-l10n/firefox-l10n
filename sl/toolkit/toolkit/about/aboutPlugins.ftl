@@ -38,3 +38,4 @@ plugins-gmp-privacy-info = Podatki o zasebnosti
 plugins-openh264-name = Video kodek OpenH264 podjetja Cisco Systems, Inc.
 plugins-openh264-description = Vtičnik samodejno namesti Mozilla za ustreznost s specifikacijo WebRTC in za izvajanje klicev WebRTC na napravah, ki zahtevajo kodek H.264. Obiščite http://www.openh264.org/ za ogled izvorne kode kodeka in več informacij o implementaciji.
 plugins-widevine-name = Modul Widevine Content Decryption podjetja Google Inc.
+plugins-widevine-description = Ta vtičnik omogoča predvajanje šifrirane predstavnosti v skladu s specifikacijo Encrypted Media Extensions. Strani šifrirano predstavnost običajno uporabljajo, da bi preprečile prilaščanje vsebine s predstavnostjo. Za več informacij o Encrypted Media Extensions obiščite https://www.w3.org/TR/encrypted-media/.
