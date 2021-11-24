@@ -33,4 +33,6 @@ suffixes-label = પ્રત્યય
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = લાઇસેંસ માહિતી
+plugins-gmp-privacy-info = ગોપનીયતા માહિતી
 plugins-openh264-name = OpenH264 વિડિયો કોડેક Cisco Systems, Inc દ્દારા પૂરુ પાડેલ છે.
