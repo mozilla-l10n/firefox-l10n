@@ -156,5 +156,6 @@ spotlight-public-wifi-vpn-link = Nic něnto
 spotlight-total-cookie-protection-header =
     Testujśo našo nejmócnjejše dožywjenje
     priwatnosći wšych casow
+spotlight-total-cookie-protection-body = Dopołny cookiejowy šćit pśeslědowakam zajźujo, cookije wužywaś, aby was w interneśe pśeslědowali.
 spotlight-total-cookie-protection-primary-button = Dopołny šćit pśed cookiejami zmóžniś
 spotlight-total-cookie-protection-secondary-button = Nic něnto
