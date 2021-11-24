@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = عن الملحقات
-
 installed-plugins-label = الملحقات المنصّبة
 no-plugins-are-installed-label = لا يوجد ملحقات منصّبة
-
 deprecation-description = أهناك ما تفتقده؟ بعض الملحقات لم تعد مدعومة. <a data-l10n-name="deprecation-link">اطّلع على المزيد.</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">الحالة:</span> مفعّل
 state-dd-enabled-block-list-state = <span data-l10n-name="state">الحالة:</span> مفعّل ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">الحالة:</span> معطّل
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">الحالة:</span> معطّل ({ $blockListState })
-
 mime-type-label = نوع MIME
 description-label = الوصف
 suffixes-label = اللواحق
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = معلومات الترخيص
+plugins-gmp-privacy-info = معلومات الخصوصية
+plugins-openh264-name = مرماز الڤديو OpenH264 من سيسكو سيستمز المحدودة.
+plugins-widevine-name = وحدة Widevine لتعمية المحتوى من جوجل.
