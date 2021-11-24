@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = O priključcima
-
 installed-plugins-label = Instalirani priključci
 no-plugins-are-installed-label = Nisu pronađeni instalirani priključci
-
 deprecation-description = Nešto ti nedostaje? Neki dodaci više nisu podržani. <a data-l10n-name="deprecation-link">Saznaj više.</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">Stanje:</span> Aktivirano
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Stanje:</span> Aktivirano ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Stanje:</span> Onemogućeno
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stanje:</span> Onemogućeno ({ $blockListState })
-
 mime-type-label = MIME vrsta
 description-label = Opis
 suffixes-label = Sufiksi
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Informacije o licenci
+plugins-gmp-privacy-info = Informacije o privatnosti
+plugins-openh264-name = OpenH264 Video Codec je omogućio Cisco Systems, Inc.
+plugins-widevine-name = Widevine Content Decryption Module omogućuje Google Inc.
