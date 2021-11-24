@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = A prepaus dels moduls
-
 installed-plugins-label = Plugins activats
 no-plugins-are-installed-label = Cap de plugin activat pas trobat
-
 deprecation-description = Vos manca quicòm ? Unes plugins son pas mai preses en carga. <a data-l10n-name="deprecation-link">Ne saber mai.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Estat :</span> Activat
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Estat :</span> Activat ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Estat :</span> Desactivat
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estat :</span> Desactivat ({ $blockListState })
-
 mime-type-label = Tipe MIME
 description-label = Descripcion
 suffixes-label = Sufixes
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Entresenhas sus la licéncia
