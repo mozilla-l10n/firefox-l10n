@@ -4,6 +4,8 @@
 
 account-settings-title = Hitelesítési beállítások
 account-channel-title = Alapértelmezett csatornák
+chat-autologin =
+    .label = Bejelentkezés indításkor
 chat-encryption-generic = Általános
 chat-encryption-log =
     .label = A végpontok közötti titkosít üzenetek felvétele a beszélgetési naplókba
