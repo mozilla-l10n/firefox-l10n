@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,24 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Ześěgnjeńske drobnostki
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] { $num } dataja njejo se ześěgnuła.
+        [two] { $num } dataji njejstej se ześěgnułej.
+        [few] { $num } dataje njejsu se ześěgnuli.
+       *[other] { $num } datajow njejo se ześěgnuło.
+    }
+downloads-blocked-from-url = Wót { $url } zablokěrowane ześěgnjenja.
+downloads-blocked-download-detailed-info = { $url } jo wopytało, někotare dataje awtomatiski ześěgnuś. Sedło jo snaź wobškóźone abo wopytujo spamowe dataje na wašom rěźe składowaś.
+
+##
+
 downloads-clear-downloads-button =
     .label = Ześěgnjenja lašowaś
     .tooltiptext = Wulašujo skóńcone, pśetergnjone a njeraźone ześěgnjenja
