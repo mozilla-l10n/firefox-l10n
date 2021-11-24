@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ਪਲੱਗਇਨ ਬਾਰੇ
-
 installed-plugins-label = ਇੰਸਟਾਲ ਹੋਈਆਂ ਪਲੱਗਇਨ
 no-plugins-are-installed-label = ਕੋਈ ਇੰਸਟਾਲ ਕੀਤੀ ਪਲੱਗਇਨ ਨਹੀਂ ਲੱਭੀ
-
 deprecation-description = ਕੁਝ ਰਹਿ ਗਿਆ ਹੈ? ਕੁਝ ਪਲੱਗਇਨਾਂ ਹੁਣ ਸਹਾਇਕ ਨਹੀਂ ਰਹੀਆਂ ਹਨ।<a data-l10n-name="deprecation-link">ਹੋਰ ਜਾਣੋ।</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">ਹਾਲਤ:</span> ਚਾਲ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">ਹਾਲਤ:</span> ਚਾਲੂ ਹੈ ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">ਹਾਲਤ:</span> ਬੰਦ ਹੈ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ਹਾਲਤ:</span> ਬੰਦ ਹੈ ({ $blockListState })
-
 mime-type-label = MIME ਕਿਸਮ
 description-label = ਵੇਰਵੇ
 suffixes-label = ਪਿਛੇਤਰ
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = ਲਸੰਸ ਦੀ ਜਾਣਕਾਰੀ
+plugins-gmp-privacy-info = ਪਰਦੇਦਾਰੀ ਦੀ ਜਾਣਕਾਰੀ
+plugins-openh264-name = OpenH264 ਵਿਡੀਓ ਕੋਡਕ Cisco Systems, Inc. ਵਲੋਂ ਦਿੱਤਾ ਹੈ।
+plugins-widevine-name = Widevine ਸਮੱਗਰੀ ਡਿਕ੍ਰਿਪਸ਼ਨ ਮੋਡੀਊਲ ਨੂੰ Google Inc ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਹੈ।
