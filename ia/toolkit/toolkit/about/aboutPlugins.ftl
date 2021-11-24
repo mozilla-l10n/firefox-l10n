@@ -36,3 +36,4 @@ suffixes-label = Suffixos
 plugins-gmp-license-info = Informationes re le licentia
 plugins-gmp-privacy-info = Informationes re le confidentialitate
 plugins-openh264-name = Video Codec OpenH264 providite per Cisco Systems, Inc.
+plugins-openh264-description = Iste plugin es automaticamente installate per Mozilla pro conformar se con le specification WebRTC e pro activar appellos WebRTC con apparatos que require le codec video H.264. Visita http://www.openh264.org/ pro vider le codice fonte del codec e pro saper plus super le implementation.
