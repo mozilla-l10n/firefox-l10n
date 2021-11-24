@@ -31,9 +31,11 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Pro ite?
+protections-panel-not-blocking-why-etp-on-tooltip = Si ddos blocas, unos elementos de unos cantos sitos podent non funtzionare. Chene sighidores, unos cantos butones, formulàrios e campos de atzessu podent non funtzionare.
 
 ##
 
+protections-panel-no-trackers-found = Nissunu sighidore connotu dae { -brand-short-name } rilevadu in custa pàgina.
 protections-panel-content-blocking-tracking-protection = Cuntenutu de sighidura
 protections-panel-content-blocking-socialblock = Elementos de sighidura de retes sotziales
 protections-panel-content-blocking-cryptominers-label = Cripto-minadores
@@ -69,6 +71,7 @@ protections-panel-site-not-working-view-send-report = Imbia un'informe
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Custos testimòngios ti sighint dae situ a situ pro regòllere datos subra de su chi faghes in lìnia. Ddos cunfigurant persones esternas che agentzias publitzitàrias e de anàlisi de datos.
 protections-panel-description-shim-allowed-learn-more = Àteras informatziones
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
