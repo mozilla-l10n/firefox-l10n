@@ -4,6 +4,8 @@
 
 account-settings-title = 驗證設定
 account-channel-title = 預設頻道
+chat-autologin =
+    .label = 啟動時登入
 chat-encryption-generic = 一般
 chat-encryption-log =
     .label = 在對話紀錄當中包含端到端加密過的訊息
