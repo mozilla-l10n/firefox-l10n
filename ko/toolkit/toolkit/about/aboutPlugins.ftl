@@ -37,3 +37,4 @@ plugins-gmp-license-info = 라이선스 정보
 plugins-openh264-name = Cisco Systems, Inc.가 제공하는 OpenH264 동영상 코덱
 plugins-openh264-description = 이 플러그인은 WebRTC 표준을 따르고 H.264 동영상 코덱을 필요로 하는 기기로 부터의 WebRTC 통신을 활성화하기 위해서 Mozilla에 의해서 설치되었습니다. 코덱 소스 코드와 구현에 대한 내용을 확인하기 위해서는 http://www.openh264.org/ 를 방문하세요.
 plugins-widevine-name = Google Inc.가 제공하는 Widevine Content Decryption Module
+plugins-widevine-description = 이 플러그인은 암호화된 미디어 확장 명세를 준수하는 암호화된 미디어를 실행할 수 있게 합니다. 암호화된 미디어는 보통 사이트에서 프리미엄 미디어 콘텐츠가 복제되는 것을 보호하기 위해 사용됩니다. 암호화된 미디어 확장에 대한 자세한 내용은 https://www.w3.org/TR/encrypted-media/ 페이지를 참조하세요.
