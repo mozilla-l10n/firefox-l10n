@@ -960,7 +960,7 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Testujśo našu nejmócnjejšu funkciju priwatnosći wšych casow
     .accesskey = T
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Dopołny cookiejowy šćit cookieje k sedłoju, na kótremž sćo, aby pśeslědowaki njemógli je wužywaś, aby was na rozdźělnych sedłach slědował.
+content-blocking-etp-standard-tcp-rollout-description = Dopołny cookiejowy šćit cookieje k sedłoju, na kótaremž sćo, aby pśeslědowaki njemógli je wužywaś, aby was na rozdźělnych sedłach slědowali.
 content-blocking-etp-standard-tcp-rollout-learn-more = Dalšne informacije
 content-blocking-warning-title = Glědajśo!
 content-blocking-and-isolating-etp-warning-description = Blokěrowanje pśeslědowakow a izolěrowanje plackow mógłej funkcionalnosć někotarych websedłow wobwliwowaś. Zacytajśo bok z pśeslědowakami znowego, aby wšykno wopśimjeśe zacytał.
