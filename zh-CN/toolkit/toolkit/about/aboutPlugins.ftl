@@ -35,3 +35,5 @@ suffixes-label = 后缀
 
 plugins-gmp-license-info = 许可协议信息
 plugins-gmp-privacy-info = 隐私信息
+plugins-openh264-description = 此插件由 Mozilla 自动安装，以遵从 WebRTC 技术标准，满足设备进行 WebRTC 通话所需要的 H.264 视频编码器。访问 http://www.openh264.org/ 可查看编码器的源代码和详细了解其实现。
+plugins-widevine-name = Widevine 内容解密模块，由 Google 公司提供
