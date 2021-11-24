@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Arredol d'os plugins
-
 installed-plugins-label = Plugins instalaus
 no-plugins-are-installed-label = No s'ha trobau garra plugin instalau
-
 deprecation-description = Falta cosa? Bells plugins ya han deixau d'estar soportaus. <a data-l10n-name="deprecation-link">Saber-ne mas</a>
 
 ## The information of plugins
@@ -29,7 +27,12 @@ state-dd-enabled = <span data-l10n-name="state">Estau:</span> Activau
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Estau:</span> Activau ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Estau:</span> Desactivau
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estau:</span> Desactivau ({ $blockListState })
-
 mime-type-label = Tipo MIME
 description-label = Descripción
 suffixes-label = Sufixos
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Información de licencia
+plugins-openh264-name = Codec vidéo OpenH264 furniu por Cisco Systems, Inc.
+plugins-openh264-description = Iste connector ye instalau automaticament por Mozilla pa complir con a especificación WebRTC y ta permitir as gritadas WebRTC con dispositivos que requieran o codec de video H.264. Visite http://www.openh264.org/ pa veyer o codigo fuent d'o codigo y pa obtener mas información d'a implementación.
