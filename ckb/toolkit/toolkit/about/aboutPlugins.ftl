@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = دەربارەی پێوەکراوەکان
-
 installed-plugins-label = پێوەکراوە دامەزراوەکان
 no-plugins-are-installed-label = هیچ پێوەکراوێکی دامەزراو نەدۆزرایەوە
 
@@ -27,7 +26,11 @@ state-dd-enabled = <span data-l10n-name="state">دۆخ:</span> چالاکە
 state-dd-enabled-block-list-state = <span data-l10n-name="state">دۆخ:</span> چالاکە ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">دۆخ:</span> ناچالاکە
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">دۆخ:</span> ناچالاکە ({ $blockListState })
-
 mime-type-label = جۆرەکانی MIME
 description-label = پێناسە
 suffixes-label = پاشگر
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = زانیارییەکانی ڕێگەپێدان
+plugins-gmp-privacy-info = زانیارییەکانی تایبەتمەندی
