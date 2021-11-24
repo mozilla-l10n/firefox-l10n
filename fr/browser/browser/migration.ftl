@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Assistant d’importation
-
 import-from =
     { PLATFORM() ->
         [windows] Importer les options, marque-pages, historique, mots de passe et autres données depuis :
        *[other] Importer les préférences, marque-pages, historique, mots de passe et autres données depuis :
     }
-
 import-from-bookmarks = Importer les marque-pages depuis :
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-brave =
+    .label = Brave
+    .accesskey = r
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
@@ -51,39 +52,25 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Aucun logiciel contenant des marque-pages, un historique ou des mots de passe enregistrés n’a été trouvé.
-
 import-source-page-title = Importation des paramètres et des données
 import-items-page-title = Éléments à importer
-
 import-items-description = Sélectionnez les éléments à importer :
-
 import-permissions-page-title = Veuillez accorder les autorisations à { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS vous demande d’autoriser explicitement { -brand-short-name } à accéder aux marque-pages de Safari. Cliquez sur « Continuer » et sélectionnez le fichier « Bookmarks.plist » dans le panneau d’ouverture de fichier qui apparaît.
-
 import-migrating-page-title = Importation…
-
 import-migrating-description = Les éléments suivants sont en cours d’importation…
-
 import-select-profile-page-title = Sélectionner un profil
-
 import-select-profile-description = Les profils suivants sont disponibles à l’importation :
-
 import-done-page-title = Importation terminée
-
 import-done-description = Les éléments suivants ont été importés avec succès :
-
 import-close-source-browser = Veuillez vous assurer que le navigateur sélectionné soit fermé avant de continuer.
-
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Importé depuis { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -95,7 +82,6 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
-
 imported-safari-reading-list = Liste de lecture (depuis Safari)
 imported-edge-reading-list = Liste de lecture (depuis Edge)
 
@@ -117,7 +103,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -130,12 +115,10 @@ browser-data-history-label =
             [firefox] Historique de navigation et marque-pages
            *[other] Historique de navigation
         }
-
 browser-data-formdata-checkbox =
     .label = Données de formulaires enregistrées
 browser-data-formdata-label =
     .value = Données de formulaires enregistrées
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -144,7 +127,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Identifiants et mots de passe enregistrés
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -163,12 +145,10 @@ browser-data-bookmarks-label =
             [safari] Signets
            *[other] Marque-pages
         }
-
 browser-data-otherdata-checkbox =
     .label = Autres données
 browser-data-otherdata-label =
     .label = Autres données
-
 browser-data-session-checkbox =
     .label = Fenêtres et onglets
 browser-data-session-label =
