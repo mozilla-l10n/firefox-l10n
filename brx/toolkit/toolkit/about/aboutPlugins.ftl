@@ -33,4 +33,6 @@ suffixes-label = उन दाजाबदाफोर
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = लाइसेन्स फोरमायथिहोग्रा
+plugins-gmp-privacy-info = गुमुरथि फोरमायथिहोग्रा
 plugins-openh264-name = चिसक' सिस्टेम्स, Inc जों होजानाय OpenH264 भिडिअ' Codec
