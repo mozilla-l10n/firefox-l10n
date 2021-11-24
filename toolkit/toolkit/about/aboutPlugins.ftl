@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Oer ynstekkers
-
 installed-plugins-label = Ynstallearre ynstekkers
 no-plugins-are-installed-label = Gjin ynstallearre ynstekkers fûn
-
 deprecation-description = Misse jo wat? Guon ynstekkers wurde net langer stipe. <a data-l10n-name="deprecation-link">Mear ynfo.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Steat:</span> Ynskeakele
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Steat:</span> Ynskeakele ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Steat:</span> Utskeakele
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Steat:</span> Utskeakele ({ $blockListState })
-
 mime-type-label = MIME-soarte
 description-label = Beskriuwing
 suffixes-label = Bylagen
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = OpenH264-fideocodec útjûn troch Cisco Systems, Inc.
