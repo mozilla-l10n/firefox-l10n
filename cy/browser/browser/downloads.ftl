@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,26 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Manylion y Llwytho i Lawr
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [zero] Dim ffeiliau wedi'u llwytho i lawr.
+        [one] Ffeil heb ei llwytho i lawr.
+        [two] { $num } ffeil heb eu llwytho i lawr.
+        [few] { $num } ffeil heb eu llwytho i lawr.
+        [many] { $num } ffeil heb eu llwytho i lawr.
+       *[other] { $num } ffeil heb eu llwytho i lawr.
+    }
+downloads-blocked-from-url = Wedi rhwystro llwytho ffeiliau i lawr o { $url }.
+downloads-blocked-download-detailed-info = Ceisiodd { $url } lwytho ffeiliau lluosog i lawr yn awtomatig. Efallai fod y wefan wedi torri neu'n ceisio storio ffeiliau sbam ar eich dyfais.
+
+##
+
 downloads-clear-downloads-button =
     .label = Clirio'r Llwythi
     .tooltiptext = Yn clirio llwythi cwblhawyd, dilëwyd a methwyd
