@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Acerca de los complementos
-
 installed-plugins-label = Complementos instalados
 no-plugins-are-installed-label = No se encontraron complementos instalados
-
 deprecation-description = ¿Te falta algo? Algunos complementos ya no son soportados. <a data-l10n-name="deprecation-link">Aprender más.</a>
 
 ## The information of plugins
@@ -29,7 +27,11 @@ state-dd-enabled = <span data-l10n-name="state">Estado:</span> Activado
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Estado:</span> Activado ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Estado:</span> Desactivado
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estado:</span> Desactivado ({ $blockListState })
-
 mime-type-label = Tipo MIME
 description-label = Descripción
 suffixes-label = Sufijos
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Información de licencia
+plugins-openh264-name = Códec de video OpenH264 proveído por Cisco Systems, Inc.
