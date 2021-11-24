@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = İndirme ayrıntıları
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Dosya indirilmedi.
+       *[other] { $num } dosya indirilmedi.
+    }
+downloads-blocked-from-url = { $url } adresinden indirmeler engellendi.
+downloads-blocked-download-detailed-info = { $url } otomatik olarak birden çok dosya indirmeye çalıştı. Site bozuk olabilir veya cihazınızda spam dosyalar depolamaya çalışıyor olabilir.
+
+##
+
 downloads-clear-downloads-button =
     .label = İndirmeleri temizle
     .tooltiptext = Tamamlanan, iptal edilen ve başarısız olan indirmeleri temizler

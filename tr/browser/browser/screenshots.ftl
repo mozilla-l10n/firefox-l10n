@@ -15,6 +15,12 @@ screenshots-download-button = İndir
 screenshots-download-button-tooltip = Ekran görüntüsünü indir
 screenshots-copy-button = Kopyala
 screenshots-copy-button-tooltip = Ekran görüntüsünü panoya kopyala
+screenshots-download-button-title =
+    .title = Ekran görüntüsünü indir
+screenshots-copy-button-title =
+    .title = Ekran görüntüsünü panoya kopyala
+screenshots-cancel-button-title =
+    .title = Vazgeç
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
