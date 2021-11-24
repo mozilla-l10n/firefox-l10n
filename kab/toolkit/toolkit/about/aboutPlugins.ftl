@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Talɣut ɣef uzegrir
-
 installed-plugins-label = Izegrar ibdedden
 no-plugins-are-installed-label = Ur nufi ula d-yiqen n uzegrir ibdedden
-
 deprecation-description = Tettut kra? Kra nizegrar ur ttwasefranken ara tura. <a data-l10n-name="deprecation-link">Issin ugar</a>
 
 ## The information of plugins
@@ -29,7 +27,14 @@ state-dd-enabled = <span data-l10n-name="state">Addad:</span> Yettwarmed
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Addad:</span> Yettwarmed ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Addad:</span> Arurmid
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Addad:</span> Arurmid ({ $blockListState })
-
 mime-type-label = MIME Type
 description-label = Aglam
 suffixes-label = Adfir
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Talɣut ɣef turagt
+plugins-gmp-privacy-info = Talɣut tusligt
+plugins-openh264-name = OpenH264 Video Codec imudd-it-id Cisco Systems, Inc
+plugins-openh264-description = Azegrir-agi isbedd-it Mozilla s wudem awurman s uqadaṛ n ilugan WebRTC akken daɣen ad isireg isawalen WebRTC akked ibenkan isran akudic tamwalit H.264. Ddu ɣer  http://www.openh264.org/ iwakken ad twaliḍ tangalt aɣbalu n ukudik udiɣ ad tissineḍ ugar ɣef usebded ines.
+plugins-widevine-name = Azgrir n uzmek n ugbur Widevine imudd-it-id Google Inc.
