@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 45em
 downloads-cmd-pause =
@@ -184,6 +179,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Завантажити подробиці
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Файлів не завантажено.
+        [few] { $num } файли не завантажено.
+       *[many] { $num } файлів не завантажено.
+    }
+downloads-blocked-from-url = Завантаження заблоковані з { $url }.
+downloads-blocked-download-detailed-info = { $url } намагався автоматично завантажити кілька файлів. Можливо, сайт зламаний або намагається зберегти спам-файли на вашому пристрої.
+
+##
+
 downloads-clear-downloads-button =
     .label = Очистити завантаження
     .tooltiptext = Очистити завершені, скасовані та невдалі завантаження
