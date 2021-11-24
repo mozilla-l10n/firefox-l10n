@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = 關於外掛程式
-
 installed-plugins-label = 已安裝的外掛程式
 no-plugins-are-installed-label = 找不到已安裝的外掛程式
-
 deprecation-description = 少了點東西嗎？已不再支援某些外掛程式。<a data-l10n-name="deprecation-link">了解更多。</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">狀態:</span> 已啟用
 state-dd-enabled-block-list-state = <span data-l10n-name="state">狀態:</span> 已啟用 ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">狀態:</span> 已停用
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">狀態:</span> 已停用 ({ $blockListState })
-
 mime-type-label = MIME 型態:
 description-label = 描述
 suffixes-label = 副檔名
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = 授權資訊
+plugins-gmp-privacy-info = 隱私權資訊
+plugins-openh264-description = 此外掛程式是由 Mozilla 自動安裝，以符合 WebRTC 規範，並讓您能夠與需要使用 H.264 視訊解碼器的裝置溝通。您可至 http://www.openh264.org/ 取得解碼器的原始碼，並了解此實作的相關資訊。
+plugins-widevine-name = Google Inc. 提供的 Widevine 內容解碼模組
