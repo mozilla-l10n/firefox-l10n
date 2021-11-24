@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Apie papildinius
-
 installed-plugins-label = Įdiegti papildiniai
 no-plugins-are-installed-label = Nėra įdiegtų papildinių
-
 deprecation-description = Kažko trūksta? Kai kurie papildiniai daugiau nepalaikomi. <a data-l10n-name="deprecation-link">Sužinoti daugiau.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Būsena:</span> įjungtas
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Būsena:</span> įjungtas ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Būsena:</span> išjungtas
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Būsena:</span> išjungtas ({ $blockListState })
-
 mime-type-label = MIME tipas
 description-label = Aprašas
 suffixes-label = Prievardžiai
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = „OpenH264“ vaizdo kodekas, sukurtas „Cisco Systems, Inc.“
