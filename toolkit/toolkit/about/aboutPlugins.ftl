@@ -36,3 +36,5 @@ suffixes-label = Суфіксы
 plugins-gmp-license-info = Звесткі пра ліцэнзію
 plugins-gmp-privacy-info = Звесткі аб прыватнасці
 plugins-openh264-name = OpenH264 відэакодэк ад Cisco Systems, Inc.
+plugins-openh264-description = Гэты плагін аўтаматычна усталяваны Mozilla для рэалізацыі спецыфікацыі WebRTC і тэлефанавання праз WebRTC на прылады, якія патрабуюць выкарыстання відэакодэка H.264. Каб паглядзець зыходны код кодэка і даведацца больш аб яго рэалізацыі, наведайце сайт http://www.openh264.org/.
+plugins-widevine-name = Плагін расшыфроўкі кантэнту Widevine ад Google Inc.
