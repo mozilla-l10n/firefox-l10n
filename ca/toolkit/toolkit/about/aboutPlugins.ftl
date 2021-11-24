@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Quant als connectors
-
 installed-plugins-label = Connectors instal·lats
 no-plugins-are-installed-label = No s'han trobat connectors instal·lats
-
 deprecation-description = Us falta res? Alguns complements ja no són compatibles. <a data-l10n-name="deprecation-link">Més informació.</a>
 
 ## The information of plugins
@@ -29,7 +27,10 @@ state-dd-enabled = <span data-l10n-name="state">Estat:</span> Habilitat
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Estat:</span> Habilitat ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Estat:</span> Inhabilitat
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estat:</span> Inhabilitat ({ $blockListState })
-
 mime-type-label = Tipus MIME
 description-label = Descripció
 suffixes-label = Sufixos
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Còdec de vídeo OpenH264 proporcionat per Cisco Systems, Inc.
