@@ -194,6 +194,7 @@ profiler-popup-presets-firefox-graphics-description = ערכה מומלצת לח
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox Graphics
 profiler-popup-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
+profiler-popup-presets-firefox-description = ערכת מומלצת ליצירת פרופיל ביצועים של { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-description = ערכה לחקירת באגים גרפיים ב־{ -brand-shorter-name }.
