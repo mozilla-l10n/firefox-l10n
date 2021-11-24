@@ -36,3 +36,4 @@ suffixes-label = Akhiran
 plugins-gmp-license-info = Maklumat lesen
 plugins-gmp-privacy-info = Maklumat Privasi
 plugins-openh264-name = Kodek Video OpenH264 disediakan oleh Cisco Systems, Inc.
+plugins-widevine-name = Modul Dekripsi Kandungan Widevine yang disediakan oleh Google Inc.
