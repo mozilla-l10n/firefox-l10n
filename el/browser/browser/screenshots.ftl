@@ -15,6 +15,8 @@ screenshots-download-button = Λήψη
 screenshots-download-button-tooltip = Λήψη στιγμιότυπου
 screenshots-copy-button = Αντιγραφή
 screenshots-copy-button-tooltip = Αντιγραφή στιγμιότυπου στο πρόχειρο
+screenshots-cancel-button-title =
+    .title = Ακύρωση
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
