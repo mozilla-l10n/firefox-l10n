@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = A bővítményekről
-
 installed-plugins-label = Telepített bővítmények
 no-plugins-are-installed-label = Nincsenek telepített bővítmények
-
 deprecation-description = Hiányzik valami? Néhány bővítményt már nem támogatott. <a data-l10n-name="deprecation-link">További tudnivalók</a>
 
 ## The information of plugins
@@ -29,7 +27,14 @@ state-dd-enabled = <span data-l10n-name="state">Állapot:</span> Engedélyezve
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Állapot:</span> Engedélyezve ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Állapot:</span> Tiltva
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Állapot:</span> Tiltva ({ $blockListState })
-
 mime-type-label = MIME-típus
 description-label = Leírás
 suffixes-label = Kiterjesztés
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Licencinformációk
+plugins-gmp-privacy-info = Adatvédelmi információk
+plugins-openh264-name = OpenH264 videokodek a Cisco Systems, Inc.-től
+plugins-openh264-description = Ezt a bővítményt a Mozilla automatikusan telepítette a WebRTC specifikációnak való megfelelés érdekében, és a WebRTC hívások lehetővé tételéhez olyan eszközökkel, amelyek a H.264 videokodeket igénylik. Keresse fel a http://www.openh264.org/ oldalt a megvalósítással kapcsolatos további tudnivalókért.
+plugins-widevine-name = Widevine tartalom-visszafejtő modul a Google Inc.-től
