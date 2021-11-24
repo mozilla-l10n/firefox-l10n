@@ -16,6 +16,14 @@ pill-action-edit =
 
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+menuitem-attach-files =
+    .label = Archivo(s)…
+    .accesskey = A
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Adjuntar archivo(s)…
+    .accesskey = A
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 
 # Reorder Attachment Panel
 
