@@ -153,6 +153,10 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = वेब डेवलेपर
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox प्लैटफ़ॉर्म
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = मीडिया
 profiler-popup-presets-custom-label =
