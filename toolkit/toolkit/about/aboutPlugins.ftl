@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = เกี่ยวกับปลั๊กอิน
-
 installed-plugins-label = ปลั๊กอินที่ติดตั้ง
 no-plugins-are-installed-label = ไม่พบปลั๊กอินที่ติดตั้ง
-
 deprecation-description = มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนอีกต่อไป <a data-l10n-name="deprecation-link">เรียนรู้เพิ่มเติม</a>
 
 ## The information of plugins
@@ -29,7 +27,13 @@ state-dd-enabled = <span data-l10n-name="state">สถานะ:</span> ถู�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">สถานะ:</span> ถูกเปิดใช้งาน ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">สถานะ:</span> ถูกปิดใช้งาน
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">สถานะ:</span> ถูกปิดใช้งาน ({ $blockListState })
-
 mime-type-label = ชนิดของ MIME
 description-label = คำอธิบาย
 suffixes-label = ส่วนต่อท้าย
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = ข้อมูลสัญญาอนุญาต
+plugins-gmp-privacy-info = ข้อมูลความเป็นส่วนตัว
+plugins-openh264-name = ตัวแปลงสัญญาณวิดีโอ OpenH264 ให้บริการโดย Cisco Systems, Inc.
+plugins-widevine-name = โมดูลถอดรหัสเนื้อหา Widevine ให้บริการโดย Google Inc.
