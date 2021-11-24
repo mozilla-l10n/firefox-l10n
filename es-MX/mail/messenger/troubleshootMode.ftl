@@ -5,12 +5,20 @@
 troubleshoot-mode-window =
     .title = Modo de resolución de problemas { -brand-short-name }
     .style = width: 37em;
+troubleshoot-mode-description = Usa el modo de resolución de problemas de { -brand-short-name } para diagnosticar problemas. Tus complementos y personalizaciones se desactivarán temporalmente.
+troubleshoot-mode-description2 = Puedes hacer permanentes algunos o todos estos cambios:
 troubleshoot-mode-disable-addons =
     .label = Deshabilitar todos los complementos
     .accesskey = D
+troubleshoot-mode-reset-toolbars =
+    .label = Restablecer barras de herramientas y controles
+    .accesskey = R
 troubleshoot-mode-change-and-restart =
     .label = Hacer cambios y reiniciar
     .accesskey = M
+troubleshoot-mode-continue =
+    .label = Continuar en el modo de resolución de problemas
+    .accesskey = C
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
