@@ -69,6 +69,9 @@ managed-bookmarks =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = अन्य बुकमार्क
+places-show-in-folder =
+    .label = फोल्डर में दिखाएं
+    .accesskey = F
 places-manage-bookmarks =
     .label = बुकमार्क प्रबंधित करें
     .accesskey = M
