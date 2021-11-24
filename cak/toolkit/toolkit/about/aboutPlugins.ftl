@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Na'oj chi kij ri taq nak'ab'äl
-
 installed-plugins-label = Xeyak taq nak'ab'äl
 no-plugins-are-installed-label = Majun nak'ab'äl eyakon
-
 deprecation-description = ¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki'. <a data-l10n-name="deprecation-link">Tetamäx ch'aqa' chik.</a>
 
 ## The information of plugins
@@ -29,7 +27,11 @@ state-dd-enabled = <span data-l10n-name="state">Amaq':</span> Tzijïl
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Amaq':</span> Tzijïl ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Amaq':</span> Chupül
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Amaq':</span> Chupül ({ $blockListState })
-
 mime-type-label = MIME Ruwäch
 description-label = Tzijoxikil
 suffixes-label = Rij taq tzij
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Etamab'äl chi rij ri ruya'ik q'ij
+plugins-openh264-name = Rucholajinel silowachib'äl OpenH264 talun ruma Cisco Systems, Inc.
