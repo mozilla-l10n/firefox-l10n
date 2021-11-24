@@ -33,4 +33,8 @@ suffixes-label = Rakgerioù
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Titouroù a-fet lañvaz
+plugins-gmp-privacy-info = Titouroù war ar vuhez prevez
 plugins-openh264-name = Enboneger-ezvoneger Video OpenH264 pourchaset gant Cisco Systems, Inc.
+plugins-openh264-description = Ent emgefreek eo staliet an enlugellad-mañ gant Mozilla evit heuliañ despizadur WebRTC hag evit aotreañ galvadennoù WebRTC gant trevnadoù a hegerz ar bonez video H.264. Gweladennit http://www.openh264.org/ evit gwelet boneg tarzh ar bonez hag evit deskiñ hiroc'h diwar-benn e c'heflouerañ.
+plugins-widevine-name = Widevine Content Decryption Module pourchaset gant Google Inc.
