@@ -33,4 +33,6 @@ suffixes-label = Akhiran
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Maklumat lesen
+plugins-gmp-privacy-info = Maklumat Privasi
 plugins-openh264-name = Kodek Video OpenH264 disediakan oleh Cisco Systems, Inc.
