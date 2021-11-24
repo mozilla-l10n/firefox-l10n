@@ -129,6 +129,7 @@ perftools-presets-firefox-front-end-label = Firefox Front-End
 perftools-presets-firefox-front-end-description = Recommended preset for internal Firefox front-end debugging.
 perftools-presets-firefox-graphics-label = Firefox Graphics
 perftools-presets-firefox-graphics-description = Recommended preset for Firefox graphics performance investigation.
+perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-media-label = Media
 perftools-presets-media-description = Recommended preset for diagnosing audio and video problems.
 perftools-presets-custom-label = Custom
