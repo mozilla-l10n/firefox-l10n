@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ပလတ်ဂင်များ အကြောင်း
-
 installed-plugins-label = အသုံးပြုဆော့ဝဲများ
 no-plugins-are-installed-label = တပ်ဆင်ထားသောဆော့ဝဲများမတွေ့ရ
-
 deprecation-description = တစ်ခုခုပျောက်နေသလား? အချို့သော ပလပ်အင်တွေကို ထောက်ပံ့မပေးတော့ပါ <a data-l10n-name="deprecation-link">ဆက်လက်လေ့လာပါ</a>
 
 ## The information of plugins
@@ -29,7 +27,11 @@ state-dd-enabled = <span data-l10n-name="state">အခြေအနေ:</span> �
 state-dd-enabled-block-list-state = <span data-l10n-name="state">အခြေအနေ:</span> ဖွင့်ထားတယ် ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">အခြေအနေ:</span> ပိတ်ထားတယ်
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">အခြေအနေ:</span> ပိတ်ထားတယ် ({ $blockListState })
-
 mime-type-label = MIME အမျိုးအစား
 description-label = ဖေါ်ပြချက်
 suffixes-label = နောက်ဆက်စကားစုများ
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = လိုင်စင်အချက်အလက်
+plugins-openh264-name = Cisco Systems, Inc. မှ စီစဉ်ပေးသော OpenH264 Video Codec
