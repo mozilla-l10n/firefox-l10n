@@ -33,4 +33,6 @@ suffixes-label = ප්‍රත්‍ය
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = බලපත්‍ර තොරතුරු
+plugins-gmp-privacy-info = පෞද්ගලිකත්ව තොරතුරු
 plugins-openh264-name = OpenH264 වීඩියෝ කේතනය ලබාදෙන්නේ Cisco Systems, Inc වෙතිනි.
