@@ -129,9 +129,12 @@ perftools-presets-firefox-front-end-description = Dopórucone pśednastajenje za
 perftools-presets-firefox-graphics-label = Grafika Firefox
 perftools-presets-firefox-graphics-description = Dopórucone pśednastajenje za pśepytowanje wugbaśa grafiki Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Dopórucone pśednastajenje za profilěrowanje { -brand-shorter-name }
 perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Pśednastajenje za wuslěźenje zmólkow grafiki w { -brand-shorter-name }.
 perftools-presets-media-label = Medije
 perftools-presets-media-description = Dopórucone pśednastajenje za diagnosticěrowanje awdio- a wideoproblemow.
+perftools-presets-media-description2 = Pśednastajenje za wuslěźenje zmólkow awdio a wideo w { -brand-shorter-name }.
 perftools-presets-custom-label = Swójski
 
 ##

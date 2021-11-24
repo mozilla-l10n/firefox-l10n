@@ -15,6 +15,12 @@ screenshots-download-button = Ześěgnuś
 screenshots-download-button-tooltip = Foto wobrazowki ześěgnuś
 screenshots-copy-button = Kopěrowaś
 screenshots-copy-button-tooltip = Foto wobrazowki do mjazywótkłada kopěrowaś
+screenshots-download-button-title =
+    .title = Foto wobrazowki ześěgnuś
+screenshots-copy-button-title =
+    .title = Foto wobrazowki do mjazywótkłada kopěrowaś
+screenshots-cancel-button-title =
+    .title = Pśetergnuś
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
