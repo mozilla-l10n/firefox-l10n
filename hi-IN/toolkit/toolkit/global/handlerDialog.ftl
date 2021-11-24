@@ -9,6 +9,12 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = क्या आप इस साइट को { $scheme } लिंक खोलने देना चाहते हैं?
+permission-dialog-description-file = क्या आप इस फाइल को { $scheme } लिंक खोलने देना चाहते हैं?
+permission-dialog-description-host = क्या आप { $host } को { $scheme } लिंक खोलने देना चाहते हैं?
+permission-dialog-description-app = क्या आप इस साइट को { $appName } में { $scheme } लिंक खोलने देना चाहते हैं?
+permission-dialog-description-host-app = क्या आप { $host } को { $appName } में { $scheme } लिंक खोलने देना चाहते हैं?
+permission-dialog-description-file-app = क्या आप इस फाइल को { $appName } में { $scheme } लिंक खोलने देना चाहते हैं?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
