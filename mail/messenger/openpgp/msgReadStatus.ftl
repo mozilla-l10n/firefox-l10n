@@ -6,6 +6,8 @@
 ## Message Header Encryption Button
 
 message-header-show-security-info-key = S
-
 openpgp-openpgp = OpenPGP
-
+openpgp-message-header-signed-verified-icon =
+    .alt = Firma verificada
+openpgp-message-header-signed-unverified-icon =
+    .alt = Firma no verificada
