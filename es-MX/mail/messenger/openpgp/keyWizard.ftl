@@ -6,6 +6,12 @@ key-wizard-button =
     .buttonlabelaccept = Continuar
     .buttonlabelhelp = Regresar
 key-wizard-learn-more = Saber más
+radio-create-key =
+    .label = Crear una nueva clave OpenPGP
+    .accesskey = C
+radio-import-key =
+    .label = Importar una clave OpenPGP existente
+    .accesskey = I
 
 ## Generate key section
 
@@ -44,11 +50,25 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+openpgp-import-key-button =
+    .label = Seleccionar archivo para importar…
+    .accesskey = S
+import-key-file = Importar archivo de clave OpenPGP
 gnupg-file = Archivos GnuPG
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>¡Error!</b> No se pudo importar el archivo. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>¡Error!</b> No se pudieron importar las claves. { $error }
 openpgp-import-identity-label = Identidad
+openpgp-import-fingerprint-label = Huella dactilar
+openpgp-import-created-label = Creado
 openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Propiedades de la clave
+    .accesskey = K
 
 ## External Key section
 
+openpgp-external-key-title = Clave GnuPG externa
 openpgp-external-key-input =
     .placeholder = 123456789341298340
