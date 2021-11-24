@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -217,6 +212,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = פרטי הורדה
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] הקובץ לא הורד.
+       *[other] { $num } קבצים לא הורדו.
+    }
+downloads-blocked-from-url = הורדות נחסמו מ־{ $url }.
+downloads-blocked-download-detailed-info = האתר { $url } ניסה להוריד באופן אוטומטי מספר מרובה של קבצים. ייתכן שהאתר פועל לא כשורה, או שהוא מנסה לאחסן קובצי זבל על המכשיר שלך.
+
+##
+
 downloads-clear-downloads-button =
     .label = ניקוי הורדות
     .tooltiptext = ניקוי ההורדות שהושלמו, בוטלו ונכשלו

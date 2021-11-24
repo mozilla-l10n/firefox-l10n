@@ -15,6 +15,12 @@ screenshots-download-button = הורדה
 screenshots-download-button-tooltip = הורדת צילום מסך
 screenshots-copy-button = העתקה
 screenshots-copy-button-tooltip = העתקת צילום מסך ללוח העריכה
+screenshots-download-button-title =
+    .title = הורדת צילום מסך
+screenshots-copy-button-title =
+    .title = העתקת צילום מסך ללוח העריכה
+screenshots-cancel-button-title =
+    .title = ביטול
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
