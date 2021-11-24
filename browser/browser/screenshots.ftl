@@ -15,6 +15,12 @@ screenshots-download-button = Llwytho i Lawr
 screenshots-download-button-tooltip = Llwytho i lawr llun sgrin
 screenshots-copy-button = Copïo
 screenshots-copy-button-tooltip = Copïo llun sgrin i'r clipfwrdd
+screenshots-download-button-title =
+    .title = Llwytho i lawr llun sgrin
+screenshots-copy-button-title =
+    .title = Copïo llun sgrin i'r clipfwrdd
+screenshots-cancel-button-title =
+    .title = Diddymu
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
