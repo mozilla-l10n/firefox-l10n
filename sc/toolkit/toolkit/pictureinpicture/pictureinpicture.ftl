@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Immàgine-subra-immàgine
+pictureinpicture-pause =
+    .aria-label = Pàusa
 pictureinpicture-play =
     .aria-label = Reprodue
 pictureinpicture-mute =
