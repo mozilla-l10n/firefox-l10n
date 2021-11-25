@@ -50,3 +50,5 @@ account-provisioner-domain-results-caption = 您可以尝试搜索昵称或其�
 account-provisioner-free-account = 免费
 account-provision-price-per-year = 每年 { $price }
 account-provisioner-all-results-button = 显示所有结果
+account-provisioner-open-in-tab-img =
+    .title = 新建标签页打开
