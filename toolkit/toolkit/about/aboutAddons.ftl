@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Hent udvidelser og temaer på <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Hent ordbøger på <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Hent sprogpakker på <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Du har ikke nogen tilføjelser af denne type installeret
 list-empty-available-updates =
