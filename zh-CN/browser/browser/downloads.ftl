@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 45em
 downloads-cmd-pause =
@@ -184,6 +179,20 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = 下载详情
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+       *[one] 未下载文件。
+        [other] 未下载 { $num } 个文件。
+    }
+
+##
+
 downloads-clear-downloads-button =
     .label = 清空下载列表
     .tooltiptext = 清除已完成、已取消及失败的下载项
