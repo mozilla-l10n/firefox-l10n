@@ -149,3 +149,4 @@ spotlight-public-wifi-vpn-link = Ikke nu
 spotlight-total-cookie-protection-header =
     Vær blandt de første til at teste
     vores hidtil stærkeste privatlivs-beskyttelse
+spotlight-total-cookie-protection-secondary-button = Ikke nu
