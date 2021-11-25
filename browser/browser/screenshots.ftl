@@ -15,6 +15,12 @@ screenshots-download-button = Herunterladen
 screenshots-download-button-tooltip = Bildschirmfoto herunterladen
 screenshots-copy-button = Kopieren
 screenshots-copy-button-tooltip = Bildschirmfoto in Zwischenablage kopieren
+screenshots-download-button-title =
+    .title = Bildschirmfoto herunterladen
+screenshots-copy-button-title =
+    .title = Bildschirmfoto in Zwischenablage kopieren
+screenshots-cancel-button-title =
+    .title = Abbrechen
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
