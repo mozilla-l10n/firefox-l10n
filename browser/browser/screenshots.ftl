@@ -15,6 +15,12 @@ screenshots-download-button = Stiahnuť
 screenshots-download-button-tooltip = Stiahnuť snímku obrazovky
 screenshots-copy-button = Kopírovať
 screenshots-copy-button-tooltip = Skopírovať snímku do schránky
+screenshots-download-button-title =
+    .title = Stiahnuť snímku obrazovky
+screenshots-copy-button-title =
+    .title = Skopírovať snímku do schránky
+screenshots-cancel-button-title =
+    .title = Zrušiť
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

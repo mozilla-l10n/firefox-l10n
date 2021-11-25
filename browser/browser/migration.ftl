@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Sprievodca importom
-
 import-from =
     { PLATFORM() ->
         [windows] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:
        *[other] Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z aplikácie:
     }
-
 import-from-bookmarks = Importovať záložky z aplikácie:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-brave =
+    .label = Brave
+    .accesskey = v
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
@@ -51,39 +52,25 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Nebol nájdený žiadny program, ktorý by obsahoval záložky, históriu alebo uložené heslá.
-
 import-source-page-title = Import nastavení a údajov
 import-items-page-title = Položky na import
-
 import-items-description = Vyberte položky, ktoré chcete importovať:
-
 import-permissions-page-title = Prosím, udeľte povolenia aplikácii { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS vyžaduje, aby ste aplikácii { -brand-short-name } výslovne povolili prístup k záložkám zo Safari. Kliknite na “Pokračovať” a v zobrazenom paneli vyberte súbor “Bookmarks.plist”.
-
 import-migrating-page-title = Importuje sa…
-
 import-migrating-description = Práve sa importujú tieto položky…
-
 import-select-profile-page-title = Výber profilu
-
 import-select-profile-description = Importovať možno tieto profily:
-
 import-done-page-title = Import bol dokončený
-
 import-done-description = Úspešne boli importované tieto položky:
-
 import-close-source-browser = Pred pokračovaním sa uistite, že vybraný prehliadač nie je spustený.
-
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Z prehliadača { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -95,7 +82,6 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
-
 imported-safari-reading-list = Zoznam na prečítanie (zo Safari)
 imported-edge-reading-list = Zoznam na prečítanie (z Microsoft Edge)
 
@@ -117,7 +103,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -130,12 +115,10 @@ browser-data-history-label =
             [firefox] História prehliadania a záložky
            *[other] História prehliadania
         }
-
 browser-data-formdata-checkbox =
     .label = Údaje zadané do formulárov
 browser-data-formdata-label =
     .value = Údaje zadané do formulárov
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -144,7 +127,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Uložené prihlasovacie údaje
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -159,12 +141,10 @@ browser-data-bookmarks-label =
             [edge] Obľúbené položky
            *[other] Záložky
         }
-
 browser-data-otherdata-checkbox =
     .label = Iné údaje
 browser-data-otherdata-label =
     .label = Iné údaje
-
 browser-data-session-checkbox =
     .label = Okná a karty
 browser-data-session-label =
