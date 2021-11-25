@@ -19,3 +19,4 @@ text-title = about:compat
 ## Firefox's Total Cookie Protection feature.
 
 label-smartblock = Correções SmartBlock
+text-no-smartblock = Não estão a ser utilizadas quaisquer correções SmartBlock
