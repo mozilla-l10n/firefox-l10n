@@ -4,6 +4,8 @@
 
 account-settings-title = Autentiseringsinställningar
 account-channel-title = Standardkanaler
+chat-autologin =
+    .label = Logga in vid start
 chat-encryption-generic = Allmänt
 chat-encryption-log =
     .label = Inkludera end-to-end krypterade meddelanden i konversationsloggar
