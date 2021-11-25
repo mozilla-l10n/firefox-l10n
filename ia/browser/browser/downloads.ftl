@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalios del discargamento
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] file non discargate
+       *[other] { $num } files non discargate.
+    }
+downloads-blocked-from-url = Discargamentos blocate per { $url }.
+downloads-blocked-download-detailed-info = { $url } tentava de discargar automaticamente plure files. Le sito pote esser corrupte o tenta de immagazinage files SPAM sur tu apparato.
+
+##
+
 downloads-clear-downloads-button =
     .label = Vacuar discargamentos
     .tooltiptext = Vacua le lista de discargamentos complete, cancellate e fallite
