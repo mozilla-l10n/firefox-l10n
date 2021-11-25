@@ -191,6 +191,7 @@ downloads-files-not-downloaded =
        *[other] { $num } faili pole alla laaditud.
     }
 downloads-blocked-from-url = Allalaadimised saidilt { $url } on blokitud.
+downloads-blocked-download-detailed-info = Sait { $url } üritas automaatselt alla laadida mitut faili. Sait võib olla katki või üritab sinu seadmesse salvestada rämpsfaile.
 
 ##
 
