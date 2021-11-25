@@ -15,6 +15,12 @@ screenshots-download-button = Downloaden
 screenshots-download-button-tooltip = Schermafbeelding downloaden
 screenshots-copy-button = Kopiëren
 screenshots-copy-button-tooltip = Schermafbeelding naar klembord kopiëren
+screenshots-download-button-title =
+    .title = Schermafbeelding downloaden
+screenshots-copy-button-title =
+    .title = Schermafbeelding naar klembord kopiëren
+screenshots-cancel-button-title =
+    .title = Annuleren
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
