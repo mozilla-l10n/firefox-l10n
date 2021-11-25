@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,17 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Nedlastingsdetaljer
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-blocked-from-url = Nedlastinger fra { $url } blokkert.
+downloads-blocked-download-detailed-info = { $url } forsøkte å laste ned flere filer automatisk. Nettstedet kan være ødelagt eller prøver å lagre spam-filer på enheten din.
+
+##
+
 downloads-clear-downloads-button =
     .label = Fjern nedlastinger
     .tooltiptext = Fjerner fullførte, avbrutte og feilede nedlastinger

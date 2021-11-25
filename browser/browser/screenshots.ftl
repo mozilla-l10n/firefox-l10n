@@ -15,6 +15,8 @@ screenshots-download-button = Last ned
 screenshots-download-button-tooltip = Last ned skjermbildet
 screenshots-copy-button = Kopier
 screenshots-copy-button-tooltip = Kopier skjermbildet til utklippstavlen
+screenshots-cancel-button-title =
+    .title = Avbryt
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
