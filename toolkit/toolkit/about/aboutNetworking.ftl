@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adresser
 about-networking-expires = Udløber (sekunder)
 about-networking-originAttributesSuffix = Isolationsnøgle
+about-networking-flags = Ekstra flag
 about-networking-messages-sent = Meddelelser sendt
 about-networking-messages-received = Meddelelser modtaget
 about-networking-bytes-sent = Bytes sendt

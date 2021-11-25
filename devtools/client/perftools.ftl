@@ -132,8 +132,10 @@ perftools-presets-firefox-graphics-description = Anbefalet forhåndsindstilling 
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Anbefalet forhåndsindstilling for profilering af { -brand-shorter-name }.
 perftools-presets-graphics-label = Grafik
+perftools-presets-graphics-description = Forhåndsindstilling for at undersøge grafik-problemer i { -brand-shorter-name }.
 perftools-presets-media-label = Medieindhold
 perftools-presets-media-description = Anbefalet forhåndsindstilling for at diagnosticere problemer med lyd og video.
+perftools-presets-media-description2 = Forhåndsindstilling for at undersøge lyd- og video-problemer i { -brand-shorter-name }.
 perftools-presets-custom-label = Tilpasset
 
 ##
