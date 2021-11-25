@@ -103,6 +103,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = 重定向
+message-header-msg-is-flagged =
+    .title = 星标邮件
+message-header-msg-not-flagged =
+    .title = 非星标邮件
 
 ## Action Button Context Menu
 
