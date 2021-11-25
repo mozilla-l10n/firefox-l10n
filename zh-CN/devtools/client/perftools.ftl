@@ -103,7 +103,7 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name }现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = （在短时间内，您仍可以通过<a>{ options-context-advanced-settings }</a>访问旧的“性能”面板）
+perftools-onboarding-reenable-old-panel = （在短期内，您仍可以通过<a>{ options-context-advanced-settings }</a>访问旧的“性能”面板）
 perftools-onboarding-close-button =
     .aria-label = 关闭导览消息
 

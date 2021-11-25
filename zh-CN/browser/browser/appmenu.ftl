@@ -195,6 +195,7 @@ profiler-popup-presets-firefox-graphics-description = 推荐在检查 Firefox �
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox 图形
 profiler-popup-presets-media-description = 推荐在诊断 Firefox 音视频问题时使用。
+profiler-popup-presets-firefox-description = 推荐在检测 { -brand-shorter-name } 性能时使用。
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-description = 推荐在检查 { -brand-shorter-name } 图形 Bug 时使用。
