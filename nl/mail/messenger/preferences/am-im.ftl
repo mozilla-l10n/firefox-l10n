@@ -4,6 +4,8 @@
 
 account-settings-title = Authenticatie-instellingen
 account-channel-title = Standaardkanalen
+chat-autologin =
+    .label = Aanmelden bij opstarten
 chat-encryption-generic = Algemeen
 chat-encryption-log =
     .label = End-to-end-versleutelde berichten in gesprekslogboeken opnemen
