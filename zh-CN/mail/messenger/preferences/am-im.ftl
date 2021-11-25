@@ -4,6 +4,8 @@
 
 account-settings-title = 验证设置
 account-channel-title = 默认频道
+chat-autologin =
+    .label = 启动时登录
 chat-encryption-generic = 常规
 chat-encryption-log =
     .label = 在对话日志中包含端到端加密消息

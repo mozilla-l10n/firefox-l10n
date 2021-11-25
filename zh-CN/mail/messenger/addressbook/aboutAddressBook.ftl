@@ -131,3 +131,9 @@ about-addressbook-details-work-address-header = 工作地址
 about-addressbook-details-other-info-header = 其他信息
 about-addressbook-prompt-to-save-title = 要保存更改吗？
 about-addressbook-prompt-to-save = 您要保存更改吗？
+
+# Photo dialog
+
+about-addressbook-photo-filepicker-title = 选择图片
+about-addressbook-photo-cancel = 取消
+about-addressbook-photo-save = 保存
