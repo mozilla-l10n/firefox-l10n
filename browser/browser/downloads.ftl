@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = ჩამოტვირთვის აღწერილობა
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ფაილი ვერ ჩამოიტვირთა.
+       *[other] { $num } ფაილი ვერ ჩამოიტვირთა.
+    }
+downloads-blocked-from-url = ჩამოტვირთები შეიზღუდა მისამართიდან { $url }.
+downloads-blocked-download-detailed-info = { $url } ცდილობდა რამდენიმე ფაილის ჩამოტვირთვას. ეს საიტი ან დაზიანებულია, ან თქვენს მოწყობილობაზე მავნე ფაილების განთავსებას აპირებს.
+
+##
+
 downloads-clear-downloads-button =
     .label = ჩამოტვირთვების გასუფთავება
     .tooltiptext = ასუფთავებს დასრულებულ, გაუქმებულ და ჩაშლილ ჩამოტვირთვებს
