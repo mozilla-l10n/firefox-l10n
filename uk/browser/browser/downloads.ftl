@@ -187,7 +187,7 @@ downloads-details =
 
 downloads-files-not-downloaded =
     { $num ->
-        [one] Файлів не завантажено.
+        [one] Файл не завантажено.
         [few] { $num } файли не завантажено.
        *[many] { $num } файлів не завантажено.
     }
