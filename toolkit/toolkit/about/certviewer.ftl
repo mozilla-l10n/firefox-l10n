@@ -102,7 +102,7 @@ certificate-viewer-download-pem-chain = PEM (ჯაჭვი)
     .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = ეს გაფართოება გადამწყვეტი მნიშვნელობის მქონეა, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის დაუდგენელია.
+    .title = ეს გაფართოება მიიჩნევა გადამწყვეტად, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის გაუგებარია.
 certificate-viewer-export = ცალკე შენახვა
     .download = { $fileName }.pem
 
