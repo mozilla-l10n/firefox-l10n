@@ -60,7 +60,7 @@ about-logins-list-section-breach = Sitos web vìtima de violatzione de datos
 about-logins-list-section-vulnerable = Craes non seguras
 about-logins-list-section-nothing = Nissunu avisu
 about-logins-list-section-today = Oe
-about-logins-list-section-yesterday = Eris
+about-logins-list-section-yesterday = Erisero
 about-logins-list-section-week = Ùrtimas 7 dies
 
 ## Introduction screen
