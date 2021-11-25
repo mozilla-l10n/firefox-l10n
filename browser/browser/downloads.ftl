@@ -190,6 +190,7 @@ downloads-files-not-downloaded =
        *[one] 未下载文件。
         [other] 未下载 { $num } 个文件。
     }
+downloads-blocked-from-url = 已阻止来自 { $url } 的多个下载。
 downloads-blocked-download-detailed-info = { $url } 尝试自动下载多个文件。该网站可能临时异常，或是试图在您的设备上存储垃圾文件。
 
 ##

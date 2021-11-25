@@ -123,8 +123,11 @@ perftools-presets-firefox-front-end-description = 推荐在 Firefox 内部前端
 perftools-presets-firefox-graphics-label = Firefox 图形
 perftools-presets-firefox-graphics-description = 推荐在检查 Firefox 图形性能问题时使用。
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-graphics-label = 图形
+perftools-presets-graphics-description = 推荐在检查 { -brand-shorter-name } 图形 Bug 时使用。
 perftools-presets-media-label = 媒体
 perftools-presets-media-description = 推荐在诊断 Firefox 音视频问题时使用。
+perftools-presets-media-description2 = 推荐在检查 { -brand-shorter-name } 音视频 Bug 时使用。
 perftools-presets-custom-label = 自定义
 
 ##
