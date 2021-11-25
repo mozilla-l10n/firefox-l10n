@@ -15,6 +15,12 @@ screenshots-download-button = 保存
 screenshots-download-button-tooltip = 保存截图
 screenshots-copy-button = 复制
 screenshots-copy-button-tooltip = 复制截图到剪贴板
+screenshots-download-button-title =
+    .title = 保存截图
+screenshots-copy-button-title =
+    .title = 复制截图到剪贴板
+screenshots-cancel-button-title =
+    .title = 取消
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
