@@ -184,7 +184,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = მზა პარამეტრები, განკუთვნილი პროგრამების ხარვეზების გამოსავლენად, ნაკლები დატვირთვით.
+profiler-popup-presets-web-developer-description = მზა პარამეტრები, პროგრამების ხარვეზების გამოსავლენად, ნაკლები დატვირთვით.
 profiler-popup-presets-web-developer-label =
     .label = ვებშემუშავება
 profiler-popup-presets-firefox-platform-description = მზა პარამეტრები, განკუთვნილი Firefox-პლატფორმის შიდა ხარვეზების გამოსავლენად.
@@ -197,6 +197,9 @@ profiler-popup-presets-firefox-graphics-description = მზა პარამ�
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox-გრაფიკა
 profiler-popup-presets-media-description = მზა პარამეტრები, განკუთვნილი ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად.
+profiler-popup-presets-firefox-description = მზა პარამეტრები, რომლითაც აღიწერება { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = ფაილები
 profiler-popup-presets-custom-label =
