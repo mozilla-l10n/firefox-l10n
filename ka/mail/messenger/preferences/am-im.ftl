@@ -4,6 +4,8 @@
 
 account-settings-title = ანგარიშზე შესვლის პარამეტრები
 account-channel-title = ნაგულისხმევი არხები
+chat-autologin =
+    .label = შესვლა ჩართვისას
 chat-encryption-generic = ძირითადი
 chat-encryption-log =
     .label = გამჭოლი დაშიფვრის მქონე წერილის ჩართვა საუბრის ჩანაწერებში
