@@ -728,7 +728,7 @@ popups-infobar-block =
 ##
 
 popups-infobar-dont-show-message =
-    .label = No ammustres custu messàgiu cando is ventanas a cumparsa sunt blocadas
+    .label = No ammustres custu messàgiu cando is ventanas a cumparsa siant blocadas
     .accesskey = N
 edit-popup-settings =
     .label = Gesti sa cunfiguratzione de is ventanas a cumparsa...

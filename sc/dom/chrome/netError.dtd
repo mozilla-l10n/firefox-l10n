@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "Faddina in sa càrriga de sa pàgina">
+<!ENTITY retry.label "Torra·bi a proare">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Faddina in sa connessione">
+
+
+<!ENTITY dnsNotFound.title "Indiritzu no agatadu">
+
+<!ENTITY fileNotFound.title "Archìviu no agatadu">
+
+<!ENTITY fileAccessDenied.title "Atzessu negadu a s'archìviu">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Podet dare chi siat istadu cantzelladu o mòvidu, o chi is permissos de archìviu bi siant blochende s'atzessu.</li></ul>">
+
+<!ENTITY generic.title "Impossìbile cumpletare sa rechesta">
+<!ENTITY generic.longDesc "<p>Immoe non ddoe at a disponimentu àteras informatziones subra de custu problema o faddina.</p>">
+
+<!ENTITY malformedURI.title "Indiritzu non vàlidu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
