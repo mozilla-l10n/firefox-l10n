@@ -149,4 +149,9 @@ spotlight-public-wifi-vpn-link = Ikke nu
 spotlight-total-cookie-protection-header =
     Vær blandt de første til at teste
     vores hidtil stærkeste privatlivs-beskyttelse
+spotlight-total-cookie-protection-body = Komplet Cookiebeskyttelse forhindrer sporingsmekanismer i at følge dig rundt på nettet.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } bygger et hegn rundt om cookies, sådan at de kun gælder det websted, du besøger. På dén måde kan sporingsmekanismer ikke følge dig. Hvis du tester denne tidlige version, så hjælper du med til at forbedre funktionen - og du hjælper os med at gøre internettet bedre for alle.
+spotlight-total-cookie-protection-primary-button = Slå Komplet Cookiebeskyttelse til
 spotlight-total-cookie-protection-secondary-button = Ikke nu
