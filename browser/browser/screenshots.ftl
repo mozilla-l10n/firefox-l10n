@@ -15,6 +15,12 @@ screenshots-download-button = Hämta
 screenshots-download-button-tooltip = Hämta skärmbild
 screenshots-copy-button = Kopiera
 screenshots-copy-button-tooltip = Kopiera skärmbild till urklipp
+screenshots-download-button-title =
+    .title = Ladda ner skärmdump
+screenshots-copy-button-title =
+    .title = Kopiera skärmdump till urklipp
+screenshots-cancel-button-title =
+    .title = Avbryt
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
