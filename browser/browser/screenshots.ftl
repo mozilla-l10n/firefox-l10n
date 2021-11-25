@@ -15,6 +15,12 @@ screenshots-download-button = Telecargar
 screenshots-download-button-tooltip = Telecargar la captura
 screenshots-copy-button = Copiar
 screenshots-copy-button-tooltip = Copiar la captura d’ecran dins lo quichapapièrs
+screenshots-download-button-title =
+    .title = Telecargar la captura
+screenshots-copy-button-title =
+    .title = Copiar la captura d’ecran al quichapapièrs
+screenshots-cancel-button-title =
+    .title = Anullar
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
