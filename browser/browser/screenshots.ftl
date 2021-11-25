@@ -15,6 +15,12 @@ screenshots-download-button = Hent
 screenshots-download-button-tooltip = Hent skærmbillede
 screenshots-copy-button = Kopier
 screenshots-copy-button-tooltip = Kopier skærmbillede til udklipsholder
+screenshots-download-button-title =
+    .title = Hent skærmbillede
+screenshots-copy-button-title =
+    .title = Kopier skærmbillede til udklipsholderen
+screenshots-cancel-button-title =
+    .title = Fortryd
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
