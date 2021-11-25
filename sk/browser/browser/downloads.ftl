@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Podrobnosti o sťahovaní
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Súbor nebol stiahnutý.
+        [few] { $num } súbory neboli stiahnuté.
+       *[other] { $num } súborov nebolo stiahnutých.
+    }
+downloads-blocked-from-url = Sťahovanie je z adresy { $url } zablokované.
+downloads-blocked-download-detailed-info = Z adresy { $url } nastal pokus o automatické stiahnutie viacerých súborov. Stránka môže byť poškodená alebo sa pokúša uložiť nevyžiadané súbory do vášho zariadenia.
+
+##
+
 downloads-clear-downloads-button =
     .label = Vymazať zoznam
     .tooltiptext = Vymaže zoznam dokončených, zrušených a zlyhaných preberaní súborov
