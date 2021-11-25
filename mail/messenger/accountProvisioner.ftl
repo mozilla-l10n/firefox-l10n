@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = ძიება შეგიძლ�
 account-provisioner-free-account = უფასო
 account-provision-price-per-year = { $price } წელიწადში
 account-provisioner-all-results-button = ყველა შედეგის ჩვენება
+account-provisioner-open-in-tab-img =
+    .title = გახსნა ახალ ჩანართში

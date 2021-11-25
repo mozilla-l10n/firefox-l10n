@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = გადამისამართება
+message-header-msg-is-flagged =
+    .title = ვარსკვლავიანი წერილი
+message-header-msg-not-flagged =
+    .title = უვარსკვლავო წერილი
 
 ## Action Button Context Menu
 
