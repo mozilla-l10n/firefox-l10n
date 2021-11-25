@@ -15,6 +15,12 @@ screenshots-download-button = ჩამოტვირთვა
 screenshots-download-button-tooltip = ეკრანის სურათის ჩამოტვირთვა
 screenshots-copy-button = ასლი
 screenshots-copy-button-tooltip = სურათის ასლის აღება
+screenshots-download-button-title =
+    .title = ეკრანის სურათის ჩამოტვირთვა
+screenshots-copy-button-title =
+    .title = სურათის ასლის აღება
+screenshots-cancel-button-title =
+    .title = გაუქმება
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

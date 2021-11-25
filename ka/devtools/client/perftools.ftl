@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = Firefox კლიენტის მ
 perftools-presets-firefox-front-end-description = მზა პარამეტრები, განკუთვნილი Firefox-ის კლიენტის მხარის შიდა ხარვეზების გამოსავლენად.
 perftools-presets-firefox-graphics-label = Firefox-გრაფიკა
 perftools-presets-firefox-graphics-description = მზა პარამეტრები, განკუთვნილი Firefox-ის გრაფიკული წარმადობის გამოსაკვლევად.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
+perftools-presets-graphics-label = Graphics
+perftools-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
 perftools-presets-media-label = ფაილები
 perftools-presets-media-description = მზა პარამეტრები, განკუთვნილი ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად.
+perftools-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 perftools-presets-custom-label = მორგებული
 
 ##
