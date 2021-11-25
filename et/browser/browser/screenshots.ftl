@@ -15,6 +15,12 @@ screenshots-download-button = Laadi alla
 screenshots-download-button-tooltip = Ekraanipildi allalaadimine
 screenshots-copy-button = Kopeeri
 screenshots-copy-button-tooltip = Ekraanipildi vahemällu kopeerimine
+screenshots-download-button-title =
+    .title = Laadi ekraanipilt alla
+screenshots-copy-button-title =
+    .title = Kopeeri ekraanipilt vahemällu
+screenshots-cancel-button-title =
+    .title = Loobu
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
