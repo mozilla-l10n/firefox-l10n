@@ -740,6 +740,19 @@ picture-in-picture-hide-toggle =
     .label = Skjul kontakt for billed-i-billed
     .accesskey = S
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Flyt knappen for Billede-i-billede til højre side
+    .accesskey = h
+picture-in-picture-move-toggle-left =
+    .label = Flyt knappen for Billede-i-billede til venstre side
+    .accesskey = v
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
