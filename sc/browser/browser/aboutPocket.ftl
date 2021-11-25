@@ -11,7 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Agiunghe etichetas
-pocket-panel-saved-error-generic = Ddoe at àpidu un'errore sarvende { -pocket-brand-name }.
+pocket-panel-saved-error-generic = Ddoe est istada una faddina sarvende { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Sa longària màssima de is etichetas depet èssere de 25 caràteres
 pocket-panel-saved-error-only-links = Faghet a sarvare isceti is ligòngios
 pocket-panel-saved-error-not-saved = Pàgina non sarvada

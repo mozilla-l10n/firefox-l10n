@@ -66,7 +66,7 @@ newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'
 newtab-topsites-cancel-button = Annulla
 newtab-topsites-delete-history-button = Cantzella dae sa cronologia
 newtab-topsites-save-button = Sarva
-newtab-topsites-preview-button = Anteprima
+newtab-topsites-preview-button = Previsualizatzione
 newtab-topsites-add-button = Agiunghe
 
 ## Top Sites - Delete history confirmation dialog.

@@ -60,7 +60,7 @@ places-delete-domain-data =
     .label = Iscarèssi custu situ
     .accesskey = I
 places-sortby-name =
-    .label = Assenta pro nòmine
+    .label = Assenta dae su nòmine
     .accesskey = A
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -159,7 +159,7 @@ places-view-sort-unsorted =
     .label = No assentadu
     .accesskey = N
 places-view-sort-ascending =
-    .label = Assentada in òrdine A > Z
+    .label = Òrdine A > Z
     .accesskey = A
 places-view-sort-descending =
     .label = Òrdine Z > A

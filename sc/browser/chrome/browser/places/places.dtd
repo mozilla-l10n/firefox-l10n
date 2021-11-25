@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "s">
 <!ENTITY view.unsorted.label            "No assentadu">
 <!ENTITY view.unsorted.accesskey        "N">
-<!ENTITY view.sortAscending.label       "Assentada in òrdine A > Z">
+<!ENTITY view.sortAscending.label       "Òrdine A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Assentada in òrdine Z > A">
+<!ENTITY view.sortDescending.label      "Òrdine Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Importa sinnalibros dae HTML…">

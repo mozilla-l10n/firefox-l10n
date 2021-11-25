@@ -37,7 +37,7 @@ login-list-count =
         [one] { $count } credentziale
        *[other] { $count } credentziales
     }
-login-list-sort-label-text = Assenta segundu:
+login-list-sort-label-text = Assenta dae:
 login-list-name-option = Nòmine (A-Z)
 login-list-name-reverse-option = Nòmine (Z-A)
 login-list-username-option = Nòmine utente (A-Z)
