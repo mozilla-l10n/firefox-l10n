@@ -15,6 +15,12 @@ screenshots-download-button = دریافت
 screenshots-download-button-tooltip = دریافت تصاویرگرفته شده از صفحه
 screenshots-copy-button = رونوشت
 screenshots-copy-button-tooltip = برداشت تصاویرگرفته شده از صفحه به کلیپ بورد
+screenshots-download-button-title =
+    .title = دریافت تصویر
+screenshots-copy-button-title =
+    .title = رونوشت تصویر گرفته شده در کلیپ‌بورد
+screenshots-cancel-button-title =
+    .title = لغو
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
