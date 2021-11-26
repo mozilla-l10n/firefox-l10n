@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Që të gjeni më tepër përkatës
 account-provisioner-free-account = Falas
 account-provision-price-per-year = { $price } në vit
 account-provisioner-all-results-button = Shfaqi krejt përfundimet
+account-provisioner-open-in-tab-img =
+    .title = Hapet në Skedë të re
