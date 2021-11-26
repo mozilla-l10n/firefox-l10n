@@ -453,3 +453,7 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Apri link in nuova scheda { $containerName }
     .accesskey = s
+
+main-context-menu-toggle-show-password =
+    .label = Mostra password
+    .accesskey = w
