@@ -36,6 +36,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Im Finder anzeigen
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Im Finder anzeigen
+           *[other] In Ordner anzeigen
+        }
+    .accesskey = a
 downloads-cmd-use-system-default =
     .label = Im Standardprogramm öffnen
     .accesskey = p
