@@ -69,6 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Renditi sipas adresash email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Renditi sipas adresash email (Z > A)
+about-addressbook-cards-context-write =
+    .label = Shkruani
 about-addressbook-confirm-delete-mixed-title = Fshini Kontakte dhe Lista
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -132,3 +134,9 @@ about-addressbook-details-work-address-header = Adresë Pune
 about-addressbook-details-other-info-header = Hollësi të Tjera
 about-addressbook-prompt-to-save-title = Të Ruhen Ndryshimet?
 about-addressbook-prompt-to-save = Doni të ruhen ndryshimet tuaja?
+
+# Photo dialog
+
+about-addressbook-photo-filepicker-title = Përzgjidhni kartelë figure
+about-addressbook-photo-cancel = Anuloje
+about-addressbook-photo-save = Ruaje
