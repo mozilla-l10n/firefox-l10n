@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Activado">
 <!ENTITY newButton.label "Nuevo…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY copyButton.label "Copiar…">
+<!ENTITY copyButton.accesskey "o">
 <!ENTITY editButton.label "Editar…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY deleteButton.accesskey "m">
+<!ENTITY reorderTopButton "Mover a la parte superior">
+<!ENTITY reorderTopButton.accessKey "u">
+<!ENTITY reorderTopButton.toolTip "Reordenar filtro para que se ejecute antes de todos los demás">
 <!ENTITY reorderUpButton.label "Subir">
 <!ENTITY reorderUpButton.accesskey "S">
 <!ENTITY reorderDownButton.label "Bajar">
 <!ENTITY reorderDownButton.accesskey "B">
+<!ENTITY reorderBottomButton "Mover a la parte inferior">
+<!ENTITY reorderBottomButton.accessKey "v">
+<!ENTITY reorderBottomButton.toolTip "Reordenar filtro para que se ejecute tras todos los demás">
 <!ENTITY filterHeader.label "Los filtros activos se aplican automáticamente en el orden de la lista.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
