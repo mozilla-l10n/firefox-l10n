@@ -141,5 +141,6 @@ about-addressbook-photo-drop-target = Trascina o incolla una foto qui oppure fai
 about-addressbook-photo-drop-loading = Caricamento foto…
 about-addressbook-photo-drop-error = Impossibile caricare la foto.
 about-addressbook-photo-filepicker-title = Selezione immagine
+about-addressbook-photo-discard = Elimina foto esistente
 about-addressbook-photo-cancel = Annulla
 about-addressbook-photo-save = Salva
