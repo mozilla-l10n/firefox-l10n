@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Ridrejtoje
+message-header-msg-is-flagged =
+    .title = Mesazh me yllkë
+message-header-msg-not-flagged =
+    .title = Mesazh pa yllkë
 
 ## Action Button Context Menu
 
@@ -137,5 +141,6 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-title = Nuk Mbulon Përgjigje
 no-reply-message = Adresa e përgjigjes ({ $email }) s’duket të jetë një adresë e mbikëqyrur. Mesazhet te kjo adresë ka gjasa të mos lexohen nga ndonjë.
 no-reply-reply-anyway-button = Përgjigjuni, Sido Qoftë

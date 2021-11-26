@@ -137,6 +137,9 @@ about-addressbook-prompt-to-save = Doni të ruhen ndryshimet tuaja?
 
 # Photo dialog
 
+about-addressbook-photo-drop-loading = Po ngarkohet foto…
+about-addressbook-photo-drop-error = S’u arrit të ngarkohet foto.
 about-addressbook-photo-filepicker-title = Përzgjidhni kartelë figure
+about-addressbook-photo-discard = Hidh tej foton ekzistuese
 about-addressbook-photo-cancel = Anuloje
 about-addressbook-photo-save = Ruaje
