@@ -15,6 +15,12 @@ screenshots-download-button = Shkarkoje
 screenshots-download-button-tooltip = Shkarkojeni foton e ekranit
 screenshots-copy-button = Kopjoje
 screenshots-copy-button-tooltip = Kopjojeni foton e ekranit te e papastra
+screenshots-download-button-title =
+    .title = Shkarkojeni foton e ekranit
+screenshots-copy-button-title =
+    .title = Kopjojeni foton e ekranit te e papastra
+screenshots-cancel-button-title =
+    .title = Anuloje
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
