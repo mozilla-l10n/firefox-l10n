@@ -162,6 +162,8 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; keeldus lehe laadimisest selles kontekstis, sest lehel oleva X-Frame-Options reeglistiku kohaselt on see keelatud.</p>">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
