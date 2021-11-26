@@ -104,6 +104,10 @@ context-menu-redirect-msg =
 
 other-action-redirect-msg =
     .label = Reindirizza
+message-header-msg-is-flagged =
+    .title = Messaggio contrassegnato come speciale
+message-header-msg-not-flagged =
+    .title = Messaggio non contrassegnato come speciale
 
 ## Action Button Context Menu
 
