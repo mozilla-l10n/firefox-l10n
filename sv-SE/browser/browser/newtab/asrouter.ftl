@@ -148,8 +148,8 @@ spotlight-public-wifi-vpn-link = Inte nu
 # "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header =
-    Testpilot vår mest kraftfulla
-    sekretessupplevelse någonsin
+    Förhandstesta vår mest kraftfulla
+    sekretessfunktion någonsin
 spotlight-total-cookie-protection-body = Totalt skydd mot kakor stoppar spårare från att använda kakor för att följa dig på webben.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
