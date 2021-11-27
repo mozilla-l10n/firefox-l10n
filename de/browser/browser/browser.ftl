@@ -742,10 +742,10 @@ picture-in-picture-hide-toggle =
 
 picture-in-picture-move-toggle-right =
     .label = Schalter für Bild-im-Bild (PiP) nach rechts verschieben
-    .accesskey = r
+    .accesskey = v
 picture-in-picture-move-toggle-left =
     .label = Schalter für Bild-im-Bild (PiP) nach links verschieben
-    .accesskey = l
+    .accesskey = v
 
 ##
 
