@@ -946,6 +946,11 @@ content-blocking-all-windows-tracking-content = Sporingsinnhold i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts infokapsler
 content-blocking-cryptominers = Kryptoutvinnere
 content-blocking-fingerprinters = Fingerprinters
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Test ut vår kraftigste personvernfunksjon noensinne
+    .accesskey = T
 content-blocking-etp-standard-tcp-rollout-learn-more = Les mer
 content-blocking-warning-title = Se opp!
 content-blocking-and-isolating-etp-warning-description = Blokkering av sporere og isolering av infokapsler kan påvirke funksjonaliteten på noen nettsteder. Gjeninnlast nettsiden med sporere for å laste alt innhold.

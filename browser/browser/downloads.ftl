@@ -185,6 +185,11 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Filen ble ikke lastet ned.
+       *[other] { $num } filer ble ikke lastet ned.
+    }
 downloads-blocked-from-url = Nedlastinger fra { $url } blokkert.
 downloads-blocked-download-detailed-info = { $url } forsøkte å laste ned flere filer automatisk. Nettstedet kan være ødelagt eller prøver å lagre spam-filer på enheten din.
 
