@@ -15,6 +15,8 @@ screenshots-download-button = Elŝuti
 screenshots-download-button-tooltip = Elŝuti ekrankopion
 screenshots-copy-button = Kopii
 screenshots-copy-button-tooltip = Kopii ekrankopion al tondujo
+screenshots-cancel-button-title =
+    .title = Nuligi
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

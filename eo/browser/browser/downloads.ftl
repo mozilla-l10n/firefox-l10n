@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
 downloads-cmd-pause =
@@ -41,9 +36,18 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Montri en dosierserĉilo
     .accesskey = M
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Montri en Finder
+           *[other] Montri en dosierujo
+        }
+    .accesskey = M
 downloads-cmd-use-system-default =
     .label = Malfermi per norma sistema programo
     .accesskey = M
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Ĉiam malfermi per norma sistema programo
     .accesskey = n
@@ -64,6 +68,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Montri en dosierserĉilo
            *[other] Malfermi entenantan dosierujon
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Ĉiam malfermi similajn dosierojn
+    .accesskey = s
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Montri en Finder
+           *[other] Montri en dosierujo
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Montri en Finder
+           *[other] Montri en dosierujo
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Montri en Finder
+           *[other] Montri en dosierujo
         }
 downloads-cmd-show-downloads =
     .label = Montri dosierujon por elŝutoj
@@ -152,6 +179,20 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detaloj de elŝuto
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Dosiero ne elŝutita.
+       *[other] { $num } dosieroj ne elŝutitaj.
+    }
+
+##
+
 downloads-clear-downloads-button =
     .label = Viŝi elŝutojn
     .tooltiptext = Viŝi finintajn, nuligitajn kaj malsukcesajn elŝutojn
