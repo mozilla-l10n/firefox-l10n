@@ -18,5 +18,5 @@ text-title = about:compat
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
-label-smartblock = SmartBlock-Behebungen
-text-no-smartblock = Es werden keine SmartBlock-Behebungen verwendet
+label-smartblock = SmartBlock-Korrekturen
+text-no-smartblock = Es werden keine SmartBlock-Korrekturen verwendet
