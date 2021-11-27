@@ -145,4 +145,6 @@ spotlight-public-wifi-vpn-link = Nicht jetzt
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-body = Der vollständige Cookie-Schutz hindert Elemente zur Aktivitätenverfolgung daran, Cookies zu verwenden, um Sie im Internet zu verfolgen.
+spotlight-total-cookie-protection-primary-button = Vollständigen Cookie-Schutz aktivieren
 spotlight-total-cookie-protection-secondary-button = Nicht jetzt
