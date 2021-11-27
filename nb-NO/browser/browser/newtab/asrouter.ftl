@@ -149,4 +149,9 @@ spotlight-public-wifi-vpn-link = Ikke nå
 spotlight-total-cookie-protection-header =
     Test ut vår kraftigste
     personvernfunksjon noensinne
+spotlight-total-cookie-protection-body = Total beskyttelse mot infokapsler stopper sporere fra å bruke infokapsler for å forfølge deg rundt på nettet.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }bygger et gjerde rundt infokapsler, og begrenser dem til nettstedet du er på, slik at sporere ikke kan bruke dem til å følge deg. Med tidlig tilgang hjelper du med å optimalisere denne funksjonen slik at vi kan fortsette å bygge et bedre nett for alle.
+spotlight-total-cookie-protection-primary-button = Slå på total beskyttelse mot infokapsler
 spotlight-total-cookie-protection-secondary-button = Ikke nå
