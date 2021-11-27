@@ -123,9 +123,12 @@ perftools-presets-firefox-front-end-description = Dahili Firefox ön yüz hata a
 perftools-presets-firefox-graphics-label = Firefox grafikleri
 perftools-presets-firefox-graphics-description = Firefox grafik performans incelemesi için önerilen ayarlar.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = { -brand-shorter-name } tarayıcısını profilleme için önerilen ayar.
 perftools-presets-graphics-label = Grafik
+perftools-presets-graphics-description = { -brand-shorter-name } tarayıcısında grafik hatalarını araştırma ayarı.
 perftools-presets-media-label = Ortam
 perftools-presets-media-description = Ses ve video sorunlarını tanılamak için önerilen ayarlar.
+perftools-presets-media-description2 = { -brand-shorter-name } tarayıcısında ses ve video hatalarını araştırma ayarı.
 perftools-presets-custom-label = Özel
 
 ##
