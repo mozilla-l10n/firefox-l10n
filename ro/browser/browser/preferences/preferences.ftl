@@ -622,7 +622,7 @@ sync-remove-account =
     .label = Elimină contul
     .accesskey = R
 sync-sign-in =
-    .label = Autentificare
+    .label = Autentifică-te
     .accesskey = g
 
 ## Sync section - enabling or disabling sync.
