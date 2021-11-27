@@ -63,6 +63,7 @@ about-processes-unknown-process = Іншае: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, вялікі)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, ізаляваны ад іншых крыніц)
 about-processes-web-isolated-process-private = { $origin } — Прыватны ({ $pid })
