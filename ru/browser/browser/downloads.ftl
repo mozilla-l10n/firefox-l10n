@@ -126,16 +126,16 @@ downloads-cmd-remove-file-panel =
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Удалить файл или Разрешить загрузку
+    .tooltiptext = Удалить файл или разрешить загрузку
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Удалить файл или Разрешить загрузку
+    .aria-label = Удалить файл или разрешить загрузку
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = Открыть или Удалить файл
+    .tooltiptext = Открыть или удалить файл
 downloads-cmd-choose-open-panel =
-    .aria-label = Открыть или Удалить файл
+    .aria-label = Открыть или удалить файл
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
@@ -153,10 +153,10 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
-downloading-file-opens-in-hours-and-minutes = Откроется через { $hours }ч { $minutes }м…
-downloading-file-opens-in-minutes = Откроется через { $minutes }м…
-downloading-file-opens-in-minutes-and-seconds = Откроется через { $minutes }м { $seconds }с…
-downloading-file-opens-in-seconds = Откроется через { $seconds }с…
+downloading-file-opens-in-hours-and-minutes = Откроется через { $hours } ч { $minutes } мин…
+downloading-file-opens-in-minutes = Откроется через { $minutes } мин…
+downloading-file-opens-in-minutes-and-seconds = Откроется через { $minutes } мин { $seconds } с…
+downloading-file-opens-in-seconds = Откроется через { $seconds } с…
 downloading-file-opens-in-some-time = Откроется после завершения…
 
 ##
