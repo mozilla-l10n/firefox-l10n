@@ -121,15 +121,27 @@ cfr-doorhanger-video-support-header = Ĝisdatigu { -brand-short-name } por ludi 
 cfr-doorhanger-video-support-primary-button = Ĝisdatigi nun
     .accesskey = n
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Pli da informo
+    .title = Malfaldi por lerni pli pri la funkcio
+spotlight-learn-more-expanded = Pli da informo
+    .title = Fermi
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Vi ŝajnas uzi publikan sendratan reton
 spotlight-public-wifi-vpn-body = Por kaŝi vian lokon kaj retumon, konsideru uzi virtualan privatan reton (VPN). Ĝi helpos vin resti protektita dum retumo en publikaj ejoj kiel flughavenoj kaj kafejoj.
 spotlight-public-wifi-vpn-primary-button = Protektu vian privatecon per { -mozilla-vpn-brand-name }
     .accesskey = P
 spotlight-public-wifi-vpn-link = Ne nun
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = Nun ne

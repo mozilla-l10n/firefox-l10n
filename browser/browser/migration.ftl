@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Asistanto de importado
-
 import-from =
     { PLATFORM() ->
         [windows] Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:
        *[other] Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:
     }
-
 import-from-bookmarks = Importi legosignojn el:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-brave =
+    .label = Brave
+    .accesskey = r
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
@@ -51,39 +52,25 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Neniu programo, enhavanta legosignojn, historion aŭ pasvortajn datumojn, estis trovita.
-
 import-source-page-title = Importi agordojn kaj datumojn
 import-items-page-title = Elementoj importotaj
-
 import-items-description = Elekti elementojn importotajn:
-
 import-permissions-page-title = Bonvolu doni permesojn al { -brand-short-name }
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS postulas ke vi eksplicite permesu al { -brand-short-name } aliri la legosignojn de Safari. Alklaku "Daŭrigi" kaj elektu la dosieron "Bookmarks.plist" en la aperota dosiermalferma panelo.
-
 import-migrating-page-title = Enporto…
-
 import-migrating-description = La jenaj elementoj estas nuntempe importataj…
-
 import-select-profile-page-title = Elekti profilon
-
 import-select-profile-description = Eblas importi el la jenaj profiloj:
-
 import-done-page-title = Importado finita
-
 import-done-description = La jenaj elementoj estis sukcese importitaj:
-
 import-close-source-browser = Bonvolu certi ke la elektita retumilo estu fermita antaŭ ol daŭrigi.
-
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = De { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -95,7 +82,6 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
-
 imported-safari-reading-list = Legolisto (de Safari)
 imported-edge-reading-list = Legolisto (de Edge)
 
@@ -117,7 +103,6 @@ browser-data-cookies-checkbox =
     .label = Kuketoj
 browser-data-cookies-label =
     .value = Kuketoj
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -130,12 +115,10 @@ browser-data-history-label =
             [firefox] Historio de retumo kaj legosignoj
            *[other] Historio de retumo
         }
-
 browser-data-formdata-checkbox =
     .label = Historio de formularoj konservita
 browser-data-formdata-label =
     .value = Historio de formularoj konservita
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -144,7 +127,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Legitimiloj kaj pasvortoj konservitaj
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -159,12 +141,10 @@ browser-data-bookmarks-label =
             [edge] Legosignoj
            *[other] Legosignoj
         }
-
 browser-data-otherdata-checkbox =
     .label = Aliaj datumoj
 browser-data-otherdata-label =
     .label = Aliaj datumoj
-
 browser-data-session-checkbox =
     .label = Fenestroj kaj langetoj
 browser-data-session-label =
