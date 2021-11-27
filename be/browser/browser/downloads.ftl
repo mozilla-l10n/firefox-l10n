@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 45em
 downloads-cmd-pause =
@@ -184,6 +179,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Падрабязнасці сцягвання
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] { $num } файл не сцягнуты.
+        [few] { $num } файлы не сцягнуты.
+       *[many] { $num } файлаў не сцягнута.
+    }
+downloads-blocked-from-url = Сцягванні з { $url } заблакаваны.
+downloads-blocked-download-detailed-info = { $url } спрабаваў аўтаматычна сцягнуць некалькі файлаў. Магчыма, сайт няспраўны або спрабуе захоўваць спам-файлы на вашай прыладзе.
+
+##
+
 downloads-clear-downloads-button =
     .label = Ачысціць сцягванні
     .tooltiptext = Ачысціць скончаныя, скасованыя і няўдачныя сцягванні
@@ -194,3 +206,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Няма сцягванняў у гэтым сеансе.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Сцягваецца яшчэ { $count } файл
+        [few] Сцягваюцца яшчэ { $count } файлы
+       *[many] Сцягваецца яшчэ { $count } файлаў
+    }
