@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = Клиентская часть Fire
 perftools-presets-firefox-front-end-description = Рекомендуемые настройки для внутренней отладки клиентской части Firefox.
 perftools-presets-firefox-graphics-label = Графика Firefox
 perftools-presets-firefox-graphics-description = Рекомендуемые настройки для исследования производительности графики Firefox.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Рекомендуемые настройки для профилирования { -brand-shorter-name }.
+perftools-presets-graphics-label = Графика
+perftools-presets-graphics-description = Настройки для выявления ошибок графики в { -brand-shorter-name }.
 perftools-presets-media-label = Медиа
 perftools-presets-media-description = Рекомендуемые настройки для диагностики проблем со звуком и видео.
+perftools-presets-media-description2 = Настройки для выявления ошибок аудио и видео в { -brand-shorter-name }.
 perftools-presets-custom-label = Персональный
 
 ##
