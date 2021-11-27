@@ -955,6 +955,8 @@ content-blocking-fingerprinters = Збіральнікі адбіткаў пал
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Выпрабуйце нашу самую магутную за ўвесь час функцыю аховы прыватнасці
     .accesskey = е
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Поўная ахова кукаў абмяжоўвае кукі сайтам, на якім вы знаходзіцеся, таму трэкеры не могуць скарыстаць іх для сачэння за вамі ад сайта к сайту.
 content-blocking-etp-standard-tcp-rollout-learn-more = Падрабязней
 content-blocking-warning-title = Увага!
 content-blocking-and-isolating-etp-warning-description = Блакаванне трэкераў і ізаляванне кукаў можа адбіцца на функцыянальнасці некаторых сайтаў. Абнавіце старонку з трэкерамі, каб загрузіць усё змесціва.
