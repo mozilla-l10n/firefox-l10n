@@ -7,3 +7,5 @@ chat-table-heading-account = ID
 chat-table-heading-protocol = Protocollo
 chat-table-heading-name = Nomine
 chat-table-heading-actions = Actiones
+chat-table-copy-debug-log = Copiar le registro de depuration
+    .title = Copia in le area de transferentia errores e altere informationes de registro pro iste chat. Pote continer informationes personal, como messages del chat.
