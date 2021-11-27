@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Date de autentificare și parole
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Caută date de autentificare
-
 create-login-button = Creează o autentificare nouă
-
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-sync-button = Autentifică-te pentru a sincroniza
 fxaccounts-avatar-button =
@@ -68,7 +63,6 @@ about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare 
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
 login-intro-instructions-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
 about-logins-intro-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți <a data-l10n-name="import-link">importa în{ -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Dacă datele tale de autentificare sunt salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa din alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
 
 ## Login
@@ -110,21 +104,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Pentru a-ți edita datele d
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vizualiza parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
@@ -135,21 +124,17 @@ about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de 
 
 about-logins-primary-password-notification-message = Te rugăm să îți introduci parola primară pentru a vedea datele de autentificare și parolele salvate
 master-password-reload-button =
-    .label = Autentificare
+    .label = Autentifică-te
     .accesskey = L
-
-## Password Sync notification
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Renunță
 confirmation-dialog-dismiss-button =
     .title = Renunță
-
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Elimină
@@ -157,7 +142,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Elimină-le pe toate
        *[other] Elimină-le pe toate
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Da, elimină această autentificare
@@ -165,7 +149,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Da, elimină aceste date de autentificare
        *[other] Da, elimină aceste date de autentificare
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Elimini { $count } autentificare?
@@ -179,7 +162,6 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Acest lucru va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
        *[other] Acest lucru va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Elimini { $count } autentificare de pe toate dispozitivele?
@@ -193,14 +175,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
        *[other] Acest lucru va elimina toate autentificările pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
     }
-
 about-logins-confirm-export-dialog-title = Exportă date de autentificare și parole
 about-logins-confirm-export-dialog-message = Parolele tale vor fi salvate în text lizibil (de ex., BadP@ssw0rd) și oricine poate deschide fișierul exportat le va putea vedea.
 about-logins-confirm-export-dialog-confirm-button = Exportă…
-
 about-logins-alert-import-title = Importare completă
 about-logins-alert-import-message = Vezi sumarul detaliat al importării
-
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
@@ -231,10 +210,8 @@ about-logins-vulnerable-alert-learn-more-link = Află mai multe
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Deja există o intrare pentru { $loginTitle } cu acest nume de utilizator. <a data-l10n-name="duplicate-link">Mergi la intrarea existentă?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = A apărut o eroare la încercarea de salvare a acestei parole.
-
 
 ## Login Export Dialog
 
@@ -277,16 +254,12 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importare finalizată
-
 about-logins-import-dialog-done = Terminat
-
 about-logins-import-dialog-error-title = Eroare la importare
 about-logins-import-dialog-error-learn-more = Află mai multe
 about-logins-import-dialog-error-try-import-again = Încearcă să imporți din nou…
 about-logins-import-dialog-error-cancel = Anulează
-
 about-logins-import-report-title = Sumar de importare
-
 #
 # Variables:
 #  $number (number) - The number of the row

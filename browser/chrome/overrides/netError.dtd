@@ -36,7 +36,7 @@
 <p>&brandShortName; nu poate încărca această pagină dintr-un motiv oarecare.</p>
 ">
 
-<!ENTITY captivePortal.title "Autentificare în rețea">
+<!ENTITY captivePortal.title "Autentifică-te în rețea">
 <!ENTITY captivePortal.longDesc2 "<p>Trebuie să te autentifici în această rețea ca să poți accesa internetul.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Deschide pagina de autentificare în rețea">
