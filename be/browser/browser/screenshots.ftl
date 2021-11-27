@@ -15,6 +15,12 @@ screenshots-download-button = Сцягнуць
 screenshots-download-button-tooltip = Сцягнуць здымак экрана
 screenshots-copy-button = Капіраваць
 screenshots-copy-button-tooltip = Капіраваць здымак экрана ў буфер абмену
+screenshots-download-button-title =
+    .title = Сцягнуць здымак экрана
+screenshots-copy-button-title =
+    .title = Капіраваць здымак экрана ў буфер абмену
+screenshots-cancel-button-title =
+    .title = Скасаваць
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
