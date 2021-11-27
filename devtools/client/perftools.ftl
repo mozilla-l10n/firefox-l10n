@@ -130,10 +130,10 @@ perftools-presets-firefox-graphics-description = Empfohlene Voreinstellung für 
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Empfohlene Voreinstellung für die Leistungsanalyse von { -brand-shorter-name }.
 perftools-presets-graphics-label = Grafik
-perftools-presets-graphics-description = Voreinstellung zur Untersuchung von Grafikfehlern in { -brand-shorter-name }.
+perftools-presets-graphics-description = Voreinstellung zur Untersuchung von Grafikproblemen in { -brand-shorter-name }.
 perftools-presets-media-label = Medien
 perftools-presets-media-description = Empfohlene Voreinstellung zur Diagnose von Audio- und Videoproblemen.
-perftools-presets-media-description2 = Voreinstellung für die Untersuchung von Audio- und Videofehlern in { -brand-shorter-name }.
+perftools-presets-media-description2 = Voreinstellung für die Untersuchung von Audio- und Videoproblemen in { -brand-shorter-name }.
 perftools-presets-custom-label = Benutzerdefiniert
 
 ##
