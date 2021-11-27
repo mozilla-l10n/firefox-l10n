@@ -157,5 +157,8 @@ spotlight-total-cookie-protection-header =
     Testujće naše najmócniše dožiwjenje
     priwatnosće wšěch časow
 spotlight-total-cookie-protection-body = Dospołny plackowy škit přesćěhowakam zadźěwa, placki wužiwać, zo bychu was w interneće přesćěhowali.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } płót wokoło plackow twari, kotryž je na sydło wobmjezuje, na kotrymž sće, zo njebychu je přesćěhowaki móhli wužiwać, zo bychu was přesćěhowali. Z lochkim přistupom pomhaće tutu funkciju optimować, zo bychmy móhli dale lěpši web za kóždeho natwarili.
 spotlight-total-cookie-protection-primary-button = Dospołny škit před plackami zmóžnić
 spotlight-total-cookie-protection-secondary-button = Nic nětko
