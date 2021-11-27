@@ -16,19 +16,14 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
-    .label = Приостановить
-    .accesskey = н
+    .label = Пауза
+    .accesskey = з
 downloads-cmd-resume =
     .label = Возобновить
-    .accesskey = о
+    .accesskey = з
 downloads-cmd-cancel =
     .tooltiptext = Отменить
 downloads-cmd-cancel-panel =
@@ -36,11 +31,11 @@ downloads-cmd-cancel-panel =
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Открыть папку с файлом
-    .accesskey = к
+    .accesskey = а
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Показать в Finder
-    .accesskey = к
+    .accesskey = а
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -50,12 +45,12 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = а
 downloads-cmd-use-system-default =
     .label = Открыть в программе просмотра по умолчанию
-    .accesskey = ы
+    .accesskey = м
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Всегда открывать в программе просмотра по умолчанию
-    .accesskey = е
+    .accesskey = ю
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
@@ -78,7 +73,7 @@ downloads-cmd-show-description =
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
     .label = Всегда открывать подобные файлы
-    .accesskey = е
+    .accesskey = й
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
@@ -98,20 +93,20 @@ downloads-cmd-show-description-2 =
            *[other] Показать в папке
         }
 downloads-cmd-show-downloads =
-    .label = Открыть папку Загрузки
+    .label = Показать папку загрузок
 downloads-cmd-retry =
     .tooltiptext = Повторить
 downloads-cmd-retry-panel =
     .aria-label = Повторить
 downloads-cmd-go-to-download-page =
     .label = Перейти на страницу загрузки
-    .accesskey = е
+    .accesskey = П
 downloads-cmd-copy-download-link =
     .label = Копировать ссылку на загрузку
     .accesskey = п
 downloads-cmd-remove-from-history =
     .label = Удалить из истории
-    .accesskey = л
+    .accesskey = у
 downloads-cmd-clear-list =
     .label = Очистить панель предпросмотра
     .accesskey = ч
@@ -184,13 +179,30 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Сведения о загрузке
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] { $num } файл не загружен.
+        [few] { $num } файла не загружено.
+       *[many] { $num } файлов не загружены.
+    }
+downloads-blocked-from-url = Загрузки с { $url } заблокированы.
+downloads-blocked-download-detailed-info = { $url } пытался автоматически загрузить множество файлов. Возможно, сайт неисправен или пытался разместить спам-файлы на вашем устройстве.
+
+##
+
 downloads-clear-downloads-button =
     .label = Очистить загрузки
     .tooltiptext = Очистить завершённые, отменённые и неудавшиеся загрузки
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
-    .value = Загрузок нет
+    .value = Загрузок нет.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = В этой сессии загрузок не было.

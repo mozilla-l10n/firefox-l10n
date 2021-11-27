@@ -70,8 +70,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Сёрфите по Интернету без слежки
-cfr-protections-panel-body = Храните свои данные при себе. { -brand-short-name } защитит вас от многих наиболее известных трекеров, которые следят за вашим поведением в Интернете.
+cfr-protections-panel-header = Работайте в Интернете без слежки
+cfr-protections-panel-body = Храните свои данные при себе. { -brand-short-name } защищает вас от большинства наиболее известных трекеров, которые следят за вами в Интернете.
 cfr-protections-panel-link-text = Подробнее
 
 ## What's New toolbar button and panel
@@ -111,7 +111,7 @@ cfr-doorhanger-doh-secondary-button = Отключить
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ваша приватность имеет значение. { -brand-short-name } теперь изолирует веб-сайты друг от друга, помещая их в так называемые «песочницы», так что теперь хакерам станет труднее украсть пароли, данные банковских карт и другую важную для вас информацию.
+cfr-doorhanger-fission-body-approved = Ваша приватность имеет значение. { -brand-short-name } теперь изолирует веб-сайты друг от друга, помещая их в так называемые «песочницы», что усложняет кражу хакерами паролей, данных банковских карт и другой вашей личной информации.
 cfr-doorhanger-fission-header = Изоляция сайта
 cfr-doorhanger-fission-primary-button = OK, понятно
     .accesskey = я
