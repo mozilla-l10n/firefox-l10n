@@ -15,6 +15,12 @@ screenshots-download-button = Downloade
 screenshots-download-button-tooltip = Skermôfbylding downloade
 screenshots-copy-button = Kopiearje
 screenshots-copy-button-tooltip = Skermôfbylding nei klamboerd kopiearje
+screenshots-download-button-title =
+    .title = Skermôfbylding downloade
+screenshots-copy-button-title =
+    .title = Skermôfbylding nei klamboerd kopiearje
+screenshots-cancel-button-title =
+    .title = Annulearje
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
