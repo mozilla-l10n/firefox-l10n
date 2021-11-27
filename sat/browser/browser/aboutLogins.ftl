@@ -204,6 +204,8 @@ about-logins-vulnerable-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢ
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱸᱪᱟᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ᱾
 
 ## Login Export Dialog
 
@@ -246,6 +248,12 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = ᱦᱩᱭᱮᱱᱟ
 about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
 about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
