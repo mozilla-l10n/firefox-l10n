@@ -950,6 +950,11 @@ content-blocking-all-windows-tracking-content = Элементы сачэння 
 content-blocking-all-third-party-cookies = Усе кукі трэцяга боку
 content-blocking-cryptominers = Майнеры крыптавалют
 content-blocking-fingerprinters = Збіральнікі адбіткаў пальцаў
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Выпрабуйце нашу самую магутную за ўвесь час функцыю аховы прыватнасці
+    .accesskey = е
 content-blocking-etp-standard-tcp-rollout-learn-more = Падрабязней
 content-blocking-warning-title = Увага!
 content-blocking-and-isolating-etp-warning-description = Блакаванне трэкераў і ізаляванне кукаў можа адбіцца на функцыянальнасці некаторых сайтаў. Абнавіце старонку з трэкерамі, каб загрузіць усё змесціва.
