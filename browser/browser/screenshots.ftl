@@ -15,6 +15,12 @@ screenshots-download-button = Tải xuống
 screenshots-download-button-tooltip = Tải về ảnh chụp màn hình
 screenshots-copy-button = Sao chép
 screenshots-copy-button-tooltip = Sao chép ảnh chụp màn hình vào bộ nhớ tạm
+screenshots-download-button-title =
+    .title = Tải xuống ảnh chụp màn hình
+screenshots-copy-button-title =
+    .title = Sao chép ảnh chụp màn hình vào khay nhớ tạm
+screenshots-cancel-button-title =
+    .title = Hủy bỏ
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
