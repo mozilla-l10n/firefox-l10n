@@ -20,6 +20,13 @@ about-unloads-intro-2 =
     i fana, og med <em>kursiv</em> når prosessen vert delt mellom ulike
     faner. Du kan utløyse frigjering av faner manuelt ved å klikke på <em>Frigjer</em>-
     knappen nedanfor.
+about-unloads-intro =
+    { -brand-short-name } har ein funksjon som automatisk frigjer faner
+    for å hindre programmet i å krajse når systemet har lite minne.
+    Den neste fana som skal frigjerast er utvald basert på fleire kriterium.
+    Denne sida viser korleis { -brand-short-name } prioriterer mellom fanene, og kva for faner som vert frigjorde
+    når fanefrigjering er nødvendig. Du kan manuelt frigjere faner
+    ved å klikke på <em>Frigjør</em>-knappen nedanfor.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
