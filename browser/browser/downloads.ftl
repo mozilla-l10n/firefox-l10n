@@ -103,7 +103,7 @@ downloads-cmd-go-to-download-page =
     .accesskey = н
 downloads-cmd-copy-download-link =
     .label = Копировать ссылку на загрузку
-    .accesskey = п
+    .accesskey = с
 downloads-cmd-remove-from-history =
     .label = Удалить из истории
     .accesskey = л
@@ -116,7 +116,7 @@ downloads-cmd-clear-downloads =
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Разрешить загрузку
-    .accesskey = ш
+    .accesskey = р
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Удалить файл
@@ -192,7 +192,7 @@ downloads-files-not-downloaded =
        *[many] { $num } файлов не загружены.
     }
 downloads-blocked-from-url = Загрузки с { $url } заблокированы.
-downloads-blocked-download-detailed-info = { $url } пытался автоматически загрузить множество файлов. Возможно, сайт неисправен или пытался разместить спам-файлы на вашем устройстве.
+downloads-blocked-download-detailed-info = { $url } пытался автоматически загрузить большое число файлов. Возможно, сайт был неисправен или пытался разместить спам-файлы на вашем устройстве.
 
 ##
 
