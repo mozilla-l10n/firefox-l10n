@@ -192,6 +192,7 @@ downloads-files-not-downloaded =
        *[many] Nie pobrano { $num } plików.
     }
 downloads-blocked-from-url = Zablokowano pobieranie z witryny { $url }.
+downloads-blocked-download-detailed-info = Witryna { $url } próbowała automatycznie pobrać wiele plików. Może ona źle działać lub próbować pobrać niechciane pliki na komputer.
 
 ##
 
@@ -205,3 +206,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Brak pobranych podczas tej sesji.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Pobierany jest jeszcze jeden plik
+        [few] Pobierane są jeszcze { $count } pliki
+       *[many] Pobieranych jest jeszcze { $count } plików
+    }

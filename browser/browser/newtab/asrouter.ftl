@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Polecana funkcja
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Dlaczego jest to wyświetlane?
-
 cfr-doorhanger-extension-cancel-button = Nie teraz
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Dodaj
     .accesskey = D
-
 cfr-doorhanger-extension-manage-settings-button = Ustawienia polecania
     .accesskey = U
-
 cfr-doorhanger-extension-never-show-recommendation = Nie pokazuj więcej polecenia tego rozszerzenia
     .accesskey = e
-
 cfr-doorhanger-extension-learn-more-link = Więcej informacji
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Autor: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Polecenie
 cfr-doorhanger-extension-notification2 = Polecenie
     .tooltiptext = Polecenie rozszerzenia
     .a11y-announcement = Dostępne polecenie rozszerzenia
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Polecenie
@@ -69,8 +61,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } użytkowników
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
@@ -91,30 +81,10 @@ cfr-protections-panel-link-text = Więcej informacji
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcja:
-
 cfr-whatsnew-button =
     .label = Co nowego
     .tooltiptext = Co nowego
-
 cfr-whatsnew-release-notes-link-text = Przeczytaj informacje o wydaniu
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -129,20 +99,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Wyświetl wszystkie
     .accesskey = W
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Zamknij
     .accesskey = Z
 
@@ -171,15 +127,32 @@ cfr-doorhanger-video-support-header = Zaktualizuj przeglądarkę { -brand-short-
 cfr-doorhanger-video-support-primary-button = Aktualizuj teraz
     .accesskey = k
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Więcej informacji
+    .title = Rozwiń, aby dowiedzieć się więcej o tej funkcji
+spotlight-learn-more-expanded = Więcej informacji
+    .title = Zamknij
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Wygląda na to, że korzystasz z publicznej sieci Wi-Fi
 spotlight-public-wifi-vpn-body = Aby ukryć swoje położenie i działania w Internecie, pomyśl o wirtualnej sieci prywatnej. Pomoże Ci zapewnić ochronę podczas przeglądania w miejscach publicznych, takich jak lotniska czy kawiarnie.
 spotlight-public-wifi-vpn-primary-button = Zachowaj prywatność dzięki { -mozilla-vpn-brand-name }
     .accesskey = V
 spotlight-public-wifi-vpn-link = Nie teraz
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Przetestuj naszą najpotężniejszą
+    funkcję ochrony prywatności w historii
+spotlight-total-cookie-protection-body = Całkowita ochrona ciasteczek uniemożliwia elementom śledzącym używanie ciasteczek do śledzenia Cię w Internecie.
