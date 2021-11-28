@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 80ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 37em
 downloads-cmd-pause =
@@ -184,6 +179,24 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Podrobnosti o prenosu
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Datoteka se ni prenesla.
+        [two] { $num } datoteki se nista prenesli.
+        [few] { $num } datoteke se niso prenesle.
+       *[other] { $num } datotek se ni preneslo.
+    }
+downloads-blocked-from-url = Zavrnjeni prenosi z { $url }.
+downloads-blocked-download-detailed-info = Spletno mesto { $url } je poskušalo samodejno prenesti več datotek. Morda ne deluje pravilno ali pa vam poskuša na računalnik shraniti neželene datoteke.
+
+##
+
 downloads-clear-downloads-button =
     .label = Počisti prenose
     .tooltiptext = Počisti dokončane, preklicane in spodletele prenose
