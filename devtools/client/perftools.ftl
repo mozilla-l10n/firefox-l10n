@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = Interfejs Firefoksa
 perftools-presets-firefox-front-end-description = Zalecane ustawienie do wewnętrznego debugowania interfejsu Firefoksa.
 perftools-presets-firefox-graphics-label = Grafika Firefoksa
 perftools-presets-firefox-graphics-description = Zalecane ustawienie do badania wydajności graficznej Firefoksa.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Zalecane ustawienie do profilowania programu { -brand-shorter-name }.
+perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Ustawienie do badania błędów graficznych w programie { -brand-shorter-name }.
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description = Zalecane ustawienie do diagnozowania problemów z dźwiękiem i obrazem.
+perftools-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w programie { -brand-shorter-name }.
 perftools-presets-custom-label = Inne
 
 ##
