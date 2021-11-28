@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Atsiuntimo informacija
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Failas neatsiųstas.
+        [few] { $num } neatsiųsti failai.
+       *[other] { $num } neatsiųstų failų.
+    }
+downloads-blocked-from-url = Užblokuoti atsiuntimai iš { $url }.
+downloads-blocked-download-detailed-info = { $url } bandė automatiškai parsiųsti keletą failų. Gali būti, kad svetainė veikia netinkamai, arba bando į jūsų įrenginį parsiųsti nepageidaujamų failų.
+
+##
+
 downloads-clear-downloads-button =
     .label = Išvalyti atsiuntimus
     .tooltiptext = Pašalinti iš sąrašo užbaigtus, nutrauktus ir nepavykusius atsiuntimus
