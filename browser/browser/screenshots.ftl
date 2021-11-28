@@ -15,6 +15,12 @@ screenshots-download-button = Lataa
 screenshots-download-button-tooltip = Lataa kuvakaappaus
 screenshots-copy-button = Kopioi
 screenshots-copy-button-tooltip = Kopioi kuvakaappaus leikepöydälle
+screenshots-download-button-title =
+    .title = Lataa kuvakaappaus
+screenshots-copy-button-title =
+    .title = Kopioi kuvakaappaus leikepöydälle
+screenshots-cancel-button-title =
+    .title = Peruuta
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
