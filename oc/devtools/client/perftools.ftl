@@ -128,6 +128,7 @@ perftools-presets-firefox-front-end-label = Interfàcia Firefox
 perftools-presets-firefox-front-end-description = Reglatge recomandat pel desbugatge intèrne de l’interfàcia Firefox.
 perftools-presets-firefox-graphics-label = Grafics de Firefox
 perftools-presets-firefox-graphics-description = Reglatge recomandat pels estudis de las performanças graficas de Firefox.
+perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-media-label = Multimèdia
 perftools-presets-media-description = Reglatge recomandat pel diagnosticar los problèmas àudio e vidèo.
 perftools-presets-custom-label = Personalizat
