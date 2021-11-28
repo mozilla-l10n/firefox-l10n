@@ -47,6 +47,8 @@ newsgroups-description = { -brand-short-name } をお好みのすべてのニュ
 import-title = 別のアプリケーションから読み込む
 import-paragraph = { -brand-short-name } に他のメールアプリケーションからメールメッセージやフィード購読、環境設定、メッセージフィルターを、一般的なアドレス帳形式からアドレス帳を読み込むことができます。
 
+import-paragraph2 = { -brand-short-name } に他のメールアプリケーションからメールメッセージやフィード購読、設定、メッセージフィルターを、一般的なアドレス帳形式からアドレス帳を読み込むことができます。
+
 import-label = データを読み込む
     .aria-label = 他のアプリケーションからデータを読み込みます
 
