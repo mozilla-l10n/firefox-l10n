@@ -24,18 +24,30 @@
 
 
 
+<!ENTITY netOffline.title "Modalidade foras de lìnia">
+
+<!ENTITY contentEncodingError.title "Faddina de codìfica de su cuntenutu">
+
+<!ENTITY unsafeContentType.title "Genia de archìviu non segura">
+
+<!ENTITY netReset.title "Connessione interrùmpida">
+
+<!ENTITY netTimeout.title "Tempus de ispera iscadidu">
+
+<!ENTITY unknownProtocolFound.title "Protocollu disconnotu">
+
+<!ENTITY proxyConnectFailure.title "Connessione cun su serbidore intermediàriu refudada">
+
+<!ENTITY proxyResolveFailure.title "Impossìbile agatare su serbidore intermediàriu">
 
 
+<!ENTITY unknownSocketType.title "Risposta non curreta">
 
+<!ENTITY nssFailure2.title "Faddina in sa connessione segura">
 
+<!ENTITY nssBadCert.title "Faddina in sa connessione segura">
 
-
-
-
-
-
-
-
+<!ENTITY securityOverride.linkText "O podes agiùnghere un'etzetzione…">
 
 
 
