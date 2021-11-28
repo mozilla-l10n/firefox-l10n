@@ -20,6 +20,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = மற்றொரு உலாவியிலிருந்து இறக்குமதி செய்க…
 about-logins-menu-menuitem-import-from-a-file = கோப்பிலிருந்து இறக்குமதி செய்க…
 about-logins-menu-menuitem-export-logins = உள்நுழைவுகளை ஏற்றுமதிச்செய் …
+about-logins-menu-menuitem-remove-all-logins = எல்லா உள்நுழைவுகளையும் நீக்கு…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] விருப்பங்கள்
@@ -55,10 +56,18 @@ about-logins-list-item-breach-icon =
     .title = அரிபட்ட வலைத்தளம்
 about-logins-list-item-vulnerable-password-icon =
     .title = பாதிக்கப்படக்கூடிய கடவுச்சொல்
+about-logins-list-section-breach = மீறப்பட்ட வலைத்தளங்கள்
+about-logins-list-section-vulnerable = பாதிக்கப்படக்கூடிய கடவுச்சொற்கள்
+about-logins-list-section-nothing = எச்சரிக்கை இல்லை
+about-logins-list-section-today = இன்று
+about-logins-list-section-yesterday = நேற்று
+about-logins-list-section-week = கடந்த 7 நாட்கள்
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = உங்கள் சேமித்த உள்நுழைவுகளைத் தேடுகிறீர்களா? ஒத்திசைவை இயக்குக அல்லது அவற்றை இறக்குமதி செய்க.
 about-logins-login-intro-heading-logged-in = ஒத்திசைக்கப்பட்ட உள்நுழைவுகள் எதுமில்லை.
+login-intro-description = உங்கள் உள்நுழைவுகளை வேறு சாதனத்திலுள்ள { -brand-product-name }-இல் சேமித்தீர்களெனில், அவற்றை இங்கெவ்வாறு பெறுவதென்பது இங்கே:
 
 ## Login
 
