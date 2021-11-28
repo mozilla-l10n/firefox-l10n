@@ -130,8 +130,12 @@ perftools-presets-firefox-front-end-description = Recommended preset for interna
 perftools-presets-firefox-graphics-label = Firefox Graphics
 perftools-presets-firefox-graphics-description = Recommended preset for Firefox graphics performance investigation.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
+perftools-presets-graphics-label = Graphics
+perftools-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description = Recommended preset for diagnosing audio and video problems.
+perftools-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 perftools-presets-custom-label = Custom
 
 ##
