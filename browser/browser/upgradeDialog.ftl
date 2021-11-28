@@ -69,6 +69,7 @@ upgrade-dialog-theme-system = Systemtema
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Livet i fargar
+upgrade-dialog-start-subtitle = Levande nye fargesamansetjingar. Tilgjengelege i ein avgrensa periode.
 upgrade-dialog-start-primary-button = Utforsk fargesamansetjingar
 upgrade-dialog-start-secondary-button = Ikkje no
 
