@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Wchodzisz bez zaproszenia?
 calendar-itip-identity-warning = Nie jesteś jeszcze na liście gości.
 calendar-itip-identity-label = Odpowiedz jako:
+calendar-itip-identity-label-none = Powiąż to wydarzenie z:
