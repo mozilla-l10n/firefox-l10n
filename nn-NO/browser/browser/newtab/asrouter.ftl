@@ -149,4 +149,6 @@ spotlight-public-wifi-vpn-link = Ikkje no
 spotlight-total-cookie-protection-header =
     Test ut vår kraftigaste
     personvernfunksjon nokon gong
+spotlight-total-cookie-protection-body = Totalt vern mot infokapslar stoppar sporarar frå å bruke infokapslar til å forfølgje deg rundt om på nettet.
+spotlight-total-cookie-protection-primary-button = Slå på total vern mot infokapslar
 spotlight-total-cookie-protection-secondary-button = Ikkje no
