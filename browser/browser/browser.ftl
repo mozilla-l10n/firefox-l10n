@@ -740,6 +740,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Flytt bilde-i-bilde-vekslar til høgre side
+    .accesskey = h
+picture-in-picture-move-toggle-left =
+    .label = Flytt bilde-i-bilde-vekslar til venstre side
+    .accesskey = v
 
 ##
 
