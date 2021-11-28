@@ -306,6 +306,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ब्लॉक किया गया
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -389,6 +391,7 @@ urlbar-result-action-calculator-result = = { $result }
 
 urlbar-result-action-search-bookmarks = बुकमार्क खोजें
 urlbar-result-action-search-history = खोज इतिहास
+urlbar-result-action-search-tabs = खोज टैब
 
 ## Labels shown above groups of urlbar results
 
