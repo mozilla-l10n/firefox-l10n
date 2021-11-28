@@ -8,28 +8,24 @@
 ##
 
 process-type-web = Strony
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Uprzywilejowane strony about:
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Uprzywilejowane strony Mozilli
-
 process-type-extension = Rozszerzenie
-
 # process used to open file:// URLs
 process-type-file = Lokalny plik
-
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Duży przydział pamięci
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Wydzielone strony
-
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Wydzielony wątek usługowy
 # process preallocated; may change to other types
 process-type-prealloc = Wstępnie przydzielony
 
@@ -39,14 +35,11 @@ process-type-prealloc = Wstępnie przydzielony
 
 process-type-default = Główny
 process-type-tab = Karta
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Gniazdo
-
 # process used to decode media
 process-type-rdd = RDD
 
