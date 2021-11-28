@@ -7,5 +7,7 @@ password-not-set =
 failed-pp-change = Impossìbile modificare sa crae printzipale.
 incorrect-pp = No as insertadu sa crae printzipale atuale curreta. Torra·bi a proare.
 pp-change-ok = Crae printzipale modificada.
+pp-empty-warning = Is craes privadas sarvadas no ant a èssere protetas.
+pp-erased-ok = As cantzelladu sa crae printzipale. { pp-empty-warning }
 pw-remove-button =
     .label = Boga
