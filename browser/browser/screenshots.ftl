@@ -15,6 +15,12 @@ screenshots-download-button = Atsisiųsti
 screenshots-download-button-tooltip = Atsisiųsti ekrano nuotrauką
 screenshots-copy-button = Kopijuoti
 screenshots-copy-button-tooltip = Kopijuoti ekrano nutrauką į iškarpinę
+screenshots-download-button-title =
+    .title = Atsisiųsti ekrano nuotrauką
+screenshots-copy-button-title =
+    .title = Kopijuoti ekrano nutrauką į iškarpinę
+screenshots-cancel-button-title =
+    .title = Atsisakyti
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

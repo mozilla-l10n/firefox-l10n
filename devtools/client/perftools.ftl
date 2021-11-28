@@ -129,8 +129,13 @@ perftools-presets-firefox-front-end-label = „Firefox“ front-end
 perftools-presets-firefox-front-end-description = Rekomenduojamas nustatymas vidinio „Firefox“ „front-end“ derinimui.
 perftools-presets-firefox-graphics-label = „Firefox“ grafika
 perftools-presets-firefox-graphics-description = Rekomenduojamas nustatymas „Firefox“ grafinio našumo tyrinėjimui.
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Rekomenduojamas nustatymas „{ -brand-shorter-name }“ profiliavimui.
+perftools-presets-graphics-label = Grafika
+perftools-presets-graphics-description = Nustatymas „{ -brand-shorter-name }“ grafikos problemų diagnozavimui.
 perftools-presets-media-label = Medija
 perftools-presets-media-description = Rekomenduojamas nustatymas garso ir vaizdo problemų diagnozavimui.
+perftools-presets-media-description2 = Nustatymas „{ -brand-shorter-name }“ garso ir vaizdo problemų diagnozavimui.
 perftools-presets-custom-label = Kitas
 
 ##
