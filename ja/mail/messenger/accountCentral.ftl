@@ -47,6 +47,8 @@ newsgroups-description = { -brand-short-name } をお好みのすべてのニュ
 import-title = 別のプログラムからインポート
 import-paragraph = { -brand-short-name } に他のメールプログラムからメールメッセージやフィード購読、環境設定、メッセージフィルターを、一般的なアドレス帳形式からアドレス帳をインポートすることができます。
 
+import-paragraph2 = { -brand-short-name } に他のメールプログラムからメールメッセージやフィード購読、設定、メッセージフィルターを、一般的なアドレス帳形式からアドレス帳をインポートすることができます。
+
 import-label = データをインポート
     .aria-label = 他のプログラムからデータをインポートします
 
