@@ -150,5 +150,8 @@ spotlight-total-cookie-protection-header =
     Test ut vår kraftigaste
     personvernfunksjon nokon gong
 spotlight-total-cookie-protection-body = Totalt vern mot infokapslar stoppar sporarar frå å bruke infokapslar til å forfølgje deg rundt om på nettet.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }byggjer eit gjerde rundt infokapslar, og avgrensar dei til nettstaden du er på, slik at sporarar ikkje kan bruke dei til å følgje deg. Med tidleg tilgang hjelper du til med å optimalisere denne funksjonen slik at vi kan fortsetje å byggje eit betre nett for alle.
 spotlight-total-cookie-protection-primary-button = Slå på total vern mot infokapslar
 spotlight-total-cookie-protection-secondary-button = Ikkje no
