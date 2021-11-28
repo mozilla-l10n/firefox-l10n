@@ -744,6 +744,19 @@ picture-in-picture-hide-toggle =
     .label = Ukryj przycisk „Obraz w obrazie”
     .accesskey = U
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Przenieś przycisk „Obraz w obrazie” na prawą stronę
+    .accesskey = P
+picture-in-picture-move-toggle-left =
+    .label = Przenieś przycisk „Obraz w obrazie” na lewą stronę
+    .accesskey = O
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include

@@ -950,6 +950,14 @@ content-blocking-all-windows-tracking-content = treści z elementami śledzący
 content-blocking-all-third-party-cookies = wszystkie ciasteczka zewnętrznych witryn
 content-blocking-cryptominers = elementy używające komputera użytkownika do generowania kryptowalut
 content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji o konfiguracji
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Przetestuj naszą najpotężniejszą funkcję ochrony prywatności w historii
+    .accesskey = P
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Całkowita ochrona ciasteczek ogranicza ciasteczka do odwiedzanej witryny, więc elementy śledzące nie mogą ich używać do śledzenia Cię między witrynami.
+content-blocking-etp-standard-tcp-rollout-learn-more = Więcej informacji
 content-blocking-warning-title = Ostrzeżenie
 content-blocking-and-isolating-etp-warning-description = Blokowanie elementów śledzących i izolowanie ciasteczek może wpłynąć na funkcjonowanie niektórych stron. Odśwież stronę z włączonymi elementami śledzącymi, aby wyświetlić całą jej zawartość.
 content-blocking-and-isolating-etp-warning-description-2 = To ustawienie może spowodować niepoprawne działanie lub wyświetlanie niektórych stron. Jeśli dana strona wydaje się niewłaściwie działać, możesz wyłączyć dla niej ochronę przed śledzeniem, aby wczytać ją w całości.
