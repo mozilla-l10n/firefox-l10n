@@ -156,3 +156,8 @@ spotlight-total-cookie-protection-header =
     Przetestuj naszą najpotężniejszą
     funkcję ochrony prywatności w historii
 spotlight-total-cookie-protection-body = Całkowita ochrona ciasteczek uniemożliwia elementom śledzącym używanie ciasteczek do śledzenia Cię w Internecie.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje płot wokół ciasteczek, ograniczając je do odwiedzanej witryny, aby elementy śledzące nie mogły ich używać do śledzenia Cię. Włączając tę funkcję przed innymi pomożesz ją zoptymalizować, abyśmy mogli kontynuować tworzenie lepszego Internetu dla wszystkich.
+spotlight-total-cookie-protection-primary-button = Włącz całkowitą ochronę ciasteczek
+spotlight-total-cookie-protection-secondary-button = Nie teraz
