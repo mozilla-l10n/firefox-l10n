@@ -9,5 +9,6 @@ incorrect-pp = No as insertadu sa crae printzipale atuale curreta. Torra·bi a p
 pp-change-ok = Crae printzipale modificada.
 pp-empty-warning = Is craes privadas sarvadas no ant a èssere protetas.
 pp-erased-ok = As cantzelladu sa crae printzipale. { pp-empty-warning }
+pp-not-wanted = Atentzione! As detzìdidu de no impreare una crae printzipale. { pp-empty-warning }
 pw-remove-button =
     .label = Boga
