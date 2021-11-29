@@ -737,7 +737,7 @@ edit-popup-settings =
     .label = Håndter pop op-indstillinger
     .accesskey = H
 picture-in-picture-hide-toggle =
-    .label = Skjul kontakt for billed-i-billed
+    .label = Skjul knappen for Billede-i-billede
     .accesskey = S
 
 ## Since the default position for PiP controls does not change for RTL layout,
