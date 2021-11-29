@@ -150,5 +150,8 @@ spotlight-total-cookie-protection-header =
     Eipuru ore rembiaporapykuere
     ñemigua imbaretevéva tembiasakuépe
 spotlight-total-cookie-protection-body = Ñemo’ãmbaite kookie rovake omboyke tapykuehohápe oipurúvo kookie nde rapykueho hag̃ua ñandutípe.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } omopu’ã tápia kookie jerére ha ojoko tenda oĩhápe ani hag̃ua tapykuehoha oipuru nde rapykueho hag̃ua. Pe jeike voi ndive, oipytyvõta oiko porãve hag̃ua tembiapoite rojapo hag̃ua ñanduti iporãva opavavépe g̃uarã.
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
