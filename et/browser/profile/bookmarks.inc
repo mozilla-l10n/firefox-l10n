@@ -21,9 +21,9 @@
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox
 
-# LOCALIZATION NOTE (firefox_help):
+# LOCALIZATION NOTE (firefox_get_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help Abi ja juhendid
+#define firefox_get_help Hangi abi
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
@@ -60,10 +60,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Sinu vearaportid
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Arutle Nightly teemadel IRC vahendusel
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
