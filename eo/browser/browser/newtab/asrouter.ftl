@@ -148,4 +148,8 @@ spotlight-public-wifi-vpn-link = Ne nun
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = Estu inter la unuaj kiuj testas la ĝisnune plej povan sperton pri privateco
 spotlight-total-cookie-protection-body = La totala protekto kontraŭ kuketoj evitas ke spuriloj sekvu vin tra la reto.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } konstruas barilon ĉirkaŭ kuketojn, limigante ilin al la retejo kie ili estas tiel ke spuriloj ne povas uzi ilin por sekvi vin. Per frua aliro al tiu funkcio, vi helpos nin plibonigi ĝin kaj plu konstrui pli bonan teksaĵon por ĉiuj.
+spotlight-total-cookie-protection-primary-button = Ŝalti totalan protekton kontraŭ kuketoj
 spotlight-total-cookie-protection-secondary-button = Nun ne
