@@ -185,15 +185,6 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
-downloads-files-not-downloaded =
-    { $num ->
-        [one] Datoteka se ni prenesla.
-        [two] { $num } datoteki se nista prenesli.
-        [few] { $num } datoteke se niso prenesle.
-       *[other] { $num } datotek se ni preneslo.
-    }
-downloads-blocked-from-url = Zavrnjeni prenosi z { $url }.
-downloads-blocked-download-detailed-info = Spletno mesto { $url } je poskušalo samodejno prenesti več datotek. Morda ne deluje pravilno ali pa vam poskuša na računalnik shraniti neželene datoteke.
 
 ##
 

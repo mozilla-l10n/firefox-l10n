@@ -195,7 +195,6 @@ profiler-popup-presets-firefox-graphics-description = Priporočena prednastavite
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox: grafika
 profiler-popup-presets-media-description = Priporočena prednastavitev za prepoznavanje težav z zvokom in videom.
-profiler-popup-presets-firefox-description = Priporočena prednastavitev za spremljanje zmogljivosti { -brand-shorter-name(sklon: "rodilnik") }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-description = Prednastavitev za preiskovanje napak grafike v { -brand-shorter-name(sklon: "mestnik") }
