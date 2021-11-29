@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Puede intentar buscar apodos o alg�
 account-provisioner-free-account = Gratis
 account-provision-price-per-year = { $price } al año
 account-provisioner-all-results-button = Mostrar todos los resultados
+account-provisioner-open-in-tab-img =
+    .title = Se abre en una nueva pestaña
