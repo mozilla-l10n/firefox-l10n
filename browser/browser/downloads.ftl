@@ -190,6 +190,8 @@ downloads-files-not-downloaded =
         [one] Dosiero ne elŝutita.
        *[other] { $num } dosieroj ne elŝutitaj.
     }
+downloads-blocked-from-url = Elŝutoj el { $url } estis blokitaj.
+downloads-blocked-download-detailed-info = { $url } klopodis aŭtomate elŝuti plurajn dosierojn. La retejo povus misfunkcii aŭ ĝi povus klopodi konservi truddosierojn en via aparato.
 
 ##
 
@@ -203,3 +205,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Neniu elŝuto por tiu ĉi seanco.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] unu alia elŝutata dosiero
+       *[other] { $count } aliaj elŝutataj dosieroj
+    }

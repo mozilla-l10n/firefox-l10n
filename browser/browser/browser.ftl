@@ -737,6 +737,19 @@ picture-in-picture-hide-toggle =
     .label = Kaŝi butonon de bildo en bildo
     .accesskey = K
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Movi la butonon de inkrustita video al la dekstra flanko
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Movi la butonon de inkrustita video al la maldekstra flanko
+    .accesskey = m
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
