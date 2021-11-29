@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 45em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Ñemboguejy Sa’ikue
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Marandurenda oguejy’ỹva.
+       *[other] { $num } archivos no descargados.
+    }
+downloads-blocked-from-url = Ñemboguejy jokopyre { $url } guive.
+downloads-blocked-download-detailed-info = { $url } omboguejyse ijehegui marandurendaita. Pe tenda ikatu hekomarã térã ombyatyse marandurenda spam reheguáva ne mba’e’okápe.
+
+##
+
 downloads-clear-downloads-button =
     .label = Mboguejypyre mopotĩ
     .tooltiptext = Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue
