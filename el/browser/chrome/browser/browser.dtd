@@ -21,12 +21,10 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Πλοήγηση">
-
 <!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
 
-<!ENTITY pictureInPictureHideToggle.label "Απόκρυψη διακόπτη εικόνας εντός εικόνας">
+<!ENTITY pictureInPictureHideToggle.label "Απόκρυψη διακόπτη «Εικόνα εντός εικόνας»">
 <!ENTITY pictureInPictureHideToggle.accesskey "Α">
-
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -124,7 +122,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλαϊνής γραμμής">
 
 <!ENTITY allowPopups.accesskey "ν">
-
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -142,9 +139,7 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες φυλλομετρητή">
 
-
 <!ENTITY uiTour.infoPanel.close "Κλείσιμο">
-
 
 <!ENTITY panicButton.thankyou.msg1                "Το πρόσφατο ιστορικό σας έχει διαγραφτεί.">
 <!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
