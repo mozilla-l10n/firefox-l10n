@@ -15,3 +15,6 @@ receipt-send-always-label =
     .label = Siempre enviar
 receipt-send-ask-label =
     .label = Preguntarme
+other-cases-text-label =
+    .value = En todos los demás casos:
+    .accesskey = a
