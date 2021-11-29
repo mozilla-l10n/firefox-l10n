@@ -58,6 +58,7 @@ about-logins-list-item-vulnerable-password-icon =
 about-logins-list-section-vulnerable = Խոցելի գաղտնաբառեր
 about-logins-list-section-today = Այսաւր
 about-logins-list-section-yesterday = Երէկ
+about-logins-list-section-week = Վերջին եաւթ աւրը
 
 ## Introduction screen
 
