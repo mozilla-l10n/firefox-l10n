@@ -121,12 +121,12 @@ perftools-presets-firefox-front-end-description = Rekomendita agordaro por inter
 perftools-presets-firefox-graphics-label = Grafikoj de Firefox
 perftools-presets-firefox-graphics-description = Rekomendita agordaro por esplori la efikecon de la grafikoj de Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = Rekomenditaj agordoj por rulanalizo de { -brand-shorter-name }
+perftools-presets-firefox-description = Rekomendita agordaro por rulanalizo de { -brand-shorter-name }
 perftools-presets-graphics-label = Grafikoj
-perftools-presets-graphics-description = Rekomenditaj agordoj por senerarigo de grafikoj en { -brand-shorter-name }.
+perftools-presets-graphics-description = Rekomendita agordaro por senerarigo de grafikoj en { -brand-shorter-name }.
 perftools-presets-media-label = Aŭdvidaĵo
 perftools-presets-media-description = Rekomendita agordaro por diagnozi aŭdajn kaj videajn problemojn.
-perftools-presets-media-description2 = Rekomenditaj agordoj por senerarigo de sono kaj video en { -brand-shorter-name }.
+perftools-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
 perftools-presets-custom-label = Personecigita
 
 ##
