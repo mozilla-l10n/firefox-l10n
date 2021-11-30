@@ -61,8 +61,10 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Atzeta s'arriscu e sighi">
 
+<!ENTITY errorReporting.automatic2 "Sinnala faddinas comente custa pro agiudare Mozilla a identificare e blocare sitos malos">
 <!ENTITY errorReporting.learnMore "Leghe àteru...">
 
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Informa s'amministratzione de su situ web de custu problema.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
