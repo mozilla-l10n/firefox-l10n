@@ -7,3 +7,5 @@ chat-table-heading-account = ID
 chat-table-heading-protocol = 通訊協定
 chat-table-heading-name = 名稱
 chat-table-heading-actions = 動作
+chat-table-copy-debug-log = 複製除錯紀錄
+    .title = 將此聊天帳號發生的錯誤與其他紀錄複製到剪貼簿，可能會包含聊天訊息等個人資訊。
