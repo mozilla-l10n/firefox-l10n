@@ -142,4 +142,5 @@ spotlight-public-wifi-vpn-link = ไม่ใช่ตอนนี้
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-primary-button = เปิดการป้องกันคุกกี้ทั้งหมด
 spotlight-total-cookie-protection-secondary-button = ไม่ใช่ตอนนี้
