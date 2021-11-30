@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "As seberadu de abèrrere:">
+<!ENTITY  from.label                  "dae:">
+<!ENTITY  actionQuestion.label        "Ite depet fàghere &brandShortName; cun custu archìviu?">
+
+<!ENTITY  openWith.label              "Aberi·ddu cun">
+<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  other.label                 "Un'àtera aplicatzione…">
+
+<!ENTITY  saveFile.label              "Sarva s'archìviu">
+<!ENTITY  saveFile.accesskey          "s">
+
+<!ENTITY  rememberChoice.label        "Faghe custu in automàticu pro custos archìvios de immoe a in antis.">
+<!ENTITY  rememberChoice.accesskey    "f">
+
+<!ENTITY  whichIs.label              "chi est:">
+
+<!ENTITY  chooseHandlerMac.label      "Sèbera…">
+<!ENTITY  chooseHandlerMac.accesskey  "S">
+<!ENTITY  chooseHandler.label         "Nàviga…">
+<!ENTITY  chooseHandler.accesskey     "N">
+
+<!ENTITY  unknownPromptText.label     "Boles sarvare custu archìviu?">
