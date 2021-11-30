@@ -34,7 +34,7 @@ abuse-report-messagebar-submitted = Gràtzias de s'informe tuo. Boles cantzellar
 abuse-report-messagebar-submitted-noremove = Gràtzias de s'informe tuo.
 abuse-report-messagebar-removed-extension = Gràtzias de s'informe tuo. As cantzelladu s'estensione <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gràtzias de s'informe tuo. As cantzelladu su tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-error = Faddina in s'imbiu de s'informe subra de <span data-l10n-name="addon-name"></span>.
+abuse-report-messagebar-error = Faddina in s'imbiu de s'informe subra de <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = S'informe subra de <span data-l10n-name="addon-name">{ $addon-name }</span> no est istadu imbiadu ca un'àteru informe est istadu imbiadu dae pagu.
 
 ## Message bars actions.
