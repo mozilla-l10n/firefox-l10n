@@ -186,8 +186,16 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Веб-әзірлеуші
+profiler-popup-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox платформасы
+profiler-popup-presets-firefox-front-end-description = Firefox клиент бөілігін ішкі жөндеу үшін ұсынылған баптаулар.
+profiler-popup-presets-firefox-front-end-label =
+    .label = Firefox клиент бөлігі
+profiler-popup-presets-firefox-graphics-description = Firefox графикасы өнімділігін тексеру үшін ұсынылған баптаулар.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox графикасы
+profiler-popup-presets-media-description = Аудио және видео мәселелерін диагностикалау үшін ұсынылған баптаулар.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
