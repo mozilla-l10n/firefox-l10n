@@ -20,20 +20,6 @@ about-unloads-intro =
 about-unloads-learn-more =
     Consultare il documento <a data-l10n-name="doc-link">Tab Unloading</a>
     per ulteriori informazioni su questa funzione e questa pagina.
-about-unloads-intro-1 =
-    { -brand-short-name } include una funzione che permette di scaricare
-    automaticamente le schede per impedire un arresto anomalo dell’applicazione
-    nel caso in cui la memoria disponibile nel sistema diventi insufficiente. La
-    scheda successiva da scaricare viene scelta in base a diversi criteri.
-    Questa pagina mostra in che modo { -brand-short-name } assegna la priorità
-    alle schede e la prossima scheda che verrà scaricata.
-about-unloads-intro-2 =
-    Le schede esistenti vengono visualizzate nella tabella con lo stesso ordine
-    utilizzato da { -brand-short-name } per scegliere la prossima scheda da
-    scaricare. L’ID del processo è visualizzato in <strong>grassetto</strong>
-    quando il processo ospita il frame principale della scheda, in
-    <em>corsivo</em> quando il processo è condiviso tra più schede. È possibile
-    scaricare manualmente una scheda utilizzando il pulsante <em>Scarica</em>.
 
 about-unloads-last-updated =
     Ultimo aggiornamento: { DATETIME($date,
