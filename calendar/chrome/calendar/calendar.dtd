@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Créer un nouvel évènement" >
 <!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tâches" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Afficher les tâches accomplies">
 
 <!ENTITY calendar.today.button.label          "Aujourd’hui">
@@ -88,8 +86,6 @@
 
 <!ENTITY calendar.newevent.button.label         "Nouvel évènement" >
 <!ENTITY calendar.newtask.button.label          "Nouvelle tâche" >
-<!ENTITY calendar.print.button.label            "Imprimer" >
-<!ENTITY calendar.print.button.accesskey        "P">
 
 <!ENTITY calendar.day.button.label              "Journée" >
 <!ENTITY calendar.week.button.label             "Semaine" >
@@ -355,7 +351,6 @@
 <!ENTITY calendarproperties.color.label                    "Couleur :">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Serveur d’agendas Sun Java System (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format :">
 <!ENTITY calendarproperties.location.label                 "Emplacement :">
 <!ENTITY calendarproperties.refreshInterval.label          "Actualiser l’agenda :">
@@ -364,7 +359,6 @@
 <!ENTITY calendarproperties.readonly.label                 "En lecture seule">
 <!ENTITY calendarproperties.firealarms.label               "Afficher les alarmes">
 <!ENTITY calendarproperties.cache3.label                   "Prise en charge du mode hors connexion">
-<!ENTITY calendarproperties.enabled.label                  "Activer cet agenda">
 <!ENTITY calendarproperties.enabled2.label                 "Activer cet agenda">
 <!ENTITY calendarproperties.forceDisabled.label            "Le fournisseur de cet agenda n’a pas été trouvé. Ceci arrive souvent lors de la désactivation ou de la désinstallation de certains modules complémentaires.">
 <!ENTITY calendarproperties.unsubscribe.label              "Se désabonner">
@@ -380,23 +374,6 @@
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Sélectionner l’agenda">
-
-<!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Imprimer un agenda">
-<!ENTITY calendar.print.title.label "Titre :">
-<!ENTITY calendar.print.layout.label "Affichage :">
-<!ENTITY calendar.print.range.label "Période à imprimer">
-<!ENTITY calendar.print.currentView2.label "Vue courante">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Tâches et évènements sélectionnés">
-<!ENTITY calendar.print.tasks.label "Tâches">
-<!ENTITY calendar.print.events.label "Évènements">
-<!ENTITY calendar.print.custom.label "Période personnalisée :">
-<!ENTITY calendar.print.from.label "Du :">
-<!ENTITY calendar.print.to.label "Au :">
-<!ENTITY calendar.print.settingsGroup.label "Paramètres d’impression">
-<!ENTITY calendar.print.optionsGroup.label "Options">
-<!ENTITY calendar.print.taskswithnoduedate.label "Tâches sans date d’échéance">
-<!ENTITY calendar.print.completedtasks.label "Tâches achevées">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Détails…">
