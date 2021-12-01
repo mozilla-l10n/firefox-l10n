@@ -4,7 +4,7 @@
 
 about-telemetry-page-title = टेली मेटरी डाटा
 about-telemetry-histograms-section = हिस्टोग्राम
-about-telemetry-simple-measurements-section = साधारोन माप को
+about-telemetry-simple-measurements-section = ᱥᱟᱫᱷᱟᱨᱚᱬ ᱢᱟᱯ ᱠᱚ
 about-telemetry-slow-sql-section = SQL  ला़य उदुक् बा़य बा़य .
 about-telemetry-addon-details-section = एड-ऑन पुरा बिबरोन
 about-telemetry-late-writes-section = बिलोम ओल को
