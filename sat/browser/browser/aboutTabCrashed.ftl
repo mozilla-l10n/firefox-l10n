@@ -6,4 +6,5 @@ crashed-title = ᱴᱮᱵᱽ ᱨᱟᱹᱯᱩᱫ ᱠᱷᱚᱵᱚᱨᱤᱭᱟᱹ
 crashed-close-tab-button = ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 crashed-restore-tab-button = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱫᱩᱦᱲᱟᱹ ᱡᱚᱜᱟᱣ ᱢᱮ
 crashed-offer-help = ᱟᱞᱮ ᱜᱚᱲᱚ ᱞᱮ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ!
+crashed-request-help = ᱪᱮᱫ ᱟᱢ ᱜᱚᱲᱚ ᱞᱮᱭᱟᱢ ᱥᱮ?
 crashed-request-report-title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱠᱷᱚᱵᱚᱨ ᱢᱮ

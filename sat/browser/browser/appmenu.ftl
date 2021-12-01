@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-banner-update-available =
+    .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+appmenuitem-banner-update-manual =
+    .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+appmenuitem-banner-update-restart =
+    .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱽ ᱢᱮ
 appmenuitem-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 appmenuitem-new-window =
@@ -35,6 +41,12 @@ appmenuitem-exit2 =
             [linux] ᱵᱟᱹᱜᱤ
            *[other] ᱵᱟᱹᱜᱤ
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = ᱟᱹᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = ᱟᱹᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱢᱮᱱᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -140,6 +152,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-media-label =
+    .label = ᱢᱤᱰᱤᱭᱟ
+profiler-popup-presets-custom-label =
+    .label = ᱠᱩᱥᱤᱭᱟᱜ
 
 ## History panel
 
