@@ -117,11 +117,13 @@ mr1-onboarding-sign-in-button-label = Кіру
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-subtitle = Жылдамдық, қауіпсіздік және жекелікті автопилотқа орнатыңыз.
 mr1-onboarding-default-primary-button-label = Негізгі браузер қылу
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = Барлығын өзіңізбен бірге алыңыз
+mr1-onboarding-import-subtitle = Парольдер, <br/>бетбелгілер және т.б. импорттаңыз.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -245,7 +247,15 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         динамикалық, түрлі-түсті теманы қолдану.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Бастапқы темаларды шолу.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Бастапқы темаларды шолу.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Бізді таңдағаныңызға рахмет
+mr2-onboarding-thank-you-text = { -brand-short-name } — коммерциялық емес ұйым қолдайтын тәуелсіз браузер. Біз интернетті бірге қауіпсіз, сау және жеке етіп жасаймыз.
 mr2-onboarding-start-browsing-button-label = Шолуды бастау
