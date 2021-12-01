@@ -57,9 +57,9 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "в">
 <!ENTITY otherActionsOpenInNewTab1.label "Відкрити у новій вкладці">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "к">
-<!ENTITY markAsReadMenuItem1.label "Позначити як прочитане">
+<!ENTITY markAsReadMenuItem1.label "Позначити прочитаним">
 <!ENTITY markAsReadMenuItem1.accesskey "ч">
-<!ENTITY markAsUnreadMenuItem1.label "Позначити як нечитане">
+<!ENTITY markAsUnreadMenuItem1.label "Позначити нечитаним">
 <!ENTITY markAsUnreadMenuItem1.accesskey "н">
 <!ENTITY saveAsMenuItem1.label "Зберегти як…">
 <!ENTITY saveAsMenuItem1.accesskey "з">
