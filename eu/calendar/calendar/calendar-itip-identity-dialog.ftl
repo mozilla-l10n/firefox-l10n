@@ -4,3 +4,4 @@
 
 calendar-itip-identity-warning = Ez zaude oraindik gonbidatuen zerrendan.
 calendar-itip-identity-label = Erantzun hau bezala:
+calendar-itip-identity-label-none = Elkartu gertaera honekin:
