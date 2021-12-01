@@ -87,6 +87,9 @@
 <!ENTITY cspBlocked.title "Blokitud sisu kaitsva turvareegliga">
 <!ENTITY cspBlocked.longDesc "<p>Brauser keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
+<!ENTITY xfoBlocked.title "Blokitud X-Frame-Options reeglistikuga">
+<!ENTITY xfoBlocked.longDesc "<p>Brauser keeldus lehe laadimisest selles kontekstis, sest lehel oleva X-Frame-Options reeglistiku kohaselt on see keelatud.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Vigane sisu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
