@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = 로그인과 비밀번호
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = 로그인 검색
-
 create-login-button = 새 로그인 만들기
-
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
 fxaccounts-sign-in-sync-button = Sync에 로그인
 fxaccounts-avatar-button =
@@ -39,7 +34,7 @@ login-list =
     .aria-label = 검색어와 일치하는 로그인
 login-list-count =
     { $count ->
-       *[other] { $count }회 로그인
+       *[other] 로그인 { $count }개
     }
 login-list-sort-label-text = 정렬 기준:
 login-list-name-option = 이름 (A-Z)
@@ -60,7 +55,6 @@ about-logins-list-item-breach-icon =
     .title = 유출된 웹 사이트
 about-logins-list-item-vulnerable-password-icon =
     .title = 취약한 비밀번호
-
 about-logins-list-section-breach = 유출된 웹 사이트
 about-logins-list-section-vulnerable = 취약한 비밀번호
 about-logins-list-section-nothing = 알림 없음
@@ -118,21 +112,16 @@ about-logins-edit-login-os-auth-dialog-message-win = 로그인을 편집하려�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 저장된 로그인 편집
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 비밀번호를 보려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 저장된 비밀번호 표시
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = 비밀번호를 복사하려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 저장된 비밀번호 복사
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = 로그인을 내보내려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to export a password in about:logins
@@ -146,30 +135,24 @@ master-password-reload-button =
     .label = 로그인
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = 취소
 confirmation-dialog-dismiss-button =
     .title = 취소
-
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] 삭제
        *[other] 모두 삭제
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] 예, 이 로그인을 삭제합니다
        *[other] 예, 이 로그인들을 삭제합니다
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] { $count }개의 로그인을 삭제하시겠습니까?
@@ -179,7 +162,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] { -brand-short-name }에 저장한 로그인과 여기에 표시되는 모든 유출 알림이 삭제됩니다. 이 작업은 취소할 수 없습니다.
        *[other] { -brand-short-name }에 저장한 로그인들과 여기에 표시되는 모든 유출 알림이 삭제됩니다. 이 작업은 취소할 수 없습니다.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] 모든 기기에서 { $count }개의 로그인을 삭제하시겠습니까?
@@ -189,14 +171,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 로그인이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
        *[other] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인들이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
     }
-
 about-logins-confirm-export-dialog-title = 로그인과 비밀번호 내보내기
 about-logins-confirm-export-dialog-message = 비밀번호는 읽을 수 있는 텍스트 (예: BadP@ssw0rd)로 저장되므로, 내보낸 파일을 열 수 있는 사람은 누구나 볼 수 있습니다.
 about-logins-confirm-export-dialog-confirm-button = 내보내기…
-
 about-logins-alert-import-title = 가져오기 완료
 about-logins-alert-import-message = 자세한 가져오기 요약 보기
-
 confirm-discard-changes-dialog-title = 저장되지 않은 변경 내용을 버리시겠습니까?
 confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 내용을 잃게 됩니다.
 confirm-discard-changes-dialog-confirm-button = 버리기
@@ -227,7 +206,6 @@ about-logins-vulnerable-alert-learn-more-link = 더 알아보기
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = 해당 사용자 이름으로 { $loginTitle }에 대한 항목이 이미 있습니다. <a data-l10n-name="duplicate-link">기존 항목으로 이동하시겠습니까?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = 이 비밀번호를 저장하는 중 오류가 발생했습니다.
 
@@ -276,12 +254,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>추가된 새 로그인:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>업데이트된 기존 로그인:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>찾은 중복 로그인:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
@@ -291,7 +267,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>오류:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
     }
 about-logins-import-dialog-done = 완료
-
 about-logins-import-dialog-error-title = 가져오기 오류
 about-logins-import-dialog-error-conflicting-values-title = 하나의 로그인에 대해 여러 충돌 값
 about-logins-import-dialog-error-conflicting-values-description = 예: 하나의 로그인에 대해 여러 사용자 이름, 비밀번호, URL 등.
@@ -305,10 +280,8 @@ about-logins-import-dialog-error-no-logins-imported = 가져온 로그인이 없
 about-logins-import-dialog-error-learn-more = 더 알아보기
 about-logins-import-dialog-error-try-import-again = 가져오기 다시 시도…
 about-logins-import-dialog-error-cancel = 취소
-
 about-logins-import-report-title = 가져오기 요약
 about-logins-import-report-description = 로그인과 비밀번호를 { -brand-short-name }로 가져왔습니다.
-
 #
 # Variables:
 #  $number (number) - The number of the row
