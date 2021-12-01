@@ -3,18 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### UI strings for the simplified onboarding modal / about:welcome
-### Various strings use a non-breaking space to avoid a single dangling /
-### widowed word, so test on various window sizes if you also want this.
-
-
-## These button action text can be split onto multiple lines, so use explicit
-## newlines in translations to control where the line break appears (e.g., to
-## avoid breaking quoted text).
-
-## Welcome modal dialog strings
-
-
 ### UI strings for the simplified onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -28,47 +16,21 @@
 ## Welcome page strings
 
 
-## Welcome full page string
-
-
-## Firefox Sync modal dialog strings.
-
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-
-## Message strings belonging to the Return to AMO flow
-
-
 ## Custom Return To AMO onboarding strings
 
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-welcome-secondary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 
 ## Multistage onboarding strings (about:welcome pages)
 
 onboarding-multistage-theme-primary-button-label2 = ᱦᱩᱭᱮᱱᱟ
 onboarding-multistage-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ᱟᱡ ᱛᱮ
-
 onboarding-multistage-theme-label-light = ᱢᱟᱨᱥᱟᱞ
 onboarding-multistage-theme-label-dark = ᱧᱩᱛ
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ᱮᱱᱤᱢᱮᱥᱚᱱ ᱠᱚ ᱵᱚᱸᱫ ᱢᱮ
 
@@ -104,4 +66,7 @@ mr1-onboarding-theme-label-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
 
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+
+## Strings for Thank You page
 

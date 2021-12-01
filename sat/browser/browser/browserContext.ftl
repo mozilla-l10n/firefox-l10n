@@ -60,6 +60,10 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
     .accesskey = S
+# This menuitem is only visible on macOS
+main-context-menu-stop-mac =
+    .label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -70,6 +74,9 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
 ## Save Page
 
@@ -101,6 +108,16 @@ main-context-menu-bookmark-add-with-shortcut =
     .aria-label = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱵᱩᱩᱠᱢᱟᱨᱠ ᱢᱮ
     .accesskey = ᱵ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱵᱩᱩᱠᱢᱟᱨᱠ ᱢᱮ ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+    .accesskey = m
+    .tooltiptext = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+    .accesskey = m
+    .tooltiptext = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ({ $shortcut })
 main-context-menu-open-link =
     .label = ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱠ
@@ -172,6 +189,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ
+    .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ ᱾
     .accesskey = ᱯ
@@ -279,6 +299,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = ᱥᱟᱦᱴᱟ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
     .accesskey = ᱥ
+main-context-menu-inspect =
+    .label = ᱧᱮᱧᱮᱞ
+    .accesskey = Q
 main-context-menu-eme-learn-more =
     .label = DRM ᱵᱟᱵᱚᱛ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ…
     .accesskey = ᱥ

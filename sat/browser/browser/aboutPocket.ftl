@@ -33,6 +33,7 @@ pocket-panel-signup-already-have = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱜᱮ { -pocket
 pocket-panel-signup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 pocket-panel-signup-login = ᱵᱚᱞᱚᱱ ᱢᱮ
 pocket-panel-signup-signup-email = ᱤᱢᱮᱞ ᱛᱮ ᱥᱟᱭᱤᱱ ᱟᱯ ᱢᱮ
+pocket-panel-signup-signup-firefox = { -brand-product-name } ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 
 ## about:pocket-home panel
 

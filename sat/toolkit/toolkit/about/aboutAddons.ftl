@@ -3,65 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = एड-ऑनस बेबोसतायिच्
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = आम ठेन नोवा लेकान बोहालाक्  रेयाक्  जाहान एड-ऑनस बा़नुक् आ
-
 list-empty-available-updates =
     .value = जाहान हा़लियाक् को बाय ञाम लेना
-
 list-empty-recent-updates =
     .value = आम सुर दिन जाहां गे एड-ऑनस बाम हा़ली आकात् आ
-
 list-empty-find-updates =
     .label = हा़ली को ला़गित् ञेंल
-
 list-empty-button =
     .label = खोंजा-आदेर बाबोत् बाड़ती चेद मे
-
 detail-version =
     .label = बार्सान
-
 detail-last-updated =
     .label = मुचा़त् हा़लियाक्
-
 detail-contributions-description = नोवा एड-ऑन रे निच् तेयारिच् कुली गेया जे आमाक् गोड़ो ते मित् हुडिञाक् गोड़ो तेयार दाराय ते आजाक् लेताड़ लाहा रेयाक् गोड़ो मेनाक् आ.
-
 detail-update-type =
     .value = आच् आच् ते हा़लियाक् को
-
 detail-update-default =
     .label = हुड़ाक्
     .tooltiptext = एकेन आच् आच् ते हा़ली को बो़हाल जुदी ओंडे हुड़ाक् मेनाक् आ .
-
 detail-update-automatic =
     .label = चालु
     .tooltiptext = हा़ली को आच् आच् ते बो़हाल
-
 detail-update-manual =
     .label = ऑफ
     .tooltiptext = आच् आच् ते हा़ली को आलोम बो़हाला
-
 detail-home =
     .label = ओड़ाक् साहटा
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = एड-ऑन प्रोफाइल
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = हा़ली को ला़गित् तेंघान
     .accesskey = f
     .tooltiptext = नोवा एड-ऑन ला़गित् हा़ली को तेंघान
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -78,13 +59,10 @@ detail-show-preferences =
             [windows] नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में
            *[other] नोवा एड-ऑनस रेयाक् कुसियाक् को
         }
-
 detail-rating =
     .value = दोर ठा़वका़
-
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
-
 addon-category-extension = पासनाव को
 addon-category-extension-title =
     .title = पासनाव को
@@ -113,7 +91,6 @@ extensions-warning-check-compatibility-button = हुय होचो
 extensions-warning-update-security = एड-ऑन आ़पती ञेल दो बाङ हुय होचो बाकाना . आम हा़ली को दाराय ते सुला़नामा दाड़ेयाक् आ .
 extensions-warning-update-security-button = हुय होचो
     .title = एड-ऑन हा़ली ञेंल हुय होचो तेयार में
-
 
 ## Strings connected to add-on updates
 
@@ -168,7 +145,10 @@ addon-install-from-file-filter-name = एड-ऑनस
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
+available-updates-heading = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ
 
 ## Page headings
 
