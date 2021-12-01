@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Osatutako zereginak
 calendar-print-filter-taskswithnoduedate = Muga-egunik gabeko zeregina
 calendar-print-range-from = Nork
 calendar-print-range-to = Nori
+calendar-print-back-button = Atzera
 calendar-print-next-button = Hurrengoa
