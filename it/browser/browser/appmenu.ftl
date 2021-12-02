@@ -209,6 +209,10 @@ profiler-popup-presets-media-description2 = Preset per la diagnosi di problemi a
 profiler-popup-presets-media-label =
     .label = Multimediale
 
+profiler-popup-presets-networking-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+  .label = Rete
+
 ## History panel
 
 appmenu-manage-history =

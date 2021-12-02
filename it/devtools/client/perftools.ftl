@@ -145,4 +145,7 @@ perftools-presets-firefox-graphics-label = Firefox - Grafica
 perftools-presets-media-description = Preset consigliato per la diagnosi di problemi audio e video.
 perftools-presets-media-label = Multimediale
 
+perftools-presets-networking-label = Rete
+perftools-presets-networking-description = Preset per la diagnosi di problemi di rete in { -brand-shorter-name }.
+
 perftools-presets-custom-label = Personalizzato
