@@ -80,3 +80,13 @@ about-addressbook-details-work-address-header = Työosoite
 about-addressbook-details-other-info-header = Muut tiedot
 about-addressbook-prompt-to-save-title = Tallennetaanko muutokset?
 about-addressbook-prompt-to-save = Haluatko tallentaa tekemäsi muutokset?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Pudota tai liitä kuva tähän, tai valitse tiedosto napsauttamalla.
+about-addressbook-photo-drop-loading = Ladataan kuvaa…
+about-addressbook-photo-drop-error = Kuvan lataaminen epäonnistui.
+about-addressbook-photo-filepicker-title = Valitse kuvatiedosto
+about-addressbook-photo-discard = Hylkää olemassa oleva kuva
+about-addressbook-photo-cancel = Peruuta
+about-addressbook-photo-save = Tallenna
