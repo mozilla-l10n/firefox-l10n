@@ -37,7 +37,7 @@ about-processes-column-cpu-total = Processeur
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Processus web partagé ({ $pid })
-about-processes-file-process = Fichiers { $pid })
+about-processes-file-process = Fichiers ({ $pid })
 about-processes-extension-process = Extensions ({ $pid })
 about-processes-privilegedabout-process = Pages « about: » ({ $pid })
 about-processes-plugin-process = Plugins ({ $pid })
