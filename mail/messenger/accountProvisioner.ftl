@@ -49,3 +49,5 @@ account-provisioner-domain-results-caption = Voit etsiä muita verkkotunnuksia n
 account-provisioner-free-account = Ilmainen
 account-provision-price-per-year = { $price } vuodessa
 account-provisioner-all-results-button = Näytä kaikki tulokset
+account-provisioner-open-in-tab-img =
+    .title = Avautuu uuteen välilehteen
