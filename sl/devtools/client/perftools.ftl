@@ -91,6 +91,7 @@ perftools-presets-firefox-front-end-description = Priporočena prednastavitev za
 perftools-presets-firefox-graphics-label = Firefox: grafika
 perftools-presets-firefox-graphics-description = Priporočena prednastavitev za raziskovanje učinkovitosti grafike Firefoxa.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = Priporočena prednastavitev za spremljanje zmogljivosti { -brand-shorter-name(sklon: "rodilnik") }.
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Prednastavitev za preiskovanje napak grafike v { -brand-shorter-name(sklon: "mestnik") }
 perftools-presets-media-label = Predstavnost
