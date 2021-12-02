@@ -190,6 +190,7 @@ downloads-files-not-downloaded =
         [one] Файл боргирӣ карда нашуд
        *[other] { $num } файл боргирӣ карда нашуданд
     }
+downloads-blocked-from-url = Боргириҳо аз { $url } манъ карда шудаанд.
 
 ##
 

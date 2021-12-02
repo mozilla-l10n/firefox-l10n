@@ -218,6 +218,7 @@ newtab-pocket-read-more = Мавзӯъҳои маъмул:
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оилаи { -brand-product-name } мебошад
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Нигоҳ доштан ба «{ -pocket-brand-name }»
 newtab-pocket-saved-to-pocket = Ба «{ -pocket-brand-name }» нигоҳ дошта шуд
@@ -235,6 +236,7 @@ newtab-pocket-last-card-image =
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Оҳ, ҳангоми боркунии ин муҳтаво чизе нодуруст ба миён омад.
 newtab-error-fallback-refresh-link = Барои аз нав кӯшиш кардан саҳифаро навсозӣ намоед.
 
 ## Customization Menu
