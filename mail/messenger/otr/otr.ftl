@@ -5,4 +5,10 @@
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-private = Se inició una conversación privada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Se inició una conversación cifrada, pero no verificada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Se ha actualizado correctamente la conversación cifrada con { $name }.
 resent = [reenviado]
