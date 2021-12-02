@@ -9,6 +9,9 @@ msgevent-msg-resent = Se reenvió el último mensaje a { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-not-private = El mensaje cifrado recibido de { $name } no puede ser leído, ya que actualmente no se está comunicando de forma privada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Recibiste un mensaje de datos con formato incorrecto de { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $name (String) - the screen name of a chat contact person
