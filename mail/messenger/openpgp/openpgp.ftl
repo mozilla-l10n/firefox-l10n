@@ -414,8 +414,15 @@ key-man-button-import = &Uvozi
 delete-key-title = Izbriši ključ OpenPGP
 delete-external-key-title = Odstrani zunanji ključ GnuPG
 key-in-use-title = Ključ OpenPGP je trenutno v uporabi
+import-key-confirm = Ali želite uvoziti javne ključe, vdelane v sporočilo?
+fail-key-import = Napaka – uvažanje ključa ni uspelo
+file-write-failed = Pisanje v datoteko { $output } ni bilo mogoče
+# Strings used in commonWorkflows.js
+import-key-file = Uvozi datoteko ključa OpenPGP
 gnupg-file = Datoteke GnuPG
 import-keys-failed = Uvažanje ključev ni uspelo
+passphrase-prompt = Vnesite geslo, ki odklepa naslednji ključ: { $key }
+file-to-big-to-import = Ta datoteka je prevelika. Ne uvažajte velikega števila ključev hkrati.
 gen-going = Ustvarjanje ključev že poteka!
 expiry-too-short = Ključ mora biti veljaven vsaj en dan.
 expiry-too-long = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
@@ -427,6 +434,8 @@ key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Napaka – dešifriranje ni uspelo
+signature-verified-ok = Podpis za priponko { $attachment } je bil uspešno preverjen
+signature-verify-failed = Podpisa za priponko { $attachment } ni bilo mogoče preveriti
 msg-ovl-button-cont-anyway = &Vseeno nadaljuj
 enig-content-note = *Priponke k temu sporočilu niso podpisane niti šifrirane*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -439,7 +448,14 @@ key-revoked = Ključ "{ $key }" je preklican
 key-expired = Ključ "{ $key }" je pretekel
 msg-compose-internal-error = Prišlo je do notranje napake.
 keys-to-export = Izberite ključe OpenPGP za vstavitev
+msg-compose-partially-encrypted-inlinePGP =
+    Sporočilo, na katerega odgovarjate, je vsebovalo nešifrirane in šifrirane dele. Če pošiljatelj prvotno ni mogel dešifrirati nekaterih delov sporočila, morda razkrivate zaupne podatke, ki jih pošiljatelj sam ni mogel dešifrirati.
+    Razmislite o odstranitvi celotnega navedka iz odgovora temu pošiljatelju.
 msg-compose-cannot-save-draft = Napaka pri shranjevanju osnutka
+send-to-news-warning =
+    Opozorilo: novičarski skupini pošiljate šifrirano sporočilo.
+    To je odsvetovano, ker je smiselno le, če lahko sporočilo dešifrirajo vsi člani skupine, torej bi moralo biti šifrirano s ključi vseh članov. To sporočilo pošljite samo, če natančno veste, kaj počnete.
+    Želite nadaljevati?
 save-attachment-header = Shrani dešifrirano priponko
 cannot-send-sig-because-no-own-key = Tega sporočila ni mogoče digitalno podpisati, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
 cannot-send-enc-because-no-own-key = Tega sporočila ni mogoče poslati šifrirano, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
@@ -449,10 +465,16 @@ compose-menu-attach-key =
 compose-menu-encrypt-subject =
     .label = Šifriranje zadeve
     .accesskey = z
+# Strings used in decryption.jsm
+do-import-multiple =
+    Ali želite uvoziti naslednje ključe?
+    { $key }
 do-import-one = Uvozi { $name } ({ $id })?
 cant-import = Napaka pri uvažanju javnega ključa
+key-in-message-body = V telesu sporočila je najden ključ. Kliknite "Uvozi ključ", da ga uvozite
 sig-mismatch = Napaka – Neujemanje podpisov
 invalid-email = Napaka – Neveljavni e-poštni naslovi
+dlg-button-view = &Prikaži
 # Strings used in encryption.jsm
 not-required = Napaka – šifriranje ni zahtevano
 # Strings used in windows.jsm
