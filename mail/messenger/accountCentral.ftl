@@ -37,7 +37,7 @@ import-paragraph2 = { -brand-short-name } låter dig importera e-postmeddelanden
 import-label = Importera
     .aria-label = Importera data från andra program
 about-paragraph = Thunderbird är den ledande plattformsoberoende e-post och kalenderklienten baserad på öppen källkod, gratis för företag och personligt bruk. Vi vill att den ska vara säker och bli ännu bättre. En donation tillåter oss att anställa utvecklare, betala för infrastruktur och fortsätta att förbättra.
-about-paragraph-consider-donation = <b>Thunderbird finansieras av användare som du! Om du gillar Thunderbird kan du överväga att göra en donation.</b>Det bästa sättet för dig att se till att Thunderbird förblir tillgängligt är att <a data-l10n-name="donation-link">göra en donation</a>.
+about-paragraph-consider-donation = <b>Thunderbird finansieras av användare som du! Om du gillar Thunderbird kan du överväga att göra en donation.</b> Det bästa sättet för dig att se till att Thunderbird förblir tillgängligt är att <a data-l10n-name="donation-link">göra en donation</a>.
 explore-link = Utforska funktioner
 support-link = Hjälp
 involved-link = Engagera dig
