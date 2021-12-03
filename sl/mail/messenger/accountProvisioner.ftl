@@ -6,6 +6,7 @@ account-provisioner-tab-title = Pridobite nov e-poštni naslov pri ponudniku sto
 provisioner-searching-icon =
     .alt = Iskanje …
 account-provisioner-title = Ustvarite nov e-poštni naslov
+account-provisioner-start-help = Uporabljene iskalne poizvedbe se pošljejo { -vendor-short-name(sklon: "dajalnik") } (<a data-l10n-name="mozilla-privacy-link">pravilnik o zasebnosti</a>) in ponudnikom e-pošte <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">pravilnik o zasebnosti</a>, <a data-l10n-name="mailfence-tou-link">pogoji uporabe</a>) in <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">pravilnik o zasebnosti</a>, <a data-l10n-name="gandi-tou-link">pogoji uporabe</a>), da odkrije razpoložljive e-poštne naslove.
 account-provisioner-mail-account-title = Kupite nov e-poštni naslov
 account-provisioner-mail-account-description = Thunderbird je združil moči s ponudnikom <a data-l10n-name="mailfence-home-link">Mailfence</a>, da bi vam ponudil nov zaseben in varen e-poštni naslov. Verjamemo, da bi vsak e-poštni predal moral biti varen.
 account-provisioner-domain-title = Kupite lasten e-poštni naslov in domeno
@@ -48,3 +49,5 @@ account-provisioner-domain-results-caption = Poskusite iskati z vzdevki ali s ka
 account-provisioner-free-account = Brezplačno
 account-provision-price-per-year = { $price } na leto
 account-provisioner-all-results-button = Pokaži vse rezultate
+account-provisioner-open-in-tab-img =
+    .title = Odpre se v novem zavihku
