@@ -64,6 +64,15 @@ upgrade-dialog-default-secondary-button = Mačči tura
 upgrade-dialog-theme-title-2 = Awi beddu zeddigen s usentel ibanen
 upgrade-dialog-theme-system = Asentel n unagraw
     .title = Seqdec asentel n unagraw n wammud i tqeffalin, umuɣen d yiwfuyla
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Tudert ifeǧǧeǧen
+upgrade-dialog-start-secondary-button = Mačči tura
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Aceεlal
     .title = Seqdec asentel aceεlal i tqeffalin, umuɣen d yiwfuyla
 upgrade-dialog-theme-dark = Aberkan
@@ -74,3 +83,6 @@ upgrade-dialog-theme-keep = Eǧǧ asentel amiran
     .title = Seqdec asentel i tesbeddeḍ send aleqqem n { -brand-short-name }
 upgrade-dialog-theme-primary-button = Sekles asentel
 upgrade-dialog-theme-secondary-button = Mačči tura
+
+## Thank you screen
+

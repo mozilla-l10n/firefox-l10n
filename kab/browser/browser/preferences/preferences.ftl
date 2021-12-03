@@ -938,6 +938,7 @@ content-blocking-all-windows-tracking-content = Agbur yettwaseqdec i uḍfaṛ d
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
 content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
+content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-and-isolating-etp-warning-description = Asewḥel n yineḍfaren d uɛzal n yinagan n tuqqna yezmer ad iḥaz tamahilt n kra n yismal. Smiren asebter s yineḍfaren akken ad d-yali ugbur meṛṛa.
 content-blocking-and-isolating-etp-warning-description-2 = Aɣewwar-a yezmer ad yerr kra n yismal web ur zuzuren ara agbur neɣ ur teddun ara akken iwata. Ma yella yella usmel i yettbanen yerreẓ, tzemreḍ ad tsenseḍ ammesten n uḍfr i usmel-a i wakken ad d-tsaliḍ akk agbur.
