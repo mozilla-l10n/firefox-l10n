@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "पुथी ओड़ाक्">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -38,9 +38,8 @@
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             " दोहड़ा जोगाव ">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "रेत् बाछाव…">
+<!ENTITY cmd.restoreFromFile.label      "ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
-
 
 <!ENTITY col.name.label          "ञुतुम">
 <!ENTITY col.tags.label          "तोल को ">
@@ -49,7 +48,6 @@
 <!ENTITY col.visitcount.label    "लेखा ञुल मे">
 <!ENTITY col.dateadded.label     "सेलेद काना">
 <!ENTITY col.lastmodified.label  "मुचा़त् रे बोदोल लेन">
-
 
 <!ENTITY cmd.find.key  "f">
 
@@ -62,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "माड़ाङ सेत् चालाक् मे">
 
 <!ENTITY detailsPane.selectAnItemText.description "मित् जिनिस आर ओना रेयाक् गुन को ञेल आर सासापड़ाव ला़गित् बाछाव मे  .">
-
