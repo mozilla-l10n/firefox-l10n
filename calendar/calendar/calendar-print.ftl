@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Fuldførte opgaver
 calendar-print-filter-taskswithnoduedate = Opgaver uden sluttid
 calendar-print-range-from = Fra
 calendar-print-range-to = Til
+calendar-print-back-button = Tilbage
 calendar-print-next-button = Næste
