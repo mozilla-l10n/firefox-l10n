@@ -16,7 +16,7 @@ change-password-reenter = नावा दानाङ साबाद (दो�
 ## Reset Primary Password dialog
 
 reset-password-button-label =
-    .label = दोहड़ा साजाव
+    .label = ᱫᱚᱦᱲᱟ ᱥᱟᱡᱟᱣ
 
 ## Downloading cert dialog
 

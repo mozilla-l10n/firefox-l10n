@@ -72,7 +72,7 @@ colors-settings =
     .accesskey = C
 choose-language-description = उदुक् होचो साहटा को ला़गित् आमाक् कुसियाक् पा़रसी बाछाव मे
 choose-button =
-    .label = बाछाव मे…
+    .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accesskey = o
 translate-web-pages =
     .label = वेब बिसोय तोरजोमाय मे
@@ -157,7 +157,7 @@ applications-use-other-label =
 
 play-drm-content-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 update-application-use-service =
-    .label = हा़ली को बो़हाल ला़गित् मित् ओनोड़ का़मी बे्भार मे
+    .label = ᱦᱟᱹᱞᱤ ᱠᱚ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱚᱱᱚᱲ ᱠᱟᱹᱢᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = b
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -174,10 +174,10 @@ performance-allow-hw-accel =
 
 browsing-title = पानते येत् आ
 browsing-use-autoscroll =
-    .label = आच् ते गुड़या़व बेभार मे
+    .label = ᱟᱡ ᱛᱮ ᱜᱩᱲᱟᱹᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = चिंका़ंड़ गुड़िया़व बेभार मे
+    .label = ᱪᱤᱠᱟᱹᱬ ᱜᱩᱲᱤᱭᱟᱹᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = m
 browsing-use-cursor-navigation =
     .label = साहटा भितिर रे पानते ला़गित् जावगे कार्सर का़ठी बेभार मे
@@ -190,7 +190,7 @@ browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 network-proxy-connection-settings =
-    .label = साजाव को …
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = e
 
 ## Home Section

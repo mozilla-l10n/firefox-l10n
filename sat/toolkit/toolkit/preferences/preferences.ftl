@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 password-not-set =
-    .value = (ᱵᱟᱝ ᱥᱟᱡᱟᱣ)
+    .value = (ᱵᱟᱝ ᱥᱮᱴ ᱠᱟᱱᱟ)
 pw-change-success-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱨᱟᱹᱥ ᱞᱮᱠᱟᱛᱮ ᱦᱩᱭᱮᱱᱟ ᱾
 pw-change-failed-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
 pw-remove-button =
