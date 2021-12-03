@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Saothraichean crìochnaichte
 calendar-print-filter-taskswithnoduedate = Saothraichean gun cheann-ama
 calendar-print-range-from = O
 calendar-print-range-to = Gu
+calendar-print-back-button = Air ais
 calendar-print-next-button = Air adhart
