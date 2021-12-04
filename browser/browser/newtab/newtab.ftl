@@ -203,7 +203,7 @@ newtab-section-header-highlights = Обране
 newtab-section-header-recent-activity = Нещодавня активність
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Рекомендовано { $provider }
+newtab-section-header-pocket = Рекомендації від { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -263,7 +263,7 @@ newtab-custom-row-selector =
        *[many] { $num } рядків
     }
 newtab-custom-sponsored-sites = Спонсоровані ярлики
-newtab-custom-pocket-title = Рекомендовано { -pocket-brand-name }
+newtab-custom-pocket-title = Рекомендації від { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
 newtab-custom-pocket-sponsored = Матеріали від спонсорів
 newtab-custom-recent-title = Недавня активність
