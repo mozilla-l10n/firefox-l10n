@@ -49,6 +49,7 @@ policy-InstallAddonsPermission = Permitir a ciertos sitios instalar complementos
 
 ##
 
+policy-Proxy = Configurar ajustes de proxy.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
