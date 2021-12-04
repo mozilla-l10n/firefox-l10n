@@ -499,8 +499,8 @@ home-prefs-shortcuts-by-option-sponsored =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
-    .label = Рекомендовано { $provider }
-home-prefs-recommended-by-description-update = Винятково цікаві матеріали з мережі від { $provider }
+    .label = Рекомендації від { $provider }
+home-prefs-recommended-by-description-update = Добірні матеріали з Інтернету від { $provider }
 home-prefs-recommended-by-description-new = Добірні матеріали від { $provider }, що входить до родини { -brand-product-name }
 
 ##
