@@ -40,6 +40,7 @@ policy-DisplayMenuBar = Desplegar la barra de menús de forma predeterminada.
 policy-DNSOverHTTPS = Configurar el DNS sobre HTTPS.
 policy-DontCheckDefaultClient = Deshabilitar la verificación de cliente predeterminado al inicio.
 policy-DownloadDirectory = Establecer y bloquear el directorio de descargas.
+policy-ExtensionSettings = Administrar todos los aspectos de la instalación de extensiones.
 policy-ExtensionUpdate = Habilitar o deshabilitar la actualización automática de extensiones.
 policy-HardwareAcceleration = Si el valor es falso, se desactiva la aceleración por hardware.
 policy-InstallAddonsPermission = Permitir a ciertos sitios instalar complementos.
@@ -49,7 +50,9 @@ policy-InstallAddonsPermission = Permitir a ciertos sitios instalar complementos
 
 ##
 
+policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos al descargar.
 policy-Proxy = Configurar ajustes de proxy.
+policy-SanitizeOnShutdown2 = Borrar datos de navegación al cerrar.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
