@@ -15,6 +15,12 @@ screenshots-download-button = Deskargatu
 screenshots-download-button-tooltip = Deskargatu pantaila-argazkia
 screenshots-copy-button = Kopiatu
 screenshots-copy-button-tooltip = Kopiatu pantaila-argazkia arbelera
+screenshots-download-button-title =
+    .title = Deskargatu pantaila-argazkia
+screenshots-copy-button-title =
+    .title = Kopiatu pantaila-argazkia arbelera
+screenshots-cancel-button-title =
+    .title = Utzi
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

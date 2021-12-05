@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -184,6 +179,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Deskargaren xehetasunak
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Fitxategia ez da deskargatu.
+       *[other] { $num } fitxategi ez dira deskargatu.
+    }
+downloads-blocked-from-url = Deskargak blokeatuta { $url } helbidetik.
+downloads-blocked-download-detailed-info = { $url } helbidea hainbat fitxategi automatikoki deskargatzen saiatu da. Gunea hautsita egon liteke edo zure gailuan spam fitxategiak gordetzen saiatzen ari da.
+
+##
+
 downloads-clear-downloads-button =
     .label = Garbitu deskargak
     .tooltiptext = Burututako, utzitako eta huts egindako deskargak garbitzen ditu
