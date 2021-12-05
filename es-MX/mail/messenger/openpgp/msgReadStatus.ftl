@@ -6,6 +6,8 @@
 ## Message Header Encryption Button
 
 message-header-show-security-info-key = S
+openpgp-view-signer-key =
+    .label = Ver clave de firmante
 openpgp-openpgp = OpenPGP
 openpgp-invalid-sig = Firma digital no válida
 openpgp-good-sig = Buena firma digital
