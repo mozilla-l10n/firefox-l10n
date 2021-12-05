@@ -10,6 +10,9 @@
 menu-tools-preferences =
     .label = Preferencje
     .accesskey = P
+menu-tools-settings =
+    .label = Ustawienia
+    .accesskey = U
 menu-addons-and-themes =
     .label = Dodatki i motywy
     .accesskey = D
