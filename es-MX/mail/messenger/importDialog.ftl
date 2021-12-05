@@ -12,4 +12,6 @@ import-from-thunderbird-zip =
 import-from-thunderbird-dir =
     .label = Thunderbird (carpeta de perfil)
     .accesskey = T
+import-select-profile-zip = Seleccionar un directorio de perfil comprimido
+import-select-profile-dir = Seleccionar un directorio del perfil
 zip-file-too-big-title = Archivo zip demasiado grande
