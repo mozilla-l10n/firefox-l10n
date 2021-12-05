@@ -7,10 +7,14 @@
 <!ENTITY activeColumn.label "ჩართვა">
 <!ENTITY newButton.label "ახალი…">
 <!ENTITY newButton.accesskey "ა">
+<!ENTITY copyButton.label "ასლი…">
+<!ENTITY copyButton.accesskey "ლ">
 <!ENTITY editButton.label "ჩასწორება…">
 <!ENTITY editButton.accesskey "ჩ">
 <!ENTITY deleteButton.label "წაშლა">
 <!ENTITY deleteButton.accesskey "შ">
+<!ENTITY reorderTopButton "თავში გადატანა">
+<!ENTITY reorderTopButton.accessKey "ვ">
 <!ENTITY reorderUpButton.label "აწევა">
 <!ENTITY reorderUpButton.accesskey "წ">
 <!ENTITY reorderDownButton.label "ჩამოწევა">
