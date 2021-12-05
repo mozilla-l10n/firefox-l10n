@@ -190,6 +190,7 @@ downloads-files-not-downloaded =
         [one] Archivo no descargado.
        *[other] { $num } archivos no descargados.
     }
+downloads-blocked-from-url = Descargas bloqueadas desde { $url }.
 downloads-blocked-download-detailed-info = { $url } intentó descargar automáticamente varios archivos. El sitio podría estar dañado o intentar almacenar archivos de spam en tu dispositivo.
 
 ##
