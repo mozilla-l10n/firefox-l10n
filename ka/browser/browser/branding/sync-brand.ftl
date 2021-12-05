@@ -9,6 +9,8 @@
        *[nom] Firefox-ანგარიში
         [dat] Firefox-ანგარიშს
         [gen] Firefox-ანგარიშის
+        [ben] Firefox-ანგარიშისთვის
+        [loc] Firefox-ანგარიშზე
         [ins] Firefox-ანგარიშით
         [add] Firefox-ანგარიშთან
     }
