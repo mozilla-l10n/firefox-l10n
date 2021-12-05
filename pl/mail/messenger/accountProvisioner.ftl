@@ -30,9 +30,27 @@ account-provisioner-fetching-provisioners = Pobieranie dostawców…
 account-provisioner-connection-issues = Nie można skontaktować się z naszymi serwerami zakładania kont. Proszę sprawdzić połączenie internetowe.
 account-provisioner-searching-email = Wyszukiwanie dostępnych kont e-mail…
 account-provisioner-searching-domain = Wyszukiwanie dostępnych domen…
+account-provisioner-searching-error = Nie można odnaleźć żadnych adresów do zaproponowania. Spróbuj zmienić wyszukiwane słowa.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Wybierz konto do utworzenia
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Odnaleziono jeden dostępny adres dla:
+        [few] Odnaleziono { $count } dostępne adresy dla:
+       *[many] Odnaleziono { $count } dostępnych adresów dla:
+    }
+account-provisioner-mail-results-caption = Można spróbować wyszukać pseudonimy lub inne słowa, aby znaleźć więcej dostępnych adresów.
+account-provisioner-domain-results-caption = Można spróbować wyszukać pseudonimy lub inne słowa, aby znaleźć więcej dostępnych domen.
+account-provisioner-free-account = Darmowe
+account-provision-price-per-year = { $price } rocznie
+account-provisioner-all-results-button = Wyświetl wszystkie wyniki
+account-provisioner-open-in-tab-img =
+    .title = Otwiera w nowej karcie
