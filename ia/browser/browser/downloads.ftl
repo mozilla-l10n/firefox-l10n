@@ -191,7 +191,7 @@ downloads-files-not-downloaded =
        *[other] { $num } files non discargate.
     }
 downloads-blocked-from-url = Discargamentos blocate per { $url }.
-downloads-blocked-download-detailed-info = { $url } tentava de discargar automaticamente plure files. Le sito pote esser corrupte o tenta de immagazinage files SPAM sur tu apparato.
+downloads-blocked-download-detailed-info = { $url } ha tentate de discargar automaticamente plure files. Le sito pote esser defectuose o tentar de immagazinar files de spam sur tu apparato.
 
 ##
 
