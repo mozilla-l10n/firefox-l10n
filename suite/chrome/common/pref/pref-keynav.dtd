@@ -11,7 +11,7 @@
 <!ENTITY tabNavigationTextboxes.label "შენიშვნა: ტექსტური ველები და გადასაადგილებელი არეები ყოველთვის ხელიმისაწვდომია Tab ღილაკით.">
 <!ENTITY tabNavigationDesc.label "თუ დაჭერილია Tab ან Shift+Tab, გადასვლა აქ:">
 <!ENTITY accessibilityBrowseWithCaret.label "მოქმედი მაჩვენებლით გადაადგილება">
-<!ENTITY browseWithCaretDesc.label "მოქმედი მაჩვენებლის რეჟიმი საშუალებას მოგცემთ გვერდებზე გადაადგილებასა და ტექსტის მონიშვნას, მაჩვენებლის ღილაკების მეშვეობით.">
+<!ENTITY browseWithCaretDesc.label "გადასაადგილებელი მაჩვენებლის მეშვეობით, გვერდზე გადაადგილებასა და ტექსტის მონიშვნას ღილაკებითაც შეძლებთ.">
 <!ENTITY browseWithCaretUse.label "მაჩვენებლით გადაადგილება">
 <!ENTITY browseWithCaretUse.accesskey "გ">
 <!ENTITY browseWithCaretShortCut.label "F7 კლავიშის გამოყენება აქტიური კურსორის რეჟიმის გადასართავად">
