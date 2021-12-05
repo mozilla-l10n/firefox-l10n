@@ -121,22 +121,22 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
-perftools-presets-web-developer-label = ვებშემუშავება
-perftools-presets-web-developer-description = მზა პარამეტრები, განკუთვნილი პროგრამების ხარვეზების დასადგენად, ნაკლები დატვირთვით.
-perftools-presets-firefox-platform-label = Firefox-პლატფორმა
-perftools-presets-firefox-platform-description = მზა პარამეტრები, განკუთვნილი Firefox-პლატფორმის შიდა ხარვეზების დასადგენად.
-perftools-presets-firefox-front-end-label = Firefox კლიენტის მხარე
-perftools-presets-firefox-front-end-description = მზა პარამეტრები, განკუთვნილი Firefox-ის კლიენტის მხარის შიდა ხარვეზების გამოსავლენად.
-perftools-presets-firefox-graphics-label = Firefox-გრაფიკა
-perftools-presets-firefox-graphics-description = მზა პარამეტრები, განკუთვნილი Firefox-ის გრაფიკული წარმადობის გამოსაკვლევად.
+perftools-presets-web-developer-label = Web Developer
+perftools-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
+perftools-presets-firefox-platform-label = Firefox Platform
+perftools-presets-firefox-platform-description = Recommended preset for internal Firefox platform debugging.
+perftools-presets-firefox-front-end-label = Firefox Front-End
+perftools-presets-firefox-front-end-description = Recommended preset for internal Firefox front-end debugging.
+perftools-presets-firefox-graphics-label = Firefox Graphics
+perftools-presets-firefox-graphics-description = Recommended preset for Firefox graphics performance investigation.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
 perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
-perftools-presets-media-label = ფაილები
-perftools-presets-media-description = მზა პარამეტრები, განკუთვნილი ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად.
+perftools-presets-media-label = Media
+perftools-presets-media-description = Recommended preset for diagnosing audio and video problems.
 perftools-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
-perftools-presets-custom-label = მორგებული
+perftools-presets-custom-label = Custom
 
 ##
 
