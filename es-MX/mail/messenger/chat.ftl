@@ -4,10 +4,19 @@
 
 chat-joining-chat-icon2 =
     .alt = Uniéndose al chat
-
+chat-participant-owner-role-icon2 =
+    .alt = Propietario
 chat-participant-administrator-role-icon2 =
     .alt = Administrador
-
 chat-participant-moderator-role-icon2 =
     .alt = Moderador
-
+chat-participant-voiced-role-icon2 =
+    .alt = El participante puede publicar mensajes
+chat-verify-identity =
+    .label = Verificar identidad
+    .accesskey = i
+chat-identity-verified =
+    .label = Identidad ya verificada
+chat-buddy-identity-status = Confianza del cifrado
+chat-buddy-identity-status-verified = Verificado
+chat-buddy-identity-status-unverified = No verificado
