@@ -59,3 +59,4 @@ upgrade-dialog-theme-secondary-button = Қазір емес
 
 ## Thank you screen
 
+upgrade-dialog-thankyou-primary-button = Шолуды бастау
