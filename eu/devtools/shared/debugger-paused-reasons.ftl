@@ -21,8 +21,17 @@ whypaused-debugger-statement = 'debugger' adierazpenean pausatuta
 # currently paused on a breakpoint
 whypaused-breakpoint = Eten-puntuan pausatuta
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Gertaeraren eten-puntuan pausatuta
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Salbuespenean pausatuta
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = DOM mutazioan pausatuta
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused while stepping in or out of the stack
+whypaused-resume-limit = Jauzi egitean pausatuta
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Gertaera-entzulean pausatuta
