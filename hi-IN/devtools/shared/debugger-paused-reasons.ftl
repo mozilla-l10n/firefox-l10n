@@ -15,6 +15,12 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = डीबगर कथन पर रोका गया
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = ब्रेकपॉइंट पर रोका गया
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = अपवाद पर रोक
 # The text that is displayed in a info block explaining how the debugger is
@@ -23,3 +29,18 @@ whypaused-resume-limit = निकलते हुए रोका गया
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = आयोजित श्रोताओ को रोका गया
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = प्रतिबंधात्मक ब्रेकपॉइंट के साथ त्रुटि
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = वादा अस्वीकृति पर रोक दिया गया
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = अभिकथन पर रोका गया
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a debugger statement
+whypaused-debug-command = डीबग फ़ंक्शन पर रोका गया
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = डीबगर रोका गया
