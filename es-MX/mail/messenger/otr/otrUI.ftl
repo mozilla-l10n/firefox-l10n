@@ -6,9 +6,22 @@ start-label = Iniciar una conversación cifrado
 auth-label = Verificar la identidad de tu contacto
 reauth-label = Volver a verificar la identidad de tu contacto
 auth-cancel = Cancelar
+auth-success-them = Tu contacto ha verificado correctamente tu identidad. Tal vez quieras verificar su identidad también haciendo tu propia pregunta.
+auth-fail = No se pudo verificar la identidad de tu contacto.
+auth-waiting = Esperando que el contacto complete la verificación…
 finger-verify = Verificar
+finger-verify-access-key = V
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Agregar huella digital OTR
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-start = Intentado iniciar una conversación cifrada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Intentando actualizar la conversación cifrada con { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone-insecure = La conversación cifrada con { $name } terminó.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } está contactándote desde una computadora no reconocida. No es posible escuchar a escondidas, pero con un poco de esfuerzo alguien podría estar escuchando. Evita la vigilancia verificando la identidad de este contacto.
