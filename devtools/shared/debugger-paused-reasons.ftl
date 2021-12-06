@@ -29,6 +29,9 @@ whypaused-resume-limit = Прыпынена падчас крочання па �
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Прыпынена на слухачы падзей
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = Памылка з умоўным пунктам спыну
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Прыпынена на адмаўленні проміса
