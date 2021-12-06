@@ -136,6 +136,8 @@ perftools-presets-graphics-description = Pre-configuration pro investigar errore
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description = Pre-configuration recommendate pro diagnosticar problemas audio e video.
 perftools-presets-media-description2 = Pre-configuration pro investigar errores audio e video in { -brand-shorter-name }.
+perftools-presets-networking-label = Rete
+perftools-presets-networking-description = Pre-configuration pro investigar errores de rete in { -brand-shorter-name }.
 perftools-presets-custom-label = Personalisate
 
 ##

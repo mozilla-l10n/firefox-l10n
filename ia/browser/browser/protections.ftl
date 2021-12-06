@@ -59,6 +59,7 @@ lockwise-title = Non oblida plus tu contrasignos
 lockwise-title-logged-in2 = Gestion de contrasignos
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
 passwords-title-logged-in = Gere tu contrasignos
+passwords-header-content = { -brand-product-name } immagazina con securitate tu contrasignos in tu navigator.
 lockwise-header-content-logged-in = Memorisa e synchronisa tu contrasignos sur tote tu apparatos in tote securitate.
 protection-report-save-passwords-button = Salvar contrasignos
     .title = Salvar contrasignos sur { -lockwise-brand-short-name }
