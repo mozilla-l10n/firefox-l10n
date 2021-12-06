@@ -21,8 +21,23 @@ whypaused-debugger-statement = Pristabdyta ties derinimo sakiniu
 # currently paused on a breakpoint
 whypaused-breakpoint = Pristabdyta ties stabdos tašku
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Pristabdyta ties įvykio stabdos tašku
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Pristabdyta ties išimtine situacija
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pristabdyta ties DOM pasikeitimu
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Pridėta:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Pašalinta:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Pristabdyta ties vykdymu
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pristabdyta ties žingsniu
@@ -33,8 +48,17 @@ whypaused-pause-on-dom-events = Pristabdyta ties įvykių stebėtoju
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Klaida stabdos taške su sąlyga
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Pristabdyta ties „XMLHttpRequest“
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Pristabdyta ties pažado atmetimu
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Pristabdyta ties savybės nuskaitymu
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Pristabdyta ties savybės įrašymu
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pristabdyta ties teiginiu
