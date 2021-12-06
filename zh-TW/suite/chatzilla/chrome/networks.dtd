@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "聊天網路編輯器">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "回復為預設值">
 <!ENTITY restoreButton.accesskey      "f">
+
+<!ENTITY connectNetwork.label         "連線到網路">
+<!ENTITY connectNetwork.accesskey     "N">
 
 <!ENTITY networkListAdd.label         "新增網路…">
 <!ENTITY networkListAdd.accesskey     "A">
