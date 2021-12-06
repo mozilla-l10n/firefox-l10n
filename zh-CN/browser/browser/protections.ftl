@@ -56,6 +56,7 @@ mobile-app-links = { -brand-product-name } 浏览器 <a data-l10n-name="android-
 lockwise-title = 密码不怕再忘
 lockwise-title-logged-in2 = 密码管理
 lockwise-header-content = { -lockwise-brand-name } 能将您的密码安全地存储在浏览器中。
+passwords-title-logged-in = 管理您的密码
 lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备中。
 protection-report-save-passwords-button = 保存密码
     .title = 将密码保存到 { -lockwise-brand-short-name }
@@ -64,6 +65,10 @@ protection-report-manage-passwords-button = 管理密码
 lockwise-mobile-app-title = 密码随身带着走
 lockwise-no-logins-card-content = 在所有设备上使用 { -brand-short-name } 中存放的密码。
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 与 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 版 { -lockwise-brand-name }
+protection-report-passwords-save-passwords-button = 保存密码
+    .title = 保存密码
+protection-report-passwords-manage-passwords-button = 管理密码
+    .title = 管理密码
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
