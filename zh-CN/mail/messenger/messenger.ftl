@@ -103,6 +103,9 @@ mail-context-delete-messages =
         { $count ->
            *[other] 删除选择的消息？
         }
+context-menu-decrypt-to-folder =
+    .label = 复制解密消息到
+    .accesskey = y
 
 ## Message header pane
 
