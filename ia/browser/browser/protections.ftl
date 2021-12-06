@@ -123,8 +123,8 @@ info-known-breaches-found =
 # to your localization, because it would result in the number showing twice.
 info-known-breaches-resolved =
     { $count ->
-        [one] Violation de datos note marcate como resolvite
-       *[other] Violationes de datos note marcate como resolvite
+        [one] Violation de datos cognoscite marcate como resolvite
+       *[other] Violationes de datos cognoscite marcate como resolvite
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
