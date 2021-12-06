@@ -204,6 +204,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Pre-configuration pro investigar errores audio e video in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-networking-label =
+    .label = Rete
 profiler-popup-presets-custom-label =
     .label = Personalisate
 
