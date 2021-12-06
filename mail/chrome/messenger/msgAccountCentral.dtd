@@ -7,15 +7,15 @@
 <!ENTITY composeMsgLink.label         "Escribir nuevo mensaje">
 
 <!ENTITY newsSectionHdr.label         "Grupos de noticias">
-<!ENTITY subscribeNewsLink.label      "Administar suscripciones a grupos de noticias">
+<!ENTITY subscribeNewsLink.label      "Administrar suscripciones a grupos de noticias">
 
 <!ENTITY feedsSectionHdr.label        "Fuentes">
-<!ENTITY subscribeFeeds.label         "Administar suscripciones">
+<!ENTITY subscribeFeeds.label         "Administrar suscripciones">
 
 <!ENTITY chat.label                   "Chat">
 
 <!ENTITY accountsSectionHdr.label     "Cuentas">
-<!ENTITY subscribeImapFolders.label   "Administar carpeta de suscripciones">
+<!ENTITY subscribeImapFolders.label   "Administrar carpeta de suscripciones">
 <!ENTITY settingsLink.label           "Ver configuración de esta cuenta">
 <!ENTITY setupNewAcct.label           "Configurar una cuenta:">
 
