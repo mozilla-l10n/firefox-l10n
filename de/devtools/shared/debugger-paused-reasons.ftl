@@ -48,8 +48,17 @@ whypaused-pause-on-dom-events = Bei Event Listener angehalten
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Fehler in bedingtem Haltepunkt
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Bei XMLHttpRequest angehalten
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Nach abgelehntem Promise angehalten
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Bei get für Eigenschaft angehalten
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Bei set für Eigenschaft angehalten
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Nach Assertion angehalten
