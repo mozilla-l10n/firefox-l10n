@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Átirányítás
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Üzenet törlése
+           *[other] Kijelölt üzenetek törlése
+        }
+context-menu-decrypt-to-folder =
+    .label = Másolás visszafejtettként ide
+    .accesskey = v
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Átirányítás
-message-header-msg-is-flagged =
-    .title = Csillagozott üzenet
+message-header-msg-flagged =
+    .title = Csillagozott
+    .aria-label = Csillagozott
 message-header-msg-not-flagged =
     .title = Nem csillagozott üzenet
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = A válasz nem támogatott
 no-reply-message = A válaszcím ({ $email }) nem tűnik figyelt címnek. Az erre a címre küldött leveleket valószínűleg senki sem fogja olvasni.
 no-reply-reply-anyway-button = Válasz mindenképp
+
+## error messages
+
+decrypt-and-copy-failures = { $failures } / { $total } üzenetet nem sikerült visszafejteni, és nem lettek másolva.
