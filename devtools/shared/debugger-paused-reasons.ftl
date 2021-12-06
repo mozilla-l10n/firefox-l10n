@@ -24,6 +24,9 @@ whypaused-breakpoint = Gepauzeerd bij breakpoint
 # currently paused on an exception
 whypaused-exception = Gepauzeerd bij uitzondering
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Gepauzeerd bij uitvoering
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Gepauzeerd tijdens stappen
 # The text that is displayed in a info block explaining how the debugger is
@@ -33,8 +36,17 @@ whypaused-pause-on-dom-events = Gepauzeerd bij gebeurtenislistener
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Fout met voorwaardelijk breakpoint
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Gepauzeerd op XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Gepauzeerd bij promise-afwijzing
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Gepauzeerd op property-toegang
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Gepauzeerd op property set
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Gepauzeerd bij bevestiging
