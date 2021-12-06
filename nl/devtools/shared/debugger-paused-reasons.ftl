@@ -21,8 +21,20 @@ whypaused-debugger-statement = Gepauzeerd bij debugger-instructie
 # currently paused on a breakpoint
 whypaused-breakpoint = Gepauzeerd bij breakpoint
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Gepauzeerd bij gebeurtenisbreakpoint
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Gepauzeerd bij uitzondering
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Gepauzeerd bij DOM-mutatie
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Toegevoegd:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Verwijderd:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
 whypaused-interrupted = Gepauzeerd bij uitvoering
