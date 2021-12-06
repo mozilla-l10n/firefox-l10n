@@ -11,6 +11,15 @@ finger-verify = Verificar
 buddycontextmenu-label = Agregar huella digital OTR
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } está contactándote desde una computadora no reconocida. No es posible escuchar a escondidas, pero con un poco de esfuerzo alguien podría estar escuchando. Evita la vigilancia verificando la identidad de este contacto.
+state-not-private = La conversación actual no es privada.
+state-generic-not-private = La conversación actual no es privada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = La conversación actual está cifrada pero no es privada, ya que la identidad de { $name } aún no ha sido verificada.
+state-generic-unverified = La conversación actual está cifrada pero no es privada, ya que algunas identidades aún no han sido verificadas.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 state-private = La identidad de { $name } ha sido verificada. La conversación actual está cifrada y es privada.
 state-generic-private = La conversación actual esta cifrada y es privada.
 # Variables:
