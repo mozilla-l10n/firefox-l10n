@@ -15,6 +15,9 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = 在 debugger 语句上暂停
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = 在断点上暂停
 # The text that is displayed in a info block explaining how the debugger is
