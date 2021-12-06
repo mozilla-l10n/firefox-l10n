@@ -26,6 +26,9 @@ whypaused-event-breakpoint = Jeda pada breakpoint event
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Dijeda pada pengecualian
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Dijeda pada mutasi DOM
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Ditambahkan:
