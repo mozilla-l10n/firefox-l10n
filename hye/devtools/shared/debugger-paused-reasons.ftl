@@ -50,9 +50,21 @@ whypaused-breakpoint-condition-thrown = Սխալ՝ պայմանական խզակ
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
 whypaused-xhr = Դադարեցուել է XMLHttpRequest-ում
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Դադարեցուած promise rejection֊ի ընթացքում
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Դադարեցուել է յատկութեան ընթերցման ժամաանակ
 # The text that is displayed in an info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-set-watchpoint = Դադարեցուել է յատկութեան վաւերացման ժամանակ
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = Դադարեցուած հաստատում մեջ
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a debugger statement
+whypaused-debug-command = Դադարեցուած վրիպազերծման գործառոյթում
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event listener breakpoint set
 whypaused-other = Վրիպազերծիչը դադարեցուած է
