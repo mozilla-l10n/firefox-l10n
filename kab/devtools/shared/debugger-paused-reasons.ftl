@@ -33,6 +33,9 @@ whypaused-pause-on-dom-events = Ittwaserǧa deg imseflid n tedyant
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = tucḍa akked ugaz n uzgu awtilan
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Ittwaserǧa deg tiririt
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Ittwaserǧa deg usumer
 # The text that is displayed in a info block explaining how the debugger is
