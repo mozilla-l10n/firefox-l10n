@@ -18,8 +18,23 @@
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = Դադարեցված է վրիպազերծիչի վիճակում
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Դադարեցվեց իրադարձության բեկման կետում
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Դադարեցված է բացառությունում
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Դադարեցվել է DOM մուտացիայի վրա
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Ավելացված․
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Հեռացված․
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Դադարեցվել է կատարման ժամանակ
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Դադարեցված է՝ մինչև քայլը
