@@ -20,3 +20,9 @@ whypaused-breakpoint = ತಡೆಬಿಂದುವಿನಲ್ಲಿ ತಾತ�
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = ಆಕ್ಷೇಪಣೆಗಳು ಎದುರಾದಾಗ ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸಲಾಗಿದೆ
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = ಷರತ್ತುಬದ್ಧ ತಡೆಬಿಂದುವನಲ್ಲಿ ದೋಷವಿದೆ
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = ಡೀಬಗ್ಗರ್ ತಡೆಯಲಾಗಿದೆ
