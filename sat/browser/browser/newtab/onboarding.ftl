@@ -15,6 +15,9 @@
 
 ## Welcome page strings
 
+onboarding-welcome-header = { -brand-short-name } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+onboarding-start-browsing-button-label = ᱵᱨᱟᱩᱡᱤᱝ ᱮᱦᱚᱵᱽ ᱢᱮ
+onboarding-not-now-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Custom Return To AMO onboarding strings
 
@@ -22,6 +25,9 @@
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 onboarding-multistage-welcome-secondary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+onboarding-multistage-set-default-primary-button-label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+onboarding-multistage-set-default-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+onboarding-multistage-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -50,6 +56,8 @@ mr1-onboarding-sign-in-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+mr2-onboarding-colorway-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
 
