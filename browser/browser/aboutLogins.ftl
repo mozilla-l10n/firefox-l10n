@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = 我的密码
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = 搜索登录信息
-
 create-login-button = 新建登录信息
-
 fxaccounts-sign-in-text = 取得您其他设备上的密码
 fxaccounts-sign-in-sync-button = 登录同步服务
 fxaccounts-avatar-button =
@@ -60,7 +55,6 @@ about-logins-list-item-breach-icon =
     .title = 发生数据外泄的网站
 about-logins-list-item-vulnerable-password-icon =
     .title = 弱密码
-
 about-logins-list-section-breach = 发生数据外泄的网站
 about-logins-list-section-vulnerable = 弱密码
 about-logins-list-section-nothing = 暂无警报
@@ -77,6 +71,8 @@ login-intro-instructions-fxa = 在您保存登录信息的设备，注册或登�
 login-intro-instructions-fxa-settings = 前往“设置”>“同步”>“开启同步…”，勾选“登录名和密码”复选框。
 login-intro-instructions-fxa-help = 若需帮助，请访问 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 用户支持</a>。
 about-logins-intro-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = 若需更多帮助，请访问<a data-l10n-name="passwords-help-link">密码支持</a>页面。
+about-logins-intro-browser-only-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -brand-product-name }</a>
 about-logins-intro-import2 = 若您的登录信息并未存储在 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">从另一浏览器</a>或<a data-l10n-name="import-file-link">文件</a>导入
 
 ## Login
@@ -118,21 +114,16 @@ about-logins-edit-login-os-auth-dialog-message-win = 请输入 Windows 登录凭
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 编辑存放的登录信息
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以查看密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 显示存放的密码
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以复制密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 复制存放的密码
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以继续导出登录信息。这有助于保护您的账户安全。
 # This message can be seen when attempting to export a password in about:logins
@@ -146,30 +137,24 @@ master-password-reload-button =
     .label = 登录
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
-
 about-logins-confirm-remove-dialog-title = 要移除此登录信息吗？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] 移除
        *[other] 全部移除
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] 是的，移除此登录信息
        *[other] 是的，移除这些登录信息
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] 要移除 { $count } 条登录信息吗？
@@ -179,7 +164,6 @@ about-logins-confirm-remove-all-dialog-message =
     { $count ->
        *[other] 将移除您存放在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] 要从所有设备移除 { $count } 条登录信息吗？
@@ -188,14 +172,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
        *[other] 将在您所有与 { -fxaccount-brand-name }同步的设备上，移除存放在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
     }
-
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
-
 about-logins-alert-import-title = 导入完成
 about-logins-alert-import-message = 更多信息见：导入摘要报告
-
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
 confirm-discard-changes-dialog-confirm-button = 丢弃
@@ -226,7 +207,6 @@ about-logins-vulnerable-alert-learn-more-link = 详细了解
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = 已存在具有该用户名的 { $loginTitle } 条目。<a data-l10n-name="duplicate-link">要转至现有条目吗？</a>
-
 # This is a generic error message.
 about-logins-error-message-default = 尝试保存该密码时发生错误。
 
@@ -275,12 +255,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>新增的登录信息：</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>更新的现有登录信息：</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>重复的登录信息：</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未导入）</span>
@@ -290,7 +268,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>错误：</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未导入）</span>
     }
 about-logins-import-dialog-done = 完成
-
 about-logins-import-dialog-error-title = 导入出错
 about-logins-import-dialog-error-conflicting-values-title = 一登录信息中出现多个冲突值
 about-logins-import-dialog-error-conflicting-values-description = 例如：一登录信息中出现多个用户名、密码、网址等等。
@@ -304,10 +281,8 @@ about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信�
 about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-import-again = 再次尝试导入…
 about-logins-import-dialog-error-cancel = 取消
-
 about-logins-import-report-title = 导入摘要
 about-logins-import-report-description = 导入到 { -brand-short-name } 的登录名和密码。
-
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -130,6 +130,7 @@ perftools-presets-media-label = 媒体
 perftools-presets-media-description = 推荐在诊断 Firefox 音视频问题时使用。
 perftools-presets-media-description2 = 推荐在排查 { -brand-shorter-name } 音视频 Bug 时使用。
 perftools-presets-networking-label = 联网
+perftools-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
 perftools-presets-custom-label = 自定义
 
 ##
