@@ -101,13 +101,25 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Preusmeri
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Izbriši sporočilo
+            [two] Izbriši izbrani sporočili
+            [few] Izbriši izbrana sporočila
+           *[other] Izbriši izbrana sporočila
+        }
+context-menu-decrypt-to-folder =
+    .label = Kopiraj v nešifrirani obliki v
+    .accesskey = f
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Preusmeri
-message-header-msg-is-flagged =
-    .title = Sporočilo, označeno z zvezdico
+message-header-msg-flagged =
+    .title = Označeno z zvezdico
+    .aria-label = Označeno z zvezdico
 message-header-msg-not-flagged =
     .title = Sporočilo, ki ni označeno z zvezdico
 
@@ -146,3 +158,13 @@ repair-text-encoding-button =
 no-reply-title = Odgovori niso podprti
 no-reply-message = Naslov za odgovor ({ $email }) ni videti kot spremljan naslov. Sporočil, poslanih na ta naslov, verjetno ne bo nihče prebral.
 no-reply-reply-anyway-button = Vseeno odgovori
+
+## error messages
+
+decrypt-and-copy-failures =
+    { $failures ->
+        [one] { $failures } od { $total } sporočil ni bilo mogoče dešifrirati, zato ni bilo kopirano.
+        [two] { $failures } od { $total } sporočil ni bilo mogoče dešifrirati, zato nista bili kopirani.
+        [few] { $failures } od { $total } sporočil ni bilo mogoče dešifrirati, zato niso bila kopirana.
+       *[other] { $failures } od { $total } sporočil ni bilo mogoče dešifrirati, zato niso bila kopirana.
+    }
