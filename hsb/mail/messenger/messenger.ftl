@@ -101,13 +101,25 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Dale sposrědkować
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Powěsć zhašeć
+            [two] Wubranej powěsći zhašeć
+            [few] Wubrane powěsće zhašeć
+           *[other] Wubrane powěsće zhašeć
+        }
+context-menu-decrypt-to-folder =
+    .label = Jako dešifrowanu kopěrować do
+    .accesskey = z
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Dale sposrědkować
-message-header-msg-is-flagged =
-    .title = Powěsć z hwěžku
+message-header-msg-flagged =
+    .title = Z hwěžku
+    .aria-label = Z hwěžku
 message-header-msg-not-flagged =
     .title = Powěsć bjez hwěžki
 
@@ -146,3 +158,7 @@ repair-text-encoding-button =
 no-reply-title = Wotmołwa so njepodpěruje
 no-reply-message = Zda so, zo wotmołwna adresa ({ $email }) dohladowana adresa njeje. Powěsće na tutu adresu so najskerje wot nikoho nječitaja.
 no-reply-reply-anyway-button = Najebać toho wotmołwić
+
+## error messages
+
+decrypt-and-copy-failures = { $failures } z { $total } powěsćow njejsu so dešifrowali a njejsu so kopěrowali.
