@@ -26,12 +26,18 @@ whypaused-event-breakpoint = En pause sur un point d’arrêt d’évènement
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Mis en pause par une exception
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = En pause sur mutation du DOM
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Ajouté :
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Supprimé :
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Mis en pause durant l’exécution
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Mis en pause pendant le pas-à-pas
