@@ -21,8 +21,23 @@ whypaused-debugger-statement = Жөндеуші жариялануына аял�
 # currently paused on a breakpoint
 whypaused-breakpoint = Үзілу нүктесіне аялдатылған
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Оқиғаның үзу нүктесінде аялдатылған
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Ережеден тыс оқиғаға аялдатылған
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = DOM өзгеруінде аялдатылған
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Қосылған:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Өшірілген:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Орындалғанда аялдатылған
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Қадамдап өту кезінде аялдатылған
@@ -33,8 +48,17 @@ whypaused-pause-on-dom-events = Оқиғалар тыңдаушысына аял
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Шартты үзу нүктесінің қатесі
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = XMLHttpRequest кезде аялдатылған
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = promise rejection салдарынан аялдатылды
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Қасиетті оқу кезінде аялдатылған
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Қасиетті жазу кезінде аялдатылған
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Жариялауда аялдатылған
