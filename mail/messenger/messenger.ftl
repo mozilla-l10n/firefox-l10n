@@ -103,13 +103,27 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Ailgyfeirio
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [zero] Dileu'r Negeseuon Hyn
+            [one] Dileu'r Neges Hwn
+            [two] Dileu'r Negeseuon Hyn
+            [few] Dileu'r Negeseuon Hyn
+            [many] Dileu'r Negeseuon Hyn
+           *[other] Dileu'r Negeseuon Hyn
+        }
+context-menu-decrypt-to-folder =
+    .label = Copi Fel Wedi'i Ddatgryptio I.
+    .accesskey = D
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Ailgyfeirio
-message-header-msg-is-flagged =
-    .title = Neges wedi'i marcio â seren
+message-header-msg-flagged =
+    .title = Serennog
+    .aria-label = Serennog
 message-header-msg-not-flagged =
     .title = Neges heb ei marcio â seren
 
@@ -148,3 +162,7 @@ repair-text-encoding-button =
 no-reply-title = Nid yw Ateb yn cael ei Gefnogi
 no-reply-message = Nid yw'n ymddangos bod y cyfeiriad ateb ({ $email }) yn gyfeiriad wedi'i fonitro. Mae'n bosib na fydd unrhyw un yn darllen negeseuon i'r cyfeiriad hwn.
 no-reply-reply-anyway-button = Ateb Beth Bynnag
+
+## error messages
+
+decrypt-and-copy-failures = Nid oedd modd dadgryptio { $failures } o { $total } o negeseuon ac heb eu copïo.
