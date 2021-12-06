@@ -135,6 +135,8 @@ perftools-presets-graphics-description = Přednastajenje za wuslědźenje zmylko
 perftools-presets-media-label = Medije
 perftools-presets-media-description = Doporučene přednastajenje za diagnosticěrowanje awdio- a widejoproblemow.
 perftools-presets-media-description2 = Přednastajenje za wuslědźenje zmylkow awdio a widejo w { -brand-shorter-name }.
+perftools-presets-networking-label = Syć
+perftools-presets-networking-description = Přednastajenje za wuslědźenje syćowych zmylkow w { -brand-shorter-name }.
 perftools-presets-custom-label = Swójski
 
 ##
