@@ -39,6 +39,9 @@ whypaused-mutation-breakpoint-removed = Kaldırıldı:
 # currently paused at a JS execution
 whypaused-interrupted = Yürütme sırasında duraklatıldı
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused while stepping in or out of the stack
+whypaused-resume-limit = Adım atılırken duraklatıldı
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Olay dinleyicisinde duraklandı
 # The text that is displayed in an info block when evaluating a conditional
