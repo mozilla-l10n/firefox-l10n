@@ -748,7 +748,7 @@ picture-in-picture-move-toggle-right =
     .accesskey = D
 picture-in-picture-move-toggle-left =
     .label = Desplaçar lo boton de la vidèo incrustada a man esquèrra
-    .accesskey = e
+    .accesskey = D
 
 ##
 
