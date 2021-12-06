@@ -15,8 +15,17 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = Ladenie bolo pozastavené kvôli výrazu "debugger"
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Pozastavené kvôli bodu prerušenia
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event breakpoint.
 whypaused-event-breakpoint = Pozastavené kvôli bodu prerušenia udalosti
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = Pozastavené kvôli výnimke
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
 whypaused-mutation-breakpoint = Pozastavené kvôli mutácii DOM
@@ -30,11 +39,32 @@ whypaused-mutation-breakpoint-removed = Odstránené:
 # currently paused at a JS execution
 whypaused-interrupted = Pozastavené pri vykonávaní
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused while stepping in or out of the stack
+whypaused-resume-limit = Pozastavené v priebehu krokovania
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a dom event
+whypaused-pause-on-dom-events = Pozastavené na poslucháči udalostí
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = Chyba s podmieneným bodom prerušenia
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
 whypaused-xhr = Pozastavené pri XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Pozastavené na odmietnutej promise
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-get-watchpoint = Pozastavené pri čítaní hodnoty vlastnosti
 # The text that is displayed in an info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-set-watchpoint = Pozastavené pri nastavovaní hodnoty vlastnosti
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = Pozastavené na výraze
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a debugger statement
+whypaused-debug-command = Pozastavené na ladiacej funkcii
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Ladenie je pozastavené
