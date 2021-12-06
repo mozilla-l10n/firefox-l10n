@@ -27,8 +27,17 @@ whypaused-resume-limit = Դադարեցված է՝ մինչև քայլը
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Դադարեցված է իրադարձության ունկնդիրում
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Դադարեցվել է XMLHttpRequest-ում
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Դադարեցված խոստացված մերժումում
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Դադարեցվել է հատկության ստացման ժամաանակ
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Դադարեցվել է հատկության սահմանման ժամանակ
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Դադարեցված հաստատում մեջ
