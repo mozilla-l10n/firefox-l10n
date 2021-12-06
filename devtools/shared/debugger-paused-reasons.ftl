@@ -33,6 +33,9 @@ whypaused-pause-on-dom-events = Paused on event listener
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error with conditional breakpoint
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Paused on XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Paused on promise rejection
 # The text that is displayed in a info block explaining how the debugger is
