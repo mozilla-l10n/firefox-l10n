@@ -98,13 +98,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = 重導
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] 刪除訊息
+           *[other] 刪除選擇的訊息
+        }
+context-menu-decrypt-to-folder =
+    .label = 將解密格式複製到
+    .accesskey = y
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = 重導
-message-header-msg-is-flagged =
-    .title = 加上星號的郵件
+message-header-msg-flagged =
+    .title = 已標星號
+    .aria-label = 已標星號
 message-header-msg-not-flagged =
     .title = 未加上星號的郵件
 
@@ -143,3 +153,7 @@ repair-text-encoding-button =
 no-reply-title = 不支援回覆
 no-reply-message = 信件的回覆地址（{ $email }）看起來不像是有人會收信的地址。發送到此信箱的郵件，很有可能不會被人閱讀。
 no-reply-reply-anyway-button = 還是要回覆
+
+## error messages
+
+decrypt-and-copy-failures = 無法解密全部共 { $total } 封訊息當中的 { $failures } 封訊息，並未複製。
