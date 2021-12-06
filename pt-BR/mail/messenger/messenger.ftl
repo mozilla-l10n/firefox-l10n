@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Redirecionar
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Excluir mensagem
+           *[other] Excluir mensagens selecionadas
+        }
+context-menu-decrypt-to-folder =
+    .label = Copiar como descriptografado para
+    .accesskey = d
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Redirecionar
-message-header-msg-is-flagged =
-    .title = Mensagem marcada com estrela
+message-header-msg-flagged =
+    .title = Com estrela
+    .aria-label = Com estrela
 message-header-msg-not-flagged =
     .title = Mensagem não marcada com estrela
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = Sem suporte a resposta
 no-reply-message = O endereço de resposta ({ $email }) parece não ser um endereço monitorado. Mensagens para este endereço provavelmente não serão lidas por ninguém.
 no-reply-reply-anyway-button = Responder assim mesmo
+
+## error messages
+
+decrypt-and-copy-failures = { $failures } de { $total } mensagens não puderam ser descriptografadas e não foram copiadas.
