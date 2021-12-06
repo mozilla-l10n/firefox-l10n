@@ -21,8 +21,23 @@ whypaused-debugger-statement = Прыпынена на выразе адладч
 # currently paused on a breakpoint
 whypaused-breakpoint = Прыпынена на пункце спыну
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Прыпынена на пункце супыну падзеі
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Прыпынена на выключэнні
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Прыпынены на мутацыі DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Дададзена:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Выдалена:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Прыпынена на выкананні
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Прыпынена падчас крочання па стэку
@@ -33,8 +48,17 @@ whypaused-pause-on-dom-events = Прыпынена на слухачы падз�
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Памылка з умоўным пунктам спыну
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Прыпынена на XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Прыпынена на адмаўленні проміса
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Прыпынена на чытанні ўласцівасці
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Прыпынена на ўсталяванні ўласцівасці
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Прыпынена на зацвярджэнні
