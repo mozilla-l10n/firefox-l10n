@@ -111,7 +111,7 @@ mail-context-delete-messages =
         }
 context-menu-decrypt-to-folder =
     .label = Jako dešifrowanu kopěrować do
-    .accesskey = z
+    .accesskey = d
 
 ## Message header pane
 
