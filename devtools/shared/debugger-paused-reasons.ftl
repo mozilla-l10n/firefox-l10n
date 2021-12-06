@@ -23,6 +23,12 @@ whypaused-breakpoint = ब्रेकपॉइंट पर रोका गय
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = अपवाद पर रोक
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = जोड़ा गया:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = हटाया गया:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = निकलते हुए रोका गया
