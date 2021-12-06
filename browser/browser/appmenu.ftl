@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name }의 오디오 및 비디오 버그를 조사하기 위한 프리셋입니다.
 profiler-popup-presets-media-label =
     .label = 미디어
+profiler-popup-presets-networking-description = { -brand-shorter-name }의 네트워킹 버그를 조사하기 위한 프리셋입니다.
+profiler-popup-presets-networking-label =
+    .label = 네트워킹
 profiler-popup-presets-custom-label =
     .label = 사용자 지정
 

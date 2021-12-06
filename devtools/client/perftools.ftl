@@ -136,6 +136,8 @@ perftools-presets-graphics-description = { -brand-shorter-name }의 그래픽 �
 perftools-presets-media-label = 미디어
 perftools-presets-media-description = 오디오 및 비디오 문제 진단에 권장되는 프리셋입니다.
 perftools-presets-media-description2 = { -brand-shorter-name }의 오디오 및 비디오 버그를 조사하기 위한 프리셋입니다.
+perftools-presets-networking-label = 네트워킹
+perftools-presets-networking-description = { -brand-shorter-name }의 네트워킹 버그를 조사하기 위한 프리셋입니다.
 perftools-presets-custom-label = 사용자 지정
 
 ##
