@@ -14,6 +14,39 @@
 ### A good criteria is the language in which you'd find the best
 ### documentation on web development on the web.
 
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = Pausado em instrução do depurador
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Pausado em ponto de quebra
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Pausado em ponto de quebra de evento
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = Pausado em exceção
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pausado em mutação DOM
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused while stepping in or out of the stack
+whypaused-resume-limit = Pausado enquanto passar
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a dom event
+whypaused-pause-on-dom-events = Pausado em escuta de eventos
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Erro com ponto de quebra condicional
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Pausado em rejeição de promise
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = Pausado em asserção
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a debugger statement
+whypaused-debug-command = Pausado em função depurada
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Depurador pausado
