@@ -29,6 +29,9 @@ whypaused-resume-limit = పునాదిలోనే విరమించబ
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = ఈవెంట్ లిసనర్ పై విరమించబడినది
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = షరతుల బ్రేక్‌పాయింటులో లోపం
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = వాగ్దానం తిరస్కరణ పై విరమించబడినది
