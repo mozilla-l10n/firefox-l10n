@@ -98,13 +98,19 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = 重定向
+mail-context-delete-messages =
+    .label =
+        { $count ->
+           *[other] 删除选择的消息？
+        }
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = 重定向
-message-header-msg-is-flagged =
-    .title = 星标邮件
+message-header-msg-flagged =
+    .title = 已加星标
+    .aria-label = 已加星标
 message-header-msg-not-flagged =
     .title = 非星标邮件
 
@@ -143,3 +149,6 @@ repair-text-encoding-button =
 no-reply-title = 不支持回复
 no-reply-message = 邮件的回复地址（{ $email }）看起来不像是有人会收件的地址。发送到此地址的邮件，不大可能被人阅读。
 no-reply-reply-anyway-button = 仍然回复
+
+## error messages
+
