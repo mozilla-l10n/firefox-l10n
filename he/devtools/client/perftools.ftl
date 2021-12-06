@@ -104,6 +104,8 @@ perftools-presets-graphics-description = ערכה לחקירת באגים גרפ
 perftools-presets-media-label = Media
 perftools-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
 perftools-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
+perftools-presets-networking-label = Networking
+perftools-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
 perftools-presets-custom-label = התאמה אישית
 
 ##
