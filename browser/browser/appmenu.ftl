@@ -204,6 +204,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = 於 { -brand-shorter-name } 診斷影音 Bug 時的預設值。
 profiler-popup-presets-media-label =
     .label = 媒體
+profiler-popup-presets-networking-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值。
+profiler-popup-presets-networking-label =
+    .label = 網路連線
 profiler-popup-presets-custom-label =
     .label = 自訂
 

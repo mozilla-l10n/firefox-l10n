@@ -129,6 +129,8 @@ perftools-presets-graphics-description = 於 { -brand-shorter-name } 診斷圖�
 perftools-presets-media-label = 媒體
 perftools-presets-media-description = 推薦於診斷 Firefox 影音問題時使用。
 perftools-presets-media-description2 = 於 { -brand-shorter-name } 診斷影音 Bug 時的預設值。
+perftools-presets-networking-label = 網路連線
+perftools-presets-networking-description = 於 { -brand-shorter-name } 診斷網路連線 Bug 時的預設值。
 perftools-presets-custom-label = 自訂
 
 ##
