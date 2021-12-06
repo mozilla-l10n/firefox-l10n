@@ -24,6 +24,9 @@ whypaused-breakpoint = Pozastaveno na zarážce
 # currently paused on an exception
 whypaused-exception = Pozastaveno na výjimce
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pozastaveno na mutaci DOMu
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pozastaveno během krokování
 # The text that is displayed in a info block explaining how the debugger is
