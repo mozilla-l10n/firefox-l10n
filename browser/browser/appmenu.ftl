@@ -203,6 +203,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = ערכה לחקירת באגים בשמע ווידאו ב־{ -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-networking-description = ערכה לחקירת באגים של רשת או תקשורת ב־{ -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Networking
 profiler-popup-presets-custom-label =
     .label = התאמה אישית
 
