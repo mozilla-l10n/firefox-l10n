@@ -23,12 +23,21 @@ whypaused-breakpoint = بریکپوئنٹ پر روک دیا گیا
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = استثنا پر توقعف کیا گیا ہے
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = شامل شدہ:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = ہٹا دیا گیا:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = قدم رکھتے وقت توقف کریں
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = وقوعہ سامع پر توقعف کیا گیا ہے
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = XMLHttpRequest پر توقف کیا گیا ہے
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = پرومس ریجیکشن پر توقف کریں
