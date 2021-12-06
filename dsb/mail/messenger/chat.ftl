@@ -22,3 +22,18 @@ chat-identity-verified =
 chat-buddy-identity-status = Dowěra koděrowanja
 chat-buddy-identity-status-verified = Wobkšuśony
 chat-buddy-identity-status-unverified = Njewobkšuśony
+
+## Conversation invite notification box
+
+# This string appears in a notification bar at the top of the Contacts window
+# when someone invited the user to a multi user chat conversation, to request
+# the user to confirm they want to join the chat.
+# Variables:
+#   $conversation (String) - Name of the conversation the user is invited to.
+chat-conv-invite-label = Su pśepšosyli was do chata w { $conversation }
+chat-conv-invite-accept =
+    .label = Akceptěrowaś
+    .accesskey = A
+chat-conv-invite-deny =
+    .label = Wótpokazaś
+    .accesskey = t
