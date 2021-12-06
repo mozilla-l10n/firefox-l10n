@@ -72,6 +72,7 @@ login-intro-instructions-fxa = Crea o inicia sesión en tu { -fxaccount-brand-na
 login-intro-instructions-fxa-settings = Ve a Configuración> Sincronizar > Activar sincronización… Marca la casilla Inicios de sesión y contraseñas.
 login-intro-instructions-fxa-help = Visita <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Soporte</a> para más ayuda.
 about-logins-intro-import = Si tus inicios de sesión están guardados en otro navegador, puedes <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
+about-logins-intro-browser-only-import = Si tus inicios de sesión se guardan en otro navegador, puedes <a data-l10n-name="import-link">importarlos en { -brand-product-name }</a>
 about-logins-intro-import2 = Si tus credenciales se guardan fuera de { -brand-product-name }, puedes <a data-l10n-name="import-browser-link">importarlas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
 
 ## Login
