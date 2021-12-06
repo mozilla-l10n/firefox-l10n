@@ -136,6 +136,8 @@ perftools-presets-graphics-description = Προτεινόμενη προεπιλ
 perftools-presets-media-label = Πολυμέσα
 perftools-presets-media-description = Προτεινόμενη προεπιλογή για τη διάγνωση προβλημάτων ήχου και βίντεο.
 perftools-presets-media-description2 = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων ήχου και βίντεο στο { -brand-shorter-name }.
+perftools-presets-networking-label = Δικτύωση
+perftools-presets-networking-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
 perftools-presets-custom-label = Προσαρμογή
 
 ##

@@ -368,3 +368,7 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Άνοιγμα συνδέσμου σε νέα καρτέλα «{ $containerName }»
     .accesskey = κ
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Εμφάνιση κωδικού πρόσβασης
+    .accesskey = φ
