@@ -21,8 +21,23 @@ whypaused-debugger-statement = Oedwyd ar ddatganiad dadfygiwr
 # currently paused on a breakpoint
 whypaused-breakpoint = Oedwyd ar dorbwynt
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Oedwyd ar dorbwynt digwyddiad
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Oedwyd ar eithriad
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Oedwyd ar mudiad DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Ychwanegwyd:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Tynnwyd:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Oedwyd ar ei Weithredu
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Oedwyd tra'n stepio
@@ -33,8 +48,17 @@ whypaused-pause-on-dom-events = Oedwyd ar wrandawr digwyddiad
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Gwall gyda torbwynt amodol
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Oedwyd ar XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Oedwyd ar wrthodiad addewid
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Wedi'i oedi ar fynediad i briodoledd
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Wedi'i oedi ar briodwedd set
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Oedwyd ar honiad
