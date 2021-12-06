@@ -21,8 +21,23 @@ whypaused-debugger-statement = Pausado en sentencia del depurador
 # currently paused on a breakpoint
 whypaused-breakpoint = Pausado en punto de interrupción
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Pausado en punto de interrupción
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Pausar en excepción
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pausado en la mutación de DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Agregado:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Eliminado:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Pausado en la ejecución
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pausado en paso a paso
@@ -33,8 +48,14 @@ whypaused-pause-on-dom-events = Pausado en oyente de eventos
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error con punto de interrupción condicional
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Pausado en XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Paused on promise rejection
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Pausado en el acceso a la propiedad
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pausado en aserción
