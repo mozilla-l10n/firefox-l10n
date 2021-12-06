@@ -137,6 +137,8 @@ perftools-presets-graphics-description = Y rhagosodiad ar gyfer ymchwilio i wall
 perftools-presets-media-label = Cyfrwng
 perftools-presets-media-description = Y rhagosodiad sy'n cael ei argymell ar gyfer gwneud diagnosis o broblemau sain a fideo.
 perftools-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
+perftools-presets-networking-label = Rhwydweithio
+perftools-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
 perftools-presets-custom-label = Cyfaddas
 
 ##

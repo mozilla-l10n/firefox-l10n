@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Y rhagosodiad ar gyfer ymchwilio i wallau sain a fideo yn { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Cyfryngau
+profiler-popup-presets-networking-description = Y rhagosodiad ar gyfer ymchwilio i wallau graffeg yn { -brand-shorter-name }
+profiler-popup-presets-networking-label =
+    .label = Rhwydweithio
 profiler-popup-presets-custom-label =
     .label = Cyfaddas
 
