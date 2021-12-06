@@ -15,6 +15,18 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = Pozastaveno při odlaďování
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Pozastaveno na zarážce
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = Pozastaveno na výjimce
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused while stepping in or out of the stack
+whypaused-resume-limit = Pozastaveno během krokování
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Pozastaveno na posluchači událostí
 # The text that is displayed in an info block when evaluating a conditional
@@ -26,3 +38,9 @@ whypaused-promise-rejection = Pozastaveno na odmítnuté promise
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pozastaveno na tvrzení
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a debugger statement
+whypaused-debug-command = Pozastaveno na odlaďované funkci
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Ladění pozastaveno
