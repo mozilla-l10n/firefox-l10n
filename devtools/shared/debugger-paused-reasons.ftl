@@ -26,12 +26,18 @@ whypaused-exception = ব্যতিক্রমে বিরতি দেও�
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = পদবিন্যাসের সময় বিরতি দেওয়া হয়েছে
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a dom event
+whypaused-pause-on-dom-events = ইভেন্ট লিসেনার বন্ধ করা হয়েছে
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = শর্তাধীন ব্রেকপয়েন্টে ত্রুটি
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = প্রতিশ্রুতি প্রত্যাখ্যানে বিরতি দেওয়া হয়েছে
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = প্রতিবাদে বিরতি দেওয়া হয়েছে
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = ডিবাগেড ফাংশন এ বিরতি দেওয়া হয়েছে
