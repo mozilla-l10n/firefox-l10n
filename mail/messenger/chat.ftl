@@ -22,3 +22,18 @@ chat-identity-verified =
 chat-buddy-identity-status = Titkosítási bizalom
 chat-buddy-identity-status-verified = Ellenőrzött
 chat-buddy-identity-status-unverified = Nem ellenőrzött
+
+## Conversation invite notification box
+
+# This string appears in a notification bar at the top of the Contacts window
+# when someone invited the user to a multi user chat conversation, to request
+# the user to confirm they want to join the chat.
+# Variables:
+#   $conversation (String) - Name of the conversation the user is invited to.
+chat-conv-invite-label = Meghívták ebbe a csevegésbe: { $conversation }
+chat-conv-invite-accept =
+    .label = Elfogadás
+    .accesskey = f
+chat-conv-invite-deny =
+    .label = Elutasítás
+    .accesskey = u
