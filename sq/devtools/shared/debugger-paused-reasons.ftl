@@ -17,6 +17,12 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = E ndalur në deklaratë diagnostikuesi
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = E ndalur kur has pikëndërprerje
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = E ndalur kur has përjashtim
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Shtuar:
@@ -35,3 +41,6 @@ whypaused-breakpoint-condition-thrown = Gabim me pikëndërprerje kushtore
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
 whypaused-xhr = E ndalur kur has XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Diagnostikuesi u ndal
