@@ -36,6 +36,9 @@ whypaused-mutation-breakpoint-added = Aldonita:
 # modification
 whypaused-mutation-breakpoint-removed = Forigita:
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Paŭzinta en rulado
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Paŭzinta dum paŝado
 # The text that is displayed in a info block explaining how the debugger is
