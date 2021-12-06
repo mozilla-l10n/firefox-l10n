@@ -15,6 +15,9 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = بر روی بیانیه اشکالزدایی توقف کرده است
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = توقف بر روی نقطه وقفه
 # The text that is displayed in a info block explaining how the debugger is
@@ -29,6 +32,9 @@ whypaused-pause-on-dom-events = توقف بر روی شنونده رویداد
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = خطا با نقطه وقفه شرطی
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = بر روی وعده رد شدن توقف کرده است
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = توقف بر روی استثنا
