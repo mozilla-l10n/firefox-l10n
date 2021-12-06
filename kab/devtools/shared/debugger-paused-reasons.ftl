@@ -29,6 +29,15 @@ whypaused-exception = Ittwarǧu deg tesureft
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
 whypaused-mutation-breakpoint = Yeḥbes deg ubeddel DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Yettwarna:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Ittwakkes:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Ittwarǧu deg tesureft
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Ittwarǧa deg usurif s usurif
@@ -38,6 +47,9 @@ whypaused-pause-on-dom-events = Ittwaserǧa deg imseflid n tedyant
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = tucḍa akked ugaz n uzgu awtilan
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Ittwaserǧa deg XMLHttpRequest
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Ittwaserǧa deg tiririt
