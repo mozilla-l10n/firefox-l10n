@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Pśizjawjenja a gronidła
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Pśizjawjenja pytaś
-
 create-login-button = Nowe pśizjawjenje załožyś
-
 fxaccounts-sign-in-text = Pśinjasćo swóje gronidła do wašych drugich rědow
 fxaccounts-sign-in-sync-button = Pla Sync pśizjawiś
 fxaccounts-avatar-button =
@@ -63,7 +58,6 @@ about-logins-list-item-breach-icon =
     .title = Zranjone websedło
 about-logins-list-item-vulnerable-password-icon =
     .title = Napadojte gronidło
-
 about-logins-list-section-breach = Websedła z datowymi źěrami
 about-logins-list-section-vulnerable = Napadojte gronidła
 about-logins-list-section-nothing = Žedno warnowanje
@@ -80,6 +74,8 @@ login-intro-instructions-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxa
 login-intro-instructions-fxa-settings = Źiśo k Nastajenja > Sync > Synchronizaciju zmóžniś… Wubjeŕśo kontrolny kašćik „Pśizjawjenja a gronidła“.
 login-intro-instructions-fxa-help = Woglědajśo se k <a data-l10n-name="help-link">pomocy { -lockwise-brand-short-name }</a> za wěcej pomocy.
 about-logins-intro-import = Jolic waše pśizjawjenja su skłaźone w drugem wobglědowaku, móžośo <a data-l10n-name="import-link">je do { -lockwise-brand-short-name } importěrowaś</a>
+login-intro-instructions-fxa-passwords-help = Woglědajśo se k <a data-l10n-name="passwords-help-link">pomocy gronidłow</a> za wěcej pomocy.
+about-logins-intro-browser-only-import = Jolic waše pśizjawjenja su skłaźone w drugem wobglědowaku, móžośo <a data-l10n-name="import-link">je do { -brand-product-name } importěrowaś</a>
 about-logins-intro-import2 = Jolic waše pśizjawjenja se zwenka { -brand-product-name } składuju, móžośo <a data-l10n-name="import-browser-link">je z drugego wobglědowaka importěrowaś</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
 
 ## Login
@@ -121,21 +117,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Zapódajśo swóje pśizjaw
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = skłaźone pśizjawjenje wobźěłaś
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby se gronidło woglědał. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = skłaźone gronidło pokazaś
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swójo gronidło kopěrował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skłaźone gronidło kopěrowaś
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swóje pśizjawjenja eksportěrował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to export a password in about:logins
@@ -149,18 +140,14 @@ master-password-reload-button =
     .label = Pśizjawiś
     .accesskey = P
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Pśetergnuś
 confirmation-dialog-dismiss-button =
     .title = Pśetergnuś
-
 about-logins-confirm-remove-dialog-title = Toś to pśizjawjenje wótwónoźeś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
 about-logins-confirm-remove-dialog-confirm-button = Wótwónoźeś
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Wótwónoźeś
@@ -169,7 +156,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Wše wótwónoźeś
        *[other] Wše wótwónoźeś
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Jo, toś to pśizjawjenje wótwónoźeś
@@ -178,7 +164,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Jo, toś te pśizjawjenja wótwónoźeś
        *[other] Jo, toś te pśizjawjenja wótwónoźeś
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } pśizjawjenje wótwónoźeś?
@@ -194,7 +179,6 @@ about-logins-confirm-remove-all-dialog-message =
         [few] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
        *[other] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } pśizjawjenje ze wšych rědow wótwónoźeś?
@@ -210,14 +194,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych rědach a kótarež su z wašym kontom { -fxaccount-brand-name } synchronizěrowane. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
        *[other] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych rědach a kótarež su z wašym kontom { -fxaccount-brand-name } synchronizěrowane. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
     }
-
 about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěrowaś
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
-
 about-logins-alert-import-title = Importěrowanje dokóńćone
 about-logins-alert-import-message = Nadrobne importowe zespominanje pokazaś
-
 confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
 confirm-discard-changes-dialog-message = Wšykne njeskłaźone změny se zgubiju.
 confirm-discard-changes-dialog-confirm-button = Zachyśiś
@@ -248,7 +229,6 @@ about-logins-vulnerable-alert-learn-more-link = Dalšne informacije
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Zapisk za { $loginTitle } z tym wužywaŕskim mjenim južo eksistěrujo. <a data-l10n-name="duplicate-link">K eksistěrujucemu zapiskoju?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Pśi wopyśe toś to gronidło składowaś, jo zmólka nastała.
 
@@ -300,7 +280,6 @@ about-logins-import-dialog-items-added =
         [few] <span>Nowe pśizjawjenja pśidane:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nowe pśizjawjenja pśidane:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Eksistěrujuce pśizjawjenje zaktualizěrowane:</span> <span data-l10n-name="count">{ $count }</span>
@@ -308,7 +287,6 @@ about-logins-import-dialog-items-modified =
         [few] <span>Eksistěrujuce pśizjawjenja zaktualizěrowane:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Eksistěrujuce pśizjawjenja zaktualizěrowane:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Dwójne pśizjawjenje namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowane)</span>
@@ -324,7 +302,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Zmólki:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowane)</span>
     }
 about-logins-import-dialog-done = Dokóńcone
-
 about-logins-import-dialog-error-title = Importowa zmólka
 about-logins-import-dialog-error-conflicting-values-title = Někotare gódnoty za jadno pśizjawjenje w konflikśe
 about-logins-import-dialog-error-conflicting-values-description = Na pśikład: někotare wužywaŕske mjenja, gronidła, URL atd. za jadno pśizjawjenje.
@@ -338,10 +315,8 @@ about-logins-import-dialog-error-no-logins-imported = Žedne pśizjawjenja njejs
 about-logins-import-dialog-error-learn-more = Dalšne informacije
 about-logins-import-dialog-error-try-import-again = Wopytajśo znowego importěrowaś…
 about-logins-import-dialog-error-cancel = Pśetergnuś
-
 about-logins-import-report-title = Zespominanje importěrowaś
 about-logins-import-report-description = Pśizjawjenja a gronidła su se importěrowali do { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

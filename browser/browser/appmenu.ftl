@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Pśednastajenje za wuslěźenje zmólkow awdio a wideo w { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Medije
+profiler-popup-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Seś
 profiler-popup-presets-custom-label =
     .label = Swójski
 
