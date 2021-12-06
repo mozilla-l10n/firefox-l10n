@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Ανακατεύθυνση
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Διαγραφή μηνύματος
+           *[other] Διαγραφή επιλεγμένων μηνυμάτων
+        }
+context-menu-decrypt-to-folder =
+    .label = Αντιγραφή ως αποκρυπτογραφημένο σε
+    .accesskey = γ
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Ανακατεύθυνση
-message-header-msg-is-flagged =
-    .title = Μήνυμα με αστέρι
+message-header-msg-flagged =
+    .title = Με αστέρι
+    .aria-label = Με αστέρι
 message-header-msg-not-flagged =
     .title = Μήνυμα χωρίς αστέρι
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = Δεν υποστηρίζεται απάντηση
 no-reply-message = Η διεύθυνση απάντησης ({ $email }) δεν φαίνεται να είναι εποπτεύεται. Τα μηνύματα σε αυτήν τη διεύθυνση πιθανότατα δεν θα διαβαστούν από κανέναν.
 no-reply-reply-anyway-button = Απάντηση ούτως ή άλλως
+
+## error messages
+
+decrypt-and-copy-failures = Δεν ήταν δυνατή η αποκρυπτογράφηση και αντιγραφή { $failures } από { $total } μηνύματα.
