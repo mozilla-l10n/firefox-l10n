@@ -26,6 +26,12 @@ whypaused-event-breakpoint = ইভেন্ট ব্রেকপয়েন�
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = ব্যতিক্রমে বিরতি দেওয়া হয়েছে
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = সংযুক্ত:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = অপসারিত:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
 whypaused-interrupted = এক্সিকিউশন এ বিরতি দেওয়া হয়েছে
@@ -38,6 +44,9 @@ whypaused-pause-on-dom-events = ইভেন্ট লিসেনার বন�
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = শর্তাধীন ব্রেকপয়েন্টে ত্রুটি
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = XMLHttpRequest এ বিরতি দেওয়া হয়েছে
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = প্রতিশ্রুতি প্রত্যাখ্যানে বিরতি দেওয়া হয়েছে
