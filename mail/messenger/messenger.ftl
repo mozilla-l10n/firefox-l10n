@@ -152,3 +152,4 @@ no-reply-reply-anyway-button = 仍然回复
 
 ## error messages
 
+decrypt-and-copy-failures = 共计 { $total } 条消息，有 { $failures } 条因解密失败而未复制。
