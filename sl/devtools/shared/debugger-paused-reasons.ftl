@@ -21,14 +21,23 @@ whypaused-debugger-statement = Ustavljen ob stavku razhroščevalnika
 # currently paused on a breakpoint
 whypaused-breakpoint = Ustavljen ob prekinitveni točki
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Ustavljen ob prekinitveni točki dogodka
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Ustavljen ob izjemi
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Ustavljen ob preobrazbi DOM
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Dodano:
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Odstranjeno:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Ustavljen ob izvedbi
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Ustavljen ob stopanju
@@ -39,8 +48,17 @@ whypaused-pause-on-dom-events = Ustavljen ob poslušalcu dogodka
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Napaka s pogojno prekinitveno točko
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Ustavljen ob XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Ustavljen ob zavrnitvi obljube
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Ustavljen ob pridobivanju lastnosti
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Ustavljen ob nastavitvi lastnosti
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Ustavljen ob trditvi
