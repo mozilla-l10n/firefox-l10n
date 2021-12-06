@@ -21,8 +21,14 @@ whypaused-debugger-statement = ডিবাগার বিবৃতিতে �
 # currently paused on a breakpoint
 whypaused-breakpoint = ব্রেকপয়েন্টে বিরতি দেওয়া হয়েছে
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = ইভেন্ট ব্রেকপয়েন্টে বিরতি দেওয়া হয়েছে
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = ব্যতিক্রমে বিরতি দেওয়া হয়েছে
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = এক্সিকিউশন এ বিরতি দেওয়া হয়েছে
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = পদবিন্যাসের সময় বিরতি দেওয়া হয়েছে
