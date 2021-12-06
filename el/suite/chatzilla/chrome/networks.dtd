@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Εργαλείο επεξεργασίας δικτύων">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Επαναφορά προεπιλογών">
 <!ENTITY restoreButton.accesskey      "ρ">
+
+<!ENTITY connectNetwork.label         "Σύνδεση στο δίκτυο">
+<!ENTITY connectNetwork.accesskey     "δ">
 
 <!ENTITY networkListAdd.label         "Προσθήκη δικτύου…">
 <!ENTITY networkListAdd.accesskey     "Π">
