@@ -21,8 +21,14 @@ whypaused-debugger-statement = Pausate in un instruction del depurator
 # currently paused on a breakpoint
 whypaused-breakpoint = Mittite in pausa per un puncto de interruption
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = In pausa sur un puncto de interruption pro un evento
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Mittite in pausa per un exception
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = In pausa sur un mutation del DOM
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Addite:
@@ -35,6 +41,9 @@ whypaused-interrupted = In pausa sur execution
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pausate durante le execution passo a passo
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a dom event
+whypaused-pause-on-dom-events = Pausate per un ascoltator de eventos
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error con puncto de interruption conditional
@@ -47,6 +56,9 @@ whypaused-promise-rejection = Mittite in pausa per le rejection de un promissa
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-get-watchpoint = Pausate sur le accesso a un proprietate
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Pausate sur le definition de un proprietate
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pausa sur le assertion
