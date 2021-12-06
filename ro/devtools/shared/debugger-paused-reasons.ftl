@@ -24,6 +24,18 @@ whypaused-breakpoint = Pus pe pauză la punctul de întrerupere
 # currently paused on an exception
 whypaused-exception = Pus pe pauză la excepție
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Pus în pauză la mutație DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Adăugate:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Eliminate:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Pus în pauză la execuție
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Pus pe pauză în timpul execuției pas cu pas
 # The text that is displayed in a info block explaining how the debugger is
@@ -32,6 +44,15 @@ whypaused-pause-on-dom-events = Pus pe pauză de un listener de evenimente
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Eroare cu punctul de întrerupere condițional
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Pauză pe XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Pauză pe accesul la o proprietate
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Pauză pe o definiție de proprietate
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Pus pe pauză la o aserție
