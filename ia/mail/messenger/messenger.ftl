@@ -157,3 +157,4 @@ no-reply-reply-anyway-button = Responder comocunque
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } de { $total } messages non pote esser decryptate e non era copiate.
