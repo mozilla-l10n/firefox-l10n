@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
 profiler-popup-presets-media-label =
     .label = Média
+profiler-popup-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
+profiler-popup-presets-networking-label =
+    .label = Hálózat
 profiler-popup-presets-custom-label =
     .label = Egyéni
 

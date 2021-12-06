@@ -132,10 +132,12 @@ perftools-presets-firefox-graphics-description = Ajánlott előbeállítás a Fi
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Javasolt előbeállítás a { -brand-shorter-name } profilozásához.
 perftools-presets-graphics-label = Grafika
-perftools-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibáinak kivizsgálásához.
+perftools-presets-graphics-description = Előbeállítás a { -brand-shorter-name } grafikai hibák kivizsgálásához.
 perftools-presets-media-label = Média
 perftools-presets-media-description = Ajánlott előbeállítás a hang- és videóproblémák diagnosztizálásához.
 perftools-presets-media-description2 = Előbeállítás a { -brand-shorter-name } hang- és videóhibáinak kivizsgálásához.
+perftools-presets-networking-label = Hálózat
+perftools-presets-networking-description = Előbeállítás a { -brand-shorter-name } hálózati hibák kivizsgálásához.
 perftools-presets-custom-label = Egyéni
 
 ##
