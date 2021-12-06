@@ -21,6 +21,9 @@ whypaused-debugger-statement = Mis en pause par l’instruction « debugger »
 # currently paused on a breakpoint
 whypaused-breakpoint = Mis en pause par un point d’arrêt
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = En pause sur un point d’arrêt d’évènement
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Mis en pause par une exception
 # The text that is displayed to describe an added node which triggers a subtree
