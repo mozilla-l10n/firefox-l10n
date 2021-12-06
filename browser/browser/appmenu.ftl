@@ -204,6 +204,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = 推荐在排查 { -brand-shorter-name } 音视频 Bug 时使用。
 profiler-popup-presets-media-label =
     .label = 媒体
+profiler-popup-presets-networking-description = 推荐在排查 { -brand-shorter-name } 联网 Bug 时使用。
+profiler-popup-presets-networking-label =
+    .label = 联网
 profiler-popup-presets-custom-label =
     .label = 自定义
 

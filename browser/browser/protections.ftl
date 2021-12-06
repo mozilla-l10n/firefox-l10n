@@ -57,6 +57,7 @@ lockwise-title = 密码不怕再忘
 lockwise-title-logged-in2 = 密码管理
 lockwise-header-content = { -lockwise-brand-name } 能将您的密码安全地存储在浏览器中。
 passwords-title-logged-in = 管理您的密码
+passwords-header-content = { -brand-product-name } 能将您的密码安全地存储在浏览器中。
 lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备中。
 protection-report-save-passwords-button = 保存密码
     .title = 将密码保存到 { -lockwise-brand-short-name }
