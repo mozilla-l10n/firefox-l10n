@@ -133,6 +133,8 @@ perftools-presets-graphics-description = Predvoľba na diagnostiku grafických c
 perftools-presets-media-label = Médiá
 perftools-presets-media-description = Odporúčaná predvoľba na diagnostiku problémov so zvukom a videom.
 perftools-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
+perftools-presets-networking-label = Sieťová aktivita
+perftools-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
 perftools-presets-custom-label = Vlastné
 
 ##
