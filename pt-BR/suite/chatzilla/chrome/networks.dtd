@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Editor de redes">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Restaurar padrão">
 <!ENTITY restoreButton.accesskey      "d">
+
+<!ENTITY connectNetwork.label         "Conectar à rede">
+<!ENTITY connectNetwork.accesskey     "R">
 
 <!ENTITY networkListAdd.label         "Adicionar rede…">
 <!ENTITY networkListAdd.accesskey     "A">
