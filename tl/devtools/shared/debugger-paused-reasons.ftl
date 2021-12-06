@@ -23,6 +23,12 @@ whypaused-breakpoint = Nai-pause sa breakpoint
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Nai-pause sa pagbubukod
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Idinagdag:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Inalis:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Paused habang stepping
