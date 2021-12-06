@@ -10,5 +10,7 @@ openpgp-compose-key-status-recipient =
     .label = Destinatario
 openpgp-compose-key-status-status =
     .label = Estado
+openpgp-compose-key-status-open-details = Administrar claves para el destinatario seleccionado…
 openpgp-recip-good = ok
+openpgp-compose-general-info-alias = { -brand-short-name } normalmente requiere que la clave pública del destinatario contenga un ID de usuario con una dirección de correo electrónico coincidente. Esto se puede anular usando las reglas del alias del destinatario de OpenPGP.
 openpgp-compose-general-info-alias-learn-more = Saber más
