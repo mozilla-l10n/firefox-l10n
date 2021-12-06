@@ -204,6 +204,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Predvoľba na diagnostiku problémov so zvukom a videom v prehliadači { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Médiá
+profiler-popup-presets-networking-description = Predvoľba pre diagnostiku sieťovej aktivity v prehliadači { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Sieťová aktivita
 profiler-popup-presets-custom-label =
     .label = Vlastné
 
