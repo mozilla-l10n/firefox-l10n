@@ -15,8 +15,38 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = Mis en pause par l’instruction « debugger »
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Mis en pause par un point d’arrêt
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an exception
+whypaused-exception = Mis en pause par une exception
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Ajouté :
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Supprimé :
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Mis en pause pendant le pas-à-pas
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a dom event
+whypaused-pause-on-dom-events = Mis en pause par un écouteur d’évènements
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Une erreur s’est produite avec le point d’arrêt conditionnel
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Mis en pause par le rejet d’une promesse
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an assert
+whypaused-assert = Mis en pause par une assertion
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a debugger statement
+whypaused-debug-command = Mis en pause par une fonction déboguée
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Débogueur mis en pause
