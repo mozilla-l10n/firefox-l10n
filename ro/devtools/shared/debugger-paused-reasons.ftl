@@ -21,6 +21,9 @@ whypaused-debugger-statement = Pus pe pauză la instrucțiunea depanatorului
 # currently paused on a breakpoint
 whypaused-breakpoint = Pus pe pauză la punctul de întrerupere
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Pus pe pauză la punctul de întrerupere al evenimentului
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Pus pe pauză la excepție
 # The text that is displayed in a info block explaining how the debugger is
@@ -47,6 +50,9 @@ whypaused-breakpoint-condition-thrown = Eroare cu punctul de întrerupere condi�
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
 whypaused-xhr = Pauză pe XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = Pus pe pauză la respingerea unui Promise
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a watchpoint on an object property
 whypaused-get-watchpoint = Pauză pe accesul la o proprietate
