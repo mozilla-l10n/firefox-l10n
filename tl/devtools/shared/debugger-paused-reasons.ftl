@@ -21,14 +21,23 @@ whypaused-debugger-statement = Nai-pause sa pahayag ng debugger
 # currently paused on a breakpoint
 whypaused-breakpoint = Nai-pause sa breakpoint
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Naka-pause sa event breakpoint
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Nai-pause sa pagbubukod
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Naka-pause sa DOM mutation
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Idinagdag:
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Inalis:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Naka-pause sa Execution
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Paused habang stepping
@@ -39,8 +48,17 @@ whypaused-pause-on-dom-events = Nai-pause sa tagapakinig ng kaganapan
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error sa kondisyong breakpoint
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Naka-pause sa XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Na-pause sa pagtanggi ng pangako
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Itinigil ang property access
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Naka-pause sa property set
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Na-pause sa assertion
