@@ -368,3 +368,7 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Abrir link em nova aba { $containerName }
     .accesskey = k
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Mostrar senha
+    .accesskey = M
