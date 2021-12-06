@@ -23,6 +23,12 @@ whypaused-breakpoint = השהיה על נקודת עצירה
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = השהיה על חריגה
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = נוסף:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = הוסר:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = מושהה במהלך מעבר על צעדים
@@ -32,6 +38,9 @@ whypaused-pause-on-dom-events = השהיה על האזנה לאירועים
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = שגיאה עם נקודת עצירה מותנית
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a promise rejection
+whypaused-promise-rejection = מושהה עקב הבטחה דחויה
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = מושהה במהלך הקצאה
