@@ -18,6 +18,9 @@
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = Դադարեցված է վրիպազերծիչի վիճակում
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Դադարեցված է խզակետում
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an event breakpoint.
 whypaused-event-breakpoint = Դադարեցվեց իրադարձության բեկման կետում
 # The text that is displayed in a info block explaining how the debugger is
@@ -41,6 +44,9 @@ whypaused-resume-limit = Դադարեցված է՝ մինչև քայլը
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Դադարեցված է իրադարձության ունկնդիրում
+# The text that is displayed in an info block when evaluating a conditional
+# breakpoint throws an error
+whypaused-breakpoint-condition-thrown = Սխալ՝ պայմանական խզակետում
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an xml http request
 whypaused-xhr = Դադարեցվել է XMLHttpRequest-ում
