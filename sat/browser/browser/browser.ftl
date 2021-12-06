@@ -423,7 +423,7 @@ toolbar-button-open-file =
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
-    .tooltiptext = मित् नावा निजेर ब्राउजिंग विंडो झिज मे .({ $shortcut })
+    .tooltiptext = ᱢᱤᱫ ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱣᱤᱱᱰᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ({ $shortcut })
 
 ## EME notification panel
 
@@ -460,6 +460,13 @@ ui-tour-info-panel-close =
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 
 ##

@@ -19,7 +19,7 @@ about-telemetry-slow-sql-main = मुल सुता़म रे बा़य
 about-telemetry-slow-sql-other = मुल सुता़म रे बा़य बा़य ते SQL  ला़य उदुक् को .
 about-telemetry-slow-sql-hits = दाल को
 about-telemetry-slow-sql-average = सांजला. ओकतो (ms)
-about-telemetry-slow-sql-statement = ला़य उदुक्
+about-telemetry-slow-sql-statement = ᱞᱟᱹᱭ ᱩᱫᱩᱜ
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = एड-ऑन ID
 about-telemetry-addon-table-details = भेदे भेद
