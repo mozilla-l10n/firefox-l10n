@@ -29,6 +29,15 @@ whypaused-exception = ถูกหยุดชั่วคราวจากข�
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a DOM mutation breakpoint
 whypaused-mutation-breakpoint = พักเมื่อ DOM mutation
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = เพิ่มแล้ว:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = เอาออกแล้ว:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = หยุดชั่วคราวเมื่อเรียกใช้งาน
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = ถูกหยุดชั่วคราวขณะการก้าว
