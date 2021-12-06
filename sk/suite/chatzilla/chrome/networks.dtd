@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Editor sietí">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Obnoviť predvolené nastavenia">
 <!ENTITY restoreButton.accesskey      "b">
+
+<!ENTITY connectNetwork.label         "Pripojiť k sieti">
+<!ENTITY connectNetwork.accesskey     "r">
 
 <!ENTITY networkListAdd.label         "Pridať sieť…">
 <!ENTITY networkListAdd.accesskey     "r">
