@@ -23,6 +23,12 @@ whypaused-breakpoint = Ustavljen ob prekinitveni točki
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Ustavljen ob izjemi
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Dodano:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Odstranjeno:
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Ustavljen ob stopanju
