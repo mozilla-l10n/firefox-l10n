@@ -15,8 +15,29 @@
 ### documentation on web development on the web.
 
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused due to a `debugger` statement in the code
+whypaused-debugger-statement = Έγινε παύση σε δήλωση ελέγχου σφαλμάτων
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a breakpoint
+whypaused-breakpoint = Παύθηκε στο σημείο διακοπής
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = Παύθηκε στο σημείο διακοπής συμβάντος
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Παύθηκε σε εξαίρεση
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = Παύθηκε στη μετάλλαξη DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = Προστέθηκε:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = Αφαιρέθηκε:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = Έγινε παύση στην εξαίρεση
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Παύση κατά το βήμα
@@ -27,11 +48,23 @@ whypaused-pause-on-dom-events = Παύθηκε στον ακροατή γεγο�
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Σφάλμα με υποθετικό σημείο διακοπής
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = Έγινε παύση στο XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Παύση στην απόρριψη υπόσχεσης
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = Έγινε παύση στην ιδιότητα get
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = Έγινε παύση στην ιδιότητα set
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Παύθηκε σε ισχυρισμό
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Παύθηκε σε αποσφαλματωμένη λειτουργία
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event listener breakpoint set
+whypaused-other = Έγινε παύση του ελέγχου σφαλμάτων
