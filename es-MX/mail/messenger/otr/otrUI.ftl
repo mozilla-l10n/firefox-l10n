@@ -3,9 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 start-label = Iniciar una conversación cifrado
+refresh-label = Actualizar la conversación cifrada.
 auth-label = Verificar la identidad de tu contacto
 reauth-label = Volver a verificar la identidad de tu contacto
 auth-cancel = Cancelar
+auth-cancel-access-key = C
+auth-error = Ocurrió un error al verificar la identidad de tu contacto.
+auth-success = Verificación de la identidad de tu contacto completada con éxito.
 auth-success-them = Tu contacto ha verificado correctamente tu identidad. Tal vez quieras verificar su identidad también haciendo tu propia pregunta.
 auth-fail = No se pudo verificar la identidad de tu contacto.
 auth-waiting = Esperando que el contacto complete la verificación…
@@ -22,6 +26,9 @@ alert-refresh = Intentando actualizar la conversación cifrada con { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone-insecure = La conversación cifrada con { $name } terminó.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = La identidad de { $name } aún no ha sido verificada. No es posible escuchar a escondidas, pero con un poco de esfuerzo alguien podría estar escuchando. Evita la vigilancia verificando la identidad de este contacto.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } está contactándote desde una computadora no reconocida. No es posible escuchar a escondidas, pero con un poco de esfuerzo alguien podría estar escuchando. Evita la vigilancia verificando la identidad de este contacto.
@@ -57,3 +64,7 @@ success-title = Cifrado de extremo a extremo
 success-them-title = Verificar la identidad de tu contacto
 fail-title = No se puede verificar
 waiting-title = Solicitud de verificación enviada
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Error al generar la clave privada OTR: { $error }
