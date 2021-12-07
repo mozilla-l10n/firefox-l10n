@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Nätverksredigerare">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Återställ standardvärden">
 <!ENTITY restoreButton.accesskey      "s">
+
+<!ENTITY connectNetwork.label         "Anslut till nätverk">
+<!ENTITY connectNetwork.accesskey     "N">
 
 <!ENTITY networkListAdd.label         "Lägg till nätverk…">
 <!ENTITY networkListAdd.accesskey     "L">
