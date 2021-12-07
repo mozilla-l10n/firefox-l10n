@@ -86,5 +86,13 @@ policy-NewTabPage = Ativa o disativa sa pàgina Ischeda noa
 policy-NoDefaultBookmarks = Disativa sa creatzione de sinnalibros predefinidos de { -brand-short-name } e de is sinnalibros inteligentes ("Prus bisitados", "Etichetas reghentes"). Nota: custu critèriu faghet efetu isceti si est impreadu in antis de sa prima abertura de su profilu.
 policy-OfferToSaveLogins = Fortza sa cunfiguratzione pro permìtere a { -brand-short-name } de ofèrrere de regordare credentziales e craes sarvadas. Sunt atzetados ambos valores true e false.
 policy-OfferToSaveLoginsDefault = Cunfigura su valore predefinidu pro permìtere a { -brand-short-name } de ofèrrere de regordare credentziales e craes sarvadas. Sunt atzetados ambos valores true e false.
+policy-OverrideFirstRunPage = Càmbia sa pàgina ammustrada in sa prima esecutzione. Lassa bòidu custu critèriu si boles disativare sa visualizatzione de sa pàgina de prima esecutzione.
+policy-OverridePostUpdatePage = Càmbia sa pàgina "Novidades" ammustrada a pustis de is atualizatziones. Lassa bòidu custu critèriu si boles disativare sa visualizatzione de sa pàgina.
+policy-PasswordManagerEnabled = Ativa su sarvamentu de is craes is su gestore de is craes.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Disativa o cunfigura PDF.js, su visualizadore de PDF inclùdidu in { -brand-short-name }
+policy-PromptForDownloadLocation = Pregunta in ue sarvare is archìvios de iscarrigare.
+policy-SanitizeOnShutdown2 = Cantzella is datos de navigatzione a s'essida.
+policy-SearchSuggestEnabled = Ativa o disativa is cussìgios de chirca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installa mòdulos de PKCS #11.
