@@ -72,6 +72,8 @@ login-intro-instructions-fxa = Loo { -fxaccount-brand-name } või logi sisse sea
 login-intro-instructions-fxa-settings = Ava Sätted > Sync > Lülita sünkroniseerimine sisse… Märgi linnukesega Kasutajatunnused ja paroolid.
 login-intro-instructions-fxa-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>.
 about-logins-intro-import = Kui sinu kasutajakontod on salvestatud teise brauserisse, siis saad need <a data-l10n-name="import-link">importida { -lockwise-brand-short-name }'i</a>
+login-intro-instructions-fxa-passwords-help = Rohkema teabe saamiseks külasta <a data-l10n-name="passwords-help-link">paroolide tugiteenust</a>.
+about-logins-intro-browser-only-import = Kui sinu kasutajatunnused on salvestatud teise brauserisse, siis saad <a data-l10n-name="import-link">need importida { -brand-product-name }i</a>
 about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
 
 ## Login

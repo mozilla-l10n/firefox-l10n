@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Network
 profiler-popup-presets-custom-label =
     .label = Custom
 
