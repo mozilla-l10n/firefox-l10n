@@ -134,3 +134,12 @@ about-addressbook-details-work-address-header = İş adresi
 about-addressbook-details-other-info-header = Diğer bilgiler
 about-addressbook-prompt-to-save-title = Değişiklikler kaydedilsin mi?
 about-addressbook-prompt-to-save = Değişikliklerinizi kaydetmek istiyor musunuz?
+
+# Photo dialog
+
+about-addressbook-photo-drop-loading = Fotoğraf yükleniyor…
+about-addressbook-photo-drop-error = Fotoğraf yüklenemedi.
+about-addressbook-photo-filepicker-title = Bir resim dosyası seçin
+about-addressbook-photo-discard = Mevcut fotoğrafı sil
+about-addressbook-photo-cancel = Vazgeç
+about-addressbook-photo-save = Kaydet
