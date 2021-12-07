@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 verify-window-title = Kimliği Doğrula
+# Variables:
+#   $subject (String) - a human readable identifier for the other side of the verification flow.
+verify-window-subject-title = { $subject } kimliğini doğrula

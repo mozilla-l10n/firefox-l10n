@@ -22,3 +22,12 @@ chat-identity-verified =
 chat-buddy-identity-status = Şifreleme güveni
 chat-buddy-identity-status-verified = Doğrulandı
 chat-buddy-identity-status-unverified = Doğrulanmadı
+
+## Conversation invite notification box
+
+chat-conv-invite-accept =
+    .label = Kabul et
+    .accesskey = K
+chat-conv-invite-deny =
+    .label = Reddet
+    .accesskey = R
