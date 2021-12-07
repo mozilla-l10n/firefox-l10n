@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Redirect
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Delete message
+           *[other] Delete selected messages
+        }
+context-menu-decrypt-to-folder =
+    .label = Copy As Decrypted To
+    .accesskey = y
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Redirect
-message-header-msg-is-flagged =
-    .title = Star marked message
+message-header-msg-flagged =
+    .title = Starred
+    .aria-label = Starred
 message-header-msg-not-flagged =
     .title = Not star marked message
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = Reply Not Supported
 no-reply-message = The reply address ({ $email }) does not appear to be a monitored address. Messages to this address will likely not be read by anyone.
 no-reply-reply-anyway-button = Reply Anyway
+
+## error messages
+
+decrypt-and-copy-failures = { $failures } of { $total } messages could not be decrypted and were not copied.
