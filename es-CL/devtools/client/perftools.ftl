@@ -134,6 +134,8 @@ perftools-presets-graphics-description = Ajustes para investigar fallos gráfico
 perftools-presets-media-label = Medios
 perftools-presets-media-description = Ajustes predeterminados para el diagnóstico de problemas de audio y video.
 perftools-presets-media-description2 = Ajustes para investigar fallos de audio y video en { -brand-shorter-name }.
+perftools-presets-networking-label = Red
+perftools-presets-networking-description = Ajustes para investigar fallos de red en { -brand-shorter-name }.
 perftools-presets-custom-label = Personalizado
 
 ##

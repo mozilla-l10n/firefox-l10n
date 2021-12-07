@@ -204,6 +204,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Ajustes para investigar fallos de audio y video en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Medios
+profiler-popup-presets-networking-description = Ajustes para investigar fallos de red en { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Red
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
