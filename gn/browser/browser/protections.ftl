@@ -59,6 +59,7 @@ lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in2 = Ñe’ẽñemi ñeñangareko
 lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
 passwords-title-logged-in = Eñangareko ne ñe’ẽñemíre
+passwords-header-content = { -brand-product-name } ombyaty iñe’ẽñemi kundahára hekorosãvape.
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 protection-report-save-passwords-button = Eñongatu Ñe’ẽñemi
     .title = Eñongatu Ñe’ẽñemi { -lockwise-brand-short-name }-pe
@@ -67,6 +68,10 @@ protection-report-manage-passwords-button = Eñangareko Ñe’ẽñemíre
 lockwise-mobile-app-title = Egueraha ne ñe’ẽñemi opa hendápe
 lockwise-no-logins-card-content = Eipuru ñe’ẽñemi eñongatupyre { -brand-short-name } oimeraẽva mba’e’okápe.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+protection-report-passwords-save-passwords-button = Eñongatu Ñe’ẽñemi
+    .title = Eñongatu Ñe’ẽñemi
+protection-report-passwords-manage-passwords-button = Eñangareko Ñe’ẽñemíre
+    .title = Eñangareko Ñe’ẽñemíre
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
