@@ -62,6 +62,7 @@ about-logins-list-section-week = Վերջին եաւթ աւրը
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = Փնտրե՞լ Ձեր պահպանուած մտից անունները: Միացրէք համաժամեցումը կամ ներմուծէք դրանք:
 about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտքանուններ չեն գտնուել։
 login-intro-description = Եթե պահպանել էք Ձեր մուտքանունները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող էք ստանալ դրանք․
 login-intro-instructions-fxa-settings = Գնալ Կարգաւորումներ > Համաժամեցում > Միացրէք համաժամեցումը… Ընտրէք Մուտքեր եւ գաղտնաբառեր վանդակը:
