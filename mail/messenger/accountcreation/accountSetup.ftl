@@ -10,8 +10,10 @@ account-setup-title = Mevcut E-posta Adresinizi Ayarlayın
 account-setup-description =
     Mevcut e-posta adresinizi kullanmak için hesap bilgilerinizi girin.<br/>
     { -brand-product-name } önerilen sunucu yapılandırmasını otomatik olarak arayacaktır.
+account-setup-secondary-description = { -brand-product-name }, çalışan ve önerilen sunucu yapılandırmasını otomatik olarak arayacaktır.
 account-setup-success-title = Hesap başarıyla oluşturuldu
 account-setup-success-description = Artık bu hesabı { -brand-short-name } ile kullanabilirsiniz.
+account-setup-success-secondary-description = İlgili hizmetleri bağlayarak ve gelişmiş hesap ayarlarını yapılandırarak deneyiminizi iyileştirebilirsiniz.
 
 ## Form fields
 

@@ -51,3 +51,5 @@ account-provisioner-domain-results-caption = Daha fazla alan adı bulmak için t
 account-provisioner-free-account = Ücretsiz
 account-provision-price-per-year = { $price } / yıl
 account-provisioner-all-results-button = Tüm sonuçları göster
+account-provisioner-open-in-tab-img =
+    .title = Yeni sekmede açılır
