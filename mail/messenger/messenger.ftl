@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Redirigir
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Eliminar mensaje seleccionado
+           *[other] Eliminar mensajes seleccionados
+        }
+context-menu-decrypt-to-folder =
+    .label = Copiar como descifrado a
+    .accesskey = y
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Redirigir
-message-header-msg-is-flagged =
-    .title = Mensaje marcado con estrella
+message-header-msg-flagged =
+    .title = Con estrella
+    .aria-label = Con estrella
 message-header-msg-not-flagged =
     .title = Mensaje no marcado con estrella
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = La respuesta espuesta no es compatible
 no-reply-message = La dirección de respuesta ({ $email }) no parece ser una dirección supervisada. Es probable que los mensajes a esta dirección no sean leídos por nadie.
 no-reply-reply-anyway-button = Responder de todas formas
+
+## error messages
+
+decrypt-and-copy-failures = { $failure } de { $total } mensajes no pudieron ser descifrados y no fueron copiados.
