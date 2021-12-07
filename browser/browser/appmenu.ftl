@@ -198,6 +198,8 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = Multimédia
+profiler-popup-presets-networking-label =
+    .label = Réseau
 profiler-popup-presets-custom-label =
     .label = Personnalisés
 
