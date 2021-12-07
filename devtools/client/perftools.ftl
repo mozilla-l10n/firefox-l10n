@@ -128,11 +128,13 @@ perftools-presets-firefox-graphics-label = Performances graphiques de Firefox
 perftools-presets-firefox-graphics-description = Réglage recommandé pour l’étude des performances graphiques de Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Réglage recommandé pour le profilage de { -brand-shorter-name }.
+perftools-presets-graphics-label = Accélération graphique
 perftools-presets-graphics-description = Réglage conçu pour examiner les bugs graphiques dans { -brand-shorter-name }.
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description = Réglage recommandé pour diagnostiquer les problèmes audio et vidéo.
 perftools-presets-media-description2 = Réglage conçu pour examiner les bugs audio et vidéo dans { -brand-shorter-name }.
 perftools-presets-networking-label = Réseau
+perftools-presets-networking-description = Réglage conçu pour examiner les bugs réseau dans { -brand-shorter-name }.
 perftools-presets-custom-label = Personnalisé
 
 ##
