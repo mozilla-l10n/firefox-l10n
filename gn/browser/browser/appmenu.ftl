@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Momaranduha
+profiler-popup-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuãi { -brand-shorter-name }-pe.
+profiler-popup-presets-networking-label =
+    .label = Pyha
 profiler-popup-presets-custom-label =
     .label = Mboavapyre
 
