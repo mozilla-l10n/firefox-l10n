@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 dock-options-window-dialog =
-    .title = Appikon beállításai
+    .title = Alkalmazásikon beállításai
     .style = width: 35em;
 dock-options-show-badge =
     .label = Jelvény ikon megjelenítése
     .accesskey = J
 bounce-system-dock-icon =
-    .label = Az appikon animálása új üzenet érkezésekor
+    .label = Az alkalmazásikon animálása új üzenet érkezésekor
     .accesskey = a
-dock-icon-legend = Appikon megjelölése
+dock-icon-legend = Alkalmazásikon megjelölése
 dock-icon-show-label =
-    .value = Appikon megjelölése ezzel:
+    .value = Alkalmazásikon megjelölése ezzel:
 count-unread-messages-radio =
     .label = Olvasatlan üzenetek száma
     .accesskey = O
