@@ -65,11 +65,26 @@ policy-Extensions = Installa, disinstalla o bloca estensiones. S'optzione de ins
 policy-ExtensionSettings = Gesti totu is aspetos de s'installatzione de estensiones.
 policy-ExtensionUpdate = Ativa o disativa s'atualizatzione automàtica de is estensiones.
 policy-FirefoxHome = Cunfigura Firefox Home.
+policy-FlashPlugin = Permite o proibi s'impreu de su cumplementu de Flash.
+policy-HardwareAcceleration = Si su valore est "false", s'atzellerada hardware est istudada.
+policy-InstallAddonsPermission = Permite a tzertos sitos de installare cumplementos.
+policy-LegacyProfiles = Istuda sa funtzione chi rechedet unu profilu separadu pro ònnia installatzione.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ativa sa cunfiguratzione predefinida de su cumportamentu betzu de is testimòngios SameSite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Recùpera su cumportamentu betzu de is testimòngios SameSite in sitos ispetzìficos.
 
 ##
 
+policy-LocalFileLinks = Permite a sitos ispetzìficos de creare ligòngios a archìvios locales.
+policy-ManagedBookmarks = Cunfigura una lista de sinnalibros manigiados dae un'amministradore chi s'utente non podet cambiare.
+policy-ManualAppUpdateOnly = Permite isceti atualizatziones manuales e no imbies notìficas a s'utente a pitzus de is atualizatziones.
+policy-PrimaryPassword = Pedi o proibi de impreare una crae primària.
+policy-NetworkPrediction = Ativa o disativa sa preditzione de retze (carrigamentu prèviu de DNS)
+policy-NewTabPage = Ativa o disativa sa pàgina Ischeda noa
+policy-NoDefaultBookmarks = Disativa sa creatzione de sinnalibros predefinidos de { -brand-short-name } e de is sinnalibros inteligentes ("Prus bisitados", "Etichetas reghentes"). Nota: custu critèriu faghet efetu isceti si est impreadu in antis de sa prima abertura de su profilu.
+policy-OfferToSaveLogins = Fortza sa cunfiguratzione pro permìtere a { -brand-short-name } de ofèrrere de regordare credentziales e craes sarvadas. Sunt atzetados ambos valores true e false.
+policy-OfferToSaveLoginsDefault = Cunfigura su valore predefinidu pro permìtere a { -brand-short-name } de ofèrrere de regordare credentziales e craes sarvadas. Sunt atzetados ambos valores true e false.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installa mòdulos de PKCS #11.
