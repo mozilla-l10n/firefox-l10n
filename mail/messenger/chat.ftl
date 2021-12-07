@@ -22,3 +22,12 @@ chat-identity-verified =
 chat-buddy-identity-status = Confiance dans le chiffrement
 chat-buddy-identity-status-verified = Vérifiée
 chat-buddy-identity-status-unverified = Non vérifiée
+
+## Conversation invite notification box
+
+chat-conv-invite-accept =
+    .label = Accepter
+    .accesskey = A
+chat-conv-invite-deny =
+    .label = Refuser
+    .accesskey = R
