@@ -99,13 +99,20 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Rediriger
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Supprimer le message
+           *[other] Supprimer les messages sélectionnés
+        }
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Rediriger
-message-header-msg-is-flagged =
-    .title = Message suivi
+message-header-msg-flagged =
+    .title = Suivi
+    .aria-label = Suivi
 message-header-msg-not-flagged =
     .title = Message non suivi
 
@@ -144,3 +151,6 @@ repair-text-encoding-button =
 no-reply-title = Répondre non pris en charge
 no-reply-message = L’adresse de réponse ({ $email }) n’apparaît pas être une adresse surveillée. Les messages envoyés à cette adresse ne seront probablement pas lus.
 no-reply-reply-anyway-button = Répondre quand même
+
+## error messages
+
