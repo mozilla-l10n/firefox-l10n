@@ -58,6 +58,8 @@ mobile-app-links = { -brand-product-name } - veebilehitseja <a data-l10n-name="a
 lockwise-title = Lõpp paroolide unustamisele
 lockwise-title-logged-in2 = Paroolihaldus
 lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
+passwords-title-logged-in = Halda oma paroole
+passwords-header-content = { -brand-product-name } salvestab paroolid turvaliselt sinu brauseris.
 lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
 protection-report-save-passwords-button = Salvesta paroolid
     .title = Salvesta paroolid { -lockwise-brand-short-name }'i
@@ -66,6 +68,10 @@ protection-report-manage-passwords-button = Halda paroole
 lockwise-mobile-app-title = Võta oma paroolid kõikjale kaasa
 lockwise-no-logins-card-content = Kasuta { -brand-short-name }i salvestatud paroole kõigis oma seadmetes.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidile</a> ja <a data-l10n-name="lockwise-ios-inline-link">iOSile</a>
+protection-report-passwords-save-passwords-button = Salvesta paroolid
+    .title = Salvesta paroolid
+protection-report-passwords-manage-passwords-button = Halda paroole
+    .title = Halda paroole
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
