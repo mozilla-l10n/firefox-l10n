@@ -58,6 +58,8 @@ mobile-app-links = { -brand-product-name } Browser foar <a data-l10n-name="andro
 lockwise-title = Ferjit nea mear in wachtwurd
 lockwise-title-logged-in2 = Wachtwurdbehear
 lockwise-header-content = { -lockwise-brand-name } bewarret jo wachtwurden feilich yn jo browser.
+passwords-title-logged-in = Jo wachtwurden beheare
+passwords-header-content = { -brand-product-name } bewarret jo wachtwurden feilich yn jo browser.
 lockwise-header-content-logged-in = Bewarje en syngronisearje jo wachtwurden feilich op al jo apparaten.
 protection-report-save-passwords-button = Wachtwurden bewarje
     .title = Wachtwurden bewarje yn { -lockwise-brand-short-name }
@@ -66,6 +68,10 @@ protection-report-manage-passwords-button = Wachtwurden beheare
 lockwise-mobile-app-title = Nim jo wachtwurden oeral mei hinne
 lockwise-no-logins-card-content = Brûk yn { -brand-short-name } bewarre wachtwurden op elk apparaat.
 lockwise-app-links = { -lockwise-brand-name } foar <a data-l10n-name="lockwise-android-inline-link">Android</a> en <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+protection-report-passwords-save-passwords-button = Wachtwurden bewarje
+    .title = Wachtwurden bewarje
+protection-report-passwords-manage-passwords-button = Wachtwurden beheare
+    .title = Wachtwurden beheare
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
