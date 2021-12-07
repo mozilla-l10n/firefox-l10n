@@ -97,7 +97,7 @@ perftools-thread-task-controller =
 
 ##
 
-perftools-record-all-registered-threads = Ignorer les sélections ci-dessus et enregistrer tous les fils enregistrés
+perftools-record-all-registered-threads = Ignorer les sélections ci-dessus et conserver tous les threads enregistrés
 perftools-tools-threads-input-label =
     .title = Ces noms de fil d’exécution sont une liste séparée par des virgules utilisée pour activer le profilage des fils dans le profileur. Le nom ne doit correspondre que partiellement au nom du fil à inclure. Il est sensible aux espaces.
 
@@ -128,8 +128,10 @@ perftools-presets-firefox-graphics-label = Performances graphiques de Firefox
 perftools-presets-firefox-graphics-description = Réglage recommandé pour l’étude des performances graphiques de Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Réglage recommandé pour le profilage de { -brand-shorter-name }.
+perftools-presets-graphics-description = Réglage conçu pour examiner les bugs graphiques dans { -brand-shorter-name }.
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description = Réglage recommandé pour diagnostiquer les problèmes audio et vidéo.
+perftools-presets-media-description2 = Réglage conçu pour examiner les bugs audio et vidéo dans { -brand-shorter-name }.
 perftools-presets-networking-label = Réseau
 perftools-presets-custom-label = Personnalisé
 
