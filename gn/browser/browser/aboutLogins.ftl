@@ -73,6 +73,7 @@ login-intro-instructions-fxa-settings = Eho Ñemoĩporãme > Sync > Emyandy ñem
 login-intro-instructions-fxa-help = Eike <a data-l10n-name="help-link">-pe { -lockwise-brand-short-name } Pytyvõ</a> ejeykekove hag̃ua.
 about-logins-intro-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundahárape, ikatu <a data-l10n-name="import-link">ogueru { -lockwise-brand-short-name }pe</a>
 login-intro-instructions-fxa-passwords-help = Eike <a data-l10n-name="passwords-help-link">ñe’ẽñemi pytyvõrã</a> kuatiaroguépe ejeykeko hag̃ua.
+about-logins-intro-browser-only-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundahárape, ikatu <a data-l10n-name="import-link">ogueru { -brand-product-name }-pe</a>
 about-logins-intro-import2 = Ne rembiapo ñepyrũ oñeñongatu { -brand-product-name }-gui okápe, ikatu <a data-l10n-name="import-browser-link">egueru ambue kundaháragui</a> térã <a data-l10n-name="import-file-link">maranduredágui</a>
 
 ## Login
