@@ -130,6 +130,7 @@ perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Réglage recommandé pour le profilage de { -brand-shorter-name }.
 perftools-presets-media-label = Multimédia
 perftools-presets-media-description = Réglage recommandé pour diagnostiquer les problèmes audio et vidéo.
+perftools-presets-networking-label = Réseau
 perftools-presets-custom-label = Personnalisé
 
 ##
