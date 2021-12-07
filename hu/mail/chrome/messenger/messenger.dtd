@@ -941,7 +941,7 @@
 <!ENTITY showAllAppsCmdMac.label        "Mindet mutat">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Appikon beállításai…">
+<!ENTITY dockOptions.label              "Alkalmazásikon beállításai…">
 <!ENTITY writeNewMessageDock.label      "Új üzenet írása">
 <!ENTITY openAddressBookDock.label      "Címjegyzék megnyitása">
 
