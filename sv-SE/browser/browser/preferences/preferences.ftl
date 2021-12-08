@@ -541,7 +541,7 @@ search-bar-hidden =
     .label = Använd adressfältet för sökning och navigering
 search-bar-shown =
     .label = Lägg till sökfältet i verktygsfältet
-search-engine-default-header = Standard sökmotor
+search-engine-default-header = Standardsökmotor
 search-engine-default-desc-2 = Detta är din standardsökmotor i adressfältet och sökfältet. Du kan byta när som helst.
 search-engine-default-private-desc-2 = Välj en annan standardsökmotor endast för privata fönster
 search-separate-default-engine =
@@ -573,8 +573,8 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = Nyckelord
 search-restore-default =
-    .label = Återställ standard sökmotorer
-    .accesskey = D
+    .label = Återställ standardsökmotorer
+    .accesskey = t
 search-remove-engine =
     .label = Ta bort
     .accesskey = T
@@ -934,7 +934,7 @@ content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor 
 content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
 content-blocking-etp-custom-desc = Välj vilka spårare och skript som ska blockeras.
 content-blocking-etp-blocking-desc = { -brand-short-name } blockerar följande:
-content-blocking-private-windows = Spårningsinnehåll i privat fönster
+content-blocking-private-windows = Spårningsinnehåll i privata fönster
 content-blocking-cross-site-cookies-in-all-windows = Globala kakor i alla fönster (inkluderar spårningskakor)
 content-blocking-cross-site-tracking-cookies = Globala spårningskakor
 content-blocking-all-cross-site-cookies-private-windows = Globala kakor i privata fönster
@@ -995,7 +995,7 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Rättigheter
+permissions-header = Behörigheter
 permissions-location = Plats
 permissions-location-settings =
     .label = Inställningar…
