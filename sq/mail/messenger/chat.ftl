@@ -22,3 +22,18 @@ chat-identity-verified =
 chat-buddy-identity-status = Besueshmëri Fshehtëzimi
 chat-buddy-identity-status-verified = E verifikuar
 chat-buddy-identity-status-unverified = E paverifikuar
+
+## Conversation invite notification box
+
+# This string appears in a notification bar at the top of the Contacts window
+# when someone invited the user to a multi user chat conversation, to request
+# the user to confirm they want to join the chat.
+# Variables:
+#   $conversation (String) - Name of the conversation the user is invited to.
+chat-conv-invite-label = Jeni ftuar të bisedoni te { $conversation }
+chat-conv-invite-accept =
+    .label = Pranoje
+    .accesskey = P
+chat-conv-invite-deny =
+    .label = Hidhe tej
+    .accesskey = H
