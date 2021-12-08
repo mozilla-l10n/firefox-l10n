@@ -139,7 +139,7 @@ downloads-cmd-choose-open-panel =
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
-    .value = Hiện thêm thông tin
+    .value = Hiển thị thêm thông tin
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =

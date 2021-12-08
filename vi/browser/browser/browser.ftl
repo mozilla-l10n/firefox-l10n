@@ -555,7 +555,7 @@ bookmarks-manage-bookmarks =
     .label = Quản lý dấu trang
 bookmarks-recent-bookmarks-panel-subheader = Dấu trang gần đây
 bookmarks-toolbar-chevron =
-    .tooltiptext = Hiện thêm các dấu trang
+    .tooltiptext = Hiển thị thêm dấu trang
 bookmarks-sidebar-content =
     .aria-label = Dấu trang
 bookmarks-menu-button =
@@ -724,7 +724,7 @@ popups-infobar-block =
 ##
 
 popups-infobar-dont-show-message =
-    .label = Không hiện thông báo này khi có cửa sổ bật lên bị chặn
+    .label = Không hiển thị thông báo này khi có cửa sổ bật lên bị chặn
     .accesskey = D
 edit-popup-settings =
     .label = Quản lý cài đặt cửa sổ bật lên…

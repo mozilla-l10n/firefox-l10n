@@ -21,12 +21,10 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Điều hướng">
-
 <!ENTITY fullScreenCmd.label "Toàn màn hình">
 
 <!ENTITY pictureInPictureHideToggle.label "Ẩn nút hình trong hình">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -78,7 +76,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Hiển thị các thẻ từ thiết bị này">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Hiện tất cả">
+<!ENTITY appMenuRemoteTabs.showAll.label "Hiển thị tất cả">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Hiển thị các thẻ từ thiết bị này">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -124,7 +122,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
 
 <!ENTITY allowPopups.accesskey "p">
-
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -142,9 +139,7 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Thẻ trình duyệt">
 
-
 <!ENTITY uiTour.infoPanel.close "Đóng">
-
 
 <!ENTITY panicButton.thankyou.msg1                "Lịch sử gần đây đã bị xóa.">
 <!ENTITY panicButton.thankyou.msg2                "Duyệt web an toàn!">
