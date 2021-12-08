@@ -186,7 +186,7 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-description = Cài đặt trước được đề xuất cho hầu hết gỡ lỗi ứng dụng web, với chi phí thấp.
 profiler-popup-presets-web-developer-label =
-    .label = Web Developer
+    .label = Nhà phát triển Web
 profiler-popup-presets-firefox-platform-description = Cấu hình được đề xuất để gỡ lỗi nền tảng Firefox nội bộ.
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox Platform
