@@ -105,6 +105,9 @@ mail-context-delete-messages =
             [one] Supprimer le message
            *[other] Supprimer les messages sélectionnés
         }
+context-menu-decrypt-to-folder =
+    .label = Copier comme déchiffré vers
+    .accesskey = C
 
 ## Message header pane
 
@@ -154,3 +157,4 @@ no-reply-reply-anyway-button = Répondre quand même
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } des { $total } messages n’ont pas pu être déchiffrés et n’ont pas été copiés.
