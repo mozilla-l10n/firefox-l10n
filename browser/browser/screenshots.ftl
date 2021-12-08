@@ -23,6 +23,8 @@ screenshots-copy-button-title =
   .title = Copia lo screenshot negli appunti
 screenshots-cancel-button-title =
   .title = Annulla
+screenshots-retry-button-title =
+  .title = Riprova cattura
 
 screenshots-meta-key =
     { PLATFORM() ->
