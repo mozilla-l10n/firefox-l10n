@@ -149,8 +149,8 @@ mr1-onboarding-import-primary-button-label-attribution = Nhập từ { $previous
 mr1-onboarding-import-primary-button-label-no-attribution = Nhập từ trình duyệt trước
 mr1-onboarding-import-secondary-button-label = Không phải bây giờ
 mr2-onboarding-colorway-header = Cuộc sống đầy màu sắc
-mr2-onboarding-colorway-subtitle = Màu sắc mới sống động. Có sẵn trong một thời gian giới hạn.
-mr2-onboarding-colorway-primary-button-label = Lưu màu
+mr2-onboarding-colorway-subtitle = Các phối màu mới sống động. Có sẵn trong một thời gian giới hạn.
+mr2-onboarding-colorway-primary-button-label = Lưu phối màu
 mr2-onboarding-colorway-secondary-button-label = Không phải bây giờ
 mr2-onboarding-colorway-label-soft = Mềm
 mr2-onboarding-colorway-label-balanced = Cân bằng
@@ -269,21 +269,21 @@ mr1-onboarding-theme-description-alpenglow =
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
-    .title = Sử dụng màu này.
+    .title = Sử dụng phối màu này.
 # Selector description for non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
-    .aria-description = Sử dụng màu này.
+    .aria-description = Sử dụng phối màu này.
 # Tooltip displayed on hover of colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
-    .title = Khám phá các màu { $colorwayName }.
+    .title = Khám phá các phối màu { $colorwayName }.
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
-    .aria-description = Khám phá các màu { $colorwayName }.
+    .aria-description = Khám phá các phối màu { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Khám phá các chủ đề mặc định.

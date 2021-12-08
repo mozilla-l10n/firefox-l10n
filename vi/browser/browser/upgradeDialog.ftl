@@ -69,22 +69,23 @@ upgrade-dialog-theme-system = Chủ đề hệ thống
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Cuộc sống đầy màu sắc
-upgrade-dialog-start-subtitle = Màu sắc mới sống động. Có sẵn trong một thời gian giới hạn.
-upgrade-dialog-start-primary-button = Khám phá các màu
+upgrade-dialog-start-subtitle = Các phối màu mới sống động. Có sẵn trong một thời gian giới hạn.
+upgrade-dialog-start-primary-button = Khám phá các phối màu
 upgrade-dialog-start-secondary-button = Không phải bây giờ
 
 ## Colorway screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Chọn bảng màu của bạn
+# This is shown to users with a custom home page, so they can switch to default.
 upgrade-dialog-colorway-home-checkbox = Chuyển sang Trang chủ Firefox với nền theo chủ đề
-upgrade-dialog-colorway-primary-button = Lưu màu
+upgrade-dialog-colorway-primary-button = Lưu phối màu
 upgrade-dialog-colorway-secondary-button = Giữ chủ đề trước đó
 upgrade-dialog-colorway-theme-tooltip =
     .title = Khám phá các chủ đề mặc định
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
 upgrade-dialog-colorway-colorway-tooltip =
-    .title = Khám phá các màu { $colorwayName }
+    .title = Khám phá các phối màu { $colorwayName }
 upgrade-dialog-colorway-default-theme = Mặc định
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Tự động
