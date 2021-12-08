@@ -83,6 +83,9 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird je našel { $count } ključev, ki jih lahko uvozi.
     }
 openpgp-import-key-list-description = Potrdite, kateri ključi naj se obravnavajo kot vaši osebni ključi. Kot osebne ključe uporabljajte samo ključe, ki ste jih ustvarili sami in ki izkazujejo vašo identiteto. To možnost lahko pozneje spremenite v pogovornem oknu Lastnosti ključa.
+openpgp-passphrase-prompt-title = Zahtevano je geslo
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Vnesite geslo za odklepanje naslednjega ključa: { $key }
 openpgp-import-key-button =
     .label = Izberi datoteko za uvoz …
     .accesskey = I
