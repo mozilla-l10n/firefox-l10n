@@ -72,6 +72,8 @@ login-intro-instructions-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } ju
 login-intro-instructions-fxa-settings = Kaloni te Rregullime > Njëkohësim > Aktivizoni njëkohësim… Përzgjidhni kutizën Kredenciale Hyrjesh dhe fjalëkalime.
 login-intro-instructions-fxa-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="help-link">Asistencë { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Nëse kredencialet tuaj për hyrje janë ruajtur në një shfletues tjetër, mund t’i <a data-l10n-name="import-link">importoni ata te { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="passwords-help-link">asistencë për fjalëkalime</a>.
+about-logins-intro-browser-only-import = Nëse kredencialet tuaj për hyrje janë ruajtur në një shfletues tjetër, mund t’i <a data-l10n-name="import-link">importoni ata te { -brand-product-name }</a>
 about-logins-intro-import2 = Nëse kredencialet tuaja për hyrje janë ruajtur jashtë { -brand-product-name }-it, mund t’i <a data-l10n-name="import-browser-link">importoni që nga një shfletues tjetër</a> ose <a data-l10n-name="import-file-link">prej një kartele</a>
 
 ## Login
