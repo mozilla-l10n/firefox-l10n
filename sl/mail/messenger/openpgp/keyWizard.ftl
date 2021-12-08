@@ -72,6 +72,8 @@ openpgp-keygen-abort-title = Prekini ustvarjanje ključev?
 ## Import Key section
 
 openpgp-import-key-title = Uvozi obstoječ osebni ključ OpenPGP
+openpgp-import-key-description = Lahko uvozite osebne ključe, ki so bili ustvarjeni z drugo programsko opremo OpenPGP.
+openpgp-import-key-info = Drugi programi lahko osebni ključ imenujejo drugače, na primer lastni ključ, skrivni ključ, zasebni ključ ali par ključev.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
     { $count ->
@@ -80,8 +82,9 @@ openpgp-import-key-list-amount =
         [few] Thunderbird je našel { $count } ključe, ki jih lahko uvozi.
        *[other] Thunderbird je našel { $count } ključev, ki jih lahko uvozi.
     }
+openpgp-import-key-list-description = Potrdite, kateri ključi naj se obravnavajo kot vaši osebni ključi. Kot osebne ključe uporabljajte samo ključe, ki ste jih ustvarili sami in ki izkazujejo vašo identiteto. To možnost lahko pozneje spremenite v pogovornem oknu Lastnosti ključa.
 openpgp-import-key-button =
-    .label = Izberite datoteko za uvoz …
+    .label = Izberi datoteko za uvoz …
     .accesskey = I
 import-key-file = Uvozi datoteko ključa OpenPGP
 import-key-personal-checkbox =
