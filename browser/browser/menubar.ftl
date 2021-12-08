@@ -196,7 +196,7 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = Hiện tất cả các thẻ
+    .label = Hiển thị tất cả các thẻ
     .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = Chuyển hướng trang

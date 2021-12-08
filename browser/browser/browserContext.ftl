@@ -196,7 +196,7 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Hiện các điều khiển
+    .label = Hiển thị điều khiển
     .accesskey = C
 main-context-menu-media-hide-controls =
     .label = Ẩn các điều khiển
@@ -308,7 +308,7 @@ main-context-menu-frame =
     .label = Khung này
     .accesskey = h
 main-context-menu-frame-show-this =
-    .label = Chỉ hiện khung này
+    .label = Chỉ hiển thị khung này
     .accesskey = S
 main-context-menu-frame-open-tab =
     .label = Mở khung trong thẻ mới
