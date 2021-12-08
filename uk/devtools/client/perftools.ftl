@@ -136,6 +136,8 @@ perftools-presets-graphics-description = Налаштування для вия�
 perftools-presets-media-label = Медіа
 perftools-presets-media-description = Рекомендовані попередні налаштування для визначення проблем зі звуком та відео.
 perftools-presets-media-description2 = Налаштування для виявлення помилок аудіо та відео в { -brand-shorter-name }.
+perftools-presets-networking-label = Мережа
+perftools-presets-networking-description = Налаштування для виявлення помилок мережі в { -brand-shorter-name }.
 perftools-presets-custom-label = Власні
 
 ##
