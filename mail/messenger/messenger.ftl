@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Ridrejtoje
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Fshije mesazhin
+           *[other] Fshi mesazhet e përzgjedhur
+        }
+context-menu-decrypt-to-folder =
+    .label = Kopjoje Si të Shfshehtëzuar Te
+    .accesskey = K
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Ridrejtoje
-message-header-msg-is-flagged =
-    .title = Mesazh me yllkë
+message-header-msg-flagged =
+    .title = Me yllkë
+    .aria-label = Me yllkë
 message-header-msg-not-flagged =
     .title = Mesazh pa yllkë
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = Nuk Mbulon Përgjigje
 no-reply-message = Adresa e përgjigjes ({ $email }) s’duket të jetë një adresë e mbikëqyrur. Mesazhet te kjo adresë ka gjasa të mos lexohen nga ndonjë.
 no-reply-reply-anyway-button = Përgjigjuni, Sido Qoftë
+
+## error messages
+
+decrypt-and-copy-failures = { $failures } nga { $total } mesazhe s’u shfshehtëzuan dot dhe nuk u kopjuan.
