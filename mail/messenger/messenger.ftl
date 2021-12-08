@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Reindirizza
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Elimina messaggio
+           *[other] Elimina i messaggi selezionati
+        }
+context-menu-decrypt-to-folder =
+    .label = Copia come decrittato in
+    .accesskey = d
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Reindirizza
-message-header-msg-is-flagged =
-    .title = Messaggio contrassegnato come speciale
+message-header-msg-flagged =
+    .title = Speciale
+    .aria-label = Speciale
 message-header-msg-not-flagged =
     .title = Messaggio non contrassegnato come speciale
 
@@ -144,3 +154,7 @@ repair-text-encoding-button =
 no-reply-title = Risposta non supportata
 no-reply-message = Sembra che l’indirizzo di risposta ({ $email }) non venga controllato. I messaggi inviati a questo indirizzo potrebbero non essere letti.
 no-reply-reply-anyway-button = Rispondi comunque
+
+## error messages
+
+decrypt-and-copy-failures = Non è stato possibile decrittare e copiare { $failures } di { $total } messaggi.
