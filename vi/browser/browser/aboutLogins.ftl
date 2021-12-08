@@ -71,6 +71,8 @@ login-intro-instructions-fxa = Tạo hoặc đăng nhập vào { -fxaccount-bran
 login-intro-instructions-fxa-settings = Đi đến Cài đặt > Đồng bộ hóa > Bật đồng bộ hóa… Chọn hộp kiểm Thông tin đăng nhập và mật khẩu.
 login-intro-instructions-fxa-help = Truy cập <a data-l10n-name="help-link">hỗ trợ của { -lockwise-brand-short-name }</a> để được trợ giúp.
 about-logins-intro-import = Nếu thông tin đăng nhập của bạn được lưu trong một trình duyệt khác, bạn có thể <a data-l10n-name="import-link">nhập chúng vào { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Truy cập <a data-l10n-name="passwords-help-link">hỗ trợ mật khẩu</a> để được trợ giúp thêm.
+about-logins-intro-browser-only-import = Nếu thông tin đăng nhập của bạn được lưu trong một trình duyệt khác, bạn có thể <a data-l10n-name="import-link">nhập chúng vào { -brand-product-name }</a>
 about-logins-intro-import2 = Nếu thông tin đăng nhập của bạn được lưu bên ngoài { -brand-product-name }, bạn có thể <a data-l10n-name="import-browser-link">nhập chúng từ trình duyệt khác</a> hoặc <a data-l10n-name="import-file-link">từ một tập tin</a>
 
 ## Login
