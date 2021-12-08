@@ -337,6 +337,14 @@ addon-detail-private-browsing-disallow = keelatud
 addon-badge-recommended2 =
     .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
     .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Mozilla loodud ametlik laiendus. Vastab turva- ja jõudlusstandarditele
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -345,6 +353,9 @@ recent-updates-heading = Hiljutised uuendused
 release-notes-loading = Laadimine…
 release-notes-error = Vabandust, väljalasketeate laadimisel esines viga.
 addon-permissions-empty = See laiendus ei nõua eriõigusi
+addon-permissions-required = Põhifunktsionaalsuse jaoks vajalikud õigused:
+addon-permissions-optional = Valikulised õigused täiendava funktsionaalsuse jaoks
+addon-permissions-learnmore = Rohkem teavet õiguste kohta
 recommended-extensions-heading = Soovitatavad laiendused
 recommended-themes-heading = Soovitatavad teemad
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
@@ -358,8 +369,10 @@ theme-heading = Teemade haldamine
 plugin-heading = Pluginate haldamine
 dictionary-heading = Sõnastike haldamine
 locale-heading = Keelte haldamine
+updates-heading = Uuenduste haldamine
 discover-heading = Isikupärasta oma { -brand-short-name }
 shortcuts-heading = Halda laienduste kiirklahve
+default-heading-search-label = Otsi rohkem lisasid
 addons-heading-search-input =
     .placeholder = Otsi saidilt addons.mozilla.org
 addon-page-options-button =
