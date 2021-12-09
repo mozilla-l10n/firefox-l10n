@@ -50,3 +50,5 @@ account-provisioner-domain-results-caption = Bạn có thể thử tìm kiếm n
 account-provisioner-free-account = Miễn phí
 account-provision-price-per-year = { $price } mỗi năm
 account-provisioner-all-results-button = Hiển thị tất cả kết quả
+account-provisioner-open-in-tab-img =
+    .title = Mở trong một thẻ mới
