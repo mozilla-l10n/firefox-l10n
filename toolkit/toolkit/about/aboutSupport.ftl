@@ -364,6 +364,10 @@ support-printing-prefs-value = Väärtus
 
 ## Normandy sections
 
-support-remote-experiments-title = Kaugeksperimendid
+support-remote-experiments-title = Kauguuringud
 support-remote-experiments-name = Nimi
-support-remote-experiments-branch = Eksperimendi haru
+support-remote-experiments-branch = Uuringu haru
+support-remote-experiments-see-about-studies = Rohkema teabe saamiseks vaata <a data-l10n-name="support-about-studies-link">about:studies</a>. Sisaldab ka infot, kuidas keelata üksik eksperiment või keelata { -brand-short-name }il tulevikus seda tüüpi eksperimentides osalemine.
+support-remote-features-title = Kaugfunktsionaalsused
+support-remote-features-name = Nimi
+support-remote-features-status = Olek
