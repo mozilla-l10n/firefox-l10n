@@ -69,6 +69,9 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Chuyển hướng
     .accesskey = D
+menu-file-save-as-file =
+    .label = Tập tin…
+    .accesskey = F
 
 ## AppMenu
 
@@ -76,6 +79,10 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Tùy chỉnh
+appmenu-save-as-file =
+    .label = Tập tin…
+appmenu-settings =
+    .label = Cài đặt
 appmenu-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
 appmenu-help-enter-troubleshoot-mode =
@@ -91,11 +98,25 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Chuyển hướng
+mail-context-delete-messages =
+    .label =
+        { $count ->
+           *[other] Xóa các thư đã chọn
+        }
+context-menu-decrypt-to-folder =
+    .label = Sao chép dưới dạng giải mã thành
+    .accesskey = y
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Chuyển hướng
+message-header-msg-flagged =
+    .title = Gắn sao
+    .aria-label = Gắn sao
+message-header-msg-not-flagged =
+    .title = Không gắn sao
+    .aria-label = Không gắn sao
 
 ## Action Button Context Menu
 
@@ -132,3 +153,7 @@ repair-text-encoding-button =
 no-reply-title = Không hỗ trợ trả lời
 no-reply-message = Địa chỉ trả lời ({ $email }) dường như không phải là địa chỉ được giám sát. Thư đến địa chỉ này có thể sẽ không được đọc bởi bất kỳ ai.
 no-reply-reply-anyway-button = Vẫn trả lời
+
+## error messages
+
+decrypt-and-copy-failures = Không thể giải mã { $failures } trong tổng số { $total } thư.

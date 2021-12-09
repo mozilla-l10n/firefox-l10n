@@ -128,3 +128,13 @@ about-addressbook-details-work-address-header = Địa chỉ cơ quan
 about-addressbook-details-other-info-header = Thông tin khác
 about-addressbook-prompt-to-save-title = Lưu thay đổi?
 about-addressbook-prompt-to-save = Bạn có muốn lưu các thay đổi của bạn?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Thả hoặc dán ảnh vào đây hoặc nhấp để chọn tập tin.
+about-addressbook-photo-drop-loading = Đang tải ảnh…
+about-addressbook-photo-drop-error = Không tải được ảnh.
+about-addressbook-photo-filepicker-title = Chọn một tập tin hình ảnh
+about-addressbook-photo-discard = Hủy ảnh hiện có
+about-addressbook-photo-cancel = Hủy bỏ
+about-addressbook-photo-save = Lưu
