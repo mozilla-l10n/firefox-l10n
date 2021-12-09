@@ -183,6 +183,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Podrobnosti o stahování
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Soubor nebyl stažen.
+        [few] { $num } soubory nebyly staženy.
+       *[other] { $num } souborů nebylo staženo.
+    }
+downloads-blocked-from-url = Stahování ze stránky { $url } bylo zablokováno.
+downloads-blocked-download-detailed-info = Stránka { $url } se pokusila automaticky stáhnout několik souborů. Může se jednat o chybu na stránce, ale také o její záměr na vaše zařízení uložit nevyžádané soubory.
+
+##
+
 downloads-clear-downloads-button =
     .label = Vymazat seznam
     .tooltiptext = Vymaže seznam dokončených, zrušených i neúspěšných stahování

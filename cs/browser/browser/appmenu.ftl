@@ -104,7 +104,13 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Seznam panelů z ostatních zařízení
 appmenu-remote-tabs-unverified = Je potřeba ověřit váš účet.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovat
-appmenuitem-fxa-sign-in = Přihlásit se k aplikaci { -brand-product-name }
+appmenuitem-fxa-sign-in =
+    { -brand-product-name.gender ->
+        [masculine] Přihlásit se k { -brand-product-name(case: "dat") }
+        [feminine] Přihlásit se k { -brand-product-name(case: "dat") }
+        [neuter] Přihlásit se k { -brand-product-name(case: "dat") }
+       *[other] Přihlásit se k aplikaci { -brand-product-name }
+    }
 appmenuitem-fxa-manage-account = Správa účtu
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
@@ -230,6 +236,15 @@ profiler-popup-presets-media-description2 =
     }.
 profiler-popup-presets-media-label =
     .label = Média
+profiler-popup-presets-networking-description =
+    { -brand-shorter-name.gender ->
+        [masculine] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
+        [feminine] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
+        [neuter] Doporučené nastavení pro ladění síťových problémů v { -brand-shorter-name(case: "loc") }.
+       *[other] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
+    }
+profiler-popup-presets-networking-label =
+    .label = Síť
 profiler-popup-presets-custom-label =
     .label = Vlastní
 
