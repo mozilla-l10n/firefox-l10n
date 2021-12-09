@@ -307,6 +307,8 @@ sandbox-proc-type-data-decoder = data decoder
 startup-cache-title = Käivitamise vahemälu
 startup-cache-disk-cache-path = Kettal oleva vahemälu asukoht
 startup-cache-ignore-disk-cache = Ketta vahemälu ignoreeritakse
+startup-cache-found-disk-cache-on-init = Käivitumisel leiti kettal olev vahemälu
+startup-cache-wrote-to-disk-cache = Kirjutati kettal olevasse vahemällu
 launcher-process-status-0 = lubatud
 launcher-process-status-1 = ebaõnnestumise tõttu keelatud
 launcher-process-status-2 = jõuga keelatud
@@ -315,6 +317,21 @@ launcher-process-status-unknown = tundmatu olek
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = eksperimendi poolt keelatud
+fission-status-experiment-treatment = eksperimendi poolt lubatud
+fission-status-disabled-by-e10s-env = keskkonnamuutuja poolt keelatud
+fission-status-enabled-by-env = keskkonnamuutuja poolt lubatud
+fission-status-disabled-by-safe-mode = ohutu režiimi poolt keelatud
+fission-status-enabled-by-default = vaikimisi lubatud
+fission-status-disabled-by-default = vaikimisi keelatud
+fission-status-enabled-by-user-pref = kasutaja poolt lubatud
+fission-status-disabled-by-user-pref = kasutaja poolt keelatud
+fission-status-disabled-by-e10s-other = E10s poolt keelatud
+fission-status-enabled-by-rollout = lubatud etapiviisilise levitamise tõttu
 async-pan-zoom = Asünkroonne suurendamine
 apz-none = puudub
 wheel-enabled = rulliku sisend on lubatud
@@ -322,6 +339,7 @@ touch-enabled = puutetundlik sisend on lubatud
 drag-enabled = scrollbar drag enabled
 keyboard-enabled = klaviatuur on lubatud
 autoscroll-enabled = automaatne kerimine on lubatud
+zooming-enabled = sujuv suurendamine on lubatud
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -337,6 +355,15 @@ policies-error = viga
 
 ## Printing section
 
+support-printing-title = Printimine
+support-printing-troubleshoot = Probleemide lahendamine
+support-printing-clear-settings-button = Kustuta salvestatud printimise sätted
+support-printing-modified-settings = Muudetud printimise sätted
+support-printing-prefs-name = Nimi
+support-printing-prefs-value = Väärtus
 
 ## Normandy sections
 
+support-remote-experiments-title = Kaugeksperimendid
+support-remote-experiments-name = Nimi
+support-remote-experiments-branch = Eksperimendi haru
