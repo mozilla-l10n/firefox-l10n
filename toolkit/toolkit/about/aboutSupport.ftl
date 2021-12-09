@@ -82,6 +82,11 @@ show-dir-label =
        *[other] Ava kaust
     }
 environment-variables-title = Keskkonnamuutujad
+environment-variables-name = Nimi
+environment-variables-value = Väärtus
+experimental-features-title = Eksperimendid
+experimental-features-name = Nimi
+experimental-features-value = Väärtus
 modified-key-prefs-title = Olulised muudetud eelistused
 modified-prefs-name = Nimi
 modified-prefs-value = Väärtus
@@ -101,6 +106,8 @@ graphics-crash-guards-title = Vigade vältimise tõttu keelatud funktsionaalsus
 graphics-workarounds-title = Hädalahendused
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Graafilise kasutajaliidese protokoll
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Töölauakeskkond
 place-database-title = Asukohtade andmebaas
 place-database-integrity = Terviklus
 place-database-verify-integrity = Verifitseeri terviklus
@@ -121,12 +128,20 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Protsessi tüüp
 sandbox-sys-call-number = Süsteemikutse
 sandbox-sys-call-args = Argumendid
+troubleshoot-mode-title = Diagnoosi probleeme
+restart-in-troubleshoot-mode-label = Probleemide lahendamise režiim…
+clear-startup-cache-title = Proovi tühjendada käivitusvahemälu
+clear-startup-cache-label = Tühjenda käivitusvahemälu…
+startup-cache-dialog-title2 = Kas käivitusvahemälu tühjendamiseks taaskäivitada { -brand-short-name }?
+startup-cache-dialog-body2 = See ei muuda sinu sätteid ega eemalda laiendusi.
+restart-button-label = Taaskäivita
 
 ## Media titles
 
 audio-backend = Helisüsteem
 max-audio-channels = Maksimaalne arv kanaleid
 sample-rate = Eelistatud diskreetimissagedus
+roundtrip-latency = Edasi-tagasi latentsus (standardhälve)
 media-title = Meedia
 media-output-devices-title = Väljundseadmed
 media-input-devices-title = Sisendseadmed
@@ -164,6 +179,9 @@ intl-regional-prefs = Regionaalsed sätted
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Remote Debugging (Chromium Protocol)
+remote-debugging-accepting-connections = Ühenduste vastuvõtmine
+remote-debugging-url = URL
 
 ##
 
@@ -254,10 +272,14 @@ webgl2-version = WebGL 2 draiveri versioon
 webgl2-driver-extensions = WebGL 2 draiveri laiendused
 webgl2-extensions = WebGL 2 laiendused
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Teadaolevate probleemide tõttu blokitud: <a data-l10n-name="bug-link">viga { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Teadaoleva vea tõttu blokitud; veakood: { $failureCode }
 d3d11layers-crash-guard = D3D11 komposiitor
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = VMF VPX video dekodeerija
 reset-on-next-restart = Lähtesta järgmisel taaskäivitusel
 gpu-process-kill-button = Peata GPU protsessi töö
 gpu-device-reset = Seadme lähtestamine
@@ -277,10 +299,14 @@ can-sandbox-content = Sisu töötlemine aedikus
 can-sandbox-media = Meediapluginate käivitamine aedikus
 content-sandbox-level = Aedikus sisu töötleva protsessi tase
 effective-content-sandbox-level = Sisuprotsessi aedikustamise tase
+content-win32k-lockdown-state = Win32k sisuprotsessi lukustusolek
 sandbox-proc-type-content = sisu
 sandbox-proc-type-file = faili sisu
 sandbox-proc-type-media-plugin = meediaplugin
 sandbox-proc-type-data-decoder = data decoder
+startup-cache-title = Käivitamise vahemälu
+startup-cache-disk-cache-path = Kettal oleva vahemälu asukoht
+startup-cache-ignore-disk-cache = Ketta vahemälu ignoreeritakse
 launcher-process-status-0 = lubatud
 launcher-process-status-1 = ebaõnnestumise tõttu keelatud
 launcher-process-status-2 = jõuga keelatud
