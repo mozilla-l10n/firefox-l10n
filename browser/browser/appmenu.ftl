@@ -204,6 +204,8 @@ profiler-popup-presets-graphics-label =
     .label = Grafic
 profiler-popup-presets-media-label =
     .label = Multimèdia
+profiler-popup-presets-networking-label =
+    .label = Ret
 profiler-popup-presets-custom-label =
     .label = Personalizats
 

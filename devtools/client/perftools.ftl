@@ -131,6 +131,7 @@ perftools-presets-firefox-graphics-description = Reglatge recomandat pels estudi
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-media-label = Multimèdia
 perftools-presets-media-description = Reglatge recomandat pel diagnosticar los problèmas àudio e vidèo.
+perftools-presets-networking-label = Ret
 perftools-presets-custom-label = Personalizat
 
 ##
