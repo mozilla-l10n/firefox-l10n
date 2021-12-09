@@ -21,3 +21,4 @@ count-new-messages-radio =
     .label = Conteo de mensajes nuevos
     .accesskey = n
 notification-settings-info = Puedes deshabilitar la insignia en la vista de notificaciones de las preferencias del sistema.
+notification-settings-info2 = Puedes deshabilitar la insignia en el panel de notificaciones de los ajustes del sistema.
