@@ -4,6 +4,8 @@
 
 account-settings-title = Cài đặt xác thực
 account-channel-title = Kênh mặc định
+chat-autologin =
+    .label = Đăng nhập khi khởi động
 chat-encryption-generic = Chung
 chat-encryption-log =
     .label = Bao gồm các thư được mã hóa đầu cuối trong nhật ký hội thoại
