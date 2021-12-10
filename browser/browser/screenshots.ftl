@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Schermafbeelding naar klembord kopiëren
 screenshots-cancel-button-title =
     .title = Annuleren
+screenshots-retry-button-title =
+    .title = Schermafdruk opnieuw proberen
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
