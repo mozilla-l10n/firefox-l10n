@@ -951,6 +951,8 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Eipuru ore ñemigua rembiapoite imbaretevéva ko’ág̃a peve
     .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Ñemo’ãmbaite kookie rovake oreko kookie tenda reimehápe g̃uarã, avei tapykuehoha ndojepurukuaái ohapykueho hag̃ua tendakuéra pa’ũme.
 content-blocking-etp-standard-tcp-rollout-learn-more = Kuaave
 content-blocking-warning-title = ¡Ema’ẽmi!
 content-blocking-and-isolating-etp-warning-description = Ejokóvo tapykuehoha ha kookie ñemomombyry ikatu ombyai peteĩva tembiapoite. Emyanyhẽjey kuatiarogue tapykuehoha ndive emyanyhẽ hag̃ua opaite tetepy.

@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Emboasa mba’erechaha japyhypyre kuatiajokohápe
 screenshots-cancel-button-title =
     .title = Heja
+screenshots-retry-button-title =
+    .title = Eha’ãjey mba’erechaha jejapyhy
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
