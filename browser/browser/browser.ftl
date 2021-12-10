@@ -589,7 +589,7 @@ bookmarks-tools-menu-button-visibility =
            *[other] 添加书签菜单到工具栏
         }
 bookmarks-search =
-    .label = 在书签中搜索
+    .label = 搜索书签
 bookmarks-tools =
     .label = 书签工具
 bookmarks-bookmark-edit-panel =
