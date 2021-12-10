@@ -2,18 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title.
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Raport - { $addon-name }
 abuse-report-title-extension = Raporteeri sellest laiendusest { -vendor-short-name }le
 abuse-report-title-theme = Raporteeri sellest teemast { -vendor-short-name }le
 abuse-report-subtitle = Milles on probleem?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = arendajalt <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Pole kindel, millist probleemikirjeldust valida?
     <a data-l10n-name="learnmore-link">Rohkem teavet laienduste ja teemade raporteerimise kohta</a>
-
 abuse-report-submit-description = Kirjelda probleemi (valikuline)
 abuse-report-textarea =
     .placeholder = Meil on lihtsam probleemiga tegeleda, kui meil on olemas rohkem üksikasju. Palun kirjelda oma kogemust. Täname, et aitad meil veebi tervemana hoida.
@@ -25,12 +28,6 @@ abuse-report-cancel-button = Loobu
 abuse-report-next-button = Edasi
 abuse-report-goback-button = Mine tagasi
 abuse-report-submit-button = Saada
-
-## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
 
 ## Message bars descriptions.
 ##
@@ -57,23 +54,18 @@ abuse-report-messagebar-action-cancel = Loobu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason-v2 = See kahjustas minu arvutit või seadis ohtu minu andmed
 abuse-report-damage-example = Näide: paigaldas pahavara või varastas andmeid
-
+abuse-report-spam-reason-v2 = See sisaldab rämpsposti või lisab soovimatut reklaami
 abuse-report-spam-example = Näide: lisab veebilehtedele reklaame
-
+abuse-report-settings-reason-v2 = See muutis minu otsingumootorit, avalehte või uue kaardi lehte ilma mind informeerimata või luba küsimata
 abuse-report-settings-suggestions = Enne laiendusest raporteerimist võid proovida muuta oma sätteid:
 abuse-report-settings-suggestions-search = Muuda oma vaikimisi otsingu sätteid
 abuse-report-settings-suggestions-homepage = Muuda oma avalehte ja uue kaardi lehte
-
 abuse-report-deceptive-example = Näide: eksitav kirjeldus või pildid
-
 abuse-report-broken-example = Näide: funktsionaalsused on aeglased, raskesti kasutatavad või ei tööta; mõned veebilehed ei laadi või näevad välja ebatavalised
 abuse-report-broken-suggestions-extension = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle laienduse arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta laienduse veebilehte</a>.
 abuse-report-broken-suggestions-theme = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle teema arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta teema veebilehte</a>.
-
 abuse-report-policy-suggestions = Märkus: autoriõigusi ja kaubamärke puudutavad probleemid tuleb raporteerida eraldi. Kasuta probleemist raporteerimiseks <a data-l10n-name="report-infringement-link">neid juhiseid</a>.
-
 abuse-report-unwanted-example = Näide: rakendus paigaldas selle lisa ilma luba küsimata
-
 abuse-report-other-reason = Midagi muud
-
