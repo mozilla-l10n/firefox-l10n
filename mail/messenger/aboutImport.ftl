@@ -7,7 +7,7 @@ import-page-title = 导入
 ## Header
 
 import-from-app = 从应用程序导入
-import-from-app-desc = 选择从以下位置导入账户、通讯录、日历和其他数据：
+import-from-app-desc = 选择从下列位置导入账户、通讯录、日历和其他数据：
 import-address-book = 导入通讯录文件
 import-calendar = 导入日历文件
 
@@ -22,9 +22,11 @@ button-continue = 继续
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 从 { $app } 导入
+profiles-pane-desc = 请选择要从何处导入数据
 profile-file-picker-dir = 选择配置文件夹
 profile-file-picker-zip = 选择 ZIP 文件（小于 2GB）
 items-pane-title = 选择要导入的项目
+items-pane-desc = 从下列位置导入
 items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
 items-pane-checkbox-calendars = 日历
