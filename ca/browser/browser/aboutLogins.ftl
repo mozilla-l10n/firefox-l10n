@@ -72,6 +72,8 @@ login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi l
 login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització... Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
 login-intro-instructions-fxa-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtenir més ajuda.
 about-logins-intro-import = Si els vostres inicis de sessió estan desats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Visiteu l'<a data-l10n-name="passwords-help-link">assistència de contrasenyes</a> per a obtenir més ajuda.
+about-logins-intro-browser-only-import = Si teniu inicis de sessió desats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -brand-product-name }</a>.
 about-logins-intro-import2 = Si els vostres inicis de sessió estan desats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d'un altre navegador</a> o <a data-l10n-name="import-file-link">d'un fitxer</a>
 
 ## Login
