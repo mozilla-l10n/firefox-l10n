@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Αντιγραφή στιγμιότυπου στο πρόχειρο
 screenshots-cancel-button-title =
     .title = Ακύρωση
+screenshots-retry-button-title =
+    .title = Επανάληψη στιγμιότυπου
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
