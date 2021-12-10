@@ -21,13 +21,9 @@
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox
 
-# LOCALIZATION NOTE (firefox_help):
-# link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help Yardım ve Eğiticiler
-
 # LOCALIZATION NOTE (firefox_get_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_get_help Yardım alın
+#define firefox_get_help Yardım Alın
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
