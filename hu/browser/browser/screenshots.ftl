@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Képernyőkép másolása a vágólapra
 screenshots-cancel-button-title =
     .title = Mégse
+screenshots-retry-button-title =
+    .title = Képernyőkép újbóli elkészítése
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
