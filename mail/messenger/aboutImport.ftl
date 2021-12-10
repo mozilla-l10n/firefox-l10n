@@ -6,9 +6,15 @@ import-page-title = Uvozi
 
 ## Header
 
+import-from-app = Uvozi iz programa
+import-address-book = Uvozi datoteko z imenikom
+import-calendar = Uvozi datoteko s koledarjem
 
 ## Buttons
 
+button-cancel = Prekliči
+button-back = Nazaj
+button-continue = Nadaljuj
 
 ## Import from app steps
 
