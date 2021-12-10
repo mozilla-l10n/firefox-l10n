@@ -87,9 +87,9 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = 为此网页添加书签
+    .aria-label = 将此页面加入书签
     .accesskey = m
-    .tooltiptext = 为此页添加书签
+    .tooltiptext = 将此页面加入书签
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
@@ -105,9 +105,9 @@ main-context-menu-bookmark-edit-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = 为此网页添加书签
+    .aria-label = 将此页面加入书签
     .accesskey = m
-    .tooltiptext = 为此页添加书签 ({ $shortcut })
+    .tooltiptext = 将此页面加入书签 ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = 编辑此书签
     .accesskey = m
