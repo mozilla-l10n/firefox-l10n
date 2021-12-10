@@ -22,8 +22,18 @@ button-continue = 繼續
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 從 { $app } 匯入
+profiles-pane-desc = 請選擇要從哪裡匯入資料
+profile-file-picker-dir = 選擇設定檔資料夾
+profile-file-picker-zip = 選擇 ZIP 檔（小於 2GB）
 items-pane-title = 選擇要匯入的項目
 items-pane-desc = 從下列位置匯入
+items-pane-checkbox-accounts = 帳號與設定
+items-pane-checkbox-address-books = 通訊錄
+items-pane-checkbox-calendars = 行事曆
+items-pane-checkbox-mail-messages = 郵件訊息
 
 ## Import dialog
 
+progress-pane-title = 匯入中
+progress-pane-restart-desc = 請重新啟動以完成匯入。
+error-pane-title = 錯誤
