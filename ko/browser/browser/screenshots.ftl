@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = 클립보드에 스크린샷 복사
 screenshots-cancel-button-title =
     .title = 취소
+screenshots-retry-button-title =
+    .title = 스크린샷 다시 시도
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
