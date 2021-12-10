@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = 將擷圖複製到剪貼簿
 screenshots-cancel-button-title =
     .title = 取消
+screenshots-retry-button-title =
+    .title = 重拍擷圖
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
