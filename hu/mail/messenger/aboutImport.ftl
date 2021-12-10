@@ -7,6 +7,7 @@ import-page-title = Importálás
 ## Header
 
 import-from-app = Importálás alkalmazásból
+import-from-app-desc = Fiókok, címjegyzékek, naptárak és egyéb adatok importálása innen:
 import-address-book = Címjegyzékfájl importálása
 import-calendar = Naptárfájl importálása
 
@@ -23,6 +24,16 @@ button-continue = Folytatás
 profiles-pane-title = Importálás innen: { $app }
 profiles-pane-desc = Válassza ki az importálás helyét
 profile-file-picker-dir = Válasszon profilmappát
+profile-file-picker-zip = Válasszon egy ZIP-fájlt (2 GB-nál kisebbet)
+items-pane-title = Válasszon, hogy mit szeretne importálni
+items-pane-desc = Importálás…
+items-pane-checkbox-accounts = Fiókok és beállítások
+items-pane-checkbox-address-books = Címjegyzékek
+items-pane-checkbox-calendars = Naptárak
+items-pane-checkbox-mail-messages = Levelek
 
 ## Import dialog
 
+progress-pane-title = Importálás
+progress-pane-restart-desc = Újraindítás az importálás befejezéséhez.
+error-pane-title = Hiba
