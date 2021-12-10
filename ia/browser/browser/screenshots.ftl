@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Copiar instantaneo del schermo al area de transferentia
 screenshots-cancel-button-title =
     .title = Cancellar
+screenshots-retry-button-title =
+    .title = Retentar instantaneo de schermo
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
