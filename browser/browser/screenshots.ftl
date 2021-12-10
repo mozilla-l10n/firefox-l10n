@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Ekran görüntüsünü panoya kopyala
 screenshots-cancel-button-title =
     .title = Vazgeç
+screenshots-retry-button-title =
+    .title = Ekran görüntüsünü yeniden dene
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
