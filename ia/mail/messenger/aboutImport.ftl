@@ -22,6 +22,9 @@ button-continue = Continuar
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importar ab { $app }
+profiles-pane-desc = Selige le position ab le qual importar.
+profile-file-picker-dir = Selige un plica del profilo
+profile-file-picker-zip = Selige un file zip (minor de 2GB)
 items-pane-title = Elige que importar
 items-pane-desc = Importar ab
 items-pane-checkbox-accounts = Contos e parametros
@@ -32,4 +35,5 @@ items-pane-checkbox-mail-messages = Messages e-mail
 ## Import dialog
 
 progress-pane-title = Importation
+progress-pane-restart-desc = Reinitiar pro finir de importar.
 error-pane-title = Error
