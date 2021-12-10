@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Foto wobrazowki do mjezyskłada kopěrować
 screenshots-cancel-button-title =
     .title = Přetorhnyć
+screenshots-retry-button-title =
+    .title = Foto wobrazowki znowa spytać
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
