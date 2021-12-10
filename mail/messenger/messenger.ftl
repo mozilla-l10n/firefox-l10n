@@ -99,6 +99,12 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Uudelleenohjaa
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Poista valittu viesti
+           *[other] Poista valitut viestit
+        }
 
 ## Message header pane
 
@@ -140,3 +146,6 @@ repair-text-encoding-button =
 no-reply-title = Vastausta ei tueta
 no-reply-message = Vastausosoite ({ $email }) ei vaikuta olevan valvottu osoite. Kukaan ei todennäköisesti lue tähän osoitteeseen tulevia viestejä.
 no-reply-reply-anyway-button = Vastaa silti
+
+## error messages
+
