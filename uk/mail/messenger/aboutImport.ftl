@@ -30,6 +30,10 @@ items-pane-desc = Імпорт із
 items-pane-checkbox-accounts = Облікові записи й налаштування
 items-pane-checkbox-address-books = Адресні книги
 items-pane-checkbox-calendars = Календарі
+items-pane-checkbox-mail-messages = Повідомлення пошти
 
 ## Import dialog
 
+progress-pane-title = Імпортування
+progress-pane-restart-desc = Перезапустіть, щоб завершити імпортування.
+error-pane-title = Помилка
