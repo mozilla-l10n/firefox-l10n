@@ -22,8 +22,10 @@ button-continue = 继续
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 从 { $app } 导入
+profile-file-picker-dir = 选择配置文件夹
 profile-file-picker-zip = 选择 ZIP 文件（小于 2GB）
 items-pane-title = 选择要导入的项目
+items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
 items-pane-checkbox-calendars = 日历
 items-pane-checkbox-mail-messages = 邮件消息
