@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = העתקת צילום מסך ללוח העריכה
 screenshots-cancel-button-title =
     .title = ביטול
+screenshots-retry-button-title =
+    .title = ניסיון חוזר לצילום מסך
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
