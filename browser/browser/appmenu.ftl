@@ -204,6 +204,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Настройки для выявления ошибок аудио и видео в { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Медиа
+profiler-popup-presets-networking-description = Настройки для выявления сетевых ошибок в { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Сеть
 profiler-popup-presets-custom-label =
     .label = Персональный
 
