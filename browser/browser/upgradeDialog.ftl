@@ -39,11 +39,16 @@ upgrade-dialog-pin-secondary-button = Қазір емес
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name } өнімін негізгі браузер қылу
+upgrade-dialog-default-subtitle-2 = Жылдамдық, қауіпсіздік және жекелікті автопилотқа орнатыңыз.
 upgrade-dialog-default-primary-button-2 = Негізгі браузер қылу
 upgrade-dialog-default-secondary-button = Қазір емес
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = Жүйелік тема
+    .title = Батырмалар, мәзірлер және терезелер үшін операциялық жүйе темасына сүйену
 
 ## Start screen
 
@@ -54,6 +59,11 @@ upgrade-dialog-start-secondary-button = Қазір емес
 ## Colorway screen
 
 upgrade-dialog-colorway-default-theme = Бастапқы
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Автоматты түрде
+    .title = Батырмалар, мәзірлер және терезелер үшін операциялық жүйе темасына сүйену
+upgrade-dialog-theme-light = Ашық түсті
+    .title = Батырмалар, мәзірлер және терезелер үшін ашық теманы қолдану
 upgrade-dialog-theme-primary-button = Теманы сақтау
 upgrade-dialog-theme-secondary-button = Қазір емес
 

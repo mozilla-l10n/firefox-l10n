@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 45em
 downloads-cmd-pause =
@@ -163,6 +158,8 @@ downloading-file-opens-in-minutes = { $minutes }м кейін ашылады…
 downloading-file-opens-in-minutes-and-seconds = { $minutes }м { $seconds }сек кейін ашылады…
 downloading-file-opens-in-seconds = { $seconds }с кейін ашылады…
 downloading-file-opens-in-some-time = Аяқталғаннан кейін ашылады…
+downloading-file-click-to-open =
+    .value = Аяқталғаннан кейін ашу
 
 ##
 
@@ -184,6 +181,19 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Жүктеме қасиеттері
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+       *[other] { $num }файл жүктелмеді.
+    }
+
+##
+
 downloads-clear-downloads-button =
     .label = Жүктемелерді тазарту
     .tooltiptext = Аяқталған, бас тартылған және сәтсіз жүктемелерді тазартады
