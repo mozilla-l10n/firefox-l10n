@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-ics-file-window-2 =
+    .title = Flytja inn dagatalsatburði og verkefni
+calendar-ics-file-dialog-import-event-button-label = Flytja inn atburð
+calendar-ics-file-dialog-import-task-button-label = Flytja inn verkefni
+calendar-ics-file-dialog-2 =
+    .buttonlabelaccept = Flytja allt inn
 calendar-ics-file-accept-button-ok-label = Í lagi
 calendar-ics-file-cancel-button-close-label = Loka
 calendar-ics-file-dialog-message-2 = Flytja inn úr skrá:

@@ -186,6 +186,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Sjálfgefinn tími fyrir verkefni áður en áminning fer í gang:
     .accesskey = f
+calendar-notifications-customize-label = Hægt er að aðlaga tilkynningar fyrir hvert dagatal í eiginleikaglugga dagatalsins.
 category-new-label = Flokkur
 category-edit-label = Breyta flokki
 category-overwrite-title = Aðvörun: Nafn þegar til
