@@ -68,7 +68,7 @@ about-logins-list-section-week = Síðustu 7 daga
 about-logins-login-intro-heading-logged-out2 = Ertu að leita að vistuðum innskráningum þínum? Kveiktu á samstillingu eða flyttu þær inn.
 about-logins-login-intro-heading-logged-in = Engar samstilltar innskráningar fundust.
 login-intro-description = Ef þú vistaðir innskráningar þínar á { -brand-product-name } á öðru tæki, muntu geta náð í þær svona:
-login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name(capitalization: "sentence") } á tækinu þar sem innskráningar þínar eru vistaðar.
+login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name } á tækinu þar sem innskráningar þínar eru vistaðar.
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
 login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Aðstoð</a> til að fá frekari hjálp.
 
