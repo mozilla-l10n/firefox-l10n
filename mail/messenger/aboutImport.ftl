@@ -24,6 +24,7 @@ button-continue = Continua
 profiles-pane-title = Importazione da { $app }
 profiles-pane-desc = Scegli la posizione da cui importare
 profile-file-picker-dir = Seleziona una cartella del profilo
+profile-file-picker-zip = Seleziona un file zip (dimensione inferiore a 2 GB)
 items-pane-title = Seleziona che cosa importare
 items-pane-desc = Importa da
 items-pane-checkbox-accounts = Account e impostazioni
