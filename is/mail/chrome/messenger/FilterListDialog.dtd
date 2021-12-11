@@ -26,7 +26,7 @@
 <!ENTITY filterHeader.label "Virkar síur eru keyrðar sjálfkrafa í þeirri röð sem er hér fyrir neðan.">
 <!ENTITY filtersForPrefix.label "Sía fyrir:">
 <!ENTITY filtersForPrefix.accesskey "f">
-<!ENTITY viewLogButton.label "Síu atburðaskrá">
+<!ENTITY viewLogButton.label "Atvikaskrá síu">
 <!ENTITY viewLogButton.accesskey "a">
 <!ENTITY runFilters.label "Keyra núna">
 <!ENTITY runFilters.accesskey "r">
@@ -37,5 +37,4 @@
 <!ENTITY helpButton.label "Hjálp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
- 
 <!ENTITY searchBox.emptyText "Leita í síum eftir nafni…">
