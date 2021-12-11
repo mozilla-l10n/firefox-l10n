@@ -46,7 +46,7 @@ cert-error-not-yet-valid-now = Vefsíður auðkenna sig með skilríkjum sem haf
 cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Vefsíður sanna auðkenni sitt með vottorðum, sem eru gefin út af vottuðu yfirvaldi. Flestir vafrar styðja ekki lengur vottorð útgefin af GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } notar vottorð frá einu af þessum aðilum og fyrir vikið er ekki hægt að sanna auðkenni vefsíðunnar.
+cert-error-symantec-distrust-description = Vefsíður sanna auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum. Flestir vafrar styðja ekki lengur skilríki útgefin af GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } notar skilríki frá einum þessara aðila og fyrir vikið er ekki hægt að sanna auðkenni vefsíðunnar.
 cert-error-symantec-distrust-admin = Þú mátt láta vefstjóra þessarar síðu vita af vandamálinu.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -60,7 +60,7 @@ open-in-new-window-for-csp-or-xfo-error = Opna vefsvæði í nýjum glugga
 ## Messages used for certificate error titles
 
 connectionFailure-title = Get ekki tengst
-deniedPortAccess-title = Aðgangur að gátt er ekki leyfður
+deniedPortAccess-title = Aðgangur að þessu vistfangi er ekki leyfður
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Við eigum í einhverjum erfiðleikum með að finna þetta vefsvæði.
@@ -74,13 +74,13 @@ malformedURI-title = Hmm. Þessi slóð virðist ekki vera rétt.
 netInterrupt-title = Tenging slitnaði
 notCached-title = Skjal er útrunnið
 netOffline-title = Ónettengdur hamur
-contentEncodingError-title = Kóðunarvilla
+contentEncodingError-title = Kóðunarvilla í efni
 unsafeContentType-title = Óörugg skráartegund
 netReset-title = Tenging slitnaði
 netTimeout-title = Tengingin svaraði ekki tímanlega
 unknownProtocolFound-title = Óþekkt samskiptaregla
 proxyConnectFailure-title = Milliþjónn neitar tengingum
-proxyResolveFailure-title = Fann ekki milliþjónn
+proxyResolveFailure-title = Fann ekki milliþjóninn
 redirectLoop-title = Síðan er ekki að endurbeina rétt
 unknownSocketType-title = Rangt svar frá netþjóni
 nssFailure2-title = Örugg tenging mistókst
