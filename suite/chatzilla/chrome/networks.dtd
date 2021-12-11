@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Редактор сетей">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Восстановить по умолчанию">
 <!ENTITY restoreButton.accesskey      "м">
+
+<!ENTITY connectNetwork.label         "Подключиться к сети">
+<!ENTITY connectNetwork.accesskey     "е">
 
 <!ENTITY networkListAdd.label         "Добавить сеть…">
 <!ENTITY networkListAdd.accesskey     "б">
