@@ -34,7 +34,7 @@
 <!ENTITY newIMAccountCmd.accesskey "S">
 <!ENTITY newFeedAccountCmd.label "Straum reikningur…">
 <!ENTITY newFeedAccountCmd.accesskey "S">
-<!ENTITY newIMContactCmd.label "Spjall tengiliður…">
+<!ENTITY newIMContactCmd.label "Spjalltengiliður…">
 <!ENTITY newIMContactCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label "Opna vistaðan póst…">
 <!ENTITY openMessageFileCmd.accesskey "O">
@@ -421,9 +421,12 @@
 <!ENTITY openMessageWindowCmd.label "Opna póst">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Opna í samtali">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Viðhengi">
 <!ENTITY openAttachmentListCmd.accesskey "h">
-<!ENTITY openFeedMessage1.label "Þegar opnaður er póstur í straumi">
+<!ENTITY openFeedMessage1.label "Þegar opnaður er póstur í streymi">
 <!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Opna sem vefsíðu">
 <!ENTITY openFeedWebPage.accesskey "v">
