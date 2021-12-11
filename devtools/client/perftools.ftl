@@ -130,6 +130,8 @@ perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-graphics-label = Графика
 perftools-presets-media-label = Медиа
 perftools-presets-media-description = Аудио және видео мәселелерін диагностикалау үшін ұсынылған баптаулар.
+perftools-presets-networking-label = Желі
+perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-custom-label = Таңдауыңызша
 
 ##
