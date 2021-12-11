@@ -497,3 +497,4 @@ chat-browse-sound-button =
 
 ## Settings UI Search Results
 
+search-results-help-link = Þarftu aðstoð? Skoðaðu <a data-l10n-name="url">{ -brand-short-name } hjálparsvæðið</a>
