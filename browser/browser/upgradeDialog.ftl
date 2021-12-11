@@ -65,7 +65,12 @@ upgrade-dialog-colorway-title = Палитраңызды таңдаңыз
 # This is shown to users with a custom home page, so they can switch to default.
 upgrade-dialog-colorway-home-checkbox = Firefox үй парағы фонының түстерін таңдаңыз
 upgrade-dialog-colorway-primary-button = Түстер схемасын сақтау
-upgrade-dialog-colorway-secondary-button = Алдыңғы теманы сақтау
+upgrade-dialog-colorway-secondary-button = Алдыңғы теманы қолдану
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Бастапқы темаларды шолу.
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = { $colorwayName } түстер схемаларын шолу
 upgrade-dialog-colorway-default-theme = Бастапқы
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Автоматты түрде
@@ -78,6 +83,14 @@ upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Батырмалар, мәзірлер және терезелер үшін динамикалық, түрлі-түсті теманы қолдану
 upgrade-dialog-theme-primary-button = Теманы сақтау
 upgrade-dialog-theme-secondary-button = Қазір емес
+upgrade-dialog-colorway-variation-soft = Жұмсақ
+    .title = Бұл түстер схемасын қолдану
+upgrade-dialog-colorway-variation-balanced = Теңгерілген
+    .title = Бұл түстер схемасын қолдану
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Жуан
+    .title = Бұл түстер схемасын қолдану
 
 ## Thank you screen
 
