@@ -58,6 +58,8 @@ mobile-app-links = { -brand-product-name } nabigatzailea <a data-l10n-name="andr
 lockwise-title = Ez ahaztu sekula pasahitzik berriro
 lockwise-title-logged-in2 = Pasahitzen kudeaketa
 lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
+passwords-title-logged-in = Kudeatu zure pasahitzak
+passwords-header-content = { -brand-product-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
 lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
 protection-report-save-passwords-button = Gorde pasahitzak
     .title = Gorde pasahitzak { -lockwise-brand-short-name }(e)n
@@ -66,6 +68,10 @@ protection-report-manage-passwords-button = Kudeatu pasahitzak
 lockwise-mobile-app-title = Eraman pasahitzak alboan
 lockwise-no-logins-card-content = Erabili { -brand-short-name }(e)n gordetako pasahitzak edozein gailutan.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>erako { -lockwise-brand-name }
+protection-report-passwords-save-passwords-button = Gorde pasahitzak
+    .title = Gorde pasahitzak
+protection-report-passwords-manage-passwords-button = Kudeatu pasahitzak
+    .title = Kudeatu pasahitzak
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
