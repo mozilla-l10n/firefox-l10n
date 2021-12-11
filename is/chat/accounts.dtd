@@ -18,7 +18,7 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Enginn reikningur skilgreindur">
 <!ENTITY accountManager.noAccount.description "Smelltu á &accountManager.newAccount.label; hnappinn til að fá &brandShortName; til að hjálpa þér við stillingar.">
-<!ENTITY account.autoSignOn.label     "Innskrá í ræsingu">
+<!ENTITY account.autoSignOn.label     "Skrá inn í ræsingu">
 <!ENTITY account.autoSignOn.accesskey "s">
 <!ENTITY account.connect.label        "Tengjast">
 <!ENTITY account.connect.accesskey    "T">
