@@ -35,6 +35,7 @@ newsgroups-description = { -brand-short-name } te permite conectarte a todos los
 import-title = Importar desde otro programa
 import-label = Importar
     .aria-label = Importar datos de otros programas
+about-paragraph = Thunderbird es un destacado cliente de correo electrónico y calendario para todas las plataformas de código abierto, gratuito, tanto para su uso empresarial como el personal. Queremos mantenerlo seguro y que mejore cada día. Una donación nos permitirá contratar desarrolladores, pagar por la infraestructura y mantenerlo siempre al día.
 about-paragraph-consider-donation = <b>¡Thunderbird está financiado por usuarios como tú! Si te gusta Thunderbird, considera hacer una donación.</b> La mejor manera de asegurarse de que Thunderbird permanezca disponible es <a data-l10n-name="donation-link"> hacer una donación</a>.
 explore-link = Explorar características
 support-link = Soporte
