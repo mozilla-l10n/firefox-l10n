@@ -27,6 +27,13 @@ profile-file-picker-dir = Përzgjidhni një dosje profili
 profile-file-picker-zip = Përzgjidhni një kartelë zip (më të vogël se 2GB)
 items-pane-title = Përzgjidhni ç’të importohet
 items-pane-desc = Importo nga
+items-pane-checkbox-accounts = Llogari dhe Rregullime
+items-pane-checkbox-address-books = Libra Adresash
+items-pane-checkbox-calendars = Kalendarë
+items-pane-checkbox-mail-messages = Mesazhe Poste
 
 ## Import dialog
 
+progress-pane-title = Importim
+progress-pane-restart-desc = Riniseni, që të përfundohet importimi.
+error-pane-title = Gabim
