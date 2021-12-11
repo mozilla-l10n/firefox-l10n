@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Copiar captura de pantalla al portapapeles
 screenshots-cancel-button-title =
     .title = Cancelar
+screenshots-retry-button-title =
+    .title = Reintentar captura de pantalla
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
