@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Sao chép ảnh chụp màn hình vào khay nhớ tạm
 screenshots-cancel-button-title =
     .title = Hủy bỏ
+screenshots-retry-button-title =
+    .title = Thử chụp ảnh màn hình lại
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
