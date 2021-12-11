@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-setup-tab-title = Configuración de cuenta
 
 ## Header
 
+account-setup-title = Configurar tu dirección de correo electrónico existente.
 account-setup-success-title = Cuenta creada correctamente
 
 ## Form fields
@@ -45,6 +47,8 @@ account-setup-button-manual-config = Configurar manualmente
     .accesskey = m
 account-setup-button-stop = Detener
     .accesskey = D
+account-setup-button-retest = Volver a probar
+    .accesskey = V
 account-setup-button-continue = Continuar
     .accesskey = C
 account-setup-button-done = Hecho
@@ -52,12 +56,15 @@ account-setup-button-done = Hecho
 
 ## Notifications
 
+account-setup-looking-up-settings = Buscando la configuración…
 account-setup-checking-password = Verificando contraseña…
 
 ## Illustrations
 
 account-setup-step2-image =
     .title = Cargando…
+account-setup-step4-image =
+    .title = Error de conexión
 account-setup-step5-image =
     .title = Cuenta creada
 account-setup-selection-error = ¿Necesitas ayuda?
@@ -90,6 +97,8 @@ account-setup-protocol-label = Protocolo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
+account-setup-port-label = Puerto:
+    .title = Establecer el número del puerto en 0 para la detección automática
 
 ## Incoming/Outgoing SSL Authentication options
 
@@ -139,6 +148,7 @@ account-setup-addon-install-title = Instalar
 account-setup-settings-button = Ajustes de la cuenta
 account-setup-signature-button = Agregar una firma
 account-setup-dictionaries-button = Descargar diccionarios
+account-setup-linked-services-title = Conectar tus servicios vinculados
 account-setup-button-finish = Finalizar
     .accesskey = F
 account-setup-address-books-button = Libretas de direcciones
