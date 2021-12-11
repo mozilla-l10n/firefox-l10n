@@ -119,6 +119,11 @@ newtab-menu-show-privacy-info = حامیان ما و حریم خصوصی شما
 newtab-privacy-modal-button-done = انجام شد
 newtab-privacy-modal-button-manage = مدیریتِ تنظیماتِ محتوای مورد حمایت
 newtab-privacy-modal-header = حریم خصوصی شما اهمیت دارد.
+newtab-privacy-modal-paragraph-2 =
+    ما علاوه بر نمایش داستان‌های جذاب، محتوای کاملا تایید شده و مرتبط،
+    از حامیان مالی خود را نمایش خواهیم داد. مطمئن باشید، <strong>داده‌های مرور شما
+    هیچ‌وقت نسخهٔ شخصی { -brand-product-name } فایرفاکس شما را ترک نمی‌کنند</strong> — ما آن را نمی‌بینیم، و ما
+    حامیان مالی‌مان هم نخواهند دید.
 newtab-privacy-modal-link = در مورد حریم خصوصی در برگهٔ جدید بیاموزید
 
 ##
