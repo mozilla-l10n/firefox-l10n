@@ -114,8 +114,14 @@ perftools-presets-firefox-front-end-label = Pjesa e Përparme e Firefox-it
 perftools-presets-firefox-front-end-description = Profil i gatshëm i rekomanduar për diagnostikim të brendshëm të pjesës së përparme të Firefox-it.
 perftools-presets-firefox-graphics-label = Ana Grafike e Firefox-it
 perftools-presets-firefox-graphics-description = Profil i gatshëm i rekomanduar për hetim funksionimi anësh grafike të Firefox-it.
+perftools-presets-firefox-description = Model i rekomanduar për profilizim { -brand-shorter-name }.
+perftools-presets-graphics-label = Grafikë
+perftools-presets-graphics-description = Model për hetim të metash grafike në { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description = Profil i gatshëm i rekomanduar për diagnostikim problemesh audio dhe video.
+perftools-presets-media-description2 = Model për hetim të metash audio dhe video nën { -brand-shorter-name }.
+perftools-presets-networking-label = Punim në rrjet
+perftools-presets-networking-description = Model për hetim të metash punimi në rrjet në { -brand-shorter-name }.
 perftools-presets-custom-label = Vetjak
 
 ##
