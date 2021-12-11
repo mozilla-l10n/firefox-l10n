@@ -8,9 +8,13 @@ key-wizard-button =
 
 ## Generate key section
 
+openpgp-keygen-advanced-title = Ítarlegri stillingar
 
 ## Import Key section
 
+openpgp-import-fingerprint-label = Fingrafar
 
 ## External Key section
 
+openpgp-external-key-input =
+    .placeholder = 123456789341298340

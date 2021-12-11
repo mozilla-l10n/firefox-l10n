@@ -432,7 +432,7 @@
 <!ENTITY openFeedWebPage.accesskey "v">
 <!ENTITY openFeedSummary.label "Opna sem samantekt">
 <!ENTITY openFeedSummary.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Víxla vefsíðu og samantekt í lestrarrúðu">
+<!ENTITY openFeedWebPageInMP.label "Víxla vefsíðu og samantekt í lestrarglugga">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 
 <!-- Windows Menu -->
