@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Копировать скриншот в буфер обмена
 screenshots-cancel-button-title =
     .title = Отмена
+screenshots-retry-button-title =
+    .title = Повторить скриншот
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
