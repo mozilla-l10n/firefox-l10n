@@ -1074,7 +1074,7 @@ certs-devices =
     .label = Қауіпсіздік құрылғылары…
     .accesskey = ы
 space-alert-over-5gb-settings-button =
-    .label = Баптаулары ашу
+    .label = Баптауларды ашу
     .accesskey = Б
 
 ## Privacy Section - HTTPS-Only
