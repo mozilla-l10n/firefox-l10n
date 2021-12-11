@@ -54,10 +54,18 @@ upgrade-dialog-theme-system = Жүйелік тема
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Түрлі-түсті өмір
+upgrade-dialog-start-subtitle = Жаңа, жарық түстер схемалары. Шектеулі уақыт ішінде ғана қолжетімді.
+upgrade-dialog-start-primary-button = Түстер схемаларын шолу
 upgrade-dialog-start-secondary-button = Қазір емес
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Палитраңызды таңдаңыз
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Firefox үй парағы фонының түстерін таңдаңыз
+upgrade-dialog-colorway-primary-button = Түстер схемасын сақтау
+upgrade-dialog-colorway-secondary-button = Алдыңғы теманы сақтау
 upgrade-dialog-colorway-default-theme = Бастапқы
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Автоматты түрде

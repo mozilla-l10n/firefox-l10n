@@ -98,6 +98,8 @@ extension-controlled-enable = Кеңейтуді іске қосу үшін, <im
 ## Preferences UI Search Results
 
 search-results-header = Іздеу нәтижелері
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Кешіріңіз! Баптауларда "<span data-l10n-name="query"></span>" үшін нәтижелер табылмады.
 search-results-help-link = Көмек керек пе? <a data-l10n-name="url">{ -brand-short-name } қолдауы</a> шолыңыз
 
 ## General Section
@@ -134,6 +136,14 @@ warn-on-close-multiple-tabs =
 confirm-on-close-multiple-tabs =
     .label = Бірнеше бетті жаппас бұрын растау
     .accesskey = с
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = { $quitKey } көмегімен шығу алдында растау
+    .accesskey = л
 warn-on-open-many-tabs =
     .label = Беттердің көп санын ашу әрекеті { -brand-short-name } жұмысын тежей алатын кезде ескерту
     .accesskey = т
@@ -769,6 +779,7 @@ forms-master-pw-fips-desc = Парольді өзгерту сәтсіз аяқ�
 forms-windows-sso =
     .label = Microsoft, жұмыс және мектеп есептік жазбаларына Windows дара кіруін рұқсат ету
 forms-windows-sso-learn-more-link = Көбірек білу
+forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
 
 ## OS Authentication dialog
 
@@ -922,6 +933,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Қорғаныс және өнімділік теңгерімі. Беттер әдеттегідей жүктеледі.
 content-blocking-etp-strict-desc = Қатаңырақ қорғаныс, бірақ, кейбір сайттар немесе мазмұнның бұзылуына әкеп соғуы мүмкін.
 content-blocking-etp-custom-desc = Қай трекерлер мен скрипттерді блоктауды таңдаңыз.
+content-blocking-etp-blocking-desc = { -brand-short-name } келесілерді бұғаттайды:
 content-blocking-private-windows = Жекелік шолу терезелерінде бақылайтын құрама
 content-blocking-cross-site-tracking-cookies = Сайтаралық бақылайтын cookie файлдары
 content-blocking-cross-site-tracking-cookies-plus-isolate = Сайтаралық бақылау трекерлері, және қалған cookie файлдарын оқшаулау
