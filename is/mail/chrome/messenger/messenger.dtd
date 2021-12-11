@@ -64,13 +64,13 @@
 <!ENTITY compactFolders.accesskey "Þ">
 <!ENTITY emptyTrashCmd.label "Tæma rusl">
 <!ENTITY emptyTrashCmd.accesskey "T">
-<!ENTITY offlineMenu.label "Ónettengdur">
+<!ENTITY offlineMenu.label "Ónettengt">
 <!ENTITY offlineMenu.accesskey "g">
 <!ENTITY offlineGoOfflineCmd.label "Vinna án nettengingar">
 <!ENTITY offlineGoOfflineCmd.accesskey "V">
 <!ENTITY synchronizeOfflineCmd.label "Niðurhala/Samstilla núna…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd2.label "Stillingar fyrir ónettengdur">
+<!ENTITY settingsOfflineCmd2.label "Stillingar fyrir ónettengda notkun">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Ná í valinn póst">
 <!ENTITY downloadSelectedCmd.accesskey "l">
@@ -356,6 +356,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Breyta drögum">
 <!ENTITY editDraftMsgCmd.accesskey "d">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Búa til síu út frá pósti…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Færa í">
@@ -446,10 +447,10 @@
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Staða spjalls">
 <!ENTITY imAccountsStatus.accesskey "S">
-<!ENTITY imStatus.available "Tengdur">
-<!ENTITY imStatus.unavailable "Upptekinn">
-<!ENTITY imStatus.offline "Ótengdur">
-<!ENTITY imStatus.showAccounts "Sýna reikninga…">
+<!ENTITY imStatus.available          "Tengdur">
+<!ENTITY imStatus.unavailable        "Upptekinn">
+<!ENTITY imStatus.offline            "Ótengdur">
+<!ENTITY imStatus.showAccounts       "Sýna reikninga…">
 <!ENTITY joinChatCmd.label "Taka þátt í spjalli…">
 <!ENTITY joinChatCmd.accesskey "s">
 <!ENTITY savedFiles.label "Vistaðar skrár">
@@ -694,10 +695,10 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opna póst í nýjum glugga">
 <!ENTITY contextOpenNewWindow.accesskey "O">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Opna póst í nýjum flipa">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Opna póst í samtali">
@@ -749,7 +750,6 @@
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "Prentskoðun">
 <!ENTITY contextPrintPreview.accesskey "ð">
-<!-- Thread Pane Column Picker -->
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -808,7 +808,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
@@ -890,18 +890,19 @@
 <!ENTITY zoomWindow.label "Aðdráttur">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label "Valkostir">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Þjónustur">
-<!ENTITY hideThisAppCmdMac.label "Fela &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Fela aðra">
+<!ENTITY preferencesCmdMac2.label       "Valkostir">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Þjónustur">
+<!ENTITY hideThisAppCmdMac.label        "Fela &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Fela aðra">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Sýna allt">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Sýna allt">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label "App Icon valkostir…">
+<!ENTITY dockOptions.label              "App Icon valkostir…">
 
+<!-- Content tab Navigation buttons -->
