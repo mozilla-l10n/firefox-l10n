@@ -99,6 +99,8 @@ cfr-doorhanger-doh-secondary-button = از کار انداختن
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = حریم‌خصوصی شما مهم است. { -brand-short-name } حالا وب‌سایت‌ها را از همدیگر ایزوله یا در محیط جداگانه قرار می‌دهد، که کار هکرها را برای دزدین گذرواژه‌ها، کارت‌های اعتباری و سایر اطلاعات حساس سخت‌تر می‌کند.
+cfr-doorhanger-fission-header = ایزوله‌سازی سایت
 cfr-doorhanger-fission-primary-button = باشه،‌ متوجه شدم
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = اطلاعات بیشتر
@@ -111,11 +113,24 @@ cfr-doorhanger-video-support-header = برای پخش ویدیو، { -brand-shor
 cfr-doorhanger-video-support-primary-button = هم‌اکنون بروزرسانی شود
     .accesskey = ه
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = اطلاعات بیشتر
+    .title = برای اطلاعات بیشتر کلیک کنید
+spotlight-learn-more-expanded = اطلاعات بیشتر
+    .title = بستن
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = به نظر می‌آید از یک Wi-Fi عمومی استفاده می‌کنید
+spotlight-public-wifi-vpn-body = برای مخفی کردن اطلاعات مرور و موقعیت مکانی خود، یک شبکه خصوصی مجازی را بررسی کنید. این کار کمک می‌کند تا هنگام مرور در مکان‌های عمومی مانند فرودگاه‌ها و کافی‌شاپ‌ها از شما محافظت شود.
 spotlight-public-wifi-vpn-link = اکنون نه
     .accesskey = ن
+
+## Total Cookie Protection Rollout
+
