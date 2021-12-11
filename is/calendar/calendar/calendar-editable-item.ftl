@@ -16,3 +16,5 @@ calendar-editable-item-multiday-event-icon-continue =
     .alt = Margra daga atburður heldur áfram
 calendar-editable-item-multiday-event-icon-end =
     .alt = Margra daga atburði lýkur
+calendar-editable-item-reminder-icon-alarm =
+    .alt = Áminning er áætluð

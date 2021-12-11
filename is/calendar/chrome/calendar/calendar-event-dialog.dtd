@@ -389,6 +389,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Almennt">
 <!ENTITY read.only.title.label           "Titill:">
+<!ENTITY read.only.calendar.label        "Dagatal:">
 <!ENTITY read.only.event.start.label     "Byrjunardagsetning:">
 <!ENTITY read.only.task.start.label      "Byrjunardagsetning:">
 <!ENTITY read.only.event.end.label       "Lokadagsetning:">
@@ -404,3 +405,4 @@
 <!ENTITY read.only.link.label            "Tengdur hlekkur">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Vista og loka">
