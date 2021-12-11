@@ -11,6 +11,7 @@ category-chat =
 pane-calendar-title = Dagatal
 category-calendar =
     .tooltiptext = Dagatal
+choose-messenger-language-description = Veldu tungumálin til að nota til að birta valmyndir, skilaboð og tilkynningar frá { -brand-short-name }.
 
 ## OS Authentication dialog
 
@@ -252,6 +253,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Loka póstglugga/flipa þegar verið er að færa eða eyða
     .accesskey = L
+display-name-label =
+    .value = Birtingarnafn:
 condensed-addresses-label =
     .label = Sýna aðeins birtingarnafn fyrir tengiliði í nafnaskránni
     .accesskey = S
