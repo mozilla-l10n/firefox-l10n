@@ -11,21 +11,21 @@ cert-error-mitm-connection = { -brand-short-name } notar CA-vottunarstöð Mozil
 cert-error-trust-unknown-issuer-intro = Einhver kann að vera að herma eftir síðunni og ekki ætti að halda áfram.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Vefsíður auðkenna sig með auðkenningarskilríkjum. { -brand-short-name } treystir ekki { $hostname } því útgefandi þess skilríkis er óþekktur, skilríkið er sjálfundirritað, eða að vefþjónninn er ekki að senda milliskilríkin.
-cert-error-trust-cert-invalid = Þessu skilríki er ekki treyst því það var útgefið af ógildu CA skilríki.
-cert-error-trust-untrusted-issuer = Þessu skilríki er ekki treyst því útgefandi skilríkis er ekki treystandi.
-cert-error-trust-signature-algorithm-disabled = Þessu skilríki er ekki treyst vegna þess að það var undirritað með undirskriftar algrími sem er ekki lengur virkt vegna þess að algrímið er ekki öruggt.
+cert-error-trust-unknown-issuer = Vefsíður auðkenna sig með skilríkjum. { -brand-short-name } treystir ekki { $hostname } því útgefandi þess skilríkis er óþekktur, skilríkið er sjálfundirritað, eða að vefþjónninn er ekki að senda rétt milliskilríki.
+cert-error-trust-cert-invalid = Þessu skilríki er ekki treyst því það var útgefið af ógildu CA-skilríki.
+cert-error-trust-untrusted-issuer = Þessu skilríki er ekki treyst því útgefanda skilríkis er ekki treyst.
+cert-error-trust-signature-algorithm-disabled = Þessu skilríki er ekki treyst vegna þess að það var undirritað með undirritunar-algrími sem er ekki lengur virkt vegna þess að algrímið er ekki öruggt.
 cert-error-trust-expired-issuer = Þessu skilríki er ekki treyst því skilríki útgefanda er útrunnið.
-cert-error-trust-self-signed = Þessu skilríki er ekki treyst því það er með sína eigin undirskrift.
-cert-error-trust-symantec = Vottorð útgefin af GeoTrust, RapidSSL, Symantec, Thwate og Verisign eru ekki lengur talin örugg vegna þess að þeim hefur áður mistekist að fylgja öryggisvenjum.
-cert-error-untrusted-default = Skilríki kemur ekki frá traustum aðila.
+cert-error-trust-self-signed = Þessu skilríki er ekki treyst því það er sjálfundirritað.
+cert-error-trust-symantec = Skilríki útgefin af GeoTrust, RapidSSL, Symantec, Thwate og Verisign eru ekki lengur talin örugg vegna þess að þeim hefur áður mistekist að fylgja öryggisvenjum.
+cert-error-untrusted-default = Skilríkið kemur ekki frá traustum aðila.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Vefsíður staðfesta auðkenni sitt með vottorðum. { -brand-short-name } treystir ekki þessari síðu því á henni er notað vottorð sem ekki gildir fyrir { $hostname }.
+cert-error-domain-mismatch = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því á henni er notað skilríki sem ekki gildir fyrir { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Vefsíður staðfesta auðkenni sitt með vottorðum. { -brand-short-name } treystir ekki þessari síðu því hún notar vottorð sem ekki gildir fyrir { $hostname }. Vottorðið gildir einungis fyrir <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
@@ -66,7 +66,7 @@ deniedPortAccess-title = Aðgangur að gátt er ekki leyfður
 dnsNotFound-title = Við eigum í einhverjum erfiðleikum með að finna þetta vefsvæði.
 fileNotFound-title = Skrá fannst ekki
 fileAccessDenied-title = Aðgangur að skránni ekki leyfður
-generic-title = Ææ.
+generic-title = Úbbs.
 captivePortal-title = Innskráning á net
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Villa kom upp þegar tengst var { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Villunúmer: { $error }
-
 psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglurnar hafa verið gerðar óvirkar.
 psmerr-ssl2-disabled = Get ekki tengst á öruggan hátt því vefsvæðið notar eldri óörugga útgáfu af SSL samskiptareglum.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Þú hefur fengið vitlaust skilríki.  Hafið samband við vefstjóra eða póstaðila og láttu þá fá eftirfarandi upplýsingar:
     
     Skilríkið þitt inniheldur sama raðnúmer og annað skilríki útgefið af vottunarstöð.  Náðu þér í nýtt skilríki sem inniheldur einkvæmt raðnúmer.
-
 ssl-error-export-only-server = Get ekki haft örugg samskipti. Jafningi styður ekki dulkóðum með miklum gæðum.
 ssl-error-us-only-server = Get ekki haft örugg samskipti. Jafningi þarfnast dulkóðunar með miklum gæðum sem er ekki stuðningur fyrir.
 ssl-error-no-cypher-overlap = Get ekki haft örugg samskipti við jafningja: enginn sameiginleg dulkóðunar algrím.
@@ -155,7 +152,7 @@ ssl-error-incorrect-signature-algorithm = Skilgreindur var vitlaust undirskrifta
 ssl-error-next-protocol-no-callback = Next protocol negotiation viðbót var virk, en kallið til baka var hreinsað áður en það var notað.
 ssl-error-next-protocol-no-protocol = Netþjónn styður enga samskiptareglu sem biðlari skilgreinir í ALPN viðbótinni.
 ssl-error-inappropriate-fallback-alert = Netþjónn hafnaði tengingu vegna þess að biðlari fór niður í lægri útgáfu af TLS sem netþjónn styður ekki.
-ssl-error-weak-server-cert-key = Netþjóna skírteinið inniheldur opinberan lykil sem er of veikur.
+ssl-error-weak-server-cert-key = Skilríki netþjónsins innihélt opinberan dreifilykil sem var of veikur.
 ssl-error-rx-short-dtls-read = Ekki nægt pláss í biðminni fyrir DTLS færslu.
 ssl-error-no-supported-signature-algorithm = Ekkert TLS undirskriftaralgrím var stillt sem er með stuðningi.
 ssl-error-unsupported-signature-algorithm = Jafningi notaði óþekkta samsetningu af undirkskrift og hakkaalgrími.
@@ -345,7 +342,7 @@ mozilla-pkix-error-v1-cert-used-as-ca = Notað var X.509 útgáfu 1 skilríki se
 mozilla-pkix-error-not-yet-valid-certificate = Netþjónn sendi skilríki sem eru ekki ennþá orðin gild.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = Skilríki sem eru ekki ennþá orðin gild voru notuð til að gefa út skilríki netþjóns.
 mozilla-pkix-error-signature-algorithm-mismatch = Undirskrifta algóriþminn í undirskriftarsvæðinu á skilríkinu passar ekki við algóriþmann sem er í signatureAlgorithm svæðinu.
-mozilla-pkix-error-ocsp-response-for-cert-missing = OCSP svarið inniheldur ekki stöðu fyrir skírteinið sem er verið að staðfesta.
+mozilla-pkix-error-ocsp-response-for-cert-missing = OCSP-svarið inniheldur ekki stöðu fyrir skilríkið sem er verið að staðfesta.
 mozilla-pkix-error-validity-too-long = Netþjónn sendi skilríki sem eru virk of lengi.
 mozilla-pkix-error-required-tls-feature-missing = Það vantar nauðsynlegt TLS einindi.
 mozilla-pkix-error-invalid-integer-encoding = Netþjónn sendi skilríki sem inniheldur ógilda kóðin á tölu. Algengar ástæður eru mínus raðnúmer, mínus RSA moduli, og kóðanir sem eru ekki lengur nauðsynlegar.

@@ -819,7 +819,7 @@ security-block-uncommon-software =
 
 certs-header = Skilríki
 certs-enable-ocsp =
-    .label = Senda fyrirspurn á OCSP þjóna til að staðfesta hvort núverandi skírteini séu gild
+    .label = Senda fyrirspurn á OCSP-svarþjóna til að staðfesta hvort núverandi skilríki séu gild
     .accesskey = S
 certs-view =
     .label = Skoða skilríki…

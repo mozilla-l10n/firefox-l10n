@@ -14,6 +14,7 @@ about-telemetry-option-group-older = Eldra
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Fjarmælingargögn
+about-telemetry-current-store = Núverandi geymsla:
 about-telemetry-more-information = Ertu að leita að meiri upplýsingum?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox gagna skjölun</a> inniheldur leiðbeiningar um hvernig á að vinna með gagnatólunum okkar.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client skjölunin</a> inniheldur skilgreiningar á hugtökum, API skjölun og gagna vísunum.
