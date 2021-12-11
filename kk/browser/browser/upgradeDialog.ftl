@@ -64,9 +64,16 @@ upgrade-dialog-colorway-theme-auto = Автоматты түрде
     .title = Батырмалар, мәзірлер және терезелер үшін операциялық жүйе темасына сүйену
 upgrade-dialog-theme-light = Ашық түсті
     .title = Батырмалар, мәзірлер және терезелер үшін ашық теманы қолдану
+upgrade-dialog-theme-dark = Күңгірт
+    .title = Батырмалар, мәзірлер және терезелер үшін күңгірт теманы қолдану
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Батырмалар, мәзірлер және терезелер үшін динамикалық, түрлі-түсті теманы қолдану
 upgrade-dialog-theme-primary-button = Теманы сақтау
 upgrade-dialog-theme-secondary-button = Қазір емес
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Бізді таңдағаныңызға рахмет
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } — коммерциялық емес ұйым қолдайтын тәуелсіз браузер. Біз интернетті бірге қауіпсіз, сау және жеке етіп жасаймыз.
 upgrade-dialog-thankyou-primary-button = Шолуды бастау
