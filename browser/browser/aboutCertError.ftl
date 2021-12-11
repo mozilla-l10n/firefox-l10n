@@ -29,18 +29,18 @@ cert-error-domain-mismatch-single = Vefsíður staðfesta auðkenni sitt með sk
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Vefsíður staðfesta auðkenni sitt með vottorðum. { -brand-short-name } treystir ekki þessari síðu því hún notar vottorð sem ekki gildir fyrir { $hostname }. Vottorðið gildir einungis fyrir { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Vefsíður staðfesta auðkenni sitt með vottorðum. { -brand-short-name } treystir ekki þessari síðu því hún notar vottorð sem ekki gildir fyrir { $hostname }. Vottorðið gildir einungis fyrir eftirtalin nöfn: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir eftirfarandi nöfn: { $subject-alt-names }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Vefsíður auðkenna sig með vottorðum sem hafa takmarkaðan gildistíma. Vottorðið fyrir { $hostname } rann út { $not-after-local-time }.
+cert-error-expired-now = Vefsíður auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } rann út { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Vefsíður auðkenna sig með vottorðum sem hafa takmarkaðan gildistíma. Vottorðið fyrir { $hostname } verður ekki gilt fyrr en { $not-before-local-time }.
+cert-error-not-yet-valid-now = Vefsíður auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } verður ekki gilt fyrr en { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
