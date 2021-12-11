@@ -129,6 +129,8 @@ spotlight-learn-more-expanded = اطلاعات بیشتر
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = به نظر می‌آید از یک Wi-Fi عمومی استفاده می‌کنید
 spotlight-public-wifi-vpn-body = برای مخفی کردن اطلاعات مرور و موقعیت مکانی خود، یک شبکه خصوصی مجازی را بررسی کنید. این کار کمک می‌کند تا هنگام مرور در مکان‌های عمومی مانند فرودگاه‌ها و کافی‌شاپ‌ها از شما محافظت شود.
+spotlight-public-wifi-vpn-primary-button = با { -mozilla-vpn-brand-name } ناشناس بمانید
+    .accesskey = ن
 spotlight-public-wifi-vpn-link = اکنون نه
     .accesskey = ن
 
