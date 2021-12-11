@@ -56,9 +56,90 @@ about-addressbook-sort-button =
     .title = Breyta röð lista
 about-addressbook-name-format-display =
     .label = Birtingarnafn
+about-addressbook-name-format-firstlast =
+    .label = Skírnarnafn, Eftirnafn
+about-addressbook-name-format-lastfirst =
+    .label = Eftirnafn, Skírnarnafn
+about-addressbook-sort-name-ascending =
+    .label = Raða eftir nafni (A > Ö)
+about-addressbook-sort-name-descending =
+    .label = Raða eftir nafni (Ö > A)
+about-addressbook-sort-email-ascending =
+    .label = Raða eftir tölvupóstfangi (A > Ö)
+about-addressbook-sort-email-descending =
+    .label = Raða eftir tölvupóstfangi (Ö > A)
+about-addressbook-cards-context-write =
+    .label = Skrifa
+about-addressbook-confirm-delete-mixed-title = Eyða tengiliðum og listum
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Ertu viss um að þú viljir eyða þessum { $count } tengiliðum og listum?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Eyða lista
+       *[other] Eyða listum
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Ertu viss um að þú viljir eyða { $name } listanum?
+       *[other] Ertu viss um að þú viljir eyða þessum { $count } listum?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Fjarlægja tengilið
+       *[other] Fjarlægja tengiliði
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Ertu viss um að þú viljir eyða { $name } úr { $list }?
+       *[other] Ertu viss um að þú viljir eyða þessum { $count } tengiliðum úr { $list }?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Eyða tengilið
+       *[other] Eyða tengiliðum
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Ertu viss um að þú viljir eyða tengiliðnum { $name }?
+       *[other] Ertu viss um að þú viljir eyða þessum { $count } tengiliðum?
+    }
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Breyta
+about-addressbook-cancel-edit-contact-button = Hætta við
+about-addressbook-save-edit-contact-button = Vista
+about-addressbook-details-email-addresses-header = Tölvupóstfang
+about-addressbook-details-phone-numbers-header = Símanúmer
+about-addressbook-details-home-address-header = Heimilisfang
+about-addressbook-details-work-address-header = Vinnustaður
+about-addressbook-details-other-info-header = Aðrar upplýsingar
+about-addressbook-prompt-to-save-title = Vista breytingar?
+about-addressbook-prompt-to-save = Viltu vista breytingarnar þínar?
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Slepptu eða límdu mynd hér, eða smelltu til að velja skrá.
+about-addressbook-photo-drop-loading = Hleð inn mynd...
+about-addressbook-photo-drop-error = Mistókst að hlaða inn mynd.
+about-addressbook-photo-filepicker-title = Veldu myndskrá
+about-addressbook-photo-discard = Henda fyrirliggjandi mynd
+about-addressbook-photo-cancel = Hætta við
+about-addressbook-photo-save = Vista
