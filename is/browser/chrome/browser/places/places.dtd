@@ -39,7 +39,7 @@
 <!ENTITY cmd.restore2.label             "Endurheimta">
 <!ENTITY cmd.restore2.accesskey         "r">
 <!ENTITY cmd.restoreFromFile.label      "Veldu skrá…">
-<!ENTITY cmd.restoreFromFile.accesskey  "V">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Nafn">
 <!ENTITY col.tags.label          "Tög">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Fara áfram">
 
 <!ENTITY detailsPane.selectAnItemText.description "Veldu hlut til að skoða og breyta">
-

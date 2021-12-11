@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -263,6 +263,8 @@ popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
 
 ## URL Bar
 
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Leita eða sláðu inn veffang
 # Variables
@@ -441,6 +443,13 @@ popups-infobar-dont-show-message =
     .label = Ekki sýna þessi skilaboð þegar sprettigluggum er lokað
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -475,3 +484,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Sýna alla flipa
     .tooltiptext = Sýna alla flipa
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Sýna mér hvernig

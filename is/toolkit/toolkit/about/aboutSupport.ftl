@@ -4,7 +4,6 @@
 
 page-title = Upplýsingar fyrir úrræðaleit
 page-subtitle =   Þessi síða inniheldur tæknilegar upplýsingar sem gætu verið hjálplegar ef þú ert að reyna að leysa eitthvað vandamál. Ef þú ert að leita að svörum við algengum spurningum um { -brand-short-name }, athugaðu þá <a data-l10n-name="support-link">hjálparvefsvæðið okkar</a>.
-
 crashes-title = Hrunskýrslur
 crashes-id = Skýrslu auðkenni
 crashes-send-date = Sent
@@ -31,6 +30,13 @@ app-basics-name = Nafn
 app-basics-version = Útgáfa
 app-basics-build-id = Byggingarauðkenni
 app-basics-update-channel = Uppfærslurás
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Uppfæra möppu
+       *[other] Uppfæra möppu
+    }
 app-basics-update-history = Uppfærslusaga
 app-basics-show-update-history = Sýna uppfærslusögu
 app-basics-profile-dir =
@@ -147,7 +153,6 @@ report-crash-for-days =
         [one] Hrunskýrslur fyrir seinasta { $days } dag
        *[other] Hrunskýrslur fyrir seinustu { $days } daga
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -155,7 +160,6 @@ crashes-time-minutes =
         [one] { $minutes } mínútu síðan
        *[other] { $minutes } mínútum síðan
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -163,7 +167,6 @@ crashes-time-hours =
         [one] { $hours } klukkustund síðan
        *[other] { $hours } klukkustundum síðan
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -171,7 +174,6 @@ crashes-time-days =
         [one] { $days } degi síðan
        *[other] { $days } dögum síðan
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -179,7 +181,6 @@ pending-reports =
         [one] Allar hrunskýrslur (einnig { $reports } hrunskýrsla í vinnslu á gefnum tíma)
        *[other] Allar hrunskýrslur (einnig { $reports } hrunskýrslur í vinnslu á gefnum tíma)
     }
-
 raw-data-copied = Hrá gögn afrituð á klemmuspjald
 text-copied = Texti afritaður á klemmuspjald
 
@@ -192,11 +193,9 @@ blocked-mismatched-version = Útgáfumismunur á milli stýrisrkáar og DLL sem 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Lokað á fyrir þína útgáfu af skjárekli. Reyndu að uppfæra skjárekil yfir í útgáfu { $driverVersion } eða nýrri.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType breytur
-
 compositing = Samsetning
 hardware-h264 = H264 kóðun í vélbúnaði
 main-thread-no-omtc = aðalþráður, ekkert OMTC
@@ -211,7 +210,6 @@ virtual-monitor-disp = Sýndarskjár
 
 found = Fannst
 missing = Vantar
-
 gpu-process-pid = GPUVinnslaPid
 gpu-process = GPUVinnsla
 gpu-description = Lýsing
@@ -233,14 +231,11 @@ webgl2-renderer = WebGL 2 myndrekill
 webgl2-version = WebGL 2 útgáfa rekils
 webgl2-driver-extensions = WebGL 2 reklaviðbætur
 webgl2-extensions = WebGL 2 viðbætur
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Á svörtum lista; villukóði { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Endurstilla í næstu endurræsingu
 gpu-process-kill-button = Stöðva GPU ferli
 gpu-device-reset = Endurstilla tæki
@@ -250,10 +245,8 @@ content-uses-tiling = Notar flísar (innihald)
 off-main-thread-paint-enabled = Litun fyrir utan aðalþráð virkt
 off-main-thread-paint-worker-count = Fjöldi vinnsluþráða fyrir litun fyrir utan aðalþráð
 target-frame-rate = Markhraði ramma
-
 min-lib-versions = Bjóst við lágmarksútgáfu
 loaded-lib-versions = Útgáfa í notkun
-
 has-seccomp-bpf = Seccomp-BPF (System Call sía)
 has-seccomp-tsync = Seccomp Þráða samstilling
 has-user-namespaces = Nafnarými notanda
@@ -266,17 +259,14 @@ sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = miðils tengiforrit
 sandbox-proc-type-data-decoder = gagnaafkóðari
-
 launcher-process-status-0 = Virkt
 launcher-process-status-1 = Óvirkt vegna óhapps
 launcher-process-status-2 = Gert óvirkt með valdi
 launcher-process-status-unknown = Óþekkt staða
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Ósamstillt Færa/Þysja
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt
@@ -298,6 +288,7 @@ policies-active = Virkt
 policies-error = Villa
 
 ## Printing section
+
 
 ## Normandy sections
 
