@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Preselecziun per examinar sbagls dad audio e video en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-networking-description = Preselecziun per examinar sbagls da rait en { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Rait
 profiler-popup-presets-custom-label =
     .label = Persunalisà
 
