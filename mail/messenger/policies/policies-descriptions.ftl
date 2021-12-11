@@ -10,12 +10,19 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-BlockAboutAddons = Loka á aðgang að viðbótastýringunni (about:addons).
 policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
+policy-DisableSecurityBypass = Koma í veg fyrir að notandinn fari framhjá ákveðnum öryggisaðvörunum.
 policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } setji upp og uppfæri kerfisviðbætur.
+policy-DisableTelemetry = Slökkva á gagnasöfnun.
+policy-DisplayMenuBar = Birta valmyndastikuna sjálfgefið.
+policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
+policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp viðbætur.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
