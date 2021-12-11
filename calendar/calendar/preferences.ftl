@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Dagatal
+calendar-title-reminder = Áminningar
+calendar-title-notification = Tilkynningar
+calendar-title-category = Flokkar
 dateformat-label =
     .value = Dagsetningarsnið:
     .accesskey = D
