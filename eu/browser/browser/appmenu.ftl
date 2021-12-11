@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
+profiler-popup-presets-networking-label =
+    .label = Sarea
 profiler-popup-presets-custom-label =
     .label = Pertsonalizatua
 
