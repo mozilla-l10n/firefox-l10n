@@ -202,6 +202,8 @@ profiler-popup-presets-graphics-label =
     .label = Графика
 profiler-popup-presets-media-label =
     .label = Медиа
+profiler-popup-presets-networking-label =
+    .label = Желі
 profiler-popup-presets-custom-label =
     .label = Таңдауыңызша
 
