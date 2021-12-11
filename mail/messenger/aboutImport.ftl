@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-page-title = Importazione
 
 ## Header
 
 import-from-app = Importa da applicazione
+import-from-app-desc = Scegli di importare account, rubriche, calendari e altri dati da:
 import-address-book = Importa file della rubrica
 import-calendar = Importa file del calendario
 
@@ -17,6 +19,9 @@ button-continue = Continua
 
 ## Import from app steps
 
+# Variables:
+#   $app (String) - The name of the app to import from
+profiles-pane-title = Importazione da { $app }
 profiles-pane-desc = Scegli la posizione da cui importare
 profile-file-picker-dir = Seleziona una cartella del profilo
 items-pane-title = Seleziona che cosa importare
