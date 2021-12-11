@@ -12,8 +12,7 @@ change-password-token = Öryggistæki: { $tokenName }
 change-password-old = Núverandi lykilorð:
 change-password-new = Nýtt lykilorð:
 change-password-reenter = Nýtt lykilorð (aftur):
-
-## Reset Password dialog
+pippki-pw-empty-warning = Geymdu lykilorðin þín og einkalyklar verða ekki vernduð.
 
 ## Reset Primary Password dialog
 
