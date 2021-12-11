@@ -112,6 +112,13 @@ openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
     .label = Tamaño
+openpgp-key-details-created-label =
+    .label = Creado
+openpgp-key-details-created-header = Creado
+openpgp-key-details-fingerprint-label = Huella dactilar
+openpgp-key-details-sel-action =
+    .label = Seleccionar acción…
+    .accesskey = S
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Cerrar
 openpgp-copy-cmd-label =
@@ -126,6 +133,8 @@ e2e-learn-more = Saber más
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ninguno
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira el: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
