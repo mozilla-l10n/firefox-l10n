@@ -4,6 +4,7 @@
 
 accounts-title = Cuentas de correo y noticias
 show-private-data-main-text = Incluye nombres de cuenta
+show-private-data-explanation-text = (posiblemente información de identificación)
 accounts-ID = ID
 accounts-name = Nombre
 accounts-incoming-server = Servidor entrante
