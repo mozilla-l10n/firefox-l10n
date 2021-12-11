@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Copïo llun sgrin i'r clipfwrdd
 screenshots-cancel-button-title =
     .title = Diddymu
+screenshots-retry-button-title =
+    .title = Cymryd sgrin llun eto
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
