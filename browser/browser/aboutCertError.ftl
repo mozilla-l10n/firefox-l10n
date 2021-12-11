@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } notar ógilt öryggisskilríki.
 cert-error-mitm-intro = Vefsíður staðfesta auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum (CA).
-cert-error-mitm-mozilla = { -brand-short-name } er stutt af Mozilla, samtökum sem ekki eru rekin í hagnaðarskyni, sem heldur úti alveg opinni CA-verslun. CA-verslunin aðstoðar við að tryggja að útgefendur skilríkja viðhafi sem bestar venjur við að gæta öryggis notenda.
-cert-error-mitm-connection = { -brand-short-name } notar CA-verslun Mozilla til þess að staðfesta öryggi tengingar, frekar en skilríki sem til staðar eru í stýrikerfi notanda. Þannig að, ef vírusvarnarforrit eða netkerfi lokar tengingu með öryggisskilríki frá CA sem er ekki í CA-verslun Mozilla, þá þykir tengingin óörugg.
+cert-error-mitm-mozilla = { -brand-short-name } er stutt af sjálfseignarstofnun Mozilla, samtökum sem ekki eru rekin í hagnaðarskyni, sem heldur úti alveg opinni CA-vottunarstöð. CA-vottunarstöðin hjálpar til við að tryggja að útgefendur skilríkja viðhafi sem bestar venjur við að gæta öryggis notenda.
+cert-error-mitm-connection = { -brand-short-name } notar CA-vottunarstöð Mozilla til þess að staðfesta öryggi tengingar, frekar en að styðjast við skilríki í stýrikerfi notandans. Þannig að, ef vírusvarnarforrit eða netkerfi lokar tengingu með öryggisskilríki frá CA-vottunaraðila sem er ekki í CA-vottunarstöð Mozilla, þá þykir tengingin óörugg.
 cert-error-trust-unknown-issuer-intro = Einhver kann að vera að herma eftir síðunni og ekki ætti að halda áfram.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
