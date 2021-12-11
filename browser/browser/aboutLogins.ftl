@@ -112,12 +112,32 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Hætta við
+confirmation-dialog-dismiss-button =
+    .title = Hætta við
+about-logins-confirm-remove-dialog-title = Fjarlægja þessa innskráningu?
+confirm-delete-dialog-message = Þessa aðgerð er ekki hægt að afturkalla.
+about-logins-confirm-remove-dialog-confirm-button = Fjarlægja
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Fjarlægja
+        [one] Fjarlægja
+       *[other] Fjarlægja allt
+    }
+about-logins-confirm-export-dialog-confirm-button = Flytja út…
+about-logins-alert-import-title = Innflutningi lokið
 
 ## Breach Alert notification
 
+about-logins-breach-alert-learn-more-link = Frekari upplýsingar
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Viðkvæmt lykilorð
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Fara á { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Fræðast meira
 
 ## Error Messages
 
