@@ -10,7 +10,9 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
+policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } setji upp og uppfæri kerfisviðbætur.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
