@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopiatu pantaila-argazkia arbelera
 screenshots-cancel-button-title =
     .title = Utzi
+screenshots-retry-button-title =
+    .title = Saiatu berriro pantaila-argazkia ateratzen
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

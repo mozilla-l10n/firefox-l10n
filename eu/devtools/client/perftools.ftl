@@ -136,6 +136,8 @@ perftools-presets-graphics-description = { -brand-shorter-name }(r)en programa-e
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description = Audio- eta bideo-arazoak diagnostikatzeko gomendatutako aurrezarpena.
 perftools-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
+perftools-presets-networking-label = Sarea
+perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
 perftools-presets-custom-label = Pertsonalizatua
 
 ##
