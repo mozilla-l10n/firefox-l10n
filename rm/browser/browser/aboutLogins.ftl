@@ -72,6 +72,8 @@ login-intro-instructions-fxa = Acceda al u creescha in { -fxaccount-brand-name(c
 login-intro-instructions-fxa-settings = Acceder a Parameters > Sync > Activar la sincronisaziun… Activar la chaschetta da controlla Infurmaziuns d'annunzia e pleds-clav.
 login-intro-instructions-fxa-help = Per agid, visitar <a data-l10n-name="help-link">il support da { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur èsi pussaivel da las <a data-l10n-name="import-link">importar en { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Visita il <a data-l10n-name="passwords-help-link">support per pleds-clav</a> per ulteriur agid.
+about-logins-intro-browser-only-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur, èsi pussaivel da las <a data-l10n-name="import-link">importar en { -brand-product-name }</a>
 about-logins-intro-import2 = Sche tias infurmaziuns d'annunzia èn memorisadas ordaifer { -brand-product-name }, pos ti <a data-l10n-name="import-browser-link">las importar dad in auter navigatur</a> u <a data-l10n-name="import-file-link">dad ina datoteca</a>
 
 ## Login
