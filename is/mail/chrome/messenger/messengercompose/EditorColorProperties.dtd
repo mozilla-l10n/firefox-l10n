@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Bakgrunnsmynd:">
 <!ENTITY backgroundImage.accessKey "m">
 <!ENTITY backgroundImage.tooltip "Nota mynd sem bakgrunn fyrir síðuna">
+<!ENTITY backgroundImage.shortenedDataURI "Stytt URI-slóð gagna (afritun setur fulla slóð á klippispjald)">

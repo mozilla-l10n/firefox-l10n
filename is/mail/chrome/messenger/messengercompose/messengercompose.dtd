@@ -87,10 +87,14 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Endurraða viðhengjum">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Færa saman">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Röðun: A - Ö">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Röðun: Ö - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
