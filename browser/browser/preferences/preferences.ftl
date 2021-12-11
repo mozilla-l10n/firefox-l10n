@@ -827,6 +827,11 @@ certs-view =
 certs-devices =
     .label = Öryggistæki…
     .accesskey = y
+space-alert-over-5gb-settings-button =
+    .label = Opna stillingar
+    .accesskey = O
+space-alert-over-5gb-message2 = { -brand-short-name } er verða búið með diskaplássið. Mögulega birtist innihald vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og öryggi > Vefkökur og gögn vefsvæðis.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða uppiskroppa með diskpláss.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Farðu á „Frekari upplýsingar“ til að hámarka disknotkun þína fyrir betra vafur.
 
 ## Privacy Section - HTTPS-Only
 
