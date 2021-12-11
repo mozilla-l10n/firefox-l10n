@@ -111,12 +111,18 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Бастау
 mr1-onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
+    .title = { -brand-short-name } негізгі браузер етіп, тапсырмалар панеліне бекітеді
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
 mr1-onboarding-set-default-secondary-button-label = Қазір емес
 mr1-onboarding-sign-in-button-label = Кіру
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name } өнімін негізгі браузер қылу
 mr1-onboarding-default-subtitle = Жылдамдық, қауіпсіздік және жекелікті автопилотқа орнатыңыз.
 mr1-onboarding-default-primary-button-label = Негізгі браузер қылу
 
@@ -132,6 +138,8 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } ішін�
 mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 mr1-onboarding-import-secondary-button-label = Қазір емес
 mr2-onboarding-colorway-header = Түрлі-түсті өмір
+mr2-onboarding-colorway-subtitle = Жаңа, жарық түстер схемалары. Шектеулі уақыт ішінде ғана қолжетімді.
+mr2-onboarding-colorway-primary-button-label = Түстер схемасын сақтау
 mr2-onboarding-colorway-secondary-button-label = Қазір емес
 mr2-onboarding-colorway-label-soft = Жұмсақ
 mr2-onboarding-colorway-label-balanced = Теңгерілген
@@ -247,6 +255,24 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         динамикалық, түрлі-түсті теманы қолдану.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Бұл түстер схемасын қолдану.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Бұл түстер схемасын қолдану.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = { $colorwayName } түстер схемаларын шолу.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = { $colorwayName } түстер схемаларын шолу.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Бастапқы темаларды шолу.
