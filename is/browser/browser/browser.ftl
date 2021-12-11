@@ -209,6 +209,8 @@ identity-insecure-login-forms = Hugsanlega gæti þriðji aðili komist yfir all
 identity-permissions-reload-hint = Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.
 identity-clear-site-data =
     .label = Hreinsa vefkökur og síðugögn…
+identity-ev-owner-label = Skilríki útgefið til:
+identity-description-custom-root = Mozilla viðurkennir ekki þennan skilríkisútgefanda. Það kann að hafa verið bætt við af hálfu stýrikerfisins þíns eða af stjórnanda. <label data-l10n-name="link">Frekari upplýsingar</label>
 identity-remove-cert-exception =
     .label = Fjarlægja undantekningu
     .accesskey = r
