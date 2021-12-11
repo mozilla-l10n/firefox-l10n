@@ -4,6 +4,13 @@
 
 account-central-title = Bienvenido a { -brand-full-name }
 account-settings = Configuraciones de la cuenta
+#   $accounts (Number) - the number of configured accounts
+setup-title =
+    { $accounts ->
+        [0] Elegir que configurar
+        [one] Configurar otra cuenta
+       *[other] Configurar otra cuenta
+    }
 about-title = Acerca de { -brand-full-name }
 resources-title = Recursos
 release-notes =
