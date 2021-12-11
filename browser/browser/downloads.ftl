@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -163,6 +158,8 @@ downloading-file-opens-in-minutes = Vaise abrir en { $minutes }m...
 downloading-file-opens-in-minutes-and-seconds = Vaise abrir en { $minutes }m { $seconds }s…
 downloading-file-opens-in-seconds = Vaise abrir en { $seconds }s...
 downloading-file-opens-in-some-time = Abrir ao completar...
+downloading-file-click-to-open =
+    .value = Abrir ao completar
 
 ##
 
@@ -184,6 +181,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalles da descarga
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Ficheiro non descargado
+       *[other] Non se descargaron { $num } ficheiros.
+    }
+downloads-blocked-from-url = Descargas bloqueadas desde { $url }.
+downloads-blocked-download-detailed-info = { $url } tentou descargar automaticamente varios ficheiros. O sitio podería estar roto ou tentando almacenar ficheiros de spam no seu dispositivo.
+
+##
+
 downloads-clear-downloads-button =
     .label = Borrar as descargas
     .tooltiptext = Borra as descargas rematadas, canceladas ou que fallaron
