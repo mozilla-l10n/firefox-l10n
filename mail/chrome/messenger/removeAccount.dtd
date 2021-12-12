@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialogTitle                  "Odstrániť účet a údaje">
+<!ENTITY dialogTitle                  "Odstránenie účtu a správ">
 <!ENTITY removeButton.label           "Odstrániť">
 <!ENTITY removeButton.accesskey       "O">
 <!ENTITY removeAccount.label          "Odstrániť údaje o účte">
-<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.accesskey      "s">
 <!ENTITY removeAccount.desc           "Odstráni sa iba záznam o tomto účte v aplikácii &brandShortName;. Samotný účet na serveri ostane neovplyvnený.">
-<!ENTITY removeData.label             "Odstrániť údaje správ">
+<!ENTITY removeData.label             "Odstrániť správy">
 <!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataChat.label         "Odstrániť údaje konverzácie">
 <!ENTITY removeDataChat.accesskey     "d">
