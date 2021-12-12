@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+touchbar-fullscreen-exit = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
 new-tab = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 
 ## Various categories of shortcuts for search.
