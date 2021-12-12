@@ -106,6 +106,14 @@ info-known-breaches-found =
        *[other] در نفوذهای اطلاعاتی شناخته شده اطلاعات شما فاش شده است
     }
 monitor-no-breaches-title = خبر خوب!
+monitor-no-breaches-description = هیچ نفوذ اطلاعاتی شناخته شده‌ای در مورد شما وجود ندارد. اگر چیزی تغییر کند، به شما اطلاع خواهیم داد.
+monitor-view-report-link = نمایش گزارش
+    .title = رفع نفوذها در { -monitor-brand-short-name }
+monitor-manage-breaches-link = مدیریت نفوذها
+    .title = مدیریت نفوذهای خود در { -monitor-brand-short-name }
+monitor-partial-breaches-motivation-title-start = شروعی عالی!
+monitor-partial-breaches-motivation-title-middle = ادامه بده!
+monitor-partial-breaches-motivation-title-end = تقریبا تمام شد! ادامه بده.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
