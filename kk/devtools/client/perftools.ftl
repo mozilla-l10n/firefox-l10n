@@ -95,6 +95,8 @@ perftools-thread-img-decoder =
     .title = Суреттерді декодтау ағындары
 perftools-thread-dns-resolver =
     .title = DNS шешуі бұл ағында орын алады
+perftools-thread-task-controller =
+    .title = TaskController ағындар пулының ағындары
 
 ##
 
@@ -120,6 +122,7 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Веб-әзірлеуші
+perftools-presets-web-developer-description = Веб-қолданбалардың көбін жөндеуге арналған, қосымша шығындары аз баптаулар жиынтығы.
 perftools-presets-firefox-platform-label = Firefox платформасы
 perftools-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
 perftools-presets-firefox-front-end-label = Firefox клиент бөлігі
@@ -127,9 +130,12 @@ perftools-presets-firefox-front-end-description = Firefox клиент бөіл�
 perftools-presets-firefox-graphics-label = Firefox графикасы
 perftools-presets-firefox-graphics-description = Firefox графикасы өнімділігін тексеру үшін ұсынылған баптаулар.
 perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = { -brand-shorter-name } профильдеу үшін ұсынылатын баптаулар жиынтығы.
 perftools-presets-graphics-label = Графика
+perftools-presets-graphics-description = { -brand-shorter-name } ішінде графика ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-media-label = Медиа
 perftools-presets-media-description = Аудио және видео мәселелерін диагностикалау үшін ұсынылған баптаулар.
+perftools-presets-media-description2 = { -brand-shorter-name } ішінде аудио және видео ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-custom-label = Таңдауыңызша
