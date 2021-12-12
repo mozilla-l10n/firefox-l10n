@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Расона
+profiler-popup-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Шабакасозӣ
 profiler-popup-presets-custom-label =
     .label = Фармоишӣ
 
