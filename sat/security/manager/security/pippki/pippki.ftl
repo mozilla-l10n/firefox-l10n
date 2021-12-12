@@ -10,8 +10,8 @@ password-quality-meter = दानाङ साबाद गुन मिटा�
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = जा़पती साधोन: { $tokenName }
 change-password-old = नितोगाक् दानाङ साबाद :
-change-password-new = नावा दानाङ साबाद :
-change-password-reenter = नावा दानाङ साबाद (दोहड़ा ):
+change-password-new = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ :
+change-password-reenter = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ (ᱫᱩᱦᱲᱟᱹ):
 
 ## Reset Primary Password dialog
 

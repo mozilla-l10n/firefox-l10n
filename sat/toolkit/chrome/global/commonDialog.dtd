@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editfield0.label "का़मी यिजाक् ञुतुम">
+<!ENTITY editfield0.label "ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ :">
 <!ENTITY editfield1.label "दानाङ साबाद :">
 <!ENTITY copyCmd.label    "नोकोल">
 <!ENTITY copyCmd.accesskey "C">
