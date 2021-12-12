@@ -44,6 +44,9 @@ cryptominer-tab-title = استخراج کننده‌های رمزارزها
 protections-close-button2 =
     .aria-label = بستن
     .title = بستن
+mobile-app-title = ردیاب‌های تبلیغاتی را در دستگاه‌های بیشتری مسدود کنید
+mobile-app-card-content = از یک مرورگر تلفن همراه که بطور پیش‌فرض از شما در برابر ردیاب‌های تبلیغاتی محافظت می‌کند استفاده کنید.
+mobile-app-links = { -brand-product-name } مرورگری برای <a data-l10n-name="android-mobile-inline-link">اندروید</a> و <a data-l10n-name="ios-mobile-inline-link" ">iOS</a>
 lockwise-title = هرگز گذرواژه را فراموش نکن
 lockwise-title-logged-in2 = مدیریت گذرواژه‌ها
 lockwise-header-content = { -lockwise-brand-name } گذرواژه‌های شما را به صورت امن در مرورگر ذخیره می‌کند.
