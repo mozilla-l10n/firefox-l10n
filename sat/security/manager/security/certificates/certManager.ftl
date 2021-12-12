@@ -123,6 +123,8 @@ delete-email-cert-title =
     .title = इ-मेल पोरमान साकाम  मेटाव में
 delete-email-cert-confirm = चेत् आम गोटा आकात् आ नुकू होड़ कोवाक् पोरमान साकाम मेटाव सानाम काना?
 delete-email-cert-impact = जुदी आम  होड़ कोवाक् इ-मेल पोरमान साकाम मेटावा ,आम उनकु ला़गित् दानाङ इ-मेल भेजा आर बाम दाड़ेयाक् आ.
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (ᱵᱟᱹᱱᱩᱜᱼᱟ)
 
 ## Used to show whether an override is temporary or permanent
 

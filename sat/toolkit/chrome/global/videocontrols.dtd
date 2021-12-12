@@ -2,14 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "खिलोंड">
 <!ENTITY playButton.pauseLabel "तिंग होचो">
 <!ENTITY muteButton.muteLabel "बोबा">
 <!ENTITY muteButton.unmuteLabel "साडे होचो">
 <!ENTITY fullscreenButton.enterfullscreenlabel "पुरा़ स्क्रिन">
-<!ENTITY fullscreenButton.exitfullscreenlabel "पुरा़ स्क्रिन खोन बाहरे">
+<!ENTITY fullscreenButton.exitfullscreenlabel "ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ ᱾">
 <!ENTITY castingButton.castingLabel "Cast to Screen">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
 
 <!ENTITY error.aborted "मिडियो लादे तिंगुयेना.">
 <!ENTITY error.network "मिडियो खेलोंड रुवा़ड़ मित् नेटवार्क भुल कारोन ते आड़ाक् होचो केत् आ .">
@@ -17,11 +30,7 @@
 <!ENTITY error.srcNotSupported "मिडियो तेयार आर बाङ  MIME लेकान दो बाङ गोड़ोवाक् काना  .">
 <!ENTITY error.noSource2 "गोड़ोवाक् तेयार आर  MIME  लेकान सांव जाहान मिडियो बाय ञाम लेना .">
 <!ENTITY error.generic "मिडियो सेतोंड रुवाड़ मित् बाङ बाडाय भुल कारोन ते आड़ाक् लेना. ">
-<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
-media position, and the #2 string is the total duration. For example, when at
-the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
--->
+
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
@@ -31,4 +40,3 @@ Note that #2 is not always available. For example, when at the 5 minute mark in 
 unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
-

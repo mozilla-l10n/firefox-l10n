@@ -100,10 +100,9 @@ print-preparing =
 print-progress =
     .value = ᱩᱛᱷᱱᱟᱹᱣ:
 print-window =
-    .title = ᱪᱷᱟᱯᱟᱜ ᱠᱷᱟᱱᱟ
+    .title = ᱪᱷᱟᱯᱟᱜ ᱠᱟᱱᱟ
 print-complete =
     .value = ᱪᱷᱟᱯᱟ ᱫᱚ ᱯᱩᱨᱟᱹᱣᱮᱱᱟ
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
