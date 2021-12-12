@@ -52,7 +52,7 @@ perftools-devtools-settings-label = Ajustes
 perftools-status-private-browsing-notice =
     El perfilador se desactiva cuando se activa la navegación privada.
     Cierra todas las ventanas privadas para volver a activar el perfilador
-perftools-status-recording-stopped-by-another-tool = Otra herramienta detuvo la grabación
+perftools-status-recording-stopped-by-another-tool = Otra herramienta detuvo la grabación.
 perftools-status-restart-required = Se debe reiniciar el navegador para habilitar esta función.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
