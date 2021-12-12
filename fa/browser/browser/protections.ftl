@@ -45,11 +45,35 @@ protections-close-button2 =
 lockwise-title = هرگز گذرواژه را فراموش نکن
 lockwise-title-logged-in2 = مدیریت گذرواژه‌ها
 lockwise-header-content = { -lockwise-brand-name } گذرواژه‌های شما را به صورت امن در مرورگر ذخیره می‌کند.
+passwords-title-logged-in = مدیریت گذرواژه‌های خود
+passwords-header-content = { -brand-product-name } گذرواژه‌های شما رو بطور امن در مرورگر ذخیره می‌کند.
 lockwise-header-content-logged-in = ذخیره امن گذرواژه‌ها و همگام‌سازی با تمام دستگاه های شما.
 protection-report-save-passwords-button = ذخیره گذرواژه‌ها
     .title = ذخیره گذرواژه‌ها در { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = مدیریت گذرواژه‌ها
     .title = مدیریت گذرواژه‌ها در { -lockwise-brand-short-name }
+lockwise-mobile-app-title = گذرواژه‌هایتان را همه جا با خود داشته باشید
+protection-report-passwords-save-passwords-button = ذخیره گذرواژه‌ها
+    .title = ذخیره گذرواژه‌ها
+protection-report-passwords-manage-passwords-button = مدیریت گذرواژه‌ها
+    .title = مدیریت گذرواژه‌ها
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] ۱ گذرواژهٔ شما ممکن است در یک نفوذ اطلاعاتی افشا شده باشد.
+       *[other] { $count } گذرواژهٔ شما ممکن است در یک نفوذ اطلاعاتی افشا شده باشند.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] ۱ گذرواژه به طور ایمن ذخیره شد.
+       *[other] گذرواژه‌های شما به طور ایمن ذخیره شده‌اند.
+    }
+lockwise-how-it-works-link = چگونه کار می‌کند
 monitor-title = مواضب نشت اطلاعات باشید
 monitor-link = چگونه کار می‌کند
 monitor-header-content-no-account = { -monitor-brand-name } را بررسی کنید تا ببینید آیا تاکنون بخشی از نشت‌های اطلاعاتی شناخته شده بوده‌اید یا خیر، و در مورد نشت‌های جدید هشدار دریافت نمایید.

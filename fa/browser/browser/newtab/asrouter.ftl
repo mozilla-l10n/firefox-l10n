@@ -150,5 +150,8 @@ spotlight-total-cookie-protection-header =
     اولین نفری باشید که قوی‌ترین آزمایش
     حریم‌خصوصی ما را تست می‌کند
 spotlight-total-cookie-protection-body = محافظت کامل در برابر کوکی‌ها مانع از استفاده ردیاب‌ها از کوکی‌ها برای تعقیب شما در وب می‌شود.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } حصاری در اطراف کوکی‌ها ایجاد می‌کند و آنها را به سایتی که در آن هستید محدود می‌کند تا ردیاب‌ها نتوانند از آنها برای دنبال کردن شما استفاده کنند. با دسترسی زودهنگام، به بهینه‌سازی این ویژگی کمک خواهید کرد تا بتوانیم به ساختن یک وبِ بهتر برای همه ادامه دهیم.
 spotlight-total-cookie-protection-primary-button = روشن کردن محافظت کامل در برابر کوکی‌ها
 spotlight-total-cookie-protection-secondary-button = اکنون نه
