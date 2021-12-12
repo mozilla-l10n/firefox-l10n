@@ -192,6 +192,7 @@ downloads-files-not-downloaded =
        *[other] { $num }файл жүктелмеді.
     }
 downloads-blocked-from-url = { $url } адресінен жүктемелер бұғатталған.
+downloads-blocked-download-detailed-info = { $url } бірнеше файлды жүктеп алу талабын жасады. Бұл сайт сынған немесе ол құрылғыңызда спам файлдарын сақтау талабын жасаған болуы мүмкін.
 
 ##
 

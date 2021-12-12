@@ -142,4 +142,9 @@ spotlight-public-wifi-vpn-link = Қазір емес
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-body = Cookie файлдарынан Толық қорғаныс интернетте сізді бақылау үшін трекерлерге cookie файлдарын қолдануға жол бермейді.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } cookie файлдарының айналасын қоршап, оларды сіз кіретін сайтпен шектейді, сондықтан трекерлер оларды сізді бақылау үшін пайдалана алмайды. Ертерек қолжетімділік арқылы сіз бұл мүмкіндікті оңтайландыруға көмектесесіз, осылайша біз барлығы үшін жақсырақ Интернетті жасауды жалғастыра аламыз.
+spotlight-total-cookie-protection-primary-button = Cookie файлдарынан Толық қорғанысты іске қосу
 spotlight-total-cookie-protection-secondary-button = Қазір емес
