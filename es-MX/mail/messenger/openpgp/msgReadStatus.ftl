@@ -8,6 +8,8 @@
 message-header-show-security-info-key = S
 openpgp-view-signer-key =
     .label = Ver clave de firmante
+openpgp-view-your-encryption-key =
+    .label = Ver tu clave de descifrado
 openpgp-openpgp = OpenPGP
 openpgp-invalid-sig = Firma digital no válida
 openpgp-good-sig = Buena firma digital
