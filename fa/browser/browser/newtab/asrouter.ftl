@@ -84,6 +84,13 @@ cfr-whatsnew-release-notes-link-text = یادداشت‌های انتشار را
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } از تاریخ { DATETIME($date, month: "long", year: "numeric") } بیش از <b>{ $blockedCount }</b> ردیاب را مسدود کرده است.
+    }
 cfr-doorhanger-milestone-ok-button = نمایش همه
     .accesskey = ن
 cfr-doorhanger-milestone-close-button = بستن
@@ -91,6 +98,7 @@ cfr-doorhanger-milestone-close-button = بستن
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = حریم خصوصی شما مهم است. از این پس { -brand-short-name } درخواست‌های DNS شما را هر زمان که ممکن است به صورت ایمن به یک سرویس شرکایمان هدایت می‌کند تا هنگام مرور از شما محافظت کند.
 cfr-doorhanger-doh-header = جست‌وجوی DNS رمزنگاری‌شدهٔ امن‌تر
 cfr-doorhanger-doh-primary-button-2 = بسیار خب
     .accesskey = خ
@@ -141,3 +149,6 @@ spotlight-public-wifi-vpn-link = اکنون نه
 spotlight-total-cookie-protection-header =
     اولین نفری باشید که قوی‌ترین آزمایش
     حریم‌خصوصی ما را تست می‌کند
+spotlight-total-cookie-protection-body = محافظت کامل در برابر کوکی‌ها مانع از استفاده ردیاب‌ها از کوکی‌ها برای تعقیب شما در وب می‌شود.
+spotlight-total-cookie-protection-primary-button = روشن کردن محافظت کامل در برابر کوکی‌ها
+spotlight-total-cookie-protection-secondary-button = اکنون نه
