@@ -33,6 +33,8 @@ protection-report-manage-protections = مدیریت تنظیمات
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = امروز
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = نموداری حاوی تعداد کل هر نوع ردیاب مسدود شده در این هفته.
 social-tab-title = ردیاب‌های شبکه‌های اجتماعی
 cookie-tab-title = کوکی‌هایِ ردیابِ بین‌پایگاهی
 cookie-tab-content = این کوکی‌ها از سایتی به سایتی دیگر شما را دنبال می‌کنند تا اطلاعات مربوط به کارهایی که آنلاین انجام می‌دهید را جمع‌آوری کنند. آنها توسط اشخاص ثالث مانند تبلیغ کنندگان و شرکت های تجزیه و تحلیل داده تولید و تنظیم می‌شوند. مسدود کردن کوکی‌های ردیابی بین پایگاهی، تعداد تبلیغاتی را که شما را دنبال می کنند، کاهش می‌دهد. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
@@ -114,6 +116,17 @@ monitor-breaches-unresolved-description = پس از بررسی جزئیات نف
 monitor-manage-breaches-link = مدیریت نفوذها
     .title = مدیریت نفوذهای خود در { -monitor-brand-short-name }
 monitor-breaches-resolved-title = عالی! شما تمام نقض‌های شناخته شده را رفع کرده‌اید.
+monitor-breaches-resolved-description = اگر ایمیل شما در نفوذ اطلاعاتی جدیدی مشاهده شود، ما به شما اطلاع خواهیم داد.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } مورد از { $numBreaches } نفوذ به عنوان رفع شده علامت‌گذاری شده است
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }٪ رفع شده
 monitor-partial-breaches-motivation-title-start = شروعی عالی!
 monitor-partial-breaches-motivation-title-middle = ادامه بده!
 monitor-partial-breaches-motivation-title-end = تقریبا تمام شد! ادامه بده.
