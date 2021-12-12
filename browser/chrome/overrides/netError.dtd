@@ -66,6 +66,8 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; یک تهدید امنیتی بالقوه شناسایی کرد و به <span class='hostname'/> ادامه نداد. اگر از این سایت بازدید کنید، مهاجمان می‌توانند اطلاعاتی مانند گذرواژه، ایمیل‌ها یا جزئیات کارت اعتباری شما را سرقت کنند.">
+<!ENTITY certerror.sts.introPara "&brandShortName; یک تهدید امنیتی بالقوه را شناسایی کرد و به <span class='hostname'/> ادامه نداد زیرا که این وب سایت به اتصال ایمن نیاز دارد.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "چه کاری می‌توانید در مورد آن انجام دهید؟">
