@@ -193,6 +193,7 @@ downloads-files-not-downloaded =
        *[other] { $num } файл боргирӣ карда нашуданд
     }
 downloads-blocked-from-url = Боргириҳо аз { $url } манъ карда шудаанд.
+downloads-blocked-download-detailed-info = { $url } кӯшиш кард, ки якчанд файлро ба таври худкор боргирӣ кунад. Эҳтимол, сомона вайрон бошад ё кӯшиш мекунад, ки файлҳои нолозимро ба дастгоҳи шумо захира намояд.
 
 ##
 
