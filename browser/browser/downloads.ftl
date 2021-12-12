@@ -191,6 +191,7 @@ downloads-files-not-downloaded =
     { $num ->
        *[other] { $num }файл жүктелмеді.
     }
+downloads-blocked-from-url = { $url } адресінен жүктемелер бұғатталған.
 
 ##
 
