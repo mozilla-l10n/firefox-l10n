@@ -184,6 +184,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Веб-қолданбалардың көбін жөндеуге арналған, қосымша шығындары аз баптаулар жиынтығы.
 profiler-popup-presets-web-developer-label =
     .label = Веб-әзірлеуші
 profiler-popup-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
