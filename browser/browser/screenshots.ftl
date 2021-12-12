@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = رونوشت تصویر گرفته شده در کلیپ‌بورد
 screenshots-cancel-button-title =
     .title = لغو
+screenshots-retry-button-title =
+    .title = تلاش مجدد
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
