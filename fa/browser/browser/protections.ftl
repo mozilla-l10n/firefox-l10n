@@ -114,6 +114,9 @@ monitor-manage-breaches-link = مدیریت نفوذها
 monitor-partial-breaches-motivation-title-start = شروعی عالی!
 monitor-partial-breaches-motivation-title-middle = ادامه بده!
 monitor-partial-breaches-motivation-title-end = تقریبا تمام شد! ادامه بده.
+monitor-partial-breaches-motivation-description = سایر موارد نفوذ اطلاعاتی را در { -monitor-brand-short-name } رفع کنید.
+monitor-resolve-breaches-link = رفع نفوذها
+    .title = نفوذها را در { -monitor-brand-short-name } رفع کنید
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -122,10 +125,38 @@ monitor-partial-breaches-motivation-title-end = تقریبا تمام شد! اد
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = ردیاب‌های شبکه‌های اجتماعی
+    .aria-label =
+        { $count ->
+            [one] { $count } ردیاب شبکه‌های اجتماعی ({ $percentage }%)
+           *[other] { $count } ردیاب‌های شبکه‌های اجتماعی ({ $percentage }%)
+        }
 bar-tooltip-cookie =
     .title = کوکی‌هایِ ردیابِ بین‌پایگاهی
     .aria-label =
         { $count ->
             [one] { $count } کوکی ردیابِ بین‌پایگاهی ({ $percentage }٪)
            *[other] { $count } کوکی‌هایِ ردیابِ بین‌پایگاهی ({ $percentage }٪)
+        }
+bar-tooltip-tracker =
+    .title = محتوای ردیابی
+    .aria-label =
+        { $count ->
+            [one] { $count } محتوای ردیابی ({ $percentage }%)
+           *[other] { $count } محتوای ردیابی ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = برداشت کنندگان اثر انگشت
+    .aria-label =
+        { $count ->
+            [one] { $count } برداشت کننده اثر انگشت ({ $percentage }%)
+           *[other] { $count } برداشت کنندگان اثر انگشت ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = استخراج کننده‌های رمزارزها
+    .aria-label =
+        { $count ->
+            [one] { $count } استخراج کننده رمزارزها ({ $percentage }%)
+           *[other] { $count } استخراج کننده‌های رمزارزها ({ $percentage }%)
         }
