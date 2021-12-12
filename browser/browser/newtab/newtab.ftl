@@ -230,6 +230,7 @@ newtab-pocket-more-recommendations = Көбірек ұсыныстар
 newtab-pocket-learn-more = Көбірек білу
 newtab-pocket-cta-button = { -pocket-brand-name }-ті алу
 newtab-pocket-cta-text = Өзіңіз ұнатқан хикаяларды { -pocket-brand-name } ішіне сақтап, миіңізді тамаша оқумен толықтырыңыз.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } өнімі { -brand-product-name } отбасының мүшесі болып табылады
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } ішіне сақтау
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } ішіне сақталды
