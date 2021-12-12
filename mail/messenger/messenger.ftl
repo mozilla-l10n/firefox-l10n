@@ -9,6 +9,7 @@ unread-messages-os-tooltip =
         [one] 1 mensaje no leído
        *[other] { $count } mensajes no leídos
     }
+about-rights-notification-text = { -brand-short-name } es un software gratuito y de código abierto, creado por una comunidad de miles de personas de todo el mundo.
 
 ## Content tabs
 
@@ -49,6 +50,9 @@ show-unread-folders-label =
 show-favorite-folders-label =
     .label = Carpetas favoritas
     .accesskey = C
+show-smart-folders-label =
+    .label = Carpetas unificadas
+    .accesskey = u
 show-recent-folders-label =
     .label = Carpetas recientes
     .accesskey = C
@@ -58,6 +62,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Redirigir
+    .accesskey = d
 menu-file-save-as-file =
     .label = Archivo…
     .accesskey = F
@@ -85,6 +92,14 @@ appmenu-redirect-msg =
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Redirigir
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Eliminar mensaje
+           *[other] Eliminar mensajes seleccionados
+        }
 
 ## Message header pane
 
@@ -100,6 +115,8 @@ toolbar-context-menu-remove-extension =
 
 ## Message headers
 
+message-header-address-in-address-book-icon =
+    .alt = La dirección está en la libreta de direcciones
 
 ## Add-on removal warning
 
@@ -107,8 +124,12 @@ toolbar-context-menu-remove-extension =
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = ¿Eliminar { $name }?
 addon-removal-confirmation-button = Eliminar
+caret-browsing-prompt-title = Navegación con cursor
 caret-browsing-prompt-check-text = No volver a preguntar.
 
 ## no-reply handling
 
 no-reply-reply-anyway-button = Responder de todos modos
+
+## error messages
+
