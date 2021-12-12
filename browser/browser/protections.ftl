@@ -53,6 +53,8 @@ protection-report-save-passwords-button = ذخیره گذرواژه‌ها
 protection-report-manage-passwords-button = مدیریت گذرواژه‌ها
     .title = مدیریت گذرواژه‌ها در { -lockwise-brand-short-name }
 lockwise-mobile-app-title = گذرواژه‌هایتان را همه جا با خود داشته باشید
+lockwise-no-logins-card-content = از گذرواژه‌های ذخیره شدهٔ خود در { -brand-short-name } در هر دستگاه دیگری استفاده کنید.
+lockwise-app-links = { -lockwise-brand-name } برای <a data-l10n-name="lockwise-android-inline-link">Android</a> و <a data-l10n-name="lockwise-ios-inline-link" >iOS</a>
 protection-report-passwords-save-passwords-button = ذخیره گذرواژه‌ها
     .title = ذخیره گذرواژه‌ها
 protection-report-passwords-manage-passwords-button = مدیریت گذرواژه‌ها
@@ -78,6 +80,32 @@ monitor-title = مواضب نشت اطلاعات باشید
 monitor-link = چگونه کار می‌کند
 monitor-header-content-no-account = { -monitor-brand-name } را بررسی کنید تا ببینید آیا تاکنون بخشی از نشت‌های اطلاعاتی شناخته شده بوده‌اید یا خیر، و در مورد نشت‌های جدید هشدار دریافت نمایید.
 monitor-header-content-signed-in = { -monitor-brand-name } اگر اطلاعات شما در نشت‌های اطلاعاتی شناخته شده باشد، به شما هشدار می‌دهد.
+monitor-sign-up-link = برای دریافت هشدارهای نفوذ اطلاعاتی ثبت‌نام کنید
+    .title = برای دریافت هشدارهای نفوذ اطلاعاتی در { -monitor-brand-name } ثبت‌نام کنید
+auto-scan = امروز به صورت خودکار اسکن شد
+monitor-emails-tooltip =
+    .title = نمایش آدرس‌های ایمیل در حال نظارت در { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = مشاهده نفوذهای اطلاعاتی شناخته شده در { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = نمایش گذرواژه‌های افشا شده در { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] آدرس ایمیل در حال نظارت
+       *[other] آدرس‌های ایمیل در حال نظارت
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] در یک نفوذ اطلاعاتی شناخته شده اطلاعات شما فاش شده است
+       *[other] در نفوذهای اطلاعاتی شناخته شده اطلاعات شما فاش شده است
+    }
+monitor-no-breaches-title = خبر خوب!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
