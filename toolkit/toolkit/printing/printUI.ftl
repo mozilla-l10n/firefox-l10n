@@ -41,6 +41,10 @@ printui-scale-pcent = مقیاس
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = چاپ دو طرفه
 printui-two-sided-printing-off = خاموش
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = شبرازه در ضلع بزرگتر
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = شیرازه در ضلع کوچکتر
 # Section title for miscellaneous print options
 printui-options = گزینه‌ها
 printui-headers-footers-checkbox = چاپ عنوان و پاورقی
