@@ -159,6 +159,7 @@ language-name-ru = روسی
 language-name-rw = کینیارواندایی
 language-name-sa = سنسکریت
 language-name-sc = ساردینیایی
+language-name-sco = Scots
 language-name-sd = سندی
 language-name-se = سامی (شمالی)
 language-name-sg = سانگویی
