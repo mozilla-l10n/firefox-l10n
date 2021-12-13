@@ -10,6 +10,7 @@ search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = دریافت برنامه‌های افزودنی و تم‌ها در <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-get-dictionaries-message = دریافت لغتنامه‌ها در <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = دریافت بسته‌های زبانی در <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = هیچ افزودنی‌ای از این نوع نصب نشده است
 list-empty-available-updates =
@@ -23,6 +24,9 @@ list-empty-button =
 help-button = پشتیبانی افزونه
 sidebar-help-button-title =
     .title = پشتیبانی افزونه
+addons-settings-button = تنظیمات { -brand-short-name }
+sidebar-settings-button-title =
+    .title = تنظیمات { -brand-short-name }
 show-unsigned-extensions-button =
     .label = برخی از توسعه‌ها را نمی‌توان تایید کرد
 show-all-extensions-button =
@@ -48,6 +52,12 @@ detail-update-manual =
     .tooltiptext = بروزرسانی‌های جدید به صورت خودکار نصب نشوند
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = اجرا در پنجره‌های ناشناس
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = در پنجره‌های ناشناس مجاز نیست
+detail-private-disallowed-description2 = این افزونه در مرور ناشناس اجرا نمی‌شود. <a data-l10n-name="learn-more">بیشتر بیاموزید</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = نیازمند دسترسی به پنجره‌های ناشناس است
 detail-private-required-description2 = این افزونه به فعالیت‌های برخط شما در حال مرور ناشناس دسترسی دارد. <a data-l10n-name="learn-more"> بیشتر بیاموزید</a>
 detail-private-browsing-on =
     .label = اجازه دادن
@@ -174,6 +184,9 @@ addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = مدیریت میانبرهای افزودنی
+    .accesskey = م
 shortcuts-no-addons = شما هیچ افزونه فعالی ندارید.
 shortcuts-input =
     .placeholder = یک میانبر وارد کنید
