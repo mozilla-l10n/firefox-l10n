@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Engedélyezve">
 <!ENTITY newButton.label "Új…">
 <!ENTITY newButton.accesskey "Ú">
+<!ENTITY copyButton.label "Másolás…">
+<!ENTITY copyButton.accesskey "M">
 <!ENTITY editButton.label "Szerkesztés…">
 <!ENTITY editButton.accesskey "S">
 <!ENTITY deleteButton.label "Törlés">
 <!ENTITY deleteButton.accesskey "T">
+<!ENTITY reorderTopButton "Áthelyezés a tetejére">
+<!ENTITY reorderTopButton.accessKey "t">
+<!ENTITY reorderTopButton.toolTip "Szűrő átrendezése, hogy a többi előtt fusson">
 <!ENTITY reorderUpButton.label "Mozgatás felfelé">
 <!ENTITY reorderUpButton.accesskey "f">
 <!ENTITY reorderDownButton.label "Mozgatás lefelé">
 <!ENTITY reorderDownButton.accesskey "l">
+<!ENTITY reorderBottomButton "Áthelyezés az aljára">
+<!ENTITY reorderBottomButton.accessKey "a">
+<!ENTITY reorderBottomButton.toolTip "Szűrő átrendezése, hogy a többi után fusson">
 <!ENTITY filterHeader.label "Az engedélyezett szűrők a következő sorrendben fognak futni:">
 <!ENTITY filtersForPrefix.label "Szűrők a következőkhöz:">
 <!ENTITY filtersForPrefix.accesskey "z">

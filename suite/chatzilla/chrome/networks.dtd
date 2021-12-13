@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Hálózatszerkesztő">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Alapértelmezések visszaállítása">
 <!ENTITY restoreButton.accesskey      "v">
+
+<!ENTITY connectNetwork.label         "Csatlakozás a hálózathoz">
+<!ENTITY connectNetwork.accesskey     "h">
 
 <!ENTITY networkListAdd.label         "Hálózat hozzáadása…">
 <!ENTITY networkListAdd.accesskey     "a">
