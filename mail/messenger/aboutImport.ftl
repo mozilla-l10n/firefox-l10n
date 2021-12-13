@@ -6,12 +6,15 @@ import-page-title = Importation
 
 ## Header
 
+import-from-app = Importer depuis l’application
 import-address-book = Importer le fichier d’un carnet d’adresses
 import-calendar = Importer le fichier d’un agenda
 
 ## Buttons
 
 button-cancel = Annuler
+button-back = Retour
+button-continue = Continuer
 
 ## Import from app steps
 
