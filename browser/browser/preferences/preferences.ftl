@@ -781,7 +781,7 @@ forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Momentálne sa používa režim FIPS. Režim FIPS vyžaduje nastavenie hlavného hesla.
 forms-master-pw-fips-desc = Heslo sa nepodarilo zmeniť
 forms-windows-sso =
-    .label = Povoliť jednotné prihlásenie systému Windows pre účty Microsoft, pracovné a školské účty
+    .label = Povoliť jednotné prihlásenie systému Windows pre konto Microsoft a pracovné a školské účty
 forms-windows-sso-learn-more-link = Ďalšie informácie
 forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zariadenia
 
