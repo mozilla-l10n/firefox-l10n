@@ -22,7 +22,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
 label for a variation of the Picture-in-Picture video toggle button when the mouse is
 hovering over the video. -->
-<!ENTITY pictureInPictureToggle.label "Görüntü içinde görüntü modunda izle">
+<!ENTITY pictureInPictureToggle.label "Görüntü içinde görüntü">
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
@@ -46,4 +46,3 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
-
