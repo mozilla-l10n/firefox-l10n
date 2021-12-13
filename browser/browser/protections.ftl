@@ -26,6 +26,8 @@ protection-report-webpage-title = تابلوی محافظت‌ها
 protection-report-page-content-title = تابلوی محافظت‌ها
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } می‌تواند از حریم‌خصوصی شما در پس‌زمینه محافظت کند. این خلاصه‌ای شخصی از حفاظت‌ها، از جمله ابزارهایی برای کنترل امنیت شما است.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } از حریم‌خصوصی شما در پس‌زمینه در هنگام مرور اینترنت محافظت می‌کند. این یک خلاصهٔ شخصی از آن حفاظت‌ها، از جمله ابزارهایی برای کنترل امنیت آنلاین شما است.
 protection-report-settings-link = تنظیمات حریم خصوصی و امنیت خود را مدیریت کنید
 etp-card-title-always = محافظت پیشرفته در برابر ردیابی: همیشه روشن
 etp-card-title-custom-not-blocking = محافظت پیشرفته در برابر ردیابی: خاموش
@@ -38,11 +40,15 @@ graph-today = امروز
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = نموداری حاوی تعداد کل هر نوع ردیاب مسدود شده در این هفته.
 social-tab-title = ردیاب‌های شبکه‌های اجتماعی
+social-tab-contant = شبکه‌های اجتماعی ردیاب‌هایی را در وب سایت‌های دیگر قرار می‌دهند تا آنچه را که انجام می‌دهید، مشاهده یا تماشا می‌کنید را دنبال کنند. این کار به این شرکت‌ها اجازه می‌دهد تا فراتر از آنچه در نمایهٔ شبکهٔ اجتماعی خود به اشتراک می‌گذارید، درباره شما اطلاعات جمع کنند. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
 cookie-tab-title = کوکی‌هایِ ردیابِ بین‌پایگاهی
 cookie-tab-content = این کوکی‌ها از سایتی به سایتی دیگر شما را دنبال می‌کنند تا اطلاعات مربوط به کارهایی که آنلاین انجام می‌دهید را جمع‌آوری کنند. آنها توسط اشخاص ثالث مانند تبلیغ کنندگان و شرکت های تجزیه و تحلیل داده تولید و تنظیم می‌شوند. مسدود کردن کوکی‌های ردیابی بین پایگاهی، تعداد تبلیغاتی را که شما را دنبال می کنند، کاهش می‌دهد. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
 tracker-tab-title = محتوای ردیابی کننده
+tracker-tab-description = وب سایت‌ها ممکن است تبلیغات خارجی، فیلم‌ها و سایر محتواها را با کد رهگیری بارگذاری کنند. مسدود کردن محتوای ردیابی می‌تواند به بارگیری سریع‌تر سایت‌ها کمک کند، اما برخی از دکمه‌ها، فرم‌ها و فیلدهای ورود به سیستم ممکن است کار نکنند. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
 fingerprinter-tab-title = برداشت کنندگان اثر انگشت
+fingerprinter-tab-content = برداشت کنندگان اثر انگشت، تنظیماتِ مرورگر و رایانه شما جمع‌آوری می‌کنند تا نمایه‌ای از شما ایجاد کنند. با استفاده از این اثر انگشت دیجیتالی، آنها می‌توانند شما را در وب‌سایت‌های مختلف ردیابی کنند. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
 cryptominer-tab-title = استخراج کننده‌های رمزارزها
+cryptominer-tab-content = جمع‌کنندگان ارز دیجیتال سعی می‌کنند با استفاده از توان پردازشی کامپیوتر شما ارز دیجیتال تولید کنند. این‌ها باتری شما را خالی می‌کنند و باعث می‌شوند که هزینه بیشتری برای انرژی بدهید و کامپیوتر کُندتری داشته باشید. <a data-l10n-name="learn-more-link">بیشتر بیاموزید</a>
 protections-close-button2 =
     .aria-label = بستن
     .title = بستن
