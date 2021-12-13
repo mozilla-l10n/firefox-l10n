@@ -9,12 +9,31 @@ import-page-title = Importar
 import-from-app = Importar desde aplicación
 import-from-app-desc = Elegí para importar cuentas, libretas de direcciones, calendarios y otros datos de:
 import-address-book = Importar archivo de libreta de direcciones
+import-calendar = Importar archivo de calendario
 
 ## Buttons
 
+button-cancel = Cancelar
+button-back = Atrás
+button-continue = Continuar
 
 ## Import from app steps
 
+# Variables:
+#   $app (String) - The name of the app to import from
+profiles-pane-title = Importar desde { $app }
+profiles-pane-desc = Elegir la ubicación desde la cual importar
+profile-file-picker-dir = Seleccionar una carpeta de perfil
+profile-file-picker-zip = Seleccionar un archivo zip (menor a 2GB)
+items-pane-title = Seleccionar qué importar
+items-pane-desc = Importar de
+items-pane-checkbox-accounts = Cuentas y configuración
+items-pane-checkbox-address-books = Libretas de direcciones
+items-pane-checkbox-calendars = Calendarios
+items-pane-checkbox-mail-messages = Mensajes de correo
 
 ## Import dialog
 
+progress-pane-title = Importando
+progress-pane-restart-desc = Reiniciar para finalizar la importación.
+error-pane-title = Error
