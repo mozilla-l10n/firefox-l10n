@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopeeri ekraanipilt vahemällu
 screenshots-cancel-button-title =
     .title = Loobu
+screenshots-retry-button-title =
+    .title = Proovi ekraanipilti uuesti teha
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
