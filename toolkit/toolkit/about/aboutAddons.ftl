@@ -188,9 +188,13 @@ addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
 addon-manage-extensions-shortcuts = مدیریت میانبرهای افزودنی
     .accesskey = م
 shortcuts-no-addons = شما هیچ افزونه فعالی ندارید.
+shortcuts-no-commands = افرونه‌های زیر میانبر ندارند:
 shortcuts-input =
     .placeholder = یک میانبر وارد کنید
+shortcuts-browserAction2 = فعال‌سازی دکمهٔ نوار ابزار
 shortcuts-sidebarAction = تغییر حالت نوار کناری
+shortcuts-modifier-mac = شامل Ctrl ،Alt یا ⌘
+shortcuts-modifier-other = شامل Ctrl یا Alt
 shortcuts-invalid = ترکیب نامعتبر است
 shortcuts-letter = یک حرف تایپ کنید
 shortcuts-system = نمی‌توان یک میانبر { -brand-short-name } را باطل کرد
@@ -226,6 +230,7 @@ install-theme-button = نصب پوسته
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = مدیریت
 find-more-addons = یافتن افزونه‌های بیشتر
+find-more-themes = تم‌های بیشتری پیدا کنید
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -235,8 +240,14 @@ addon-options-button =
 
 report-addon-button = گزارش
 remove-addon-button = حذف
+# The link will always be shown after the other text.
+remove-addon-disabled-button = نمی‌توان حذف کرد <a data-l10n-name="link">چرا؟</a>
 disable-addon-button = غیرفعال کردن
 enable-addon-button = فعال کردن
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = فعال‌سازی
 preferences-addon-button =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -249,6 +260,7 @@ extension-enabled-heading = فعال شد
 extension-disabled-heading = غیرفعال شد
 theme-enabled-heading = فعال شد
 theme-disabled-heading = غیرفعال شد
+theme-monochromatic-heading = رنگ‌بندی‌ها
 plugin-enabled-heading = فعال شد
 plugin-disabled-heading = غیرفعال شد
 dictionary-enabled-heading = فعال شد
