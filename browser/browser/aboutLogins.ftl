@@ -71,6 +71,7 @@ login-intro-instructions-fxa = បង្កើត ឬ​ចូល​ { -fxaccoun
 login-intro-instructions-fxa-settings = ចូលទៅ​កាន់ ការកំណត់ > ធ្វើសមកាលកម្ម > បើក​ការធ្វើសមកាលកម្ម... ជ្រើសរើស​ប្រអប់​ការចូល និង​ពាក្យសម្ងាត់។
 login-intro-instructions-fxa-help = ចូលមើល <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> សម្រាប់​ជំនួយបន្ថែម។
 about-logins-intro-import = ប្រសិនបើការចូលរបស់អ្នកត្រូវបានរក្សាទុកនៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិតផ្សេងទៀតអ្នកអាច <a data-l10n-name="import-link"> នាំចូលការចូលទាំងនោះទៅក្នុង { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = ចូលមើល​<a data-l10n-name="passwords-help-link">ជំនួយ​ពាក្យសម្ងាត់</a>​សម្រាប់​ជំនួយ​បន្ថែម។
 about-logins-intro-import2 = ប្រសិនបើ​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក​ក្រៅពៅ { -brand-product-name } អ្នក​អាច <a data-l10n-name="import-browser-link">នាំចូល​ការចូល​ទាំងនោះ​ពី​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ផ្សេង</a> ឬ <a data-l10n-name="import-file-link">ពី​ឯកសារ</a>
 
 ## Login
