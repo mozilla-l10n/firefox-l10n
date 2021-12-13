@@ -24,6 +24,8 @@ graph-private-window = { -brand-short-name } همچنان به مسدود کرد
 graph-week-summary-private-window = ردیاب‌هایی که { -brand-short-name } در این هفته مسدود کرده
 protection-report-webpage-title = تابلوی محافظت‌ها
 protection-report-page-content-title = تابلوی محافظت‌ها
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } می‌تواند از حریم‌خصوصی شما در پس‌زمینه محافظت کند. این خلاصه‌ای شخصی از حفاظت‌ها، از جمله ابزارهایی برای کنترل امنیت شما است.
 protection-report-settings-link = تنظیمات حریم خصوصی و امنیت خود را مدیریت کنید
 etp-card-title-always = محافظت پیشرفته در برابر ردیابی: همیشه روشن
 etp-card-title-custom-not-blocking = محافظت پیشرفته در برابر ردیابی: خاموش
@@ -109,6 +111,30 @@ info-known-breaches-found =
     { $count ->
         [one] در یک نفوذ اطلاعاتی شناخته شده اطلاعات شما فاش شده است
        *[other] در نفوذهای اطلاعاتی شناخته شده اطلاعات شما فاش شده است
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] نفوذ اطلاعاتی شناخته شده به عنوان رفع شده علامت گذاری شده
+       *[other] نفوذ اطلاعاتی شناخته شده به عنوان رفع شده علامت گذاری شده‌اند
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] گذرواژه در تمام نفوذها مشاهده شده
+       *[other] گذرواژه در تمام نفوذها مشاهده شده‌اند
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] گذرواژه در نفوذهای رفع نشده مشاهده شد
+       *[other] گذرواژه در نفوذهای رفع نشده مشاهده شده‌اند
     }
 monitor-no-breaches-title = خبر خوب!
 monitor-no-breaches-description = هیچ نفوذ اطلاعاتی شناخته شده‌ای در مورد شما وجود ندارد. اگر چیزی تغییر کند، به شما اطلاع خواهیم داد.
