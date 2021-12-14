@@ -149,5 +149,6 @@ spotlight-public-wifi-vpn-link = Ҳоло не
 spotlight-total-cookie-protection-header =
     Аз таҷрибаи навтарини боқувват барои
     ҳифзи махфияти шахсӣ истифода баред
+spotlight-total-cookie-protection-body = «Муҳофизати пурра аз кукиҳо» васоити пайгириро аз истифодаи кукиҳо қатъ мекунад, то ки онҳо шуморо дар шабака пайгирӣ накунанд.
 spotlight-total-cookie-protection-primary-button = Фаъол кардани «Муҳофизати пурра аз кукиҳо»
 spotlight-total-cookie-protection-secondary-button = Ҳоло не
