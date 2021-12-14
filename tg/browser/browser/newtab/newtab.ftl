@@ -71,6 +71,7 @@ newtab-topsites-add-button = Илова кардан
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = Шумо мутмаин ҳастед, ки мехоҳед ҳар як намунаи ин саҳифаро аз таърихи худ тоза намоед?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ин амал бекор карда намешавад.
 
