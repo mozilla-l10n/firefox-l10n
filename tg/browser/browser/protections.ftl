@@ -2,51 +2,50 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } дар давоми ҳафтаи гузашта { $count } василаи пайгириро манъ кард
+       *[other] { -brand-short-name } дар давоми ҳафтаи гузашта { $count } василаи пайгириро манъ кард
+    }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Васоити пайгирие, ки { -brand-short-name } дар ин ҳафта манъ кард
 protection-report-webpage-title = Лавҳаи вазъияти муҳофизат
 protection-report-page-content-title = Лавҳаи вазъияти муҳофизат
-
 protection-report-settings-link = Танзимоти махфият ва амнияти худро идора кунед
-
 etp-card-title-always = Муҳофизати такмилёфта аз пайгирӣ: Ҳамеша фаъол
 etp-card-title-custom-not-blocking = Муҳофизати такмилёфта аз пайгирӣ: Ғайрифаъол
 protection-report-manage-protections = Идоракунии танзимот
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Имрӯз
-
 social-tab-title = Васоити пайгирии шабакаҳои иҷтимоӣ
-
 cookie-tab-title = Кукиҳои васоити пайгирӣ байни сомонаҳо
-
 tracker-tab-title = Муҳтавои пайгирикунанда
-
 fingerprinter-tab-title = Хонандаи нақши ангушт
-
 cryptominer-tab-title = Криптомайнерҳо
-
 protections-close-button2 =
     .aria-label = Пӯшидан
     .title = Пӯшидан
-
 lockwise-title = Ниҳонвожаи худро дигар фаромӯш накунед
 lockwise-title-logged-in2 = Идоракунии ниҳонвожаҳо
+lockwise-header-content = { -lockwise-brand-name } ниҳонвожаҳои шуморо дар браузер ба таври бехатар нигоҳ медорад.
+passwords-title-logged-in = Идоракунии ниҳонвожаҳои шумо
+passwords-header-content = { -brand-product-name } ниҳонвожаҳои шуморо дар браузер ба таври бехатар нигоҳ медорад.
+lockwise-header-content-logged-in = Ниҳонвожаҳои худро ба ҳамаи дастгоҳҳои худ ба таври бехатар нигоҳ доред ва ҳамоҳанг созед.
 protection-report-save-passwords-button = Нигоҳ доштани ниҳонвожаҳо
     .title = Нигоҳ доштани ниҳонвожаҳо дар { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Идоракунии ниҳонвожаҳо
     .title = Идоракунии ниҳонвожаҳо дар { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Ниҳонвожаҳои худро аз ҷойи дилхоҳ ба даст оред
-
 lockwise-how-it-works-link = Чӣ тавр кор мекунад
-
 monitor-link = Чӣ тавр кор мекунад
 monitor-sign-up-link = Барои огоҳиҳои вайронкунӣ обуна шавед
     .title = Барои огоҳиҳои вайронкунӣ дар { -monitor-brand-name } обуна шавед
-
 monitor-no-breaches-title = Хабари хуш!
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
-
 monitor-partial-breaches-motivation-title-start = Оғози олӣ!
 monitor-partial-breaches-motivation-title-middle = Давом диҳед!
 monitor-partial-breaches-motivation-title-end = Қариб иҷро шуд! Давом диҳед.

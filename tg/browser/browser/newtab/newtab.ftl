@@ -207,6 +207,7 @@ newtab-empty-section-highlights = Тамошокунии сомонаҳоро о
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Шумо ҳамаро хондед!
+newtab-discovery-empty-section-topstories-content = Барои ҳикоятҳои бештар дертар баргардед.
 newtab-discovery-empty-section-topstories-try-again-button = Аз нав кӯшиш кардан
 newtab-discovery-empty-section-topstories-loading = Бор шуда истодааст…
 # Displays when a layout in a section took too long to fetch articles.
@@ -216,6 +217,7 @@ newtab-discovery-empty-section-topstories-timed-out = Хуш! Мо ин қисм
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Мавзӯъҳои маъмул:
+newtab-pocket-new-topics-title = Ҳикоятҳои боз ҳам бештар лозиманд? Ба ҳамин мавзуъҳои оммавӣ аз { -pocket-brand-name } нигаред
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
