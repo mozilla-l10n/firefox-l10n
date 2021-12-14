@@ -123,3 +123,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Mõõtkava peab olema vahemikus 10 kuni 200.
 printui-error-invalid-margin = Palun paberi suurusele vastavad korrektsed servade sätted.
 printui-error-invalid-copies = Eksemplaride arv peab jääma vahemikku 1 kuni 10000.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Vahemik peab olema arv vahemikus 1 kuni { $numPages }.
+printui-error-invalid-start-overflow = Esimese lehe number peab olema väiksem kui viimase lehe number.
