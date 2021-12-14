@@ -60,12 +60,66 @@ printui-source-label = Formaat
 printui-source-radio = Originaal
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Valik
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Lihtsustatud
 
 ##
 
+printui-color-mode-label = Värvirežiim
+printui-color-mode-color = värviline
+printui-color-mode-bw = mustvalge
+printui-margins = Servad
+printui-margins-default = vaikimisi
+printui-margins-min = minimaalsed
+printui-margins-none = puuduvad
+printui-margins-custom-inches = kohandatud (tollides)
+printui-margins-custom-mm = kohandatud (mm)
+printui-margins-custom-top = Üleval
+printui-margins-custom-top-inches = Üleval (tollides)
+printui-margins-custom-top-mm = Üleval (mm)
+printui-margins-custom-bottom = All
+printui-margins-custom-bottom-inches = All (tollides)
+printui-margins-custom-bottom-mm = All (mm)
+printui-margins-custom-left = Vasakul
+printui-margins-custom-left-inches = Vasakul (tollides)
+printui-margins-custom-left-mm = Vasakul (mm)
+printui-margins-custom-right = Paremal
+printui-margins-custom-right-inches = Paremal (tollides)
+printui-margins-custom-right-mm = Paremal (mm)
+printui-system-dialog-link = Prindi kasutades süsteemset dialoogi…
+printui-primary-button = Prindi
+printui-primary-button-save = Salvesta
+printui-cancel-button = Loobu
+printui-close-button = Sulge
+printui-loading = Eelvaate ettevalmistamine
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Lehekülje eelvaade
+printui-pages-per-sheet = Lehekülgi lehel
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Printimine…
+printui-print-progress-indicator-saving = Salvestamine…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Mõõtkava peab olema vahemikus 10 kuni 200.
+printui-error-invalid-margin = Palun paberi suurusele vastavad korrektsed servade sätted.
+printui-error-invalid-copies = Eksemplaride arv peab jääma vahemikku 1 kuni 10000.
