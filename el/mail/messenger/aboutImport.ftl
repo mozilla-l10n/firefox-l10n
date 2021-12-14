@@ -7,6 +7,7 @@ import-page-title = Εισαγωγή
 ## Header
 
 import-from-app = Εισαγωγή από εφαρμογή
+import-address-book = Εισαγωγή αρχείου ευρετηρίου
 import-calendar = Εισαγωγή αρχείου ημερολογίου
 
 ## Buttons
@@ -20,10 +21,14 @@ button-continue = Συνέχεια
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Εισαγωγή από { $app }
+items-pane-desc = Εισαγωγή από
 items-pane-checkbox-accounts = Λογαριασμοί και ρυθμίσεις
 items-pane-checkbox-address-books = Ευρετήρια
 items-pane-checkbox-calendars = Ημερολόγια
+items-pane-checkbox-mail-messages = Μηνύματα email
 
 ## Import dialog
 
+progress-pane-title = Εισαγωγή
+progress-pane-restart-desc = Κάντε επανεκκίνηση για να ολοκληρώσετε την εισαγωγή.
 error-pane-title = Σφάλμα
