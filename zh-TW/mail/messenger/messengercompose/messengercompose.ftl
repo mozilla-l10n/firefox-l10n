@@ -250,3 +250,5 @@ cloud-file-rename-error = 在 { $provider } 重新命名 { $filename } 時發生
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-with-custom-message-title = 在 { $provider } 重新命名 { $filename } 失敗
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } 不支援重新命名已上傳的檔案。
