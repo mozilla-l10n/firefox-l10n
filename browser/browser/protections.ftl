@@ -207,13 +207,13 @@ bar-tooltip-social =
            *[other] { $count } pśeslědowakow socialnych medijow ({ $percentage } %)
         }
 bar-tooltip-cookie =
-    .title = Slědujuce cookieje mjazy sedłami
+    .title = Sedła pśesegajuce slědujuce cookieje
     .aria-label =
         { $count ->
-            [one] { $count } slědujucy cookie mjazy sedłami ({ $percentage } %)
-            [two] { $count } slědujucej cookieja mjazy sedłami ({ $percentage } %)
-            [few] { $count } slědujuce cookieje mjaz sedłami ({ $percentage } %)
-           *[other] { $count } slědujucych cookiejow mjazy sedłami ({ $percentage } %)
+            [one] { $count } sedła pśesegajucy slědujucy cookie ({ $percentage } %)
+            [two] { $count } sedła pśesegajucej slědujucej cookieja ({ $percentage } %)
+            [few] { $count } sedła pśesegajuce slědujuce cookieje ({ $percentage } %)
+           *[other] { $count } sedła pśesegajucych slědujucych cookiejow ({ $percentage } %)
         }
 bar-tooltip-tracker =
     .title = Slědujuce wopśimjeśe
