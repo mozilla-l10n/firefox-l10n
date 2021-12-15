@@ -294,6 +294,7 @@ fission-status-experiment-control = מושבת על־ידי ניסוי
 fission-status-experiment-treatment = מופעל על־ידי ניסוי
 fission-status-disabled-by-e10s-env = מושבת על־ידי הסביבה
 fission-status-enabled-by-env = מופעל על־ידי הסביבה
+fission-status-disabled-by-env = מושבת על־ידי הסביבה
 fission-status-disabled-by-safe-mode = מושבת על־ידי מצב בטוח
 fission-status-enabled-by-default = מופעל כברירת מחדל
 fission-status-disabled-by-default = מושבת כברירת מחדל

@@ -859,6 +859,8 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = עוגיות מעקב חוצות אתרים — כולל עוגיות של רשתות חברתיות
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = עוגיות חוצות אתרים — כולל עוגיות של רשתות חברתיות
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = עוגיות מעקב חוצות אתרים
 sitedata-option-block-unvisited =
     .label = עוגיות מאתרים שלא ביקרתי בהם
 sitedata-option-block-all-third-party =
@@ -938,6 +940,11 @@ content-blocking-all-windows-tracking-content = תוכן מעקב בכל החל�
 content-blocking-all-third-party-cookies = כל העוגיות צד־שלישי
 content-blocking-cryptominers = כורי מטבעות דיגיטליים
 content-blocking-fingerprinters = רכיבי זהות דיגיטלית
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = נסו את תכונת הפרטיות העוצמתית ביותר שלנו אי פעם
+    .accesskey = נ
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = הגנת עוגיות מלאה מגבילה עוגיות לאתר שבו אתה נמצא, כך שרכיבי מעקב לא יכולים להשתמש בהם כדי לעקוב אחרי בין אתרים.
 content-blocking-etp-standard-tcp-rollout-learn-more = מידע נוסף
