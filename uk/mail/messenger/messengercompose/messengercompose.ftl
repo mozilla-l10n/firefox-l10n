@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -45,7 +45,7 @@ pill-action-expand-list =
     .label = Розгорнути список
     .accesskey = з
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -107,7 +107,7 @@ drop-file-label-inline =
        *[many] Додати всередині вмісту
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Перемістити перше
@@ -121,14 +121,14 @@ button-return-receipt =
     .label = Підтвердження отримання
     .tooltiptext = Надсилати запит про підтвердження отримання цього повідомлення
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Підписати повідомлення
 message-to-be-encrypted-icon =
     .alt = Зашифрувати повідомлення
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Кому
@@ -248,3 +248,18 @@ encrypted-bcc-ignore-button = Зрозуміло
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Вилучити стилі тексту
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Не вдалося вивантажити { $filename } до { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Помилка перейменування
+cloud-file-rename-error = Виникла проблема з перейменуванням { $filename } на { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Не вдалося перейменувати { $filename } на { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } не підтримує перейменування вже вивантажених файлів.
