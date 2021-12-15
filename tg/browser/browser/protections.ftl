@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } дар давоми ҳафтаи гузашта { $count } василаи пайгириро манъ кард
        *[other] { -brand-short-name } дар давоми ҳафтаи гузашта { $count } василаи пайгириро манъ кард
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> воситаи пайгирӣ аз { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } манъ карда шуд
+       *[other] <b>{ $count }</b> воситаи пайгирӣ аз { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } манъ карда шудаанд
+    }
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Васоити пайгирие, ки { -brand-short-name } дар ин ҳафта манъ кард
 protection-report-webpage-title = Лавҳаи вазъияти муҳофизат

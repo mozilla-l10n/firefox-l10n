@@ -5,74 +5,57 @@
 permissions-window =
     .title = Истисноҳо
     .style = width: 45em
-
 permissions-address = Нишонии сомона
     .accesskey = Н
-
 permissions-block =
     .label = Манъ кардан
     .accesskey = М
-
 permissions-session =
     .label = Барои ҷаласа иҷозат додан
     .accesskey = Б
-
 permissions-allow =
     .label = Иҷозат додан
     .accesskey = И
-
 permissions-button-off =
     .label = Хомӯш кардан
     .accesskey = Х
-
 permissions-button-off-temporarily =
     .label = Муваққатан хомӯш кардан
     .accesskey = М
-
 permissions-site-name =
     .label = Сомона
-
 permissions-status =
     .label = Вазъият
-
 permissions-remove =
     .label = Тоза кардани сомона
     .accesskey = Т
-
 permissions-remove-all =
     .label = Тоза кардани ҳамаи сомонаҳо
     .accesskey = Т
-
 permission-dialog =
     .buttonlabelaccept = Нигоҳ доштани тағйирот
     .buttonaccesskeyaccept = Н
-
 permissions-autoplay-menu = Пешфарз барои ҳамаи сомонаҳо:
-
 permissions-searchbox =
     .placeholder = Ҷустуҷӯи сомонаҳо
-
 permissions-capabilities-autoplay-allow =
     .label = Иҷозат додани аудио ва видео
 permissions-capabilities-autoplay-block =
     .label = Манъ кардани аудио
 permissions-capabilities-autoplay-blockall =
     .label = Манъ кардани аудио ва видео
-
 permissions-capabilities-allow =
     .label = Иҷозат додан
 permissions-capabilities-block =
     .label = Манъ кардан
 permissions-capabilities-prompt =
     .label = Ҳамеша пурсидан
-
 permissions-capabilities-listitem-allow =
     .value = Иҷозат додан
 permissions-capabilities-listitem-block =
     .value = Манъ кардан
 permissions-capabilities-listitem-allow-session =
     .value = Барои ҷаласа иҷозат додан
-
 permissions-capabilities-listitem-off =
     .value = Ғайрифаъол кардан
 permissions-capabilities-listitem-off-temporarily =
@@ -98,6 +81,9 @@ permissions-exceptions-cookie-window =
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
