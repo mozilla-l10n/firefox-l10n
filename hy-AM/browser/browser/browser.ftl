@@ -567,6 +567,7 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանյութ կամ տեսանյութ օգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի օգտագործումը:
 eme-notifications-drm-content-playing-manage = Կառավարել կարգավորումները
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Բաց թողնել
 
 ## Password save/update panel
 
