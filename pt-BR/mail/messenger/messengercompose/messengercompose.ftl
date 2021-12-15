@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Expandir lista
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -102,7 +102,7 @@ drop-file-label-inline =
        *[other] Inserir na mensagem
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Mover para ser o primeiro
@@ -116,14 +116,14 @@ button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Assinar mensagem
 message-to-be-encrypted-icon =
     .alt = Criptografar mensagem
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Para
@@ -241,3 +241,18 @@ encrypted-bcc-ignore-button = Entendi
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Remover estilo de texto
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Falha no envio de { $filename } para { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Erro ao renomear
+cloud-file-rename-error = Houve um problema ao renomear { $filename } em { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Falha ao renomear { $filename } em { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } não aceita renomear arquivos já enviados.
