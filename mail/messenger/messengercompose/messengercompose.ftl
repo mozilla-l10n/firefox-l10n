@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -51,7 +51,7 @@ pill-action-expand-list =
     .label = Ehangu'r Rhestr
     .accesskey = E
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -122,7 +122,7 @@ drop-file-label-inline =
        *[other] Atodiad ar-lein
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Symud yn Gyntaf
@@ -136,14 +136,14 @@ button-return-receipt =
     .label = Derbynneb
     .tooltiptext = Gofyn am dderbynneb dychwelyd i'r neges hon
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Llofnodi neges
 message-to-be-encrypted-icon =
     .alt = Amgryptio neges
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = At
@@ -269,3 +269,12 @@ encrypted-bcc-ignore-button = Wedi Deall
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tynnu Steilio Testun
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Methodd Llwytho { $filename } i { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Gwall Ail-enwi
