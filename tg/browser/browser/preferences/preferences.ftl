@@ -92,6 +92,9 @@ extension-controlled-proxy-config = Васеъшавии <img data-l10n-name="ic
 ## Preferences UI Search Results
 
 search-results-header = Натиҷаи ҷустуҷӯ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Бубахшед! Ягон натиҷа барои “<span data-l10n-name="query"></span>” дар Танзимот вуҷуд надорад.
+search-results-help-link = Ба кумак ниёз доред? Ба сомонаи <a data-l10n-name="url">Дастгирии { -brand-short-name }</a> гузаред
 
 ## General Section
 
@@ -126,6 +129,14 @@ warn-on-close-multiple-tabs =
     .accesskey = О
 confirm-on-close-multiple-tabs =
     .label = Тасдиқ кардан пеш аз пӯшидани якчанд варақа
+    .accesskey = Т
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Тасдиқ кардан ба воситаи { $quitKey } пеш аз баромадан
     .accesskey = Т
 switch-to-new-tabs =
     .label = Вақте ки шумо пайванд, тасвир ё расонаеро дар варақаи нав мекушоед, ба он дарҳол гузаред
