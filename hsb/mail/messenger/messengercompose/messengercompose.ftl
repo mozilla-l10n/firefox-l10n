@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -47,7 +47,7 @@ pill-action-expand-list =
     .label = Lisćinu pokazać
     .accesskey = i
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -112,7 +112,7 @@ drop-file-label-inline =
        *[other] Inline připowěsnyć
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Na spočatk přesunyć
@@ -126,14 +126,14 @@ button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Powěsć signować
 message-to-be-encrypted-icon =
     .alt = Powěsć zaklučować
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Komu
@@ -255,3 +255,18 @@ encrypted-bcc-ignore-button = Sym zrozumił
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstowy stil wotstronić
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Nahrawanje { $filename }  na { $provider } njeje so porjedźiło
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Přemjenowanski zmylk
+cloud-file-rename-error = Při přemjenowanju { $filename } na { $provider } je zmylk nastał.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Přemjenowanje { $filename }  na { $provider } njeje so porjedźiło
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } přemjenowanje hižo nahratych datajow njepodpěruje.
