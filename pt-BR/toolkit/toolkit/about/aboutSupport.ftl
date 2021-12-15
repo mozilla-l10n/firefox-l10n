@@ -325,6 +325,7 @@ fission-status-experiment-control = Desativado por experimento
 fission-status-experiment-treatment = Ativado por experimento
 fission-status-disabled-by-e10s-env = Desativado pelo ambiente
 fission-status-enabled-by-env = Ativado pelo ambiente
+fission-status-disabled-by-env = Desativado pelo ambiente
 fission-status-disabled-by-safe-mode = Desativado pelo modo de segurança
 fission-status-enabled-by-default = Ativado por padrão
 fission-status-disabled-by-default = Desativado por padrão
