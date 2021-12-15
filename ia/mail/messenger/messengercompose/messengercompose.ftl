@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Expander lista
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -101,7 +101,7 @@ drop-file-label-inline =
        *[other] Appender in linea
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Mover al primo
@@ -115,14 +115,14 @@ button-return-receipt =
     .label = Quitantia
     .tooltiptext = Requirer un quitantia de retorno pro iste message
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Signar le message
 message-to-be-encrypted-icon =
     .alt = Cryptar le message
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = A
@@ -240,3 +240,18 @@ encrypted-bcc-ignore-button = Io comprende
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Remover le stilos de texto
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Cargamento de { $filename } a { $provider } fallite
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Error de renomination
+cloud-file-rename-error = Il habeva un problema al renomination de { $filename } sur { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Renomination de { $filename } sur { $provider } fallite
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } non supporta le renomination de files jam cargate.
