@@ -23,7 +23,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fullScreenCmd.label "Экрани пурра">
 
 
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -40,8 +39,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Саҳифаи асосӣ">
 <!ENTITY homeButton.defaultPage.tooltip "Саҳифаи асосии &brandShortName;">
-
-<!-- Toolbar items -->
 
 <!ENTITY historyButton.label            "Таърих">
 
@@ -82,7 +79,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Мохоҳед, ки варақаҳоро аз дастгоҳҳои дигар дар ин ҷо бинед?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Мехоҳед, ки варақаҳои худро аз дастгоҳҳои дигар дар ин ҷо бинед?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Кушодани хусусиятҳои ҳамоҳангсозӣ">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ҳисоби шумо бояд тасдиқ карда шавад.">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Пайваст кардани дастгоҳи дигар">

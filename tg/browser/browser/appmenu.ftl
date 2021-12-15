@@ -90,7 +90,7 @@ appmenu-remote-tabs-opensettings =
     .label = Танзимот
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = Мохоҳед, ки варақаҳоро аз дастгоҳҳои дигар дар ин ҷо бинед?
+appmenu-remote-tabs-noclients = Мехоҳед, ки варақаҳои худро аз дастгоҳҳои дигар дар ин ҷо бинед?
 appmenu-remote-tabs-connectdevice =
     .label = Пайваст кардани дастгоҳи дигар
 appmenu-remote-tabs-welcome = Дидани рӯйхати варақаҳо аз дастгоҳҳои дигар.

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Варақаҳои ҳамоҳангшуда
+synced-tabs-sidebar-noclients-subtitle = Мехоҳед, ки варақаҳои худро аз дастгоҳҳои дигар дар ин ҷо бинед?
 synced-tabs-sidebar-unverified = Ҳисоби шумо бояд тасдиқ карда шавад.
 synced-tabs-sidebar-notabs = Ягон варақаи кушодашуда нест
 synced-tabs-sidebar-open-settings = Кушодани танзимоти ҳамоҳангсозӣ

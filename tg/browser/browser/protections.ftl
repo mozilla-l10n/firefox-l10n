@@ -55,9 +55,26 @@ monitor-sign-up-link = Барои огоҳиҳои вайронкунӣ обун
 monitor-no-breaches-title = Хабари хуш!
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
+monitor-manage-breaches-link = Идоракунии вайронкуниҳо
+    .title = Идоракунии вайронкуниҳо дар { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Хуб! Шумо ҳамаи вайронкуниҳои маълумро ҳал кардед.
+monitor-breaches-resolved-description = Агар почтаи электронии шумо дар ягон вайронкунии нав пайдо шавад, мо ба шумо хабар медиҳем.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } аз { $numBreaches } вайронкунӣ ҳамчун ҳалшуда қайд карда шуд
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% анҷом ёфт
 monitor-partial-breaches-motivation-title-start = Оғози олӣ!
 monitor-partial-breaches-motivation-title-middle = Давом диҳед!
 monitor-partial-breaches-motivation-title-end = Қариб иҷро шуд! Давом диҳед.
+monitor-partial-breaches-motivation-description = Вайронкуниҳои боқимондаи худро дар { -monitor-brand-short-name } ҳал кунед.
+monitor-resolve-breaches-link = Ҳалкунии вайронкуниҳо
+    .title = Ҳалкунии вайронкуниҳо дар { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
