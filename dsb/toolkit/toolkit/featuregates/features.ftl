@@ -64,7 +64,7 @@ experimental-features-abouthome-startup-cache-description = Pufrowak za zachopny
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookieje: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Z cookiejami z teje samskeje domeny, ale z rozdźělnymi šemami (na pś. http://example.com a https://example.com) ako cookieje mjazy někotarymi sedłami město togo samskego sedła wobchadaju. Pólěpšujo wěstotu, ale zawinujo potencielnje problemy.
+experimental-features-cookie-samesite-schemeful-description = Z cookiejami z teje samskeje domeny, ale z rozdźělnymi šemami (na pś. http://example.com a https://example.com) ako sedła pśesegajuce cookieje město togo samskego sedła wobchadaju. Pólěpšujo wěstotu, ale zawinujo potencielnje problemy.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Wuwijaŕske rědy: Pytanje zmólkow ze service worker
