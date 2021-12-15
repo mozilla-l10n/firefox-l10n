@@ -218,6 +218,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Ավելացնել էջանիշ
+bookmarks-edit-bookmark = Խմբագրել Էջանիշը
 bookmark-panel-cancel =
     .label = Չեղարկել
     .accesskey = C
@@ -233,6 +235,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանվում է
     .accesskey = S
+bookmark-panel-save-button =
+    .label = Պահել
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -250,6 +254,7 @@ identity-header-security-with-host =
     .title = Միացման անվտանգություն { $host }-ի համար
 identity-connection-not-secure = Կապակցումը ապահով չէ
 identity-connection-secure = Կապակցումը ապահով է
+identity-connection-failure = Կապակցումը ձախողվեց
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է:
 identity-connection-file = Այս էջը գտնվում է համակարգչում
 identity-extension-page = Այս էջը բեռնվել է ընդլայնումից:
@@ -330,6 +335,11 @@ browser-import-button2 =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Խցիկ.
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Խցիկ
 popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:
 popup-screen-sharing-block =
     .label = Արգելել
@@ -556,6 +566,7 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանյութ կամ տեսանյութ օգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի օգտագործումը:
 eme-notifications-drm-content-playing-manage = Կառավարել կարգավորումները
+eme-notifications-drm-content-playing-manage-accesskey = M
 
 ## Password save/update panel
 
