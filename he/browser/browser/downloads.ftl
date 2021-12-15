@@ -191,6 +191,8 @@ downloading-file-opens-in-minutes-and-seconds =
     }
 downloading-file-opens-in-seconds = הקובץ ייפתח בעוד { $seconds } שניות…
 downloading-file-opens-in-some-time = הקובץ ייפתח כשההורדה תושלם…
+downloading-file-click-to-open =
+    .value = פתיחה בסיום ההורדה
 
 ##
 
