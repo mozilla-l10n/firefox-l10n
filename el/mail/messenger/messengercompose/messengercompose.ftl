@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Ανάπτυξη λίστας
     .accesskey = ν
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -99,7 +99,7 @@ drop-file-label-inline =
        *[other] Εισαγωγή εντός μηνύματος
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Μετακίνηση στην αρχή
@@ -113,14 +113,14 @@ button-return-receipt =
     .label = Αποδεικτικό
     .tooltiptext = Απαίτηση αποδεικτικού προβολής για αυτό το μήνυμα
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Υπογραφή μηνύματος
 message-to-be-encrypted-icon =
     .alt = Κρυπτογράφηση μηνύματος
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Προς
@@ -238,3 +238,18 @@ encrypted-bcc-ignore-button = Κατάλαβα
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Κατάργηση μορφοποίησης κειμένου
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Το ανέβασμα του { $filename } στο { $provider } απέτυχε
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Σφάλμα μετονομασίας
+cloud-file-rename-error = Παρουσιάστηκε πρόβλημα με τη μετονομασία του { $filename } στο { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Η μετονομασία του { $filename } στο { $provider } απέτυχε
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = Το { $provider } δεν υποστηρίζει τη μετονομασία των ήδη ανεβασμένων αρχείων.
