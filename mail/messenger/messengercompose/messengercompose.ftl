@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -47,7 +47,7 @@ pill-action-expand-list =
     .label = Lisćinu pokazaś
     .accesskey = i
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -112,7 +112,7 @@ drop-file-label-inline =
        *[other] Inline pśipowjesyś
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Na zachopjeńk pśesunuś
@@ -126,14 +126,14 @@ button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwintowanku za toś tu powěsć pominaś
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Powěsć signěrowaś
 message-to-be-encrypted-icon =
     .alt = Powěsć koděrowaś
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Komu
@@ -255,3 +255,18 @@ encrypted-bcc-ignore-button = Som zrozměł
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstowy stil wótwónoźeś
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Nagrawanje { $filename }  na { $provider } njejo so raźiło
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Pśemjenowańska zmólka
+cloud-file-rename-error = Pśi pśemjenowanju { $filename } na { $provider } jo zmólka nastała.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Pśemjenowanje { $filename }  na { $provider } njejo se raźiło
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } pśemjenowanje južo nagratych datajow njepódpěra.
