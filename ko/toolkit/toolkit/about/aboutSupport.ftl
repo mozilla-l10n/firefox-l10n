@@ -302,6 +302,7 @@ fission-status-experiment-control = 실험에 의해 비활성화됨
 fission-status-experiment-treatment = 실험에 의해 활성화됨
 fission-status-disabled-by-e10s-env = 환경에 의해 비활성화됨
 fission-status-enabled-by-env = 환경에 의해 활성화됨
+fission-status-disabled-by-env = 환경에 의해 비활성화됨
 fission-status-disabled-by-safe-mode = 안전 모드에 의해 비활성화됨
 fission-status-enabled-by-default = 기본값에 의해 활성화됨
 fission-status-disabled-by-default = 기본값에 의해 비활성화됨
