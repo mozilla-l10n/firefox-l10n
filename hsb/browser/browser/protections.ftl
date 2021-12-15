@@ -45,8 +45,8 @@ graph-today = Dźensa
 graph-legend-description = Graf, kotryž cyłkownu ličbu kóždeho typa přesćěhowaka pokazuje, kotryž je so tutón tydźeń zablokował.
 social-tab-title = Přesćěhowaki socialnych medijow
 social-tab-contant = Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće. <a data-l10n-name="learn-more-link">Dalše informacije</a>
-cookie-tab-title = Slědowace placki mjez sydłami
-cookie-tab-content = Tute placki wam wot sydła do sydła slěduja, zo byšće daty wo tym hromadźili, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjo a analyzowe předewzaća, Blokowanje slědowacych plackow mjez sydłami ličbu wabjenjow redukuje, kotrež wam slěduja. <a data-l10n-name="learn-more-link">Dalše informacije</a>
+cookie-tab-title = Sydła přesahowace slědowace placki
+cookie-tab-content = Tute placki wam wot sydła do sydła slěduja, zo byšće daty wo tym hromadźili, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjo a analyzowe předewzaća, Blokowanje sydła přesahowacych plackow ličbu wabjenjow redukuje, kotrež wam slěduja. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 tracker-tab-title = Slědowacy wobsah
 tracker-tab-description = Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 fingerprinter-tab-title = Porstowe wotćišće
@@ -207,13 +207,13 @@ bar-tooltip-social =
            *[other] { $count } přesćěhowakow socialnych medijow ({ $percentage } %)
         }
 bar-tooltip-cookie =
-    .title = Slědowace placki mjez sydłami
+    .title = Sydła přesahowace slědowace placki
     .aria-label =
         { $count ->
-            [one] { $count } slědowacy plack mjez sydłami ({ $percentage } %)
-            [two] { $count } slědowacej plackaj mjez sydłami ({ $percentage } %)
-            [few] { $count } slědowace placki mjez sydłami ({ $percentage } %)
-           *[other] { $count } slědowacych plackow mjez sydłami ({ $percentage } %)
+            [one] { $count } sydła přesahowacy slědowacy plack ({ $percentage } %)
+            [two] { $count } sydła přesahowacej slědowacej plackaj ({ $percentage } %)
+            [few] { $count } sydła přesahowace slědowace placki ({ $percentage } %)
+           *[other] { $count } sydła přesahowacych slědowacych plackow ({ $percentage } %)
         }
 bar-tooltip-tracker =
     .title = Slědowacy wobsah
