@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Développer la liste
     .accesskey = D
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -101,7 +101,7 @@ drop-file-label-inline =
        *[other] Ajouter au corps du message
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = En premier
@@ -115,14 +115,14 @@ button-return-receipt =
     .label = Accusé de réception
     .tooltiptext = Demander un accusé de réception pour ce message
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Signer le message
 message-to-be-encrypted-icon =
     .alt = Chiffrer le message
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Pour
@@ -240,3 +240,9 @@ encrypted-bcc-ignore-button = C’est compris
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Supprimer le style du texte
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Erreur de renommage
