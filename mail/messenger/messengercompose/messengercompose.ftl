@@ -260,13 +260,13 @@ compose-tool-button-remove-text-styling =
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
-cloud-file-upload-error-with-custom-message-title = Nahrawanje { $filename }  na { $provider } njeje so porjedźiło
+cloud-file-upload-error-with-custom-message-title = Nahrawanje { $filename }  na { $provider } njeje so poradźiło
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Přemjenowanski zmylk
 cloud-file-rename-error = Při přemjenowanju { $filename } na { $provider } je zmylk nastał.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
-cloud-file-rename-error-with-custom-message-title = Přemjenowanje { $filename }  na { $provider } njeje so porjedźiło
+cloud-file-rename-error-with-custom-message-title = Přemjenowanje { $filename }  na { $provider } njeje so poradźiło
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } přemjenowanje hižo nahratych datajow njepodpěruje.
