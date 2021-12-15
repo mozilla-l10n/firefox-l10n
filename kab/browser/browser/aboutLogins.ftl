@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Inekcam & wawalen uffiren
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Nadi inekcam
-
 create-login-button = Rnu anekcum amaynut
-
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
 fxaccounts-sign-in-sync-button = Kcem akken ad yemtawi
 fxaccounts-avatar-button =
@@ -61,7 +56,6 @@ about-logins-list-item-breach-icon =
     .title = Asmel i tḥuza trewla n yisefka
 about-logins-list-item-vulnerable-password-icon =
     .title = Awal uffir ur iǧhid ara
-
 about-logins-list-section-breach = Ismal i tḥuza trewla n yisefka
 about-logins-list-section-vulnerable = Awalen uffiren ur ǧhiden ara
 about-logins-list-section-nothing = Ulac alɣu
@@ -78,6 +72,8 @@ login-intro-instructions-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek
 login-intro-instructions-fxa-settings = Ddu ɣer yiɣewwaren > Rmed amtawi… Ṛcem tibewwaḍin n yinekcam akked wawalen uffiren
 login-intro-instructions-fxa-help = Rzu ɣer <a data-l10n-name="help-link">{ -lockwise-brand-short-name } tallalt</a> i wugar n yisallen.
 about-logins-intro-import = Ma yella tuqqna-inek tettwasekles deg yiminig-nniḍen, tzemreḍ <a data-l10n-name="import-link"> ad ten-id-ktereḍ seg { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Rzu ɣer <a data-l10n-name="passwords-help-link">tallalt n wawalen uffiren</a> i wugar n tallelt.
+about-logins-intro-browser-only-import = Ma yella ttwaskelsen inekcam-ik·im deg yiming-nniḍen, tzemreḍ <a data-l10n-name="import-link">ad ten-id-tketreḍ deg { -brand-product-name }</a>
 about-logins-intro-import2 = Ma yella inekcam-ik/im ttwaskelsen beṛṛa n { -brand-product-name }, tzemreḍ <a data-l10n-name="import-browser-link"> ad ten-id-tketreḍ seg yiminig-nniḍen</a> neɣ <a data-l10n-name="import-file-link">seg ufaylu</a>
 
 ## Login
@@ -119,21 +115,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Akken ad twaliḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = beggen-d awal-inek uffir yettwaskelsen
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Akken ad d-tneɣleḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad iεiwen deg ummesten n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Nɣel awal-inek uffir yettwaskelsen
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Akken ad tketreḍ inekcam-inek/inem, sekcem anekcum-inek/inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to export a password in about:logins
@@ -147,32 +138,26 @@ master-password-reload-button =
     .label = Kcem
     .accesskey = K
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Sefsex
 confirmation-dialog-dismiss-button =
     .title = Sefsex
-
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kkes
         [one] Kkes
        *[other] Kkes kullec
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ih, kkes inekcam-a
         [one] Ih, kkes inekcam-a
        *[other] Ih, kkes inekcamen-a
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Kkes anekcum { $count }?
@@ -184,7 +169,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kkes anekcum { $count } seg meṛṛa ibenkan?
@@ -196,14 +180,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
     }
-
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
-
 about-logins-alert-import-title = Aktar yemmed
 about-logins-alert-import-message = Sken agzul leqqayen n uktar
-
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
 confirm-discard-changes-dialog-confirm-button = Kkes
@@ -234,7 +215,6 @@ about-logins-vulnerable-alert-learn-more-link = Issin ugar
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Anekcum i { $loginTitle } s yisem-a yella yakan.<a data-l10n-name="duplicate-link"> Ddu ɣer unekcum yellan?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Teḍra-d tuccḍa deg uɛraḍ n usekles n wawal-a uffir.
 
@@ -283,12 +263,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Ttwarnan inekcumen imaynuten:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Ttuleqqmen inekcumen yellan:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Ttwafen inekcumen yellan sin iberdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
@@ -298,7 +276,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Tuccḍiwin </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ur d-yettukter ara)</span>
     }
 about-logins-import-dialog-done = Immed
-
 about-logins-import-dialog-error-title = Tuccḍa deg uktar
 about-logins-import-dialog-error-conflicting-values-title = Aṭas n wazalen mgirradent ɣef yiwen n unekcum
 about-logins-import-dialog-error-conflicting-values-description = D amedya: aṭas n yismawen n yiseqdacen, awalen uffiren, URLs, atg. i yiwen n unekcum.
@@ -312,10 +289,8 @@ about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwakt
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-import-again = Ɛreḍ aktar tikkelt-nniḍen…
 about-logins-import-dialog-error-cancel = Sefsex
-
 about-logins-import-report-title = Agzul n uktar
 about-logins-import-report-description = Inekcam d wawalen uffiren ttwaketren ɣer { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
