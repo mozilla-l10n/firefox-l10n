@@ -4,7 +4,6 @@
 
 page-title = Informacije za rozrisowanje problemow
 page-subtitle = Tuta strona wobsahuje techniske informacije, kotrež móhli wužitne być, hdyž pospytujeće problem rozrisać. Jeli za wotmołwami za zwučene prašenja wo { -brand-short-name } pytaće, wopytajće našu <a data-l10n-name="support-link">podpěranske websydło</a>.
-
 crashes-title = Rozprawy wo spadach
 crashes-id = ID rozprawy
 crashes-send-date = Wotpósłany
@@ -192,7 +191,6 @@ report-crash-for-days =
         [few] Rozprawy wo spadach za zańdźene { $days } dny
        *[other] Rozprawy wo spadach za zańdźenych { $days } dnjow
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -202,7 +200,6 @@ crashes-time-minutes =
         [few] před { $minutes } mjeńšinami
        *[other] před { $minutes } mjeńšinami
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -212,7 +209,6 @@ crashes-time-hours =
         [few] před { $hours } hodźinami
        *[other] před { $hours } hodźinami
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -222,7 +218,6 @@ crashes-time-days =
         [few] před { $days } dnjemi
        *[other] před { $days } dnjemi
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -232,7 +227,6 @@ pending-reports =
         [few] Wšě rozprawy wo spadach (inkluziwnje { $reports } njesčinjene spady w datym času)
        *[other] Wšě rozprawy wo spadach (inkluziwnje { $reports } njesčinjenych spadow w datym času)
     }
-
 raw-data-copied = Hruby daty kopěrowane do mjezyskłada
 text-copied = Tekst kopěrowany do mjezyskłada
 
@@ -245,11 +239,9 @@ blocked-mismatched-version = Zablokowany, dokelž wersija wašeho grafikoweho ć
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Za wašu wersiju grafiskeho ćěrjaka zablokowany. Spytajće swój grafiski ćěrjak na wersiju { $driverVersion } abo nowšu aktualizować.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
-
 compositing = Compositing
 hardware-h264 = Hardwarowe dekodowanje H264
 main-thread-no-omtc = hłowna nitka, žadyn OMTC
@@ -264,7 +256,6 @@ virtual-monitor-disp = Zwobraznjenje wirtuelneho monitora
 
 found = Namakany
 missing = Falowacy
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Wopisanje
@@ -287,19 +278,15 @@ webgl2-renderer = WebGL 2 - rysowak ćěrjaka
 webgl2-version = WebGL 2 - wersija ćěrjaka
 webgl2-driver-extensions = WebGL 2 - rozšěrjenja ćěrjaka
 webgl2-extensions = WebGL 2 - rozšěrjenja
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = W blokowanskej lisćinje znatych problemow dla: <a data-l10n-name="bug-link">programowy zmylk { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = W blokowanskej lisćinje; zmylkowy kod { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Widejodekoder WMF VPX
-
 reset-on-next-restart = Při přichodnym nowym starće wróćo stajić
 gpu-process-kill-button = GPU-proces skónčić
 gpu-device-reset = Grat wróćo stajić
@@ -309,10 +296,8 @@ content-uses-tiling = Wužiwa kachlicowanje (wobsah)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjeny
 off-main-thread-paint-worker-count = Ličba workerow Off Main Thread Painting
 target-frame-rate = Cilowa wobłukowa hustosć
-
 min-lib-versions = Wočakowana minimalna wersija
 loaded-lib-versions = Wužita wersija
-
 has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
 has-seccomp-tsync = Nitkowa synchronizacija Seccomp
 has-user-namespaces = Wužiwarske mjenowe rumy
@@ -326,18 +311,15 @@ sandbox-proc-type-content = wobsah
 sandbox-proc-type-file = datajowy wobsah
 sandbox-proc-type-media-plugin = medijowy tykač
 sandbox-proc-type-data-decoder = dekodowak datow
-
 startup-cache-title = Startowy pufrowak
 startup-cache-disk-cache-path = Šćežka tačeloweho pufrowaka
 startup-cache-ignore-disk-cache = Tačelowy pufrowak ignorować
 startup-cache-found-disk-cache-on-init = Tačelowy pufrowak je so namakał při inicializowanju
 startup-cache-wrote-to-disk-cache = Je so do tačeloweho pufrowaka napisało
-
 launcher-process-status-0 = Zmóžnjeny
 launcher-process-status-1 = Zmylka dla znjemóžnjeny
 launcher-process-status-2 = Namócnje znjemóžnjeny
 launcher-process-status-unknown = Njeznaty status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -350,6 +332,7 @@ fission-status-experiment-control = Přez eksperiment znjemóžnjeny
 fission-status-experiment-treatment = Přez eksperiment zmóžnjeny
 fission-status-disabled-by-e10s-env = Přez wokolinu znjemóžnjeny
 fission-status-enabled-by-env = Přez wokolinu zmóžnjeny
+fission-status-disabled-by-env = Přez wokolinu znjemóžnjeny
 fission-status-disabled-by-safe-mode = Přez wěsty modus znjemóžnjeny
 fission-status-enabled-by-default = Po standardźe zmóžnjeny
 fission-status-disabled-by-default = Po standardźe znjemóžnjeny
@@ -357,7 +340,6 @@ fission-status-enabled-by-user-pref = Wot wužiwarja zmóžnjeny
 fission-status-disabled-by-user-pref = Wot wužiwarja znjezmóžnjeny
 fission-status-disabled-by-e10s-other = E10s znjemóžnjeny
 fission-status-enabled-by-rollout = Za dodaće po fazach zmóžnjeny
-
 async-pan-zoom = Asynchrone přesuwanje/skalowanje
 apz-none = žadyn
 wheel-enabled = zapodaće z koleskom zmóžnjene
@@ -394,7 +376,6 @@ support-remote-experiments-title = Zdalene eksperimenty
 support-remote-experiments-name = Mjeno
 support-remote-experiments-branch = Hałza eksperimenta
 support-remote-experiments-see-about-studies = Hlejće <a data-l10n-name="support-about-studies-link">about:studies</a> za dalše informacije, inkluziwnje kak móžeće indiwiduelne eksperimenty znjemóžnić abo kak móžeće { -brand-short-name } při tym haćić, tutón typ eksperimenta w přichodźe wuwjesć.
-
 support-remote-features-title = Zdalene funkcije
 support-remote-features-name = Mjeno
 support-remote-features-status = Status
