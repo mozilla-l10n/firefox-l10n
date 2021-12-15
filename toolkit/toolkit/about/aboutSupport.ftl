@@ -335,6 +335,7 @@ fission-status-experiment-control = Onemogočeno zaradi poskusa
 fission-status-experiment-treatment = Omogočeno zaradi poskusa
 fission-status-disabled-by-e10s-env = Onemogočeno s strani okolja
 fission-status-enabled-by-env = Omogočeno s strani okolja
+fission-status-disabled-by-env = Onemogočeno s strani okolja
 fission-status-disabled-by-safe-mode = Onemogočeno zaradi varnega načina
 fission-status-enabled-by-default = Privzeto omogočeno
 fission-status-disabled-by-default = Privzeto onemogočeno
