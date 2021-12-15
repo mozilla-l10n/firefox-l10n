@@ -58,6 +58,7 @@ mobile-app-links = Πρόγραμμα περιήγησης { -brand-product-name
 lockwise-title = Φύλαξη κωδικών πρόσβασης
 lockwise-title-logged-in2 = Διαχείριση κωδικών πρόσβασης
 lockwise-header-content = Το { -lockwise-brand-name } αποθηκεύει με ασφάλεια τους κωδικούς πρόσβασης στον φυλλομετρητή σας.
+passwords-title-logged-in = Διαχείριση κωδικών πρόσβασης
 passwords-header-content = Το { -brand-product-name } αποθηκεύει με ασφάλεια τους κωδικούς πρόσβασής σας.
 lockwise-header-content-logged-in = Αποθηκεύστε και συγχρονίστε με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας.
 protection-report-save-passwords-button = Αποθήκευση κωδικών πρόσβασης

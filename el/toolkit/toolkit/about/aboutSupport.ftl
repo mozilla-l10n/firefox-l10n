@@ -325,6 +325,7 @@ fission-status-experiment-control = Απενεργοποιήθηκε από πε
 fission-status-experiment-treatment = Ενεργοποιήθηκε από πείραμα
 fission-status-disabled-by-e10s-env = Απενεργοποιήθηκε από το περιβάλλον
 fission-status-enabled-by-env = Ενεργοποιήθηκε από το περιβάλλον
+fission-status-disabled-by-env = Ανενεργό λόγω περιβάλλοντος
 fission-status-disabled-by-safe-mode = Απενεργοποιήθηκε από την ασφαλή λειτουργία
 fission-status-enabled-by-default = Ενεργό από προεπιλογή
 fission-status-disabled-by-default = Απενεργοποιήθηκε από προεπιλογή

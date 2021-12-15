@@ -72,6 +72,7 @@ login-intro-instructions-fxa = Στη συσκευή όπου έχουν απο�
 login-intro-instructions-fxa-settings = Μεταβείτε στις Ρυθμίσεις > Συγχρονισμός > Ενεργοποίηση συγχρονισμού… Επιλέξτε «Συνδέσεις και κωδικοί πρόσβασης».
 login-intro-instructions-fxa-help = Επισκεφθείτε την <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a> για περισσότερη βοήθεια.
 about-logins-intro-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισαγάγετε στο { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Επισκεφτείτε την <a data-l10n-name="passwords-help-link">υποστήριξη κωδικών πρόσβασης</a> για περαιτέρω βοήθεια.
 about-logins-intro-browser-only-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισαγάγετε στο { -brand-product-name }</a>
 about-logins-intro-import2 = Εάν οι συνδέσεις σας αποθηκεύονται εκτός του { -brand-product-name }, μπορείτε να τις <a data-l10n-name="import-browser-link">εισαγάγετε από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">από κάποιο αρχείο</a>
 
