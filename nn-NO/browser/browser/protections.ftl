@@ -68,6 +68,8 @@ lockwise-no-logins-card-content = Bruk passord som er lagra i { -brand-short-nam
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 protection-report-passwords-save-passwords-button = Lagre passord
     .title = Lagre passord
+protection-report-passwords-manage-passwords-button = Handtere passord
+    .title = Handtere passord
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
