@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -42,7 +42,7 @@ pill-action-expand-list =
     .label = 展开列表
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -98,7 +98,7 @@ drop-file-label-inline =
        *[other] 行内追加
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = 移到首位
@@ -112,14 +112,14 @@ button-return-receipt =
     .label = 回执
     .tooltiptext = 要求对方收件后发送回执
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = 签名消息
 message-to-be-encrypted-icon =
     .alt = 加密消息
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = 收件人
@@ -236,3 +236,18 @@ encrypted-bcc-ignore-button = 好的
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = 移除文本样式
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = 上传 { $filename } 到 { $provider } 失败
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = 重命名错误
+cloud-file-rename-error = 在 { $provider } 重命名 { $filename } 时发生错误。
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = 在 { $provider } 重命名 { $filename } 失败
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } 不支持重命名已上传的文件。
