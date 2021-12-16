@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Lijst uitvouwen
     .accesskey = w
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -101,7 +101,7 @@ drop-file-label-inline =
        *[other] Inline toevoegen
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Naar de eerste
@@ -115,14 +115,14 @@ button-return-receipt =
     .label = Ontvangstbevestiging
     .tooltiptext = Een ontvangstbevestiging voor dit bericht vragen
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Bericht ondertekenen
 message-to-be-encrypted-icon =
     .alt = Bericht versleutelen
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Aan
@@ -240,3 +240,16 @@ encrypted-bcc-ignore-button = Begrepen
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstopmaak verwijderen
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Uploaden van { $filename } naar { $provider } mislukt
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Fout bij hernoemen
+cloud-file-rename-error = Er is een probleem opgetreden bij het hernoemen van { $filename } op { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Hernoemen van { $filename } op { $provider } mislukt

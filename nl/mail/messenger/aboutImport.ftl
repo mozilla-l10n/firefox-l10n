@@ -7,6 +7,7 @@ import-page-title = Importeren
 ## Header
 
 import-from-app = Importeren uit toepassing
+import-from-app-desc = Kies of u accounts, adresboeken, agenda’s en andere gegevens wilt importeren uit:
 import-address-book = Adresboekbestand importeren
 import-calendar = Agendabestand importeren
 
