@@ -251,3 +251,8 @@ cloud-file-upload-error-with-custom-message-title = Falló la subida de { $filen
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Error al renombrar
 cloud-file-rename-error = Hubo un problema renombrando { $filename } en { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Fallo al renombrar { $filename } en { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } no aporta renombrar archivos ya subidos.
