@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Expandir lista
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -102,7 +102,7 @@ drop-file-label-inline =
        *[other] Anexar en línea
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Mover primero
@@ -116,14 +116,14 @@ button-return-receipt =
     .label = Recibo
     .tooltiptext = Pedir recibo por este mensaje
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Firmar mensaje
 message-to-be-encrypted-icon =
     .alt = Cifrar mensaje
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Para
@@ -241,3 +241,13 @@ encrypted-bcc-ignore-button = Entendido
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Eliminar estilo de texto
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Falló la subida de { $filename } a { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Error al renombrar
+cloud-file-rename-error = Hubo un problema renombrando { $filename } en { $provider }.
