@@ -5,6 +5,7 @@
 abuse-report-dialog-title = Segnalazione per { $addon-name }
 
 abuse-report-title-extension = Segnala questa estensione a { -vendor-short-name }
+abuse-report-title-sitepermission = Segnala questo componente aggiuntivo per permessi siti a { -vendor-short-name }
 abuse-report-title-theme = Segnala questo tema a { -vendor-short-name }
 abuse-report-subtitle = Qual è il problema?
 
@@ -44,6 +45,7 @@ abuse-report-messagebar-submitting = Invio segnalazione per <span data-l10n-name
 abuse-report-messagebar-submitted = Grazie per aver inviato una segnalazione. Rimuovere <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Grazie per aver inviato una segnalazione.
 abuse-report-messagebar-removed-extension = Grazie per aver inviato una segnalazione. L’estensione <span data-l10n-name="addon-name">{ $addon-name }</span> è stata rimossa.
+abuse-report-messagebar-removed-sitepermission = Grazie per aver inviato una segnalazione. Il componente aggiuntivo per permessi siti <span data-l10n-name="addon-name">{ $addon-name }</span> è stato rimosso.
 abuse-report-messagebar-removed-theme = Grazie per aver inviato una segnalazione. Il tema <span data-l10n-name="addon-name">{ $addon-name }</span> è stato rimosso.
 abuse-report-messagebar-error = Si è verificato un errore durante l’invio della segnalazione per <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = La segnalazione per <span data-l10n-name="addon-name">{ $addon-name }</span> non è stata inviata in quanto è stata appena inviata un’altra segnalazione.
@@ -54,6 +56,8 @@ abuse-report-messagebar-action-remove-extension = Rimuovi
 abuse-report-messagebar-action-keep-extension = Mantieni
 abuse-report-messagebar-action-remove-theme = Rimuovi
 abuse-report-messagebar-action-keep-theme = Mantieni
+abuse-report-messagebar-action-remove-sitepermission = Rimuovi
+abuse-report-messagebar-action-keep-sitepermission = Mantieni
 abuse-report-messagebar-action-retry = Riprova
 abuse-report-messagebar-action-cancel = Annulla
 
@@ -74,10 +78,15 @@ abuse-report-deceptive-reason-v2 = Pretende di essere qualcos’altro
 abuse-report-deceptive-example = Esempio: descrizione o grafica ingannevoli
 
 abuse-report-broken-reason-extension-v2 = Non funziona, rende i siti web inutilizzabili o rallenta { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Non funziona, rende i siti web inutilizzabili o rallenta { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Non funziona o rende l’interfaccia del browser inutilizzabile
 abuse-report-broken-example =
   Esempio: è difficile da utilizzare, è lenta o non funziona. I siti web si caricano in modo parziale o vengono visualizzati in modo strano
 abuse-report-broken-suggestions-extension =
+  Sembra che tu abbia trovato un bug. Oltre a segnalare il problema qui, il modo migliore per
+  risolvere questo tipo di problemi è contattare lo sviluppatore dell’estensione.
+  <a data-l10n-name="support-link">Visita il sito web dell’estensione</a> per trovare informazioni sullo sviluppatore.
+abuse-report-broken-suggestions-sitepermission =
   Sembra che tu abbia trovato un bug. Oltre a segnalare il problema qui, il modo migliore per
   risolvere questo tipo di problemi è contattare lo sviluppatore dell’estensione.
   <a data-l10n-name="support-link">Visita il sito web dell’estensione</a> per trovare informazioni sullo sviluppatore.
@@ -97,4 +106,3 @@ abuse-report-unwanted-reason-v2 = Non ho mai chiesto di installare questa estens
 abuse-report-unwanted-example = Esempio: un’applicazione installata senza consenso
 
 abuse-report-other-reason = Altro
-
