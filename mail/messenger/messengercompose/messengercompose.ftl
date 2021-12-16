@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Expandera lista
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -102,7 +102,7 @@ drop-file-label-inline =
        *[other] Lägg till inline
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Flytta först
@@ -116,14 +116,14 @@ button-return-receipt =
     .label = Kvitto
     .tooltiptext = Begär ett returkvitto för detta meddelande
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Signera meddelande
 message-to-be-encrypted-icon =
     .alt = Kryptera meddelande
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Till
@@ -241,3 +241,18 @@ encrypted-bcc-ignore-button = Förstått
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Ta bort textstyling
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Det gick inte att ladda upp { $filename } till { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Byte av namn misslyckades
+cloud-file-rename-error = Det uppstod ett problem med att byta namn på { $filename } hos { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Byte av namn på { $filename } hos { $provider } misslyckades
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } stöder inte namnbyte på redan uppladdade filer.
