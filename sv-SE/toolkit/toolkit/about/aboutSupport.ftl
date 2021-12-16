@@ -4,7 +4,6 @@
 
 page-title = Felsökningsinformation
 page-subtitle = Den här sidan innehåller teknisk information som kan vara till hjälp när du försöker lösa ett problem. Vill du se svaren på några av de vanligaste frågorna om { -brand-short-name }, kan du besöka vår <a data-l10n-name="support-link">supportwebbplats</a>.
-
 crashes-title = Kraschrapporter
 crashes-id = Rapport-ID
 crashes-send-date = Datum
@@ -190,7 +189,6 @@ report-crash-for-days =
         [one] Kraschrapporter för den senaste dagen
        *[other] Kraschrapporter för de senaste { $days } dagarna
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +196,6 @@ crashes-time-minutes =
         [one] { $minutes } minut sedan
        *[other] { $minutes } minuter sedan
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -206,7 +203,6 @@ crashes-time-hours =
         [one] { $hours } timme sedan
        *[other] { $hours } timmar sedan
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -214,7 +210,6 @@ crashes-time-days =
         [one] { $days } dag sedan
        *[other] { $days } dagar sedan
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -222,7 +217,6 @@ pending-reports =
         [one] Alla kraschrapporter (inklusive { $reports } ej inskickad krasch i givet tidsintervall)
        *[other] Alla kraschrapporter (inklusive { $reports } ej inskickade krascher i givet tidsintervall)
     }
-
 raw-data-copied = Rådatan är kopierat till urklipp
 text-copied = Texten är kopierad till urklipp
 
@@ -235,11 +229,9 @@ blocked-mismatched-version = Blockerad för din version av grafikdrivrutin, obal
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blockeras på grund av grafikdrivrutinens version. Prova att uppdatera grafikdrivrutinen till version { $driverVersion } eller senare.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parametrar
-
 compositing = Komposition
 hardware-h264 = H264 hårdvaruavkodning
 main-thread-no-omtc = huvudtråden, ingen OMTC
@@ -254,7 +246,6 @@ virtual-monitor-disp = Virtuell bildskärmsvisning
 
 found = Hittad
 missing = Saknas
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beskrivning
@@ -277,19 +268,15 @@ webgl2-renderer = WebGL 2 drivrutinsrenderare
 webgl2-version = WebGL 2 drivrutinsversion
 webgl2-driver-extensions = WebGL 2 drivrutinsutökning
 webgl2-extensions = WebGL 2 utökning
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blockerad på grund av kända problem: <a data-l10n-name="bug-link">bugg { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Svartlistad; felkod { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Kompositör
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Videoavkodare
-
 reset-on-next-restart = Återställ vid nästa omstart
 gpu-process-kill-button = Avsluta GPU process
 gpu-device-reset = Enhetsåterställning
@@ -299,10 +286,8 @@ content-uses-tiling = Använder Tiling (innehåll)
 off-main-thread-paint-enabled = Målning utanför huvudtråden aktiverad
 off-main-thread-paint-worker-count = Målning utanför huvudtråden Worker-antal
 target-frame-rate = Målramhastighet
-
 min-lib-versions = Förväntad minimiversion
 loaded-lib-versions = Version som används
-
 has-seccomp-bpf = Seccomp-BPF (Systemanropsfiltrering)
 has-seccomp-tsync = Seccomp-trådsynkronisering
 has-user-namespaces = Användarnamnområden
@@ -316,18 +301,15 @@ sandbox-proc-type-content = innehåll
 sandbox-proc-type-file = filinnehåll
 sandbox-proc-type-media-plugin = insticksmodul media
 sandbox-proc-type-data-decoder = dataavkodare
-
 startup-cache-title = Startcache
 startup-cache-disk-cache-path = Sökväg diskcache
 startup-cache-ignore-disk-cache = Ignorera diskcache
 startup-cache-found-disk-cache-on-init = Hittade diskcache på Init
 startup-cache-wrote-to-disk-cache = Skrev till diskcache
-
 launcher-process-status-0 = Aktiverad
 launcher-process-status-1 = Inaktiverad på grund av fel
 launcher-process-status-2 = Inaktiverad med tvång
 launcher-process-status-unknown = Okänd status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -340,6 +322,7 @@ fission-status-experiment-control = Inaktiverad av experiment
 fission-status-experiment-treatment = Aktiverad av experiment
 fission-status-disabled-by-e10s-env = Inaktiverad av miljön
 fission-status-enabled-by-env = Aktiverad av miljön
+fission-status-disabled-by-env = Inaktiverad av miljön
 fission-status-disabled-by-safe-mode = Inaktiverat av säkert läge
 fission-status-enabled-by-default = Aktiverad som standard
 fission-status-disabled-by-default = Inaktiverad som standard
@@ -347,7 +330,6 @@ fission-status-enabled-by-user-pref = Aktiverad av användaren
 fission-status-disabled-by-user-pref = Inaktiverad av användaren
 fission-status-disabled-by-e10s-other = E10s inaktiverad
 fission-status-enabled-by-rollout = Aktiveras genom stegvis implementering
-
 async-pan-zoom = Asynkron panorera/zoom
 apz-none = ingen
 wheel-enabled = hjulinmatning aktiverad
@@ -384,7 +366,6 @@ support-remote-experiments-title = Fjärrexperiment
 support-remote-experiments-name = Namn
 support-remote-experiments-branch = Experimentgren
 support-remote-experiments-see-about-studies = Se <a data-l10n-name="support-about-studies-link">about:studies</a> för mer information, inklusive hur man inaktiverar enskilda experiment eller inaktiverar { -brand-short-name } från att köra denna typ av experiment i framtiden.
-
 support-remote-features-title = Fjärrfunktioner
 support-remote-features-name = Namn
 support-remote-features-status = Status
