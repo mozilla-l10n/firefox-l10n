@@ -325,6 +325,7 @@ fission-status-experiment-control = eksperimendi poolt keelatud
 fission-status-experiment-treatment = eksperimendi poolt lubatud
 fission-status-disabled-by-e10s-env = keskkonnamuutuja poolt keelatud
 fission-status-enabled-by-env = keskkonnamuutuja poolt lubatud
+fission-status-disabled-by-env = keskkonnamuutuja poolt keelatud
 fission-status-disabled-by-safe-mode = ohutu režiimi poolt keelatud
 fission-status-enabled-by-default = vaikimisi lubatud
 fission-status-disabled-by-default = vaikimisi keelatud
