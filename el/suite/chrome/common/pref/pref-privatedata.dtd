@@ -7,7 +7,6 @@
 -->
 <!ENTITY pref.privatedata.title           "Ιδιωτικά δεδομένα">
 
-
 <!ENTITY clearPrivateData.label           "Διαγραφή ιδιωτικών δεδομένων">
 
 <!ENTITY alwaysClear.label                "Να γίνεται πάντα διαγραφή των ιδιωτικών δεδομένων μου όταν κλείνω το &brandShortName;">
@@ -16,7 +15,7 @@
 <!--LOCALIZATION NOTE : The askBeforeClear label is
     no longer used but we might bring it back later
 -->
-<!ENTITY askBeforeClear.label             "Ερώτηση πριν την απαλοιφή ιδιωτικών δεδομένων">
+<!ENTITY askBeforeClear.label             "Ερώτηση πριν από την απαλοιφή ιδιωτικών δεδομένων">
 
 <!ENTITY clearDataSettings.label          "Όταν ζητώ από το &brandShortName; για διαγράψει τα ιδιωτικά μου δεδομένα, να διαγράφονται:">
 
