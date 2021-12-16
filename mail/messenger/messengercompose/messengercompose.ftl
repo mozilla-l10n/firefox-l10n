@@ -278,3 +278,9 @@ cloud-file-upload-error-with-custom-message-title = Methodd Llwytho { $filename 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Gwall Ail-enwi
+cloud-file-rename-error = Bu anhawster wrth ailenwi { $filename } ar { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Methodd ail-enwi { $filename } ar { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = Nid yw { $provider } yn cefnogi ailenwi ffeiliau sydd eisoes wedi'u llwytho i fyny.
