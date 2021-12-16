@@ -253,3 +253,5 @@ cloud-file-rename-error = Er is een probleem opgetreden bij het hernoemen van { 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-with-custom-message-title = Hernoemen van { $filename } op { $provider } mislukt
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } ondersteunt het hernoemen van reeds geüploade bestanden niet.
