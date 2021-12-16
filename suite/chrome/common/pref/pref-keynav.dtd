@@ -16,7 +16,7 @@
 <!ENTITY browseWithCaretUse.accesskey "Χ">
 <!ENTITY browseWithCaretShortCut.label "Χρήση της συντόμευσης F7 για εναλλαγή περιήγησης με κέρσορα">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Προειδοποίηση πριν την ενεργοποίηση περιήγησης με κέρσορα">
+<!ENTITY browseWithCaretWarn.label "Προειδοποίηση πριν από την ενεργοποίηση περιήγησης με κέρσορα">
 <!ENTITY browseWithCaretWarn.accesskey "Π">
 
 <!ENTITY modifiers.label "Πλήκτρα τροποποίησης">

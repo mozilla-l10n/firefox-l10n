@@ -45,7 +45,7 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "Το &brandShortName; νοιάζεται για το απόρρητό σας">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Για την εξασφάλιση του απορρήτου σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφόρτωση. Δεν μεταφορτώνεται το κλειδί ανάκτησής σας, το οποίο είναι απαραίτητο για την αποκρυπτογράφηση των δεδομένων σας.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Για την εξασφάλιση του απορρήτου σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν από τη μεταφόρτωση. Δεν μεταφορτώνεται το κλειδί ανάκτησής σας, το οποίο είναι απαραίτητο για την αποκρυπτογράφηση των δεδομένων σας.">
 <!ENTITY recoveryKeyEntry.label        "Το κλειδί ανάκτησής σας">
 <!ENTITY recoveryKeyEntry.accesskey    "κ">
 <!ENTITY recoveryGenerateNewKey.label  "Δημιουργία νέου κλειδιού">
