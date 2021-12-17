@@ -7,6 +7,7 @@ import-page-title = Importation
 ## Header
 
 import-from-app = Importer depuis l’application
+import-from-app-desc = Choisir d’importer comptes, carnets d’adresses, agendas et autres données depuis :
 import-address-book = Importer le fichier d’un carnet d’adresses
 import-calendar = Importer le fichier d’un agenda
 
