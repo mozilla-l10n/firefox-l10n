@@ -248,7 +248,7 @@ account-setup-dictionaries-button = Stiahnuť slovníky
 account-setup-address-book-carddav-button = Pripojiť sa k adresáru typu CardDAV
 account-setup-address-book-ldap-button = Pripojiť sa k adresáru LDAP
 account-setup-calendar-button = Pripojiť sa k vzdialenému kalendáru
-account-setup-linked-services-title = Pripojiť prepojené služby
+account-setup-linked-services-title = Pripojenie prepojených služieb
 account-setup-linked-services-description = { -brand-short-name } našiel ďalšie služby spojené s vaším e-mailovým účtom.
 account-setup-no-linked-description = Nastavte si ďalšie služby, aby ste zo svojho e-mailového klienta { -brand-short-name } vyťažili maximum.
 # Variables:

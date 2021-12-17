@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -45,7 +45,7 @@ pill-action-expand-list =
     .label = Rozbaliť zoznam
     .accesskey = R
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -107,7 +107,7 @@ drop-file-label-inline =
        *[other] Pripojiť ako vložené prílohy
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Presunúť na začiatok
@@ -121,14 +121,14 @@ button-return-receipt =
     .label = Potvrdenka
     .tooltiptext = Požiadať o potvrdenie o prijatí tejto správy
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Podpísať správu
 message-to-be-encrypted-icon =
     .alt = Zašifrovať správu
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Komu
@@ -248,3 +248,18 @@ encrypted-bcc-ignore-button = Rozumiem
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Odstrániť štýl textu
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Nahrávanie súboru { $filename } do služby { $provider } zlyhalo
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Chyba pri premenovaní
+cloud-file-rename-error = Vyskytol sa problém s premenovaním súboru { $filename } v službe { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Premenovanie súboru { $filename } v službe { $provider } zlyhalo
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = Služba { $provider } nepodporuje premenovanie už nahratých súborov.
