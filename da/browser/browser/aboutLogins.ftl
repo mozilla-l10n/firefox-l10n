@@ -72,6 +72,7 @@ login-intro-instructions-fxa = Opret eller log ind på din { -fxaccount-brand-na
 login-intro-instructions-fxa-settings = Gå til Indstillinger > Sync > Slå synkronisering til… Sæt flueben ud for Logins og adgangskoder.
 login-intro-instructions-fxa-help = Besøg siden <a data-l10n-name="help-link">Hjælp til { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
+about-logins-intro-browser-only-import = Hvis dine logins er gemt i en anden browser, så kan du <a data-l10n-name="import-link">importere dem til { -brand-product-name }</a>
 about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand-product-name }, så kan du <a data-l10n-name="import-browser-link">importere dem fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
 ## Login
