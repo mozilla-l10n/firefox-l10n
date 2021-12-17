@@ -55,6 +55,7 @@ monitor-sign-up-link = Барои огоҳиҳои вайронкунӣ обун
 monitor-no-breaches-title = Хабари хуш!
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Вайронкуниҳои худро ҳал кунед
 monitor-manage-breaches-link = Идоракунии вайронкуниҳо
     .title = Идоракунии вайронкуниҳо дар { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Хуб! Шумо ҳамаи вайронкуниҳои маълумро ҳал кардед.
