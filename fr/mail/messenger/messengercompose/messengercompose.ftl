@@ -244,5 +244,14 @@ compose-tool-button-remove-text-styling =
 ## FileLink messages
 
 # $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Échec de l’envoi de { $filename } à { $provider }
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Erreur de renommage
+cloud-file-rename-error = Un problème est survenu lors du changement de nom de { $filename } sur { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Échec du changement de nom de { $filename } sur { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } ne prend pas en charge le changement de nom des fichiers déjà téléchargés.
