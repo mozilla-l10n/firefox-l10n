@@ -130,6 +130,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY uiTour.infoPanel.close "Пӯшидан">
 
 <!ENTITY panicButton.thankyou.msg1                "Таърихи охирини шумо тоза карда шуд.">
+<!ENTITY panicButton.thankyou.msg2                "Тамошокунии бехатар!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ташаккур!">
 
 <!ENTITY sendToDevice.syncNotReady.label "Ҳамоҳангсозии дастгоҳҳо…">

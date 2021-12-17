@@ -5,6 +5,7 @@
 fxa-toolbar-sync-syncing2 = Ҳамоҳангсозӣ…
 sync-disconnect-dialog-title2 = Пайвастро қатъ мекунед?
 sync-disconnect-dialog-button = Қатъ кардани пайваст
+fxa-signout-dialog-body = Маълумоти ҳамоҳангшуда дар ҳисоби шумо боқӣ мемонад.
 fxa-signout-dialog2-button = Баромад
 fxa-signout-dialog2-checkbox = Нест кардани маълумот аз ин дастгоҳ (ниҳонвожаҳо, таърих, хатбаракҳо ва ғайра)
 fxa-menu-sync-settings =

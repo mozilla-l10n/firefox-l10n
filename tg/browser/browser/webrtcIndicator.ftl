@@ -8,6 +8,9 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } — Нишондиҳандаи дастрасӣ
 webrtc-microphone-unmuted =
     .title = Хомӯш кардани микрофон
 webrtc-microphone-muted =
@@ -16,4 +19,3 @@ webrtc-camera-unmuted =
     .title = Хомӯш кардани камера
 webrtc-camera-muted =
     .title = Фаъол кардани камера
-

@@ -61,3 +61,4 @@ upgrade-dialog-theme-secondary-button = Ҳоло не
 
 ## Thank you screen
 
+upgrade-dialog-thankyou-primary-button = Оғоз кардани тамошо
