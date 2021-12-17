@@ -75,13 +75,25 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "چه کاری می‌توانید در مورد آن انجام دهید؟">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>مشکل به احتمال زیاد مربوط به وب‌سایت است و هیچ کاری نمی‌توانید برای حل آن انجام دهید.</p>
+<p>اگر در یک شبکهٔ شرکتی هستید یا از نرم‌افزار ضد ویروس استفاده می‌کنید، می‌توانید برای کمک با تیم‌های پشتیبانی تماس بگیرید. همچنین می‌توانید مشکل را به مدیر وب‌سایت اطلاع دهید.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>ساعت رایانه شما روی <span id='wrongSystemTime_systemDate2'/> تنظیم شده است. مطمئن شوید که رایانه شما روی تاریخ، زمان و منطقه زمانی درست در تنظیمات سیستم تنظیم شده است و سپس <span class='hostname'/> را مجددا بارگیری کنید.</p>
+<p>اگر ساعت شما قبلاً روی زمان مناسب تنظیم شده است، احتمالاً وب سایت به درستی پیکربندی نشده است و هیچ کاری نمی‌توانید برای حل این مشکل انجام دهید. می‌توانید مشکل را به مدیر وب‌سایت اطلاع دهید.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>مشکل به احتمال زیاد مربوط به وب‌سایت است و هیچ کاری نمی توانید برای حل آن انجام دهید. می‌توانید مشکل را به مدیر وب‌سایت اطلاع دهید.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد. چند دقیقه صبر کنید و بعد دوباره تلاش کنید.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازه دسترسی به وب را دارد.</li> </ul>">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه در این زمینه جلوگیری کرد زیرا این صفحه دارای X-Frame-Options است که آن را مجاز نمی‌داند.</p>">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا خطایی در هنگام انتقال اطلاعات رُخ داده است.</p><ul><li>لطفاً با صاحبان این پایگاه اینترنتی تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
@@ -98,6 +110,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "هشدار: خطر امنیتی نهفته در پیش است">
 <!ENTITY certerror.sts.pagetitle  "متصل نشد: مشکل امنیتی بالقوه">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> یک خط‌مشی امنیتی به نام HTTP Strict Transport Security (HSTS) دارد، به این معنی که &brandShortName; فقط می‌تواند به طور ایمن به آن متصل شود. شما نمی توانید استثنایی برای بازدید از این سایت اضافه کنید.">
 <!ENTITY certerror.copyToClipboard.label "رونوشت متن به کلیپ بورد">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -106,6 +119,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "صفحهٔ مسدود شده">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> به احتمال زیاد یک سایت امن است، اما امکان اتصال امن به آن وجود ندارد. این مشکل توسط <span class='mitm-name'/> ایجاد شده که یا نرم‌افزاری روی رایانه شماست یا بر روی شبکه شما.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "اگر نرم افزار ضد ویروس شما دارای ویژگی‌ای است که اتصالات رمزگذاری شده را اسکن می کند (اغلب به آن «web scanning» یا «https scanning» می گویند)، می‌توانید آن ویژگی را غیرفعال کنید. اگر کار نکرد، می‌توانید نرم افزار ضد ویروس را حذف و دوباره نصب کنید.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "اگر درون یک شبکه سازمانی هستید، می توانید با واحد آی‌تی خود تماس بگیرید.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "اگر با <span class='mitm-name'/> آشنایی ندارید، این ممکن است یک حمله باشد و نباید وارد این سایت شوید.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "اگر با <span class='mitm-name'/> آشنا نیستید، این می‌تواند یک حمله باشد و برای دسترسی به این سایت کاری نمی‌توانید انجام دهید.">
