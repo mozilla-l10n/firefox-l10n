@@ -136,6 +136,8 @@ perftools-presets-graphics-description = Forhåndsindstilling for at undersøge 
 perftools-presets-media-label = Medieindhold
 perftools-presets-media-description = Anbefalet forhåndsindstilling for at diagnosticere problemer med lyd og video.
 perftools-presets-media-description2 = Forhåndsindstilling for at undersøge lyd- og video-problemer i { -brand-shorter-name }.
+perftools-presets-networking-label = Netværk
+perftools-presets-networking-description = Forhåndsindstilling for at undersøge netværksproblemer i { -brand-shorter-name }.
 perftools-presets-custom-label = Tilpasset
 
 ##
