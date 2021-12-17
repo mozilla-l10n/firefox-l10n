@@ -6,11 +6,19 @@
 ## Message Header Encryption Button
 
 message-header-show-security-info-key = S
+#   $type (String) - the shortcut key defined in the message-header-show-security-info-key
+message-security-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Mostrar seguridad del mensaje (^ ⌘ { message-header-show-security-info-key })
+           *[other] Mostrar seguridad del mensaje (Ctrl+Alt+{ message-header-show-security-info-key })
+        }
 openpgp-view-signer-key =
     .label = Ver clave de firmante
 openpgp-view-your-encryption-key =
     .label = Ver tu clave de descifrado
 openpgp-openpgp = OpenPGP
+openpgp-no-sig-info = Este mensaje no incluye la firma digital del remitente. La ausencia de una firma digital significa que el mensaje podría haber sido enviado por alguien que finge tener esta dirección de correo electrónico. También es posible que el mensaje haya sido alterado mientras circulaba por la red.
 openpgp-uncertain-sig = Firma digital incierta
 openpgp-invalid-sig = Firma digital no válida
 openpgp-good-sig = Buena firma digital
@@ -18,6 +26,16 @@ openpgp-sig-uncertain-no-key = Este mensaje contiene una firma digital, pero no 
 openpgp-sig-uncertain-uid-mismatch = Este mensaje contiene una firma digital, pero se detectó una discrepancia. El mensaje fue enviado desde una dirección de correo electrónico que no coincide con la clave pública del firmante.
 openpgp-sig-uncertain-not-accepted = Este mensaje contiene una firma digital, pero aún no has decidido si la clave del firmante es aceptable para ti.
 openpgp-sig-invalid-rejected = Este mensaje contiene una firma digital, pero previamente decidiste rechazar la clave del firmante.
+openpgp-sig-invalid-technical-problem = Este mensaje contiene una firma digital, pero se detectó un error técnico. O el mensaje ha sido corrompido o alguien más lo ha modificado.
+openpgp-sig-valid-unverified = Este mensaje incluye una firma digital válida de una clave que ya has aceptado. Sin embargo, aún no has verificado que la clave sea propiedad del remitente.
+openpgp-sig-valid-verified = Este mensaje incluye una firma digital válida de una clave verificada.
+openpgp-sig-valid-own-key = Este mensaje incluye una firma digital válida de tu clave personal.
+openpgp-enc-none = El mensaje no está cifrado
+openpgp-enc-none-label = Este mensaje no fue cifrado antes de ser enviado. La información que se manda a Internet sin cifrar puede ser vista por otras personas mientras llega a su destino.
+openpgp-enc-invalid-label = El mensaje no puede ser descifrado
+openpgp-enc-invalid = Este mensaje fue cifrado antes de ser enviado, pero no puede ser descifrado.
+openpgp-enc-clueless = Hay un problema desconocido con este mensaje cifrado.
+openpgp-enc-valid-label = El mensaje está cifrado
 openpgp-unknown-key-id = Clave desconocida
 openpgp-message-header-signed-verified-icon =
     .alt = Firma verificada
