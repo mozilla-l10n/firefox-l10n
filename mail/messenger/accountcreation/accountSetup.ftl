@@ -134,13 +134,17 @@ account-setup-find-settings-failed = { -brand-short-name } no pudo encontrar la 
 ## Manual configuration area
 
 account-setup-manual-config-title = Configuración manual
+account-setup-incoming-server-legend = Servidor entrante
 account-setup-protocol-label = Protocolo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Nombre del servidor:
 account-setup-port-label = Puerto:
     .title = Establecer el número del puerto en 0 para la detección automática
+account-setup-auto-description = { -brand-short-name } intentará detectar automáticamente los campos que se dejan en blanco.
 account-setup-ssl-label = Seguridad de la conexión:
+account-setup-outgoing-server-legend = Servidor de salida
 
 ## Incoming/Outgoing SSL Authentication options
 
@@ -160,6 +164,8 @@ account-setup-advanced-setup-button = Configuración avanzada
 ## Warning insecure server dialog
 
 account-setup-insecure-title = ¡Advertencia!
+account-setup-insecure-incoming-title = Configuraciones de entrada:
+account-setup-insecure-outgoing-title = Configuraciones de salida:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> no usa cifrado.
