@@ -58,6 +58,7 @@ mobile-app-links = { -brand-product-name }-Browser für <a data-l10n-name="andro
 lockwise-title = Nie wieder ein Passwort vergessen
 lockwise-title-logged-in2 = Passwortverwaltung
 lockwise-header-content = { -lockwise-brand-name } speichert Passwörter sicher in Ihrem Browser.
+passwords-title-logged-in = Passwörter verwalten
 passwords-header-content = { -brand-product-name } speichert Passwörter sicher in Ihrem Browser.
 lockwise-header-content-logged-in = Speichern Sie Passwörter sicher und synchronisieren Sie diese mit allen Ihren Geräten.
 protection-report-save-passwords-button = Passwörter speichern
@@ -67,6 +68,10 @@ protection-report-manage-passwords-button = Passwörter verwalten
 lockwise-mobile-app-title = Nehmen Sie Ihre Passwörter überall mit
 lockwise-no-logins-card-content = Verwenden Sie in { -brand-short-name } gespeicherte Passwörter auf jedem Gerät.
 lockwise-app-links = { -lockwise-brand-name } für <a data-l10n-name="lockwise-android-inline-link">Android</a> und <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+protection-report-passwords-save-passwords-button = Passwörter speichern
+    .title = Passwörter speichern
+protection-report-passwords-manage-passwords-button = Passwörter verwalten
+    .title = Passwörter verwalten
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
