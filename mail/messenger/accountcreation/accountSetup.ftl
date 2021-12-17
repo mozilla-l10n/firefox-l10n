@@ -99,6 +99,7 @@ protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
 account-setup-port-label = Puerto:
     .title = Establecer el número del puerto en 0 para la detección automática
+account-setup-ssl-label = Seguridad de la conexión:
 
 ## Incoming/Outgoing SSL Authentication options
 
