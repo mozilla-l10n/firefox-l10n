@@ -69,6 +69,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; یک تهدید امنیتی بالقوه شناسایی کرد و به <span class='hostname'/> ادامه نداد. اگر از این سایت بازدید کنید، مهاجمان می‌توانند اطلاعاتی مانند گذرواژه، ایمیل‌ها یا جزئیات کارت اعتباری شما را سرقت کنند.">
 <!ENTITY certerror.sts.introPara "&brandShortName; یک تهدید امنیتی بالقوه را شناسایی کرد و به <span class='hostname'/> ادامه نداد زیرا که این وب سایت به اتصال ایمن نیاز دارد.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; مشکلی را شناسایی کرد و به <span class='hostname'/> ادامه نداد. وب سایت یا پیکربندی اشتباهی دارد یا ساعت رایانهٔ شما روی زمان اشتباه تنظیم شده است.">
+<!ENTITY certerror.expiredCert.secondPara2 "به احتمال زیاد گواهی وب‌سایت منقضی شده است، که جلوی &brandShortName; برای اتصال امن را می‌گیرد. اگر از این سایت بازدید کنید، مهاجمان می‌توانند اطلاعاتی مانند گذرواژه، ایمیل‌ها یا جزئیات کارت اعتباری شما را سرقت کنند.">
+<!ENTITY certerror.expiredCert.sts.secondPara "به احتمال زیاد گواهی وب‌سایت منقضی شده است، که جلوی &brandShortName; برای اتصال امن را می‌گیرد.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "چه کاری می‌توانید در مورد آن انجام دهید؟">
 
