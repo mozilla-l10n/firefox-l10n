@@ -7,7 +7,10 @@ account-setup-tab-title = Configuración de cuenta
 ## Header
 
 account-setup-title = Configurar tu dirección de correo electrónico existente.
+account-setup-secondary-description = { -brand-product-name } buscará automáticamente una configuración de servidor recomendada y que funcione.
 account-setup-success-title = Cuenta creada correctamente
+account-setup-success-description = Ahora puedes usar esta cuenta con { -brand-short-name }.
+account-setup-success-secondary-description = Puedes mejorar la experiencia conectando servicios relacionados y configurando la configuración de cuentas avanzadas.
 
 ## Form fields
 
@@ -16,10 +19,16 @@ account-setup-name-label = Tu nombre completo
 # Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
 account-setup-name-input =
     .placeholder = John Doe
+account-setup-name-info-icon =
+    .title = Tu nombre, como se muestra a otros usuarios
+account-setup-name-warning-icon =
+    .title = Por favor, ingresa tu nombre
 account-setup-email-label = Dirección de correo electrónico
     .accesskey = D
 account-setup-email-input =
     .placeholder = john.doe@example.com
+account-setup-email-info-icon =
+    .title = Tu correo electrónico existente
 account-setup-email-warning-icon =
     .title = Dirección de correo electrónico no válido
 account-setup-password-label = Contraseña
@@ -147,11 +156,18 @@ account-setup-addon-install-title = Instalar
 ## Success view
 
 account-setup-settings-button = Ajustes de la cuenta
+account-setup-encryption-button = Cifrado de extremo a extremo
 account-setup-signature-button = Agregar una firma
 account-setup-dictionaries-button = Descargar diccionarios
+account-setup-address-book-carddav-button = Conectarse a una libreta de direcciones CardDAV
+account-setup-address-book-ldap-button = Conectarse a una libreta de direcciones LDAP
+account-setup-calendar-button = Conectar a un calendario remoto
 account-setup-linked-services-title = Conectar tus servicios vinculados
+account-setup-linked-services-description = { -brand-short-name } detectó otros servicios vinculados a tu cuenta de correo electrónico.
 account-setup-button-finish = Finalizar
     .accesskey = F
+account-setup-looking-up-address-books = Buscando libretas de direcciones…
+account-setup-looking-up-calendars = Buscando calendarios…
 account-setup-address-books-button = Libretas de direcciones
 account-setup-calendars-button = Calendarios
 account-setup-connect-link = Conectar
