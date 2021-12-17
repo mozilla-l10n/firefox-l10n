@@ -7,6 +7,7 @@ account-setup-tab-title = Configuración de cuenta
 ## Header
 
 account-setup-title = Configurar tu dirección de correo electrónico existente.
+account-setup-description = Para utilizar tu dirección de correo electrónico actual, rellena tu credenciales.
 account-setup-secondary-description = { -brand-product-name } buscará automáticamente una configuración de servidor recomendada y que funcione.
 account-setup-success-title = Cuenta creada correctamente
 account-setup-success-description = Ahora puedes usar esta cuenta con { -brand-short-name }.
@@ -66,17 +67,29 @@ account-setup-button-done = Hecho
 ## Notifications
 
 account-setup-looking-up-settings = Buscando la configuración…
+account-setup-looking-up-isp = Buscando configuración: Proveedor de correo electrónico…
 account-setup-checking-password = Verificando contraseña…
+account-setup-success-password = Contraseña correcta
+account-setup-success-addon = El complemento se instaló correctamente
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Configuración encontrada para un servidor de Microsoft Exchange.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Configuración inicial
 account-setup-step2-image =
     .title = Cargando…
+account-setup-step3-image =
+    .title = Configuración encontrada
 account-setup-step4-image =
     .title = Error de conexión
 account-setup-step5-image =
     .title = Cuenta creada
+account-setup-privacy-footnote2 = Tus credenciales solo se almacenarán localmente en tu  equipo.
+account-setup-selection-help = ¿No estás seguro de qué seleccionar?
 account-setup-selection-error = ¿Necesitas ayuda?
+account-setup-success-help = ¿No estás seguro de tus próximos pasos?
 account-setup-documentation-help = Documentación de instalación
 account-setup-forum-help = Foro de soporte
 account-setup-privacy-help = Política de privacidad
@@ -84,20 +97,39 @@ account-setup-getting-started = Comenzar
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Configuración disponible
+       *[other] Configuraciones disponibles
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Usar el servidor de Microsoft Exchange o los servicios en la nube de Office365
+account-setup-incoming-title = Entrante
+account-setup-outgoing-title = Saliente
+account-setup-username-title = Nombre de usuario
 account-setup-exchange-title = Servidor
 account-setup-result-smtp = SMTP
 account-setup-result-no-encryption = Sin cifrar
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Usar servidor SMTP de salida existente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Entrante: { $incoming }, saliente: { $outgoing }
 
 ## Error messages
 
+account-setup-credentials-wrong = Autenticación fallida. Por favor, comprueba el nombre de usuario y contraseña
+account-setup-find-settings-failed = { -brand-short-name } no pudo encontrar la configuración de tu cuenta de correo electrónico
 
 ## Manual configuration area
 
@@ -128,6 +160,11 @@ account-setup-advanced-setup-button = Configuración avanzada
 ## Warning insecure server dialog
 
 account-setup-insecure-title = ¡Advertencia!
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> no usa cifrado.
+account-setup-insecure-server-checkbox = Entiendo los riesgos
+    .accesskey = E
 insecure-dialog-cancel-button = Cambiar la configuración
     .accesskey = o
 insecure-dialog-confirm-button = Confirmar
@@ -140,10 +177,13 @@ exchange-dialog-cancel-button = Cancelar
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = No se configuró ninguna cuenta de correo electrónico
 account-setup-no-account-checkbox = Usar { -brand-short-name } sin una cuenta de correo electrónico
     .accesskey = U
 exit-dialog-cancel-button = Continuar la instalación
     .accesskey = C
+exit-dialog-confirm-button = Salir de la configuración
+    .accesskey = S
 
 ## Alert dialogs
 
