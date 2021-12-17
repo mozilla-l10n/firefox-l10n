@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Bildschirmfoto in Zwischenablage kopieren
 screenshots-cancel-button-title =
     .title = Abbrechen
+screenshots-retry-button-title =
+    .title = Bildschirmfoto erneut versuchen
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

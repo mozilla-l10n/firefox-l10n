@@ -134,6 +134,8 @@ perftools-presets-graphics-description = Voreinstellung zur Untersuchung von Gra
 perftools-presets-media-label = Medien
 perftools-presets-media-description = Empfohlene Voreinstellung zur Diagnose von Audio- und Videoproblemen.
 perftools-presets-media-description2 = Voreinstellung für die Untersuchung von Audio- und Videoproblemen in { -brand-shorter-name }.
+perftools-presets-networking-label = Netzwerkverbindungen
+perftools-presets-networking-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }.
 perftools-presets-custom-label = Benutzerdefiniert
 
 ##

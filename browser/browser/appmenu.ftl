@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Voreinstellung für die Untersuchung von Audio- und Videoproblemen in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Medien
+profiler-popup-presets-networking-description = Voreinstellung für die Untersuchung von Problemen mit Netzwerkverbindungen in { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Netzwerkverbindungen
 profiler-popup-presets-custom-label =
     .label = Benutzerdefiniert
 
