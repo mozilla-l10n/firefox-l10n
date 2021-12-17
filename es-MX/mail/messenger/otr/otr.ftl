@@ -2,7 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-encryption-required-part1 = Intentaste enviar un mensaje sin cifrar a { $name }. Como política, los mensajes sin cifrar no están permitidos.
+msgevent-encryption-required-part2 = Intentaste iniciar una conversación privada. Tu mensaje se enviará cuando se inicie la conversación privada.
 msgevent-encryption-error = Ocurrió un error al cifrar tu mensaje. El mensaje no fue enviado.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-setup-error = Ocurrió un error al configurar una conversación privada con { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = Se reenvió el último mensaje a { $name }.
@@ -11,7 +18,16 @@ msgevent-msg-resent = Se reenvió el último mensaje a { $name }.
 msgevent-rcvdmsg-not-private = El mensaje cifrado recibido de { $name } no puede ser leído, ya que actualmente no se está comunicando de forma privada.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Recibiste un mensaje cifrado no legible de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-malformed = Recibiste un mensaje de datos con formato incorrecto de { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Ocurrió un error inesperado mientras se intentaba proteger tu conversación usando OTR.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = El siguiente mensaje recibido de { $name } no fue cifrado: { $msg }
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $name (String) - the screen name of a chat contact person
