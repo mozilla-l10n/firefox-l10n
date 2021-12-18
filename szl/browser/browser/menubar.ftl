@@ -38,20 +38,16 @@ menu-quit =
             [windows] s
            *[other] s
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Skōńcz { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Skōńcz { -brand-shorter-name }
-
 menu-about =
     .label = Ô aplikacyji { -brand-shorter-name }
     .accesskey = O
@@ -83,6 +79,17 @@ menu-file-open-file =
     .accesskey = d
 menu-file-close =
     .label = Zawrzij
+    .accesskey = Z
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Zawrzij karta
+            [one] Zawrzij { $tabCount } karta
+            [few] Zawrzij { $tabCount } karty
+           *[many] Zawrzij { $tabCount } kart
+        }
     .accesskey = Z
 menu-file-close-window =
     .label = Zawrzij okno
@@ -168,7 +175,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Bazowy styl
     .accesskey = B
-
 menu-view-repair-text-encoding =
     .label = Naprow kodowanie tekstu
     .accesskey = n
@@ -214,7 +220,6 @@ menu-history-undo-menu =
     .label = Niydowno zawarte karty
 menu-history-undo-window-menu =
     .label = Niydowno zawarte ôkna
-
 menu-history-reopen-all-tabs = Ôdewrzij nazod wszyskie karty
 menu-history-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
 

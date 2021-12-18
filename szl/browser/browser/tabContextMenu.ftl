@@ -84,6 +84,15 @@ tab-context-close-tabs =
            *[many] Zawrzij karty
         }
     .accesskey = Z
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zawrzij karta
+            [one] Zawrzij { $tabCount } karta
+            [few] Zawrzij { $tabCount } karty
+           *[many] Zawrzij { $tabCount } kart
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
