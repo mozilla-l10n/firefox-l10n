@@ -154,8 +154,12 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ
 profiler-popup-presets-media-label =
     .label = ᱢᱤᱰᱤᱭᱟ
+profiler-popup-presets-networking-label =
+    .label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
 profiler-popup-presets-custom-label =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
 

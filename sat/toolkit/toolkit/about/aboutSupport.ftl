@@ -26,7 +26,7 @@ modified-key-prefs-title = मोहोत बोदोलाक् कुसि
 user-js-title = user.js कुसियाक् को
 user-js-description = आमाक् प्रोफाइल पोटोम रे <a data-l10n-name="user-js-link">user.js रेत्</a>,मेनाक् आ, ओका रे कुसियाक् को सा़मिल मेनाक् आ ओका दो  { -brand-short-name } दाराय ते बाय तेयार लेन ताहेंना.
 locked-key-prefs-title = मोहोत कुलुपाक् कुसियाक् को .
-graphics-title = गार चिता़र
+graphics-title = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱠᱚ
 a11y-title = आ़तुर दाड़े तेत्
 a11y-activated = चोगोड़ होचोवाक्
 a11y-force-disabled = आ़तुर लेकाक् आकोट होचो
