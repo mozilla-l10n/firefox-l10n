@@ -327,6 +327,7 @@ fission-status-experiment-control = Отключены эксперименто�
 fission-status-experiment-treatment = Включены экспериментом
 fission-status-disabled-by-e10s-env = Отключены средой
 fission-status-enabled-by-env = Включены средой
+fission-status-disabled-by-env = Отключено средой
 fission-status-disabled-by-safe-mode = Отключены безопасным режимом
 fission-status-enabled-by-default = Включены по умолчанию
 fission-status-disabled-by-default = Отключены по умолчанию
