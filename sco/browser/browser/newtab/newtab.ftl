@@ -169,6 +169,11 @@ newtab-label-sponsored = { $sponsorOrSource } · Sponsored
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Sponsored by { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -225,6 +230,18 @@ newtab-pocket-more-recommendations = Mair Recommendations
 newtab-pocket-learn-more = Lairn mair
 newtab-pocket-cta-button = Get { -pocket-brand-name }
 newtab-pocket-cta-text = Save the stories ye're intae wi { -pocket-brand-name }, and nourish yer mind wi some wunnerfu reads.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is pairt o the { -brand-product-name } faimily
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Save tae { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Saved tae { -pocket-brand-name }
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Ye're aw caught up!
+newtab-pocket-last-card-desc = Check back efter for mair.
+newtab-pocket-last-card-image =
+    .alt = Ye're aw caught up
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -149,6 +149,7 @@ mr1-onboarding-import-primary-button-label-attribution = Inbring fae { $previous
 mr1-onboarding-import-primary-button-label-no-attribution = Inbring fae previous wab-stravaiger
 mr1-onboarding-import-secondary-button-label = No jist noo
 mr2-onboarding-colorway-secondary-button-label = No jist noo
+mr2-onboarding-colorway-label-soft = Saft
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Staunart
 mr1-onboarding-theme-header = Mak it yer ain
