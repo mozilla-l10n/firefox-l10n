@@ -8,3 +8,4 @@ active-policies-tab = ᱩᱥᱨᱟᱹᱣ
 errors-tab = ᱵᱷᱩᱞᱠᱚ
 policy-name = ᱯᱚᱞᱚᱥᱤ ᱧᱩᱛᱩᱢ
 policy-value = ᱯᱚᱞᱤᱥᱤ ᱢᱤᱞ
+policy-errors = ᱱᱤᱛᱤ ᱵᱷᱩᱞ ᱠᱚ
