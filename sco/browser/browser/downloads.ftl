@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -44,6 +39,8 @@ downloads-cmd-show-menuitem-mac =
 downloads-cmd-use-system-default =
     .label = Open In System Viewer
     .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Ayeweys Open In System Viewer
     .accesskey = w
@@ -131,6 +128,8 @@ downloading-file-opens-in-minutes = Openin in { $minutes }m…
 downloading-file-opens-in-minutes-and-seconds = Openin in { $minutes }m { $seconds }s…
 downloading-file-opens-in-seconds = Openin in { $seconds }s…
 downloading-file-opens-in-some-time = Openin wance feenisht…
+downloading-file-click-to-open =
+    .value = Open wance feenisht
 
 ##
 
@@ -152,6 +151,15 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Doonload Details
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
+##
+
 downloads-clear-downloads-button =
     .label = Dicht Doonloads
     .tooltiptext = Dichts feenisht, stapped and misgaed doonloads

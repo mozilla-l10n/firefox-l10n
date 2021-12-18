@@ -176,6 +176,18 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Wab Forderer
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Graphics
+profiler-popup-presets-media-label =
+    .label = Media
+profiler-popup-presets-networking-label =
+    .label = Netwirkin
+profiler-popup-presets-custom-label =
+    .label = Custom
 
 ## History panel
 

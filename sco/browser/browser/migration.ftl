@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Inbringin Helpender
-
 import-from =
     { PLATFORM() ->
         [windows] Inbring Options, Buikmerks, Historie, Passwirds and ither data fae:
        *[other] Inbring Preferences, Buikmerks, Historie, Passwirds and ither data fae:
     }
-
 import-from-bookmarks = Inbring Buikmerks fae:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -30,6 +28,9 @@ import-from-nothing =
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-brave =
+    .label = Brave
+    .accesskey = r
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
@@ -51,39 +52,25 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Siccar Stravaiger
     .accesskey = 3
-
 no-migration-sources = Nae programs that hae buikmerks, historie or passwird data could be airtit oot.
-
 import-source-page-title = Inbring Settins and Data
 import-items-page-title = Items tae Inbring
-
 import-items-description = Wale whit items tae inbring:
-
 import-permissions-page-title = Gonnae gie { -brand-short-name } permeesions?
-
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS needs ye tae gie direct permeesion tae { -brand-short-name } fur tae hae ingang tae Safari’s buikmerks. Click “Continue” and wale the “Bookmarks.plist” file in the File Open panel that kythes itsel.
-
 import-migrating-page-title = Inbringin…
-
 import-migrating-description = The follaein items are bein inbrocht the noo…
-
 import-select-profile-page-title = Wale Profile
-
 import-select-profile-description = The follaein profiles are at haun tae inbring fae:
-
 import-done-page-title = Inbringin Feenisht
-
 import-done-description = The follaein items were inbrocht wioot onie problem:
-
 import-close-source-browser = Gonnae mak siccar the wab-stravaiger ye've waled is sneckit afore haudin forrit.
-
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Fae { $source }
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -95,7 +82,6 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Siccar Stravaiger
-
 imported-safari-reading-list = Readin List (Fae Safari)
 imported-edge-reading-list = Readin List (Fae Edge)
 
@@ -117,7 +103,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -130,12 +115,10 @@ browser-data-history-label =
             [firefox] Wab-stravaigin Historie and Buikmerks
            *[other] Wab-stravaigin Historie
         }
-
 browser-data-formdata-checkbox =
     .label = Saved Form Historie
 browser-data-formdata-label =
     .value = Saved Form Historie
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -144,7 +127,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Saved Logins and Passwirds
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -159,12 +141,10 @@ browser-data-bookmarks-label =
             [edge] Favorites
            *[other] Buikmerks
         }
-
 browser-data-otherdata-checkbox =
     .label = Ither Data
 browser-data-otherdata-label =
     .label = Ither Data
-
 browser-data-session-checkbox =
     .label = Windaes and Tabs
 browser-data-session-label =

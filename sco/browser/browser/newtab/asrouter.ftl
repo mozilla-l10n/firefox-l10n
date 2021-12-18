@@ -121,15 +121,25 @@ cfr-doorhanger-video-support-header = Update { -brand-short-name } fur tae pley 
 cfr-doorhanger-video-support-primary-button = Update Noo
     .accesskey = U
 
+## Spotlight modal shared strings
+
+spotlight-learn-more-expanded = Lairn mair
+    .title = Sneck
+
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Luiks like ye're yaisin public Wi-Fi
 spotlight-public-wifi-vpn-body = Tae hide yer airtin and yer stravaigin ongauns, think aboot a Virtual Private Netwark. It'll help keep ye bieldit when stravaigin in public places sic as airports and coffee shops.
 spotlight-public-wifi-vpn-primary-button = Stey private wi { -mozilla-vpn-brand-name }
     .accesskey = S
 spotlight-public-wifi-vpn-link = No Jist Noo
     .accesskey = N
+
+## Total Cookie Protection Rollout
+
+spotlight-total-cookie-protection-secondary-button = No jist noo

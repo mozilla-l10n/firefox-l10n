@@ -64,6 +64,14 @@ upgrade-dialog-default-secondary-button = No jist noo
 upgrade-dialog-theme-title-2 = Get a clean stert wi a nacketie theme
 upgrade-dialog-theme-system = System theme
     .title = Follae the operatin system theme fur buttons, menus, and windaes
+
+## Start screen
+
+upgrade-dialog-start-secondary-button = No jist noo
+
+## Colorway screen
+
+upgrade-dialog-colorway-default-theme = Staunart
 upgrade-dialog-theme-light = Licht
     .title = Yaise a licht theme fur buttons, menus, and windaes
 upgrade-dialog-theme-dark = Daurk
@@ -74,3 +82,7 @@ upgrade-dialog-theme-keep = Keep previous
     .title = Yaise the theme ye'd instawed afore updatin { -brand-short-name }
 upgrade-dialog-theme-primary-button = Save theme
 upgrade-dialog-theme-secondary-button = No jist noo
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Stert stravaigin
