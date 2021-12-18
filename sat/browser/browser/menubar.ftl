@@ -217,6 +217,8 @@ menu-bookmark-edit =
     .label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 menu-bookmarks-all-tabs =
     .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
+menu-bookmarks-toolbar =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱦᱚᱛᱷᱤᱭᱟᱨ
 
 ## Tools Menu
 
