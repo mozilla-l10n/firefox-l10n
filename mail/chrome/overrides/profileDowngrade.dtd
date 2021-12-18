@@ -12,6 +12,7 @@
 <!ENTITY window.title "Iniciaste una versión antigua de &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "Una versión más reciente de &brandProductName; puede haber hecho cambios en tu perfil que ya no son compatibles con esta versión anterior. Usar este perfil solamente con la versión más reciente, o crear un nuevo perfil para esta instalación de &brandShortName;. Crear un nuevo perfil requiere configurar de nuevo tus cuentas, calendarios y complementos.">
 
 <!ENTITY window.moreinfo "Más información…">
 <!ENTITY window.create "Crear nuevo perfil">
