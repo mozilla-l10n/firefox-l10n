@@ -5,7 +5,7 @@
 copy =
     .key = C
 menu-copy =
-    .label = नोकोल
+    .label = ᱱᱚᱠᱚᱞ
     .accesskey = C
 menu-select-all =
     .label = ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
@@ -47,17 +47,17 @@ media-size =
 media-count =
     .label = लेखा
 media-dimension =
-    .value = पासनाव को:
+    .value = ᱯᱟᱥᱱᱟᱣ ᱠᱚ:
 media-long-desc =
     .value = जिलिञ विबरोन:
 media-save-image-as =
     .label = लेका सांचाव…
     .accesskey = e
 perm-tab =
-    .label = छाड को
+    .label = ᱪᱷᱟᱹᱰ ᱠᱚ
     .accesskey = P
 permissions-for =
-    .value = ला़गित् छा़ड को:
+    .value = ᱞᱟᱹᱜᱤᱫ ᱪᱷᱟᱰ ᱠᱚ:
 security-tab =
     .label = जा़पती
     .accesskey = S
@@ -79,7 +79,7 @@ security-view-privacy =
 security-view-privacy-history-value = चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?
 security-view-privacy-passwords-value = चेत् इञ नोवा वेब साइट ला़गित् जाहान दानाङ साबाद सांचाव आकाना ?
 security-view-technical =
-    .value = टेकनिकाल पुरा़ बिबरोन को.
+    .value = ᱴᱮᱠᱱᱤᱠᱟᱹᱞ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 help-button =
     .label = गोड़ो
 
@@ -104,7 +104,7 @@ media-list-img = बुलेट
 media-cursor = कार्सार
 media-object = जिनिस
 media-embed = इला़त लाठा
-media-link = आयकोन
+media-link = ᱟᱭᱠᱚᱱ
 media-input = आदेर
 media-video = बिडियो
 media-audio = साडे आंजोमाक्
@@ -118,7 +118,7 @@ general-strict-mode =
     .value = बातावाक् सिका़र ओबोसता.
 page-info-security-no-owner =
     .value = नोवा वेबसाइट मा़लिक तेयारोगाक् ला़य सोदोर बाय एम आकात् आ .
-media-select-folder = चिता़र को सांचाव ला़गित् मित् पोटोम बाछाव मे .
+media-select-folder = ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱚᱴᱚᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ᱾
 media-unknown-not-cached =
     .value = बाङ बाडायाक्  (बाय साब आ )
 permissions-use-default =
@@ -149,7 +149,7 @@ media-file-size = { $size } KB
 # Variables:
 #   $website (string) - The website name
 media-block-image =
-    .label = { $website } खोन चिता़र को आकोट.
+    .label = { $website } ᱠᱷᱚᱱ ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱟᱴᱠᱟᱣ
     .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
