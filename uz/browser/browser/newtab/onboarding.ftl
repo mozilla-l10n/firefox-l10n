@@ -47,6 +47,31 @@ onboarding-multistage-set-default-secondary-button-label = Hozir emas
 
 ## Multistage onboarding strings (about:welcome pages)
 
+onboarding-multistage-theme-primary-button-label2 = Tayyor
+onboarding-multistage-theme-secondary-button-label = Hozir emas
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Avtomatik
+onboarding-multistage-theme-label-light = Yorqin
+onboarding-multistage-theme-label-dark = Qora
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    Olov (|Fire)
+    bu yerdan boshlanadi
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Mebellar boʻyicha dizayner, Firefox ishqibozlaridan biri
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Animatsiyalarni oʻchirish
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
