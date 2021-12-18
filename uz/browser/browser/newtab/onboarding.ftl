@@ -77,13 +77,37 @@ mr1-onboarding-reduce-motion-button-label = Animatsiyalarni oʻchirish
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Oson kirish uchun { -brand-short-name }ni asosiy menyuda saqlang
+       *[other] Oson kirish uchun { -brand-short-name }ni vazifalar paneliga mahkamlang
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Asosiy menyuga saqlash
+       *[other] Vazifalar paneliga mahkamlash
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Boshlash
+mr1-onboarding-welcome-header = { -brand-short-name }ga xush kelibsiz
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } asosiy brauzerim boʻlsin
+    .title = { -brand-short-name } asosiy brauzer qilinadi va vazifalar paneliga mahkamlanadi
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } asosiy brauzerim boʻlsin
+mr1-onboarding-set-default-secondary-button-label = Hozir emas
+mr1-onboarding-sign-in-button-label = Kirish
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name } asosiy brauzerim boʻlsin
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
