@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Sérsníða verkfæraslá">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY instructions.description "Þú getur bætt við eða eytt út atriðum með því að draga þau af eða á verkfæraslár.">
+<!ENTITY show.label               "Sýna:">
+<!ENTITY iconsAndText.label       "Tákn og texti">
+<!ENTITY icons.label              "Táknmyndir">
+<!ENTITY text.label               "Texti">
+<!ENTITY iconsBesideText.label    "Tákn við hliðina á texta">
