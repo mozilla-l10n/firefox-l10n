@@ -177,9 +177,11 @@ dlg-button-delete = &Eliminar
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
+key-man-button-revoke-key = &Revocar clave
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
+delete-external-key-title = Eliminar la clave GnuPG externa
 # Strings used in trust.jsm
 key-valid-unknown = desconocido
 key-valid-invalid = no válido
