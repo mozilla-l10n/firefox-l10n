@@ -66,12 +66,15 @@
 <!ENTITY maxMessagesEnd.label "póstum">
 <!ENTITY alwaysAuthenticate.label "Alltaf krefjast öruggs auðkennis þegar tengst er við þennan netþjón">
 <!ENTITY alwaysAuthenticate.accesskey "A">
+<!ENTITY newsrcFilePath1.label "News.rc skrá:">
+<!ENTITY newsrcPicker1.label "Veldu News.rc skrá">
 <!ENTITY abbreviate.label "Sýna nöfn fréttahópa í póstmöppu hliðslá sem:">
 <!ENTITY abbreviateOn.label "Fullt nafn (Til dæmis, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skammstafa nöfn (Til dæmis, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Frekari stillingar…">
 <!ENTITY advancedButton.accesskey "F">
 <!ENTITY serverDefaultCharset2.label "Sjálfgefin textakóðun:">
+<!ENTITY localPath1.label "Staðbundin mappa:">
 <!ENTITY localFolderPicker.label "Veldu staðbundna möppu">
 <!ENTITY browseFolder.label "Velja…">
 <!ENTITY browseFolder.accesskey "V">
