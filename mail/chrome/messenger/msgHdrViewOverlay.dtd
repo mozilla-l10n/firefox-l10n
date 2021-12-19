@@ -93,6 +93,9 @@
 <!ENTITY openAttachment.tooltip "Opna viðhengið">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Opna umlykjandi möppu">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Sýna í Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Vista">
