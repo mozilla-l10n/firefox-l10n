@@ -15,6 +15,9 @@ about-rights-notification-text = { -brand-short-name } er frjás og opinn hugbú
 
 ## Folder Toolbar Header Popup
 
+show-favorite-folders-label =
+    .label = Eftirlætismöppur
+    .accesskey = f
 
 ## Menu
 

@@ -735,6 +735,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nýlegt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Eftirlæti">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Afrita í">
 <!ENTITY contextCopyMsgMenu.accesskey "A">
 <!ENTITY contextKillThreadMenu.label "Hunsa umræðu">
