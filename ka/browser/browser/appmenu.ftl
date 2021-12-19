@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = მზა პარამეტრები, ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად – { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = ფაილები
+profiler-popup-presets-networking-description = მზა პარამეტრები, ქსელის ხარვეზების გამოსავლენად – { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = ქსელი
 profiler-popup-presets-custom-label =
     .label = მორგებული
 
