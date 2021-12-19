@@ -22,6 +22,8 @@
 <!ENTITY preferDisplayName.accesskey    "j">
 
 
+<!ENTITY HomePhone.label                "Heima:">
+<!ENTITY HomePhone.accesskey            "m">
 
 <!ENTITY Home.tab                       "Einka">
 <!ENTITY Home.accesskey                 "E">
@@ -34,6 +36,7 @@
 <!ENTITY HomeZipCode.label              "Póstnúmer:">
 <!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Land:">
+<!ENTITY HomeCountry.accesskey          "n">
 <!ENTITY HomeWebPage.label              "Vefsíða:">
 <!ENTITY HomeWebPage.accesskey          "e">
 
