@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = სურათის ასლის აღება
 screenshots-cancel-button-title =
     .title = გაუქმება
+screenshots-retry-button-title =
+    .title = კვლავ გადაღება
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

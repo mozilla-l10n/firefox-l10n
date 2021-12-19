@@ -368,3 +368,7 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = ბმულის გახსნა ახალ { $containerName } ჩანართში
     .accesskey = რ
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = პაროლის ჩვენება
+    .accesskey = ლ
