@@ -175,25 +175,40 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Þátttaka">
 <!ENTITY calendar.context.attendance.menu.accesskey             "Þ">
 <!ENTITY calendar.context.attendance.occurrence.label           "Þetta tilvik">
+<!ENTITY calendar.context.attendance.all2.label                 "Alla röðina">
 <!ENTITY calendar.context.attendance.send.label                 "Sendu tilkynningu núna">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
 <!ENTITY calendar.context.attendance.dontsend.label             "Ekki senda tilkynningu">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "E">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Samþykkt">
-<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "j">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Samþykkt með fyrirvara">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "f">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Afþakkað">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Úthlutað">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Þarf samt viðbrögð">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "Í vinnslu">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Lokið">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "L">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Samþykkt">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
 <!ENTITY calendar.context.attendance.all.tentative.label        "Samþykkt með fyrirvara">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "Afþakkað">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Úthlutað">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Þarf samt viðbrögð">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "v">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Í vinnslu">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "k">
 <!ENTITY calendar.context.attendance.all.completed.label        "Lokið">
 
 <!-- Task Context Menu -->

@@ -32,3 +32,14 @@ calendar-ics-file-dialog-progress-message = Flyt inn…
 calendar-ics-file-import-success = Innflutningur tókst!
 calendar-ics-file-import-error = Villa kom upp og innflutningur mistókst.
 calendar-ics-file-import-complete = Innflutningi lokið.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Eitt atriði var hunsað þar sem það er þegar til í áfangadagatalinu.
+       *[other] { $duplicatesCount } atriði voru hunsuð þar sem þau eru þegar til í áfangadagatalinu.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Ekki tókst að flytja inn eitt atriði. Athugaðu villuborðið fyrir frekari upplýsingar.
+       *[other] Ekki tókst að flytja inn { $errorsCount } atriði. Athugaðu villuborðið fyrir frekari upplýsingar.
+    }
+calendar-ics-file-dialog-no-calendars = Það eru engin dagatöl sem geta flutt inn atburði eða verkefni.

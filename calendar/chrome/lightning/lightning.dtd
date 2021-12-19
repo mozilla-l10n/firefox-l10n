@@ -44,6 +44,8 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
 <!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Tilkynningar">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Almennar tilkynningastillingar…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Samþykkja">
@@ -62,6 +64,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Eyða úr dagatali">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Upplýsingar…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Sýna fundarupplýsingar">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ekki sýna mér þessi skilaboð">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Dagatal">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Skipta yfir á dagatalsflipa">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Meira">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Smelltu til að sjá fleiri valkosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Endurstaðfesta">
@@ -78,6 +83,12 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Uppfæra atburð í dagatali">
 <!ENTITY lightning.imipbar.description                                      "Þessi tölvupóstur inniheldur fundarboð.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Senda svar núna">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Senda svar til skipuleggjandans">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Senda svar fyrir alla röðina til skipuleggjanda">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Ekki senda svar">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Breyta þátttökustöðu þinni án þess að senda svar til skipuleggjanda">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Breyta þátttökustöðu þinni fyrir alla röðina án þess að senda svar til skipuleggjanda">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
