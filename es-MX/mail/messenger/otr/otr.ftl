@@ -10,6 +10,8 @@ msgevent-encryption-error = Ocurrió un error al cifrar tu mensaje. El mensaje n
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-setup-error = Ocurrió un error al configurar una conversación privada con { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-msg-reflected = Estás recibiendo tus propios mensajes OTR. O estás intentando hablar contigo mismo, o alguien te está reflejando tus mensajes.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-msg-resent = Se reenvió el último mensaje a { $name }.
