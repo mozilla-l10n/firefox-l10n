@@ -17,13 +17,23 @@
 
 <!ENTITY menubarCmd.label "Valmyndaslá">
 <!ENTITY menubarCmd.accesskey "V">
-
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fullScreenCmd.label "Fylla skjá">
 
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signin.label "Skrá inn í &brandProductName;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Sendu flipa samstundis í hvaða tæki sem þú ert skráð/ur inn á.">
+
 <!ENTITY printButton.label            "Prenta">
 <!ENTITY printButton.tooltip          "Prenta síðu">
-
 
 <!ENTITY searchItem.title             "Leita">
 
@@ -58,6 +68,8 @@
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Engir opnir flipar">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Sýna fleiri flipa frá þessu tæki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -77,7 +89,7 @@
 <!ENTITY customizeMenu.addToToolbar.label "Bæta við í tækjaslá">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Bæta við yfirflæði valmynd">
@@ -101,14 +113,6 @@
 
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Aðdráttur">
 
 <!ENTITY sidebarCloseButton.tooltip     "Loka hliðslá">
@@ -127,11 +131,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "B">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Vafraflipa">
-
 
 <!ENTITY uiTour.infoPanel.close "Loka">
 

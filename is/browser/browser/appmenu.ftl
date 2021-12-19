@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = Sækja { -brand-shorter-name } uppfærslu
+    .label-update-available = Uppfærsla í boði — sækja núna
+    .label-update-manual = Uppfærsla í boði — sækja núna
+    .label-update-unsupported = Tekst ekki að uppfæra — kerfi ekki samhæft
+    .label-update-restart = Uppfærsla í boði — endurræsa núna
 appmenuitem-banner-update-restart =
     .label = Uppfærsla í boði — endurræstu núna
 appmenuitem-new-tab =
@@ -41,6 +47,7 @@ appmenu-remote-tabs-noclients = Viltu sjá hérna þína flipa frá öðrum tæk
 appmenu-remote-tabs-connectdevice =
     .label = Tengja annað tæki
 appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
+appmenu-fxa-signed-in-label = Innskráning
 appmenuitem-save-page =
     .label = Vista síðu sem…
 

@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Samstilla núna
     .accesskey = S
+synced-tabs-fxa-sign-in = Skráðu inn til að samstilla

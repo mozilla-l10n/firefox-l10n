@@ -293,6 +293,11 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = Leita með { $engine }
 urlbar-result-action-switch-tab = Fara á flipa
 urlbar-result-action-visit = Heimsækja
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
