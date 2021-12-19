@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Copiar il maletg dal visur en l'archiv provisoric
 screenshots-cancel-button-title =
     .title = Interrumper
+screenshots-retry-button-title =
+    .title = Reempruvar il maletg dal visur
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
