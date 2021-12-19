@@ -11,6 +11,9 @@
 <!ENTITY restoreButton.label          "ნაგულისხმევის აღდგენა">
 <!ENTITY restoreButton.accesskey      "ვ">
 
+<!ENTITY connectNetwork.label         "ქსელთან დაკავშირება">
+<!ENTITY connectNetwork.accesskey     "ქ">
+
 <!ENTITY networkListAdd.label         "ქსელის დამატება…">
 <!ENTITY networkListAdd.accesskey     "ქ">
 <!ENTITY networkListAdd.tooltip       "ახალი ქსელის დამატება">
