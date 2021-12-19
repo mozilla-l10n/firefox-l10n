@@ -99,13 +99,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = გადამისამართება
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] წერილების წაშლა
+           *[other] შერჩეული წერილების წაშლა
+        }
+context-menu-decrypt-to-folder =
+    .label = ასლი დაშიფრული სახით
+    .accesskey = ფ
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = გადამისამართება
-message-header-msg-is-flagged =
-    .title = ვარსკვლავიანი წერილი
+message-header-msg-flagged =
+    .title = ვარსკვლავიანი
+    .aria-label = ვარსკვლავიანი
 message-header-msg-not-flagged =
     .title = უვარსკვლავო წერილი
 
@@ -144,3 +154,6 @@ repair-text-encoding-button =
 no-reply-title = პასუხის გაცემა მხარდაუჭერელია
 no-reply-message = ჩანს, რომ მისამართი ({ $email }) ზედამხედველობის ქვეშ არაა. ამ მისამართზე გაგზავნილ პასუხებს, აღარავინ წაიკითხავს.
 no-reply-reply-anyway-button = პასუხის მიწერა მაინც
+
+## error messages
+
