@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Nowo karta
+    .accesskey = w
 reload-tab =
     .label = Przeladuj karta
     .accesskey = P
@@ -54,18 +57,21 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Przidej karta do zokłodek
     .accesskey = Z
+tab-context-open-in-new-container-tab =
+    .label = Ôtwōrz we nowyj kōntynerowyj karcie
+    .accesskey = e
 move-to-start =
     .label = Przeniyś na poczōntek
     .accesskey = C
 move-to-end =
     .label = Przeniyś na kōniec
-    .accesskey = s
+    .accesskey = n
 move-to-new-window =
-    .label = Dej do nowego ôkna
+    .label = Przeniyś do nowego ôkna
     .accesskey = O
 tab-context-close-multiple-tabs =
-    .label = Ôbier mocka kart
-    .accesskey = M
+    .label = Zawrzij wiyncyj kart
+    .accesskey = w
 tab-context-share-url =
     .label = Udostympnij
     .accesskey = U
@@ -75,6 +81,15 @@ tab-context-share-more =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ôtwōrz nazod zawarto karta
+            [one] Ôtwōrz nazod zawarto karta
+            [few] Ôtwōrz nazod zawarte karty
+           *[many] Ôtwōrz nazod zawarte karty
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
