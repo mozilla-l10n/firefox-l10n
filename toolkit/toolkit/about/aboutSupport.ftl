@@ -103,6 +103,8 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tegund ferlis
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Breytur
+startup-cache-dialog-title2 = Endurræsa { -brand-short-name } til að hreinsa skyndiminni ræsingar?
+restart-button-label = Endurræsa
 
 ## Media titles
 

@@ -483,6 +483,9 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Taktu vefinn með þér
+sync-signedout-account-signin3 =
+    .label = Skráðu inn til að samstilla…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -497,8 +500,11 @@ sync-mobile-promo = Hala niður Firefox fyrir <img data-l10n-name="android-icon"
 
 sync-profile-picture =
     .tooltiptext = Breyta notandamynd
+sync-sign-out =
+    .label = Útskráning…
+    .accesskey = g
 sync-manage-account = Sýsla með aðgang
-    .accesskey = S
+    .accesskey = m
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
 sync-resend-verification =
