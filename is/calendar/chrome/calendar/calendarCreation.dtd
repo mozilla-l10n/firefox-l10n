@@ -43,4 +43,9 @@
 <!ENTITY location.placeholder "Vefslóð eða hýsingarheiti dagatalsþjónsins">
 
 <!ENTITY network.nocredentials.label "Þessi staðsetning krefst ekki auðkenningar">
+<!ENTITY network.loading.description "Hinkraðu við á meðan verið er að finna dagatölin þín.">
+<!ENTITY network.notfound.description "Fann ekki nein dagatöl á þessum stað. Athugaðu stillingarnar þínar.">
+<!ENTITY network.authfail.description "Auðkennin sem þú settir inn voru ekki samþykkt. Athugaðu stillingarnar þínar.">
 
+<!ENTITY network.subscribe.single.description "Veldu dagatölin sem þú vilt gerast áskrifandi að.">
+<!ENTITY network.subscribe.multiple.description "Margar gerðir dagatala eru tiltækar fyrir þessa staðsetningu. Veldu gerð dagatalsins og merktu síðan dagatölin sem þú vilt gerast áskrifandi að.">

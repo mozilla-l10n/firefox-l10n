@@ -362,7 +362,7 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Bjóða þátttakendum">
-<!ENTITY event.organizer.label                  "Stjórnandi">
+<!ENTITY event.organizer.label                  "Skipuleggjandi">
 <!ENTITY event.freebusy.suggest.slot            "Leggja til tíma:">
 <!ENTITY event.freebusy.button.next.slot        "Næsta hólf">
 <!ENTITY event.freebusy.button.previous.slot    "Fyrra hólf">
@@ -406,3 +406,14 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Vista og loka">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Vistaðu breytingar og lokaðu glugganum án þess að breyta þátttökustöðu og senda svar">
+<!ENTITY summary.dialog.accept.label            "Samþykkja">
+<!ENTITY summary.dialog.accept.tooltiptext      "Samþykkja boðið">
+<!ENTITY summary.dialog.tentative.label         "Með fyrirvara">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Samþykkja boðið með fyrirvara">
+<!ENTITY summary.dialog.decline.label           "Afþakka">
+<!ENTITY summary.dialog.decline.tooltiptext     "Afþakka boðið">
+<!ENTITY summary.dialog.dontsend.label          "Ekki senda svar">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Breyta þátttökustöðu þinni án þess að senda svar til skipuleggjanda og loka glugganum">
+<!ENTITY summary.dialog.send.label              "Senda svar núna">
+<!ENTITY summary.dialog.send.tooltiptext        "Senda út svar til skipuleggjanda og loka glugganum">
