@@ -9,6 +9,9 @@ msgevent-encryption-required-part2 = Intentaste iniciar una conversación privad
 msgevent-encryption-error = Ocurrió un error al cifrar tu mensaje. El mensaje no fue enviado.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-connection-ended = { $name } ya cerró la conexión cifrada contigo. Para evitar que envíes accidentalmente un mensaje sin cifrado, no se ha enviado tu mensaje. Por favor, finaliza tu conversación cifrada o reinicia.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 msgevent-setup-error = Ocurrió un error al configurar una conversación privada con { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg-reflected = Estás recibiendo tus propios mensajes OTR. O estás intentando hablar contigo mismo, o alguien te está reflejando tus mensajes.
