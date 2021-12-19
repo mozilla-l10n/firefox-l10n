@@ -10,3 +10,9 @@
 <!ENTITY icons.label              "Táknmyndir">
 <!ENTITY text.label               "Texti">
 <!ENTITY iconsBesideText.label    "Tákn við hliðina á texta">
+<!ENTITY useSmallIcons.label      "Nota smáar táknmyndir">
+<!ENTITY restoreDefaultSet.label  "Endurheimta fyrra sett">
+<!ENTITY showTitlebar2.label      "Titilrönd">
+<!ENTITY extraDragSpace2.label    "Draga bil">
+<!ENTITY saveChanges.label        "Lokið">
+<!ENTITY undoChanges.label        "Afturkalla breytingar">
