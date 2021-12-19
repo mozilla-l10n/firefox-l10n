@@ -28,3 +28,11 @@
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Heimasími">
 <!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "Vinnusími">
+<!ENTITY WorkPhone.accesskey                   "V">
+<!ENTITY ChatName.label                        "Nafn í spjalli">
+<!ENTITY ChatName.accesskey                    "S">
+<!ENTITY sortAscending.label                   "Hækkandi">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "Lækkandi">
+<!ENTITY sortDescending.accesskey              "D">
