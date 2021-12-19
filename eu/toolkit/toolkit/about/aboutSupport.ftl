@@ -322,6 +322,7 @@ fission-status-experiment-control = Esperimentuak desgaituta
 fission-status-experiment-treatment = Esperimentuak gaituta
 fission-status-disabled-by-e10s-env = Inguruneak desgaituta
 fission-status-enabled-by-env = Inguruneak gaituta
+fission-status-disabled-by-env = Inguruneak desgaituta
 fission-status-disabled-by-safe-mode = Modu seguruak desgaituta
 fission-status-enabled-by-default = Lehenespenez gaituta
 fission-status-disabled-by-default = Lehenespenez desgaituta
