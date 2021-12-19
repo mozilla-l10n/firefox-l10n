@@ -27,6 +27,7 @@
 <!ENTITY contextOutgoing.accesskey "s">
 <!ENTITY contextArchive.label "Setur í safn">
 <!ENTITY contextArchive.accesskey "a">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Framkvæma þessar aðgerðir:">
 <!ENTITY filterActionDesc.accesskey "F">
@@ -46,7 +47,7 @@
 <!ENTITY addTag.label "Flokka póst">
 <!ENTITY setJunkScore.label "Setja ruslpóstsstöðu sem">
 <!ENTITY deleteMessage.label "Eyða pósti">
-<!ENTITY deleteFromPOP.label "Eyða frá POP póstþjóni">
+<!ENTITY deleteFromPOP.label "Eyða af POP-póstþjóni">
 <!ENTITY fetchFromPOP.label "Ná í frá POP póstþjóni">
 <!ENTITY ignoreThread.label "Hunsa umræðu">
 <!ENTITY ignoreSubthread.label "Hunsa undirumræðu">
