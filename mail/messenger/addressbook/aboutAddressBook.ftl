@@ -21,6 +21,7 @@ about-addressbook-toolbar-import =
 
 ## Books
 
+all-address-books = Allar nafnaskrár
 about-addressbook-books-context-properties =
     .label = Eiginleikar
 about-addressbook-books-context-synchronize =
