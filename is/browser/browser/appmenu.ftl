@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-banner-update-restart =
+    .label = Uppfærsla í boði — endurræstu núna
 appmenuitem-new-tab =
     .label = Nýr flipi
 appmenuitem-new-window =
@@ -48,6 +50,15 @@ appmenuitem-save-page =
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 ## History panel
