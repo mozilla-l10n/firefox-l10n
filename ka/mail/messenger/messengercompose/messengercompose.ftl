@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = ჩამონათვალის გაშლა
     .accesskey = ვ
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -101,7 +101,7 @@ drop-file-label-inline =
        *[other] ხაზში დართვა
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = თავში გადატანა
@@ -115,14 +115,14 @@ button-return-receipt =
     .label = ქვითარი
     .tooltiptext = ქვითრის მოთხოვნა ამ წერილისთვის
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = წერილის ხელმოწერა
 message-to-be-encrypted-icon =
     .alt = წერილის დაშიფვრა
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = ვის
@@ -240,3 +240,18 @@ encrypted-bcc-ignore-button = გასაგებია
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = ტექსტის გაფორმების მოცილება
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = { $filename } ვერ აიტვირთა მომსახურებით { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = გადარქმევის შეცდომა
+cloud-file-rename-error = წარმოიშვა ხარვეზი, { $filename } სახელი ვერ შეიცვალა მომსახურებით { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = { $filename } სახელი ვერ შეიცვალა მომსახურებით { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } არ იძლევა უკვე არსებული ფაილების გადარქმევის საშუალებას.
