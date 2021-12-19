@@ -67,8 +67,15 @@ account-setup-button-done = Hecho
 ## Notifications
 
 account-setup-looking-up-settings = Buscando la configuración…
+account-setup-looking-up-settings-guess = Buscando configuración: Intentando con nombres de servidor comunes…
+account-setup-looking-up-settings-half-manual = Buscando configuración: probando el servidor…
+account-setup-looking-up-disk = Buscando configuración: instalación de { -brand-short-name }…
 account-setup-looking-up-isp = Buscando configuración: Proveedor de correo electrónico…
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-looking-up-db = Buscando configuración: base de datos ISP de Mozilla…
+account-setup-looking-up-mx = Buscando configuración: dominio de correo entrante…
 account-setup-checking-password = Verificando contraseña…
+account-setup-installing-addon = Descargando e instalando complemento…
 account-setup-success-password = Contraseña correcta
 account-setup-success-addon = El complemento se instaló correctamente
 # Note: Microsoft Exchange is a product name.
@@ -194,10 +201,15 @@ exit-dialog-confirm-button = Salir de la configuración
 ## Alert dialogs
 
 account-setup-creation-error-title = Error al crear la cuenta
+account-setup-error-server-exists = El servidor de entrada ya existe.
+account-setup-confirm-advanced-title = Confirmar configuración avanzada
+account-setup-confirm-advanced-description = Este diálogo se cerrará y se creará una cuenta con la configuración actual, aún cuando la configuración sea incorrecta. ¿Deseas continuar?
 
 ## Addon installation section
 
 account-setup-addon-install-title = Instalar
+account-setup-addon-install-intro = Un complemento de terceros puede permitirte acceder a tu cuenta de correo electrónico en este servidor:
+account-setup-addon-no-protocol = Este servidor de correo desafortunadamente no soporta protocolos abiertos. { account-setup-addon-install-intro }
 
 ## Success view
 
@@ -210,6 +222,7 @@ account-setup-address-book-ldap-button = Conectarse a una libreta de direcciones
 account-setup-calendar-button = Conectar a un calendario remoto
 account-setup-linked-services-title = Conectar tus servicios vinculados
 account-setup-linked-services-description = { -brand-short-name } detectó otros servicios vinculados a tu cuenta de correo electrónico.
+account-setup-no-linked-description = Configura otros servicios para sacar el máximo partido a tu experiencia de { -brand-short-name }.
 account-setup-button-finish = Finalizar
     .accesskey = F
 account-setup-looking-up-address-books = Buscando libretas de direcciones…
