@@ -8,3 +8,23 @@
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "Tölvupóstur">
 <!ENTITY PrimaryEmail.accesskey                "p">
+<!ENTITY Company.label                         "Fyrirtæki/Stofnun">
+<!ENTITY Company.accesskey                     "y">
+<!ENTITY _PhoneticName.label                   "Hljóðrétt nafn">
+<!ENTITY _PhoneticName.accesskey               "H">
+<!ENTITY NickName.label                        "Gælunafn">
+<!ENTITY NickName.accesskey                    "G">
+<!ENTITY SecondEmail.label                     "Auka tölvupóstfang">
+<!ENTITY SecondEmail.accesskey                 "A">
+<!ENTITY Department.label                      "Deild">
+<!ENTITY Department.accesskey                  "d">
+<!ENTITY JobTitle.label                        "Titill">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Farsími">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Símboði">
+<!ENTITY PagerNumber.accesskey                 "b">
+<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Heimasími">
+<!ENTITY HomePhone.accesskey                   "H">
