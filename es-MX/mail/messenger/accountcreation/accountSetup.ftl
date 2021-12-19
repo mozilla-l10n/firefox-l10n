@@ -48,6 +48,9 @@ account-setup-exchange-label = Tu inicio de sesión
 #   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
 account-setup-exchange-input =
     .placeholder = TUDOMINIO\tunombredeusuario
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Inicio de sesión de dominio
 
 ## Action buttons
 
@@ -74,10 +77,17 @@ account-setup-looking-up-isp = Buscando configuración: Proveedor de correo elec
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-looking-up-db = Buscando configuración: base de datos ISP de Mozilla…
 account-setup-looking-up-mx = Buscando configuración: dominio de correo entrante…
+account-setup-looking-up-exchange = Buscando la configuración: servidor de Exchange…
 account-setup-checking-password = Verificando contraseña…
 account-setup-installing-addon = Descargando e instalando complemento…
+account-setup-success-half-manual = Se encontraron las siguientes configuraciones probando el servidor proporcionado:
+account-setup-success-guess = Se ha encontrado la configuración probando los nombres de los servidores que se utilizan comúnmente.
+account-setup-success-guess-offline = No estás conectado. Se han adivinado algunas configuraciones pero necesitarás ingresar la configuración correcta.
 account-setup-success-password = Contraseña correcta
 account-setup-success-addon = El complemento se instaló correctamente
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Se ha encontrado la configuración en la base de datos ISP de Mozilla.
+account-setup-success-settings-disk = Configuración encontrada en la instalación de { -brand-short-name }.
 # Note: Microsoft Exchange is a product name.
 account-setup-success-settings-exchange = Configuración encontrada para un servidor de Microsoft Exchange.
 
