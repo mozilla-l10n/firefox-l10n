@@ -75,14 +75,14 @@
      the latest version of Firefox (e.g. https://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Uppfærsla mistókst. ">
-<!ENTITY update.failed.linkText     "Niðurhala nýjustu útgáfu">
+<!ENTITY update.failed.linkText     "Sækja nýjustu útgáfu">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. https://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Niðurhala ">
+<!ENTITY update.manual.start        "Sækja">
 <!ENTITY update.manual.linkText     "nýjustu útgáfu">
 <!ENTITY update.manual.end          "">
 
@@ -101,7 +101,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Niðurhala uppfærslu — ">
+<!ENTITY update.downloading.start   "Sæki uppfærslu —">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Virkja uppfærslu…">
