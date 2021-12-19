@@ -12,6 +12,8 @@ pane-calendar-title = Dagatal
 category-calendar =
     .tooltiptext = Dagatal
 choose-messenger-language-description = Veldu tungumálin til að nota til að birta valmyndir, skilaboð og tilkynningar frá { -brand-short-name }.
+confirm-messenger-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
+confirm-messenger-language-change-button = Virkja og endurræsa
 
 ## OS Authentication dialog
 
