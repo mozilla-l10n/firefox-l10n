@@ -23,6 +23,19 @@
 
 
 
+<!ENTITY Home.tab                       "Einka">
+<!ENTITY Home.accesskey                 "E">
+<!ENTITY HomeAddress.label              "Heimilisfang:">
+<!ENTITY HomeAddress.accesskey          "f">
+<!ENTITY HomeCity.label                 "Borg/Sveitarfélag:">
+<!ENTITY HomeCity.accesskey             "B">
+<!ENTITY HomeState.label                "Ríki/hérað:">
+<!ENTITY HomeState.accesskey            "R">
+<!ENTITY HomeZipCode.label              "Póstnúmer:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label              "Land:">
+<!ENTITY HomeWebPage.label              "Vefsíða:">
+<!ENTITY HomeWebPage.accesskey          "e">
 
 
 
