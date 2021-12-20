@@ -225,6 +225,25 @@ account-setup-encryption-button = Enda-í-enda dulritun
 account-setup-signature-button = Bæta við undirritun
 account-setup-dictionaries-button = Sækja orðabækur
 account-setup-address-book-carddav-button = Tengjast við CardDAV nafnaskrá
+account-setup-address-book-ldap-button = Tengjast við LDAP nafnaskrá
+account-setup-calendar-button = Tengjast við fjartengt dagatal
+account-setup-button-finish = Ljúka
+    .accesskey = k
+account-setup-looking-up-address-books = Fletti upp nafnaskrám...
+account-setup-looking-up-calendars = Fletti upp dagatölum...
+account-setup-address-books-button = Nafnaskrár
+account-setup-calendars-button = Dagatöl
+account-setup-connect-link = Tengjast
+account-setup-existing-address-book = Tengd
+    .title = Nafnaskrá er þegar tengd
+account-setup-existing-calendar = Tengt
+    .title = Dagatal er þegar tengt
+account-setup-connect-all-calendars = Tengja öll dagatöl
+account-setup-connect-all-address-books = Tengja allar nafnaskrár
 
 ## Calendar synchronization dialog
 
+account-setup-calendar-name-label = Nafn
+account-setup-calendar-name-input =
+    .placeholder = Dagatalið mitt
+account-setup-calendar-color-label = Litur
