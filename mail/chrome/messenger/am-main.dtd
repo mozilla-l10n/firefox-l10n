@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Stillingar reiknings">
@@ -43,3 +41,5 @@
 <!ENTITY smtpName.accesskey "P">
 <!ENTITY smtpDefaultServer.label "Nota sjálfgefin póstþjón">
 
+<!ENTITY smtpServerEdit.label "Breyta SMTP-þjóni…">
+<!ENTITY smtpServerEdit.accesskey "P">
