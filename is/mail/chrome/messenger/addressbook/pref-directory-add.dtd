@@ -30,7 +30,7 @@
 <!ENTITY return.label                      "Ekki skila meira en">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "niðurstöðum">
-<!ENTITY offlineText.label                 "Þú getur niðurhalið staðbundnu afriti af þessari möppu svo það sé aðgengilegt þegar þú ert að vinna án nettengingar.">
+<!ENTITY offlineText.label                 "Þú getur sótt staðbundið afrit af þessari möppu svo hún sé aðgengileg þegar þú ert að vinna án nettengingar.">
 <!ENTITY saslMechanism.label               "Innskráningaraðferð: ">
 <!ENTITY saslMechanism.accesskey           "I">
 <!ENTITY saslOff.label                     "Einfalt">
