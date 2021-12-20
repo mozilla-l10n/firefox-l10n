@@ -23,6 +23,10 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Skírnarnafn:">
+<!ENTITY NameField1.accesskey           "S">
+<!ENTITY NameField2.label               "Föðurnafn:">
+<!ENTITY NameField2.accesskey           "F">
 <!ENTITY DisplayName.label              "Birting:">
 <!ENTITY DisplayName.accesskey          "B">
 <!ENTITY preferDisplayName.label        "Kjósið alltaf birtingarnafn fram yfir skilaboðahaus">
