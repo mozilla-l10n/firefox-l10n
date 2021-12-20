@@ -59,6 +59,9 @@ onboarding-multistage-import-header = Ниҳонвожаҳо, <br/>хатбар�
 onboarding-multistage-import-subtitle = Аз браузери дигар омадаед? Ҳамаи чизҳои худро аз он ҷо ба { -brand-short-name } ба осонӣ интиқол диҳед.
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Дар ин дастгоҳ сомонаҳои зерин пайдо шудаанд. { -brand-short-name } маълумоти шуморо аз браузери дигар нигоҳ намедорад ва ҳамоҳанг намекунад, агар шумо онҳоро мустақилона ворид накунед.
 
 ## Multistage onboarding strings (about:welcome pages)
 
