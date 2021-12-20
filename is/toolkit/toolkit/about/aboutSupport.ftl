@@ -92,8 +92,8 @@ a11y-force-disabled = Koma í veg fyrir aðgengi
 a11y-handler-used = Aðgengishjálpari notaður
 a11y-instantiator = Accessibility Instantiator
 library-version-title = Útgáfa forritasafns
-copy-text-to-clipboard-label = Afrita texta á klemmuspjald
-copy-raw-data-to-clipboard-label = Afrita hrá gögn á klemmuspjald
+copy-text-to-clipboard-label = Afrita texta á klippispjald
+copy-raw-data-to-clipboard-label = Afrita hrá gögn á klippispjald
 sandbox-title = Sandbox
 sandbox-sys-call-log-title = Hunsuð kerfisköll
 sandbox-sys-call-index = #
@@ -184,8 +184,8 @@ pending-reports =
         [one] Allar hrunskýrslur (einnig { $reports } hrunskýrsla í vinnslu á gefnum tíma)
        *[other] Allar hrunskýrslur (einnig { $reports } hrunskýrslur í vinnslu á gefnum tíma)
     }
-raw-data-copied = Hrá gögn afrituð á klemmuspjald
-text-copied = Texti afritaður á klemmuspjald
+raw-data-copied = Hrá gögn afrituð á klippispjald
+text-copied = Texti afritaður á klippispjald
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
