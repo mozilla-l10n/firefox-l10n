@@ -136,6 +136,7 @@ mr1-onboarding-sign-in-button-label = Ворид шудан
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин кунед
+mr1-onboarding-default-subtitle = Суръати баланд, бехатарӣ ва махфият ба идоракунии худкор вогузоред.
 mr1-onboarding-default-primary-button-label = Гузоштан ҳамчун браузери пешфарз
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -150,6 +151,8 @@ mr1-onboarding-import-primary-button-label-attribution = Ворид кардан
 mr1-onboarding-import-primary-button-label-no-attribution = Ворид кардан аз браузери қаблӣ
 mr1-onboarding-import-secondary-button-label = Ҳоло не
 mr2-onboarding-colorway-header = Ҳаёт бо ранг
+mr2-onboarding-colorway-subtitle = Нақшу нигори нави зиндадил. Ба муддати маҳдуд дастрасанд.
+mr2-onboarding-colorway-primary-button-label = Нигоҳ доштани нақшу нигор
 mr2-onboarding-colorway-secondary-button-label = Ҳоло не
 mr2-onboarding-colorway-label-soft = Нарм
 mr2-onboarding-colorway-label-balanced = Мутаносиб
@@ -293,4 +296,5 @@ mr2-onboarding-default-theme-description =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Ташаккур барои интихоби мо
+mr2-onboarding-thank-you-text = { -brand-short-name } браузери мустақил аст, ки аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад. Якҷоя, мо Интернетро бехатартар, солимтар ва бо хусусияти бештар мегардонем.
 mr2-onboarding-start-browsing-button-label = Оғоз кардани тамошо
