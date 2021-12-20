@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Espandi elenco
     .accesskey = E
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -99,7 +99,7 @@ drop-file-label-inline =
        *[other] Aggiungi in linea
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Sposta all’inizio
@@ -113,14 +113,14 @@ button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Firma il messaggio
 message-to-be-encrypted-icon =
     .alt = Critta il messaggio
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = A
@@ -238,3 +238,12 @@ encrypted-bcc-ignore-button = Ho capito
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Rimuovi stili di testo
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Impossibile caricare { $filename } su { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Impossibile rinominare { $filename } su { $provider }
