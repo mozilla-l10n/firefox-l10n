@@ -145,6 +145,7 @@ intl-regional-prefs = Svæðisstillingar
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-accepting-connections = Samþykki tengingar
 
 ##
 
