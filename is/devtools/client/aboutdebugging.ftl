@@ -86,12 +86,12 @@ about-debugging-setup-connect-heading = Tengja tæki
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Viðeigandi Android USB kembunarhlutar fyrir { -brand-shorter-name } munu verða hlaðnir niður og bætt við ef þú virkjar þetta.
+about-debugging-setup-usb-disabled = Ef þú virkjar þetta verður náð í viðeigandi Android USB villuleitararhluta fyrir { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
-about-debugging-setup-usb-enable-button = Virkja USB tæki
+about-debugging-setup-usb-enable-button = Virkja USB-tæki
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
-about-debugging-setup-usb-disable-button = Óvirkja USB tæki
+about-debugging-setup-usb-disable-button = Gera USB-tæki óvirk
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Uppfæri…
@@ -100,10 +100,22 @@ about-debugging-setup-usb-status-enabled = Virkt
 about-debugging-setup-usb-status-disabled = Óvirkt
 about-debugging-setup-usb-status-updating = Uppfæri…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Virkjaðu forritaravalmyndina á Android tækinu þínu.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Virkjaðu USB-villuleit í Android forritaravalmyndinni.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Virkjaðu USB-villuleit í Firefox á Android tækinu.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Tengja Android tækið við tölvuna þína.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Ertu í vandræðum með að tengjast USB-tækinu? <a>Úrræðaleit</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Netstaðsetning
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Vandamál með að tengjast í gegnum netstaðsetningu? <a>Úrræðaleit</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Bæta við
@@ -112,7 +124,7 @@ about-debugging-network-locations-empty-text = Engum netstaðsetningum hefur ver
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
-about-debugging-network-locations-host-input-label = Hýsill
+about-debugging-network-locations-host-input-label = Hýsilvél
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Fjarlægja
@@ -120,6 +132,10 @@ about-debugging-network-locations-remove-button = Fjarlægja
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-invalid = Ógildur hýsill "{ $host-value }". Búist var við sniðmátinu "hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Hýsilvélin „{ $host-value }“ er þegar skráð
 
 # Runtime Page strings
 
@@ -134,9 +150,12 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Flipar
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Þjónustuferli
 # Title of the processes category.
 about-debugging-runtime-processes =
-    .name = Þræðir
+    .name = Ferli
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Aftengja
