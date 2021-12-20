@@ -12,13 +12,20 @@ screenshots-download-button = Боргирӣ кардан
 screenshots-download-button-tooltip = Боргирӣ кардани акси экран
 screenshots-copy-button = Нусха бардоштан
 screenshots-copy-button-tooltip = Нусха бардоштани акси экран ба ҳофизаи муваққатӣ
+screenshots-download-button-title =
+    .title = Боргирӣ кардани акси экран
+screenshots-copy-button-title =
+    .title = Нусха бардоштани акси экран ба ҳофизаи муваққатӣ
 screenshots-cancel-button-title =
     .title = Бекор кардан
+screenshots-retry-button-title =
+    .title = Такроран гирифтани акси экран
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Пайванд нусха бардошта шуд
+screenshots-notification-image-copied-title = Акси экран нусха бардошта шуд
 screenshots-unshootable-page-error-title = Акси ин саҳифа гирифта намешавад.
 screenshots-empty-selection-error-title = Интихоби шумо хеле хурд аст

@@ -8,6 +8,8 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Ба { -brand-short-name }-и нав салом гӯед
 upgrade-dialog-new-item-tabs-title = Варақаҳои ҳозиразамон
 upgrade-dialog-new-primary-default-button = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
 upgrade-dialog-new-primary-theme-button = Мавзӯеро интихоб кунед
@@ -22,6 +24,12 @@ upgrade-dialog-new-primary-win7-button = Хуб, фаҳмидам!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Нигоҳ доштани { -brand-short-name } дар мустақари худ
+       *[other] Васл кардани { -brand-short-name } ба навори вазифа
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Васл кардан ба мустақар
@@ -54,6 +62,8 @@ upgrade-dialog-start-secondary-button = Ҳоло не
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Рангубори худро интихоб намоед
 upgrade-dialog-colorway-primary-button = Нигоҳ доштани нақшу нигор
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Мавзуъҳои пешфарзро озмоед
 upgrade-dialog-colorway-default-theme = Пешфарз
 upgrade-dialog-theme-light = Равшан
     .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо

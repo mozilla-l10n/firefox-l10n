@@ -21,6 +21,7 @@
 <!ENTITY malformedURI.title "Нишонии нодуруст">
 
 
+<!ENTITY notCached.title "Муҳлати ҳуҷҷат ба анҷом расид">
 
 <!ENTITY netOffline.title "Реҷаи офлайн">
 
@@ -34,11 +35,14 @@
 
 <!ENTITY unknownProtocolFound.title "Протоколи номаълум">
 
+<!ENTITY proxyConnectFailure.title "Сервери прокси пайвастро рад кард">
 
+<!ENTITY proxyResolveFailure.title "Сервери прокси ёфт нашуд">
 
 
 <!ENTITY unknownSocketType.title "Посухи нодуруст">
 
+<!ENTITY nssFailure2.title "Пайвасти бехатар иҷро нашуд">
 
 
 
