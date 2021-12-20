@@ -88,9 +88,21 @@ account-setup-success-password = Lykilorð í lagi
 account-setup-success-addon = Tókst að setja upp viðbótina
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Uppsetning fannst í ISP-gagnagrunni Mozilla.
+account-setup-success-settings-disk = Stillingar fundust í { -brand-short-name } uppsetningu...
+account-setup-success-settings-isp = Stillingar fundust hjá tölvupóstveitu.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Stillingar fundust fyrir Microsoft Exchange póstþjón.
 
 ## Illustrations
 
+account-setup-step1-image =
+    .title = Upphafleg uppsetning
+account-setup-step2-image =
+    .title = Hleð inn…
+account-setup-step3-image =
+    .title = Stillingar fundust
+account-setup-step4-image =
+    .title = Villa í tengingu
 account-setup-step5-image =
     .title = Reikningur búinn til
 account-setup-selection-help = Ertu ekki viss um hvað á að velja?
