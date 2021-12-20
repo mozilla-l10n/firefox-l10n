@@ -279,7 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Aldrei athuga með uppfærslur (ekki mælt með)
     .accesskey = l
-update-application-warning-cross-user-setting = Þessi stilling mun eiga við alla Windows reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
+update-application-warning-cross-user-setting = Þessi stilling mun eiga við alla Windows-reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
 update-application-use-service =
     .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
     .accesskey = b
@@ -483,6 +483,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Taktu vefinn með þér
+sync-signedout-description2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
 sync-signedout-account-signin3 =
     .label = Skráðu inn til að samstilla…
     .accesskey = i
@@ -591,6 +592,9 @@ forms-master-pw-change =
     .label = Breyta aðallykilorði…
     .accesskey = B
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
+forms-windows-sso =
+    .label = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga
+forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 
 ## OS Authentication dialog
 
