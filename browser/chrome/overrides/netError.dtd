@@ -72,6 +72,9 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ekki er hægt að sýna síðuna vegna þess að ekki var hægt að auðkenna gögnin.</li> <li>Hafið samband við vefstjóra svæðisins til að láta hann vita af þessu vandamáli.</li> </ul>">
 
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; uppgötvaði hugsanlega öryggisógn og hélt ekki áfram á <span class='hostname'/>. Ef þú heimsækir þessa síðu gætu árásarmenn reynt að stela upplýsingum eins og lykilorðum þínum, tölvupósti eða kreditkortaupplýsingum.">
 
 
@@ -84,8 +87,8 @@
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Samþykkja áhættuna og halda áfram">
 
@@ -100,7 +103,7 @@
 
 <!ENTITY certerror.pagetitle2  "Viðvörun: Hugsanleg öryggisáhætta framundan">
 <!ENTITY certerror.sts.pagetitle  "Tengdist ekki: Mögulegt öryggisvandamál">
-<!ENTITY certerror.copyToClipboard.label "Afrita texta á klemmuspjald">
+<!ENTITY certerror.copyToClipboard.label "Afrita texta á klippispjald">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
@@ -109,6 +112,8 @@
 <!ENTITY blockedByPolicy.title "Lokuð síða">
 
 
+
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
+
 

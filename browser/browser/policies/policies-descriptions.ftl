@@ -27,7 +27,7 @@ policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
 policy-DisableFeedbackCommands = Slökkva á "Senda viðbrögð" og "Tilkynna villandi síðu" í hjálparvalmyndinni.
 policy-DisableFirefoxAccounts = Slökkva á { -fxaccount-brand-name } tengdri þjónustu, m.a. Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Slökkva á viðbótinni Firefox skjámyndir.
+policy-DisableFirefoxScreenshots = Slökkva á eiginleikum Firefox skjámynda.
 policy-DisableFirefoxStudies = Hamla aðgang að könnunum frá { -brand-short-name }
 policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
 policy-DisableFormHistory = Ekki geyma form- og leitarsögu
