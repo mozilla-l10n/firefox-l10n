@@ -8,7 +8,8 @@
 
 ## Certificate information labels
 
-certificate-viewer-signature-algorithm = Undirritunaralgrím
+certificate-viewer-algorithm = Reiknirit
+certificate-viewer-signature-algorithm = Undirritunarreiknirit
 certificate-viewer-signature-scheme = Undirritunarskema
 
 ## Variables:
