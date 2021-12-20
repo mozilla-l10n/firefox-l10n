@@ -430,6 +430,8 @@ eme-notifications-drm-content-playing = Sumar hljóðskrár eða myndbönd á þ
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Sýsla með reikning
 
 ##
 

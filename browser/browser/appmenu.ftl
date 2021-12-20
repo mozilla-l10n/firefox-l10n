@@ -67,7 +67,11 @@ appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Síðast samstillt { $time }
     .label = Síðast samstillt { $time }
+appmenu-fxa-sync-and-save-data2 = Samstilltu og vistaðu gögn
 appmenu-fxa-signed-in-label = Innskráning
+appmenu-fxa-setup-sync =
+    .label = Kveikja á samstillingu…
+appmenu-fxa-show-more-tabs = Birta fleiri flipa
 appmenuitem-save-page =
     .label = Vista síðu sem…
 

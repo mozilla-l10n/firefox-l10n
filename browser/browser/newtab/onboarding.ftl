@@ -24,6 +24,7 @@ onboarding-start-browsing-button-label = Fara að vafra
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 onboarding-multistage-welcome-secondary-button-label = Innskráning
+onboarding-multistage-welcome-secondary-button-text = Ertu með reikning?
 
 ## Multistage onboarding strings (about:welcome pages)
 
