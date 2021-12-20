@@ -13,7 +13,6 @@ enable-common-message = Firefox Developer Tools are disabled by default to give 
 enable-learn-more-link = Learn more about Developer Tools
 enable-enable-button = Enable Developer Tools
 enable-close-button = Close this Tab
-
 welcome-title = Welcome to Firefox Developer Tools!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Get developer news, tricks and resources sent straight to your inbox.
@@ -23,14 +22,12 @@ newsletter-privacy-label = I’m okay with Mozilla handling my info as explained
 newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Thanks!
 newsletter-thanks-message = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-
 footer-title = Firefox Developer Edition
 footer-message = Looking for more than just Developer Tools? Check out the Firefox browser that is built specifically for developers and modern workflows.
 footer-learn-more-link = Learn more
-
 features-learn-more = Learn more
 features-inspector-title = Inspector
-features-inspector-desc = Inspect and refine code to build pixel-perfect layouts. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-inspector-desc = Skoðaðu og fínstilltu kóða til að búa til framsetningu upp á mynddíls-nákvæmni. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Console
 features-console-desc = Track CSS, JavaScript, security and network issues. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Debugger
