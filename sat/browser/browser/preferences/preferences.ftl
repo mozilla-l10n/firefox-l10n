@@ -102,7 +102,7 @@ download-choose-folder =
            *[other] ᱚ
         }
 applications-type-column =
-    .label = बिसोय लेकान
+    .label = ᱡᱤᱱᱤᱥ ᱞᱮᱠᱟ
     .accesskey = T
 applications-action-column =
     .label = का़मी

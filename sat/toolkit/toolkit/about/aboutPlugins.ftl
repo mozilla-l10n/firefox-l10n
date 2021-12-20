@@ -26,7 +26,7 @@ state-dd-enabled = <span data-l10n-name="state">राज्य:</span> हु�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">राज्य:</span> हुय होचोवाक् ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">राज्य:</span> बाङ हुय होचो
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">राज्य:</span> बाङ हुय होचो ({ $blockListState })
-mime-type-label = MIME लेकान
+mime-type-label = MIME ᱞᱮᱠᱟᱱ:
 description-label = विबरोन
 suffixes-label = साबाद तायोम सेलेद आखोर को.
 
