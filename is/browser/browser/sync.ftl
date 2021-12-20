@@ -3,9 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Er að samstilla…
+fxa-signout-dialog2-title = Skrá út af { -fxaccount-brand-name(capatalization: "setning") }?
 fxa-signout-dialog-body = Samstillt gögn verða áfram á reikningnum þínum.
 fxa-menu-connect-another-device =
     .label = Tengja annað tæki…
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Samstilli tæki…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Sendu flipa samstundis í hvaða tæki sem þú ert skráð/ur inn á.
