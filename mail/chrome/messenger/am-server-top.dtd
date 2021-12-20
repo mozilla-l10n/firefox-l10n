@@ -40,7 +40,7 @@
 <!ENTITY daysEnd.label "daga">
 <!ENTITY deleteOnServer2.label "Þangað til ég eyði þeim">
 <!ENTITY deleteOnServer2.accesskey "e">
-<!ENTITY downloadOnBiff.label "Niðurhala sjálfkrafa nýjum póstum">
+<!ENTITY downloadOnBiff.label "Sækja ný skilaboð sjálfvirkt">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY deleteMessagePrefix.label "Þegar ég eyði pósti:">
 <!ENTITY modelMoveToTrash.label "Færa það í þessa möppu:">
@@ -60,7 +60,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Spyrja áður en niðurhalað er meira en">
+<!ENTITY maxMessagesStart.label "Spyrja áður en náð er í meira en">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "póstum">
