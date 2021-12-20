@@ -30,7 +30,7 @@ url-classifier-cache-show-entries = Sýna færslur
 url-classifier-cache-entries = Færslur í skyndiminni
 url-classifier-cache-prefix = Forskeyti
 url-classifier-cache-ncache-expiry = Gildistími á neikvæðum færslum í skyndiminni
-url-classifier-cache-fullhash = Fullt hash gildi
+url-classifier-cache-fullhash = Fullt tætigildi
 url-classifier-cache-pcache-expiry = Gildistími á jákvæðum færslum í skyndiminni
 url-classifier-debug-title = Kemba
 url-classifier-debug-module-btn = Setja einingar fyrir skráningu
@@ -40,7 +40,6 @@ url-classifier-debug-sb-modules = Skráningareiningar fyrir örugga vöfrun
 url-classifier-debug-modules = Núverandi skráningareiningar
 url-classifier-debug-sbjs-modules = JS skráning fyrir örugga vöfrun
 url-classifier-debug-file = Núverandi skráningarskrá
-
 url-classifier-trigger-update = Hefja uppfærslu
 url-classifier-not-available = Ekki tiltækt
 url-classifier-disable-sbjs-log = Stöðva JS skráningu fyrir örugga vöfrun
