@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button2 = { -brand-short-name } stillingar
+account-action-add-newsgroup-account =
+    .label = Bæta við reikningi fyrir fréttahóp…
+    .accesskey = f

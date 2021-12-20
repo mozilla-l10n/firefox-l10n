@@ -247,3 +247,16 @@ account-setup-calendar-name-label = Nafn
 account-setup-calendar-name-input =
     .placeholder = Dagatalið mitt
 account-setup-calendar-color-label = Litur
+account-setup-calendar-refresh-label = Endurlesa
+account-setup-calendar-refresh-manual = Handvirkt
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Á mínútu fresti
+       *[other] Á { $count } mínútna fresti
+    }
+account-setup-calendar-read-only = Skrifvarið
+    .accesskey = r
+account-setup-calendar-show-reminders = Sýna áminningar
+    .accesskey = m
+account-setup-calendar-offline-support = Ótengdur stuðningur
+    .accesskey = g
