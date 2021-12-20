@@ -489,6 +489,7 @@
 <!ENTITY devToolboxCmd.label "Forritunarverkfæri">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Villuleita viðbætur">
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
