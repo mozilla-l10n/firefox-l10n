@@ -149,3 +149,4 @@ no-reply-reply-anyway-button = Vastaa silti
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures }/{ $total } viestin salausta ei voitu purkaa, joten niitä ei kopioitu.
