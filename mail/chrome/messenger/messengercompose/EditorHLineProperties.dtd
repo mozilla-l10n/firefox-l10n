@@ -11,7 +11,7 @@
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Breidd:">
 <!ENTITY widthEditField.accessKey "B">
-<!ENTITY pixelsPopup.value "punktar">
+<!ENTITY pixelsPopup.value "mynddílar">
 <!ENTITY alignmentBox.label "Stilling">
 <!ENTITY leftRadio.label "Vinstri">
 <!ENTITY leftRadio.accessKey "V">

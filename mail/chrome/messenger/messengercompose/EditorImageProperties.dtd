@@ -7,7 +7,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Mynd eiginleikar">
 
-<!ENTITY pixelsPopup.value "punktar">
+<!ENTITY pixelsPopup.value "mynddílar">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Staðsetning myndar:">

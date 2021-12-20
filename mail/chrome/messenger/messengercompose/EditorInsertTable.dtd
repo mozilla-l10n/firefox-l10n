@@ -15,4 +15,4 @@
 <!ENTITY borderEditField.label "Rammi:">
 <!ENTITY borderEditField.accessKey "a">
 <!ENTITY borderEditField.tooltip "Sláðu inn númer fyrir stærð töfluramma, eða sláðu inn núll (0) fyrir engan ramma">
-<!ENTITY pixels.label "punktar">
+<!ENTITY pixels.label "mynddílar">
