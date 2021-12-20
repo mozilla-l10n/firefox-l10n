@@ -85,6 +85,7 @@ key-type-public = dreifilykill
 keyserver-error-aborted = Hætt við
 # Strings in gpg.jsm
 unknown-signing-alg = Óþekkt undirritunarreiknirit (auðkenni: { $id })
+unknown-hash-alg = Óþekkt tætigildi dulkóðunar (auðkenni: { $id })
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
@@ -102,3 +103,4 @@ copy-to-clipbrd-ok = Lykill/lyklar afritaðir á klippispjald
 
 # Strings used in enigmailMessengerOverlay.js
 
+debug-log-title = OpenPGP atvikaskrá
