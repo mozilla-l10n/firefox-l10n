@@ -129,8 +129,8 @@ about-webrtc-encoder-label = Kóðari
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = síða vistuð á: { $path }
-about-webrtc-debug-mode-off-state-msg = hægt er að ná í atburðaskrá á: { $path }
-about-webrtc-debug-mode-on-state-msg = kembihamur virkur, atburðaskrá á: { $path }
+about-webrtc-debug-mode-off-state-msg = rakningarskrá er að finna á: { $path }
+about-webrtc-debug-mode-on-state-msg = villuleitarhamur virkur, rakningarskrá á: { $path }
 about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atburðaskráningu í: { $path }
 
 ##

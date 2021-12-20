@@ -293,6 +293,8 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = Leita með { $engine }
 urlbar-result-action-switch-tab = Fara á flipa
 urlbar-result-action-visit = Heimsækja
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Afrita
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
