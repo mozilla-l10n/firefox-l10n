@@ -108,8 +108,18 @@ already-revoked = Þessi lykill hefur þegar verið afturkallaður.
 
 # Strings used in enigmailMessengerOverlay.js
 
+dlg-button-view = &Skoða
 debug-log-title = OpenPGP atvikaskrá
+# Strings used in dialog.jsm
+repeat-prefix = Þessi aðvörun mun endurtakast { $count }
+repeat-suffix-singular = sinni til viðbótar.
+repeat-suffix-plural = sinnum til viðbótar.
+no-repeat = Þessi aðvörun verður ekki birt aftur.
+dlg-keep-setting = Muna svarið mitt og ekki spyrja mig aftur
 dlg-button-ok = Í la&gi
 dlg-button-close = &Loka
 dlg-button-cancel = &Hætta við
 dlg-no-prompt = Ekki sýna mér þennan glugga aftur
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Reyna aftur
+dlg-button-skip = &Sleppa
