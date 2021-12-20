@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY e2eTitle.label "Enda-í-enda dulritun">
+<!ENTITY e2eLearnMore.label "Kanna nánar">
+
+
+
 <!ENTITY digitalSign.certificate.button "Velja…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Hreinsa">
@@ -13,8 +18,24 @@
 <!ENTITY signingGroupTitle.label "Rafræn undirskrift">
 <!ENTITY signMessage.accesskey "d">
 
+
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Sýsla með S/MIME skilríki">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "S/MIME öryggistæki">
+<!ENTITY manageDevices2.accesskey "g">
+
+<!ENTITY technologySMIME.label "Kjósa S/MIME">
+<!ENTITY technologyOpenPGP.label "Kjósa OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Veldu skilríki">
-<!ENTITY certPicker.info "Skilríki:">
+<!ENTITY certPicker.info  "Skilríki:">
 <!ENTITY certPicker.detailsLabel "Upplýsingar um valið skilríki:">
 
+<!ENTITY openpgpKey.message "Einkalykill fyrir dulritun og stafræna undirritun:">
+<!ENTITY openpgpKey.button "Stilla einkalykil…">
+<!ENTITY openpgpKey.accesskey "e">

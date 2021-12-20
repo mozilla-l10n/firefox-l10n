@@ -148,3 +148,5 @@
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Límdu eða settu inn veffang myndar">
 <!ENTITY UpdatePhoto.label              "Uppfæra">
+<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Dragðu nýja mynd hingað">
