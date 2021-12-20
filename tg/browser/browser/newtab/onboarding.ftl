@@ -34,12 +34,29 @@ return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = Хуш омадед ба <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Ин браузери босуръат, бехатар ва хусусиест, ки аз тарафи ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад.
 onboarding-multistage-welcome-primary-button-label = Оғози танзимкунӣ
 onboarding-multistage-welcome-secondary-button-label = Ворид шудан
 onboarding-multistage-welcome-secondary-button-text = Ҳисобе доред?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name }-ро ҳамчун браузери <span data-l10n-name="zap">пешфарзи</span> худ истифода баред
+onboarding-multistage-set-default-subtitle = Суръати баланд, бехатарӣ ва махфият дар ҳар саҳифае, ки шумо тамошо мекунед.
 onboarding-multistage-set-default-primary-button-label = Ҳамчун пешфарз танзим кунед
 onboarding-multistage-set-default-secondary-button-label = Ҳоло не
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Барои оғози кор <span data-l10n-name="zap">{ -brand-short-name }</span>-ро як маротиба зер намоед
+onboarding-multistage-pin-default-subtitle = Суръати баланд, бехатарӣ ва махфият дар ҳар саҳифае, ки шумо истифода мебаред.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Вақте ки танзимот кушода мешавад, дар зери «Браузери веб» имкони { -brand-short-name }-ро интихоб намоед
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Ин амал { -brand-short-name }-ро ба навори вазифа васл мекунад ва танзимотро мекушояд
 onboarding-multistage-pin-default-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Ниҳонвожаҳо, <br/>хатбаракҳо ва чизҳои <span data-l10n-name="zap">дигарро</span> ворид намоед
+onboarding-multistage-import-subtitle = Аз браузери дигар омадаед? Ҳамаи чизҳои худро аз он ҷо ба { -brand-short-name } ба осонӣ интиқол диҳед.
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
 
