@@ -7,6 +7,10 @@ account-setup-tab-title = Uppsetning á reikningi
 ## Header
 
 account-setup-title = Settu upp núverandi tölvupóstfang þitt
+account-setup-description = Til að nota núverandi tölvupóstfang skaltu fylla út auðkennin þín.
+account-setup-secondary-description = { -brand-product-name } leitar sjálfkrafa að virkri og ráðlagðri póstþjónsuppsetningu.
+account-setup-success-title = Tókst að útbúa reikning
+account-setup-success-description = Þú getur nú notað þennan reikning með { -brand-short-name }.
 
 ## Form fields
 
@@ -21,6 +25,10 @@ account-setup-name-warning-icon =
     .title = Settu inn nafnið þitt
 account-setup-email-label = Tölvupóstfang
     .accesskey = p
+account-setup-email-input =
+    .placeholder = jon.jonsson@example.com
+account-setup-email-info-icon =
+    .title = Fyrirliggjandi tölvupóstfang þitt
 
 ## Action buttons
 
