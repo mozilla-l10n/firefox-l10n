@@ -5,12 +5,14 @@
 
 ## Header
 
+import-from-app-desc = Velja að flytja inn reikninga, nafnaskrár, dagatöl og önnur gögn frá:
 
 ## Buttons
 
 
 ## Import from app steps
 
+items-pane-checkbox-accounts = Reikningar og stillingar
 
 ## Import dialog
 
