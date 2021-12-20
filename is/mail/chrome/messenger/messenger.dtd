@@ -68,7 +68,7 @@
 <!ENTITY offlineMenu.accesskey "g">
 <!ENTITY offlineGoOfflineCmd.label "Vinna án nettengingar">
 <!ENTITY offlineGoOfflineCmd.accesskey "V">
-<!ENTITY synchronizeOfflineCmd.label "Niðurhala/Samstilla núna…">
+<!ENTITY synchronizeOfflineCmd.label "Sækja/samstilla núna…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Stillingar fyrir ónettengda notkun">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
