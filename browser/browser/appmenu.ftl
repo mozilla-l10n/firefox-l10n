@@ -37,16 +37,36 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Skráðu inn til að samstilla…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Kveikja á samstillingu…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Birta fleiri flipa
+    .tooltiptext = Birta fleiri flipa af þessu tæki
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Engir opnir flipar
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.
+appmenu-remote-tabs-opensettings =
+    .label = Stillingar
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Viltu sjá hérna þína flipa frá öðrum tækjum?
 appmenu-remote-tabs-connectdevice =
     .label = Tengja annað tæki
+appmenu-remote-tabs-welcome = Skoða lista yfir flipa frá öðrum tækjum.
 appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
+appmenuitem-fxa-toolbar-sync-now2 = Samstilla núna
+appmenuitem-fxa-sign-in = Skrá inn í { -brand-product-name }
+appmenuitem-fxa-manage-account = Sýsla með reikning
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Síðast samstillt { $time }
+    .label = Síðast samstillt { $time }
 appmenu-fxa-signed-in-label = Innskráning
 appmenuitem-save-page =
     .label = Vista síðu sem…
