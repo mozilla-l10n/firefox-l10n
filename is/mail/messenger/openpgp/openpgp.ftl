@@ -54,6 +54,8 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Engir lyklar passa við leitarskilyrðin þín
 openpgp-key-man-please-wait-tooltip =
     .label = Bíddu á meðan verið er að hlaða inn lyklum...
+openpgp-key-details-algorithm-label =
+    .label = Reiknirit
 openpgp-key-details-fingerprint-label = Fingrafar
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Loka
@@ -81,6 +83,8 @@ openpgp-manager-button =
 key-type-public = dreifilykill
 # Strings in keyserver.jsm
 keyserver-error-aborted = Hætt við
+# Strings in gpg.jsm
+unknown-signing-alg = Óþekkt undirritunarreiknirit (auðkenni: { $id })
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
