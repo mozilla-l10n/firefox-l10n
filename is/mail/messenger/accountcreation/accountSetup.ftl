@@ -29,12 +29,48 @@ account-setup-email-input =
     .placeholder = jon.jonsson@example.com
 account-setup-email-info-icon =
     .title = Fyrirliggjandi tölvupóstfang þitt
+account-setup-email-warning-icon =
+    .title = Ógilt tölvupóstfang
+account-setup-password-label = Lykilorð
+    .accesskey = k
+    .title = Valkvætt, verður einungis notað til að fullgilda notandanafnið
+account-provisioner-button = Fáðu nýtt netfang
+    .accesskey = F
+account-setup-password-toggle =
+    .title = Birta/Fela lykilorð
+account-setup-password-toggle-show =
+    .title = Sýna lykilorð í hreinum texta
+account-setup-password-toggle-hide =
+    .title = Fela lykilorð
+account-setup-remember-password = Muna lykilorð
+    .accesskey = M
+account-setup-exchange-label = Innskráningin þín
+    .accesskey = I
+#   YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows.
+account-setup-exchange-input =
+    .placeholder = ÞITT-LÉN\notandanafnið-þitt
+#   Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network.
+account-setup-exchange-info-icon =
+    .title = Innskráning á lén
 
 ## Action buttons
 
+account-setup-button-cancel = Hætta við
+    .accesskey = a
+account-setup-button-manual-config = Stilla handvirkt
+    .accesskey = h
+account-setup-button-stop = Stöðva
+    .accesskey = S
+account-setup-button-retest = Prófa aftur
+    .accesskey = P
+account-setup-button-continue = Halda áfram
+    .accesskey = d
+account-setup-button-done = Lokið
+    .accesskey = k
 
 ## Notifications
 
+account-setup-looking-up-settings = Leita að uppsetningu…
 
 ## Illustrations
 
