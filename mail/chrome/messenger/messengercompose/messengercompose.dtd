@@ -215,8 +215,14 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY fromAddr2.label "Frá">
 <!ENTITY fromAddr.accesskey "r">
+<!ENTITY replyAddr2.label "Svara-til">
+<!ENTITY newsgroupsAddr2.label "Fréttahópur">
+<!ENTITY followupAddr2.label "Eftirfylgni-til">
+<!ENTITY subject2.label "Viðfangsefni">
 <!ENTITY subject.accesskey "f">
+<!ENTITY attachmentBucketCloseButton.tooltip "Fela viðhengisflipa">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Setja inn broskarl">
@@ -263,6 +269,8 @@
 <!ENTITY removeAttachment.accesskey "F">
 <!ENTITY renameAttachment.label "Endurskíra…">
 <!ENTITY renameAttachment.accesskey "r">
+<!ENTITY reorderAttachments.label "Endurraða viðhengjum…">
+<!ENTITY removeAllAttachments.label "Fjarlægja öll viðhengi">
 <!ENTITY selectAll.label "Velja allt">
 <!ENTITY selectAll.accesskey "j">
 <!ENTITY attachCloud.label "Tengill í skrá…">
@@ -293,5 +301,6 @@
 <!ENTITY customizeFromAddress.accesskey "a">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Meginmál skilaboða">
 
 <!-- Status Bar -->
