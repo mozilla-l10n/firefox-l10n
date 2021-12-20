@@ -71,6 +71,7 @@ account-setup-button-done = Lokið
 ## Notifications
 
 account-setup-looking-up-settings = Leita að uppsetningu…
+account-setup-looking-up-settings-guess = Fletti upp stillingum: Prófa algeng nöfn póstþjóna...
 
 ## Illustrations
 
