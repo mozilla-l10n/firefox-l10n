@@ -135,7 +135,7 @@ page-info-security-no-owner =
     .value = नोवा वेबसाइट मा़लिक तेयारोगाक् ला़य सोदोर बाय एम आकात् आ .
 media-select-folder = ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱚᱴᱚᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ᱾
 media-unknown-not-cached =
-    .value = बाङ बाडायाक्  (बाय साब आ )
+    .value = ᱵᱟᱝ ᱵᱟᱲᱟᱭᱟᱜ (ᱵᱟᱭ ᱥᱟᱵᱟᱭ)
 permissions-use-default =
     .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 security-no-visits = ᱵᱟᱝ
@@ -149,6 +149,28 @@ general-meta-tags =
             [one] ᱢᱮᱴᱟ (1 ᱴᱮᱜᱽ)
             [two] ᱢᱮᱴᱟ ({ $tags } ᱴᱮᱜᱽ ᱠᱤᱱ)
            *[other] ᱢᱮᱴᱟ ({ $tags } ᱴᱮᱜᱽ ᱠᱚ)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] ᱵᱟᱝ
+        [one] ᱦᱚᱭ, ᱢᱤᱫ ᱡᱮᱠᱷᱟ
+        [two] ᱦᱚᱭ, ᱵᱟᱨ ᱡᱮᱠᱷᱟ
+       *[other] ᱦᱚᱭ, { $visits } ᱡᱮᱠᱷᱟ
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+            [two] { $kb } KB ({ $bytes } byte ᱠᱚ)
+           *[other] { $kb } KB ({ $bytes } byte ᱠᱚ)
         }
 # This string is used to display the type of
 # an image

@@ -81,6 +81,8 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱮᱴᱟᱜ ᱨᱚᱨᱚᱲᱤᱡ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+urlbar-tip-help-icon =
+    .title = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
 urlbar-search-tips-confirm = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -186,6 +188,9 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟ
+identity-connection-secure = ᱡᱩᱲᱟᱹᱣ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ
+identity-connection-failure = ᱡᱩᱲᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
 identity-https-only-dropdown-on =
     .label = ᱪᱟᱹᱞᱩ
 identity-https-only-dropdown-off =
