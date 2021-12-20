@@ -6,11 +6,14 @@ screenshot-toolbarbutton =
     .label = Акси экран
     .tooltiptext = Гирифтани акси экран
 screenshots-cancel-button = Бекор кардан
+screenshots-save-visible-button = Нигоҳ доштани қисми намоён
 screenshots-save-page-button = Нигоҳ доштани саҳифаи пурра
 screenshots-download-button = Боргирӣ кардан
 screenshots-download-button-tooltip = Боргирӣ кардани акси экран
 screenshots-copy-button = Нусха бардоштан
 screenshots-copy-button-tooltip = Нусха бардоштани акси экран ба ҳофизаи муваққатӣ
+screenshots-cancel-button-title =
+    .title = Бекор кардан
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

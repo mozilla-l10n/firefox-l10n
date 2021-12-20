@@ -45,10 +45,15 @@ upgrade-dialog-theme-system = Мавзӯи низомӣ
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Ҳаёт бо ранг
+upgrade-dialog-start-subtitle = Нақшу нигори нави зиндадил. Ба муддати маҳдуд дастрасанд.
+upgrade-dialog-start-primary-button = Дидани нақшу нигор
 upgrade-dialog-start-secondary-button = Ҳоло не
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Рангубори худро интихоб намоед
+upgrade-dialog-colorway-primary-button = Нигоҳ доштани нақшу нигор
 upgrade-dialog-colorway-default-theme = Пешфарз
 upgrade-dialog-theme-light = Равшан
     .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо
