@@ -47,19 +47,22 @@ media-location =
 media-text =
     .value = ᱜᱚᱰᱚᱣᱟᱜ ᱚᱱᱚᱞ :
 media-alt-header =
-    .label = एपेटाक् ओनोल
+    .label = ᱮᱯᱮᱴᱟᱠ ᱚᱱᱚᱞ
 media-address =
-    .label = ठिका़ना
+    .label = ᱴᱷᱤᱠᱬᱟᱹ
 media-type =
     .label = ᱞᱮᱠᱟ
 media-size =
-    .label = माराङ तेत्
+    .label = ᱢᱟᱯ
 media-count =
-    .label = लेखा
+    .label = ᱞᱮᱠᱟ
 media-dimension =
     .value = ᱯᱟᱥᱱᱟᱣ ᱠᱚ:
 media-long-desc =
-    .value = जिलिञ विबरोन:
+    .value = ᱡᱤᱞᱤᱧ ᱵᱤᱵᱨᱚᱬ :
+media-save-as =
+    .label = ᱞᱮᱠᱟ ᱥᱟᱺᱪᱟᱣ…
+    .accesskey = A
 media-save-image-as =
     .label = ᱞᱮᱠᱟ ᱥᱟᱺᱪᱟᱣ…
     .accesskey = e
@@ -69,23 +72,25 @@ perm-tab =
 permissions-for =
     .value = ᱞᱟᱹᱜᱤᱫ ᱪᱷᱟᱰ ᱠᱚ:
 security-tab =
-    .label = जा़पती
+    .label = ᱡᱟᱹᱯᱛᱤ
     .accesskey = S
 security-view =
-    .label = पोरमान साकाम ञेल मे.
+    .label = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱢᱮ
     .accesskey = V
-security-view-unknown = बाङ बाडायाक्
-    .value = बाङ बाडायाक्
+security-view-unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭᱟᱜ
+    .value = ᱵᱟᱝ ᱵᱟᱲᱟᱭᱟᱜ
 security-view-identity =
-    .value = वेब चिनहा़
+    .value = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱤᱱᱦᱟᱹ
 security-view-identity-owner =
-    .value = मा़लिक्:
+    .value = ᱢᱟᱹᱞᱤᱠ :
 security-view-identity-domain =
     .value = ᱣᱮᱵᱥᱟᱭᱤᱴ :
 security-view-identity-verifier =
-    .value = दाराय ते ञेल मिला़व:
+    .value = ᱫᱟᱨᱟᱭ ᱛᱮ ᱧᱮᱞ ᱢᱮᱲᱟᱣᱤᱡ :
+security-view-identity-validity =
+    .value = ᱨᱮ ᱚᱠᱛᱚ ᱪᱟᱵᱟᱜᱼᱟ :
 security-view-privacy =
-    .value = निजेर हिता़ल
+    .value = ᱯᱨᱟᱭᱣᱮᱥᱭ ᱟᱨ ᱦᱤᱛᱟᱹᱞ
 security-view-privacy-history-value = चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?
 security-view-privacy-passwords-value = चेत् इञ नोवा वेब साइट ला़गित् जाहान दानाङ साबाद सांचाव आकाना ?
 security-view-technical =
@@ -132,14 +137,25 @@ media-select-folder = ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱞᱟᱹᱜ�
 media-unknown-not-cached =
     .value = बाङ बाडायाक्  (बाय साब आ )
 permissions-use-default =
-    .label = हुड़ाक् बेभार मे
-security-no-visits = बाङ
+    .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+security-no-visits = ᱵᱟᱝ
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] ᱢᱮᱴᱟ (1 ᱴᱮᱜᱽ)
+            [two] ᱢᱮᱴᱟ ({ $tags } ᱴᱮᱜᱽ ᱠᱤᱱ)
+           *[other] ᱢᱮᱴᱟ ({ $tags } ᱴᱮᱜᱽ ᱠᱚ)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = { $type } चिता़र
+    .value = { $type } ᱪᱤᱛᱟᱹᱨ
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -148,7 +164,13 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px रे नाप)
+    .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px ᱨᱮ ᱢᱟᱯ ᱠᱟᱱᱟ)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -166,6 +188,6 @@ media-block-image =
 # Variables:
 #   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
-    .title = साहटा ला़य सोदोर  - { $website }
+    .title = ᱥᱟᱡᱽ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ —{ $website }
 page-info-frame =
-    .title = साज ला़य सोदोर - { $website }
+    .title = ᱥᱟᱡᱽ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ - { $website }
