@@ -14,6 +14,7 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 
 <!ENTITY dnsNotFound.pageTitle "Сервер ёфт нашуд">
