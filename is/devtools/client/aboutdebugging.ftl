@@ -159,6 +159,12 @@ about-debugging-runtime-processes =
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Aftengja
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Virkja tengingarkvaðningu
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Slökkva á tengingarkvaðningu
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -173,16 +179,30 @@ about-debugging-debug-target-list-empty = Ekkert ennþá.
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = Skoða
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Hlaða inn tímabundinni viðbót...
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Endurhlaða
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Fjarlægja
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Veldu manifest.json skrá eða .xpi/.zip safnskrá
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Þessi vefviðbót er með tímabundið auðkenni. <a>Frekari upplýsingar</a>
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Staðsetning
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Auðkenni viðbótar
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Afskrá
 # Displayed for service workers in runtime pages that are currently running (service
@@ -190,9 +210,17 @@ about-debugging-worker-action-unregister = Afskrá
 about-debugging-worker-status-running = Í gangi
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Stöðvað
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Skráning
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Umfang
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Aðalferli
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Loka skilaboðum
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = Villu upplýsingar
 # Label text used for the warning details of message component.
