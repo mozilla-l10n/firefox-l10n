@@ -105,18 +105,47 @@ account-setup-step4-image =
     .title = Villa í tengingu
 account-setup-step5-image =
     .title = Reikningur búinn til
+account-setup-privacy-footnote2 = Auðkennin þín verða einungis geymd inni á tölvunni þinni.
 account-setup-selection-help = Ertu ekki viss um hvað á að velja?
 account-setup-selection-error = Þarftu aðstoð?
 account-setup-success-help = Ertu ekki viss um næstu skref þín?
+account-setup-documentation-help = Uppsetning hjálparskjala
 account-setup-forum-help = Aðstoðarspjallsvæði
 account-setup-privacy-help = Meðferð persónuupplýsinga
+account-setup-getting-started = Hefjast handa
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Tiltæk uppsetning
+       *[other] Tiltækar uppsetningar
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Haltu möppum þínum og tölvupósti samstilltum á netþjóninum þínum
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Hafðu möppur þínar og tölvupóst á tölvunni þinni
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Nota Microsoft Exchange póstþjón eða Office365 skýjaþjónustu
+account-setup-incoming-title = Móttekið
+account-setup-outgoing-title = Útsent
+account-setup-username-title = Notandanafn
+account-setup-exchange-title = Netþjónn
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Engin dulritun
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Nota fyrirliggjandi SMTP-póstþjón til útsendinga
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Móttekið: { $incoming }, á leið út: { $outgoing }
 
 ## Error messages
 
