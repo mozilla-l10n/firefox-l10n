@@ -149,33 +149,82 @@ account-setup-result-username-different = Móttekið: { $incoming }, á leið ú
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Auðkenning mistókst. Annaðhvort eru viðkomandi auðkenni röng eða að sérstakt notandanafn er nauðsynlegt til að skrá inn. Þetta notandanafn er venjulega innskráningin þín á Windows lénið, með eða án lénsins (t.d. jonjonsson eða AD\\jonjonsson)
+account-setup-credentials-wrong = Auðkenning mistókst. Athugaðu notandanafnið og lykilorðið
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Handvirk stilling
+account-setup-incoming-server-legend = Póstþjónn inn
+account-setup-protocol-label = Samskiptamáti:
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Hýsitölva:
+account-setup-port-label = Gátt:
+    .title = Settu númer gáttar á 0 til að leita sjálfvirkt
+account-setup-auto-description = { -brand-short-name } mun reyna að greina sjálfvirkt þá reiti sem eru skildir eftir auðir.
+account-setup-ssl-label = Öryggi tengingar:
+account-setup-outgoing-server-legend = Póstþjónn út
 
 ## Incoming/Outgoing SSL Authentication options
 
 
 ## Incoming/Outgoing SSL options
 
+account-setup-auth-label = Auðkenningaraðferð:
+account-setup-username-label = Notandanafn:
+account-setup-advanced-setup-button = Ítarleg uppsetning
+    .accesskey = u
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Aðvörun!
+account-setup-insecure-incoming-title = Stillingar fyrir móttöku:
+account-setup-insecure-outgoing-title = Stillingar fyrir sendingu:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> notar ekki dulritun.
+account-setup-warning-cleartext-details = Óöruggir póstþjónar nota ekki dulritaðar tengingar til að vernda lykilorðin þín og einkaupplýsingar. Með því að tengjast þessum póstþjóni gætirðu berskjaldað lykilorðið þitt ásamt ýmsum einkaupplýsingum.
+account-setup-insecure-server-checkbox = Ég skil áhættuna
+    .accesskey = k
+account-setup-insecure-description = { -brand-short-name } getur getr þér kleift að komast í póstinn þinn með því að nota meðfylgjandi stillingar. Hinsvegar ættir þú að hafa samband við kerfisstjórann þinn eða tölvupóstveitu varðandi þessar óviðeigandi tengingar. Skoðaðu <a data-l10n-name="thunderbird-faq-link">Algengar spurningar um Thunderbird</a> til að sjá nánari upplýsingar.
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } fann uppsetningarupplýsingar reikningsins þíns á { $domain }. Viltu halda áfram og senda inn auðkennin þín?
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Enginn tölvupóstreikningur stilltur
+exit-dialog-description = Ertu viss um að þú viljir hætta við uppsetningarferlið? Hægt er að nota { -brand-short-name } án tölvupóstsreiknings, en margir eiginleikar verða ekki tiltækir.
+account-setup-no-account-checkbox = Nota { -brand-short-name } án tölvupóstsreiknings
+    .accesskey = N
+exit-dialog-cancel-button = Halda áfram uppsetningu
+    .accesskey = u
+exit-dialog-confirm-button = Hætta í uppsetningu
+    .accesskey = H
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Villa við að búa til reikning
+account-setup-error-server-exists = Móttökupóstþjónn er þegar til.
+account-setup-confirm-advanced-title = Staðfesta ítarlegar stillingar
 
 ## Addon installation section
 
+account-setup-addon-install-title = Setja inn
 
 ## Success view
 
+account-setup-settings-button = Stillingar reiknings
+account-setup-encryption-button = Enda-í-enda dulritun
+account-setup-signature-button = Bæta við undirritun
+account-setup-dictionaries-button = Sækja orðabækur
+account-setup-address-book-carddav-button = Tengjast við CardDAV nafnaskrá
 
 ## Calendar synchronization dialog
 
