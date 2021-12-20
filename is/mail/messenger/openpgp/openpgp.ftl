@@ -100,7 +100,16 @@ copy-to-clipbrd-ok = Lykill/lyklar afritaðir á klippispjald
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Ljósmynd
+user-att-photo = Eigindi notanda (JPEG-mynd)
+# Strings in key.jsm
+already-revoked = Þessi lykill hefur þegar verið afturkallaður.
 
 # Strings used in enigmailMessengerOverlay.js
 
 debug-log-title = OpenPGP atvikaskrá
+dlg-button-ok = Í la&gi
+dlg-button-close = &Loka
+dlg-button-cancel = &Hætta við
+dlg-no-prompt = Ekki sýna mér þennan glugga aftur
