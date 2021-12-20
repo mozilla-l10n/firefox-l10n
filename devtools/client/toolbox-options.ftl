@@ -48,6 +48,7 @@ options-default-color-unit-authored = come l’originale
 options-default-color-unit-hex = esadecimale
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = nomi dei colori
 
 ## Style Editor section
