@@ -4,7 +4,7 @@
 
 page-title = दिगधा़ साहा बाडाय तेत् को
 page-subtitle = नोवा साहटा रे प्रौद्योगिकी ला़य सोदोर मेनाक् आ. ओका दो लाब ञामोगाक् काना, तिन रे आम  मित् दिञघा सा़त ला़गित् कुरुमुटुया . जुदी आम साधारोन कुकली ला़य ला़गित् ञेलेत् आम  { -brand-short-name }, बाबोत ते आलेयाक् तेंघाना मे  <a data-l10n-name="support-link">गोड़ो वेब साइट </a>.
-crashes-title = रा़पुत् रेयाक् रिपोर्ट को
+crashes-title = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ
 crashes-id = रिपोर्ट ID
 crashes-send-date = जोमा एम आकाग
 crashes-all-reports = जोतो रा़पुद रिपोर्ट
@@ -18,7 +18,7 @@ app-basics-profile-dir =
        *[other] प्रोफाइल पोटोम
     }
 app-basics-enabled-plugins = हुय होचोवाक् खोंजा आदेर
-app-basics-build-config = तेयार रेयाक् भितिर बेनाव
+app-basics-build-config = ᱛᱮᱭᱟᱨ ᱨᱮᱭᱟᱜ ᱵᱷᱤᱛᱤᱨ ᱵᱮᱱᱟᱣ
 app-basics-user-agent = बेभार कोयिज एजेन्ट
 app-basics-memory-use = मेमोरी बेभार
 app-basics-multi-process-support = आ़डी ल लेकान का़मी विंडो.
