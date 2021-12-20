@@ -93,6 +93,11 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 mr1-welcome-screen-hero-text =
     Оташ аз ин ҷо
     оғоз меёбад
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Сорайя Осорио (Soraya Osorio) — Тарроҳи мебел ва дӯстдори Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Хомӯш кардани аниматсияҳо
 
@@ -100,6 +105,12 @@ mr1-onboarding-reduce-motion-button-label = Хомӯш кардани анима
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Барои дастрасии осон { -brand-short-name }-ро дар мустақари худ нигоҳ доред
+       *[other] Барои дастрасии осон { -brand-short-name }-ро ба навори вазифа васл кунед
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
