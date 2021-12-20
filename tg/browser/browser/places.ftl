@@ -123,6 +123,9 @@ places-manage-bookmarks =
     .label = Идоракунии хатбаракҳо
     .accesskey = И
 places-forget-about-this-site-confirmation-title = Ин сомона фаромӯш карда мешавад
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ин амал ҳамаи маълумоти марбут ба { $hostOrBaseDomain }, аз он ҷумла таърих, ниҳонвожаҳо, кукиҳо, зерҳофиза ва афзалиятҳои муҳтаворо нест мекунад. Шумо мутмаин ҳастед, ки мехоҳед идома диҳед?
 places-forget-about-this-site-forget = Фаромӯш кардан
 places-library =
     .title = Китобхона
@@ -206,3 +209,4 @@ places-back-button =
     .tooltiptext = Бозгашт
 places-forward-button =
     .tooltiptext = Ба пеш
+places-details-pane-select-an-item-description = Ҷузъеро барои дидан ва таҳрир кардани хусусиятҳои он интихоб намоед
