@@ -27,14 +27,34 @@
 <!ENTITY NameField1.accesskey           "S">
 <!ENTITY NameField2.label               "Föðurnafn:">
 <!ENTITY NameField2.accesskey           "F">
+<!ENTITY PhoneticField1.label           "Hljóðstafað nafn:">
+<!ENTITY PhoneticField2.label           "Hljóðstafað nafn:">
 <!ENTITY DisplayName.label              "Birting:">
 <!ENTITY DisplayName.accesskey          "B">
 <!ENTITY preferDisplayName.label        "Kjósið alltaf birtingarnafn fram yfir skilaboðahaus">
 <!ENTITY preferDisplayName.accesskey    "j">
+<!ENTITY NickName.label                 "Gælunafn:">
+<!ENTITY NickName.accesskey             "N">
 
+<!ENTITY PrimaryEmail.label             "Tölvupóstfang:">
+<!ENTITY PrimaryEmail.accesskey         "p">
+<!ENTITY SecondEmail.label              "Auka tölvupóstfang:">
+<!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY PreferMailFormat.label         "Kýs að taka á móti skilaboðum sem eru sniðin sem:">
+<!ENTITY PreferMailFormat.accesskey     "n">
+<!ENTITY PlainText.label                "Ósniðinn texti">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Óþekkt">
+<!ENTITY chatName.label                 "Nafn í spjalli:">
 
+<!ENTITY WorkPhone.label                "Vinnusími:">
+<!ENTITY WorkPhone.accesskey            "m">
 <!ENTITY HomePhone.label                "Heima:">
 <!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Símboði:">
+<!ENTITY PagerNumber.accesskey          "b">
 
 <!ENTITY Home.tab                       "Einka">
 <!ENTITY Home.accesskey                 "E">
