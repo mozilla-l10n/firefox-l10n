@@ -56,15 +56,15 @@ options-stylesheet-autocompletion-tooltip =
 ## Screenshot section
 
 # The heading
-options-screenshot-label = Screenshot Behavior
+options-screenshot-label = Hegðun skjámynda
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Skjáskot eingöngu á klippispjald
 options-screenshot-clipboard-tooltip2 =
     .title = Vistar skjámyndina beint á klippispjaldið
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Play camera shutter sound
+options-screenshot-audio-label = Spila lokarahljóð myndavélar
 options-screenshot-audio-tooltip =
-    .title = Enables the camera audio sound when taking screenshot
+    .title = Virkjar myndavélarhljóð þegar skjámynd er tekin
 
 ## Editor section
 
