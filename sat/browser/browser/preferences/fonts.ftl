@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = फॉन्टस
-
 fonts-window-close =
     .key = w
 
@@ -43,7 +42,7 @@ fonts-langgroup-kannada =
 fonts-langgroup-khmer =
     .label = ख्मेर
 fonts-langgroup-korean =
-    .label = कोरिया रेयाक्
+    .label = ᱠᱳᱨᱤᱭᱟᱹᱱ
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
     .label = लेटिन
@@ -70,15 +69,8 @@ fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
     .label = सान्स सेरिफ
-
 fonts-minsize-none =
     .label = जाहांनाक् बाङ
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
