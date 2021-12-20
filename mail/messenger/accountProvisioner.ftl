@@ -9,6 +9,9 @@ account-provisioner-description = Notaðu trausta samstarfsaðila okkar til að 
 ## Forms
 
 account-provisioner-search-button = Leita
+account-provisioner-button-cancel = Hætta við
+account-provisioner-button-existing = Nota fyrirliggjandi tölvupóstreikning
+account-provisioner-button-back = Fara til baka
 
 ## Notifications
 
@@ -18,5 +21,8 @@ account-provisioner-search-button = Leita
 
 ## Search results
 
+account-provisioner-free-account = Ókeypis
+account-provision-price-per-year = { $price } á ári
+account-provisioner-all-results-button = Sýna allar niðurstöður
 account-provisioner-open-in-tab-img =
     .title = Opnar í nýjum flipa

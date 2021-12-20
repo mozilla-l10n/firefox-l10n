@@ -14,6 +14,7 @@ category-calendar =
 choose-messenger-language-description = Veldu tungumálin til að nota til að birta valmyndir, skilaboð og tilkynningar frá { -brand-short-name }.
 confirm-messenger-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
 confirm-messenger-language-change-button = Virkja og endurræsa
+account-button = Stillingar reiknings
 
 ## OS Authentication dialog
 
