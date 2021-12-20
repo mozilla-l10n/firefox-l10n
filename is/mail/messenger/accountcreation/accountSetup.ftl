@@ -84,9 +84,15 @@ account-setup-installing-addon = Sæki og set upp viðbót...
 account-setup-success-half-manual = Eftirfarandi stillingar fundust með því að kanna tiltekinn póstþjón:
 account-setup-success-guess = Uppsetning fannst með því að prófa algeng nöfn póstþjóna.
 account-setup-success-guess-offline = Þú ert ekki nettengd/ur. Við giskuðum á sumar stillingar en þú verður að setja inn réttar stillingar.
+account-setup-success-password = Lykilorð í lagi
+account-setup-success-addon = Tókst að setja upp viðbótina
+# Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
+account-setup-success-settings-db = Uppsetning fannst í ISP-gagnagrunni Mozilla.
 
 ## Illustrations
 
+account-setup-step5-image =
+    .title = Reikningur búinn til
 account-setup-selection-help = Ertu ekki viss um hvað á að velja?
 account-setup-selection-error = Þarftu aðstoð?
 account-setup-success-help = Ertu ekki viss um næstu skref þín?
@@ -95,6 +101,10 @@ account-setup-privacy-help = Meðferð persónuupplýsinga
 
 ## Results area
 
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
 
 ## Error messages
 
