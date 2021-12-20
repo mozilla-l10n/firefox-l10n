@@ -231,7 +231,7 @@ menu-tools-page-info =
     .label = Upplýsingar síðu
     .accesskey = U
 menu-tools-layout-debugger =
-    .label = Útlits aflúsari
+    .label = Villuleit í útliti
     .accesskey = L
 
 ## Window Menu
