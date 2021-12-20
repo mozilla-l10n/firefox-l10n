@@ -119,6 +119,9 @@ newtab-menu-show-privacy-info = Сарпарастони мо ва махфия�
 newtab-privacy-modal-button-done = Тайёр
 newtab-privacy-modal-button-manage = Идоракунии танзимоти муҳтавои сарпарастӣ
 newtab-privacy-modal-header = Махфияти шумо муҳим аст.
+newtab-privacy-modal-paragraph-2 =
+    Илова ба нигоҳдории ҳикояҳои ҷолиб, мо инчунин ба шумо муҳтавои мувофиқ ва тафтишшударо аз сарпарастони мунтахаб нишон медиҳем. Боварӣ ҳосил кунед, ки <strong>маълумоти тамошокунӣ ҳеҷ вақт нусхаи шухсии { -brand-product-name }-и шуморо бесоҳиб намемонад</strong> — ҳатто мо ба маълумоти шахсии шумо дастрасӣ надорем, сарпарастони мо ҳам дастрасӣ надоранд.
+    сарпарастон низ надоранд.
 newtab-privacy-modal-link = Маълумот гиред, ки чӣ тавр махфият дар варақаи нав риоя карда мешавад
 
 ##
@@ -203,6 +206,10 @@ newtab-section-header-pocket = Аз тарафи { $provider } тавсия ка
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Тамошокунии сомонаҳоро оғоз намоед ва мо баъзеи мақолаҳои шавқовар, видеоҳо ва саҳифаҳои дигареро, ки шумо тамошо кардед ё ба хатбаракҳо гузоштед, дар ин ҷо намоиш медиҳем.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Шумо ҳамаро хондед. Барои хондани ҳикояҳои ҷолиби дигар аз { $provider } дертар биёед. Интизор шуда наметавонед? Барои пайдо кардани ҳикояҳои бузург аз саросари Интернет, мавзуи маълумеро интихоб намоед.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -221,6 +228,7 @@ newtab-pocket-new-topics-title = Ҳикоятҳои боз ҳам бештар �
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = { -pocket-brand-name }-ро бор кунед
+newtab-pocket-cta-text = Ҳикояҳоеро, ки дӯст медоред, дар { -pocket-brand-name } нигоҳ доред ва ба зеҳни худ аз хониши дилрабо қувват диҳед.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оилаи { -brand-product-name } мебошад
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Нигоҳ доштан ба «{ -pocket-brand-name }»
@@ -253,6 +261,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Миёнбурҳои сарпарастӣ
 newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия карда мешавад
+newtab-custom-pocket-subtitle = Муҳтавои мустасно аз тарафи { -pocket-brand-name }, қисми оилаи { -brand-product-name } дастгирӣ карда мешавад
 newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-recent-title = Фаъолияти охирин
 newtab-custom-recent-subtitle = Интихоби сомонаҳо ва муҳтавои охирин
