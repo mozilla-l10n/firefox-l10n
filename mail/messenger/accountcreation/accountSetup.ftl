@@ -2,12 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-setup-tab-title = Uppsetning á reikningi
 
 ## Header
 
+account-setup-title = Settu upp núverandi tölvupóstfang þitt
 
 ## Form fields
 
+account-setup-name-label = Fullt nafn þitt
+    .accesskey = F
+# Note: "John Doe" is a multiple-use name that is used when the true name of a person is unknown. We use this fake name as an input placeholder. Translators should update this to reflect the placeholder name of their language/country.
+account-setup-name-input =
+    .placeholder = Jón Jónsson
+account-setup-name-info-icon =
+    .title = Nafnið þitt, eins og það birtist öðrum
+account-setup-name-warning-icon =
+    .title = Settu inn nafnið þitt
+account-setup-email-label = Tölvupóstfang
+    .accesskey = p
 
 ## Action buttons
 
