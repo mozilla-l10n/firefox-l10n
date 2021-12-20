@@ -4,6 +4,6 @@
 
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Niðurhala skilríkjum">
+<!ENTITY title.label "Sæki skilríki">
 <!ENTITY info.message "Leita í möppu að skilríkjum viðtakanda. Þetta gæti tekið nokkrar mínútur.">
 <!ENTITY stop.label "Hætta leit">
