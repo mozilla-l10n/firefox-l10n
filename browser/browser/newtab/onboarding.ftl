@@ -286,12 +286,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = استفاده از رنگ‌بندی { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = استفاده از رنگ‌بندی { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = بررسی تم‌های پیش‌فرض.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = بررسی تم‌های پیش‌فرض.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = بررسی تم‌های پیش‌فرض.
 
 ## Strings for Thank You page
 
