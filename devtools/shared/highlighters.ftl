@@ -13,3 +13,7 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = שורה { $row } / עמודה { $column }
+# The text displayed in the button that is in the notice in the content page when the user
+# clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
+# when debugging a remote page.
+remote-node-picker-notice-hide-button = הסתרה
