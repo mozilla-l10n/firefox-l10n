@@ -268,6 +268,8 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Snirem isental imezwer.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Snirem isental imezwer.
 
 ## Strings for Thank You page
 
