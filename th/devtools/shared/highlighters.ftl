@@ -13,3 +13,21 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = แถว { $row } / คอลัมน์ { $column }
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = ตัวบรรจุ Grid
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid item.
+gridtype-item = รายการ Grid
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a grid container and a grid item.
+gridtype-dual = ตัวบรรจุ/รายการ Grid
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = ตัวบรรจุ Flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex item.
+flextype-item = รายการ Flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a flex container and a flex item.
+flextype-dual = ตัวบรรจุ/รายการ Flex
