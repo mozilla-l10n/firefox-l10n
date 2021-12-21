@@ -21,3 +21,7 @@ csp-error-missing-host = { $scheme }: என்பது ஒரு கணின�
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ என்பது மூலம் { $source } என்பதை உள்ளடக்கி இருக்க வேண்டும்
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-host-wildcard = { $scheme }: ‘{ $directive }’ வைல்டு கார்டு மூலங்களில் ஒன்றாவது பொதுவான களப்பெயரைக் கொண்டிருடக்க வேண்டும் (எ.கா., *.com என இல்லாமல் *.example.com போன்று)
