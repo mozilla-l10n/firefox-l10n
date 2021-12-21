@@ -284,12 +284,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Fedezze fel a(z) { $colorwayName } színvilágokat.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Fedezze fel a(z) { $colorwayName } színvilágokat.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Fedezze fel az alapértelmezett témákat.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Fedezze fel az alapértelmezett témákat.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Fedezze fel az alapértelmezett témákat.
 
 ## Strings for Thank You page
 
