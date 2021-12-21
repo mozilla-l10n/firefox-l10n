@@ -258,12 +258,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = 探索 { $colorwayName } 的配色。
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = 探索 { $colorwayName } 的配色。
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = 探索預設佈景主題。
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = 探索預設佈景主題。
+# Selector description for default themes
+mr2-onboarding-default-theme-label = 探索預設佈景主題。
 
 ## Strings for Thank You page
 
