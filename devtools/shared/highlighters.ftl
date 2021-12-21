@@ -13,3 +13,21 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = Fila { $row } / Columna { $column }
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = Contedor da grade
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid item.
+gridtype-item = Elemento da grade
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a grid container and a grid item.
+gridtype-dual = Contedor/elemento da grade
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = Contedor flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex item.
+flextype-item = Elemento flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a flex container and a flex item.
+flextype-dual = Contedor/elemento flex
