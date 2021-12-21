@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Ñembohekopyahu ramovéva
 addon-category-recent-updates-title =
     .title = Ñembohekopyahu ramovéva
+addon-category-sitepermission = Tenda ñemoneĩ
+addon-category-sitepermission-title =
+    .title = Tenda ñemoneĩ
 
 ## These are global warnings
 
@@ -284,6 +287,8 @@ dictionary-enabled-heading = Myandypyre
 dictionary-disabled-heading = Ojepuruve’ỹva
 locale-enabled-heading = Myandypyre
 locale-disabled-heading = Ojepuruve’ỹva
+sitepermission-enabled-heading = Myandypyre
+sitepermission-disabled-heading = Pe’apyre
 always-activate-button = Emyandy tapia
 never-activate-button = Ani emyandy araka’eve
 addon-detail-author-label = Apohára
@@ -372,6 +377,7 @@ plugin-heading = Emongu’e nde mboguejyrã’i
 dictionary-heading = Emongu’e ne ñe’ẽryrukuéra
 locale-heading = Emongu’e ne ñe’ẽnguéra
 updates-heading = Eñangareko ne ñembohekopyahúre
+sitepermission-heading = Eñangareko tenda ñemoneĩre
 discover-heading = Emomba’e nde { -brand-short-name }
 shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
 default-heading-search-label = Ehekave moĩmbaha
