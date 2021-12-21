@@ -278,6 +278,8 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Varsayılan temaları keşfedin.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Varsayılan temaları keşfedin.
 
 ## Strings for Thank You page
 
