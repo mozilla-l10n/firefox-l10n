@@ -286,6 +286,8 @@ dictionary-enabled-heading = 사용함
 dictionary-disabled-heading = 사용 안 함
 locale-enabled-heading = 사용함
 locale-disabled-heading = 사용 안 함
+sitepermission-enabled-heading = 사용함
+sitepermission-disabled-heading = 사용 안 함
 always-activate-button = 항상 사용
 never-activate-button = 사용 안 함
 addon-detail-author-label = 제작자
@@ -361,6 +363,7 @@ addon-permissions-optional = 추가 기능에 필요한 선택 권한:
 addon-permissions-learnmore = 권한에 대해 더 알아보기
 recommended-extensions-heading = 추천 확장 기능
 recommended-themes-heading = 추천 테마
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span>에 다음 권한을 부여합니다:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = 창의적인 느낌이 떠오르십니까? <a data-l10n-name="link">Firefox Color로 나만의 테마를 만들어 보세요.</a>
