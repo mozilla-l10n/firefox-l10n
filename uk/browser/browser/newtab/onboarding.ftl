@@ -287,7 +287,7 @@ mr2-onboarding-colorway-description =
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Переглянути забарвлення { $colorwayName }.
+mr2-onboarding-colorway-label = Ознайомтеся із забарвленням { $colorwayName }
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Переглянути типові теми.
