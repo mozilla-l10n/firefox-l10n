@@ -7,6 +7,14 @@
 csp-error-missing-directive = Belied mist in fereaske ‘{ $directive }’-ynstruksje
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
+#   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
+csp-error-illegal-keyword = ‘{ $directive }’-ynstruksje befettet in net-tastien { $keyword }-kaaiwurd
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-protocol = ‘{ $directive }’-ynstruksje befettet in net-tastien { $scheme }:-protokolboarne
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }:-protokol fereasket in host yn ‘{ $directive }’-ynstruksjes
 # Variables:
