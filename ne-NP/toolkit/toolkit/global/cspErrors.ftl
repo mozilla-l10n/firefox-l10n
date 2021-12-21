@@ -19,5 +19,9 @@ csp-error-illegal-protocol = ‘{ $directive }’ निर्देशन म�
 csp-error-missing-host = { $scheme }: प्रोटोकल लाई ‘{ $directive }’ निर्देशनमा एक होस्ट आवस्यक छ।
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
+#   $source (String): the name of a CSP source, usually 'self'.
+csp-error-missing-source = ‘{ $directive }’ ले अनिवार्य रूपमा स्रोत { $source } लाई समावेश गर्नुपर्छ
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-illegal-host-wildcard = { $scheme }: ‘{ $directive }’ निर्देशन मा भएका वाइल्डकार्ड स्रोतहरूले कम्ति मा एउटा गैर-सामान्य  उप-डोमेन समावेश गर्नुपर्छ।   (जस्तै, *.example.com न कि *.com)
