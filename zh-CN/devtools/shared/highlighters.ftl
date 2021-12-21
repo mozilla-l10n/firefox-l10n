@@ -31,3 +31,18 @@ flextype-item = Flex 项目
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Flex 容器/项目
+# The message displayed in the content page when the user clicks on the
+# "Pick an element from the page" in about:devtools-toolbox inspector panel, when
+# debugging a remote page.
+# Variables
+# $action (string) - Will either be remote-node-picker-notice-action-desktop or
+#                    remote-node-picker-notice-action-touch
+remote-node-picker-notice = 已启用开发者工具 - 节点选取器。{ $action }
+# Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
+remote-node-picker-notice-action-desktop = 点击元素即可在查看器中选择
+# Text displayed in `remote-node-picker-notice`, when the remote page is on Android
+remote-node-picker-notice-action-touch = 点按元素即可在查看器中选择
+# The text displayed in the button that is in the notice in the content page when the user
+# clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
+# when debugging a remote page.
+remote-node-picker-notice-hide-button = 隐藏
