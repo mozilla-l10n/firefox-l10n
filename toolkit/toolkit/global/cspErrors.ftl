@@ -4,6 +4,9 @@
 
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
+csp-error-missing-directive = A-o criteio ghe manca a diretiva ‘{ $directive }’
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = A diretiva ‘{ $directive }’ a contegne 'na paròlla proibia { $keyword }
 # Variables:
