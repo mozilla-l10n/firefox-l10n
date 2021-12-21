@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nowe aktualizacije
 addon-category-recent-updates-title =
     .title = Nowe aktualizacije
+addon-category-sitepermission = Sydłowe prawa
+addon-category-sitepermission-title =
+    .title = Sydłowe prawa
 
 ## These are global warnings
 
@@ -286,6 +289,8 @@ dictionary-enabled-heading = Zmóžnjeny
 dictionary-disabled-heading = Znjemóžnjeny
 locale-enabled-heading = Zmóžnjeny
 locale-disabled-heading = Znjemóžnjeny
+sitepermission-enabled-heading = Zmóžnjeny
+sitepermission-disabled-heading = Znjemóžnjeny
 always-activate-button = Přeco aktiwizować
 never-activate-button = Ženje njeaktiwizować
 addon-detail-author-label = Awtor
@@ -364,6 +369,7 @@ addon-permissions-optional = Opcionalne prawa za přidatu funkcionalnosć:
 addon-permissions-learnmore = Dalše informacije wo prawach
 recommended-extensions-heading = Doporučene rozšěrjenja
 recommended-themes-heading = Doporučene drasty
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> slědowace kmanosće:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Čujeće so kreatiwny? <a data-l10n-name="link">Wutworće swójsku drastu z Firefox Color.</a>
@@ -376,6 +382,7 @@ plugin-heading = Waše tykače rjadować
 dictionary-heading = Rjadujće swoje słowniki
 locale-heading = Rjadujće swoje rěče
 updates-heading = Waše aktualizacije rjadować
+sitepermission-heading = Waše sydłowe prawa rjadować
 discover-heading = Personalizujće swój { -brand-short-name }
 shortcuts-heading = Tastowe skrótšenki rozšěrjenjow rjadować
 default-heading-search-label = Dalše přidatki pytać
