@@ -132,6 +132,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Actualisationes recente
 addon-category-recent-updates-title =
     .title = Actualisationes recente
+addon-category-sitepermission = Permissiones del sito
+addon-category-sitepermission-title =
+    .title = Permissiones del sito
 
 ## These are global warnings
 
@@ -280,6 +283,8 @@ dictionary-enabled-heading = Activate
 dictionary-disabled-heading = Disactivate
 locale-enabled-heading = Activate
 locale-disabled-heading = Disactivate
+sitepermission-enabled-heading = Activate
+sitepermission-disabled-heading = Disactivate
 always-activate-button = Sempre activar
 never-activate-button = Non activar jammais
 addon-detail-author-label = Autor
@@ -368,6 +373,7 @@ plugin-heading = Gerer tu plugins
 dictionary-heading = Gerer tu dictionarios
 locale-heading = Gerer tu linguas
 updates-heading = Gerer tu actualisationes
+sitepermission-heading = Gere le permissiones de tu sito
 discover-heading = Personalisa tu { -brand-short-name }
 shortcuts-heading = Gerer le accessos directe al extensiones
 default-heading-search-label = Cercar altere additivos
