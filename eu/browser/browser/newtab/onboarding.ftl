@@ -285,12 +285,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Arakatu { $colorwayName } kolore-konbinazioak.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Arakatu { $colorwayName } kolore-konbinazioak.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Arakatu itxura lehenetsiak.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Arakatu itxura lehenetsiak.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Arakatu itxura lehenetsiak.
 
 ## Strings for Thank You page
 
