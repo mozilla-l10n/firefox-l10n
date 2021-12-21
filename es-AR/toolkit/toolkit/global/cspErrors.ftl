@@ -11,6 +11,14 @@ csp-error-missing-directive = A la política le falta una directiva ‘{ $direct
 csp-error-illegal-keyword = La directiva ‘{ $directive }’ contiene una palabra clave { $keyword } prohibida
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-protocol = La directiva ‘{ $directive }’ contiene una fuente de protocolo { $scheme }: prohibida
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-missing-host = { $scheme }: El protocolo requiere un servidor en directivas ‘{ $directive }’
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ debe incluir fuente { $source }
 # Variables:
