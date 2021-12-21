@@ -13,3 +13,21 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = সারি { $row } / কলাম { $column }
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = গ্রিড কনটেনার
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid item.
+gridtype-item = গ্রিড আইটেম
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a grid container and a grid item.
+gridtype-dual = গ্রিড কনটেনার/আইটেম
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = ফ্লেক্স কনটেনার
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex item.
+flextype-item = ফ্লেক্স আইটেম
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a flex container and a flex item.
+flextype-dual = ফ্লেক্স কনটেনার/আইটেম
