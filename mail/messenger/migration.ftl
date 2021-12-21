@@ -10,3 +10,6 @@ migration-progress-header = Chuẩn bị sẵn sàng { -brand-short-name }…
 # These strings are displayed to the user if a migration is taking a long time.
 # They should be short (no more than a handful of words) and in the present tense.
 
+migration-task-test-fast = Kiểm tra một thay đổi nhanh
+migration-task-test-slow = Kiểm tra một thay đổi chậm
+migration-task-test-progress = Kiểm tra thanh tiến trình
