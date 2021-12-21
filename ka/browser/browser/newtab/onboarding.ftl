@@ -286,12 +286,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = მოსინჯეთ { $colorwayName } შეფერილობა.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = მოსინჯეთ { $colorwayName } შეფერილობა.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = მოსინჯეთ ნაგულისხმევი შეფერილობა.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = მოსინჯეთ ნაგულისხმევი შეფერილობა.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = მოსინჯეთ ნაგულისხმევი შეფერილობა.
 
 ## Strings for Thank You page
 
