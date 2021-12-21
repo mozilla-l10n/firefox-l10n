@@ -286,12 +286,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Raziščite barvne kombinacije za { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Raziščite barvne kombinacije za { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Raziščite privzete teme.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Raziščite privzete teme.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Raziščite privzete teme.
 
 ## Strings for Thank You page
 
