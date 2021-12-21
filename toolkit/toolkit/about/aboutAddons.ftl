@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Legutóbbi frissítések
 addon-category-recent-updates-title =
     .title = Legutóbbi frissítések
+addon-category-sitepermission = Oldalengedélyek
+addon-category-sitepermission-title =
+    .title = Oldalengedélyek
 
 ## These are global warnings
 
@@ -294,6 +297,8 @@ dictionary-enabled-heading = Engedélyezve
 dictionary-disabled-heading = Tiltva
 locale-enabled-heading = Engedélyezve
 locale-disabled-heading = Tiltva
+sitepermission-enabled-heading = Engedélyezve
+sitepermission-disabled-heading = Tiltva
 always-activate-button = Mindig aktiválja
 never-activate-button = Soha ne aktiválja
 addon-detail-author-label = Szerző
@@ -370,6 +375,7 @@ addon-permissions-optional = A további funkciókhoz szükséges engedélyek:
 addon-permissions-learnmore = További tudnivalók az engedélyekről
 recommended-extensions-heading = Ajánlott kiegészítők
 recommended-themes-heading = Ajánlott témák
+addon-sitepermissions-required = A következő lehetőségeket biztosítja a(z) <span data-l10n-name="hostname">{ $hostname }</span> számára:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Kreatívnak érzi magát? <a data-l10n-name="link">Állítsa össze a saját témáját a Firefox Color használatával.</a>
@@ -382,6 +388,7 @@ plugin-heading = Bővítmények kezelése
 dictionary-heading = Szótárak kezelése
 locale-heading = Nyelvek kezelése
 updates-heading = Frissítések kezelése
+sitepermission-heading = Oldalengedélyek kezelése
 discover-heading = A { -brand-short-name } testreszabása
 shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
 default-heading-search-label = Több kiegészítő keresése
