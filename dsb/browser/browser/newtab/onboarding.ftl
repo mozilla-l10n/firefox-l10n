@@ -288,12 +288,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Wuslěźćo barwowe kombinacije { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Wuslěźćo barwowe kombinacije { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Wuslěźćo standardne drastwy.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Wuslěźćo standardne drastwy.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Wuslěźćo standardne drastwy.
 
 ## Strings for Thank You page
 
