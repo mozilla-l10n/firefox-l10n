@@ -647,16 +647,16 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Smákökur og gögn vefsvæðis
+sitedata-header = Vefkökur og gögn vefsvæðis
 sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð skyndiminnis…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Geymdar smákökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
+sitedata-total-size = Geymdar vefkökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Fræðast meira
 sitedata-delete-on-close =
-    .label = Eyða vafrakökum og síðugögnum þegar { -brand-short-name } er lokað
-    .accesskey = c
+    .label = Eyða vefkökum og síðugögnum þegar { -brand-short-name } er lokað
+    .accesskey = k
 sitedata-delete-on-close-private-browsing = Þegar einkavöfrun er alltaf virk, munu vefkökum og vefsvæðagögnum ávallt verða eytt þegar { -brand-short-name } er lokað.
 sitedata-allow-cookies-option =
     .label = Samþykkja vefkökur og síðugögn
@@ -668,6 +668,14 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tegund blokkuð
     .accesskey = T
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Rakningarkökur milli vefsvæða — þar með talið vefkökur samfélagsmiðla
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Vefkökur milli vefsvæða — þar með talið vefkökur samfélagsmiðla
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Rakningarkökur milli vefsvæða
+sitedata-option-block-cross-site-cookies =
+    .label = Rakningarkökur milli vefsvæða og einangra aðrar vefkökur milli vefsvæða
 sitedata-option-block-unvisited =
     .label = Vefkökur frá óheimsóttum vefsvæðum
 sitedata-option-block-all-third-party =

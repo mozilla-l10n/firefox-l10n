@@ -88,3 +88,4 @@ cfr-doorhanger-fission-body-approved = Persónuvernd þín skiptir máli. Núna 
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = Ekki núna
