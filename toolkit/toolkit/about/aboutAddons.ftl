@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Недавні оновлення
 addon-category-recent-updates-title =
     .title = Недавні оновлення
+addon-category-sitepermission = Дозволи сайтів
+addon-category-sitepermission-title =
+    .title = Дозволи сайтів
 
 ## These are global warnings
 
@@ -291,6 +294,8 @@ dictionary-enabled-heading = Увімкнено
 dictionary-disabled-heading = Вимкнено
 locale-enabled-heading = Увімкнено
 locale-disabled-heading = Вимкнено
+sitepermission-enabled-heading = Увімкнено
+sitepermission-disabled-heading = Вимкнено
 always-activate-button = Завжди активувати
 never-activate-button = Ніколи не активувати
 addon-detail-author-label = Автор
@@ -368,6 +373,7 @@ addon-permissions-optional = Необов’язкові дозволи для �
 addon-permissions-learnmore = Докладніше про дозволи
 recommended-extensions-heading = Рекомендовані розширення
 recommended-themes-heading = Рекомендовані теми
+addon-sitepermissions-required = Надає для <span data-l10n-name="hostname">{ $hostname }</span> такі можливості:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Відчуваєте творче натхнення? <a data-l10n-name="link">Створіть власну тему за допомогою Firefox Color.</a>
@@ -380,6 +386,7 @@ plugin-heading = Керуйте своїми плагінами
 dictionary-heading = Керуйте своїми словниками
 locale-heading = Керуйте своїми мовами
 updates-heading = Керуйте своїми оновленнями
+sitepermission-heading = Керувати дозволами сайтів
 discover-heading = Персоналізуйте свій { -brand-short-name }
 shortcuts-heading = Керувати комбінаціями клавіш розширень
 default-heading-search-label = Знайти більше додатків
