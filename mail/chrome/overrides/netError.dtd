@@ -22,7 +22,7 @@
 <!ENTITY fileNotFound.title "Dataja njenamakana">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Přepruwujće datajowe mjeno za wulkopisanjom a druhimi zapisowanskimi zmylkami.</li> <li>Pohladajće za tym, hač dataja je so přesunyła, přemjenowała abo zhašała.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Přistup na dataju je so wotpokazał">
+<!ENTITY fileAccessDenied.title "Přistup k dataji je so wotpokazał">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Snano je so wotstroniła, přesunyła, abo datajowe prawa zadźěwaju přistupej.</li> </ul>">
 
 <!ENTITY generic.title "Owej.">

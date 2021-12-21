@@ -237,7 +237,7 @@ account-setup-confirm-advanced-description = Tutón dialog so začini a konto z 
 ## Addon installation section
 
 account-setup-addon-install-title = Instalować
-account-setup-addon-install-intro = Přidatk třećeho poskićowarja móže wam přistup na waše e-mejlowe konto na tutym serwerje zmóžnić:
+account-setup-addon-install-intro = Přidatk třećeho poskićowarja móže wam přistup k wašemu e-mejlowemu kontu na tutym serwerje zmóžnić:
 account-setup-addon-no-protocol = Tutón e-mejlowy serwer bohužel wotewrjene protokole njepodpěruje. { account-setup-addon-install-intro }
 
 ## Success view
