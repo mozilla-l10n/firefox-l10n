@@ -284,12 +284,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = { $colorwayName } ਰੰਗ-ਢੰਗ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = { $colorwayName } ਰੰਗ-ਢੰਗ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = ਮੂਲ ਥੀਮਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = ਮੂਲ ਥੀਮਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
+# Selector description for default themes
+mr2-onboarding-default-theme-label = ਮੂਲ ਥੀਮਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
 
 ## Strings for Thank You page
 
