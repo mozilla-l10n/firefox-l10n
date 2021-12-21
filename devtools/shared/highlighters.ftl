@@ -31,6 +31,13 @@ flextype-item = Mục Flex
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Ngăn chứa/mục Flex
+# The message displayed in the content page when the user clicks on the
+# "Pick an element from the page" in about:devtools-toolbox inspector panel, when
+# debugging a remote page.
+# Variables
+# $action (string) - Will either be remote-node-picker-notice-action-desktop or
+#                    remote-node-picker-notice-action-touch
+remote-node-picker-notice = Đã bật trình chọn Node của DevTools. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Nhấp vào một phần tử để chọn nó trong Trình kiểm tra
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
