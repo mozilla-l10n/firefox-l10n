@@ -134,6 +134,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = עדכונים אחרונים
 addon-category-recent-updates-title =
     .title = עדכונים אחרונים
+addon-category-sitepermission = הרשאות אתר
+addon-category-sitepermission-title =
+    .title = הרשאות אתר
 
 ## These are global warnings
 
@@ -272,6 +275,8 @@ release-notes-addon-button = הערות שחרור
 permissions-addon-button = הרשאות
 theme-monochromatic-heading = ערכות צבעים
 theme-monochromatic-subheading = ערכות צבעים חדשים ותוססים מ־{ -brand-product-name }. זמינים לזמן מוגבל.
+sitepermission-enabled-heading = מופעל
+sitepermission-disabled-heading = מושבת
 always-activate-button = הפעלה תמיד
 never-activate-button = לא להפעיל לעולם
 addon-detail-author-label = מפתח
@@ -348,6 +353,7 @@ addon-permissions-optional = הרשאות רשות לתכונות נוספות:
 addon-permissions-learnmore = מידע נוסף על הרשאות
 recommended-extensions-heading = הרחבות מומלצות
 recommended-themes-heading = ערכות נושא מומלצות
+addon-sitepermissions-required = מעניק ל־<span data-l10n-name="hostname">{ $hostname }</span> את היכולות הבאות:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = גל של יצירתיות שוטף אותך? <a data-l10n-name="link">ניתן ליצור ערכת נושא משלך בעזרת Firefox Color.</a>
@@ -360,6 +366,7 @@ plugin-heading = ניהול התוספים החיצוניים שלך
 dictionary-heading = ניהול המילונים שלך
 locale-heading = ניהול השפות שלך
 updates-heading = ניהול העדכונים שלך
+sitepermission-heading = ניהול ההרשאות שלך לאתרים
 discover-heading = התאמה אישית של ה־{ -brand-short-name } שלך
 shortcuts-heading = ניהול קיצורי דרך להרחבות
 default-heading-search-label = חיפוש תוספות נוספות
