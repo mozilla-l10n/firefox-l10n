@@ -35,7 +35,7 @@ features-debugger-desc = Powerful JavaScript debugger with support for your fram
 features-network-title = Network
 features-network-desc = Monitor network requests that can slow or block your site. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Storage
-features-storage-desc = Add, modify and remove cache, cookies, databases and session data. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-desc = Bætta við, breyta og fjarlægja skyndiminni, vefkökur, gagnagrunna og setugögn. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Responsive Design Mode
 features-responsive-desc = Test sites on emulated devices in your browser. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Visual Editing
