@@ -19,7 +19,7 @@ policy-BlockAboutSupport = Loka aðgangi að about:support síðu.
 policy-Bookmarks = Búa til bókamerki í bókamerkjastiku, bókamerkjalistanum eða tiltekinni möppu inni í þeim.
 policy-CaptivePortal = Virkja eða slökkva á þjónustuaðgangi.
 policy-CertificatesDescription = Bæta við skilríki eða nota innbyggða skilríkið.
-policy-Cookies = Leyfa eða hafna vefsvæðum um að stilla smygildi.
+policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
 policy-DefaultDownloadDirectory = Stilltu sjálfgefna möppu fyrir niðurhal.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
 policy-DisableBuiltinPDFViewer = Óvirkja PDF.js, innbyggða PDF-lesarann í { -brand-short-name }.
@@ -58,21 +58,21 @@ policy-FlashPlugin = Leyfa eða hafna notkun Flash-viðbótarinnar.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stilla og loka mögulega heimsíðu.
-policy-InstallAddonsPermission = Leyfa ákveðnum vefsíðum að setja upp viðbætur.
+policy-InstallAddonsPermission = Leyfa tilteknum vefsvæðum að setja upp viðbætur.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
-policy-LocalFileLinks = Leyfa tilteknum vefsíðum að tengjast staðbundnum skrám.
+policy-LocalFileLinks = Leyfa tilteknum vefsvæði að tengja í staðbundnar skrár.
 policy-NetworkPrediction = Virkja eða slökkva forsögn nets (DNS prefetching).
 policy-NewTabPage = Virkja eða slökkva á nýju flipasíðunni.
 policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi { -brand-short-name } og frá greindum bókamerkjum (flestar heimsóknir, nýleg meki) Ath. að þessi stefna hefur aðeins áhrif ef það er notað áður en sniðið er notað fyrst.
 policy-OfferToSaveLogins = Skoðaðu spurningu um að geyma aðgangsupplýsingar með { -brand-short-name }. Gildin true og false eru bæði gild.
 policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva á opnun síðunnar.
 policy-OverridePostUpdatePage = Setja Firefox News síðu - birtist eftir uppfærslu á forritinu. Tómt gildi gerir slökkt á því að opna síðuna.
-policy-PopupBlocking = Leyfa tilteknum vefsíðum að birta sprettiglugga að sjálfgefnu.
+policy-PopupBlocking = Leyfa tilteknum vefsvæðum að birta sprettglugga sjálfgefið.
 policy-Preferences = Stilltu og læstu gildið fyrir undirhóp af stillingum.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.
 policy-Proxy = Velja proxy-stillingar
@@ -86,5 +86,5 @@ policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
 policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Loka fyrir heimsókn á vefsvæði. Sjá skjöl fyrir frekari upplýsari um snið.
+policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.
 policy-Windows10SSO = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga.
