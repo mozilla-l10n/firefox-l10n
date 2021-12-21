@@ -359,6 +359,7 @@ addon-permissions-optional = 選用功能需要下列權限:
 addon-permissions-learnmore = 了解權限的更多資訊
 recommended-extensions-heading = 推薦的擴充套件
 recommended-themes-heading = 推薦的佈景主題
+addon-sitepermissions-required = 讓 <span data-l10n-name="hostname">{ $hostname }</span> 有下列權限:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = 突然有個靈感嗎？<a data-l10n-name="link">使用 Firefox Color 來打造自己的佈景主題。</a>

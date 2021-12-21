@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = 回報 { $addon-name }
 abuse-report-title-extension = 回報此擴充套件給 { -vendor-short-name }
+abuse-report-title-sitepermission = 回報此網站權限附加元件給 { -vendor-short-name }
 abuse-report-title-theme = 回報此佈景主題給 { -vendor-short-name }
 abuse-report-subtitle = 有什麼問題？
 # Variables:
@@ -37,6 +38,7 @@ abuse-report-messagebar-submitting = 正在傳送 <span data-l10n-name="addon-na
 abuse-report-messagebar-submitted = 感謝您回報。您想要移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 嗎？
 abuse-report-messagebar-submitted-noremove = 感謝您回報。
 abuse-report-messagebar-removed-extension = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 擴充套件。
+abuse-report-messagebar-removed-sitepermission = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 網站權限附加元件。
 abuse-report-messagebar-removed-theme = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 佈景主題。
 abuse-report-messagebar-error = 傳送<span data-l10n-name="addon-name">{ $addon-name }</span> 的報告時，發生錯誤。
 abuse-report-messagebar-error-recent-submit = 由於最近傳送過另一份報告，並未傳送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的報告。
