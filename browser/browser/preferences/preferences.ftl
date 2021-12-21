@@ -582,6 +582,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Leggja til og mynda sterk lykilorð
     .accesskey = u
+forms-breach-alerts =
+    .label = Birta tilkynningar um lykilorð fyrir vefsvæði sem hafa orðið fyrir innbrotum
+    .accesskey = B
 forms-saved-logins =
     .label = Vistaðar innskráningar…
     .accesskey = V
@@ -666,11 +669,11 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tegund blokkuð
     .accesskey = T
 sitedata-option-block-unvisited =
-    .label = Vefkökur frá óheimsóttum vefsíðum
+    .label = Vefkökur frá óheimsóttum vefsvæðum
 sitedata-option-block-all-third-party =
-    .label = Allar vefkökur frá þriðja aðila (geta valdið því að vefsíður hrynji)
+    .label = Allar vefkökur frá þriðja aðila (getur valdið því að vefsvæði hrynji)
 sitedata-option-block-all =
-    .label = Allar vefkökur (munu valda því að vefsíður hrynji)
+    .label = Allar vefkökur (mun valda því að vefsvæði hrynji)
 sitedata-clear =
     .label = Hreinsa gögn…
     .accesskey = ö
@@ -736,12 +739,12 @@ content-blocking-expand-section =
     .tooltiptext = Nánari upplýsingar
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Rafmynt grafarar
+    .label = Rafmyntagröftur
     .accesskey = R
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingraför
+    .label = Fingrafarasöfnun
     .accesskey = F
 
 ## Privacy Section - Tracking
@@ -784,7 +787,7 @@ permissions-block-popups-exceptions =
     .label = Undanþágur…
     .accesskey = U
 permissions-addon-install-warning =
-    .label = Vara við þegar vefsvæði reynir að setja inn viðbætur
+    .label = Vara við þegar vefsvæði reyna að setja inn viðbætur
     .accesskey = V
 permissions-addon-exceptions =
     .label = Undanþágur…
@@ -842,7 +845,7 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = Opna stillingar
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er verða búið með diskaplássið.</strong> Mögulega birtist innihald vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og öryggi > Vefkökur og gögn vefsvæðis.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er verða búið með diskaplássið.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og öryggi > Vefkökur og gögn vefsvæðis.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða uppiskroppa með diskpláss.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Farðu á „Frekari upplýsingar“ til að hámarka disknotkun þína fyrir betra vafur.
 
 ## Privacy Section - HTTPS-Only
