@@ -369,7 +369,7 @@ addon-permissions-optional = Opcionalne prawa za přidatu funkcionalnosć:
 addon-permissions-learnmore = Dalše informacije wo prawach
 recommended-extensions-heading = Doporučene rozšěrjenja
 recommended-themes-heading = Doporučene drasty
-addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> slědowace kmanosće:
+addon-sitepermissions-required = Garantuje <span data-l10n-name="hostname">{ $hostname }</span> slědowace kmanosće:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Čujeće so kreatiwny? <a data-l10n-name="link">Wutworće swójsku drastu z Firefox Color.</a>
