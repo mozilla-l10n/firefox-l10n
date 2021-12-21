@@ -850,6 +850,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða upp
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.
 
 ## The following strings are used in the Download section of settings
 
