@@ -2,28 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
-<!ENTITY accountManagerTitle.label       "Kontode sätted">
+<!ENTITY accountManagerTitle.label "Kontode sätted">
+<!ENTITY  accountManagerCloseButton.label "Sulge">
 
-<!ENTITY accountActionsButton.label      "Konto tegevused">
-<!ENTITY accountActionsButton.accesskey  "K">
-<!ENTITY addMailAccountButton.label      "Lisa e-posti konto…">
-<!ENTITY addMailAccountButton.accesskey  "L">
-<!ENTITY addIMAccountButton.label        "Lisa kiirsuhtluse konto…">
-<!ENTITY addIMAccountButton.accesskey    "k">
-<!ENTITY addFeedAccountButton.label      "Lisa uudistevoogude konto…">
-<!ENTITY addFeedAccountButton.accesskey  "u">
-<!ENTITY addOtherAccountButton.label     "Lisa muu konto…">
+<!ENTITY accountActionsButton.label "Konto tegevused">
+<!ENTITY accountActionsButton.accesskey "K">
+<!ENTITY addMailAccountButton.label "Lisa e-posti konto…">
+<!ENTITY addMailAccountButton.accesskey "L">
+<!ENTITY addIMAccountButton.label "Lisa kiirsuhtluse konto…">
+<!ENTITY addIMAccountButton.accesskey "k">
+<!ENTITY addFeedAccountButton.label "Lisa uudistevoogude konto…">
+<!ENTITY addFeedAccountButton.accesskey "u">
+<!ENTITY addOtherAccountButton.label "Lisa muu konto…">
 <!ENTITY addOtherAccountButton.accesskey "i">
-<!ENTITY setDefaultButton.label          "Määra vaikeväärtuseks">
-<!ENTITY setDefaultButton.accesskey      "v">
-<!ENTITY removeButton.label              "Eemalda konto">
-<!ENTITY removeButton.accesskey          "E">
+<!ENTITY setDefaultButton.label "Määra vaikeväärtuseks">
+<!ENTITY setDefaultButton.accesskey "v">
+<!ENTITY removeButton.label "Eemalda konto">
+<!ENTITY removeButton.accesskey "E">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "Laiendused ja teemad">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -34,5 +33,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size             "width: 97ch; height: 50em;">
-<!ENTITY accountTree.width               "width: 31ch;">
+<!ENTITY accountManager.size "width: 97ch; height: 50em;">
+<!ENTITY accountTree.width "width: 31ch;">

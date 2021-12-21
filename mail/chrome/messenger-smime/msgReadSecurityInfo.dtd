@@ -4,12 +4,14 @@
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-<!ENTITY status.label         "Kirja turvalisus">
-<!ENTITY signatureCert.label  "Vaata allkirja sertifikaati">
+<!ENTITY status.label "Kirja turvalisus">
+<!ENTITY signatureCert.label "Vaata allkirja sertifikaati">
 <!ENTITY encryptionCert.label "Vaata krüptimise sertifikaati">
 
-<!ENTITY signer.name          "Allkirjastanud:">
-<!ENTITY recipient.name       "Krüptimise adressaat:">
-<!ENTITY email.address        "E-posti aadress:">
-<!ENTITY issuer.name          "Sertifikaadi väljaandja:">
+<!ENTITY signer.name "Allkirjastanud:">
+<!ENTITY recipient.name "Krüptimise adressaat:">
+<!ENTITY email.address "E-posti aadress:">
+<!ENTITY issuer.name "Sertifikaadi väljaandja:">
 
+<!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">
