@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-key-user-id-label = Reikningur / Notandaauðkenni
 openpgp-key-gen-expire-label = Lykill rennur út eftir
 openpgp-generate-key =
     .label = Útbúa lykil
@@ -86,6 +87,13 @@ keyserver-error-aborted = Hætt við
 # Strings in gpg.jsm
 unknown-signing-alg = Óþekkt undirritunarreiknirit (auðkenni: { $id })
 unknown-hash-alg = Óþekkt tætigildi dulkóðunar (auðkenni: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Lykillinn þinn { $desc } rennur út eftir minna en { $days } daga.
+    Við mælum með að þú útbúir nýtt lyklapar og stillir samsvarandi reikninga til að nota það.
+expiry-keys-expire-soon =
+    Eftirfarandi lyklar munu renna út eftir minna en { $days } daga:{ $desc }.
+    Við mælum með að þú búir til nýja lykla og stillir samsvarandi reikninga til að nota þá.
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
@@ -100,15 +108,29 @@ copy-to-clipbrd-ok = Lykill/lyklar afritaðir á klippispjald
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Tókst að flytja út dreifilykil!</b>
+openpgp-export-public-fail = <b>Ekki tókst að flytja út valinn dreifilykil!</b>
 # Strings in gnupg-keylist.jsm
 keyring-photo = Ljósmynd
 user-att-photo = Eigindi notanda (JPEG-mynd)
 # Strings in key.jsm
 already-revoked = Þessi lykill hefur þegar verið afturkallaður.
+key-man-button-revoke-key = Aftu&rkalla lykil
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = Flytja &inn
+delete-key-title = Eyða OpenPGP-lykli
+delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
 
 # Strings used in enigmailMessengerOverlay.js
 
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Senda skilaboð
+msg-compose-details-button-label = Nánar…
+msg-compose-details-button-access-key = n
 dlg-button-view = &Skoða
+# Strings used in windows.jsm
+no-photo-available = Engin mynd tiltæk
+error-photo-path-not-readable = Myndaslóðin „{ $photo }“ er ekki læsileg
 debug-log-title = OpenPGP atvikaskrá
 # Strings used in dialog.jsm
 repeat-prefix = Þessi aðvörun mun endurtakast { $count }
