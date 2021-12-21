@@ -284,12 +284,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Atraskite „{ $colorwayName }“ spalvų rinkinius.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Atraskite „{ $colorwayName }“ spalvų rinkinius.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Atraskite numatytuosius grafinius apvalkalus.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Atraskite numatytuosius grafinius apvalkalus.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Atraskite numatytuosius grafinius apvalkalus.
 
 ## Strings for Thank You page
 
