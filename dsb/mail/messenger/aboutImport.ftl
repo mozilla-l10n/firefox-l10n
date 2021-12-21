@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Mejlki
 progress-pane-title = Importěrowanje
 progress-pane-restart-desc = Startujśo znowego, aby importěrowanje dokóńcył.
 error-pane-title = Zmólka
+error-message-zip-file-too-big = Wubrana zip-dataja jo wětša ako 2 GB. Pšosym rozpakujśo ju nejpjerwjej, a importěrujśo wopśimjeśe z rozpakowanego zarědnika město togo.
+error-message-extract-zip-file-failed = Zip-dataja njedajo se rozpakowaś. Pšosym rozpakujśo ju manuelnje a importěrujśo ju pón město togo z ekstrahěrowanego zarědnika.
+error-message-failed = Importěrowanje njejo se njenaźejucy raźiło, dalšne informacije namakajośo snaź w zmólkowej konsoli.
