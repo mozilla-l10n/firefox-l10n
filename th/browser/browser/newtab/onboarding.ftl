@@ -286,12 +286,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = สำรวจชุดรูปแบบสี { $colorwayName }
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = สำรวจชุดรูปแบบสี { $colorwayName }
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = สำรวจชุดตกแต่งเริ่มต้น
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = สำรวจชุดตกแต่งเริ่มต้น
+# Selector description for default themes
+mr2-onboarding-default-theme-label = สำรวจชุดตกแต่งเริ่มต้น
 
 ## Strings for Thank You page
 
