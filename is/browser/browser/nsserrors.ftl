@@ -19,7 +19,7 @@ psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglu
 psmerr-ssl2-disabled = Get ekki tengst á öruggan hátt því vefsvæðið notar eldri óörugga útgáfu af SSL samskiptareglum.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Þú hefur fengið vitlaust skilríki.  Hafið samband við vefstjóra eða póstaðila og láttu þá fá eftirfarandi upplýsingar:
+    Þú hefur fengið rangt skilríki.  Hafið samband við vefstjóra eða póstaðila og láttu þá fá eftirfarandi upplýsingar:
     
     Skilríkið þitt inniheldur sama raðnúmer og annað skilríki útgefið af vottunarstöð.  Náðu þér í nýtt skilríki sem inniheldur einkvæmt raðnúmer.
 ssl-error-export-only-server = Get ekki haft örugg samskipti. Jafningi styður ekki dulkóðum með miklum gæðum.
@@ -243,7 +243,7 @@ sec-error-pkcs12-unsupported-transport-mode = Get ekki flutt inn. Aðeins er stu
 sec-error-pkcs12-corrupt-pfx-structure = Get ekki flutt inn. Skráargerð er skemmd.
 sec-error-pkcs12-unsupported-pbe-algorithm = Get ekki flutt inn. Ekki stuðningur við reiknirit dulritunar.
 sec-error-pkcs12-unsupported-version = Get ekki flutt inn. Enginn stuðningur við útgáfu skráar.
-sec-error-pkcs12-privacy-password-incorrect = Get ekki flutt inn. Vitlaust lykilorð.
+sec-error-pkcs12-privacy-password-incorrect = Ekki hægt að flytja inn. Rangt persónuverndarlykilorð.
 sec-error-pkcs12-cert-collision = Get ekki flutt inn. Sama auðkenni er þegar til í gagnagrunni.
 sec-error-user-cancelled = Notandi ýtti á hætta við.
 sec-error-pkcs12-duplicate-data = Ekki flutt inn, er þegar til í gagnagrunni.
@@ -260,7 +260,7 @@ sec-error-pkcs12-unable-to-read = Get ekki flutt inn. Get ekki lesið innflutta 
 sec-error-pkcs12-key-database-not-initialized = Get ekki flutt út. Lyklagagnagrunnur er skemmdur eða horfinn.
 sec-error-keygen-fail = Get ekki búið til Dreifilykil/Einkalykla par.
 sec-error-invalid-password = Innslegið lykilorð er ógilt. Veldu annað lykilorð.
-sec-error-retry-old-password = Gamla lykilorðið slegið inn vitlaust. Reyndu aftur.
+sec-error-retry-old-password = Gamla lykilorðið er rangt slegið inn. Reyndu aftur.
 sec-error-bad-nickname = Auðkenni skilríkis er þegar í notkun.
 sec-error-not-fortezza-issuer = Jafningi FORTEZZA keðja inniheldur skilríki sem er ekki FORTEZZA.
 sec-error-cannot-move-sensitive-key = Ekki er hægt að flytja viðkvæman lykil í nauðsynlega rauf.
