@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Konto sätted">
@@ -15,6 +13,8 @@
 <!ENTITY name.accesskey "S">
 <!ENTITY email.label "E-posti aadress:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Kohaletoimetamise päiste vastavusel vastatakse sellelt identiteedilt:">
+<!ENTITY catchAll.accesskey "h">
 <!ENTITY replyTo.label "Vastuse aadress:">
 <!ENTITY replyTo.accesskey "V">
 <!ENTITY replyTo.placeholder "Saajad vastavad sellele teisele aadressile">
