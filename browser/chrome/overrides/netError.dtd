@@ -52,9 +52,9 @@
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>Smelltu á &quot;Reyna aftur&quot; til að tengjast netinu og endurnýja síðuna.</li> </ul>">
 
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Hafðu samband við eigendur vefsvæðisins og láttu þá vita af þessu vandamáli.</li> </ul>">
 
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Hafðu samband við eigendur vefsvæðisins og láttu þá vita af þessu vandamáli.</li> </ul>">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
@@ -76,7 +76,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; uppgötvaði hugsanlega öryggisógn og hélt ekki áfram á <span class='hostname'/>. Ef þú heimsækir þessa síðu gætu árásarmenn reynt að stela upplýsingum eins og lykilorðum þínum, tölvupósti eða kreditkortaupplýsingum.">
+<!ENTITY certerror.sts.introPara "&brandShortName; uppgötvaði hugsanlega öryggisógn og hélt ekki áfram á <span class='hostname'/> vegna þess að þetta vefsvæði krefst öruggrar tengingar.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; uppgötvaði vandamál og hélt ekki áfram á <span class='hostname'/>. Annað hvort er vefsvæðið er rangt stillt eða að tölvuklukkan þín er stillt á rangan tíma.">
+<!ENTITY certerror.expiredCert.secondPara2 "Líklegt er að skilríki vefsvæðisins sé útrunnið, sem kemur í veg fyrir að &brandShortName; getri tengst á öruggan hátt. Ef þú heimsækir þetta vefsvæði gætu árásaraðilar reynt að stela upplýsingum eins og lykilorðum þínum, tölvupósti eða kreditkortaupplýsingum.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Líklegt er að skilríki vefsvæðisins sé útrunnið, sem kemur í veg fyrir að &brandShortName; geti tengst á öruggan hátt.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hvað getur þú gert í því?">
 
@@ -88,7 +92,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að birta síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að láta þá vita af vandamálinu.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Samþykkja áhættuna og halda áfram">
 
