@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY e2eTitle.label "Otspunktkrüptimine">
+<!ENTITY e2eLearnMore.label "Rohkem teavet">
+
+
+
 <!ENTITY digitalSign.certificate.button "Vali...">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Puhasta">
@@ -12,6 +17,11 @@
 <!ENTITY encryption.certificate_clear.accesskey "h">
 <!ENTITY signingGroupTitle.label "Digiallkirjastamine">
 <!ENTITY signMessage.accesskey "K">
+
+
+
+
+
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifikaadi valimine">

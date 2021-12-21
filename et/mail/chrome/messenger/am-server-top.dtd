@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Kirjade säilitamine">
 <!ENTITY securitySettings.label "Turvasätted">
 <!ENTITY serverSettings.label "Serveri sätted">
@@ -68,12 +66,15 @@
 <!ENTITY maxMessagesEnd.label "kirja">
 <!ENTITY alwaysAuthenticate.label "Selle serveriga ühendudes nõutakse alati kasutaja tuvastamist">
 <!ENTITY alwaysAuthenticate.accesskey "S">
+<!ENTITY newsrcFilePath1.label "News.rc fail:">
+<!ENTITY newsrcPicker1.label "Vali News.rc fail">
 <!ENTITY abbreviate.label "Uudistegruppide nimesid näidatakse kaustade paanis:">
 <!ENTITY abbreviateOn.label "täielikult (näiteks 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "lühendatult (näiteks 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Täpsemalt...">
 <!ENTITY advancedButton.accesskey "T">
 <!ENTITY serverDefaultCharset2.label "Vaikimisi kodeering:">
+<!ENTITY localPath1.label "Kohalik kaust:">
 <!ENTITY localFolderPicker.label "Kohaliku kausta valimine">
 <!ENTITY browseFolder.label "Lehitse...">
 <!ENTITY browseFolder.accesskey "L">
