@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Levelek
 progress-pane-title = Importálás
 progress-pane-restart-desc = Újraindítás az importálás befejezéséhez.
 error-pane-title = Hiba
+error-message-zip-file-too-big = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
+error-message-extract-zip-file-failed = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
+error-message-failed = Az importálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
