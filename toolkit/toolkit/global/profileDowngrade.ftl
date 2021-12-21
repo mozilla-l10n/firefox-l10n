@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiledowngrade-sync = Notkun eldri útgáfu af { -brand-product-name } getur skemmt bókamerki og vafraferil sem þegar hafa verið vistuð í fyrirliggjandi { -brand-product-name } notkunarsnið. Til að vernda upplýsingarnar þínar skaltu búa til nýtt notkunarsnið fyrir þessa uppsetningu á { -brand-short-name }. Þú getur alltaf skráð þig inn með { -fxaccount-brand-name } til að samstilla bókamerkin þín og vafraferil á milli notkunarsniða.
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
