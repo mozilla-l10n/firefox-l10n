@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Sýsla með smákökur og gögn vefsvæðis
+    .title = Sýsla með vefkökur og gögn vefsvæðis
 site-data-settings-description = Eftirfarandi vefsvæði geyma vefkökur og önnur vefgögn á tölvunni þinni. { -brand-short-name } geymir gögn frá vefsvæðum í varanlegum geymslum þar til þú fjarlægir þær og það fjarlægir gögn frá áður óþekktum vefsvæðum til að losna við pláss þegar þörf krefur.
 site-data-search-textbox =
     .placeholder = Leita á vefsvæðum
@@ -14,7 +14,7 @@ site-data-search-textbox =
 site-data-column-host =
     .label = Vefsvæði
 site-data-column-cookies =
-    .label = Smákökur
+    .label = Vefkökur
 site-data-column-storage =
     .label = Geymsla
 site-data-column-last-used =
@@ -44,7 +44,7 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Fjarlægja
-site-data-removing-header = Fjarlægja smákökur og gögn vefsvæðis
+site-data-removing-header = Fjarlægja vefkökur og gögn vefsvæðis
 site-data-removing-desc = Að fjarlægja vefkökur og vefsíðugögn getur skráð þig útaf vefsvæðum. Ertu viss um að þú viljir gera þessar breytingar?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed

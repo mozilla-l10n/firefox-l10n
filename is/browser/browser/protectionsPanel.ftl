@@ -35,6 +35,7 @@ protections-panel-content-blocking-fingerprinters-label = Fingraför
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Þessar vafrakökur fylgja þér frá vefsvæði til vefsvæðis til að safna gögnum um það sem þú gerir á netinu. Þær eru settar af utanaðkomandi aðilum á borð við auglýsendur og greiningarfyrirtæki.
 protections-panel-content-blocking-breakage-report-view-collection-url = Vefslóð
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Vefslóð
