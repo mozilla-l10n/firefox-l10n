@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Повідомлення пошти
 progress-pane-title = Імпортування
 progress-pane-restart-desc = Перезапустіть, щоб завершити імпортування.
 error-pane-title = Помилка
+error-message-zip-file-too-big = Вибраний zip-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.
+error-message-extract-zip-file-failed = Не вдалося видобути zip-файл. Видобудьте його вручну, а потім імпортуйте з видобутої теки.
+error-message-failed = Не вдалося імпортувати, можливо, більше даних буде доступно у Консолі помилок.
