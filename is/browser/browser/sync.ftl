@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Er að samstilla…
-fxa-signout-dialog2-title = Skrá út af { -fxaccount-brand-name(capatalization: "setning") }?
+fxa-signout-dialog2-title = Skrá út af { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Samstillt gögn verða áfram á reikningnum þínum.
 fxa-menu-connect-another-device =
     .label = Tengja annað tæki…
