@@ -296,6 +296,8 @@ mr2-onboarding-default-theme-tooltip =
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Selaa oletusteemoja.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Selaa oletusteemoja.
 
 ## Strings for Thank You page
 
