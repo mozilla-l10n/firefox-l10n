@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Cập nhật gần đây
 addon-category-recent-updates-title =
     .title = Cập nhật gần đây
+addon-category-sitepermission = Quyền hạn trang web
+addon-category-sitepermission-title =
+    .title = Quyền hạn trang web
 
 ## These are global warnings
 
@@ -292,6 +295,8 @@ dictionary-enabled-heading = Đã bật
 dictionary-disabled-heading = Đã tắt
 locale-enabled-heading = Đã bật
 locale-disabled-heading = Đã tắt
+sitepermission-enabled-heading = Đã bật
+sitepermission-disabled-heading = Đã tắt
 always-activate-button = Luôn kích hoạt
 never-activate-button = Không bao giờ kích hoạt
 addon-detail-author-label = Tác giả
@@ -367,6 +372,7 @@ addon-permissions-optional = Các quyền tùy chọn cho chức năng được 
 addon-permissions-learnmore = Tìm hiểu thêm về quyền hạn
 recommended-extensions-heading = Tiện ích mở rộng được đề xuất
 recommended-themes-heading = Chủ đề được đề xuất
+addon-sitepermissions-required = Cấp các khả năng sau cho <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Cảm thấy muốn sáng tạo? <a data-l10n-name="link">Xây dựng chủ đề của riêng bạn với Firefox Color.</a>
@@ -379,6 +385,7 @@ plugin-heading = Quản lí phần bổ trợ của bạn
 dictionary-heading = Quản lí từ điển của bạn
 locale-heading = Quản lí ngôn ngữ của bạn
 updates-heading = Quản lý cập nhật của bạn
+sitepermission-heading = Quản lý quyền hạn trang web của bạn
 discover-heading = Cá nhân hóa { -brand-short-name } của bạn
 shortcuts-heading = Quản lý phím tắt tiện ích mở rộng
 default-heading-search-label = Tìm thêm tiện ích
