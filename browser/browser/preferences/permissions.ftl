@@ -5,62 +5,47 @@
 permissions-window =
     .title = Undanþágur
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Vistfang vefsvæðis
     .accesskey = V
-
 permissions-block =
     .label = Loka á
     .accesskey = o
-
 permissions-session =
     .label = Leyfa í þessari vafralotu
     .accesskey = s
-
 permissions-allow =
     .label = Leyfa
     .accesskey = f
-
 permissions-site-name =
     .label = Vefsvæði
-
 permissions-status =
     .label = Staða
-
 permissions-remove =
     .label = Fjarlægja vefsvæði
     .accesskey = R
-
 permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = V
-
-permissions-autoplay-menu = Sjálfgefið fyrir allar vefsíður:
-
+permissions-autoplay-menu = Sjálfgefið fyrir öll vefsvæði:
 permissions-searchbox =
-    .placeholder = Leita í vefsvæði
-
+    .placeholder = Leita á vefsvæði
 permissions-capabilities-autoplay-allow =
     .label = Leyfa hljóð og myndskeið
 permissions-capabilities-autoplay-block =
     .label = Loka á hljóð
 permissions-capabilities-autoplay-blockall =
     .label = Loka á hljóð og myndskeið
-
 permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
     .label = Loka á
 permissions-capabilities-prompt =
     .label = Spyrja alltaf
-
 permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
@@ -75,15 +60,17 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsvæðum.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Undantekningar - Smákökur og gögn vefsvæðis
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma smákökur og gögn.  Sláðu inn nákvæma slóð fyrir það vefsvæði sem þú sjá um og smelltu svo á Loka, Leyfa fyrir lotu, eða leyfa.
+permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma vefkökur og gögn.  Settu inn nákvæma slóð fyrir það vefsvæði sem þú vilt sýsla með og smelltu svo á að loka, leyfa fyrir setu eða leyfa.
 
 ## Exceptions - HTTPS-Only Mode
+
 
 ## Exceptions - Pop-ups
 

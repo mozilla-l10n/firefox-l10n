@@ -90,7 +90,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Friðhelgi og ferill
 security-view-privacy-history-value = Hef ég skoðað þetta vefsvæði áður?
-security-view-privacy-sitedata-value = Er þessi vefsíða að geyma upplýsingar á tölvunni minni?
+security-view-privacy-sitedata-value = Er þetta vefsvæði að geyma upplýsingar á tölvunni minni?
 security-view-privacy-clearsitedata =
     .label = Hreinsa smákökur og gögn vefsvæðis
     .accesskey = ö
@@ -109,7 +109,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Já, smákökur og { $value } { $unit } af gögnum vefsvæðis
+security-site-data-cookies = Já, vefkökur og { $value } { $unit } af gögnum vefsvæðis
 security-site-data-only = Já, { $value } { $unit } af gögnum vefsvæðis
 security-site-data-cookies-only = Já, vefkökur
 security-site-data-no = Nei
