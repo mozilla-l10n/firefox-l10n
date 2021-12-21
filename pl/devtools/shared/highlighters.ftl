@@ -13,3 +13,21 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = Wiersz { $row }, kolumna { $column }
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = Kontener Grid
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid item.
+gridtype-item = Element Grid
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a grid container and a grid item.
+gridtype-dual = Kontener/element Grid
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = Kontener Flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex item.
+flextype-item = Element Flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a flex container and a flex item.
+flextype-dual = Kontener/element Flex
