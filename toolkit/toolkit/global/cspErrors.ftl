@@ -11,6 +11,14 @@ csp-error-missing-directive = საჭირო ‘{ $directive }’ მით�
 csp-error-illegal-keyword = ‘{ $directive }’ მითითება შეიცავს აკრძალულ { $keyword } საკვანძო სიტყვას
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-protocol = „{ $directive }“ მითითება შეიცავს აკრძალულ { $scheme }-ოქმს
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-missing-host = { $scheme }: ოქმი საჭიროებს ჰოსტს „{ $directive }“ მითითებებში
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ უნდა შეიცავდეს { $source } წყაროს
 # Variables:
