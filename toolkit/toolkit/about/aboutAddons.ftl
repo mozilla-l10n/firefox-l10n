@@ -134,6 +134,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = 最近更新
 addon-category-recent-updates-title =
     .title = 最近更新
+addon-category-sitepermission = 网站权限
+addon-category-sitepermission-title =
+    .title = 网站权限
 
 ## These are global warnings
 
@@ -281,6 +284,8 @@ dictionary-enabled-heading = 已启用
 dictionary-disabled-heading = 已禁用
 locale-enabled-heading = 已启用
 locale-disabled-heading = 已禁用
+sitepermission-enabled-heading = 已启用
+sitepermission-disabled-heading = 已禁用
 always-activate-button = 一律激活
 never-activate-button = 永不激活
 addon-detail-author-label = 作者
@@ -368,6 +373,7 @@ plugin-heading = 管理您的插件
 dictionary-heading = 管理您的字典
 locale-heading = 管理您的语言包
 updates-heading = 管理您的更新
+sitepermission-heading = 管理网站权限
 discover-heading = 让 { -brand-short-name } 有您的个性
 shortcuts-heading = 管理扩展快捷键
 default-heading-search-label = 寻找更多附加组件
