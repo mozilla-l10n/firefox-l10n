@@ -13,3 +13,21 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = 行 { $row } / 列 { $column }
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid container.
+gridtype-container = Grid 容器
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a grid item.
+gridtype-item = Grid 项目
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a grid container and a grid item.
+gridtype-dual = Grid 容器/项目
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = Flex 容器
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex item.
+flextype-item = Flex 项目
+# The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is both a flex container and a flex item.
+flextype-dual = Flex 容器/项目
