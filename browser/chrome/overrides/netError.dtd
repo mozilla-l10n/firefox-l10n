@@ -84,8 +84,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hvað getur þú gert í því?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Vandamálið er líklegast á vefsvæðinu sjálfu og það er ekkert sem þú getur gert til að leysa það.</p>
+<p>Ef þú ert á fyrirtækjaneti eða notar vírusvarnarhugbúnað geturðu leitað til stuðningsteymanna til að fá aðstoð. Þú getur líka látið stjórnanda vefsíðunnar vita um vandamálið.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Tölvuklukkan þín er stillt á <span id='wrongSystemTime_systemDate2'/>. Gakktu úr skugga um að tölvan þín sé stillt á rétta dagsetningu, tíma og tímabelti í kerfisstillingunum og endurnýjaðu síðan <span class='hostname'/>.</p>
+<p>Ef klukkan þín er þegar stillt á réttan tíma er vefsvæðið líklega rangt stillt og það er ekkert sem þú getur gert til að leysa málið. Þú getur látið stjórnanda vefsíðunnar vita um vandamálið.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Vandamálið er líklegast á vefsvæðinu sjálfu og það er ekkert sem þú getur gert til að leysa það. Þú getur látið stjórnanda vefsíðunnar vita um þetta vandamál.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Vefsvæðið er kannski ekki aðgengilegt eins og stendur eða er upptekið. Reyndu aftur seinna.</li> <li>Ef þú getur ekki hlaðið inn neinni síðu, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hafi aðgang til þess að fara á netið.</li> </ul>">
 
