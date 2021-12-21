@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nowe aktualizacije
 addon-category-recent-updates-title =
     .title = Nowe aktualizacije
+addon-category-sitepermission = Sedłowe pšawa
+addon-category-sitepermission-title =
+    .title = Sedłowe pšawa
 
 ## These are global warnings
 
@@ -286,6 +289,8 @@ dictionary-enabled-heading = Zmóžnjony
 dictionary-disabled-heading = Znjemóžnjony
 locale-enabled-heading = Zmóžnjony
 locale-disabled-heading = Znjemóžnjony
+sitepermission-enabled-heading = Zmóžnjony
+sitepermission-disabled-heading = Znjemóžnjony
 always-activate-button = Pśecej aktiwěrowaś
 never-activate-button = Nigda njeaktiwěrowaś
 addon-detail-author-label = Awtor
@@ -364,6 +369,7 @@ addon-permissions-optional = Opcionalne pšawa za pśidanu funkcionalnosć:
 addon-permissions-learnmore = Dalšne informacije wó pšawach
 recommended-extensions-heading = Dopórucone rozšyrjenja
 recommended-themes-heading = Dopórucone drastwy
+addon-sitepermissions-required = Garantěrujo <span data-l10n-name="hostname">{ $hostname }</span> slědujuce zamóžnosći:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Cujośo se kreatiwny? <a data-l10n-name="link">Napórajśo swójsku drastwu z Firefox Color.</a>
@@ -376,6 +382,7 @@ plugin-heading = Waše tykace zastojaś
 dictionary-heading = Waše słowniki zastojaś
 locale-heading = Waše rěcy zastojaś
 updates-heading = Waše aktualizacije zastojaś
+sitepermission-heading = Waše sedłowe pšawa zastojaś
 discover-heading = Personalizěrujśo swój { -brand-short-name }
 shortcuts-heading = Tastowe skrotconki rozšyrjenjow zastojaś
 default-heading-search-label = Woglědajśo se dalšne dodanki
