@@ -31,6 +31,15 @@ flextype-item = Elemento Flex
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Contenedor o elemento Flex
+# The message displayed in the content page when the user clicks on the
+# "Pick an element from the page" in about:devtools-toolbox inspector panel, when
+# debugging a remote page.
+# Variables
+# $action (string) - Will either be remote-node-picker-notice-action-desktop or
+#                    remote-node-picker-notice-action-touch
+remote-node-picker-notice = Selector de nodos de DevTools habilitado. { $action }
+# Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
+remote-node-picker-notice-action-desktop = Haz clic en un elemento para seleccionarlo en el inspector
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
