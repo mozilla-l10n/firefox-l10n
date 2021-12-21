@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Thư
 progress-pane-title = Đang nhập
 progress-pane-restart-desc = Khởi động lại để hoàn tất quá trình nhập.
 error-pane-title = Lỗi
+error-message-zip-file-too-big = Tập tin zip đã chọn lớn hơn 2GB. Vui lòng giải nén nó trước, sau đó nhập từ thư mục đã giải nén.
+error-message-extract-zip-file-failed = Không giải nén được tập tin zip. Vui lòng giải nén nó theo cách thủ công, sau đó nhập từ thư mục đã giải nén để thay thế.
+error-message-failed = Nhập không thành công đột ngột, có thể xem thêm thông tin trong bảng điều khiển.
