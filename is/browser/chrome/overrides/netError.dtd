@@ -121,3 +121,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
 
 
+<!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að birta síðuna sem þú ert að reyna að skoða vegna þess að villa fannst í netsamskiptareglu.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að upplýsa þá um þetta vandamál.</li></ul>">
