@@ -19,10 +19,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Serwer njeje so namakał">
-<!ENTITY dnsNotFound.longDesc1 "<strong>Jeli ta adresa je korektna, móžeće:</strong><ul>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Jeli ta adresa je korektna, móžeće:</strong>
+<ul>
   <li>Pozdźišo hišće raz spytać.</li>
   <li>Syćowy zwisk přepruwować.</li>
-  <li>Jeli sće zwjazany, sće wšak za wohnjowej murju, přepruwujće, hač &brandShortName; ma prawo na přistup na web.</li></ul>">
+  <li>Jeli sće zwjazany, sće wšak za wohnjowej murju, přepruwujće, hač &brandShortName; ma prawo na přistup k webej.</li>
+</ul>">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Přepruwujće datajowe mjeno za wulkopisanskimi abo hinašimi pisanskimi zmylkami.</li> <li>Přepruwujće, hač je so dataja přesunyła, přemjenowała abo wotstroniła.</li> </ul>">
 
@@ -31,7 +33,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; njemóže tutu stronu z někajkeje přičiny začitać.</p>">
 
 <!ENTITY captivePortal.title "So pola syće přizjewić">
-<!ENTITY captivePortal.longDesc2 "<p>Dyrbiće so pola tuteje syće přizjewić, prjedy hač móžeće přistup na internet měć.</p>">
+<!ENTITY captivePortal.longDesc2 "<p>Dyrbiće so pola tuteje syće přizjewić, prjedy hač móžeće přistup k internetej měć.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Přizjewjensku stronu syće wočinić">
 
