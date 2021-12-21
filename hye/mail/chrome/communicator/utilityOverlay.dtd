@@ -14,7 +14,16 @@
 <!ENTITY undoCmd.label            "Հետարկել">
 <!ENTITY undoCmd.accesskey          "Հ">
 <!ENTITY redoCmd.label            "Կրկնել">
+<!ENTITY redoCmd.accesskey          "Կ">
+<!ENTITY deleteCmd.label          "Ջնջել">
+<!ENTITY deleteCmd.accesskey        "Ջ">
+<!ENTITY customizeCmd.label "Յարմարեցնել">
+<!ENTITY customizeCmd.accesskey "Յ">
 
+<!ENTITY viewMenu.label          "Տեսք">
+<!ENTITY viewMenu.accesskey        "Տ">
+<!ENTITY viewToolbarsMenu.label        "Գործիքագոտիներ">
+<!ENTITY viewToolbarsMenu.accesskey      "Գ">
 
 
 
