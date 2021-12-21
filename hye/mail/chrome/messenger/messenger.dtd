@@ -72,6 +72,8 @@
 <!-- Quick Search Menu Bar -->
 
 <!-- Thread Pane -->
+<!ENTITY statusColumn.label "Կարգավիճակ">
+<!ENTITY junkStatusColumn.label "Թափաւնի կարգավիճակ">
 
 <!-- Thread Pane Tooltips -->
 
