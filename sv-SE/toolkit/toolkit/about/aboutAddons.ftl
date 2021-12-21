@@ -132,6 +132,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Senaste uppdateringar
 addon-category-recent-updates-title =
     .title = Senaste uppdateringar
+addon-category-sitepermission = Webbplatsbehörigheter
+addon-category-sitepermission-title =
+    .title = Webbplatsbehörigheter
 
 ## These are global warnings
 
@@ -288,6 +291,8 @@ dictionary-enabled-heading = Aktiverad
 dictionary-disabled-heading = Inaktiverad
 locale-enabled-heading = Aktiverad
 locale-disabled-heading = Inaktiverad
+sitepermission-enabled-heading = Aktiverad
+sitepermission-disabled-heading = Inaktiverad
 always-activate-button = Aktivera alltid
 never-activate-button = Aktivera aldrig
 addon-detail-author-label = Utvecklare
@@ -364,6 +369,7 @@ addon-permissions-optional = Valfria behörigheter för extra funktionalitet:
 addon-permissions-learnmore = Läs mer om behörigheter
 recommended-extensions-heading = Rekommenderade tillägg
 recommended-themes-heading = Rekommenderade teman
+addon-sitepermissions-required = Ger följande funktioner till <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Känner du dig kreativ? <a data-l10n-name="link">Skapa ditt egna tema med Firefox Color.</a>
@@ -376,6 +382,7 @@ plugin-heading = Hantera dina insticksmoduler
 dictionary-heading = Hantera dina ordlistor
 locale-heading = Hantera dina språk
 updates-heading = Hantera dina uppdateringar
+sitepermission-heading = Hantera dina webbplatsbehörigheter
 discover-heading = Anpassa { -brand-short-name }
 shortcuts-heading = Hantera genvägar för tillägg
 default-heading-search-label = Hitta fler tillägg
