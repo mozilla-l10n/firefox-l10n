@@ -106,6 +106,8 @@ urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $en
 
 urlbar-geolocation-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
+urlbar-xr-blocked =
+    .tooltiptext = Þú hefur lokað fyrir aðgang sýndarveruleikatækja á þessu vefsvæði.
 urlbar-web-notifications-blocked =
     .tooltiptext = Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.
 urlbar-camera-blocked =
@@ -256,6 +258,7 @@ browser-window-close-button =
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
+popup-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis meðan þú deilir
 
 ## WebRTC window or screen share tab switch warning
 
@@ -273,6 +276,8 @@ urlbar-placeholder =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Leitaðu með { $name } eða sláðu inn vistfang
+urlbar-permissions-granted =
+    .tooltiptext = Þú hefur gefið þessu vefsvæði aukin réttindi.
 urlbar-switch-to-tab =
     .value = Fara á flipa:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
