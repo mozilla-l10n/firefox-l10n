@@ -7,6 +7,14 @@
 csp-error-missing-directive = Policy is missing a required ‘{ $directive }’ directive
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
+#   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
+csp-error-illegal-keyword = A diretiva ‘{ $directive }’ contém uma palavra-chave { $keyword } proibida
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-protocol = A diretiva ‘{ $directive }’ contém um { $scheme } proibido: origem do protocolo
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: protocol requires a host in ‘{ $directive }’ directives
 # Variables:
