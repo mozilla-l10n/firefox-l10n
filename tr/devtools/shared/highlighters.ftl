@@ -38,3 +38,7 @@ flextype-dual = Flex kapsayıcısı/öğesi
 # $action (string) - Will either be remote-node-picker-notice-action-desktop or
 #                    remote-node-picker-notice-action-touch
 remote-node-picker-notice = DevTools düğüm seçici etkinleştirildi. { $action }
+# The text displayed in the button that is in the notice in the content page when the user
+# clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
+# when debugging a remote page.
+remote-node-picker-notice-hide-button = Gizle
