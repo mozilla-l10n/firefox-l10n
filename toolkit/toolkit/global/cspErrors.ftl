@@ -12,6 +12,10 @@ csp-error-illegal-keyword = Директива '{ $directive }' містить �
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-protocol = Директива '{ $directive }' містить заборонене { $scheme } джерело протоколу:
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: протокол вимагає вказувати хост в директивах '{ $directive }'
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
