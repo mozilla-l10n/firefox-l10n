@@ -14,16 +14,16 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = Smákökur og gögn ({ $amount } { $unit })
-    .accesskey = S
+    .label = Vefkökur og vefsvæðagögn ({ $amount } { $unit })
+    .accesskey = V
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Smákökur og gögn vefsvæðis
-    .accesskey = S
+    .label = Vefkökur og gögn vefsvæðis
+    .accesskey = g
 clear-site-data-cookies-info = Þú gætir verið skráð/ur út af vefsvæðum ef gögn eru hreinsuð
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"

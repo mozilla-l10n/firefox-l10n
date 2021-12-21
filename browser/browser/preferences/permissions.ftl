@@ -65,7 +65,7 @@ permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsv
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Undantekningar - Smákökur og gögn vefsvæðis
+    .title = Undantekningar - Vefkökur og gögn vefsvæðis
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma vefkökur og gögn.  Settu inn nákvæma slóð fyrir það vefsvæði sem þú vilt sýsla með og smelltu svo á að loka, leyfa fyrir setu eða leyfa.
 
