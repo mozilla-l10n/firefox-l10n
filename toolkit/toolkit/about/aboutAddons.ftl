@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = 최근 업데이트
 addon-category-recent-updates-title =
     .title = 최근 업데이트
+addon-category-sitepermission = 사이트 권한
+addon-category-sitepermission-title =
+    .title = 사이트 권한
 
 ## These are global warnings
 
@@ -370,6 +373,7 @@ plugin-heading = 플러그인 관리
 dictionary-heading = 사전 관리
 locale-heading = 언어 관리
 updates-heading = 업데이트 관리
+sitepermission-heading = 사이트 권한 관리
 discover-heading = { -brand-short-name } 개인화
 shortcuts-heading = 확장 기능 단축키 관리
 default-heading-search-label = 더 많은 부가 기능 찾기
