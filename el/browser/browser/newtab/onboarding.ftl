@@ -286,12 +286,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Εξερευνήστε τους χρωματικούς συνδυασμούς «{ $colorwayName }».
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Εξερευνήστε τους χρωματικούς συνδυασμούς «{ $colorwayName }».
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Εξερευνήστε τα προεπιλεγμένα θέματα.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Εξερευνήστε τα προεπιλεγμένα θέματα.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Εξερευνήστε τα προεπιλεγμένα θέματα.
 
 ## Strings for Thank You page
 
