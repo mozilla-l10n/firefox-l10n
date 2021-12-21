@@ -5,7 +5,10 @@
 <!ENTITY e2eTitle.label "Otspunktkrüptimine">
 <!ENTITY e2eLearnMore.label "Rohkem teavet">
 
+<!ENTITY e2eEnc.description "Ilma otspunktkrüptimiseta on sinu e-kirjade sisu hõlpsasti kättesaadav nii sinu e-posti teenusepakkujale kui ka massilisele jälgimisele.">
+<!ENTITY e2eeReqWarning.description "Kui vajad krüptimist, siis peab sul olema olemas kõigi adressaatide avalik võti või sert.">
 
+<!ENTITY e2eSigning.description "Digiallkiri võimaldab adressaatidel kontrollida, kas sõnumi saatsid sina ja et selle sisu pole muudetud.">
 
 <!ENTITY digitalSign.certificate.button "Vali...">
 <!ENTITY digitalSign.certificate.accesskey "V">
