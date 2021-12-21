@@ -57,8 +57,8 @@ detail-private-browsing-label = W priwatnych woknach wuwjesć
 detail-private-disallowed-label = W priwatnych woknach njedowoleny
 detail-private-disallowed-description2 = Tute rozšěrjenje w priwatnym modusu njefunguje. <a data-l10n-name="learn-more">Dalše informacije</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Wužaduje sej přistup na priwatne wokna
-detail-private-required-description2 = Tute rozšěrjenje ma přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
+detail-private-required-label = Wužaduje sej přistup k priwatnym woknam
+detail-private-required-description2 = Tute rozšěrjenje ma přistup k wašim aktiwitam online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
 detail-private-browsing-on =
     .label = Dowolić
     .tooltiptext = W priwatnym modusu zmóžnić
@@ -110,8 +110,8 @@ legacy-extensions-description = Tute rozšěrjenja su so znjemóžnili, dokelž 
 private-browsing-description2 =
     { -brand-short-name } měnja, kak rozšěrjenja w priwatnym modusu funguja. Nowe rozšěrjenja, kotrež
     { -brand-short-name } přidawaće, po standardźe w priwatnych woknach njefunguja. Chibazo
-    dowoleće to w nastajenjach, rozšěrjenje w priwatnym modusu njefunguje a nima přistup na waše
-    aktiwity online. Smy tutu změnu sčinili, zo by waš priwatny modus priwatny wóstał. <label data-l10n-name="private-browsing-learn-more">Zhońće wjace wo rjadowanju nastajenjow rozšěrjenja.</label>
+    dowoleće to w nastajenjach, rozšěrjenje w priwatnym modusu njefunguje a nima přistup k wašim
+    aktiwitam online. Smy tutu změnu sčinili, zo by waš priwatny modus priwatny wóstał. <label data-l10n-name="private-browsing-learn-more">Zhońće wjace wo rjadowanju nastajenjow rozšěrjenja.</label>
 addon-category-discover = Doporučenja
 addon-category-discover-title =
     .title = Doporučenja
@@ -338,7 +338,7 @@ install-update-button = Aktualizować
 addon-badge-private-browsing-allowed2 =
     .title = W priwatnych woknach dowoleny
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
+addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup k wašim aktiwitam online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
 addon-detail-private-browsing-allow = Dowolić
 addon-detail-private-browsing-disallow = Njedowolić
 
