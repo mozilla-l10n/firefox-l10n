@@ -11,7 +11,7 @@ cert-error-mitm-connection = { -brand-short-name } notar CA-vottunarstöð Mozil
 cert-error-trust-unknown-issuer-intro = Einhver kann að vera að herma eftir síðunni og ekki ætti að halda áfram.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Vefsíður auðkenna sig með skilríkjum. { -brand-short-name } treystir ekki { $hostname } því útgefandi þess skilríkis er óþekktur, skilríkið er sjálfundirritað, eða að vefþjónninn er ekki að senda rétt milliskilríki.
+cert-error-trust-unknown-issuer = Vefsvæði auðkenna sig með skilríkjum. { -brand-short-name } treystir ekki { $hostname } því útgefandi þess skilríkis er óþekktur, skilríkið er sjálfundirritað, eða að vefþjónninn er ekki að senda rétt milliskilríki.
 cert-error-trust-cert-invalid = Þessu skilríki er ekki treyst því það var útgefið af ógildu CA-skilríki.
 cert-error-trust-untrusted-issuer = Þessu skilríki er ekki treyst því útgefanda skilríkis er ekki treyst.
 cert-error-trust-signature-algorithm-disabled = Þessu skilríki er ekki treyst vegna þess að það var undirritað með undirritunarreikniriti sem er ekki lengur virkt vegna þess að reikniritið er ekki öruggt.

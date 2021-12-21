@@ -115,6 +115,9 @@ about-logins-reveal-password-os-auth-dialog-message-win = Til að skoða lykilor
 about-logins-reveal-password-os-auth-dialog-message-macosx = birta vistaða lykilorðið
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Til að afrita lykilorðið þitt, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = afrita vistaða lykilorðið
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Til að flytja út innskráningarnar þínar, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 # This message can be seen when attempting to export a password in about:logins
@@ -152,11 +155,13 @@ about-logins-alert-import-title = Innflutningi lokið
 
 ## Breach Alert notification
 
+breach-alert-text = Lykilorðum var lekið eða stolið af þessari vefsvæði síðan þú uppfærðir síðast innskráningarupplýsingar þínar. Breyttu lykilorðinu þínu til að vernda reikninginn þinn.
 about-logins-breach-alert-learn-more-link = Frekari upplýsingar
 
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Viðkvæmt lykilorð
+about-logins-vulnerable-alert-text2 = Þetta lykilorð hefur verið notað á öðrum reikningi sem líklega lenti í gagnainnbroti. Að endurnýta auðkenni setur alla reikninga þína í hættu. Breyttu þessu lykilorði.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Fara á { $hostname }
