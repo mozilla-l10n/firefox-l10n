@@ -284,12 +284,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Ehapereka sa’y ojueheguáva { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Ehapereka sa’y ojueheguáva { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Ehapereka téma ypyguáva.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Ehapereka téma ypyguáva.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Ehapereka téma ypyguáva.
 
 ## Strings for Thank You page
 
