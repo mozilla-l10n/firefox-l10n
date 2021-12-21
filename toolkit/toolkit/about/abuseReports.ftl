@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Αναφορά για { $addon-name }
 abuse-report-title-extension = Αναφορά επέκτασης στη { -vendor-short-name }
+abuse-report-title-sitepermission = Αναφορά επέκτασης αδειών ιστοτόπων στη { -vendor-short-name }
 abuse-report-title-theme = Αναφορά θέματος στη { -vendor-short-name }
 abuse-report-subtitle = Ποιο είναι το ζήτημα;
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Αποστολή αναφοράς για τ
 abuse-report-messagebar-submitted = Ευχαριστούμε για την αναφορά σας. Θέλετε να αφαιρέσετε το <span data-l10n-name="addon-name">{ $addon-name }</span>;
 abuse-report-messagebar-submitted-noremove = Ευχαριστούμε για την αναφορά σας.
 abuse-report-messagebar-removed-extension = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει την επέκταση <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει το πρόσθετο αδειών ιστοτόπων <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει το θέμα <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Προέκυψε σφάλμα κατά την αποστολή της αναφοράς για το <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Η αναφορά για το <span data-l10n-name="addon-name">{ $addon-name }</span> δεν απεστάλη, επειδή μια άλλη αναφορά υπεβλήθη πρόσφατα.
@@ -76,6 +78,10 @@ abuse-report-broken-suggestions-extension =
     Φαίνεται ότι έχετε εντοπίσει ένα σφάλμα. Εκτός από την υποβολή της παρούσας αναφοράς, ο καλύτερος τρόπος
     να επιλυθεί ένα ζήτημα λειτουργικότητας είναι να επικοινωνήσετε με τον προγραμματιστή της επέκτασης.
     <a data-l10n-name="support-link">Επισκεφθείτε τον ιστότοπο της επέκτασης</a> για να βρείτε τα στοιχεία του προγραμματιστή.
+abuse-report-broken-suggestions-sitepermission =
+    Φαίνεται ότι έχετε εντοπίσει ένα σφάλμα. Εκτός από την υποβολή της παρούσας αναφοράς, ο καλύτερος τρόπος
+    να επιλυθεί ένα ζήτημα λειτουργικότητας είναι να επικοινωνήσετε με τον προγραμματιστή του ιστοτόπου.
+    <a data-l10n-name="support-link">Επισκεφθείτε τον ιστότοπο</a> για να λάβετε τις πληροφορίες του προγραμματιστή.
 abuse-report-broken-suggestions-theme =
     Φαίνεται ότι έχετε εντοπίσει ένα σφάλμα. Εκτός από την υποβολή της παρούσας αναφοράς, ο καλύτερος τρόπος
     να επιλυθεί ένα ζήτημα λειτουργικότητας είναι να επικοινωνήσετε με τον προγραμματιστή του θέματος.
