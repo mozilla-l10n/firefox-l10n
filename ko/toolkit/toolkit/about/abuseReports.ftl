@@ -51,6 +51,8 @@ abuse-report-messagebar-error-recent-submit = 최근 다른 신고가 제출되�
 
 abuse-report-messagebar-action-remove-extension = 예, 제거합니다
 abuse-report-messagebar-action-keep-extension = 아니오, 유지합니다
+abuse-report-messagebar-action-remove-sitepermission = 예, 제거합니다
+abuse-report-messagebar-action-keep-sitepermission = 아니오, 유지합니다
 abuse-report-messagebar-action-remove-theme = 예, 제거합니다
 abuse-report-messagebar-action-keep-theme = 아니오, 유지합니다
 abuse-report-messagebar-action-retry = 다시 시도
@@ -69,11 +71,15 @@ abuse-report-settings-suggestions-homepage = 홈페이지 및 새 탭 변경
 abuse-report-deceptive-reason-v2 = 위장합니다
 abuse-report-deceptive-example = 예: 오해의 소지가 있는 설명 또는 이미지
 abuse-report-broken-reason-extension-v2 = 작동하지 않거나, 웹 사이트를 깨지게 하거나, { -brand-product-name }를 느려지게 합니다
+abuse-report-broken-reason-sitepermission-v2 = 작동하지 않거나, 웹 사이트를 깨지게 하거나, { -brand-product-name }를 느려지게 합니다
 abuse-report-broken-reason-theme-v2 = 작동하지 않거나 브라우저 화면 표시를 깨지게 합니다
 abuse-report-broken-example = 예: 기능이 느리고, 사용하기가 어렵거나 작동하지 않습니다. 웹 사이트의 일부가 로드되지 않거나 비정상적으로 보입니다.
 abuse-report-broken-suggestions-extension =
     버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 확장 기능 개발자에게 문의하시는 것입니다.
     개발자 정보를 얻으시려면 <a data-l10n-name="support-link">확장 기능의 웹 사이트를 방문하세요</a>.
+abuse-report-broken-suggestions-sitepermission =
+    버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 웹 사이트 개발자에게 문의하시는 것입니다.
+    개발자 정보를 얻으시려면 <a data-l10n-name="support-link">웹 사이트를 방문하세요</a>.
 abuse-report-broken-suggestions-theme =
     버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 테마 개발자에게 문의하시는 것입니다.
     개발자 정보를 얻으시려면 <a data-l10n-name="support-link">테마의 웹 사이트를 방문하세요</a>.
