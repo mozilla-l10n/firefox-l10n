@@ -10,7 +10,7 @@
 <!ENTITY initialpage.computer.label  "Na mojim ličaku">
 <!ENTITY initialpage.network.label  "W syći">
 
-<!ENTITY locationpage.description         "Stajće informacije wo tym k dispoziciji, štož je trěbne, zo by přistup na wašu zdalenu protyku měło" >
+<!ENTITY locationpage.description         "Stajće informacije wo tym k dispoziciji, štož je trěbne, zo by přistup k wašej zdalenej protyce měło" >
 <!ENTITY locationpage.login.description   "Na přeće: zapodajće wužiwarske mjeno a hesło" >
 <!ENTITY locationpage.username.label      "Wužiwarske mjeno:" >
 <!ENTITY locationpage.password.label      "Hesło:" >
