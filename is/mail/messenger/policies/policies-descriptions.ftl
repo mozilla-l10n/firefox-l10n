@@ -10,7 +10,9 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-Authentication = Stilla samþætta auðkenningu fyrir vefsíður sem styðja slíkt.
 policy-BlockAboutAddons = Loka á aðgang að viðbótastýringunni (about:addons).
+policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
 policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
 policy-DisableSecurityBypass = Koma í veg fyrir að notandinn fari framhjá ákveðnum öryggisaðvörunum.
@@ -25,4 +27,7 @@ policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp við
 
 ##
 
+policy-LocalFileLinks = Leyfa tilteknum vefsvæði að tengja í staðbundnar skrár.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.
