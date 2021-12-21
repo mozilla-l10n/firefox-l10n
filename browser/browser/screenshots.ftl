@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopioi kuvakaappaus leikepöydälle
 screenshots-cancel-button-title =
     .title = Peruuta
+screenshots-retry-button-title =
+    .title = Yritä kuvakaappausta uudelleen
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
