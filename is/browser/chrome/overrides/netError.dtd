@@ -66,7 +66,7 @@
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li> <li>Athugaðu hvort tölvan þín sé tengd við netið.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hefur leyfi til að tengjast netinu.</li> </ul>">
 
-<!ENTITY redirectLoop.longDesc "<ul> <li>Þetta vandamál getur verið vegna þess að lokað er á smákökur eða þær hafa verið aftengdar.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Þetta vandamál getur verið vegna þess að lokað er á vefkökur eða þær hafa verið aftengdar.</li> </ul>">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Athugaðu hvort tölvan þín sé með persónulegan öryggisstjóra uppsettann.</li> <li>Þetta vandamál gæti verið vegna óstaðlaða stillinga á netþjóni.</li> </ul>">
 
