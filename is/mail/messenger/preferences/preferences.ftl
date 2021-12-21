@@ -18,6 +18,8 @@ account-button = Stillingar reiknings
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Til að búa til aðallykilorð skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 
 ## General Tab
 
@@ -125,6 +127,7 @@ update-history-button =
 use-service =
     .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
     .accesskey = b
+cross-user-udpate-warning = Þessi stilling mun eiga við alla Windows-reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
 networking-legend = Tenging
 proxy-config-description = Stilla hvernig { -brand-short-name } tengist við Internetið
 network-settings-button =
