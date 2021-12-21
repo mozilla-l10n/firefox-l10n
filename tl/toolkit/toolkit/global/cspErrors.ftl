@@ -21,3 +21,7 @@ csp-error-missing-host = { $scheme }: na protokol ay nangangailangan ng host sa 
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ ay dapat may kalakip na pinagmulan na { $source }
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-host-wildcard = { $scheme }: wildcard na pinagmulan sa ‘{ $directive }’ na direktiba ay dapat may kalakip na hindi bababa sa isang non-generic na sub-domain (e.g., *.example.com sa halip na *.com)
