@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-httpsonly-explanation-nosupport = Líklegast styður vefsvæðið einfaldlega ekki HTTPS.
+about-httpsonly-explanation-risk = Það er líka mögulegt að árásaraðili sé viðriðinn málið. Ef þú ákveður að heimsækja vefsvæðið, ættir þú ekki að slá inn neinar viðkvæmar upplýsingar eins og lykilorð, tölvupóstföng eða kreditkortaupplýsingar.
+
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+about-httpsonly-suggestion-box-header = Möguleg varaleið
+about-httpsonly-suggestion-box-www-text = Það er til örugg útgáfa af <em>www.{ $websiteUrl }</em>. Þú getur heimsótt þá síðu í stað <em>{ $websiteUrl }</em>.
+about-httpsonly-suggestion-box-www-button = Fara á www.{ $websiteUrl }
