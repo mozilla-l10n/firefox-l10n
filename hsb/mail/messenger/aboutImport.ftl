@@ -37,3 +37,5 @@ items-pane-checkbox-mail-messages = Mejlki
 progress-pane-title = Importowanje
 progress-pane-restart-desc = Startujće znowa, zo byšće importowanje dokónčił.
 error-pane-title = Zmylk
+error-message-zip-file-too-big = Wubrana zip-dataja je wjetša hač 2 GB. Prošu rozpakujće ju najprjedy, a importujće wobsah z rozpakowaneho rjadowaka město toho.
+error-message-failed = Importowanje je so njenadźicy nimokuliło, dalše informacije namakaće snano w zmylkowej konsoli.
