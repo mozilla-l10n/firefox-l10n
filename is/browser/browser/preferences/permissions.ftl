@@ -75,23 +75,23 @@ permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði haf
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Leyfð vefsvæði - Sprettigluggar
+    .title = Leyfð vefsvæði - Sprettgluggar
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hefur leyfi til að opna sprettiglugga. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
+permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að opna sprettglugga. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
     .title = Undantekningar - Vistaðar innskráningar
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Innskráningar fyrir eftirfarandi svæði verða ekki vistuð
+permissions-exceptions-saved-logins-desc = Innskráningar fyrir eftirfarandi vefsvæði verða ekki vistuð
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
     .title = Leyfð vefsvæði - Uppsetning á viðbótum
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
+permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
 
 ## Site Permissions - Autoplay
 
