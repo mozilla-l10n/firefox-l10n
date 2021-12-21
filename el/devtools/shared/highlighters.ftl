@@ -33,6 +33,8 @@ flextype-item = Στοιχείο flex
 flextype-dual = Στοιχεία/περιέκτης flex
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Κάντε κλικ σε ένα στοιχείο για να το επιλέξετε στην Επιθεώρηση
+# Text displayed in `remote-node-picker-notice`, when the remote page is on Android
+remote-node-picker-notice-action-touch = Πατήστε ένα στοιχείο για να το επιλέξετε στην Επιθεώρηση
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
