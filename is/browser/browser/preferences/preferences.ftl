@@ -598,6 +598,8 @@ forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Til að búa til aðallykilorð skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 
 ## Privacy Section - History
 
