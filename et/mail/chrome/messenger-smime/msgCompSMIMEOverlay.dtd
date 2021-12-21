@@ -4,21 +4,33 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
+<!ENTITY menu_securityDoNotEncrypt.label "Ei krüptita">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "E">
+
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Krüptimine on nõutud">
 <!ENTITY menu_securityEncryptRequire.accesskey "i">
 
-<!ENTITY menu_securitySign.label               "Kiri digiallkirjastatakse">
-<!ENTITY menu_securitySign.accesskey           "r">
+<!ENTITY menu_securitySign.label "Kiri digiallkirjastatakse">
+<!ENTITY menu_securitySign.accesskey "r">
 
-<!ENTITY menu_securityStatus.label             "Vaata kirja turvalisuse infot">
-<!ENTITY menu_securityStatus.accesskey         "t">
+<!ENTITY menu_securityTech.label "Krüptimistehnoloogia">
+<!ENTITY menu_securityTech.accesskey "K">
 
-<!ENTITY securityButton.label                  "Turvalisus">
-<!ENTITY securityButton.tooltip                "Vaata või muuda turvasätteid">
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
-<!ENTITY menu_viewSecurityStatus.label         "Kirja turvalisuse info">
-<!ENTITY menu_viewSecurityStatus.accesskey     "K">
+<!ENTITY menu_securityStatus.label "Vaata kirja turvalisuse infot">
+<!ENTITY menu_securityStatus.accesskey "t">
+
+<!ENTITY securityButton.label "Turvalisus">
+<!ENTITY securityButton.tooltip "Vaata või muuda turvasätteid">
+
+<!ENTITY menu_viewSecurityStatus.label "Kirja turvalisuse info">
+<!ENTITY menu_viewSecurityStatus.accesskey "K">
