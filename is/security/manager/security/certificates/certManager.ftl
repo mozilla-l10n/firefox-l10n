@@ -86,7 +86,7 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = Geyma þessa undanþágu til frambúðar
     .accesskey = G
-pk11-bad-password = Innslegið lykilorð er vitlaust.
+pk11-bad-password = Lykilorðið sem var slegið inn er rangt.
 pkcs12-decode-err = Gat ekki afkóðað skrá.  Annaðhvort er þetta ekki skrá á PKCS #12 sniði, skráin er skemmd, eða innslegið lykilorð er rangt.
 pkcs12-unknown-err-restore = Vegna óþekktra ástæðna var ekki hægt að endurheimta PKCS #12 skrána.
 pkcs12-unknown-err-backup = Vegna óþekktra ástæðna var ekki hægt að búa til PKCS #12 afritunarskrá.
@@ -142,7 +142,7 @@ no-cert-stored-for-override = (Ekki geymt)
 
 add-exception-branded-warning = Þú ert í þann veginn að fara hunsa hvernig { -brand-short-name } auðkennir þetta vefsvæði.
 add-exception-invalid-header = Þetta vefsvæði reynir að auðkenna sig með röngum upplýsingum.
-add-exception-domain-mismatch-short = Vitlaust vefsvæði
+add-exception-domain-mismatch-short = Rangt vefsvæði
 add-exception-domain-mismatch-long = Skilríkið tilheyrir öðru vefsvæði, sem gæti þýtt að einhver sé að reyna að þykjast vera þetta vefsvæði.
 add-exception-expired-short = Úreltar upplýsingar
 add-exception-expired-long = Skilríkið er ekki gilt. Það gæti verið stolið eða týnt, og einhver gæti notað það til að þykjast vera þetta vefsvæði.

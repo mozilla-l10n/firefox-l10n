@@ -76,7 +76,8 @@ login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -l
 
 login-item-edit-button = Breyta
 about-logins-login-item-remove-button = Fjarlægja
-login-item-origin-label = Heimasíða
+login-item-origin-label = Vistfang vefsvæðis
+login-item-tooltip-message = Gakktu úr skugga um að þetta passi nákvæmlega við vistfang vefsíðunnar þar sem þú skráir þig inn.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Notandanafn
@@ -155,7 +156,11 @@ about-logins-alert-import-title = Innflutningi lokið
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Innbrot á vefsvæði
 breach-alert-text = Lykilorðum var lekið eða stolið af þessari vefsvæði síðan þú uppfærðir síðast innskráningarupplýsingar þínar. Breyttu lykilorðinu þínu til að vernda reikninginn þinn.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Fara á { $hostname }
 about-logins-breach-alert-learn-more-link = Frekari upplýsingar
 
 ## Vulnerable Password notification

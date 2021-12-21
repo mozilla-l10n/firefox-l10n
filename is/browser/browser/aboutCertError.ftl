@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } notar ógilt öryggisskilríki.
-cert-error-mitm-intro = Vefsíður staðfesta auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum (CA).
+cert-error-mitm-intro = Vefsvæði staðfesta auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum (CA).
 cert-error-mitm-mozilla = { -brand-short-name } er stutt af sjálfseignarstofnun Mozilla, samtökum sem ekki eru rekin í hagnaðarskyni, sem heldur úti alveg opinni CA-vottunarstöð. CA-vottunarstöðin hjálpar til við að tryggja að útgefendur skilríkja viðhafi sem bestar venjur við að gæta öryggis notenda.
 cert-error-mitm-connection = { -brand-short-name } notar CA-vottunarstöð Mozilla til þess að staðfesta öryggi tengingar, frekar en að styðjast við skilríki í stýrikerfi notandans. Þannig að, ef vírusvarnarforrit eða netkerfi lokar tengingu með öryggisskilríki frá CA-vottunaraðila sem er ekki í CA-vottunarstöð Mozilla, þá þykir tengingin óörugg.
 cert-error-trust-unknown-issuer-intro = Einhver kann að vera að herma eftir síðunni og ekki ætti að halda áfram.
@@ -21,33 +21,33 @@ cert-error-trust-symantec = Skilríki útgefin af GeoTrust, RapidSSL, Symantec, 
 cert-error-untrusted-default = Skilríkið kemur ekki frá traustum aðila.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því á henni er notað skilríki sem ekki gildir fyrir { $hostname }.
+cert-error-domain-mismatch = Vefsvæði staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því á henni er notað skilríki sem ekki gildir fyrir { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Vefsvæði staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Vefsvæði staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Vefsíður staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir eftirfarandi nöfn: { $subject-alt-names }.
+cert-error-domain-mismatch-multiple = Vefsvæði staðfesta auðkenni sitt með skilríkjum. { -brand-short-name } treystir ekki þessari síðu því hún notar skilríki sem ekki gildir fyrir { $hostname }. Skilríkið gildir einungis fyrir eftirfarandi nöfn: { $subject-alt-names }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Vefsíður auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } rann út { $not-after-local-time }.
+cert-error-expired-now = Vefsvæði auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } rann út { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Vefsíður auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } verður ekki gilt fyrr en { $not-before-local-time }.
+cert-error-not-yet-valid-now = Vefsvæði auðkenna sig með skilríkjum sem hafa takmarkaðan gildistíma. Skilríkið fyrir { $hostname } verður ekki gilt fyrr en { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Vefsíður sanna auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum. Flestir vafrar styðja ekki lengur skilríki útgefin af GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } notar skilríki frá einum þessara aðila og fyrir vikið er ekki hægt að sanna auðkenni vefsíðunnar.
-cert-error-symantec-distrust-admin = Þú mátt láta vefstjóra þessarar síðu vita af vandamálinu.
+cert-error-symantec-distrust-description = Vefsvæði sanna auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum. Flestir vafrar styðja ekki lengur skilríki útgefin af GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } notar skilríki frá einum þessara aðila og fyrir vikið er ekki hægt að sanna auðkenni vefsíðunnar.
+cert-error-symantec-distrust-admin = Þú mátt láta vefstjóra þessa vefsvæðis vita af vandamálinu.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
