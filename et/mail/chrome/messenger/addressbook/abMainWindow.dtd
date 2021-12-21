@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Aadressiraamat...">
 <!ENTITY newAddressBookCmd.accesskey                    "A">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAVi aadressiraamat…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-i kataloog...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Kiri">
@@ -40,13 +42,15 @@
 <!ENTITY editMenu.accesskey                             "R">
 <!ENTITY deleteCmd.label                                "Kustuta">
 <!ENTITY deleteAbCmd.label                              "Kustuta aadressiraamat">
+<!ENTITY deleteAbCmd.accesskey                          "K">
+<!ENTITY removeAbCmd.label                              "Eemalda aadressiraamat">
+<!ENTITY removeAbCmd.accesskey                          "E">
 <!ENTITY deleteContactCmd.label                         "Kustuta kontakt">
 <!ENTITY deleteContactsCmd.label                        "Kustuta kontaktid">
 <!ENTITY deleteListCmd.label                            "Kustuta list">
 <!ENTITY deleteListsCmd.label                           "Kustuta listid">
 <!ENTITY deleteItemsCmd.label                           "Kustuta elemendid">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Omadused">
 <!ENTITY propertiesMenu.accesskey                       "O">
 <!ENTITY propertiesCmd.key                              "i">
@@ -114,6 +118,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "o">
 <!ENTITY abPropertiesContext.label                      "Omadused">
 <!ENTITY abPropertiesContext.accesskey                  "o">
+<!ENTITY syncContext.label                              "Sünkroniseeri">
+<!ENTITY syncContext.accesskey                          "n">
 <!ENTITY editContactContext.label                       "Muuda kontakti">
 <!ENTITY editContactContext.accesskey                   "M">
 <!ENTITY editMailingListContext.label                   "Muuda meililisti">
@@ -126,8 +132,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "P">
 <!ENTITY deleteButton2.label                            "Kustuta">
 <!ENTITY deleteButton2.accesskey                        "K">
+<!ENTITY removeButton.label                             "Eemalda">
+<!ENTITY removeButton.accesskey                         "E">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Vali kuvatavad veerud">
 <!ENTITY newContactButton.tooltip                       "Loo uus aadressiraamatu kontakt">
 <!ENTITY newlistButton.tooltip                          "Loo uus meililist">
 <!ENTITY editPropertiesButton.tooltip                   "Muuda valitud elementi">
@@ -137,6 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Koosta uus kiri">
 <!ENTITY newIM.tooltip                                  "Saada kiirsõnum või vestle">
 <!ENTITY deleteButton2.tooltip                          "Kustuta valitud element">
+<!ENTITY removeButton.tooltip                           "Eemalda valitud aadressiraamat">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nimi või e-post">
