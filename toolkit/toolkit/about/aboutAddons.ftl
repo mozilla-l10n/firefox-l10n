@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Πρόσφατες ενημερώσεις
 addon-category-recent-updates-title =
     .title = Πρόσφατες ενημερώσεις
+addon-category-sitepermission = Άδειες ιστοτόπων
+addon-category-sitepermission-title =
+    .title = Άδειες ιστοτόπων
 
 ## These are global warnings
 
@@ -290,6 +293,8 @@ dictionary-enabled-heading = Ενεργά
 dictionary-disabled-heading = Ανενεργά
 locale-enabled-heading = Ενεργές
 locale-disabled-heading = Ανενεργές
+sitepermission-enabled-heading = Ενεργές
+sitepermission-disabled-heading = Ανενεργές
 always-activate-button = Πάντα ενεργοποιημένο
 never-activate-button = Ποτέ ενεργοποιημένο
 addon-detail-author-label = Δημιουργός
