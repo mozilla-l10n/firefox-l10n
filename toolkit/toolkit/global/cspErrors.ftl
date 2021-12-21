@@ -21,3 +21,7 @@ csp-error-missing-host = Protocolul { $scheme }: are nevoie de o gazdă în dire
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = „{ $directive }” trebuie să includă sursa { $source }
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-host-wildcard = { $scheme }: sursele de caractere pentru specificare globală din directivele „{ $directive }” trebuie să includă cel puțin un domeniu negeneric (de ex. *.example.com și nu *.com)
