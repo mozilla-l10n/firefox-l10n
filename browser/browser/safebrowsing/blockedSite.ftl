@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Svindlsvæði framundan
-safeb-blocked-malware-page-title = Það gæti verið hættulegt að heimsækja þetta vefsvæði
+safeb-blocked-malware-page-title = Að heimsækja þetta vefsvæði gæti skemmt tölvuna þína
 safeb-blocked-unwanted-page-title = Vefsvæðið gæti innihaldið spilliforrit
 safeb-blocked-harmful-page-title = Vefsvæði gæti innihaldið spilliforrit
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } lokaði á þessa síðu þar sem hún gæti reynt að plata þig í að gera eitthvað hættulegt eins og að setja inn hugbúnað eða birta persónulegar upplýsingar eins og lykilorð eða kortanúmer.
