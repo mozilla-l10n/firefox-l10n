@@ -146,7 +146,7 @@ urlbar-autoplay-media-blocked =
 urlbar-canvas-blocked =
     .tooltiptext = Sće přistup ke canvasowym datam za tute websydło zablokował.
 urlbar-midi-blocked =
-    .tooltiptext = Sće přistup na MIDI za tute websydło zablokował.
+    .tooltiptext = Sće přistup k MIDI za tute websydło zablokował.
 urlbar-install-blocked =
     .tooltiptext = Sće instalowanje přidatkow za tute websydło zablokował.
 # Variables
