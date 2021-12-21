@@ -7,22 +7,18 @@
 
 about-config-intro-warning-title = Pokročujće z kedźbliwosću
 about-config-intro-warning-text = Hdyž nastajenja rozšěrjeneje konfiguracije změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
-about-config-intro-warning-checkbox = Warnować, hdyž pospytuju, přistup na tute nastajenja dóstać
+about-config-intro-warning-checkbox = Warnować, hdyž pospytuju, přistup k tutym nastajenjam dóstać
 about-config-intro-warning-button = Riziko akceptować a pokročować
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Hdyž tute nastajenja změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
-
 about-config-page-title = Rozšěrjene nastajenja
-
 about-config-search-input1 =
     .placeholder = Mjeno nastajenja pytać
 about-config-show-all = Wšě pokazać
-
 about-config-show-only-modified = Jenož změnjene nastajenja pokazać
-
 about-config-pref-add-button =
     .title = Přidać
 about-config-pref-toggle-button =
