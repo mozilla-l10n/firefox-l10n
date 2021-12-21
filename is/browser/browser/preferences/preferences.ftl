@@ -676,6 +676,8 @@ sitedata-option-block-cross-site-tracking-cookies =
     .label = Rakningarkökur milli vefsvæða
 sitedata-option-block-cross-site-cookies =
     .label = Rakningarkökur milli vefsvæða og einangra aðrar vefkökur milli vefsvæða
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Rakningarkökur milli vefsvæða og af samfélagsmiðlum, og einangra aðrar vefkökur
 sitedata-option-block-unvisited =
     .label = Vefkökur frá óheimsóttum vefsvæðum
 sitedata-option-block-all-third-party =
@@ -688,6 +690,9 @@ sitedata-clear =
 sitedata-settings =
     .label = Sýsla með gögn…
     .accesskey = M
+sitedata-cookies-exceptions =
+    .label = Sýsla með undantekningar...
+    .accesskey = k
 
 ## Privacy Section - Address Bar
 
@@ -707,6 +712,7 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Læra meira
+content-blocking-fpi-incompatibility-warning = Þú ert að nota First Party Isolation (FPI), sem er æðra en sumar af vefkökustillingum { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -724,6 +730,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-cross-site-cookies-in-all-windows = Vefkökur milli vefsvæða í öllum gluggum (meðal annars rakningarkökur)
+content-blocking-cross-site-tracking-cookies = Rakningarkökur milli vefsvæða
+content-blocking-all-cross-site-cookies-private-windows = Vefkökur milli vefsvæða í einkagluggum
 content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
