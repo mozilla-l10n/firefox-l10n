@@ -23,6 +23,9 @@ gridtype-item = Item Kisi
 # it is both a grid container and a grid item.
 gridtype-dual = Kontainer/Item Kisi
 # The layout type of an element shown in the infobar when hovering over a DOM element and
+# it is a flex container.
+flextype-container = Kontainer Flex
+# The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a flex item.
 flextype-item = Item Flex
 # The layout type of an element shown in the infobar when hovering over a DOM element and
