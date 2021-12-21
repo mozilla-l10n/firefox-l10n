@@ -284,12 +284,18 @@ mr2-onboarding-colorway-tooltip =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-description =
     .aria-description = Udforsk { $colorwayName }-farvekombinationer.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Udforsk { $colorwayName }-farvekombinationer.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Udforsk standard-temaer.
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
     .aria-description = Udforsk standard-temaer.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Udforsk standard-temaer.
 
 ## Strings for Thank You page
 
