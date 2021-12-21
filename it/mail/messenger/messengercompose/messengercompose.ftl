@@ -246,4 +246,10 @@ compose-tool-button-remove-text-styling =
 cloud-file-upload-error-with-custom-message-title = Impossibile caricare { $filename } su { $provider }
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Errore nella ridenominazione
+cloud-file-rename-error = Si è verificato un problema durante la ridenominazione di { $filename } su { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-with-custom-message-title = Impossibile rinominare { $filename } su { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } non supporta la ridenominazione di file già caricati.
