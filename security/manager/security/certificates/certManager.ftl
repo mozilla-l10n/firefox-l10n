@@ -13,6 +13,7 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Vottunarstöðvar
 certmgr-mine = Skilríki frá stofnunum sem auðkenna þig
+certmgr-remembered = Þessi skilríki eru notuð til að auðkenna þig á vefsvæðum
 certmgr-people = Skilríki sem auðkenna þetta fólk
 certmgr-ca = Skilríki sem auðkenna þessar vottunarstöðvar
 certmgr-edit-ca-cert =
