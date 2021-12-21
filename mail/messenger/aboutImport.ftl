@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = 郵件訊息
 progress-pane-title = 匯入中
 progress-pane-restart-desc = 請重新啟動以完成匯入。
 error-pane-title = 錯誤
+error-message-zip-file-too-big = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
+error-message-extract-zip-file-failed = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
+error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
