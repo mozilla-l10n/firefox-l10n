@@ -12,6 +12,10 @@ csp-error-illegal-keyword = Ur ger-alc'hwez difennet '{ $keyword }' a zo endalc'
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
+csp-error-illegal-protocol = Ur/un { $scheme } difennet a zo endalc'het er sturiad ‘{ $directive }’: komenad tarzh
+# Variables:
+#   $directive (String): the name of a CSP directive, such as "script-src".
+#   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
 csp-error-missing-host = { $scheme }: un herberc'hier a zo azgoulennet gant ar c'homenad er sturiadoù '{ $directive }'
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
