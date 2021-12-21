@@ -24,6 +24,7 @@
 <!ENTITY viewMenu.accesskey        "Տ">
 <!ENTITY viewToolbarsMenu.label        "Գործիքագոտիներ">
 <!ENTITY viewToolbarsMenu.accesskey      "Գ">
+<!ENTITY showTaskbarCmd.label          "Վիճակագաւտի">
 
 
 
