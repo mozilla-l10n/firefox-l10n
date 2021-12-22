@@ -255,6 +255,32 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Innflutningi lokið
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nýrri innskráningu bætt við:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nýjum innskráningum bætt við:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Fyrirliggjandi innskráning uppfærð:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Fyrirliggjandi innskráningar uppfærðar:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Tvítekin innskráning fannst:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
+       *[other] <span>Tvíteknar innskráningar fundust:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Villa:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span>
+       *[other] <span>Villur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span>
+    }
+about-logins-import-dialog-done = Lokið
+about-logins-import-dialog-error-title = Villa við innflutning
+about-logins-import-dialog-error-conflicting-values-title = Mörg gildi rekast á í einni innskráningu
+about-logins-import-dialog-error-conflicting-values-description = Til dæmis: mörg notendanöfn, lykilorð, vefslóðir o.s.frv. fyrir eina innskráningu.
+about-logins-import-dialog-error-file-format-title = Vandamál með skráarsnið
+about-logins-import-dialog-error-file-permission-title = Get ekki lesið skrá
 
 ##
 ## Variables:
