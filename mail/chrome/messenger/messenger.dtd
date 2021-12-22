@@ -117,7 +117,7 @@
 <!ENTITY folderPropsCmd2.label "Özellikler">
 <!ENTITY folderPropsFolderCmd2.label "Dizin özellikleri">
 <!ENTITY folderPropsNewsgroupCmd2.label "Haber grubu özellikleri">
-<!ENTITY folderPropsCmd.accesskey "u">
+<!ENTITY folderPropsCmd.accesskey "D">
 <!ENTITY undoDeleteMsgCmd.label "Silinen iletiyi geri al">
 <!ENTITY redoDeleteMsgCmd.label "İletiyi tekrar sil">
 <!ENTITY undoMoveMsgCmd.label "İleti taşımayı geri al">
