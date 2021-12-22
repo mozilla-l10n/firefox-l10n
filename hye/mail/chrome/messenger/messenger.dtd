@@ -11,6 +11,7 @@
      -->
 <!ENTITY offlineMenu.label "Անցանց">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
+<!ENTITY offlineGoOfflineCmd.accesskey "ա">
 <!ENTITY synchronizeOfflineCmd.label "Ներբեռնել/Համաժամեցնել հիմա…">
 <!ENTITY synchronizeOfflineCmd.accesskey "Հ">
 <!ENTITY settingsOfflineCmd2.label "Անցանց կարգաւորումներ">
