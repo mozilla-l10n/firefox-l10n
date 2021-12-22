@@ -40,6 +40,7 @@ abuse-report-messagebar-submitting = Invio de signalation pro <span data-l10n-na
 abuse-report-messagebar-submitted = Gratias pro haber inviate un signalation. Vole tu remover <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gratias pro haber inviate un signalation.
 abuse-report-messagebar-removed-extension = Gratias pro haber inviate un signalation. Tu ha removite le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Gratias pro le invio de reporto. Tu ha removite le additivo de permissiones de sito <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gratias pro haber inviate un signalation. Tu ha removite le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Un error occurreva durante le invio del signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Le reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> non esseva inviate perque un altere reporto ha essite inviate recentemente.
