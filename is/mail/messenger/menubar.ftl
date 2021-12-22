@@ -11,6 +11,12 @@
 
 ## Mail Toolbar
 
+toolbar-junk-button =
+    .label = Ruslpóstur
+    .tooltiptext = Merkja valin skilaboð sem ruslpóst
+toolbar-not-junk-button =
+    .label = Ekki ruslpóstur
+    .tooltiptext = Merkja valin skilaboð sem ekki-ruslpóst
 
 ## View
 

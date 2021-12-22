@@ -34,11 +34,12 @@ rights-webservices-term-4 =
     ábyrgð, þannig að þessi fyrirvari gæti ekki átt við þig.</strong>
 rights-webservices-term-5 =
     <strong>Nema eins og krafist er í lögum, { -vendor-short-name }, munu
-    þátttakendur þess, leyfisveitendur og dreifingaraðilar ekki bera ábyrgð á neinu
-    óbeinu, sérstöku, tilfallandi, afleiddu, refsiverðu eða dæmigerðu
-    tjóni sem stafar af eða tengist á einhvern hátt notkun á { -brand-short-name } og þjónusturnar. Sameiginlega ábyrgð skv
-    þessir skilmálar munu ekki fara yfir $500 (fimm hundruð dollara). Sum lögsagnarumdæmi
-    ekki leyfa útilokun eða takmörkun á tilteknum skaðabótum, svo þetta
+    þátttakendur þess, leyfisveitendur og dreifingaraðilar ekki bera ábyrgð á 
+    neinu óbeinu, sérstöku, tilfallandi, afleiddu, refsiverðu eða dæmigerðu
+    tjóni sem stafar af eða tengist á einhvern hátt notkun á { -brand-short-name } 
+    og viðeigandi þjónustum. Sameiginleg ábyrgð samkvæmt þessum skilmálum 
+    mun ekki geta farið yfir $500 (fimm hundruð dollara). Sum lögsagnarumdæmi
+    ekki leyfa útilokun eða takmörkun á tilteknum skaðabótum, svo þessi
     útilokun og takmörkun gæti ekki átt við um þig.</strong>
 rights-webservices-term-6 = Öðru hverju gæti { -vendor-short-name } nauðsynlega þurft að uppfæra þessa skilmála. Þessum skilmálum má ekki breyta eða ógilda án skriflegs leyfis { -vendor-short-name }.
 rights-webservices-term-7 = Þessir skilmálar eru í samræmi við lög Kaliforníu fylkis, U.S.A., undanskilin eru árekstrar við önnur laga ákvæði. Ef einhver hluti þessara skilmála telst vera ógildur eða er ekki framfylgjanlegur, munu samt sem áður aðrir skilmálar vera áfram virkir. Ef upp kemur ágreiningur á milli þýddu útgáfunnar af þessum skilmálum og ensku útgáfunnar, mun enska útgáfan vera ráðandi.
