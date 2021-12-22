@@ -11,6 +11,7 @@
 <!ENTITY offlineFolder.button.label              "Ներբեռնել հիմա">
 <!ENTITY offlineFolder.button.accesskey          "Ն">
 
+<!ENTITY selectofflineNewsgroup.check.label      "Ընտրել այս տեղեկատուախումբը անցանց աւգտագործման համար">
 <!ENTITY offlineNewsgroup.button.label           "Ներբեռնել հիմա">
 <!ENTITY offlineNewsgroup.button.accesskey       "Ն">
 
