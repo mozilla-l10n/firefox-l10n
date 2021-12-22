@@ -8,9 +8,9 @@ provisioner-searching-icon =
 account-provisioner-title = Yeni e-posta adresi oluştur
 account-provisioner-description = Güvenilir iş ortaklarımız aracılığıyla yeni, gizli ve güvenli bir e-posta adresi alabilirsiniz.
 account-provisioner-start-help = Aradığınız terimler, olası e-posta adreslerini bulmak için { -vendor-short-name }’ya (<a data-l10n-name="mozilla-privacy-link">Gizlilik İlkesi</a>) and ve iş ortaklarımız <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">Gizlilik İlkesi</a>, <a data-l10n-name="mailfence-tou-link">Kullanım Koşulları</a>) ile <strong>gandi.net</strong>’e (<a data-l10n-name="gandi-privacy-link">Gizlilik İlkesi</a>, <a data-l10n-name="gandi-tou-link">Kullanım Koşulları</a>) gönderilir.
-account-provisioner-mail-account-title = Yeni bir e-posta adresi satın al
+account-provisioner-mail-account-title = Yeni bir e-posta adresi satın alın
 account-provisioner-mail-account-description = Bizce herkes güvenli bir e-postaya sahip olmalı. Thunderbird size gizlilik yanlısı ve güvenli bir e-posta sunmak için <a data-l10n-name="mailfence-home-link">Mailfence</a> ile işbirliğine gitti.
-account-provisioner-domain-title = Kendime ait bir e-posta ve alan adı satın al
+account-provisioner-domain-title = Kendinize ait bir e-posta ve alan adı satın alın
 account-provisioner-domain-description = Thunderbird, size özel bir alan adı sunmak için <a data-l10n-name="gandi-home-link">Gandi</a> ile işbirliğine gitti. Bu sayede o alan adındaki istediğiniz adresi kullanabilirsiniz.
 
 ## Forms
