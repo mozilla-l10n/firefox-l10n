@@ -37,3 +37,5 @@ items-pane-checkbox-mail-messages = Messages e-mail
 progress-pane-title = Importation
 progress-pane-restart-desc = Reinitiar pro finir de importar.
 error-pane-title = Error
+error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
+error-message-failed = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
