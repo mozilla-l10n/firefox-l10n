@@ -7,7 +7,10 @@
 
 
 <!ENTITY offlineFolder.button.label              "Ներբեռնել հիմա">
+<!ENTITY offlineFolder.button.accesskey          "Ն">
 
+<!ENTITY offlineNewsgroup.button.label           "Ներբեռնել հիմա">
+<!ENTITY offlineNewsgroup.button.accesskey       "Ն">
 
 
 

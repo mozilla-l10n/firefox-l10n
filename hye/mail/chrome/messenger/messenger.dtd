@@ -9,6 +9,11 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY offlineMenu.label "Անցանց">
+<!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
+<!ENTITY synchronizeOfflineCmd.label "Ներբեռնել/Համաժամեցնել հիմա…">
+<!ENTITY synchronizeOfflineCmd.accesskey "Հ">
+<!ENTITY settingsOfflineCmd2.label "Անցանց կարգաւորումներ">
 
 <!-- Edit Menu -->
 
