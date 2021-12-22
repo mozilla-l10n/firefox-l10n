@@ -36,7 +36,7 @@
 <!ENTITY hdrForwardButton1.label "Áfram">
 <!ENTITY hdrForwardButton1.tooltip "Áframsenda þennan póst">
 <!ENTITY hdrJunkButton1.label "Ruslpóstur">
-<!ENTITY hdrJunkButton1.tooltip "Merkja póst sem ruslpóst">
+<!ENTITY hdrJunkButton1.tooltip "Merkja þessi skilaboð sem rusl">
 <!ENTITY hdrTrashButton1.label "Eyða">
 <!ENTITY hdrTrashButton1.tooltip "Eyða pósti">
 
