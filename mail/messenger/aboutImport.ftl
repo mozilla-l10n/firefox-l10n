@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Courriers
 progress-pane-title = Importation
 progress-pane-restart-desc = Redémarrez pour terminer l’importation.
 error-pane-title = Erreur
+error-message-zip-file-too-big = La taille du fichier zip sélectionné est supérieure à 2 Go. Veuillez d’abord l’extraire, puis importer les données à partir du dossier d’extraction.
+error-message-extract-zip-file-failed = Échec de l’extraction du fichier zip. Veuillez plutôt l’extraire manuellement, puis l’importer depuis le dossier extrait.
+error-message-failed = L’importation a échoué de manière inattendue, des informations supplémentaires peuvent être disponibles dans la console d’erreurs.
