@@ -23,9 +23,12 @@ about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 about-private-browsing-info-description = Ilovadan chiqsangiz yoki Maxfiy koʻrish oynalarini yopsangiz, qidiruv va ochilgan saytlar tarixini { -brand-short-name } tozalab tashlaydi. Bu sizni sayt va internet provayderingiz uchun anonim qila olmaydi, lekin bu kompyuterdan foydalanuvchi insonlardan brauzeridagi faoliyatingizni yashirishda yordam beradi.
 about-private-browsing-need-more-privacy = Yanada maxfiy boʻlmoqchimisiz?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ishlatib koʻring
+about-private-browsing-info-description-private-window = Barcha maxfiy oynalarni yopsangiz, maxfiy oyna { -brand-short-name } qidiruv va tarixini tozalab tashlaydi. Bu sizni anonim qila olmaydi.
 about-private-browsing-info-description-simplified = Barcha maxfiy oynalarni yopsangiz, { -brand-short-name } qidiruv va brauzer tarixini tozalaydi, lekin bu bilan siz anonim boʻla olmaysiz.
 about-private-browsing-learn-more-link = Batafsil
 about-private-browsing-hide-activity = Qayerdan internetga kirsangiz ham bajargan amallaringiz va joylashuvingizni yashirishingiz mumkin
+about-private-browsing-get-privacy = Istalgan joyda internetda maxfiy qoling
+about-private-browsing-hide-activity-1 = Brauzerdagi faoliyatingiz va joylashuvingizni { -mozilla-vpn-brand-name } yordamida yashiring. Bir marta bosish yetarli. Hatto ochiq Wi-Fi boʻlsa ham, xavfsiz ulanish yaratiladi.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } bilan maxfiy qoling
 # This string is the title for the banner for search engine selection
 # in a private window.
