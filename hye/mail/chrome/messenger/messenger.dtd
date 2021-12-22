@@ -76,6 +76,7 @@
 <!ENTITY junkStatusColumn.label "Թափաւնի կարգավիճակ">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY junkStatusColumn2.tooltip "Տեսակաւորել ըստ՝ թափաւնի կարգավիճակի։">
 
 <!-- Thread Pane Context Menu -->
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
