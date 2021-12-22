@@ -132,6 +132,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Hiljutised uuendused
 addon-category-recent-updates-title =
     .title = Hiljutised uuendused
+addon-category-sitepermission = Saidi õigused
+addon-category-sitepermission-title =
+    .title = Saidi õigused
 
 ## These are global warnings
 
@@ -282,6 +285,8 @@ dictionary-enabled-heading = Lubatud
 dictionary-disabled-heading = Keelatud
 locale-enabled-heading = Lubatud
 locale-disabled-heading = Keelatud
+sitepermission-enabled-heading = Lubatud
+sitepermission-disabled-heading = Keelatud
 always-activate-button = Alati aktiivne
 never-activate-button = Mitte kunagi aktiivne
 addon-detail-author-label = Autor
@@ -358,6 +363,7 @@ addon-permissions-optional = Valikulised õigused täiendava funktsionaalsuse ja
 addon-permissions-learnmore = Rohkem teavet õiguste kohta
 recommended-extensions-heading = Soovitatavad laiendused
 recommended-themes-heading = Soovitatavad teemad
+addon-sitepermissions-required = Annab saidile <span data-l10n-name="hostname">{ $hostname }</span> järgmised võimekused:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Tunned end loomingulisena? <a data-l10n-name="link">Loo endale oma teema Firefox Coloriga.</a>
@@ -370,6 +376,7 @@ plugin-heading = Pluginate haldamine
 dictionary-heading = Sõnastike haldamine
 locale-heading = Keelte haldamine
 updates-heading = Uuenduste haldamine
+sitepermission-heading = Halda saidi õigusi
 discover-heading = Isikupärasta oma { -brand-short-name }
 shortcuts-heading = Halda laienduste kiirklahve
 default-heading-search-label = Otsi rohkem lisasid
