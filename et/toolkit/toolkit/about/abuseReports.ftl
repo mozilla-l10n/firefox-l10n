@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Raport - { $addon-name }
 abuse-report-title-extension = Raporteeri sellest laiendusest { -vendor-short-name }le
+abuse-report-title-sitepermission = Raporteeri selle saidi õiguste lisast { -vendor-short-name }le
 abuse-report-title-theme = Raporteeri sellest teemast { -vendor-short-name }le
 abuse-report-subtitle = Milles on probleem?
 # Variables:
@@ -39,6 +40,7 @@ abuse-report-messagebar-submitting = Raporti saatmine lisa <span data-l10n-name=
 abuse-report-messagebar-submitted = Täname raporti saatmise eest. Kas soovid lisa <span data-l10n-name="addon-name">{ $addon-name }</span> eemaldada?
 abuse-report-messagebar-submitted-noremove = Täname raporti saatmise eest.
 abuse-report-messagebar-removed-extension = Täname raporti saatmise eest. Lisa <span data-l10n-name="addon-name">{ $addon-name }</span> on eemaldatud.
+abuse-report-messagebar-removed-sitepermission = Täname raporti saatmise eest. Saidi õiguste lisa <span data-l10n-name="addon-name">{ $addon-name }</span> on eemaldatud.
 abuse-report-messagebar-removed-theme = Täname raporti saatmise eest. Teema <span data-l10n-name="addon-name">{ $addon-name }</span> on eemaldatud.
 abuse-report-messagebar-error = Raporti saatmisel lisa <span data-l10n-name="addon-name">{ $addon-name }</span> kohta esines viga.
 abuse-report-messagebar-error-recent-submit = Raportit lisa <span data-l10n-name="addon-name">{ $addon-name }</span> kohta ei saadetud, sest hiljuti saadeti veel üks raport.
@@ -47,6 +49,8 @@ abuse-report-messagebar-error-recent-submit = Raportit lisa <span data-l10n-name
 
 abuse-report-messagebar-action-remove-extension = Jah, eemalda see
 abuse-report-messagebar-action-keep-extension = Ei, las see jääb alles
+abuse-report-messagebar-action-remove-sitepermission = Jah, eemalda see
+abuse-report-messagebar-action-keep-sitepermission = Ei, las see jääb alles
 abuse-report-messagebar-action-remove-theme = Jah, eemalda see
 abuse-report-messagebar-action-keep-theme = Ei, las see jääb alles
 abuse-report-messagebar-action-retry = Proovi uuesti
@@ -65,9 +69,11 @@ abuse-report-settings-suggestions-homepage = Muuda oma avalehte ja uue kaardi le
 abuse-report-deceptive-reason-v2 = Väidab olevat end miski, mida see pole
 abuse-report-deceptive-example = Näide: eksitav kirjeldus või pildid
 abuse-report-broken-reason-extension-v2 = See ei tööta, lõhub veebilehti või aeglustab { -brand-product-name }i
+abuse-report-broken-reason-sitepermission-v2 = See ei tööta, lõhub veebilehti või aeglustab { -brand-product-name }i
 abuse-report-broken-reason-theme-v2 = See ei tööta või teeb brauseri kuvamise katki
 abuse-report-broken-example = Näide: funktsionaalsused on aeglased, raskesti kasutatavad või ei tööta; mõned veebilehed ei laadi või näevad välja ebatavalised
 abuse-report-broken-suggestions-extension = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle laienduse arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta laienduse veebilehte</a>.
+abuse-report-broken-suggestions-sitepermission = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle saidi arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta veebilehte</a>.
 abuse-report-broken-suggestions-theme = Tundub, et oled tuvastanud vea. Lisaks selle raporti saatmisele on parim viis funktsionaalsuse probleemide lahendamiseks võtta ühendust selle teema arendajaga. Arendaja kontaktide leidmiseks <a data-l10n-name="support-link">külasta teema veebilehte</a>.
 abuse-report-policy-reason-v2 = See sisaldab viha õhutavat, vägivaldset või ebaseaduslikku sisu
 abuse-report-policy-suggestions = Märkus: autoriõigusi ja kaubamärke puudutavad probleemid tuleb raporteerida eraldi. Kasuta probleemist raporteerimiseks <a data-l10n-name="report-infringement-link">neid juhiseid</a>.
