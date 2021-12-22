@@ -45,7 +45,7 @@
 <!ENTITY deleteMessagePrefix.label "Þegar ég eyði pósti:">
 <!ENTITY modelMoveToTrash.label "Færa það í þessa möppu:">
 <!ENTITY modelMoveToTrash.accesskey "F">
-<!ENTITY modelMarkDeleted.label "Merkja sem eytt">
+<!ENTITY modelMarkDeleted.label "Bara merkja það sem eytt">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "Fjarlægja strax">
 <!ENTITY modelDeleteImmediately.accesskey "F">

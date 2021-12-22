@@ -600,6 +600,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Ná í póst">
 <!ENTITY folderContextGetMessages.accesskey "N">
+<!ENTITY folderContextMarkAllFoldersRead.label "Merkja allar möppur sem lesnar">
 <!ENTITY folderContextOpenInNewWindow.label "Opna í nýjum glugga">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Opna í nýjum flipa">
