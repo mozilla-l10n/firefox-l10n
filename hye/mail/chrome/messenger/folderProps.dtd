@@ -6,6 +6,8 @@
 
 
 
+<!ENTITY offlineFolder.check.label               "Ընտրել այս պանակը անցանց աւգտագործելու համար">
+<!ENTITY offlineFolder.check.accesskey           "Ը">
 <!ENTITY offlineFolder.button.label              "Ներբեռնել հիմա">
 <!ENTITY offlineFolder.button.accesskey          "Ն">
 
