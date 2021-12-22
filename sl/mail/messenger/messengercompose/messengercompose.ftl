@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -47,7 +47,7 @@ pill-action-expand-list =
     .label = Razširi seznam
     .accesskey = š
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -112,7 +112,7 @@ drop-file-label-inline =
        *[other] Dodaj v vrstico
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Premakni na začetek
@@ -126,14 +126,14 @@ button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Podpiši sporočilo
 message-to-be-encrypted-icon =
     .alt = Šifriraj sporočilo
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Za
@@ -255,3 +255,14 @@ encrypted-bcc-ignore-button = Razumem
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Odstrani oblikovanje besedila
+
+## FileLink messages
+
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Nalaganje { $filename } na { $size } je spodletelo
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Napaka pri preimenovanju
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } ne omogoča preimenovanja že naloženih datotek.
