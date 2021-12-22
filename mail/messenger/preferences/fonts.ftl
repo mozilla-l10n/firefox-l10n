@@ -4,11 +4,9 @@
 
 fonts-encoding-dialog-title =
     .title = Leturgerð og stafatöflur
-
 fonts-language-legend =
     .value = Letur fyrir:
     .accesskey = t
-
 fonts-proportional-label =
     .value = Hlutfallslegt:
     .accesskey = H
@@ -79,41 +77,32 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans Serif
-
 font-size-monospace-label =
     .value = Stærð:
     .accesskey = i
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Jafnstórt:
     .accesskey = J
-
 font-min-size-label =
     .value = Lágmarks leturstærð:
-    .accesskey = æ
-
+    .accesskey = L
 min-size-none =
     .label = Engin
 
 ## Fonts in message
 
 font-control-legend = Stjórna leturgerð
-
 use-document-fonts-checkbox =
     .label = Leyfa póstum að nota aðrar leturgerðir
     .accesskey = o
-
 use-fixed-width-plain-checkbox =
     .label = Nota leturgerð með fasta breidd fyrir venjuleg textaskilaboð
     .accesskey = x
@@ -121,17 +110,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Textakóðun
-
 text-encoding-description = Skilgreina sjálfgefna textakóðun fyrir útsendan og móttekin póst
-
 font-outgoing-email-label =
     .value = Útsendur póstur:
     .accesskey = u
-
 font-incoming-email-label =
     .value = Innsendur póstur:
     .accesskey = I
-
 default-font-reply-checkbox =
     .label = Ef hægt er, nota sjálfgefna textakóðun í svörum
     .accesskey = h

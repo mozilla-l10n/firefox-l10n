@@ -12,6 +12,7 @@ openpgp-keygen-advanced-title = Ítarlegri stillingar
 
 ## Import Key section
 
+openpgp-import-key-list-caption = Lyklar sem merktir eru til að meðhöndla sem einkalykla verða skráðir í hlutann yfir enda-í-enda dulritun. Hinir verða tiltækir í lyklaumsýslunni.
 openpgp-import-fingerprint-label = Fingrafar
 
 ## External Key section
