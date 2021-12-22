@@ -5,6 +5,8 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Til að minnka diskpláss, ekki hlaða niður:">
 <!ENTITY doNotDownloadNntp.label "Til að minnka diskpláss, ekki hlaða niður fyrir ónettengda notkun:">
 <!ENTITY doNotDownloadImap.label "Til að minnka diskpláss, er hægt að takmarka eftir aldri eða stærð hvaða póstum er halað niður og geymdir fyrir ónettengda notkun.">
+<!ENTITY allFoldersOffline2.label "Geyma skilaboð í öllum möppum fyrir þennan reikning á þessari tölvu">
+<!ENTITY allFoldersOfflineNote.label "Athugaðu: Breyting á þessu hefur áhrif á allar möppur á þessum reikningi. Til að stilla einstakar möppur, notaðu Ítarlegt… hnappinn.">
 <!ENTITY offlineNotDownload.label "Póst stærri en">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Ekki sækja stærri skeyti en">
@@ -42,13 +44,13 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label "Samstilla allann póst staðbundið án tillits til aldurs">
-<!ENTITY allAutosync.accesskey "S">
-<!ENTITY ageAutosyncBefore.label "Samstilla nýjustu">
-<!ENTITY ageAutosync.accesskey "t">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Dagar">
-<!ENTITY weekAgeInterval.label "Vikur">
-<!ENTITY monthAgeInterval.label "Mánuðir">
-<!ENTITY yearAgeInterval.label "Ár">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY allAutosync.label               "Samstilla allann póst staðbundið án tillits til aldurs">
+<!ENTITY allAutosync.accesskey           "S">
+<!ENTITY ageAutosyncBefore.label         "Samstilla nýjustu">
+<!ENTITY ageAutosync.accesskey           "t">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dagar">
+<!ENTITY weekAgeInterval.label           "Vikur">
+<!ENTITY monthAgeInterval.label          "Mánuðir">
+<!ENTITY yearAgeInterval.label           "Ár">
+<!ENTITY ageAutosyncAfter.label          "">
