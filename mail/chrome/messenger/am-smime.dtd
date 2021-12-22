@@ -34,11 +34,21 @@
 <!ENTITY technologyAutomatic.label "Valitakse automaatselt vastavalt olemasolevatele võtmetele ja sertidele">
 
 <!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Halda S/MIME serte">
+<!ENTITY manageCerts3.accesskey "H">
+<!ENTITY manageDevices2.label "S/MIME turvaseadmed">
+<!ENTITY manageDevices2.accesskey "t">
 
+<!ENTITY technologySMIME.label "Eelistatatud on S/MIME">
+<!ENTITY technologyOpenPGP.label "Eelistatud on OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Sertifikaadi valimine">
 <!ENTITY certPicker.info  "Sertifikaat:">
 <!ENTITY certPicker.detailsLabel "Valitud sertifikaadi üksikasjad:">
 
+<!ENTITY openpgpKey.message "Isiklik võti krüptimiseks ja digiallkirjastamiseks:">
+<!ENTITY openpgpKey.button "Määra isiklik võti…">
+<!ENTITY openpgpKey.accesskey "i">
