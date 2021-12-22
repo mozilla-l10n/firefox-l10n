@@ -9,7 +9,13 @@
 <!ENTITY e2eeReqWarning.description "Kui vajad krüptimist, siis peab sul olema olemas kõigi adressaatide avalik võti või sert.">
 
 <!ENTITY e2eSigning.description "Digiallkiri võimaldab adressaatidel kontrollida, kas sõnumi saatsid sina ja et selle sisu pole muudetud.">
+<!ENTITY e2eTechPref.description "Eelistatud krüptimistehnoloogia:">
 
+<!ENTITY doNotEncrypt.label "Krüptimist vaikimisi ei lubata">
+<!ENTITY doNotEncrypt.accesskey "e">
+<!ENTITY requireEncryptMessage.label "Krüptimine on vaikimisi nõutud">
+<!ENTITY requireEncryptMessage.accesskey "n">
+<!ENTITY encryptionCert2.message "Isilik krüptimise sert:">
 <!ENTITY digitalSign.certificate.button "Vali...">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Puhasta">
@@ -19,10 +25,15 @@
 <!ENTITY encryption.certificate_clear.button "Puhasta">
 <!ENTITY encryption.certificate_clear.accesskey "h">
 <!ENTITY signingGroupTitle.label "Digiallkirjastamine">
+<!ENTITY signMessage2.label "Minu digiallkiri lisatakse vaikimisi">
 <!ENTITY signMessage.accesskey "K">
+<!ENTITY signingCert2.message "Isiklik sert digiallkirjastamiseks:">
 
+<!ENTITY sendingDefaults.label "Vaikeväärtused kirjade saatmisel">
 
+<!ENTITY technologyAutomatic.label "Valitakse automaatselt vastavalt olemasolevatele võtmetele ja sertidele">
 
+<!ENTITY certificates2.label "S/MIME">
 
 
 
