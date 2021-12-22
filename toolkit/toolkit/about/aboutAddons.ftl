@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Actualizaciones recientes
 addon-category-recent-updates-title =
     .title = Actualizaciones recientes
+addon-category-sitepermission = Permisos del sitio
+addon-category-sitepermission-title =
+    .title = Permisos del sitio
 
 ## These are global warnings
 
@@ -291,6 +294,8 @@ dictionary-enabled-heading = Habilitado
 dictionary-disabled-heading = Deshabilitado
 locale-enabled-heading = Habilitado
 locale-disabled-heading = Deshabilitado
+sitepermission-enabled-heading = Habilitado
+sitepermission-disabled-heading = Deshabilitado
 always-activate-button = Siempre activar
 never-activate-button = Nunca activar
 addon-detail-author-label = Autor
@@ -367,6 +372,7 @@ addon-permissions-optional = Permisos opcionales para funciones adicionales:
 addon-permissions-learnmore = Conocer más sobre permisos
 recommended-extensions-heading = Complementos recomendados
 recommended-themes-heading = Temas recomendados
+addon-sitepermissions-required = Otorga las siguientes capacidades a <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu propio tema con Firefox Color. </a>
