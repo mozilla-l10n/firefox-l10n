@@ -74,6 +74,7 @@ login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -l
 
 ## Login
 
+login-item-new-login-title = Búa til nýja innskráningu
 login-item-edit-button = Breyta
 about-logins-login-item-remove-button = Fjarlægja
 login-item-origin-label = Vistfang vefsvæðis
@@ -95,6 +96,7 @@ login-item-save-new-button = Vista
 login-item-cancel-button = Hætta við
 login-item-time-changed = Síðast breytt: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Created: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Síðast notað: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -127,6 +129,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = flytja út vistaða
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Settu inn aðallykilorðið þitt til að skoða vistaðar innskráningar og lykilorð
 master-password-reload-button =
     .label = Innskráning
     .accesskey = g
@@ -145,19 +148,48 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Fjarlægja
        *[other] Fjarlægja allt
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Já, fjarlægja þessa innskráningu
+        [one] Já, fjarlægja þessa innskráningu
+       *[other] Já, fjarlægja þessar innskráningar
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Fjarlægja { $count } innskráningu?
+       *[other] Fjarlægja allar { $count } innskráningar?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Þetta mun fjarlægja innskráninguna sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
+        [one] Þetta mun fjarlægja innskráninguna sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
+       *[other] Þetta mun fjarlægja innskráningarnar sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Fjarlægja { $count } innskráningu úr öllum tækjum?
+       *[other] Fjarlægja allar { $count } innskráningar úr öllum tækjum?
+    }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Þetta mun fjarlægja innskráninguna sem þú vistaðir í { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
         [one] Þetta mun fjarlægja innskráninguna sem þú vistaðir í { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
        *[other] Þetta mun fjarlægja allar innskráningar sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
     }
+about-logins-confirm-export-dialog-title = Flytja út innskráningar og lykilorð
+about-logins-confirm-export-dialog-message = Lykilorðin þín verða vistuð sem læsilegur texti (t.d. BadP@ssw0rd) svo allir sem geta opnað útfluttu skrána geta skoðað þau.
 about-logins-confirm-export-dialog-confirm-button = Flytja út…
 about-logins-alert-import-title = Innflutningi lokið
+about-logins-alert-import-message = Skoða nákvæmt innflutningsyfirlit
+confirm-discard-changes-dialog-title = Henda óvistuðum breytingum?
+confirm-discard-changes-dialog-message = Allar óvistaðar breytingar munu tapast.
+confirm-discard-changes-dialog-confirm-button = Henda
 
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Innbrot á vefsvæði
 breach-alert-text = Lykilorðum var lekið eða stolið af þessari vefsvæði síðan þú uppfærðir síðast innskráningarupplýsingar þínar. Breyttu lykilorðinu þínu til að vernda reikninginn þinn.
+about-logins-breach-alert-date = Þessi öryggisveila átti sér stað { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Fara á { $hostname }
