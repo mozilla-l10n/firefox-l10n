@@ -40,6 +40,8 @@ flextype-dual = Contenedor o elemento Flex
 remote-node-picker-notice = Selector de nodos de DevTools habilitado. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Haz clic en un elemento para seleccionarlo en el inspector
+# Text displayed in `remote-node-picker-notice`, when the remote page is on Android
+remote-node-picker-notice-action-touch = Toca un elemento para seleccionarlo en el Inspector
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
