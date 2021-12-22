@@ -206,17 +206,55 @@ about-logins-vulnerable-alert-learn-more-link = Fræðast meira
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Færsla fyrir { $loginTitle } með því notandanafni er þegar til staðar. <a data-l10n-name="duplicate-link">Á að fara í fyrirliggjandi færslu?</a>
+# This is a generic error message.
+about-logins-error-message-default = Villa kom upp þegar reynt var að vista þetta lykilorð.
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Flytja út skrá með innskráningum
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = innskraningar.csv
+about-logins-export-file-picker-export-button = Flytja út
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-skjal
+       *[other] CSV-skrá
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Flytja inn skrá með innskráningum
+about-logins-import-file-picker-import-button = Flytja inn
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-skjal
+       *[other] CSV-skrá
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-skjal
+       *[other] TSV-skrá
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Innflutningi lokið
 
 ##
 ## Variables:
