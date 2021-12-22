@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Atualizações recentes
 addon-category-recent-updates-title =
     .title = Atualizações recentes
+addon-category-sitepermission = Permissões do site
+addon-category-sitepermission-title =
+    .title = Permissões do site
 
 ## These are global warnings
 
@@ -292,6 +295,8 @@ dictionary-enabled-heading = Ativado
 dictionary-disabled-heading = Desativado
 locale-enabled-heading = Ativado
 locale-disabled-heading = Desativado
+sitepermission-enabled-heading = Ativado
+sitepermission-disabled-heading = Desativado
 always-activate-button = Sempre ativar
 never-activate-button = Nunca ativar
 addon-detail-author-label = Autor
@@ -368,6 +373,7 @@ addon-permissions-optional = Permissões opcionais para funcionalidades adiciona
 addon-permissions-learnmore = Saiba mais sobre permissões
 recommended-extensions-heading = Extensões recomendadas
 recommended-themes-heading = Temas recomendados
+addon-sitepermissions-required = Concede as seguintes capacidades e <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Sentindo criatividade? <a data-l10n-name="link">Crie seu próprio tema com o Firefox Color.</a>
@@ -380,6 +386,7 @@ plugin-heading = Gerenciamento de plugins
 dictionary-heading = Gerenciamento de dicionários
 locale-heading = Gerenciamento de idiomas
 updates-heading = Gerencie suas atualizações
+sitepermission-heading = Gerenciar suas permissões do site
 discover-heading = Personalize o { -brand-short-name }
 shortcuts-heading = Gerenciar atalhos de extensões
 default-heading-search-label = Encontrar mais extensões
