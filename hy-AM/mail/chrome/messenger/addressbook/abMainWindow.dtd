@@ -42,13 +42,15 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Ջնջել">
 <!ENTITY deleteAbCmd.label                              "Ջնջել Հասցեագիրքը">
+<!ENTITY deleteAbCmd.accesskey                          "D">
+<!ENTITY removeAbCmd.label                              "Հեռացնել Հասցեագիրքը">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Ջնջել կոնտակտը">
 <!ENTITY deleteContactsCmd.label                        "Ջնջել կոնտակտները">
 <!ENTITY deleteListCmd.label                            "Ջնջել ցանկը">
 <!ENTITY deleteListsCmd.label                           "Ջնջել ցանկերը">
 <!ENTITY deleteItemsCmd.label                           "Ջնջել">
 <!ENTITY searchAddressesCmd.key                         "Փ">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Հատկություններ">
 <!ENTITY propertiesMenu.accesskey                       "ո">
 <!ENTITY propertiesCmd.key                              "Հ">
@@ -116,6 +118,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "ն">
 <!ENTITY abPropertiesContext.label                      "Հատկություններ">
 <!ENTITY abPropertiesContext.accesskey                  "ն">
+<!ENTITY syncContext.label                              "Համաժամացնել">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Խմբագրել կոնտակտը">
 <!ENTITY editContactContext.accesskey                   "Խ">
 <!ENTITY editMailingListContext.label                   "Խմբագրել ցանկը">
@@ -128,6 +132,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "պ">
 <!ENTITY deleteButton2.label                            "Ջնջել">
 <!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY removeButton.label                             "Հեռացնել">
+<!ENTITY removeButton.accesskey                         "R">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Նշեք, թե որ սյուները պետք է ցուցադրվեն">
