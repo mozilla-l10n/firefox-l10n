@@ -123,8 +123,10 @@ account-setup-results-area-title =
     }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
+account-setup-result-imap-description = Mantén tus carpetas y correos electrónicos sincronizados en tu servidor
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Mantén tus carpetas y correos electrónicos en tu computadora
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 # Note: Exchange, Office365 are the name of products.
@@ -186,8 +188,10 @@ account-setup-insecure-outgoing-title = Configuraciones de salida:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> no usa cifrado.
+account-setup-warning-cleartext-details = Los servidores de correo inseguros no utilizan conexiones cifradas para proteger tus contraseñas e información privada. Al conectarse a este servidor, podrías exponer tu contraseña e información privada.
 account-setup-insecure-server-checkbox = Entiendo los riesgos
     .accesskey = E
+account-setup-insecure-description = { -brand-short-name } puede permitirte llegar a tu correo, utilizando las configuraciones proporcionadas. Sin embargo, debes contactar a tu administrador o proveedor de correo electrónico con respecto a estas conexiones incorrectas. Mira las <a data-l10n-name="thunderbird-faq-link">preguntas frecuentes de Thunderbird</a> para más información.
 insecure-dialog-cancel-button = Cambiar la configuración
     .accesskey = o
 insecure-dialog-confirm-button = Confirmar
@@ -201,6 +205,7 @@ exchange-dialog-cancel-button = Cancelar
 ## Dismiss account creation dialog
 
 exit-dialog-title = No se configuró ninguna cuenta de correo electrónico
+exit-dialog-description = ¿Estás seguro de que deseas cancelar el proceso de configuración? { -brand-short-name } aún se puede usar sin una cuenta de correo electrónico, pero muchas funciones no estarán disponibles.
 account-setup-no-account-checkbox = Usar { -brand-short-name } sin una cuenta de correo electrónico
     .accesskey = U
 exit-dialog-cancel-button = Continuar la instalación

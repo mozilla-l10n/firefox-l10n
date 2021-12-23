@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = Minimizar
+messenger-window-maximize-button =
+    .tooltiptext = Maximizar
+messenger-window-close-button =
+    .tooltiptext = Cerrar
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -34,6 +43,8 @@ redirect-msg-button =
 
 ## Folder Pane
 
+folder-pane-toolbar-options-button =
+    .tooltiptext = Opciones del panel de carpetas
 folder-pane-header-label = Carpetas
 
 ## Folder Toolbar Header Popup
@@ -100,9 +111,14 @@ mail-context-delete-messages =
             [one] Eliminar mensaje
            *[other] Eliminar mensajes seleccionados
         }
+context-menu-decrypt-to-folder =
+    .label = Copiar como descifrado a
+    .accesskey = y
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Redirigir
 
 ## Action Button Context Menu
 
@@ -117,6 +133,8 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = La dirección está en la libreta de direcciones
+message-header-address-not-in-address-book-icon =
+    .alt = La dirección no está en la libreta de direcciones
 
 ## Add-on removal warning
 
@@ -124,11 +142,17 @@ message-header-address-in-address-book-icon =
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = ¿Eliminar { $name }?
 addon-removal-confirmation-button = Eliminar
+addon-removal-confirmation-message = ¿Eliminar { $name }, así como su configuración y datos de { -brand-short-name }?
 caret-browsing-prompt-title = Navegación con cursor
+caret-browsing-prompt-text = Presionando F7 habilita o deshabilita la navegación con cursor. Esta característica coloca un cursor movible dentro de algún contenido, permitiéndote seleccionar texto con el teclado. ¿Quieres activar la navegación con cursor?
 caret-browsing-prompt-check-text = No volver a preguntar.
+repair-text-encoding-button =
+    .label = Reparar la codificación de texto
+    .tooltiptext = Escribe la codificación de texto correcta del contenido del mensaje
 
 ## no-reply handling
 
+no-reply-title = Respuesta no admitida
 no-reply-reply-anyway-button = Responder de todos modos
 
 ## error messages
