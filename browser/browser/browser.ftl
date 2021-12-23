@@ -340,6 +340,13 @@ popup-select-camera-device =
     .accesskey = C
 popup-select-camera-icon =
     .tooltiptext = Խցիկ
+popup-select-microphone-device =
+    .value = Խոսափող.
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Խոսափող
+popup-select-speaker-icon =
+    .tooltiptext = Բարձրախոսներ
 popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:
 popup-screen-sharing-block =
     .label = Արգելել
@@ -419,14 +426,25 @@ urlbar-result-action-switch-tab = Փոխանջատել ներդիրը
 urlbar-result-action-visit = Այցելել
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճենել
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-history = Որոնման պատմություն
+urlbar-result-action-search-tabs = Որոնել ներդիրներ
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Full Screen and Pointer Lock UI
 
@@ -448,9 +466,15 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 crashed-subframe-learnmore-link =
     .value = Իմանալ ավելին
+crashed-subframe-submit =
+    .label = Ուղարկել զեկույց
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Կառավարեք էջանիշները
+bookmarks-recent-bookmarks-panel-subheader = Վերջին Էջանիշերը
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
 bookmarks-sidebar-content =
@@ -568,6 +592,7 @@ eme-notifications-drm-content-playing = Այս կայքում որոշ ձայն�
 eme-notifications-drm-content-playing-manage = Կառավարել կարգավորումները
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Բաց թողնել
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
@@ -576,6 +601,9 @@ panel-save-update-password = Գաղտնաբառ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Հեռացնե՞լ { $name }-ը:
 
 ## Remote / Synced tabs
 

@@ -68,6 +68,8 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Մուտք գործեք՝ համաժամեցնելու համար…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
