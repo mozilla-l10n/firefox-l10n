@@ -23,7 +23,7 @@
 <!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Bæta við Afrit svæði">
 <!ENTITY addtoCcFieldMenu.accesskey         "A">
-<!ENTITY addtoBccFieldMenu.label            "Bæta við í Falið afrit svæði">
+<!ENTITY addtoBccFieldMenu.label            "Bæta í 'Falið afrit' reit">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Eyða">
 <!ENTITY deleteAddrBookCard.accesskey       "E">
@@ -45,5 +45,5 @@
 <!ENTITY toButton.accesskey                 "a">
 <!ENTITY ccButton.label                     "Bæta við í Afrit:">
 <!ENTITY ccButton.accesskey                 "æ">
-<!ENTITY bccButton.label                    "Bæta við í falið afrit:">
+<!ENTITY bccButton.label                    "Bæta við í Falið afrit:">
 <!ENTITY bccButton.accesskey                "B">

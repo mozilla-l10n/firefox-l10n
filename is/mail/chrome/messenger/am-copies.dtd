@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-copies.xul -->
-
 <!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Afrit og möppur">
@@ -19,7 +17,7 @@
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Senda falið afrit á þessi tölvupóstföng:">
 <!ENTITY bccAddress.accesskey "ö">
-<!ENTITY bccAddressList.placeholder "Aðskildu tölvupóstföng með kommum">
+<!ENTITY bccAddressList.placeholder "Aðgreindu tölvupóstföng með kommum">
 <!ENTITY saveMessageDlg.label "Birta staðfestingarglugga þegar póstur er vistaður">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

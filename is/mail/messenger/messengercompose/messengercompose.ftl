@@ -8,6 +8,21 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Fjarlægja { $type } reitinn
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } með einu póstfangi, notaðu vinstri örvatakkann til að gera það virkt.
+       *[other] { $type } með { $count } póstföng, notaðu vinstri örvatakkann til að gera þau virk.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: ýttu á 'Enter' til að breyta, 'Delete' til að fjarlægja.
+       *[other] { $email }, 1 af { $count }: ýttu á 'Enter' til að breyta, 'Delete' til að fjarlægja.
+    }
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } er ekki gilt tölvupóstfang
 #   $email (String) - the email address
@@ -16,14 +31,14 @@ pill-action-edit =
     .label = Breyta póstfangi
     .accesskey = B
 pill-action-move-to =
-    .label = Færa til Til
+    .label = Færa í Til
     .accesskey = T
 pill-action-move-cc =
-    .label = Færa til Cc
-    .accesskey = C
+    .label = Færa í Afrit
+    .accesskey = A
 pill-action-move-bcc =
-    .label = Færa til Bcc
-    .accesskey = B
+    .label = Færa í Falið afrit
+    .accesskey = F
 pill-action-expand-list =
     .label = Stækka lista
     .accesskey = l
@@ -142,6 +157,7 @@ many-public-recipients-prompt-send = Senda samt
 
 ## Notifications
 
+encrypted-bcc-ignore-button = Skilið
 
 ## Editing
 
