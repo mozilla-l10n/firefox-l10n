@@ -20,6 +20,9 @@ about-webrtc-aec-logging-off-state-label = Avvia registrazione AEC
 about-webrtc-aec-logging-on-state-label = Interrompi registrazione AEC
 about-webrtc-aec-logging-on-state-msg = Registrazione AEC attiva (parlare per qualche minuto con un interlocutore e interrompere la registrazione)
 
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Aggiorna automaticamente
+
 ##
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
