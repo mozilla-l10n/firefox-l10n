@@ -12,5 +12,7 @@
 <!ENTITY iconsBesideText.label    "Ikoonid teksti kõrval">
 <!ENTITY useSmallIcons.label      "Kasutatakse väikseid ikoone">
 <!ENTITY restoreDefaultSet.label  "Taasta algsätted">
+<!ENTITY showTitlebar2.label      "Tiitliriba">
+<!ENTITY extraDragSpace2.label    "Lohistamise ala">
 <!ENTITY saveChanges.label        "Valmis">
 <!ENTITY undoChanges.label        "Võta muudatused tagasi">
