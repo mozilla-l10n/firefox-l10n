@@ -5,5 +5,6 @@
 account-encryption =
     .label = Enda-í-enda dulritun
 account-otr-label = Skilaboð-án-skráningar (OTR)
+otr-encryption-caption = Til að gera öðrum kleift að staðfesta hver þú ert í OTR-spjalli (Off-the-Record einkaspjall) skaltu deila þínu eigin OTR-fingrafari með einhverjum öðrum samskiptaleiðum.
 otr-fingerprint-label = Fingrafarið þitt:
 otr-settings-title = OTR-stillingar

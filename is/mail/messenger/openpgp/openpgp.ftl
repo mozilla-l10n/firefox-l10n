@@ -82,6 +82,7 @@ openpgp-manager-button =
     .accesskey = k
 # Strings in keyDetailsDlg.xhtml
 key-type-public = dreifilykill
+key-accept-warning = Forðastu að samþykkja hvaða lykil sem er. Notaðu aðra samskiptamáta en tölvupóst til að staðfesta fingrafar lykils viðmælanda þíns.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Hætt við
 # Strings in gpg.jsm
