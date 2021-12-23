@@ -50,14 +50,33 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Cerrar
     .accesskey = C
+openpgp-keygen-long-expiry = No puedes crear una clave que expira en más de 100 años.
+openpgp-keygen-short-expiry = Tu clave debe ser válida por al menos un día.
+openpgp-keygen-ongoing = ¡La generación de claves ya está en progreso!
+openpgp-keygen-error-core = No se puede inicializar el servicio principal de OpenPGP
+openpgp-keygen-error-failed = La generación de la clave OpenPGP falló inesperadamente
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = La clave OpenPGP se creó correctamente, pero no se pudo obtener la revocación de la clave { $key }
+openpgp-keygen-abort-title = ¿Abortar la generación de claves?
+openpgp-keygen-abort = La generación de la clave OpenPGP actualmente esta en progreso, ¿estás seguro de que deseas cancelarla?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = ¿Generar clave pública y secreta para { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Importar una clave OpenPGP personal existente
+openpgp-import-key-legend = Selecciona un archivo previamente respaldado.
+openpgp-import-key-description = Puedes importar las claves personales que se crearon con otro software OpenPGP.
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Ingresa la frase de contraseña para desbloquear la siguiente clave: { $key }
 openpgp-import-key-button =
     .label = Seleccionar archivo para importar…
     .accesskey = S
 import-key-file = Importar archivo de clave OpenPGP
+import-key-personal-checkbox =
+    .label = Trata esta clave como una clave personal
 gnupg-file = Archivos GnuPG
+import-error-file-size = <b>¡Error!</b> No se admiten archivos de más de 5MB.
 #   $error (String) - the reported error from the failed key import method
 import-error-failed = <b>¡Error!</b> No se pudo importar el archivo. { $error }
 #   $error (String) - the reported error from the failed key import method
@@ -73,5 +92,10 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Clave GnuPG externa
+openpgp-external-key-description = Configura una clave GnuPG externa ingresando el ID de la clave
+openpgp-external-key-info = Además, debes utilizar el Administrador de claves para importar y aceptar la clave pública correspondiente.
+openpgp-external-key-warning = <b>Puedes configurar solo una clave GnuPG externa.</b> Tu entrada anterior será reemplazada.
+openpgp-save-external-button = Guardar ID de la clave
+openpgp-external-key-label = ID de la clave secreta:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
