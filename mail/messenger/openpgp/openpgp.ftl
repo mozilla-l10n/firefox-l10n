@@ -166,7 +166,14 @@ key-usage-encrypt = Cifrar
 key-usage-sign = Firma
 key-usage-certify = Certificar
 key-usage-authentication = Autenticación
+key-does-not-expire = La clave no caduca
+key-expired-date = La clave caduco el { $keyExpiry }
+key-expired-simple = La clave ha caducado
+key-revoked-simple = La clave fue revocada
 filter-term-pgpencrypted-label = OpenPGP cifrado
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Claves importadas con ¡Éxito!
 import-info-bits = Bits
 import-info-created = Creado
 import-info-fpr = Huella digital
