@@ -37,3 +37,4 @@ items-pane-checkbox-mail-messages = Messaggi di posta
 progress-pane-title = Importazione
 progress-pane-restart-desc = Riavvia per completare l’importazione.
 error-pane-title = Errore
+error-message-failed = Importazione non riuscita per un errore inatteso; potrebbero essere disponibili ulteriori informazioni nella console degli errori.
