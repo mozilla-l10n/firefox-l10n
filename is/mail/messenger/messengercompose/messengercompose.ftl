@@ -157,6 +157,7 @@ many-public-recipients-prompt-send = Senda samt
 
 ## Notifications
 
+encrypted-bcc-warning = Þegar þú sendir dulrituð skilaboð eru viðtakendur í 'Falinn afrit' ekki að fullu faldir. Aðrir viðtakendur gætu borið kennsl á þá.
 encrypted-bcc-ignore-button = Skilið
 
 ## Editing
