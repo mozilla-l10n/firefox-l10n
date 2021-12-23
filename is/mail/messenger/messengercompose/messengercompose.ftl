@@ -69,6 +69,50 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Birta { bcc-compose-address-row-label.value } reit ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = { $count } viðtakendur í 'Til' og 'Afrit' munu sjá heimilisfang hvers annars. Þú getur forðast að gefa upp viðtakendur með því að nota 'Falið afrit' í staðinn.
+to-address-row-label =
+    .value = Til
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Til-reitur
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Til
+    .accesskey = T
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Til
+    .title = Birta Til-reit ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Afrit
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Afrit-reitur
+    .accesskey = A
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Afrit
+    .accesskey = A
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Afrit
+    .title = Birta Afrit-reit ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Falið afrit
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Falið afrit-reitur
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Falið afrit
+    .accesskey = F
 
 ## Notifications
 
