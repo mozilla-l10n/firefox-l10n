@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xhtml -->
 
-<!ENTITY addressing.label          "Samsetning og póstföng">
+<!ENTITY addressing.label          "Samning skilaboða og póstföng">
 <!ENTITY addressingGroupTitle.label "Póstföng">
 <!ENTITY addressingText.label      "Þegar póstföngum er flett upp:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xhtml -->
 
-<!ENTITY compositionGroupTitle.label          "Samsetning">
+<!ENTITY compositionGroupTitle.label          "Samsetning skilaboða">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Búa til póst á HTML sniði">
 <!ENTITY useHtml.accesskey                    "B">

@@ -4,11 +4,11 @@
 
 <!ENTITY identityListDesc.label "Stilla stillingar fyrir þetta auðkenni:">
 
-<!ENTITY settingsTab.label "Stillingar">
+<!ENTITY settingsTab.label       "Stillingar">
 <!ENTITY copiesFoldersTab.label "Afrit og möppur">
-<!ENTITY addressingTab.label "Samsetning og póstföng">
+<!ENTITY addressingTab.label    "Samning skilaboða og póstföng">
 
-<!ENTITY publicData.label "Opinber gögn">
-<!ENTITY privateData.label "Persónuleg gögn">
-<!ENTITY identityAlias.label "Auðkennis merking:">
+<!ENTITY publicData.label        "Opinber gögn">
+<!ENTITY privateData.label       "Persónuleg gögn">
+<!ENTITY identityAlias.label     "Auðkennis merking:">
 <!ENTITY identityAlias.accesskey "ð">
