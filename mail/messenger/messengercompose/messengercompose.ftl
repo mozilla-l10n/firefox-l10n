@@ -113,6 +113,32 @@ show-bcc-row-main-menuitem =
 show-bcc-row-extra-menuitem =
     .label = Falið afrit
     .accesskey = F
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Falið afrit
+    .title = Birta Falið afrit-reit ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Aðrir póstfangsreitir til að birta
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Skilaboðin þín eru með opinberan viðtakanda. Þú getur forðast að gefa upp viðtakendur með því að nota 'Falið afrit' í staðinn.
+       *[other] { $count } viðtakendur í 'Til' og 'Afrit' munu sjá heimilisfang hvers annars. Þú getur forðast að gefa upp viðtakendur með því að nota 'Falið afrit' í staðinn.
+    }
+many-public-recipients-bcc =
+    .label = Nota 'Falið afrit' í staðinn
+    .accesskey = o
+many-public-recipients-ignore =
+    .label = Halda viðtakendum opinberum
+    .accesskey = d
+many-public-recipients-prompt-title = Of margir opinberir viðtakendur
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Skilaboðin þín eru með opinberan viðtakanda, sem munu geta séð póstföng hvers annars. Þetta gæti verið vandamál hvað varðar persónuvernd. Þú getur forðast að gefa upp viðtakendur með því að færa viðtakendur úr 'Til/Afrit' í 'Falið afrit' í staðinn.
+       *[other] Skilaboðin þín eru með { $count } opinbera viðtakendur, sem munu geta séð póstföng hvers annars. Þetta gæti verið vandamál hvað varðar persónuvernd. Þú getur forðast að gefa upp viðtakendur með því að færa viðtakendur úr 'Til/Afrit' í 'Falið afrit' í staðinn.
+    }
+many-public-recipients-prompt-cancel = Hætta við að senda
+many-public-recipients-prompt-send = Senda samt
 
 ## Notifications
 
