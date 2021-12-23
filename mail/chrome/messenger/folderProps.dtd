@@ -52,6 +52,7 @@
 <!ENTITY privileges.button.label                 "Heimildir…">
 <!ENTITY privileges.button.accesskey             "H">
 <!ENTITY permissionsDesc.label                   "Þú hefur eftirfarandi réttindi:">
+<!ENTITY folderOtherUsers.label                  "Aðrir með aðgang að þessari möppu:">
 <!ENTITY folderType.label                        "Möppu tegund:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóti">

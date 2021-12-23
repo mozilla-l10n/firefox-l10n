@@ -10,8 +10,8 @@
 <!ENTITY letter.accessKey "S">
 <!ENTITY character.label "Stafur:">
 <!ENTITY character.accessKey "t">
-<!ENTITY accentUpper.label "Kommu hástafir">
-<!ENTITY accentLower.label "Kommu lágstafir">
+<!ENTITY accentUpper.label "Broddhástafir">
+<!ENTITY accentLower.label "Broddlágstafir">
 <!ENTITY otherUpper.label "Aðrir hástafir">
 <!ENTITY otherLower.label "Aðrir lágstafir">
 <!ENTITY commonSymbols.label "Almenn tákn">
