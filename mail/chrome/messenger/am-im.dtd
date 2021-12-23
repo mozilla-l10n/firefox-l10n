@@ -10,7 +10,7 @@
 <!ENTITY account.password              "Lykilorð:">
 <!ENTITY account.alias                 "Auðkenni:">
 <!ENTITY account.newMailNotification   "Tilkynna nýjan póst">
-<!ENTITY account.autojoin              "Sjálfvirkt tengdar rásir:">
+<!ENTITY account.autojoin              "Sjálfvirkt tengdar spjallrásir:">
 <!ENTITY account.proxySettings.caption "Stillingar milliþjóns (proxy):">
 <!ENTITY account.proxySettings.change.label     "Breyta…">
 <!ENTITY account.proxySettings.change.accessKey "B">
