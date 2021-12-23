@@ -44,17 +44,29 @@ policy-ExtensionSettings = Administrar todos los aspectos de la instalación de 
 policy-ExtensionUpdate = Habilitar o deshabilitar la actualización automática de extensiones.
 policy-HardwareAcceleration = Si el valor es falso, se desactiva la aceleración por hardware.
 policy-InstallAddonsPermission = Permitir a ciertos sitios instalar complementos.
+policy-LegacyProfiles = Deshabilitar la función que obliga a tener un perfil separado para cada instalación.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamiento tradicional de SameSite para las cookies en sitios específicos.
 
 ##
 
+# PDF.js and PDF should not be translated
+policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF integrado en { -brand-short-name }.
+policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
+policy-Preferences = Establecer y bloquear el valor para un subconjunto de preferencias.
+policy-PrimaryPassword = Requerir o evitar el uso de una contraseña maestra.
 policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos al descargar.
 policy-Proxy = Configurar ajustes de proxy.
+policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
 policy-SanitizeOnShutdown2 = Borrar datos de navegación al cerrar.
+policy-SearchEngines = Configurar los ajustes de motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
 policy-UserMessaging = No mostrar ciertos mensajes al usuario.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloquear sitios web para que no sean visitados. Consulta la documentación para obtener más detalles sobre el formato.
