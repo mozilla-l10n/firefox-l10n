@@ -61,7 +61,7 @@ extension-controlled-privacy-containers = Viðbót, <img data-l10n-name="icon"/>
 extension-controlled-websites-content-blocking-all-trackers = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Viðbót, <img data-l10n-name="icon"/> { $name }, er að stjórna hvernig { -brand-short-name } tengist við Internetið.
+extension-controlled-proxy-config = Viðbótin <img data-l10n-name="icon"/> { $name }, er að stjórna hvernig { -brand-short-name } tengist við internetið.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -338,8 +338,8 @@ browsing-cfr-recommendations-learn-more = Fræðast meira
 
 ## General Section - Proxy
 
-network-settings-title = Netstillingar
-network-proxy-connection-description = Stilla hvernig { -brand-short-name } tengist við Internetið.
+network-settings-title = Stillingar netkerfis
+network-proxy-connection-description = Stilla hvernig { -brand-short-name } tengist við internetið.
 network-proxy-connection-learn-more = Fræðast meira
 network-proxy-connection-settings =
     .label = Stillingar…
