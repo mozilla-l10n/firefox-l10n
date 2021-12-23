@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
 about-rights-notification-text = { -brand-short-name } er frjás og opinn hugbúnaður, smíðaður af samfélagi þúsunda þáttakenda alls staðar að úr heiminum.
 
 ## Content tabs
@@ -30,6 +33,12 @@ show-favorite-folders-label =
 
 ## Message header pane
 
+message-header-msg-flagged =
+    .title = Stjörnumerkt
+    .aria-label = Stjörnumerkt
+message-header-msg-not-flagged =
+    .title = Ekki stjörnumerkt
+    .aria-label = Ekki stjörnumerkt
 
 ## Action Button Context Menu
 

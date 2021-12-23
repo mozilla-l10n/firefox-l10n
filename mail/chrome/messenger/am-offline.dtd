@@ -13,7 +13,7 @@
 <!ENTITY autosyncNotDownload.accesskey "E">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "daga gömlum">
-<!ENTITY message.label "bréfum">
+<!ENTITY message.label "skilaboðum">
 <!ENTITY nntpNotDownloadRead.label "Lesinn póstur">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Póstur eldri en">
@@ -21,13 +21,13 @@
 <!ENTITY retentionCleanup.label "Til að endurheimta diskpláss, er hægt að eyða gömlum pósti varanlega.">
 <!ENTITY retentionCleanupImap.label "Til að endurheimta diskpláss, er hægt að eyða gömlum pósti varanlega, bæði staðbundnu afriti og upprunalegum pósti á netþjóninum.">
 <!ENTITY retentionCleanupPop.label "Til að endurheimta diskpláss, er hægt að eyða gömlum pósti varanlega, einnig upprunalegum pósti á netþjóninum.">
-<!ENTITY retentionKeepMsg.label "Eyða bréfum eldri en">
+<!ENTITY retentionKeepMsg.label "Eyða skilaboðum eldri en">
 <!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Ekki eyða neinum bréfum">
+<!ENTITY retentionKeepAll.label "Ekki eyða neinum skilaboðum">
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Eyða öllu nema nýjustu">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerktan póst">
+<!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerkt skilaboð">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Fjarlægja meginmál úr bréfum eldri en">
 <!ENTITY nntpRemoveMsgBody.accesskey "F">
