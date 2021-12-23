@@ -45,8 +45,8 @@ about-telemetry-hide-stack-symbols = Sýna hrá staflagögn
 #   $channel (String): represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
-        [release] sleppa gögnum
-       *[prerelease] for-gögn
+        [release] gögn útgáfunnar
+       *[prerelease] forútgáfugögn
     }
 # Selects the correct upload string
 # Variables:

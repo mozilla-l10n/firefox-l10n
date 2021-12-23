@@ -23,7 +23,7 @@ update-otherInstanceHandlingUpdates = Verið er að uppfæra { -brand-short-name
 update-manual = Uppfærslur eru fáanlegar frá <label data-l10n-name="manual-link"/>
 update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <label data-l10n-name="unsupported-link">Frekari upplýsingar</label>
 update-restarting = Endurræsir…
-channel-description = Þú ert núna á <label data-l10n-name="current-channel"></label> uppfærslu rásinni.{ " " }
+channel-description = Þú ert núna á <label data-l10n-name="current-channel"></label> uppfærslurásinni.
 warningDesc-version = { -brand-short-name } er tilraunakenndur og gæti verið óstöðugur.
 aboutdialog-help-user = { -brand-product-name } hjálp
 aboutdialog-submit-feedback = Senda álit
