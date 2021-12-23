@@ -17,7 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = 删除配置文件…
     .accesskey = D
-profile-selection-conflict-message = 有另一份 { -brand-product-name } 对配置文件作了更改。您必须重新启动 { -brand-short-name } 才能再作变更。
+profile-selection-conflict-message = 有另一份 { -brand-product-name } 对配置文件作了更改。您必须重启 { -brand-short-name } 才能再作变更。
 
 ## Messages used in the profile manager
 
