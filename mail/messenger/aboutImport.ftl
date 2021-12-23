@@ -37,3 +37,5 @@ items-pane-checkbox-mail-messages = 邮件消息
 progress-pane-title = 正在导入…
 progress-pane-restart-desc = 重启客户端以完成导入。
 error-pane-title = 错误
+error-message-zip-file-too-big = 所选的 ZIP 文件大于 2GB。请先解压缩，然后从解压缩的文件夹中导入。
+error-message-failed = 导入意外失败，错误控制台中可能提供有更多信息。
