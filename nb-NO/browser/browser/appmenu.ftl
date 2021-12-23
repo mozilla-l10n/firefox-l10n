@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Forhåndsinnstilt for å undersøke lyd- og videoproblemer i { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-networking-description = Forhåndsinnstilt for å undersøke nettverksfeil i { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Nettverk
 profiler-popup-presets-custom-label =
     .label = Tilpasset
 
