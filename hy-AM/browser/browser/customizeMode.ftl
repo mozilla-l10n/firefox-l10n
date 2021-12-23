@@ -37,6 +37,7 @@ customize-mode-undo-cmd =
     .label = Հետարկել
 customize-mode-lwthemes-my-themes =
     .value = Իմ ձևավորումները
+customize-mode-lwthemes-link = Կառավարեք ոճերը
 customize-mode-touchbar-cmd =
     .label = Հարմարեցնել Հպման փեղկը...
 customize-mode-downloads-button-autohide =

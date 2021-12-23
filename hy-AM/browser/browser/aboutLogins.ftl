@@ -251,6 +251,7 @@ about-logins-import-dialog-error-cancel = Չեղարկել
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-missing-field = Սխալ․ բացակայում է { $field }
 
 ##
 ## Variables:
