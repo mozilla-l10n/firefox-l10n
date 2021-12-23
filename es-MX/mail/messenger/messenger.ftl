@@ -9,6 +9,8 @@ messenger-window-minimize-button =
     .tooltiptext = Minimizar
 messenger-window-maximize-button =
     .tooltiptext = Maximizar
+messenger-window-restore-down-button =
+    .tooltiptext = Restaurar abajo
 messenger-window-close-button =
     .tooltiptext = Cerrar
 # Variables:
@@ -43,6 +45,9 @@ redirect-msg-button =
 
 ## Folder Pane
 
+folder-pane-toolbar =
+    .toolbarname = Barra de herramientas del panel de la carpeta
+    .accesskey = p
 folder-pane-toolbar-options-button =
     .tooltiptext = Opciones del panel de carpetas
 folder-pane-header-label = Carpetas
@@ -153,7 +158,9 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Respuesta no admitida
+no-reply-message = La dirección de respuesta ({ $email }) no parece ser una dirección supervisada. Es probable que los mensajes a esta dirección no sean leídos por nadie.
 no-reply-reply-anyway-button = Responder de todos modos
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } de { $total } mensajes no pudieron ser descifrados y no fueron copiados.
