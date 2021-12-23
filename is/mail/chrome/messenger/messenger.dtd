@@ -100,7 +100,7 @@
 <!ENTITY selectThreadCmd.label "Umræða">
 <!ENTITY selectThreadCmd.accesskey "U">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Stjörnumerktur póstur">
+<!ENTITY selectFlaggedCmd.label "Stjörnumerkt skilaboð">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Eftirlætismappa">
 <!ENTITY menuFavoriteFolder.accesskey "t">

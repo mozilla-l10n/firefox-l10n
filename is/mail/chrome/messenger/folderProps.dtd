@@ -26,7 +26,7 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Eyða öllum nema nýjustu">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerkt bréf">
+<!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerkt skilaboð">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Samstilling">
