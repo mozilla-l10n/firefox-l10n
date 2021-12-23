@@ -215,6 +215,7 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY extraRecipients.tooltip "Aðrar gerðir af póstfangsreitum">
 <!ENTITY fromAddr2.label "Frá">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY replyAddr2.label "Svara-til">
