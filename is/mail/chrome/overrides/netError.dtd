@@ -96,7 +96,7 @@
 <!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingum">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Athugaðu milliþjóna stillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li>
+  <li>Athugaðu milliþjónastillingar netþjóns til að ganga úr skugga um að þær séu réttar.</li>
   <li>Hafðu samband við netkerfisstjóra til að athuga hvort milliþjónn sé
     virkur.</li>
 </ul>
