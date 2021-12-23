@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = 最小化
+messenger-window-maximize-button =
+    .tooltiptext = 最大化
+messenger-window-restore-down-button =
+    .tooltiptext = 向下还原
+messenger-window-close-button =
+    .tooltiptext = 关闭
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
