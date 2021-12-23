@@ -56,9 +56,9 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = 必须重新启动 { -brand-short-name } 才能启用此功能。
-feature-disable-requires-restart = 必须重新启动 { -brand-short-name } 才能禁用此功能。
-should-restart-title = 重新启动 { -brand-short-name }
+feature-enable-requires-restart = 必须重启 { -brand-short-name } 才能启用此功能。
+feature-disable-requires-restart = 必须重启 { -brand-short-name } 才能禁用此功能。
+should-restart-title = 重启 { -brand-short-name }
 should-restart-ok = 立即重启 { -brand-short-name }
 cancel-no-restart-button = 取消
 restart-later = 稍后重启浏览器
