@@ -29,7 +29,7 @@
 <!ENTITY retentionKeepRecent.accesskey "E">
 <!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerkt skilaboð">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Fjarlægja meginmál úr bréfum eldri en">
+<!ENTITY nntpRemoveMsgBody.label "Fjarlægðu lík úr skilaboðum eldri en">
 <!ENTITY nntpRemoveMsgBody.accesskey "F">
 <!ENTITY offlineSelectNntp.label "Veldu fréttahópa fyrir ónettengda notkun…">
 <!ENTITY offlineSelectNntp.accesskey "V">
