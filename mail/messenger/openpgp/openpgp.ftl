@@ -184,11 +184,15 @@ dlg-button-delete = &Eliminar
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
+# Strings in key.jsm
+already-revoked = Esta clave ya ha sido revocada.
 key-man-button-revoke-key = &Revocar clave
+openpgp-key-revoke-success = Clave revocada exitosamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
+key-in-use-title = Clave OpenPGP actualmente en uso
 # Strings used in trust.jsm
 key-valid-unknown = desconocido
 key-valid-invalid = no válido
@@ -204,11 +208,16 @@ key-man-button-generate-key = &Generar clave
 
 # Strings used in enigmailMessengerOverlay.js
 
+msg-ovl-button-cont-anyway = &Continuar de todas formas
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Enviar mensaje
 msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
+sig-mismatch = Error - Falta de coincidencia de la firma
+invalid-email = Error - dirección o direcciones de correo no válidas
 dlg-button-view = &Ver
+# Strings used in encryption.jsm
+not-required = Error - no se requiere cifrado
 repeat-suffix-singular = más tiempo.
 repeat-suffix-plural = más veces.
 dlg-button-close = &Cerrar
