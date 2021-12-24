@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debes configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
+e2e-intro-description-more = Seleccione tu clave personal para habilitar el uso de OpenPGP, o tu certificado personal para habilitar el uso de S/MIME. Para una clave personal o un certificado, posees la clave secreta correspondiente.
+e2e-encrypt-subject =
+    .label = Cifrar el asunto de los mensajes OpenPGP
+    .accesskey = b
+e2e-encrypt-drafts =
+    .label = Almacenar borradores de mensajes en formato cifrado
+    .accesskey = r
 openpgp-key-user-id-label = Cuenta / ID de usuario
 openpgp-keygen-title-label =
     .title = Generar clave OpenPGP
@@ -94,6 +102,9 @@ openpgp-key-man-ctx-copy-public-keys =
     .accesskey = P
 openpgp-key-man-close =
     .label = Cerrar
+openpgp-key-man-reload =
+    .label = Recargar caché de claves
+    .accesskey = R
 openpgp-key-man-change-expiry =
     .label = Cambiar fecha de vencimiento
     .accesskey = e
@@ -112,8 +123,24 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = Más
     .accesskey = M
+openpgp-key-man-view-photo =
+    .label = ID de foto
+    .accesskey = P
+openpgp-key-man-ctx-view-photo-label =
+    .label = Ver ID de foto
+openpgp-key-man-show-invalid-keys =
+    .label = Mostrar claves no válidas
+    .accesskey = D
+openpgp-key-man-show-others-keys =
+    .label = Mostrar claves de otras personas
+    .accesskey = O
 openpgp-key-man-user-id-label =
     .label = Nombre
+openpgp-key-man-fingerprint-label =
+    .label = Huella dactilar
+openpgp-key-man-select-all =
+    .label = Seleccionar todas las claves
+    .accesskey = A
 openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
@@ -184,6 +211,7 @@ dlg-button-delete = &Eliminar
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
+user-att-photo = Atributo de usuario (imagen JPEG)
 # Strings in key.jsm
 already-revoked = Esta clave ya ha sido revocada.
 key-man-button-revoke-key = &Revocar clave
