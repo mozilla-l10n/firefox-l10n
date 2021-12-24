@@ -141,15 +141,26 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Seleccionar todas las claves
     .accesskey = A
+openpgp-key-man-filter-label =
+    .placeholder = Buscar claves
 openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
+openpgp-key-details-title =
+    .title = Propiedades de la clave
+openpgp-key-details-signatures-tab =
+    .label = Certificaciones
 openpgp-key-details-structure-tab =
     .label = Estructura
+openpgp-key-details-uid-certified-col =
+    .label = ID de usuario / Certificado por
+openpgp-key-details-user-id2-label = Presunto propietario de la clave
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Tipo
+openpgp-key-details-key-part-label =
+    .label = Parte de la clave
 openpgp-key-details-algorithm-label =
     .label = Algoritmo
 openpgp-key-details-size-label =
@@ -172,11 +183,15 @@ openpgp-add-key-button =
     .label = Agregar clave…
     .accesskey = A
 e2e-learn-more = Saber más
+openpgp-keygen-success = ¡Clave OpenPGP creada con éxito!
+openpgp-keygen-import-success = ¡Claves OpenPGP importadas con éxito!
+openpgp-keygen-external-success = ¡Se ha guardado el ID de clave GnuPG externo!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Ninguno
+openpgp-radio-none-desc = No usar OpenPGP para esta identidad.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira el: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
@@ -197,6 +212,7 @@ key-does-not-expire = La clave no caduca
 key-expired-date = La clave caduco el { $keyExpiry }
 key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
+keyserver-error-unknown = Se produjo un error desconocido
 filter-term-pgpencrypted-label = OpenPGP cifrado
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
@@ -204,6 +220,7 @@ import-info-title =
 import-info-bits = Bits
 import-info-created = Creado
 import-info-fpr = Huella digital
+copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
 general-error = Error: { $reason }
 dlg-button-delete = &Eliminar
 
@@ -231,7 +248,11 @@ key-trust-untrusted = no confiable
 key-trust-full = confiable
 key-trust-ultimate = último
 key-trust-group = (grupo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar archivo de clave OpenPGP
+import-rev-file = Importar archivo de revocación OpenPGP
 gnupg-file = Archivos GnuPG
+import-keys-failed = Error al importar las claves
 key-man-button-generate-key = &Generar clave
 
 # Strings used in enigmailMessengerOverlay.js
@@ -246,8 +267,15 @@ invalid-email = Error - dirección o direcciones de correo no válidas
 dlg-button-view = &Ver
 # Strings used in encryption.jsm
 not-required = Error - no se requiere cifrado
+# Strings used in windows.jsm
+no-photo-available = No hay foto disponible
+debug-log-title = Registro de depuración de OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Esta alerta se repetirá { $count }
 repeat-suffix-singular = más tiempo.
 repeat-suffix-plural = más veces.
+no-repeat = Esta alerta no se volverá a mostrar.
+dlg-keep-setting = Recordar mi respuesta y no volverme a preguntar
 dlg-button-close = &Cerrar
 dlg-button-cancel = &Cancelar
 enig-confirm = Confirmación de OpenPGP
