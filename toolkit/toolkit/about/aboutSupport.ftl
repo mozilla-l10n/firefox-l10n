@@ -110,7 +110,7 @@ restart-button-label = Endurræsa
 
 audio-backend = Hljóðkerfi
 max-audio-channels = Hámarksfjöldi rása
-sample-rate = Preferred Sample Rate
+sample-rate = Æskileg safntíðni
 media-title = Gögn
 media-output-devices-title = Útakstæki
 media-input-devices-title = Inntakstæki
@@ -118,7 +118,7 @@ media-device-name = Nafn
 media-device-group = Hópur
 media-device-vendor = Hugbúnaðarsali
 media-device-state = Staða
-media-device-preferred = Kjörstilling
+media-device-preferred = Æskilegt
 media-device-format = Snið
 media-device-channels = Rásir
 media-device-rate = Hraði
