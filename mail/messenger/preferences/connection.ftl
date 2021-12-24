@@ -7,6 +7,10 @@
 connection-dns-over-https-url-item-default =
     .label = { $name } (sjálfgefið)
     .tooltiptext = Nota sjálfgefnu URL-slóðina til að leysa DNS yfir HTTPS
+connection-dns-over-https-url-custom =
+    .label = Sérsniðið
+    .accesskey = S
+    .tooltiptext = Settu inn valda URL-slóð til að leysa DNS yfirr HTTPS
 # Variables:
 #   $name (String) - The extension that is controlling the proxy settings.
 #
