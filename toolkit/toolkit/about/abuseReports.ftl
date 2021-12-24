@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Informe para { $addon-name }
 abuse-report-title-extension = Informar de esta Extensión a { -vendor-short-name }
+abuse-report-title-sitepermission = Informar sobre el complemento Permisos de este sitio a { -vendor-short-name }
 abuse-report-title-theme = Informar de este Tema a { -vendor-short-name }
 abuse-report-subtitle = ¿Cuál es el problema?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Enviando el informe para <span data-l10n-na
 abuse-report-messagebar-submitted = Gracias por enviar el informe. ¿Quiere eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gracias por enviar el informe.
 abuse-report-messagebar-removed-extension = Gracias por enviar el informe. Elimiinó la extensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Gracias por enviar un informe. Eliminaste el complemento Permisos del sitio  <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gracias por enviar el informe. Eliminó el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Hubo un error al enviar el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = No se envió el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> porque recientemente se envió otro informe.
