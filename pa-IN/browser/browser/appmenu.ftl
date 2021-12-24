@@ -196,6 +196,8 @@ profiler-popup-presets-graphics-label =
     .label = ਗਰਾਫਿਕਸ
 profiler-popup-presets-media-label =
     .label = ਮੀਡਿਆ
+profiler-popup-presets-networking-label =
+    .label = ਨੈੱਟਵਰਕਿੰਗ
 profiler-popup-presets-custom-label =
     .label = ਕਸਟਮ
 
