@@ -325,6 +325,7 @@ fission-status-experiment-control = ਤਰਜਬੇ ਵਲੋਂ ਅਸਮਰੱ
 fission-status-experiment-treatment = ਤਜਰਬੇ ਵਲੋਂ ਸਮਰੱਥ ਕੀਤਾ
 fission-status-disabled-by-e10s-env = ਵਾਤਾਵਰਨ ਰਾਹੀਂ ਅਸਮਰੱਥ ਕੀਤਾ
 fission-status-enabled-by-env = ਵਾਤਾਵਰਨ ਰਾਹੀਂ ਸਮਰੱਥ ਕੀਤਾ
+fission-status-disabled-by-env = ਪ੍ਰਣਾਲੀ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
 fission-status-disabled-by-safe-mode = ਸੁਰੱਖਿਅਤ ਢੰਗ ਰਾਹੀਂ ਅਸਮਰੱਥ ਕੀਤਾ
 fission-status-enabled-by-default = ਮੂਲ ਰੂਪ ਵਿੱਚ ਸਮਰੱਥ ਹੈ
 fission-status-disabled-by-default = ਮੂਲ ਰੂਪ 'ਚ ਅਸਮਰੱਥ ਹੈ

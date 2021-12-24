@@ -134,6 +134,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 addon-category-recent-updates-title =
     .title = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
+addon-category-sitepermission = ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
+addon-category-sitepermission-title =
+    .title = ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
 
 ## These are global warnings
 
@@ -288,6 +291,8 @@ dictionary-enabled-heading = ਸਮਰੱਥ ਹੈ
 dictionary-disabled-heading = ਅਸਮਰੱਥ ਹੈ
 locale-enabled-heading = ਸਮਰੱਥ ਹੈ
 locale-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+sitepermission-enabled-heading = ਸਮਰੱਥ ਹੈ
+sitepermission-disabled-heading = ਅਸਮਰੱਥ ਹੈ
 always-activate-button = ਹਮੇਸ਼ਾ ਸਰਗਰਮ ਕਰੋ
 never-activate-button = ਕਦੇ ਸਰਗਰਮ ਨਾ ਕਰੋ
 addon-detail-author-label = ਲੇਖਕ
@@ -364,6 +369,7 @@ addon-permissions-optional = ਵਾਧੂ ਕੰਮਾਂ ਲਈ ਚੋਣਵੀ
 addon-permissions-learnmore = ਇਜਾਜ਼ਤਾਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 recommended-extensions-heading = ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
 recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> ਨੂੰ ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਮਰੱਥਾਵਾਂ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਹੈ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ਕਲਾ ਜਾਗਦੀ ਹੈ?<a data-l10n-name="link">ਫਾਇਰਫਾਕਸ ਰੰਗ ਨਾਲ ਆਪਣਾ ਖੁਦ ਦਾ ਥੀਮ ਬਣਾਓ।</a>
@@ -376,6 +382,7 @@ plugin-heading = ਆਪਣੀਆਂ ਪਲੱਗਇਨ ਦਾ ਇੰਤਜ਼ਾ
 dictionary-heading = ਆਪਣੀਆਂ ਡਿਕਸ਼ਨਰੀਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 locale-heading = ਆਪਣੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 updates-heading = ਆਪਣੇ ਅੱਪਡੇਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+sitepermission-heading = ਆਪਣੀਆਂ ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 discover-heading = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 shortcuts-heading = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 default-heading-search-label = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ

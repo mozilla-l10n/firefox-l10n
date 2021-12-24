@@ -13,6 +13,8 @@ printui-sheets-count =
        *[other] ਪੇਪਰ ਦੀ { $sheetCount } ਸ਼ੀਟਾਂ
     }
 printui-page-range-all = ਸਭ
+printui-page-range-odd = ਟਾਂਕ
+printui-page-range-even = ਜਿਸਤ
 printui-page-range-custom = ਕਸਟਮ
 printui-page-range-label = ਸਫ਼ੇ
 printui-page-range-picker =

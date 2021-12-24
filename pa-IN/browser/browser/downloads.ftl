@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -163,6 +158,8 @@ downloading-file-opens-in-minutes = { $minutes } ਮਿੰਟ ਵਿੱਚ ਖ�
 downloading-file-opens-in-minutes-and-seconds = { $minutes }ਮਿੰਟ { $seconds }ਸਕਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
 downloading-file-opens-in-seconds = { $seconds } ਸਕਿੰਟ ਵਿੱਚ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…
 downloading-file-opens-in-some-time = ਜਦੋੰ ਪੂਰਾ ਹੋਇਆ ਤਾਂ ਖੋਲ੍ਹੋ…
+downloading-file-click-to-open =
+    .value = ਜਦੋਂ ਪੂਰਾ ਹੋਵੇ ਤਾਂ ਖੋਲ੍ਹੋ
 
 ##
 
@@ -184,6 +181,21 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = ਡਾਊਨਲੋਡ ਦੇ ਵੇਰਵੇ
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ਫਾਇਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।
+       *[other] { $num } ਫਾਇਲਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।
+    }
+downloads-blocked-from-url = { $url } ਤੋਂ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ।
+
+##
+
 downloads-clear-downloads-button =
     .label = ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .tooltiptext = ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ

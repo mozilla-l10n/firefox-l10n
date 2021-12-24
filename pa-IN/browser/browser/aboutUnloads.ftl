@@ -7,6 +7,9 @@
 ### feature.
 
 about-unloads-page-title = ਟੈਬਾਂ ਅਣ-ਲੋਡ ਕਰਨਾ
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = ਫ਼ੀਚਰ ਤੇ ਇਸ ਸਫ਼ੇ ਬਾਰੇ ਹੋਰ ਜਾਣਨ ਲਈ <a data-l10n-name="doc-link">ਟੈਬ ਅਣ-ਲੋਡ ਕਰਨੀ</a> ਨੂੰ ਵੇਖੋ।
 about-unloads-last-updated = ਆਖਰੀ ਅੱਪਡੇਟ ਕੀਤਾ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = ਅਣ-ਲੋਡ
     .title = ਵੱਧ ਤਰਜੀਹ ਨਾਲ ਟੈਬ ਅਣ-ਲੋਡ ਕਰੋ
