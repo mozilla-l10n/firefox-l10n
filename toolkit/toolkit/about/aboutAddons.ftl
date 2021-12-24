@@ -296,6 +296,8 @@ dictionary-enabled-heading = Ingeschakeld
 dictionary-disabled-heading = Uitgeschakeld
 locale-enabled-heading = Ingeschakeld
 locale-disabled-heading = Uitgeschakeld
+sitepermission-enabled-heading = Ingeschakeld
+sitepermission-disabled-heading = Uitgeschakeld
 always-activate-button = Altijd activeren
 never-activate-button = Nooit activeren
 addon-detail-author-label = Schrijver
@@ -372,6 +374,7 @@ addon-permissions-optional = Optionele toestemmingen voor extra functionaliteit:
 addon-permissions-learnmore = Meer info over toestemmingen
 recommended-extensions-heading = Aanbevolen extensies
 recommended-themes-heading = Aanbevolen thema’s
+addon-sitepermissions-required = Geeft <span data-l10n-name="hostname">{ $hostname }</span> de volgende mogelijkheden:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Voelt u zich creatief? <a data-l10n-name="link"> Bouw uw eigen thema met Firefox Color.</a>
