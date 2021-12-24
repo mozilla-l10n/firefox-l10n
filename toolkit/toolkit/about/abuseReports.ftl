@@ -69,9 +69,11 @@ abuse-report-settings-suggestions-homepage = Cambia la página de inicio y la nu
 abuse-report-deceptive-reason-v2 = Simula ser algo que no es
 abuse-report-deceptive-example = Ejemplo: Descripción engañosa o imaginaria
 abuse-report-broken-reason-extension-v2 = No funciona, rompe los sitios web o lentifica a { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = No funciona, rompe los sitios web o lentifica a { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona o rompe lo que muestra el navegador
 abuse-report-broken-example = Ejemplo: las funciones son lentas, difíciles de usar o no funcionan; ciertas partes de los sitios web no se cargan o se muestran de forma incorrecta
 abuse-report-broken-suggestions-extension = Parece que identificó un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador de la extensión. <a data-l10n-name="support-link">Acceda al sitio web de la extensión</a> para conseguir los datos de contacto del desarrollador.
+abuse-report-broken-suggestions-sitepermission = Parece que identificó un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar al desarrollador del sitio web. <a data-l10n-name="support-link">Visite el sitio web</a> para conseguir información del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que identificó un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del tema. <a data-l10n-name="support-link">Acceda al sitio web del tema</a> para conseguir los datos de contacto del desarrollador.
 abuse-report-policy-reason-v2 = Contenido de odio, violento o ilegal
 abuse-report-policy-suggestions =
