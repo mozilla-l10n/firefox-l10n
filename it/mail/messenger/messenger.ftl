@@ -5,6 +5,10 @@
 
 ## Window controls
 
+messenger-window-minimize-button =
+    .tooltiptext = Riduci a icona
+messenger-window-maximize-button =
+    .tooltiptext = Ingrandisci
 messenger-window-close-button =
     .tooltiptext = Chiudi
 # Variables:
