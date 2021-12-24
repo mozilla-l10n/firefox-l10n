@@ -220,7 +220,9 @@ import-info-title =
 import-info-bits = Bits
 import-info-created = Creado
 import-info-fpr = Huella digital
+import-info-no-keys = No se importaron claves.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
+key-man-button-export-pub-key = Exportar solo claves públicas
 general-error = Error: { $reason }
 dlg-button-delete = &Eliminar
 
