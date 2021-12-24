@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = E-mailberichten
 progress-pane-title = Importeren
 progress-pane-restart-desc = Herstart om het importeren te voltooien.
 error-pane-title = Fout
+error-message-zip-file-too-big = Het geselecteerde zipbestand is groter dan 2 GB. Pak het eerst uit en importeer het vervolgens uit de uitgepakte map.
+error-message-extract-zip-file-failed = Kan het zipbestand niet uitpakken. Pak het handmatig uit en importeer het vervolgens uit de uitgepakte map.
+error-message-failed = Importeren is onverwacht mislukt, meer informatie is mogelijk beschikbaar in de Foutconsole.
