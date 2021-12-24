@@ -15,6 +15,14 @@ screenshots-download-button = ਡਾਊਨਲੋਡ ਕਰੋ
 screenshots-download-button-tooltip = ਸਕਰੀਨ ਸ਼ਾਟ ਡਾਊਨਲੋਡ ਕਰੋ
 screenshots-copy-button = ਕਾਪੀ
 screenshots-copy-button-tooltip = ਸਕਰੀਨਸ਼ਾਟ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
+screenshots-download-button-title =
+    .title = ਸਕਰੀਨ ਸ਼ਾਟ ਡਾਊਨਲੋਡ ਕਰੋ
+screenshots-copy-button-title =
+    .title = ਸਕਰੀਨਸ਼ਾਟ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
+screenshots-cancel-button-title =
+    .title = ਰੱਦ ਕਰੋ
+screenshots-retry-button-title =
+    .title = ਸਕਰੀਨਸ਼ਾਟ ਦੀ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
