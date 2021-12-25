@@ -2,12 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
+
 
 ##
 
+about-config-page-title = Ítarlegar kjörstillingar
 about-config-show-all = Sýna allt
-
 about-config-pref-add-button =
     .title = Bæta við
 about-config-pref-toggle-button =
