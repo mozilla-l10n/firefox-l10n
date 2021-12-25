@@ -59,6 +59,7 @@ lockwise-title = Oblidetz pas jamai un senhal
 lockwise-title-logged-in2 = Gestion de senhal
 lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
 passwords-title-logged-in = Gerir vòstres senhals
+passwords-header-content = { -brand-product-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
 lockwise-header-content-logged-in = Salvatz e sincronizatz vòstres senhals sus totes vòstres periferics d’un biais segur.
 protection-report-save-passwords-button = Salvar los senhals
     .title = Salvar los senhals dins { -lockwise-brand-short-name }

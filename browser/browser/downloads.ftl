@@ -193,6 +193,7 @@ downloads-files-not-downloaded =
        *[other] { $num } fichièrs pas telecargats.
     }
 downloads-blocked-from-url = Telecargaments a partir de { $url } blocats.
+downloads-blocked-download-detailed-info = { $url } a ensajat de telecargar automaticament mantun fichièr. Lo site pòt èsser defectuós o èsser a ensajar d’enregistrar de fichièrs de spam sus vòstre periferic.
 
 ##
 
