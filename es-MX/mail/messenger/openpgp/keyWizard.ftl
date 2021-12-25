@@ -8,6 +8,7 @@ key-wizard-dialog-window =
 key-wizard-button =
     .buttonlabelaccept = Continuar
     .buttonlabelhelp = Regresar
+key-wizard-warning = <b>Si ya tienes una clave personal</b> para esta dirección de correo electrónico, deberías importarla. De lo contrario, no tendrás acceso a tus archivos de correos electrónicos cifrados ni podrás leer los correos electrónicos cifrados recibidos de personas que aún están usando tu clave existente.
 key-wizard-learn-more = Saber más
 radio-create-key =
     .label = Crear una nueva clave OpenPGP
@@ -41,6 +42,9 @@ openpgp-keygen-keysize =
 openpgp-keygen-type-rsa =
     .label = RSA
 openpgp-keygen-button = Generar clave
+openpgp-keygen-progress-title = Generando tu nueva clave OpenPGP…
+openpgp-keygen-import-progress-title = Importando tus claves OpenPGP…
+openpgp-import-success = ¡Claves OpenPGP importadas con éxito!
 openpgp-keygen-confirm =
     .label = Confirmar
 openpgp-keygen-dismiss =
@@ -67,6 +71,13 @@ openpgp-key-confirm = ¿Generar clave pública y secreta para { $identity }?
 openpgp-import-key-title = Importar una clave OpenPGP personal existente
 openpgp-import-key-legend = Selecciona un archivo previamente respaldado.
 openpgp-import-key-description = Puedes importar las claves personales que se crearon con otro software OpenPGP.
+openpgp-import-key-info = Otro software puede describir una clave personal usando términos alternativos como tu propia clave, clave secreta, clave privada o par de claves.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird encontró una clave que puede ser importada.
+       *[other] Thunderbird encontró { $count } claves que pueden ser importadas.
+    }
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Ingresa la frase de contraseña para desbloquear la siguiente clave: { $key }
 openpgp-import-key-button =
