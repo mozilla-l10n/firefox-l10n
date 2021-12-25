@@ -4,3 +4,4 @@
 
 add-on-options-button =
     .title = Valkostir viðbótar
+sidebar-preferences-button-title = Kjörstillingar { -brand-short-name }

@@ -27,6 +27,10 @@ show-favorite-folders-label =
 
 ## AppMenu
 
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+appmenu-preferences =
+    .label = Kjörstillingar
 
 ## Context menu
 
