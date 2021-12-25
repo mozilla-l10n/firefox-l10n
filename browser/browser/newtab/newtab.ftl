@@ -226,10 +226,15 @@ newtab-discovery-empty-section-topstories-timed-out = Uh! Nismo potpuno učitali
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
+newtab-pocket-new-topics-title = Želiš još više priča? Pogledaj ove popularne teme na servisu { -pocket-brand-name }
 newtab-pocket-more-recommendations = Više preporuka
 newtab-pocket-learn-more = Saznaj više
 newtab-pocket-cta-button = Nabavi { -pocket-brand-name }
 newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-name } i napuni si mozak vrhunskim štivom.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dio { -brand-product-name } obitelji
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Spremi u { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = Spremljeno u { -pocket-brand-name }
 # This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
 newtab-pocket-load-more-stories-button = Učitaj više priča
 
