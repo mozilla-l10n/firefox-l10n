@@ -124,6 +124,12 @@ context-menu-decrypt-to-folder =
 
 other-action-redirect-msg =
     .label = Redirigir
+message-header-msg-flagged =
+    .title = Destacados
+    .aria-label = Destacados
+message-header-msg-not-flagged =
+    .title = No destacado
+    .aria-label = No destacado
 
 ## Action Button Context Menu
 
