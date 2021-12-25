@@ -9,6 +9,10 @@ about-private-browsing-info-title = Þú ert í huliðsglugga
 about-private-browsing-info-myths = Algengar mýtur um huliðsleit
 about-private-browsing-not-private = Þú ert ekki í huliðsglugga.
 about-private-browsing-info-description = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.
-
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Til að velja aðra leitarvél skaltu fara í <a data-l10n-name="link-options">Valkostir</a>
+       *[other] Til að velja aðra leitarvél skaltu fara í <a data-l10n-name="link-options">Kjörstillingar</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Loka

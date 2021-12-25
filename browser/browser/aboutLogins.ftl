@@ -71,6 +71,7 @@ login-intro-description = Ef þú vistaðir innskráningar þínar á { -brand-p
 login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name } á tækinu þar sem innskráningar þínar eru vistaðar.
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
 login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Aðstoð</a> til að fá frekari hjálp.
+about-logins-intro-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -281,6 +282,17 @@ about-logins-import-dialog-error-conflicting-values-title = Mörg gildi rekast �
 about-logins-import-dialog-error-conflicting-values-description = Til dæmis: mörg notendanöfn, lykilorð, vefslóðir o.s.frv. fyrir eina innskráningu.
 about-logins-import-dialog-error-file-format-title = Vandamál með skráarsnið
 about-logins-import-dialog-error-file-permission-title = Get ekki lesið skrá
+about-logins-import-dialog-error-unable-to-read-title = Gat ekki túlkað skrá
+about-logins-import-dialog-error-no-logins-imported = Engar innskráningar hafa verið fluttar inn
+about-logins-import-dialog-error-learn-more = Frekari upplýsingar
+about-logins-import-dialog-error-try-import-again = Reyna að flytja inn aftur…
+about-logins-import-dialog-error-cancel = Hætta við
+about-logins-import-report-title = Samantekt innflutnings
+about-logins-import-report-description = Innskráningar og lykilorð flutt inn í { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Röð { $number }
 
 ##
 ## Variables:
