@@ -2,23 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Staðsetning
+    .accesskey = g
 bookmark-overlay-choose =
     .label = Velja…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Sýna allar bókamerkjamöppur
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Fela
-
 bookmark-overlay-new-folder-button =
     .label = Ný mappa
     .accesskey = m
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Aðskildu tög með kommum
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Sýna öll tög
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Fela
-

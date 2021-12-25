@@ -55,7 +55,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY editMenu.label         "Breyta">
 <!ENTITY preferencesCmd2.label       "Valkostir">
-<!ENTITY preferencesCmdUnix.label       "Valkostir">
+<!ENTITY preferencesCmdUnix.label       "Kjörstillingar">
 <!ENTITY logins.label                           "Innskráning og lykilorð">
 
 <!ENTITY overflowCustomizeToolbar.label       "Sérsníða verkfæraslá…">

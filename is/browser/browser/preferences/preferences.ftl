@@ -8,6 +8,17 @@ do-not-track-option-default-content-blocking-known =
     .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
 do-not-track-option-always =
     .label = Alltaf
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Finna í stillingum
 managed-notice = Vafra þínum er stjórnað af skipulagsheild þinni.
 pane-general-title = Almennt
 category-general =
@@ -72,7 +83,9 @@ extension-controlled-enable = Til að virkja viðbót farðu þá í <img data-l
 ## Preferences UI Search Results
 
 search-results-header = Leitarniðurstöður
-search-results-help-link = Vantar þig hjálp? Kíktu á <a data-l10n-name="url">{ -brand-short-name } hjálp</a>
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Því miður! Engar niðurstöður eru til í stillingum fyrir “<span data-l10n-name="query"></span>”.
+search-results-help-link = Þarftu aðstoð? Skoðaðu <a data-l10n-name="url">{ -brand-short-name } hjálparsvæðið</a>
 
 ## General Section
 
@@ -105,6 +118,14 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Vara við þegar ég loka mörgum flipum
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Staðfestu áður en þú hættir með { $quitKey }
+    .accesskey = f
 warn-on-open-many-tabs =
     .label = Vara við ef opnun á mörgum flipum gæti hægt á { -brand-short-name }
     .accesskey = o
@@ -155,6 +176,15 @@ advanced-fonts =
 colors-settings =
     .label = Litir…
     .accesskey = L
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Aðdráttur
+preferences-default-zoom = Sjálfgefinn aðdráttur
+    .accesskey = d
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Stækka/minnka einungis texta
+    .accesskey = t
 language-header = Tungumál
 choose-language-description = Veldu þau tungumál sem hafa forgang við birtingu vefsíðu
 choose-button =
@@ -707,6 +737,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Opnir flipar
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Flýtileiðir
+    .accesskey = F
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 
 ## Privacy Section - Content Blocking
