@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Mes a jorn
 addon-category-recent-updates-title =
     .title = Mes a jorn
+addon-category-sitepermission = Autorizacions de site
+addon-category-sitepermission-title =
+    .title = Autorizacions de site
 
 ## These are global warnings
 
@@ -294,6 +297,8 @@ dictionary-enabled-heading = Activats
 dictionary-disabled-heading = Desactivats
 locale-enabled-heading = Activadas
 locale-disabled-heading = Desactivadas
+sitepermission-enabled-heading = Activat
+sitepermission-disabled-heading = Desactivat
 always-activate-button = Totjorn activar
 never-activate-button = Activar pas jamai
 addon-detail-author-label = Autor
@@ -382,6 +387,7 @@ plugin-heading = Gestion dels plugins
 dictionary-heading = Gestion dels diccionaris
 locale-heading = Gestion de las lengas
 updates-heading = Gestion de las mesas a jorn
+sitepermission-heading = Gerir las autorizacions de site
 discover-heading = Personalizatz { -brand-short-name }
 shortcuts-heading = Gestion dels acorchis d’extensions
 default-heading-search-label = Trobar mai de moduls
