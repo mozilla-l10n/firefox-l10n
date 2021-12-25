@@ -283,6 +283,7 @@ about-logins-import-dialog-error-conflicting-values-description = Til dæmis: m�
 about-logins-import-dialog-error-file-format-title = Vandamál með skráarsnið
 about-logins-import-dialog-error-file-permission-title = Get ekki lesið skrá
 about-logins-import-dialog-error-unable-to-read-title = Gat ekki túlkað skrá
+about-logins-import-dialog-error-unable-to-read-description = Gakktu úr skugga um að þú hafir valið CSV- eða TSV-skrá.
 about-logins-import-dialog-error-no-logins-imported = Engar innskráningar hafa verið fluttar inn
 about-logins-import-dialog-error-learn-more = Frekari upplýsingar
 about-logins-import-dialog-error-try-import-again = Reyna að flytja inn aftur…
@@ -293,6 +294,9 @@ about-logins-import-report-description = Innskráningar og lykilorð flutt inn �
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Röð { $number }
+about-logins-import-report-row-description-no-change = Tvítak: Nákvæm samsvörun við fyrirliggjandi innskráningu
+about-logins-import-report-row-description-modified = Fyrirliggjandi innskráning uppfærð
+about-logins-import-report-row-description-added = Nýrri innskráningu bætt við
 
 ##
 ## Variables:
