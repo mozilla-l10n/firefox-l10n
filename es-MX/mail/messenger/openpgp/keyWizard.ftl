@@ -16,10 +16,16 @@ radio-create-key =
 radio-import-key =
     .label = Importar una clave OpenPGP existente
     .accesskey = I
+radio-gnupg-key =
+    .label = Usa tu clave externa a través de GnuPG (por ejemplo, desde una tarjeta inteligente)
+    .accesskey = U
 
 ## Generate key section
 
 openpgp-generate-key-title = Generar clave OpenPGP
+openpgp-generate-key-info = <b>La generación de claves puede tardar varios minutos en completarse.</b> No salgas de la aplicación mientras la generación de la clave está en progreso. La navegación activa o la realización de operaciones con un disco intensivo durante la generación de la clave repondrán el "grupo de aleatoriedad" y acelerará el proceso. Se te avisará cuando se complete la generación de claves.
+openpgp-keygen-expiry-title = Expiración de la clave
+openpgp-keygen-expiry-description = Define el tiempo de expiración de tu clave recién generada. Posteriormente puedes controlar la fecha para prorrogarla si es necesario.
 radio-keygen-expiry =
     .label = La clave expira en
     .accesskey = e
@@ -33,6 +39,7 @@ openpgp-keygen-months-label =
 openpgp-keygen-years-label =
     .label = años
 openpgp-keygen-advanced-title = Configuración avanzada
+openpgp-keygen-advanced-description = Controla la configuración avanzada de tu clave OpenPGP.
 openpgp-keygen-keytype =
     .value = Tipo de clave:
     .accesskey = t
@@ -45,6 +52,7 @@ openpgp-keygen-button = Generar clave
 openpgp-keygen-progress-title = Generando tu nueva clave OpenPGP…
 openpgp-keygen-import-progress-title = Importando tus claves OpenPGP…
 openpgp-import-success = ¡Claves OpenPGP importadas con éxito!
+openpgp-import-success-title = Completar el proceso de importación
 openpgp-keygen-confirm =
     .label = Confirmar
 openpgp-keygen-dismiss =

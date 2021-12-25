@@ -88,6 +88,7 @@ account-setup-success-addon = El complemento se instaló correctamente
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Se ha encontrado la configuración en la base de datos ISP de Mozilla.
 account-setup-success-settings-disk = Configuración encontrada en la instalación de { -brand-short-name }.
+account-setup-success-settings-isp = Se ha encontrado la configuración en el proveedor de correo electrónico.
 # Note: Microsoft Exchange is a product name.
 account-setup-success-settings-exchange = Configuración encontrada para un servidor de Microsoft Exchange.
 
@@ -147,8 +148,12 @@ account-setup-result-username-different = Entrante: { $incoming }, saliente: { $
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Autenticación fallida. Las credenciales ingresadas son incorrectas o se requiere un nombre de usuario diferente para iniciar sesión. Este nombre de usuario suele ser tu inicio de sesión para el dominio de Windows con o sin el dominio (por ejemplo, janedoe o AD\\janedoe).
 account-setup-credentials-wrong = Autenticación fallida. Por favor, comprueba el nombre de usuario y contraseña
 account-setup-find-settings-failed = { -brand-short-name } no pudo encontrar la configuración de tu cuenta de correo electrónico
+account-setup-exchange-config-unverifiable = No se pudo verificar la configuración. Si tu nombre de usuario y contraseña son correctos, es probable que el administrador del servidor haya inhabilitado la configuración seleccionada para tu cuenta. Intenta seleccionar otro protocolo.
+account-setup-provisioner-error = Se produjo un error al configurar tu nueva cuenta en { -brand-short-name }. Por favor, intenta configurar manualmente tu cuenta con tus credenciales.
 
 ## Manual configuration area
 
@@ -199,6 +204,9 @@ insecure-dialog-confirm-button = Confirmar
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } encontró la información de configuración de tu cuenta en { $domain }. ¿Quieres continuar y enviar tus credenciales?
 exchange-dialog-confirm-button = Iniciar sesión
 exchange-dialog-cancel-button = Cancelar
 
@@ -238,6 +246,20 @@ account-setup-calendar-button = Conectar a un calendario remoto
 account-setup-linked-services-title = Conectar tus servicios vinculados
 account-setup-linked-services-description = { -brand-short-name } detectó otros servicios vinculados a tu cuenta de correo electrónico.
 account-setup-no-linked-description = Configura otros servicios para sacar el máximo partido a tu experiencia de { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } encontró una libreta de direcciones vinculada a tu cuenta de correo electrónico.
+       *[other] { -brand-short-name } encontró { $count } libretas de direcciones vinculadas a tu cuenta de correo electrónico.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } encontró un calendario vinculado a tu cuenta de correo electrónico.
+       *[other] { -brand-short-name } encontró { $count } calendarios vinculados a tu cuenta de correo electrónico.
+    }
 account-setup-button-finish = Finalizar
     .accesskey = F
 account-setup-looking-up-address-books = Buscando libretas de direcciones…
@@ -245,6 +267,10 @@ account-setup-looking-up-calendars = Buscando calendarios…
 account-setup-address-books-button = Libretas de direcciones
 account-setup-calendars-button = Calendarios
 account-setup-connect-link = Conectar
+account-setup-existing-address-book = Conectado
+    .title = Libreta de direcciones conectada
+account-setup-existing-calendar = Conectado
+    .title = Calendario conectado
 account-setup-connect-all-calendars = Conectar todos los calendarios
 account-setup-connect-all-address-books = Conectar todas las libretas de direcciones
 
