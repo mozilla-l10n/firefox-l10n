@@ -47,6 +47,8 @@ upgrade-dialog-default-secondary-button = Қазір емес
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Балғын темамен жаңадан бастаңыз
 upgrade-dialog-theme-system = Жүйелік тема
     .title = Батырмалар, мәзірлер және терезелер үшін операциялық жүйе темасына сүйену
 
@@ -81,6 +83,8 @@ upgrade-dialog-theme-dark = Күңгірт
     .title = Батырмалар, мәзірлер және терезелер үшін күңгірт теманы қолдану
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Батырмалар, мәзірлер және терезелер үшін динамикалық, түрлі-түсті теманы қолдану
+upgrade-dialog-theme-keep = Алдыңғыны сақтау
+    .title = { -brand-short-name } жаңарту алдында сіз қолданған теманы қолдана беру
 upgrade-dialog-theme-primary-button = Теманы сақтау
 upgrade-dialog-theme-secondary-button = Қазір емес
 upgrade-dialog-colorway-variation-soft = Жұмсақ
