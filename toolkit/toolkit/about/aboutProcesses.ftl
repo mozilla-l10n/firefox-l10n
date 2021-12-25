@@ -63,6 +63,8 @@ about-processes-unknown-process = Басқа: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, үлкен)
+about-processes-web-isolated-process-private = { $origin } — Жеке ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Жеке ({ $pid }, үлкен)
 
 ## Details within processes
 
