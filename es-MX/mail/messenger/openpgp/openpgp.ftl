@@ -4,6 +4,10 @@
 
 e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debes configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
 e2e-intro-description-more = Seleccione tu clave personal para habilitar el uso de OpenPGP, o tu certificado personal para habilitar el uso de S/MIME. Para una clave personal o un certificado, posees la clave secreta correspondiente.
+e2e-advanced-section = Configuración avanzada
+e2e-attach-key =
+    .label = Adjuntar mi clave pública al agregar una firma digital OpenPGP
+    .accesskey = p
 e2e-encrypt-subject =
     .label = Cifrar el asunto de los mensajes OpenPGP
     .accesskey = b
@@ -41,6 +45,7 @@ openpgp-advanced-prefs-button-label =
     .label = Avanzado…
 openpgp-key-id-label =
     .label = ID de clave
+openpgp-cannot-change-expiry = Esta es una clave con una estructura compleja, no se admite cambiar la fecha de expiración.
 openpgp-key-man-generate =
     .label = Nuevo par de claves
     .accesskey = c
@@ -64,6 +69,12 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Servidor de claves
     .accesskey = K
+openpgp-key-man-import-from-clipbrd =
+    .label = Importar clave(s) desde el portapapeles
+    .accesskey = I
+openpgp-key-man-import-from-url =
+    .label = Importar clave(s) desde URL
+    .accesskey = U
 openpgp-key-man-discover-cmd =
     .label = Descubrir claves en línea
     .accesskey = D
@@ -192,13 +203,24 @@ openpgp-keygen-external-success = ¡Se ha guardado el ID de clave GnuPG externo!
 openpgp-radio-none =
     .label = Ninguno
 openpgp-radio-none-desc = No usar OpenPGP para esta identidad.
+openpgp-radio-key-not-accepted = ¡Para usar esta clave debes aprobarla como una clave personal!
+openpgp-radio-key-not-found = ¡No se pudo encontrar esta clave! Si quieres usarlo debes importarlo a { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira el: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Expiro el: { $date }
+openpgp-key-expires-within-6-months-icon =
+    .title = La clave caduca en menos de 6 meses
+openpgp-key-has-expired-icon =
+    .title = Clave caducada
 openpgp-key-expand-section =
     .tooltiptext = Más información
 openpgp-key-revoke-title = Revocar clave
+openpgp-key-edit-title = Cambiar la clave OpenPGP
+openpgp-key-edit-date-title = Extender la fecha de vencimiento
+openpgp-manager-button =
+    .label = Administrador de claves OpenPGP
+    .accesskey = K
 # Strings in keyDetailsDlg.xhtml
 key-type-public = clave pública
 key-type-primary = clave primaria
@@ -214,6 +236,9 @@ key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
 keyserver-error-unknown = Se produjo un error desconocido
 filter-term-pgpencrypted-label = OpenPGP cifrado
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Descifrar permanentemente (OpenPGP)
+filter-decrypt-copy-label = Crear copia descifrada (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Claves importadas con ¡Éxito!
@@ -223,6 +248,8 @@ import-info-fpr = Huella digital
 import-info-no-keys = No se importaron claves.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
 key-man-button-export-pub-key = Exportar solo claves públicas
+save-keys-failed = No se pudieron guardar las claves
+default-pub-key-filename = Claves públicas exportadas
 general-error = Error: { $reason }
 dlg-button-delete = &Eliminar
 
@@ -264,6 +291,16 @@ msg-ovl-button-cont-anyway = &Continuar de todas formas
 msg-compose-button-send = &Enviar mensaje
 msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
+key-revoked = Clave ‘{ $key }’ revocada
+compose-menu-attach-key =
+    .label = Adjuntar mi clave pública
+    .accesskey = A
+# Strings used in decryption.jsm
+do-import-multiple =
+    ¿Importar las siguientes claves?
+    { $key }
+do-import-one = ¿Importar { $name } ({ $id })?
+cant-import = Error al importar la clave pública
 sig-mismatch = Error - Falta de coincidencia de la firma
 invalid-email = Error - dirección o direcciones de correo no válidas
 dlg-button-view = &Ver
@@ -278,8 +315,10 @@ repeat-suffix-singular = más tiempo.
 repeat-suffix-plural = más veces.
 no-repeat = Esta alerta no se volverá a mostrar.
 dlg-keep-setting = Recordar mi respuesta y no volverme a preguntar
+dlg-button-ok = &Aceptar
 dlg-button-close = &Cerrar
 dlg-button-cancel = &Cancelar
+dlg-no-prompt = No volver a mostrar este diálogo.
 enig-confirm = Confirmación de OpenPGP
 enig-alert = Alerta de OpenPGP
 enig-info = Información de OpenPGP
