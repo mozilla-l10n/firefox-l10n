@@ -7,6 +7,7 @@ offline-dialog-window =
 autodetect-online-label =
     .label = Fylgja sjálfvirkt eftir netstöðu
     .accesskey = ð
+offline-preference-startup-label = Handvirkt ástand við ræsingu:
 status-radio-remember =
     .label = Muna síðustu nettengistöðu
     .accesskey = M
