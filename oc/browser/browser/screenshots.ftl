@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Copiar la captura d’ecran al quichapapièrs
 screenshots-cancel-button-title =
     .title = Anullar
+screenshots-retry-button-title =
+    .title = Tornar ensajar de capturar
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
