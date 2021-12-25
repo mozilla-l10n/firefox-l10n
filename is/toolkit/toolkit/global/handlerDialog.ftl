@@ -14,15 +14,21 @@
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+
 ##
+
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Þessu er hægt að breyta í valkostum { -brand-short-name }.
+       *[other] Þessu er hægt að breyta í kjörstillingum { -brand-short-name }.
+    }
 choose-other-app-description = Veldu forrit
 choose-app-btn =
     .label = Velja…
     .accessKey = V
 choose-other-app-window-title = Annað forrit…
-
