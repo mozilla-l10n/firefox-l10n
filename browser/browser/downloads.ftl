@@ -31,6 +31,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Prikaži u Finderu
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Prikaži u Finderu
+           *[other] Prikaži u mapi (F)
+        }
+    .accesskey = F
 downloads-cmd-use-system-default =
     .label = Otvori u pregledniku sustava
     .accesskey = v
@@ -57,6 +64,11 @@ downloads-cmd-show-description =
             [macos] Prikaži u Finderu
            *[other] Otvori direktorij preuzimanja
         }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Uvijek otvori slične datoteke
+    .accesskey = v
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
@@ -141,6 +153,8 @@ downloading-file-opens-in-minutes = Otvaranje za { $minutes }m…
 downloading-file-opens-in-minutes-and-seconds = Otvaranje za { $minutes }m { $seconds }s…
 downloading-file-opens-in-seconds = Otvaranje za { $seconds }s…
 downloading-file-opens-in-some-time = Otvaranje po završetku…
+downloading-file-click-to-open =
+    .value = Otvori po završetku
 
 ##
 
@@ -162,6 +176,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalji preuzimanja
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Datoteka nije preuzeta.
+        [few] { $num } datoteke nisu preuzete.
+       *[other] { $num } datoteka nije preuzeto.
+    }
+downloads-blocked-from-url = Preuzimanja s { $url } su blokirana.
+downloads-blocked-download-detailed-info = { $url } pokušava automatski preuzeti više datoteka. Stranica je možda slomljena ili pokušava pohraniti neželjene datoteke na tvom uređaju.
+
+##
+
 downloads-clear-downloads-button =
     .label = Izbriši preuzimanja
     .tooltiptext = Briše dovršena, prekinuta i neuspjela preuzimanja
@@ -172,3 +203,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Nema preuzimanja u ovoj sesiji.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Preuzima se { $count } datoteka
+        [few] Preuzimaju se { $count } datoteke
+       *[other] Preuzima se { $count } datoteka
+    }

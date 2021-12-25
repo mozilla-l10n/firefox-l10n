@@ -64,6 +64,25 @@ upgrade-dialog-default-secondary-button = Ne sada
 upgrade-dialog-theme-title-2 = Čisti početak sa svježom temom
 upgrade-dialog-theme-system = Tema sustava
     .title = Slijedi temu sustava za tipke, izbornike i prozore
+
+## Start screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Život u boji
+upgrade-dialog-start-subtitle = Žive nove boje. Dostupno na ograničeno vrijeme.
+upgrade-dialog-start-primary-button = Istraži boje
+upgrade-dialog-start-secondary-button = Ne sada
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Odaberi svoju paletu
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Prijeđi na Firefoxovu početnu stranicu s tematskom pozadinom
+upgrade-dialog-colorway-primary-button = Spremi boju
+upgrade-dialog-colorway-secondary-button = Zadrži prethodnu temu
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Istraži zadane teme
 upgrade-dialog-theme-light = Svijetla
     .title = Koristi svijetlu temu za tipke, izbornike i prozore
 upgrade-dialog-theme-dark = Tamna
@@ -74,3 +93,7 @@ upgrade-dialog-theme-keep = Zadrži prethodnu
     .title = Koristi temu instaliranu prije ažuriranja { -brand-short-name }a
 upgrade-dialog-theme-primary-button = Spremi temu
 upgrade-dialog-theme-secondary-button = Ne sada
+
+## Thank you screen
+
+upgrade-dialog-thankyou-primary-button = Započnite surfati
