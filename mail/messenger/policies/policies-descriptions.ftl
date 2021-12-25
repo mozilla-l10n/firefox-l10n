@@ -29,6 +29,7 @@ policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp við
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar skrár.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
+policy-Preferences = Stilltu og læstu gildinu fyrir undirmengi kjörstillinga.
 policy-Proxy = Sýsla með stillingar á milliþjóni (proxy).
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.

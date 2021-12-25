@@ -897,7 +897,7 @@
 <!ENTITY zoomWindow.label "Aðdráttur">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "Valkostir">
+<!ENTITY preferencesCmdMac2.label       "Kjörstillingar">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Þjónustur">
