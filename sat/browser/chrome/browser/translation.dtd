@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -8,16 +9,16 @@
   -  In en-US it looks like this:
   -    This page is in [detected language] Translate this page?
   -  "detected language" here is a language name coming from the
-  -  global/languageNames.properties file; for some locales it may not be in
+  -  toolkit/intl/languageNames.ftl file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
 <!ENTITY translation.thisPageIsIn.label         "नोवा साहटा रे भितिर रे मेनाक् आ .">
 <!ENTITY translation.translateThisPage.label    "नोवा साहटा तोरजामाय मे ?">
 <!ENTITY translation.translate.button           "तोरजोमा">
 <!ENTITY translation.notNow.button              "नितोक् बाङ">
 
 <!ENTITY translation.translatingContent.label   "तोरजोमावाक् साहटा बिसोय …">
+
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -26,23 +27,22 @@
   -  In en-US it looks like this:
   -    This page has been translated from [from language] to [to language]
   -  "from language" and "to language" here are language names coming from the
-  -  global/languageNames.properties file; for some locales they may not be in
+  -  toolkit/intl/languageNames.ftl file; for some locales they may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence.
   -
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "खोन नोवा साहटा दो तोरजोमा होचोवाकाना.">
 <!ENTITY translation.translatedTo.label         "ठेन">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "मुलाक् उदुग मे.">
+<!ENTITY translation.showOriginal.button        "ᱢᱩᱞᱟᱜ ᱩᱫᱩᱜᱽ ᱢᱮ ᱾">
 <!ENTITY translation.showTranslation.button     "तोरजोमाक् उदुग मे.">
 
 <!ENTITY translation.errorTranslating.label     "नोवा साहटा तोरजोमा रे मित् भुल हुय आकाना.">
-<!ENTITY translation.tryAgain.button            "दोहड़ा कुरुमुटु">
+<!ENTITY translation.tryAgain.button            "ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ">
 
 <!ENTITY translation.serviceUnavailable.label   "निया ओकतो तोरजोमा बाय ञामोक् आ. दोहड़ा तायोम ते कुरुमुटुय मे .">
 
@@ -56,17 +56,3 @@
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "तोरजोमा कुसियाक् को .">
 <!ENTITY translation.options.preferences.accesskey "T">
-<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  These 2 strings are displayed before and after a 'Microsoft Translator'
-  -  logo.
-  -->
-
-<!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
-                        translation.options.attribution.beforeLogo,
-  -                     translation.options.attribution.afterLogo):
-  -  translation.options.attribution.poweredByYandex is displayed instead of
-  -  the other two strings when yandex translation engine is preferred by the
-  -  user.
-  -->
-
