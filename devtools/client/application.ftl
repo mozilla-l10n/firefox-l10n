@@ -19,11 +19,14 @@ serviceworker-worker-unregister = Afskrá
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
-serviceworker-worker-debug = Kemba
-    .title = Eingöngu er hægt að kemba keyrandi service workers
+serviceworker-worker-debug = Villuleita
+    .title = Eingöngu er hægt að kemba keyrandi þjónustur (service workers)
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Skoða
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Ræsa
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -35,6 +38,8 @@ serviceworker-worker-status-running = Í gangi
 serviceworker-worker-status-stopped = Hætt
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Kanna nánar
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Auðkenni
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Kynning
 # Header for the Icon section of Manifest inspection displayed in the application panel.

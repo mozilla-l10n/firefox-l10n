@@ -28,6 +28,8 @@ onboarding-multistage-welcome-secondary-button-text = Ertu með reikning?
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Slökkva á hreyfingum
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"

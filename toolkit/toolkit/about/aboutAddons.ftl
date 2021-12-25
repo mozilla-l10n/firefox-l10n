@@ -185,12 +185,21 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = eftir <a data-l10n-name="author">{ $author }</a>
 
 ## Add-on actions
 
 remove-addon-button = Fjarlægja
 disable-addon-button = Óvirkja
 enable-addon-button = Virkja
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Valkostir
+       *[other] Kjörstillingar
+    }
 
 ## Pending uninstall message bar
 
