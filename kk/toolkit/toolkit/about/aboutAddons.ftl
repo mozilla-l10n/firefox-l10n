@@ -132,6 +132,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Соңғы жаңартулар
 addon-category-recent-updates-title =
     .title = Соңғы жаңартулар
+addon-category-sitepermission = Сайт рұқсаттары
+addon-category-sitepermission-title =
+    .title = Сайт рұқсаттары
 
 ## These are global warnings
 
@@ -249,6 +252,7 @@ install-theme-button = Теманы орнату
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Басқару
 find-more-addons = Көбірек қосымшаларды табу
+find-more-themes = Көбірек темаларды табу
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -284,6 +288,8 @@ dictionary-enabled-heading = Іске қосулы
 dictionary-disabled-heading = Сөндірілген
 locale-enabled-heading = Іске қосулы
 locale-disabled-heading = Сөндірілген
+sitepermission-enabled-heading = Іске қосылған
+sitepermission-disabled-heading = Сөндірілген
 always-activate-button = Әрқашан белсендіру
 never-activate-button = Ешқашан белсендірмеу
 addon-detail-author-label = Авторы
@@ -371,6 +377,7 @@ plugin-heading = Плагиндерді басқару
 dictionary-heading = Сөздіктерді басқару
 locale-heading = Тілдерді басқару
 updates-heading = Жаңартуларды басқару
+sitepermission-heading = Сайт рұқсаттарын басқару
 discover-heading = Өз { -brand-short-name } жеке қылыңыз
 shortcuts-heading = Кеңейтудің пернетақта жарлықтарын басқару
 default-heading-search-label = Көбірек қосымшаларды табу
