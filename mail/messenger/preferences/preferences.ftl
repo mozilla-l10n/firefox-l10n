@@ -18,6 +18,14 @@ choose-messenger-language-description = Veldu tungumálin til að nota til að b
 confirm-messenger-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
 confirm-messenger-language-change-button = Virkja og endurræsa
 update-setting-write-failure-title = Villa við að vista uppfærslustillingar
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } rakst á villu og vistaði ekki þessa breytingu. Athugaðu að til að stilla þennan uppfærsluvalkost þarf heimild til að skrifa í skrána hér að neðan. Þú eða kerfisstjóri gætuð leyst vandamálið með því að veita users-hópnum fulla stjórn á þessari skrá.
+    
+    Gat ekki skrifað í skrána: { $path }
 account-button = Stillingar reiknings
 
 ## OS Authentication dialog
@@ -532,4 +540,10 @@ search-preferences-input2 =
 
 ## Settings UI Search Results
 
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Því miður! Engar niðurstöður eru til í valkostum fyrir “<span data-l10n-name="query"></span>”.
+       *[other] Því miður! Engar niðurstöður eru til í kjörstillingum fyrir “<span data-l10n-name="query"></span>”.
+    }
 search-results-help-link = Þarftu aðstoð? Skoðaðu <a data-l10n-name="url">{ -brand-short-name } hjálparsvæðið</a>

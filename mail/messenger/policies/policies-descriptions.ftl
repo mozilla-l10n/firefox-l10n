@@ -31,5 +31,6 @@ policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar s
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
 policy-Preferences = Stilltu og læstu gildinu fyrir undirmengi kjörstillinga.
 policy-Proxy = Sýsla með stillingar á milliþjóni (proxy).
+policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af forritinu, raðað eftir vali.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.

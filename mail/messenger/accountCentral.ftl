@@ -20,5 +20,6 @@ email-description = { -brand-short-name } gerir þér kleift að tengjast fyrirl
 chat-label = Spjall
     .aria-label = Tengstu spjallreikningnum þínum
 chat-description = { -brand-short-name } gerir þér kleift að tengjast mörgum spjallreikningum og býður upp á stuðning við ýmis kerfi.
+import-paragraph = { -brand-short-name } gerir þér kleift að flytja inn póstskilaboð, færslur í nafnaskrám, streymisáskriftir, kjörstillingar og/eða síur úr öðrum póstforritum og algengum nafnaskrársniðum.
 about-paragraph = Thunderbird er með opinn kóða og fremst í flokki fyrir tölvupóstforrit og dagatal fyrir allar gerðir tölva og er ókeypis fyrir einstaklinga og fyrirtæki. Okkar takmark er að Thunderbird verði öruggur og ennþá betri. Fjárframlag mun gera okkur kleift að ráða forritara, borga fyrir innviði, og halda áfram að bæta okkur.
 about-paragraph-consider-donation = <b>Thunderbird er styrkt af notendum eins og þér! Ef þér líkar við Thunderbird skaltu íhuga að leggja þitt af mörkum.</b> Besta leiðin fyrir þig til að tryggja að Thunderbird sé áfram í boði er að <a data-l10n-name="donation-link">styrkja með fjárframlagi.</a>
