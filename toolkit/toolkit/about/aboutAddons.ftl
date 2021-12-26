@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Yakın zamandaki güncellemeler
 addon-category-recent-updates-title =
     .title = Yakın zamandaki güncellemeler
+addon-category-sitepermission = Site İzinleri
+addon-category-sitepermission-title =
+    .title = Site İzinleri
 
 ## These are global warnings
 
@@ -287,6 +290,8 @@ dictionary-enabled-heading = Etkin
 dictionary-disabled-heading = Devre dışı
 locale-enabled-heading = Etkin
 locale-disabled-heading = Devre dışı
+sitepermission-enabled-heading = Etkin
+sitepermission-disabled-heading = Devre dışı
 always-activate-button = Her zaman etkinleştir
 never-activate-button = Asla etkinleştirme
 addon-detail-author-label = Geliştiren
@@ -363,6 +368,7 @@ addon-permissions-optional = Ek işlevler için isteğe bağlı izinler:
 addon-permissions-learnmore = İzinler hakkında daha fazla bilgi alın
 recommended-extensions-heading = Önerilen uzantılar
 recommended-themes-heading = Önerilen temalar
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> sitesine aşağıdaki izinleri verir:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Yaratıcı gününüzde misiniz? <a data-l10n-name="link">Firefox Color ile kendi temanızı oluşturun.</a>
@@ -375,6 +381,7 @@ plugin-heading = Yan uygulamalarınızı yönetin
 dictionary-heading = Sözlüklerinizi yönetin
 locale-heading = Dillerinizi yönetin
 updates-heading = Güncellemelerinizi yönetin
+sitepermission-heading = Site izinlerinizi yönetin
 discover-heading = { -brand-short-name } tarayıcınızı kişiselleştirin
 shortcuts-heading = Uzantı kısayollarını yönet
 default-heading-search-label = Daha fazla eklenti bul
