@@ -72,6 +72,9 @@ login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
 login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Aðstoð</a> til að fá frekari hjálp.
 about-logins-intro-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Farðu í <a data-l10n-name="passwords-help-link">aðstoð fyrir lykilorð</a> til að fá frekari hjálp.
+about-logins-intro-browser-only-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -brand-product-name }</a>
+about-logins-intro-import2 = Ef innskráningar þínar eru vistaðar utan { -brand-product-name } geturðu <a data-l10n-name="import-browser-link">flutt þau inn úr öðrum vafra</a> eða <a data-l10n- name="import-file-link">úr skrá</a>
 
 ## Login
 
@@ -281,7 +284,9 @@ about-logins-import-dialog-error-title = Villa við innflutning
 about-logins-import-dialog-error-conflicting-values-title = Mörg gildi rekast á í einni innskráningu
 about-logins-import-dialog-error-conflicting-values-description = Til dæmis: mörg notendanöfn, lykilorð, vefslóðir o.s.frv. fyrir eina innskráningu.
 about-logins-import-dialog-error-file-format-title = Vandamál með skráarsnið
+about-logins-import-dialog-error-file-format-description = Rangir dálkahausar eða þá vantar. Gakktu úr skugga um að skráin innihaldi dálka fyrir notandanafn, lykilorð og vefslóð.
 about-logins-import-dialog-error-file-permission-title = Get ekki lesið skrá
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } hefur ekki leyfi til að lesa skrána. Prófaðu að breyta skráarheimildum.
 about-logins-import-dialog-error-unable-to-read-title = Gat ekki túlkað skrá
 about-logins-import-dialog-error-unable-to-read-description = Gakktu úr skugga um að þú hafir valið CSV- eða TSV-skrá.
 about-logins-import-dialog-error-no-logins-imported = Engar innskráningar hafa verið fluttar inn
@@ -297,16 +302,35 @@ about-logins-import-report-row-index = Röð { $number }
 about-logins-import-report-row-description-no-change = Tvítak: Nákvæm samsvörun við fyrirliggjandi innskráningu
 about-logins-import-report-row-description-modified = Fyrirliggjandi innskráning uppfærð
 about-logins-import-report-row-description-added = Nýrri innskráningu bætt við
+about-logins-import-report-row-description-error = Villa: Vantar reit
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Villa: Mörg gildi fyrir { $field }
+about-logins-import-report-row-description-error-missing-field = Villa: Vantar { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýrri innskráningu bætt við</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýjum innskráningum bætt við</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin innskráning</div> <div data-l10n-name="not-imported" ">(ekki flutt inn)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar innskráningar</div> <div data-l10n-name="not-imported" ">(ekki flutt inn)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Villa</div> <div data-l10n-name="not-imported" >(ekki flutt inn)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Villur</div> <div data-l10n-name="not-imported" >(ekki flutt inn)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Yfirlitsskýrsla innflutnings
