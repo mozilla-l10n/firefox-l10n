@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Upp kom villa við að vista á { -pocket-bra
 pocket-panel-saved-error-tag-length = Tög eru takmörkuð við 25 stafi
 pocket-panel-saved-error-only-links = Aðeins er hægt að vista tengla
 pocket-panel-saved-error-not-saved = Ekki tókst að vista síðu
+pocket-panel-saved-error-no-internet = Þú verður að vera tengdur við internetið til að vista í { -pocket-brand-name }. Tengdu þig við internetið og reyndu aftur.
 pocket-panel-saved-page-removed = Síða fjarlægð
 pocket-panel-saved-page-saved = Vistað í { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Fjarlægi síðu…
@@ -42,3 +43,7 @@ pocket-panel-signup-tagline-story-two = Skoðaðu í { -pocket-brand-name } á h
 
 pocket-panel-home-my-list = Minn listi
 pocket-panel-home-welcome-back = Velkomin aftur
+pocket-panel-home-paragraph = Þú getur notað { -pocket-brand-name } til að kanna og vista vefsíður, greinar, myndskeið, hlaðvörp eða til að komast aftur í það sem þú hefur verið að lesa.
+pocket-panel-home-explore-popular-topics = Skoða vinsæl efni
+pocket-panel-home-discover-more = Uppgötva meira
+pocket-panel-home-explore-more = Kanna
