@@ -60,6 +60,7 @@ mobile-app-links = { -brand-product-name } Браўзер для <a data-l10n-na
 lockwise-title = Больш ніколі не забывайце свой пароль
 lockwise-title-logged-in2 = Кіраванне паролямі
 lockwise-header-content = { -lockwise-brand-name } надзейна захоўвае вашы паролі ў вашым браўзеры.
+passwords-title-logged-in = Кіруйце сваімі паролямі
 lockwise-header-content-logged-in = Бяспечна захоўвайце і сінхранізуйце паролі на ўсіх сваіх прыладах.
 protection-report-save-passwords-button = Захоўваць паролі
     .title = Захоўваць паролі ў { -lockwise-brand-short-name }
