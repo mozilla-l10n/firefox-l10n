@@ -26,5 +26,5 @@ profile-manager-work-offline =
     .label = Працаваць па-за сеткай
     .accesskey = п
 profile-manager-use-selected =
-    .label = Ужываць вылучаны профіль без запыту падчас запуску
+    .label = Ужываць вылучаны профіль без запыту пры запуску
     .accesskey = ж
