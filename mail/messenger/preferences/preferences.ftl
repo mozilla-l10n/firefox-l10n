@@ -116,9 +116,6 @@ restore-default-label =
     .label = Palauta oletusasetus
     .accesskey = P
 default-search-engine = Oletushakukone
-add-search-engine =
-    .label = Lisää tiedostosta
-    .accesskey = L
 add-web-search-engine =
     .label = Lisää…
     .accesskey = L
@@ -315,12 +312,6 @@ quoted-text-color =
     .accesskey = V
 search-handler-table =
     .placeholder = Suodata sisältötyypit ja toiminnot
-type-column-label =
-    .label = Sisältötyyppi
-    .accesskey = S
-action-column-label =
-    .label = Toiminto
-    .accesskey = o
 type-column-header = Sisältötyyppi
 save-to-label =
     .label = Tallenna kansioon
@@ -699,5 +690,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Pahoittelut! Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
        *[other] Pahoittelut! Ei hakutuloksia asetuksista haulle ”<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Valitettavasti asetuksista ei löytynyt tuloksia haulla “<span data-l10n-name="query"></span>”.
+       *[other] Valitettavasti asetuksista ei löytynyt tuloksia haulla “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Tarvitsetko apua? Vieraile <a data-l10n-name="url">{ -brand-short-name }-tuessa</a>
