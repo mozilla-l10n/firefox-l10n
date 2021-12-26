@@ -27,9 +27,9 @@ graph-week-summary-private-window = Трэкеры, якія { -brand-short-name
 protection-report-webpage-title = Панэль стану аховы
 protection-report-page-content-title = Панэль стану аховы
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = { -brand-short-name } можа ахоўваць вашу прыватнасць за кадрам падчас аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
+protection-report-page-summary = { -brand-short-name } можа ахоўваць вашу прыватнасць за кадрам у часе аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } ахоўвае вашу прыватнасць за кадрам падчас аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
+protection-report-page-summary-default = { -brand-short-name } ахоўвае вашу прыватнасць за кадрам у часе аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
 protection-report-settings-link = Кіруйце сваімі наладамі прыватнасці і бяспекі
 etp-card-title-always = Узмоцненая ахова ад сачэння: заўсёды ўключана
 etp-card-title-custom-not-blocking = Узмоцненая ахова ад сачэння: ВЫКЛЮЧАНА
@@ -61,6 +61,7 @@ lockwise-title = Больш ніколі не забывайце свой пар
 lockwise-title-logged-in2 = Кіраванне паролямі
 lockwise-header-content = { -lockwise-brand-name } надзейна захоўвае вашы паролі ў вашым браўзеры.
 passwords-title-logged-in = Кіруйце сваімі паролямі
+passwords-header-content = { -brand-product-name } надзейна захоўвае вашы паролі ў вашым браўзеры.
 lockwise-header-content-logged-in = Бяспечна захоўвайце і сінхранізуйце паролі на ўсіх сваіх прыладах.
 protection-report-save-passwords-button = Захоўваць паролі
     .title = Захоўваць паролі ў { -lockwise-brand-short-name }
@@ -69,6 +70,8 @@ protection-report-manage-passwords-button = Кіраваць паролямі
 lockwise-mobile-app-title = Вазьміце свае паролі ўсюды
 lockwise-no-logins-card-content = Выкарыстоўвайце паролі, захаваныя ў { -brand-short-name }, на любой прыладзе.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> і <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+protection-report-passwords-save-passwords-button = Захаваць паролі
+    .title = Захаваць паролі
 protection-report-passwords-manage-passwords-button = Кіраванне паролямі
     .title = Кіраваць паролямі
 # Variables:
