@@ -235,7 +235,7 @@ translate-exceptions =
 use-system-locale =
     .label = Выкарыстоўваць налады аперацыйнай сістэмы для “{ $localeName }” для фармату дат, часу, лічбаў і адзінак вымярэння.
 check-user-spelling =
-    .label = Правяраць арфаграфію ў час набору
+    .label = Правяраць арфаграфію ў часе набору
     .accesskey = н
 
 ## General Section - Files and Applications
@@ -868,6 +868,10 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Міжсайтавыя кукі сачэння — уключна з кукамі сацыяльных сетак
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Міжсайтавыя кукі — уключна з кукамі сацыяльных сетак
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Кукі сачэння між сайтамі
+sitedata-option-block-cross-site-cookies =
+    .label = Кукі сачэння між сайтамі, ізаляваць іншыя міжсайтавыя кукі
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Міжсайтавыя і трэкеры сацыяльных сетак, ізаляваць астатнія кукі
 sitedata-option-block-unvisited =

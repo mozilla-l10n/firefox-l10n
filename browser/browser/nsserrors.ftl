@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Здарылася памылка падчас злучэння з { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код памылкі: { $error }
-
 psmerr-ssl-disabled = Немагчыма бяспечна злучыцца, бо пратакол SSL забаронены.
 psmerr-ssl2-disabled = Немагчыма бяспечна злучыцца, бо сайт карыстаецца састарэлай небяспечнай версіяй пратакола SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Вы атрымалі няспраўны сертыфікат.  Звяжыцеся, калі ласка, з адміністратарам сервера ці з э-паштовым карэспандэнтам і паведаміце ім наступныя звесткі:
     
     Ваш сертыфікат змяшчае серыйны нумар, аднолькавы з нумарам іншага сертыфіката, выдадзенага цэнтрам сертыфікацыі.  Атрымайце, калі ласка, новы сертыфікат, які змяшчае ўнікальны серыйны нумар.
-
 ssl-error-export-only-server = Немагчыма бяспечна злучыцца. Пір не падтрымлівае высокаўзроўневае шыфраванне.
 ssl-error-us-only-server = Немагчыма бяспечна злучыцца. Пір патрабуе высокаўзроўневае шыфраванне, якое не падтрымліваецца.
 ssl-error-no-cypher-overlap = Немагчыма бяспечна злучыцца з пірам: няма агульнага алгарытму(-аў) шыфравання.
@@ -161,7 +158,7 @@ ssl-error-no-supported-signature-algorithm = Не наладжаны ні адз
 ssl-error-unsupported-signature-algorithm = Пір выкарыстоўвае непадтрыманае спалучэнне алгарытмаў подпісу і хэшавання.
 ssl-error-missing-extended-master-secret = Пір спрабаваў прадоўжыць без карэктнага пашырэння extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Пір спрабаваў прадоўжыць з нечаканым пашырэннем extended_master_secret.
-sec-error-io = Здарылася памылка ўводу/вываду падчас бяспечнага апазнавання.
+sec-error-io = Здарылася памылка ўводу/вываду ў часе бяспечнага апазнавання.
 sec-error-library-failure = няўдача бібліятэкі бяспекі.
 sec-error-bad-data = бібліятэка бяспекі: атрыманы кепскія дадзеныя.
 sec-error-output-len = бібліятэка бяспекі: памылковая даўжыня вываду.
