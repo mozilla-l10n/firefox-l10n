@@ -110,6 +110,12 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Yönlendir
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] İletiyi sil
+           *[other] Seçilmiş iletileri sil
+        }
 
 ## Message header pane
 
