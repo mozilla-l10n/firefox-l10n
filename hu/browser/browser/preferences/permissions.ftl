@@ -5,77 +5,59 @@
 permissions-window =
     .title = Kivételek
     .style = width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Weboldal címe
     .accesskey = o
-
 permissions-block =
     .label = Tiltás
     .accesskey = T
-
 permissions-session =
     .label = Engedélyezés a munkamenetben
     .accesskey = m
-
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
-
 permissions-button-off =
     .label = Kikapcsolás
     .accesskey = K
-
 permissions-button-off-temporarily =
     .label = Ideiglenes kikapcsolás
     .accesskey = I
-
 permissions-site-name =
     .label = Weboldal
-
 permissions-status =
     .label = Állapot
-
 permissions-remove =
     .label = Weboldal eltávolítása
     .accesskey = v
-
 permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
-
 permission-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V
-
 permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
-
 permissions-searchbox =
     .placeholder = Weboldal keresése
-
 permissions-capabilities-autoplay-allow =
     .label = Hang és videó engedélyezése
 permissions-capabilities-autoplay-block =
     .label = Hang blokkolása
 permissions-capabilities-autoplay-blockall =
     .label = Hang és videó blokkolása
-
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
-
 permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
     .value = Tiltás
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
-
 permissions-capabilities-listitem-off =
     .value = Ki
 permissions-capabilities-listitem-off-temporarily =
@@ -152,7 +134,7 @@ permissions-site-location-window =
     .style = { permissions-window.style }
 permissions-site-location-desc = A következő weboldalak a helyadatait kérték. Megadhatja, hogy mely weboldalak érhetik el a tartózkodási helyét. Az új helyadat-kéréseket is blokkolhatja.
 permissions-site-location-disable-label =
-    .label = Új tartózkodási hely kérések blokkolása
+    .label = Új kérések blokkolása, melyek hozzáférést kének a tartózkodási helyéhez
 permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak helyadatokat kérjenek. A helyadatok blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Virtual Reality
@@ -162,7 +144,7 @@ permissions-site-xr-window =
     .style = { permissions-window.style }
 permissions-site-xr-desc = A következő weboldalak hozzáférést kértek a virtuális valóság eszközeihez. Megadhatja, hogy mely weboldalak érhetik el a virtuális valóság eszközeit. Az új virtuális valóság eszközkéréseket is blokkolhatja.
 permissions-site-xr-disable-label =
-    .label = Új virtuális valóság eszközkérések blokkolása
+    .label = Új kérések blokkolása, melyek hozzáférést kének a virtuális valóságot nyújtó eszközeihez
 permissions-site-xr-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak engedélyt kérjenek a virtuális valóság eszközeihez. A virtuális valóság eszközök blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Camera
@@ -172,7 +154,7 @@ permissions-site-camera-window =
     .style = { permissions-window.style }
 permissions-site-camera-desc = A következő weboldalak kérték, hogy hozzáférhessenek a kamerájához. Megadhatja, hogy mely weboldalak férjenek hozzá a kamerájához. Az új kamera hozzáférési kéréseket is blokkolhatja.
 permissions-site-camera-disable-label =
-    .label = Új kamera hozzáfés kérések blokkolása
+    .label = Új kérések blokkolása, melyek hozzáférést kének a kamerájához
 permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak kamera hozzáférést kérjenek. A kamera hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Microphone
@@ -182,5 +164,5 @@ permissions-site-microphone-window =
     .style = { permissions-window.style }
 permissions-site-microphone-desc = A következő weboldalak kérték, hogy hozzáférhessenek a mikrofonjához. Megadhatja, hogy mely weboldalak férjenek hozzá a mikrofonjához. Az új mikrofon hozzáférési kéréseket is blokkolhatja.
 permissions-site-microphone-disable-label =
-    .label = Új mikrofon hozzáférés kérések blokkolása
+    .label = Új kérések blokkolása, melyek hozzáférést kének a mikrofonjához
 permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak mikrofon hozzáférést kérjenek. A mikrofon hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
