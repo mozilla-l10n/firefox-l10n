@@ -4,6 +4,8 @@
 
 account-settings-title = Kimlik Doğrulama Ayarları
 account-channel-title = Varsayılan Kanallar
+chat-autologin =
+    .label = Başlangıçta oturum aç
 chat-encryption-generic = Genel
 chat-encryption-log =
     .label = Görüşme günlüklerine uçtan uca şifrelemeli iletileri dahil et
