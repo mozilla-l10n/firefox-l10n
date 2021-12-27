@@ -2,24 +2,35 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = Nýr flipi
+    .accesskey = f
 toolbar-context-menu-reload-selected-tab =
-    .label = Endurhlaða völdum flipa
-    .accesskey = R
+    .label = Endurhlaða valinn flipa
+    .accesskey = r
 toolbar-context-menu-reload-selected-tabs =
     .label = Endurhlaða völdum flipum
-    .accesskey = R
+    .accesskey = r
 toolbar-context-menu-bookmark-selected-tab =
     .label = Bókamerkja valinn flipa…
-    .accesskey = T
+    .accesskey = k
 toolbar-context-menu-bookmark-selected-tabs =
     .label = Bókamerkja valda flipa…
-    .accesskey = T
+    .accesskey = k
 toolbar-context-menu-select-all-tabs =
     .label = Velja alla flipa
-    .accesskey = S
+    .accesskey = a
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Opna aftur lokaðan flipa
+            [one] Opna aftur lokaðan flipa
+           *[other] Opna aftur lokaða flipa
+        }
+    .accesskey = O
 toolbar-context-menu-manage-extension =
     .label = Stjórna viðbót
-    .accesskey = E
+    .accesskey = j
 toolbar-context-menu-remove-extension =
     .label = Fjarlægja viðbót
     .accesskey = v
@@ -33,14 +44,32 @@ toolbar-context-menu-report-extension =
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Festa við yfirflæði valmynd
+    .label = Festa við yfirflæðivalmynd
     .accesskey = F
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Fela hnapp þegar hann er tómur
+    .accesskey = p
 toolbar-context-menu-remove-from-toolbar =
-    .label = Fjarlægja frá verkfæraslá
+    .label = Fjarlægja af verkfæraslá
     .accesskey = r
 toolbar-context-menu-view-customize-toolbar =
     .label = Sérsníða…
     .accesskey = S
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Sérsníða verkfæraslá…
+    .accesskey = C
+toolbar-context-menu-bookmarks-toolbar-always-show-2 =
+    .label = Sýna alltaf
+    .accesskey = a
+toolbar-context-menu-bookmarks-toolbar-never-show-2 =
+    .label = Sýna aldrei
+    .accesskey = n
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = Sýna aðeins á nýjum flipa
+    .accesskey = p
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Sýna önnur bókamerki
+    .accesskey = m
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Valmyndaslá
     .accesskey = V

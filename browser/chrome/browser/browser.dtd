@@ -20,6 +20,7 @@
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Flakk">
 <!ENTITY fullScreenCmd.label "Fylla skjá">
 
 
@@ -86,7 +87,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.unverified.label "Nauðsynlegt er að staðfesta reikning.">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Tengja annað tæki">
 
-<!ENTITY customizeMenu.addToToolbar.label "Bæta við í tækjaslá">
+<!ENTITY customizeMenu.addToToolbar.label "Bæta við á verkfæraslá">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
@@ -133,7 +134,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Vafraflipa">
+<!ENTITY tabsToolbar.label "Vafraflipar">
 
 <!ENTITY uiTour.infoPanel.close "Loka">
 

@@ -38,6 +38,9 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Raða eftir nafni
     .accesskey = r
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Önnur bókamerki
 places-library =
     .title = Safn
     .style = width:700px; height:500px;
