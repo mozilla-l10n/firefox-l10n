@@ -195,6 +195,14 @@ about-debugging-tmp-extension-remove-button = Fjarlægja
 about-debugging-tmp-extension-install-message = Veldu manifest.json skrá eða .xpi/.zip safnskrá
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = Þessi vefviðbót er með tímabundið auðkenni. <a>Frekari upplýsingar</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = Manifest URL-slóð
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = Innra UUID
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
