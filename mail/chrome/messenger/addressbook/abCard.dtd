@@ -62,6 +62,8 @@
 <!ENTITY Home.accesskey                 "E">
 <!ENTITY HomeAddress.label              "Heimilisfang:">
 <!ENTITY HomeAddress.accesskey          "f">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Borg/Sveitarfélag:">
 <!ENTITY HomeCity.accesskey             "B">
 <!ENTITY HomeState.label                "Ríki/hérað:">
@@ -90,6 +92,8 @@
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Heimilisfang:">
 <!ENTITY WorkAddress.accesskey          "H">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Borg/Sveitarfélag:">
 <!ENTITY WorkCity.accesskey             "B">
 <!ENTITY WorkState.label                "Ríki/Hérað:">
