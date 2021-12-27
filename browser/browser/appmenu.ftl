@@ -52,6 +52,12 @@ appmenuitem-exit2 =
             [linux] Hætta
            *[other] Hætta
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Opna forritavalmynd
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Loka forritavalmynd
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -59,6 +65,10 @@ appmenuitem-settings =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Auka aðdrátt
+appmenuitem-zoom-reduce =
+    .label = Minnka aðdrátt
 appmenuitem-fullscreen =
     .label = Fylla skjá
 
@@ -104,11 +114,67 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = Hvað er nýtt
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Láta vita um nýja eiginleika
+    .accesskey = L
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = Afkastavakt
+    .tooltiptext = Skrá afkastasnið
+profiler-popup-button-recording =
+    .label = Afkastavakt
+    .tooltiptext = Afkastavaktin er að skrá afkastasnið
+profiler-popup-button-capturing =
+    .label = Afkastavakt
+    .tooltiptext = Afkastavaktin er að lesa afkastasnið
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Birta meiri upplýsingar
+profiler-popup-description-title =
+    .value = Skrá, greina, deila
+profiler-popup-description = Vertu í samstarfi um afkastavandamál með því að birta afkastasnið til að deila með teyminu þínu.
+profiler-popup-learn-more = Fræðast meira
+profiler-popup-learn-more-button =
+    .label = Fræðast meira
+profiler-popup-settings =
+    .value = Stillingar
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Breyta stillingum…
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Breyta stillingum…
+profiler-popup-disabled =
+    Afkastaskráningin er óvirk eins og er, líklega vegna þess að einkavafursgluggi
+    sé opinn.
+profiler-popup-recording-screen = Skrái…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Sérsniðið
+profiler-popup-start-recording-button =
+    .label = Hefja skráningu
+profiler-popup-discard-button =
+    .label = Henda
+profiler-popup-capture-button =
+    .label = Grípa
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -118,6 +184,14 @@ appmenuitem-save-page =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Vefhönnuður
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Myndefni
+profiler-popup-presets-custom-label =
+    .label = Sérsniðið
 
 ## History panel
 
