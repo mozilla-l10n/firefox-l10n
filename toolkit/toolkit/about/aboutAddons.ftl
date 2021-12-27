@@ -8,6 +8,9 @@ search-header =
     .searchbuttonlabel = Leita
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Náðu í viðbætur og þemu á <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Náðu í orðasöfn á <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Náðu í tungumálapakka á <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Engar viðbætur af þessari tegund hafa verið settar inn
 list-empty-available-updates =
@@ -43,6 +46,8 @@ detail-update-manual =
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Keyra í huliðsgluggum
+detail-private-disallowed-description2 = Þessi viðbót keyrir ekki á meðan einkavafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+detail-private-required-description2 = Þessi viðbót hefur aðgang að athöfnum þínum á netinu á meðan einkavafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 detail-private-browsing-on =
     .label = Heimila
     .tooltiptext = Heimila í huliðsvöfrun
