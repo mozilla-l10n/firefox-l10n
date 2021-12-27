@@ -51,7 +51,7 @@ onboarding-multistage-pin-default-subtitle = Хуткае, бяспечнае і
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Выберыце { -brand-short-name } у раздзеле «Вэб-браўзер», калі адкрыюцца налады
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
-onboarding-multistage-pin-default-help-text = Гэта прывяжа { -brand-short-name } да панэлі задач і адкрые налады
+onboarding-multistage-pin-default-help-text = Гэта прывяжа { -brand-short-name } да панэлі заданняў і адкрые налады
 onboarding-multistage-pin-default-primary-button-label = Зрабіць { -brand-short-name } маiм асноўным браўзерам
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
@@ -111,13 +111,13 @@ mr1-onboarding-reduce-motion-button-label = Адключыць анімацыі
 mr1-onboarding-pin-header =
     { PLATFORM() ->
         [macos] Для зручнага доступу дадайце { -brand-short-name } у Док
-       *[other] Для зручнага доступу замацуйце { -brand-short-name } на панэлі задач
+       *[other] Для зручнага доступу замацуйце { -brand-short-name } на панэлі заданняў
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Трымаць у доку
-       *[other] Замацаваць на панэлі задач
+       *[other] Замацаваць на панэлі заданняў
     }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
@@ -127,7 +127,7 @@ mr1-onboarding-pin-primary-button-label =
 mr1-onboarding-get-started-primary-button-label = Пачаць
 mr1-onboarding-welcome-header = Вітаем у { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Зрабіць { -brand-short-name } маім асноўным браўзерам
-    .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі задач
+    .title = Усталёўвае { -brand-short-name } прадвызначаным браўзерам і замацоўвае ў панэлі заданняў
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Зрабіць { -brand-short-name } маім прадвызначаным браўзерам
