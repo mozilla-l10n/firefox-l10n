@@ -34,7 +34,7 @@ upgrade-dialog-new-primary-win7-button = Добра, зразумела!
 upgrade-dialog-pin-title =
     { PLATFORM() ->
         [macos] Трымаць { -brand-short-name } у доку
-       *[other] Замацаваць { -brand-short-name } на панэлі задач
+       *[other] Замацаваць { -brand-short-name } на панэлі заданняў
     }
 # The English macOS string avoids repeating "Keep" a third time, so if your
 # translations don't repeat anyway, the same string can be used cross-platform.

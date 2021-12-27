@@ -13,7 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Зрабіць { -brand-short-name } вашым асноўным браўзерам?
-default-browser-prompt-message-pin = Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным браўзерам і замацуйце на панэлі задач.
+default-browser-prompt-message-pin = Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным браўзерам і замацуйце на панэлі заданняў.
 default-browser-prompt-message-pin-mac = Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным браўзерам і дадайце ў Док.
 default-browser-prompt-button-primary-pin = Зрабіць асноўным браўзерам
 default-browser-prompt-title-alt = Зрабіць { -brand-short-name } вашым прадвызначаным браўзерам?
