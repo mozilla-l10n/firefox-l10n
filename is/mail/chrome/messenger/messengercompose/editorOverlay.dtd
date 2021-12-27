@@ -61,13 +61,11 @@
 <!ENTITY decreaseFontSize.label "Minna">
 <!ENTITY decreaseFontSize.accesskey "n">
 <!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ",">
- <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Stærra">
 <!ENTITY increaseFontSize.accesskey "S">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 ".">
- <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Stærð">
 <!ENTITY fontSizeMenu.accesskey "æ">
@@ -263,6 +261,7 @@
 <!ENTITY tableProperties.label "Eiginleikar töflu…">
 <!ENTITY tableProperties.accesskey "g">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Mynd">
 <!ENTITY imageToolbarCmd.tooltip "Setja inn nýja mynd eða breyta eiginleikum valinnar myndar">
 <!ENTITY hruleToolbarCmd.label "L.Lína">
@@ -278,8 +277,8 @@
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Skilgreina leturstærð">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Minni leturstærð">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Stærri leturstærð">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Minna letur">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Stærra letur">
 <!ENTITY boldToolbarCmd.tooltip "Feitletrað">
 <!ENTITY italicToolbarCmd.tooltip "Skáletrað">
 <!ENTITY underlineToolbarCmd.tooltip "Undirstrikað">
@@ -295,11 +294,11 @@
 <!ENTITY alignJustifyButton.tooltip "Jafna texta bæði eftir vinstri og hægri spássíu">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Setja inn">
-<!ENTITY insertTOC.accesskey "i">
-<!ENTITY updateTOC.label "Uppfærslur">
-<!ENTITY updateTOC.accesskey "u">
-<!ENTITY removeTOC.label "Fjarlægja">
-<!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "Efnisyfirlit…">
-<!ENTITY tocMenu.accesskey "E">
+<!ENTITY insertTOC.label          "Setja inn">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Uppfærslur">
+<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "Fjarlægja">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Efnisyfirlit…">
+<!ENTITY tocMenu.accesskey        "E">
