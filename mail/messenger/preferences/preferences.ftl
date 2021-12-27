@@ -287,7 +287,7 @@ inline-label =
 as-attachment-label =
     .label = Sem viðhengi
 extension-label =
-    .label = bæta skráarendingu við skráarnafn
+    .label = bæta skráarendingu við skráarheiti
     .accesskey = b
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",

@@ -46,6 +46,12 @@ message-header-msg-not-flagged =
 
 ## Action Button Context Menu
 
+toolbar-context-menu-manage-extension =
+    .label = Stjórna viðbót
+    .accesskey = v
+toolbar-context-menu-remove-extension =
+    .label = Fjarlægja viðbót
+    .accesskey = r
 
 ## Message headers
 

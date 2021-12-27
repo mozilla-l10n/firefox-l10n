@@ -11,6 +11,9 @@ connection-dns-over-https-url-custom =
     .label = Sérsniðið
     .accesskey = S
     .tooltiptext = Settu inn valda URL-slóð til að leysa DNS yfirr HTTPS
+connection-disable-extension =
+    .label = Slökkva á viðbót
+disable-extension-button = Slökkva á viðbót
 # Variables:
 #   $name (String) - The extension that is controlling the proxy settings.
 #

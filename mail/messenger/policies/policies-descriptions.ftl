@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Stilla stefnur sem WebExtensions hafa aðgang að í gegnum chrome.storage.managed.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsvæði sem styðja slíkt.
 policy-BlockAboutAddons = Loka á aðgang að viðbótastýringunni (about:addons).
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
@@ -20,6 +21,14 @@ policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } se
 policy-DisableTelemetry = Slökkva á gagnasöfnun.
 policy-DisplayMenuBar = Birta valmyndastikuna sjálfgefið.
 policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlunarviðbótum (Encrypted Media Extensions) og mögulega læsa þeim.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Setja upp, fjarlægja eða læsa viðbótum. Uppsetningarvalkosturinn tekur við vefslóðum og skráaslóðum sem breytum. Valkostir til að fjarlægja eða læsa viðbót krefjast auðkennis viðbótarinnar.
+policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
+policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp viðbætur.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
