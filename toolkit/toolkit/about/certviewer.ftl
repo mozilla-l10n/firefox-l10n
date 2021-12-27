@@ -15,6 +15,9 @@ certificate-viewer-signature-scheme = Undirritunarskema
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Þessi viðbót hefur verið merkt sem mikilvæg, sem þýðir að viðtakendur verða að hafna skilríkinu ef þeir skilja það ekki.
 
 ##
 
