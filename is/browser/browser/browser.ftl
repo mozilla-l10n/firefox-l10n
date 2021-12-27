@@ -258,6 +258,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Flytja inn bókamerki...
+    .tooltiptext = Flytja inn bókamerki úr öðrum vafra yfir í { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -339,6 +342,9 @@ pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýtt
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Stjórna bókamerkjum
+bookmarks-recent-bookmarks-panel-subheader = Nýleg bókamerki
 bookmarks-toolbar-chevron =
     .tooltiptext = Sýna fleiri bókamerki
 bookmarks-sidebar-content =
@@ -361,6 +367,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Fela bókamerkjaslá
            *[other] Skoða bókamerkjaslá
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Fela bókamerkjaslá
+           *[other] Sýna bókamerkjaslá
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -373,12 +385,22 @@ bookmarks-tools =
     .label = Verkfæri fyrir bókamerki
 bookmarks-bookmark-edit-panel =
     .label = Breyta bókamerki
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bókamerkjaslá
+    .accesskey = B
+    .aria-label = Bókamerki
 bookmarks-toolbar-menu =
     .label = Bókamerkjaslá
 bookmarks-toolbar-placeholder =
     .title = Hlutir í bókamerkjaslá
 bookmarks-toolbar-placeholder-button =
     .label = Hlutir í bókamerkjaslá
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Bókamerkja núverandi flipa
 
 ## Library Panel items
 
@@ -393,9 +415,26 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Gera við textakóðun
+    .tooltiptext = Giska á rétta stafatöflu texta út frá efni síðunnar
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Viðbætur og þemu
+    .tooltiptext = Sýsla með viðbætur þínar og þemu { $shortcut }
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Stillingar
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Opna stillingar ({ $shortcut })
+           *[other] Opna stillingar
+        }
 
 ## More items
 
@@ -472,6 +511,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Flakk
 navbar-downloads =
     .label = Niðurhal
 navbar-overflow =
@@ -498,7 +542,7 @@ navbar-accessibility-indicator =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = Vafraflipa
+    .aria-label = Vafraflipar
 tabs-toolbar-new-tab =
     .label = Nýr flipi
 tabs-toolbar-list-all-tabs =
