@@ -258,13 +258,23 @@ addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi viðbó
 addon-badge-recommended2 =
     .title = { -brand-product-name } mælir aðeins með viðbótum sem uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Opinber viðbót byggð af Mozilla. Uppfyllir öryggis- og afkastastaðla
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Þessi viðbót hefur verið yfirfarin til að uppfylla staðla okkar um öryggi og afköst
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
+addon-permissions-empty = Þessi viðbót þarf engar heimildir
+recommended-extensions-heading = Tillögur að viðbótum
 
 ## Page headings
 
-extension-heading = Stjórnborð viðbóta
+extension-heading = Sýsla með viðbæturnar þínar
 theme-heading = Stjórnborð þema
 plugin-heading = Stjórnborð tengiforrita
 dictionary-heading = Stjórnborð orðabóka

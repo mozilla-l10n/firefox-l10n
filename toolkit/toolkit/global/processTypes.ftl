@@ -10,6 +10,7 @@
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Efni sem Mozilla gefur forgang
+process-type-extension = Viðbót
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h

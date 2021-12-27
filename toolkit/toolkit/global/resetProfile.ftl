@@ -4,5 +4,6 @@
 
 refresh-profile-dialog-button =
     .label = Uppfæra { -brand-short-name }
+refresh-profile-dialog-description = Byrjaðu upp á nýtt til að laga afkastavandamál. Þetta mun fjarlægja viðbætur þínar og sérstillingar. Þú munt ekki missa nauðsynlegar upplýsingar eins og bókamerki og lykilorð.
 refresh-profile = Lagfæra { -brand-short-name }
 refresh-profile-button = Uppfæra { -brand-short-name }…
