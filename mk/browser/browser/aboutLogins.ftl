@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Најави и лозинки
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Пребарај најави
-
 create-login-button = Креирај нова најава
-
 fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
@@ -45,6 +40,8 @@ login-list-count =
 login-list-sort-label-text = Подреди според:
 login-list-name-option = Име (А-Ш)
 login-list-name-reverse-option = Име (Ш-А)
+login-list-username-option = Корисничко име (А-Ш)
+login-list-username-reverse-option = Корисничко име (Ш-А)
 about-logins-login-list-alerts-option = Предупредувањa
 login-list-last-changed-option = Последна промена
 login-list-last-used-option = Последен пат користена
@@ -59,6 +56,11 @@ about-logins-list-item-breach-icon =
     .title = Пробиена веб-страница
 about-logins-list-item-vulnerable-password-icon =
     .title = Ранлива лозинка
+about-logins-list-section-vulnerable = Ранливи лозинки
+about-logins-list-section-nothing = Без предупредување
+about-logins-list-section-today = Денес
+about-logins-list-section-yesterday = Вчера
+about-logins-list-section-week = Последните 7 дена
 
 ## Introduction screen
 
@@ -68,7 +70,6 @@ login-intro-description = Ако ги зачувавте најавувањат�
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-help = Посетете ја <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Поддршка </a> за повеќе помош.
-
 about-logins-intro-import2 = Ако вашите најавувања се зачувани надвор од { -brand-product-name }, можете да <a data-l10n-name="import-browser-link">ги увезете од друг прелистувач</a> или <a data-l10n-name="import-file-link">од датотека</a>
 
 ## Login
@@ -93,6 +94,7 @@ login-item-copied-password-button-text = Ископирана!
 login-item-save-changes-button = Зачувај промени
 login-item-save-new-button = Сними
 login-item-cancel-button = Откажи
+login-item-time-created = Создадено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Последно користено: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
@@ -106,19 +108,14 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредувајте ја зачуваната најава
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да ја видите вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте ја зачуваната лозинка
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте ја зачуваната лозинка
-
-## Master Password notification
-
 
 ## Primary Password notification
 
@@ -126,17 +123,13 @@ master-password-reload-button =
     .label = Најавете се
     .accesskey = Н
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
-
 confirm-delete-dialog-message = Ова дејство не може да се врати.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
-
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?
 confirm-discard-changes-dialog-message = Сите незачувани промени ќе бидат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отфрли
