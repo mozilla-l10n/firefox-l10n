@@ -7,8 +7,34 @@ privatebrowsingpage-open-private-window-label = Opna huliðsglugga
 about-private-browsing-search-placeholder = Leita á vefnum
 about-private-browsing-info-title = Þú ert í huliðsglugga
 about-private-browsing-info-myths = Algengar mýtur um huliðsleit
+about-private-browsing-search-btn =
+    .title = Leita á vefnum
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Leitaðu með { $name } eða settu inn vistfang
+about-private-browsing-handoff-no-engine =
+    .title = Leitaðu eða settu inn vistfang
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Leitaðu með { $name } eða settu inn vistfang
+about-private-browsing-handoff-text-no-engine = Leitaðu eða settu inn vistfang
 about-private-browsing-not-private = Þú ert ekki í huliðsglugga.
 about-private-browsing-info-description = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.
+about-private-browsing-need-more-privacy = Þarftu meira næði?
+about-private-browsing-turn-on-vpn = Prófaðu { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-private-window = Einkagluggi: { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar öllum einkagluggum. Þetta gerir þig ekki nafnlausan á netinu.
+about-private-browsing-info-description-simplified = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar öllum einkagluggum. Þetta gerir þig ekki nafnlausan á netinu.
+about-private-browsing-learn-more-link = Fræðast meira
+about-private-browsing-hide-activity = Feldu virkni þína og staðsetningu, hvar sem þú vafrar
+about-private-browsing-get-privacy = Fáðu persónuvernd hvar sem þú vafrar
+about-private-browsing-hide-activity-1 = Feldu vafravirkni og staðsetningu með { -mozilla-vpn-brand-name }. Einn smellur útbýr örugga tengingu, jafnvel á þráðlausum Wi-Fi almenningsnetum.
+about-private-browsing-prominent-cta = Haltu þig til hlés með { -mozilla-vpn-brand-name }
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } er sjálfgefna leitarvélin þín í einkagluggum
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Til að velja aðra leitarvél skaltu fara í <a data-l10n-name="link-options">Valkostir</a>
