@@ -74,7 +74,7 @@ login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -l
 about-logins-intro-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Farðu í <a data-l10n-name="passwords-help-link">aðstoð fyrir lykilorð</a> til að fá frekari hjálp.
 about-logins-intro-browser-only-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -brand-product-name }</a>
-about-logins-intro-import2 = Ef innskráningar þínar eru vistaðar utan { -brand-product-name } geturðu <a data-l10n-name="import-browser-link">flutt þau inn úr öðrum vafra</a> eða <a data-l10n- name="import-file-link">úr skrá</a>
+about-logins-intro-import2 = Ef innskráningar þínar eru vistaðar utan { -brand-product-name } geturðu <a data-l10n-name="import-browser-link">flutt þau inn úr öðrum vafra</a> eða <a data-l10n-name="import-file-link">úr skrá</a>
 
 ## Login
 
