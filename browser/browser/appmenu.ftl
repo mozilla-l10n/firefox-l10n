@@ -32,12 +32,26 @@ appmenuitem-history =
     .label = Ferill
 appmenuitem-downloads =
     .label = Niðurhöl
+appmenuitem-passwords =
+    .label = Lykilorð
+appmenuitem-addons-and-themes =
+    .label = Viðbætur og þemu
 appmenuitem-print =
     .label = Prenta…
+appmenuitem-find-in-page =
+    .label = Finna á síðu…
 appmenuitem-zoom =
     .value = Aðdráttur
+appmenuitem-more-tools =
+    .label = Fleiri verkfæri
 appmenuitem-help =
     .label = Hjálp
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Hætta
+           *[other] Hætta
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
