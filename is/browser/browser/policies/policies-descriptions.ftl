@@ -83,6 +83,7 @@ policy-SearchEngines = Stilla leitarvélar. Þessi stefna er aðeins í boði í
 policy-SearchSuggestEnabled = Virkja eða slökkva á leitarábendingar.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
+policy-ShowHomeButton = Sýna heimahnappinn á verkfæraslánni.
 policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 # “format” refers to the format used for the value of this policy.

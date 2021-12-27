@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Endurstilla sjálfgefin gildi
-customize-mode-menu-and-toolbars-header = Dragðu upphálds hlutina yfir á slánna eða yfirflæðisvalmynd.
+customize-mode-menu-and-toolbars-header = Dragðu eftirlætisatriðin yfir í verkfæraslána eða yfirflæðisvalmynd.
 customize-mode-overflow-list-title = Yfirflæðisvalmynd
 customize-mode-uidensity =
     .label = Þéttleiki
