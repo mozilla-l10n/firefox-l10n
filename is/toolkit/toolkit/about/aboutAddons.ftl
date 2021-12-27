@@ -200,6 +200,8 @@ preferences-addon-button =
         [windows] Valkostir
        *[other] Kjörstillingar
     }
+plugin-enabled-heading = Virkt
+plugin-disabled-heading = Óvirkt
 
 ## Pending uninstall message bar
 

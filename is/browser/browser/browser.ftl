@@ -141,6 +141,8 @@ urlbar-star-add-bookmark =
 
 page-action-manage-extension =
     .label = Sýsla með viðbót…
+page-action-remove-extension =
+    .label = Fjarlægja viðbót
 
 ## Auto-hide Context Menu
 
@@ -201,7 +203,7 @@ bookmark-panel =
 
 identity-connection-internal = Þetta er örugg { -brand-short-name } síða.
 identity-connection-file = Þessi síða er vistuð á tölvunni þinni.
-identity-extension-page = Þessi síða er hlaðinn inn af viðbót.
+identity-extension-page = Þessari síðu er hlaðið inn af viðbót.
 identity-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.
 identity-custom-root = Tenging staðfest af útgefanda skilríkis sem ekki er viðurkennt af Mozilla.
 identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).
@@ -284,7 +286,7 @@ urlbar-switch-to-tab =
     .value = Fara á flipa:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
-    .value = Skráarending:
+    .value = Viðbót:
 urlbar-go-button =
     .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
 urlbar-page-action-button =

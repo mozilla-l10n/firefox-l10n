@@ -27,6 +27,9 @@ cfr-doorhanger-extension-author = eftir { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tillaga
+cfr-doorhanger-extension-notification2 = Tillaga
+    .tooltiptext = Tillaga að viðbót
+    .a11y-announcement = Fyrirliggjandi er tillaga að viðbót
 
 ## Add-on statistics
 ## These strings are used to display the total number of

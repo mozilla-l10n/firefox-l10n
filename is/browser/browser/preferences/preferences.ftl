@@ -265,6 +265,10 @@ applications-always-ask =
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Nota { $plugin-name } (í { -brand-short-name })
@@ -859,7 +863,7 @@ collection-studies =
     .label = Leyfa { -brand-short-name } að setja upp og keyra rannsóknir
 collection-studies-link = Skoða rannsóknir frá { -brand-short-name }
 addon-recommendations =
-    .label = Leyfa { -brand-short-name } að gera sérsniðnar viðbótarviðbætur.
+    .label = Leyfa { -brand-short-name } að gera sérsniðnar tillögur um viðbætur.
 addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

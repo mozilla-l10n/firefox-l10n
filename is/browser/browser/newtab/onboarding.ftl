@@ -20,6 +20,7 @@ onboarding-start-browsing-button-label = Fara að vafra
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-add-extension-label = Bæta inn viðbótinni
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
