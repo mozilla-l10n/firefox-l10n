@@ -365,6 +365,7 @@ addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uar�
 addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
 recommended-extensions-heading = Jepysokue je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
+addon-sitepermissions-required = Ome’ẽ ko’ã jejapokuaa <span data-l10n-name="hostname">{ $hostname }</span>-pe:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿Emoheñoisépa? <a data-l10n-name="link">Emoheñoi ne temarã Firefox Color ndive.</a>

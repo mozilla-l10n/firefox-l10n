@@ -42,6 +42,7 @@ abuse-report-messagebar-submitting = Emondohína marandu <span data-l10n-name="a
 abuse-report-messagebar-submitted = Aguyje emondo haguére marandu. ¿Emboguesépa <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Aguyje emondo haguére marandu.
 abuse-report-messagebar-removed-extension = Aguyje emondo haguére marandu. Emboguéma pe jepysokue <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Aguyje emondo haguére pe marandu’i. Emboguéma pe jepysokue Tenda ñemoneĩ <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Aguyje emondo haguére marandu. Emboguéma pe téma <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Oiko jejavy emondokuévo marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua.
 abuse-report-messagebar-error-recent-submit = Noñemondói marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua oñemondóma haguére ambue marandu.
@@ -69,7 +70,8 @@ abuse-report-settings-suggestions-search = Emoambue ñemboheko jehekaha ijypyku�
 abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha tendayke pyahúpe
 abuse-report-deceptive-reason-v2 = Eha’ã umi ndaha’éiva
 abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
-abuse-report-broken-reason-extension-v2 = Ndoikói, omopẽ  ñanduti renda térã omombegue { -brand-product-name }
+abuse-report-broken-reason-extension-v2 = Ndoikói, omopẽ ñanduti renda térã omombegue { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Ndoikói, omopẽ ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ndoikói térã oipe’a ohechaukáva kundahára
 abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
 abuse-report-broken-suggestions-extension = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike jepysokue ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
