@@ -522,7 +522,7 @@
 <!ENTITY chatButton.label "Spjall">
 <!ENTITY glodaSearch.title "Víðtæk leit">
 <!ENTITY searchItem.title "Flýtileit">
-<!ENTITY mailViewsToolbarItem.title "Póstsýn">
+<!ENTITY mailViewsToolbarItem.title "Póstsýnir">
 <!ENTITY folderLocationToolbarItem.title "Möppustaðsetning">
 <!ENTITY tagButton.label "Flokkur">
 <!ENTITY compactButton.label "Þjappa">
@@ -581,7 +581,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
 <!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
 <!ENTITY appmenuEditMenu.label "Breyta">
-<!ENTITY appmenuToolbarLayout.label "Útlit tækjaslár…">
+<!ENTITY appmenuToolbarLayout.label "Útlit verkfæraslár…">
 <!ENTITY appmenuSelectThread.label "Velja umræðu">
 <!ENTITY appmenuSelectFlagged.label "Velja stjörnumerkt skilaboð">
 

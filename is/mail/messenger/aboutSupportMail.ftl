@@ -4,6 +4,7 @@
 
 accounts-title = Póst- og fréttareikningar
 show-private-data-main-text = Láttu nöfn reikninga fylgja með
+show-private-data-explanation-text = (hugsanlega auðkennandi upplýsingar)
 accounts-ID = Auðkenni
 accounts-name = Nafn
 accounts-incoming-server = Netþjónn inn
