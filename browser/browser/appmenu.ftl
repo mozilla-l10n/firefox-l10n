@@ -135,6 +135,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Sérsníða verkfæraslá…
 appmenu-taskmanager =
     .label = Verkefnisstjóri
 appmenu-developer-tools-extensions =

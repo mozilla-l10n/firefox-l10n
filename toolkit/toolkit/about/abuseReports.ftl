@@ -57,12 +57,12 @@ abuse-report-deceptive-example = Dæmi: Villandi lýsing eða myndir
 abuse-report-broken-reason-extension-v2 = Virkar ekki, lætur vefsvæði hætta að virka eða hægir á { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Virkar ekki, lætur vefsvæði hætta að virka eða hægir á { -brand-product-name }
 abuse-report-broken-example = Dæmi: Ýmislegt virkar ekki, keyrir hægar, eða er erfiðara að nota; hlutar vefsvæða hlaðast ekki inn eða líta skringilega út
-abuse-report-broken-suggestions-extension = Það hljómar eins og þú hafir lent í hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó viðbótina til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um viðbótarsmiðinn.
+abuse-report-broken-suggestions-extension = Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó viðbótina til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um viðbótarsmiðinn.
 abuse-report-broken-suggestions-sitepermission =
-    Það hljómar eins og þú hafir greint hugbúnaðarvillu. Auk þess að skila skýrslu hér, er besta leiðin
+    Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Auk þess að skila skýrslu hér, er besta leiðin
     til að leysa virknivandamál að hafa samband við hönnuði vefsvæðisins.
     <a data-l10n-name="support-link">Farðu á vefsvæðið</a> til að fá upplýsingar um þróunaraðila.
-abuse-report-broken-suggestions-theme = Það hljómar eins og þú hafir lent í hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó þemað til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um þemusmiðinn.
+abuse-report-broken-suggestions-theme = Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó þemað til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um þemusmiðinn.
 abuse-report-policy-suggestions = Athugið: Mál er varða höfundarrétt og vörumerki þarf að tilkynna annars staðar. <a data-l10n-name="report-infringement-link">Fylgið leiðbeiningunum hér</a> til að tilkynna slík mál.
 abuse-report-unwanted-example = Dæmi: Forrit setti hana inn án þess að biðja um leyfi
 abuse-report-other-reason = Eitthvað annað
