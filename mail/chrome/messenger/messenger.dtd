@@ -61,7 +61,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd2.label "Receber as próximas mensagens novas">
 <!ENTITY getNextNMsgCmd2.accesskey "t">
-<!ENTITY sendUnsentCmd.label "Enviar mensagens da pasta “Saída”">
+<!ENTITY sendUnsentCmd.label "Enviar mensagens não enviadas">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Inscrever…">
 <!ENTITY subscribeCmd.accesskey "v">
@@ -118,8 +118,8 @@
 <!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd2.label "Propriedades do grupo de notícias">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY undoDeleteMsgCmd.label "Desfazer (Excluir mensagem)">
-<!ENTITY redoDeleteMsgCmd.label "Refazer (Excluir mensagem)">
+<!ENTITY undoDeleteMsgCmd.label "Desfazer exclusão de mensagem">
+<!ENTITY redoDeleteMsgCmd.label "Refazer exclusão de mensagem">
 <!ENTITY undoMoveMsgCmd.label "Desfazer (Mover mensagem)">
 <!ENTITY redoMoveMsgCmd.label "Refazer (Mover mensagem)">
 <!ENTITY undoCopyMsgCmd.label "Desfazer (Copiar mensagem)">
