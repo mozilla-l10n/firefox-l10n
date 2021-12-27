@@ -21,7 +21,7 @@
 <!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "vCard">
+<!ENTITY attachVCardCmd.label "Cartão pessoal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
 <!ENTITY remindLater.label "Lembrar mais tarde">
 <!ENTITY remindLater.accesskey "L">
@@ -211,7 +211,7 @@
 <!ENTITY quoteButton.tooltip "Citar a mensagem anterior">
 <!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços">
 <!ENTITY spellingButton.tooltip "Verificar ortografia da seleção ou de toda a mensagem">
-<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta “Rascunhos”">
+<!ENTITY saveButton.tooltip "Salvar esta mensagem">
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
