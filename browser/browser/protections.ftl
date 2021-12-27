@@ -72,8 +72,8 @@ lockwise-no-logins-card-content = Выкарыстоўвайце паролі, �
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> і <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 protection-report-passwords-save-passwords-button = Захаваць паролі
     .title = Захаваць паролі
-protection-report-passwords-manage-passwords-button = Кіраванне паролямі
-    .title = Кіраваць паролямі
+protection-report-passwords-manage-passwords-button = Кіраваць паролямі
+    .title = Кіраванне паролямі
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
