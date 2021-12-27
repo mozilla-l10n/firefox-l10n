@@ -190,11 +190,15 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = Myndefni
+profiler-popup-presets-networking-label =
+    .label = Netvinnsla
 profiler-popup-presets-custom-label =
     .label = Sérsniðið
 
 ## History panel
 
+appmenu-reopen-all-tabs = Enduropna alla flipa
+appmenu-reopen-all-windows = Enduropna alla glugga
 appmenu-restore-session =
     .label = Sækja fyrri vafralotu
 appmenu-clear-history =
@@ -207,9 +211,14 @@ appmenu-recently-closed-windows =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } aðstoð
 appmenu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
+appmenu-get-help =
+    .label = Fá hjálp
+    .accesskey = h
 appmenu-help-report-site-issue =
     .label = Tilkynna vandamál á vefsvæði…
 appmenu-help-feedback-page =
