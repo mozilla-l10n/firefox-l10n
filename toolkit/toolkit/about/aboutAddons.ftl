@@ -141,6 +141,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Recente updates
 addon-category-recent-updates-title =
     .title = Recente updates
+addon-category-sitepermission = Websitemachtigingen
+addon-category-sitepermission-title =
+    .title = Websitemachtigingen
 
 ## These are global warnings
 
@@ -387,6 +390,7 @@ plugin-heading = Uw plug-ins beheren
 dictionary-heading = Uw woordenboeken beheren
 locale-heading = Uw talen beheren
 updates-heading = Uw updates beheren
+sitepermission-heading = Uw websitemachtigingen beheren
 discover-heading = Uw { -brand-short-name } personaliseren
 shortcuts-heading = Extensiesneltoetsen beheren
 default-heading-search-label = Meer add-ons zoeken
