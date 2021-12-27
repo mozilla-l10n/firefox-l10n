@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Skermôfbylding nei klamboerd kopiearje
 screenshots-cancel-button-title =
     .title = Annulearje
+screenshots-retry-button-title =
+    .title = Skermôfdruk opnij probearje
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
