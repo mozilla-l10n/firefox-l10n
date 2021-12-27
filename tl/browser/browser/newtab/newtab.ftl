@@ -235,5 +235,9 @@ newtab-custom-row-selector =
        *[other] { $num } rows
     }
 newtab-custom-sponsored-sites = Mga naka-sponsor na shortcut
+newtab-custom-pocket-title = Inirerekomenda ng { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Natatanging nilalaman na inorganisa ng { -pocket-brand-name }, bahagi ng pamilyang { -brand-product-name }
+newtab-custom-recent-title = Nakararaang mga-gawain
+newtab-custom-recent-subtitle = Isang pagpipilian ng mga kamakailang site at nilalaman
 newtab-custom-close-button = Isara
 newtab-custom-settings = Mamahala ng higit pang mga setting

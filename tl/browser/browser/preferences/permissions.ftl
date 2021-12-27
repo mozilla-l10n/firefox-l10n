@@ -5,77 +5,59 @@
 permissions-window =
     .title = Mga Exception
     .style = width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address ng website
     .accesskey = d
-
 permissions-block =
     .label = Harangin
     .accesskey = H
-
 permissions-session =
     .label = Payagan para sa Session
     .accesskey = S
-
 permissions-allow =
     .label = Payagan
     .accesskey = a
-
 permissions-button-off =
     .label = Patayin
     .accesskey = P
-
 permissions-button-off-temporarily =
     .label = Pansamantalang patayin
     .accesskey = P
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Kalagayan
-
 permissions-remove =
     .label = Alisin ang Website
     .accesskey = R
-
 permissions-remove-all =
     .label = Alisin ang Lahat ng mga Website
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Ang default para sa lahat ng mga website:
-
 permissions-searchbox =
     .placeholder = Maghanap ng Website
-
 permissions-capabilities-autoplay-allow =
     .label = Payagan ang Audio at Video
 permissions-capabilities-autoplay-block =
     .label = Harangin ang Audio
 permissions-capabilities-autoplay-blockall =
     .label = Harangin ang Audio at Video
-
 permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
     .label = Harangin
 permissions-capabilities-prompt =
     .label = Palaging Magtanong
-
 permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =
     .value = Harangin
 permissions-capabilities-listitem-allow-session =
     .value = Payagan ang Session
-
 permissions-capabilities-listitem-off =
     .value = Nakapatay
 permissions-capabilities-listitem-off-temporarily =
@@ -105,6 +87,7 @@ permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang 
 permissions-exceptions-https-only-window =
     .title = Mga Exception - HTTPS-Only Mode
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Maaari mong patayin ang HTTPS-Only Mode para sa mga tukoy na website. Hindi susubukang i-upgrade ng { -brand-short-name } ang koneksyon upang ma-secure ang HTTPS para sa mga site na iyon. Ang mga exception ay hindi nalalapat sa mga pribadong bintana.
 
 ## Exceptions - Pop-ups
 

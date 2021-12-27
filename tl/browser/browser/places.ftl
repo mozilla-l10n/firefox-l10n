@@ -14,6 +14,9 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Buksan Lahat sa mga Tab
     .accesskey = O
+places-open-in-window =
+    .label = Buksan sa Bagong Window
+    .accesskey = B
 places-open-in-private-window =
     .label = Buksan sa Bagong Private Window
     .accesskey = P
@@ -94,6 +97,9 @@ places-remove-bookmark =
            *[other] Alisin ang Bookmarks
         }
     .accesskey = i
+places-manage-bookmarks =
+    .label = Pamahalaan ang Mga Bookmark
+    .accesskey = P
 places-library =
     .title = Library
     .style = width:700px; height:500px;

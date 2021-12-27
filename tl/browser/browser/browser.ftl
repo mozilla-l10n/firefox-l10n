@@ -528,6 +528,7 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Bumagsak ang parte ng pahinang ito.</strong> Upang ipaalam sa { -brand-product-name } ang tungkol sa isyung ito at mas mabilis itong maayos, mangyaring magsumite ng ulat.
 crashed-subframe-learnmore-link =
     .value = Alamin
 crashed-subframe-submit =
@@ -611,6 +612,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Ayusin ang text encoding
+    .tooltiptext = Hulahan ang tamang text encoding mula sa nilalaman ng pahina
 
 ## Customize Toolbar Buttons
 
@@ -680,6 +684,8 @@ addon-removal-title = Alisin { $name }?
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Pamahalaan ang Account
 remote-tabs-sync-now = I-sync Ngayon
 
 ##
@@ -708,6 +714,13 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
 
 # Navigator Toolbox
 
@@ -748,3 +761,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Ilista ang lahat ng mga tabs
     .tooltiptext = Ilista ang lahat ng mga tabs
+
+## Infobar shown at startup to suggest session-restore
+
