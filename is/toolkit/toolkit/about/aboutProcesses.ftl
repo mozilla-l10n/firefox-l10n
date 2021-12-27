@@ -15,6 +15,7 @@
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Skrár ({ $pid })
+about-processes-extension-process = Viðbætur ({ $pid })
 about-processes-plugin-process = Tengiforrit ({ $pid })
 about-processes-gmp-plugin-process = Gecko Media tengiforrit ({ $pid })
 
