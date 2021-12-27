@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport voor { $addon-name }
 abuse-report-title-extension = Deze extensie rapporteren aan { -vendor-short-name }
+abuse-report-title-sitepermission = Deze extensie voor websitemachtigingen rapporteren aan { -vendor-short-name }
 abuse-report-title-theme = Dit thema rapporteren aan { -vendor-short-name }
 abuse-report-subtitle = Wat is het probleem?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Rapport verzenden voor <span data-l10n-name
 abuse-report-messagebar-submitted = Bedankt voor het indienen van een rapport. Wilt u <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderen?
 abuse-report-messagebar-submitted-noremove = Bedankt voor het indienen van een rapport.
 abuse-report-messagebar-removed-extension = Bedankt voor het indienen van een rapport. U hebt de extensie <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderd.
+abuse-report-messagebar-removed-sitepermission = Bedankt voor het indienen van een rapport. U hebt de extensie voor websitemachtigingen <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderd.
 abuse-report-messagebar-removed-theme = Bedankt voor het indienen van een rapport. U hebt het thema <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderd.
 abuse-report-messagebar-error = Er is een fout opgetreden bij het verzenden van een rapport voor <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Het rapport voor <span data-l10n-name="addon-name">{ $addon-name }</span> is niet verzonden, omdat u recent een ander rapport hebt verzonden.
