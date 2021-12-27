@@ -96,6 +96,12 @@ legacy-warning-show-legacy = Sýna allar gamlar viðbætur
 legacy-extensions =
     .value = Gamlar viðbætur
 legacy-extensions-description = Þessar viðbætur standast ekki núverandi staðla í { -brand-short-name } þannig að þær hafa verið gerðar óvirkar. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á viðbótum</label>
+private-browsing-description2 =
+    { -brand-short-name } er að breyta því hvernig viðbætur virka í einkavafri. Allar nýjar viðbætur sem þú bætir við
+    { -brand-short-name } munu ekki keyra sjálfgefið í einkavafurgluggum. Þessi viðbót mun ekki virka á meðan 
+    einkavafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
+    þar. Við höfum gert þessa breytingu til að halda einkavafri þínu leyndu.
+    <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum viðbóta</label>
 addon-category-extension = Viðbætur
 addon-category-extension-title =
     .title = Viðbætur
@@ -170,8 +176,14 @@ addon-open-about-debugging = Villuleita viðbætur
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Sýsla með flýtilykla viðbóta
+    .accesskey = f
+shortcuts-no-addons = Þú ert ekki með neinar virkar viðbætur.
+shortcuts-no-commands = Eftirfarandi viðbætur eru ekki með flýtilykla:
 shortcuts-input =
     .placeholder = Slá inn flýtilykil
+shortcuts-browserAction2 = Virkja hnapp í verkfærastiku
 shortcuts-pageAction = Virkja síðuaðgerð
 shortcuts-sidebarAction = Víxla hliðarslá
 shortcuts-modifier-mac = Hafa með Ctrl, Alt eða ⌘
@@ -179,10 +191,20 @@ shortcuts-modifier-other = Hafa með Ctrl eða Alt
 shortcuts-invalid = Ógild samsetning
 shortcuts-letter = Slá inn bókstaf
 shortcuts-system = Ekki hægt að breyta { -brand-short-name }-flýtilykli
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Tvítaka flýtilykil
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } er notað sem flýtileið í fleiri en einu tilviki. Tvíteknar flýtileiðir geta valdið óvæntri hegðun.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Þegar í notkun af { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
-        [one] Sýna { $numberToShow } í viðbót
-       *[other] Sýna { $numberToShow } í viðbót
+        [one] Sýna { $numberToShow } til viðbótar
+       *[other] Sýna { $numberToShow } til viðbótar
     }
 shortcuts-card-collapse-button = Sýna minna
 header-back-button =
@@ -190,30 +212,52 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
+    viðbótum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
 created-by-author = eftir <a data-l10n-name="author">{ $author }</a>
+install-extension-button = Bæta við { -brand-product-name }
 
 ## Add-on actions
 
 remove-addon-button = Fjarlægja
 disable-addon-button = Óvirkja
 enable-addon-button = Virkja
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Virkja
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Valkostir
        *[other] Kjörstillingar
     }
+extension-enabled-heading = Virkt
+extension-disabled-heading = Óvirkt
 plugin-enabled-heading = Virkt
 plugin-disabled-heading = Óvirkt
+# Message for add-ons with a staged pending update.
+install-postponed-message = Þessi viðbót verður uppfærð þegar { -brand-short-name } endurræsir.
 
 ## Pending uninstall message bar
 
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Leyfilegt í einkagluggum
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi viðbót aðgang að athöfnum þínum á netinu á meðan einkavafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } mælir aðeins með viðbótum sem uppfylla staðla okkar um öryggi og afköst
+    .aria-label = { addon-badge-recommended2.title }
 
 ##
 
