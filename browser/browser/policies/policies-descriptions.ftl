@@ -54,7 +54,7 @@ policy-Extensions = Setja upp, fjarlægja eða læsa fyrir viðbætur. Uppsetnin
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
 policy-FirefoxHome = Stilla Firefox heimasvæðið.
-policy-FlashPlugin = Leyfa eða hafna notkun Flash-viðbótarinnar.
+policy-FlashPlugin = Leyfa eða hafna notkun Flash-tengiforritsins.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stilla og loka mögulega heimsíðu.

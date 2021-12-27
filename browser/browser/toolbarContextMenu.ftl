@@ -18,7 +18,7 @@ toolbar-context-menu-select-all-tabs =
     .label = Velja alla flipa
     .accesskey = S
 toolbar-context-menu-manage-extension =
-    .label = Stjórna viðbótum
+    .label = Stjórna viðbót
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Fjarlægja viðbót
@@ -29,9 +29,9 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Kvarta yfir viðbót
     .accesskey = o
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Festa við yfirflæði valmynd
     .accesskey = F

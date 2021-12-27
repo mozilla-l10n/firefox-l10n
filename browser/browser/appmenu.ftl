@@ -137,3 +137,5 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Verkefnisstjóri
+appmenu-developer-tools-extensions =
+    .label = Viðbætur fyrir forritara
