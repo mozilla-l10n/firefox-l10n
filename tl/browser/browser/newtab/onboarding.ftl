@@ -52,7 +52,7 @@ onboarding-multistage-pin-default-subtitle = Mabilis, ligtas, at pribadong pagba
 onboarding-multistage-pin-default-waiting-subtitle = Piliin ang { -brand-short-name } sa ilalim ng Web browser kapag bumukas ang iyong mga setting
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Ipi-pin nito ang { -brand-short-name } sa taskbar at bubuksan ang mga setting
-onboarding-multistage-pin-default-primary-button-label = Gawin ang { -brand-maikling-pangalan } bilang Aking Pangunahing Browser
+onboarding-multistage-pin-default-primary-button-label = Gawin ang { -brand-short-name } bilang Aking Pangunahing Browser
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Mag-import ng iyong mga password, <br/>bookmark, at <span data-l10n-name="zap">marami pang iba</span>
