@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nyleg oppdatert
 addon-category-recent-updates-title =
     .title = Nyleg oppdatert
+addon-category-sitepermission = Nettstadløyve
+addon-category-sitepermission-title =
+    .title = Nettstadløyve
 
 ## These are global warnings
 
