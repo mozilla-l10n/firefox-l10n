@@ -134,6 +134,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Diweddariadau Diweddar
 addon-category-recent-updates-title =
     .title = Diweddariadau Diweddar
+addon-category-sitepermission = Caniatâd Gwefan
+addon-category-sitepermission-title =
+    .title = Caniatâd Gwefan
 
 ## These are global warnings
 
@@ -292,6 +295,8 @@ dictionary-enabled-heading = Galluogwyd
 dictionary-disabled-heading = Analluogwyd
 locale-enabled-heading = Galluogwyd
 locale-disabled-heading = Analluogwyd
+sitepermission-enabled-heading = Galluogwyd
+sitepermission-disabled-heading = Analluogwyd
 always-activate-button = Gweithredu Bob Tro
 never-activate-button = Byth Gweithredu
 addon-detail-author-label = Awdur
@@ -372,6 +377,7 @@ addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwaneg
 addon-permissions-learnmore = Dysgu rhagor am ganiatâd
 recommended-extensions-heading = Estyniadau Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
+addon-sitepermissions-required = Yn caniatáu'r galluoedd canlynol i <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Teimlo'n greadigol? <a data-l10n-name="link">Adeiladwch eich thema eich hun gyda Firefox Color. </a>
@@ -384,6 +390,7 @@ plugin-heading = Rheoli eich ategion
 dictionary-heading = Rheoli eich geiriaduron
 locale-heading = Rheoli eich ieithoedd
 updates-heading = Rheoli Eich Diweddariadau
+sitepermission-heading = Rheoli Eich Caniatâd Gwefan
 discover-heading = Personoli Eich { -brand-short-name }
 shortcuts-heading = Rheoli Estyniad Llwybrau Byr
 default-heading-search-label = Canfod rhagor o ychwanegion
