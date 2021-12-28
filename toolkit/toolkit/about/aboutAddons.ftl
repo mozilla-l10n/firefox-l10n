@@ -385,6 +385,7 @@ plugin-heading = Handter programtillegga dine
 dictionary-heading = Handter ordbøkene dine
 locale-heading = Handter språka dine
 updates-heading = Handter oppdateringar
+sitepermission-heading = Handter nettstadløyva dine
 discover-heading = Tilpass { -brand-short-name }
 shortcuts-heading = Handter snarvegar for utvidingar
 default-heading-search-label = Finn fleire tillegg

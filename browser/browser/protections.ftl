@@ -58,6 +58,7 @@ mobile-app-links = { -brand-product-name } Nettlesar for <a data-l10n-name="andr
 lockwise-title = Glæym aldri eit passord igjen
 lockwise-title-logged-in2 = Passordhandtering
 lockwise-header-content = { -lockwise-brand-name } lagrar passorda dine trygt i nettlesaren din.
+passwords-title-logged-in = Handsam passorda dine
 lockwise-header-content-logged-in = Lagre passorda dine trygt og synkroniser dei med alle eniningane dine.
 protection-report-save-passwords-button = Lagre passord
     .title = Lagre passord i { -lockwise-brand-short-name }
