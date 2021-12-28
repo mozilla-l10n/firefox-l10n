@@ -12,12 +12,12 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = Leitaðu með { $name } eða settu inn vistfang
+    .title = Leitaðu með { $engine } eða settu inn vistfang
 about-private-browsing-handoff-no-engine =
     .title = Leitaðu eða settu inn vistfang
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = Leitaðu með { $name } eða settu inn vistfang
+about-private-browsing-handoff-text = Leitaðu með { $engine } eða settu inn vistfang
 about-private-browsing-handoff-text-no-engine = Leitaðu eða settu inn vistfang
 about-private-browsing-not-private = Þú ert ekki í huliðsglugga.
 about-private-browsing-info-description = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.
