@@ -325,6 +325,7 @@ fission-status-experiment-control = Utskeakele troch eksperimint
 fission-status-experiment-treatment = Ynskeakele troch eksperimint
 fission-status-disabled-by-e10s-env = Utskeakele troch omjouwing
 fission-status-enabled-by-env = Ynskeakele troch omjouwing
+fission-status-disabled-by-env = Utskeakele troch omjouwing
 fission-status-disabled-by-safe-mode = Utskeakele troch feilige modus
 fission-status-enabled-by-default = Standert ynskeakele
 fission-status-disabled-by-default = Standert útskeakele
