@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopier skjermbildet til utklippstavla
 screenshots-cancel-button-title =
     .title = Avbryt
+screenshots-retry-button-title =
+    .title = Prøv å ta skjermbildet på nytt
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
