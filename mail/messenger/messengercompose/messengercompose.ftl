@@ -253,3 +253,5 @@ cloud-file-rename-error = Der is in probleem bard by it omneamen fan { $filename
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-with-custom-message-title = Omneamen fan { $filename } op { $provider } mislearre
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } stipet it omneamen fan al opladen bestannen net.
