@@ -36,6 +36,7 @@
 <!ENTITY newFeedAccountCmd.accesskey "S">
 <!ENTITY newIMContactCmd.label "Spjalltengiliður…">
 <!ENTITY newIMContactCmd.accesskey "p">
+<!ENTITY  newMessageCmd.label "Skilaboð">
 <!ENTITY  newContactCmd.label "Tengiliður í nafnaskrá…">
 <!ENTITY  newContactCmd.accesskey "T">
 <!ENTITY openMenuCmd.label "Opna">
@@ -714,8 +715,10 @@
 <!ENTITY locationColumn2.tooltip "Raða eftir staðsetningu">
 <!ENTITY idColumn2.tooltip "Raða eftir móttekinni röð">
 <!ENTITY attachmentColumn2.tooltip "Raða eftir viðhengjum">
+<!ENTITY deleteColumn.tooltip "Eyða skilaboðum">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Ný skilaboð út frá sniðmáti">
 <!ENTITY contextOpenNewWindow.label "Opna póst í nýjum glugga">
 <!ENTITY contextOpenNewWindow.accesskey "O">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -731,6 +734,8 @@
 <!ENTITY contextEditMsgAsNew.label "Breyta sem nýjum pósti">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Breyta drögum">
+<!ENTITY contextEditTemplate.label "Breyta sniðmáti">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Skjalageymsla">
 <!ENTITY contextArchive.accesskey "j">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
@@ -929,5 +934,9 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "App Icon valkostir…">
+<!ENTITY writeNewMessageDock.label      "Skrifa nýjan póst">
+<!ENTITY openAddressBookDock.label      "Opna nafnaskrá">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Til baka um eina síðu">
+<!ENTITY browseForwardButton.tooltip "Áfram um eina síðu">
