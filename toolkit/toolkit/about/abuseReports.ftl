@@ -78,6 +78,10 @@ abuse-report-broken-suggestions-extension =
     Mae'n edrych fel eich bod wedi adnabod gwall. Yn ogystal â chyflwyno adroddiad yma, y ffordd orau
     orau i ddatrys mater ymarferoldeb wedi'i ddatrys yw cysylltu â datblygwr yr estyniad.
     <a data-l10n-name="support-link">Ewch i wefan yr estyniad</a> i gael gwybodaeth gan y datblygwr.
+abuse-report-broken-suggestions-sitepermission =
+    Mae'n edrych fel eich bod wedi adnabod gwall. Yn ogystal â chyflwyno adroddiad yma, y ffordd orau
+    orau i ddatrys mater ymarferoldeb wedi'i ddatrys yw cysylltu â datblygwr y wefan.
+    <a data-l10n-name="support-link">Ewch i'r wefan</a> i gael manylion y datblygwr.
 abuse-report-broken-suggestions-theme =
     Mae'n edrych fel eich bod wedi adnabod gwall. Yn ogystal â chyflwyno adroddiad yma, y ffordd orau
     orau i ddatrys mater ymarferoldeb wedi'i ddatrys yw cysylltu â datblygwr y thema.
