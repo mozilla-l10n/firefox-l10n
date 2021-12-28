@@ -19,3 +19,11 @@
      of the results list to show more hits. -->
 <!ENTITY glodaFacetView.pageMore.label "Meira &#187;">
 
+<!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.label2): The
+     label for the button/link that causes us to display all of the emails in
+     the active set in a new thread pane display tab. -->
+<!ENTITY glodaFacetView.openEmailAsList.label "Birta niðurstöður sem lista">
+
+<!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
+     The tooltip to display when hovering over the openEmailAsList label. -->
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Birta öll tölvupóstskilaboðin í virka settinu á nýjum flipa">

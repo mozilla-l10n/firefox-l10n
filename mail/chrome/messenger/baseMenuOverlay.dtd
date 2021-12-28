@@ -10,10 +10,12 @@
 <!ENTITY helpMenuWin.label "Hjálp">
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "Um &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY productHelp.label "&brandShortName; Hjálp">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "flýti">
 
 <!ENTITY helpKeyboardShortcuts.label "Flýtilyklar">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
