@@ -22,6 +22,7 @@ because displayed names don't have the comma in between. -->
 <!-- Search Bar -->
 
 <!-- Results Pane -->
+<!ENTITY NickName.label                                 "Կեղծանուն">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
