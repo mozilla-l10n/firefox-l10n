@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Negeseuon E-bost
 progress-pane-title = Yn mewnforio
 progress-pane-restart-desc = Ailgychwyn i orffen mewnforio.
 error-pane-title = Gwall
+error-message-zip-file-too-big = Mae'r ffeil zip a ddewiswyd yn fwy na 2GB. Echdynnwch hi'n gyntaf, yna ei mewnforio o'r ffolder cafodd ei hechdynnu.
+error-message-extract-zip-file-failed = Wedi methu echdynnu'r ffeil zip. Echdynwch hi â llaw, yna ei mewnforio o'r ffolder wedi'i hechdynnu yn lle hynny.
+error-message-failed = Methodd y mewnforio yn annisgwyl, efallai y bydd mwy o wybodaeth ar gael yn y Consol Gwallau.
