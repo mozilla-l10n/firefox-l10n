@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport foar { $addon-name }
 abuse-report-title-extension = Dizze tafoeging rapportearje oan { -vendor-short-name }
+abuse-report-title-sitepermission = Dizze add-on foar websitemachtigingen rapportearje oan { -vendor-short-name }
 abuse-report-title-theme = Dit tema rapportearje oan { -vendor-short-name }
 abuse-report-subtitle = Wat is it probleem?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Rapport ferstjoere foar <span data-l10n-nam
 abuse-report-messagebar-submitted = Tank foar it yntsjinjen fan in rapport. Wolle jo <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmite?
 abuse-report-messagebar-submitted-noremove = Tank foar it yntsjinjen fan in rapport.
 abuse-report-messagebar-removed-extension = Tank foar it yntsjinjen fan in rapport. Jo hawwe de útwreiding <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmiten.
+abuse-report-messagebar-removed-sitepermission = Tank foar it yntsjinjen fan in rapport. Jo hawwe de útwreiding foar websitemachtigingen <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmiten.
 abuse-report-messagebar-removed-theme = Tank foar it yntsjinjen fan in rapport. Jo hawwe it tema <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmiten.
 abuse-report-messagebar-error = Der is in flater bard by it ferstjoeren fan in rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = It rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span> is net ferstjoerd, omdat jo resint in oar rapport ferstjoerd hawwe.
@@ -49,6 +51,8 @@ abuse-report-messagebar-error-recent-submit = It rapport foar <span data-l10n-na
 
 abuse-report-messagebar-action-remove-extension = Ja, fuortsmite
 abuse-report-messagebar-action-keep-extension = Nee, bewarje
+abuse-report-messagebar-action-remove-sitepermission = Ja, fuortsmite
+abuse-report-messagebar-action-keep-sitepermission = Nee, bewarje
 abuse-report-messagebar-action-remove-theme = Ja, fuortsmite
 abuse-report-messagebar-action-keep-theme = Nee, bewarje
 abuse-report-messagebar-action-retry = Opnij probearje
@@ -67,9 +71,14 @@ abuse-report-settings-suggestions-homepage = Jo startside en nij ljepblêd wizig
 abuse-report-deceptive-reason-v2 = It docht him foar as wat oars
 abuse-report-deceptive-example = Foarbyld: misliedende beskriuwing of ôfbyldingen
 abuse-report-broken-reason-extension-v2 = It wurket net, soarget derfoar dat websites net wurkje of fertraget { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = It wurket net, soarget derfoar dat websites net wurkje of fertraget { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = It wurket net of soarget derfoar dat de browserwerjefte net wurket
 abuse-report-broken-example = Foarbyld: funksjes binne stadich, swier te brûken of wurkje net; dielen fan websites lade net of sjogge der ûngebrûklik út
 abuse-report-broken-suggestions-extension = It liket as oft jo in bug fûn hawwe. Yn oanfolling op dizze melding kinne jo it bêste kontakt opnimme mei de ûntwikkeler fan de útwreiding. <a data-l10n-name="support-link">Besykje de startside fan de útwreiding</a> foar ynformaasje oer de ûntwikkeler.
+abuse-report-broken-suggestions-sitepermission =
+    It klinkt as oft jo in bug fûn hawwe. Neist it hjir yntsjinjen fan in rapport, is de bêste manier
+    om in funksjoneel probleem op te lossen, kontakt op te nimmen mei de website-ûntwikkeler.
+    <a data-l10n-name="support-link">Besykje de website fan it tema</a> foar ynformaasje oer de ûntwikkeler.
 abuse-report-broken-suggestions-theme =
     It klinkt as oft jo in bug fûn hawwe. Neist it hjir yntsjinjen fan in rapport, is de bêste manier
     om in funksjoneel probleem op te lossen, kontakt op te nimmen mei de ûntwikkeler fan it tema.
