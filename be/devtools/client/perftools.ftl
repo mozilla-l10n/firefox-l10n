@@ -136,6 +136,8 @@ perftools-presets-graphics-description = Папярэднія налады дл�
 perftools-presets-media-label = Медыя
 perftools-presets-media-description = Рэкамендаваныя папярэднія налады для дыягностыкі праблем з гукам і відэа.
 perftools-presets-media-description2 = Папярэднія налады для даследавання хібаў гуку і відэа ў { -brand-shorter-name }.
+perftools-presets-networking-label = Сетка
+perftools-presets-networking-description = Папярэднія налады для даследавання сеткавых хібаў у { -brand-shorter-name }.
 perftools-presets-custom-label = Адмысловыя
 
 ##
