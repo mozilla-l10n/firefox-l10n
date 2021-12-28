@@ -8,6 +8,11 @@
 
 <!ENTITY e2eTechPref.description "Æskileg dulritunartækni:">
 
+<!ENTITY doNotEncrypt.label "Ekki krefjast dulritunar sjálfgefið">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Krefjast dulritunar sjálfgefið">
+<!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert2.message "Persónulegt skilríki fyrir dulritun:">
 <!ENTITY digitalSign.certificate.button "Velja…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Hreinsa">

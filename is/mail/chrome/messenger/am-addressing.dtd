@@ -26,6 +26,8 @@
 <!ENTITY autoQuote.label                      "Setja sjálfkrafa inn tilvitnun í upprunalegan póst þegar svarað er">
 <!ENTITY autoQuote.accesskey                  "S">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Þegar vitnað er í,">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "byrja mitt svar fyrir ofan tilvitnun">
 <!ENTITY belowQuote.label                     "byrja mitt svar fyrir neðan tilvitnun">
 <!ENTITY selectAndQuote.label                 "veldu tilvitnun">
