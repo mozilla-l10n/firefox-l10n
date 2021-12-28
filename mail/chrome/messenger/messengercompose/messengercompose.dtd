@@ -70,6 +70,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Endurnefna viðhengi…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Endurraða viðhengjum…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.accesskey "j">
 <!ENTITY findBarCmd.label "Finna…">
 <!ENTITY findBarCmd.accesskey "F">
@@ -98,6 +101,9 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Raða völdu: A - Ö">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Raða völdu: Ö - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Skoða
@@ -215,6 +221,7 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Aðrar gerðir af póstfangsreitum">
 <!ENTITY fromAddr2.label "Frá">
 <!ENTITY fromAddr.accesskey "r">
@@ -271,7 +278,9 @@
 <!ENTITY renameAttachment.label "Endurskíra…">
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY reorderAttachments.label "Endurraða viðhengjum…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY removeAllAttachments.label "Fjarlægja öll viðhengi">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Velja allt">
 <!ENTITY selectAll.accesskey "j">
 <!ENTITY attachCloud.label "Tengill í skrá…">
@@ -289,6 +298,8 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Sýna viðhengjaflipa í byrjun">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
@@ -305,3 +316,5 @@
 <!ENTITY aria.message.bodyName "Meginmál skilaboða">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Yfirfara stafsetningu tungumáls">
+<!ENTITY encodingStatusPanel.tooltip "Stafatafla texta">

@@ -36,6 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "S">
 <!ENTITY newIMContactCmd.label "Spjalltengiliður…">
 <!ENTITY newIMContactCmd.accesskey "p">
+<!ENTITY  newContactCmd.label "Tengiliður í nafnaskrá…">
+<!ENTITY  newContactCmd.accesskey "T">
+<!ENTITY openMenuCmd.label "Opna">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Opna vistaðan póst…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Vista sem">
@@ -51,6 +55,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Núverandi reikning">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "N">
+<!ENTITY getNextNMsgCmd2.label "Ná í næstu fréttaskilaboð">
+<!ENTITY getNextNMsgCmd2.accesskey "f">
 <!ENTITY sendUnsentCmd.label "Senda ósendan póst">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Gerast áskrifandi…">
@@ -273,6 +279,8 @@
 <!ENTITY searchMailCmd.label "Leita í pósti…">
 <!ENTITY searchMailCmd.accesskey "p">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Víðtæk leit…">
+<!ENTITY glodaSearchCmd.accesskey "k">
 <!ENTITY searchAddressesCmd.label "Leita í tengiliðaspjöldum…">
 <!ENTITY searchAddressesCmd.accesskey "t">
 
@@ -308,6 +316,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Spjall">
 <!ENTITY goChatCmd.accesskey "S">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Stjörnumerktur póstur">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappa">
@@ -356,6 +365,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Breyta drögum">
 <!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Breyta sniðmáti">
+<!ENTITY newMsgFromTemplateCmd.label "Ný skilaboð út frá sniðmáti">
 <!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Búa til síu út frá pósti…">
 <!ENTITY createFilter.accesskey "u">
@@ -473,6 +484,8 @@
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY importCmd.label "Flytja inn…">
 <!ENTITY importCmd.accesskey "i">
+<!ENTITY exportCmd.label "Flytja út…">
+<!ENTITY exportCmd.accesskey "F">
 <!ENTITY clearRecentHistory.label "Hreinsa nýlega ferla…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Stillingar reiknings">
@@ -601,6 +614,9 @@
 <!ENTITY folderContextGetMessages.label "Ná í póst">
 <!ENTITY folderContextGetMessages.accesskey "N">
 <!ENTITY folderContextMarkAllFoldersRead.label "Merkja allar möppur sem lesnar">
+<!ENTITY folderContextPauseAllUpdates.label "Gera hlé á öllum uppfærslum">
+<!ENTITY folderContextPauseUpdates.label "Gera hlé á uppfærslum">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Opna í nýjum glugga">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Opna í nýjum flipa">
@@ -653,6 +669,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Vista leit sem möppu…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Veldu skilaboð">
 <!ENTITY threadColumn.label "Umræða">
 <!ENTITY fromColumn.label "Frá">
 <!ENTITY recipientColumn.label "Viðtakandi">
@@ -673,6 +690,7 @@
 <!ENTITY locationColumn.label "Staðsetning">
 <!ENTITY idColumn.label "Í móttekinni röð">
 <!ENTITY attachmentColumn.label "Viðhengi">
+<!ENTITY deleteColumn.label "Eyða">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Veldu dálka til að birta">
