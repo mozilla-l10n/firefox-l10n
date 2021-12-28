@@ -19,6 +19,7 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Athuga með nýjar greinar á">
+<!ENTITY recommendedUnits.label      "Útgefandinn mælir með:">
 
 <!ENTITY quickMode.label             "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
 <!ENTITY quickMode.accesskey         "h">
