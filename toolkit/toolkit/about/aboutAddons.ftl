@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nedávno aktualizované
 addon-category-recent-updates-title =
     .title = Nedávno aktualizované
+addon-category-sitepermission = Povolenia stránok
+addon-category-sitepermission-title =
+    .title = Povolenia stránok
 
 ## These are global warnings
 
@@ -293,6 +296,8 @@ dictionary-enabled-heading = Povolené slovníky
 dictionary-disabled-heading = Zakázané slovníky
 locale-enabled-heading = Povolené jazyky
 locale-disabled-heading = Zakázané jazyky
+sitepermission-enabled-heading = Povolené
+sitepermission-disabled-heading = Zakázané
 always-activate-button = Vždy aktivovať
 never-activate-button = Nikdy neaktivovať
 addon-detail-author-label = Autor
@@ -370,6 +375,7 @@ addon-permissions-optional = Voliteľné povolenia pre splnenie prídavných fun
 addon-permissions-learnmore = Ďalšie informácie o povoleniach
 recommended-extensions-heading = Odporúčané rozšírenia
 recommended-themes-heading = Odporúčané témy vzhľadu
+addon-sitepermissions-required = Poskytuje nasledujúce možnosti pre <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ste tvoriví? <a data-l10n-name="link">Vytvorte si svoju vlastnú tému vzhľadu pomocou Firefox Color.</a>
@@ -382,6 +388,7 @@ plugin-heading = Spravujte svoje zásuvné moduly
 dictionary-heading = Spravujte svoje slovníky
 locale-heading = Spravujte svoje jazyky
 updates-heading = Spravujte svoje aktualizácie
+sitepermission-heading = Spravujte svoje povolenia stránok
 discover-heading = Prispôsobte si { -brand-short-name }
 shortcuts-heading = Správa klávesových skratiek pre rozšírenia
 default-heading-search-label = Zobraziť ďalšie doplnky
