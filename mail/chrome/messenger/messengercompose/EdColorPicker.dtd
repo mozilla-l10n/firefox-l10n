@@ -5,6 +5,9 @@
 <!ENTITY windowTitle.label "Litur">
 <!ENTITY lastPickedColor.label "Seinasti valinn litur">
 <!ENTITY lastPickedColor.accessKey "l">
+<!ENTITY chooseColor1.label "Veldu lit:">
+<!ENTITY chooseColor2.label "Settu inn HTML-litastreng">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(t.d.: &quot;#0000ff&quot; eða &quot;blue&quot;):">
 <!ENTITY default.label "Sjálfgefið">
 <!ENTITY default.accessKey "S">
