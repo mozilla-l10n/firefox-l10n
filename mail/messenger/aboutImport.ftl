@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = E-mailové správy
 progress-pane-title = Importuje sa
 progress-pane-restart-desc = Reštartovaním dokončíte import.
 error-pane-title = Chyba
+error-message-zip-file-too-big = Zvolený súbor zip je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
+error-message-extract-zip-file-failed = Nepodarilo sa extrahovať súbor zip. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
+error-message-failed = Import neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
