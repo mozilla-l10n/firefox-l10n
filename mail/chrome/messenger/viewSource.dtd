@@ -9,7 +9,20 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
 
+<!ENTITY editMenu.label "Breyta">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY fileMenu.label "Skrá">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY savePageCmd.label "Vista síðu sem…">
+<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY printCmd.label "Prenta…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Loka">
+<!ENTITY closeCmd.accesskey "l">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -17,8 +30,23 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReset.commandkey "0">
 
+<!ENTITY goToLineCmd.label "Fara í línu…">
+<!ENTITY goToLineCmd.accesskey "n">
+<!ENTITY goToLineCmd.commandkey "l">
 
+<!ENTITY viewMenu.label           "Skoða">
+<!ENTITY viewMenu.accesskey       "k">
+<!ENTITY reloadCmd.label "Endurhlaða">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Línuskipta löngum línum">
+<!ENTITY menu_wrapLongLines.accesskey "p">
 
 
 
