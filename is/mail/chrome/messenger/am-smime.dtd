@@ -22,9 +22,13 @@
 <!ENTITY encryption.certificate_clear.button "Hreinsa">
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Rafræn undirskrift">
+<!ENTITY signMessage2.label "Bæta sjálfgefið við stafrænu undirrituninni minni">
 <!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert2.message "Persónulegt skilríki fyrir stafræna undirritun:">
 
+<!ENTITY sendingDefaults.label "Sjálfgefnar stillingar fyrir sendingu skilaboða">
 
+<!ENTITY technologyAutomatic.label "Velja sjálfvirkt byggt á tiltækum dulritunarlyklum eða skilríkjum">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Sýsla með S/MIME skilríki">

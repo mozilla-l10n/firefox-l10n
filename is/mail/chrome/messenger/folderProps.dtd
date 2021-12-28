@@ -45,6 +45,9 @@
 
 <!ENTITY folderProps.name.label                  "Nafn:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Litur táknmyndar:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Endurheimta sjálfgefinn lit">
 <!ENTITY folderProps.location.label              "Staðsetning:">
 <!ENTITY folderProps.location.accesskey          "S">
 
