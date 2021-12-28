@@ -130,29 +130,38 @@ confirmation-dialog-dismiss-button =
     .title = Откажи
 confirm-delete-dialog-message = Ова дејство не може да се врати.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
+about-logins-confirm-export-dialog-confirm-button = Извези...
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?
 confirm-discard-changes-dialog-message = Сите незачувани промени ќе бидат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отфрли
 
 ## Breach Alert notification
 
+about-logins-breach-alert-learn-more-link = Дознајте повеќе
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Ранлива лозинка
+about-logins-vulnerable-alert-learn-more-link = Дознајте повеќе
 
 ## Error Messages
 
 
 ## Login Export Dialog
 
+about-logins-export-file-picker-export-button = Извези
 
 ## Login Import Dialog
 
+about-logins-import-file-picker-import-button = Увези
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = Готово
+about-logins-import-dialog-error-learn-more = Дознајте повеќе
+about-logins-import-dialog-error-cancel = Откажи
 
 ##
 ## Variables:
