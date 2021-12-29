@@ -41,6 +41,7 @@ languages-active-code-format =
 browser-languages-window =
     .title = Танзимоти забони { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } забони якумро ҳамчун забони пешфарз нишон медиҳад ва агар лозим бошад, забонҳои дигарро аз рӯи тартиби онҳо нишон медиҳад.
 browser-languages-search = Ҷустуҷӯи забонҳои бештар…
 browser-languages-searching =
     .label = Ҷустуҷӯи забонҳо…

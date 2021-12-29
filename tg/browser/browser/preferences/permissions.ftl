@@ -5,6 +5,8 @@
 permissions-window =
     .title = Истисноҳо
     .style = width: 45em
+permissions-close-key =
+    .key = w
 permissions-address = Нишонии сомона
     .accesskey = Н
 permissions-block =
