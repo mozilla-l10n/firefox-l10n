@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Zkopírovat snímek do schránky
 screenshots-cancel-button-title =
     .title = Zrušit
+screenshots-retry-button-title =
+    .title = Zkusit snímek pořídit znovu
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
