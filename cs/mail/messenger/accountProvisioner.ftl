@@ -7,6 +7,7 @@ provisioner-searching-icon =
     .alt = Vyhledávání…
 account-provisioner-title = Vytvořit novou e-mailovou adresu
 account-provisioner-description = Využijte služeb našich prověřených partnerů pro založení nové soukromé a bezpečné e-mailové adresy.
+account-provisioner-start-help = Pro nalezení dostupné e-mailové adresy jsou vyhledávané výrazy odesílány { -vendor-short-name(case: "dat") } (<a data-l10n-name="mozilla-privacy-link">zásady ochrany osobních údajů</a>) a poskytovatelům e-mailových služeb <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">zásady ochrany osobních údajů</a>, <a data-l10n-name="mailfence-tou-link">podmínky používání</a >) a <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">zásady ochrany osobních údajů</a>, <a data-l10n-name="gandi-tou-link">podmínky používání</a>).
 account-provisioner-mail-account-title = Zakoupit novou e-mailovou adresu
 account-provisioner-mail-account-description = Thunderbird spojil síly se službou <a data-l10n-name="mailfence-home-link">Mailfence</a>, která vám nabízí založení nového bezpečného a soukromého e-mailu. Věříme, že všechny e-mailové schránky by měly být bezpečné.
 account-provisioner-domain-title = Kupte si vlastní e-mail a doménu
@@ -48,5 +49,8 @@ account-provisioner-results-title =
     }
 account-provisioner-mail-results-caption = Pro získání více adres zkuste hledat přezdívku nebo jiný výraz.
 account-provisioner-domain-results-caption = Pro získání více domén zkuste hledat přezdívku nebo jiný výraz.
+account-provisioner-free-account = Zdarma
 account-provision-price-per-year = { $price } ročně
 account-provisioner-all-results-button = Zobrazit všechny výsledky
+account-provisioner-open-in-tab-img =
+    .title = Otevře se v novém panelu

@@ -4,6 +4,8 @@
 
 account-settings-title = Nastavení ověřování
 account-channel-title = Výchozí kanály
+chat-autologin =
+    .label = Připojit při startu
 chat-encryption-generic = Obecné
 chat-encryption-log =
     .label = Zahrnout koncově šifrované zprávy do protokolů konverzací
