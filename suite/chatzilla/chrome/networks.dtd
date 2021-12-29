@@ -12,6 +12,7 @@
 <!ENTITY restoreButton.accesskey      "v">
 
 <!ENTITY connectNetwork.label         "Připojit k síti">
+<!ENTITY connectNetwork.accesskey     "P">
 
 <!ENTITY networkListAdd.label         "Přidat síť…">
 <!ENTITY networkListAdd.accesskey     "a">
