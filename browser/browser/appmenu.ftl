@@ -184,8 +184,13 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Sú forstilling sem mælt er með fyrir villuleit flestra vefforrita, með litlum fórnarkostnaði í afköstum.
 profiler-popup-presets-web-developer-label =
     .label = Vefhönnuður
+profiler-popup-presets-firefox-platform-description = Sú forstilling sem mælt er með fyrir villuleit í innra Firefox-kerfi.
+profiler-popup-presets-firefox-platform-label =
+    .label = Firefox-kerfi
+profiler-popup-presets-firefox-front-end-description = Sú forstilling sem mælt er með fyrir villuleit í framenda Firefox-kerfis.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
