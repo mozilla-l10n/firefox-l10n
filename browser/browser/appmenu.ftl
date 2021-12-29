@@ -191,10 +191,20 @@ profiler-popup-presets-firefox-platform-description = Sú forstilling sem mælt 
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox-kerfi
 profiler-popup-presets-firefox-front-end-description = Sú forstilling sem mælt er með fyrir villuleit í framenda Firefox-kerfis.
+profiler-popup-presets-firefox-graphics-description = Sú forstilling sem mælt er með fyrir rannsókn á afköstum myndefnis í Firefox.
+profiler-popup-presets-firefox-graphics-label =
+    .label = Firefox-myndefni
+profiler-popup-presets-media-description = Sú forstilling sem mælt er með til að greina hljóð- og myndvandamál.
+profiler-popup-presets-firefox-description = Sú forstilling sem mælt er með fyrir prófílgreiningu { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Sú forstilling sem mælt er með til að rannsaka myndrænar villur í { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Myndefni
+profiler-popup-presets-media-description2 = Sú forstilling sem mælt er með til að rannsaka hljóð- og myndvandamál í { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Margmiðlunargögn
+profiler-popup-presets-networking-description = Sú forstilling sem mælt er með til að rannsaka netkerfisvillur í { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netvinnsla
 profiler-popup-presets-custom-label =
@@ -226,6 +236,9 @@ appmenu-about =
 appmenu-get-help =
     .label = Fá hjálp
     .accesskey = h
+appmenu-help-more-troubleshooting-info =
+    .label = Frekari upplýsingar um úrræðaleit
+    .accesskey = k
 appmenu-help-report-site-issue =
     .label = Tilkynna vandamál á vefsvæði…
 appmenu-help-feedback-page =
@@ -235,6 +248,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Úrræðaleitarhamur…
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Slökkva á úrræðaleitarham
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -252,5 +271,6 @@ appmenu-customizetoolbar =
     .label = Sérsníða verkfæraslá…
 appmenu-taskmanager =
     .label = Verkefnisstjóri
+appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
     .label = Viðbætur fyrir forritara
