@@ -118,6 +118,9 @@ mail-context-delete-messages =
             [few] Smazat vybrané zprávy
            *[other] Smazat vybrané zprávy
         }
+context-menu-decrypt-to-folder =
+    .label = Zkopírovat jako dešifrované do
+    .accesskey = f
 
 ## Message header pane
 
@@ -174,3 +177,9 @@ no-reply-reply-anyway-button = Přesto odpověď odeslat
 
 ## error messages
 
+decrypt-and-copy-failures =
+    { $failures ->
+        [one] { $failures } z { $total } zpráv se nepodařilo dešifrovat a nemohla být zkopírována.
+        [few] { $failures } z { $total } zpráv se nepodařilo dešifrovat a nemohly být zkopírovány.
+       *[other] { $failures } z { $total } zpráv se nepodařilo dešifrovat a nemohlo být zkopírováno.
+    }
