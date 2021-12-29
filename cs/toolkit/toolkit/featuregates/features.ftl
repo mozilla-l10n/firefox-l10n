@@ -96,19 +96,19 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = Povolí projekt Warp, který má zlepšit výkon JavaScriptu a jeho využívání paměti.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
-    .label = Fission (izolace stránek)
+    .label = Fission (izolace webů)
 experimental-features-fission-description =
-    Fission (izolace stránek) je experimentální funkce { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } poskytující dalších vrstvu ochrany před bezpečnostními chybami. Oddělení jednotlivých stránek do vlastních procesů komplikuje škodlivým stránkám přístup k informacím z ostatních stránek, které prohlížíte. Jde o velkou architektonickou změnu { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } a velmi si ceníme vašeho testování a hlášení případných chyb. Podrobnosti najdete na <a data-l10n-name="wiki">wiki</a>.
+    { -brand-short-name.gender ->
+        [masculine] Fission (izolace webů) je experimentální funkce { -brand-short-name(case: "gen") } poskytující další vrstvu ochrany před bezpečnostními chybami. Oddělení jednotlivých webů do vlastních procesů komplikuje škodlivým stránkám přístup k informacím z ostatních stránek, které prohlížíte. Jde o velkou architektonickou změnu
+        [feminine] Fission (izolace webů) je experimentální funkce { -brand-short-name(case: "gen") } poskytující další vrstvu ochrany před bezpečnostními chybami. Oddělení jednotlivých webů do vlastních procesů komplikuje škodlivým stránkám přístup k informacím z ostatních stránek, které prohlížíte. Jde o velkou architektonickou změnu
+        [neuter] Fission (izolace webů) je experimentální funkce { -brand-short-name(case: "gen") } poskytující další vrstvu ochrany před bezpečnostními chybami. Oddělení jednotlivých webů do vlastních procesů komplikuje škodlivým stránkám přístup k informacím z ostatních stránek, které prohlížíte. Jde o velkou architektonickou změnu
+       *[other] Fission (izolace webů) je experimentální funkce aplikace { -brand-short-name } poskytující další vrstvu ochrany před bezpečnostními chybami. Oddělení jednotlivých webů do vlastních procesů komplikuje škodlivým stránkám přístup k informacím z ostatních stránek, které prohlížíte. Jde o velkou architektonickou změnu
+    } { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") } a velmi si ceníme vašeho testování a hlášení případných chyb. Podrobnosti najdete na <a data-l10n-name="wiki">wiki</a>.
+        [feminine] { -brand-short-name(case: "gen") } a velmi si ceníme vašeho testování a hlášení případných chyb. Podrobnosti najdete na <a data-l10n-name="wiki">wiki</a>.
+        [neuter] { -brand-short-name(case: "gen") } a velmi si ceníme vašeho testování a hlášení případných chyb. Podrobnosti najdete na <a data-l10n-name="wiki">wiki</a>.
+       *[other] aplikace { -brand-short-name } a velmi si ceníme vašeho testování a hlášení případných chyb. Podrobnosti najdete na <a data-l10n-name="wiki">wiki</a>.
+    }
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Podpora více oken obraz v obraze
