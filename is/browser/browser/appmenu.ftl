@@ -197,6 +197,8 @@ profiler-popup-presets-custom-label =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Sýsla með feril
 appmenu-reopen-all-tabs = Enduropna alla flipa
 appmenu-reopen-all-windows = Enduropna alla glugga
 appmenu-restore-session =
