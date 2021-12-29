@@ -89,6 +89,7 @@ login-intro-instructions-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand
 login-intro-instructions-fxa-settings = Otevřete Nastavení > Synchronizace > Zapnout synchronizaci… a vyberte položku Přihlašovací údaje.
 login-intro-instructions-fxa-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name(case: "gen") }</a>.
 about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -lockwise-brand-short-name(case: "gen") }</a>
+login-intro-instructions-fxa-passwords-help = Navštivte <a data-l10n-name="passwords-help-link">nápovědu pro hesla</a>.
 about-logins-intro-browser-only-import =
     Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "acc") }
