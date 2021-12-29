@@ -11,6 +11,7 @@
 
 <!ENTITY feedLocation.label          "Straumslóð:">
 <!ENTITY feedLocation.accesskey      "u">
+<!ENTITY feedLocation2.placeholder   "Sláðu inn gilda vefslóð straums">
 <!ENTITY locationValidate.label      "Sannreyna">
 <!ENTITY validateText.label          "Athuga sannprófun og ná í rétt veffang.">
 
@@ -19,6 +20,11 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Athuga með nýjar greinar á">
+<!ENTITY biffStart.accesskey         "g">
+<!ENTITY biffMinutes.label           "mínútna fresti">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "daga fresti">
+<!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "Útgefandinn mælir með:">
 
 <!ENTITY quickMode.label             "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
@@ -33,6 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Bæta við">
 <!ENTITY button.addFeed.accesskey    "æ">
+<!ENTITY button.verifyFeed.label     "Staðfesta">
+<!ENTITY button.verifyFeed.accesskey "f">
 <!ENTITY button.updateFeed.label     "Uppfæra">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Fjarlægja">
