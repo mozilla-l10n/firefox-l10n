@@ -158,6 +158,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Aktualizováno
 addon-category-recent-updates-title =
     .title = Aktualizováno
+addon-category-sitepermission = Oprávnění serverů
+addon-category-sitepermission-title =
+    .title = Oprávnění serverů
 
 ## These are global warnings
 
@@ -337,6 +340,8 @@ dictionary-enabled-heading = Povolené slovníky
 dictionary-disabled-heading = Zakázané slovníky
 locale-enabled-heading = Povolené jazyky
 locale-disabled-heading = Zakázané jazyky
+sitepermission-enabled-heading = Povolená oprávnění
+sitepermission-disabled-heading = Nepovolená oprávnění
 always-activate-button = Vždy spustit
 never-activate-button = Nespouštět
 addon-detail-author-label = Autor
@@ -420,6 +425,7 @@ addon-permissions-optional = Volitelná oprávnění pro dodatečné funkce:
 addon-permissions-learnmore = Zjistit více o oprávněních
 recommended-extensions-heading = Doporučená rozšíření
 recommended-themes-heading = Doporučené vzhledy
+addon-sitepermissions-required = Uděluje serveru <span data-l10n-name="hostname">{ $hostname }</span> následující oprávnění:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Jste tvořiví? <a data-l10n-name="link">Vyrobte si vlastní vzhled pomocí Firefox Color.</a>
@@ -432,6 +438,7 @@ plugin-heading = Správa zásuvných modulů
 dictionary-heading = Správa slovníků
 locale-heading = Správa jazyků
 updates-heading = Správa aktualizací
+sitepermission-heading = Správa oprávnění serverů
 discover-heading =
     Přizpůsobte si { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
