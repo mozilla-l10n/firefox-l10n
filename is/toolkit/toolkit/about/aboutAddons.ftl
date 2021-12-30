@@ -46,8 +46,8 @@ detail-update-manual =
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Keyra í huliðsgluggum
-detail-private-disallowed-description2 = Þessi viðbót keyrir ekki á meðan einkavafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
-detail-private-required-description2 = Þessi viðbót hefur aðgang að athöfnum þínum á netinu á meðan einkavafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+detail-private-disallowed-description2 = Þessi viðbót keyrir ekki á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+detail-private-required-description2 = Þessi viðbót hefur aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 detail-private-browsing-on =
     .label = Heimila
     .tooltiptext = Heimila í huliðsvöfrun
@@ -97,10 +97,10 @@ legacy-extensions =
     .value = Gamlar viðbætur
 legacy-extensions-description = Þessar viðbætur standast ekki núverandi staðla í { -brand-short-name } þannig að þær hafa verið gerðar óvirkar. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á viðbótum</label>
 private-browsing-description2 =
-    { -brand-short-name } er að breyta því hvernig viðbætur virka í einkavafri. Allar nýjar viðbætur sem þú bætir við
-    { -brand-short-name } munu ekki keyra sjálfgefið í einkavafurgluggum. Þessi viðbót mun ekki virka á meðan 
-    einkavafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
-    þar. Við höfum gert þessa breytingu til að halda einkavafri þínu leyndu.
+    { -brand-short-name } er að breyta því hvernig viðbætur virka í huliðsvafri. Allar nýjar viðbætur sem þú bætir við
+    { -brand-short-name } munu ekki keyra sjálfgefið í huliðsgluggum. Þessi viðbót mun ekki virka á meðan 
+    huliðsvafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
+    þar. Við höfum gert þessa breytingu til að halda huliðsvafri þínu leyndu.
     <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum viðbóta</label>
 addon-category-extension = Viðbætur
 addon-category-extension-title =
@@ -248,9 +248,9 @@ install-postponed-message = Þessi viðbót verður uppfærð þegar { -brand-sh
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Leyfilegt í einkagluggum
+    .title = Leyfilegt í huliðsgluggum
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi viðbót aðgang að athöfnum þínum á netinu á meðan einkavafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi viðbót aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
