@@ -99,7 +99,7 @@ login-item-save-changes-button = Vista breytingar
 login-item-save-new-button = Vista
 login-item-cancel-button = Hætta við
 login-item-time-changed = Síðast breytt: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Created: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Búið til: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Síðast notað: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
