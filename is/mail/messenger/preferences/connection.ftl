@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-dns-over-https-url-resolver = Nota þjónustuveitu
+    .accesskey = o
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
@@ -11,6 +13,14 @@ connection-dns-over-https-url-custom =
     .label = Sérsniðið
     .accesskey = S
     .tooltiptext = Settu inn valda URL-slóð til að leysa DNS yfirr HTTPS
+connection-dns-over-https-custom-label = Sérsniðið
+connection-dialog-window =
+    .title = Stillingar tengingar
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em !important
+           *[other] width: 49em !important
+        }
 connection-disable-extension =
     .label = Slökkva á viðbót
 disable-extension-button = Slökkva á viðbót
