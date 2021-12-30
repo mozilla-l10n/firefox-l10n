@@ -3,30 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cookies-window-dialog =
-    .title = Smákökur
+    .title = Vefkökur
     .style = width: 36em;
-
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Leita:
     .accesskey = L
-
-cookies-on-system-label = Eftirfarandi smákökur eru geymdar á tölvunni þinni:
-
+cookies-on-system-label = Eftirfarandi vefkökur eru geymdar á tölvunni þinni:
 treecol-site-header =
     .label = Vefsvæði
-
 treecol-name-header =
-    .label = Heiti smáköku
-
+    .label = Heiti vefköku
 props-name-label =
     .value = Nafn:
 props-value-label =
@@ -41,15 +33,12 @@ props-expires-label =
     .value = Rennur út:
 props-container-label =
     .value = Geymir:
-
 remove-cookie-button =
-    .label = Fjarlægja smáköku
+    .label = Fjarlægja vefköku
     .accesskey = F
-
 remove-all-cookies-button =
-    .label = Fjarlægja allar smákökur
+    .label = Fjarlægja allar vefkökur
     .accesskey = a
-
 cookie-close-button =
     .label = Loka
     .accesskey = L

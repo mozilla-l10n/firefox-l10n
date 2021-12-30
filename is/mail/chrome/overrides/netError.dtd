@@ -115,8 +115,8 @@
 <!ENTITY redirectLoop.title "Síðan er ekki að áframsenda rétt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Þetta vandamál er stundum vegna þess að lokað er á smákökur eða þær hafa
-    verið aftengdar.</li>
+  <li>Þetta vandamál er stundum vegna þess að lokað er á vefkökur eða þær hafa
+    verið gerðar óvirkar.</li>
 </ul>
 ">
 
