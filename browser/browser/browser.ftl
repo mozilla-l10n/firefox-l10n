@@ -245,6 +245,16 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Upplýsingar um vefsvæðið { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = Öryggi tengingar fyrir { $host }
+identity-connection-not-secure = Tenging er ekki örugg
+identity-connection-secure = Tenging er örugg
+identity-connection-failure = Tenging mistókst
 identity-connection-internal = Þetta er örugg { -brand-short-name } síða.
 identity-connection-file = Þessi síða er vistuð á tölvunni þinni.
 identity-extension-page = Þessari síðu er hlaðið inn af viðbót.
@@ -262,12 +272,15 @@ identity-https-only-dropdown-off =
     .label = Óvirkt
 identity-https-only-dropdown-off-temporarily =
     .label = Slökkt tímabundið
+identity-https-only-info-no-upgrade = Ekki er hægt að uppfæra tengingu úr HTTP.
 identity-permissions-storage-access-header = Vefkökur á milli vefsvæða
 identity-permissions-storage-access-hint = Þessir aðilar geta notað vefkökur milli vefsvæða og vefgögn á meðan þú ert á þessu vefsvæði.
 identity-permissions-storage-access-learn-more = Fræðast meira
 identity-permissions-reload-hint = Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.
 identity-clear-site-data =
     .label = Hreinsa vefkökur og síðugögn…
+identity-connection-not-secure-security-view = Þú ert ekki með örugga tengingu við þetta vefsvæði.
+identity-connection-verified = Þú ert með örugga tengingu við þetta vefsvæði.
 identity-ev-owner-label = Skilríki útgefið til:
 identity-description-custom-root = Mozilla viðurkennir ekki þennan skilríkisútgefanda. Það kann að hafa verið bætt við af hálfu stýrikerfisins þíns eða af stjórnanda. <label data-l10n-name="link">Frekari upplýsingar</label>
 identity-remove-cert-exception =
@@ -307,11 +320,25 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = AFSPILUN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ÞAGGAÐ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = LOKAÐ Á SJÁLFSPILUN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = MYND-Í-MYND
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ÞAGGA FLIPA
+        [one] ÞAGGA FLIPA
+       *[other] ÞAGGA { $count } FLIPA
+    }
 
 ## Bookmarks toolbar items
 
