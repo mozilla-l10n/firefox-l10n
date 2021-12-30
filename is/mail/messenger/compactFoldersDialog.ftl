@@ -12,6 +12,9 @@ compact-dialog =
     .buttonaccesskeycancel = M
     .buttonlabelextra1 = Kanna nánar…
     .buttonaccesskeyextra1 = K
+# Variables:
+#  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
+compact-dialog-message = { -brand-short-name } þarf að sinna reglulegu viðhaldi skráa til að bæta afköst póstmappanna þinna. Þetta mun endurheimta { $data } af diskplássi án þess að breyta neitt skilaboðunum þínum. Til að láta { -brand-short-name } gera þetta sjálfkrafa í framtíðinni án þess að spyrja, skaltu merkja við í reitinn hér að neðan áður en þú velur '{ compact-dialog.buttonlabelaccept }'.
 compact-dialog-never-ask-checkbox =
     .label = Þjappa möppum sjálfvirkt í framtíðinni
     .accesskey = p
