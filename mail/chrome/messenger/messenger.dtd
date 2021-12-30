@@ -36,7 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "S">
 <!ENTITY newIMContactCmd.label "Spjalltengiliður…">
 <!ENTITY newIMContactCmd.accesskey "p">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Skilaboð">
+<!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Tengiliður í nafnaskrá…">
 <!ENTITY  newContactCmd.accesskey "T">
 <!ENTITY openMenuCmd.label "Opna">
@@ -318,7 +321,7 @@
 <!ENTITY goChatCmd.label "Spjall">
 <!ENTITY goChatCmd.accesskey "S">
 <!ENTITY goChatCmd2.key "H">
-<!ENTITY prevStarredMsgCmd.label "Stjörnumerktur póstur">
+<!ENTITY prevStarredMsgCmd.label "Stjörnumerkt skilaboð">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Mappa">
 <!ENTITY folderMenu.accesskey "a">
@@ -369,7 +372,7 @@
 <!ENTITY editTemplateMsgCmd.label "Breyta sniðmáti">
 <!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Ný skilaboð út frá sniðmáti">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Búa til síu út frá pósti…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Færa í">
@@ -459,6 +462,7 @@
 <!ENTITY addressBookCmd.label "Nafnaskrá">
 <!ENTITY addressBookCmd.accesskey "N">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY addonNoPrefs.label "Engar stillingar viðbótar fundust.">
 <!ENTITY activitymanager.label "Yfirlit aðgerða">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Staða spjalls">
@@ -505,6 +509,7 @@
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Villuleita viðbætur">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -557,6 +562,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Áframsenda valda pósta sem viðhengi">
 <!ENTITY fileButton.tooltip "Vista valinn póst">
 <!ENTITY archiveButton.tooltip "Setja valinn póst í skjalageymslu">
+<!ENTITY openMsgConversationButton.tooltip "Sýna samtal valinna skilaboða">
 <!ENTITY nextButton.tooltip "Fara yfir á næsta ólesna póst">
 <!ENTITY nextMsgButton.tooltip "Fara á næstu skilaboð">
 <!ENTITY previousButton.tooltip "Fara til baka í fyrri ólesin póst">
@@ -680,7 +686,7 @@
 <!ENTITY dateColumn.label "Dagsetning">
 <!ENTITY priorityColumn.label "Forgangur">
 <!ENTITY tagsColumn.label "Flokkur">
-<!ENTITY accountColumn.label "Þjónusta">
+<!ENTITY accountColumn.label "Reikningur">
 <!ENTITY statusColumn.label "Staða">
 <!ENTITY sizeColumn.label "Stærð">
 <!ENTITY junkStatusColumn.label "Rusl staða">
@@ -696,6 +702,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Veldu dálka til að birta">
+<!ENTITY selectColumn.tooltip "Víxla valstöðu allra skilaboða">
 <!ENTITY threadColumn2.tooltip "Birta póstþræði">
 <!ENTITY fromColumn2.tooltip "Raða eftir frá">
 <!ENTITY recipientColumn2.tooltip "Raða eftir móttakanda">

@@ -4,8 +4,9 @@
 
 tag-dialog-window =
     .title = Nýtt tag
-
 tag-name-label =
     .value = Nafn flokks:
     .accesskey = f
-
+tag-color-label =
+    .value = Litur:
+    .accesskey = L
