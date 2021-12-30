@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Urungkan
 customize-mode-lwthemes-my-themes =
     .value = Temaku
+customize-mode-lwthemes-link = Kelola Tema
 customize-mode-touchbar-cmd =
     .label = Ubahsuai Touch Bar...
 customize-mode-downloads-button-autohide =

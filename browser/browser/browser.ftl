@@ -505,6 +505,10 @@ urlbar-result-action-search-tabs = Cari Tab
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Full Screen and Pointer Lock UI
 
@@ -687,6 +691,9 @@ remote-tabs-sync-now = Sinkronkan Sekarang
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Lainnya…
 ui-tour-info-panel-close =
     .tooltiptext = Tutup
 
@@ -708,6 +715,13 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = Sembunyikan Sakelar Gambar-dalam-Gambar
     .accesskey = S
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
 
 # Navigator Toolbox
 
@@ -748,3 +762,7 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Daftar tab
     .tooltiptext = Daftar tab
+
+## Infobar shown at startup to suggest session-restore
+
+restore-session-startup-suggestion-button = Tunjukkan caranya

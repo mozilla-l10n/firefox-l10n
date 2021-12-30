@@ -86,6 +86,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Tak ada tab terbuka
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat Anda lainnya.
+appmenu-remote-tabs-opensettings =
+    .label = Pengaturan
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ingin melihat tab dari perangkat Anda yang lain di sini?
@@ -178,6 +180,8 @@ profiler-popup-presets-web-developer-label =
     .label = Pengembang Web
 profiler-popup-presets-firefox-platform-label =
     .label = Platform Firefox
+profiler-popup-presets-media-label =
+    .label = Media
 
 ## History panel
 

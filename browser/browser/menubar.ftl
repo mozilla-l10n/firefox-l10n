@@ -38,20 +38,16 @@ menu-quit =
             [windows] K
            *[other] K
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Keluar dari { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Keluar dari { -brand-shorter-name }
-
 menu-about =
     .label = Tentang { -brand-shorter-name }
     .accesskey = T
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Surelkan Tautan…
     .accesskey = K
+menu-file-share-url =
+    .label = Bagikan
+    .accesskey = B
 menu-file-print-setup =
     .label = Tata Laman…
     .accesskey = n
@@ -168,7 +167,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Gaya Standar Laman
     .accesskey = S
-
 menu-view-repair-text-encoding =
     .label = Memperbaiki Pengodean Teks
     .accesskey = k
@@ -214,7 +212,6 @@ menu-history-undo-menu =
     .label = Tab yang Baru Saja Ditutup
 menu-history-undo-window-menu =
     .label = Jendela yang Baru Saja Ditutup
-
 menu-history-reopen-all-tabs = Buka Ulang Semua Tab
 menu-history-reopen-all-windows = Buka Ulang Semua Jendela
 
