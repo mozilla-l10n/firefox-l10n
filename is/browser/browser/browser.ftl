@@ -69,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Opna staðsetningarbeiðnaflipa
+urlbar-xr-notification-anchor =
+    .tooltiptext = Opnaðu heimildaspjald fyrir sýndarveruleika
 urlbar-storage-access-anchor =
     .tooltiptext = Opna heimildaspjald vafravirkni
 urlbar-translate-notification-anchor =
@@ -91,6 +93,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Geyma gögn í varanlegri gagnageymslu
 urlbar-addons-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir viðbótauppsetningu
+urlbar-tip-help-icon =
+    .title = Fá hjálp
+urlbar-search-tips-confirm = Allt í lagi, ég skil
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Ábending:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -98,9 +108,16 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $engineName } beint frá leitarslá.
+urlbar-search-tips-redirect-2 = Byrjaðu að leita í veffangastikunni til að sjá tillögur frá { $engineName } og úr leitarferli þínum.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Veldu þessa flýtileið til að finna það sem þú þarft hraðar.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Bókamerki
+urlbar-search-mode-tabs = Flipar
+urlbar-search-mode-history = Ferill
 
 ##
 
@@ -155,6 +172,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Að þessu sinni leita með:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Breyta leitarstillingum
 search-one-offs-context-open-new-tab =
@@ -163,6 +183,20 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Setja sem sjálfgefna leitarvél
     .accesskey = l
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Bæta við “{ $engineName }”
+    .tooltiptext = Bæta við leitarvélinni “{ $engineName }”
+    .aria-label = Bæta við leitarvélinni “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -175,9 +209,17 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Bókamerki ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Flipar ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Ferill ({ $restrict })
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Bæta við bókamerki
+bookmarks-edit-bookmark = Breyta bókamerki
 bookmark-panel-cancel =
     .label = Hætta við
     .accesskey = C
@@ -193,6 +235,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Sýna ritil þegar vistað er
     .accesskey = S
+bookmark-panel-save-button =
+    .label = Vista
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -210,8 +254,17 @@ identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (ein
 identity-active-loaded = Þú hefur slökkt á vernd fyrir þessa síðu.
 identity-weak-encryption = Þessi síða notar lélega dulkóðun.
 identity-insecure-login-forms = Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.
+identity-https-only-connection-upgraded = (uppfært í HTTPS)
+identity-https-only-label = Einungis HTTPS-hamur
+identity-https-only-dropdown-on =
+    .label = Virkt
+identity-https-only-dropdown-off =
+    .label = Óvirkt
+identity-https-only-dropdown-off-temporarily =
+    .label = Slökkt tímabundið
 identity-permissions-storage-access-header = Vefkökur á milli vefsvæða
 identity-permissions-storage-access-hint = Þessir aðilar geta notað vefkökur milli vefsvæða og vefgögn á meðan þú ert á þessu vefsvæði.
+identity-permissions-storage-access-learn-more = Fræðast meira
 identity-permissions-reload-hint = Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.
 identity-clear-site-data =
     .label = Hreinsa vefkökur og síðugögn…
@@ -245,6 +298,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minnka
+browser-window-maximize-button =
+    .tooltiptext = Hámarka
+browser-window-restore-down-button =
+    .tooltiptext = Endurheimta niður
 browser-window-close-button =
     .tooltiptext = Loka
 
