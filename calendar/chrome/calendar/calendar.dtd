@@ -143,7 +143,7 @@
 <!ENTITY calendar.task-details.due.label             "lokadagsetning">
 
 <!ENTITY calendar.task.category.button.tooltip  "Flokka verkefni">
-<!ENTITY calendar.task.complete.button.tooltip  "Merkja valinn verkefni sem lokið">
+<!ENTITY calendar.task.complete.button.tooltip  "Merkja valin verkefni sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip  "Breyta forgangi">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Sía verkefni #1">
