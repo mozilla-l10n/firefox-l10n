@@ -151,7 +151,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
 about-logins-confirm-remove-all-dialog-checkbox-label = Ya, hapus log masuk ini
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-       *[other] Hapus seluruh { $count } log masuk?
+       *[other] Hapus seluruh { $count } info masuk?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
