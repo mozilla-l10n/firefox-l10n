@@ -108,7 +108,7 @@
 <!ENTITY  event.menu.view.accesskey                       "k">
 <!ENTITY  event.menu.view.toolbars.label                  "Verkfæraslár">
 <!ENTITY  event.menu.view.toolbars.accesskey              "V">
-<!ENTITY  event.menu.view.toolbars.event.label            "Atburða verkfærarein">
+<!ENTITY  event.menu.view.toolbars.event.label            "Verkfæraslá atburða">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Sérsníða…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "S">
