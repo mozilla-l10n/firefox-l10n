@@ -135,7 +135,7 @@
 <!ENTITY  event.menu.options.privacy.public.accesskey         "O">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Sýna bara dag og tíma">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
-<!ENTITY  event.menu.options.privacy.private.label            "Einkamál">
+<!ENTITY  event.menu.options.privacy.private.label            "Einkaatburður">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "E">
 <!ENTITY  event.menu.options.show.time.label                  "Sýna tíma sem">
 <!ENTITY  event.menu.options.show.time.accesskey              "t">
