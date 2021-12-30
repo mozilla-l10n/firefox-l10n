@@ -159,7 +159,7 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nýtt verkefni…">
 <!ENTITY calendar.context.newtodo.accesskey           "v">
-<!ENTITY calendar.context.deletetask.label            "Eyða verkiefni">
+<!ENTITY calendar.context.deletetask.label            "Eyða verkefni">
 <!ENTITY calendar.context.deletetask.accesskey        "y">
 <!ENTITY calendar.context.deleteevent.label           "Eyða atburði">
 <!ENTITY calendar.context.deleteevent.accesskey       "a">
