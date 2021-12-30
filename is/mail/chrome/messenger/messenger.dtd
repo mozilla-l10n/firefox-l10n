@@ -880,7 +880,7 @@
 <!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Afrita nafn fréttahóps">
 <!ENTITY CopyNewsgroupName.accesskey "A">
-<!ENTITY CopyNewsgroupURL.label "Afrita URL fréttahóps">
+<!ENTITY CopyNewsgroupURL.label "Afrita URL-slóð fréttahóps">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Búa til síu út frá…">
 <!ENTITY CreateFilterFrom.accesskey "f">
