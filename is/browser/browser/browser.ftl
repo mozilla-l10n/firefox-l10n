@@ -339,6 +339,18 @@ browser-tab-mute =
         [one] ÞAGGA FLIPA
        *[other] ÞAGGA { $count } FLIPA
     }
+browser-tab-unmute =
+    { $count ->
+        [1] AFÞAGGA FLIPA
+        [one] AFÞAGGA FLIPA
+       *[other] AFÞAGGA { $count } FLIPA
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] SPILA FLIPA
+        [one] SPILA FLIPA
+       *[other] SPILA { $count } FLIPA
+    }
 
 ## Bookmarks toolbar items
 
@@ -348,14 +360,39 @@ browser-import-button2 =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Myndavél:
+    .accesskey = M
+popup-select-camera-icon =
+    .tooltiptext = Myndavél
+popup-select-microphone-device =
+    .value = Hljóðnemi:
+    .accesskey = H
+popup-select-microphone-icon =
+    .tooltiptext = Hljóðnemi
+popup-select-speaker-icon =
+    .tooltiptext = Hátalarar
 popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
+popup-screen-sharing-block =
+    .label = Loka á
+    .accesskey = k
+popup-screen-sharing-always-block =
+    .label = Alltaf loka á
+    .accesskey = A
 popup-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis meðan þú deilir
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Þú ert að deila { -brand-short-name }. Annað fólk getur séð þegar þú skiptir yfir í nýjan flipa.
+sharing-warning-screen = Þú ert að deila öllum skjánum þínum. Annað fólk getur séð þegar þú skiptir yfir í nýjan flipa.
+sharing-warning-proceed-to-tab =
+    .label = Halda áfram á flipa
+sharing-warning-disable-for-session =
+    .label = Slökkva á deilivörn fyrir þessa setu
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Til að nota F12 flýtileiðina skaltu fyrst opna DevTools í gegnum valmyndina fyrir vefhönnuði.
 
 ## URL Bar
 
@@ -363,10 +400,43 @@ popup-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis me
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Leita eða sláðu inn veffang
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Leita á vefnum
+    .aria-label = Leita með { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Settu inn leitarorð
+    .aria-label = Leita með { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Settu inn leitarorð
+    .aria-label = Leita í bókamerkjum
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Settu inn leitarorð
+    .aria-label = Leita í vafurferli
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Settu inn leitarorð
+    .aria-label = Leita í flipum
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Leitaðu með { $name } eða sláðu inn vistfang
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Vafrinn er í fjarstýringu (ástæða: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Þú hefur gefið þessu vefsvæði aukin réttindi.
 urlbar-switch-to-tab =
@@ -382,13 +452,34 @@ urlbar-page-action-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Leita með { $engine } í huliðsglugga
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Leita í huliðsglugga
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Leita með { $engine }
+urlbar-result-action-sponsored = Kostað
 urlbar-result-action-switch-tab = Fara á flipa
 urlbar-result-action-visit = Heimsækja
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Ýttu á dálklykil/Tab til að leita með { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Ýttu á dálklykil/Tab til að leita með { $engine }
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Afrita
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -401,9 +492,22 @@ urlbar-result-action-calculator-result = = { $result }
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Leita í bókamerkjum
+urlbar-result-action-search-history = Leita í vafurferli
+urlbar-result-action-search-tabs = Leita í flipum
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } tillögur
 
 ## Full Screen and Pointer Lock UI
 
