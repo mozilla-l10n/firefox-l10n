@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Leturgerðir
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Letur fyrir
     .accesskey = f
-
 fonts-langgroup-arabic =
     .label = Arabíska
 fonts-langgroup-armenian =
@@ -69,7 +67,7 @@ fonts-langgroup-thai =
 fonts-langgroup-tibetan =
     .label = Tíbetska
 fonts-langgroup-canadian =
-    .label = Unified Canadian Syllabary
+    .label = Samræmd Kanadísk atkvæðatákn
 fonts-langgroup-other =
     .label = Önnur ritunarkerfi
 
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Hlutfallslegt
     .accesskey = u
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Stærð
     .accesskey = t
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Jafnstórt
     .accesskey = J
-
 fonts-monospace-size = Stærð
     .accesskey = æ
-
 fonts-minsize = Lágmarks leturstærð
     .accesskey = L
-
 fonts-minsize-none =
     .label = Engin
-
 fonts-allow-own =
     .label = Leyfa vefsíðum að velja sínar eigin leturgerðir, í staðinn fyrir mitt val hér fyrir ofan
     .accesskey = a
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
