@@ -2,8 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-httpsonly-title-alert = Aðvörun vegna Einungis-HTTPS-hams
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Þú hefur virkjað Einungis-HTTPS-ham til að auka öryggi en HTTPS-útgáfa af <em>{ $websiteUrl }</em> er ekki tiltæk.
 about-httpsonly-explanation-nosupport = Líklegast styður vefsvæðið einfaldlega ekki HTTPS.
 about-httpsonly-explanation-risk = Það er líka mögulegt að árásaraðili sé viðriðinn málið. Ef þú ákveður að heimsækja vefsvæðið, ættir þú ekki að slá inn neinar viðkvæmar upplýsingar eins og lykilorð, tölvupóstföng eða kreditkortaupplýsingar.
+about-httpsonly-explanation-continue = Ef þú heldur áfram verður slökkt tímabundið á Einungis-HTTPS-ham fyrir þessa síðu.
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
