@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window-close =
+    .key = w
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Sjálfgefið ({ $name })
+fonts-label-default-unnamed =
+    .label = Sjálfgefið
 fonts-encoding-dialog-title =
     .title = Leturgerð og stafatöflur
 fonts-language-legend =
@@ -79,9 +87,12 @@ default-font-serif =
     .label = Serif
 default-font-sans-serif =
     .label = Sans Serif
+font-size-proportional-label =
+    .value = Stærð:
+    .accesskey = t
 font-size-monospace-label =
     .value = Stærð:
-    .accesskey = i
+    .accesskey = r
 font-serif-label =
     .value = Serif:
     .accesskey = S
