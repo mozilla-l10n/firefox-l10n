@@ -58,6 +58,7 @@ mobile-app-links = O navegador { -brand-product-name } para <a data-l10n-name="a
 lockwise-title = Nunca mais esqueça uma palavra-passe
 lockwise-title-logged-in2 = Gestão de palavras-passe
 lockwise-header-content = O { -lockwise-brand-name } guarda as suas palavras-passe em segurança no seu navegador.
+passwords-title-logged-in = Gira as suas palavras-passe
 lockwise-header-content-logged-in = Guarde e sincronize em segurança as suas palavras-passe em todos os seus dispositivos.
 protection-report-save-passwords-button = Guardar palavras-passe
     .title = Guardar palavras-passe no { -lockwise-brand-short-name }
