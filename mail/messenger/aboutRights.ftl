@@ -8,11 +8,20 @@ rights-intro-point-1 = { -brand-short-name } er á boðstólum fyrir þig samkv�
 rights-intro-point-2 = Þú hefur ekki leyfi til að nota vörumerki eða hefur notkunarleyfi fyrir vörumerkjum frá Mozilla Foundation stofnunni eða öðrum aðilum, þar með talið án allra takmarkana Firefox-nafnið eða fyrirtækismerki þess. Meiri upplýsingar má sjá <a data-l10n-name="mozilla-trademarks-link">hér</a>.
 rights-intro-point-3 = Sumir eiginleikar í { -brand-short-name }, eins og t.d. að tilkynna hrun, gefur þér tækifæri á að senda tilkynningu til { -vendor-short-name }. Með því að velja að senda tilkynningu, gefurðu { -vendor-short-name } leyfi til að nota tilkynninguna til að laga vörur sínar, og leyfi til að birta tilkynninguna á vefsvæðum sínum, og að deila tilkynningunni.
 rights-intro-point-4 = Hvernig meðferð persónuupplýsinga og upplýsingar sem eru sendar til { -vendor-short-name } með { -brand-short-name } er háttað er líst í <a data-l10n-name="mozilla-privacy-policy-link">Meðferð persónuupplýsinga hjá { -brand-short-name }</a>.
+rights-intro-point-4-unbranded = Allar reglur um meðferð persónuupplýsinga fyrir þessa vöru ættu að birtast hér.
 rights-intro-point-5 = Sumir eiginleikar í { -brand-short-name } nota vefsvæðisupplýsingar, en, því miður getum við ekki ábyrgst að þær upplýsingar séu 100% nákvæmar eða villulausar. Fyrir meiri upplýsingar, og meðal annars upplýsingar um hvernig á að gera þjónusturnar óvirkar, er að finna í <a data-l10n-name="mozilla-service-terms-link">þjónustuskilmálum</a>.
 rights-intro-point-5-unbranded = Ef þessi vara inniheldur vefþjónustur, skulu allar viðeigandi skilmálar fyrir þjónustuna vera tengdar við <a data-l10n-name="mozilla-website-services-link">Vefsvæðisþjónustu</a> flipann.
 rights-intro-point-6 = Til að geta spilað sumar tegundir af myndefni, þarf { -brand-short-name } að hala niður ákveðnum tegundum af afkóðunarviðbótum frá utanaðkomandi aðilum.
 rights-webservices-header = { -brand-full-name } Vefupplýsingaþjónustur
 rights-webservices = { -brand-full-name } notar vefupplýsingaþjónustur ("Þjónustur") til að bjóða upp á suma eiginleika sem eru aðgengilegir í þessari útgáfu af { -brand-short-name } eins og lýst er hér fyrir neðan. Ef þú vilt ekki nota þjónusturnar eða skilmálarnir eru óaðgengilegir, geturðu gert eiginleikana eða þjónustuna óvirka. Leiðbeiningar fyrir að hætta að nota ákveðinn eiginleika eða þjónustu er hægt að finna <a data-l10n-name="mozilla-disable-service-link">hérna</a>. Aðrar stillingar og þjónustur er hægt að gera óvirkar í valkostum.
+rights-webservices2 =
+    { -brand-full-name } notar vefupplýsingaþjónustur ("Þjónustur") til að bjóða 
+    upp á suma þá eiginleika sem aðgengilegir eru í þessari útgáfu af { -brand-short-name } 
+    eins og lýst er hér fyrir neðan. Ef þú vilt ekki nota þjónusturnar eða skilmálarnir eru 
+    óaðgengilegir, geturðu gert eiginleikana eða þjónustuna óvirka. 
+    Leiðbeiningar fyrir að hætta að nota ákveðinn eiginleika eða þjónustu er hægt 
+    að finna <a data-l10n-name="mozilla-disable-service-link">hérna</a>. 
+    Aðrar stillingar og þjónustur er hægt að gera óvirkar í valkostum.
 rights-locationawarebrowsing = <strong>Staðsetningarvöfrun: </strong>er alltaf valkvæmt.  Engar staðsetningarupplýsingar eru sendar án þíns leyfis.  Ef þú vilt taka þennan eiginlega alveg út, geturðu fylgt eftir þessum skrefum:
 rights-locationawarebrowsing-term-1 = Í netfangaslá, sláðu inn <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Sláðu inn geo.enabled
