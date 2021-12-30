@@ -50,8 +50,8 @@
 <!ENTITY modelDeleteImmediately.label "Fjarlægja strax">
 <!ENTITY modelDeleteImmediately.accesskey "F">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Hreinsa Innhólf (&quot;Expunge&quot;) þegar hætt er">
-<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY expungeOnExit.label "Hreinsa Innhólf (&quot;Þurrka út - Expunge&quot;) þegar hætt er">
+<!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Tæma rusl þegar forriti er lokað">
 <!ENTITY emptyTrashOnExit.accesskey "r">
 <!ENTITY loginAtStartup.label "Athuga með nýjan póst í ræsingu">
