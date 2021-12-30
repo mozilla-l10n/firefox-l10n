@@ -5,7 +5,10 @@
 <!ENTITY e2eTitle.label "Enda-í-enda dulritun">
 <!ENTITY e2eLearnMore.label "Kanna nánar">
 
+<!ENTITY e2eEnc.description "Án enda-í-enda dulritunar er innihald skilaboða auðveldlega berskjaldað fyrir tölvupóstþjónustuna þína og eftirlitsaðila.">
+<!ENTITY e2eeReqWarning.description "Ef þú vilt dulritun, þarftu að hafa opinberan dreifilykil eða skilríki hvers viðtakanda til að senda dulrituð skilaboð.">
 
+<!ENTITY e2eSigning.description "Stafræn undirritun gerir viðtakendum kleift að staðfesta að skilaboðin hafi verið send af þér og að efni þeirra hafi ekki verið breytt.">
 <!ENTITY e2eTechPref.description "Æskileg dulritunartækni:">
 
 <!ENTITY doNotEncrypt.label "Ekki krefjast dulritunar sjálfgefið">
