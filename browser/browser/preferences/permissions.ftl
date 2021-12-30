@@ -71,6 +71,10 @@ permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði haf
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Undantekningar - Einungis-HTTPS-hamur
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður. Undantekningar eiga ekki við um huliðsglugga.
 
 ## Exceptions - Pop-ups
 

@@ -272,15 +272,15 @@ identity-active-loaded = Þú hefur slökkt á vernd fyrir þessa síðu.
 identity-weak-encryption = Þessi síða notar lélega dulkóðun.
 identity-insecure-login-forms = Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.
 identity-https-only-connection-upgraded = (uppfært í HTTPS)
-identity-https-only-label = Einungis HTTPS-hamur
+identity-https-only-label = Einungis-HTTPS-hamur
 identity-https-only-dropdown-on =
     .label = Virkt
 identity-https-only-dropdown-off =
     .label = Óvirkt
 identity-https-only-dropdown-off-temporarily =
     .label = Slökkt tímabundið
-identity-https-only-info-turn-on2 = Kveiktu á HTTPS-Einungis fyrir þessa síðu ef þú vilt að { -brand-short-name } uppfæri tenginguna þegar mögulegt er.
-identity-https-only-info-turn-off2 = Ef síðan virðist biluð gætirðu viljað slökkva á HTTPS-Einungis fyrir þessa síðu til að endurlesa hana með óöruggu HTTP.
+identity-https-only-info-turn-on2 = Kveiktu á Einungis-HTTPS-ham fyrir þessa síðu ef þú vilt að { -brand-short-name } uppfæri tenginguna þegar mögulegt er.
+identity-https-only-info-turn-off2 = Ef síðan virðist biluð gætirðu viljað slökkva á Einungis-HTTPS-ham fyrir þessa síðu til að endurlesa hana með óöruggu HTTP.
 identity-https-only-info-no-upgrade = Ekki er hægt að uppfæra tengingu úr HTTP.
 identity-permissions-storage-access-header = Vefkökur á milli vefsvæða
 identity-permissions-storage-access-hint = Þessir aðilar geta notað vefkökur milli vefsvæða og vefgögn á meðan þú ert á þessu vefsvæði.
@@ -366,6 +366,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Flytja inn bókamerki...
     .tooltiptext = Flytja inn bókamerki úr öðrum vafra yfir í { -brand-short-name }.
+bookmarks-toolbar-empty-message = Fyrir fljótlegan aðgang að þeim, skaltu setja bókamerkin þín hér á bókamerkjastikuna. <a data-l10n-name="manage-bookmarks">Sýsla með bókamerki...</a>
 
 ## WebRTC Pop-up notifications
 
