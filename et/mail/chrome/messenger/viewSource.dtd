@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/viewSource.xul -->
-
 <!-- extracted from content/viewSource.xhtml -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
@@ -14,6 +12,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Lähtekood: ">
 
+<!ENTITY editMenu.label "Muuda">
+<!ENTITY editMenu.accesskey "M">
 <!ENTITY fileMenu.label "Fail">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Salvesta kui…">
@@ -82,4 +82,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopeeri e-posti aadress">
 <!ENTITY copyEmailCmd.accesskey "e">
-
