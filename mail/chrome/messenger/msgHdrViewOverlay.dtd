@@ -81,7 +81,7 @@
 <!ENTITY detachAttachmentCmd.accesskey    "t">
 <!ENTITY deleteAttachmentCmd.label    "Eyða">
 <!ENTITY deleteAttachmentCmd.accesskey    "ð">
-<!ENTITY openAllAttachmentsCmd.label    "Open All…">
+<!ENTITY openAllAttachmentsCmd.label    "Opna allt…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "Vista öll…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "a">
