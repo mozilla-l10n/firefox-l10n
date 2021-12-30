@@ -14,8 +14,8 @@ calendar-delete-event-prompt-message =
     }
 calendar-delete-task-prompt-title =
     { $count ->
-        [one] Eyða verkiefni
-       *[other] Eyða verkiefnum
+        [one] Eyða verkefni
+       *[other] Eyða verkefnum
     }
 calendar-delete-task-prompt-message =
     { $count ->
