@@ -23,6 +23,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Flakk">
 <!ENTITY fullScreenCmd.label "Fylla skjá">
 
+<!ENTITY pictureInPictureHideToggle.label "Fela mynd-í-mynd víxlhnapp">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
