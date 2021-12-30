@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Sýsla með notkun tengiforrita
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Sýsla með að deila öðrum hátölurum á vefsvæðinu
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Opna spjald sjálfkrafa afspilunar
 urlbar-persistent-storage-notification-anchor =
@@ -183,6 +187,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Setja sem sjálfgefna leitarvél
     .accesskey = l
+search-one-offs-context-set-as-default-private =
+    .label = Stillt sem sjálfgefin leitarvél fyrir huliðsglugga
+    .accesskey = h
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -272,6 +279,8 @@ identity-https-only-dropdown-off =
     .label = Óvirkt
 identity-https-only-dropdown-off-temporarily =
     .label = Slökkt tímabundið
+identity-https-only-info-turn-on2 = Kveiktu á HTTPS-Einungis fyrir þessa síðu ef þú vilt að { -brand-short-name } uppfæri tenginguna þegar mögulegt er.
+identity-https-only-info-turn-off2 = Ef síðan virðist biluð gætirðu viljað slökkva á HTTPS-Einungis fyrir þessa síðu til að endurlesa hana með óöruggu HTTP.
 identity-https-only-info-no-upgrade = Ekki er hægt að uppfæra tengingu úr HTTP.
 identity-permissions-storage-access-header = Vefkökur á milli vefsvæða
 identity-permissions-storage-access-hint = Þessir aðilar geta notað vefkökur milli vefsvæða og vefgögn á meðan þú ert á þessu vefsvæði.
@@ -480,6 +489,14 @@ urlbar-result-action-before-tabtosearch-web = Ýttu á dálklykil/Tab til að le
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Ýttu á dálklykil/Tab til að leita með { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Leita með { $engine } beint af veffangastikunni
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Leita með { $engine } beint af veffangastikunni
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Afrita
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -527,6 +544,16 @@ pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýtt
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Hluti þessarar síðu hrundi.</strong> Til að láta { -brand-product-name } vita af þessu vandamáli svo hægt sé laga það fljótt og vel, skaltu senda inn skýrslu.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Hluti þessarar síðu hrundi. Til að láta { -brand-product-name } vita af þessu vandamáli svo hægt sé laga það fljótt og vel, skaltu senda inn skýrslu.
+crashed-subframe-learnmore-link =
+    .value = Fræðast meira
+crashed-subframe-submit =
+    .label = Senda inn skýrslu
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
@@ -594,6 +621,8 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Bókamerki
+library-recent-activity-title =
+    .value = Nýleg virkni
 
 ## Pocket toolbar button
 
@@ -657,20 +686,34 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Sumar hljóðskrár eða myndbönd á þessu vefsvæði nota DRM hugbúnað, sem gæti hugsanlega takmarkað hvað { -brand-short-name } getur gert með það efni.
+eme-notifications-drm-content-playing-manage = Sýsla með stillingar
+eme-notifications-drm-content-playing-manage-accesskey = m
+eme-notifications-drm-content-playing-dismiss = Hafna
+eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Password save/update panel
 
+panel-save-update-username = Notandanafn
+panel-save-update-password = Lykilorð
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Fjarlægja { $name }?
+addon-removal-abuse-report-checkbox = Tilkynna þessa viðbót til { -vendor-short-name }
 
 ## Remote / Synced tabs
 
 remote-tabs-manage-account =
     .label = Sýsla með reikning
+remote-tabs-sync-now = Samstilla núna
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Meira…
 ui-tour-info-panel-close =
     .tooltiptext = Loka
 
@@ -689,10 +732,22 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ekki sýna þessi skilaboð þegar sprettigluggum er lokað
     .accesskey = D
+edit-popup-settings =
+    .label = Sýsla með sprettgluggastillingar...
+    .accesskey = g
+picture-in-picture-hide-toggle =
+    .label = Fela mynd-í-mynd víxlhnapp
+    .accesskey = F
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Færa mynd-í-mynd víxlhnapp á hægri hlið
+    .accesskey = h
+picture-in-picture-move-toggle-left =
+    .label = Færa mynd-í-mynd víxlhnapp á vinstri hlið
+    .accesskey = v
 
 ##
 
@@ -739,4 +794,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Opna fyrri flipa?</strong> Þú getur endurheimt fyrri setu þína úr { -brand-short-name } forritavalmyndinni <img data-l10n-name="icon"/>, undir Ferill-færslunni.
 restore-session-startup-suggestion-button = Sýna mér hvernig
