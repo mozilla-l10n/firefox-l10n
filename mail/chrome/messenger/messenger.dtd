@@ -490,6 +490,8 @@
 <!ENTITY deleteJunk.accesskey "m">
 <!ENTITY importCmd.label "Impordi...">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Ekspordi...">
+<!ENTITY exportCmd.accesskey "E">
 <!ENTITY clearRecentHistory.label "Kustuta hiljutine ajalugu…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontode sätted">
