@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = Staðfesting á lestri
-
-return-receipt-checkbox =
-    .label = Þegar póstur er sendur, alltaf krefjast staðfestingar á lestri
-    .acceskey = Þ
-
+return-receipt-checkbox-control =
+    .label = Þegar póstur er sendur skal alltaf krefjast staðfestingar á lestri
+    .accesskey = p
 receipt-arrive-label = Ef kvittun er móttekin:
-
-receipt-leave-radio =
-    .label = Skilja hana eftir í innhólfi
-    .acceskey = i
-
-receipt-move-radio =
-    .label = Færa yfir í "Sent"-möppuna mína
-    .acceskey = m
-
+receipt-leave-radio-control =
+    .label = Skildu það eftir í innhólfinu mínu
+    .accesskey = i
+receipt-move-radio-control =
+    .label = Færa það í „Sent“ möppuna mína
+    .accesskey = m
 receipt-request-label = Þegar ég móttek beiðni um staðfestingu á lestri:
-
-receipt-return-never-radio =
+receipt-return-never-radio-control =
     .label = Aldrei senda staðfestingu á lestri
-    .acceskey = n
-
-receipt-return-some-radio =
-    .label = Leyfa staðfestinu á lestri fyrir suman póst
-    .acceskey = r
-
-receipt-not-to-cc =
-    .value = Ef ég er ekki í 'Til' eða 'Afrit'-reitum póstsins:
-    .acceskey = f
-
+    .accesskey = d
+receipt-return-some-radio-control =
+    .label = Leyfa staðfestingu á lestri fyrir sum skilaboð
+    .accesskey = y
+receipt-not-to-cc-label =
+    .value = Ef ég er ekki í Til eða Afrit skilaboðanna:
+    .accesskey = E
 receipt-send-never-label =
     .label = Aldrei senda
-
 receipt-send-always-label =
     .label = Senda alltaf
-
 receipt-send-ask-label =
     .label = Spyrja mig
-
-sender-outside-domain =
-    .value = Ef sendandi er fyrir utan mitt lén:
-    .acceskey = t
-
-other-cases-label =
+sender-outside-domain-label =
+    .value = Ef sendandi er utan lénsins míns:
+    .accesskey = t
+other-cases-text-label =
     .value = Í öllum öðrum tilfellum:
-    .acceskey = ö
+    .accesskey = u
