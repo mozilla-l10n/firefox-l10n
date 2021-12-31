@@ -235,7 +235,7 @@
 <!ENTITY progress.level.100            "100&percnt; Lokið">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "Ekki skilgreindur">
+<!ENTITY priority.level.none                "Ekki skilgreint">
 <!ENTITY priority.level.none.accesskey      "s">
 <!ENTITY priority.level.low                 "Lágur">
 <!ENTITY priority.level.low.accesskey       "L">
