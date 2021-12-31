@@ -48,11 +48,14 @@ openpgp-keygen-keysize =
     .accesskey = s
 openpgp-keygen-type-rsa =
     .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (curva elíptica)
 openpgp-keygen-button = Generar clave
 openpgp-keygen-progress-title = Generando tu nueva clave OpenPGP…
 openpgp-keygen-import-progress-title = Importando tus claves OpenPGP…
 openpgp-import-success = ¡Claves OpenPGP importadas con éxito!
 openpgp-import-success-title = Completar el proceso de importación
+openpgp-import-success-description = Para comenzar a usar tu clave OpenPGP importada para el cifrado de correo electrónico, cierra este cuadro de diálogo y accede a la Configuración de tu cuenta para seleccionarla.
 openpgp-keygen-confirm =
     .label = Confirmar
 openpgp-keygen-dismiss =
@@ -62,6 +65,7 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Cerrar
     .accesskey = C
+openpgp-keygen-missing-username = No hay un nombre especificado para la cuenta actual. Introduce un valor en el campo "Tu nombre" en la configuración de la cuenta.
 openpgp-keygen-long-expiry = No puedes crear una clave que expira en más de 100 años.
 openpgp-keygen-short-expiry = Tu clave debe ser válida por al menos un día.
 openpgp-keygen-ongoing = ¡La generación de claves ya está en progreso!
@@ -86,6 +90,7 @@ openpgp-import-key-list-amount =
         [one] Thunderbird encontró una clave que puede ser importada.
        *[other] Thunderbird encontró { $count } claves que pueden ser importadas.
     }
+openpgp-passphrase-prompt-title = Se requiere contraseña
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Ingresa la frase de contraseña para desbloquear la siguiente clave: { $key }
 openpgp-import-key-button =

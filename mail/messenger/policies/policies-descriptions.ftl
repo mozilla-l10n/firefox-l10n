@@ -19,6 +19,7 @@ policy-BlockAboutAddons = Bloquear el acceso al administrador de complementos (a
 policy-BlockAboutConfig = Bloquear acceso ala página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
+policy-CaptivePortal = Habilitar o deshabilitar soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar certificados integrados.
 policy-Cookies = Permitir o no permitir que los sitios web guarden cookies.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el lector de PDF integrado en { -brand-short-name }.
@@ -43,16 +44,23 @@ policy-DontCheckDefaultClient = Deshabilitar la verificación de cliente predete
 policy-DownloadDirectory = Establecer y bloquear el directorio de descargas.
 policy-ExtensionSettings = Administrar todos los aspectos de la instalación de extensiones.
 policy-ExtensionUpdate = Habilitar o deshabilitar la actualización automática de extensiones.
+policy-Handlers = Configurar gestores de aplicación predeterminados.
 policy-HardwareAcceleration = Si el valor es falso, se desactiva la aceleración por hardware.
 policy-InstallAddonsPermission = Permitir a ciertos sitios instalar complementos.
 policy-LegacyProfiles = Deshabilitar la función que obliga a tener un perfil separado para cada instalación.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Activar la configuración de comportamiento tradicional de SameSite para las cookies de forma predeterminada.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamiento tradicional de SameSite para las cookies en sitios específicos.
 
 ##
 
+policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archivos locales.
+policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notificar al usuario sobre las actualizaciones.
+policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
+policy-OfferToSaveLogins = Aplicar la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan valores verdaderos y falsos.
+policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
@@ -68,6 +76,7 @@ policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
+policy-SupportMenu = Agregar un elemento personalizado de asistencia al menú de ayuda.
 policy-UserMessaging = No mostrar ciertos mensajes al usuario.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear sitios web para que no sean visitados. Consulta la documentación para obtener más detalles sobre el formato.
