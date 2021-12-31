@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Restaurar sessão">
-<!ENTITY restorepage.pagetitle      "Deseja restaurar a sessão?">
+<!ENTITY restorepage.pagetitle      "Quer restaurar a sessão?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc      "A sessão anterior do &brandShortName; travou. Desculpe-nos o inconveniente. Você pode restaurar as abas e janelas da sessão anterior ou iniciar uma nova sessão caso elas não sejam mais necessárias.">
