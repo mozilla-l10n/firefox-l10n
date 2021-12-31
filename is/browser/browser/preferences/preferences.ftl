@@ -8,6 +8,7 @@ do-not-track-option-default-content-blocking-known =
     .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
 do-not-track-option-always =
     .label = Alltaf
+settings-page-title = Stillingar
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -20,6 +21,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Finna í stillingum
 managed-notice = Vafra þínum er stjórnað af skipulagsheild þinni.
+category-list =
+    .aria-label = Flokkar
 pane-general-title = Almennt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -32,6 +35,10 @@ category-search =
 pane-privacy-title = Friðhelgi og öruggi
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = Samstiling
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-subtitle = Haltu áfram með varúð
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
