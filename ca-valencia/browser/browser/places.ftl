@@ -69,6 +69,26 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Edita…
     .accesskey = E
+places-edit-folder =
+    .label = Reanomena la carpeta…
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Elimina la carpeta
+           *[other] Elimina les carpetes
+        }
+    .accesskey = m
+places-edit-folder2 =
+    .label = Edita la carpeta…
+    .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Suprimeix la carpeta
+           *[other] Suprimeix les carpetes
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Adreces d'interés gestionades
@@ -87,9 +107,26 @@ places-remove-bookmark =
            *[other] Elimina les adreces d'interés
         }
     .accesskey = m
+places-show-in-folder =
+    .label = Mostra en la carpeta
+    .accesskey = M
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Suprimeix l'adreça d'interés
+           *[other] Suprimeix les adreces d'interés
+        }
+    .accesskey = S
 places-manage-bookmarks =
     .label = Gestiona les adreces d'interés
     .accesskey = G
+places-forget-about-this-site-confirmation-title = Voleu oblidar este lloc?
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Esta acció eliminarà totes les dades relacionades amb { $hostOrBaseDomain }, inclosos l'historial, les contrasenyes, les galetes, la memòria cau i les preferències de contingut. Segur que voleu continuar?
+places-forget-about-this-site-forget = Oblida
 places-library =
     .title = Biblioteca
     .style = width:700px; height:500px;

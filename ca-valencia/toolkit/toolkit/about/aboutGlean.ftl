@@ -2,5 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### "Glean" and "Glean SDK" should remain in English.
 
+about-glean-page-title = Quant al Glean
+about-glean-description = El <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> és una biblioteca de recopilació de dades utilitzada als productes de Mozilla. Esta pàgina és per als desenvolupadors i verificadors que necessiten <a data-l10n-name="fog-debug-doc-link">configurar l’estat de la depuració i del registre al Glean SDK>
+about-glean-warning = L’ús incorrecte d’esta interfície pot fer que el { -brand-short-name } falle.

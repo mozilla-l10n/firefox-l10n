@@ -289,6 +289,10 @@ about-debugging-extension-location =
 about-debugging-extension-id =
     .label = ID d'extensió
 
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Inicia
+    .disabledTitle = L'inici d'un procés de treball de servei està desactivat pel multiprocés del { -brand-shorter-name }
+
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Suprimeix el registre
 

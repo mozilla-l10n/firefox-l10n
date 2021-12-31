@@ -7,10 +7,10 @@ wizard-macos-button-back =
     .accesskey = e
 wizard-linux-button-back =
     .label = Arrere
-    .accesskey = r
+    .accesskey = A
 wizard-win-button-back =
     .label = < Arrere
-    .accesskey = r
+    .accesskey = A
 
 wizard-macos-button-next =
     .label = Continua

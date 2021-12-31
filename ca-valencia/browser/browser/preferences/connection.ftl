@@ -36,6 +36,10 @@ connection-proxy-http = Servidor intermediari d'HTTP
 connection-proxy-http-port = Port
     .accesskey = P
 
+connection-proxy-https-sharing =
+    .label = Utilitza també este servidor intermediari per a HTTPS
+    .accesskey = U
+
 connection-proxy-https = Servidor intermediari d'HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Port

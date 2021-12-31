@@ -12,3 +12,12 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Voleu que el { -brand-short-name } siga el vostre navegador principal?
+default-browser-prompt-message-pin = Tingueu el { -brand-short-name } ben a mà: feu que siga el navegador per defecte i fixeu-lo a la barra de tasques.
+default-browser-prompt-message-pin-mac = Tingueu el { -brand-short-name } ben a mà: feu que siga el navegador per defecte i fixeu-lo al Dock.
+default-browser-prompt-button-primary-pin = Fes que siga el navegador principal
+default-browser-prompt-title-alt = Voleu que el { -brand-short-name } siga el vostre navegador per defecte?
+default-browser-prompt-message-alt = Velocitat, seguretat i privadesa sempre que navegueu.
+default-browser-prompt-button-primary-alt = Defineix com a navegador per defecte
+default-browser-prompt-checkbox-not-again-label = No tornes a mostrar este missatge
+default-browser-prompt-button-secondary = Ara no

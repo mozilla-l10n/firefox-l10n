@@ -24,6 +24,14 @@ permissions-allow =
     .label = Permet
     .accesskey = P
 
+permissions-button-off =
+    .label = Desactiva
+    .accesskey = D
+
+permissions-button-off-temporarily =
+    .label = Desactiva temporalment
+    .accesskey = t
+
 permissions-site-name =
     .label = Lloc web
 
@@ -68,6 +76,11 @@ permissions-capabilities-listitem-block =
 permissions-capabilities-listitem-allow-session =
     .value = Permet durant la sessió
 
+permissions-capabilities-listitem-off =
+    .value = Desactivat
+permissions-capabilities-listitem-off-temporarily =
+    .value = Desactivat temporalment
+
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = S'ha introduït un nom d'ordinador central no vàlid
@@ -88,6 +101,11 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = Podeu especificar quins llocs web poden utilitzar galetes i dades dels llocs. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Bloca, Permet durant la sessió o Permet.
 
 ## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Excepcions - Mode només HTTPS
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a estos llocs. Les excepcions no s'apliquen a les finestres privades.
 
 ## Exceptions - Pop-ups
 

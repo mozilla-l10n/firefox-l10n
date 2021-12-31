@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Actualització disponible
+    .label = Hi ha una actualització
     .buttonlabel = Baixa
     .buttonaccesskey = B
     .secondarybuttonlabel = Descarta
     .secondarybuttonaccesskey = D
 appmenu-update-available-message2 = Baixeu la darrera versió del { -brand-shorter-name }.
 appmenu-update-manual2 =
-    .label = Actualització disponible
+    .label = Hi ha una actualització
     .buttonlabel = Baixa
     .buttonaccesskey = B
     .secondarybuttonlabel = Descarta
@@ -24,7 +24,7 @@ appmenu-update-unsupported2 =
     .secondarybuttonaccesskey = D
 appmenu-update-unsupported-message2 = El vostre sistema operatiu és incompatible amb la versió més recent del { -brand-shorter-name }.
 appmenu-update-restart2 =
-    .label = Actualització disponible
+    .label = Hi ha una actualització
     .buttonlabel = Actualitza i reinicia
     .buttonaccesskey = A
     .secondarybuttonlabel = Descarta

@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Gestiona l'ús dels complements
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gestiona la compartició de la càmera o del micròfon amb el lloc
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Gestiona la compartició d'altres altaveus amb el lloc
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Obri la subfinestra de reproducció automàtica
 urlbar-persistent-storage-notification-anchor =
@@ -192,6 +196,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Afig «{ $engineName }»
+    .tooltiptext = Afig el motor de cerca «{ $engineName }»
+    .aria-label = Afig el motor de cerca «{ $engineName }»
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -223,8 +235,8 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label =
         { $count ->
-            [one] Elimina l'adreça d'interés
-           *[other] Elimina { $count } adreces d'interés
+            [one] Elimina l'adreça d'interès
+           *[other] Elimina { $count } adreces d'interès
         }
     .accesskey = E
 bookmark-panel-show-editor-checkbox =
@@ -249,6 +261,7 @@ identity-header-security-with-host =
     .title = Seguretat de la connexió per a { $host }
 identity-connection-not-secure = La connexió no és segura
 identity-connection-secure = Connexió segura
+identity-connection-failure = La connexió ha fallat
 identity-connection-internal = Esta és una pàgina del { -brand-short-name } segura.
 identity-connection-file = Esta pàgina està guardada a l'ordinador.
 identity-extension-page = Esta pàgina s'ha carregat des d'una extensió.
@@ -271,6 +284,7 @@ identity-https-only-info-turn-off2 = Si pareix que la pàgina no funciona bé, p
 identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
 identity-permissions-storage-access-header = Galetes entre llocs
 identity-permissions-storage-access-hint = Estos subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en este lloc.
+identity-permissions-storage-access-learn-more = Més informació
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
 identity-clear-site-data =
     .label = Esborra les galetes i dades dels llocs…
@@ -363,6 +377,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Micròfon
+popup-select-speaker-icon =
+    .tooltiptext = Altaveus
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
 popup-screen-sharing-block =
     .label = Bloca
@@ -423,6 +439,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cerqueu amb { $name } o escriviu una adreça
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = El navegador està sota control remot (motiu: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Heu donat permisos addicionals a este lloc web.
 urlbar-switch-to-tab =
@@ -492,6 +513,16 @@ urlbar-result-action-search-tabs = Cerca en les pestanyes
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Suggeriments del { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -512,6 +543,10 @@ pointerlock-warning-no-domain = Este document té el control del punter. Premeu 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part d'esta pàgina ha fallat.</strong> Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Part d'esta pàgina ha fallat. Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
 crashed-subframe-learnmore-link =
     .value = Més informació
 crashed-subframe-submit =
@@ -536,26 +571,26 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Amaga la barra lateral d'adreces d'interés
-           *[other] Mostra la barra lateral de les adreces d'interés
+            [true] Amaga la barra lateral d'adreces d'interès
+           *[other] Mostra la barra lateral de les adreces d'interès
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Amaga la barra d'eines d'adreces d'interés
-           *[other] Mostra la barra de les adreces d'interés
+            [true] Amaga la barra d'eines d'adreces d'interès
+           *[other] Mostra la barra de les adreces d'interès
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
-            [true] Amaga la barra de les adreces d'interés
-           *[other] Mostra la barra de les adreces d'interés
+            [true] Amaga la barra de les adreces d'interès
+           *[other] Mostra la barra de les adreces d'interès
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Elimina el menú d'adreces d'interés de la barra d'eines
-           *[other] Afig el menú d'adreces d'interés a la barra d'eines
+            [true] Elimina el menú d'adreces d'interès de la barra d'eines
+           *[other] Afegeix el menú d'adreces d'interès a la barra d'eines
         }
 bookmarks-search =
     .label = Cerca adreces d'interés
@@ -595,6 +630,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Repara la codificació del text
+    .tooltiptext = Detecta la codificació del text correcta a partir del contingut de la pàgina
 
 ## Customize Toolbar Buttons
 
@@ -671,6 +709,9 @@ remote-tabs-sync-now = Sincronitza ara
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Més…
 ui-tour-info-panel-close =
     .tooltiptext = Tanca
 
@@ -689,9 +730,25 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostres este missatge quan es bloquin finestres emergents
     .accesskey = n
+edit-popup-settings =
+    .label = Gestiona els paràmetres de finestres emergents…
+    .accesskey = G
 picture-in-picture-hide-toggle =
     .label = Amaga el botó d'Imatge sobre imatge
     .accesskey = m
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Mou el botó d'Imatge sobre imatge al costat dret
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Mou el botó d'Imatge sobre imatge al costat esquerre
+    .accesskey = e
+
+##
+
 
 # Navigator Toolbox
 
@@ -732,3 +789,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Voleu obrir les pestanyes anteriors?</strong> Podeu restaurar la sessió anterior des del menú de l'aplicació del { -brand-short-name } <img data-l10n-name="icon"/>, dins l'«Historial».
+restore-session-startup-suggestion-button = Mostra com fer-ho

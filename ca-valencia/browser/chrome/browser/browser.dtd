@@ -1,19 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 
 <!ENTITY navbarOverflow.label                "Més eines…">
-
 <!-- Tab context menu -->
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
 
 
 <!ENTITY  listAllTabs.label      "Llista totes les pestanyes">
@@ -34,9 +27,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pictureInPictureHideToggle.label "Amaga el botó d'Imatge sobre imatge">
 <!ENTITY pictureInPictureHideToggle.accesskey "m">
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
 
 
 <!ENTITY fxa.menu.signin.label "Inicia la sessió al &brandProductName;">
@@ -44,21 +34,6 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen.  -->
 
 <!ENTITY fxa.service.sendTab.description "Envieu una pestanya instantàniament a qualsevol dispositiu on hàgeu iniciat la sessió.">
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
 
 <!ENTITY printButton.label            "Imprimeix">
 <!ENTITY printButton.tooltip          "Imprimeix esta pàgina">
@@ -93,9 +68,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyMenu.label "Historial">
 
 <!ENTITY appMenuHelp.label "Ajuda">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+
 <!ENTITY appMenuRemoteTabs.notabs.label "No hi ha cap pestanya oberta">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Mostra més pestanyes d'este dispositiu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
@@ -140,10 +115,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY searchIcon.tooltip           "Cerca">
 
 <!ENTITY openLinkCmdInTab.accesskey   "t">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

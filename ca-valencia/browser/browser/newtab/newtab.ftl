@@ -8,10 +8,11 @@
 newtab-page-title = Pestanya nova
 newtab-settings-button =
     .title = Personalitzeu la pàgina de pestanya nova
-
 newtab-personalize-icon-label =
     .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
+newtab-personalize-dialog-label =
+    .aria-label = Personalitza
 
 ## Search box component.
 
@@ -19,7 +20,6 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Cerqueu amb { $engine } o escriviu una adreça
@@ -34,12 +34,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Escriviu una cerca o adreça
     .title = Escriviu una cerca o adreça
     .aria-label = Escriviu una cerca o adreça
-
 newtab-search-box-search-the-web-input =
     .placeholder = Cerca al web
     .title = Cerca al web
     .aria-label = Cerca al web
-
+newtab-search-box-text = Cerca al web
 newtab-search-box-input =
     .placeholder = Cerca al web
     .aria-label = Cerca al web
@@ -54,12 +53,10 @@ newtab-topsites-edit-shortcut-header = Edita la drecera
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escriviu o apegueu un URL
 newtab-topsites-url-validation = Es necessita un URL vàlid
-
 newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
@@ -88,12 +85,10 @@ newtab-topsite-sponsored = Patrocinat
 newtab-menu-section-tooltip =
     .title = Obri el menú
     .aria-label = Obri el menú
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Elimina
     .aria-label = Elimina
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -166,16 +161,19 @@ newtab-label-removed-bookmark = S'ha eliminat l'adreça d'interés
 newtab-label-recommended = Tendència
 newtab-label-saved = Guardat al { -pocket-brand-name }
 newtab-label-download = Baixat
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinat
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Patrocinat per { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#  $source (String): This is the name of a company or their domain
+#  $timeToRead (Number): This is the estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } - { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -210,12 +208,10 @@ newtab-section-header-pocket = Recomanat per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comenceu a navegar i ací vos mostrarem els millors articles, vídeos i altres pàgines que hàgeu visitat o afegit a les adreces d'interés recentment.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ja esteu al dia. Torneu més tard per veure més articles populars de { $provider }. No podeu esperar? Trieu un tema popular per descobrir els articles més interessants de tot el web.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -230,10 +226,25 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Pareix que esta secci
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temes populars:
+newtab-pocket-new-topics-title = Voleu encara més articles? Descobriu estos temes populars del { -pocket-brand-name }
 newtab-pocket-more-recommendations = Més recomanacions
 newtab-pocket-learn-more = Més informació
 newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Guardeu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
+newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = Guarda al { -pocket-brand-name }
+newtab-pocket-saved-to-pocket = S'ha guardat al { -pocket-brand-name }
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = Carrega més articles
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+newtab-pocket-last-card-title = Ja esteu al dia.
+newtab-pocket-last-card-desc = Torneu més tard per veure si n'hi ha més.
+newtab-pocket-last-card-image =
+    .alt = Ja esteu al dia.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -257,5 +268,4 @@ newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
 newtab-custom-close-button = Tanca
-
 newtab-custom-settings = Gestiona més paràmetres
