@@ -14,6 +14,5 @@ accounts-conn-security = Ühenduse turvalisus
 accounts-auth-method = Autentimise meetod
 accounts-default = Vaikimisi?
 identity-name = Identiteet
-
 send-via-email = Saada e-postiga
-
+app-basics-telemetry = Telemeetriaandmed
