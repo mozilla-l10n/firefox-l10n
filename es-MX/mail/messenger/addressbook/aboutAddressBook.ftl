@@ -69,6 +69,8 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por dirección de correo electrónico (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por dirección de correo electrónico (Z > A)
+about-addressbook-cards-context-write =
+    .label = Escribir
 about-addressbook-confirm-delete-mixed-title = Eliminar contactos y listas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
