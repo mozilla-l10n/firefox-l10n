@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Etiket ekle
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }’a kaydetmeye çalışırken bir hata oluştu.
 pocket-panel-saved-error-tag-length = Etiketler en fazla 25 karakter olabilir
 pocket-panel-saved-error-only-links = Yalnızca bağlantılar kaydedilebilir
@@ -33,7 +32,7 @@ pocket-panel-signup-view-list = Listeyi göster
 pocket-panel-signup-already-have = Zaten { -pocket-brand-name } kullanıcısı mısınız?
 pocket-panel-signup-learn-more = Daha fazla bilgi al
 pocket-panel-signup-login = Giriş yapın
-pocket-panel-signup-signup-email = E-postayla kaydol
+pocket-panel-signup-signup-email = E-posta ile kaydol
 pocket-panel-signup-signup-cta = { -pocket-brand-name }’a kaydolun. Ücretsiz!
 pocket-panel-signup-signup-firefox = { -brand-product-name } ile kaydol
 pocket-panel-signup-tagline = İstediğiniz cihazda, istediğiniz zaman görmek istediğiniz yazı ve videoları { -brand-product-name }’tan { -pocket-brand-name }’a kaydedin.
