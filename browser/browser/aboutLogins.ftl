@@ -201,7 +201,7 @@ about-logins-breach-alert-learn-more-link = Saber más
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contraseña vulnerable
-about-logins-vulnerable-alert-text2 = Esta contraseña ha sido usada en otra cuenta que al parecer se vio afectada en una filtración. Reutilizar credenciales pone en peligro a todas sus cuentas. Cambie esta contraseña.
+about-logins-vulnerable-alert-text2 = Esta contraseña ha sido usada en otra cuenta que al parecer se vio afectada en una filtración. Reutilizar credenciales pone en peligro a todas tus cuentas. Cambia esta contraseña.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ir a { $hostname }
@@ -285,7 +285,7 @@ about-logins-import-dialog-error-conflicting-values-description = Por ejemplo: m
 about-logins-import-dialog-error-file-format-title = Problema de formato de archivo
 about-logins-import-dialog-error-file-format-description = Encabezados de columna incorrectos o faltantes. Asegúrate de que el archivo incluye columnas para nombre de usuario, contraseña y URL.
 about-logins-import-dialog-error-file-permission-title = Imposible leer el archivo
-about-logins-import-dialog-error-file-permission-description = { -brand-short-name } no tiene permiso para leer el archivo. Intente cambiar los permisos del archivo.
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } no tiene permiso para leer el archivo. Intenta cambiar los permisos del archivo.
 about-logins-import-dialog-error-unable-to-read-title = No se puede analizar el archivo
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de haber seleccionado un archivo CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = No se importaron los inicios de sesión
