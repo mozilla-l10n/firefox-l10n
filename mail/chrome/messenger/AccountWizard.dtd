@@ -72,14 +72,14 @@
 <!ENTITY outgoingServer.description "Introduce el nombre de tu servidor de salida (por ejemplo, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Servidor de salida:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Escriba el nombre de usuario de salida proporcionado por su proveedor de correo (esto suele ser lo mismo que su nombre de usuario entrante).">
+<!ENTITY outgoingUsername.description "Escribe el nombre de usuario de salida proporcionado por tu proveedor de correo (esto suele ser lo mismo que tu nombre de usuario entrante).">
 <!ENTITY outgoingUsername.label "Nombre del servidor de salida:">
 <!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Puede cambiar los servidores de salida en las configuraciones de cuenta.">
+<!ENTITY modifyOutgoing.suffix "Puedes cambiar los servidores de salida en las configuraciones de cuenta.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
@@ -110,7 +110,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "¡Felicidades!">
-<!ENTITY completionText.label "Por favor, verifica que la información de abajo sea correcta.">
+<!ENTITY completionText.label "Por favor, verifica que la información que aparece a continuación es correcta.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor entrante:">
 <!ENTITY serverNamePrefix.label "Nombre del servidor entrante:">
 <!ENTITY smtpServerNamePrefix.label "Nombre del servidor de salida (SMTP):">

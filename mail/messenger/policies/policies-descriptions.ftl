@@ -42,6 +42,10 @@ policy-DisplayMenuBar = Desplegar la barra de menús de forma predeterminada.
 policy-DNSOverHTTPS = Configurar el DNS sobre HTTPS.
 policy-DontCheckDefaultClient = Deshabilitar la verificación de cliente predeterminado al inicio.
 policy-DownloadDirectory = Establecer y bloquear el directorio de descargas.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Habilitar o deshabilitar extensiones de medios cifrados y opcionalmente, bloquearlos.
 policy-ExtensionSettings = Administrar todos los aspectos de la instalación de extensiones.
 policy-ExtensionUpdate = Habilitar o deshabilitar la actualización automática de extensiones.
 policy-Handlers = Configurar gestores de aplicación predeterminados.
