@@ -5,13 +5,40 @@
 
 ## Window controls
 
+messenger-window-minimize-button =
+    .tooltiptext = Lágmarka
+messenger-window-maximize-button =
+    .tooltiptext = Hámarka
+messenger-window-restore-down-button =
+    .tooltiptext = Endurheimta niður
+messenger-window-close-button =
+    .tooltiptext = Loka
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [one] 1 ólesin skilaboð
+       *[other] { $count } ólesin skilaboð
+    }
 about-rights-notification-text = { -brand-short-name } er frjás og opinn hugbúnaður, smíðaður af samfélagi þúsunda þáttakenda alls staðar að úr heiminum.
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = Síðan er að hlaðast inn
+content-tab-security-high-icon =
+    .alt = Tengingin er örugg
+content-tab-security-broken-icon =
+    .alt = Tengingin er ekki örugg
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Viðbætur og þemu
+    .tooltiptext = Sýsla með viðbæturnar þínar
+quick-filter-toolbarbutton =
+    .label = Flýtisía
+    .tooltiptext = Sía skilaboð
 
 ## Folder Pane
 
@@ -24,6 +51,9 @@ show-favorite-folders-label =
 
 ## Menu
 
+menu-file-save-as-file =
+    .label = Skrá…
+    .accesskey = S
 
 ## AppMenu
 
@@ -31,6 +61,18 @@ show-favorite-folders-label =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Kjörstillingar
+appmenu-save-as-file =
+    .label = Skrá…
+appmenu-settings =
+    .label = Stillingar
+appmenu-addons-and-themes =
+    .label = Viðbætur og þemu
+appmenu-help-enter-troubleshoot-mode =
+    .label = Úrræðaleitarhamur…
+appmenu-help-exit-troubleshoot-mode =
+    .label = Slökkva á úrræðaleitarham
+appmenu-help-more-troubleshooting-info =
+    .label = Frekari upplýsingar um úrræðaleit
 
 ## Context menu
 
