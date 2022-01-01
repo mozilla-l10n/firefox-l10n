@@ -10,6 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Upprunalega frá:">
 
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "E">
@@ -17,6 +18,7 @@
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY savePageCmd.label "Vista síðu sem…">
 <!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.commandkey "S">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
@@ -48,6 +50,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.title "Línuskipta löngum línum">
 <!ENTITY menu_wrapLongLines.accesskey "p">
 <!ENTITY menu_highlightSyntax.label "Málfræðilitun">
+<!ENTITY menu_textSize.label "Stærð texta">
+<!ENTITY menu_textSize.accesskey "x">
+<!ENTITY menu_textEnlarge.label "Stækka">
+<!ENTITY menu_textEnlarge.accesskey "k">
+<!ENTITY menu_textReduce.label "Minnka">
+<!ENTITY menu_textReduce.accesskey "m">
+<!ENTITY menu_textReset.label "Venjulegt">
+<!ENTITY menu_textReset.accesskey "N">
 
+<!ENTITY findOnCmd.label     "Finna á þessari síðu…">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Finna aftur">
+<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.commandkey "a">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY backCmd.label "Til baka">
 
