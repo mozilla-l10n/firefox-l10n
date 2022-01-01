@@ -42,6 +42,7 @@ options-default-color-unit-authored = As Authored
 options-default-color-unit-hex = Он алтылық
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Түстер аттары
 
 ## Style Editor section

@@ -282,6 +282,8 @@ extension-enabled-heading = Іске қосулы
 extension-disabled-heading = Сөндірілген
 theme-enabled-heading = Іске қосулы
 theme-disabled-heading = Сөндірілген
+theme-monochromatic-heading = Түстер жинақтары
+theme-monochromatic-subheading = { -brand-product-name } ұсынған жаңа, жарқын түстер жинақтары. Шектеулі уақыт бойы қолжетімді.
 plugin-enabled-heading = Іске қосулы
 plugin-disabled-heading = Сөндірілген
 dictionary-enabled-heading = Іске қосулы
@@ -365,6 +367,7 @@ addon-permissions-optional = Қосымша мүмкіндіктері үшін 
 addon-permissions-learnmore = Рұқсаттар туралы көбірек білу
 recommended-extensions-heading = Ұсынылатын кеңейтулер
 recommended-themes-heading = Ұсынылатын темалар
+addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> үшін келесі мүмкіндіктерді рұқсат етеді:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Шабытты сезіп тұрсыз ба? <a data-l10n-name="link">Firefox Color көмегімен өз темаңызды жасаңыз.</a>
