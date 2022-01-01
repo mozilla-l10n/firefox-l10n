@@ -46,6 +46,10 @@ policy-DownloadDirectory = Establecer y bloquear el directorio de descargas.
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Habilitar o deshabilitar extensiones de medios cifrados y opcionalmente, bloquearlos.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción Instalar toma direcciones URL o rutas como parámetros. Las opciones desinstalar y bloquear toman ID de extensión.
 policy-ExtensionSettings = Administrar todos los aspectos de la instalación de extensiones.
 policy-ExtensionUpdate = Habilitar o deshabilitar la actualización automática de extensiones.
 policy-Handlers = Configurar gestores de aplicación predeterminados.
@@ -64,6 +68,7 @@ policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archiv
 policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notificar al usuario sobre las actualizaciones.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
 policy-OfferToSaveLogins = Aplicar la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan valores verdaderos y falsos.
+policy-OfferToSaveLoginsDefault = Establecer el valor predeterminado para permitir que { -brand-short-name } te ofrezca recordar inicios de sesión y contraseñas guardados. Se aceptan valores verdaderos y falsos.
 policy-OverrideFirstRunPage = Anular la primera página de ejecución. Establece esta política en blanco si deseas deshabilitar la primera página de ejecución.
 policy-OverridePostUpdatePage = Anular la página “Novedades” posterior a la actualización. Establece esta política en blanco si deseas deshabilitar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
