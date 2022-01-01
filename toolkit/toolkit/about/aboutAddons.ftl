@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Недавние обновления
 addon-category-recent-updates-title =
     .title = Недавние обновления
+addon-category-sitepermission = Разрешения для сайтов
+addon-category-sitepermission-title =
+    .title = Разрешения для сайтов
 
 ## These are global warnings
 
@@ -293,6 +296,8 @@ dictionary-enabled-heading = Включены
 dictionary-disabled-heading = Отключены
 locale-enabled-heading = Включены
 locale-disabled-heading = Отключены
+sitepermission-enabled-heading = Включены
+sitepermission-disabled-heading = Отключены
 always-activate-button = Всегда включать
 never-activate-button = Никогда не включать
 addon-detail-author-label = Автор
@@ -370,6 +375,7 @@ addon-permissions-optional = Необязательные разрешения �
 addon-permissions-learnmore = Узнать больше о разрешениях
 recommended-extensions-heading = Рекомендуемые расширения
 recommended-themes-heading = Рекомендуемые темы
+addon-sitepermissions-required = Предоставляет следующие возможности <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Чувствуете прилив вдохновения? <a data-l10n-name="link">Создайте свою собственную тему с помощью Firefox Color.</a>
@@ -382,6 +388,7 @@ plugin-heading = Управление моими плагинами
 dictionary-heading = Управление моими словарями
 locale-heading = Управление моими языками
 updates-heading = Управление моими обновлениями
+sitepermission-heading = Управление моими разрешениями для сайтов
 discover-heading = Сделайте { -brand-short-name } своим
 shortcuts-heading = Управление горячими клавишами расширений
 default-heading-search-label = Найти больше дополнений
