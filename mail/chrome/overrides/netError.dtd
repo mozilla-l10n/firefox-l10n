@@ -158,6 +158,7 @@
 <!ENTITY cspBlocked.title "Lokað á vegna öryggisreglu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
+<!ENTITY xfoBlocked.title "Lokað fyrir af X-Frame-Options reglunni">
 
 <!ENTITY corruptedContentErrorv2.title "Villa skemmd gögn">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við eiganda vefsvæðisins til að láta vita af vandamálinu.</li></ul>">

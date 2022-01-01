@@ -68,4 +68,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Til baka">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "Áfram">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Afrita staðsetningu tengils">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "Afrita tölvupóstfang">
+<!ENTITY copyEmailCmd.accesskey "A">
