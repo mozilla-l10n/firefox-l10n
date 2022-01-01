@@ -157,6 +157,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Упозори ме при затварању више картица
     .accesskey = У
+confirm-on-close-multiple-tabs =
+    .label = Тражи потврду пре затварања више картица
+    .accesskey = з
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Тражи потврду пре затварања са пречицом { $quitKey }
+    .accesskey = Т
 warn-on-open-many-tabs =
     .label = Упозори ме када отварање више картица може да успори { -brand-short-name }
     .accesskey = У
