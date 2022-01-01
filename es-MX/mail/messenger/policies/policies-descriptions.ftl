@@ -64,6 +64,8 @@ policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archiv
 policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notificar al usuario sobre las actualizaciones.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
 policy-OfferToSaveLogins = Aplicar la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan valores verdaderos y falsos.
+policy-OverrideFirstRunPage = Anular la primera página de ejecución. Establece esta política en blanco si deseas deshabilitar la primera página de ejecución.
+policy-OverridePostUpdatePage = Anular la página “Novedades” posterior a la actualización. Establece esta política en blanco si deseas deshabilitar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF integrado en { -brand-short-name }.
