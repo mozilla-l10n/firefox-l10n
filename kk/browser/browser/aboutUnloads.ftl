@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Бетті жадыдан түсіру
 about-unloads-last-updated = Соңғы жаңартылған: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Приоритет
 about-unloads-column-host = Хост
