@@ -136,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Zuletzt durchgeführte Updates
 addon-category-recent-updates-title =
     .title = Zuletzt durchgeführte Updates
+addon-category-sitepermission = Website-Berechtigungen
+addon-category-sitepermission-title =
+    .title = Website-Berechtigungen
 
 ## These are global warnings
 
@@ -292,6 +295,8 @@ dictionary-enabled-heading = Aktiviert
 dictionary-disabled-heading = Deaktiviert
 locale-enabled-heading = Aktiviert
 locale-disabled-heading = Deaktiviert
+sitepermission-enabled-heading = Aktiviert
+sitepermission-disabled-heading = Deaktiviert
 always-activate-button = Immer aktivieren
 never-activate-button = Nie aktivieren
 addon-detail-author-label = Autor
@@ -380,6 +385,7 @@ plugin-heading = Plugins verwalten
 dictionary-heading = Wörterbücher verwalten
 locale-heading = Sprachen verwalten
 updates-heading = Updates verwalten
+sitepermission-heading = Website-Berechtigungen verwalten
 discover-heading = { -brand-short-name } anpassen
 shortcuts-heading = Tastenkombinationen von Erweiterungen verwalten
 default-heading-search-label = Weitere Add-ons finden
