@@ -43,6 +43,7 @@ openpgp-generate-key =
     .tooltiptext = Genera una nueva clave compatible con OpenPGP para cifrado y/o firma
 openpgp-advanced-prefs-button-label =
     .label = Avanzado…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOTA: La generación de la clave puede tardar varios minutos en completarse.</a> No salgas de la aplicación mientras se está generando la clave. La exploración activa o la realización de operaciones intensivas con un disco durante la generación de claves repondrá el "grupo de aleatoriedad" y acelerará el proceso. Se te avisará cuando se complete la generación de claves.
 openpgp-key-expiry-label =
     .label = Expiración
 openpgp-key-id-label =
