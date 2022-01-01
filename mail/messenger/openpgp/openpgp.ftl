@@ -206,6 +206,21 @@ openpgp-key-details-sel-action =
     .accesskey = S
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Cerrar
+openpgp-acceptance-label =
+    .label = Tu aceptación
+openpgp-acceptance-rejected-label =
+    .label = No, rechazo esta clave.
+openpgp-acceptance-undecided-label =
+    .label = Todavía no, quizás más tarde.
+openpgp-acceptance-unverified-label =
+    .label = Sí, pero no he verificado que sea la clave correcta.
+openpgp-acceptance-verified-label =
+    .label = Sí, verifiqué personalmente que esta clave tiene la huella digital correcta.
+key-personal-warning = ¿Creaste esta clave tú mismo y la propiedad de la clave mostrada se refiere a ti mismo?
+openpgp-personal-no-label =
+    .label = No, no usar como mi clave personal.
+openpgp-personal-yes-label =
+    .label = Sí, tratar esta clave como una clave personal.
 openpgp-copy-cmd-label =
     .label = Copiar
 
@@ -256,8 +271,14 @@ key-expired-date = La clave caduco el { $keyExpiry }
 key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
 mime-decrypt-encrypted-part-concealed-data = Esta es una parte del mensaje cifrado. Necesitas abrirlo en una ventana separada haciendo clic en el archivo adjunto.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Cancelar
 keyserver-error-unknown = Se produjo un error desconocido
+keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
 keyserver-error-unsupported = El servidor de claves no es compatible.
+# Strings in gpg.jsm
+unknown-signing-alg = Algoritmo de firma desconocido (ID: { $id })
+unknown-hash-alg = Hash criptográfico desconocido (ID: { $id })
 expiry-open-key-properties = Abrir propiedades de la clave
 filter-term-pgpencrypted-label = OpenPGP cifrado
 # Strings filtersWrapper.jsm
@@ -270,6 +291,10 @@ import-info-bits = Bits
 import-info-created = Creado
 import-info-fpr = Huella digital
 import-info-no-keys = No se importaron claves.
+# Strings in enigmailKeyManager.js
+import-from-clip = ¿Quieres importar algunas claves del portapapeles?
+import-from-url = Descarga la clave pública desde esta URL:
+copy-to-clipbrd-failed = No se pudieron copiar las claves seleccionadas al portapapeles.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
 delete-selected-pub-key = ¿Quieres eliminar las claves públicas?
 key-man-button-export-sec-key = Exportar claves &secretas
@@ -321,7 +346,9 @@ msg-ovl-button-cont-anyway = &Continuar de todas formas
 msg-compose-button-send = &Enviar mensaje
 msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
+send-aborted = Operación de envío cancelada.
 key-revoked = Clave ‘{ $key }’ revocada
+save-attachment-header = Guardar archivo adjunto descifrado
 compose-menu-attach-key =
     .label = Adjuntar mi clave pública
     .accesskey = A
@@ -338,6 +365,7 @@ dlg-button-view = &Ver
 not-required = Error - no se requiere cifrado
 # Strings used in windows.jsm
 no-photo-available = No hay foto disponible
+error-photo-path-not-readable = La ruta de la foto ‘{ $photo }’ no es legible
 debug-log-title = Registro de depuración de OpenPGP
 # Strings used in dialog.jsm
 repeat-prefix = Esta alerta se repetirá { $count }
