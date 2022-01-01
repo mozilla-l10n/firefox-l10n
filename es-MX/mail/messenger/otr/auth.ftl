@@ -31,6 +31,7 @@ auth-question-and-answer-label =
     .label = { auth-question-and-answer }
 auth-shared-secret-label =
     .label = { auth-shared-secret }
+auth-manual-instruction = Contacta con tu interlocutor a través de otro canal autenticado, como el correo electrónico firmado por OpenPGP o a través del teléfono. Deberían decirse sus huellas dactilares. (Una huella digital es una suma de control que identifica una clave de cifrado). Si la huella dactilar coincide, en el cuadro de diálogo que figura más abajo deberá indicarse que has verificado la huella dactilar.
 auth-how = ¿Cómo te gustaría verificar la identidad de tu contacto?
 auth-question = Ingresa una pregunta:
 auth-answer = Ingresa la respuesta (distingue entre mayúsculas y minúsculas):
