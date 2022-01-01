@@ -90,6 +90,13 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Exportar clave pública a archivo
     .accesskey = E
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Copiar ID de clave al portapapeles
+           *[other] Copiar ID de claves al portapapeles
+        }
+    .accesskey = K
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -171,6 +178,12 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Seleccionar todas las claves
     .accesskey = A
+openpgp-key-man-empty-tree-tooltip =
+    .label = Ingresa los términos de búsqueda en el cuadro de arriba
+openpgp-key-man-nothing-found-tooltip =
+    .label = Ninguna clave coincide con tus términos de búsqueda
+openpgp-key-man-please-wait-tooltip =
+    .label = Espera mientras se cargan las claves…
 openpgp-key-man-filter-label =
     .placeholder = Buscar claves
 openpgp-key-man-select-all-key =
@@ -257,6 +270,9 @@ openpgp-key-edit-date-title = Extender la fecha de vencimiento
 openpgp-manager-button =
     .label = Administrador de claves OpenPGP
     .accesskey = K
+openpgp-key-remove-external =
+    .label = Eliminar ID de clave externa
+    .accesskey = E
 # Strings in keyDetailsDlg.xhtml
 key-type-public = clave pública
 key-type-primary = clave primaria
@@ -270,10 +286,16 @@ key-does-not-expire = La clave no caduca
 key-expired-date = La clave caduco el { $keyExpiry }
 key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
+window-locked = La ventana de redacción está bloqueada; envío cancelado
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
 mime-decrypt-encrypted-part-concealed-data = Esta es una parte del mensaje cifrado. Necesitas abrirlo en una ventana separada haciendo clic en el archivo adjunto.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Cancelar
 keyserver-error-unknown = Se produjo un error desconocido
+keyserver-error-server-error = El servidor de claves reporto un error.
+keyserver-error-import-error = No se pudo importar la clave descargada.
+keyserver-error-unavailable = El servidor de claves no está disponible.
 keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
 keyserver-error-unsupported = El servidor de claves no es compatible.
 # Strings in gpg.jsm
@@ -321,6 +343,8 @@ key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
 key-in-use-title = Clave OpenPGP actualmente en uso
+fail-key-import = Error - importación de clave fallida
+file-write-failed = Error al escribir en el archivo { $output }
 # Strings used in trust.jsm
 key-valid-unknown = desconocido
 key-valid-invalid = no válido
@@ -337,10 +361,17 @@ import-key-file = Importar archivo de clave OpenPGP
 import-rev-file = Importar archivo de revocación OpenPGP
 gnupg-file = Archivos GnuPG
 import-keys-failed = Error al importar las claves
+expiry-too-long = No puedes crear una clave que expira en más de 100 años.
+key-confirm = ¿Generar clave pública y secreta para ‘{ $id }’?
 key-man-button-generate-key = &Generar clave
+key-abort = ¿Abortar la generación de claves?
+key-man-button-generate-key-abort = &Abortar generación de clave
+key-man-button-generate-key-continue = &Continuar con la generación de claves
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Error - descifrado fallido
+fix-broken-exchange-msg-failed = No se puede reparar este mensaje.
 msg-ovl-button-cont-anyway = &Continuar de todas formas
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Enviar mensaje
@@ -348,6 +379,9 @@ msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
 send-aborted = Operación de envío cancelada.
 key-revoked = Clave ‘{ $key }’ revocada
+msg-compose-internal-error = Se ha producido un error interno.
+keys-to-export = Selecciona las claves OpenPGP para insertar
+msg-compose-cannot-save-draft = Error al guardar el borrador
 save-attachment-header = Guardar archivo adjunto descifrado
 compose-menu-attach-key =
     .label = Adjuntar mi clave pública
