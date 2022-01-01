@@ -90,6 +90,20 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Exportar clave pública a archivo
     .accesskey = E
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Copiar huella digital al portapapeles
+           *[other] Copiar huellas digitales al portapapeles
+        }
+    .accesskey = h
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Copiar clave pública al portapapeles
+           *[other] Copiar claves públicas al portapapeles
+        }
+    .accesskey = p
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar claves a archivo
 openpgp-key-man-ctx-copy =
@@ -241,7 +255,9 @@ key-does-not-expire = La clave no caduca
 key-expired-date = La clave caduco el { $keyExpiry }
 key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
+mime-decrypt-encrypted-part-concealed-data = Esta es una parte del mensaje cifrado. Necesitas abrirlo en una ventana separada haciendo clic en el archivo adjunto.
 keyserver-error-unknown = Se produjo un error desconocido
+keyserver-error-unsupported = El servidor de claves no es compatible.
 expiry-open-key-properties = Abrir propiedades de la clave
 filter-term-pgpencrypted-label = OpenPGP cifrado
 # Strings filtersWrapper.jsm
@@ -255,7 +271,12 @@ import-info-created = Creado
 import-info-fpr = Huella digital
 import-info-no-keys = No se importaron claves.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
+delete-selected-pub-key = ¿Quieres eliminar las claves públicas?
+key-man-button-export-sec-key = Exportar claves &secretas
 key-man-button-export-pub-key = Exportar solo claves públicas
+key-man-button-refresh-all = & Actualizar todas las claves
+ascii-armor-file = Archivos blindados ASCII (*.asc)
+save-keys-ok = Las claves se guardaron con éxito
 save-keys-failed = No se pudieron guardar las claves
 default-pub-key-filename = Claves públicas exportadas
 general-error = Error: { $reason }
@@ -282,6 +303,7 @@ key-valid-disabled = deshabilitado
 key-valid-revoked = revocado
 key-valid-expired = expirado
 key-trust-untrusted = no confiable
+key-trust-marginal = marginal
 key-trust-full = confiable
 key-trust-ultimate = último
 key-trust-group = (grupo)
