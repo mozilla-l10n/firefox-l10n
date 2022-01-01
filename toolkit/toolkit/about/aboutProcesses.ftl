@@ -63,11 +63,28 @@ about-processes-unknown-process = Басқа: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, үлкен)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, сыртқы қайнар көздерден оқшауланған)
 about-processes-web-isolated-process-private = { $origin } — Жеке ({ $pid })
 about-processes-web-large-allocation-process-private = { $origin } — Жеке ({ $pid }, үлкен)
+about-processes-with-coop-coep-process-private = { $origin } — Жеке ({ $pid }, сыртқы қайнар көздерден оқшауланған)
 
 ## Details within processes
 
+# Single-line summary of threads (non-idle process)
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+#    $active (Number) The number of active threads in the process.
+#                     The value will be greater than 0 and will never be
+#                     greater than $number.
+#    $list (String) Comma separated list of active threads.
+#                   Can be an empty string if the process is idle.
+about-processes-active-threads =
+    { $active ->
+        [one] { $active } белсенді ағын, { $number } ішінен: { $list }
+       *[other] { $active } белсенді ағын, { $number } ішінен: { $list }
+    }
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
