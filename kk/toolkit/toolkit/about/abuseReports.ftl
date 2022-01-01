@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } үшін есептеме жасау
 abuse-report-title-extension = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау
+abuse-report-title-sitepermission = Бұл сайт рұқсаттары қосымшасы туралы { -vendor-short-name } үшін шағым жасау
 abuse-report-title-theme = Бұл тема туралы { -vendor-short-name } адресіне шағым жасау
 abuse-report-subtitle = Мәселе қандай?
 # Variables:
