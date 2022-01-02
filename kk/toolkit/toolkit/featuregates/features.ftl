@@ -21,6 +21,10 @@ experimental-features-media-avif =
     .label = Media: AVIF
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Медиа: JPEG XL
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
 # The title of the experiment should be kept in English as it may be referenced
@@ -29,6 +33,8 @@ experimental-features-css-constructable-stylesheets =
     .label = CSS: құрастырылатын стильдер кестелері
 experimental-features-devtools-color-scheme-simulation =
     .label = Әзірлеуші құралдары: Түстер схемасын симуляциялау
+experimental-features-devtools-execution-context-selector =
+    .label = Әзірлеуші құралдары: Орындалу контекстін таңдау
 experimental-features-devtools-compatibility-panel =
     .label = Әзірлеуші құралдары: үйлесімділік панелі
 # Do not translate 'SameSite', 'Lax' and 'None'.
@@ -51,6 +57,9 @@ experimental-features-cookie-samesite-schemeful =
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Әзірлеуші құралдары: Service Worker-ді жөндеу
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k бұғаттау
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -58,3 +67,7 @@ experimental-features-js-warp-description = JavaScript өнімділігін ж
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (сайтты оқшаулау)
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Бірнеше суреттегі сурет терезелерін қолдау
+experimental-features-multi-pip-description = Бірнеше суреттегі сурет терезелерінің бір уақытта ашылуына мүмкіндік беретін сынамалы қолдау.
