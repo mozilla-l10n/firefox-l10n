@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Reportar para { $addon-name }
 abuse-report-title-extension = Denunciar esta extensión a { -vendor-short-name }
+abuse-report-title-sitepermission = Informar sobre este complemento de permisos de este sitio a { -vendor-short-name }
 abuse-report-title-theme = Denunciar este tema a { -vendor-short-name }
 abuse-report-subtitle = ¿Cuál es el problema?
 # Variables:
@@ -66,9 +67,14 @@ abuse-report-settings-suggestions-homepage = Cambia tu página de inicio y de nu
 abuse-report-deceptive-reason-v2 = Simula ser algo que no es
 abuse-report-deceptive-example = Ejemplo: descripción o imágenes erróneas
 abuse-report-broken-reason-extension-v2 = No funciona, daño sitios web o ralentiza { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = No funciona, daño los sitios web o ralentiza { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona o interrumpe la visualización del navegador
 abuse-report-broken-example = Ejemplo: la función es lenta, difícil de usar o no funciona; ciertas partes de los sitios web no se cargan o se muestran de forma incorrecta
 abuse-report-broken-suggestions-extension = Parece que has identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador de la extensión. <a data-l10n-name="support-link">Accede al sitio web de la extensión</a> para conseguir los datos de contacto del desarrollador.
+abuse-report-broken-suggestions-sitepermission =
+    Parece que has identificado un error. Además de enviar un informe aquí, la mejor forma
+    para resolver un problema de funcionalidad es ponerse en contacto con el desarrollador del sitio web.
+    <a data-l10n-name="support-link"> Visita el sitio web </a> para obtener la información del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que has identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del tema. <a data-l10n-name="support-link">Accede al sitio web del tema</a> para conseguir los datos de contacto del desarrollador.
 abuse-report-policy-reason-v2 = Se muestra contenido de odio, violencia o ilegal
 abuse-report-policy-suggestions =
