@@ -40,6 +40,7 @@ abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-
 abuse-report-messagebar-submitted = Шағымды жібергеніңіз үшін рахмет. <span data-l10n-name="addon-name">{ $addon-name }</span> өшіруді қалайсыз ба?
 abuse-report-messagebar-submitted-noremove = Шағымды жібергеніңіз үшін рахмет.
 abuse-report-messagebar-removed-extension = Шағымды жібергеніңіз үшін рахмет. Сіз <span data-l10n-name="addon-name">{ $addon-name }</span> кеңейтуін өшірдіңіз.
+abuse-report-messagebar-removed-sitepermission = Шағымды жібергеніңіз үшін рахмет. Сіз <span data-l10n-name="addon-name">{ $addon-name }</span> сайт рұқсаттары кеңейтуін өшірдіңіз.
 abuse-report-messagebar-removed-theme = Шағымды жібергеніңіз үшін рахмет. Сіз <span data-l10n-name="addon-name">{ $addon-name }</span> темасын өшірдіңіз.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> нәрсесіне шағымды жіберу кезінде қате орын алды.
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> нәрсесіне шағым жіберілмеді, өйткені басқа шағым жуырда жіберілген.
@@ -68,12 +69,17 @@ abuse-report-settings-suggestions-homepage = Үй парағын және жаң
 abuse-report-deceptive-reason-v2 = Өз-өзін болмай тұрған нәрсе ретінде көрсетеді
 abuse-report-deceptive-example = Мысалы: Алдамшы сипаттама немесе сурет
 abuse-report-broken-reason-extension-v2 = Ол жұмыс істемейді, веб-сайттарды сындырады немесе { -brand-product-name } жұмысын тежейді
+abuse-report-broken-reason-sitepermission-v2 = Ол жұмыс істемейді, веб-сайттарды сындырады немесе { -brand-product-name } жұмысын тежейді
 abuse-report-broken-reason-theme-v2 = Ол жұмыс жасамайды немесе браузер жұмысын бұзады
 abuse-report-broken-example = Мысалы: Мүмкіндіктері баяу, қолдануға қиын, немесе тіпті жасмайды; веб-сайттар бөліктері жүктелмейді немесе сыртқы түрлері әдеттен тыс түрде
 abuse-report-broken-suggestions-extension =
     Ақаулықты тапқан сияқтысыз. Осында шағымды жіберуге қоса, мүмкіндік мәселесін
     шешудің тиімді жолы - кеңейту әзірлеушісіне хабарласу.
     Әзірлеуші ақпаратын алу үшін, <a data-l10n-name="support-link">кеңейтудің веб-сайтын шолыңыз</a>.
+abuse-report-broken-suggestions-sitepermission =
+    Ақаулықты тапқан сияқтысыз. Осында шағымды жіберуге қоса, мәселені
+    шешудің мүмкін жолы - веб-сайт әзірлеушісіне хабарласу.
+    Әзірлеуші ақпаратын алу үшін, оның <a data-l10n-name="support-link">веб-сайтын шолыңыз</a>.
 abuse-report-broken-suggestions-theme =
     Ақаулықты тапқан сияқтысыз. Осында шағымды жіберуге қоса, мүмкіндік мәселесін
     шешудің тиімді жолы - теманың әзірлеушісіне хабарласу.
