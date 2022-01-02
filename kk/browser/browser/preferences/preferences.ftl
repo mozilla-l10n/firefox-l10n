@@ -1067,6 +1067,8 @@ addon-recommendations-link = Көбірек білу
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген
+collection-backlogged-crash-reports-with-link = { -brand-short-name } үшін сіздің атыңыздан жиналған құлаулар хабарламаларын жіберуді рұқсат ету <a data-l10n-name="crash-reports-link">Көбірек білу</a>
+    .accesskey = с
 
 ## Privacy Section - Security
 ##
