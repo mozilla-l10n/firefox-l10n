@@ -44,7 +44,14 @@ onboarding-multistage-set-default-header = { -brand-short-name } өнімін ө
 onboarding-multistage-set-default-subtitle = Әр шолудағы жылдамдық, қауіпсіздік және жекелік.
 onboarding-multistage-set-default-primary-button-label = Негізгі етіп қылу
 onboarding-multistage-set-default-secondary-button-label = Қазір емес
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = <span data-l10n-name="zap">{ -brand-short-name }</span> өнімін бір шерту бойынша қолжетімді қылу арқылы бастаңыз
 onboarding-multistage-pin-default-subtitle = Сіз интернетті пайдаланатын әр кездегі жылдам, қауіпсіз және жекелік шолу.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Баптаулар ашық кезінде "Веб-браузер" ішінен { -brand-short-name } таңдаңыз
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Бұл { -brand-short-name } өнімін тапсырмалар панеліне бекітіп, баптауларды ашады
 onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } өнімін менің негізгі браузерім қылу
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
@@ -98,6 +105,12 @@ mr1-onboarding-reduce-motion-button-label = Анимацияларды сөнд�
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Жылдам қол жеткізу үшін { -brand-short-name } өнімін Dock ішінде қалдырыңыз
+       *[other] Жылдам қол жеткізу үшін { -brand-short-name } өнімін тапсырмалар панеліне бекітіңіз
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->

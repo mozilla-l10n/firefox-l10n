@@ -142,6 +142,11 @@ spotlight-public-wifi-vpn-link = Қазір емес
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Біздің барлық уақыттағы ен күшті
+    жекеілкті қорғауды сынап көріңіз
 spotlight-total-cookie-protection-body = Cookie файлдарынан Толық қорғаныс интернетте сізді бақылау үшін трекерлерге cookie файлдарын қолдануға жол бермейді.
 # "Early access" for this feature rollout means it's a "feature preview" or
 # "soft launch" as not everybody will get it yet.
