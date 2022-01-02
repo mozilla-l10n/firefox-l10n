@@ -226,6 +226,7 @@ newtab-discovery-empty-section-topstories-timed-out = Қап! Бұл санат�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Әйгілі тақырыптар:
+newtab-pocket-new-topics-title = Көбірек оқиғаларды көргіңіз келе ме? { -pocket-brand-name } ұсынған келесі әйгілі темаларды қараңыз
 newtab-pocket-more-recommendations = Көбірек ұсыныстар
 newtab-pocket-learn-more = Көбірек білу
 newtab-pocket-cta-button = { -pocket-brand-name }-ті алу
