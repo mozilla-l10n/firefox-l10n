@@ -955,6 +955,8 @@ content-blocking-fingerprinters = Баспаны жинаушылар
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Біздің барлық уақыттағы ен күшті жекеілкті қорғауды сынап көріңіз
     .accesskey = т
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Cookie файлдарынан толық қорғау сіз шолып отырған сайттың cookie файлдарын шектейді, сондықтан трекерлер оларды сайттар арасында сізді бақылап отыру үшін пайдалана алмайды.
 content-blocking-etp-standard-tcp-rollout-learn-more = Көбірек білу
 content-blocking-warning-title = Ескерту!
 content-blocking-and-isolating-etp-warning-description = Трекерлерді бұғаттау және cookie файлдарын оқшаулау кейбір сайттардың жұмысына әсер етуі мүмкін. Барлық мазмұнды жүктеу үшін трекерлермен бетті қайта жүктеңіз.
