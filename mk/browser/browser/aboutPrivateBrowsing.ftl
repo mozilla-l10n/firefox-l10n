@@ -11,6 +11,7 @@ about-private-browsing-search-btn =
     .title = Пребарајте на интернет
 about-private-browsing-handoff-no-engine =
     .title = Барај или внеси адреса
+about-private-browsing-handoff-text-no-engine = Барај или внеси адреса
 about-private-browsing-not-private = Во моментов не сте во приватен прозорец.
 about-private-browsing-info-description = { -brand-short-name } ја отстранува вашата историјата на прелистување кога ќе ја напуштите апликацијата или ќе ги затворите сите јазичиња и прозорци на приватното прелистување. Иако ова не ве прави анонимни на веб-страниците или вашиот провајдер на Интернет услуги, ви овозможува полесно да го чувате она што го правите на Интернет приватно од кој било друг што го користи овој компјутер.
 about-private-browsing-need-more-privacy = Ви треба повеќе приватност?
