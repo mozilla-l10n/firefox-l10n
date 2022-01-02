@@ -133,9 +133,12 @@ toolbar-context-menu-remove-extension =
 addon-removal-title = Fjarlægja { $name }?
 addon-removal-confirmation-button = Fjarlægja
 caret-browsing-prompt-title = Vafra með bendli
+caret-browsing-prompt-text = Með því að ýta á F7 er virkjað eða slökkt á að vafra með bendli. Þessi aðgerð bætir hreyfanlegum bendli inn á vefsíður, sem gerir þér kleift að velja texta með lyklaborðinu. Viltu virkja vafur með bendli?
+caret-browsing-prompt-check-text = Ekki spyrja aftur.
 
 ## no-reply handling
 
+no-reply-reply-anyway-button = Svara samt
 
 ## error messages
 
