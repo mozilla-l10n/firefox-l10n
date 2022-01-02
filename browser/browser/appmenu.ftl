@@ -208,6 +208,8 @@ profiler-popup-presets-media-description2 = Preestablecido para investigar error
 profiler-popup-presets-media-label =
     .label = Multimedia
 profiler-popup-presets-networking-description = Preestablecido para investigar errores de red en { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Redes
 profiler-popup-presets-custom-label =
     .label = Personalizado
 

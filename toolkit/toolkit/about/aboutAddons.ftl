@@ -385,6 +385,7 @@ plugin-heading = Administra tus plugins
 dictionary-heading = Administrar diccionarios
 locale-heading = Administra tus idiomas
 updates-heading = Administra tus actualizaciones
+sitepermission-heading = Administrar permisos de sitios
 discover-heading = Personaliza tu { -brand-short-name }
 shortcuts-heading = Administrar atajos de extensiones
 default-heading-search-label = Encontrar más complementos
