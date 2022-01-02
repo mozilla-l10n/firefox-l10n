@@ -48,6 +48,7 @@ abuse-report-messagebar-error-recent-submit = No se envió el informe sobre <spa
 abuse-report-messagebar-action-remove-extension = Sí, eliminarlo
 abuse-report-messagebar-action-keep-extension = No, guardarlo
 abuse-report-messagebar-action-remove-sitepermission = Sí, eliminarlo
+abuse-report-messagebar-action-keep-sitepermission = No, conservarlo
 abuse-report-messagebar-action-remove-theme = Sí, eliminarlo
 abuse-report-messagebar-action-keep-theme = No, guardarlo
 abuse-report-messagebar-action-retry = Reintentar
@@ -66,9 +67,14 @@ abuse-report-settings-suggestions-homepage = Cambie la página de inicio y de nu
 abuse-report-deceptive-reason-v2 = Simula ser algo que no es
 abuse-report-deceptive-example = Ejemplo: descripción o imágenes erróneas
 abuse-report-broken-reason-extension-v2 = No funciona, provoca errores en sitios o ralentiza { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = No funciona, provoca errores en sitios o ralentiza { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona o estropea lo que muestra el navegador
 abuse-report-broken-example = Ejemplo: la función es lenta, difícil de usar o no funciona; ciertas partes de los sitios web no se cargan o se muestran de forma incorrecta
 abuse-report-broken-suggestions-extension = Parece que ha identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador de la extensión. <a data-l10n-name="support-link">Acceda al sitio web de la extensión</a> para conseguir los datos de contacto del desarrollador.
+abuse-report-broken-suggestions-sitepermission =
+    Parece que ha identificado un problema. Además de enviar un informe por aquí, lo mejor
+    para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del sitio web.
+    <a data-l10n-name="support-link">Acceda al sitio web</a> para conseguir los datos de contacto del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que ha identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del tema. <a data-l10n-name="support-link">Acceda al sitio web del tema</a> para conseguir los datos de contacto del desarrollador.
 abuse-report-policy-reason-v2 = Tiene contenido de odio, violento o ilegal
 abuse-report-policy-suggestions =
