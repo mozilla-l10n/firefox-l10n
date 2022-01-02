@@ -36,6 +36,13 @@ upgrade-dialog-pin-title =
         [macos] { -brand-short-name } өнімін Dock ішінде қалдырыңыз
        *[other] { -brand-short-name } өнімін тапсырмалар панеліне бекітіңіз
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Ең жаңа { -brand-short-name } өніміне жылдам әрі оңай қол жеткізу.
+       *[other] Ең жаңа { -brand-short-name } өнімін қолжетімді ұстаңыз.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Dock-та қалдыру
