@@ -78,7 +78,7 @@ abuse-report-broken-suggestions-extension =
     Vermutlich haben Sie ein Problem mit der Erweiterung erkannt. Damit es behoben wird, sollten Sie zusätzlich zum Senden der Meldung hier die Entwickler der Erweiterung kontaktieren.
     Besuchen Sie die <a data-l10n-name="support-link">Homepage der Erweiterung</a>, um Informationen dafür zu erhalten.
 abuse-report-broken-suggestions-sitepermission =
-    Vermutlich haben Sie ein Problem mit dem Theme erkannt. Damit es behoben wird, sollten Sie zusätzlich zum Senden der Meldung hier die Entwickler der Website kontaktieren.
+    Vermutlich haben Sie ein Problem erkannt. Damit es behoben wird, sollten Sie zusätzlich zum Senden der Meldung hier die Entwickler der Website kontaktieren.
     Besuchen Sie die <a data-l10n-name="support-link">Website</a>, um Informationen dafür zu erhalten.
 abuse-report-broken-suggestions-theme =
     Vermutlich haben Sie ein Problem mit dem Theme erkannt. Damit es behoben wird, sollten Sie zusätzlich zum Senden der Meldung hier die Entwickler des Themes kontaktieren.
