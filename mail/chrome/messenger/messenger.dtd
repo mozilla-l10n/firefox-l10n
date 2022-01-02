@@ -490,6 +490,8 @@
 <!ENTITY deleteJunk.accesskey "ш">
 <!ENTITY importCmd.label "Импорттау…">
 <!ENTITY importCmd.accesskey "м">
+<!ENTITY exportCmd.label "Экспорттау…">
+<!ENTITY exportCmd.accesskey "к">
 <!ENTITY clearRecentHistory.label "Жуырдағы тарихты өшіру…">
 <!ENTITY clearRecentHistory.accesskey "х">
 <!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
@@ -696,7 +698,6 @@
 <!ENTITY locationColumn.label "Орналасуы">
 <!ENTITY idColumn.label "Алынған реті">
 <!ENTITY attachmentColumn.label "Салынымдар">
-
 <!ENTITY deleteColumn.label "Өшіру">
 
 <!-- Thread Pane Tooltips -->
@@ -722,7 +723,6 @@
 <!ENTITY locationColumn2.tooltip "Орналасуы бойынша сұрыптау">
 <!ENTITY idColumn2.tooltip "Алынған реті бойынша сұрыптау">
 <!ENTITY attachmentColumn2.tooltip "Салынымдары бойынша сұрыптау">
-
 <!ENTITY deleteColumn.tooltip "Хабарламаны өшіру">
 
 <!-- Thread Pane Context Menu -->

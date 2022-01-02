@@ -129,6 +129,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "с">
 <!ENTITY deleteButton2.label                            "Өшіру">
 <!ENTITY deleteButton2.accesskey                        "Ө">
+<!ENTITY removeButton.label                             "Өшіру">
+<!ENTITY removeButton.accesskey                         "р">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Көрсетілетін бағандарды таңдау">
