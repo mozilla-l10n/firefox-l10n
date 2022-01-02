@@ -371,4 +371,4 @@ main-context-menu-open-link-in-container-tab =
 # FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
 main-context-menu-toggle-show-password =
     .label = Passwort anzeigen
-    .accesskey = t
+    .accesskey = o
