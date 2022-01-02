@@ -42,12 +42,31 @@ quick-filter-toolbarbutton =
 
 ## Folder Pane
 
+folder-pane-header-label = Möppur
 
 ## Folder Toolbar Header Popup
 
+folder-toolbar-hide-toolbar-toolbarbutton =
+    .label = Fela verkfæraslá
+    .accesskey = F
+show-all-folders-label =
+    .label = Allar möppur
+    .accesskey = A
+show-unread-folders-label =
+    .label = Ólesnar möppur
+    .accesskey = l
 show-favorite-folders-label =
     .label = Eftirlætismöppur
     .accesskey = f
+show-smart-folders-label =
+    .label = Sameinaðar möppur
+    .accesskey = m
+show-recent-folders-label =
+    .label = Nýlegar möppur
+    .accesskey = r
+folder-toolbar-toggle-folder-compact-view =
+    .label = Þjöppuð sýn
+    .accesskey = p
 
 ## Menu
 
@@ -76,6 +95,15 @@ appmenu-help-more-troubleshooting-info =
 
 ## Context menu
 
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Eyða skilaboðum
+           *[other] Eyða völdum skilaboðum
+        }
+context-menu-decrypt-to-folder =
+    .label = Afrita sem afkóðað í
+    .accesskey = f
 
 ## Message header pane
 
@@ -100,6 +128,11 @@ toolbar-context-menu-remove-extension =
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Fjarlægja { $name }?
+addon-removal-confirmation-button = Fjarlægja
+caret-browsing-prompt-title = Vafra með bendli
 
 ## no-reply handling
 
