@@ -9,7 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Nahlásenie doplnku { $addon-name }
 abuse-report-title-extension = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }
-abuse-report-title-sitepermission = Nahlásiť tento doplnok povolení stránok spoločnosti { -vendor-short-name }
+abuse-report-title-sitepermission = Nahlásiť tento doplnok pre oprávnenia stránok spoločnosti { -vendor-short-name }
 abuse-report-title-theme = Nahlásiť túto tému vzhľadu spoločnosti { -vendor-short-name }
 abuse-report-subtitle = V čom je problém?
 # Variables:
@@ -40,7 +40,7 @@ abuse-report-messagebar-submitting = Odosielanie hlásenia o doplnku <span data-
 abuse-report-messagebar-submitted = Ďakujeme vám za hlásenie. Chcete doplnok <span data-l10n-name="addon-name">{ $addon-name }</span> odstrániť?
 abuse-report-messagebar-submitted-noremove = Ďakujeme vám za hlásenie.
 abuse-report-messagebar-removed-extension = Ďakujeme vám za hlásenie. Rozšírenie <span data-l10n-name="addon-name">{ $addon-name }</span> bolo odstránené.
-abuse-report-messagebar-removed-sitepermission = Ďakujeme vám za hlásenie. Doplnok povolení stránok <span data-l10n-name="addon-name">{ $addon-name }</span> bol odstránený.
+abuse-report-messagebar-removed-sitepermission = Ďakujeme vám za hlásenie. Doplnok oprávnení stránok <span data-l10n-name="addon-name">{ $addon-name }</span> bol odstránený.
 abuse-report-messagebar-removed-theme = Ďakujeme vám za hlásenie. Téma vzhľadu <span data-l10n-name="addon-name">{ $addon-name }</span> bolo odstránené.
 abuse-report-messagebar-error = Pri odosielaní hlásenia o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> nastala chyba.
 abuse-report-messagebar-error-recent-submit = Hlásenie o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> nebolo odoslané, pretože ste ho už nedávno nahlásili.
