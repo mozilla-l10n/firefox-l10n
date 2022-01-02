@@ -37,6 +37,7 @@ abuse-report-messagebar-submitting = Enviando informe sobre <span data-l10n-name
 abuse-report-messagebar-submitted = Gracias por enviar el informe. ¿Quieres eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Gracias por enviar un informe.
 abuse-report-messagebar-removed-extension = Gracias por enviar el informe. Has eliminado la extensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Gracias por enviar un reporte. Has eliminado el complemento Permisos del sitio <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gracias por enviar el informe. Has eliminado el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Hubo un error al enviar el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = No se envió el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> porque otro informe se envió recientemente.
