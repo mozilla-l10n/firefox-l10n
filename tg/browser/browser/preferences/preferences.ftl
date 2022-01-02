@@ -347,6 +347,9 @@ performance-use-recommended-settings-checkbox =
     .accesskey = И
 performance-use-recommended-settings-desc = Ин танзимот ба сахтафзори компютер ва низоми амалкунандаи шумо мувофиқат мекунад.
 performance-settings-learn-more = Маълумоти бештар
+performance-allow-hw-accel =
+    .label = Суръатафзоии сахтафзор ба қадри имкон истифода карда шавад
+    .accesskey = r
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -797,6 +800,8 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Кукиҳои пайгирикунандаи байнисомонавӣ — бо дарназардошти кукиҳои расонаҳои иҷтимоӣ
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Кукиҳои байнисомонавӣ — бо дарназардошти кукиҳои расонаҳои иҷтимоӣ
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Кукиҳои васоити пайгирӣ байни сомонаҳо
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Васоити пайгирии байнисомонавӣ ва расонаҳои иҷтимоӣ, бо дарназардошти манъкунии кукиҳои дигар
 sitedata-option-block-unvisited =

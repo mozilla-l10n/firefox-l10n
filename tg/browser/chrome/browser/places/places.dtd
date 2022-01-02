@@ -42,6 +42,8 @@
 <!ENTITY col.name.label          "Ном">
 <!ENTITY col.tags.label          "Барчаспҳо">
 <!ENTITY col.url.label           "Ҷойгиршавӣ">
+<!ENTITY col.mostrecentvisit.label "Боздиди охирин">
+<!ENTITY col.visitcount.label    "Шумораи боздидҳо">
 <!ENTITY col.dateadded.label     "Илова шуд">
 <!ENTITY col.lastmodified.label  "Тағйири охирин">
 
