@@ -88,6 +88,12 @@ extension-controlled-websites-content-blocking-all-trackers = Васеъшави
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Васеъшавии <img data-l10n-name="icon"/> { $name } идора мекунад, ки чӣ тавр { -brand-short-name } ба интернет пайваст мешавад.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Барои фаърл кардани васеъшавӣ ба қисмати <img data-l10n-name="addons-icon"/> Ҷузъҳои иловагӣ дар <img data-l10n-name="menu-icon"/> меню гузаред.
 
 ## Preferences UI Search Results
 
@@ -138,6 +144,9 @@ confirm-on-close-multiple-tabs =
 confirm-on-quit-with-key =
     .label = Тасдиқ кардан ба воситаи { $quitKey } пеш аз баромадан
     .accesskey = Т
+warn-on-open-many-tabs =
+    .label = Огоҳӣ диҳед, ки ҳангоми кушодани варақаҳои сершумор метавонад кори { -brand-short-name }-ро суст кунад
+    .accesskey = О
 switch-to-new-tabs =
     .label = Вақте ки шумо пайванд, тасвир ё расонаеро дар варақаи нав мекушоед, ба он дарҳол гузаред
     .accesskey = В
