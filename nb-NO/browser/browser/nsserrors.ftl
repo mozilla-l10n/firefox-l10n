@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = En feil oppstod under tilkobling til { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Feilkode: { $error }
-
 psmerr-ssl-disabled = Kan ikke koble til sikkert, fordi SSL-protokollen er avslått.
 psmerr-ssl2-disabled = Kan ikke koble til sikkert, fordi nettstedet bruker en eldre, usikker versjon av SSL-protokollen.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Du har mottatt et ugyldig sertifikat. Kontakt den ansvarlige for serveren, eller e-postmottakeren, og gi dem følgende informasjon:
     
     Sertifikatet inneholder det samme serienummeret som et annet sertifikat utgitt av denne sertifikatutstederen. Skaff et nytt sertifikat med unikt serienummer.
-
 ssl-error-export-only-server = Klarte ikke kommunisere sikkert. Motparten støtter ikke sterk kryptering.
 ssl-error-us-only-server = Klarte ikke kommunisere sikkert. Motparten krever en type sterk kryptering som ikke støttes.
 ssl-error-no-cypher-overlap = Kan ikke kommunisere sikkert med motparten: Har ingen felles krypteringsalgoritme.
@@ -341,7 +338,7 @@ sec-error-cert-signature-algorithm-disabled = Sertifikatet ble signert med en si
 mozilla-pkix-error-key-pinning-failure = Serveren bruker key pinning (HPKP), men ingen tiltrodde sertifikater ble funnet som passer til pin-settet. Brudd på key-pinning kan ikke overstyres.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serveren bruker et sertifikat som identifiserer det som en sertifikatutsteder. For et riktig utstedt sertifikat bør ikke dette skje.
 mozilla-pkix-error-inadequate-key-size = Serveren bruker et sertifikat med en nøkkelstørrelse som er for liten til å etablere en sikker tilkobling.
-mozilla-pkix-error-v1-cert-used-as-ca = Et X.509 versjon 1-sertifikat som ikke er et tiltrodd ble brukt til å utstede serverens sertifikat. X.509 versjon 1-sertifikater er foreldede, og bør ikke brukes til å signere andre sertifikater.
+mozilla-pkix-error-v1-cert-used-as-ca = Et X.509 versjon 1-sertifikat som ikke er et tiltrodd ble brukt til å utstede serverens sertifikat. X.509 versjon 1-sertifikater er foreldet, og bør ikke brukes til å signere andre sertifikater.
 mozilla-pkix-error-not-yet-valid-certificate = Serveren presenterte et sertifikat som ikke er gyldig ennå.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = Et sertifikat som ikke er gyldig ennå ble brukt til å utstede serverens sertifikat.
 mozilla-pkix-error-signature-algorithm-mismatch = Signaturalgoritmen i signaturfeltet til sertifikatet passer ikke med algoritmen i signatureAlgorithm-feltet.
