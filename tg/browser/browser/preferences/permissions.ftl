@@ -122,6 +122,9 @@ permissions-site-autoplay-desc = Дар ин ҷо шумо метавонед с
 permissions-site-notification-window =
     .title = Танзимот - Иҷозатҳои огоҳинома
     .style = { permissions-window.style }
+permissions-site-notification-desc = Сомонаҳои зерин дархост карданд, ки ба шумо огоҳиномаҳоро ирсол намоянд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои фиристодани огоҳиномаҳо иҷзат доранд. Шумо инчунин метавонед дархостҳои наверо, ки иҷозати огоҳиномаҳоро дархост мекунанд, манъ кунед.
+permissions-site-notification-disable-label =
+    .label = Манъ кардани дархостҳои наве, ки иҷозати огоҳиномаҳоро дархост мекунанд
 
 ## Site Permissions - Location
 
