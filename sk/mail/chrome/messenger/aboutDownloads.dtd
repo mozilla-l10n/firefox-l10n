@@ -20,4 +20,4 @@
 <!ENTITY cmd.clearList.accesskey                   "V">
 <!ENTITY cmd.clearList.tooltip                     "Odstráni všetky záznamy zo zoznamu uložených súborov, okrem práve sťahovaných súborov.">
 <!ENTITY cmd.searchDownloads.label                 "Hľadať…">
-<!ENTITY cmd.searchDownloads.key                   "H">
+<!ENTITY cmd.searchDownloads.key                   "F">
