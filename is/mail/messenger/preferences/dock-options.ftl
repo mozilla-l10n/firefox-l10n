@@ -5,12 +5,15 @@
 dock-options-window-dialog =
     .title = App icon valkostir
     .style = width: 35em;
+dock-options-show-badge =
+    .label = Sýna táknmynd merkis
+    .accesskey = m
 bounce-system-dock-icon =
     .label = Hreyfa táknmynd forrits þegar nýr póstur kemur
     .accesskey = i
 dock-icon-legend = Merki á forritstáknmynd
 dock-icon-show-label =
-    .value = Badge app icon með:
+    .value = Setja merki á táknmynd forrits:
 count-unread-messages-radio =
     .label = Fjöldi ólesinna pósta
     .accesskey = l
