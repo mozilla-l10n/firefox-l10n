@@ -174,7 +174,7 @@ main-context-menu-media-mute =
     .accesskey = m
 main-context-menu-media-unmute =
     .label = Zapnúť zvuk
-    .accesskey = m
+    .accesskey = Z
 main-context-menu-media-play-speed-2 =
     .label = Rýchlosť
     .accesskey = R
@@ -209,7 +209,7 @@ main-context-menu-media-video-fullscreen =
     .accesskey = c
 main-context-menu-media-video-leave-fullscreen =
     .label = Ukončiť režim celej obrazovky
-    .accesskey = U
+    .accesskey = c
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
