@@ -45,7 +45,7 @@
 <!ENTITY selectofflineNewsgroup.check.label      "Označiť túto diskusiu na použitie v režime offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "O">
 <!ENTITY offlineNewsgroup.button.label           "Stiahnuť">
-<!ENTITY offlineNewsgroup.button.accesskey       "P">
+<!ENTITY offlineNewsgroup.button.accesskey       "S">
 
 <!ENTITY folderProps.name.label                  "Názov:">
 <!ENTITY folderProps.name.accesskey              "N">

@@ -32,6 +32,6 @@
 
 <!ENTITY debugCache.label                "Ladenie">
 <!ENTITY debugEnableMemCache.label       "Povoliť vyrovnávaciu pamäť">
-<!ENTITY debugEnableMemCache.accesskey   "e">
+<!ENTITY debugEnableMemCache.accesskey   "v">
 <!ENTITY debugEnableDiskCache.label      "Povoliť vyrovnávaciu pamäť disku">
 <!ENTITY debugEnableDiskCache.accesskey  "v">

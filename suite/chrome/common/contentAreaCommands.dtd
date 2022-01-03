@@ -103,7 +103,7 @@
 <!ENTITY mediaMute.label              "Stlmiť">
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Zapnúť zvuk">
-<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaUnmute.accesskey        "Z">
 <!ENTITY mediaPlaybackRate.label        "Rýchlosť prehrávania">
 <!ENTITY mediaPlaybackRate.accesskey    "R">
 <!ENTITY mediaPlaybackRate050.label     "Spomalene (0.5×)">
@@ -150,7 +150,7 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.label        "Jazyky">
 <!ENTITY spellDictionaries.accesskey    "J">
 <!ENTITY spellAddDictionaries.label     "Stiahnuť ďalšie slovníky…">
-<!ENTITY spellAddDictionaries.accesskey "P">
+<!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY fillLoginMenu.label          "Vyplniť prihlasovacie údaje">
 <!ENTITY fillLoginMenu.accesskey      "V">
