@@ -38,3 +38,5 @@ progress-pane-title = Importowanie
 progress-pane-restart-desc = Uruchom ponownie, aby dokończyć importowanie.
 error-pane-title = Błąd
 error-message-zip-file-too-big = Wybrany plik ZIP jest większy niż 2 GB. Najpierw go rozpakuj, a następnie zaimportuj z rozpakowanego folderu.
+error-message-extract-zip-file-failed = Rozpakowanie pliku ZIP się nie powiodło. Rozpakuj go ręcznie, a następnie zaimportuj z rozpakowanego folderu.
+error-message-failed = Import nieoczekiwanie się nie powiódł. Więcej informacji może być dostępnych w konsoli błędów.
