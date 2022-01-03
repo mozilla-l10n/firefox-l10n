@@ -151,7 +151,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "f">
 <!ENTITY showFolderPaneColsCmd.label "Dálkar möppuflipa">
 <!ENTITY showFolderPaneColsCmd.accesskey "p">
-<!ENTITY showMessageCmd.label "Lestrarrúða">
+<!ENTITY showMessageCmd.label "Lestrargluggi">
 <!ENTITY showMessageCmd.accesskey "L">
 
 <!ENTITY folderView.label "Möppur">

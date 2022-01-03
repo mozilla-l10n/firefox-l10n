@@ -39,9 +39,17 @@ addons-and-themes-toolbarbutton =
 quick-filter-toolbarbutton =
     .label = Flýtisía
     .tooltiptext = Sía skilaboð
+redirect-msg-button =
+    .label = Endurbeina
+    .tooltiptext = Endurbeina völdum skilaboðum
 
 ## Folder Pane
 
+folder-pane-toolbar =
+    .toolbarname = Verkfæraslá möppuglugga
+    .accesskey = F
+folder-pane-toolbar-options-button =
+    .tooltiptext = Valkostir möppuglugga
 folder-pane-header-label = Möppur
 
 ## Folder Toolbar Header Popup
@@ -70,6 +78,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Endurbeina
+    .accesskey = d
 menu-file-save-as-file =
     .label = Skrá…
     .accesskey = S
@@ -92,9 +103,13 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Slökkva á úrræðaleitarham
 appmenu-help-more-troubleshooting-info =
     .label = Frekari upplýsingar um úrræðaleit
+appmenu-redirect-msg =
+    .label = Endurbeina
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Endurbeina
 mail-context-delete-messages =
     .label =
         { $count ->
@@ -107,6 +122,8 @@ context-menu-decrypt-to-folder =
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Endurbeina
 message-header-msg-flagged =
     .title = Stjörnumerkt
     .aria-label = Stjörnumerkt
@@ -125,6 +142,10 @@ toolbar-context-menu-remove-extension =
 
 ## Message headers
 
+message-header-address-in-address-book-icon =
+    .alt = Póstfang er í nafnaskránni
+message-header-address-not-in-address-book-icon =
+    .alt = Póstfang er ekki í nafnaskránni
 
 ## Add-on removal warning
 
@@ -135,9 +156,13 @@ addon-removal-confirmation-button = Fjarlægja
 caret-browsing-prompt-title = Vafra með bendli
 caret-browsing-prompt-text = Með því að ýta á F7 er virkjað eða slökkt á að vafra með bendli. Þessi aðgerð bætir hreyfanlegum bendli inn á vefsíður, sem gerir þér kleift að velja texta með lyklaborðinu. Viltu virkja vafur með bendli?
 caret-browsing-prompt-check-text = Ekki spyrja aftur.
+repair-text-encoding-button =
+    .label = Gera við textakóðun
+    .tooltiptext = Giska á rétta stafatöflu texta út frá efni skilaboða
 
 ## no-reply handling
 
+no-reply-title = Ekki stuðningur við svar
 no-reply-reply-anyway-button = Svara samt
 
 ## error messages
