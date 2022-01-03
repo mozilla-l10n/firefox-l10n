@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
 <!ENTITY pref.receipts.title          "Potvrdenia o prečítaní">
 <!ENTITY prefReceipts.caption         "Potvrdenia o prečítaní">
-<!ENTITY requestReceipt.label         "Pri posielaní správy vždy žiadať o potvrdenie o prečítaní">
+<!ENTITY requestReceipt.label         "Pri odosielaní správy vždy žiadať potvrdenie o prečítaní">
 <!ENTITY requestReceipt.accesskey     "s">
 <!ENTITY receiptArrive.label          "Ak príde potvrdenie:">
 <!ENTITY leaveIt.label                "Nechať ho v priečinku &quot;Doručená pošta&quot;">
