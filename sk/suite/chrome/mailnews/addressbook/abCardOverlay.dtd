@@ -45,7 +45,6 @@
 <!ENTITY PlainText.label                "Len text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznámy">
-
 <!ENTITY chatName.label                 "Meno pre konverzácie:">
 
 <!ENTITY WorkPhone.label                "Zamestnanie:">
@@ -67,7 +66,7 @@
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Mesto:">
 <!ENTITY HomeCity.accesskey             "M">
-<!ENTITY HomeState.label                "Kraj:">
+<!ENTITY HomeState.label                "Štát/provincia:">
 <!ENTITY HomeState.accesskey            "t">
 <!ENTITY HomeZipCode.label              "PSČ:">
 <!ENTITY HomeZipCode.accesskey          "P">
@@ -97,7 +96,7 @@
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Mesto:">
 <!ENTITY WorkCity.accesskey             "M">
-<!ENTITY WorkState.label                "Kraj:">
+<!ENTITY WorkState.label                "Štát/provincia:">
 <!ENTITY WorkState.accesskey            "t">
 <!ENTITY WorkZipCode.label              "PSČ:">
 <!ENTITY WorkZipCode.accesskey          "P">

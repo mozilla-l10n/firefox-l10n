@@ -48,7 +48,7 @@
 <!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addOnsManagerCmd.label "Správca doplnkov">
-<!ENTITY addOnsManagerCmd.accesskey "D">
+<!ENTITY addOnsManagerCmd.accesskey "d">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Prepnúť profil…">
