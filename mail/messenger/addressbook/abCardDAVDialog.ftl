@@ -18,3 +18,6 @@ carddav-location =
 carddav-loading = Leita að uppsetningu…
 carddav-known-incompatible = Vitað er að { $url } er ósamhæft við { -brand-short-name }.
 carddav-connection-error = Ekki tókst að tengjast.
+carddav-none-found = Fann engar nafnaskrár til að bæta við uppgefinn reikning.
+carddav-already-added = Öllum nafnaskrám fyrir uppgefinn reikning hefur þegar verið bætt við.
+carddav-available-books = Tiltækar nafnaskrár:
