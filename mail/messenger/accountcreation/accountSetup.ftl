@@ -233,6 +233,7 @@ account-setup-confirm-advanced-description = Þessum glugga verður lokað og re
 ## Addon installation section
 
 account-setup-addon-install-title = Setja inn
+account-setup-addon-install-intro = Viðbót frá utanaðkomandi aðila getur gert þér kleift að fá aðgang að tölvupóstreikningnum þínum á þessum póstþjóni:
 account-setup-addon-no-protocol = Þessi tölvupóstþjónn styður því miður ekki opnar samskiptareglur. { account-setup-addon-install-intro }
 
 ## Success view
