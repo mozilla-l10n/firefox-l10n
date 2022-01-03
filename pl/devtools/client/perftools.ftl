@@ -136,6 +136,8 @@ perftools-presets-graphics-description = Ustawienie do badania błędów graficz
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description = Zalecane ustawienie do diagnozowania problemów z dźwiękiem i obrazem.
 perftools-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w programie { -brand-shorter-name }.
+perftools-presets-networking-label = Sieć
+perftools-presets-networking-description = Ustawienie do badania błędów sieciowych w programie { -brand-shorter-name }.
 perftools-presets-custom-label = Inne
 
 ##
