@@ -69,7 +69,7 @@
 <!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Sýna viðhengjaflipa í byrjun">
+<!ENTITY startExpandedCmd.label    "Sýna viðhengjaspjaldið í byrjun">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->

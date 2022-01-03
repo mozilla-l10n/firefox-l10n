@@ -45,6 +45,18 @@ pill-action-expand-list =
 
 ## Attachment widget
 
+menuitem-toggle-attachment-pane =
+    .label = Viðhengjaspjald
+    .accesskey = h
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Fela viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Fela viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
 ## Reorder Attachment Panel
 
