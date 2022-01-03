@@ -230,7 +230,7 @@
 <!ENTITY followupAddr2.label "Eftirfylgni-til">
 <!ENTITY subject2.label "Viðfangsefni">
 <!ENTITY subject.accesskey "f">
-<!ENTITY attachmentBucketCloseButton.tooltip "Fela viðhengisflipa">
+<!ENTITY attachmentBucketCloseButton.tooltip "Fela viðhengjaspjaldið">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Setja inn broskarl">
@@ -298,7 +298,7 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
-<!ENTITY initiallyShowAttachmentPane.label "Sýna viðhengjaflipa í byrjun">
+<!ENTITY initiallyShowAttachmentPane.label "Sýna viðhengjaspjald í byrjun">
 <!ENTITY initiallyShowAttachmentPane.accesskey "S">
 
 <!-- Spell checker context menu items -->
