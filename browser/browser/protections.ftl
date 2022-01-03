@@ -59,6 +59,7 @@ lockwise-title = Glem aldri et passord igjen
 lockwise-title-logged-in2 = Passordbehandling
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
 passwords-title-logged-in = Behandle dine passord
+passwords-header-content = { -brand-product-name } lagrer passordene dine sikkert i nettleseren din.
 lockwise-header-content-logged-in = Lagre passordene dine sikkert og synkroniser dem med alle enhetene dine.
 protection-report-save-passwords-button = Lagre passord
     .title = Lagre passord i { -lockwise-brand-short-name }
