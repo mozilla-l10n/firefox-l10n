@@ -50,7 +50,7 @@ downloads-cmd-use-system-default =
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
     .label = Vždy otvoriť v systémovom prehliadači
-    .accesskey = w
+    .accesskey = V
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
