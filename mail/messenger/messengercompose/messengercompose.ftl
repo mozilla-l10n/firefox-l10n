@@ -53,6 +53,13 @@ context-menuitem-attach-files =
     .label = Adjuntar archivo(s)…
     .accesskey = A
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    { $count ->
+        [1] { $count } Archivo adjunto
+        [one] { $count } Archivo adjunto
+       *[other] { $count } Archivos adjuntos
+    }
 
 ## Reorder Attachment Panel
 
@@ -86,6 +93,8 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } del campo ({ bcc-compose-show-address-row-menuitem.acceltext })
 to-address-row-label =
     .value = Para
+extra-address-rows-menu-button =
+    .title = Otros campos de direcciones para mostrar
 many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
     .accesskey = M

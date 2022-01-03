@@ -312,6 +312,7 @@ import-info-title =
 import-info-bits = Bits
 import-info-created = Creado
 import-info-fpr = Huella digital
+import-info-details = Ver detalles y administrar la aceptación de claves
 import-info-no-keys = No se importaron claves.
 # Strings in enigmailKeyManager.js
 import-from-clip = ¿Quieres importar algunas claves del portapapeles?
