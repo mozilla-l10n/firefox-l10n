@@ -43,7 +43,7 @@ graph-today = Dnes
 graph-legend-description = Graf s celkovým počtom všetkých typov sledovacích prvkov, ktoré boli tento týždeň zablokované.
 social-tab-title = Sledovacie prvky sociálnych sietí
 social-tab-contant = Sociálne siete umiestňujú na webové stránky sledovacie prvky, ktoré sledujú, čo na internete robíte. Toto umožňuje spoločnostiam, ktoré tieto sociálne médiá vlastnia dozvedieť sa o vás viac ako to, čo zdieľate na svojich profiloch. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
-cookie-tab-title = Sledovacie cookies
+cookie-tab-title = Sledovacie cookies tretích strán
 cookie-tab-content = Tieto cookies slúžia na vaše sledovanie naprieč webovými stránkami a zber údajov o tom, čo na internete robíte. Používajú ich tretie strany, ako sú reklamné systémy alebo analytické spoločnosti. Blokovanie sledovacích cookies tretích strán obmedzuje množstvo reklám, ktoré vás sledujú. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 tracker-tab-title = Sledovací obsah
 tracker-tab-description = Webové stránky môžu načítať externé reklamy a ďalší obsah, ktorý obsahuje sledovací kód. Po zablokovaní sledovacieho obsahu sa stránky načítajú rýchlejšie, ale niektoré tlačidlá alebo formuláre nemusia správne fungovať. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
@@ -194,7 +194,7 @@ bar-tooltip-social =
            *[other] { $count } sledovacích prvkov sociálnych sietí ({ $percentage } %)
         }
 bar-tooltip-cookie =
-    .title = Sledovacie cookies
+    .title = Sledovacie cookies tretích strán
     .aria-label =
         { $count ->
             [one] { $count } sledovacia cookie ({ $percentage } %)
