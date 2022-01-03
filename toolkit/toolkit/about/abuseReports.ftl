@@ -9,7 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Zgłoszenie dodatku { $addon-name }
 abuse-report-title-extension = Zgłoś to rozszerzenie do organizacji { -vendor-short-name }
-abuse-report-title-sitepermission = Zgłoś ten dodatek z uprawnieniami witryn do organizacji { -vendor-short-name }
+abuse-report-title-sitepermission = Zgłoś ten dodatek z uprawnieniami witryny do organizacji { -vendor-short-name }
 abuse-report-title-theme = Zgłoś ten motyw do organizacji { -vendor-short-name }
 abuse-report-subtitle = Na czym polega problem?
 # Variables:
@@ -42,7 +42,7 @@ abuse-report-messagebar-submitting = Zgłaszanie dodatku <span data-l10n-name="a
 abuse-report-messagebar-submitted = Dziękujemy za zgłoszenie. Czy usunąć dodatek <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Dziękujemy za zgłoszenie.
 abuse-report-messagebar-removed-extension = Dziękujemy za zgłoszenie. Usunięto rozszerzenie <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-removed-sitepermission = Dziękujemy za zgłoszenie. Usunięto dodatek z uprawnieniami witryn <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Dziękujemy za zgłoszenie. Usunięto dodatek z uprawnieniami witryny <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Dziękujemy za zgłoszenie. Usunięto motyw <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Wystąpił błąd podczas zgłaszania dodatku <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Nie zgłoszono dodatku <span data-l10n-name="addon-name">{ $addon-name }</span>, ponieważ niedawno wysłano inne zgłoszenie.
@@ -78,6 +78,10 @@ abuse-report-broken-suggestions-extension =
     Wygląda na to, że znaleziono błąd. Oprócz zgłoszenia najlepszym sposobem na rozwiązanie
     problemu z funkcjonalnością jest skontaktowanie się z autorami rozszerzenia.
     <a data-l10n-name="support-link">Strona rozszerzenia</a> zawiera informacje o jego autorach.
+abuse-report-broken-suggestions-sitepermission =
+    Wygląda na to, że znaleziono błąd. Oprócz zgłoszenia najlepszym sposobem na rozwiązanie
+    problemu z funkcjonalnością jest skontaktowanie się z autorami witryny.
+    <a data-l10n-name="support-link">Witryna</a> zawiera informacje o jej autorach.
 abuse-report-broken-suggestions-theme =
     Wygląda na to, że znaleziono błąd. Oprócz zgłoszenia najlepszym sposobem na rozwiązanie
     problemu z funkcjonalnością jest skontaktowanie się z autorami motywu.
