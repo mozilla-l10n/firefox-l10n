@@ -7,7 +7,6 @@
 -->
 <!ENTITY pref.privatedata.title           "Súkromné údaje">
 
-
 <!ENTITY clearPrivateData.label           "Vymazať súkromné údaje">
 
 <!ENTITY alwaysClear.label                "Pri ukončení programu &brandShortName; vždy odstrániť súkromné údaje">
@@ -31,4 +30,4 @@
 -->
 <!ENTITY clearDataDialog.label            "Vymazať teraz…">
 <!ENTITY clearDataSilent.label            "Vymazať teraz">
-<!ENTITY clearDataDialog.accesskey        "d">
+<!ENTITY clearDataDialog.accesskey        "t">

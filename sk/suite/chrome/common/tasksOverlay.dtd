@@ -47,7 +47,7 @@
 <!ENTITY downloadManagerCmd.accesskey "S">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addOnsManagerCmd.label "Doplnky">
+<!ENTITY addOnsManagerCmd.label "Správca doplnkov">
 <!ENTITY addOnsManagerCmd.accesskey "D">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
