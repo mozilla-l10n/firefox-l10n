@@ -161,6 +161,11 @@ browser-containers-settings =
     .label = Танзимот…
     .accesskey = Т
 containers-disable-alert-title = Ҳамаи варақаҳои дарбаргирандаро мепӯшед?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Агар шумо варақаҳои дарбаргирандаро ҳоли ҳозир ғайрифаъол кунед, { $tabCount } варақаи дарбаргиранда пӯшида мешавад. Шумо мутмаин ҳастед, ки мехоҳед варақаҳои дарбаргирандаро ғайрифаъол созед?
+       *[other] Агар шумо варақаҳои дарбаргирандаро ҳоли ҳозир ғайрифаъол кунед, { $tabCount } варақаи дарбаргиранда пӯшида мешаванд. Шумо мутмаин ҳастед, ки мехоҳед варақаҳои дарбаргирандаро ғайрифаъол созед?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Пӯшидани { $tabCount } варақаи дарбаргиранда
@@ -168,6 +173,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
 containers-remove-alert-title = Ин дарбаргирандаро тоза мекунед?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Агар шумо ин дарбаргирандаро ҳоли ҳозир тоза кунед, { $count } варақаи дарбаргиранда пӯшида мешавад. Шумо мутмаин ҳастед, ки мехоҳед ин дарбаргирандаро тоза намоед?
+       *[other] Агар шумо ин дарбаргирандаро ҳоли ҳозир тоза кунед, { $count } варақаи дарбаргиранда пӯшида мешаванд. Шумо мутмаин ҳастед, ки мехоҳед ин дарбаргирандаро тоза намоед?
+    }
 containers-remove-ok-button = Тоза кардани ин дарбаргиранда
 containers-remove-cancel-button = Ин дарбаргиранда тоза карда нашавад
 
@@ -200,6 +212,9 @@ choose-button =
     .label = Интихоб кунед ...
     .accesskey = И
 choose-browser-language-description = Забонҳоро барои намоиш додани менюҳо, паёмҳо ва огоҳиномаҳо аз { -brand-short-name } интихоб намоед.
+manage-browser-languages-button =
+    .label = Танзими ивазкунанда…
+    .accesskey = Т
 confirm-browser-language-change-description = Барои татбиқ кардани ин тағйирот, { -brand-short-name }-ро аз нав оғоз намоед
 confirm-browser-language-change-button = Татбиқ ва аз нав оғоз кардан
 translate-web-pages =
@@ -334,6 +349,9 @@ update-application-auto =
 update-application-check-choose =
     .label = Навсозиҳоро тафтиш кунед, аммо барои насб кардани онҳо иҷозат диҳед.
     .accesskey = Н
+update-application-manual =
+    .label = Ҳеҷ гоҳ навсозиро тафтиш накунед (тавсия дода намешавад)
+    .accesskey = Ҳ
 update-application-background-enabled =
     .label = Вақте ки { -brand-short-name } кор намекунад
     .accesskey = В
