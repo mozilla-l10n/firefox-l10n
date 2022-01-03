@@ -36,7 +36,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Fara í línu…">
 <!ENTITY goToLineCmd.accesskey "n">
@@ -50,6 +52,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.title "Línuskipta löngum línum">
 <!ENTITY menu_wrapLongLines.accesskey "p">
 <!ENTITY menu_highlightSyntax.label "Málfræðilitun">
+<!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "Stærð texta">
 <!ENTITY menu_textSize.accesskey "x">
 <!ENTITY menu_textEnlarge.label "Stækka">
@@ -66,6 +69,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "a">
 <!ENTITY findAgainCmd.commandkey "a">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Til baka">
 <!ENTITY backCmd.accesskey "B">

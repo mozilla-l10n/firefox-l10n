@@ -11,6 +11,7 @@ account-setup-description = Til að nota núverandi tölvupóstfang skaltu fylla
 account-setup-secondary-description = { -brand-product-name } leitar sjálfkrafa að virkri og ráðlagðri póstþjónsuppsetningu.
 account-setup-success-title = Tókst að útbúa reikning
 account-setup-success-description = Þú getur nú notað þennan reikning með { -brand-short-name }.
+account-setup-success-secondary-description = Þú getur bætt upplifunina með því að setja upp tengdar þjónustur og stilla ítarlega valkosti reikningsins.
 
 ## Form fields
 
@@ -152,6 +153,9 @@ account-setup-result-username-different = Móttekið: { $incoming }, á leið ú
 # Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
 account-setup-credentials-incomplete = Auðkenning mistókst. Annaðhvort eru viðkomandi auðkenni röng eða að sérstakt notandanafn er nauðsynlegt til að skrá inn. Þetta notandanafn er venjulega innskráningin þín á Windows lénið, með eða án lénsins (t.d. jonjonsson eða AD\\jonjonsson)
 account-setup-credentials-wrong = Auðkenning mistókst. Athugaðu notandanafnið og lykilorðið
+account-setup-find-settings-failed = { -brand-short-name } fann ekki stillingarnar fyrir tölvupóstreikninginn þinn
+account-setup-exchange-config-unverifiable = Ekki var hægt að staðfesta uppsetningu. Ef notendanafnið þitt og lykilorðið þitt er rétt er líklegt að kerfisstjóri netþjónsins hafi gert valda uppsetningu fyrir reikninginn þinn óvirka. Prófaðu að velja aðra samskiptareglu.
+account-setup-provisioner-error = Villa kom upp við að setja upp nýja reikninginn þinn í { -brand-short-name }. Reyndu að setja upp reikninginn þinn handvirkt með auðkennum þínum.
 
 ## Manual configuration area
 
@@ -224,10 +228,12 @@ exit-dialog-confirm-button = Hætta í uppsetningu
 account-setup-creation-error-title = Villa við að búa til reikning
 account-setup-error-server-exists = Móttökupóstþjónn er þegar til.
 account-setup-confirm-advanced-title = Staðfesta ítarlegar stillingar
+account-setup-confirm-advanced-description = Þessum glugga verður lokað og reikningur með núverandi stillingum verður stofnaður, jafnvel þótt uppsetningin sé röng. Viltu halda áfram?
 
 ## Addon installation section
 
 account-setup-addon-install-title = Setja inn
+account-setup-addon-no-protocol = Þessi tölvupóstþjónn styður því miður ekki opnar samskiptareglur. { account-setup-addon-install-intro }
 
 ## Success view
 
@@ -238,6 +244,23 @@ account-setup-dictionaries-button = Sækja orðabækur
 account-setup-address-book-carddav-button = Tengjast við CardDAV nafnaskrá
 account-setup-address-book-ldap-button = Tengjast við LDAP nafnaskrá
 account-setup-calendar-button = Tengjast við fjartengt dagatal
+account-setup-linked-services-title = Settu upp tengdar þjónustur þínar
+account-setup-linked-services-description = { -brand-short-name } fann aðrar þjónustur tengdar við tölvupóstreikninginn þinn.
+account-setup-no-linked-description = Settu upp aðrar þjónustur til að fá sem mest út úr upplifun þinni af { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } fann eina nafnaskrá tengda við tölvupóstreikninginn þinn.
+       *[other] { -brand-short-name } fann { $count } nafnaskrár tengdar við tölvupóstreikninginn þinn.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } fann eitt dagatal tengt við tölvupóstreikninginn þinn.
+       *[other] { -brand-short-name } fann { $count } dagatöl tengd við tölvupóstreikninginn þinn.
+    }
 account-setup-button-finish = Ljúka
     .accesskey = k
 account-setup-looking-up-address-books = Fletti upp nafnaskrám...
