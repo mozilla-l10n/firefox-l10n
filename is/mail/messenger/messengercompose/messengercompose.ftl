@@ -226,6 +226,9 @@ many-public-recipients-prompt-send = Senda samt
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Einstakt auðkenni sem samsvarar Frá-póstfanginu fannst ekki. Skilaboðin verða send með því að nota núverandi Frá-reit og stillingar frá auðkenninu { $identity }.
 encrypted-bcc-warning = Þegar þú sendir dulrituð skilaboð eru viðtakendur í 'Falinn afrit' ekki að fullu faldir. Aðrir viðtakendur gætu borið kennsl á þá.
 encrypted-bcc-ignore-button = Skilið
 

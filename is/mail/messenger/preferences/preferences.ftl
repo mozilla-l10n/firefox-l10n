@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-button =
+    .aria-label = Loka
 preferences-doc-title = Kjörstillingar
 preferences-doc-title2 = Stillingar
+category-list =
+    .aria-label = Flokkar
 pane-general-title = Almennt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -11,16 +15,49 @@ pane-compose-title = Samsetning
 category-compose =
     .tooltiptext = Samsetning
 pane-privacy-title = Friðhelgi og öruggi
+category-privacy =
+    .tooltiptext = Friðhelgi og öruggi
 pane-chat-title = Spjall
 category-chat =
     .tooltiptext = Spjall
 pane-calendar-title = Dagatal
 category-calendar =
     .tooltiptext = Dagatal
+general-language-and-appearance-header = Tungumál og útlit
+general-incoming-mail-header = Póstur sem berst
+general-files-and-attachment-header = Skrár og viðhengi
+general-tags-header = Merkingar
+general-reading-and-display-header = Lestur og birting
+general-updates-header = Uppfærslur
+general-network-and-diskspace-header = Netkerfi og diskapláss
+general-indexing-label = Atriðaskráning
+composition-category-header = Samsetning
+composition-attachments-header = Viðhengi
+composition-spelling-title = Stafsetning
+compose-html-style-title = HTML-stíll
 composition-addressing-header = Póstföng
+privacy-main-header = Friðhelgi
+privacy-passwords-header = Lykilorð
+privacy-junk-header = Ruslpóstur
+collection-header = Gagnasöfnun { -brand-short-name } og notkun notendaupplýsinga
+collection-privacy-notice = Meðferð persónuupplýsinga
+collection-health-report-telemetry-disabled-link = Frekari upplýsingar
+collection-health-report =
+    .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
+    .accesskey = L
+collection-health-report-link = Frekari upplýsingar
+privacy-security-header = Öryggi
+privacy-scam-detection-title = Greining á svindli
+privacy-anti-virus-title = Vírusvörn
+privacy-certificates-title = Skilríki
 chat-pane-header = Spjall
+chat-status-title = Staða
+chat-notifications-title = Tilkynningar
 chat-pane-styling-header = Stíll
 choose-messenger-language-description = Veldu tungumálin til að nota til að birta valmyndir, skilaboð og tilkynningar frá { -brand-short-name }.
+manage-messenger-languages-button =
+    .label = Stilla aðra valkosti...
+    .accesskey = l
 confirm-messenger-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
 confirm-messenger-language-change-button = Virkja og endurræsa
 update-setting-write-failure-title = Villa við að vista uppfærslustillingar
@@ -32,12 +69,26 @@ update-setting-write-failure-message =
     { -brand-short-name } rakst á villu og vistaði ekki þessa breytingu. Athugaðu að til að stilla þennan uppfærsluvalkost þarf heimild til að skrifa í skrána hér að neðan. Þú eða kerfisstjóri gætuð leyst vandamálið með því að veita users-hópnum fulla stjórn á þessari skrá.
     
     Gat ekki skrifað í skrána: { $path }
+update-in-progress-title = Uppfærsla í gangi
+update-in-progress-message = Viltu að { -brand-short-name } haldi áfram með þessa uppfærslu?
+update-in-progress-ok-button = Hen&da
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Halda áfram
 account-button = Stillingar reiknings
+open-addons-sidebar-button = Viðbætur og þemu
 
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Til að búa til aðallykilorð skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = búa til aðallykilorð
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -56,6 +107,13 @@ restore-default-label =
     .label = Endurheimta sjálfgildi
     .accesskey = E
 default-search-engine = Sjálfgefin leitarvél
+add-web-search-engine =
+    .label = Bæta við…
+    .accesskey = a
+remove-search-engine =
+    .label = Fjarlægja
+    .accesskey = j
+add-opensearch-provider-title = Bæta við OpenSearch þjónustuveitu
 new-message-arrival = Þegar nýr póstur er móttekin:
 mail-play-sound-label =
     .label =
@@ -83,6 +141,9 @@ animated-alert-label =
 customize-alert-label =
     .label = Sérsníða…
     .accesskey = S
+mail-system-sound-label =
+    .label = Sjálfgefið kerfishljóð fyrir nýjan póst
+    .accesskey = g
 mail-custom-sound-label =
     .label = Nota hljóðskrá
     .accesskey = N
@@ -92,6 +153,8 @@ mail-browse-sound-button =
 enable-gloda-search-label =
     .label = Virkja víðtæka leit og atriðaskrá
     .accesskey = i
+datetime-formatting-legend = Dagsetningar- og tímasnið
+language-selector-legend = Tungumál
 allow-hw-accel =
     .label = Nota vélbúnaðarhröðun ef mögulegt
     .accesskey = h
@@ -134,6 +197,11 @@ return-receipts-description = Skilgreina hvernig { -brand-short-name } meðhönd
 return-receipts-button =
     .label = Staðfesting á lestri…
     .accesskey = S
+update-app-legend = { -brand-short-name } uppfærslur
+# Variables:
+#   $version (String): version of Thunderbird, e.g. 68.0.1
+update-app-version = Útgáfa { $version }
+allow-description = Leyfa { -brand-short-name } að
 automatic-updates-label =
     .label = Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)
     .accesskey = a
@@ -220,6 +288,8 @@ smaller-size-item =
 quoted-text-color =
     .label = Litur:
     .accesskey = L
+type-column-header = Efnistegund
+action-column-header = Aðgerð
 save-to-label =
     .label = Vista skrár yfir á
     .accesskey = s
@@ -323,6 +393,9 @@ download-dictionaries-link = Hlaða niður fleiri orðabókum
 font-label =
     .value = Letur:
     .accesskey = L
+font-size-label =
+    .value = Stærð:
+    .accesskey = t
 font-color-label =
     .value = Stilla lit texta:
     .accesskey = x
@@ -376,6 +449,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Fjarlægja
     .accesskey = r
+find-cloud-providers =
+    .value = Finna fleiri veitur…
 cloud-account-description = Bæta við nýrri geymsluþjónustu fyrir skrár
 
 ## Privacy Tab
@@ -420,10 +495,20 @@ cookies-button =
 do-not-track-label =
     .label = Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér
     .accesskey = D
+learn-button =
+    .label = Frekari upplýsingar
 passwords-description = { -brand-short-name } getur munað öll þín lykilorð þannig að þú þurfir ekki að slá þau inn aftur.
 passwords-button =
     .label = Vistuð lykilorð…
     .accesskey = V
+primary-password-label =
+    .label = Nota aðallykilorð
+    .accesskey = o
+primary-password-button =
+    .label = Breyta aðallykilorði…
+    .accesskey = B
+forms-primary-pw-fips-title = Þú ert núna í FIPS-ham. FIPS má ekki hafa tómt aðallykilorð.
+forms-master-pw-fips-desc = Breyting á lykilorði mistókst
 junk-description = Stilla sjálfgefnar ruslpóstsstillingar. Stillingar fyrir ruslpóst fyrir ákveðinn reikning er hægt að stilla í stillingum reiknings.
 junk-label =
     .label = Þegar ég merki skilaboð sem ruslpóst:
@@ -464,6 +549,12 @@ certificate-ask =
 ocsp-label =
     .label = Tala við OCSP svarþjóna til að staðfesta gildi núverandi skílríkja
     .accesskey = T
+certificate-button =
+    .label = Sýsla með skilríki…
+    .accesskey = m
+security-devices-button =
+    .label = Öryggistæki…
+    .accesskey = g
 
 ## Chat Tab
 
@@ -519,6 +610,15 @@ chat-custom-sound-label =
 chat-browse-sound-button =
     .label = Velja…
     .accesskey = V
+theme-label =
+    .value = Þema:
+    .accesskey = e
+style-thunderbird =
+    .label = Thunderbird
+style-dark =
+    .label = Dökkt
+style-paper =
+    .label = Pappírsblöð
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
