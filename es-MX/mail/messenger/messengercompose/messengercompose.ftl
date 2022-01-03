@@ -35,6 +35,9 @@ ctrl-cmd-shift-pretty-prefix =
     }
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+toolbar-button-add-attachment =
+    .label = Adjuntar
+    .tooltiptext = Agregar un adjunto ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 add-attachment-notification-reminder =
     .label = Agregar un archivo adjunto…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
