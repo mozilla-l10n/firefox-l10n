@@ -170,9 +170,14 @@ account-setup-outgoing-server-legend = Póstþjónn út
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Skynja sjálfkrafa
+ssl-no-authentication-option = Engin auðkenning
+ssl-cleartext-password-option = Venjulegt lykilorð
+ssl-encrypted-password-option = Dulritað lykilorð
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = Ekkert
 account-setup-auth-label = Auðkenningaraðferð:
 account-setup-username-label = Notandanafn:
 account-setup-advanced-setup-button = Ítarleg uppsetning
@@ -190,12 +195,18 @@ account-setup-warning-cleartext-details = Óöruggir póstþjónar nota ekki dul
 account-setup-insecure-server-checkbox = Ég skil áhættuna
     .accesskey = k
 account-setup-insecure-description = { -brand-short-name } getur getr þér kleift að komast í póstinn þinn með því að nota meðfylgjandi stillingar. Hinsvegar ættir þú að hafa samband við kerfisstjórann þinn eða tölvupóstveitu varðandi þessar óviðeigandi tengingar. Skoðaðu <a data-l10n-name="thunderbird-faq-link">Algengar spurningar um Thunderbird</a> til að sjá nánari upplýsingar.
+insecure-dialog-cancel-button = Sýsla með stillingar
+    .accesskey = S
+insecure-dialog-confirm-button = Staðfesta
+    .accesskey = f
 
 ## Warning Exchange confirmation dialog
 
 # Variables:
 #  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
 exchange-dialog-question = { -brand-short-name } fann uppsetningarupplýsingar reikningsins þíns á { $domain }. Viltu halda áfram og senda inn auðkennin þín?
+exchange-dialog-confirm-button = Innskráning
+exchange-dialog-cancel-button = Hætta við
 
 ## Dismiss account creation dialog
 
@@ -243,6 +254,11 @@ account-setup-connect-all-address-books = Tengja allar nafnaskrár
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Tengja dagatal
+calendar-dialog-cancel-button = Hætta við
+    .accesskey = H
+calendar-dialog-confirm-button = Tengja
+    .accesskey = n
 account-setup-calendar-name-label = Nafn
 account-setup-calendar-name-input =
     .placeholder = Dagatalið mitt
