@@ -7,12 +7,12 @@
 <!ENTITY prefReceipts.caption         "Potvrdenia o prečítaní">
 <!ENTITY requestReceipt.label         "Pri odosielaní správy vždy žiadať potvrdenie o prečítaní">
 <!ENTITY requestReceipt.accesskey     "s">
-<!ENTITY receiptArrive.label          "Ak príde potvrdenie:">
+<!ENTITY receiptArrive.label          "Keď príde potvrdenie o prečítaní:">
 <!ENTITY leaveIt.label                "Nechať ho v priečinku &quot;Doručená pošta&quot;">
 <!ENTITY leaveIt.accesskey            "e">
 <!ENTITY moveToSent.label             "Presunúť ho do priečinka &quot;Odoslaná pošta&quot;">
 <!ENTITY moveToSent.accesskey         "r">
-<!ENTITY requestMDN.label             "Ak prijatá správa obsahuje žiadosť o potvrdenie o prečítaní:">
+<!ENTITY requestMDN.label             "Ak prijatá správa požaduje potvrdenie o prečítaní:">
 <!ENTITY returnSome.label             "Posielať potvrdenia pre správy nasledovne:">
 <!ENTITY returnSome.accesskey         "o">
 <!ENTITY never.label                  "Nikdy neposielať potvrdenie">
