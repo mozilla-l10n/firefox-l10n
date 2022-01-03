@@ -9,6 +9,8 @@ search-header =
 search-header-shortcut =
     .key = f
 list-empty-get-extensions-message = Hanki laajennukset ja teemat osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Hanki sanastot osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Hanki kielipaketit osoitteesta <a data-l10n-name="get-extensions">{ $domain }</a>
 list-empty-installed =
     .value = Tämäntyyppisiä lisäosia ei ole asennettuna
 list-empty-available-updates =

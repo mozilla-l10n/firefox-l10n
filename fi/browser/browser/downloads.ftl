@@ -193,6 +193,7 @@ downloads-files-not-downloaded =
        *[other] { $num } tiedostoa ei ladattu.
     }
 downloads-blocked-from-url = Lataukset estetty osoitteesta { $url }.
+downloads-blocked-download-detailed-info = { $url } yritti ladata automaattisesti useita tiedostoja. Sivusto saattaa olla rikki tai se yrittää tallentaa tarpeettomia roskatiedostoja laitteellesi.
 
 ##
 

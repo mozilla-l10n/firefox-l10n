@@ -62,6 +62,7 @@ about-processes-unknown-process = Muu: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, suuri)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, lähteet eristetty toisistaan)
 about-processes-web-isolated-process-private = { $origin } — yksityinen ({ $pid })
