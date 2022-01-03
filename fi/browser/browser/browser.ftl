@@ -738,6 +738,19 @@ picture-in-picture-hide-toggle =
     .label = Piilota kuva kuvassa -kytkin
     .accesskey = P
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+picture-in-picture-move-toggle-right =
+    .label = Siirrä kuva kuvassa -kytkin oikealle puolelle
+    .accesskey = o
+picture-in-picture-move-toggle-left =
+    .label = Siirrä kuva kuvassa -kytkin vasemmalle puolelle
+    .accesskey = v
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
