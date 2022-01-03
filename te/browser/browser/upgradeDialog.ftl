@@ -9,6 +9,7 @@
 ## New changes screen
 
 upgrade-dialog-new-item-tabs-title = అధునాతన ట్యాబులు
+upgrade-dialog-new-primary-default-button = { -brand-short-name }‌ను నా అప్రమేయ విహారిణిగా చేయి
 upgrade-dialog-new-primary-theme-button = ఒక అలంకారాన్ని ఎంచుకోండి
 upgrade-dialog-new-secondary-button = ఇప్పుడు కాదు
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -40,6 +41,7 @@ upgrade-dialog-start-secondary-button = ఇప్పుడు కాదు
 ## Colorway screen
 
 upgrade-dialog-colorway-default-theme = అప్రమేయం
+upgrade-dialog-theme-primary-button = అలంకారాన్ని భద్రపరుచు
 upgrade-dialog-theme-secondary-button = ఇప్పుడు కాదు
 
 ## Thank you screen
