@@ -114,6 +114,8 @@ remove-search-engine =
     .label = Fjarlægja
     .accesskey = j
 add-opensearch-provider-title = Bæta við OpenSearch þjónustuveitu
+adding-opensearch-provider-failed-title = Mistókst að bæta við OpenSearch þjónustuveitu
+adding-opensearch-provider-failed-text = Gat ekki bætt við OpenSearch þjónustu fyrir { $url }.
 new-message-arrival = Þegar nýr póstur er móttekin:
 mail-play-sound-label =
     .label =
@@ -229,6 +231,9 @@ diskspace-legend = Diskpláss
 offline-compact-folder =
     .label = Þjappa öllum möppum þegar vistað er yfir
     .accesskey = a
+offline-compact-folder-automatically =
+    .label = Spyrja í hvert skipti fyrir þjöppun
+    .accesskey = p
 compact-folder-size =
     .value = MB alls
 
@@ -243,6 +248,9 @@ use-cache-after = MB af plássi fyrir flýtiminni
 
 ##
 
+smart-cache-label =
+    .label = Hunsa sjálfvirka umsýslu skyndiminnis
+    .accesskey = n
 clear-cache-button =
     .label = Hreinsa núna
     .accesskey = H
@@ -288,6 +296,8 @@ smaller-size-item =
 quoted-text-color =
     .label = Litur:
     .accesskey = L
+search-handler-table =
+    .placeholder = Sía efnistegundir og aðgerðir
 type-column-header = Efnistegund
 action-column-header = Aðgerð
 save-to-label =
