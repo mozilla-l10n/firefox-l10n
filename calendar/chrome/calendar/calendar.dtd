@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Vytvoriť novú udalosť" >
 <!ENTITY calendar.newtask.button.tooltip          "Vytvoriť novú úlohu" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Úlohy" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobraziť dokončené úlohy">
 
 <!ENTITY calendar.today.button.label          "Dnes">
@@ -88,8 +86,6 @@
 
 <!ENTITY calendar.newevent.button.label         "Nová udalosť" >
 <!ENTITY calendar.newtask.button.label          "Nová úloha" >
-<!ENTITY calendar.print.button.label            "Tlačiť" >
-<!ENTITY calendar.print.button.accesskey        "T">
 
 <!ENTITY calendar.day.button.label              "Deň" >
 <!ENTITY calendar.week.button.label             "Týždeň" >
@@ -191,7 +187,7 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Predbežne prijaté">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "e">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Odmietnuté">
-<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "m">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "n">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Účasťou bol poverený niekto iný">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Stále vyžaduje akciu">
@@ -355,7 +351,6 @@
 <!ENTITY calendarproperties.color.label                    "Farba:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formát:">
 <!ENTITY calendarproperties.location.label                 "Umiestnenie:">
 <!ENTITY calendarproperties.refreshInterval.label          "Obnoviť kalendár:">
@@ -364,7 +359,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Iba na čítanie">
 <!ENTITY calendarproperties.firealarms.label               "Zobraziť upozornenia">
 <!ENTITY calendarproperties.cache3.label                   "Podpora pre režim offline">
-<!ENTITY calendarproperties.enabled.label                  "Zapnúť tento kalendár">
 <!ENTITY calendarproperties.enabled2.label                 "Povoliť tento kalendár">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskytovateľ tohto kalendára nebol nájdený. Toto sa často stáva, ak zakážete alebo odinštalujte určité rozšírenia.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odhlásiť sa">
@@ -380,23 +374,6 @@
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Výber kalendára">
-
-<!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Tlač kalendára">
-<!ENTITY calendar.print.title.label "Názov">
-<!ENTITY calendar.print.layout.label "Rozmiestnenie">
-<!ENTITY calendar.print.range.label "Rozsah tlače">
-<!ENTITY calendar.print.currentView2.label "Aktuálne zobrazenie">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Označené udalosti/úlohy">
-<!ENTITY calendar.print.tasks.label "Úlohy">
-<!ENTITY calendar.print.events.label "Udalosti">
-<!ENTITY calendar.print.custom.label "Vlastné:">
-<!ENTITY calendar.print.from.label "Od:">
-<!ENTITY calendar.print.to.label "Do:">
-<!ENTITY calendar.print.settingsGroup.label "Nastavenia tlače">
-<!ENTITY calendar.print.optionsGroup.label "Možnosti">
-<!ENTITY calendar.print.taskswithnoduedate.label "Úlohy bez termínu ukončenia">
-<!ENTITY calendar.print.completedtasks.label "Dokončené úlohy">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Podrobnosti…">
