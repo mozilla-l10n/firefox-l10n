@@ -4,9 +4,13 @@
 
 preferences-doc-title = Kjörstillingar
 preferences-doc-title2 = Stillingar
+pane-general-title = Almennt
+category-general =
+    .tooltiptext = { pane-general-title }
 pane-compose-title = Samsetning
 category-compose =
     .tooltiptext = Samsetning
+pane-privacy-title = Friðhelgi og öruggi
 pane-chat-title = Spjall
 category-chat =
     .tooltiptext = Spjall
@@ -14,6 +18,8 @@ pane-calendar-title = Dagatal
 category-calendar =
     .tooltiptext = Dagatal
 composition-addressing-header = Póstföng
+chat-pane-header = Spjall
+chat-pane-styling-header = Stíll
 choose-messenger-language-description = Veldu tungumálin til að nota til að birta valmyndir, skilaboð og tilkynningar frá { -brand-short-name }.
 confirm-messenger-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
 confirm-messenger-language-change-button = Virkja og endurræsa
