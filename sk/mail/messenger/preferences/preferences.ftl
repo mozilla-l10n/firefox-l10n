@@ -129,7 +129,7 @@ adding-opensearch-provider-failed-text = Nepodarilo sa pridať poskytovateľa Op
 minimize-to-tray-label =
     .label = Ak je { -brand-short-name } minimalizovaný, presunúť ho oblasti oznámení
     .accesskey = m
-new-message-arrival = Pri prijatí novej správy
+new-message-arrival = Pri prijatí novej správy:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
