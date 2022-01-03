@@ -25,6 +25,7 @@ upgrade-dialog-pin-secondary-button = ఇప్పుడు కాదు
 
 ## Default browser screen
 
+upgrade-dialog-default-primary-button-2 = అప్రమేయ విహరిణిగా చేయి
 upgrade-dialog-default-secondary-button = ఇప్పుడు కాదు
 
 ## Theme selection screen
@@ -32,10 +33,15 @@ upgrade-dialog-default-secondary-button = ఇప్పుడు కాదు
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = జీవితం రంగులమయం
 upgrade-dialog-start-secondary-button = ఇప్పుడు కాదు
 
 ## Colorway screen
 
+upgrade-dialog-colorway-default-theme = అప్రమేయం
+upgrade-dialog-theme-secondary-button = ఇప్పుడు కాదు
 
 ## Thank you screen
 
+upgrade-dialog-thankyou-primary-button = విహరించడం మొదలుపెట్టండి

@@ -7,3 +7,5 @@
 ### feature.
 
 about-unloads-column-priority = ప్రాధాన్యత
+about-unloads-column-host = ఆతిథేయి
+about-unloads-column-last-accessed = చివరిగా చూసినది
