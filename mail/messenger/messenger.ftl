@@ -153,6 +153,7 @@ message-header-address-not-in-address-book-icon =
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Fjarlægja { $name }?
 addon-removal-confirmation-button = Fjarlægja
+addon-removal-confirmation-message = Fjarlægja { $name } sem og uppsetningu þess og gögn úr { -brand-short-name }?
 caret-browsing-prompt-title = Vafra með bendli
 caret-browsing-prompt-text = Með því að ýta á F7 er virkjað eða slökkt á að vafra með bendli. Þessi aðgerð bætir hreyfanlegum bendli inn á vefsíður, sem gerir þér kleift að velja texta með lyklaborðinu. Viltu virkja vafur með bendli?
 caret-browsing-prompt-check-text = Ekki spyrja aftur.
@@ -163,7 +164,9 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Ekki stuðningur við svar
+no-reply-message = Svarpóstfangið ({ $email }) virðist ekki vera pósttfang sem fylgst er með. Skilaboð á þetta póstfang verða líklega ekki lesin af neinum.
 no-reply-reply-anyway-button = Svara samt
 
 ## error messages
 
+decrypt-and-copy-failures = Ekki var hægt að afkóða { $failures } af { $total } skilaboðum og þau voru ekki afrituð.

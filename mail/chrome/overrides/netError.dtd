@@ -159,6 +159,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
 <!ENTITY xfoBlocked.title "Lokað fyrir af X-Frame-Options reglunni">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur X-Frame-Options öryggisreglu sem bannar það.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Villa skemmd gögn">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við eiganda vefsvæðisins til að láta vita af vandamálinu.</li></ul>">
@@ -187,5 +188,7 @@ functionality specific to thunderbird. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notar öryggistækni sem er úrelt og er ekki örugg. Árásaraðili gæti auðveldlega náð í upplýsingar sem þú gætir talið að væru öruggar. Kerfisstjóri þarf að lagfæra netþjóninn áður áður en þú getur heimsótt vefsvæðið.</p><p>Villukóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Lokuð síða">
 
+<!ENTITY networkProtocolError.title "Villa í netsamskiptum">
 <!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að birta síðuna sem þú ert að reyna að skoða vegna þess að villa í netkerfisreglunni fannst.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að upplýsa þá um þetta vandamál.</li></ul>">
