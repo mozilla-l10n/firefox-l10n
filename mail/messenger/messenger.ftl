@@ -46,10 +46,10 @@ redirect-msg-button =
 ## Folder Pane
 
 folder-pane-toolbar =
-    .toolbarname = Verkfæraslá möppuglugga
+    .toolbarname = Verkfæraslá möppuspjalds
     .accesskey = F
 folder-pane-toolbar-options-button =
-    .tooltiptext = Valkostir möppuglugga
+    .tooltiptext = Valkostir möppuspjalds
 folder-pane-header-label = Möppur
 
 ## Folder Toolbar Header Popup
