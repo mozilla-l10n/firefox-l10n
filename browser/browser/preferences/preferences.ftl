@@ -206,6 +206,7 @@ confirm-browser-language-change-button = Staðfesta og endurræsa
 translate-web-pages =
     .label = Þýða innihald vefsíðu
     .accesskey = Þ
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Þýtt af <img data-l10n-name="logo"/>
@@ -279,6 +280,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Nota { $plugin-name } (í { -brand-short-name })
+applications-open-inapp =
+    .label = Opna í { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -290,12 +293,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -320,10 +327,22 @@ update-application-check-choose =
 update-application-manual =
     .label = Aldrei athuga með uppfærslur (ekki mælt með)
     .accesskey = l
+update-application-background-enabled =
+    .label = Þegar { -brand-short-name } er ekki í gangi
+    .accesskey = g
 update-application-warning-cross-user-setting = Þessi stilling mun eiga við alla Windows-reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
 update-application-use-service =
     .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
     .accesskey = b
+update-setting-write-failure-title2 = Villa við að vista uppfærslustillingar
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } rakst á villu og vistaði ekki þessa breytingu. Athugaðu að til að stilla þennan uppfærsluvalkost þarf heimild til að skrifa í skrána hér að neðan. Þú eða kerfisstjóri gætuð leyst vandamálið með því að veita users-hópnum fulla stjórn á þessari skrá.
+    
+    Gat ekki skrifað í skrána: { $path }
 update-in-progress-title = Uppfærsla í vinnslu
 update-in-progress-message = Viltu að { -brand-short-name } framkvæmi þessa uppfærslu?
 update-in-progress-ok-button = &Henda
@@ -369,6 +388,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Leita í texta þegar byrjað er að slá inn orð
     .accesskey = L
+browsing-picture-in-picture-learn-more = Fræðast meira
+browsing-media-control-learn-more = Fræðast meira
 browsing-cfr-recommendations =
     .label = Viðbætur sem mælt er með til að vafra
     .accesskey = R
