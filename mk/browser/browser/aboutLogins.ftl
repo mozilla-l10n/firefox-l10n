@@ -137,11 +137,17 @@ confirm-discard-changes-dialog-confirm-button = Отфрли
 
 ## Breach Alert notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Појди до { $hostname }
 about-logins-breach-alert-learn-more-link = Дознајте повеќе
 
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ранлива лозинка
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Појди до { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Дознајте повеќе
 
 ## Error Messages
@@ -159,6 +165,7 @@ about-logins-import-file-picker-import-button = Увези
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Увозот заврши
 about-logins-import-dialog-done = Готово
 about-logins-import-dialog-error-learn-more = Дознајте повеќе
 about-logins-import-dialog-error-cancel = Откажи
