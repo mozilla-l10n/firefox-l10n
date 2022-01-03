@@ -23,9 +23,9 @@
 <!ENTITY radioAskUnsent.accesskey         "a">
 <!ENTITY textGoingOffline                 "Pri prechode do režimu offline sťiahnuť správy na použitie v tomto režime?">
 <!ENTITY radioAutoDownload                "Áno, stiahnuť">
-<!ENTITY radioAutoDownload.accesskey      "z">
+<!ENTITY radioAutoDownload.accesskey      "s">
 <!ENTITY radioNotDownload                 "Nie, nesťahovať">
-<!ENTITY radioNotDownload.accesskey       "b">
+<!ENTITY radioNotDownload.accesskey       "n">
 <!ENTITY radioAskDownload                 "Vždy sa opýtať">
 <!ENTITY radioAskDownload.accesskey       "t">
 <!ENTITY mailConnections.caption          "Pripojenie k poštovému serveru">
