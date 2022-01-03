@@ -837,7 +837,7 @@
 <!ENTITY contextMute.label "Stlmiť">
 <!ENTITY contextMute.accesskey "m">
 <!ENTITY contextUnmute.label "Zapnúť zvuk">
-<!ENTITY contextUnmute.accesskey "m">
+<!ENTITY contextUnmute.accesskey "Z">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
