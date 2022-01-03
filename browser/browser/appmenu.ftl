@@ -206,6 +206,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Ustawienie do badania błędów dźwięku i obrazu w programie { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimedia
+profiler-popup-presets-networking-description = Ustawienie do badania błędów sieciowych w programie { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Sieć
 profiler-popup-presets-custom-label =
     .label = Inne
 

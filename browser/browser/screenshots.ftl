@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Skopiuj zrzut ekranu do schowka
 screenshots-cancel-button-title =
     .title = Anuluj
+screenshots-retry-button-title =
+    .title = Ponów zrzut ekranu
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
