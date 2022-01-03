@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] á klukkustundar fresti
            *[other] á { $hours } klukkustunda fresti
         }
+carddav-readonly-label =
+    .label = Skrifvarið
+    .accesskey = r
