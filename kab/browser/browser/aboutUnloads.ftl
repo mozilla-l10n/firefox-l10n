@@ -7,6 +7,9 @@
 ### feature.
 
 about-unloads-page-title = Asefsex n usali n yiccer
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = Wali ammagrad <a data-l10n-name="doc-link">Tab Unloading</a> i wakken ad tissineḍ ugar
 about-unloads-last-updated = Aleqqem anaggaru: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = Tazwart
 about-unloads-column-host = Asenneftaɣ
