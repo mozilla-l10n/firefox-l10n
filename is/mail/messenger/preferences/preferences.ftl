@@ -396,6 +396,9 @@ font-label =
 font-size-label =
     .value = Stærð:
     .accesskey = t
+default-colors-label =
+    .label = Nota sjálfgefna liti lesandans
+    .accesskey = l
 font-color-label =
     .value = Stilla lit texta:
     .accesskey = x
@@ -501,6 +504,7 @@ passwords-description = { -brand-short-name } getur munað öll þín lykilorð 
 passwords-button =
     .label = Vistuð lykilorð…
     .accesskey = V
+primary-password-description = Aðallykilorð verndar öll lykilorðin þín, en þú verður að setja það inn einu sinni í hverri setu.
 primary-password-label =
     .label = Nota aðallykilorð
     .accesskey = o
@@ -595,6 +599,17 @@ notification-name =
     .label = aðeins með nafni sendanda
 notification-empty =
     .label = án upplýsinga
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Blikka táknmynd á verkefnastiku
+           *[other] Blikka táknmynd á verkfæraslá
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] F
+        }
 chat-play-sound-label =
     .label = Spila hljóð
     .accesskey = ð
@@ -615,10 +630,20 @@ theme-label =
     .accesskey = e
 style-thunderbird =
     .label = Thunderbird
+style-bubbles =
+    .label = Bólur
 style-dark =
     .label = Dökkt
 style-paper =
     .label = Pappírsblöð
+style-simple =
+    .label = Einfalt
+preview-label = Forskoðun:
+no-preview-label = Forskoðun ekki tiltæk
+no-preview-description = Þetta þema er ekki gilt eða er ekki tiltækt í augnablikinu (slökkt á viðbót, öruggur hamur, …).
+chat-variant-label =
+    .value = Tilbrigði:
+    .accesskey = T
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -647,10 +672,17 @@ search-preferences-input2 =
 
 ## Settings UI Search Results
 
+search-results-header = Leitarniðurstöður
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
         [windows] Því miður! Engar niðurstöður eru til í valkostum fyrir “<span data-l10n-name="query"></span>”.
        *[other] Því miður! Engar niðurstöður eru til í kjörstillingum fyrir “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Því miður! Engar niðurstöður eru til í stillingum fyrir “<span data-l10n-name="query"></span>”.
+       *[other] Því miður! Engar niðurstöður eru til í stillingum fyrir “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Þarftu aðstoð? Skoðaðu <a data-l10n-name="url">{ -brand-short-name } hjálparsvæðið</a>
