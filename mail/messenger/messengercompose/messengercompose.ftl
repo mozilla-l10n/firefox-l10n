@@ -45,10 +45,23 @@ pill-action-expand-list =
 
 ## Attachment widget
 
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
 menuitem-toggle-attachment-pane =
     .label = Viðhengjaspjald
     .accesskey = h
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Hengja við
+    .tooltiptext = Bæta við viðhengi ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Bæta við viðhengi...
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 expand-attachment-pane-tooltip =
     .tooltiptext = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =

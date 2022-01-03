@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Tölvupóstskilaboð
 progress-pane-title = Flyt inn
 progress-pane-restart-desc = Endurræstu til að ljúka innflutningi.
 error-pane-title = Villa
+error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
+error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
+error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar í villuborðinu.
