@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = Minimalizuj
+messenger-window-maximize-button =
+    .tooltiptext = Maksymalizuj
+messenger-window-restore-down-button =
+    .tooltiptext = Przywróć w dół
+messenger-window-close-button =
+    .tooltiptext = Zamknij
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -100,15 +111,26 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Przekieruj
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Usuń wiadomość
+           *[other] Usuń zaznaczone wiadomości
+        }
+context-menu-decrypt-to-folder =
+    .label = Kopiuj jako odszyfrowane do
+    .accesskey = o
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Przekieruj
-message-header-msg-is-flagged =
-    .title = Wiadomość oznaczona gwiazdką
+message-header-msg-flagged =
+    .title = Z gwiazdką
+    .aria-label = Z gwiazdką
 message-header-msg-not-flagged =
-    .title = Wiadomość nieoznaczona gwiazdką
+    .title = Bez gwiazdki
+    .aria-label = Bez gwiazdki
 
 ## Action Button Context Menu
 
@@ -145,3 +167,7 @@ repair-text-encoding-button =
 no-reply-title = Odpowiedź nie jest obsługiwana
 no-reply-message = Adres odpowiedzi ({ $email }) nie wydaje się być adresem monitorowanym. Wiadomości na ten adres prawdopodobnie nie zostaną przez nikogo przeczytane.
 no-reply-reply-anyway-button = Odpowiedz mimo to
+
+## error messages
+
+decrypt-and-copy-failures = Nie udało się odszyfrować { $failures } z { $total } wiadomości i nie zostały one skopiowane.
