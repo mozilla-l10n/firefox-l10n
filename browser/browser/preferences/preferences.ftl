@@ -951,6 +951,8 @@ content-blocking-fingerprinters = Yksilöijät
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Testaa kaikkien aikojen tehokkainta yksityisyyttä varjelevaa ominaisuuttamme
     .accesskey = T
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Totaalinen evästesuoja eristää evästeet sivustolle, jolla olet, joten seuraimet eivät voi käyttää niitä seurantaan sivustojen välillä.
 content-blocking-etp-standard-tcp-rollout-learn-more = Lue lisää
 content-blocking-warning-title = Huomio!
 content-blocking-and-isolating-etp-warning-description = Seurainten estäminen ja evästeiden eristäminen saattaa vaikuttaa joidenkin sivustojen toimivuuteen. Lataa sivu uudelleen seurainten kera ladataksesi kaiken sisällön.
