@@ -86,11 +86,18 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } del campo ({ bcc-compose-show-address-row-menuitem.acceltext })
 to-address-row-label =
     .value = Para
+many-public-recipients-ignore =
+    .label = Mantener públicos a los destinatarios
+    .accesskey = M
+many-public-recipients-prompt-title = Demasiados destinatarios públicos
 many-public-recipients-prompt-cancel = Cancelar envío
 many-public-recipients-prompt-send = Enviar de todos modos
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = No se encontró una identidad única que coincida con la dirección del remitente. El mensaje se enviará usando el remitente actual y la configuración de la identidad { $identity }.
 encrypted-bcc-ignore-button = Entendido
 
 ## Editing
@@ -103,3 +110,15 @@ compose-tool-button-remove-text-styling =
 
 ## FileLink messages
 
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = No se pudo cargar { $filename } a { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Error al renombrar
+cloud-file-rename-error = Hubo un problema al cambiar el nombre de { $filename } en { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = No se pudo renombrar { $filename } en { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } no admite el cambio de nombre de archivos ya cargados.
