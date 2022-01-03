@@ -17,4 +17,5 @@ count-unread-messages-radio =
 count-new-messages-radio =
     .label = Fjöldi nýrra pósta
     .accesskey = n
-notification-settings-info = Þú getur gert badge óvirkt á tilkynningarflipa í kerfisstillingum.
+notification-settings-info = Þú getur gert merkið óvirkt á tilkynningaspjaldi í kerfisstillingum.
+notification-settings-info2 = Þú getur gert merkið óvirkt á tilkynningaspjaldi í kerfisstillingum.

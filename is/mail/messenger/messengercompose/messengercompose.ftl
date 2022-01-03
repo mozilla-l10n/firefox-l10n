@@ -60,6 +60,17 @@ attachment-area-hide =
 
 ## Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Færa fremst
+move-attachment-left-panel-button =
+    .label = Færa til vinstri
+move-attachment-right-panel-button =
+    .label = Færa til hægri
+move-attachment-last-panel-button =
+    .label = Færa aftast
+button-return-receipt =
+    .label = Leskvittun
+    .tooltiptext = Biðja um leskvittun fyrir þessi skilaboð
 
 ## Encryption
 

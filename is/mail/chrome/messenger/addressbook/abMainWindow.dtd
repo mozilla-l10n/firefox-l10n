@@ -77,9 +77,9 @@
 <!ENTITY customizeToolbar.accesskey                     "S">
 <!ENTITY layoutMenu.label                               "Útlit">
 <!ENTITY layoutMenu.accesskey                           "l">
-<!ENTITY showDirectoryPane.label                        "Möppuflipi">
+<!ENTITY showDirectoryPane.label                        "Möppuspjald">
 <!ENTITY showDirectoryPane.accesskey                    "ö">
-<!ENTITY showContactPane2.label                         "Tengiliðaflipi">
+<!ENTITY showContactPane2.label                         "Tengiliðaspjald">
 <!ENTITY showContactPane2.accesskey                     "T">
 <!ENTITY menu_ShowNameAs.label                          "Sýna nafn sem">
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
