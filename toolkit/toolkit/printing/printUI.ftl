@@ -20,6 +20,8 @@ printui-destination-pdf-label = Зачувај како PDF
 printui-more-settings = Повеќе поставки
 # Section title (noun) for the print scaling options
 printui-scale = Големина
+# Section title for miscellaneous print options
+printui-options = Опции
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
@@ -28,11 +30,20 @@ printui-scale = Големина
 
 ##
 
+printui-color-mode-color = Боја
+printui-color-mode-bw = Црно и бело
+printui-margins = Маргини
+printui-margins-min = Минимум
+printui-margins-custom-bottom = Дно
 printui-margins-custom-left = Лево
 printui-primary-button = Печати
 printui-primary-button-save = Сними
 printui-cancel-button = Откажи
 printui-close-button = Затвори
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Преглед за печатење
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Се печати...
