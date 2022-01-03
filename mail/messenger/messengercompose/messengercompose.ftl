@@ -62,6 +62,25 @@ toolbar-button-add-attachment =
 add-attachment-notification-reminder =
     .label = Bæta við viðhengi...
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Bæta við viðhengi...
+    .accesskey = a
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Skrá(r)...
+    .accesskey = k
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Hengja við skrá(r)...
+    .accesskey = H
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count =
+    { $count ->
+        [1] { $count } viðhengi
+        [one] { $count } viðhengi
+       *[other] { $count } viðhengi
+    }
 expand-attachment-pane-tooltip =
     .tooltiptext = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
@@ -70,6 +89,16 @@ attachment-area-show =
     .title = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
     .title = Fela viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Bæta við sem viðhengi
+       *[other] Bæta við sem viðhengjum
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Setja inn í línu
+       *[other] Setja inn í línu
+    }
 
 ## Reorder Attachment Panel
 
@@ -87,6 +116,10 @@ button-return-receipt =
 
 ## Encryption
 
+message-to-be-signed-icon =
+    .alt = Undirrita skilaboð
+message-to-be-encrypted-icon =
+    .alt = Dulrita skilaboð
 
 ## Addressing Area
 
@@ -201,6 +234,20 @@ encrypted-bcc-ignore-button = Skilið
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Fjarlægja stíl texta
 
 ## FileLink messages
 
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Innsending á { $filename } til { $provider } mistókst
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Villa við endurnefningu
+cloud-file-rename-error = Vandamál kom upp við að endurnefna { $filename } á { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Mistókst að endurnefna { $filename } á { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } styður ekki að endurnefna skrár sem þegar hafa verið sendar inn.
