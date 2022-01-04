@@ -387,6 +387,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Шумораи ҳадди аксари равандҳои муҳтаво
     .accesskey = Ш
+performance-limit-content-process-enabled-desc = Равандҳои иловагии муҳтаво ҳангоми кор бо варақаҳои сершумор метавонанд самаранокиро беҳтар кунанд, аммо инчунин ҳофизаи бештарро истифода мебаранд.
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
