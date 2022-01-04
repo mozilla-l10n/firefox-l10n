@@ -388,6 +388,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Шумораи ҳадди аксари равандҳои муҳтаво
     .accesskey = Ш
 performance-limit-content-process-enabled-desc = Равандҳои иловагии муҳтаво ҳангоми кор бо варақаҳои сершумор метавонанд самаранокиро беҳтар кунанд, аммо инчунин ҳофизаи бештарро истифода мебаранд.
+performance-limit-content-process-blocked-desc = Иваз кардани шумораи равандҳои муҳтаво танҳо бо { -brand-short-name }-и серраванд имконпазир аст. <a data-l10n-name="learn-more">Барои санҷидани фаъол ё ғайрифаъол будани серравандӣ маълумот гиред</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -495,6 +496,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = Аз тарафи { $provider } тавсия карда мешавад
+home-prefs-recommended-by-description-update = Муҳтавои мустасно аз Интернет, ки аз тарафи { $provider } интихоб карда шудааст
+home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
 
 ##
 
