@@ -13,9 +13,11 @@
 policy-3rdparty = Stilla stefnur sem WebExtensions hafa aðgang að í gegnum chrome.storage.managed.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsvæði sem styðja slíkt.
 policy-BlockAboutAddons = Loka á aðgang að viðbótastýringunni (about:addons).
+policy-BlockAboutProfiles = Loka aðgangi að about:profiles síðu.
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
 policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
+policy-DisableProfileImport = Slökkva á valmyndarskipuninni til að flytja inn gögn úr öðru forriti.
 policy-DisableSecurityBypass = Koma í veg fyrir að notandinn fari framhjá ákveðnum öryggisaðvörunum.
 policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } setji upp og uppfæri kerfisviðbætur.
 policy-DisableTelemetry = Slökkva á gagnasöfnun.
