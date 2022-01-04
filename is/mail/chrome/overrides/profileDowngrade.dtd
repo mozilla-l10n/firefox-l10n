@@ -12,6 +12,7 @@
 <!ENTITY window.title "Þú hefur ræst eldri útgáfu af &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "Nýrri útgáfa af &brandProductName; gæti hafa gert breytingar á notandasniðinu þínu sem eru ekki lengur samhæfar við þessa eldri útgáfu. Notaðu þetta notandasnið aðeins með nýrri útgáfunni, eða búðu til nýtt notandasnið fyrir þessa uppsetningu á &brandShortName;. Þegar nýtt notandasnið er útbúið, þarf að setja aftur upp reikninga, dagatöl og viðbætur.">
 
 <!ENTITY window.moreinfo "Nánari upplýsingar…">
 <!ENTITY window.create "Útbúa nýjan notanda">
