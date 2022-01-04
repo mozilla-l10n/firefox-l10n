@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-advanced-section = Ítarlegar stillingar
 openpgp-key-user-id-label = Reikningur / Notandaauðkenni
 openpgp-key-gen-expire-label = Lykill rennur út eftir
 openpgp-generate-key =

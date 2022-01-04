@@ -39,5 +39,5 @@
 <!ENTITY input.namePlaceholder "Nafnið þitt, eða gælunafn">
 <!ENTITY input.search "Leita">
 <!ENTITY search_engine.title "Sérsníða leitarvélina">
-<!ENTITY search_engine.message "Þinn þjónustaðili fyrir tölvupóst getur boðið þér upp á leitareiginleika.">
+<!ENTITY search_engine.message "Þjónustaðili þinn fyrir tölvupóst getur boðið þér upp á vefleitareiginleika.">
 <!ENTITY search_engine.button "Ljúka">
