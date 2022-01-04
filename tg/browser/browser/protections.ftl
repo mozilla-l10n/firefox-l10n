@@ -52,7 +52,17 @@ protection-report-passwords-save-passwords-button = Нигоҳ доштани н
     .title = Нигоҳ доштани ниҳонвожаҳо
 protection-report-passwords-manage-passwords-button = Идоракунии ниҳонвожаҳо
     .title = Идоракунии ниҳонвожаҳо
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 ниҳонвожа ба таври бехатар нигоҳ дошта шуд.
+       *[other] Ниҳонвожаҳои шумо ба таври бехатар нигоҳ дошта мешаванд.
+    }
 lockwise-how-it-works-link = Чӣ тавр кор мекунад
+monitor-title = Аздастдиҳии маълумотро пешгирӣ намоед
 monitor-link = Чӣ тавр кор мекунад
 monitor-sign-up-link = Барои огоҳиҳои вайронкунӣ обуна шавед
     .title = Барои огоҳиҳои вайронкунӣ дар { -monitor-brand-name } обуна шавед
