@@ -32,6 +32,7 @@ policy-Extensions = Setja upp, fjarlægja eða læsa viðbótum. Uppsetningarval
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp viðbætur.
+policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku notandasniði fyrir hverja uppsetningu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
