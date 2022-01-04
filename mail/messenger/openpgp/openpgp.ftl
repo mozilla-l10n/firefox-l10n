@@ -147,6 +147,27 @@ openpgp-key-man-ctx-copy-public-keys =
     .accesskey = D
 openpgp-key-man-close =
     .label = Loka
+openpgp-key-man-reload =
+    .label = Endurhlaða skyndiminni lykla
+    .accesskey = r
+openpgp-key-man-change-expiry =
+    .label = Breyta fyrningardagsetningu
+    .accesskey = e
+openpgp-key-man-del-key =
+    .label = Eyða lyklum
+    .accesskey = y
+openpgp-delete-key =
+    .label = Eyða lykli
+    .accesskey = y
+openpgp-key-man-revoke-key =
+    .label = Afturkalla lykil
+    .accesskey = r
+openpgp-key-man-key-props =
+    .label = Eiginleikar lykils
+    .accesskey = k
+openpgp-key-man-key-more =
+    .label = Meira
+    .accesskey = M
 openpgp-key-man-show-invalid-keys =
     .label = Birta ógilda lykla
     .accesskey = B
@@ -169,22 +190,43 @@ openpgp-card-details-close-window-label =
 openpgp-add-key-button =
     .label = Bæta við lykli...
     .accesskey = a
+e2e-learn-more = Fræðast meira
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ekkert
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Rennur út: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Rann út: { $date }
 openpgp-key-expires-within-6-months-icon =
     .title = Lykillinn rennur út eftir innan við 6 mánuði
+openpgp-key-has-expired-icon =
+    .title = Lykill útrunninn
 openpgp-key-expand-section =
     .tooltiptext = Nánari upplýsingar
+openpgp-key-revoke-title = Afturkalla lykil
+openpgp-key-edit-title = Breyta OpenPGP-lykli
+openpgp-key-edit-date-title = Framlengja gildistíma
 openpgp-manager-button =
     .label = OpenPGP lyklastýring
     .accesskey = k
+key-external-label = Utanaðkomandi GnuPG-lykill
 # Strings in keyDetailsDlg.xhtml
 key-type-public = dreifilykill
+key-type-primary = aðallykill
+key-type-subkey = undirlykill
+key-type-pair = lyklapar (einkalykill og dreifilykill)
+key-expiry-never = aldrei
+key-usage-encrypt = Dulrita
+key-usage-sign = Undirrita
+key-usage-certify = Votta
+key-usage-authentication = Auðkenning
+key-does-not-expire = Lykillinn rennur ekki út
+key-expired-date = Lykillinn rann út { $keyExpiry }
+key-expired-simple = Lykillinn er útrunninn
+key-revoked-simple = Lykillinn var afturkallaður
 key-accept-warning = Forðastu að samþykkja hvaða lykil sem er. Notaðu aðra samskiptamáta en tölvupóst til að staðfesta fingrafar lykils viðmælanda þíns.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Hætt við
@@ -209,6 +251,9 @@ import-info-no-keys = Engir lyklar fluttir inn.
 import-from-clip = Viltu flytja inn einhverja lykla af klippispjaldinu?
 copy-to-clipbrd-failed = Gat ekki afritað valda lykla yfir á klippispjaldið.
 copy-to-clipbrd-ok = Lykill/lyklar afritaðir á klippispjald
+preview-failed = Get ekki lesið dreifilykilskrá.
+general-error = Villa: { $reason }
+dlg-button-delete = &Eyða
 
 ## Account settings export output
 
