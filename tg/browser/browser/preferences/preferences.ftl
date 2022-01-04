@@ -360,7 +360,15 @@ update-application-use-service =
     .label = Истифодаи хизмати пасзамина барои насб кардани навсозиҳо
     .accesskey = И
 update-setting-write-failure-title2 = Ҳангоми нигоҳ доштани танзимоти навсозӣ хато ба миён омад
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } бо хато дучор шуд ва ин тағйиротро нигоҳ накард. Ба назар гиред, ки амали тағйирдиҳии ин танзими навсозӣ иҷозатро барои навиштан ба файли зерин талаб мекунад. Шумо ё маъмури низоми шумо метавонед ин хаторо ислоҳ кунед, агар ба гурӯҳи «Корбарон» идоракунии пурраро барои ин файл иҷозат диҳед.
+    Ба файл навиштан муяссар нашуд: { $path }
 update-in-progress-title = Навсозӣ идома дорад
+update-in-progress-message = Оё шумо мехоҳед, ки { -brand-short-name } бо ин навсозӣ идома диҳад?
 update-in-progress-ok-button = &Рад кардан
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -377,6 +385,8 @@ performance-settings-learn-more = Маълумоти бештар
 performance-allow-hw-accel =
     .label = Суръатафзоии сахтафзор ба қадри имкон истифода карда шавад
     .accesskey = r
+performance-limit-content-process-option = Шумораи ҳадди аксари равандҳои муҳтаво
+    .accesskey = Ш
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
