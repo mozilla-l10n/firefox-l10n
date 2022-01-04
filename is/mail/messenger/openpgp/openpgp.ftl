@@ -40,13 +40,64 @@ openpgp-key-man-title =
 openpgp-key-man-generate =
     .label = Nýtt lyklapar
     .accesskey = k
+openpgp-key-man-gen-revoke =
+    .label = Afturköllunarskilríki
+    .accesskey = r
+openpgp-key-man-ctx-gen-revoke-label =
+    .label = Búa til og vista afturköllunarskilríki
+openpgp-key-man-file-menu =
+    .label = Skrá
+    .accesskey = S
+openpgp-key-man-edit-menu =
+    .label = Breyta
+    .accesskey = e
+openpgp-key-man-view-menu =
+    .label = Skoða
+    .accesskey = k
+openpgp-key-man-generate-menu =
+    .label = Útbúa
+    .accesskey = b
+openpgp-key-man-keyserver-menu =
+    .label = Lyklaþjónn
+    .accesskey = k
+openpgp-key-man-import-public-from-file =
+    .label = Flytja inn dreifilykla úr skrá
+    .accesskey = i
+openpgp-key-man-import-secret-from-file =
+    .label = Flytja inn leynilykla úr skrá
+openpgp-key-man-import-sig-from-file =
+    .label = Flytja inn afturköllun (afturkallanir) úr skrá
 openpgp-key-man-import-from-clipbrd =
     .label = Flytja inn lykla af klippispjaldi
     .accesskey = p
+openpgp-key-man-import-from-url =
+    .label = Flytja inn lykla frá vefslóð
+    .accesskey = y
+openpgp-key-man-export-to-file =
+    .label = Flytja dreifilykla út í skrá
+    .accesskey = e
+openpgp-key-man-send-keys =
+    .label = Senda dreifilykla með tölvupósti
+    .accesskey = S
+openpgp-key-man-backup-secret-keys =
+    .label = Öryggisafrita leynilykla í skrá
+    .accesskey = g
 openpgp-key-man-discover-cmd =
     .label = Finna lykla á netinu
     .accesskey = F
 openpgp-key-man-discover-progress = Leitar…
+openpgp-key-copy-key =
+    .label = Afrita dreifilykil
+    .accesskey = f
+openpgp-key-export-key =
+    .label = Flytja dreifilykil út í skrá
+    .accesskey = e
+openpgp-key-backup-key =
+    .label = Öryggisafrita leynilykil í skrá
+    .accesskey = g
+openpgp-key-send-key =
+    .label = Senda dreifilykil með tölvupósti
+    .accesskey = S
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -68,6 +119,11 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Afrita dreifilykla yfir á klippispjald
         }
     .accesskey = d
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Flytja út lykla í skrá
+openpgp-key-man-ctx-copy =
+    .label = Afrita
+    .accesskey = f
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -75,6 +131,22 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Fingraför
         }
     .accesskey = F
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Auðkenni lykils
+           *[other] Auðkenni lykla
+        }
+    .accesskey = k
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Dreifilykill
+           *[other] Dreifilyklar
+        }
+    .accesskey = D
+openpgp-key-man-close =
+    .label = Loka
 openpgp-key-man-show-invalid-keys =
     .label = Birta ógilda lykla
     .accesskey = B
