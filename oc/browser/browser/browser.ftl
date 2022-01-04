@@ -723,7 +723,7 @@ ui-tour-info-panel-close =
 
 popups-infobar-allow =
     .label = Autorizar las fenèstras sorgissentas de { $uriHost }
-    .accesskey = p
+    .accesskey = A
 popups-infobar-block =
     .label = Blocar las fenèstras sorgissentas de { $uriHost }
     .accesskey = p
@@ -732,7 +732,7 @@ popups-infobar-block =
 
 popups-infobar-dont-show-message =
     .label = Afichar pas aqueste messatge quand se blòcan de fenèstras sorgissentas
-    .accesskey = u
+    .accesskey = p
 edit-popup-settings =
     .label = Gerir los paramètres de las popups…
     .accesskey = G
