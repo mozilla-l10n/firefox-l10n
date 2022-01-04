@@ -241,16 +241,37 @@ expiry-keys-expire-soon =
     Eftirfarandi lyklar munu renna út eftir minna en { $days } daga:{ $desc }.
     Við mælum með að þú búir til nýja lykla og stillir samsvarandi reikninga til að nota þá.
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
+# Strings filters.jsm
+filter-folder-required = Þú verður að velja úttaksmöppu.
+filter-term-pgpencrypted-label = OpenPGP-dulritað
+filter-key-not-found = Gat ekki fundið dulritunarlykil fyrir '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
+filter-decrypt-copy-label = Búa til afkóðað afrit (OpenPGP)
 import-info-bits = Bitar
 import-info-created = Búinn til
 import-info-fpr = Fingrafar
 import-info-no-keys = Engir lyklar fluttir inn.
 # Strings in enigmailKeyManager.js
 import-from-clip = Viltu flytja inn einhverja lykla af klippispjaldinu?
+import-from-url = Sækja dreifilykil á þessari slóð:
 copy-to-clipbrd-failed = Gat ekki afritað valda lykla yfir á klippispjaldið.
 copy-to-clipbrd-ok = Lykill/lyklar afritaðir á klippispjald
+delete-pub-key =
+    Viltu eyða dreifilyklinum
+    ‘{ $userId }’?
+delete-selected-pub-key = Viltu eyða dreifilyklunum?
+refresh-all-question = Þú valdir engan lykil. Viltu endurlesa ALLA lykla?
+key-man-button-export-sec-key = Flytja út &einkalykla
+key-man-button-export-pub-key = Flytja einungis út &dreifilykla
+key-man-button-refresh-all = Endu&rlesa alla lykla
+key-man-loading-keys = Hleð inn lyklum, bíddu aðeins...
+ascii-armor-file = ASCII Armored skrár (*.asc)
+export-to-file = Flytja dreifilykil út í skrá
+export-keypair-to-file = Flytja einka- og dreifilykla út í skrá
+save-keys-failed = Vistun á lyklum mistókst!
+default-pub-key-filename = Útfluttir-dreifilyklar
+default-pub-sec-key-filename = Öryggisafrit-einkaykla
 preview-failed = Get ekki lesið dreifilykilskrá.
 general-error = Villa: { $reason }
 dlg-button-delete = &Eyða
