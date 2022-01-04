@@ -30,9 +30,26 @@ account-provisioner-fetching-provisioners = Teenusepakkujate hankimine…
 account-provisioner-connection-issues = Konto loomise serveriga polnud võimalik ühenduda. Palun kontrolli oma internetiühendust.
 account-provisioner-searching-email = Saadaolevate e-posti kontode otsimine…
 account-provisioner-searching-domain = Saadaolevate domeenide otsimine…
+account-provisioner-searching-error = Soovitatavat aadressi polnud võimalik leida. Proovi oma otsingufraasi muuta.
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Loodava konto valimine
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Leiti üks saadaolev aadress:
+       *[other] Leiti { $count } saadaolevat aadressi:
+    }
+account-provisioner-mail-results-caption = Sa võid enamate aadresside leidmiseks proovida otsida hüüdnime või midagi muud.
+account-provisioner-domain-results-caption = Sa võid enamate domeenide leidmiseks proovida otsida hüüdnime või midagi muud.
+account-provisioner-free-account = Vaba
+account-provision-price-per-year = { $price } aastas
+account-provisioner-all-results-button = Kuva kõik tulemused
+account-provisioner-open-in-tab-img =
+    .title = Avaneb uuel kaardil
