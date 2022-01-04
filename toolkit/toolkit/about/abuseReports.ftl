@@ -2,32 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport for { $addon-name }
-
 abuse-report-title-extension = Rapporter denne udvidelse til { -vendor-short-name }
 abuse-report-title-theme = Rapporter dette tema til { -vendor-short-name }
 abuse-report-subtitle = Hvad er problemet?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = af <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
-  Usikker på, hvad du skal vælge?
-  <a data-l10n-name="learnmore-link">Læs mere om at rapportere udvidelser og temaer</a>
-
+    Usikker på, hvad du skal vælge?
+    <a data-l10n-name="learnmore-link">Læs mere om at rapportere udvidelser og temaer</a>
 abuse-report-submit-description = Beskriv problemet (valgfrit)
 abuse-report-textarea =
-  .placeholder = Det er nemmere for os at løse et problem, hvis vi kender detaljerne. Så beskriv præcis, hvad du oplever. Tak for at du hjælper os med at gøre nettet til et bedre sted.
+    .placeholder = Det er nemmere for os at løse et problem, hvis vi kender detaljerne. Så beskriv præcis, hvad du oplever. Tak for at du hjælper os med at gøre nettet til et bedre sted.
 abuse-report-submit-note =
-  Bemærk: Inkluder ikke personlig information (som navn, mailadresse, telefonnummer eller postadresse).
-  { -vendor-short-name } arkiverer disse rapporter uden frist for sletning.
+    Bemærk: Inkluder ikke personlig information (som navn, mailadresse, telefonnummer eller postadresse).
+    { -vendor-short-name } arkiverer disse rapporter uden frist for sletning.
 
 ## Panel buttons.
 
@@ -35,11 +30,6 @@ abuse-report-cancel-button = Annuller
 abuse-report-next-button = Næste
 abuse-report-goback-button = Gå tilbage
 abuse-report-submit-button = Send
-
-## Message bars descriptions.
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
 
 ## Message bars descriptions.
 ##
@@ -68,39 +58,34 @@ abuse-report-messagebar-action-cancel = Fortryd
 
 abuse-report-damage-reason-v2 = Skadede min computer eller kompromitterede mine data
 abuse-report-damage-example = Eksempel: Medførte malware eller stjal data
-
 abuse-report-spam-reason-v2 = Indeholder spam eller indsætter uønskede reklamer
 abuse-report-spam-example = Eksempel: Indsætter reklamer på websider
-
 abuse-report-settings-reason-v2 = Ændrede min søgetjeneste, startside eller siden nyt faneblad ude at informere eller spørge mig først.
 abuse-report-settings-suggestions = Før du rapporterer udvidelsen, kan du prøve at ændre dine indstillinger:
 abuse-report-settings-suggestions-search = Skift dine standard-indstillinger for søgning
 abuse-report-settings-suggestions-homepage = Skift din startside og siden nyt faneblad
-
 abuse-report-deceptive-reason-v2 = Den hævder at være noget, den ikke er
 abuse-report-deceptive-example = Eksempel: Vildledende beskrivelse eller billeder
-
 abuse-report-broken-reason-extension-v2 = Virker ikke, forhindrer websteder i at fungere eller gør { -brand-product-name } langsom
 abuse-report-broken-reason-theme-v2 = Virker ikke eller forhindrer websteder i at blive vist korrekt
-abuse-report-broken-example =
-  Eksempel: Funktioner er langsomme, svære at bruge eller virker slet ikke; dele af websider indlæses ikke eller ser udsædvanlige ud
+abuse-report-broken-example = Eksempel: Funktioner er langsomme, svære at bruge eller virker slet ikke; dele af websider indlæses ikke eller ser udsædvanlige ud
 abuse-report-broken-suggestions-extension =
-  Det lyder til, at du er stødt på en fejl. Udover at rapportere fejlen hér, så er den bedste
-  måde at få rettet funktionelle fejl på at kontakte udvikleren bag udvidelsen.
-  <a data-l10n-name="support-link">Besøg udvidelsens websted</a> for at få information om udvikleren.
+    Det lyder til, at du er stødt på en fejl. Udover at rapportere fejlen hér, så er den bedste
+    måde at få rettet funktionelle fejl på at kontakte udvikleren bag udvidelsen.
+    <a data-l10n-name="support-link">Besøg udvidelsens websted</a> for at få information om udvikleren.
+abuse-report-broken-suggestions-sitepermission =
+    Det lyder til, at du er stødt på en fejl. Udover at rapportere fejlen hér, så er den bedste
+    måde at få rettet funktionelle fejl på at kontakte udvikleren bag webstedet.
+    <a data-l10n-name="support-link">Besøg webstedet</a> for at få information om udvikleren.
 abuse-report-broken-suggestions-theme =
-  Det lyder til, at du er stødt på en fejl. Udover at rapportere fejlen hér, så er den bedste
-  måde at få rettet funktionelle fejl på at kontakte udvikleren bag temaet.
-  <a data-l10n-name="support-link">Besøg temaets websted</a> for at få information om udvikleren.
-
+    Det lyder til, at du er stødt på en fejl. Udover at rapportere fejlen hér, så er den bedste
+    måde at få rettet funktionelle fejl på at kontakte udvikleren bag temaet.
+    <a data-l10n-name="support-link">Besøg temaets websted</a> for at få information om udvikleren.
 abuse-report-policy-reason-v2 = Indeholder hadsk, voldeligt eller ulovligt indhold
 abuse-report-policy-suggestions =
-  Bemærk: Overtrædelser af ophavsrettigheder og varemærker rapporteres på en anden måde.
-  <a data-l10n-name="report-infringement-link">Følg disse instruktioner</a> for at
-  rapportere problemet.
-
+    Bemærk: Overtrædelser af ophavsrettigheder og varemærker rapporteres på en anden måde.
+    <a data-l10n-name="report-infringement-link">Følg disse instruktioner</a> for at
+    rapportere problemet.
 abuse-report-unwanted-reason-v2 = Jeg ville ikke have udvidelsen og ved ikke, hvordan jeg skal slippe af med den igen
 abuse-report-unwanted-example = Eksempel: Et program installerede den uden min tilladelse
-
 abuse-report-other-reason = Andet
-
