@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tilføj tags
-
 pocket-panel-saved-error-generic = Der opstod en fejl ved forsøg på at gemme til { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags er begrænset til 25 tegn
 pocket-panel-saved-error-only-links = Kun links kan gemmes
@@ -33,7 +32,7 @@ pocket-panel-signup-view-list = Vis liste
 pocket-panel-signup-already-have = Er du allerede { -pocket-brand-name }-bruger?
 pocket-panel-signup-learn-more = Læs mere
 pocket-panel-signup-login = Log ind
-pocket-panel-signup-signup-email = Log ind med mailadresse
+pocket-panel-signup-signup-email = Tilmeld med mailadresse
 pocket-panel-signup-signup-cta = Meld dig til { -pocket-brand-name }. Det er gratis.
 pocket-panel-signup-signup-firefox = Meld dig til med { -brand-product-name }
 pocket-panel-signup-tagline = Gemmer artikler og videoer fra { -brand-product-name } i { -pocket-brand-name }, så du senere kan se dem hvor og hvornår, du har lyst.
