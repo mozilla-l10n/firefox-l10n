@@ -384,6 +384,7 @@ plugin-heading = Διαχείριση των αρθρωμάτων σας
 dictionary-heading = Διαχείριση των λεξικών σας
 locale-heading = Διαχείριση των γλωσσών σας
 updates-heading = Διαχείριση των ενημερώσεών σας
+sitepermission-heading = Διαχείριση αδειών ιστοτόπων
 discover-heading = Εξατομίκευση του { -brand-short-name }
 shortcuts-heading = Διαχείριση συντομεύσεων επεκτάσεων
 default-heading-search-label = Εύρεση περισσότερων προσθέτων
