@@ -112,7 +112,7 @@ account-setup-selection-error = Þarftu aðstoð?
 account-setup-success-help = Ertu ekki viss um næstu skref þín?
 account-setup-documentation-help = Uppsetning hjálparskjala
 account-setup-forum-help = Aðstoðarspjallsvæði
-account-setup-privacy-help = Meðferð persónuupplýsinga
+account-setup-privacy-help = Stefna um meðferð persónuupplýsinga
 account-setup-getting-started = Hefjast handa
 
 ## Results area
