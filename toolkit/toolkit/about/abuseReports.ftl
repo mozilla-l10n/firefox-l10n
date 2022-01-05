@@ -49,7 +49,9 @@ abuse-report-messagebar-error-recent-submit = Rapporten for <span data-l10n-name
 
 abuse-report-messagebar-action-remove-extension = Ja, fjern den
 abuse-report-messagebar-action-keep-extension = Nej, jeg beholder den
-abuse-report-messagebar-action-remove-theme = Ja, fjern det.
+abuse-report-messagebar-action-remove-sitepermission = Ja, fjern den
+abuse-report-messagebar-action-keep-sitepermission = Nej, jeg beholder den
+abuse-report-messagebar-action-remove-theme = Ja, fjern det
 abuse-report-messagebar-action-keep-theme = Nej, jeg beholder det
 abuse-report-messagebar-action-retry = Prøv igen
 abuse-report-messagebar-action-cancel = Fortryd
