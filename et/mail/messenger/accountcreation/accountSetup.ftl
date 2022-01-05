@@ -110,21 +110,80 @@ account-setup-privacy-footnote2 = Sinu kasutajatunnused salvestatakse ainult sin
 account-setup-selection-help = Kas pole kindel, mida valida?
 account-setup-selection-error = Vajad abi?
 account-setup-success-help = Kas pole oma järgmistes sammudes kindel?
+account-setup-documentation-help = Seadistamise dokumentatsioon
+account-setup-forum-help = Kasutajatoe foorum
+account-setup-privacy-help = Privaatsusreeglid
+account-setup-getting-started = Alustamisjuhend
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Saadaolev konfiguratsioon
+       *[other] Saadaolevad konfiguratsioonid
+    }
+# Note: IMAP is the name of a protocol.
+account-setup-result-imap = IMAP
+account-setup-result-imap-description = Hoia oma kaustad ja e-post serveris sünkrooniseerituna
+# Note: POP3 is the name of a protocol.
+account-setup-result-pop = POP3
+account-setup-result-pop-description = Hoia oma kaustad ja e-post oma arvutis
+# Note: Exchange is the name of a product.
+account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Kasuta Microsoft Exchange'i serverit või Office 365 pilveteenuseid
+account-setup-incoming-title = Vastuvõttev
+account-setup-outgoing-title = Saatev
+account-setup-username-title = Kasutajanimi
+account-setup-exchange-title = Server
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Krüptimine puudub
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Kasutatakse olemasolevat saatvat SMTP serverit
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Vastuvõttev: { $incoming }, saatev: { $outgoing }
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Tuvastamine ebaõnnestus. Sisestatud kasutajatunnused on valed või on sisselogimiseks vaja eraldi kasutajanime. See kasutajanimi on tavaliselt sinu Windowsi domeeni kasutajatunnus domeeniga või selleta (nt antskaru või AD\\antskaru)
+account-setup-credentials-wrong = Tuvastamine ebaõnnestus. Kontrolli kasutajanime ja parooli.
+account-setup-find-settings-failed = { -brand-short-name } ei suutnud e-posti kontole seadistusi leida.
+account-setup-exchange-config-unverifiable = Seadistust polnud võimalik kontrollida. Kui kasutajanimi ja parool on õiged, siis on tõenäoline, et serveri administraator on keelanud valitud konfiguratsiooni sinu konto jaoks. Proovi valida mõni muu protokoll.
+account-setup-provisioner-error = Sinu uue konto seadistamisel { -brand-short-name }is esines viga. Palun proovi konto oma kasutajatunnustega käsitsi seadistada.
 
 ## Manual configuration area
 
+account-setup-manual-config-title = Käsitsi seadistamine
+account-setup-incoming-server-legend = Vastuvõttev server
+account-setup-protocol-label = Protokoll:
+protocol-imap-option = { account-setup-result-imap }
+protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Serveri aadress:
+account-setup-port-label = Port:
+    .title = Automaatse tuvastamise jaoks määra 0
+account-setup-auto-description = { -brand-short-name } üritab automaatselt tuvastada tühjaks jäetud välju.
+account-setup-ssl-label = Ühenduse turvalisus:
+account-setup-outgoing-server-legend = Saatev server
 
 ## Incoming/Outgoing SSL Authentication options
 
+ssl-autodetect-option = Automaatne tuvastamine
+ssl-no-authentication-option = autentimine puudub
+ssl-cleartext-password-option = tavaline parool
+ssl-encrypted-password-option = krüptitud parool
 
 ## Incoming/Outgoing SSL options
 
+ssl-noencryption-option = puudub
+account-setup-auth-label = Autentimise viis:
+account-setup-username-label = Kasutajanimi:
 
 ## Warning insecure server dialog
 
