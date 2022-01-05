@@ -102,6 +102,14 @@ account-setup-step2-image =
     .title = Laadimine…
 account-setup-step3-image =
     .title = Seadistus leitud
+account-setup-step4-image =
+    .title = Ühenduse viga
+account-setup-step5-image =
+    .title = Konto loodud
+account-setup-privacy-footnote2 = Sinu kasutajatunnused salvestatakse ainult sinu arvutisse.
+account-setup-selection-help = Kas pole kindel, mida valida?
+account-setup-selection-error = Vajad abi?
+account-setup-success-help = Kas pole oma järgmistes sammudes kindel?
 
 ## Results area
 
