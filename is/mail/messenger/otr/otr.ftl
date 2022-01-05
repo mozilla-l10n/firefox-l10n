@@ -54,7 +54,21 @@ context-gone-secure-private = Einkasamtal við { $name } hófst.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-unverified = Dulritað en óstaðfest samtal við { $name } hófst.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Tókst að endurnýja dulritaða samtalið við { $name }.
+error-enc = Villa kom upp við að dulrita skilaboðin.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Þú sendir dulrituð gögn til { $name }, sem átti ekki von á þeim.
+error-unreadable = Þú sendir ólesanleg dulrituð skilaboð.
+error-malformed = Þú sendir gölluð gagnaskilaboð.
 resent = [sent aftur]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } hefur lokið dulrituðu samtali við þig; þú ættir að gera það sama.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } hefur beðið um dulritað samtal án skráningar (OTR - Off The Record). Hins vegar ertu ekki með viðbót sem styður slíkt. Skoðaðu https://en.wikipedia.org/wiki/Off-the-Record_Messaging fyrir frekari upplýsingar.
