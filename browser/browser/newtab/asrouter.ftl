@@ -151,5 +151,8 @@ spotlight-public-wifi-vpn-link = ਹੁਣੇ ਨਹੀਂ
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = ਸਾਡੇ ਸਭ ਤੋਂ ਜ਼ਬਰਦਸਤ ਪਰਦੇਦਾਰੀ ਤਜਰਬੇ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ
 spotlight-total-cookie-protection-body = ਪੂਰੀ ਕੂਕੀਜ਼ ਸੁਰੱਖਿਆ ਟਰੈਕਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਵਰਤ ਕੇ ਵੈੱਬ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } ਕੂਕੀਜ਼ ਦੇ ਦੁਆਲੇ ਵਾੜ ਲਾ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਉਹ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਸਾਈਟ ਤੱਕ ਹੀ ਸੀਮਿਤ ਰਹਿ ਜਾਂਦੇ ਹਨ, ਇਸਕਰਕੇ ਟਰੈਕਰ ਉਹਨਾਂ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਲਈ ਨਹੀਂ ਵਰਤ ਸਕਦੇ ਹਨ। ਇਹ ਪਹਿਲਾਂ ਦੀ ਪਹੁੰਚ ਨਾਲ ਤੁਸੀਂ ਇਹ ਫ਼ੀਚਰ ਨੂੰ ਸੰਵਾਰਨ ਲਈ ਮਦਦ ਸਕਦੇ ਹੋ ਤਾ ਕਿ ਅਸੀਂ ਹਰ ਕਿਸੇ ਲਈ ਵੈੱਬ ਨੂੰ ਹੋਰ ਵੀ ਵਧੀਆ ਬਣਾ ਸਕੀੇਏ।
 spotlight-total-cookie-protection-primary-button = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ
 spotlight-total-cookie-protection-secondary-button = ਹੁਣੇ ਨਹੀਂ
