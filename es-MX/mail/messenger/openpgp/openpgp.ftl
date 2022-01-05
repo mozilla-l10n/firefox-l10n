@@ -213,6 +213,8 @@ openpgp-key-details-created-label =
 openpgp-key-details-created-header = Creado
 openpgp-key-details-expiry-label =
     .label = Expiración
+openpgp-key-details-usage-label =
+    .label = Uso
 openpgp-key-details-fingerprint-label = Huella dactilar
 openpgp-key-details-sel-action =
     .label = Seleccionar acción…
@@ -239,6 +241,10 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Tu configuración actual usa ID de clave <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Tu configuración actual usa la clave <b>{ $key }</b>, que ha caducado.
 openpgp-add-key-button =
     .label = Agregar clave…
     .accesskey = A
@@ -252,6 +258,7 @@ openpgp-keygen-external-success = ¡Se ha guardado el ID de clave GnuPG externo!
 openpgp-radio-none =
     .label = Ninguno
 openpgp-radio-none-desc = No usar OpenPGP para esta identidad.
+openpgp-radio-key-not-usable = ¡Esta clave no se puede utilizar como clave personal, porque falta la clave secreta!
 openpgp-radio-key-not-accepted = ¡Para usar esta clave debes aprobarla como una clave personal!
 openpgp-radio-key-not-found = ¡No se pudo encontrar esta clave! Si quieres usarlo debes importarlo a { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
@@ -273,10 +280,12 @@ openpgp-manager-button =
 openpgp-key-remove-external =
     .label = Eliminar ID de clave externa
     .accesskey = E
+key-external-label = Clave GnuPG externa
 # Strings in keyDetailsDlg.xhtml
 key-type-public = clave pública
 key-type-primary = clave primaria
 key-type-subkey = subclave
+key-type-pair = par de claves (clave secreta y clave pública)
 key-expiry-never = nunca
 key-usage-encrypt = Cifrar
 key-usage-sign = Firma
@@ -286,6 +295,7 @@ key-does-not-expire = La clave no caduca
 key-expired-date = La clave caduco el { $keyExpiry }
 key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
+key-do-you-accept = ¿Aceptas esta clave para verificar firmas digitales y para cifrar mensajes?
 window-locked = La ventana de redacción está bloqueada; envío cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
@@ -320,10 +330,14 @@ import-from-url = Descarga la clave pública desde esta URL:
 copy-to-clipbrd-failed = No se pudieron copiar las claves seleccionadas al portapapeles.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
 delete-selected-pub-key = ¿Quieres eliminar las claves públicas?
+refresh-all-question = No seleccionaste ninguna clave. ¿Te gustaría actualizar TODAS las claves?
 key-man-button-export-sec-key = Exportar claves &secretas
 key-man-button-export-pub-key = Exportar solo claves públicas
 key-man-button-refresh-all = & Actualizar todas las claves
+key-man-loading-keys = Cargando claves, por favor espera…
 ascii-armor-file = Archivos blindados ASCII (*.asc)
+no-key-selected = Debes seleccionar al menos una clave para realizar la operación seleccionada
+export-to-file = Exportar clave pública a un archivo
 save-keys-ok = Las claves se guardaron con éxito
 save-keys-failed = No se pudieron guardar las claves
 default-pub-key-filename = Claves públicas exportadas
