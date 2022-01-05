@@ -69,6 +69,7 @@ abuse-report-settings-suggestions-homepage = Endre startside og ny fane-sida
 abuse-report-deceptive-reason-v2 = Den gir seg ut for å vere noko den ikkje er
 abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
 abuse-report-broken-reason-extension-v2 = Den fungerer ikk je, øydelegg nettstadar, eller gjer { -brand-product-name } treg
+abuse-report-broken-reason-sitepermission-v2 = Han fungerer ikkje, ødelegg nettstadar, eller gjer { -brand-product-name } treg
 abuse-report-broken-reason-theme-v2 = Den verkar ikkje eller øydelegg utsjånaden til nettsidene
 abuse-report-broken-example = Til dømes: Funksjonar er trege, vanskeleg å bruke, eller fungerar ikkje; delar av nettstadar vil ikkje laste eller ser uvanlege ut
 abuse-report-broken-suggestions-extension =
