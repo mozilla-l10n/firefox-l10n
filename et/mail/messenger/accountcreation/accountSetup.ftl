@@ -174,7 +174,7 @@ account-setup-outgoing-server-legend = Saatev server
 
 ## Incoming/Outgoing SSL Authentication options
 
-ssl-autodetect-option = Automaatne tuvastamine
+ssl-autodetect-option = automaatne tuvastamine
 ssl-no-authentication-option = autentimine puudub
 ssl-cleartext-password-option = tavaline parool
 ssl-encrypted-password-option = krüptitud parool
@@ -184,9 +184,25 @@ ssl-encrypted-password-option = krüptitud parool
 ssl-noencryption-option = puudub
 account-setup-auth-label = Autentimise viis:
 account-setup-username-label = Kasutajanimi:
+account-setup-advanced-setup-button = Täpsem seadistamine
+    .accesskey = T
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Hoiatus!
+account-setup-insecure-incoming-title = Vastuvõtmise sätted:
+account-setup-insecure-outgoing-title = Saatmise sätted:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> ei kasuta krüptimist.
+account-setup-warning-cleartext-details = Ebaturvalised e-posti serverid ei kasuta paroolide ja privaatse info kaitsmiseks krüptitud ühendusi. Ühendudes selle serveriga võid sa paljastada oma parooli ja muud privaatset infot.
+account-setup-insecure-server-checkbox = Ma mõistan riske
+    .accesskey = M
+account-setup-insecure-description = { -brand-short-name } võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe <a data-l10n-name="thunderbird-faq-link">Thunderbirdi korduma kippuvaid küsimusi</a>.
+insecure-dialog-cancel-button = Muuda sätteid
+    .accesskey = s
+insecure-dialog-confirm-button = Kinnita
+    .accesskey = K
 
 ## Warning Exchange confirmation dialog
 
