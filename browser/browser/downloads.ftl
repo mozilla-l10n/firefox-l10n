@@ -193,6 +193,7 @@ downloads-files-not-downloaded =
        *[other] { $num } ਫਾਇਲਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।
     }
 downloads-blocked-from-url = { $url } ਤੋਂ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ।
+downloads-blocked-download-detailed-info = { $url } ਨੇ ਆਪਣੇ-ਆਪ ਕਈ ਫਾਇਲਾਂ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ। ਸਾਈਟ ਜਾਂ ਤਾਂ ਖ਼ਰਾਬ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਸਪਮ ਫਾਇਲਾਂ ਸਟੋਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੀ ਹੋ ਸਕਦੀ ਹੈ।
 
 ##
 
