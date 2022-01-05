@@ -18,6 +18,7 @@ openpgp-ctx-verify-att =
     .label = Staðfesta undirritun
     .accesskey = f
 openpgp-has-sender-key = Þessi skilaboð segjast innihalda OpenPGP-dreifilykil sendandans.
+openpgp-be-careful-new-key = Aðvörun: Nýi OpenPGP dreifilykillinn í þessum skilaboðum er frábrugðinn opinberu dreifilyklunum sem þú samþykktir áður fyrir { $email }.
 openpgp-import-sender-key =
     .label = Flytja inn…
 openpgp-search-keys-openpgp =
@@ -31,5 +32,18 @@ openpgp-broken-exchange-info = Þetta eru OpenPGP-skilaboð sem virðist hafa ve
 openpgp-broken-exchange-repair =
     .label = Lagfæra skilaboð
 openpgp-broken-exchange-wait = Bíddu aðeins…
+openpgp-cannot-decrypt-because-mdc =
+    Þetta er dulrituð skilaboð sem nota gamla og viðkvæma tækni.
+    Þeim hefur mátt breyta á meðan á flutningi stóð, með það fyrir augum að stela innihaldi þeirra.
+    Til að koma í veg fyrir áhættu af þessu tagi er innihaldið ekki sýnt.
+openpgp-cannot-decrypt-because-missing-key = Leynilegi einkaykillinn sem þarf til að afkóða þessi skilaboð er ekki tiltækur.
+openpgp-partially-signed =
+    Aðeins hluti af þessum skilaboðum var stafrænt undirritaður með OpenPGP.
+    Ef þú smellir á staðfestingarhnappinn verða óvarðir hlutar faldir og staða stafrænu undirritunarinnar birtist.
+openpgp-partially-encrypted =
+    Aðeins hluti af þessum skilaboðum var dulritaður með OpenPGP.
+    Lesanlegir hlutar skilaboðanna sem þegar eru sýndir voru ekki dulritaðir.
+    Ef þú smellir á afkóðunarhnappinn mun efni dulrituðu hlutanna birtast.
+openpgp-reminder-partial-display = Áminning: Skilaboðin sem birtast hér að neðan eru aðeins hluti af upprunalegu skilaboðunum.
 openpgp-partial-verify-button = Staðfesta
 openpgp-partial-decrypt-button = Afkóða
