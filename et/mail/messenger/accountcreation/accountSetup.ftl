@@ -206,18 +206,46 @@ insecure-dialog-confirm-button = Kinnita
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } leidis sinu konto konfiguratsiooni domeenilt { $domain }. Kas soovid jätkata ning sisestada oma kasutajatunnused?
+exchange-dialog-confirm-button = Logi sisse
+exchange-dialog-cancel-button = Loobu
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Ühtegi e-posti kontot pole seadistatud
+exit-dialog-description = Kas oled kindel, et soovid katkestada seadistusprotsessi? { -brand-short-name }i saab kasutada ka ilma e-posti kontota, aga paljud funktsionaalsused pole saadaval.
+account-setup-no-account-checkbox = { -brand-short-name }i kasutatakse ilma e-posti kontota
+    .accesskey = k
+exit-dialog-cancel-button = Jätkake seadistamist
+    .accesskey = J
+exit-dialog-confirm-button = Lõpeta seadistamine
+    .accesskey = L
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Viga konto loomisel
+account-setup-error-server-exists = Vastuvõttev server on juba olemas.
+account-setup-confirm-advanced-title = Täpsema häälestuse kinnitamine
+account-setup-confirm-advanced-description = See dialoog suletakse ja luuakse praeguste sätetega konto, isegi kui häälestus on vale. Kas soovid jätkata?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Paigalda
+account-setup-addon-install-intro = Selle e-posti serveri kirjadele ligipääsemiseks on abiks järgnev kolmanda osapoole lisa:
+account-setup-addon-no-protocol = See server ei toeta kahjuks avatud protokolle. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Konto sätted
+account-setup-encryption-button = Otspunktkrüptimine
+account-setup-signature-button = Lisa signatuur
+account-setup-dictionaries-button = Laadi alla sõnaraamatuid
+account-setup-address-book-carddav-button = Ühendu CardDAVi aadressiraamatuga
+account-setup-address-book-ldap-button = Ühendu LDAPi aadressiraamatuga
+account-setup-calendar-button = Ühendu kaugkalendriga
+account-setup-linked-services-title = Ühendu oma lingitud teenustega
 
 ## Calendar synchronization dialog
 
