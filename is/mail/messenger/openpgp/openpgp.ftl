@@ -3,7 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-advanced-section = Ítarlegar stillingar
+e2e-encrypt-subject =
+    .label = Dulrita viðfangsefni OpenPGP-skilaboða
+    .accesskey = v
+e2e-encrypt-drafts =
+    .label = Geyma drög að skilaboðum á dulrituðu sniði
+    .accesskey = y
 openpgp-key-user-id-label = Reikningur / Notandaauðkenni
+openpgp-keygen-title-label =
+    .title = Útbúa OpenPGP-lykil
 openpgp-cancel-key =
     .label = Hætta við
     .tooltiptext = Hætta við að útbúa lykil
@@ -171,19 +179,69 @@ openpgp-key-man-key-more =
 openpgp-key-man-show-invalid-keys =
     .label = Birta ógilda lykla
     .accesskey = B
+openpgp-key-man-show-others-keys =
+    .label = Birta lykla frá öðru fólki
+    .accesskey = B
+openpgp-key-man-user-id-label =
+    .label = Nafn
 openpgp-key-man-fingerprint-label =
     .label = Fingrafar
+openpgp-key-man-select-all =
+    .label = Velja alla lykla
+    .accesskey = a
 openpgp-key-man-empty-tree-tooltip =
     .label = Sláðu inn leitarorð í reitinn hér fyrir ofan
 openpgp-key-man-nothing-found-tooltip =
     .label = Engir lyklar passa við leitarskilyrðin þín
 openpgp-key-man-please-wait-tooltip =
     .label = Bíddu á meðan verið er að hlaða inn lyklum...
+openpgp-key-man-filter-label =
+    .placeholder = Leita að lyklum
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-man-key-details-key =
+    .key = I
+openpgp-key-details-title =
+    .title = Eiginleikar lykils
+openpgp-key-details-signatures-tab =
+    .label = Vottanir
+openpgp-key-details-structure-tab =
+    .label = Uppbygging
+openpgp-key-details-user-id2-label = Meintur lykileigandi
+openpgp-key-details-id-label =
+    .label = Auðkenni
+openpgp-key-details-key-type-label = Tegund
+openpgp-key-details-key-part-label =
+    .label = Lykilhluti
 openpgp-key-details-algorithm-label =
     .label = Reiknirit
+openpgp-key-details-size-label =
+    .label = Stærð
+openpgp-key-details-created-label =
+    .label = Búið til
+openpgp-key-details-created-header = Búið til
+openpgp-key-details-expiry-label =
+    .label = Rennur út
+openpgp-key-details-expiry-header = Rennur út
+openpgp-key-details-usage-label =
+    .label = Notkun
 openpgp-key-details-fingerprint-label = Fingrafar
+openpgp-key-details-sel-action =
+    .label = Veldu aðgerð...
+    .accesskey = V
+openpgp-key-details-also-known-label = Meint önnur auðkenni lykileiganda:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Loka
+openpgp-acceptance-label =
+    .label = Samþykki þitt
+openpgp-acceptance-rejected-label =
+    .label = Nei, hafna þessum lykli.
+openpgp-acceptance-undecided-label =
+    .label = Ekki ennþá, kannski seinna.
+openpgp-acceptance-unverified-label =
+    .label = Já, en ég hef ekki staðfest að þetta sé réttur lykill.
+openpgp-acceptance-verified-label =
+    .label = Já, ég hef staðfest í eigin persónu að þessi lykill hafi rétt fingrafar.
 
 ## e2e encryption settings
 
@@ -248,6 +306,9 @@ filter-key-not-found = Gat ekki fundið dulritunarlykil fyrir '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
 filter-decrypt-copy-label = Búa til afkóðað afrit (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Tókst! Lyklar voru fluttir inn
 import-info-bits = Bitar
 import-info-created = Búinn til
 import-info-fpr = Fingrafar
@@ -290,6 +351,9 @@ key-man-button-revoke-key = Aftu&rkalla lykil
 key-man-button-import = Flytja &inn
 delete-key-title = Eyða OpenPGP-lykli
 delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
+# Strings used in trust.jsm
+key-valid-unknown = óþekkt
+key-valid-invalid = ógildur
 
 # Strings used in enigmailMessengerOverlay.js
 
