@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Til að senda dulrituð eða stafrænt undirrituð skilaboð þarftu að setja upp og stilla dulritunartækni, annað hvort OpenPGP eða S/MIME.
 e2e-advanced-section = Ítarlegar stillingar
 e2e-encrypt-subject =
     .label = Dulrita viðfangsefni OpenPGP-skilaboða
@@ -368,6 +369,7 @@ import-rev-file = Flytja inn OpenPGP-afturköllunarskrá
 gnupg-file = GnuPG-skrár
 import-keys-failed = Mistókst að flytja inn lyklana
 key-man-button-generate-key = Út&búa lykil
+key-abort = Hætta við gerð lykla?
 
 # Strings used in enigmailMessengerOverlay.js
 

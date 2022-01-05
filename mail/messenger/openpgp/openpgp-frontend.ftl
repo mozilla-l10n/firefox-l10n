@@ -5,3 +5,17 @@
 openpgp-manage-keys-openpgp-cmd =
     .label = OpenPGP lyklastýring
     .accesskey = O
+openpgp-ctx-decrypt-open =
+    .label = Afkóða og opna
+    .accesskey = o
+openpgp-ctx-decrypt-save =
+    .label = Afkóða og vista sem…
+    .accesskey = k
+openpgp-ctx-import-key =
+    .label = Flytja inn OpenPGP-lykil
+    .accesskey = i
+openpgp-ctx-verify-att =
+    .label = Staðfesta undirritun
+    .accesskey = f
+openpgp-import-sender-key =
+    .label = Flytja inn…
