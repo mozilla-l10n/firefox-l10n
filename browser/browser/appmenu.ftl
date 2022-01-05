@@ -182,8 +182,10 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = ਬਹੁਤੀਆਂ ਵੈੱਬ ਐਪ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਘੱਟ ਉਲਝਣਾਂ ਨਾਲ ਪਹਿਲਾਂ ਨਿਯਤ ਕੀਤੀਆਂ ਸਿਫਾਰਸ਼ੀ ਸੈਟਿੰਗਾਂ।
 profiler-popup-presets-web-developer-label =
     .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
+profiler-popup-presets-firefox-platform-description = ਅੰਦਰੂਨੀ Firefox ਪਲੇਟਫਾਰਮ ਡੀਬੱਗ ਕਰਨ ਲਈ ਪਹਿਲਾਂ ਨਿਯਮਤ ਸਿਫਾਰਸ਼ਾਂ ਸੈਟਿੰਗਾਂ।
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox ਮੰਚ
 profiler-popup-presets-firefox-front-end-label =
