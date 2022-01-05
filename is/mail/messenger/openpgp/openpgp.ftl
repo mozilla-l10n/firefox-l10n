@@ -352,8 +352,22 @@ key-man-button-import = Flytja &inn
 delete-key-title = Eyða OpenPGP-lykli
 delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
 # Strings used in trust.jsm
-key-valid-unknown = óþekkt
+key-valid-unknown = óþekktur
 key-valid-invalid = ógildur
+key-valid-disabled = óvirkur
+key-valid-revoked = afturkallaður
+key-valid-expired = útrunninn
+key-trust-untrusted = ekki treyst
+key-trust-marginal = á mörkum
+key-trust-full = treyst
+key-trust-ultimate = fullkominn
+key-trust-group = (hópur)
+# Strings used in commonWorkflows.js
+import-key-file = Flytja inn OpenPGP-lykilskrá
+import-rev-file = Flytja inn OpenPGP-afturköllunarskrá
+gnupg-file = GnuPG-skrár
+import-keys-failed = Mistókst að flytja inn lyklana
+key-man-button-generate-key = Út&búa lykil
 
 # Strings used in enigmailMessengerOverlay.js
 
