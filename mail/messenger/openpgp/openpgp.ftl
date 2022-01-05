@@ -74,6 +74,11 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Servidor de claves
     .accesskey = K
+openpgp-key-man-import-public-from-file =
+    .label = Importar clave(s) pública(s) desde archivo
+    .accesskey = I
+openpgp-key-man-import-secret-from-file =
+    .label = Importar clave(s) secreta(s) desde archivo
 openpgp-key-man-import-from-clipbrd =
     .label = Importar clave(s) desde el portapapeles
     .accesskey = I
@@ -90,6 +95,9 @@ openpgp-key-copy-key =
     .accesskey = C
 openpgp-key-export-key =
     .label = Exportar clave pública a archivo
+    .accesskey = E
+openpgp-key-send-key =
+    .label = Enviar clave pública por correo electrónico
     .accesskey = E
 openpgp-key-man-copy-key-ids =
     .label =
@@ -214,6 +222,7 @@ openpgp-key-details-created-label =
 openpgp-key-details-created-header = Creado
 openpgp-key-details-expiry-label =
     .label = Expiración
+openpgp-key-details-expiry-header = Expiración
 openpgp-key-details-usage-label =
     .label = Uso
 openpgp-key-details-fingerprint-label = Huella dactilar
@@ -301,6 +310,7 @@ key-do-you-accept = ¿Aceptas esta clave para verificar firmas digitales y para 
 key-accept-warning = Evita aceptar una clave no autorizada. Utiliza un canal de comunicación que no sea el correo electrónico para verificar la huella digital de la clave de tu corresponsal.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con tu clave personal. { $problem }
+cannot-encrypt-because-missing = No se puede enviar este mensaje con cifrado de un extremo a extremo porque hay problemas con las claves de los siguientes destinatarios: { $problem }
 window-locked = La ventana de redacción está bloqueada; envío cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
@@ -429,7 +439,19 @@ key-expired = La clave ‘{ $key }’ caducó
 msg-compose-internal-error = Se ha producido un error interno.
 keys-to-export = Selecciona las claves OpenPGP para insertar
 msg-compose-cannot-save-draft = Error al guardar el borrador
+msg-compose-partially-encrypted-short = Ten cuidado con la filtración de información confidencial - correo electrónico parcialmente cifrado.
+quoted-printable-warn =
+    Has habilitado la codificación ‘quoted-printabl’ para enviar mensajes. Esto puede resultar en un descifrado y/o verificación incorrecto de tu mensaje.
+    ¿Deseas desactivar el envío de mensajes ‘quoted-printable’ ahora?
+minimal-line-wrapping =
+    Has configurado el ajuste de línea en { $width } caracteres. Para un correcto cifrado y/o firma correcta, este valor debe ser al menos de 68.
+    ¿Deseas cambiar el ajuste de línea a 68 caracteres ahora?
+sending-news =
+    Se anuló la operación de envío cifrado.
+    Este mensaje no se puede cifrar porque hay destinatarios de grupos de noticias. Vuelve a enviar el mensaje sin cifrar.
 save-attachment-header = Guardar archivo adjunto descifrado
+possibly-pgp-mime = Posiblemente un mensaje cifrado o firmado PGP/MIME; usar la función 'Descifrar/Verificar' para verificar
+cannot-send-sig-because-no-own-key = No se puede firmar digitalmente este mensaje porque todavía no has configurado el cifrado de extremo a extremo para <{ $key }>
 cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no has configurado cifrado de extremo a extremo para <{ $key }>
 compose-menu-attach-key =
     .label = Adjuntar mi clave pública
@@ -440,6 +462,7 @@ do-import-multiple =
     { $key }
 do-import-one = ¿Importar { $name } ({ $id })?
 cant-import = Error al importar la clave pública
+unverified-reply = La parte del mensaje con sangría (respuesta) probablemente se modificó
 key-in-message-body = Se encontró una clave en el cuerpo del mensaje. Haz clic en ‘Importar clave’ para importar la clave.
 sig-mismatch = Error - Falta de coincidencia de la firma
 invalid-email = Error - dirección o direcciones de correo no válidas
