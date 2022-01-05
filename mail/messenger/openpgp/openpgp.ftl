@@ -83,6 +83,7 @@ openpgp-key-man-import-from-url =
 openpgp-key-man-discover-cmd =
     .label = Descubrir claves en línea
     .accesskey = D
+openpgp-key-man-discover-prompt = Para descubrir claves OpenPGP en línea, en servidores de claves o usando el protocolo WKD, ingresa una dirección de correo electrónico o un ID de clave.
 openpgp-key-man-discover-progress = Buscando…
 openpgp-key-copy-key =
     .label = Copiar clave pública
@@ -219,6 +220,7 @@ openpgp-key-details-fingerprint-label = Huella dactilar
 openpgp-key-details-sel-action =
     .label = Seleccionar acción…
     .accesskey = S
+openpgp-key-details-also-known-label = Supuestas identidades alternativas del propietario de la clave:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Cerrar
 openpgp-acceptance-label =
@@ -296,6 +298,9 @@ key-expired-date = La clave caduco el { $keyExpiry }
 key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
 key-do-you-accept = ¿Aceptas esta clave para verificar firmas digitales y para cifrar mensajes?
+key-accept-warning = Evita aceptar una clave no autorizada. Utiliza un canal de comunicación que no sea el correo electrónico para verificar la huella digital de la clave de tu corresponsal.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con tu clave personal. { $problem }
 window-locked = La ventana de redacción está bloqueada; envío cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
@@ -306,13 +311,22 @@ keyserver-error-unknown = Se produjo un error desconocido
 keyserver-error-server-error = El servidor de claves reporto un error.
 keyserver-error-import-error = No se pudo importar la clave descargada.
 keyserver-error-unavailable = El servidor de claves no está disponible.
+keyserver-error-security-error = El servidor de claves no admite el acceso cifrado.
 keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
 keyserver-error-unsupported = El servidor de claves no es compatible.
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de firma desconocido (ID: { $id })
 unknown-hash-alg = Hash criptográfico desconocido (ID: { $id })
+expiry-key-missing-owner-trust =
+    Tu clave secreta { $desc } no tiene confianza.
+    Te recomendamos que configures en "Confiar en las certificaciones" como "máximo" en las propiedades clave.
+expiry-open-key-manager = Abrir Administrador de claves OpenPGP
 expiry-open-key-properties = Abrir propiedades de la clave
+# Strings filters.jsm
+filter-folder-required = Debes seleccionar una carpeta de destino.
 filter-term-pgpencrypted-label = OpenPGP cifrado
+filter-key-required = Debes seleccionar una clave de destinatario.
+filter-key-not-found = No se pudo encontrar una clave de cifrado para ‘{ $desc }’.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Descifrar permanentemente (OpenPGP)
 filter-decrypt-copy-label = Crear copia descifrada (OpenPGP)
@@ -338,14 +352,26 @@ key-man-loading-keys = Cargando claves, por favor espera…
 ascii-armor-file = Archivos blindados ASCII (*.asc)
 no-key-selected = Debes seleccionar al menos una clave para realizar la operación seleccionada
 export-to-file = Exportar clave pública a un archivo
+export-keypair-to-file = Exportar clave secreta y pública a un archivo
 save-keys-ok = Las claves se guardaron con éxito
 save-keys-failed = No se pudieron guardar las claves
 default-pub-key-filename = Claves públicas exportadas
+default-pub-sec-key-filename = Copia de seguridad de claves secretas
+preview-failed = No se puede leer el archivo de la clave pública.
 general-error = Error: { $reason }
 dlg-button-delete = &Eliminar
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>¡Clave pública exportada correctamente!</b>
+openpgp-export-public-fail = <b>¡No se puede exportar la clave pública seleccionada!</b>
+openpgp-export-secret-success = <b>¡La clave secreta se exportó correctamente!</b>
+openpgp-export-secret-fail = <b>¡No se puede exportar la clave secreta seleccionada!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = La clave { $userId } (ID de clave { $keyId }) está revocada.
+key-ring-pub-key-expired = La clave { $userId } (ID de clave { $keyId }) ha caducado.
+key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) han caducado.
+key-ring-enc-sub-keys-expired = Todas las subclaves de cifrado de la clave { $userId } (ID de clave { $keyId }) han caducado.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo de usuario (imagen JPEG)
@@ -360,6 +386,7 @@ delete-external-key-title = Eliminar la clave GnuPG externa
 key-in-use-title = Clave OpenPGP actualmente en uso
 fail-key-import = Error - importación de clave fallida
 file-write-failed = Error al escribir en el archivo { $output }
+no-pgp-block = Error - No se encontró un bloque de datos OpenPGP blindado válido
 # Strings used in trust.jsm
 key-valid-unknown = desconocido
 key-valid-invalid = no válido
@@ -376,6 +403,10 @@ import-key-file = Importar archivo de clave OpenPGP
 import-rev-file = Importar archivo de revocación OpenPGP
 gnupg-file = Archivos GnuPG
 import-keys-failed = Error al importar las claves
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crear y guardar certificado de revocación
+revoke-cert-failed = No se pudo crear el certificado de revocación.
+gen-going = ¡La generación de claves ya está en progreso!
 expiry-too-long = No puedes crear una clave que expira en más de 100 años.
 key-confirm = ¿Generar clave pública y secreta para ‘{ $id }’?
 key-man-button-generate-key = &Generar clave
@@ -394,10 +425,12 @@ msg-compose-details-button-label = Detalles…
 msg-compose-details-button-access-key = D
 send-aborted = Operación de envío cancelada.
 key-revoked = Clave ‘{ $key }’ revocada
+key-expired = La clave ‘{ $key }’ caducó
 msg-compose-internal-error = Se ha producido un error interno.
 keys-to-export = Selecciona las claves OpenPGP para insertar
 msg-compose-cannot-save-draft = Error al guardar el borrador
 save-attachment-header = Guardar archivo adjunto descifrado
+cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no has configurado cifrado de extremo a extremo para <{ $key }>
 compose-menu-attach-key =
     .label = Adjuntar mi clave pública
     .accesskey = A
@@ -407,6 +440,7 @@ do-import-multiple =
     { $key }
 do-import-one = ¿Importar { $name } ({ $id })?
 cant-import = Error al importar la clave pública
+key-in-message-body = Se encontró una clave en el cuerpo del mensaje. Haz clic en ‘Importar clave’ para importar la clave.
 sig-mismatch = Error - Falta de coincidencia de la firma
 invalid-email = Error - dirección o direcciones de correo no válidas
 dlg-button-view = &Ver
