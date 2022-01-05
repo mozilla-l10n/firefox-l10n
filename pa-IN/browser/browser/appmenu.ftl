@@ -182,22 +182,29 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = ਬਹੁਤੀਆਂ ਵੈੱਬ ਐਪ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਘੱਟ ਉਲਝਣਾਂ ਨਾਲ ਪਹਿਲਾਂ ਨਿਯਤ ਕੀਤੀਆਂ ਸਿਫਾਰਸ਼ੀ ਸੈਟਿੰਗਾਂ।
+profiler-popup-presets-web-developer-description = ਬਹੁਤੀਆਂ ਵੈੱਬ ਐਪ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਘੱਟ ਉਲਝਣਾਂ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-web-developer-label =
     .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
-profiler-popup-presets-firefox-platform-description = ਅੰਦਰੂਨੀ Firefox ਪਲੇਟਫਾਰਮ ਡੀਬੱਗ ਕਰਨ ਲਈ ਪਹਿਲਾਂ ਨਿਯਮਤ ਸਿਫਾਰਸ਼ਾਂ ਸੈਟਿੰਗਾਂ।
+profiler-popup-presets-firefox-platform-description = ਅੰਦਰੂਨੀ Firefox ਪਲੇਟਫਾਰਮ ਡੀਬੱਗ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox ਮੰਚ
+profiler-popup-presets-firefox-front-end-description = ਅੰਦਰੂਨੀ Firefox ਪਲੇਟਫਾਰਮ ਡੀਬੱਗ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-front-end-label =
     .label = Firefox ਫਰੰਟ-ਐਂਡ
+profiler-popup-presets-firefox-graphics-description = Firefox ਗਰਾਫਿਕਸ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਂਚ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox ਗਰਾਫਿਕਸ
+profiler-popup-presets-media-description = ਆਡੀਓ ਤੇ ਵੀਡੀਓ ਸਮੱਸਿਆਵਾਂ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
+profiler-popup-presets-firefox-description = { -brand-shorter-name } ਪਰੋਫਾਈਲਿੰਗ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = { -brand-shorter-name } ਵਿੱਚ ਗਰਾਫਿਸ ਬੱਗ ਦੀ ਜਾਂਚ ਕਰਨਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-graphics-label =
     .label = ਗਰਾਫਿਕਸ
+profiler-popup-presets-media-description2 = { -brand-shorter-name } ਵਿੱਚ ਆਡੀਓ ਤੇ ਵੀਡੀਓ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-media-label =
     .label = ਮੀਡਿਆ
+profiler-popup-presets-networking-description = { -brand-shorter-name } ਵਿੱਚ ਨੈੱਟਵਰਕਿੰਗ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-networking-label =
     .label = ਨੈੱਟਵਰਕਿੰਗ
 profiler-popup-presets-custom-label =
