@@ -524,6 +524,7 @@ dlg-button-ok = &Aceptar
 dlg-button-close = &Cerrar
 dlg-button-cancel = &Cancelar
 dlg-no-prompt = No volver a mostrar este diálogo.
+enig-prompt = Aviso de OpenPGP
 enig-confirm = Confirmación de OpenPGP
 enig-alert = Alerta de OpenPGP
 enig-info = Información de OpenPGP
