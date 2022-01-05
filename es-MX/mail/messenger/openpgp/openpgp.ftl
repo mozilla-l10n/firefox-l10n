@@ -256,6 +256,9 @@ openpgp-acceptance-unverified-label =
     .label = Sí, pero no he verificado que sea la clave correcta.
 openpgp-acceptance-verified-label =
     .label = Sí, verifiqué personalmente que esta clave tiene la huella digital correcta.
+key-accept-personal =
+    Para esta clave, tienes tanto la parte pública como la parte secreta. Puedes usarlo como clave personal.
+    Si otra persona te dio esta clave, no la uses como clave personal.
 key-personal-warning = ¿Creaste esta clave tú mismo y la propiedad de la clave mostrada se refiere a ti mismo?
 openpgp-personal-no-label =
     .label = No, no usar como mi clave personal.
@@ -299,6 +302,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Revocar clave
 openpgp-key-edit-title = Cambiar la clave OpenPGP
 openpgp-key-edit-date-title = Extender la fecha de vencimiento
+openpgp-manager-description = Utiliza el Administrador de claves OpenPGP para ver y administrar las claves públicas de tus corresponsales y todas las demás claves no listadas arriba.
 openpgp-manager-button =
     .label = Administrador de claves OpenPGP
     .accesskey = K
@@ -338,6 +342,13 @@ keyserver-error-unavailable = El servidor de claves no está disponible.
 keyserver-error-security-error = El servidor de claves no admite el acceso cifrado.
 keyserver-error-certificate-error = El certificado del servidor de claves no es válido.
 keyserver-error-unsupported = El servidor de claves no es compatible.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Tu proveedor de correo electrónico procesó tu solicitud para subir tu clave pública al directorio de claves web de OpenPGP.
+    Confirma para completar la publicación de tu clave pública.
+wkd-message-body-process =
+    Este es un correo electrónico relacionado con el procesamiento automático para subir tu clave pública en el directorio de claves web de OpenPGP.
+    No necesitas tomar ninguna acción manual en este punto.
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de firma desconocido (ID: { $id })
 unknown-hash-alg = Hash criptográfico desconocido (ID: { $id })
@@ -368,6 +379,9 @@ import-from-clip = ¿Quieres importar algunas claves del portapapeles?
 import-from-url = Descarga la clave pública desde esta URL:
 copy-to-clipbrd-failed = No se pudieron copiar las claves seleccionadas al portapapeles.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
+delete-pub-key =
+    ¿Quieres eliminar la clave pública
+    ‘{ $userId }’?
 delete-selected-pub-key = ¿Quieres eliminar las claves públicas?
 refresh-all-question = No seleccionaste ninguna clave. ¿Te gustaría actualizar TODAS las claves?
 key-man-button-export-sec-key = Exportar claves &secretas
@@ -409,6 +423,10 @@ key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
 key-in-use-title = Clave OpenPGP actualmente en uso
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Error - el comando de extracción de clave falló
+# Strings used in keyRing.jsm
+fail-cancel = Error - La clave ha sido cancelada por el usuario
 not-first-block = Error - El primer bloque OpenPGP no es un bloque de clave pública
 import-key-confirm = ¿Importar clave(s) pública(s) incrustadas en el mensaje?
 fail-key-import = Error - importación de clave fallida
