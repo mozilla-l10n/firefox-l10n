@@ -268,6 +268,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Afturkalla lykil
 openpgp-key-edit-title = Breyta OpenPGP-lykli
 openpgp-key-edit-date-title = Framlengja gildistíma
+openpgp-manager-description = Notaðu OpenPGP-lyklastýringuna til að skoða og stjórna opinberum dreifilyklum þeirra sem þú átt í samskiptum við og alla aðra lykla sem ekki eru taldir upp hér að ofan.
 openpgp-manager-button =
     .label = OpenPGP lyklastýring
     .accesskey = k
@@ -352,6 +353,8 @@ key-man-button-revoke-key = Aftu&rkalla lykil
 key-man-button-import = Flytja &inn
 delete-key-title = Eyða OpenPGP-lykli
 delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Aðgerðin sem þú hefur valið er ekki tiltæk án nettengingar. Tengstu við internetið og reyndu aftur.
 # Strings used in trust.jsm
 key-valid-unknown = óþekktur
 key-valid-invalid = ógildur

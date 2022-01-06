@@ -17,7 +17,7 @@ radio-import-key =
     .label = Flytja inn fyrirliggjandi OpenPGP-lykil
     .accesskey = i
 radio-gnupg-key =
-    .label = Nota ytri lykilinn þinn í gegnum GnuPG (t.d. af snjallkorti)
+    .label = Nota utanaðkomandi lykilinn þinn í gegnum GnuPG (t.d. af snjallkorti)
     .accesskey = y
 
 ## Generate key section
@@ -81,11 +81,45 @@ openpgp-key-confirm = Búa til opinberan og leynilegan lykil fyrir { $identity }
 ## Import Key section
 
 openpgp-import-key-title = Flytja inn fyrirliggjandi persónulegan OpenPGP-lykil
+openpgp-import-key-legend = Velja áður öryggisafritaða skrá.
 openpgp-import-key-info = Annar hugbúnaður gæti lýst persónulegum einkalykli með því að nota önnur hugtök eins og þinn eigin lykill, leynilykill, einkalykill eða lyklapar.
-openpgp-import-key-list-caption = Lyklar sem merktir eru til að meðhöndla sem einkalykla verða skráðir í hlutann yfir enda-í-enda dulritun. Hinir verða tiltækir í lyklaumsýslunni.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird fann einn lykil sem hægt er að flytja inn.
+       *[other] Thunderbird fann { $count } lykla sem hægt er að flytja inn.
+    }
+openpgp-import-key-list-caption = Lyklar sem merktir eru til að meðhöndla sem einkalykla verða skráðir í hlutann yfir enda-í-enda dulritun. Hinir verða tiltækir í lyklastýringunni.
+openpgp-passphrase-prompt-title = Aðgangsorðs krafist
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Settu inn aðgangsorðið til að aflæsa eftirfarandi lykli: { $key }
+openpgp-import-key-button =
+    .label = Veldu skrá til að flytja inn...
+    .accesskey = s
+import-key-file = Flytja inn OpenPGP-lykilskrá
+import-key-personal-checkbox =
+    .label = Farðu með þennan lykil sem persónulegan lykil
+gnupg-file = GnuPG-skrár
+import-error-file-size = <b>Villa!</b> Skrár stærri en 5MB eru ekki studdar.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Villa!</b> Mistókst að flytja inn skrá. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Villa!</b> Mistókst að flytja inn lykla. { $error }
+openpgp-import-identity-label = Auðkenni
 openpgp-import-fingerprint-label = Fingrafar
+openpgp-import-created-label = Búið til
+openpgp-import-bits-label = bita
+openpgp-import-key-props =
+    .label = Eiginleikar lykils
+    .accesskey = k
 
 ## External Key section
 
+openpgp-external-key-title = Utanaðkomandi GnuPG-lykill
+openpgp-external-key-description = Settu upp utanaðkomandi GnuPG-lykil með því að setja inn lykilauðkennið
+openpgp-external-key-info = Að auki verður þú að nota lyklastýringuna til að flytja inn og samþykkja samsvarandi opinberan dreifilykil.
+openpgp-external-key-warning = <b>Þú mátt aðeins stilla einn utanaðkomandi GnuPG-lykil.</b> Fyrri færslu þinni verður skipt út.
+openpgp-save-external-button = Vista lykilauðkenni
+openpgp-external-key-label = Auðkenni leynilykils:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
