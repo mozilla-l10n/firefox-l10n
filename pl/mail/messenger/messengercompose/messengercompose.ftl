@@ -284,6 +284,7 @@ cloud-file-template-size = Rozmiar:
 cloud-file-template-link = Odnośnik:
 cloud-file-template-password-protected-link = Odnośnik zabezpieczony hasłem:
 cloud-file-template-expiry-date = Data wygaśnięcia:
+cloud-file-template-download-limit = Ograniczenie pobierania:
 
 # Messages
 
