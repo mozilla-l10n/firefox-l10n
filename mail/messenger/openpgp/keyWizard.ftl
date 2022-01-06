@@ -2,12 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+#   $identity (String) - the email address of the currently selected identity
+key-wizard-dialog-window =
+    .title = Bæta við persónulegum OpenPGP-einkalykli fyrir { $identity }
 key-wizard-button =
     .buttonlabelaccept = Halda áfram
     .buttonlabelhelp = Fara til baka
+key-wizard-warning = <b>Ef þú ert þegar með persónulegan lykil</b> fyrir þetta tölvupóstfang ættirðu að flytja hann inn. Að öðrum kosti muntu ekki hafa aðgang að safni þínu af dulrituðum tölvupóstum, né geta lesið dulritaða tölvupósta frá fólki sem er enn að nota núverandi lykil.
+key-wizard-learn-more = Frekari upplýsingar
+radio-create-key =
+    .label = Útbúa nýjan OpenPGP-lykil
+    .accesskey = P
+radio-import-key =
+    .label = Flytja inn fyrirliggjandi OpenPGP-lykil
+    .accesskey = i
+radio-gnupg-key =
+    .label = Nota ytri lykilinn þinn í gegnum GnuPG (t.d. af snjallkorti)
+    .accesskey = y
 
 ## Generate key section
 
+openpgp-generate-key-title = Útbúa OpenPGP-lykil
 openpgp-keygen-advanced-title = Ítarlegri stillingar
 
 ## Import Key section
