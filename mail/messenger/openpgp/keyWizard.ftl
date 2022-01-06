@@ -51,6 +51,19 @@ openpgp-keygen-type-rsa =
 openpgp-keygen-type-ecc =
     .label = ECC (Elliptic Curve)
 openpgp-keygen-button = Útbúa lykil
+openpgp-keygen-progress-title = Bý til nýja OpenPGP-lykilinn þinn...
+openpgp-keygen-import-progress-title = Flyt inn OpenPGP-lyklana þína...
+openpgp-import-success = OpenPGP-lyklar voru fluttir inn!
+openpgp-import-success-title = Ljúka innflutningsferlinu
+openpgp-keygen-confirm =
+    .label = Staðfesta
+openpgp-keygen-dismiss =
+    .label = Hætta við
+openpgp-keygen-cancel =
+    .label = Hætta við ferli...
+openpgp-keygen-import-complete =
+    .label = Loka
+    .accesskey = k
 
 ## Import Key section
 
