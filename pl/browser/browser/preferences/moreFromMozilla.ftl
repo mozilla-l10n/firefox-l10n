@@ -17,3 +17,15 @@ more-from-moz-mozilla-vpn-description = Odkryj dodatkową warstwę ochrony i an
 more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } dodaje jeszcze jedną warstwę ochrony i anonimowego przeglądania. I, w przeciwieństwie do niektórych innych VPN-ów, jest bezpieczna i nie śledzi Twoich działań w sieci.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Zaprzęgnij swoje dane do pracy nad lepszym Internetem dla wszystkich.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Przekaż swoje dane do badań naukowych mających na celu stworzenie bezpieczniejszego, bardziej otwartego Internetu, który pomaga ludziom, nie wielkim korporacjom.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Dołącz do projektu { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Pobierz za pomocą telefonu. Skieruj aparat na kod QR. Stuknij odnośnik, kiedy się pojawi.
+more-from-moz-qr-code-box-firefox-mobile-button = Zamiast tego wyślij e-mail na telefon
+more-from-moz-button-mozilla-vpn =
+    .label = Wypróbuj VPN
+more-from-moz-learn-more-link = Więcej informacji
