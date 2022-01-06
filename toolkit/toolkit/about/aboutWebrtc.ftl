@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Лог AEC
 about-webrtc-aec-logging-off-state-label = Начать вести лог AEC
 about-webrtc-aec-logging-on-state-label = Прекратить вести лог AEC
 about-webrtc-aec-logging-on-state-msg = Ведение лога AEC включено (поговорите с абонентом в течение нескольких минут, а затем остановите захват)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Автообновление
 
 ##
 
