@@ -15,6 +15,8 @@ auth-fail = Mistókst að staðfesta auðkenni tengiliðarins þíns.
 auth-waiting = Bíður eftir að tengiliðurinn ljúki staðfestingunni...
 finger-verify = Staðfesta
 finger-verify-access-key = f
+finger-ignore = Hunsa
+finger-ignore-access-key = H
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Bæta við OTR-fingrafari
 # Variables:
