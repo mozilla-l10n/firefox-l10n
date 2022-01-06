@@ -12,7 +12,9 @@
 
 policy-3rdparty = Stilla stefnur sem WebExtensions hafa aðgang að í gegnum chrome.storage.managed.
 policy-AppAutoUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á forriti.
+policy-AppUpdateURL = Stilla sérsniðna vefslóð uppfærslu forrits.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsvæði sem styðja slíkt.
+policy-BackgroundAppUpdate2 = Virkja eða slökkva á uppfærslum í bakgrunni.
 policy-BlockAboutAddons = Loka á aðgang að viðbótastýringunni (about:addons).
 policy-BlockAboutConfig = Loka aðgangi að about:config síðu.
 policy-BlockAboutProfiles = Loka aðgangi að about:profiles síðu.
@@ -21,9 +23,11 @@ policy-CaptivePortal = Virkja eða slökkva á þjónustuaðgangi.
 policy-CertificatesDescription = Bæta við skilríkjum eða nota innbyggð skilríki.
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
 policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
+policy-DisabledCiphers = Gera dulritun óvirka.
 policy-DefaultDownloadDirectory = Stilla sjálfgefna möppu fyrir sóttar skrár.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
 policy-DisableDeveloperTools = Loka fyrir aðgang að þróunarverkfærunum.
+policy-DisableForgetButton = Koma í veg fyrir aðgang að Gleyma-hnappnum.
 policy-DisableFormHistory = Ekki muna leitar- og innfyllingarferil.
 policy-DisableMasterPasswordCreation = Ef satt, er ekki hægt að búa til aðallykilorð.
 policy-DisablePasswordReveal = Ekki leyfa birtingu lykilorða í vistuðum innskráningum.
@@ -55,6 +59,8 @@ policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku nota
 policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar skrár.
 policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
 policy-Preferences = Stilltu og læstu gildinu fyrir undirmengi kjörstillinga.
 policy-PrimaryPassword = Krefjast eða koma í veg fyrir notkun aðallykilorðs.
