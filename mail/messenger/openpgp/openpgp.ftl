@@ -248,6 +248,18 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird er ekki með neinn persónulegan OpenPGP-lykil fyrir <b>{ $identity }</b>
+        [one] Thunderbird fann { $count } persónulegan OpenPGP-lykil tengdann <b>{ $identity }</b>
+       *[other] Thunderbird fann { $count } persónulega OpenPGP-lykla tengda <b>{ $identity }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Núverandi uppsetning þín notar lykil með auðkennið <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Núverandi uppsetning þín notar lykilinn <b>{ $key }</b>, sem er útrunninn.
 openpgp-add-key-button =
     .label = Bæta við lykli...
     .accesskey = a
@@ -261,6 +273,9 @@ openpgp-keygen-external-success = Utanaðkomandi GnuPG-lykilauðkenni vistað!
 openpgp-radio-none =
     .label = Ekkert
 openpgp-radio-none-desc = Ekki nota OpenPGP fyrir þessi auðkenni.
+openpgp-radio-key-not-usable = Þessi lykill er ekki nothæfur sem persónulegur lykill, því leynilega einkaykillinn vantar!
+openpgp-radio-key-not-accepted = Til að nota þennan lykil þarftu að samþykkja hann sem persónulegan lykil!
+openpgp-radio-key-not-found = Þessi lykill fannst ekki! Ef þú vilt nota hann verður þú að flytja hann inn í { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Rennur út: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
@@ -296,6 +311,7 @@ key-revoked-simple = Lykillinn var afturkallaður
 key-accept-warning = Forðastu að samþykkja hvaða lykil sem er. Notaðu aðra samskiptamáta en tölvupóst til að staðfesta fingrafar lykils viðmælanda þíns.
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Dulritaður hluti skilaboða
+mime-decrypt-encrypted-part-concealed-data = Þetta er dulritaður hluti skilaboða. Þú þarft að opna það í sérstökum glugga með því að smella á viðhengið.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Hætt við
 keyserver-error-unknown = Óþekkt villa kom upp
