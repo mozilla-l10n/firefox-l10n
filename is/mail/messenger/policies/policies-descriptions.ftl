@@ -43,8 +43,12 @@ policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku nota
 ##
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar skrár.
+policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
+policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
 policy-Preferences = Stilltu og læstu gildinu fyrir undirmengi kjörstillinga.
+policy-PrimaryPassword = Krefjast eða koma í veg fyrir notkun aðallykilorðs.
+policy-PromptForDownloadLocation = Spyrja hvar eigi að vista sóttar skrár.
 policy-Proxy = Sýsla með stillingar á milliþjóni (proxy).
 policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af forritinu, raðað eftir vali.
 policy-SanitizeOnShutdown2 = Hreinsa ferilsgögn við lokun.
