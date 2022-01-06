@@ -69,3 +69,7 @@
                 [lower] podpowiedziach Firefoksa
             }
     }
+
+-rally-brand-name = Mozilla Rally
+-rally-short-name = Rally
+
