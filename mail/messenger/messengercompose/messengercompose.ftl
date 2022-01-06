@@ -256,7 +256,28 @@ encrypted-bcc-ignore-button = Sym zrozumił
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstowy stil wotstronić
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Přez hesło škitany wotkaz
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Słužba CloudFile:
+cloud-file-template-size = Wulkosć:
+cloud-file-template-link = Wotkaz
+cloud-file-template-password-protected-link = Přez hesło škitany wotkaz:
+cloud-file-template-expiry-date = Datum płaćiwosće:
+cloud-file-template-download-limit = Sćehnjenski limit:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
