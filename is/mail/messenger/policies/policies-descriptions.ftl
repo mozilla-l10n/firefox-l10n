@@ -58,6 +58,8 @@ policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku nota
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar skrár.
 policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
+policy-OverrideFirstRunPage = Setja aðra upphafssíðu. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
+policy-OverridePostUpdatePage = Setja aðra síðu í stað "Hvað er nýtt"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
