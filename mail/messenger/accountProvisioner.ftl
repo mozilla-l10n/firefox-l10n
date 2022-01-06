@@ -7,6 +7,7 @@ provisioner-searching-icon =
     .alt = Leitar…
 account-provisioner-title = Útbúa nýtt tölvupóstfang
 account-provisioner-description = Notaðu trausta samstarfsaðila okkar til að fá nýtt persónulegt og öruggt tölvupóstfang.
+account-provisioner-start-help = Leitarorðin sem notuð eru eru send til { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Persónuverndarstefna</a>) og utanaðkomandi tölvupóstþjónustnanna <strong>mailfence.com </strong> (<a data-l10n-name="mailfence-privacy-link">Persónuverndarstefna</a>, <a data-l10n-name="mailfence-tou-link">Notkunarskilmálar</a >) og <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Persónuverndarstefna</a>, <a data-l10n-name="gandi-tou- link">Notkunarskilmálar</a>) til að finna tiltæk tölvupóstföng.
 account-provisioner-mail-account-title = Kauptu nýtt tölvupóstfang
 account-provisioner-mail-account-description = Thunderbird hóf samstarf við <a data-l10n-name="mailfence-home-link">Mailfence</a> til að bjóða þér nýjan leynilegan og öruggan tölvupóst. Við teljum að allir ættu að vera með öruggan tölvupóst.
 account-provisioner-domain-title = Kauptu tölvupóstfang og þitt eigið lén
@@ -33,9 +34,20 @@ account-provisioner-searching-error = Fann engin vistföng til að stinga upp á
 
 ## Illustrations
 
+account-provisioner-step1-image =
+    .title = Veldu hvaða reikning á að búa til
 
 ## Search results
 
+# Variables:
+# $count (Number) - The number of domains found during search.
+account-provisioner-results-title =
+    { $count ->
+        [one] Eitt tiltækt póstfang fannst fyrir:
+       *[other] { $count } tiltæk póstföng fundust fyrir:
+    }
+account-provisioner-mail-results-caption = Þú getur prófað að leita eftir gælunafni eða öðru til að fá fleiri niðurstöður.
+account-provisioner-domain-results-caption = Þú getur prófað að leita eftir gælunafni eða öðru til að fá fleiri lén.
 account-provisioner-free-account = Ókeypis
 account-provision-price-per-year = { $price } á ári
 account-provisioner-all-results-button = Sýna allar niðurstöður
