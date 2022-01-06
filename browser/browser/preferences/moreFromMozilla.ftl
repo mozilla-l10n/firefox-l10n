@@ -13,8 +13,11 @@ more-from-moz-firefox-mobile-title = Mobilny { -brand-product-name }
 more-from-moz-firefox-mobile-description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Wotkryjće přidatu runinu anonymneho přehladowanja a škita.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } dalšu runinu anonymneho přehladowanja a škita přidawa. A, na rozdźěl wot druhich VPN, je wěsty a njeslěduje wašej aktiwiće.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Stajće swoje daty za lěpši internet za wšěch k dispoziciji.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = So na { -rally-short-name } wobdźělić
