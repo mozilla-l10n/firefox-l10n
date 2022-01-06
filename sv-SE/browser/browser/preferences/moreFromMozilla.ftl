@@ -11,7 +11,9 @@ more-from-moz-category =
 more-from-moz-subtitle = Kolla in andra { -vendor-short-name }-produkter som fungerar för att stödja ett hälsosamt internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } för mobil
 more-from-moz-firefox-mobile-description = Den mobila webbläsaren som sätter din integritet främst.
+more-from-moz-firefox-mobile-description-advanced = Från att blockera spårare till att stoppa irriterande innehåll med automatisk uppspelning, { -brand-product-name } mobila webbläsare arbetar övertid för att säkerställa att du får bästa möjliga surfning på internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Upptäck ett extra lager av anonym surfning och skydd.
 more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } lägger till ytterligare ett lager av anonym surfning och skydd. Och, till skillnad från vissa andra VPN:er, är det säkert och vi spårar inte din aktivitet.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
