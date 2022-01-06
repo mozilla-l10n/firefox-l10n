@@ -11,12 +11,15 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Stilla stefnur sem WebExtensions hafa aðgang að í gegnum chrome.storage.managed.
+policy-AppAutoUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á forriti.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsvæði sem styðja slíkt.
 policy-BlockAboutAddons = Loka á aðgang að viðbótastýringunni (about:addons).
 policy-BlockAboutProfiles = Loka aðgangi að about:profiles síðu.
+policy-CertificatesDescription = Bæta við skilríkjum eða nota innbyggð skilríki.
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
 policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
+policy-DisableDeveloperTools = Loka fyrir aðgang að þróunarverkfærunum.
 policy-DisableProfileImport = Slökkva á valmyndarskipuninni til að flytja inn gögn úr öðru forriti.
 policy-DisableSecurityBypass = Koma í veg fyrir að notandinn fari framhjá ákveðnum öryggisaðvörunum.
 policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } setji upp og uppfæri kerfisviðbætur.
@@ -44,5 +47,14 @@ policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringun
 policy-Preferences = Stilltu og læstu gildinu fyrir undirmengi kjörstillinga.
 policy-Proxy = Sýsla með stillingar á milliþjóni (proxy).
 policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af forritinu, raðað eftir vali.
+policy-SanitizeOnShutdown2 = Hreinsa ferilsgögn við lokun.
+policy-SearchEngines = Stilla leitarvélar. Þessi stefna er aðeins í boði í ESR-langtímaútgáfum (Extended Support Release).
+policy-SearchSuggestEnabled = Virkja eða slökkva á leitarábendingum.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
+policy-SSLVersionMax = Stilltu hámarksútgáfu SSL.
+policy-SSLVersionMin = Stilltu lágmarksútgáfu SSL.
+policy-SupportMenu = Bæta sérsniðinni færslu fyrir aðstoð við hjálparvalmyndina.
+policy-UserMessaging = Ekki sýna notandanum ákveðin skilaboð.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.
