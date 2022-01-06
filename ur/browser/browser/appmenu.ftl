@@ -153,12 +153,20 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = ویب تکمیل کار
 profiler-popup-presets-firefox-platform-label =
     .label = Firefox پلیٹ فارم
 profiler-popup-presets-firefox-graphics-label =
     .label = Firefox گرافکس
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = گرافکس
 profiler-popup-presets-media-label =
     .label = میڈیا
+profiler-popup-presets-networking-label =
+    .label = نیٹ ورکنگ
 profiler-popup-presets-custom-label =
     .label = مخصوص
 
