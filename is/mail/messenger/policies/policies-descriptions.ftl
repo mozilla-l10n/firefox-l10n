@@ -26,6 +26,7 @@ policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } se
 policy-DisableTelemetry = Slökkva á gagnasöfnun.
 policy-DisplayMenuBar = Birta valmyndastikuna sjálfgefið.
 policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
+policy-DownloadDirectory = Stilla og læsa möppu fyrir sóttar skrár.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlunarviðbótum (Encrypted Media Extensions) og mögulega læsa þeim.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -34,6 +35,7 @@ policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlu
 policy-Extensions = Setja upp, fjarlægja eða læsa viðbótum. Uppsetningarvalkosturinn tekur við vefslóðum og skráaslóðum sem breytum. Valkostir til að fjarlægja eða læsa viðbót krefjast auðkennis viðbótarinnar.
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
+policy-HardwareAcceleration = Ef ósatt, skal slökkva á vélbúnaðarhröðun.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp viðbætur.
 policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku notandasniði fyrir hverja uppsetningu.
 
