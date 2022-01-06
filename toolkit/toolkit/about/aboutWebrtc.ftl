@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC 로깅
 about-webrtc-aec-logging-off-state-label = AEC 로깅 시작
 about-webrtc-aec-logging-on-state-label = AEC 로깅 중지
 about-webrtc-aec-logging-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = 자동 새로 고침
 
 ##
 
