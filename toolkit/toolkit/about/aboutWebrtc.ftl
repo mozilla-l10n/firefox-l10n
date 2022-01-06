@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC 記錄
 about-webrtc-aec-logging-off-state-label = 開始 AEC 記錄
 about-webrtc-aec-logging-on-state-label = 停止 AEC 記錄
 about-webrtc-aec-logging-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = 自動重新整理
 
 ##
 
