@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC-protokolowanje
 about-webrtc-aec-logging-off-state-label = AEC-protokolowanje startować
 about-webrtc-aec-logging-on-state-label = AEC-protokolowanje zastajić
 about-webrtc-aec-logging-on-state-msg = AEC-protokolowanje aktiwne (rěčće por mjeńšin ze zawołarjom a zastajće potom natočenje)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Awtomatisce aktualizować
 
 ##
 
