@@ -23,7 +23,34 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Útbúa OpenPGP-lykil
+openpgp-generate-key-info = <b>Það getur tekið allt að nokkrar mínútur að búa til lykla.</b> Ekki hætta í forritinu á meðan lyklagerð er í gangi. Sé verið að vafra eða framkvæma diskfrekar aðgerðir meðan á lyklagerð stendur endurnýjar það tilviljunarkennt úrtak tölvunnar (randomness pool) og flýtir fyrir ferlinu. Þú færð aðvörun þegar lyklagerð er lokið.
+openpgp-keygen-expiry-title = Gildistími lykils
+openpgp-keygen-expiry-description = Skilgreindu gildistíma nýgerða lykilsins þíns. Þú getur síðar breytt dagsetningunni til að framlengja hana ef þörf krefur.
+radio-keygen-expiry =
+    .label = Lykill rennur út eftir
+    .accesskey = e
+radio-keygen-no-expiry =
+    .label = Lykill rennur ekki út
+    .accesskey = k
+openpgp-keygen-days-label =
+    .label = daga
+openpgp-keygen-months-label =
+    .label = mánuði
+openpgp-keygen-years-label =
+    .label = ár
 openpgp-keygen-advanced-title = Ítarlegri stillingar
+openpgp-keygen-advanced-description = Stjórna ítarlegum stillingum OpenPGP-lykilsins.
+openpgp-keygen-keytype =
+    .value = Tegund lykils:
+    .accesskey = T
+openpgp-keygen-keysize =
+    .value = Stærð lykils:
+    .accesskey = S
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (Elliptic Curve)
+openpgp-keygen-button = Útbúa lykil
 
 ## Import Key section
 
