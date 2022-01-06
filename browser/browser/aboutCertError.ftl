@@ -48,6 +48,7 @@ cert-error-code-prefix-link = Zmylkowy kod: <a data-l10n-name="error-code-link">
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Websydła swoju identitu přez certifikaty dopokazuja, kotrež certifikowanišća wudawaja. Najwjace wobhladowakow hižo certifikatam njedowěrja, kotrež su GeoTrust, RapidSSL, Symantec, Thawte a VeriSign wudali. { $hostname } certifikat jednoho z tutych certifikowanišćow wužiwa a tohodla njeda so identita websydła dopokazać.
 cert-error-symantec-distrust-admin = Snano chceće administratora websydła wo tutym problemje informować.
+cert-error-old-tls-version = Tute websydło snano protokolTLS 1.2 njepodpěruje, kotryž je minimalna wersija, kotruž { -brand-short-name } podpěruje.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
