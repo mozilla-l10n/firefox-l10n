@@ -256,7 +256,26 @@ encrypted-bcc-ignore-button = Razumem
 compose-tool-button-remove-text-styling =
     .tooltiptext = Odstrani oblikovanje besedila
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Storitev CloudFile:
+cloud-file-template-size = Velikost:
+cloud-file-template-link = Povezava:
+cloud-file-template-password-protected-link = Z geslom zaščitena povezava:
+cloud-file-template-expiry-date = Datum poteka:
+cloud-file-template-download-limit = Omejitev prenosa:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
