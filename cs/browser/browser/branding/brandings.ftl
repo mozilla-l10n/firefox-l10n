@@ -154,3 +154,7 @@
                 [lower] návrhy od Firefoxu
             }
     }
+
+-rally-brand-name = Mozilla Rally
+-rally-short-name = Rally
+
