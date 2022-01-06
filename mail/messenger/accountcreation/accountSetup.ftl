@@ -246,6 +246,57 @@ account-setup-address-book-carddav-button = Ühendu CardDAVi aadressiraamatuga
 account-setup-address-book-ldap-button = Ühendu LDAPi aadressiraamatuga
 account-setup-calendar-button = Ühendu kaugkalendriga
 account-setup-linked-services-title = Ühendu oma lingitud teenustega
+account-setup-linked-services-description = { -brand-short-name } tuvastas sinu e-posti kontoga seotud muud teenused.
+account-setup-no-linked-description = Seadista ka teised teenused, et võtta { -brand-short-name }i kogemusest maksimum.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } leidis ühe e-posti kontoga seotud aadressiraamatu.
+       *[other] { -brand-short-name } leidis { $count } e-posti kontoga seotud aadressiraamatut.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } leidis ühe e-posti kontoga seotud kalendri.
+       *[other] { -brand-short-name } leidis { $count } e-posti kontoga seotud kalendrit.
+    }
+account-setup-button-finish = Lõpeta
+    .accesskey = L
+account-setup-looking-up-address-books = Aadressiraamatute otsimine…
+account-setup-looking-up-calendars = Kalendrite otsimine…
+account-setup-address-books-button = Aadressiraamatud
+account-setup-calendars-button = Kalendrid
+account-setup-connect-link = Ühenda
+account-setup-existing-address-book = Ühendatud
+    .title = Aadressiraamat on juba ühendatud
+account-setup-existing-calendar = Ühendatud
+    .title = Kalender on juba ühendatud
+account-setup-connect-all-calendars = Ühenda kõik kalendrid
+account-setup-connect-all-address-books = Ühenda kõik aadressiraamatud
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Kalendri ühendamine
+calendar-dialog-cancel-button = Loobu
+    .accesskey = L
+calendar-dialog-confirm-button = Ühenda
+    .accesskey = h
+account-setup-calendar-name-label = Nimi
+account-setup-calendar-name-input =
+    .placeholder = Minu kalender
+account-setup-calendar-color-label = Värv
+account-setup-calendar-refresh-label = Värskenda
+account-setup-calendar-refresh-manual = käsitsi
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] iga minut
+       *[other] iga { $count } minuti järel
+    }
+account-setup-calendar-read-only = Kirjutuskaitstud
+    .accesskey = K
+account-setup-calendar-show-reminders = Kuvatakse meeldetuletusi
+    .accesskey = K
+account-setup-calendar-offline-support = Võrguta režiimi tugi
+    .accesskey = g
