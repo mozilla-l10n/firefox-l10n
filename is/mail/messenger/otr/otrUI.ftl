@@ -29,6 +29,9 @@ alert-gone-insecure = Dulritaða samtalinu við { $name } lauk.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-unseen = Auðkenni { $name } hefur ekki ennþá verið staðfest. Það er ekki hægt að hlera þetta á einfaldan hátt, en með nokkurri fyrirhöfn gæti einhver komist inn í samskiptin. Komdu í veg fyrir eftirlit með því að staðfesta auðkenni þessa tengiliðar.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } er að hafa samband við þig úr óþekktri tölvu. Það er ekki hægt að hlera þetta á einfaldan hátt, en með nokkurri fyrirhöfn gæti einhver komist inn í samskiptin. Komdu í veg fyrir eftirlit með því að staðfesta auðkenni þessa tengiliðar.
 state-not-private = Núverandi samtal er ekki einkamál.
 state-generic-not-private = Núverandi samtal er ekki einkamál.
 # Variables:

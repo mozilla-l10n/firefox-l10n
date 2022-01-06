@@ -243,6 +243,8 @@ openpgp-acceptance-unverified-label =
     .label = Já, en ég hef ekki staðfest að þetta sé réttur lykill.
 openpgp-acceptance-verified-label =
     .label = Já, ég hef staðfest í eigin persónu að þessi lykill hafi rétt fingrafar.
+openpgp-copy-cmd-label =
+    .label = Afrita
 
 ## e2e encryption settings
 
@@ -250,11 +252,15 @@ openpgp-add-key-button =
     .label = Bæta við lykli...
     .accesskey = a
 e2e-learn-more = Fræðast meira
+openpgp-keygen-success = OpenPGP-lykill búinn til!
+openpgp-keygen-import-success = OpenPGP-lykill fluttur inn!
+openpgp-keygen-external-success = Utanaðkomandi GnuPG-lykilauðkenni vistað!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Ekkert
+openpgp-radio-none-desc = Ekki nota OpenPGP fyrir þessi auðkenni.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Rennur út: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
@@ -288,8 +294,17 @@ key-expired-date = Lykillinn rann út { $keyExpiry }
 key-expired-simple = Lykillinn er útrunninn
 key-revoked-simple = Lykillinn var afturkallaður
 key-accept-warning = Forðastu að samþykkja hvaða lykil sem er. Notaðu aðra samskiptamáta en tölvupóst til að staðfesta fingrafar lykils viðmælanda þíns.
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Dulritaður hluti skilaboða
 # Strings in keyserver.jsm
 keyserver-error-aborted = Hætt við
+keyserver-error-unknown = Óþekkt villa kom upp
+keyserver-error-server-error = Lyklaþjónninn tilkynnti villu.
+keyserver-error-import-error = Mistókst að flytja inn sótta lykilinn.
+keyserver-error-unavailable = Lyklaþjónninn er ekki tiltækur.
+keyserver-error-security-error = Lyklaþjónninn styður ekki dulritaðan aðgang.
+keyserver-error-certificate-error = Skilríki lyklaþjónsins er ekki gilt.
+keyserver-error-unsupported = Lyklaþjónninn er ekki studdur.
 # Strings in gpg.jsm
 unknown-signing-alg = Óþekkt undirritunarreiknirit (auðkenni: { $id })
 unknown-hash-alg = Óþekkt tætigildi dulkóðunar (auðkenni: { $id })
@@ -301,9 +316,11 @@ expiry-keys-expire-soon =
     Eftirfarandi lyklar munu renna út eftir minna en { $days } daga:{ $desc }.
     Við mælum með að þú búir til nýja lykla og stillir samsvarandi reikninga til að nota þá.
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
+expiry-open-key-properties = Opna eiginleika lykils
 # Strings filters.jsm
 filter-folder-required = Þú verður að velja úttaksmöppu.
 filter-term-pgpencrypted-label = OpenPGP-dulritað
+filter-key-required = Þú verður að velja viðtakandalykil.
 filter-key-not-found = Gat ekki fundið dulritunarlykil fyrir '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
@@ -343,18 +360,26 @@ dlg-button-delete = &Eyða
 
 openpgp-export-public-success = <b>Tókst að flytja út dreifilykil!</b>
 openpgp-export-public-fail = <b>Ekki tókst að flytja út valinn dreifilykil!</b>
+openpgp-export-secret-success = <b>Tókst að flytja út einkaykil!</b>
+openpgp-export-secret-fail = <b>Ekki tókst að flytja út valinn einkalykil!</b>
 # Strings in gnupg-keylist.jsm
 keyring-photo = Ljósmynd
 user-att-photo = Eigindi notanda (JPEG-mynd)
 # Strings in key.jsm
 already-revoked = Þessi lykill hefur þegar verið afturkallaður.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Lykillinn 0x{ $keyId } hefur þegar verið afturkallaður.
 key-man-button-revoke-key = Aftu&rkalla lykil
+openpgp-key-revoke-success = Tókst að afturkalla lykil.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = Flytja &inn
 delete-key-title = Eyða OpenPGP-lykli
 delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
+key-in-use-title = OpenPGP-lykill í notkun
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Aðgerðin sem þú hefur valið er ekki tiltæk án nettengingar. Tengstu við internetið og reyndu aftur.
+fail-key-import = Villa - innflutningur lykla mistókst
+file-write-failed = Mistókst að skrifa í skrána { $output }
 # Strings used in trust.jsm
 key-valid-unknown = óþekktur
 key-valid-invalid = ógildur
@@ -371,16 +396,57 @@ import-key-file = Flytja inn OpenPGP-lykilskrá
 import-rev-file = Flytja inn OpenPGP-afturköllunarskrá
 gnupg-file = GnuPG-skrár
 import-keys-failed = Mistókst að flytja inn lyklana
+passphrase-prompt = Settu inn aðgangsorðið til að aflæsa eftirfarandi lykli: { $key }
+file-to-big-to-import = Þessi skrá er of stór. Ekki flytja inn stór sett af lyklum í einu.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Búa til og vista afturköllunarskilríki
+revoke-cert-failed = Ekki var hægt að búa til afturköllunarvottorð.
+gen-going = Gerð lykils þegar í gangi!
+keygen-missing-user-name = Það er ekkert nafn tilgreint fyrir valinn reikning/auðkenni. Settu inn gildi í reitinn „Nafn þitt“ í reikningsstillingunum.
+expiry-too-short = Lykillinn þinn verður að vera gildur í að minnsta kosti einn dag.
+expiry-too-long = Þú getur ekki búið til lykil sem rennur út eftir meira en 100 ár.
+key-confirm = Búa til opinberan og leynilegan lykil fyrir { $identity }?
 key-man-button-generate-key = Út&búa lykil
 key-abort = Hætta við gerð lykla?
+key-man-button-generate-key-abort = Hætt&a við gerð lykils
+key-man-button-generate-key-continue = Hal&da áfram með gerð lykils
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Villa - afkóðun mistókst
+fix-broken-exchange-msg-failed = Tekst ekki að gera við þessi skilaboð.
+msg-ovl-button-cont-anyway = &Halda samt áfram
+enig-content-note = *Viðhengi í þessum skilaboðum hafa hvorki verið undirrituð né dulrituð*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Senda skilaboð
 msg-compose-details-button-label = Nánar…
 msg-compose-details-button-access-key = n
+send-aborted = Sendingaraðgerð hætt.
+key-not-trusted = Ekki nægjanlegt traust fyrir lykilinn '{ $key }'
+key-not-found = Lykillinn '{ $key }' fannst ekki
+key-revoked = Lykillinn ‘{ $key }’ afturkallaður
+key-expired = Lykillinn ‘{ $key }’ útrunninn
+msg-compose-internal-error = Innri villa kom upp.
+keys-to-export = Veldu OpenPGP-lykla til að setja inn
+msg-compose-cannot-save-draft = Villa við að vista drög
+save-attachment-header = Vista afkóðað viðhengi
+compose-menu-attach-key =
+    .label = Hengja við opinbera dreifilykilinn minn
+    .accesskey = a
+compose-menu-encrypt-subject =
+    .label = Dulritun efnislínu
+    .accesskey = D
+# Strings used in decryption.jsm
+do-import-multiple =
+    Flytja inn eftirfarandi lykla?
+    { $key }
+do-import-one = Flytja inn { $name } ({ $id })?
+cant-import = Villa við að flytja inn opinberan dreifilykil
+sig-mismatch = Villa - Misræmi í undirritun
+invalid-email = Villa - ógilt tölvupóstfang
 dlg-button-view = &Skoða
+# Strings used in encryption.jsm
+not-required = Villa - engrar dulritunar krafist
 # Strings used in windows.jsm
 no-photo-available = Engin mynd tiltæk
 error-photo-path-not-readable = Myndaslóðin „{ $photo }“ er ekki læsileg
@@ -395,6 +461,13 @@ dlg-button-ok = Í la&gi
 dlg-button-close = &Loka
 dlg-button-cancel = &Hætta við
 dlg-no-prompt = Ekki sýna mér þennan glugga aftur
+enig-prompt = OpenPGP kvaðning
+enig-confirm = OpenPGP staðfesting
+enig-alert = OpenPGP aðvörun
+enig-info = OpenPGP upplýsingar
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Reyna aftur
 dlg-button-skip = &Sleppa
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = OpenPGP aðvörun
