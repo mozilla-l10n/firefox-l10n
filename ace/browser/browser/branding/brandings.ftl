@@ -35,8 +35,3 @@
 
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
-
-
--rally-brand-name = Mozilla Rally
--rally-short-name = Rally
-
