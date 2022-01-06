@@ -55,6 +55,7 @@ openpgp-keygen-progress-title = Bý til nýja OpenPGP-lykilinn þinn...
 openpgp-keygen-import-progress-title = Flyt inn OpenPGP-lyklana þína...
 openpgp-import-success = OpenPGP-lyklar voru fluttir inn!
 openpgp-import-success-title = Ljúka innflutningsferlinu
+openpgp-import-success-description = Til að byrja að nota innflutta OpenPGP-lykilinn þinn fyrir dulritun tölvupósts, skaltu loka þessum glugga og opna reikningsstillingarnar þínar til að velja hann.
 openpgp-keygen-confirm =
     .label = Staðfesta
 openpgp-keygen-dismiss =
@@ -64,9 +65,22 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Loka
     .accesskey = k
+openpgp-keygen-missing-username = Það er ekkert nafn tilgreint fyrir núverandi reikning. Settu inn gildi í reitinn „Nafn þitt“ í reikningsstillingunum.
+openpgp-keygen-long-expiry = Þú getur ekki búið til lykil sem rennur út eftir meira en 100 ár.
+openpgp-keygen-short-expiry = Lykillinn þinn verður að vera gildur í að minnsta kosti einn dag.
+openpgp-keygen-ongoing = Gerð lykils þegar í gangi!
+openpgp-keygen-error-core = Ekki tókst að frumstilla OpenPGP kjarnaþjónustuna
+openpgp-keygen-error-failed = OpenPGP-lyklagerð mistókst óvænt
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP-lykill var útbúinn, en tókst ekki að fá afturköllun fyrir lykilinn { $key }
+openpgp-keygen-abort-title = Hætta við gerð lykils?
+openpgp-keygen-abort = OpenPGP-lyklagerð er í gangi, ertu viss um að þú viljir hætta við hana?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Búa til opinberan og leynilegan lykil fyrir { $identity }?
 
 ## Import Key section
 
+openpgp-import-key-title = Flytja inn fyrirliggjandi persónulegan OpenPGP-lykil
 openpgp-import-key-info = Annar hugbúnaður gæti lýst persónulegum einkalykli með því að nota önnur hugtök eins og þinn eigin lykill, leynilykill, einkalykill eða lyklapar.
 openpgp-import-key-list-caption = Lyklar sem merktir eru til að meðhöndla sem einkalykla verða skráðir í hlutann yfir enda-í-enda dulritun. Hinir verða tiltækir í lyklaumsýslunni.
 openpgp-import-fingerprint-label = Fingrafar
