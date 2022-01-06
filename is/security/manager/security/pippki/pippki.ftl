@@ -56,6 +56,6 @@ set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits ge
 ## Protected Auth dialog
 
 protected-auth-window =
-    .title = Varin tóka sannvottun
-protected-auth-msg = Vinsamlega auðkenndu þig með teikni. Aðferð við auðkenningu fer eftir tegund teikns.
-protected-auth-token = Lykill:
+    .title = Auðkenning varins teikns
+protected-auth-msg = Auðkenndu þig með teikni. Aðferð við auðkenningu fer eftir tegund teikns.
+protected-auth-token = Teikn:
