@@ -51,11 +51,11 @@ set-password-backup-pw =
     .value = Lykilorð öryggisafrits:
 set-password-repeat-backup-pw =
     .value = Lykilorð öryggisafrits (aftur):
-set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna.  Vinsamlega geymið það öruggum stað.
+set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna. Geymdu það öruggum stað.
 
 ## Protected Auth dialog
 
 protected-auth-window =
     .title = Varin tóka sannvottun
-protected-auth-msg = Vinsamlega auðkenndu þig með tóka. Hvernig auðkennt er fer eftir tegund tóka.
+protected-auth-msg = Vinsamlega auðkenndu þig með teikni. Aðferð við auðkenningu fer eftir tegund teikns.
 protected-auth-token = Lykill:
