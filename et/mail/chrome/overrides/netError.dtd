@@ -10,7 +10,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Viga ühendumisel">
+<!ENTITY connectionFailure.title "Ühendumine pole võimalik">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "See aadress on keelatud">
@@ -63,7 +63,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument aegus">
-<!ENTITY notCached.longDesc "<p>Nõutud dokument pole brauseri vahemälus saadaval.</p><ul><li>Turvalisuse ettevaatusabinõuna ei laadi brauser tundliku infoga dokumente automaatselt uuesti.</li><li>Klõpsa Proovi uuesti, et hankida dokumendi sisu veebilehelt uuesti.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Nõutud dokument pole brauseri vahemälus saadaval.</p><ul><li>Turvalisuse ettevaatusabinõuna ei laadi brauser tundliku sisuga dokumente automaatselt uuesti.</li><li>Veebisaidist dokumendi uuestiküsimuseks klõpsa Proovi uuesti.</li></ul>">
 
 <!ENTITY netOffline.title "Võrguta režiim">
 <!ENTITY netOffline.longDesc2 "
