@@ -14,6 +14,7 @@ more-from-moz-firefox-mobile-description = El navegador móvil que pone tu priva
 more-from-moz-firefox-mobile-description-advanced = Desde bloquear rastreadores hasta frenar las molestias de reproducción automática, los navegadores móviles de { -brand-product-name } trabajan horas extras para garantizar que obtengas un buen Internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubre una capa adicional de navegación y protección anónimas.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } agrega otra capa de navegación y protección anónimas. A diferencia de otras VPN, es segura y no rastrea tu actividad.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-button = Envía un enlace de descarga a tu teléfono.
