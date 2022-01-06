@@ -124,3 +124,4 @@ spotlight-public-wifi-vpn-link = ابھی نہیں
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = ابھی نہیں

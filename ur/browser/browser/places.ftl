@@ -80,9 +80,13 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = دیگر بک مارک
+places-show-in-folder =
+    .label = فولڈر میں دکھائیں
+    .accesskey = F
 places-manage-bookmarks =
     .label = بک مارکس منظم کریں
     .accesskey = M
+places-forget-about-this-site-forget = بھول جائیں
 places-library =
     .title = لائبریری
     .style = width:700px; height:500px;
