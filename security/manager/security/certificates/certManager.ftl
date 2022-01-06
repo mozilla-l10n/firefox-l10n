@@ -135,6 +135,8 @@ cert-with-serial =
     .value = Skilríki með raðnúmer: { $serialNumber }
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Ekki geymt)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (ekki tiltækt)
 
 ## Used to show whether an override is temporary or permanent
 
