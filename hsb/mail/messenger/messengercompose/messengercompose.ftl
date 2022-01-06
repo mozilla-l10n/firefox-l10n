@@ -261,6 +261,25 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Sym { $count } dataju z tutej mejlku zwjazał:
+        [two] Sym { $count } dataji z tutej mejlku zwjazał:
+        [few] Sym { $count } dataje z tutej mejlku zwjazał:
+       *[other] Sym { $count } datajow z tutej mejlku zwjazał:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Dalše informacije wo { $lastLink }.
+        [two] Dalše informacije wo { $firstLinks } a { $lastLink }.
+        [few] Dalše informacije wo { $firstLinks } a { $lastLink }.
+       *[other] Dalše informacije wo { $firstLinks } a { $lastLink }.
+    }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Přez hesło škitany wotkaz
 # Used in a list of stats about a specific file
