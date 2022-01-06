@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Wuslědźće druhe produkty { -vendor-short-name }, kotrež strowy internet podpěruja.
 more-from-moz-firefox-mobile-title = Mobilny { -brand-product-name }
 more-from-moz-firefox-mobile-description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
+more-from-moz-firefox-mobile-description-advanced = Wot blokowanja přesćěhowakow do rozrisowanja problemow z wothraćom, mobilne wobhladowaki { -brand-product-name } so po wšěch mocach prócuja, zo bychu wam dobry internet zaručili.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Wotkryjće přidatu runinu anonymneho přehladowanja a škita.
 more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } dalšu runinu anonymneho přehladowanja a škita přidawa. A, na rozdźěl wot druhich VPN, je wěsty a njeslěduje wašej aktiwiće.
