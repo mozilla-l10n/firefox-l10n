@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Dziennik redukcji szumów otoczenia
 about-webrtc-aec-logging-off-state-label = Zapisuj informacje redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-label = Zatrzymaj zapisywanie informacji redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatyczne odświeżanie
 
 ##
 
