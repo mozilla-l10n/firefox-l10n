@@ -27,11 +27,13 @@ policy-DisabledCiphers = Gera dulritun óvirka.
 policy-DefaultDownloadDirectory = Stilla sjálfgefna möppu fyrir sóttar skrár.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
 policy-DisableDeveloperTools = Loka fyrir aðgang að þróunarverkfærunum.
+policy-DisableFeedbackCommands = Gera skipanirnar "Senda umsögn" og "Tilkynna svindlsvæði" óvirkar í hjálparvalmyndinni.
 policy-DisableForgetButton = Koma í veg fyrir aðgang að Gleyma-hnappnum.
 policy-DisableFormHistory = Ekki muna leitar- og innfyllingarferil.
 policy-DisableMasterPasswordCreation = Ef satt, er ekki hægt að búa til aðallykilorð.
 policy-DisablePasswordReveal = Ekki leyfa birtingu lykilorða í vistuðum innskráningum.
 policy-DisableProfileImport = Slökkva á valmyndarskipuninni til að flytja inn gögn úr öðru forriti.
+policy-DisableSafeMode = Gera möguleikann á endurræsa í öryggisham óvirkan. Athugaðu: í Windows er aðeins er hægt að nota hópstefnu til að slökkva á Shift-lyklinum þegar fara á í öryggisham.
 policy-DisableSecurityBypass = Koma í veg fyrir að notandinn fari framhjá ákveðnum öryggisaðvörunum.
 policy-DisableSystemAddonUpdate = Koma í veg fyrir að { -brand-short-name } setji upp og uppfæri kerfisviðbætur.
 policy-DisableTelemetry = Slökkva á gagnasöfnun.
@@ -39,6 +41,8 @@ policy-DisplayMenuBar = Birta valmyndastikuna sjálfgefið.
 policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
 policy-DontCheckDefaultClient = Slökkva á athugun á sjálfgefnum vafra við ræsingu.
 policy-DownloadDirectory = Stilla og læsa möppu fyrir sóttar skrár.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Virkja eða slökkva á efnisútilokun (Content Blocking) og mögulega læsa henni.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlunarviðbótum (Encrypted Media Extensions) og mögulega læsa þeim.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -58,6 +62,7 @@ policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku nota
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar skrár.
 policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
+policy-OfferToSaveLogins = Framfylgja stillingunni til að leyfa { -brand-short-name } að bjóða upp á að muna vistaðar innskráningar og lykilorð. Bæði sönn og ósönn gildi eru samþykkt.
 policy-OverrideFirstRunPage = Setja aðra upphafssíðu. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-OverridePostUpdatePage = Setja aðra síðu í stað "Hvað er nýtt"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
