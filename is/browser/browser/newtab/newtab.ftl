@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Leita
     .aria-label = Leita
-
 newtab-search-box-search-the-web-input =
     .placeholder = Leita á vefnum
     .title = Leita á vefnum
@@ -29,12 +28,10 @@ newtab-topsites-edit-topsites-header = Breyta toppsíðu
 newtab-topsites-title-label = Titill
 newtab-topsites-title-input =
     .placeholder = Sláðu inn titil
-
 newtab-topsites-url-label = Vefslóð
 newtab-topsites-url-input =
     .placeholder = Slá inn eða líma vefslóð
 newtab-topsites-url-validation = Gildrar vefslóðar krafist
-
 newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
@@ -47,8 +44,6 @@ newtab-topsites-save-button = Vista
 newtab-topsites-preview-button = Forskoðun
 newtab-topsites-add-button = Bæta við
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Ertu viss um að þú viljir eyða öllum tilvikum af þessari síðu úr vafraferli þínum?
@@ -57,13 +52,13 @@ newtab-confirm-delete-history-p2 = Ekki er ekki hægt að bakfæra þessa aðger
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Opna valmynd
     .aria-label = Opna valmynd
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -90,15 +85,13 @@ newtab-menu-archive-pocket = Safna í { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Fjarlægja bókamerki
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bókamerkja
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -128,9 +121,6 @@ newtab-label-recommended = Vinsælt
 newtab-label-saved = Vistað í { -pocket-brand-name }
 newtab-label-download = Niðurhalað
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -147,6 +137,7 @@ newtab-section-menu-privacy-notice = Tilkynning um friðhelgi
 
 ## Section aria-labels
 
+
 ## Section Headers.
 
 newtab-section-header-topsites = Efstu vefsvæðin
@@ -158,14 +149,13 @@ newtab-section-header-pocket = Með þessu mælir { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Byrjaðu að vafra og við sýnum þér frábærar greinar, myndbönd og önnur vefsvæði sem þú hefur nýverið heimsótt eða bókarmerkt.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Þú hefur lesið allt. Athugaðu aftur síðar eftir fleiri fréttum frá { $provider }. Geturðu ekki beðið? Veldu vinsælt umfjöllunarefni til að finna fleiri áhugaverðar greinar hvaðanæva að af vefnum.
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 
@@ -175,11 +165,15 @@ newtab-pocket-more-recommendations = Fleiri meðmæli
 newtab-pocket-cta-button = Sækja { -pocket-brand-name }
 newtab-pocket-cta-text = Vistaðu sögurnar sem þú elskar í { -pocket-brand-name } og fáðu innblástur í huga þinn með heillandi lesningu.
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Úbbs, eitthvað fór úrskeiðis við að hlaða þessu efni inn.
-newtab-error-fallback-refresh-link = Endurhlaðið síðu til að reyna aftur.
+newtab-error-fallback-refresh-link = Endurlestu síðu til að reyna aftur.
 
 ## Customization Menu
 
