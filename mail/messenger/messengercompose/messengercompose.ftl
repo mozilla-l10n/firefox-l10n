@@ -238,7 +238,42 @@ encrypted-bcc-ignore-button = 知道了！
 compose-tool-button-remove-text-styling =
     .tooltiptext = 刪除文字樣式
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+       *[other] 我已將 { $count } 個檔案的雲端鏈結加入此郵件:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] 了解 { $lastLink } 的更多資訊。
+       *[other] 了解 { $firstLinks } 與 { $lastLink } 的更多資訊。
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = 密碼保護鏈結
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = CloudFile 服務:
+cloud-file-template-size = 大小:
+cloud-file-template-link = 鏈結:
+cloud-file-template-password-protected-link = 密碼保護鏈結:
+cloud-file-template-expiry-date = 過期日:
+cloud-file-template-download-limit = 下載限制:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
