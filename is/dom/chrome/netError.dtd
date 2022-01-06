@@ -91,4 +91,4 @@
 <!ENTITY blockedByPolicy.title "Lokuð síða">
 
 <!ENTITY networkProtocolError.title "Netvilla">
-<!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða vegna villugreiningar í netstaðli.</p><ul><li>Vinsamlega hafið samband við eigendur vefsíðu til að upplýsa um vandamálið.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að sýna síðuna sem þú ert að reyna að skoða vegna villugreiningar í netstaðli.</p><ul><li>Hafðu samband við eigendur vefsvæðis til að upplýsa um vandamálið.</li></ul>">

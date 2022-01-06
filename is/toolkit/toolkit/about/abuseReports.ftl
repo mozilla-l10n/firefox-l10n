@@ -13,7 +13,7 @@ abuse-report-learnmore =
     <a data-l10n-name="learnmore-link">Lærðu meira um það að tilkynna viðbót eða þema</a>
 abuse-report-submit-description = Lýstu vandamálinu (valfrjálst)
 abuse-report-textarea =
-    .placeholder = Það auðveldar okkur að tækla vandamálið ef við vitum meira um það. Vinsamlegast lýstu þinni upplifun. Þakka þér fyrir að hjálpa okkur að viðhalda heilbrigði vefsins.
+    .placeholder = Það auðveldar okkur að tækla vandamálið ef við vitum meira um þetta. Lýstu því sem þú upplifir. Þakka þér fyrir að hjálpa okkur að halda vefnum heilbrigðums.
 abuse-report-submit-note = Athugið: Ekki setja inn neinar persónulegar upplýsingar (eins og nafn, tölvupóstfang, símanúmer, heimilisfang). { -vendor-short-name } mun geyma þessa tilkynningu til frambúðar.
 
 ## Panel buttons.

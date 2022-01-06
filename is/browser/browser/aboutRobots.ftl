@@ -26,4 +26,4 @@ error-long-desc4 = Vélmenni eru með glansandi rass sem ekki ætti að bíta í
 error-trailer-desc-text = Og þau eru með plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = Reyna aftur
-    .label2 = Vinsamlega ekki ýta aftur á þennan takka.
+    .label2 = Ekki ýta aftur á þennan hnapp.
