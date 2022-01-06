@@ -82,6 +82,7 @@ openpgp-key-confirm = Búa til opinberan og leynilegan lykil fyrir { $identity }
 
 openpgp-import-key-title = Flytja inn fyrirliggjandi persónulegan OpenPGP-lykil
 openpgp-import-key-legend = Velja áður öryggisafritaða skrá.
+openpgp-import-key-description = Þú getur flutt inn persónulega lykla sem voru búnir til með öðrum OpenPGP-hugbúnaði.
 openpgp-import-key-info = Annar hugbúnaður gæti lýst persónulegum einkalykli með því að nota önnur hugtök eins og þinn eigin lykill, leynilykill, einkalykill eða lyklapar.
 #   $count (Number) - the number of keys found in the selected files
 openpgp-import-key-list-amount =
@@ -89,6 +90,7 @@ openpgp-import-key-list-amount =
         [one] Thunderbird fann einn lykil sem hægt er að flytja inn.
        *[other] Thunderbird fann { $count } lykla sem hægt er að flytja inn.
     }
+openpgp-import-key-list-description = Staðfestu hvaða lykla má meðhöndla sem persónulega lykla þína. Aðeins lyklar sem þú bjóst til sjálfur og sýna auðkenni þín ætti að nota sem persónulega lykla. Þú getur breytt þessu vali síðar í glugganum fyrir eiginleika lykla.
 openpgp-import-key-list-caption = Lyklar sem merktir eru til að meðhöndla sem einkalykla verða skráðir í hlutann yfir enda-í-enda dulritun. Hinir verða tiltækir í lyklastýringunni.
 openpgp-passphrase-prompt-title = Aðgangsorðs krafist
 #   $identity (String) - the id of the key being imported
