@@ -11,9 +11,16 @@ more-from-moz-category =
 more-from-moz-subtitle = Veja outros produtos { -vendor-short-name } que funcionam para apoiar uma internet saudável.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Móvel
 more-from-moz-firefox-mobile-description = O navegador móvel que coloca a sua privacidade em primeiro lugar.
+more-from-moz-firefox-mobile-description-advanced = Desde bloquear rastreadores até travar o problema da reprodução automática, os navegadores móveis { -brand-product-name } trabalham horas extras para garantir que tenha o bom da internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Descubra uma camada adicional de navegação anónima e proteção.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } adiciona outra camada de navegação anónima e proteção. E, ao contrário de outras VPNs, é segura e não segue a sua atividade.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Coloque os seus dados a trabalharem para uma internet melhor para todos.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Doe os seus dados para estudos de investigação que trabalham para criar uma internet mais segura e aberta que ajude as pessoas, e não as Big Tech.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Junte-se a { -rally-short-name }
