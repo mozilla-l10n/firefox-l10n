@@ -21,6 +21,7 @@ more-from-moz-mozilla-rally-description = Stajće swoje daty za lěpši internet
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = So na { -rally-short-name } wobdźělić
+more-from-moz-qr-code-box-firefox-mobile-title = Sćehńće z pomocu swojeho mobilneho grata. Měrće swoju kameru na QR-kod. Hdyž so wotkaz jewi, podótkńće so jeho.
 more-from-moz-qr-code-box-firefox-mobile-button = Sćelće město toho mejlku na swój telefon
 more-from-moz-button-mozilla-vpn =
     .label = VPN wobstarać
