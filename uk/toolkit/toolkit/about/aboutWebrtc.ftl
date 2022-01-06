@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Журнал AEC
 about-webrtc-aec-logging-off-state-label = Почати журнал AEC
 about-webrtc-aec-logging-on-state-label = Припинити журнал AEC
 about-webrtc-aec-logging-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Автооновлення
 
 ##
 
