@@ -93,3 +93,7 @@
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
 
+
+-rally-brand-name = Mozilla Rally
+-rally-short-name = Rally
+
