@@ -86,6 +86,7 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opna Sync stillingar">
+<!ENTITY appMenuRemoteTabs.welcome.label "Skoða lista yfir flipa frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Nauðsynlegt er að staðfesta reikning.">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Tengja annað tæki">
 

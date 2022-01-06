@@ -320,6 +320,11 @@ about-logins-import-report-added =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýrri innskráningu bætt við</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýjum innskráningum bætt við</div>
     }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fyrirliggjandi innskráning uppfærð</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fyrirliggjandi innskráningar uppfærðar</div>
+    }
 about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin innskráning</div> <div data-l10n-name="not-imported" ">(ekki flutt inn)</div>
