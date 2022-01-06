@@ -61,9 +61,86 @@ about-addressbook-name-format-firstlast =
     .label = Eesnimi perekonnanimi
 about-addressbook-name-format-lastfirst =
     .label = Perekonnanimi, eesnimi
+about-addressbook-sort-name-ascending =
+    .label = Sordi nime järgi (A > Y)
+about-addressbook-sort-name-descending =
+    .label = Sordi nime järgi (Y > A)
+about-addressbook-sort-email-ascending =
+    .label = Sordi e-posti aadressi järgi (A > Y)
+about-addressbook-sort-email-descending =
+    .label = Sordi e-posti aadressi järgi (Y > A)
+about-addressbook-cards-context-write =
+    .label = Kirjuta
+about-addressbook-confirm-delete-mixed-title = Kontaktide ja listide kustutamine
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Kas oled kindel, et soovid kustutada need { $count } kontakti ja listi?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Kustuta list
+       *[other] Kustuta listid
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Kas oled kindel, et soovid kustutada listi { $name }?
+       *[other] Kas oled kindel, et soovid kustutada need { $count } listi?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Eemalda kontakt
+       *[other] Eemalda kontaktid
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Kas oled kindel, et soovid eemaldada kontakti { $name } listist { $list }?
+       *[other] Kas oled kindel, et soovid need { $count } kontakti listist { $list } eemaldada?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+about-addressbook-confirm-delete-contacts-title =
+    { $count ->
+        [one] Kustuta kontakt
+       *[other] Kustuta kontaktid
+    }
+# Variables:
+# $count (Number) - The number of contacts to be deleted.
+# $name (String) - The name of the contact to be deleted, if $count is 1.
+about-addressbook-confirm-delete-contacts =
+    { $count ->
+        [one] Kas oled kindel, et soovid kustutada kontakti { $name }?
+       *[other] Kas oled kindel, et soovid kustutada need { $count } kontakti?
+    }
 
 ## Details
 
+about-addressbook-begin-edit-contact-button = Muuda
+about-addressbook-cancel-edit-contact-button = Loobu
+about-addressbook-save-edit-contact-button = Salvesta
+about-addressbook-details-email-addresses-header = E-posti aadressid
+about-addressbook-details-phone-numbers-header = Telefoninumbrid
+about-addressbook-details-home-address-header = Kodune aadress
+about-addressbook-details-work-address-header = Tööaadress
+about-addressbook-details-other-info-header = Muu info
+about-addressbook-prompt-to-save-title = Kas salvestada muudatused?
+about-addressbook-prompt-to-save = Kas soovid oma muudatused salvestada?
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Lohista või kopeeri pilt siia või klõpsa faili valimiseks.
+about-addressbook-photo-drop-loading = Foto laadimine…
+about-addressbook-photo-drop-error = Foto laadimine ebaõnnestus.
+about-addressbook-photo-filepicker-title = Pildifaili valimine
+about-addressbook-photo-discard = Loobu olemasolevast fotost
+about-addressbook-photo-cancel = Loobu
+about-addressbook-photo-save = Salvesta
