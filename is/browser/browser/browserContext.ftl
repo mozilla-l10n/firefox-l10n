@@ -90,6 +90,18 @@ main-context-menu-bookmark-add =
     .aria-label = Setja síðu í bókamerki
     .accesskey = m
     .tooltiptext = Setja síðu í bókamerki
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-add-mac =
+    .label = Bókamerkja síðu
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-edit-mac =
+    .label = Breyta bókamerki
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
@@ -121,6 +133,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Opna tengil í nýjum huliðsglugga
     .accesskey = p
+main-context-menu-bookmark-link =
+    .label = Bókamerkja tengill
+    .accesskey = B
 main-context-menu-save-link =
     .label = Vista tengil sem…
     .accesskey = V
@@ -135,6 +150,9 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Afrita póstfang
     .accesskey = p
+main-context-menu-copy-link-simple =
+    .label = Afrita tengil
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -157,6 +175,19 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Virkja hljóð
     .accesskey = h
+main-context-menu-media-play-speed-2 =
+    .label = Hraði
+    .accesskey = H
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Endurtaka
     .accesskey = E
@@ -179,18 +210,41 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Hætta í fullum skjá
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Horfa á í mynd-í-mynd
+    .accesskey = y
 main-context-menu-image-reload =
     .label = Endurlesa mynd
     .accesskey = r
+main-context-menu-image-view-new-tab =
+    .label = Opna mynd í nýjum flipa
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Opna myndskeið í nýjum flipa
+    .accesskey = i
 main-context-menu-image-copy =
     .label = Afrita mynd
     .accesskey = y
+main-context-menu-image-copy-link =
+    .label = Afrita tengil myndar
+    .accesskey = g
+main-context-menu-video-copy-link =
+    .label = Afrita tengil á myndskeið
+    .accesskey = g
+main-context-menu-audio-copy-link =
+    .label = Afrita tengil á hljóð
+    .accesskey = g
 main-context-menu-image-save-as =
     .label = Vista mynd sem…
     .accesskey = V
 main-context-menu-image-email =
     .label = Senda mynd…
     .accesskey = a
+main-context-menu-image-set-image-as-background =
+    .label = Setja mynd sem skjáborðsbakgrunn...
+    .accesskey = S
 main-context-menu-image-info =
     .label = Skoða upplýsingar um mynd
     .accesskey = u
