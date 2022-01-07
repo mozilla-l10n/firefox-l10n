@@ -18,4 +18,5 @@ default-browser-prompt-message-pin-mac = فليكن { -brand-short-name } في �
 default-browser-prompt-button-primary-pin = اضبطه ليكون المتصفّح الأساسي
 default-browser-prompt-title-alt = أتريد ضبط { -brand-short-name } ليكون متصفّحك المبدئي؟
 default-browser-prompt-button-primary-alt = اضبطه ليكون المتصفّح المبدئي
+default-browser-prompt-checkbox-not-again-label = لا تظهر هذه الرسالة مرة أخرى
 default-browser-prompt-button-secondary = ليس الآن
