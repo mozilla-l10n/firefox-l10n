@@ -239,7 +239,14 @@ encrypted-bcc-ignore-button = Κατάλαβα
 compose-tool-button-remove-text-styling =
     .tooltiptext = Κατάργηση μορφοποίησης κειμένου
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+cloud-file-template-size = Μέγεθος:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
