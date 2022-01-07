@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC Haipy
 about-webrtc-aec-logging-off-state-label = AEC haipy moñepyrũ
 about-webrtc-aec-logging-on-state-label = AEC haipy jejoko
 about-webrtc-aec-logging-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Henyhẽjey ijehegui
 
 ##
 
