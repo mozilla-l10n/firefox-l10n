@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Tillögur að viðbótum
+cfr-doorhanger-feature-heading = Eiginleiki sem mælt er með
 
 ##
 
@@ -30,6 +31,11 @@ cfr-doorhanger-extension-notification = Tillaga
 cfr-doorhanger-extension-notification2 = Tillaga
     .tooltiptext = Tillaga að viðbót
     .a11y-announcement = Fyrirliggjandi er tillaga að viðbót
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Meðmæli
+    .tooltiptext = Eiginleiki sem mælt er með
+    .a11y-announcement = Meðmæli með eiginleika eru tiltæk
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -62,6 +68,9 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Vafraðu án þess að fylgst sé með þér
+cfr-protections-panel-body = Haltu þínum gögnum fyrir sjálfan þig. { -brand-short-name } verndar þig fyrir mörgum algengustu rekjurum sem fylgjast með því sem þú gerir á netinu.
+cfr-protections-panel-link-text = Frekari upplýsingar
 
 ## What's New toolbar button and panel
 
@@ -75,6 +84,18 @@ cfr-whatsnew-release-notes-link-text = Lesa útgáfuskýringarnar
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } hefur lokað á <b>{ $blockedCount }</b> rekjara síðan { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } hefur lokað á <b>{ $blockedCount }</b> rekjara síðan { DATETIME($date, month: "long", year: "numeric") }!
+    }
+cfr-doorhanger-milestone-ok-button = Sjá allt
+    .accesskey = S
+cfr-doorhanger-milestone-close-button = Loka
+    .accesskey = L
 
 ## DOH Message
 

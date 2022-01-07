@@ -109,6 +109,16 @@ browser-data-history-checkbox =
             [firefox] Ferill vafra og bókamerki
            *[other] Ferill vafra
         }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Ferill vafra og bókamerki
+           *[other] Ferill vafra
+        }
+browser-data-formdata-checkbox =
+    .label = Vistaðir innfyllingarferlar
+browser-data-formdata-label =
+    .value = Vistaðir innfyllingarferlar
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,6 +134,17 @@ browser-data-bookmarks-checkbox =
             [edge] Eftirlæti
            *[other] Bókamerki
         }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Eftirlæti
+            [edge] Eftirlæti
+           *[other] Bókamerki
+        }
+browser-data-otherdata-checkbox =
+    .label = Önnur gögn
+browser-data-otherdata-label =
+    .label = Önnur gögn
 browser-data-session-checkbox =
     .label = Gluggar og flipar
 browser-data-session-label =
