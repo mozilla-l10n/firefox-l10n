@@ -26,6 +26,7 @@ policy-DisableBuiltinPDFViewer = Gera PDF.js óvirkt, innbyggða PDF-lesarann í
 policy-DisabledCiphers = Gera dulritun óvirka.
 policy-DefaultDownloadDirectory = Stilla sjálfgefna möppu fyrir sóttar skrár.
 policy-DisableAppUpdate = Koma í veg fyrir að { -brand-short-name } uppfærist.
+policy-DisableDefaultClientAgent = Koma í veg fyrir að sjálfgefið forritskenni (client agent) grípi til aðgerða. Gildir aðeins fyrir Windows; önnur stýrikerfi hafa ekki slíkt kenni.
 policy-DisableDeveloperTools = Loka fyrir aðgang að þróunarverkfærunum.
 policy-DisableFeedbackCommands = Gera skipanirnar "Senda umsögn" og "Tilkynna svindlsvæði" óvirkar í hjálparvalmyndinni.
 policy-DisableForgetButton = Koma í veg fyrir aðgang að Gleyma-hnappnum.
@@ -51,17 +52,21 @@ policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlu
 policy-Extensions = Setja upp, fjarlægja eða læsa viðbótum. Uppsetningarvalkosturinn tekur við vefslóðum og skráaslóðum sem breytum. Valkostir til að fjarlægja eða læsa viðbót krefjast auðkennis viðbótarinnar.
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
+policy-Handlers = Stilla meðhöndlun með sjálfgefnum forritum.
 policy-HardwareAcceleration = Ef ósatt, skal slökkva á vélbúnaðarhröðun.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsvæðum að setja upp viðbætur.
 policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku notandasniði fyrir hverja uppsetningu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Virkja sjálfgefna stillingu á eldri SameSite-hegðun fyrir vefkökur.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Fara aftur í eldri SameSite-hegðun fyrir vefkökur á tiltekum vefsvæðum.
 
 ##
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæðum að tengja í staðbundnar skrár.
 policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
+policy-NetworkPrediction = Virkja eða slökkva á netforspá (DNS prefetching).
 policy-OfferToSaveLogins = Framfylgja stillingunni til að leyfa { -brand-short-name } að bjóða upp á að muna vistaðar innskráningar og lykilorð. Bæði sönn og ósönn gildi eru samþykkt.
 policy-OfferToSaveLoginsDefault = Setja sjálfgefið gildi um að leyfa { -brand-short-name } að bjóða upp á að muna vistaðar innskráningar og lykilorð. Bæði sönn og ósönn gildi eru samþykkt.
 policy-OverrideFirstRunPage = Setja aðra upphafssíðu. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
