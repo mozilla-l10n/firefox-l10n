@@ -280,7 +280,7 @@ applications-select-helper = 도우미 애플리케이션 선택
 applications-manage-app =
     .label = 애플리케이션 세부사항…
 applications-always-ask =
-    .label = 항상 물어 보기
+    .label = 항상 묻기
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -410,10 +410,10 @@ browsing-media-control =
     .accesskey = v
 browsing-media-control-learn-more = 더 알아보기
 browsing-cfr-recommendations =
-    .label = 탐색시 확장 기능 추천
+    .label = 탐색할 때 확장 기능 추천
     .accesskey = R
 browsing-cfr-features =
-    .label = 탐색시 기능 추천
+    .label = 탐색할 때 기능 추천
     .accesskey = f
 browsing-cfr-recommendations-learn-more = 더 알아보기
 
@@ -606,7 +606,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = 모바일 기기와 동기화하기 위해서 <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>용 Firefox를 다운로드하세요.
+sync-mobile-promo = 모바일 기기와 동기화하려면 <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>용 Firefox를 다운로드하세요.
 
 ## Firefox Account - Signed in
 
@@ -631,8 +631,8 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
-prefs-syncing-on = 동기화 : 켜짐
-prefs-syncing-off = 동기화 : 꺼짐
+prefs-syncing-on = 동기화: 켜짐
+prefs-syncing-off = 동기화: 꺼짐
 prefs-sync-turn-on-syncing =
     .label = 동기화 켜기…
     .accesskey = s
