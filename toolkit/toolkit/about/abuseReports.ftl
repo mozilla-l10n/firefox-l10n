@@ -71,6 +71,7 @@ abuse-report-settings-suggestions-homepage = Skift din startside og siden nyt fa
 abuse-report-deceptive-reason-v2 = Den hævder at være noget, den ikke er
 abuse-report-deceptive-example = Eksempel: Vildledende beskrivelse eller billeder
 abuse-report-broken-reason-extension-v2 = Virker ikke, forhindrer websteder i at fungere eller gør { -brand-product-name } langsom
+abuse-report-broken-reason-sitepermission-v2 = Virker ikke, forhindrer websteder i at fungere eller gør { -brand-product-name } langsom
 abuse-report-broken-reason-theme-v2 = Virker ikke eller forhindrer websteder i at blive vist korrekt
 abuse-report-broken-example = Eksempel: Funktioner er langsomme, svære at bruge eller virker slet ikke; dele af websider indlæses ikke eller ser udsædvanlige ud
 abuse-report-broken-suggestions-extension =
