@@ -17,10 +17,24 @@ appmenuitem-downloads =
     .label = Gam
 appmenuitem-print =
     .label = Go…
+appmenuitem-find-in-page =
+    .label = Nong i potbuk…
 appmenuitem-zoom =
     .value = Kwoti
+appmenuitem-more-tools =
+    .label = Jami tic mukene…
 appmenuitem-help =
     .label = Kony
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Weki
+           *[other] Kat woko
+        }
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ter
 
 ## Zoom and Fullscreen Controls
 
@@ -33,10 +47,16 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Nyut dirica matino mukene
+    .tooltiptext = Nyut dirica matino mukene ma i nyonyo man
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Dirica matino pe ayaba
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.
+appmenu-remote-tabs-opensettings =
+    .label = Ter
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = imito neno dirica matino ki nyonyo mukene?
@@ -44,6 +64,8 @@ appmenu-remote-tabs-connectdevice =
     .label = Kub Nyonyo Mukene
 appmenu-remote-tabs-unverified = Myero ki mok ada pa akaunt mamegi.
 appmenuitem-fxa-sign-in = Dony iyie { -brand-product-name }
+appmenu-fxa-signed-in-label = Dony iyie
+appmenu-fxa-show-more-tabs = Nyut dirica matino mukene
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
 
@@ -60,6 +82,34 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-learn-more = Nong ngec mapol
+profiler-popup-learn-more-button =
+    .label = Nong ngec mapol
+profiler-popup-settings =
+    .value = Ter
+profiler-popup-capture-button =
+    .label = Mak
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 
 ## History panel
 
