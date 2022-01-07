@@ -15,6 +15,8 @@ auth-fail = Không thể xác minh danh tính của liên hệ của bạn.
 auth-waiting = Đang chờ liên hệ để hoàn tất xác minh…
 finger-verify = Xác minh
 finger-verify-access-key = V
+finger-ignore = Bỏ qua
+finger-ignore-access-key = I
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Thêm dấu vân tay OTR
 # Variables:
