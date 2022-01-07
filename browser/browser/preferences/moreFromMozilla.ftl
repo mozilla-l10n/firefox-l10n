@@ -11,3 +11,16 @@ more-from-moz-category =
 more-from-moz-subtitle = Tekintse meg a többi { -vendor-short-name } termékét, amelyek az egészséges internetet támogatják.
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobilon
 more-from-moz-firefox-mobile-description = A mobilböngésző, amely az Ön adatvédelmét helyezi előtérbe.
+more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Fedezze fel az anonim böngészés és védelem további rétegét.
+more-from-moz-mozilla-vpn-description-advanced = A { -mozilla-vpn-brand-name } az anonim böngészés és védelem további rétegét nyújtja. Más VPN-ekkel ellentétben biztonságos, és nem követi nyomon a tevékenységét.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Csatlakozás a { -rally-short-name }hoz
+more-from-moz-qr-code-box-firefox-mobile-title = Töltse le a mobileszközével. Irányítsa a kamerát a QR-kódra. Amikor megjelenik egy hivatkozás, koppintson rá.
+more-from-moz-qr-code-box-firefox-mobile-button = Inkább e-mail küldése a telefonjára
+more-from-moz-button-mozilla-vpn =
+    .label = VPN beszerzése
+more-from-moz-learn-more-link = További tudnivalók
