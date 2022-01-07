@@ -164,7 +164,7 @@ page-action-remove-extension =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = اخفِ شريط الأدوات
+    .label = أخفِ شريط الأدوات
     .accesskey = خ
 full-screen-exit =
     .label = اخرج من وضع ملء الشاشة
@@ -317,7 +317,7 @@ browser-window-maximize-button =
 browser-window-restore-down-button =
     .tooltiptext = أنزِله
 browser-window-close-button =
-    .tooltiptext = أغلق
+    .tooltiptext = أغلِق
 
 ## Tab actions
 
@@ -518,6 +518,16 @@ urlbar-result-action-search-tabs = ابحث في الألسنة
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = اقتراحات { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -728,6 +738,13 @@ popups-infobar-dont-show-message =
 picture-in-picture-hide-toggle =
     .label = أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة
     .accesskey = خ
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
 
 # Navigator Toolbox
 
