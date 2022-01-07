@@ -3,7 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Til að senda dulrituð eða stafrænt undirrituð skilaboð þarftu að setja upp og stilla dulritunartækni, annað hvort OpenPGP eða S/MIME.
+e2e-intro-description-more = Veldu persónulega lykilinn þinn til að virkja notkun OpenPGP, eða persónulega skilríkið þitt til að virkja notkun S/MIME. Fyrir persónulegan dreifilykil eða skilríki átt þú að eiga samsvarandi leynilegan einkalykil.
 e2e-advanced-section = Ítarlegar stillingar
+e2e-attach-key =
+    .label = Hengja við opinbera dreifilykilinn minn þegar stafrænni OpenPGP-undirritun er bætt við
+    .accesskey = p
 e2e-encrypt-subject =
     .label = Dulrita viðfangsefni OpenPGP-skilaboða
     .accesskey = v
@@ -39,6 +43,7 @@ openpgp-generate-key =
     .tooltiptext = Útbýr nýjan OpenPGP-samhæfðan lykil fyrir dulritun og/eða undirritun
 openpgp-advanced-prefs-button-label =
     .label = Ítarlegt…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">ATHUGAÐU: Það getur tekið allt að nokkrar mínútur að búa til lykla.</a> Ekki hætta í forritinu á meðan lyklagerð er í gangi. Sé verið að vafra eða framkvæma diskfrekar aðgerðir meðan á lyklagerð stendur endurnýjar það tilviljunarkennt úrtak tölvunnar (randomness pool) og flýtir fyrir ferlinu. Þú færð aðvörun þegar lyklagerð er lokið.
 openpgp-key-expiry-label =
     .label = Rennur út
 openpgp-key-id-label =
@@ -94,6 +99,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Finna lykla á netinu
     .accesskey = F
+openpgp-key-man-discover-prompt = Til að finna OpenPGP-lykla á netinu, á lyklaþjónum eða með því að nota WKD-samskiptareglur skaltu annað hvort setja inn póstfang eða auðkenni lykils.
 openpgp-key-man-discover-progress = Leitar…
 openpgp-key-copy-key =
     .label = Afrita dreifilykil
@@ -177,6 +183,11 @@ openpgp-key-man-key-props =
 openpgp-key-man-key-more =
     .label = Meira
     .accesskey = M
+openpgp-key-man-view-photo =
+    .label = Myndauðkenni
+    .accesskey = M
+openpgp-key-man-ctx-view-photo-label =
+    .label = Skoða myndauðkenni
 openpgp-key-man-show-invalid-keys =
     .label = Birta ógilda lykla
     .accesskey = B
@@ -208,6 +219,8 @@ openpgp-key-details-signatures-tab =
     .label = Vottanir
 openpgp-key-details-structure-tab =
     .label = Uppbygging
+openpgp-key-details-uid-certified-col =
+    .label = Notandaauðkenni / Vottað af
 openpgp-key-details-user-id2-label = Meintur lykileigandi
 openpgp-key-details-id-label =
     .label = Auðkenni
@@ -243,6 +256,14 @@ openpgp-acceptance-unverified-label =
     .label = Já, en ég hef ekki staðfest að þetta sé réttur lykill.
 openpgp-acceptance-verified-label =
     .label = Já, ég hef staðfest í eigin persónu að þessi lykill hafi rétt fingrafar.
+key-accept-personal =
+    Fyrir þennan lykil hefurðu bæði opinbera og leynilega hlutann. Þú getur notað hann sem persónulegan lykil.
+    Ef þú fékkst þennan lykil frá einhverjum öðrum, þá skaltu ekki nota hann sem persónulegan lykil.
+key-personal-warning = Útbjóstu þennan lykil sjálfur og er birtur eigandi lykilsins að vísa til sjálfs þíns?
+openpgp-personal-no-label =
+    .label = Nei, ekki nota hann sem minn persónulega lykil.
+openpgp-personal-yes-label =
+    .label = Já, meðhöndla þennan lykil sem persónulegan lykil.
 openpgp-copy-cmd-label =
     .label = Afrita
 
