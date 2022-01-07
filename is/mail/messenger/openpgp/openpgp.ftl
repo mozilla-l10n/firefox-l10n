@@ -556,6 +556,8 @@ keys-to-export = Veldu OpenPGP-lykla til að setja inn
 msg-compose-cannot-save-draft = Villa við að vista drög
 msg-compose-partially-encrypted-short = Varist leka á viðkvæmum upplýsingum - að hluta dulritaður tölvupóstur.
 save-attachment-header = Vista afkóðað viðhengi
+cannot-send-sig-because-no-own-key = Ekki er hægt að undirrita stafrænt þessi skilaboð þar sem þú hefur ekki enn stillt enda-í-enda dulritun fyrir <{ $key }>
+cannot-send-enc-because-no-own-key = Ekki er hægt að senda þessi skilaboð dulrituð þar sem þú hefur ekki enn stillt enda-í-enda dulritun fyrir <{ $key }>
 compose-menu-attach-key =
     .label = Hengja við opinbera dreifilykilinn minn
     .accesskey = a
@@ -568,10 +570,16 @@ do-import-multiple =
     { $key }
 do-import-one = Flytja inn { $name } ({ $id })?
 cant-import = Villa við að flytja inn opinberan dreifilykil
+unverified-reply = Inndregnum skilaboðahluta (svari) var líklega breytt
 key-in-message-body = Lykill fannst í meginmáli skilaboðanna. Smelltu á „Flytja inn lykil“ til að flytja lykilinn inn
 sig-mismatch = Villa - Misræmi í undirritun
 invalid-email = Villa - ógilt tölvupóstfang
+attachment-pgp-key =
+    Viðhengið „{ $name }“ sem þú ert að opna virðist vera OpenPGP lykilskrá.
+    Smelltu á „Flytja inn“ til að flytja inn lyklana sem eru í henni eða „Skoða“ til að skoða efni skrárinnar í vafraglugga
 dlg-button-view = &Skoða
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Afkóðuð skilaboð (endurheimt skemmt PGP-tölvupóstsnið, líklega af völdum gamals Exchange-póstþjóns, þannig að niðurstaðan gæti verið minna en fullkomin til að lesa)
 # Strings used in encryption.jsm
 not-required = Villa - engrar dulritunar krafist
 # Strings used in windows.jsm
