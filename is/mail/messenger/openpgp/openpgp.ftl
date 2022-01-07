@@ -374,11 +374,11 @@ expiry-keys-expire-soon =
     Við mælum með að þú búir til nýja lykla og stillir samsvarandi reikninga til að nota þá.
 expiry-key-missing-owner-trust =
     Leynilykillinn þinn { $desc } vantar traust.
-    Við mælum með að þú stillir „Þú treystir á vottanir“ á „fullkominn“ í lykileiginleikum.
+    Við mælum með að þú stillir vottun lykilsins á „fullkominn“ í eiginleikum lykils.
 expiry-keys-missing-owner-trust =
-    Eftirfarandi leynilykla vantar traust.
+    Eftirfarandi leynilega einkalykla vantar traust.
     { $desc }.
-    Við mælum með að þú stillir „Þú treystir á vottanir“ á „fullkominn“ í lykileiginleikum.
+    Við mælum með að þú stillir vottun lyklanna á „fullkominn“ í eiginleikum hvers lykils.
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
 expiry-open-key-properties = Opna eiginleika lykils
 # Strings filters.jsm
