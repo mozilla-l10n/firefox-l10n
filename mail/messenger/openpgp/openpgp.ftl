@@ -65,6 +65,9 @@ openpgp-key-man-view-menu =
 openpgp-key-man-generate-menu =
     .label = Ustvarjanje
     .accesskey = v
+openpgp-key-man-keyserver-menu =
+    .label = Strežnik ključev
+    .accesskey = k
 openpgp-key-man-import-public-from-file =
     .label = Uvozi javne ključe iz datoteke
     .accesskey = U
@@ -317,6 +320,7 @@ key-external-label = Zunanji ključ GnuPG
 key-type-public = javni ključ
 key-type-primary = glavni ključ
 key-type-subkey = podključ
+key-type-pair = par ključev (tajni ključ in javni ključ)
 key-expiry-never = nikoli
 key-usage-encrypt = Šifriraj
 key-usage-sign = Podpiši
@@ -336,7 +340,10 @@ mime-decrypt-encrypted-part-concealed-data = To je šifriran del sporočila. Odp
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prekinjeno
 keyserver-error-unknown = Prišlo je do neznane napake
+keyserver-error-server-error = Strežnik ključev je sporočil napako.
 keyserver-error-import-error = Prenesenega ključa ni bilo mogoče uvoziti.
+keyserver-error-unavailable = Strežnik ključev ni na voljo.
+keyserver-error-security-error = Strežnik ključev ne podpira šifriranega dostopa.
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Vaš ključ { $desc } bo pretekel čez manj kot { $days } dni.
@@ -369,6 +376,19 @@ import-from-clip = Ali želite z odložišča uvoziti ključ(e)?
 import-from-url = Prenesi javni ključ s tega spletnega naslova:
 copy-to-clipbrd-failed = Izbranih ključev ni bilo mogoče kopirati v odložišče.
 copy-to-clipbrd-ok = Ključi kopirani v odložišče
+delete-secret-key =
+    POZOR: Izbrisali boste tajni ključ!
+    
+    Če izbrišete svoj tajni ključ, ne boste več mogli dešifrirati sporočil, šifriranih zanj, niti ga ne boste mogli preklicati.
+    
+    Ali res želite izbrisati OBA ključa – tajni ključ in javni ključ
+    ‘{ $userId }’?
+delete-mix =
+    POZOR: Izbrisali boste tajne ključe!
+    
+    Če izbrišete svoj tajni ključ, ne boste več mogli dešifrirati sporočil, šifriranih zanj.
+    
+    Ali res želite izbrisati OBOJE – tajne ključe in javne ključe?
 delete-pub-key =
     Ali želite izbrisati javni ključ
     "{ $userId }"?
@@ -419,6 +439,7 @@ key-in-use-title = Ključ OpenPGP je trenutno v uporabi
 import-key-confirm = Ali želite uvoziti javne ključe, vdelane v sporočilo?
 fail-key-import = Napaka – uvažanje ključa ni uspelo
 file-write-failed = Pisanje v datoteko { $output } ni bilo mogoče
+confirm-permissive-import = Uvoz ni uspel. Ključ, ki ga poskušate uvoziti, je morda poškodovan ali uporablja neznane atribute. Ali želite poskusiti uvoziti dele, ki so pravilni? To lahko povzroči uvoz nepopolnih in neuporabnih ključev.
 # Strings used in commonWorkflows.js
 import-key-file = Uvozi datoteko ključa OpenPGP
 gnupg-file = Datoteke GnuPG
@@ -426,8 +447,10 @@ import-keys-failed = Uvažanje ključev ni uspelo
 passphrase-prompt = Vnesite geslo, ki odklepa naslednji ključ: { $key }
 file-to-big-to-import = Ta datoteka je prevelika. Ne uvažajte velikega števila ključev hkrati.
 gen-going = Ustvarjanje ključev že poteka!
+keygen-missing-user-name = Za izbrani račun/identiteto ni določenega imena. Izpolnite polje "Vaše ime" v nastavitvah računa.
 expiry-too-short = Ključ mora biti veljaven vsaj en dan.
 expiry-too-long = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
+key-confirm = Ustvari javni in tajni ključ za '{ $id }'?
 key-man-button-generate-key = &Ustvari ključ
 key-abort = Prekini ustvarjanje ključev?
 key-man-button-generate-key-abort = &Prekini ustvarjanje ključev
@@ -436,6 +459,7 @@ key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Napaka – dešifriranje ni uspelo
+fix-broken-exchange-msg-failed = Tega sporočila ni mogoče popraviti.
 signature-verified-ok = Podpis za priponko { $attachment } je bil uspešno preverjen
 signature-verify-failed = Podpisa za priponko { $attachment } ni bilo mogoče preveriti
 msg-ovl-button-cont-anyway = &Vseeno nadaljuj
