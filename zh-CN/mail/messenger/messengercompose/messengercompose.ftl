@@ -242,6 +242,13 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+       *[other] 我已将 { $count } 个文件的链接附至此邮件：
+    }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service providers.
 cloud-file-service-provider-footer =
