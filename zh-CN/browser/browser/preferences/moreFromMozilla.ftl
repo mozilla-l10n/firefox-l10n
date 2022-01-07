@@ -17,6 +17,8 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = 将您的数据用于为你我建立更好的互联网。
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = 捐出您的数据用于研究，以建立更安全、更开放、能够帮助人们，而非大型科技公司的互联网。
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = 加入 { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = 将移动设备的相机对准二维码，出现链接时点按即可开始下载。
