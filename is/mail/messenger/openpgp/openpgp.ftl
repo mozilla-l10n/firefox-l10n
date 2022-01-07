@@ -540,7 +540,11 @@ key-man-button-generate-key-continue = Hal&da áfram með gerð lykils
 
 failed-decrypt = Villa - afkóðun mistókst
 fix-broken-exchange-msg-failed = Tekst ekki að gera við þessi skilaboð.
+signature-verified-ok = Það tókst að staðfesta undirritunina fyrir viðhengið { $attachment }
 signature-verify-failed = Ekki var hægt að staðfesta undirritunina fyrir viðhengið { $attachment }
+decrypt-ok-no-sig =
+    Aðvörun
+    Afkóðun tókst, en ekki var hægt að staðfesta undirritunina á réttan hátt
 msg-ovl-button-cont-anyway = &Halda samt áfram
 enig-content-note = *Viðhengi í þessum skilaboðum hafa hvorki verið undirrituð né dulrituð*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -557,6 +561,9 @@ keys-to-export = Veldu OpenPGP-lykla til að setja inn
 msg-compose-cannot-save-draft = Villa við að vista drög
 msg-compose-partially-encrypted-short = Varist leka á viðkvæmum upplýsingum - að hluta dulritaður tölvupóstur.
 save-attachment-header = Vista afkóðað viðhengi
+no-temp-dir =
+    Gat ekki fundið bráðabirgðamöppu til að skrifa í
+    Stilltu TEMP-umhverfisbreytuna
 possibly-pgp-mime = Mögulega PGP/MIME dulrituð eða undirrituð skilaboð; notaðu 'Afkóða/Staðfesta' aðgerð til að staðfesta
 cannot-send-sig-because-no-own-key = Ekki er hægt að undirrita stafrænt þessi skilaboð þar sem þú hefur ekki enn stillt enda-í-enda dulritun fyrir <{ $key }>
 cannot-send-enc-because-no-own-key = Ekki er hægt að senda þessi skilaboð dulrituð þar sem þú hefur ekki enn stillt enda-í-enda dulritun fyrir <{ $key }>
