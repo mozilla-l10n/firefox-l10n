@@ -918,7 +918,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
+content-blocking-etp-standard-desc = 보호와 성능 사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.
 content-blocking-etp-custom-desc = 차단할 추적기와 스크립트를 선택하세요.
 content-blocking-etp-blocking-desc = { -brand-short-name }가 다음 항목을 차단함:
