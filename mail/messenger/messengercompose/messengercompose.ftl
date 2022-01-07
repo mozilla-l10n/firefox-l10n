@@ -271,6 +271,8 @@ cloud-file-count-header =
         [few] S tem e-poštnim sporočilom sem povezal { $count } datoteke:
        *[other] S tem e-poštnim sporočilom sem povezal { $count } datotek:
     }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Z geslom zaščitena povezava
 # Used in a list of stats about a specific file
 # Service - the used service provider to host the file (CloudFile Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
