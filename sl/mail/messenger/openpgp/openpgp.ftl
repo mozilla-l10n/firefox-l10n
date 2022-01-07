@@ -344,6 +344,8 @@ keyserver-error-server-error = Strežnik ključev je sporočil napako.
 keyserver-error-import-error = Prenesenega ključa ni bilo mogoče uvoziti.
 keyserver-error-unavailable = Strežnik ključev ni na voljo.
 keyserver-error-security-error = Strežnik ključev ne podpira šifriranega dostopa.
+keyserver-error-certificate-error = Strežnik ključev uporablja neveljavno digitalno potrdilo.
+keyserver-error-unsupported = Strežnik ključev ni podprt.
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Vaš ključ { $desc } bo pretekel čez manj kot { $days } dni.
