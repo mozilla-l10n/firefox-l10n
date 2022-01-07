@@ -16,12 +16,21 @@ import-from-ie =
 import-from-edge =
     .label = Microsoft Edge
     .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge eldri útgáfa
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = Flytja ekkert inn
     .accesskey = e
 import-from-safari =
     .label = Safari
     .accesskey = S
+import-from-brave =
+    .label = Brave
+    .accesskey = r
 import-from-canary =
     .label = Chrome Canary
     .accesskey = n
@@ -47,6 +56,9 @@ no-migration-sources = Engin forrit fundust sem gætu innihaldið bókamerki, fe
 import-source-page-title = Flytja inn stillingar og gögn
 import-items-page-title = Hlutir til að flytja inn
 import-items-description = Veldu hvaða hluti þú vilt flytja inn:
+import-permissions-page-title = Gefðu { -brand-short-name } heimildir
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS krefst þess að þú leyfir { -brand-short-name } að fá aðgang að bókamerkjum Safari. Smelltu á "Halda áfram" og veldu "Bookmarks.plist" skrána á skráaopnunarspjaldinu sem birtist.
 import-migrating-page-title = Flyt inn…
 import-migrating-description = Verið er að flytja inn eftirfarandi hluti…
 import-select-profile-page-title = Veldu notanda
@@ -61,6 +73,7 @@ import-close-source-browser = Gakktu úr skugga um að valinn vafri sé lokaður
 imported-bookmarks-source = Frá { $source }
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
@@ -90,6 +103,27 @@ browser-data-cookies-checkbox =
     .label = Vefkökur
 browser-data-cookies-label =
     .value = Vefkökur
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Ferill vafra og bókamerki
+           *[other] Ferill vafra
+        }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Vistaðar innskráningar og lykilorð
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Vistaðar innskráningar og lykilorð
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Eftirlæti
+            [edge] Eftirlæti
+           *[other] Bókamerki
+        }
 browser-data-session-checkbox =
     .label = Gluggar og flipar
 browser-data-session-label =
