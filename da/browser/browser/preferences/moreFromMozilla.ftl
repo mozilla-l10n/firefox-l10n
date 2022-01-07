@@ -14,3 +14,18 @@ more-from-moz-firefox-mobile-description = Mobil-browseren, der beskytter dit pr
 more-from-moz-firefox-mobile-description-advanced = { -brand-product-name }-browserne til mobil arbejder på højtryk for at sikre dig en god oplevelse på internettet. Blandt andet blokerer de sporings-mekanismer og sætter en stopper for irriterende videoer, der starter automatisk.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Opdag et nyt lag af anonym browsing og beskyttelse.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } giver dig et supplerende lag af anonym browsing og beskyttelse - sikkert og uden at spore din aktivitet (som visse andre VPN-tjenester gør).
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Sæt dine data i arbejde for et bedre internet for alle.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Donér dine data til undersøgelser, der arbejder på at skabe et mere og sikkert internet til glæde for almindelige mennesker - ikke store tech-virksomheder.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Deltag i { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Hent med din mobil-enhed. Peg kameraet på QR-koden og tryk på linket, når det dukker op.
+more-from-moz-qr-code-box-firefox-mobile-button = Send en mail til din telefon i stedet.
+more-from-moz-button-mozilla-vpn =
+    .label = Få VPN
+more-from-moz-learn-more-link = Læs mere
