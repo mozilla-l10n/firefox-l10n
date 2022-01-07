@@ -60,6 +60,9 @@ about-logins-list-item-breach-icon =
     .title = موقع مسرّب بياناته
 about-logins-list-item-vulnerable-password-icon =
     .title = كلمة سر ضعيفة
+about-logins-list-section-today = اليوم
+about-logins-list-section-yesterday = الأمس
+about-logins-list-section-week = آخر ٧ أيام
 
 ## Introduction screen
 
@@ -70,6 +73,8 @@ login-intro-instructions-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-
 login-intro-instructions-fxa-settings = انتقل إلى ”الإعدادات > المزامنة > فعّل المزامنة…“ وضَع علامة على ”جلسات الولوج وكلمات السر“.
 login-intro-instructions-fxa-help = زُر <a data-l10n-name="help-link">دعم { -lockwise-brand-short-name }</a> لمزيد من المساعدة.
 about-logins-intro-import = لو كانت جلسات ولوجك محفوظة في متصفّح آخر فيمكنك <a data-l10n-name="import-link">استيرادها إلى { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = زُر <a data-l10n-name="passwords-help-link">دعم كلمات السر</a> لمزيد من المساعدة.
+about-logins-intro-browser-only-import = لو كانت جلسات ولوجك محفوظة في متصفّح آخر فيمكنك <a data-l10n-name="import-link">استيرادها إلى { -brand-product-name }</a>
 about-logins-intro-import2 = إن حفظت جلسات الولوج خارج { -brand-product-name } فيمكنك <a data-l10n-name="import-browser-link">استيرادها من متصفّح آخر</a> أو <a data-l10n-name="import-file-link">من ملف</a>
 
 ## Login
