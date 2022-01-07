@@ -141,6 +141,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Seneste opdateringer
 addon-category-recent-updates-title =
     .title = Seneste opdateringer
+addon-category-sitepermission = Websteds-tilladelser
+addon-category-sitepermission-title =
+    .title = Websteds-tilladelser
 
 ## These are global warnings
 
@@ -387,6 +390,7 @@ plugin-heading = Håndter dine plugins
 dictionary-heading = Håndter dine ordbøger
 locale-heading = Håndter dine sprog
 updates-heading = Håndter dine opdateringer
+sitepermission-heading = Håndter websteds-tilladelser
 discover-heading = Tilpas { -brand-short-name }
 shortcuts-heading = Håndter genveje til dine udvidelser
 default-heading-search-label = Find flere udvidelser
