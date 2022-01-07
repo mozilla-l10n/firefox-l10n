@@ -449,6 +449,15 @@ openpgp-export-public-success = <b>Tókst að flytja út dreifilykil!</b>
 openpgp-export-public-fail = <b>Ekki tókst að flytja út valinn dreifilykil!</b>
 openpgp-export-secret-success = <b>Tókst að flytja út einkaykil!</b>
 openpgp-export-secret-fail = <b>Ekki tókst að flytja út valinn einkalykil!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Lykillinn { $userId } (auðkenni { $keyId }) er afturkallaður.
+key-ring-pub-key-expired = Lykillinn { $userId } (auðkenni { $keyId }) er útrunninn.
+key-ring-pub-key-not-for-signing = Lykilinn { $userId } (auðkenni { $keyId }) er ekki hægt að nota til undirritunar.
+key-ring-pub-key-not-for-encryption = Lykilinn { $userId } (auðkenni { $keyId }) er ekki hægt að nota til dulritunar.
+key-ring-sign-sub-keys-revoked = Allir undirritunar-undirlyklar lykilsins { $userId } (auðkenni { $keyId }) eru afturkallaðir.
+key-ring-sign-sub-keys-expired = Allir undirritunar-undirlyklar lykilsins { $userId } (auðkenni { $keyId }) eru útrunnir.
+key-ring-enc-sub-keys-revoked = Allir dulritunar-undirlyklar lykilsins { $userId } (auðkenni { $keyId }) eru afturkallaðir.
+key-ring-enc-sub-keys-expired = Allir dulritunar-undirlyklar lykilsins { $userId } (auðkenni { $keyId }) eru útrunnir.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Ljósmynd
 user-att-photo = Eigindi notanda (JPEG-mynd)
@@ -459,6 +468,10 @@ revoke-key-question =
     Þú ert að fara að afturkalla lykilinn „{ $identity }“.
     Þú munt ekki lengur geta undirritað með þessum lykli og þegar honum hefur verið dreift, munu aðrir ekki lengur geta dulritað með þeim lykli. Þú getur samt notað lykilinn til að afkóða eldri skilaboð.
     Viltu halda áfram?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Þú hefur engan lykil (0x{ $keyId }) sem passar við þetta afturköllunarskilríki!
+    Ef þú hefur týnt lykilnum þínum verður þú að flytja hann inn (t.d. af lyklaþjóni) áður en þú flytur afturköllunarskilríkið inn!
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Lykillinn 0x{ $keyId } hefur þegar verið afturkallaður.
 key-man-button-revoke-key = Aftu&rkalla lykil
