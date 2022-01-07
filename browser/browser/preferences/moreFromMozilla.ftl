@@ -11,3 +11,16 @@ more-from-moz-category =
 more-from-moz-subtitle = Vaata teisi { -vendor-short-name } tooteid, mis toetavad hea tervisega internetti.
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobiilile
 more-from-moz-firefox-mobile-description = Mobiilibrauser, mis seab sinu privaatsuse esikohale.
+more-from-moz-firefox-mobile-description-advanced = Alates jälitajate blokkimisest kuni automaatse esitamise tõkestamiseni - { -brand-product-name } mobiilsed brauserid teevad ületunde, et tagada hea internet.
+more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Avasta uus mõõde anonüümsele ja kaitstud veebilehitsemisele.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } lisab uue mõõtme anonüümsele ja kaitstud veebilehitsemisele. Ja mitte nagu mõnede teiste VPNide puhul, on see turvaline ja ei jälgi sinu tegevust.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Pane oma andmed tööle, et internet saaks paremaks kohaks kõigile.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Anneta oma andmed teadusuuringutele, mille eesmärk on luua turvalisem ja avatum internet, mis aitab inimesi, mitte suurettevõtteid.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Liitu { -rally-short-name }ga
