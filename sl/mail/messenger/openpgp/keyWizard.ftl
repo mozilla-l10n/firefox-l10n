@@ -23,6 +23,7 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = Ustvari ključ OpenPGP
+openpgp-generate-key-info = <b>Ustvarjanje ključev lahko traja nekaj minut.</b> Med ustvarjanjem ključev ne zapirajte programa. Dejavno brskanje ali izvajanje zahtevnih opravil na disku bo polnilo "bazen naključnosti" in pospešilo postopek ustvarjanja ključev. Obveščeni boste, ko bo postopek končan.
 openpgp-keygen-expiry-title = Pretek ključa
 openpgp-keygen-expiry-description = Določite datum preteka novo ustvarjenega ključa. Veljavnost lahko pozneje po potrebi podaljšate.
 radio-keygen-expiry =
@@ -68,10 +69,14 @@ openpgp-keygen-long-expiry = Ne morete ustvariti ključa, ki preteče čez več 
 openpgp-keygen-short-expiry = Ključ mora biti veljaven vsaj en dan.
 openpgp-keygen-ongoing = Ustvarjanje ključev že poteka!
 openpgp-keygen-abort-title = Prekini ustvarjanje ključev?
+openpgp-keygen-abort = V teku je ustvarjanje ključev OpenPGP, ali ste prepričani, da ga želite prekiniti?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Ustvari javni in tajni ključ za { $identity }?
 
 ## Import Key section
 
 openpgp-import-key-title = Uvozi obstoječ osebni ključ OpenPGP
+openpgp-import-key-legend = Izberite datoteko z varnostno kopijo.
 openpgp-import-key-description = Lahko uvozite osebne ključe, ki so bili ustvarjeni z drugo programsko opremo OpenPGP.
 openpgp-import-key-info = Drugi programi lahko osebni ključ imenujejo drugače, na primer lastni ključ, skrivni ključ, zasebni ključ ali par ključev.
 #   $count (Number) - the number of keys found in the selected files
