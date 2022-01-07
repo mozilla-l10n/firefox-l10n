@@ -140,6 +140,8 @@ certificate-not-available = (ekki tiltækt)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Varanlegt
+temporary-override = Tímabundið
 
 ## Add Security Exception dialog
 
