@@ -402,6 +402,7 @@ import-info-title =
 import-info-bits = Bitar
 import-info-created = Búinn til
 import-info-fpr = Fingrafar
+import-info-details = Skoðaðu ítarlegar upplýsingar og sýslaðu með samþykkt lykla
 import-info-no-keys = Engir lyklar fluttir inn.
 # Strings in enigmailKeyManager.js
 import-from-clip = Viltu flytja inn einhverja lykla af klippispjaldinu?
@@ -415,6 +416,10 @@ delete-secret-key =
     
     Viltu virkilega eyða BÆÐI leynilega einkalyklinum og opinbera dreifilyklinum
     ‘{ $userId }’?
+delete-mix =
+    AÐVÖRUN: Þú ert að fara að eyða leynilyklum!
+    Ef þú eyðir leynilyklinum þínum muntu ekki lengur geta afkóðað nein skilaboð sem eru dulrituð fyrir þann lykil.
+    Viltu virkilega eyða BÆÐI völdum leynillyklum og opinberum dreifilyklum’?
 delete-pub-key =
     Viltu eyða dreifilyklinum
     ‘{ $userId }’?
@@ -425,12 +430,15 @@ key-man-button-export-pub-key = Flytja einungis út &dreifilykla
 key-man-button-refresh-all = Endu&rlesa alla lykla
 key-man-loading-keys = Hleð inn lyklum, bíddu aðeins...
 ascii-armor-file = ASCII Armored skrár (*.asc)
+no-key-selected = Þú ættir að velja að minnsta kosti einn lykil til að framkvæma valda aðgerð
 export-to-file = Flytja dreifilykil út í skrá
 export-keypair-to-file = Flytja einka- og dreifilykla út í skrá
+export-secret-key = Viltu hafa leynilykilinn með í vistuðu OpenPGP-lyklaskránni?
 save-keys-ok = Tókst að vista lyklana
 save-keys-failed = Vistun á lyklum mistókst!
 default-pub-key-filename = Útfluttir-dreifilyklar
 default-pub-sec-key-filename = Öryggisafrit-einkaykla
+refresh-key-warn = Aðvörun: Það fer eftir fjölda lykla og tengihraða; að endurnýja alla lykla gæti verið frekar tímafrekt ferli!
 preview-failed = Get ekki lesið dreifilykilskrá.
 general-error = Villa: { $reason }
 dlg-button-delete = &Eyða
@@ -446,6 +454,11 @@ keyring-photo = Ljósmynd
 user-att-photo = Eigindi notanda (JPEG-mynd)
 # Strings in key.jsm
 already-revoked = Þessi lykill hefur þegar verið afturkallaður.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Þú ert að fara að afturkalla lykilinn „{ $identity }“.
+    Þú munt ekki lengur geta undirritað með þessum lykli og þegar honum hefur verið dreift, munu aðrir ekki lengur geta dulritað með þeim lykli. Þú getur samt notað lykilinn til að afkóða eldri skilaboð.
+    Viltu halda áfram?
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Lykillinn 0x{ $keyId } hefur þegar verið afturkallaður.
 key-man-button-revoke-key = Aftu&rkalla lykil
