@@ -19,3 +19,13 @@ more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } agr
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Poné tus datos a trabajar por una Internet mejor para todos.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Doná tus datos para estudios de investigación que trabajen para crear una Internet más segura y abierta que ayude a la gente, no a las grandes tecnologías.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Unite a { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Descargalo con tu dispositivo móvil. Apuntá tu cámara al código QR. Cuando aparezca un enlace, seleccionalo.
+more-from-moz-qr-code-box-firefox-mobile-button = Si preferís, podés enviar un correo electrónico a tu teléfono en su lugar.
+more-from-moz-button-mozilla-vpn =
+    .label = Obtené la VPN
+more-from-moz-learn-more-link = Conocer más
