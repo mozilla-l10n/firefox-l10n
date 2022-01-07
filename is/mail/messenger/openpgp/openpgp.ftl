@@ -350,6 +350,18 @@ keyserver-error-unavailable = Lyklaþjónninn er ekki tiltækur.
 keyserver-error-security-error = Lyklaþjónninn styður ekki dulritaðan aðgang.
 keyserver-error-certificate-error = Skilríki lyklaþjónsins er ekki gilt.
 keyserver-error-unsupported = Lyklaþjónninn er ekki studdur.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Tölvupóstveitan þín afgreiddi beiðni þína um að senda opinbera dreifilykilinn þinn inn í OpenPGP veflyklaskrána.
+    Staðfestu til að ganga frá opinberri birtingu dreifilykilsins.
+wkd-message-body-process =
+    Þetta er tölvupóstur sem tengist sjálfvirkri vinnslu við að senda opinbera dreifilykilinn þinn inn í OpenPGP veflyklaskrána.
+    Þú þarft ekki að grípa til neinna handvirkra aðgerða á þessum tímapunkti.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Ekki tókst að afkóða skilaboð með viðfangsefnið
+    { $subject }.
+    Viltu reyna aftur með öðru aðgangsorði eða vilt þú sleppa skilaboðunum?
 # Strings in gpg.jsm
 unknown-signing-alg = Óþekkt undirritunarreiknirit (auðkenni: { $id })
 unknown-hash-alg = Óþekkt tætigildi dulkóðunar (auðkenni: { $id })
@@ -360,6 +372,13 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Eftirfarandi lyklar munu renna út eftir minna en { $days } daga:{ $desc }.
     Við mælum með að þú búir til nýja lykla og stillir samsvarandi reikninga til að nota þá.
+expiry-key-missing-owner-trust =
+    Leynilykillinn þinn { $desc } vantar traust.
+    Við mælum með að þú stillir „Þú treystir á vottanir“ á „fullkominn“ í lykileiginleikum.
+expiry-keys-missing-owner-trust =
+    Eftirfarandi leynilykla vantar traust.
+    { $desc }.
+    Við mælum með að þú stillir „Þú treystir á vottanir“ á „fullkominn“ í lykileiginleikum.
 expiry-open-key-manager = Opna OpenPGP lyklastýringu
 expiry-open-key-properties = Opna eiginleika lykils
 # Strings filters.jsm
@@ -394,6 +413,7 @@ key-man-loading-keys = Hleð inn lyklum, bíddu aðeins...
 ascii-armor-file = ASCII Armored skrár (*.asc)
 export-to-file = Flytja dreifilykil út í skrá
 export-keypair-to-file = Flytja einka- og dreifilykla út í skrá
+save-keys-ok = Tókst að vista lyklana
 save-keys-failed = Vistun á lyklum mistókst!
 default-pub-key-filename = Útfluttir-dreifilyklar
 default-pub-sec-key-filename = Öryggisafrit-einkaykla
