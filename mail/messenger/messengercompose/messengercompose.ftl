@@ -261,6 +261,16 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] S tem e-poštnim sporočilom sem povezal { $count } datoteko:
+        [two] S tem e-poštnim sporočilom sem povezal { $count } datoteki:
+        [few] S tem e-poštnim sporočilom sem povezal { $count } datoteke:
+       *[other] S tem e-poštnim sporočilom sem povezal { $count } datotek:
+    }
 # Used in a list of stats about a specific file
 # Service - the used service provider to host the file (CloudFile Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
