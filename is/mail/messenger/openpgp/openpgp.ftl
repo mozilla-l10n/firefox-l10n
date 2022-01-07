@@ -487,10 +487,23 @@ delete-key-title = Eyða OpenPGP-lykli
 delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
 delete-external-key-description = Viltu fjarlægja þetta utanaðkomandi GnuPG-lykilauðkenni?
 key-in-use-title = OpenPGP-lykill í notkun
+delete-key-in-use-description = Ekki hægt að halda áfram! Lykillinn sem þú valdir til eyðingar er notað af þessu auðkenni. Veldu annan lykil eða engan, og reyndu aftur.
+revoke-key-in-use-description = Ekki hægt að halda áfram! Lykillinn sem þú valdir til afturköllunar er notað af þessu auðkenni. Veldu annan lykil eða engan, og reyndu aftur.
+key-error-not-accepted-as-personal = Þú hefur ekki staðfest að lykillinn með auðkenninu „{ $keySpec }“ sé persónulegur lykill þinn.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Aðgerðin sem þú hefur valið er ekki tiltæk án nettengingar. Tengstu við internetið og reyndu aftur.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Við fundum engan lykil sem samsvaraði uppgefnum leitarskilyrðum.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Villa - Skipun um útdrátt lykils mistókst
+# Strings used in keyRing.jsm
+fail-cancel = Villa - Notandi hætti við móttöku lykils
+not-first-block = Villa - Fyrsta OpenPGP-blokkin er ekki dreifilyklablokk
+import-key-confirm = Flytja inn dreifilykla sem fylgja með í skilaboðum?
 fail-key-import = Villa - innflutningur lykla mistókst
 file-write-failed = Mistókst að skrifa í skrána { $output }
+no-pgp-block = Villa - Engin gild varin OpenPGP-gagnablokk fannst
+confirm-permissive-import = Innflutningur mistókst. Lykillinn sem þú ert að reyna að flytja inn gæti verið skemmdur eða notað óþekkt eigindi. Viltu reyna að flytja inn þá hluta sem eru réttir? Þetta gæti leitt til innflutnings á ófullgerðum og ónothæfum lyklum.
 # Strings used in trust.jsm
 key-valid-unknown = óþekktur
 key-valid-invalid = ógildur
@@ -511,6 +524,7 @@ passphrase-prompt = Settu inn aðgangsorðið til að aflæsa eftirfarandi lykli
 file-to-big-to-import = Þessi skrá er of stór. Ekki flytja inn stór sett af lyklum í einu.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Búa til og vista afturköllunarskilríki
+revoke-cert-ok = Afturköllunarskilríkið hefur verið búið til. Þú getur notað það til að ógilda dreifilykilinn þinn, t.d. ef þú myndir týna leynilega einkalyklinum þínum.
 revoke-cert-failed = Ekki var hægt að búa til afturköllunarvottorð.
 gen-going = Gerð lykils þegar í gangi!
 keygen-missing-user-name = Það er ekkert nafn tilgreint fyrir valinn reikning/auðkenni. Settu inn gildi í reitinn „Nafn þitt“ í reikningsstillingunum.
@@ -540,6 +554,7 @@ key-expired = Lykillinn ‘{ $key }’ útrunninn
 msg-compose-internal-error = Innri villa kom upp.
 keys-to-export = Veldu OpenPGP-lykla til að setja inn
 msg-compose-cannot-save-draft = Villa við að vista drög
+msg-compose-partially-encrypted-short = Varist leka á viðkvæmum upplýsingum - að hluta dulritaður tölvupóstur.
 save-attachment-header = Vista afkóðað viðhengi
 compose-menu-attach-key =
     .label = Hengja við opinbera dreifilykilinn minn
@@ -553,6 +568,7 @@ do-import-multiple =
     { $key }
 do-import-one = Flytja inn { $name } ({ $id })?
 cant-import = Villa við að flytja inn opinberan dreifilykil
+key-in-message-body = Lykill fannst í meginmáli skilaboðanna. Smelltu á „Flytja inn lykil“ til að flytja lykilinn inn
 sig-mismatch = Villa - Misræmi í undirritun
 invalid-email = Villa - ógilt tölvupóstfang
 dlg-button-view = &Skoða
