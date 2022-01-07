@@ -257,6 +257,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Vista hljóð sem…
     .accesskey = V
+main-context-menu-video-take-snapshot =
+    .label = Taka kyrrmynd…
+    .accesskey = m
 main-context-menu-video-email =
     .label = Senda myndband…
     .accesskey = a
@@ -280,9 +283,21 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Nota vistaða innskráningu
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Nota vistað lykilorð
+    .accesskey = o
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Stinga upp á sterku lykilorði...
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = Sýsla með innskráningar
+    .accesskey = m
 main-context-menu-keyword =
     .label = Bæta við orði í leit…
     .accesskey = o
@@ -319,6 +334,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Skoða upplýsingar ramma
     .accesskey = i
+main-context-menu-print-selection =
+    .label = Prenta val
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = Sýna frumkóða vals
     .accesskey = n
@@ -337,8 +355,20 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Skipta um síðu átt
     .accesskey = s
+main-context-menu-inspect =
+    .label = Yfirfara
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Skoða aðgengiseiginleika
 main-context-menu-eme-learn-more =
     .label = Vita meira um DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Opna tengil í nýjum { $containerName }-flipa
+    .accesskey = t
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Sýna lykilorð
+    .accesskey = k

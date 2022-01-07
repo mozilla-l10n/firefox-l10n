@@ -108,6 +108,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Breyta
     .accesskey = e
+menu-edit-find-in-page =
+    .label = Finna á síðu…
+    .accesskey = F
 menu-edit-find-again =
     .label = Leita aftur
     .accesskey = u
@@ -144,6 +147,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Minnka
     .accesskey = M
+menu-view-full-zoom-actual-size =
+    .label = Raunstærð
+    .accesskey = a
 menu-view-full-zoom-toggle =
     .label = Stækka/minnka einungis texta
     .accesskey = t
@@ -156,6 +162,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Almennur síðustíll
     .accesskey = A
+menu-view-repair-text-encoding =
+    .label = Gera við textakóðun
+    .accesskey = G
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -198,12 +207,16 @@ menu-history-undo-menu =
     .label = Nýlega lokaðir flipar
 menu-history-undo-window-menu =
     .label = Nýlega lokaðir gluggar
+menu-history-reopen-all-tabs = Enduropna alla flipa
+menu-history-reopen-all-windows = Enduropna alla glugga
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Bókamerki
     .accesskey = B
+menu-bookmarks-manage =
+    .label = Sýsla með bókamerki
 menu-bookmark-edit =
     .label = Breyta bókamerki
 menu-bookmarks-all-tabs =
