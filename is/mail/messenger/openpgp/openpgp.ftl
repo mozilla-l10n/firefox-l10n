@@ -383,12 +383,19 @@ expiry-open-key-manager = Opna OpenPGP lyklastýringu
 expiry-open-key-properties = Opna eiginleika lykils
 # Strings filters.jsm
 filter-folder-required = Þú verður að velja úttaksmöppu.
+filter-decrypt-move-warn-experimental =
+    Aðvörun - síuaðgerðin „Afkóða varanlega“ getur leitt til skemmda á skilaboðum.
+    Við mælum eindregið með því að þú prófir fyrst „Búa til afkóðað afrit“-síuna, prófir útkomuna vandlega og farir aðeins að nota þessa síu þegar þú ert sáttur við þá útkomu.
 filter-term-pgpencrypted-label = OpenPGP-dulritað
 filter-key-required = Þú verður að velja viðtakandalykil.
 filter-key-not-found = Gat ekki fundið dulritunarlykil fyrir '{ $desc }'.
+filter-warn-key-not-secret =
+    Aðvörun - síuaðgerðin „Dulrita í lykil“ skiptir út viðtakendunum.
+    Ef þú ert ekki með leynilykilinn fyrir ‘{ $desc }’ muntu ekki lengur geta lesið tölvupóstana.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Afkóða varanlega (OpenPGP)
 filter-decrypt-copy-label = Búa til afkóðað afrit (OpenPGP)
+filter-encrypt-label = Dulkóða í lykil (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Tókst! Lyklar voru fluttir inn
@@ -401,6 +408,13 @@ import-from-clip = Viltu flytja inn einhverja lykla af klippispjaldinu?
 import-from-url = Sækja dreifilykil á þessari slóð:
 copy-to-clipbrd-failed = Gat ekki afritað valda lykla yfir á klippispjaldið.
 copy-to-clipbrd-ok = Lykill/lyklar afritaðir á klippispjald
+delete-secret-key =
+    AÐVÖRUN: Þú ert að fara að eyða leynilykli!
+    
+    Ef þú eyðir leynilyklinum þínum muntu ekki lengur geta afkóðað nein skilaboð sem eru dulrituð fyrir þann lykil, né munt þú geta afturkallað lykilinn.
+    
+    Viltu virkilega eyða BÆÐI leynilega einkalyklinum og opinbera dreifilyklinum
+    ‘{ $userId }’?
 delete-pub-key =
     Viltu eyða dreifilyklinum
     ‘{ $userId }’?
