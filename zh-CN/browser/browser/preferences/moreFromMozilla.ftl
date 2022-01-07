@@ -9,6 +9,7 @@ more-from-moz-title = { -vendor-short-name } 的更多产品
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } 的更多产品
 more-from-moz-firefox-mobile-title = { -brand-product-name } 移动版
+more-from-moz-firefox-mobile-description = 将您隐私置于首位的移动浏览器。
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
