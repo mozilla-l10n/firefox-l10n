@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = سمة النظام — تلقائي
 extension-default-theme-description = اتبع إعدادات نظام التشغيل لعرض الأزرار والقوائم والنوافذ.
 extension-firefox-compact-light-name = فاتحة
 extension-firefox-compact-light-description = سمة بمخطّط ألوان فاتح.
