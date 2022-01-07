@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Registro de AEC (Cancelación de eco acúst
 about-webrtc-aec-logging-off-state-label = Iniciar registro de AEC
 about-webrtc-aec-logging-on-state-label = Detener registro de AEC
 about-webrtc-aec-logging-on-state-msg = Registro de AEC activo (hable con alguien por unos minutos y luego detenga la captura)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Recargar automáticamente
 
 ##
 
