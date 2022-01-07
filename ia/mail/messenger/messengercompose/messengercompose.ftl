@@ -241,7 +241,15 @@ encrypted-bcc-ignore-button = Io comprende
 compose-tool-button-remove-text-styling =
     .tooltiptext = Remover le stilos de texto
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+cloud-file-template-size = Dimension:
+cloud-file-template-link = Ligamine:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
