@@ -476,10 +476,16 @@ revoke-key-not-present =
 revoke-key-already-revoked = Lykillinn 0x{ $keyId } hefur þegar verið afturkallaður.
 key-man-button-revoke-key = Aftu&rkalla lykil
 openpgp-key-revoke-success = Tókst að afturkalla lykil.
+after-revoke-info =
+    Lykillinn hefur verið afturkallaður.
+    Deildu þessum opinbera dreifilykli aftur, með því að senda hann með tölvupósti eða með því að hlaða honum inn á lyklaþjóna, til að láta aðra vita að þú afturkallaðir lykilinn þinn.
+    Um leið og hugbúnaðurinn sem annað fólk notar fær að vita um afturköllunina mun það hætta að nota gamla lykilinn þinn.
+    Ef þú ert að nota nýjan lykil fyrir sama póstfang og þú tengir nýja dreifilykilinn við tölvupóst sem þú sendir, þá verða upplýsingar um afturkallaða gamla lykilinn þinn sjálfkrafa innifaldar.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = Flytja &inn
 delete-key-title = Eyða OpenPGP-lykli
 delete-external-key-title = Fjarlægja utanaðkomandi GnuPG-lykil
+delete-external-key-description = Viltu fjarlægja þetta utanaðkomandi GnuPG-lykilauðkenni?
 key-in-use-title = OpenPGP-lykill í notkun
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Aðgerðin sem þú hefur valið er ekki tiltæk án nettengingar. Tengstu við internetið og reyndu aftur.
