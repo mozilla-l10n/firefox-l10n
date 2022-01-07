@@ -314,6 +314,9 @@ openpgp-manager-description = Notaðu OpenPGP-lyklastýringuna til að skoða og
 openpgp-manager-button =
     .label = OpenPGP lyklastýring
     .accesskey = k
+openpgp-key-remove-external =
+    .label = Fjarlægja auðkenni utanaðkomandi lykils
+    .accesskey = F
 key-external-label = Utanaðkomandi GnuPG-lykill
 # Strings in keyDetailsDlg.xhtml
 key-type-public = dreifilykill
@@ -329,7 +332,12 @@ key-does-not-expire = Lykillinn rennur ekki út
 key-expired-date = Lykillinn rann út { $keyExpiry }
 key-expired-simple = Lykillinn er útrunninn
 key-revoked-simple = Lykillinn var afturkallaður
+key-do-you-accept = Samþykkir þú þennan lykil til að staðfesta stafrænar undirritanir og til að dulrita skilaboð?
 key-accept-warning = Forðastu að samþykkja hvaða lykil sem er. Notaðu aðra samskiptamáta en tölvupóst til að staðfesta fingrafar lykils viðmælanda þíns.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Ekki er hægt að senda skilaboðin vegna þess að það er vandamál með persónulega lykilinn þinn. { $problem }
+cannot-encrypt-because-missing = Ekki er hægt að senda þessi skilaboð með enda-í-enda dulritun vegna þess að vandamál eru með dulritunarlykla eftirfarandi viðtakenda: { $problem }
+window-locked = Skrifgluggi er læstur; hætt við sendingu
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Dulritaður hluti skilaboða
 mime-decrypt-encrypted-part-concealed-data = Þetta er dulritaður hluti skilaboða. Þú þarft að opna það í sérstökum glugga með því að smella á viðhengið.
