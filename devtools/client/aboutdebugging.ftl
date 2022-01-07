@@ -182,6 +182,8 @@ about-debugging-debug-target-inspect-button = Skoða
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Hlaða inn tímabundinni viðbót...
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Villa kom upp við tímabundna uppsetningu viðbótarinnar.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Endurhlaða

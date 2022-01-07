@@ -89,6 +89,15 @@ reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
 reader-mode-toggle-shortcut-other =
     .key = R
+picture-in-picture-toggle-shortcut-mac =
+    .key = ]
+# Pick the key that is commonly present
+# in your locale keyboards above the
+# `picture-in-picture-toggle-shortcut-mac` key.
+picture-in-picture-toggle-shortcut-mac-alt =
+    .key = { "}" }
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -96,6 +105,11 @@ picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
 bookmark-this-page-shortcut =
     .key = d
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-library-shortcut =
+    .key = O
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -113,6 +127,10 @@ bookmark-show-toolbar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
+full-zoom-reduce-shortcut-alt-b =
+    .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =

@@ -106,6 +106,8 @@ cfr-doorhanger-fission-body-approved = Persónuvernd þín skiptir máli. Núna 
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-primary-button = Uppfæra núna
+    .accesskey = U
 
 ## Spotlight modal shared strings
 
