@@ -48,6 +48,7 @@ cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Vefsvæði sanna auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum. Flestir vafrar styðja ekki lengur skilríki útgefin af GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } notar skilríki frá einum þessara aðila og fyrir vikið er ekki hægt að sanna auðkenni vefsíðunnar.
 cert-error-symantec-distrust-admin = Þú mátt láta vefstjóra þessa vefsvæðis vita af vandamálinu.
+cert-error-old-tls-version = Þetta vefsvæði styður mögulega ekki TLS 1.2 samskiptareglur, sem er lágmarksútgáfan sem { -brand-short-name } styður.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
@@ -56,6 +57,9 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Vottunarkeðja (certificate chain):
 open-in-new-window-for-csp-or-xfo-error = Opna vefsvæði í nýjum glugga
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Til að tryggja öryggi þitt mun { $hostname } ekki leyfa { -brand-short-name } að birta síðuna ef annað vefsvæði hefur fellt hana inn í sínar síður. Til að skoða þessa síðu þarftu að opna hana í nýjum glugga.
 
 ## Messages used for certificate error titles
 

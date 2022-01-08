@@ -20,6 +20,9 @@ newtab-search-box-search-the-web-input =
     .title = Leita á vefnum
     .aria-label = Leita á vefnum
 newtab-search-box-text = Leita á vefnum
+newtab-search-box-input =
+    .placeholder = Leita á vefnum
+    .aria-label = Leita á vefnum
 
 ## Top Sites - General form dialog.
 
