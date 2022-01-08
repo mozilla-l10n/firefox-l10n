@@ -12,3 +12,4 @@ more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Mettez vos données au service d’un meilleur Internet pour tout le monde.
+more-from-moz-learn-more-link = En savoir plus
