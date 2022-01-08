@@ -915,6 +915,7 @@ addressbar-suggestions-settings = Иваз кардани хусусиятҳо �
 content-blocking-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ
 content-blocking-section-top-level-description = Васоити пайгирӣ барои ҷамъ кардани маълумот дар бораи одатҳои тамошокунӣ ва манфиатҳои шумо дар Интернет шуморо пайгирӣ мекунанд. { -brand-short-name } бисёр аз чунин васоити пайгирӣ ва дигар скриптҳои зарароварро манъ мекунад.
 content-blocking-learn-more = Маълумоти бештар
+content-blocking-fpi-incompatibility-warning = Шумо аз «First Party Isolation (FPI)» истифода мебаред, ки баъзе танзимоти кукиҳои { -brand-short-name }-ро иваз мекунад.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -948,6 +949,11 @@ content-blocking-all-windows-tracking-content = Муҳтавои пайгири�
 content-blocking-all-third-party-cookies = Ҳамаи кукиҳои тарафҳои сеюм
 content-blocking-cryptominers = Криптомайнерҳо
 content-blocking-fingerprinters = Хонандаи нақши ангушт
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Хусусияти махфияти боқувваттарин ва навтарини моро озмоед
+    .accesskey = Х
 content-blocking-etp-standard-tcp-rollout-learn-more = Маълумоти бештар
 content-blocking-warning-title = Диққат!
 content-blocking-and-isolating-etp-warning-description-2 = Ин танзим метавонад боиси он гардад, ки баъзеи сомонаҳо метавонанд муҳтаворо намоиш надиҳанд ё дуруст кор накунанд. Агар сомона ҳамчун вайроншуда ба назар расад, барои намоиш додани тамоми мавод шумо метавонед «муҳофизат аз пайгирӣ»-ро ғайрифаъол кунед.
