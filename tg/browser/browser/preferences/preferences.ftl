@@ -835,6 +835,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Кукиҳо ва иттилооти сомона
+sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумоти сомона ва андозаи зерҳофиза…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
