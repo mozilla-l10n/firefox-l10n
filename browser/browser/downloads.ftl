@@ -43,6 +43,14 @@ downloads-cmd-show-menuitem-2 =
            *[other] Sýna í möppu
         }
     .accesskey = F
+downloads-cmd-use-system-default =
+    .label = Opna í skoðara kerfisins
+    .accesskey = k
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-use-system-default =
+    .label = Alltaf opna í skoðara kerfisins
+    .accesskey = A
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
@@ -146,6 +154,12 @@ downloads-open-file =
 ##   $minutes (number) - Amount of minutes till the file opens.
 
 downloading-file-opens-in-hours-and-minutes = Opnar eftir { $hours }klst { $minutes }m...
+downloading-file-opens-in-minutes = Opnast eftir { $minutes }mín...
+downloading-file-opens-in-minutes-and-seconds = Opnast eftir { $minutes }mín { $seconds }sek…
+downloading-file-opens-in-seconds = Opnast eftir { $seconds }sek...
+downloading-file-opens-in-some-time = Opnast þegar niðurhali er lokið…
+downloading-file-click-to-open =
+    .value = Opnast þegar niðurhali er lokið
 
 ##
 
@@ -173,6 +187,12 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Skrá ekki sótt.
+       *[other] { $num } skrár ekki sóttar.
+    }
+downloads-blocked-from-url = Lokað fyrir niðurhal frá { $url }.
 downloads-blocked-download-detailed-info = { $url } reyndi sjálfvirkt að sækja margar skrár. Vefsvæðið gæti verið bilað eða verið að reyna að geyma ruslskrár í tækinu þínu.
 
 ##

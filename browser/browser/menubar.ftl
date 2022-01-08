@@ -21,6 +21,8 @@ menu-application-hide-other =
     .label = Fela aðra
 menu-application-show-all =
     .label = Sýna allt
+menu-application-touch-bar =
+    .label = Sérsníða snertistiku…
 
 ##
 
@@ -78,6 +80,16 @@ menu-file-open-file =
 menu-file-close =
     .label = Loka
     .accesskey = L
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Loka flipa
+            [one] Loka flipa
+           *[other] Loka { $tabCount } flipum
+        }
+    .accesskey = L
 menu-file-close-window =
     .label = Loka glugga
     .accesskey = k
@@ -87,6 +99,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Senda tengil…
     .accesskey = e
+menu-file-share-url =
+    .label = Deila
+    .accesskey = D
 menu-file-print-setup =
     .label = Uppsetning síðu…
     .accesskey = U
