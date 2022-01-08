@@ -8,7 +8,18 @@
 more-from-moz-title = Meir frå { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Meir frå { -vendor-short-name }
+more-from-moz-subtitle = Sjekk ut andre { -vendor-short-name }-produkt som arbeider for å gjere nettet til ein betre stad.
 more-from-moz-firefox-mobile-title = { -brand-product-name } for mobil
 more-from-moz-firefox-mobile-description = Mobilnettlesaren som set personvernet ditt først.
 more-from-moz-firefox-mobile-description-advanced = Frå å blokkere sporarar til å setje bremsene på irritasjonsmoment ved automatisk avspeling, jobbar { -brand-product-name }-mobilnettlesarar på overtid for å sikre at du får ei god oppleving på internett.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Oppdag eit nytt lag med anonym surfing og vern.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Ver med { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-button = Send ein e-post til telefonen din i staden
+more-from-moz-button-mozilla-vpn =
+    .label = Skaff deg VPN
+more-from-moz-learn-more-link = Les meir
