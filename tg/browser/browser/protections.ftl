@@ -24,9 +24,14 @@ graph-private-window = { -brand-short-name } манъкунии васоити �
 graph-week-summary-private-window = Васоити пайгирие, ки { -brand-short-name } дар ин ҳафта манъ кард
 protection-report-webpage-title = Лавҳаи вазъияти муҳофизат
 protection-report-page-content-title = Лавҳаи вазъияти муҳофизат
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } метавонад махфияти шуморо ҳангоми истифодабарии Интернет бевосита ҳифз намояд. Ҷамъбасти ҷорӣ вазъияти муҳофизати шахсии шуморо, аз он ҷумла воситаҳои назорати бехатарии шумо дар Интернет, нишон медиҳад.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } махфияти шуморо ҳангоми истифодабарии Интернет бевосита ҳифз менамояд. Ҷамъбасти ҷорӣ вазъияти муҳофизати шахсии шуморо, аз он ҷумла воситаҳои назорати бехатарии шумо дар Интернет, нишон медиҳад.
 protection-report-settings-link = Танзимоти махфият ва амнияти худро идора кунед
 etp-card-title-always = Муҳофизати такмилёфта аз пайгирӣ: Ҳамеша фаъол
 etp-card-title-custom-not-blocking = Муҳофизати такмилёфта аз пайгирӣ: Ғайрифаъол
+etp-card-content-description = { -brand-short-name } маъракаҳоеро, ки шуморо дар атрофи Интернет пинҳонӣ пайгирӣ мекунанд, ба таври худкор қатъ мекунад.
 protection-report-manage-protections = Идоракунии танзимот
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
