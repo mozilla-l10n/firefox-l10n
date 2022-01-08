@@ -44,7 +44,9 @@
 
 
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 
 

@@ -29,6 +29,8 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Ворид кардани хатбаракҳо аз HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Содир кардани хатбаракҳо ба HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Ворид кардани маълумот аз браузери дигар…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
@@ -50,8 +52,10 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Воридот ва нусхаи эҳтиётӣ">
+<!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Воридот ва нусхаи эҳтиётии хатбаракҳо">
 
 <!ENTITY backButton.tooltip  "Бозгашт">
 
+<!ENTITY forwardButton.tooltip  "Ба пеш">
 
