@@ -36,6 +36,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Sýna í Finder
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Sýna í Finder
+           *[other] Sýna í möppu
+        }
+    .accesskey = F
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
@@ -53,6 +60,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Sýna í Finder
            *[other] Opna möppu
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Opna alltaf svipaðar skrár
+    .accesskey = f
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Sýna í Finder
+           *[other] Sýna í möppu
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Sýna í Finder
+           *[other] Sýna í möppu
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Sýna í Finder
+           *[other] Sýna í möppu
         }
 downloads-cmd-show-downloads =
     .label = Sýna niðurhalsmöppu
@@ -115,6 +145,7 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Opnar eftir { $hours }klst { $minutes }m...
 
 ##
 
