@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC-Protokollierung
 about-webrtc-aec-logging-off-state-label = AEC-Protokollierung starten
 about-webrtc-aec-logging-on-state-label = AEC-Protokollierung beenden
 about-webrtc-aec-logging-on-state-msg = AEC-Protokollierung aktiv (sprechen Sie einige Minuten mit dem Anrufer und stoppen Sie dann die Aufnahme)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatisch aktualisieren
 
 ##
 
