@@ -782,6 +782,13 @@ forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастг
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Барои эҷод кардани ниҳонвожаи ибтидоӣ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = эҷод кардани ниҳонвожаи ибтидоӣ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -805,6 +812,7 @@ history-remember-option-never =
 history-remember-option-custom =
     .label = Истифодаи танзимоти фармоишӣ барои таърих
 history-remember-description = Браузери { -brand-short-name } таърихи тамошокунӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
+history-dontremember-description = { -brand-short-name } танзимоти реҷаи тамошокунии махфиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошокунии сомонаҳо дар хотир намедорад.
 history-private-browsing-permanent =
     .label = Ҳамеша истифода кардани реҷаи тамошокунии махфӣ
     .accesskey = Ҳ
