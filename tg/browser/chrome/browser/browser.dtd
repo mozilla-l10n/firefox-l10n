@@ -22,6 +22,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Паймоиш">
 <!ENTITY fullScreenCmd.label "Экрани пурра">
 
+<!ENTITY pictureInPictureHideToggle.label "Пинҳон кардани васлаки реҷаи «Расм-дар-расм»">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -91,6 +92,8 @@ this container is a toolbar. This avoids double-speaking. -->
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Илова кардан ба менюи васеъшуда">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ҷудо кардан аз менюи васеъшуда">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.addMoreItems.label "Илова кардани ҷузъҳои бештар…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -112,16 +115,19 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY sidebarCloseButton.tooltip     "Пӯшидани навори ҷонибӣ">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Таҳрир кардани хусусиятҳои манъкунандаи равзанаҳои зоҳиршаванда…">
 <!ENTITY editPopupSettings.label "Таҳрир кардани имконоти манъкунандаи равзанаҳои зоҳиршаванда…">
 <!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY findOnCmd.label     "Ҷустуҷӯ дар ин саҳифа…">
 
 <!ENTITY spellAddDictionaries.label "Илова кардани луғатҳо…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

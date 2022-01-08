@@ -4,3 +4,6 @@
 
 safeb-palm-accept-label = Бозгашт
 safeb-palm-see-details-label = Дидани тафсилот
+safeb-palm-notdeceptive =
+    .label = Сомонаи ҷорӣ қалбакӣ нест…
+    .accesskey = С

@@ -62,8 +62,12 @@ upgrade-dialog-start-secondary-button = Ҳоло не
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Рангубори худро интихоб намоед
 upgrade-dialog-colorway-primary-button = Нигоҳ доштани нақшу нигор
+upgrade-dialog-colorway-secondary-button = Мавзӯи қаблиро нигоҳ доред
 upgrade-dialog-colorway-theme-tooltip =
     .title = Мавзуъҳои пешфарзро озмоед
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Нақшу нигори { $colorwayName }-ро озмоед
 upgrade-dialog-colorway-default-theme = Пешфарз
 upgrade-dialog-theme-light = Равшан
     .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо
