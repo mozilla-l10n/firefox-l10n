@@ -29,6 +29,9 @@ places-add-folder-contextmenu =
 places-add-folder =
     .label = Bæta við möppu…
     .accesskey = i
+places-add-separator =
+    .label = Bæta við aðgreini
+    .accesskey = a
 places-view =
     .label = Skoða
     .accesskey = S
@@ -59,6 +62,16 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Raða eftir nafni
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Breyta bókamerki
+    .accesskey = e
+places-edit-generic =
+    .label = Breyta…
+    .accesskey = e
+places-edit-folder =
+    .label = Endurnefna möppu…
+    .accesskey = E
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Önnur bókamerki
