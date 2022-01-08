@@ -173,6 +173,7 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-blocked-download-detailed-info = { $url } reyndi sjálfvirkt að sækja margar skrár. Vefsvæðið gæti verið bilað eða verið að reyna að geyma ruslskrár í tækinu þínu.
 
 ##
 
@@ -186,3 +187,12 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Engin niðurhöl í þessari lotu.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } skrá í viðbót að hlaðast inn
+       *[other] { $count } skrár í viðbót að hlaðast inn
+    }
