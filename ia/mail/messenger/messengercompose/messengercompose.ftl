@@ -246,8 +246,29 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Io ha ligate { $count } file a iste e-mail
+       *[other] Io ha ligate { $count } files a iste e-mail
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Ligamine de protection contrasigno
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = CloudFile Servicio:
 cloud-file-template-size = Dimension:
 cloud-file-template-link = Ligamine:
+cloud-file-template-password-protected-link = Ligamine de protection contrasigno
+cloud-file-template-expiry-date = Data de expiration:
+cloud-file-template-download-limit = Limite de discargamento:
 
 # Messages
 
