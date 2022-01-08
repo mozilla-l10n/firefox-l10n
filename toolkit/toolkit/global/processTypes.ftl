@@ -23,6 +23,9 @@ process-type-weblargeallocation = Gran asignación
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Contido web illado
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Service worker aillado
 # process preallocated; may change to other types
 process-type-prealloc = Prealocado
 

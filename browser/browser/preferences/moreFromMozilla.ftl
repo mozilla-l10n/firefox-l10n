@@ -25,3 +25,7 @@ more-from-moz-mozilla-rally-description-advanced = Doe os seus datos a estudos d
 more-from-moz-button-mozilla-rally =
     .label = Únase a { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Descargue empregando o seu dispositivo móbil. Apunte a cámara ao código QR. Cando apareza unha ligazón, tóquea.
+more-from-moz-qr-code-box-firefox-mobile-button = No canto disto, enviar un correo electrónico ao seu teléfono
+more-from-moz-button-mozilla-vpn =
+    .label = Obter VPN
+more-from-moz-learn-more-link = Máis información
