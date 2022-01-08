@@ -263,6 +263,14 @@ cloud-file-count-header =
         [few] K tejto správe sú pripojené { $count } súbory
        *[other] K tejto správe je pripojených { $count } súborov
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Ďalšie informácie o { $lastLink }.
+        [few] Ďalšie informácie o { $firstLinks } a { $lastLink }.
+       *[other] Ďalšie informácie o { $firstLinks } a { $lastLink }.
+    }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Odkaz chránený heslom
 # Used in a list of stats about a specific file
@@ -277,7 +285,7 @@ cloud-file-template-size = Veľkosť:
 cloud-file-template-link = Odkaz:
 cloud-file-template-password-protected-link = Odkaz chránený heslom:
 cloud-file-template-expiry-date = Dátum vypršania plastnosti:
-cloud-file-template-download-limit = Limit sťahovania:
+cloud-file-template-download-limit = Limit stiahnutí:
 
 # Messages
 
