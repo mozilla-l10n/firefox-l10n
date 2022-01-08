@@ -241,7 +241,20 @@ encrypted-bcc-ignore-button = C’est compris
 compose-tool-button-remove-text-styling =
     .tooltiptext = Supprimer le style du texte
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Lien protégé par mot de passe
+cloud-file-template-size = Taille :
+cloud-file-template-link = Lien :
+cloud-file-template-password-protected-link = Lien protégé par mot de passe :
+cloud-file-template-expiry-date = Date d’expiration :
+cloud-file-template-download-limit = Limite de téléchargement :
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
