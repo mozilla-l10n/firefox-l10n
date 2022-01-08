@@ -80,6 +80,7 @@ sec-error-expired-certificate = Муҳлати гувоҳиномаи ҳамсо
 sec-error-revoked-certificate = Гувоҳиномаи ҳамсон лағв карда шуд.
 sec-error-bad-password = Ниҳонвожаи амниятии воридшуда нодуруст аст.
 sec-error-retry-password = Ниҳонвожаи нав нодуруст ворид карда шуд. Лутфан, аз нав кӯшиш кунед.
+sec-error-bad-database = китобхонаи амният: пойгоҳи иттилоотии бад.
 sec-error-duplicate-cert = Гувоҳинома аллакай дар пойгоҳи иттилоотии шумо вуҷуд дорад.
 sec-error-adding-cert = Хатои иловакунии гувоҳинома ба пойгоҳи иттилоотӣ.
 sec-error-filing-key = Хатои пуркунии дубораи калид барои ин гувоҳинома.
