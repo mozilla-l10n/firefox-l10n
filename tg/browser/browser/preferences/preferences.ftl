@@ -1063,6 +1063,9 @@ collection-studies-link = Дидани таҳқиқоти { -brand-short-name }
 addon-recommendations =
     .label = Иҷозат додан ба { -brand-short-name } барои пешниҳод кардани тавсияҳои шахсӣ оид ба васеъшавиҳо
 addon-recommendations-link = Маълумоти бештар
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд
 collection-backlogged-crash-reports-with-link = Иҷозат додан ба { -brand-short-name } барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
     .accesskey = И
 
