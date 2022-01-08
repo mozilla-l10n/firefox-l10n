@@ -1102,6 +1102,7 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = Кушодани танзимот
     .accesskey = К
+space-alert-over-5gb-message2 = <strong>Фазои диски { -brand-short-name } қариб комилан пур шуд.</strong> Муҳтавои сомонаҳо метавонад нодуруст намоиш дода шавад. Шумо метавонед маълумоти нигоҳдошташударо дар Танзимот > Махфият ва амният > Кукиҳо ва маълумоти сомона пок кунед.
 
 ## Privacy Section - HTTPS-Only
 
