@@ -954,6 +954,8 @@ content-blocking-fingerprinters = Хонандаи нақши ангушт
 content-blocking-etp-standard-tcp-rollout-checkbox =
     .label = Хусусияти махфияти боқувваттарин ва навтарини моро озмоед
     .accesskey = Х
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = «Муҳофизати пурра аз кукиҳо» ҳамаи кукиҳоро аз сомонаи ҷорие, ки шумо тамошо карда истодаед, нигоҳ медорад, то ки васоити пайгирӣ шуморо байни сомонаҳо назорат карда натавонанд.
 content-blocking-etp-standard-tcp-rollout-learn-more = Маълумоти бештар
 content-blocking-warning-title = Диққат!
 content-blocking-and-isolating-etp-warning-description-2 = Ин танзим метавонад боиси он гардад, ки баъзеи сомонаҳо метавонанд муҳтаворо намоиш надиҳанд ё дуруст кор накунанд. Агар сомона ҳамчун вайроншуда ба назар расад, барои намоиш додани тамоми мавод шумо метавонед «муҳофизат аз пайгирӣ»-ро ғайрифаъол кунед.
