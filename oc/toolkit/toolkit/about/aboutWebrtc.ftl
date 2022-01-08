@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Jornalizacion AEC 
 about-webrtc-aec-logging-off-state-label = Aviar la jornalizacion AEC
 about-webrtc-aec-logging-on-state-label = Arrèstar la jornalizacion AEC
 about-webrtc-aec-logging-on-state-msg = Jornalizacion AEC activa (parlatz amb lo correspondant unas minutas puèi arrestatz l'enregistrament)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Actualizacion auto
 
 ##
 
