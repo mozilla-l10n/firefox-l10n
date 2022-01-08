@@ -9,7 +9,9 @@ more-from-moz-title = Altero ab { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Altero ab { -vendor-short-name }
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
+more-from-moz-firefox-mobile-description = Le navigator mobile que antepone tu confidentialitate
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Discoperi un strato additional de navigation anonyme e protection.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
