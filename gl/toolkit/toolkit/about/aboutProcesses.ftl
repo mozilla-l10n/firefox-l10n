@@ -14,6 +14,16 @@ about-processes-shutdown-process =
     .title = Descargar lapelas e matar procesos
 about-processes-shutdown-tab =
     .title = Pechar lapela
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Perfilar todos os fíos deste proceso durante { $duration } segundo
+           *[other] Perfilar todos os fíos deste proceso durante { $duration } segundos
+        }
 
 ## Column headers
 
@@ -52,6 +62,7 @@ about-processes-unknown-process = Outro: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-web-large-allocation-process = { $origin } ({ $pid }, grande)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, illado de orixe cruzada)
 about-processes-web-isolated-process-private = { $origin } — Privado ({ $pid })
