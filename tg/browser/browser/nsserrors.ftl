@@ -108,6 +108,7 @@ sec-error-pkcs12-cert-collision = Ворид карда намешавад. Чу
 sec-error-user-cancelled = Корбар тугмаи «Бекор кардан»-ро пахш кард.
 sec-error-pkcs12-duplicate-data = Ворид карда нашуд, зеро ки аллакай дар пойгоҳи иттилоотӣ вуҷуд дорад.
 sec-error-message-send-aborted = Паём фиристода нашуд.
+sec-error-retry-old-password = Ниҳонвожаи куҳна нодуруст ворид карда шуд. Лутфан, аз нав кӯшиш кунед.
 sec-error-js-invalid-module-name = Номи модул нодуруст аст.
 sec-error-js-invalid-dll = Номи файл/масири модул нодуруст аст.
 sec-error-js-add-mod-failure = Модул илова карда намешавад
