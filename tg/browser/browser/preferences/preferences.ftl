@@ -844,12 +844,17 @@ sitedata-learn-more = Маълумоти бештар
 sitedata-delete-on-close =
     .label = Нест кардани кукиҳо ва маълумоти сомона ҳангоми пӯшидани браузери { -brand-short-name }
     .accesskey = Н
+sitedata-delete-on-close-private-browsing = Дар реҷаи тамошокунии махфии доимӣ, кукиҳо ва маълумоти сомона ҳангоми пӯшидани { -brand-short-name } ҳамеша пок карда мешаванд.
 sitedata-allow-cookies-option =
     .label = Қабул кардани кукиҳо ва иттилооти сомона
     .accesskey = Қ
 sitedata-disallow-cookies-option =
     .label = Манъ кардани кукиҳо ва иттилооти сомона
     .accesskey = М
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Навъи муҳтавои манъшуда
+    .accesskey = Н
 sitedata-option-block-cross-site-trackers =
     .label = Васоити пайгирии байнисомонавӣ
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -860,6 +865,8 @@ sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Кукиҳои байнисомонавӣ — бо дарназардошти кукиҳои расонаҳои иҷтимоӣ
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Кукиҳои васоити пайгирӣ байни сомонаҳо
+sitedata-option-block-cross-site-cookies =
+    .label = Кукиҳои пайгирикунандаи байнисомонавӣ, бо дарназардошти манъкунии кукиҳои байнисомонавии дигар
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Васоити пайгирии байнисомонавӣ ва расонаҳои иҷтимоӣ, бо дарназардошти манъкунии кукиҳои дигар
 sitedata-option-block-unvisited =
