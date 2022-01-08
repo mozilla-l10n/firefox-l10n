@@ -13,6 +13,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } 移动版
 more-from-moz-firefox-mobile-description = 将您隐私置于首位的移动浏览器。
 more-from-moz-firefox-mobile-description-advanced = 从拦截跟踪器到阻止恼人的自动播放，{ -brand-product-name } 移动浏览器可为您时刻提供良好的上网体验。
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = 探索更进一步的匿名浏览和保护机制。
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } 可为您提供更进一步的匿名浏览和保护机制。与大部分 VPN 不同，它既安全，又不会跟踪您的上网活动。
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
