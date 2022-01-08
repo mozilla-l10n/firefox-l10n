@@ -5,6 +5,14 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-title = Mer fra { -vendor-short-name }
+more-from-moz-category =
+    .tooltiptext = Mer fra { -vendor-short-name }
+more-from-moz-subtitle = Sjekk ut andre { -vendor-short-name }-produkter som arbeider for å gjøre nettet til et bedre sted.
 more-from-moz-firefox-mobile-title = { -brand-product-name } for mobil
 more-from-moz-firefox-mobile-description = Mobilnettleseren som setter personvernet ditt først.
+more-from-moz-firefox-mobile-description-advanced = Fra å blokkere sporere til å sette bremsene på irritasjonsmomenter ved automatisk avspilling, jober { -brand-product-name }-mobilnettlesere på overtid for å sikre at du får en god opplevelse på internett.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Oppdag et nytt lag med anonym surfing og beskyttelse.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
