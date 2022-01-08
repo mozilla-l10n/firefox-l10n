@@ -8,7 +8,7 @@
 more-from-moz-title = Ďalšie produkty { -vendor-short-name(case: "gen") }
 more-from-moz-category =
     .tooltiptext = Ďalšie produkty { -vendor-short-name(case: "gen") }
-more-from-moz-subtitle = Pozrite si ďalšie produkty od { -vendor-short-name(case: "gen") }, ktoré podporujú zdravý internet.
+more-from-moz-subtitle = Pozrite si ďalšie produkty od spoločnosti { -vendor-short-name }, ktoré podporujú zdravý internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } pre mobilné zariadenia
 more-from-moz-firefox-mobile-description = Mobilný prehliadač, pre ktorý je vaše súkromie na prvom mieste.
 more-from-moz-firefox-mobile-description-advanced = Od blokovania sledovacích prvkov po brzdenie nepríjemností s automatickým prehrávaním médií, mobilné prehliadače { -brand-product-name(case: "gen") } robia všetko pre to, aby sa uistili, že máte dobrý internet.
