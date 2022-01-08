@@ -373,6 +373,7 @@ addon-permissions-optional = Valfrie løyve for ekstra funksjonalitet:
 addon-permissions-learnmore = Les meir om løyve
 recommended-extensions-heading = Tilrådde utvidingar
 recommended-themes-heading = Tilrådde tema
+addon-sitepermissions-required = Gir følgjande funksjonar til <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">Bygg ditt eige tema med Firefox Color.</a>
