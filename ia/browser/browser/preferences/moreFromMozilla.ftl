@@ -5,10 +5,17 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-title = Altero ab { -vendor-short-name }
+more-from-moz-category =
+    .tooltiptext = Altero ab { -vendor-short-name }
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Participa a { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-button = O invia un email a tu telephono
 more-from-moz-button-mozilla-vpn =
     .label = Obtene VPN
 more-from-moz-learn-more-link = Pro saper plus
