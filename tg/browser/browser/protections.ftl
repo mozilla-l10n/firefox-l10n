@@ -32,10 +32,13 @@ protection-report-settings-link = Танзимоти махфият ва амн�
 etp-card-title-always = Муҳофизати такмилёфта аз пайгирӣ: Ҳамеша фаъол
 etp-card-title-custom-not-blocking = Муҳофизати такмилёфта аз пайгирӣ: Ғайрифаъол
 etp-card-content-description = { -brand-short-name } маъракаҳоеро, ки шуморо дар атрофи Интернет пинҳонӣ пайгирӣ мекунанд, ба таври худкор қатъ мекунад.
+protection-report-etp-card-content-custom-not-blocking = Ҳамаи воситаҳои муҳофизат ғайрифаъол мебошанд. Бо идоракунии танзимоти муҳофизати { -brand-short-name } интихоб кунед, ки кадом васоити пайгирӣ бояд манъ карда шаванд.
 protection-report-manage-protections = Идоракунии танзимот
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Имрӯз
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Ҷадвал дорои шумораи умумии ҳар як навъи воситаи пайгирие мебошад, ки дар ҳафтаи ҷорӣ манъ карда шудааст.
 social-tab-title = Васоити пайгирии шабакаҳои иҷтимоӣ
 cookie-tab-title = Кукиҳои васоити пайгирӣ байни сомонаҳо
 tracker-tab-title = Муҳтавои пайгирикунанда
