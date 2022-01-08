@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC günlük kaydı
 about-webrtc-aec-logging-off-state-label = AEC kaydını başlat
 about-webrtc-aec-logging-on-state-label = AEC kaydını durdur
 about-webrtc-aec-logging-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Otomatik yenile
 
 ##
 
