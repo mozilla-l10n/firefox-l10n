@@ -22,22 +22,52 @@ onboarding-not-now-button-label = Ekki núna
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Frábært, þú ert með { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Nú skulum við ná í handa þér <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Bæta inn viðbótinni
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Velkomin í <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Hraðvirkur, öruggur og persónulegur vafri sem er studdur af frjálsum félagasamtökum.
+onboarding-multistage-welcome-primary-button-label = Byrja uppsetningu
 onboarding-multistage-welcome-secondary-button-label = Innskráning
 onboarding-multistage-welcome-secondary-button-text = Ertu með reikning?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Gerðu { -brand-short-name } að <span data-l10n-name="zap">sjálfgefnu</span>
+onboarding-multistage-set-default-subtitle = Fáðu hraða, öryggi og næði í hvert skipti sem þú vafrar.
 onboarding-multistage-set-default-primary-button-label = Gera sjálfgefinn
 onboarding-multistage-set-default-secondary-button-label = Ekki núna
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Veldu { -brand-short-name } í vali vafra þegar stillingarnar þínar opnast
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Þetta mun festa { -brand-short-name } við verkefnastikuna og opna stillingar
 onboarding-multistage-pin-default-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Flyttu inn lykilorðin þín, <br/>bókamerki og <span data-l10n-name="zap">meira</span>
+onboarding-multistage-import-subtitle = Kemur frá öðrum vafra? Það er auðvelt að koma öllu yfir í { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Hefja innflutning
 onboarding-multistage-import-secondary-button-label = Ekki núna
 
 ## Multistage onboarding strings (about:welcome pages)
 
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Komast í gang: skjár { $current } af { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Veldu <span data-l10n-name="zap">útlit</span>
+onboarding-multistage-theme-subtitle = Sérsníddu { -brand-short-name } með þema.
 onboarding-multistage-theme-primary-button-label2 = Lokið
 onboarding-multistage-theme-secondary-button-label = Ekki núna
 # Automatic theme uses operating system color settings
@@ -68,6 +98,12 @@ mr1-onboarding-reduce-motion-button-label = Slökkva á hreyfingum
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Haltu { -brand-short-name } í dokkunni þinni til að einfalda aðgengið
+       *[other] Festu { -brand-short-name } á verkefnastikuna þína til að einfalda aðgengið
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -81,6 +117,8 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Hefjast handa
 mr1-onboarding-welcome-header = Velkomin í { -brand-short-name }
+mr1-onboarding-set-default-pin-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
+    .title = Gerir { -brand-short-name } að sjálfgefnum vafra og festir hann við verkefnastikuna
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Gera { -brand-short-name } að sjálfgefna vafranum mínum
@@ -140,6 +178,11 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Erfðu útlit stýrikerfisins þíns
+        fyrir hnappa, valmyndir og glugga.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
