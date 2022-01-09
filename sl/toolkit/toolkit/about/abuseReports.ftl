@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Prijava dodatka { $addon-name }
 abuse-report-title-extension = Prijavi to razširitev organizaciji { -vendor-short-name }
+abuse-report-title-sitepermission = Prijavi ta dodatek za dovoljenja strani organizaciji { -vendor-short-name }
 abuse-report-title-theme = Prijavi to temo organizaciji { -vendor-short-name }
 abuse-report-subtitle = Kje je težava?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Pošiljanje poročila za <span data-l10n-na
 abuse-report-messagebar-submitted = Hvala za prijavo. Ali želite odstraniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Hvala za prijavo.
 abuse-report-messagebar-removed-extension = Hvala, ker ste nam poslali prijavo. Razširitev <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
+abuse-report-messagebar-removed-sitepermission = Hvala, ker ste nam poslali prijavo. Dodatek za dovoljenja strani <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
 abuse-report-messagebar-removed-theme = Hvala za prijavo. Temo <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
 abuse-report-messagebar-error = Pri pošiljanju poročila za <span data-l10n-name="addon-name">{ $addon-name }</span> je prišlo do napake.
 abuse-report-messagebar-error-recent-submit = Poročilo za <span data-l10n-name="addon-name">{ $addon-name }</span> ni bilo poslano, ker je bilo pred kratkim poslano drugo poročilo.
