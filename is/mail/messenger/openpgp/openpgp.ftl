@@ -564,8 +564,24 @@ key-revoked = Lykillinn ‘{ $key }’ afturkallaður
 key-expired = Lykillinn ‘{ $key }’ útrunninn
 msg-compose-internal-error = Innri villa kom upp.
 keys-to-export = Veldu OpenPGP-lykla til að setja inn
+msg-compose-partially-encrypted-inlinePGP =
+    Skilaboðin sem þú ert að svara innihélt bæði ódulritaða og dulritaða hluta. Ef sendandi gat upphaflega ekki afkóðað hluta skilaboðanna, gætirðu verið að leka trúnaðarupplýsingum sem sendandinn gat sjálfur upphaflega ekki afkóðað.
+    Íhugaðu að fjarlægja allan tilvitnaðan texta úr svari þínu til þessa sendanda.
 msg-compose-cannot-save-draft = Villa við að vista drög
 msg-compose-partially-encrypted-short = Varist leka á viðkvæmum upplýsingum - að hluta dulritaður tölvupóstur.
+quoted-printable-warn =
+    Þú hefur virkjað „quoted-printable“-kóðun til að senda skilaboð. Þetta getur leitt til rangrar afkóðunar og/eða staðfestingar á skilaboðunum þínum.
+    Viltu slökkva á sendingu „quoted-printable“-skilaboða núna?
+minimal-line-wrapping =
+    Þú hefur stillt umbrot línu á { $width } stafi. Fyrir rétta dulkóðun og/eða undirritun þarf þetta gildi að vera að minnsta kosti 68 stafir.
+    Viltu breyta umbroti línu í 68 stafi?
+sending-news =
+    Dulritaðri sendingaraðgerð hætt.
+    Ekki er hægt að dulrita þessi skilaboð vegna þess að þarna eru viðtakendur í fréttahópi. Sendu skilaboðin aftur án dulritunar.
+send-to-news-warning =
+    Aðvörun: þú ert að fara að senda dulritaðan tölvupóst til fréttahóps.
+    Þetta er óhugsandi vegna þess að slíkt er aðeins skynsamlegt ef allir meðlimir hópsins geta afkóðað skilaboðin, þ.e. skilaboðin þurfa að vera dulrituð með lyklum allra þátttakenda hópsins. Sendu þessi skilaboð aðeins ef þú veist nákvæmlega hvað þú ert að gera.
+    Halda áfram?
 save-attachment-header = Vista afkóðað viðhengi
 no-temp-dir =
     Gat ekki fundið bráðabirgðamöppu til að skrifa í
