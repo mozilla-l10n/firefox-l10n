@@ -4,8 +4,10 @@
 
 synced-tabs-sidebar-title = Samstilltir flipar
 synced-tabs-sidebar-noclients-subtitle = Viltu sjá hérna þína flipa frá öðrum tækjum?
+synced-tabs-sidebar-intro = Skoða lista yfir flipa frá öðrum tækjum.
 synced-tabs-sidebar-unverified = Nauðsynlegt er að staðfesta reikning.
 synced-tabs-sidebar-notabs = Engir opnir flipar
+synced-tabs-sidebar-open-settings = Opna samstillingar
 synced-tabs-sidebar-tabsnotsyncing = Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.
 synced-tabs-sidebar-connect-another-device = Tengja annað tæki
 synced-tabs-sidebar-search =
@@ -38,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = Samstilla núna
     .accesskey = S
 synced-tabs-fxa-sign-in = Skráðu inn til að samstilla
+synced-tabs-turn-on-sync = Kveikja á samstillingu

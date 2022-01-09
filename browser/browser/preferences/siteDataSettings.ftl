@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Geymsla
 site-data-column-last-used =
     .label = Síðast notað
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (staðbundin skrá)
 site-data-remove-selected =
     .label = Fjarlægja valið
     .accesskey = r
