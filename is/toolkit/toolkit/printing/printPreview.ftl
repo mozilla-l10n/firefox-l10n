@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Bls:
     .accesskey = B
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } af { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Seinasta síða
-
+printpreview-homearrow-button =
+    .title = Fyrsta síða
+printpreview-previousarrow-button =
+    .title = Fyrri síða
+printpreview-nextarrow-button =
+    .title = Næsta síða
+printpreview-endarrow-button =
+    .title = Síðasta síða
