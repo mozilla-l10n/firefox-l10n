@@ -36,6 +36,13 @@ upgrade-dialog-pin-title =
         [macos] Haltu { -brand-short-name } í dokkunni þinni
        *[other] Festu { -brand-short-name } á verkefnastikuna þína
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Haltu innan seilingar þeim ferskasta { -brand-short-name } sem enn hefur komið fram.
+       *[other] Haltu innan seilingar þeim ferskasta { -brand-short-name } sem enn hefur komið fram.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Halda í dokkunni
