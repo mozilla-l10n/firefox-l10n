@@ -134,6 +134,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nedavne posodobitve
 addon-category-recent-updates-title =
     .title = Nedavne posodobitve
+addon-category-sitepermission = Dovoljenja strani
+addon-category-sitepermission-title =
+    .title = Dovoljenja strani
 
 ## These are global warnings
 
@@ -372,6 +375,7 @@ addon-permissions-optional = Izbirna dovoljenja za dodatno delovanje:
 addon-permissions-learnmore = Več o dovoljenjih
 recommended-extensions-heading = Priporočene razširitve
 recommended-themes-heading = Priporočene teme
+addon-sitepermissions-required = Spletnemu mestu <span data-l10n-name="hostname">{ $hostname }</span> daje naslednje zmožnosti:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ste ustvarjalno razpoloženi? <a data-l10n-name="link">Ustvarite lastno temo s Firefox Colorjem.</a>
