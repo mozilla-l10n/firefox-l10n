@@ -368,3 +368,7 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Atverti saitą naujoje „{ $containerName }“ kortelėje
     .accesskey = t
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Rodyti slaptažodį
+    .accesskey = d

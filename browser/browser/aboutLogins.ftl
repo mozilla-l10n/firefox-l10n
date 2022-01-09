@@ -73,6 +73,8 @@ login-intro-instructions-fxa = Susikurkite arba prisijunkite prie savo „{ -fxa
 login-intro-instructions-fxa-settings = Eikite į „Nuostatos“ > „Sinchronizavimas“ > „Įjungti sinchronizavimą…“ Pažymėkite „Prisijungimai ir slaptažodžiai“ pasirinkimą.
 login-intro-instructions-fxa-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos.
 about-logins-intro-import = Jeigu turite kitoje naršyklėje įrašytų prisijungimų, galite <a data-l10n-name="import-link">juos importuoti į „{ -lockwise-brand-short-name }“</a>
+login-intro-instructions-fxa-passwords-help = Norėdami gauti daugiau informacijos, apsilankykite <a data-l10n-name="passwords-help-link">slaptažodžių pagalbos</a> svetainėje.
+about-logins-intro-browser-only-import = Jeigu turite kitoje naršyklėje įrašytų prisijungimų, galite <a data-l10n-name="import-link">juos importuoti į „{ -brand-product-name }“</a>
 about-logins-intro-import2 = Jei jūsų prisijungimai yra įrašyti kitur nei „{ -brand-product-name }“, galite <a data-l10n-name="import-browser-link">juos importuoti iš kitos naršyklės</a> arba <a data-l10n-name="import-file-link">iš failo</a>
 
 ## Login
