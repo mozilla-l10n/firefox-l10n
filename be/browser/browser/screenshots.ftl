@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Капіраваць здымак экрана ў буфер абмену
 screenshots-cancel-button-title =
     .title = Скасаваць
+screenshots-retry-button-title =
+    .title = Паўтарыць здымак экрана
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
