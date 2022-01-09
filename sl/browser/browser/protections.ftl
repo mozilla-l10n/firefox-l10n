@@ -74,6 +74,8 @@ lockwise-no-logins-card-content = Uporabljajte gesla, shranjena v { -brand-short
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> in <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 protection-report-passwords-save-passwords-button = Shrani gesla
     .title = Shrani gesla
+protection-report-passwords-manage-passwords-button = Upravljanje gesel
+    .title = Upravljanje gesel
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
