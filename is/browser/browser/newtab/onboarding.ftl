@@ -44,6 +44,10 @@ onboarding-multistage-set-default-header = Gerðu { -brand-short-name } að <spa
 onboarding-multistage-set-default-subtitle = Fáðu hraða, öryggi og næði í hvert skipti sem þú vafrar.
 onboarding-multistage-set-default-primary-button-label = Gera sjálfgefinn
 onboarding-multistage-set-default-secondary-button-label = Ekki núna
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Byrjaðu á því að láta <span data-l10n-name="zap">{ -brand-short-name }</span> vera innan seilingar
+onboarding-multistage-pin-default-subtitle = Fljótlegt, öruggt og persónuvarið vafur í hvert skipti sem þú notar vefinn.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Veldu { -brand-short-name } í vali vafra þegar stillingarnar þínar opnast
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
@@ -55,6 +59,9 @@ onboarding-multistage-import-header = Flyttu inn lykilorðin þín, <br/>bókame
 onboarding-multistage-import-subtitle = Kemur frá öðrum vafra? Það er auðvelt að koma öllu yfir í { -brand-short-name }.
 onboarding-multistage-import-primary-button-label = Hefja innflutning
 onboarding-multistage-import-secondary-button-label = Ekki núna
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Vefsvæðin sem talin eru upp hér fundust á þessu tæki. { -brand-short-name } vistar eða samstillir ekki gögn úr öðrum vafra nema þú veljir að flytja þau inn.
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -183,9 +190,84 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Erfðu útlit stýrikerfisins þíns
         fyrir hnappa, valmyndir og glugga.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Erfðu útlit stýrikerfisins þíns
+        fyrir hnappa, valmyndir og glugga.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Notaðu ljóst útlit á hnöppum,
+        valmyndum og gluggum.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Notaðu ljóst útlit á hnöppum,
+        valmyndum og gluggum.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Notaðu dökkt útlit á hnöppum,
+        valmyndum og gluggum.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Notaðu dökkt útlit á hnöppum,
+        valmyndum og gluggum.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Notaðu litríkt útlit fyrir hnappa,
+        valmyndir og glugga.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Notaðu litríkt útlit fyrir hnappa,
+        valmyndir og glugga.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Fylgdu stýrikerfisþema
+        fyrir hnappa, valmyndir og glugga.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Fylgdu stýrikerfisþema
+        fyrir hnappa, valmyndir og glugga.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        Notaðu ljóst þema á hnöppum,
+        valmyndum og gluggum.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        Notaðu ljóst þema á hnöppum,
+        valmyndum og gluggum.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        Notaðu dökkt þema á hnöppum,
+        valmyndum og gluggum.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        Notaðu dökkt þema á hnöppum,
+        valmyndum og gluggum.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        Notaðu kraftmikið, litríkt þema fyrir
+        hnappa, valmyndir og glugga.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        Notaðu kraftmikið, litríkt þema fyrir
+        hnappa, valmyndir og glugga.
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-tooltip =
