@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC įrašymas
 about-webrtc-aec-logging-off-state-label = Pradėti AEC įrašinėjimą
 about-webrtc-aec-logging-on-state-label = Baigti AEC įrašinėjimą
 about-webrtc-aec-logging-on-state-msg = AEC įrašinėjimas aktyvus (pakalbėkite su pašnekovu keletą minučių, o tada sustabdykite įrašymą)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatinis turinio atnaujinimas
 
 ##
 
