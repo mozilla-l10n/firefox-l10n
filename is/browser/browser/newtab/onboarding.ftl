@@ -28,9 +28,20 @@ return-to-amo-add-extension-label = Bæta inn viðbótinni
 
 onboarding-multistage-welcome-secondary-button-label = Innskráning
 onboarding-multistage-welcome-secondary-button-text = Ertu með reikning?
+onboarding-multistage-set-default-primary-button-label = Gera sjálfgefinn
+onboarding-multistage-set-default-secondary-button-label = Ekki núna
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Þetta mun festa { -brand-short-name } við verkefnastikuna og opna stillingar
+onboarding-multistage-pin-default-primary-button-label = Gera { -brand-short-name } að aðalvafranum mínum
+onboarding-multistage-import-primary-button-label = Hefja innflutning
+onboarding-multistage-import-secondary-button-label = Ekki núna
 
 ## Multistage onboarding strings (about:welcome pages)
 
+onboarding-multistage-theme-primary-button-label2 = Lokið
+onboarding-multistage-theme-secondary-button-label = Ekki núna
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Sjálfvirkt
 onboarding-multistage-theme-label-light = Ljóst
 onboarding-multistage-theme-label-dark = Dökkt
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -57,6 +68,12 @@ mr1-onboarding-reduce-motion-button-label = Slökkva á hreyfingum
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Halda í dokku
+       *[other] Festa á verkefnastikuna
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -79,6 +96,7 @@ mr1-onboarding-default-primary-button-label = Gera að sjálfgefnum vafra
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Taktu allt með þér
 mr1-onboarding-import-subtitle = Flyttu inn lykilorð, <br/>bókamerki og fleira.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
