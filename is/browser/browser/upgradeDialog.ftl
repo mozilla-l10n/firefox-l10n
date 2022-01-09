@@ -8,7 +8,15 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Heilsaðu upp á nýja { -brand-short-name }
+upgrade-dialog-new-subtitle = Hannað til að koma þér þangað sem þú vilt fara - hraðar
 upgrade-dialog-new-item-menu-title = Straumlínulaga verkfæraslá og valmyndir
+upgrade-dialog-new-item-menu-description = Forgangsraðaðu mikilvægu hlutunum svo þú finnir það sem þú þarft.
+upgrade-dialog-new-item-tabs-title = Nútímalegir flipar
+upgrade-dialog-new-item-tabs-description = Setja snyrtilega fram upplýsingar, styðja við virknibreytingar og sveigjanlegar tilfærslur.
+upgrade-dialog-new-item-icons-title = Ferskar táknmyndir og skýrari skilaboð
+upgrade-dialog-new-item-icons-description = Hjálpar þér að rata með léttara yfirbragði.
 
 ## Pin Firefox screen
 ##
