@@ -452,6 +452,7 @@ openpgp-export-secret-fail = <b>Ekki tókst að flytja út valinn einkalykil!</b
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Lykillinn { $userId } (auðkenni { $keyId }) er afturkallaður.
 key-ring-pub-key-expired = Lykillinn { $userId } (auðkenni { $keyId }) er útrunninn.
+key-ring-no-secret-key = Þú virðist ekki vera með leynilykilinn fyrir { $userId } (auðkenni { $keyId }) í lyklasafninu; þú getur ekki notað lykilinn til undirritunar.
 key-ring-pub-key-not-for-signing = Lykilinn { $userId } (auðkenni { $keyId }) er ekki hægt að nota til undirritunar.
 key-ring-pub-key-not-for-encryption = Lykilinn { $userId } (auðkenni { $keyId }) er ekki hægt að nota til dulritunar.
 key-ring-sign-sub-keys-revoked = Allir undirritunar-undirlyklar lykilsins { $userId } (auðkenni { $keyId }) eru afturkallaðir.
@@ -489,6 +490,9 @@ delete-external-key-description = Viltu fjarlægja þetta utanaðkomandi GnuPG-l
 key-in-use-title = OpenPGP-lykill í notkun
 delete-key-in-use-description = Ekki hægt að halda áfram! Lykillinn sem þú valdir til eyðingar er notað af þessu auðkenni. Veldu annan lykil eða engan, og reyndu aftur.
 revoke-key-in-use-description = Ekki hægt að halda áfram! Lykillinn sem þú valdir til afturköllunar er notað af þessu auðkenni. Veldu annan lykil eða engan, og reyndu aftur.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Tölvupóstfangið „{ $keySpec }“ samsvarar engum lykli í lyklasafninu.
+key-error-key-id-not-found = Stillta lykilauðkennið „{ $keySpec }“ er ekki að finna í lyklasafninu þínu.
 key-error-not-accepted-as-personal = Þú hefur ekki staðfest að lykillinn með auðkenninu „{ $keySpec }“ sé persónulegur lykill þinn.
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = Aðgerðin sem þú hefur valið er ekki tiltæk án nettengingar. Tengstu við internetið og reyndu aftur.
@@ -540,6 +544,8 @@ key-man-button-generate-key-continue = Hal&da áfram með gerð lykils
 
 failed-decrypt = Villa - afkóðun mistókst
 fix-broken-exchange-msg-failed = Tekst ekki að gera við þessi skilaboð.
+attachment-no-match-from-signature = Gat ekki tengt undirritunarskrána „{ $attachment }“ við neitt viðhengi
+attachment-no-match-to-signature = Gat ekki tengt viðhengið „{ $attachment }“ við neina undirritunarskrá
 signature-verified-ok = Það tókst að staðfesta undirritunina fyrir viðhengið { $attachment }
 signature-verify-failed = Ekki var hægt að staðfesta undirritunina fyrir viðhengið { $attachment }
 decrypt-ok-no-sig =
