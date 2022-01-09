@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Ultimas actualisaziuns
 addon-category-recent-updates-title =
     .title = Ultimas actualisaziuns
+addon-category-sitepermission = Autorisaziuns per la website
+addon-category-sitepermission-title =
+    .title = Autorisaziuns per la website
 
 ## These are global warnings
 
@@ -291,6 +294,8 @@ dictionary-enabled-heading = Activà
 dictionary-disabled-heading = Deactivà
 locale-enabled-heading = Activà
 locale-disabled-heading = Deactivà
+sitepermission-enabled-heading = Activà
+sitepermission-disabled-heading = Deactivà
 always-activate-button = Adina activar
 never-activate-button = Mai activar
 addon-detail-author-label = Autur(a)
@@ -367,6 +372,7 @@ addon-permissions-optional = Permissiuns facultativas per funcziunalitads supple
 addon-permissions-learnmore = Vegnir a savair dapli davart permissiuns
 recommended-extensions-heading = Extensiuns recumandadas
 recommended-themes-heading = Designs recumandads
+addon-sitepermissions-required = Permetta a <span data-l10n-name="hostname">{ $hostname }</span> dad utilisar las suandantas funcziuns:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Inspirà? <a data-l10n-name="link">Creescha tes agen design cun Firefox Color.</a>
@@ -379,6 +385,7 @@ plugin-heading = Administrar tes plug-ins
 dictionary-heading = Administrar tes dicziunaris
 locale-heading = Administrar tias linguas
 updates-heading = Administrar las actualisaziuns
+sitepermission-heading = Administrar tias autorisaziuns da website
 discover-heading = Persunalisescha tes { -brand-short-name }
 shortcuts-heading = Administrar scursanidas dad extensiuns
 default-heading-search-label = Chattar ulteriurs supplements

@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport per { $addon-name }
 abuse-report-title-extension = Rapportar questa extensiun a { -vendor-short-name }
+abuse-report-title-sitepermission = Rapportar quest supplement dad autorisaziuns per websites a { -vendor-short-name }
 abuse-report-title-theme = Rapportar quest design a { -vendor-short-name }
 abuse-report-subtitle = Tge è il problem?
 # Variables:
@@ -39,6 +40,7 @@ abuse-report-messagebar-submitting = Trametter il rapport per <span data-l10n-na
 abuse-report-messagebar-submitted = Grazia per trametter in rapport. Vuls ti allontanar <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Grazia per trametter in rapport.
 abuse-report-messagebar-removed-extension = Grazia per trametter in rapport. Ti has allontanà l'extensiun <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Grazia per trametter in rapport. Ti has allontanà il supplement dad autorisaziuns per websites <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Grazia per trametter in rapport. Ti has allontanà il design <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ina errur è succedida cun trametter il rapport per <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Il rapport per <span data-l10n-name="addon-name">{ $addon-name }</span> n'è betg vegnì tramess perquai ch'in auter rapport è vegnì tramess dacurt.
@@ -47,6 +49,8 @@ abuse-report-messagebar-error-recent-submit = Il rapport per <span data-l10n-nam
 
 abuse-report-messagebar-action-remove-extension = Gea, allontanar
 abuse-report-messagebar-action-keep-extension = Na, mantegnair
+abuse-report-messagebar-action-remove-sitepermission = Gea, allontanar
+abuse-report-messagebar-action-keep-sitepermission = Na, mantegnair
 abuse-report-messagebar-action-remove-theme = Gea, allontanar
 abuse-report-messagebar-action-keep-theme = Na, mantegnair
 abuse-report-messagebar-action-retry = Reempruvar
@@ -65,12 +69,17 @@ abuse-report-settings-suggestions-homepage = Mida tia pagina da partenza e la pa
 abuse-report-deceptive-reason-v2 = Pretenda dad esser insatge auter
 abuse-report-deceptive-example = Exempel: Descripziun u grafica engianaivla
 abuse-report-broken-reason-extension-v2 = Na funcziuna betg, chaschuna problems cun websites u ralentescha { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Na funcziuna betg, chaschuna problems cun websites u ralentescha { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Na funcziuna betg u chaschuna problems cun l'interfatscha dal navigatur
 abuse-report-broken-example = Exempel: las funcziuns èn plaunas, difficilas dad utilisar u na funcziunan betg; parts da websites na chargian betg u vegnan visualisadas a moda curiusa
 abuse-report-broken-suggestions-extension =
     Probablamain has ti chattà in sbagl dal program. Ultra da trametter qua in rapport, vegni recumandà 
     da contactar il sviluppader da l'extensiun per ch'il problem possia vegnir schlià.
     <a data-l10n-name="support-link">Visita la website da l'extensiun</a> per chattar infurmaziuns davart il sviluppader.
+abuse-report-broken-suggestions-sitepermission =
+    Probablamain has ti chattà in sbagl. Ultra da trametter qua in rapport, vegni recumandà 
+    da contactar il sviluppader da la website per ch'il problem possia vegnir schlià.
+    <a data-l10n-name="support-link">Visita la website</a> per chattar infurmaziuns davart il sviluppader.
 abuse-report-broken-suggestions-theme =
     Probablamain has ti chattà in sbagl dal program. Ultra da trametter qua in rapport, vegni recumandà 
     da contactar il sviluppader dal design per ch'il problem possia vegnir schlià.
