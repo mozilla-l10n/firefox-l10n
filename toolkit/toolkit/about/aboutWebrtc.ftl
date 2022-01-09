@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC-logging
 about-webrtc-aec-logging-off-state-label = Start AEC-logging
 about-webrtc-aec-logging-on-state-label = Stopp AEC-logging
 about-webrtc-aec-logging-on-state-msg = AEC-logging er påslått (prat med den som ringer i noen minutter og stopp deretter opptaket)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatisk oppdatering
 
 ##
 
