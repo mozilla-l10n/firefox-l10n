@@ -940,7 +940,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
-content-blocking-etp-custom-desc = Pasirinkite, kurios stebėjimo elementus ir scenarijus norite blokuoti.
+content-blocking-etp-custom-desc = Pasirinkite, kuriuos stebėjimo elementus ir scenarijus norite blokuoti.
 content-blocking-etp-blocking-desc = „{ -brand-short-name }“ blokuoja:
 content-blocking-private-windows = Stebėjimui naudojamas turinys privačiojo naršymo languose
 content-blocking-cross-site-cookies-in-all-windows = Tarp svetainių veikiantys slapukai visuose languose (įskaitant stebėjimo slapukus)
