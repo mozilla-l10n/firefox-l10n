@@ -48,6 +48,7 @@ cert-error-code-prefix-link = Код ошибки: <a data-l10n-name="error-code
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Веб-сайты подтверждают свою подлинность с помощью сертификатов, выдаваемых центрами сертификации. Большинство браузеров больше не доверяют сертификатам, выпущенным GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } использует сертификат от одного из этих центров, поэтому его подлинность не может быть подтверждена.
 cert-error-symantec-distrust-admin = Вы можете уведомить об этой проблеме администратора веб-сайта.
+cert-error-old-tls-version = Этот веб-сайт может не поддерживать протокол TLS 1.2 — минимальную версию, поддерживаемую { -brand-short-name }.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Форсированное защищённое соединение HTTP (HSTS): { $hasHSTS }
