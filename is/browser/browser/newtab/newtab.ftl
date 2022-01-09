@@ -119,6 +119,11 @@ newtab-menu-show-privacy-info = Styrktaraðilar okkar og friðhelgi þín
 newtab-privacy-modal-button-done = Lokið
 newtab-privacy-modal-button-manage = Sýsla með stillingar á kostuðu efni
 newtab-privacy-modal-header = Persónuvernd þín skiptir máli.
+newtab-privacy-modal-paragraph-2 =
+    Auk þess að bjóða upp á grípandi sögur, sýnum við þér einnig viðeigandi,
+    hátt metið efni frá völdum styrktaraðilum. Vertu viss, <strong>vafragögnin þín
+    fara aldrei út fyrir uppsetningu þína af { -brand-product-name }</strong> — við sjáum þau ekki og
+    styrktaraðilar okkar gera það ekki heldur.
 newtab-privacy-modal-link = Kynntu þér hvernig persónuvernd virkar á nýja flipanum
 
 ##
@@ -210,6 +215,7 @@ newtab-empty-section-topstories = Þú hefur lesið allt. Athugaðu aftur síða
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Þú hefur klárað það sem lá fyrir!
 newtab-discovery-empty-section-topstories-content = Komdu aftur síðar til að fá fleiri sögur.
 newtab-discovery-empty-section-topstories-try-again-button = Reyna aftur
 newtab-discovery-empty-section-topstories-loading = Hleður…
@@ -235,7 +241,10 @@ newtab-pocket-load-more-stories-button = Hlaða inn fleiri sögum
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Þú hefur náð að klára!
 newtab-pocket-last-card-desc = Komdu aftur síðar til að fá meira.
+newtab-pocket-last-card-image =
+    .alt = Þú hefur náð að klára
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
