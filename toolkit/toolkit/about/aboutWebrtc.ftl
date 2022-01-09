@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Protocollar AEC
 about-webrtc-aec-logging-off-state-label = Cumenzar da protocollar AEC
 about-webrtc-aec-logging-on-state-label = Chalar da protocollar AEC
 about-webrtc-aec-logging-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Actualisar automaticamain
 
 ##
 
