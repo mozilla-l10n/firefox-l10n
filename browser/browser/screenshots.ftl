@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopijuoti ekrano nutrauką į iškarpinę
 screenshots-cancel-button-title =
     .title = Atsisakyti
+screenshots-retry-button-title =
+    .title = Kartoti ekrano nuotrauką
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
