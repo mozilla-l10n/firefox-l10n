@@ -42,7 +42,7 @@ pane-experimental-subtitle = Haltu áfram með varúð
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
-help-button-label = { -brand-short-name } Stuðningur
+help-button-label = { -brand-short-name } Aðstoð
 addons-button-label = Viðbætur & þemu
 focus-search =
     .key = f
@@ -898,7 +898,7 @@ addon-recommendations =
 addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Gagna skýrsla er óvirk í þessari útgáfu
+collection-health-report-disabled = Gagnaskýrslur eru óvirkar í þessari útgáfu
 
 ## Privacy Section - Security
 ##

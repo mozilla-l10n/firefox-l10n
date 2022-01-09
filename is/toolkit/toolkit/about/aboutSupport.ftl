@@ -293,6 +293,7 @@ policies-error = Villa
 
 ## Printing section
 
+support-printing-prefs-value = Gildi
 
 ## Normandy sections
 
