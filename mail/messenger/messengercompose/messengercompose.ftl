@@ -270,7 +270,51 @@ encrypted-bcc-ignore-button = Wedi Deall
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tynnu Steilio Testun
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [zero] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
+        [one] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
+        [two] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
+        [few] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
+        [many] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
+       *[other] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [zero] Dysgwch ragor am { $firstLinks } a { $lastLink }.
+        [one] Dysgwch ragor am { $firstLinks }
+        [two] Dysgwch ragor am { $firstLinks } a { $lastLink }.
+        [few] Dysgwch ragor am { $firstLinks } a { $lastLink }.
+        [many] Dysgwch ragor am { $firstLinks } a { $lastLink }.
+       *[other] Dysgwch ragor am { $firstLinks } a { $lastLink }.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Dolen wedi'i diogelu gan gyfrinair
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Gwasanaeth CloudFile:
+cloud-file-template-size = Maint:
+cloud-file-template-link = Dolen:
+cloud-file-template-password-protected-link = Dolen wedi'i Diogelu gan Gyfrinair
+cloud-file-template-expiry-date = Dyddiad Dod i Ben:
+cloud-file-template-download-limit = Terfyn Llwytho i Lawr:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
