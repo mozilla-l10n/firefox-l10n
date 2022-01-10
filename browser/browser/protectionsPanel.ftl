@@ -16,8 +16,10 @@
 
 ##
 
-protections-panel-content-blocking-cryptominers-label = Rafmynt grafarar
-protections-panel-content-blocking-fingerprinters-label = Fingraför
+protections-panel-content-blocking-tracking-protection = Rakning efnis
+protections-panel-content-blocking-socialblock = Samfélagsmiðlarekjarar
+protections-panel-content-blocking-cryptominers-label = Rafmyntagröftur
+protections-panel-content-blocking-fingerprinters-label = Fingrafarasöfnun
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -25,6 +27,9 @@ protections-panel-content-blocking-fingerprinters-label = Fingraför
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Lokað á
+protections-panel-not-blocking-label = Leyft
+protections-panel-not-found-label = Ekkert fannst
 
 ##
 
