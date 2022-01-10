@@ -781,7 +781,7 @@ navbar-library =
 navbar-search =
     .title = Leita
 navbar-accessibility-indicator =
-    .tooltiptext = Aðgengi virkjað
+    .tooltiptext = Aukið aðgengi virkjað
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string

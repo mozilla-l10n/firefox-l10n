@@ -47,6 +47,14 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Lykilorðin þín eru geymd á öruggan hátt.
     }
 monitor-header-content-no-account = Athugaðu { -monitor-brand-name } til að sjá hvort þú hafir verið hluti af þekktu gagnainnbroti og fáðu tilkynningar um ný innbrot.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Verið er að fylgjast með tölvupóstfangi
+       *[other] Verið er að fylgjast með tölvupóstföngum
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
