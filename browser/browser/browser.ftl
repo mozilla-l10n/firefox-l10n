@@ -302,16 +302,16 @@ identity-description-weak-cipher-risk = Aðrir geta skoðað þessar upplýsinga
 identity-description-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir. <label data-l10n-name="link">Fræðast meira</label>
 identity-description-passive-loaded = Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.
 identity-description-passive-loaded-insecure = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir). <label data-l10n-name="link">Fræðast meira</label>
-identity-description-passive-loaded-mixed = Þótt { -brand-short-name } hafi lokað á suma hluta, er ennþá innihald á síðunni sem er ekki öruggt (eins og myndir). <label data-l10n-name="link">Fræðast meira</label>
+identity-description-passive-loaded-mixed = Þótt { -brand-short-name } hafi lokað á sumt efni, er ennþá efni á síðunni sem er ekki öruggt (eins og t.d. myndir). <label data-l10n-name="link">Fræðast meira</label>
 identity-description-active-loaded = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.
 identity-description-active-loaded-insecure = Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
 identity-learn-more =
     .value = Fræðast meira
 identity-disable-mixed-content-blocking =
-    .label = Hætta við vörn í bili
-    .accesskey = H
+    .label = Slökkva á vernd í bili
+    .accesskey = S
 identity-enable-mixed-content-blocking =
-    .label = Virkja vernd
+    .label = Virkja verndun
     .accesskey = e
 identity-more-info-link-text =
     .label = Nánari upplýsingar

@@ -46,7 +46,7 @@ policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
 policy-DontCheckDefaultBrowser = Slökkva á sjálfgefinni athugun um aðalvafra kerfis er við ræsingu.
 policy-DownloadDirectory = Stilltu og læstu möppu fyrir niðurhal.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Virkja eða slökkva á Efnablokkun og læsa henni mögulega.
+policy-EnableTrackingProtection = Virkja eða slökkva á efnisútilokun (Content Blocking) og mögulega læsa henni.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
