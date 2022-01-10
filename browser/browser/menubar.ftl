@@ -36,20 +36,16 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Scoir { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Scoir { -brand-shorter-name }
-
 menu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
@@ -109,6 +105,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Eagar
     .accesskey = E
+menu-edit-find-in-page =
+    .label = Aimsigh sa Leathanach…
+    .accesskey = A
 menu-edit-find-again =
     .label = Aimsigh Arís
     .accesskey = m
@@ -228,6 +227,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Eolas Leathanaigh
     .accesskey = s
+menu-settings =
+    .label = Socruithe
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -237,15 +243,6 @@ menu-window-bring-all-to-front =
     .label = Tabhair an t-iomlán chun tosaigh
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -265,8 +262,7 @@ menu-help-feedback-page =
     .label = Seol Aiseolas Chugainn…
     .accesskey = S
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Tuairiscigh suíomh cealgach…
     .accesskey = c

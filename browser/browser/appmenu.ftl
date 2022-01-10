@@ -23,6 +23,10 @@ appmenuitem-zoom =
     .value = Súmáil
 appmenuitem-help =
     .label = Cabhair
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Socruithe
 
 ## Zoom and Fullscreen Controls
 
@@ -39,6 +43,8 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-notabs = Níl aon chluaisín ar oscailt
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.
+appmenu-remote-tabs-opensettings =
+    .label = Socruithe
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?
@@ -58,6 +64,8 @@ whatsnew-panel-header = Gnéithe Nua
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-settings =
+    .value = Socruithe
 
 ## Profiler presets
 ## They are shown in the popup's select box.

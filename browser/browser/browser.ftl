@@ -437,6 +437,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Socruithe
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Oscail na socruithe ({ $shortcut })
+           *[other] Oscail na socruithe
+        }
 
 ## More items
 
@@ -471,6 +480,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Baineann roinnt comhad fuaime nó físe ar an suíomh seo leas as bogearraí DRM, rud a chuireann teorainn leis na rudaí is féidir le { -brand-short-name } a dhéanamh leis.
+eme-notifications-drm-content-playing-manage = Bainistigh na socruithe
 
 ## Password save/update panel
 

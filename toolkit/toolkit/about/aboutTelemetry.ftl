@@ -43,6 +43,8 @@ about-telemetry-ping-details = Seoltar gach píosa eolais cuachta in “<a data-
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Aimsigh in { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Aimsigh i ngach rann
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Torthaí i gcomhair “{ $searchTerms }”

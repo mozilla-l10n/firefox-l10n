@@ -151,3 +151,4 @@ newtab-pocket-read-more = Topaicí i mbéal an phobail:
 
 ## Customization Menu
 
+newtab-custom-settings = Bainistigh tuilleadh socruithe
