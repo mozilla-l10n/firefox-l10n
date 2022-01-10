@@ -48,6 +48,7 @@ cert-error-code-prefix-link = Cod gwall: <a data-l10n-name="error-code-link">{ $
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Mae gwefannau yn profi eu hunaniaeth trwy dystysgrifau, sy'n cael eu cyhoeddir gan awdurdodau tystysgrif. Nid yw'r mwyafrif o borwyr bellach yn ymddiried mewn tystysgrifau a gyhoeddir gan GeoTrust, RapidSSL, Symantec, Thawte, a VeriSign. Mae { $hostname } yn defnyddio tystysgrif gan un o'r awdurdodau hyn ac felly nid oes modd profi hunaniaeth y wefan.
 cert-error-symantec-distrust-admin = Gallwch hysbysu gweinyddwr y wefan am y broblem hon.
+cert-error-old-tls-version = Mae'n bosibl na fydd y wefan hon yn cefnogi'r protocol TLS 1.2, sef y fersiwn lleiaf a gefnogir gan { -brand-short-name }.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Diogelwch Trosglwyddo Llym HTTP: { $hasHSTS }
