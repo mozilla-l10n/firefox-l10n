@@ -541,6 +541,8 @@ containers-header = Innihalds flipar
 containers-add-button =
     .label = Bæta við nýjum innihaldsflipa
     .accesskey = a
+containers-settings-button =
+    .label = Stillingar
 containers-remove-button =
     .label = Fjarlægja
 
