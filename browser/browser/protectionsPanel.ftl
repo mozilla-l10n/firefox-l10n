@@ -27,6 +27,7 @@ protections-panel-etp-off-header = Slökkt er á aukinni rekjaravernd fyrir þet
 
 ##
 
+protections-panel-no-trackers-found = Engir rekjarar sem { -brand-short-name } þekkir til fundust á þessari síðu.
 protections-panel-content-blocking-tracking-protection = Rakning efnis
 protections-panel-content-blocking-socialblock = Samfélagsmiðlarekjarar
 protections-panel-content-blocking-cryptominers-label = Rafmyntagröftur
@@ -53,6 +54,9 @@ protections-panel-not-found-label = Ekkert fannst
 
 protections-panel-cross-site-tracking-cookies = Þessar vafrakökur fylgja þér frá vefsvæði til vefsvæðis til að safna gögnum um það sem þú gerir á netinu. Þær eru settar af utanaðkomandi aðilum á borð við auglýsendur og greiningarfyrirtæki.
 protections-panel-tracking-content = Vefsvæði kunna að hlaða inn utanaðkomandi auglýsingum, myndskeiðum og öðru efni með rakningarkóða. Að loka fyrir rakningarefni getur hjálpað vefsvæðum til að hlaðast hraðar inn, en sumir hnappar, innfyllingarreitir og innskráningarreitir virka kannski ekki.
+protections-panel-description-shim-allowed = Sumir rekjarar merktir hér að neðan hafa verið leyfðir að hluta til á þessari síðu vegna þess að þú áttir í samskiptum við þá.
+protections-panel-shim-allowed-indicator =
+    .tooltiptext = Opnað á rekjara að hluta til
 protections-panel-content-blocking-manage-settings =
     .label = Sýsla með verndunarstillingar
     .accesskey = m
