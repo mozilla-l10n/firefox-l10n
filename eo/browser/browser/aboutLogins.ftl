@@ -73,6 +73,7 @@ login-intro-instructions-fxa-settings = Iru al Agordoj->Spegulado->Ŝalti spegul
 login-intro-instructions-fxa-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo.
 about-logins-intro-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Vizitu la paĝon <a data-l10n-name="passwords-help-link">helpo pri pasvortoj</a> por havi pli da informo.
+about-logins-intro-browser-only-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -brand-product-name }</a>
 about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">enporti ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
 
 ## Login
