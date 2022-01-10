@@ -58,6 +58,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Tihedus
     .accesskey = h
+mail-uidensity-compact =
+    .label = Kompaktne
+    .accesskey = m
+mail-uidensity-normal =
+    .label = Tavaline
+    .accesskey = T
+mail-uidensity-touch =
+    .label = Puutetundlikule ekraanile
+    .accesskey = d
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Uudistegruppide konto…
+    .accesskey = U
