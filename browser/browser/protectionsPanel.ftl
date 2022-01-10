@@ -49,6 +49,7 @@ protections-panel-not-found-label = Ekkert fannst
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+protections-panel-site-not-working-view-issue-list-forms = Innfyllingarform
 
 ##
 
