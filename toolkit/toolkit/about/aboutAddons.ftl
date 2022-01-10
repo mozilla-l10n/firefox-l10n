@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Mis à jour
 addon-category-recent-updates-title =
     .title = Mis à jour
+addon-category-sitepermission = Autorisations de site
+addon-category-sitepermission-title =
+    .title = Autorisations de site
 
 ## These are global warnings
 
