@@ -60,6 +60,9 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window =
+    .title = Undanþágur fyrir aukna rakningarvernd
+    .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsvæðum.
 
 ## Exceptions - Cookies
