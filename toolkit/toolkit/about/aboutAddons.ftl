@@ -132,6 +132,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Ĵusaj ĝisdatigoj
 addon-category-recent-updates-title =
     .title = Ĵusaj ĝisdatigoj
+addon-category-sitepermission = Permesoj por retejo
+addon-category-sitepermission-title =
+    .title = Permesoj por retejo
 
 ## These are global warnings
 
@@ -280,6 +283,8 @@ dictionary-enabled-heading = Aktiva
 dictionary-disabled-heading = Malaktiva
 locale-enabled-heading = Aktiva
 locale-disabled-heading = Malaktiva
+sitepermission-enabled-heading = Aktiva
+sitepermission-disabled-heading = Malaktiva
 always-activate-button = Ĉiam aktivigi
 never-activate-button = Neniam aktivigi
 addon-detail-author-label = Aŭtoro

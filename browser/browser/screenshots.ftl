@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopii ekrankopion al tondujo
 screenshots-cancel-button-title =
     .title = Nuligi
+screenshots-retry-button-title =
+    .title = Denove klopodi fari ekrankopion
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
