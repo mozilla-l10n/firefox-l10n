@@ -592,6 +592,7 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-offer-setup-label2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
 
 ## The list of things currently syncing.
 

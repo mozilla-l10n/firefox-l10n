@@ -4,7 +4,7 @@
 
 about-telemetry-ping-data-source = Ping gagnastaðsetning:
 about-telemetry-show-archived-ping-data = Vistuð ping gögn
-about-telemetry-show-subsession-data = Sýna subsession gögn
+about-telemetry-show-subsession-data = Sýna undirlotugögn
 about-telemetry-choose-ping = Velja ping:
 about-telemetry-archive-ping-type = Ping tegund
 about-telemetry-archive-ping-header = Ping
@@ -24,7 +24,7 @@ about-telemetry-show-in-Firefox-json-viewer = Opna í JSON skoðara
 about-telemetry-home-section = Heim
 about-telemetry-general-data-section = Almenn gögn
 about-telemetry-environment-data-section = Umhverfisgögn
-about-telemetry-session-info-section = Lotuupplýsingar
+about-telemetry-session-info-section = Upplýsingar um lotu
 about-telemetry-scalar-section = Kvarðar
 about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = Súlurit

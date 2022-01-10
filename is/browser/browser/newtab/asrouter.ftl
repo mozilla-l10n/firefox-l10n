@@ -99,18 +99,34 @@ cfr-doorhanger-milestone-close-button = Loka
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Persónuvernd þín skiptir máli. { -brand-short-name } vísar nú DNS-beiðnum þínum þegar mögulegt er á öruggan hátt til samstarfsþjónustu til að vernda þig á meðan þú vafrar.
+cfr-doorhanger-doh-header = Öruggari, dulkóðaðar DNS-uppflettingar
+cfr-doorhanger-doh-primary-button-2 = Allt í lagi
+    .accesskey = A
+cfr-doorhanger-doh-secondary-button = Gera óvirkt
+    .accesskey = G
 
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-body-approved = Persónuvernd þín skiptir máli. Núna er { -brand-short-name } að einangra, eða setja í sandkassa, vefsvæði hvert fyrir sig, sem gerir tölvuþrjótum erfiðara fyrir að stela lykilorðum, kreditkortanúmerum og öðrum viðkvæmum upplýsingum.
+cfr-doorhanger-fission-header = Einangrun vefsvæðis
+cfr-doorhanger-fission-primary-button = Í lagi, ég skil
+    .accesskey = g
+cfr-doorhanger-fission-secondary-button = Frekari upplýsingar
+    .accesskey = F
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header = Uppfærðu { -brand-short-name } til að spila myndskeið
 cfr-doorhanger-video-support-primary-button = Uppfæra núna
     .accesskey = U
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Frekari upplýsingar
+    .title = Stækka til að læra meira um eiginleikann
+spotlight-learn-more-expanded = Frekari upplýsingar
+    .title = Loka
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -118,8 +134,19 @@ cfr-doorhanger-video-support-primary-button = Uppfæra núna
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Svo virðist sem þú sért að nota almennings Wi-Fi
+spotlight-public-wifi-vpn-primary-button = Haltu þig til hlés með { -mozilla-vpn-brand-name }
+    .accesskey = H
+spotlight-public-wifi-vpn-link = Ekki núna
+    .accesskey = E
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    Prófaðu öflugasta persónuverndar-
+    eiginleikann okkar frá upphafi
 spotlight-total-cookie-protection-body = Allsherjar-vefkökuvörn kemur í veg fyrir að rekendur geti notað vafrakökur til að rekja slóð þína á vefnum.
 spotlight-total-cookie-protection-secondary-button = Ekki núna
