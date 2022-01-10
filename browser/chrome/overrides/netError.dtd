@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Villa við að hlaða inn síðu">
 <!ENTITY retry.label "Reyna aftur">
 <!ENTITY returnToPreviousPage.label "Til baka">
-<!ENTITY returnToPreviousPage1.label "Til baka (Mælt með)">
+<!ENTITY returnToPreviousPage1.label "Fara til baka (ráðlagt)">
 <!ENTITY advanced2.label "Nánar…">
 <!ENTITY viewCertificate.label "Skoða skilríki">
 
