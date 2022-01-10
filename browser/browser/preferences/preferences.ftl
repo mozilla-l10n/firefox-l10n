@@ -76,7 +76,7 @@ extension-controlled-password-saving = Viðbót, <img data-l10n-name="icon"/> { 
 extension-controlled-web-notifications = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Viðbót, <img data-l10n-name="icon"/> { $name }, þarfnast inihalds flipa.
+extension-controlled-privacy-containers = Viðbót, <img data-l10n-name="icon"/> { $name }, þarfnast sérefnisflipa.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
@@ -143,13 +143,13 @@ show-tabs-in-taskbar =
     .label = Sýna flipasýnishorn í Windows verkslánni
     .accesskey = k
 browser-containers-enabled =
-    .label = Virkja innihalds flipa
+    .label = Virkja sérefnislipa
     .accesskey = n
 browser-containers-learn-more = Fræðast meira
 browser-containers-settings =
     .label = Stillingar…
     .accesskey = i
-containers-disable-alert-title = Loka öllum innihaldsflipum?
+containers-disable-alert-title = Loka öllum sérefnisflipum?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipa lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
