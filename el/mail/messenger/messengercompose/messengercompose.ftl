@@ -244,7 +244,36 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Έχω συνδέσει { $count } αρχείο σε αυτό το email:
+       *[other] Έχω συνδέσει { $count } αρχεία σε αυτό το email:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Μάθετε περισσότερα σχετικά με το { $lastLink }.
+       *[other] Μάθετε περισσότερα σχετικά με το { $firstLinks } και το { $lastLink }.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Σύνδεσμος με κωδικό πρόσβασης
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Υπηρεσία CloudFile:
 cloud-file-template-size = Μέγεθος:
+cloud-file-template-link = Σύνδεσμος:
+cloud-file-template-password-protected-link = Σύνδεσμος με κωδικό πρόσβασης:
+cloud-file-template-expiry-date = Ημερομηνία λήξης:
+cloud-file-template-download-limit = Όριο λήψεων:
 
 # Messages
 

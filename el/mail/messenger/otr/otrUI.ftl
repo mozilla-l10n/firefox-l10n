@@ -15,6 +15,8 @@ auth-fail = Αποτυχία επαλήθευσης της ταυτότητας 
 auth-waiting = Αναμονή για ολοκλήρωση επαλήθευσης από την επαφή…
 finger-verify = Επαλήθευση
 finger-verify-access-key = Ε
+finger-ignore = Παράβλεψη
+finger-ignore-access-key = Π
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Προσθήκη αποτυπώματος OTR
 # Variables:
