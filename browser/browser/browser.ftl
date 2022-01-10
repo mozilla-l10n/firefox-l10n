@@ -398,7 +398,7 @@ sharing-warning-screen = Þú ert að deila öllum skjánum þínum. Annað fól
 sharing-warning-proceed-to-tab =
     .label = Halda áfram á flipa
 sharing-warning-disable-for-session =
-    .label = Slökkva á deilivörn fyrir þessa setu
+    .label = Slökkva á deilivörn fyrir þessa lotu
 
 ## DevTools F12 popup
 
@@ -796,5 +796,5 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Opna fyrri flipa?</strong> Þú getur endurheimt fyrri setu þína úr { -brand-short-name } forritavalmyndinni <img data-l10n-name="icon"/>, undir Ferill-færslunni.
+restore-session-startup-suggestion-message = <strong>Opna fyrri flipa?</strong> Þú getur endurheimt fyrri lotu þína úr { -brand-short-name } forritavalmyndinni <img data-l10n-name="icon"/>, undir Ferill-færslunni.
 restore-session-startup-suggestion-button = Sýna mér hvernig
