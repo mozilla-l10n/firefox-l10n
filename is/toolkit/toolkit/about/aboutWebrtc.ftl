@@ -42,14 +42,14 @@ about-webrtc-remote-sdp-heading-answer = Fjartengt SDP (Svar)
 # "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
 # specification, and should not normally be translated. "Stats" is an
 # abbreviation for Statistics.
-about-webrtc-rtp-stats-heading = RTP upplýsingar
+about-webrtc-rtp-stats-heading = RTP-tölfræði
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
 about-webrtc-ice-state = ICE staða
 # "Stats" is an abbreviation for Statistics.
-about-webrtc-ice-stats-heading = ICE upplýsingar
+about-webrtc-ice-stats-heading = ICE-tölfræði
 about-webrtc-ice-restart-count-label = ICE endurræsist:
 about-webrtc-ice-rollback-count-label = ICE endurheimting:
 about-webrtc-ice-pair-bytes-sent = Send bæti:
@@ -79,7 +79,7 @@ about-webrtc-save-page-label = Vista síðu
 about-webrtc-debug-mode-msg-label = Villuleitarhamur
 about-webrtc-debug-mode-off-state-label = Byrja í villuleitarham
 about-webrtc-debug-mode-on-state-label = Hætta í villuleitarham
-about-webrtc-stats-heading = Lotu tölfræði
+about-webrtc-stats-heading = Tölfræði setunnar
 about-webrtc-stats-clear = Hreinsa feril
 about-webrtc-log-heading = Atburðaskrá tenginga
 about-webrtc-log-clear = Hreinsa annál
@@ -122,6 +122,13 @@ about-webrtc-encoder-label = Kóðari
 
 ##
 
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Áætluð bandbreidd
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Tölfræði myndramma - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
