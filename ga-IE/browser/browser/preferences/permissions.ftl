@@ -67,6 +67,9 @@ permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu brei
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Socruithe - Uathsheinm
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

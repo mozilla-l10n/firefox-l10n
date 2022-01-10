@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+webpage-languages-window =
+    .title = Socruithe Teanga an Leathanaigh Ghréasáin
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -32,6 +35,9 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Socruithe Teanga { -brand-short-name }
+    .style = width: 40em
 browser-languages-search = Lorg teangacha breise…
 browser-languages-searching =
     .label = Ag lorg teangacha…
