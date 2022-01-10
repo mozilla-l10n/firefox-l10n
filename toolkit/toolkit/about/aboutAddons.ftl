@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Paskiausiai atnaujinti
 addon-category-recent-updates-title =
     .title = Paskiausiai atnaujinti
+addon-category-sitepermission = Svetainių leidimai
+addon-category-sitepermission-title =
+    .title = Svetainių leidimai
 
 ## These are global warnings
 
@@ -294,6 +297,8 @@ dictionary-enabled-heading = Įjungtas
 dictionary-disabled-heading = Išjungtas
 locale-enabled-heading = Įjungta
 locale-disabled-heading = Išjungta
+sitepermission-enabled-heading = Įjungta
+sitepermission-disabled-heading = Išjungta
 always-activate-button = Visada aktyvinti
 never-activate-button = Niekada neaktyvinti
 addon-detail-author-label = Autorius
@@ -384,6 +389,7 @@ plugin-heading = Tvarkykite savo papildinius
 dictionary-heading = Tvarkykite savo žodynus
 locale-heading = Tvarkykite savo kalbas
 updates-heading = Tvarkykite savo naujinimus
+sitepermission-heading = Tvarkykite savo svetainių leidimus
 discover-heading = Individualizuokite savo „{ -brand-short-name }“
 shortcuts-heading = Tvarkyti sparčiuosius klavišus priedams
 default-heading-search-label = Rasti daugiau priedų
