@@ -7,9 +7,20 @@ privatebrowsingpage-open-private-window-label = Oscail Fuinneog Phríobháideach
 about-private-browsing-search-placeholder = Cuardaigh an Gréasán
 about-private-browsing-info-title = Is Fuinneog Phríobháideach é seo
 about-private-browsing-info-myths = Gnáthmhiotais maidir le brabhsáil phríobháideach
+about-private-browsing-search-btn =
+    .title = Cuardaigh an gréasán
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Cuardaigh le { $engine } nó cuir isteach seoladh
+about-private-browsing-handoff-no-engine =
+    .title = Cuardaigh nó cuir isteach seoladh
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Cuardaigh le { $name } nó cuir isteach seoladh
+about-private-browsing-handoff-text-no-engine = Cuardaigh nó cuir isteach seoladh
 about-private-browsing-not-private = Níl tú i bhfuinneog phríobháideach faoi láthair.
 about-private-browsing-info-description = Glanann { -brand-short-name } do stair bhrabhála agus do stair chuardaigh nuair a dhúnann tú an aip nó gach cluaisín agus fuinneog phríobháideach. Sa chaoi seo, beidh sé níos éasca na rudaí a dhéanann tú ar líne a choinneáil i bhfolach ar dhaoine eile a úsáideann an ríomhaire seo. Tabhair faoi deara gurbh fhéidir go mbeadh suímh Ghréasáin nó do sholáthraí idirlín in ann tusa a aithint mar sin féin.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

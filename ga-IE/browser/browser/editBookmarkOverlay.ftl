@@ -4,21 +4,17 @@
 
 bookmark-overlay-choose =
     .label = Roghnaigh…
-
 bookmark-overlay-folders-expander =
     .tooltiptext = Taispeáin gach fillteán leabharmhairc
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Folaigh
-
 bookmark-overlay-new-folder-button =
     .label = Fillteán Nua
     .accesskey = F
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Scar clibeanna le camóga
-
 bookmark-overlay-tags-expander =
     .tooltiptext = Taispeáin gach clib
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Folaigh
-
+bookmark-overlay-tags-caption-label = Bain feidhm as clibeanna chun na leabharmharcanna a eagrú agus chun iad a chuardach go díreach ón mbarra seolta

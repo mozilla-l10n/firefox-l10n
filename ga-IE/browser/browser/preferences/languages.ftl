@@ -4,26 +4,20 @@
 
 languages-close-key =
     .key = w
-
 languages-customize-moveup =
     .label = Bog Suas
     .accesskey = u
-
 languages-customize-movedown =
     .label = Bog Síos
     .accesskey = o
-
 languages-customize-remove =
     .label = Bain
     .accesskey = B
-
 languages-customize-select-language =
     .placeholder = Roghnaigh teanga le cur leis…
-
 languages-customize-add =
     .label = Cuir Leis
     .accesskey = L
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -36,7 +30,8 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-
 languages-active-code-format =
     .value = { languages-code-format.label }
-
+browser-languages-search = Lorg teangacha breise…
+browser-languages-searching =
+    .label = Ag lorg teangacha…
