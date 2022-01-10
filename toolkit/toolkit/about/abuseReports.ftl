@@ -70,14 +70,18 @@ abuse-report-settings-suggestions-search = Keisti numatytosios ieškyklės nuost
 abuse-report-settings-suggestions-homepage = Keisti pradžios tinklalapį ir naujos kortelės tinklalapį
 abuse-report-deceptive-reason-v2 = Apsimeta kažkuo kitu
 abuse-report-deceptive-example = Pavyzdys: klaidinantis aprašymas arba vaizdai
-abuse-report-broken-reason-extension-v2 = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą{ -brand-product-name }
+abuse-report-broken-reason-extension-v2 = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą
+abuse-report-broken-reason-sitepermission-v2 = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą
 abuse-report-broken-reason-theme-v2 = Neveikia arba trikdo naršyklės vaizdą
 abuse-report-broken-example = Pavyzdys: lėtas funkcionalumas, sudėtinga naudotis, arba visai neveikia; kai kurios svetainių dalys neįkeliamos arba atrodo neįprastai
 abuse-report-broken-suggestions-extension =
-    Panašu, kad aptikote triktį. Pateikus pranešimą čia, kitas geras būdas problemos spręsti
+    Panašu, kad aptikote triktį. Pateikus pranešimą čia, geras būdas padėti spręsti problemą
     yra susisiekti su priedo kūrėju. <a data-l10n-name="support-link">Aplankę priedo svetainę</a>, rasite kūrėjo kontaktus.
+abuse-report-broken-suggestions-sitepermission =
+    Panašu, kad aptikote triktį. Pateikus pranešimą čia, geras būdas padėti spręsti problemą
+    yra susisiekti su svetainės kūrėju. <a data-l10n-name="support-link">Aplankę svetainę</a>, rasite kūrėjo kontaktus.
 abuse-report-broken-suggestions-theme =
-    Panašu, kad aptikote triktį. Pateikus pranešimą čia, kitas geras būdas problemos spręsti
+    Panašu, kad aptikote triktį. Pateikus pranešimą čia, geras būdas padėti spręsti problemą
     yra susisiekti su grafinio apvalkalo kūrėju. <a data-l10n-name="support-link">Aplankę grafinio apvalkalo svetainę</a>, rasite kūrėjo kontaktus.
 abuse-report-policy-reason-v2 = Yra neapykantą, smurtą kurstančio arba nelegalaus turinio
 abuse-report-policy-suggestions =
