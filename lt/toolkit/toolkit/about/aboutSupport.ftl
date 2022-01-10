@@ -4,7 +4,6 @@
 
 page-title = Informacija problemų sprendimui
 page-subtitle = Šiame tinklalapyje rasite visą techninę informaciją, kuri gali praversti sprendžiant su „{ -brand-short-name }“ iškilusias problemas. Jei ieškote atsakymų į dažniausius klausimus apie šią programą, apsilankykite <a data-l10n-name="support-link">pagalbos svetainėje</a>.
-
 crashes-title = Strigčių pranešimai
 crashes-id = Pranešimo ID
 crashes-send-date = Pranešimo data
@@ -191,7 +190,6 @@ report-crash-for-days =
         [few] Pastarųjų { $days } dienų strigčių pranešimai
        *[other] Pastarųjų { $days } dienų strigčių pranešimai
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -200,7 +198,6 @@ crashes-time-minutes =
         [few] Prieš { $minutes } minutes
        *[other] Prieš { $minutes } minučių
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -209,7 +206,6 @@ crashes-time-hours =
         [few] Prieš { $hours } valandas
        *[other] Prieš { $hours } valandų
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -218,7 +214,6 @@ crashes-time-days =
         [few] Prieš { $days } dienas
        *[other] Prieš { $days } dienų
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -227,7 +222,6 @@ pending-reports =
         [few] Visi strigčių pranešimai (taip pat { $reports } neišsiųsti pranešimai iš nurodyto laiko intervalo)
        *[other] Visi strigčių pranešimai (taip pat { $reports } neišsiųstų pranešimų iš nurodyto laiko intervalo)
     }
-
 raw-data-copied = Neapdoroti duomenys nukopijuoti į iškarpinę
 text-copied = Tekstas nukopijuotas į iškarpinę
 
@@ -240,11 +234,9 @@ blocked-mismatched-version = Užblokuota dėl jūsų vaizdo tvarkyklės versijos
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Užblokuota dėl vaizdo plokštės tvarkyklių. Pabandykite atnaujinti tvarkykles iki { $driverVersion } ar naujesnės laidos.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = „ClearType“ parametrai
-
 compositing = Komponavimas
 hardware-h264 = Aparatinis „H264“ iškodavimas
 main-thread-no-omtc = pagrindinė gija, be OMTC
@@ -259,7 +251,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Rastas
 missing = Trūkstamas
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Aprašymas
@@ -282,19 +273,15 @@ webgl2-renderer = „WebGL 2“ tvarkyklės atvaizdavimo įrankis
 webgl2-version = „WebGL 2“ tvarkyklės versija
 webgl2-driver-extensions = „WebGL 2“ tvarkyklės plėtiniai
 webgl2-extensions = „WebGL 2“ plėtiniai
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Užblokuota dėl žinomų problemų: <a data-l10n-name="bug-link">klaida { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Užblokuota; gedimo kodas { $failureCode }
-
 d3d11layers-crash-guard = D3D11 rinkėjo gija
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX vaizdo iškoduotuvas
-
 reset-on-next-restart = Atstatyti kito paleidimo metu
 gpu-process-kill-button = Sustabdyti GPU procesą
 gpu-device-reset = Įrenginio atstatymas
@@ -304,10 +291,8 @@ content-uses-tiling = Naudoja išdėstymą išklotine (turinys)
 off-main-thread-paint-enabled = Piešimas ne pagrindinėje gijoje įjungtas
 off-main-thread-paint-worker-count = Piešimo ne pagrindinėje gijoje scenarijų kiekis
 target-frame-rate = Tikslinis kadrų dažnis
-
 min-lib-versions = Minimali priimtina versija
 loaded-lib-versions = Naudojama versija
-
 has-seccomp-bpf = „Seccomp-BPF“ (kreipimųsi į sistemą filtravimas)
 has-seccomp-tsync = „Seccomp“ gijų sinchronizavimas
 has-user-namespaces = Naudotojo vardų erdvės
@@ -321,18 +306,15 @@ sandbox-proc-type-content = turinys
 sandbox-proc-type-file = failo turinys
 sandbox-proc-type-media-plugin = medijos įskiepis
 sandbox-proc-type-data-decoder = duomenų iškoduotuvas
-
 startup-cache-title = Paleisties podėlis
 startup-cache-disk-cache-path = Disko podėlio kelias
 startup-cache-ignore-disk-cache = Ignoruoti disko podėlį
 startup-cache-found-disk-cache-on-init = Rastas disko podėlis įkėlimo metu
 startup-cache-wrote-to-disk-cache = Įrašyta į disko podėlį
-
 launcher-process-status-0 = Įjungta
 launcher-process-status-1 = Išjungta dėl gedimo
 launcher-process-status-2 = Išjungta priverstinai
 launcher-process-status-unknown = Būsena nežinoma
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -345,6 +327,7 @@ fission-status-experiment-control = Išjungta dėl tyrimo
 fission-status-experiment-treatment = Įjungta dėl tyrimo
 fission-status-disabled-by-e10s-env = Išjungta dėl aplinkos
 fission-status-enabled-by-env = Įjungta dėl aplinkos
+fission-status-disabled-by-env = Išjungta dėl aplinkos
 fission-status-disabled-by-safe-mode = Išjungta dėl ribotosios veiksenos
 fission-status-enabled-by-default = Įjungta pagal numatymą
 fission-status-disabled-by-default = išjungta pagal numatymą
@@ -352,7 +335,6 @@ fission-status-enabled-by-user-pref = Įjungta naudotojo
 fission-status-disabled-by-user-pref = išjungta naudotojo
 fission-status-disabled-by-e10s-other = E10s išjungta
 fission-status-enabled-by-rollout = Įjungta išleidžiant palaipsniui
-
 async-pan-zoom = Asinchroninis apžvelgimas/priartinimas
 apz-none = nėra
 wheel-enabled = įjungta įvestis ratuku
@@ -389,7 +371,6 @@ support-remote-experiments-title = Nuotoliniai eksperimentai
 support-remote-experiments-name = Pavadinimas
 support-remote-experiments-branch = Eksperimentų skyrius
 support-remote-experiments-see-about-studies = Paskaitykite <a data-l10n-name="support-about-studies-link">about:studies</a> norėdami gauti daugiau informacijos, įskaitant kaip išjungti atskirus eksperimentus, arba kaip neleisti „{ -brand-short-name }“ vykdyti tokio tipo eksperimentų ateityje.
-
 support-remote-features-title = Nuotolinės funkcijos
 support-remote-features-name = Pavadinimas
 support-remote-features-status = Būsena
