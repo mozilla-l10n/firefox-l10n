@@ -806,20 +806,28 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-private-windows = Rakningu efnis í huliðsgluggum
 content-blocking-cross-site-cookies-in-all-windows = Vefkökur milli vefsvæða í öllum gluggum (meðal annars rakningarkökur)
 content-blocking-cross-site-tracking-cookies = Rakningarkökur milli vefsvæða
 content-blocking-all-cross-site-cookies-private-windows = Vefkökur milli vefsvæða í einkagluggum
 content-blocking-cross-site-tracking-cookies-plus-isolate = Rakningarkökur milli vefsvæða og einangra aðrar vefkökur
+content-blocking-social-media-trackers = Samfélagsmiðlarekjarar
 content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
+content-blocking-all-windows-tracking-content = Rekja efni í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
 content-blocking-cryptominers = Rafmynt grafarar
 content-blocking-fingerprinters = Fingraför
+content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
 content-blocking-warning-title = Gættu þín!
 content-blocking-and-isolating-etp-warning-description = Að loka fyrir rekjara og einangra vefkökur gæti haft áhrif á virkni sumra vefsvæða. Endurlestu síðu með rekjurum til að hlaða inn öllu efni.
+content-blocking-warning-learn-how = Lærðu hvernig
 content-blocking-reload-tabs-button =
     .label = Endurhlaða alla flipa
     .accesskey = E
+content-blocking-tracking-content-label =
+    .label = Rakning efnis
+    .accesskey = R
 content-blocking-tracking-protection-option-all-windows =
     .label = Í öllum gluggum
     .accesskey = A
