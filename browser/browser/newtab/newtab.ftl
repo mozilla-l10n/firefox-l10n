@@ -15,20 +15,37 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Cuardach
     .aria-label = Cuardach
-
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Cuardaigh le { $engine } nó cuir isteach seoladh
+newtab-search-box-handoff-text-no-engine = Cuardaigh nó cuir isteach seoladh
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Cuardaigh le { $engine } nó cuir isteach seoladh
+    .title = Cuardaigh le { $engine } nó cuir isteach seoladh
+    .aria-label = Cuardaigh le { $engine } nó cuir isteach seoladh
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Cuardaigh nó cuir isteach seoladh
+    .title = Cuardaigh nó cuir isteach seoladh
+    .aria-label = Cuardaigh nó cuir isteach seoladh
 newtab-search-box-search-the-web-input =
     .placeholder = Cuardaigh an Gréasán
     .title = Cuardaigh an Gréasán
     .aria-label = Cuardaigh an Gréasán
+newtab-search-box-text = Cuardaigh an gréasán
+newtab-search-box-input =
+    .placeholder = Cuardaigh an Gréasán
+    .aria-label = Cuardaigh an Gréasán
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Cuir Inneall Cuardaigh Leis
 newtab-topsites-add-topsites-header = Barrshuíomh Nua
 newtab-topsites-edit-topsites-header = Cuir an Barrshuíomh in Eagar
 newtab-topsites-title-label = Teideal
 newtab-topsites-title-input =
     .placeholder = Cuir teideal isteach
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
@@ -42,8 +59,6 @@ newtab-topsites-save-button = Sábháil
 newtab-topsites-preview-button = Réamhamharc
 newtab-topsites-add-button = Cuir leis
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = An bhfuil tú cinnte gur mhaith leat an leathanach seo a scriosadh go hiomlán ó do stair?
@@ -51,6 +66,7 @@ newtab-confirm-delete-history-p1 = An bhfuil tú cinnte gur mhaith leat an leath
 newtab-confirm-delete-history-p2 = Ní féidir an gníomh seo a chur ar ceal.
 
 ## Top Sites - Sponsored label
+
 
 ## Context Menu - Action Tooltips.
 
@@ -72,6 +88,7 @@ newtab-menu-save-to-pocket = Sábháil in { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -79,12 +96,9 @@ newtab-menu-remove-bookmark = Scrios an Leabharmharc
 # Bookmark is a verb here.
 newtab-menu-bookmark = Cruthaigh leabharmharc
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -100,14 +114,13 @@ newtab-label-bookmarked = Leabharmharcáilte
 newtab-label-recommended = Treochtáil
 newtab-label-download = Íoslódáilte
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-add-search-engine = Cuir Inneall Cuardaigh Leis
+
 ## Section aria-labels
+
 
 ## Section Headers.
 
@@ -122,13 +135,19 @@ newtab-section-header-pocket = Molta ag { $provider }
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Topaicí i mbéal an phobail:
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
 
 ## Customization Menu
 

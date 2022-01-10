@@ -5,38 +5,31 @@
 permissions-window =
     .title = Eisceachtaí
     .style = width: 49em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Seoladh an tsuímh Ghréasáin
     .accesskey = e
-
 permissions-block =
     .label = Coisc
     .accesskey = C
-
 permissions-session =
     .label = Ceadaigh don Seisiún
     .accesskey = S
-
 permissions-allow =
     .label = Ceadaigh
     .accesskey = C
-
 permissions-site-name =
     .label = Suíomh Gréasáin
-
 permissions-status =
     .label = Stádas
-
+permissions-searchbox =
+    .placeholder = Cuardaigh Suíomh Gréasáin
 permissions-capabilities-allow =
     .label = Ceadaigh
 permissions-capabilities-block =
     .label = Coisc
 permissions-capabilities-prompt =
     .label = Fiafraigh Díom i gCónaí
-
 permissions-capabilities-listitem-allow =
     .value = Ceadaigh
 permissions-capabilities-listitem-block =
@@ -57,6 +50,7 @@ permissions-invalid-uri-label = Cuir óstainm bailí isteach, le do thoil
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Is féidir na suímh a bhfuil cead acu preabfhuinneoga a oscailt a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
@@ -71,9 +65,6 @@ permissions-exceptions-saved-logins-window =
 
 permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu breiseáin a shuiteáil a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
 
 
@@ -84,6 +75,7 @@ permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu brei
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
