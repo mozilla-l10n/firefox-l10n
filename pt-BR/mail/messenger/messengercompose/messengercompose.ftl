@@ -242,7 +242,17 @@ encrypted-bcc-ignore-button = Entendi
 compose-tool-button-remove-text-styling =
     .tooltiptext = Remover estilo de texto
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+cloud-file-template-size = Tamanho:
+cloud-file-template-link = Link:
+cloud-file-template-password-protected-link = Link protegido por senha:
+cloud-file-template-expiry-date = Data de validade:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
