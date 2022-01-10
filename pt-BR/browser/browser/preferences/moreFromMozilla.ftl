@@ -26,4 +26,6 @@ more-from-moz-button-mozilla-rally =
     .label = Junte-se ao { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Baixe usando seu dispositivo móvel. Aponte a câmera para o código QR e toque no link que irá aparecer.
 more-from-moz-qr-code-box-firefox-mobile-button = Em vez disso, envie um email para seu celular
+more-from-moz-button-mozilla-vpn =
+    .label = Obter VPN
 more-from-moz-learn-more-link = Saiba mais
