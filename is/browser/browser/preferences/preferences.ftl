@@ -738,7 +738,7 @@ sitedata-disallow-cookies-option =
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tegund blokkuð
+sitedata-block-desc = Tegund útilokuð
     .accesskey = T
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Rakningarkökur milli vefsvæða — þar með talið vefkökur samfélagsmiðla
@@ -787,6 +787,8 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Aukin rakningarvörn
+content-blocking-section-top-level-description = Rekjarar fylgjast með þér á netinu til að safna upplýsingum um vafurvenjur þínar og áhugamál. { -brand-short-name } hindrar marga af þessum rekjurum og auk annarra skaðlegra skrifta.
 content-blocking-learn-more = Læra meira
 content-blocking-fpi-incompatibility-warning = Þú ert að nota First Party Isolation (FPI), sem er æðra en sumar af vefkökustillingum { -brand-short-name }.
 
@@ -806,6 +808,10 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Jafnvægi milli varna og afkasta. Síður hlaðast eðlilega.
+content-blocking-etp-strict-desc = Sterkari vernd en getur valdið því að sumar síður eða efni virki ekki.
+content-blocking-etp-custom-desc = Veldu hvaða rekjara og skriftur á að loka fyrir.
+content-blocking-etp-blocking-desc = { -brand-short-name } lokar á eftirfarandi:
 content-blocking-private-windows = Rakningu efnis í huliðsgluggum
 content-blocking-cross-site-cookies-in-all-windows = Vefkökur milli vefsvæða í öllum gluggum (meðal annars rakningarkökur)
 content-blocking-cross-site-tracking-cookies = Rakningarkökur milli vefsvæða
@@ -818,10 +824,19 @@ content-blocking-all-windows-tracking-content = Rakningu efnis í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
 content-blocking-cryptominers = Rafmynt grafarar
 content-blocking-fingerprinters = Fingraför
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Prófaðu öflugasta persónuverndareiginleikann okkar frá upphafi
+    .accesskey = P
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn inniheldur vefkökur á vefsvæðið sem þú ert á, þannig að rekjarar geta ekki notað þær til að fylgja þér á milli vefsvæða.
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
 content-blocking-warning-title = Gættu þín!
 content-blocking-and-isolating-etp-warning-description = Að loka fyrir rekjara og einangra vefkökur gæti haft áhrif á virkni sumra vefsvæða. Endurlestu síðu með rekjurum til að hlaða inn öllu efni.
+content-blocking-and-isolating-etp-warning-description-2 = Þessi stilling gæti valdið því að sum vefsvæði birti ekki efni eða virki ekki rétt. Ef síða virðist biluð gætirðu viljað slökkva á rakningarvörn fyrir það vefsvæði til að hlaða öllu efni.
 content-blocking-warning-learn-how = Lærðu hvernig
+content-blocking-reload-description = Þú þarft að endurhlaða flipana þína til að gera þessar breytingar virkar.
 content-blocking-reload-tabs-button =
     .label = Endurhlaða alla flipa
     .accesskey = E
@@ -834,7 +849,7 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Bara í huliðsgluggum
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Breyta blokkunarlista
+content-blocking-tracking-protection-change-block-list = Breyta lokunarlista
 content-blocking-cookies-label =
     .label = Vefkökur
     .accesskey = V
