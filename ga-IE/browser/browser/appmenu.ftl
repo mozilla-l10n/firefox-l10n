@@ -17,6 +17,8 @@ appmenuitem-downloads =
     .label = Íoslódálacha
 appmenuitem-print =
     .label = Priontáil…
+appmenuitem-find-in-page =
+    .label = Aimsigh sa leathanach…
 appmenuitem-zoom =
     .value = Súmáil
 appmenuitem-help =
@@ -55,6 +57,15 @@ whatsnew-panel-header = Gnéithe Nua
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 ## History panel
