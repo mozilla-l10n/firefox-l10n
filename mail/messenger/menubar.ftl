@@ -2,18 +2,62 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## View Menu
+toolbar-context-menu-menu-bar =
+    .toolbarname = Menüüriba
+    .accesskey = M
 
 ## Tools Menu
 
+# Since v89 we dropped the platforms distinction between Options or Preferences
+# and consolidated everything with Preferences.
+menu-tools-preferences =
+    .label = Sätted
+    .accesskey = S
+menu-tools-settings =
+    .label = Sätted
+    .accesskey = S
+menu-addons-and-themes =
+    .label = Lisad ja teemad
+    .accesskey = L
+
 ## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Probleemide lahendamise režiim…
+    .accesskey = P
+menu-help-exit-troubleshoot-mode =
+    .label = Lülita probleemide lahendamise režiim välja
+    .accesskey = L
+menu-help-more-troubleshooting-info =
+    .label = Rohkem probleemide lahendamise teavet
+    .accesskey = R
 
 ## Mail Toolbar
 
+toolbar-junk-button =
+    .label = Rämpspost
+    .tooltiptext = R
+toolbar-not-junk-button =
+    .label = Pole rämpspost
+    .tooltiptext = o
+toolbar-delete-button =
+    .label = Kustuta
+    .tooltiptext = K
+toolbar-undelete-button =
+    .label = Võta kustutamine tagasi
+    .tooltiptext = Võta valitud kirjade kustutamine tagasi
+
 ## View
 
+menu-view-repair-text-encoding =
+    .label = Paranda teksti kodeering
+    .accesskey = P
+
 ## View / Layout
+
+mail-uidensity-label =
+    .label = Tihedus
+    .accesskey = h
 
 ## File
 
