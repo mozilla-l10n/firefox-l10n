@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Registrado de AEC
 about-webrtc-aec-logging-off-state-label = Komenci registradon de AEC
 about-webrtc-aec-logging-on-state-label = Haltigi registradon de AEC
 about-webrtc-aec-logging-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Aŭtomata aktualiĝo
 
 ##
 

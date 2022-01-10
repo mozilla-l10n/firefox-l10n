@@ -194,6 +194,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Aŭdvidaĵo
+profiler-popup-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Reto
 profiler-popup-presets-custom-label =

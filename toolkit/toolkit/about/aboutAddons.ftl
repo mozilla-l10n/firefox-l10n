@@ -373,6 +373,7 @@ plugin-heading = Administri viajn kromprogramojn
 dictionary-heading = Administri viajn vortarojn
 locale-heading = Administri lingvojn
 updates-heading = Administri viajn ĝisdatigojn
+sitepermission-heading = Administri viajn permesojn por retejoj
 discover-heading = Personecigu vian { -brand-short-name }
 shortcuts-heading = Administri alirklavojn de etendaĵoj
 default-heading-search-label = Serĉi pli da aldonaĵoj
