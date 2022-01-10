@@ -41,9 +41,19 @@ protections-panel-not-found-label = Ekkert fannst
 ##
 
 protections-panel-cross-site-tracking-cookies = Þessar vafrakökur fylgja þér frá vefsvæði til vefsvæðis til að safna gögnum um það sem þú gerir á netinu. Þær eru settar af utanaðkomandi aðilum á borð við auglýsendur og greiningarfyrirtæki.
+protections-panel-tracking-content = Vefsvæði kunna að hlaða inn utanaðkomandi auglýsingum, myndskeiðum og öðru efni með rakningarkóða. Að loka fyrir rakningarefni getur hjálpað vefsvæðum til að hlaðast hraðar inn, en sumir hnappar, innfyllingarreitir og innskráningarreitir virka kannski ekki.
+protections-panel-content-blocking-manage-settings =
+    .label = Sýsla með verndunarstillingar
+    .accesskey = m
+protections-panel-content-blocking-breakage-report-view =
+    .title = Tilkynna bilað vefsvæði
+protections-panel-content-blocking-breakage-report-view-description = Að loka á ákveðna rekjara getur valdið vandamálum með sum vefsvæði. Að tilkynna þessi vandamál hjálpar til við að gera { -brand-short-name } betra fyrir alla. Ef þú sendir þessa skýrslu verða vefslóð og upplýsingar um vafrastillingar þínar sendar til Mozilla. <label data-l10n-name="learn-more">Frekari upplýsingar</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = Vefslóð
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Vefslóð
+protections-panel-content-blocking-breakage-report-view-collection-comments = Valkvætt: Lýstu vandamálinu
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Valkvætt: Lýstu vandamálinu
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Hætta við
 protections-panel-content-blocking-breakage-report-view-send-report =

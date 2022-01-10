@@ -54,7 +54,7 @@ about-webrtc-ice-restart-count-label = ICE endurræsist:
 about-webrtc-ice-rollback-count-label = ICE endurheimting:
 about-webrtc-ice-pair-bytes-sent = Send bæti:
 about-webrtc-ice-pair-bytes-received = Móttekin bæti:
-about-webrtc-ice-component-id = Auðkenni hlutar
+about-webrtc-ice-component-id = Auðkenni einingar
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
