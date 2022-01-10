@@ -18,9 +18,16 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> rekjari hindraður síðan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> rekjariar hindraðir síðan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } heldur áfram að loka fyrir rakningar í huliðsgluggum, en heldur ekki skrá yfir það sem er útilokað.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Rekjarar sem { -brand-short-name } útilokaði í þessari viku
 etp-card-title-always = Aukin rakningarvörn: Alltaf á
 etp-card-title-custom-not-blocking = Aukin rakningarvörn: SLÖKKT
 protection-report-etp-card-content-custom-not-blocking = Slökkt er á öllum vörnum eins og er. Veldu hvaða á rekjara skal loka með því að stjórna verndarstillingunum fyrir { -brand-short-name }.
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Línurit sem inniheldur heildarfjölda hverrar tegundar rekjara sem lokað var á í vikunni.
+social-tab-title = Samfélagsmiðlarekjarar
 cookie-tab-title = Rakningarkökur milli vefsvæða
 cookie-tab-content = Þessar vafrakökur fylgja þér frá vefsvæði til vefsvæðis til að safna gögnum um það sem þú gerir á netinu. Þær eru settar af utanaðkomandi aðilum á borð við auglýsendur og greiningarfyrirtæki. Sé lokað á millisvæða-rakningarkökur fækkar þeim auglýsingum sem elta þig á milli vefja. <a data-l10n-name="learn-more-link">Kanna nánar</a>
 tracker-tab-title = Rakning efnis
@@ -35,6 +42,13 @@ monitor-header-content-no-account = Athugaðu { -monitor-brand-name } til að sj
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Samfélagsmiðlarekjarar
+    .aria-label =
+        { $count ->
+            [one] { $count } samfélagsmiðlarekjari ({ $percentage }%)
+           *[other] { $count } samfélagsmiðlarekjarar ({ $percentage }%)
+        }
 bar-tooltip-cookie =
     .title = Rakningarkökur milli vefsvæða
     .aria-label =
@@ -48,4 +62,18 @@ bar-tooltip-tracker =
         { $count ->
             [one] { $count } rakning efnis ({ $percentage }%)
            *[other] { $count } rakning efnis ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingrafarasöfnun
+    .aria-label =
+        { $count ->
+            [one] { $count } fingrafarasafnari ({ $percentage }%)
+           *[other] { $count } fingrafarasafnarar ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Rafmyntagröftur
+    .aria-label =
+        { $count ->
+            [one] { $count } rafmyntagrafari ({ $percentage }%)
+           *[other] { $count } rafmyntagrafarar ({ $percentage }%)
         }

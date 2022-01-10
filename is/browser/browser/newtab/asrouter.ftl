@@ -121,4 +121,5 @@ cfr-doorhanger-video-support-primary-button = Uppfæra núna
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-body = Allsherjar-vefkökuvörn kemur í veg fyrir að rekendur geti notað vafrakökur til að rekja slóð þína á vefnum.
 spotlight-total-cookie-protection-secondary-button = Ekki núna

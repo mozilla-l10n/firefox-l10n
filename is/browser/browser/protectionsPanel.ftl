@@ -6,9 +6,20 @@
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Strangt
+    .label = Strangt
+protections-popup-footer-protection-label-custom = Sérsniðið
+    .label = Sérsniðið
+protections-popup-footer-protection-label-standard = Staðlað
+    .label = Staðlað
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Nánari upplýsingar um aukna rakningarvernd
+protections-panel-etp-on-header = Kveikt er á aukinni rekjaravernd fyrir þetta vefsvæði
+protections-panel-etp-off-header = Slökkt er á aukinni rekjaravernd fyrir þetta vefsvæði
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
