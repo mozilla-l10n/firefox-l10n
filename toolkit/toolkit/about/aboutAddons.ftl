@@ -3,71 +3,50 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Bainisteoir na mBreiseán
-
 search-header-shortcut =
     .key = f
-
 list-empty-installed =
     .value = Níl aon bhreiseán den chineál seo suiteáilte agat
-
 list-empty-available-updates =
     .value = Ní bhfuarthas nuashonruithe
-
 list-empty-recent-updates =
     .value = Ní raibh aon bhreiseáin nuashonraithe agat le déanaí
-
 list-empty-find-updates =
     .label = Lorg Nuashonruithe
-
 list-empty-button =
     .label = Tuilleadh eolais faoi bhreiseáin
-
 show-unsigned-extensions-button =
     .label = Níorbh fhéidir roinnt eisínteachtaí a fhíorú
-
 show-all-extensions-button =
     .label = Taispeáin na heisínteachtaí go léir
-
 detail-version =
     .label = Leagan
-
 detail-last-updated =
     .label = Nuashonraithe
-
 detail-contributions-description = Tacaigh le forbairt leanúnach an bhreiseáin seo trí dheontas beag a thabhairt don fhorbróir.
-
 detail-update-type =
     .value = Nuashonruithe Uathoibríocha
-
 detail-update-default =
     .label = Réamhshocrú
     .tooltiptext = Suiteáil nuashonruithe go huathoibríoch más é sin an réamhshocrú
-
 detail-update-automatic =
     .label = Ann
     .tooltiptext = Suiteáil nuashonruithe go huathoibríoch
-
 detail-update-manual =
     .label = As
     .tooltiptext = Ná suiteáil nuashonruithe go huathoibríoch
-
 detail-home =
     .label = Leathanach Baile
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Próifíl an Bhreiseáin
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Lorg Nuashonruithe
     .accesskey = L
     .tooltiptext = Lorg nuashonruithe le haghaidh an bhreiseáin seo
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -84,31 +63,20 @@ detail-show-preferences =
             [windows] Athraigh roghanna an bhreiseáin seo
            *[other] Athraigh sainroghanna an bhreiseáin seo
         }
-
 detail-rating =
     .value = Rátáil
-
 addon-restart-now =
     .label = Atosaigh anois
-
 disabled-unsigned-heading =
     .value = Díchumasaíodh roinnt breiseán
-
 disabled-unsigned-description = Níl na breiseáin seo a leanas fíoraithe le húsáid in { -brand-short-name }. Is féidir leat <label data-l10n-name="find-addons">ionadaithe a aimsiú</label> nó iarr ar an bhforbróir iad a chur tríd an bpróiseas fíoraithe.
-
 disabled-unsigned-learn-more = Tuilleadh eolais faoi na rudaí a dhéanaimid chun tú a choinneáil slán sábháilte ar líne.
-
 disabled-unsigned-devinfo = Más forbróir thú, foghlaim conas is féidir breiseán a fhíorú inár <label data-l10n-name="learn-more">lámhleabhar</label>.
-
 plugin-deprecation-description = Rud éigin ar iarraidh? Ní thacaíonn { -brand-short-name } le roinnt forlíontán a thuilleadh. <label data-l10n-name="learn-more">Tuilleadh Eolais.</label>
-
 legacy-warning-show-legacy = Taispeáin seaneisínteachtaí
-
 legacy-extensions =
     .value = Seaneisínteachtaí
-
 legacy-extensions-description = Ní chloíonn na heisínteachtaí seo le caighdeáin { -brand-short-name } a thuilleadh agus dhíchumasaíomar iad. <label data-l10n-name="legacy-learn-more">Foghlaim faoi na hathruithe ar bhreiseáin</label>
-
 addon-category-extension = Eisínteachtaí
 addon-category-extension-title =
     .title = Eisínteachtaí
@@ -137,7 +105,6 @@ extensions-warning-check-compatibility-button = Cumasaigh
 extensions-warning-update-security = Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.
 extensions-warning-update-security-button = Cumasaigh
     .title = Cumasaigh seiceáil slándála nuashonrú na mbreiseán
-
 
 ## Strings connected to add-on updates
 
@@ -194,9 +161,14 @@ addon-open-about-debugging = Dífhabhtaigh Breiseáin
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
+default-heading-search-label = Faigh tuilleadh breiseáin
+addons-heading-search-input =
+    .placeholder = Cuardaigh in addons.mozilla.org
 addon-page-options-button =
     .title = Uirlisí le haghaidh gach breiseán
