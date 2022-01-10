@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Cofnodi AEC
 about-webrtc-aec-logging-off-state-label = Cychwyn Cofnodi AEC
 about-webrtc-aec-logging-on-state-label = Atal Cofnodi AEC
 about-webrtc-aec-logging-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Auto Adnewyddu
 
 ##
 
