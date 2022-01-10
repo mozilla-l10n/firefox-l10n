@@ -24,4 +24,6 @@ more-from-moz-mozilla-rally-description-advanced = Doe seus dados para estudos d
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Junte-se ao { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Baixe usando seu dispositivo móvel. Aponte a câmera para o código QR e toque no link que irá aparecer.
+more-from-moz-qr-code-box-firefox-mobile-button = Em vez disso, envie um email para seu celular
 more-from-moz-learn-more-link = Saiba mais
