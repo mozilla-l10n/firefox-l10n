@@ -740,6 +740,10 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tegund útilokuð
     .accesskey = T
+sitedata-option-block-cross-site-trackers =
+    .label = Millivefsvæðarekjarar
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Millivefsvæða- og samfélagmiðlararekjarar
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Rakningarkökur milli vefsvæða — þar með talið vefkökur samfélagsmiðla
 sitedata-option-block-cross-site-cookies-including-social-media =
