@@ -8,7 +8,9 @@
 more-from-moz-title = Περισσότερα από τη { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Περισσότερα από τη { -vendor-short-name }
+more-from-moz-subtitle = Δείτε τα άλλα προϊόντα της { -vendor-short-name } που υποστηρίζουν ένα υγιές διαδίκτυο.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Ανακαλύψτε ένα επιπλέον επίπεδο ανώνυμης περιήγησης και προστασίας.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
