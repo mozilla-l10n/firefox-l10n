@@ -375,6 +375,7 @@ plugin-heading = Gestion de vos plugins
 dictionary-heading = Gestion de vos dictionnaires
 locale-heading = Gestion des langues
 updates-heading = Gestion de vos mises à jour
+sitepermission-heading = Gestion de vos autorisations de site
 discover-heading = Personnalisez { -brand-short-name }
 shortcuts-heading = Gestion des raccourcis d’extensions
 default-heading-search-label = Découvrez davantage de modules
