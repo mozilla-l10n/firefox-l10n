@@ -25,3 +25,7 @@ more-from-moz-mozilla-rally-description-advanced = Cyfrannwch eich data i astudi
 more-from-moz-button-mozilla-rally =
     .label = Ymunwch â { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Llwythwch i lawr gan ddefnyddio'ch dyfais symudol. Pwyntiwch eich camera at y cod QR. Pan fydd dolen yn ymddangos, tapiwch ef.
+more-from-moz-qr-code-box-firefox-mobile-button = Anfon e-bost at eich ffôn yn lle hynny
+more-from-moz-button-mozilla-vpn =
+    .label = Cael VPN
+more-from-moz-learn-more-link = Dysgu rhagor
