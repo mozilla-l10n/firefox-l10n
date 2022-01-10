@@ -152,25 +152,25 @@ browser-containers-settings =
 containers-disable-alert-title = Loka öllum sérefnisflipum?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipa lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
-       *[other] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipum lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
+        [one] Ef þú gerir sérefnisflipa óvirka, verður { $tabCount } sérefnisflipa lokað. Ertu viss um að þú viljir gera sérefnisflipa óvirka?
+       *[other] Ef þú gerir sérefnisflipa óvirka, verður { $tabCount } sérefnisflipum lokað. Ertu viss um að þú viljir gera sérefnisflipa óvirka?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Loka { $tabCount } innihaldsflipa
-       *[other] Loka { $tabCount } innihaldsflipum
+        [one] Loka { $tabCount } sérefnisflipa
+       *[other] Loka { $tabCount } sérefnisflipum
     }
-containers-disable-alert-cancel-button = Nota áfram
-containers-remove-alert-title = Fjarlægja innihaldsflipa?
+containers-disable-alert-cancel-button = Halda virku áfram
+containers-remove-alert-title = Fjarlægja sérefnisflipa?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Ef þú fjarlægir innihaldsflipa, verður { $count } innihaldsflipa lokað. Ertu viss um að þú viljir fjarlægja innihaldsflipa?
-       *[other] Ef þú fjarlægir innihaldsflipa, verður { $count } innihaldsflipum lokað. Ertu viss um að þú viljir fjarlægja innihaldsflipa?
+        [one] Ef þú fjarlægir þetta sérefni núna, verður { $count } sérefnisflipa lokað. Ertu viss um að þú viljir fjarlægja þetta sérefni?
+       *[other] Ef þú fjarlægir þetta sérefni núna, verður { $count } sérefnisflipum lokað. Ertu viss um að þú viljir fjarlægja þetta sérefni?
     }
-containers-remove-ok-button = Fjarlægja innihaldsflipa
-containers-remove-cancel-button = Ekki fjarlægja innihaldsflipa
+containers-remove-ok-button = Fjarlægja þetta sérefni
+containers-remove-cancel-button = Ekki fjarlægja þetta sérefni
 
 ## General Section - Language & Appearance
 
@@ -537,10 +537,15 @@ search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í n
 
 ## Containers Section
 
-containers-header = Innihalds flipar
+containers-back-button2 =
+    .aria-label = Til baka í stillingar
+containers-header = Sérefnisflipar
 containers-add-button =
-    .label = Bæta við nýjum innihaldsflipa
+    .label = Bæta við nýju sérefni
     .accesskey = a
+containers-new-tab-check =
+    .label = Velja sérefni fyrir hvern nýjan flipa
+    .accesskey = s
 containers-settings-button =
     .label = Stillingar
 containers-remove-button =
