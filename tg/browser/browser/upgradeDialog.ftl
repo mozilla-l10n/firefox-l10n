@@ -77,6 +77,14 @@ upgrade-dialog-theme-alpenglow = Нури алпӣ
     .title = Истифодаи мавзӯи мутараққӣ ва рангин барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-primary-button = Нигоҳ доштани мавзӯъ
 upgrade-dialog-theme-secondary-button = Ҳоло не
+upgrade-dialog-colorway-variation-soft = Нарм
+    .title = Ин нақшу нигорро истифода баред
+upgrade-dialog-colorway-variation-balanced = Мутаносиб
+    .title = Ин нақшу нигорро истифода баред
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Ғафс
+    .title = Ин нақшу нигорро истифода баред
 
 ## Thank you screen
 
