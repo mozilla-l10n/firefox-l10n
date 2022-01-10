@@ -6,6 +6,7 @@ do-not-track-description = Inis do shuímh “Ná Lorgaítear Mé” mura bhfuil
 do-not-track-learn-more = Tuilleadh eolais
 do-not-track-option-always =
     .label = I gCónaí
+settings-page-title = Socruithe
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -397,10 +398,14 @@ search-keyword-warning-bookmark = Roghnaigh tú eochairfhocal atá in úsáid fa
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Fill ar na Socruithe
 containers-header = Cluaisíní Coimeádáin
 containers-add-button =
     .label = Coimeádán Nua
     .accesskey = C
+containers-settings-button =
+    .label = Socruithe
 containers-remove-button =
     .label = Bain
 
