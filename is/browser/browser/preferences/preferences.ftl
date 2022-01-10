@@ -216,6 +216,10 @@ translate-attribution = Þýtt af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undanþágur…
     .accesskey = U
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Notaðu stýrikerfisstillingarnar þínar fyrir „{ $localeName }“ til að forsníða dagsetningar, tíma, tölur og mælingar.
 check-user-spelling =
     .label = Athuga stafsetningu um leið og texti er sleginn inn
     .accesskey = t
@@ -264,6 +268,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Nota { $app-name } (sjálfgefið)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Nota sjálfgefið macOS-kerfisforrit
+            [windows] Nota sjálfgefið Windows-kerfisforrit
+           *[other] Notaðu sjálfgefið kerfisforrit
+        }
 applications-use-other =
     .label = Nota annað…
 applications-select-helper = Veldu hjálparforrit
@@ -658,15 +669,28 @@ forms-generate-passwords =
 forms-breach-alerts =
     .label = Birta tilkynningar um lykilorð fyrir vefsvæði sem hafa orðið fyrir innbrotum
     .accesskey = B
+forms-breach-alerts-learn-more-link = Frekari upplýsingar
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Sjálfvirk útfylling fyrir innskráningar og lykilorð
+    .accesskey = i
 forms-saved-logins =
     .label = Vistaðar innskráningar…
     .accesskey = V
+forms-primary-pw-use =
+    .label = Nota aðallykilorð
+    .accesskey = o
+forms-primary-pw-learn-more-link = Frekari upplýsingar
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Breyta aðallykilorði…
     .accesskey = B
+forms-primary-pw-change =
+    .label = Breyta aðallykilorði…
+    .accesskey = k
+forms-primary-pw-fips-title = Þú ert núna í FIPS-ham. FIPS má ekki hafa tómt aðallykilorð.
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 forms-windows-sso =
     .label = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga

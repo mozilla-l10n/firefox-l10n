@@ -10,8 +10,12 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Stilla stefnur sem WebExtensions hafa aðgang að í gegnum chrome.storage.managed.
+policy-AllowedDomainsForApps = Skilgreindu lén sem leyfður er aðgangur að Google Workspace.
+policy-AppAutoUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á forriti.
 policy-AppUpdateURL = Stilla sérsniðna smáforrits uppfærslu slóð.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsíður sem styðja slíkt.
+policy-BackgroundAppUpdate2 = Virkja eða slökkva á uppfærslum í bakgrunni.
 policy-BlockAboutAddons = Loka aðgangi við viðbótareftirlitið (um: viðbætur).
 policy-BlockAboutConfig = Loka aðgangi að about:config síðu.
 policy-BlockAboutProfiles = Loka aðgangi að about:profiles síðu.
@@ -20,17 +24,21 @@ policy-Bookmarks = Búa til bókamerki í bókamerkjastiku, bókamerkjalistanum 
 policy-CaptivePortal = Virkja eða slökkva á þjónustuaðgangi.
 policy-CertificatesDescription = Bæta við skilríki eða nota innbyggða skilríkið.
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
+policy-DisabledCiphers = Gera dulritun óvirka.
 policy-DefaultDownloadDirectory = Stilltu sjálfgefna möppu fyrir niðurhal.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
 policy-DisableBuiltinPDFViewer = Óvirkja PDF.js, innbyggða PDF-lesarann í { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Koma í veg fyrir að sjálfgefið vafrakenni (browser agent) grípi til aðgerða. Gildir aðeins fyrir Windows; önnur stýrikerfi hafa ekki slíkt kenni.
 policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
 policy-DisableFeedbackCommands = Slökkva á "Senda viðbrögð" og "Tilkynna svindlsvæði" í hjálparvalmyndinni.
 policy-DisableFirefoxAccounts = Slökkva á { -fxaccount-brand-name } tengdri þjónustu, m.a. Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Slökkva á eiginleikum Firefox skjámynda.
 policy-DisableFirefoxStudies = Hamla aðgang að könnunum frá { -brand-short-name }
-policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
-policy-DisableFormHistory = Ekki geyma form- og leitarsögu
+policy-DisableForgetButton = Koma í veg fyrir aðgang að Gleyma-hnappnum.
+policy-DisableFormHistory = Ekki muna leitar- og innfyllingarferil.
+policy-DisablePrimaryPasswordCreation = Ef satt, er ekki hægt að búa til aðallykilorð.
+policy-DisablePasswordReveal = Ekki leyfa birtingu lykilorða í vistuðum innskráningum.
 policy-DisablePocket = Slökkva á valkostinum til að geyma vefsíður í Pocket.
 policy-DisablePrivateBrowsing = Afvirkja huliðsstillingu
 policy-DisableProfileImport = Slökkva á valmyndinni til að flytja inn gögn úr öðrum vafra.
