@@ -694,6 +694,7 @@ forms-primary-pw-fips-title = Þú ert núna í FIPS-ham. FIPS má ekki hafa tó
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 forms-windows-sso =
     .label = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga
+forms-windows-sso-learn-more-link = Frekari upplýsingar
 forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 
 ## OS Authentication dialog
@@ -721,7 +722,7 @@ history-remember-option-never =
     .label = Aldrei geyma feril
 history-remember-option-custom =
     .label = Nota sérsniðnar stillingar fyrir feril
-history-remember-description = { -brand-short-name } mun muna feril, niðurhöl, form innslátt og leitarsögu.
+history-remember-description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
 history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsstillingu, og geyma ekki vafraferil.
 history-private-browsing-permanent =
     .label = Nota alltaf huliðsvafur
@@ -730,7 +731,7 @@ history-remember-browser-option =
     .label = Muna vafra- og niðurhalsferil
     .accesskey = b
 history-remember-search-option =
-    .label = Muna leit og eyðublaðaferil
+    .label = Muna leitar- og innfyllingarferil.
     .accesskey = f
 history-clear-on-close-option =
     .label = Hreinsa feril þegar { -brand-short-name } hættir

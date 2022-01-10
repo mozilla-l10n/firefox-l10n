@@ -25,6 +25,9 @@ graph-week-summary-private-window = Rekjarar sem { -brand-short-name } útiloka�
 etp-card-title-always = Aukin rakningarvörn: Alltaf á
 etp-card-title-custom-not-blocking = Aukin rakningarvörn: SLÖKKT
 protection-report-etp-card-content-custom-not-blocking = Slökkt er á öllum vörnum eins og er. Veldu hvaða á rekjara skal loka með því að stjórna verndarstillingunum fyrir { -brand-short-name }.
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Í dag
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Línurit sem inniheldur heildarfjölda hverrar tegundar rekjara sem lokað var á í vikunni.
 social-tab-title = Samfélagsmiðlarekjarar
@@ -34,6 +37,15 @@ tracker-tab-title = Rakning efnis
 tracker-tab-description = Vefsvæði kunna að hlaða inn utanaðkomandi auglýsingum, myndskeiðum og öðru efni með rakningarkóða. Að loka fyrir rakningarefni getur hjálpað vefsvæðum til að hlaðast hraðar inn, en sumir hnappar, innfyllingarreitir og innskráningarreitir virka kannski ekki. <a data-l10n-name="learn-more-link">Frekari upplýsingar</a>
 mobile-app-title = Loka fyrir auglýsingarekjara í fleiri tækjum
 mobile-app-card-content = Notaðu farsímavafrann með innbyggðri vörn gegn auglýsingarakningu.
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 lykilorð geymt á öruggan hátt.
+       *[other] Lykilorðin þín eru geymd á öruggan hátt.
+    }
 monitor-header-content-no-account = Athugaðu { -monitor-brand-name } til að sjá hvort þú hafir verið hluti af þekktu gagnainnbroti og fáðu tilkynningar um ný innbrot.
 
 ## The title attribute is used to display the type of protection.
