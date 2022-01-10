@@ -114,19 +114,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Teksaĵa programisto
 perftools-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
-perftools-presets-firefox-platform-label = Platformo Firefox
-perftools-presets-firefox-platform-description = Rekomendita agordaro por interna senerarigo de la platformo de Firefox.
-perftools-presets-firefox-front-end-label = Fasado de Firefox
-perftools-presets-firefox-front-end-description = Rekomendita agordaro por interna senerarigo de la fasado de Firefox.
-perftools-presets-firefox-graphics-label = Grafikoj de Firefox
-perftools-presets-firefox-graphics-description = Rekomendita agordaro por esplori la efikecon de la grafikoj de Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Rekomendita agordaro por rulanalizo de { -brand-shorter-name }
 perftools-presets-graphics-label = Grafikoj
 perftools-presets-graphics-description = Rekomendita agordaro por senerarigo de grafikoj en { -brand-shorter-name }.
 perftools-presets-media-label = Aŭdvidaĵo
-perftools-presets-media-description = Rekomendita agordaro por diagnozi aŭdajn kaj videajn problemojn.
 perftools-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
+perftools-presets-networking-label = Reto
+perftools-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 perftools-presets-custom-label = Personecigita
 
 ##
