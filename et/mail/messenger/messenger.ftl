@@ -157,9 +157,16 @@ addon-removal-confirmation-message = Kas eemaldada lisa { $name } koos selle kon
 caret-browsing-prompt-title = Kursoriga lehitsemine
 caret-browsing-prompt-text = F7 vajutamisega lülitatakse kursoriga lehitsemine sisse või välja. See lahendus paigutab osale sisule liigutatava kursori, mis võimaldab teksti valimist klaviatuuri abil. Kas soovid kursoriga lehitsemise sisse lülitada?
 caret-browsing-prompt-check-text = Rohkem ei küsita.
+repair-text-encoding-button =
+    .label = Paranda teksti kodeering
+    .tooltiptext = Kirja sisu põhjal tuvastatakse korrektne kodeering
 
 ## no-reply handling
 
+no-reply-title = Vastust ei toetata
+no-reply-message = Vastusaadress ({ $email }) ei tundu olevat jälgitav aadress. Sellele aadressile saadetud kirju ei loe tõenäoliselt keegi.
+no-reply-reply-anyway-button = Vasta igal juhul
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } kirja { $total } kirjast polnud võimalik dekrüptida ja neid ei kopeeritud.
