@@ -93,6 +93,15 @@ monitor-title = Varaðu þig á gagnabrotum
 monitor-link = Hvernig virkar þetta
 monitor-header-content-no-account = Athugaðu { -monitor-brand-name } til að sjá hvort þú hafir verið hluti af þekktu gagnainnbroti og fáðu tilkynningar um ný innbrot.
 monitor-header-content-signed-in = { -monitor-brand-name } varar þig við ef upplýsingarnar þínar hafa birst í þekktu gagnabroti.
+monitor-sign-up-link = Skráðu þig til að fá aðvaranir vegna gagnabrota
+    .title = Skráðu þig á { -monitor-brand-name } til að fá aðvaranir vegna gagnabrota
+auto-scan = Sjálfvirkt skannað í dag
+monitor-emails-tooltip =
+    .title = Skoða vöktuð póstföng á { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Skoða þekkt gagnabrot á { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Skoðaðu afhjúpuð lykilorð á { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -101,7 +110,65 @@ info-monitored-emails =
         [one] Verið er að fylgjast með tölvupóstfangi
        *[other] Verið er að fylgjast með tölvupóstföngum
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Þekkt gagnabrot hefur afhjúpað upplýsingarnar þínar
+       *[other] Þekkt gagnabrot hafa afhjúpað upplýsingarnar þínar
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Þekkt gagnabrot merkt sem leyst
+       *[other] Þekkt gagnabrot merkt sem leyst
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Lykilorð afhjúpað í öllum gagnabrotum
+       *[other] Lykilorð afhjúpuð í öllum gagnabrotum
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Lykilorð afhjúpað í óleystum gagnabrotum
+       *[other] Lykilorð afhjúpuð í óleystum gagnabrotum
+    }
 monitor-no-breaches-title = Góðar fréttir!
+monitor-no-breaches-description = Þú ert ekki í neinum þekktum gagnabrotum. Ef það breytist munum við láta þig vita.
+monitor-view-report-link = Skoða skýrslu
+    .title = Leysa gagnabrot á { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Leystu gagnabrotin þín
+monitor-breaches-unresolved-description = Eftir að hafa skoðað upplýsingar um gagnabrot og gert ráðstafanir til að vernda upplýsingarnar þínar geturðu merkt gagnabrot sem leyst.
+monitor-manage-breaches-link = Sýsla með gagnabrot
+    .title = Sýsla með gagnabrot á { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Sniðugt! Þú hefur leyst úr öllum þekktum gagnabrotum.
+monitor-breaches-resolved-description = Ef tölvupósturinn þinn birtist í einhverjum nýjum gagnabrotum munum við láta þig vita.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } af { $numBreaches } gagnabrotum merkt sem leyst
+       *[other] { $numBreachesResolved } af { $numBreaches } gagnabrotum merkt sem leyst
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% lokið
+monitor-partial-breaches-motivation-title-start = Frábær byrjun!
+monitor-partial-breaches-motivation-title-middle = Haltu þessu áfram!
+monitor-partial-breaches-motivation-title-end = Næstum lokið! Haltu þessu áfram.
+monitor-partial-breaches-motivation-description = Leystu restina af gagnabrotunum þínum á { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Leysa gagnabrot
+    .title = Leysa gagnabrot á { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
