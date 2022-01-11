@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Expander la glista
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -61,6 +61,10 @@ toolbar-button-add-attachment =
     .tooltiptext = Agiuntar ina agiunta ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 add-attachment-notification-reminder =
     .label = Agiuntar ina agiunta…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Agiuntar ina datoteca…
+    .accesskey = A
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Datoteca(s)…
@@ -83,6 +87,10 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Zuppentar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Zuppentar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Agiuntar sco agiunta
@@ -94,7 +102,7 @@ drop-file-label-inline =
        *[other] Includer a l'intern
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Spustar a l'entschatta
@@ -108,14 +116,14 @@ button-return-receipt =
     .label = Retschavida
     .tooltiptext = Dumandar ina conferma da retschavida per quest messadi
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Signar il messadi
 message-to-be-encrypted-icon =
     .alt = Criptar il messadi
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = A
@@ -233,3 +241,12 @@ encrypted-bcc-ignore-button = Chapì
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Allontanar la formataziun dal text
+
+## FileLink
+
+
+# Template
+
+
+# Messages
+
