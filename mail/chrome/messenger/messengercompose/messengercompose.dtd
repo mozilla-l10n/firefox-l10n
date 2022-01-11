@@ -16,7 +16,7 @@
 <!ENTITY newContact.accesskey "T">
 <!ENTITY attachMenu.label "Setja inn">
 <!ENTITY attachMenu.accesskey "e">
-<!ENTITY attachCloudCmd.label "Tengill í skrá">
+<!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Vefsíðu…">
 <!ENTITY attachPageCmd.accesskey "V">
@@ -283,7 +283,7 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Velja allt">
 <!ENTITY selectAll.accesskey "j">
-<!ENTITY attachCloud.label "Tengill í skrá…">
+<!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Umbreyta í…">
 <!ENTITY convertCloud.accesskey "B">

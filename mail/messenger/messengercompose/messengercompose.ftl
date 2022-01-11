@@ -269,7 +269,7 @@ cloud-file-tooltip-password-protected-link = Lykilorðsvarinn tengill
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile þjónusta:
+cloud-file-template-service = CloudFile-þjónusta:
 cloud-file-template-size = Stærð:
 cloud-file-template-link = Tengill:
 cloud-file-template-password-protected-link = Lykilorðsvarinn tengill:
