@@ -228,7 +228,35 @@ encrypted-bcc-ignore-button = Anladım
 compose-tool-button-remove-text-styling =
     .tooltiptext = Metin stilini kaldır
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] { $lastLink } hakkında daha fazla bilgi edinin.
+       *[other] { $firstLinks } ve { $lastLink } hakkında daha fazla bilgi edinin.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Parola korumalı bağlantı
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = CloudFile hizmeti:
+cloud-file-template-size = Boyut:
+cloud-file-template-link = Bağlantı:
+cloud-file-template-password-protected-link = Parola korumalı bağlantı:
+cloud-file-template-expiry-date = Bitiş tarihi:
+cloud-file-template-download-limit = İndirme sınırı:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
