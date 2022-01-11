@@ -72,6 +72,13 @@ protection-report-passwords-save-passwords-button = Vista lykilorð
     .title = Vista lykilorð
 protection-report-passwords-manage-passwords-button = Sýsla með lykilorð
     .title = Sýsla með lykilorð
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 lykilorð gæti hafa verið afhjúpað í gagnabroti.
+       *[other] { $count } lykilorð gætu hafa verið afhjúpuð í gagnabroti.
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -81,7 +88,11 @@ lockwise-scanned-text-no-breached-logins =
         [one] 1 lykilorð geymt á öruggan hátt.
        *[other] Lykilorðin þín eru geymd á öruggan hátt.
     }
+lockwise-how-it-works-link = Hvernig virkar þetta
+monitor-title = Varaðu þig á gagnabrotum
+monitor-link = Hvernig virkar þetta
 monitor-header-content-no-account = Athugaðu { -monitor-brand-name } til að sjá hvort þú hafir verið hluti af þekktu gagnainnbroti og fáðu tilkynningar um ný innbrot.
+monitor-header-content-signed-in = { -monitor-brand-name } varar þig við ef upplýsingarnar þínar hafa birst í þekktu gagnabroti.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
