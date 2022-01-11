@@ -21,5 +21,6 @@ about-private-browsing-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱ�
 about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
 about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ

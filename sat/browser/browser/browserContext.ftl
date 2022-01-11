@@ -133,6 +133,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = ᱞᱮᱠᱷᱟ ᱠᱷᱚᱧᱡᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…
     .accesskey = ᱪ
+main-context-menu-save-link-to-pocket =
+    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .accesskey = o
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -166,6 +169,9 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ᱥᱟᱲᱮ ᱨᱩᱟᱹᱲ
     .accesskey = ᱥ
+main-context-menu-media-play-speed-2 =
+    .label = ᱨᱚᱯᱷᱛᱟᱨ
+    .accesskey = d
 main-context-menu-media-play-speed-slow-2 =
     .label = 0.5×
 main-context-menu-media-play-speed-normal-2 =
@@ -176,6 +182,9 @@ main-context-menu-media-play-speed-faster-2 =
     .label = 1.5×
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
+main-context-menu-media-loop =
+    .label = ᱞᱩᱯ
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -240,6 +249,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ᱱᱚᱶᱟ ᱠᱷᱚᱧᱡᱟ ᱟᱫᱮᱨ ᱩᱠᱩᱭ ᱢᱮ
     .accesskey = ᱱ
+main-context-menu-save-to-pocket =
+    .label = ᱥᱟᱦᱴᱟ { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .accesskey = k
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items

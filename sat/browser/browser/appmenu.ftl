@@ -152,6 +152,8 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
@@ -165,6 +167,8 @@ profiler-popup-presets-custom-label =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = ᱦᱤᱛᱟᱹᱞ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 appmenu-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 appmenu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 appmenu-clear-history =
