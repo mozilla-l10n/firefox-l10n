@@ -483,7 +483,7 @@ remove-cloud-account =
     .accesskey = r
 find-cloud-providers =
     .value = Finna fleiri veitur…
-cloud-account-description = Bæta við nýrri geymsluþjónustu fyrir skrár
+cloud-account-description = Bæta við nýrri Filelink-geymsluþjónustu fyrir skrár
 
 ## Privacy Tab
 
