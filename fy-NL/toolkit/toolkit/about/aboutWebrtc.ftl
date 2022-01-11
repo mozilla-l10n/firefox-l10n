@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC-registraasje
 about-webrtc-aec-logging-off-state-label = AEC-registraasje starte
 about-webrtc-aec-logging-on-state-label = AEC-registraasje stopje
 about-webrtc-aec-logging-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatysk fernije
 
 ##
 
