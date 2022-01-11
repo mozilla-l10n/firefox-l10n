@@ -55,7 +55,7 @@
 <!ENTITY privileges.button.label                 "הרשאות...">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "ברשותך ההרשאות הבאות:">
-<!ENTITY folderOtherUsers.label                  "אחרים עם גישה לתיקיה זו:">
+<!ENTITY folderOtherUsers.label                  "אחרים עם גישה לתיקייה זו:">
 <!ENTITY folderType.label                        "סוג תיקייה:">
 
 <!ENTITY folderQuotaTab.label                    "מכסה">
