@@ -260,6 +260,7 @@ about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
 about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-unable-to-read-title = ᱨᱮᱫ ᱠᱚ ᱴᱷᱤᱠ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
+about-logins-import-dialog-error-no-logins-imported = ᱪᱮᱫ ᱵᱚᱞᱚ ᱠᱚ ᱦᱚᱸ ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-try-import-again = ᱟᱹᱜᱩ ᱩᱛᱟᱹᱨ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ…
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
