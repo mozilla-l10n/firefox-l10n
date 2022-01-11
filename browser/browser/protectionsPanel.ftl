@@ -34,6 +34,7 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = Af hverju?
 protections-panel-not-blocking-why-etp-on-tooltip = Að loka á þetta gæti skemmt þætti sumra vefsvæða. Án rekjara gæti verið að sumir hnappar, eyðublöð og innskráningarreitir virki ekki.
+protections-panel-not-blocking-why-etp-off-tooltip = Öllum rekjurum á þessu vefsvæði hefur verið hlaðið inn vegna þess að slökkt er á vörnum.
 
 ##
 
@@ -55,17 +56,31 @@ protections-panel-not-found-label = Ekkert fannst
 
 ##
 
+protections-panel-settings-label = Verndarstillingar
+protections-panel-protectionsdashboard-label = Stjórnborð verndar
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Slökktu á vörnum ef þú átt í vandræðum með:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Innskráningarreiti
 protections-panel-site-not-working-view-issue-list-forms = Innfyllingarform
+protections-panel-site-not-working-view-issue-list-payments = Greiðslur
+protections-panel-site-not-working-view-issue-list-comments = Athugasemdir
+protections-panel-site-not-working-view-issue-list-videos = Myndskeið
+protections-panel-site-not-working-view-send-report = Senda skýrslu
 
 ##
 
 protections-panel-cross-site-tracking-cookies = Þessar vafrakökur fylgja þér frá vefsvæði til vefsvæðis til að safna gögnum um það sem þú gerir á netinu. Þær eru settar af utanaðkomandi aðilum á borð við auglýsendur og greiningarfyrirtæki.
+protections-panel-cryptominers = Rafmyntagrafarar nota afkastagetu kerfisins þíns til að vinna stafræna peninga. Rafmyntaskriftur tæma rafhlöðuna þína, hægja á tölvunni þinni og geta hækkað rafmagnseikninginn þinn.
+protections-panel-fingerprinters = Fingrafarasafnarar safna stillingum úr vafranum þínum og tölvunni til að búa til persónusnið af þér. Með því að nota þetta stafræna fingrafar geta þeir fylgst með þér á mismunandi vefsíðum.
 protections-panel-tracking-content = Vefsvæði kunna að hlaða inn utanaðkomandi auglýsingum, myndskeiðum og öðru efni með rakningarkóða. Að loka fyrir rakningarefni getur hjálpað vefsvæðum til að hlaðast hraðar inn, en sumir hnappar, innfyllingarreitir og innskráningarreitir virka kannski ekki.
+protections-panel-social-media-trackers = Samfélagsmiðlar setja rekjara á aðrar vefsíður til að fylgjast með því sem þú gerir, sérð og skoðar á netinu. Þetta gerir samfélagsmiðlafyrirtækjum kleift að læra meira um þig umfram það sem þú deilir á samfélagsmiðlaaðgöngunum þínum.
 protections-panel-description-shim-allowed = Sumir rekjarar merktir hér að neðan hafa verið leyfðir að hluta til á þessari síðu vegna þess að þú áttir í samskiptum við þá.
+protections-panel-description-shim-allowed-learn-more = Frekari upplýsingar
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Opnað á rekjara að hluta til
 protections-panel-content-blocking-manage-settings =
