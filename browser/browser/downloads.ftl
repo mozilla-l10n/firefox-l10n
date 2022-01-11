@@ -57,6 +57,24 @@ downloads-cmd-show-description =
             [macos] Tampilkan di Finder
            *[other] Buka Foldernya
         }
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Tampilkan di Finder
+           *[other] Tampilkan di Folder
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Tampilkan di Finder
+           *[other] Tampilkan di Folder
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Tampilkan di Finder
+           *[other] Tampilkan di Folder
+        }
 downloads-cmd-show-downloads =
     .label = Tampilkan Folder Unduhan
 downloads-cmd-retry =
@@ -123,6 +141,8 @@ downloading-file-opens-in-minutes = Dibuka dalam { $minutes }m…
 downloading-file-opens-in-minutes-and-seconds = Dibuka dalam { $minutes }m { $seconds }d…
 downloading-file-opens-in-seconds = Dibuka dalam { $seconds }d…
 downloading-file-opens-in-some-time = Dibuka saat selesai…
+downloading-file-click-to-open =
+    .value = Buka setelah selesai
 
 ##
 
@@ -150,6 +170,11 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+       *[other] { $num } file tidak diunduh.
+    }
+downloads-blocked-from-url = Unduhan diblokir dari { $url }.
 
 ##
 
