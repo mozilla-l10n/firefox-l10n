@@ -157,6 +157,7 @@ account-setup-credentials-incomplete = L'autentificaziun n'è betg reussida. U c
 account-setup-credentials-wrong = L'autentificaziun n'è betg reussida. Controllescha per plaschair il num d'utilisader ed il pled-clav.
 account-setup-find-settings-failed = { -brand-short-name } n'ha betg chattà la configuraziun per tes conto dad e-mail
 account-setup-exchange-config-unverifiable = I n'è betg reussì da verifitgar la configuraziun. Sche tes num d'utilisader ed il pled-clav èn corrects, èsi probabel che l'administratur dal server ha deactivà la configuraziun tschernida per tes conto. Emprova da tscherner in auter protocol.
+account-setup-provisioner-error = Ina errur è succedida durant la configuraziun da tes nov conto en { -brand-short-name }. Emprova per plaschair da configurar manualmain tes conto cun tias infurmaziuns d'annunzia.
 
 ## Manual configuration area
 

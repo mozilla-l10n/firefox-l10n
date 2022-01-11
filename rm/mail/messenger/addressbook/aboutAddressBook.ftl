@@ -16,6 +16,8 @@ about-addressbook-toolbar-new-contact =
     .label = Nov contact
 about-addressbook-toolbar-new-list =
     .label = Nova glista
+about-addressbook-toolbar-import =
+    .label = Importar
 
 ## Books
 
@@ -26,10 +28,14 @@ about-addressbook-books-context-synchronize =
     .label = Sincronisar
 about-addressbook-books-context-print =
     .label = Stampar…
+about-addressbook-books-context-export =
+    .label = Exportar…
 about-addressbook-books-context-delete =
     .label = Stizzar
 about-addressbook-books-context-remove =
     .label = Allontanar
+about-addressbook-books-context-startup-default =
+    .label = Ordinatur da standard suenter aviar
 about-addressbook-confirm-delete-book-title = Stizzar il cudeschet d'adressas
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -126,3 +132,15 @@ about-addressbook-details-phone-numbers-header = Numers da telefon
 about-addressbook-details-home-address-header = Adressa privata
 about-addressbook-details-work-address-header = Adressa da fatschenta
 about-addressbook-details-other-info-header = Autras infurmaziuns
+about-addressbook-prompt-to-save-title = Memorisar las midadas?
+about-addressbook-prompt-to-save = Vuls ti memorisar tias midadas?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Deponer u encollar qua ina foto u cliccar per tscherner ina datoteca.
+about-addressbook-photo-drop-loading = Chargiar la foto…
+about-addressbook-photo-drop-error = Betg reussì da chargiar la foto.
+about-addressbook-photo-filepicker-title = Tscherner ina datoteca da grafica
+about-addressbook-photo-discard = Sbittar la foto existenta
+about-addressbook-photo-cancel = Interrumper
+about-addressbook-photo-save = Memorisar
