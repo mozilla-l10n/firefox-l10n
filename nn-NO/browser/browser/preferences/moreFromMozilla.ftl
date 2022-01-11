@@ -14,8 +14,11 @@ more-from-moz-firefox-mobile-description = Mobilnettlesaren som set personvernet
 more-from-moz-firefox-mobile-description-advanced = Frå å blokkere sporarar til å setje bremsene på irritasjonsmoment ved automatisk avspeling, jobbar { -brand-product-name }-mobilnettlesarar på overtid for å sikre at du får ei god oppleving på internett.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Oppdag eit nytt lag med anonym surfing og vern.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } legg til eit nytt lag med anonym surfing og vern. Og til skilnad frå enkelte andre VPN-ar, er den sikker og sporer ikkje aktiviteten din.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Set dataa dine i arbeid for eit betre internett for alle.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Ver med { -rally-short-name }
