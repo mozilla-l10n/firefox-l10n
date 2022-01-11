@@ -70,6 +70,8 @@ lockwise-no-logins-card-content = Notaðu lykilorð vistuð í { -brand-short-na
 lockwise-app-links = { -lockwise-brand-name } fyrir <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link" >iOS</a>
 protection-report-passwords-save-passwords-button = Vista lykilorð
     .title = Vista lykilorð
+protection-report-passwords-manage-passwords-button = Sýsla með lykilorð
+    .title = Sýsla með lykilorð
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -88,6 +90,7 @@ info-monitored-emails =
         [one] Verið er að fylgjast með tölvupóstfangi
        *[other] Verið er að fylgjast með tölvupóstföngum
     }
+monitor-no-breaches-title = Góðar fréttir!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
