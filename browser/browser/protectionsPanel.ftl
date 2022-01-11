@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = Villa kom upp við að senda skýrsluna. Reyndu aftur síðar.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Vefsvæðið lagfært? Sendu skýrslu
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -20,10 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Nánari upplýsingar um aukna rakningarvernd
 protections-panel-etp-on-header = Kveikt er á aukinni rekjaravernd fyrir þetta vefsvæði
 protections-panel-etp-off-header = Slökkt er á aukinni rekjaravernd fyrir þetta vefsvæði
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Vefsvæði virkar ekki?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Vefsvæði virkar ekki?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Af hverju?
+protections-panel-not-blocking-why-etp-on-tooltip = Að loka á þetta gæti skemmt þætti sumra vefsvæða. Án rekjara gæti verið að sumir hnappar, eyðublöð og innskráningarreitir virki ekki.
 
 ##
 
