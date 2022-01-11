@@ -24,6 +24,16 @@ button-continue = Cuntinuar
 profiles-pane-title = Importar da { $app }
 profiles-pane-desc = Tscherna la posiziun d'origin per l'import
 profile-file-picker-dir = Tscherna in ordinatur da profil
+profile-file-picker-zip = Tscherna ina datoteca zip (che na surpassa betg 2GB)
+items-pane-title = Tscherna tge importar
+items-pane-desc = Importar da
+items-pane-checkbox-accounts = Contos e parameters
+items-pane-checkbox-address-books = Cudeschets d'adressas
+items-pane-checkbox-calendars = Chalenders
+items-pane-checkbox-mail-messages = Messadis dad e-mail
 
 ## Import dialog
 
+progress-pane-title = Importar
+progress-pane-restart-desc = Reaviar per finir l'import.
+error-pane-title = Errur
