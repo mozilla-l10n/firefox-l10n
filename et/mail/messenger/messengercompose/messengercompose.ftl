@@ -210,21 +210,76 @@ many-public-recipients-notice =
 many-public-recipients-bcc =
     .label = Kasuta välja Pimekoopia
     .accesskey = P
+many-public-recipients-ignore =
+    .label = Hoia adressaadid avalikud
+    .accesskey = H
+many-public-recipients-prompt-title = Liiga palju avalikke adressaate
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Sinu kirjal on avalik adressaat. See võib riivata privaatsust. Sa saad seda vältida liigutades adressaadid Saaja/Koopia väljadelt väljale Pimekoopia.
+       *[other] Sinu kirjal on { $count } avalikku adressaati, kes näevad üksteise aadresse. See võib riivata privaatsust. Sa saad adressaatide avalikustamist vältida liigutades adressaadid Saaja/Koopia väljadelt väljale Pimekoopia.
+    }
+many-public-recipients-prompt-cancel = Loobu saatmisest
+many-public-recipients-prompt-send = Saada ikkagi
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Saatja väljale sisestatud aadressiga sobivat identiteeti ei leitud. Kiri saadetakse kasutades praegust Saatja välja väärtust ning sätteid identiteedist { $identity }.
+encrypted-bcc-warning = Krüptitud kirja saatmisel ei ole adressaadid väljal Pimekoopia täielikult peidetud. Kõigil adressaatidel on võimalik neid tuvastada.
+encrypted-bcc-ignore-button = Sain aru
 
 ## Editing
 
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Eemalda teksti stiilid
 
 ## FileLink
 
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Linkisin selle kirjaga { $count } faili:
+       *[other] Linkisin selle kirjaga { $count } faili:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Rohkem teavet teenuse { $lastLink } kohta.
+       *[other] Rohkem teavet teenuste { $firstLinks } ja { $lastLink } kohta.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Parooliga kaitstud link
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Teenus CloudFile:
+cloud-file-template-size = Suurus:
+cloud-file-template-link = Link:
+cloud-file-template-password-protected-link = Parooliga kaitstud link:
+cloud-file-template-expiry-date = Aegumiskuupäev:
+cloud-file-template-download-limit = Allalaadimiste limiit:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Faili { $filename } üleslaadimine teenusesse { $provider } ebaõnnestus
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Ümbernimetamise viga
