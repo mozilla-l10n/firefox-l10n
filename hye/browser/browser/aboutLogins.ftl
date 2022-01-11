@@ -286,6 +286,7 @@ about-logins-import-dialog-error-unable-to-read-title = Չի կարող նիշը
 about-logins-import-dialog-error-unable-to-read-description = Ընտրէք CSV կամ TSV նիշ։
 about-logins-import-dialog-error-no-logins-imported = Մտից անուններ չեն ներլուծուել։
 about-logins-import-dialog-error-learn-more = Իմանալ աւելին
+about-logins-import-dialog-error-try-import-again = Փորձէք մուտքագրել նորից․․․
 about-logins-import-dialog-error-cancel = Չեղարկել
 about-logins-import-report-title = Ներածել ամփոփագիրը
 about-logins-import-report-description = Մտից անունները եւ գաղտնաբառերը ներածուած են { -brand-short-name }:
