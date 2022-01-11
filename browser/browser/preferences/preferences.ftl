@@ -38,7 +38,12 @@ category-privacy =
 pane-sync-title3 = Samstiling
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } tilraunir
+category-experimental =
+    .tooltiptext = { -brand-short-name } tilraunir
 pane-experimental-subtitle = Haltu áfram með varúð
+pane-experimental-search-results-header = { -brand-short-name } tilraunir: Haltu áfram með varúð
+pane-experimental-description2 = Breyting á ítarlegum stillingum getur haft áhrif á afköst eða öryggi { -brand-short-name }.
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
@@ -128,6 +133,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Vara við þegar ég loka mörgum flipum
     .accesskey = m
+confirm-on-close-multiple-tabs =
+    .label = Staðfesta áður en mörgum flipum er lokað
+    .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (String) - the quit keyboard shortcut, and formatted
@@ -139,6 +147,9 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Vara við ef opnun á mörgum flipum gæti hægt á { -brand-short-name }
     .accesskey = o
+switch-to-new-tabs =
+    .label = Þegar ég opna tengil, mynd eða margmiðlunarefni í nýjum flipa, skipta strax yfir á hann
+    .accesskey = p
 show-tabs-in-taskbar =
     .label = Sýna flipasýnishorn í Windows verkslánni
     .accesskey = k
@@ -402,7 +413,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Leita í texta þegar byrjað er að slá inn orð
     .accesskey = L
+browsing-picture-in-picture-toggle-enabled =
+    .label = Virkja mynd-í-mynd myndskeiðsstýringar
+    .accesskey = y
 browsing-picture-in-picture-learn-more = Fræðast meira
+browsing-media-control =
+    .label = Stýra miðlum með lyklaborði, heyrnartólum eða sýndarviðmóti
+    .accesskey = v
 browsing-media-control-learn-more = Fræðast meira
 browsing-cfr-recommendations =
     .label = Viðbætur sem mælt er með til að vafra
@@ -467,12 +484,21 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Efstu vefsvæði
 home-prefs-topsites-description = Mest heimsóttu vefsíður
+home-prefs-topsites-by-option-sponsored =
+    .label = Kostuð vinsæl vefsvæði
+home-prefs-shortcuts-header =
+    .label = Flýtileiðir
+home-prefs-shortcuts-description = Vefsvæði sem þú vistar eða heimsækir
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Kostaðar flýtileiðir
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
+home-prefs-recommended-by-description-update = Úrvalsefni alls staðar að af vefnum, í umsjón { $provider }
+home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
 
 ##
 
@@ -490,6 +516,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Síðasta niðurhal
 home-prefs-highlights-option-saved-to-pocket =
     .label = Síður vistaðar í { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Nýleg virkni
+home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -497,6 +526,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Bútar
 home-prefs-snippets-description = Uppfærslur frá { -vendor-short-name } og { -brand-product-name }
+home-prefs-snippets-description-new = Ábendingar og fréttir frá { -vendor-short-name } og { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -512,6 +542,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Bæta við leitarslá í verkfæraslá
 search-engine-default-header = Sjálfgefin leitarvél
+search-engine-default-desc-2 = Þetta er sjálfgefna leitarvélin þín í veffangastikunni og leitarstikunni. Þú getur skipt um þetta hvenær sem er.
 search-suggestions-option =
     .label = Birta uppástungur fyrir leit
     .accesskey = s

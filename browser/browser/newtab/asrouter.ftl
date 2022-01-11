@@ -117,6 +117,7 @@ cfr-doorhanger-fission-secondary-button = Frekari upplýsingar
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Myndskeið á þessu vefsvæði gætu spilast ekki rétt í þessari útgáfu af { -brand-short-name }. Fyrir fullan stuðning við myndskeið skaltu uppfæra { -brand-short-name } núna.
 cfr-doorhanger-video-support-header = Uppfærðu { -brand-short-name } til að spila myndskeið
 cfr-doorhanger-video-support-primary-button = Uppfæra núna
     .accesskey = U
@@ -136,6 +137,7 @@ spotlight-learn-more-expanded = Frekari upplýsingar
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Svo virðist sem þú sért að nota almennings Wi-Fi
+spotlight-public-wifi-vpn-body = Til að fela staðsetningu þína og vafravirkni skaltu íhuga VPN-einkanet. Það mun sjá um að vernda þig þegar þú vafrar á opinberum stöðum eins og flugvöllum og kaffihúsum.
 spotlight-public-wifi-vpn-primary-button = Haltu þig til hlés með { -mozilla-vpn-brand-name }
     .accesskey = H
 spotlight-public-wifi-vpn-link = Ekki núna
@@ -149,5 +151,8 @@ spotlight-total-cookie-protection-header =
     Prófaðu öflugasta persónuverndar-
     eiginleikann okkar frá upphafi
 spotlight-total-cookie-protection-body = Allsherjar-vefkökuvörn kemur í veg fyrir að rekendur geti notað vafrakökur til að rekja slóð þína á vefnum.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } byggir girðingu utan um vefkökur og takmarkar þær við vefsvæðið sem þú ert á svo rekjarar geti ekki notað þær til að fylgjast með þér. Með snemmbærum aðgangi muntu hjálpa til við að fínstilla þennan eiginleika svo við getum haldið áfram að byggja betri vef fyrir alla.
 spotlight-total-cookie-protection-primary-button = Kveiktu á allsherjar-vefkökuvörnum
 spotlight-total-cookie-protection-secondary-button = Ekki núna
