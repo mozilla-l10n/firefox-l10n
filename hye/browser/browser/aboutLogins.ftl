@@ -69,6 +69,7 @@ login-intro-description = Եթե պահպանել էք Ձեր մուտքանու
 login-intro-instructions-fxa-settings = Գնալ Կարգաւորումներ > Համաժամեցում > Միացրէք համաժամեցումը… Ընտրէք Մուտքեր եւ գաղտնաբառեր վանդակը:
 login-intro-instructions-fxa-help = Լրացուցիչ աւգնութեան համար այցելէք <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Սպասարկում</a>
 about-logins-intro-import = Եթե Ձեր մուտքանուններն այլ զննարկիչում են պահպանուած, դուք կարող էք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
+about-logins-intro-browser-only-import = Եթե Ձեր մուտքային տուեալները պահպանուած են մեկ այղ զննարկչում, կարող էք՝<a data-l10n-name="import-link"> ներմուծել դրանք ՝{ -brand-product-name } ֊ի մէջ
 about-logins-intro-import2 = Եթե ձեր գրանցումները պահուած են { -brand-product-name }֊ից դուրս, դուք կարող էք <a data-l10n-name="import-browser-link"> ներմուծել այլ դիտարկչից</a> կամ <a data-l10n-name="import-file-link">from a file</a>
 
 ## Login

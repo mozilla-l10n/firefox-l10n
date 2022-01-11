@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատո
 about-private-browsing-search-placeholder = Որոնել առցանց
 about-private-browsing-info-title = Դուք Գաղտնի դիտարկման մէջ էք
 about-private-browsing-info-myths = Տարածուած առասպելներ գաղտնի դիտարկման մասին
+about-private-browsing-search-btn =
+    .title = Որոնել համացանցում
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
