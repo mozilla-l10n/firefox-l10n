@@ -8,7 +8,7 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                            "פתיחת תיקיה מכילה">
+<!ENTITY cmd.show.label                            "פתיחת תיקייה מכילה">
 <!ENTITY cmd.show.accesskey                        "ת">
 <!ENTITY cmd.showMac.label                         "הצגה ב־Finder">
 <!ENTITY cmd.showMac.accesskey                     "צ">
