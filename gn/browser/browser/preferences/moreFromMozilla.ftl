@@ -20,8 +20,11 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Emomba’apo ne mba’ekuaarã Ñanduti oiko porãve rekávo.
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Eme’ẽ ne mba’ekuaarã tapereka ñemboajerã omba’apótava omoheñói hag̃ua Ñanduti hekorosã ha ijurujáva opaite yvypórape, ndaha’éi tembipurupyahúpe g̃uarã añónte.
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Ejuaju { -rally-short-name } ndive
+more-from-moz-qr-code-box-firefox-mobile-title = Emboguejy ne pumbyrýpe. Emoma’ẽ ne ra’ãnganohẽha pe QR ayvu rehe. Osẽvove pe juajuha, eiporavóke.
 more-from-moz-qr-code-box-firefox-mobile-button = Emondo mboguejy juajuha ne pumbyrýpe
 more-from-moz-button-mozilla-vpn =
     .label = Ereko VPN
