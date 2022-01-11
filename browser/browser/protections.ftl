@@ -22,9 +22,18 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } heldur áfram að loka fyrir rakningar í huliðsgluggum, en heldur ekki skrá yfir það sem er útilokað.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Rekjarar sem { -brand-short-name } útilokaði í þessari viku
+protection-report-webpage-title = Stjórnborð verndar
+protection-report-page-content-title = Stjórnborð verndar
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } getur verndað friðhelgi þína á bak við tjöldin á meðan þú vafrar. Þetta er sérsniðin samantekt á þessum vörnum, þar á meðal verkfæri til að hafa stjórn á öryggi þínu á netinu.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } verndar friðhelgi þína á bak við tjöldin á meðan þú vafrar. Þetta er sérsniðin samantekt á þessum vörnum, þar á meðal verkfæri til að hafa stjórn á öryggi þínu á netinu.
+protection-report-settings-link = Sýsla með friðhelgi og öryggisstillingar þínar
 etp-card-title-always = Aukin rakningarvörn: Alltaf á
 etp-card-title-custom-not-blocking = Aukin rakningarvörn: SLÖKKT
+etp-card-content-description = { -brand-short-name } kemur sjálfkrafa í veg fyrir að fyrirtæki fylgi þér í laumi um vefinn.
 protection-report-etp-card-content-custom-not-blocking = Slökkt er á öllum vörnum eins og er. Veldu hvaða á rekjara skal loka með því að stjórna verndarstillingunum fyrir { -brand-short-name }.
+protection-report-manage-protections = Sýsla með stillingar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Í dag
@@ -35,6 +44,11 @@ cookie-tab-title = Rakningarkökur milli vefsvæða
 cookie-tab-content = Þessar vafrakökur fylgja þér frá vefsvæði til vefsvæðis til að safna gögnum um það sem þú gerir á netinu. Þær eru settar af utanaðkomandi aðilum á borð við auglýsendur og greiningarfyrirtæki. Sé lokað á millisvæða-rakningarkökur fækkar þeim auglýsingum sem elta þig á milli vefja. <a data-l10n-name="learn-more-link">Kanna nánar</a>
 tracker-tab-title = Rakning efnis
 tracker-tab-description = Vefsvæði kunna að hlaða inn utanaðkomandi auglýsingum, myndskeiðum og öðru efni með rakningarkóða. Að loka fyrir rakningarefni getur hjálpað vefsvæðum til að hlaðast hraðar inn, en sumir hnappar, innfyllingarreitir og innskráningarreitir virka kannski ekki. <a data-l10n-name="learn-more-link">Frekari upplýsingar</a>
+fingerprinter-tab-title = Fingrafarasöfnun
+cryptominer-tab-title = Rafmyntagröftur
+protections-close-button2 =
+    .aria-label = Loka
+    .title = Loka
 mobile-app-title = Loka fyrir auglýsingarekjara í fleiri tækjum
 mobile-app-card-content = Notaðu farsímavafrann með innbyggðri vörn gegn auglýsingarakningu.
 # While English doesn't use the number in the plural form, you can add $count to your language

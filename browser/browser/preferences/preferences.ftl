@@ -1034,6 +1034,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Undanþágur…
     .accesskey = U
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Undanþágur…
+    .accesskey = d
+    .searchkeywords = sprettgluggar
 permissions-addon-install-warning =
     .label = Vara við þegar vefsvæði reyna að setja inn viðbætur
     .accesskey = V
@@ -1046,6 +1052,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } Gagnasöfnun og notkun
 collection-description = Við reynum alltaf að bjóða upp á valkvæmni og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
 collection-privacy-notice = Meðferð persónuupplýsinga
+collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
+collection-health-report-telemetry-disabled-link = Frekari upplýsingar
 collection-health-report =
     .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
     .accesskey = r
@@ -1059,6 +1067,8 @@ addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagnaskýrslur eru óvirkar í þessari útgáfu
+collection-backlogged-crash-reports-with-link = Leyfa { -brand-short-name } að senda bakraktar hrunskýrslur fyrir þína hönd <a data-l10n-name="crash-reports-link">Frekari upplýsingar</a>
+    .accesskey = y
 
 ## Privacy Section - Security
 ##
