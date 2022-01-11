@@ -76,6 +76,8 @@
 <!ENTITY cspBlocked.title "Lokað á vegna öryggisreglna efnis">
 <!ENTITY cspBlocked.longDesc "<p>Vafrinn kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu efnis sem kemur í veg fyrir það.</p>">
 
+<!ENTITY xfoBlocked.title "Lokað fyrir af X-Frame-Options reglu">
+<!ENTITY xfoBlocked.longDesc "<p>Vafrinn kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur X-Frame-Options öryggisreglu sem bannar það.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Villa skemmd gögn">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
