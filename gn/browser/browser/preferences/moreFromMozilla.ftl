@@ -14,6 +14,7 @@ more-from-moz-firefox-mobile-description = Pumbyry kundahára omotendéva nde re
 more-from-moz-firefox-mobile-description-advanced = Tapykuehoha jejoko guive ñemongu’e ijeheguíva ñemboyke peve, umi kundahára pumbyrygua { -brand-product-name } omba’apo hetarasa ko’ẽreíre Ñanduti oiko porãve hag̃ua.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ejuhu peteĩ ñepytyvõ kundahára ha ñemo’ã ojekuaa’ỹvagui.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } ombojuaju ambue mba’eve kundahára ha ñemo’ã ojekuaa’ỹva. Ha, iñambuéva heta VPN-gui, hekorosã ha ndohapykuehói ne rembiapo.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
