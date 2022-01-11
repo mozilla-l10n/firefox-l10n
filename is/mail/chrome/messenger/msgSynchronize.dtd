@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Sækja og samstilla skilaboð">
 <!ENTITY MsgSelect.label "Hlutir sem eru notaðir fyrir ónettengda notkun">
-<!ENTITY MsgSyncDesc.label "Ef þú hefur þegar valið póstmöppur eða fréttahópa fyrir ónettengda notkun, geturðu sótt og/eða samstillt þá núna. Annars geturðu notað &quot;Velja&quot; takkann til að velja póstmöppur og fréttahópa fyrir ónettengda notkun.">
+<!ENTITY MsgSyncDesc.label "Ef þú hefur þegar valið póstmöppur eða fréttahópa fyrir ónettengda notkun, geturðu sótt og/eða samstillt þá núna. Annars geturðu notað &quot;Velja&quot; hnappinn til að velja póstmöppur og fréttahópa fyrir ónettengda notkun.">
 <!ENTITY MsgSyncDirections.label "Sækja og/eða samstilla eftirfarandi:">
 <!ENTITY syncTypeMail.label "Tölvupóstur">
 <!ENTITY syncTypeMail.accesskey "p">

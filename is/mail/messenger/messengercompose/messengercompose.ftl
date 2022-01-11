@@ -13,8 +13,8 @@ remove-address-row-button =
 address-input-type-aria-label =
     { $count ->
         [0] { $type }
-        [one] { $type } með einu póstfangi, notaðu vinstri örvatakkann til að gera það virkt.
-       *[other] { $type } með { $count } póstföng, notaðu vinstri örvatakkann til að gera þau virk.
+        [one] { $type } með einu póstfangi, notaðu vinstri örvahnappinn til að gera það virkt.
+       *[other] { $type } með { $count } póstföng, notaðu vinstri örvahnappinn til að gera þau virk.
     }
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
