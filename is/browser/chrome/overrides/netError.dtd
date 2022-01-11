@@ -102,6 +102,7 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur X-Frame-Options öryggisreglu sem bannar það.</p>">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að birta síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að láta þá vita af vandamálinu.</li></ul>">
 
@@ -126,10 +127,14 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Lokuð síða">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ef þú ert á fyrirtækjaneti geturðu haft samband við upplýsingatæknideildina þína.">
 
 
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
 
+<!ENTITY enableTls10.longDesc "Þessi vefsíða styður ekki TLS 1.2 samskiptareglur, sem er lágmarksútgáfan sem &brandShortName; styður. Að virkja TLS 1.0 og TLS 1.1 gæti gert þessa tengingu mögulega.">
+<!ENTITY enableTls10.note "TLS 1.0 og TLS 1.1 verða varanlega óvirk í framtíðarútgáfum.">
+<!ENTITY enableTls10.label "Virkja TLS 1.0 og 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að birta síðuna sem þú ert að reyna að skoða vegna þess að villa fannst í netsamskiptareglu.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að upplýsa þá um þetta vandamál.</li></ul>">
