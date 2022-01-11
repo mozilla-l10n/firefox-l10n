@@ -283,3 +283,9 @@ cloud-file-upload-error-with-custom-message-title = Faili { $filename } üleslaa
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Ümbernimetamise viga
+cloud-file-rename-error = Faili { $filename } ümbernimetamisel teenuses { $provider } esines viga.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Faili { $filename } ümbernimetamine teenuses { $provider } ebaõnnestus
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = Teenus { $provider } ei toeta juba üles laaditud failide ümbernimetamist.
