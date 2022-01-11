@@ -166,6 +166,50 @@ show-to-row-main-menuitem =
 show-to-row-extra-menuitem =
     .label = Saaja
     .accesskey = S
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Saaja
+    .title = Kuva välja Saaja ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Koopia
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Väli Koopia
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Koopia
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Koopia
+    .title = Kuva välja Koopia ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Pimekoopia
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Väli Pimekoopia
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Pimekoopia
+    .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Pimekoopia
+    .title = Kuva välja Pimekoopia ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Muud kuvatavad aadressiväljad
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Sinu kirjal on avalik adressaat. Sa võid seda vältida, lisades adressaadid väljale Pimekoopia.
+       *[other] { $count } adressaati Saaja ja Koopia väljadel näevad üksteise aadresse. Sa võid seda vältida, lisades adressaadid väljale Pimekoopia.
+    }
+many-public-recipients-bcc =
+    .label = Kasuta välja Pimekoopia
+    .accesskey = P
 
 ## Notifications
 
