@@ -73,6 +73,7 @@ login-intro-instructions-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢ�
 login-intro-instructions-fxa-settings = ᱥᱟᱡᱟᱣ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱥᱭᱝᱠ >ᱥᱭᱝᱠᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ … ᱵᱚᱞᱚ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱪᱤᱱᱦᱟᱹᱯ ᱵᱟᱠᱚᱥ ᱵᱟᱪᱷᱟᱣ ᱡᱮ ᱾
 login-intro-instructions-fxa-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name }ᱪᱟᱞᱟᱜ ᱢᱮ, ᱥᱟᱹᱯᱚᱴ ᱞᱟᱹᱜᱤᱫ</a> ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱾
 about-logins-intro-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link"> ᱠᱷᱚᱱ { -lockwise-brand-short-name }</a> ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
+login-intro-instructions-fxa-passwords-help = ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱧᱚᱢ ᱞᱟᱹᱜᱤᱫ </a> <a data-l10n-name="passwords-help-link"> ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱜᱚᱲᱚ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 about-logins-intro-browser-only-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link">ᱠᱷᱚᱱ { -brand-product-name } ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ</a>
 
 ## Login
@@ -255,8 +256,16 @@ about-logins-import-dialog-items-added =
         [two] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>ᱵᱷᱩᱞ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+        [two] <span>ᱵᱷᱩᱞ ᱠᱤᱱ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+       *[other] <span>ᱵᱷᱩᱞ ᱠᱚ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+    }
 about-logins-import-dialog-done = ᱦᱩᱭᱮᱱᱟ
 about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
+about-logins-import-dialog-error-conflicting-values-title = ᱢᱤᱫ ᱵᱚᱞᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱩᱨ ᱵᱤᱨᱚᱫᱷᱤ ᱢᱩᱞᱠᱚ
+about-logins-import-dialog-error-conflicting-values-description = ᱡᱮᱢᱚᱱ ᱢᱤᱫ ᱵᱚᱞᱚ ᱞᱟᱹᱜᱤᱫ ᱺ ᱟᱭᱢᱟ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ , ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ, URLs, etc ᱾
 about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-unable-to-read-title = ᱨᱮᱫ ᱠᱚ ᱴᱷᱤᱠ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
