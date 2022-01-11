@@ -543,6 +543,12 @@ search-bar-shown =
     .label = Bæta við leitarslá í verkfæraslá
 search-engine-default-header = Sjálfgefin leitarvél
 search-engine-default-desc-2 = Þetta er sjálfgefna leitarvélin þín í veffangastikunni og leitarstikunni. Þú getur skipt um þetta hvenær sem er.
+search-engine-default-private-desc-2 = Velja aðra sjálfgefna leitarvél eingöngu fyrir huliðsglugga
+search-separate-default-engine =
+    .label = Nota þessa leitarvél í huliðsgluggum
+    .accesskey = u
+search-suggestions-header = Leitartillögur
+search-suggestions-desc = Veldu hvernig tillögur frá leitarvélum birtast.
 search-suggestions-option =
     .label = Birta uppástungur fyrir leit
     .accesskey = s
@@ -556,7 +562,11 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Sýna leitarábendingar fyrir framan leitarsögu í niðurstöðum staðsetningarsláar
+search-show-suggestions-private-windows =
+    .label = Sýna leitartillögur í huliðsgluggum
+suggestions-addressbar-settings-generic2 = Breyta stillingum fyrir aðrar tillögur í veffangastiku
 search-suggestions-cant-show = Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neina leitarsögu.
+search-one-click-header2 = Flýtileiðir við leit
 search-one-click-desc = Veldu auka leitarvélar sem birtast hér fyrir neðan staðsetningarslá og leitarslá þegar þú byrjar að slá inn lykilorð.
 search-choose-engine-column =
     .label = Leitarvél
@@ -568,6 +578,9 @@ search-restore-default =
 search-remove-engine =
     .label = Fjarlægja
     .accesskey = r
+search-add-engine =
+    .label = Bæta við
+    .accesskey = a
 search-find-more-link = Finna fleiri leitarvélar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -634,13 +647,41 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Samstilling: Á
+prefs-syncing-off = Samstilling: AF
+prefs-sync-turn-on-syncing =
+    .label = Kveikja á samstillingu…
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
+prefs-sync-now =
+    .labelnotsyncing = Samstilla núna
+    .accesskeynotsyncing = n
+    .labelsyncing = Samstilli…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Þú ert núna að samstilla þessi atriði:
+sync-currently-syncing-bookmarks = Bókamerki
+sync-currently-syncing-history = Ferill
+sync-currently-syncing-tabs = Opnir flipar
+sync-currently-syncing-logins-passwords = Innskráningar og lykilorð
+sync-currently-syncing-addresses = Vistföng
+sync-currently-syncing-creditcards = Greiðslukort
+sync-currently-syncing-addons = Viðbætur
+sync-currently-syncing-settings = Stillingar
+sync-change-options =
+    .label = Breyta…
+    .accesskey = B
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Veldu hvað á að samstilla
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Vista breytingar
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Aftengjast…
+    .buttonaccesskeyextra2 = A
 sync-engine-bookmarks =
     .label = Bókamerki
     .accesskey = m
@@ -651,6 +692,10 @@ sync-engine-tabs =
     .label = Opna flipa
     .tooltiptext = Listi yfir hvað er opið á öllum samstilltum tækjum
     .accesskey = f
+sync-engine-logins-passwords =
+    .label = Innskráningar og lykilorð
+    .tooltiptext = Notandanofn og lykilorð sem þú hefur vistað
+    .accesskey = l
 sync-engine-addresses =
     .label = Vistföng
     .tooltiptext = Heimilisiföng sem þú hefur vistað (bara á borðtölvu)
@@ -663,6 +708,10 @@ sync-engine-addons =
     .label = Viðbætur
     .tooltiptext = Viðbætur og þema fyrir Firefox á borðtölvu
     .accesskey = æ
+sync-engine-settings =
+    .label = Stillingar
+    .tooltiptext = Almennar, Friðhelgi og Öryggisstillingar sem þú hefur breytt
+    .accesskey = S
 
 ## The device name controls.
 
@@ -721,6 +770,10 @@ forms-master-pw-change =
 forms-primary-pw-change =
     .label = Breyta aðallykilorði…
     .accesskey = k
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Áður þekkt sem Master-lykilorð
 forms-primary-pw-fips-title = Þú ert núna í FIPS-ham. FIPS má ekki hafa tómt aðallykilorð.
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 forms-windows-sso =
@@ -732,6 +785,12 @@ forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Til að búa til aðallykilorð skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = búa til aðallykilorð
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -844,6 +903,12 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-shortcuts-option =
     .label = Flýtileiðir
     .accesskey = F
+addressbar-locbar-topsites-option =
+    .label = Vinsælustu svæðin
+    .accesskey = t
+addressbar-locbar-engines-option =
+    .label = Leitarvélar
+    .accesskey = a
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 
 ## Privacy Section - Content Blocking
@@ -939,6 +1004,10 @@ permissions-location = Staðsetning
 permissions-location-settings =
     .label = Stillingar…
     .accesskey = l
+permissions-xr = Sýndarveruleiki
+permissions-xr-settings =
+    .label = Stillingar…
+    .accesskey = t
 permissions-camera = Myndavél
 permissions-camera-settings =
     .label = Stillingar…
