@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Ruslpóstsstillingar">
-<!ENTITY trainingDescription.label "Ef þetta er gert virkt, verðurðu fyrst að þjálfa &brandShortName; til að bera kennsl á ruslpóst með því að nota ruslpóst takkann til að merkja póst sem ruslpóst eða ekki. Þú þarft að merkja bæði ruslpóst og ekki ruslpóst. Eftir það mun &brandShortName; geta merkt ruslpóst sjálfkrafa.">
+<!ENTITY trainingDescription.label "Ef þetta er gert virkt, verðurðu fyrst að þjálfa &brandShortName; til að bera kennsl á ruslpóst með því að nota ruslpóstshnappinn til að merkja póst sem ruslpóst eða ekki. Þú þarft að merkja bæði ruslpóst og ekki ruslpóst. Eftir það mun &brandShortName; geta merkt ruslpóst sjálfkrafa.">
 <!ENTITY level.label "Virkja þjálfaða ruslpóstssíu fyrir þennan reikning">
 <!ENTITY level.accesskey "e">
 
