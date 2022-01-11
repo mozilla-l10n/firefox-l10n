@@ -7,12 +7,20 @@ privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատո
 about-private-browsing-search-placeholder = Որոնել առցանց
 about-private-browsing-info-title = Դուք Գաղտնի դիտարկման մէջ էք
 about-private-browsing-info-myths = Տարածուած առասպելներ գաղտնի դիտարկման մասին
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff =
+    .title = Որոնէք { $engine } -ով կամ մուտքագրէք հասցէ
+about-private-browsing-handoff-no-engine =
+    .title = Որոնէք կամ մուտքագրէք հասցէ
+# Variables
+#  $engine (String): the name of the user's default search engine
+about-private-browsing-handoff-text = Որոնէք { $engine } -ով կամ մուտքագրէք հասցէ
+about-private-browsing-handoff-text-no-engine = Որոնէք կամ մուտքագրէք հասցէ
 about-private-browsing-not-private = Այժմ Դուք Գաղտնի դիտարկման էջում չէք։
 about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է Ձեր որոնման եւ զննարկման պատմութիւնը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները։ Չնայած դա Ձեզ անանուն չի դարձնում կայքէջերի կամ Ձեր համացանցային ծառայութիւններ մատուցողի համար, այն աւելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից աւգտուող ցանկացած այլ անձի կողմից։
-
 about-private-browsing-need-more-privacy = Գաղտնի դիտարկման կարիք ունէ՞ք
 about-private-browsing-turn-on-vpn = Փորձէք { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
