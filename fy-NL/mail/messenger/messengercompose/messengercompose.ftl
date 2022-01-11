@@ -241,7 +241,43 @@ encrypted-bcc-ignore-button = Begrepen
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekststyl fuortsmite
 
-## FileLink messages
+## FileLink
+
+
+# Template
+
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Ik haw { $count } bestân oan dit e-mailberjocht keppele:
+       *[other] Ik haw { $count } bestannen oan dit e-mailberjocht keppele:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Mear ynfo oer { $lastLink }.
+       *[other] Mear ynfo oer { $firstLinks } en { $lastLink }.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Mei wachtwurd befeilige keppeling
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = CloudFile-tsjinst:
+cloud-file-template-size = Grutte:
+cloud-file-template-link = Keppeling:
+cloud-file-template-password-protected-link = Mei wachtwurd befeilige keppeling:
+cloud-file-template-expiry-date = Ferrindatum:
+cloud-file-template-download-limit = Downloadlimyt:
+
+# Messages
 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
