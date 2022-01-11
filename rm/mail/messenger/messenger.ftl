@@ -119,6 +119,9 @@ other-action-redirect-msg =
 message-header-msg-flagged =
     .title = Cun staila
     .aria-label = Cun staila
+message-header-msg-not-flagged =
+    .title = Senza staila
+    .aria-label = Senza staila
 
 ## Action Button Context Menu
 
