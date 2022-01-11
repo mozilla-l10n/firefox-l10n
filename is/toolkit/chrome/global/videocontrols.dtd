@@ -34,6 +34,7 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.noSource2 "Fann ekki myndband sem er með stuðning og rétta MIME tegund.">
 <!ENTITY error.generic "Hætt við spilun á myndbandi vegna óþekktrar villu.">
 
+<!ENTITY status.pictureInPicture "Þetta myndskeið er spilað í mynd-í-mynd ham.">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
