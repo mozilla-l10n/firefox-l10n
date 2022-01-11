@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Աւելացնել պիտակներ
-
 pocket-panel-saved-error-generic = Սխալ՝ { -pocket-brand-name }-ում պահպանելիս։
 pocket-panel-saved-error-tag-length = Պիտակը սահմանափակուած է 25 գրանշանով
 pocket-panel-saved-error-only-links = Միայն յղումները կարող են պահուել
@@ -41,3 +40,5 @@ pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Իմ ցուցակը
+pocket-panel-home-welcome-back = Բարի վերադարձ
