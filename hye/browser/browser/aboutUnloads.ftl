@@ -7,3 +7,6 @@
 ### feature.
 
 about-unloads-column-priority = Առաջնահերթութիւն
+about-unloads-column-last-accessed = Վերջին մուտքը
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } ՄԲ
