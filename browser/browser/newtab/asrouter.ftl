@@ -121,6 +121,10 @@ cfr-doorhanger-video-support-primary-button = Perbarui Sekarang
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = Pelajari Lebih Lanjut
+    .title = Buka untuk pempelajari fitur ini lebih lanjut
+spotlight-learn-more-expanded = Pelajari lebih lanjut
+    .title = Tutup
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -130,6 +134,7 @@ cfr-doorhanger-video-support-primary-button = Perbarui Sekarang
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Sepertinya Anda menggunakan Wi-Fi publik
+spotlight-public-wifi-vpn-body = Untuk menyembunyikan lokasi dan aktivitas penjelajahan Anda, pertimbangkan Jaringan Pribadi Virtual (VPN). Ini akan membantu Anda tetap terlindungi saat menjelajah di tempat umum seperti bandara dan kedai kopi.
 spotlight-public-wifi-vpn-link = Jangan Sekarang
     .accesskey = J
 

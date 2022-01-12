@@ -80,6 +80,15 @@ menu-file-open-file =
 menu-file-close =
     .label = Tutup
     .accesskey = u
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Tutup Tab
+           *[other] Tutup { $tabCount } Tab
+        }
+    .accesskey = T
 menu-file-close-window =
     .label = Tutup Jendela
     .accesskey = d
