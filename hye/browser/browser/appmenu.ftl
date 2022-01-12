@@ -28,6 +28,12 @@ appmenuitem-more-tools =
     .label = Յաւելեալ գործիքներ
 appmenuitem-help =
     .label = Աւգնութիւն
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Լքել
+           *[other] Ելք
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
