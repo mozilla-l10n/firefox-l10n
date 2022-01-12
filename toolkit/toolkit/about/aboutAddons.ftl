@@ -24,6 +24,9 @@ list-empty-button =
 help-button = Viðbótastuðningur
 sidebar-help-button-title =
     .title = Viðbótastuðningur
+addons-settings-button = { -brand-short-name } stillingar
+sidebar-settings-button-title =
+    .title = { -brand-short-name } stillingar
 show-unsigned-extensions-button =
     .label = Ekki tókst að staðfesta sumar viðbætur
 show-all-extensions-button =
@@ -33,6 +36,9 @@ detail-version =
 detail-last-updated =
     .label = Síðast uppfært
 detail-contributions-description = Höfundur þessarar viðbótar biður þig um að styðja við áframhaldandi þróun með því að styrkja viðkomandi með smá upphæð.
+detail-contributions-button = Leggðu lið
+    .title = Leggðu þitt til þróunar þessarar viðbótar
+    .accesskey = L
 detail-update-type =
     .value = Sjálfvirkar uppfærslur
 detail-update-default =
@@ -46,7 +52,12 @@ detail-update-manual =
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Keyra í huliðsgluggum
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Ekki leyfilegt í huliðsgluggum
 detail-private-disallowed-description2 = Þessi viðbót keyrir ekki á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Krefst aðgangs að huliðsgluggum
 detail-private-required-description2 = Þessi viðbót hefur aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 detail-private-browsing-on =
     .label = Heimila
@@ -102,6 +113,9 @@ private-browsing-description2 =
     huliðsvafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
     þar. Við höfum gert þessa breytingu til að halda huliðsvafri þínu leyndu.
     <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum viðbóta</label>
+addon-category-discover = Meðmæli
+addon-category-discover-title =
+    .title = Meðmæli
 addon-category-extension = Viðbætur
 addon-category-extension-title =
     .title = Viðbætur
@@ -123,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Nýlegar uppfærslur
 addon-category-recent-updates-title =
     .title = Nýlegar uppfærslur
+addon-category-sitepermission = Heimildir vefsvæðis
+addon-category-sitepermission-title =
+    .title = Heimildir vefsvæðis
 
 ## These are global warnings
 
@@ -216,15 +233,27 @@ header-back-button =
 discopane-notice-recommendations =
     Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
     viðbótum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
+discopane-notice-learn-more = Frekari upplýsingar
+privacy-policy = Meðferð persónuupplýsinga
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
 created-by-author = eftir <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Notendur: { $dailyUsers }
 install-extension-button = Bæta við { -brand-product-name }
+install-theme-button = Setja upp þema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Stjórna
 
 ## Add-on actions
 
 remove-addon-button = Fjarlægja
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Ekki er hægt að fjarlægja <a data-l10n-name="link">Af hverju?</a>
 disable-addon-button = Óvirkja
 enable-addon-button = Virkja
 # This is used for the toggle on the extension card, it's a checkbox and this
@@ -238,6 +267,7 @@ preferences-addon-button =
     }
 extension-enabled-heading = Virkt
 extension-disabled-heading = Óvirkt
+theme-monochromatic-heading = Litasett
 plugin-enabled-heading = Virkt
 plugin-disabled-heading = Óvirkt
 # Message for add-ons with a staged pending update.
