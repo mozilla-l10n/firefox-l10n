@@ -36,6 +36,13 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = Ցուցադրել Որոնիչ֊ում
     .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Ցուցադրել որոնիչում
+           *[other] Ցուցադրել պանակում
+        }
+    .accesskey = Ց
 downloads-cmd-use-system-default =
     .label = Բացել համակարգի դիտակում
     .accesskey = V
@@ -61,6 +68,29 @@ downloads-cmd-show-description =
         { PLATFORM() ->
             [macos] Ցուցադրել Որոնիչ֊ում
            *[other] Բացեք պարունակող թղթապանակը
+        }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Միշտ բացել նմանատիպ նիշքերի հետ
+    .accesskey = Ո
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ցուցադրել որոնիչում
+           *[other] Ցուցադրել պանակում
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Ցուցադրել որոնիչում
+           *[other] Ցուցադրել պանակում
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Ցուցադրել որոնիչում
+           *[other] Ցուցադրել պանակում
         }
 downloads-cmd-show-downloads =
     .label = Ցուցադրել ներբեռնումների թղթապանակը
