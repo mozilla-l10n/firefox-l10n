@@ -362,7 +362,13 @@ release-notes-error = Því miður kom upp villa við að sýna útgáfuupplýsi
 addon-permissions-empty = Þessi viðbót þarf engar heimildir
 addon-permissions-required = Nauðsynlegar heimildir fyrir kjarnavirkni:
 addon-permissions-optional = Valfrjálsar heimildir fyrir aukna virkni:
+addon-permissions-learnmore = Frekari upplýsingar um heimildir
 recommended-extensions-heading = Tillögur að viðbótum
+recommended-themes-heading = Þemu sem mælt er með
+addon-sitepermissions-required = Veitir eftirfarandi eiginleika til <span data-l10n-name="hostname">{ $hostname }</span>:
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Finnst þér þú vera skapandi? <a data-l10n-name="link">Búðu til þitt eigið þema með Firefox Color.</a>
 
 ## Page headings
 
@@ -371,6 +377,11 @@ theme-heading = Stjórnborð þema
 plugin-heading = Stjórnborð tengiforrita
 dictionary-heading = Stjórnborð orðabóka
 locale-heading = Stjórnborð tungumála
+updates-heading = Sýsla með uppfærslurnar þínar
+sitepermission-heading = Sýsla með heimildir þínar fyrir vefsvæði
+discover-heading = Persónugerðu þitt eintak af { -brand-short-name }
+shortcuts-heading = Sýsla með flýtilykla viðbóta
+default-heading-search-label = Finna fleiri viðbætur
 addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
 addon-page-options-button =
