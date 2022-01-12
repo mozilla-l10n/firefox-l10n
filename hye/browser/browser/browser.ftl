@@ -249,6 +249,7 @@ identity-header-security-with-host =
     .title = Միացման անվտանգութիւն { $host }-ի համար
 identity-connection-not-secure = Կապակցումը ապահով չէ
 identity-connection-secure = Կապակցումը ապահով է
+identity-connection-failure = Միացումը ձախողուել է
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է
 identity-connection-file = Այս էջը պահուում է Ձեր համակարգչում
 identity-extension-page = Այս էջը բեռնուել է ընդլայնումից
@@ -361,6 +362,9 @@ popup-all-windows-shared = Ձեր եկրանի բոլոր տեսանելի պա�
 popup-screen-sharing-block =
     .label = Արգելափակել
     .accesskey = Ա
+popup-screen-sharing-always-block =
+    .label = Միշտ արգելափակել
+    .accesskey = շ
 
 ## WebRTC window or screen share tab switch warning
 
@@ -482,6 +486,16 @@ urlbar-result-action-search-tabs = Փնտրել ներդիրներում
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } առաջարկներ
 
 ## Full Screen and Pointer Lock UI
 
@@ -727,3 +741,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = Ցոյց տալ, թե ինչպէս

@@ -264,9 +264,21 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Աւգտագործել պահպանուած մուտքանունը
+    .accesskey = Ա
+main-context-menu-use-saved-password =
+    .label = Աւգտագործել պահպանուած գաղտնաբառը
+    .accesskey = Ա
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Առաջարկել անվտանգ գաղտնաբառ…
+    .accesskey = Ա
+main-context-menu-manage-logins2 =
+    .label = Կառաւարել մուտքերը
+    .accesskey = Կ
 main-context-menu-keyword =
     .label = Որոնմանն աւելացնել բանալի բառ…
     .accesskey = K
@@ -326,8 +338,20 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Փոխել էջի ուղղութիւնը
     .accesskey = D
+main-context-menu-inspect =
+    .label = Զննել
+    .accesskey = Զ
 main-context-menu-inspect-a11y-properties =
     .label = Ստուգել մատչելիութեան յատկութիւնները
 main-context-menu-eme-learn-more =
     .label = Իմանալ աւելին DRM-ի մասին…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Բացել յղումը նոր { $containerName } ներդիրում
+    .accesskey = ն
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Ցուցադրել գաղտնաբառը
+    .accesskey = ը
