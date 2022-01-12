@@ -292,6 +292,11 @@ sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = margmiðlunar-tengiforrit
 sandbox-proc-type-data-decoder = gagnaafkóðari
+startup-cache-title = Skyndiminni ræsingar
+startup-cache-disk-cache-path = Slóð á diskminni
+startup-cache-ignore-disk-cache = Hunsa diskminni
+startup-cache-found-disk-cache-on-init = Fann diskminni á Init
+startup-cache-wrote-to-disk-cache = Skrifaði í diskminni
 launcher-process-status-0 = Virkt
 launcher-process-status-1 = Óvirkt vegna óhapps
 launcher-process-status-2 = Gert óvirkt með valdi
@@ -300,6 +305,10 @@ launcher-process-status-unknown = Óþekkt staða
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Ósamstillt Færa/Þysja
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt
@@ -322,7 +331,17 @@ policies-error = Villa
 
 ## Printing section
 
+support-printing-title = Prentun
+support-printing-troubleshoot = Úrræðaleit
+support-printing-clear-settings-button = Hreinsa vistaðar prentstillingar
+support-printing-modified-settings = Breyttar prentstillingar
+support-printing-prefs-name = Heiti
 support-printing-prefs-value = Gildi
 
 ## Normandy sections
 
+support-remote-experiments-title = Fjartilraunir
+support-remote-experiments-name = Heiti
+support-remote-experiments-branch = Grein tilraunar
+support-remote-features-name = Heiti
+support-remote-features-status = Staða
