@@ -13,6 +13,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } á ferðinni
 more-from-moz-firefox-mobile-description = Farsímavafrinn sem setur friðhelgi þína í fyrsta sæti.
 more-from-moz-firefox-mobile-description-advanced = Allt frá því að loka á rekjara til að bremsa óþægindin með sjálfvirka afspilun, { -brand-product-name } farsímavafrar vinna yfirvinnu til að tryggja að þú fáir gott internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Uppgötvaðu aukið lag af nafnlausu vafri og verndun persónuupplýsinga.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } bætir við nýju lagi nafnlausu vafri og vernd persónuupplýsinga. Og ólíkt sumum öðrum VPN-kerfum er það öruggt og fylgist ekki með virkni þinni.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
