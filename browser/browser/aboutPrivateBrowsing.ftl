@@ -23,6 +23,7 @@ about-private-browsing-not-private = Anda tidak sedang dalam jendela pribadi.
 about-private-browsing-info-description = { -brand-short-name } menghapus riwayat penjelajahan dan pencarian saat keluar dari aplikasi atau saat menutup semua tab dan jendela Penjelajahan Pribadi. Meskipun hal ini tidak membuat Anda menjadi anonim dalam situs web atau penyedia layanan internet, hal ini mempermudah Anda untuk menjaga apa yang Anda lakukan secara online agar tetap pribadi dari siapa pun yang menggunakan komputer ini.
 about-private-browsing-need-more-privacy = Butuh privasi lebih?
 about-private-browsing-turn-on-vpn = Coba { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-private-window = Jendela pribadi: { -brand-short-name } menghapus riwayat pencarian dan penjelajahan saat Anda menutup semua jendela pribadi. Ini tidak membuat Anda anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } membersihkan riwayat pencarian dan penjelajahan Anda ketika Anda menutup semua jendela privat, namun tidak membuat Anda terlihat anonim.
 about-private-browsing-learn-more-link = Pelajari lebih lanjut
 about-private-browsing-hide-activity = Sembunyikan aktivitas dan lokasi Anda, di mana pun Anda menjelajah

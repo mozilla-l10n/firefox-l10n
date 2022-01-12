@@ -128,6 +128,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Rekam profil kinerja
+profiler-popup-button-recording =
+    .label = Profiler
+    .tooltiptext = Profiler melakukan perekaman profil
+profiler-popup-button-capturing =
+    .label = Profiler
+    .tooltiptext = Profiler sedang melakukan perekaman profil
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -176,6 +182,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Prasetel yang direkomendasikan untuk sebagian besar debugging aplikasi web, dengan overhead yang rendah.
 profiler-popup-presets-web-developer-label =
     .label = Pengembang Web
 profiler-popup-presets-media-label =
@@ -183,7 +190,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-label =
     .label = Jaringan
 profiler-popup-presets-custom-label =
-    .label = Ubahan
+    .label = Khusus
 
 ## History panel
 
