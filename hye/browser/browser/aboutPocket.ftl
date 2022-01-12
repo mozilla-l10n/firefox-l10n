@@ -43,5 +43,7 @@ pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում
 
 pocket-panel-home-my-list = Իմ ցուցակը
 pocket-panel-home-welcome-back = Բարի վերադարձ
+pocket-panel-home-paragraph = { -pocket-brand-name } -ն աւգտագործուում է կայքեր, յաւդուածներ, տեսանիւթեր, թուային ձայներիզներ բացայայտելու եւ պահպանելու, ինչպէս նաեւ նախկինում գործածուած նիւթերին անցնելու համար:
 pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
 pocket-panel-home-discover-more = Բացայայտել աւելին
+pocket-panel-home-explore-more = Ուսումնասիրել․
