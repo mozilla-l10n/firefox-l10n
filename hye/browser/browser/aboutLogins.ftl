@@ -8,6 +8,7 @@ login-filter =
     .placeholder = Որոնել մուտքանուններ
 create-login-button = Ստեղծել նոր մուտքանուն
 fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր միւս սարքերում
+fxaccounts-sign-in-sync-button = մուտք գործել համաժամեցման համար
 fxaccounts-avatar-button =
     .title = Կառավարել հաշիւը
 
@@ -57,6 +58,7 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Խոցելի գաղտնաբառ
 about-logins-list-section-breach = Կատրուած կայքեր
 about-logins-list-section-vulnerable = Խոցելի գաղտնաբառեր
+about-logins-list-section-nothing = ոչ մի ահազանգ
 about-logins-list-section-today = Այսաւր
 about-logins-list-section-yesterday = Երէկ
 about-logins-list-section-week = Վերջին եաւթ աւրը

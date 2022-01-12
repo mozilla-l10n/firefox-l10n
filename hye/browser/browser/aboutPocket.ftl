@@ -42,3 +42,4 @@ pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում
 
 pocket-panel-home-my-list = Իմ ցուցակը
 pocket-panel-home-welcome-back = Բարի վերադարձ
+pocket-panel-home-discover-more = Բացայայտել աւելին
