@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Jeda
     .accesskey = J
@@ -30,6 +35,13 @@ downloads-cmd-show-menuitem =
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Tampilkan di Finder
+    .accesskey = F
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Tampilkan di Finder
+           *[other] Tampilkan di Folder
+        }
     .accesskey = F
 downloads-cmd-use-system-default =
     .label = Buka di Penampil Sistem
@@ -57,6 +69,11 @@ downloads-cmd-show-description =
             [macos] Tampilkan di Finder
            *[other] Buka Foldernya
         }
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Selalu Buka Berkas Serupa
+    .accesskey = l
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
