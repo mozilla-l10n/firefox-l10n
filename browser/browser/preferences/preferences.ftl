@@ -130,6 +130,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Ingatkan ketika menutup banyak tab sekaligus
     .accesskey = m
+confirm-on-close-multiple-tabs =
+    .label = Konfirmasi sebelum menutup banyak tab
+    .accesskey = K
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Konfirmasi sebelum keluar dengan { $quitKey }
+    .accesskey = f
 warn-on-open-many-tabs =
     .label = Ingatkan bahwa ketika membuka banyak tab mungkin akan memperlambat { -brand-short-name }
     .accesskey = l
@@ -834,6 +845,10 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Kuki pelacak lintas situs — juga termasuk kuki media sosial
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Kuki lintas situs — juga termasuk kuki media sosial
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Kuki pelacak lintas situs
+sitedata-option-block-cross-site-cookies =
+    .label = Kuki pelacak lintas situs dan mengisolasi kuki lintas situs lainnya
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Pelacak media sosial dan lintas situs, dan mengisolasi kuki tersisa
 sitedata-option-block-unvisited =
