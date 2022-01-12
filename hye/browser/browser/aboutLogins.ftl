@@ -68,12 +68,12 @@ about-logins-list-section-week = Վերջին եաւթ աւրը
 about-logins-login-intro-heading-logged-out2 = Փնտրե՞լ Ձեր պահպանուած մտից անունները: Միացրէք համաժամեցումը կամ ներմուծէք դրանք:
 about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտքանուններ չեն գտնուել։
 login-intro-description = Եթե պահպանել էք Ձեր մուտքանունները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող էք ստանալ դրանք․
-login-intro-instructions-fxa = Գրանցուէք կամ մուտք գործէք Ձեր { -fxaccount-brand-name(capitalization: "sentence") } հաշիւ, այն սարքով որում պահուած են մուտքանունները
+login-intro-instructions-fxa = Գրանցուէք կամ մուտք գործէք Ձեր { -fxaccount-brand-name } հաշիւ, այն սարքով որում պահուած են մուտքանունները
 login-intro-instructions-fxa-settings = Գնալ Կարգաւորումներ > Համաժամեցում > Միացրէք համաժամեցումը… Ընտրէք Մուտքեր եւ գաղտնաբառեր վանդակը:
 login-intro-instructions-fxa-help = Լրացուցիչ աւգնութեան համար այցելէք <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Սպասարկում</a>
 about-logins-intro-import = Եթե Ձեր մուտքանուններն այլ զննարկիչում են պահպանուած, դուք կարող էք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
 login-intro-instructions-fxa-passwords-help = անցէք <a data-l10n-name="passwords-help-link"> յղումով գաղտնաբառերի կարգաւորման համար։ </a> ՝ յաւելեալ աւգնութեան համար
-about-logins-intro-browser-only-import = Եթե Ձեր մուտքային տուեալները պահպանուած են մեկ այղ զննարկչում, կարող էք՝<a data-l10n-name="import-link"> ներմուծել դրանք ՝{ -brand-product-name } ֊ի մէջ
+about-logins-intro-browser-only-import = Եթե Ձեր մուտքային տուեալները պահպանուած են մեկ այղ զննարկչում, կարող էք՝<a data-l10n-name="import-link"> ներմուծել դրանք ՝{ -brand-product-name } ֊ի մէջ</a>
 about-logins-intro-import2 = Եթե ձեր գրանցումները պահուած են { -brand-product-name }֊ից դուրս, դուք կարող էք <a data-l10n-name="import-browser-link"> ներմուծել այլ դիտարկչից</a> կամ <a data-l10n-name="import-file-link">from a file</a>
 
 ## Login
@@ -319,16 +319,6 @@ about-logins-import-report-added =
     { $count ->
         [one] <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Նոր մտից անուններն աւելացուած են </div>
        *[other] <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Նոր մտից անուններն աւելացուած են </div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> առկայ մուտքանունները թարմացուել են՝
-       *[other] </div> ֊ ի մէջ
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details"> կրկնաւրինակուած մուտքանունները
-       *[other] </div><div data-l10n-name="not-imported"><div data-l10n-name="not-imported"> չէն ներմուծուել </div>
     }
 about-logins-import-report-error =
     { $count ->
