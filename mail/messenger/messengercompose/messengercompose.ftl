@@ -22,6 +22,12 @@ pill-tooltip-not-in-address-book = { $email } no está en tu libreta de direccio
 pill-action-edit =
     .label = Editar dirección
     .accesskey = E
+pill-action-move-cc =
+    .label = Mover a Cc
+    .accesskey = C
+pill-action-move-bcc =
+    .label = Mover a Cco
+    .accesskey = B
 pill-action-expand-list =
     .label = Expandir lista
     .accesskey = x
@@ -93,6 +99,23 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } del campo ({ bcc-compose-show-address-row-menuitem.acceltext })
 to-address-row-label =
     .value = Para
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Campo Cc
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Cc
+    .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Campo Cco
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 extra-address-rows-menu-button =
     .title = Otros campos de direcciones para mostrar
 many-public-recipients-ignore =
