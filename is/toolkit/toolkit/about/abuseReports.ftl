@@ -47,6 +47,8 @@ abuse-report-messagebar-error-recent-submit = Skýrslan um <span data-l10n-name=
 
 abuse-report-messagebar-action-remove-extension = Já, fjarlægja
 abuse-report-messagebar-action-keep-extension = Nei, hafa áfram
+abuse-report-messagebar-action-remove-sitepermission = Já, fjarlægja
+abuse-report-messagebar-action-keep-sitepermission = Nei, hafa áfram
 abuse-report-messagebar-action-remove-theme = Já, fjarlægja
 abuse-report-messagebar-action-keep-theme = Nei, hafa áfram
 abuse-report-messagebar-action-retry = Reyna aftur
