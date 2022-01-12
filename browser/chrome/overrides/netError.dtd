@@ -119,6 +119,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Viðvörun: Hugsanleg öryggisáhætta framundan">
 <!ENTITY certerror.sts.pagetitle  "Tengdist ekki: Mögulegt öryggisvandamál">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> er með öryggisstefnu sem kallast HTTP Strict Transport Security (HSTS), sem þýðir að &brandShortName; getur aðeins tengst því á öruggan hátt. Þú getur ekki bætt við undantekningu til að heimsækja þetta vefsvæði.">
 <!ENTITY certerror.copyToClipboard.label "Afrita texta á klippispjald">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -127,8 +128,13 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Lokuð síða">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er líklegast öruggt vefsvæði, en ekki tókst að koma á öruggri tengingu við það. Þetta vandamál stafar af <span class='mitm-name'/>, sem er annað hvort hugbúnaður á tölvunni þinni eða á netkerfinu þínu.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ef vírusvarnarhugbúnaðurinn þinn er með eiginleika sem skannar dulritaðar tengingar (oft kallað „vefskönnun“ eða „https-skönnun“), geturðu slökkt á þeim eiginleika. Ef það virkar ekki geturðu fjarlægt og sett aftur upp vírusvarnarforritið.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ef þú ert á fyrirtækjaneti geturðu haft samband við upplýsingatæknideildina þína.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ef þú kannast ekki við <span class='mitm-name'/>, þá gæti þetta verið árás og þú ættir ekki að halda áfram á vefsvæðið.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ef þú kannast ekki við <span class='mitm-name'/>, þá gæti þetta verið árás og það er ekkert sem þú getur gert til að halda áfram á vefsvæðið.">
 
+<!ENTITY clockSkewError.longDesc "Tölvan þín heldur að það sé <span id='wrongSystemTime_systemDate1'/>, sem kemur í veg fyrir að &brandShortName; nái að tengjast á öruggan hátt. Til að heimsækja <span class='hostname'></span> skaltu uppfæra tölvuklukkuna þína í kerfisstillingunum upp í núverandi dagsetningu, tíma og tímabelti og endurnýja síðan <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
