@@ -71,6 +71,8 @@ login-intro-instructions-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda
 login-intro-instructions-fxa-settings = Buka Pengaturan > Sinkronisasi > Aktifkan sinkronisasi… Centang Info masuk dan sandi.
 login-intro-instructions-fxa-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut.
 about-logins-intro-import = Jika info masuk Anda tersimpan dalam peramban lain, Anda dapat <a data-l10n-name="import-link">mengimpor data tersebut ke { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Kunjungi <a data-l10n-name="passwords-help-link">dukungan sandi</a> untuk bantuan lebih lanjut.
+about-logins-intro-browser-only-import = Jika info masuk Anda disimpan di browser lain, Anda dapat <a data-l10n-name="import-link">mengimpornya ke { -brand-product-name }</a>
 about-logins-intro-import2 = Jika info masuk Anda tersimpan di luar { -brand-product-name }, Anda bisa <a data-l10n-name="import-browser-link">mengimpornya dari peramban lain</a> atau <a data-l10n-name="import-file-link">mengimpornya dari berkas</a>.
 
 ## Login
