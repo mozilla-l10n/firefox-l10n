@@ -192,6 +192,7 @@ downloads-files-not-downloaded =
        *[other] { $num } file tidak diunduh.
     }
 downloads-blocked-from-url = Unduhan diblokir dari { $url }.
+downloads-blocked-download-detailed-info = { $url } mencoba mengunduh banyak berkas secara otomatis. Situs ini mungkin rusak atau mencoba menyimpan berkas spam di perangkat Anda.
 
 ##
 
@@ -205,3 +206,11 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Tidak ada unduhan untuk sesi ini.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+       *[other] { $count } berkas lainnya yang sedang diunduh
+    }

@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Kelola penggunaan plug-in
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Kelola berbagi pengeras suara dengan situs ini
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Buka panel putar-otomatis
 urlbar-persistent-storage-notification-anchor =
@@ -535,6 +539,10 @@ pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. 
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Sebagian dari laman ini mogok. </strong>Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Sebagian dari laman ini mogok. Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
 crashed-subframe-learnmore-link =
     .value = Pelajari Lebih Lanjut
 crashed-subframe-submit =
@@ -718,6 +726,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Jangan tampilkan pesan ini saat pop-up diblokir
     .accesskey = J
+edit-popup-settings =
+    .label = Kelola setelan pop-up…
+    .accesskey = p
 picture-in-picture-hide-toggle =
     .label = Sembunyikan Sakelar Gambar-dalam-Gambar
     .accesskey = S
@@ -725,6 +736,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Pindahkan Tombol Pengalih Gambar-dalam-Gambar ke Sisi Kanan
+    .accesskey = a
+picture-in-picture-move-toggle-left =
+    .label = Pindahkan Tombol Pengalih Gambar-dalam-Gambar ke Sisi Kiri
+    .accesskey = i
 
 ##
 
@@ -771,4 +788,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Buka tab sebelumnya?</strong> Anda dapat memulihkan sesi sebelumnya dari menu aplikasi { -brand-short-name } <img data-l10n-name="icon"/>, di bawah menu Riwayat.
 restore-session-startup-suggestion-button = Tunjukkan caranya
