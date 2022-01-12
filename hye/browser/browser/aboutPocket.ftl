@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Սխալ՝ { -pocket-brand-name }-ում պա
 pocket-panel-saved-error-tag-length = Պիտակը սահմանափակուած է 25 գրանշանով
 pocket-panel-saved-error-only-links = Միայն յղումները կարող են պահուել
 pocket-panel-saved-error-not-saved = Էջը չի պահպանուել
+pocket-panel-saved-error-no-internet = Հարկաւոր է միանալ համացանցին { -pocket-brand-name } ֊ում պահում իրականացնելու համար: Վերականգնէք հասանելիութիւնը համացանցին եւ փորձէք նորից։
 pocket-panel-saved-page-removed = Էջը հեռացուած է
 pocket-panel-saved-page-saved = Պահպանուած է { -pocket-brand-name }-ում
 pocket-panel-saved-processing-remove = Էջը հեռացուում է…
@@ -42,4 +43,5 @@ pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում
 
 pocket-panel-home-my-list = Իմ ցուցակը
 pocket-panel-home-welcome-back = Բարի վերադարձ
+pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
 pocket-panel-home-discover-more = Բացայայտել աւելին
