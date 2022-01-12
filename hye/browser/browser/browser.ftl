@@ -213,6 +213,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Աւելացնել էջանիշ
+bookmarks-edit-bookmark = Խմբագրել էջանիշը
 bookmark-panel-cancel =
     .label = Չեղարկել
     .accesskey = C
@@ -228,6 +230,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանուում է
     .accesskey = S
+bookmark-panel-save-button =
+    .label = Պահպանել
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -267,6 +271,7 @@ identity-https-only-info-turn-off2 = Եթե էջը թուում է կոտրու�
 identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
 identity-permissions-storage-access-header = Միջկայքային նշոցիկներ
 identity-permissions-storage-access-hint = Հետեւեալ կողմերը կարող են օգտագործել միջկայքային նշոցիկներ եւ կայքային տուեալներ, մինչ դուք կայքում էք։
+identity-permissions-storage-access-learn-more = Իմանալ աւելին
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
 identity-clear-site-data =
     .label = Ջնջել նշոցիկների եւ կայքի տվեալները…
@@ -324,6 +329,12 @@ browser-tab-audio-pip = ՆԿԱՐ֊ՆԿԱՐՈՒՄ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] Ձայնազրկել ներդիրը
+        [one] Ձայնազրկել { $count }  ներդիրները
+       *[other] Ձայնազրկել { $count } ներդիրները
+    }
 
 ## Bookmarks toolbar items
 
@@ -621,6 +632,13 @@ picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -660,3 +678,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
+
+## Infobar shown at startup to suggest session-restore
+
