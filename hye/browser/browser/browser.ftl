@@ -502,6 +502,8 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 ## Subframe crash notification
 
 crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափանուեց։ </strong> Խնդրի մասին { -brand-product-name }֊ին տեղեկացնելու եւ արագ լուծելու համար ուղարկէք զեկուցում։
+crashed-subframe-learnmore-link =
+    .value = Իմանալ աւելին
 crashed-subframe-submit =
     .label = Ուղարկէք զեկուցում
     .accesskey = Ո
@@ -586,6 +588,15 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Կարգաւորումներ
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Բացել կարգաւորումները ({ $shortcut })
+           *[other] Բացել կարգաւորումները
+        }
 
 ## More items
 
@@ -620,18 +631,31 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանիւթ կամ տեսանիւթ աւգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի աւգտագործումը։
+eme-notifications-drm-content-playing-manage = Կառավարել կարգաւորումները
+eme-notifications-drm-content-playing-dismiss = Հեռացնել
 
 ## Password save/update panel
 
+panel-save-update-username = Աւգտանուն
+panel-save-update-password = Գաղտնաբառ
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Հեռացնե՞լ { $name }-ը
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Կառավարել հաշիւը
+remote-tabs-sync-now = Համաժամեցնել հիմա
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Աւելին…
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
 
