@@ -114,3 +114,4 @@ policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
 policy-UserMessaging = Jangan tampilkan pesan tertentu kepada pengguna.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
+policy-Windows10SSO = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah.

@@ -746,7 +746,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
 forms-master-pw-fips-desc = Sandi Gagal Diubah
+forms-windows-sso =
+    .label = Izinkan sistem masuk tunggal Windows untuk akun Microsoft, kantor, dan sekolah
 forms-windows-sso-learn-more-link = Pelajari lebih lanjut
+forms-windows-sso-desc = Kelola akun di pengaturan perangkat Anda
 
 ## OS Authentication dialog
 
