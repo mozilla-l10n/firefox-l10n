@@ -24,7 +24,9 @@ about-private-browsing-info-description = { -brand-short-name }֊ը մաքրու
 about-private-browsing-need-more-privacy = Գաղտնի դիտարկման կարիք ունէ՞ք
 about-private-browsing-turn-on-vpn = Փորձէք { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = { -brand-short-name } -ը ջնջում է որոնման պատմութիւնը և փնտրուած էջերը բոլոր գաղտնի պատուհանների փակումից յետոյ։ Սա անանուն աշխատակերպը չէ։
+about-private-browsing-info-description-simplified = { -brand-short-name }-ը  ջնջում է որոնման պատմութիւնը և փնտրուած էջերը բոլոր գաղտնի պատուհանների փակումից յետոյ։ Սա անանուն աշխատակերպը չէ։
 about-private-browsing-learn-more-link = Իմանալ աւելին
+about-private-browsing-hide-activity = Թաքցնել ծաւալած գործունեութիւնն և տեղակայման վայրը զննարկիչով աշխատելու ամբողջ ընթացքում:
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

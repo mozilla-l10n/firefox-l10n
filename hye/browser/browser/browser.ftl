@@ -115,7 +115,7 @@ urlbar-tabtosearch-onboard = Ընտրէք այս դիւրանցումը, որպ�
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = Էջանիշներ
+urlbar-search-mode-bookmarks = Էջանիշեր
 urlbar-search-mode-tabs = Ներդիրներ
 urlbar-search-mode-history = Պատմութիւն
 
@@ -205,7 +205,7 @@ search-one-offs-add-engine-menu =
 ##    bookmarks).
 
 search-one-offs-bookmarks =
-    .tooltiptext = Էջանիշներ ({ $restrict })
+    .tooltiptext = Էջանիշեր ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
@@ -345,7 +345,22 @@ bookmarks-toolbar-empty-message = Արագ մուտքի համար տեղադր�
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Տեսախցիկ․
+    .accesskey = Տ
+popup-select-camera-icon =
+    .tooltiptext = Տեսախցիկ
+popup-select-microphone-device =
+    .value = Խաւսափող
+    .accesskey = Խ
+popup-select-microphone-icon =
+    .tooltiptext = Խաւսափող
+popup-select-speaker-icon =
+    .tooltiptext = Բարձրախաւսներ
 popup-all-windows-shared = Ձեր եկրանի բոլոր տեսանելի պատուհանները համաւգտագործուելու են։
+popup-screen-sharing-block =
+    .label = Արգելափակել
+    .accesskey = Ա
 
 ## WebRTC window or screen share tab switch warning
 
@@ -449,6 +464,13 @@ urlbar-result-action-tabtosearch-web = Փնտրել { $engine }֊ով անմիջ
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում անմիջապէս հասցէգաւտուց
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Պատճէնել
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
