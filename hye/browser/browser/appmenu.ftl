@@ -54,6 +54,8 @@ appmenuitem-fullscreen =
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Միացրէք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից Ձեր ներդիրների ցանկը։
+appmenu-remote-tabs-opensettings =
+    .label = Կարգաւորումներ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել Ձեր այլ սարքերի ներդիրները։
@@ -61,7 +63,13 @@ appmenu-remote-tabs-connectdevice =
     .label = Կապակցել այլ սարքի
 appmenu-remote-tabs-welcome = Դիտել Ձեր միւս սարքերի ներդիրների ցուցակը։
 appmenu-remote-tabs-unverified = Ձեր հաշիւը պէտք է ստուգուի։
+appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել հիմա
 appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
+appmenuitem-fxa-manage-account = Հաշուի կառավարում
+appmenu-fxa-signed-in-label = Մուտք գործել
+appmenu-fxa-setup-sync =
+    .label = Միացնել համաժամեցումը…
+appmenu-fxa-show-more-tabs = Ցուցադրել այղ ներդիրներ․․․
 appmenuitem-save-page =
     .label = Պահպանել էջը որպէս…
 
@@ -81,6 +89,12 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Հատկագրող
     .tooltiptext = Գրառել իրականացման հատկագիրը
+profiler-popup-button-recording =
+    .label = Յատկագրող
+    .tooltiptext = Յատկագրողը ձայնագրում է հաշիւը
+profiler-popup-button-capturing =
+    .label = Յատկագրող
+    .tooltiptext = Յատկագրողը նկարահանում է հաշիւը
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
@@ -131,6 +145,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Ցանցային ծրագրաւորող
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Գծապատկերներ
 
 ## History panel
 
