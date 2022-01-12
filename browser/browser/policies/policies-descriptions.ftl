@@ -55,6 +55,8 @@ policy-DontCheckDefaultBrowser = Slökkva á sjálfgefinni athugun um aðalvafra
 policy-DownloadDirectory = Stilltu og læstu möppu fyrir niðurhal.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Virkja eða slökkva á efnisútilokun (Content Blocking) og mögulega læsa henni.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlunarviðbótum (Encrypted Media Extensions) og mögulega læsa þeim.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -63,24 +65,34 @@ policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
 policy-FirefoxHome = Stilla Firefox heimasvæðið.
 policy-FlashPlugin = Leyfa eða hafna notkun Flash-tengiforritsins.
+policy-Handlers = Stilla meðhöndlun með sjálfgefnum forritum.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stilla og loka mögulega heimsíðu.
 policy-InstallAddonsPermission = Leyfa tilteknum vefsvæðum að setja upp viðbætur.
+policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku notandasniði fyrir hverja uppsetningu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Virkja sjálfgefna stillingu á eldri SameSite-hegðun fyrir vefkökur.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Fara aftur í eldri SameSite-hegðun fyrir vefkökur á tiltekum vefsvæðum.
 
 ##
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæði að tengja í staðbundnar skrár.
+policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
+policy-PrimaryPassword = Krefjast eða koma í veg fyrir notkun aðallykilorðs.
 policy-NetworkPrediction = Virkja eða slökkva forsögn nets (DNS prefetching).
 policy-NewTabPage = Virkja eða slökkva á nýju flipasíðunni.
 policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi { -brand-short-name } og frá greindum bókamerkjum (flestar heimsóknir, nýleg meki) Ath. að þessi stefna hefur aðeins áhrif ef það er notað áður en sniðið er notað fyrst.
 policy-OfferToSaveLogins = Skoðaðu spurningu um að geyma aðgangsupplýsingar með { -brand-short-name }. Gildin true og false eru bæði gild.
+policy-OfferToSaveLoginsDefault = Setja sjálfgefið gildi um að leyfa { -brand-short-name } að bjóða upp á að muna vistaðar innskráningar og lykilorð. Bæði sönn og ósönn gildi eru samþykkt.
 policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva á opnun síðunnar.
 policy-OverridePostUpdatePage = Setja aðra síðu í stað "Hvað er nýtt"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
+policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
 policy-PopupBlocking = Leyfa tilteknum vefsvæðum að birta sprettglugga sjálfgefið.
 policy-Preferences = Stilltu og læstu gildið fyrir undirhóp af stillingum.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.
@@ -95,6 +107,8 @@ policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
 policy-ShowHomeButton = Sýna heimahnappinn á verkfæraslánni.
 policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
+policy-SupportMenu = Bæta sérsniðinni færslu fyrir aðstoð í hjálparvalmyndina.
+policy-UserMessaging = Ekki sýna notandanum ákveðin skilaboð.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsóknir á vefsvæði. Sjá hjálparskjöl fyrir frekari upplýsingar um sniðið.
 policy-Windows10SSO = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga.

@@ -29,7 +29,7 @@ options-context-inspector = Inspector
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Show Browser Styles
 options-show-user-agent-styles-tooltip =
-    .title = Turning this on will show default styles that are loaded by the browser.
+    .title = Að kveikja á þessu mun birta sjálfgefna stíla sem vafrinn hleður inn.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Truncate DOM attributes
 options-collapse-attrs-tooltip =

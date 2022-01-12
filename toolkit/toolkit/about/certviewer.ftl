@@ -19,6 +19,7 @@ certificate-viewer-tab-title = Skilríki fyrir { $firstCertName }
 certificate-viewer-country = Land
 certificate-viewer-signature-algorithm = Undirritunarreiknirit
 certificate-viewer-signature-scheme = Undirritunarskema
+certificate-viewer-timestamp = Tímamerki
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Sækja

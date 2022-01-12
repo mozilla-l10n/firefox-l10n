@@ -55,6 +55,9 @@ app-basics-build-config = Smíð stillingar
 app-basics-user-agent = Auðkenni forrits
 app-basics-os = Stýrikerfi
 app-basics-os-theme = Þema stýrikerfis
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta-umbreytt
 app-basics-memory-use = Notað minni
 app-basics-performance = Afköst
 app-basics-service-workers = Skráðir Service Workers
@@ -343,5 +346,6 @@ support-printing-prefs-value = Gildi
 support-remote-experiments-title = Fjartilraunir
 support-remote-experiments-name = Heiti
 support-remote-experiments-branch = Grein tilraunar
+support-remote-experiments-see-about-studies = Skoðaðu <a data-l10n-name="support-about-studies-link">about:studies</a> til að fá frekari upplýsingar, þar á meðal hvernig á að slökkva á einstökum tilraunum eða slökkva á því að { -brand-short-name } geti í framtíðinni keyrt tilteknar tegundir tilrauna.
 support-remote-features-name = Heiti
 support-remote-features-status = Staða
