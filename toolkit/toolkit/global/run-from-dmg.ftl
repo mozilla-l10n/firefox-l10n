@@ -14,8 +14,14 @@ prompt-to-install-no-button = Jangan Instal
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-title = Instalasi { -brand-short-name } gagal
+install-failed-message = Instalasi { -brand-short-name } gagal, tetapi akan terus berjalan
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
+prompt-to-launch-existing-app-title = Buka aplikasi { -brand-short-name } yang ada?
+prompt-to-launch-existing-app-message = Anda telah menginstal { -brand-short-name }. Gunakan aplikasi yang terinstal untuk tetap mendapat pembaruan dan mencegah hilangnya data.
+prompt-to-launch-existing-app-yes-button = Buka yang ada
+prompt-to-launch-existing-app-no-button = Tidak, terima kasih
