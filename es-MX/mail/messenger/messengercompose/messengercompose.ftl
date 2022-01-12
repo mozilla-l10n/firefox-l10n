@@ -111,13 +111,26 @@ show-cc-row-main-menuitem =
 show-cc-row-extra-menuitem =
     .label = Cc
     .accesskey = C
+bcc-address-row-label =
+    .value = Cco
 #   $key (String) - the shortcut key for this field
 show-bcc-row-main-menuitem =
     .label = Campo Cco
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Cco
+    .accesskey = B
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Cco
+    .title = Mostrar campo Cco ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 extra-address-rows-menu-button =
     .title = Otros campos de direcciones para mostrar
+many-public-recipients-bcc =
+    .label = Utiliza Cco en su lugar
+    .accesskey = U
 many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
     .accesskey = M
