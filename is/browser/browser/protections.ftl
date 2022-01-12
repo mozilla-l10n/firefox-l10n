@@ -54,7 +54,7 @@ protections-close-button2 =
     .title = Loka
 mobile-app-title = Loka fyrir auglýsingarekjara í fleiri tækjum
 mobile-app-card-content = Notaðu farsímavafrann með innbyggðri vörn gegn auglýsingarakningu.
-mobile-app-links = { -brand-product-name } vafri fyrir <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link ">iOS</a>
+mobile-app-links = { -brand-product-name } vafri fyrir <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Gleymdu aldrei lykilorði aftur
 lockwise-title-logged-in2 = Lykilorðaumsýsla
 lockwise-header-content = { -lockwise-brand-name } geymir lykilorðin þín á öruggan hátt í vafranum þínum.
