@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Առաջարկուող յատկութիւն
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչո՞ւ եմ ես սա տեսնում
-
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Աւելացնել հիմա
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխաւորուող կարգաւորումները
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխաւորութիւնները
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Իմանալ աւելին
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }-ի կողմից
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխաւորութիւն
 cfr-doorhanger-extension-notification2 = Երաշխաւորութիւն
     .tooltiptext = Ընդլայնման երաշխաւորութիւն
     .a11y-announcement = Հասանելի ընդլայնման երաշխաւորութիւն
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Երաշխաւորութիւն
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } աւգտատէրեր
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք Ձեր էջանիշերը ամենուր։
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Իմանալ աւելին
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Նոր հատկութիւն․
-
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
-
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -127,24 +94,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Փակել
     .accesskey = C
 
@@ -152,6 +101,8 @@ cfr-doorhanger-milestone-close-button = Փակել
 
 cfr-doorhanger-doh-body = Ձեր գաղտնիութիւնը կարեւոր է։ { -brand-short-name }֊ը որքան հնարաւոր է, այժմ ապահով ուղղորդում է ձեր DNS հարցումները գործընկեր ծառայութեանը, որպէսզի պաշտպանի ձեզ, երբ համացանցում էք։
 cfr-doorhanger-doh-header = Առաւել անվտանգ, գաղտնագրուած DNS ստուգումներ
+cfr-doorhanger-doh-primary-button-2 = Լաւ
+    .accesskey = Լ
 cfr-doorhanger-doh-secondary-button = Անջատել
     .accesskey = Ա
 
@@ -164,23 +115,22 @@ cfr-doorhanger-fission-primary-button = Բարի, հասկացայ
 cfr-doorhanger-fission-secondary-button = Իմանալ աւելին
     .accesskey = Ի
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
+
+
+## Spotlight modal shared strings
+
+spotlight-learn-more-collapsed = Իմանալ աւելին
+    .title = Ընդարձակեք՝ գործառոյթի մասին աւելին իմանալու համար
+spotlight-learn-more-expanded = Իմանալ աւելին
+    .title = Փակել
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
+
+
+## Total Cookie Protection Rollout
 

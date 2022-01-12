@@ -8,6 +8,11 @@ bookmark-overlay-name-2 =
 bookmark-overlay-url =
     .value = URL
     .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = Տեղադրութիւն
+    .accesskey = Տ
 bookmark-overlay-choose =
     .label = Ընտրել…
 bookmark-overlay-folders-expander =
@@ -17,9 +22,15 @@ bookmark-overlay-folders-expander =
 bookmark-overlay-new-folder-button =
     .label = Նոր թղթապանակ
     .accesskey = o
+bookmark-overlay-tags-2 =
+    .value = Պիտակներ
+    .accesskey = Պ
 bookmark-overlay-tags-empty-description =
     .placeholder = Առանձնացնել կցապիտակները ստորակետներով
 bookmark-overlay-tags-expander =
     .tooltiptext = Ցուցադրել բոլոր Պիտակները
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Թաքցնել
+bookmark-overlay-keyword-2 =
+    .value = Բանալի բառ
+    .accesskey = Բ

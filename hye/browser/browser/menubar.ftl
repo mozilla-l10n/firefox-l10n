@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Նախընտրանքներ
 menu-application-services =
     .label = Ծառայութիւններ
 menu-application-hide-this =
@@ -36,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Փակել { -brand-shorter-name }
-
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = A
@@ -91,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Յղումը ուղարկել էլ֊փոստով…
     .accesskey = E
+menu-file-share-url =
+    .label = Կիսուել
+    .accesskey = Կ
 menu-file-print-setup =
     .label = Էջի կարգաւորումներ…
     .accesskey = u
@@ -112,6 +113,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Խմբագրել
     .accesskey = E
+menu-edit-find-in-page =
+    .label = Փնտրել էջում…
+    .accesskey = Փ
 menu-edit-find-again =
     .label = Կրկին որոնել
     .accesskey = g
@@ -202,7 +206,6 @@ menu-history-undo-menu =
     .label = Վերջին փակուած ներդիրները
 menu-history-undo-window-menu =
     .label = Վերջին փակուած պատուհանները
-
 menu-history-reopen-all-tabs = Վերաբացել բոլոր ներդիրները
 menu-history-reopen-all-windows = Վերաբացել բոլոր պատուհանները
 
@@ -211,6 +214,8 @@ menu-history-reopen-all-windows = Վերաբացել բոլոր պատուհան
 menu-bookmarks-menu =
     .label = Էջանիշներ
     .accesskey = B
+menu-bookmarks-manage =
+    .label = Կառավարել Էջանշերը
 menu-bookmark-edit =
     .label = Խմբագրել այս էջանիշը
 menu-bookmarks-all-tabs =
@@ -230,6 +235,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Ներբեռնումներ
     .accesskey = D
+menu-tools-fxa-sign-in2 =
+    .label = Մուտք գործել
+    .accesskey = զ
 menu-tools-sync-now =
     .label = Համաժամեցնել հիմա
     .accesskey = S
@@ -242,6 +250,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Տեղեկութիւն էջի մասին
     .accesskey = I
+menu-settings =
+    .label = Կարգաւորումներ
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Կ
+           *[other] ծ
+        }
 menu-tools-layout-debugger =
     .label = Դասաւորութեան վրիպազերծում
     .accesskey = L
@@ -254,15 +269,6 @@ menu-window-bring-all-to-front =
     .label = Բոլորն առաջ բերել
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
