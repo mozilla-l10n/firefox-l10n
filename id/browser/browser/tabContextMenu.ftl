@@ -95,6 +95,13 @@ tab-context-close-tabs =
            *[other] Tutup Tab
         }
     .accesskey = T
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tutup Tab
+           *[other] Tutup { $tabCount } Tab
+        }
+    .accesskey = T
 tab-context-move-tabs =
     .label =
         { $tabCount ->

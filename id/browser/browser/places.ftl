@@ -79,6 +79,16 @@ places-remove-folder =
            *[other] Hapus Folder
         }
     .accesskey = H
+places-edit-folder2 =
+    .label = Edit Folder…
+    .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Hapus Folder
+           *[other] Hapus Folder
+        }
+    .accesskey = H
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Markah yang dikelola
@@ -97,9 +107,26 @@ places-remove-bookmark =
            *[other] Hapus Markah
         }
     .accesskey = H
+places-show-in-folder =
+    .label = Tampilkan di Folder
+    .accesskey = F
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Hapus Markah
+           *[other] Hapus Markah
+        }
+    .accesskey = H
 places-manage-bookmarks =
     .label = Kelola Markah
     .accesskey = K
+places-forget-about-this-site-confirmation-title = Lupakan situs ini
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Tindakan ini akan menghapus semua data yang terkait dengan { $hostOrBaseDomain } termasuk riwayat, sandi, kuki, tembolok, dan preferensi konten. Yakin ingin melanjutkan?
+places-forget-about-this-site-forget = Lupakan
 places-library =
     .title = Pustaka
     .style = width:700px; height:500px;
