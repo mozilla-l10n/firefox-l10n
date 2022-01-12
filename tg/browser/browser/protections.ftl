@@ -49,6 +49,7 @@ protections-close-button2 =
     .aria-label = Пӯшидан
     .title = Пӯшидан
 mobile-app-title = Васоити пайгирии рекламавиро дар якчанд дастгоҳ манъ кунед
+mobile-app-card-content = Браузери мобилиро бо муҳофизати дарунсхот бар зидди васоити пайгирии рекламавӣ истифода баред.
 mobile-app-links = Браузери { -brand-product-name } барои дастгоҳҳои <a data-l10n-name="android-mobile-inline-link">Android</a> ва <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ниҳонвожаи худро дигар фаромӯш накунед
 lockwise-title-logged-in2 = Идоракунии ниҳонвожаҳо
