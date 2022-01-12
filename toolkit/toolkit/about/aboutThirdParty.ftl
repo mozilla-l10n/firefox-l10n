@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-page-title = Informasi Modul Pihak Ketiga
+third-party-section-title = Daftar modul pihak ketiga di { -brand-short-name }
+third-party-intro = Laman ini menampilkan modul pihak ketiga yang disertakan ke { -brand-short-name } Anda. Semua modul yang tidak ditandatangani Microsoft atau { -vendor-short-name } dianggap sebagai modul pihak ketiga.
 third-party-message-empty = Tidak ada modul pihak ketiga yang terdeteksi.
 third-party-message-no-duration = Tidak direkam
 third-party-detail-version = Versi berkas
