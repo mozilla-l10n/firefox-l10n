@@ -178,10 +178,12 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Pengembang Web
-profiler-popup-presets-firefox-platform-label =
-    .label = Platform Firefox
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-networking-label =
+    .label = Jaringan
+profiler-popup-presets-custom-label =
+    .label = Ubahan
 
 ## History panel
 

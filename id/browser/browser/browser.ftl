@@ -509,6 +509,12 @@ urlbar-result-action-search-tabs = Cari Tab
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Saran { $engine }
 
 ## Full Screen and Pointer Lock UI
 
