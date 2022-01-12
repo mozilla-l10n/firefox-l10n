@@ -8,6 +8,14 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Eliminar el campo { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } con una dirección, usa la tecla de flecha izquierda para enfocarte en ella.
+       *[other] { $type } con { $count } direcciones, usa la tecla de flecha izquierda para enfocarte en ellas.
+    }
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -41,6 +49,10 @@ ctrl-cmd-shift-pretty-prefix =
     }
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Panel de adjuntos
+    .accesskey = e
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
 toolbar-button-add-attachment =
     .label = Adjuntar
     .tooltiptext = Agregar un adjunto ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
@@ -89,6 +101,8 @@ to-compose-address-row-label =
     .value = Para
 cc-compose-address-row-label =
     .value = Cc
+bcc-compose-address-row-label =
+    .value = Cco
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Campo { bcc-compose-address-row-label.value }
