@@ -150,6 +150,7 @@ media-device-format = Snið
 media-device-channels = Rásir
 media-device-rate = Hraði
 media-device-latency = Biðtími
+media-capabilities-title = Margmiðlunarhæfileikar
 
 ##
 

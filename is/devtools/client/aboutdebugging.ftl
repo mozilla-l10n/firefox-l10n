@@ -168,7 +168,7 @@ about-debugging-connection-prompt-disable-button = Slökkva á tengingarkvaðnin
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
-about-debugging-collapse-expand-debug-targets = Fella saman/afþjappa
+about-debugging-collapse-expand-debug-targets = Fella saman/Fletta út
 
 # Debug Targets strings
 
