@@ -23,6 +23,38 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP võtme loomine
+openpgp-generate-key-info = <b>Võtme genereerimine võib aega võtta mõned minutid.</b> Genereerimise ajal ära sulge rakendust. Aktiivne veebilehitsemine või intensiivselt salvestusandmekandjate kasutamine võtme genereerimise ajal aitab täita juhuslikkuse kogumit ning protsessi kiirendada. Sind teavitatakse genereerimise protsessi lõppemisest.
+openpgp-keygen-expiry-title = Võtme kehtivusaeg
+openpgp-keygen-expiry-description = Määra loodava võtme kehtivusaeg. Seda aega on hiljem võimalik vajadusel pikendada.
+radio-keygen-expiry =
+    .label = Võti aegub
+    .accesskey = V
+radio-keygen-no-expiry =
+    .label = Võti ei aegu
+    .accesskey = t
+openpgp-keygen-days-label =
+    .label = päeva pärast
+openpgp-keygen-months-label =
+    .label = kuu pärast
+openpgp-keygen-years-label =
+    .label = aasta pärast
+openpgp-keygen-advanced-title = Täpsemad sätted
+openpgp-keygen-advanced-description = Halda oma OpenPGP võtme täpsemaid sätteid.
+openpgp-keygen-keytype =
+    .value = Võtme tüüp:
+    .accesskey = t
+openpgp-keygen-keysize =
+    .value = Võtme suurus:
+    .accesskey = u
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (elliptiline kõver)
+openpgp-keygen-button = Genereeri võti
+openpgp-keygen-progress-title = OpenPGP võtme genereerimine…
+openpgp-keygen-import-progress-title = OpenPGP võtmete importimine…
+openpgp-import-success = OpenPGP võtmed edukalt imporditud!
+openpgp-import-success-title = Importimise protsessi lõpetamine
 
 ## Import Key section
 
