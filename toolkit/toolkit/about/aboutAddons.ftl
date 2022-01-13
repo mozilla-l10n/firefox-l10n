@@ -229,6 +229,15 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Viðbætur og þemu eru eins og forrit fyrir vafrann þinn og þau gera þér
+    kleift vernda lykilorð, hlaða niður myndskeiðum, finna tilboð, loka fyrir 
+    pirrandi auglýsingar, breyta útliti vafrans þíns og margt fleira. Þessi litlu 
+    hugbúnaðarforrit eru oft þróuð af utanaðkomandi aðilum. Hér er úrval
+    sem { -brand-product-name } <a data-l10n-name="learn-more-trigger">mælir með</a> fyrir einstakt
+    öryggi, afköst og virkni.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
