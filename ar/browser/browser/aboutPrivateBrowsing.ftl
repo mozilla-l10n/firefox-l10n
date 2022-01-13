@@ -27,6 +27,9 @@ about-private-browsing-info-description-private-window = نافذة خاصة: ي
 about-private-browsing-info-description-simplified = يمسح { -brand-short-name } تأريخ البحث والتصفح عند إغلاق جميع النوافذ الخاصة، ولكن هذا لا يجعلك مجهول الهوية.
 about-private-browsing-learn-more-link = اطّلع على المزيد
 about-private-browsing-hide-activity = أخفِ نشاطك وموقعك أينما ذهبت
+about-private-browsing-get-privacy = احمِ خصوصيتك أينما تصفّحت
+about-private-browsing-hide-activity-1 = أخفِ نشاط التصفح ومكانك باستعمال { -mozilla-vpn-brand-name }. يمكنك بنقرة واحدة إنشاء اتصال آمن، حتى على الشبكات اللاسلكية العمومية.
+about-private-browsing-prominent-cta = احفظ خصوصيتك دومًا عبر { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

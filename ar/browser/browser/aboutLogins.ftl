@@ -60,6 +60,7 @@ about-logins-list-item-breach-icon =
     .title = موقع مسرّب بياناته
 about-logins-list-item-vulnerable-password-icon =
     .title = كلمة سر ضعيفة
+about-logins-list-section-breach = مواقع سُرّبت بياناتها
 about-logins-list-section-today = اليوم
 about-logins-list-section-yesterday = الأمس
 about-logins-list-section-week = آخر ٧ أيام
