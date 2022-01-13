@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Skýrsla fyrir { $addon-name }
 abuse-report-title-extension = Tilkynna þessa viðbót til { -vendor-short-name }
+abuse-report-title-sitepermission = Tilkynna heimildir fyrir vefsvæði þessarar viðbótar til { -vendor-short-name }
 abuse-report-title-theme = Tilkynna þetta þema til { -vendor-short-name }
 abuse-report-subtitle = Hvert er vandamálið?
 # Variables:
@@ -39,6 +40,7 @@ abuse-report-messagebar-submitting = Sendi inn skýrslu um <span data-l10n-name=
 abuse-report-messagebar-submitted = Þakka þér fyrir að senda inn skýrslu. Viltu fjarlægja <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Þakka þér fyrir að senda inn skýrslu.
 abuse-report-messagebar-removed-extension = Þakka þér fyrir að senda inn skýrslu. Viðbótin <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægð.
+abuse-report-messagebar-removed-sitepermission = Þakka þér fyrir að senda inn skýrslu. Viðbótin <span data-l10n-name="addon-name">{ $addon-name }</span> fyrir heimildir vefsvæða hefur verið fjarlægð.
 abuse-report-messagebar-removed-theme = Þakka þér fyrir að senda inn skýrslu. Þemað <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægt.
 abuse-report-messagebar-error = Villa kom upp þegar reynt var að senda inn skýrslu um <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Skýrslan um <span data-l10n-name="addon-name">{ $addon-name }</span> var ekki send inn því önnur skýrsla var send inn nýlega.

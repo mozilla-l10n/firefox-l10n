@@ -312,13 +312,26 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-async-pan-zoom = Ósamstillt Færa/Þysja
+fission-status-experiment-control = Gert óvirkt af tilraun
+fission-status-experiment-treatment = Gert virkt af tilraun
+fission-status-disabled-by-e10s-env = Gert óvirkt af kerfisumhverfi
+fission-status-enabled-by-env = Gert virkt af kerfisumhverfi
+fission-status-disabled-by-env = Gert óvirkt af kerfisumhverfi
+fission-status-disabled-by-safe-mode = Gert óvirkt af öruggum ham
+fission-status-enabled-by-default = Sjálfgefið virkt
+fission-status-disabled-by-default = Sjálfgefið óvirkt
+fission-status-enabled-by-user-pref = Virkjað af notanda
+fission-status-disabled-by-user-pref = Gert óvirkt af notanda
+fission-status-disabled-by-e10s-other = E10s óvirkt
+fission-status-enabled-by-rollout = Gert virkt af útfærslu í áföngum
+async-pan-zoom = Ósamstillt Hliðrun/Aðdráttur
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt
 touch-enabled = snertiskjár virkur
 drag-enabled = draga til flettistiku virk
 keyboard-enabled = lyklaborð virkt
 autoscroll-enabled = sjálfvirkt skrun virkjað
+zooming-enabled = mýkt klípa-aðdráttur virkt
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
