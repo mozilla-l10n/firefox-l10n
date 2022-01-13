@@ -12,14 +12,38 @@ certificate-viewer-error-title = Eitthvað fór úrskeiðis.
 
 certificate-viewer-algorithm = Reiknirit
 certificate-viewer-certificate-authority = Vottunarstöð skilríkja
+certificate-viewer-common-name = Almennt heiti
 certificate-viewer-email-address = Tölvupóstfang
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Skilríki fyrir { $firstCertName }
 certificate-viewer-country = Land
+certificate-viewer-ip-address = IP-vistfang
+certificate-viewer-method = Aðferð
+certificate-viewer-name = Nafn
+certificate-viewer-not-after = Ekki eftir
+certificate-viewer-not-before = Ekki fyrir
+certificate-viewer-organization = Fyrirtæki/Stofnun
+certificate-viewer-organizational-unit = Skipulagseining
+certificate-viewer-policy = Stefna
+certificate-viewer-protocol = Samskiptamáti
+certificate-viewer-purposes = Tilgangur
+certificate-viewer-unsupported = &lt;óstutt&gt;
+certificate-viewer-state-province = Ríki/Hérað
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Raðnúmer
 certificate-viewer-signature-algorithm = Undirritunarreiknirit
 certificate-viewer-signature-scheme = Undirritunarskema
 certificate-viewer-timestamp = Tímamerki
+certificate-viewer-value = Gildi
+certificate-viewer-version = Útgáfa
+certificate-viewer-issuer-name = Nafn útgefanda
+certificate-viewer-validity = Gildistími
+certificate-viewer-miscellaneous = Ýmislegt
+certificate-viewer-fingerprints = Fingraför
+certificate-viewer-key-usages = Notkun lykils
+certificate-viewer-certificate-policies = Vottunarstefna skilríkis
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Sækja

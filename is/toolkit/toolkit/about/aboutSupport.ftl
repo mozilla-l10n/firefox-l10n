@@ -65,6 +65,7 @@ app-basics-third-party = Einingar utanaðkomandi aðila
 app-basics-profiles = Notendur
 app-basics-launcher-process-status = Ræsiferli
 app-basics-multi-process-support = Margþráða gluggi
+app-basics-fission-support = Fission-gluggar (einangraðir)
 app-basics-remote-processes-count = Fjarvinnslur
 app-basics-enterprise-policies = Stefna fyrirtækisins
 app-basics-location-service-key-google = Google staðsetningarlykill
