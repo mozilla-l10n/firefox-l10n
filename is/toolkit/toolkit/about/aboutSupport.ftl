@@ -60,7 +60,7 @@ app-basics-os-theme = Þema stýrikerfis
 app-basics-rosetta = Rosetta-umbreytt
 app-basics-memory-use = Notað minni
 app-basics-performance = Afköst
-app-basics-service-workers = Skráðir Service Workers
+app-basics-service-workers = Skráð Service Workers þjónustuferli
 app-basics-third-party = Einingar utanaðkomandi aðila
 app-basics-profiles = Notendur
 app-basics-launcher-process-status = Ræsiferli
@@ -151,6 +151,8 @@ media-device-channels = Rásir
 media-device-rate = Hraði
 media-device-latency = Biðtími
 media-capabilities-title = Margmiðlunarhæfileikar
+# List all the entries of the database.
+media-capabilities-enumerate = Númera gagnagrunn
 
 ##
 
@@ -173,6 +175,7 @@ intl-regional-prefs = Svæðisstillingar
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Fjarkembiforrit (Chromium Protocol)
 remote-debugging-accepting-connections = Samþykki tengingar
 remote-debugging-url = Vefslóð
 
@@ -292,6 +295,7 @@ can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
+content-win32k-lockdown-state = Win32k-læsingarástand (Lockdown State) fyrir efnisferli
 sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = margmiðlunar-tengiforrit
@@ -361,5 +365,6 @@ support-remote-experiments-title = Fjartilraunir
 support-remote-experiments-name = Heiti
 support-remote-experiments-branch = Grein tilraunar
 support-remote-experiments-see-about-studies = Skoðaðu <a data-l10n-name="support-about-studies-link">about:studies</a> til að fá frekari upplýsingar, þar á meðal hvernig á að slökkva á einstökum tilraunum eða slökkva á því að { -brand-short-name } geti í framtíðinni keyrt tilteknar tegundir tilrauna.
+support-remote-features-title = Fjartengingareiginleikar
 support-remote-features-name = Heiti
 support-remote-features-status = Staða

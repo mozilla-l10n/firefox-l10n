@@ -8,6 +8,9 @@
 ##
 
 process-type-web = Vefefni
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Forréttindi þarf fyrir 'about'-síður
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Efni sem Mozilla gefur forgang
@@ -20,6 +23,9 @@ process-type-weblargeallocation = Úthlutun mikils minnis
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Einangrað vefefni
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Einangruð þjónustuferli
 # process preallocated; may change to other types
 process-type-prealloc = Forúthlutað
 
