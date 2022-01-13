@@ -7,9 +7,7 @@ account-setup-tab-title = Nastavenie účtu
 ## Header
 
 account-setup-title = Nastavenie existujúcej e-mailovej adresy
-account-setup-description =
-    Ak chcete použiť svoju existujúcu e-mailovú adresu, vyplňte svoje prihlasovacie údaje.<br/>
-    { -brand-product-name } automaticky vyhľadá funkčnú a odporúčanú konfiguráciu servera.
+account-setup-description = Ak chcete použiť svoju aktuálnu e-mailovú adresu, vyplňte svoje prihlasovacie údaje.
 account-setup-secondary-description = { -brand-product-name } automaticky vyhľadá funkčnú a odporúčanú konfiguráciu servera.
 account-setup-success-title = Účet bol úspešne vytvorený
 account-setup-success-description = Teraz môžete tento účet používať v aplikácii { -brand-short-name }.
