@@ -27,6 +27,9 @@ about-private-browsing-info-description-private-window = { -brand-short-name } -
 about-private-browsing-info-description-simplified = { -brand-short-name }-ը  ջնջում է որոնման պատմութիւնը և փնտրուած էջերը բոլոր գաղտնի պատուհանների փակումից յետոյ։ Սա անանուն աշխատակերպը չէ։
 about-private-browsing-learn-more-link = Իմանալ աւելին
 about-private-browsing-hide-activity = Թաքցնել ծաւալած գործունեութիւնն և տեղակայման վայրը զննարկիչով աշխատելու ամբողջ ընթացքում:
+about-private-browsing-get-privacy = Ապահովել անվտանգութիւնը զննարկիչով աշխատանքի ամբողջ ընթացքում։
+about-private-browsing-hide-activity-1 = Թաքցնել զննարկիչով ծաւալած գործունեութիւնն ու տեղակայման վայրը { -mozilla-vpn-brand-name } ֊ի աւգնութեամբ։ Այն ստեղծուում է անվտանգ միացում, անգամ հանրային Wi-Fi-ի միացած լինելու դեպքում:
+about-private-browsing-prominent-cta = Անցնել գաղտնիութեան { -mozilla-vpn-brand-name } ֊ի հետ․
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

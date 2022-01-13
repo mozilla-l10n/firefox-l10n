@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Ներդիրի լիցքաթափում
 about-unloads-column-priority = Առաջնահերթութիւն
 about-unloads-column-last-accessed = Վերջին մուտքը
 about-unloads-column-memory = Յիշողութիւն
