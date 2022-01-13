@@ -10,9 +10,19 @@ key-wizard-button =
     .buttonlabelhelp = Mine tagasi
 key-wizard-warning = <b>Kui sul on olemas isiklik võti</b> selle e-posti aadressi jaoks, siis sa peaksid selle importima. Muul juhul puudub sul ligipääs oma arhiivis olevatele krüptitud kirjadele või sul pole võimalik lugeda sissetulevaid krüptitud kirju inimestelt, kes endiselt kasutavad sinu olemasolevat võtit.
 key-wizard-learn-more = Rohkem teavet
+radio-create-key =
+    .label = Loo uus OpenPGP võti
+    .accesskey = L
+radio-import-key =
+    .label = Impordi olemasoleva OpenPGP võti
+    .accesskey = I
+radio-gnupg-key =
+    .label = Kasuta oma välist võtit läbi GnuPG (nt kiipkaardilt)
+    .accesskey = K
 
 ## Generate key section
 
+openpgp-generate-key-title = OpenPGP võtme loomine
 
 ## Import Key section
 
