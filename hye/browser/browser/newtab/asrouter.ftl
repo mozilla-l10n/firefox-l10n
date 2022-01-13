@@ -131,6 +131,9 @@ spotlight-learn-more-expanded = Իմանալ աւելին
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = Ոչ հիմայ
+    .accesskey = ո
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = Ոչ հիմայ

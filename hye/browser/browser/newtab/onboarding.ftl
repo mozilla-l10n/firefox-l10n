@@ -94,6 +94,9 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-secondary-button-label = Ոչ հիմայ
+mr2-onboarding-colorway-secondary-button-label = Ոչ հիմայ
+mr1-onboarding-theme-secondary-button-label = Ոչ հիմայ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
