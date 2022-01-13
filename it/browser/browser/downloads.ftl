@@ -120,6 +120,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Cancella elenco download
     .accesskey = n
+downloads-cmd-delete-file =
+    .label = Elimina
+    .accesskey = E
 
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
