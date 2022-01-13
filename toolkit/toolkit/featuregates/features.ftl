@@ -6,4 +6,7 @@ experimental-features-media-avif-description = Með þennan eiginleika virkan, s
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax er sjálfgefið
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (einangrun vefsvæðis)
 experimental-features-fission-description = Fission (einangrun vefsvæðis) er tilraunaeiginleiki í { -brand-short-name } til að veita viðbótarlag af vörn gegn öryggisvillum. Með því að einangra hvet vefsvæði í sérstakt ferli, gerir Fission það erfiðara fyrir illgjörn vefsvæði að fá aðgang að upplýsingum af öðrum síðum sem þú heimsækir. Þetta er mikil breyting á uppbyggingu { -brand-short-name } og við myndum kunna að meta það að þú prófir og tilkynnir um vandamál sem þú gætir lent í. Fyrir frekari upplýsingar, skaltu skoða <a data-l10n-name="wiki">wiki</a>-síðurnar.
