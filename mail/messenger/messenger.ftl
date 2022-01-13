@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
 about-rights-notification-text = { -brand-short-name } је слободан и отворен софтвер који је изградила заједница више хиљада особа из целог света.
 
 ## Content tabs
@@ -34,6 +37,8 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Поставке
+appmenu-settings =
+    .label = Подешавања
 appmenu-addons-and-themes =
     .label = Додаци и теме
 appmenu-redirect-msg =
@@ -59,4 +64,7 @@ other-action-redirect-msg =
 
 
 ## no-reply handling
+
+
+## error messages
 
