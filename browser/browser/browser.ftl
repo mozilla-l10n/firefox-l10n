@@ -559,7 +559,7 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Stjórna bókamerkjum
+    .label = Sýsla með bókamerki
 bookmarks-recent-bookmarks-panel-subheader = Nýleg bókamerki
 bookmarks-toolbar-chevron =
     .tooltiptext = Sýna fleiri bókamerki

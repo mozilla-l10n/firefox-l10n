@@ -41,7 +41,7 @@ pocket-panel-signup-tagline-story-two = Skoðaðu í { -pocket-brand-name } á h
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Minn listi
+pocket-panel-home-my-list = Listinn minn
 pocket-panel-home-welcome-back = Velkomin aftur
 pocket-panel-home-paragraph = Þú getur notað { -pocket-brand-name } til að kanna og vista vefsíður, greinar, myndskeið, hlaðvörp eða til að komast aftur í það sem þú hefur verið að lesa.
 pocket-panel-home-explore-popular-topics = Skoða vinsæl efni

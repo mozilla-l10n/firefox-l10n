@@ -180,7 +180,7 @@ newtab-label-source-read-time = { $source } · { $timeToRead } mín
 
 newtab-section-menu-remove-section = Fjarlægja kafla
 newtab-section-menu-collapse-section = Fella kafla
-newtab-section-menu-expand-section = Stækka kafla
+newtab-section-menu-expand-section = Stækka hluta
 newtab-section-menu-manage-section = Stjórna kafla
 newtab-section-menu-manage-webext = Stjórna viðbót
 newtab-section-menu-add-topsite = Bæta við toppsíðu
