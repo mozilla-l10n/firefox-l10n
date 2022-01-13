@@ -320,6 +320,14 @@ about-logins-import-report-added =
         [one] <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Նոր մտից անուններն աւելացուած են </div>
        *[other] <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Նոր մտից անուններն աւելացուած են </div>
     }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Առկայ մուտքանունները թարմացուել են</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">կրկնաւրինակուած մուտքանուններ</div> <div data-l10n-name="not-imported">(ներածուած չէ)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count"> { $count } </div> <div data-l10n֊name="details"> Սխալներ </div> <div data-l10n-name="not-imported"> (ներածուած չէ) </div>
