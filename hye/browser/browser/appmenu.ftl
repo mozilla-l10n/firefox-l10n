@@ -6,6 +6,8 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = Գաղտնիութեան վահանակ
+appmenuitem-banner-update-available =
+    .label = Թարմացումը հասանելի է — ներբեռնէք հիմայ
 appmenuitem-new-tab =
     .label = Նոր ներդիր
 appmenuitem-new-window =

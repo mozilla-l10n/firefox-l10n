@@ -117,6 +117,8 @@ cfr-doorhanger-fission-secondary-button = Իմանալ աւելին
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-primary-button = Թարմացնել հիմայ
+    .accesskey = Թ
 
 ## Spotlight modal shared strings
 
