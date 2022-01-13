@@ -55,6 +55,7 @@ openpgp-keygen-progress-title = OpenPGP võtme genereerimine…
 openpgp-keygen-import-progress-title = OpenPGP võtmete importimine…
 openpgp-import-success = OpenPGP võtmed edukalt imporditud!
 openpgp-import-success-title = Importimise protsessi lõpetamine
+openpgp-import-success-description = Oma imporditud OpenPGP võtme e-posti krüptimiseks kasutama hakkamiseks sulge see dialoog ning ava selle valimiseks konto sätted.
 
 ## Import Key section
 
