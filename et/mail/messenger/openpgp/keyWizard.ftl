@@ -71,9 +71,16 @@ openpgp-keygen-short-expiry = Võti peab kehtima vähemalt ühe päeva.
 openpgp-keygen-ongoing = Võtme genereerimine juba käib!
 openpgp-keygen-error-core = OpenPGP põhiteenust pole võimalik käivitada
 openpgp-keygen-error-failed = OpenPGP võtme genereerimine ebaõnnestus ootamatult
+openpgp-keygen-abort-title = Kas katkestada võtme genereerimine?
+openpgp-keygen-abort = OpenPGP võtme genereerimine on praegu pooleli. Kas soovid kindlasti selle katkestada?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Kas genereerida identiteedi { $identity } jaoks avalik ja salajane võti?
 
 ## Import Key section
 
+openpgp-import-key-title = Olemasoleva isikliku OpenPGP võtme importimine
+openpgp-import-key-legend = Vali varem varundatud fail.
+openpgp-import-key-description = Võimalik on importida ka muu OpenPGP tarkvara poolt loodud isiklikke võtmeid.
 
 ## External Key section
 
