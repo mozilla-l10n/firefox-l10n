@@ -17,6 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Eyða notanda…
     .accesskey = E
+profile-selection-conflict-message = Annað eintak af { -brand-product-name } hefur gert breytingar á notandasniðum. Þú verður að endurræsa { -brand-short-name } áður en þú gerir fleiri breytingar.
 
 ## Messages used in the profile manager
 
