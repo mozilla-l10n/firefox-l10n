@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = أدر الملحقات المستخدمة
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = أدِر مشاركة السماعات الأخرى مع هذا الموقع
 urlbar-autoplay-notification-anchor =
     .tooltiptext = افتح لوحة التشغيل التلقائي
 urlbar-persistent-storage-notification-anchor =
@@ -192,6 +196,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = ‏{ $engineName } ‏({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = أضِف ”{ $engineName }“
+    .tooltiptext = أضِف محرك البحث ”{ $engineName }“
+    .aria-label = أضِف محرك البحث ”{ $engineName }“
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -384,6 +396,8 @@ popup-select-microphone-device =
     .accesskey = م
 popup-select-microphone-icon =
     .tooltiptext = الميكروفون
+popup-select-speaker-icon =
+    .tooltiptext = السماعات
 popup-all-windows-shared = ستُشارك كل النوافذ الظاهرة على شاشتك.
 popup-screen-sharing-block =
     .label = احجبه
@@ -735,6 +749,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = لا تعرض هذه الرسالة عند حجب النوافذ المنبثقة
     .accesskey = ت
+edit-popup-settings =
+    .label = أدِر إعدادات المنبثقات…
+    .accesskey = د
 picture-in-picture-hide-toggle =
     .label = أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة
     .accesskey = خ
@@ -742,6 +759,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = انقل زر تبديل وضع ”الڤِديوهات المعترِضة“ إلى اليمين
+    .accesskey = ن
+picture-in-picture-move-toggle-left =
+    .label = انقل زر تبديل وضع ”الڤِديوهات المعترِضة“ إلى اليسار
+    .accesskey = س
 
 ##
 
@@ -788,3 +811,5 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>أتريد فتح الألسنة الأخيرة؟</strong> يمكنك استعادة الجلسة السابقة من قائمة تطبيق { -brand-short-name } <img data-l10n-name="icon"/>، ضمن قائمة التأريخ.

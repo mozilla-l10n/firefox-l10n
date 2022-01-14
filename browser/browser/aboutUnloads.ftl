@@ -7,6 +7,9 @@
 ### feature.
 
 about-unloads-page-title = إلغاء تحميل الألسنة
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = راجِع <a data-l10n-name="doc-link">إلغاء تحميل الألسنة</a> للاطّلاع على المزيد بخصوص هذه الميزة والصفحة.
 about-unloads-last-updated = آخر تحديث: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = ألغِ التحميل
     .title = ألغِ تحميل اللسان ذو الأولوية العالية
