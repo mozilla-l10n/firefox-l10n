@@ -6,18 +6,32 @@ password-quality-meter = Gæðamæling lykilorðs
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = Breyta lykilorði
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Öryggistæki: { $tokenName }
 change-password-old = Núverandi lykilorð:
 change-password-new = Nýtt lykilorð:
 change-password-reenter = Nýtt lykilorð (aftur):
+pippki-failed-pw-change = Ekki hægt að breyta lykilorði.
+pippki-incorrect-pw = Þú slóst ekki inn rétt núverandi lykilorð. Reyndu aftur.
+pippki-pw-change-ok = Tókst að breyta lykilorði.
 pippki-pw-empty-warning = Geymdu lykilorðin þín og einkalyklar verða ekki vernduð.
+pippki-pw-erased-ok = Þú hefur eytt lykilorðinu þínu. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Aðvörun! Þú hefur ákveðið að nota ekki lykilorð. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = Þú ert núna í FIPS-ham. FIPS má ekki hafa tómt lykilorð.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Endurstilla aðallykilorð
+    .style = width: 40em
 reset-password-button-label =
     .label = Endursetja
+reset-primary-password-text = Ef þú endurstillir aðallykilorðið, þá muntu missa öll geymd vef- og póstlykilorð, öll skilríki, og alla einkalykla. Ertu viss um að þú viljir endurstilla aðallykilorðið þitt?
+pippki-reset-password-confirmation-title = Endurstilla aðallykilorð
+pippki-reset-password-confirmation-message = Aðallykilorðið þitt hefur verið endurstillt.
 
 ## Downloading cert dialog
 

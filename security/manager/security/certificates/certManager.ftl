@@ -27,6 +27,8 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert =
     .title = Eyða skilríki
     .style = width: 48em; height: 24em;
+certmgr-cert-host =
+    .label = Hýsilvél
 certmgr-cert-name =
     .label = Nafn skilríkis
 certmgr-cert-server =
@@ -119,6 +121,9 @@ delete-user-cert-title =
     .title = Eyða skilríkjum
 delete-user-cert-confirm = Ertu viss um að þú viljir eyða þessum skilríkjum?
 delete-user-cert-impact = Ef þú eyðir þínum eigin skilríkjum geturðu ekki lengur notað þau til að auðkenna sjálfan þig.
+delete-ssl-override-title =
+    .title = Eyða undantekningu skilríkja netþjóns
+delete-ssl-override-confirm = Ertu viss um að viljir eyða þessari undantekningu netþjóns?
 delete-ca-cert-title =
     .title = Eyða eða vantreysta CA skilríkjum
 delete-ca-cert-confirm = Þú hefur valið að eyða CA skilríkjum. Ef þetta er innbyggð skilríki mun allt traust verða fjarlægt, sem hefur sömu áhrif. Ertu viss um að þú viljir eyða eða vantreysta?
@@ -133,6 +138,8 @@ delete-email-cert-impact = Ef þú eyðir skilríki notanda, muntu ekki lengur g
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Skilríki með raðnúmer: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Senda ekkert skilríki fyrir biðlara
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Ekki geymt)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).

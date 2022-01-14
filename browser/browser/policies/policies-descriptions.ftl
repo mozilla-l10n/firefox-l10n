@@ -15,6 +15,7 @@ policy-AllowedDomainsForApps = Skilgreindu lén sem leyfður er aðgangur að Go
 policy-AppAutoUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á forriti.
 policy-AppUpdateURL = Stilla sérsniðna smáforrits uppfærslu slóð.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsíður sem styðja slíkt.
+policy-AutoLaunchProtocolsFromOrigins = Skilgreindu lista yfir ytri samskiptareglur sem hægt er að nota frá skráðum upphafsstöðum án þess að spyrja notandann álits.
 policy-BackgroundAppUpdate2 = Virkja eða slökkva á uppfærslum í bakgrunni.
 policy-BlockAboutAddons = Loka aðgangi við viðbótareftirlitið (um: viðbætur).
 policy-BlockAboutConfig = Loka aðgangi að about:config síðu.
@@ -80,6 +81,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Fara aftur í eldri Sa
 ##
 
 policy-LocalFileLinks = Leyfa tilteknum vefsvæði að tengja í staðbundnar skrár.
+policy-ManagedBookmarks = Stillir lista yfir bókamerki sem stjórnandi stýrir en sem notandinn getur ekki breytt.
 policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
 policy-PrimaryPassword = Krefjast eða koma í veg fyrir notkun aðallykilorðs.
 policy-NetworkPrediction = Virkja eða slökkva forsögn nets (DNS prefetching).
