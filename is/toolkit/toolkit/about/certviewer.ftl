@@ -6,17 +6,21 @@ certificate-viewer-certificate-section-title = Skilríki
 
 ## Error messages
 
+certificate-viewer-error-message = Við gátum ekki fundið upplýsingar um skilríkið eða að skilríkið er skemmt. Reyndu aftur.
 certificate-viewer-error-title = Eitthvað fór úrskeiðis.
 
 ## Certificate information labels
 
 certificate-viewer-algorithm = Reiknirit
 certificate-viewer-certificate-authority = Vottunarstöð skilríkja
+certificate-viewer-cipher-suite = Reiknirit dulritunar
 certificate-viewer-common-name = Almennt heiti
 certificate-viewer-email-address = Tölvupóstfang
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Skilríki fyrir { $firstCertName }
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Lögþing
 certificate-viewer-country = Land
 certificate-viewer-ip-address = IP-vistfang
 certificate-viewer-method = Aðferð
