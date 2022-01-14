@@ -15,7 +15,7 @@
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Incumbensa…">
 <!ENTITY lightning.menupopup.new.task.accesskey "I">
-<!ENTITY lightning.menupopup.new.calendar.label "Chalendar…">
+<!ENTITY lightning.menupopup.new.calendar.label "Chalender…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
