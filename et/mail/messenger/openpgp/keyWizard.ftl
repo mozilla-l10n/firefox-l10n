@@ -81,6 +81,25 @@ openpgp-key-confirm = Kas genereerida identiteedi { $identity } jaoks avalik ja 
 openpgp-import-key-title = Olemasoleva isikliku OpenPGP võtme importimine
 openpgp-import-key-legend = Vali varem varundatud fail.
 openpgp-import-key-description = Võimalik on importida ka muu OpenPGP tarkvara poolt loodud isiklikke võtmeid.
+openpgp-import-key-info = Muu tarkvara võib kirjeldada isiklikku võtit teiste terminitega, nagu oma võti, salajane võti, privaatne võti või võtmepaar.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird leidis ühe imporditava võtme.
+       *[other] Thunderbird leidis { $count } imporditavat võtit.
+    }
+openpgp-import-key-list-description = Määra isiklike võtmetena käsitletavad võtmed. Ainult võtmeid, mille oled loonud ise ja mis näitavad sinu identiteeti, peaks kasutama isiklike võtmetena. Seda sätet on võimalik hiljem võtme omaduste juures muuta.
+openpgp-import-key-list-caption = Isiklike võtmetena käsitletavaid võtmeid kuvatakse otspunktkrüptimise jaotises. Teised võtmed on nähtavad võtmehalduris.
+openpgp-passphrase-prompt-title = Parool on nõutud
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Palun sisesta järgmise võtme avamiseks parool: { $key }
+openpgp-import-key-button =
+    .label = Vali imporditav fail…
+    .accesskey = V
+import-key-file = Impordi OpenPGP võtmefail
+import-key-personal-checkbox =
+    .label = Seda võtit käsitletakse isikliku võtmena
+gnupg-file = GnuPG failid
 
 ## External Key section
 
