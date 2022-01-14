@@ -93,6 +93,7 @@ policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringun
 # PDF.js and PDF should not be translated
 policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
+policy-PictureInPicture = Virkja eða slökkva á mynd-í-mynd.
 policy-PopupBlocking = Leyfa tilteknum vefsvæðum að birta sprettglugga sjálfgefið.
 policy-Preferences = Stilltu og læstu gildið fyrir undirhóp af stillingum.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.
