@@ -38,20 +38,16 @@ menu-quit =
             [windows] خ
            *[other] غ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = أغلق { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = أغلق { -brand-shorter-name }
-
 menu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
@@ -84,6 +80,20 @@ menu-file-open-file =
 menu-file-close =
     .label = أغلق
     .accesskey = غ
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] أغلِق اللسان
+            [zero] أغلِق اللسان
+            [one] أغلِق اللسان
+            [two] أغلِق اللسانين
+            [few] أغلِق { $tabCount } ألسنة
+            [many] أغلِق { $tabCount } لسانًا
+           *[other] أغلِق { $tabCount } لسان
+        }
+    .accesskey = غ
 menu-file-close-window =
     .label = أغلق النافذة
     .accesskey = ن
@@ -93,6 +103,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = أرسل الرابط بالبريد…
     .accesskey = س
+menu-file-share-url =
+    .label = شارِك
+    .accesskey = ش
 menu-file-print-setup =
     .label = إعداد الصفحة…
     .accesskey = ع
@@ -168,6 +181,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = طراز صفحة بسيط
     .accesskey = ص
+menu-view-repair-text-encoding =
+    .label = أصلِح ترميز النص
+    .accesskey = ت
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.

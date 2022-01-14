@@ -130,9 +130,15 @@ cfr-doorhanger-fission-secondary-button = اطّلع على المزيد
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-header = حدّث { -brand-short-name } لتشغيل الڤِديو
+cfr-doorhanger-video-support-primary-button = حدّث الآن
+    .accesskey = ح
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = اطّلع على المزيد
+    .title = وسّع القسم للاطّلاع على المزيد بخصوص الميزة
+spotlight-learn-more-expanded = اطّلع على المزيد
+    .title = أغلِق
 
 ## VPN promotion dialog for public Wi-Fi users
 ##

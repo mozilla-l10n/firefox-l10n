@@ -187,6 +187,15 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [zero] لم يُنزّل الملف.
+        [one] لم يُنزّل الملف.
+        [two] لم يُنزّل الملفان.
+        [few] لم تُنزّل { $num } ملفات.
+        [many] لم يُنزّل { $num } ملفًا.
+       *[other] لم يُنزّل { $num } ملف.
+    }
 downloads-blocked-from-url = حُظرت التنزيلات من { $url }.
 downloads-blocked-download-detailed-info = حاول { $url } تنزيل ملفات عديدة تلقائيًا. قد يكون الموقع معطوبًا أو يحاول تخزين ملفات مزعجة على جهازك.
 
