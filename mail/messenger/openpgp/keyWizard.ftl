@@ -56,6 +56,21 @@ openpgp-keygen-import-progress-title = OpenPGP võtmete importimine…
 openpgp-import-success = OpenPGP võtmed edukalt imporditud!
 openpgp-import-success-title = Importimise protsessi lõpetamine
 openpgp-import-success-description = Oma imporditud OpenPGP võtme e-posti krüptimiseks kasutama hakkamiseks sulge see dialoog ning ava selle valimiseks konto sätted.
+openpgp-keygen-confirm =
+    .label = Kinnita
+openpgp-keygen-dismiss =
+    .label = Loobu
+openpgp-keygen-cancel =
+    .label = Katkesta genereerimine…
+openpgp-keygen-import-complete =
+    .label = Sulge
+    .accesskey = S
+openpgp-keygen-missing-username = Antud kontole ei ole määratud nime. Palun sisesta see konto sätetes väljale “Sinu nimi”.
+openpgp-keygen-long-expiry = Üle 100 aasta kehtivat võtit pole võimalik luua.
+openpgp-keygen-short-expiry = Võti peab kehtima vähemalt ühe päeva.
+openpgp-keygen-ongoing = Võtme genereerimine juba käib!
+openpgp-keygen-error-core = OpenPGP põhiteenust pole võimalik käivitada
+openpgp-keygen-error-failed = OpenPGP võtme genereerimine ebaõnnestus ootamatult
 
 ## Import Key section
 
