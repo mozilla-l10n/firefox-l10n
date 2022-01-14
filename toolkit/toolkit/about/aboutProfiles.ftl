@@ -8,6 +8,9 @@ profiles-create = Stofna nýjan notanda
 profiles-restart-title = Endurræsa
 profiles-restart-in-safe-mode = Endurræsa með viðbætur óvirkar…
 profiles-restart-normal = Endurræsa eðlilega…
+profiles-flush-fail-title = Breytingar ekki vistaðar
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Óvænt villa kom í veg fyrir að breytingarnar þínar hafi verið vistaðar.
 profiles-flush-restart-button = Endurræsa { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
