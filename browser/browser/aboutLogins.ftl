@@ -313,6 +313,15 @@ about-logins-import-dialog-items-no-change =
         [many] <span>وُجدت جلسات ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
        *[other] <span>وُجدت جلسات ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
     }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [zero] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [one] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [two] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [few] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [many] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+       *[other] <span>الأخطاء:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+    }
 about-logins-import-dialog-done = تمّ
 about-logins-import-dialog-error-title = عُطل أثناء الاستيراد
 about-logins-import-dialog-error-conflicting-values-title = قيم متعارضة متعدّدة لجلسة ولوج واحدة
@@ -349,6 +358,42 @@ about-logins-import-report-row-description-error-missing-field = خطأ: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي أُضيفت</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي أُضيفت</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">تم إضافة جلسات ولوج جديدة</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي أُضيفت</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي أُضيفت</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي أُضيفت</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي حُدّثت</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي حُدّثت</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي حُدّثت</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي حُدّثت</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي حُدّثت</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج التي حُدّثت</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج المتكرّرة</div> <div data-l10n-name="not-imported">(لم ُتستورد)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج المتكرّرة</div> <div data-l10n-name="not-imported">(لم ُتستورد)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج المتكرّرة</div> <div data-l10n-name="not-imported">(لم ُتستورد)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج المتكرّرة</div> <div data-l10n-name="not-imported">(لم ُتستورد)</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج المتكرّرة</div> <div data-l10n-name="not-imported">(لم ُتستورد)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">جلسات الولوج المتكرّرة</div> <div data-l10n-name="not-imported">(لم ُتستورد)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">الأخطاء</div> <div data-l10n-name="not-imported">(لم تُستورد)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">الأخطاء</div> <div data-l10n-name="not-imported">(لم تُستورد)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">الأخطاء</div> <div data-l10n-name="not-imported">(لم تُستورد)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">الأخطاء</div> <div data-l10n-name="not-imported">(لم تُستورد)</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">الأخطاء</div> <div data-l10n-name="not-imported">(لم تُستورد)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">الأخطاء</div> <div data-l10n-name="not-imported">(لم تُستورد)</div>
+    }
 
 ## Logins import report page
 
