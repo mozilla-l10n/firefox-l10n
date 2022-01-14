@@ -123,19 +123,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Saityno kūrėjams
 perftools-presets-web-developer-description = Rekomenduojamas nustatymas daugelio saityno programų derinimui, su nedidelėmis sąnaudomis.
-perftools-presets-firefox-platform-label = „Firefox“ platforma
-perftools-presets-firefox-platform-description = Rekomenduojamas nustatymas vidinės „Firefox“ platformos derinimui.
-perftools-presets-firefox-front-end-label = „Firefox“ front-end
-perftools-presets-firefox-front-end-description = Rekomenduojamas nustatymas vidinio „Firefox“ „front-end“ derinimui.
-perftools-presets-firefox-graphics-label = „Firefox“ grafika
-perftools-presets-firefox-graphics-description = Rekomenduojamas nustatymas „Firefox“ grafinio našumo tyrinėjimui.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Rekomenduojamas nustatymas „{ -brand-shorter-name }“ profiliavimui.
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Nustatymas „{ -brand-shorter-name }“ grafikos problemų diagnozavimui.
 perftools-presets-media-label = Medija
-perftools-presets-media-description = Rekomenduojamas nustatymas garso ir vaizdo problemų diagnozavimui.
 perftools-presets-media-description2 = Nustatymas „{ -brand-shorter-name }“ garso ir vaizdo problemų diagnozavimui.
+perftools-presets-networking-label = Tinklas
+perftools-presets-networking-description = Nustatymas „{ -brand-shorter-name }“ tinklo problemų diagnozavimui.
 perftools-presets-custom-label = Kitas
 
 ##
