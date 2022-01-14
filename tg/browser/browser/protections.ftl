@@ -68,6 +68,13 @@ protection-report-passwords-save-passwords-button = Нигоҳ доштани н
     .title = Нигоҳ доштани ниҳонвожаҳо
 protection-report-passwords-manage-passwords-button = Идоракунии ниҳонвожаҳо
     .title = Идоракунии ниҳонвожаҳо
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Эҳтимол, 1 ниҳонвожа ҳангоми аздастдиҳии маълумот ошкор карда шуд
+       *[other] Эҳтимол, { $count } ниҳонвожа ҳангоми аздастдиҳии маълумот ошкор карда шуд
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
