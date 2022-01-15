@@ -93,9 +93,9 @@ options-disable-http-cache-label = נטרול מטמון HTTP (כשארגז הכ
 options-disable-http-cache-tooltip =
     .title = הפעלת אפשרות זו תשבית את מטמון ה־HTTP עבור כל הלשוניות בהן פתוח ארגז הכלים. Service Workers אינם מושפעים מאפשרות זו.
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = נטרול JavaScript *
+options-disable-javascript-label = השבתת JavaScript *
 options-disable-javascript-tooltip =
-    .title = הפעלת אפשרות זו תנטרל את JavaScript בלשונית הנוכחית. אם הלשונית או ארגז הכלים יסגרו הגדרה זו תישכח.
+    .title = הפעלת אפשרות זו תשבית את JavaScript בלשונית הנוכחית. אם הלשונית או ארגז הכלים יסגרו הגדרה זו תישכח.
 options-enable-chrome-tooltip =
     .title = הפעלת אפשרות זו תאפשר לך להשתמש במגוון כלי פיתוח בהקשר הדפדפן (דרך כלים -> כלי פיתוח -> ארגז הכלים של הדפדפן) ולנפות שגיאות בתוספות ממנהל התוספות
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
