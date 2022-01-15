@@ -47,6 +47,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
+restore-default-label =
+    .label = Վերականգնել սկզբնադիրը
+    .accesskey = Վ
 offline-legend = Անցանց
 offline-settings-button =
     .label = Անցանց…
