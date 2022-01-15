@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
@@ -37,7 +37,7 @@ pill-action-move-bcc =
     .label = Siirrä piilokopion vastaanottajaksi
     .accesskey = p
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -95,7 +95,7 @@ drop-file-label-inline =
        *[other] Liitä sisennettyinä
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Siirrä ensimmäiseksi
@@ -109,14 +109,14 @@ button-return-receipt =
     .label = Vastaanottokuittaus
     .tooltiptext = Pyydä tämän viestin vastaanottokuittausta
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Allekirjoita viesti
 message-to-be-encrypted-icon =
     .alt = Salaa viesti
 
-# Addressing Area
+## Addressing Area
 
 many-public-recipients-bcc =
     .label = Käytä sen sijaan piilokopiota (Bcc)
@@ -136,4 +136,22 @@ encrypted-bcc-ignore-button = Ymmärretty
 
 
 # Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Poista tekstin tyyli
+
+## FileLink
+
+
+# Template
+
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Salasanasuojattu linkki
+cloud-file-template-size = Koko:
+cloud-file-template-link = Linkki:
+cloud-file-template-password-protected-link = Salasanasuojattu linkki:
+cloud-file-template-expiry-date = Vanhenemispäivä:
+cloud-file-template-download-limit = Latausraja:
+
+# Messages
 
