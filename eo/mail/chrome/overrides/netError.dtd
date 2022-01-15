@@ -52,7 +52,7 @@
 <!ENTITY netTimeout.title "Limtempo por konekto atingita">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.title "Malkomprenita adreso">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>You might need to install other software to open this address.</li>
