@@ -134,6 +134,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Tuoreet päivitykset
 addon-category-recent-updates-title =
     .title = Tuoreet päivitykset
+addon-category-sitepermission = Sivuston käyttöoikeudet
+addon-category-sitepermission-title =
+    .title = Sivuston käyttöoikeudet
 
 ## These are global warnings
 
@@ -286,6 +289,8 @@ dictionary-enabled-heading = Käytössä
 dictionary-disabled-heading = Ei käytössä
 locale-enabled-heading = Käytössä
 locale-disabled-heading = Ei käytössä
+sitepermission-enabled-heading = Käytössä
+sitepermission-disabled-heading = Pois käytöstä
 always-activate-button = Aktivoi aina
 never-activate-button = Älä koskaan aktivoi
 addon-detail-author-label = Tekijä
@@ -374,6 +379,7 @@ plugin-heading = Liitännäisten hallinta
 dictionary-heading = Sanastojen hallinta
 locale-heading = Kielten hallinta
 updates-heading = Päivitysten hallinta
+sitepermission-heading = Hallitse sivustojen oikeuksia
 discover-heading = Tee { -brand-short-name }ista mieleisesi
 shortcuts-heading = Laajennusten pikanäppäinten hallinta
 default-heading-search-label = Etsi lisää lisäosia
