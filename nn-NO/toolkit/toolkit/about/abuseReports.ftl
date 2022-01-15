@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport for { $addon-name }
 abuse-report-title-extension = Rapporter denne utvidinga til { -vendor-short-name }
+abuse-report-title-sitepermission = Rapporter dette tillegget for nettstadløyve til { -vendor-short-name }
 abuse-report-title-theme = Rapporter dette temaet til { -vendor-short-name }
 abuse-report-subtitle = Kva er problemet?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Sender rapport for <span data-l10n-name="ad
 abuse-report-messagebar-submitted = Takk for at du sende inn ein rapport. Vil du fjerne <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Takk for at du sende inn ein rapport.
 abuse-report-messagebar-removed-extension = Takk for at du sende inn ein rapport. Du har fjerna utvidinga <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Takk for at du sende inn ein rapport. Du har fjerna dette tillegget for nettstadløyve <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Takk for at du sende inn ein rapport. Du har fjerna temaet <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Det oppsto ein feil ved sending av rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span> vart ikkje sendt fordi ein annan rapport nettopp vart sendt inn.
