@@ -137,6 +137,7 @@ about-addressbook-prompt-to-save = Değişikliklerinizi kaydetmek istiyor musunu
 
 # Photo dialog
 
+about-addressbook-photo-drop-target = Buraya bir fotoğraf sürükleyin veya yapıştırın ya da dosya seçmek için tıklayın.
 about-addressbook-photo-drop-loading = Fotoğraf yükleniyor…
 about-addressbook-photo-drop-error = Fotoğraf yüklenemedi.
 about-addressbook-photo-filepicker-title = Bir resim dosyası seçin

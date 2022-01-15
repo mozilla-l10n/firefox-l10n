@@ -15,6 +15,8 @@ auth-fail = Kişinin kimliği doğrulanamadı.
 auth-waiting = Kişinin doğrulamayı tamamlaması bekleniyor…
 finger-verify = Doğrula
 finger-verify-access-key = D
+finger-ignore = Görmezden gel
+finger-ignore-access-key = G
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = OTR parmak izi ekle
 # Variables:
