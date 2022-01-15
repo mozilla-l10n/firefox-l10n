@@ -72,7 +72,7 @@ downloads-cmd-show-description =
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
-    .label = 항상 유사한 파일 열기
+    .label = 항상 이 파일 유형 열기
     .accesskey = w
 downloads-cmd-show-button-2 =
     .tooltiptext =
