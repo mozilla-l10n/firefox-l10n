@@ -125,6 +125,12 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = محلّل الأداء
+    .tooltiptext = سجّل تحليلًا بالأداء
+profiler-popup-button-recording =
+    .label = محلّل الأداء
+    .tooltiptext = يُسجّل المحلّل تحليلًا
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
