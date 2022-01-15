@@ -13,10 +13,10 @@
 <!ENTITY connectionFailure.title "Ne povas konekti">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
+<!ENTITY deniedPortAccess.title "Aliro al tiu ĉi adreso estas limigata">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server not found">
+<!ENTITY dnsNotFound.title "Servilo ne trovita">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Check the address for typing errors such as
