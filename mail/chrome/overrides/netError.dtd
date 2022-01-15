@@ -38,11 +38,7 @@
 <!ENTITY notCached.longDesc "<p>La petita dokumento ne estas disponebla en la staplo.</p><ul><li>Pro sekureca kialo, &brandShortName; aŭtomate ne reelŝutas privatajn dokumentojn.</li><li>Alkalku “reprovi” por repeti la dokumenton de la retejo.</li></ul>">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul><li>Premu “reprovi” por baskuli al la konekta reĝimo kaj reŝargi la paĝon.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Content encoding error">
 <!ENTITY contentEncodingError.longDesc "
