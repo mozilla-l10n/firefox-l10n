@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC-lokitus
 about-webrtc-aec-logging-off-state-label = Käynnistä AEC-lokitus
 about-webrtc-aec-logging-on-state-label = Pysäytä AEC-lokitus
 about-webrtc-aec-logging-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automaattinen päivitys
 
 ##
 
