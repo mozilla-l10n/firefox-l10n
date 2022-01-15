@@ -77,6 +77,9 @@ abuse-report-broken-example = Til dømes: Funksjonar er trege, vanskeleg å bruk
 abuse-report-broken-suggestions-extension =
     Det høyrest ut som om du har identifisert ein feil. I tillegg til å sende inn ein rapport her, så er den beste måten å få retta funksjonell feil på å kontakte utvidingsutviklaren.
     <a data-l10n-name="support-link">Besøk nettstaden til utvidinga</a> for å få informasjon om utviklaren.
+abuse-report-broken-suggestions-sitepermission =
+    Det høyrest ut som om du har identifisert ein feil. I tillegg til å sende inn ein rapport her, så er den beste måten å få ein funksjonell feil løyst på å kontakte nettstadutviklaren.
+    <a data-l10n-name="support-link">Besøk nettstaden</a> for å få informasjon om utviklaren.
 abuse-report-broken-suggestions-theme =
     Det høyrest ut som om du har identifisert ein feil. I tillegg til å sende inn en rapport her, så er den beste måten
     å få retta funksjonelle feil på å kontakte temautviklaren.
