@@ -159,7 +159,7 @@ downloading-file-opens-in-minutes-and-seconds = { $minutes }분 { $seconds }초 
 downloading-file-opens-in-seconds = { $seconds }초 후 열림…
 downloading-file-opens-in-some-time = 완료 후 열림…
 downloading-file-click-to-open =
-    .value = 완료 후 열림
+    .value = 완료 후 열기
 
 ##
 
