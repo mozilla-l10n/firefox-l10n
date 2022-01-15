@@ -19,6 +19,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY undoDefaultCmd.label "Յետարկել">
+<!ENTITY redoDefaultCmd.label "Կրկնել">
 
 <!-- View Menu -->
 
