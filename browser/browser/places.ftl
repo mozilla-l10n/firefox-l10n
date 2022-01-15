@@ -72,6 +72,9 @@ places-edit-generic =
 places-edit-folder =
     .label = غيّر اسم المجلد…
     .accesskey = غ
+places-edit-folder2 =
+    .label = حرّر المجلد…
+    .accesskey = ح
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = العلامات المُدارة
@@ -95,6 +98,9 @@ places-remove-bookmark =
            *[other] أزِل العلامات
         }
     .accesskey = ل
+places-show-in-folder =
+    .label = اعرض في المجلد
+    .accesskey = ع
 places-manage-bookmarks =
     .label = أدِر العلامات
     .accesskey = د

@@ -61,6 +61,7 @@ about-logins-list-item-breach-icon =
 about-logins-list-item-vulnerable-password-icon =
     .title = كلمة سر ضعيفة
 about-logins-list-section-breach = مواقع سُرّبت بياناتها
+about-logins-list-section-vulnerable = كلمات سر عُرضة للاختراق
 about-logins-list-section-nothing = ما من تنبيهات
 about-logins-list-section-today = اليوم
 about-logins-list-section-yesterday = الأمس

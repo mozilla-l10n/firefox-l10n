@@ -17,8 +17,14 @@ about-unloads-no-unloadable-tab = لا توجد ألسنة يمكن إلغاء �
 about-unloads-column-priority = الأولويّة
 about-unloads-column-host = المضيف
 about-unloads-column-last-accessed = تاريخ آخر وصول
+about-unloads-column-weight = الوزن الأساسي
+    .title = تُرتّب الألسنة أولًا حسب هذه القيمة التي تعتمد على بعض الصفات مثل تشغيل الأصوات أو بروتوكول WebRTC أو غيرها.
+about-unloads-column-sortweight = الوزن الثانوي
+    .title = تُرتّب الألسنة حسب هذه القيمة (إن توفّرت) بعد ترتيبها حسب الوزن الأساسي. تُحتسب القيمة من استعمال اللسان للذاكرة وعدد العمليات.
 about-unloads-column-memory = الذاكرة
     .title = استعمال اللسان المقدّر للذاكرة
+about-unloads-column-processes = معرّفات العمليات
+    .title = معرّفات العمليات التي تستضيف محتوى اللسان
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } م.بايت
 about-unloads-memory-in-mb-tooltip =
