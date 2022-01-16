@@ -93,7 +93,10 @@
 </ul>">
 
 <!ENTITY unknownSocketType.title "Neatendita respondo el servilo">
-<!ENTITY unknownSocketType.longDesc "<ul><li>Kontrolu kaj certiĝu, ke via operaciumo havas instalitan la administranton de persona sekureco (PSA).</li><li>La eraro povas esti kaŭzita de nenorma agordaro de la servilo.</li></ul>">
+<!ENTITY unknownSocketType.longDesc "<ul>
+<li>Kontrolu kaj certiĝu, ke via operaciumo havas instalitan la administranton de persona sekureco (PSA).</li>
+<li>La eraro povas esti kaŭzita de nenorma agordaro de la servilo.</li>
+</ul>">
 
 <!ENTITY nssFailure2.title "Malsukcesa sekura konekto">
 <!ENTITY nssFailure2.longDesc2 "<ul>
