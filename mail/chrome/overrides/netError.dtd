@@ -53,11 +53,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Malkomprenita adreso">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+<!ENTITY unknownProtocolFound.longDesc "<ul><li>Vi eble bezonos instali ilian programon por malfermi tiun ĉi adreson.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
 <!ENTITY proxyConnectFailure.longDesc "
