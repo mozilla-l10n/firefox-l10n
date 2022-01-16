@@ -68,14 +68,12 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Kontrolu kaj certiĝu, ke via operaciumo havas instalitan la administranton de persona sekureco (PSA).</li><li>La eraro povas esti kaŭzita de nenorma agordaro de la servilo.</li></ul>">
 
 <!ENTITY nssFailure2.title "Malsukcesa sekura konekto">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+<li>La paĝo, kiun vi provis malfermi, ne povas esti montrita, ĉar la aŭtentikeco de ricevitaj datumoj ne povas esti kontrolita.</li>
+<li>Kontaktu posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li>
+</ul>">
 
-<!ENTITY nssBadCert.title "Secure connection failed">
+<!ENTITY nssBadCert.title "Malsukcesa sekura konekto">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>This could be a problem with the server's configuration, or it could be
