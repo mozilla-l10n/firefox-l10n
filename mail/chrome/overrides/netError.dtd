@@ -74,27 +74,18 @@
 </ul>">
 
 <!ENTITY nssBadCert.title "Malsukcesa sekura konekto">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Tio ĉi povus esti problemo pri agordaro de la servilo aŭ iu klopodas preni la identecon de la servilo.</li> 
+<li>Se vi iam jam sukcese konektiĝis al tiu ĉi servilo, la eraro povas esti portempa kaj vi povos reprovi poste.</li>
+</ul>">
 
-<!ENTITY sharedLongDesc "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc "<ul> 
+<li>La retejo povas esti portempe ne atingebla aŭ troe okupata. Reprovu post kelkaj momentoj.</li>
+<li>Se vi ne sukcesas malfermi iun ajn paĝon, kontrolu la retan konekton de via komputilo.</li> 
+<li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu ke &brandShortName; rajtas aliri la interreton.</li> 
+</ul>">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 
