@@ -17,19 +17,31 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servilo ne trovita">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Kontrolu, ĉu la adreso ne estas misskribita, ekzemple <strong>ww</strong>.example.com anstataŭ <strong>www</strong>.example.com.</li><li>Se neniu retejo malfermiĝas, kontrolu vian retkonekton.</li><li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu, ke &brandShortName; rajtas aliri la interreton.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul>
+<li>Kontrolu, ĉu la adreso ne estas misskribita: ekzemple <strong>ww</strong>.example.com anstataŭ <strong>www</strong>.example.com.</li>
+<li>Se neniu retejo malfermiĝas, kontrolu vian retkonekton.</li>
+<li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu, ke &brandShortName; rajtas aliri la interreton.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
-<!ENTITY fileNotFound.longDesc "<ul><li>Kontrolu, ĉu la dosiernomo estas ĝuste literumita (inkluzivante majusklojn kaj minusklojn).</li><li>Kontrolu, ĉu la dosiero ne estis movita, renomita aŭ forigita.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul>
+<li>Kontrolu, ĉu la dosiernomo estas ĝuste literumita (inkluzivante majusklojn kaj minusklojn).</li>
+<li>Kontrolu, ĉu la dosiero ne estis movita, renomita aŭ forigita.</li>
+</ul>">
 
 <!ENTITY fileAccessDenied.title "Rifuzita aliro al la dosiero">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>La dosiero eble estis forigita, movita aŭ ĝiaj atingopermesoj malebligas aliron al ĝi.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+<li>La dosiero eble estis forigita, movita aŭ ĝiaj atingopermesoj malebligas aliron al ĝi.</li>
+</ul>">
 
 <!ENTITY generic.title "Eraro">
 <!ENTITY generic.longDesc "<p>&brandShortName; ne povas malfermi tiun ĉi retpaĝon pro nekonata eraro.</p>">
 
 <!ENTITY malformedURI.title "Malvalida retadreso">
-<!ENTITY malformedURI.longDesc "<ul><li>Retadresoj estas kutime en la formo <strong>http://www.example.com/</strong></li><li>Certiĝu, ke vi uzis suprenstrekojn (<strong>/</strong>).</li></ul>">
+<!ENTITY malformedURI.longDesc "<ul>
+<li>Retadresoj estas kutime en la formo <strong>http://www.example.com/</strong></li>
+<li>Certiĝu, ke vi uzis suprenstrekojn (<strong>/</strong>).</li>
+</ul>">
 
 <!ENTITY netInterrupt.title "Interrompita konekto">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -38,7 +50,9 @@
 <!ENTITY notCached.longDesc "<p>La petita dokumento ne estas disponebla en la staplo.</p><ul><li>Pro sekureca kialo, &brandShortName; aŭtomate ne reelŝutas privatajn dokumentojn.</li><li>Alkalku “reprovi” por repeti la dokumenton de la retejo.</li></ul>">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
-<!ENTITY netOffline.longDesc2 "<ul><li>Premu “reprovi” por baskuli al la konekta reĝimo kaj reŝargi la paĝon.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul>
+<li>Premu “reprovi” por baskuli al la konekta reĝimo kaj reŝargi la paĝon.</li>
+</ul>">
 
 <!ENTITY contentEncodingError.title "Eraro pri kodprezento de enhavo">
 <!ENTITY contentEncodingError.longDesc "<ul><li>Kontaktu kun posedantoj de la retejo por informi ilin pri tiu ĉi problemo.</li></ul>">
@@ -114,6 +128,9 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. Atakanto povus facile elmeti informojn, kiujn vi opiniis sekuraj. La administranto de la retejo devos ripari la servilon, antaŭ ol vi povos viziti ĝin.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Blokita paĝo">
 
+<!ENTITY networkProtocolError.title "Eraro pri reta protokolo">
+<!ENTITY networkProtocolError.longDesc "<p>La paĝo – kiun vi provis vidi – ne povis esti montrata, ĉar okazis eraro pri reta protokolo.</p><ul><li>Kontaktu posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul>">
