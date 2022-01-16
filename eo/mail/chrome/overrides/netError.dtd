@@ -61,15 +61,10 @@
 <!ENTITY proxyResolveFailure.title "Retperanta servilo ne trovita">
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>Kontrolu la agordojn de la retperanto por certiĝi, ke ili estas ĝustaj.</li><li>Kontrolu, ĉu via komputilo havas funkciantan retan konekton.</li><li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu ke  &brandShortName; rajtas aliri la interreton.</li></ul>">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
-</ul>
-">
+<!ENTITY redirectLoop.title "Malĝusta alidirekto">
+<!ENTITY redirectLoop.longDesc "<ul><li>Tiu ĉi problemo povas okazi pro malaktivigo aŭ rifuzo de kuketoj.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "Neatendita respondo el servilo">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Check to make sure your system has the Personal Security Manager
