@@ -65,15 +65,9 @@
 <!ENTITY redirectLoop.longDesc "<ul><li>Tiu ĉi problemo povas okazi pro malaktivigo aŭ rifuzo de kuketoj.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Neatendita respondo el servilo">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Kontrolu kaj certiĝu, ke via operaciumo havas instalitan la administranton de persona sekureco (PSA).</li><li>La eraro povas esti kaŭzita de nenorma agordaro de la servilo.</li></ul>">
 
-<!ENTITY nssFailure2.title "Secure connection failed">
+<!ENTITY nssFailure2.title "Malsukcesa sekura konekto">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
