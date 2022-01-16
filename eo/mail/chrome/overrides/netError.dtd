@@ -85,33 +85,33 @@
 <li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu ke &brandShortName; rajtas aliri la interreton.</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Blokita de sekureca politiko pri enhavo">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; malpermesis malfermi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas ĝin.</p>">
 
+<!ENTITY xfoBlocked.title "Blokita de politiko X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; malpermesis malfermi la paĝon en tiu ĉi kunteksto, ĉar la paĝo havas la politikon X-Frame-Options, kiu malpermesas ĝin.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Eraro pro difektita enhavo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La paĝo, kiun vi provis malfermi, ne povas esti montrita, ĉar okazis eraro dum la transmeto de datumoj.</p><ul><li>Kontaktu posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Lasu min foriri el ĉi tie!">
+<!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>Vi ne devus aldoni escepton, se vi uzas interretan konekton, kiun vi ne fidas tute aŭ se vi ne kutimas vidi averton por tiu ĉi retejo.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "Fora enhavo XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktu posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Your connection is not secure">
+<!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
