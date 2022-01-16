@@ -8,6 +8,7 @@
 more-from-moz-title = { -vendor-short-name } ұсынған көбірек
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } ұсынған көбірек
+more-from-moz-subtitle = Салауатты интернетті қолдау үшін жұмыс істейтін басқа { -vendor-short-name } өнімдерін қараңыз.
 more-from-moz-firefox-mobile-title = Мобильді { -brand-product-name }
 more-from-moz-firefox-mobile-description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
