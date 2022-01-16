@@ -56,16 +56,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>Vi eble bezonos instali ilian programon por malfermi tiun ĉi adreson.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "La retperanto rifuzas konektojn">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul><li>Kontrolu agordojn de la retperanta servilo por certiĝi, ke ili estas ĝustaj.</li><li>Kontaktu vian retan administranton por certiĝi, ke la retperanta servilo nuntempe funkcias.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Retperanta servilo ne trovita">
-<!ENTITY proxyResolveFailure.longDesc "<ul><li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li><li>Kontrolu, ĉu via komputilo havas funkciantan retan konekton.</li><li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu ke  &brandShortName; rajtas aliri la interreton.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Kontrolu la agordojn de la retperanto por certiĝi, ke ili estas ĝustaj.</li><li>Kontrolu, ĉu via komputilo havas funkciantan retan konekton.</li><li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu ke  &brandShortName; rajtas aliri la interreton.</li></ul>">
 
 <!ENTITY redirectLoop.title "The page isn't redirecting properly">
 <!ENTITY redirectLoop.longDesc "
