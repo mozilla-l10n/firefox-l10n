@@ -113,6 +113,11 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } del campo ({ bcc-compose-show-address-row-menuitem.acceltext })
 to-address-row-label =
     .value = Para
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Para
+    .accesskey = P
 cc-address-row-label =
     .value = Cc
 #   $key (String) - the shortcut key for this field
@@ -172,6 +177,21 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] He vinculado el archivo { $count } a este correo electrónico:
+       *[other] He vinculado { $count } archivos a este correo electrónico:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Saber más sobre { $lastLink }.
+       *[other] Saber más sobre { $firstLinks } y { $lastLink }.
+    }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Enlace protegido por contraseña
 # Used in a list of stats about a specific file
