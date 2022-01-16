@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servilo ne trovita">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Kontrolu, ĉu la adreso ne estas misskribita, ekzemple <strong>ww</strong>.example.com anstataŭ <strong>www</strong>.example.com.</li><li>Se neniu retejo malfermiĝas, kontrolu vian retkonekton.</li><li>Se via komputilo aŭ reto estas protektata de konekt-filtrilo (fajroŝirmilo) aŭ ret-peranto, certiĝu, ke &brandShortName; rajtas aliri la interreton.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul><li>Kontrolu, ĉu la adreso ne estas misskribita, ekzemple <strong>ww</strong>.example.com anstataŭ <strong>www</strong>.example.com.</li><li>Se neniu retejo malfermiĝas, kontrolu vian retkonekton.</li><li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu, ke &brandShortName; rajtas aliri la interreton.</li></ul>">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kontrolu, ĉu la dosiernomo estas ĝuste literumita (inkluzivante majusklojn kaj minusklojn).</li><li>Kontrolu, ĉu la dosiero ne estis movita, renomita aŭ forigita.</li></ul>">
@@ -55,7 +55,7 @@
 <!ENTITY unknownProtocolFound.title "Malkomprenita adreso">
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>Vi eble bezonos instali ilian programon por malfermi tiun ĉi adreson.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.title "La retperanto rifuzas konektojn">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Check the proxy settings to make sure that they are correct.</li>
@@ -64,15 +64,8 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your computer has a working network connection.</li>
-  <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.title "Retperanta servilo ne trovita">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li><li>Kontrolu, ĉu via komputilo havas funkciantan retan konekton.</li><li>Se via komputilo aŭ reto estas protektataj de konekt-filtrilo (fajroŝirmilo) aŭ retperanto, certiĝu ke  &brandShortName; rajtas aliri la interreton.</li></ul>">
 
 <!ENTITY redirectLoop.title "The page isn't redirecting properly">
 <!ENTITY redirectLoop.longDesc "
