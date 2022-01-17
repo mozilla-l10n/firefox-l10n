@@ -279,6 +279,9 @@ cloud-file-template-download-limit = Niðurhalstakmörk:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Villa í tengingu
+cloud-file-connection-error = { -brand-short-name } er ótengt. Gat ekki tengst { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Innsending á { $filename } til { $provider } mistókst
 # $provider (string) - name of the online storage service that reported the error
