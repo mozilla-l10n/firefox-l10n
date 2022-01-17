@@ -281,6 +281,9 @@ cloud-file-template-download-limit = Letöltési korlát:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Kapcsolódási hiba
+cloud-file-connection-error = A { -brand-short-name } kapcsolat nélküli állapotban van. Nem sikerült csatlakozni a(z) { $provider } szolgáltatáshoz.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = A(z) { $filename } feltöltése a(z) { $provider } szolgáltatásba sikertelen
 # $provider (string) - name of the online storage service that reported the error

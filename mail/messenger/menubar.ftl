@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Érintőképernyős
     .accesskey = r
+menu-spaces-toolbar-button =
+    .label = Helyek eszköztár
+    .accesskey = H
 
 ## File
 
