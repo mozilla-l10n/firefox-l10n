@@ -65,6 +65,7 @@ onboarding-import-sites-disclaimer =
     De webbplatser som visas här hittades på den här enheten.
     { -brand-short-name } sparar eller synkroniserar inte data från
     en annan webbläsare såvida du inte väljer att importera den.
+return-to-amo-add-theme-label = Lägg till temat
 
 ## Multistage onboarding strings (about:welcome pages)
 
