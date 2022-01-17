@@ -6,5 +6,7 @@ restart-required-title = Reikia paleisti iš naujo
 restart-required-header = Atsiprašome. Mums reikia atlikti vieną nedidelį darbą, kad galėtume tęsti.
 restart-required-intro-brand = „{ -brand-short-name }“ buvo ką tik atnaujinta. Norėdami užbaigti naujinimą, spustelėkite „Paleisti „{ -brand-short-name }“ iš naujo“.
 restart-required-description = Visi jūsų tinklalapiai, langai ir kortelės bus atkurti, kad iškart grįžtumėte ten, kur buvote.
-
+restart-required-heading = Perleiskite, norėdami toliau naudoti „{ -brand-short-name }“
+restart-required-intro = Fone pradėtas „{ -brand-short-name }“ atnaujinimas. Norėdami jį užbaigti, turėsite paleisti naršyklę iš naujo.
+window-restoration-info = Jūsų langai ir kortelės bus greitai atkurti, tačiau privatūs – ne.
 restart-button-label = Paleisti „{ -brand-short-name }“ iš naujo
