@@ -7,4 +7,8 @@ restart-required-header = Ci scusiamo per l’interruzione, ma c’è una cosa d
 restart-required-intro-brand = Un aggiornamento di { -brand-short-name } è appena stato installato in background. Fai clic su Riavvia { -brand-short-name } per completare l’installazione.
 restart-required-description = Tutte le pagine, finestre e schede aperte verranno automaticamente ripristinate al riavvio, così potrai riprendere velocemente dal punto in cui ti trovavi.
 
+restart-required-heading = Riavvia per continuare a utilizzare { -brand-short-name }
+restart-required-intro = Il sistema ha iniziato un aggiornamento di { -brand-short-name } in background. È necessario riavviare per completare l’installazione.
+window-restoration-info = Verranno ripristinate automaticamente le finestre e schede aperte, ma non quelle anonime.
+
 restart-button-label = Riavvia { -brand-short-name }
