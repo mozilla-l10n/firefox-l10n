@@ -11,6 +11,7 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-separate-window-label = தனி சாளரம்
 toolbox-meatball-menu-splitconsole-label = பிளவுபட்ட முனையத்தைக் காட்டுக
 toolbox-meatball-menu-hideconsole-label = பிளவுபட்ட முனையத்தை மறை
 toolbox-meatball-menu-settings-label = அமைவுகள்
