@@ -24,6 +24,7 @@ toolbox-meatball-menu-community-label = Komunita…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Vypnúť automatické skrývanie vyskakovacích okien
+toolbox-meatball-menu-pseudo-locale-accented = Zapnúť jazyk s diakritikou
 
 ##
 
