@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Letöltések törlése
     .accesskey = L
+downloads-cmd-delete-file =
+    .label = Törlés
+    .accesskey = T
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Letöltés engedélyezése
