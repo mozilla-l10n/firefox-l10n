@@ -12,6 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = 停靠于底部
+toolbox-meatball-menu-dock-left-label = 停靠于左侧
+toolbox-meatball-menu-dock-right-label = 停靠于右侧
 toolbox-meatball-menu-dock-separate-window-label = 独立窗口
 toolbox-meatball-menu-splitconsole-label = 显示分离式控制台
 toolbox-meatball-menu-hideconsole-label = 隐藏分离式控制台
