@@ -19,3 +19,7 @@ openpgp-view-your-encryption-key =
     .label = Vaata oma dekrüptimisvõtit
 openpgp-openpgp = OpenPGP
 openpgp-no-sig = Digiallkiri puudub
+openpgp-no-sig-info = See kiri ei sisalda saatja digiallkirja. Selle puudumine tähendab, et kirja saatja aadress võib olla võltsitud. Samuti on võimalik, et keegi on kirja teel olles muutnud.
+openpgp-uncertain-sig = Ebakindel digiallkiri
+openpgp-invalid-sig = Vigane digiallkiri
+openpgp-good-sig = Hea digiallkiri
