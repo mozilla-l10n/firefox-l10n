@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Išvalyti atsiuntimus
     .accesskey = v
+downloads-cmd-delete-file =
+    .label = Pašalinti
+    .accesskey = P
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Leisti atsiuntimą
