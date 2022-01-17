@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ניקוי רשימת ההורדות
     .accesskey = ה
+downloads-cmd-delete-file =
+    .label = מחיקה
+    .accesskey = מ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = אפשר הורדה
