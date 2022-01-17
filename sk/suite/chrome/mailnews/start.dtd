@@ -29,3 +29,6 @@
 <!ENTITY info_bugs.label
 '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Radi uvítame vaše hlásenia chýb a žiadosti o nové funkcie</a>, ale predtým si prečítajte <a id="releaseNotesURL" href="">poznámky k vydaniu</a> a zadajte požiadavku do systému
 <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Radi uvítame vaše hlásenia chýb a žiadosti o nové funkcie</a>, ale predtým si prečítajte <a id="releaseNotesURL" href="">poznámky k vydaniu</a> a zadajte požiadavku do systému hlásenia chýb <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
