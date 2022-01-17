@@ -17,7 +17,9 @@ toolbox-meatball-menu-dock-right-label = Tamdeyt s azelmaḍ
 toolbox-meatball-menu-dock-separate-window-label = Asfaylu i yiman-is
 toolbox-meatball-menu-splitconsole-label = Sken tadiwent yebḍan
 toolbox-meatball-menu-hideconsole-label = Ffer tadiwent yebḍan
+toolbox-meatball-menu-settings-label = Iɣewwaṛen
 toolbox-meatball-menu-documentation-label = Tasemlit…
+toolbox-meatball-menu-community-label = Tamezdagnut…
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
