@@ -806,7 +806,7 @@
      that the user selects using the same widget as the move to/copy to
      mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "Pasta">
+<!ENTITY columnPicker.applyToFolder.label "Pasta…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -941,7 +941,7 @@
 <!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Opções do ícone…">
+<!ENTITY dockOptions.label              "Opções de ícone do aplicativo…">
 <!ENTITY writeNewMessageDock.label      "Escrever nova mensagem">
 <!ENTITY openAddressBookDock.label      "Abrir catálogo de endereços">
 
