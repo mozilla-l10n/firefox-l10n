@@ -18,6 +18,8 @@ toolbox-meatball-menu-dock-separate-window-label = Ayrı pencere
 toolbox-meatball-menu-splitconsole-label = Ayrık konsolu göster
 toolbox-meatball-menu-hideconsole-label = Ayrık konsolu gizle
 toolbox-meatball-menu-settings-label = Ayarlar
+toolbox-meatball-menu-documentation-label = Belgelendirme…
+toolbox-meatball-menu-community-label = Topluluk…
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
