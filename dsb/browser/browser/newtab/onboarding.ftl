@@ -66,6 +66,7 @@ onboarding-import-sites-disclaimer =
     { -brand-short-name } daty z
     drugego wobglědowaka njeskładujo abo njesynchronizěrujo
     snaźkuli je importěrujośo.
+return-to-amo-add-theme-label = Drastwu pśidaś
 
 ## Multistage onboarding strings (about:welcome pages)
 
