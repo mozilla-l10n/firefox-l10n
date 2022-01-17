@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Pre dotykové zariadenia
     .accesskey = P
+menu-spaces-toolbar-button =
+    .label = Panel Miesta
+    .accesskey = M
 
 ## File
 
