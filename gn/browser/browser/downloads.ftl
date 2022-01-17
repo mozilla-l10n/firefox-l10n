@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Mboguejypyre mopotĩ
     .accesskey = M
+downloads-cmd-delete-file =
+    .label = Mboguete
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Emoneĩ ñemboguejy

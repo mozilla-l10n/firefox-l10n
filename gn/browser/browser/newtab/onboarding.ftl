@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Ani ko’ág̃a
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Ko’ã tenda ipapapýva ápe ejuhúta ko mba’e’okápe. { -brand-short-name } noñongatúi ha nombojuehéi mba’ekuaarã ambue kundahára pegua nderegueruséirõ.
+return-to-amo-add-theme-label = Embojuaju Téma
 
 ## Multistage onboarding strings (about:welcome pages)
 
