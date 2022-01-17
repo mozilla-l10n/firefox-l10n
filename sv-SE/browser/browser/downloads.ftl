@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Rensa hämtningar
     .accesskey = h
+downloads-cmd-delete-file =
+    .label = Ta bort
+    .accesskey = T
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Tillåt hämtning
