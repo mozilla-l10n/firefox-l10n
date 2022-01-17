@@ -8,4 +8,5 @@ restart-required-intro-brand = { -brand-short-name } vient d’être mis à jour
 restart-required-description = Toutes vos pages, fenêtres et onglets seront restaurés pour que vous puissiez reprendre rapidement.
 restart-required-heading = Redémarrez pour continuer à utiliser { -brand-short-name }
 restart-required-intro = Une mise à jour de { -brand-short-name } a démarré en arrière-plan. Vous devrez redémarrer pour terminer la mise à jour.
+window-restoration-info = Vos fenêtres et onglets seront rapidement restaurés, sauf les privés.
 restart-button-label = Redémarrer { -brand-short-name }
