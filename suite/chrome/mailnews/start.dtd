@@ -21,7 +21,6 @@ com suporte a detecção avançada de lixo eletrónico e outras funcionalidades 
 "Integração com os demais programas do &brandShortName;">
 <!ENTITY dict.title "Dicionários">
 <!ENTITY dict_intro.label "Dicionários são utilizados para revisar a ortografia das suas mensagens.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label2
 'Muitos idiomas adicionais podem ser instalados a partir da
 seção de <a id="dictURL" href="">dicionários</a> nas 
@@ -32,3 +31,6 @@ seção de <a id="dictURL" href="">dicionários</a> nas
 '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Nós</a> agradecemos os relatos de erros e pedidos de funcionalidades,
 mas primeiro leia as <a id="releaseNotesURL" href="">notas de atualização</a> e
 procure no <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Nós</a> agradecemos os relatos de erros e pedidos de funcionalidades, mas primeiro leia as <a id="releaseNotesURL" href="">notas de atualização</a> e procure no <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
