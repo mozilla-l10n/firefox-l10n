@@ -316,9 +316,45 @@ copy-to-clipbrd-failed = Không thể sao chép (các) khóa đã chọn vào kh
 
 ## Account settings export output
 
+# Strings used in commonWorkflows.js
+import-key-file = Nhập tập tin khóa OpenPGP
+gnupg-file = Tập tin GnuPG
+import-keys-failed = Nhập khóa không thành công
+passphrase-prompt = Vui lòng nhập cụm mật khẩu để mở khóa sau: { $key }
+file-to-big-to-import = Tập tin này quá lớn. Vui lòng không nhập một bộ khóa lớn cùng một lúc.
+gen-going = Đã ở trong quá trình tạo khóa!
+keygen-missing-user-name = Không có tên được chỉ định cho tài khoản/danh tính đã chọn. Vui lòng nhập một giá trị vào trường  “Tên của bạn” trong cài đặt tài khoản.
+expiry-too-short = Khóa của bạn phải có giá trị trong ít nhất một ngày.
+expiry-too-long = Bạn không thể tạo khóa hết hạn sau hơn 100 năm.
+key-confirm = Tạo khóa công khai và khóa bí mật cho ‘{ $id }’?
+key-man-button-generate-key = &Tạo khóa
+key-abort = Hủy việc tạo khóa?
+key-man-button-generate-key-abort = &Huỷ bỏ tạo khoá
+key-man-button-generate-key-continue = &Tiếp tục tạo khóa
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Lỗi - giải mã không thành công
+fix-broken-exchange-msg-failed = Không thể sửa chữa thư này.
+attachment-no-match-from-signature = Tập tin chữ ký ‘{ $attachment }’ với tập tin đính kèm không khớp
+attachment-no-match-to-signature = Tập tin đính kèm ‘{ $attachment }’ với tập tin chữ ký không khớp
+signature-verified-ok = Chữ ký cho tập tin đính kèm { $attachment } đã được xác minh thành công
+signature-verify-failed = Không thể xác minh chữ ký cho tập tin đính kèm { $attachment }
+decrypt-ok-no-sig =
+    Cảnh báo
+    Giải mã thành công nhưng không thể xác minh chính xác chữ ký
+msg-ovl-button-cont-anyway = &Vẫn tiếp tục
+enig-content-note = *Các tập tin đính kèm cho thư này chưa được ký hoặc chưa được mã hóa*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Gửi thư
+msg-compose-details-button-label = Chi tiết…
+msg-compose-details-button-access-key = D
+send-aborted = Thao tác gửi đã bị hủy bỏ.
+key-not-trusted = Không đủ tin cậy cho khóa ‘{ $key }’
+key-not-found = Không tìm thấy khóa ‘{ $key }’
+key-revoked = Đã thu hồi khóa ‘{ $key }’
+key-expired = Khóa ‘{ $key }’ đã hết hạn
+keys-to-export = Chọn khóa OpenPGP để chèn
 sending-news =
     Thao tác gửi được mã hóa đã bị hủy bỏ.
     Không thể mã hóa thư này vì có người nhận trong nhóm tin. Vui lòng gửi lại tin nhắn mà không mã hóa.
