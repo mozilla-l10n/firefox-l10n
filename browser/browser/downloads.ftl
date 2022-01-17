@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Очистити завантаження
     .accesskey = ч
+downloads-cmd-delete-file =
+    .label = Видалити
+    .accesskey = л
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Дозволити завантаження
