@@ -257,6 +257,8 @@ cloud-file-template-download-limit = Limite de téléchargement :
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Erreur de connexion
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Échec de l’envoi de { $filename } à { $provider }
 # $provider (string) - name of the online storage service that reported the error
