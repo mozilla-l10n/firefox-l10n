@@ -11,7 +11,19 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = 下側に表示
+toolbox-meatball-menu-dock-left-label = 左側に表示
+toolbox-meatball-menu-dock-right-label = 右側に表示
+toolbox-meatball-menu-dock-separate-window-label = ウィンドウ分割
+toolbox-meatball-menu-splitconsole-label = コンソールペインを表示
 toolbox-meatball-menu-hideconsole-label = コンソールペインを隠す
+toolbox-meatball-menu-settings-label = 設定
+toolbox-meatball-menu-documentation-label = ドキュメント...
+toolbox-meatball-menu-community-label = コミュニティ...
+# This menu item is only available in the browser toolbox. It forces the popups/panels
+# to stay visible on blur, which is primarily useful for addon developers and Firefox
+# contributors.
+toolbox-meatball-menu-noautohide-label = ポップアップを自動で隠さない
 
 ##
 
