@@ -20,6 +20,10 @@ toolbox-meatball-menu-hideconsole-label = Ocultar consola dividida
 toolbox-meatball-menu-settings-label = Definições
 toolbox-meatball-menu-documentation-label = Documentação…
 toolbox-meatball-menu-community-label = Comunidade…
+# This menu item is only available in the browser toolbox. It forces the popups/panels
+# to stay visible on blur, which is primarily useful for addon developers and Firefox
+# contributors.
+toolbox-meatball-menu-noautohide-label = Desativar ocultação automática de pop-ups
 
 ##
 
