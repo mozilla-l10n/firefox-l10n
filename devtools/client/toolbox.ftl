@@ -14,6 +14,7 @@
 toolbox-meatball-menu-dock-bottom-label = Kaitkan ke bawah
 toolbox-meatball-menu-dock-left-label = Kaitkan ke kiri
 toolbox-meatball-menu-dock-right-label = Kaitkan ke kanan
+toolbox-meatball-menu-dock-separate-window-label = Jendela terpisah
 toolbox-meatball-menu-splitconsole-label = Tampilkan Konsol Pemisah
 toolbox-meatball-menu-hideconsole-label = Sembunyikan Konsol Pemisah
 toolbox-meatball-menu-settings-label = Pengaturan
