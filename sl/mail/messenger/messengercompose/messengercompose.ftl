@@ -271,6 +271,15 @@ cloud-file-count-header =
         [few] S tem e-poštnim sporočilom sem povezal { $count } datoteke:
        *[other] S tem e-poštnim sporočilom sem povezal { $count } datotek:
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Več o ponudniku { $lastLink }.
+        [two] Več o ponudnikih { $firstLinks } in { $lastLink }.
+        [few] Več o ponudnikih { $firstLinks } in { $lastLink }.
+       *[other] Več o ponudnikih { $firstLinks } in { $lastLink }.
+    }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Z geslom zaščitena povezava
 # Used in a list of stats about a specific file
@@ -289,6 +298,8 @@ cloud-file-template-download-limit = Omejitev prenosa:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Napaka v povezavi
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Nalaganje { $filename } na { $size } je spodletelo
