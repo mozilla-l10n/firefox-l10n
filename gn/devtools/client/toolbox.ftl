@@ -20,6 +20,10 @@ toolbox-meatball-menu-hideconsole-label = Emokañy mba’e’oka mboja’opyre
 toolbox-meatball-menu-settings-label = Ñemboheko
 toolbox-meatball-menu-documentation-label = Kuatiaite…
 toolbox-meatball-menu-community-label = Tekoha…
+# This menu item is only available in the browser toolbox. It forces the popups/panels
+# to stay visible on blur, which is primarily useful for addon developers and Firefox
+# contributors.
+toolbox-meatball-menu-noautohide-label = Eipe’aite kañymby ijeheguíva ovetã apysẽgui
 
 ##
 
