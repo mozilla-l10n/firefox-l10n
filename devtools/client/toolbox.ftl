@@ -11,6 +11,7 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-separate-window-label = Apartigita fenestro
 toolbox-meatball-menu-splitconsole-label = Montri apartigitan konzolon
 toolbox-meatball-menu-hideconsole-label = Kaŝi apartigitan konzolon
 
