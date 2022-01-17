@@ -281,6 +281,9 @@ cloud-file-template-download-limit = Nedladdningsgräns:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Anslutningsfel
+cloud-file-connection-error = { -brand-short-name } är offline. Kunde inte ansluta till { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Det gick inte att ladda upp { $filename } till { $provider }
 # $provider (string) - name of the online storage service that reported the error
