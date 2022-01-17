@@ -100,6 +100,19 @@ import-key-file = Impordi OpenPGP võtmefail
 import-key-personal-checkbox =
     .label = Seda võtit käsitletakse isikliku võtmena
 gnupg-file = GnuPG failid
+import-error-file-size = <b>Viga!</b> Failid, mis on suuremad kui 5MiB, pole toetatud.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Viga!</b> Faili importimine ebaõnnestus. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Viga!</b> Võtmete importimine ebaõnnestus. { $error }
+openpgp-import-identity-label = Identiteet
+openpgp-import-fingerprint-label = Sõrmejälg
+openpgp-import-created-label = Loodud
+openpgp-import-bits-label = Bitid
+openpgp-import-key-props =
+    .label = Võtme omadused
+    .accesskey = V
 
 ## External Key section
 
+openpgp-external-key-title = Väline GnuPG võti
