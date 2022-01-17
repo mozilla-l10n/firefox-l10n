@@ -290,6 +290,9 @@ cloud-file-template-download-limit = Limit stiahnutí:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Chyba pripojenia
+cloud-file-connection-error = { -brand-short-name } je v režime offline. Nepodarilo sa pripojiť k službe { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Nahrávanie súboru { $filename } do služby { $provider } zlyhalo
 # $provider (string) - name of the online storage service that reported the error

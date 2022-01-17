@@ -171,3 +171,22 @@ no-reply-reply-anyway-button = Aj tak odpovedať
 ## error messages
 
 decrypt-and-copy-failures = { $failures } z { $total } správ sa nepodarilo dešifrovať a neboli skopírované.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Panel Miesta
+spaces-toolbar-button-mail =
+    .title = Prepnúť na kartu Pošta
+spaces-toolbar-button-address-book =
+    .title = Prepnúť na kartu Adresár
+spaces-toolbar-button-calendar =
+    .title = Prepnúť na kartu Kalendár
+spaces-toolbar-button-tasks =
+    .title = Prepnúť na kartu Úlohy
+spaces-toolbar-button-chat =
+    .title = Prepnúť na kartu Konverzácie
+spaces-toolbar-button-settings =
+    .title = Prepnúť na kartu Nastavenia
+spaces-toolbar-button-collapse =
+    .title = Zbaliť panel nástrojov Miesta
