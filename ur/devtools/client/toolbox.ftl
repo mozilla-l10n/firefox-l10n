@@ -12,7 +12,11 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = نچلے کنارے سے لگائیں
+toolbox-meatball-menu-dock-left-label = بائیں طرف لگائیں
+toolbox-meatball-menu-dock-right-label = دائیں طرف لگائیں
+toolbox-meatball-menu-dock-separate-window-label = علحیدہ ونڈو
 toolbox-meatball-menu-splitconsole-label = اسپلٹ کنسول دکھائیں
+toolbox-meatball-menu-hideconsole-label = اسپلٹ کنسول کو چھپائیں
 toolbox-meatball-menu-settings-label = سیٹنگز
 toolbox-meatball-menu-documentation-label = دستاویزات…
 toolbox-meatball-menu-community-label = برادری…
