@@ -42,6 +42,8 @@ process-type-gpu = GPU
 process-type-socket = Foglalat
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Homokozóba zárt IPC aktor
 
 ##
 ## Other
