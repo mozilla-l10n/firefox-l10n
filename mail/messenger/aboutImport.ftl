@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Messadis dad e-mail
 progress-pane-title = Importar
 progress-pane-restart-desc = Reaviar per finir l'import.
 error-pane-title = Errur
+error-message-zip-file-too-big = La datoteca zip tschernida surpassa 2GB. L'extira l'emprim ed importescha lura ord l'ordinatur extratg.
+error-message-extract-zip-file-failed = I n'è betg reussì dad extrair la datoteca zip. L'extira per plaschair manualmain ed importescha lura ord l'ordinatur extratg.
+error-message-failed = L'import n'è betg reussì nunspetgadamain. Ulteriuras infurmaziuns stattan eventualmain a disposiziun en la consola d'errurs.

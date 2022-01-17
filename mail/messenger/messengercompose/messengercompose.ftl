@@ -247,6 +247,48 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Jau hai collià { $count } datoteca cun quest e-mail:
+       *[other] Jau hai collià { $count } datotecas cun quest e-mail:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Ulteriuras infurmaziuns davart { $lastLink }.
+       *[other] Ulteriuras infurmaziuns davart { $firstLinks } e { $lastLink }.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Colliaziun protegida cun in pled-clav
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Servetsch CloudFile:
+cloud-file-template-size = Grondezza:
+cloud-file-template-link = Colliaziun:
+cloud-file-template-password-protected-link = Colliaziun protegida cun in pled-clav:
+cloud-file-template-expiry-date = Data da scadenza:
+cloud-file-template-download-limit = Limita da telechargiada:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Il transferiment da { $filename } sin { $provider } n'è betg reussì
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Errur cun renumnar
+cloud-file-rename-error = Igl è succedida ina errur durant renumnar { $filename } sin { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = I n'è betg reussì da renumnar { $filename } sin { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } na porscha betg la pussaivladad da renumnar datotecas gia transferidas.

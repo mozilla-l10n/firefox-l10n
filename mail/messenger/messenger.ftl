@@ -5,6 +5,14 @@
 
 ## Window controls
 
+messenger-window-minimize-button =
+    .tooltiptext = Reducir
+messenger-window-maximize-button =
+    .tooltiptext = Maximar
+messenger-window-restore-down-button =
+    .tooltiptext = Restaurar
+messenger-window-close-button =
+    .tooltiptext = Serrar
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
