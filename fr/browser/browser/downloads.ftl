@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Vider la liste des téléchargements
     .accesskey = V
+downloads-cmd-delete-file =
+    .label = Supprimer
+    .accesskey = S
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Autoriser le téléchargement
