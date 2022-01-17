@@ -12,6 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = Zasidraj na dno
+toolbox-meatball-menu-dock-left-label = Zasidraj na levo
+toolbox-meatball-menu-dock-right-label = Zasidraj na desno
 toolbox-meatball-menu-dock-separate-window-label = Ločeno okno
 toolbox-meatball-menu-splitconsole-label = Prikaži deljeno konzolo
 toolbox-meatball-menu-hideconsole-label = Skrij deljeno konzolo
