@@ -11,6 +11,12 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = Прикріпити знизу
+toolbox-meatball-menu-dock-separate-window-label = Окреме вікно
+toolbox-meatball-menu-splitconsole-label = Показати консоль розділення
+toolbox-meatball-menu-settings-label = Налаштування
+toolbox-meatball-menu-documentation-label = Документація…
+toolbox-meatball-menu-community-label = Спільнота…
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
