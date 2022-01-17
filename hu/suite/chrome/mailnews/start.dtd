@@ -29,3 +29,9 @@
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
 '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Örölünk</a> a hibajelentéseknek és a funkció kéréseknek, de kérjük olvassa el a <a id="releaseNotesURL" href="">kiadási megjegyzéseket</a>, valamint először keressen a <a href="https://bugzilla.mozilla.org/query.cgi">Bugzillában</a>.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Örölünk</a>
+a hibajelentéseknek és a funkciókéréseknek, de olvassa el a 
+<a id="releaseNotesURL" href="">kiadási megjegyzéseket</a>, valamint először
+keressen a <a href="https://bugzilla.mozilla.org/query.cgi">Bugzillában</a>.'>
