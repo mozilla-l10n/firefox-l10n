@@ -169,3 +169,22 @@ no-reply-reply-anyway-button = Responder de todas formas
 ## error messages
 
 decrypt-and-copy-failures = { $failures } de { $total } mensajes no pudieron ser descifrados y no fueron copiados.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Barra de herramientas Espacios
+spaces-toolbar-button-mail =
+    .title = Cambiar a la pestaña de Correo
+spaces-toolbar-button-address-book =
+    .title = Cambiar a la pestaña de la Libreta de direcciones
+spaces-toolbar-button-calendar =
+    .title = Cambiar a la pestaña del Calendario
+spaces-toolbar-button-tasks =
+    .title = Cambiar a la pestaña de Tareas
+spaces-toolbar-button-chat =
+    .title = Cambiar a la pestaña de Chat
+spaces-toolbar-button-settings =
+    .title = Cambiar a la pestaña de Preferencias
+spaces-toolbar-button-collapse =
+    .title = Contraer la barra de Espacios
