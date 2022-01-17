@@ -13,6 +13,7 @@
 
 toolbox-meatball-menu-settings-label = Postavke
 toolbox-meatball-menu-documentation-label = Dokumentacija…
+toolbox-meatball-menu-community-label = Zajednica…
 
 ##
 
