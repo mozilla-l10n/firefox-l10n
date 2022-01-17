@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Sćehnjenja zhašeć
     .accesskey = z
+downloads-cmd-delete-file =
+    .label = Zhašeć
+    .accesskey = Z
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Sćehnjenje dowolić

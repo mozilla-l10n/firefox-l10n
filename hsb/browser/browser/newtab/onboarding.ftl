@@ -66,6 +66,7 @@ onboarding-import-sites-disclaimer =
     { -brand-short-name } daty z
     druheho wobhladowaka njeskładuje abo njesynchronizuje
     chibazo je importujeće.
+return-to-amo-add-theme-label = Drastu přidać
 
 ## Multistage onboarding strings (about:welcome pages)
 
