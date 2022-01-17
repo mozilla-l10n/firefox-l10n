@@ -169,3 +169,22 @@ no-reply-reply-anyway-button = Válasz mindenképp
 ## error messages
 
 decrypt-and-copy-failures = { $failures } / { $total } üzenetet nem sikerült visszafejteni, és nem lettek másolva.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Helyek eszköztár
+spaces-toolbar-button-mail =
+    .title = Átváltás a levelezés lapra
+spaces-toolbar-button-address-book =
+    .title = Átváltás a címjegyzék lapra
+spaces-toolbar-button-calendar =
+    .title = Átváltás a naptár lapra
+spaces-toolbar-button-tasks =
+    .title = Átváltás a feladatok lapra
+spaces-toolbar-button-chat =
+    .title = Átváltás a csevegés lapra
+spaces-toolbar-button-settings =
+    .title = Átváltás a beállítások lapra
+spaces-toolbar-button-collapse =
+    .title = Helyek eszköztár összecsukása
