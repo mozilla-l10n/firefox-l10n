@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = Cực tiểu hóa
+messenger-window-maximize-button =
+    .tooltiptext = Cực đại hoá
+messenger-window-restore-down-button =
+    .tooltiptext = Khôi phục kích thước
+messenger-window-close-button =
+    .tooltiptext = Đóng
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -157,3 +168,18 @@ no-reply-reply-anyway-button = Vẫn trả lời
 ## error messages
 
 decrypt-and-copy-failures = Không thể giải mã { $failures } trong tổng số { $total } thư.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Chuyển sang thẻ thư
+spaces-toolbar-button-address-book =
+    .title = Chuyển sang thẻ sổ địa chỉ
+spaces-toolbar-button-calendar =
+    .title = Chuyển sang thẻ lịch
+spaces-toolbar-button-tasks =
+    .title = Chuyển sang thẻ nhiệm vụ
+spaces-toolbar-button-chat =
+    .title = Chuyển sang thẻ trò chuyện
+spaces-toolbar-button-settings =
+    .title = Chuyển sang thẻ cài đặt

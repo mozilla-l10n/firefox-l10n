@@ -27,6 +27,7 @@
 <!ENTITY signingGroupTitle.label "Chữ kí điện tử">
 <!ENTITY signMessage2.label "Thêm chữ ký điện tử của tôi theo mặc định">
 <!ENTITY signMessage.accesskey "h">
+<!ENTITY signingCert2.message "Chứng chỉ cá nhân để ký kỹ thuật số:">
 
 <!ENTITY sendingDefaults.label "Cài đặt mặc định để gửi thư">
 

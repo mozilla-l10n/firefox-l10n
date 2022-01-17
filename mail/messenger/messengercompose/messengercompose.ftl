@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -41,7 +41,7 @@ pill-action-expand-list =
     .label = Mở rộng danh sách
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -93,7 +93,7 @@ drop-file-label-attachment =
        *[other] Thêm dưới dạng đính kèm
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Di chuyển lên đầu
@@ -107,14 +107,14 @@ button-return-receipt =
     .label = Xác nhận
     .tooltiptext = Yêu cầu xác nhận đã nhận thư cho thư này
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Ký thư
 message-to-be-encrypted-icon =
     .alt = Mã hóa thư
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Đến
@@ -230,3 +230,55 @@ encrypted-bcc-ignore-button = Đã hiểu
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Xóa kiểu định dạng văn bản
+
+## FileLink
+
+
+# Template
+
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+       *[other] Tôi đã liên kết { $count } tập tin với email này:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+       *[other] Tìm hiểu thêm về { $firstLinks } và { $lastLink }.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Liên kết được bảo vệ bằng mật khẩu
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Dịch vụ CloudFile:
+cloud-file-template-size = Kích cỡ:
+cloud-file-template-link = Liên kết:
+cloud-file-template-password-protected-link = Liên kết được bảo vệ bằng mật khẩu:
+cloud-file-template-expiry-date = Ngày hết hạn:
+cloud-file-template-download-limit = Giới hạn tải xuống:
+
+# Messages
+
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Lỗi kết nối
+cloud-file-connection-error = { -brand-short-name } đang ngoại tuyến. Không thể kết nối với { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Không thể tải { $filename } lên { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Lỗi đổi tên
+cloud-file-rename-error = Đã xảy ra sự cố khi đổi tên { $filename } trên { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Không thể đổi tên { $filename } trên { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } không hỗ trợ đổi tên các tập tin đã tải lên.
