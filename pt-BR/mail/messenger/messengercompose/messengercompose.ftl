@@ -281,6 +281,9 @@ cloud-file-template-download-limit = Limite de downloads:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Erro de conexão
+cloud-file-connection-error = O { -brand-short-name } está offline. Não foi possível conectar com { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Falha no envio de { $filename } para { $provider }
 # $provider (string) - name of the online storage service that reported the error
