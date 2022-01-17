@@ -290,6 +290,9 @@ cloud-file-template-download-limit = Ліміт завантаження:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Помилка з'єднання
+cloud-file-connection-error = { -brand-short-name } офлайн. Не вдалося під'єднатися до { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Не вдалося вивантажити { $filename } до { $provider }
 # $provider (string) - name of the online storage service that reported the error
