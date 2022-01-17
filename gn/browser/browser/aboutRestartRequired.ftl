@@ -7,4 +7,5 @@ restart-required-header = Ñerõmi. Roikotevẽ mba’e michĩmíva roku’ejey 
 restart-required-intro-brand = { -brand-short-name } hekopyahúma mokõha tendápe. Eikutu Ñepyrũjey { -brand-short-name } hekopyahupa hag̃ua.
 restart-required-description = Romoĩporãta opaite nde kuatiarogue, ovetã ha tendayke ag̃ave, ikatu hag̃uáicha eho tapére pya’eporã.
 restart-required-heading = Emoñepyrũjey eipurume hag̃ua { -brand-short-name }
+window-restoration-info = Ne rovetã ha tendayke oĩporãjeýta pya’e, hákatu umi ñemiguáva nahániri.
 restart-button-label = Emoñepyrũjey { -brand-short-name }
