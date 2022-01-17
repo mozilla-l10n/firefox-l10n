@@ -12,6 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = הצמדה לתחתית
+toolbox-meatball-menu-dock-left-label = הצמדה לשמאל
+toolbox-meatball-menu-dock-right-label = הצמדה לימין
 toolbox-meatball-menu-dock-separate-window-label = חלון נפרד
 toolbox-meatball-menu-splitconsole-label = הצגת מסוף מפוצל
 toolbox-meatball-menu-hideconsole-label = הסתרת מסוף מפוצל
