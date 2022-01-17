@@ -13,12 +13,17 @@
 
 toolbox-meatball-menu-dock-bottom-label = Ancorar al fundo
 toolbox-meatball-menu-dock-left-label = Accostar a sinistra
+toolbox-meatball-menu-dock-right-label = Fixar a dextra
 toolbox-meatball-menu-dock-separate-window-label = Fenestra separate
 toolbox-meatball-menu-splitconsole-label = Monstrar le consola dividite
 toolbox-meatball-menu-hideconsole-label = Celar le consola dividite
 toolbox-meatball-menu-settings-label = Parametros
 toolbox-meatball-menu-documentation-label = Documentation…
 toolbox-meatball-menu-community-label = Communitate…
+# This menu item is only available in the browser toolbox. It forces the popups/panels
+# to stay visible on blur, which is primarily useful for addon developers and Firefox
+# contributors.
+toolbox-meatball-menu-noautohide-label = Disactivar le celamento automatic de fenestras emergente
 
 ##
 
