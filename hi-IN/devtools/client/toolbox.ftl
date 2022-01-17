@@ -12,6 +12,9 @@
 ## the label.
 
 toolbox-meatball-menu-dock-separate-window-label = अलग विन्डो
+toolbox-meatball-menu-settings-label = सेटिंग्स
+toolbox-meatball-menu-documentation-label = दस्तावेज़…
+toolbox-meatball-menu-community-label = समुदाय…
 
 ##
 
