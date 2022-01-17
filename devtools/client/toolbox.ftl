@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = 커뮤니티…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = 팝업 자동 숨기기 비활성화
+toolbox-meatball-menu-pseudo-locale-accented = "악센트 부호" 로케일 활성화
+toolbox-meatball-menu-pseudo-locale-bidi = "양방향 텍스트(BiDi)" 로케일 활성화
 
 ##
 

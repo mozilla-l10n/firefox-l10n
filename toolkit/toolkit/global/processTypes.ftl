@@ -42,6 +42,8 @@ process-type-gpu = GPU
 process-type-socket = 소켓
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = 샌드박스 IPC 액터
 
 ##
 ## Other
