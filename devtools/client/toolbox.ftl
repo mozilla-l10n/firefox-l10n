@@ -11,6 +11,9 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = Afixar no fundo
+toolbox-meatball-menu-dock-left-label = Afixar à esquerda
+toolbox-meatball-menu-dock-right-label = Afixar à direita
 toolbox-meatball-menu-dock-separate-window-label = Separar janela
 toolbox-meatball-menu-splitconsole-label = Mostrar consola dividida
 toolbox-meatball-menu-hideconsole-label = Ocultar consola dividida
