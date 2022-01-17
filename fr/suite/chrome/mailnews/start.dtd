@@ -29,3 +29,7 @@
 <!ENTITY info_bugs.label
 '<a href="http://www.mozilla.org/mailnews/">Nous</a> acceptons volontiers les rapports de bogues ainsi que les demandes
 d’améliorations, mais veuillez d’abord lire les <a id="releaseNotesURL" href="">notes de version</a> et faire une recherche dans <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Nous</a> acceptons volontiers les rapports de bug ainsi que les demandes
+d’améliorations, mais veuillez d’abord lire les <a id="releaseNotesURL" href="">notes de version</a> et faire une recherche dans <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

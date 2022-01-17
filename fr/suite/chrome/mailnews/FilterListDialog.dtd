@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "l">
 <!ENTITY choosethis.label "choisir ce dossier">
 <!ENTITY choosethisnewsserver.label "choisir ce serveur de groupes">
+<!ENTITY searchBox.emptyText "Rechercher les filtres par nom…">
