@@ -173,3 +173,22 @@ no-reply-reply-anyway-button = Weto wotegroniś
 ## error messages
 
 decrypt-and-copy-failures = { $failures } z { $total } powěsćow njejsu se dešifrěrowali a njejsu se kopěrowali.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Rědka źělnych programow
+spaces-toolbar-button-mail =
+    .title = K e-mailowemu rejtarikoju pśejś
+spaces-toolbar-button-address-book =
+    .title = K rejtarikoju adresnika pśejś
+spaces-toolbar-button-calendar =
+    .title = Ku kalenderowemu rejtarikoju pśejś
+spaces-toolbar-button-tasks =
+    .title = K nadawkowemu rejtarkoju pśejś
+spaces-toolbar-button-chat =
+    .title = K e-chattowemu rejtarikoju pśejś
+spaces-toolbar-button-settings =
+    .title = K rejtarikoju nastajenjow pśejś
+spaces-toolbar-button-collapse =
+    .title = Rědku źělnych programow schowaś

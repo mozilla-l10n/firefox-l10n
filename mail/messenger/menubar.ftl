@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Dotyknjenje
     .accesskey = D
+menu-spaces-toolbar-button =
+    .label = Rědka źělnych programow
+    .accesskey = l
 
 ## File
 
