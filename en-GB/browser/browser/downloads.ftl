@@ -112,7 +112,7 @@ downloads-cmd-clear-list =
     .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Clear Downloads
-    .accesskey = D
+    .accesskey = C
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Allow Download
