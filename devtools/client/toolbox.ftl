@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Zgromaźeństwo…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Wuskokujuce wokna awtomatiski njeschowaś
+toolbox-meatball-menu-pseudo-locale-accented = Lokale  „z diakritiskim znamjenim“ zmóžniś
+toolbox-meatball-menu-pseudo-locale-bidi = Lokale „bidi“ zmóžniś
 
 ##
 
