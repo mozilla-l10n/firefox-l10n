@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "f">
 <!ENTITY choosethis.label "mappa kiválasztása">
 <!ENTITY choosethisnewsserver.label "hírkiszolgáló kiválasztása">
+<!ENTITY searchBox.emptyText "Szűrők keresése név szerint…">
