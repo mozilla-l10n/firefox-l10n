@@ -313,9 +313,28 @@ import-info-no-keys = Không có khóa nào được nhập.
 import-from-clip = Bạn có muốn nhập (các) khóa từ khay nhớ tạm không?
 import-from-url = Tải xuống khóa công khai từ URL này:
 copy-to-clipbrd-failed = Không thể sao chép (các) khóa đã chọn vào khay nhớ tạm.
+copy-to-clipbrd-ok = Đã sao chép (các) khóa vào khay nhớ tạm
+delete-pub-key =
+    Bạn có muốn xóa khóa công khai không
+    "{ $userId }"?
+delete-selected-pub-key = Bạn có muốn xóa các khóa công khai không?
+refresh-all-question = Bạn đã không chọn bất kỳ khóa nào. Bạn có muốn làm mới TẤT CẢ các khóa không?
+key-man-button-export-sec-key = Xuất &khóa bí mật
+key-man-button-export-pub-key = Chỉ xuất khóa &công khai
+key-man-button-refresh-all = &Làm mới tất cả các khóa
+key-man-loading-keys = Đang tải khóa, vui lòng đợi…
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = không rõ
+key-valid-invalid = không hợp lệ
+key-valid-disabled = đã vô hiệu hóa
+key-valid-revoked = bị thu hồi
+key-valid-expired = đã hết hạn
+key-trust-untrusted = không đáng tin cậy
+key-trust-full = đáng tin cậy
+key-trust-group = (nhóm)
 # Strings used in commonWorkflows.js
 import-key-file = Nhập tập tin khóa OpenPGP
 gnupg-file = Tập tin GnuPG
