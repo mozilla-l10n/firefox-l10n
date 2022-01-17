@@ -12,6 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = নীচে ভিড়িয়ে রাখুন
+toolbox-meatball-menu-dock-left-label = বামে ডক করুন
+toolbox-meatball-menu-dock-right-label = ডানে ডক করুন
 toolbox-meatball-menu-dock-separate-window-label = পৃথক পর্দা
 toolbox-meatball-menu-splitconsole-label = স্প্লিট কনসোল দেখাও
 toolbox-meatball-menu-hideconsole-label = স্প্লিট কনসোল লুকাও
