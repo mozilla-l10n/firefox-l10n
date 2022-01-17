@@ -11,6 +11,9 @@
 ## external links. Some of the commands have the keyboard shortcut shown next to
 ## the label.
 
+toolbox-meatball-menu-dock-bottom-label = नीचे की ओर संक्षिप्त करें
+toolbox-meatball-menu-dock-left-label = बाँयी ओर संक्षिप्त करें
+toolbox-meatball-menu-dock-right-label = दाहिनी तरफ संक्षिप्त करें
 toolbox-meatball-menu-dock-separate-window-label = अलग विन्डो
 toolbox-meatball-menu-splitconsole-label = विभाजित कंसोल दिखाएं
 toolbox-meatball-menu-hideconsole-label = विभाजित कंसोल छिपाएं
