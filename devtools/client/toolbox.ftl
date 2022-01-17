@@ -12,6 +12,7 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = Fijar en la parte inferior
+toolbox-meatball-menu-dock-separate-window-label = Ventana separada
 toolbox-meatball-menu-splitconsole-label = Mostrar la consola dividida
 toolbox-meatball-menu-hideconsole-label = Ocultar la consola dividida
 toolbox-meatball-menu-settings-label = Ajustes
