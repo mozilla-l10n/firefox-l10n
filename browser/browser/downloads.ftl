@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Ześěgnjenja lašowaś
     .accesskey = Z
+downloads-cmd-delete-file =
+    .label = Lašowaś
+    .accesskey = L
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Ześěgnjenje dowóliś
