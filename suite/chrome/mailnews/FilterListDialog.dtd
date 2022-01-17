@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "r">
 <!ENTITY choosethis.label "Zvoliť tento priečinok">
 <!ENTITY choosethisnewsserver.label "Zvoliť tento server diskusných skupín">
+<!ENTITY searchBox.emptyText "Hľadať filtre podľa názvu…">
