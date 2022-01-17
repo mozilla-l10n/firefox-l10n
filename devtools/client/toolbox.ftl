@@ -12,8 +12,11 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = Прикріпити знизу
+toolbox-meatball-menu-dock-left-label = Прикріпити ліворуч
+toolbox-meatball-menu-dock-right-label = Прикріпити праворуч
 toolbox-meatball-menu-dock-separate-window-label = Окреме вікно
 toolbox-meatball-menu-splitconsole-label = Показати консоль розділення
+toolbox-meatball-menu-hideconsole-label = Сховати консоль розділення
 toolbox-meatball-menu-settings-label = Налаштування
 toolbox-meatball-menu-documentation-label = Документація…
 toolbox-meatball-menu-community-label = Спільнота…
