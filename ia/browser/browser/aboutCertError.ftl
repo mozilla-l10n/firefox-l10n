@@ -48,6 +48,7 @@ cert-error-code-prefix-link = Codice de error: <a data-l10n-name="error-code-lin
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Le sitos web garanti lor identitate per certificatos, le quales es emittite per autoritates de certification. Le major parte del navigatores non confide plus in le certificatos emittite per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa un certificato de un de iste autoritates. Consequentemente, le identitate del sito web non pote esser garantite.
 cert-error-symantec-distrust-admin = Tu pote informar le administrator del sito web de iste problema.
+cert-error-old-tls-version = Iste sito web non supporta le protocollo TLS 1.2, que es le minime version supportate per { -brand-short-name }.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Securitate stricte de transporto HTTP: { $hasHSTS }
