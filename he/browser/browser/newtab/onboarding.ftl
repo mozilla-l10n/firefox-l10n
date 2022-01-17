@@ -59,6 +59,7 @@ onboarding-multistage-import-secondary-button-label = לא כעת
 onboarding-import-sites-disclaimer =
     האתרים המוצגים כאן נמצאו במכשיר זה. { -brand-short-name } לא שומר או מסנכרן נתונים
     מדפדפן אחר אלא אם בחרת לייבא אותם.
+return-to-amo-add-theme-label = הוספת ערכת הנושא
 
 ## Multistage onboarding strings (about:welcome pages)
 

@@ -6,5 +6,6 @@ restart-required-title = נדרשת הפעלה מחדש
 restart-required-header = אנו זקוקים למשהו קטן כדי להמשיך. סליחה.
 restart-required-intro-brand = { -brand-short-name } התעדכן ברקע. יש ללחוץ על הפעלת { -brand-short-name } מחדש כדי להשלים את העדכון.
 restart-required-description = אנו נשחזר את כל הדפים, החלונות והלשוניות שלך לאחר מכן, כדי לאפשר לך להמשיך בעיסוקיך בזריזות.
-
+restart-required-heading = הפעלה מחדש להמשך שימוש ב־{ -brand-short-name }
+restart-required-intro = עדכון ל־{ -brand-short-name } התחיל ברקע. יהיה עליך להפעיל מחדש כדי לסיים את העדכון.
 restart-button-label = הפעלת { -brand-short-name } מחדש
