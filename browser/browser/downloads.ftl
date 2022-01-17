@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = 다운로드 정리
     .accesskey = D
+downloads-cmd-delete-file =
+    .label = 삭제
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = 다운로드 허용
