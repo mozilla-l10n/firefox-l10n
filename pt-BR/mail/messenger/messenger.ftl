@@ -169,3 +169,20 @@ no-reply-reply-anyway-button = Responder assim mesmo
 ## error messages
 
 decrypt-and-copy-failures = { $failures } de { $total } mensagens não puderam ser descriptografadas e não foram copiadas.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Barra de ferramentas de espaços
+spaces-toolbar-button-mail =
+    .title = Alternar para a aba de email
+spaces-toolbar-button-address-book =
+    .title = Alternar para a aba de catálogo de endereços
+spaces-toolbar-button-calendar =
+    .title = Alternar para a aba de agenda
+spaces-toolbar-button-tasks =
+    .title = Alternar para a aba de tarefas
+spaces-toolbar-button-chat =
+    .title = Alternar para a aba de conversa
+spaces-toolbar-button-settings =
+    .title = Alternar para a aba de configurações
