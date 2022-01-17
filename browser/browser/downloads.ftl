@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Xóa các tải xuống
     .accesskey = v
+downloads-cmd-delete-file =
+    .label = Xóa
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Cho phép tải xuống
