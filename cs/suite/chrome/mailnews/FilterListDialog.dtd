@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "r">
 <!ENTITY choosethis.label "Vybrat tuto složku">
 <!ENTITY choosethisnewsserver.label "vyberte diskusní server">
+<!ENTITY searchBox.emptyText "Hledat filtry podle názvu…">
