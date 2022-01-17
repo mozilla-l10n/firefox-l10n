@@ -188,7 +188,7 @@
 <!ENTITY sortByStatusCmd.accesskey "t">
 <!ENTITY sortByTagsCmd.label "Etiquetas">
 <!ENTITY sortByTagsCmd.accesskey "q">
-<!ENTITY sortByJunkStatusCmd.label "Spam">
+<!ENTITY sortByJunkStatusCmd.label "Status de spam">
 <!ENTITY sortByJunkStatusCmd.accesskey "m">
 <!ENTITY sortBySubjectCmd.label "Assunto">
 <!ENTITY sortBySubjectCmd.accesskey "s">
@@ -543,7 +543,7 @@
 <!ENTITY glodaSearch.title "Pesquisa global">
 <!ENTITY searchItem.title "Campo de pesquisa">
 <!ENTITY mailViewsToolbarItem.title "Modos de visualização">
-<!ENTITY folderLocationToolbarItem.title "Endereço da pasta">
+<!ENTITY folderLocationToolbarItem.title "Local da pasta">
 <!ENTITY tagButton.label "Etiquetas">
 <!ENTITY compactButton.label "Compactar">
 <!ENTITY appmenuButton.label "AppMenu">
@@ -629,7 +629,7 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
-<!ENTITY folderContextNew.label "Nova pasta…">
+<!ENTITY folderContextNew.label "Nova subpasta…">
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "m">
@@ -639,8 +639,8 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Esvaziar lixeira">
 <!ENTITY folderContextEmptyTrash.accesskey "x">
-<!ENTITY folderContextEmptyJunk.label "Excluir spans">
-<!ENTITY folderContextEmptyJunk.accesskey "x">
+<!ENTITY folderContextEmptyJunk.label "Esvaziar pasta de spam">
+<!ENTITY folderContextEmptyJunk.accesskey "v">
 <!ENTITY folderContextSendUnsentMessages.label "Enviar mensagens">
 <!ENTITY folderContextSendUnsentMessages.accesskey "E">
 <!ENTITY folderContextUnsubscribe.label "Cancelar inscrição">
@@ -674,7 +674,7 @@
 <!ENTITY searchRecipient.label "Para ou Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Assunto, Para ou Cc">
 <!ENTITY searchMessageBody.label "Texto da mensagem">
-<!ENTITY saveAsVirtualFolderMenu.label "Salvar como pasta…">
+<!ENTITY saveAsVirtualFolderMenu.label "Salvar pesquisa como pasta…">
 
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "Selecionar mensagens">
@@ -689,13 +689,13 @@
 <!ENTITY accountColumn.label "Conta">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
-<!ENTITY junkStatusColumn.label "Spam">
+<!ENTITY junkStatusColumn.label "Status de spam">
 <!ENTITY unreadColumn.label "Não lida">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lida">
 <!ENTITY receivedColumn.label "Recebimento">
 <!ENTITY starredColumn.label "Com estrela">
-<!ENTITY locationColumn.label "Pasta">
+<!ENTITY locationColumn.label "Local">
 <!ENTITY idColumn.label "Ordem de chegada">
 <!ENTITY attachmentColumn.label "Anexos">
 <!ENTITY deleteColumn.label "Excluir">
