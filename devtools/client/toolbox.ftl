@@ -12,6 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = નીચેથી ડોક કરો
+toolbox-meatball-menu-dock-left-label = ડાકથી ડાબે
+toolbox-meatball-menu-dock-right-label = ડાકથી જમણે
 toolbox-meatball-menu-splitconsole-label = સ્પ્લિટ કન્સોલ બતાવો
 toolbox-meatball-menu-hideconsole-label = સ્પ્લિટ કન્સોલ છુપાવો
 toolbox-meatball-menu-settings-label = સેટિંગ્સ
