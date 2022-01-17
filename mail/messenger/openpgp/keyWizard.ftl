@@ -116,3 +116,10 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Väline GnuPG võti
+openpgp-external-key-description = Välise GnuPG võtme seadistamiseks sisesta selle võtme ID
+openpgp-external-key-info = Lisaks sellele pead sa kasutama võtmehaldurit, et importida ja tunnustada seotud avalik võti.
+openpgp-external-key-warning = <b>Võimalik on seadistada ainult üks väline GnuPG võti.</b> Eelmine kirje asendatakse.
+openpgp-save-external-button = Salvesta võtme ID
+openpgp-external-key-label = Salajase võtme ID:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340
