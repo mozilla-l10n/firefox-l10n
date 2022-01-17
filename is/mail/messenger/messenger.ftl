@@ -173,6 +173,8 @@ decrypt-and-copy-failures = Ekki var hægt að afkóða { $failures } af { $tota
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Svæða-verkfæraslá
 spaces-toolbar-button-mail =
     .title = Skipta yfir í póstflipa
 spaces-toolbar-button-address-book =
@@ -181,3 +183,9 @@ spaces-toolbar-button-calendar =
     .title = Skipta yfir á dagatalsflipa
 spaces-toolbar-button-tasks =
     .title = Skipta yfir á verkefnaflipa
+spaces-toolbar-button-chat =
+    .title = Skipta yfir á spjallflipa
+spaces-toolbar-button-settings =
+    .title = Skipta yfir á stillingaflipa
+spaces-toolbar-button-collapse =
+    .title = Fella saman Svæða-verkfæraslá
