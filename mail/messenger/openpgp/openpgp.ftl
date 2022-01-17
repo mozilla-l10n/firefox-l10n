@@ -294,9 +294,86 @@ cannot-use-own-key-because = Không thể gửi tin nhắn vì có sự cố v�
 cannot-encrypt-because-missing = Không thể gửi thư này bằng mã hóa đầu cuối vì có vấn đề với khóa của những người nhận sau: { $problem }
 # Strings in keyserver.jsm
 keyserver-error-aborted = Đã hủy
+keyserver-error-unknown = Đã có lỗi xảy ra
+keyserver-error-import-error = Không thể nhập khóa đã tải xuống.
+expiry-open-key-manager = Mở Trình quản lý khóa OpenPGP
+expiry-open-key-properties = Mở thuộc tính khóa
+# Strings filters.jsm
+filter-folder-required = Bạn phải chọn một thư mục đích.
+filter-term-pgpencrypted-label = OpenPGP được mã hóa
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Giải mã vĩnh viễn (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Thành công! Các khóa đã được nhập
+import-info-created = Đã tạo
+import-info-fpr = Dấu vân tay
+import-info-no-keys = Không có khóa nào được nhập.
+# Strings in enigmailKeyManager.js
+import-from-clip = Bạn có muốn nhập (các) khóa từ khay nhớ tạm không?
+import-from-url = Tải xuống khóa công khai từ URL này:
+copy-to-clipbrd-failed = Không thể sao chép (các) khóa đã chọn vào khay nhớ tạm.
 
 ## Account settings export output
 
 
 # Strings used in enigmailMessengerOverlay.js
 
+sending-news =
+    Thao tác gửi được mã hóa đã bị hủy bỏ.
+    Không thể mã hóa thư này vì có người nhận trong nhóm tin. Vui lòng gửi lại tin nhắn mà không mã hóa.
+send-to-news-warning =
+    Cảnh báo: bạn sắp gửi một email được mã hóa đến một nhóm tin.
+    Điều này không được khuyến khích vì nó chỉ có ý nghĩa nếu tất cả các thành viên trong nhóm có thể giải mã thông điệp, tức là tin nhắn cần được mã hóa bằng khóa của tất cả những người tham gia nhóm. Vui lòng chỉ gửi tin nhắn này nếu bạn biết chính xác những gì bạn đang làm.
+    Tiếp tục?
+save-attachment-header = Lưu tập tin đính kèm được giải mã
+no-temp-dir =
+    Không thể tìm thấy một thư mục tạm thời để ghi vào
+    Vui lòng đặt biến môi trường TEMP
+cannot-send-sig-because-no-own-key = Không thể ký điện tử thông báo này vì bạn chưa định cấu hình mã hóa đầu cuối cho <{ $key }>
+cannot-send-enc-because-no-own-key = Không thể gửi thư đã mã hóa này vì bạn chưa định cấu hình mã hóa đầy cuối cho <{ $key }>
+compose-menu-attach-key =
+    .label = Đính kèm khóa công khai của tôi
+    .accesskey = A
+# Strings used in decryption.jsm
+do-import-multiple =
+    Nhập các khóa sau?
+    { $key }
+do-import-one = Nhập { $name } ({ $id })?
+cant-import = Lỗi khi nhập khóa công khai
+unverified-reply = Phần thư thụt lề (trả lời) có thể đã được sửa đổi
+key-in-message-body = Một khóa đã được tìm thấy trong nội dung thư. Nhấp vào 'Nhập khóa' để nhập khóa
+sig-mismatch = Lỗi - Chữ ký không khớp
+invalid-email = Lỗi - (Các) địa chỉ email không hợp lệ
+attachment-pgp-key =
+    Tập tin đính kèm ‘{ $name }’ mà bạn đang mở có vẻ là một tập tin khóa OpenPGP.
+    Nhấp vào 'Nhập' để nhập các khóa có trong hoặc 'Xem' để xem nội dung tập tin trong cửa sổ trình duyệt
+dlg-button-view = &Xem
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Thư đã được giải mã (đã khôi phục định dạng email PGP bị hỏng có thể do máy chủ Exchange cũ gây ra, do đó, kết quả có thể không hoàn hảo để đọc)
+# Strings used in encryption.jsm
+not-required = Lỗi - không cần mã hóa
+# Strings used in windows.jsm
+no-photo-available = Không có sẵn ảnh
+error-photo-path-not-readable = Không thể đọc đường dẫn ảnh ‘{ $photo }’
+debug-log-title = Nhật ký gỡ lỗi OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Cảnh báo này sẽ lặp lại { $count }
+repeat-suffix-singular = lần nữa.
+repeat-suffix-plural = lần nữa.
+no-repeat = Cảnh báo này sẽ không được hiển thị lại.
+dlg-keep-setting = Nhớ câu trả lời của tôi và không hỏi lại tôi
+dlg-button-ok = &OK
+dlg-button-close = Đóng (&C)
+dlg-button-cancel = &Hủy bỏ
+dlg-no-prompt = Không hiện lại hộp thoại này
+enig-prompt = Lời nhắc OpenPGP
+enig-confirm = Xác nhận OpenPGP
+enig-alert = Cảnh báo OpenPGP
+enig-info = Thông tin OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Thử lại
+dlg-button-skip = &Bỏ qua
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = Cảnh báo OpenPGP
