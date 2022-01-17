@@ -171,3 +171,22 @@ no-reply-reply-anyway-button = Все одно відровісти
 ## error messages
 
 decrypt-and-copy-failures = Не вдалося розшифрувати та скопіювати { $failures } з { $total } повідомлень.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Панель Простори
+spaces-toolbar-button-mail =
+    .title = Перемкнутись на вкладку пошти
+spaces-toolbar-button-address-book =
+    .title = Перемкнутись на вкладку адресної книги
+spaces-toolbar-button-calendar =
+    .title = Перемкнутись на вкладку календаря
+spaces-toolbar-button-tasks =
+    .title = Перемкнутись на вкладку завдань
+spaces-toolbar-button-chat =
+    .title = Перемкнутись на вкладку бесіди
+spaces-toolbar-button-settings =
+    .title = Перемкнутись на вкладку налаштувань
+spaces-toolbar-button-collapse =
+    .title = Згорнути панель Простори
