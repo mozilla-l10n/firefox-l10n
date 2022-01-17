@@ -17,6 +17,10 @@ toolbox-meatball-menu-hideconsole-label = Hide split console
 toolbox-meatball-menu-settings-label = Settings
 toolbox-meatball-menu-documentation-label = Documentation…
 toolbox-meatball-menu-community-label = Community…
+# This menu item is only available in the browser toolbox. It forces the popups/panels
+# to stay visible on blur, which is primarily useful for addon developers and Firefox
+# contributors.
+toolbox-meatball-menu-noautohide-label = Slökktu á sjálfvirkri felun sprettglugga
 
 ##
 
