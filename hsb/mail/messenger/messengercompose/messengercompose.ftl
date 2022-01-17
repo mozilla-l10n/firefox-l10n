@@ -299,6 +299,9 @@ cloud-file-template-download-limit = Sćehnjenski limit:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Zwiskowy zmylk
+cloud-file-connection-error = { -brand-short-name } je offline. Njemóžeše z { $provider } zwjazać.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Nahrawanje { $filename }  na { $provider } njeje so poradźiło
 # $provider (string) - name of the online storage service that reported the error

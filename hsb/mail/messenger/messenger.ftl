@@ -173,3 +173,18 @@ no-reply-reply-anyway-button = Najebać toho wotmołwić
 ## error messages
 
 decrypt-and-copy-failures = { $failures } z { $total } powěsćow njejsu so dešifrowali a njejsu so kopěrowali.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = K e-mejlowemu rajtarkej přeńć
+spaces-toolbar-button-address-book =
+    .title = K rajtarkej adresnika přeńć
+spaces-toolbar-button-calendar =
+    .title = K protykowemu rajtarkej přeńć
+spaces-toolbar-button-tasks =
+    .title = K nadawkowemu rajtarkej přepinać
+spaces-toolbar-button-chat =
+    .title = K chattowemu rajtarkej přeńć
+spaces-toolbar-button-settings =
+    .title = K rajtarkej nastajenjow přeńć
