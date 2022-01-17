@@ -179,3 +179,18 @@ decrypt-and-copy-failures =
         [few] { $failures } od { $total } sporočil ni bilo mogoče dešifrirati, zato niso bila kopirana.
        *[other] { $failures } od { $total } sporočil ni bilo mogoče dešifrirati, zato niso bila kopirana.
     }
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Preklopi na zavihek s pošto
+spaces-toolbar-button-address-book =
+    .title = Preklopi na zavihek z imenikom
+spaces-toolbar-button-calendar =
+    .title = Preklopi na zavihek s koledarji
+spaces-toolbar-button-tasks =
+    .title = Preklopi na zavihek z opravili
+spaces-toolbar-button-chat =
+    .title = Preklopi na zavihek s klepetom
+spaces-toolbar-button-settings =
+    .title = Preklopi na zavihek z nastavitvami
