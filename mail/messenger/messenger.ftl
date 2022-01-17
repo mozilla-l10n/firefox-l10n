@@ -186,3 +186,5 @@ spaces-toolbar-button-chat =
     .title = Alternar para a aba de conversa
 spaces-toolbar-button-settings =
     .title = Alternar para a aba de configurações
+spaces-toolbar-button-collapse =
+    .title = Recolher barra de ferramentas de espaços
