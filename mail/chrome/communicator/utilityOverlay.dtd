@@ -17,13 +17,12 @@
 <!ENTITY redoCmd.accesskey          "W">
 <!ENTITY deleteCmd.label          "Wotstronić">
 <!ENTITY deleteCmd.accesskey        "r">
-
 <!ENTITY customizeCmd.label "Přiměrić">
 <!ENTITY customizeCmd.accesskey "m">
 
 <!ENTITY viewMenu.label          "Napohlad">
 <!ENTITY viewMenu.accesskey        "N">
-<!ENTITY viewToolbarsMenu.label        "Pokazać/Schować">
+<!ENTITY viewToolbarsMenu.label        "Symbolowe lajsty">
 <!ENTITY viewToolbarsMenu.accesskey      "c">
 <!ENTITY showTaskbarCmd.label          "Statusowa lajsta">
 <!ENTITY showTaskbarCmd.accesskey        "s">
