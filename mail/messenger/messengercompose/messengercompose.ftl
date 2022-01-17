@@ -276,6 +276,9 @@ cloud-file-template-download-limit = 下載限制:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = 連線錯誤
+cloud-file-connection-error = { -brand-short-name } 已離線，無法連線至 { $provider }。
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = 將檔案 { $filename } 上傳到 { $provider } 失敗
 # $provider (string) - name of the online storage service that reported the error
