@@ -168,3 +168,18 @@ no-reply-reply-anyway-button = 還是要回覆
 ## error messages
 
 decrypt-and-copy-failures = 無法解密全部共 { $total } 封訊息當中的 { $failures } 封訊息，並未複製。
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = 切換到郵件分頁
+spaces-toolbar-button-address-book =
+    .title = 切換到通訊錄分頁
+spaces-toolbar-button-calendar =
+    .title = 切換到行事曆分頁
+spaces-toolbar-button-tasks =
+    .title = 切換到工作分頁
+spaces-toolbar-button-chat =
+    .title = 切換到聊天分頁
+spaces-toolbar-button-settings =
+    .title = 切換到設定分頁
