@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Bendruomenė…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Išjungti automatinį iškylančiųjų langų slėpimą
+toolbox-meatball-menu-pseudo-locale-accented = Įjungti „kirčiuotą“ lokalę
+toolbox-meatball-menu-pseudo-locale-bidi = Įjungti „dvikryptę“ lokalę
 
 ##
 
