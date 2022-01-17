@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Limpiar descargas
     .accesskey = d
+downloads-cmd-delete-file =
+    .label = Borrar
+    .accesskey = B
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permitir descarga
