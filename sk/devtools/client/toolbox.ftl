@@ -25,6 +25,7 @@ toolbox-meatball-menu-community-label = Komunita…
 # contributors.
 toolbox-meatball-menu-noautohide-label = Vypnúť automatické skrývanie vyskakovacích okien
 toolbox-meatball-menu-pseudo-locale-accented = Zapnúť jazyk s diakritikou
+toolbox-meatball-menu-pseudo-locale-bidi = Zapnúť “bidi” jazyk
 
 ##
 
