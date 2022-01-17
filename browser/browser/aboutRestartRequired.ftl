@@ -6,4 +6,7 @@ restart-required-title = Krefst endurræsingar
 restart-required-header = Því miður þurfum við að gera svolítið til að halda áfram.
 restart-required-intro-brand = { -brand-short-name } uppfært í bakgrunni. Smelltu á endurræsa { -brand-short-name } til að klára uppfærslu.
 restart-required-description = Við munum endurheimta allar síður, glugga og flipa í kjölfarið svo þú getir haldið áfram.
+restart-required-heading = Endurræstu til að halda áfram að nota { -brand-short-name }
+restart-required-intro = Uppfærsla á { -brand-short-name } hófst í bakgrunni. Þú þarft að endurræsa til að ljúka við uppfærsluna.
+window-restoration-info = Gluggarnir þínir og flipar verða fljótt endurheimtir, en huliðsgluggar/flipar ekki.
 restart-button-label = Endurræsa { -brand-short-name }

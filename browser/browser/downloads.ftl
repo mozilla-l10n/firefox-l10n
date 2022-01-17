@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Hreinsa niðurhal
     .accesskey = n
+downloads-cmd-delete-file =
+    .label = Eyða
+    .accesskey = E
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Leyfa niðurhal
