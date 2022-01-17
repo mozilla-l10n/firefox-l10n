@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "å">
 <!ENTITY choosethis.label "välj denna mapp">
 <!ENTITY choosethisnewsserver.label "välj denna diskussionsgruppsserver">
+<!ENTITY searchBox.emptyText "Sök filter efter namn…">
