@@ -176,6 +176,8 @@ decrypt-and-copy-failures = { $failures } z { $total } powěsćow njejsu so deš
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Lajsta dźělnych programow
 spaces-toolbar-button-mail =
     .title = K e-mejlowemu rajtarkej přeńć
 spaces-toolbar-button-address-book =
@@ -188,3 +190,5 @@ spaces-toolbar-button-chat =
     .title = K chattowemu rajtarkej přeńć
 spaces-toolbar-button-settings =
     .title = K rajtarkej nastajenjow přeńć
+spaces-toolbar-button-collapse =
+    .title = Lajstu dźělnych programow schować
