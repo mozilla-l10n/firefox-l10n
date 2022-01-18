@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-httpsonly-button-continue-to-site = Ба сомонаи HTTP идома диҳед
+about-httpsonly-button-go-back = Бозгашт
 about-httpsonly-link-learn-more = Маълумоти бештар…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established

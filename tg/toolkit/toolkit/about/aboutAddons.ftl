@@ -176,7 +176,13 @@ locale-disabled-heading = Ғайрифаъол аст
 sitepermission-enabled-heading = Фаъол аст
 sitepermission-disabled-heading = Ғайрифаъол аст
 always-activate-button = Ҳамеша фаъол карда шавад
+never-activate-button = Ҳеҷ гоҳ фаъол карда нашавад
+addon-detail-author-label = Муаллиф
 addon-detail-version-label = Силсила
+addon-detail-last-updated-label = Санаи навсозии охирин
+addon-detail-homepage-label = Саҳифаи асосӣ
+addon-detail-rating-label = Баҳодиҳӣ
+install-postponed-button = Ҳозир навсозӣ кунед
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -188,6 +194,11 @@ addon-name-disabled = { $name } (ғайрифаъол)
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
 pending-uninstall-undo-button = Бекор кардан
+addon-detail-updates-radio-default = Пешфарз
+addon-detail-updates-radio-on = Фаъол
+addon-detail-updates-radio-off = Ғайрифаъол
+addon-detail-update-check-label = Санҷиши навсозиҳо
+install-update-button = Навсозӣ кардан
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -204,6 +215,7 @@ addon-detail-private-browsing-disallow = Иҷозат дода нашавад
 
 available-updates-heading = Навсозиҳои дастрас
 recent-updates-heading = Навсозиҳои охирин
+release-notes-loading = Бор шуда истодааст…
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 
 ## Page headings
