@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Clirio Llwythi
     .accesskey = L
+downloads-cmd-delete-file =
+    .label = Dileu
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Caniatáu Llwytho i Lawr

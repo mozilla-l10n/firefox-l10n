@@ -42,6 +42,8 @@ process-type-gpu = GPU
 process-type-socket = Soced
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Actor IPC mewn blwch tywod
 
 ##
 ## Other
