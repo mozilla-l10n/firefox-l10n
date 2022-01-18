@@ -8,6 +8,7 @@
 more-from-moz-title = Altero ab { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Altero ab { -vendor-short-name }
+more-from-moz-subtitle = Discoperi altere productos de { -vendor-short-name } que labora pro supportar un internet san.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
 more-from-moz-firefox-mobile-description = Le navigator mobile que antepone tu confidentialitate
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
