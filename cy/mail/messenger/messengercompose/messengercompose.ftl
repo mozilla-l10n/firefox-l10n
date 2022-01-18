@@ -317,6 +317,9 @@ cloud-file-template-download-limit = Terfyn Llwytho i Lawr:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Gwall Cysylltiad
+cloud-file-connection-error = Mae { -brand-short-name } all-lein. Methu cysylltu â { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Methodd Llwytho { $filename } i { $provider }
 # $provider (string) - name of the online storage service that reported the error
