@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Мудири ҷузъи иловагӣ
+list-empty-available-updates =
+    .value = Ягон навсозӣ ёфт нашуд
 list-empty-find-updates =
     .label = Санҷиши навсозиҳо
 list-empty-button =
@@ -17,6 +19,12 @@ show-all-extensions-button =
     .label = Намоиш додани ҳамаи васеъшавиҳо
 detail-version =
     .label = Силсила
+detail-update-automatic =
+    .label = Фаъол
+    .tooltiptext = Навсозиҳо ба таври худкор насб карда мешаванд
+detail-update-manual =
+    .label = Ғайрифаъол
+    .tooltiptext = Навсозиҳо ба таври худкор насб карда намешаванд
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Иҷро кардан дар равзанаҳои махфӣ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
@@ -24,6 +32,12 @@ detail-private-browsing-label = Иҷро кардан дар равзанаҳо�
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Дастрасӣ ба равзанаҳои махфӣ лозим аст
+detail-home-value =
+    .value = { detail-home.label }
+detail-repository =
+    .label = Профили ҷузъи иловагӣ
+detail-repository-value =
+    .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Санҷиши навсозиҳо
     .accesskey = С
@@ -48,6 +62,9 @@ addon-restart-now =
     .label = Ҳозир аз нав оғоз карда шавад
 disabled-unsigned-heading =
     .value = Баъзеи ҷузъҳои иловагӣ ғайрифаъол карда шудаанд
+legacy-warning-show-legacy = Намоиш додани васеъшавиҳои қуҳнашуда
+legacy-extensions =
+    .value = Васеъшавиҳои қуҳнашуда
 addon-category-discover = Тавсияҳо
 addon-category-discover-title =
     .title = Тавсияҳо
@@ -72,6 +89,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Навсозиҳои охирин
 addon-category-recent-updates-title =
     .title = Навсозиҳои охирин
+addon-category-sitepermission = Иҷозатҳои сомона
+addon-category-sitepermission-title =
+    .title = Иҷозатҳои сомона
 
 ## These are global warnings
 
@@ -126,11 +146,36 @@ addon-options-button =
 
 ## Add-on actions
 
+report-addon-button = Гузориш додан
+remove-addon-button = Тоза кардан
+disable-addon-button = Ғайрифаъол кардан
+enable-addon-button = Фаъол кардан
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Фаъол кардан
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Имконот
        *[other] Хусусиятҳо
     }
+details-addon-button = Тафсилот
+release-notes-addon-button = Қайдҳои нашр
+permissions-addon-button = Иҷозатҳо
+extension-enabled-heading = Фаъол аст
+extension-disabled-heading = Ғайрифаъол аст
+theme-enabled-heading = Фаъол аст
+theme-disabled-heading = Ғайрифаъол аст
+theme-monochromatic-heading = Нақшу нигор
+plugin-enabled-heading = Фаъол аст
+plugin-disabled-heading = Ғайрифаъол аст
+dictionary-enabled-heading = Фаъол аст
+dictionary-disabled-heading = Ғайрифаъол аст
+locale-enabled-heading = Фаъол аст
+locale-disabled-heading = Ғайрифаъол аст
+sitepermission-enabled-heading = Фаъол аст
+sitepermission-disabled-heading = Ғайрифаъол аст
+always-activate-button = Ҳамеша фаъол карда шавад
 addon-detail-version-label = Силсила
 # This string is used to show that an add-on is disabled.
 # Variables:
