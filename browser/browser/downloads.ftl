@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Ачысціць сцягванні
     .accesskey = с
+downloads-cmd-delete-file =
+    .label = Выдаліць
+    .accesskey = В
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Дазволіць сцягванне
