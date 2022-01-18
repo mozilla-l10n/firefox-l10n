@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Puutetundlikule ekraanile
     .accesskey = d
+menu-spaces-toolbar-button =
+    .label = Rakenduskaartide tööriistariba
+    .accesskey = R
 
 ## File
 

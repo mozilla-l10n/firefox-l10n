@@ -170,3 +170,22 @@ no-reply-reply-anyway-button = Vasta igal juhul
 ## error messages
 
 decrypt-and-copy-failures = { $failures } kirja { $total } kirjast polnud võimalik dekrüptida ja neid ei kopeeritud.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Rakenduskaartide tööriistariba
+spaces-toolbar-button-mail =
+    .title = Lülitu e-posti kaardile
+spaces-toolbar-button-address-book =
+    .title = Lülitu aadressiraamatu kaardile
+spaces-toolbar-button-calendar =
+    .title = Lülitu kalendri kaardile
+spaces-toolbar-button-tasks =
+    .title = Lülitu ülesannete kaardile
+spaces-toolbar-button-chat =
+    .title = Lülitu vestluste kaardile
+spaces-toolbar-button-settings =
+    .title = Lülitu sätete kaardile
+spaces-toolbar-button-collapse =
+    .title = Ahenda rakenduskaartide tööriistariba
