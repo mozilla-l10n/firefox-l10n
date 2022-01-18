@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Cymuned…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Analluogi awtoguddio llamlenni
+toolbox-meatball-menu-pseudo-locale-accented = Galluogi locale “acennog”.
+toolbox-meatball-menu-pseudo-locale-bidi = Galluogi locale “bidi”.
 
 ##
 
