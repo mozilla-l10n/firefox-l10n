@@ -25,6 +25,7 @@ toolbox-meatball-menu-community-label = Communitate…
 # contributors.
 toolbox-meatball-menu-noautohide-label = Disactivar le celamento automatic de fenestras emergente
 toolbox-meatball-menu-pseudo-locale-accented = Activar lingua “con accento”
+toolbox-meatball-menu-pseudo-locale-bidi = Activar lingua “bidi”
 
 ##
 
