@@ -5,12 +5,12 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Altero ab { -vendor-short-name }
+more-from-moz-title = Plus de { -vendor-short-name }
 more-from-moz-category =
-    .tooltiptext = Altero ab { -vendor-short-name }
+    .tooltiptext = Plus de { -vendor-short-name }
 more-from-moz-subtitle = Discoperi altere productos de { -vendor-short-name } que labora pro supportar un internet san.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
-more-from-moz-firefox-mobile-description = Le navigator mobile que antepone tu confidentialitate
+more-from-moz-firefox-mobile-description = Le navigator mobile que antepone tu vita private.
 more-from-moz-firefox-mobile-description-advanced = Ab le blocada de traciatores, al poner frenos al enoios del autoreproduction, le navigatores mobile { -brand-product-name } labora in tempore extraordinari pro render te secur de obtener le bon internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Discoperi un strato additional de navigation anonyme e protection.
