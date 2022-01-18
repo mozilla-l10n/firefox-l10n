@@ -12,8 +12,8 @@
 ## the label.
 
 toolbox-meatball-menu-dock-bottom-label = Ancorar al fundo
-toolbox-meatball-menu-dock-left-label = Accostar a sinistra
-toolbox-meatball-menu-dock-right-label = Fixar a dextra
+toolbox-meatball-menu-dock-left-label = Ancorar a sinistra
+toolbox-meatball-menu-dock-right-label = Ancorar a dextra
 toolbox-meatball-menu-dock-separate-window-label = Fenestra separate
 toolbox-meatball-menu-splitconsole-label = Monstrar le consola dividite
 toolbox-meatball-menu-hideconsole-label = Celar le consola dividite
