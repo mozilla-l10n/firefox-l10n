@@ -278,6 +278,9 @@ cloud-file-template-download-limit = Allalaadimiste limiit:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Ühenduse viga
+cloud-file-connection-error = { -brand-short-name }il puudub võrk. Ühendust teenusega { $provider } polnud võimalik luua.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Faili { $filename } üleslaadimine teenusesse { $provider } ebaõnnestus
 # $provider (string) - name of the online storage service that reported the error
