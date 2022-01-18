@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Puhasta allalaadimiste nimekiri
     .accesskey = u
+downloads-cmd-delete-file =
+    .label = Kustuta
+    .accesskey = K
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Luba allalaadimine
