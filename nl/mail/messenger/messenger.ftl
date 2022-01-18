@@ -169,3 +169,18 @@ no-reply-reply-anyway-button = Toch antwoorden
 ## error messages
 
 decrypt-and-copy-failures = { $failures } van { $total } berichten kunnen niet worden ontsleuteld en zijn niet gekopieerd.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Wisselen naar het e-mailtabblad
+spaces-toolbar-button-address-book =
+    .title = Wisselen naar het adresboektabblad
+spaces-toolbar-button-calendar =
+    .title = Wisselen naar het agendatabblad
+spaces-toolbar-button-tasks =
+    .title = Wisselen naar het takentabblad
+spaces-toolbar-button-chat =
+    .title = Wisselen naar het chattabblad
+spaces-toolbar-button-settings =
+    .title = Wisselen naar het instellingentabblad
