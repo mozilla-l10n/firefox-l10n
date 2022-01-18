@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Tekoha…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Eipe’aite kañymby ijeheguíva ovetã apysẽgui
+toolbox-meatball-menu-pseudo-locale-accented = Emyandy ñe’ẽ “imyanduhéva”
+toolbox-meatball-menu-pseudo-locale-bidi = Emyandy ñe’ẽ “bidi”
 
 ##
 
