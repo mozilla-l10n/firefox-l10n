@@ -280,6 +280,9 @@ cloud-file-template-download-limit = Downloadlimyt:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Ferbiningsflater
+cloud-file-connection-error = { -brand-short-name } is offline. Koe gjin ferbining meitsje mei { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Opladen fan { $filename } nei { $provider } mislearre
 # $provider (string) - name of the online storage service that reported the error
