@@ -280,6 +280,9 @@ cloud-file-template-download-limit = Downloadlimiet:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Verbindingsfout
+cloud-file-connection-error = { -brand-short-name } is offline. Kan geen verbinding maken met { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Uploaden van { $filename } naar { $provider } mislukt
 # $provider (string) - name of the online storage service that reported the error
