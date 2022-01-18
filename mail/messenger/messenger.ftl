@@ -177,3 +177,22 @@ no-reply-reply-anyway-button = Ateb Beth Bynnag
 ## error messages
 
 decrypt-and-copy-failures = Nid oedd modd dadgryptio { $failures } o { $total } o negeseuon ac heb eu copïo.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Bar Offer Bylchau
+spaces-toolbar-button-mail =
+    .title = Symud i'r tab e-bost
+spaces-toolbar-button-address-book =
+    .title = Symud i'r tab llyfr cyfeiriadau
+spaces-toolbar-button-calendar =
+    .title = Symud i'r tab calendr
+spaces-toolbar-button-tasks =
+    .title = Symud i'r tab tasgau
+spaces-toolbar-button-chat =
+    .title = Symud i'r tab sgwrsio
+spaces-toolbar-button-settings =
+    .title = Symud i'r tab gosodiadau
+spaces-toolbar-button-collapse =
+    .title = Cau'r bar offer bylchau
