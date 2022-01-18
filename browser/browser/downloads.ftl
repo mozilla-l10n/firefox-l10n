@@ -42,7 +42,7 @@ downloads-cmd-show-menuitem-2 =
             [macos] Паказаць у Finder
            *[other] Паказаць у папцы
         }
-    .accesskey = F
+    .accesskey = а
 downloads-cmd-use-system-default =
     .label = Адкрыць у сістэмным праглядальніку
     .accesskey = м
