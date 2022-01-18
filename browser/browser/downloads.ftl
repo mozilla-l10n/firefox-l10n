@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Downloads wiskje
     .accesskey = D
+downloads-cmd-delete-file =
+    .label = Fuortsmite
+    .accesskey = F
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Downloaden tastean

@@ -20,13 +20,12 @@
 
 <!ENTITY dnsNotFound.pageTitle "Server net fûn">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>As it adres krekt is, kinne jo trije oare saken probearje:</strong>
+<strong>As it adres korrekt is, kinne jo trije oare saken probearje:</strong>
 <ul>
  <li>Probearje it letter opnij.</li>
  <li>Kontrolearje jo netwurkferbining.</li>
  <li>As jo ferbining hawwe mar jo efter in firewall binne, kontrolearje dan oft &brandShortName; tagong hat ta it web.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY fileNotFound.longDesc "
 <ul>
