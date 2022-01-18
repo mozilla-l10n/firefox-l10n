@@ -68,6 +68,9 @@ openpgp-keygen-missing-username = Za trenutni račun ni določenega imena. V nas
 openpgp-keygen-long-expiry = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
 openpgp-keygen-short-expiry = Ključ mora biti veljaven vsaj en dan.
 openpgp-keygen-ongoing = Ustvarjanje ključev že poteka!
+openpgp-keygen-error-failed = Ustvarjanje ključev OpenPGP je nepričakovano spodletelo
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Ključ OpenPGP je bil uspešno ustvarjen, ni pa bilo mogoče pridobiti preklica za ključ { $key }
 openpgp-keygen-abort-title = Prekini ustvarjanje ključev?
 openpgp-keygen-abort = V teku je ustvarjanje ključev OpenPGP, ali ste prepričani, da ga želite prekiniti?
 #   $identity (String) - the name and email address of the currently selected identity

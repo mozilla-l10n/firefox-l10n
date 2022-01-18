@@ -7,6 +7,7 @@ import-page-title = Uvozi
 ## Header
 
 import-from-app = Uvozi iz programa
+import-from-app-desc = Izberite uvoz računov, imenikov, koledarjev in drugih podatkov iz:
 import-address-book = Uvozi datoteko z imenikom
 import-calendar = Uvozi datoteko s koledarjem
 
@@ -21,6 +22,7 @@ button-continue = Nadaljuj
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Uvozi iz programa { $app }
+profiles-pane-desc = Izberite mesto, s katerega želite uvoziti podatke
 profile-file-picker-dir = Izberite mapo s profilom
 profile-file-picker-zip = Izberite datoteko .zip (manjšo od 2 GB)
 items-pane-title = Izberite, kaj želite uvoziti
