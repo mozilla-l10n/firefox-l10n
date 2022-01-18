@@ -169,3 +169,18 @@ no-reply-reply-anyway-button = Svara ändå
 ## error messages
 
 decrypt-and-copy-failures = { $failures } av { $total } meddelanden kunde inte dekrypteras och kopierades inte.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Växla till e-postfliken
+spaces-toolbar-button-address-book =
+    .title = Växla till adressboksfliken
+spaces-toolbar-button-calendar =
+    .title = Växla till fliken kalender
+spaces-toolbar-button-tasks =
+    .title = Växla till fliken uppgifter
+spaces-toolbar-button-chat =
+    .title = Växla till chattfliken
+spaces-toolbar-button-settings =
+    .title = Växla till fliken Inställningar
