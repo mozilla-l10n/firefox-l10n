@@ -171,6 +171,8 @@ decrypt-and-copy-failures = 無法解密全部共 { $total } 封訊息當中的 
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = 按鈕空間
 spaces-toolbar-button-mail =
     .title = 切換到郵件分頁
 spaces-toolbar-button-address-book =
@@ -183,3 +185,5 @@ spaces-toolbar-button-chat =
     .title = 切換到聊天分頁
 spaces-toolbar-button-settings =
     .title = 切換到設定分頁
+spaces-toolbar-button-collapse =
+    .title = 摺疊按鈕空間
