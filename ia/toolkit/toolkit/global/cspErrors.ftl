@@ -4,7 +4,7 @@
 
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
-csp-error-missing-directive = Le politica es carente de un directiva necessari ‘{ $directive }’
+csp-error-missing-directive = Le politica non contine le directiva obligatori ‘{ $directive }’
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
@@ -24,4 +24,4 @@ csp-error-missing-source = ‘{ $directive }’ debe includer le fonte { $source
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-illegal-host-wildcard = { $scheme }: fontes de wildcard in directivas ‘{ $directive }’ debe includer al minus un subdominio non generic (pro exemplo, *.example.com plus tosto que *.com)
+csp-error-illegal-host-wildcard = { $scheme }: fontes con metacharacteres in directivas ‘{ $directive }’ debe includer al minus un subdominio non generic (per exemplo, *.example.com e non *.com)
