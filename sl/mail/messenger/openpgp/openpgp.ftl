@@ -43,6 +43,7 @@ openpgp-generate-key =
     .tooltiptext = Ustvari nov ključ, skladen z OpenPGP, za šifriranje in/ali podpisovanje
 openpgp-advanced-prefs-button-label =
     .label = Napredno …
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OPOMBA: Ustvarjanje ključev lahko traja nekaj minut.</a> Med ustvarjanjem ključev ne zapirajte programa. Dejavno brskanje ali izvajanje zahtevnih opravil na disku bo polnilo "bazen naključnosti" in pospešilo postopek ustvarjanja ključev. Obveščeni boste, ko bo postopek končan.
 openpgp-key-expiry-label =
     .label = Datum preteka
 openpgp-key-id-label =
@@ -336,6 +337,7 @@ cannot-use-own-key-because = Sporočila ni mogoče poslati, ker je prišlo do te
 cannot-encrypt-because-missing = Tega sporočila ni mogoče poslati s šifriranjem od konca do konca zaradi težav s ključi naslednjih prejemnikov: { $problem }
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Šifriran del sporočila
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = To je šifriran del sporočila. Odpreti ga morate v ločenem oknu, tako da kliknete na priponko.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prekinjeno
@@ -346,6 +348,9 @@ keyserver-error-unavailable = Strežnik ključev ni na voljo.
 keyserver-error-security-error = Strežnik ključev ne podpira šifriranega dostopa.
 keyserver-error-certificate-error = Strežnik ključev uporablja neveljavno digitalno potrdilo.
 keyserver-error-unsupported = Strežnik ključev ni podprt.
+# Strings in gpg.jsm
+unknown-signing-alg = Neznan algoritem za podpisovanje (ID: { $id })
+unknown-hash-alg = Neznana kriptografska zgoščena vrednost (ID: { $id })
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Vaš ključ { $desc } bo pretekel čez manj kot { $days } dni.
@@ -365,6 +370,7 @@ filter-key-required = Izbrati morate ključ prejemnika.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Trajno dešifriraj (OpenPGP)
 filter-decrypt-copy-label = Ustvari dešifrirano kopijo (OpenPGP)
+filter-encrypt-label = Šifriraj v ključ (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Ključi so uspešno uvoženi!

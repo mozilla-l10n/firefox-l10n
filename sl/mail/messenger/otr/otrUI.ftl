@@ -15,6 +15,8 @@ auth-fail = Istovetnosti stika ni bilo mogoče preveriti.
 auth-waiting = Čakanje, da stik dokonča preverjanje …
 finger-verify = Preveri
 finger-verify-access-key = v
+finger-ignore = Prezri
+finger-ignore-access-key = z
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Dodaj prstni odtis OTR
 # Variables:
