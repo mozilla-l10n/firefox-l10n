@@ -275,6 +275,8 @@ cloud-file-template-download-limit = 下载限制：
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = 连接错误
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = 上传 { $filename } 到 { $provider } 失败
 # $provider (string) - name of the online storage service that reported the error
