@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "γ">
 <!ENTITY choosethis.label "επιλογή φακέλου">
 <!ENTITY choosethisnewsserver.label "επιλογή διακομιστή συζήτησης">
+<!ENTITY searchBox.emptyText "Αναζήτηση φίλτρων με όνομα…">
