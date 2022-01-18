@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = 暂时不要
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = 在此设备找到上面列出的网站。除非您选择导入，否则 { -brand-short-name } 不会保存或同步另一浏览器的数据。
+return-to-amo-add-theme-label = 安装主题
 
 ## Multistage onboarding strings (about:welcome pages)
 
