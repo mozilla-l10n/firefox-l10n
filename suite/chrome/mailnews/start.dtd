@@ -28,3 +28,9 @@
 '<a href="http://www.mozilla.org/mailnews/">Nosotros</a> apreciamos los informes de errores y pedidos de nuevas
 características, pero lea las <a id="releaseNotesURL" href="">notas de la versión</a> y notifique en
 <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> primero.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Nosotros</a>apreciamos
+los informes de errores y solicitudes de funciones, pero lea el
+<a id="releaseNotesURL" href="">notas de la versión</a> y consulte
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> primero.'>
