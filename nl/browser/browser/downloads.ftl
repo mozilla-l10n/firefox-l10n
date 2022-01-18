@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Downloads wissen
     .accesskey = w
+downloads-cmd-delete-file =
+    .label = Verwijderen
+    .accesskey = w
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Downloaden toestaan
