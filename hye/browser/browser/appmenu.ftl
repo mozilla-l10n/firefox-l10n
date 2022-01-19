@@ -187,11 +187,20 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Առաջարկուում է թոյլ վերադրով կայքերի վրիպազերծումը:
 profiler-popup-presets-web-developer-label =
     .label = Ցանցային ծրագրաւորող
-profiler-popup-presets-firefox-description = Առաջարկուող յաւելուած յատկագրման համար՝ { -brand-shorter-name }:
+profiler-popup-presets-firefox-description = Առաջարկուող յաւելուած { -brand-shorter-name }-ի յատկագրման համար
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Յաւելուած { -brand-shorter-name } ֊ում գծապատկերային սխալների բացայայտման համար․․․
 profiler-popup-presets-graphics-label =
     .label = Գծապատկերներ
+profiler-popup-presets-media-description2 = Յաւելուած { -brand-shorter-name } -ում ձայնային եւ տեսային սխալների բացայայտման համար․․․
+profiler-popup-presets-media-label =
+    .label = Տեսադարան
+profiler-popup-presets-networking-description = Յաւելուած { -brand-shorter-name } -ում ցանցային սխալների բացայայտման համար․․․
+profiler-popup-presets-networking-label =
+    .label = Ցանցաստեղծում
+profiler-popup-presets-custom-label =
+    .label = Յարմարեցուած
 
 ## History panel
 
@@ -219,6 +228,9 @@ appmenu-about =
 appmenu-get-help =
     .label = Ստանալ աւգնութիւն
     .accesskey = Ս
+appmenu-help-more-troubleshooting-info =
+    .label = Յաւելեալ տեղեկութիւն շտկման վերաբերեալ
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = Զեկուցել կայքի թողարկման մասին…
 appmenu-help-feedback-page =
