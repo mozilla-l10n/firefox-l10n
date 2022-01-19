@@ -170,3 +170,22 @@ no-reply-reply-anyway-button = Tuttina respunder
 ## error messages
 
 decrypt-and-copy-failures = I n'è betg reussì da decriptar { $failures } da { $total } messadis. Quels n'èn betg vegnids copiads.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Trav d'utensils da locals
+spaces-toolbar-button-mail =
+    .title = Midar al tab dad e-mails
+spaces-toolbar-button-address-book =
+    .title = Midar al tab dal cudeschet d'adressas
+spaces-toolbar-button-calendar =
+    .title = Midar al tab dal chalender
+spaces-toolbar-button-tasks =
+    .title = Midar al tab dad incumbensas
+spaces-toolbar-button-chat =
+    .title = Midar al tab da chats
+spaces-toolbar-button-settings =
+    .title = Midar al tab dals parameters
+spaces-toolbar-button-collapse =
+    .title = Reducir la trav da locals
