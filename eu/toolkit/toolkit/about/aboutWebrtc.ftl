@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC erregistroa
 about-webrtc-aec-logging-off-state-label = Hasi AEC erregistroa
 about-webrtc-aec-logging-on-state-label = Gelditu AEC erregistroa
 about-webrtc-aec-logging-on-state-msg = AEC erregistroa aktibo (hitz egin denbora batez deitu duenarekin eta gelditu kaptura gero)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatikoki berritu
 
 ##
 

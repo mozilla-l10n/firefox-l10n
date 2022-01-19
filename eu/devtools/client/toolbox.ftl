@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Komunitatea…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Desgaitu laster-menuak automatikoki ezkutatzea
+toolbox-meatball-menu-pseudo-locale-accented = Gaitu "azentudun" hizkuntza
+toolbox-meatball-menu-pseudo-locale-bidi = Gaitu "bidi" hizkuntza
 
 ##
 

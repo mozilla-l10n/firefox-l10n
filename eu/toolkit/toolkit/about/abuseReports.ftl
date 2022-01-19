@@ -67,9 +67,11 @@ abuse-report-settings-suggestions-homepage = Aldatu zure hasiera-orria eta fitxa
 abuse-report-deceptive-reason-v2 = Benetan ez den zerbait izaten saiatu da
 abuse-report-deceptive-example = Adibidea: gezurretako azalpen edo iruditeria
 abuse-report-broken-reason-extension-v2 = Ez dabil, webguneak apurtzen ditu edo { -brand-product-name } moteltzen du
+abuse-report-broken-reason-sitepermission-v2 = Ez dabil, webguneak apurtzen ditu edo { -brand-product-name } moteltzen du
 abuse-report-broken-reason-theme-v2 = Ez dabil edo nabigatzailearen bistaratzea apurtzen du
 abuse-report-broken-example = Adibidea: eginbideak makalak edo erabiltzeko zailak dira, edo ez dabil; webguneetako zatiak ez dabiltza edo ezohikoak dirudite
 abuse-report-broken-suggestions-extension = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean hedapenaren garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu hedapenaren webgunea</a>.
+abuse-report-broken-suggestions-sitepermission = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean webgunearen garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu webgunea</a>.
 abuse-report-broken-suggestions-theme = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean itxuraren garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu itxuraren webgunea</a>.
 abuse-report-policy-reason-v2 = Eduki gaitzesgarria, indarkeriazkoa edo ilegala du
 abuse-report-policy-suggestions = Oharra: Copyright eta marka erregistratuei buruzko arazoak aparteko prozesu batean salatu behar dira. Arazoaren berri emateko, <a data-l10n-name="report-infringement-link">erabili jarraibide hauek</a>.
