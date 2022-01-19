@@ -354,6 +354,12 @@ browser-tab-unmute =
         [one] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
        *[other] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
     }
+browser-tab-unblock =
+    { $count ->
+        [1] ՄԻԱՑՆԵԼ ՆԵՐԴԻՐԻ ՁԱՅՆԸ
+        [one] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
+       *[other] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
+    }
 
 ## Bookmarks toolbar items
 
@@ -383,6 +389,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Միշտ արգելափակել
     .accesskey = շ
+popup-mute-notifications-checkbox = Անջատել կայքից ծանուցումները տարածման ընթացքում
 
 ## WebRTC window or screen share tab switch warning
 
@@ -435,6 +442,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Որոնէք { $name }֊ով կամ գրանցէք հասցէն
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Զննարկիչի հեռակայ կառավարում (պատճառ՝ { $component })
 urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել էք այս կայքէջին լրացուցիչ թոյղտուութիւններ։
 urlbar-switch-to-tab =
@@ -534,6 +546,10 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 ## Subframe crash notification
 
 crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափանուեց։ </strong> Խնդրի մասին { -brand-product-name }֊ին տեղեկացնելու եւ արագ լուծելու համար ուղարկէք զեկուցում։
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Էջի որոշ յատուած խափանուած է։ Դիմել { -brand-product-name }֊ին խնդրի աւելի արագ բացայայտման եւ լուծման համար:
 crashed-subframe-learnmore-link =
     .value = Իմանալ աւելին
 crashed-subframe-submit =
@@ -617,9 +633,17 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Փոխել այղագրումը
+    .tooltiptext = Պարզէք ճիշտ այղագրումը էջի բովանդակութեան բաժնում
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Յաւելումներ եւ ոճ
+    .tooltiptext = Յաւելումների և ոճի կարգաւորում՝ ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -664,7 +688,9 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանիւթ կամ տեսանիւթ աւգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի աւգտագործումը։
 eme-notifications-drm-content-playing-manage = Կառավարել կարգաւորումները
+eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Հեռացնել
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
@@ -676,6 +702,7 @@ panel-save-update-password = Գաղտնաբառ
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Հեռացնե՞լ { $name }-ը
+addon-removal-abuse-report-checkbox = Դիմել { -vendor-short-name }-ին ընդլայման խնդրի վերաբերեալ
 
 ## Remote / Synced tabs
 
@@ -706,6 +733,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Չցուցադրել այս հաղորդագրութիւնը, երբ ելնող պատուհնները արգելափակուած են
     .accesskey = D
+edit-popup-settings =
+    .label = Կառավարել բացուող կարգաւորումները…
+    .accesskey = Կ
 picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
