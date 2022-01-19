@@ -28,3 +28,5 @@ openpgp-sig-uncertain-uid-mismatch = See kiri sisaldab digiallkirja, kuid tuvast
 openpgp-sig-uncertain-not-accepted = See kiri sisaldab digiallkirja, kuid sa pole veel otsustanud, et kas seda allkirjastaja võtit tunnustada või mitte.
 openpgp-sig-invalid-rejected = See kiri sisaldab digiallkirja, kuid oled otsustanud varasemalt selle allkirjastaja võtme tagasi lükata.
 openpgp-sig-invalid-technical-problem = See kiri sisaldab digiallkirja, kuid tuvastati tehniline viga. Kiri on kas rikutud või on seda keegi teine muutnud.
+openpgp-sig-valid-unverified = See kiri sisaldab korrektset digiallkirja võtmelt, mida oled tunnustanud. Siiski pole sa veel kinnitanud, et võti tõesti kuulub saatjale.
+openpgp-sig-valid-verified = See kiri sisaldab kinnitatud võtmest pärinevat korrektset digiallkirja.
