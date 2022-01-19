@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Escafar los telecargaments
     .accesskey = E
+downloads-cmd-delete-file =
+    .label = Suprimir
+    .accesskey = S
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Autorizar los telecargaments
