@@ -42,8 +42,17 @@ app-basics-show-update-history = Намоиши таърихи навсозиҳ�
 # Represents the path to the binary used to start the application.
 app-basics-binary = Файли дуии барнома
 app-basics-user-agent = Восити корбарӣ
+app-basics-os-theme = Мавзуи OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Раванди тарҷумаи Rosetta
+app-basics-memory-use = Истифодаи ҳофиза
+app-basics-performance = Самаранокӣ
+app-basics-third-party = Модулҳои тарафҳои сеюм
+app-basics-profiles = Профилҳо
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
+app-basics-safe-mode = Реҷаи бехатар
 environment-variables-name = Ном
 environment-variables-value = Қимат
 experimental-features-title = Хусусиятҳои таҷрибавӣ

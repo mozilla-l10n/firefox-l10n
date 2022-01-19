@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  intro2.label                "Шумо барои кушодан зеринро интихоб кардед:">
+<!ENTITY  from.label                  "аз:">
 
 <!ENTITY  openWith.label              "Кушодан бо">
 <!ENTITY  openWith.accesskey          "o">

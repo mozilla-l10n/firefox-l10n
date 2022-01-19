@@ -32,6 +32,8 @@ detail-private-browsing-label = Иҷро кардан дар равзанаҳо�
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Дастрасӣ ба равзанаҳои махфӣ лозим аст
+detail-home =
+    .label = Саҳифаи асосӣ
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -58,6 +60,8 @@ detail-show-preferences =
             [windows] Тағйир додани ин имкони ҷузъи иловагӣ
            *[other] Тағйир додани ин хусусияти ҷузъи иловагӣ
         }
+detail-rating =
+    .value = Баҳодиҳӣ
 addon-restart-now =
     .label = Ҳозир аз нав оғоз карда шавад
 disabled-unsigned-heading =
