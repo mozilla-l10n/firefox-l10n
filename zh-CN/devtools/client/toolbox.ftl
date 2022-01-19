@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = 社区…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = 不自动隐藏弹窗
+toolbox-meatball-menu-pseudo-locale-accented = 启用“重音符号”语言环境
+toolbox-meatball-menu-pseudo-locale-bidi = 启用“双向字符”语言环境
 
 ##
 
