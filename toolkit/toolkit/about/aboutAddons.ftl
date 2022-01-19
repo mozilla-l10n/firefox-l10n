@@ -361,6 +361,7 @@ addon-permissions-optional = Funtzionaltasun gehigarrirako aukerazko baimenak:
 addon-permissions-learnmore = Baimenei buruzko argibide gehiago
 recommended-extensions-heading = Gomendatutako hedapenak
 recommended-themes-heading = Gomendatutako itxurak
+addon-sitepermissions-required = Ondorengo gaitasunak baimentzen dizkio <span data-l10n-name="hostname">{ $hostname }</span> guneari:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Sortzaile izan nahi? <a data-l10n-name="link">Egizu zure itxura propioa Firefox Color erabiliz.</a>
