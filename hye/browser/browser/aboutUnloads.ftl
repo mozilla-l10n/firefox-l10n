@@ -16,6 +16,7 @@ about-unloads-button-unload = Լիցքաթափել
     .title = Լիցքաթափել ամենաառաջնահերթ ներդիրը։
 about-unloads-no-unloadable-tab = Լիցքաթափուող ներդիրներ չկան:
 about-unloads-column-priority = Առաջնահերթութիւն
+about-unloads-column-host = Տիրորդ
 about-unloads-column-last-accessed = Վերջին մուտքը
 about-unloads-column-weight = Հիմնական զանգուած․
     .title = Ներդիրներն ի սկզբանէ դասակարգուում են այս արժէքով, որը բխում է որոշ յատկանիշներից, օրինակ՝ ձայնի միացումը, WebRTC, եւ այղն․․․

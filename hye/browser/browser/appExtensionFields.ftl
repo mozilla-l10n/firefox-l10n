@@ -7,6 +7,7 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Համակարգի հիմնապատկեր ֊ ինքնաշխատ․
+extension-default-theme-description = Հետեւել գործարկային համակարգի կոճակների, ցանկերի և պատուհանների համար նախատեսուած կարգաւորումներին:
 extension-firefox-compact-light-name = Լուսաւոր
 extension-firefox-compact-light-description = Լուսաւոր գունաւորմամբ հիմնապատկեր։
 extension-firefox-compact-dark-name = Մուգ
@@ -20,3 +21,4 @@ extension-firefox-alpenglow-description = Աւգտագործէք ստեղներ�
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } ֊ ծրագրային ապահովում
