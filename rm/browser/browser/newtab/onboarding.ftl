@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Betg ussa
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Las websites mussadas qua èn vegnidas chattadas sin quest apparat. { -brand-short-name } na memorisescha u sincronisescha naginas datas dad in auter navigatur senza che ti decidas da las importar.
+return-to-amo-add-theme-label = Agiuntar il design
 
 ## Multistage onboarding strings (about:welcome pages)
 
