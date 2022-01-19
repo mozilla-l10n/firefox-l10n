@@ -48,9 +48,17 @@
 
 
 
+<!ENTITY corruptedContentErrorv2.title "Хатои муҳтавои вайроншуда">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Саҳифае, ки шумо дидан мехоҳед, нишон дода намешавад, зеро ки дар интиқоли маълумот хато муайян карда шуд.</p><ul><li>Лутфан, бо соҳибони сомона дар тамос шавед ва ба онҳо дар бораи ин мушкилӣ хабар диҳед.</li></ul>">
 
+<!ENTITY remoteXUL.title "XUL-и дурдаст">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Лутфан, бо соҳибони сомона дар тамос шавед ва дар бораи ин мушкилӣ ба онҳо хабар расонед.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Пайвасти шумо бехатар нест">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "Саҳифаи басташуда">
 
+<!ENTITY networkProtocolError.title "Хатои протоколи шабака">
+<!ENTITY networkProtocolError.longDesc "<p>Саҳифае, ки шумо дидан мехоҳед, нишон дода намешавад, зеро ки дар протоколи шабака хато муайян карда шуд.</p><ul><li>Лутфан, бо соҳибони сомона дар тамос шавед ва ба онҳо дар бораи ин мушкилӣ хабар диҳед.</li></ul>">
