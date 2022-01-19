@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Orain ez
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Hemen zerrendatutako guneak aurkitu dira gailu honetan. { -brand-short-name }(e)k ez du beste nabigatzaile batetik daturik gordetzen edo sinkronizatzen zuk inportatzeko eskatuta ez bada.
+return-to-amo-add-theme-label = Gehitu itxura
 
 ## Multistage onboarding strings (about:welcome pages)
 
