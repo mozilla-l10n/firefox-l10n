@@ -132,6 +132,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Azken eguneraketak
 addon-category-recent-updates-title =
     .title = Azken eguneraketak
+addon-category-sitepermission = Gunearen baimenak
+addon-category-sitepermission-title =
+    .title = Gunearen baimenak
 
 ## These are global warnings
 
@@ -280,6 +283,8 @@ dictionary-enabled-heading = Gaituta
 dictionary-disabled-heading = Desgaituta
 locale-enabled-heading = Gaituta
 locale-disabled-heading = Desgaituta
+sitepermission-enabled-heading = Gaituta
+sitepermission-disabled-heading = Desgaituta
 always-activate-button = Aktibatu beti
 never-activate-button = Ez aktibatu inoiz
 addon-detail-author-label = Egilea
@@ -368,6 +373,7 @@ plugin-heading = Kudeatu zure pluginak
 dictionary-heading = Kudeatu zure hiztegiak
 locale-heading = Kudeatu zure hizkuntzak
 updates-heading = Kudeatu zure eguneraketak
+sitepermission-heading = Kudeatu zure gunearen baimenak
 discover-heading = Pertsonalizatu zure { -brand-short-name }
 shortcuts-heading = Kudeatu hedapenen lasterbideak
 default-heading-search-label = Bilatu gehigarri gehiago
