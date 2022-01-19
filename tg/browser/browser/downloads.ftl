@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Пок кардани боргириҳо
     .accesskey = П
+downloads-cmd-delete-file =
+    .label = Нест кардан
+    .accesskey = Н
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Иҷозат додани боргирӣ
