@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Kontsulta itzazu Internet osasuntsuago bat babesteko { -vendor-short-name }-k egindako bestelako produktuak.
 more-from-moz-firefox-mobile-title = Mugikorrerako { -brand-product-name }
 more-from-moz-firefox-mobile-description = Zure pribatutasunari lehentasuna ematen dion mugikorrerako nabigatzailea.
+more-from-moz-firefox-mobile-description-advanced = Jarraipen-elementuak blokeatzetik erreprodukzio automatiko nardagarriak frenatzera, { -brand-product-name }(r)en nabigatzaile mugikorrak lan eta lan aritzen dira Internet ona duzula ziurtatzeko.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Aurkitu aparteko babesa eta nabigatze anonimoa.
 more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name }(e)k aparteko geruza bat gehitzen dio nabigatze anonimoari eta babesari.
