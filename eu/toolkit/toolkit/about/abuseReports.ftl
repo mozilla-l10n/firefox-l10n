@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } gehigarrirako txostena
 abuse-report-title-extension = Salatu hedapen hau { -vendor-short-name }(r)i
+abuse-report-title-sitepermission = Salatu guneei baimenak ematen dizkion hedapen hau { -vendor-short-name }(r)i
 abuse-report-title-theme = Salatu itxura hau { -vendor-short-name }(r)i
 abuse-report-subtitle = Zein da arazoa?
 # Variables:
@@ -39,6 +40,7 @@ abuse-report-messagebar-submitting = Salaketa bidaltzen <span data-l10n-name="ad
 abuse-report-messagebar-submitted = Eskerrik asko salaketa bidaltzeagatik. <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarria kendu egin nahi duzu?
 abuse-report-messagebar-submitted-noremove = Eskerrik asko salaketa bidaltzeagatik.
 abuse-report-messagebar-removed-extension = Eskerrik asko salaketa bidaltzeagatik. <span data-l10n-name="addon-name">{ $addon-name }</span> hedapena kendu egin duzu.
+abuse-report-messagebar-removed-sitepermission = Eskerrik asko salaketa bidaltzeagatik. Guneei baimenak ematen dizkion <span data-l10n-name="addon-name">{ $addon-name }</span> hedapena kendu egin duzu.
 abuse-report-messagebar-removed-theme = Eskerrik asko salaketa bidaltzeagatik. <span data-l10n-name="addon-name">{ $addon-name }</span> itxura kendu egin duzu.
 abuse-report-messagebar-error = Errorea gertatu da <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarrirako salaketa bidaltzerakoan.
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarrirako salaketa ez da bidali orain dela gutxi beste salaketa bat bidali delako.
