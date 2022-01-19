@@ -78,6 +78,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Մուտք գործել համաժամեցման համար…
 appmenu-remote-tabs-turn-on-sync =
     .label = Միացնել համաժամեցումը…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Ցուցադրել աւելին․․․
+    .tooltiptext = Ցուցադրել սարքի այղ ներդիրներ․․․
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -94,6 +98,13 @@ appmenu-remote-tabs-unverified = Ձեր հաշիւը պէտք է ստուգու�
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել հիմա
 appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
 appmenuitem-fxa-manage-account = Հաշուի կառավարում
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Նախորդ համաժամեցումը { $time }-ին
+    .label = Նախորդ համաժամեցումը { $time }-ին
+appmenu-fxa-sync-and-save-data2 = Համաժամեցնել եւ պահել տուեալները
 appmenu-fxa-signed-in-label = Մուտք գործել
 appmenu-fxa-setup-sync =
     .label = Միացնել համաժամեցումը…
@@ -173,8 +184,10 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Առաջարկուում է թոյլ վերադրով կայքերի վրիպազերծումը:
 profiler-popup-presets-web-developer-label =
     .label = Ցանցային ծրագրաւորող
+profiler-popup-presets-firefox-description = Առաջարկուող յաւելուած յատկագրման համար՝ { -brand-shorter-name }:
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
