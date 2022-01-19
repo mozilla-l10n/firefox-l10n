@@ -17,4 +17,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.retry.label                  "Կրկին փորձէք">
 <!ENTITY cmd.removeFromList.label         "Հեռացնել ցուցակից">
 
+<!ENTITY cmd.clearList.label              "Մաքրել ցուցակը">
+<!ENTITY cmd.clearList.tooltip            "Հեռացնում է աւարտուած, չեղարկուած, եւ ձախողուած իրերը ցուցակից">
 
+<!ENTITY searchBox.label                  "Որոնել…">
