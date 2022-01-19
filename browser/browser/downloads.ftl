@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Svidar la glista da telechargiadas
     .accesskey = D
+downloads-cmd-delete-file =
+    .label = Stizzar
+    .accesskey = S
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permetter da telechargiar
