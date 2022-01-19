@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Մաքրել ներբեռնումները
     .accesskey = D
+downloads-cmd-delete-file =
+    .label = Ջնջել
+    .accesskey = Ջ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Թոյլատրել ներբեռնումը
@@ -153,6 +156,13 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = Բացուելու է { $hours } ժամ, { $minutes } րոպէից…
+downloading-file-opens-in-minutes = Բացուելու է { $minutes } րոպէից…
+downloading-file-opens-in-minutes-and-seconds = Բացուելու է { $minutes } րոպէից, { $seconds } վայրկեանից…
+downloading-file-opens-in-seconds = Բացուելու է { $seconds } վայրկեանից…
+downloading-file-opens-in-some-time = Բացուելու է, աւարտումից հետոյ…
+downloading-file-click-to-open =
+    .value = Բացել, երբ կատարուած է։
 
 ##
 
@@ -180,6 +190,13 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Նիշը բեռնուած չէ։
+       *[other] { $num } նիշ բեռնուած չեն։
+    }
+downloads-blocked-from-url = { $url }֊ից բեռնումներն արգելափակուած են:
+downloads-blocked-download-detailed-info = { $url }֊ը փորձել է ինքնաշխատ բեռնել մի քանի նիշ։ Կայքը կարող է կոտրուած լինել կամ փորձել պահել թափոնային նիշեր Ձեր սարքում:
 
 ##
 
