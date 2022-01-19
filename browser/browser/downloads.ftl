@@ -44,12 +44,12 @@ downloads-cmd-show-menuitem-2 =
         }
     .accesskey = F
 downloads-cmd-use-system-default =
-    .label = 시스템 뷰어로 열기
+    .label = 시스템 기본 앱으로 열기
     .accesskey = V
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
-    .label = 항상 시스템 뷰어로 열기
+    .label = 항상 시스템 기본 앱으로 열기
     .accesskey = w
 downloads-cmd-show-button =
     .tooltiptext =
