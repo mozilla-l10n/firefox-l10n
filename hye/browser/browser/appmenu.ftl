@@ -5,9 +5,23 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = Ներբեռնել { -brand-shorter-name } -ի թարմացումը
+    .label-update-available = Հասանելի է թարմացում — բեռնել հիմայ
+    .label-update-manual = Հասանելի է թարմացում — բեռնել հիմայ
+    .label-update-unsupported = Թարմացումը հնարաւոր չէ — համակարգի անհամատեղելիութիւն
+    .label-update-restart = Թարմացումն հասանելի է — վերագործարկել հիմայ
 appmenuitem-protection-dashboard-title = Գաղտնիութեան վահանակ
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name }-ի թարմացման բեռնում
 appmenuitem-banner-update-available =
     .label = Թարմացումը հասանելի է — ներբեռնէք հիմայ
+appmenuitem-banner-update-manual =
+    .label = Հասանելի է թարմացում — բեռնել հիմայ
+appmenuitem-banner-update-unsupported =
+    .label = Թարմացումը հնարաւոր չէ ֊ համակարգի անհամատեղելիութիւն
+appmenuitem-banner-update-restart =
+    .label = Հասանելի է թարմացում — վերագործարկել հիմայ
 appmenuitem-new-tab =
     .label = Նոր ներդիր
 appmenuitem-new-window =
@@ -20,6 +34,8 @@ appmenuitem-downloads =
     .label = Ներբեռնումներ
 appmenuitem-passwords =
     .label = Գաղտնաբառեր
+appmenuitem-addons-and-themes =
+    .label = Յաւելումներ եւ ոճ
 appmenuitem-print =
     .label = Տպել…
 appmenuitem-find-in-page =
@@ -36,6 +52,12 @@ appmenuitem-exit2 =
             [linux] Լքել
            *[other] Ելք
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Բացել յաւելուածի ցանկը․
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Փակել յաւելուածի ցանկը
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -52,6 +74,10 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Մուտք գործել համաժամեցման համար…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Միացնել համաժամեցումը…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
