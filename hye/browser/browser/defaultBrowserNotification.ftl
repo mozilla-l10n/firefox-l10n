@@ -13,4 +13,6 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Դարձնե՞լ { -brand-short-name }֊ը հիմնական զննարկիչ:
+default-browser-prompt-message-pin = Պահել { -brand-short-name } ֊ը ձեռքի տակ— դարձնել հիմնական զննարկիչ եւ ամրացնել խնդրագաւտում:
+default-browser-prompt-message-pin-mac = Պահել { -brand-short-name } ֊ը ձեռքի տակ` դարձնել հիմնական զննարկիչ եւ պահպանել «Dock»-ում
 default-browser-prompt-button-secondary = Ոչ հիմա
