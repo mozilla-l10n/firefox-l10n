@@ -12,10 +12,12 @@
   -  toolkit/intl/languageNames.ftl file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
+<!ENTITY translation.thisPageIsIn.label         "Забони саҳифаи ҷорӣ:">
 <!ENTITY translation.translateThisPage.label    "Саҳифаи ҷориро тарҷума мекунед?">
 <!ENTITY translation.translate.button           "Тарҷума кунед">
 <!ENTITY translation.notNow.button              "Ҳоло не">
 
+<!ENTITY translation.translatingContent.label   "Дар ҳоли тарҷума кардани мавод…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -32,10 +34,17 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+<!ENTITY translation.translatedFrom.label       "Ин саҳифа аз забони зерин тарҷума карда шуд:">
+<!ENTITY translation.translatedTo.label         "ба">
+<!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Нишон додани маводи аслӣ">
+<!ENTITY translation.showTranslation.button     "Нишон додани тарҷума">
 
+<!ENTITY translation.errorTranslating.label     "Ҳангоми тарҷума кардани ин саҳифа хато ба миён омад.">
 <!ENTITY translation.tryAgain.button            "Аз нав кӯшиш кардан">
 
+<!ENTITY translation.serviceUnavailable.label   "Айни ҳол тарҷума дастнорас аст. Лутфан, баъдтар аз нав кӯшиш кунед.">
 
 <!ENTITY translation.options.menu               "Имконот">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
