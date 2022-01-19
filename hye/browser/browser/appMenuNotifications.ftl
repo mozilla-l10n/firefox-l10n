@@ -2,6 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available2 =
+    .label = Հասանելի է թարմացում
+    .buttonlabel = Ներբեռնել
+    .buttonaccesskey =
+        D
+        D
+    .secondarybuttonlabel = Չեղարկել
+    .secondarybuttonaccesskey = m
+appmenu-update-available-message2 = Ներբեռնել { -brand-shorter-name } -ի վերջին տարբերակը․․․
+appmenu-update-manual2 =
+    .label = Հասանելի է թարմացում
+    .buttonlabel = Ներբեռնել
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Հեռացնել
+    .secondarybuttonaccesskey = m
+appmenu-update-manual-message2 = { -brand-shorter-name }-ի ինքաշխատ թարմացումն անհնար է: Բեռնէք նոր տարբերակը՝ կարգաւորումների և տեղեկատուութեան կորստից խուսափելու համար:
+appmenu-update-unsupported2 =
+    .label = Հնարաւոր չէ թարմացնել
+    .buttonlabel = Իմանալ աւելին
+    .buttonaccesskey = Լ
+    .secondarybuttonlabel = Չեղարկել
+    .secondarybuttonaccesskey =
+        m
+        m
+        m
+appmenu-update-unsupported-message2 = { -brand-shorter-name }-ի նոր տարբերակն անհամատեղելի է գործարկային համակարգի հետ:
+appmenu-update-restart2 =
+    .label = Հասանելի է թարմացում
+    .buttonlabel = Թարմացնել եւ վերագործարկել
+    .buttonaccesskey = U
+    .secondarybuttonlabel = Չեղարկել
+    .secondarybuttonaccesskey = m
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } -ը հնարաւոր չէ ինքնաբար արդիացնել ամենավերջին տարբերակով:
     .buttonlabel = Ամէն դէպքում արդիացնել { -brand-shorter-name }
