@@ -743,6 +743,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Տեղափոխել «Picture-in-Picture» փոխարկիչը «Right Side»
+    .accesskey = Ա
+picture-in-picture-move-toggle-left =
+    .label = Տեղափոխել «Picture-in-Picture» փոխարկիչը «Left Side»
+    .accesskey = ձ
 
 ##
 
@@ -789,4 +795,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong> Բացե՞լ նախորդ ներդիրները </strong> Կարող էք վերագործարկել նախկին աշխատաշրջանը { -brand-short-name } ծրագրային ցանկից <img data-l10n-name="icon"/> , Պատմութիւն բաժնի ներքեւում:
 restore-session-startup-suggestion-button = Ցոյց տալ, թե ինչպէս
