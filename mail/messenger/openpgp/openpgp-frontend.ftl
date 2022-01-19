@@ -18,3 +18,17 @@ openpgp-ctx-verify-att =
     .label = Kontrolli allkirja
     .accesskey = K
 openpgp-has-sender-key = See kiri sisaldab väidetavalt saatja OpenPGP avalikku võtit.
+openpgp-be-careful-new-key = Hoiatus: see uus OpenPGP võti selles kirjas erineb avalikust võtmest, mida sa oled varasemalt e-posti aadressi { $email } jaoks tunnustanud.
+openpgp-import-sender-key =
+    .label = Impordi…
+openpgp-search-keys-openpgp =
+    .label = Avasta OpenPGP võti
+openpgp-missing-signature-key = See kiri allkirjastati võtmega, mida sul veel pole.
+openpgp-search-signature-key =
+    .label = Avasta…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = See on OpenPGP kiri, mille MS-Exchange ilmselt rikkus ja seda ei saa parandada, sest see avati kohalikust failist. Kopeeri see kiri kirjade kausta, et proovida automaatset parandamist.
+openpgp-broken-exchange-info = See on OpenPGP kiri, mille MS-Exchange ilmselt rikkus. Kui kirja sisu pole kuvatud ootuspäraselt, siis võid proovida automaatset parandamist.
+openpgp-broken-exchange-repair =
+    .label = Paranda kiri
+openpgp-broken-exchange-wait = Palun oota…
