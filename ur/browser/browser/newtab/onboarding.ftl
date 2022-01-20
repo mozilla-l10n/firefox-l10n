@@ -142,3 +142,4 @@ mr2-onboarding-default-theme-tooltip =
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = ہمیں منتخب کرنے کے لیے آپ کا شکریہ
+mr2-onboarding-start-browsing-button-label = براؤزنگ شروع کریں

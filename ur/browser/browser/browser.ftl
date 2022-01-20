@@ -242,6 +242,7 @@ bookmark-panel =
 identity-site-information = { $host } کے لئے سائٹ کی معلومات
 identity-connection-not-secure = ناقابل بھروسا کنکشن
 identity-connection-secure = قابل بھروسا کنکشن
+identity-connection-failure = رابطہ ناکام رہا
 identity-connection-internal = یہ ایک قابل بھروسا { -brand-short-name } صفحہ ہے۔
 identity-connection-file = یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔
 identity-extension-page = یہ صفہ ایکسٹینشن سے لوڈ کیا گیا ہے۔
