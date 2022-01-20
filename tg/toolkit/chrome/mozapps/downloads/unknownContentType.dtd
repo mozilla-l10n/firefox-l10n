@@ -4,12 +4,14 @@
 
 <!ENTITY  intro2.label                "Шумо барои кушодан зеринро интихоб кардед:">
 <!ENTITY  from.label                  "аз:">
+<!ENTITY  actionQuestion.label        "Аз тарафи &brandShortName; бо ин файл чӣ бояд кард?">
 
 <!ENTITY  openWith.label              "Кушодан бо">
 <!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "Дигар…">
 
 <!ENTITY  saveFile.label              "Нигоҳ доштани файл">
+<!ENTITY  saveFile.accesskey          "н">
 
 
 
