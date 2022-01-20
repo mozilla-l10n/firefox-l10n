@@ -79,6 +79,11 @@ openpgp-key-man-import-public-from-file =
     .accesskey = f
 openpgp-key-man-import-secret-from-file =
     .label = Impordi privaatseid võtmeid failist
+openpgp-key-man-import-sig-from-file =
+    .label = Impordi tühistusserte failist
+openpgp-key-man-import-from-clipbrd =
+    .label = Impordi võtmeid vahemälust
+    .accesskey = v
 
 ## e2e encryption settings
 
