@@ -166,3 +166,18 @@ no-reply-reply-anyway-button = Yine de yanıtla
 
 ## error messages
 
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = E-posta sekmesine geç
+spaces-toolbar-button-address-book =
+    .title = Adres defteri sekmesine geç
+spaces-toolbar-button-calendar =
+    .title = Takvim sekmesine geç
+spaces-toolbar-button-tasks =
+    .title = Görevler sekmesine geç
+spaces-toolbar-button-chat =
+    .title = Sohbet sekmesine geç
+spaces-toolbar-button-settings =
+    .title = Ayarlar sekmesine geç

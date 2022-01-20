@@ -267,5 +267,7 @@ cloud-file-template-download-limit = İndirme sınırı:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Bağlantı Hatası
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Yeniden adlandırma hatası
