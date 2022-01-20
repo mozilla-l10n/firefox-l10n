@@ -71,6 +71,8 @@ openpgp-keygen-short-expiry = Võti peab kehtima vähemalt ühe päeva.
 openpgp-keygen-ongoing = Võtme genereerimine juba käib!
 openpgp-keygen-error-core = OpenPGP põhiteenust pole võimalik käivitada
 openpgp-keygen-error-failed = OpenPGP võtme genereerimine ebaõnnestus ootamatult
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP võtme loomine õnnestus, kuid tühistusserdi hankimine võtmele { $key } ebaõnnestus
 openpgp-keygen-abort-title = Kas katkestada võtme genereerimine?
 openpgp-keygen-abort = OpenPGP võtme genereerimine on praegu pooleli. Kas soovid kindlasti selle katkestada?
 #   $identity (String) - the name and email address of the currently selected identity
