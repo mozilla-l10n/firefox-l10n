@@ -266,3 +266,8 @@ menu-help =
 menu-help-feedback-page =
     .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟᱭ ᱢᱮ…
     .accesskey = ᱯ
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱢᱮ …
+    .accesskey = D

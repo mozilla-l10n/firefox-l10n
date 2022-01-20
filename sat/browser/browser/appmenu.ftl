@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱜ ᱠᱟᱱᱟ
+    .label-update-available = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱟᱢᱮᱱᱟ — ᱱᱤᱛᱚᱜ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ
+    .label-update-manual = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱟᱢᱮᱱᱟ — ᱱᱤᱛᱚᱜ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ
+    .label-update-unsupported = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱟᱝ ᱜᱟᱱ ᱞᱮᱱᱟ — ᱥᱭᱥᱴᱚᱢ ᱨᱮ ᱵᱟᱝ ᱥᱮᱴᱚᱜ ᱠᱟᱱᱟ
+    .label-update-restart = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱟᱢᱮᱱᱟ — ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱢᱮ ᱱᱤᱛᱚᱜ
 appmenuitem-banner-update-available =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 appmenuitem-banner-update-manual =
@@ -205,9 +211,19 @@ appmenu-help-feedback-page =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱢᱮ …
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = ᱱᱚᱶᱟ ᱫᱚ ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱠᱟᱱᱟ …
+    .accesskey = d
 
 ## More Tools
 
 appmenu-customizetoolbar =
     .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
+appmenu-taskmanager =
+    .label = ᱠᱟᱹᱢᱤ ᱢᱮᱱᱮᱡᱚᱨ
 appmenu-developer-tools-subheader = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
+appmenu-developer-tools-extensions =
+    .label = ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣ ᱠᱚ
