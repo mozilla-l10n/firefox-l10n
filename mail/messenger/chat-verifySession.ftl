@@ -6,3 +6,8 @@ verify-window-title = Kimliği Doğrula
 # Variables:
 #   $subject (String) - a human readable identifier for the other side of the verification flow.
 verify-window-subject-title = { $subject } kimliğini doğrula
+verify-dialog =
+    .buttonlabelaccept = Eşleşiyor
+    .buttonaccesskeyaccept = E
+    .buttonlabelextra2 = Eşleşmiyor
+    .buttonaccesskeyextra2 = m
