@@ -24,6 +24,7 @@ toolbox-meatball-menu-community-label = Comunidade…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Desactivar o agachado automática de xanelas emerxente
+toolbox-meatball-menu-pseudo-locale-accented = Activar a configuración rexional «acentuada».
 
 ##
 
