@@ -273,6 +273,8 @@ cloud-file-template-download-limit = Limite de discargamento:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Error de connexion
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Cargamento de { $filename } a { $provider } fallite
 # $provider (string) - name of the online storage service that reported the error
