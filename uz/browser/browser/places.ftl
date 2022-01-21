@@ -38,6 +38,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Nomi boʻyicha saralash
     .accesskey = r
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Boshqariladigan xatchoʻplar
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Quyi jild
+places-manage-bookmarks =
+    .label = Xatchoʻplarni boshqarish
+    .accesskey = b
 places-library =
     .title = Kutubxona
     .style = width:700px; height:500px;

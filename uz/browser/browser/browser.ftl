@@ -370,6 +370,8 @@ pointerlock-warning-no-domain = Bu hujat ko‘rsatkichingiz ustidan nazorat o‘
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Xatchoʻplarni boshqarish
 bookmarks-toolbar-chevron =
     .tooltiptext = Ko‘proq xatcho‘plarni ko‘rsatish
 bookmarks-sidebar-content =
@@ -431,6 +433,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Matn shifrini tuzatish
+    .tooltiptext = Sahifa tarkibidan toʻgʻri matn shifrini taxmin qiling
 
 ## Customize Toolbar Buttons
 

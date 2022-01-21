@@ -192,5 +192,6 @@ recommended-themes-heading = Tavsiya etilgan mavzular
 ## Page headings
 
 theme-heading = Mavzularni boshqarish
+locale-heading = Tillarni boshqarish
 addon-page-options-button =
     .title = Barcha qoʻshimcha dasturlar uchun asboblar

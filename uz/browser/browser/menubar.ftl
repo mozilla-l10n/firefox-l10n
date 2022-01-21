@@ -157,6 +157,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Asosiy sahifa uslubi
     .accesskey = A
+menu-view-repair-text-encoding =
+    .label = Matn shifrini tuzatish
+    .accesskey = s
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -205,6 +208,8 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Xatcho‘plar
     .accesskey = X
+menu-bookmarks-manage =
+    .label = Xatchoʻplarni boshqarish
 menu-bookmark-edit =
     .label = Ushbu xatcho‘pni o‘zgartirish
 menu-bookmarks-all-tabs =
