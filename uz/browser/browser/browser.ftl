@@ -419,6 +419,9 @@ bookmarks-toolbar-placeholder =
     .title = Xatcho‘plar paneli bandlari
 bookmarks-toolbar-placeholder-button =
     .label = Xatcho‘plar paneli bandlari
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Joriy varaqni xatchoʻplash
 
 ## Library Panel items
 
