@@ -8,6 +8,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = Y
     .secondarybuttonlabel = Rad qilish
     .secondarybuttonaccesskey = m
+appmenu-addon-post-install-message3 = Ilova menyusi orqali qoʻshimcha va mavzularingizni boshqaring.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu kengaytmani Maxfiy oynalarda ishga tushishiga ruxsat berish
     .accesskey = r

@@ -15,6 +15,10 @@ appmenuitem-history =
     .label = Tarix
 appmenuitem-downloads =
     .label = Yuklanmalar
+appmenuitem-passwords =
+    .label = Parollar
+appmenuitem-addons-and-themes =
+    .label = Qoʻshimcha va mavzular
 appmenuitem-print =
     .label = Chop qilish…
 appmenuitem-zoom =
@@ -55,6 +59,15 @@ whatsnew-panel-header = Yangi xususiyatlar
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 ## History panel
