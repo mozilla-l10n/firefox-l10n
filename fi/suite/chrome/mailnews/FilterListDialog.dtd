@@ -7,14 +7,22 @@
 <!ENTITY activeColumn.label "Käytössä">
 <!ENTITY newButton.label "Uusi…">
 <!ENTITY newButton.accesskey "U">
+<!ENTITY copyButton.label "Kopioi…">
+<!ENTITY copyButton.accesskey "p">
 <!ENTITY editButton.label "Muokkaa…">
 <!ENTITY editButton.accesskey "M">
 <!ENTITY deleteButton.label "Poista">
 <!ENTITY deleteButton.accesskey "o">
+<!ENTITY reorderTopButton "Siirrä ylimmäksi">
+<!ENTITY reorderTopButton.accessKey "l">
+<!ENTITY reorderTopButton.toolTip "Siirrä suodatin niin, että se suoritetaan ensimmäisenä">
 <!ENTITY reorderUpButton.label "Siirrä ylös">
 <!ENTITY reorderUpButton.accesskey "y">
 <!ENTITY reorderDownButton.label "Siirrä alas">
 <!ENTITY reorderDownButton.accesskey "a">
+<!ENTITY reorderBottomButton "Siirrä alimmaksi">
+<!ENTITY reorderBottomButton.accessKey "i">
+<!ENTITY reorderBottomButton.toolTip "Siirrä suodatin niin, että se suoritetaan viimeisenä">
 <!ENTITY filterHeader.label "Käytössä olevat suodattimet suoritetaan alla olevassa järjestyksessä.">
 <!ENTITY filtersForPrefix.label "Suodattimet kohteelle:">
 <!ENTITY filtersForPrefix.accesskey "S">
@@ -28,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "v">
 <!ENTITY choosethis.label "valitse tämä kansio">
 <!ENTITY choosethisnewsserver.label "valitse tämä keskusteluryhmäpalvelin">
+<!ENTITY searchBox.emptyText "Etsi suodatinta nimellä…">
