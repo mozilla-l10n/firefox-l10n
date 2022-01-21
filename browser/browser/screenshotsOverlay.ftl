@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Annulearje
+screenshots-overlay-instructions = Sleep of klik op de side om in gebied te selektearjen. Druk op ESC om te annulearjen.
