@@ -4,10 +4,15 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Verkkojen muokkain">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Palauta oletukset">
 <!ENTITY restoreButton.accesskey      "t">
+
+<!ENTITY connectNetwork.label         "Yhdistä verkkoon">
+<!ENTITY connectNetwork.accesskey     "d">
 
 <!ENTITY networkListAdd.label         "Lisää verkko…">
 <!ENTITY networkListAdd.accesskey     "L">
