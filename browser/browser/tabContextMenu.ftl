@@ -112,7 +112,7 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
-            [one] Send fane til eining
-           *[other] Send { $tabCount } faner til eining
+            [one] Send fane til ei eining
+           *[other] Send { $tabCount } faner til ei eining
         }
     .accesskey = n
