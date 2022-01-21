@@ -28,6 +28,7 @@ a variation of the Picture-in-Picture video toggle button. When using this varia
 this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY pictureInPictureExplainer "Пахш кардани видеоҳо дар ҷойи намоён ҳангоми машғул будан бо чизҳои дигар дар &brandShortName;">
 
+<!ENTITY error.aborted "Боркунии видео қатъ карда шуд.">
 <!ENTITY error.srcNotSupported "Формати видео ё навъи MIME дастгирӣ намешавад.">
 <!ENTITY error.noSource2 "Ягон видео бо формати дастгиришаванда ва навъи MIME ёфт нашуд.">
 <!ENTITY error.generic "Пахши видео ба сабаби хатои номаълум қатъ карда шуд.">

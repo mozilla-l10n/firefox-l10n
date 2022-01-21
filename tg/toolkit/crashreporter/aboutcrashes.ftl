@@ -11,6 +11,9 @@ crashes-unsubmitted-label = Гузоришҳои пешниҳоднашуда д
 id-heading = Рақами мушаххаси гузориш
 date-crashed-heading = Санаи садама
 submit-crash-button-label = Пешниҳод кардан
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Иҷро нашуд
 crashes-submitted-label = Гузоришҳои пешниҳодшуда дар бораи садама
 date-submitted-heading = Санаи пешниҳод
 view-crash-button-label = Намоиш

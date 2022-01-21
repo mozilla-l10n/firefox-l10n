@@ -39,13 +39,17 @@
 
 <!ENTITY proxyResolveFailure.title "Сервери прокси ёфт нашуд">
 
+<!ENTITY redirectLoop.title "Хатои интиқол">
 
 <!ENTITY unknownSocketType.title "Посухи нодуруст">
 
 <!ENTITY nssFailure2.title "Пайвасти бехатар иҷро нашуд">
 
+<!ENTITY nssBadCert.title "Пайвасти бехатар иҷро нашуд">
 
+<!ENTITY securityOverride.linkText "Ё шумо метавонед истисноро илова намоед…">
 
+<!ENTITY cspBlocked.title "Аз тарафи сиёсати амнияти муҳтаво манъ карда шуд">
 
 
 <!ENTITY corruptedContentErrorv2.title "Хатои муҳтавои вайроншуда">
