@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Mienskip…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Automatysk pop-up ferstopje útskeakelje
+toolbox-meatball-menu-pseudo-locale-accented = ’Aksintuearre’ locale ynskeakelje
+toolbox-meatball-menu-pseudo-locale-bidi = Locale ‘bidi’ ynskeakelje
 
 ##
 
