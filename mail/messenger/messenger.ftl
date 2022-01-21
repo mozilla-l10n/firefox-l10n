@@ -169,3 +169,8 @@ no-reply-reply-anyway-button = Απάντηση ούτως ή άλλως
 ## error messages
 
 decrypt-and-copy-failures = Δεν ήταν δυνατή η αποκρυπτογράφηση και αντιγραφή { $failures } από { $total } μηνύματα.
+
+## Spaces toolbar
+
+spaces-toolbar-button-settings =
+    .title = Εναλλαγή στην καρτέλα ρυθμίσεων
