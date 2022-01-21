@@ -169,3 +169,18 @@ no-reply-reply-anyway-button = Dochs antwurdzje
 ## error messages
 
 decrypt-and-copy-failures = { $failures } fan { $total } berjochten koene net ûntsifere wurde en binne net kopiearre.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Wikselje nei it e-mailljepblêd
+spaces-toolbar-button-address-book =
+    .title = Wikselje nei it adresboekljepblêd
+spaces-toolbar-button-calendar =
+    .title = Wikselje nei it agindaljepblêd
+spaces-toolbar-button-tasks =
+    .title = Wikselje nei it takenljepblêd
+spaces-toolbar-button-chat =
+    .title = Wikselje nei it chatljepblêd
+spaces-toolbar-button-settings =
+    .title = Wikselje nei it ynstellingenljepblêd
