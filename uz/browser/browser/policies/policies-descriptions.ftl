@@ -11,8 +11,9 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Ilovani yangilash uchun boshqa havolani o‘rnatadi.
-
+policy-BlockAboutAddons = Qoʻshimchalar menejeriga kirishni bloklang (about:addons).
 policy-DisableProfileImport = Boshqa brauzerdan import qilish uchun menyu buyruqlarini faolsizlantiradi.
+policy-DisableSystemAddonUpdate = Brauzerga tizim qoʻshimchalarini oʻrnatish va yangilashni taqiqlang.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
@@ -20,11 +21,7 @@ policy-DisableProfileImport = Boshqa brauzerdan import qilish uchun menyu buyruq
 ##
 
 policy-Proxy = Proksi sozlamalarini sozlash
-
 policy-SearchBar = Qidiruv panelining joriy joylashuvini tayinlaydi. Foydalanuvchida uni sozlash huquqi qolaveradi.
-
 policy-SearchEngines = Qidiruv tizimi sozlamalarini sozlaydi. Bu siyosat faqat "Uzaytirilgan ko‘mak relizi" (ESR) versiyasida mavjud.
-
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Kiriladigan saytlarni bloklaydi. Format haqida batafsil ma’lumot olish uchun qo‘llanmani o‘qib chiqing.
-

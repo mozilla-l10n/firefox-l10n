@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Kamroq yozib, koʻproq toping: manzillar panelidan { $engineName } orqali qidiring.
 urlbar-search-tips-redirect-2 = { $engineName } tavsiyalari va brauzer tarixini koʻrish uchun qidiruvni manzillar panelidan boshlang.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Kerakli narsalarni tezroq topish uchun bu yorliq ustiga bosing.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -436,6 +439,15 @@ save-to-pocket-button =
 toolbar-addons-themes-button =
     .label = Qoʻshimcha va mavzular
     .tooltiptext = Qoʻshimcha va mavzularni boshqaring ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Sozlamalar
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Sozlamalarni ({ $shortcut }) ochish
+           *[other] Sozlamalarni ochish
+        }
 
 ## More items
 
@@ -470,6 +482,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Ushbu saytdagi bir nechta audio yoki video DRM dasturiy ta’minotidan foydalanadi. Ushbu dasturiy ta’minot { -brand-short-name } imkoniyatlarini cheklashi mumkin.
+eme-notifications-drm-content-playing-manage = Sozlamalarni boshqarish
 
 ## Password save/update panel
 
@@ -500,6 +513,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Paydo bo‘luvchi oynalar bloklanganda ushbu xabar ko‘rsatilmasin
     .accesskey = D
+edit-popup-settings =
+    .label = Qalquvchi oyna sozlamalarini boshqarish…
+    .accesskey = m
 picture-in-picture-hide-toggle =
     .label = Rasm ichida rasm rejimini yashirish
     .accesskey = H

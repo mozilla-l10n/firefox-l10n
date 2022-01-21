@@ -106,6 +106,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Tahrirlash
     .accesskey = T
+menu-edit-find-in-page =
+    .label = Sahifadan topish…
+    .accesskey = t
 menu-edit-find-again =
     .label = Yana topish
     .accesskey = p
@@ -236,6 +239,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sahifa haqida ma’lumot
     .accesskey = u
+menu-settings =
+    .label = Sozlamalar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Maket sozlagich
     .accesskey = L

@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Qidiruv
     .aria-label = Qidiruv
-
 newtab-search-box-search-the-web-input =
     .placeholder = Internetdan izlash
     .title = Internetdan izlash
@@ -29,12 +28,10 @@ newtab-topsites-edit-topsites-header = Ommabop saytni tahrirlash
 newtab-topsites-title-label = Nomi
 newtab-topsites-title-input =
     .placeholder = Nomini kiriting
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL manzilini kiriting
 newtab-topsites-url-validation = URL manzilini bexato kiriting
-
 newtab-topsites-image-url-label = Rasmning URL manzili
 newtab-topsites-use-image-link = Boshqa rasmdan foydalaning…
 newtab-topsites-image-validation = Rasm yuklanmadi. Boshqa URL manzildan foydalaning.
@@ -55,18 +52,17 @@ newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Menyuni ochish
     .aria-label = Menyuni ochish
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Olib tashlash
     .aria-label = Olib tashlash
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -95,6 +91,7 @@ newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Tayyor
+newtab-privacy-modal-button-manage = Reklama kontentni sozlamalarni boshqarish
 newtab-privacy-modal-header = Maxfiyligingiz juda muhim.
 newtab-privacy-modal-link = Yangi varaqda maxfiylik qanday boʻlishi haqida batafsil maʼlumot oling
 
@@ -133,7 +130,6 @@ newtab-label-removed-bookmark = Xatchoʻp olib tashlandi
 newtab-label-recommended = Trendda
 newtab-label-saved = { -pocket-brand-name } xizmatiga saqlandi
 newtab-label-download = Yuklab olindi
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -171,12 +167,10 @@ newtab-section-header-pocket = { $provider } tomonidan tavsiya qilingan
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Saytlarni koʻrishni boshlashingiz bilan biz sizga ajoyib maqola, video va oxirgi kirilgan yoki xatchoʻplarga qoʻshilgan sahifalarni koʻrsatamiz.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hammasini koʻrib chiqdingiz. { $provider }dan soʻnggi hikoyalarni o‘qish uchun keyinroq bu sahifaga qayting. Kuta olmaysizmi? Internetdan eng zoʻr hikoyalarni topish uchun ommabop mavzuni tanlang.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -196,6 +190,10 @@ newtab-pocket-learn-more = Batafsil
 newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
 newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -204,3 +202,4 @@ newtab-error-fallback-refresh-link = Yana urinib ko‘rish uchun sahifani yangil
 
 ## Customization Menu
 
+newtab-custom-settings = Boshqa sozlamalarni boshqarish
