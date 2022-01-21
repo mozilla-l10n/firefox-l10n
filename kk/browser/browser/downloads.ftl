@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Жүктемелерді тазарту
     .accesskey = д
+downloads-cmd-delete-file =
+    .label = Өшіру
+    .accesskey = ш
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Жүктемені рұқсат ету
