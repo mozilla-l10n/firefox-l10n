@@ -25,8 +25,16 @@ appmenuitem-find-in-page =
     .label = Sahifadan topish…
 appmenuitem-zoom =
     .value = Masshtab
+appmenuitem-more-tools =
+    .label = Boshqa asboblar
 appmenuitem-help =
     .label = Yordam
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] Chiqish
+           *[other] Chiqish
+        }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -102,6 +110,9 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = { -brand-shorter-name } haqida
     .accesskey = h
+appmenu-get-help =
+    .label = Yordam olish
+    .accesskey = Y
 appmenu-help-report-site-issue =
     .label = Saytdagi muammo haqida xabar berish
 appmenu-help-feedback-page =
@@ -111,6 +122,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Nosozliklarni tuzatish rejimi
+    .accesskey = h
+appmenu-help-exit-troubleshoot-mode =
+    .label = Nozozliklarni tuzatish rejimi oʻchiq
+    .accesskey = t
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -124,5 +141,10 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Asboblar panelini sozlash
 appmenu-taskmanager =
     .label = Vazifa menejeri
+appmenu-developer-tools-subheader = Brazuer vositalari
+appmenu-developer-tools-extensions =
+    .label = Dasturchilar uchun kengaytmalar

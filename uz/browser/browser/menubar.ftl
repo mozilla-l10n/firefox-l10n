@@ -271,11 +271,17 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Yordam
     .accesskey = Y
+menu-get-help =
+    .label = Yordam olish
+    .accesskey = Y
 menu-help-report-site-issue =
     .label = Saytdagi muammo haqida xabar berish
 menu-help-feedback-page =
     .label = Mulohaza bildirish
     .accesskey = b
+menu-help-exit-troubleshoot-mode =
+    .label = Nozozliklarni tuzatish rejimini oʻchirish
+    .accesskey = r
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
