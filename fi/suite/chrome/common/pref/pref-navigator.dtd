@@ -33,7 +33,9 @@
 
 <!ENTITY siteIcons.label                "Verkkosivujen kuvakkeet">
 <!ENTITY useSiteIcons.label             "Näytä verkkosivujen kuvakkeet">
+<!ENTITY useSiteIcons.accesskey         "v">
 <!ENTITY useFavIcons.label              "Yritä käyttää palvelimen kuvaketta, kun sivu ei määritä omaa">
+<!ENTITY useFavIcons.accesskey          "Y">
 
 <!ENTITY homePageIntro.label            "Aloitussivu-painikkeen painaminen avaa nämä sivut:">
 <!ENTITY useCurrent.label               "Käytä avointa sivua">

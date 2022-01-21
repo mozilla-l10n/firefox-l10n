@@ -11,12 +11,18 @@
 
 <!ENTITY defaultClientFor.description     "Tee &brandShortName; oletussovellukseksi seuraaviin:">
 <!ENTITY setDefaultBrowser.label          "Selain">
+<!ENTITY setDefaultBrowser.accesskey      "S">
 <!ENTITY setDefaultMail.label             "Sähköposti">
+<!ENTITY setDefaultMail.accesskey         "p">
 <!ENTITY setDefaultNews.label             "Keskusteluryhmät">
+<!ENTITY setDefaultNews.accesskey         "K">
 <!ENTITY setDefaultFeed.label             "Syötteet">
+<!ENTITY setDefaultFeed.accesskey         "y">
 <!ENTITY useInternalSettings.description  "Käytä &brandShortName;n sähköposti- ja keskusteluryhmätoiminnallisuuksia kun avataan selainlinkkejä seuraaville:">
 <!ENTITY useInternalMail.label            "Sähköposti (mailto:)">
+<!ENTITY useInternalMail.accesskey        "h">
 <!ENTITY useInternalNews.label            "Keskusteluryhmät (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "e">
 
 <!ENTITY printing.label                   "Tulostaminen">
 <!ENTITY useNativePrintDialog.label       "Käytä järjestelmän tulostusdialogia (jos tuettu)">

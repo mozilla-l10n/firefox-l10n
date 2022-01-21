@@ -9,12 +9,16 @@
 <!ENTITY preserveThreading.label          "Säilytä viestiketjujen rakenne viestejä lajiteltaessa">
 <!ENTITY preserveThreading.accesskey      "S">
 <!ENTITY mailAutoHide.label               "Piilota sähköpostin välilehtipalkki, kun auki on vain yksi välilehti">
+<!ENTITY mailAutoHide.accesskey           "l">
 <!ENTITY loadInBackground.label           "Siirry uusiin välilehtiin, kun ne avataan">
 <!ENTITY loadInBackground.accesskey       "v">
 <!ENTITY mailOpenTabsFor.label            "Avaa välilehti ikkunan sijaan">
 <!ENTITY mailMiddleClick.label            "Hiiren keskimmäisen painikkeen napsautus tai Ctrl+Enter viestin tai kansion kohdalla">
+<!ENTITY mailMiddleClick.accesskey        "H">
 <!ENTITY mailMiddleClickMac.label         "Hiiren keskimmäisen painikkeen napsautus tai &#8984;+Return viestin tai kansion kohdalla">
+<!ENTITY mailMiddleClickMac.accesskey     "H">
 <!ENTITY mailDoubleClick.label            "Kaksoisnapsauta viestiä">
+<!ENTITY mailDoubleClick.accesskey        "K">
 <!ENTITY mailBiffOnNewWindow.label        "Nouda uudet viestit vasta sähköpostiohjelman avaamisen jälkeen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "N">
 

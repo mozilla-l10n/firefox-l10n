@@ -9,13 +9,16 @@
 <!ENTITY autoHide.accesskey2 "P">
 <!ENTITY background.label "Valitse linkistä avattu välilehti">
 <!ENTITY background.accesskey "V">
+<!ENTITY diverted.label "Siirry uudelleenohjatuista linkeistä avattuihin uusiin välilehtiin">
+<!ENTITY diverted.accesskey "u">
+<!ENTITY browserFocus.label "Vaihda kohdistus selainikkunaan, kun välilehti on avattu muusta sovelluksesta">
+<!ENTITY browserFocus.accesskey "V">
 <!ENTITY warnOnClose.label "Varoita, kun yritän sulkea ikkunan, jossa on useita välilehtiä">
 <!ENTITY warnOnClose.accesskey "a">
 <!ENTITY relatedAfterCurrent.label "Avaa linkistä avatut välilehdet nykyisen välilehden viereen">
 <!ENTITY relatedAfterCurrent.accesskey "n">
 
 <!ENTITY openTabs.label "Avaa välilehti ikkunan sijaan">
-
 <!ENTITY middleClick.label "Keskinapsautus, Ctrl+napsautus tai Ctrl+Enter verkkosivujen linkeissä">
 <!ENTITY middleClick.accesskey "K">
 <!ENTITY middleClickMac.label "Keskinapsautus, &#8984;+napsautus tai &#8984;+Return verkkosivujen linkeissä">
