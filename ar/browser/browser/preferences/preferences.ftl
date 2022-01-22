@@ -133,6 +133,17 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = نبّهني عند محاولة إغلاق عدّة ألسنة
     .accesskey = ة
+confirm-on-close-multiple-tabs =
+    .label = أكّد علي عند محاولة إغلاق عدّة ألسنة
+    .accesskey = ك
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = أكّد علي قبل المغادرة باستعمال { $quitKey }
+    .accesskey = د
 warn-on-open-many-tabs =
     .label = نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ { -brand-short-name }
     .accesskey = ف
@@ -218,6 +229,7 @@ confirm-browser-language-change-button = طبِّق وأعِد التشغيل
 translate-web-pages =
     .label = ترجم محتوى الوب
     .accesskey = ت
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = ترجمات <img data-l10n-name="logo"/>
@@ -777,6 +789,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر رئيسية غير فارغة.
 forms-master-pw-fips-desc = فشل تغيير كلمة السر
+forms-windows-sso =
+    .label = اسمح بالولوج الموحّد من وِندوز إلى حسابات ميكروسوفت وحسابات العمل والحسابات المدرسية.
+forms-windows-sso-learn-more-link = اطّلع على المزيد
+forms-windows-sso-desc = أدِر الحسابات في إعدادات الجهاز
 
 ## OS Authentication dialog
 
@@ -861,6 +877,8 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = المتعقّبات التي تعبر المواقع، تشمل متعقّبات المواقع الاجتماعية
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = الكعكات التي تعبر المواقع، تشمل متعقّبات المواقع الاجتماعية
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = الكعكات التي تتعقّبك بين المواقع
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = المتعقّبات الاجتماعية وتلك التي تعبر المواقع، واعزل بقية الكعكات
 sitedata-option-block-unvisited =
@@ -929,8 +947,11 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = يوازن بين الحماية والأداء. ستتحمّل الصفحات كالعادة.
 content-blocking-etp-strict-desc = حماية أقوى وأعتى، لكنها قد تعطب محتويات بعض المواقع أو المواقع نفسها.
 content-blocking-etp-custom-desc = اختر المتعقّبات والسكربتات التي تريد حجبها.
+content-blocking-etp-blocking-desc = يحجب { -brand-short-name } الآتي:
 content-blocking-private-windows = المحتوى الذي يتعقّبك في النوافذ الخاصة
+content-blocking-cross-site-cookies-in-all-windows = الكعكات بين المواقع في كل النوافذ (بما فيها تلك التي تتعقّبك)
 content-blocking-cross-site-tracking-cookies = كعكات تتعقّبك بين المواقع
+content-blocking-all-cross-site-cookies-private-windows = الكعكات بين المواقع في النوافذ الخاصة
 content-blocking-cross-site-tracking-cookies-plus-isolate = المتعقّبات التي تعبر المواقع، واعزل بقية الكعكات
 content-blocking-social-media-trackers = متعقبات مواقع التواصل الاجتماعي
 content-blocking-all-cookies = كل الكعكات
@@ -939,6 +960,7 @@ content-blocking-all-windows-tracking-content = المحتوى الذي يتعق
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
 content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
+content-blocking-etp-standard-tcp-rollout-learn-more = اطّلع على المزيد
 content-blocking-warning-title = انتبه!
 content-blocking-and-isolating-etp-warning-description = يمكن أن يضرّ حجب المتعقّبات وعزل الكعكات بمزايا بعض المواقع. أعِد تحميل الصفحات التي فيها متعقّبات لتحميل كلّ محتواها.
 content-blocking-and-isolating-etp-warning-description-2 = قد يتسبّب هذا الإعداد بألّا تعرض بعض المواقع أي محتوى أو ألا تعمل كما ينبغي. إن رأيت الموقع معطوبًا، فيمكنك تعطيل الحماية من التعقّب لهذا الموقع لتحميل محتواه.
