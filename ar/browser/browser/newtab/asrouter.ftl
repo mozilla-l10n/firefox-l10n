@@ -129,6 +129,7 @@ cfr-doorhanger-fission-secondary-button = اطّلع على المزيد
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = قد لا تعمل الڤِديوهات في هذا الموقع كما ينبغي في إصدارة { -brand-short-name } هذه. من فضلك حدّث { -brand-short-name } الآن لتحصل على الدعم الكامل للڤِديوهات.
 cfr-doorhanger-video-support-header = حدّث { -brand-short-name } لتشغيل الڤِديو
 cfr-doorhanger-video-support-primary-button = حدّث الآن
     .accesskey = ح
@@ -148,8 +149,12 @@ spotlight-learn-more-expanded = اطّلع على المزيد
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = يبدو أنك تستخدم شبكة Wi-Fi عامة
+spotlight-public-wifi-vpn-body = ننصحك باستعمال شبكة افتراضية خاصة VPN لإخفاء مكانك وتأريخ التصفح. سيساعد هذا في إبقاء تصفّحك في الأماكن العامة كالمطارات والمقاهي محميًا.
+spotlight-public-wifi-vpn-primary-button = احفظ خصوصيتك دومًا عبر { -mozilla-vpn-brand-name }
+    .accesskey = ح
 spotlight-public-wifi-vpn-link = ليس الآن
     .accesskey = ل
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-secondary-button = ليس الآن

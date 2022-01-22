@@ -217,6 +217,7 @@ newtab-discovery-empty-section-topstories-timed-out = آخ. أوشكنا على 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = المواضيع الشائعة:
+newtab-pocket-new-topics-title = أتريد المزيد من القصص؟ اطلع على هذه المواضيع الشائعة من { -pocket-brand-name }
 newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }

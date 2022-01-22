@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = ليس الآن
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = وجدنا المواقع أسفله في هذا الجهاز. لا يحفظ { -brand-short-name } البيانات ولا يُزامنها من متصفّحاتك الأخرى إلّا بموافقتك على استيرادها.
+return-to-amo-add-theme-label = أضِف السمة
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -103,6 +104,12 @@ mr1-onboarding-reduce-motion-button-label = عطّل الرسوم المتحرك
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] أضِف { -brand-short-name } إلى شريط Dock للوصول إليه بسرعة
+       *[other] ثبّت { -brand-short-name } في شريط المهام للوصول إليه بسرعة
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -142,6 +149,9 @@ mr1-onboarding-import-primary-button-label-attribution = استورِد من { $
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = استورِدها من المتصفّح السابق
 mr1-onboarding-import-secondary-button-label = ليس الآن
+mr2-onboarding-colorway-header = الحياة ألوان
+mr2-onboarding-colorway-subtitle = أطقم ألوان جديدة وحيوية. متاحة لوقت محدود.
+mr2-onboarding-colorway-primary-button-label = احفظ طقم الألوان
 mr2-onboarding-colorway-secondary-button-label = ليس الآن
 mr1-onboarding-theme-header = طوّعه كما ترغب
 mr1-onboarding-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
@@ -248,6 +258,14 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         استعمل سمة مفعمة بالألوان
         لعرض الأزرار والقوائم والنوافذ.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = استعمل طقم الألوان هذا.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = استعمل طقم الألوان هذا.
 
 ## Strings for Thank You page
 
