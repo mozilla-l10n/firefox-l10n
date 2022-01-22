@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title  "O ChatZilli">
+
+<!ENTITY chatzilla.label       "ChatZilla">
+<!ENTITY version.unknown.label "Neznana različica">
+<!ENTITY version.known.label   "Različica &#37;S">
+
+<!ENTITY homepage.label    "Obiščite domačo stran">
+<!ENTITY copyversion.label "Kopiraj podrobnosti o različici">
+
+<!ENTITY section.core.label    "Osnovna razvojna ekipa:">
+<!ENTITY section.locale.label  "Lokalizacija:">
+<!ENTITY section.contrib.label "Sodelavci:">
