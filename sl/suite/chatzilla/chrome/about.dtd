@@ -7,6 +7,7 @@
 <!ENTITY chatzilla.label       "ChatZilla">
 <!ENTITY version.unknown.label "Neznana različica">
 <!ENTITY version.known.label   "Različica &#37;S">
+<!ENTITY description.label     "Pregleden, enostaven za uporabo in zelo razširljiv odjemalec za internetni klepet (IRC).">
 
 <!ENTITY homepage.label    "Obiščite domačo stran">
 <!ENTITY copyversion.label "Kopiraj podrobnosti o različici">
