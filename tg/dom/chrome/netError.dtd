@@ -7,6 +7,7 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Пайваст карда нашуд">
 
 
 <!ENTITY dnsNotFound.title "Нишонӣ ёфт нашуд">
