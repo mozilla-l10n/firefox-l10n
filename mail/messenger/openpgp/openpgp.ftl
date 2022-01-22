@@ -366,6 +366,13 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de firma desconocido (ID: { $id })
 unknown-hash-alg = Hash criptográfico desconocido (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Tu clave { $desc } expirará en menos de { $days } días.
+    Te recomendamos que crees un nuevo par de claves y configures las cuentas correspondientes para usarlas.
+expiry-keys-expire-soon =
+    Tus siguientes claves expirarán en menos de { $days } días:{ $desc }.
+    Te recomendamos que crees nuevas claves y configurar las cuentas correspondientes para usarlas.
 expiry-key-missing-owner-trust =
     Tu clave secreta { $desc } no tiene confianza.
     Te recomendamos que configures en "Confiar en las certificaciones" como "máximo" en las propiedades clave.
@@ -376,6 +383,9 @@ filter-folder-required = Debes seleccionar una carpeta de destino.
 filter-term-pgpencrypted-label = OpenPGP cifrado
 filter-key-required = Debes seleccionar una clave de destinatario.
 filter-key-not-found = No se pudo encontrar una clave de cifrado para ‘{ $desc }’.
+filter-warn-key-not-secret =
+    Advertencia - la acción de filtro “Cifrar a clave” reemplaza a los destinatarios.
+    Si no tienes una clave secreta para ‘{ $desc }’, no podrás leer los correos electrónicos.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Descifrar permanentemente (OpenPGP)
 filter-decrypt-copy-label = Crear copia descifrada (OpenPGP)
