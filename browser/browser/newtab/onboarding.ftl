@@ -266,7 +266,31 @@ mr2-onboarding-theme-tooltip =
 # variations e.g. soft, balanced, bold
 mr2-onboarding-theme-description =
     .aria-description = استعمل طقم الألوان هذا.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = استكشف أطقم الألوان { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = استكشف أطقم الألوان { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = استكشف أطقم الألوان { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = استكشف السمات المبدئية.
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = استكشف السمات المبدئية.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = استكشف السمات المبدئية.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = شكرًا لكم على اختيارنا
+mr2-onboarding-thank-you-text = متصفّح { -brand-short-name } هو متصفّح مستقل تدعمه مؤسسة غير ربحية. نعمل معكم لنبني منظومة وِب آمنة وصحية وخاصة.
 mr2-onboarding-start-browsing-button-label = ابدأ التصفح
