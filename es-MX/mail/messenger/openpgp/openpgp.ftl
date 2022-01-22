@@ -350,6 +350,11 @@ wkd-message-body-req =
 wkd-message-body-process =
     Este es un correo electrónico relacionado con el procesamiento automático para subir tu clave pública en el directorio de claves web de OpenPGP.
     No necesitas tomar ninguna acción manual en este punto.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    No se pudo descifrar el mensaje con el asunto
+    { $subject }.
+    ¿Deseas volver a intentarlo con una frase de contraseña diferente o deseas omitir el mensaje?
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmo de firma desconocido (ID: { $id })
 unknown-hash-alg = Hash criptográfico desconocido (ID: { $id })
@@ -393,10 +398,12 @@ ascii-armor-file = Archivos blindados ASCII (*.asc)
 no-key-selected = Debes seleccionar al menos una clave para realizar la operación seleccionada
 export-to-file = Exportar clave pública a un archivo
 export-keypair-to-file = Exportar clave secreta y pública a un archivo
+export-secret-key = ¿Deseas incluir la clave secreta en el archivo de clave OpenPGP guardado?
 save-keys-ok = Las claves se guardaron con éxito
 save-keys-failed = No se pudieron guardar las claves
 default-pub-key-filename = Claves públicas exportadas
 default-pub-sec-key-filename = Copia de seguridad de claves secretas
+refresh-key-warn = Advertencia: según la cantidad de claves y la velocidad de la conexión, ¡actualizar todas las claves puede ser un proceso bastante largo!
 preview-failed = No se puede leer el archivo de la clave pública.
 general-error = Error: { $reason }
 dlg-button-delete = &Eliminar
@@ -410,6 +417,10 @@ openpgp-export-secret-fail = <b>¡No se puede exportar la clave secreta seleccio
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = La clave { $userId } (ID de clave { $keyId }) está revocada.
 key-ring-pub-key-expired = La clave { $userId } (ID de clave { $keyId }) ha caducado.
+key-ring-no-secret-key = Parece que no tienes la clave secreta para { $userId } (ID de clave { $keyId }) en tu conjunto de claves; no puedes usar la clave para firmar.
+key-ring-pub-key-not-for-signing = La clave { $userId } (ID de clave { $keyId }) no se puede usar para firmar.
+key-ring-pub-key-not-for-encryption = La clave { $userId } (ID de clave { $keyId }) no se puede usar para el cifrado.
+key-ring-sign-sub-keys-revoked = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) están revocados.
 key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) han caducado.
 key-ring-enc-sub-keys-expired = Todas las subclaves de cifrado de la clave { $userId } (ID de clave { $keyId }) han caducado.
 # Strings in gnupg-keylist.jsm
@@ -417,13 +428,24 @@ keyring-photo = Foto
 user-att-photo = Atributo de usuario (imagen JPEG)
 # Strings in key.jsm
 already-revoked = Esta clave ya ha sido revocada.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = La clave 0x{ $keyId } ya ha sido revocada.
 key-man-button-revoke-key = &Revocar clave
 openpgp-key-revoke-success = Clave revocada exitosamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
+delete-external-key-description = ¿Deseas eliminar esta ID de la clave GnuPG externa?
 key-in-use-title = Clave OpenPGP actualmente en uso
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = La dirección de correo electrónico ‘{ $keySpec }’ no puede coincidir con una clave en tu conjunto de claves.
+key-error-key-id-not-found = El ID de clave configurado ‘{ $keySpec }’ no se puede encontrar en tu conjunto de claves.
+key-error-not-accepted-as-personal = No has confirmado que la clave con ID ‘{ $keySpec }’ es tu clave personal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = La función que has seleccionado no está disponible en el modo sin conexión.  Por favor, conéctate y vuelve a intentarlo.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = No pudimos encontrar ninguna clave que coincida con los criterios de búsqueda especificados.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Error - el comando de extracción de clave falló
 # Strings used in keyRing.jsm
@@ -449,10 +471,14 @@ import-key-file = Importar archivo de clave OpenPGP
 import-rev-file = Importar archivo de revocación OpenPGP
 gnupg-file = Archivos GnuPG
 import-keys-failed = Error al importar las claves
+passphrase-prompt = Ingresa la frase de contraseña que desbloquea la siguiente clave: { $key }
+file-to-big-to-import = Este archivo es demasiado grande. Por favor, no importes un gran conjunto de claves a la vez.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear y guardar certificado de revocación
+revoke-cert-ok = El certificado de revocación ha sido creado correctamente. Puedes usarlo para invalidar tu clave pública, por ejemplo en caso de que pierdas tu clave secreta.
 revoke-cert-failed = No se pudo crear el certificado de revocación.
 gen-going = ¡La generación de claves ya está en progreso!
+keygen-missing-user-name = No hay ningún nombre especificado para la cuenta/identidad seleccionada. Por favor, ingresa un valor en el campo “Tu nombre" en la configuración de la cuenta.
 expiry-too-short = Tu clave debe ser válida por al menos un día.
 expiry-too-long = No puedes crear una clave que expira en más de 100 años.
 key-confirm = ¿Generar clave pública y secreta para ‘{ $id }’?
@@ -485,6 +511,9 @@ key-revoked = Clave ‘{ $key }’ revocada
 key-expired = La clave ‘{ $key }’ caducó
 msg-compose-internal-error = Se ha producido un error interno.
 keys-to-export = Selecciona las claves OpenPGP para insertar
+msg-compose-partially-encrypted-inlinePGP =
+    El mensaje al que estás respondiendo contenía partes no cifradas y cifradas. Si el remitente no pudo descifrar algunas partes del mensaje originalmente, es posible que esté filtrando información confidencial que el remitente no pudo descifrar originalmente.
+    Por favor, considera eliminar todo el texto citado de tu respuesta a este remitente.
 msg-compose-cannot-save-draft = Error al guardar el borrador
 msg-compose-partially-encrypted-short = Ten cuidado con la filtración de información confidencial - correo electrónico parcialmente cifrado.
 quoted-printable-warn =
@@ -496,6 +525,10 @@ minimal-line-wrapping =
 sending-news =
     Se anuló la operación de envío cifrado.
     Este mensaje no se puede cifrar porque hay destinatarios de grupos de noticias. Vuelve a enviar el mensaje sin cifrar.
+send-to-news-warning =
+    Advertencia: estás a punto de enviar un correo electrónico cifrado a un grupo de noticias.
+    Esto no se recomienda porque solo tiene sentido si todos los miembros del grupo pueden descifrar el mensaje, es decir, el mensaje debe cifrarse con las claves de todos los participantes del grupo. Envía este mensaje solo si sabes exactamente lo que estás haciendo.
+    ¿Continuar?
 save-attachment-header = Guardar archivo adjunto descifrado
 no-temp-dir =
     No se pudo encontrar un directorio temporal para escribir
