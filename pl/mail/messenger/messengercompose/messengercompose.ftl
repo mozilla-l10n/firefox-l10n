@@ -289,6 +289,9 @@ cloud-file-template-download-limit = Ograniczenie pobierania:
 # Messages
 
 # $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Błąd połączenia
+cloud-file-connection-error = { -brand-short-name } jest w trybie offline. Nie można połączyć się z serwisem { $provider }.
+# $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Przesłanie pliku { $filename } do serwisu { $provider } się nie powiodło
 # $provider (string) - name of the online storage service that reported the error
