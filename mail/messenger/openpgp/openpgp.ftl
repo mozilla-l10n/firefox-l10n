@@ -332,6 +332,7 @@ cannot-encrypt-because-missing = No se puede enviar este mensaje con cifrado de 
 window-locked = La ventana de redacción está bloqueada; envío cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Esta es una parte del mensaje cifrado. Necesitas abrirlo en una ventana separada haciendo clic en el archivo adjunto.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Cancelar
@@ -464,7 +465,15 @@ key-man-button-generate-key-continue = &Continuar con la generación de claves
 
 failed-decrypt = Error - descifrado fallido
 fix-broken-exchange-msg-failed = No se puede reparar este mensaje.
+attachment-no-match-from-signature = No se pudo hacer coincidir el archivo de firma ‘{ $attachment }’ con un archivo adjunto
+attachment-no-match-to-signature = No se pudo hacer coincidir el archivo adjunto ‘{ $attachment }’ con un archivo de firma
+signature-verified-ok = La firma del archivo adjunto { $attachment } se verificó con éxito
+signature-verify-failed = No se pudo verificar la firma del archivo adjunto { $attachment }
+decrypt-ok-no-sig =
+    Advertencia
+    El descifrado fue exitoso, pero la firma no se pudo verificar correctamente
 msg-ovl-button-cont-anyway = &Continuar de todas formas
+enig-content-note = *Los archivos adjuntos a este mensaje no han sido firmados ni cifrados*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Enviar mensaje
 msg-compose-details-button-label = Detalles…
@@ -488,6 +497,9 @@ sending-news =
     Se anuló la operación de envío cifrado.
     Este mensaje no se puede cifrar porque hay destinatarios de grupos de noticias. Vuelve a enviar el mensaje sin cifrar.
 save-attachment-header = Guardar archivo adjunto descifrado
+no-temp-dir =
+    No se pudo encontrar un directorio temporal para escribir
+    Por favor, establece la variable de entorno TEMP
 possibly-pgp-mime = Posiblemente un mensaje cifrado o firmado PGP/MIME; usar la función 'Descifrar/Verificar' para verificar
 cannot-send-sig-because-no-own-key = No se puede firmar digitalmente este mensaje porque todavía no has configurado el cifrado de extremo a extremo para <{ $key }>
 cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, porque todavía no has configurado cifrado de extremo a extremo para <{ $key }>
@@ -507,7 +519,12 @@ unverified-reply = La parte del mensaje con sangría (respuesta) probablemente s
 key-in-message-body = Se encontró una clave en el cuerpo del mensaje. Haz clic en ‘Importar clave’ para importar la clave.
 sig-mismatch = Error - Falta de coincidencia de la firma
 invalid-email = Error - dirección o direcciones de correo no válidas
+attachment-pgp-key =
+    El archivo adjunto ‘{ $name }’ que estás abriendo parece ser un archivo de clave OpenPGP.
+    Haz clic en ‘Importar’ para importar las claves que contiene o 'Ver' para ver los contenidos del archivo en una ventana del navegador
 dlg-button-view = &Ver
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mensaje descifrado (el formato de correo electrónico PGP roto restaurado probablemente causado por un antiguo servidor de Exchange, por lo que el resultado podría no ser perfecto para leer)
 # Strings used in encryption.jsm
 not-required = Error - no se requiere cifrado
 # Strings used in windows.jsm
