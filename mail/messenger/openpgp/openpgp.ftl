@@ -269,6 +269,14 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird no tiene una clave OpenPGP personal para <b>{ $identity }</b>
+        [one] Thunderbird encontró { $count } clave OpenPGP personal asociada con <b>{ $identity }</b>
+       *[other] Thunderbird encontró { $count } claves OpenPGP personales asociadas con <b>{ $identity }</b>
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Tu configuración actual usa ID de clave <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
@@ -422,22 +430,39 @@ key-ring-pub-key-not-for-signing = La clave { $userId } (ID de clave { $keyId })
 key-ring-pub-key-not-for-encryption = La clave { $userId } (ID de clave { $keyId }) no se puede usar para el cifrado.
 key-ring-sign-sub-keys-revoked = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) están revocados.
 key-ring-sign-sub-keys-expired = Todas las subclaves de firma de la clave { $userId } (ID de clave { $keyId }) han caducado.
+key-ring-enc-sub-keys-revoked = Se revocaran todas las subclaves de cifrado de la clave { $userId } (ID de clave { $keyId }).
 key-ring-enc-sub-keys-expired = Todas las subclaves de cifrado de la clave { $userId } (ID de clave { $keyId }) han caducado.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo de usuario (imagen JPEG)
 # Strings in key.jsm
 already-revoked = Esta clave ya ha sido revocada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Estás a punto de revocar la clave '{ $identity }'.
+    Ya no podrás firmar con esta clave y, una vez distribuida, otros ya no podrán cifrar con esa clave. Todavía puedes usar la clave para descifrar mensajes antiguos.
+    ¿Deseas continuar?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    ¡No tienes ninguna clave (0x{ $keyId }) que coincida con este certificado de revocación!
+    Si has perdido tu clave, debes importarla (por ejemplo, desde un servidor de claves) antes de importar el certificado de revocación.
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = La clave 0x{ $keyId } ya ha sido revocada.
 key-man-button-revoke-key = &Revocar clave
 openpgp-key-revoke-success = Clave revocada exitosamente.
+after-revoke-info =
+    La clave ha sido revocada.
+    Vuelve a compartir esta clave pública, enviándola por correo electrónico o cargándola en servidores de claves, para que otros sepan que revocaste tu clave.
+    Tan pronto como el software utilizado por otras personas se entere de la revocación, dejará de usar tu clave anterior.
+    Si estás utilizando una nueva clave para la misma dirección de correo electrónico y adjuntas la nueva clave pública a los correos electrónicos que envías, la información sobre tu antigua clave revocada se incluirá automáticamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Eliminar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
 delete-external-key-description = ¿Deseas eliminar esta ID de la clave GnuPG externa?
 key-in-use-title = Clave OpenPGP actualmente en uso
+delete-key-in-use-description = ¡Imposible continuar! La clave que seleccionaste para eliminar está siendo usada por esta identidad. Selecciona una clave diferente o ninguna, y vuelve a intentarlo.
+revoke-key-in-use-description = ¡Imposible continuar! La clave que seleccionaste para revocar está siendo usada por esta identidad. Selecciona una clave diferente o ninguna, y vuelve a intentarlo.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = La dirección de correo electrónico ‘{ $keySpec }’ no puede coincidir con una clave en tu conjunto de claves.
 key-error-key-id-not-found = El ID de clave configurado ‘{ $keySpec }’ no se puede encontrar en tu conjunto de claves.
@@ -455,6 +480,7 @@ import-key-confirm = ¿Importar clave(s) pública(s) incrustadas en el mensaje?
 fail-key-import = Error - importación de clave fallida
 file-write-failed = Error al escribir en el archivo { $output }
 no-pgp-block = Error - No se encontró un bloque de datos OpenPGP blindado válido
+confirm-permissive-import = La importación falló. La clave que estás tratando de importar puede estar dañada o usar atributos desconocidos. ¿Te gustaría intentar importar las partes que son correctas? Esto podría dar lugar a la importación de claves incompletas e inutilizables.
 # Strings used in trust.jsm
 key-valid-unknown = desconocido
 key-valid-invalid = no válido
