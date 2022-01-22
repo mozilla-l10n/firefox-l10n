@@ -48,3 +48,8 @@ pocket-panel-home-paragraph = Puoi utilizzare { -pocket-brand-name } per scoprir
 pocket-panel-home-explore-popular-topics = Esplora argomenti più popolari
 pocket-panel-home-discover-more = Scopri altro
 pocket-panel-home-explore-more = Esplora
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Visualizza il mio elenco
+pocket-panel-header-sign-in = Accedi
