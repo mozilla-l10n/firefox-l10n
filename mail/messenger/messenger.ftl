@@ -169,3 +169,20 @@ no-reply-reply-anyway-button = Rispondi comunque
 ## error messages
 
 decrypt-and-copy-failures = Non è stato possibile decrittare e copiare { $failures } di { $total } messaggi.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Barra degli spazi
+spaces-toolbar-button-mail =
+    .title = Passa alla scheda della posta
+spaces-toolbar-button-address-book =
+    .title = Passa alla scheda della rubrica
+spaces-toolbar-button-calendar =
+    .title = Passa alla scheda del calendario
+spaces-toolbar-button-tasks =
+    .title = Passa alla scheda delle attività
+spaces-toolbar-button-settings =
+    .title = Passa alla scheda delle impostazioni
+spaces-toolbar-button-collapse =
+    .title = Comprimi la barra degli spazi
