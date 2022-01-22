@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-new-tab =
+    .label = لسان جديد
+    .accesskey = س
 toolbar-context-menu-reload-selected-tab =
     .label = أعِد تحميل اللسان المنتقى
     .accesskey = د
@@ -41,9 +44,9 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = أبلِغ عن الامتداد
     .accesskey = ت
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = ثبّت في قائمة الزيادة
     .accesskey = ث
