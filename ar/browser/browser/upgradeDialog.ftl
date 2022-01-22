@@ -49,12 +49,35 @@ upgrade-dialog-default-secondary-button = ليس الآن
 
 ## Theme selection screen
 
+upgrade-dialog-theme-system = سمة النظام
+    .title = اتبع سمة نظام التشغيل لعرض الأزرار والقوائم والنوافذ
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = الحياة ألوان
+upgrade-dialog-start-subtitle = أطقم ألوان جديدة وحيوية. متاحة لوقت محدود.
+upgrade-dialog-start-secondary-button = ليس الآن
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = اختر الطقم الذي يناسبك
+upgrade-dialog-colorway-primary-button = احفظ طقم الألوان
+upgrade-dialog-colorway-secondary-button = أبقِ السمة السابقة
+upgrade-dialog-colorway-theme-tooltip =
+    .title = استكشف السمات المبدئية
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = استكشف أطقم الألوان { $colorwayName }
+upgrade-dialog-theme-keep = أبقِ السابقة
+    .title = استعمل السمة التي كانت مثبّتة قبل تحديث { -brand-short-name }
+upgrade-dialog-theme-primary-button = احفظ السمة
+upgrade-dialog-theme-secondary-button = ليس الآن
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = شكرًا لكم على اختيارنا
+upgrade-dialog-thankyou-subtitle = متصفّح { -brand-short-name } هو متصفّح مستقل تدعمه مؤسسة غير ربحية. نعمل معكم لنبني منظومة وِب آمنة وصحية وخاصة.
+upgrade-dialog-thankyou-primary-button = ابدأ التصفح
