@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Dotykowe
     .accesskey = D
+menu-spaces-toolbar-button =
+    .label = Pasek miejsc
+    .accesskey = c
 
 ## File
 

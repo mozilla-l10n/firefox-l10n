@@ -171,3 +171,22 @@ no-reply-reply-anyway-button = Odpowiedz mimo to
 ## error messages
 
 decrypt-and-copy-failures = Nie udało się odszyfrować { $failures } z { $total } wiadomości i nie zostały one skopiowane.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Pasek miejsc
+spaces-toolbar-button-mail =
+    .title = Przełącz na kartę poczty
+spaces-toolbar-button-address-book =
+    .title = Przełącz na kartę książki adresowej
+spaces-toolbar-button-calendar =
+    .title = Przełącz na kartę kalendarza
+spaces-toolbar-button-tasks =
+    .title = Przełącz na kartę zadań
+spaces-toolbar-button-chat =
+    .title = Przełącz na kartę komunikatora
+spaces-toolbar-button-settings =
+    .title = Przełącz na kartę ustawień
+spaces-toolbar-button-collapse =
+    .title = Zwiń pasek miejsc
