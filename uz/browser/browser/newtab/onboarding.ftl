@@ -46,6 +46,9 @@ onboarding-multistage-set-default-primary-button-label = Asosiy brauzer deb tayi
 onboarding-multistage-set-default-secondary-button-label = Hozir emas
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Sozlamalar ochiq paytda brauzerdan { -brand-short-name }ni tanlang
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Bu yerda keltirilgan saytlar ushbu qurilmada topilgan. { -brand-short-name } siz import qilishni tanlamaguningizcha boshqa brauzerdagi maʼlumotlarni saqlamaydi yoki sinxronlashtirmaydi.
 
 ## Multistage onboarding strings (about:welcome pages)
 
