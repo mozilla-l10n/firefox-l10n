@@ -29,9 +29,9 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Kengayma ustidan shikoyat qilish
     .accesskey = o
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Kengaytirilgan menyuga qistirish
     .accesskey = Q
@@ -41,6 +41,9 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Moslash…
     .accesskey = M
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Asboblar panelini sozlash…
+    .accesskey = A
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Menyu paneli
     .accesskey = M
