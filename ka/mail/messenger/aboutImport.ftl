@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = ფოსტის წერილები
 progress-pane-title = გადმოდის
 progress-pane-restart-desc = ახლიდან გაუშვით, დასასრულებლად.
 error-pane-title = შეცდომა
+error-message-zip-file-too-big = შერჩეული zip-ფაილი აღემატება 2GB-ს. გთხოვთ ჯერ დაშალოთ და შემდეგ საქაღალდით შემოიტანოთ.
+error-message-extract-zip-file-failed = ვერ მოხერხდა zip-ფაილის გაშლა. გთხოვთ, ხელით ამოიღოთ შიგთავსი და იმ საქაღალდიდან შემოიტანოთ.
+error-message-failed = შემოტანა მოულოდნელად შეფერხდა, ვრცლად იხილავთ შეცდომების კონსოლში.
