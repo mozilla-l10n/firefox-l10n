@@ -74,3 +74,4 @@
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve, kadarkoli mu ustreza.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; lahko občasno po potrebi posodobi navedene pogoje. Brez pisnega soglasja &vendorShortName; pa jih ni dovoljeno spreminjati ali preklicati.">
+<!ENTITY rights.webservices-term6a "Te pogoje se ureja in razlaga v skladu z zakoni v Nemčiji in vsi spori, ki se porodijo iz navedenih pogojev, bodo predloženi v izključno pristojnost pristojnega sodišča v Nemčiji. Če katerikoli del teh pogojev obvelja za neveljavnega ali neizvršljivega, preostali deli ostanejo v polni veljavi in učinkovanju. V primeru neskladnosti med prevodom teh pogojev in angleško različico obvelja različica v angleškem jeziku.">

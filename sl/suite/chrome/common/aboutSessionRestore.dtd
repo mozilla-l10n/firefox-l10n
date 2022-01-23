@@ -6,6 +6,7 @@
 <!ENTITY restorepage.pagetitle      "Ali želite obnoviti svojo sejo?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
+<!ENTITY restorepage.remedies       "Če se &brandShortName; znova in znova zapira:">
 <!ENTITY restorepage.dueToChrome    "Poskusite onemogočiti nedavno dodane razširitve v upravitelju dodatkov.">
 <!ENTITY restorepage.dueToContent   "Poskusite obnoviti sejo brez spletnih strani, za katere sumite, da bi lahko povzročale težavo:">
 

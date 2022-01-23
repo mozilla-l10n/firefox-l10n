@@ -68,6 +68,7 @@
 
 <!ENTITY col.name.label          "Ime">
 <!ENTITY col.tags.label          "Oznake">
+<!ENTITY col.url.label           "Lokacija">
 <!ENTITY col.mostrecentvisit.label "Zadnji ogled">
 <!ENTITY col.visitcount.label    "Števec ogledov">
 <!ENTITY col.description.label   "Opis">
