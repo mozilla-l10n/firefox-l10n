@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "ы">
 <!ENTITY choosethis.label "выбрать эту папку">
 <!ENTITY choosethisnewsserver.label "выбрать этот сервер новостей">
+<!ENTITY searchBox.emptyText "Поиск фильтров по имени…">
