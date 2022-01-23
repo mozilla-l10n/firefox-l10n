@@ -36,3 +36,4 @@
 <!ENTITY folderPickerPrefix.accesskey "ყ">
 <!ENTITY choosethis.label "ამ საქაღალდის არჩევა">
 <!ENTITY choosethisnewsserver.label "ჯგუფების ამ სერვერის არჩევა">
+<!ENTITY searchBox.emptyText "ფილტრის მოძიება სახელით…">
