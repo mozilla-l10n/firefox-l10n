@@ -31,3 +31,9 @@
 '<a href="http://www.mozilla.org/mailnews/">ჩვენ</a> მადლიერი ვართ თქვენი გამოგზავნილი
 შეცდომის პატაკებისა და მოთხოვნებსთვის, მაგრამ გთხოვთ ჯერ გაეცნოთ <a id="releaseNotesURL" href="">ვერსიის მონაცემებს</a> და ჯერ აქ
 <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> მოიძიოთ.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">ჩვენ</a> მადლიერი ვართ
+თქვენ მიერ გამოგზავნილი მოხსენებებისა და მოთხოვნებსთვის, მაგრამ გთხოვთ ჯერ გაეცნოთ
+<a id="releaseNotesURL" href="">გამოშვების მონაცემებს</a> და გადაათვალიეროთ
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
