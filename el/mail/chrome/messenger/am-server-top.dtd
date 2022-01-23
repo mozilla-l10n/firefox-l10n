@@ -68,7 +68,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "π">
 <!ENTITY newsrcFilePath1.label "Αρχείο News.rc:">
 <!ENTITY newsrcPicker1.label "Επιλογή αρχείου News.rc">
-<!ENTITY abbreviate.label "Προβολή ονομάτων ομάδων συζήτησης σαν:">
+<!ENTITY abbreviate.label "Εμφάνιση ονομάτων ομάδων συζητήσεων στην περιοχή φακέλων ως:">
 <!ENTITY abbreviateOn.label "Πλήρη ονόματα (για παράδειγμα, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (για παράδειγμα, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Σύνθετα…">

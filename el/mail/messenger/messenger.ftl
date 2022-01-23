@@ -49,7 +49,7 @@ folder-pane-toolbar =
     .toolbarname = Γραμμή περιοχής φακέλων
     .accesskey = Γ
 folder-pane-toolbar-options-button =
-    .tooltiptext = Επιλογές προβολής φακέλων
+    .tooltiptext = Επιλογές περιοχής φακέλων
 folder-pane-header-label = Φάκελοι
 
 ## Folder Toolbar Header Popup
