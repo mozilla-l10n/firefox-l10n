@@ -147,9 +147,9 @@
 <!ENTITY messagePaneWide.accesskey "Ε">
 <!ENTITY messagePaneVertical.label "Κάθετη προβολή">
 <!ENTITY messagePaneVertical.accesskey "θ">
-<!ENTITY showFolderPaneCmd.label "Προβολή φακέλων">
+<!ENTITY showFolderPaneCmd.label "Περιοχή φακέλων">
 <!ENTITY showFolderPaneCmd.accesskey "φ">
-<!ENTITY showFolderPaneColsCmd.label "Στήλες προβολής φακέλων">
+<!ENTITY showFolderPaneColsCmd.label "Στήλες περιοχής φακέλων">
 <!ENTITY showFolderPaneColsCmd.accesskey "Φ">
 <!ENTITY showMessageCmd.label "Περιοχή μηνύματος">
 <!ENTITY showMessageCmd.accesskey "μ">
