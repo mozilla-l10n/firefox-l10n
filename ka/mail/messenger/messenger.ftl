@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = ჩაკეცვა
+messenger-window-maximize-button =
+    .tooltiptext = გაშლა
+messenger-window-restore-down-button =
+    .tooltiptext = შემცირება
+messenger-window-close-button =
+    .tooltiptext = დახურვა
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -158,3 +169,18 @@ no-reply-reply-anyway-button = პასუხის მიწერა მა�
 ## error messages
 
 decrypt-and-copy-failures = { $failures }, ჯამში { $total } წერილიდან ვერ გაიშიფრა და მათი ასლი არ აღებულა.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = გადასვლა ფოსტის ჩანართზე
+spaces-toolbar-button-address-book =
+    .title = გადასვლა წიგნაკის ჩანართზე
+spaces-toolbar-button-calendar =
+    .title = გადასვლა კალენდრის ჩანართზე
+spaces-toolbar-button-tasks =
+    .title = გადასვლა დავალებების ჩანართზე
+spaces-toolbar-button-chat =
+    .title = გადასვლა სასაუბროს ჩანართზე
+spaces-toolbar-button-settings =
+    .title = გადასვლა პარამეტრების ჩანართზე

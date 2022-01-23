@@ -15,6 +15,8 @@ auth-fail = პირის ვინაობის დამოწმება
 auth-waiting = ელოდება დაკავშირებულ პირის მიერ დამოწმების დასრულებას…
 finger-verify = დამოწმება
 finger-verify-access-key = წ
+finger-ignore = გამოტოვება
+finger-ignore-access-key = ტ
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = OTR-გასაღების ანაბეჭდის დამატება
 # Variables:
