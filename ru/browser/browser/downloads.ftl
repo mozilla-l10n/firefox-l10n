@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Очистить загрузки
     .accesskey = и
+downloads-cmd-delete-file =
+    .label = Удалить
+    .accesskey = л
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Разрешить загрузку
