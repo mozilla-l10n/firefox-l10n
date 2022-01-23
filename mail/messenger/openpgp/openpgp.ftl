@@ -376,6 +376,10 @@ expiry-keys-expire-soon =
 expiry-key-missing-owner-trust =
     Tu clave secreta { $desc } no tiene confianza.
     Te recomendamos que configures en "Confiar en las certificaciones" como "máximo" en las propiedades clave.
+expiry-keys-missing-owner-trust =
+    El seguimiento de tus claves secretas tienen falta de confianza.
+    { $desc }.
+    Te recomendamos que establezcas “Confías en las certificaciones”  en “último” en las propiedades de la clave.
 expiry-open-key-manager = Abrir Administrador de claves OpenPGP
 expiry-open-key-properties = Abrir propiedades de la clave
 # Strings filters.jsm
