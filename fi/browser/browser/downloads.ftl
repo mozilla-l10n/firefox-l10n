@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Tyhjennä latauslista
     .accesskey = a
+downloads-cmd-delete-file =
+    .label = Poista
+    .accesskey = P
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Salli lataus
