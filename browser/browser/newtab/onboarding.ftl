@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Not now
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = The sites listed here were found on this device. { -brand-short-name } does not save or sync data from another browser unless you choose to import it.
+return-to-amo-add-theme-label = Add the Theme
 
 ## Multistage onboarding strings (about:welcome pages)
 
