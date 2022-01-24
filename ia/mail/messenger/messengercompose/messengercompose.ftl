@@ -254,6 +254,13 @@ cloud-file-count-header =
         [one] Io ha ligate { $count } file a iste e-mail
        *[other] Io ha ligate { $count } files a iste e-mail
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Pro saper plus re { $lastLink }.
+       *[other] Pro saper plus re { $firstLinks } e { $lastLink }.
+    }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Ligamine de protection contrasigno
 # Used in a list of stats about a specific file
@@ -274,6 +281,7 @@ cloud-file-template-download-limit = Limite de discargamento:
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Error de connexion
+cloud-file-connection-error = { -brand-short-name } non es in linea. Impossibile connecter se a { $provider }.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Cargamento de { $filename } a { $provider } fallite
