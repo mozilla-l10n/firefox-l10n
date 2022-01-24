@@ -23,6 +23,8 @@
 
 ## AppMenu
 
+appmenu-help-more-troubleshooting-info =
+    .label = Boshqa tuzatish maʼlumotlari
 
 ## Context menu
 

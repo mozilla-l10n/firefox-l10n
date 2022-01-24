@@ -8,6 +8,9 @@
 
 ## Help Menu
 
+menu-help-more-troubleshooting-info =
+    .label = Boshqa tuzatish maʼlumotlari
+    .accesskey = B
 
 ## Mail Toolbar
 

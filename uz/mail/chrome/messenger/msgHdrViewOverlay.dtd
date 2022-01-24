@@ -5,7 +5,6 @@
 <!ENTITY toField4.label "Qabul qiluvchi">
 <!ENTITY fromField4.label "Jo‘natuvchi">
 <!ENTITY senderField4.label "Jo‘natuvchi">
-
 <!ENTITY organizationField4.label "Tashkilot">
 <!ENTITY replyToField4.label "Javob yozish">
 
@@ -24,8 +23,6 @@
 
 <!ENTITY hdrArchiveButton1.label "Arxivlash">
 <!ENTITY hdrArchiveButton1.tooltip "Ushbu xabarni arxivlash">
-
-
 <!ENTITY hdrSmartReplyButton1.label "Aqlli javob yozish">
 <!ENTITY hdrReplyButton1.label "Javob qaytarish">
 <!ENTITY hdrReplyButton2.tooltip "Ushbu xabar jo‘natuvchisiga javob yozish">
@@ -69,12 +66,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "k">
 <!ENTITY otherActionsPrint1.label "Chop qilish…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Boshida biriktirma yon oynasini ko‘rsatish">
 <!ENTITY startExpandedCmd.accesskey    "k">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Ochish">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Boshqa formatda saqlash…">
@@ -93,8 +90,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "o">
 
 <!ENTITY openAttachment.tooltip "Biriktirilgan faylni ochish">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Saqlangan jildni ochish">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Saqlash">
 <!ENTITY saveAttachmentButton1.tooltip     "Biriktirilgan faylni saqlash">
 <!ENTITY saveAllAttachmentsButton1.label   "Barchasini saqlash">
