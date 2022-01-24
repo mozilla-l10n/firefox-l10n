@@ -184,6 +184,7 @@ about-logins-export-file-picker-default-filename = logins.csv
 
 about-logins-import-dialog-error-conflicting-values-description = Masalan: bir nechta foydalanuvchi nomi, parollar, URLlarni bitta login bilan olish mumkin.
 about-logins-import-report-description = Login va parollar { -brand-short-name }ga import qilindi.
+about-logins-import-report-row-description-modified = Mavjud login yangilandi
 
 ##
 ## Variables:

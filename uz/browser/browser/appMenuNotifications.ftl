@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available2 =
+    .label = Yangilanish mavjud
+    .buttonlabel = Yuklab olish
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Yopish
+    .secondarybuttonaccesskey = m
+appmenu-update-available-message2 = { -brand-shorter-name }ning oxirgi versiyasini yuklab oling.
 appmenu-update-manual2 =
     .label = Yangilanish mavjud
     .buttonlabel = Yuklab olish

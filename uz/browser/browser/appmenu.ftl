@@ -5,6 +5,22 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = { -brand-shorter-name } uchun yangilanish yuklab olinmoqda
+    .label-update-available = Yangilanish mavjud — yuklab oling
+    .label-update-manual = Yangilanish mavjud — yuklab oling
+    .label-update-unsupported = Yangilanmadi — tizim mos kelmaydi
+    .label-update-restart = Yangilanish mavjud — qayta ishga tushiring
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name } uchun yangilanish yuklab olinmoqda
+appmenuitem-banner-update-available =
+    .label = Yangilanish mavjud — yuklab oling
+appmenuitem-banner-update-manual =
+    .label = Yangilanish mavjud — yuklab oling
+appmenuitem-banner-update-unsupported =
+    .label = Yangilanmadi — tizim mos kelmadi
+appmenuitem-banner-update-restart =
+    .label = Yangilanishlar mavjud — qayta ishga tushiring
 appmenuitem-new-tab =
     .label = Yangi varaq
 appmenuitem-new-window =
