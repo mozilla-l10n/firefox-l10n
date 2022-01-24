@@ -21,3 +21,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY copyLinkCmd.label "Havola manzilidan nusxa olish">
+<!ENTITY copyLinkCmd.accesskey "L">
