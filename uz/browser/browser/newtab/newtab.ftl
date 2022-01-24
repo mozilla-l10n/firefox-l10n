@@ -15,6 +15,20 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Qidiruv
     .aria-label = Qidiruv
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } orqali qidiring yoki manzilni kiriting
+newtab-search-box-handoff-text-no-engine = Izlang yoki manzilni kiriting
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } orqali qidiring yoki manzilni kiriting
+    .title = { $engine } orqali qidiring yoki manzilni kiriting
+    .aria-label = { $engine } orqali qidiring yoki manzilni kiriting
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Qidiring yoki manzilni kiriting
+    .title = Qidiring yoki manzilni kiriting
+    .aria-label = Qidiring yoki manzilni kiriting
 newtab-search-box-search-the-web-input =
     .placeholder = Internetdan izlash
     .title = Internetdan izlash
