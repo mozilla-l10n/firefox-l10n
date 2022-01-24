@@ -505,6 +505,8 @@ eme-notifications-drm-content-playing-manage = Sozlamalarni boshqarish
 
 ## Password save/update panel
 
+panel-save-update-username = Foydalanuvchi nomi
+panel-save-update-password = Parol
 
 ## Add-on removal warning
 

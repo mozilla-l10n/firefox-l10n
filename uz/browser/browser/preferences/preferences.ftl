@@ -260,6 +260,7 @@ update-application-manual =
 update-application-use-service =
     .label = Yangilanishlarni oʻrnatish uchun orqa fon xizmatidan foydalanish
     .accesskey = o
+update-in-progress-title = Yangilanmoqda
 update-in-progress-ok-button = &Rad etish
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.

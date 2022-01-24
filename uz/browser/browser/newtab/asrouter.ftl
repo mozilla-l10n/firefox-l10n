@@ -95,6 +95,10 @@ cfr-doorhanger-milestone-ok-button = Barchasini koʻrish
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Bu saytdagi videolar { -brand-short-name }ning bu versiyasida koʻrsatilmasligi mumkin. Bu videolarni tomosha qilish uchun { -brand-short-name }ni hoziroq yangilang.
+cfr-doorhanger-video-support-header = Videolarni tomosha qilish uchun { -brand-short-name }ni yangilang
+cfr-doorhanger-video-support-primary-button = Hozir yangilash
+    .accesskey = H
 
 ## Spotlight modal shared strings
 
