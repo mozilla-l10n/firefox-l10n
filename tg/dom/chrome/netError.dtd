@@ -9,6 +9,7 @@
 
 <!ENTITY connectionFailure.title "Пайваст карда нашуд">
 
+<!ENTITY deniedPortAccess.title "Бо мақсадҳои бехатарӣ, дастрасӣ ба бандар маҳдуд карда шуд">
 
 <!ENTITY dnsNotFound.title "Нишонӣ ёфт нашуд">
 
@@ -21,6 +22,7 @@
 
 <!ENTITY malformedURI.title "Нишонии нодуруст">
 
+<!ENTITY netInterrupt.title "Интиқоли иттилоот қатъ карда шуд">
 
 <!ENTITY notCached.title "Муҳлати ҳуҷҷат ба анҷом расид">
 
@@ -52,6 +54,7 @@
 
 <!ENTITY cspBlocked.title "Аз тарафи сиёсати амнияти муҳтаво манъ карда шуд">
 
+<!ENTITY xfoBlocked.title "Мувофиқи сиёсати «X-Frame-Options» манъ карда шуд">
 
 <!ENTITY corruptedContentErrorv2.title "Хатои муҳтавои вайроншуда">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Саҳифае, ки шумо дидан мехоҳед, нишон дода намешавад, зеро ки дар интиқоли маълумот хато муайян карда шуд.</p><ul><li>Лутфан, бо соҳибони сомона дар тамос шавед ва ба онҳо дар бораи ин мушкилӣ хабар диҳед.</li></ul>">
