@@ -67,6 +67,8 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenu-remote-tabs-sign-into-sync =
+    .label = Sinxronlash uchun kiring…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ochiq varaqlar yoʻq
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -82,6 +84,7 @@ appmenu-remote-tabs-welcome = Boshqa qurilmalaridagi varaqlar roʻyxatini koʻri
 appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
 appmenuitem-fxa-sign-in = { -brand-product-name } hisobiga kirish
 appmenu-fxa-sync-and-save-data2 = Sinxronizatsiya va maʼlumotlarni saqlash
+appmenu-fxa-signed-in-label = Kirish
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 

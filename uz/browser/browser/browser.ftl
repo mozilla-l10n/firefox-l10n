@@ -351,6 +351,11 @@ urlbar-result-action-search-in-private-w-engine = Maxfiy oynada { $engine } yord
 urlbar-result-action-search-w-engine = { $engine } orqali izlash
 urlbar-result-action-switch-tab = Ichki oynaga o‘tish
 urlbar-result-action-visit = Kirish
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

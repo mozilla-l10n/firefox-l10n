@@ -11,11 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Teg kiritish
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } xizmatiga saqlashda xatolik yuz berdi.
 pocket-panel-saved-error-tag-length = Teg uzunligi 25 ta belgidan oshmasin
 pocket-panel-saved-error-only-links = Faqat havolalarni saqlab olish mumkin
 pocket-panel-saved-error-not-saved = Sahifa saqlanmadi
+pocket-panel-saved-error-no-internet = { -pocket-brand-name } xizmatiga saqlash uchun internetga ulanish kerak. Internetga ulaning va qayta urining.
 pocket-panel-saved-page-removed = Sahifa olib tashlandi
 pocket-panel-saved-page-saved = { -pocket-brand-name } xizmatiga saqlandi
 pocket-panel-saved-processing-remove = Sahifa olib tashlanmoqda…
@@ -41,3 +41,9 @@ pocket-panel-signup-tagline-story-two = Istalgan vaqtda, istalgan qurilmada { -p
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Roʻyxatim
+pocket-panel-home-welcome-back = Xush kelibsiz
+pocket-panel-home-paragraph = Sayt, maqola, video va podkastlar bilan tanishish, saqlash yoki qolgan joyidan davom ettirish uchun { -pocket-brand-name } xizmatidan foydalaning.
+pocket-panel-home-explore-popular-topics = Mashhur mavzular bilan tanishish
+pocket-panel-home-discover-more = Koʻproq tanishish
+pocket-panel-home-explore-more = Tanishish

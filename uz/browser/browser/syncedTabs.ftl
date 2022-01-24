@@ -38,3 +38,4 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sinxronlash
     .accesskey = s
+synced-tabs-fxa-sign-in = Sinxronlash uchun hisobingizga kiring
