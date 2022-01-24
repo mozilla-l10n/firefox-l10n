@@ -36,6 +36,7 @@ protections-panel-not-blocking-why-label = Чаро?
 
 ##
 
+protections-panel-no-trackers-found = Ягон васоити пайгирие, ки ба { -brand-short-name } маълум аст, дар ин саҳифа падидор нашуд.
 protections-panel-content-blocking-tracking-protection = Муҳтавои пайгирикунанда
 protections-panel-content-blocking-socialblock = Васоити пайгирии шабакаҳои иҷтимоӣ
 protections-panel-content-blocking-cryptominers-label = Криптомайнерҳо
