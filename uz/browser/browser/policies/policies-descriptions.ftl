@@ -14,6 +14,7 @@ policy-AppUpdateURL = Ilovani yangilash uchun boshqa havolani o‘rnatadi.
 policy-BlockAboutAddons = Qoʻshimchalar menejeriga kirishni bloklang (about:addons).
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } xizmatlarini, shu jumladan, Sinxronizatsiyani oʻchirib qoʻyadi.
 policy-DisableProfileImport = Boshqa brauzerdan import qilish uchun menyu buyruqlarini faolsizlantiradi.
+policy-DisableSetAsDesktopBackground = Rasmlar uchun ish stoli orqa foni sifatida saqlash menyu buyrugʻini oʻchirish.
 policy-DisableSystemAddonUpdate = Brauzerga tizim qoʻshimchalarini oʻrnatish va yangilashni taqiqlang.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
