@@ -340,6 +340,7 @@ cannot-encrypt-because-missing = No se puede enviar este mensaje cifardo de punt
 window-locked = La ventana de redacción está bloqueada; enviar cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte del mensaje cifrado
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Esta es una parte de mensaje cifrado. Tiene que abrirla en una ventana separada haciendo clic en el archivo adjunto.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Abortado
@@ -488,7 +489,7 @@ delete-key-title = Borrar clave OpenPGP
 delete-external-key-title = Eliminar la clave GnuPG externa
 delete-external-key-description = ¿Quiere eliminar esta ID de clave GnuPG externa?
 key-in-use-title = Clave OpenPGP actualmente en uso
-delete-key-in-use-description = ¡No se puede proceder! La clave que seleccionó para eliminar está siendo usada por esta identidad. Seleccione una clave diferente o ningua, y vuelva a intentarlo.
+delete-key-in-use-description = ¡No se puede proceder! La clave que seleccionó para eliminar está siendo usada por esta identidad. Seleccione una clave diferente o ninguna, y vuelva a intentarlo.
 revoke-key-in-use-description = ¡No se puede proceder! La clave que seleccionó para revocar está siendo usada por esta identidad. Seleccione una clave diferente o ningua, y vuelva a intentarlo.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = La dirección de correo '{ $keySpec }' no puede coincidir con una clave en su llavero.
