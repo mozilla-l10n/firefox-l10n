@@ -34,6 +34,12 @@ app-basics-service-workers = Ro‘yxatdan o‘tgan Service Workers
 app-basics-profiles = Profillar
 app-basics-multi-process-support = Multijarayon oynalari
 app-basics-safe-mode = Xavfsiz rejim
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Topgichda koʻrsatish
+        [windows] Jildni ochish
+       *[other] Jildni ochish
+    }
 modified-key-prefs-title = Muhim o‘zgartirilgan moslamalar
 modified-prefs-name = Nomi
 modified-prefs-value = Qiymati
@@ -63,6 +69,7 @@ copy-raw-data-to-clipboard-label = Manba ma’lumotlarni vaqtinchalik xotiraga n
 sandbox-title = Sandbox
 troubleshoot-mode-title = Muammolarni aniqlash
 restart-in-troubleshoot-mode-label = Nosozliklarni tuzatish rejimi
+clear-startup-cache-title = Ishga tushish keshini tozalashga harakat qiling
 
 ## Media titles
 
