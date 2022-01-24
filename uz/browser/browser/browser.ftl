@@ -528,6 +528,9 @@ panel-save-update-password = Parol
 
 ## Remote / Synced tabs
 
+remote-tabs-manage-account =
+    .label = Hisobni boshqarish
+remote-tabs-sync-now = Sinxronlash
 
 ##
 

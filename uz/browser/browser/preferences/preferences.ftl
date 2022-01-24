@@ -21,6 +21,9 @@ category-search =
 pane-privacy-title = Maxfiylik va xavfsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = Sinxronizatsiya
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-search-results-header = { -brand-short-name } Tajriba: Ehtiyotkorlik bilan foydalaning
 help-button-label = { -brand-short-name } yordami
 addons-button-label = Kengaytmalar va mavzular
@@ -484,6 +487,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Internet doim siz bilan birga
+sync-signedout-description2 = Xatchoʻplar, tarix, varaqlar, parollar, qoʻshimcha dasturlar va boshqa sozlamalarni barcha qurilmalaringizga sinxronlang.
 sync-signedout-account-signin3 =
     .label = Sinxronlash uchun kiring…
     .accesskey = i
@@ -522,13 +526,39 @@ sync-sign-in =
 
 prefs-syncing-on = Sinxronizatsiya: YONIQ
 prefs-syncing-off = Sinxronizatsiya: OʻCHIQ
+prefs-sync-turn-on-syncing =
+    .label = Sinxronizatsiyani yoqish
+    .accesskey = S
+prefs-sync-offer-setup-label2 = Xatchoʻplar, tarix, varaqlar, parollar, qoʻshimcha dasturlar va boshqa sozlamalarni barcha qurilmalaringizga sinxronlang.
+prefs-sync-now =
+    .labelnotsyncing = Sinxronlash
+    .accesskeynotsyncing = N
+    .labelsyncing = Sinxronlanmoqda…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Siz hozir quyidagilarni sinxronlayapsiz:
+sync-currently-syncing-bookmarks = Xatchoʻplar
+sync-currently-syncing-history = Tarix
+sync-currently-syncing-tabs = Ochiq varaqlar
+sync-currently-syncing-logins-passwords = Login va parollar
+sync-currently-syncing-addresses = Manzillar
+sync-currently-syncing-creditcards = Kredit kartalari
 sync-currently-syncing-addons = Qoʻshimcha dasturlar
+sync-currently-syncing-settings = Sozlamalar
+sync-change-options =
+    .label = Oʻzgartirish…
+    .accesskey = O
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Nimani sinxronlashni tanlang
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Oʻzgarishlarni saqlash
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Uzish…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Xatchoʻplar
     .accesskey = X
@@ -539,6 +569,10 @@ sync-engine-tabs =
     .label = Ochiq varaqlar
     .tooltiptext = Barcha sinxronlangan qurilmalardagi ochiq ichki oynalar ro‘yxati
     .accesskey = O
+sync-engine-logins-passwords =
+    .label = Login va parollar
+    .tooltiptext = Siz saqlagan foydalanuvchi nomi va parollar
+    .accesskey = L
 sync-engine-addresses =
     .label = Manzillar
     .tooltiptext = Siz saqlagtan manzillar (faqat kompyuterda)
@@ -551,6 +585,10 @@ sync-engine-addons =
     .label = Qoʻshimcha dasturlar
     .tooltiptext = Kompyuter uchun Firefox kengaytma va mavzulari
     .accesskey = Q
+sync-engine-settings =
+    .label = Sozlamalar
+    .tooltiptext = Siz oʻzgartirgan umumiy, maxfiy va xavfsizlik sozlamalari
+    .accesskey = s
 
 ## The device name controls.
 
@@ -564,6 +602,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saqlash
     .accesskey = S
+sync-connect-another-device = Boshqa qurilmani ulash
 
 ## Privacy Section
 
