@@ -84,6 +84,21 @@ openpgp-key-man-import-sig-from-file =
 openpgp-key-man-import-from-clipbrd =
     .label = Impordi võtmeid vahemälust
     .accesskey = v
+openpgp-key-man-import-from-url =
+    .label = Impordi võtmed URLilt
+    .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Ekspordi avalikud võtmed faili
+    .accesskey = E
+openpgp-key-man-send-keys =
+    .label = Saada avalikud võtmed e-postiga
+    .accesskey = v
+openpgp-key-man-backup-secret-keys =
+    .label = Varunda salajased võtmed faili
+    .accesskey = r
+openpgp-key-man-discover-cmd =
+    .label = Avasta võtmeid võrgust
+    .accesskey = t
 
 ## e2e encryption settings
 
