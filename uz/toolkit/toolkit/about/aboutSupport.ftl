@@ -182,6 +182,7 @@ apz-none = yo‘q
 wheel-enabled = g‘ildirakdan foydalanish yoqildi
 touch-enabled = sichqoncha tugmasidan foydalanish yoqildi
 drag-enabled = siljitish panelidan foydalanish yoqildi
+zooming-enabled = silliq chimdib masshtabni oʻzgartirish yoqilgan
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

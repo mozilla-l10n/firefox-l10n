@@ -134,6 +134,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Bu login olib tashlansinmi?
 confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
 about-logins-confirm-remove-dialog-confirm-button = Olib tashlash
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } ta login barcha qurilmalardan olib tashlansinmi?
+       *[other] { $count } ta login barcha qurilmalardan olib tashlansinmi?
+    }
 about-logins-confirm-export-dialog-title = Login va parollarni eksport qilish
 about-logins-confirm-export-dialog-message = Parollaringiz oʻqilishi mumkin boʻlgan matn sifatida saqlanadi (masalan, BadP@ssw0rd). Eksport qilingan faylni ochadigan har bir kishi ularni koʻrishi mumkin.
 confirm-discard-changes-dialog-title = Saqlanmagan oʻzgarishlar bekor qilinsinmi?

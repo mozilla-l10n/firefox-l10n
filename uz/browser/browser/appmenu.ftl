@@ -69,6 +69,12 @@ appmenuitem-fullscreen =
 
 appmenu-remote-tabs-sign-into-sync =
     .label = Sinxronlash uchun kiring…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Sinxronizatsiyani yoqish
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Barcha varaqlarni koʻrsatish
+    .tooltiptext = Bu qurilmadagi barcha varaqlarni koʻrsatish
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ochiq varaqlar yoʻq
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -82,9 +88,20 @@ appmenu-remote-tabs-connectdevice =
     .label = Boshqa qurilmaga ulanish
 appmenu-remote-tabs-welcome = Boshqa qurilmalaridagi varaqlar roʻyxatini koʻring.
 appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
+appmenuitem-fxa-toolbar-sync-now2 = Hozir sinxronlash
 appmenuitem-fxa-sign-in = { -brand-product-name } hisobiga kirish
+appmenuitem-fxa-manage-account = Hisobni boshqarish
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Oxirgi sinxronizatsiya: { $time }
+    .label = Oxirgi sinxronizatsiya: { $time }
 appmenu-fxa-sync-and-save-data2 = Sinxronizatsiya va maʼlumotlarni saqlash
 appmenu-fxa-signed-in-label = Kirish
+appmenu-fxa-setup-sync =
+    .label = Sinxronizatsiyani yoqish
+appmenu-fxa-show-more-tabs = Barcha varaqlarni koʻrsatish
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 
