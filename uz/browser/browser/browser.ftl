@@ -351,6 +351,16 @@ urlbar-result-action-search-in-private-w-engine = Maxfiy oynada { $engine } yord
 urlbar-result-action-search-w-engine = { $engine } orqali izlash
 urlbar-result-action-switch-tab = Ichki oynaga o‘tish
 urlbar-result-action-visit = Kirish
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } bilan qidirish uchun Tab tugmasini bosing
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = { $engine } yordamida toʻgʻridan-toʻgʻri manzil panelidan qidiring
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables
