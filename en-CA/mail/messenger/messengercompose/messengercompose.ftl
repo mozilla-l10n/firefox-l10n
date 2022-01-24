@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -43,7 +43,7 @@ pill-action-expand-list =
     .label = Expand List
     .accesskey = x
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -101,7 +101,7 @@ drop-file-label-inline =
        *[other] Append Inline
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Move First
@@ -115,14 +115,14 @@ button-return-receipt =
     .label = Receipt
     .tooltiptext = Request a return receipt for this message
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Sign message
 message-to-be-encrypted-icon =
     .alt = Encrypt message
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = To
@@ -240,3 +240,57 @@ encrypted-bcc-ignore-button = Understood
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Remove Text Styling
+
+## FileLink
+
+
+# Template
+
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] I’ve linked { $count } file to this email:
+       *[other] I’ve linked { $count } files to this email:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers.
+cloud-file-service-provider-footer =
+    { $count ->
+        [one] Learn more about { $lastLink }.
+       *[other] Learn more about { $firstLinks } and { $lastLink }.
+    }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Password protected link
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = CloudFile Service:
+cloud-file-template-size = Size:
+cloud-file-template-link = Link:
+cloud-file-template-password-protected-link = Password Protected Link:
+cloud-file-template-expiry-date = Expiry Date:
+cloud-file-template-download-limit = Download Limit:
+
+# Messages
+
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Connection Error
+cloud-file-connection-error = { -brand-short-name } is offline. Could not connect to { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Uploading { $filename } to { $provider } Failed
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Rename Error
+cloud-file-rename-error = There was a problem renaming { $filename } on { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Renaming { $filename } on { $provider } Failed
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } does not support renaming already uploaded files.
