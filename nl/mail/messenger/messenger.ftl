@@ -172,6 +172,8 @@ decrypt-and-copy-failures = { $failures } van { $total } berichten kunnen niet w
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Taakbalk
 spaces-toolbar-button-mail =
     .title = Wisselen naar het e-mailtabblad
 spaces-toolbar-button-address-book =
@@ -184,3 +186,5 @@ spaces-toolbar-button-chat =
     .title = Wisselen naar het chattabblad
 spaces-toolbar-button-settings =
     .title = Wisselen naar het instellingentabblad
+spaces-toolbar-button-collapse =
+    .title = Taakbalk samenvouwen
