@@ -349,6 +349,8 @@ keyserver-error-server-error = Võtmeserver teatas veast.
 keyserver-error-import-error = Allalaaditud võtme importimine ebaõnnestus.
 keyserver-error-unavailable = Võtmeserver pole saadaval.
 keyserver-error-security-error = Võtmeserver ei toeta krüptitud ligipääsu.
+keyserver-error-certificate-error = Võtmeserveri sert ei kehti.
+keyserver-error-unsupported = Võtmeserver pole toetatud.
 
 ## Account settings export output
 
