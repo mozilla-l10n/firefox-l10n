@@ -281,9 +281,62 @@ openpgp-description =
 openpgp-selection-status-have-key = Sinu praegune seadistus kasutab võtit IDga <b>{ $key }</b>
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Praegune seadistus kasutab võtit <b>{ $key }</b>, mis on aegunud.
+openpgp-add-key-button =
+    .label = Lisa võti…
+    .accesskey = L
+e2e-learn-more = Rohkem teavet
+openpgp-keygen-success = OpenPGP võtme loomine õnnestus!
+openpgp-keygen-import-success = OpenPGP võtmed edukalt imporditud!
+openpgp-keygen-external-success = Välise GnuPG võtme ID salvestatud!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Puudub
+openpgp-radio-none-desc = OpenPGPd selle identiteedi jaoks ei kasutata.
+openpgp-radio-key-not-usable = See võti pole isikliku võtmena kasutatav, sest puudub salajane võti.
+openpgp-radio-key-not-accepted = Selle võtme kasutamiseks pead tunnustama seda isikliku võtmena.
+openpgp-radio-key-not-found = Seda võtit ei leitud. Selle kasutamiseks pead selle { -brand-short-name }i importima.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Aegub: { $date }
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Aegus: { $date }
+openpgp-key-expires-within-6-months-icon =
+    .title = Võti aegub vähem kui 6 kuu pärast
+openpgp-key-has-expired-icon =
+    .title = Võti on aegunud
+openpgp-key-expand-section =
+    .tooltiptext = Rohkem teavet
+openpgp-key-revoke-title = Tühista võti
+openpgp-key-edit-title = Muuda OpenPGP võtit
+openpgp-key-edit-date-title = Pikenda kehtivusaega
+openpgp-manager-description = Kasuta OpenPGP võtmehaldurit oma kontaktide avalike võtmete ja kõigi muude võtmete haldamiseks, mida ülal pole loetletud.
+openpgp-manager-button =
+    .label = OpenPGP võtmehaldur
+    .accesskey = O
+openpgp-key-remove-external =
+    .label = Eemalda välise võtme ID
+    .accesskey = E
+key-external-label = Väline GnuPG võti
+# Strings in keyDetailsDlg.xhtml
+key-type-public = avalik võti
+key-type-primary = peamine võti
+key-type-subkey = alamvõti
+key-type-pair = võtmepaar (salajane ja avalik võti)
+key-expiry-never = mitte kunagi
+key-usage-encrypt = Krüptimine
+key-usage-sign = Allkirjastamine
+key-usage-certify = Sertifitseerimine
+key-usage-authentication = Autentimine
+key-does-not-expire = Võti ei aegu
+key-expired-date = Võti aegus { $keyExpiry }
+key-expired-simple = Võti on aegunud
+key-revoked-simple = Võti tühistati
+key-do-you-accept = Kas tunnustad seda võtit digiallkirjade kontrollimiseks ja kirjade krüptimiseks?
+key-accept-warning = Väldi võlts võtmete tunnustamist. Kasuta oma kontakti võtme sõrmejälje kontrollimiseks muud suhtluskanalit peale e-posti.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Kirja saatmine pole võimalik, sest esineb probleem sinu isikliku võtmega. { $problem }
+cannot-encrypt-because-missing = Otspunktkrüptitud kirja pole võimalik saata, sest järgnevate saajate võtmetega on probleeme: { $problem }
 
 ## Account settings export output
 
