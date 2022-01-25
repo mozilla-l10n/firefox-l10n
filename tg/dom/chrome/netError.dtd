@@ -31,8 +31,14 @@
 <!ENTITY contentEncodingError.title "Хатои рамзгузории муҳтаво">
 
 <!ENTITY unsafeContentType.title "Навъи файли беэътимод">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Лутфан, бо соҳибони сомона дар тамос шавед ва дар бораи ин мушкилӣ ба онҳо хабар расонед.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Пайвастшавӣ қатъ карда шуд">
+<!ENTITY netReset.longDesc "<p>Пайванди шабака ҳангоми танзими пайвастшавӣ қатъ карда шуд. Лутфан, аз нав кӯшиш кунед.</p>">
 
 <!ENTITY netTimeout.title "Вақти интизори шабака ба анҷом расид">
 
