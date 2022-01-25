@@ -384,6 +384,9 @@ expiry-open-key-manager = Abrir Administrador de claves OpenPGP
 expiry-open-key-properties = Abrir propiedades de la clave
 # Strings filters.jsm
 filter-folder-required = Debes seleccionar una carpeta de destino.
+filter-decrypt-move-warn-experimental =
+    Advertencia - la acción de filtrado “Descifrar permanentemente” puede provocar la destrucción de mensajes.
+    Recomendamos encarecidamente que primero pruebes el filtro “Crear copia descifrada”, prueba el resultado con cuidado y solo comienza a usar este filtro una vez que estés complacido con el resultado.
 filter-term-pgpencrypted-label = OpenPGP cifrado
 filter-key-required = Debes seleccionar una clave de destinatario.
 filter-key-not-found = No se pudo encontrar una clave de cifrado para ‘{ $desc }’.
@@ -407,6 +410,17 @@ import-from-clip = ¿Quieres importar algunas claves del portapapeles?
 import-from-url = Descarga la clave pública desde esta URL:
 copy-to-clipbrd-failed = No se pudieron copiar las claves seleccionadas al portapapeles.
 copy-to-clipbrd-ok = Clave(s) copiadas al portapapeles
+delete-secret-key =
+    ADVERTENCIA: ¡Estás a punto de eliminar una clave secreta!
+    
+    Si eliminas tu clave secreta, ya no podrás descifrar ningún mensaje cifrado para esa clave, ni podrás revocarla.
+    
+    ¿De verdad quieres eliminar AMBOS, la clave secreta y la clave pública
+    ‘{ $userId }’?
+delete-mix =
+    ADVERTENCIA: ¡Estás seguro que deseas eliminar la clave secreta!
+    Si eliminas tu clave secreta, ya no podrás descifrar ningún mensaje cifrado para esa clave.
+    ¿Realmente deseas eliminar AMBAS, las claves secretas y públicas seleccionadas?
 delete-pub-key =
     ¿Quieres eliminar la clave pública
     ‘{ $userId }’?
