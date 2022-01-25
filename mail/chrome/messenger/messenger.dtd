@@ -147,9 +147,9 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Verticaal beeld">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showFolderPaneCmd.label "Mappenvenster">
+<!ENTITY showFolderPaneCmd.label "Mappenpaneel">
 <!ENTITY showFolderPaneCmd.accesskey "M">
-<!ENTITY showFolderPaneColsCmd.label "Mappenvensterkolommen">
+<!ENTITY showFolderPaneColsCmd.label "Mappenpaneelkolommen">
 <!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Berichtpaneel">
 <!ENTITY showMessageCmd.accesskey "e">
