@@ -337,6 +337,18 @@ key-accept-warning = Väldi võlts võtmete tunnustamist. Kasuta oma kontakti v�
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kirja saatmine pole võimalik, sest esineb probleem sinu isikliku võtmega. { $problem }
 cannot-encrypt-because-missing = Otspunktkrüptitud kirja pole võimalik saata, sest järgnevate saajate võtmetega on probleeme: { $problem }
+window-locked = Koostamise aken on lukus, saatmine katkestati
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Krüptitud kirja osa
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-concealed-data = See on krüptitud kirja osa. Selle avamiseks eraldi aknas pead klõpsama manusel.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Katkestatud
+keyserver-error-unknown = Esines tundmatu viga
+keyserver-error-server-error = Võtmeserver teatas veast.
+keyserver-error-import-error = Allalaaditud võtme importimine ebaõnnestus.
+keyserver-error-unavailable = Võtmeserver pole saadaval.
+keyserver-error-security-error = Võtmeserver ei toeta krüptitud ligipääsu.
 
 ## Account settings export output
 
