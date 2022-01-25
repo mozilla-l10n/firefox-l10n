@@ -8,6 +8,7 @@ html-tab-label =
 plain-tab-label =
     .label = Պարզ տեքստային տիրոյթներ
     .accesskey = Պ
+send-message-domain-label = Ստորեւ թուարկուած տիրոյթի անուններից մեկի հասցէով հաղորդագրութիւն ուղարկելու դէպքում, { -brand-short-name } -ն ինքնաբերաբար կերպով ուղարկում է հաղորդագրութիւնը ճիշտ ձեւաչափով:
 add-domain-button =
     .label = Աւելացնել…
     .accesskey = Ա
