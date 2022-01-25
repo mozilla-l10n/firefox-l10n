@@ -3,6 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Мудири ҷузъи иловагӣ
+search-header =
+    .placeholder = Ҷустуҷӯ дар addons.mozilla.org
+    .searchbuttonlabel = Ҷустуҷӯ
+search-header-shortcut =
+    .key = f
+list-empty-get-extensions-message = Васеъшавиҳо ва мавзуҳоро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
+list-empty-get-dictionaries-message = Луғатҳоро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
+list-empty-get-language-packs-message = Бастаҳои забонро аз <a data-l10n-name="get-extensions">{ $domain }</a> ба даст оред
 list-empty-available-updates =
     .value = Ягон навсозӣ ёфт нашуд
 list-empty-find-updates =
@@ -19,6 +27,10 @@ show-all-extensions-button =
     .label = Намоиш додани ҳамаи васеъшавиҳо
 detail-version =
     .label = Силсила
+detail-last-updated =
+    .label = Санаи навсозии охирин
+detail-update-type =
+    .value = Навсозиҳои худкор
 detail-update-automatic =
     .label = Фаъол
     .tooltiptext = Навсозиҳо ба таври худкор насб карда мешаванд
@@ -32,6 +44,12 @@ detail-private-browsing-label = Иҷро кардан дар равзанаҳо�
 detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Дастрасӣ ба равзанаҳои махфӣ лозим аст
+detail-private-browsing-on =
+    .label = Иҷозат додан
+    .tooltiptext = Фаъол кардан дар тамошокунии махфӣ
+detail-private-browsing-off =
+    .label = Иҷозат дода нашавад
+    .tooltiptext = Ғайрифаъол кардан дар тамошокунии махфӣ
 detail-home =
     .label = Саҳифаи асосӣ
 detail-home-value =
@@ -118,9 +136,15 @@ addon-updates-check-for-updates = Санҷиши навсозиҳо
 
 ## Status messages displayed when updating add-ons
 
+addon-updates-updating = Навсозии ҷузъҳои иловагӣ
+addon-updates-installed = Ҷузъҳои иловагии шумо навсозӣ карда шудаанд.
+addon-updates-none-found = Ягон навсозӣ ёфт нашуд
+addon-updates-manual-updates-found = Дидани навсозиҳои дастрас
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Насб кардани ҷузъи иловагӣ аз файл…
+    .accesskey = Н
 addon-install-from-file-filter-name = Ҷузъҳои иловагӣ
 
 ## Extension shortcut management
