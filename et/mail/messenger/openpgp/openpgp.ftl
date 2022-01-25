@@ -269,6 +269,18 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbirdil pole isiklikku OpenPGP võtit identiteedile <b>{ $identity }</b>
+        [one] Thunderbird leidis ühe identiteediga <b>{ $identity }</b> seotud OpenPGP võtme
+       *[other] Thunderbird leidis { $count } identiteediga <b>{ $identity }</b> seotud OpenPGP võtit
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Sinu praegune seadistus kasutab võtit IDga <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Praegune seadistus kasutab võtit <b>{ $key }</b>, mis on aegunud.
 
 ## OpenPGP Key selection area
 
