@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Ryd filhentninger
     .accesskey = f
+downloads-cmd-delete-file =
+    .label = Slet
+    .accesskey = S
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Tillad filhentning
