@@ -172,6 +172,8 @@ decrypt-and-copy-failures = { $failures }, ჯამში { $total } წერ�
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = ხელსაწყოთა სივრცე
 spaces-toolbar-button-mail =
     .title = გადასვლა ფოსტის ჩანართზე
 spaces-toolbar-button-address-book =
@@ -184,3 +186,5 @@ spaces-toolbar-button-chat =
     .title = გადასვლა სასაუბროს ჩანართზე
 spaces-toolbar-button-settings =
     .title = გადასვლა პარამეტრების ჩანართზე
+spaces-toolbar-button-collapse =
+    .title = ხელსაწყოთა სივრცის აკეცვა
