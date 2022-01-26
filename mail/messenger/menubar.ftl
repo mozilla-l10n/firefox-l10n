@@ -68,8 +68,8 @@ mail-uidensity-touch =
     .label = შეხებისთვის
     .accesskey = ხ
 menu-spaces-toolbar-button =
-    .label = ხელსაწყოთა სივრცე
-    .accesskey = ც
+    .label = არეების ზოლი
+    .accesskey = ე
 
 ## File
 
