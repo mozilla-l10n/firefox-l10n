@@ -42,6 +42,8 @@ process-type-gpu = GPU
 process-type-socket = სოკეტი
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = გამიჯნული IPC Actor
 
 ##
 ## Other
