@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC-აღრიცხვა
 about-webrtc-aec-logging-off-state-label = AEC-აღრიცხვის დაწყება
 about-webrtc-aec-logging-on-state-label = AEC-აღრიცხვის შეჩერება
 about-webrtc-aec-logging-on-state-msg = AEC-აღრიცხვა ამოქმედებულია (ელაპარაკეთ აბონენტს რამდენიმე წუთით და შემდეგ შეწყვიტეთ ჩაწერა)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = თვითგანახლება
 
 ##
 
