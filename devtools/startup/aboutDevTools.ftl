@@ -13,7 +13,6 @@ enable-common-message = Firefox-ის შემმუშავებლის �
 enable-learn-more-link = ვრცლად, შემმუშავებლის ხელსაწყოების შესახებ
 enable-enable-button = შემმუშავებლის ხელსაწყოების ჩართვა
 enable-close-button = ჩანართის დახურვა
-
 welcome-title = მოგესალმებათ Firefox შემმუშავებლის ხელსაწყოთა გვერდზე!
 newsletter-title = Mozilla-ს სიახლეები და ცნობები შემმუშავებლებისთვის
 newsletter-message = მიიღეთ, ვებშემუშავებასთან დაკავშირებული სიახლეები, რჩევები და სასარგებლო ბმულები, პირდაპირ თქვენს საფოსტო ყუთში.
@@ -23,14 +22,12 @@ newsletter-privacy-label = თანახმა ვარ, რომ Mozilla-�
 newsletter-subscribe-button = გამოწერა
 newsletter-thanks-title = გმადლობთ!
 newsletter-thanks-message = თუ ჯერ არ დაგიმოწმებიათ Mozilla-ს საინფორმაციო ცნობების გამოწერა, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან სპამის საქაღალდეში.
-
 footer-title = Firefox Developer Edition
 footer-message = გსურთ მეტი, ვიდრე შემმუშავებლის ხელსაწყოებია? იხილეთ Firefox ბრაუზერი, შექმნილი საგანგებოდ შემმუშავებლებისთვის და განკუთვნილი, თანამედროვე სამუშაო პირობებისთვის.
 footer-learn-more-link = იხილეთ ვრცლად
-
 features-learn-more = იხილეთ ვრცლად
 features-inspector-title = ელემენტზე დაკვირვება
-features-inspector-desc = გამოიკვლიეთ და გააუმჯობესეთ კოდი, ზუსტი და სრულყოფილი განლაგების შესაქმნელად. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-inspector-desc = შეისწავლეთ და გააუმჯობესეთ კოდი, ზუსტი და სრულყოფილი განლაგების შესაქმნელად. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = კონსოლი
 features-console-desc = თვალი ადევნეთ CSS, JavaScript, უსაფრთხოებასა და ქსელის მუშაობას. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = გამმართველი
