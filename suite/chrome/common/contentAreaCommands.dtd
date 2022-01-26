@@ -162,5 +162,5 @@ items are mutually exclusive. -->
 <!ENTITY viewSavedLogins.label        "შენახული შესვლების ნახვა">
 
 <!-- Developer Tools -->
-<!ENTITY devtoolsInspect.label          "ელემენტზე დაკვირვება">
+<!ENTITY devtoolsInspect.label          "ელემენტების გამოკვლევა">
 <!ENTITY devtoolsInspect.accesskey      "ე">
