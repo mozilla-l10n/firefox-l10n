@@ -370,6 +370,9 @@ unknown-hash-alg = Tundmatu krüptograafiline räsi (ID: { $id })
 expiry-key-expires-soon =
     Sinu võti { $desc } aegub vähem kui { $days } päeva pärast.
     Me soovitame luua uue võtmepaari ja seadistada vastavad kontod seda kasutama.
+expiry-keys-expire-soon =
+    Sinu järgmised võtmed aeguvad vähem kui { $days } päeva pärast: { $desc }
+    Me soovitame luua uued võtmed ja seadistada vastavad kontod neid kasutama.
 
 ## Account settings export output
 
