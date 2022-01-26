@@ -113,6 +113,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ჩამოტვირთვების გასუფთავება
     .accesskey = ჩ
+downloads-cmd-delete-file =
+    .label = წაშლა
+    .accesskey = წ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ჩამოტვირთვის დაშვება
