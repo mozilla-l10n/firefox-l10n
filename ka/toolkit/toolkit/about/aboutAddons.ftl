@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = ბოლო განახლებები
 addon-category-recent-updates-title =
     .title = ბოლო განახლებები
+addon-category-sitepermission = საიტის ნებართვები
+addon-category-sitepermission-title =
+    .title = საიტის ნებართვები
 
 ## These are global warnings
 
@@ -380,6 +383,7 @@ plugin-heading = მოდულების მართვა
 dictionary-heading = ლექსიკონების მართვა
 locale-heading = ენების მართვა
 updates-heading = განახლებების მართვა
+sitepermission-heading = საიტის ნებართვების მართვა
 discover-heading = მოირგეთ თქვენი { -brand-short-name }
 shortcuts-heading = გაფართოებების ღილაკების მართვა
 default-heading-search-label = სხვა დამატებების მოძიება
