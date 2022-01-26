@@ -351,6 +351,25 @@ keyserver-error-unavailable = Võtmeserver pole saadaval.
 keyserver-error-security-error = Võtmeserver ei toeta krüptitud ligipääsu.
 keyserver-error-certificate-error = Võtmeserveri sert ei kehti.
 keyserver-error-unsupported = Võtmeserver pole toetatud.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Sinu e-posti teenusepakkuja töötles sinu taotluse avaliku võtme üleslaadimiseks OpenPGP veebis olevasse võtmete kataloogi. 
+    Lõpetamiseks kinnita palun avaliku võtme avalikustamine.
+wkd-message-body-process =
+    See kiri on seotud teie avaliku võtme veebis olevasse OpenPGP võtmete kataloogi lisamise taotluse automaatse töötlemisega.
+    Praegu ei ole sul vaja täiendavaid tegevusi teha.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Kirja pealkirjaga { $subject }
+    polnud võimalik dekrüptida.
+    Kas soovid proovida teise parooliga või jätta selle kirja vahele?
+# Strings in gpg.jsm
+unknown-signing-alg = Tundmatu allkirjastamisalgoritm (ID: { $id })
+unknown-hash-alg = Tundmatu krüptograafiline räsi (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Sinu võti { $desc } aegub vähem kui { $days } päeva pärast.
+    Me soovitame luua uue võtmepaari ja seadistada vastavad kontod seda kasutama.
 
 ## Account settings export output
 
