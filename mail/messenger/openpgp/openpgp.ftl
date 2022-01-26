@@ -373,6 +373,21 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Sinu järgmised võtmed aeguvad vähem kui { $days } päeva pärast: { $desc }
     Me soovitame luua uued võtmed ja seadistada vastavad kontod neid kasutama.
+expiry-key-missing-owner-trust =
+    Sinu salajasel võtmel { $desc } puudub usaldusväärsus.
+    Me soovitame, et määrad võtme omaduste juures sektsioonis "Sinu tunnustus" väärtuseks "Jah, käsitle seda võtit minu isikliku võtmena".
+expiry-keys-missing-owner-trust =
+    Järgmistel sinu salajastel võtmetel puudub usaldusväärsus.
+    { $desc }
+    Me soovitame, et määrad võtme omaduste juures sektsioonis "Sinu tunnustus" väärtuseks "Jah, käsitle seda võtit minu isikliku võtmena".
+expiry-open-key-manager = Ava OpenPGP võtmehaldur
+expiry-open-key-properties = Ava võtme omadused
+# Strings filters.jsm
+filter-folder-required = Sa pead valima sihtkausta.
+filter-decrypt-move-warn-experimental =
+    Hoiatus - filtri tegevus "Dekrüpti jäädavalt" võib viia kirjade hävitamiseni.
+    Me soovitame tungivalt, et proovid kõigepealt filtrit "Loo dekrüptitud koopia", testid seda põhjalikult ja ainult siis alustad selle filtri kasutamist, kui oled tulemustega rahul.
+filter-term-pgpencrypted-label = OpenPGPga krüptitud
 
 ## Account settings export output
 
