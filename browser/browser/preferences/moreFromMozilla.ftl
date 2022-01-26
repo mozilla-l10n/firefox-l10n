@@ -30,6 +30,8 @@ more-from-moz-button-mozilla-rally =
 
 more-from-moz-qr-code-box-firefox-mobile-title = Scarica utilizzando un dispositivo mobile. Punta la tua fotocamera al codice QR e tocca il link quando viene visualizzato.
 more-from-moz-qr-code-box-firefox-mobile-button = Oppure invia un’email al tuo telefono
+more-from-moz-qr-code-firefox-mobile-img =
+  .alt = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
 
 more-from-moz-button-mozilla-vpn =
   .label = Ottieni VPN
