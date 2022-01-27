@@ -172,6 +172,8 @@ decrypt-and-copy-failures = { $failures } fan { $total } berjochten koene net û
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Taakbalke
 spaces-toolbar-button-mail =
     .title = Wikselje nei it e-mailljepblêd
 spaces-toolbar-button-address-book =
@@ -184,3 +186,5 @@ spaces-toolbar-button-chat =
     .title = Wikselje nei it chatljepblêd
 spaces-toolbar-button-settings =
     .title = Wikselje nei it ynstellingenljepblêd
+spaces-toolbar-button-collapse =
+    .title = Taakbalke ynklappe
