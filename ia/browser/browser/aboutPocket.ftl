@@ -50,4 +50,5 @@ pocket-panel-home-explore-more = Explorar
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Vider mi lista
 pocket-panel-header-sign-in = Aperir session
