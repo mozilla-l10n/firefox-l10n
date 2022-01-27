@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = Bạn có thể sử dụng { -pocket-brand-name }
 pocket-panel-home-explore-popular-topics = Khám phá các chủ đề phổ biến
 pocket-panel-home-discover-more = Khám phá nhiều hơn
 pocket-panel-home-explore-more = Khám phá
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Xem danh sách của tôi
+pocket-panel-header-sign-in = Đăng nhập
