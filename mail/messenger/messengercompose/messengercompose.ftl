@@ -120,8 +120,24 @@ message-to-be-encrypted-icon =
 
 to-compose-address-row-label =
     .value = Para
+#   $key (String) - the shortcut key for this field
+to-compose-show-address-row-menuitem =
+    .label = Campo { to-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+to-compose-show-address-row-label =
+    .value = { to-compose-address-row-label.value }
+    .tooltiptext = Mostrar campo { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Cc
+#   $key (String) - the shortcut key for this field
+cc-compose-show-address-row-menuitem =
+    .label = Campo { cc-compose-address-row-label.value }
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+cc-compose-show-address-row-label =
+    .value = { cc-compose-address-row-label.value }
+    .tooltiptext = Mostrar campo { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Cco
 #   $key (String) - the shortcut key for this field
@@ -144,6 +160,9 @@ show-to-row-main-menuitem =
 show-to-row-extra-menuitem =
     .label = Para
     .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Para
+    .title = Mostrar campo Para ({ ctrl-cmd-shift-pretty-prefix })
 cc-address-row-label =
     .value = Cc
 #   $key (String) - the shortcut key for this field
