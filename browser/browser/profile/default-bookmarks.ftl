@@ -9,6 +9,7 @@
 
 default-bookmarks-title = Marcadores
 default-bookmarks-heading = Marcadores
+default-bookmarks-toolbarfolder = Carpeta de la barra de herramientas de marcadores
 default-bookmarks-toolbarfolder-description = Agregar los marcadores a esta carpeta para verlos en la barra de herramientas de Marcadores
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Primeros pasos
