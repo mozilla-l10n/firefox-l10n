@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = პაროლის ჩვენება
     .accesskey = ლ
+main-context-menu-reveal-password =
+    .label = პაროლის გამოჩენა
+    .accesskey = მ
