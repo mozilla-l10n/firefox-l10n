@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = 您可以使用 { -pocket-brand-name } 來探索�
 pocket-panel-home-explore-popular-topics = 探索熱門主題
 pocket-panel-home-discover-more = 探索更多
 pocket-panel-home-explore-more = 探索
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = 檢視我的清單
+pocket-panel-header-sign-in = 登入
