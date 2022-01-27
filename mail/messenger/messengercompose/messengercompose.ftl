@@ -192,6 +192,10 @@ cloud-file-service-provider-footer =
         [one] Saber más sobre { $lastLink }.
        *[other] Saber más sobre { $firstLinks } y { $lastLink }.
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Saber más acerca de { $link }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Enlace protegido por contraseña
 # Used in a list of stats about a specific file
