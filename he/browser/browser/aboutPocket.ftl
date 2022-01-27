@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = באפשרותך להשתמש ב־{ -pocket-brand-
 pocket-panel-home-explore-popular-topics = סיור בנושאים נפוצים
 pocket-panel-home-discover-more = לגלות עוד
 pocket-panel-home-explore-more = סיור
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = הצגת הרשימה שלי
+pocket-panel-header-sign-in = כניסה
