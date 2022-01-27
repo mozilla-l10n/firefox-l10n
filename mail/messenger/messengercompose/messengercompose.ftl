@@ -257,6 +257,18 @@ cloud-file-service-provider-footer =
         [one] 了解 { $lastLink } 的更多資訊。
        *[other] 了解 { $firstLinks } 與 { $lastLink } 的更多資訊。
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = 了解 { $link } 的更多資訊。
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = 了解 { $firstLinks } 與 { $lastLink } 的更多資訊。
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = 密碼保護鏈結
 # Used in a list of stats about a specific file
