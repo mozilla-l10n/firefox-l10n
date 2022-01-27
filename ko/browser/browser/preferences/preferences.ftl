@@ -266,7 +266,7 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = { $app-name } 사용(기본값)
+    .label = { $app-name } 사용 (기본값)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
@@ -292,7 +292,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = { $plugin-name } 사용({ -brand-short-name })
+    .label = { $plugin-name } 사용 ({ -brand-short-name })
 applications-open-inapp =
     .label = { -brand-short-name }로 열기
 
