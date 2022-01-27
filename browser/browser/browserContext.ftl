@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Показати пароль
     .accesskey = П
+main-context-menu-reveal-password =
+    .label = Відкрити пароль
+    .accesskey = і
