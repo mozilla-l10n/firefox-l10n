@@ -389,6 +389,27 @@ filter-decrypt-move-warn-experimental =
     Me soovitame tungivalt, et proovid kõigepealt filtrit "Loo dekrüptitud koopia", testid seda põhjalikult ja ainult siis alustad selle filtri kasutamist, kui oled tulemustega rahul.
 filter-term-pgpencrypted-label = OpenPGPga krüptitud
 filter-key-required = Sa pead valima saaja võtme.
+filter-key-not-found = Krüpteerimisvõtit ‘{ $desc }’ jaoks ei leitud.
+filter-warn-key-not-secret =
+    Hoiatus - filtri tegevus "Krüpteeri võtmega" asendab saajad.
+    Kui sul puudub ‘{ $desc }’ jaoks salajane võti, siis pole sul enam võimalik neid kirju lugeda.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dekrüpti jäädavalt (OpenPGP)
+filter-decrypt-copy-label = Loo dekrüpteeritud koopia (OpenPGP)
+filter-encrypt-label = Krüpteeri võtmega (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Võtmete importimine õnnestus!
+import-info-bits = Bitid
+import-info-created = Loodud
+import-info-fpr = Sõrmejälg
+import-info-details = Vaata üksikasju ja halda võtme tunnustust
+import-info-no-keys = Võtmeid ei imporditud.
+# Strings in enigmailKeyManager.js
+import-from-clip = Kas soovid importida mõned võtmed vahemälust?
+import-from-url = Laadi avalik võti alla järgnevalt URLilt:
+copy-to-clipbrd-failed = Valitud võtmeid polnud võimalik vahemällu kopeerida.
+copy-to-clipbrd-ok = Võtmed kopeeriti vahemällu
 
 ## Account settings export output
 
