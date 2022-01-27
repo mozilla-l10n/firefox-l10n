@@ -47,3 +47,7 @@ pocket-panel-home-paragraph = Tu pote usar { -pocket-brand-name } pro explorar e
 pocket-panel-home-explore-popular-topics = Explorar argumentos popular
 pocket-panel-home-discover-more = Discoperi plus
 pocket-panel-home-explore-more = Explorar
+
+## Pocket panel header component
+
+pocket-panel-header-sign-in = Aperir session
