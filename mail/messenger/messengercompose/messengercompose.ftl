@@ -38,7 +38,7 @@ pill-action-move-cc =
     .accesskey = C
 pill-action-move-bcc =
     .label = Mover a Cco
-    .accesskey = B
+    .accesskey = C
 pill-action-expand-list =
     .label = Expandir lista
     .accesskey = x
@@ -109,7 +109,7 @@ move-attachment-left-panel-button =
 move-attachment-right-panel-button =
     .label = Mover a la derecha
 move-attachment-last-panel-button =
-    .label = Mover último
+    .label = Mover al último
 button-return-receipt =
     .label = Recibo
     .tooltiptext = Solicitar un de recibo de respuesta para este mensaje
@@ -205,8 +205,8 @@ extra-address-rows-menu-button =
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
-        [one] Tu mensaje tiene un destinatario público. Puedes evitar la divulgación de destinatarios utilizando CCO en su lugar.
-       *[other] Los destinatarios de { $count } en Para y Cc verán la dirección de cada uno. Puedes evitar la divulgación de destinatarios utilizando CCO en su lugar.
+        [one] Tu mensaje tiene un destinatario público. Puedes evitar la divulgación de destinatarios utilizando Cco en su lugar.
+       *[other] Los destinatarios de { $count } en Para y Cc verán la dirección de cada uno. Puedes evitar la divulgación de destinatarios utilizando Cco en su lugar.
     }
 many-public-recipients-bcc =
     .label = Utiliza Cco en su lugar
@@ -218,8 +218,8 @@ many-public-recipients-prompt-title = Demasiados destinatarios públicos
 #   $count (Number) - the count of addresses in the public recipients fields.
 many-public-recipients-prompt-msg =
     { $count ->
-        [one] Tu mensaje tiene un destinatario público. Esto puede ser un problema de privacidad. Puedes evitar esto moviendo el destinatario de Para/CC a CCO en su lugar.
-       *[other] Tu mensaje tiene { $count } destinatarios públicos, que podrán ver las direcciones de los demás. Esto puede ser un problema de privacidad. Puedes evitar revelar los destinatarios moviendo los destinatarios de Para/CC a CCO en su lugar.
+        [one] Tu mensaje tiene un destinatario público. Esto puede ser un problema de privacidad. Puedes evitar esto moviendo el destinatario de Para/Cc a Cco en su lugar.
+       *[other] Tu mensaje tiene { $count } destinatarios públicos, que podrán ver las direcciones de los demás. Esto puede ser un problema de privacidad. Puedes evitar revelar los destinatarios moviendo los destinatarios de Para/Cc a Cco en su lugar.
     }
 many-public-recipients-prompt-cancel = Cancelar envío
 many-public-recipients-prompt-send = Enviar de todos modos
@@ -229,7 +229,7 @@ many-public-recipients-prompt-send = Enviar de todos modos
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = No se encontró una identidad única que coincida con la dirección del remitente. El mensaje se enviará usando el remitente actual y la configuración de la identidad { $identity }.
-encrypted-bcc-warning = Al enviar un mensaje cifrado, los destinatarios en Bcc no están completamente ocultos. Todos los destinatarios pueden identificarlos.
+encrypted-bcc-warning = Al enviar un mensaje cifrado, los destinatarios en Cco no están completamente ocultos. Todos los destinatarios pueden identificarlos.
 encrypted-bcc-ignore-button = Entendido
 
 ## Editing
