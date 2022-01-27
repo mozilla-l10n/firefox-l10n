@@ -54,6 +54,8 @@ font-language-group-georgian =
     .label = Վրացերէն
 font-language-group-khmer =
     .label = Քմերերէն
+font-language-group-malayalam =
+    .label = Մալայլամ
 
 ## Default font type
 
