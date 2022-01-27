@@ -10,6 +10,7 @@
 default-bookmarks-title = Favoritos
 default-bookmarks-heading = Favoritos
 default-bookmarks-toolbarfolder = Pasta da barra de favoritos
+default-bookmarks-toolbarfolder-description = Adicione favoritos nesta pasta para aparecer na barra de favoritos
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Introdução
 # Firefox links folder name
@@ -34,3 +35,5 @@ default-bookmarks-mdn = Mozilla Developer Network
 default-bookmarks-nightly-tester-tools = Ferramentas de testes do Nightly
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = Todos os seus travamentos
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
