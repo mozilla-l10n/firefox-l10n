@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = Du kan bruge { -pocket-brand-name } til at udforsk
 pocket-panel-home-explore-popular-topics = Udforsk populære emner
 pocket-panel-home-discover-more = Opdag mere
 pocket-panel-home-explore-more = Udforsk
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Vis min liste
+pocket-panel-header-sign-in = Log ind
