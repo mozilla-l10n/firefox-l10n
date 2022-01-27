@@ -23,7 +23,7 @@
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Agregar al campo Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Agregar al campo Bcc">
+<!ENTITY addtoBccFieldMenu.label            "Agregar al campo Cco">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Eliminar">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
@@ -45,5 +45,5 @@
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Agregar a Cc:">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "Agregar a Bcc:">
+<!ENTITY bccButton.label                    "Agregar a Cco:">
 <!ENTITY bccButton.accesskey                "B">
