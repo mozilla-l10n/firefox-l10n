@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Legg til etikettar
-
 pocket-panel-saved-error-generic = Eit problem oppstod ved lagring til { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etikettar er avgrensa til 25 teikn
 pocket-panel-saved-error-only-links = Berre lenker kan lagrast
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Du kan bruke { -pocket-brand-name } for å utforsk
 pocket-panel-home-explore-popular-topics = Utforsk populære emne
 pocket-panel-home-discover-more = Oppdag meir
 pocket-panel-home-explore-more = Utforsk
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Vis lista mi
+pocket-panel-header-sign-in = Logg inn
