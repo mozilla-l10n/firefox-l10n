@@ -294,7 +294,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 applications-use-plugin-in =
     .label = { $plugin-name } 사용({ -brand-short-name })
 applications-open-inapp =
-    .label = { -brand-short-name }에서 열기
+    .label = { -brand-short-name }로 열기
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
