@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Visa lösenord
     .accesskey = V
+main-context-menu-reveal-password =
+    .label = Avslöja lösenord
+    .accesskey = v
