@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Тегтерді қосу
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ке сақтау талабы кезінде қате орын алды.
 pocket-panel-saved-error-tag-length = Тег 25 таңбамен шектелген
 pocket-panel-saved-error-only-links = Тек сілтемелерді сақтауға болады
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Веб-беттер, мақалалар, виде�
 pocket-panel-home-explore-popular-topics = Әйгілі темаларды шолу
 pocket-panel-home-discover-more = Өзіңіз үшін көбірек ашыңыз
 pocket-panel-home-explore-more = Шолу
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Менің тізімімді қарау
+pocket-panel-header-sign-in = Кіру
