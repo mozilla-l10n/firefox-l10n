@@ -16,6 +16,7 @@ auth-waiting = En attente de vérification par votre contact…
 finger-verify = Vérifier
 finger-verify-access-key = V
 finger-ignore = Ignorer
+finger-ignore-access-key = I
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Ajouter une empreinte OTR
 # Variables:
@@ -59,12 +60,6 @@ afterauth-private = Vous avez vérifié l’identité de { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = L’identité de { $name } n’a pas été vérifiée.
-verify-title = Vérifier l’identité de votre contact
-error-title = Erreur
-success-title = Chiffrement de bout en bout
-success-them-title = Vérifiez l’identité de votre contact
-fail-title = Impossible de vérifier
-waiting-title = Demande de vérification envoyée
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure
