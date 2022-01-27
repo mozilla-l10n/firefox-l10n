@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Oanraking
     .accesskey = O
+menu-spaces-toolbar-button =
+    .label = Taakbalke
+    .accesskey = T
 
 ## File
 
