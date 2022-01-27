@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ჭდეების დამატება
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ში შენახვისას დაფიქსირდა შეცდომა.
 pocket-panel-saved-error-tag-length = ჭდე უნდა შედგებოდეს არაუმეტეს 25 სიმბოლოსგან
 pocket-panel-saved-error-only-links = შესაძლებელია მხოლოდ ბმულების შენახვა
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = შეგიძლიათ გამოიყე�
 pocket-panel-home-explore-popular-topics = გაეცანით ცნობილ თემებს
 pocket-panel-home-discover-more = აღმოაჩინეთ მეტი
 pocket-panel-home-explore-more = დათვალიერება
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = სიის ნახვა
+pocket-panel-header-sign-in = შესვლა

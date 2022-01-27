@@ -43,9 +43,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] ჩვენება საქაღალდეში
         }
     .accesskey = ქ
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = გახსნა სისტემური მნახველით
     .accesskey = ვ
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = გახსნის { $handler }
+    .accesskey = ი
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -69,6 +79,15 @@ downloads-cmd-show-description =
             [macos] Finder-ში ჩვენება
            *[other] შემცველი საქაღალდის გახსნა
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = ყოველთვის გახსნის { $handler }
+    .accesskey = ყ
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
