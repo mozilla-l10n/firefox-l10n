@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Wachtwurd toane
     .accesskey = d
+main-context-menu-reveal-password =
+    .label = Wachtwurd toane
+    .accesskey = u
