@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Labels tafoegje
-
 pocket-panel-saved-error-generic = Der is in flater bard by it bewarjen nei { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Labels binne beheint ta 25 tekens
 pocket-panel-saved-error-only-links = Allinnich keppelingen kinne bewarre wurde
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Jo kinne { -pocket-brand-name } brûke om websiden
 pocket-panel-home-explore-popular-topics = Populêre ûnderwerpen ferkenne
 pocket-panel-home-discover-more = Mear ûntdekke
 pocket-panel-home-explore-more = Ferkenne
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Myn list besjen
+pocket-panel-header-sign-in = Oanmelde
