@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Додати мітки
-
 pocket-panel-saved-error-generic = При спробі збереження в { -pocket-brand-name } сталася помилка.
 pocket-panel-saved-error-tag-length = Мітки мають обмеження до 25 символів
 pocket-panel-saved-error-only-links = Можна зберігати лише посилання
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Ви можете застосовувати { -po
 pocket-panel-home-explore-popular-topics = Знайти популярні теми
 pocket-panel-home-discover-more = Відкрийте для себе більше
 pocket-panel-home-explore-more = Огляд
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Переглянути мій список
+pocket-panel-header-sign-in = Увійти
