@@ -43,9 +43,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Εμφάνιση στον φάκελο
         }
     .accesskey = φ
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Άνοιγμα με το πρόγραμμα προβολής συστήματος
     .accesskey = π
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Άνοιγμα σε «{ $handler }»
+    .accesskey = ο
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -69,6 +79,9 @@ downloads-cmd-show-description =
             [macos] Προβολή στο Finder
            *[other] Άνοιγμα φακέλου λήψης
         }
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -113,6 +126,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Απαλοιφή λήψεων
     .accesskey = λ
+downloads-cmd-delete-file =
+    .label = Διαγραφή
+    .accesskey = Δ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Αποδοχή λήψης
