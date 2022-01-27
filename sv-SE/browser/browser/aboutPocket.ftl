@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Lägg till etiketter
-
 pocket-panel-saved-error-generic = Ett fel upptäcktes då du försökte spara till { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etiketter kan max vara 25 tecken
 pocket-panel-saved-error-only-links = Endast länkar kan sparas
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Du kan använda { -pocket-brand-name } för att ut
 pocket-panel-home-explore-popular-topics = Utforska populära ämnen
 pocket-panel-home-discover-more = Upptäck mer
 pocket-panel-home-explore-more = Utforska
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Visa min lista
+pocket-panel-header-sign-in = Logga in
