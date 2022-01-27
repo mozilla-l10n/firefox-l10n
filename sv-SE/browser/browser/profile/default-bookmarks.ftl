@@ -9,6 +9,8 @@
 
 default-bookmarks-title = Bokmärken
 default-bookmarks-heading = Bokmärken
+default-bookmarks-toolbarfolder = Bokmärkesfältsmapp
+default-bookmarks-toolbarfolder-description = Lägg till bokmärken i den här mappen för att se dem visas i bokmärkesfältet
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Kom igång
 # Firefox links folder name
@@ -23,5 +25,15 @@ default-bookmarks-firefox-community = Engagera dig
 default-bookmarks-firefox-about = Om oss
 # Firefox Nightly links folder name
 default-bookmarks-nightly-heading = Resurs för Firefox Nightly
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Firefox Nightly blogg
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozilla Bug Tracker
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla Developer Network
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly testverktyg
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Alla dina krascher
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Planet Mozilla
