@@ -410,6 +410,26 @@ import-from-clip = Kas soovid importida mõned võtmed vahemälust?
 import-from-url = Laadi avalik võti alla järgnevalt URLilt:
 copy-to-clipbrd-failed = Valitud võtmeid polnud võimalik vahemällu kopeerida.
 copy-to-clipbrd-ok = Võtmed kopeeriti vahemällu
+delete-secret-key =
+    HOIATUS: oled kustutamas salajast võtit!
+    
+    Kui sa kustutad oma salajase võtme, siis pole sul võimalik enam dekrüptida sellele võtmele krüptitud kirju ning sul pole võimalik seda võtit tühistada.
+    
+    Kas soovid kindlasti kustutada nii avaliku kui salajase võtme
+    ‘{ $userId }’?
+delete-mix =
+    HOIATUS: oled kustutamas salajasi võtmeid!
+    Kui sa kustutad oma salajase võtme, siis pole sul võimalik enam dekrüptida sellele võtmele krüptitud kirju.
+    Kas soovid kindlasti kustutada nii valitud salajased kui avalikud võtmed?
+delete-pub-key = Kas soovid kustutada avaliku võtme ‘{ $userId }’?
+delete-selected-pub-key = Kas soovid kustutada avalikud võtmed?
+refresh-all-question = Sa ei valinud ühtki võtit. Kas soovid uuendada KÕIKI võtmeid?
+key-man-button-export-sec-key = Ekspordi &salajased võtmed
+key-man-button-export-pub-key = Ekspordi &ainult avalikud võtmed
+key-man-button-refresh-all = &Uuenda kõik võtmed
+key-man-loading-keys = Võtmete laadimine, palun oota…
+ascii-armor-file = ASCII-soomustatud failid (*.asc)
+no-key-selected = Valitud tegevuse tegemiseks peaksid valima vähemalt ühe võtme
 
 ## Account settings export output
 
