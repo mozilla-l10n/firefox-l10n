@@ -280,6 +280,18 @@ cloud-file-service-provider-footer =
         [few] Dalšne informacije wó { $firstLinks } a { $lastLink }.
        *[other] Dalšne informacije wó { $firstLinks } a { $lastLink }.
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Dalšne informacije wó { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Dalšne informacije wó { $firstLinks } a { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Pśez gronidło šćitany wótkaz
 # Used in a list of stats about a specific file
