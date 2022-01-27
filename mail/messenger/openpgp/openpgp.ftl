@@ -430,6 +430,8 @@ key-man-button-refresh-all = &Uuenda kõik võtmed
 key-man-loading-keys = Võtmete laadimine, palun oota…
 ascii-armor-file = ASCII-soomustatud failid (*.asc)
 no-key-selected = Valitud tegevuse tegemiseks peaksid valima vähemalt ühe võtme
+export-to-file = Ekspordi avalik võti faili
+export-keypair-to-file = Ekspordi salajane ja avalik võti faili
 
 ## Account settings export output
 
