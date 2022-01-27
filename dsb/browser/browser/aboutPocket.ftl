@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Wobznamjenja pśidaś
-
 pocket-panel-saved-error-generic = Pśi składowanju do { -pocket-brand-name } jo zmólka nastała.
 pocket-panel-saved-error-tag-length = Wobznamjenja su na 25 znamuškow wobgranicowane
 pocket-panel-saved-error-only-links = Jano wótkaze daju se składowaś
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Móžośo { -pocket-brand-name } wužywaś, aby we
 pocket-panel-home-explore-popular-topics = Wuslěźćo woblubowane temy
 pocket-panel-home-discover-more = Wuslěźćo wěcej
 pocket-panel-home-explore-more = Wuslěźiś
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Móju lisćinu pokazaś
+pocket-panel-header-sign-in = Pśizjawiś
