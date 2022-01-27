@@ -102,12 +102,17 @@ drop-file-label-inline =
 
 ## Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Mover al inicio
 move-attachment-left-panel-button =
     .label = Mover a la izquierda
 move-attachment-right-panel-button =
     .label = Mover a la derecha
 move-attachment-last-panel-button =
     .label = Mover último
+button-return-receipt =
+    .label = Recibo
+    .tooltiptext = Solicitar un de recibo de respuesta para este mensaje
 
 ## Encryption
 
@@ -148,6 +153,8 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } del campo ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = Los destinatarios { $count } en Para y Cc pueden ver la dirección de los demas. Puedes evitar revelar destinatarios utilizando Cco en su lugar.
 to-address-row-label =
     .value = Para
 #   $key (String) - the shortcut key for this field
