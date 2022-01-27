@@ -23,3 +23,17 @@ default-bookmarks-firefox-customize = Firefox 사용자 지정
 default-bookmarks-firefox-community = 참여하기
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = 회사 소개
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Firefox Nightly 리소스
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Firefox Nightly 블로그
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozilla 버그 트래커
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla 개발자 네트워크
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly 테스터 도구
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = 모든 충돌 정보
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
