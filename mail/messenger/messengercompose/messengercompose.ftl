@@ -30,6 +30,9 @@ pill-tooltip-not-in-address-book = { $email } no está en tu libreta de direccio
 pill-action-edit =
     .label = Editar dirección
     .accesskey = E
+pill-action-move-to =
+    .label = Mover a Para
+    .accesskey = M
 pill-action-move-cc =
     .label = Mover a Cc
     .accesskey = C
@@ -131,6 +134,11 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } del campo ({ bcc-compose-show-address-row-menuitem.acceltext })
 to-address-row-label =
     .value = Para
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Campo para
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-to-row-button text.
 show-to-row-extra-menuitem =
@@ -148,6 +156,9 @@ show-cc-row-main-menuitem =
 show-cc-row-extra-menuitem =
     .label = Cc
     .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Cc
+    .title = Mostrar campo Cc ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = Cco
 #   $key (String) - the shortcut key for this field
@@ -165,6 +176,12 @@ show-bcc-row-button = Cco
     .title = Mostrar campo Cco ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 extra-address-rows-menu-button =
     .title = Otros campos de direcciones para mostrar
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Tu mensaje tiene un destinatario público. Puedes evitar la divulgación de destinatarios utilizando CCO en su lugar.
+       *[other] Los destinatarios de { $count } en Para y Cc verán la dirección de cada uno. Puedes evitar la divulgación de destinatarios utilizando CCO en su lugar.
+    }
 many-public-recipients-bcc =
     .label = Utiliza Cco en su lugar
     .accesskey = U
@@ -172,6 +189,12 @@ many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
     .accesskey = M
 many-public-recipients-prompt-title = Demasiados destinatarios públicos
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Tu mensaje tiene un destinatario público. Esto puede ser un problema de privacidad. Puedes evitar esto moviendo el destinatario de Para/CC a CCO en su lugar.
+       *[other] Tu mensaje tiene { $count } destinatarios públicos, que podrán ver las direcciones de los demás. Esto puede ser un problema de privacidad. Puedes evitar revelar los destinatarios moviendo los destinatarios de Para/CC a CCO en su lugar.
+    }
 many-public-recipients-prompt-cancel = Cancelar envío
 many-public-recipients-prompt-send = Enviar de todos modos
 
@@ -180,6 +203,7 @@ many-public-recipients-prompt-send = Enviar de todos modos
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = No se encontró una identidad única que coincida con la dirección del remitente. El mensaje se enviará usando el remitente actual y la configuración de la identidad { $identity }.
+encrypted-bcc-warning = Al enviar un mensaje cifrado, los destinatarios en Bcc no están completamente ocultos. Todos los destinatarios pueden identificarlos.
 encrypted-bcc-ignore-button = Entendido
 
 ## Editing
