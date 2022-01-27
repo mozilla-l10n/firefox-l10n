@@ -56,9 +56,18 @@ font-language-group-khmer =
     .label = Քմերերէն
 font-language-group-malayalam =
     .label = Մալայլամ
+font-language-group-math =
+    .label = Մաթեմատիկայ
+font-language-group-telugu =
+    .label = Տելուգու
+font-language-group-tibetan =
+    .label = Տիբեթերէն
 
 ## Default font type
 
+font-min-size-label =
+    .value = Տառատեսակի նուազագոյն չափը.
+    .accesskey = փ
 
 ## Fonts in message
 
