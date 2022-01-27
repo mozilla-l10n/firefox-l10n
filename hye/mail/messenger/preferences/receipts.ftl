@@ -11,3 +11,6 @@ receipt-send-always-label =
     .label = Միշտ ուղարկել
 receipt-send-ask-label =
     .label = Հարցրու ինձ
+other-cases-text-label =
+    .value = Մնացած բոլոր դէպքերում
+    .accesskey = բ
