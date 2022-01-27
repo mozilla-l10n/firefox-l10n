@@ -173,6 +173,8 @@ decrypt-and-copy-failures = { $failures } de { $total } mensajes no pudieron ser
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Barra de herramientas de espacios
 spaces-toolbar-button-mail =
     .title = Cambiar a la pestaña de correo electronico
 spaces-toolbar-button-address-book =
@@ -185,3 +187,5 @@ spaces-toolbar-button-chat =
     .title = Cambiar a la pestaña de chat
 spaces-toolbar-button-settings =
     .title = Cambiar a la pestaña de ajustes
+spaces-toolbar-button-collapse =
+    .title = Contraer barra de herramientas de espacios
