@@ -169,3 +169,18 @@ no-reply-reply-anyway-button = Répondre quand même
 ## error messages
 
 decrypt-and-copy-failures = { $failures } des { $total } messages n’ont pas pu être déchiffrés et n’ont pas été copiés.
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Aller à l’onglet courrier
+spaces-toolbar-button-address-book =
+    .title = Aller à l’onglet du carnet d’adresses
+spaces-toolbar-button-calendar =
+    .title = Aller à l’onglet de l’agenda
+spaces-toolbar-button-tasks =
+    .title = Aller à l’onglet des tâches
+spaces-toolbar-button-chat =
+    .title = Aller à l’onglet de messagerie instantanée
+spaces-toolbar-button-settings =
+    .title = Aller à l’onglet des paramètres

@@ -275,6 +275,14 @@ cloud-file-service-provider-footer-single = En savoir plus sur { $link }.
 cloud-file-service-provider-footer-multiple = En savoir plus sur { $firstLinks } et { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lien protégé par mot de passe
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Service cloud :
 cloud-file-template-size = Taille :
 cloud-file-template-link = Lien :
 cloud-file-template-password-protected-link = Lien protégé par mot de passe :
@@ -285,6 +293,7 @@ cloud-file-template-download-limit = Limite de téléchargement :
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Erreur de connexion
+cloud-file-connection-error = { -brand-short-name } est hors ligne. Impossible de se connecter à { $provider }.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Échec de l’envoi de { $filename } à { $provider }
