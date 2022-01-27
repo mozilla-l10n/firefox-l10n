@@ -79,6 +79,12 @@ downloads-cmd-show-description =
             [macos] Finder에서 보기
            *[other] 상위 폴더 열기
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = 항상 { $handler } 앱으로 열기
+    .accesskey = w
 
 ##
 
