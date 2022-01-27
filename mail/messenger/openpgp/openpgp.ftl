@@ -388,6 +388,7 @@ filter-decrypt-move-warn-experimental =
     Hoiatus - filtri tegevus "Dekrüpti jäädavalt" võib viia kirjade hävitamiseni.
     Me soovitame tungivalt, et proovid kõigepealt filtrit "Loo dekrüptitud koopia", testid seda põhjalikult ja ainult siis alustad selle filtri kasutamist, kui oled tulemustega rahul.
 filter-term-pgpencrypted-label = OpenPGPga krüptitud
+filter-key-required = Sa pead valima saaja võtme.
 
 ## Account settings export output
 
