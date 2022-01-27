@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Labels toevoegen
-
 pocket-panel-saved-error-generic = Er is een fout opgetreden bij het opslaan naar { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Labels zijn beperkt tot 25 tekens
 pocket-panel-saved-error-only-links = Alleen koppelingen kunnen worden opgeslagen
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = U kunt { -pocket-brand-name } gebruiken om webpagi
 pocket-panel-home-explore-popular-topics = Populaire onderwerpen verkennen
 pocket-panel-home-discover-more = Meer ontdekken
 pocket-panel-home-explore-more = Verkennen
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Mijn lijst bekijken
+pocket-panel-header-sign-in = Aanmelden
