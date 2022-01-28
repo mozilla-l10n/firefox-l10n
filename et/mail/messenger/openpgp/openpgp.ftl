@@ -432,6 +432,10 @@ ascii-armor-file = ASCII-soomustatud failid (*.asc)
 no-key-selected = Valitud tegevuse tegemiseks peaksid valima vähemalt ühe võtme
 export-to-file = Ekspordi avalik võti faili
 export-keypair-to-file = Ekspordi salajane ja avalik võti faili
+export-secret-key = Kas soovid lisada salajase võtme salvestatud OpenPGP võtmefaili?
+save-keys-ok = Võtmed salvestati edukalt
+save-keys-failed = Võtmete salvestamine ebaõnnestus
+default-pub-key-filename = Eksporditud-avalikud-võtmed
 
 ## Account settings export output
 
