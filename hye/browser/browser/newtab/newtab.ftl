@@ -18,6 +18,9 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = Որոնում
     .aria-label = Որոնում
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = Որոնել { $engine }-ով կամ մուտքագրել հասցէն
 newtab-search-box-search-the-web-input =
     .placeholder = Որոնել առցանց
     .title = Որոնել առցանց

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-customize-mode-restore-defaults =
-    .label = Վերականգնել ծրագրայինը
 customize-mode-menu-and-toolbars-header = Քաշեք Ձեր ընտրեալ միոյթները գործիքագաւտի կամ գերլցուած ցանկ։
 customize-mode-overflow-list-title = Լցուող ցանկ
 customize-mode-uidensity =

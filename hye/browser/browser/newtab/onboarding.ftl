@@ -40,10 +40,11 @@ onboarding-multistage-welcome-secondary-button-label = Գրանցուել
 onboarding-multistage-welcome-secondary-button-text = Ունէ՞ք հաշիւ։
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
-onboarding-multistage-set-default-header = { -brand-short-name }-ը դարձրէք ձեր <span data-l10n-name="zap"> սկզբնադիր </span>֊ը։
+onboarding-multistage-set-default-header = { -brand-short-name }-ը դարձրէք Ձեզ <span data-l10n-name="zap"> լռելեայն </span>
 onboarding-multistage-set-default-subtitle = Արագութիւն, անվտանգութիւն եւ գաղտնիութիւն իւրաքանչիւր դիտարկման ժամանակ։
-onboarding-multistage-set-default-primary-button-label = Դարձնել սկզբնադիր
+onboarding-multistage-set-default-primary-button-label = Դարձնել լռելեայն
 onboarding-multistage-set-default-secondary-button-label = Ոչ հիմա
+onboarding-multistage-pin-default-primary-button-label = Դարձնել { -brand-short-name }-ը իմ առաջնային զննարկիչը
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Ներմուծէք ձեր գաղտնաբառերը, <br/> էջանիշերը, եւ <span data-l10n-name="zap">եւ աւելի </span>
@@ -85,17 +86,23 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Սկսել
 mr1-onboarding-welcome-header = Բարի գալուստ { -brand-short-name } ֊ում
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Սարքել { -brand-short-name } ֊ը իմ լռելեայն զննարկիչը
 mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-primary-button-label = Դարձնել լռելեայն զննարկիչ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-secondary-button-label = Ոչ հիմայ
 mr2-onboarding-colorway-secondary-button-label = Ոչ հիմայ
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Լռելեայն
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմայ
 
 ## Please make sure to split the content of the title attribute into lines whose

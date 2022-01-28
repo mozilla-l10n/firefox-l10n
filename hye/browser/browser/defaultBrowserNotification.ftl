@@ -5,7 +5,7 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>Սահմանե՞լ { -brand-short-name }֊ը որպէս սկզբնադիր դիտարկիչ։</strong> Վայելէք արագ, ապահով եւ գաղտնի դիտարկում ամէն անգամ, երբ աւգտուում էք համացանցից։
 default-browser-notification-button =
-    .label = Սկզբնադիր
+    .label = Սահմանել որպէս լռելեայն
     .accesskey = Ս
 
 ## These strings are used for the default browser prompt. There are 2 variations
