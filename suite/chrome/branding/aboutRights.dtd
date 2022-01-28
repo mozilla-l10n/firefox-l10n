@@ -73,5 +73,6 @@
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; lahko prekine ali spremeni svoje storitve, kadarkoli mu ustreza.">
+<!ENTITY rights.webservices-term4 "Razen če tako zahteva zakon, &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji ne odgovarja za nobeno posredno, posebno, naključno, posledično, kazensko ali vzročno škodo, ki izhaja ali je na kakršenkoli način povezana z uporabo programa &brandShortName; in storitev. Skupna odgovornost pod temi pogoji ne bo presegala 500$ (petsto dolarjev). Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja nekaterih škod, zato ta pogoj morda ne velja za vas.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; lahko občasno po potrebi posodobi navedene pogoje. Brez pisnega soglasja &vendorShortName; pa jih ni dovoljeno spreminjati ali preklicati.">
 <!ENTITY rights.webservices-term6a "Te pogoje se ureja in razlaga v skladu z zakoni v Nemčiji in vsi spori, ki se porodijo iz navedenih pogojev, bodo predloženi v izključno pristojnost pristojnega sodišča v Nemčiji. Če katerikoli del teh pogojev obvelja za neveljavnega ali neizvršljivega, preostali deli ostanejo v polni veljavi in učinkovanju. V primeru neskladnosti med prevodom teh pogojev in angleško različico obvelja različica v angleškem jeziku.">
