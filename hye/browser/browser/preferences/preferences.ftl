@@ -405,7 +405,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox-ի Տնային էջը
+    .label = Firefox-ի Տնային էջը (լռելեայն)
 home-mode-choice-custom =
     .label = Յարմարեցուած URL-ներ...
 home-mode-choice-blank =
