@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = { -pocket-brand-name }it saad kasutada veebisaitid
 pocket-panel-home-explore-popular-topics = Avasta populaarseid teemasid
 pocket-panel-home-discover-more = Leia veel
 pocket-panel-home-explore-more = Avasta
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Vaata minu nimekirja
+pocket-panel-header-sign-in = Logi sisse
