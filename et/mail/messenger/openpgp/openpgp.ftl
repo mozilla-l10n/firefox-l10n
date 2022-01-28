@@ -436,9 +436,25 @@ export-secret-key = Kas soovid lisada salajase võtme salvestatud OpenPGP võtme
 save-keys-ok = Võtmed salvestati edukalt
 save-keys-failed = Võtmete salvestamine ebaõnnestus
 default-pub-key-filename = Eksporditud-avalikud-võtmed
+default-pub-sec-key-filename = Salajaste-võtmete-varukoopia
+refresh-key-warn = Hoiatus: sõltuvalt võtmete arvust ja ühenduse kiirusest võib kõigi võtmete uuendamine olla üsna pikk protsess!
+preview-failed = Avaliku võtme faili pole võimalik lugeda.
+general-error = Viga: { $reason }
+dlg-button-delete = &Kustuta
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Avalik võti edukalt eksporditud!</b>
+openpgp-export-public-fail = <b>Valitud avalikku võtit pole võimalik eksportida!</b>
+openpgp-export-secret-success = <b>Salajane võti edukalt eksporditud!</b>
+openpgp-export-secret-fail = <b>Valitud salajast võtit pole võimalik eksportida!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Võti { $userId } (võtme ID { $keyId }) on tühistatud.
+key-ring-pub-key-expired = Võti { $userId } (võtme ID { $keyId }) on aegunud.
+key-ring-no-secret-key = Sinu võtmerõngal ei näi olevat salajast võtit võtme { $userId } (võtme ID { $keyId }) jaoks; seda võtit pole võimalik allkirjastamiseks kasutada.
+key-ring-pub-key-not-for-signing = Võtit { $userId } (võtme ID { $keyId }) pole võimalik allkirjastamiseks kasutada.
+key-ring-pub-key-not-for-encryption = Võtit { $userId } (võtme ID { $keyId }) pole võimalik krüptimiseks kasutada.
+key-ring-sign-sub-keys-revoked = Kõik võtme { $userId } (võtme ID { $keyId }) allkirjastamist võimaldavad alamvõtmed on tühistatud.
 
 # Strings used in enigmailMessengerOverlay.js
 
