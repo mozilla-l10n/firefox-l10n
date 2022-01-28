@@ -6,5 +6,7 @@
 
 <!ENTITY status.label "Հաղորդագրութեան անվտանգութիւն">
 
+<!ENTITY email.address "Ել. հասցէ">
 
 <!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">

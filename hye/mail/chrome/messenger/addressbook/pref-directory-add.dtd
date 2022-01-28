@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY findButton.label                  "Գտնել">
+<!ENTITY directorySecure.label             "Աւգտագործել անվտանգ միացում (SSL)">
 <!ENTITY General.tab                       "Ընդհանուր">
 <!ENTITY Offline.tab                       "Անցանց">
+<!ENTITY Advanced.tab                      "Բարելաւուած">
+<!ENTITY results.label                     "արդիւնքներ">
 
 <!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+<!ENTITY newDirectoryWidth                 "36em">
