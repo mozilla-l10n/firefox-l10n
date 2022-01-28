@@ -35,3 +35,5 @@ default-bookmarks-mdn = Mozilla arendajate võrgustik
 default-bookmarks-nightly-tester-tools = Nightly testija tööriistad
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = Sinu vearaportid
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
