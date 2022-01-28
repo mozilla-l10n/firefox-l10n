@@ -30,7 +30,7 @@ default-bookmarks-nightly-blog = Блог Firefox Nightly
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = Система відстеження помилок Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
-default-bookmarks-mdn = Mozilla Developer Network
+default-bookmarks-mdn = Мережа розробників Mozilla
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
 default-bookmarks-nightly-tester-tools = Засоби тестування Nightly
 # Nightly builds only, link title for about:crashes
