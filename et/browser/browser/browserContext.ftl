@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Kuva parooli
     .accesskey = K
+main-context-menu-reveal-password =
+    .label = Näita parooli
+    .accesskey = N
