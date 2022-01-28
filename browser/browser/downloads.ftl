@@ -83,7 +83,7 @@ downloads-cmd-show-description =
 # Both should not be visible in the downloads context menu at the same time.
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-always-use-system-default-named =
-    .label = Agorwch bob tro yn { $handler }
+    .label = Agor bob tro yn { $handler }
     .accesskey = t
 
 ##
