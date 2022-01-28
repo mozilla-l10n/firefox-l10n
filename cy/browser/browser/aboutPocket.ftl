@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ychwanegu Tagiau
-
 pocket-panel-saved-error-generic = Bu gwall wrth geisio cadw i { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Mae tagiau wedi eu cyfyngu i 25 nod
 pocket-panel-saved-error-only-links = Dim ond dolenni y mae modd eu cadw
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = Gallwch ddefnyddio { -pocket-brand-name } i archwi
 pocket-panel-home-explore-popular-topics = Archwilio Pynciau Poblogaidd
 pocket-panel-home-discover-more = Darganfod Rhagor
 pocket-panel-home-explore-more = Archwilio
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Gweld Fy Rhestr
+pocket-panel-header-sign-in = Mewngofnodi
