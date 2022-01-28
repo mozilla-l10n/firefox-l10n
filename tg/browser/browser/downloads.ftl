@@ -43,8 +43,18 @@ downloads-cmd-show-menuitem-2 =
            *[other] Намоиш додан дар ҷузвдон
         }
     .accesskey = Н
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Кушодан дар намоишгари низом
+    .accesskey = К
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Кушодан дар { $handler }
     .accesskey = К
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
@@ -69,6 +79,15 @@ downloads-cmd-show-description =
             [macos] Намоиш додан дар ҷӯянда
            *[other] Кушодани ҷузвдони дорои файл
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Ҳамеша кушодан дар { $handler }
+    .accesskey = Ҳ
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =

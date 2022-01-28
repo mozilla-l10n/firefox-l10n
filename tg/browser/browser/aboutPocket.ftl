@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = Шумо метавонед барои омӯхт�
 pocket-panel-home-explore-popular-topics = Омӯзиши мавзӯъҳои маъмул
 pocket-panel-home-discover-more = Бештар омӯзед
 pocket-panel-home-explore-more = Омӯхтан
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Намоиш додани рӯйхати ман
+pocket-panel-header-sign-in = Ворид шудан
