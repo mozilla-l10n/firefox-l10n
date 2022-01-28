@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY findButton.label                  "Գտնել">
+<!ENTITY General.tab                       "Ընդհանուր">
 <!ENTITY Offline.tab                       "Անցանց">
 
 <!-- Localization note: this is here because the width of the dialog

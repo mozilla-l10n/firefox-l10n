@@ -65,6 +65,9 @@ font-language-group-tibetan =
 
 ## Default font type
 
+font-size-proportional-label =
+    .value = Չափը.
+    .accesskey = ը
 font-min-size-label =
     .value = Տառատեսակի նուազագոյն չափը.
     .accesskey = փ
