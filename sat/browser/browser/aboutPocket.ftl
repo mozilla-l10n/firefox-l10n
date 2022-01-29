@@ -34,10 +34,17 @@ pocket-panel-signup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 pocket-panel-signup-login = ᱵᱚᱞᱚᱱ ᱢᱮ
 pocket-panel-signup-signup-email = ᱤᱢᱮᱞ ᱛᱮ ᱥᱟᱭᱤᱱ ᱟᱯ ᱢᱮ
 pocket-panel-signup-signup-firefox = { -brand-product-name } ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+pocket-panel-signup-tagline-story-two = ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱝ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ, ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱜᱮ { -pocket-brand-name } ᱧᱮᱞ ᱢᱮ ᱾
 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = ᱤᱧᱟᱜ ᱞᱤᱥᱴᱭ
 pocket-panel-home-welcome-back = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+pocket-panel-home-explore-popular-topics = ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱯᱟᱱᱛᱮ ᱢᱮ
 pocket-panel-home-discover-more = ᱟᱨᱦᱚᱸ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱢᱮ
 pocket-panel-home-explore-more = ᱥᱮᱸᱫᱽᱨᱟ
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = ᱤᱧᱟᱜ ᱞᱤᱥᱴ ᱧᱮᱞ ᱢᱮ
+pocket-panel-header-sign-in = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
