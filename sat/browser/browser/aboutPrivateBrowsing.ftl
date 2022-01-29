@@ -6,6 +6,7 @@ privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ 
     .accesskey = ᱨ
 about-private-browsing-search-placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-private-browsing-info-title = ᱟᱢ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱢᱮᱱᱟᱢᱼᱟ
+about-private-browsing-info-myths = ᱩᱠᱩ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱟᱵᱚᱛ ᱥᱟᱫᱷᱟᱨᱚᱬ ᱟᱸᱫᱷᱟ ᱯᱟᱹᱛᱤᱭᱟᱹᱣ
 about-private-browsing-search-btn =
     .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
@@ -19,6 +20,7 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 about-private-browsing-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
+about-private-browsing-info-description = { -brand-short-name } ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱯᱟᱱᱛᱮᱭᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱴᱮᱵᱽ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱚᱱ ᱯᱷᱟᱨᱪᱟ ᱭᱟᱭ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱩᱱᱠᱩ ᱵᱚᱸᱫᱚ ᱠᱚᱣᱟᱢ ᱟᱨ ᱮᱯ ᱟᱲᱟᱹᱜ ᱟᱢ ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱵᱟᱝ ᱵᱮᱱᱟᱣ ᱢᱮᱭᱟᱭ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱟᱨ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱮᱢᱚᱜᱤᱪ ᱠᱷᱚᱱ, ᱱᱚᱣᱟ ᱫᱚ ᱟᱞᱜᱟ ᱛᱮᱭᱟᱨ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱠᱚ ᱟᱢ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱚᱨᱟᱣ ᱮᱫᱟᱢ ᱩᱱᱠᱩ ᱠᱷᱚᱱ ᱡᱟ ᱱᱚᱣᱟ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱚ ᱾
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
