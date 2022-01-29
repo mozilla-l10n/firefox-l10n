@@ -22,3 +22,7 @@ default-bookmarks-firefox-customize = Tilpass Firefox
 default-bookmarks-firefox-community = Ver med
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Om oss
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Firefox Nightly-blogg
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Alle krasja dine
