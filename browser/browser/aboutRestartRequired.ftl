@@ -6,5 +6,6 @@ restart-required-title = Reaviada necessària
 restart-required-header = O planhèm, manca pas gaire per poder contunhar.
 restart-required-intro-brand = { -brand-short-name } s’es mes a jorn en rèireplan. Clicatz Reaviar { -brand-short-name } per terminar la mesa a jorn.
 restart-required-description = Restablirem totas las paginas, fenèstras e onglets, per que poscatz rapidament tornar ont èretz.
-
+restart-required-heading = Reaviatz per téner d’utilizar { -brand-short-name }
+restart-required-intro = Una mesa a jorn de { -brand-short-name } a començat en rèireplan. Vos calrà reaviar per terminar la mesa a jorn.
 restart-button-label = Reavir { -brand-short-name }
