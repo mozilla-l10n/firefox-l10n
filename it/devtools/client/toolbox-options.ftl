@@ -118,6 +118,11 @@ options-enable-remote-label = Attiva debug remoto
 options-enable-remote-tooltip2 =
     .title = Attivando questa opzione è possibile effettuare il debug remoto di questa istanza del browser
 
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Attiva formattatori personalizzati
+options-enable-custom-formatters-tooltip =
+    .title = Attivando questa opzione i siti web potranno definire formattatori personalizzati per oggetti DOM
+
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Attiva service worker via HTTP (quando la cassetta degli attrezzi è aperta)
 options-enable-service-workers-http-tooltip =
