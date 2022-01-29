@@ -8,4 +8,6 @@
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobil
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-button = Enviatz un e-mail a vòstre telefòn a la plaça
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Còdi QR per telecargar { -brand-product-name } mobile
 more-from-moz-learn-more-link = Ne saber mai

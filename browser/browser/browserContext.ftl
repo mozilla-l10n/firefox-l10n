@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Mostrar lo senhal
     .accesskey = s
+main-context-menu-reveal-password =
+    .label = Revelar lo senhal
+    .accesskey = v
