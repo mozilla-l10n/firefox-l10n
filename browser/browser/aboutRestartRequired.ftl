@@ -6,5 +6,7 @@ restart-required-title = ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨਾ ਜਰੂਰੀ ਹ
 restart-required-header = ਅਫ਼ਸੋਸ ਹੈ। ਸਾਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਇੱਕ ਨਿੱਕਾ ਜਿਹਾ ਕੰਮ ਕਰਨਾ ਪਵੇਗਾ।
 restart-required-intro-brand = { -brand-short-name } ਹੁਣੇ ਹੀ ਪਿਛੋਕੜ ਵਿੱਚ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਅੱਪਡੇਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 restart-required-description = ਅਸੀਂ ਬਾਅਦ ਵਿੱਚ ਆਪਣੇ ਸਾਰੇ ਸਫ਼ਿਆਂ, ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਬਹਾਲ ਕਰਾਂਗੇ, ਤਾਂ ਜੋ ਤੁਸੀਂ ਤੁਰੰਤ ਵਾਪਸ ਸ਼ੁਰੂ ਕਰ ਸਕੋ।
-
+restart-required-heading = { -brand-short-name } ਵਰਤਣਾ ਜਾਰੀ ਰੱਖਣ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+restart-required-intro = { -brand-short-name } ਲਈ ਅੱਪਡੇਟ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਸ਼ੁਰੂ ਹੋਇਆ। ਅੱਪਡੇਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+window-restoration-info = ਤੁਹਾਡੀਆਂ ਵਿੰਡੋਆਂ ਤੇ ਟੈਬਾਂ ਨੂੰ ਫ਼ੌਰਨ ਬਹਾਲ ਕੀਤਾ ਜਾਵੇਗਾ, ਪਰ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੋਣਗੀਆਂ।
 restart-button-label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰੋ
