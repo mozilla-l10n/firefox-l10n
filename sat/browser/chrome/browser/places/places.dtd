@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             " दोहड़ा जोगाव ">
+<!ENTITY cmd.restore2.label             "ᱫᱩᱦᱲᱟᱹ ᱡᱚᱜᱟᱣ">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">

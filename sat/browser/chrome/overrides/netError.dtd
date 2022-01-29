@@ -6,13 +6,21 @@
 %brandDTD;
 
 <!ENTITY loadError.label "साहटा लादे रे दिगधा़ .">
-<!ENTITY retry.label "दोहड़ा कुरुमुटु">
+<!ENTITY retry.label "ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ">
 
 <!-- Specific error messages -->
 
 
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>ᱡᱩᱫᱤ ᱚᱱᱟ ᱴᱷᱤᱠᱬᱟ ᱴᱷᱤᱠ ᱠᱷᱟᱱ, ᱱᱚᱶᱟ ᱯᱮᱭᱟ ᱡᱤᱱᱤᱥ ᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ :</strong>
+<ul>
+  <li>ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾</li>
+  <li>ᱟᱢᱟᱜ ᱱᱮᱴᱣᱟᱨᱠ ᱡᱩᱲᱟᱹᱣ ᱧᱮᱞ ᱧᱚᱜᱽ ᱢᱮ</li>
+  <li>ᱡᱩᱫᱤ ᱟᱢ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱᱟᱢ ᱦᱮᱞᱮ ᱯᱷᱟᱭᱟᱨᱣᱟᱞ ᱛᱟᱭᱚᱢ ᱨᱮ ᱢᱮᱱᱟᱢᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱧᱮᱞ ᱢᱮ &brandShortName; ᱴᱷᱮᱱ ᱣᱮᱵᱽ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱜ ᱪᱷᱟᱲ ᱢᱮᱱᱟᱜᱼᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>माराङ आखोर ते ओल आर बाङ एटाक् टाइप भुल को. </li> <li> ञेल ला़गित् तेंघान में जुदी रेत् लाड़ाव लेन ताहेंना, दोहड़ा ञुतुम आर बाङ मेटाव लेना.</li> </ul>">
 
