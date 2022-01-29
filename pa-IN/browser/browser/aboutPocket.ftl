@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ਟੈਗ ਨੂੰ ਜੋੜੋ
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਸੀ।
 pocket-panel-saved-error-tag-length = ਟੈਗ 25 ਅੱਖਰਾਂ ਤੱਕ ਸੀਮਿਤ ਹਨ
 pocket-panel-saved-error-only-links = ਕੇਵਲ ਲਿੰਕਾਂ ਨੂੰ ਹੀ ਸੰਭਾਲਿਆ ਜਾ ਸਕਦਾ ਹੈ
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = ਤੁਸੀਂ { -pocket-brand-name } ਨੂੰ �
 pocket-panel-home-explore-popular-topics = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਚੋਲ ਕਰੋ
 pocket-panel-home-discover-more = ਹੋਰ ਲੱਭੋ
 pocket-panel-home-explore-more = ਪੜਚੋਲ
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = ਮੇਰੀ ਸੂਚੀ ਵੇਖੋ
+pocket-panel-header-sign-in = ਸਾਇਨ ਇਨ

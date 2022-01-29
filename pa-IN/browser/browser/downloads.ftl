@@ -43,9 +43,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
         }
     .accesskey = F
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = ਸਿਸਟਮ ਦਰਸ਼ਕ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = { $handler } ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -69,6 +79,15 @@ downloads-cmd-show-description =
             [macos] Finder ਵਿੱਚ ਵੇਖੋ
            *[other] ਰੱਖਣ ਵਾਲੇ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = ਹਮੇਸ਼ਾਂ { $handler } ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = w
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -112,6 +131,9 @@ downloads-cmd-clear-list =
     .accesskey = a
 downloads-cmd-clear-downloads =
     .label = ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .accesskey = D
+downloads-cmd-delete-file =
+    .label = ਹਟਾਓ
     .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
