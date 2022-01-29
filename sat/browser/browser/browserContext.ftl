@@ -207,6 +207,12 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-image-reload =
     .label = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱨᱩᱟᱹᱲ
     .accesskey = ᱪ
+main-context-menu-image-view-new-tab =
+    .label = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱪᱤᱛᱟᱹᱨ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱣᱤᱰᱤᱭᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = i
 main-context-menu-image-copy =
     .label = ᱪᱤᱛᱟᱹᱨ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = ᱪ
@@ -252,6 +258,9 @@ main-context-menu-plugin-hide =
 main-context-menu-save-to-pocket =
     .label = ᱥᱟᱦᱴᱟ { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .accesskey = k
+main-context-menu-send-to-device =
+    .label = ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱥᱟᱦᱴᱟ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+    .accesskey = n
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
