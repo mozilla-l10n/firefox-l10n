@@ -33,7 +33,10 @@ pocket-panel-signup-already-have = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱜᱮ { -pocket
 pocket-panel-signup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 pocket-panel-signup-login = ᱵᱚᱞᱚᱱ ᱢᱮ
 pocket-panel-signup-signup-email = ᱤᱢᱮᱞ ᱛᱮ ᱥᱟᱭᱤᱱ ᱟᱯ ᱢᱮ
+pocket-panel-signup-signup-cta = { -pocket-brand-name } ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱫᱚᱨᱚᱡᱽ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱯᱚᱞᱟ ᱜᱮᱭᱟ ᱾
 pocket-panel-signup-signup-firefox = { -brand-product-name } ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+pocket-panel-signup-tagline = ᱡᱟᱦᱟᱸ ᱛᱤᱥ ᱨᱮᱜᱮ,  { -brand-product-name } ᱠᱷᱚᱱ ᱰᱟᱩᱱᱞᱚᱰ ᱠᱟᱱ ᱚᱱᱚᱞ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱠᱚ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱜᱮ { -pocket-brand-name } ᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+pocket-panel-signup-tagline-story-one = { -brand-product-name } ᱠᱷᱚᱱ ᱡᱟᱦᱟᱸ ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
 pocket-panel-signup-tagline-story-two = ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱝ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ, ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱜᱮ { -pocket-brand-name } ᱧᱮᱞ ᱢᱮ ᱾
 
 ## about:pocket-home panel

@@ -209,7 +209,7 @@ about-logins-breach-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ
-about-logins-vulnerable-alert-text2 = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚ ᱮᱴᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱰᱟᱴᱟ ᱯᱚᱪᱚᱡ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
+about-logins-vulnerable-alert-text2 = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚ ᱮᱴᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱰᱟᱴᱟ ᱯᱚᱪᱚᱡ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾ ᱪᱤᱴᱷᱤ ᱮᱯᱮᱢ ᱜᱟᱶᱛᱟ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱵᱤᱯᱚᱫ ᱨᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾ ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
@@ -217,6 +217,11 @@ about-logins-vulnerable-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢ
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = ᱚᱱᱟ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱨᱮᱭᱟᱜ ᱢᱤᱫ ᱟᱫᱮᱨ { $loginTitle } ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜᱼᱟ ᱾ <a data-l10n-name="duplicate-link">ᱢᱟᱲᱟᱝᱟᱜ ᱟᱫᱮᱨ ᱛᱮ ᱪᱟᱞᱟᱜᱼᱟᱢ ᱥᱮ?</a>
 # This is a generic error message.
 about-logins-error-message-default = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱸᱪᱟᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ᱾
 
@@ -267,6 +272,18 @@ about-logins-import-dialog-items-added =
         [two] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱠᱤᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+        [two] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚ ᱠᱤᱱ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+       *[other] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚᱠᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>ᱵᱷᱩᱞ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
@@ -278,17 +295,22 @@ about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
 about-logins-import-dialog-error-conflicting-values-title = ᱢᱤᱫ ᱵᱚᱞᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱩᱨ ᱵᱤᱨᱚᱫᱷᱤ ᱢᱩᱞᱠᱚ
 about-logins-import-dialog-error-conflicting-values-description = ᱡᱮᱢᱚᱱ ᱢᱤᱫ ᱵᱚᱞᱚ ᱞᱟᱹᱜᱤᱫ ᱺ ᱟᱭᱢᱟ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ , ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ, URLs, etc ᱾
 about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
+about-logins-import-dialog-error-file-format-description = ᱵᱷᱩᱞ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱟᱫ ᱠᱟᱱ ᱠᱟᱸᱫᱷᱟ ᱧᱩᱛᱩᱢ ᱠᱚ ᱾ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱨᱮᱫ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱨ URL ᱞᱟᱹᱜᱤᱫ  ᱠᱟᱸᱫᱷᱟ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ᱴᱷᱮᱱ ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱪᱷᱟᱰ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾ ᱨᱮᱫ ᱪᱷᱟᱲ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 about-logins-import-dialog-error-unable-to-read-title = ᱨᱮᱫ ᱠᱚ ᱴᱷᱤᱠ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
+about-logins-import-dialog-error-unable-to-read-description = ᱢᱚᱱᱮ ᱛᱮ CSV ᱟᱨᱵᱟᱝᱠᱷᱟᱱ TSV ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 about-logins-import-dialog-error-no-logins-imported = ᱪᱮᱫ ᱵᱚᱞᱚ ᱠᱚ ᱦᱚᱸ ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-try-import-again = ᱟᱹᱜᱩ ᱩᱛᱟᱹᱨ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ…
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 about-logins-import-report-title = ᱟᱹᱜᱩ ᱵᱤᱵᱨᱚᱬ
+about-logins-import-report-description = ᱵᱚᱞᱚᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩ ᱠᱟᱱᱟ ᱾
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ᱛᱷᱟᱨ { $number }
+about-logins-import-report-row-description-no-change = ᱰᱩᱯᱞᱤᱠᱮᱴ : ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱡᱩᱲᱟᱹᱣ
 about-logins-import-report-row-description-modified = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱚᱞᱚ ᱠᱚ ᱟᱹᱯᱰᱮᱴᱮᱱᱟ
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 about-logins-import-report-row-description-error = ᱵᱷᱩᱞ: ᱟᱫ ᱡᱟᱭᱜᱟ
