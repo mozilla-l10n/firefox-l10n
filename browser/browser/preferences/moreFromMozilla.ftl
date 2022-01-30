@@ -5,12 +5,12 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } 的更多产品
+more-from-moz-title = { -vendor-short-name } 产品
 more-from-moz-category =
-    .tooltiptext = { -vendor-short-name } 的更多产品
-more-from-moz-subtitle = 一览致力于让互联网环境更健康的其他 { -vendor-short-name } 产品。
+    .tooltiptext = { -vendor-short-name } 产品
+more-from-moz-subtitle = 更多致力于让互联网环境更健康的 { -vendor-short-name } 产品。
 more-from-moz-firefox-mobile-title = { -brand-product-name } 移动版
-more-from-moz-firefox-mobile-description = 将您隐私置于首位的移动浏览器。
+more-from-moz-firefox-mobile-description = 以隐私为先的移动浏览器。
 more-from-moz-firefox-mobile-description-advanced = 从拦截跟踪器到阻止恼人的自动播放，{ -brand-product-name } 移动浏览器可为您时刻提供良好的上网体验。
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 探索更进一步的匿名浏览和保护机制。
