@@ -302,7 +302,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 applications-use-plugin-in =
     .label = 使用 { $plugin-name } （在 { -brand-short-name } 中）
 applications-open-inapp =
-    .label = 在 { -brand-short-name } 中打开
+    .label = 用 { -brand-short-name } 打开
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from

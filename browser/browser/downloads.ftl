@@ -54,7 +54,7 @@ downloads-cmd-use-system-default =
     .accesskey = V
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-use-system-default-named =
-    .label = 在 { $handler } 中打开
+    .label = 用 { $handler } 打开
     .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
@@ -79,6 +79,12 @@ downloads-cmd-show-description =
             [macos] 在访达中显示
            *[other] 打开所在文件夹
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = 总是使用 { $handler } 打开
+    .accesskey = w
 
 ##
 
