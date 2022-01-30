@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = 触控
     .accesskey = T
+menu-spaces-toolbar-button =
+    .label = 侧工具栏
+    .accesskey = S
 
 ## File
 

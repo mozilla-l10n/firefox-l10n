@@ -167,3 +167,22 @@ no-reply-reply-anyway-button = 仍然回复
 ## error messages
 
 decrypt-and-copy-failures = 共计 { $total } 条消息，有 { $failures } 条因解密失败而未复制。
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = 侧工具栏
+spaces-toolbar-button-mail =
+    .title = 切换到邮件标签页
+spaces-toolbar-button-address-book =
+    .title = 切换到通讯录标签页
+spaces-toolbar-button-calendar =
+    .title = 切换到日历标签页
+spaces-toolbar-button-tasks =
+    .title = 切换到任务标签页
+spaces-toolbar-button-chat =
+    .title = 切换到聊天标签页
+spaces-toolbar-button-settings =
+    .title = 切换到设置标签页
+spaces-toolbar-button-collapse =
+    .title = 折叠侧工具栏
