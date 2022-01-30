@@ -24,7 +24,7 @@ more-from-moz-mozilla-rally-description-advanced = Spenden Sie Ihre Daten an For
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Bei { -rally-short-name } mitmachen
-more-from-moz-qr-code-box-firefox-mobile-title = Laden Sie es mit Ihrem Mobilgerät herunter. Richten Sie Ihre Kamera auf den QR-Code. Wenn ein Link angezeigt wird, tippen Sie darauf.
+more-from-moz-qr-code-box-firefox-mobile-title = Laden Sie ihn mit Ihrem Mobilgerät herunter. Richten Sie Ihre Kamera auf den QR-Code. Wenn ein Link angezeigt wird, tippen Sie darauf.
 more-from-moz-qr-code-box-firefox-mobile-button = Stattdessen eine E-Mail an Ihr Telefon senden
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-Code zum Herunterladen von { -brand-product-name } für Mobilgeräte

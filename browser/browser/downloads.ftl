@@ -134,7 +134,7 @@ downloads-cmd-clear-downloads =
     .accesskey = L
 downloads-cmd-delete-file =
     .label = Löschen
-    .accesskey = ö
+    .accesskey = L
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Zugriff erlauben
