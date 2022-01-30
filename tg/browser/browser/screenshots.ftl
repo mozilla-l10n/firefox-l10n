@@ -5,6 +5,8 @@
 screenshot-toolbarbutton =
     .label = Акси экран
     .tooltiptext = Гирифтани акси экран
+screenshot-shortcut =
+    .key = S
 screenshots-cancel-button = Бекор кардан
 screenshots-save-visible-button = Нигоҳ доштани қисми намоён
 screenshots-save-page-button = Нигоҳ доштани саҳифаи пурра
