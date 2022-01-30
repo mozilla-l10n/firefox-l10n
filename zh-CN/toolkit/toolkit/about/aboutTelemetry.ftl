@@ -21,7 +21,7 @@ about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a>涵盖了数据收集的概念、API 文档以及数据格式的定义。
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a>用图形化展示了 Mozilla 通过遥测服务收集的数据。
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> 中提供遥测服务收集所探测资料的详细信息与说明。
-about-telemetry-show-in-Firefox-json-viewer = 在 JSON 查看器中打开
+about-telemetry-show-in-Firefox-json-viewer = 用 JSON 查看器打开
 about-telemetry-home-section = 主页
 about-telemetry-general-data-section = 常规数据
 about-telemetry-environment-data-section = 环境数据
