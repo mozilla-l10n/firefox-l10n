@@ -42,6 +42,7 @@ options-default-color-unit-authored = Izvirno
 options-default-color-unit-hex = Šestnajstiško
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Imena barv
 
 ## Style Editor section
@@ -101,6 +102,8 @@ options-enable-chrome-tooltip =
     .title = Če vključite to možnost, boste omogočili uporabo razvojnih orodij v oknu brskalnika (meni Orodja > Spletni razvoj > Razvojna orodja brskalnika) in razhroščevanje dodatkov iz Upravitelja dodatkov
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Omogoči oddaljeno razhroščevanje
+options-enable-remote-tooltip2 =
+    .title = Vklop te možnosti omogoči oddaljeno razhroščevanje tega primerka brskalnika
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Omogoči Service Workerje preko HTTP (ko so razvojna orodja odprta)
 options-enable-service-workers-http-tooltip =

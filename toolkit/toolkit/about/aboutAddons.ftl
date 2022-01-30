@@ -388,6 +388,7 @@ plugin-heading = Upravljanje vtičnikov
 dictionary-heading = Upravljanje slovarjev
 locale-heading = Upravljanje jezikov
 updates-heading = Upravljanje posodobitev
+sitepermission-heading = Upravljaj dovoljenja strani
 discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje bližnjic razširitev
 default-heading-search-label = Poišči več dodatkov
