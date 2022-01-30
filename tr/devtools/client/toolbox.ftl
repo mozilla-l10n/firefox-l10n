@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Topluluk…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Açılır pencerelerin otomatik gizlenmesini kapat
+toolbox-meatball-menu-pseudo-locale-accented = “Aksanlı” dili etkinleştir
+toolbox-meatball-menu-pseudo-locale-bidi = “Sağdan sola” dili etkinleştir
 
 ##
 
