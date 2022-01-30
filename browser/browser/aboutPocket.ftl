@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = 添加标签
-
 pocket-panel-saved-error-generic = 尝试保存到 { -pocket-brand-name } 时出错。
 pocket-panel-saved-error-tag-length = 标签不能超过 25 个字符
 pocket-panel-saved-error-only-links = 只有链接能被保存
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = 您可以使用 { -pocket-brand-name } 浏览和�
 pocket-panel-home-explore-popular-topics = 浏览热门话题
 pocket-panel-home-discover-more = 发现更多
 pocket-panel-home-explore-more = 发现
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = 查看我的列表
+pocket-panel-header-sign-in = 登录
