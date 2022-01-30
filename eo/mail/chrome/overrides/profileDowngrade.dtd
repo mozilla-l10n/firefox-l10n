@@ -12,4 +12,9 @@
 <!ENTITY window.title "Vi startigis malnovan version de &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "Pli nova versio de &brandProductName; povis fari ŝanĝojn al via profilo, kiuj ne estas kongruaj kun tiu ĉi malnova versio. Uzu tiun ĉi profilon nur kun tiu nova versio aŭ kreu novan profilon nur por tiu ĉi instalo de &brandShortName;. Post krei novan profilon, vi devos denove agordi viajn kontojn, kalendarojn kaj aldonaĵojn.">
 
+<!ENTITY window.moreinfo "Pli da informo…">
+<!ENTITY window.create "Krei novan profilon">
+<!ENTITY window.quit-win "Fermi">
+<!ENTITY window.quit-nonwin "Fermi">
