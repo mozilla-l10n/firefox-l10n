@@ -24,8 +24,10 @@ more-from-moz-mozilla-rally-description-advanced = 捐出您的数据用于研�
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = 加入 { -rally-short-name }
-more-from-moz-qr-code-box-firefox-mobile-title = 将移动设备的相机对准二维码，出现链接时点按即可开始下载。
+more-from-moz-qr-code-box-firefox-mobile-title = 扫描二维码，点按出现的链接即可开始下载。
 more-from-moz-qr-code-box-firefox-mobile-button = 改发电子邮件到您的手机
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = 二维码：下载 { -brand-product-name } 移动版
 more-from-moz-button-mozilla-vpn =
     .label = 下载 VPN
 more-from-moz-learn-more-link = 详细了解
