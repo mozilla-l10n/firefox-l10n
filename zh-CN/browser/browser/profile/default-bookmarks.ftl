@@ -10,6 +10,7 @@
 default-bookmarks-title = 书签
 default-bookmarks-heading = 书签
 default-bookmarks-toolbarfolder = 书签工具栏文件夹
+default-bookmarks-toolbarfolder-description = 此文件夹的书签会出现在书签工具栏上
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = 新手上路
 # Firefox links folder name
