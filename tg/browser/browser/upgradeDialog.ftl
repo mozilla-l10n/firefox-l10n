@@ -88,4 +88,6 @@ upgrade-dialog-colorway-variation-bold = Ғафс
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Ташаккур барои интихоби мо
 upgrade-dialog-thankyou-primary-button = Оғоз кардани тамошо
