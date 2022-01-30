@@ -43,8 +43,18 @@ downloads-cmd-show-menuitem-2 =
            *[other] Pokaż w folderze
         }
     .accesskey = P
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Otwórz w przeglądarce systemowej
+    .accesskey = O
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Otwórz w programie { $handler }
     .accesskey = O
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
@@ -69,6 +79,15 @@ downloads-cmd-show-description =
             [macos] Pokaż w Finderze
            *[other] Otwórz folder nadrzędny
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Zawsze otwieraj w programie { $handler }
+    .accesskey = w
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
