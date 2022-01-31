@@ -409,7 +409,7 @@ enable-devtools-popup-description = F1 2  դիւրանցումն աւգտագո�
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Մուտքագրէք կայքի հասցէ կամ որոնում
+    .placeholder = Որոնել կամ մուտքագրել հասցէն
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -441,7 +441,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Որոնէք { $name }֊ով կամ գրանցէք հասցէն
+    .placeholder = Որոել { $name }֊ով կամ մուտքագրել հասցէն
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -467,9 +467,9 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Որոնէք { $engine }֊ի մասնաւոր պատուհանում
+urlbar-result-action-search-in-private-w-engine = Որոնել { $engine }֊ով գաղտնի պատուհանում
 # Used when the private browsing engine is the same as the default engine.
-urlbar-result-action-search-in-private = Որոնէք  մասնաւոր պատուհանում
+urlbar-result-action-search-in-private = Որոնել գաղտնի պատուհանում
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables

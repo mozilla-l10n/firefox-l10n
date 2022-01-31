@@ -230,6 +230,60 @@ onboarding-multistage-theme-description-alpenglow =
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title = Հետեւել գործարքային համակարգի ոճերին՝ կոճակների, ցանկի եւ պատուհանների համար։
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description = Հետեւել գործարքային համակարգի ոճերին՝ կոճակների, ցանկի եւ պատուհանների համար։
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title = Ագտագործել լուսաւոր ոճ՝ կոճակների ընտրացուցակի եւ պատուհանների համար։
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description = Աւգտագործել լուսաւոր ոճ՝ կոճակների, ցանկերի եւ պատուհանների համար։
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title = Աւգտագործել մուգ ոճ՝ կոճակների, ցանկերի եւ պատուհանների համար։
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description = Աւգտագործել մուգ ոճ՝ կոճակների, ցանկերի եւ պատուհանների համար։
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title = Աւգտագործել գունաւոր ոճ՝ կոճակների, ցանկերի եւ պատուհանների համար։
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description = Աւգտագործել գունաւոր ոճ կոճակների, ցանկերի եւ պատուհանների համար։
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Գործածել այս գունազարդումը
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Գործածել այս գունազարդումը
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Բացայայտել { $colorwayName } գունազարդումները
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-description =
+    .aria-description = Բացայայտել { $colorwayName } գունազարդւմները
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Բացայայտել { $colorwayName } գունազարդումները
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Բացայայտել լռելեայն ոճերը
+# Selector description for default themes
+mr2-onboarding-default-theme-description =
+    .aria-description = Բացայայտել լռելյայն ոճերը
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Բացայայտել լռելեայն ոճերը
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Շնորհակալ ենք, մեզ ընտրելու համար
+mr2-onboarding-thank-you-text = { -brand-short-name } ազատ զննարկիչ է, որն պատրաստուում է շահոյթ չհետապնդող կազմակերպութեան կողմից: Միասին մենք համացանը դարձնում ենք առավել ապագով, առողջ եւ գաղտնի:
+mr2-onboarding-start-browsing-button-label = Սկսել զննումը
