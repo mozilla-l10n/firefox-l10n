@@ -701,7 +701,7 @@
 <!ENTITY deleteColumn.label "Διαγραφή">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Επιλογή στηλών για προβολή">
+<!ENTITY columnChooser2.tooltip "Επιλέξτε στήλες προς εμφάνιση">
 <!ENTITY selectColumn.tooltip "Εναλλαγή επιλογής όλων των μηνυμάτων">
 <!ENTITY threadColumn2.tooltip "Προβολή νημάτων μηνυμάτων">
 <!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
