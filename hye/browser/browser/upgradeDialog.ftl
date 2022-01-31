@@ -19,6 +19,7 @@ upgrade-dialog-new-secondary-button = Ոչ հիմայ
 
 ## Default browser screen
 
+upgrade-dialog-default-primary-button-2 = Ստեղծել սկզբնադիր զննարկիչը
 upgrade-dialog-default-secondary-button = Ոչ հիմայ
 
 ## Theme selection screen
@@ -29,6 +30,8 @@ upgrade-dialog-default-secondary-button = Ոչ հիմայ
 
 ## Colorway screen
 
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Ուսումնասիրել հիմնական ոճերը
 upgrade-dialog-colorway-default-theme = Սկզբնադիր
 
 ## Thank you screen
