@@ -172,6 +172,10 @@ decrypt-and-copy-failures = Δεν ήταν δυνατή η αποκρυπτογ
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Γραμμή χώρων
+spaces-toolbar-button-mail =
+    .title = Μετάβαση στην καρτέλα αλληλογραφίας
 spaces-toolbar-button-address-book =
     .title = Εναλλαγή στην καρτέλα ευρετηρίων
 spaces-toolbar-button-calendar =
@@ -182,3 +186,5 @@ spaces-toolbar-button-chat =
     .title = Εναλλαγή στην καρτέλα συνομιλίας
 spaces-toolbar-button-settings =
     .title = Εναλλαγή στην καρτέλα ρυθμίσεων
+spaces-toolbar-button-collapse =
+    .title = Σύμπτυξη γραμμής χώρων
