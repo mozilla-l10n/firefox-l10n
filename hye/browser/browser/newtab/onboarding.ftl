@@ -40,9 +40,9 @@ onboarding-multistage-welcome-secondary-button-label = Գրանցուել
 onboarding-multistage-welcome-secondary-button-text = Ունէ՞ք հաշիւ։
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
-onboarding-multistage-set-default-header = { -brand-short-name }-ը դարձրէք Ձեզ <span data-l10n-name="zap"> լռելեայն </span>
+onboarding-multistage-set-default-header = { -brand-short-name }-ը դարձրէք Ձեզ <span data-l10n-name="zap"> սկզբնադիր </span>
 onboarding-multistage-set-default-subtitle = Արագութիւն, անվտանգութիւն եւ գաղտնիութիւն իւրաքանչիւր դիտարկման ժամանակ։
-onboarding-multistage-set-default-primary-button-label = Դարձնել լռելեայն
+onboarding-multistage-set-default-primary-button-label = Դարձնել սկզբնադիր
 onboarding-multistage-set-default-secondary-button-label = Ոչ հիմա
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
@@ -127,16 +127,16 @@ mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-sh
     .title = Տեղադրել { -brand-short-name } ֊ը որպէս լռելեայն զննարկիչ եւ ամրեցնել խնդրագաւտում
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Սարքել { -brand-short-name } ֊ը իմ լռելեայն զննարկիչը
+mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name } ֊ը իմ սկզբնադիր զննարկիչը
 mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը լռելեայն
+mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը սկզբնադիր
 mr1-onboarding-default-subtitle = Սահմանել արագութիւն, անվտանգութիւն եւ գաղտնիութիւն  ինքնակառավարչի վրայ։
-mr1-onboarding-default-primary-button-label = Դարձնել լռելեայն զննարկիչ
+mr1-onboarding-default-primary-button-label = Դարձնել սկզբնադիր զննարկիչ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -161,7 +161,7 @@ mr2-onboarding-colorway-label-bold = Թաւ
 # Automatic theme uses operating system color settings
 mr2-onboarding-theme-label-auto = Ինքաշխատ
 # This string will be used for Default theme
-mr2-onboarding-theme-label-default = Լռելեայն
+mr2-onboarding-theme-label-default = Սկզբանդիր
 mr1-onboarding-theme-header = Սեփականացնել
 mr1-onboarding-theme-subtitle = Յարմարեցնել { -brand-short-name }֊ը ոճով։
 mr1-onboarding-theme-primary-button-label = Պահպանել ոճը
@@ -275,12 +275,12 @@ mr2-onboarding-colorway-description =
 mr2-onboarding-colorway-label = Բացայայտել { $colorwayName } գունազարդումները
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = Բացայայտել լռելեայն ոճերը
+    .title = Բացայայտել սկզբնադիր ոճերը
 # Selector description for default themes
 mr2-onboarding-default-theme-description =
-    .aria-description = Բացայայտել լռելյայն ոճերը
+    .aria-description = Բացայայտել սկզբնադիր ոճերը
 # Selector description for default themes
-mr2-onboarding-default-theme-label = Բացայայտել լռելեայն ոճերը
+mr2-onboarding-default-theme-label = Բացայայտել սկզբնադիր ոճերը
 
 ## Strings for Thank You page
 

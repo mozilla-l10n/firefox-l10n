@@ -58,7 +58,7 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Խոցելի գաղտնաբառ
 about-logins-list-section-breach = Կատրուած կայքեր
 about-logins-list-section-vulnerable = Խոցելի գաղտնաբառեր
-about-logins-list-section-nothing = ոչ մի ահազանգ
+about-logins-list-section-nothing = Ահազանգ չկայ
 about-logins-list-section-today = Այսաւր
 about-logins-list-section-yesterday = Երէկ
 about-logins-list-section-week = Վերջին եաւթ աւրը
@@ -71,10 +71,10 @@ login-intro-description = Եթե պահպանել էք Ձեր մուտքանու
 login-intro-instructions-fxa = Գրանցուէք կամ մուտք գործէք Ձեր { -fxaccount-brand-name } հաշիւ, այն սարքով որում պահուած են մուտքանունները
 login-intro-instructions-fxa-settings = Գնալ Կարգաւորումներ > Համաժամեցում > Միացրէք համաժամեցումը… Ընտրէք Մուտքեր եւ գաղտնաբառեր վանդակը:
 login-intro-instructions-fxa-help = Լրացուցիչ աւգնութեան համար այցելէք <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Սպասարկում</a>
-about-logins-intro-import = Եթե Ձեր մուտքանուններն այլ զննարկիչում են պահպանուած, դուք կարող էք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
+about-logins-intro-import = Եթե մուտքանուններն պահուած են այլ զննարկիչում, կարող էք <a data-l10n-name="import-link">-ից դրանք ներածել { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = անցէք <a data-l10n-name="passwords-help-link"> յղումով գաղտնաբառերի կարգաւորման համար։ </a> ՝ յաւելեալ աւգնութեան համար
 about-logins-intro-browser-only-import = Եթե Ձեր մուտքային տուեալները պահպանուած են մեկ այղ զննարկչում, կարող էք՝<a data-l10n-name="import-link"> ներմուծել դրանք ՝{ -brand-product-name } ֊ի մէջ</a>
-about-logins-intro-import2 = Եթե ձեր գրանցումները պահուած են { -brand-product-name }֊ից դուրս, դուք կարող էք <a data-l10n-name="import-browser-link"> ներմուծել այլ դիտարկչից</a> կամ <a data-l10n-name="import-file-link">from a file</a>
+about-logins-intro-import2 = Եթե գրանցումները պահուած են { -brand-product-name }֊ից դուրս, կարող էք <a data-l10n-name="import-browser-link"> ներածել դրանք այլ զննարկիչից </a> կամ <a data-l10n-name="import-file-link">այլ նիշից </a>
 
 ## Login
 

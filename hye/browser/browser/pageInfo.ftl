@@ -148,7 +148,7 @@ media-select-folder = Ընտրեք թղթապանակ՝ պատկերները պ�
 media-unknown-not-cached =
     .value = Անյայտ (չի մտապահուել)
 permissions-use-default =
-    .label = Աւգտագործել լռելեայն
+    .label = Աւգտագործել սկզբնադիր
 security-no-visits = Ոչ
 # This string is used to display the number of meta tags
 # in the General Tab
