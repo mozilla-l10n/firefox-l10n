@@ -111,8 +111,8 @@ always-check-default =
 is-default = { -brand-short-name }-ն այժմ ձեր լռելեայն զննարկիչն է
 is-not-default = { -brand-short-name }-ն ձեր հիմնական դիտարկիչը չէ
 set-as-my-default-browser =
-    .label = Դարձնել լռելեայն...
-    .accesskey = լ
+    .label = Դարձնել սկզբնադիր...
+    .accesskey = ս
 startup-restore-previous-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
     .accesskey = s
@@ -187,8 +187,8 @@ containers-remove-cancel-button = Չհեռացնել այս պարունակը
 
 language-and-appearance-header = Լեզուն եւ տեսքը
 fonts-and-colors-header = Տառատեսակները եւ Գոյները
-default-font = Լռելեայն տառատեսակը
-    .accesskey = Հ
+default-font = Սկզբնադիր տառատեսակ
+    .accesskey = Ս
 default-font-size = Չափը
     .accesskey = Չ
 advanced-fonts =
@@ -199,7 +199,7 @@ colors-settings =
     .accesskey = Գ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Խոշորացում
-preferences-default-zoom = Լռելեայն խոշորացում
+preferences-default-zoom = Սկզբնադիր խոշորացում
     .accesskey = խ
 preferences-default-zoom-value =
     .label = { $percentage }%
@@ -278,13 +278,13 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Աւգտագործել { $app-name }-ը (լռելեայն)
+    .label = Աւգտագործել { $app-name }-ը (սկզբնադիր)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Աւգտագործել macOS լռելեայն յաւելուածը
-            [windows] Աւգտագործել Windows-ի լռելեայն յաւելուածը
-           *[other] Աւգտագործել համակարգի լռելեայն յաւելուածը
+            [macos] Աւգտագործել macOS սկզբնադիր յաւելուածը
+            [windows] Աւգտագործել Windows-ի սկզբնադիր յաւելուածը
+           *[other] Աւգտագործել համակարգի սկզբնադիր յաւելուածը
         }
 applications-use-other =
     .label = Աւգտագործել մեկ ուրիշը…
@@ -390,7 +390,7 @@ performance-limit-content-process-blocked-desc = Հնարաւոր է փոփոխ�
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (լռելեայն)
+    .label = { $num } (սկզբնադիր)
 
 ## General Section - Browsing
 
@@ -445,7 +445,7 @@ home-new-windows-tabs-description2 = Ընտրէք, թե ինչ տեսնել՝ տ
 home-homepage-mode-label = Տնէջ եւ նոր պատուհաններ
 home-newtabs-mode-label = Նոր Ներդիրներ
 home-restore-defaults =
-    .label = Վերականգնել լռելեայն
+    .label = Վերականգնել սկզբնադիր
     .accesskey = Վ
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
