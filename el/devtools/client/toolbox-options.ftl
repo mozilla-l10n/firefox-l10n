@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ενεργοποίηση απομακρυσμένου ελέγχου σφαλμάτων
 options-enable-remote-tooltip2 =
     .title = Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει τον απομακρυσμένο έλεγχο σφαλμάτων σε αυτό το παράθυρο του προγράμματος περιήγησης
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Ενεργοποίηση προσαρμοσμένων μορφοποιητών
+options-enable-custom-formatters-tooltip =
+    .title = Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει στους ιστοτόπους να ορίζουν προσαρμοσμένους μορφοποιητές για αντικείμενα DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Ενεργοποίηση service worker μέσω HTTP (όταν είναι ανοικτή η εργαλειοθήκη)
 options-enable-service-workers-http-tooltip =

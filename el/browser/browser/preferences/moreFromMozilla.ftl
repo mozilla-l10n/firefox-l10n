@@ -16,6 +16,9 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Εγγραφή στο { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Εγγραφή στο { -rally-short-name }
 more-from-moz-button-mozilla-vpn =
     .label = Λήψη του VPN
+more-from-moz-button-mozilla-vpn-2 = Λήψη VPN
 more-from-moz-learn-more-link = Μάθετε περισσότερα
