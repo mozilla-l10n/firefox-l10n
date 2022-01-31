@@ -6,7 +6,7 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 # "Auto" is short for automatic. It can be localized without limitations.
-extension-default-theme-name-auto = Համակարգի հիմնապատկեր ֊ ինքնաշխատ․
+extension-default-theme-name-auto = Համակարգի ոճ ֊ ինքնաշխատ
 extension-default-theme-description = Հետեւել գործարկային համակարգի կոճակների, ցանկերի և պատուհանների համար նախատեսուած կարգաւորումներին:
 extension-firefox-compact-light-name = Լուսաւոր
 extension-firefox-compact-light-description = Լուսաւոր գունաւորմամբ հիմնապատկեր։

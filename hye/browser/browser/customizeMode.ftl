@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Վերականգնել սկզբնադիրը
+    .label = Վերականգնել սկզբնադիրները
 customize-mode-menu-and-toolbars-header = Քաշեք Ձեր ընտրեալ միոյթները գործիքագաւտի կամ գերլցուած ցանկ։
 customize-mode-overflow-list-title = Լցուող ցանկ
 customize-mode-uidensity =

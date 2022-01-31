@@ -141,11 +141,37 @@ mr1-onboarding-default-primary-button-label = Դարձնել լռելեայն զ
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-header = Բերեք այդ ամէնը ձեր հետ
+mr1-onboarding-import-subtitle = Ներածել գաղտնաբառերը, <br/> էջանիշները եւ աւելին։
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Ներածել { $previous } ֊ից
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Ներածել նախորդ զննարկչից
 mr1-onboarding-import-secondary-button-label = Ոչ հիմայ
+mr2-onboarding-colorway-header = Կյանքը գոյների մէջ
+mr2-onboarding-colorway-subtitle = Նոր գունագեղ գունազարդումներ։ Հասանելի սահմանափակ ժամանակով։
+mr2-onboarding-colorway-primary-button-label = Պահպանել գունազարդումը
 mr2-onboarding-colorway-secondary-button-label = Ոչ հիմայ
+mr2-onboarding-colorway-label-soft = Նուրբ
+mr2-onboarding-colorway-label-balanced = Հաւասարակշռուած
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Թաւ
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Ինքաշխատ
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Լռելեայն
+mr1-onboarding-theme-header = Սեփականացնել
+mr1-onboarding-theme-subtitle = Յարմարեցնել { -brand-short-name }֊ը ոճով։
+mr1-onboarding-theme-primary-button-label = Պահպանել ոճը
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմայ
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Ծրագրի ոճ
+mr1-onboarding-theme-label-light = Բաց
+mr1-onboarding-theme-label-dark = Մուգ
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -201,6 +227,9 @@ onboarding-multistage-theme-description-alpenglow =
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title = Հետեւել գործարքային համակարգի ոճերին՝ կոճակների, ցանկի եւ պատուհանների համար։
 
 ## Strings for Thank You page
 

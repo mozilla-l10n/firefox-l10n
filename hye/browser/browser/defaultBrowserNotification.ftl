@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>Սահմանե՞լ { -brand-short-name }֊ը որպէս սկզբնադիր դիտարկիչ։</strong> Վայելէք արագ, ապահով եւ գաղտնի դիտարկում ամէն անգամ, երբ աւգտուում էք համացանցից։
+default-browser-notification-message = <strong>Սահմանե՞լ { -brand-short-name }֊ը որպէս սկզբնադիր զննարկիչ։</strong> Ստացէք արագ, ապահով եւ գաղտնի զննակում, երբ աւգտուում էք համացանցից։
 default-browser-notification-button =
-    .label = Սահմանել որպէս լռելեայն
+    .label = Սահմանել որպէս սկզբնադիր
     .accesskey = Ս
 
 ## These strings are used for the default browser prompt. There are 2 variations

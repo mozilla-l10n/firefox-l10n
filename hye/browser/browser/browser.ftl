@@ -185,11 +185,11 @@ search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = T
 search-one-offs-context-set-as-default =
-    .label = Հաստատել որպէս հիմնական որոնիչ
-    .accesskey = D
+    .label = Սահմանել որպէս սկզբնադիր որոնիչ ծրագիր
+    .accesskey = ս
 search-one-offs-context-set-as-default-private =
-    .label = Սահմանել որպէս լռելեայն որոնման միջոց անձնական պատուհանների համար
-    .accesskey = P
+    .label = Սահմանել որպէս սկզբնադիր որոնման ծրագիր գաղտնի պատուհանների համար
+    .accesskey = գ
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
