@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Anneta oma andmed teadusuurin
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Liitu { -rally-short-name }ga
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Liitu { -rally-short-name }ga
 more-from-moz-qr-code-box-firefox-mobile-title = Laadi alla mobiilse seadme abil. Lihtsalt suuna oma kaamera QR-koodi peale. Lingi ilmumisel puuduta seda.
 more-from-moz-qr-code-box-firefox-mobile-button = Saada selle asemel mobiilsele seadmele hoopis e-kiri
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-kood rakenduse { -brand-product-name } Mobile allalaadimiseks
 more-from-moz-button-mozilla-vpn =
     .label = Hangi VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-kood rakenduse { -brand-product-name } Mobile allalaadimiseks
+more-from-moz-button-mozilla-vpn-2 = Hangi VPN
 more-from-moz-learn-more-link = Rohkem teavet
