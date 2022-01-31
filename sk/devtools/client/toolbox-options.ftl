@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Povoliť vzdialené ladenie
 options-enable-remote-tooltip2 =
     .title = Zapnutím tejto možnosti umožníte ladenie tejto inštancie prehliadača na diaľku
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Povoliť vlastné formátovače
+options-enable-custom-formatters-tooltip =
+    .title = Zapnutie tejto možnosti umožní webovým stránkam definovať vlastné formátovače pre objekty DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Povoliť skripty typu worker cez HTTP (ak je súprava nástrojov otvorená)
 options-enable-service-workers-http-tooltip =
