@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Galluogi dadfygio pell
 options-enable-remote-tooltip2 =
     .title = Bydd troi'r dewis hwn ymlaen yn caniatáu dadfygio enghraifft y porwr hwn o bell
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Galluogi fformatwyr cyfaddas
+options-enable-custom-formatters-tooltip =
+    .title = Bydd troi'r dewis hwn ymlaen yn caniatáu i wefannau ddiffinio fformatwyr personol ar gyfer gwrthrychau DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Galluogi Service Workers dros HTTP (pan fydd y blwch offer ar agor)
 options-enable-service-workers-http-tooltip =
