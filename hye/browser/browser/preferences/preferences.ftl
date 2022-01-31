@@ -8,6 +8,18 @@ do-not-track-option-default-content-blocking-known =
     .label = Միայն երբ { -brand-short-name }-ն արգելափակում է յայտնի հետագծիչները
 do-not-track-option-always =
     .label = Միշտ
+settings-page-title = Կարգաւորումներ
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Փնտրել կարգաւորումներում
 managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 category-list =
     .aria-label = Անուանակարգեր
@@ -23,6 +35,9 @@ category-search =
 pane-privacy-title = Գաղտնիութիւն եւ անվտանգութիւն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = Համաժամեցում
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } Փորձարկումներ
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձարկումներ

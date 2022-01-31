@@ -24,3 +24,10 @@ more-from-moz-mozilla-rally-description-advanced = Նուիրաբերէք ձեր
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Միանալ { -rally-short-name }-ին
+more-from-moz-qr-code-box-firefox-mobile-title = Ներբեռնել բջջային ցանցի միջոցով։ Ուղղէք տեսախցիկը QR այղագրի վրայ, երբ յղում յայտնուի, անցէք յղումով:
+more-from-moz-qr-code-box-firefox-mobile-button = Ուղարկել նամակը հեռախաւսին
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR այղագիր { -brand-product-name } Բջջային յաւելուածի բեռնման համար
+more-from-moz-button-mozilla-vpn =
+    .label = Ձեռք բերել VPN
+more-from-moz-learn-more-link = Իմանալ աւելին

@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Թոյլատրել
     .accesskey = Թ
+permissions-button-off =
+    .label = Անջատել
+    .accesskey = Ա
+permissions-button-off-temporarily =
+    .label = Անջատել ժամանակաւորապէս
+    .accesskey = Ա
 permissions-site-name =
     .label = Կայք
 permissions-status =
@@ -52,6 +58,10 @@ permissions-capabilities-listitem-block =
     .value = Արգելել
 permissions-capabilities-listitem-allow-session =
     .value = Թոյլատրել աշխատաշրջանում
+permissions-capabilities-listitem-off =
+    .value = Անջատուած
+permissions-capabilities-listitem-off-temporarily =
+    .value = Անջատել ժամանակաւորապէս
 
 ## Invalid Hostname Dialog
 
@@ -74,6 +84,9 @@ permissions-exceptions-cookie-desc = Կարող էք յատկորոշել, թե 
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window =
+    .title = Բացառութիւններ - HTTPS - Միակ գործելակերպ
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
