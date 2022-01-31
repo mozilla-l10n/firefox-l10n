@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Darće slědźenskim studijam
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = So na { -rally-short-name } wobdźělić
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = So na { -rally-short-name } wobdźělić
 more-from-moz-qr-code-box-firefox-mobile-title = Sćehńće z pomocu swojeho mobilneho grata. Měrće swoju kameru na QR-kod. Hdyž so wotkaz jewi, podótkńće so jeho.
 more-from-moz-qr-code-box-firefox-mobile-button = Sćelće město toho mejlku na swój telefon
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-kod za sćehnjenje mobilneho telefona { -brand-product-name }
 more-from-moz-button-mozilla-vpn =
     .label = VPN wobstarać
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-kod za sćehnjenje mobilneho telefona { -brand-product-name }
+more-from-moz-button-mozilla-vpn-2 = VPN wobstarać
 more-from-moz-learn-more-link = Dalše informacije
