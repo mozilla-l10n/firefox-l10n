@@ -291,6 +291,7 @@ cloud-file-template-download-limit = Όριο λήψεων:
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Σφάλμα σύνδεσης
+cloud-file-connection-error = Το { -brand-short-name } είναι εκτός σύνδεσης. Δεν ήταν δυνατή η σύνδεση στο { $provider }.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Το ανέβασμα του { $filename } στο { $provider } απέτυχε

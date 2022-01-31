@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Αφή
     .accesskey = Α
+menu-spaces-toolbar-button =
+    .label = Γραμμή χώρων
+    .accesskey = χ
 
 ## File
 
