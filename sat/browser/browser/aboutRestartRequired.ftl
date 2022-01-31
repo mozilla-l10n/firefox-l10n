@@ -4,4 +4,5 @@
 
 restart-required-title = ᱫᱚᱦᱚᱲᱟ ᱮᱢᱚᱵᱽ ᱢᱮ
 restart-required-header = ᱤᱠᱟᱹ᱾ ᱞᱟᱦᱟ ᱥᱮᱫ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱮ ᱠᱷᱟᱹᱞᱤ ᱢᱤᱫ ᱦᱩᱰᱤᱝ ᱡᱤᱱᱤᱥ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤᱭᱟᱞᱮᱭᱟ ᱾
+restart-required-heading = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱽ ᱢᱮ
 restart-button-label = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
