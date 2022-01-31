@@ -461,6 +461,29 @@ key-ring-enc-sub-keys-expired = Kõik võtme { $userId } (võtme ID { $keyId }) 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Pilt
 user-att-photo = Kasutaja atribuut (JPEG-pilt)
+# Strings in key.jsm
+already-revoked = See võti on juba tühistatud.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Oled tühistamas võtit ‘{ $identity }’.
+    Sul pole võimalik enam selle võtmega allkirjastada ja pärast levitamist ei saa teised enam selle võtmega krüptida. Saad seda endiselt kasutada, et dekrüptida vanu kirju.
+    Kas soovid jätkata?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Sul pole võtit (ux{ $keyId }), mis vastaks sellele tühistamise serdile.
+    Kui oled kaotanud oma võtme, siis pead selle importima (näiteks võtmete serverist) enne tühistusserdi importimist!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Võti 0x{ $keyId } on juba tühistatud.
+key-man-button-revoke-key = &Tühista võti
+openpgp-key-revoke-success = Võti tühistati edukalt.
+after-revoke-info =
+    Võti on tühistatud.
+    Jaga seda avalikku võtit uuesti, saates see e-postiga või laadides üles võtmete serverisse, et anda teistele teada selle tühistamisest.
+    Kohe, kui teiste poolt kasutatav tarkvara saab teada võtme tühistamisest, lõpetab see sinu vana võtme kasutamise.
+    Kui oled kasutamas uut võtit sama e-posti aadressi jaoks ja lisad selle avaliku võtme oma saadetavatele kirjadele, siis lisatakse automaatselt ka info vana võtme tühistamise kohta.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Impordi
+delete-key-title = Kustuta OpenPGP võti
 
 # Strings used in enigmailMessengerOverlay.js
 
