@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Experimental support for allowing 
 experimental-features-ime-search =
     .label = Address Bar: show results during IME composition
 experimental-features-ime-search-description = An IME (Input Method Editor) is a tool that allows you to enter complex symbols, such as those used in East Asian or Indic written languages, using a standard keyboard. Enabling this experiment will keep the address bar panel open, showing search results and suggestions, while using IME to input text. Note that the IME might display a panel that covers the address bar results, therefore this preference is only suggested for IME not using this type of panel.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 kasutajaagendi tunnus
+experimental-features-firefox-100-description = Seadista { -brand-short-name } saatma veebilehtedele kasutajaagendi tunnust, mis paistab välja nii nagu saiti külastaks { -brand-product-name }i versioon 100. Kasuta seda sätet, et testida, kas saidil tekib probleeme, kui { -brand-short-name } hakkab kandma 3-kohalist versiooninumbrit. Tõeline { -brand-product-name } 100 on ajastatud välja tulema mais 2022, nii et alusta testimist juba praegu!
