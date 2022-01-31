@@ -80,6 +80,16 @@ menu-file-open-file =
 menu-file-close =
     .label = Փակել
     .accesskey = Փ
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Փակել ներդիրը
+            [one] Փակել { $tabCount } ներդիրները
+           *[other] Փակել { $tabCount } ներդիրները
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = Փակել Պատուհանը
     .accesskey = տ
