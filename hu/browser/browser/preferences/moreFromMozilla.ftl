@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Ajánlja fel az adatait olyan
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Csatlakozás a { -rally-short-name }hoz
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Csatlakozás a { -rally-short-name }hoz
 more-from-moz-qr-code-box-firefox-mobile-title = Töltse le a mobileszközével. Irányítsa a kamerát a QR-kódra. Amikor megjelenik egy hivatkozás, koppintson rá.
 more-from-moz-qr-code-box-firefox-mobile-button = Inkább e-mail küldése a telefonjára
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-kód a mobilos { -brand-product-name } letöltéséhez
 more-from-moz-button-mozilla-vpn =
     .label = VPN beszerzése
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-kód a mobilos { -brand-product-name } letöltéséhez
+more-from-moz-button-mozilla-vpn-2 = VPN beszerzése
 more-from-moz-learn-more-link = További tudnivalók
