@@ -80,10 +80,10 @@ fonts-default-serif =
 fonts-default-sans-serif =
     .label = Sans Serif
 fonts-proportional-size = Չափը
-    .accesskey = z
-fonts-serif = Յստակ
+    .accesskey = փ
+fonts-serif = Serif
     .accesskey = S
-fonts-sans-serif = Յստակ֊գծիկաւոր
+fonts-sans-serif = Sans-serif
     .accesskey = n
 fonts-monospace = Monospace
     .accesskey = M
@@ -99,6 +99,6 @@ fonts-allow-own =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Լռելեայն՝ ({ $name })
+    .label = Սկզբնադիր՝ ({ $name })
 fonts-label-default-unnamed =
-    .label = Լռելեայն
+    .label = Սկզբնադիր
