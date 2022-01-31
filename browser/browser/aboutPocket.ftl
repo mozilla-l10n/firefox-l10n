@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = { -pocket-brand-name }’ı kullanarak web sayfala
 pocket-panel-home-explore-popular-topics = Popüler konuları keşfedin
 pocket-panel-home-discover-more = Daha fazlasını keşfedin
 pocket-panel-home-explore-more = Keşfet
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Listemi göster
+pocket-panel-header-sign-in = Giriş yap

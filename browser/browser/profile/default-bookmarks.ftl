@@ -10,6 +10,7 @@
 default-bookmarks-title = Yer imleri
 default-bookmarks-heading = Yer imleri
 default-bookmarks-toolbarfolder = Yer İmleri araç çubuğu klasörü
+default-bookmarks-toolbarfolder-description = Yer imleri araç çubuğunda görmek istediğiniz yer imlerini bu klasöre ekleyin
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/about/
