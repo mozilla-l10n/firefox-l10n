@@ -35,3 +35,4 @@ bookmark-overlay-keyword-2 =
     .value = Բանալի բառ
     .accesskey = Բ
 bookmark-overlay-tags-caption-label = Գործածել  նշումներ՝ հասցէագաւտուց էջանիշների փնտրումը կարգաւորելու համար
+bookmark-overlay-keyword-caption-label-2 = Աւգտագործել հիմնաբառ՝ էջանշերը միանգամից հասցեագրից բացելու համար

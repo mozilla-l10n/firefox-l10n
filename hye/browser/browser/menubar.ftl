@@ -80,6 +80,16 @@ menu-file-open-file =
 menu-file-close =
     .label = Փակել
     .accesskey = C
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Փակել ներդիրը
+            [one] Փակել { $tabCount } Ներդիր
+           *[other] Փ
+        }
+    .accesskey = Փ
 menu-file-close-window =
     .label = Փակել պատուհանը
     .accesskey = d
@@ -131,6 +141,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Գործիքագաւտիներ
     .accesskey = T
+menu-view-customize-toolbar2 =
+    .label = Կարգաւորել գործիքագաւտին…
+    .accesskey = Յ
 menu-view-sidebar =
     .label = Կողային վահանակ
     .accesskey = e
@@ -164,6 +177,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Էջի հիմնական ոճ
     .accesskey = B
+menu-view-repair-text-encoding =
+    .label = Վերականգնել տեքստի այղագրումը
+    .accesskey = Կ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -216,6 +232,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Կառավարել Էջանշերը
+menu-bookmark-current-tab =
+    .label = Էջանշել ընթացիկ ներդիրը
 menu-bookmark-edit =
     .label = Խմբագրել այս էջանիշը
 menu-bookmarks-all-tabs =
@@ -235,15 +253,27 @@ menu-tools =
 menu-tools-downloads =
     .label = Ներբեռնումներ
     .accesskey = D
+menu-tools-addons-and-themes =
+    .label = Յաւելումներ և ոճ
+    .accesskey = Ա
 menu-tools-fxa-sign-in2 =
     .label = Մուտք գործել
     .accesskey = զ
+menu-tools-turn-on-sync2 =
+    .label = Միացնել համաժամեցումը…
+    .accesskey = Մ
 menu-tools-sync-now =
     .label = Համաժամեցնել հիմա
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Վերակապակցուել { -brand-product-name }…
     .accesskey = R
+menu-tools-browser-tools =
+    .label = Դիտարկչի գործիքներ
+    .accesskey = Դ
+menu-tools-task-manager =
+    .label = Առաջադրանքների ղեկավար
+    .accesskey = ղ
 menu-tools-page-source =
     .label = Էջի աղբիւր
     .accesskey = o
@@ -285,11 +315,20 @@ menu-help =
 menu-get-help =
     .label = Ստանալ աւգնութիւն
     .accesskey = ա
+menu-help-more-troubleshooting-info =
+    .label = Տեղեկատուութիւն շտկման վերաբերեալ
+    .accesskey = խ
 menu-help-report-site-issue =
     .label = Զեկուցել կայքի թողարկման մասին…
 menu-help-feedback-page =
     .label = Հաստատման արձագանք…
     .accesskey = S
+menu-help-enter-troubleshoot-mode2 =
+    .label = Շտկման ձեւ…
+    .accesskey = Կ
+menu-help-exit-troubleshoot-mode =
+    .label = Անջատել խափանաշտկումը
+    .accesskey = ե
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

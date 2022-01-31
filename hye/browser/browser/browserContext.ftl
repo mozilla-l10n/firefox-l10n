@@ -387,3 +387,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Ցուցադրել գաղտնաբառը
     .accesskey = ը
+main-context-menu-reveal-password =
+    .label = Ցուցադրել գաղտնաբառը
+    .accesskey = ց

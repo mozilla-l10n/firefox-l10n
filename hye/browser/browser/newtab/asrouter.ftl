@@ -117,6 +117,8 @@ cfr-doorhanger-fission-secondary-button = Իմանալ աւելին
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Կայքում { -brand-short-name } ֊ի այս տարբերակով՝ տեսանիւթերը ճիշտ չեն միացուում։ Միացման լիարժէք աշխատանքի համար,  թարմացրէք { -brand-short-name } հիմայ։
+cfr-doorhanger-video-support-header = Թարմացնել { -brand-short-name }-ը՝  տեսանիւթ միացնելու համար
 cfr-doorhanger-video-support-primary-button = Թարմացնել հիմայ
     .accesskey = Թ
 
@@ -133,6 +135,8 @@ spotlight-learn-more-expanded = Իմանալ աւելին
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Կարծես թե դուք օգտագործում եք հանրային Wi-Fi
 spotlight-public-wifi-vpn-link = Ոչ հիմայ
     .accesskey = ո
 
