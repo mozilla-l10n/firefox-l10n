@@ -97,3 +97,4 @@ experimental-features-ime-search-description = Az IME (bemenetimód-szerkesztő)
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 User-Agent karakterlánc
+experimental-features-firefox-100-description = A { -brand-short-name } olyan User-Agent karakterláncot küld a weboldalaknak, amely alapján a { -brand-product-name } 100-as verziójának tűnik. Ezt a beállítást arra használhatja, hogy tesztelje a weboldalakat, hogy elromlanak-e, ha a { -brand-short-name } eléri a három jegyű verziószámot. A valódi { -brand-product-name } 100 ütemterv szerint 2022 májusában jelenik meg, így kezdje el a tesztelést még most!
