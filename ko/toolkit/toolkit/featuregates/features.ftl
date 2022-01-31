@@ -97,3 +97,4 @@ experimental-features-ime-search-description = IME (Input Method Editor)는 표�
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 사용자 에이전트 문자열
+experimental-features-firefox-100-description = { -brand-short-name }가 웹 사이트에 { -brand-product-name } 버전 100인 것처럼 가장하는 사용자 에이전트 문자열을 보내도록 합니다. 이 설정을 사용하여 { -brand-short-name }가 세 자리 버전 넘버에 도달할 때 웹 사이트가 깨지는지 테스트하세요. 실제 { -brand-product-name } 100은 2022년 5월에 출시될 예정이므로 지금 웹 사이트 테스트를 시작하세요!
