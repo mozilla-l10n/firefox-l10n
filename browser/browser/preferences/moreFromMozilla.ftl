@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = 빅 테크가 아닌 사람�
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = { -rally-short-name } 가입
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = { -rally-short-name } 가입
 more-from-moz-qr-code-box-firefox-mobile-title = 모바일 기기를 사용하여 다운로드하세요. 카메라를 QR코드에 맞추세요. 링크가 나타나면 해당 링크를 누르세요.
 more-from-moz-qr-code-box-firefox-mobile-button = 대신 휴대폰으로 이메일 보내기
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = { -brand-product-name } 모바일 다운로드를 위한 QR 코드
 more-from-moz-button-mozilla-vpn =
     .label = VPN 받기
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = { -brand-product-name } 모바일 다운로드를 위한 QR 코드
+more-from-moz-button-mozilla-vpn-2 = VPN 받기
 more-from-moz-learn-more-link = 더 알아보기
