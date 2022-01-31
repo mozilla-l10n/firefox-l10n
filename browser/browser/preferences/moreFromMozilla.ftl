@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Découvrez d’autres produits de { -vendor-short-name } qui contribuent à un Internet sain.
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobile
 more-from-moz-firefox-mobile-description = Le navigateur mobile qui fait passer la confidentialité avant tout le reste.
+more-from-moz-firefox-mobile-description-advanced = Qu’il s’agisse de bloquer les traqueurs ou de réduire les désagréments liés à la lecture automatique, les navigateurs mobiles { -brand-product-name } font tout pour que vous profitiez des bons côtés d’Internet.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Découvrez un niveau supplémentaire de navigation anonyme et de protection.
 more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } ajoute un autre niveau de navigation anonyme et de protection. De plus, à la différence de quelques autres VPN, il est sûr et ne piste pas vos activités.
