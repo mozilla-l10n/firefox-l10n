@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Передавайте сво
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Приєднуйтеся до { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Приєднуйтеся до { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Завантажте за допомогою мобільного пристрою. Наведіть камеру на QR-код. Торкніться до посилання, коли воно з'явиться.
 more-from-moz-qr-code-box-firefox-mobile-button = Надіслати електронний лист на ваш телефон
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-код для завантаження { -brand-product-name } для мобільного
 more-from-moz-button-mozilla-vpn =
     .label = Отримати VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-код для завантаження { -brand-product-name } для мобільного
+more-from-moz-button-mozilla-vpn-2 = Отримати VPN
 more-from-moz-learn-more-link = Докладніше
