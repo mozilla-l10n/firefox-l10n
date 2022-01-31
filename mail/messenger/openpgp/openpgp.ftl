@@ -455,6 +455,12 @@ key-ring-no-secret-key = Sinu võtmerõngal ei näi olevat salajast võtit võtm
 key-ring-pub-key-not-for-signing = Võtit { $userId } (võtme ID { $keyId }) pole võimalik allkirjastamiseks kasutada.
 key-ring-pub-key-not-for-encryption = Võtit { $userId } (võtme ID { $keyId }) pole võimalik krüptimiseks kasutada.
 key-ring-sign-sub-keys-revoked = Kõik võtme { $userId } (võtme ID { $keyId }) allkirjastamist võimaldavad alamvõtmed on tühistatud.
+key-ring-sign-sub-keys-expired = Kõik võtme { $userId } (võtme ID { $keyId }) allkirjastamise alamvõtmed on aegunud.
+key-ring-enc-sub-keys-revoked = Kõik võtme { $userId } (võtme ID { $keyId }) krüptimise alamvõtmed on tühistatud.
+key-ring-enc-sub-keys-expired = Kõik võtme { $userId } (võtme ID { $keyId }) krüptimise alamvõtmed on aegunud.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Pilt
+user-att-photo = Kasutaja atribuut (JPEG-pilt)
 
 # Strings used in enigmailMessengerOverlay.js
 
