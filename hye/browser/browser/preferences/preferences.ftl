@@ -360,11 +360,6 @@ update-application-use-service =
     .label = Աւգտագործել խորապատկերի խառայութիւները թարմացումները տեղադրելու համար
     .accesskey = խ
 update-setting-write-failure-title2 = Թարմացման կարգաւորումների պահպանման սխալ
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message2 = { -brand-short-name } ֊ը յայտնաբերել է սխալ եւ չի պահել փոփոխութիւնները։ Այս թարմացման փոփոխութեան համար անհրաժեշտ է  արտաւնութիւն նիշում գրառում իրականացնելու համար: Դուք կամ համակարգի կառավարիչը կարող էք լուծել խնդիրը նիշքին Աւգտատէրերի խմբային ամբողջական հասանելիութիւն տալով:
 update-in-progress-title = Արդիացուում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարուել
