@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Darujte svoje údaje výskumn
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Pripojte sa k { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Pripojte sa k { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Stiahnite si ho pomocou mobilného zariadenia. Namierte fotoaparát na QR kód. Keď sa zobrazí odkaz, klepnite naň.
 more-from-moz-qr-code-box-firefox-mobile-button = Alebo si odkaz pošlite do telefónu e-mailom
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
 more-from-moz-button-mozilla-vpn =
     .label = Získajte VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
+more-from-moz-button-mozilla-vpn-2 = Získajte VPN
 more-from-moz-learn-more-link = Ďalšie informácie

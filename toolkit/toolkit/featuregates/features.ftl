@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Experimentálna podpora umožňuj�
 experimental-features-ime-search =
     .label = Panel s adresou: zobrazovať výsledky počas zostavovania IME
 experimental-features-ime-search-description = IME (Input Method Editor) je nástroj, ktorý vám umožňuje zadávať zložité symboly, napríklad tie, ktoré sa používajú vo východoázijských alebo indických písaných jazykoch, pomocou štandardnej klávesnice. Povolením tohto experimentu zostane panel s adresou otvorený a zobrazia sa výsledky vyhľadávania a návrhy, zatiaľ čo na zadávanie textu sa používa editor IME. Upozorňujeme, že editor IME môže zobrazovať panel, ktorý prekrýva výsledky panela s adresou, preto sa táto predvoľba odporúča iba pre editor IME, ktorý tento typ panela nepoužíva.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 v reťazci User-Agent
+experimental-features-firefox-100-description = Nastavte { -brand-short-name } tak, aby odosielal webovým stránkam reťazec User-Agent, ktorý predstiera, že používate { -brand-product-name } verzie 100. Toto nastavenie použite na otestovanie, či dôjde k rozbitiu stránok, keď bude { -brand-short-name } používať trojmiestne číslo verzie. Skutočný { -brand-product-name } 100 má byť uvedený na trh v máji 2022, takže začnite testovať svoje webové stránky už teraz!
