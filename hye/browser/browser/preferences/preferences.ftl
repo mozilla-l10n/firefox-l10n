@@ -43,6 +43,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Փորձարկումներ
 pane-experimental-subtitle = Շարունակէք զգուշաւորութեամբ
 pane-experimental-search-results-header = { -brand-short-name } Փորձարկումներ․ շարունակէք զգուշութեամբ
+pane-experimental-description2 = Ընդլայնուած ձեւակազմի կարգաւորումների փոփոխութիւնը, կարող է ազդել { -brand-short-name }-ի աշխատանքի կամ անվտանգութեան վրայ:
 pane-experimental-reset =
     .label = Վերականգնել լռելեայն կարգաբերումները
     .accesskey = Վ
@@ -97,6 +98,8 @@ extension-controlled-enable = Ընդլայնումը միացնելու համա
 ## Preferences UI Search Results
 
 search-results-header = Որոնման արդիւնքներ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Կարգաւորումներում արդիւնքներ չկան «<span data-l10n-name="query"></span>-ի համար:
 search-results-help-link = Աւգնութիւ՞ն է պէտք: Այցելէք <a data-l10n-name="url">{ -brand-short-name } Աջակցում</a>
 
 ## General Section
@@ -113,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
     .accesskey = s
+startup-restore-windows-and-tabs =
+    .label = Բացել նախորդ պատուհաններն ու ներդիրները
+    .accesskey = ս
 startup-restore-warn-on-quit =
     .label = Զգուշացնել դիտարկիչը փակելիս
 disable-extension =
@@ -127,9 +133,23 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Զգուշացնել մի քանի ներդիրներ փակելիս
     .accesskey = Զ
+confirm-on-close-multiple-tabs =
+    .label = Հաստատել՝ մի քանի ներդիրներ փակելուց առաջ
+    .accesskey = մ
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Հաստատել լքումից առաջ { $quitKey } ֊ով
+    .accesskey = ա
 warn-on-open-many-tabs =
     .label = Զգուշացնել, որ մի քանի ներդիրներ բացելիս { -brand-short-name }-ը կարող է դանդաղել:
     .accesskey = դ
+switch-to-new-tabs =
+    .label = Նոր ներդիրում յղում, պատկեր կամ դարան բացելիս, անմիջապէս անցնել այս գործելակերպին։
+    .accesskey = հ
 show-tabs-in-taskbar =
     .label = Ցուցադրել ներդիրների նախադիտումը Windows taskbar-ում
     .accesskey = k
@@ -200,6 +220,7 @@ confirm-browser-language-change-button = Գործադրել եւ վերամեկ�
 translate-web-pages =
     .label = Թարգմանել բովանդակութիւնը
     .accesskey = Թ
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Թարգմանել է՝ <img data-l10n-name="logo"/>
