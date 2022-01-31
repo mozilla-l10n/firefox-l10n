@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Cefnogaeth arbrofol i ganiatáu i 
 experimental-features-ime-search =
     .label = Bar Cyfeiriadau: dangos canlyniadau wrth ddefnyddio'r IME
 experimental-features-ime-search-description = Offeryn yw IME (Golygydd Dull Mewnbwn) sy'n eich galluogi i nodi symbolau cymhleth, fel y rhai sy'n cael eu ddefnyddio mewn ieithoedd ysgrifenedig yn Nwyrain Asia neu India, gan ddefnyddio bysellfwrdd safonol. Bydd galluogi'r arbrawf hwn yn cadw'r panel bar cyfeiriadau ar agor, dangos canlyniadau chwilio ac awgrymiadau, tra'n defnyddio IME i fewnbynnu testun. Sylwch y gallai'r IME ddangos panel sy'n ymdrin â chanlyniadau'r bar cyfeiriad, felly mae'r dewis hwn yn cael ei awgrymu ar gyfer IME sydd ddim yn defnyddio'r math hwn o banel.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = 100 Llinyn Defnyddiwr-Asiant { -brand-product-name }
+experimental-features-firefox-100-description = Gwnewch i { -brand-short-name } anfon llinyn Defnyddiwr-Asiant i wefannau sy'n esgus bod yn { -brand-product-name } fersiwn 100. Defnyddiwch y gosodiad hwn i brofi a fydd gwefannau'n torri pan fydd { -brand-short-name } yn taro rhif fersiwn tri digid. Mae'r gwir { -brand-product-name } 100 i fod i gael ei ryddhau ym mis Mai 2022, felly dechreuwch brofi'ch gwefannau nawr!
