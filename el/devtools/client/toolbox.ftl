@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Κοινότητα…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Απενεργοποίηση αυτόματης απόκρυψης αναδυόμενων παραθύρων
+toolbox-meatball-menu-pseudo-locale-accented = Ενεργοποίηση γλώσσας «accented»
+toolbox-meatball-menu-pseudo-locale-bidi = Ενεργοποίηση γλώσσας «bidi»
 
 ##
 
