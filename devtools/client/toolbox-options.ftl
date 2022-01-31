@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Увімкнути віддалене зневадження
 options-enable-remote-tooltip2 =
     .title = Увімкнення цього параметра дозволить віддалене зневадження цього екземпляру браузера
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Увімкнути спеціальні форматувальники
+options-enable-custom-formatters-tooltip =
+    .title = Увімкнення цього параметра дозволить сайтам визначати спеціальні форматувальники для об'єктів DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Увімкнути Service Workers поверх HTTP (коли відкрита панель інструментів)
 options-enable-service-workers-http-tooltip =
