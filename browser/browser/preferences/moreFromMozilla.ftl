@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Pósććo slěźeńskim studi
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Se na { -rally-short-name } wobźěliś
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Se na { -rally-short-name } wobźěliś
 more-from-moz-qr-code-box-firefox-mobile-title = Ześěgniśo z pomocu swójogo mobilnego rěda. Póstajśo swóju kameru na QR-kod. Gaž se wótkaz zjewijo, pótusniśo jen.
 more-from-moz-qr-code-box-firefox-mobile-button = Sćelśo město togo mejlku na swój telefon
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-kod za ześěgnjenje mobilnego telefona { -brand-product-name }
 more-from-moz-button-mozilla-vpn =
     .label = VPN wobstaraś
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-kod za ześěgnjenje mobilnego telefona { -brand-product-name }
+more-from-moz-button-mozilla-vpn-2 = VPN wobstaraś
 more-from-moz-learn-more-link = Dalšne informacije

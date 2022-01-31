@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Eksperimentelna pódpěra za rowno
 experimental-features-ime-search =
     .label = Adresowe pólo: wuslědki za IME-kompoziciju pokazaś
 experimental-features-ime-search-description = IME (Input Method Editor, editor zapódawańskeje metody)  jo rěd, kótaryž wam zmóžnja, kompleksne symbole zapódaś, ako se na pśikład w pódzajtšnoaziskich abo indiskich rěcach wužywaju, z pomocu standardneje tastatury. Gaž toś ten eksperiment zmóžnjaśo, wóstawa wokno adresowego póla wócynjone, kótarež pytańske wuslědki a naraźenja pokazujo, mjaztym až tekst z pomocu IME zapódawaśo. Źiwajśo na to, až IME mógał wokno pokazaś, kótarež wuslědki adresowego póla wopśimujo, togodla se toś to nastajenje jano za IME naraźujo, kótaryž toś ten typ wokna njewužywa.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = Znamuškowy rjeśazk user-agent { -brand-product-name } 100
+experimental-features-firefox-100-description = Dajśo { -brand-short-name } websedłam znamuškowy rjeśazk user agent słaś, kótaryž se wugranja, až se wo wersiju 100 { -brand-product-name } jadna. Wužywajśo toś to nastajenje, aby testował, lěc se websedła wobškóźuju, gaž { -brand-short-name } ma tśiměstnowy wersijowy numer. Wózjawjenje napšawdnego { -brand-product-name } 100 jo za maj 2022 planowane, testujśo pótakem swóje websydła něnto!

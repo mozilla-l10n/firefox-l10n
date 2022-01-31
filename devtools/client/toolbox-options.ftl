@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Daloke pytanje za zmólkami
 options-enable-remote-tooltip2 =
     .title = Gaž toś to nastajenje zmóžnjaśo, se instanca wobglědowaka znazdala za zmólkami pśepytujo
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Swójske formatěrowaki zmóžniś
+options-enable-custom-formatters-tooltip =
+    .title = Gaž toś to nastajenje zmóžnjaśo, směju sedła swójske formatěrowaki za DOM-objekty definěrowaś
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service worker pśez HTTP zmóžniś (gaž rědy su wócynjone)
 options-enable-service-workers-http-tooltip =
