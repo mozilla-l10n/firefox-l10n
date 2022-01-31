@@ -148,4 +148,9 @@ spotlight-public-wifi-vpn-link = Ոչ հիմայ
 # "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
 # "Join an early experiment". This header text can be explicitly wrapped.
 spotlight-total-cookie-protection-header = Փորձէք գաղտնիութեան ամենահզոր պահպանումը երբեւէ
+spotlight-total-cookie-protection-body = Total Cookie Protection-ը կանգնեցնում է հետագծիչների թխուկների գործածումը:
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name }-ը սահմանափակում է թխուկների գործածումը, հետագծիչները չեն կարող գործածել դրանք ձեզ հետեւելու համար: Նախնական տարբերակում, դուք կարող էք աւգնել զարգացնել այս յաւելուածը աւելի անվտանգ ցանց կառուցելու համար:
+spotlight-total-cookie-protection-primary-button = Միացնել «Total Cookie Protection»-ը
 spotlight-total-cookie-protection-secondary-button = Ոչ հիմայ

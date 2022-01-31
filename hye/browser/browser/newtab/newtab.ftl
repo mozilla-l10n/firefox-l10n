@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-personalize-icon-label =
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
+newtab-personalize-dialog-label =
+    .aria-label = Անհատականացնել
 
 ## Search box component.
 
@@ -21,6 +23,21 @@ newtab-search-box-search-button =
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Որոնել { $engine }-ով կամ մուտքագրել հասցէն
+newtab-search-box-handoff-text-no-engine = Որոնել կամ մուտքագրել հասցէն
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder =
+        Որոնել { $engine }֊ով կամ մուտքագրել հասցէն
+        որոնում 
+        որոնում 
+        Որոնել { $engine } կամ մուտքագրել հասցէն
+    .title = Որոնել { $engine }֊ով կամ մուտքագրել հասցէն
+    .aria-label = Որոնել { $engine }֊ով  կամ մուտքագրել հասցէն
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Որոնել կամ մուտքագրել հասցէն
+    .title = Որոնել կամ մուտքագրել հասցէն
+    .aria-label = Որոնել կամ մուտքագրել հասցէն
 newtab-search-box-search-the-web-input =
     .placeholder = Որոնել առցանց
     .title = Որոնել առցանց
@@ -209,10 +226,12 @@ newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Հանրաճանաչ թէմաներ.
+newtab-pocket-new-topics-title = Ցանկանու՞մ եք աւելի շատ պատմութիւններ: Դիտեք աւելի յայտնի թեմաները { -pocket-brand-name }-ով
 newtab-pocket-more-recommendations = Լրացուցիչ առաջարկութիւններ
 newtab-pocket-learn-more = Իմանալ աւելին
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } պատկանում է { -brand-product-name } ընտանիքին
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = Պահպանել { -pocket-brand-name } ֊ում
 newtab-pocket-saved-to-pocket = Պահպանուել է { -pocket-brand-name } ֊ում
@@ -222,6 +241,10 @@ newtab-pocket-load-more-stories-button = Բեռնել աւելի շատ պատմ
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Թարմացումներ չկան
+newtab-pocket-last-card-desc = Յաւելեալ տեղեկութիւնների համար միացէք աւելի ուշ:
+newtab-pocket-last-card-image =
+    .alt = Թարմացումներ չկան
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
