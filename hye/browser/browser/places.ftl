@@ -20,6 +20,18 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Բացել նոր գաղտնի պատուհանում
     .accesskey = գ
+places-add-bookmark =
+    .label = Աւելացնել էջանիշ…
+    .accesskey = է
+places-add-folder-contextmenu =
+    .label = Աւելացնել պանակ…
+    .accesskey = պ
+places-add-folder =
+    .label = Աւելացնել պանակ…
+    .accesskey = կ
+places-add-separator =
+    .label = Աւելացնել բաժանիչ
+    .accesskey = բ
 places-view =
     .label = Տեսք
     .accesskey = w
@@ -50,6 +62,35 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Տեսակաւորել ըստ անունների
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Խմբագրել էջանիշը…
+    .accesskey = թ
+places-edit-generic =
+    .label = Խմբագրել…
+    .accesskey = թ
+places-edit-folder =
+    .label = Անուանափոխել պանակը…
+    .accesskey = ա
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] Հեռացնել պանակը
+            [one] Հեռացնել պանակները
+           *[other] Հեռացնել պանակները
+        }
+    .accesskey = ո
+places-edit-folder2 =
+    .label = Խմբագրել պանակը…
+    .accesskey = բ
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Ջնջել պանակը
+            [one] Ջնջել պանակները
+           *[other] Ջնջել պանակները
+        }
+    .accesskey = ր
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Կառավարուող էջանիշեր
@@ -59,6 +100,37 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Այլ Էջանիշեր
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Հեռացնել էջանիշը
+            [one] Հեռացնել էջանիշները
+           *[other] Հեռացնել էջանիշները
+        }
+    .accesskey = ե
+places-show-in-folder =
+    .label = Ցուցադրել պանակում
+    .accesskey = տ
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Ջնջել էջանիշը
+            [one] Ջնջել էջանիշները
+           *[other] Ջնջել էջանիշները
+        }
+    .accesskey = ե
+places-manage-bookmarks =
+    .label = Կառավարել էջանիշերը
+    .accesskey = Կ
+places-forget-about-this-site-confirmation-title = Մոռանալ կայքի մասին
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Գործողութիւնը կը հեռացնի { $hostOrBaseDomain } -ի հետ կապուած բոլոր տուեալները, ներառեալ՝ պատմութիւնը, գաղտնաբառերը, թխուկները, շտեմը եւ տուեալների նախապատումը։ Ցանկանում է՞ք շարունակել։
+places-forget-about-this-site-forget = Մոռանալ
 places-library =
     .title = Դարան
     .style = width:700px; height:500px;

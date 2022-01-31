@@ -127,7 +127,7 @@ mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-sh
     .title = Տեղադրել { -brand-short-name } ֊ը որպէս լռելեայն զննարկիչ եւ ամրեցնել խնդրագաւտում
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name } ֊ը իմ սկզբնադիր զննարկիչը
+mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name }-ը հիմնական զննարկիչ
 mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 

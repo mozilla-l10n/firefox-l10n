@@ -364,9 +364,9 @@ browser-tab-unblock =
 ## Bookmarks toolbar items
 
 browser-import-button2 =
-    .label = Ներմուծել էջանիշներ…
-    .tooltiptext = Ներմուծել էջանիշներ այլ դիտարկչից { -brand-short-name }֊ի մէջ
-bookmarks-toolbar-empty-message = Արագ մուտքի համար տեղադրէք ձեր էջանիշներն էջանիշների գործեգաւտում։ <a data-l10n-name="manage-bookmarks"> Կառավարել էջանիշները …</a>
+    .label = Ներածել էջանիշներ…
+    .tooltiptext = Ներածել էջանիշներ այլ դիտարկչից { -brand-short-name }֊ի մէջ
+bookmarks-toolbar-empty-message = Արագ մուտքի համար՝ տեղադրէք ձեր էջանիշներն յատուկ գործիքագաւտում: <a data-l10n-name="manage-bookmarks"> Էջանիշների կառավարում …</a>
 
 ## WebRTC Pop-up notifications
 
@@ -570,7 +570,7 @@ bookmarks-menu-button =
 bookmarks-other-bookmarks-menu =
     .label = Այլ Էջանիշներ
 bookmarks-mobile-bookmarks-menu =
-    .label = Շարժական էջանիշներ
+    .label = Բջջային էջանիշեր
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->

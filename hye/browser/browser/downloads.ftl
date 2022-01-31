@@ -91,7 +91,7 @@ downloads-cmd-always-use-system-default-named =
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
-    .label = Միշտ բացել նմանատիպ նիշքերի հետ
+    .label = Մշտապէս բացել նմանատիպ նիշերը
     .accesskey = Ո
 downloads-cmd-show-button-2 =
     .tooltiptext =
