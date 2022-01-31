@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Activer le débogage distant
 options-enable-remote-tooltip2 =
     .title = L’activation de cette option permettra de déboguer cette instance de navigateur à distance
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Activer les formateurs personnalisés
+options-enable-custom-formatters-tooltip =
+    .title = Activer cette option autorise les sites à définir des formateurs personnalisés pour les objets DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Activer les Service Workers via HTTP (lorsque la boîte à outils est ouverte)
 options-enable-service-workers-http-tooltip =
