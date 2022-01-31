@@ -42,6 +42,8 @@ process-type-gpu = GPU
 process-type-socket = Υποδοχή
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Παράγων IPC σε sandbox
 
 ##
 ## Other
