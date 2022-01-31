@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = 捐出您的資料用於進�
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = 加入 { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = 加入 { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = 使用您的行動裝置下載。請掃描 QR Code，鏈結出現時點擊該鏈結。
 more-from-moz-qr-code-box-firefox-mobile-button = 改寄電子郵件到您的手機
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = { -brand-product-name } 行動版的下載 QR Code
 more-from-moz-button-mozilla-vpn =
     .label = 下載 VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = { -brand-product-name } 行動版的下載 QR Code
+more-from-moz-button-mozilla-vpn-2 = 下載 VPN
 more-from-moz-learn-more-link = 了解更多

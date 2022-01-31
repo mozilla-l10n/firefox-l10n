@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = 啟用遠端除錯
 options-enable-remote-tooltip2 =
     .title = 開啟此選項後，將允許從遠端對此瀏覽器除錯
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = 啟用自訂格式化套件
+options-enable-custom-formatters-tooltip =
+    .title = 開啟此選項，將允許網站自行定義 DOM 物件的格式化套件
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = 啟用 Service Workers over HTTP（當工具箱開啟時）
 options-enable-service-workers-http-tooltip =
