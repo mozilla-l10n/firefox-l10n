@@ -79,6 +79,12 @@ downloads-cmd-show-description =
             [macos] Προβολή στο Finder
            *[other] Άνοιγμα φακέλου λήψης
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Άνοιγμα πάντα στο «{ $handler }»
+    .accesskey = γ
 
 ##
 

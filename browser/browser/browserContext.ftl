@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Εμφάνιση κωδικού πρόσβασης
     .accesskey = φ
+main-context-menu-reveal-password =
+    .label = Εμφάνιση κωδικού πρόσβασης
+    .accesskey = φ
