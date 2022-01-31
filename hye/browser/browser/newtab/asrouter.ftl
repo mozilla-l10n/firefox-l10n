@@ -137,9 +137,15 @@ spotlight-learn-more-expanded = Իմանալ աւելին
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Կարծես թե դուք օգտագործում եք հանրային Wi-Fi
+spotlight-public-wifi-vpn-body = Տեղակայման վայրը և կատարած զննումները թաքցնելու համար, դիտարկէք գործածել Վերիրային գաղտնի ցանց (VPN): Այն հնարաւորութիւնը կյ տայ հանրային վայրերում իրականացնել անվտանգ զննում:
+spotlight-public-wifi-vpn-primary-button = Մնալ գաղտնի { -mozilla-vpn-brand-name }-ի հետ
+    .accesskey = Լ
 spotlight-public-wifi-vpn-link = Ոչ հիմայ
     .accesskey = ո
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header = Փորձէք գաղտնիութեան ամենահզոր պահպանումը երբեւէ
 spotlight-total-cookie-protection-secondary-button = Ոչ հիմայ
