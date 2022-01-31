@@ -97,3 +97,4 @@ experimental-features-ime-search-description = IME (Input Method Editor, editor 
 # Firefox 100
 experimental-features-firefox-100 =
     .label = Znamješkowy rjećazk user-agent { -brand-product-name } 100
+experimental-features-firefox-100-description = Dajće { -brand-short-name } websydłam znamješkowy rjećazk user agent słać, kotryž wudawa, zo so wo wersiju 100 { -brand-product-name } jedna. Wužiwajće tute nastajenje, zo byšće testował, hač so websydła wobškodźeja, hdyž { -brand-short-name } ma třiměstnowe wersijowe čisło. Wozjewjenje woprawdźiteho { -brand-product-name } 100 je za meju 2022 planowane, testujće potajkim swoje websydła nětko!
