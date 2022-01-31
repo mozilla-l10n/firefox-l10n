@@ -44,6 +44,14 @@ onboarding-multistage-set-default-header = { -brand-short-name }-ը դարձրէ
 onboarding-multistage-set-default-subtitle = Արագութիւն, անվտանգութիւն եւ գաղտնիութիւն իւրաքանչիւր դիտարկման ժամանակ։
 onboarding-multistage-set-default-primary-button-label = Դարձնել լռելեայն
 onboarding-multistage-set-default-secondary-button-label = Ոչ հիմա
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Սկսէք <span data-l10n-name="zap"> { -brand-short-name } </span> մեկ հպումով հեռացնելուց
+onboarding-multistage-pin-default-subtitle = Արագ, անվտանգ եւ գաղտնի աշխատանք զննարկիչով:
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Ընտրէք { -brand-short-name }-ը զննարկչի համար, երբ բացուում են կարգաւորումները
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = { -brand-short-name }-ը կը կցուի խնդրագաւտում եւ կը բացի կարգաւորումները
 onboarding-multistage-pin-default-primary-button-label = Դարձնել { -brand-short-name }-ը իմ առաջնային զննարկիչը
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
@@ -54,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Ոչ հիմա
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Այստեղ թուարկուած կայքերը առկայ էին սարքում։ { -brand-short-name }֊ը չի պահպանում կամ համաժամեցնում տուեալներն այլ դիտարկչից, քանի դեռ դրանք չէք ներմուծել։
+return-to-amo-add-theme-label = Ավելացնել Ոճը
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -67,6 +76,7 @@ onboarding-welcome-steps-indicator =
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Ընտրէք <span data-l10n-name="zap">տեսք</span>
 onboarding-multistage-theme-subtitle = Անհատականացնել { -brand-short-name }֊ն ըստ հիմնապատկերի։
+onboarding-multistage-theme-primary-button-label2 = Կատարուած
 onboarding-multistage-theme-secondary-button-label = Ոչ հիմա
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Ինքնաբար
@@ -74,11 +84,32 @@ onboarding-multistage-theme-label-light = Լուսաւոր
 onboarding-multistage-theme-label-dark = Մուգ
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text = Կրակը սկսուում է այստեղ
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Կահոյքի նախագծող, Firefox-ի երկրպագու
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = անջատել շարժապատկերումը
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] պահել { -brand-short-name }-ը Dock-ում հեշտ հասանելիութեան համար
+       *[other] կցել { -brand-short-name }-ը խնդրագաւտում հեշտ հասանելիութեան համար
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
