@@ -34,7 +34,7 @@ about-private-browsing-prominent-cta = Անցնել գաղտնիութեան { -
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը Ձեր որոնման լռելեայն միջոցն է
+about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը Ձեր որոնման սկզբնադիր միջոցն է
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Տարբեր որոնման միջոցներ ընտրելու համար գնացէք դէպի <a data-l10n-name="link-options">Ընտրանքներ</a>

@@ -110,6 +110,12 @@ mr1-onboarding-pin-header =
         [macos] պահել { -brand-short-name }-ը Dock-ում հեշտ հասանելիութեան համար
        *[other] կցել { -brand-short-name }-ը խնդրագաւտում հեշտ հասանելիութեան համար
     }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Պահել Dock-ում
+       *[other] Ամրացնել խնդրագոտում
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -117,6 +123,8 @@ mr1-onboarding-pin-header =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Սկսել
 mr1-onboarding-welcome-header = Բարի գալուստ { -brand-short-name } ֊ում
+mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-short-name } ֊ը հիմնական զննարկիչ
+    .title = Տեղադրել { -brand-short-name } ֊ը որպէս լռելեայն զննարկիչ եւ ամրեցնել խնդրագաւտում
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Սարքել { -brand-short-name } ֊ը իմ լռելեայն զննարկիչը
@@ -126,10 +134,13 @@ mr1-onboarding-sign-in-button-label = Մուտք գործել
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը լռելեայն
+mr1-onboarding-default-subtitle = Սահմանել արագութիւն, անվտանգութիւն եւ գաղտնիութիւն  ինքնակառավարչի վրայ։
 mr1-onboarding-default-primary-button-label = Դարձնել լռելեայն զննարկիչ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = Բերեք այդ ամէնը ձեր հետ
 mr1-onboarding-import-secondary-button-label = Ոչ հիմայ
 mr2-onboarding-colorway-secondary-button-label = Ոչ հիմայ
 # This string will be used for Default theme

@@ -29,6 +29,7 @@ upgrade-dialog-default-secondary-button = Ոչ հիմայ
 
 ## Colorway screen
 
+upgrade-dialog-colorway-default-theme = Սկզբնադիր
 
 ## Thank you screen
 
