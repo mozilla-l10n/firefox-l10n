@@ -104,6 +104,14 @@ upgrade-dialog-colorway-variation-soft = Նուրբ
     .title = Գործածել այս ոճը
 upgrade-dialog-colorway-variation-balanced = Հաւասարակշռուած
     .title = Գործածել այս ոճը
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Թաւ
+    .title = Գործածել այս ոճը
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Շնորհակալութիւն մեզ ընտրելու համար
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } -ն անկախ զննարկիչը է, որը չի հետապնդում ֆինանսական շահ: Միասին մենք կարող ենք համացանցը դարձնել աւելի ապահով, առողջ եւ առավել գաղտնի:
+upgrade-dialog-thankyou-primary-button = Սկսել զննարկչի հետ աշխատանքը
