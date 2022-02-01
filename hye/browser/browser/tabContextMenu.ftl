@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = նոր ներդիր
+    .accesskey = ր
 reload-tab =
     .label = Կրկին բեռնել ներդիրը
     .accesskey = R
@@ -54,6 +57,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Էջանշել ներդիրները
     .accesskey = B
+tab-context-open-in-new-container-tab =
+    .label = Բացել նոր ներդիրում
+    .accesskey = e
 move-to-start =
     .label = Տեղափոխել մեկնարկ
     .accesskey = S
@@ -75,6 +81,14 @@ tab-context-share-more =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Վերաբացել փակուած ներդիրը
+            [one] Վերաբացել փակուած ներդիրները
+           *[other] Վերաբացել փակուած ներդիրները
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
@@ -83,6 +97,17 @@ tab-context-close-tabs =
            *[other] Փակել ներդիրները
         }
     .accesskey = Փ
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Փակել ներդիրը
+            [one] Փակել { $tabCount } ներդիր
+           *[other]
+                C
+                C
+                C
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->

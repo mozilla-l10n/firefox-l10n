@@ -31,5 +31,9 @@ default-bookmarks-nightly-blog = Firefox Nightly բլոգ
 default-bookmarks-bugzilla = Mozilla֊ի Սխալի Հետազննիչ
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Mozilla-ի Մշակողների ցանց
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly-ի Փորձարկման գործիքներ
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Բոլոր խափանումները
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Planet Mozilla
