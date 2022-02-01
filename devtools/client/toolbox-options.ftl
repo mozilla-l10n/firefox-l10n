@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Aktivera fjärrfelsökning
 options-enable-remote-tooltip2 =
     .title = Om du slår på det här alternativet kan du felsöka den här webbläsarinstansen på distans
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Aktivera anpassade formaterare
+options-enable-custom-formatters-tooltip =
+    .title = Om du aktiverar det här alternativet kan webbplatser definiera anpassade formaterare för DOM-objekt
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktivera Service Workers över HTTP (när verktygslådan är öppen)
 options-enable-service-workers-http-tooltip =
