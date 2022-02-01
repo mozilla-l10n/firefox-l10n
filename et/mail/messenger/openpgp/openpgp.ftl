@@ -484,6 +484,13 @@ after-revoke-info =
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Impordi
 delete-key-title = Kustuta OpenPGP võti
+delete-external-key-title = Eemalda väline GnuPG võti
+delete-external-key-description = Kas soovid eemaldada selle välise GnuPG võtme ID?
+key-in-use-title = OpenPGP võti on praegu kasutusel
+delete-key-in-use-description = Pole võimalik jätkata! Võti, mille valisid kustutamiseks, on praegu selle identiteedi poolt kasutuses. Vali teine võti või vali mitte ükski ja proovi siis uuesti.
+revoke-key-in-use-description = Pole võimalik jätkata! Võti, mille valisid tühistamiseks, on praegu selle identiteedi poolt kasutuses. Vali teine võti või vali mitte ükski ja proovi siis uuesti.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = E-posti aadressi ‘{ $keySpec }’ pole võimalik sobitada ühegi võtmega sinu võtmerõngal.
 
 # Strings used in enigmailMessengerOverlay.js
 
