@@ -542,3 +542,4 @@ key-man-button-generate-key-continue = &Jätka võtme genereerimist
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Viga - dekrüptimine ebaõnnestus
+fix-broken-exchange-msg-failed = Seda kirja pole võimalik parandada.
