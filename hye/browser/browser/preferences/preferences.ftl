@@ -1101,6 +1101,8 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = Բացել կարգաւորումները
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } -ի սկաւառակի յիշողութիւնը սպառուում է։ </strong> Կայքում կարող են լինել ցուցադրման հետ կապուած խնդիրներ։ Տուեալների ղեկավարման համար՝ Կարգաւորումներ > Գաղտնիութիւն եւ անվտանգութիւն > Նշոցիկներ եւ կայքի տուեալներ։
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } -ի սկաւառակի յիշողութիւնը սպառուում է։ </strong> Կայքում կարող են լինել ցուցադրման հետ կապուած խնդիրներ։ Անցէք <<Իմանալ աւելին>> պահոցի կարգաւորման եւ խնդիրների բացառման համար:
 
 ## Privacy Section - HTTPS-Only
 
