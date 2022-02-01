@@ -517,6 +517,20 @@ key-trust-untrusted = ebausaldusväärne
 key-trust-marginal = marginaalne
 key-trust-full = usaldatud
 key-trust-ultimate = ülim
+key-trust-group = (grupp)
+# Strings used in commonWorkflows.js
+import-key-file = Impordi OpenPGP võtmefail
+import-rev-file = Impordi OpenPGP tühistusfail
+gnupg-file = GnuPG failid
+import-keys-failed = Võtmete importimine ebaõnnestus
+passphrase-prompt = Palun sisesta järgmise võtme avamiseks parool: { $key }
+file-to-big-to-import = Fail on liiga suur. Palun ära impordi suurt arvu võtmeid korraga.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Loo ja salvesta tühistussert
+revoke-cert-ok = Tühistussert on edukalt loodud. Sa võid seda kasutada, et tunnistada oma avalik võti kehtetuks, nt juhul kui oled kaotanud oma salajase võtme.
+revoke-cert-failed = Tühistusserti polnud võimalik luua.
+gen-going = Võtme genereerimine juba käib!
+keygen-missing-user-name = Valitud konto/identiteedi jaoks pole nime määratud. Palun sisesta konto sätetes väärtus väljale “Sinu nimi”.
 
 # Strings used in enigmailMessengerOverlay.js
 
