@@ -52,6 +52,7 @@ policy-DisableTelemetry = Անջատել հեռաչափութիւնը։
 policy-DisplayBookmarksToolbar = Սկզբանդիր ցուցադրել էջանիշերը գործիքագաւտում։
 policy-DisplayMenuBar = Ցուցադրել ցանկագաւտին սկզբնադիր։
 policy-DNSOverHTTPS = Կազմաձեւել DNS-ը HTTPS-ի վերաբերեալ։
+policy-DontCheckDefaultBrowser = Անջատել մեկնարկում հիմնական զննարկչի վերաբերեալ ստուգումը:
 policy-DownloadDirectory = Սահմանեք եւ կողպեք ներբեռնման պանակը։
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Միացնել կամ անջատել բովանդակութեան արգելափակումը եւ կամայականաւրէն կողպել այն։

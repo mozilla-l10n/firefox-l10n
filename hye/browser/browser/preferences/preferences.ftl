@@ -360,6 +360,11 @@ update-application-use-service =
     .label = Աւգտագործել խորապատկերի խառայութիւները թարմացումները տեղադրելու համար
     .accesskey = խ
 update-setting-write-failure-title2 = Թարմացման կարգաւորումների պահպանման սխալ
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 = { -brand-short-name }-ը յայտնաբերել է սխալ եւ չի պահել փոփոխութիւնը: Այս թարմացման համար անհրաժեշտ է արտաւնութիւն նիշում գրառում իրականացնելու համար: Դուք կամ համակարգի կառավարիչը կարող էք լուծել խնդիրը նիշին Աւգտատէրերի խմբային ամբողջական հասանելիութիւն տալով:
 update-in-progress-title = Արդիացուում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարուել
@@ -557,6 +562,7 @@ search-show-suggestions-above-history-option =
     .label = Ցուցադրել որոնման առաջարկները հասցէագոտու արդիւնքների ամենավերեւում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
+suggestions-addressbar-settings-generic2 = Փոխել հասցէների գաւտու առաջարկների կարգաւորումները
 search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
 search-one-click-header2 = Որոնել դիւրանցումները
 search-one-click-desc = Ընտրէք այլընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցէագաւտում եւ որոնման գաւտում, երբ մուտքագրէք հիմնաբառ:
@@ -584,6 +590,8 @@ search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, ո
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Վերադառնալ կարգաւորումներին
 containers-header = Պարունակ ներդիրներ
 containers-add-button =
     .label = Աւելացնել նոր պարունակ
@@ -591,6 +599,8 @@ containers-add-button =
 containers-new-tab-check =
     .label = Ընտրել դարակ իւրաքանչիւր նոր ներդրի համար
     .accesskey = Ը
+containers-settings-button =
+    .label = Կարգաւորումեր
 containers-remove-button =
     .label = Հեռացնել
 
@@ -598,6 +608,10 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ունեցէք ձեր ոստայնը ձեզ հետ
+sync-signedout-description2 = Համաժամեցնել էջանիշները, պատմութիւնը, գաղտնաբառերը, յաւելումները եւ կարգաւորումները բոլոր սարքերում:
+sync-signedout-account-signin3 =
+    .label = Մուտք գործէք համաժամեցման համար…
+    .accesskey = Մ
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -633,6 +647,10 @@ sync-sign-in =
 
 prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՈՒԱԾ
 prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՈՒԱԾ
+prefs-sync-turn-on-syncing =
+    .label = Միացնել համաժամեցումը…
+    .accesskey = ց
+prefs-sync-offer-setup-label2 = Համաժամեցնել էջանիշները, պատմութիւնը, գաղտնաբառերը, յաւելումները եւ կարգաւորումները բոլոր սարքերում:
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
     .accesskeynotsyncing = N
@@ -648,6 +666,7 @@ sync-currently-syncing-logins-passwords = Մուտքանուններ եւ գաղ
 sync-currently-syncing-addresses = Հասցեներ
 sync-currently-syncing-creditcards = Վարկային քարտեր
 sync-currently-syncing-addons = Յաւելասարքեր
+sync-currently-syncing-settings = Կարգաւորումներ
 sync-change-options =
     .label = Փոխել…
     .accesskey = C
