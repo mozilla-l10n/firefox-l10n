@@ -54,20 +54,56 @@ upgrade-dialog-pin-secondary-button = Ոչ հիմայ
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Դարձնել { -brand-short-name }-ը հիմնական
+upgrade-dialog-default-subtitle-2 = Դարձնել արագութիւնը, անվտանգութիւնն ու գաղտնիութիւնն ինքաշխատ։
 upgrade-dialog-default-primary-button-2 = Ստեղծել սկզբնադիր զննարկիչը
 upgrade-dialog-default-secondary-button = Ոչ հիմայ
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Նոր սկիզբ crisp ոճի հետ միասին
+upgrade-dialog-theme-system = Համակարգի ոճ
+    .title = Կարգաւորել գործարկային համակարգի կոճակների, ցանկերի եւ պատուհանների ոճը։
 
 ## Start screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Կեանքը գոյներով
+upgrade-dialog-start-subtitle = նոր հետաքրքիր գունազարդումներ։ Հասանելի է սահմանափակ ժամանակով։
+upgrade-dialog-start-primary-button = Ուսումնասիրել գունազարդումները
+upgrade-dialog-start-secondary-button = Ոչ հիմայ
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Ընտրել գունապնակը
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Փոխարկել Firefox Home-ին ոճային ետնապատկերով
+upgrade-dialog-colorway-primary-button = Պահպանել գունազարդումը
+upgrade-dialog-colorway-secondary-button = Պահել նախկին ոճը
 upgrade-dialog-colorway-theme-tooltip =
     .title = Ուսումնասիրել հիմնական ոճերը
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Բացայայտել { $colorwayName } գունազարդումները
 upgrade-dialog-colorway-default-theme = Սկզբնադիր
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Ինքնաշխատ
+    .title = Կարգաւորել գործարկային համակարգի կոճակների, ցանկերի եւ պատուհանների ոճը։
+upgrade-dialog-theme-light = Լուսաւոր
+    .title = Գործածել ոճը կոճակների, ցանկերի եւ պատուհանների համար
+upgrade-dialog-theme-dark = Մուգ
+    .title = Գործածել ոճը կոճակների, ցանկերի եւ պատուհանների համար
+upgrade-dialog-theme-alpenglow = Alpenglow
+    .title = Գործածել ոճը կոճակների, ցանկերի եւ պատուհանների համար
+upgrade-dialog-theme-keep = Աւգտագործել նախկինը
+    .title = Գործածել { -brand-short-name }-ի թարմացումից առաջ բեռնուած ոճը
+upgrade-dialog-theme-primary-button = Պահպանել ոճը
+upgrade-dialog-theme-secondary-button = Ոչ հիմայ
+upgrade-dialog-colorway-variation-soft = Նուրբ
+    .title = Գործածել այս ոճը
+upgrade-dialog-colorway-variation-balanced = Հաւասարակշռուած
+    .title = Գործածել այս ոճը
 
 ## Thank you screen
 
