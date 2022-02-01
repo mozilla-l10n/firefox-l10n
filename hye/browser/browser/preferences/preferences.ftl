@@ -1032,6 +1032,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Բացառութիւններ…
     .accesskey = Բ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Բացառութիւններ…
+    .accesskey = E
+    .searchkeywords = ելնող պատուհաններ
 permissions-addon-install-warning =
     .label = Զգուշացնել, երբ կայքերը փորձում են տեղադրել յաւելումներ
     .accesskey = W
@@ -1059,6 +1065,8 @@ addon-recommendations-link = Իմանալ աւելին
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
+collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
+    .accesskey = թ
 
 ## Privacy Section - Security
 ##
@@ -1090,6 +1098,9 @@ certs-view =
 certs-devices =
     .label = Անվտանգութեան սարքեր...
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = Բացել կարգաւորումները
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 
