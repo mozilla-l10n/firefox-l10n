@@ -706,6 +706,10 @@ sync-engine-addons =
     .label = Յաւելումները
     .tooltiptext = Ընդլայնումներ եւ ոճեր Firefox-ի համար
     .accesskey = Հ
+sync-engine-settings =
+    .label = Կարգաւորումներ
+    .tooltiptext = Հիմնական, գաղտնիութեան եւ պաշտպանութեան կարգաւորումները փոփոխուել են
+    .accesskey = s
 
 ## The device name controls.
 
@@ -770,6 +774,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Նախկինում յայտնի որպէս Հիմնական գաղտնաբառ
 forms-primary-pw-fips-title = Դուք գտնուում էք FIPS աշխատակերպի մէջ։ FIPS֊ը պահանջում է ոչ֊դատարկ հիմնական գաղտնաբառ։
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխութիւնը Չյաջողուեց
+forms-windows-sso =
+    .label = Թոյլատրել Windows-ի միանգամեայ մուտքը Microsoft-ի աշխատանքային եւ դպրոցական հաշիւների համար
+forms-windows-sso-learn-more-link = Իմանալ աւելին
+forms-windows-sso-desc = Կառավարէք հաշիւները սարքի կարգաւորումներում
 
 ## OS Authentication dialog
 
@@ -854,6 +862,10 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Հետագծել միջկայքային նշոցիկներ — ներառել հասարակական մեդիայի նշոցիկները
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Միջկայքային նշոցիկներ — ներառում է հասարակական մեդիայի նշոցիկները
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Միջկայքային հետագծման նշոցիկներ
+sitedata-option-block-cross-site-cookies =
+    .label = Միջկայքային հետագծման նշոցիկներ, եւ այլ միջկայքային նշոցիկների մեկուսացում։
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Միջկայքային եւ հանրային մեդիայի հետագծիչները, եւ մեկուսացնել մնացած նշոցիկները
 sitedata-option-block-unvisited =
@@ -923,8 +935,11 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Հաւասարակշռուածուած է պաշտպանութեան եւ կատարողականութեան համար։ Էջերը կը բեռնուեն կանոնաւորապէս։
 content-blocking-etp-strict-desc = Աւելի ուժեղ պաշտպանութիւն, բայց կարող է որոշ կայքերի կամ բովանդակութեան համար խնդրահարոյց լինել։
 content-blocking-etp-custom-desc = Ընտրեք, որ հետեւումները եւ գրուածքները արգելափակել։
+content-blocking-etp-blocking-desc = { -brand-short-name } փակում է հետեւեալը
 content-blocking-private-windows = Անձնական պատուհաններում բովանդակութեան հետեւում
+content-blocking-cross-site-cookies-in-all-windows = Միջկայքային նշոցիկներ բոլոր պատուհաններում (ներառում է հետագծային նշոցիկներ)
 content-blocking-cross-site-tracking-cookies = Միջակայքային հետեւող նշոցիկներ
+content-blocking-all-cross-site-cookies-private-windows = Միջկայքային նշոցիկներ գաղտնի պատուհաններում
 content-blocking-cross-site-tracking-cookies-plus-isolate = Նշոցիկների միջկայքային հետապնդում, եւ առանձնացնել մնացած նշոցիկները
 content-blocking-social-media-trackers = Հասարակական մեդիայի հետագծիչներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
@@ -933,6 +948,14 @@ content-blocking-all-windows-tracking-content = Հետեւում են բովան
 content-blocking-all-third-party-cookies = Բոլոր երրորդ կողմերի նշոցիկները
 content-blocking-cryptominers = Գաղտնազերծիչներ
 content-blocking-fingerprinters = Մատնահետքեր
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label = Փորձէք մեր գաղտնիութեան պահպանման ամենահզաւր յաւելուածը
+    .accesskey = ձ
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Նշոցիկների ամբողղջական պահպանութիւնը ներառում է նշոցիկներ ներկայում գործածուող կայքում, հետագծիչները չեն կարող գործածել դրանք միջկայքային հետապնդման համար:
+content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ աւելին
 content-blocking-warning-title = Ուշադրութիւն։
 content-blocking-and-isolating-etp-warning-description = Հետախուզիչների արգելափակումը եւ նշոցիկների առանձնացումը կարող են ազդել որոշ կայքերի գործառոյթների վրայ: Վերբեռնել էջը եւ հետախուզիչները՝ ամբողջ բովանդակութիւնը բեռնելու համար:
 content-blocking-and-isolating-etp-warning-description-2 = Այս կարգաւորման պատճառով հնարաւոր է, որ որոշ կայքերի բովանդակութիւն չցուցադրուի կամ ճիշդ չաշխատի: Եթե որեւէ կայք կոտրուած է, կարող էք անջատել հետագծման պաշտպանութիւնը ամբողջ բովանդակութիւնը բեռնելու համար:
