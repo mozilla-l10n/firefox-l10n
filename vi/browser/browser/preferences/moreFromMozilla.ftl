@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Đóng góp dữ liệu của
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Tham gia { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Tham gia { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Tải xuống bằng thiết bị di động của bạn. Hướng máy ảnh của bạn vào mã QR. Khi một liên kết xuất hiện, hãy nhấn vào nó.
 more-from-moz-qr-code-box-firefox-mobile-button = Gửi email đến điện thoại của bạn để thay thế
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = Mã QR để tải xuống { -brand-product-name } dành cho di động
 more-from-moz-button-mozilla-vpn =
     .label = Nhận VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Mã QR để tải xuống { -brand-product-name } dành cho di động
+more-from-moz-button-mozilla-vpn-2 = Nhận VPN
 more-from-moz-learn-more-link = Tìm hiểu thêm

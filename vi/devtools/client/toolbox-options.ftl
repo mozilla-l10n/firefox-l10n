@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Cho phép gỡ lỗi từ xa
 options-enable-remote-tooltip2 =
     .title = Bật tùy chọn này sẽ cho phép gỡ lỗi phiên bản trình duyệt này từ xa
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Bật bộ định dạng tùy chỉnh
+options-enable-custom-formatters-tooltip =
+    .title = Bật tùy chọn này sẽ cho phép các trang web xác định bộ định dạng tùy chỉnh cho các đối tượng DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Cho phép Service Worker qua HTTP (khi hộp công cụ mở)
 options-enable-service-workers-http-tooltip =
