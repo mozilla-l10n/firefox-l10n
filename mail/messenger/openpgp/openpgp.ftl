@@ -531,6 +531,14 @@ revoke-cert-ok = Tühistussert on edukalt loodud. Sa võid seda kasutada, et tun
 revoke-cert-failed = Tühistusserti polnud võimalik luua.
 gen-going = Võtme genereerimine juba käib!
 keygen-missing-user-name = Valitud konto/identiteedi jaoks pole nime määratud. Palun sisesta konto sätetes väärtus väljale “Sinu nimi”.
+expiry-too-short = Võti peab kehtima vähemalt ühe päeva.
+expiry-too-long = Üle 100 aasta kehtivat võtit pole võimalik luua.
+key-confirm = Kas genereerida identiteedi ‘{ $id }’ jaoks avalik ja salajane võti?
+key-man-button-generate-key = &Genereeri võti
+key-abort = Kas katkestada võtme genereerimine?
+key-man-button-generate-key-abort = &Katkesta võtme genereerimine
+key-man-button-generate-key-continue = &Jätka võtme genereerimist
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Viga - dekrüptimine ebaõnnestus
