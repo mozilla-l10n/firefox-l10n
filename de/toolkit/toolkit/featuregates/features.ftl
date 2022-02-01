@@ -97,3 +97,4 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) ist
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 User-Agent-String
+experimental-features-firefox-100-description = Lässt{ -brand-short-name } einen User-Agent-String an Websites senden, die vorgibt, { -brand-product-name } Version 100 zu sein. Verwenden Sie diese Einstellung, um zu testen, ob Websites abstürzen, wenn { -brand-short-name } eine dreistellige Versionsnummer erreicht. Das echte { -brand-product-name } 100 soll im Mai 2022 veröffentlicht werden, also beginnen Sie jetzt mit dem Testen Ihrer Websites!
