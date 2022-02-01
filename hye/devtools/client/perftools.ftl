@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Պահնակի չափը՝
-
 perftools-custom-threads-label = Աւելացնել կամայական շղթաներ ըստ անուան՝
-
 perftools-devtools-interval-label = Միջակայք՝
 perftools-devtools-threads-label = Շղթաներ՝
 perftools-devtools-settings-label = Կարգաւորումներ
@@ -97,11 +95,12 @@ perftools-thread-img-decoder =
     .title = Պատկերային այլագրման շղթաներ
 perftools-thread-dns-resolver =
     .title = Այս շղթայում տեղի է ունենում DNS տարլուծում
+perftools-thread-task-controller =
+    .title = TaskController քարկապային միացումների ամբողջութիւն
 
 ##
 
 perftools-record-all-registered-threads = Շրջանցէք վերոնշեալ ընտրութիւնները եւ ձայնագրէք բոլոր գրանցուած շղթաները
-
 perftools-tools-threads-input-label =
     .title = Շղթաների անունների ցանկն առանձնացուած է ստորակէտով, որը յատկագրիչի վրայ միացնում է շղթաների յատկագրումը։ Շղթայի անուան հետ մասնակի համընկնման դէպքում անունը կը ներառուի։ Բացատը կարեւոր է։
 
@@ -110,9 +109,19 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b> Նոր </b>: { -profiler-brand-name }-ն այժմ ընդգրկուած է մշակողների գործիքներում: <a> Իմանալ աւելին </a> այս նոր հզաւր գործիքի մասին:
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Սահամանափակ ժամանակով կարող էք մուտք գործել ելակէտային կատարողականութեան վահանակ <a> { options-context-advanced-settings }-ի միջոցով </a>)
-
 perftools-onboarding-close-button =
     .aria-label = Փակէք անդամագրման ուղերձը
+
+## Profiler presets
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Ցանցային ծրագրաւորող
+
+##
+
