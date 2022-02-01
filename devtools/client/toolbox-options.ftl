@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Externes Debugging aktivieren
 options-enable-remote-tooltip2 =
     .title = Das Aktivieren dieser Einstellung ermöglicht das externe Debuggen dieser Browser-Instanz außerhalb des Programms, ggf. auf einem anderen Gerät.
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Benutzerdefinierte Formatierungen aktivieren
+options-enable-custom-formatters-tooltip =
+    .title = Wenn Sie diese Option aktivieren, können Websites benutzerdefinierte Formatierer für DOM-Objekte definieren
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service-Worker über HTTP aktivieren (bei geöffneten Entwicklerwerkzeugen)
 options-enable-service-workers-http-tooltip =
