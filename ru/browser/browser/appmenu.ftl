@@ -75,7 +75,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Войти в Синхронизацию…
+    .label = Войти для синхронизации…
 appmenu-remote-tabs-turn-on-sync =
     .label = Включить синхронизацию…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Рекомендуемые настройки для отладки большинства веб-приложений с низкими накладными расходами.
 profiler-popup-presets-web-developer-label =
     .label = Веб-разработка
-profiler-popup-presets-firefox-platform-description = Рекомендуемые настройки для внутренней отладки платформы Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Платформа Firefox
-profiler-popup-presets-firefox-front-end-description = Рекомендуемые настройки для внутренней отладки клиентской части Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Клиентская часть Firefox
-profiler-popup-presets-firefox-graphics-description = Рекомендуемые настройки для исследования производительности графики Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Графика Firefox
-profiler-popup-presets-media-description = Рекомендуемые настройки для диагностики проблем со звуком и видео.
 profiler-popup-presets-firefox-description = Рекомендуемые настройки для профилирования { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
