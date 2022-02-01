@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Donera din data till forsknin
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Gå med i { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Gå med i { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Ladda ner med din mobila enhet. Rikta kameran mot QR-koden. När en länk visas trycker du på den.
 more-from-moz-qr-code-box-firefox-mobile-button = Skicka ett mejl till din telefon istället
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-kod för att ladda ner { -brand-product-name } för mobiler
 more-from-moz-button-mozilla-vpn =
     .label = Skaffa VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-kod för att ladda ner { -brand-product-name } för mobiler
+more-from-moz-button-mozilla-vpn-2 = Skaffa VPN
 more-from-moz-learn-more-link = Läs mer
