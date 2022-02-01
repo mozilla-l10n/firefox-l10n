@@ -491,6 +491,32 @@ delete-key-in-use-description = Pole võimalik jätkata! Võti, mille valisid ku
 revoke-key-in-use-description = Pole võimalik jätkata! Võti, mille valisid tühistamiseks, on praegu selle identiteedi poolt kasutuses. Vali teine võti või vali mitte ükski ja proovi siis uuesti.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = E-posti aadressi ‘{ $keySpec }’ pole võimalik sobitada ühegi võtmega sinu võtmerõngal.
+key-error-key-id-not-found = Seadistatud võtit ‘{ $keySpec }’ pole võimalik sinu võtmerõngalt leida.
+key-error-not-accepted-as-personal = Sa pole kinnitanud, et võti IDga ‘{ $keySpec }’ on sinu isiklik võti.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Valitud funktsionaalsus pole võrguta režiimis saadaval. Palun ühendu võrku ja proovi siis uuesti.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Me ei leidnud otsingule vastavat võtit.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Viga - võtme eksportimise käsk ebaõnnestus
+# Strings used in keyRing.jsm
+fail-cancel = Viga - võtme vastuvõtmine katkestati kasutaja poolt
+not-first-block = Viga - esimene OpenPGP plokk pole avaliku võtme plokk
+import-key-confirm = Kas importida kirjas sisalduvad avalikud võtmed?
+fail-key-import = Viga - võtme importimine ebaõnnestus
+file-write-failed = Faili { $output } kirjutamine ebaõnnestus
+no-pgp-block = Viga - kehtivat soomustatud OpenPGP andmete plokki ei leitud
+confirm-permissive-import = Importimine ebaõnnestus. Imporditav võti võib olla rikutud või kasutab tundmatuid atribuute. Kas soovid proovida importida korrektsed osad? See võib kaasa tuua mittetäielike ja kasutuskõlbmatute võtmete importimise.
+# Strings used in trust.jsm
+key-valid-unknown = tundmatu
+key-valid-invalid = vigane
+key-valid-disabled = keelatud
+key-valid-revoked = tühistatud
+key-valid-expired = aegunud
+key-trust-untrusted = ebausaldusväärne
+key-trust-marginal = marginaalne
+key-trust-full = usaldatud
+key-trust-ultimate = ülim
 
 # Strings used in enigmailMessengerOverlay.js
 
