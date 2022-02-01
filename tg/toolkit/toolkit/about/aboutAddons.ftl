@@ -145,11 +145,24 @@ addon-updates-manual-updates-found = Дидани навсозиҳои даст�
 
 addon-install-from-file = Насб кардани ҷузъи иловагӣ аз файл…
     .accesskey = Н
+addon-install-from-file-dialog-title = Ҷузъи иловагиеро барои насб интихоб намоед
 addon-install-from-file-filter-name = Ҷузъҳои иловагӣ
+addon-open-about-debugging = Ислоҳ кардани хатоҳои ҷузъи иловагӣ
+    .accesskey = И
 
 ## Extension shortcut management
 
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Идоракунии миёнбурҳои васеъшавӣ
+    .accesskey = И
+shortcuts-no-addons = Шумо ягон васеъшавии фаъолшуда надоред.
+shortcuts-no-commands = Васеъшавиҳои зерин миёнбурҳоро надоранд:
+shortcuts-input =
+    .placeholder = Миёнбуреро ворид кунед
 shortcuts-browserAction2 = Фаъол кардани тугмаи навори абзорҳо
+shortcuts-pageAction = Фаъол кардани амал дар саҳифа
+shortcuts-sidebarAction = Нишон/пинҳон кардани навори ҷонибӣ
+shortcuts-card-collapse-button = Камтар нишон диҳед
 header-back-button =
     .title = Бозгашт
 
@@ -245,6 +258,8 @@ available-updates-heading = Навсозиҳои дастрас
 recent-updates-heading = Навсозиҳои охирин
 release-notes-loading = Бор шуда истодааст…
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
+recommended-extensions-heading = Васеъшавиҳои тавсияшуда
+recommended-themes-heading = Мавзуъҳои тавсияшуда
 
 ## Page headings
 
@@ -254,6 +269,10 @@ plugin-heading = Идоракунии плагинҳои худ
 dictionary-heading = Идоракунии луғатҳои худ
 locale-heading = Идоракунии забонҳои худ
 updates-heading = Идоракунии навсозиҳои худ
+sitepermission-heading = Идоракунии иҷозатҳои сомонаи худ
+shortcuts-heading = Идоракунии миёнбурҳои васеъшавӣ
 default-heading-search-label = Гирифтани ҷузъҳои иловагии бештар
+addons-heading-search-input =
+    .placeholder = Ҷустуҷӯ дар addons.mozilla.org
 addon-page-options-button =
     .title = Абзорҳо барои ҳамаи ҷузъҳои иловагӣ

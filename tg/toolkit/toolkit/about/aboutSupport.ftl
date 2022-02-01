@@ -17,6 +17,7 @@ support-addons-id = Рақами мушаххас
 security-software-title = Нармафзори амният
 security-software-type = Навъ
 security-software-name = Ном
+security-software-antivirus = Антивирус
 features-title = Хусусиятҳои { -brand-short-name }
 features-name = Ном
 features-version = Силсила

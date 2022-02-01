@@ -10,3 +10,4 @@ about-httpsonly-link-learn-more = Маълумоти бештар…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+about-httpsonly-suggestion-box-www-button = Ба www.{ $websiteUrl } гузаред
