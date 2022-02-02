@@ -19,3 +19,4 @@ third-party-unsigned-icon =
     .title = Այս հանգոյցը ստորագրուած չէ
 third-party-status-loaded = Բեռնուած
 third-party-status-blocked = Արգելափակուած
+third-party-status-redirected = Վերահասցէաւորուած
