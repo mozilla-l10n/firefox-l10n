@@ -65,9 +65,22 @@ font-language-group-tibetan =
 
 ## Default font type
 
+default-font-serif =
+    .label = Serif
+default-font-sans-serif =
+    .label = Sans Serif
 font-size-proportional-label =
     .value = Չափը.
     .accesskey = ը
+font-size-monospace-label =
+    .value = Չափը.
+    .accesskey = ա
+font-serif-label =
+    .value = Serif.
+    .accesskey = S
+font-sans-serif-label =
+    .value = Sans-serif
+    .accesskey = n
 font-min-size-label =
     .value = Տառատեսակի նուազագոյն չափը.
     .accesskey = փ

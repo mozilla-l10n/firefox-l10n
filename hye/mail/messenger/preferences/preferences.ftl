@@ -50,6 +50,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 restore-default-label =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = Վ
+default-search-engine = Սկզբնադիր որոնիչ սարք
 offline-legend = Անցանց
 offline-settings-button =
     .label = Անցանց…
