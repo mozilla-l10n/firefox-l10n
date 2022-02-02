@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Eksperimintele stipe foar lyktidic
 experimental-features-ime-search =
     .label = Adresbalke: resultaten toane wylst opstellen mei IME
 experimental-features-ime-search-description = In IME (Input Method Editor) is in helpmiddel wêrmei't jo komplekse symboalen, lykas yn East-Aziatyske of Yndyske skreaune talen brûkt wurdt, mei in standert toetseboerd ynfiere kinne. As jo dit eksperimint ynskeakelje, bliuwt it adresbalkepaniel iepen, wêrby sykresultaten en -suggestjes toand wurde, wylst jo IME brûke om tekst yn te fieren. Merk op dat de IME ien paniel toane kin dat de adresbalkeresultaten ôfdekt; dêrom wurdt dizze foarkar allinnich foarsteld foar IME wêrby dit type paniel net brûkt wurdt.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = User-Agent-tekenrige { -brand-product-name } 100
+experimental-features-firefox-100-description = Soargj derfoar dat { -brand-short-name } websites in User-Agent-tekenrige stjoert dy’t har foardocht as { -brand-product-name } ferzje 100. Brûk dizze ynstelling om te testen of websites net mear wurkje wannear’t it ferzjenûmer fan  { -brand-short-name } út trije sifers bestiet. De echte { -brand-product-name } 100 stiet pland foar maaie 2022, dus begjin no mei it testen fan jo websites!
