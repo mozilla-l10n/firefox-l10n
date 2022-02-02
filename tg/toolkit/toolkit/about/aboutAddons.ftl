@@ -122,6 +122,8 @@ addon-category-sitepermission-title =
 
 addon-updates-check-for-updates = Санҷиши навсозиҳо
     .accesskey = С
+addon-updates-view-updates = Дидани навсозиҳои охирин
+    .accesskey = Д
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.

@@ -81,6 +81,9 @@ restart-button-label = Аз нав оғоз кардан
 
 ## Media titles
 
+media-device-name = Ном
+media-device-group = Гурӯҳ
+media-device-vendor = Фурӯшанда
 
 ##
 
@@ -150,9 +153,17 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Ғайрифаъол
+policies-active = Фаъол
+policies-error = Хато
 
 ## Printing section
 
+support-printing-prefs-name = Ном
+support-printing-prefs-value = Қимат
 
 ## Normandy sections
 
+support-remote-experiments-name = Ном
+support-remote-features-name = Ном
+support-remote-features-status = Вазъият
