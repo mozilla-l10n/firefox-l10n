@@ -329,6 +329,7 @@ fission-status-disabled-by-default = Անջատուած է սկզբնադիր
 fission-status-enabled-by-user-pref = Միացուած է աւգտուողի կողմից
 fission-status-disabled-by-user-pref = Անջատուած է աւգտուողի կողմից
 fission-status-disabled-by-e10s-other = E10s -ն անջատուած է
+fission-status-enabled-by-rollout = Միացուած փուլային գլորման կողմից
 async-pan-zoom = Չհամաժամեցուած շեղում/խոշորացում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է
@@ -362,3 +363,8 @@ support-printing-prefs-value = Արժէքը
 ## Normandy sections
 
 support-remote-experiments-title = Հեռակայ փորձեր
+support-remote-experiments-name = Անուն
+support-remote-experiments-branch = Փորձարարական անցում
+support-remote-features-title = Հեռակայ յատկութիւններ
+support-remote-features-name = Անուն
+support-remote-features-status = Կարգավիճակ
