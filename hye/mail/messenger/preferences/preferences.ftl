@@ -51,6 +51,9 @@ restore-default-label =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = Վ
 default-search-engine = Սկզբնադիր որոնիչ սարք
+check-default-button =
+    .label = Ստուգել հիմայ…
+    .accesskey = հ
 offline-legend = Անցանց
 offline-settings-button =
     .label = Անցանց…
@@ -63,6 +66,12 @@ offline-settings-button =
 
 ##
 
+default-font-label =
+    .value = Սկզբնադիր տառատեսակ
+    .accesskey = Ս
+default-size-label =
+    .value = Չափ․
+    .accesskey = Չ
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
@@ -80,6 +89,15 @@ offline-settings-button =
 
 ##
 
+restore-html-label =
+    .label = Վերականգնել սկզբնադիրը
+    .accesskey = Վ
+default-last-label =
+    .none = Վերջին աւգտագործուած գրացուցակը
+add-cloud-account =
+    .label = Աւելացնել…
+    .accesskey = Ա
+    .defaultlabel = Աւելացնել…
 
 ## Privacy Tab
 

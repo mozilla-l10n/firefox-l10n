@@ -23,6 +23,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Results Pane -->
 <!ENTITY NickName.label                                 "Կեղծանուն">
+<!ENTITY Department.label                               "Բաժին">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
