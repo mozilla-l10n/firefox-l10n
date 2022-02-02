@@ -28,4 +28,5 @@ more-from-moz-qr-code-box-firefox-mobile-title = Mobil cihazınızla indirin. QR
 more-from-moz-qr-code-box-firefox-mobile-button = Bunun yerine telefonuma e-posta gönder
 more-from-moz-button-mozilla-vpn =
     .label = VPN’e kaydolun
+more-from-moz-button-mozilla-vpn-2 = VPN’e kaydolun
 more-from-moz-learn-more-link = Daha fazla bilgi al
