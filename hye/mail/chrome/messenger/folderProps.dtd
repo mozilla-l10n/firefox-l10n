@@ -15,6 +15,7 @@
 <!ENTITY offlineNewsgroup.button.label           "Ներբեռնել հիմա">
 <!ENTITY offlineNewsgroup.button.accesskey       "Ն">
 
+<!ENTITY folderProps.reset.tooltip               "Վերականգնել սկզբնադիր գոյնը">
 
 
 <!ENTITY folderQuotaStatus.label                 "Կարգավիճակ՝">
