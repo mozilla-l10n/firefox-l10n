@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ներքին
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = պահել about:webrtc-ի մասին որպէս
@@ -19,6 +18,8 @@ about-webrtc-aec-logging-msg-label = AEC արձանագրում
 about-webrtc-aec-logging-off-state-label = Սկսել AEC արձանագրումը
 about-webrtc-aec-logging-on-state-label = Կանգնեցնել AEC արձանագրումը
 about-webrtc-aec-logging-on-state-msg = AEC արձանագրումը միացուած է (կարող էք խաւսել մի քանի րոպէ եւ անջատել գրանցումը)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Ինքնաթարմացում
 
 ##
 
@@ -71,16 +72,13 @@ about-webrtc-type-remote = Հեռակայ
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Նշանակուած
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Ընտրուած
-
 about-webrtc-save-page-label = Պահպանել էջը
 about-webrtc-debug-mode-msg-label = Ռեժիմի կարգաւորում
 about-webrtc-debug-mode-off-state-label = Միացնել վրիպազերծիչը
@@ -106,7 +104,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (փակ�
 
 ##
 
-
 about-webrtc-local-candidate = Տեղային թեկնածու
 about-webrtc-remote-candidate = Հեռակայ թեկնածու
 about-webrtc-raw-candidates-heading = Ցուցադրել բոլոր թեկնածուները
@@ -121,9 +118,12 @@ about-webrtc-fold-show-msg = ցուցադրել մանրամասներ
     .title = Սեղմել այս բաժինն ընդլայնելու համար
 about-webrtc-fold-hide-msg = թաքցնել մանրամասները
     .title = սեղմէք՝ այս շրջանը թաքցնելու համար
+about-webrtc-dropped-frames-label = Անտեսուած կադրեր․
+about-webrtc-discarded-packets-label = Անտեսուած փաթեթներ.
 about-webrtc-decoder-label = Ապաայլագրիչ
 about-webrtc-encoder-label = Այլագրիչ
 about-webrtc-show-tab-label = Ցուցադրել ներդիրը
+about-webrtc-current-framerate-label = Կադրերի հաճախականութիւն
 about-webrtc-width-px = Լայնք (px)
 about-webrtc-height-px = Բարձրութիւն (px)
 about-webrtc-consecutive-frames = Յաջորդական շրջանակներ
@@ -145,32 +145,23 @@ about-webrtc-remote-send-ssrc = Հեռակայ Առաքող SSRC
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Տրամադրուած
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Տրամադրուած չէ
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Աւգտուողը սահմանում է WebRTC նախընտրութիւնները
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Հաշուարկային թողունակութիւն
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Հետագիծի նոյնացուցիչ
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Ուղարկել թողունակութիւնը (բայթ/վրկ)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Ստանալ թողունակութիւնը (բայթ/վրկ)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Առաւելագոյն լիցքը (բայթ/վրկ)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Յաճախականութեան յապաղումը մվ-ում
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT մվ
@@ -187,12 +178,27 @@ about-webrtc-aec-logging-off-state-msg = Գրանցած նիշքը կարող է
 
 ##
 
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Կորած { $packets } փաթեթ
+       *[other] Կորած { $packets } փաթեթներ
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Ուղարկուած { $packets } փաթեթ
+       *[other] Ուղարկուած { $packets } փաթեթներ
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -205,21 +211,15 @@ about-webrtc-trickle-caption-msg = Խաբուած թեկնածուները (ժա
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Դնել Տեղային SDP { NUMBER($timestamp, useGrouping: "false") } ժամանակի համար
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Դնել Հեռակայ SDP { NUMBER($timestamp, useGrouping: "false") } ժամանակի համար
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Ժամակնիքը { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
-
-##
-
-##
 
 ##
 
