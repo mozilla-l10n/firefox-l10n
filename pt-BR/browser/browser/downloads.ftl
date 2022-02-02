@@ -127,13 +127,13 @@ downloads-cmd-remove-from-history =
     .label = Remover do histórico
     .accesskey = E
 downloads-cmd-clear-list =
-    .label = Limpar o painel de visualização
+    .label = Limpar painel de visualização
     .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Limpar downloads
     .accesskey = d
 downloads-cmd-delete-file =
-    .label = Excluir
+    .label = Excluir arquivo baixado
     .accesskey = E
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
