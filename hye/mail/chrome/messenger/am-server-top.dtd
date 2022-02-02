@@ -14,4 +14,5 @@
     of messages between them
 -->
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY serverDefaultCharset2.label "Գրոյթի լռելեայն գաղտնագրում․">
 
