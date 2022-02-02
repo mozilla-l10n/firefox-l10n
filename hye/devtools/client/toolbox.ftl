@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Համայնք…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Անջատել թռուցիկի ինքնապահումը
+toolbox-meatball-menu-pseudo-locale-accented = Թոյղատրել «շեշտուած» տեղայնութիւնը
+toolbox-meatball-menu-pseudo-locale-bidi = Թոյղատրել «երկկողմանի» տեղայնութիւնը
 
 ##
 

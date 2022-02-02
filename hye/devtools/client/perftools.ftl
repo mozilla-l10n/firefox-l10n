@@ -122,6 +122,16 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Ցանցային ծրագրաւորող
+perftools-presets-web-developer-description = Առաջարկուող թոյլ վերադրով նախատեղադրում, կայքերի վրիպազերծման համար։
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = { -brand-shorter-name }-ի հաշուեհաստատման համար առաջարկուող նախատեղադրում։
+perftools-presets-graphics-label = Գծապատկերներ
+perftools-presets-graphics-description = { -brand-shorter-name }-ի գծապատկերային սխալների յայտնաբերման նախատեղադրում։
+perftools-presets-media-label = Տեսադարան
+perftools-presets-media-description2 = { -brand-shorter-name }-ի ձայնային կամ տեսային սխալների յայտնաբերման նախատեղադրում։
+perftools-presets-networking-label = Ցանց
+perftools-presets-networking-description = { -brand-shorter-name }-ի ցանցային սխալների յայտնաբերման նախատեղադրում։
+perftools-presets-custom-label = Յարմարեցուած
 
 ##
 

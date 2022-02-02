@@ -58,6 +58,10 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Եկրանահանի վարքագիծ
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Եկրանահանը պահել միայն սեղմատախտակում
+options-screenshot-clipboard-tooltip2 =
+    .title = Եկրանահանը անմիջապէս պահել սեղմատախտակում
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Նուագարկել խցիկի փականակի ձայնը
 options-screenshot-audio-tooltip =
@@ -100,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Միացնել հեռակառավարուող վրիպազերծումը
 options-enable-remote-tooltip2 =
     .title = Այս ընտրանքի միացումը կը թոյլատրի վրիպազերծել այս դիտարկչի հեռակայ նմուշը
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Թոյղատրել նախընտրելի ձեւաչափիչները
+options-enable-custom-formatters-tooltip =
+    .title = Ընտրանքի միացումը թոյղ կը տայ սահմանել յարմարեցուած ձեւաչափիչներ DOM տարրերի համար
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Միացնել սպասարկիչների աշխատանքը HTTP-ի նկատմամբ (երբ գործիքատուփը բաց է)
 options-enable-service-workers-http-tooltip =
