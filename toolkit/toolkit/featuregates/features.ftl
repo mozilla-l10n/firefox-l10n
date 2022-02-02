@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Experimentele ondersteuning voor g
 experimental-features-ime-search =
     .label = Adresbalk: resultaten tonen tijdens opstellen met IME
 experimental-features-ime-search-description = Een IME (Input Method Editor) is een hulpmiddel waarmee u complexe symbolen, zoals in Oost-Aziatische of Indische geschreven talen worden gebruikt, met een standaard toetsenbord kunt invoeren. Als u dit experiment inschakelt, blijft het adresbalkpaneel open, waarbij zoekresultaten en -suggesties worden getoond, terwijl u IME gebruikt om tekst in te voeren. Merk op dat de IME een paneel kan tonen dat de adresbalkresultaten afdekt; daarom wordt deze voorkeur alleen gesuggereerd voor IME waarbij dit type paneel niet wordt gebruikt.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = User-Agent-tekenreeks { -brand-product-name } 100
+experimental-features-firefox-100-description = Zorg ervoor dat { -brand-short-name } websites een User-Agent-tekenreeks stuurt die zich voordoet als { -brand-product-name } versie 100. Gebruik deze instelling om te testen of websites niet meer werken wanneer het versienummer van  { -brand-short-name } uit drie cijfers bestaat. De echte { -brand-product-name } 100 staat gepland voor mei 2022, dus begin nu met het testen van uw websites!
