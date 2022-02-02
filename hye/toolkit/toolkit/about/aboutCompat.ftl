@@ -11,3 +11,12 @@ text-disabled-in-about-config = Այս հատկութիւնը անջատուած
 text-no-interventions = Ոչ մի միջամտութիւն չի աւգտագործուում
 text-no-overrides = UA֊ի ոչ մի գերակայում չի աւգտագործուում
 text-title = about:compat
+
+## Do not translate "SmartBlock". For reference, SmartBlock is a feature
+## of Firefox anti-tracking which fixes website breakage caused when
+## trackers are blocked, by acting just enough like those trackers to fix the
+## breakage. SmartBlock also contains special fixes for sites broken by
+## Firefox's Total Cookie Protection feature.
+
+label-smartblock = SmartBlock Ուղղում
+text-no-smartblock = SmartBlock չի գործածուում

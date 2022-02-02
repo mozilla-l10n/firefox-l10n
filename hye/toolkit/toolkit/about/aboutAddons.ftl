@@ -8,6 +8,9 @@ search-header =
     .searchbuttonlabel = Որոնել
 search-header-shortcut =
     .key = f
+list-empty-get-extensions-message = Ստանալ հաւելումներ եւ ոճեր <a data-l10n-name="get-extensions">{ $domain }</a> -ից
+list-empty-get-dictionaries-message = Ստանալ բառարաններ <a data-l10n-name="get-extensions">{ $domain }</a> -ից
+list-empty-get-language-packs-message = Ստանալ լեզուական փաթեթներ <a data-l10n-name="get-extensions">{ $domain }</a> -ից
 list-empty-installed =
     .value = Ձեզ մաւտ նմանատիպ յաւելումներ տեղադրուած չեն
 list-empty-available-updates =
@@ -21,6 +24,9 @@ list-empty-button =
 help-button = Յաւելումների սպասարկում
 sidebar-help-button-title =
     .title = Յաւելումների սպասարկում
+addons-settings-button = { -brand-short-name } Կարգաւորումներ
+sidebar-settings-button-title =
+    .title = { -brand-short-name } Կարգաւորումներ
 show-unsigned-extensions-button =
     .label = Որոշ ընդլայնումներ չեն կարող ստուգուել
 show-all-extensions-button =
@@ -130,6 +136,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Վերջին թարմացումներ
 addon-category-recent-updates-title =
     .title = Վերջին թարմացումներ
+addon-category-sitepermission = Էջի արտաւնութիւններ
+addon-category-sitepermission-title =
+    .title = Էջի արտաւնութիւններ
 
 ## These are global warnings
 
@@ -243,6 +252,7 @@ install-theme-button = Տեղադրել հիմնապատկեր
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Կառավարել
 find-more-addons = Գտնել աւելի շատ յաւելումներ
+find-more-themes = Գտնել նոր ոճեր
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -272,12 +282,16 @@ extension-enabled-heading = Միացուած
 extension-disabled-heading = Անջատուած
 theme-enabled-heading = Միացուած
 theme-disabled-heading = Անջատուած
+theme-monochromatic-heading = Գունազարդումներ
+theme-monochromatic-subheading = Նոր գունազարդումներ { -brand-product-name } -ից։ Հասանելի սահմանափակ ժամանակով։
 plugin-enabled-heading = Միացուած
 plugin-disabled-heading = Անջատուած
 dictionary-enabled-heading = Միացուած
 dictionary-disabled-heading = Անջատուած
 locale-enabled-heading = Միացուած
 locale-disabled-heading = Անջատուած
+sitepermission-enabled-heading = Միացուած է
+sitepermission-disabled-heading = Անջատուած է
 always-activate-button = Միշտ գործարկել
 never-activate-button = Երբեք չգործարկել
 addon-detail-author-label = Հեղինակ
@@ -354,6 +368,7 @@ addon-permissions-optional = Ընտրովի թոյլտուութիւնները �
 addon-permissions-learnmore = Իմանալ աւելին թոյլտուութիւնների մասին
 recommended-extensions-heading = Առաջարկուող ընդլայնումներ
 recommended-themes-heading = Առաջարկուող հիմնապատկերներ
+addon-sitepermissions-required = Տրամադրում է հետեւեալ հնարաւորութիւնները՝ <span data-l10n-name="hostname">{ $hostname }</span>
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ուզո՞ւմ էք ստեղծագործել: <a data-l10n-name="link">Կառուցէք Ձեր սեփական հիմնապատկերը Firefox Color-ի միջոցով։</a>
@@ -366,6 +381,7 @@ plugin-heading = Կառավարել ներդիրները
 dictionary-heading = Կառավարել բառարանները
 locale-heading = Կառավարել լեզուները
 updates-heading = Կառավարեք թարմացումները
+sitepermission-heading = Արտաւնութիւններ կառավարում
 discover-heading = Անհատականացնել { -brand-short-name }-ը
 shortcuts-heading = Կառավարել ընդլայնման դիւրանցումները
 default-heading-search-label = Գտնել շատ յաւելումներ
