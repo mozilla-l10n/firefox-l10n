@@ -59,6 +59,8 @@ perftools-button-edit-settings = Uredi nastavitve …
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = Nit WebRender RenderBackend
 perftools-thread-img-decoder =
     .title = Niti za dekodiranje slik
 perftools-thread-dns-resolver =
@@ -84,19 +86,14 @@ perftools-onboarding-reenable-old-panel = (Za omejen čas je dosedanja plošča 
 
 perftools-presets-web-developer-label = Spletni razvoj
 perftools-presets-web-developer-description = Priporočena prednastavitev za razhroščevanje večine spletnih aplikacij, z nizko porabo sredstev.
-perftools-presets-firefox-platform-label = Firefox: platforma
-perftools-presets-firefox-platform-description = Priporočena prednastavitev za razhroščevanje platforme Firefox.
-perftools-presets-firefox-front-end-label = Firefox: čelni del
-perftools-presets-firefox-front-end-description = Priporočena prednastavitev za razhroščevanje čelnega dela Firefoxa.
-perftools-presets-firefox-graphics-label = Firefox: grafika
-perftools-presets-firefox-graphics-description = Priporočena prednastavitev za raziskovanje učinkovitosti grafike Firefoxa.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Priporočena prednastavitev za spremljanje zmogljivosti { -brand-shorter-name(sklon: "rodilnik") }.
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Prednastavitev za preiskovanje napak grafike v { -brand-shorter-name(sklon: "mestnik") }
 perftools-presets-media-label = Predstavnost
-perftools-presets-media-description = Priporočena prednastavitev za prepoznavanje težav z zvokom in videom.
 perftools-presets-media-description2 = Prednastavitev za preiskovanje napak zvoka in videa v { -brand-shorter-name(sklon: "mestnik") }.
+perftools-presets-networking-label = Omrežje
+perftools-presets-networking-description = Prednastavitev za preiskovanje napak v delovanju omrežja v { -brand-shorter-name(sklon: "mestnik") }
 perftools-presets-custom-label = Po meri
 
 ##

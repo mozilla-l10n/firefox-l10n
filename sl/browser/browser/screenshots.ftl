@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Kopiraj posnetek zaslona v odložišče
 screenshots-cancel-button-title =
     .title = Prekliči
+screenshots-retry-button-title =
+    .title = Zajemi nov posnetek
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
