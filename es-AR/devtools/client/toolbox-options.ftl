@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Habilitar depuración remota
 options-enable-remote-tooltip2 =
     .title = Activar esta opción permitirá depurar esta instancia del navegador de forma remota
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Habilitar los formateadores pesronalizados
+options-enable-custom-formatters-tooltip =
+    .title = Habilitar esta opción permitirá a los sitios definir fomateadores personalizados para los objetos DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Habilitar Service Workers sobre HTTP (cuando esté abierta la caja de herramientas)
 options-enable-service-workers-http-tooltip =
