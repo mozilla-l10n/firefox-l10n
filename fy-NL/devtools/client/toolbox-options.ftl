@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Remote debugging ynskeakelje
 options-enable-remote-tooltip2 =
     .title = Troch dizze opsje yn te skeakeljen kinne jo dizze browserynstallaasje op ôfstân debugge
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Oanpaste opmaakeleminten ynskeakelje
+options-enable-custom-formatters-tooltip =
+    .title = As jo dizze opsje ynskeakelje, kinne websites oanpaste opmaakeleminten foar DOM-objekten definiearje
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service Workers oer HTTP ynskeakelje (as wurkset iepene is)
 options-enable-service-workers-http-tooltip =
