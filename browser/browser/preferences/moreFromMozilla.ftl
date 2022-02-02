@@ -24,8 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Doe os seus dados para estudo
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Junte-se a { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Junte-se ao { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Transfira utilizando o seu dispositivo móvel. Aponte a sua câmara para o código QR. Quando uma ligação aparecer, toque nela.
 more-from-moz-qr-code-box-firefox-mobile-button = Envie um e-mail para o seu telemóvel em vez disso
 more-from-moz-button-mozilla-vpn =
     .label = Obtenha a VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Código QR para transferir o { -brand-product-name } para dispositivos móveis
+more-from-moz-button-mozilla-vpn-2 = Obter VPN
 more-from-moz-learn-more-link = Saiba mais
