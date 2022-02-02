@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Experimentellt stöd för att låt
 experimental-features-ime-search =
     .label = Adressfält: visa resultat under IME-komposition
 experimental-features-ime-search-description = En IME (Input Method Editor) är ett verktyg som låter dig skriva in komplexa symboler, som de som används i östasiatiska eller indiska skriftspråk, med ett vanligt tangentbord. Om du aktiverar detta experiment hålls adressfältets panel öppen och visar sökresultat och förslag medan du använder IME för att mata in text. Observera att IME kan visa en panel som täcker resultat i adressfältet, därför föreslås denna inställning endast för IME som inte använder denna typ av panel.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 Användaragentsträng
+experimental-features-firefox-100-description = Låt { -brand-short-name } skicka webbplatser en användaragentsträng som utger sig för att vara { -brand-product-name } version 100. Använd den här inställningen för att testa om webbplatser kraschar när { -brand-short-name } når ett tresiffrigt versionsnummer. Den riktiga { -brand-product-name } 100 är planerad att släppas i maj 2022, så börja testa dina webbplatser nu!
