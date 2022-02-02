@@ -40,6 +40,10 @@ pocket-panel-signup-tagline = Salva articoli e video da { -brand-product-name } 
 pocket-panel-signup-tagline-story-one = Fai clic sul pulsante { -pocket-brand-name } per salvare qualunque articolo, video o pagina da { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Visualizza in { -pocket-brand-name } da qualunque dispositivo e in qualunque momento.
 
+pocket-panel-signup-cta-a = Il tuo pulsante "salva" per Internet.
+pocket-panel-signup-cta-b = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link. Visualizza il tuo elenco su qualsiasi dispositivo, in qualsiasi momento.
+pocket-panel-signup-cta-c = Visualizza il tuo elenco su qualsiasi dispositivo, in qualsiasi momento.
+
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = Il mio elenco
@@ -49,7 +53,17 @@ pocket-panel-home-explore-popular-topics = Esplora argomenti più popolari
 pocket-panel-home-discover-more = Scopri altro
 pocket-panel-home-explore-more = Esplora
 
+pocket-panel-home-most-recent-saves = Ecco gli elementi salvati di recente:
+pocket-panel-home-new-user-cta = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link.
+pocket-panel-home-new-user-message = Controlla qui gli ultimi elementi salvati.
+
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Visualizza il mio elenco
 pocket-panel-header-sign-in = Accedi
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Visualizza tutto
+pocket-panel-button-add-tags = Aggiungi etichette
+pocket-panel-button-activate = Attiva { -pocket-brand-name } in { -brand-product-name }
