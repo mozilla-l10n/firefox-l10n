@@ -66,6 +66,7 @@ onboarding-import-sites-disclaimer =
     O { -brand-short-name } não guarda ou sincroniza dados de 
     outro navegador a menos que opte por
     importar os mesmos.
+return-to-amo-add-theme-label = Adicionar o tema
 
 ## Multistage onboarding strings (about:welcome pages)
 
