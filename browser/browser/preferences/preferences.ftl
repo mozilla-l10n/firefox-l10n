@@ -449,6 +449,10 @@ update-application-use-service =
     .label = Utilizza un servizio di sistema per installare gli aggiornamenti
     .accesskey = U
 
+update-application-suppress-prompts =
+    .label = Visualizza meno notifiche per gli aggiornamenti
+    .accesskey = n
+
 update-setting-write-failure-title2 = Errore durante il salvataggio delle impostazioni
 
 update-setting-write-failure-message2 =
