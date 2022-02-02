@@ -13,10 +13,10 @@ more-from-moz-firefox-mobile-description = Mobilni brskalnik, ki postavlja vašo
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
-more-from-moz-qr-code-box-firefox-mobile-title = Prenesite ga s svojo mobilno napravo. Usmerite kamero v kodo QR. Ko se prikaže povezava, se je dotaknite.
+more-from-moz-qr-code-box-firefox-mobile-title = Prenesite ga z mobilno napravo. Usmerite kamero v kodo QR. Ko se prikaže povezava, se je dotaknite.
 more-from-moz-qr-code-box-firefox-mobile-button = Raje pošlji na telefon po e-pošti
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = Koda QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave
 more-from-moz-button-mozilla-vpn =
     .label = Namestite VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Koda QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave
 more-from-moz-learn-more-link = Več o tem
