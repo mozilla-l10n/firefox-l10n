@@ -44,7 +44,7 @@ options-styleeditor-label = हुना़र सासापड़ायिच
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = आच् ते पुरा़व  CSS
 options-stylesheet-autocompletion-tooltip =
-    .title = आच् ते पुरा़व  CSS  गुन को , गोनोङ आर सासापड़ाविच् आमेम टाइप  लेका हुना़र सासापड़ाविच्
+    .title = ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ  CSS  ᱜᱩᱱ ᱠᱚ , ᱜᱚᱱᱚᱝ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱤᱡ ᱟᱢᱮᱢ ᱴᱟᱭᱤᱯ ᱞᱮᱠᱷᱟ ᱦᱩᱱᱟᱹᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱡ
 
 ## Screenshot section
 
@@ -52,7 +52,7 @@ options-stylesheet-autocompletion-tooltip =
 ## Editor section
 
 # The heading
-options-sourceeditor-label = सासापड़ाविजाक्  कुसियाक् को .
+options-sourceeditor-label = ᱥᱟᱥᱟᱯᱲᱟᱣᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 options-sourceeditor-detectindentation-tooltip =
     .title = सोत बियसोय रे बाय साव साहटा सिमा़ रे बाय सा़व साहटा सिमा़ ऑनमान .
 options-sourceeditor-detectindentation-label = साहटा सिमा़ ञाम एना .

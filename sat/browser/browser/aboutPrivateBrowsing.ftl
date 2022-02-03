@@ -24,7 +24,16 @@ about-private-browsing-info-description = { -brand-short-name } ᱟᱢᱟᱜ ᱥ
 about-private-browsing-need-more-privacy = ᱟᱨᱦᱚᱸ ᱱᱤᱥᱚᱱ ᱛᱟᱢ ᱫᱚᱨᱠᱟᱨ?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 about-private-browsing-info-description-private-window = ᱱᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ : { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
+about-private-browsing-info-description-simplified = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
 about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+about-private-browsing-hide-activity = ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ ᱟᱨ ᱡᱟᱭᱜᱟ, ᱡᱷᱚᱛᱚᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱨᱟᱡᱽ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
+about-private-browsing-get-privacy = ᱟᱢ ᱡᱷᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱽᱨᱟᱩᱡᱽ ᱨᱮᱭᱟᱜ ᱱᱤᱥᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱟᱢ ᱢᱮ
+about-private-browsing-hide-activity-1 = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱟᱨ ᱡᱟᱭᱜᱟ ᱫᱚ { -mozilla-vpn-brand-name } ᱛᱮ ᱩᱠᱩᱭ ᱢᱮ ᱾ ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱣ ᱛᱮᱭᱟᱨ ᱟᱭ, ᱥᱟᱱᱟᱢ Wi-Fi ᱨᱮ ᱦᱚᱸ ᱠᱟᱹᱢᱤᱟᱭ ᱾
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } ᱫᱚ ᱱᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱟᱱᱟ
 about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ

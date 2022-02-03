@@ -53,7 +53,7 @@ menu-about =
 
 menu-file =
     .label = ᱨᱮᱫ
-    .accesskey = ᱨ
+    .accesskey = F
 menu-file-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
     .accesskey = ᱱ

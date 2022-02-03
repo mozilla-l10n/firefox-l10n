@@ -89,7 +89,7 @@ translate-exceptions =
 download-header = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 download-save-to =
     .label = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
-    .accesskey = ᱨ
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -109,9 +109,9 @@ applications-action-column =
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
-applications-file-ending = { $extension } रेत्
+applications-file-ending = { $extension } ᱨᱮᱫ
 applications-action-save =
-    .label = रेत् सांचाव मे
+    .label = ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
