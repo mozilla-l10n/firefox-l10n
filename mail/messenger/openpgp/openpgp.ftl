@@ -577,3 +577,8 @@ minimal-line-wrapping =
 sending-news =
     Krüptitud saatmise toiming katkestati.
     Seda kirja polnud võimalik krüptida, sest sellel on uudistegrupi adressaate. Palun proovi kirja uuesti saata ilma krüptimiseta.
+send-to-news-warning =
+    Hoiatus: oled saatmas krüptitud kirja uudistegrupile.
+    Seda ei soovitata teha, sest see on mõttekas ainult siis, kui kõik grupi liikmed saavad kirja dekrüptida (st, et kiri peaks olema krüptitud kõigi grupiliikmete võtmetega). Palun saada see kiri ainult siis, kui tead, mida teed.
+    Kas jätkata?
+save-attachment-header = Salvesta dekrüptitud manus
