@@ -51,11 +51,11 @@ cert-error-symantec-distrust-admin = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱵᱟᱵ�
 cert-error-old-tls-version = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ TLS 1.2 ᱯᱨᱚᱴᱚᱠᱚᱞ ᱵᱟᱭ ᱥᱟᱹᱯᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱥᱟᱹᱯᱚᱴ ᱠᱟᱫ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱚᱯᱚᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱠᱟᱱᱟ ᱾
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
-cert-error-details-hsts-label = HTTP ᱥᱴᱨᱤᱠᱴ ᱴᱨᱟᱱᱥᱯᱚᱴ ᱥᱮᱠᱭᱚᱨᱤᱴᱭ: { $hasHSTS }
+cert-error-details-hsts-label = HTTP ᱥᱴᱨᱤᱠᱴ ᱴᱨᱟᱱᱥᱯᱚᱴ ᱥᱮᱠᱭᱚᱨᱤᱴᱭ : { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
-cert-error-details-key-pinning-label = HTTP ᱯᱟᱹᱵᱞᱤᱠ ᱠᱤᱭ ᱯᱤᱱᱤᱝ: { $hasHPKP }
-cert-error-details-cert-chain-label = ᱯᱚᱨᱢᱟᱱ ᱪᱮᱱᱺ
+cert-error-details-key-pinning-label = HTTP ᱯᱟᱹᱵᱞᱤᱠ ᱠᱤᱭ ᱯᱤᱱᱤᱝ : { $hasHPKP }
+cert-error-details-cert-chain-label = ᱯᱚᱨᱢᱟᱱ ᱪᱮᱱ ᱺ
 open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱟᱭᱤᱴ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
