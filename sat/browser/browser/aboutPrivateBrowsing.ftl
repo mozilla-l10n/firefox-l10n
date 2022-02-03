@@ -35,5 +35,10 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩ
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } ᱫᱚ ᱱᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱟᱱᱟ
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] ᱮᱴᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱨᱮ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ  <a data-l10n-name="link-options"> ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ </a> ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+       *[other] ᱮᱴᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱨᱮ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ  <a data-l10n-name="link-options"> ᱠᱩᱥᱤᱛᱮᱭᱟᱜ </a> ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
