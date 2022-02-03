@@ -27,6 +27,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 
+<!ENTITY helpus.start               "Ցանկանու՞մ էք աւգնել:">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Կատարել նուիրատուութիւն">
 <!ENTITY helpus.middle              "կամ">
