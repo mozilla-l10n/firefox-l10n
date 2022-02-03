@@ -10,6 +10,7 @@ third-party-detail-occurrences = Երեւոյթներ
 third-party-detail-app = Յաւելուած
 third-party-detail-publisher = Հրապարակող
 third-party-th-process = Գործընթաց
+third-party-th-duration = Բեռնման տեւողութիւնը (մվ)
 third-party-th-status = Կարգավիճակ
 third-party-tag-ime = IME
     .title = Այս հանգոյցի տեսակը բեռնուում է, երբ դուք աւգտագործում էք երրորդ կողմի IME:

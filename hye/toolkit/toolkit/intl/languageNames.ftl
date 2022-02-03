@@ -159,6 +159,7 @@ language-name-ru = ռուսերէն
 language-name-rw = կինեարուանդայ
 language-name-sa = սանսկրիտ
 language-name-sc = սարդիներէն
+language-name-sco = Շոտլանդերէն
 language-name-sd = սինդհի
 language-name-se = սիւսիսային Սամի
 language-name-sg = սանգոյ
