@@ -106,6 +106,8 @@ options-enable-remote-tooltip2 =
     .title = 启用此选项将允许远程调试此浏览器实例
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = 启用自定义格式化程序
+options-enable-custom-formatters-tooltip =
+    .title = 打开此选项，将允许网站自行定义 DOM 对象的格式化程序
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = 启用 Service Workers over HTTP（在工具箱打开时）
 options-enable-service-workers-http-tooltip =
