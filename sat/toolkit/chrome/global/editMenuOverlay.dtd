@@ -5,7 +5,7 @@
 <!ENTITY findCmd.label             "ञाम">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
-<!ENTITY findAgainCmd.label        "दोहड़ा ञाम">
+<!ENTITY findAgainCmd.label        "ᱫᱚᱦᱲᱟ ᱧᱟᱢ">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">

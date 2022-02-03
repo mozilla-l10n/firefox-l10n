@@ -23,6 +23,7 @@ about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱ
 about-private-browsing-info-description = { -brand-short-name } ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱯᱟᱱᱛᱮᱭᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱴᱮᱵᱽ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱚᱱ ᱯᱷᱟᱨᱪᱟ ᱭᱟᱭ ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱩᱱᱠᱩ ᱵᱚᱸᱫᱚ ᱠᱚᱣᱟᱢ ᱟᱨ ᱮᱯ ᱟᱲᱟᱹᱜ ᱟᱢ ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱵᱟᱝ ᱵᱮᱱᱟᱣ ᱢᱮᱭᱟᱭ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱟᱨ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱮᱢᱚᱜᱤᱪ ᱠᱷᱚᱱ, ᱱᱚᱣᱟ ᱫᱚ ᱟᱞᱜᱟ ᱛᱮᱭᱟᱨ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱠᱚ ᱟᱢ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱚᱨᱟᱣ ᱮᱫᱟᱢ ᱩᱱᱠᱩ ᱠᱷᱚᱱ ᱡᱟ ᱱᱚᱣᱟ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱚ ᱾
 about-private-browsing-need-more-privacy = ᱟᱨᱦᱚᱸ ᱱᱤᱥᱚᱱ ᱛᱟᱢ ᱫᱚᱨᱠᱟᱨ?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+about-private-browsing-info-description-private-window = ᱱᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ : { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
 about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
 about-private-browsing-search-banner-close-button =

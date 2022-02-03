@@ -22,7 +22,6 @@ include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 
 
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -48,7 +47,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY newNavigatorCmd.label        "नावा विंडो">
 <!ENTITY newPrivateWindow.label     "नावा निजेराक् विंडो   ">
 
-<!ENTITY editMenu.label         " सासापड़ाव">
+<!ENTITY editMenu.label         "ᱥᱟᱯᱲᱟᱣ">
 <!ENTITY preferencesCmd2.label       "आपनार मोने तेयाक् को">
 <!ENTITY preferencesCmdUnix.label       "कुसियाक् को">
 
