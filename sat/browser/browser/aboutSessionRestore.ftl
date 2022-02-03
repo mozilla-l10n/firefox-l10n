@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = ᱤᱠᱟᱹ ᱾ ᱟᱞᱮ ᱟᱢᱟᱜ ᱥᱟᱦᱴᱟ ᱠᱚ ᱟᱹᱜᱩ ᱨᱩᱟᱹᱲ ᱨᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ ᱾
+restore-page-problem-desc = ᱟᱞᱮ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ ᱾ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+restore-page-try-this = ᱱᱤᱛ ᱦᱚᱸ ᱵᱟᱝ ᱫᱚᱦᱚ ᱨᱩᱟᱹᱲ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱚᱠᱟᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱥᱠᱤᱞ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱢᱟᱨᱮ ᱴᱮᱵᱽ ᱧᱮᱞ ᱢᱮ, ᱚᱠᱟ ᱵᱟᱝ ᱫᱚᱦᱚ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱚᱱᱟ ᱪᱤᱱᱦᱟᱹ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ, ᱟᱨ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
 restore-page-hide-tabs = ᱛᱟᱭᱚᱢ ᱴᱮᱵᱽ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
 restore-page-show-tabs = ᱛᱟᱭᱚᱢ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 # When tabs are distributed across multiple windows, this message is used as a
@@ -31,3 +36,5 @@ welcome-back-restore-button =
     .label = ᱫᱮᱞᱟ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱞᱮᱱᱜᱮ
     .accesskey = L
 welcome-back-restore-all-label = ᱡᱷᱚᱛᱚ ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ
+welcome-back-restore-some-label = ᱚᱱᱟ ᱫᱚᱦᱚᱭ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱫᱚᱨᱠᱟᱨᱟᱜ ᱠᱟᱱᱟᱢ
+welcome-back-page-info-link = ᱟᱢᱟᱜ ᱥᱮᱞᱮᱫ ᱮᱦᱚᱵ ᱟᱨ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱠᱚ ᱫᱚ ᱚᱪᱚᱜᱮᱱᱟ ᱟᱨ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱥᱟᱡᱟᱣ ᱠᱚ ᱫᱚ ᱢᱩᱞ ᱛᱮ ᱫᱚᱦᱚ ᱦᱩᱭᱮᱱᱟ ᱾ ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱟᱢᱟᱜ ᱢᱩᱥᱠᱤᱞ ᱵᱟᱝ ᱦᱚᱞ ᱮᱫᱟᱭ, <a data-l10n-name="link-more"> ᱟᱢ ᱡᱟᱦᱟᱸ ᱫᱚᱨᱠᱟᱨ ᱚᱱᱟ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾ </a>
