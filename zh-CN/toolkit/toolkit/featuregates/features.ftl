@@ -94,3 +94,6 @@ experimental-features-multi-pip-description = 允许同时打开多个画中画�
 experimental-features-ime-search =
     .label = 地址栏：实时显示输入过程中的结果
 experimental-features-ime-search-description = 对于东亚及印度语言使用者，要在标准键盘上输入各种文字，输入法是不可或缺的工具。启用此实验后，地址栏面板将在文本输入过程中保持打开状态，并实时显示搜索结果与建议。请注意：某些输入法的面板可能会覆盖地址栏显示的结果，建议在确认所用输入法无上述行为后，开启此首选项。
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 用户代理（UA）字符串
