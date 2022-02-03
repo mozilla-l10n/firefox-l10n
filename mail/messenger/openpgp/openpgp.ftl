@@ -543,3 +543,18 @@ key-man-button-generate-key-continue = &Jätka võtme genereerimist
 
 failed-decrypt = Viga - dekrüptimine ebaõnnestus
 fix-broken-exchange-msg-failed = Seda kirja pole võimalik parandada.
+attachment-no-match-from-signature = Allkirjafaili ‘{ $attachment }’ polnud võimalik manusega sobitada
+attachment-no-match-to-signature = Manust ‘{ $attachment }’ polnud võimalik allkirjafailiga sobitada
+signature-verified-ok = Manuse { $attachment } allkiri kinnitati edukalt
+signature-verify-failed = Manuse { $attachment } allkirja polnud võimalik kontrollida
+decrypt-ok-no-sig =
+    Hoiatus
+    Dekrüptimine oli edukas, aga allkirja polnud võimalik õigesti kontrollida
+msg-ovl-button-cont-anyway = &Jätka ikkagi
+enig-content-note = *Selle kirja manuseid pole allkirjastatud ega krüptitud*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Saada kiri
+msg-compose-details-button-label = Üksikasjad…
+msg-compose-details-button-access-key = k
+send-aborted = Saatmisoperatsioon katkestati.
+key-not-trusted = Võtme ‘{ $key }’ usaldus pole piisav
