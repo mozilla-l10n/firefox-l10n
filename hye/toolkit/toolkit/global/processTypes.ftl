@@ -31,13 +31,18 @@ process-type-prealloc = Նախայատկացուած
 ##
 
 process-type-default = Հիմնական
+process-type-tab = Ներդիր
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
 # process used to perform network operations
 process-type-socket = Շաղկապ
+# process used to decode media
+process-type-rdd = RDD
 
 ##
 ## Other
 ##
 
+# fallback
+process-type-unknown = Անյայտ
