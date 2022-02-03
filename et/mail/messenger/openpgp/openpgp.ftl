@@ -558,3 +558,13 @@ msg-compose-details-button-label = Üksikasjad…
 msg-compose-details-button-access-key = k
 send-aborted = Saatmisoperatsioon katkestati.
 key-not-trusted = Võtme ‘{ $key }’ usaldus pole piisav
+key-not-found = Võtit ‘{ $key }’ ei leitud
+key-revoked = Võti ‘{ $key }’ tühstati
+key-expired = Võti ‘{ $key }’ aegus
+msg-compose-internal-error = Esines sisemine viga.
+keys-to-export = Vali sisestatavad OpenPGP võtmed
+msg-compose-partially-encrypted-inlinePGP =
+    Kiri, millele vastad, sisaldas nii krüptimata kui krüptitud osi. Kui saatjal polnud võimalik mõndasid kirja osi algselt dekrüptida, siis sa võid lekitada konfidentsiaalset infot, mida saatja ise algselt dekrüptida ei saanud.
+    Palun kaalu kõigi tsiteeritud osade eemaldamist sellest vastusest saatjale.
+msg-compose-cannot-save-draft = Viga mustandi salvestamisel
+msg-compose-partially-encrypted-short = Hoidu tundliku info lekitamisest - osaliselt krüptitud kiri.
