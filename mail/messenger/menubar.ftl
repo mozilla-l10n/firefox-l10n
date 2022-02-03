@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Touch
     .accesskey = T
+menu-spaces-toolbar-button =
+    .label = Flikmeny
+    .accesskey = F
 
 ## File
 

@@ -172,6 +172,8 @@ decrypt-and-copy-failures = { $failures } av { $total } meddelanden kunde inte d
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Flikmeny
 spaces-toolbar-button-mail =
     .title = Växla till e-postfliken
 spaces-toolbar-button-address-book =
@@ -184,3 +186,5 @@ spaces-toolbar-button-chat =
     .title = Växla till chattfliken
 spaces-toolbar-button-settings =
     .title = Växla till fliken Inställningar
+spaces-toolbar-button-collapse =
+    .title = Komprimera flikmeny
