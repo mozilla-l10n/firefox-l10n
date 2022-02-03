@@ -568,3 +568,12 @@ msg-compose-partially-encrypted-inlinePGP =
     Palun kaalu kõigi tsiteeritud osade eemaldamist sellest vastusest saatjale.
 msg-compose-cannot-save-draft = Viga mustandi salvestamisel
 msg-compose-partially-encrypted-short = Hoidu tundliku info lekitamisest - osaliselt krüptitud kiri.
+quoted-printable-warn =
+    Oled kirjade saatmiseks lubanud kodeeringu ‘tsiteeritud-prinditav’. See võib põhjustada sinu kirja vale dekrüptimist ja/või kontrollimist.
+    Kas soovid ‘tsiteeritud-prinditav’ kirjade saatmise praegu välja lülitada?
+minimal-line-wrapping =
+    Sa oled määranud reamurdmise { $width } märgi peale. Korrektse krüptimise ja/või allkirjastamise jaoks peab see väärtus olema vähemalt 68.
+    Kas soovid reamurdmise muuta 68 märgi peale?
+sending-news =
+    Krüptitud saatmise toiming katkestati.
+    Seda kirja polnud võimalik krüptida, sest sellel on uudistegrupi adressaate. Palun proovi kirja uuesti saata ilma krüptimiseta.
