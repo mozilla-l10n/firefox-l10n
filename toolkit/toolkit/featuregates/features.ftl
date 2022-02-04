@@ -97,4 +97,4 @@ experimental-features-ime-search-description = IME (Input Method Editor - Ред
 # Firefox 100
 experimental-features-firefox-100 =
     .label = Строка User-Agent { -brand-product-name } 100
-experimental-features-firefox-100-description = При включении { -brand-short-name } будет отправлять веб-сайтам строку User-Agent, характерную для { -brand-product-name } версии 100. Используйте этот параметр, чтобы проверить, будут ли веб-сайты работать, если версия { -brand-short-name } станет трехзначной. Выпуск реальной версии { -brand-product-name } 100 запланирован на май 2022 года, поэтому начните тестировать свои веб-сайты уже сейчас!
+experimental-features-firefox-100-description = При включении этого параметра { -brand-short-name } будет отправлять веб-сайтам строку User-Agent, характерную для { -brand-product-name } версии 100. Используйте это, чтобы проверить, будут ли веб-сайты работать, если версия { -brand-short-name } станет трехзначной. Выпуск реальной версии { -brand-product-name } 100 запланирован на май 2022 года, поэтому начните тестировать веб-сайты уже сейчас!
