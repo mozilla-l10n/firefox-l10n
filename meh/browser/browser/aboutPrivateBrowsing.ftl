@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Síne iin ventana yu´u
 about-private-browsing-search-placeholder = Nánuku nuu Web
 about-private-browsing-info-title = Síne iin ventana yu'u
 about-private-browsing-info-myths = Tu´un nakani jiee nánuku yu'u
+about-private-browsing-search-btn =
+    .title = Nánuku nuu Web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

@@ -30,9 +30,14 @@ pocket-panel-signup-learn-more = Ka´vi kue´eka
 pocket-panel-signup-login = Kajie´e sesión
 pocket-panel-signup-signup-email = Chu'un iin correo electrónico
 pocket-panel-signup-signup-cta = Chu'un sivɨnu { -pocket-brand-name }. Ntu jiniñu'u xu'un.
+pocket-panel-signup-signup-firefox = Chu'un sivɨnu { -brand-product-name }
 
 ## about:pocket-home panel
 
+pocket-panel-home-welcome-back = Kusɨɨ inidáni nkantanu tuku
+pocket-panel-home-discover-more = Nani'i ku'eka
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Kune'ya lista
+pocket-panel-header-sign-in = Kajie´e sesión
