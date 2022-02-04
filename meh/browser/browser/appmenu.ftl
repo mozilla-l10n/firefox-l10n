@@ -54,6 +54,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Kajie´e sesión ji Sync...
 appmenu-remote-tabs-turn-on-sync =
     .label = Tee Sync…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Xituvi kuaiyo da pestañas
+    .tooltiptext = Xituvi kuaiyo da pestañas nuu ka̱a̱ ya'a
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ntu nune pestañas
 appmenu-remote-tabs-opensettings =
@@ -70,6 +74,7 @@ appmenuitem-fxa-sign-in = Kajie'e sesión { -brand-product-name }
 appmenuitem-fxa-manage-account = Tetiñu cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Kajie´e sesión
+appmenu-fxa-show-more-tabs = Xituvi kuaiyo da pestañas
 appmenuitem-save-page =
     .label = Chuva´a kua...
 
@@ -93,6 +98,8 @@ profiler-popup-learn-more-button =
     .label = Ka´vi kue´eka
 profiler-popup-settings =
     .value = Ke´i
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Tee da ke'i…
 profiler-popup-start-recording-button =
     .label = Kajie'e grabación
 profiler-popup-start-shortcut =
@@ -114,6 +121,10 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Ñivɨ sa´a Web
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 
 ## History panel
 
