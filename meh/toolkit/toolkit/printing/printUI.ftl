@@ -9,7 +9,10 @@ printui-scale-pcent = Escala
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+
 ##
+
+printui-cancel-button = Nkuvi-ka
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

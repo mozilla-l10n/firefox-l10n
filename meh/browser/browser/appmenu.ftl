@@ -56,6 +56,8 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Tee Sync…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ntu nune pestañas
+appmenu-remote-tabs-opensettings =
+    .label = Ke´i
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?

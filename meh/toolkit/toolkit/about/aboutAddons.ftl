@@ -4,13 +4,13 @@
 
 search-header-shortcut =
     .key = f
-
 list-empty-button =
     .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
-
+addons-settings-button = Ke´i { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Ke´i { -brand-short-name }
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -61,6 +61,7 @@ addon-detail-updates-radio-off = Xina´va
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 
 ##
 
