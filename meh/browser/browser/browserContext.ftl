@@ -251,6 +251,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Chuva´a nasun kua...
     .accesskey = G
+main-context-menu-video-take-snapshot =
+    .label = Tɨɨn captura...
+    .accesskey = T
 main-context-menu-video-email =
     .label = Chu´un íchi tutu kana…
     .accesskey = a
@@ -274,6 +277,9 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Ni'i nuu kajie´e sesión nchuva´a
+    .accesskey = g
 main-context-menu-use-saved-password =
     .label = Ni´i contraseña nchuva'a
     .accesskey = g

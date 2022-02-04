@@ -576,6 +576,11 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = Sine tutu
     .tooltiptext = Síne archivo ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = Ventana jíía yu´u
+    .tooltiptext = Síne iin ventana jíía yu'u ({ $shortcut })
 
 ## EME notification panel
 

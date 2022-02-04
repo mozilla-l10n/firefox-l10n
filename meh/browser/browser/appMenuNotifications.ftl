@@ -2,13 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-unsupported2 =
+    .label = Ntu nkuvi naxi'ña
+    .buttonlabel = Kuni kue'eka
+    .buttonaccesskey = A
+    .secondarybuttonlabel = Xita
+    .secondarybuttonaccesskey = c
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Kua´a kuvi satiñu extensión nuu pestaña yu´u
     .accesskey = A
-
 appmenu-new-tab-controlled-changes =
     .label = Página jíía sukua nsama
     .buttonlabel = Kino da nsama

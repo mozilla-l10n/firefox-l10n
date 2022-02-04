@@ -91,8 +91,19 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = Perfilador
+    .tooltiptext = Grabar un perfil de rendimiento
+profiler-popup-button-recording =
+    .label = Perfilador
+    .tooltiptext = El perfilador se encuentra grabando un perfil
+profiler-popup-button-capturing =
+    .label = Perfilador
+    .tooltiptext = El perfilador está capturando un perfil
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Kune'ya kue'eka tu'un
 profiler-popup-learn-more = Ka´vi kue´eka
 profiler-popup-learn-more-button =
     .label = Ka´vi kue´eka
@@ -102,6 +113,8 @@ profiler-popup-settings =
 profiler-popup-edit-settings = Tee da ke'i…
 profiler-popup-start-recording-button =
     .label = Kajie'e grabación
+profiler-popup-discard-button =
+    .label = Xita
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -125,6 +138,8 @@ profiler-popup-presets-web-developer-label =
     .label = Ñivɨ sa´a Web
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-media-label =
+    .label = Multimedia
 
 ## History panel
 
