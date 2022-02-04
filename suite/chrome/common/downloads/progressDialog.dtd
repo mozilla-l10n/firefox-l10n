@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY progress.title                  "Prenos v teku …">
+<!ENTITY closeWindow.key                 "w">
+<!ENTITY cmd.pause.tooltip               "Začasno ustavi">
+<!ENTITY cmd.resume.tooltip              "Nadaljuj">
+<!ENTITY cmd.retry.tooltip               "Poskusi znova">
+<!ENTITY cmd.cancel.tooltip              "Prekliči">
+<!ENTITY cmd.open.label                  "Odpri">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.show.label                  "Odpri vsebujočo mapo">
+<!ENTITY cmd.show.accesskey              "m">
+<!ENTITY cmd.goToDownloadPage.label      "Pojdi na stran za prenos">
+<!ENTITY cmd.goToDownloadPage.accesskey  "s">
+<!ENTITY cmd.copyDownloadLink.label      "Kopiraj povezavo za prenos">
+<!ENTITY cmd.copyDownloadLink.accesskey  "K">
+<!ENTITY closeWhenDone.label             "Zapri to okno, ko se prenos dokonča.">
+<!ENTITY closeWhenDone.accesskey         "č">
