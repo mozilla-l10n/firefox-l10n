@@ -75,6 +75,8 @@ login-intro-instructions-fxa = Krouit ur gont { -fxaccount-brand-name } pe kenna
 login-intro-instructions-fxa-settings = Mont betek Arventennoù > Sync > Gweredekaat ar goubredañ… Dibabit an titouroù kennaskañ.
 login-intro-instructions-fxa-help = Gweladennit skor <a data-l10n-name="help-link">{ -lockwise-brand-short-name }</a> evit kaout sikour.
 about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c’hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = Gweladennit ar <a data-l10n-name="passwords-help-link">skor gerioù-tremen</a> evit kaout muioc'h a sikour.
+about-logins-intro-browser-only-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c'hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -brand-product-name }</a>
 about-logins-intro-import2 = Mard eo enrollet ho titouroù kennaskañ e diavaez { -brand-product-name } e c’hallit <a data-l10n-name="import-browser-link">enporzhiañ anezho adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>
 
 ## Login

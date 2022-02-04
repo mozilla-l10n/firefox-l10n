@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = Gallout a rit ober gant { -pocket-brand-name } evi
 pocket-panel-home-explore-popular-topics = Merdeiñ ar sujedoù brudet
 pocket-panel-home-discover-more = Dizoloiñ muioc'h c'hoazh
 pocket-panel-home-explore-more = Merdeiñ
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Gwelout ma roll
+pocket-panel-header-sign-in = Kennaskañ
