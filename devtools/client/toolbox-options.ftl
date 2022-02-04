@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Включить удалённую отладку
 options-enable-remote-tooltip2 =
     .title = Включение этой опции позволит удалённо отлаживать этот экземпляр браузера
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Включить собственные средства форматирования
+options-enable-custom-formatters-tooltip =
+    .title = Включение этой настройки позволит сайтам определять собственные средства форматирования для объектов DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Включить Service Worker'ы поверх HTTP (когда открыта панель инструментов)
 options-enable-service-workers-http-tooltip =
