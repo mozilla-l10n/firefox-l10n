@@ -7,6 +7,8 @@
 
 <!ENTITY tracking.label                   "Sledenje uporabnikom">
 
+<!ENTITY doNotTrack.label                 "Sporočaj spletnim mestom, naj mi ne sledijo">
+<!ENTITY doNotTrack.accesskey             "S">
 
 <!ENTITY geoLocation.label                "Brskanje z upoštevanjem lokacije">
 
@@ -17,5 +19,7 @@
   to a combination of both, so it's important that these strings convey the
   meaning "reported" (and not something like "known").
 -->
+<!ENTITY safeBrowsing.label               "Varno brskanje">
+
 
 
