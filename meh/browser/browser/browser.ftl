@@ -596,6 +596,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage = Tetiñu da nuu kei´i
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Xita
 eme-notifications-drm-content-playing-dismiss-accesskey = D
@@ -667,6 +668,9 @@ navbar-print-tab-modal-disabled =
 navbar-home =
     .label = Nuu kajie´e
     .tooltiptext = Página nu kajie´e { -brand-short-name }
+navbar-library =
+    .label = Biblioteca
+    .tooltiptext = Kune'ya historial, marcadores nchuva'a jee kue'eka
 navbar-search =
     .title = Nánuku
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -682,3 +686,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = Xituvi kua

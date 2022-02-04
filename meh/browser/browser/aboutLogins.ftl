@@ -258,6 +258,10 @@ about-logins-import-dialog-error-unable-to-read-title = Ntu kuvi ka'vi archivo
 about-logins-import-dialog-error-unable-to-read-description = Kune'ya de nkajinu iin archivo CSV a xíín TSV.
 about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
 about-logins-import-dialog-error-cancel = Nkuvi
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Fila { $number }
 about-logins-import-report-row-description-added = A jíía nu kajie'e sesión nte
 about-logins-import-report-row-description-error = Error: Kumani campo
 

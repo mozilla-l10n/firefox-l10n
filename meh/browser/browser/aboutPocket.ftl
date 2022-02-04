@@ -34,6 +34,7 @@ pocket-panel-signup-signup-firefox = Chu'un sivɨnu { -brand-product-name }
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = Lista nuu'u
 pocket-panel-home-welcome-back = Kusɨɨ inidáni nkantanu tuku
 pocket-panel-home-discover-more = Nani'i ku'eka
 
