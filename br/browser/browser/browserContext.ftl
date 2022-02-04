@@ -368,3 +368,10 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Digeriñ an ere en un ivinell { $containerName } nevez
     .accesskey = i
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Diskouez ar ger-tremen
+    .accesskey = D
+main-context-menu-reveal-password =
+    .label = Diguzhañ ar ger-tremen
+    .accesskey = D

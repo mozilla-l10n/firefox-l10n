@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
 downloads-cmd-pause =
@@ -48,8 +43,18 @@ downloads-cmd-show-menuitem-2 =
            *[other] Diskouez en teuliad
         }
     .accesskey = D
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Digeriñ e gwelerez ar sistem
+    .accesskey = D
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Digeriñ e { $handler }
     .accesskey = D
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
@@ -74,6 +79,15 @@ downloads-cmd-show-description =
             [macos] Diskouez e-barzh Finder
            *[other] Digeriñ an teuliad a endalc'h ar restr
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Atav digeriñ e { $handler }
+    .accesskey = A
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -118,6 +132,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Skarzhañ roll ar pellgargadurioù
     .accesskey = p
+downloads-cmd-delete-file =
+    .label = Dilemel
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Aotren ar pellgargañ
@@ -163,6 +180,8 @@ downloading-file-opens-in-minutes = Digeriñ a raio a-benn { $minutes }m...
 downloading-file-opens-in-minutes-and-seconds = Digeriñ a raio a-benn { $minutes }e { $seconds }m...
 downloading-file-opens-in-seconds = Digeriñ a raio a-benn { $seconds }eil...
 downloading-file-opens-in-some-time = Digeriñ pa va leuniet…
+downloading-file-click-to-open =
+    .value = Digeriñ pa vo echuet
 
 ##
 
@@ -184,6 +203,23 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Munudoù ar bellgargardenn
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] N'eo ket bet pellgarget ar restr.
+        [two] { $num } restr n'int ket bet pellgarget.
+        [few] { $num } restr n'int ket bet pellgarget.
+        [many] { $num } a restroù n'int ket bet pellgarget.
+       *[other] { $num } restr n'int ket bet pellgarget.
+    }
+
+##
+
 downloads-clear-downloads-button =
     .label = Skarzhañ roll ar pellgargadurioù
     .tooltiptext = Skarzhet eo bet ar pellgargadurioù peurechu, nullet ha c'hwitet
