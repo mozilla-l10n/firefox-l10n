@@ -133,6 +133,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Sikune enlace nuu ventana jíía yu´u
     .accesskey = p
+main-context-menu-bookmark-link =
+    .label = Tee enlace nuu marcadores
+    .accesskey = A
 main-context-menu-save-link =
     .label = Chuva´a vínculo kua...
     .accesskey = G
@@ -207,6 +210,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Kene nuu pantalla ka'nu
     .accesskey = a
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Kune'ya Picture-in-Picture
+    .accesskey = i
 main-context-menu-image-reload =
     .label = Nachu'un tuku tutu nátava
     .accesskey = R
