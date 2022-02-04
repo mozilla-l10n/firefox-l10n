@@ -26,3 +26,11 @@ more-from-moz-button-mozilla-rally =
     .label = Emezelañ ouzh { -rally-short-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = Emezelañ ouzh { -rally-short-name }
+more-from-moz-qr-code-box-firefox-mobile-title = Pellgargit gant ho trevnad hezoug. Bukit ar c'hamera war ar boneg QR. Pa vo skrammet un ere, stokit warnañ.
+more-from-moz-qr-code-box-firefox-mobile-button = Kas ur postel d'ho pellgomz e plas
+more-from-moz-button-mozilla-vpn =
+    .label = Kaout ar VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Boneg QR evit pellgargañ { -brand-product-name } hezoug
+more-from-moz-button-mozilla-vpn-2 = Kaout ar VPN
+more-from-moz-learn-more-link = Gouzout hiroc'h

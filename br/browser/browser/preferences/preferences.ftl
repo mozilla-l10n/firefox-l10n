@@ -876,6 +876,10 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Toupinoù heuliañ etre-lec’hienn — Ebarzhiñ a ra an toupinoù media kevredadel
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Toupinoù etre-lec’hienn — Ebarzhiñ a ra an toupinoù media kevredadel
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Toupinoù heuliañ etre-lec'hienn
+sitedata-option-block-cross-site-cookies =
+    .label = Toupinoù heuliañ etrelec’hienn, ha difuiñ an toupinoù etrelec'hienn all
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Heulierien etre lec'hiennoù ha media kevredadel, ha strollañ an toupinoù a chom
 sitedata-option-block-unvisited =
@@ -968,6 +972,7 @@ content-blocking-etp-standard-tcp-rollout-description = Ar gwarez toupinoù klok
 content-blocking-etp-standard-tcp-rollout-learn-more = Gouzout hiroc'h
 content-blocking-warning-title = Diwallit!
 content-blocking-and-isolating-etp-warning-description = Stankañ an heulierien ha difuiñ an toupinoù a c'hallfe kaout un efed war implij lec'hiennoù ’zo. Adkargit ur bajenn gant an heulierien evit kargañ pep tra.
+content-blocking-and-isolating-etp-warning-description-2 = An arventenn-mañ a c'hall lakaat lec'hiennoù 'zo da vont a-dreuz. Ma seblant bezañ torret ul lec'hienn e c'hallit diweredekaat ar gwarez heuliañ evit al lec'hienn-mañ ha kargañ pep tra.
 content-blocking-warning-learn-how = Deskit penaos
 content-blocking-reload-description = Ezhomm ho po da adkargañ hoc'h ivinelloù evit arloañ ar c'hemmoù.
 content-blocking-reload-tabs-button =
@@ -1041,6 +1046,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Nemedennoù
     .accesskey = N
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Nemedennoù…
+    .accesskey = N
+    .searchkeywords = diflugelloù
 permissions-addon-install-warning =
     .label = Ho kelaouiñ pa glask ul lec'hienn staliañ askouezhioù
     .accesskey = H
@@ -1068,6 +1079,8 @@ addon-recommendations-link = Gouzout hiroc'h
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ
+collection-backlogged-crash-reports-with-link = Aotren { -brand-short-name } da gas danevelloù sac'hadennoù en ho plas. <a data-l10n-name="crash-reports-link">Gouzout hiroc'h</a>
+    .accesskey = g
 
 ## Privacy Section - Security
 ##
@@ -1099,11 +1112,23 @@ certs-view =
 certs-devices =
     .label = Trevnadoù diogelroez…
     .accesskey = T
+space-alert-over-5gb-settings-button =
+    .label = Digeriñ an arventennoù
+    .accesskey = D
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } n'eus ket kalz a blas ken war ar gantenn.</strong> Gallout a ra al lec'hienn bezañ skrammet a-dreuz. Gallout a rit skarzhañ ar roadennoù kadavet e Arventennoù > Buhez prevez ha diogelroez > Toupinoù ha roadennoù lec'hienn.
+space-alert-under-5gb-message2 = <strong>Ne chom ket kalz a blas war ar gantenn evit { -brand-short-name }.</strong> Gallout a ra al lec'hiennoù skrammañ en un doare dizereat. Gweladennit "Gouzout hiroc'h" evit gwellekaat hoc'h arver kantenn ha kaout un arnod merdeiñ gwelloc'h.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mod HTTPS hepken
+httpsonly-description = HTTPS a ginnig ur c'hennask diogel hag enrineget etre { -brand-short-name } hag al lec'hiennoù a weladennit. Lodenn vrasañ al lec'hiennoù a skor HTTPS, ha mard eo gweredekaet ar mod HTTPS-hepken e vo lakaet { -brand-short-name } da dremen ar c'hennask dre HTTPS.
 httpsonly-learn-more = Gouzout hiroc'h
+httpsonly-radio-enabled =
+    .label = Gweredekaat HTTPS-hepken en holl brenestroù
+httpsonly-radio-enabled-pbm =
+    .label = Gweredekaat HTTPS-hepken er prenestroù prevez hepken
+httpsonly-radio-disabled =
+    .label = Na weredekaat ar mod HTTPS-hepken
 
 ## The following strings are used in the Download section of settings
 
