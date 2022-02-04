@@ -217,6 +217,8 @@ downloads-files-not-downloaded =
         [many] { $num } a restroù n'int ket bet pellgarget.
        *[other] { $num } restr n'int ket bet pellgarget.
     }
+downloads-blocked-from-url = Pellgargadennoù stanket eus { $url }.
+downloads-blocked-download-detailed-info = { $url } he deus klasket pellgargañ meur a restr ent emgefreek. Gallout a rafe bezañ torret al lec'hienn pe o klask lakaat restroù lastez en o trevnad.
 
 ##
 

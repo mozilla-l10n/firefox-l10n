@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Ket bremañ
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Al lec'hiennoù listennet amañ a zo bet kavet en trevnad-mañ. { -brand-short-name } ne enroll ket ha ne c'houbred ket ar roadennoù o tont deus merdeerien-all nemet ma tibabit o emporzhiañ.
+return-to-amo-add-theme-label = Ouzhpennañ an neuz
 
 ## Multistage onboarding strings (about:welcome pages)
 
