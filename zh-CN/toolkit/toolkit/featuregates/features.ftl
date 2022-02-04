@@ -97,3 +97,4 @@ experimental-features-ime-search-description = 对于东亚及印度语言使用
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 用户代理（UA）字符串
+experimental-features-firefox-100-description = { -brand-short-name } 将向网站发送伪装成 { -brand-product-name } 100 的用户代理字符串。您可以通过此选项测试 { -brand-short-name } 在迭代至三位数版本号时，网站是否会发生故障。{ -brand-product-name } 100 正式版定于 2022 年五月发布，现在就开始测试您的网站吧！
