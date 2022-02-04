@@ -20,7 +20,7 @@ default-bookmarks-firefox-get-help = Получить помощь
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = Настроить Firefox
 # link title for https://www.mozilla.org/contribute/
-default-bookmarks-firefox-community = Принять участие
+default-bookmarks-firefox-community = Присоединиться
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = О нас
 # Firefox Nightly links folder name
@@ -28,7 +28,7 @@ default-bookmarks-nightly-heading = Ресурсы Firefox Nightly
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Блог Firefox Nightly
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-default-bookmarks-bugzilla = Трекер ошибок Mozilla
+default-bookmarks-bugzilla = Система отслеживания ошибок Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Сеть разработчиков Mozilla
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
