@@ -4,14 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Nuu kajie´e sesión ji contraseñas
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 login-filter =
     .placeholder = Nánuku nuu kajie´e sesión
-
 create-login-button = Sá´á jíía iin kajie´e sesión
-
 fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-sync-button = Kajie'e sesión sa kuvi sa sincronizar
 fxaccounts-avatar-button =
@@ -44,6 +39,8 @@ login-list-count =
 login-list-sort-label-text = Naka̱ji:
 login-list-name-option = Sivɨ (A-Z)
 login-list-name-reverse-option = Sivɨ (Z-A)
+login-list-username-option = Sivɨ ñɨvɨ (A-Z)
+login-list-username-reverse-option = Sivɨ ñɨvɨ (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
@@ -58,6 +55,9 @@ about-logins-list-item-breach-icon =
     .title = Nuu Web ntu vatu
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
+about-logins-list-section-today = Ki̱vɨ̱ vitá
+about-logins-list-section-yesterday = Ki̱vɨ̱ iku
+about-logins-list-section-week = Uxa ki̱vɨ̱ ichi yata
 
 ## Introduction screen
 
@@ -107,21 +107,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Sa kuvi natee nuu kajie'e s
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Natee nuu kajie'e sesión nchuva'a
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Sa kuvi kune'ya contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = Xituvi contraseña nchuva'a
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Sa kuvi tɨɨ contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nchuva'a
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Sa kuvi kuiso nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to export a password in about:logins
@@ -135,47 +130,37 @@ master-password-reload-button =
     .label = Kajie´e sesión
     .accesskey = K
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
-
 about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 about-logins-confirm-remove-dialog-confirm-button = Xita
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Xita
        *[other] Xita kuaiyo
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Kuvi, xina nu kajie´e sesión ya´a
        *[other] Kuvi, xina nu kajie´e sesión ya´a
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ¿Xina nu kajie´e sesión { $count }?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ¿Xina { $count } nu kajie´e sesión ntaka da ka̱a̱?
     }
-
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-message = Da contraseñas noo´o nchuva´a kua tu'un (kua,  BadP@ssw0rd) je de íyo neva síne archvio kuvi kutuvi.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 about-logins-alert-import-title = Nnɨ'ɨ nasia´a
 about-logins-alert-import-message = Kune'ya resumen da a nnasia'a
-
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo da nsama je ntu nchuva´a naa.
 confirm-discard-changes-dialog-confirm-button = Xita
@@ -206,7 +191,6 @@ about-logins-vulnerable-alert-learn-more-link = Ka´vi kue´eka
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = A íyo iin nkivɨ nuu { $loginTitle } ji sivɨ ñivɨ. <a data-l10n-name="duplicate-link"> ¿Kuvinu kɨ ´ɨnɨ yukuan?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contraseña ya´a.
 
@@ -255,20 +239,17 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Ntee a jíía nuu kajie´e sesión:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ntee a jíía nuu kajie´e sesión: </span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Nsá´á
-
 about-logins-import-dialog-error-title = Error de importación
 about-logins-import-dialog-error-file-format-title = Tixin ji formato archivo
 about-logins-import-dialog-error-file-permission-title = Ntu nkuvi ka'vi archivo
@@ -277,7 +258,7 @@ about-logins-import-dialog-error-unable-to-read-title = Ntu kuvi ka'vi archivo
 about-logins-import-dialog-error-unable-to-read-description = Kune'ya de nkajinu iin archivo CSV a xíín TSV.
 about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
 about-logins-import-dialog-error-cancel = Nkuvi
-
+about-logins-import-report-row-description-added = A jíía nu kajie'e sesión nte
 about-logins-import-report-row-description-error = Error: Kumani campo
 
 ##

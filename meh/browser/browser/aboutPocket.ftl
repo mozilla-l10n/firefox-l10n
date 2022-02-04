@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tee etiquetas
-
 pocket-panel-saved-error-generic = Nkene iin tixi sa kuvi chuva'a nu { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = Ntu xini 25 tu'un
 pocket-panel-saved-error-not-saved = Página ntu nchuva'a
@@ -26,10 +25,14 @@ pocket-panel-signup-view-list = Kune'ya lista
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-already-have = ¿A kuvinu ñɨvɨ { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Ka´vi kue´eka
 pocket-panel-signup-login = Kajie´e sesión
 pocket-panel-signup-signup-email = Chu'un iin correo electrónico
 pocket-panel-signup-signup-cta = Chu'un sivɨnu { -pocket-brand-name }. Ntu jiniñu'u xu'un.
 
 ## about:pocket-home panel
+
+
+## Pocket panel header component
 
