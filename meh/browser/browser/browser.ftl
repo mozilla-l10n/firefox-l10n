@@ -451,6 +451,10 @@ urlbar-result-action-search-tabs = Nánuku sukua
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Full Screen and Pointer Lock UI
 
@@ -613,6 +617,13 @@ popups-infobar-block =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -647,3 +658,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Kutuvi kuaiyo pestañas
     .tooltiptext = Kutuvi kuaiyo pestañas
+
+## Infobar shown at startup to suggest session-restore
+

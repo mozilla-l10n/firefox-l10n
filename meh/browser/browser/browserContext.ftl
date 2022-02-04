@@ -218,6 +218,9 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Nachu'un tuku tutu nátava
     .accesskey = R
+main-context-menu-image-view-new-tab =
+    .label = Síne tutu natava nu iin pestaña jíía
+    .accesskey = I
 main-context-menu-image-copy =
     .label = Tɨɨn tutu nátava
     .accesskey = C
@@ -339,3 +342,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Kuni kue´eka jiee´e DRM...
     .accesskey = D
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Xituvi contraseña
+    .accesskey = ñ
