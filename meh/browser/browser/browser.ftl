@@ -192,6 +192,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Tee “{ $engineName }”
+    .tooltiptext = Tee ka̱a̱ nánuku “{ $engineName }”
+    .aria-label = Tee ka̱a̱ nánuku “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -214,6 +222,7 @@ search-one-offs-history =
 ## Bookmark Panel
 
 bookmarks-add-bookmark = Tee a ta´a ini noo´o
+bookmarks-edit-bookmark = Tee da a ta´an noo'o
 bookmark-panel-cancel =
     .label = Nkuvi-ka
     .accesskey = C
@@ -566,6 +575,9 @@ more-menu-go-offline =
 toolbar-overflow-customize-button =
     .label = Sá´á vii barra ka̱a̱...
     .accesskey = C
+toolbar-button-email-link =
+    .label = Chu´un íchi enlace
+    .tooltiptext = Chu´un íchi iin enlace nu página ya'a
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -585,6 +597,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Xita
 eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
@@ -606,6 +619,9 @@ remote-tabs-sync-now = Sincronizar ntañu´u
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Kue'eka…
 ui-tour-info-panel-close =
     .tooltiptext = Nakasɨ
 
