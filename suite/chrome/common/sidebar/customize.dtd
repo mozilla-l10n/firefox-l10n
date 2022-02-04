@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from ./customize.xul -->
+
+<!ENTITY sidebar.customize.title                "Prilagodi stransko vrstico">
+<!ENTITY sidebar.customize.current2.label       "Zavihki v stranski vrstici:">
+<!ENTITY sidebar.customize.current2.accesskey   "Z">
+<!ENTITY sidebar.customize.customize.label      "Prilagodi zavihek …">
+<!ENTITY sidebar.customize.customize.accesskey  "l">
+<!ENTITY sidebar.customize.remove.label         "Odstrani">
+<!ENTITY sidebar.customize.remove.accesskey     "O">
+<!ENTITY sidebar.customize.additional.label     "Razpoložljivi zavihki:">
+<!ENTITY sidebar.customize.additional.accesskey "ž">
+<!ENTITY sidebar.customize.add.label            "Dodaj">
+<!ENTITY sidebar.customize.add.accesskey        "a">
+<!ENTITY sidebar.customize.preview.label        "Predogled …">
+<!ENTITY sidebar.customize.preview.accesskey    "P">
+<!ENTITY sidebar.customize.up.label             "Premakni gor">
+<!ENTITY sidebar.customize.up.accesskey         "g">
+<!ENTITY sidebar.customize.down.label           "Premakni dol">
+<!ENTITY sidebar.customize.down.accesskey       "d">
+<!ENTITY sidebar.more.label                     "Najdi več zavihkov …">
+<!ENTITY sidebar.more.accesskey                 "j">
