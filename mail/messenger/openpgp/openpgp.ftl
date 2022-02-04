@@ -582,3 +582,12 @@ send-to-news-warning =
     Seda ei soovitata teha, sest see on mõttekas ainult siis, kui kõik grupi liikmed saavad kirja dekrüptida (st, et kiri peaks olema krüptitud kõigi grupiliikmete võtmetega). Palun saada see kiri ainult siis, kui tead, mida teed.
     Kas jätkata?
 save-attachment-header = Salvesta dekrüptitud manus
+no-temp-dir =
+    Ajutist kausta, kuhu kirjutada, ei leitud
+    Palun määra keskkonnamuutuja TEMP
+possibly-pgp-mime = Võimalik PGP/MIME krüptitud või allkirjastatud kiri, kontrollimiseks kasuta ‘dekrüptimise/kontrollimise’ funktsionaalsust
+cannot-send-sig-because-no-own-key = Seda kirja pole võimalik digitaalselt allkirjastada, sest sa pole veel seadistanud otspunktkrüptimist võtme <{ $key }> jaoks
+cannot-send-enc-because-no-own-key = Seda kirja pole võimalik krüptitult saata, sest sa pole veel seadistanud otspunktkrüptimist võtme <{ $key }> jaoks
+compose-menu-attach-key =
+    .label = Lisa minu avalik võti
+    .accesskey = L
