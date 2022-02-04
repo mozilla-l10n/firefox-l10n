@@ -591,3 +591,48 @@ cannot-send-enc-because-no-own-key = Seda kirja pole võimalik krüptitult saata
 compose-menu-attach-key =
     .label = Lisa minu avalik võti
     .accesskey = L
+compose-menu-encrypt-subject =
+    .label = Teema krüptimine
+    .accesskey = T
+# Strings used in decryption.jsm
+do-import-multiple =
+    Kas importida järgnevad võtmed?
+    { $key }
+do-import-one = Kas importida { $name } ({ $id })?
+cant-import = Viga avaliku võtme importimisel
+unverified-reply = Tõenäoliselt muudeti taandega kirja osa (vastust)
+key-in-message-body = Kirja sisust leiti võti. Importimiseks klõpsa ‘Impordi võti’
+sig-mismatch = Viga - allkirja mittevastavus
+invalid-email = Viga - mittekorrektsed e-posti aadressid
+attachment-pgp-key =
+    Avatav manus ‘{ $name }’ tundub olevat OpenPGP võtmefail.
+    Võtmete importimiseks klõpsa ‘Impordi’ või faili sisu avamiseks brauseris klõpsa ‘Vaata’
+dlg-button-view = &Vaata
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dekrüptitud kiri (taastatud katkise PGP e-kirja formaat, mille põhjustas tõenäoliselt vana Exhange'i server, nii et tulemus ei pruugi olla lugemiseks kõlblik)
+# Strings used in encryption.jsm
+not-required = Viga - krüptimine pole nõutud
+# Strings used in windows.jsm
+no-photo-available = Pilt pole saadaval
+error-photo-path-not-readable = Pildi asukoht ‘{ $photo }’ pole loetav
+debug-log-title = OpenPGP silumislogi
+# Strings used in dialog.jsm
+repeat-prefix = See hoiatus kordub { $count }
+repeat-suffix-singular = kord veel.
+repeat-suffix-plural = korda veel.
+no-repeat = Seda hoiatust enam ei kuvata.
+dlg-keep-setting = Vastus peetakse meeles ja rohkem enam ei küsita
+dlg-button-ok = &Sobib
+dlg-button-close = S&ulge
+dlg-button-cancel = &Loobu
+dlg-no-prompt = Seda akent rohkem ei näidata
+enig-prompt = OpenPGP dialoog
+enig-confirm = OpenPGP kinnitus
+enig-alert = OpenPGP hoiatus
+enig-info = OpenPGP teave
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Proovi uuesti
+dlg-button-skip = &Jäta vahele
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = OpenPGP hoiatus
