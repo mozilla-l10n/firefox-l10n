@@ -97,4 +97,4 @@ experimental-features-ime-search-description = Un IME (Input Method Editor, edit
 # Firefox 100
 experimental-features-firefox-100 =
     .label = Catena User-Agent de { -brand-product-name } 100
-experimental-features-firefox-100-description = Facer que { -brand-short-name } invia al sitos web un identificator User-Agent que finge esser { -brand-product-name } version 100. Usa iste configuration pro testar si sitos web non functiona plus quando { -brand-short-name } habera un numero de version de tres digitos. Le real { -brand-product-name } 100 apparera in maio 2022, dunque, comencia ora a testar vostre sitso web!
+experimental-features-firefox-100-description = Facer que { -brand-short-name } invia al sitos web un identificator User-Agent que finge esser { -brand-product-name } version 100. Usa iste configuration pro testar si sitos web non functiona plus quando { -brand-short-name } habera un numero de version de tres digitos. Le real { -brand-product-name } 100 apparera in maio 2022, dunque, comencia ora a testar vostre sito web!
