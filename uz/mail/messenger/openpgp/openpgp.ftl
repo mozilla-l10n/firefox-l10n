@@ -11,6 +11,7 @@ openpgp-key-man-discover-prompt = OpenPGP kalitlarini onlayn topish uchun kalitl
 
 # Strings filters.jsm
 filter-folder-required = Siz moʻljaldagi jildni tanlashingiz lozim.
+import-info-fpr = Barmoq izi
 
 ## Account settings export output
 
