@@ -99,11 +99,15 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Narzędzia debugowania chrome przeglądarki i dodatków
 options-enable-chrome-tooltip =
-    .title = Włączenie tej opcji pozwoli na używanie wielu narzędzi dla programistów w kontekście przeglądarki (poprzez Narzędzia → Dla twórców witryn → Narzędzia przeglądarki) i debugowanie dodatków z menedżera dodatków
+    .title = Włączenie tej opcji umożliwi używanie wielu narzędzi dla programistów w kontekście przeglądarki (poprzez Narzędzia → Dla twórców witryn → Narzędzia przeglądarki) i debugowanie dodatków z menedżera dodatków
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Debugowanie zdalne
 options-enable-remote-tooltip2 =
-    .title = Włączenie tej opcji pozwoli na zdalne debugowanie tej instancji przeglądarki
+    .title = Włączenie tej opcji umożliwi zdalne debugowanie tej instancji przeglądarki
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Niestandardowe formatery
+options-enable-custom-formatters-tooltip =
+    .title = Włączenie tej opcji umożliwi witrynom określanie niestandardowych formaterów dla obiektów DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Wątki usługowe przez HTTP (gdy narzędzia są otwarte)
 options-enable-service-workers-http-tooltip =
