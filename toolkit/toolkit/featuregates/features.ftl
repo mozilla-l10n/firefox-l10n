@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Eksperymentalna obsługa otwierani
 experimental-features-ime-search =
     .label = Pasek adresu: wyświetlanie wyników podczas edycji IME
 experimental-features-ime-search-description = IME (edytor metody wprowadzania) to narzędzie umożliwiające wpisywanie złożonych symboli, na przykład tych używanych w językach wschodnioazjatyckich czy indyjskich, za pomocą standardowej klawiatury. Włączenie tego eksperymentu spowoduje, że panel paska adresu pozostanie otwarty, pokazując wyniki wyszukiwania i podpowiedzi, kiedy używane jest IME do wpisywania tekstu. Zauważ, że IME może wyświetlać panel zakrywający wyniki paska adresu, dlatego też ta preferencja jest proponowana tylko w przypadku IME, które nie korzystają z tego typu panelu.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = Identyfikator programu { -brand-product-name } 100
+experimental-features-firefox-100-description = Sprawia, że { -brand-short-name } wysyła witrynom internetowym identyfikator programu udający przeglądarkę { -brand-product-name } w wersji 100. Użyj tego ustawienia, aby przetestować, czy witryny nadal będą działać, kiedy { -brand-short-name } dostanie trzycyfrowy numer wersji. Prawdziwy { -brand-product-name } 100 ma zostać wydany w maju 2022 r., więc zacznij testować swoje strony już teraz!
