@@ -5,9 +5,9 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Továbbiak innen: { -vendor-short-name }
+more-from-moz-title = Továbbiak a { -vendor-short-name(ending: "accented") }tól
 more-from-moz-category =
-    .tooltiptext = Továbbiak innen: { -vendor-short-name }
+    .tooltiptext = Továbbiak a { -vendor-short-name(ending: "accented") }tól
 more-from-moz-subtitle = Tekintse meg a többi { -vendor-short-name } termékét, amelyek az egészséges internetet támogatják.
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobilon
 more-from-moz-firefox-mobile-description = A mobilböngésző, amely az Ön adatvédelmét helyezi előtérbe.
