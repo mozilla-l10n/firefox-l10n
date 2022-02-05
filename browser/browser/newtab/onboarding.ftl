@@ -66,6 +66,7 @@ onboarding-import-sites-disclaimer =
     { -brand-short-name } lagrer eller synkroniserer
     ikke data fra en annen nettleser med mindre du
     velger å importer den.
+return-to-amo-add-theme-label = Legg til temaet
 
 ## Multistage onboarding strings (about:welcome pages)
 

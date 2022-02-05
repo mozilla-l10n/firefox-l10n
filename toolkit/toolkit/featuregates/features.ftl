@@ -94,3 +94,6 @@ experimental-features-multi-pip-description = Eksperimentell støtte for å åpn
 experimental-features-ime-search =
     .label = Adresselinjen: Vis resultater under IME-sammensetning
 experimental-features-ime-search-description = En IME (Input Method Editor) er et verktøy som lar deg skrive inn komplekse symboler, for eksempel de som brukes i østasiatiske eller Indiske skriftspråk, ved hjelp av et standardtastatur. Aktivering av dette eksperimentet holder adresselinjepanelet åpent, viser søkeresultater og forslag mens du bruker IME til å legge inn tekst. Merk at IME kan vise et panel som dekker resultatene i adresselinjen, og derfor er denne preferansen kun anbefalt for IME som ikke bruker denne typen paneler.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 User-Agent-streng
