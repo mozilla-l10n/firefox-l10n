@@ -12,6 +12,12 @@ more-from-moz-firefox-mobile-title = { -brand-product-name }-и мобилӣ
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally =
+    .label = Ба { -rally-short-name } ҳамроҳ шавед
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Ба { -rally-short-name } ҳамроҳ шавед
 more-from-moz-button-mozilla-vpn =
     .label = Гирифтани VPN
+more-from-moz-button-mozilla-vpn-2 = Гирифтани VPN
 more-from-moz-learn-more-link = Маълумоти бештар
