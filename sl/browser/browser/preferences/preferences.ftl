@@ -532,7 +532,7 @@ home-prefs-recent-activity-description = Izbor nedavnih spletnih mest in vsebin
 home-prefs-snippets-header =
     .label = Izrezki
 home-prefs-snippets-description = Novice organizacije { -vendor-short-name } in { -brand-product-name }a
-home-prefs-snippets-description-new = Nasveti in novice organizacije { -vendor-short-name } in { -brand-product-name }a
+home-prefs-snippets-description-new = Nasveti in novice od { -vendor-short-name(sklon: "rodilnik") } in { -brand-product-name(sklon: "rodilnik") }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
