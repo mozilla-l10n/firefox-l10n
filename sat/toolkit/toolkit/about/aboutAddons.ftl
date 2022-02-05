@@ -60,7 +60,7 @@ detail-show-preferences =
            *[other] नोवा एड-ऑनस रेयाक् कुसियाक् को
         }
 detail-rating =
-    .value = दोर ठा़वका़
+    .value = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
 addon-category-extension = पासनाव को
