@@ -190,8 +190,8 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = ᱠᱚᱵᱚᱡᱽ ᱠᱚ ᱩᱫᱩᱜ
-    .accesskey = ᱠ
+    .label = ᱠᱚᱵᱚᱡᱽ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
+    .accesskey = C
 main-context-menu-media-hide-controls =
     .label = ᱠᱚᱵᱚᱡᱽ ᱠᱚ ᱩᱠᱩ
     .accesskey = ᱠ
