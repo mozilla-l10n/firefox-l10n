@@ -22,7 +22,17 @@ default-bookmarks-firefox-customize = Tilpass Firefox
 default-bookmarks-firefox-community = Ver med
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Om oss
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Firefox Nightly-resursar
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Firefox Nightly-blogg
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozilla Bug Tracker
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozillas utviklarnettverk
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly testverktøy
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = Alle krasja dine
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planeten Mozilla
