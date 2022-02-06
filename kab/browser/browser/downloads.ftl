@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -48,6 +43,12 @@ downloads-cmd-show-menuitem-2 =
            *[other] Sken deg ukaram
         }
     .accesskey = A
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Ldi deg umeskan n unagraw
     .accesskey = L
@@ -74,6 +75,9 @@ downloads-cmd-show-description =
             [macos] Sken-d di Finder
            *[other] Ldi akaram igebren afaylu
         }
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -118,6 +122,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Sfeḍ izedman
     .accesskey = z
+downloads-cmd-delete-file =
+    .label = Kkes
+    .accesskey = K
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = aSireg asader
@@ -184,6 +191,15 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Talqayt n usader
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
+##
+
 downloads-clear-downloads-button =
     .label = Sfeḍ isadaren
     .tooltiptext = Sfeḍ isadaren immden, ifesxen neɣ wid ur neddi ara

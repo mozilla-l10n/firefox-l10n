@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Rnu tibzimin
-
 pocket-panel-saved-error-generic = Teḍra-d tuccḍa deg aɛraḍ n usekles ɣer { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tibzimin ɣur-sent talast n 25 n isekkilen
 pocket-panel-saved-error-only-links = Al iseɣwan i yezmren ad ttwakelsen
@@ -48,3 +47,7 @@ pocket-panel-home-paragraph = Tzemreḍ ad tesqedceḍ { -pocket-brand-name } i 
 pocket-panel-home-explore-popular-topics = Snirem isental yettwassnen
 pocket-panel-home-discover-more = Issin ugar
 pocket-panel-home-explore-more = Snirem
+
+## Pocket panel header component
+
+pocket-panel-header-sign-in = Kcem
