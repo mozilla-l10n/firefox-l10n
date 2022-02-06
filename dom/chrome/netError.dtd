@@ -10,7 +10,7 @@
 <!ENTITY connectionFailure.title "Neuspjelo povezivanje">
 <!ENTITY connectionFailure.longDesc "<p>Iako je ime stranice ispravno, preglednik nije u stanju uspostaviti vezu.</p><ul><li>Možda je stranica privremeno nedostupna? Pokušaj ponovo kasnije.</li><li>Možeš li pregledati druge stranice? Provjeri mrežne postavke računala.</li><li>Je li tvoje računalo ili mreža zaštićena vatrozidom ili proxyem? Neispravne postavke mogu onemogućiti pregledavanje interneta.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Ulaz zabranjen zbog sigurnosih razloga">
+<!ENTITY deniedPortAccess.title "Priključak je ograničen iz sigurnosnih razloga">
 <!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa ima definiran ulaz (npr. <q>mozilla.org:80</q> za ulaz 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje, a ne pretraživanje. Pretraživač je prekinuo zahtjev za tvoje zaštite i sigurnosti.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
