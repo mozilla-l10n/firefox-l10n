@@ -8,19 +8,15 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Prijava za { $addon-name }
-
 abuse-report-title-extension = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
 abuse-report-title-theme = Prijavi ovu temu prodavaču { -vendor-short-name }
 abuse-report-subtitle = Što je problem?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = od <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Ne znaš koji problem odabrati?
     <a data-l10n-name="learnmore-link">Saznaj više o prijavljivanju problema s dodacima i temama</a>
-
 abuse-report-submit-description = Opišite problem (opcionalno)
 abuse-report-textarea =
     .placeholder = Lakše nam je ispraviti pogrešku ukoliko znamo detalje problema. Opiši događaj. Hvala, što nam pomažeš održati web zdravim.
@@ -34,13 +30,6 @@ abuse-report-cancel-button = Odustani
 abuse-report-next-button = Dalje
 abuse-report-goback-button = Idi natrag
 abuse-report-submit-button = Pošalji
-
-## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
 
 ## Message bars descriptions.
 ##
@@ -60,6 +49,8 @@ abuse-report-messagebar-error-recent-submit = Prijava za <span data-l10n-name="a
 
 abuse-report-messagebar-action-remove-extension = Da, ukloni
 abuse-report-messagebar-action-keep-extension = Ne, zadržat ću
+abuse-report-messagebar-action-remove-sitepermission = Da, ukloni
+abuse-report-messagebar-action-keep-sitepermission = Ne, zadržat ću
 abuse-report-messagebar-action-remove-theme = Da, ukloni
 abuse-report-messagebar-action-keep-theme = Ne, zadržat ću
 abuse-report-messagebar-action-retry = Pokušaj ponovo
@@ -69,19 +60,16 @@ abuse-report-messagebar-action-cancel = Odustani
 
 abuse-report-damage-reason-v2 = Oštetilo je moje računalo ili ugrozilo moje podatke
 abuse-report-damage-example = Primjer: Ubrizgani zlonamjerni program ili ukradeni podaci
-
 abuse-report-spam-reason-v2 = Sadrži neželjeni sadržaj ili ubacuje nepoželjne oglase
 abuse-report-spam-example = Primjer: Umeće reklame na web stranice
-
 abuse-report-settings-reason-v2 = Promijenilo je moju tražilicu, početnu stranicu ili novu karticu bez obavještavanja ili traženja dopuštenja
 abuse-report-settings-suggestions = Prije prijave dodatka, možete pokušati izmijeniti svoje postavke:
 abuse-report-settings-suggestions-search = Promijeni svoje standardne postavke za pretraživanje
 abuse-report-settings-suggestions-homepage = Izmijenite svoju početnu stranicu ili novu karticu
-
 abuse-report-deceptive-reason-v2 = Tvrdi da je nešto što nije
 abuse-report-deceptive-example = Primjer: Obmanjujući opis ili slike
-
 abuse-report-broken-reason-extension-v2 = Ne radi, slama web-stranice ili usporava { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = Ne radi, ne prikazuje web-stranice ispravno ili usporava { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ne radi ili slama prikaz preglednika
 abuse-report-broken-example = Primjer: Funkcije su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne mogu učitati ili čudno izgledaju
 abuse-report-broken-suggestions-extension =
@@ -92,14 +80,10 @@ abuse-report-broken-suggestions-theme =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
     rješavanje funkcionalnih problema je da kontaktiraš programera teme.
     Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
-
 abuse-report-policy-reason-v2 = Sadrži mržnju, nasilan ili ilegalan sadržaj
 abuse-report-policy-suggestions =
     Napomena: Problemi s autorskim pravima i zaštitnim znakovima moraju se prijaviti u
     odvojenom procesu. <a data-l10n-name="report-infringement-link">Koristite ova upute</a> za prijavu problema.
-
 abuse-report-unwanted-reason-v2 = Nisam to želio i ne znam kako to ukloniti
 abuse-report-unwanted-example = Primjer: Aplikacija instalirana bez mog dopuštenja
-
 abuse-report-other-reason = Nešto drugo
-

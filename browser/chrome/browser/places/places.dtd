@@ -29,8 +29,8 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Uvezi zabilješke iz HTML-a…">
 <!ENTITY importBookmarksFromHTML.accesskey "i">
-<!ENTITY exportBookmarksToHTML.label       "Izvezi zabilješke u HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "e">
+<!ENTITY exportBookmarksToHTML.label       "Izvezi zabilješke u HTML …">
+<!ENTITY exportBookmarksToHTML.accesskey   "I">
 <!ENTITY importOtherBrowser.label          "Uvezi podatke iz drugog web preglednika…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
