@@ -27,7 +27,7 @@ printui-page-custom-range-input =
 printui-copies-label = Kopije
 printui-orientation = Usmjerenje
 printui-landscape = Horizontalno
-printui-portrait = Vertikalno
+printui-portrait = Uspravno
 # Section title for the printer or destination device to target
 printui-destination-label = Odredište
 printui-destination-pdf-label = Spremi u PDF
@@ -115,8 +115,8 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
-printui-paper-letter = Američko pismo
-printui-paper-legal = Američki pravni
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
 printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input

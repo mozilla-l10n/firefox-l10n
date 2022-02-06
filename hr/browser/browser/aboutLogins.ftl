@@ -19,7 +19,7 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Uvezi iz jednog drugog preglednika …
 about-logins-menu-menuitem-import-from-a-file = Uvezi iz datoteke …
-about-logins-menu-menuitem-export-logins = Izvezi prijave…
+about-logins-menu-menuitem-export-logins = Izvezi prijave …
 about-logins-menu-menuitem-remove-all-logins = Ukloni sve prijave…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -189,7 +189,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
     }
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
-about-logins-confirm-export-dialog-confirm-button = Izvoz…
+about-logins-confirm-export-dialog-confirm-button = Izvezi …
 about-logins-alert-import-title = Uvoz je dovršen
 about-logins-alert-import-message = Pogledaj detaljni sažetak uvoza
 confirm-discard-changes-dialog-title = Odbaciti nespremljene promjene?
@@ -228,11 +228,11 @@ about-logins-error-message-default = Došlo je do greške pri pokušaju spremanj
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Izvoz datoteke prijava
+about-logins-export-file-picker-title = Izvezi datoteku prijava
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = prijave.csv
-about-logins-export-file-picker-export-button = Izvoz
+about-logins-export-file-picker-export-button = Izvezi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
