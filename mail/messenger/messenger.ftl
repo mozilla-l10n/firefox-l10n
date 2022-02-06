@@ -166,9 +166,28 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Odgovor nije podržan
+no-reply-message = Čini se da adresa za odgovor ({ $email }) nije nadzirana adresa. Poruke poslane na ovu adresu vjerojatno nitko neće pročitati.
+no-reply-reply-anyway-button = Svejedno odgovori
 
 ## error messages
 
+decrypt-and-copy-failures = { $failures } od { $total } poruka nije moglo biti dešifrirano i nije kopirano.
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Alatna traka zbijenosti
+spaces-toolbar-button-mail =
+    .title = Prebaci na karticu poruka
+spaces-toolbar-button-address-book =
+    .title = Prebaci na karticu adresara
+spaces-toolbar-button-calendar =
+    .title = Prebaci na karticu kalendara
+spaces-toolbar-button-tasks =
+    .title = Prebaci na karticu zadataka
+spaces-toolbar-button-chat =
+    .title = Prebaci na karticu razgovora
+spaces-toolbar-button-settings =
+    .title = Prebaci na karticu postavki
+spaces-toolbar-button-collapse =
+    .title = Zatvori alatnu traku zbijenosti
