@@ -8,8 +8,12 @@
 
 about-unloads-page-title = ᱴᱮᱵᱽ ᱟᱹᱱᱞᱚᱰᱤᱝ
 about-unloads-last-updated = ᱢᱟᱲᱟᱝ ᱦᱟᱹᱞᱤᱭᱟᱠ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = ᱞᱟᱫᱮ
+    .title = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱢᱚᱦᱚᱛᱼᱟᱜ ᱛᱮ ᱴᱮᱵᱽ ᱟᱹᱱᱞᱚᱰ ᱢᱮ
+about-unloads-no-unloadable-tab = ᱵᱟᱝᱞᱟᱫᱮᱭᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
 about-unloads-column-priority = ᱢᱚᱦᱚᱛ
 about-unloads-column-host = ᱵᱮᱵᱚᱥᱛᱟᱭᱤᱡ
+about-unloads-column-last-accessed = ᱢᱟᱲᱟᱝ ᱟᱫᱮᱨᱟᱜ
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
