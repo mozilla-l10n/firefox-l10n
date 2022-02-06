@@ -9,6 +9,7 @@ more-from-moz-title = Autres produits de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Autres produits de { -vendor-short-name }
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobil
+more-from-moz-firefox-mobile-description = Lo navegador mobil que fa passar la confidencialitat d’en primièr.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
