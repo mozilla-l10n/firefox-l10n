@@ -61,7 +61,7 @@
 <!ENTITY proxyResolveFailure.title "Proksyserwer njeda so namakać">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Přepruwujće proksynastajenja, zo byšće zawěsćił, zo su korektne.</li> <li>Přepruwujće hač waš ličak ma fungowacy syćowy zwisk.</li> <li>Jeli waš ličak abo waša syć so přez wohnjowu murju abo proksy škita, zawěsćće, zo &brandShortName; smě z webom zwjazać.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Strona so porjadnje dale njesposrědkuje">
+<!ENTITY redirectLoop.title "Strona so porjadnje hinak njewodźi">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Tutón problem so druhdy zawinuje, hdyž so placki znjemóžnjeja abo wotpokazuja.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Njewočakowana wotmołwa wot serwera">
