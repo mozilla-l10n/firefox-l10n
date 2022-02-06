@@ -73,6 +73,9 @@ upgrade-dialog-start-secondary-button = Mačči tura
 
 ## Colorway screen
 
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Snirem isental imezwar
+upgrade-dialog-colorway-default-theme = Amezwer
 upgrade-dialog-theme-light = Aceεlal
     .title = Seqdec asentel aceεlal i tqeffalin, umuɣen d yiwfuyla
 upgrade-dialog-theme-dark = Aberkan
@@ -86,3 +89,4 @@ upgrade-dialog-theme-secondary-button = Mačči tura
 
 ## Thank you screen
 
+upgrade-dialog-thankyou-primary-button = Bdu tunigin
