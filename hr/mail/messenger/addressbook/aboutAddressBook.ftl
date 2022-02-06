@@ -140,3 +140,13 @@ about-addressbook-details-work-address-header = Adresa (posao)
 about-addressbook-details-other-info-header = Druge informacije
 about-addressbook-prompt-to-save-title = Spremi promjene?
 about-addressbook-prompt-to-save = Želite li spremiti promjene?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Ispustite ili zalijepite sliku ovdje ili kliknite da odaberete datoteku.
+about-addressbook-photo-drop-loading = Učitavanje fotografije…
+about-addressbook-photo-drop-error = Učitavanje fotografije nije uspjelo.
+about-addressbook-photo-filepicker-title = Odaberite slikovnu datoteku
+about-addressbook-photo-discard = Odbaci postojeću fotografiju
+about-addressbook-photo-cancel = Odustani
+about-addressbook-photo-save = Spremi

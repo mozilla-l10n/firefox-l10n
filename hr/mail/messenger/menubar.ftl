@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-menu-bar =
+    .toolbarname = Traka izbornika
+    .accesskey = T
 
 ## Tools Menu
 
@@ -10,6 +13,9 @@
 menu-tools-preferences =
     .label = Postavke
     .accesskey = P
+menu-tools-settings =
+    .label = Postavke
+    .accesskey = e
 menu-addons-and-themes =
     .label = Dodaci i teme
     .accesskey = a
@@ -61,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Za dodir
     .accesskey = Z
+menu-spaces-toolbar-button =
+    .label = Alatna traka zbijenosti
+    .accesskey = s
 
 ## File
 
