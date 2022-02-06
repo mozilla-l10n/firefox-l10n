@@ -37,9 +37,10 @@ account-setup-selection-error = ¿Necesita ayuda?
 
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
-account-setup-result-imap-description = Mantenga sus carpetas y correos electrónicos sincronizados en su servidor
+account-setup-result-imap-description = Mantener sus carpetas y correos electrónicos sincronizados en su servidor
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Mantener sus carpetas y correos electrónicos en su equipo
 account-setup-exchange-title = Servidor
 
 ## Error messages
