@@ -364,8 +364,8 @@ browser-tab-unblock =
 ## Bookmarks toolbar items
 
 browser-import-button2 =
-    .label = Uvezi zabilješke…
-    .tooltiptext = Uvoz zabilješki iz drugog preglednika u { -brand-short-name }.
+    .label = Uvezi zabilješke …
+    .tooltiptext = Uvezi zabilješke iz drugog preglednika u { -brand-short-name }.
 bookmarks-toolbar-empty-message = Za brzi pristup, postavi svoje zabilješke ovdje na alatnu traku zabilješki. <a data-l10n-name="manage-bookmarks">Upravljaj zabilješkama…</a>
 
 ## WebRTC Pop-up notifications
@@ -521,7 +521,7 @@ urlbar-result-action-search-tabs = Pretraži kartice
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -733,6 +733,13 @@ picture-in-picture-hide-toggle =
     .label = Sakrij prekidač za slika-u-sliku
     .accesskey = S
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -772,3 +779,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Popis svih tabova
     .tooltiptext = Popis svih tabova
+
+## Infobar shown at startup to suggest session-restore
+
