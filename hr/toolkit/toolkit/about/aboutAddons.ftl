@@ -301,8 +301,8 @@ addon-detail-last-updated-label = Zadnje aktualiziranje
 addon-detail-homepage-label = Početna stranica
 addon-detail-rating-label = Ocjena
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ovo proširenje bit će ažurirano kad se { -brand-short-name } ponovno pokrene.
-install-postponed-button = Ažuriraj sada
+install-postponed-message = Ovo proširenje će se aktualizirati kad se { -brand-short-name } ponovno pokrene.
+install-postponed-button = Aktualiziraj sada
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
