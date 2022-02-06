@@ -9,14 +9,14 @@ profile-selection-button-accept =
 profile-selection-button-cancel =
     .label = Izlaz
 profile-selection-new-button =
-    .label = Stvori profil...
-    .accesskey = p
+    .label = Stvori profil …
+    .accesskey = S
 profile-selection-rename-button =
-    .label = Preimenuj profil...
-    .accesskey = r
+    .label = Preimenuj profil …
+    .accesskey = P
 profile-selection-delete-button =
-    .label = Izbriši profil...
-    .accesskey = p
+    .label = Izbriši profil …
+    .accesskey = I
 profile-selection-conflict-message = Druga { -brand-product-name } kopija je napravila izmjene u profilu. Morate ponovo pokrenuti { -brand-short-name } prije nego li napravite nove izmjene.
 
 ## Messages used in the profile manager
