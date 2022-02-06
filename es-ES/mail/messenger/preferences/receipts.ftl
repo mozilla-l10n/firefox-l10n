@@ -4,6 +4,9 @@
 
 receipts-dialog-window =
     .title = Acuses de recibo
+return-receipt-checkbox-control =
+    .label = Al enviar mensajes, solicitar siempre un acuse de recibo
+    .accesskey = v
 receipt-arrive-label = Cuando llegue un acuse de recibo:
 receipt-leave-radio-control =
     .label = Dejarlo en mi bandeja de entrada
