@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = เพิ่มป้ายกำกับ
-
 pocket-panel-saved-error-generic = เกิดข้อผิดพลาดระหว่างการบันทึกไปยัง { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = ป้ายกำกับถูกจำกัดไว้ที่ 25 ตัวอักษร
 pocket-panel-saved-error-only-links = ลิงก์เท่านั้นที่สามารถถูกบันทึกได้
@@ -48,3 +47,8 @@ pocket-panel-home-paragraph = คุณสามารถใช้ { -pocket-bra
 pocket-panel-home-explore-popular-topics = สำรวจหัวข้อยอดนิยม
 pocket-panel-home-discover-more = ค้นพบเพิ่มเติม
 pocket-panel-home-explore-more = สำรวจ
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = ดูรายการของฉัน
+pocket-panel-header-sign-in = ลงชื่อเข้า
