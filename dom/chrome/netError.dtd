@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Iako je ime stranice ispravno, preglednik nije u stanju uspostaviti vezu.</p><ul><li>Možda je stranica privremeno nedostupna? Pokušaj ponovo kasnije.</li><li>Možeš li pregledati druge stranice? Provjeri mrežne postavke računala.</li><li>Je li tvoje računalo ili mreža zaštićena vatrozidom ili proxyem? Neispravne postavke mogu onemogućiti pregledavanje interneta.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Priključak je ograničen iz sigurnosnih razloga">
-<!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa ima definiran ulaz (npr. <q>mozilla.org:80</q> za ulaz 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje, a ne pretraživanje. Pretraživač je prekinuo zahtjev za tvoje zaštite i sigurnosti.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa je odredila priključak (npr. <q>mozilla.org:80</q> za priključak 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje koje ne pretražuju internet. Pretraživač je prekinuo zahtjev radi tvoje zaštite i sigurnosti.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
 <!ENTITY dnsNotFound.longDesc "<p>Preglednik nije pronašao poslužitelja za navedenu adresu.</p><ul><li>Je li adresa krivo upisana? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q>)</li><li>Je li ova domena stvarno postoji? Možda joj je istekla registracija.</li><li>Ne možeš pregledati druge stranice? Provjeri mrežne postavke i postavke DNS poslužitelja.</li><li>Je li tvoje računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemogućiti pregledavanje.</li></ul>">
