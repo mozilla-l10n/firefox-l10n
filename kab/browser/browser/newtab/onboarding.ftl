@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Mačči tura
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Ismal i d-yettwabedren dagi ttwafen deg yibenk-a.{ -brand-short-name } ur isseklas isefka, ur ten-issestab seg yiming-nniḍen ala ma yella tferneḍ kter-it.
+return-to-amo-add-theme-label = Rnu asentel
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -148,6 +149,7 @@ mr1-onboarding-import-primary-button-label-attribution = Kter seg { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig wayeḍ
 mr1-onboarding-import-secondary-button-label = Mačči tura
+mr2-onboarding-colorway-header = Tudert ifeǧǧeǧen
 mr2-onboarding-colorway-secondary-button-label = Mačči tura
 mr2-onboarding-colorway-label-soft = Leqqaq
 # "Bold" is used in the sense of bravery or courage, not in the sense of
