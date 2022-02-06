@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Dà tias datas per studis da 
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Participescha a { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Participescha a { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Telechargiada cun l'apparat mobil. Drizza tia camera sin il code QR e clicca lura sin la colliaziun che cumpara.
 more-from-moz-qr-code-box-firefox-mobile-button = Trametter enstagl in e-mail a tes telefonin
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = Code QR per telechargiar { -brand-product-name } per apparats mobils
 more-from-moz-button-mozilla-vpn =
     .label = Ir per VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Code QR per telechargiar { -brand-product-name } per apparats mobils
+more-from-moz-button-mozilla-vpn-2 = Ir per VPN
 more-from-moz-learn-more-link = Ulteriuras infurmaziuns
