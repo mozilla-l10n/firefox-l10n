@@ -94,3 +94,7 @@ experimental-features-multi-pip-description = Sustegn experimental per permetter
 experimental-features-ime-search =
     .label = Trav d'adressas: mussar resultats durant la cumposiziun IME
 experimental-features-ime-search-description = In IME (Input Method Editor) è in utensil che permetta dad endatar simbols cumplexs sco quels da linguas da l'Asia da l'Ost u da linguas scrittas en l'India, cun agid dad ina tastatura da standard. L'activaziun da quest experiment vegn a laschar avert la panela da la trav d'adressas e mussar resultats e propostas da tschertga durant l'endataziun da text cun l'IME. Remartga: L'IME mussa eventualmain ina panela che cuvra ils resultats da la trav d'adressas. Perquai è questa preferenza mo recumandabla per IMEs che n'utiliseschan betg quest tip da panela.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = User-agent { -brand-product-name } 100
+experimental-features-firefox-100-description = Fa che { -brand-short-name } trametta in user-agent che pretenda dad esser { -brand-product-name } en la versiun 100. Utilisescha quest parameter per testar sche las websites funcziunan anc endretg sche { -brand-short-name } trametta in dumber da trais cifras. Il ver { -brand-product-name } 100 duess vegnir publitgà tenor plan il matg 2022. Cumenza pia ussa a testar tias websites!
