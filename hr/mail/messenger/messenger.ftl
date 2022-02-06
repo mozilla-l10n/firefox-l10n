@@ -126,18 +126,46 @@ context-menu-decrypt-to-folder =
 
 other-action-redirect-msg =
     .label = Preusmjeri
+message-header-msg-flagged =
+    .title = Zvjezdica
+    .aria-label = Zvjezdica
+message-header-msg-not-flagged =
+    .title = Bez zvjezdice
+    .aria-label = Bez zvjezdice
 
 ## Action Button Context Menu
 
+toolbar-context-menu-manage-extension =
+    .label = Upravljanje dodatkom
+    .accesskey = e
+toolbar-context-menu-remove-extension =
+    .label = Ukloni dodatak
+    .accesskey = U
 
 ## Message headers
 
+message-header-address-in-address-book-icon =
+    .alt = Adresa je u adresaru
+message-header-address-not-in-address-book-icon =
+    .alt = Adresa nije u adresaru
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Ukloni { $name }?
+addon-removal-confirmation-button = Ukloni
+addon-removal-confirmation-message = Ukloniti { $name } kao i njegovu konfiguraciju i podatke iz { -brand-short-name }?
+caret-browsing-prompt-title = Pokazivačko pregledavanje
+caret-browsing-prompt-text = Pritiskom na F7, uključujete ili isključujete Pokazivačko pregledavanje. To znači da će se na sadržaju pojaviti kursor koji vam omogućava označavanje teksta tipkovnicom. Želite li uključiti Pokazivačko pregledavanje?
+caret-browsing-prompt-check-text = Ne pitaj ponovno.
+repair-text-encoding-button =
+    .label = Ispravi kodiranje teksta
+    .tooltiptext = Pogodi ispravno kodiranje teksta iz sadržaja poruke
 
 ## no-reply handling
 
+no-reply-title = Odgovor nije podržan
 
 ## error messages
 
