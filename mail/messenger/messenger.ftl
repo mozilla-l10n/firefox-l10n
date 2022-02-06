@@ -42,8 +42,8 @@ quick-filter-toolbarbutton =
     .label = Spěšny filter
     .tooltiptext = Powěsće filtrować
 redirect-msg-button =
-    .label = Dale sposrědkować
-    .tooltiptext = Wubranu powěsć dale sposrědkować
+    .label = Hinak wodźić
+    .tooltiptext = Wubranu powěsć hinak wodźić
 
 ## Folder Pane
 
@@ -81,8 +81,8 @@ folder-toolbar-toggle-folder-compact-view =
 ## Menu
 
 redirect-msg-menuitem =
-    .label = Dale sposrědkować
-    .accesskey = D
+    .label = Hinak wodźić
+    .accesskey = H
 menu-file-save-as-file =
     .label = Dataja…
     .accesskey = D
@@ -106,7 +106,7 @@ appmenu-help-exit-troubleshoot-mode =
 appmenu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
 appmenu-redirect-msg =
-    .label = Dale sposrědkować
+    .label = Hinak wodźić
 
 ## Context menu
 
