@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Mostrar contraseña
     .accesskey = a
+main-context-menu-reveal-password =
+    .label = Mostrar contraseña
+    .accesskey = M
