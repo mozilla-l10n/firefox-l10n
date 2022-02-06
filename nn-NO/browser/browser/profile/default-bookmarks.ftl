@@ -10,6 +10,7 @@
 default-bookmarks-title = Bokmerke
 default-bookmarks-heading = Bokmerke
 default-bookmarks-toolbarfolder = Verktøylinje for bokmerke
+default-bookmarks-toolbarfolder-description = Legg til bokmerke i denne mappa for å sjå dei i verktøylinja for bokmerke
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Kom i gang
 # Firefox links folder name
