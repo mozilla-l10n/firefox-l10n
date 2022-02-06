@@ -116,7 +116,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.. Možeš obavijestiti administratora web-stranice o ovom problemu.</p>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušaj ponovo za nekoliko trenutaka.</li> <li>Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.</li> <li>Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušaj ponovo malo kasnije.</li>
+  <li>Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.</li>
+  <li>Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li &brandShortName; dozvolu za pristup internetu.</li>
+</ul>
+">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je sprječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje..</p>">
 
