@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ({ $name }) por omisión
 fonts-label-default-unnamed =
     .label = Por omisión
-
 fonts-encoding-dialog-title =
     .title = Tipografías y codificación
-
 fonts-language-legend =
     .value = Tipos de letra para:
     .accesskey = t
-
 fonts-proportional-label =
     .value = Proporcional:
     .accesskey = P
@@ -89,41 +85,35 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans Serif
-
+font-size-proportional-label =
+    .value = Tamaño:
+    .accesskey = m
 font-size-monospace-label =
     .value = Tamaño:
     .accesskey = m
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Tipo fijo:
     .accesskey = M
-
 font-min-size-label =
     .value = Tamaño de letra mínimo:
     .accesskey = z
-
 min-size-none =
     .label = Ninguno
 
 ## Fonts in message
 
 font-control-legend = Control de tipografía
-
 use-document-fonts-checkbox =
     .label = Permitir a los mensajes usar otros tipos
     .accesskey = o
-
 use-fixed-width-plain-checkbox =
     .label = Usar tipografías de ancho fijo para mensajes de texto sin formato
     .accesskey = x
@@ -131,17 +121,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codificación de texto
-
 text-encoding-description = Fijar la codificación por omisión para enviar y recibir mensajes
-
 font-outgoing-email-label =
     .value = Correo saliente:
     .accesskey = s
-
 font-incoming-email-label =
     .value = Correo entrante:
     .accesskey = e
-
 default-font-reply-checkbox =
     .label = Cuando sea posible, usar la codificación por omisión en las respuestas
     .accesskey = u
