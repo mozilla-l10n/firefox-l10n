@@ -6,5 +6,6 @@ restart-required-title = Патрабуецца перазапуск
 restart-required-header = Прабачце. Нам трэба зрабіць адну невялікую рэч, каб працягнуць працу.
 restart-required-intro-brand = { -brand-short-name } толькі што абнавіўся ў фонавым рэжыме. Націсніце Перазапусціць { -brand-short-name } для завяршэння абнаўлення.
 restart-required-description = Усе вашы старонкі, вокны і карткі будуць узноўлены, і вы зможаце хутка прадоўжыць свае справы.
-
+restart-required-heading = Перазапусціць, каб працягваць карыстацца { -brand-short-name }
+restart-required-intro = { -brand-short-name } абнаўляецца ў фонавым рэжыме. Каб завяршыць абнаўленне, вам трэба будзе перазапусціць браўзер.
 restart-button-label = Перазапусціць { -brand-short-name }
