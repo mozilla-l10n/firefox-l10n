@@ -111,7 +111,7 @@ appmenu-redirect-msg =
 ## Context menu
 
 context-menu-redirect-msg =
-    .label = Dale sposrědkować
+    .label = Hinak wodźić
 mail-context-delete-messages =
     .label =
         { $count ->
@@ -127,7 +127,7 @@ context-menu-decrypt-to-folder =
 ## Message header pane
 
 other-action-redirect-msg =
-    .label = Dale sposrědkować
+    .label = Hinak wodźić
 message-header-msg-flagged =
     .title = Z hwěžku
     .aria-label = Z hwěžku
