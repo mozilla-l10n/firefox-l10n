@@ -353,4 +353,4 @@ about-logins-import-report-error =
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Sažeto izvješće uvoza
+about-logins-import-report-page-title = Uvezi izvještaj o sažetku

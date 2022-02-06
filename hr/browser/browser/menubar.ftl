@@ -38,20 +38,16 @@ menu-quit =
             [windows] I
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zatvori { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Zatvori { -brand-shorter-name }
-
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -103,7 +99,7 @@ menu-file-print =
     .label = Ispiši …
     .accesskey = p
 menu-file-import-from-another-browser =
-    .label = Uvoz iz drugog preglednika…
+    .label = Uvezi iz drugog preglednika …
     .accesskey = U
 menu-file-go-offline =
     .label = Izvanmrežni rad
@@ -210,7 +206,6 @@ menu-history-undo-menu =
     .label = Nedavno zatvorene kartice
 menu-history-undo-window-menu =
     .label = Nedavno zatvoreni prozori
-
 menu-history-reopen-all-tabs = Ponovno otvori sve kartice
 menu-history-reopen-all-windows = Ponovno otvori sve prozore
 
