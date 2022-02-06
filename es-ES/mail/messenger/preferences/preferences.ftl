@@ -4,6 +4,8 @@
 
 close-button =
     .aria-label = Cerrar
+preferences-doc-title = Preferencias
+preferences-doc-title2 = Ajustes
 category-list =
     .aria-label = Categorías
 pane-general-title = General
@@ -82,6 +84,8 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+account-button = Configuración de la cuenta
+open-addons-sidebar-button = Complementos y temas
 
 ## OS Authentication dialog
 
@@ -112,9 +116,6 @@ restore-default-label =
     .label = Rest. valores predet.
     .accesskey = R
 default-search-engine = Buscador predeterminado
-add-search-engine =
-    .label = Añadir desde archivo
-    .accesskey = s
 add-web-search-engine =
     .label = Agregar…
     .accesskey = A
@@ -296,12 +297,8 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
-type-column-label =
-    .label = Tipo de contenido
-    .accesskey = T
-action-column-label =
-    .label = Acción
-    .accesskey = A
+type-column-header = Tipo de contenido
+action-column-header = Acción
 save-to-label =
     .label = Guardar archivos en
     .accesskey = G
