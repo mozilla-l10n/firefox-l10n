@@ -21,8 +21,11 @@ profile-creation-explanation-4 =
 
 ## Second wizard page
 
+profile-prompt = Номи профили навро ворид намоед:
+    .accesskey = Н
 profile-default-name =
     .value = Корбари пешфарз
+profile-directory-explanation = Танзимоти корбари шумо, бартариҳо ва дигар маълумоти марбут ба корбар дар ҷойи зерин нигоҳ дошта мешаванд:
 create-profile-choose-folder =
     .label = Интихоб кардани ҷузвдон…
     .accesskey = И
