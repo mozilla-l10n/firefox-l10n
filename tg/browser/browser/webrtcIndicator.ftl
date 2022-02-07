@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Нишондиҳандаи дастрасӣ
+webrtc-stop-sharing-button = Қатъ кардани дастрасӣ
 webrtc-microphone-unmuted =
     .title = Хомӯш кардани микрофон
 webrtc-microphone-muted =
