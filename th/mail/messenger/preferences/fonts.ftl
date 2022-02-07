@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ค่าเริ่มต้น ({ $name })
 fonts-label-default-unnamed =
     .label = ค่าเริ่มต้น
-
 fonts-encoding-dialog-title =
     .title = แบบอักษรและรหัสอักขระ
-
 fonts-language-legend =
     .value = แบบอักษรสำหรับ:
     .accesskey = บ
-
 fonts-proportional-label =
     .value = ความกว้างตามสัดส่วน:
     .accesskey = ค
@@ -89,41 +85,35 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = มีเชิง
-
 default-font-sans-serif =
     .label = ไม่มีเชิง
-
+font-size-proportional-label =
+    .value = ขนาด:
+    .accesskey = า
 font-size-monospace-label =
     .value = ขนาด:
     .accesskey = i
-
 font-serif-label =
     .value = มีเชิง:
     .accesskey = ม
-
 font-sans-serif-label =
     .value = ไม่มีเชิง:
     .accesskey = ไ
-
 font-monospace-label =
     .value = ความกว้างคงที่:
     .accesskey = ว
-
 font-min-size-label =
     .value = ขนาดอักษรต่ำสุด:
     .accesskey = ข
-
 min-size-none =
     .label = ไม่มี
 
 ## Fonts in message
 
 font-control-legend = การควบคุมแบบอักษร
-
 use-document-fonts-checkbox =
     .label = อนุญาตให้ข้อความใช้แบบอักษรอื่น ๆ
     .accesskey = อ
-
 use-fixed-width-plain-checkbox =
     .label = ใช้แบบอักษรความกว้างคงที่สำหรับข้อความตัวอักษรธรรมดา
     .accesskey = ช
@@ -131,17 +121,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = รหัสอักขระ
-
 text-encoding-description = ตั้งค่ารหัสอักขระเริ่มต้นสำหรับการส่งและรับจดหมาย
-
 font-outgoing-email-label =
     .value = จดหมายขาออก:
     .accesskey = จ
-
 font-incoming-email-label =
     .value = จดหมายขาเข้า:
     .accesskey = ด
-
 default-font-reply-checkbox =
     .label = เมื่อเป็นไปได้ ให้ใช้รหัสอักขระเริ่มต้นในการตอบกลับ
     .accesskey = เ
