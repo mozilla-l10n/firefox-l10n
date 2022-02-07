@@ -54,6 +54,12 @@ app-basics-profiles = Профилҳо
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
 app-basics-safe-mode = Реҷаи бехатар
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Кушодан дар ҷӯянда
+        [windows] Кушодани ҷузвдон
+       *[other] Кушодани феҳрист
+    }
 environment-variables-name = Ном
 environment-variables-value = Қимат
 experimental-features-title = Хусусиятҳои таҷрибавӣ

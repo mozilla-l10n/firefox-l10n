@@ -16,6 +16,8 @@ create-profile-first-page-header =
 
 ## Second wizard page
 
+profile-default-name =
+    .value = Корбари пешфарз
 create-profile-choose-folder =
     .label = Интихоб кардани ҷузвдон…
     .accesskey = И
