@@ -12,6 +12,7 @@ openpgp-keygen-import-complete =
 ## Import Key section
 
 gnupg-file = GnuPG Նիշեր
+openpgp-import-fingerprint-label = Մատնահետք
 
 ## External Key section
 

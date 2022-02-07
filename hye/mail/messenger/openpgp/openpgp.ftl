@@ -13,6 +13,7 @@ openpgp-copy-cmd-label =
 
 ## OpenPGP Key selection area
 
+import-info-fpr = Մատնահետք
 
 ## Account settings export output
 

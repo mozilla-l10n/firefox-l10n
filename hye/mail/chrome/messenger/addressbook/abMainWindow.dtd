@@ -16,6 +16,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Tools Menu -->
 <!ENTITY importCmd.label                                "Ներածել…">
+<!ENTITY importCmd.accesskey                            "I">
 
 <!-- Address Book Toolbar and Context Menus -->
 
