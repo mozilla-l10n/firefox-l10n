@@ -23,6 +23,9 @@ process-type-weblargeallocation = Խոշոր բաշխում
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Մեկուսացուած վեբ բովանդակութիւն
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Մեկուսացուած Service Worker
 # process preallocated; may change to other types
 process-type-prealloc = Նախայատկացուած
 
@@ -39,6 +42,8 @@ process-type-gpu = GPU
 process-type-socket = Շաղկապ
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = IPC Actor ավազատուփում
 
 ##
 ## Other
