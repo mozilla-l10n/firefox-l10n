@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title  "Pridruži se skupini">
+
+<!ENTITY network.label     "Omrežje:">
+
+<!ENTITY channel.label     "Skupina:">
+
+<!ENTITY topics.label     "Išči teme in imena skupin">
+
+<!ENTITY join.label     "Pridruži se">
+
+<!ENTITY minusers.label     "Min. uporabnikov:">
+
+<!ENTITY maxusers.label     "Največje število uporabnikov:">
+
+<!ENTITY refreshNow.label     "Osveži zdaj">
+
+<!ENTITY network.hint.label "Vnesite katero koli ime omrežja ali strežnika (lahko vključite vrata) in skupino, ki se ji želite pridružiti.">
+
+<!ENTITY col.network "Omrežje">
+<!ENTITY col.name  "Ime">
+<!ENTITY col.users "Uporabniki">
+<!ENTITY col.topic "Tema">
