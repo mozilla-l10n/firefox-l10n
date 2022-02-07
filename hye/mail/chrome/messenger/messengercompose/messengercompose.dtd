@@ -1,0 +1,64 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
+<!-- File Menu -->
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+
+<!-- Edit Menu -->
+
+<!-- Reorder Attachment Panel -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+
+<!-- View Menu -->
+
+
+<!-- Format Menu -->
+
+<!-- Options Menu -->
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+
+<!-- Tools Menu -->
+
+<!--  Mac OS X Window Menu -->
+
+<!-- Mail Toolbar -->
+
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY copyButton.tooltip             "Պատճէնել">
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
+
+<!-- Message Pane Context Menu -->
+<!ENTITY copy.label "Պատճէնել">
+
+<!-- Attachment Item and List Context Menus -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+
+<!-- Spell checker context menu items -->
+
+<!-- Title for the address picker panel -->
+
+<!-- Identity popup customize menuitem -->
+
+<!-- Accessibility name for the document -->
+
+<!-- Status Bar -->
