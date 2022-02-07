@@ -11,6 +11,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Ներածել">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.accesskey     "M">
 <!ENTITY importAddressbook.label  "Հասցէագրքեր">
 <!ENTITY importSettings.label     "Կարգաւորումներ">
 <!ENTITY importFilters.label      "Զտիչներ">
