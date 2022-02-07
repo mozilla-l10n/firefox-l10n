@@ -26,6 +26,7 @@ experimental-features-media-avif-description = Այս յատկութեան մի�
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Դարան. JPEG XL
+experimental-features-media-jxl-description = Յատկութեան միացմամբ, { -brand-short-name }-ը սկսում է սատարել JPEG XL (JXL) ձեւաչափը։ Սա առաւել բարելաւուած ձեւաչափ է, որը սատարում է անկորուստ տարանցումը սովորական JPEG նիշերից։ Տես <a data-l10n-name="bugzilla">-ի 1539075</a> զեկոյցը։
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -76,6 +77,7 @@ experimental-features-webrtc-global-mute-toggles-description = Աւելացնե�
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k արգելափակում
+experimental-features-win32k-lockdown-description = Անջատել Win32k API-ների գործածումը զննարկչի ներդիրներում։ Բարձրացնում է անվտանգութիւնը, սակայն այս պահին կարող է գործել անկայուն կամ խնդիրներով։ (Միայն Windows-ում)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
