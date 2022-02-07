@@ -4,6 +4,7 @@
 
 <!-- extracted from am-main.xhtml -->
 
+<!ENTITY accountTitle.label "Փոստարկղի կարգաւորումներ">
 <!ENTITY name.label "Ձեր անունը.">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 
