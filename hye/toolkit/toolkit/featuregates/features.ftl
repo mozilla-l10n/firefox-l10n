@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Միացնում է փորձար
 # by various online articles and is technical in nature.
 experimental-features-css-cascade-layers =
     .label = CSS․ Cascade շերտեր
+experimental-features-css-cascade-layers-description = Թոյղատրում է CSS Cascade շերտերի սատարումը։ Տես <a data-l10n-name="spec"> </a>-ի մշակման փուլում ճշգրտումների վերաբերեալ յաւելեալ տեղեկութիւններ ստանալու համար։  Այս յաւելման հետ կապուած խնդիրների ստեղծման դէպքում ստեղծէք զեկոյց <a data-l10n-name="bugzilla">-ի արգելափակմամբ, 1699215</a> դիմումով։
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
@@ -21,6 +22,10 @@ experimental-features-web-gpu-description2 = Այս նոր API֊ը ցածրակ�
 experimental-features-media-avif =
     .label = Միջոցք. AVIF
 experimental-features-media-avif-description = Այս յատկութեան միացման դէպքում { -brand-short-name } -ը աջակցում է AV1 Image File (AVIF) ձեւաչափը: Սա դեռեւս պատկերի նիշի ձեւաչափն է, որն աւգտագործում է AV1 տեսանիւթի սեղմման հաշուեկարգերի հնարաւորութիւնները պատկերի չափը նուազեցնելու համար: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1443863 </a>:
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Դարան. JPEG XL
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
