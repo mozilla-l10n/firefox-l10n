@@ -5,6 +5,7 @@
 refresh-profile-dialog-title = Թարմացնե՞լ { -brand-short-name } -ին իր սկզբնադիր կարգաւորումներում։
 refresh-profile-dialog-button =
     .label = Թարմացնել { -brand-short-name }-ը
+refresh-profile-dialog-description = Սկսէք նորից, արդիւնաւետութեան հետ կապուած խնդիրների լուծման համար։ Գործողութիւնը կը հեռացնի ընդլայնումները եւ կարգաւորումները։ Կարեւորագոյն տեղեկութիւնները, ինչպիսիք են՝ էջանիշները կամ գաղտնաբառերը՝ չեն կորչի։
 refresh-profile = Տալ { -brand-short-name }-ին լարում
 refresh-profile-button = Թարմացնել { -brand-short-name }-ը…
 refresh-profile-learn-more = Իմանալ աւելին

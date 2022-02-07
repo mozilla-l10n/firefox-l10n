@@ -177,6 +177,7 @@ language-name-st = Հարաւային սոթերէն
 language-name-su = սուդաներէն
 language-name-sv = շուեդերէն
 language-name-sw = սուահիլի
+language-name-szl = Սիլեզերէն
 language-name-ta = թամիլերէն
 language-name-te = թելուգու
 language-name-tg = տաջիկերէն

@@ -14,6 +14,7 @@ printui-sheets-count =
     }
 printui-page-range-all = Բոլորը
 printui-page-range-odd = Տարաւրինակ
+printui-page-range-even = Զոյգ
 printui-page-range-custom = Յարմարեցուած
 printui-page-range-label = Էջեր
 printui-page-range-picker =
@@ -40,6 +41,10 @@ printui-scale-pcent = Սանդղակ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Երկկողմանի տպագրութիւն
 printui-two-sided-printing-off = Անջատել
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Շրջանցում երկար եզրով
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Շրջանցում կարճ եզրով
 # Section title for miscellaneous print options
 printui-options = Ընտրանքներ
 printui-headers-footers-checkbox = Տպել գլխագիրները եւ էջոտները
