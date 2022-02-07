@@ -18,3 +18,10 @@ otr-log =
     .label = OTRiga krüptitud sõnumid kaasatakse vestluste logidesse
 otr-require-encryption =
     .label = Üks-ühele vestluste korral nõutakse otspunktkrüptimist
+otr-require-encryption-info =
+    Nõudes otspunktkrüptimist, ei saadeta üks-ühele vestlustes sõnumeid juhul,
+    kui neid pole võimalik krüptida. Saabunud krüptimata sõnumeid ei kuvata
+    osana tavalisest vestlusest ja samuti neid ei logita.
+otr-verify-nudge =
+    .label = Alati tuletatakse meelde, et verifitseerimata kontakt tuleb verifitseerida
+otr-not-yet-available = pole veel saadaval
