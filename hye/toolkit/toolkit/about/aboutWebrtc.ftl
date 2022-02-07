@@ -185,6 +185,14 @@ about-webrtc-aec-logging-off-state-msg = Գրանցած նիշքը կարող է
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Ստացուել է { $packets } փաթեթ
+       *[other] Ստացուել է { $packets } փաթեթներ
+    }
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.

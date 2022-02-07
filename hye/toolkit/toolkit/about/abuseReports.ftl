@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Զեկոյցել { $addon-name }֊ի համար
 abuse-report-title-extension = Զեկուցէք այս ընդլայնման մասին { -vendor-short-name }-ին
+abuse-report-title-sitepermission = Բողոքարկել այս կայքի արտաւնութիւնների յաւելման աշխատանքի մասին՝ { -vendor-short-name }-ում
 abuse-report-title-theme = Զեկուցէք այս հիմնապատկերի մասին { -vendor-short-name }-ին
 abuse-report-subtitle = Ի՞նչումն է խնդիրը։
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Ուղարկուում է զեկոյց <spa
 abuse-report-messagebar-submitted = Շնորհակալութիւն զեկոյցը ուղակելու համար։ Ցանկանու՞մ եք հեռացնել <span data-l10n-name="addon-name">{ $addon-name }</span>-ը։
 abuse-report-messagebar-submitted-noremove = Շնորհակալութիւն զեկոյցը ներկայացնելու համար։
 abuse-report-messagebar-removed-extension = Շնորհակալութիւն զեկոյցը ներկայիացնելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի ընդլայնումը։
+abuse-report-messagebar-removed-sitepermission = Շնորհակալ ենք հաշուետուութեան ներկայացման համար: Կայքի արտաւնութիւնների <span data-l10n-name="addon-name">{ $addon-name }</span> յաւելումը հեռացուած է։
 abuse-report-messagebar-removed-theme = Շնորհակալութիւն զեկոյցը ներկայիացնելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի հիմնապատկերը։
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկոյց ուղարկելիս սխալ տեղի ունեցավ։
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկոյցը չի ուղարկուել, որովհետեւ վերջերս այլ զեկոյց է հաստատուել։
@@ -69,6 +71,7 @@ abuse-report-settings-suggestions-homepage = Փոխել Ձեր տնէջը եւ �
 abuse-report-deceptive-reason-v2 = Այն պնդում է, որ դա ինչ-որ բան չէ
 abuse-report-deceptive-example = Աւրինակ՝ ապակողմնորոշիչ նկարագրութիւն եւ պատկեր
 abuse-report-broken-reason-extension-v2 = Չի աշխատում, չի կոտրում կայքեր կամ դանդաղեցնում։ { -brand-product-name }-ը
+abuse-report-broken-reason-sitepermission-v2 = Չի աշխատում՝ կոտրում է կայքեր կամ դանդաղեցնում { -brand-product-name }-ի աշխատանքը
 abuse-report-broken-reason-theme-v2 = Այն չի աշխատում կամ չի ընդհատում զննարկչի ցուցադրումը
 abuse-report-broken-example = Աւրինակ․ հատկութիւնները դանդաղ են, դժուար է աւգտագործել կամ չեն աշխատում։ կայքերի մասերը չեն բեռնուի կամ արտասովոր տեսք կունենան։
 abuse-report-broken-suggestions-extension =
