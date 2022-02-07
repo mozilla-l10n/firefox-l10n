@@ -47,3 +47,8 @@ pocket-panel-home-paragraph = Þú getur notað { -pocket-brand-name } til að k
 pocket-panel-home-explore-popular-topics = Skoða vinsæl efni
 pocket-panel-home-discover-more = Uppgötva meira
 pocket-panel-home-explore-more = Kanna
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Skoða listann minn
+pocket-panel-header-sign-in = Skrá inn
