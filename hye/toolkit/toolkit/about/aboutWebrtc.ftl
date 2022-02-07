@@ -62,6 +62,7 @@ about-webrtc-ice-component-id = Բաղադրիչի ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Միջին բիթային արագութիւն․
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
