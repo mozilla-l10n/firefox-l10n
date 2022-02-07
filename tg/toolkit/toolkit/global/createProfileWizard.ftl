@@ -2,7 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = Барномаи сохтани профил
+    .style = width: 45em; height: 32em;
+
 ## First wizard page
+
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Муқаддима
+       *[other] Хуш омадед ба { create-profile-window.title }
+    }
 
 ## Second wizard page
 
+create-profile-choose-folder =
+    .label = Интихоб кардани ҷузвдон…
+    .accesskey = И
+create-profile-use-default =
+    .label = Истифодаи ҷузвдони пешфарз
+    .accesskey = И

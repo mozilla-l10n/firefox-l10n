@@ -5,6 +5,7 @@
 head-title = Дар бораи абзорҳои барномарезӣ
 enable-learn-more-link = Маълумоти бештар дар бораи абзорҳои барномарезӣ
 enable-close-button = Пӯшидани варақаи ҷорӣ
+welcome-title = Хуш омадед ба барномаҳои барномарезии Firefox!
 newsletter-email-placeholder =
     .placeholder = Почтаи электронӣ
 newsletter-subscribe-button = Обуна шудан
