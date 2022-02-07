@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = Дар бораи профилҳо
+profiles-subtitle = Ин саҳифа ба шумо барои идора кардани профилҳои худ мусоидат мекунад. Ҳар як профил ҷаҳони алоҳидаест, ки дорои таърихи алоҳида, хатбаракҳои алоҳида, танзимот ва ҷузъҳои иловагии алоҳида мебошад.
 profiles-create = Эҷод кардани профили нав
 profiles-restart-title = Аз нав оғоз кардан
 profiles-restart-in-safe-mode = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…

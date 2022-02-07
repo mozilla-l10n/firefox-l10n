@@ -13,6 +13,11 @@ create-profile-first-page-header =
         [macos] Муқаддима
        *[other] Хуш омадед ба { create-profile-window.title }
     }
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Барои эҷод кардани профили нав, тугмаи «Идома додан»-ро зер кунед
+       *[other] Барои эҷод кардани профили нав, тугмаи «Ба пеш»-ро зер кунед
+    }
 
 ## Second wizard page
 
