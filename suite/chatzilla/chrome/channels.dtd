@@ -5,18 +5,25 @@
 <!ENTITY window.title  "Pridruži se skupini">
 
 <!ENTITY network.label     "Omrežje:">
+<!ENTITY network.accesskey "O">
 
 <!ENTITY channel.label     "Skupina:">
+<!ENTITY channel.accesskey "S">
 
 <!ENTITY topics.label     "Išči teme in imena skupin">
+<!ENTITY topics.accesskey "t">
 
 <!ENTITY join.label     "Pridruži se">
+<!ENTITY join.accesskey "P">
 
-<!ENTITY minusers.label     "Min. uporabnikov:">
+<!ENTITY minusers.label     "Najmanjše št. uporabnikov:">
+<!ENTITY minusers.accesskey "m">
 
 <!ENTITY maxusers.label     "Največje število uporabnikov:">
+<!ENTITY maxusers.accesskey "v">
 
 <!ENTITY refreshNow.label     "Osveži zdaj">
+<!ENTITY refreshNow.accesskey "z">
 
 <!ENTITY network.hint.label "Vnesite katero koli ime omrežja ali strežnika (lahko vključite vrata) in skupino, ki se ji želite pridružiti.">
 

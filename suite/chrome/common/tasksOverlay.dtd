@@ -12,6 +12,8 @@
 
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 
+<!ENTITY errorConsoleCmd.label "Konzola napak">
+<!ENTITY errorConsoleCmd.accesskey "k">
 
 <!ENTITY taskNavigator.tooltip "Brskalnik">
 
