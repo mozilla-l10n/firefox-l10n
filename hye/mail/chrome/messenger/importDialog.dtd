@@ -11,6 +11,9 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Ներածել">
+<!ENTITY importAddressbook.label  "Հասցէագրքեր">
+<!ENTITY importSettings.label     "Կարգաւորումներ">
+<!ENTITY importFilters.label      "Զտիչներ">
 
 
 
@@ -18,3 +21,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 
+<!ENTITY processing.label         "Ներածում…">
