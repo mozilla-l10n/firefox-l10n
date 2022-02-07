@@ -166,6 +166,8 @@
 <!-- Spell checker context menu items -->
 
 <!-- Content Pane Context Menu -->
+<!ENTITY saveImageAsCmd.label "Պահպանել նկարը որպէս…">
+<!ENTITY copyImageAllCmd.label "Պատճենել նկարը">
 
 <!-- Statusbar -->
 

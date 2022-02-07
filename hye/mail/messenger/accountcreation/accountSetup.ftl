@@ -17,6 +17,8 @@
 
 ## Illustrations
 
+account-setup-step2-image =
+    .title = Բեռնում…
 
 ## Results area
 
