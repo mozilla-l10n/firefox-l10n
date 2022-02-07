@@ -9,6 +9,10 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Միացնում է փորձարարական CSS Masonry աջակցութիւնը։ Նայէք <a data-l10n-name="explainer"> մեկնաբանող </a>֊ն մանրամասն նկարագրութեան համար։ Գնահատելու համար խնդրում ենք մեկնաբանել a data-l10n-name="w3c-issue"> այս GitHub խնդիրը </a> կամ <a data-l10n-name="bug">այս զեկոյցում</a>։
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-css-cascade-layers =
+    .label = CSS․ Cascade շերտեր
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Ցանցային API. WebGPU
 experimental-features-web-gpu-description2 = Այս նոր API֊ը ցածրակարգ սպասարկում է ապահովում հաշուարկների կատարման եւ Պատկերների ներկայացման համար՝ աւգտագործելով աւգտագործողի սարքի կամ համակարգչի <a data-l10n-name="wikipedia"> Պատկերների մշակման միաւորը (GPU) </a>․ <a data-l10n-name="spec"> բնութագիրը </a> դեռ ընթացքի մէջ է: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="bugzilla"> վրիպակ 1602129 </a>:
