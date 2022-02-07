@@ -365,6 +365,7 @@ support-printing-prefs-value = Արժէքը
 support-remote-experiments-title = Հեռակայ փորձեր
 support-remote-experiments-name = Անուն
 support-remote-experiments-branch = Փորձարարական անցում
+support-remote-experiments-see-about-studies = Տես <a data-l10n-name="support-about-studies-link"> about:studies </a> յաւելեալ տեղեկութեան համար, ներառեալ՝ առանձին փորձնական գործընթացների անջատման կամ { -brand-short-name }-ին հետագայում նմանատիպ փորձարկումների իրականացնելու արգելման համար։
 support-remote-features-title = Հեռակայ յատկութիւններ
 support-remote-features-name = Անուն
 support-remote-features-status = Կարգավիճակ
