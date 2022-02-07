@@ -280,7 +280,7 @@ about-logins-import-dialog-items-error =
        *[other] <span> Սխալներ. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
     }
 about-logins-import-dialog-done = Արուած
-about-logins-import-dialog-error-title = Ներմուծման սխալ
+about-logins-import-dialog-error-title = Ներածման սխալ
 about-logins-import-dialog-error-conflicting-values-title = Բազմաթիւ հակասող արժէքներ մեկ մտից անուան համար
 about-logins-import-dialog-error-conflicting-values-description = Աւրինակ՝ բազմաթիւ աւգտանուններ, գաղտնաբառեր, URL֊ներ եւ այլն մեկ աւգտանուան համար։
 about-logins-import-dialog-error-file-format-title = Նիշի ձեւաչափի խնդիր
