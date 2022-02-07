@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Sýna lykilorð
     .accesskey = k
+main-context-menu-reveal-password =
+    .label = Birta lykilorð
+    .accesskey = y
