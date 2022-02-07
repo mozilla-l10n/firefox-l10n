@@ -13,9 +13,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Ներածել">
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Հասցէագրքեր">
+<!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Կարգաւորումներ">
+<!ENTITY importSettings.accesskey "S">
 <!ENTITY importFilters.label      "Զտիչներ">
+<!ENTITY importFilters.accesskey  "F">
 
 
 
