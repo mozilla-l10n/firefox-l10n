@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "S ponastavitvijo glavnega gesla bodo izgubljena vsa shranjena spletna in e-poštna gesla, podatki obrazcev, osebna digitalna potrdila in zasebni ključi.">
 <!ENTITY  resetpassword.button                   "Ponastavi geslo">
 <!ENTITY  resetpassword.accesskey                "n">
+<!ENTITY  resetpassword2.button                  "Ponastavi geslo">
+<!ENTITY  resetpassword2.accesskey               "P">

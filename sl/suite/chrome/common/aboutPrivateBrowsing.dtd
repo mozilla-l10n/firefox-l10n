@@ -13,6 +13,7 @@
 <!ENTITY privatebrowsingpage.status.normal       "Trenutno niste v zasebnem oknu.">
 
 <!ENTITY privatebrowsingpage.common.description  "V oknu zasebnega brskanja &brandShortName; ne shranjuje nobene zgodovine brskanja, zgodovine iskanja, zgodovine prenosov, zgodovine sletnih obrazcev, piškotkov ali začasnih internetnih datotek.  Ustvarjeni zaznamki in prenesene datoteke bodo ohranjene.">
+<!ENTITY privatebrowsingpage.track.warn          "Čeprav ta računalnik ne shranjuje zgodovine brskanja, lahko vaš nadrejeni ali ponudnik internetnih storitev kljub temu sledi stranem, ki jih obiskujete.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Več o tem">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "V">
 
