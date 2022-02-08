@@ -4,6 +4,7 @@
 
 carddav-window =
     .title = Nueva libreta de direcciones CardDAV
+carddav-window-title = Nueva libreta de direcciones CardDAV
 carddav-dialog =
     .buttonlabelaccept = Continuar
     .buttonaccesskeyaccept = C
