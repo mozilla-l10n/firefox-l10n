@@ -14,7 +14,6 @@ compatibility-issue-deprecated = (zestarjeny)
 compatibility-issue-experimental = (eksperimentelny)
 compatibility-issue-prefixneeded = (prefiks trěbny)
 compatibility-issue-deprecated-experimental = (zestarjeny, eksperimentelny)
-
 compatibility-issue-deprecated-prefixneeded = (zestarjeny, prefiks trěbny)
 compatibility-issue-experimental-prefixneeded = (eksperimentelny, prefiks trěbny)
 compatibility-issue-deprecated-experimental-prefixneeded = (zestarjeny, eksperimentelny, prefiks trěbny)
@@ -45,7 +44,14 @@ compatibility-issue-occurrences =
         [few] { $number } wustupowanja
        *[other] { $number } wustupowanjow
     }
-
 compatibility-no-issues-found = Žane problemy kompatibelnosće namakane.
 compatibility-close-settings-button =
     .title = Nastajenja začinić
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Probleme kompatibelnosće w:
+        { $browsers }
