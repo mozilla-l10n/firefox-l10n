@@ -52,6 +52,10 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Síne visor sistema
     .accesskey = V
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Síne jíí { $handler }
+    .accesskey = i
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
