@@ -15,3 +15,4 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } маълумотро дар бораи танзимот, хусусиятҳо ва дигар чизҳои корбарии браузери шумо дар профили шахсии шумо нигоҳ медорад.
