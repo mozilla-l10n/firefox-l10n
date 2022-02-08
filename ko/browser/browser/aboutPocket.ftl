@@ -39,6 +39,7 @@ pocket-panel-signup-tagline = { -brand-product-name }에서 글과 동영상을 
 pocket-panel-signup-tagline-story-one = { -pocket-brand-name } 버튼을 누르면 { -brand-product-name }에서 어떠한 글, 동영상, 또는 페이지도 저장합니다.
 pocket-panel-signup-tagline-story-two = 모든 기기에서 아무 때나 { -pocket-brand-name }에서 볼 수 있습니다.
 pocket-panel-signup-cta-a = 인터넷 저장 버튼입니다.
+pocket-panel-signup-cta-b = 글, 동영상 및 링크를 저장하려면 { -pocket-brand-name } 버튼을 누르세요. 언제든지 모든 기기에서 목록을 볼 수 있습니다.
 pocket-panel-signup-cta-c = 언제든지 모든 기기에서 목록을 볼 수 있습니다.
 
 ## about:pocket-home panel
@@ -50,6 +51,7 @@ pocket-panel-home-explore-popular-topics = 인기 주제 탐색
 pocket-panel-home-discover-more = 더 발견하기
 pocket-panel-home-explore-more = 탐색하기
 pocket-panel-home-most-recent-saves = 가장 최근 저장 항목:
+pocket-panel-home-new-user-cta = 글, 동영상 및 링크를 저장하려면 { -pocket-brand-name } 버튼을 누르세요.
 pocket-panel-home-new-user-message = 여기에서 최근 저장 항목을 확인하세요.
 
 ## Pocket panel header component
