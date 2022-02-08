@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = 검색
 searchbar-icon =
     .tooltiptext = 검색
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>기본 검색 엔진이 변경되었습니다.</strong> { -brand-short-name }는 더 이상 { $oldEngine } 검색 엔진을 지원하지 않습니다. { $newEngine } 검색 엔진이 이제 기본 검색 엔진입니다. 다른 기본 검색 엔진으로 변경하려면 설정으로 이동하세요. <label data-l10n-name="remove-search-engine-article">더 알아보기</label>
+remove-search-engine-button = 확인
