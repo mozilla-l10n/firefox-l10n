@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = רישום עם { -brand-product-name }
 pocket-panel-signup-tagline = לשמור מאמרים וסרטונים מ־{ -brand-product-name } כדי להציג ב־{ -pocket-brand-name } בכל מכשיר, בכל זמן.
 pocket-panel-signup-tagline-story-one = כדי לשמור כל מאמר, סרטון או דף מ־{ -brand-product-name } יש ללחוץ על כפתור ה‏־{ -pocket-brand-name }.
 pocket-panel-signup-tagline-story-two = להציג ב־{ -pocket-brand-name } בכל מכשיר, בכל זמן.
+pocket-panel-signup-cta-a = כפתור השמירה שלך לאינטרנט.
+pocket-panel-signup-cta-b = ניתן ללחוץ על כפתור ה־{ -pocket-brand-name } כדי לשמור מאמרים, סרטונים וקישורים. ניתן גם לצפות ברשימה שלך בכל מכשיר, בכל זמן.
+pocket-panel-signup-cta-c = הצגת הרשימה שלך בכל מכשיר, בכל זמן.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = באפשרותך להשתמש ב־{ -pocket-brand-
 pocket-panel-home-explore-popular-topics = סיור בנושאים נפוצים
 pocket-panel-home-discover-more = לגלות עוד
 pocket-panel-home-explore-more = סיור
+pocket-panel-home-most-recent-saves = להלן השמירות האחרונות שלך:
+pocket-panel-home-new-user-cta = ניתן ללחוץ על כפתור ה־{ -pocket-brand-name } כדי לשמור מאמרים, סרטונים וקישורים.
+pocket-panel-home-new-user-message = ניתן לראות כאן את השמירות האחרונות שלך.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = הצגת הרשימה שלי
 pocket-panel-header-sign-in = כניסה
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = הצגת הכול
+pocket-panel-button-add-tags = הוספת תגיות
+pocket-panel-button-activate = הפעלת { -pocket-brand-name } ב־{ -brand-product-name }
