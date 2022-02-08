@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = הגדרה זו תחול על כ
 update-application-use-service =
     .label = שימוש בשירות רקע לשם התקנת עדכונים
     .accesskey = ר
+update-application-suppress-prompts =
+    .label = הצגת פחות בקשות לעדכון
+    .accesskey = פ
 update-setting-write-failure-title2 = שגיאה בשמירת הגדרות העדכון
 # Variables:
 #   $path (String) - Path to the configuration file

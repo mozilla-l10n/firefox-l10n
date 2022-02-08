@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = חיפוש
 searchbar-icon =
     .tooltiptext = חיפוש
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>מנוע החיפוש ברירת המחדל שלך השתנה.</strong> { -brand-short-name } אינו תומך יותר ב־{ $oldEngine }. ‏{ $newEngine } הוא כעת מנוע החיפוש ברירת המחדל שלך. על מנת לשנות אותו למנוע חיפוש ברירת מחדל אחר, יש לעבור להגדרות. <label data-l10n-name="remove-search-engine-article">מידע נוסף</label>
+remove-search-engine-button = אישור
