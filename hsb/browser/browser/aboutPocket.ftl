@@ -39,6 +39,7 @@ pocket-panel-signup-tagline = Składujće nastawki a wideja z { -brand-product-n
 pocket-panel-signup-tagline-story-one = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawk, widejo abo stronu z { -brand-product-name } składował.
 pocket-panel-signup-tagline-story-two = Sej w { -pocket-brand-name } na kóždym graće kóždy čas wobhladać.
 pocket-panel-signup-cta-a = Waše składowanske tłóčatko za internet.
+pocket-panel-signup-cta-b = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawki, wideja a wotkazy składował. Wobhladajće sej lisćinu kóždy čas na kóždym graće.
 pocket-panel-signup-cta-c = Sej swoju lisćinu na kóždym graće kóždy čas wobhladać.
 
 ## about:pocket-home panel
