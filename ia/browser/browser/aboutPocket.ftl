@@ -50,6 +50,9 @@ pocket-panel-home-paragraph = Tu pote usar { -pocket-brand-name } pro explorar e
 pocket-panel-home-explore-popular-topics = Explorar argumentos popular
 pocket-panel-home-discover-more = Discoperi plus
 pocket-panel-home-explore-more = Explorar
+pocket-panel-home-most-recent-saves = Ecce tu plus recente salvamentos:
+pocket-panel-home-new-user-cta = Clicca le button { -pocket-brand-name } pro salvar articulos, videos e ligamines.
+pocket-panel-home-new-user-message = Vide hic tu recente salvamentos.
 
 ## Pocket panel header component
 
@@ -60,3 +63,4 @@ pocket-panel-header-sign-in = Aperir session
 
 pocket-panel-button-show-all = Monstrar toto
 pocket-panel-button-add-tags = Adder etiquettas
+pocket-panel-button-activate = Activa { -pocket-brand-name } in { -brand-product-name }
