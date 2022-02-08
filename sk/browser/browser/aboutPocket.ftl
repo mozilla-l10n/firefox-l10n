@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Registrovať pomocou { -brand-product-name 
 pocket-panel-signup-tagline = Ukladajte si články a videá z prehliadača { -brand-product-name } a majte ich vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
 pocket-panel-signup-tagline-story-one = Kliknutím na tlačidlo { -pocket-brand-name } v prehliadači { -brand-product-name } uložíte akýkoľvek článok, video alebo stránku.
 pocket-panel-signup-tagline-story-two = Tieto sú potom vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
+pocket-panel-signup-cta-a = Vaše tlačidlo uloženia pre internet.
+pocket-panel-signup-cta-b = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy. Zobrazte svoj zoznam na akomkoľvek zariadení a kedykoľvek.
+pocket-panel-signup-cta-c = Zobrazte svoj zoznam na akomkoľvek zariadení a kedykoľvek.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = { -pocket-brand-name } môžete použiť na objavo
 pocket-panel-home-explore-popular-topics = Preskúmať populárne témy
 pocket-panel-home-discover-more = Objavte ďalšie
 pocket-panel-home-explore-more = Preskúmať
+pocket-panel-home-most-recent-saves = Tu sú vaše posledné uloženia:
+pocket-panel-home-new-user-cta = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy.
+pocket-panel-home-new-user-message = Pozrite si svoje nedávne uloženia.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Zobraziť Môj zoznam
 pocket-panel-header-sign-in = Prihlásiť sa
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Zobraziť všetko
+pocket-panel-button-add-tags = Pridať značky
+pocket-panel-button-activate = Aktivovať { -pocket-brand-name } vo { -brand-product-name(case: "loc") }

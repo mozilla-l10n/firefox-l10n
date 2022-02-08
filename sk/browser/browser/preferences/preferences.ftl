@@ -362,6 +362,9 @@ update-application-warning-cross-user-setting = Toto nastavenie sa vzťahuje na 
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
     .accesskey = z
+update-application-suppress-prompts =
+    .label = Zobrazovať menej upozornení na aktualizácie
+    .accesskey = m
 update-setting-write-failure-title2 = Chyba pri ukladaní nastavení pre aktualizácie
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -520,7 +523,7 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-highlights-option-saved-to-pocket =
     .label = Stránky uložené v { -pocket-brand-name(case: "loc") }
 home-prefs-recent-activity-header =
-    .label = Posledná aktivita
+    .label = Nedávna aktivita
 home-prefs-recent-activity-description = Výber z nedávno navštívených stránok a obsahu
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
