@@ -52,3 +52,8 @@ pocket-panel-home-explore-more = Explorar
 
 pocket-panel-header-my-list = Vider mi lista
 pocket-panel-header-sign-in = Aperir session
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Monstrar toto
+pocket-panel-button-add-tags = Adder etiquettas
