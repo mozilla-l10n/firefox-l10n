@@ -272,14 +272,17 @@ cloud-file-count-header =
        *[other] S tem e-poštnim sporočilom sem povezal { $count } datotek:
     }
 # A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Več o ponudniku { $lastLink }.
-        [two] Več o ponudnikih { $firstLinks } in { $lastLink }.
-        [few] Več o ponudnikih { $firstLinks } in { $lastLink }.
-       *[other] Več o ponudnikih { $firstLinks } in { $lastLink }.
-    }
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Več o ponudniku { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Več o ponudnikih { $firstLinks } in { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Z geslom zaščitena povezava
 # Used in a list of stats about a specific file
@@ -300,6 +303,7 @@ cloud-file-template-download-limit = Omejitev prenosa:
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Napaka v povezavi
+cloud-file-connection-error = { -brand-short-name } je brez povezave. Ni se bilo mogoče povezati s storitvijo { $provider }.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was uploaded and caused the error
 cloud-file-upload-error-with-custom-message-title = Nalaganje { $filename } na { $size } je spodletelo
