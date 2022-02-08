@@ -347,6 +347,9 @@ update-application-warning-cross-user-setting = 此設定將套用到本電腦�
 update-application-use-service =
     .label = 在背景服務當中安裝更新
     .accesskey = b
+update-application-suppress-prompts =
+    .label = 減少更新通知提示
+    .accesskey = n
 update-setting-write-failure-title2 = 儲存更新設定時發生錯誤
 # Variables:
 #   $path (String) - Path to the configuration file
