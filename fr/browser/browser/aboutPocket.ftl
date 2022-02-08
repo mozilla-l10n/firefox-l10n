@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = S’inscrire avec { -brand-product-name }
 pocket-panel-signup-tagline = Enregistrez des articles et des vidéos depuis { -brand-product-name } pour les visualiser dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
 pocket-panel-signup-tagline-story-one = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer depuis { -brand-product-name } n’importe quel article, vidéo ou page.
 pocket-panel-signup-tagline-story-two = Affichez vos pages dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
+pocket-panel-signup-cta-c = Consultez votre liste sur n’importe quel appareil, à tout moment.
 
 ## about:pocket-home panel
 
@@ -52,3 +53,7 @@ pocket-panel-home-explore-more = Explorer
 
 pocket-panel-header-my-list = Afficher ma liste
 pocket-panel-header-sign-in = Connexion
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Tout afficher
