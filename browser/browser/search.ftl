@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Leita
 searchbar-icon =
     .tooltiptext = Leita
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Sjálfgefnu leitarvélinni þinni hefur verið breytt.</strong> { -brand-short-name } styður ekki lengur { $oldEngine }. { $newEngine } er nú sjálfgefna leitarvélin þín. Farðu í stillingarnar til að skipta yfir í aðra sjálfgefna leitarvél. <label data-l10n-name="remove-search-engine-article">Frekari upplýsingar</label>
+remove-search-engine-button = Í lagi
