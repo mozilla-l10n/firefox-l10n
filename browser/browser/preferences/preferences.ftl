@@ -347,6 +347,9 @@ update-application-warning-cross-user-setting = 이 설정은 이 { -brand-short
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
     .accesskey = b
+update-application-suppress-prompts =
+    .label = 업데이트 알림 프롬프트 적게 표시
+    .accesskey = n
 update-setting-write-failure-title2 = 업데이트 설정 저장 중 오류 발생
 # Variables:
 #   $path (String) - Path to the configuration file
