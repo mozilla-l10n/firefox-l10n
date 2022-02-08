@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Z { -brand-product-name } registrować
 pocket-panel-signup-tagline = Składujće nastawki a wideja z { -brand-product-name }, zo byšće sej je kóždy čas w { -pocket-brand-name } na kóždym graće wobhladał.
 pocket-panel-signup-tagline-story-one = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawk, widejo abo stronu z { -brand-product-name } składował.
 pocket-panel-signup-tagline-story-two = Sej w { -pocket-brand-name } na kóždym graće kóždy čas wobhladać.
+pocket-panel-signup-cta-a = Waše składowanske tłóčatko za internet.
 pocket-panel-signup-cta-c = Sej swoju lisćinu na kóždym graće kóždy čas wobhladać.
 
 ## about:pocket-home panel
@@ -48,6 +49,8 @@ pocket-panel-home-paragraph = Móžeće { -pocket-brand-name } wužiwać, zo by�
 pocket-panel-home-explore-popular-topics = Wotkryjće woblubowane temy
 pocket-panel-home-discover-more = Wotkryjće wjace
 pocket-panel-home-explore-more = Wuslědźić
+pocket-panel-home-most-recent-saves = Tu su waše najnowše składowanja:
+pocket-panel-home-new-user-cta = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawki, wideja a wotkazy składował.
 
 ## Pocket panel header component
 
