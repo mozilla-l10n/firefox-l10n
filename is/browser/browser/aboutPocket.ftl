@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Skrá sig með { -brand-product-name }
 pocket-panel-signup-tagline = Vista síður og myndbönd frá { -brand-product-name } til að skoða í { -pocket-brand-name } á hvaða tæki sem er, hvenær sem er.
 pocket-panel-signup-tagline-story-one = Smelltu á { -pocket-brand-name } hnappinn til að vista grein, myndband eða síðu frá { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Skoðaðu í { -pocket-brand-name } á hvaða tæki sem er, hvenær sem er.
+pocket-panel-signup-cta-a = Vista-hnappurinn þinn fyrir internetið.
+pocket-panel-signup-cta-b = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla. Skoðaðu listann þinn á hvaða tæki sem er, hvenær sem er.
+pocket-panel-signup-cta-c = Skoðaðu listann þinn á hvaða tæki sem er, hvenær sem er.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = Þú getur notað { -pocket-brand-name } til að k
 pocket-panel-home-explore-popular-topics = Skoða vinsæl efni
 pocket-panel-home-discover-more = Uppgötva meira
 pocket-panel-home-explore-more = Kanna
+pocket-panel-home-most-recent-saves = Hér er það nýjasta sem þú hefur vistað:
+pocket-panel-home-new-user-cta = Smelltu á hnappinn { -pocket-brand-name } til að vista greinar, myndskeið og tengla.
+pocket-panel-home-new-user-message = Sjáðu það nýjasta sem þú hefur vistað.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Skoða listann minn
 pocket-panel-header-sign-in = Skrá inn
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Sýna allt
+pocket-panel-button-add-tags = Bæta við merkjum
+pocket-panel-button-activate = Virkjaðu { -pocket-brand-name } í { -brand-product-name }
