@@ -4,6 +4,7 @@
 
 carddav-window =
     .title = Ný CardDAV-nafnaskrá
+carddav-window-title = Ný CardDAV-nafnaskrá
 carddav-dialog =
     .buttonlabelaccept = Halda áfram
     .buttonaccesskeyaccept = C
