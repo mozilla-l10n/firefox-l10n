@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Z { -brand-product-name } registrować
 pocket-panel-signup-tagline = Składujće nastawki a wideja z { -brand-product-name }, zo byšće sej je kóždy čas w { -pocket-brand-name } na kóždym graće wobhladał.
 pocket-panel-signup-tagline-story-one = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawk, widejo abo stronu z { -brand-product-name } składował.
 pocket-panel-signup-tagline-story-two = Sej w { -pocket-brand-name } na kóždym graće kóždy čas wobhladać.
+pocket-panel-signup-cta-c = Sej swoju lisćinu na kóždym graće kóždy čas wobhladać.
 
 ## about:pocket-home panel
 
@@ -52,3 +53,9 @@ pocket-panel-home-explore-more = Wuslědźić
 
 pocket-panel-header-my-list = Moju lisćinu pokazać
 pocket-panel-header-sign-in = Přizjewić
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Wšě pokazać
+pocket-panel-button-add-tags = Znački přidać
+pocket-panel-button-activate = { -pocket-brand-name } w { -brand-product-name } atiwizować
