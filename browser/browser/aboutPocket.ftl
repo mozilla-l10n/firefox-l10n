@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } bejelentkezés
 pocket-panel-signup-tagline = Mentsen cikkeket és videókat a { -brand-product-name }ból a { -pocket-brand-name }en való megtekintéshez bármely eszközön, bármikor.
 pocket-panel-signup-tagline-story-one = Kattintson a { -pocket-brand-name } gombra bármely cikk, videó vagy oldal mentéséhez a { -brand-product-name }ból.
 pocket-panel-signup-tagline-story-two = Nézze meg a { -pocket-brand-name }en bármely eszközön, bármikor.
+pocket-panel-signup-cta-a = A mentés gombja az internethez.
+pocket-panel-signup-cta-b = Kattintson a { -pocket-brand-name } gombra a cikkek, videók és hivatkozások mentéséhez. Tekintse meg a listáját bármilyen eszközön, bármikor.
+pocket-panel-signup-cta-c = Nézze meg a listáját bármely eszközön, bármikor.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = A { -pocket-brand-name } segítségével weboldala
 pocket-panel-home-explore-popular-topics = Népszerű témák felfedezése
 pocket-panel-home-discover-more = Folytassa a felfedezést
 pocket-panel-home-explore-more = Felfedezés
+pocket-panel-home-most-recent-saves = Itt vannak a legutóbbi mentések:
+pocket-panel-home-new-user-cta = Kattintson a { -pocket-brand-name } gombra a cikkek, videók és hivatkozások mentéséhez.
+pocket-panel-home-new-user-message = Itt tekintheti meg a legutóbbi mentéseit.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Saját lista megtekintése
 pocket-panel-header-sign-in = Bejelentkezés
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Összes megjelenítése
+pocket-panel-button-add-tags = Címkék hozzáadása
+pocket-panel-button-activate = A { -pocket-brand-name } aktiválása a { -brand-product-name }ban
