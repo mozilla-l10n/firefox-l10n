@@ -36,14 +36,15 @@ pocket-panel-signup-signup-email = 이메일로 가입
 pocket-panel-signup-signup-cta = { -pocket-brand-name }에 가입하세요. 무료입니다.
 pocket-panel-signup-signup-firefox = { -brand-product-name }로 가입하기
 pocket-panel-signup-tagline = { -brand-product-name }에서 글과 동영상을 저장하면 다른 기기에서 { -pocket-brand-name }을 사용해 아무 때나 보실 수 있습니다.
-pocket-panel-signup-tagline-story-one = { -pocket-brand-name } 단추를 누르면 { -brand-product-name }에서 어떠한 글, 동영상, 또는 페이지도 저장합니다.
+pocket-panel-signup-tagline-story-one = { -pocket-brand-name } 버튼을 누르면 { -brand-product-name }에서 어떠한 글, 동영상, 또는 페이지도 저장합니다.
 pocket-panel-signup-tagline-story-two = 모든 기기에서 아무 때나 { -pocket-brand-name }에서 볼 수 있습니다.
+pocket-panel-signup-cta-a = 인터넷 저장 버튼입니다.
 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = 내 목록
 pocket-panel-home-welcome-back = 환영합니다
-pocket-panel-home-paragraph = { -pocket-brand-name }을 사용하여 웹 페이지, 기사, 동영상, 팟캐스트를 탐색 및 저장하거나 읽은 내용으로 돌아갈 수 있습니다.
+pocket-panel-home-paragraph = { -pocket-brand-name }을 사용하여 웹 페이지, 글, 동영상, 팟캐스트를 탐색 및 저장하거나 읽은 내용으로 돌아갈 수 있습니다.
 pocket-panel-home-explore-popular-topics = 인기 주제 탐색
 pocket-panel-home-discover-more = 더 발견하기
 pocket-panel-home-explore-more = 탐색하기
@@ -55,3 +56,6 @@ pocket-panel-header-sign-in = 로그인
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = 모두 보기
+pocket-panel-button-add-tags = 태그 추가
+pocket-panel-button-activate = { -brand-product-name }에서 { -pocket-brand-name } 활성화
