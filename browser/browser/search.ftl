@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = 搜尋
 searchbar-icon =
     .tooltiptext = 搜尋
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>您的預設搜尋引擎有變動。</strong>{ -brand-short-name } 已不再支援 { $oldEngine }，現在起將以 { $newEngine } 做為您的預設搜尋引擎。若要改用其他的預設搜尋引擎，請到「設定」調整。<label data-l10n-name="remove-search-engine-article">了解更多</label>
+remove-search-engine-button = 確定
