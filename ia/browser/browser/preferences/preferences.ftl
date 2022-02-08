@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Iste configuration sera applicat
 update-application-use-service =
     .label = Usar un servicio in secunde plano pro installar le actualisationes
     .accesskey = s
+update-application-suppress-prompts =
+    .label = Monstrar minus avisos de  actualisation
+    .accesskey = m
 update-setting-write-failure-title2 = Impossibile registrar parametros de actualisation
 # Variables:
 #   $path (String) - Path to the configuration file
