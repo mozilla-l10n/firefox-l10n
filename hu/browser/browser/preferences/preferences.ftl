@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Ez a beállítás érvényes az 
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
+update-application-suppress-prompts =
+    .label = Kevesebb frissítési értesítés megjelenítése
+    .accesskey = K
 update-setting-write-failure-title2 = Hiba történt a Frissítési beállítások mentésekor
 # Variables:
 #   $path (String) - Path to the configuration file
