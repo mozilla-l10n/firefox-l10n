@@ -4,25 +4,21 @@
 
 carddav-window =
     .title = Nieuw CardDAV-adresboek
-
+carddav-window-title = Nieuw CardDAV-adresboek
 carddav-dialog =
     .buttonlabelaccept = Doorgaan
     .buttonaccesskeyaccept = D
-
 carddav-username-label =
     .value = Gebruikersnaam:
     .accesskey = G
-
 carddav-location-label =
     .value = Locatie:
     .accesskey = L
 carddav-location =
     .default-placeholder = URL of hostnaam van de adresboekserver
-
 carddav-loading = Configuratie opzoeken…
 carddav-known-incompatible = Het is bekend dat { $url } niet compatibel is met { -brand-short-name }.
 carddav-connection-error = Verbinding maken mislukt.
 carddav-none-found = Geen toe te voegen adresboeken gevonden voor de opgegeven account.
 carddav-already-added = Alle adresboeken voor de opgegeven account zijn al toegevoegd.
-
 carddav-available-books = Beschikbare adresboeken:
