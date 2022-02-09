@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Ce paramètre s’appliquera à 
 update-application-use-service =
     .label = Utiliser un service en arrière-plan pour installer les mises à jour
     .accesskey = s
+update-application-suppress-prompts =
+    .label = Afficher moins de notifications de mise à jour
+    .accesskey = n
 update-setting-write-failure-title2 = Erreur lors de l’enregistrement des paramètres de mise à jour
 # Variables:
 #   $path (String) - Path to the configuration file
