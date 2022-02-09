@@ -78,7 +78,7 @@ upgrade-dialog-start-secondary-button = Ekki núna
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Veldu litaspjaldið þitt
 # This is shown to users with a custom home page, so they can switch to default.
-upgrade-dialog-colorway-home-checkbox = Skiptu yfir í Firefox upphafssíðu með þemabakgrunni
+upgrade-dialog-colorway-home-checkbox = Skiptu yfir í Firefox-upphafssíðu með þemabakgrunni
 upgrade-dialog-colorway-primary-button = Vista litasett
 upgrade-dialog-colorway-secondary-button = Halda fyrra þema
 upgrade-dialog-colorway-theme-tooltip =
