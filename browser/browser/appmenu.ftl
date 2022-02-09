@@ -187,14 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Sú forstilling sem mælt er með fyrir villuleit flestra vefforrita, með litlum fórnarkostnaði í afköstum.
 profiler-popup-presets-web-developer-label =
     .label = Vefhönnuður
-profiler-popup-presets-firefox-platform-description = Sú forstilling sem mælt er með fyrir villuleit í innra Firefox-kerfi.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox-kerfi
-profiler-popup-presets-firefox-front-end-description = Sú forstilling sem mælt er með fyrir villuleit í framenda Firefox-kerfis.
-profiler-popup-presets-firefox-graphics-description = Sú forstilling sem mælt er með fyrir rannsókn á afköstum myndefnis í Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox-myndefni
-profiler-popup-presets-media-description = Sú forstilling sem mælt er með til að greina hljóð- og myndvandamál.
 profiler-popup-presets-firefox-description = Sú forstilling sem mælt er með fyrir prófílgreiningu { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -229,7 +221,7 @@ appmenu-recently-closed-windows =
 ## Help panel
 
 appmenu-help-header =
-    .title = { -brand-shorter-name } aðstoð
+    .title = { -brand-shorter-name }-hjálp
 appmenu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U

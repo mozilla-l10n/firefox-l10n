@@ -26,7 +26,7 @@ category-list =
 pane-general-title = Almennt
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = Heim
+pane-home-title = Upphafssíða
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Leita
@@ -47,7 +47,7 @@ pane-experimental-description2 = Breyting á ítarlegum stillingum getur haft á
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
-help-button-label = { -brand-short-name } Aðstoð
+help-button-label = { -brand-short-name }-aðstoð
 addons-button-label = Viðbætur & þemu
 focus-search =
     .key = f
@@ -402,16 +402,16 @@ performance-default-content-process-count =
 
 browsing-title = Leit
 browsing-use-autoscroll =
-    .label = Nota sjálfvirka skrunun
+    .label = Nota sjálfvirkt skrun
     .accesskey = o
 browsing-use-smooth-scrolling =
-    .label = Nota fíngerða skrunun
+    .label = Nota fíngert skrun
     .accesskey = f
 browsing-use-onscreen-keyboard =
     .label = Sýna snertilyklaborð þegar það er nauðsynlegt
     .accesskey = k
 browsing-use-cursor-navigation =
-    .label = Alltaf nota örvalykla til að ferðast á síðum
+    .label = Alltaf nota örvalykla til að flakka á síðum
     .accesskey = ö
 browsing-search-on-start-typing =
     .label = Leita í texta þegar byrjað er að slá inn orð
@@ -448,7 +448,7 @@ home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar h
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Heimasíða og nýjir gluggar
+home-homepage-mode-label = Upphafssíða og nýir gluggar
 home-newtabs-mode-label = Nýir flipar
 home-restore-defaults =
     .label = Endurheimta sjálfgefin gildi

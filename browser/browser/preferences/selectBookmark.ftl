@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = Setja heimasíðu
+    .title = Setja upphafssíðu
     .style = width: 32em;
-
-select-bookmark-desc = Veldu bókamerki sem heimasíðuna þína. Ef þú velur möppu opnast öll bókamerki þar í flipum.
+select-bookmark-desc = Veldu bókamerki sem upphafssíðuna þína. Ef þú velur möppu opnast öll bókamerki þar í flipum.
