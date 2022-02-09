@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Bu ayar, bu { -brand-short-name 
 update-application-use-service =
     .label = Güncellemeleri yüklemek için arka plan hizmetini kullan
     .accesskey = h
+update-application-suppress-prompts =
+    .label = Güncelleme bildirimlerini daha az  göster
+    .accesskey = G
 update-setting-write-failure-title2 = Güncelleme ayarları kaydedilirken hata oluştu
 # Variables:
 #   $path (String) - Path to the configuration file
