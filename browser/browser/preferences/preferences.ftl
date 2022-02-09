@@ -32,7 +32,7 @@ category-home =
 pane-search-title = Leita
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Friðhelgi og öruggi
+pane-privacy-title = Friðhelgi og öryggi
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Samstilling
@@ -570,7 +570,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Breyta stillingum fyrir aðrar tillögur í veffangastiku
 search-suggestions-cant-show = Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neina leitarsögu.
 search-one-click-header2 = Flýtileiðir við leit
-search-one-click-desc = Veldu aðrar leitarvélar sem birtast fyrir neðan veffangastikuna og leitarstikuna þegar þú byrjar að slá inn leitarorð.
+search-one-click-desc = Veldu aðrar leitarvélar sem munu birtast fyrir neðan veffangastikuna og leitarstikuna þegar þú byrjar að slá inn leitarorð.
 search-choose-engine-column =
     .label = Leitarvél
 search-choose-keyword-column =
@@ -625,7 +625,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Hala niður Firefox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
+sync-mobile-promo = Sæktu Firefox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
 
 ## Firefox Account - Signed in
 
@@ -894,8 +894,8 @@ sitedata-cookies-exceptions =
 addressbar-header = Veffangastika
 addressbar-suggest = Þegar veffangastikuna er notuð skal stinga upp á
 addressbar-locbar-history-option =
-    .label = Leitarsaga
-    .accesskey = L
+    .label = Vafraferill
+    .accesskey = f
 addressbar-locbar-bookmarks-option =
     .label = Bókamerki
     .accesskey = k
@@ -963,7 +963,7 @@ content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
 content-blocking-warning-title = Gættu þín!
 content-blocking-and-isolating-etp-warning-description = Að loka fyrir rekjara og einangra vefkökur gæti haft áhrif á virkni sumra vefsvæða. Endurlestu síðu með rekjurum til að hlaða inn öllu efni.
-content-blocking-and-isolating-etp-warning-description-2 = Þessi stilling gæti valdið því að sum vefsvæði birti ekki efni eða virki ekki rétt. Ef síða virðist biluð gætirðu viljað slökkva á rakningarvörn fyrir það vefsvæði til að hlaða öllu efni.
+content-blocking-and-isolating-etp-warning-description-2 = Þessar stillingar gætu valdið því að sum vefsvæði birti ekki efni eða virki ekki rétt. Ef síða virðist biluð gætirðu viljað slökkva á rakningarvörn fyrir það vefsvæði til að hlaða inn öllu efni.
 content-blocking-warning-learn-how = Lærðu hvernig
 content-blocking-reload-description = Þú þarft að endurhlaða flipana þína til að gera þessar breytingar virkar.
 content-blocking-reload-tabs-button =
