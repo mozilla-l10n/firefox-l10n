@@ -35,3 +35,5 @@ items-pane-checkbox-mail-messages = Posta iletileri
 progress-pane-title = İçe aktarılıyor
 progress-pane-restart-desc = İçe aktarmayı bitirmek için yeniden başlatın.
 error-pane-title = Hata
+error-message-extract-zip-file-failed = Zip dosyası çıkarılamadı. Lütfen elle çıkardıktan sonra klasörden içe aktarın.
+error-message-failed = İçe aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
