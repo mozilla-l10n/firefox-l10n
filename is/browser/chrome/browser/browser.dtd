@@ -119,7 +119,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullZoom.label                 "Aðdráttur">
 
-<!ENTITY sidebarCloseButton.tooltip     "Loka hliðslá">
+<!ENTITY sidebarCloseButton.tooltip     "Loka hliðarspjaldi">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

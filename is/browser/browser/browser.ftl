@@ -521,7 +521,7 @@ urlbar-result-action-search-tabs = Leita í flipum
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -574,8 +574,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Fela bókamerki í hliðslá
-           *[other] Birta bókamerki í hliðslá
+            [true] Fela bókamerki á hliðarspjaldi
+           *[other] Birta bókamerki á hliðarspjaldi
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -769,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Prenta
     .tooltiptext = Prenta þessa síðu… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Prenta
-    .tooltiptext = Prenta síðu
 navbar-home =
     .label = Heim
     .tooltiptext = { -brand-short-name } Heimasíða
