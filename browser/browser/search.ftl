@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Sök
 searchbar-icon =
     .tooltiptext = Sök
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Din standardsökmotor har ändrats.</strong> { -brand-short-name } stöder inte längre { $oldEngine }. { $newEngine } är nu din standardsökmotor. För att byta till en annan standardsökmotor, gå till inställningar. <label data-l10n-name="remove-search-engine-article">Läs mer</label>
+remove-search-engine-button = Ok
