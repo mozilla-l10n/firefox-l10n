@@ -35,3 +35,35 @@ msgevent-log-heartbeat-rcvd = Võeti vastu tukse kontaktilt { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-log-heartbeat-sent = Saadeti tukse kontaktile { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg-general-err = Vestluse kaitsmisel OTRiga esines ootamatu viga.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg-unencrypted = Järgnev sõnum kontaktilt { $name } polnud krüptitud: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unrecognized = Sa said kontaktilt { $name } tundmatu OTR-sõnumi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } saatis sõnumi, mis oli mõeldud mingi muu seansi jaoks. Kui sa oled sisse logitud mitu korda, siis võis selle sõnumi saada mingi teine seanss.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-private = Algas privaatne vestlus kontaktiga { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Algas krüptitud, aga verifitseerimata vestlus kontaktiga { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Edukalt värskendati krüptitud vestlust kontaktiga { $name }.
+error-enc = Sõnumi krüptimisel esines viga.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Sa saatsid krüptitud andmed kontaktile { $name }, kes ei oodanud neid.
+error-unreadable = Saatsid krüptitud loetamatu sõnumi.
+error-malformed = Saatsid vigase andmesõnumi.
+resent = [saadeti uuesti]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } lõpetas oma krüptitud vestluse sinuga; sa peaksid tegema sama.
