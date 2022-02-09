@@ -30,4 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-message = <strong>Votre moteur de recherche par défaut a été modifié.</strong> { -brand-short-name } ne prend plus en charge { $oldEngine }. { $newEngine } est désormais votre moteur de recherche par défaut. Pour changer le moteur de recherche par défaut, accédez aux paramètres. <label data-l10n-name="remove-search-engine-article">En savoir plus</label>
 remove-search-engine-button = OK

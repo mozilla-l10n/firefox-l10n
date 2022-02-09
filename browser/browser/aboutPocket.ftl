@@ -38,6 +38,8 @@ pocket-panel-signup-signup-firefox = S’inscrire avec { -brand-product-name }
 pocket-panel-signup-tagline = Enregistrez des articles et des vidéos depuis { -brand-product-name } pour les visualiser dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
 pocket-panel-signup-tagline-story-one = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer depuis { -brand-product-name } n’importe quel article, vidéo ou page.
 pocket-panel-signup-tagline-story-two = Affichez vos pages dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
+pocket-panel-signup-cta-a = Votre bouton « enregistrer » pour Internet.
+pocket-panel-signup-cta-b = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens. Consultez votre liste sur tout autre appareil, quand vous le voulez.
 pocket-panel-signup-cta-c = Consultez votre liste sur n’importe quel appareil, à tout moment.
 
 ## about:pocket-home panel
@@ -48,6 +50,9 @@ pocket-panel-home-paragraph = Vous pouvez utiliser { -pocket-brand-name } pour e
 pocket-panel-home-explore-popular-topics = Explorer les sujets populaires
 pocket-panel-home-discover-more = En découvrir davantage
 pocket-panel-home-explore-more = Explorer
+pocket-panel-home-most-recent-saves = Voici vos enregistrements les plus récents :
+pocket-panel-home-new-user-cta = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens.
+pocket-panel-home-new-user-message = Consultez vos enregistrements récents ici.
 
 ## Pocket panel header component
 
@@ -57,3 +62,5 @@ pocket-panel-header-sign-in = Connexion
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Tout afficher
+pocket-panel-button-add-tags = Ajouter des étiquettes
+pocket-panel-button-activate = Activer { -pocket-brand-name } dans { -brand-product-name }
