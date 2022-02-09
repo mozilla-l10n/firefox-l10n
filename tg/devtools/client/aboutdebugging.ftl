@@ -60,7 +60,7 @@ about-debugging-sidebar-runtime-item-name =
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
-# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+# (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
 about-debugging-sidebar-support = Дастгирии ислоҳи нуқсонҳо
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
@@ -99,13 +99,13 @@ about-debugging-setup-usb-step-enable-debug-firefox2 = Реҷаи ислоҳку
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Дастгоҳи Android-ро ба компютери худ пайваст намоед.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
-# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
 about-debugging-setup-usb-troubleshoot = Ҳангоми пайвастшавӣ ба дастгоҳи USB мушкилӣ мекашед? <a>Ислоҳи нуқсонҳо</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ҷойгиршавии шабака
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
-# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
 about-debugging-setup-network-troubleshoot = Ҳангоми пайвастшавӣ тавассути ҷойгиршавии шабака мушкилӣ мекашед? <a>Ислоҳи нуқсонҳо</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
@@ -137,6 +137,9 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Варақаҳо
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Коркунони хизматрасонй
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Равандҳо
