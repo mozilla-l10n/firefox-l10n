@@ -52,3 +52,9 @@ pocket-panel-home-explore-more = Entdecken
 
 pocket-panel-header-my-list = Meine Liste anzeigen
 pocket-panel-header-sign-in = Anmelden
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Alle anzeigen
+pocket-panel-button-add-tags = Tags hinzufügen
+pocket-panel-button-activate = { -pocket-brand-name } in { -brand-product-name } aktivieren
