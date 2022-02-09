@@ -4,6 +4,7 @@
 
 carddav-window =
     .title = Uus CardDAVi aadressiraamat
+carddav-window-title = Uus CardDAVi aadressiraamat
 carddav-dialog =
     .buttonlabelaccept = Jätka
     .buttonaccesskeyaccept = J
