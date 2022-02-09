@@ -69,7 +69,7 @@ policy-FlashPlugin = Leyfa eða hafna notkun Flash-tengiforritsins.
 policy-Handlers = Stilla meðhöndlun með sjálfgefnum forritum.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Stilla og loka mögulega heimsíðu.
+policy-Homepage = Stilla og mögulega loka upphafssíðu.
 policy-InstallAddonsPermission = Leyfa tilteknum vefsvæðum að setja upp viðbætur.
 policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku notandasniði fyrir hverja uppsetningu.
 

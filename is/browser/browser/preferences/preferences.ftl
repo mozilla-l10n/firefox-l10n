@@ -444,7 +444,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nýir gluggar og flipar
-home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar heimasíðuna þína, nýja glugga og nýja flipa.
+home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar upphafssíðuna þína, nýja glugga og nýja flipa.
 
 ## Home Section - Home Page Customization
 
@@ -456,13 +456,13 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Home (Sjálfgefið)
+    .label = Firefox Home (sjálfgefið)
 home-mode-choice-custom =
     .label = Sérsniðin URL…
 home-mode-choice-blank =
     .label = Tóm síða
 home-homepage-custom-url =
-    .placeholder = Límdu URL…
+    .placeholder = Límdu URL-slóð…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -541,7 +541,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Leitarslá
 search-bar-hidden =
-    .label = Nota leitarslá til að leita og stýra
+    .label = Nota veffangastikuna fyrir leit og flakk
 search-bar-shown =
     .label = Bæta við leitarslá í verkfæraslá
 search-engine-default-header = Sjálfgefin leitarvél
@@ -556,7 +556,7 @@ search-suggestions-option =
     .label = Birta uppástungur fyrir leit
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = Sýna leitarábendingar sem niðurstöður í staðsetningarslá
+    .label = Sýna leitartillögur í niðurstöðum veffangastikunnar
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -564,13 +564,13 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Sýna leitarábendingar fyrir framan leitarsögu í niðurstöðum staðsetningarsláar
+    .label = Sýna leitartillögur á undan vafraferli í niðurstöðum veffangastikunnar
 search-show-suggestions-private-windows =
     .label = Sýna leitartillögur í huliðsgluggum
 suggestions-addressbar-settings-generic2 = Breyta stillingum fyrir aðrar tillögur í veffangastiku
 search-suggestions-cant-show = Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neina leitarsögu.
 search-one-click-header2 = Flýtileiðir við leit
-search-one-click-desc = Veldu auka leitarvélar sem birtast hér fyrir neðan staðsetningarslá og leitarslá þegar þú byrjar að slá inn lykilorð.
+search-one-click-desc = Veldu aðrar leitarvélar sem birtast fyrir neðan veffangastikuna og leitarstikuna þegar þú byrjar að slá inn leitarorð.
 search-choose-engine-column =
     .label = Leitarvél
 search-choose-keyword-column =
@@ -891,8 +891,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Staðsetningarslá
-addressbar-suggest = Þegar ég nota staðsetningarslá, stinga upp á:
+addressbar-header = Veffangastika
+addressbar-suggest = Þegar veffangastikuna er notuð skal stinga upp á
 addressbar-locbar-history-option =
     .label = Leitarsaga
     .accesskey = L

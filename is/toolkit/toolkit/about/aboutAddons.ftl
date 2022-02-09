@@ -66,7 +66,7 @@ detail-private-browsing-off =
     .label = Ekki heimila
     .tooltiptext = Ekki heimila í huliðsvöfrun
 detail-home =
-    .label = Heimasíða
+    .label = Upphafssíða
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -303,7 +303,7 @@ never-activate-button = Aldrei virkt
 addon-detail-author-label = Höfundur
 addon-detail-version-label = Útgáfa
 addon-detail-last-updated-label = Síðast uppfært
-addon-detail-homepage-label = Heimasíða
+addon-detail-homepage-label = Upphafssíða
 addon-detail-rating-label = Einkunn
 # Message for add-ons with a staged pending update.
 install-postponed-message = Þessi viðbót verður uppfærð þegar { -brand-short-name } endurræsir.

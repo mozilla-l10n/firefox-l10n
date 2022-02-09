@@ -8,7 +8,7 @@ safeb-blocked-unwanted-page-title = Vefsvæðið gæti innihaldið spilliforrit
 safeb-blocked-harmful-page-title = Vefsvæði gæti innihaldið spilliforrit
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } lokaði á þessa síðu þar sem hún gæti reynt að plata þig í að gera eitthvað hættulegt eins og að setja inn hugbúnað eða birta persónulegar upplýsingar eins og lykilorð eða kortanúmer.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } lokaði á þessa síðu þar sem hún gæti reynt að setja inn hættulegan hugbúnað sem gæti stolið eða eytt persónulegum gögnum á tölvunni.
-safeb-blocked-unwanted-page-short-desc = { -brand-short-name } lokaði á þessa síðu þar sem hún gæti reynt að plata þig í að setja inn forrit sem gætu valdið skaða á upplifun í vafra (til dæms, með því að breyta heimasíðu eða birta auka auglýsingar á vefsvæðum sem þú heimsækir).
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } lokaði á þessa síðu þar sem hún gæti reynt að plata þig í að setja inn forrit sem gætu valdið skaða á upplifun í vafra (til dæms, með því að breyta upphafssíðu eða birta auka-auglýsingar á vefsvæðum sem þú heimsækir).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } lokaði á þessa síðu þar sem hún gæti reynt að setja inn hættuleg forrit sem stela eða eyða upplýsingum (til dæmis, myndum, lykilorðum, skilaboðum og kreditkortum).
 safeb-palm-advisory-desc = Ráðleggingar frá <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Til baka
