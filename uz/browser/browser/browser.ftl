@@ -213,6 +213,16 @@ search-one-offs-add-engine-menu =
 bookmark-panel-cancel =
     .label = Bekor qilish
     .accesskey = B
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] Xatchoʻpni olib tashlash
+            [one] { $count } ta xatchoʻpni olib tashlash
+           *[other] { $count } ta xatchoʻpni olib tashlash
+        }
+    .accesskey = X
 bookmark-panel-show-editor-checkbox =
     .label = Saqlashda muharrirni ko‘rsatish
     .accesskey = S
@@ -319,6 +329,10 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Qidiriladigan soʻzni kiriting
     .aria-label = { $name }ni qidirish
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Qidiriladigan soʻzni kiriting
+    .aria-label = Xalachoʻplarni qidirish
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -419,6 +433,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Xatcho‘plar panelini berkitish
            *[other] Xatcho‘plar panelini ko‘rsatish
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Xatchoʻplar panelini yashirish
+           *[other] Xatchoʻplar panelini koʻrsatish
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -582,9 +602,6 @@ navbar-overflow =
 navbar-print =
     .label = Chop qilish
     .tooltiptext = { $shortcut } sahifasini chop qilish
-navbar-print-tab-modal-disabled =
-    .label = Chop qilish
-    .tooltiptext = Ushbu sahifani chop qilish
 navbar-home =
     .label = Uy
     .tooltiptext = { -brand-short-name } bosh sahifasi
