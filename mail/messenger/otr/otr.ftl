@@ -21,3 +21,17 @@ msgevent-msg-resent = Viimane sõnum kontaktile { $name } saadeti uuesti.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 msgevent-rcvdmsg-not-private = Krüptitud sõnum kontaktilt { $name } oli loetamatu, sest sa ei suhtle praegu privaatselt.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-unreadable = Sa said kontaktilt { $name } loetamatu krüptitud sõnumi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-malformed = Sa said kontaktilt { $name } vigase sõnumi.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-rcvd = Võeti vastu tukse kontaktilt { $name }.
+# A Heartbeat is a technical message used to keep a connection alive.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-log-heartbeat-sent = Saadeti tukse kontaktile { $name }.
