@@ -25,6 +25,12 @@ chat-buddy-identity-status-unverified = Doğrulanmadı
 
 ## Conversation invite notification box
 
+# This string appears in a notification bar at the top of the Contacts window
+# when someone invited the user to a multi user chat conversation, to request
+# the user to confirm they want to join the chat.
+# Variables:
+#   $conversation (String) - Name of the conversation the user is invited to.
+chat-conv-invite-label = { $conversation } sohbetine davet edildiniz
 chat-conv-invite-accept =
     .label = Kabul et
     .accesskey = K

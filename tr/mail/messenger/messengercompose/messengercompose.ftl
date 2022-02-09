@@ -241,13 +241,6 @@ cloud-file-count-header =
         [one] { $count } dosyayı bu e-postaya bağladım:
        *[other] { $count } dosyayı bu e-postaya bağladım:
     }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] { $lastLink } hakkında daha fazla bilgi edinin.
-       *[other] { $firstLinks } ve { $lastLink } hakkında daha fazla bilgi edinin.
-    }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Parola korumalı bağlantı
 # Used in a list of stats about a specific file
@@ -268,6 +261,7 @@ cloud-file-template-download-limit = İndirme sınırı:
 
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-connection-error-title = Bağlantı Hatası
+cloud-file-connection-error = { -brand-short-name } çevrimdışı. { $provider } ile bağlantı kurulamadı.
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Yeniden adlandırma hatası
