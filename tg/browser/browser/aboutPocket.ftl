@@ -52,3 +52,9 @@ pocket-panel-home-explore-more = Омӯхтан
 
 pocket-panel-header-my-list = Намоиш додани рӯйхати ман
 pocket-panel-header-sign-in = Ворид шудан
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Ҳамаро намоиш додан
+pocket-panel-button-add-tags = Илова кардани барчаспҳо
+pocket-panel-button-activate = Фаъол кардани { -pocket-brand-name } дар { -brand-product-name }
