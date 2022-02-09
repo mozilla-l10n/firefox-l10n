@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = See säte rakendub kõigile Wind
 update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
     .accesskey = d
+update-application-suppress-prompts =
+    .label = Kuvatakse vähem uuenduste teavitusi
+    .accesskey = K
 update-setting-write-failure-title2 = Uuendamise sätete salvestamisel esines viga
 # Variables:
 #   $path (String) - Path to the configuration file
