@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Deneysel CSS Masonry Layout desteğini etkinleştirir. Bu özellik hakkında daha detaylı bilgi için <a data-l10n-name="explainer">anlatıcıya</a> bakabilirsiniz. Geri bildirimde bulunmak için <a data-l10n-name="w3c-issue">GitHub’daki bu soruna</a> veya <a data-l10n-name="bug">bu bug’a</a> yorum yapabilirsiniz.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = CSS Cascade Layers desteğini etkinleştirir. Ayrıntılar için <a data-l10n-name="spec">henüz tamamlanmamış şartnameye</a> bakabilirsiniz. Bu özellikle ilgili hataları <a data-l10n-name="bugzilla">bug 1699215</a>’i bloke ederek rapor edebilirsiniz.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Bu yeni API, kullanıcının cihazının veya bilgisayarının <a data-l10n-name="wikipedia">grafik işlem birimi (GPU)</a> kullanılarak hesaplama ve grafik oluşturma için düşük seviyeli destek sağlar. <a data-l10n-name="spec">Şartname</a> çalışmaları halen devam etmektedir. Ayrıntılar için <a data-l10n-name="bugzilla">bug 1602129</a>'a bakabilirsiniz.
@@ -94,3 +89,6 @@ experimental-features-multi-pip-description = Birden çok görüntü içinde gö
 experimental-features-ime-search =
     .label = Adres Çubuğu: IME oluşturma sırasında sorunları göster
 experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyicisi), standart bir klavye kullanarak Doğu Asya veya Hintçe yazı dillerinde kullanılanlar gibi karmaşık sembolleri girmenize olanak tanıyan bir araçtır. Bu deneyi etkinleştirmek, metin girmek için IME'yi kullanırken adres çubuğu panelini açık tutacak ve arama sonuçlarını ve önerileri gösterecektir. IME'nin adres çubuğu sonuçlarını örten bir panel görüntüleyebileceğini, bu nedenle bu tercihin yalnızca bu tür bir paneli kullanmayan IME'ler için önerildiğini unutmayın.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 User-Agent Dizgesi
