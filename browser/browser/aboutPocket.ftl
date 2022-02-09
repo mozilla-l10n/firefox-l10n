@@ -52,3 +52,8 @@ pocket-panel-home-explore-more = Εξερεύνηση
 
 pocket-panel-header-my-list = Προβολή λίστας
 pocket-panel-header-sign-in = Σύνδεση
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Εμφάνιση όλων
+pocket-panel-button-add-tags = Προσθήκη ετικετών
