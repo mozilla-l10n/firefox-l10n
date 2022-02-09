@@ -52,3 +52,8 @@ pocket-panel-home-explore-more = 发现
 
 pocket-panel-header-my-list = 查看我的列表
 pocket-panel-header-sign-in = 登录
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = 显示全部
+pocket-panel-button-add-tags = 添加标签
