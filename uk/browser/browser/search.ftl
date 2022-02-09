@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Пошук
 searchbar-icon =
     .tooltiptext = Пошук
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Ваш типовий засіб пошуку змінено.</strong> { -brand-short-name } більше не підтримує { $oldEngine }. Тепер { $newEngine } ваш новий типовий засіб пошуку. Щоб змінити його, перейдіть до налаштувань. <label data-l10n-name="remove-search-engine-article">Докладніше</label>
+remove-search-engine-button = Гаразд
