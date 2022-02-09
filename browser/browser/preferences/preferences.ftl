@@ -362,6 +362,9 @@ update-application-warning-cross-user-setting = Цей параметр заст
 update-application-use-service =
     .label = Використовувати фонову службу для встановлення оновлень
     .accesskey = с
+update-application-suppress-prompts =
+    .label = Показувати менше сповіщень про оновлення
+    .accesskey = с
 update-setting-write-failure-title2 = Помилка збереження налаштувань оновлення
 # Variables:
 #   $path (String) - Path to the configuration file
