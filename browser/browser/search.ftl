@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Haku
 searchbar-icon =
     .tooltiptext = Haku
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Oletushakukoneesi on muutettu.</strong> { -brand-short-name } ei enää tue hakukonetta { $oldEngine }. { $newEngine } on nyt uusi oletushakukoneesi. Voit vaihtaa toiseen oletushakukoneeseen siirtymällä asetuksiin. <label data-l10n-name="remove-search-engine-article">Lue lisää</label>
+remove-search-engine-button = OK
