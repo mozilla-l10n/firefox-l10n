@@ -9,6 +9,7 @@ profiles-restart-title = Аз нав оғоз кардан
 profiles-restart-in-safe-mode = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…
 profiles-restart-normal = Аз нав оғоз кардани барнома дар реҷаи муқаррар…
 profiles-flush-fail-title = Тағйирот нигоҳ дошта нашуд
+profiles-flush-conflict = { profiles-conflict }
 profiles-flush-restart-button = Аз нав оғоз кардани { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
@@ -31,10 +32,15 @@ profiles-launch-profile = Оғоз кардани профил дар брауз
 profiles-cannot-set-as-default-title = Ҳамчун пешфарз таъин карда намешавад
 profiles-cannot-set-as-default-message = Профили пешфарз ба { -brand-short-name } иваз карда намешавад.
 profiles-yes = ҳа
+profiles-no = не
 profiles-rename-profile-title = Иваз кардани номи профил
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Иваз кардани номи профили { $name }
+profiles-invalid-profile-name-title = Номи профил нодуруст аст
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = Номи профили «{ $name }» иҷозат дода намешавад.
 profiles-delete-profile-title = Нест кардани профил
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -45,6 +51,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Нест кардани файлҳо
 profiles-dont-delete-files = Файлҳо нест карда нашаванд
 profiles-delete-profile-failed-title = Хато
+profiles-delete-profile-failed-message = Ҳангоми кӯшиши несткунии ин профил хато ба миён омад.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Кушодан дар ҷӯянда
