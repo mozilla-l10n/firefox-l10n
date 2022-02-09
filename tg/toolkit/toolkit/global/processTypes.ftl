@@ -12,6 +12,9 @@ process-type-file = Файли маҳаллӣ
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Тақсимоти ҳаҷми калон
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Коркуни хизматрасонии ҷудокардашуда
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h

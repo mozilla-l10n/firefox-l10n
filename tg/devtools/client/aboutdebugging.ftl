@@ -139,7 +139,7 @@ about-debugging-runtime-tabs =
     .name = Варақаҳо
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Коркунони хизматрасонй
+    .name = Коркунони хизматрасонӣ
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Равандҳо

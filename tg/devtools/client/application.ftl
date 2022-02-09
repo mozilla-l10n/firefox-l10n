@@ -12,11 +12,16 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = Коркунони хизматрасонӣ
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Ислоҳ кардани хатоҳо
-    .title = Танҳо хизматрасонҳои кории ҷорӣ ислоҳ карда мешаванд
+    .title = Танҳо коркунони хизматрасонии ҷорӣ ислоҳ карда мешаванд
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Оғоз кардан
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -69,6 +74,10 @@ manifest-icon-img-title-no-sizes = Андозаи номуайян барои н
 sidebar-item-manifest = Манифест
     .alt = Нишонаи манифест
     .title = Манифест
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Коркунони хизматрасонӣ
+    .alt = Нишони «Коркунони хизматрасонӣ»
+    .title = Коркунони хизматрасонӣ
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Нишони огоҳкунанда
