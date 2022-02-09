@@ -67,3 +67,8 @@ resent = [saadeti uuesti]
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 tlv-disconnected = { $name } lõpetas oma krüptitud vestluse sinuga; sa peaksid tegema sama.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } taotles salvestusvälist (OTR) krüptitud vestust. Kuid sul puudub selle toetamiseks plugin. Lisateabe saamiseks vaata https://en.wikipedia.org/wiki/Off-the-Record_Messaging
