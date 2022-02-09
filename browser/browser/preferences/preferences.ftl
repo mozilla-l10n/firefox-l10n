@@ -355,6 +355,9 @@ update-application-warning-cross-user-setting = 此设置将影响使用这份 {
 update-application-use-service =
     .label = 使用后台服务静默安装更新
     .accesskey = b
+update-application-suppress-prompts =
+    .label = 减少更新通知提示
+    .accesskey = n
 update-setting-write-failure-title2 = 保存“更新”设置时出错
 # Variables:
 #   $path (String) - Path to the configuration file
