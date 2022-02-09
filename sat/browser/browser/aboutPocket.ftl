@@ -62,3 +62,5 @@ pocket-panel-header-sign-in = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+pocket-panel-button-add-tags = ᱴᱮᱜᱽ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+pocket-panel-button-activate = { -pocket-brand-name } ᱫᱚ{ -brand-product-name } ᱨᱮ ᱮᱛᱦᱚᱵᱽ ᱢᱮ
