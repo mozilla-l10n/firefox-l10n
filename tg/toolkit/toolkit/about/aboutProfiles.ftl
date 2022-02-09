@@ -36,6 +36,12 @@ profiles-rename-profile-title = Иваз кардани номи профил
 #   $name (String) - Name of the profile
 profiles-rename-profile = Иваз кардани номи профили { $name }
 profiles-delete-profile-title = Нест кардани профил
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Агар шумо профилро нест кунед, профил аз рӯйхати профилҳои дастрас тоза карда мешавад ва дигар барқарор карда намешавад.
+    Шумо инчунин метавонед амали несткунии файлҳои маълумотии профилро, бо дарназардошти несткунии танзимот, гувоҳиномаҳо ва дигар маълумоти марбут ба корбари шумо интихоб кунед. Ин амал ҷузвдони «{ $dir }»-ро нест мекунад, ки дигар барқарор карда намешавад.
+    Шумо мехоҳед, ки файлҳои маълумотии профилро нест кунед?
 profiles-delete-files = Нест кардани файлҳо
 profiles-dont-delete-files = Файлҳо нест карда нашаванд
 profiles-delete-profile-failed-title = Хато
