@@ -22,3 +22,20 @@ buddycontextmenu-label = Lisa OTRi sõrmejälg
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-start = Üritatakse alustada krüptitud vestlust kontaktiga { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Üritatakse värskendada krüptitud vestlust kontaktiga { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone-insecure = Krüptitud vestlus kontaktiga { $name } lõppes.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Kontakti { $name } identiteet pole veel verifitseeritud. Juhuslik pealtkuulamine pole võimalik, aga mõningase pingutusega võib keegi pealt kuulata. Jälgimise vältimiseks verifitseeri selle kontakti identiteet.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } võtab sinuga ühendust tundmatust arvutist. Juhuslik pealtkuulamine pole võimalik, aga mõningase pingutusega võib keegi pealt kuulata. Jälgimise vältimiseks verifitseeri selle kontakti identiteet.
+state-not-private = Praegune vestlus pole privaatne.
+state-generic-not-private = Praegune vestlus pole privaatne.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Praegune vestlus on krüptitud, aga pole privaatne, sest kontakti { $name } identiteet pole verifitseeritud.
