@@ -70,7 +70,7 @@ about-logins-login-intro-heading-logged-in = Engar samstilltar innskráningar fu
 login-intro-description = Ef þú vistaðir innskráningar þínar á { -brand-product-name } á öðru tæki, muntu geta náð í þær svona:
 login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name } á tækinu þar sem innskráningar þínar eru vistaðar.
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
-login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Aðstoð</a> til að fá frekari hjálp.
+login-intro-instructions-fxa-help = Farðu á <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-aðstoð</a> til að fá frekari hjálp.
 about-logins-intro-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa-passwords-help = Farðu í <a data-l10n-name="passwords-help-link">aðstoð fyrir lykilorð</a> til að fá frekari hjálp.
 about-logins-intro-browser-only-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -brand-product-name }</a>

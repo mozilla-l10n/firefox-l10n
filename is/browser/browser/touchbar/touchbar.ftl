@@ -7,7 +7,7 @@
 back = Til baka
 forward = Áfram
 reload = Endurhlaða
-home = Heim
+home = Upphafssíða
 fullscreen = Allur skjárinn
 touchbar-fullscreen-exit = Hætta í fullum skjá
 find = Leita
