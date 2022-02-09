@@ -38,4 +38,29 @@ state-not-private = Praegune vestlus pole privaatne.
 state-generic-not-private = Praegune vestlus pole privaatne.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-state-unverified = Praegune vestlus on krüptitud, aga pole privaatne, sest kontakti { $name } identiteet pole verifitseeritud.
+state-unverified = Praegune vestlus on krüptitud, aga pole privaatne, sest kontakti { $name } identiteet pole veel verifitseeritud.
+state-generic-unverified = Praegune vestlus on krüptitud, aga pole privaatne, sest mõned identiteedid pole veel verifitseeritud.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Kontakti { $name } identiteet on verifitseeritud. Praegune vestlus on krüptitud ja privaatne.
+state-generic-private = Praegune vestlus on krüptitud ja privaatne.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } lõpetas oma krüptitud vestluse sinuga; sa peaksid tegema sama.
+state-not-private-label = Ebaturvaline
+state-unverified-label = Verifitseerimata
+state-private-label = Privaatne
+state-finished-label = Lõpetatud
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } taotles sinu identiteedi verifitseerimist.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Kontakti { $name } identiteet on verifitseeritud.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Kontakti { $name } identiteet pole verifitseeritud.
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = OTRi salajase võtme genereerimine ebaõnnestus: { $error }
