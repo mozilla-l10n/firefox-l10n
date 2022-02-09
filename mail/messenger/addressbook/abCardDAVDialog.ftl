@@ -4,25 +4,21 @@
 
 carddav-window =
     .title = Νέο ευρετήριο διευθύνσεων CardDAV
-
+carddav-window-title = Νέο ευρετήριο διευθύνσεων CardDAV
 carddav-dialog =
     .buttonlabelaccept = Συνέχεια
     .buttonaccesskeyaccept = Σ
-
 carddav-username-label =
     .value = Όνομα χρήστη:
     .accesskey = Ό
-
 carddav-location-label =
     .value = Διεύθυνση:
     .accesskey = Δ
 carddav-location =
     .default-placeholder = URL ή όνομα υπολογιστή του διακομιστή ευρετηρίου
-
 carddav-loading = Αναζήτηση ρυθμίσεων…
 carddav-known-incompatible = Το { $url } είναι γνωστό ότι δεν είναι συμβατό με το { -brand-short-name }.
 carddav-connection-error = Αποτυχία σύνδεσης.
 carddav-none-found = Δεν βρέθηκαν ευρετήρια διευθύνσεων για προσθήκη για το συγκεκριμένο λογαριασμό.
 carddav-already-added = Όλα τα ευρετήρια διευθύνσεων για το συγκεκριμένο λογαριασμό έχουν ήδη προστεθεί.
-
 carddav-available-books = Διαθέσιμα ευρετήρια:
