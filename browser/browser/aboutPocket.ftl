@@ -52,3 +52,9 @@ pocket-panel-home-explore-more = Verkennen
 
 pocket-panel-header-my-list = Mijn lijst bekijken
 pocket-panel-header-sign-in = Aanmelden
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Alles tonen
+pocket-panel-button-add-tags = Labels toevoegen
+pocket-panel-button-activate = { -pocket-brand-name } in { -brand-product-name } activeren
