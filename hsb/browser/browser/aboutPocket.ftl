@@ -62,4 +62,4 @@ pocket-panel-header-sign-in = Přizjewić
 
 pocket-panel-button-show-all = Wšě pokazać
 pocket-panel-button-add-tags = Znački přidać
-pocket-panel-button-activate = { -pocket-brand-name } w { -brand-product-name } atiwizować
+pocket-panel-button-activate = { -pocket-brand-name } w { -brand-product-name } aktiwizować
