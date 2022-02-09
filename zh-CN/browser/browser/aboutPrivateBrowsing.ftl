@@ -42,3 +42,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = 关闭
+about-private-browsing-dismiss-button =
+    .title = 知道了
