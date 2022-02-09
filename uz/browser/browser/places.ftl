@@ -44,6 +44,19 @@ managed-bookmarks =
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Quyi jild
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Boshqa xatchoʻplar
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Xatchoʻpni olib tashlash
+            [one] Xatchoʻplarni olib tashlash
+           *[other] Xatchoʻpni olib tashlash
+        }
+    .accesskey = o
 places-manage-bookmarks =
     .label = Xatchoʻplarni boshqarish
     .accesskey = b

@@ -84,6 +84,18 @@ imported-edge-reading-list = O‘qish ro‘yxati (Edge brauzeridan)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Brauzer tarixi va xatchoʻplar
+           *[other] Brauzer tarixi
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Brauzer tarixi va xatchoʻplar
+           *[other] Brauzer tarixi
+        }
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -92,6 +104,20 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Saqlangan login va parollar
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Saralanganlar
+            [edge] Saralanganlar
+           *[other] Xatchoʻplar
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Saralanganlar
+            [edge] Saralanganlar
+           *[other] Xatchoʻplar
+        }
 browser-data-session-checkbox =
     .label = Oynalar va varaqlar
 browser-data-session-label =
