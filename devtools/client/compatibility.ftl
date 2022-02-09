@@ -53,5 +53,5 @@ compatibility-close-settings-button =
 #   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
 compatibility-issue-browsers-list =
     .title =
-        Probleme kompatibelnosće w:
+        Problemy kompatibelnosće w:
         { $browsers }
