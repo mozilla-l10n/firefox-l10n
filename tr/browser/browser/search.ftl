@@ -24,3 +24,10 @@ searchbar-input =
     .placeholder = Arama
 searchbar-icon =
     .tooltiptext = Ara
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-button = Tamam
