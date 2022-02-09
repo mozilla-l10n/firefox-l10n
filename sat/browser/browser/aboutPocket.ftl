@@ -38,6 +38,8 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ᱥᱟᱞᱟᱜ ᱥ
 pocket-panel-signup-tagline = ᱡᱟᱦᱟᱸ ᱛᱤᱥ ᱨᱮᱜᱮ,  { -brand-product-name } ᱠᱷᱚᱱ ᱰᱟᱩᱱᱞᱚᱰ ᱠᱟᱱ ᱚᱱᱚᱞ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱠᱚ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮᱜᱮ { -pocket-brand-name } ᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 pocket-panel-signup-tagline-story-one = { -brand-product-name } ᱠᱷᱚᱱ ᱡᱟᱦᱟᱸ ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
 pocket-panel-signup-tagline-story-two = ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱝ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ, ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱜᱮ { -pocket-brand-name } ᱧᱮᱞ ᱢᱮ ᱾
+pocket-panel-signup-cta-a = ᱟᱢᱟᱜ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱺᱪᱟᱣ ᱵᱩᱛᱟᱹᱢ ᱾
+pocket-panel-signup-cta-b = ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱠᱚ, ᱟᱨ ᱞᱤᱝᱠ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾ ᱡᱟᱦᱟᱸ ᱛᱤᱱ ᱨᱮᱜᱮ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱞᱤᱥᱴᱭ ᱧᱮᱞ ᱢᱮ ᱾
 
 ## about:pocket-home panel
 
@@ -52,3 +54,6 @@ pocket-panel-home-explore-more = ᱥᱮᱸᱫᱽᱨᱟ
 
 pocket-panel-header-my-list = ᱤᱧᱟᱜ ᱞᱤᱥᱴ ᱧᱮᱞ ᱢᱮ
 pocket-panel-header-sign-in = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+
+## Pocket panel buttons
+
