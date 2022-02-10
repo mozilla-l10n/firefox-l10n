@@ -365,6 +365,9 @@ update-application-warning-cross-user-setting = Tute nastajenje so na wšě kont
 update-application-use-service =
     .label = Pozadkowu słužbu za instalowanje aktualizacijow wužiwać
     .accesskey = P
+update-application-suppress-prompts =
+    .label = Mjenje aktualizaciskich zdźělenkow pokazać
+    .accesskey = M
 update-setting-write-failure-title2 = Zmylk při składowanju aktualizowanskich nastajenjow
 # Variables:
 #   $path (String) - Path to the configuration file
