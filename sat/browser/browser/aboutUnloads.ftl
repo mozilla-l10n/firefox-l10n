@@ -7,6 +7,13 @@
 ### feature.
 
 about-unloads-page-title = ᱴᱮᱵᱽ ᱟᱹᱱᱞᱚᱰᱤᱝ
+about-unloads-intro =
+    { -brand-short-name } ᱴᱷᱮᱱ ᱯᱷᱤᱪᱚᱨ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱛᱮ ᱫᱚ ᱠᱚᱢ ᱥᱭᱥᱴᱚᱢ
+    ᱨᱮ ᱢᱚᱱᱮ ᱫᱚᱦᱚ ᱠᱷᱭᱚᱢᱛᱟ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱪᱟᱞᱟᱣ ᱞᱮᱠᱷᱟᱱ ᱟᱡ ᱛᱮ ᱴᱮᱵᱽ ᱠᱚ ᱚᱱᱞᱚᱰ ᱟᱭ ᱾ ᱞᱟᱦᱟ
+     ᱴᱮᱵᱽ ᱫᱚ ᱟᱭᱢᱟ ᱮᱴᱨᱭᱵᱭᱩᱴ ᱠᱚ ᱤᱫᱤᱭᱟᱛᱮ ᱞᱟᱫᱮ ᱨᱩᱟᱹᱲᱚᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱫᱮᱠᱷᱟᱣᱟᱭ
+     ᱪᱮᱞᱠᱟ ᱛᱮ { -brand-short-name } ᱴᱮᱵᱽ ᱢᱚᱦᱚᱛ ᱮᱢᱚᱜᱼᱟᱭ ᱟᱨ ᱚᱠᱟ ᱴᱚᱵᱽ ᱠᱚ ᱚᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ
+     ᱮᱛᱦᱚᱵᱚᱜᱼᱟ ᱾ ᱟᱢ ᱫᱚ ᱵᱟᱝᱞᱟᱫᱮ ᱱᱤᱡᱮᱛᱮ ᱴᱮᱵᱽ ᱵᱟᱝ ᱞᱟᱫᱮ <em>ᱵᱟᱝᱞᱟᱫᱮ</em> ᱵᱩᱛᱟᱹᱢ
+     ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱛᱟ ᱠᱟᱛᱮ ᱮᱢ ᱪᱷᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 about-unloads-last-updated = ᱢᱟᱲᱟᱝ ᱦᱟᱹᱞᱤᱭᱟᱠ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = ᱞᱟᱫᱮ
     .title = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱢᱚᱦᱚᱛᱼᱟᱜ ᱛᱮ ᱴᱮᱵᱽ ᱟᱹᱱᱞᱚᱰ ᱢᱮ
