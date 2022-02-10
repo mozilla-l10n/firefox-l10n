@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard =
-    .title = Innflutningshjálp
+    .title = Innflutningsleiðarvísir
 import-from =
     { PLATFORM() ->
         [windows] Flytja inn stillingar, bókamerki, ferla, lykilorð og önnur gögn frá:
