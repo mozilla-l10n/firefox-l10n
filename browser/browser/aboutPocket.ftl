@@ -52,3 +52,9 @@ pocket-panel-home-explore-more = Utforsk
 
 pocket-panel-header-my-list = Vis lista mi
 pocket-panel-header-sign-in = Logg inn
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Vis alle
+pocket-panel-button-add-tags = Legg til etikettar
+pocket-panel-button-activate = Aktiver { -pocket-brand-name } i { -brand-product-name }
