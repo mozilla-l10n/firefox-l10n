@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "Um &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY productHelp.label "&brandShortName; Hjálp">
+<!ENTITY productHelp.label "&brandShortName; hjálp">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
@@ -23,7 +23,7 @@
 <!ENTITY helpFeedbackPage.label "Senda umsögn…">
 <!ENTITY helpFeedbackPage.accesskey "S">
 
-<!ENTITY helpShowTour2.label "&brandShorterName; Kynning">
+<!ENTITY helpShowTour2.label "&brandShorterName; kynning">
 <!ENTITY helpShowTour2.accesskey "k">
 
 <!ENTITY helpGetInvolvedPage.label "Taktu þátt">

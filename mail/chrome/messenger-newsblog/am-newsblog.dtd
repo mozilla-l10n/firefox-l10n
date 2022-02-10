@@ -10,5 +10,5 @@
 <!ENTITY manageSubscriptions.label     "Sýsla með áskriftir…">
 <!ENTITY manageSubscriptions.accesskey "S">
 
-<!ENTITY feedWindowTitle.label         "Leiðarvísir fyrir reikning straums">
+<!ENTITY feedWindowTitle.label         "Leiðarvísir fyrir streymisreikning">
 <!ENTITY feeds.accountName             "Blogg og fréttastraumar">

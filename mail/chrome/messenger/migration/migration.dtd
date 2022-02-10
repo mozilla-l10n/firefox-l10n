@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Innflutningshjálp">
+<!ENTITY migrationWizard.title          "Innflutningsleiðarvísir">
 
 <!ENTITY importFromWin.label            "Flytja inn stillingar, reikninga, nafnaskrá, síur og önnur gögn frá:">
 <!ENTITY importFromNonWin.label         "Flytja inn stillingar, reikninga, nafnaskrá, síur og önnur gögn frá:">
