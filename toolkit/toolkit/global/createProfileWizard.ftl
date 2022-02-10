@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window =
-    .title = Hjálp við að búa til notanda
+    .title = Leiðarvísir við að búa til notanda
     .style = width: 45em; height: 32em;
 
 ## First wizard page
