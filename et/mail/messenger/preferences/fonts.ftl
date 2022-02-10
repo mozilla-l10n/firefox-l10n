@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = vaikimisi ({ $name })
 fonts-label-default-unnamed =
     .label = vaikimisi
-
 fonts-encoding-dialog-title =
     .title = Fondid ja kodeeringud
-
 fonts-language-legend =
     .value = Fondid keelele:
     .accesskey = F
-
 fonts-proportional-label =
     .value = Standardne:
     .accesskey = S
@@ -89,41 +85,35 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Seriifidega
-
 default-font-sans-serif =
     .label = Seriifideta
-
+font-size-proportional-label =
+    .value = Suurus:
+    .accesskey = u
 font-size-monospace-label =
     .value = Suurus:
     .accesskey = r
-
 font-serif-label =
     .value = Seriifidega:
     .accesskey = f
-
 font-sans-serif-label =
     .value = Seriifideta:
     .accesskey = e
-
 font-monospace-label =
     .value = Fikseeritud laiusega:
     .accesskey = k
-
 font-min-size-label =
     .value = Vähim kirja suurus:
     .accesskey = V
-
 min-size-none =
     .label = Puudub
 
 ## Fonts in message
 
 font-control-legend = Fontide haldus
-
 use-document-fonts-checkbox =
     .label = Kirjades lubatakse kasutada muid fonte
     .accesskey = l
-
 use-fixed-width-plain-checkbox =
     .label = Lihttekstiga kirjade puhul kasutatakse kindla laiusega fonti
     .accesskey = h
@@ -131,17 +121,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Teksti kodeering
-
 text-encoding-description = Määra vaikimisi kodeering kirjade saamiseks ja saatmiseks
-
 font-outgoing-email-label =
     .value = Väljuvad kirjad:
     .accesskey = j
-
 font-incoming-email-label =
     .value = Saabuvad kirjad:
     .accesskey = k
-
 default-font-reply-checkbox =
     .label = Võimalusel kasutatakse vastustes vaikimisi teksti kodeeringut
     .accesskey = d
