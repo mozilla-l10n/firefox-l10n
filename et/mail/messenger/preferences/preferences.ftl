@@ -161,6 +161,10 @@ biff-use-system-alert =
 tray-icon-unread-label =
     .label = Salves kuvatakse lugemata kirjade ikooni
     .accesskey = v
+tray-icon-unread-description = Soovitatav tegumiriba väikeste nuppude kasutamisel
+mail-system-sound-label =
+    .label = süsteemi vaikimisi uue kirja heli
+    .accesskey = t
 mail-custom-sound-label =
     .label = kasutatakse järgnevat helifaili
     .accesskey = e
@@ -246,6 +250,9 @@ diskspace-legend = Kettaruum
 offline-compact-folder =
     .label = Kõik kaustad surutakse kokku, kui see säästab kokku rohkem kui
     .accesskey = b
+offline-compact-folder-automatically =
+    .label = Küsitakse iga kord enne tihendamist
+    .accesskey = g
 compact-folder-size =
     .value = MiB
 
@@ -308,6 +315,10 @@ smaller-size-item =
 quoted-text-color =
     .label = Värv:
     .accesskey = V
+search-handler-table =
+    .placeholder = Filtreeri sisu tüüpe ja tegevusi
+type-column-header = Sisu tüüp
+action-column-header = Tegevus
 save-to-label =
     .label = Failid salvestatakse asukohta
     .accesskey = F
@@ -522,6 +533,15 @@ passwords-description = { -brand-short-name } võib paroolide infot meeles pidad
 passwords-button =
     .label = Salvestatud paroolid…
     .accesskey = S
+primary-password-description = Kui ülemparool on määratud, kaitseb see sinu paroole, kuid sa pead sisestama selle seansi alguses.
+primary-password-label =
+    .label = Kasutatakse ülemparooli
+    .accesskey = s
+primary-password-button =
+    .label = Muuda ülemparooli…
+    .accesskey = M
+forms-primary-pw-fips-title = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
+forms-master-pw-fips-desc = Parooli muutmine ebaõnnestus
 junk-description = Määra oma vaikimisi rämpsposti sätted. Kontopõhiseid rämpsposti sätteid saab häälestada konto sätetes.
 junk-label =
     .label = Kui kirjad märgitakse rämpspostiks:
@@ -653,9 +673,45 @@ no-preview-description = See teema pole korrektne või pole praegu saadaval (kee
 chat-variant-label =
     .value = Variant:
     .accesskey = V
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Otsi sätetest
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Otsi sätetest
 
 ## Settings UI Search Results
 
+search-results-header = Otsingutulemused
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
+       *[other] Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
+       *[other] Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = Vajad abi? Külasta lehte <a data-l10n-name="url">{ -brand-short-name }i abi</a>
