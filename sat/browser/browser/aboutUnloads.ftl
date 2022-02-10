@@ -14,6 +14,11 @@ about-unloads-intro =
      ᱪᱮᱞᱠᱟ ᱛᱮ { -brand-short-name } ᱴᱮᱵᱽ ᱢᱚᱦᱚᱛ ᱮᱢᱚᱜᱼᱟᱭ ᱟᱨ ᱚᱠᱟ ᱴᱚᱵᱽ ᱠᱚ ᱚᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ
      ᱮᱛᱦᱚᱵᱚᱜᱼᱟ ᱾ ᱟᱢ ᱫᱚ ᱵᱟᱝᱞᱟᱫᱮ ᱱᱤᱡᱮᱛᱮ ᱴᱮᱵᱽ ᱵᱟᱝ ᱞᱟᱫᱮ <em>ᱵᱟᱝᱞᱟᱫᱮ</em> ᱵᱩᱛᱟᱹᱢ
      ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱛᱟ ᱠᱟᱛᱮ ᱮᱢ ᱪᱷᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more =
+    ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ <a data-l10n-name="doc-link">ᱴᱮᱵᱽ ᱵᱟᱝᱞᱟᱫᱮ</a>
+     ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞ ᱢᱮ ᱾
 about-unloads-last-updated = ᱢᱟᱲᱟᱝ ᱦᱟᱹᱞᱤᱭᱟᱠ: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = ᱞᱟᱫᱮ
     .title = ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱢᱚᱦᱚᱛᱼᱟᱜ ᱛᱮ ᱴᱮᱵᱽ ᱟᱹᱱᱞᱚᱰ ᱢᱮ
