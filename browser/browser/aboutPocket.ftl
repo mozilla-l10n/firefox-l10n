@@ -52,6 +52,7 @@ pocket-panel-home-discover-more = Wuslěźćo wěcej
 pocket-panel-home-explore-more = Wuslěźiś
 pocket-panel-home-most-recent-saves = How su waše nejnowše składowanja:
 pocket-panel-home-new-user-cta = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował.
+pocket-panel-home-new-user-message = Woglědajśo se how nejnowše składowanja.
 
 ## Pocket panel header component
 
