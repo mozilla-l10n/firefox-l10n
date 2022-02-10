@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Cadastre-se pelo { -brand-product-name }
 pocket-panel-signup-tagline = Salve artigos e vídeos do { -brand-product-name } para ver no { -pocket-brand-name } em qualquer dispositivo, quando quiser.
 pocket-panel-signup-tagline-story-one = Clique no botão { -pocket-brand-name } para salvar um artigo, vídeo ou página do { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Veja no { -pocket-brand-name } em qualquer dispositivo, quando quiser.
+pocket-panel-signup-cta-a = Seu botão de salvar na internet.
+pocket-panel-signup-cta-b = Clique no botão { -pocket-brand-name } para salvar artigos, vídeos e links. Veja sua lista em qualquer dispositivo, quando quiser.
+pocket-panel-signup-cta-c = Veja sua lista em qualquer dispositivo, quando quiser.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,12 @@ pocket-panel-home-paragraph = Você pode usar o { -pocket-brand-name } para expl
 pocket-panel-home-explore-popular-topics = Explorar tópicos populares
 pocket-panel-home-discover-more = Descubra mais
 pocket-panel-home-explore-more = Explorar
+pocket-panel-home-most-recent-saves = Aqui está o que você salvou mais recentemente:
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Ver minha lista
 pocket-panel-header-sign-in = Entrar
+
+## Pocket panel buttons
+
