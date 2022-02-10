@@ -51,6 +51,8 @@ pocket-panel-home-explore-popular-topics = Explorar tópicos populares
 pocket-panel-home-discover-more = Descubra mais
 pocket-panel-home-explore-more = Explorar
 pocket-panel-home-most-recent-saves = Aqui está o que você salvou mais recentemente:
+pocket-panel-home-new-user-cta = Clique no botão { -pocket-brand-name } para salvar artigos, vídeos e links.
+pocket-panel-home-new-user-message = Veja aqui o que você salvou mais recentemente.
 
 ## Pocket panel header component
 
@@ -59,3 +61,6 @@ pocket-panel-header-sign-in = Entrar
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Mostrar tudo
+pocket-panel-button-add-tags = Adicionar etiquetas
+pocket-panel-button-activate = Ativar o { -pocket-brand-name } no { -brand-product-name }
