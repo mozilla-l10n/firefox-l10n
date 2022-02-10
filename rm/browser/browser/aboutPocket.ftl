@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Sa registrar cun { -brand-product-name }
 pocket-panel-signup-tagline = Memorisescha artitgels e videos ord { -brand-product-name } per als vesair en { -pocket-brand-name }, sin mintga apparat, da tut temp.
 pocket-panel-signup-tagline-story-one = Clicca sin il buttun da { -pocket-brand-name } per memorisar directamain ord { -brand-product-name } tge artitgel, video u pagina ch'i saja.
 pocket-panel-signup-tagline-story-two = Vesair en { -pocket-brand-name } sin mintga apparat, da tut temp.
+pocket-panel-signup-cta-a = Tes buttun «memorisar» per l'internet.
 
 ## about:pocket-home panel
 
@@ -52,3 +53,6 @@ pocket-panel-home-explore-more = Explorar
 
 pocket-panel-header-my-list = Mussar mia glista
 pocket-panel-header-sign-in = S'annunziar
+
+## Pocket panel buttons
+
