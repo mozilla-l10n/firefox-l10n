@@ -19,3 +19,14 @@ troubleshoot-mode-change-and-restart =
 troubleshoot-mode-continue =
     .label = Jätka ohutus režiimis
     .accesskey = J
+troubleshoot-mode-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Välju
+           *[other] Välju
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] V
+           *[other] V
+        }
