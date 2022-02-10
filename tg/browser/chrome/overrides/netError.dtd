@@ -54,6 +54,12 @@
 
 
 
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Саҳифае, ки шумо дидан мехоҳед, нишон дода намешавад, зеро ки эътиборнокии маълумоти гирифташуда тасдиқ карда нашуд.</li>
+  <li>Лутфан, бо соҳибони сомона дар тамос шавед ва ба онҳо дар бораи ин мушкилӣ хабар диҳед.</li>
+</ul>
+">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
