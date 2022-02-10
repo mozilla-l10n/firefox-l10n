@@ -30,4 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-message = <strong>您的默认搜索引擎有变动。</strong>因 { -brand-short-name } 不再支持 { $oldEngine }，默认搜索引擎现已更改为 { $newEngine }。若要使用其他搜索引擎，请前往“设置”页面。<label data-l10n-name="remove-search-engine-article">详细了解</label>
 remove-search-engine-button = 确定
