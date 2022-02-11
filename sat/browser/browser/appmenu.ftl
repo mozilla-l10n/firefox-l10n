@@ -11,10 +11,15 @@ appmenuitem-update-banner3 =
     .label-update-manual = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱟᱢᱮᱱᱟ — ᱱᱤᱛᱚᱜ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ
     .label-update-unsupported = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱟᱝ ᱜᱟᱱ ᱞᱮᱱᱟ — ᱥᱭᱥᱴᱚᱢ ᱨᱮ ᱵᱟᱝ ᱥᱮᱴᱚᱜ ᱠᱟᱱᱟ
     .label-update-restart = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱟᱢᱮᱱᱟ — ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱢᱮ ᱱᱤᱛᱚᱜ
+appmenuitem-protection-dashboard-title = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱮᱥᱵᱚᱰ
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱜ ᱠᱟᱱᱟ
 appmenuitem-banner-update-available =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 appmenuitem-banner-update-manual =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱱᱤᱛᱚᱜ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+appmenuitem-banner-update-unsupported =
+    .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱟᱭ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ — ᱥᱭᱥᱴᱚᱢ ᱨᱮ ᱵᱟᱭ ᱪᱟᱹᱞᱩᱜᱼᱟ
 appmenuitem-banner-update-restart =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ —  ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵᱽ ᱢᱮ
 appmenuitem-new-tab =
@@ -99,6 +104,7 @@ appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = ᱢᱟᱲᱟᱝ ᱥᱭᱝᱠ ᱠᱟᱱ { $time }
     .label = ᱢᱟᱲᱟᱝ ᱥᱭᱝᱠ ᱠᱟᱱ { $time }
+appmenu-fxa-sync-and-save-data2 = ᱥᱭᱝᱠ ᱟᱴ ᱰᱟᱴᱟ ᱥᱟᱺᱪᱟᱣ
 appmenu-fxa-signed-in-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 appmenu-fxa-setup-sync =
     .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
@@ -109,11 +115,25 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = ᱱᱟᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱪᱷᱚᱭᱟᱹᱧ ᱢᱮ
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = ᱢᱚᱦᱲᱟ
+    .tooltiptext = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱜ ᱦᱚᱦᱲᱟ ᱨᱮᱠᱚᱰ ᱢᱮ
+profiler-popup-button-recording =
+    .label = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ
+    .tooltiptext = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱫᱚ ᱢᱚᱦᱲᱟ ᱨᱮᱠᱚᱰ ᱮᱫᱟᱭ
+profiler-popup-button-capturing =
+    .label = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ
+    .tooltiptext = ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱫᱚ ᱢᱚᱦᱲᱟ ᱤᱫᱤᱮᱫᱟᱭ
 profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
