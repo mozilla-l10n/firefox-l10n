@@ -14,7 +14,6 @@ compatibility-issue-deprecated = (anghymeradwy)
 compatibility-issue-experimental = (arbrofol)
 compatibility-issue-prefixneeded = (angen rhagddodiad)
 compatibility-issue-deprecated-experimental = (anghymeradwy, arbrofol)
-
 compatibility-issue-deprecated-prefixneeded = (anghymeradwy, angen rhagddodiad)
 compatibility-issue-experimental-prefixneeded = (arbrofol, angen rhagddodiad)
 compatibility-issue-deprecated-experimental-prefixneeded = anghymeradwy, arbrofol, angen rhagddodiad)
@@ -47,7 +46,14 @@ compatibility-issue-occurrences =
         [many] { $number } digwyddiad
        *[other] { $number } digwyddiad
     }
-
 compatibility-no-issues-found = Dim materion cydnawsedd. wedi'u canfod.
 compatibility-close-settings-button =
     .title = Cau'r gosodiadau
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Materion cydnawsedd yn:
+        { $porwyr }

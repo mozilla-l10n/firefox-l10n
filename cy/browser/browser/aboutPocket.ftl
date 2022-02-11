@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Ymuno drwy { -brand-product-name }
 pocket-panel-signup-tagline = Cadw erthyglau a fideos o { -brand-product-name } i'w gweld yn { -pocket-brand-name } ar unrhyw ddyfais, ar unrhyw adeg.
 pocket-panel-signup-tagline-story-one = Cliciwch Fotwm { -pocket-brand-name } i gadw unrhyw erthygl, fideo neu dudalen o { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Gweld yn { -pocket-brand-name } ar unrhyw ddyfais, ar unrhyw adeg.
+pocket-panel-signup-cta-a = Eich botwm cadw ar gyfer y rhyngrwyd.
+pocket-panel-signup-cta-b = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni. Edrychwch ar eich rhestr ar unrhyw ddyfais, unrhyw bryd.
+pocket-panel-signup-cta-c = Edrychwch ar eich rhestr ar unrhyw ddyfais, ar unrhyw bryd.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = Gallwch ddefnyddio { -pocket-brand-name } i archwi
 pocket-panel-home-explore-popular-topics = Archwilio Pynciau Poblogaidd
 pocket-panel-home-discover-more = Darganfod Rhagor
 pocket-panel-home-explore-more = Archwilio
+pocket-panel-home-most-recent-saves = Dyma beth rydych wedi eu cadw'n ddiweddar:
+pocket-panel-home-new-user-cta = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni.
+pocket-panel-home-new-user-message = Gweld beth rydych wedi eu cadw'n ddiweddar:
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Gweld Fy Rhestr
 pocket-panel-header-sign-in = Mewngofnodi
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Dangos y Cyfan
+pocket-panel-button-add-tags = Ychwanegu Tagiau
+pocket-panel-button-activate = Agor { -pocket-brand-name } yn { -brand-product-name }
