@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Esta definição irá ser aplica
 update-application-use-service =
     .label = Utilizar um serviço em segundo plano para instalar atualizações
     .accesskey = t
+update-application-suppress-prompts =
+    .label = Mostrar menos notificações de atualização
+    .accesskey = n
 update-setting-write-failure-title2 = Erro ao guardar as definições de atualização
 # Variables:
 #   $path (String) - Path to the configuration file
