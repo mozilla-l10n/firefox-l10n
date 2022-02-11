@@ -9,6 +9,7 @@
 
 default-bookmarks-title = Zaznamki
 default-bookmarks-heading = Zaznamki
+default-bookmarks-toolbarfolder = Mapa vrstice zaznamkov
 default-bookmarks-toolbarfolder-description = Dodajte zaznamke v to mapo, če jih želite imeti v orodni vrstici zaznamkov
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Prvi koraki
