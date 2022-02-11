@@ -42,7 +42,14 @@ compatibility-issue-occurrences =
         [one] { $number } εμφάνιση
        *[other] { $number } εμφανίσεις
     }
-
 compatibility-no-issues-found = Δεν βρέθηκαν ζητήματα συμβατότητας
 compatibility-close-settings-button =
     .title = Κλείσιμο ρυθμίσεων
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Ζητήματα συμβατότητας στα:
+        { $browsers }

@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Αυτή η ρύθμιση θα 
 update-application-use-service =
     .label = Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
     .accesskey = υ
+update-application-suppress-prompts =
+    .label = Εμφάνιση λιγότερων ειδοποιήσεων ενημέρωσης
+    .accesskey = λ
 update-setting-write-failure-title2 = Σφάλμα αποθήκευσης ρυθμίσεων ενημερώσεων
 # Variables:
 #   $path (String) - Path to the configuration file
