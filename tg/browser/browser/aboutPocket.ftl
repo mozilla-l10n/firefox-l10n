@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Ба воситаи «{ -brand-product-name
 pocket-panel-signup-tagline = Мақолаҳо ва видеоҳоро аз «{ -brand-product-name }» нигоҳ доред, то ки тавонед онҳоро дар «{ -pocket-brand-name }» аз дастгоҳи дилхоҳ, ҳар вақт ки бошад, тамошо кунед.
 pocket-panel-signup-tagline-story-one = Барои нигоҳ доштани ягон мақола, видео ё саҳифа аз браузери { -brand-product-name }, тугмаи «{ -pocket-brand-name }»-ро зер кунед.
 pocket-panel-signup-tagline-story-two = Дар «{ -pocket-brand-name }» аз дастгоҳи дилхоҳ, ҳар вақт ки бошад, тамошо кунед.
+pocket-panel-signup-cta-a = Тугмаи нигоҳдории маводи шумо дар Интернет
 
 ## about:pocket-home panel
 
