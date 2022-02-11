@@ -9,6 +9,7 @@
 <!ENTITY prefCheckDefaultClient.label     "Kontroller standardprogram-innstillinger ved oppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">
 
+<!ENTITY defaultClientFor.description     "Gjør &brandShortName; til standardprogram for:">
 <!ENTITY setDefaultBrowser.label          "Nettleser">
 <!ENTITY setDefaultBrowser.accesskey      "e">
 <!ENTITY setDefaultMail.label             "E-post">
@@ -17,6 +18,11 @@
 <!ENTITY setDefaultNews.accesskey         "m">
 <!ENTITY setDefaultFeed.label             "Informasjonskanaler">
 <!ENTITY setDefaultFeed.accesskey         "k">
+<!ENTITY useInternalSettings.description  "Bruk &brandShortName; E-post og temagrupper når nettleseren åpner lenker for:">
+<!ENTITY useInternalMail.label            "E-post (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Temagrupper (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "e">
 
 <!ENTITY printing.label                   "Skriver ut">
 <!ENTITY useNativePrintDialog.label       "Bruk systemets utskriftsdialogboks (hvis det støttes)">

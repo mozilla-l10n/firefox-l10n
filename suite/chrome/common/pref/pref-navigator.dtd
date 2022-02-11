@@ -31,6 +31,12 @@
 <!ENTITY restoreDeferred.label          "Bare gjenopprett faner når jeg trenger dem">
 <!ENTITY restoreDeferred.accesskey      "B">
 
+<!ENTITY siteIcons.label                "Nettstedsikoner">
+<!ENTITY useSiteIcons.label             "Vis nettstedsikoner">
+<!ENTITY useSiteIcons.accesskey         "s">
+<!ENTITY useFavIcons.label              "Prøv å bruk serverens nettstedsikon (favicon) når nettsiden ikke definerer et ikon">
+<!ENTITY useFavIcons.accesskey          "t">
+
 <!ENTITY homePageIntro.label            "Når du trykker på Hjem-knappen vil denne gruppen av sider bli vist.">
 <!ENTITY useCurrent.label               "Bruk aktiv side">
 <!ENTITY useCurrent.accesskey           "u">

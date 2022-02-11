@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "Dersom du tilbakestiller hovedpassordet vil alle lagrede nettside- og e-postpassord, skjemadata, personlige sertifikater og private nøkler gå tapt.">
 <!ENTITY  resetpassword.button                   "Tilbakestill passord">
 <!ENTITY  resetpassword.accesskey                "T">
+<!ENTITY  resetpassword2.button                  "Tilbakestill passord">
+<!ENTITY  resetpassword2.accesskey               "p">

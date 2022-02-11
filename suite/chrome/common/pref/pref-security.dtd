@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Blokker rapproterte nettsvindler (phishing)">
 <!ENTITY blockWebForgeries.accesskey      "P">
 
+<!ENTITY blockAutoRefresh.label           "Advar når nettsider forsøker å omdirigere eller laste siden på nytt">
+<!ENTITY blockAutoRefresh.accesskey       "a">

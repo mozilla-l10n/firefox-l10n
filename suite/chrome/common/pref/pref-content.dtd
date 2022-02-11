@@ -7,8 +7,8 @@
 <!ENTITY pref.content.title                     "Innhold">
 <!ENTITY pref.content.description               "Disse innstillingene bestemmer hvordan nettside- og meldingstekst presenteres i &brandShortName;.">
 
-<!ENTITY siteIcons.label                        "Nettsideikoner">
-<!ENTITY useSiteIcons.label                     "Vis nettsideikoner">
+<!ENTITY siteIcons.label                        "Nettstedsikoner">
+<!ENTITY useSiteIcons.label                     "Vis nettstedsikoner">
 <!ENTITY useSiteIcons.accesskey                 "V">
 <!ENTITY useFavIcons2.label                     "Prøv å bruk serverens ikon (favicon) når nettsiden ikke definerer et ikon">
 <!ENTITY useFavIcons2.accesskey                 "b">
@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "til">
 <!ENTITY maxZoom.accesskey                      "i">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Standardskalering">
 <!ENTITY defaultZoom.accesskey                  "S">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "Husk zoom-nivåer for hvert nettsted">
 <!ENTITY siteSpecific.accesskey                 "H">
 <!ENTITY showZoomStatusPanel.label              "Vis skaleringskontroller i statuslinjen">
+<!ENTITY showZoomStatusPanel.accesskey          "s">
 <!ENTITY enableAutomaticImageResizing.label     "Forandre størrelse på store bilder til å passe i nettleservinduet">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 

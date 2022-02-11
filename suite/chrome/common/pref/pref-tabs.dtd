@@ -9,13 +9,16 @@
 <!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Åpne lenker i bakgrunnen">
 <!ENTITY background.accesskey "Å">
+<!ENTITY diverted.label "Bytt til nye faner åpnet fra viderekoblede lenker">
+<!ENTITY diverted.accesskey "a">
+<!ENTITY browserFocus.label "Fokuser nettleservinduet for lenker som åpnes i faner fra andre applikasjoner">
+<!ENTITY browserFocus.accesskey "F">
 <!ENTITY warnOnClose.label "Advar meg ved lukking av et vindu med flere faner">
 <!ENTITY warnOnClose.accesskey "d">
 <!ENTITY relatedAfterCurrent.label "Åpne relaterte faner etter nåværende faner">
 <!ENTITY relatedAfterCurrent.accesskey "r">
 
 <!ENTITY openTabs.label "Åpne faner i stedet for vinduer for">
-
 <!ENTITY middleClick.label "Midt-trykk, Ctrl+trykk eller Ctrl+Enter på lenker i en nettside">
 <!ENTITY middleClick.accesskey "M">
 <!ENTITY middleClickMac.label "Midt-trykk, &#8984;+trykk eller &#8984;+Return på lenker i en nettside">
