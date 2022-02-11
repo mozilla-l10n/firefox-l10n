@@ -31,3 +31,8 @@ som støtter avansert søppelpostkontroll og andre nyttige funksjoner.">
 '<a href="http://www.mozilla.org/mailnews/">Vi</a> setter pris på feilrapporter og
 ønsker om nye funksjoner, men les <a id="releaseNotesURL" href="">versjonsnotatet</a> og søk i
 <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> først.'>
+<!--# LOCALIZATION NOTE (info_bugs.label2): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label2
+'<a href="https://www.seamonkey-project.org/dev/get-involved">Vi</a> setter pris på feilrapporter og
+ønsker om nye funksjoner, men les <a id="releaseNotesURL" href="">versjonsnotatet</a> og søk i
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> først.'>
