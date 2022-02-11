@@ -3,14 +3,41 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Used in networks-edit dialog -->
+<!ENTITY networksEditDialog.title     "Nettverksredigerer">
+<!-- LOCALIZATION NOTE
+     - width should be 62ch + length of longest serverList*.label -->
 <!ENTITY networksEditDialog.size      "width: 78ch; height: 28em;">
 
+<!ENTITY restoreButton.label          "Bruk standardinnstillinger">
+<!ENTITY restoreButton.accesskey      "B">
 
+<!ENTITY connectNetwork.label         "Koble til nettverk">
+<!ENTITY connectNetwork.accesskey     "n">
 
+<!ENTITY networkListAdd.label         "Legg til nettverk…">
+<!ENTITY networkListAdd.accesskey     "L">
+<!ENTITY networkListAdd.tooltip       "Legg til et nytt nettverk">
+<!ENTITY networkListEdit.label        "Rediger nettverk…">
+<!ENTITY networkListEdit.accesskey    "R">
+<!ENTITY networkListEdit.tooltip      "Rediger det valgte nettverket">
+<!ENTITY networkListRemove.label      "Fjern nettverk">
+<!ENTITY networkListRemove.accesskey  "F">
+<!ENTITY networkListRemove.tooltip    "Fjern det valgte nettverket">
+
+<!ENTITY serverListUp.label           "Flytt opp">
+<!ENTITY serverListUp.accesskey       "o">
+<!ENTITY serverListUp.tooltip         "Flytt den valgte serveren opp på listen">
+<!ENTITY serverListDown.label         "Flytt ned">
+<!ENTITY serverListDown.accesskey     "d">
+<!ENTITY serverListDown.tooltip       "Flytt den valgte serveren nedover listen">
+<!ENTITY serverListAdd.label          "Legg til server…">
+<!ENTITY serverListAdd.accesskey      "s">
+<!ENTITY serverListAdd.tooltip        "Legg til en ny server">
+<!ENTITY serverListEdit.label         "Rediger server…">
+<!ENTITY serverListEdit.accesskey     "i">
 
 <!-- LOCALIZATION NOTE:
    - *.label are shared between networks-edit and networks-server dialogs
    - *.accesskey are only used in network-servers dialog -->
 
 <!-- Used in networks-server dialog -->
-
