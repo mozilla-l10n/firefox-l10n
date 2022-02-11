@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Išči
 searchbar-icon =
     .tooltiptext = Išči
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Vaš privzeti iskalnik se je zamenjal.</strong> { -brand-short-name } ne podpira več iskalnika { $oldEngine }. Privzeti iskalnik je zdaj { $newEngine }. Drug privzeti iskalnik lahko izberete v nastavitvah. <label data-l10n-name="remove-search-engine-article">Več o tem</label>
+remove-search-engine-button = V redu

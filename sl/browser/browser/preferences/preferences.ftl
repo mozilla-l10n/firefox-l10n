@@ -365,6 +365,9 @@ update-application-warning-cross-user-setting = Ta nastavitev bo uveljavljena v 
 update-application-use-service =
     .label = Uporabi storitev za nameščanje posodobitev v ozadju
     .accesskey = s
+update-application-suppress-prompts =
+    .label = Prikazuj manj obvestil o posodobitvah
+    .accesskey = m
 update-setting-write-failure-title2 = Napaka pri shranjevanju nastavitev posodobitev
 # Variables:
 #   $path (String) - Path to the configuration file
