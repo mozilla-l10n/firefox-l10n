@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Εγγραφή με { -brand-product-name }
 pocket-panel-signup-tagline = Αποθηκεύστε άρθρα και βίντεο από το { -brand-product-name } για προβολή στο { -pocket-brand-name } από οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 pocket-panel-signup-tagline-story-one = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε οποιοδήποτε άρθρο, βίντεο ή σελίδα από το { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Προβολή στο { -pocket-brand-name } σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
+pocket-panel-signup-cta-a = Το κουμπί αποθήκευσής σας για το διαδίκτυο.
+pocket-panel-signup-cta-b = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους. Δείτε τη λίστα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
+pocket-panel-signup-cta-c = Δείτε τη λίστα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 
 ## about:pocket-home panel
 
@@ -47,6 +50,9 @@ pocket-panel-home-paragraph = Μπορείτε να χρησιμοποιήσετ
 pocket-panel-home-explore-popular-topics = Εξερεύνηση δημοφιλών θεμάτων
 pocket-panel-home-discover-more = Ανακάλυψη
 pocket-panel-home-explore-more = Εξερεύνηση
+pocket-panel-home-most-recent-saves = Ακολουθούν οι πιο πρόσφατες αποθηκεύσεις σας:
+pocket-panel-home-new-user-cta = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους.
+pocket-panel-home-new-user-message = Δείτε τις πρόσφατες αποθηκεύσεις σας εδώ.
 
 ## Pocket panel header component
 
@@ -57,3 +63,4 @@ pocket-panel-header-sign-in = Σύνδεση
 
 pocket-panel-button-show-all = Εμφάνιση όλων
 pocket-panel-button-add-tags = Προσθήκη ετικετών
+pocket-panel-button-activate = Ενεργοποίηση του { -pocket-brand-name } στο { -brand-product-name }
