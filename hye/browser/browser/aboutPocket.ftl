@@ -50,6 +50,8 @@ pocket-panel-home-paragraph = { -pocket-brand-name } -ն աւգտագործու�
 pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
 pocket-panel-home-discover-more = Բացայայտել աւելին
 pocket-panel-home-explore-more = Ուսումնասիրել․
+pocket-panel-home-most-recent-saves = Ահա ձեր ամենավերջին պահպանածները․
+pocket-panel-home-new-user-cta = Սեղմէք { -pocket-brand-name } կաւճակը յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
 pocket-panel-home-new-user-message = Տեսնել ձեր վերջին պահպանածներն այստէղ։
 
 ## Pocket panel header component
