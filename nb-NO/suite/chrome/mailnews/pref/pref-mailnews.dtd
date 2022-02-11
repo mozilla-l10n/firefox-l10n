@@ -8,8 +8,17 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Behold trådstruktur ved sortering av meldinger">
 <!ENTITY preserveThreading.accesskey      "B">
+<!ENTITY mailAutoHide.label               "Skjul e-postfanelinjen når bare én fane er åpen">
+<!ENTITY mailAutoHide.accesskey           "b">
 <!ENTITY loadInBackground.label           "Bytt til nye faner når du åpner den">
 <!ENTITY loadInBackground.accesskey       "t">
+<!ENTITY mailOpenTabsFor.label            "Åpne faner i stedet for vinduer for">
+<!ENTITY mailMiddleClick.label            "Midtklikk eller Ctrl+Enter på en melding eller mappe">
+<!ENTITY mailMiddleClick.accesskey        "M">
+<!ENTITY mailMiddleClickMac.label         "Midtklikk eller &#8984;+Enter på en melding eller mappe">
+<!ENTITY mailMiddleClickMac.accesskey     "M">
+<!ENTITY mailDoubleClick.label            "Dobbeltklikk på en melding">
+<!ENTITY mailDoubleClick.accesskey        "k">
 <!ENTITY mailBiffOnNewWindow.label        "Bare se etter nye meldinger etter åpning av e-post og nyhetsgrupper">
 <!ENTITY mailBiffOnNewWindow.accesskey    "B">
 

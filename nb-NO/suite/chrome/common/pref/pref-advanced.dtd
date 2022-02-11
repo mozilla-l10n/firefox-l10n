@@ -9,6 +9,15 @@
 <!ENTITY prefCheckDefaultClient.label     "Kontroller standardprogram-innstillinger ved oppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">
 
+<!ENTITY setDefaultBrowser.label          "Nettleser">
+<!ENTITY setDefaultBrowser.accesskey      "e">
+<!ENTITY setDefaultMail.label             "E-post">
+<!ENTITY setDefaultMail.accesskey         "p">
+<!ENTITY setDefaultNews.label             "Temagrupper">
+<!ENTITY setDefaultNews.accesskey         "m">
+<!ENTITY setDefaultFeed.label             "Informasjonskanaler">
+<!ENTITY setDefaultFeed.accesskey         "k">
+
 <!ENTITY printing.label                   "Skriver ut">
 <!ENTITY useNativePrintDialog.label       "Bruk systemets utskriftsdialogboks (hvis det støttes)">
 <!ENTITY useNativePrintDialog.accesskey   "B">
