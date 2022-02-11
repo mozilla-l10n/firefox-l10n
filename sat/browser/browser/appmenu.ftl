@@ -138,6 +138,8 @@ profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = ᱟᱨᱦᱚᱸ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱛᱟᱣ ᱪᱷᱚ
+profiler-popup-description-title =
+    .value = ᱨᱮᱠᱳᱰ, ᱟᱱᱟᱞᱟᱭᱤᱡᱽ, ᱦᱟᱹᱴᱤᱧ
 profiler-popup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 profiler-popup-learn-more-button =
     .label = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
@@ -197,6 +199,8 @@ appmenu-manage-history =
     .label = ᱦᱤᱛᱟᱹᱞ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 appmenu-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 appmenu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
+appmenu-restore-session =
+    .label = ᱢᱟᱲᱟᱝᱟᱜ ᱠᱟᱹᱢᱤ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ
 appmenu-clear-history =
     .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
 appmenu-recent-history-subheader = ᱱᱤᱛᱚᱜᱟᱜ ᱱᱟᱜᱟᱢ
@@ -227,6 +231,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = ᱦᱟᱨᱠᱮᱴ ᱴᱷᱤᱠ ᱢᱳᱰ…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = ᱦᱟᱨᱠᱮᱴ ᱴᱷᱤᱠ ᱢᱳᱰ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
