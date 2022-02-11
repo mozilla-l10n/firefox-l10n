@@ -47,8 +47,15 @@ pocket-panel-home-paragraph = { -pocket-brand-name } -ն աւգտագործու�
 pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
 pocket-panel-home-discover-more = Բացայայտել աւելին
 pocket-panel-home-explore-more = Ուսումնասիրել․
+pocket-panel-home-new-user-message = Տեսնել ձեր վերջին պահպանածներն այստէղ։
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Դիտել ցանկը
 pocket-panel-header-sign-in = Մուտք գործել
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Ցուցադրել բոլորը
+pocket-panel-button-add-tags = Աւելացնել պիտակներ
+pocket-panel-button-activate = Ակտիւացնել { -pocket-brand-name } ֊ը { -brand-product-name } ֊ում
