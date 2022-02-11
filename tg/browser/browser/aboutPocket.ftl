@@ -52,6 +52,7 @@ pocket-panel-home-discover-more = Бештар омӯзед
 pocket-panel-home-explore-more = Омӯхтан
 pocket-panel-home-most-recent-saves = Маводи охирини шумо дар ин ҷо дастрас аст:
 pocket-panel-home-new-user-cta = Барои нигоҳ доштани мақолаҳо, видеоҳо ва пайвандҳо, тугмаи «{ -pocket-brand-name }»-ро зер кунед.
+pocket-panel-home-new-user-message = Маводи охирини худро дар ин ҷо бинед.
 
 ## Pocket panel header component
 

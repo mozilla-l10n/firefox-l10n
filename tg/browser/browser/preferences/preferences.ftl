@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Ин танзимот ба ҳа�
 update-application-use-service =
     .label = Истифодаи хизмати пасзамина барои насб кардани навсозиҳо
     .accesskey = И
+update-application-suppress-prompts =
+    .label = Камтар нишон додани ёдовариҳои огоҳии навсозӣ
+    .accesskey = К
 update-setting-write-failure-title2 = Ҳангоми нигоҳ доштани танзимоти навсозӣ хато ба миён омад
 # Variables:
 #   $path (String) - Path to the configuration file
