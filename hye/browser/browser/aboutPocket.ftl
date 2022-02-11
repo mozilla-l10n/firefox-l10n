@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Գրանցուել { -brand-product-name }-
 pocket-panel-signup-tagline = Պահպանէք հոդուածներ եւ տեսանիւթեր { -brand-product-name }-ից՝ դրանք յետագայում ցանկացած սարքից, ցանկացած ժամանակ { -pocket-brand-name }-ում դիտելու համար։
 pocket-panel-signup-tagline-story-one = Սեղմէք { -pocket-brand-name } կոճակը՝ { -brand-product-name }-ից ցանկացած հոդուած, տեսանիւթ կամ էջ պահպանելու համար։
 pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում ցանկացած սարքից, ցանկացած ժամանակ։
+pocket-panel-signup-cta-a = Ձեր պահպանման կաւճակը համացանցի համար։
+pocket-panel-signup-cta-b = Սեղմէք { -pocket-brand-name } կաւճակը յոդուածներ, տեսանիւթեր, յղումներ պահպանելու համար։ Դիտէք ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ։
+pocket-panel-signup-cta-c = Դիտէք ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ:
 
 ## about:pocket-home panel
 
