@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Chwilio
 searchbar-icon =
     .tooltiptext = Chwilio
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { -brand-short-name } yn cynnal { $oldEngine } bellach. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau. <label data-l10n-name="remove-search-engine-article">Dysgu rhagor</label>
+remove-search-engine-button = Iawn

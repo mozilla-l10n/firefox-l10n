@@ -371,6 +371,9 @@ update-application-warning-cross-user-setting = Bydd y gosodiad hwn yn berthnaso
 update-application-use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
     .accesskey = c
+update-application-suppress-prompts =
+    .label = Dangos llai o anogwyr hysbysu diweddariadau
+    .accesskey = D
 update-setting-write-failure-title2 = Gwall wrth gadw dewisiadau Diweddaru
 # Variables:
 #   $path (String) - Path to the configuration file
