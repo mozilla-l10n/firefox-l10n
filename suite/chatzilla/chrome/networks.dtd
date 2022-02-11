@@ -35,9 +35,24 @@
 <!ENTITY serverListAdd.tooltip        "Legg til en ny server">
 <!ENTITY serverListEdit.label         "Rediger server…">
 <!ENTITY serverListEdit.accesskey     "i">
+<!ENTITY serverListEdit.tooltip       "Rediger den valgte serveren">
+<!ENTITY serverListRemove.label       "Fjern server">
+<!ENTITY serverListRemove.accesskey   "n">
+<!ENTITY serverListRemove.tooltip     "Fjern den valgte serveren">
 
 <!-- LOCALIZATION NOTE:
    - *.label are shared between networks-edit and networks-server dialogs
    - *.accesskey are only used in network-servers dialog -->
+<!ENTITY serverDetails.label          "Detaljer om den valgte serveren:">
+<!ENTITY serverName.label             "Server:">
+<!ENTITY serverName.accesskey         "S">
+<!ENTITY serverPort.label             "Port:">
+<!ENTITY serverPort.accesskey         "">
+<!ENTITY connectionSecurity.label     "Tilkoblingssikkerhet:">
+<!ENTITY connectionSecurity.accesskey "n">
 
 <!-- Used in networks-server dialog -->
+<!ENTITY serverEditDialog.title       "IRC-server">
+<!ENTITY settings.caption             "Innstillinger">
+<!ENTITY security.caption             "Sikkerhet">
+<!ENTITY serverPortDefault.label      "Standard:">
