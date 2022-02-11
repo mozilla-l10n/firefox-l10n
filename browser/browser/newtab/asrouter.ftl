@@ -89,8 +89,8 @@ cfr-whatsnew-release-notes-link-text = Leer las notas de la versión
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } bloqueado en <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
-       *[other] { -brand-short-name } bloqueado en <b>{ $blockCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
+        [one] { -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
