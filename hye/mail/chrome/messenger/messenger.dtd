@@ -51,6 +51,7 @@
 <!ENTITY imStatus.unavailable        "Անհասանելի">
 <!ENTITY imStatus.offline            "Անցանց">
 <!ENTITY importCmd.label "Ներածել…">
+<!ENTITY importCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
