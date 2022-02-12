@@ -140,6 +140,7 @@ profiler-popup-reveal-description-button =
     .aria-label = ᱟᱨᱦᱚᱸ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱛᱟᱣ ᱪᱷᱚ
 profiler-popup-description-title =
     .value = ᱨᱮᱠᱳᱰ, ᱟᱱᱟᱞᱟᱭᱤᱡᱽ, ᱦᱟᱹᱴᱤᱧ
+profiler-popup-description = ᱢᱚᱦᱲᱟ ᱠᱚ ᱯᱟᱨᱥᱟᱞ ᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱫᱳᱞ ᱠᱚ‌ ᱥᱟᱶ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱡᱚᱴᱟᱣ ᱛᱮ ᱠᱟᱹᱢᱤ ᱢᱮ ᱾
 profiler-popup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 profiler-popup-learn-more-button =
     .label = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
@@ -150,6 +151,7 @@ profiler-popup-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ�
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
+profiler-popup-disabled = ᱢᱚᱦᱲᱟ ᱫᱚ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚ ᱠᱟᱱᱟ, ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱩᱞᱟᱹ ᱠᱷᱟᱹᱛᱤᱨ ᱯᱟᱞᱮ ᱾
 profiler-popup-recording-screen = ᱨᱮᱠᱚᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -180,12 +182,16 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = ᱠᱚᱢ ᱚᱣᱟᱹᱨᱞᱳᱰ ᱥᱟᱶ ᱣᱮᱵᱽ ᱰᱮᱵᱚᱜᱤᱝ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣᱟᱜ ᱾
 profiler-popup-presets-web-developer-label =
     .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
+profiler-popup-presets-firefox-description = { -brand-shorter-name } ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = { -brand-shorter-name } ᱨᱮ ᱧᱮᱧᱮᱞᱤᱭᱟᱹ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-graphics-label =
     .label = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ
+profiler-popup-presets-media-description2 = { -brand-shorter-name } ᱨᱮ ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-media-label =
     .label = ᱢᱤᱰᱤᱭᱟ
 profiler-popup-presets-networking-label =
