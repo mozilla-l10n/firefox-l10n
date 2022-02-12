@@ -14,7 +14,6 @@ compatibility-issue-deprecated = (ngừng hỗ trợ)
 compatibility-issue-experimental = (thử nghiệm)
 compatibility-issue-prefixneeded = (cần có tiền tố)
 compatibility-issue-deprecated-experimental = (ngừng hỗ trợ, thử nghiệm)
-
 compatibility-issue-deprecated-prefixneeded = (không còn dùng nữa, cần có tiền tố)
 compatibility-issue-experimental-prefixneeded = (thử nghiệm, cần có tiền tố)
 compatibility-issue-deprecated-experimental-prefixneeded = (không còn dùng nữa, thử nghiệm, cần có tiền tố)
@@ -42,7 +41,14 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } lần xuất hiện
     }
-
 compatibility-no-issues-found = Không tìm thấy vấn đề tương thích.
 compatibility-close-settings-button =
     .title = Đóng cài đặt
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Vấn đề về khả năng tương thích trong:
+        { $browsers }
