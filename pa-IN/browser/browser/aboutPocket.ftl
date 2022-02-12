@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ਨਾਲ ਸਾਇ
 pocket-panel-signup-tagline = { -brand-product-name } ਤੋਂ ਲੇਖਾਂ ਅਤੇ ਵੀਡੀਓ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ ਤਾਂ ਕਿ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 pocket-panel-signup-tagline-story-one = ਕਿਸੇ ਵੀ ਲੇਖ, ਵੀਡੀਓ ਜਾਂ ਸਫ਼ੇ ਨੂੰ { -brand-product-name } ਤੋਂ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name }ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।
 pocket-panel-signup-tagline-story-two = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ { -pocket-brand-name } ਵਿੱਚ ਦੇਖੋ।
+pocket-panel-signup-cta-a = ਇੰਟਰਨੈੱਟ ਲਈ ਤੁਹਾਡਾ ਸੰਭਾਲੋ ਬਟਨ ਹੈ।
+pocket-panel-signup-cta-b = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕਾਂ ਨੂੰ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ। ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੀ ਸੂਚੀ ਵੇਖੋ।
+pocket-panel-signup-cta-c = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੀ ਸੂਚੀ ਵੇਖੋ।
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = ਤੁਸੀਂ { -pocket-brand-name } ਨੂੰ �
 pocket-panel-home-explore-popular-topics = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਚੋਲ ਕਰੋ
 pocket-panel-home-discover-more = ਹੋਰ ਲੱਭੋ
 pocket-panel-home-explore-more = ਪੜਚੋਲ
+pocket-panel-home-most-recent-saves = ਤੁਹਾਡੇ ਵਲੋਂ ਹਾਲ ਵਿੱਚ ਸੰਭਾਲੇ ਇੱਥੇ ਹਨ:
+pocket-panel-home-new-user-cta = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
+pocket-panel-home-new-user-message = ਤੁਹਾਡੇ ਵਲੋਂ ਹਾਲ ਵਿੱਚ ਸੰਭਾਲੇ ਇੱਥੇ ਵੇਖੋ।
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = ਮੇਰੀ ਸੂਚੀ ਵੇਖੋ
 pocket-panel-header-sign-in = ਸਾਇਨ ਇਨ
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = ਸਭ ਵੇਖੋ
+pocket-panel-button-add-tags = ਟੈਗ ਨੂੰ ਜੋੜੋ
+pocket-panel-button-activate = { -brand-product-name } ਵਿੱਚ { -pocket-brand-name } ਸਰਗਰਮ ਕਰੋ
