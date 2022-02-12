@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Поиск
 searchbar-icon =
     .tooltiptext = Поиск
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Ваша поисковая система по умолчанию была изменена.</strong> { -brand-short-name } более не поддерживает { $oldEngine }. Теперь ваша поисковая система по умолчанию — { $newEngine }. Чтобы изменить её, перейдите в настройки. <label data-l10n-name="remove-search-engine-article">Подробнее</label>
+remove-search-engine-button = OK
