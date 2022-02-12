@@ -347,6 +347,9 @@ update-application-warning-cross-user-setting = Cài đặt này sẽ áp dụng
 update-application-use-service =
     .label = Sử dụng dịch vụ chạy nền để cài đặt các cập nhật
     .accesskey = n
+update-application-suppress-prompts =
+    .label = Hiển thị ít lời nhắc thông báo cập nhật hơn
+    .accesskey = n
 update-setting-write-failure-title2 = Lỗi khi lưu cài đặt Cập nhật
 # Variables:
 #   $path (String) - Path to the configuration file
