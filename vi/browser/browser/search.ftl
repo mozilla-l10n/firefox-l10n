@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Tìm kiếm
 searchbar-icon =
     .tooltiptext = Tìm kiếm
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Công cụ tìm kiếm mặc định của bạn đã được thay đổi.</strong> { -brand-short-name } không còn hỗ trợ { $oldEngine } nữa. { $newEngine } hiện là công cụ tìm kiếm mặc định của bạn. Để thay đổi sang một công cụ tìm kiếm mặc định khác, hãy chuyển đến cài đặt. <label data-l10n-name="remove-search-engine-article">Tìm hiểu thêm</label>
+remove-search-engine-button = OK
