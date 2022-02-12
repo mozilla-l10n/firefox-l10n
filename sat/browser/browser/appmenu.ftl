@@ -194,6 +194,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name } ᱨᱮ ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-media-label =
     .label = ᱢᱤᱰᱤᱭᱟ
+profiler-popup-presets-networking-description = { -brand-shorter-name } ᱨᱮ ᱱᱮᱴᱣᱟᱨᱠᱤᱝ ᱵᱟᱵᱚᱛ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-networking-label =
     .label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
 profiler-popup-presets-custom-label =
