@@ -102,6 +102,22 @@ monitor-breaches-tooltip =
     .title = Дидани вайроншавиҳо ва маълумоти дуздидаи маълум дар { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Дидани ниҳонвожаҳои ошкоршуда дар { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Нишонии почтаи электронӣ пайгирӣ шуда истодааст
+       *[other] Нишониҳои почтаи электронӣ пайгирӣ шуда истодаанд
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Вайроншавӣ ва маълумоти дуздидаи маълум маълумоти шуморо ошкор кард
+       *[other] Вайроншавиҳо ва маълумоти дуздидаи маълум маълумоти шуморо ошкор карданд
+    }
 monitor-no-breaches-title = Хабари хуш!
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
