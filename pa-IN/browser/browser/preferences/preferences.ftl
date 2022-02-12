@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = ਇਹ ਸੈਟਿੰਗ { -bra
 update-application-use-service =
     .label = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ
     .accesskey = b
+update-application-suppress-prompts =
+    .label = ਘੱਟ ਅੱਪਡੇਟ ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਲਈ ਪੁੱਛੋ
+    .accesskey = n
 update-setting-write-failure-title2 = ਅੱਪਡੇਟ ਸੈਟਿੰਗਾਂ ਸੰਭਾਲਣ ਦੌਰਾਨ ਗ਼ਲਤੀ ਹੈ
 # Variables:
 #   $path (String) - Path to the configuration file
