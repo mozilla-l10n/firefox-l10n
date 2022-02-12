@@ -143,6 +143,7 @@ info-exposed-passwords-resolved =
        *[other] Ниҳонвожаҳои ошкоршуда дар вайронкуниҳо ва маълумоти дуздидаи маълуми ҳалнашуда
     }
 monitor-no-breaches-title = Хабари хуш!
+monitor-no-breaches-description = Шумо ягон вайронкунӣ ва маълумоти дуздидаи маълуми надоред. Агар вазъият тағйир ёбад, мо ба шумо хабар медиҳем.
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Вайронкуниҳои худро ҳал кунед
