@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Selesaikan pemasangan { -brand-short-name }?
+prompt-to-install-message = Selesaikan instalasi satu langkah ini untuk membantu agar { -brand-short-name } selalu mutakhir dan mencegah kehilangan data. { -brand-short-name } akan ditambahkan ke folder Applications dan Dock Anda.
 prompt-to-install-yes-button = Instal
 prompt-to-install-no-button = Jangan Instal
 
