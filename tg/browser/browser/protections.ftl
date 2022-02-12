@@ -99,7 +99,7 @@ auto-scan = Имрӯз ба таври худкор мушоҳида карда 
 monitor-emails-tooltip =
     .title = Дидани нишониҳои почтаи электронии пайгиришаванда дар { -monitor-brand-short-name }
 monitor-breaches-tooltip =
-    .title = Дидани вайроншавиҳо ва маълумоти дуздидаи маълум дар { -monitor-brand-short-name }
+    .title = Дидани вайронкуниҳо ва маълумоти дуздидаи маълум дар { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Дидани ниҳонвожаҳои ошкоршуда дар { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
@@ -115,8 +115,32 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Вайроншавӣ ва маълумоти дуздидаи маълум маълумоти шуморо ошкор кард
-       *[other] Вайроншавиҳо ва маълумоти дуздидаи маълум маълумоти шуморо ошкор карданд
+        [one] Вайронкунӣ ва маълумоти дуздидаи маълум маълумоти шуморо ошкор кард
+       *[other] Вайронкуниҳо ва маълумоти дуздидаи маълум маълумоти шуморо ошкор карданд
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Вайронкунӣ ва маълумоти дуздидаи маълум ҳамчун ҳалшуда қайд карда шудааст
+       *[other] Вайронкуниҳо ва маълумоти дуздидаи маълум ҳамчун ҳалшуда қайд карда шудаанд
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Ниҳонвожаи ошкоршуда дар ҳамаи вайронкуниҳо ва маълумоти дуздидаи маълум
+       *[other] Ниҳонвожаҳои ошкоршуда дар ҳамаи вайронкуниҳо ва маълумоти дуздидаи маълум
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Ниҳонвожаи ошкоршуда дар вайронкуниҳо ва маълумоти дуздидаи маълуми ҳалнашуда
+       *[other] Ниҳонвожаҳои ошкоршуда дар вайронкуниҳо ва маълумоти дуздидаи маълуми ҳалнашуда
     }
 monitor-no-breaches-title = Хабари хуш!
 monitor-view-report-link = Дидани гузориш
