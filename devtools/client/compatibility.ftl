@@ -56,4 +56,4 @@ compatibility-close-settings-button =
 compatibility-issue-browsers-list =
     .title =
         Materion cydnawsedd yn:
-        { $porwyr }
+        { $browsers }
