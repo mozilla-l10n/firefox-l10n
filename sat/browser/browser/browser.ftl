@@ -127,6 +127,10 @@ urlbar-search-mode-history = ᱱᱟᱜᱟᱢ
 
 urlbar-geolocation-blocked =
     .tooltiptext = ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱹᱰ ᱡᱟᱭᱜᱟ ᱵᱤᱵᱨᱚᱬ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+urlbar-xr-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱜᱩᱱᱩᱱᱟᱜ ᱥᱟᱹᱨᱤ ᱞᱮᱠᱷᱟ ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱵᱚᱸᱫ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-web-notifications-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -289,6 +293,9 @@ popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ �
 popup-screen-sharing-block =
     .label = ᱟᱠᱚᱴ
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = ᱡᱟᱣᱜᱮ ᱵᱞᱚᱠ ᱢᱮ
+    .accesskey = w
 
 ## WebRTC window or screen share tab switch warning
 
@@ -310,6 +317,26 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .aria-label = { $name } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
+    .aria-label = { $name } ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
+    .aria-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
+    .aria-label = ᱦᱤᱛᱟᱹᱞ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱟᱫᱮᱨ ᱢᱮ
+    .aria-label = ᱴᱮᱵᱽ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -340,8 +367,29 @@ urlbar-result-action-search-in-private = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷ�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ᱥᱟᱶ ᱯᱟᱱᱛᱮ
+urlbar-result-action-sponsored = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 urlbar-result-action-switch-tab = ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 urlbar-result-action-visit = ᱦᱤᱨᱤ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱚᱛᱟᱭ ᱢᱮ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } ᱥᱮᱸᱫᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱽ ᱚᱛᱟᱭ ᱢᱮ
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = { $engine } ᱥᱟᱞᱟᱜ ᱴᱷᱤᱠᱱᱟᱹ ᱵᱟᱨ ᱠᱷᱚᱱ ᱥᱚᱡᱷᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱵᱤᱱ
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = { $engine } ᱛᱮ ᱴᱷᱤᱠᱱᱟᱹ ᱵᱟᱨ ᱠᱷᱚᱱ ᱥᱚᱡᱷᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱵᱤᱱ
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -364,9 +412,20 @@ urlbar-result-action-search-tabs = ᱴᱮᱵ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱤ ᱢ
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } ᱵᱟᱛᱣ ᱠᱚ
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ᱫᱚ ᱱᱤᱛᱚᱜ ᱯᱩᱨᱟᱹ ᱯᱚᱨᱫᱟ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
+fullscreen-warning-no-domain = ᱱᱚᱶᱟ ᱫᱚᱞᱤᱞ ᱫᱚ ᱵᱤᱛᱚᱜ ᱯᱩᱨᱟᱹ ᱯᱚᱨᱫᱟ ᱨᱮ ᱢᱮᱟᱜᱼᱟ
 fullscreen-exit-button = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ (Esc)
@@ -394,11 +453,29 @@ bookmarks-other-bookmarks-menu =
     .label = ᱮᱴᱟᱜᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 bookmarks-mobile-bookmarks-menu =
     .label = ᱢᱚᱵᱟᱤᱞ ᱵᱩᱠᱢᱟᱨᱠ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ᱫᱷᱟᱨᱮ ᱵᱟᱨ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱧᱮᱞ ᱢᱮ
+           *[other] ᱫᱷᱟᱨᱮ ᱵᱟᱨ ᱯᱩᱛᱷᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] ᱵᱩᱠᱢᱟᱨᱠ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱩᱠᱩᱭ ᱢᱮ
+           *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
            *[other] ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ ᱠᱷᱚᱱ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱚᱪᱚᱜᱽ ᱢᱮ
+           *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ ᱠᱚ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ
         }
 bookmarks-search =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
@@ -406,20 +483,35 @@ bookmarks-tools =
     .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱠᱚ ᱵᱩᱠᱢᱟᱨᱠᱤᱝᱚᱜ ᱠᱟᱱᱟ
 bookmarks-bookmark-edit-panel =
     .label = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱩᱤᱱᱟᱹ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = ᱵᱩᱠᱢᱟᱨᱠ ᱦᱚᱛᱷᱤᱭᱟᱨ
+    .accesskey = B
+    .aria-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 bookmarks-toolbar-menu =
     .label = ᱴᱩᱞᱵᱟᱨ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ
 bookmarks-toolbar-placeholder =
     .title = ᱴᱩᱞᱵᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ
 bookmarks-toolbar-placeholder-button =
     .label = ᱴᱩᱞᱵᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = ᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱢᱮ
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+library-recent-activity-title =
+    .value = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
+    .tooltiptext = { -pocket-brand-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
 
 ## Repair text encoding toolbar button
 
@@ -457,6 +549,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = ᱨᱮᱫ ᱡᱷᱤᱡᱽ ᱢᱮ
     .tooltiptext = ᱢᱤᱫ ᱨᱮᱫ ᱡᱷᱤᱡᱽ ᱢᱮ ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = ᱥᱤᱸᱠᱼᱰ ᱴᱮᱵᱽ ᱠᱚ
+    .tooltiptext = ᱮᱴᱟᱜ ᱴᱮᱵᱽ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -481,6 +576,7 @@ panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
+addon-removal-abuse-report-checkbox = ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ { -vendor-short-name } ᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 
 ## Remote / Synced tabs
 
@@ -499,9 +595,21 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = { $uriHost } ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭ ᱢᱮ
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱟᱞᱳ ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱟᱢ
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱵᱞᱚᱠ ᱡᱷᱚᱜ ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱟᱞᱚᱢ ᱫᱮᱠᱷᱟᱣᱟᱢ
+    .accesskey = D
+edit-popup-settings =
+    .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
+    .accesskey = M
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
