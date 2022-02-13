@@ -237,7 +237,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Arquivos e Aplicativos
+files-and-applications-title = Arquivos e aplicativos
 download-header = Downloads
 download-save-to =
     .label = Salvar arquivos em
