@@ -63,3 +63,4 @@ pocket-panel-header-sign-in = Giriş yap
 
 pocket-panel-button-show-all = Tümünü göster
 pocket-panel-button-add-tags = Etiket ekle
+pocket-panel-button-activate = { -brand-product-name } tarayıcısında { -pocket-brand-name }’ı etkinleştirin
