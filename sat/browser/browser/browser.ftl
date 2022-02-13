@@ -162,6 +162,8 @@ urlbar-star-add-bookmark =
 
 page-action-manage-extension =
     .label = ᱯᱟᱥᱱᱟᱣ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
+page-action-remove-extension =
+    .label = ᱯᱟᱥᱱᱟᱣ ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Auto-hide Context Menu
 
@@ -185,6 +187,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱞᱮᱠᱷᱟ ᱥᱮᱴ ᱢᱮ
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱴ ᱢᱮ
+    .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -225,6 +230,20 @@ bookmarks-edit-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 bookmark-panel-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = ᱵ
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] ᱵᱩᱩᱠᱢᱟᱨᱠ ᱚᱪᱮᱜᱽ ᱢᱮ
+            [one] { $count } ᱵᱩᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜᱽ ᱢᱮ
+            [two] { $count } ᱵᱩᱩᱠᱢᱟᱨᱠ ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+           *[other] { $count } ᱵᱩᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+        }
+    .accesskey = R
+bookmark-panel-show-editor-checkbox =
+    .label = ᱥᱟᱺᱪᱟᱣ ᱡᱷᱚᱜ ᱥᱟᱯᱲᱟᱣᱤᱭᱟᱹ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accesskey = S
 bookmark-panel-save-button =
     .label = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 # Width of the bookmark panel.
@@ -235,9 +254,21 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } ᱞᱟᱹᱜᱤᱫ ᱥᱟᱭᱤᱴ ᱵᱤᱵᱨᱚᱬ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱹᱣ
 identity-connection-not-secure = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟ
 identity-connection-secure = ᱡᱩᱲᱟᱹᱣ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ
 identity-connection-failure = ᱡᱩᱲᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
+identity-connection-internal = ᱱᱚᱶᱟ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ { -brand-short-name } ᱥᱟᱦᱴᱟ ᱠᱟᱱᱟ ᱾
+identity-connection-file = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱱᱟ ᱾
+identity-extension-page = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱯᱟᱥᱱᱟᱣ ᱠᱷᱚᱱ ᱞᱟᱫᱮ ᱠᱟᱱᱟ ᱾
+identity-active-blocked = { -brand-short-name } ᱫᱚ ᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱱ ᱥᱟᱦᱴᱟ ᱫᱚ ᱵᱞᱚᱠ ᱠᱟᱜᱼᱟᱭ ᱾
+identity-custom-root = ᱡᱚᱲᱟᱹᱣ ᱫᱚ Mozilla ᱵᱟᱝ ᱪᱤᱱᱦᱟᱹᱣ ᱠᱟᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ ᱛᱮ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱱᱟ ᱾
 identity-https-only-connection-upgraded = (HTTPS ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱩᱭᱮᱱᱟ)
 identity-https-only-label = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
 identity-https-only-dropdown-on =
