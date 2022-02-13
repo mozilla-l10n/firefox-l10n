@@ -24,6 +24,12 @@ connection-dialog-window =
 connection-disable-extension =
     .label = Desactivar extensión
 disable-extension-button = Desactivar extensión
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension = Una extensión, <img data-l10n-name="extension-icon" alt="" /> { $name }, está controlando cómo se conecta { -brand-short-name } a Internet.
 connection-proxy-legend = Configurar proxies para el acceso a Internet
 proxy-type-no =
     .label = Sin proxy
@@ -74,6 +80,8 @@ no-proxy-label =
     .value = No usar proxy para:
     .accesskey = n
 no-proxy-example = Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Las conexiones a localhost, 127.0.0.1/8 y ::1 nunca pasan por proxy.
 proxy-password-prompt =
     .label = No solicitar identificación si la contraseña está guardada
     .accesskey = d
