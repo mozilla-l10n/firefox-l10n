@@ -123,6 +123,7 @@ remove-search-engine =
     .label = Eliminar
     .accesskey = l
 add-opensearch-provider-title = Añadir proveedor OpenSearch
+add-opensearch-provider-text = Introduzca la URL del proveedor de OpenSearch a añadir. Utilice la URL directa del archivo de descripción de OpenSearch o una URL donde se pueda descubrir automáticamente.
 adding-opensearch-provider-failed-title = No se ha podido añadir el proveedor OpenSearch
 adding-opensearch-provider-failed-text = No se ha podido añadir el proveedor OpenSearch para { $url }.
 minimize-to-tray-label =
@@ -310,6 +311,8 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
+search-handler-table =
+    .placeholder = Filtrar tipos de contenido y acciones
 type-column-header = Tipo de contenido
 action-column-header = Acción
 save-to-label =
@@ -666,9 +669,31 @@ no-preview-description = Este tema no es válido o no está actualmente disponib
 chat-variant-label =
     .value = Vaiante:
     .accesskey = V
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Buscar en preferencias
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Buscar en ajustes
 
 ## Settings UI Search Results
 
@@ -678,5 +703,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] ¡Lo sentimos! No hay resultados en Opciones para “<span data-l10n-name="query"></span>”.
        *[other] ¡Lo sentimos! No hay resultados en Preferencias para “<span data-l10n-name="query"></span>”.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] ¡Lo sentimos! No hay resultados para "<span data-l10n-name="query"></span>" en los ajustes.
+       *[other] ¡Lo sentimos! No hay resultados para "<span data-l10n-name="query"></span>" en los ajustes.
     }
 search-results-help-link = ¿Necesita ayuda? Visite la ayuda de <a data-l10n-name="url">{ -brand-short-name }</a>
