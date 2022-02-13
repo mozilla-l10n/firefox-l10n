@@ -93,6 +93,10 @@ urlbar-web-rtc-share-speaker-notification-anchor =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱮᱴᱟᱜ ᱨᱚᱨᱚᱲᱤᱡ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = ᱟᱡ ᱛᱮ ᱮᱛᱦᱚᱵ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = ᱦᱚᱴ ᱫᱚᱦᱚ ᱨᱮ ᱰᱟᱴᱟ ᱫᱚᱦᱚᱭ ᱢᱮ
+urlbar-addons-notification-anchor =
+    .tooltiptext = ᱮᱰᱼᱚᱱᱥ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱵᱚᱨ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 urlbar-tip-help-icon =
     .title = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
 urlbar-search-tips-confirm = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
@@ -107,6 +111,11 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = ᱠᱚᱢ ᱚᱞ, ᱡᱟᱹᱥᱛᱤ ᱯᱟᱱᱛᱮ : ᱟᱢᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱠᱷᱚᱱ { $engineName } ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
+urlbar-search-tips-redirect-2 = { $engineName } ᱟᱨ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣ ᱠᱚ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱚ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱨᱮ ᱧᱮᱞ ᱢᱮ ᱾
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = ᱟᱢ ᱞᱚᱜᱚᱱ ᱡᱟᱦᱟᱺ ᱫᱚᱨᱠᱟᱨ ᱚᱱᱟ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱶᱟ ᱠᱷᱚᱴᱚᱢᱟᱪᱷᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
 ## Local search mode indicator labels in the urlbar
 
@@ -116,6 +125,8 @@ urlbar-search-mode-history = ᱱᱟᱜᱟᱢ
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱹᱰ ᱡᱟᱭᱜᱟ ᱵᱤᱵᱨᱚᱬ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -203,16 +214,24 @@ bookmark-panel =
 identity-connection-not-secure = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟ
 identity-connection-secure = ᱡᱩᱲᱟᱹᱣ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ
 identity-connection-failure = ᱡᱩᱲᱟᱹᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
+identity-https-only-connection-upgraded = (HTTPS ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱩᱭᱮᱱᱟ)
+identity-https-only-label = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
 identity-https-only-dropdown-on =
     .label = ᱪᱟᱹᱞᱩ
 identity-https-only-dropdown-off =
     .label = ᱵᱚᱸᱫᱚ
 identity-permissions-storage-access-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+identity-remove-cert-exception =
+    .label = ᱟᱯᱚᱛ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = R
 identity-learn-more =
     .value = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 identity-disable-mixed-content-blocking =
     .label = ᱱᱤᱛᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱲ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚᱜ ᱠᱟᱱᱟ
     .accesskey = ᱱ
+identity-enable-mixed-content-blocking =
+    .label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+    .accesskey = E
 identity-more-info-link-text =
     .label = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 
@@ -220,6 +239,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ᱦᱩᱲᱤᱧ ᱩᱛᱟᱹᱨ ᱛᱮᱭᱟᱨ ᱢᱤᱫ
+browser-window-maximize-button =
+    .tooltiptext = ᱢᱟᱨᱟᱝ ᱪᱷᱚ
 browser-window-close-button =
     .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
