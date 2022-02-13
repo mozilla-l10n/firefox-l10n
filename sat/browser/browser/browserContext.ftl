@@ -124,12 +124,18 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱡ
+main-context-menu-open-link-container-tab =
+    .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱨᱮ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱡ
 main-context-menu-open-link-new-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱡ
+main-context-menu-bookmark-link =
+    .label = ᱞᱤᱸᱠ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ
+    .accesskey = B
 main-context-menu-save-link =
     .label = ᱞᱮᱠᱷᱟ ᱠᱷᱚᱧᱡᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…
     .accesskey = ᱪ
@@ -204,6 +210,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ ᱾
     .accesskey = ᱯ
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱭᱼᱪᱤᱛᱟᱹᱨ ᱢᱳᱰ ᱨᱮ ᱧᱮᱞ ᱡᱚᱝ ᱢᱮ
+    .accesskey = u
 main-context-menu-image-reload =
     .label = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱨᱩᱟᱹᱲ
     .accesskey = ᱪ
@@ -231,6 +242,9 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ᱤᱢᱮᱞ ᱪᱤᱛᱟᱹᱨ …
     .accesskey = ᱤ
+main-context-menu-image-set-image-as-background =
+    .label = ᱰᱮᱥᱠᱴᱚᱯ ᱵᱮᱠᱜᱽᱨᱟᱩᱱᱰ ᱞᱮᱠᱟ ᱪᱤᱛᱟᱹᱨ ᱥᱟᱡᱟᱣ ᱢᱮ …
+    .accesskey = S
 main-context-menu-image-info =
     .label = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱧᱮᱞ
     .accesskey = ᱪ
@@ -243,6 +257,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ᱞᱮᱠᱟ ᱟᱺᱡᱚᱢ ᱥᱟᱺᱪᱟᱣ ᱢᱮ …
     .accesskey = ᱞ
+main-context-menu-video-take-snapshot =
+    .label = ᱠᱷᱟᱴᱚ ᱪᱤᱛᱟᱹᱨ ᱤᱫᱤ ᱢᱮ …
+    .accesskey = S
 main-context-menu-video-email =
     .label = ᱤᱢᱮᱞ ᱣᱤᱰᱤᱭᱚ …
     .accesskey = ᱤ
@@ -266,12 +283,27 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = o
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = ᱟᱸᱴ ᱫᱟᱫᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱛᱟᱣ ᱢᱮ …
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = ᱞᱚᱜᱤᱱ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
+    .accesskey = M
 main-context-menu-keyword =
     .label = ᱱᱚᱶᱟ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱠᱟᱹᱴᱷᱤ ᱵᱚᱲ ᱥᱮᱞᱮᱫ ᱢᱮ …
     .accesskey = ᱱ
+main-context-menu-link-send-to-device =
+    .label = ᱞᱤᱝᱠ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+    .accesskey = n
 main-context-menu-frame =
     .label = ᱱᱟᱶᱟ ᱥᱟᱡᱽ
     .accesskey = ᱱ
