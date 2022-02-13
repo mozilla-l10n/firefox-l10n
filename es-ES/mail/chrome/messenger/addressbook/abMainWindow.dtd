@@ -42,7 +42,9 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Eliminar">
 <!ENTITY deleteAbCmd.label                              "Eliminar libreta de direcciones">
+<!ENTITY deleteAbCmd.accesskey                          "D">
 <!ENTITY removeAbCmd.label                              "Eliminar libreta de direcciones">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label                        "Eliminar contactos">
 <!ENTITY deleteListCmd.label                            "Eliminar lista">
@@ -144,6 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip                                  "Enviar un mensaje o conversación instantáneos">
 <!ENTITY deleteButton2.tooltip                          "Eliminar elemento seleccionado">
+<!ENTITY removeButton.tooltip                           "Eliminar la libreta de direcciones seleccionada">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nombre o dirección de correo">
