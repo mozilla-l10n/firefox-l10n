@@ -131,6 +131,24 @@ urlbar-xr-blocked =
     .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱜᱩᱱᱩᱱᱟᱜ ᱥᱟᱹᱨᱤ ᱞᱮᱠᱷᱟ ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱵᱚᱸᱫ ᱠᱮᱜᱼᱟᱢ ᱾
 urlbar-web-notifications-blocked =
     .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-camera-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-microphone-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱳᱯᱷᱚᱱ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-screen-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱟᱢᱟᱜ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-persistent-storage-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱤᱲ ᱫᱚᱦᱚ, ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-popup-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-autoplay-media-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱡ ᱛᱮ ᱯᱞᱮ ᱢᱮᱰᱤᱭᱟ ᱥᱟᱶ ᱥᱟᱰᱮ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-canvas-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱪᱷᱟᱰᱟᱣ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-midi-blocked =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ MIDI ᱟᱫᱮᱨ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
+urlbar-install-blocked =
+    .tooltiptext = ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱰᱼᱚᱱᱥ ᱵᱚᱦᱟᱞ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -142,6 +160,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = ᱯᱟᱥᱱᱟᱣ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
 
 ## Auto-hide Context Menu
 
