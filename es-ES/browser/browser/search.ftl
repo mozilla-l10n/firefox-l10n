@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Buscar
 searchbar-icon =
     .tooltiptext = Buscar
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Su motor de búsqueda predeterminado ha cambiado.</strong> { -brand-short-name } ya no es compatible con { $oldEngine }. { $newEngine } es ahora su buscador predeterminado. Para cambiar a otro buscador predeterminado, vaya a los ajustes. <label data-l10n-name="remove-search-engine-article">Saber más</label>
+remove-search-engine-button = Aceptar
