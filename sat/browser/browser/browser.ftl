@@ -83,12 +83,16 @@ urlbar-password-notification-anchor =
     .tooltiptext = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱷᱚᱵᱚᱨ ᱯᱮᱱᱟᱞ ᱥᱟᱺᱪᱟᱣ ᱟᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 urlbar-translated-notification-anchor =
     .tooltiptext = ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟ ᱢᱟᱴᱚᱡ ᱵᱤᱱ
+urlbar-plugins-notification-anchor =
+    .tooltiptext = ᱢᱟᱴᱚᱡ ᱯᱞᱚᱜᱽᱼᱤᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱟᱢᱟᱜ ᱠᱟᱢᱨᱟ ᱟᱨ/ᱟᱨ ᱵᱟᱝ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱮᱴᱟᱜ ᱨᱚᱨᱚᱲᱤᱡ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = ᱟᱡ ᱛᱮ ᱮᱛᱦᱚᱵ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 urlbar-tip-help-icon =
     .title = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
 urlbar-search-tips-confirm = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
