@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Embojuaju teramoĩ
-
 pocket-panel-saved-error-generic = Oiko jejavy eñongatusévo { -pocket-brand-name }-pe.
 pocket-panel-saved-error-tag-length = Umi teramoĩme eipurukuaa 25 tai peve añónte
 pocket-panel-saved-error-only-links = Eñongatukuaa juajuha añoite
@@ -48,3 +47,12 @@ pocket-panel-home-paragraph = Eipurukuaa { -pocket-brand-name } eheka hag̃ua ha
 pocket-panel-home-explore-popular-topics = Ehekaporã téma oñehenduvéva
 pocket-panel-home-discover-more = Ejuhukuaave
 pocket-panel-home-explore-more = Ehapykueho
+
+## Pocket panel header component
+
+pocket-panel-header-sign-in = Eñepyrũ tembiapo
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Techaukapa
+pocket-panel-button-add-tags = Embojuaju teramoĩ
