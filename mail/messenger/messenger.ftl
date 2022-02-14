@@ -166,6 +166,7 @@ no-reply-reply-anyway-button = Yine de yanıtla
 
 ## error messages
 
+decrypt-and-copy-failures = { $total } iletinin { $failures } tanesinin şifresi çözülemedi ve bu iletiler kopyalanmadı.
 
 ## Spaces toolbar
 
