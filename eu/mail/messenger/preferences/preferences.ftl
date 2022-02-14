@@ -5,6 +5,7 @@
 close-button =
     .aria-label = Itxi
 preferences-doc-title = Hobespenak
+preferences-doc-title2 = Ezarpenak
 category-list =
     .aria-label = Kategoriak
 pane-general-title = Orokorra
@@ -115,6 +116,9 @@ restore-default-label =
     .label = Berrezarri lehenetsia
     .accesskey = r
 default-search-engine = Bilatzaile lehenetsia
+add-web-search-engine =
+    .label = Gehitu…
+    .accesskey = G
 remove-search-engine =
     .label = Kendu
     .accesskey = K
