@@ -241,6 +241,18 @@ cloud-file-count-header =
         [one] { $count } dosyayı bu e-postaya bağladım:
        *[other] { $count } dosyayı bu e-postaya bağladım:
     }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = { $link } hakkında daha fazla bilgi alın.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = { $firstLinks } ve { $lastLink } hakkında daha fazla bilgi alın.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Parola korumalı bağlantı
 # Used in a list of stats about a specific file
@@ -265,3 +277,5 @@ cloud-file-connection-error = { -brand-short-name } çevrimdışı. { $provider 
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Yeniden adlandırma hatası
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } önceden yüklenmiş dosyaların yeniden adlandırılmasını desteklemiyor.
