@@ -506,6 +506,10 @@ browsing-use-smooth-scrolling =
     .label = Utilizza lo scorrimento fluido
     .accesskey = a
 
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Mostra sempre le barre di scorrimento
+    .accesskey = o
+
 browsing-use-onscreen-keyboard =
     .label = Visualizza una tastiera touch quando necessario
     .accesskey = s
