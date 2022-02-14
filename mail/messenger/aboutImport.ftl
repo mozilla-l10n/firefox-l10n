@@ -7,6 +7,7 @@ import-page-title = Inportatu
 ## Header
 
 import-from-app = Inportatu aplikaziotik
+import-from-app-desc = Aukeratu inportatzeko Kontuak, Helbide-liburuak, Egutegiak eta bestelako datuak hemendik:
 import-address-book = Inportatu helbide-liburu fitxategia
 import-calendar = Inportatu egutegi fitxategia
 

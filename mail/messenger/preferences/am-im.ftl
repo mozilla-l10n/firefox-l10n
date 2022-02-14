@@ -4,6 +4,10 @@
 
 account-settings-title = Autentifikazio ezarpenak
 account-channel-title = Kanal lehenetsiak
+chat-autologin =
+    .label = Hasi saioa abioan
+chat-encryption-generic = Orokorra
+chat-encryption-status = Zifratze egoera
 chat-encryption-sessions = Saioak
 chat-encryption-session-verify = Egiaztatu
     .title = Egiaztatu saio honen indentitatea
