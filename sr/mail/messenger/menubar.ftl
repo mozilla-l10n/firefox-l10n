@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## View Menu
+toolbar-context-menu-menu-bar =
+    .toolbarname = Трака менија
+    .accesskey = н
 
 ## Tools Menu
 
@@ -12,7 +13,6 @@
 menu-tools-preferences =
     .label = Поставке
     .accesskey = к
-
 menu-addons-and-themes =
     .label = Додаци и теме
     .accesskey = Д
@@ -25,7 +25,12 @@ menu-addons-and-themes =
 
 ## View
 
+
 ## View / Layout
+
+menu-spaces-toolbar-button =
+    .label = Просторна трака
+    .accesskey = к
 
 ## File
 
