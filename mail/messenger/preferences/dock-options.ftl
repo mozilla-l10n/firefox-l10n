@@ -21,3 +21,4 @@ count-new-messages-radio =
     .label = Mezu berrien kopurua
     .accesskey = k
 notification-settings-info = Jakinarazpen paneleko etiketa ezgaitu dezakezu sistemaren hobespenetan.
+notification-settings-info2 = Jakinarazpen paneleko etiketa ezgaitu dezakezu sistemaren ezarpenetan.

@@ -24,6 +24,12 @@ connection-dialog-window =
 connection-disable-extension =
     .label = Desgaitu hedapena
 disable-extension-button = Desgaitu hedapena
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension = <img data-l10n-name="extension-icon" alt="" />{ $name } hedapenak, kontrolatzen du { -brand-short-name } internetera nola konektatzen den.
 connection-proxy-legend = Konfiguratu Internet atzitzeko proxy-ak
 proxy-type-no =
     .label = Proxy-rik ez
