@@ -21,9 +21,31 @@ redirect-msg-button =
 
 ## Folder Pane
 
+folder-pane-header-label = Фасцикле
 
 ## Folder Toolbar Header Popup
 
+folder-toolbar-hide-toolbar-toolbarbutton =
+    .label = Сакриј алатницу
+    .accesskey = и
+show-all-folders-label =
+    .label = Све фасцикле
+    .accesskey = в
+show-unread-folders-label =
+    .label = Непрочитане фасцикле
+    .accesskey = Н
+show-favorite-folders-label =
+    .label = Омиљене фасцикле
+    .accesskey = ф
+show-smart-folders-label =
+    .label = Сједињене фасцикле
+    .accesskey = ј
+show-recent-folders-label =
+    .label = Скорашње фасцикле
+    .accesskey = к
+folder-toolbar-toggle-folder-compact-view =
+    .label = Сажети преглед
+    .accesskey = г
 
 ## Menu
 
@@ -68,3 +90,22 @@ other-action-redirect-msg =
 
 ## error messages
 
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Просторна трака
+spaces-toolbar-button-mail =
+    .title = Пребаци се на пошту
+spaces-toolbar-button-address-book =
+    .title = Пребаци се на именик
+spaces-toolbar-button-calendar =
+    .title = Пребаци се на календар
+spaces-toolbar-button-tasks =
+    .title = Пребаци се на задатке
+spaces-toolbar-button-chat =
+    .title = Пребаци се на ћаскање
+spaces-toolbar-button-settings =
+    .title = Пребаци се на подешавања
+spaces-toolbar-button-collapse =
+    .title = Скупи просторну траку
