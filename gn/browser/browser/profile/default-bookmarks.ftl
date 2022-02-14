@@ -17,3 +17,5 @@ default-bookmarks-firefox-get-help = Eipota pytyvõ
 default-bookmarks-firefox-customize = Emboava Firefox
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Blog Firefox Nightly mba’e
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
