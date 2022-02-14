@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-addressing.xhtml -->
+
+<!ENTITY addressingGroupTitle.label "Հասցէագրում">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.accesskey     "d">
+
+<!-- am-addressing.xhtml -->
+
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY autoQuote.accesskey                  "m">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Մէջբերելիս,">
+<!ENTITY quoting.accesskey                    "q">
+<!ENTITY aboveQuote.label                     "պատասխանել մէջբերումից առաջ">
+<!ENTITY belowQuote.label                     "պատասխանել մէջբերումից յետոյ">
+<!ENTITY selectAndQuote.label                 "ընտրել մէջբերումը">
+<!ENTITY place.accesskey                      "s">
+<!ENTITY belowText.label                      "մէջբերումից յետոյ (խորհուրդ է տրուում)">
+<!ENTITY aboveText.label                      "իմ պատասխանից յետոյ (մեջբերումից առաջ)">
+<!ENTITY includeSigOnReply.accesskey          "I">
+<!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.accesskey      "P">
