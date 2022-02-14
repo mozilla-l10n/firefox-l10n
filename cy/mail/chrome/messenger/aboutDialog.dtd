@@ -38,7 +38,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "cymuned fyd-eang">
+<!ENTITY community.creditsLink      "chymuned fyd-eang">
 <!ENTITY community.end3             " sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.">
 
 <!ENTITY helpus.start               "Hoffech chi helpu? ">
