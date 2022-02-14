@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = Txikitu
+messenger-window-maximize-button =
+    .tooltiptext = Maximizatu
+messenger-window-restore-down-button =
+    .tooltiptext = Leheneratu txikira
+messenger-window-close-button =
+    .tooltiptext = Itxi
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -9,7 +20,6 @@ unread-messages-os-tooltip =
         [one] Irakurri gabeko mezu 1
        *[other] { $count } mezu irakurri gabe
     }
-
 about-rights-notification-text = { -brand-short-name } kode irekikoa eta software librea da, munduan zehar milaka kide dituen komunitateak egina.
 
 ## Content tabs
@@ -26,11 +36,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Gehigarriak eta itxurak
     .tooltiptext = Kudeatu zure gehigarriak
-
 quick-filter-toolbarbutton =
     .label = Iragazki bizkorra
     .tooltiptext = Iragazi mezuak
-
 redirect-msg-button =
     .label = Birbideratzea
     .tooltiptext = Birbideratu hautatutako mezua
@@ -40,10 +48,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Karpeten panelaren tresna-barra
     .accesskey = K
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Karpeten panelaren aukerak
-
 folder-pane-header-label = Karpetak
 
 ## Folder Toolbar Header Popup
@@ -51,27 +57,21 @@ folder-pane-header-label = Karpetak
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ezkutatu tresna-barra
     .accesskey = E
-
 show-all-folders-label =
     .label = Karpeta guztiak
     .accesskey = K
-
 show-unread-folders-label =
     .label = Irakurri gabeko karpetak
     .accesskey = I
-
 show-favorite-folders-label =
     .label = Gogoko karpetak
     .accesskey = G
-
 show-smart-folders-label =
     .label = Elkartutako karpetak
     .accesskey = E
-
 show-recent-folders-label =
     .label = Azken karpetak
     .accesskey = A
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Ikuspegi trinkoa
     .accesskey = t
@@ -81,6 +81,9 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Birbideratzea
     .accesskey = B
+menu-file-save-as-file =
+    .label = Fitxategia…
+    .accesskey = F
 
 ## AppMenu
 
@@ -88,19 +91,18 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Hobespenak
-
+appmenu-save-as-file =
+    .label = Fitxategia…
+appmenu-settings =
+    .label = Ezarpenak
 appmenu-addons-and-themes =
     .label = Gehigarriak eta itxurak
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Arazoak konpontzeko modua…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
-
 appmenu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
-
 appmenu-redirect-msg =
     .label = Birbideratzea
 
@@ -108,11 +110,23 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Birbideratzea
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Ezabatu mezua
+           *[other] Ezabatu hautatutako mezuak
+        }
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Birbideratzea
+message-header-msg-flagged =
+    .title = Izarduna
+    .aria-label = I
+message-header-msg-not-flagged =
+    .title = Izarrik gabeak
+    .aria-label = g
 
 ## Action Button Context Menu
 
@@ -127,7 +141,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Helbidea helbide-liburuan dago
-
 message-header-address-not-in-address-book-icon =
     .alt = Helbidea ez dago helbide-liburuan
 
@@ -138,11 +151,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } kendu?
 addon-removal-confirmation-button = Kendu
 addon-removal-confirmation-message = Kendu { $name } eta bere konfigurazio eta datuak { -brand-short-name }(e)tik?
-
 caret-browsing-prompt-title = Kurtsore bidezko nabigazioa
 caret-browsing-prompt-text = F7 zapaltzeak kurtsore bidezko nabigazioa gaitzen edo desgaitzen du. Eginbide honek zenbait edukitan kurtsore bat ezartzen du testua teklatuarekin aukeratzea baimenduz. Kurtsore bidezko nabigazioa gaitu nahi duzu?
 caret-browsing-prompt-check-text = Ez galdetu berriz.
-
 repair-text-encoding-button =
     .label = Konpondu testu kodeketa
     .tooltiptext = Testuaren kodeketa zuzena asmatu mezuaren edukian oinarrituz
@@ -152,3 +163,21 @@ repair-text-encoding-button =
 no-reply-title = Ezin da erantzun
 no-reply-message = Erantzuneko posta helbidea ({ $email }) ez dirudi inork kontrolatutakoa. Litekeena da bertara idatzitako mezuak inork ez irakurtzea.
 no-reply-reply-anyway-button = Erantzun hala ere
+
+## error messages
+
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Aldatu posten fitxara
+spaces-toolbar-button-address-book =
+    .title = Aldatu helbide-liburu fitxara
+spaces-toolbar-button-calendar =
+    .title = Aldatu egutegiaren fitxara
+spaces-toolbar-button-tasks =
+    .title = Aldatu zereginen fitxara
+spaces-toolbar-button-chat =
+    .title = Aldatu txat fitxara
+spaces-toolbar-button-settings =
+    .title = Aldatu ezarpenen fitxara

@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 chat-title = Txat-kontuak
+chat-table-heading-account = ID
+chat-table-heading-protocol = Protokoloa
+chat-table-heading-name = Izena
+chat-table-heading-actions = Ekintzak
