@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-menu-bar =
+    .toolbarname = Menu-barra
+    .accesskey = M
 
 ## Tools Menu
 
@@ -10,6 +13,9 @@
 menu-tools-preferences =
     .label = Hobespenak
     .accesskey = H
+menu-tools-settings =
+    .label = Ezarpenak
+    .accesskey = E
 menu-addons-and-themes =
     .label = Gehigarriak eta itxurak
     .accesskey = G
