@@ -10,6 +10,7 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "Չկայ">
 
 <!-- am-addressing.xhtml -->
 
