@@ -13,7 +13,7 @@ opensearch-error-duplicate-desc = { -brand-short-name } не зміг устан
 opensearch-error-format-title = Некоректний формат
 opensearch-error-format-desc = { -brand-short-name } не зміг установити засіб пошуку з: { $location-url }
 opensearch-error-download-title = Помилка завантаження
-opensearch-error-download-desc = { -brand-short-name } не зміг завантажити засіб пошуку з: { $location-url }
+opensearch-error-download-desc = { -brand-short-name } не зміг завантажити плагін пошуку з: { $location-url }
 
 ##
 
