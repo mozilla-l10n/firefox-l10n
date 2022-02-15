@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tag-dialog-window =
-    .title = Nýtt tag
+    .title = Nýtt merki
 tag-name-label =
-    .value = Nafn flokks:
+    .value = Nafn merkis:
     .accesskey = f
 tag-color-label =
     .value = Litur:
