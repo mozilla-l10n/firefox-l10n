@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Meld dig til med { -brand-product-name }
 pocket-panel-signup-tagline = Gemmer artikler og videoer fra { -brand-product-name } i { -pocket-brand-name }, så du senere kan se dem hvor og hvornår, du har lyst.
 pocket-panel-signup-tagline-story-one = Klik på knappen { -pocket-brand-name } for at gemme en artikel, video eller webside fra { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Se i { -pocket-brand-name } hvor og hvornår, du har lyst.
+pocket-panel-signup-cta-a = Din gem-knap til internettet.
+pocket-panel-signup-cta-b = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links. Se din liste på alle dine enheder når som helst.
+pocket-panel-signup-cta-c = Se din liste på alle dine enheder når som helst.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = Du kan bruge { -pocket-brand-name } til at udforsk
 pocket-panel-home-explore-popular-topics = Udforsk populære emner
 pocket-panel-home-discover-more = Opdag mere
 pocket-panel-home-explore-more = Udforsk
+pocket-panel-home-most-recent-saves = Her er de seneste ting, du har gemt:
+pocket-panel-home-new-user-cta = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links.
+pocket-panel-home-new-user-message = Se de seneste ting, du har gemt.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Vis min liste
 pocket-panel-header-sign-in = Log ind
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Vis alle
+pocket-panel-button-add-tags = Tilføj mærkater
+pocket-panel-button-activate = Aktiver { -pocket-brand-name } i { -brand-product-name }
