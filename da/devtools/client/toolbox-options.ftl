@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Slå remote debugging til
 options-enable-remote-tooltip2 =
     .title = Tillader at fjern-debugge denne instans af browseren.
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Aktiver tilpasset formatering
+options-enable-custom-formatters-tooltip =
+    .title = Aktivering af denne indstilling tillader websteder at definere tilpasset formatering for DOM-objekter
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktiver service workers over HTTP (når værktøjerne er åbnet)
 options-enable-service-workers-http-tooltip =
