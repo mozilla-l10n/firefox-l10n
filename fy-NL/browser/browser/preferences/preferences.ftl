@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Dizze ynstelling is fan tapassin
 update-application-use-service =
     .label = Brûk in eftergrûntsjinst om fernijingen te ynstallearjen
     .accesskey = a
+update-application-suppress-prompts =
+    .label = Minder updatemeldingen toane
+    .accesskey = m
 update-setting-write-failure-title2 = Flater by bewarjen fernijingsfoarkarren
 # Variables:
 #   $path (String) - Path to the configuration file
