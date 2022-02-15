@@ -32,7 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Spjallreikningur…">
 <!ENTITY newIMAccountCmd.accesskey "S">
-<!ENTITY newFeedAccountCmd.label "Straum reikningur…">
+<!ENTITY newFeedAccountCmd.label "Streymisreikningur…">
 <!ENTITY newFeedAccountCmd.accesskey "S">
 <!ENTITY newIMContactCmd.label "Spjalltengiliður…">
 <!ENTITY newIMContactCmd.accesskey "p">
@@ -105,7 +105,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Velja">
 <!ENTITY selectMenu.accesskey "V">
-<!ENTITY all.label "Allir">
+<!ENTITY all.label "Allt">
 <!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "Umræða">
 <!ENTITY selectThreadCmd.accesskey "U">

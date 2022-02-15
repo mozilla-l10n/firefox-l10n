@@ -8,7 +8,7 @@
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
-<!ENTITY newMenu.label "Nýr">
+<!ENTITY newMenu.label "Nýtt">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Póstur">
 <!ENTITY newMessageCmd2.key "N">
