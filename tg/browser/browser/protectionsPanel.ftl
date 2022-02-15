@@ -33,6 +33,8 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Чаро?
+protections-panel-not-blocking-why-etp-on-tooltip = Амали манъкунӣ метавонад унсурҳои баъзе сомонаҳоро вайрон кунад. Бе васоити пайгирӣ баъзе тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд кор накунанд.
+protections-panel-not-blocking-why-etp-off-tooltip = Ҳамаи васоити пайгирӣ дар ин сомона бор карда шудаанд, зеро ки муҳофизат ғайрифаъол аст.
 
 ##
 
