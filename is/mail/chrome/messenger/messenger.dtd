@@ -186,7 +186,7 @@
 <!ENTITY sortBySizeCmd.accesskey "æ">
 <!ENTITY sortByStatusCmd.label "Stöðu">
 <!ENTITY sortByStatusCmd.accesskey "ð">
-<!ENTITY sortByTagsCmd.label "Flokkum">
+<!ENTITY sortByTagsCmd.label "Merki">
 <!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Ruslpóstsstöðu">
 <!ENTITY sortByJunkStatusCmd.accesskey "p">
@@ -395,7 +395,7 @@
 <!ENTITY watchThreadMenu.label "Fylgjast með umræðu">
 <!ENTITY watchThreadMenu.accesskey "F">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY tagMenu.label "Flokkur">
+<!ENTITY tagMenu.label "Merki">
 <!ENTITY tagMenu.accesskey "o">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -544,7 +544,7 @@
 <!ENTITY searchItem.title "Flýtileit">
 <!ENTITY mailViewsToolbarItem.title "Póstsýnir">
 <!ENTITY folderLocationToolbarItem.title "Möppustaðsetning">
-<!ENTITY tagButton.label "Flokkur">
+<!ENTITY tagButton.label "Merki">
 <!ENTITY compactButton.label "Þjappa">
 <!ENTITY appmenuButton.label "AppMenu">
 
@@ -574,7 +574,7 @@
 <!ENTITY stopButton.tooltip "Stöðva núverandi sendingu">
 <!ENTITY addressBookButton.tooltip "Fara í nafnaskrá">
 <!ENTITY chatButton.tooltip "Sýna spjallflipann">
-<!ENTITY tagButton.tooltip "Flokka póst">
+<!ENTITY tagButton.tooltip "Merkja skilaboð">
 <!ENTITY compactButton.tooltip "Eyða eyddum póstum frá valinni möppu">
 <!ENTITY appmenuButton1.tooltip "Birta &brandShortName; valmynd">
 
@@ -607,9 +607,9 @@
 <!ENTITY appmenuSelectFlagged.label "Velja stjörnumerkt skilaboð">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Nýr flokkur…">
+<!ENTITY addNewTag.label "Nýtt merki…">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Sýsla með tög…">
+<!ENTITY manageTags.label "Sýsla með merki…">
 <!ENTITY manageTags.accesskey "m">
 
 <!-- Folder Pane -->
@@ -685,7 +685,7 @@
 <!ENTITY subjectColumn.label "Efni">
 <!ENTITY dateColumn.label "Dagsetning">
 <!ENTITY priorityColumn.label "Forgangur">
-<!ENTITY tagsColumn.label "Flokkur">
+<!ENTITY tagsColumn.label "Merki">
 <!ENTITY accountColumn.label "Reikningur">
 <!ENTITY statusColumn.label "Staða">
 <!ENTITY sizeColumn.label "Stærð">
@@ -710,7 +710,7 @@
 <!ENTITY subjectColumn2.tooltip "Flokka eftir efnislínu">
 <!ENTITY dateColumn2.tooltip "Raða eftir Dags">
 <!ENTITY priorityColumn2.tooltip "Raða eftir forgangi">
-<!ENTITY tagsColumn2.tooltip "Raða eftir tögum">
+<!ENTITY tagsColumn2.tooltip "Raða eftir merkjum">
 <!ENTITY accountColumn2.tooltip "Raða eftir reikningi">
 <!ENTITY statusColumn2.tooltip "Raða eftir stöðu">
 <!ENTITY sizeColumn2.tooltip "Raða eftir Stærð">
