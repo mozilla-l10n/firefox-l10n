@@ -157,8 +157,8 @@ security-no-visits = Nei
 general-meta-tags =
     .value =
         { $tags ->
-            [one] Meta (1 tag)
-           *[other] Meta ({ $tags } tags)
+            [one] Meta (1 merki)
+           *[other] Meta ({ $tags } merki)
         }
 # This string is used to display the number of times
 # the user has visited the website prior
