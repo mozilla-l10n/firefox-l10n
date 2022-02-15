@@ -47,3 +47,11 @@ pocket-panel-home-paragraph = { -pocket-brand-name } erabil dezakezu webguneak, 
 pocket-panel-home-explore-popular-topics = Arakatu puri-purian dauden gaiak
 pocket-panel-home-discover-more = Aurkitu gehiago
 pocket-panel-home-explore-more = Arakatu
+
+## Pocket panel header component
+
+pocket-panel-header-sign-in = Hasi saioa
+
+## Pocket panel buttons
+
+pocket-panel-button-add-tags = Gehitu etiketak
