@@ -200,6 +200,10 @@ shortcuts-letter = یک حرف تایپ کنید
 shortcuts-system = نمی‌توان یک میانبر { -brand-short-name } را باطل کرد
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = میانبر تکراری
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } به عنوان میانبر در بیشتر از یک مورد استفاده شده. میانبرهای تکراری می‌توانند باعث رفتارهای غیر منتظره شوند.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
