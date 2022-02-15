@@ -23,7 +23,7 @@
 <!ENTITY viewMenu.label          "Napohlad">
 <!ENTITY viewMenu.accesskey        "N">
 <!ENTITY viewToolbarsMenu.label        "Symbolowe lajsty">
-<!ENTITY viewToolbarsMenu.accesskey      "c">
+<!ENTITY viewToolbarsMenu.accesskey      "S">
 <!ENTITY showTaskbarCmd.label          "Statusowa lajsta">
 <!ENTITY showTaskbarCmd.accesskey        "s">
 
