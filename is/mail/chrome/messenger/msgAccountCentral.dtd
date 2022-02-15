@@ -9,7 +9,7 @@
 <!ENTITY newsSectionHdr.label         "Fréttahópar">
 <!ENTITY subscribeNewsLink.label      "Sýsla með áskriftir að fréttahópum">
 
-<!ENTITY feedsSectionHdr.label        "Straumar">
+<!ENTITY feedsSectionHdr.label        "Streymi">
 <!ENTITY subscribeFeeds.label         "Stilla áskriftir">
 
 <!ENTITY chat.label                   "Spjall">

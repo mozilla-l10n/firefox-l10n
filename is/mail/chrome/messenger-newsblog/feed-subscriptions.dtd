@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Straumaáskriftir">
-<!ENTITY learnMore.label             "Fræðast meira um strauma">
+<!ENTITY feedSubscriptions.label     "Streymisáskriftir">
+<!ENTITY learnMore.label             "Fræðast meira um streymi">
 
 <!ENTITY feedTitle.label             "Titill:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Straumslóð:">
+<!ENTITY feedLocation.label          "Streymislóð:">
 <!ENTITY feedLocation.accesskey      "u">
-<!ENTITY feedLocation2.placeholder   "Sláðu inn gilda vefslóð straums">
+<!ENTITY feedLocation2.placeholder   "Sláðu inn gilda vefslóð streymis">
 <!ENTITY locationValidate.label      "Sannreyna">
 <!ENTITY validateText.label          "Athuga sannprófun og ná í rétt veffang.">
 
@@ -30,7 +30,7 @@
 <!ENTITY quickMode.label             "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.label         "Búa sjálkrafa til tög frá &lt;flokka&gt; nöfnum straums">
+<!ENTITY autotagEnable.label         "Búa sjálkrafa til merki út frá nöfnum &lt;flokka&gt; streymis">
 <!ENTITY autotagEnable.accesskey     "B">
 <!ENTITY autotagUsePrefix.label      "Setja forskeyti á tög:">
 <!ENTITY autotagUsePrefix.accesskey  "S">
@@ -49,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "i">
 <!ENTITY button.exportOPML.label     "Flytja út">
 <!ENTITY button.exportOPML.accesskey "t">
-<!ENTITY button.exportOPML.tooltip   "Flytja út strauma með möppulista; ctrl smelltu eða ctrl enter til að flytja út strauma sem lista">
+<!ENTITY button.exportOPML.tooltip   "Flytja út streymi með möppulista; Ctrl+smelltu eða Ctrl+Enter til að flytja út streymi sem lista">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Loka">

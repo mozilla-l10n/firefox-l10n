@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffAll.label                 "Virkja uppfærslur fyrir alla strauma">
+<!ENTITY biffAll.label                 "Virkja uppfærslur fyrir öll streymi">
 <!ENTITY biffAll.accesskey             "V">
 
-<!ENTITY newFeedSettings.label         "Sjálfgefnar stillingar fyrir nýja strauma">
+<!ENTITY newFeedSettings.label         "Sjálfgefnar stillingar fyrir ný streymi">
 
 <!ENTITY manageSubscriptions.label     "Sýsla með áskriftir…">
 <!ENTITY manageSubscriptions.accesskey "S">
 
 <!ENTITY feedWindowTitle.label         "Leiðarvísir fyrir streymisreikning">
-<!ENTITY feeds.accountName             "Blogg og fréttastraumar">
+<!ENTITY feeds.accountName             "Blogg og fréttastreymi">
