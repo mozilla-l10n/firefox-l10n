@@ -9,7 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Помилка встановлення
-opensearch-error-duplicate-desc = { -brand-short-name } не зміг встановити засіб пошуку з „{ $location-url }“ бо засіб з таким ім’ям вже існує.
+opensearch-error-duplicate-desc = { -brand-short-name } не зміг установити плагін пошуку з «{ $location-url }», оскільки засіб пошуку з таким іменем уже існує.
 opensearch-error-format-title = Некоректний формат
 opensearch-error-format-desc = { -brand-short-name } не зміг установити засіб пошуку з: { $location-url }
 opensearch-error-download-title = Помилка завантаження
