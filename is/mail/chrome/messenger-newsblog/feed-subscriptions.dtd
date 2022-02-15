@@ -32,9 +32,9 @@
 
 <!ENTITY autotagEnable.label         "Búa sjálkrafa til merki út frá nöfnum &lt;flokka&gt; streymis">
 <!ENTITY autotagEnable.accesskey     "B">
-<!ENTITY autotagUsePrefix.label      "Setja forskeyti á tög:">
+<!ENTITY autotagUsePrefix.label      "Setja forskeyti á merki:">
 <!ENTITY autotagUsePrefix.accesskey  "S">
-<!ENTITY autoTagPrefix.placeholder   "Sláðu inn forskeyti fyrir tög">
+<!ENTITY autoTagPrefix.placeholder   "Settu inn forskeyti fyrir merki">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Bæta við">

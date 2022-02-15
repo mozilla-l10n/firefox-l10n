@@ -12,7 +12,7 @@
 <!ENTITY viewUnread.accesskey "l">
 <!ENTITY viewNotDeleted.label "Ekki eytt">
 <!ENTITY viewNotDeleted.accesskey "e">
-<!ENTITY viewTags.label "Flokkar">
+<!ENTITY viewTags.label "Merki">
 <!ENTITY viewTags.accesskey "F">
 <!ENTITY viewCustomViews.label "Sérsniðin sýn">
 <!ENTITY viewCustomViews.accesskey "S">

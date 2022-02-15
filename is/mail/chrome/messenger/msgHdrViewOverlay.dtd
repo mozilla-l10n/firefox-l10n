@@ -14,7 +14,7 @@
 <!ENTITY bccField4.label "Falið afrit">
 <!ENTITY newsgroupsField4.label "Fréttahópa">
 <!ENTITY followupToField4.label "Áframsending á">
-<!ENTITY tagsHdr4.label "Flokkar">
+<!ENTITY tagsHdr4.label "Merki">
 <!ENTITY dateField4.label "Dagsetning">
 <!ENTITY userAgentField4.label "Notandaauðkenni">
 <!ENTITY referencesField4.label "Tilvitnanir">

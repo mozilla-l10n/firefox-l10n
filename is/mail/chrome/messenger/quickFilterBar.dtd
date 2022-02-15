@@ -89,14 +89,14 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Flokkar">
+         "Merki">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Sýna aðeins póst sem er flokkaður">
+         "Birta aðeins skilaboð með merkjum á þeim">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -177,7 +177,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanMode.tooltip "Flokkunarsía">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Merkjasíunarhamur">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
@@ -187,7 +187,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Að minnsta kosti ein valinn flokkunarsía verður að passa">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Að minnsta kosti eitt af völdum merkjaskilyrðum ætti að passa">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
@@ -197,7 +197,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "Allar valdar flokkunarsíur verða að passa">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Öll völdu merkisskilyrðin verða að passa">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
@@ -224,7 +224,7 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Sia pósta eftir:">
+         "Sía skilaboð eftir:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
