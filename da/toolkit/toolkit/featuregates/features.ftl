@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Aktiverer den eksperimentelle funktion med CSS Masonry-layout. Læs <a data-l10n-name="explainer">denne artikel</a> for at få et overblik over funktionen. Hvis du har feedback, så skriv gerne en kommentar på <a data-l10n-name="w3c-issue">dette issue på GitHub</a> eller på <a data-l10n-name="bug">denne bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Aktiverer understørrelse af CSS Cascade Layers. Se flere detaljer i <a data-l10n-name="spec">den foreløbige specifikation</a>. Rapportér gerne fejl med denne funktionalitet på <a data-l10n-name="bugzilla">bug 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Denne nye API giver low-level understøttelse til at anvende <a data-l10n-name="wikipedia">grafikprocessoren (GPU)</a> i brugerens enhed eller computer til at lave beregninger eller rendere grafik. <a data-l10n-name="spec">Specifikationen</a> er stadig ved at blive udarbejdet . Se flere detaljer på <a data-l10n-name="bugzilla">bug 1602129</a>.
@@ -94,3 +89,7 @@ experimental-features-multi-pip-description = Eksperimentel understøttelse for,
 experimental-features-ime-search =
     .label = Adressefelt: Vis resulter under IME-komponering
 experimental-features-ime-search-description = En IME (Input Method Editor) er et værktøj, der lader dig indtaste komplekse symboler med et almindeligt tastatur, fx symboler fra øst-asiatiske og indiske skriftsprog. Ved aktivering af dette eksperiment holdes adressefeltet åbent med søgeresultater og forslag, når du bruger IME til at indtaste tekst. Bemærk, at IME kan vise et panel, der dækker for resultaterne i adressefeltet. Derfor foreslås denne indstilling kun for IME, der ikke anvender denne type af panel.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name }100 User-Agent-streng
+experimental-features-firefox-100-description = Gør at { -brand-short-name } sender websteder en User-Agent-streng, der præsenterer browseren som { -brand-product-name } version 100. Brug denne indstilling til at teste, om websteder vil fejle, når { -brand-short-name } når et versionsnummer med tre cifre. Den rigtige { -brand-product-name } 100 lanceres efter planen i maj 2022, så test dine websteder nu.
