@@ -24,6 +24,8 @@ more-from-moz-mozilla-rally-description-advanced = Donér dine data til undersø
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Deltag i { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Deltag i { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Hent med din mobil-enhed. Peg kameraet på QR-koden og tryk på linket, når det dukker op.
 more-from-moz-qr-code-box-firefox-mobile-button = Send en mail til din telefon i stedet.
 more-from-moz-button-mozilla-vpn =
