@@ -10,21 +10,21 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = Bæta við flokkum
+    .placeholder = Bæta við merkjum
 pocket-panel-saved-error-generic = Upp kom villa við að vista á { -pocket-brand-name }.
-pocket-panel-saved-error-tag-length = Tög eru takmörkuð við 25 stafi
+pocket-panel-saved-error-tag-length = Merki eru takmörkuð við 25 stafi
 pocket-panel-saved-error-only-links = Aðeins er hægt að vista tengla
 pocket-panel-saved-error-not-saved = Ekki tókst að vista síðu
 pocket-panel-saved-error-no-internet = Þú verður að vera tengdur við internetið til að vista í { -pocket-brand-name }. Tengdu þig við internetið og reyndu aftur.
 pocket-panel-saved-page-removed = Síða fjarlægð
 pocket-panel-saved-page-saved = Vistað í { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Fjarlægi síðu…
-pocket-panel-saved-processing-tags = Bæti við flokkum…
+pocket-panel-saved-processing-tags = Bæti við merkjum...
 pocket-panel-saved-remove-page = Fjarlægja síðu
 pocket-panel-saved-save-tags = Vista
 pocket-panel-saved-saving-tags = Vista…
-pocket-panel-saved-suggested-tags = Flokkar sem mælt er með
-pocket-panel-saved-tags-saved = Bætti við flokkum
+pocket-panel-saved-suggested-tags = Tillögur að merkjum
+pocket-panel-saved-tags-saved = Merkjum bætt við
 pocket-panel-signup-view-list = Skoða lista
 
 ## about:pocket-signup panel

@@ -42,7 +42,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Nafn">
-<!ENTITY col.tags.label          "Tög">
+<!ENTITY col.tags.label          "Merki">
 <!ENTITY col.url.label           "Staðsetning">
 <!ENTITY col.mostrecentvisit.label "Nýjasta heimsókn">
 <!ENTITY col.visitcount.label    "Fjöldi heimsókna">
