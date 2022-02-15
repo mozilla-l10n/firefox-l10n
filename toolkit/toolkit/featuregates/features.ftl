@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Enables support for the experimental CSS Masonry Layout feature. See the <a data-l10n-name="explainer">explainer</a> for a high level description of the feature. To provide feedback, please comment in <a data-l10n-name="w3c-issue">this GitHub issue</a> or <a data-l10n-name="bug">this bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Enables support for CSS Cascade Layers. See the <a data-l10n-name="spec">in-progress specification</a> for details. File bugs blocking <a data-l10n-name="bugzilla">bug 1699215</a> for bugs related to this feature.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = This new API provides low-level support for performing computation and graphics rendering using the <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> of the user’s device or computer. The <a data-l10n-name="spec">specification</a> is still a work-in-progress. See <a data-l10n-name="bugzilla">bug 1602129</a> for more details.
@@ -94,3 +89,7 @@ experimental-features-multi-pip-description = Experimental support for allowing 
 experimental-features-ime-search =
     .label = Address Bar: show results during IME composition
 experimental-features-ime-search-description = An IME (Input Method Editor) is a tool that allows you to enter complex symbols, such as those used in East Asian or Indic written languages, using a standard keyboard. Enabling this experiment will keep the address bar panel open, showing search results and suggestions, while using IME to input text. Note that the IME might display a panel that covers the address bar results, therefore this preference is only suggested for IME not using this type of panel.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 User-Agent String
+experimental-features-firefox-100-description = Make { -brand-short-name } send websites a User-Agent string that pretends to be { -brand-product-name } version 100. Use this setting to test whether websites will break when { -brand-short-name } hits a three-digit version number. The real { -brand-product-name } 100 is scheduled to be released in May 2022, so start testing your websites now!

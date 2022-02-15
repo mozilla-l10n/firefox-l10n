@@ -52,6 +52,10 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Open In System Viewer
     .accesskey = I
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Open In { $handler }
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -75,6 +79,12 @@ downloads-cmd-show-description =
             [macos] Show In Finder
            *[other] Open Containing Folder
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Always Open In { $handler }
+    .accesskey = w
 
 ##
 

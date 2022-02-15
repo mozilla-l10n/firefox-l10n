@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Add Tags
-
 pocket-panel-saved-error-generic = There was an error when trying to save to { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags are limited to 25 characters
 pocket-panel-saved-error-only-links = Only links can be saved
@@ -48,3 +47,11 @@ pocket-panel-home-paragraph = You can use { -pocket-brand-name } to explore and 
 pocket-panel-home-explore-popular-topics = Explore Popular Topics
 pocket-panel-home-discover-more = Discover More
 pocket-panel-home-explore-more = Explore
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = View My List
+pocket-panel-header-sign-in = Sign In
+
+## Pocket panel buttons
+
