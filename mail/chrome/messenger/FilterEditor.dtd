@@ -44,7 +44,7 @@
 <!ENTITY markMessageUnread.label "Merkja sem ólesið">
 <!ENTITY markMessageStarred.label "Stjörnumerkja">
 <!ENTITY setPriority.label "Setja mikilvægi sem">
-<!ENTITY addTag.label "Flokka póst">
+<!ENTITY addTag.label "Merkja skilaboð">
 <!ENTITY setJunkScore.label "Setja ruslpóstsstöðu sem">
 <!ENTITY deleteMessage.label "Eyða pósti">
 <!ENTITY deleteFromPOP.label "Eyða af POP-póstþjóni">
