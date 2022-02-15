@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = This setting will apply to all W
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
+update-application-suppress-prompts =
+    .label = Show fewer update notification prompts
+    .accesskey = n
 update-setting-write-failure-title2 = Error saving Update settings
 # Variables:
 #   $path (String) - Path to the configuration file
