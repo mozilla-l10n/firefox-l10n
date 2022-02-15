@@ -6,7 +6,7 @@
 
 <!ENTITY fileMenu.label          "Skrá">
 <!ENTITY fileMenu.accesskey        "S">
-<!ENTITY newMenu.label            "Nýr">
+<!ENTITY newMenu.label            "Nýtt">
 <!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "Breyta">

@@ -6,7 +6,7 @@
 
 <!ENTITY viewPicker.label "Sýn:">
 <!ENTITY viewPicker.accesskey "S">
-<!ENTITY viewAll.label "Allir">
+<!ENTITY viewAll.label "Allt">
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "Ólesið">
 <!ENTITY viewUnread.accesskey "l">
