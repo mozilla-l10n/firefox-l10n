@@ -92,3 +92,4 @@ experimental-features-ime-search-description = Sinbolo konplexuak (Asia Ekialdek
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 User-Agent katea
+experimental-features-firefox-100-description = Konfiguratu { -brand-short-name } webguneetara 100. { -brand-product-name } bertsioaren itxurak egiten dituen User-Agent karaktere-katea bidaltzeko. Erabili ezarpen hau probatzeko webguneak ondo arituko diren { -brand-short-name } hiru digituko bertsio-zenbakira heltzen denean. Benetako { -brand-product-name } 100 bertsioa 2022ko maiatzean kaleratzea espero da, beraz hasi orain zure webguneak probatzen!
