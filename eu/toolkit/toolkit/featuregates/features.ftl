@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = CSS Masonry Layout eginbide esperimentalaren euskarria gaitzen du. Ikusi <a data-l10n-name="explainer">azalpena</a> eginbidearen goi mailako deskribapen baterako. Iritzia emateko, idatzi iruzkina <a data-l10n-name="w3c-issue">GitHub issue honetan</a> edo <a data-l10n-name="bug">bug honetan</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: teilakatutako geruzak
-experimental-features-css-cascade-layers-description = CSS teilakatutako geruzen euskarria gaitzen du. Xehetasunetarako ikusi <a data-l10n-name="spec">lantze-fasean dagoen espezifikazioa<</a>. Eginbide honekin lotutako akatsetarako, osatu bug berriak <a data-l10n-name="bugzilla">1699215 buga</a> blokeatuz.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = API berri honek behe mailako euskarria ematen du konputazioak eta grafikoen errendatzea burutzeko erabiltzailearen gailu edo ordenagailuko <a data-l10n-name="wikipedia">GPUa</a> erabiliz. <a data-l10n-name="spec">Espezifikazioa</a> oraindik lantze-fasean dago. Ikusi <a data-l10n-name="bugzilla">1602129 buga</a> xehetasun gehiagorako.
@@ -94,3 +89,6 @@ experimental-features-multi-pip-description = Euskarri esperimentala denbora ber
 experimental-features-ime-search =
     .label = Helbide-barra: erakutsi emaitzak IME konposizioan
 experimental-features-ime-search-description = Sinbolo konplexuak (Asia Ekialdeko edo Indiako hizkuntza idatzietakoak, adibidez) teklatu bidez idaztea baimentzen duen tresna da IME bat (Input Method Editor). Esperimentu hau gaitzean helbide-barra irekita mantenduko da, bilaketa-emaitzak eta iradokizunak erakutsiz IME erabili ahala testua idazteko. Konturatu IMEak helbide-barrako emaitzen gainetik bistara dezakeela panel bat, hortaz hobespen hau gomendatzen da soilik IMEak mota honetako panela erabiltzen ez duenean.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 User-Agent katea

@@ -24,8 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = Egin zure datuen dohaintza pe
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Egin bat { -rally-short-name }-rekin
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Egin bat { -rally-short-name }-rekin
 more-from-moz-qr-code-box-firefox-mobile-title = Deskargatu zure gailu mugikorrarekin. Apuntatu kamera QR kodera. Lotura agertzean, sakatu.
 more-from-moz-qr-code-box-firefox-mobile-button = Honen ordez, bidali mezu elektronikoa zure telefonora
 more-from-moz-button-mozilla-vpn =
     .label = Lortu VPNa
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Mugikorrerako { -brand-product-name } deskargatzeko QR kodea
+more-from-moz-button-mozilla-vpn-2 = Lortu VPNa
 more-from-moz-learn-more-link = Argibide gehiago
