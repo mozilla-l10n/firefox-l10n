@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Registreren met { -brand-product-name }
 pocket-panel-signup-tagline = Sla artikelen en video’s vanuit { -brand-product-name } op voor weergeven in { -pocket-brand-name } op diverse apparaten, wanneer dan ook.
 pocket-panel-signup-tagline-story-one = Klik op de { -pocket-brand-name }-knop om artikelen, video’s of pagina’s vanuit { -brand-product-name } op te slaan.
 pocket-panel-signup-tagline-story-two = Bekijk ze in { -pocket-brand-name } op diverse apparaten, wanneer dan ook.
+pocket-panel-signup-cta-a = Uw bewaarknop voor het internet.
+pocket-panel-signup-cta-b = Klik op de knop { -pocket-brand-name } om artikelen, video’s en koppelingen op te slaan. Bekijk uw lijst op elk apparaat, wanneer dan ook.
+pocket-panel-signup-cta-c = Bekijk uw lijst op elk apparaat, wanneer dan ook.
 
 ## about:pocket-home panel
 
@@ -47,6 +50,9 @@ pocket-panel-home-paragraph = U kunt { -pocket-brand-name } gebruiken om webpagi
 pocket-panel-home-explore-popular-topics = Populaire onderwerpen verkennen
 pocket-panel-home-discover-more = Meer ontdekken
 pocket-panel-home-explore-more = Verkennen
+pocket-panel-home-most-recent-saves = Dit zijn uw meest recent opgeslagen items:
+pocket-panel-home-new-user-cta = Klik op de knop { -pocket-brand-name } om artikelen, video’s en koppelingen op te slaan.
+pocket-panel-home-new-user-message = Bekijk hier uw recent opgeslagen items.
 
 ## Pocket panel header component
 

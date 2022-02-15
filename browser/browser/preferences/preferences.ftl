@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Deze instelling is van toepassin
 update-application-use-service =
     .label = Een achtergrondservice gebruiken om updates te installeren
     .accesskey = a
+update-application-suppress-prompts =
+    .label = Minder updatemeldingen tonen
+    .accesskey = m
 update-setting-write-failure-title2 = Fout bij opslaan update-instellingen
 # Variables:
 #   $path (String) - Path to the configuration file
