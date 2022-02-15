@@ -374,6 +374,8 @@ popup-screen-sharing-always-block =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = ᱴᱮᱵᱽ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 
 ## DevTools F12 popup
 
