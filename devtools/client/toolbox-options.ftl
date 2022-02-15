@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Gaitu urruneko arazketa
 options-enable-remote-tooltip2 =
     .title = Aukera hau aktibatuz gero, nabigatzaile-instantzia hau urrunetik araztu ahal izango da
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Gaitu formateatzaile pertsonalizatuak
+options-enable-custom-formatters-tooltip =
+    .title = Aukera hau gaituz gero, DOM objektuen formateatzaile pertsonalizatuak zehaztu ahal izango dituzte guneek
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Gaitu zerbitzu-langileak HTTP bidez (tresna-kutxa irekita dagoenean)
 options-enable-service-workers-http-tooltip =

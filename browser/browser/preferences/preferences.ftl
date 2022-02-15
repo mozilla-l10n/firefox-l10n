@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Ezarpen honek Windows kontu guzt
 update-application-use-service =
     .label = Erabili atzeko planoko zerbitzua eguneraketak instalatzeko
     .accesskey = z
+update-application-suppress-prompts =
+    .label = Erakutsi eguneraketen jakinarazpen-gonbit gutxiago
+    .accesskey = x
 update-setting-write-failure-title2 = Errorea eguneraketa-ezarpenak gordetzean
 # Variables:
 #   $path (String) - Path to the configuration file
