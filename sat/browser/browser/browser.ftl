@@ -320,13 +320,21 @@ browser-window-minimize-button =
     .tooltiptext = ᱦᱩᱲᱤᱧ ᱩᱛᱟᱹᱨ ᱛᱮᱭᱟᱨ ᱢᱤᱫ
 browser-window-maximize-button =
     .tooltiptext = ᱢᱟᱨᱟᱝ ᱪᱷᱚ
+browser-window-restore-down-button =
+    .tooltiptext = ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱩᱟᱹᱲ
 browser-window-close-button =
     .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ᱮᱱᱮᱡ ᱪᱷᱚ
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = ᱥᱟᱰᱮ ᱛᱷᱤᱨ ᱦᱚᱪᱚᱮᱱᱟ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ ᱵᱟᱹᱰᱨᱟᱹ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱭᱼᱪᱤᱛᱟᱹᱨ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -345,6 +353,13 @@ browser-tab-unmute =
         [one] { $count } ᱴᱟᱵᱽ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
         [two] { $count } ᱴᱟᱵᱽ ᱠᱤᱱ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
        *[other] { $count } { $count } ᱴᱟᱵᱽ ᱠᱚ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ᱮᱱᱮᱡ ᱴᱮᱵᱽ
+        [one] { $count } ᱴᱮᱵᱽ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
+        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
+       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
     }
 
 ## Bookmarks toolbar items
