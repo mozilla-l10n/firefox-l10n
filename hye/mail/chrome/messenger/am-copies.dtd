@@ -4,14 +4,32 @@
 
 <!-- extracted from am-copies.xhtml -->
 
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.accesskey "C">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Ուղարկուած&quot; թղթապանակը՝">
+<!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Այլ.">
+<!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Նամակի արխիւները">
+<!ENTITY keepArchives.accesskey "K">
+<!ENTITY archiveHierarchyButton.label "Արխիւի ընտրանքներ…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Այլ.">
+<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY specialFolders.label "Սեւագրեր եւ կաղապարներ">
+<!ENTITY keepDrafts2.label "Պահել սեւագիր նամակները․">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Սեւագրեր&quot; թղթապանակում՝">
+<!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Այլ․">
+<!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templateInOtherFolder.label "Այլ.">
