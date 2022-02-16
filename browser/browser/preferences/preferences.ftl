@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Quest parameter pertutga tut ils
 update-application-use-service =
     .label = Utilisar in servetsch per installar actualisaziuns senza interrupziun
     .accesskey = r
+update-application-suppress-prompts =
+    .label = Mussar damain avis ad actualisaziuns
+    .accesskey = n
 update-setting-write-failure-title2 = Errur cun memorisar ils parameters per actualisaziuns
 # Variables:
 #   $path (String) - Path to the configuration file
