@@ -33,10 +33,30 @@
 <!ENTITY editMenu.label                                 "Խմբագրել">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Ջնջել">
-<!ENTITY deleteAbCmd.label                              "Ջնջել հասցէգիրքը">
+<!ENTITY deleteAbCmd.label                              "Ջնջել հասցէագիրքը">
 <!ENTITY deleteAbCmd.accesskey                          "D">
+<!ENTITY removeAbCmd.label                              "Հեռացնել հասցէագիրքը">
+<!ENTITY removeAbCmd.accesskey                          "d">
+<!ENTITY deleteListCmd.label                            "Ջնջել ցուցակները">
+<!ENTITY deleteListsCmd.label                           "Ջնջել ցուցակները">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY propertiesMenu.label                           "Յատկութիւններ">
+<!ENTITY propertiesMenu.accesskey                       "i">
+<!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Հասցէագրքի յատկութիւններ">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Փոստացանկի յատկութիւններ">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
+<!ENTITY viewMenu.accesskey                             "V">
+<!ENTITY viewToolbarsMenu.label                         "Գործիքագաւտիներ">
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
+<!ENTITY menubarCmd.label                               "Ցանկագաւտի">
+<!ENTITY menubarCmd.accesskey                           "M">
+<!ENTITY showAbToolbarCmd.label                         "Հասցէագրքի գործիքագաւտի">
+<!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Վիճակագաւտի">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
