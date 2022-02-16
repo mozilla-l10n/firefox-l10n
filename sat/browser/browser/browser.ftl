@@ -638,9 +638,17 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = ᱚᱞ ᱮᱱᱠᱚᱰᱤᱝ ᱥᱟᱡᱟᱣ ᱢᱮ
+    .tooltiptext = ᱥᱟᱦᱴᱟ ᱡᱤᱱᱤᱥ ᱠᱷᱚᱱ ᱚᱞ ᱮᱱᱠᱳᱰᱤᱝ ᱚᱱᱩᱢᱟᱹᱱ ᱢᱮ
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
+    .tooltiptext = ᱟᱢᱟᱜ ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ ᱢᱮᱱᱮᱡᱽ ᱢᱮ ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

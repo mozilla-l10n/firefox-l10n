@@ -4,6 +4,10 @@
 
 customize-mode-restore-defaults =
     .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
+customize-mode-menu-and-toolbars-header = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱵᱟᱨ ᱛᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱡᱤᱱᱤᱥ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱨᱮᱲ ᱢᱮᱱᱩ ᱛᱮ ᱚᱨ ᱟᱬᱜᱚᱭ ᱢᱮ ᱾
+customize-mode-overflow-list-title = ᱥᱟᱨᱮᱲ ᱢᱮᱱᱩ
+customize-mode-uidensity =
+    .label = ᱞᱟᱛᱮᱲ
 customize-mode-done =
     .label = ᱦᱩᱭᱮᱱᱟ
 customize-mode-lwthemes-menu-manage =
@@ -13,6 +17,10 @@ customize-mode-toolbars =
     .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱨ ᱠᱚ
 customize-mode-titlebar =
     .label = ᱧᱩᱛᱩᱢ ᱵᱟᱨ
+customize-mode-uidensity-menu-touch =
+    .label = ᱡᱚᱴᱮᱫ
+    .accesskey = T
+    .tooltiptext = ᱡᱚᱴᱮᱫ
 customize-mode-lwthemes =
     .label = ᱩᱭᱦᱟᱹᱨ
 customize-mode-lwthemes-menu-get-more =
