@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Ընդհանուր նախընտրութիւններ…">
+<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY useCustomPrefs.accesskey     "C">
+<!ENTITY requestReceipt.accesskey     "W">
+<!ENTITY leaveIt.accesskey            "I">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Տեղափոխել այն իմ &quot; ուղարկուած &quot; պանակում">
+<!ENTITY moveToSent.accesskey         "M">
+<!ENTITY returnSome.accesskey         "e">
+<!ENTITY never.accesskey              "N">
+<!ENTITY notInToCc.label              "Եթե իմ հասցէն ներառուած չէ նամակի «Ում» կամ «Պատճենացանկ» դաշտերում․">
+<!ENTITY notInToCc.accesskey          "T">
+<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY otherCases.label             "Մնացած բոլոր դէպքերում.">
+<!ENTITY otherCases.accesskey         "o">
+<!ENTITY askMe.label                  "Հարցրու ինձ">
+<!ENTITY alwaysSend.label             "Միշտ ուղարկել">
