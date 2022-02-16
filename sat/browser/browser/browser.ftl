@@ -727,6 +727,9 @@ navbar-print =
 navbar-home =
     .label = ᱚᱲᱟᱜ
     .tooltiptext = { -brand-short-name } ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
+navbar-library =
+    .label = ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ
+    .tooltiptext = ᱦᱛᱟᱹᱞ ᱧᱮᱞ ᱢᱮ, ᱥᱟᱺᱪᱟᱣ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ᱿ ᱟᱨ ᱟᱨᱡᱚᱸ
 navbar-search =
     .title = ᱥᱮᱸᱫᱽᱨᱟ
 # Name for the tabs toolbar as spoken by screen readers. The word
