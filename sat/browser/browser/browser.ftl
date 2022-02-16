@@ -709,6 +709,9 @@ edit-popup-settings =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱭᱼᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱫᱚ ᱡᱚᱡᱚᱢ ᱛᱤ ᱯᱟᱦᱴᱟ ᱥᱮᱫ ᱩᱪᱟᱹᱲ ᱢᱮ
+    .accesskey = R
 picture-in-picture-move-toggle-left =
     .label = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱭᱼᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱫᱚ ᱞᱮᱸᱜᱟ ᱛᱤ ᱯᱟᱦᱴᱟ ᱥᱮᱫ ᱩᱪᱟᱹᱲ ᱢᱮ
     .accesskey = L
@@ -755,4 +758,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>ᱢᱟᱲᱟ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱟᱢ?</strong> ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝ ᱠᱟᱹᱢᱤ { -brand-short-name } ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱷᱚᱱ <img data-l10n-name="icon"/> ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 restore-session-startup-suggestion-button = ᱫᱚᱠᱷᱟᱣ ᱟᱹᱧ ᱢᱮ ᱪᱮᱞᱠᱟ
