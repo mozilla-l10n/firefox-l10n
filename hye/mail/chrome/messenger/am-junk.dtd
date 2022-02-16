@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Թափոնի կարգաւորումներ">
+<!ENTITY junkSettings.label "Թափաւնի կարգաւորումներ">
+<!ENTITY level.accesskey "E">
 
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "Այղ.">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "աւրեր">
 
+<!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeaders.accesskey "T">
 
+<!ENTITY junkClassification.label "Ընտրութիւն">
 
+<!ENTITY globalJunkPrefs.accesskey "G">
