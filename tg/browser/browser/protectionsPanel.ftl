@@ -88,6 +88,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = И
 protections-panel-content-blocking-breakage-report-view =
     .title = Гузориш дар бораи сомонаи вайроншуда
+protections-panel-content-blocking-breakage-report-view-description = Амали манъкунии васоити пайгирии муайян метавонад нисбат ба баъзе сомонаҳо мушкилиҳо ба вуҷуд орад. Гузоришдиҳӣ оид ба чунин мушкилиҳо барои беҳтар кардани { -brand-short-name } ба фоидаи ҳамаи корбарон кумак мерасонад. Ҳангоми ирсолкунии ин гузориш, нишонии URL ва маълумот дар бораи танзимоти браузери шумо ба ширкати «Mozilla» фиристода мешавад. <label data-l10n-name="learn-more">Маълумоти бештар</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = Нишонии URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Нишонии URL

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Сомонаи қалбакӣ дар пеш
+safeb-blocked-malware-page-title = Тамошокунии ин сомона метавонад ба компютери шумо зарар расонад
 safeb-palm-accept-label = Бозгашт
 safeb-palm-see-details-label = Дидани тафсилот
 safeb-palm-notdeceptive =
