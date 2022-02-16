@@ -5,9 +5,36 @@
 <!ENTITY addressbookWindow.title                        "Հասցէագիրք">
 
 <!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Նիշ">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Նոր">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newAddressBookCmd.label                        "Հասցէգիրք…">
+<!ENTITY newAddressBookCmd.accesskey                    "B">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցէգիրք…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newMessageCmd.label                            "Հաղորդագրութիւն">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY closeCmd.label                                 "Փակել">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "C">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printAddressBook.accesskey                     "A">
 
 <!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Խմբագրել">
+<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY deleteCmd.label                                "Ջնջել">
+<!ENTITY deleteAbCmd.label                              "Ջնջել հասցէգիրքը">
+<!ENTITY deleteAbCmd.accesskey                          "D">
 
 <!-- View Menu -->
 <!ENTITY showTaskbarCmd.label                           "Վիճակագաւտի">

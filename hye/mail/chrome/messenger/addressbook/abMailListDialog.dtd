@@ -8,5 +8,8 @@
 <!ENTITY addToAddressBook.label         "Աւելացնել․">
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "Լ">
-<!ENTITY ListNickName.accesskey         "Ն">
+<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.label          "Նկարագրութիւն. ">
+<!ENTITY ListDescription.accesskey      "D">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.accesskey         "m">
