@@ -115,10 +115,32 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY quickSearchCmd.key                             "k">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Հասցէագիրք">
+<!ENTITY Addrbook.accesskey                             "B">
+<!ENTITY GeneratedName.label                            "Անուն">
+<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ChatName.label                                 "Զրուցարանի անուն">
+<!ENTITY ChatName.accesskey                             "C">
+<!ENTITY Company.label                                  "Կազմակերպութիւն">
+<!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Կեղծանուն">
+<!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Բաժին">
+<!ENTITY Department.accesskey                           "r">
+<!ENTITY JobTitle.label                                 "Վերնագիր">
+<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY CellularNumber.label                           "Բջջային">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Տնային հեռախաւս">
+<!ENTITY HomePhone.accesskey                            "H">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
