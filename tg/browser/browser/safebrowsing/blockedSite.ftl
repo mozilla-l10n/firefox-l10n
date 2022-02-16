@@ -4,6 +4,8 @@
 
 safeb-blocked-phishing-page-title = Сомонаи қалбакӣ дар пеш
 safeb-blocked-malware-page-title = Тамошокунии ин сомона метавонад ба компютери шумо зарар расонад
+safeb-blocked-unwanted-page-title = Сомонаи дар пешистода метавонад барномаҳои зараррасонро дар бар гирад
+safeb-blocked-harmful-page-title = Сомонаи дар пешистода метавонад барномаҳои зарарнокро дар бар гирад
 safeb-palm-accept-label = Бозгашт
 safeb-palm-see-details-label = Дидани тафсилот
 safeb-palm-notdeceptive =

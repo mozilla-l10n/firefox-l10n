@@ -117,6 +117,10 @@ addon-category-sitepermission-title =
 
 ## These are global warnings
 
+extensions-warning-check-compatibility-button = Фаъол кардан
+    .title = Фаъол кардани санҷиши мутобиқати ҷузъи иловагӣ
+extensions-warning-update-security-button = Фаъол кардан
+    .title = Фаъол кардани санҷиши навсозии амниятии ҷузъи иловагӣ
 
 ## Strings connected to add-on updates
 
@@ -128,6 +132,8 @@ addon-updates-view-updates = Дидани навсозиҳои охирин
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+addon-updates-update-addons-automatically = Ба таври худкор навсозӣ кардани ҷузъи иловагӣ
+    .accesskey = Б
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -135,6 +141,10 @@ addon-updates-view-updates = Дидани навсозиҳои охирин
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+addon-updates-reset-updates-to-automatic = Барқарор кардани реҷаи навсозии худкор барои ҳамаи ҷузъҳои иловагӣ
+    .accesskey = Б
+addon-updates-reset-updates-to-manual = Барқарор кардани реҷаи навсозии дастӣ барои ҳамаи ҷузъҳои иловагӣ
+    .accesskey = Б
 
 ## Status messages displayed when updating add-ons
 
@@ -164,6 +174,8 @@ shortcuts-input =
 shortcuts-browserAction2 = Фаъол кардани тугмаи навори абзорҳо
 shortcuts-pageAction = Фаъол кардани амал дар саҳифа
 shortcuts-sidebarAction = Нишон/пинҳон кардани навори ҷонибӣ
+shortcuts-modifier-mac = Ctrl, Alt ё аломати «⌘»-ро илова кунед
+shortcuts-modifier-other = Ctrl ё Alt-ро илова кунед
 shortcuts-card-collapse-button = Камтар нишон диҳед
 header-back-button =
     .title = Бозгашт
