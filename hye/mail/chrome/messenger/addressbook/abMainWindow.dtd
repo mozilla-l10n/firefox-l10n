@@ -58,14 +58,59 @@
 <!ENTITY showAbToolbarCmd.label                         "Հասցէագրքի գործիքագաւտի">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Վիճակագաւտի">
+<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY customizeToolbar.label                         "Յարմարեցնել…">
+<!ENTITY customizeToolbar.accesskey                     "C">
+<!ENTITY layoutMenu.accesskey                           "Լ">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY menu_ShowNameAs.label                          "Ցուցադրել անունը որպէս">
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Անուն Ազգանուն">
+<!ENTITY firstLastCmd2.accesskey                        "F">
+<!ENTITY lastFirstCmd.label                             "Ազգանուն, Անուն">
+<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Գործիքներ">
+<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY messengerCmd.accesskey                         "M">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Որոնել հասցէները">
+<!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "Ներածել…">
 <!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Արտածել…">
+<!ENTITY exportCmd.accesskey                            "E">
 
 <!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newlistButton.label                            "Նոր ցանկ">
+<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY showAsDefault.accesskey                        "S">
+<!ENTITY editPropertiesButton.label                     "Խմբագրել">
+<!ENTITY propertiesContext.label                        "Յատկութիւններ">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Յատկութիւններ">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Համաժամեցնել">
+<!ENTITY syncContext.accesskey                          "y">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Խմբագրել ցանկը">
+<!ENTITY editMailingListContext.accesskey               "E">
+<!ENTITY newmsgButton.label                             "Գրել">
+<!ENTITY newmsgButton.accesskey                         "W">
+<!ENTITY newIM.accesskey                                "I">
+<!ENTITY printButton.label                              "Տպել…">
+<!ENTITY printButton.accesskey                          "P">
+<!ENTITY deleteButton2.label                            "Ջնջել">
+<!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY removeButton.label                             "Հեռացնել">
+<!ENTITY removeButton.accesskey                         "R">
 
 <!-- Address Book Toolbar Tooltips -->
 
