@@ -399,11 +399,15 @@ popup-mute-notifications-checkbox = ᱦᱟᱹᱴᱤᱧ ᱡᱷᱚᱜ ᱣᱮᱵᱽ
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = ᱟᱢ ᱫᱚ { -brand-short-name } ᱦᱟᱹᱴᱤᱧᱮᱫᱟᱢ ᱾ ᱟᱢ ᱫᱚ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱛᱮ ᱩᱪᱟᱹᱲ ᱡᱷᱚᱜ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮ ᱢᱮᱭᱟ ᱾
+sharing-warning-screen = ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱯᱩᱨᱟᱹ ᱯᱚᱨᱫᱟ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾ ᱟᱢ ᱫᱚ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱛᱮ ᱩᱪᱟᱹᱲ ᱡᱷᱚᱜ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮ ᱢᱮᱭᱟ ᱾
 sharing-warning-proceed-to-tab =
     .label = ᱴᱮᱵᱽ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
+sharing-warning-disable-for-session =
+    .label = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱴᱤᱧ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 ᱠᱷᱟᱴᱚᱢᱟᱪᱟ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱯᱩᱭᱞᱩ ᱨᱮ ᱣᱮᱵᱽ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱢᱮᱱᱩ ᱛᱮ DevTools ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
 
 ## URL Bar
 
@@ -443,6 +447,13 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱨᱤᱢᱚᱴ ᱠᱚᱵᱽᱡᱟ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ (ᱠᱟᱨᱚᱬ : { $component })
+urlbar-permissions-granted =
+    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱟᱹᱲᱛᱤ ᱪᱷᱟᱲ ᱠᱚᱢ ᱮᱢᱟ ᱫᱮᱭᱟ ᱾
 urlbar-switch-to-tab =
     .value = ᱴᱮᱵᱽ ᱨᱮ ᱚᱛᱟ:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -531,9 +542,19 @@ fullscreen-warning-no-domain = ᱱᱚᱶᱟ ᱫᱚᱞᱤᱞ ᱫᱚ ᱵᱤᱛᱚ�
 fullscreen-exit-button = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ (Esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ᱴᱷᱮᱱ ᱫᱚ ᱟᱢᱟᱜ ᱩᱫᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱵᱽᱡᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱠᱚᱵᱽᱡᱟ ᱤᱫᱤ ᱨᱩᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
+pointerlock-warning-no-domain = ᱱᱚᱶᱟ ᱫᱚᱞᱤᱞ ᱫᱚ ᱟᱢᱟᱜ ᱩᱫᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱵᱡᱟ ᱢᱮᱱᱟᱜ ᱛᱟᱭᱟ ᱾ ᱠᱚᱵᱽᱡᱟ ᱤᱫᱤ ᱨᱩᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong> ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱵᱷᱟᱜᱽ ᱫᱚ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ </strong> { -brand-product-name } ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱞᱚᱜᱚᱱ ᱴᱷᱤᱠ ᱫᱟᱲᱮ ᱞᱟᱹᱜᱤᱫ, ᱫᱟᱭᱟᱠᱟᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱭ ᱯᱮ ᱾
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱵᱷᱟᱜᱽ ᱫᱚ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ { -brand-product-name } ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱞᱚᱜᱚᱱ ᱴᱷᱤᱠ ᱫᱟᱲᱮ ᱞᱟᱹᱜᱤᱫ, ᱫᱟᱭᱟᱠᱟᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱭ ᱯᱮ ᱾
 crashed-subframe-learnmore-link =
     .value = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 crashed-subframe-submit =
