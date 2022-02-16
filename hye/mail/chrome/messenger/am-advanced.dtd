@@ -5,8 +5,21 @@
 <!-- extracted from am-advanced.xhtml -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Ելքային սպասարկիչի (SMTP) կարգաւորումներ">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
+<!ENTITY smtpListAdd.label  "Աւելացնել…">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "Խմբագրել…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Ջնջել">
+<!ENTITY smtpListDelete.accesskey "m">
 <!ENTITY smtpListSetDefault.label "Սահմանել սկզբնադիր">
+<!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDescription.label "Նկարագրութիւն. ">
+<!ENTITY serverName.label "Սպասարկչի անունը. ">
+<!ENTITY serverPort.label "Միացք․ ">
+<!ENTITY userName.label   "Աւգտանուն․ ">
+<!ENTITY authMethod.label   "Իսկորոշման եղանակ. ">

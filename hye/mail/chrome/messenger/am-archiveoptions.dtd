@@ -5,6 +5,11 @@
 <!-- extracted from am-archiveoptions.xhtml -->
 
 <!ENTITY dialogTitle.label "Արխիւի ընտրանքներ">
+<!ENTITY archiveFlat.accesskey "s">
+<!ENTITY archiveYearly.accesskey "Y">
+<!ENTITY archiveMonthly.accesskey "M">
+<!ENTITY keepFolderStructure.accesskey "K">
+<!ENTITY archiveExample.label "Աւրինակ">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
 <!ENTITY archiveFolderName.label "Արխիւներ">
