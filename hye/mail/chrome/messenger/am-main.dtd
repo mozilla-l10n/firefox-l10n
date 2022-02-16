@@ -5,10 +5,34 @@
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգաւորումներ">
+<!ENTITY accountName.label "Հաշուի անուն.">
+<!ENTITY accountName.accesskey "N">
 <!ENTITY name.label "Ձեր անունը.">
+<!ENTITY name.accesskey "Y">
+<!ENTITY email.label "էլ֊հասցէ.">
+<!ENTITY email.accesskey "E">
+<!ENTITY catchAll.accesskey "d">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "Կազմակերպութիւն.">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Աւգտագործել HTML (աւր.՝ &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.accesskey "t">
+<!ENTITY edit.label "Խմբագրել…">
+<!ENTITY choose.label "Ընտրել…">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "Խմբագրել այցեքարտը…">
+<!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Կցել իմ vCard նամակներին">
+<!ENTITY attachVCard.accesskey "v">
 
+<!ENTITY manageIdentities.accesskey "M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Աւգտագործել սկզբնադիր սպասարկիչը">
 
+<!ENTITY smtpServerEdit.label "Խմբագրել SMTP սպասարկիչը…">
+<!ENTITY smtpServerEdit.accesskey "P">
