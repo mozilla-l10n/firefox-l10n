@@ -76,8 +76,8 @@ downloads-cmd-show-panel =
 downloads-cmd-show-description =
     .value =
         { PLATFORM() ->
-            [macos] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
-           *[other] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
+            [macos] ᱧᱟᱢᱤᱡ ᱨᱮ ᱩᱫᱩᱜᱽ ᱢᱮ
+           *[other] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱨᱮ ᱧᱮᱞ ᱢᱮ
         }
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
@@ -96,15 +96,23 @@ downloads-cmd-always-open-similar-files =
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
-            [macos] ᱥᱮᱸᱫᱽᱨᱟ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-           *[other] ᱥᱮᱸᱫᱽᱨᱟ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+            [macos] ᱧᱟᱢᱤᱡ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+           *[other] ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
         }
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
-            [macos] ᱥᱮᱸᱫᱽᱨᱟ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-           *[other] ᱥᱮᱸᱫᱽᱨᱟ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+            [macos] ᱯᱟᱱᱛᱮᱤᱡ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+           *[other] ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
         }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] ᱧᱟᱢᱤᱡ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+           *[other] ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+        }
+downloads-cmd-show-downloads =
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 downloads-cmd-retry =
     .tooltiptext = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-retry-panel =
@@ -118,9 +126,29 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = ᱦ
+downloads-cmd-clear-list =
+    .label = ᱢᱟᱲᱟᱝ ᱛᱮᱭᱟᱜ ᱧᱮᱞ ᱯᱮᱱᱟᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
     .accesskey = ᱯ
+downloads-cmd-delete-file =
+    .label = ᱢᱮᱴᱟᱣ ᱢᱮ
+    .accesskey = D
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱪᱷᱚᱣᱟᱜ ᱢᱮ
+    .accesskey = o
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = ᱨᱮᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+downloads-cmd-remove-file-panel =
+    .aria-label = ᱨᱮᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = ᱨᱮᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱰᱟᱩᱱᱞᱚᱰ ᱪᱷᱚᱣᱟᱜ ᱢᱮ
 
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
