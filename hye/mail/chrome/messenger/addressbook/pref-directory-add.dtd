@@ -3,12 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY directoryName.label               "Անուն. ">
+<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Գտնել">
+<!ENTITY findButton.accesskey              "f">
 <!ENTITY directorySecure.label             "Աւգտագործել անվտանգ միացում (SSL)">
+<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Ընդհանուր">
 <!ENTITY Offline.tab                       "Անցանց">
 <!ENTITY Advanced.tab                      "Բարելաւուած">
+<!ENTITY portNumber.accesskey              "p">
+<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY scope.accesskey                   "c">
+<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY results.label                     "արդիւնքներ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Հասարակ">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.accesskey              "Կ">
 
 <!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
