@@ -5,7 +5,7 @@
 experimental-features-media-avif-description = Með þennan eiginleika virkan, styður { -brand-short-name } AV1 Image File (AVIF) sniðið. Þetta er kyrrmyndaskráasnið sem nýtir getu AV1 reiknirit myndskeiðsþjöppunar til að minnka myndstærð. Skoðaðu þessa <a data-l10n-name="bugzilla">villuskýrslu 1443863</a> til að sjá nánari upplýsingar.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Cookies: SameSite=Lax er sjálfgefið
+    .label = Vefkökur: SameSite=Lax er sjálfgefið
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (einangrun vefsvæðis)
