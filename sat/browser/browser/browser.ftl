@@ -364,6 +364,9 @@ browser-tab-unblock =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = ᱵᱩᱩᱠᱢᱟᱨᱠ ᱟᱹᱜᱩᱭ ᱢᱮ …
+    .tooltiptext = ᱮᱴᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ { -brand-short-name } ᱨᱮ ᱵᱩᱠᱢᱟᱨᱠ ᱟᱹᱜᱩᱭ ᱢᱮ ᱾
 
 ## WebRTC Pop-up notifications
 
