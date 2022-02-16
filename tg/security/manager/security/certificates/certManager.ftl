@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Мудири гувоҳиномаҳо
+certmgr-tab-mine =
+    .label = Гувоҳиномаҳои шумо
 certmgr-delete-cert =
     .title = Нест кардани гувоҳинома
     .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Номи гувоҳинома
 certmgr-delete =
     .label = Нест кардан…
     .accesskey = Н
@@ -22,6 +28,7 @@ exception-mgr-cert-location-download =
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Файлҳои гувоҳиномаҳо
 
 ## For editing certificates trust
 
