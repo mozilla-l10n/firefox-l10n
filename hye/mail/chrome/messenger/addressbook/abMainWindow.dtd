@@ -141,13 +141,30 @@ because displayed names don't have the comma in between. -->
 <!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Տնային հեռախաւս">
 <!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY WorkPhone.label                                "Աշխատանքային հեռախաւս">
+<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "Հնչիւնաբանական անուն">
+<!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "">
+<!ENTITY home.heading                                   "Տուն">
+<!ENTITY other.heading                                  "Այղ">
+<!ENTITY chat.heading                                   "Զրուցարան">
+<!ENTITY phone.heading                                  "Հեռախաւս">
+<!ENTITY work.heading                                   "Աշխատանքային">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Նկարագրութիւն">
+<!ENTITY addresses.heading                              "Հասցէներ">
 <!-- For Map It! -->
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                               "Պատուհան">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY zoomWindow.label                               "Խոշորացոյց">
