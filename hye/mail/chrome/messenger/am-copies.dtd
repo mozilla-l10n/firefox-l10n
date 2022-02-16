@@ -31,5 +31,9 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Այլ․">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY keepTemplates.label "Պահել նամակի նմուշները՝">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Նմուշներ&quot; թղթապանակում՝">
+<!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Այլ.">
+<!ENTITY templateInOtherFolder.accesskey "e">
