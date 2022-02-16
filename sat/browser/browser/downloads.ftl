@@ -149,6 +149,23 @@ downloads-cmd-remove-file-panel =
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = ᱨᱮᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱰᱟᱩᱱᱞᱚᱰ ᱪᱷᱚᱣᱟᱜ ᱢᱮ
+downloads-cmd-choose-unblock-panel =
+    .aria-label = ᱨᱮᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱰᱟᱩᱱᱞᱚᱰ ᱪᱷᱚᱣᱟᱜ ᱢᱮ
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = ᱨᱮᱫᱽ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+downloads-cmd-choose-open-panel =
+    .aria-label = ᱨᱮᱫᱽ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = ᱨᱮᱫ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
@@ -158,9 +175,20 @@ downloads-cmd-choose-unblock =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes = { $hours }ᱴᱟᱲᱟᱝ { $minutes }ᱴᱤᱯᱤᱡ ᱨᱮ ᱠᱷᱩᱞᱟᱹᱜ ᱠᱟᱱᱟ …
+downloading-file-opens-in-minutes = { $minutes }ᱴᱤᱯᱤᱡ ᱨᱮ ᱠᱷᱩᱞᱟᱹᱜ ᱠᱟᱱᱟ…
+downloading-file-opens-in-minutes-and-seconds = { $minutes }ᱴᱤᱯᱤᱡ { $seconds }ᱴᱤᱡ …
+downloading-file-opens-in-seconds = { $minutes }ᱴᱤᱡ ᱨᱮ ᱠᱷᱩᱞᱟᱹᱜ ᱠᱟᱱᱟ …
+downloading-file-opens-in-some-time = ᱯᱩᱨᱟᱹᱣ ᱞᱮᱠᱷᱟᱱ ᱠᱷᱩᱞᱟᱹᱜᱼᱟ …
+downloading-file-click-to-open =
+    .value = ᱯᱩᱨᱟᱹᱣ ᱞᱮᱠᱷᱟᱱ ᱠᱷᱩᱞᱟᱹᱜᱼᱟ
 
 ##
 
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = ᱫᱩᱦᱲᱟᱹ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -171,12 +199,24 @@ downloads-cancel-download =
 downloads-history =
     .label = ᱡᱷᱚᱛᱚ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = ᱫ
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ᱰᱟᱩᱱᱞᱚᱰ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ᱨᱮᱫ ᱵᱟᱝ ᱰᱟᱩᱱᱞᱚᱰ ᱯᱩᱨᱟᱹᱣ ᱠᱟᱱᱟ ᱾
+        [two] { $num } ᱨᱮᱫ ᱠᱤᱱ ᱵᱟᱝ ᱰᱟᱩᱱᱞᱚᱰ ᱯᱩᱨᱟᱹᱣ ᱠᱟᱱᱟ ᱾
+       *[other] { $num } ᱨᱮᱫ ᱠᱚ ᱵᱟᱝ ᱰᱟᱩᱱᱞᱚᱰ ᱯᱩᱨᱟᱹᱣ ᱠᱟᱱᱟ ᱾
+    }
+downloads-blocked-from-url = { $url } ᱠᱷᱚᱱ ᱰᱟᱩᱱᱞᱚᱰ ᱵᱞᱚᱠ ᱮᱱᱟ ᱾
+downloads-blocked-download-detailed-info = { $url } ᱟᱭᱢᱟ ᱨᱮᱫ ᱠᱚ ᱟᱡ ᱛᱮ ᱰᱟᱩᱱᱞᱚᱰ ᱞᱟᱫᱜᱤᱫ ᱪᱮᱥᱴᱟ ᱠᱮᱜᱼᱟᱭ ᱾ ᱥᱟᱭᱤᱴ ᱫᱚ ᱨᱟᱹᱯᱩᱫ ᱛᱟᱦᱮᱸ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱵᱟᱝᱠᱷᱟᱱ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱠᱷᱟᱨᱟᱯ ᱨᱮᱫ ᱠᱚ ᱫᱚᱭᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟ ᱮᱫᱟᱭ ᱾
 
 ##
 
@@ -190,3 +230,13 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } ᱰᱷᱮᱨ ᱨᱮᱫ ᱰᱟᱩᱱᱞᱚᱰᱼᱚᱜ ᱠᱟᱱᱟ
+        [two] { $count } ᱰᱷᱮᱨ ᱨᱮᱫ ᱠᱤᱱ ᱰᱟᱩᱱᱞᱚᱰᱼᱚᱜ ᱠᱟᱱᱟ
+       *[other] { $count } ᱰᱷᱮᱨ ᱨᱮᱫ ᱠᱚ ᱰᱟᱩᱱᱞᱚᱰᱼᱚᱜ ᱠᱟᱱᱟ
+    }
