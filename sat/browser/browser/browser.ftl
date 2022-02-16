@@ -709,6 +709,9 @@ edit-popup-settings =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-left =
+    .label = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱭᱼᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱫᱚ ᱞᱮᱸᱜᱟ ᱛᱤ ᱯᱟᱦᱴᱟ ᱥᱮᱫ ᱩᱪᱟᱹᱲ ᱢᱮ
+    .accesskey = L
 
 ##
 
