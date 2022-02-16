@@ -2,13 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certificate-viewer-certificate-section-title = Гувоҳинома
 
 ## Error messages
 
 
 ## Certificate information labels
 
+certificate-viewer-common-name = Номи умумӣ
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Гувоҳинома барои { $firstCertName }
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Кишвари шахси ҳуқуқӣ
+certificate-viewer-country = Кишвар
 certificate-viewer-location = Ҷойгиршавӣ
+certificate-viewer-organization = Ташкилот
+certificate-viewer-subject-name = Номи воҳид
+certificate-viewer-issuer-name = Номи бароранда
+certificate-viewer-subject-alt-names = Номи иловагии воҳид
 certificate-viewer-fingerprints = Нақшҳои ангушт
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
@@ -35,4 +47,8 @@ certificate-viewer-unknown-group-label = (номаълум)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Гувоҳиномаҳои шумо
+certificate-viewer-tab-people = Одамон
+certificate-viewer-tab-servers = Серверҳо
+certificate-viewer-tab-ca = Марказҳои гувоҳиномадиҳӣ
 certificate-viewer-tab-unkonwn = Номаълум
