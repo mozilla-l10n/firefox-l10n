@@ -6,6 +6,9 @@
 ## Addressing widget
 
 #   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Ukloni { $type } polje
+#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -38,6 +41,9 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Premjesti se na Bcc
     .accesskey = B
+pill-action-expand-list =
+    .label = Proširi popis
+    .accesskey = P
 
 ## Attachment widget
 
@@ -57,6 +63,10 @@ toolbar-button-add-attachment =
     .tooltiptext = Dodajte privitak ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
 add-attachment-notification-reminder =
     .label = Dodaj privitak…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Dodaj privitak…
+    .accesskey = a
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Datoteke…
@@ -80,6 +90,10 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Prikaži okno privitka ({ ctrl-cmd-shift-pretty-prefix } { toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Sakrij okno privitka ({ ctrl-cmd-shift-pretty-prefix } { toggle-attachment-pane-key })
+attachment-area-show =
+    .title = Prikaži okno privitka ({ ctrl-cmd-shift-pretty-prefix } { toggle-attachment-pane-key })
+attachment-area-hide =
+    .title = Sakrij okno privitka ({ ctrl-cmd-shift-pretty-prefix } { toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Dodaj kao privitak
