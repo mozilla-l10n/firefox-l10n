@@ -71,13 +71,34 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = ᱵᱤᱱᱟᱹ ᱯᱟᱧᱡᱟ ᱠᱟᱛᱮ ᱵᱽᱨᱟᱩᱡᱽ ᱢᱮ
+cfr-protections-panel-body = ᱟᱢᱟᱜᱽ ᱰᱟᱴᱟ ᱟᱢ ᱴᱷᱮᱱ ᱜᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾ { -brand-short-name } ᱫᱚ ᱟᱭᱢᱟ ᱥᱚᱢᱟᱱ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱴᱷᱮᱱ ᱠᱷᱚᱱ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱢᱮᱟᱭ ᱾
 cfr-protections-panel-link-text = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ᱱᱟᱣᱟ ᱵᱟᱹᱰᱜᱟᱹᱜ :
+cfr-whatsnew-button =
+    .label = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
+    .tooltiptext = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
+cfr-whatsnew-release-notes-link-text = ᱟᱲᱟᱜ ᱠᱷᱟᱴᱚ ᱢᱮᱱ  ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱢᱮ
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } ᱫᱚ <b>{ $blockedCount }</b> ᱜᱟᱱ ᱵᱞᱚᱠ ᱠᱮᱫ ᱠᱚᱣᱟᱭ { DATETIME($date, month: "long", year: "numeric") } ᱫᱷᱟᱹᱵᱤᱡ !
+        [two] { -brand-short-name } ᱫᱚ <b>{ $blockedCount }</b> ᱠᱤᱱ ᱵᱞᱚᱠ ᱠᱮᱫ ᱠᱚᱣᱟᱭ { DATETIME($date, month: "long", year: "numeric") } ᱫᱷᱟᱹᱵᱤᱡ !
+       *[other] { -brand-short-name } ᱫᱚ <b>{ $blockedCount }</b> ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱫ ᱠᱚᱣᱟᱭ { DATETIME($date, month: "long", year: "numeric") } ᱫᱷᱟᱹᱵᱤᱡ !
+    }
+cfr-doorhanger-milestone-ok-button = ᱡᱚᱛᱚ ᱧᱮᱞᱢᱮ
+    .accesskey = S
+cfr-doorhanger-milestone-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = C
 
 ## DOH Message
 
