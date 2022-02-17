@@ -13,28 +13,59 @@ import-from-bookmarks = ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ �
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = ᱢ
+import-from-edge =
+    .label = Microsoft Edge
+    .accesskey = E
+import-from-edge-legacy =
+    .label = Microsoft Edge Legacy
+    .accesskey = L
+import-from-edge-beta =
+    .label = Microsoft Edge Beta
+    .accesskey = d
 import-from-nothing =
     .label = ᱡᱟᱦᱱᱟᱜ ᱟᱞᱚᱢ ᱟᱹᱜᱩᱭᱟ
     .accesskey = ᱡ
 import-from-safari =
     .label = Safari
     .accesskey = ᱥ
+import-from-brave =
+    .label = Brave
+    .accesskey = r
+import-from-canary =
+    .label = Chrome Canary
+    .accesskey = n
 import-from-chrome =
     .label = Chrome
     .accesskey = ᱠ
+import-from-chrome-beta =
+    .label = Chrome Beta
+    .accesskey = B
+import-from-chrome-dev =
+    .label = Chrome Dev
+    .accesskey = D
+import-from-chromium =
+    .label = Chromium
+    .accesskey = u
 import-from-firefox =
     .label = Firefox
     .accesskey = ᱯ
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
 no-migration-sources = ᱡᱟᱦᱱᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱵᱟᱝ ᱚᱠᱟ ᱨᱮ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱢᱮᱱᱟᱜ ᱟ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱰᱟᱴᱟ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 import-source-page-title = ᱥᱟᱡᱣᱟ ᱠᱚ ᱟᱨ ᱰᱟᱴᱟ ᱟᱹᱜᱩ
 import-items-page-title = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱡᱱᱤᱥ ᱠᱚ
 import-items-description = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱞᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ:
+import-permissions-page-title = ᱫᱟᱭᱟᱠᱟᱛᱮ { -brand-short-name } ᱪᱷᱟᱲ ᱮᱢᱟᱭ ᱢᱮ
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS ᱫᱚ ᱟᱢ { -brand-short-name } ᱥᱟᱹᱯᱷᱟᱹᱨᱤ ᱵᱩᱠᱢᱟᱨᱠ ᱪᱷᱟᱲ ᱮᱢᱟᱭᱟᱭ ᱾ ᱨᱮᱫᱽ ᱦᱟᱹᱡᱩᱜ ᱯᱮᱱᱟᱞ ᱠᱷᱚᱱ ”ᱞᱟᱦᱟ” ᱟᱨ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ “ ᱥᱢ Bookmarks.plist ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 import-migrating-page-title = ᱟᱹᱜᱩᱭᱮᱫ ᱟ…
 import-migrating-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ…
 import-select-profile-page-title = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 import-select-profile-description = ᱱᱚᱶᱟ ᱯᱨᱚᱯᱷᱟᱩᱤᱞ ᱠᱚ ᱫᱚ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢᱚᱜᱼᱟ ᱠᱷᱚᱱ:
 import-done-page-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 import-done-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩ ᱠᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ:
+import-close-source-browser = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱞᱟᱦᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱜ ᱠᱟᱜ ᱡᱮ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱᱟ ᱾
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
@@ -52,6 +83,7 @@ source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
 imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷᱚᱱ)
+imported-edge-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Edge ᱠᱷᱚᱱ)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
