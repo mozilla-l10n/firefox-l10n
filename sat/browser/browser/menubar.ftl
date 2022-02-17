@@ -38,6 +38,9 @@ menu-quit =
             [windows] ᱚ
            *[other] ᱛ
         }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } ᱵᱟᱹᱜᱤ ᱢᱮ
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
@@ -77,6 +80,17 @@ menu-file-open-file =
 menu-file-close =
     .label = ᱵᱚᱸᱫᱽ
     .accesskey = ᱵ
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+            [one] { $tabCount } ᱴᱮᱵᱽ ᱵᱚᱸᱫ ᱢᱮ
+            [two] { $tabCount } ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = ᱣᱤᱱᱰᱚ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
     .accesskey = ᱣ
@@ -199,6 +213,10 @@ menu-history-show-all-history =
     .label = ᱡᱷᱚᱛᱚ ᱱᱟᱜᱟᱢᱠᱚ ᱫᱮᱠᱷᱟᱣᱢᱮ
 menu-history-clear-recent-history =
     .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
+menu-history-synced-tabs =
+    .label = ᱛᱷᱟᱨ ᱦᱚᱪᱚ ᱴᱮᱵᱽ
+menu-history-restore-last-session =
+    .label = ᱢᱟᱲᱟᱝᱟᱜ ᱠᱟᱹᱢᱤ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ
 menu-history-hidden-tabs =
     .label = ᱩᱠᱩ ᱴᱮᱵᱽ ᱠᱚ
 menu-history-undo-menu =
@@ -213,21 +231,50 @@ menu-history-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫ�
 menu-bookmarks-menu =
     .label = ᱵᱩᱠᱢᱟᱨᱠ
     .accesskey = ᱵ
+menu-bookmarks-manage =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+menu-bookmark-current-tab =
+    .label = ᱵᱩᱠᱢᱟᱨᱠᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱜ ᱢᱮ
 menu-bookmark-edit =
     .label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 menu-bookmarks-all-tabs =
     .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
 menu-bookmarks-toolbar =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱦᱚᱛᱷᱤᱭᱟᱨ
+menu-bookmarks-other =
+    .label = ᱮᱴᱟᱜᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+menu-bookmarks-mobile =
+    .label = ᱢᱚᱵᱟᱤᱞ ᱵᱩᱠᱢᱟᱨᱠ
 
 ## Tools Menu
 
+menu-tools =
+    .label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱠᱚ
+    .accesskey = T
 menu-tools-downloads =
     .label = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
     .accesskey = ᱰ
+menu-tools-addons-and-themes =
+    .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = ᱛᱚᱞ ᱡᱚᱠᱷᱟ ᱚᱱ ᱢᱮ...
+    .accesskey = n
 menu-tools-sync-now =
     .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskey = ᱱ
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name } ᱥᱟᱞᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱜ ᱢᱮ…
+    .accesskey = R
+menu-tools-browser-tools =
+    .label = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
+    .accesskey = B
+menu-tools-task-manager =
+    .label = ᱠᱟᱹᱢᱤ ᱢᱮᱱᱮᱡᱚᱨ
+    .accesskey = M
 menu-tools-page-source =
     .label = ᱥᱟᱦᱴᱟ ᱥᱨᱚᱛ
     .accesskey = ᱥ
@@ -241,6 +288,9 @@ menu-settings =
             [windows] ᱥ
            *[other] ᱟ
         }
+menu-tools-layout-debugger =
+    .label = ᱞᱮᱟᱣᱴ ᱰᱤᱵᱚᱜᱚᱨ
+    .accesskey = L
 
 ## Window Menu
 
@@ -263,11 +313,28 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ᱜᱚᱲᱚ
     .accesskey = H
+menu-get-help =
+    .label = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
+    .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+    .accesskey = T
+menu-help-report-site-issue =
+    .label = ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱤᱛᱞᱟᱹᱭ ᱢᱮ…
 menu-help-feedback-page =
     .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟᱭ ᱢᱮ…
     .accesskey = ᱯ
+menu-help-enter-troubleshoot-mode2 =
+    .label = ᱦᱟᱨᱠᱮᱴ ᱴᱷᱤᱠ ᱢᱳᱰ…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = ᱦᱟᱨᱠᱮᱴ ᱴᱷᱤᱠ ᱢᱳᱰ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱢᱮ …
+    .accesskey = D
+menu-help-not-deceptive =
+    .label = ᱱᱚᱶᱟ ᱫᱚ ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱠᱟᱱᱟ …
     .accesskey = D
