@@ -100,15 +100,33 @@ drop-file-label-attachment =
         [few] Dodaj kao privitke
        *[other] Dodaj kao privitke
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Umetni ugrađeno
+        [few] Umetni ugrađeno
+       *[other] Umetni ugrađeno
+    }
 
 ## Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Premjesti na prvo
+move-attachment-left-panel-button =
+    .label = Premjesti lijevo
+move-attachment-right-panel-button =
+    .label = Premjesti desno
+move-attachment-last-panel-button =
+    .label = Premjesti na zadnje
 button-return-receipt =
     .label = Potvrda
     .tooltiptext = Zatraži potvrdu za ovu poruku
 
 ## Encryption
 
+message-to-be-signed-icon =
+    .alt = Potpiši poruku
+message-to-be-encrypted-icon =
+    .alt = Šifriraj poruku
 
 ## Addressing Area
 
