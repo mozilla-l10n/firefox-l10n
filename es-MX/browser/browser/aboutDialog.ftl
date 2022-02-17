@@ -24,7 +24,7 @@ update-manual = Actualizaciones disponibles en <label data-l10n-name="manual-lin
 update-unsupported = No puedes realizar más actualizaciones en este sistema. <label data-l10n-name="unsupported-link">Saber más</label>
 update-restarting = Reiniciando…
 channel-description = Estás usando el canal de actualizaciones <label data-l10n-name="current-channel"></label>.
-warningDesc-version = { -brand-short-name } es experimental y podría ser inestable.
+warningDesc-version = { -brand-short-name } es experimental y puede ser inestable.
 aboutdialog-help-user = Ayuda de { -brand-product-name }
 aboutdialog-submit-feedback = Enviar opinión
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunidad global</label> trabajando unida para mantener la Web abierta, pública y accesible para todos.
