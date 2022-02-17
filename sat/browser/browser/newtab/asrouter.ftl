@@ -103,6 +103,7 @@ cfr-doorhanger-milestone-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 ## DOH Message
 
 cfr-doorhanger-doh-body = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱟᱹᱰᱤ ᱞᱟᱹᱠᱛᱤᱭᱟ ᱾ ᱟᱢ ᱵᱽᱨᱟᱩᱡᱽ ᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱟᱜᱭᱟᱨᱤ ᱛᱮ { -brand-short-name } ᱱᱤᱛᱚᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱮ ᱟᱢᱟᱜ DNS ᱱᱮᱦᱚᱨᱟᱭ ᱾
+cfr-doorhanger-doh-header = ᱰᱷᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ , ᱠᱩᱞᱩᱯᱟᱜ DNS ᱧᱮᱧᱮᱞᱠᱚ
 cfr-doorhanger-doh-primary-button-2 = ᱴᱷᱤᱠ ᱜᱮ
     .accesskey = ᱴ
 cfr-doorhanger-doh-secondary-button = ᱵᱚᱸᱫᱚᱭ
