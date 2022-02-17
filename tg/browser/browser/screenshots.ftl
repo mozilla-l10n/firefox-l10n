@@ -36,3 +36,4 @@ screenshots-connection-error-title = Мо ба аксҳои экрани шум�
 screenshots-unshootable-page-error-title = Акси ин саҳифа гирифта намешавад.
 screenshots-unshootable-page-error-details = Зеро ки ин саҳифаи сомона стандартӣ намебошад, мо акси экрани онро гирифта наметавонем.
 screenshots-empty-selection-error-title = Интихоби шумо хеле хурд аст
+screenshots-private-window-error-title = { -screenshots-brand-name } дар реҷаи тамошокунии махфӣ ғайрифаъол аст
