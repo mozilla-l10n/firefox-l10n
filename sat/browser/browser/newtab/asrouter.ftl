@@ -111,6 +111,7 @@ cfr-doorhanger-doh-secondary-button = ᱵᱚᱸᱫᱚᱭ
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱮᱠᱞᱟ ᱜᱮᱭᱟ, ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱛᱮ ᱱᱤᱡᱮ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱜᱮ ᱵᱟᱠᱥ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱮᱠᱚᱨ ᱠᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ, ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱠᱚ, ᱟᱨ ᱮᱴᱟᱜ ᱥᱚᱢᱵᱮᱫᱚᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱠᱩᱢᱵᱲᱩ ᱢᱩᱥᱠᱤᱞ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾
 cfr-doorhanger-fission-header = ᱥᱟᱭᱤᱴ ᱮᱠᱞᱟ ᱨᱮ
 cfr-doorhanger-fission-primary-button = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
     .accesskey = O
@@ -119,6 +120,7 @@ cfr-doorhanger-fission-secondary-button = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱨᱮ ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱣᱤᱰᱤᱭᱚ ᱫᱚ ᱵᱟᱭ ᱵᱟᱡᱟᱣᱜᱼᱟ ᱾ ᱯᱩᱨᱟᱹ ᱣᱤᱰᱤᱭᱟ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ, { -brand-short-name } ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾
 cfr-doorhanger-video-support-header = ᱣᱤᱰᱤᱭᱚ ᱮᱱᱮᱡ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 cfr-doorhanger-video-support-primary-button = ᱱᱤᱛᱚᱜ ᱟᱹᱯᱰᱮᱴ ᱢᱮ
     .accesskey = ᱱ
