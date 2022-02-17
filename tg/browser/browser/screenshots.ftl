@@ -29,5 +29,10 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Пайванд нусха бардошта шуд
 screenshots-notification-image-copied-title = Акси экран нусха бардошта шуд
+screenshots-notification-image-copied-details = Акси шумо ба ҳофизаи муваққатӣ нусха бардошта шуд. Барои гузоштани он, «{ screenshots-meta-key }-V»-ро пахш кунед.
+screenshots-request-error-title = Хато ба миён омад.
+screenshots-request-error-details = Бубахшед! Мо акси шуморо нигоҳ дошта натавонистем. Лутфан, баъдтар аз нав кӯшиш кунед.
+screenshots-connection-error-title = Мо ба аксҳои экрани шумо дастрасӣ пайдо карда наметавнем.
 screenshots-unshootable-page-error-title = Акси ин саҳифа гирифта намешавад.
+screenshots-unshootable-page-error-details = Зеро ки ин саҳифаи сомона стандартӣ намебошад, мо акси экрани онро гирифта наметавонем.
 screenshots-empty-selection-error-title = Интихоби шумо хеле хурд аст
