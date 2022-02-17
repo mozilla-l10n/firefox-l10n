@@ -117,7 +117,7 @@ to-compose-address-row-label =
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = { to-compose-address-row-label.value } polje
-    .accesskey = T
+    .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
@@ -142,6 +142,35 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Prikaži { bcc-compose-address-row-label.value } polje ({ bcc-compose-show-address-row-menuitem.acceltext })
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-info = { $count } primatelja u Prima i Cc će vidjeti sve adrese. Možete izbjeći ovo ukoliko koristite Bcc polje.
+to-address-row-label =
+    .value = Prima
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Prima polje
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Prima
+    .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Prima
+    .title = Prikaži Prima polje ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Cc polje
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Cc
+    .accesskey = C
 many-public-recipients-bcc =
     .label = Koristi Bcc umjesto toga
     .accesskey = u
