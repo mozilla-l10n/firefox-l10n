@@ -111,16 +111,24 @@ cfr-doorhanger-doh-secondary-button = ᱵᱚᱸᱫᱚᱭ
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = ᱥᱟᱭᱤᱴ ᱮᱠᱞᱟ ᱨᱮ
+cfr-doorhanger-fission-primary-button = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
+    .accesskey = O
 cfr-doorhanger-fission-secondary-button = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
     .accesskey = ᱥ
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header = ᱣᱤᱰᱤᱭᱚ ᱮᱱᱮᱡ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 cfr-doorhanger-video-support-primary-button = ᱱᱤᱛᱚᱜ ᱟᱹᱯᱰᱮᱴ ᱢᱮ
     .accesskey = ᱱ
 
 ## Spotlight modal shared strings
 
+spotlight-learn-more-collapsed = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+    .title = ᱵᱟᱹᱰᱜᱟᱜ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣ ᱢᱮ
+spotlight-learn-more-expanded = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+    .title = ᱵᱚᱸᱫ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -128,6 +136,19 @@ cfr-doorhanger-video-support-primary-button = ᱱᱤᱛᱚᱜ ᱟᱹᱯᱰᱮᱴ
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱥᱟᱱᱟᱢ Wi-Fi ᱮᱢ ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱢ
+spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+    .accesskey = S
+spotlight-public-wifi-vpn-link = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+    .accesskey = N
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    ᱟᱞᱮᱭᱟᱜ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ
+    ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱮ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+spotlight-total-cookie-protection-primary-button = ᱢᱩᱴ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
