@@ -115,6 +115,36 @@ browser-data-history-label =
             [firefox] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
            *[other] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
         }
+browser-data-formdata-checkbox =
+    .label = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱᱟ
+browser-data-formdata-label =
+    .value = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱᱟ
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] ᱠᱩᱥᱤ ᱠᱚ
+            [edge] ᱠᱩᱥᱤ ᱠᱚ
+           *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] ᱠᱩᱥᱤ ᱠᱚ
+            [edge] ᱠᱩᱥᱤ ᱠᱚ
+           *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+        }
+browser-data-otherdata-checkbox =
+    .label = ᱮᱴᱟᱜ ᱰᱟᱴᱟ
+browser-data-otherdata-label =
+    .label = ᱮᱴᱟᱜ ᱰᱟᱴᱟ
 browser-data-session-checkbox =
     .label = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
 browser-data-session-label =
