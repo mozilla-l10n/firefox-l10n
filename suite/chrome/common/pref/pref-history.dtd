@@ -6,6 +6,8 @@
 
 <!ENTITY  pref.history.caption              "Zgodovina brskanja">
 <!ENTITY  historyPages.label                "Zgodovina je seznam strani, ki ste jih kdaj obiskali.">
+<!ENTITY  enableHistory.label               "Zapomni si obiskane strani">
+<!ENTITY  enableHistory.accesskey           "Z">
 <!ENTITY  clearHistory.label                "Počisti zgodovino">
 <!ENTITY  clearHistory.accesskey            "č">
 

@@ -10,6 +10,7 @@
 <!ENTITY prefEnableHTTP10.label              "Uporabi HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP11.label              "Uporabi HTTP 1.1">
+<!ENTITY prefUseragent.label                 "Niz uporabniškega agenta">
 <!ENTITY prefFirefoxStrict.label             "Predstavi se kot Firefox">
 <!ENTITY prefFirefoxStrict.accesskey         "F">
 <!ENTITY prefFirefoxNone.label               "Predstavi se kot SeaMonkey">

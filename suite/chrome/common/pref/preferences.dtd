@@ -13,6 +13,7 @@
 <!ENTITY prefWindow.size "width: 102ch; height: 44em;">
 <!ENTITY prefWindowMac2.size "width: 70em; height: 41em;">
 <!ENTITY prefWindowWin2.size "width: 125ch; height: 44em;">
+<!ENTITY categoryHeader "Kategorija">
 
 <!ENTITY appear.label "Videz">
 <!ENTITY content.label "Vsebina">
@@ -25,7 +26,10 @@
 <!ENTITY history.label "Zgodovina">
 <!ENTITY languages.label "Jeziki">
 <!ENTITY applications.label "Pomožni programi">
+<!ENTITY locationBar.label "Naslovna vrstica">
+<!ENTITY search.label "Iskanje po internetu">
 <!ENTITY tabWindows.label "Brskanje z zavihki">
+<!ENTITY links.label "Vedenje povezav">
 <!ENTITY download.label "Prenosi">
 
 <!ENTITY security.label "Zasebnost in varnost">
@@ -43,6 +47,7 @@
 <!ENTITY advance.label "Napredno">
 <!ENTITY scriptsAndWindows.label "Skripti in vtičniki">
 <!ENTITY cache.label "Predpomnilnik">
-
+<!ENTITY smart.label "Namestitev programske opreme">
+<!ENTITY mousewheel.label "Kolesce miške">
 
 <!ENTITY focusSearch.key "f">
