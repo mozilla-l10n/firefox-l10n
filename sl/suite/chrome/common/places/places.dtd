@@ -56,12 +56,19 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 
 <!ENTITY cmd.properties.label      "Lastnosti">
+<!ENTITY cmd.properties.accesskey  "L">
 
-<!ENTITY cmd.sortby_name.label              "Uredi po imenu">
+<!ENTITY cmd.sortby_name.label              "Razvrsti po imenu">
+<!ENTITY cmd.sortby_name.accesskey          "R">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nov zaznamek …">
+<!ENTITY cmd.new_bookmark.accesskey        "N">
 <!ENTITY cmd.new_folder.label              "Nova mapa …">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
 <!ENTITY cmd.new_separator.label           "Nova ločnica">
+<!ENTITY cmd.new_separator.accesskey       "č">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Znova naloži živi zaznamek">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "Z">
@@ -75,14 +82,25 @@
 <!ENTITY col.dateadded.label     "Dodano">
 <!ENTITY col.lastmodified.label  "Zadnja sprememba">
 
+<!ENTITY search.placeholder  "Išči">
 
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY detailsPane.more.label "Več">
+<!ENTITY detailsPane.more.accesskey "V">
 <!ENTITY detailsPane.less.label "Manj">
+<!ENTITY detailsPane.less.accesskey "j">
 <!ENTITY detailsPane.selectAnItemText.description "Izberite predmet za ogled in urejanje njegovih lastnosti">
 
 <!ENTITY view.label               "Pogled">
+<!ENTITY view.accesskey           "g">
 <!ENTITY byDate.label             "Po datumu">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Po spletnem mestu">
+<!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "Po najpogosteje obiskanih">
+<!ENTITY byMostVisited.accesskey  "n">
 <!ENTITY byLastVisited.label      "Po nazadnje obiskanih">
+<!ENTITY byLastVisited.accesskey  "z">
 <!ENTITY byDayAndSite.label       "Po datumu in strani">
+<!ENTITY byDayAndSite.accesskey   "d">
