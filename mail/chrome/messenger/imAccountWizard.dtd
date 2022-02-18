@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Obveščaj o novi pošti">
 <!ENTITY accountAliasGroupbox.caption "Krajevni vzdevek">
 <!ENTITY accountAliasField.label      "Vzdevek:">
-<!ENTITY accountAliasInfo.label       "Videti bo le med pogovori ob klepetu, oddaljeni stiki ga ne bodo videli.">
+<!ENTITY accountAliasInfo.label       "Prikazan bo v vaših klepetih, kadar vi govorite, oddaljeni stiki ga ne bodo videli.">
 <!ENTITY accountProxySettings.caption "Nastavitve za posrednika:">
 <!ENTITY accountProxySettings.change.label     "Spremeni …">
 <!ENTITY accountProxySettings.change.accessKey "S">
