@@ -373,5 +373,5 @@ main-context-menu-toggle-show-password =
     .label = Показати пароль
     .accesskey = П
 main-context-menu-reveal-password =
-    .label = Відкрити пароль
-    .accesskey = і
+    .label = Показати пароль
+    .accesskey = П
