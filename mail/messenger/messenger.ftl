@@ -182,6 +182,8 @@ decrypt-and-copy-failures =
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Vrstica komponent
 spaces-toolbar-button-mail =
     .title = Preklopi na zavihek s pošto
 spaces-toolbar-button-address-book =
@@ -194,3 +196,5 @@ spaces-toolbar-button-chat =
     .title = Preklopi na zavihek s klepetom
 spaces-toolbar-button-settings =
     .title = Preklopi na zavihek z nastavitvami
+spaces-toolbar-button-collapse =
+    .title = Skrij orodno vrstico komponent

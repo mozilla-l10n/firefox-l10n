@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Dotik
     .accesskey = D
+menu-spaces-toolbar-button =
+    .label = Vrstica komponent
+    .accesskey = k
 
 ## File
 

@@ -38,4 +38,5 @@ progress-pane-title = Uvažanje
 progress-pane-restart-desc = Znova zaženite za dokončanje uvoza.
 error-pane-title = Napaka
 error-message-zip-file-too-big = Izbrana datoteka .zip je večja od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
+error-message-extract-zip-file-failed = Datoteke .zip ni bilo mogoče ekstrahirati. Ekstrahirajte jo ročno in nato uvozite iz ekstrahirane mape.
 error-message-failed = Uvoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
