@@ -310,5 +310,9 @@ cloud-file-upload-error-with-custom-message-title = Nalaganje { $filename } na {
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Napaka pri preimenovanju
+cloud-file-rename-error = Pri preimenovanju datoteke { $filename } v storitvi { $provider } je prišlo do težave.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Preimenovanje datoteke { $filename } v storitvi { $provider } je spodletelo
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } ne omogoča preimenovanja že naloženih datotek.

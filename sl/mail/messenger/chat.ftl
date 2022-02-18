@@ -19,6 +19,7 @@ chat-verify-identity =
     .accesskey = i
 chat-identity-verified =
     .label = Istovetnost je že preverjena
+chat-buddy-identity-status = Zaupanje šifriranju
 chat-buddy-identity-status-verified = Preverjen
 chat-buddy-identity-status-unverified = Nepreverjen
 
