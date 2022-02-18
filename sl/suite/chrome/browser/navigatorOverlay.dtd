@@ -45,6 +45,7 @@ left instead of right. -->
 <!ENTITY useStyleSheetPersistentOnly.label "Privzeti slog">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "P">
 <!ENTITY bidiSwitchPageDirectionItem.label "Preklopi smer strani">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "m">
 <!ENTITY pageSourceCmd.label "Vir strani">
 <!ENTITY pageSourceCmd.accesskey "V">
 <!ENTITY pageSourceCmd.commandkey "u">
