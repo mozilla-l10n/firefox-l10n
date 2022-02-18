@@ -50,6 +50,12 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Танзимоти сервери проксиро санҷед ва мутмаин шавед, ки онҳо дуруст мебошанд.</li>
+  <li>Бо маъмури сомона дар тамос шуда, мутмаин шавед, ки сервери прокси дар реҷаи корӣ мебошад.</li>
+</ul>
+">
 
 
 
