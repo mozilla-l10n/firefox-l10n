@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Se marcar amb { -brand-product-name }
 pocket-panel-signup-tagline = Salvatz d'articles e vidèos de { -brand-product-name } per los veire en { -pocket-brand-name } de quin periferic que siá quand volatz.
 pocket-panel-signup-tagline-story-one = Clicatz lo boton { -pocket-brand-name } per salvar d'articles, vidèos o paginas de { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vejatz lo contengut de { -pocket-brand-name } de quin periferic que siá quand volatz.
+pocket-panel-signup-cta-c = Vejatz vòstra lista de quin aparelh que siá, que volètz.
 
 ## about:pocket-home panel
 
@@ -47,8 +48,17 @@ pocket-panel-home-paragraph = Podètz utilizar { -pocket-brand-name } per explor
 pocket-panel-home-explore-popular-topics = Descobrir lo subjèctes populars
 pocket-panel-home-discover-more = Ne veire mai
 pocket-panel-home-explore-more = Descobrir
+pocket-panel-home-most-recent-saves = Vaquí vòstres darrièrs enregistraments :
+pocket-panel-home-new-user-cta = Clicatz lo boton { -pocket-brand-name } per enregistrar d’articles, de vidèos e de ligams.
+pocket-panel-home-new-user-message = Consultatz vòstres enregistraments recents aquí.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Afichar ma lista
 pocket-panel-header-sign-in = Connexion
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Afichar tot
+pocket-panel-button-add-tags = Apondre d'etiquetas
+pocket-panel-button-activate = Activar { -pocket-brand-name } dins { -brand-product-name }
