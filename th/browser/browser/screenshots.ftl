@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = คัดลอกภาพหน้าจอไปยังคลิปบอร์ด
 screenshots-cancel-button-title =
     .title = ยกเลิก
+screenshots-retry-button-title =
+    .title = ลองภาพหน้าจออีกครั้ง
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
