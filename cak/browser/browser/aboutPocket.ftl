@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ketz'aqatisäx Taq Etal
-
 pocket-panel-saved-error-generic = Xuk'ulun pe jun sachoj toq xatojtob'ej yayakon pa { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Xa xe 25 tz'ib' richin yetz'ib'äx ri taq etal
 pocket-panel-saved-error-only-links = Xa xe yeyak ri taq ximonel
@@ -39,6 +38,7 @@ pocket-panel-signup-signup-firefox = Tatz'ib'aj ab'i' rik'in { -brand-product-na
 pocket-panel-signup-tagline = Ke'ayaka' ri taq rucholna'oj chuqa' taq rusilowachib'äl { -brand-product-name } richin natz'ët pa { -pocket-brand-name } pa jun chik okisaxel, xab'achike ramaj.
 pocket-panel-signup-tagline-story-one = Tapitz'a' rupitz'b'al { -pocket-brand-name } richin nayäk jun rucholna'oj, rusilowachib'äl o jun ruxaq { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Titz'et pa { -pocket-brand-name } pa jun chik okisaxel, xab'achike ramaj.
+pocket-panel-signup-cta-a = Ri yaköl apitz'b'al richin k'amaya'l.
 
 ## about:pocket-home panel
 
@@ -48,3 +48,9 @@ pocket-panel-home-paragraph = Yatikïr nawokisaj { -pocket-brand-name } richin y
 pocket-panel-home-explore-popular-topics = Kenik'öx Nab'ey taq Wachinel
 pocket-panel-home-discover-more = Tikanöx Ch'aqa' Chik
 pocket-panel-home-explore-more = Tikanöx
+
+## Pocket panel header component
+
+
+## Pocket panel buttons
+
