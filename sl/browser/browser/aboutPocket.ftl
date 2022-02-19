@@ -52,3 +52,8 @@ pocket-panel-home-explore-more = Razišči
 
 pocket-panel-header-my-list = Prikaži moj seznam
 pocket-panel-header-sign-in = Prijava
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Prikaži vse
+pocket-panel-button-add-tags = Dodaj oznake
