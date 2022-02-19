@@ -42,3 +42,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zamknij
+about-private-browsing-dismiss-button =
+    .title = Zamknij
