@@ -140,6 +140,7 @@ spotlight-learn-more-expanded = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱥᱟᱱᱟᱢ Wi-Fi ᱮᱢ ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱢ
+spotlight-public-wifi-vpn-body = ᱡᱟᱭᱜᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱩᱠᱩ ᱞᱟᱹᱜᱫᱤᱫ, ᱣᱟᱹᱨᱪᱩᱟᱹᱞ ᱱᱤᱡᱚᱨ ᱡᱟᱹᱞᱤ ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱥᱟᱱᱟᱢ ᱡᱟᱭᱜᱟ ᱡᱮᱞᱠᱟ ᱮᱭᱟᱨᱯᱚᱴ ᱠᱚ ᱟᱨ ᱠᱚᱯᱷᱤ ᱫᱚᱠᱟᱱ ᱠᱚᱨᱮ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱡᱷᱚᱜ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱢᱮᱭᱟᱭ ᱾
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
     .accesskey = S
 spotlight-public-wifi-vpn-link = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
