@@ -15,6 +15,7 @@ safeb-palm-accept-label = Бозгашт
 safeb-palm-see-details-label = Дидани тафсилот
 safeb-blocked-phishing-page-error-desc-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он сомонаи қалбакӣ мебошад</a>. Шумо метавонед <a data-l10n-name='report_detection'>дар бораи ин мушкилии муайяншудаи нодуруст гузориш диҳед</a> ё <a data-l10n-name='ignore_warning_link'>ин хатарро ба назар нагирифта,</a> ба ин сомонаи хатарнок гузаред.
 safeb-blocked-phishing-page-error-desc-no-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он сомонаи қалбакӣ мебошад</a>. Шумо метавонед <a data-l10n-name='report_detection'>дар бораи ин мушкилии муайяншудаи нодуруст гузориш диҳед</a>.
+safeb-blocked-phishing-page-learn-more = Дар бораи сомонаҳои қалбакӣ ва иттилоъдуздӣ аз сомонаи <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> маълумоти бештар гиред. Дар бораи Муҳофизати { -brand-short-name } аз иттиоъдуздӣ ё нармафзори зарарнок аз сомонаи <a data-l10n-name='firefox_support'>support.mozilla.org</a> маълумоти бештар гиред.
 safeb-palm-notdeceptive =
     .label = Сомонаи ҷорӣ қалбакӣ нест…
     .accesskey = С
