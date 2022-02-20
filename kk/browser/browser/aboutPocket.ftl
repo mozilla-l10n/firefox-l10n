@@ -52,3 +52,8 @@ pocket-panel-home-explore-more = Шолу
 
 pocket-panel-header-my-list = Менің тізімімді қарау
 pocket-panel-header-sign-in = Кіру
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Барлығын көрсету
+pocket-panel-button-add-tags = Тегтерді қосу
