@@ -4,9 +4,11 @@
 
 synced-tabs-sidebar-title = Варақаҳои ҳамоҳангшуда
 synced-tabs-sidebar-noclients-subtitle = Мехоҳед, ки варақаҳои худро аз дастгоҳҳои дигар дар ин ҷо бинед?
+synced-tabs-sidebar-intro = Дидани рӯйхати варақаҳо аз дастгоҳҳои дигар.
 synced-tabs-sidebar-unverified = Ҳисоби шумо бояд тасдиқ карда шавад.
 synced-tabs-sidebar-notabs = Ягон варақаи кушодашуда нест
 synced-tabs-sidebar-open-settings = Кушодани танзимоти ҳамоҳангсозӣ
+synced-tabs-sidebar-tabsnotsyncing = Барои дидани рӯйхати варақаҳо аз дастгоҳҳои дигари худ, ҳамоҳангсозии варақаҳоро фаъол созед.
 synced-tabs-sidebar-connect-another-device = Пайваст кардани дастгоҳи дигар
 synced-tabs-sidebar-search =
     .placeholder = Ҷустуҷӯи варақаҳои ҳамоҳангшуда
