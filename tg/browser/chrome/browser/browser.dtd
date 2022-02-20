@@ -82,6 +82,7 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Мехоҳед, ки варақаҳои худро аз дастгоҳҳои дигар дар ин ҷо бинед?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Кушодани хусусиятҳои ҳамоҳангсозӣ">
+<!ENTITY appMenuRemoteTabs.welcome.label "Дидани рӯйхати варақаҳо аз дастгоҳҳои дигар.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ҳисоби шумо бояд тасдиқ карда шавад.">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Пайваст кардани дастгоҳи дигар">
 
