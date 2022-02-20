@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Diese Einstellung betrifft alle 
 update-application-use-service =
     .label = Einen Hintergrunddienst verwenden, um Updates zu installieren
     .accesskey = g
+update-application-suppress-prompts =
+    .label = Weniger Update-Benachrichtigungen anzeigen
+    .accesskey = B
 update-setting-write-failure-title2 = Fehler beim Speichern der Update-Einstellungen
 # Variables:
 #   $path (String) - Path to the configuration file

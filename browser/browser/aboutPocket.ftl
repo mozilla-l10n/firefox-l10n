@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Mit { -brand-product-name } registrieren
 pocket-panel-signup-tagline = Speichern Sie Artikel und Videos aus { -brand-product-name } bei { -pocket-brand-name }, um sie jederzeit und auf jedem Gerät ansehen zu können.
 pocket-panel-signup-tagline-story-one = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um beliebige Artikel, Videos und Seiten aus { -brand-product-name } zu speichern.
 pocket-panel-signup-tagline-story-two = Lesen Sie diese mit { -pocket-brand-name }, jederzeit und auf jedem Gerät.
+pocket-panel-signup-cta-a = Ihre Speichern-Taste für das Internet.
 pocket-panel-signup-cta-b = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um Artikel, Videos und Links zu speichern. Schauen Sie sich Ihre Liste an, jederzeit und auf jedem Gerät.
 pocket-panel-signup-cta-c = Schauen Sie sich Ihre Liste an, jederzeit und auf jedem Gerät.
 
@@ -49,7 +50,9 @@ pocket-panel-home-paragraph = Mit { -pocket-brand-name } können Sie Webseiten, 
 pocket-panel-home-explore-popular-topics = Beliebte Themen entdecken
 pocket-panel-home-discover-more = Mehr entdecken
 pocket-panel-home-explore-more = Entdecken
+pocket-panel-home-most-recent-saves = Ihre zuletzt hinzugefügten Einträge:
 pocket-panel-home-new-user-cta = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um Artikel, Videos und Links zu speichern.
+pocket-panel-home-new-user-message = Ihre zuletzt hinzugefügten Einträge finden Sie hier.
 
 ## Pocket panel header component
 
