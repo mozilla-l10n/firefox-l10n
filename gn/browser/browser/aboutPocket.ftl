@@ -50,6 +50,7 @@ pocket-panel-home-explore-more = Ehapykueho
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Ehecha tysýi
 pocket-panel-header-sign-in = Eñepyrũ tembiapo
 
 ## Pocket panel buttons
