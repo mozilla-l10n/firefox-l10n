@@ -13,6 +13,8 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } ин саҳифа�
 safeb-palm-advisory-desc = Маълумот аз тарафи <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> таъмин карда шудааст.
 safeb-palm-accept-label = Бозгашт
 safeb-palm-see-details-label = Дидани тафсилот
+safeb-blocked-phishing-page-error-desc-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он сомонаи қалбакӣ мебошад</a>. Шумо метавонед <a data-l10n-name='report_detection'>дар бораи ин мушкилии муайяншудаи нодуруст гузориш диҳед</a> ё <a data-l10n-name='ignore_warning_link'>ин хатарро ба назар нагирифта,</a> ба ин сомонаи хатарнок гузаред.
+safeb-blocked-phishing-page-error-desc-no-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он сомонаи қалбакӣ мебошад</a>. Шумо метавонед <a data-l10n-name='report_detection'>дар бораи ин мушкилии муайяншудаи нодуруст гузориш диҳед</a>.
 safeb-palm-notdeceptive =
     .label = Сомонаи ҷорӣ қалбакӣ нест…
     .accesskey = С
