@@ -59,7 +59,7 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 open-in-new-window-for-csp-or-xfo-error = Abrir el sitio en una nueva ventana
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Para proteger tu seguridad, { $hostname } no permitirá que { -brand-short-name } despliegue la página si otro sitio la ha incrustado. Para ver esta página debes abrirla en una nueva ventana.
+csp-xfo-blocked-long-desc = Para proteger tu seguridad, { $hostname } no permitirá que { -brand-short-name } muestre la página si otro sitio la ha incrustado. Para ver esta página, debes abrirla en una nueva ventana.
 
 ## Messages used for certificate error titles
 
