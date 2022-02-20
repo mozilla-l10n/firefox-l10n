@@ -39,6 +39,8 @@ pocket-panel-signup-tagline = Wysyłaj artykuły i filmy z przeglądarki { -br
 pocket-panel-signup-tagline-story-one = Kliknij przycisk { -pocket-brand-name }, aby wysłać dowolny artykuł, film lub stronę z przeglądarki { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Czytaj z { -pocket-brand-name } o dowolnej porze na dowolnym urządzeniu.
 pocket-panel-signup-cta-a = Twój przycisk „Zapisz” do Internetu.
+pocket-panel-signup-cta-b = Kliknij przycisk { -pocket-brand-name }, aby zapisać artykuły, filmy i odnośniki. Wyświetlaj swoją listę o dowolnej porze na dowolnym urządzeniu.
+pocket-panel-signup-cta-c = Wyświetlaj swoją listę o dowolnej porze na dowolnym urządzeniu.
 
 ## about:pocket-home panel
 
@@ -48,6 +50,9 @@ pocket-panel-home-paragraph = Za pomocą { -pocket-brand-name } możesz odkrywa�
 pocket-panel-home-explore-popular-topics = Przeglądaj popularne tematy
 pocket-panel-home-discover-more = Odkryj więcej
 pocket-panel-home-explore-more = Przeglądaj
+pocket-panel-home-most-recent-saves = Ostatnio zapisane:
+pocket-panel-home-new-user-cta = Kliknij przycisk { -pocket-brand-name }, aby zapisać artykuły, filmy i odnośniki.
+pocket-panel-home-new-user-message = Tutaj będą wyświetlane ostatnio zapisane pozycje.
 
 ## Pocket panel header component
 
@@ -56,3 +61,6 @@ pocket-panel-header-sign-in = Zaloguj się
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Wyświetl wszystko
+pocket-panel-button-add-tags = Dodaj etykiety
+pocket-panel-button-activate = Aktywuj { -pocket-brand-name } w przeglądarce { -brand-product-name }
