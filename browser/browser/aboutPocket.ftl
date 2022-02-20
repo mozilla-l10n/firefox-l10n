@@ -10,7 +10,7 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = Etykiety
+    .placeholder = Dodaj etykiety
 pocket-panel-saved-error-generic = Wystąpił błąd podczas wysyłania do { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etykiety są ograniczone do 25 znaków
 pocket-panel-saved-error-only-links = Tylko odnośniki mogą być przesyłane
@@ -24,8 +24,8 @@ pocket-panel-saved-remove-page = Usuń stronę
 pocket-panel-saved-save-tags = Wyślij
 pocket-panel-saved-saving-tags = Wysyłanie…
 pocket-panel-saved-suggested-tags = Sugerowane etykiety
-pocket-panel-saved-tags-saved = Wysłano etykiety
-pocket-panel-signup-view-list = Otwórz w Pocket
+pocket-panel-saved-tags-saved = Dodano etykiety
+pocket-panel-signup-view-list = Otwórz listę
 
 ## about:pocket-signup panel
 
@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Utwórz konto z przeglądarką { -brand-pr
 pocket-panel-signup-tagline = Wysyłaj artykuły i filmy z przeglądarki { -brand-product-name } do { -pocket-brand-name }, aby wyświetlić je o dowolnej porze na dowolnym urządzeniu.
 pocket-panel-signup-tagline-story-one = Kliknij przycisk { -pocket-brand-name }, aby wysłać dowolny artykuł, film lub stronę z przeglądarki { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Czytaj z { -pocket-brand-name } o dowolnej porze na dowolnym urządzeniu.
+pocket-panel-signup-cta-a = Twój przycisk „Zapisz” do Internetu.
 
 ## about:pocket-home panel
 
@@ -52,3 +53,6 @@ pocket-panel-home-explore-more = Przeglądaj
 
 pocket-panel-header-my-list = Otwórz moją listę
 pocket-panel-header-sign-in = Zaloguj się
+
+## Pocket panel buttons
+
