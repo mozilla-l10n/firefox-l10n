@@ -118,4 +118,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.label "Барқарор кардани танзимоти пешфарз">
 
+<!ENTITY enableTls10.note "TLS 1.0 ва TLS 1.1 дар релизи оянда ба таври доимӣ ғайрифаъол карда мешавад.">
+<!ENTITY enableTls10.label "Фаъол кардани TLS 1.0 ва 1.1">
 
