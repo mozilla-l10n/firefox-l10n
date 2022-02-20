@@ -7,6 +7,7 @@ screenshot-toolbarbutton =
     .tooltiptext = Гирифтани акси экран
 screenshot-shortcut =
     .key = S
+screenshots-instructions = Барои интихоб кардани минтақа, саҳифаро бо курсози муш кашед ё зер кунед. Барои бекор кардани амал, тугмаи «ESC»-ро пахш кунед.
 screenshots-cancel-button = Бекор кардан
 screenshots-save-visible-button = Нигоҳ доштани қисми намоён
 screenshots-save-page-button = Нигоҳ доштани саҳифаи пурра
@@ -28,6 +29,7 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Пайванд нусха бардошта шуд
+screenshots-notification-link-copied-details = Пайванд ба акси шумо ба ҳофизаи муваққатӣ нусха бардошта шуд. Барои гузоштани он, «{ screenshots-meta-key }-V»-ро пахш кунед.
 screenshots-notification-image-copied-title = Акси экран нусха бардошта шуд
 screenshots-notification-image-copied-details = Акси шумо ба ҳофизаи муваққатӣ нусха бардошта шуд. Барои гузоштани он, «{ screenshots-meta-key }-V»-ро пахш кунед.
 screenshots-request-error-title = Хато ба миён омад.
