@@ -52,9 +52,11 @@ pocket-panel-home-discover-more = Tikanöx Ch'aqa' Chik
 pocket-panel-home-explore-more = Tikanöx
 pocket-panel-home-most-recent-saves = Wawe' e k'o ri k'ab'a' ke'ayäk:
 pocket-panel-home-new-user-cta = Tapitz'a' ri { -pocket-brand-name } pitz'b'äl richin ye'ayäk taq cholna'oj, silowäch chuqa' taq ximonel.
+pocket-panel-home-new-user-message = Ke'atz'eta' ri ri k'ab'a' ke'ayäk.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Titz'et Nucholb'al
 
 ## Pocket panel buttons
 
