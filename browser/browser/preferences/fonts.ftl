@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = 글꼴
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = 사용 글꼴
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = 아랍어
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = 가변폭
     .accesskey = P
-
 fonts-default-serif =
     .label = 세리프
 fonts-default-sans-serif =
     .label = 산세리프
-
 fonts-proportional-size = 크기
     .accesskey = z
-
 fonts-serif = 세리프
     .accesskey = S
-
 fonts-sans-serif = 산세리프
     .accesskey = n
-
 fonts-monospace = 고정폭
     .accesskey = M
-
 fonts-monospace-size = 크기
     .accesskey = e
-
 fonts-minsize = 최소 글꼴 크기
     .accesskey = o
-
 fonts-minsize-none =
     .label = 없음
-
 fonts-allow-own =
-    .label = 위에 선택된 글꼴 대신에 페이지 글꼴 설정 표시 허용
+    .label = 위에서 선택한 글꼴 대신, 페이지에서 지정된 글꼴을 사용하도록 허용
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
