@@ -57,6 +57,10 @@ pocket-panel-home-new-user-message = Ke'atz'eta' ri ri k'ab'a' ke'ayäk.
 ## Pocket panel header component
 
 pocket-panel-header-my-list = Titz'et Nucholb'al
+pocket-panel-header-sign-in = Titikirisäx Molojri'ïl
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Tik'ut Ronojel
+pocket-panel-button-add-tags = Ketz'aqatisäx Taq Etal
+pocket-panel-button-activate = Titzij { -pocket-brand-name } pa { -brand-product-name }
