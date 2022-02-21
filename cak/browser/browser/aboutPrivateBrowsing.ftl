@@ -28,6 +28,8 @@ about-private-browsing-info-description-simplified = { -brand-short-name } nuyü
 about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
 about-private-browsing-hide-activity = Tawewaj ri asamaj chuqa' ri ak'ojlib'al, xab'akuchi' at k'o wi
 about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuchi' yatok wi pa k'amaya'l
+about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'amaya'l chuqa' ri ak'ojlib'al rik'in { -mozilla-vpn-brand-name }. Jun pitz'oj nunük' jun jikïl okem, achi'el chuqa' pa winaqil Wi-Fi.
+about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -40,3 +42,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Titz'apïx
+about-private-browsing-dismiss-button =
+    .title = Tewäx
