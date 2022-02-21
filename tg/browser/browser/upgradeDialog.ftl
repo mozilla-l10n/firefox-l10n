@@ -87,12 +87,17 @@ upgrade-dialog-colorway-theme-tooltip =
 upgrade-dialog-colorway-colorway-tooltip =
     .title = Нақшу нигори { $colorwayName }-ро озмоед
 upgrade-dialog-colorway-default-theme = Пешфарз
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Худкор
+    .title = Истифодаи мавзӯи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-light = Равшан
     .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-dark = Торик
     .title = Истифодаи мавзӯи торик барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-alpenglow = Нури алпӣ
     .title = Истифодаи мавзӯи мутараққӣ ва рангин барои тугмаҳо, менюҳо ва равзанаҳо
+upgrade-dialog-theme-keep = Истифодаи мавзӯи қаблӣ
+    .title = Аз мавзӯе истифода баред, ки шумо пеш аз навсозии { -brand-short-name } насб кардед
 upgrade-dialog-theme-primary-button = Нигоҳ доштани мавзӯъ
 upgrade-dialog-theme-secondary-button = Ҳоло не
 upgrade-dialog-colorway-variation-soft = Нарм
@@ -108,4 +113,5 @@ upgrade-dialog-colorway-variation-bold = Ғафс
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Ташаккур барои интихоби мо
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } браузери мустақил аст, ки аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад. Якҷоя, мо Интернетро бехатартар, солимтар ва бо хусусияти бештар мегардонем.
 upgrade-dialog-thankyou-primary-button = Оғоз кардани тамошо
