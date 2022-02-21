@@ -12,7 +12,7 @@
 <!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων, να ζητείται πάντα αποδεικτικό προβολής">
 <!ENTITY requestReceipt.accesskey     "Κ">
 <!ENTITY receiptArrive.label          "Όταν φτάνει ένα αποδεικτικό:">
-<!ENTITY leaveIt.label                "Παραμονή στα εισερχόμενα">
+<!ENTITY leaveIt.label                "Διατήρηση στα εισερχόμενα">
 <!ENTITY leaveIt.accesskey            "σ">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Μετακίνηση στον φάκελο «Απεσταλμένα»">
