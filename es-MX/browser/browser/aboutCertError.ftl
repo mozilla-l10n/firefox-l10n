@@ -15,8 +15,8 @@ cert-error-trust-unknown-issuer = Los sitios web prueban su identidad a través 
 cert-error-trust-cert-invalid = El certificado no es de confianza porque fue emitido por un certificado de CA no válido.
 cert-error-trust-untrusted-issuer = El certificado no es de confianza porque el certificado del emisor no es de confianza.
 cert-error-trust-signature-algorithm-disabled = El certificado no es de confianza porque se firmó con un algoritmo de firma que se deshabilitó porque ese algoritmo no es seguro.
-cert-error-trust-expired-issuer = No se confía en el certificado porque el certificado emisor ha caducado.
-cert-error-trust-self-signed = Este certificado no es confiable porque está autofirmado.
+cert-error-trust-expired-issuer = El certificado no es de confianza porque el certificado del emisor ha caducado.
+cert-error-trust-self-signed = El certificado no es de confianza porque está autofirmado.
 cert-error-trust-symantec = Los certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign ya no se consideran seguros porque estas autoridades de certificación no siguieron las prácticas de seguridad en el pasado.
 cert-error-untrusted-default = El certificado no procede de una fuente confiable.
 # Variables:
@@ -63,7 +63,7 @@ csp-xfo-blocked-long-desc = Para proteger tu seguridad, { $hostname } no permiti
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = No se puede conectar
+connectionFailure-title = No puede conectarse
 deniedPortAccess-title = Esta dirección está restringida
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
