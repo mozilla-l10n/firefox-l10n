@@ -109,6 +109,10 @@ newtab-menu-dismiss = ᱵᱚᱸᱫ
 newtab-menu-pin = ᱞᱟᱴᱷᱟ
 newtab-menu-unpin = ᱚᱪᱚᱜᱽ
 newtab-menu-delete-history = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
+newtab-menu-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
+newtab-menu-delete-pocket = { -pocket-brand-name } ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
+newtab-menu-archive-pocket = { -pocket-brand-name } ᱨᱮ ᱫᱚᱦᱚ ᱵᱟᱭ ᱠᱟᱜ ᱢᱮ
+newtab-menu-show-privacy-info = ᱟᱞᱮ ᱠᱟᱹᱢᱤᱠᱚ ᱟᱨ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱠᱚ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
