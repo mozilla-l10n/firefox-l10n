@@ -38,6 +38,8 @@ pocket-panel-signup-signup-firefox = Registrirajte se s { -brand-product-name }o
 pocket-panel-signup-tagline = Shranite članke in videe v { -brand-product-name }u in si jih oglejte na { -pocket-brand-name }u iz katere koli naprave.
 pocket-panel-signup-tagline-story-one = Kliknite gumb { -pocket-brand-name } v { -brand-product-name }u in shranite članek, video ali stran.
 pocket-panel-signup-tagline-story-two = Oglejte si v { -pocket-brand-name }u na kateri koli napravi.
+pocket-panel-signup-cta-a = Vaš gumb za shranjevanje za internet.
+pocket-panel-signup-cta-b = Kliknite gumb { -pocket-brand-name }, da shranite članke, videoposnetke in povezave. Oglejte si svoj seznam v kateri koli napravi in kadar koli.
 
 ## about:pocket-home panel
 
