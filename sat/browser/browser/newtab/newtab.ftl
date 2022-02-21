@@ -38,12 +38,28 @@ newtab-search-box-search-the-web-input =
     .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .title = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
     .aria-label = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+newtab-search-box-text = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+newtab-search-box-input =
+    .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .aria-label = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱸᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
+newtab-topsites-add-topsites-header = ᱱᱟᱶᱟ ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ
+newtab-topsites-add-shortcut-header = ᱱᱟᱶᱟ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+newtab-topsites-edit-topsites-header = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
+newtab-topsites-title-input =
+    .placeholder = ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = ᱢᱤᱫᱴᱟᱹᱝ URL ᱚᱞ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+newtab-topsites-url-validation = ᱴᱷᱤᱠ URL ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ
+newtab-topsites-image-url-label = ᱱᱤᱡᱚᱨ URL ᱪᱤᱛᱟᱹᱨ
+newtab-topsites-use-image-link = ᱱᱤᱡᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
+newtab-topsites-image-validation = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱮᱴᱟᱜ URL ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -55,9 +71,13 @@ newtab-topsites-add-button = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = ᱟᱢ ᱥᱟᱹᱨᱤ ᱛᱮ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱟᱢᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 
 ## Context Menu - Action Tooltips.
 
@@ -83,6 +103,11 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = ᱥᱟᱯᱲᱟᱣ
+newtab-menu-open-new-window = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+newtab-menu-open-new-private-window = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+newtab-menu-dismiss = ᱵᱚᱸᱫ
+newtab-menu-pin = ᱞᱟᱴᱷᱟ
+newtab-menu-unpin = ᱚᱪᱚᱜᱽ
 newtab-menu-delete-history = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
