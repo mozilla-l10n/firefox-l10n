@@ -41,3 +41,5 @@ screenshots-unshootable-page-error-title = Акси ин саҳифа гириф
 screenshots-unshootable-page-error-details = Зеро ки ин саҳифаи сомона стандартӣ намебошад, мо акси экрани онро гирифта наметавонем.
 screenshots-empty-selection-error-title = Интихоби шумо хеле хурд аст
 screenshots-private-window-error-title = { -screenshots-brand-name } дар реҷаи тамошокунии махфӣ ғайрифаъол аст
+screenshots-private-window-error-details = Барои нороҳатӣ узр мепурсем. Мо дар ин хусусият барои релизҳои оянда кор карда истодаем.
+screenshots-generic-error-title = Ваҳ! { -screenshots-brand-name } вайрон шуд.
