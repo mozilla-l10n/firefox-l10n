@@ -24,7 +24,10 @@ about-private-browsing-info-description = { -brand-short-name } nuyüj ri ri ruk
 about-private-browsing-need-more-privacy = ¿La nawajo' mas ichinanem?
 about-private-browsing-turn-on-vpn = Tatojtob'ej { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-private-window = Ichinan tzuwäch: { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
+about-private-browsing-info-description-simplified = { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
+about-private-browsing-hide-activity = Tawewaj ri asamaj chuqa' ri ak'ojlib'al, xab'akuchi' at k'o wi
+about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuchi' yatok wi pa k'amaya'l
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
