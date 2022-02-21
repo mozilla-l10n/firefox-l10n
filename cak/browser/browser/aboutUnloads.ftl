@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Kiqasaxik taq ruwi'
 about-unloads-column-priority = Ya'on ruq'ij
 about-unloads-column-host = Ruk'u'x Samaj
 about-unloads-column-last-accessed = Ruk'isib'äl Okem
