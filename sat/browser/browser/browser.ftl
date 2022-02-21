@@ -633,8 +633,8 @@ library-recent-activity-title =
 ## Pocket toolbar button
 
 save-to-pocket-button =
-    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
-    .tooltiptext = { -pocket-brand-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
+    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
+    .tooltiptext = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
 
 ## Repair text encoding toolbar button
 

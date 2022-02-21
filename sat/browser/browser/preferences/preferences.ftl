@@ -268,7 +268,7 @@ sync-engine-history =
     .accesskey = ᱱ
 sync-engine-logins-passwords =
     .label = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
-    .tooltiptext = ᱟᱢ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
+    .tooltiptext = ᱟᱢ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
     .accesskey = ᱫ
 
 ## The device name controls.

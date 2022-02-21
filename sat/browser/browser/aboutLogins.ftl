@@ -69,12 +69,12 @@ about-logins-list-section-week = 7 ᱫᱤᱱ ᱢᱟᱲᱟᱝ
 about-logins-login-intro-heading-logged-out2 = ᱥᱟᱺᱪᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱯᱟᱱᱛᱮ ᱟᱢ? ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ ᱥᱭᱝᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 about-logins-login-intro-heading-logged-in = ᱥᱭᱝᱠ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
 login-intro-description = ᱟᱢ ᱡᱩᱫᱤ ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱠᱷᱟᱱ, ᱱᱚᱰᱮ ᱧᱮᱞ ᱢᱮ ᱪᱮᱞᱠᱟ ᱠᱚ ᱟᱹᱜᱩ ᱪᱷᱚᱭᱟ:
-login-intro-instructions-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ { -fxaccount-brand-name }  ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ ᱾
+login-intro-instructions-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ { -fxaccount-brand-name }  ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ ᱾
 login-intro-instructions-fxa-settings = ᱥᱟᱡᱟᱣ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱥᱭᱝᱠ >ᱥᱭᱝᱠᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ … ᱵᱚᱞᱚ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱪᱤᱱᱦᱟᱹᱯ ᱵᱟᱠᱚᱥ ᱵᱟᱪᱷᱟᱣ ᱡᱮ ᱾
 login-intro-instructions-fxa-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name }ᱪᱟᱞᱟᱜ ᱢᱮ, ᱥᱟᱹᱯᱚᱴ ᱞᱟᱹᱜᱤᱫ</a> ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱾
-about-logins-intro-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link"> ᱠᱷᱚᱱ { -lockwise-brand-short-name }</a> ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
+about-logins-intro-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link"> ᱠᱷᱚᱱ { -lockwise-brand-short-name }</a> ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 login-intro-instructions-fxa-passwords-help = ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱧᱚᱢ ᱞᱟᱹᱜᱤᱫ </a> <a data-l10n-name="passwords-help-link"> ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱜᱚᱲᱚ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
-about-logins-intro-browser-only-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link">ᱠᱷᱚᱱ { -brand-product-name } ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ</a>
+about-logins-intro-browser-only-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link">ᱠᱷᱚᱱ { -brand-product-name } ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ</a>
 about-logins-intro-import2 = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱵᱟᱦᱨᱮ ᱨᱮ ᱥᱟ:ᱪᱟᱣ ᱠᱟᱱᱟ ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ <a data-l10n-name="import-browser-link"> ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ </a> ᱟᱨᱵᱟᱝᱠᱷᱟᱱ <a data-l10n-name="import-file-link"> ᱨᱮᱫ ᱠᱷᱚᱱ </a> ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 
 ## Login
@@ -182,10 +182,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
-        [one] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
-        [two] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
-       *[other] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
+        [1] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
+        [one] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
+        [two] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
+       *[other] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
     }
 about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 about-logins-confirm-export-dialog-message = ᱟᱢᱟᱜᱽ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱫᱚ ᱯᱟᱲᱦᱟᱣ ᱚᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱟᱺᱪᱟᱣᱜᱼᱟ (e.g., BadP@ssw0rd) ᱢᱮᱱᱠᱷᱟᱱ ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱨᱮᱫ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
@@ -223,7 +223,7 @@ about-logins-vulnerable-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢ
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ᱚᱱᱟ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱨᱮᱭᱟᱜ ᱢᱤᱫ ᱟᱫᱮᱨ { $loginTitle } ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜᱼᱟ ᱾ <a data-l10n-name="duplicate-link">ᱢᱟᱲᱟᱝᱟᱜ ᱟᱫᱮᱨ ᱛᱮ ᱪᱟᱞᱟᱜᱼᱟᱢ ᱥᱮ?</a>
 # This is a generic error message.
-about-logins-error-message-default = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱸᱪᱟᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ᱾
+about-logins-error-message-default = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱧᱪᱟᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ᱾
 
 ## Login Export Dialog
 
