@@ -4,6 +4,7 @@
 
 carddav-window =
     .title = 新規 CardDAV アドレス帳
+carddav-window-title = 新規 CardDAV アドレス帳
 carddav-dialog =
     .buttonlabelaccept = 続ける
     .buttonaccesskeyaccept = C
