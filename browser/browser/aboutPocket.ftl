@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Registrer deg med { -brand-product-name }
 pocket-panel-signup-tagline = Lagre artiklar og videoar frå { -brand-product-name } for å vise dei i { -pocket-brand-name } på kva som helst eining, når som helst.
 pocket-panel-signup-tagline-story-one = Trykk på { -pocket-brand-name }-knappen for å lagre artiklar, videoar eller sider frå { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vis i { -pocket-brand-name }, på kva som helst eining, når som helst.
+pocket-panel-signup-cta-a = Din lagre-knapp for internett.
+pocket-panel-signup-cta-b = Klikk på { -pocket-brand-name }-knappen for å lagre artiklar, videoar og lenker. Sjå lista di på kva som helst eining, når som helst.
+pocket-panel-signup-cta-c = Sjå lista di på kva som helst eining, når som helst.
 
 ## about:pocket-home panel
 
@@ -47,6 +50,9 @@ pocket-panel-home-paragraph = Du kan bruke { -pocket-brand-name } for å utforsk
 pocket-panel-home-explore-popular-topics = Utforsk populære emne
 pocket-panel-home-discover-more = Oppdag meir
 pocket-panel-home-explore-more = Utforsk
+pocket-panel-home-most-recent-saves = Her er dei siste lagringane dine:
+pocket-panel-home-new-user-cta = Klikk på { -pocket-brand-name }-knappen for å lagre artiklar, videoar og lenker.
+pocket-panel-home-new-user-message = Sjå dei siste lagringane dine her.
 
 ## Pocket panel header component
 
