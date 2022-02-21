@@ -36,6 +36,13 @@ upgrade-dialog-pin-title =
         [macos] Нигоҳ доштани { -brand-short-name } дар мустақари худ
        *[other] Васл кардани { -brand-short-name } ба навори вазифа
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Браузери навтарини { -brand-short-name }-ро ба осонӣ ба даст оред.
+       *[other] Браузери навтарини { -brand-short-name }-ро дар наздикӣ нигоҳ доред.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Васл кардан ба мустақар
@@ -47,6 +54,7 @@ upgrade-dialog-pin-secondary-button = Ҳоло не
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин кунед
+upgrade-dialog-default-subtitle-2 = Суръат, бехатарӣ ва махфияти худро ба таври худкор ба кор дароред.
 upgrade-dialog-default-primary-button-2 = Гузоштан ҳамчун браузери пешфарз
 upgrade-dialog-default-secondary-button = Ҳоло не
 
