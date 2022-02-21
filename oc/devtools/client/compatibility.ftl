@@ -42,7 +42,14 @@ compatibility-issue-occurrences =
         [one] { $number } ocuréncia
        *[other] { $number } ocuréncias
     }
-
 compatibility-no-issues-found = Cap de problèma de compatibilitat pas trobat.
 compatibility-close-settings-button =
     .title = Tampar los paramètres
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Problèmas de compatibilitat amb :
+        { $browsers }

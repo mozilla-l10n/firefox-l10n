@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Se marcar amb { -brand-product-name }
 pocket-panel-signup-tagline = Salvatz d'articles e vidèos de { -brand-product-name } per los veire en { -pocket-brand-name } de quin periferic que siá quand volatz.
 pocket-panel-signup-tagline-story-one = Clicatz lo boton { -pocket-brand-name } per salvar d'articles, vidèos o paginas de { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vejatz lo contengut de { -pocket-brand-name } de quin periferic que siá quand volatz.
+pocket-panel-signup-cta-a = Vòstre boton per enregistrar los internets.
 pocket-panel-signup-cta-c = Vejatz vòstra lista de quin aparelh que siá, que volètz.
 
 ## about:pocket-home panel
