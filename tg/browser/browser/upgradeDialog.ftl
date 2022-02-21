@@ -60,6 +60,8 @@ upgrade-dialog-default-secondary-button = Ҳоло не
 
 ## Theme selection screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-theme-title-2 = Аз варақи сафед бо мавзӯи нав оғоз кунед
 upgrade-dialog-theme-system = Мавзӯи низомӣ
     .title = Истифодаи мавзӯи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
 
@@ -75,6 +77,8 @@ upgrade-dialog-start-secondary-button = Ҳоло не
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Рангубори худро интихоб намоед
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Аз саҳифаи асосии «Firefox» бо мавзӯи рангин истифода баред
 upgrade-dialog-colorway-primary-button = Нигоҳ доштани нақшу нигор
 upgrade-dialog-colorway-secondary-button = Мавзӯи қаблиро нигоҳ доред
 upgrade-dialog-colorway-theme-tooltip =
