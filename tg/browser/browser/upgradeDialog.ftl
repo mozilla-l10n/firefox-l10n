@@ -10,6 +10,9 @@
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Ба { -brand-short-name }-и нав салом гӯед
+upgrade-dialog-new-subtitle = Барои дарҳол бурда расонидани шумо ба ҷои дилхоҳ эҷод шудааст
+upgrade-dialog-new-item-menu-title = Навори абзорҳо ва менюҳои беҳтаршуда
+upgrade-dialog-new-item-menu-description = Чизҳои муҳимро афзал дониста, ба тартиб дароред, то тавонед чизҳои лозимиро дарҳол ба даст оред.
 upgrade-dialog-new-item-tabs-title = Варақаҳои ҳозиразамон
 upgrade-dialog-new-primary-default-button = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
 upgrade-dialog-new-primary-theme-button = Мавзӯеро интихоб кунед

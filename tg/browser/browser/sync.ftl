@@ -20,5 +20,7 @@ fxa-menu-connect-another-device =
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Ҳамоҳангсозии дастгоҳҳо…
+# This is shown within "Send tab to device" in fxa menu if account is not configured.
+fxa-menu-send-tab-to-device-description = Варақаеро ба дастгоҳи дилхоҳе, ки шумо ба он ворид мешавед, дар як лаҳза фиристонед.
 fxa-menu-sign-out =
     .label = Баромад…
