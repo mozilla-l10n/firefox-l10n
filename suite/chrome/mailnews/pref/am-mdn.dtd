@@ -11,7 +11,7 @@
 <!ENTITY useCustomPrefs.accesskey     "Π">
 <!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων, να ζητείται πάντα αποδεικτικό παράδοσης">
 <!ENTITY requestReceipt.accesskey     "Κ">
-<!ENTITY receiptArrive.label          "Όταν φτάνει αποδεικτικό:">
+<!ENTITY receiptArrive.label          "Όταν φτάνει ένα αποδεικτικό:">
 <!ENTITY leaveIt.label                "Να παραμένει στα εισερχόμενά μου">
 <!ENTITY leaveIt.accesskey            "ε">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
