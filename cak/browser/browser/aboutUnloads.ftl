@@ -7,6 +7,14 @@
 ### feature.
 
 about-unloads-page-title = Kiqasaxik taq ruwi'
+about-unloads-intro =
+    { -brand-short-name } k'o jun rusamaj akuchi' pa ruyonil yeruqasaj taq ruwi'
+    richin chi man nino' ta ruma man k'o ta rutzatzq'or
+    toq qajnäq ri tzatzq'or k'o pa ri ruq'inoj. Ri jun chik ruwi' xtiqasäx ja ri
+    xcha' ruma rusamaj pa jalajöj rub'anikil. Re ruxaq re' nuk'üt achi'el
+    { -brand-short-name } nuya' kiq'ij ri taq ruwi' chuqa' achike ruwi' xtiqasäx
+    toq nitzij ri ruqasaxik ruwi'. Nitikïr nuqasaj taq ruwi' chi q'ab'aj
+    rik'in pa ri pitz'b'äl <em>Tiqasäx</em>.
 about-unloads-column-priority = Ya'on ruq'ij
 about-unloads-column-host = Ruk'u'x Samaj
 about-unloads-column-last-accessed = Ruk'isib'äl Okem
