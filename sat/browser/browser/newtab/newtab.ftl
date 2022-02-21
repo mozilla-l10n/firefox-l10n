@@ -6,6 +6,13 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
+newtab-settings-button =
+    .title = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
+newtab-personalize-icon-label =
+    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
+    .aria-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
+newtab-personalize-dialog-label =
+    .aria-label = ᱥᱟᱡᱟᱣ
 
 ## Search box component.
 
@@ -13,6 +20,24 @@ newtab-page-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 newtab-search-box-search-button =
     .title = ᱥᱮᱸᱫᱽᱨᱟ
     .aria-label = ᱥᱮᱸᱫᱽᱨᱟ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
+newtab-search-box-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+# Variables
+#  $engine (String): the name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
+    .title = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
+    .aria-label = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+    .title = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+    .aria-label = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+newtab-search-box-search-the-web-input =
+    .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .title = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+    .aria-label = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 
 ## Top Sites - General form dialog.
 
@@ -105,9 +130,15 @@ newtab-label-removed-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜᱟᱠᱟᱱ�
 
 newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 
 ## Customization Menu
 
+newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
