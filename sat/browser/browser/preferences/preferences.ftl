@@ -64,7 +64,7 @@ startup-restore-previous-session =
     .accesskey = s
 tabs-group-header = ᱴᱮᱵᱽ ᱠᱚ
 show-tabs-in-taskbar =
-    .label = विंडो टास्क बार रे टेब माड़ाङ तेयाक् ञेंल उदुग मे.
+    .label = ᱡᱷᱚᱨᱠᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱴᱮᱵᱽ ᱢᱟᱲᱟᱝ ᱛᱮᱭᱟᱜ ᱧᱮᱞ ᱩᱫᱩᱜ ᱢᱮ
     .accesskey = k
 browser-containers-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 containers-disable-alert-cancel-button = ᱮᱢ ᱪᱷᱚ ᱠᱟᱜ ᱢᱮ
@@ -72,25 +72,27 @@ containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞ�
 
 ## General Section - Language & Appearance
 
-fonts-and-colors-header = फॉन्ट आर रोङ को
+fonts-and-colors-header = ᱪᱤᱠᱤ ᱟᱨ ᱨᱚᱝ ᱠᱚ
+default-font-size = ᱢᱟᱯ
+    .accesskey = S
 advanced-fonts =
-    .label = लाहावाक् …
+    .label = ᱞᱟᱦᱟᱱᱛᱤ…
     .accesskey = A
 colors-settings =
-    .label = रोङ को …
+    .label = ᱨᱚᱝ ᱠᱚ…
     .accesskey = C
-choose-language-description = उदुक् होचो साहटा को ला़गित् आमाक् कुसियाक् पा़रसी बाछाव मे
+choose-language-description = ᱥᱟᱦᱟᱴ ᱠᱚ ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱯᱟᱹᱨᱚᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 choose-button =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
     .accesskey = o
 translate-web-pages =
-    .label = वेब बिसोय तोरजोमाय मे
+    .label = ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
-translate-attribution = दाराय ते तोरजोमा <img data-l10n-name="logo"/>
+translate-attribution = <img data-l10n-name="logo"/> ᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱦᱩᱭᱠᱟᱱᱟ
 translate-exceptions =
-    .label = बादाक् को …
+    .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
 
 ## General Section - Files and Applications
@@ -114,7 +116,7 @@ applications-type-column =
     .label = ᱡᱤᱱᱤᱥ ᱞᱮᱠᱟ
     .accesskey = T
 applications-action-column =
-    .label = का़मी
+    .label = ᱠᱟᱹᱢᱤ
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
@@ -124,18 +126,18 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = { $app-name } बेभार मे
+    .label = { $app-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = { $app-name } बेभार मे (हुड़ा़क्)
+    .label = { $app-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ (ᱢᱩᱞ)
 applications-use-other =
-    .label = एटागाक् बेभार मे…
-applications-select-helper = गोड़ोयिजाक् एपलिकेसोन बाछाव मे
+    .label = ᱮᱴᱟᱜᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
+applications-select-helper = ᱜᱚᱲᱚᱭᱤᱡᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 applications-manage-app =
-    .label = एपलिकेसोन पुरा़ बिबरोन को…
+    .label = ᱟᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱵᱤᱵᱨᱚᱬ ᱠᱚ …
 applications-always-ask =
-    .label = जावगे कुलियेम
+    .label = ᱡᱟᱣᱜᱮ ᱠᱩᱞᱤᱮᱢ
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -143,7 +145,7 @@ applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = { $plugin-name } बेभार मे ({ -brand-short-name } रे)
+    .label = { $plugin-name } ᱵᱮᱵᱷᱟᱨ ᱢᱮ ({ -brand-short-name } ᱨᱮ)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -176,12 +178,12 @@ update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ
 
 performance-settings-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 performance-allow-hw-accel =
-    .label = हार्डवेयार तोड़ते बेभार तिन रे ञामोक् आ
+    .label = ᱦᱟᱰᱣᱮᱨ ᱛᱚᱲᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱛᱤᱱ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ
     .accesskey = r
 
 ## General Section - Browsing
 
-browsing-title = पानते येत् आ
+browsing-title = ᱯᱟᱱᱛᱮ ᱮᱫ ᱟ
 browsing-use-autoscroll =
     .label = ᱟᱡ ᱛᱮ ᱜᱩᱲᱟᱹᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = a
@@ -189,8 +191,8 @@ browsing-use-smooth-scrolling =
     .label = ᱪᱤᱠᱟᱹᱬ ᱜᱩᱲᱤᱭᱟᱹᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = m
 browsing-use-cursor-navigation =
-    .label = साहटा भितिर रे पानते ला़गित् जावगे कार्सर का़ठी बेभार मे
-    .accesskey = c
+    .label = ᱥᱟᱦᱴᱟ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱣᱜᱮ ᱠᱚᱨᱥᱚᱨ ᱠᱟᱹᱴᱷᱤ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .accesskey = k
 browsing-picture-in-picture-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 browsing-media-control-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
@@ -214,12 +216,12 @@ network-proxy-connection-settings =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] नितोगाक् साहटा बेभार मे
-           *[other] नितोगाक् साहटा को बेभारमे
+            [1] ᱱᱤᱛᱚᱜᱟᱠ ᱥᱟᱦᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+           *[other] ᱱᱤᱛᱚᱜᱟᱠ ᱥᱟᱦᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
         }
     .accesskey = C
 choose-bookmark =
-    .label = पुथी चिनहा़ को बेभार मे…
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
@@ -237,15 +239,15 @@ home-prefs-highlights-options-bookmarks =
 ## Search Section
 
 search-remove-engine =
-    .label = ओचोक्
+    .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = नोकोल तेयार का़ठी साबाद
+search-keyword-warning-title = ᱱᱚᱠᱚᱞ ᱛᱮᱭᱟᱨ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫ
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = आम मित् का़ठी साबाद बाछाव आकात् आम ओका दो नितोक्  "{ $name }" दाराय ते बेभारोक् काना.एटागाक् बाछाव मे
-search-keyword-warning-bookmark = आम मित् का़ठी साबाद बाछाव आकात् आम ओका दो नितोक्  मित् पुथी चिनहा़ दाराय ते बेभारोक् काना. एटागाक् बाछाव मे
+search-keyword-warning-engine = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱫ ᱟ ᱚᱠᱟ “{ $name }” ᱾ ᱫᱟᱨᱟᱭ ᱛᱮ ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱚᱠ ᱠᱟᱱᱟ. ᱮᱴᱟᱜᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+search-keyword-warning-bookmark = ᱟᱢ ᱠᱟᱹᱴᱷᱤ ᱥᱟᱵᱟᱫ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱛ ᱟ ᱚᱠᱟ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹᱝ ᱫᱟᱨᱟᱭ ᱛᱮ ᱱᱤᱛᱚᱜ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱮᱴᱟᱜᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
 ## Containers Section
 
@@ -256,8 +258,8 @@ search-keyword-warning-bookmark = आम मित् का़ठी साब�
 
 ## Firefox Account - Signed in
 
-sync-signedin-unverified = { $email } दो बाय ञेल मिलाव काना
-sync-signedin-login-failure = दोहड़ा जोड़ाव रे साइनइन मे { $email }
+sync-signedin-unverified = { $email } ᱫᱚ ᱵᱟᱭ ᱧᱮᱞ ᱢᱤᱞᱟᱣ ᱠᱟᱱᱟ ᱾
+sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟᱜ ᱫᱚᱦᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 
 ## Sync section - enabling or disabling sync.
 
@@ -270,7 +272,7 @@ sync-currently-syncing-history = ᱱᱟᱜᱟᱢ
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
-    .label = पुथी चिनहा़ को
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
     .accesskey = m
 sync-engine-history =
     .label = ᱱᱟᱜᱟᱢ
@@ -295,7 +297,7 @@ sync-device-name-save =
 ## Privacy Section - Logins and Passwords
 
 forms-exceptions =
-    .label = बादाक् को …
+    .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = x
 forms-breach-alerts-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 forms-primary-pw-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
@@ -303,9 +305,9 @@ forms-primary-pw-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = मुल दानाङ साबाद बोदोल मे …
+    .label = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱢᱮ …
     .accesskey = M
-forms-master-pw-fips-desc = दानाङ साबाद बोदोल डिगा़वेना.
+forms-master-pw-fips-desc = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾
 forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## OS Authentication dialog
@@ -326,20 +328,20 @@ history-header = ᱱᱟᱜᱟᱢ
 history-remember-label = { -brand-short-name } ᱫᱚ
     .accesskey = ᱫ
 history-remember-option-all =
-    .label = हिताल उयहा़र दोहोय मे
+    .label = ᱱᱟᱜᱟᱢ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ
 history-remember-option-never =
-    .label = हिता़ल तिस हों आलोम उयहा़र आ.
+    .label = ᱦᱤᱛᱟᱹᱞ ᱛᱤᱥ ᱦᱚᱸ ᱟᱞᱚᱢ ᱩᱭᱦᱟᱹᱨ ᱟ
 history-remember-option-custom =
-    .label = हिता़ल ला़गित् कुसियाक् साजाव को बेभार मे.
-history-dontremember-description = { -brand-short-name } निजेराक् ब्राउसिंग लेका सोमान साजाव को बेभार मे , आर आम वेब ब्राउज लेका जाहांन हिता़ल लेका बाय उयहा़र .
+    .label = ᱦᱤᱛᱟᱹᱞ ᱞᱟᱹᱜᱤᱛ ᱠᱩᱥᱤᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+history-dontremember-description = { -brand-short-name } ᱫᱚ ᱱᱤᱡᱮᱨᱟᱜ ᱯᱟᱱᱛᱮ ᱭᱟᱜ ᱞᱮᱠᱟ ᱢᱤᱛ ᱜᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨᱟ, ᱟᱨ ᱟᱢ ᱣᱮᱵ ᱯᱟᱱᱛᱮ ᱞᱮᱠᱟ ᱡᱟᱦᱟᱱ ᱦᱤᱛᱟᱹᱞ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾
 history-private-browsing-permanent =
-    .label = निजेराक् ब्राउजिंग ओबोसता जावगे बेभार मे.
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱢᱳᱰ ᱡᱟᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = p
 history-remember-search-option =
-    .label = पानते आर तेयार हिता़ल उयहा़र दोहोय मे.
+    .label = ᱯᱟᱱᱛᱮ ᱟᱨ ᱛᱮᱭᱟᱨ ᱦᱤᱛᱟᱹᱞ ᱩᱭᱦᱟᱹᱨ ᱫᱚᱦᱚᱭ ᱢᱮ
     .accesskey = f
 history-clear-on-close-option =
-    .label = हिता़ल फारचाय मेतिन रे  { -brand-short-name } बोंदो आ
+    .label = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ ᱛᱤᱱᱨᱮ  { -brand-short-name } ᱵᱚᱸᱫᱚᱜᱼᱟ
     .accesskey = r
 history-clear-on-close-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
@@ -370,13 +372,13 @@ content-blocking-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 permissions-notification-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 permissions-block-popups =
-    .label = पॉप-ऑप विंडो आकोट मे
+    .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱟᱴᱠᱟᱣ
     .accesskey = B
 permissions-block-popups-exceptions =
-    .label = बादाक् को…
+    .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
 permissions-addon-exceptions =
-    .label = बादाक् को  …
+    .label = ᱪᱷᱟᱰᱟ ᱠᱚ …
     .accesskey = E
 
 ## Privacy Section - Data Collection
@@ -394,7 +396,7 @@ security-enable-safe-browsing-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - Certificates
 
-certs-header = पोरमान साकाम को
+certs-header = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ
 certs-enable-ocsp =
     .label = पोरमान साकाम रेयाक् नितोगाक् बाताव एम निसेटाय ला़गित् कुकाली OCSP रोड़रुवा़ड़यिजाक् सार्बार
     .accesskey = Q
