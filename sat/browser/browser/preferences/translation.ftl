@@ -3,28 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 translation-window =
-    .title = बादाक् तेरजोमा
+    .title = ᱵᱟᱫᱟᱜ ᱠᱚ ᱼ ᱛᱚᱨᱡᱚᱢᱟ
     .style = width: 36em
-
 translation-close-key =
     .key = w
-
 translation-languages-column =
-    .label = पा़रसी को
-
+    .label = ᱯᱟᱹᱨᱥᱤ ᱠᱚ
 translation-languages-button-remove =
-    .label = पा़रसी ओचोक्
+    .label = ᱯᱟᱹᱨᱥᱤ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
-
 translation-languages-button-remove-all =
-    .label = जोतो पा़रसी को ओचोग मे .
+    .label = ᱡᱷᱚᱛᱚ ᱯᱟᱹᱨᱥᱤ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = e
-
+translation-sites-disabled-desc = ᱛᱚᱨᱡᱚᱢᱟ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱫᱚ ᱵᱟᱝ ᱛᱟᱦᱮᱸᱱᱟ
+translation-sites-column =
+    .label = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ
 translation-sites-button-remove =
-    .label = साइच ओचोग मे.
+    .label = ᱥᱟᱭᱤᱴ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = S
-
 translation-sites-button-remove-all =
-    .label = जोतो साइट को ओचोग में .
+    .label = ᱡᱷᱚᱛᱚ ᱥᱟᱭᱤᱴ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = i
-
+translation-dialog =
+    .buttonlabelaccept = ᱵᱚᱸᱫ ᱢᱮ
+    .buttonaccesskeyaccept = C
