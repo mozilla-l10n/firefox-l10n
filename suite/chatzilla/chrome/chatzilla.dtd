@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Menubar.tooltip    "Glavni meni">
+<!ENTITY Toolbar.tooltip    "Glavna orodna vrstica">
 
 
 <!ENTITY multiline-send.tooltip     "Pošlji to besedilo (Ctrl+Enter)">
 
+<!ENTITY Underline.label             "Podčrtano">
+<!ENTITY Bold.label                  "Krepko">
+<!ENTITY Color.label                 "Barvno">
