@@ -7,6 +7,7 @@ translation-window =
     .style = width: 36em
 translation-close-key =
     .key = w
+translation-languages-disabled-desc = ᱛᱚᱨᱡᱚᱢᱟ ᱫᱚ ᱱᱚᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱫᱚ ᱵᱟᱝ ᱛᱟᱦᱮᱸᱱᱟ
 translation-languages-column =
     .label = ᱯᱟᱹᱨᱥᱤ ᱠᱚ
 translation-languages-button-remove =
