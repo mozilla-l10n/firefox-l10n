@@ -5,15 +5,15 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY navbarOverflow.label                "बड़ती  टुल…">
+<!ENTITY navbarOverflow.label                "ᱵᱟᱹᱲᱛᱤ ᱴᱩᱞ ᱠᱚ …">
 
 <!-- Tab context menu -->
 
-<!ENTITY  listAllTabs.label      "जोतो टैब को सुची मे">
+<!ENTITY  listAllTabs.label      "ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ">
 
 <!ENTITY tabCmd.label "ᱱᱟᱶᱟ ᱴᱮᱵᱽ">
 <!ENTITY openFileCmd.label "ᱨᱮᱫ ᱡᱷᱤᱡ ᱢᱮ …">
-<!ENTITY printCmd.label "छापा…">
+<!ENTITY printCmd.label "ᱪᱷᱟᱯᱟ …">
 
 <!ENTITY menubarCmd.label "ᱢᱤᱱᱩ ᱵᱟᱨ">
 <!ENTITY menubarCmd.accesskey "M">
@@ -29,12 +29,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
-<!ENTITY printButton.label            " छापा">
-<!ENTITY printButton.tooltip          "नोवा साहटा छापाय मे">
+<!ENTITY printButton.label            "ᱪᱷᱟᱯᱟ">
+<!ENTITY printButton.tooltip          "ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ">
 
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "ओड़ाक् ">
+<!ENTITY homeButton.label             "ᱚᱲᱟᱜ">
 
 <!ENTITY historyButton.label            "ᱱᱟᱜᱟᱢ">
 
@@ -42,14 +42,14 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 
-<!ENTITY webDeveloperMenu.label       "वेब लाहा होचोयिच्">
+<!ENTITY webDeveloperMenu.label       "ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ">
 
-<!ENTITY newNavigatorCmd.label        "नावा विंडो">
-<!ENTITY newPrivateWindow.label     "नावा निजेराक् विंडो   ">
+<!ENTITY newNavigatorCmd.label        "ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ">
+<!ENTITY newPrivateWindow.label     "ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ">
 
 <!ENTITY editMenu.label         "ᱥᱟᱯᱲᱟᱣ">
-<!ENTITY preferencesCmd2.label       "आपनार मोने तेयाक् को">
-<!ENTITY preferencesCmdUnix.label       "कुसियाक् को">
+<!ENTITY preferencesCmd2.label       "ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ">
+<!ENTITY preferencesCmdUnix.label       "ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ">
 
 
 <!ENTITY historyMenu.label "ᱱᱟᱜᱟᱢ">
@@ -68,13 +68,13 @@ this container is a toolbar. This avoids double-speaking. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
-<!ENTITY customizeMenu.addToToolbar.label "टुलबार रे सेलेद मे">
+<!ENTITY customizeMenu.addToToolbar.label "ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱵᱟᱨ ᱛᱮ ᱥᱮᱞᱮᱫ ᱢᱮ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addMoreItems.label "ढेर जिनिस को सेलेद में…">
+<!ENTITY customizeMenu.addMoreItems.label "ᱰᱷᱮᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ …">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -87,27 +87,27 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY fullZoom.label                 "हुडिञ माराङ होचो">
+<!ENTITY fullZoom.label                 "ᱡᱩᱢ">
 
-<!ENTITY sidebarCloseButton.tooltip     "धारे बार बोनदोय मे.">
+<!ENTITY sidebarCloseButton.tooltip     "ᱫᱷᱟᱨᱮᱵᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "पॉप- ऑप आकोट होटो कुसियाक् को साासपड़ाव मे …">
-<!ENTITY editPopupSettings.label "पॉप- ऑप आकोट होटो कुसियाक् को साासपड़ाव मे …">
+<!ENTITY editPopupSettingsUnix.label "ᱯᱚᱯ-ᱚᱯ ᱟᱠᱚᱴ ᱠᱩᱥᱤᱭᱟᱜ ᱥᱟᱥᱟᱯᱲᱟᱣ …">
+<!ENTITY editPopupSettings.label "ᱯᱚᱯ-ᱚᱯ ᱟᱠᱚᱴ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ ᱥᱟᱥᱟᱯᱲᱟᱣ …">
 <!ENTITY editPopupSettings.accesskey "E">
 
-<!ENTITY findOnCmd.label     "नोवा साहटा रे ञाम...">
+<!ENTITY findOnCmd.label     "ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ ᱢᱮ ...">
 
-<!ENTITY spellAddDictionaries.label "साबाद माने गादेल पुथी को सेलेद मे…">
+<!ENTITY spellAddDictionaries.label "ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ …">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "ब्राउजार टैब को">
+<!ENTITY tabsToolbar.label "ᱵᱽᱨᱟᱣᱡᱚᱨ ᱴᱮᱵᱽ ᱠᱚ">
 
-<!ENTITY uiTour.infoPanel.close "बोंद मे">
+<!ENTITY uiTour.infoPanel.close "ᱵᱚᱸᱫᱚᱭ ᱢᱮ">
 
 
 
