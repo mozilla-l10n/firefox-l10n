@@ -398,7 +398,7 @@ security-enable-safe-browsing-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 certs-header = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ
 certs-enable-ocsp =
-    .label = पोरमान साकाम रेयाक् नितोगाक् बाताव एम निसेटाय ला़गित् कुकाली OCSP रोड़रुवा़ड़यिजाक् सार्बार
+    .label = ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱚᱠᱛᱚ ᱮᱢ ᱜᱚᱴᱟᱭ ᱞᱟᱹᱜᱤᱫ OCSP ᱠᱩᱠᱞᱤ ᱨᱩᱟᱹᱲᱤᱡ ᱥᱚᱨᱣᱚᱨ ᱠᱟᱹᱢᱤᱟᱭ
     .accesskey = Q
 
 ## Privacy Section - HTTPS-Only
