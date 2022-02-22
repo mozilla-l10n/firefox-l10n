@@ -21,6 +21,11 @@ about-unloads-learn-more =
     Tatz'eta' <a data-l10n-name="doc-link">Kiqasaxik Ruwi'</a> richin netamäx ch'aqa' chik chi ri
     samaj chuqa' re ruxaq re'.
 about-unloads-last-updated = Ruk'isib'al k'exoj: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-no-unloadable-tab = Majun ruwi' richin niqasäx.
 about-unloads-column-priority = Ya'on ruq'ij
 about-unloads-column-host = Ruk'u'x Samaj
 about-unloads-column-last-accessed = Ruk'isib'äl Okem
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) }MB
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
