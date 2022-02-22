@@ -46,29 +46,29 @@ item-cache =
     .label = ᱥᱟᱵ
     .accesskey = a
 item-form-search-history =
-    .label = फोर्म पानते हिता़ल
+    .label = ᱯᱷᱚᱨᱢ ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱤᱛᱟᱹᱞ
     .accesskey = F
-data-section-label = डाटा
+data-section-label = ᱰᱟᱴᱟ
 item-site-preferences =
-    .label = साइट कुसियाक् को
+    .label = ᱥᱟᱭᱤᱴ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
     .accesskey = S
 item-offline-apps =
-    .label = ऑफलाइन वेबसाइट डाटा
+    .label = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
     .accesskey = O
-sanitize-everything-undo-warning = नोवा का़मी सा़त बाङ दाड़ेयाक् आ .
+sanitize-everything-undo-warning = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = नित मेटाव मे
+    .label = ᱱᱤᱛ ᱢᱮᱴᱟᱣ ᱢᱮ
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = फारचायेत् आ
+    .label = ᱯᱷᱟᱨᱪᱟᱮᱫ ᱟ
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = जोतो हिता़ल मेटाक् आ.
+sanitize-everything-warning = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = जोतो बाछाव जिनिस मेटाक् आ.
+sanitize-selected-warning = ᱡᱷᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱫᱚ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾

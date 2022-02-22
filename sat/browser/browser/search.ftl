@@ -8,10 +8,16 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-title = बोहाल भुल
-opensearch-error-duplicate-desc = { -brand-short-name } खोन पानते खोंजा आदेर बाङ बोहाल दाड़ेयाक्  "{ $location-url }" चेदाक् जे सोमान ञुतुम सां व मित् इंजिन माड़ाङ खोन मेनाक् आ .
+opensearch-error-duplicate-title = ᱵᱚᱦᱟᱞ ᱵᱷᱩᱞ
+opensearch-error-duplicate-desc = { -brand-short-name } ᱫᱚ “{ $location-url }” ᱠᱷᱚᱱ ᱯᱟᱱᱛᱮ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱢᱤᱫ ᱧᱩᱛᱩᱢ ᱥᱟᱸᱣ ᱢᱤᱫ ᱤᱸᱡᱤᱱ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱟ ᱾
 opensearch-error-download-title = ᱰᱟᱩᱱᱞᱚᱰ ᱵᱷᱩᱞ
-opensearch-error-download-desc = { -brand-short-name } खोन पानते खोंजा आदेर बाङ आ़तुर आंड़गो दाड़ेयाक् आ: { $location-url }
+opensearch-error-download-desc = { -brand-short-name } ᱯᱟᱱᱛᱮ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ ᱵᱟᱝ ᱟᱹᱛᱩᱨ ᱟᱝᱲᱜᱚ ᱫᱟᱲᱮᱭᱟᱜ ᱟ: { $location-url }
 
 ##
+
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
 
