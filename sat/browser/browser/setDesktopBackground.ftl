@@ -7,16 +7,23 @@ set-desktop-background-window =
 set-desktop-background-accept =
     .label = ᱰᱮᱥᱠᱴᱚᱯ ᱚᱱᱚᱞ ᱥᱟᱡᱟᱣ ᱢᱮ
 open-desktop-prefs =
-    .label = डेस्कटॉप कुसियाक् को झिज मे
-set-background-color = रोङ :
-set-background-position = ओबोसता:
+    .label = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+set-background-preview-unavailable = ᱧᱮᱧᱮᱞ ᱵᱟᱹᱱᱩᱜᱼᱟ
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = ᱛᱤ ᱩᱪᱟᱹᱲ
+set-background-color = ᱨᱚᱝ :
+set-background-position = ᱚᱵᱚᱥᱛᱟ :
 set-background-tile =
-    .label = ञुतुम
+    .label = ᱧᱩᱛᱩᱢ
 set-background-center =
-    .label = तालमा
+    .label = ᱛᱟᱞᱟ
 set-background-stretch =
-    .label = टानाक्
+    .label = ᱴᱟᱱᱟᱜ
 set-background-fill =
-    .label = पेरेच्
+    .label = ᱯᱮᱨᱮᱡ
 set-background-fit =
-    .label = खापोक्
+    .label = ᱠᱷᱟᱯᱚᱠ

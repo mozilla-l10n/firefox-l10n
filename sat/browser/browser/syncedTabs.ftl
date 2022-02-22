@@ -15,5 +15,5 @@ synced-tabs-context-copy =
     .label = ᱱᱚᱠᱚᱞ
     .accesskey = C
 synced-tabs-context-sync-now =
-    .label = नित् मित् ओकतो
+    .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskey = S
