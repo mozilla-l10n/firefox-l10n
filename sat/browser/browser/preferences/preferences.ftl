@@ -22,6 +22,7 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+help-button-label = { -brand-short-name } ᱜᱚᱲᱚ
 focus-search =
     .key = f
 close-button =
@@ -29,10 +30,12 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } नोवा गुन को हुयहोचो ला़गित् दोहड़ा एहोब ला़कती .
-feature-disable-requires-restart = { -brand-short-name } नोवा गुन को बाङ हुय  होचो ला़गित् दोहड़ा एहोब ला़कती .
-should-restart-title = दोहड़ा एहोब { -brand-short-name }
+feature-enable-requires-restart = ᱱᱟᱶᱟ ᱜᱩᱱ ᱠᱚ ᱦᱩᱭᱦᱚᱪᱚ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱫᱚᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
+feature-disable-requires-restart = ᱱᱚᱶᱟ ᱜᱩᱱ ᱵᱚᱸᱫ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱛᱮ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+should-restart-title = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
+should-restart-ok = ᱱᱤᱛᱚᱜ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 cancel-no-restart-button = ᱵᱟᱹᱰᱨᱟᱹ
+restart-later = ᱛᱟᱭᱚᱢ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 
 ## Extension Control Notifications
 ##
@@ -50,10 +53,16 @@ cancel-no-restart-button = ᱵᱟᱹᱰᱨᱟᱹ
 
 ## General Section
 
-startup-header = नावा का़मी एहोब
-is-default = { -brand-short-name } दो नितोक् आमाक हुड़ाक् पानते काना
-is-not-default = { -brand-short-name }दो  आमाक् हुड़ा़क् ब्राउजार  बाङ काना
-tabs-group-header = टेब को
+startup-header = ᱮᱛᱦᱚᱵ
+is-default = { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱟᱱᱟ
+is-not-default = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱝ ᱠᱟᱱᱟ
+set-as-my-default-browser =
+    .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
+    .accesskey = D
+startup-restore-previous-session =
+    .label = ᱢᱟᱲᱟᱝᱟᱜ ᱠᱟᱹᱢᱤ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ
+    .accesskey = s
+tabs-group-header = ᱴᱮᱵᱽ ᱠᱚ
 show-tabs-in-taskbar =
     .label = विंडो टास्क बार रे टेब माड़ाङ तेयाक् ञेंल उदुग मे.
     .accesskey = k
