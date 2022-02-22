@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window =
-    .title = एपलिकेसोन पुरा़ बिबरोन .
+    .title = ᱟᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = ᱚ
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = नोवा एपलिकेसोन साब सोझे ला़गित् बेभार दाड़ेयाक्  { $type }खोंजा को.
+app-manager-handle-protocol = ᱱᱚᱣᱟ ᱠᱚ ᱟᱹᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱠᱚ ᱞᱤᱝᱠ { $type } ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = नोवा एपलिकेसोन साब सोझे ला़गित् बेभार दाड़ेयाक्  { $type } बिसोय.
+app-manager-handle-file = ᱱᱚᱣᱟ ᱠᱚ ᱟᱹᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱠᱚ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ { $type } ᱡᱤᱱᱤᱥ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = नोवा वेब एपलिकेसोन रे हुय होचो आकाना :
-app-manager-local-app-info = नोवा वेब एपलिकेसोन रे ठांव आकाना :
+app-manager-web-app-info = ᱣᱮᱵᱽ ᱟᱹᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱱᱚᱣᱟ ᱨᱮ ᱨᱟᱠᱟᱵ ᱟᱠᱟᱱᱟ :
+app-manager-local-app-info = ᱟᱹᱨᱚᱡᱤ ᱥᱟᱠᱟᱢ ᱱᱚᱣᱟ ᱡᱟᱭᱜᱟ ᱨᱮ ᱩᱫᱩᱣᱟᱜ ᱟᱠᱟᱱᱟ :
