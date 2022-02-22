@@ -25,7 +25,7 @@ category-privacy =
 focus-search =
     .key = f
 close-button =
-    .aria-label = बोंद मे
+    .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Browser Restart Dialog
 

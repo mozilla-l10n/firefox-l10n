@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = ᱞᱟᱹᱜᱤᱫ ᱪᱤᱠᱤ ᱠᱚ
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = ᱚᱨᱵᱤ
 fonts-langgroup-armenian =
@@ -21,6 +23,8 @@ fonts-langgroup-trad-chinese-hk =
     .label = ᱟᱹᱨᱤ ᱪᱟᱹᱞᱤ ᱞᱮᱠᱟᱱ ᱪᱤᱱ ᱨᱮᱭᱟᱜ (ᱦᱚᱝ ᱠᱚᱝ)
 fonts-langgroup-trad-chinese =
     .label = ᱟᱹᱨᱤ ᱪᱟᱹᱞᱤ ᱞᱮᱠᱟᱱ ᱪᱤᱱ ᱨᱮᱭᱟᱜ (ᱛᱟᱭᱣᱟᱱ)
+fonts-langgroup-cyrillic =
+    .label = ᱥᱟᱭᱠᱨᱤᱞᱤᱠ
 fonts-langgroup-devanagari =
     .label = ᱫᱮᱣᱟᱱᱟᱜᱽᱨᱤ
 fonts-langgroup-ethiopic =
@@ -48,6 +52,8 @@ fonts-langgroup-latin =
     .label = ᱞᱮᱴᱤᱱ
 fonts-langgroup-malayalam =
     .label = ᱢᱟᱞᱟᱭᱟᱞᱟᱢ
+fonts-langgroup-odia =
+    .label = ᱳᱰᱤᱭᱟ
 fonts-langgroup-sinhala =
     .label = ᱥᱤᱸᱦᱟᱞᱟ
 fonts-langgroup-tamil =
@@ -59,19 +65,31 @@ fonts-langgroup-thai =
 fonts-langgroup-tibetan =
     .label = ᱛᱤᱵᱚᱛ
 fonts-langgroup-canadian =
-    .label = मित् होचो कानाडा रेयाक् आखोर साबाद
+    .label = ᱢᱤᱫ ᱦᱚᱪᱚ ᱠᱟᱱᱟᱰᱟ ᱨᱮᱭᱟᱜ ᱟᱠᱷᱚᱨ ᱥᱟᱵᱟᱫ
 fonts-langgroup-other =
-    .label = एटाक् ओल सेसटेम को
+    .label = ᱮᱴᱟᱜ ᱚᱞ ᱥᱭᱥᱴᱮᱢ ᱠᱚ
 
 ## Default fonts and their sizes
 
 fonts-default-serif =
-    .label = सेरिफ
+    .label = ᱥᱮᱨᱤᱯᱷ
 fonts-default-sans-serif =
-    .label = सान्स सेरिफ
+    .label = ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ
+fonts-proportional-size = ᱢᱟᱯ
+    .accesskey = z
+fonts-serif = ᱥᱮᱨᱤᱯᱷ
+    .accesskey = S
+fonts-sans-serif = ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ
+    .accesskey = n
+fonts-monospace = ᱢᱚᱱᱚᱥᱯᱮᱥ
+    .accesskey = M
+fonts-monospace-size = ᱢᱟᱯ
+    .accesskey = e
 fonts-minsize-none =
-    .label = जाहांनाक् बाङ
+    .label = ᱡᱟᱦᱱᱟᱜ ᱵᱟᱝ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = हुड़ा़क् ({ $name })
+    .label = ᱢᱩᱞ ({ $name })
+fonts-label-default-unnamed =
+    .label = ᱢᱩᱞ

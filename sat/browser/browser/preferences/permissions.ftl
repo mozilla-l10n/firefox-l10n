@@ -4,38 +4,35 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
-    .label = आकोट
+    .label = ᱟᱠᱚᱴ
     .accesskey = B
-
 permissions-session =
-    .label = का़मी ओकतो ला़गित् बाताव एम
+    .label = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
     .accesskey = S
-
 permissions-allow =
-    .label = बाताव एम
+    .label = ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ
     .accesskey = A
-
+permissions-button-off =
+    .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = O
 permissions-status =
-    .label = दोसा
-
+    .label = ᱫᱚᱥᱟ
 permissions-capabilities-allow =
-    .label = बाताव एम
+    .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-block =
-    .label = आकोट
-
+    .label = ᱟᱠᱚᱴ
 permissions-capabilities-listitem-allow =
-    .value = बाताव एम
+    .value = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-listitem-block =
-    .value = आकोट
+    .value = ᱟᱠᱚᱴ
 permissions-capabilities-listitem-allow-session =
-    .value = का़मी ओकतो ला़गित् बाताव एम
+    .value = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = बाङ बाताव हुय होचो ञुतुम आदेराकाना
-permissions-invalid-uri-label = मित् बातावाक् हुय होचो ञुतुम आदेर मे
+permissions-invalid-uri-title = ᱵᱷᱩᱞ ᱦᱚᱥᱴᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱠᱟᱱᱟ
+permissions-invalid-uri-label = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱴᱷᱤᱠ ᱦᱚᱥᱴᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
 
 ## Exceptions - Tracking Protection
 
@@ -48,14 +45,14 @@ permissions-invalid-uri-label = मित् बातावाक् हुय 
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = आम गोटा दाड़ेयाक् आम ओका वेब साइट को पॉप-ऑप विंडो झिज ला़गित् बाताव एमा.  आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र टिका़ना आर इना़ तायोम बाताव एम ओताय मे.
+permissions-exceptions-popup-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱯᱚᱯ ᱚᱯ ᱣᱤᱸᱰᱚ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Exceptions - Saved Logins
 
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-desc = आम गोटा दाड़ेयाक् आ ओका वेब साइट को दो एड-ऑन बोहाल ला़गित् बातावे एमा. आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र ठिका़ना टाइप मे आर इना़ तायोम बाताव एम ओताय मे.
+permissions-exceptions-addons-desc = ᱟᱢ ᱜᱚᱴᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱚᱠᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱮᱰᱼᱚᱱ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣᱮᱢ ᱮᱢᱟ, ᱥᱟᱤᱴ ᱨᱮᱭᱟᱜ ᱥᱩᱦᱤ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱠᱟ ᱟᱢ ᱵᱟᱛᱟᱣ ᱮᱢ  ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱴᱟᱤᱯ ᱢᱮ ᱟᱨᱚ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱵᱟᱛᱟᱣ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Site Permissions - Autoplay
 
