@@ -575,7 +575,7 @@
 <!ENTITY addressBookButton.tooltip "Fara í nafnaskrá">
 <!ENTITY chatButton.tooltip "Sýna spjallflipann">
 <!ENTITY tagButton.tooltip "Merkja skilaboð">
-<!ENTITY compactButton.tooltip "Eyða eyddum póstum frá valinni möppu">
+<!ENTITY compactButton.tooltip "Eyða eyddum póstum úr valinni möppu">
 <!ENTITY appmenuButton1.tooltip "Birta &brandShortName; valmynd">
 
 <!-- Toolbar Button Popup -->
