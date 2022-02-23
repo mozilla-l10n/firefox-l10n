@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "पुथी ओड़ाक्">
+<!ENTITY places.library.title  "ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "साजाव">
+<!ENTITY organize.label        "ᱥᱟᱡᱟᱣ">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "आमाक् पुथी चिनहा़ को साजाव ">
+<!ENTITY organize.tooltip      "ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱟᱢᱴᱟᱣ">
 
-<!ENTITY file.close.label               "बोंद मे">
+<!ENTITY file.close.label               "ᱵᱚᱸᱫᱚᱭ ᱢᱮ">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "ञेंल">
+<!ENTITY views.label                    "ᱧᱮᱞ ᱠᱚ">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "आमाक् ञेंल बोदोल मे">
-<!ENTITY view.columns.label             "कांधा को उदुग">
+<!ENTITY views.tooltip                  "ᱟᱢᱟᱠ ᱧᱮᱞ ᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ">
+<!ENTITY view.columns.label             "ᱠᱟᱛᱷᱟ ᱠᱚ ᱩᱫᱩᱜ">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                " साला">
+<!ENTITY view.sort.label                "ᱥᱟᱞᱟ">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            " बाङ साला">
+<!ENTITY view.unsorted.label            "ᱵᱟᱝ ᱥᱟᱞᱟ">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z थार ते साला">
+<!ENTITY view.sortAscending.label       "A > Z ᱛᱷᱟᱨ ᱛᱮ ᱥᱟᱞᱟ">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A थार ते साला ">
+<!ENTITY view.sortDescending.label      "Z > A ᱛᱷᱟᱨ ᱛᱮ ᱥᱟᱞᱟ">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "HTML खोन पुथी चिनहा़ को आ़गु… ">
+<!ENTITY importBookmarksFromHTML.label     "HTML ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       " HTMLखोन पुथी चिनहा़ को कुल…">
+<!ENTITY exportBookmarksToHTML.label       "HTML ᱛᱮ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱵᱷᱮᱡᱟ…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "एटागाक् ब्राउजार खोन डाटा आ़गु …">
+<!ENTITY importOtherBrowser.label          "ᱮᱴᱟᱜᱟᱜ ᱵᱨᱟᱩᱡᱽᱚᱮ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ …">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ…">
@@ -41,22 +41,22 @@
 <!ENTITY cmd.restoreFromFile.label      "ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY col.name.label          "ञुतुम">
-<!ENTITY col.tags.label          "तोल को ">
-<!ENTITY col.url.label           "ठांव">
-<!ENTITY col.mostrecentvisit.label "आ़डिसुराक् ञेल">
-<!ENTITY col.visitcount.label    "लेखा ञुल मे">
-<!ENTITY col.dateadded.label     "सेलेद काना">
+<!ENTITY col.name.label          "ᱧᱩᱛᱩᱢ">
+<!ENTITY col.tags.label          "ᱛᱚᱞ ᱠᱚ:">
+<!ENTITY col.url.label           "ᱴᱷᱟᱶ">
+<!ENTITY col.mostrecentvisit.label "ᱱᱮᱱᱮ ᱧᱮᱞᱟᱜ">
+<!ENTITY col.visitcount.label    "ᱞᱮᱠᱷᱟ ᱧᱮᱞ ᱢᱮ">
+<!ENTITY col.dateadded.label     "ᱥᱮᱞᱮᱫ ᱮᱱᱟ">
 <!ENTITY col.lastmodified.label  "ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      " आ़गु बेकऑप तेयार">
+<!ENTITY maintenance.label      "ᱟᱹᱜᱩ ᱵᱮᱠᱚᱯᱷ ᱛᱮᱭᱟᱨ">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "आमाक् पुथी चिनहा़ को आ़गू आर बेकऑप">
+<!ENTITY maintenance.tooltip    "ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹᱝ ᱠᱚ ᱟᱹᱜᱩ ᱟᱨᱚ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ">
 
-<!ENTITY backButton.tooltip  "तायोम चालाक् मे">
+<!ENTITY backButton.tooltip  "ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱣ">
 
-<!ENTITY forwardButton.tooltip  "माड़ाङ सेत् चालाक् मे">
+<!ENTITY forwardButton.tooltip  "ᱢᱟᱲᱟᱝ ᱥᱮᱫ ᱪᱟᱞᱟᱣ">
 
 <!ENTITY detailsPane.selectAnItemText.description "ᱢᱤᱫ ᱡᱤᱱᱤᱥ ᱟᱨ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱜᱩᱱ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾">
