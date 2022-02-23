@@ -40,6 +40,7 @@ pocket-panel-signup-tagline-story-one = Kliknite gumb { -pocket-brand-name } v {
 pocket-panel-signup-tagline-story-two = Oglejte si v { -pocket-brand-name }u na kateri koli napravi.
 pocket-panel-signup-cta-a = Vaš gumb za shranjevanje za internet.
 pocket-panel-signup-cta-b = Kliknite gumb { -pocket-brand-name }, da shranite članke, videoposnetke in povezave. Oglejte si svoj seznam v kateri koli napravi in kadar koli.
+pocket-panel-signup-cta-c = Oglejte si svoj seznam na katerikoli napravi, kadarkoli.
 
 ## about:pocket-home panel
 
@@ -59,3 +60,4 @@ pocket-panel-header-sign-in = Prijava
 
 pocket-panel-button-show-all = Prikaži vse
 pocket-panel-button-add-tags = Dodaj oznake
+pocket-panel-button-activate = Vključi { -pocket-brand-name } v { -brand-product-name(sklon: "mestnik") }
