@@ -21,7 +21,20 @@
 <!ENTITY quickMode.accesskey         "h">
 
 <!ENTITY autotagEnable.accesskey     "օ">
+<!ENTITY autotagUsePrefix.accesskey  "P">
 
 <!-- Subscription Dialog -->
+<!ENTITY button.addFeed.label        "Աւելացնել">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "Հաստատել">
+<!ENTITY button.verifyFeed.accesskey "V">
+<!ENTITY button.updateFeed.label     "Թարմացնել">
+<!ENTITY button.updateFeed.accesskey "U">
+<!ENTITY button.removeFeed.label     "Հեռացնել">
+<!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Ներածել">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.accesskey "X">
 
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Փակել">

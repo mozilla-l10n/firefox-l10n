@@ -5,16 +5,28 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityDoNotEncrypt.label "Չգաղտնագրել">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "o">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Թոյղ տալ գաղտնագրումը">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
+<!ENTITY menu_securitySign.accesskey "M">
 
+<!ENTITY menu_securityTech.accesskey "T">
 
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Դիտել տեղեկատուութիւն անվտանգութեան մասին">
 
+<!ENTITY securityButton.label "Անվտանգութիւն">
+<!ENTITY securityButton.tooltip "Դիտել կամ փոխել անվտանգութեան կարգաւորումը">
 
+<!ENTITY menu_viewSecurityStatus.label "Հաղորդագրութեան անվտանգութեան տեղեկատուութիւն">
