@@ -4,12 +4,23 @@
 
 <!-- Subscription Dialog -->
 
+<!ENTITY feedTitle.label             "Վերնագիր․">
+<!ENTITY feedTitle.accesskey         "T">
 
+<!ENTITY feedLocation.accesskey      "F">
 
+<!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "րոպէ">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "աւրեր">
+<!ENTITY biffDays.accesskey          "d">
 
+<!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.accesskey     "օ">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.importOPML.label     "Ներածել">

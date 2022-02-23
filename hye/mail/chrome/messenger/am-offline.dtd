@@ -23,3 +23,11 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Աւրեր">
+<!ENTITY weekAgeInterval.label           "Շաբաթներ">
+<!ENTITY monthAgeInterval.label          "Ամիսներ">
+<!ENTITY yearAgeInterval.label           "Տարիներ">
+<!ENTITY ageAutosyncAfter.label          "">
