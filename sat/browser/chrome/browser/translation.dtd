@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "नोवा साइट तिसहों आलोम तोरजोमाया.">
+<!ENTITY translation.options.neverForSite.label "ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱛᱮᱥ ᱦᱚᱸ ᱟᱞᱚᱢ ᱛᱚᱨᱡᱚᱢᱟᱭᱟ">
 <!ENTITY translation.options.neverForSite.accesskey "e">
-<!ENTITY translation.options.preferences.label  "तोरजोमा कुसियाक् को .">
+<!ENTITY translation.options.preferences.label  "ᱛᱚᱨᱡᱚᱢᱟ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ">
 <!ENTITY translation.options.preferences.accesskey "T">
