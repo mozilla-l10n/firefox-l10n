@@ -14,6 +14,11 @@ experimental-features-css-constructable-stylesheets =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Zagonski predpomnilnik about:home
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Orodja za razvijalce: Razhroščevanje Service Workerjev
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Omogoči poskusno podporo za Service Workerje na plošči razhroščevalnika. Ta zmožnost lahko upočasni razvojna orodja in poveča porabo pomnilnika.
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Podpora za več slik v sliki
