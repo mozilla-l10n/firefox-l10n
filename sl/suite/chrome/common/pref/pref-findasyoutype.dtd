@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.findAsYouType.title "Najdi med tipkanjem">
+<!ENTITY findAsYouTypeBehavior.label "Najdi med tipkanjem">
+<!ENTITY findAsYouTypeTip.label "Namig: če želite ročno zagnati funkcijo Najdi med tipkanjem, pritisnite / za iskanje besedila ali ' za iskanje povezav, nato pa vnesite besedilo, ki ga želite najti.">
+<!ENTITY findAsYouTypeTimeout.label "Izbriši trenutno iskanje po nekaj sekundah nedejavnosti">
+<!ENTITY findAsYouTypeSound.label "Predvajaj zvok, ko vnesenega besedila ni mogoče najti">
+<!ENTITY findAsYouTypeAutoLinks.label "Samo povezave">
+
