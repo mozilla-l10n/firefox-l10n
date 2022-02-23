@@ -7,5 +7,6 @@
 <!ENTITY findAsYouTypeTip.label "Namig: če želite ročno zagnati funkcijo Najdi med tipkanjem, pritisnite / za iskanje besedila ali ' za iskanje povezav, nato pa vnesite besedilo, ki ga želite najti.">
 <!ENTITY findAsYouTypeTimeout.label "Izbriši trenutno iskanje po nekaj sekundah nedejavnosti">
 <!ENTITY findAsYouTypeSound.label "Predvajaj zvok, ko vnesenega besedila ni mogoče najti">
+<!ENTITY findAsYouTypeEnableAuto.label "Samodejno išči pri tipkanju na spletni strani:">
 <!ENTITY findAsYouTypeAutoLinks.label "Samo povezave">
 
