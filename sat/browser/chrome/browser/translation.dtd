@@ -12,12 +12,12 @@
   -  toolkit/intl/languageNames.ftl file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "नोवा साहटा रे भितिर रे मेनाक् आ .">
-<!ENTITY translation.translateThisPage.label    "नोवा साहटा तोरजामाय मे ?">
-<!ENTITY translation.translate.button           "तोरजोमा">
-<!ENTITY translation.notNow.button              "नितोक् बाङ">
+<!ENTITY translation.thisPageIsIn.label         "ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ">
+<!ENTITY translation.translateThisPage.label    "ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟᱭᱟᱢ ᱥᱮ ?">
+<!ENTITY translation.translate.button           "ᱛᱚᱨᱡᱚᱢᱟ">
+<!ENTITY translation.notNow.button              "ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ">
 
-<!ENTITY translation.translatingContent.label   "तोरजोमावाक् साहटा बिसोय …">
+<!ENTITY translation.translatingContent.label   "ᱥᱟᱦᱴᱟ ᱡᱤᱱᱤᱥ ᱛᱚᱨᱡᱚᱢᱟᱜ ᱠᱟᱱᱟ …">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -34,19 +34,19 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "खोन नोवा साहटा दो तोरजोमा होचोवाकाना.">
-<!ENTITY translation.translatedTo.label         "ठेन">
+<!ENTITY translation.translatedFrom.label       "ᱠᱷᱚᱱ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱛᱚᱨᱡᱚᱢᱟ ᱦᱚᱪᱚᱣᱟᱜ ᱠᱟᱱᱟ">
+<!ENTITY translation.translatedTo.label         "ᱴᱷᱮᱱ">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "ᱢᱩᱞᱟᱜ ᱩᱫᱩᱜᱽ ᱢᱮ ᱾">
-<!ENTITY translation.showTranslation.button     "तोरजोमाक् उदुग मे.">
+<!ENTITY translation.showTranslation.button     "ᱛᱚᱨᱡᱚᱢᱟ ᱩᱫᱩᱜᱽ ᱢᱮ">
 
-<!ENTITY translation.errorTranslating.label     "नोवा साहटा तोरजोमा रे मित् भुल हुय आकाना.">
+<!ENTITY translation.errorTranslating.label     "ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱦᱩᱭ ᱠᱟᱱᱟ ᱾">
 <!ENTITY translation.tryAgain.button            "ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ">
 
-<!ENTITY translation.serviceUnavailable.label   "निया ओकतो तोरजोमा बाय ञामोक् आ. दोहड़ा तायोम ते कुरुमुटुय मे .">
+<!ENTITY translation.serviceUnavailable.label   "ᱱᱤᱭᱟᱹ ᱚᱠᱛᱚ ᱛᱚᱨᱡᱚᱢᱟ ᱵᱟᱭ ᱧᱟᱢᱚᱜᱼᱟ ᱾ ᱫᱟᱭᱟᱛᱮ ᱛᱟᱭᱚᱢᱛᱮ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾">
 
-<!ENTITY translation.options.menu               "आपनार मोने तेयाक् को">
+<!ENTITY translation.options.menu               "ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
