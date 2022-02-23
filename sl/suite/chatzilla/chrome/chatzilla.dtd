@@ -6,6 +6,8 @@
 <!ENTITY Toolbar.tooltip    "Glavna orodna vrstica">
 
 
+<!ENTITY multiline-expand.tooltip   "Preklopi na večvrstični vnos (Ctrl+Gor)">
+<!ENTITY multiline-contract.tooltip "Preklopi na enovrstični vnos (Ctrl+Dol)">
 <!ENTITY multiline-send.tooltip     "Pošlji to besedilo (Ctrl+Enter)">
 
 <!ENTITY Underline.label             "Podčrtano">
