@@ -49,7 +49,7 @@
 <!ENTITY netReset.longDesc "<p>O link de rede foi interrompido ao negociar uma conexão. Tente novamente.</p>">
 
 <!ENTITY netTimeout.title "Atingido o tempo limite de conexão">
-<!ENTITY netTimeout.longDesc "<p>O site solicitado não respondeu a solicitação de conexão e o navegador parou de esperar pela resposta.</p><ul><li>O servidor poderia estar sobrecarregado ou temporariamente fora do ar? Tente de novo mais tarde.</li><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O seu computador ou rede é protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li><li>O problema persiste? Consulte seu administrador de rede ou o suporte do provedor internet.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>O site não respondeu à solicitação de conexão e o navegador deixou de esperar pela resposta.</p><ul><li>O servidor pode estar sobrecarregado ou temporariamente fora do ar? Tente de novo mais tarde.</li><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O computador ou a rede está protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li><li>O problema persiste? Consulte o administrador de sua rede ou o suporte do provedor de internet.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocolo desconhecido">
 <!ENTITY unknownProtocolFound.longDesc "<p>O endereço especifica um protocolo (exemplo: <q>wxyz://</q>) não reconhecido, de modo que não é possível conectar-se adequadamente ao site.</p><ul><li>Você está tentando acessar conteúdo multimídia ou outro serviço que não seja texto? Verifique no site se há requisitos extras.</li><li>Alguns protocolos podem necessitar de aplicativos de terceiros ou plugins para que possam ser reconhecidos.</li></ul>">
@@ -61,7 +61,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>O navegador está configurado para usar um servidor proxy, mas ele não pôde ser encontrado.</p><ul><li>A configuração de proxy do navegador está correta? Verifique e tente de novo.</li><li>O computador está conectado a uma rede ativa?</li><li>O problema persiste? Consulte seu administrador de rede ou o suporte do provedor internet.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redirecionamento sem fim">
-<!ENTITY redirectLoop.longDesc "<p>As tentativas para acessar o item solicitado foram interrompidas. O site está redirecionando o pedido de um modo que impede a sua conclusão.</p><ul><li>Você desativou ou bloqueou cookies exigidos por este site?</li><li><em>NOTA</em>: se aceitar os cookies do site não resolver o problema, provavelmente a causa é alguma configuração no servidor e não o seu computador.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>As tentativas para acessar o item solicitado foram interrompidas. O site está redirecionando o pedido de um modo que impede sua conclusão.</p><ul><li>Você desativou ou bloqueou cookies exigidos por este site?</li><li><em>NOTA</em>: Se aceitar os cookies do site não resolver o problema, provavelmente a causa é alguma configuração no servidor e não no seu computador.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Resposta incorreta">
 <!ENTITY unknownSocketType.longDesc "<p>O site respondeu à solicitação de rede de uma maneira inesperada e o navegador não pode continuar.</p>">
