@@ -82,7 +82,7 @@ funcionando.</li>
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li> 
 <li>Certifique-se de que a conexão de rede do seu computador esteja funcionando.</li> 
-<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se 
+<li>Se a rede ou o computador estiver protegido por um firewall ou proxy, certifique-se 
 de que o &brandShortName; esteja autorizado a acessar a web.</li> 
 </ul>">
 
@@ -108,7 +108,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "O &brandShortName; detectou uma potencial ameaça de segurança e não seguiu para <span class='hostname'/>. Se você visitar este site, invasores podem tentar roubar suas informações, como senhas, endereços de email ou detalhes de cartões de crédito.">
 <!ENTITY certerror.sts.introPara "O &brandShortName; detectou uma potencial ameaça de segurança e não prosseguiu para <span class='hostname'/> porque este site exige uma conexão segura.">
 
-<!ENTITY certerror.expiredCert.introPara "O &brandShortName; detectou um problema e não prosseguiu para <span class='hostname'/>. O site foi mal configurado ou o relógio interno do seu computador está errado.">
+<!ENTITY certerror.expiredCert.introPara "O &brandShortName; detectou um problema e não prosseguiu para <span class='hostname'/>. O site foi mal configurado ou o relógio interno desde computador está errado.">
 <!ENTITY certerror.expiredCert.secondPara2 "Provavelmente o certificado do site está expirado, impedindo que o &brandShortName; se conecte com segurança. Se você acessar este site, invasores podem tentar roubar informações confidenciais como senhas, emails ou detalhes de cartões de crédito.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Provavelmente o certificado do site está expirado, impedindo que o &brandShortName; se conecte com segurança.">
 

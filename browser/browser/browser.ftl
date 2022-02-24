@@ -263,7 +263,7 @@ identity-connection-not-secure = Conexão não segura
 identity-connection-secure = Conexão segura
 identity-connection-failure = Falha na conexão
 identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
-identity-connection-file = Esta página está armazenada no seu computador.
+identity-connection-file = Esta página está armazenada neste computador.
 identity-extension-page = Esta página é carregada a partir de uma extensão.
 identity-active-blocked = O { -brand-short-name } bloqueou partes não seguras desta página.
 identity-custom-root = Conexão homologada por uma entidade certificadora que não é reconhecida pela Mozilla.
@@ -518,7 +518,7 @@ urlbar-result-action-search-tabs = Pesquisar nas abas
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Imprimir
     .tooltiptext = Imprimir esta página… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Imprimir
-    .tooltiptext = Imprimir a página
 navbar-home =
     .label = Página inicial
     .tooltiptext = Página inicial do { -brand-short-name }
