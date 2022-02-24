@@ -38,6 +38,8 @@ pocket-panel-signup-signup-firefox = Eñemboheraguapy { -brand-product-name } nd
 pocket-panel-signup-tagline = Eñongatu jehaipyre ha ta’ãngamýi { -brand-product-name } guive ehecha hag̃ua { -pocket-brand-name }-pe oimeraẽva mba’o’kápe ejapose vove.
 pocket-panel-signup-tagline-story-one = Eikutu pe votõ { -pocket-brand-name } eñongatu hag̃ua marandu, ta’angamýi térã kuatiarogue { -brand-product-name } guive.
 pocket-panel-signup-tagline-story-two = Ehecha { -pocket-brand-name }-pe mba’e’oka guive ejapose vove.
+pocket-panel-signup-cta-a = Ne votõ eñongatuha ñanduti pegua.
+pocket-panel-signup-cta-c = Ehecha tysýi mba’e’oka guive, ejapose vove.
 
 ## about:pocket-home panel
 
@@ -47,6 +49,7 @@ pocket-panel-home-paragraph = Eipurukuaa { -pocket-brand-name } eheka hag̃ua ha
 pocket-panel-home-explore-popular-topics = Ehekaporã téma oñehenduvéva
 pocket-panel-home-discover-more = Ejuhukuaave
 pocket-panel-home-explore-more = Ehapykueho
+pocket-panel-home-most-recent-saves = Ápe oĩ mba’epuru eñongatu ramovéva:
 
 ## Pocket panel header component
 
