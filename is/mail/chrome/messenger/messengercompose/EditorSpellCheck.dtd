@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Yfirfara stafsetningu">
 
-<!ENTITY misspelledWord.label "Vitlaust stafað orð:">
+<!ENTITY misspelledWord.label "Rangt stafað orð:">
 <!ENTITY wordEditField.label "Setja í staðinn:">
 <!ENTITY wordEditField.accessKey "j">
 <!ENTITY checkwordButton.label "Athuga orð">
