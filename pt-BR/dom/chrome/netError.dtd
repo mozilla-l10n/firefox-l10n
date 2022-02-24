@@ -8,13 +8,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Falha na conexão">
-<!ENTITY connectionFailure.longDesc "<p>Embora o site pareça válido, não foi possível estabelecer uma conexão.</p><ul><li>O servidor poderia estar temporariamente fora do ar? Tente de novo mais tarde.</li><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O seu computador ou rede é protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Embora o site pareça válido, não foi possível estabelecer uma conexão.</p><ul><li>O servidor pode estar temporariamente fora do ar? Tente de novo mais tarde.</li><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O computador ou a rede é protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Porta restringida por motivos de segurança">
 <!ENTITY deniedPortAccess.longDesc "<p>O endereço solicitado especifica uma porta (exemplo: <q>mozilla.org:80</q> para a porta 80 no mozilla.org) geralmente usada para <em>outros</em> propósitos que não a navegação web. Para sua proteção e segurança, o pedido foi cancelado.</p>">
 
 <!ENTITY dnsNotFound.title "Endereço não encontrado">
-<!ENTITY dnsNotFound.longDesc "<p>Não foi possível localizar o servidor do endereço fornecido.</p><ul><li>Houve um engano na digitação do domínio? (exemplo: <q><strong>ww</strong>.mozilla.org</q> em vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>Tem certeza que o domínio do endereço existe? A validade do registro pode ter vencido.</li><li>Não consegue abrir outros sites? Verifique a sua conexão de rede e as configurações de DNS.</li><li>O seu computador ou rede é protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Não foi possível localizar o servidor do endereço fornecido.</p><ul><li>Houve um engano na digitação do domínio? (exemplo: <q><strong>ww</strong>.mozilla.org</q> em vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>Tem certeza que o domínio do endereço existe? A validade do registro pode ter vencido.</li><li>Não consegue abrir outros sites? Verifique a conexão de rede e as configurações de DNS.</li><li>O computador ou a rede está protegido por um firewall ou proxy? Configurações incorretas podem interferir na navegação.</li></ul>">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul><li>O item pode ter sido renomeado, removido ou realocado?</li><li>Há algum erro de digitação no endereço, como uma letra maiúscula em vez de minúscula?</li><li>Você tem permissão suficiente para acessar o item solicitado?</li></ul>">
