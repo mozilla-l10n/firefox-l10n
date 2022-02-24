@@ -140,5 +140,6 @@ spotlight-public-wifi-vpn-link = Jangan Sekarang
 
 ## Total Cookie Protection Rollout
 
+spotlight-total-cookie-protection-body = Perlindungan Kuki Total mencegah pelacak menggunakan kuki untuk menguntit Anda di web.
 spotlight-total-cookie-protection-primary-button = Aktifkan Perlindungan Kuki Total
 spotlight-total-cookie-protection-secondary-button = Jangan sekarang

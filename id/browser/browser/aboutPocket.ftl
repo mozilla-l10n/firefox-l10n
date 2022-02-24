@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tambahkan Tag
-
 pocket-panel-saved-error-generic = Terjadi kesalahan saat mencoba menyimpan ke { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Panjang karakter maksimum tag adalah 25 karakter
 pocket-panel-saved-error-only-links = Hanya tautan yang dapat disimpan
@@ -39,6 +38,8 @@ pocket-panel-signup-signup-firefox = Daftar ke { -brand-product-name }
 pocket-panel-signup-tagline = Simpan artikel dan video dari { -brand-product-name } untuk melihatnya lewat { -pocket-brand-name } di berbagai perangkat, kapan saja.
 pocket-panel-signup-tagline-story-one = Klik Tombol { -pocket-brand-name } untuk menyimpan artikel, video, atau laman apa saja dari { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tampilkan lewat { -pocket-brand-name } di berbagai perangkat, kapan saja.
+pocket-panel-signup-cta-a = Tombol simpan Anda untuk internet.
+pocket-panel-signup-cta-c = Tampilkan daftar Anda di berbagai perangkat, kapan saja.
 
 ## about:pocket-home panel
 
@@ -48,3 +49,17 @@ pocket-panel-home-paragraph = Anda dapat menggunakan { -pocket-brand-name } untu
 pocket-panel-home-explore-popular-topics = Jelajahi Topik Populer
 pocket-panel-home-discover-more = Temukan Lebih Banyak
 pocket-panel-home-explore-more = Jelajahi
+pocket-panel-home-most-recent-saves = Berikut adalah simpanan terbaru Anda:
+pocket-panel-home-new-user-cta = Klik tombol { -pocket-brand-name } untuk menyimpan artikel, video, dan tautan.
+pocket-panel-home-new-user-message = Lihat simpanan terbaru Anda di sini.
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Tampilkan Daftar Saya
+pocket-panel-header-sign-in = Masuk
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Tampilkan Semua
+pocket-panel-button-add-tags = Tambahkan Tag
+pocket-panel-button-activate = Aktifkan { -pocket-brand-name } di { -brand-product-name }
