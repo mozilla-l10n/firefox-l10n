@@ -5,6 +5,7 @@
 fxa-pair-device-dialog =
     .title = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-heading-step2 = 2. ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱨᱮ Firefox ᱡᱷᱤᱡᱽ ᱢᱮ ᱾
 fxa-qrcode-heading-step4 = 4. ᱱᱚᱶᱟ ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ :
 fxa-qrcode-error-title = ᱡᱚᱰᱟᱣ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾
 fxa-qrcode-error-body = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
