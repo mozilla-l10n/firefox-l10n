@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Ehechauka Ñe’ẽñemi
     .accesskey = a
+main-context-menu-reveal-password =
+    .label = Ñe’ẽñemi jehechauka
+    .accesskey = v

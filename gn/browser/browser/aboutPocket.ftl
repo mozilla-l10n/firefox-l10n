@@ -50,6 +50,8 @@ pocket-panel-home-explore-popular-topics = Ehekaporã téma oñehenduvéva
 pocket-panel-home-discover-more = Ejuhukuaave
 pocket-panel-home-explore-more = Ehapykueho
 pocket-panel-home-most-recent-saves = Ápe oĩ mba’epuru eñongatu ramovéva:
+pocket-panel-home-new-user-cta = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipyre, ta’ãngamýi ha juajuha.
+pocket-panel-home-new-user-message = Ehecha mba’epuru eñongatu ramovéva ápe.
 
 ## Pocket panel header component
 
@@ -60,3 +62,4 @@ pocket-panel-header-sign-in = Eñepyrũ tembiapo
 
 pocket-panel-button-show-all = Techaukapa
 pocket-panel-button-add-tags = Embojuaju teramoĩ
+pocket-panel-button-activate = Emyandy { -pocket-brand-name } { -brand-product-name }-pe
