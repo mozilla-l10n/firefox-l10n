@@ -9,6 +9,10 @@
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountTypeTitle.label "Նոր հաշուի տեղակայում">
+<!ENTITY accountTypeMail.label "Ել֊փոստի հաշիւ">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Տեղեկատուական հաշիւ">
+<!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
 
@@ -18,21 +22,38 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameLabel.label "Ձեր անունը.">
+<!ENTITY fullnameLabel.accesskey "Y">
 
+<!ENTITY emailLabel.label "ել֊փոստի հասցէ․">
+<!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Incoming Server page -->
 
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!ENTITY defaultPortLabel.label "Սկզբնադիր․">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.label "Մուտքային սպասարկիչ.">
+<!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "Աւգտանունը.">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->
 
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.label "Ելքային սպասարկիչ.">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -52,7 +73,10 @@
 
 <!-- Entities for Account name page -->
 
+<!ENTITY accnameTitle.label "Հաշուի անուն">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameLabel.label "Հաշուի անուն.">
+<!ENTITY accnameLabel.accesskey "A">
 
 <!-- Entities for Done (Congratulations) page -->
 
