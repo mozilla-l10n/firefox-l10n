@@ -27,5 +27,11 @@ default-bookmarks-nightly-heading = Firefox Nightly Mba’eita
 default-bookmarks-nightly-blog = Blog Firefox Nightly mba’e
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = Mozilla rembipuru ohechaukáva jejavy
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla Developer Network
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly Tester Tools
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Opaichagua jejavy
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Planet Mozilla

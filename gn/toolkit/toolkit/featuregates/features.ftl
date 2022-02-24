@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Embojuruja pe jokopytykuaa CSS Masonry Layout ipyahúva ndive. Eñe’ẽ <a data-l10n-name="explainer">mba’emimive</a> ndive ereko hag̃ua marandu tembiapoite rehegua. Emondo hag̃ua haipyre, emombe’u <a data-l10n-name="w3c-issue">ko issue GitHub mba’épe</a> térã <a data-l10n-name="bug">ko bug</a>-pe.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Emyandy CSS Cascade Layers pytyvõhápe g̃uarã. Eporandu <a data-l10n-name="spec">mba’eteete oñemboguatáva</a> erekove hag̃ua mba’emimi. Emombe’u jejavy ejokóvo <a data-l10n-name="bugzilla">bug 1699215</a> bugs peg̃uarã ojokupytýva tembiapoitére.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Ko API pyahu ome’ẽ pytyvõ michĩva ejapo hag̃ua computación ha ta’ãnga moambuepyre eipurúvo <a data-l10n-name="wikipedia">Unidad de procesamiento de gráficos (GPU)</a> mba’e’oka térã puruhára mohendahápe. Pe <a data-l10n-name="spec">ha’etéva</a> ha’e tembiapo oku’éva. Eporandu <a data-l10n-name="bugzilla">bug 1602129</a> eikuaave hag̃ua.
@@ -94,3 +89,6 @@ experimental-features-multi-pip-description = Tembiapoite oñeha’ãva omoneĩ 
 experimental-features-ime-search =
     .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
 experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembipuru omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eipuru hag̃ua erohoryvéva IME ndoipurúirõ koichagua tupa.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 puruhára juajuha
