@@ -120,8 +120,8 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>O relógio do seu computador está definido para <span id='wrongSystemTime_systemDate2'/>. Certifique-se de que seu computador está definido para a data, hora e fuso horário corretos nas configurações do sistema, e atualize <span class='hostname'/>.</p>
-<p>Se o seu relógio já está definido para a hora correta, o site deve estar configurado incorretamente e não há nada que você possa fazer para resolver o problema. Notifique o problema para o administrador do site.</p>
+<p>O relógio desde computador está definido para <span id='wrongSystemTime_systemDate2'/>. Verifique se o computador está configurado com data, hora e fuso horário corretos nas configurações do sistema, e atualize o <span class='hostname'/>.</p>
+<p>Se o relógio já está com a hora correta, o site deve estar configurado incorretamente, não há nada que você possa fazer para resolver. Notifique o problema para o administrador do site.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -131,10 +131,9 @@ was trying to connect. -->
 <!ENTITY sharedLongDesc "<ul> 
 <li>Este site pode estar temporariamente fora do ar ou sobrecarregado. Tente de novo 
 em alguns instantes.</li> 
-<li>Se você não consegue carregar nenhuma página, verifique a conexão de rede 
+<li>Se você não conseguir carregar nenhuma página, verifique a conexão de rede 
 do computador.</li> 
-<li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se 
-de que o &brandShortName; esteja autorizado a acessar a web.</li> 
+<li>Se a rede ou o computador estiver protegido por um firewall ou proxy, verifique se o &brandShortName; está autorizado a acessar a web.</li> 
 </ul>">
 
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
@@ -165,13 +164,13 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
-<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> é provavelmente um site seguro, mas uma conexão segura não pôde ser estabelecida. Este problema é causado por <span class='mitm-name'/>, que é um programa em seu computador ou em sua rede.">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> é provavelmente um site seguro, mas uma conexão segura não pôde ser estabelecida. Este problema é causado por <span class='mitm-name'/>, que é um programa neste computador ou na rede.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se seu programa antivírus tem um recurso que varre conexões criptografadas (normalmente chamado “web scanning” ou “https scanning”), você pode desativar este recurso. Se isso não resolver, pode tentar remover e reinstalar o programa antivírus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se você está em uma rede corporativa, pode entrar em contato com o departamento de informática.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se você não está familiarizado com <span class='mitm-name'/>, então isto pode ser um ataque e não seria bom continuar para o site.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se você não está familiarizado com <span class='mitm-name'/>, então isto pode ser um ataque e não há nada que você possa fazer para acessar o site.">
 
-<!ENTITY clockSkewError.longDesc "A hora exibida pelo seu computador é <span id='wrongSystemTime_systemDate1'/>, o que impede que o &brandShortName; se conecte de maneira segura. Para visitar <span class='hostname'></span>, ajuste o relógio do seu computador nas configurações do sistema para a data, hora e fuso horário atuais, e atualize <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "A hora exibida por este computador é <span id='wrongSystemTime_systemDate1'/>, o que impede que o &brandShortName; se conecte de maneira segura. Para visitar o <span class='hostname'></span>, ajuste o relógio deste computador para data, hora e fuso horário corretos nas configurações do sistema e atualize o <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Parece que suas configurações de segurança de rede podem estar causando isso. Você quer restaurar as configurações padrão?">
 <!ENTITY prefReset.label "Restaurar configurações padrão">
