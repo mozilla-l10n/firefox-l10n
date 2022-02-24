@@ -362,6 +362,9 @@ update-application-warning-cross-user-setting = Гэта налада дзейн
 update-application-use-service =
     .label = Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў
     .accesskey = ф
+update-application-suppress-prompts =
+    .label = Паказваць менш паведамленняў аб абнаўленні
+    .accesskey = б
 update-setting-write-failure-title2 = Памылка пры захаванні налад абнаўлення
 # Variables:
 #   $path (String) - Path to the configuration file
