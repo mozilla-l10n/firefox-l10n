@@ -30,5 +30,7 @@ more-from-moz-qr-code-box-firefox-mobile-title = Emboguejy ne pumbyrýpe. Emoma�
 more-from-moz-qr-code-box-firefox-mobile-button = Emondo mboguejy juajuha ne pumbyrýpe
 more-from-moz-button-mozilla-vpn =
     .label = Ereko VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR ayvu pumbyrygua emboguejy { -brand-product-name } ndive
 more-from-moz-button-mozilla-vpn-2 = Ereko VPN
 more-from-moz-learn-more-link = Kuaave
