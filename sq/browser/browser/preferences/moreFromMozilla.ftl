@@ -18,6 +18,10 @@ more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } sht
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = I vini të dhënat tuaja në punë për një internet më të mirë për këdo.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Dhurojini të dhënat tuaja për studime kërkimore për krijimin e një interneti më të sigurt, më të hapur, që ndihmon njerëzit, jo Big Tech-un.
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Merrni pjesë në { -rally-short-name }
 # This string is specific to the product Mozilla Rally which is US only.
