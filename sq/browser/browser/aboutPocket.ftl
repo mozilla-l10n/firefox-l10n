@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Regjistrohuni me { -brand-product-name }
 pocket-panel-signup-tagline = Ruani që nga { -brand-product-name }c-i artikuj dhe video për t’i parë në { -pocket-brand-name } në çfarëdo pajisje, kurdo.
 pocket-panel-signup-tagline-story-one = Klikoni butonin { -pocket-brand-name } që të ruani që nga { -brand-product-name }-i çfarëdo artikulli, video ose faqe.
 pocket-panel-signup-tagline-story-two = Shihini në { -pocket-brand-name }, në çfarëdo pajisje, kurdo.
+pocket-panel-signup-cta-a = Butoni juaj Ruaje, për internetin.
+pocket-panel-signup-cta-b = Klikoni butonin { -pocket-brand-name } që të ruani artikuj, video dhe lidhje. Shiheni listën tuaj në cilëndo pajisje, kurdo.
+pocket-panel-signup-cta-c = Shiheni listën tuaj në çfarëdo pajisje, kurdo.
 
 ## about:pocket-home panel
 
@@ -47,9 +50,13 @@ pocket-panel-home-paragraph = { -pocket-brand-name }-in mund ta përdorni për t
 pocket-panel-home-explore-popular-topics = Eksploroni Subjekte Popullore
 pocket-panel-home-discover-more = Zbuloni Më Tepër
 pocket-panel-home-explore-more = Eksploroni
+pocket-panel-home-most-recent-saves = Ja ato më të freskëtat nga sa keni ruajtur:
+pocket-panel-home-new-user-cta = Klikoni butonin { -pocket-brand-name } që të ruani artikuj, video dhe lidhje.
+pocket-panel-home-new-user-message = Shihni këtu ruajtje tuajat së fundi.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Shfaq Listën Time
 pocket-panel-header-sign-in = Hyni
 
 ## Pocket panel buttons
