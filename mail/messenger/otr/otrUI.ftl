@@ -15,6 +15,8 @@ auth-fail = S’u arrit të verifikohej identiteti i kontaktit tuaj.
 auth-waiting = Po pritet që kontakti të plotësojë verifikimin…
 finger-verify = Verifikoje
 finger-verify-access-key = V
+finger-ignore = Shpërfille
+finger-ignore-access-key = S
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Shtoni Shenja Gishtash OTR
 # Variables:
@@ -58,12 +60,6 @@ afterauth-private = Keni verifikuar identitetin e { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = Identiteti i { $name } s’është verifikuar.
-verify-title = Verifikoni identitetin e kontaktit tuaj
-error-title = Gabim
-success-title = Fshehtëzim Skaj-Më-Skaj
-success-them-title = Verifikoni identitetin e kontaktit tuaj
-fail-title = S’arrihet të verifikohet
-waiting-title = U dërgua kërkesë verifikimi
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure
