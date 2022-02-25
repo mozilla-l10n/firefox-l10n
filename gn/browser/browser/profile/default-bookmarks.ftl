@@ -10,6 +10,7 @@
 default-bookmarks-title = Techaukaha
 default-bookmarks-heading = Techaukaha
 default-bookmarks-toolbarfolder = Techaukaha Renda Ñongatuha
+default-bookmarks-toolbarfolder-description = Embojoaju techaukaha ñongatuhápe jahecha hag̃ua techaukaha rembipuru rendápe
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Eñepyrũhína
 # Firefox links folder name
