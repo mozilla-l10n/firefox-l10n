@@ -135,6 +135,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Përditësime Së Fundi
 addon-category-recent-updates-title =
     .title = Përditësime Së Fundi
+addon-category-sitepermission = Leje Sajti
+addon-category-sitepermission-title =
+    .title = Leje Sajti
 
 ## These are global warnings
 
@@ -290,6 +293,8 @@ dictionary-enabled-heading = I aktivizuar
 dictionary-disabled-heading = I çaktivizuar
 locale-enabled-heading = E aktivizuar
 locale-disabled-heading = E çaktivizuar
+sitepermission-enabled-heading = E aktivizuar
+sitepermission-disabled-heading = E çaktivizuar
 always-activate-button = Aktivizoje Përherë
 never-activate-button = Mos e Aktivizo Kurrë
 addon-detail-author-label = Autor
@@ -366,6 +371,7 @@ addon-permissions-optional = Leje opsionale për më tepër funksione:
 addon-permissions-learnmore = Mësoni më tepër rreth lejesh
 recommended-extensions-heading = Zgjerime të Këshilluara
 recommended-themes-heading = Tema të Këshilluara
+addon-sitepermissions-required = I akordon <span data-l10n-name="hostname">{ $hostname }</span> aftësitë vijuese:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ju ka kapluar fryma krijuese? <a data-l10n-name="link">Krijoni temën tuaj me  Firefox Color.</a>
@@ -378,6 +384,7 @@ plugin-heading = Administroni shtojcat tuaja
 dictionary-heading = Administroni fjalorët tuaj
 locale-heading = Administroni gjuhët tuaja
 updates-heading = Administroni Përditësimet Tuaja
+sitepermission-heading = Administroni Lejet Tuaja për Sajte
 discover-heading = Personalizoni { -brand-short-name }-in Tuaj
 shortcuts-heading = Administroni Shkurtore Zgjerimesh
 default-heading-search-label = Gjeni më tepër shtesa

@@ -13,6 +13,8 @@ printui-sheets-count =
        *[other] { $sheetCount } fletë letre
     }
 printui-page-range-all = Krejt
+printui-page-range-odd = Tek
+printui-page-range-even = Çift
 printui-page-range-custom = Vetjake
 printui-page-range-label = Faqe
 printui-page-range-picker =
