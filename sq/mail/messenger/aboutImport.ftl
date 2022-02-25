@@ -37,3 +37,6 @@ items-pane-checkbox-mail-messages = Mesazhe Poste
 progress-pane-title = Importim
 progress-pane-restart-desc = Riniseni, që të përfundohet importimi.
 error-pane-title = Gabim
+error-message-zip-file-too-big = Kartela zip e përzgjedhur është më e madhe se 2GB. Ju lutemi, së pari çngjesheni, mandej bëni importim prej dosjes së përftuar.
+error-message-extract-zip-file-failed = S’u arrit të përftohet kartela zip. Ju lutemi, përftojeni dorazi, mandej importojeni që nga dosja e përftuar.
+error-message-failed = Importimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.

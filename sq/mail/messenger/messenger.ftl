@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
+messenger-window-minimize-button =
+    .tooltiptext = Minimizoje
+messenger-window-maximize-button =
+    .tooltiptext = Maksimizoje
+messenger-window-close-button =
+    .tooltiptext = Mbylle
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -158,3 +167,22 @@ no-reply-reply-anyway-button = Përgjigjuni, Sido Qoftë
 ## error messages
 
 decrypt-and-copy-failures = { $failures } nga { $total } mesazhe s’u shfshehtëzuan dot dhe nuk u kopjuan.
+
+## Spaces toolbar
+
+spaces-toolbar =
+    .toolbarname = Panel Hapësirash
+spaces-toolbar-button-mail =
+    .title = Kalo te skeda e email-eve
+spaces-toolbar-button-address-book =
+    .title = Kalo te skeda e librit të adresave
+spaces-toolbar-button-calendar =
+    .title = Kalo te skeda e kalendarit
+spaces-toolbar-button-tasks =
+    .title = Kalo te skeda e punëve
+spaces-toolbar-button-chat =
+    .title = Kalo te skeda e fjalosjeve
+spaces-toolbar-button-settings =
+    .title = Kalo te skeda e rregullimeve
+spaces-toolbar-button-collapse =
+    .title = Tkurre panelin e punëve
