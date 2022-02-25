@@ -9,12 +9,16 @@
 <!ENTITY retry.label "ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ">
 <!ENTITY returnToPreviousPage.label "ᱯᱟᱹᱪᱷᱞᱟᱹ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ">
 <!ENTITY returnToPreviousPage1.label "ᱛᱟᱭᱚᱢ ᱥᱮᱱᱚᱜ ᱢᱮ (ᱠᱷᱚᱡᱚᱜ ᱜᱮᱭᱟ)">
+<!ENTITY advanced2.label "ᱞᱟᱦᱟᱱᱛᱤ…">
+<!ENTITY viewCertificate.label "ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱢᱮ">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "ᱥᱚᱨᱣᱚᱨ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>ᱡᱩᱫᱤ ᱚᱱᱟ ᱴᱷᱤᱠᱬᱟ ᱴᱷᱤᱠ ᱠᱷᱟᱱ, ᱱᱚᱶᱟ ᱯᱮᱭᱟ ᱡᱤᱱᱤᱥ ᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ :</strong>
 <ul>
@@ -31,12 +35,24 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>ᱱᱚᱶᱟ ᱫᱚ ᱚᱰᱚᱠ, ᱩᱪᱟᱹᱲ, ᱟᱨ ᱵᱟᱝ ᱨᱮᱫ ᱨᱮᱭᱟᱜ ᱟᱹᱱᱩᱢᱟᱫᱛᱤ ᱠᱚ ᱠᱷᱟᱹᱛᱤᱨ ᱦᱩᱭ ᱠᱚᱜᱼᱟ ᱾</li>
+</ul>
+">
 
 <!ENTITY generic.longDesc "<p>&brandShortName; ᱛᱤᱱᱟᱜ ᱜᱟᱱ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱚ ᱱᱚᱣᱟ ᱥᱟᱤᱴᱟ ᱵᱟᱭ ᱞᱟᱫᱮ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾</p>">
 
+<!ENTITY captivePortal.title "ᱱᱮᱴᱣᱟᱨᱠ ᱨᱮ ᱵᱚᱞᱚ">
+<!ENTITY captivePortal.longDesc2 "
+<p>ᱤᱱᱴᱚᱨᱱᱮᱴ ᱟᱫᱮᱨ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱱᱮᱴᱣᱟᱨᱠ ᱨᱮ ᱵᱚᱞᱚ ᱱᱤᱦᱟᱹᱛᱤ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱾</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "ᱱᱮᱴᱣᱟᱨᱠ ᱵᱚᱞᱚ ᱥᱟᱦᱴᱟ ᱡᱷᱤᱡᱽ ᱢᱮ">
 
+<!ENTITY malformedURI.pageTitle "ᱵᱟᱝ ᱵᱟᱛᱟᱣ URL">
 
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.longDesc "<p>ᱱᱮᱦᱚᱨᱟᱠᱟᱱ ᱫᱚᱞᱤᱞ &brandShortName; ᱨᱮᱭᱟᱜ ᱠᱮᱥ ᱨᱮ ᱵᱟᱹᱭ ᱧᱟᱢᱚᱜ ᱟ .</p><ul><li> ᱢᱤᱫ ᱡᱟᱹᱯᱛᱤ ᱦᱚᱸᱥᱤᱭᱟᱨ ᱞᱮᱠᱟ &brandShortName; ᱟᱪ ᱟᱪ ᱛᱮ ᱟᱹᱭᱠᱟᱹᱣ ᱞᱮᱠ ᱫᱚᱦᱲᱟ ᱱᱮᱦᱚᱨᱟ </li><li>ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱫᱚᱞᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱫᱚᱦᱲᱟ ᱱᱮᱦᱚᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱚᱛᱟᱭ ᱢᱮ ᱾</li></ul>">
 
@@ -46,9 +62,21 @@
 </ul>
 ">
 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱤᱥᱚᱭ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱮᱢᱟ ᱠᱚᱢ ᱾</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱤᱥᱚᱭ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱮᱢᱟ ᱠᱚᱢ ᱾</li>
+</ul>
+">
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
@@ -113,16 +141,20 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ᱱᱚᱣᱟ ᱞᱮᱠᱟ ᱛᱮ ᱞᱟᱫᱮᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱟᱠᱚᱴᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱵᱤᱥᱚᱭ ᱡᱟᱹᱯᱛᱤ ᱱᱤᱛᱤ ᱢᱮᱱᱟᱜ ᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱫ ᱵᱤᱥᱚᱭ ᱡᱟᱹᱯᱛᱤ ᱱᱤᱛᱤ ᱢᱮᱱᱟᱜ ᱟ ᱚᱠᱟ ᱱᱚᱣᱟ ᱵᱟᱛᱟᱣ ᱵᱟᱭ ᱮᱢᱟ ᱾</p>">
 
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>साहटा आम ञेल रेयाक् एम कुरुमुटु येत् आ बाय ञेल दाड़ेयाक् आ चेदाक् जे डाटा बोदोल रे मित् भुल पानते ञाम लेन ताहेना, .</p><ul><li> आम वेब साइट मालिक को सोमपोक काते उनकु नोवा दिगदा ला़य उदुक् आको मे .</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ᱥᱟᱦᱴᱟ ᱟᱢ ᱧᱮᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ ᱵᱟᱝ ᱩᱫᱩᱜ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱰᱟᱴᱟ ᱵᱚᱫᱚᱞ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾</p><ul><li> ᱣᱮᱵ ᱥᱟᱤᱴ ᱢᱟᱹᱞᱤᱠ ᱠᱚ ᱥᱚᱢᱯᱚᱠ ᱠᱚᱢ ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟ ᱩᱱᱠᱩ ᱩᱛᱞᱟᱹᱭᱟ ᱠᱚ ᱢᱮ ᱾</li></ul>">
 
+<!ENTITY securityOverride.exceptionButton1Label "ᱡᱤᱢᱟ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ ᱥᱮᱱᱚᱜ ᱢᱮ">
 
 <!ENTITY errorReporting.learnMore "ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>वेब साइट मा़लिक को सोमपोक कोम नोवा दिगधा उनकु ला़य सोदोर ला़गित् .</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>ᱫᱚᱭᱟᱠᱟᱛᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱢᱟᱞᱤᱠ ᱡᱩᱜᱟᱡᱩᱜ ᱮᱢ ᱟᱨ ᱦᱩᱲᱟᱹᱜ ᱵᱤᱥᱚᱭ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱮᱢᱟ ᱠᱚᱢ ᱾</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "ᱞᱟᱦᱟᱱᱛᱤ ᱵᱤᱵᱨᱚᱬ : SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "ᱦᱩᱥᱤᱭᱟᱹᱨ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ">
+<!ENTITY certerror.sts.pagetitle  "ᱵᱟᱝ ᱡᱩᱲᱟᱹᱣ ᱞᱮᱱᱟ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
@@ -131,4 +163,6 @@ was trying to connect. -->
 
 
 
+<!ENTITY enableTls10.label "TLS 1.0 ᱟᱨ 1.1 ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ">
 
+<!ENTITY networkProtocolError.longDesc "<p>ᱥᱟᱦᱴᱟ ᱟᱢ ᱧᱮᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱭᱮᱫ ᱟ ᱵᱟᱝ ᱩᱫᱩᱜ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱮᱴᱣᱟᱨᱠ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱨᱮ ᱢᱤᱫ ᱵᱷᱩᱞ ᱧᱟᱢ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱾</p><ul><li> ᱣᱮᱵ ᱥᱟᱤᱴ ᱢᱟᱹᱞᱤᱠ ᱠᱚ ᱥᱚᱢᱯᱚᱠ ᱠᱚᱢ ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟ ᱩᱱᱠᱩ ᱩᱛᱞᱟᱹᱭᱟ ᱠᱚ ᱢᱮ ᱾</li></ul>">
