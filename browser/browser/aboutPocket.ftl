@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Shtoni Etiketa
-
 pocket-panel-saved-error-generic = Pati një gabim teksa përpiqej të ruante te { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etiketat kufizohen deri në 25 shenja
 pocket-panel-saved-error-only-links = Mund të ruhen vetëm lidhje
@@ -48,3 +47,13 @@ pocket-panel-home-paragraph = { -pocket-brand-name }-in mund ta përdorni për t
 pocket-panel-home-explore-popular-topics = Eksploroni Subjekte Popullore
 pocket-panel-home-discover-more = Zbuloni Më Tepër
 pocket-panel-home-explore-more = Eksploroni
+
+## Pocket panel header component
+
+pocket-panel-header-sign-in = Hyni
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Shfaqi Krejt
+pocket-panel-button-add-tags = Shtoni Etiketa
+pocket-panel-button-activate = Aktivizo { -pocket-brand-name } në { -brand-product-name }
