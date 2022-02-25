@@ -60,7 +60,10 @@ about-processes-unknown-process = Tjetër: { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
+about-processes-web-large-allocation-process = { $origin } ({ $pid }, i madh)
 about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
+about-processes-web-large-allocation-process-private = { $origin } — Privat ({ $pid }, i madh)
 
 ## Details within processes
 
