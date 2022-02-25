@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opai
 update-application-use-service =
     .label = Eipuru peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
     .accesskey = b
+update-application-suppress-prompts =
+    .label = Ehechauka’ive marandu’i ñembohekopyahu rehegua
+    .accesskey = n
 update-setting-write-failure-title2 = Ojavy eñongatúvo mbohekopyahu ñemboheko
 # Variables:
 #   $path (String) - Path to the configuration file

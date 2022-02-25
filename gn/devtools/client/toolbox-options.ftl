@@ -104,6 +104,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ñemopotĩ okayguáva myandy
 options-enable-remote-tooltip2 =
     .title = Emyandývo ko poravorã omoneĩta ndéve emopotĩvo ko kundahára reko oka guive
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Emyandy mopotĩeteha mba’eteéva
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Mba’epytyvõrã mba’apohára moheñói HTTP rupi (tembipuru ryru ijurujáramo)
 options-enable-service-workers-http-tooltip =
