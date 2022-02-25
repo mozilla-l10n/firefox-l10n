@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Ky rregullim do të zbatohet mbi
 update-application-use-service =
     .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
     .accesskey = P
+update-application-suppress-prompts =
+    .label = Shfaq më pak njoftime për përditësim
+    .accesskey = m
 update-setting-write-failure-title2 = Gabim në ruajtje rregullimesh Përditësimi
 # Variables:
 #   $path (String) - Path to the configuration file
