@@ -7,4 +7,6 @@ restart-required-header = Na ndjeni. Na duhet të bëjmë një gjë të vockël 
 restart-required-intro-brand = { -brand-short-name } sapo u përditësua në prapaskenë. Klikoni mbi Rinise { -brand-short-name } që të plotësohet përditësimi.
 restart-required-description = Më pas do të rikthejmë krejt faqet, dritaret dhe skedat tuaja, që të jeni gati pa humbur kohë.
 restart-required-heading = Që të Vazhdoni të Përdorni { -brand-short-name }, riniseni
+restart-required-intro = Ka filluar një përditësim i { -brand-short-name } në prapaskenë. Që të përfundojë përditësimi, do të duhet ta rinisni.
+window-restoration-info = Dritaret dhe skedat tuaja do të rikthehen në çast, por jo ato private ama.
 restart-button-label = Rinise { -brand-short-name }-in
