@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Jo tani
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Në këtë pajisje u gjetën sajtet e radhitur këtu. { -brand-short-name } nuk ruan apo njëkohëson të dhëna nga shfletues tjetër, veç në zgjedhëshi t’i importoni.
+return-to-amo-add-theme-label = Shtoni Temën
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -272,18 +273,10 @@ mr2-onboarding-colorway-tooltip =
 # Selector description for colorway
 # Variables:
 #   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-description =
-    .aria-description = Eksploroni kombinime ngjyrash { $colorwayName }.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-label = Eksploroni kombinime ngjyrash { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Eksploroni tema parazgjedhje.
-# Selector description for default themes
-mr2-onboarding-default-theme-description =
-    .aria-description = Eksploroni tema parazgjedhje.
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Eksploroni tema parazgjedhje.
 
