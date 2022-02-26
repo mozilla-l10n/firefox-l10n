@@ -65,7 +65,7 @@ fonts-langgroup-thai =
 fonts-langgroup-tibetan =
     .label = ᱛᱤᱵᱚᱛ
 fonts-langgroup-canadian =
-    .label = ᱢᱤᱫ ᱦᱚᱪᱚ ᱠᱟᱱᱟᱰᱟ ᱨᱮᱭᱟᱜ ᱟᱠᱷᱚᱨ ᱥᱟᱵᱟᱫ
+    .label = ᱢᱤᱫ ᱦᱚᱪᱚ ᱠᱟᱱᱟᱰᱟ ᱨᱮᱭᱟᱜ ᱟᱠᱷᱚᱨ ᱥᱟᱵᱟᱫᱽ
 fonts-langgroup-other =
     .label = ᱮᱴᱟᱜ ᱚᱞ ᱥᱭᱥᱴᱮᱢ ᱠᱚ
 

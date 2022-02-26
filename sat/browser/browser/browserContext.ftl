@@ -287,13 +287,13 @@ main-context-menu-use-saved-login =
     .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = o
 main-context-menu-use-saved-password =
-    .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = o
 
 ##
 
 main-context-menu-suggest-strong-password =
-    .label = ᱟᱸᱴ ᱫᱟᱫᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱛᱟᱣ ᱢᱮ …
+    .label = ᱟᱸᱴ ᱫᱟᱫᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱛᱟᱣ ᱢᱮ …
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = ᱞᱚᱜᱤᱱ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
@@ -370,8 +370,8 @@ main-context-menu-open-link-in-container-tab =
     .accesskey = T
 # FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
 main-context-menu-toggle-show-password =
-    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = d
 main-context-menu-reveal-password =
-    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = v

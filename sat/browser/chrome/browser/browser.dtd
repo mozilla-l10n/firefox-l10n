@@ -100,7 +100,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY findOnCmd.label     "ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ ᱢᱮ ...">
 
-<!ENTITY spellAddDictionaries.label "ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ …">
+<!ENTITY spellAddDictionaries.label "ᱥᱟᱵᱟᱫᱽ ᱜᱟᱫᱮᱞ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ …">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

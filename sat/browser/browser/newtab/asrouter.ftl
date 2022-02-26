@@ -111,7 +111,7 @@ cfr-doorhanger-doh-secondary-button = ᱵᱚᱸᱫᱚᱭ
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱮᱠᱞᱟ ᱜᱮᱭᱟ, ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱛᱮ ᱱᱤᱡᱮ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱜᱮ ᱵᱟᱠᱥ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱮᱠᱚᱨ ᱠᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ, ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱠᱚ, ᱟᱨ ᱮᱴᱟᱜ ᱥᱚᱢᱵᱮᱫᱚᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱠᱩᱢᱵᱲᱩ ᱢᱩᱥᱠᱤᱞ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾
+cfr-doorhanger-fission-body-approved = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱮᱠᱞᱟ ᱜᱮᱭᱟ, ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱛᱮ ᱱᱤᱡᱮ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱜᱮ ᱵᱟᱠᱥ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱮᱠᱚᱨ ᱠᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ, ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱠᱚ, ᱟᱨ ᱮᱴᱟᱜ ᱥᱚᱢᱵᱮᱫᱚᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱠᱩᱢᱵᱲᱩ ᱢᱩᱥᱠᱤᱞ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾
 cfr-doorhanger-fission-header = ᱥᱟᱭᱤᱴ ᱮᱠᱞᱟ ᱨᱮ
 cfr-doorhanger-fission-primary-button = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
     .accesskey = O
