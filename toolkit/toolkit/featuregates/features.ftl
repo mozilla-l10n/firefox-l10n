@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = მხარდაჭერილს გახდის საცდელ შესაძლებლობას სახელწოდებით CSS Masonry Layout. იხილეთ მაღალი დონის <a data-l10n-name="explainer">განმარტებითი</a> აღწერა, ამ შესაძლებლობის. უკუკავშირისთვის, გთხოვთ გამოხმაურება დატოვოთ <a data-l10n-name="w3c-issue">GitHub-ის ამ საკითხის</a> ან <a data-l10n-name="bug">ამ ხარვეზის</a> განხილვაში.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = მხარდაჭერილი გახდება CSS Cascade Layers. გაეცანით <a data-l10n-name="spec">მიმდინარე მახასიათებლებს</a>, ვრცლად. ხარვეზების მოსახსენებლად ან შესაზღუდად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = ახალი API უზრუნველყოფს დაბალი დონის მხარდაჭერას გამოთვლისა და გრაფიკული გამოსახვისთვის, <a data-l10n-name="wikipedia">ვიდეო პროცესორის (GPU)</a> გამოყენებით, მომხმარებლის მოწყობილობიდან. <a data-l10n-name="spec">მახასიათებლები</a> ჯერ კიდევ მუშავდება. ვრცლად, იხილეთ <a data-l10n-name="bugzilla">საკითხი 1602129</a>.
@@ -94,3 +89,7 @@ experimental-features-multi-pip-description = საცდელი შესა
 experimental-features-ime-search =
     .label = მისამართის ზოლი: შედეგების ჩვენება IME კომპოზიციის დროს
 experimental-features-ime-search-description = IME (შეყვანის მეთოდის რედაქტორი) არის ხელსაწყო, რომელიც საშუალებას გაძლევთ შეიყვანოთ კომპლექსური (მაგ. აღმოსავლეთ აზიურ ან ინდურ დამწერლობებში გამოყენებული) სიმბოლოები. ამ ექსპერიმენტის ჩართვა მისამართის ზოლს გახსნილს დატოვებს, ძიების შედეგების და რჩევების ჩვენებისას კი გამოიყენებს IME-ს ტექსტის შესაყვანად. გაითვალისწინეთ, რომ შესაძლოა IME-მ აჩვენოს პანელი, რომელიც დაფარავს მისამართის ზოლის შედეგებს, ამიტომ ეს პარამეტრი რეკომენდებულია მხოლოდ IME-სთვის, რომელიც არ იყენებს ამ სახის პანელს.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name } 100 User-Agent String
+experimental-features-firefox-100-description = შედეგად, { -brand-short-name } ვებსაიტებს მომხმარებლის აგენტად გაუგზავნის ჩანაწერს { -brand-product-name } ვერსია 100. მისი მეშვეობით შესაძლებელია საიტების გამართულობის შემოწმება, { -brand-short-name }-ვერსიის სამციფრიანი ნომრისთვის. ნამდვილი { -brand-product-name } 100 სავარაუდოდ გამოვა 2022 წლის მაისში, ასე რომ შეუდექით თქვენი ვებსაიტების შემოწმებას ახლავე!
