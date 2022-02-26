@@ -24,10 +24,13 @@ more-from-moz-mozilla-rally-description-advanced = გაიღეთ საკ�
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = შემოუერთდით – { -rally-short-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = შემოუერთდით – { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = ჩამოტვირთეთ მობილური მოწყობილობით. მიუშვირეთ კამერა QR-კოდს. როდესაც ბმული გამოჩნდება, შეეხეთ.
 more-from-moz-qr-code-box-firefox-mobile-button = სანაცვლოდ, გაგზავნეთ ელფოსტა თქვენს ტელეფონზე
-more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე
 more-from-moz-button-mozilla-vpn =
     .label = გამოიყენეთ VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე
+more-from-moz-button-mozilla-vpn-2 = გამოიყენეთ VPN
 more-from-moz-learn-more-link = ვრცლად
