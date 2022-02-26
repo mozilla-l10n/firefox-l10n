@@ -20,7 +20,7 @@
 <!ENTITY publicNamespace.accesskey "μ">
 <!ENTITY otherUsersNamespace.label "Άλλοι χρήστες:">
 <!ENTITY otherUsersNamespace.accesskey "λ">
-<!ENTITY overrideNamespaces.label "Να επιτρέπεται στο διακομιστή η παράκαμψη αυτών των χώρων ονομάτων">
+<!ENTITY overrideNamespaces.label "Να επιτρέπεται στον διακομιστή η παράκαμψη αυτών των χώρων ονομάτων">
 <!ENTITY overrideNamespaces.accesskey "ρ">
 <!ENTITY pop3DeferringDesc.label "Κατά τη λήψη αλληλογραφίας από τον διακομιστή του λογαριασμού, να γίνεται χρήση του εξής φακέλου για την αποθήκευση των νέων μηνυμάτων:">
 <!ENTITY accountInbox.label "Εισερχόμενα για αυτόν τον λογαριασμό">
