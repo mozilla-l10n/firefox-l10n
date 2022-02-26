@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = ძიება
 searchbar-icon =
     .tooltiptext = ძიება
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>თქვენი ნაგულისხმევი საძიებო შეიცვალა.</strong> { $oldEngine } აღარაა მხარდაჭერილი და { -brand-short-name } აღარ გამოიყენებს. ნაგულისხმევი საძიებო ახლა უკვე { $newEngine } გახდება. სხვა საძიებოთი ჩასანაცვლებლად, გადადით პარამეტრებში. <label data-l10n-name="remove-search-engine-article">ვრცლად</label>
+remove-search-engine-button = კარგი
