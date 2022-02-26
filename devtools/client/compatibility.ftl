@@ -14,7 +14,6 @@ compatibility-issue-deprecated = (deprecated)
 compatibility-issue-experimental = (experimental)
 compatibility-issue-prefixneeded = (prefix needed)
 compatibility-issue-deprecated-experimental = (deprecated, experimental)
-
 compatibility-issue-deprecated-prefixneeded = (deprecated, prefix needed)
 compatibility-issue-experimental-prefixneeded = (experimental, prefix needed)
 compatibility-issue-deprecated-experimental-prefixneeded = (deprecated, experimental, prefix needed)
@@ -43,7 +42,14 @@ compatibility-issue-occurrences =
         [one] { $number } occurrence
        *[other] { $number } occurrences
     }
-
 compatibility-no-issues-found = No compatibility issues found.
 compatibility-close-settings-button =
     .title = Close settings
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Compatibility issues in:
+        { $browsers }
