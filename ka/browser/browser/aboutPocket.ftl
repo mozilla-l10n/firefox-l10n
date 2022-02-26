@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = ანგარიში { -brand-product-n
 pocket-panel-signup-tagline = შეინახეთ სტატიები და ვიდეოები { -brand-product-name }-იდან მათ { -pocket-brand-name }-ში სანახავად ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }-იდან ნებისმიერი სტატიის, ვიდეოს ან გვერდის შესანახად დააწკაპეთ { -pocket-brand-name } ღილაკს.
 pocket-panel-signup-tagline-story-two = დაათვალიერეთ { -pocket-brand-name }-ში ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
+pocket-panel-signup-cta-a = შენახვის ღილაკი ინტერნეტისთვის.
+pocket-panel-signup-cta-b = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოებისა და ბმულების შესანახად. შემდეგ კი იხილეთ ნებისმიერ მოწყობილობაზე, სასურველ დროს.
+pocket-panel-signup-cta-c = იხილეთ ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 
 ## about:pocket-home panel
 
@@ -47,8 +50,17 @@ pocket-panel-home-paragraph = შეგიძლიათ გამოიყე�
 pocket-panel-home-explore-popular-topics = გაეცანით ცნობილ თემებს
 pocket-panel-home-discover-more = აღმოაჩინეთ მეტი
 pocket-panel-home-explore-more = დათვალიერება
+pocket-panel-home-most-recent-saves = აქ იხილავთ ბოლოს შენახულს:
+pocket-panel-home-new-user-cta = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოების და ბმულების შესანახად.
+pocket-panel-home-new-user-message = ბოლოს შენახული იხილეთ აქ.
 
 ## Pocket panel header component
 
 pocket-panel-header-my-list = სიის ნახვა
 pocket-panel-header-sign-in = შესვლა
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = ყველას ჩვენება
+pocket-panel-button-add-tags = ჭდეების დამატება
+pocket-panel-button-activate = { -pocket-brand-name } აამოქმედეთ { -brand-product-name }-ში

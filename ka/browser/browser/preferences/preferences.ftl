@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = ეს პარამეტრ�
 update-application-use-service =
     .label = განახლებების დასაყენებლად ფონური მომსახურების გამოყენება
     .accesskey = ფ
+update-application-suppress-prompts =
+    .label = განახლების შეტყობინება უფრო იშვიათად
+    .accesskey = უ
 update-setting-write-failure-title2 = შეცდომა, განახლების პარამეტრების შენახვისას
 # Variables:
 #   $path (String) - Path to the configuration file
