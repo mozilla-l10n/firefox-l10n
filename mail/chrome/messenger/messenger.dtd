@@ -677,7 +677,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Keresés mentése mappaként…">
 
 <!-- Thread Pane -->
-<!ENTITY selectColumn.label "Válasszon üzeneteket">
+<!ENTITY selectColumn.label "Üzenetek kiválasztása">
 <!ENTITY threadColumn.label "Témacsoport">
 <!ENTITY fromColumn.label "Feladó">
 <!ENTITY recipientColumn.label "Címzett">
