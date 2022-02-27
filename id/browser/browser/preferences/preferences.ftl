@@ -116,6 +116,9 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Pulihkan sesi sebelumnya
     .accesskey = P
+startup-restore-windows-and-tabs =
+    .label = Buka jendela dan tab sebelumnya
+    .accesskey = s
 startup-restore-warn-on-quit =
     .label = Memperingatkan Anda saat keluar dari peramban
 disable-extension =
@@ -344,6 +347,9 @@ update-application-warning-cross-user-setting = Pengaturan ini akan berlaku untu
 update-application-use-service =
     .label = Gunakan layanan latar belakang untuk memasang pemutakhiran
     .accesskey = l
+update-application-suppress-prompts =
+    .label = Tampilkan lebih sedikit permintaan pemberitahuan pembaruan
+    .accesskey = u
 update-setting-write-failure-title2 = Gagal menyimpan pengaturan Pemutakhiran
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -931,6 +937,7 @@ content-blocking-all-windows-tracking-content = Melacak konten di seluruh jendel
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
 content-blocking-cryptominers = Penambang Kripto
 content-blocking-fingerprinters = Pelacak Sidik
+content-blocking-etp-standard-tcp-rollout-learn-more = Pelajari lebih lanjut
 content-blocking-warning-title = Perhatian!
 content-blocking-and-isolating-etp-warning-description = Memblokir pelacak dan mengisolasi kuki dapat memengaruhi fungsionalitas beberapa situs. Muat ulang laman dengan pelacak untuk memuat semua konten.
 content-blocking-and-isolating-etp-warning-description-2 = Pengaturan ini mungkin menyebabkan beberapa situs web tidak menampilkan konten atau bekerja dengan baik. Jika situs rusak, Anda mungkin ingin menonaktifkan perlindungan pelacakan untuk situs tersebut untuk memuat semua konten.

@@ -222,6 +222,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Kami belum selesai me
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Topik Populer:
+newtab-pocket-new-topics-title = Ingin lebih banyak cerita? Lihat topik populer ini dari { -pocket-brand-name }
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
 newtab-pocket-learn-more = Pelajari lebih lanjut
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
@@ -236,6 +237,10 @@ newtab-pocket-load-more-stories-button = Muat lebih banyak cerita
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
+newtab-pocket-last-card-title = Semua sudah terbaca!
+newtab-pocket-last-card-desc = Periksa lagi nanti untuk yang lainnya.
+newtab-pocket-last-card-image =
+    .alt = Semua sudah terbaca
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

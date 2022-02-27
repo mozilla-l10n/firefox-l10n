@@ -43,9 +43,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Tampilkan di Folder
         }
     .accesskey = F
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Buka di Penampil Sistem
     .accesskey = S
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Buka di { $handler }
+    .accesskey = B
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -69,6 +79,15 @@ downloads-cmd-show-description =
             [macos] Tampilkan di Finder
            *[other] Buka Foldernya
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Selalu Buka di { $handler }
+    .accesskey = S
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -113,6 +132,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Bersihkan Unduhan
     .accesskey = U
+downloads-cmd-delete-file =
+    .label = Hapus
+    .accesskey = H
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Izinkan Unduhan

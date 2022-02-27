@@ -372,3 +372,6 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-toggle-show-password =
     .label = Tampilkan Sandi
     .accesskey = d
+main-context-menu-reveal-password =
+    .label = Tampilkan Sandi
+    .accesskey = S

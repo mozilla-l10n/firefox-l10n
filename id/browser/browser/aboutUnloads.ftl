@@ -7,6 +7,14 @@
 ### feature.
 
 about-unloads-page-title = Pembongkaran Tab
+about-unloads-intro =
+    { -brand-short-name } memiliki fitur yang secara otomatis membongkar tab
+    untuk mencegah aplikasi rusak karena kekurangan memori
+    saat memori sistem yang tersedia hampir habis. Tab yang akan dibongkar
+    dipilih berdasarkan beberapa jenis data. Laman ini menunjukkan cara 
+    { -brand-short-name } memprioritaskan tab dan tab mana yang akan dibongkar
+    saat pembongkaran tab terpicu. Anda dapat memicu tab dibongkat secara manual
+    dengan mengeklik tombol <em>Bongkar</em> di bawah ini.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
