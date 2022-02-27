@@ -137,6 +137,7 @@ mr1-onboarding-sign-in-button-label = Masuk
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = Jadikan { -brand-short-name } peramban baku Anda
+mr1-onboarding-default-subtitle = Letakkan kecepatan, keamanan, dan privasi secara otomatis
 mr1-onboarding-default-primary-button-label = Jadikan sebagai peramban baku
 
 ## Multistage MR1 onboarding strings (about:welcome pages)

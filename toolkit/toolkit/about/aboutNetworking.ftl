@@ -27,6 +27,7 @@ about-networking-trr = TRR
 about-networking-addresses = Alamat
 about-networking-expires = Hangus (Detik)
 about-networking-originAttributesSuffix = Kunci Isolasi
+about-networking-flags = Flag ekstra
 about-networking-messages-sent = Pesan Terkirim
 about-networking-messages-received = Pesan Diterima
 about-networking-bytes-sent = Byte Dikirim

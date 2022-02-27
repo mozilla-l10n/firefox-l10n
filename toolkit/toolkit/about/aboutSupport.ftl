@@ -4,7 +4,6 @@
 
 page-title = Informasi Pemecahan Masalah
 page-subtitle = Laman ini berisi informasi teknis yang mungkin berguna ketika Anda berusaha mengatasi masalah. Jika Anda mencari jawaban untuk pertanyaan umum tentang { -brand-short-name }, silakan kunjungi <a data-l10n-name="support-link">situs web layanan dukungan kami</a>.
-
 crashes-title = Laporan Kerusakan
 crashes-id = ID Laporan
 crashes-send-date = Dikirim
@@ -55,12 +54,14 @@ app-basics-enabled-plugins = Plugin Terpasang
 app-basics-build-config = Konfigurasi Build
 app-basics-user-agent = User Agent
 app-basics-os = OS
+app-basics-os-theme = Tema Sistem Operasi
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Penggunaan Memori
 app-basics-performance = Kinerja
 app-basics-service-workers = Service Worker Terdaftar
+app-basics-third-party = Modul Pihak Ketiga
 app-basics-profiles = Profil
 app-basics-launcher-process-status = Proses Peluncur
 app-basics-multi-process-support = Jendela Multiproses
@@ -124,7 +125,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Jenis Proses
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumen
-
 troubleshoot-mode-title = Diagnosis masalah
 restart-in-troubleshoot-mode-label = Mode Pemecahan Masalah…
 clear-startup-cache-title = Coba bersihkan tembolok permulaan
@@ -185,23 +185,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Laporan Kerusakan dalam { $days } Hari Terakhir
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } menit yang lalu
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } jam yang lalu
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } hari yang lalu
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = Semua Laporan Kerusakan (termasuk { $reports } kerusakan yang tertunda pada rentang waktu yang ditentukan)
-
 raw-data-copied = Data mentah telah disalin ke papan klip
 text-copied = Teks telah disalin ke clipboard
 
@@ -214,11 +209,9 @@ blocked-mismatched-version = Diblokir karena versi driver kartu grafis Anda tida
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Diblokir untuk versi penggerak grafik Anda. Coba perbarui penggerak grafik Anda ke versi { $driverVersion } atau yang lebih baru.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameter ClearType
-
 compositing = Compositing
 hardware-h264 = Dekode H264 Perangkat Keras
 main-thread-no-omtc = thread utama, tanpa OMTC
@@ -233,7 +226,6 @@ virtual-monitor-disp = Layar Monitor Virtual
 
 found = Ditemukan
 missing = Hilang
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Deskripsi
@@ -256,19 +248,15 @@ webgl2-renderer = Perender WebGL2
 webgl2-version = Versi Penggerak WebGL 2
 webgl2-driver-extensions = Ekstensi Penggerak WebGL 2
 webgl2-extensions = Ekstensi WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Dicekal karena masalah yang diketahui: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Dicekal: kode kegagalan { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
-
 reset-on-next-restart = Setel Ulang pada Mulai Ulang Berikutnya
 gpu-process-kill-button = Matikan Proses GPU
 gpu-device-reset = Reset Perangkat
@@ -278,10 +266,8 @@ content-uses-tiling = Gunakan Tiling (Konten)
 off-main-thread-paint-enabled = Off Main Thread Painting Diaktifkan
 off-main-thread-paint-worker-count = Jumlah Off Main Thread Painting Worker
 target-frame-rate = Tingkat Target Bingkai
-
 min-lib-versions = Versi minimum diharapkan
 loaded-lib-versions = Versi yang digunakan
-
 has-seccomp-bpf = Seccomp-BPF (Pemfilteran Pemanggilan Sistem - System Call Filtering)
 has-seccomp-tsync = Sinkronisasi Utas Seccomp
 has-user-namespaces = Ruang Nama Pengguna
@@ -295,23 +281,19 @@ sandbox-proc-type-content = konten
 sandbox-proc-type-file = konten berkas
 sandbox-proc-type-media-plugin = plugin media
 sandbox-proc-type-data-decoder = dekoder data
-
 startup-cache-title = Tembolok Permulaan
 startup-cache-disk-cache-path = Jalur Tembolok Disk
 startup-cache-ignore-disk-cache = Abaikan Tembolok Disk
 startup-cache-found-disk-cache-on-init = Tembolok Disk di Init ditemukan
 startup-cache-wrote-to-disk-cache = Menulis ke Tembolok Disk
-
 launcher-process-status-0 = Diaktifkan
 launcher-process-status-1 = Dinonaktifkan karena kegagalan
 launcher-process-status-2 = Dinonaktifkan secara paksa
 launcher-process-status-unknown = Status tak diketahui
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -320,13 +302,13 @@ fission-status-experiment-control = Dinonaktifkan oleh eksperimen
 fission-status-experiment-treatment = Diaktifkan oleh eksperimen
 fission-status-disabled-by-e10s-env = Dinonaktifkan oleh lingkungan
 fission-status-enabled-by-env = Diaktifkan oleh lingkungan
+fission-status-disabled-by-env = Dinonaktifkan oleh lingkungan
 fission-status-disabled-by-safe-mode = Dinonaktifkan oleh mode aman
 fission-status-enabled-by-default = Diaktifkan secara baku
 fission-status-disabled-by-default = Dinonaktifkan secara baku
 fission-status-enabled-by-user-pref = Diaktifkan oleh pengguna
 fission-status-disabled-by-user-pref = Dinonaktifkan oleh pengguna
 fission-status-disabled-by-e10s-other = E10s dinonaktifkan
-
 async-pan-zoom = Geser/Perbesaran Asinkron
 apz-none = tidak ada
 wheel-enabled = input wheel diaktifkan
@@ -363,7 +345,6 @@ support-remote-experiments-title = Eksperimen Jarak Jauh
 support-remote-experiments-name = Nama
 support-remote-experiments-branch = Cabang Eksperimen
 support-remote-experiments-see-about-studies = Lihat <a data-l10n-name="support-about-studies-link">about:studies</a> untuk informasi lebih lanjut, termasuk cara menonaktifkan masing-masing percobaan atau menonaktifkan { -brand-short-name } untuk menjalankan jenis eksperimen ini di masa mendatang.
-
 support-remote-features-title = Fitur Jarak Jauh
 support-remote-features-name = Nama
 support-remote-features-status = Status

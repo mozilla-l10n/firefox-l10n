@@ -47,6 +47,7 @@ upgrade-dialog-pin-secondary-button = Jangan sekarang
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Jadikan { -brand-short-name } peramban baku Anda
+upgrade-dialog-default-subtitle-2 = Letakkan kecepatan, keamanan, dan privasi secara otomatis
 upgrade-dialog-default-primary-button-2 = Jadikan sebagai peramban baku
 upgrade-dialog-default-secondary-button = Jangan sekarang
 
