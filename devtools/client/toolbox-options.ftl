@@ -107,7 +107,7 @@ options-enable-remote-tooltip2 =
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Benutzerdefinierte Formatierungen aktivieren
 options-enable-custom-formatters-tooltip =
-    .title = Wenn Sie diese Option aktivieren, können Websites benutzerdefinierte Formatierer für DOM-Objekte definieren
+    .title = Bei Aktivierung können Websites benutzerdefinierte Formatierer für DOM-Objekte definieren.
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service-Worker über HTTP aktivieren (bei geöffneten Entwicklerwerkzeugen)
 options-enable-service-workers-http-tooltip =
