@@ -39,6 +39,7 @@ pocket-panel-signup-tagline = Simpan artikel dan video dari { -brand-product-nam
 pocket-panel-signup-tagline-story-one = Klik Tombol { -pocket-brand-name } untuk menyimpan artikel, video, atau laman apa saja dari { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tampilkan lewat { -pocket-brand-name } di berbagai perangkat, kapan saja.
 pocket-panel-signup-cta-a = Tombol simpan Anda untuk internet.
+pocket-panel-signup-cta-b = Klik tombol { -pocket-brand-name } untuk menyimpan artikel, video, dan tautan. Lihat daftar Anda di semua perangkat, kapan saja.
 pocket-panel-signup-cta-c = Tampilkan daftar Anda di berbagai perangkat, kapan saja.
 
 ## about:pocket-home panel
