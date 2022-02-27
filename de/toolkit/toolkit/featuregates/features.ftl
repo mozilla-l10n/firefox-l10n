@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Aktiviert die Unterstützung für die experimentelle CSS-Mauerwerk-Darstellung. Weitere Informationen zu den Grundlagen dieser Funktion sind in <a data-l10n-name="explainer">dieser Erläuterung</a> zu finden. Rückmeldung kann per Kommentar  <a data-l10n-name="w3c-issue">in diesem Github Issue</a> oder <a data-l10n-name="bug">in diesem Bug</a> gegeben werden.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Aktiviert die Unterstützung für CSS Cascade Layers. Weitere Informationen sind in der <a data-l10n-name="spec">Spezifikation</a> zu finden, die noch in Arbeit ist. Melden Sie Fehler im Zusammenhang mit dieser Funktion als blockierend für <a data-l10n-name="bugzilla">Bug 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Diese neue API bietet eine Low-Level-Unterstützung für die Durchführung von Berechnungen und Grafikdarstellung mit der <a data-l10n-name="wikipedia">Graphics Processing Unit (GPU)</a> des Geräts oder Computers des Benutzers. Die <a data-l10n-name="spec">Spezifikation</a> ist noch in Arbeit. Weitere Informationen erhalten Sie im <a data-l10n-name="bugzilla">Bug 1602129</a>.
@@ -97,4 +92,4 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) ist
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 User-Agent-String
-experimental-features-firefox-100-description = Lässt{ -brand-short-name } einen User-Agent-String an Websites senden, die vorgibt, { -brand-product-name } Version 100 zu sein. Verwenden Sie diese Einstellung, um zu testen, ob Websites abstürzen, wenn { -brand-short-name } eine dreistellige Versionsnummer erreicht. Das echte { -brand-product-name } 100 soll im Mai 2022 veröffentlicht werden, also beginnen Sie jetzt mit dem Testen Ihrer Websites!
+experimental-features-firefox-100-description = Lässt { -brand-short-name } einen User-Agent-String an Websites senden, der vorgibt, { -brand-product-name } Version 100 zu sein. Verwenden Sie diese Einstellung, um zu testen, ob Websites abstürzen, wenn { -brand-short-name } eine dreistellige Versionsnummer erreicht. { -brand-product-name } 100 soll im Mai 2022 veröffentlicht werden - beginnen Sie jetzt mit dem Testen Ihrer Websites!
