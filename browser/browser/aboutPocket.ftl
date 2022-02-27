@@ -38,6 +38,9 @@ pocket-panel-signup-signup-firefox = Рэгістрацыя праз { -brand-pr
 pocket-panel-signup-tagline = Захоўвайце артыкулы і відэа з { -brand-product-name }, каб глядзець іх у { -pocket-brand-name } на любой прыладзе, у любы час.
 pocket-panel-signup-tagline-story-one = Націсніце кнопку { -pocket-brand-name }, каб запісаць любы артыкул, відэа ці старонку з { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Праглядайце ў { -pocket-brand-name } на любой прыладзе, у любы час.
+pocket-panel-signup-cta-a = Ваша кнопка захавання для інтэрнэту.
+pocket-panel-signup-cta-b = Націсніце кнопку { -pocket-brand-name }, каб захаваць артыкулы, відэа і спасылкі. Праглядайце свой спіс на любой прыладзе ў любы час.
+pocket-panel-signup-cta-c = Праглядайце свой спіс на любой прыладзе ў любы час.
 
 ## about:pocket-home panel
 
@@ -47,7 +50,17 @@ pocket-panel-home-paragraph = Вы можаце выкарыстоўваць { -
 pocket-panel-home-explore-popular-topics = Паглядзіце папулярныя тэмы
 pocket-panel-home-discover-more = Адкрыйце для сябе яшчэ больш
 pocket-panel-home-explore-more = Азнаёміцца
+pocket-panel-home-most-recent-saves = Вось вашы апошнія захаванні:
+pocket-panel-home-new-user-cta = Націсніце кнопку { -pocket-brand-name }, каб захаваць артыкулы, відэа і спасылкі.
+pocket-panel-home-new-user-message = Глядзіце свае апошнія захаванні тут.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Паглядзець мой спіс
 pocket-panel-header-sign-in = Увайсці
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Паказаць усё
+pocket-panel-button-add-tags = Дадаць тэгі
+pocket-panel-button-activate = Актывуйце { -pocket-brand-name } у { -brand-product-name }
