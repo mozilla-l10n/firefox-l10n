@@ -16,6 +16,7 @@
 <!ENTITY printCmd.label "Чоп кардан ...">
 
 <!ENTITY menubarCmd.label "Навори меню">
+<!ENTITY menubarCmd.accesskey "М">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -23,6 +24,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fullScreenCmd.label "Экрани пурра">
 
 <!ENTITY pictureInPictureHideToggle.label "Пинҳон кардани васлаки реҷаи «Расм-дар-расм»">
+<!ENTITY pictureInPictureHideToggle.accesskey "П">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -31,6 +33,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Варақаеро ба дастгоҳи дилхоҳе, ки шумо ба он ворид мешавед, дар як лаҳза фиристонед.">
 
 <!ENTITY printButton.label            "Чоп кардан">
 <!ENTITY printButton.tooltip          "Чоп кардани саҳифаи ҷорӣ">
@@ -77,6 +80,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Намоиш додани ҳамаи варақаҳо аз ин дастгоҳ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Барои дидани рӯйхати варақаҳо аз дастгоҳҳои дигари худ, ҳамоҳангсозии варақаҳоро фаъол созед.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -93,6 +97,7 @@ this container is a toolbar. This avoids double-speaking. -->
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Илова кардан ба менюи васеъшуда">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "М">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ҷудо кардан аз менюи васеъшуда">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.addMoreItems.label "Илова кардани ҷузъҳои бештар…">
