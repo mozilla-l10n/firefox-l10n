@@ -937,6 +937,15 @@ content-blocking-all-windows-tracking-content = Melacak konten di seluruh jendel
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
 content-blocking-cryptominers = Penambang Kripto
 content-blocking-fingerprinters = Pelacak Sidik
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label =
+        Uji coba pengalaman privasi terkuat kami
+        kami yang pernah ada
+    .accesskey = U
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Perlindungan Kuki total membelenggu kuki situs tempat Anda berada, sehingga pelacak tidak dapat menggunakannya untuk mengikuti Anda antar-situs.
 content-blocking-etp-standard-tcp-rollout-learn-more = Pelajari lebih lanjut
 content-blocking-warning-title = Perhatian!
 content-blocking-and-isolating-etp-warning-description = Memblokir pelacak dan mengisolasi kuki dapat memengaruhi fungsionalitas beberapa situs. Muat ulang laman dengan pelacak untuk memuat semua konten.

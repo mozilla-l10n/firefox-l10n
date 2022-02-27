@@ -20,6 +20,8 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Gunakan data Anda untuk internet yang lebih baik bagi semua orang.
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Sumbangkan data Anda untuk penelitian yang bekerja untuk menciptakan internet yang lebih aman dan terbuka yang membantu orang, bukan perusahaan Teknologi Raksasa.
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally =
     .label = Bergabunglah dengan { -rally-short-name }
 # This string is specific to the product Mozilla Rally which is US only.
