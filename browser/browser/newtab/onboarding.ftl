@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Jangan sekarang
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Situs yang terdaftar di sini ditemukan di perangkat ini. { -brand-short-name } tidak menyimpan ataupun menyinkronkan data dari peramban lain kecuali Anda memilih untuk mengimpornya.
+return-to-amo-add-theme-label = Tambahkan Tema
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -105,6 +106,12 @@ mr1-onboarding-reduce-motion-button-label = Nonaktifkan animasi
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Sematkan { -brand-short-name } ke Dock Anda untuk akses mudah
+       *[other] Pin { -brand-short-name } ke bilah tugas Anda untuk akses mudah
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -143,8 +150,19 @@ mr1-onboarding-import-primary-button-label-attribution = Impor dari { $previous 
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Impor dari peramban sebelumnya
 mr1-onboarding-import-secondary-button-label = Jangan sekarang
+mr2-onboarding-colorway-header = Hidup bersama warna
+mr2-onboarding-colorway-subtitle = Warna baru. Tersedia untuk waktu terbatas.
+mr2-onboarding-colorway-primary-button-label = Simpan warna
 mr2-onboarding-colorway-secondary-button-label = Jangan sekarang
+mr2-onboarding-colorway-label-soft = Lembut
 mr2-onboarding-colorway-label-balanced = Seimbang
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = Mencolok
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = Otomatis
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = Baku
 mr1-onboarding-theme-header = Jadikan milik Anda
 mr1-onboarding-theme-subtitle = Personalisasikan { -brand-short-name } dengan tema.
 mr1-onboarding-theme-primary-button-label = Simpan tema
@@ -250,7 +268,31 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Gunakan tampilan dinamis berwarna untuk
         tombol, menu, dan jendela.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Gunakan warna ini.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Gunakan warna ini.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Telusuri warna { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Telusuri warna { $colorwayName }.
+# Tooltip displayed on hover of default themes
+mr2-onboarding-default-theme-tooltip =
+    .title = Jelajahi tema baku.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Jelajahi tema baku.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Terima kasih telah memilih kami
+mr2-onboarding-thank-you-text = { -brand-short-name } adalah peramban independen yang didukung oleh organisasi nirlaba. Bersama-sama, kita membuat web menjadi lebih aman, lebih sehat, dan lebih pribadi.
 mr2-onboarding-start-browsing-button-label = Mulai menjelajah

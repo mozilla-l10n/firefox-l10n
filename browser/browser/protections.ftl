@@ -56,6 +56,8 @@ mobile-app-links = Peramban { -brand-product-name } untuk <a data-l10n-name="and
 lockwise-title = Jangan pernah lupa kata sandi lagi
 lockwise-title-logged-in2 = Pengelolaan Kata Sandi
 lockwise-header-content = { -lockwise-brand-name } menyimpan sandi di peramban Anda dengan aman.
+passwords-title-logged-in = Kelola kata sandi Anda
+passwords-header-content = { -brand-product-name } menyimpan sandi di peramban Anda dengan aman.
 lockwise-header-content-logged-in = Simpan dan sinkronkan sandi dengan aman ke semua perangkat Anda.
 protection-report-save-passwords-button = Simpan Kata Sandi
     .title = Simpan Kata Sandi di { -lockwise-brand-short-name }
