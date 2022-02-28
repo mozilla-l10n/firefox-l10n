@@ -25,7 +25,9 @@ about-processes-column-cpu-total = CPU
 
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-file-process = Fitxers ({ $pid })
+about-processes-extension-process = Extensions ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
+about-processes-socket-process = Xarxa ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -35,6 +37,10 @@ about-processes-gpu-process = GPU ({ $pid })
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Pestanya: { $name }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -45,6 +51,11 @@ about-processes-gpu-process = GPU ({ $pid })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (s'està mesurant)
+# Special case: process or thread is currently idle.
+about-processes-cpu-idle = inactiu
+    .title = Temps total de la CPU: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -62,6 +73,14 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
+duration-unit-h = h
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-KB = kB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
