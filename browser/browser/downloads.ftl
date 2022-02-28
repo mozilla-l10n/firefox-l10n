@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 40em
 downloads-cmd-pause =
@@ -48,6 +43,12 @@ downloads-cmd-show-menuitem-2 =
            *[other] Obre la carpeta on es troba
         }
     .accesskey = M
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Obre amb el visualitzador del sistema
     .accesskey = v
@@ -74,6 +75,9 @@ downloads-cmd-show-description =
             [macos] Mostra-ho en el Finder
            *[other] Obre la carpeta on es troba
         }
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -163,6 +167,8 @@ downloading-file-opens-in-minutes = S'obrirà d'aquí a { $minutes } min…
 downloading-file-opens-in-minutes-and-seconds = S'obrirà d'aquí a { $minutes } min i { $seconds } s…
 downloading-file-opens-in-seconds = S'obrirà d'aquí a { $seconds } s…
 downloading-file-opens-in-some-time = S'obrirà quan acabi…
+downloading-file-click-to-open =
+    .value = Obre quan acabi
 
 ##
 
@@ -184,6 +190,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalls de la baixada
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] No s'ha baixat el fitxer.
+       *[other] No s'han baixat { $num } fitxers.
+    }
+downloads-blocked-from-url = S'han blocat les baixades de { $url }.
+downloads-blocked-download-detailed-info = { $url } ha intentat de baixar diversos fitxers automàticament. Aquest lloc podria estar malmès o intentant emmagatzemar fitxers brossa al dispositiu.
+
+##
+
 downloads-clear-downloads-button =
     .label = Buida la llista de baixades
     .tooltiptext = Elimina de la llista les baixades acabades, cancel·lades o que han fallat
