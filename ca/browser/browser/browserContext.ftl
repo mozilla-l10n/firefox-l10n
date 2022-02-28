@@ -368,3 +368,7 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Obre l'enllaç en una pestanya nova de { $containerName }
     .accesskey = O
+# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
+main-context-menu-toggle-show-password =
+    .label = Mostra la contrasenya
+    .accesskey = c
