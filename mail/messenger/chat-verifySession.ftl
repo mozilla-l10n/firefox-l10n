@@ -11,3 +11,4 @@ verify-dialog =
     .buttonaccesskeyaccept = E
     .buttonlabelextra2 = Eşleşmiyor
     .buttonaccesskeyextra2 = m
+challenge-label = Görüntülenen dizenin diğer uçtaki dizeyle eşleştiğini doğrula.
