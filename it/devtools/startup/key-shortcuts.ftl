@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # Key pressed to open a toolbox with the default panel selected
 devtools-commandkey-toggle-toolbox = I
 # Alternative key pressed to open a toolbox with the default panel selected
