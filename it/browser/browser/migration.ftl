@@ -152,6 +152,7 @@ browser-data-formdata-checkbox =
 browser-data-formdata-label =
     .value = Dati salvati nei moduli
 
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
