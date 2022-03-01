@@ -2,15 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Զտիչի կանոններ">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterName.label "Զտիչի անունը.">
+<!ENTITY filterName.accesskey "i">
 
+<!ENTITY junk.label "Թափաւն">
+<!ENTITY notJunk.label "Թափաւն չէ">
 
+<!ENTITY lowestPriorityCmd.label "Ամենացածր">
+<!ENTITY lowPriorityCmd.label "Ցածր">
+<!ENTITY normalPriorityCmd.label "Նորմալ">
+<!ENTITY highPriorityCmd.label "Բարձր">
+<!ENTITY highestPriorityCmd.label "Ամենաբարձր">
 
+<!ENTITY contextDesc.label "Կիրառել զտիչը, երբ՝">
+<!ENTITY contextIncomingMail.label "Նոր նամակի ստացում.">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextOutgoing.label "Ուղարկելուց յետոյ">
+<!ENTITY contextOutgoing.accesskey "Ու">
+<!ENTITY contextArchive.label "Արխիւացում">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
+<!ENTITY filterActionDesc.accesskey "P">
 
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY markMessageRead.label "Նշել որպէս ընթերցուած">
+<!ENTITY markMessageUnread.label "Նշել որպէս չընթերցուած">
+<!ENTITY addTag.label "Պիտակուած նամակ">
 <!ENTITY setJunkScore.label "Սահմանել թափաւնի կարգավիճակը՝ ">
+<!ENTITY deleteMessage.label "Ջնջել նամակը">
+<!ENTITY deleteFromPOP.label "Ջնջել POP սպասարկչից">
 
+<!ENTITY addAction.tooltip "Աւելացնել նոր գործողութիւն">
+<!ENTITY removeAction.tooltip "Հեռացնել գործողութիւնը">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
@@ -18,3 +46,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
