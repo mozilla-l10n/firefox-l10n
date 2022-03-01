@@ -36,6 +36,7 @@
 <!ENTITY setJunkScore.label "Սահմանել թափաւնի կարգավիճակը՝ ">
 <!ENTITY deleteMessage.label "Ջնջել նամակը">
 <!ENTITY deleteFromPOP.label "Ջնջել POP սպասարկչից">
+<!ENTITY fetchFromPOP.label "Ներբեռնել POP սպասարկչից">
 
 <!ENTITY addAction.tooltip "Աւելացնել նոր գործողութիւն">
 <!ENTITY removeAction.tooltip "Հեռացնել գործողութիւնը">
