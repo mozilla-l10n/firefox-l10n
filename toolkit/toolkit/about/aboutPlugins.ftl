@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 title-label = Informazioni sui plugin
 installed-plugins-label = Plugin installati
 no-plugins-are-installed-label = Nessun plugin installato
