@@ -9,7 +9,7 @@
 <!ENTITY retry.label "Δοκιμή ξανά">
 <!ENTITY returnToPreviousPage.label "Επιστροφή">
 <!ENTITY returnToPreviousPage1.label "Επιστροφή (Προτείνεται)">
-<!ENTITY advanced2.label "Για προχωρημένους…">
+<!ENTITY advanced2.label "Σύνθετα…">
 <!ENTITY viewCertificate.label "Προβολή πιστοποιητικού">
 
 <!-- Specific error messages -->
@@ -175,7 +175,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "Πληροφορίες για προχωρημένους: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "Σύνθετες πληροφορίες: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
 <!ENTITY certerror.sts.pagetitle  "Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας">

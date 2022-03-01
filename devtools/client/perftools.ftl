@@ -110,7 +110,7 @@ perftools-tools-threads-input-label =
 
 perftools-onboarding-message = <b>Νέο</b>: Το { -profiler-brand-name } έχει ενσωματωθεί στα Εργαλεία προγραμματιστών. <a>Μάθετε περισσότερα</a> σχετικά με αυτό το νέο ισχυρό εργαλείο.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Για περιορισμένο χρονικό διάστημα, μπορείτε να ανοίξετε το αρχικό παράθυρο "Επιδόσεις" από τις <a>{ options-context-advanced-settings }</a>)
+perftools-onboarding-reenable-old-panel = (Για περιορισμένο χρονικό διάστημα, μπορείτε να ανοίξετε το αρχικό παράθυρο «Επιδόσεις» από τις <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Κλείσιμο μηνύματος υποδοχής
 
@@ -123,18 +123,11 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Ανάπτυξη web
 perftools-presets-web-developer-description = Προτεινόμενη προεπιλογή για τον έλεγχο σφαλμάτων των περισσότερων εφαρμογών ιστού με χαμηλό κόστος.
-perftools-presets-firefox-platform-label = Πλατφόρμα Firefox
-perftools-presets-firefox-platform-description = Προτεινόμενη προεπιλογή για τον εσωτερικό έλεγχο σφαλμάτων της πλατφόρμας του Firefox.
-perftools-presets-firefox-front-end-label = Περιβάλλον Firefox
-perftools-presets-firefox-front-end-description = Προτεινόμενη προεπιλογή για τον εσωτερικό έλεγχο σφαλμάτων του περιβάλλοντος του Firefox.
-perftools-presets-firefox-graphics-label = Γραφικά Firefox
-perftools-presets-firefox-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση επιδόσεων γραφικών του Firefox.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Προτεινόμενη προεπιλογή για την καταγραφή προφίλ στο { -brand-shorter-name }.
 perftools-presets-graphics-label = Γραφικά
 perftools-presets-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων γραφικών στο { -brand-shorter-name }.
 perftools-presets-media-label = Πολυμέσα
-perftools-presets-media-description = Προτεινόμενη προεπιλογή για τη διάγνωση προβλημάτων ήχου και βίντεο.
 perftools-presets-media-description2 = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων ήχου και βίντεο στο { -brand-shorter-name }.
 perftools-presets-networking-label = Δικτύωση
 perftools-presets-networking-description = Προτεινόμενη προεπιλογή για τη διερεύνηση σφαλμάτων δικτύωσης στο { -brand-shorter-name }.
