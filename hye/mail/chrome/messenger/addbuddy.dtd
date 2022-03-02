@@ -3,3 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addBuddyWindow.title           "Աւելացնել կապորդ">
+<!ENTITY name.label                     "Աւգտանուն">
+<!ENTITY account.label                  "Հաշիւ">
