@@ -38,7 +38,7 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Email:">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Να προτιμάται ο προγραμματισμός με ηλεκτρονικό ταχυδρομείο">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Να προτιμάται ο προγραμματισμός email στο πρόγραμμα-πελάτη">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
