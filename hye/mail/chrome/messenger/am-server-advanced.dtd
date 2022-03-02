@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "Սպասարկիչը աջակցում է այն պանակներին, որոնք պարունակում են ենթապանակներ եւ ուղերձներ">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "Այղ աւգտուողներ.">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY accountInbox.accesskey "s">
+<!ENTITY deferToServer.accesskey "d">
