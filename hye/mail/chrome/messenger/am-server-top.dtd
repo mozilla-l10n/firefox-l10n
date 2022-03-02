@@ -2,17 +2,51 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY securitySettings.label "Անվտանգութեան կարգաւորումներ">
+<!ENTITY serverSettings.label "Սպասարկչի կարգաւորումներ">
+<!ENTITY serverType.label "Սպասարկչի տեսակը.">
+<!ENTITY serverName.label "Սպասարկչի անունը.">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Աւգտատիրոջ անունը.">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Սկզբանդիր․">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "րոպէներ">
+<!ENTITY useIdleNotifications.accesskey "w">
+<!ENTITY connectionSecurity.label "Կապակցման անվտանգութիւն.">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Չկայ">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "աւրեր">
+<!ENTITY deleteOnServer2.label "Մինչ դրանք ջնջեմ">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Ինքնաբերաբար ներբեռնել նոր նամակները">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY deleteMessagePrefix.label "Երբ ես ջնջեմ ուղերձը,">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
+<!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "նամակներ">
 <!ENTITY serverDefaultCharset2.label "Գրոյթի լռելեայն կոդաւորում․">
 
