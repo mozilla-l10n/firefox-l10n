@@ -14,6 +14,9 @@
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ᱱᱚᱣᱟ { -brand-shorter-name }
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = ᱡᱚᱲᱟᱣ ᱮᱱᱟ
 # Text displayed in buttons found in sidebar items representing remote runtimes.
@@ -21,14 +24,23 @@ aboutdebugging-sidebar-runtime-connection-status-connected = ᱡᱚᱲᱟᱣ ᱮ
 about-debugging-sidebar-item-connect-button = ᱡᱚᱲᱟᱣ
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = ᱡᱚᱲᱟᱣᱚᱜ ᱠᱟᱱᱟ…
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 
 # Setup Page strings
 
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ᱱᱮᱴᱣᱚᱨᱠ ᱴᱷᱟᱶ
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
-# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
 about-debugging-setup-network-troubleshoot = Via ᱱᱮᱴᱣᱚᱨᱠ ᱴᱷᱟᱶ ᱟᱠᱚᱴ ᱡᱚᱯᱲᱟᱣ? <a>Troubleshoot</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
@@ -54,6 +66,10 @@ about-debugging-runtime-service-workers =
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = ᱮᱴᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱲ
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ
