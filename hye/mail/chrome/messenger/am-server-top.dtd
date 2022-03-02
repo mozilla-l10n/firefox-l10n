@@ -48,5 +48,11 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "նամակներ">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Գրոյթի լռելեայն կոդաւորում․">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseNewsrc.accesskey "e">
 
+<!ENTITY accountTitle.label "Հաշուի կարգաւորումներ ">
+<!ENTITY storeType.accesskey "T">

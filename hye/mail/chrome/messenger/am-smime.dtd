@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY e2eLearnMore.label "Իմանալ աւելին">
+
+
+
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY digitalSign.certificate.button "Նշել…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Մաքրել">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "Նշել…">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Մաքրել">
+<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY signMessage.accesskey "D">
+
+
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "S/MIME անվտանգութեան սարքեր">
+<!ENTITY manageDevices2.accesskey "y">
+
+<!ENTITY technologySMIME.label "Նախընտրել S/MIME">
+<!ENTITY technologyOpenPGP.label "Նախընտրել OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Նշել վկայագիրը">
+<!ENTITY certPicker.info  "Վկայագիր.">
+
+<!ENTITY openpgpKey.accesskey "o">
