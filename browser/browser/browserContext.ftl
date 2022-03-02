@@ -374,4 +374,4 @@ main-context-menu-toggle-show-password =
     .accesskey = s
 main-context-menu-reveal-password =
     .label = Mostrar contraseña
-    .accesskey = v
+    .accesskey = c
