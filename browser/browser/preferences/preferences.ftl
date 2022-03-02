@@ -163,8 +163,8 @@ browser-containers-settings =
 containers-disable-alert-title = ¿Cerrar todas las pestañas contenedoras?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si desactivas las pestañas contenedoras ahora, { $tabCount } pestaña contenedora será cerrada. ¿Estás seguro de que quieres desactivar las pestañas contenedoras?
-       *[other] Si desactivas las pestañas contenedoras ahora, { $tabCount } pestañas contenedoras serán cerradas. ¿Estás seguro de que quieres desactivar las pestañas contenedoras?
+        [one] Si desactivas las pestañas contenedoras ahora, { $tabCount } pestaña contenedora será cerrada. ¿De verdad quieres desactivar las pestañas contenedoras?
+       *[other] Si desactivas las pestañas contenedoras ahora, { $tabCount } pestañas contenedoras serán cerradas. ¿De verdad quieres desactivar las pestañas contenedoras?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -177,8 +177,8 @@ containers-remove-alert-title = ¿Remover este contenedor?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Si eliminas este contenedor ahora, { $count } pestaña contenedora será cerrada. ¿Estás seguro de que quieres eliminar este contenedor?
-       *[other] Si eliminas este contenedor ahora, { $count } pestañas contenedoras serán cerradas. ¿Estás seguro de que quieres eliminar este contenedor?
+        [one] Si eliminas este contenedor ahora, { $count } pestaña contenedora será cerrada. ¿De verdad quieres eliminar este contenedor?
+       *[other] Si eliminas este contenedor ahora, { $count } pestañas contenedoras serán cerradas. ¿De verdad quieres eliminar este contenedor?
     }
 containers-remove-ok-button = Remover este contenedor
 containers-remove-cancel-button = No remover este contenedor
