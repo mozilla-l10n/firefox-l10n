@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "Hljóðstafað nafn:">
 <!ENTITY DisplayName.label              "Birting:">
 <!ENTITY DisplayName.accesskey          "B">
-<!ENTITY preferDisplayName.label        "Kjósið alltaf birtingarnafn fram yfir skilaboðahaus">
+<!ENTITY preferDisplayName.label        "Kjósa alltaf birtingarnafn fram yfir það sem stendur í haus skilaboða">
 <!ENTITY preferDisplayName.accesskey    "j">
 <!ENTITY NickName.label                 "Gælunafn:">
 <!ENTITY NickName.accesskey             "N">
