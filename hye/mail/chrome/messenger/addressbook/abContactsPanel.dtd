@@ -5,7 +5,34 @@
 <!ENTITY propertiesMenu.label               "Յատկութիւններ">
 <!ENTITY propertiesMenu.accesskey           "i">
 <!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Հասցէագրքի յատկութիւները">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Կապի հատկութիւներ">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY addressbookPicker.label            "Հասցէագիրք.">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.accesskey           "n">
+<!ENTITY SearchNameOrEmail.label            "Անուն կամ ել-հասցէ">
 
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Ջնջել">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.label            "Յատկութիւնները">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Յատկութիւնները">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.accesskey   "E">
 
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Նոր ցանկ">
+<!ENTITY newListAbContext.accesskey         "L">
 
+<!ENTITY toButton.label                     "Ում․">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.accesskey                "B">
