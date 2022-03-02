@@ -30,4 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-message = <strong>Nde jehekaha mongu’eha ijypykuéva iñambuéma.</strong> { -brand-short-name } ndojokupytyvéima { $oldEngine } ndive. { $newEngine } ha’e ko’ág̃a nde jehekaha ijypykuéva. Emoambuesérõ nde jehekaha ijypykuéva, eho moĩporãhápe. <label data-l10n-name="remove-search-engine-article">Eikuaave</label>
 remove-search-engine-button = MONEĨ
