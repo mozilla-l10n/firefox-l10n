@@ -56,7 +56,7 @@
 <!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "Eiginleikar nafnaskrár">
 <!ENTITY abPropertiesMenu.accesskey                     "i">
-<!ENTITY contactPropertiesMenu.label                    "Eiginleikar tengiliðs">
+<!ENTITY contactPropertiesMenu.label                    "Eiginleikar tengiliðar">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
 <!ENTITY mailingListPropertiesMenu.label                "Eiginleikar póstlista">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
