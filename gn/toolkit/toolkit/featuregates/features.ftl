@@ -92,3 +92,4 @@ experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) 
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 puruhára juajuha
+experimental-features-firefox-100-description = Ere { -brand-short-name }-pe tomondo ñanduti rendápe juajuha puruhára rehegua ojoguáva { -brand-product-name } 100-pe. Eipuru ñemboheko eha’ã hag̃ua ñanduti renda ojavýtapa og̃uahẽ vove { -brand-short-name } tembiapokue mbohapy papapýpe. Pe { -brand-product-name } 100 ñeguenohẽ oikóta jasypo 2022-pe, ¡péicha eipuru ñepyrũntema ñanduti renda ag̃aite guive!
