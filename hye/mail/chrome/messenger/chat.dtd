@@ -3,14 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY onlineContactsHeader.label    "Առցանց կապորդներ">
+<!ENTITY conversationsHeader.label     "Խաւսակցութիւններ">
+<!ENTITY searchResultConversation.label "Որոնման արդիւնքներ">
+<!ENTITY chat.accountWizard.button       "Սկսել">
 <!ENTITY chat.showAccountManager.button       "Ցուցադրել զրոյցի կարգավիճակը">
 
 <!ENTITY chat.participants             "Մասնակիցներ.">
+<!ENTITY chat.previousConversations    "Նախորդ խաւսակցութիւնները.">
+<!ENTITY chat.ongoingConversation      "Ընթացող խաւսակցութիւն">
 
+<!ENTITY openConversationCmd.label     "Մեկնարկել խաւսակցութիւնը">
+<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY closeConversationCmd.label    "Փակել խաւսակցութիւնը">
+<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY aliasCmd.label                "Վերանուանել">
+<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY deleteCmd.accesskey           "v">
 
+<!ENTITY openConversationButton.tooltip  "Մեկնարկել խաւսակցութիւնը">
+<!ENTITY closeConversationButton.tooltip "Փակել խաւսակցութիւնը">
 
+<!ENTITY chatAccountsButton.label      "Ցուցադրել հաշիւները">
 
 <!ENTITY status.available          "Հասանելի">
 <!ENTITY status.unavailable        "Անհասանելի">
 <!ENTITY status.offline            "Անցանց">
 
+<!ENTITY openLinkCmd.label            "Բացել յղումը…">
+<!ENTITY openLinkCmd.accesskey        "O">
