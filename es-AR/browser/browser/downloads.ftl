@@ -84,7 +84,7 @@ downloads-cmd-show-description =
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-always-use-system-default-named =
     .label = Siempre abrir con { $handler }
-    .accesskey = w
+    .accesskey = i
 
 ##
 
