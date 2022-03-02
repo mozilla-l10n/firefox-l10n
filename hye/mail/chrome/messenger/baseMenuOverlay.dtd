@@ -4,10 +4,24 @@
 
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Աւգնութիւն">
+<!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Աւգնութիւն">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct2.label "&brandShorterName; -ի մասին">
+<!ENTITY aboutProduct2.accesskey "A">
+<!ENTITY productHelp.label "Աւգնութիւն &brandShortName;- ից">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
 
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpFeedbackPage.accesskey "S">
 
+<!ENTITY helpShowTour2.accesskey "օ">
 
+<!ENTITY helpGetInvolvedPage.accesskey "I">
 
+<!ENTITY helpDonationsPage.label "Կատարել նուիրատուութիւն">
