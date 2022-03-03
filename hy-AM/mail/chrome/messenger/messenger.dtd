@@ -490,6 +490,7 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Ներմուծել…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Արտահանել...">
 <!ENTITY clearRecentHistory.label "Ջնջել Վերջին Պատմությունը...">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Փոստարկղի կարգավորումներ">
