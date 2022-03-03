@@ -75,7 +75,7 @@
 <!ENTITY advancedButton.accesskey "Д">
 <!ENTITY serverDefaultCharset2.label "Типове кодування шрифту:">
 <!ENTITY localPath1.label "Локальний каталог:">
-<!ENTITY localFolderPicker.label "Розташування локальних тек">
+<!ENTITY localFolderPicker.label "Розташування локальних каталогів">
 <!ENTITY browseFolder.label "Огляд…">
 <!ENTITY browseFolder.accesskey "О">
 <!ENTITY browseNewsrc.label "Огляд…">
