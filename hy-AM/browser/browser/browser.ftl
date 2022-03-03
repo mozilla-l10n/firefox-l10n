@@ -614,6 +614,9 @@ remote-tabs-sync-now = Համաժամեցնել
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Ավելին…
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
 

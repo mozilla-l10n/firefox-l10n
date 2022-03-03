@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատո
 about-private-browsing-search-placeholder = Որոնել առցանց
 about-private-browsing-info-title = Դուք Գաղտնի դիտարկման մեջ եք
 about-private-browsing-info-myths = Տարածված առասպելներ գաղտնի դիտարկման մասին
+about-private-browsing-search-btn =
+    .title = Որոնել համացանցում
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -40,3 +42,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել
+about-private-browsing-dismiss-button =
+    .title = Բաց թողնել

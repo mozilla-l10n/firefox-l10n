@@ -54,6 +54,7 @@ about-logins-list-item-breach-icon =
     .title = Խախտված կայք
 about-logins-list-item-vulnerable-password-icon =
     .title = Խոցելի գաղտնաբառ
+about-logins-list-section-nothing = Զգուշացում չկա
 about-logins-list-section-today = Այսօր
 about-logins-list-section-yesterday = Երեկ
 about-logins-list-section-week = Վերջին 7 օրում
@@ -246,6 +247,7 @@ about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագր
 about-logins-import-dialog-error-learn-more = Իմանալ ավելին
 about-logins-import-dialog-error-try-import-again = Նորից փորձեք ներմուծել…
 about-logins-import-dialog-error-cancel = Չեղարկել
+about-logins-import-report-row-description-error = Սխալ․ դաշտ չկա
 
 ##
 ## Variables:
