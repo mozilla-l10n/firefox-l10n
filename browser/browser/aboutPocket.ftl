@@ -41,3 +41,13 @@ pocket-panel-signup-tagline-story-two = Դիտեք { -pocket-brand-name }-ում
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = Իմ ցուցակը
+pocket-panel-home-welcome-back = Բարի վերադարձ
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Դիտել ցանկը
+pocket-panel-header-sign-in = Մուտք գործել
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Ցուցադրել բոլորը
