@@ -31,7 +31,7 @@ protection-report-page-summary-default = { -brand-short-name } beskytter personv
 protection-report-settings-link = Behandle personvern- og sikkerhetsinnstillinger
 etp-card-title-always = Utvidet sporingsbeskyttelse: alltid på
 etp-card-title-custom-not-blocking = Utvidet sporingsbeskyttelse: AV
-etp-card-content-description = { -brand-short-name } stopper selskaper automatisk fra å spore aktivitetene dine på nettet det skjulte.
+etp-card-content-description = { -brand-short-name } stopper selskaper automatisk fra å spore aktivitetene dine på nettet i det skjulte.
 protection-report-etp-card-content-custom-not-blocking = All beskyttelse er for tiden slått av. Velg hvilke sporere du vil blokkere ved å behandle innstillingene for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Behandle innstillinger
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
