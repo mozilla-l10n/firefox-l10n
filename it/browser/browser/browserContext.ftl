@@ -454,10 +454,6 @@ main-context-menu-open-link-in-container-tab =
     .label = Apri link in nuova scheda { $containerName }
     .accesskey = s
 
-main-context-menu-toggle-show-password =
-    .label = Mostra password
-    .accesskey = w
-
 main-context-menu-reveal-password =
     .label = Rivela password
     .accesskey = v
