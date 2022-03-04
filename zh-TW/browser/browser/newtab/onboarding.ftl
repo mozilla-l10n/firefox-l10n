@@ -280,6 +280,10 @@ mr2-onboarding-start-browsing-button-label = 開始上網
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = 選擇您的語言
+onboarding-live-language-subtitle = { -brand-short-name } 是 { $appLanguage } 版，而您的系統使用的是 { $systemLanguage } 版。
+onboarding-live-language-button-label-downloading = 正在下載 { $negotiatedLanguage } 的語言套件…
+onboarding-live-language-waiting-subtitle = 看來您的作業系統與 { -brand-short-name } 的語言版本不同。
+onboarding-live-language-waiting-button = 正在取得可用的語言清單…
 onboarding-live-language-secondary-cancel-download = 取消
 onboarding-live-language-not-now-button-label = 現在不要
 onboarding-live-language-skip-button-label = 略過
