@@ -19,6 +19,11 @@ button-continue = Parhau
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Mewnforio o { $app }
@@ -27,14 +32,28 @@ profile-file-picker-dir = Dewiswch ffolder proffil
 profile-file-picker-zip = Dewiswch ffeil zip (llai na 2GB)
 items-pane-title = Dewiswch beth i'w fewnforio
 items-pane-desc = Mewnforio o
+items-pane-source = Lleoliad y ffynhonnell:
 items-pane-checkbox-accounts = Cyfrifon a Gosodiadau
 items-pane-checkbox-address-books = Llyfrau Cyfeiriadau
 items-pane-checkbox-calendars = Calendrau
 items-pane-checkbox-mail-messages = Negeseuon E-bost
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Dewiswch y math o ffeil yr hoffech ei mewnforio:
+addr-book-csv-file = Ffeil wedi'i gwahanu gan goma neu dab (.csv, .tsv)
+addr-book-ldif-file = Ffeil LDIF (.ldif)
+addr-book-vcard-file = Ffeil vCard (.vcf, .vcard)
+addr-book-mab-file = Ffeil cronfa ddata Mork (.mab)
+addr-book-file-picker = Dewiswch ffeil llyfr cyfeiriadau
+addr-book-directories-pane-title = Dewiswch y cyfeiriadur yr hoffech ei fewnforio iddo:
+addr-book-directories-pane-source = Ffeil ffynhonnell:
+addr-book-import-into-new-directory = Crëwch gyfeiriadur newydd
+
 ## Import dialog
 
 progress-pane-title = Yn mewnforio
+progress-pane-finished-desc = Wedi gorffen.
 progress-pane-restart-desc = Ailgychwyn i orffen mewnforio.
 error-pane-title = Gwall
 error-message-zip-file-too-big = Mae'r ffeil zip a ddewiswyd yn fwy na 2GB. Echdynnwch hi'n gyntaf, yna ei mewnforio o'r ffolder cafodd ei hechdynnu.

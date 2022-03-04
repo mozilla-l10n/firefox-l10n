@@ -156,8 +156,8 @@ about-addressbook-details-phone-numbers-header = Rhifau Ffôn
 about-addressbook-details-home-address-header = Cyfeiriad Cartref
 about-addressbook-details-work-address-header = Cyfeiriad Gwaith
 about-addressbook-details-other-info-header = Manylion Eraill
-about-addressbook-prompt-to-save-title = Cadw'r Newidiadau?
-about-addressbook-prompt-to-save = Ydych chi eisiau cadw eich newidiadau?
+about-addressbook-unsaved-changes-prompt-title = Newidiadau heb eu Cadw
+about-addressbook-unsaved-changes-prompt = Ydych chi am gadw'ch newidiadau cyn gadael y wedd golygu?
 
 # Photo dialog
 

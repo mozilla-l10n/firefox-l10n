@@ -99,6 +99,17 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Dangos y paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Cuddio'r paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } Atodiad
+        [zero] { $count } Atodiadau
+        [one] { $count } Atodiad
+        [two] { $count } Atodiad
+        [few] { $count } Atodiad
+        [many] { $count } Atodiad
+       *[other] { $count } Atodiad
+    }
 attachment-area-show =
     .title = Dangos y paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -286,17 +297,6 @@ cloud-file-count-header =
         [few] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
         [many] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
        *[other] Rwyf wedi cysylltu { $count } ffeil i'r e-bost hwn:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [zero] Dysgwch ragor am { $firstLinks } a { $lastLink }.
-        [one] Dysgwch ragor am { $firstLinks }
-        [two] Dysgwch ragor am { $firstLinks } a { $lastLink }.
-        [few] Dysgwch ragor am { $firstLinks } a { $lastLink }.
-        [many] Dysgwch ragor am { $firstLinks } a { $lastLink }.
-       *[other] Dysgwch ragor am { $firstLinks } a { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
