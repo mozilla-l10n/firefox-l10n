@@ -162,3 +162,9 @@ spotlight-total-cookie-protection-body = Dopołny cookiejowy šćit pśeslědowa
 spotlight-total-cookie-protection-expanded = { -brand-short-name } płot wokoło cookiejow twari, kótaryž je na sedło wobgranicujo, na kótaremž sćo, aby je pśeslědowaki njemógli wužywaś, aby was pśeslědowali. Z lažkim pśistupom pomagaśo toś tu funkciju optiměrowaś, aby my mógli dalej lěpšy web za kuždego natwariś.
 spotlight-total-cookie-protection-primary-button = Dopołny šćit pśed cookiejami zmóžniś
 spotlight-total-cookie-protection-secondary-button = Nic něnto
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Lěpšy internet z wami startujo
+spotlight-better-internet-body = Gaž { -brand-short-name } wužywaśo, głosujośo za wótwórjony a pśistupny internet, kótaryž jo lěpšy za wše.
+spotlight-peace-mind-header = Smy was zapśimjeli

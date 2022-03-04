@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Składujśo nastawki a wideo z { -brand-product-na
 pocket-panel-signup-tagline-story-one = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawk, wideo abo bok z { -brand-product-name } składował.
 pocket-panel-signup-tagline-story-two = Se w { -pocket-brand-name } na kuždem rěźee kuždy cas woglědaś.
 pocket-panel-signup-cta-a = Waš składowański tłocašk za internet.
+pocket-panel-signup-cta-a-fix = Waš składowański tłocašk za internet
 pocket-panel-signup-cta-b = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował. Woglědajśo se lisćinu kuždy cas na kuždem rěźe.
+pocket-panel-signup-cta-b-short = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował.
 pocket-panel-signup-cta-c = Se swóju lisćinu na kuždem rěźe kuždy čas woglědaś.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Wuslěźćo woblubowane temy
 pocket-panel-home-discover-more = Wuslěźćo wěcej
 pocket-panel-home-explore-more = Wuslěźiś
 pocket-panel-home-most-recent-saves = How su waše nejnowše składowanja:
+pocket-panel-home-most-recent-saves-loading = Nejnowše składowanja se zacytuju …
 pocket-panel-home-new-user-cta = Klikniśo na tłocašk { -pocket-brand-name }, aby nastawki, wideo a wótkaze składował.
 pocket-panel-home-new-user-message = Woglědajśo se how nejnowše składowanja.
 
