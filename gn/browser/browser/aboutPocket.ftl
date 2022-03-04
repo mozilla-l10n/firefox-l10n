@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Eñongatu jehaipyre ha ta’ãngamýi { -brand-pro
 pocket-panel-signup-tagline-story-one = Eikutu pe votõ { -pocket-brand-name } eñongatu hag̃ua marandu, ta’angamýi térã kuatiarogue { -brand-product-name } guive.
 pocket-panel-signup-tagline-story-two = Ehecha { -pocket-brand-name }-pe mba’e’oka guive ejapose vove.
 pocket-panel-signup-cta-a = Ne votõ eñongatuha ñanduti pegua.
+pocket-panel-signup-cta-a-fix = Ne votõ eñongatuha ñanduti pegua
 pocket-panel-signup-cta-b = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipy, ta’ãngamýi ha juajuha. Ehecha tysýi oimeraẽva mba’e’okápe, ejapose vove.
+pocket-panel-signup-cta-b-short = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipyre, ta’ãngamýi ha juajuha.
 pocket-panel-signup-cta-c = Ehecha tysýi mba’e’oka guive, ejapose vove.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Ehekaporã téma oñehenduvéva
 pocket-panel-home-discover-more = Ejuhukuaave
 pocket-panel-home-explore-more = Ehapykueho
 pocket-panel-home-most-recent-saves = Ápe oĩ mba’epuru eñongatu ramovéva:
+pocket-panel-home-most-recent-saves-loading = Eñongaturamóva henyhẽhína…
 pocket-panel-home-new-user-cta = Eikutu votõ { -pocket-brand-name } eñongatu hag̃ua jehaipyre, ta’ãngamýi ha juajuha.
 pocket-panel-home-new-user-message = Ehecha mba’epuru eñongatu ramovéva ápe.
 
