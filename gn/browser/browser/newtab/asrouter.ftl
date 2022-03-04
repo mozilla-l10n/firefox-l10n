@@ -158,4 +158,11 @@ spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Ñanduti iporãváva oñepyrũ nendive
+spotlight-peace-mind-header = Ore romo’ãta
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Ereko yrembe’ýpe
+       *[other] Ñe’ẽkañy tembiaporã rendápe
+    }
 spotlight-pin-secondary-button = Ani ko’ág̃a
