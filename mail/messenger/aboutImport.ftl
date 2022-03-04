@@ -19,6 +19,11 @@ button-continue = Continuar
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importar desde { $app }
@@ -27,14 +32,28 @@ profile-file-picker-dir = Seleccionar una carpeta de perfil
 profile-file-picker-zip = Seleccionar un archivo zip (menor a 2GB)
 items-pane-title = Seleccionar que importar
 items-pane-desc = Importar desde
+items-pane-source = Ubicación de la fuente:
 items-pane-checkbox-accounts = Cuentas y configuración
 items-pane-checkbox-address-books = Libretas de direcciones
 items-pane-checkbox-calendars = Calendarios
 items-pane-checkbox-mail-messages = Mensajes de correo
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Selecciona el tipo de archivo que te gustaría importar:
+addr-book-csv-file = Archivo separado por comas o tabuladores (.csv, .tsv)
+addr-book-ldif-file = Archivo LDIF (.ldif)
+addr-book-vcard-file = Archivo vCard (.vcf, .vcard)
+addr-book-mab-file = Archivo de base de datos Mork (.mab)
+addr-book-file-picker = Seleccionar un archivo de la libreta de direcciones
+addr-book-directories-pane-title = Seleccione el directorio al que deseas importar:
+addr-book-directories-pane-source = Archivo fuente:
+addr-book-import-into-new-directory = Crear un nuevo directorio
+
 ## Import dialog
 
 progress-pane-title = Importando
+progress-pane-finished-desc = Terminado.
 progress-pane-restart-desc = Reiniciar para terminar de importar.
 error-pane-title = Error
 error-message-zip-file-too-big = El archivo zip seleccionado tiene un tamaño superior a 2GB. Por favor, extraelo primero y luego impórtalo de la carpeta extraída.
