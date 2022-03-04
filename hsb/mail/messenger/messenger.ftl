@@ -192,3 +192,36 @@ spaces-toolbar-button-settings =
     .title = K rajtarkej nastajenjow přeńć
 spaces-toolbar-button-collapse =
     .title = Lajstu dźělnych programow schować
+spaces-toolbar-button-reveal =
+    .title = Lajstu dźělnych programow pokazać
+spaces-context-new-tab-item =
+    .label = W nowym rajtarku wočinić
+spaces-context-new-window-item =
+    .label = W nowym woknje wočinić
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = K { $tabName } přeńć
+settings-context-open-settings-item =
+    .label = Nastajenja wočinić
+settings-context-open-account-settings-item =
+    .label = Kontowe nastajenja wočinić
+settings-context-open-addons-item =
+    .label = Přidatki a drasty wočinić
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Meni dźělnych programow wočinić
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
