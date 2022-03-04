@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Ñemboheko
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ñemboheko mbosako’i…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Ñemboheko mbosako’i…
 profiler-popup-disabled =
     Pe mbohapeha ndojepurukuaái ko’ag̃aite, ikatúre oguereko kundaha ñemi rovetã
     ijurujavahína.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Ñemboheko mbosako’i…
 profiler-popup-recording-screen = Jehechapaite…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Ñemboheko iporãva emopotĩ hag̃ua ñanduti tembipuru’i, nahenyhẽrasáiva.
 profiler-popup-presets-web-developer-label =
     .label = Ñanduti Mboguatahára
-profiler-popup-presets-firefox-platform-description = Ñemboheko ypygua iporãva emopotĩ hag̃ua Firefox pyendavusu.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox Pyendavusu
-profiler-popup-presets-firefox-front-end-description = Ñemboheko iporãva emopotĩ hag̃ua Firefox jehechaha.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox Rechaha
-profiler-popup-presets-firefox-graphics-description = Ñemboheko ypygua iporãva ehapykuereka hag̃ua Firefox ra’ãngarenda.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox ra’ãngaryrugua
-profiler-popup-presets-media-description = Ñemboheko ypygua eikuaa hag̃ua mba’epu ha ta’ãngamýi apañuãi.
 profiler-popup-presets-firefox-description = Tepy ypykue eipurukuaáva emoheñói hag̃ua mba’ete { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Temiandu mondo…
     .accesskey = T
+appmenu-help-share-ideas =
+    .label = Emoherakuã ãroky ha ñe’ẽngue…
+    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
