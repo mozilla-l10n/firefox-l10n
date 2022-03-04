@@ -310,6 +310,11 @@ mr2-onboarding-start-browsing-button-label = Přehladowanje započeć
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Wubjerće swoju rěč
+onboarding-live-language-switch-button-label = { $negotiatedLanguage } změnić
+onboarding-live-language-button-label-downloading = Rěčny pakćik za { $negotiatedLanguage } so sćahuje …
+onboarding-live-language-waiting-subtitle = Zda so, zo waš system a { -brand-short-name } rozdźělnej rěči wužiiwatej.
+onboarding-live-language-waiting-button = K dispoziciji stejace rěče so wobstaruja …
+onboarding-live-language-installing = Rěčny pakćik za { $negotiatedLanguage } so instaluje …
 onboarding-live-language-secondary-cancel-download = Přetorhnyć
 onboarding-live-language-not-now-button-label = Nic nětko
 onboarding-live-language-skip-button-label = Přeskočić

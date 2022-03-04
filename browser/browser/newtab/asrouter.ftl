@@ -165,6 +165,7 @@ spotlight-total-cookie-protection-secondary-button = Nic nětko
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Lěpši internet z wami startuje
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Na doku wobchować
