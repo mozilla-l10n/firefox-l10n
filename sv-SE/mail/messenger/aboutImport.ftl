@@ -19,6 +19,11 @@ button-continue = Fortsätt
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importera från { $app }
@@ -27,10 +32,18 @@ profile-file-picker-dir = Välj en profilmapp
 profile-file-picker-zip = Välj en zip-fil (mindre än 2 GB)
 items-pane-title = Välj vad som ska importeras
 items-pane-desc = Importera från
+items-pane-source = Källplats:
 items-pane-checkbox-accounts = Konton och inställningar
 items-pane-checkbox-address-books = Adressböcker
 items-pane-checkbox-calendars = Kalendrar
 items-pane-checkbox-mail-messages = E-postmeddelanden
+
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Välj den filtyp du vill importera:
+addr-book-csv-file = Komma eller tabbseparerad fil (.csv, .tsv)
+addr-book-ldif-file = LDIF-fil (.ldif)
+addr-book-vcard-file = vCard-fil (.vcf, .vcard)
 
 ## Import dialog
 
