@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = 隨時隨地在任何裝置上的 { -brand-product
 pocket-panel-signup-tagline-story-one = 在 { -brand-product-name } 中點擊 { -pocket-brand-name } 按鈕來儲存任何文章、影片或網頁。
 pocket-panel-signup-tagline-story-two = 隨時隨地在任何裝置上用 { -pocket-brand-name } 檢視。
 pocket-panel-signup-cta-a = 您在網路上的存檔按鈕
+pocket-panel-signup-cta-a-fix = 您在網路上的存檔按鈕
 pocket-panel-signup-cta-b = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、連結儲存下來，之後再隨時隨地在任何裝置檢視儲存清單。
+pocket-panel-signup-cta-b-short = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、連結儲存下來。
 pocket-panel-signup-cta-c = 隨時隨地在任何裝置檢視儲存清單。
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = 探索熱門主題
 pocket-panel-home-discover-more = 探索更多
 pocket-panel-home-explore-more = 探索
 pocket-panel-home-most-recent-saves = 以下是您最近儲存的項目:
+pocket-panel-home-most-recent-saves-loading = 正在載入近期儲存項目…
 pocket-panel-home-new-user-cta = 點擊 { -pocket-brand-name } 按鈕即可將文章、影片、連結儲存下來。
 pocket-panel-home-new-user-message = 在此查看您最近儲存的內容。
 

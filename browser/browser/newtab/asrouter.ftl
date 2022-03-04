@@ -151,3 +151,15 @@ spotlight-total-cookie-protection-body = 「全方位 Cookie 保護」功能可�
 spotlight-total-cookie-protection-expanded = { -brand-short-name } 會將 Cookie 包圍起來，讓它們僅能在您所在的網站使用，這樣追蹤器就無法用它們來追蹤您。透過搶先試用，您可以協助我們最佳化這個功能，持續為每個人打造更好的網路環境。
 spotlight-total-cookie-protection-primary-button = 開啟「全方位 Cookie 保護」功能
 spotlight-total-cookie-protection-secondary-button = 現在不要
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = 更好的網路環境，從您開始
+spotlight-better-internet-body = 當您使用 { -brand-short-name } 就代表您對更好、更開放、任何人都可以使用的網路環境投下贊成票。
+spotlight-peace-mind-header = 讓我們保護您
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] 固定在 Dock
+       *[other] 釘選到工作列
+    }
+spotlight-pin-secondary-button = 現在不要
