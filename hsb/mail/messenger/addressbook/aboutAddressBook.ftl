@@ -145,6 +145,7 @@ about-addressbook-details-home-address-header = Priwatna adresa
 about-addressbook-details-work-address-header = Słužbna adresa
 about-addressbook-details-other-info-header = Druhe informacije
 about-addressbook-unsaved-changes-prompt-title = Njeskładowane změny
+about-addressbook-unsaved-changes-prompt = Chceće swoje změny składować, prjedy hač wobdźěłowanski napohlad wopušćeće?
 
 # Photo dialog
 
