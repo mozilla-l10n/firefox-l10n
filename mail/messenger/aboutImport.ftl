@@ -19,6 +19,11 @@ button-continue = Dale
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Z { $app } importować
@@ -27,14 +32,26 @@ profile-file-picker-dir = Wubjerće profilowy rjadowak
 profile-file-picker-zip = Wubjerće zip-dataju (mjeńšu hač 2 GB)
 items-pane-title = Wubjerće, štož ma so importować
 items-pane-desc = Importować z
+items-pane-source = Žórłowe městno:
 items-pane-checkbox-accounts = Konta a nastajenja
 items-pane-checkbox-address-books = Adresniki
 items-pane-checkbox-calendars = Protyki
 items-pane-checkbox-mail-messages = Mejlki
 
+## Import from address book file steps
+
+addr-book-ldif-file = Dataja LDIF (.ldif)
+addr-book-vcard-file = Dataja vCard (.vcf, .vcard)
+addr-book-mab-file = Dataja datoweje banki Mork (.mab)
+addr-book-file-picker = Adresnikowu dataju wubrać
+addr-book-directories-pane-title = Wubjerće zapis, kotryž byšće rady importował do:
+addr-book-directories-pane-source = Žórłowa dataja:
+addr-book-import-into-new-directory = Nowy zapis załožić
+
 ## Import dialog
 
 progress-pane-title = Importowanje
+progress-pane-finished-desc = Dokónčene.
 progress-pane-restart-desc = Startujće znowa, zo byšće importowanje dokónčił.
 error-pane-title = Zmylk
 error-message-zip-file-too-big = Wubrana zip-dataja je wjetša hač 2 GB. Prošu rozpakujće ju najprjedy, a importujće wobsah z rozpakowaneho rjadowaka město toho.
