@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Salva articulos e videos ex { -brand-product-name 
 pocket-panel-signup-tagline-story-one = Clicca le button de { -pocket-brand-name } pro salvar cata articulo, video o pagina ex { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vide in { -pocket-brand-name } sur omne apparatos, omne tempore.
 pocket-panel-signup-cta-a = Tu button Salvar pro internet.
+pocket-panel-signup-cta-a-fix = Tu button Salvar pro internet
 pocket-panel-signup-cta-b = Clicca le button { -pocket-brand-name } pro salvar articulos, videos e ligamines. Vide tu lista sur ulle apparato, quandocunque.
+pocket-panel-signup-cta-b-short = Clicca le button { -pocket-brand-name } pro salvar articulos, videos e ligamines.
 pocket-panel-signup-cta-c = Vide tu lista sur ulle apparato, quandocunque.
 
 ## about:pocket-home panel
