@@ -198,3 +198,20 @@ spaces-toolbar-button-settings =
     .title = Preklopi na zavihek z nastavitvami
 spaces-toolbar-button-collapse =
     .title = Skrij orodno vrstico komponent
+spaces-context-new-tab-item =
+    .label = Odpri v novem zavihku
+spaces-context-new-window-item =
+    .label = Odpri v novem oknu
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Preklopi na { $tabName }
+settings-context-open-settings-item =
+    .label = Odpri nastavitve
+settings-context-open-account-settings-item =
+    .label = Odpri nastavitve računa
+settings-context-open-addons-item =
+    .label = Odpri dodatke in teme
+
+## Spaces toolbar pinned tab menupopup
+
