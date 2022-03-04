@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = 설정
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 설정 편집…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = 설정 편집…
 profiler-popup-disabled =
     프로파일러가 현재 비활성화되어 있습니다. 대부분의 경우 
     사생활 보호 창이 열려 있기 때문입니다.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = 설정 편집…
 profiler-popup-recording-screen = 기록 중…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -235,6 +235,9 @@ appmenu-help-report-site-issue =
     .label = 사이트 문제 보고…
 appmenu-help-feedback-page =
     .label = 의견 보내기…
+    .accesskey = S
+appmenu-help-share-ideas =
+    .label = 아이디어 공유 및 의견 보내기…
     .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
