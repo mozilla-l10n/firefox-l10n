@@ -162,3 +162,12 @@ spotlight-total-cookie-protection-body = Dospołny plackowy škit přesćěhowak
 spotlight-total-cookie-protection-expanded = { -brand-short-name } płót wokoło plackow twari, kotryž je na sydło wobmjezuje, na kotrymž sće, zo njebychu je přesćěhowaki móhli wužiwać, zo bychu was přesćěhowali. Z lochkim přistupom pomhaće tutu funkciju optimować, zo bychmy móhli dale lěpši web za kóždeho natwarili.
 spotlight-total-cookie-protection-primary-button = Dospołny škit před plackami zmóžnić
 spotlight-total-cookie-protection-secondary-button = Nic nětko
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Na doku wobchować
+       *[other] K nadawkowej lajsće připjeć
+    }
+spotlight-pin-secondary-button = Nic nětko
