@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Stillingar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Breyta stillingum…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Breyta stillingum…
 profiler-popup-disabled =
     Afkastaskráningin er óvirk eins og er, líklega vegna þess að huliðsgluggi
     sé opinn.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Breyta stillingum…
 profiler-popup-recording-screen = Skrái…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -236,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Senda álit…
     .accesskey = S
+appmenu-help-share-ideas =
+    .label = Deildu hugmyndum og athugasemdum...
+    .accesskey = D
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

@@ -156,3 +156,16 @@ spotlight-total-cookie-protection-body = Allsherjar-vefkökuvörn kemur í veg f
 spotlight-total-cookie-protection-expanded = { -brand-short-name } byggir girðingu utan um vefkökur og takmarkar þær við vefsvæðið sem þú ert á svo rekjarar geti ekki notað þær til að fylgjast með þér. Með snemmbærum aðgangi muntu hjálpa til við að fínstilla þennan eiginleika svo við getum haldið áfram að byggja betri vef fyrir alla.
 spotlight-total-cookie-protection-primary-button = Kveiktu á allsherjar-vefkökuvörnum
 spotlight-total-cookie-protection-secondary-button = Ekki núna
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Betra internet byrjar með þér
+spotlight-better-internet-body = Þegar þú notar { -brand-short-name } þá ertu að kjósa opið og aðgengilegt internet sem er betra fyrir alla.
+spotlight-peace-mind-header = Við erum með það sem þú þarft
+spotlight-peace-mind-body = Í hverjum mánuði lokar { -brand-short-name } að meðaltali á yfir 3.000 rekjara. Það er vegna þess að ekkert, sérstaklega pirrandi óþægindi eins og rekjarar, ætti að standa á milli þín og gæða internetsins.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Hafa í dokkunni
+       *[other] Festa á verkefnastikuna
+    }
+spotlight-pin-secondary-button = Ekki núna
