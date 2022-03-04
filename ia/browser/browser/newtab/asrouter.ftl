@@ -159,4 +159,13 @@ spotlight-total-cookie-protection-secondary-button = Non ora
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Un internet melior comencia con te
+spotlight-better-internet-body = Quando tu usa { -brand-short-name }, tu vota pro un internet aperte e accessibile que es melior pro totes.
+spotlight-peace-mind-header = Nos te mantene secur
+spotlight-peace-mind-body = Cata mense, { -brand-short-name } bloca un media de ultra 3000 traciatores per usator. Perque nihil deberea poner se inter te e le bon internet, specialmente enoios pro tu confidentialitate como le traciatores.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mantener in le Bassino
+       *[other] Appunctar al barra del activitates
+    }
 spotlight-pin-secondary-button = Non ora

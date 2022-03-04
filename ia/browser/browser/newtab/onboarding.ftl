@@ -305,6 +305,13 @@ mr2-onboarding-start-browsing-button-label = Comenciar a navigar
 ##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
+onboarding-live-language-header = Elige tu lingua
+onboarding-live-language-subtitle = { -brand-short-name } usa { $appLanguage } durante que tu systema usa { $systemLanguage }.
+onboarding-live-language-switch-button-label = Passar a { $negotiatedLanguage }
+onboarding-live-language-button-label-downloading = Discargante le pacchetto de lingua pro { $negotiatedLanguage }…
+onboarding-live-language-waiting-subtitle = Il pare que tu systema e { -brand-short-name } usa differente linguas.
+onboarding-live-language-waiting-button = Obtenente linguas disponibile…
+onboarding-live-language-installing = Installation del pacchetto de lingua pro { $negotiatedLanguage }…
 onboarding-live-language-secondary-cancel-download = Cancellar
 onboarding-live-language-not-now-button-label = Non ora
 onboarding-live-language-skip-button-label = Saltar
