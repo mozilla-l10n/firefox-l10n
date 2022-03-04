@@ -188,6 +188,8 @@ spaces-toolbar-button-settings =
     .title = Wikselje nei it ynstellingenljepblêd
 spaces-toolbar-button-collapse =
     .title = Taakbalke ynklappe
+spaces-toolbar-button-reveal =
+    .title = Taakbalke toane
 spaces-context-new-tab-item =
     .label = Iepenje yn nij ljepblêd
 spaces-context-new-window-item =
@@ -205,6 +207,8 @@ settings-context-open-addons-item =
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Taakmenu iepenje
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
