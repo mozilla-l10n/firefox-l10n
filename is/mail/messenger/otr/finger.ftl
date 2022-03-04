@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Loka
     .title = Áður séð OTR-fingraför
+otr-finger-title = Áður séð OTR-fingraför
 finger-intro = OTR-lyklafingraför frá fyrri enda-í-enda dulrituðum samtölum.
 finger-screen-name =
     .label = Tengiliður
