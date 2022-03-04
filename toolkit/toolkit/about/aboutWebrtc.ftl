@@ -185,6 +185,30 @@ about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $pa
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [zero] { $frames } fframiau
+        [one] { $frames } ffrâm
+        [two] { $frames } ffrâm
+        [few] { $frames } ffrâm
+        [many] { $frames } ffrâm
+       *[other] { $frames } ffrâm
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [zero] { $channels } sianeli
+        [one] { $channels } sianel
+        [two] { $channels } sianel
+        [few] { $channels } sianel
+        [many] { $channels } sianel
+       *[other] { $channels } sianel
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
