@@ -188,3 +188,36 @@ spaces-toolbar-button-settings =
     .title = Átváltás a beállítások lapra
 spaces-toolbar-button-collapse =
     .title = Helyek eszköztár összecsukása
+spaces-toolbar-button-reveal =
+    .title = Helyek eszköztár megjelenítése
+spaces-context-new-tab-item =
+    .label = Megnyitás új lapon
+spaces-context-new-window-item =
+    .label = Megnyitás új ablakban
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Váltás erre: { $tabName }
+settings-context-open-settings-item =
+    .label = Beállítások megnyitása
+settings-context-open-account-settings-item =
+    .label = Fiókbeállítások megnyitása
+settings-context-open-addons-item =
+    .label = Kiegészítők és témák megnyitása
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Helyek menü megnyitása
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
