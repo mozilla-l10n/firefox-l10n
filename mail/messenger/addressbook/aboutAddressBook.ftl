@@ -130,6 +130,7 @@ about-addressbook-details-home-address-header = 住家地址
 about-addressbook-details-work-address-header = 商務地址
 about-addressbook-details-other-info-header = 其他資訊
 about-addressbook-unsaved-changes-prompt-title = 未儲存修改
+about-addressbook-unsaved-changes-prompt = 您想要在離開編輯畫面前儲存變更嗎？
 
 # Photo dialog
 
