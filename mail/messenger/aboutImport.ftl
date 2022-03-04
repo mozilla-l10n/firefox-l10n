@@ -19,6 +19,11 @@ button-continue = Folytatás
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importálás innen: { $app }
@@ -27,10 +32,20 @@ profile-file-picker-dir = Válasszon profilmappát
 profile-file-picker-zip = Válasszon egy ZIP-fájlt (2 GB-nál kisebbet)
 items-pane-title = Válasszon, hogy mit szeretne importálni
 items-pane-desc = Importálás…
+items-pane-source = Forrás helye:
 items-pane-checkbox-accounts = Fiókok és beállítások
 items-pane-checkbox-address-books = Címjegyzékek
 items-pane-checkbox-calendars = Naptárak
 items-pane-checkbox-mail-messages = Levelek
+
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Válassza ki az importálandó fájltípust:
+addr-book-csv-file = Vesszővel vagy tabulátorral elválasztott fájl (.csv, .tsv)
+addr-book-ldif-file = LDIF-fájl (.ldif)
+addr-book-vcard-file = vCard-fájl (.vcf, .vcard)
+addr-book-mab-file = Mork adatbázisfájl (.mab)
+addr-book-file-picker = Címjegyzékfájl kiválasztása
 
 ## Import dialog
 
