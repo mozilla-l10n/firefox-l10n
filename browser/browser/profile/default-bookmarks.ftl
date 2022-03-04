@@ -31,3 +31,9 @@ default-bookmarks-nightly-blog = Firefox Nightly blogg
 default-bookmarks-bugzilla = Mozilla villuskráning
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Netumhverfi Mozilla þróunaraðila
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Prófunartól fyrir Nightly
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Allar hrunskýrslurnar þínar
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
