@@ -4,6 +4,7 @@
 
 otr-add-finger =
     .title = Agregar huella digital de clave OTR
+otr-add-finger-title = Agregar huella digital de clave OTR
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)

@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Cerrar
     .title = Huellas digitales OTR vistas previamente
+otr-finger-title = Huellas dactilares OTR vistas anteriormente
 finger-intro = Huellas digitales de claves OTR de conversaciones cifradas de extremo a extremo anteriores.
 finger-screen-name =
     .label = Contacto

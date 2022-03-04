@@ -189,3 +189,36 @@ spaces-toolbar-button-settings =
     .title = Cambiar a la pestaña de ajustes
 spaces-toolbar-button-collapse =
     .title = Contraer barra de herramientas de espacios
+spaces-toolbar-button-reveal =
+    .title = Mostrar la barra de herramientas de espacios
+spaces-context-new-tab-item =
+    .label = Abrir en una nueva pestaña
+spaces-context-new-window-item =
+    .label = Abrir en una nueva ventana
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Cambiar a { $tabName }
+settings-context-open-settings-item =
+    .label = Abrir ajustes
+settings-context-open-account-settings-item =
+    .label = Abrir ajustes de la cuenta
+settings-context-open-addons-item =
+    .label = Abrir complementos y temas
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Abrir menú de espacios
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
