@@ -19,6 +19,11 @@ button-continue = Trochgean
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Ymportearje út { $app }
@@ -27,14 +32,28 @@ profile-file-picker-dir = Selektearje in profylmap
 profile-file-picker-zip = Selektearje in zip-bestân (lytser as 2GB)
 items-pane-title = Selektearje wat jo ymportearje wolle
 items-pane-desc = Ymportearje út
+items-pane-source = Boarnelokaasje:
 items-pane-checkbox-accounts = Accounts en ynstellingen
 items-pane-checkbox-address-books = Adresboeken
 items-pane-checkbox-calendars = Aginda’s
 items-pane-checkbox-mail-messages = E-mailberjochten
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Selektearje it bestânstype dat jo ymportearje wolle:
+addr-book-csv-file = Komma- of tab-skieden bestân (.csv, .tsv)
+addr-book-ldif-file = LDIF-bestân (.ldif)
+addr-book-vcard-file = vCard-bestân (.vcf, .vcard)
+addr-book-mab-file = Mork-databasebestân (.mab)
+addr-book-file-picker = Adresboekbestân selektearje
+addr-book-directories-pane-title = Selektearje de map dêr’t jo nei ymportearje wolle:
+addr-book-directories-pane-source = Boarnebestân:
+addr-book-import-into-new-directory = Nije map meitsje
+
 ## Import dialog
 
 progress-pane-title = Ymportearje
+progress-pane-finished-desc = Foltôge.
 progress-pane-restart-desc = Opnij starte om it ymportearjen te foltôgjen.
 error-pane-title = Flater
 error-message-zip-file-too-big = It selektearre zip-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
