@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Guardar artículos y videos desde { -brand-product
 pocket-panel-signup-tagline-story-one = Haz clic en el botón de { -pocket-brand-name } para guardar cualquier artículo, video o página desde { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Ver en { -pocket-brand-name } o en cualquier dispositivo, en cualquier momento.
 pocket-panel-signup-cta-a = Tu botón de guardar para internet.
+pocket-panel-signup-cta-a-fix = Tu botón de guardar para internet
 pocket-panel-signup-cta-b = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces. Mira tu lista en cualquier dispositivo, en todo momento.
+pocket-panel-signup-cta-b-short = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces.
 pocket-panel-signup-cta-c = Mira tu lista en cualquier dispositivo, todo el tiempo.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubre más
 pocket-panel-home-explore-more = Explorar
 pocket-panel-home-most-recent-saves = Aquí está lo que has guardado recientemente:
+pocket-panel-home-most-recent-saves-loading = Guardados recientes cargando…
 pocket-panel-home-new-user-cta = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces.
 pocket-panel-home-new-user-message = Mira lo que has guardado recientemente aquí.
 
