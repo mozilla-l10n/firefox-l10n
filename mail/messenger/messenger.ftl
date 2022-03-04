@@ -198,6 +198,8 @@ spaces-toolbar-button-settings =
     .title = Preklopi na zavihek z nastavitvami
 spaces-toolbar-button-collapse =
     .title = Skrij orodno vrstico komponent
+spaces-toolbar-button-reveal =
+    .title = Pokaži orodno vrstico komponent
 spaces-context-new-tab-item =
     .label = Odpri v novem zavihku
 spaces-context-new-window-item =
@@ -215,3 +217,17 @@ settings-context-open-addons-item =
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Odpri meni s komponentami
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
