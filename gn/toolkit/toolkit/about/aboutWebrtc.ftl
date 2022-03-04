@@ -185,6 +185,22 @@ about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu 
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } kora
+       *[other] { $frames } korakuéra
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } mbohapeha
+       *[other] { $channels } mbohapehakuéra
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
