@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Utforska populära ämnen
 pocket-panel-home-discover-more = Upptäck mer
 pocket-panel-home-explore-more = Utforska
 pocket-panel-home-most-recent-saves = Här är dina senaste sparningar:
+pocket-panel-home-most-recent-saves-loading = Laddar nyligen sparade objekt…
 pocket-panel-home-new-user-cta = Klicka på knappen { -pocket-brand-name } för att spara artiklar, videor och länkar.
 pocket-panel-home-new-user-message = Se dina senaste sparningar här.
 
