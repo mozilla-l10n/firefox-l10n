@@ -19,6 +19,11 @@ button-continue = 繼續
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 從 { $app } 匯入
@@ -31,6 +36,9 @@ items-pane-checkbox-accounts = 帳號與設定
 items-pane-checkbox-address-books = 通訊錄
 items-pane-checkbox-calendars = 行事曆
 items-pane-checkbox-mail-messages = 郵件訊息
+
+## Import from address book file steps
+
 
 ## Import dialog
 
