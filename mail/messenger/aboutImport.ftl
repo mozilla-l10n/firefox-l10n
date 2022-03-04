@@ -32,9 +32,15 @@ items-pane-checkbox-address-books = Imenike
 items-pane-checkbox-calendars = Koledarje
 items-pane-checkbox-mail-messages = Poštna sporočila
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Izberite vrsto datoteke, ki jo želite uvoziti:
+addr-book-import-into-new-directory = Ustvari novo mapo
+
 ## Import dialog
 
 progress-pane-title = Uvažanje
+progress-pane-finished-desc = Končano.
 progress-pane-restart-desc = Znova zaženite za dokončanje uvoza.
 error-pane-title = Napaka
 error-message-zip-file-too-big = Izbrana datoteka .zip je večja od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
