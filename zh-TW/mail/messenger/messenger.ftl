@@ -187,9 +187,27 @@ spaces-toolbar-button-settings =
     .title = 切換到設定分頁
 spaces-toolbar-button-collapse =
     .title = 摺疊按鈕空間
+spaces-toolbar-button-reveal =
+    .title = 顯示按鈕空間
+spaces-context-new-tab-item =
+    .label = 用新分頁開啟
+spaces-context-new-window-item =
+    .label = 用新視窗開啟
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = 切換到 { $tabName }
+settings-context-open-settings-item =
+    .label = 開啟設定
+settings-context-open-account-settings-item =
+    .label = 開啟帳號設定
+settings-context-open-addons-item =
+    .label = 開啟附加元件與佈景主題
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = 開啟按鈕空間選單
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
