@@ -156,3 +156,16 @@ spotlight-total-cookie-protection-body = Totalt skydd mot kakor stoppar spårare
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bygger ett staket runt kakor och begränsar dem till webbplatsen du är på så att spårare inte kan använda dem för att följa dig. Med tidig åtkomst hjälper du till att optimera den här funktionen så att vi kan fortsätta bygga en bättre webb för alla.
 spotlight-total-cookie-protection-primary-button = Aktivera totalt skydd mot kakor
 spotlight-total-cookie-protection-secondary-button = Inte nu
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Ett bättre internet börjar med dig
+spotlight-better-internet-body = När du använder { -brand-short-name } röstar du för ett öppet och tillgängligt internet som är bättre för alla.
+spotlight-peace-mind-header = Vi skyddar dig
+spotlight-peace-mind-body = Varje månad blockerar { -brand-short-name } i genomsnitt över 3 000 spårare per användare. För ingenting, särskilt integritetsstörningar som spårare, ska stå mellan dig och det bra internet.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Behåll i Dock
+       *[other] Fäst till aktivitetsfältet
+    }
+spotlight-pin-secondary-button = Inte nu

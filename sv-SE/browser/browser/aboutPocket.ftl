@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Spara artiklar och videor från { -brand-product-n
 pocket-panel-signup-tagline-story-one = Klicka på { -pocket-brand-name }-knappen för att spara vilken artikel, video eller sida som helst från { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Visa i { -pocket-brand-name } på vilken enhet som helst, när som helst.
 pocket-panel-signup-cta-a = Din sparknapp för internet.
+pocket-panel-signup-cta-a-fix = Din sparknapp för internet
 pocket-panel-signup-cta-b = Klicka på knappen { -pocket-brand-name } för att spara artiklar, videor och länkar. Visa din lista på vilken enhet som helst, när som helst.
+pocket-panel-signup-cta-b-short = Klicka på knappen { -pocket-brand-name } för att spara artiklar, videor och länkar.
 pocket-panel-signup-cta-c = Visa din lista på vilken enhet som helst, när som helst.
 
 ## about:pocket-home panel
