@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Wotkryjće woblubowane temy
 pocket-panel-home-discover-more = Wotkryjće wjace
 pocket-panel-home-explore-more = Wuslědźić
 pocket-panel-home-most-recent-saves = Tu su waše najnowše składowanja:
+pocket-panel-home-most-recent-saves-loading = Najnowše składowanja so začituja …
 pocket-panel-home-new-user-cta = Klikńće na tłóčatko { -pocket-brand-name }, zo byšće nastawki, wideja a wotkazy składował.
 pocket-panel-home-new-user-message = Wobhladajće sej tu najnowše składowanja.
 
