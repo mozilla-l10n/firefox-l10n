@@ -133,6 +133,7 @@ about-addressbook-details-home-address-header = Adresse casa
 about-addressbook-details-work-address-header = Adresse de officio
 about-addressbook-details-other-info-header = Altere informationes
 about-addressbook-unsaved-changes-prompt-title = Modificationes non salveguardate
+about-addressbook-unsaved-changes-prompt = Vole tu salvar tu cambiamentos ante lassar le vista del redaction?
 
 # Photo dialog
 

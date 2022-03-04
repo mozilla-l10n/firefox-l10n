@@ -41,8 +41,14 @@ items-pane-checkbox-mail-messages = Messages e-mail
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Elige le typo de file que tu vole importar:
+addr-book-csv-file = File separate per virgulas o tabulationes (.csv, .tsv)
+addr-book-ldif-file = file vCard (.vcf, .vcard)
+addr-book-vcard-file = File base de datos Mork (.mab)
+addr-book-mab-file = File base de datos Mork (.mab)
 addr-book-file-picker = Elige un file libro del adresses
+addr-book-directories-pane-title = Elige le directorio in que tu vole importar:
 addr-book-directories-pane-source = File fonte:
+addr-book-import-into-new-directory = Crear un nove directorio
 
 ## Import dialog
 

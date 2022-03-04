@@ -188,17 +188,27 @@ spaces-toolbar-button-settings =
     .title = Passar al scheda del parametros
 spaces-toolbar-button-collapse =
     .title = Comprimer le barra del spatios
+spaces-toolbar-button-reveal =
+    .title = Monstrar le barra del instrumentos de spatios
 spaces-context-new-tab-item =
     .label = Aperir un nove scheda
 spaces-context-new-window-item =
     .label = Aperir in un nove fenestra
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Passar a { $tabName }
 settings-context-open-settings-item =
     .label = Aperir le parametros
 settings-context-open-account-settings-item =
     .label = Aperir le parametros del conto
+settings-context-open-addons-item =
+    .label = Aperir Additivos e Themas
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Aperir le menu del spatios
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
