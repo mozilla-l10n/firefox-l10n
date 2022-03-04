@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Налаштування
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Змінити налаштування…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Змінити налаштування…
 profiler-popup-disabled =
     Profiler зараз вимкнений, швидше за все, через відкрите вікно
     приватного перегляду.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Змінити налаштування…
 profiler-popup-recording-screen = Запис…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Рекомендовані попередні налаштування для зневадження більшості вебзастосунків. З низькими споживанням ресурсів.
 profiler-popup-presets-web-developer-label =
     .label = Веброзробник
-profiler-popup-presets-firefox-platform-description = Рекомендовані попередні налаштування для внутрішнього зневадження Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Платформа Firefox
-profiler-popup-presets-firefox-front-end-description = Рекомендовані попередні налаштування для внутрішнього зневадження клієнтської частини Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Клієнтська частина Firefox
-profiler-popup-presets-firefox-graphics-description = Рекомендовані попередні налаштування для дослідження запису графіків швидкодії Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Графіка Firefox
-profiler-popup-presets-media-description = Рекомендовані попередні налаштування для визначення проблем зі звуком та відео.
 profiler-popup-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Надіслати відгук…
     .accesskey = Н
+appmenu-help-share-ideas =
+    .label = Поділіться ідеями та відгуком…
+    .accesskey = П
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
