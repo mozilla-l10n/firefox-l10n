@@ -85,6 +85,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = 顯示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
 collapse-attachment-pane-tooltip =
     .tooltiptext = 隱藏附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } 個附件
+       *[other] { $count } 個附件
+    }
 attachment-area-show =
     .title = 顯示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
 attachment-area-hide =
@@ -249,13 +255,6 @@ compose-tool-button-remove-text-styling =
 cloud-file-count-header =
     { $count ->
        *[other] 我已將 { $count } 個檔案的雲端鏈結加入此郵件:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] 了解 { $lastLink } 的更多資訊。
-       *[other] 了解 { $firstLinks } 與 { $lastLink } 的更多資訊。
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
