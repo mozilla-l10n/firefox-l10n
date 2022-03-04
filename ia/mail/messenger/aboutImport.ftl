@@ -19,6 +19,11 @@ button-continue = Continuar
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importar ab { $app }
@@ -32,9 +37,15 @@ items-pane-checkbox-address-books = Libros de adresses
 items-pane-checkbox-calendars = Agendas
 items-pane-checkbox-mail-messages = Messages e-mail
 
+## Import from address book file steps
+
+addr-book-file-picker = Elige un file libro del adresses
+addr-book-directories-pane-source = File fonte:
+
 ## Import dialog
 
 progress-pane-title = Importation
+progress-pane-finished-desc = Finite.
 progress-pane-restart-desc = Reinitiar pro finir de importar.
 error-pane-title = Error
 error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.

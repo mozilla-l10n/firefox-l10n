@@ -86,6 +86,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Monstrar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Celar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } Attachamento
+       *[other] { $count } Attachamentos
+    }
 attachment-area-show =
     .title = Monstrar quadro de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -253,13 +259,6 @@ cloud-file-count-header =
     { $count ->
         [one] Io ha ligate { $count } file a iste e-mail
        *[other] Io ha ligate { $count } files a iste e-mail
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Pro saper plus re { $lastLink }.
-       *[other] Pro saper plus re { $firstLinks } e { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
