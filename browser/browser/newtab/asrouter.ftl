@@ -168,3 +168,16 @@ spotlight-total-cookie-protection-body = Mae Total Cookie Protection yn atal tra
 spotlight-total-cookie-protection-expanded = Mae { -brand-short-name } yn adeiladu ffens o amgylch cwcis, gan eu cyfyngu i'r wefan rydych chi arni fel na all tracwyr eu defnyddio i'ch dilyn chi. Gyda mynediad cynnar, byddwch yn helpu i wella'r nodwedd hon fel y gallwn barhau i adeiladu gwe well i bawb.
 spotlight-total-cookie-protection-primary-button = Cychwyn Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Nid nawr
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Mae rhyngrwyd gwell yn dechrau gyda chi
+spotlight-better-internet-body = Pan fyddwch yn defnyddio { -brand-short-name }, rydych yn cefnogi rhyngrwyd agored a hygyrch sy'n well i bawb.
+spotlight-peace-mind-header = Rydyn ni yn eich cefnogi chi
+spotlight-peace-mind-body = Bob mis, ar gyfartaledd, mae { -brand-short-name } yn rhwystro dros 3,000 o dracwyr fesul defnyddiwr . Oherwydd dylai dim byd, yn enwedig niwsans preifatrwydd fel tracwyr, sefyll rhyngoch chi a'r rhyngrwyd da.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Cadw yn y Doc
+       *[other] Pinio i'r bar tasgau
+    }
+spotlight-pin-secondary-button = Nid nawr
