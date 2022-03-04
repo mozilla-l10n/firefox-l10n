@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Beállítások
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Beállítások szerkesztése…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Beállítások szerkesztése…
 profiler-popup-disabled =
     A profilozó jelenleg le van tiltva, valószínűleg azért, mert nyitva van egy privát
     böngészési ablak.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Beállítások szerkesztése…
 profiler-popup-recording-screen = Felvétel…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Ajánlott előbeállítás a legtöbb webalkalmazás hibakereséséhez, alacsony pluszköltséggel.
 profiler-popup-presets-web-developer-label =
     .label = Webfejlesztő
-profiler-popup-presets-firefox-platform-description = Ajánlott előbeállítás a Firefox platform belső hibakereséséhez.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox platform
-profiler-popup-presets-firefox-front-end-description = Ajánlott előbeállítás a Firefox kezelőfelületének belső hibakereséséhez.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox kezelőfelület
-profiler-popup-presets-firefox-graphics-description = Ajánlott előbeállítás a Firefox grafikus teljesítményének vizsgálatához.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox grafika
-profiler-popup-presets-media-description = Ajánlott előbeállítás a hang- és videóproblémák diagnosztizálásához.
 profiler-popup-presets-firefox-description = Javasolt előbeállítás a { -brand-shorter-name } profilozásához.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Visszajelzés beküldése…
     .accesskey = V
+appmenu-help-share-ideas =
+    .label = Ötletek és visszajelzések megosztása…
+    .accesskey = o
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

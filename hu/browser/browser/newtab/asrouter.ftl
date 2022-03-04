@@ -156,3 +156,13 @@ spotlight-total-cookie-protection-body = A Teljes sütivédelem megakadályozza,
 spotlight-total-cookie-protection-expanded = A { -brand-short-name } kerítést épít a sütik köré, oly módon korlátozva őket, hogy a nyomkövetők ne használhassák az Ön követésére. A korai hozzáféréssel segít nekünk optimalizálni a funkciót, így egy mindenki számára jobb webet építhetünk.
 spotlight-total-cookie-protection-primary-button = A Teljes sütivédelem bekapcsolása
 spotlight-total-cookie-protection-secondary-button = Most nem
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = A jobb internet Önnel kezdődik
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] A Dockban tartás
+       *[other] Rögzítés a tálcára
+    }
+spotlight-pin-secondary-button = Most nem
