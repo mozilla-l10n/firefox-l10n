@@ -185,6 +185,26 @@ about-webrtc-aec-logging-off-state-msg = móžeće natočene protokolowe dataje 
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } wobłuk
+        [two] { $frames } wobłukaj
+        [few] { $frames } wobłuki
+       *[other] { $frames } wobłukow
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } kanal
+        [two] { $channels } kanalej
+        [few] { $channels } kanale
+       *[other] { $channels } kanalow
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
