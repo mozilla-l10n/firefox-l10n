@@ -86,6 +86,13 @@ expand-attachment-pane-tooltip =
     .tooltiptext = It bylagefinster toane ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = It bylagefinster ferstopje ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } bylage
+        [one] { $count } bylage
+       *[other] { $count } bylagen
+    }
 attachment-area-show =
     .title = It bylagefinster toane ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -253,13 +260,6 @@ cloud-file-count-header =
     { $count ->
         [one] Ik haw { $count } bestân oan dit e-mailberjocht keppele:
        *[other] Ik haw { $count } bestannen oan dit e-mailberjocht keppele:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Mear ynfo oer { $lastLink }.
-       *[other] Mear ynfo oer { $firstLinks } en { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
