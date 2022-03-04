@@ -39,6 +39,7 @@ pocket-panel-signup-tagline = Зберігайте статті та відео 
 pocket-panel-signup-tagline-story-one = Натисніть кнопку { -pocket-brand-name } для збереження будь-якої статті, відео чи сторінки з { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Переглядайте в { -pocket-brand-name } на будь-якому пристрої та в будь-який час.
 pocket-panel-signup-cta-a = Ваша кнопка збереження з інтернету.
+pocket-panel-signup-cta-a-fix = Ваша кнопка збереження з інтернету
 pocket-panel-signup-cta-b = Зберігайте статті, відео та посилання за допомогою кнопки { -pocket-brand-name }. Переглядайте свій список на будь-якому пристрої у будь-який час.
 pocket-panel-signup-cta-c = Переглядайте свій список на будь-якому пристрої у будь-який час.
 
