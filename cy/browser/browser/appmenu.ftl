@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Gosod­iadau
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Golygu Gosodiadau...
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Golygu Gosodiadau...
 profiler-popup-disabled =
     Mae'r proffiliwr wedi'i analluogi ar hyn o bryd, yn fwyaf tebygol oherwydd fod ffenestr Pori Preifat
     ar agor
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Golygu Gosodiadau...
 profiler-popup-recording-screen = Yn cofnodi…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.
 profiler-popup-presets-web-developer-label =
     .label = Datblygwr Gwe
-profiler-popup-presets-firefox-platform-description = Y rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform Firefox mewnol.
-profiler-popup-presets-firefox-platform-label =
-    .label = Platfform Firefox
-profiler-popup-presets-firefox-front-end-description = Y rhagosodiad sy'n cael ei argymell ar gyfer dadfygio platfform blaen Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Blaen Firefox
-profiler-popup-presets-firefox-graphics-description = Y rhagosodiad sy'n cael ei argymell ar gyfer ymchwilio i berfformiad graffeg Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Graffigau Firefox
-profiler-popup-presets-media-description = Y rhagosodiad sy'n cael ei argymell ar gyfer gwneud diagnosis o broblemau sain a fideo.
 profiler-popup-presets-firefox-description = Rhagosodiad a argymhellir ar gyfer proffilio { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Cyflwyno Adborth…
     .accesskey = A
+appmenu-help-share-ideas =
+    .label = Rhannwch syniadau ac adborth…
+    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
