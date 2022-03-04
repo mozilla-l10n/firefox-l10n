@@ -156,3 +156,7 @@ spotlight-total-cookie-protection-body = Le protection total del cookies bloca l
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crea un barriera circa le cookies, limitante los al sito que tu visita de maniera que le traciatores non pote usar los pro sequer te. Como usator del prime hora, tu nos adjuta a optimisar iste function de sorta que nos pote continuar a construer un web melior pro totes.
 spotlight-total-cookie-protection-primary-button = Activar Protection total del cookies
 spotlight-total-cookie-protection-secondary-button = Non ora
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = Non ora

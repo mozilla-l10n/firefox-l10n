@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Explorar argumentos popular
 pocket-panel-home-discover-more = Discoperi plus
 pocket-panel-home-explore-more = Explorar
 pocket-panel-home-most-recent-saves = Ecce tu plus recente salvamentos:
+pocket-panel-home-most-recent-saves-loading = Cargamento salvamentos recente…
 pocket-panel-home-new-user-cta = Clicca le button { -pocket-brand-name } pro salvar articulos, videos e ligamines.
 pocket-panel-home-new-user-message = Vide hic tu recente salvamentos.
 
