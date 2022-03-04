@@ -85,6 +85,13 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Fela viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } viðhengi
+        [one] { $count } viðhengi
+       *[other] { $count } viðhengi
+    }
 attachment-area-show =
     .title = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -252,13 +259,6 @@ cloud-file-count-header =
     { $count ->
         [one] Ég hef tengt { $count } skrá við þennan tölvupóst:
        *[other] Ég hef tengt { $count } skrár við þennan tölvupóst:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Frekari upplýsingar um { $lastLink }.
-       *[other] Frekari upplýsingar um { $firstLinks } og { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
