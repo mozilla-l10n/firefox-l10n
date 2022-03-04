@@ -40,6 +40,8 @@ items-pane-checkbox-mail-messages = Mejlki
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = Wubjerće dataju, kotruž chceće importować:
+addr-book-csv-file = Dataja dźělena přez komu abo rajtark (.csv, .tsv)
 addr-book-ldif-file = Dataja LDIF (.ldif)
 addr-book-vcard-file = Dataja vCard (.vcf, .vcard)
 addr-book-mab-file = Dataja datoweje banki Mork (.mab)
