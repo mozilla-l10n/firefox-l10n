@@ -32,6 +32,7 @@ profile-file-picker-dir = Selige un plica del profilo
 profile-file-picker-zip = Selige un file zip (minor de 2GB)
 items-pane-title = Elige que importar
 items-pane-desc = Importar ab
+items-pane-source = Position del fonte:
 items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
 items-pane-checkbox-calendars = Agendas
@@ -39,6 +40,7 @@ items-pane-checkbox-mail-messages = Messages e-mail
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = Elige le typo de file que tu vole importar:
 addr-book-file-picker = Elige un file libro del adresses
 addr-book-directories-pane-source = File fonte:
 
