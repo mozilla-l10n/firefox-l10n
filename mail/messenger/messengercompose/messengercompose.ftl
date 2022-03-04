@@ -93,6 +93,15 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Pśidankowe wokno pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Pśidankowe wokno schowaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } pśidank
+        [one] { $count } pśidank
+        [two] { $count } pśidanka
+        [few] { $count } pśidanki
+       *[other] { $count } pśidankow
+    }
 attachment-area-show =
     .title = Pśidankowe wokno pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -270,15 +279,6 @@ cloud-file-count-header =
         [two] Som zwězał { $count } dataji z toś teju mejlku:
         [few] Som zwězał { $count } dataje z toś teju mejlku:
        *[other] Som zwězał { $count } datajow z toś teju mejlku:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Dalšne informacije wó { $lastLink }.
-        [two] Dalšne informacije wó { $firstLinks } a { $lastLink }.
-        [few] Dalšne informacije wó { $firstLinks } a { $lastLink }.
-       *[other] Dalšne informacije wó { $firstLinks } a { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
