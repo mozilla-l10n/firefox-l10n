@@ -306,3 +306,12 @@ mr2-onboarding-start-browsing-button-label = Почати перегляд
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Виберіть свою мову
+onboarding-live-language-subtitle = Мова вашого { -brand-short-name } — { $appLanguage }, а мова вашої системи — { $systemLanguage }.
+onboarding-live-language-switch-button-label = Перемкнути на { $negotiatedLanguage }
+onboarding-live-language-button-label-downloading = Завантаження мовного пакунка для { $negotiatedLanguage }…
+onboarding-live-language-waiting-subtitle = Схоже, ваша система та { -brand-short-name } використовують різні мови.
+onboarding-live-language-waiting-button = Отримання доступних мов…
+onboarding-live-language-installing = Установлення мовного пакунка для { $negotiatedLanguage }…
+onboarding-live-language-secondary-cancel-download = Скасувати
+onboarding-live-language-not-now-button-label = Не зараз
+onboarding-live-language-skip-button-label = Пропустити
