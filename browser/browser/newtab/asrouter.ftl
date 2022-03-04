@@ -153,3 +153,14 @@ spotlight-total-cookie-protection-body = 전체 쿠키 보호는 추적기가 �
 spotlight-total-cookie-protection-expanded = { -brand-short-name }는 쿠키 주위에 울타리를 치고 사용자가 있는 사이트로 제한하므로 추적기가 사용자를 팔로우하는 데 쿠키를 사용할 수 없습니다. 먼저 이용해 보시면 이 기능을 최적화하는데 도움이 되므로 저희가 모든 사용자를 위한 더 나은 웹을 계속 구축할 수 있습니다.
 spotlight-total-cookie-protection-primary-button = 전체 쿠키 보호 켜기
 spotlight-total-cookie-protection-secondary-button = 나중에
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = 더 나은 인터넷은 당신과 함께 시작됩니다
+spotlight-better-internet-body = { -brand-short-name }를 사용하면 모두에게 더 나은 개방적이고 접근 가능한 인터넷에 투표하는 것입니다.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Dock에 넣기
+       *[other] 작업 표시줄에 고정
+    }
+spotlight-pin-secondary-button = 나중에
