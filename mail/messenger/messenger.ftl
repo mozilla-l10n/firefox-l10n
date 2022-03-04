@@ -190,3 +190,36 @@ spaces-toolbar-button-settings =
     .title = Перемкнутись на вкладку налаштувань
 spaces-toolbar-button-collapse =
     .title = Згорнути панель Простори
+spaces-toolbar-button-reveal =
+    .title = Показати панель просторів
+spaces-context-new-tab-item =
+    .label = Відкрити у новій вкладці
+spaces-context-new-window-item =
+    .label = Відкрити в новому вікні
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Перейти до { $tabName }
+settings-context-open-settings-item =
+    .label = Відкрити налаштування
+settings-context-open-account-settings-item =
+    .label = Відкрити налаштування облікового запису
+settings-context-open-addons-item =
+    .label = Відкрити додатки й теми
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Відкрити меню просторів
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }

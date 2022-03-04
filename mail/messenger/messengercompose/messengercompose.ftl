@@ -90,6 +90,14 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Показати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Сховати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } вкладення
+        [one] { $count } вкладення
+        [few] { $count } вкладень
+       *[many] { $count } вкладень
+    }
 attachment-area-show =
     .title = Показати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -262,14 +270,6 @@ cloud-file-count-header =
         [one] Я додаю { $count } файл до цього листа:
         [few] Я додаю { $count } файли до цього листа:
        *[many] Я додаю { $count } файлів до цього листа:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Докладніше про { $lastLink }.
-        [few] Докладніше про { $lastLink } і { $lastLink }.
-       *[many] Докладніше про { $lastLink } і { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.

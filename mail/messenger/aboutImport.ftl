@@ -40,10 +40,20 @@ items-pane-checkbox-mail-messages = Повідомлення пошти
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = Виберіть тип файлу, який ви хочете імпортувати:
+addr-book-csv-file = Файл, розділений комою або табулятором (.csv, .tsv)
+addr-book-ldif-file = Файл LDIF (.ldif)
+addr-book-vcard-file = Файл vCard (.vcf, .vcard)
+addr-book-mab-file = Файл бази даних Mork (.mab)
+addr-book-file-picker = Виберіть файл адресної книги
+addr-book-directories-pane-title = Виберіть каталог, до якого потрібно імпортувати:
+addr-book-directories-pane-source = Джерельний файл:
+addr-book-import-into-new-directory = Створити новий каталог
 
 ## Import dialog
 
 progress-pane-title = Імпортування
+progress-pane-finished-desc = Завершено.
 progress-pane-restart-desc = Перезапустіть, щоб завершити імпортування.
 error-pane-title = Помилка
 error-message-zip-file-too-big = Вибраний zip-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.

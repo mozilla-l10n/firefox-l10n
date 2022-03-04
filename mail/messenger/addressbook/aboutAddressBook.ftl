@@ -138,8 +138,8 @@ about-addressbook-details-phone-numbers-header = Номери телефону
 about-addressbook-details-home-address-header = Домашня адреса
 about-addressbook-details-work-address-header = Робоча адреса
 about-addressbook-details-other-info-header = Інші відомості
-about-addressbook-prompt-to-save-title = Зберегти зміни?
-about-addressbook-prompt-to-save = Бажаєте зберегти зміни?
+about-addressbook-unsaved-changes-prompt-title = Незбережені зміни
+about-addressbook-unsaved-changes-prompt = Зберегти зміни, перш ніж вийти з режиму редагування?
 
 # Photo dialog
 
