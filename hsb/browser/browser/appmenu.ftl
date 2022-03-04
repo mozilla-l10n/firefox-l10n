@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Nastajenja
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Nastajenja wobdźěłać…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Nastajenja wobdźěłać…
 profiler-popup-disabled =
     Profilowak je tuchwilu znjemóžnjeny, najskerje dokelž priwatne wokno
     je wočinjene.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Nastajenja wobdźěłać…
 profiler-popup-recording-screen = Natoča so…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Doporučene přednastajenje za pytanje zmylkow za najwjace webnałoženjow z mało zarjadniskimi datami.
 profiler-popup-presets-web-developer-label =
     .label = Webwuwiwar
-profiler-popup-presets-firefox-platform-description = Doporučene přednastajenje za nutřkowne pytanje zmylkow platformy Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Platforma Firefox
-profiler-popup-presets-firefox-front-end-description = Doporučene přednastajenje za nutřkowne pytanje zmylkow frontenda Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Frontend Firefox
-profiler-popup-presets-firefox-graphics-description = Doporučene přednastajenje za přepytowanje wukona grafiki Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Grafika Firefox
-profiler-popup-presets-media-description = Doporučene přednastajenje za diagnosticěrowanje awdio- a widejoproblemow.
 profiler-popup-presets-firefox-description = Doporučene přednastajenje za profilowanje { -brand-shorter-name }
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Posudk pósłać…
     .accesskey = P
+appmenu-help-share-ideas =
+    .label = Ideje a měnjenja dźělić …
+    .accesskey = I
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
