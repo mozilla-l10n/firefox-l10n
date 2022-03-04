@@ -19,6 +19,11 @@ button-continue = Продовжити
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Інтернет-пошта
+app-name-apple-mail = Пошта Apple
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Імпорт із { $app }
@@ -27,10 +32,14 @@ profile-file-picker-dir = Виберіть теку профілю
 profile-file-picker-zip = Виберіть zip-файл (до 2 Гб)
 items-pane-title = Виберіть, що імпортувати
 items-pane-desc = Імпорт із
+items-pane-source = Розташування джерела:
 items-pane-checkbox-accounts = Облікові записи й налаштування
 items-pane-checkbox-address-books = Адресні книги
 items-pane-checkbox-calendars = Календарі
 items-pane-checkbox-mail-messages = Повідомлення пошти
+
+## Import from address book file steps
+
 
 ## Import dialog
 
