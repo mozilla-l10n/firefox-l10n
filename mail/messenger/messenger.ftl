@@ -189,3 +189,36 @@ spaces-toolbar-button-settings =
     .title = Skipta yfir á stillingaflipa
 spaces-toolbar-button-collapse =
     .title = Fella saman Svæða-verkfæraslá
+spaces-toolbar-button-reveal =
+    .title = Birta Svæða-verkfæraslána
+spaces-context-new-tab-item =
+    .label = Opna í nýjum flipa
+spaces-context-new-window-item =
+    .label = Opna í nýjum glugga
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Skipta yfir í { $tabName }
+settings-context-open-settings-item =
+    .label = Opna stillingar
+settings-context-open-account-settings-item =
+    .label = Opna stillingar reiknings
+settings-context-open-addons-item =
+    .label = Opna viðbætur og þemu
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Opna Svæðavalmynd
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }

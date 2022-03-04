@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Símanúmer
 about-addressbook-details-home-address-header = Heimilisfang
 about-addressbook-details-work-address-header = Vinnustaður
 about-addressbook-details-other-info-header = Aðrar upplýsingar
-about-addressbook-prompt-to-save-title = Vista breytingar?
-about-addressbook-prompt-to-save = Viltu vista breytingarnar þínar?
+about-addressbook-unsaved-changes-prompt-title = Óvistaðar breytingar
+about-addressbook-unsaved-changes-prompt = Viltu vista breytingarnar þínar áður en þú ferð úr breytingaglugganum?
 
 # Photo dialog
 

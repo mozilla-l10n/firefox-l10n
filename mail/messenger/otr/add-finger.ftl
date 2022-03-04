@@ -4,6 +4,7 @@
 
 otr-add-finger =
     .title = Bæta við OTR-lykilfingrafari
+otr-add-finger-title = Bæta við OTR-lykilfingrafari
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
