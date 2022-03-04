@@ -19,6 +19,11 @@ button-continue = Dalej
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Z { $app } importěrowaś
@@ -27,14 +32,28 @@ profile-file-picker-dir = Wubjeŕśo profilowy zarědnik
 profile-file-picker-zip = Wubjeŕśo zip-dataju (mjeńšu ako 2 GB)
 items-pane-title = Wubjeŕśo, což ma se importěrowaś
 items-pane-desc = Importěrowaś z
+items-pane-source = Žrědłowe městno:
 items-pane-checkbox-accounts = Konta a nastajenja
 items-pane-checkbox-address-books = Adresniki
 items-pane-checkbox-calendars = Kalendarje
 items-pane-checkbox-mail-messages = Mejlki
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Wubjeŕśo dataju, kótaruž cośo importěrowaś:
+addr-book-csv-file = Dataja źělona pśez komu abo rejtarik (.csv, .tsv)
+addr-book-ldif-file = Dataja LDIF (.ldif)
+addr-book-vcard-file = Dataja vCard (.vcf, .vcard)
+addr-book-mab-file = Dataja datoweje banki Mork (.mab)
+addr-book-file-picker = Adresnikowu dataju wubraś
+addr-book-directories-pane-title = Wubjeŕśo zapis, kótaryž cośo importěrowaś do:
+addr-book-directories-pane-source = Žrědłowa dataja:
+addr-book-import-into-new-directory = Nowy zarědnik załožyś
+
 ## Import dialog
 
 progress-pane-title = Importěrowanje
+progress-pane-finished-desc = Dokóńcone.
 progress-pane-restart-desc = Startujśo znowego, aby importěrowanje dokóńcył.
 error-pane-title = Zmólka
 error-message-zip-file-too-big = Wubrana zip-dataja jo wětša ako 2 GB. Pšosym rozpakujśo ju nejpjerwjej, a importěrujśo wopśimjeśe z rozpakowanego zarědnika město togo.
