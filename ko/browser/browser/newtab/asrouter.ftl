@@ -158,6 +158,8 @@ spotlight-total-cookie-protection-secondary-button = 나중에
 
 spotlight-better-internet-header = 더 나은 인터넷은 당신과 함께 시작됩니다
 spotlight-better-internet-body = { -brand-short-name }를 사용하면 모두에게 더 나은 개방적이고 접근 가능한 인터넷에 투표하는 것입니다.
+spotlight-peace-mind-header = 저희가 사용자를 보호합니다
+spotlight-peace-mind-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단합니다. 특히 추적기와 같은 개인 정보를 침해하는 요소가 사용자와 좋은 인터넷 사이에 있어서는 안 되기 때문입니다.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Dock에 넣기
