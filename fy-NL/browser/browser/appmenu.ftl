@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Ynstellingen
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ynstellingen bewurkje…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Ynstellingen bewurkje…
 profiler-popup-disabled =
     De profiler is op dit stuit útskeakele, wierskynlik omdat in priveefinster
     iepene is.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Ynstellingen bewurkje…
 profiler-popup-recording-screen = Opnimme…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Oanrekommandearre foarynstelling foar de measte flateropspoaring yn web-apps, mei lege overhead.
 profiler-popup-presets-web-developer-label =
     .label = Webûntwikkeler
-profiler-popup-presets-firefox-platform-description = Oanrekommandearre foarynstelling foar ynterne flateropspoaring yn it Firefox-platfoarm.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox-platfoarm
-profiler-popup-presets-firefox-front-end-description = Oanrekommandearre foarynstelling foar ynterne flateropspoaring yn it front-end fan Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox-front-end
-profiler-popup-presets-firefox-graphics-description = Oanrekommandearre foarynstelling foar ûndersyk nei grafyske prestaasjes fan Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox-grafysk
-profiler-popup-presets-media-description = Oanrekommandearre foarynstelling foar it analysearjen fan audio- en fideoproblemen.
 profiler-popup-presets-firefox-description = Oanrekommandearre foarynstelling foar profilearjen { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Feedback ferstjoere…
     .accesskey = f
+appmenu-help-share-ideas =
+    .label = Ideeën en kommentaar diele…
+    .accesskey = k
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

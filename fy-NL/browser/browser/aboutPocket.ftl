@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Bewarje artikelen en fideo’s fan { -brand-produc
 pocket-panel-signup-tagline-story-one = Klik op de { -pocket-brand-name }-knop om artikelen, fideo’s of siden fan { -brand-product-name } út te bewarjen.
 pocket-panel-signup-tagline-story-two = Besjoch se yn { -pocket-brand-name } op ferskate apparaten, wannear dan ek.
 pocket-panel-signup-cta-a = Jo bewarknop foar it ynternet.
+pocket-panel-signup-cta-a-fix = Jo bewarknop foar it ynternet
 pocket-panel-signup-cta-b = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen. Besjoch jo list op elk apparaat, wannear dan ek.
+pocket-panel-signup-cta-b-short = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen.
 pocket-panel-signup-cta-c = Besjoch jo list op elk apparaat, wannear dan ek.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Populêre ûnderwerpen ferkenne
 pocket-panel-home-discover-more = Mear ûntdekke
 pocket-panel-home-explore-more = Ferkenne
 pocket-panel-home-most-recent-saves = Dit binne jo meast resinte bewarre items:
+pocket-panel-home-most-recent-saves-loading = Resint bewarre items wurde laden…
 pocket-panel-home-new-user-cta = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen.
 pocket-panel-home-new-user-message = Besjoch hjir jo resint bewarre items.
 

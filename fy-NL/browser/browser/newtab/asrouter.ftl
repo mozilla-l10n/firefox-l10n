@@ -156,3 +156,16 @@ spotlight-total-cookie-protection-body = Totale cookiebeskerming foarkomt dat tr
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bout in stek rûnom cookies, wêrtroch se beheint wurde ta de website wêrop jo jo binne, sadat trackers se net brûke kinne om jo te folgjen. As betide brûker helpe jo dizze funksje te optimalisearjen, sadat wy in better ynternet foar elkenien bouwe bliuwe kinne.
 spotlight-total-cookie-protection-primary-button = Totale cookiebeskerming ynskeakelje
 spotlight-total-cookie-protection-secondary-button = No net
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = In better ynternet begjint mei josels
+spotlight-better-internet-body = As jo { -brand-short-name } brûke, stimme jo foar in iepen en tagonklik ynternet dat better is foar elkenien.
+spotlight-peace-mind-header = By ús binne jo feilich
+spotlight-peace-mind-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3000 trackers per brûker. Want neat mei tusken jo en it goede ynternet stean, foaral gjin privacy-oerlêst lykas trackers.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Yn de Dock hâlde
+       *[other] Oan taakbalke fêstsette
+    }
+spotlight-pin-secondary-button = No net
