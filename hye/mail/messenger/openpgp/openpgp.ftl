@@ -17,6 +17,9 @@ import-info-fpr = Մատնահետք
 
 ## Account settings export output
 
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Ներածել
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Սխալ. վերծանումը ձախողուեց

@@ -5,5 +5,9 @@
 
 ## Message Header Encryption Button
 
+openpgp-message-header-encrypted-ok-icon =
+    .alt = Վերծանումը յաջողուել է
+openpgp-message-header-encrypted-notok-icon =
+    .alt = Վերծանումը ձախողուեց
 openpgp-message-header-signed-unknown-icon =
     .alt = Ստորագրութեան կարգավիճակը անյայտ է
