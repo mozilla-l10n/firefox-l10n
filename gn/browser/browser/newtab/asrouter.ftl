@@ -155,3 +155,7 @@ spotlight-total-cookie-protection-body = Ñemo’ãmbaite kookie rovake omboyke 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } omopu’ã tápia kookie jerére ha ojoko tenda oĩhápe ani hag̃ua tapykuehoha oipuru nde rapykueho hag̃ua. Pe jeike voi ndive, oipytyvõta oiko porãve hag̃ua tembiapoite rojapo hag̃ua ñanduti iporãva opavavépe g̃uarã.
 spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
 spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = Ani ko’ág̃a
