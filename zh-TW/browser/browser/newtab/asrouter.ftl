@@ -157,6 +157,7 @@ spotlight-total-cookie-protection-secondary-button = 現在不要
 spotlight-better-internet-header = 更好的網路環境，從您開始
 spotlight-better-internet-body = 當您使用 { -brand-short-name } 就代表您對更好、更開放、任何人都可以使用的網路環境投下贊成票。
 spotlight-peace-mind-header = 讓我們保護您
+spotlight-peace-mind-body = 每個月，{ -brand-short-name } 平均能幫每位使用者封鎖超過 3,000 組追蹤器。為什麼要封鎖？這是因為沒有任何東西（尤其是像追蹤器這樣影響隱私權的東西）應該擋在您跟一個好的網路環境之間。
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] 固定在 Dock
