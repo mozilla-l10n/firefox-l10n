@@ -168,3 +168,10 @@ spotlight-total-cookie-protection-secondary-button = Nic něnto
 spotlight-better-internet-header = Lěpšy internet z wami startujo
 spotlight-better-internet-body = Gaž { -brand-short-name } wužywaśo, głosujośo za wótwórjony a pśistupny internet, kótaryž jo lěpšy za wše.
 spotlight-peace-mind-header = Smy was zapśimjeli
+spotlight-peace-mind-body = Kuždy mjasec { -brand-short-name } pśerěznje pśez 3.000 pśeslědowakow na wužywarja blokěrujo. Dokulaž nic, pśedewšym wobuze priwatnosći ako pśeslědowaki, njeměło mjazy wami a dobrym internetom byś.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Na doku wobchowaś
+       *[other] K nadawkowej rědce pśipěś
+    }
+spotlight-pin-secondary-button = Nic něnto
