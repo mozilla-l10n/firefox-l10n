@@ -87,6 +87,13 @@ expand-attachment-pane-tooltip =
     .tooltiptext = A mellékletek ablaktábla megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = A mellékletek ablaktábla elrejtése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } melléklet
+        [one] { $count } melléklet
+       *[other] { $count } melléklet
+    }
 attachment-area-show =
     .title = A mellékletek ablaktábla megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -254,13 +261,6 @@ cloud-file-count-header =
     { $count ->
         [one] { $count } fájlt hivatkoztam ehhez az e-mailhez:
        *[other] { $count } fájlt hivatkoztam ehhez az e-mailhez:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Tudjon meg többet a következőről: { $lastLink }.
-       *[other] Tudjon meg többet a következőkről: { $firstLinks } és { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.

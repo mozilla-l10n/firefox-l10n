@@ -5,18 +5,15 @@
 otr-finger =
     .buttonlabelaccept = Bezárás
     .title = Előzőleg látott OTR-ujjlenyomatok
-
+otr-finger-title = Korábban látott OTR ujjlenyomatok
 finger-intro = Az OTR-kulcs ujjlenyomatai a korábbi, végpontok között titkosított beszélgetésekből.
-
 finger-screen-name =
     .label = Kapcsolat
 finger-verified =
     .label = Ellenőrzési állapot
 finger-fingerprint =
     .label = Ujjlenyomat
-
 finger-remove =
     .label = Kijelölt eltávolítása
-
 finger-remove-all =
     .label = Összes eltávolítása

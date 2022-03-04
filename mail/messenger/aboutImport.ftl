@@ -46,10 +46,14 @@ addr-book-ldif-file = LDIF-fájl (.ldif)
 addr-book-vcard-file = vCard-fájl (.vcf, .vcard)
 addr-book-mab-file = Mork adatbázisfájl (.mab)
 addr-book-file-picker = Címjegyzékfájl kiválasztása
+addr-book-directories-pane-title = Válassza ki az importálás célkönyvtárát:
+addr-book-directories-pane-source = Forrásfájl:
+addr-book-import-into-new-directory = Új könyvtár létrehozása
 
 ## Import dialog
 
 progress-pane-title = Importálás
+progress-pane-finished-desc = Kész.
 progress-pane-restart-desc = Újraindítás az importálás befejezéséhez.
 error-pane-title = Hiba
 error-message-zip-file-too-big = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
