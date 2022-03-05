@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Telefonnummer
 about-addressbook-details-home-address-header = Hemadresser
 about-addressbook-details-work-address-header = Arbetsadress
 about-addressbook-details-other-info-header = Annan information
-about-addressbook-prompt-to-save-title = Spara ändringar?
-about-addressbook-prompt-to-save = Vill du spara dina ändringar?
+about-addressbook-unsaved-changes-prompt-title = Osparade ändringar
+about-addressbook-unsaved-changes-prompt = Vill du spara dina ändringar innan du lämnar redigeringsvyn?
 
 # Photo dialog
 
