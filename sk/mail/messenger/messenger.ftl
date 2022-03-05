@@ -190,3 +190,28 @@ spaces-toolbar-button-settings =
     .title = Prepnúť na kartu Nastavenia
 spaces-toolbar-button-collapse =
     .title = Zbaliť panel nástrojov Miesta
+spaces-toolbar-button-reveal =
+    .title = Zobraziť panel nástrojov Miesta
+spaces-context-new-tab-item =
+    .label = Otvoriť na novej karte
+spaces-context-new-window-item =
+    .label = Otvoriť v novom okne
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Prepnúť na kartu { $tabName }
+settings-context-open-settings-item =
+    .label = Otvoriť Nastavenia
+settings-context-open-account-settings-item =
+    .label = Otvoriť Nastavenia účtov
+settings-context-open-addons-item =
+    .label = Otvoriť Správcu doplnkov
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
