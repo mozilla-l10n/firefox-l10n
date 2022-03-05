@@ -43,13 +43,10 @@
 <!ENTITY event.attendees.disallowcounter.tooltip     "Anger att du inte kommer att acceptera motförslag">
 
 <!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -91,10 +88,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Radera…">
 <!ENTITY  event.menu.item.delete.accesskey                "R">
-<!ENTITY  event.menu.item.page.setup.label                "Sidlayout">
-<!ENTITY  event.menu.item.page.setup.accesskey            "t">
-<!ENTITY  event.menu.item.print.label                     "Skriv ut">
-<!ENTITY  event.menu.item.print.accesskey                 "u">
 
 <!ENTITY  event.menu.edit.label                           "Redigera">
 <!ENTITY  event.menu.edit.accesskey                       "R">
@@ -119,8 +112,6 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "h">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Redigera…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "R">
-<!ENTITY  event.menu.view.showlink.label                  "Visa liknande länk">
-<!ENTITY  event.menu.view.showlink.accesskey              "V">
 
 <!ENTITY  event.menu.options.label                            "Alternativ">
 <!ENTITY  event.menu.options.accesskey                        "A">
@@ -281,17 +272,17 @@
 <!ENTITY event.recurrence.month.label                   "månadsvis" >
 <!ENTITY event.recurrence.year.label                    "årligen" >
 
-<!ENTITY event.recurrence.pattern.every.label           "Varje" >
-<!ENTITY repeat.units.days.both                         "Dag(ar)" >
+<!ENTITY event.recurrence.pattern.every.label           "Var" >
+<!ENTITY repeat.units.days.both                         "dag" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Varje dag" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "Varje" >
-<!ENTITY repeat.units.weeks.both                        "Vecka(or)" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Var" >
+<!ENTITY repeat.units.weeks.both                        "vecka" >
 <!ENTITY event.recurrence.on.label                      "På:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "Varje" >
-<!ENTITY repeat.units.months.both                       "Månad(er)" >
-<!ENTITY event.recurrence.monthly.every.label           "Varje" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Var" >
+<!ENTITY repeat.units.months.both                       "månad" >
+<!ENTITY event.recurrence.monthly.every.label           "Var" >
 <!ENTITY event.recurrence.monthly.first.label           "Den första">
 <!ENTITY event.recurrence.monthly.second.label          "Den andra">
 <!ENTITY event.recurrence.monthly.third.label           "Den tredje">
@@ -308,8 +299,8 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Dag i månad">
 <!ENTITY event.recurrence.repeat.recur.label            "Återkommer om dag(ar)">
 
-<!ENTITY event.recurrence.every.label                        "Varje:" >
-<!ENTITY repeat.units.years.both                             "År" >
+<!ENTITY event.recurrence.every.label                        "Var:" >
+<!ENTITY repeat.units.years.both                             "år" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Varje" >
 
 <!-- LOCALIZATON NOTE
@@ -365,7 +356,7 @@
 <!ENTITY event.recurrence.range.label                   "Intervall för återkommande">
 <!ENTITY event.recurrence.forever.label                 "Inget slutdatum" >
 <!ENTITY event.recurrence.repeat.for.label              "Skapa" >
-<!ENTITY event.recurrence.appointments.label            "Möte(en)" >
+<!ENTITY event.recurrence.appointments.label            "möte(n)" >
 <!ENTITY event.repeat.until.label                       "Upprepa tills" >
 <!ENTITY event.recurrence.preview.label                 "Förhandsgranska">
 
