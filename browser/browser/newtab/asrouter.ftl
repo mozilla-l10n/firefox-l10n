@@ -159,6 +159,10 @@ spotlight-total-cookie-protection-secondary-button = No ahora
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Una mejor internet comienza con usted
+spotlight-better-internet-body = Al usar { -brand-short-name }, está votando por una internet abierta y accesible que es mejor para todos.
+spotlight-peace-mind-header = Te tenemos cubierto
+spotlight-peace-mind-body = Cada mes, { -brand-short-name } bloquea un promedio de más de tres mil rastreadores por usuario. Porque nada, especialmente las molestias de privacidad, debería meterse entre usted y una buena internet.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Mantener en Dock
