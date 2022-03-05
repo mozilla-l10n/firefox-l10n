@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Zapne podporu experimentálního CSS Masonry Layoutu. Podrobnosti o této funkci najdete <a data-l10n-name="explainer">zde</a>. Zpětnou vazbu nám můžete napsat <a data-l10n-name="w3c-issue">zde na GitHubu</a> nebo <a data-l10n-name="bug">do tohoto bugu</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Zapne podporu vrstev CSS Cascade Layers. Podrobnosti najdete v <a data-l10n-name="spec">rozpracované specifikaci</a> a <a data-l10n-name="bugzilla">bugu 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Toto nové API poskytuje nízkoúrovňový přístup k provádění výpočtů a vykreslování grafiky pomocí <a data-l10n-name="wikipedia">grafického procesoru (GPU)</a> uživatelského zařízení. Jeho <a data-l10n-name="spec">specifikace</a> je stále rozpracovaná. Podrobnosti najdete v <a data-l10n-name="bugzilla">bugu 1602129</a>.
@@ -117,3 +112,7 @@ experimental-features-multi-pip-description = Zapne experimentální podporu pro
 experimental-features-ime-search =
     .label = Adresní řádek: zobrazovat výsledky při použití IME
 experimental-features-ime-search-description = IME (Input Method Editor) je nástroj pro zadávání komplexních symbolů, jako jsou znaky východoasijských nebo indických jazyků, pomocí běžné klávesnice. Po zapnutí tohoto experimentu bude panel adresního řádku zobrazovat výsledky vyhledávání a návrhy našeptávače i při použití IME pro zadávání textu. Protože IME může zakrýt výsledky adresního řádku, doporučujeme tuto předvolbu použít jen s IME, který toto nedělá.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = Řetězec User-Agent pro { -brand-product-name } 100
+experimental-features-firefox-100-description = { -brand-short-name } bude posílat webovým stránkám řetězec User-Agent odpovídající jeho verzi 100. Tuto volbu můžete použít pro otestování stránek, zda fungují i s třícifernou verzí { -brand-short-name(case: "gen") }. Finální vydání { -brand-product-name(case: "gen") } 100 je naplánováno na květen 2022.

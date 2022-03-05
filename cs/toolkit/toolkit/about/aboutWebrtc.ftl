@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Protokol AEC
 about-webrtc-aec-logging-off-state-label = Spustit protokol AEC
 about-webrtc-aec-logging-on-state-label = Zastavit protokol AEC
 about-webrtc-aec-logging-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Automatické opětovné načtení
 
 ##
 
@@ -183,6 +185,24 @@ about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalé
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } snímek
+        [few] { $frames } snímky
+       *[other] { $frames } snímků
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } kanál
+        [few] { $channels } kanály
+       *[other] { $channels } kanálů
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
