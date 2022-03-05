@@ -57,7 +57,9 @@ pocket-panel-signup-tagline-story-one =
     }.
 pocket-panel-signup-tagline-story-two = Zobrazení v { -pocket-brand-name(case: "loc") } kdykoliv a na jakémkoliv zařízení.
 pocket-panel-signup-cta-a = Vaše tlačítko „uložit“ pro internet.
+pocket-panel-signup-cta-a-fix = Vaše tlačítko „uložit“ pro internet
 pocket-panel-signup-cta-b = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy. Seznam si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
+pocket-panel-signup-cta-b-short = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.
 pocket-panel-signup-cta-c = Zobrazte svůj seznam na jakémkoliv zařítení, kdykoliv.
 
 ## about:pocket-home panel
@@ -69,6 +71,7 @@ pocket-panel-home-explore-popular-topics = Podívejte se na oblíbená témata
 pocket-panel-home-discover-more = Objevte více
 pocket-panel-home-explore-more = Procházet
 pocket-panel-home-most-recent-saves = Váš nedávno uložený obsah:
+pocket-panel-home-most-recent-saves-loading = Načítání nedávno uloženého obsahu…
 pocket-panel-home-new-user-cta = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.
 pocket-panel-home-new-user-message = Váš nedávno uložený obsah se zobrazí tady.
 
