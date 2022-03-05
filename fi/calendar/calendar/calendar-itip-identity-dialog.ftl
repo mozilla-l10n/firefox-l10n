@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Menossa juhliin kutsumatta?
 calendar-itip-identity-warning = Et ole vielä vierailijaluettelossa.
 calendar-itip-identity-label = Vastaa käyttäjänä:
+calendar-itip-identity-label-none = Yhdistä tämä tapahtuma:
