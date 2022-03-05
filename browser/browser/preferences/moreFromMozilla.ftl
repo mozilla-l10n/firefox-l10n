@@ -5,4 +5,5 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-button-mozilla-vpn-2 = รับ VPN
 more-from-moz-learn-more-link = เรียนรู้เพิ่มเติม
