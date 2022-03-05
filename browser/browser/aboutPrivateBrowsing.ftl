@@ -38,3 +38,5 @@ about-private-browsing-search-banner-title = { $engineName } on oletushakukone y
 about-private-browsing-search-banner-description = Eri hakukoneen voi valita <a data-l10n-name="link-options">asetuksista</a>
 about-private-browsing-search-banner-close-button =
     .aria-label = Sulje
+about-private-browsing-dismiss-button =
+    .title = Hylkää
