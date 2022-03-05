@@ -50,3 +50,5 @@ about-private-browsing-search-banner-close-button =
 
 about-private-browsing-dismiss-button =
   .title = Rimuovi
+about-private-browsing-promo-close-button =
+  .title = Chiudi
