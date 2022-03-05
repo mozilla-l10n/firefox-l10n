@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Nastavenia
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Upraviť nastavenia…
+profiler-popup-disabled = Nástroj na profilovanie je v tejto chvíli vypnutý, pravdepodobne preto, lebo máte otvorené okno súkromného prehliadania.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Upraviť nastavenia…
-profiler-popup-disabled = Nástroj na profilovanie je v tejto chvíli vypnutý, pravdepodobne preto, lebo máte otvorené okno súkromného prehliadania.
 profiler-popup-recording-screen = Nahrávanie…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Odporúčaná predvoľba pre väčšinu ladení webových aplikácií s nízkymi nárokmi na výkon.
 profiler-popup-presets-web-developer-label =
     .label = Webový vývojár
-profiler-popup-presets-firefox-platform-description = Odporúčaná predvoľba pre ladenie internej platformy Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Platforma Firefox
-profiler-popup-presets-firefox-front-end-description = Odporúčaná predvoľba pre vnútorné ladenie klientskeho rozhrania Firefoxu.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Klientske rozhranie Firefoxu
-profiler-popup-presets-firefox-graphics-description = Odporúčaná predvoľba na skúmanie výkonu grafiky vo Firefoxe.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Grafika vo Firefoxe
-profiler-popup-presets-media-description = Odporúčaná predvoľba na diagnostiku problémov so zvukom a videom.
 profiler-popup-presets-firefox-description = Odporúčaná predvoľba pre profilovanie { -brand-shorter-name(case: "gen") }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -243,6 +233,9 @@ appmenu-help-report-site-issue =
     .label = Nahlásiť problém so stránkou…
 appmenu-help-feedback-page =
     .label = Odoslať spätnú väzbu…
+    .accesskey = d
+appmenu-help-share-ideas =
+    .label = Zdieľať nápady a spätnú väzbu…
     .accesskey = d
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode

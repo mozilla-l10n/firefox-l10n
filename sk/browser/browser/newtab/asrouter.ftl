@@ -159,3 +159,13 @@ spotlight-total-cookie-protection-body = Úplná ochrana súborov cookie bráni 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } vytvára virtuálny plot okolo súborov cookie a obmedzuje ich na stránku, na ktorej sa nachádzate, takže sledovači ich nemôžu použiť na to, aby vás sledovali. Vďaka testovaciemu programu nám pomôžete optimalizovať túto funkciu, aby sme mohli naďalej vytvárať lepší web pre všetkých.
 spotlight-total-cookie-protection-primary-button = Zapnúť Úplnú ochranu súborov cookie
 spotlight-total-cookie-protection-secondary-button = Teraz nie
+
+## Emotive Continuous Onboarding
+
+spotlight-peace-mind-body = Každý mesiac { -brand-short-name } zablokuje v priemere viac ako 3 000 sledovacích prvkov na jedného používateľa. Preto, aby medzi vami a dobrým internetom nestálo nič, najmä nie narúšanie súkromia a sledovanie.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Ponechať v Docku
+       *[other] Pripnúť na panel úloh
+    }
+spotlight-pin-secondary-button = Teraz nie

@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Ukladajte si články a videá z prehliadača { -b
 pocket-panel-signup-tagline-story-one = Kliknutím na tlačidlo { -pocket-brand-name } v prehliadači { -brand-product-name } uložíte akýkoľvek článok, video alebo stránku.
 pocket-panel-signup-tagline-story-two = Tieto sú potom vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
 pocket-panel-signup-cta-a = Vaše tlačidlo uloženia pre internet.
+pocket-panel-signup-cta-a-fix = Vaše tlačidlo pre ukladanie pre internete
 pocket-panel-signup-cta-b = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy. Zobrazte svoj zoznam na akomkoľvek zariadení a kedykoľvek.
+pocket-panel-signup-cta-b-short = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy.
 pocket-panel-signup-cta-c = Zobrazte svoj zoznam na akomkoľvek zariadení a kedykoľvek.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Preskúmať populárne témy
 pocket-panel-home-discover-more = Objavte ďalšie
 pocket-panel-home-explore-more = Preskúmať
 pocket-panel-home-most-recent-saves = Tu sú vaše posledné uloženia:
+pocket-panel-home-most-recent-saves-loading = Načítavajú sa nedávno uložené položky...
 pocket-panel-home-new-user-cta = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy.
 pocket-panel-home-new-user-message = Pozrite si svoje nedávne uloženia.
 
