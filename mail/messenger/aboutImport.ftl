@@ -44,10 +44,16 @@ import-from-addr-book-file-desc = Välj den filtyp du vill importera:
 addr-book-csv-file = Komma eller tabbseparerad fil (.csv, .tsv)
 addr-book-ldif-file = LDIF-fil (.ldif)
 addr-book-vcard-file = vCard-fil (.vcf, .vcard)
+addr-book-mab-file = Mork databasfil (.mab)
+addr-book-file-picker = Välj en adressboksfil
+addr-book-directories-pane-title = Välj den katalog du vill importera till:
+addr-book-directories-pane-source = Källfil:
+addr-book-import-into-new-directory = Skapa en ny katalog
 
 ## Import dialog
 
 progress-pane-title = Importerar
+progress-pane-finished-desc = Slutförd.
 progress-pane-restart-desc = Starta om för att slutföra importen.
 error-pane-title = Fel
 error-message-zip-file-too-big = Den valda zip-filen är större än 2 GB. Extrahera det först och importera sedan från den extraherade mappen istället.
