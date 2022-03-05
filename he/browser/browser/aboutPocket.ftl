@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = לשמור מאמרים וסרטונים מ־{ -br
 pocket-panel-signup-tagline-story-one = כדי לשמור כל מאמר, סרטון או דף מ־{ -brand-product-name } יש ללחוץ על כפתור ה‏־{ -pocket-brand-name }.
 pocket-panel-signup-tagline-story-two = להציג ב־{ -pocket-brand-name } בכל מכשיר, בכל זמן.
 pocket-panel-signup-cta-a = כפתור השמירה שלך לאינטרנט.
+pocket-panel-signup-cta-a-fix = כפתור השמירה שלך לאינטרנט
 pocket-panel-signup-cta-b = ניתן ללחוץ על כפתור ה־{ -pocket-brand-name } כדי לשמור מאמרים, סרטונים וקישורים. ניתן גם לצפות ברשימה שלך בכל מכשיר, בכל זמן.
+pocket-panel-signup-cta-b-short = ניתן ללחוץ על כפתור ה־{ -pocket-brand-name } כדי לשמור מאמרים, סרטונים וקישורים.
 pocket-panel-signup-cta-c = הצגת הרשימה שלך בכל מכשיר, בכל זמן.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = סיור בנושאים נפוצים
 pocket-panel-home-discover-more = לגלות עוד
 pocket-panel-home-explore-more = סיור
 pocket-panel-home-most-recent-saves = להלן השמירות האחרונות שלך:
+pocket-panel-home-most-recent-saves-loading = השמירות האחרונות נטענות…
 pocket-panel-home-new-user-cta = ניתן ללחוץ על כפתור ה־{ -pocket-brand-name } כדי לשמור מאמרים, סרטונים וקישורים.
 pocket-panel-home-new-user-message = ניתן לראות כאן את השמירות האחרונות שלך.
 
