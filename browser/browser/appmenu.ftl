@@ -147,10 +147,10 @@ profiler-popup-settings =
     .value = הגדרות
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = עריכת הגדרות…
+profiler-popup-disabled = יוצר הפרופילים מושבת כעת, ככל הנראה בגלל חלון פתוח במצב גלישה פרטית.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = עריכת הגדרות…
-profiler-popup-disabled = יוצר הפרופילים מושבת כעת, ככל הנראה בגלל חלון פתוח במצב גלישה פרטית.
 profiler-popup-recording-screen = בהקלטה…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -184,16 +184,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
-profiler-popup-presets-firefox-platform-description = ערכה מומלצת לניפוי שגיאות בפלטפורמה הפנימית של Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox Platform
-profiler-popup-presets-firefox-front-end-description = ערכה מומלצת לניפוי שגיאות בממשק הקצה הקדמי הפנימי של Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox Front-End
-profiler-popup-presets-firefox-graphics-description = ערכה מומלצת לחקירת ביצועי הגרפיקה של Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox Graphics
-profiler-popup-presets-media-description = ערכה מומלצת לאבחון בעיות שמע ווידאו.
 profiler-popup-presets-firefox-description = ערכת מומלצת ליצירת פרופיל ביצועים של { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -242,6 +232,9 @@ appmenu-help-report-site-issue =
     .label = דיווח על בעיה באתר…
 appmenu-help-feedback-page =
     .label = שליחת משוב…
+    .accesskey = ש
+appmenu-help-share-ideas =
+    .label = שיתוף רעיונות ומשוב…
     .accesskey = ש
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode

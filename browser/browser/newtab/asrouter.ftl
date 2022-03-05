@@ -152,3 +152,7 @@ spotlight-total-cookie-protection-body = הגנת עוגיות מלאה מונע
 spotlight-total-cookie-protection-expanded = ‏{ -brand-short-name } בונה גדר סביב עוגיות, ומבודד אותם לאתר שבו אתה נמצא, כך שעוגיות לא יכולות להשתמש בהן כדי לעקוב אחריך. הפעלת תכונה זו תסייע לנו לייעל אותה כדי שנוכל להמשיך לבנות אינטרנט טוב יותר עבור כולם.
 spotlight-total-cookie-protection-primary-button = הפעלת הגנת עוגיות מלאה
 spotlight-total-cookie-protection-secondary-button = לא כעת
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = אינטרנט טוב יותר מתחיל בך
