@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Definições
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar definições…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Editar definições…
 profiler-popup-disabled =
     Neste momento o profiler está, provavelmente, desativado devido a uma janela de navegação privada 
     que está a ser aberta.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Editar definições…
 profiler-popup-recording-screen = A gravar…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Predefinição recomendada para a maioria das depurações de aplicações web, com pouca sobrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Programador web
-profiler-popup-presets-firefox-platform-description = Predefinição recomendada para a depuração da plataforma interna do Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Plataforma Firefox
-profiler-popup-presets-firefox-front-end-description = Predefinição recomendada para a depuração do front-end interno do Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Front-End do Firefox
-profiler-popup-presets-firefox-graphics-description = Predefinição recomendada para a investigação de desempenho gráfico do Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Gráficos do Firefox
-profiler-popup-presets-media-description = Predefinição recomendada para diagnosticar problemas de áudio e vídeo.
 profiler-popup-presets-firefox-description = Predefinição recomendada para perfilar o { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Submeter feedback…
     .accesskey = S
+appmenu-help-share-ideas =
+    .label = Partilhe ideias e comentários…
+    .accesskey = h
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
