@@ -52,3 +52,7 @@ pocket-panel-home-explore-more = สำรวจ
 
 pocket-panel-header-my-list = ดูรายการของฉัน
 pocket-panel-header-sign-in = ลงชื่อเข้า
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = แสดงทั้งหมด
