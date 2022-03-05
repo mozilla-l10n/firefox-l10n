@@ -15,10 +15,10 @@ cert-error-trust-unknown-issuer = Pinapatunayan ng mga website ang kanilang iden
 cert-error-trust-cert-invalid = Hindi pinagkakatiwalaan ang certificate dahil ito ay inissure ng isang invalid na CA certificate.
 cert-error-trust-untrusted-issuer = Hindi pinagkakatiwalaan ang certificate dahil hindi katiwa-tiwala ang nag-issue nito.
 cert-error-trust-signature-algorithm-disabled = Hindi pinagkakatiwalaan ang certificate dahil ito ay na-sign gamit ang isang signature algorithm na na-disable dahil hindi secure ang algorithm.
-cert-error-trust-expired-issuer = Ang sertipiko ay hindi pinagkakatiwalaan dahil ang issuer ng sertipiko ay expired na.
-cert-error-trust-self-signed = Ang certificate ay hindi pinagkakatiwalaan dahil ito ay sariling-pirma lamang.
+cert-error-trust-expired-issuer = Hindi pinagkakatiwalaan ang certificate dahil paso na ang certificate ng nag-isyu.
+cert-error-trust-self-signed = Hindi pinagkakatiwalaan ang certificate dahil self-signed ito.
 cert-error-trust-symantec = Hindi na ligtas ang mga certificate na na-issue ng GeoTrust, RapidSSL, Symantec, Thawte, at VeriSign dahil ang mga certificate authority na ito ay hindi sumunod sa mga security practice dati.
-cert-error-untrusted-default = Ang certificate ay hindi galing sa pinagkakatiwalaang pinangalingan.
+cert-error-untrusted-default = Di galing mula sa isang mapagkakatiwalaang source ang certificate.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Pinapatunayan ng mga website ang kanilang identity gamit ang mga certificate. Hindi pinagkakatiwalaan ng { -brand-short-name } ang site na ito dahil hindi ito gumagamit ng tamang certificate para sa { $hostname }.

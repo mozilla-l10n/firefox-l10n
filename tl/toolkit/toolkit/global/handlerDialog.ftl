@@ -18,6 +18,12 @@ permission-dialog-description = Payagan ang site na ito na buksan ang { $scheme 
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = Buksan ang Link
+    .accessKey = B
+permission-dialog-btn-choose-app =
+    .label = Pumili ng Application
+    .accessKey = A
 
 ## Chooser dialog
 ## Variables:
