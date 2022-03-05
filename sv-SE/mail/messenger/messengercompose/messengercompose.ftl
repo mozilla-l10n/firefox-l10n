@@ -87,6 +87,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Visa bifogningsfönstret { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }()
 collapse-attachment-pane-tooltip =
     .tooltiptext = Dölj bifogningsfönstret ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } bilaga
+       *[other] { $count } bilagor
+    }
 attachment-area-show =
     .title = Visa bifogningsfönstret ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -254,13 +260,6 @@ cloud-file-count-header =
     { $count ->
         [one] Jag har länkat { $count } fil till detta e-postmeddelande:
        *[other] Jag har länkat { $count } filer till detta e-postmeddelande:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Läs mer om { $lastLink }.
-       *[other] Läs mer om { $firstLinks } och { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
