@@ -47,9 +47,19 @@ downloads-cmd-show-menuitem-2 =
             [macos] F
            *[other] l
         }
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = Otevřít v systémovém prohlížeči
     .accesskey = p
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Otevřít v programu { $handler }
+    .accesskey = O
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -73,6 +83,15 @@ downloads-cmd-show-description =
             [macos] Zobrazit ve Finderu
            *[other] Otevřít složku
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Vždy otevírat v programu { $handler }
+    .accesskey = V
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -116,6 +135,9 @@ downloads-cmd-clear-list =
     .accesskey = m
 downloads-cmd-clear-downloads =
     .label = Vymazat seznam
+    .accesskey = m
+downloads-cmd-delete-file =
+    .label = Smazat
     .accesskey = m
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =

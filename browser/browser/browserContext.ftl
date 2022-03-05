@@ -368,7 +368,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Otevřít odkaz v novém panelu kontejneru { $containerName }
     .accesskey = T
-# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
-main-context-menu-toggle-show-password =
+main-context-menu-reveal-password =
     .label = Zobrazit heslo
-    .accesskey = b
+    .accesskey = v
