@@ -8,7 +8,7 @@
 
 <!ENTITY learnMoreNoEllipsis "더 알아보기">
 
-<!ENTITY defaultButton.label "네!">
+<!ENTITY defaultButton.label "확인">
 <!ENTITY defaultButton.accesskey "O">
 
 <!ENTITY moreActionsButton.accessibleLabel "작업 더보기">
