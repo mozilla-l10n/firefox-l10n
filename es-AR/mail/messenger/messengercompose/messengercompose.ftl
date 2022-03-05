@@ -87,6 +87,13 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Ocultar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key } )
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } adjunto
+        [one] { $count } adjunto
+       *[other] { $count } adjuntos
+    }
 attachment-area-show =
     .title = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -254,13 +261,6 @@ cloud-file-count-header =
     { $count ->
         [one] He enlazado { $count } archivo a este correo electrónico:
        *[other] He enlazado { $count } archivos a este correo electrónico:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Conocer más sobre { $lastLink }.
-       *[other] Conocer más sobre{ $firstLinks } y { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
