@@ -38,11 +38,11 @@ pocket-panel-signup-signup-firefox = Registrovať pomocou { -brand-product-name(
 pocket-panel-signup-tagline = Ukladajte si články a videá z prehliadača { -brand-product-name } a majte ich vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
 pocket-panel-signup-tagline-story-one = Kliknutím na tlačidlo { -pocket-brand-name } v prehliadači { -brand-product-name } uložíte akýkoľvek článok, video alebo stránku.
 pocket-panel-signup-tagline-story-two = Tieto sú potom vďaka službe { -pocket-brand-name } dostupné kdekoľvek a na akomkoľvek zariadení.
-pocket-panel-signup-cta-a = Vaše tlačidlo uloženia pre internet.
+pocket-panel-signup-cta-a = Vaše tlačidlo pre ukladanie pre internete.
 pocket-panel-signup-cta-a-fix = Vaše tlačidlo pre ukladanie pre internete
-pocket-panel-signup-cta-b = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy. Zobrazte svoj zoznam na akomkoľvek zariadení a kedykoľvek.
+pocket-panel-signup-cta-b = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy. Svoj zoznam zobrazíte na akomkoľvek zariadení a kedykoľvek.
 pocket-panel-signup-cta-b-short = Kliknutím na tlačidlo { -pocket-brand-name } uložíte články, videá a odkazy.
-pocket-panel-signup-cta-c = Zobrazte svoj zoznam na akomkoľvek zariadení a kedykoľvek.
+pocket-panel-signup-cta-c = Svoj zoznam zobrazíte na akomkoľvek zariadení a kedykoľvek.
 
 ## about:pocket-home panel
 
