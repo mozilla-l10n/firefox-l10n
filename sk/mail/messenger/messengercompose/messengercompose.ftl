@@ -90,6 +90,14 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Skryť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } príloha
+        [one] { $count } príloha
+        [few] { $count } prílohy
+       *[other] { $count } príloh
+    }
 attachment-area-show =
     .title = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -262,14 +270,6 @@ cloud-file-count-header =
         [one] K tejto správe je pripojený { $count } súbor
         [few] K tejto správe sú pripojené { $count } súbory
        *[other] K tejto správe je pripojených { $count } súborov
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Ďalšie informácie o { $lastLink }.
-        [few] Ďalšie informácie o { $firstLinks } a { $lastLink }.
-       *[other] Ďalšie informácie o { $firstLinks } a { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
