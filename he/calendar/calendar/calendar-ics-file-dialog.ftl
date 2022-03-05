@@ -16,6 +16,18 @@ calendar-ics-file-dialog-items-loading-message =
     .value = פריטים נטענים…
 calendar-ics-file-dialog-search-input =
     .placeholder = סינון פריטים…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = מיון לפי תאריך התחלה (ראשון עד אחרון)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = מיון לפי תאריך התחלה (אחרון עד ראשון)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = מיון לפי כותרת (א > ת)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = מיון לפי כותרת (ת > א)
 calendar-ics-file-dialog-progress-message = מתבצע ייבוא…
 calendar-ics-file-import-success = הייבוא הושלם בהצלחה!
 calendar-ics-file-import-error = אירעה שגיאה והייבוא נכשל.

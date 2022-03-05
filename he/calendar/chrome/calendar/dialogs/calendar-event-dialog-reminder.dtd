@@ -11,10 +11,7 @@
 <!ENTITY reminder.reminderDetails.label                    "פרטי תזכורת">
 <!ENTITY reminder.action.label                             "בחר פעולת תזכורת">
 
-<!ENTITY reminder.relation.before.label                    "לפני" >
-<!ENTITY reminder.relation.after.label                     "אחרי" >
-
-<!ENTITY reminder.action.alert.label                       "הצג התרעה">
+<!ENTITY reminder.action.alert.label                       "הצגת התרעה">
 <!ENTITY reminder.action.email.label                       "שלח דוא״ל">
 
 <!ENTITY alarm.units.minutes                               "דקות" >
