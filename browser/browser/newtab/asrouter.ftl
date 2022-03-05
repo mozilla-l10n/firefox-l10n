@@ -192,3 +192,15 @@ spotlight-total-cookie-protection-body = Úplná ochrana cookies brání sledova
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ochrání vaše cookies tak, že omezí jejich dostupnost pro konkrétní stránku, kterou prohlížíte, takže je sledovací prvky nemohou používat pro vaše sledování napříč stránkami. Vykoušením této funkce nám je pomůžete dále optimalizovat pro vás i všechny ostatní uživatele.
 spotlight-total-cookie-protection-primary-button = Zapnout úplnou ochranu cookies
 spotlight-total-cookie-protection-secondary-button = Teď ne
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Lepší internet začíná u vás
+spotlight-peace-mind-header = Všechno, co potřebujete
+spotlight-peace-mind-body = Každý měsíc zablokuje { -brand-short-name } pro každého uživatele v průměru přes 3000 sledovacích prvků. A to proto, aby vám nic nesnižovalo kvalitu internetu, tím méně sledovací prvky porušující vaše soukromí.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Připnout do docku
+       *[other] Připnout na lištu
+    }
+spotlight-pin-secondary-button = Teď ne

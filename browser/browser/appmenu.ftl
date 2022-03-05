@@ -162,10 +162,10 @@ profiler-popup-settings =
     .value = Nastavení
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Úprava nastavení
+profiler-popup-disabled = Profiler je v tuto chvíli vypnutý, pravděpodobně protože máte otevřené okno anonymního prohlížení.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Úprava nastavení
-profiler-popup-disabled = Profiler je v tuto chvíli vypnutý, pravděpodobně protože máte otevřené okno anonymního prohlížení.
 profiler-popup-recording-screen = Nahrávání…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -199,16 +199,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
 profiler-popup-presets-web-developer-label =
     .label = Nástroje pro webové vývojáře
-profiler-popup-presets-firefox-platform-description = Doporučené nastavení pro interní platformy Firefoxu.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox Platform
-profiler-popup-presets-firefox-front-end-description = Doporučené nastavení pro ladění rozhraní Firefoxu.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox Front-End
-profiler-popup-presets-firefox-graphics-description = Doporučené nastavení pro ladění grafického výkonu Firefoxu.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox Graphics
-profiler-popup-presets-media-description = Doporučené nastavení pro ladění problémů se zvukem a videem.
 profiler-popup-presets-firefox-description =
     Doporučené nastavení pro profilování { -brand-shorter-name.gender ->
         [masculine] { -brand-shorter-name(case: "gen") }
@@ -288,6 +278,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Odeslat zpětnou vazbu…
     .accesskey = d
+appmenu-help-share-ideas =
+    .label = Sdílet nápad nebo zpětnou vazbu…
+    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

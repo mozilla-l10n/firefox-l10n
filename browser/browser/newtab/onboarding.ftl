@@ -377,3 +377,13 @@ mr2-onboarding-start-browsing-button-label = Začít prohlížet
 ##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
+onboarding-live-language-header = Výběr jazyka
+onboarding-live-language-subtitle = { -brand-short-name } používá jazyk { $appLanguage }, ale váš operační systém má nastavený jazyk { $systemLanguage }.
+onboarding-live-language-switch-button-label = Přepnout na jazyk { $negotiatedLanguage }
+onboarding-live-language-button-label-downloading = Stahování jazykového balíčku pro jazyk { $negotiatedLanguage }…
+onboarding-live-language-waiting-subtitle = Vypadá to, že { -brand-short-name } není ve stejném jazyce jako váš operační systém.
+onboarding-live-language-waiting-button = Získávání dostupných jazyků…
+onboarding-live-language-installing = Instalace jazykového balíčku pro jazyk { $negotiatedLanguage }…
+onboarding-live-language-secondary-cancel-download = Zrušit
+onboarding-live-language-not-now-button-label = Teď ne
+onboarding-live-language-skip-button-label = Přeskočit
