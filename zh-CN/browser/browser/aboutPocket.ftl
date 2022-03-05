@@ -41,6 +41,7 @@ pocket-panel-signup-tagline-story-two = 在任何时间、任何设备上的 { -
 pocket-panel-signup-cta-a = 您的互联网内容保存按钮。
 pocket-panel-signup-cta-a-fix = 您的互联网内容保存按钮。
 pocket-panel-signup-cta-b = 点击 { -pocket-brand-name } 按钮，即可保存文章、视频和链接。您可以随时随地在任何设备上查看阅读列表。
+pocket-panel-signup-cta-b-short = 点击 { -pocket-brand-name } 按钮，即可保存文章、视频和链接。
 pocket-panel-signup-cta-c = 随时随地在任何设备上查看阅读列表。
 
 ## about:pocket-home panel
