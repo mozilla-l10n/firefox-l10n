@@ -57,3 +57,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zavřít
+about-private-browsing-dismiss-button =
+    .title = Skrýt
