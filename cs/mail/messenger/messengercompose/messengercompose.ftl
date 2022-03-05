@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
@@ -45,7 +45,7 @@ pill-action-expand-list =
     .label = Rozbalit seznam
     .accesskey = R
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -90,6 +90,14 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Zobrazí lištu příloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Skryje lištu příloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } příloha
+        [one] { $count } příloha
+        [few] { $count } přílohy
+       *[other] { $count } příloh
+    }
 attachment-area-show =
     .title = Zobrazí lištu příloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -102,7 +110,7 @@ drop-file-label-attachment =
     }
 drop-file-label-inline = Vložit do obsahu
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Přesunout na začátek
@@ -116,14 +124,14 @@ button-return-receipt =
     .label = Potvrzení o přijetí
     .tooltiptext = Zažádá o potvrzení o přijetí této zprávy
 
-# Encryption
+## Encryption
 
 message-to-be-signed-icon =
     .alt = Podepsat zprávu
 message-to-be-encrypted-icon =
     .alt = Zašifrovat zprávu
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Komu
@@ -248,3 +256,63 @@ encrypted-bcc-ignore-button = Rozumím
 
 compose-tool-button-remove-text-styling =
     .tooltiptext = Odebrat formátování textu
+
+## FileLink
+
+
+# Template
+
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] Připojil jsem k tomuto e-mailu { $count } soubor:
+        [few] Připojil jsem k tomuto e-mailu { $count } soubory:
+       *[other] Připojil jsem k tomuto e-mailu { $count } souborů:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Zjistit více o službě { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Další informace o službách { $firstLinks } a { $lastLink }.
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Odkaz chráněný heslem
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service = Služba CloudFile:
+cloud-file-template-size = Velikost:
+cloud-file-template-link = Odkaz:
+cloud-file-template-password-protected-link = Odkaz chráněný heslem:
+cloud-file-template-expiry-date = Datum vypršení platnosti:
+cloud-file-template-download-limit = Omezení počtu stažení:
+
+# Messages
+
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Chyba spojení
+cloud-file-connection-error = { -brand-short-name } je offline, ke službě { $provider } se nelze připojit.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Nahrávání souboru { $filename } do služby { $provider } se nezdařilo
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Chyba přejmenování
+cloud-file-rename-error = Vyskytl se problém s přejmenováním souboru { $filename } ve službě { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Přejmenování souboru { $filename } se ve službě { $provider } nezdařilo
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } nepodporuje přejmenování již nahraných souborů.

@@ -183,3 +183,21 @@ decrypt-and-copy-failures =
         [few] { $failures } z { $total } zpráv se nepodařilo dešifrovat a nemohly být zkopírovány.
        *[other] { $failures } z { $total } zpráv se nepodařilo dešifrovat a nemohlo být zkopírováno.
     }
+
+## Spaces toolbar
+
+spaces-toolbar-button-mail =
+    .title = Přepnout na panel s poštou
+spaces-toolbar-button-address-book =
+    .title = Přepnout na panel s kontakty
+spaces-toolbar-button-calendar =
+    .title = Přepnout na panel s kalendářem
+spaces-toolbar-button-tasks =
+    .title = Přepnout na panel s úkoly
+spaces-toolbar-button-chat =
+    .title = Přepnout na panel s chatem
+spaces-toolbar-button-settings =
+    .title = Přepnout na panel s nastavením
+
+## Spaces toolbar pinned tab menupopup
+
