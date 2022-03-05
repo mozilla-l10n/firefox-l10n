@@ -465,6 +465,9 @@ update-application-warning-cross-user-setting =
 update-application-use-service =
     .label = K instalaci aktualizací použít službu na pozadí
     .accesskey = b
+update-application-suppress-prompts =
+    .label = Ukazovat méně oznámení o aktualizacích
+    .accesskey = n
 update-setting-write-failure-title2 = Chyba při ukládání nastavení aktualizací
 # Variables:
 #   $path (String) - Path to the configuration file
