@@ -46,6 +46,7 @@ addr-book-ldif-file = File LDIF (.ldif)
 addr-book-vcard-file = File vCard (.vcf, .vcard)
 addr-book-mab-file = File di database Mork (.mab)
 addr-book-file-picker = Seleziona un file di rubrica
+addr-book-directories-pane-title = Seleziona la cartella in cui effettuare l’importazione:
 addr-book-directories-pane-source = File di origine:
 addr-book-import-into-new-directory = Crea una nuova cartella
 
