@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Ajustes
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar ajustes…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Editar ajustes…
 profiler-popup-disabled =
     El perfilador está actualmente desactivado, probablemente debido a una ventana de navegación privada
      abierta.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Editar ajustes…
 profiler-popup-recording-screen = Grabando…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Configuración recomendada para la depuración de la mayoría de aplicaciones web, con poca sobrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desarrollador web
-profiler-popup-presets-firefox-platform-description = Configuración predeterminada recomendada para la depuración interna de la plataforma Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Plataforma Firefox
-profiler-popup-presets-firefox-front-end-description = Configuración predeterminada recomendada para la depuración interna de la interfaz de Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Interfaz de Firefox
-profiler-popup-presets-firefox-graphics-description = Configuración predeterminada para la investigación de rendimiento gráfico de Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Gráficos de Firefox
-profiler-popup-presets-media-description = Configuración predeterminada para diagnosticar problemas de audio y vídeo.
 profiler-popup-presets-firefox-description = Valor predeterminado recomendado para la creación de perfiles { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Enviar opinión…
     .accesskey = v
+appmenu-help-share-ideas =
+    .label = Compartir ideas y opiniones…
+    .accesskey = s
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
