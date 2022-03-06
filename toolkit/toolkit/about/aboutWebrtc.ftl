@@ -7,17 +7,17 @@
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
 # The text "WebRTC" is a proper noun and should not be translated.
-about-webrtc-document-title = Внутренности WebRTC
+about-webrtc-document-title = Свойства WebRTC
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
-about-webrtc-save-page-dialog-title = Сохранить about:webrtc как
+about-webrtc-save-page-dialog-title = сохранить about:webrtc как
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = Лог AEC
-about-webrtc-aec-logging-off-state-label = Начать вести лог AEC
-about-webrtc-aec-logging-on-state-label = Прекратить вести лог AEC
-about-webrtc-aec-logging-on-state-msg = Ведение лога AEC включено (поговорите с абонентом в течение нескольких минут, а затем остановите захват)
+about-webrtc-aec-logging-msg-label = Запись AEC
+about-webrtc-aec-logging-off-state-label = Начать запись AEC
+about-webrtc-aec-logging-on-state-label = Остановить запись AEC
+about-webrtc-aec-logging-on-state-msg = Запись AEC ведётся (поговорите с абонентом несколько минут, а затем остановите захват)
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Автообновление
 
@@ -26,17 +26,17 @@ about-webrtc-auto-refresh-label = Автообновление
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
-about-webrtc-peerconnection-id-label = Идентификатор PeerConnection:
+about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Локальный SDP
-about-webrtc-local-sdp-heading-offer = Локальный SDP (Предложение)
+about-webrtc-local-sdp-heading-offer = Локальный SDP (Попытка)
 about-webrtc-local-sdp-heading-answer = Локальный SDP (Ответ)
 about-webrtc-remote-sdp-heading = Удалённый SDP
-about-webrtc-remote-sdp-heading-offer = Удалённый SDP (Предложение)
+about-webrtc-remote-sdp-heading-offer = Удалённый SDP (Попытка)
 about-webrtc-remote-sdp-heading-answer = Удалённый SDP (Ответ)
 about-webrtc-sdp-history-heading = История SDP
 about-webrtc-sdp-parsing-errors-heading = Ошибки разбора SDP
@@ -58,7 +58,7 @@ about-webrtc-ice-restart-count-label = Перезапуски ICE:
 about-webrtc-ice-rollback-count-label = Откаты ICE:
 about-webrtc-ice-pair-bytes-sent = Байтов отправлено:
 about-webrtc-ice-pair-bytes-received = Байтов получено:
-about-webrtc-ice-component-id = Идентификатор компонента
+about-webrtc-ice-component-id = ID компонента
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
@@ -76,7 +76,7 @@ about-webrtc-type-remote = Удалённый
 
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
-about-webrtc-nominated = Номинировано
+about-webrtc-nominated = Предложено
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
@@ -87,12 +87,12 @@ about-webrtc-debug-mode-off-state-label = Войти в режим отладк�
 about-webrtc-debug-mode-on-state-label = Выйти из режима отладки
 about-webrtc-stats-heading = Статистика сессии
 about-webrtc-stats-clear = Удалить историю
-about-webrtc-log-heading = Лог соединения
-about-webrtc-log-clear = Удалить лог
-about-webrtc-log-show-msg = показать лог
-    .title = щёлкните, чтобы развернуть этот раздел
-about-webrtc-log-hide-msg = скрыть лог
-    .title = щёлкните, чтобы свернуть этот раздел
+about-webrtc-log-heading = Журнал соединения
+about-webrtc-log-clear = Удалить журнал
+about-webrtc-log-show-msg = показать журнал
+    .title = нажмите, чтобы развернуть этот раздел
+about-webrtc-log-hide-msg = скрыть журнал
+    .title = нажмите, чтобы свернуть этот раздел
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -102,7 +102,7 @@ about-webrtc-log-hide-msg = скрыть лог
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
-about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (закрыто) { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (закрыт) { $now }
 
 ##
 
@@ -112,14 +112,14 @@ about-webrtc-raw-candidates-heading = Все необработанные кан
 about-webrtc-raw-local-candidate = Необработанный локальный кандидат
 about-webrtc-raw-remote-candidate = Необработанный удалённый кандидат
 about-webrtc-raw-cand-show-msg = показать необработанных кандидатов
-    .title = щёлкните, чтобы развернуть этот раздел
+    .title = нажмите, чтобы развернуть этот раздел
 about-webrtc-raw-cand-hide-msg = скрыть необработанных кандидатов
-    .title = щёлкните, чтобы свернуть этот раздел
-about-webrtc-priority = Приоритет
+    .title = нажмите, чтобы свернуть этот раздел
+about-webrtc-priority = Очерёдность
 about-webrtc-fold-show-msg = показать подробности
-    .title = щёлкните, чтобы развернуть этот раздел
+    .title = нажмите, чтобы развернуть этот раздел
 about-webrtc-fold-hide-msg = скрыть подробности
-    .title = щёлкните, чтобы свернуть этот раздел
+    .title = нажмите, чтобы свернуть этот раздел
 about-webrtc-dropped-frames-label = Пропущенные кадры:
 about-webrtc-discarded-packets-label = Отброшенные пакеты:
 about-webrtc-decoder-label = Декодер
@@ -130,32 +130,32 @@ about-webrtc-width-px = Ширина (px)
 about-webrtc-height-px = Высота (px)
 about-webrtc-consecutive-frames = Последовательные кадры
 about-webrtc-time-elapsed = Затраченное время (с)
-about-webrtc-estimated-framerate = Расчетная частота кадров
+about-webrtc-estimated-framerate = Расчётная частота кадров
 about-webrtc-rotation-degrees = Вращение (градусы)
-about-webrtc-first-frame-timestamp = Метка времени приема первого кадра
-about-webrtc-last-frame-timestamp = Метка времени приема последнего кадра
+about-webrtc-first-frame-timestamp = Метка времени приёма первого кадра
+about-webrtc-last-frame-timestamp = Метка времени приёма последнего кадра
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 # This is an SSRC on the local side of the connection that is receiving RTP
-about-webrtc-local-receive-ssrc = Локально принимающий SSRC
+about-webrtc-local-receive-ssrc = SSRC локального приёма
 # This is an SSRC on the remote side of the connection that is sending RTP
-about-webrtc-remote-send-ssrc = Удалённо отправляющий SSRC
+about-webrtc-remote-send-ssrc = SSRC удалённой отправки
 
 ##
 
 # An option whose value will not be displayed but instead noted as having been
 # provided
-about-webrtc-configuration-element-provided = Предоставлено
+about-webrtc-configuration-element-provided = Установлено
 # An option whose value will not be displayed but instead noted as having not
 # been provided
-about-webrtc-configuration-element-not-provided = Не предоставлено
+about-webrtc-configuration-element-not-provided = Не установлено
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Пользовательские настройки WebRTC
 # Section header for estimated bandwidths of WebRTC media flows
-about-webrtc-bandwidth-stats-heading = Расчетная пропускная способность
+about-webrtc-bandwidth-stats-heading = Расчётная пропускная способность
 # The ID of the MediaStreamTrack
-about-webrtc-track-identifier = Идентификатор трека
+about-webrtc-track-identifier = Идентификатор отслеживания
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Пропускная способность отправки (байт/сек)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
@@ -179,12 +179,30 @@ about-webrtc-frame-stats-heading = Статистика видеокадров -
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = страница сохранена в: { $path }
-about-webrtc-debug-mode-off-state-msg = лог трассировки можно найти в: { $path }
-about-webrtc-debug-mode-on-state-msg = режим отладки активен, лог трассировки в: { $path }
-about-webrtc-aec-logging-off-state-msg = файлы логов захвата можно найти в: { $path }
+about-webrtc-debug-mode-off-state-msg = журнал отслеживания можно найти в: { $path }
+about-webrtc-debug-mode-on-state-msg = режим отладки активен, журнал отслеживания в: { $path }
+about-webrtc-aec-logging-off-state-msg = файлы журнала захвата можно найти в: { $path }
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } кадр
+        [few] { $frames } кадра
+       *[many] { $frames } кадров
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } канал
+        [few] { $channels } канала
+       *[many] { $channels } каналов
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -220,7 +238,7 @@ about-webrtc-jitter-label = Джиттер { $jitter }
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
-about-webrtc-trickle-caption-msg = Просочившиеся кандидаты (прибывшие после ответа) подсвечены синим
+about-webrtc-trickle-caption-msg = Поток кандидатов (после ответа) подсвечен синим
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -228,11 +246,11 @@ about-webrtc-trickle-caption-msg = Просочившиеся кандидаты
 # This is used as a header for local SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
-about-webrtc-sdp-set-at-timestamp-local = Установить Локальный SDP на метку времени { NUMBER($timestamp, useGrouping: "false") }
+about-webrtc-sdp-set-at-timestamp-local = Установить для локального SDP метку времени { NUMBER($timestamp, useGrouping: "false") }
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
-about-webrtc-sdp-set-at-timestamp-remote = Установить Удалённый SDP на метку времени { NUMBER($timestamp, useGrouping: "false") }
+about-webrtc-sdp-set-at-timestamp-remote = Установить для удалённого SDP метку времени { NUMBER($timestamp, useGrouping: "false") }
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

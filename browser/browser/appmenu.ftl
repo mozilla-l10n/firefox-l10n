@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Настройки
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Изменить настройки…
+profiler-popup-disabled = Профайлер в настоящее время отключён, скорее всего, из-за того, что открыто приватное окно.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Изменить настройки…
-profiler-popup-disabled = Профайлер в настоящее время отключён, скорее всего, из-за того, что открыто приватное окно.
 profiler-popup-recording-screen = Запись…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -233,27 +233,30 @@ appmenu-help-report-site-issue =
     .label = Сообщить о проблеме с сайтом…
 appmenu-help-feedback-page =
     .label = Отправить отзыв…
-    .accesskey = т
+    .accesskey = О
+appmenu-help-share-ideas =
+    .label = Поделиться идеей или оставить отзыв…
+    .accesskey = д
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Безопасный режим…
-    .accesskey = й
+    .accesskey = Б
 appmenu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
-    .accesskey = п
+    .accesskey = Б
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
     .label = Сообщить о поддельном сайте…
-    .accesskey = б
+    .accesskey = п
 appmenu-help-not-deceptive =
     .label = Это не поддельный сайт…
-    .accesskey = е
+    .accesskey = п
 
 ## More Tools
 
