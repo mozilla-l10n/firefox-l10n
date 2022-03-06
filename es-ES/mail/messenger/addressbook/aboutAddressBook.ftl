@@ -132,6 +132,8 @@ about-addressbook-details-phone-numbers-header = Números de teléfono
 about-addressbook-details-home-address-header = Dirección personal
 about-addressbook-details-work-address-header = Dirección de trabajo
 about-addressbook-details-other-info-header = Otra información
+about-addressbook-unsaved-changes-prompt-title = Cambios sin guardar
+about-addressbook-unsaved-changes-prompt = ¿Desea guardar los cambios antes de salir de la vista de edición?
 
 # Photo dialog
 
