@@ -165,7 +165,7 @@ spotlight-total-cookie-protection-secondary-button = Не сейчас
 spotlight-better-internet-header = Лучший Интернет начинается с вас
 spotlight-better-internet-body = Когда вы используете { -brand-short-name }, вы выбираете открытый и доступный Интернет, лучший для каждого.
 spotlight-peace-mind-header = Мы заботимся о вас
-spotlight-peace-mind-body = В среднем каждый месяц { -brand-short-name } блокирует более 3000 трекеров у пользователя. Ничего, а особенно такие проблемы приватности, как трекеры, не должны стоять между вами и хорошим Интернетом.
+spotlight-peace-mind-body = В среднем каждый месяц { -brand-short-name } блокирует у каждого пользователя более 3000 трекеров. Ничего, а особенно такие проблемы приватности, как трекеры, не должно стоять между вами и хорошим Интернетом.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Добавить в Dock
