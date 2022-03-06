@@ -19,6 +19,11 @@ button-continue = Pokračovat
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Import z aplikace { $app }
@@ -27,14 +32,28 @@ profile-file-picker-dir = Vyberte složku profilu
 profile-file-picker-zip = Vyberte soubor ZIP (menší než 2 GB)
 items-pane-title = Zvolte, co chcete importovat
 items-pane-desc = Importovat z
+items-pane-source = Umístění zdroje:
 items-pane-checkbox-accounts = Účty a nastavení
 items-pane-checkbox-address-books = Kontakty
 items-pane-checkbox-calendars = Kalendáře
 items-pane-checkbox-mail-messages = E-mailové zprávy
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Vyberte typ souboru, který chcete importovat:
+addr-book-csv-file = Soubor s hodnotami oddělenými čárkami nebo tabulátory (.csv, .tsv)
+addr-book-ldif-file = Soubor LDIF (.ldif)
+addr-book-vcard-file = Soubor vCard (.vcf, .vcard)
+addr-book-mab-file = Databáze Mork (.mab)
+addr-book-file-picker = Vyberte soubor s kontakty
+addr-book-directories-pane-title = Vyberte adresář, kam chcete kontakty importovat:
+addr-book-directories-pane-source = Zdrojový soubor:
+addr-book-import-into-new-directory = Vytvořit nový adresář
+
 ## Import dialog
 
 progress-pane-title = Probíhá import
+progress-pane-finished-desc = Dokončeno.
 progress-pane-restart-desc = Pro dokončení importu restartujte aplikaci.
 error-pane-title = Chyba
 error-message-zip-file-too-big = Vybraný soubor ZIP je větší než 2 GB. Nejprve ho prosím rozbalte na disk a poté importujte rozbalený adresář.

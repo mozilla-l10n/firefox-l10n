@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-progress-header =
+    { -brand-short-name.gender ->
+        [masculine] Příprava { -brand-short-name(case: "gen") }…
+        [feminine] Příprava { -brand-short-name(case: "gen") }…
+        [neuter] Příprava { -brand-short-name(case: "gen") }…
+       *[other] Příprava aplikace { -brand-short-name }…
+    }
 
 ## Migration tasks
 
