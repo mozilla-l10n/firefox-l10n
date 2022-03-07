@@ -84,6 +84,13 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Kuva manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Peida manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } manus
+        [one] { $count } manus
+       *[other] { $count } manust
+    }
 attachment-area-show =
     .title = Kuva manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -251,13 +258,6 @@ cloud-file-count-header =
     { $count ->
         [one] Linkisin selle kirjaga { $count } faili:
        *[other] Linkisin selle kirjaga { $count } faili:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Rohkem teavet teenuse { $lastLink } kohta.
-       *[other] Rohkem teavet teenuste { $firstLinks } ja { $lastLink } kohta.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.

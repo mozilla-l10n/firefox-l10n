@@ -4,6 +4,7 @@
 
 otr-add-finger =
     .title = OTR-võtme sõrmejälje lisamine
+otr-add-finger-title = OTR-võtme sõrmejälje lisamine
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
