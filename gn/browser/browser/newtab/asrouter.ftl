@@ -161,6 +161,7 @@ spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
 spotlight-better-internet-header = Ñanduti iporãváva oñepyrũ nendive
 spotlight-better-internet-body = Eipurúvo { -brand-short-name }, emoneĩ peteĩ ñanduti ijuruja ha hepy’ỹva iporãvéva opavave g̃uarã.
 spotlight-peace-mind-header = Ore romo’ãta
+spotlight-peace-mind-body = Jasy og̃uahẽvo, { -brand-short-name } ojoko hetave 3.000 tapykuehoha peteĩteĩ puruhárape. Avave, ha ãva kuápe oĩ omyangekóiva nde rekoñemi ha’éva tapykuehoha, ndoikeva’erãi nde ha nanduti pa’ũme.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Ereko yrembe’ýpe
