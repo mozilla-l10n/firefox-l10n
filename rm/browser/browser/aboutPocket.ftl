@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Scuvrir temas populars
 pocket-panel-home-discover-more = Scuvrir dapli
 pocket-panel-home-explore-more = Explorar
 pocket-panel-home-most-recent-saves = Qua ils elements memorisads dacurt:
+pocket-panel-home-most-recent-saves-loading = Chargiar elements memorisads dacurt…
 pocket-panel-home-new-user-cta = Clicca sin il buttun { -pocket-brand-name } per memorisar artitgels, videos e colliaziuns.
 pocket-panel-home-new-user-message = Consultescha qua ils elements memorisads dacurt.
 
