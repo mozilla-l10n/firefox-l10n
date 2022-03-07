@@ -153,3 +153,16 @@ spotlight-total-cookie-protection-body = Trình chống cookie chung ngăn nhữ
 spotlight-total-cookie-protection-expanded = { -brand-short-name } xây dựng một hàng rào xung quanh cookie, giới hạn chúng ở trang web bạn đang truy cập để trình theo dõi không thể sử dụng chúng để theo dõi bạn. Với quyền truy cập sớm, bạn sẽ giúp tối ưu hóa tính năng này để chúng tôi có thể tiếp tục xây dựng một trang web tốt hơn cho mọi người.
 spotlight-total-cookie-protection-primary-button = Bật Trình chống cookie chung
 spotlight-total-cookie-protection-secondary-button = Không phải bây giờ
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Internet tốt hơn bắt đầu với bạn
+spotlight-better-internet-body = Khi bạn sử dụng { -brand-short-name }, bạn đang bỏ phiếu cho một Internet mở và có thể truy cập tốt hơn cho tất cả mọi người.
+spotlight-peace-mind-header = Chúng tôi đã giúp bạn được bảo vệ
+spotlight-peace-mind-body = Hàng tháng, { -brand-short-name } chặn trung bình hơn 3.000 trình theo dõi cho mỗi người dùng. Bởi vì không có gì, đặc biệt là những phiền toái về quyền riêng tư như trình theo dõi, có thể ngăn cản bạn và internet tốt.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Giữ trên thanh Dock
+       *[other] Ghim vào thanh tác vụ
+    }
+spotlight-pin-secondary-button = Không phải bây giờ
