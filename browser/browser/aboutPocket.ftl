@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Lưu bài viết và video từ { -brand-product-n
 pocket-panel-signup-tagline-story-one = Nhấp vào nút { -pocket-brand-name } để lưu bất kỳ bài viết, video hoặc trang nào từ { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Xem trên { -pocket-brand-name } ở bất cứ thiết bị và thời gian nào.
 pocket-panel-signup-cta-a = Nút lưu của bạn trên internet.
+pocket-panel-signup-cta-a-fix = Nút lưu của bạn trên internet
 pocket-panel-signup-cta-b = Nhấp vào nút { -pocket-brand-name } để lưu các bài báo, video và liên kết. Xem danh sách của bạn trên mọi thiết bị, bất kỳ lúc nào.
+pocket-panel-signup-cta-b-short = Nhấp vào nút { -pocket-brand-name } để lưu các bài báo, video và liên kết.
 pocket-panel-signup-cta-c = Xem danh sách của bạn trên mọi thiết bị, bất kỳ lúc nào.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Khám phá các chủ đề phổ bi�
 pocket-panel-home-discover-more = Khám phá nhiều hơn
 pocket-panel-home-explore-more = Khám phá
 pocket-panel-home-most-recent-saves = Đây là những lần lưu gần đây nhất của bạn:
+pocket-panel-home-most-recent-saves-loading = Đang tải các bản lưu gần đây…
 pocket-panel-home-new-user-cta = Nhấp vào nút { -pocket-brand-name } để lưu các bài báo, video và liên kết.
 pocket-panel-home-new-user-message = Xem các lần lưu gần đây của bạn tại đây.
 
