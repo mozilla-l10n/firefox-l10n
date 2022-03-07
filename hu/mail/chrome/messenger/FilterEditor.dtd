@@ -27,7 +27,6 @@
 <!ENTITY contextOutgoing.accesskey "d">
 <!ENTITY contextArchive.label "Archiválás">
 <!ENTITY contextArchive.accesskey "A">
-
 <!ENTITY contextPeriodic.accesskey "p">
 
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
