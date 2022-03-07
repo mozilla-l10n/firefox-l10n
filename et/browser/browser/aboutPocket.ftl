@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Salvesta { -brand-product-name }ist artikleid ja v
 pocket-panel-signup-tagline-story-one = Artikli, video või lehe salvestamiseks klõpsa { -pocket-brand-name }i nupul.
 pocket-panel-signup-tagline-story-two = Vaata { -pocket-brand-name }ist kõigil seadmeil just siis, kui ise soovid.
 pocket-panel-signup-cta-a = Sinu interneti salvestamise nupp.
+pocket-panel-signup-cta-a-fix = Sinu interneti salvestamise nupp
 pocket-panel-signup-cta-b = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu. Vaata oma nimekirja mis tahes seadmes ja igal ajal.
+pocket-panel-signup-cta-b-short = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu.
 pocket-panel-signup-cta-c = Vaata oma nimekirja mis tahes seadmes ja igal ajal.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Avasta populaarseid teemasid
 pocket-panel-home-discover-more = Leia veel
 pocket-panel-home-explore-more = Avasta
 pocket-panel-home-most-recent-saves = Siin on sinu viimati salvestatud lingid:
+pocket-panel-home-most-recent-saves-loading = Laaditakse hiljutisi salvestamisi…
 pocket-panel-home-new-user-cta = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu.
 pocket-panel-home-new-user-message = Vaata oma viimati salvestatud linke siit.
 
