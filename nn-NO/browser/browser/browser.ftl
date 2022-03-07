@@ -363,7 +363,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importer bokmerke…
     .tooltiptext = Importer bokmerke frå ein annean nettlesar til { -brand-short-name }.
-bookmarks-toolbar-empty-message = Plasser bokmerka dine her på bokmerkeverktøylinja for rask tilgang. <a data-l10n-name="manage-bookmarks">Handter bokmerke…</a>
+bookmarks-toolbar-empty-message = Plasser bokmerka dine her på bokmerkeverktøylinja for rask tilgang. <a data-l10n-name="manage-bookmarks">Handsam bokmerke…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -518,7 +518,7 @@ urlbar-result-action-search-tabs = Søk i faner
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -556,7 +556,7 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Handter bokmerke
+    .label = Handsam bokmerke
 bookmarks-recent-bookmarks-panel-subheader = Nylege bokmerke
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis fleire bokmerke
@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Skriv ut
     .tooltiptext = Skriv ut denne sida… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Skriv ut
-    .tooltiptext = Skriv ut denne sida
 navbar-home =
     .label = Startside
     .tooltiptext = { -brand-short-name } Startside
