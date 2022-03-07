@@ -5,6 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Sulge
     .title = Varem nähtud OTR-sõrmejäljed
+otr-finger-title = Varem nähtud OTRi sõrmejäljed
 finger-intro = OTRi võtmete sõrmejäljed varasematest otspunktkrüptitud vestustest.
 finger-screen-name =
     .label = Kontakt

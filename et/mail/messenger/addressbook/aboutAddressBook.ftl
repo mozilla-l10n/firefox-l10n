@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Telefoninumbrid
 about-addressbook-details-home-address-header = Kodune aadress
 about-addressbook-details-work-address-header = Tööaadress
 about-addressbook-details-other-info-header = Muu info
-about-addressbook-prompt-to-save-title = Kas salvestada muudatused?
-about-addressbook-prompt-to-save = Kas soovid oma muudatused salvestada?
+about-addressbook-unsaved-changes-prompt-title = Salvestamata muudatused
+about-addressbook-unsaved-changes-prompt = Kas soovid enne redigeerimisvaatest väljumist muudatused salvestada?
 
 # Photo dialog
 
