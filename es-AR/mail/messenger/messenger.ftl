@@ -173,7 +173,7 @@ decrypt-and-copy-failures = { $failures } de { $total } mensajes no pudieron ser
 ## Spaces toolbar
 
 spaces-toolbar =
-    .toolbarname = Barra de herramientas Espacios
+    .toolbarname = Barra de herramientas de Espacios
 spaces-toolbar-button-mail =
     .title = Cambiar a la pestaña de Correo
 spaces-toolbar-button-address-book =
@@ -188,6 +188,8 @@ spaces-toolbar-button-settings =
     .title = Cambiar a la pestaña de Preferencias
 spaces-toolbar-button-collapse =
     .title = Contraer la barra de Espacios
+spaces-toolbar-button-reveal =
+    .title = Mostrar la barra de Espacios
 spaces-context-new-tab-item =
     .label = Abrir en una nueva pestaña
 spaces-context-new-window-item =
@@ -205,6 +207,8 @@ settings-context-open-addons-item =
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Abrir menú de Espacios
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
