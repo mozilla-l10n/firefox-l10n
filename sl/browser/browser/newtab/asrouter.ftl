@@ -165,3 +165,12 @@ spotlight-total-cookie-protection-secondary-button = Ne zdaj
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Boljši internet se začenja z vami
+spotlight-better-internet-body = Z uporabo { -brand-short-name(sklon: "rodilnik") } daste svoj glas odprtemu in dostopnemu internetu, ki bo boljši za vsakogar.
+spotlight-peace-mind-header = Stojimo vam ob strani
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Obdrži v Docku
+       *[other] Pripni v opravilno vrstico
+    }
+spotlight-pin-secondary-button = Ne zdaj
