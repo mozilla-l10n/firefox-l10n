@@ -154,3 +154,16 @@ spotlight-total-cookie-protection-body = Täielik küpsistevastane kaitse takist
 spotlight-total-cookie-protection-expanded = { -brand-short-name } ehitab küpsiste ümber aia, piirates need ühele saidile, nii et jälitajad ei saa neid sinu jälitamiseks kasutada. Varase ligipääsu kaudu aitad meil seda funktsionaalsust optimeerida, nii et saaksime ehitada parema veebi kõigile.
 spotlight-total-cookie-protection-primary-button = Lülita sisse täielik küpsiste vastane kaitse
 spotlight-total-cookie-protection-secondary-button = Mitte praegu
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Parem internet algab sinust endast
+spotlight-better-internet-body = Kasutades { -brand-short-name }i, hääletad sa avatud ja juurdepääsetava interneti poolt, mis on kõigile parem.
+spotlight-peace-mind-header = Hoolime sinu turvalisusest
+spotlight-peace-mind-body = Iga kuu blokib { -brand-short-name } keskmiselt 3,000 jälitajat kasutaja kohta. Seda selleks, et mitte miski, eriti privaatsuse ära kasutamine jälitajatega, ei tohiks seista sinu ja hea interneti vahel.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Hoia dokis
+       *[other] Kinnita tegumiribale
+    }
+spotlight-pin-secondary-button = Mitte praegu
