@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Enregistrez des articles et des vidéos depuis { -
 pocket-panel-signup-tagline-story-one = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer depuis { -brand-product-name } n’importe quel article, vidéo ou page.
 pocket-panel-signup-tagline-story-two = Affichez vos pages dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
 pocket-panel-signup-cta-a = Votre bouton « enregistrer » pour Internet.
+pocket-panel-signup-cta-a-fix = Votre bouton « enregistrer » pour Internet
 pocket-panel-signup-cta-b = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens. Consultez votre liste sur tout autre appareil, quand vous le voulez.
+pocket-panel-signup-cta-b-short = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens.
 pocket-panel-signup-cta-c = Consultez votre liste sur n’importe quel appareil, à tout moment.
 
 ## about:pocket-home panel
