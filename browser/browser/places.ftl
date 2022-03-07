@@ -120,7 +120,7 @@ places-delete-bookmark =
         }
     .accesskey = S
 places-manage-bookmarks =
-    .label = Handter bokmerke
+    .label = Handsam bokmerke
     .accesskey = H
 places-forget-about-this-site-confirmation-title = Gløymer denne nettstaden
 # Variables:
