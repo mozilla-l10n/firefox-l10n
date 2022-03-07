@@ -4,3 +4,20 @@
 
 account-settings-title = Authentifizierungs-Einstellungen
 account-channel-title = Standardräume
+
+chat-autologin =
+    .label = Automatisches Verbinden beim Start
+
+chat-encryption-generic = Allgemein
+chat-encryption-log =
+    .label = Ende-zu-Ende-verschlüsselte Nachrichten ebenfalls in Gesprächsprotokoll aufnehmen
+chat-encryption-label = Eingebaute Ende-zu-Ende-Verschlüsselung
+chat-encryption-description = { $protocol } unterstützt die Ende-zu-Ende-Verschlüsselung von Chat-Nachrichten. Dies verhindert das Mitlesen der Nachrichten durch Dritte. Zur Unterstützung der Verschlüsselung ist eventuell unten eine Einrichtung nötig.
+chat-encryption-status = Verschlüsselungsstatus
+chat-encryption-placeholder = Verschlüsselung wurde nicht gestartet.
+chat-encryption-sessions = Sitzungen
+chat-encryption-sessions-description = Damit die Ende-zu-Ende-Verschlüsselung wie erwartet funktioniert, müssen Sie den anderen Sitzungen vertrauen, welche derzeit mit Ihrem Konto angemeldet sind. Dabei wird zum Bestätigen einer Sitzung eine Interaktion mit deren Client benötigt. Das Bestätigen des Vertrauens in eine Sitzung führt eventuell dazu, dass { -brand-short-name } allen Sitzungen vertraut, dem diese Sitzung bereits vertraute.
+chat-encryption-session-verify = bestätigen
+    .title = Identität der Sitzung bestätigen
+chat-encryption-session-trusted = vertraut
+    .title = Identität der Sitzung wurde bestätigt.

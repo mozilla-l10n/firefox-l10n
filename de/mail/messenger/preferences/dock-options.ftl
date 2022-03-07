@@ -6,6 +6,10 @@ dock-options-window-dialog =
     .title = Dock-Symbol - Einstellungen
     .style = width: 35em;
 
+dock-options-show-badge =
+    .label = Zähler am Dock-Symbol anzeigen
+    .accesskey = Z
+
 bounce-system-dock-icon =
     .label = Dock-Symbol beim Eingang neuer Nachrichten animieren
     .accesskey = a
@@ -24,3 +28,5 @@ count-new-messages-radio =
     .accesskey = n
 
 notification-settings-info = Der Zähler kann in der Mitteilungen-Ansicht der Systemeinstellungen deaktiviert werden.
+
+notification-settings-info2 = Der Zähler kann in der Mitteilungen-Ansicht der Systemeinstellungen deaktiviert werden.
