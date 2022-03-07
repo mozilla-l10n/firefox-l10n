@@ -7,6 +7,8 @@ close-button =
 
 preferences-doc-title = Einstellungen
 
+preferences-doc-title2 = Einstellungen
+
 category-list =
     .aria-label = Kategorien
 
@@ -168,9 +170,18 @@ default-search-engine = Standardsuchmaschine
 add-search-engine =
     .label = Aus Datei hinzufügen
     .accesskey = D
+add-web-search-engine =
+    .label = Hinzufügen…
+    .accesskey = H
 remove-search-engine =
     .label = Entfernen
     .accesskey = f
+
+add-opensearch-provider-title = OpenSearch-Anbieter hinzufügen
+add-opensearch-provider-text = Geben Sie die Adresse des hinzuzufügenden OpenSearch-Anbieters ein. Verwenden Sie entweder die Adresse der OpenSearch-Definitionsdatei oder eine Webadresse, auf der sie sich automatisch erkennen lässt.
+
+adding-opensearch-provider-failed-title = Hinzufügen des OpenSearch-Anbieters fehlgeschlagen
+adding-opensearch-provider-failed-text = OpenSearch-Anbieter unter { $url } konnte nicht hinzugefügt werden.
 
 minimize-to-tray-label =
     .label = { -brand-short-name } beim Minimieren in die Infoleiste verschieben
@@ -198,6 +209,8 @@ app-icon-options =
     .accesskey = D
 
 notification-settings = Benachrichtigungen und Standardton können in der Mitteilungszentrale der Systemeinstellungen deaktiviert werden.
+
+notification-settings2 = Benachrichtigungen und Standardton können in der Mitteilungszentrale der Systemeinstellungen deaktiviert werden.
 
 animated-alert-label =
     .label = Eine Benachrichtigung anzeigen
@@ -252,6 +265,10 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Sanften Bildlauf aktivieren
     .accesskey = f
+
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Bildlaufleisten immer anzeigen
+    .accesskey = B
 
 system-integration-legend = Systemintegration
 always-check-default =
@@ -413,7 +430,11 @@ search-handler-table =
 
 type-column-label = Dateityp
 
+type-column-header = Dateityp
+
 action-column-label = Aktion
+
+action-column-header = Aktion
 
 save-to-label =
     .label = Dateien speichern unter
@@ -889,10 +910,30 @@ search-preferences-input =
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = In Einstellungen suchen
+
+## Settings UI Search Results
+
 search-results-header = Suchergebnisse
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message = { PLATFORM() ->
+    [windows] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
+    *[other] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
+}
+
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = { PLATFORM() ->
     [windows] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
     *[other] Keine Treffer in den Einstellungen für "<span data-l10n-name="query"></span>".
 }
