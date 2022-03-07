@@ -306,6 +306,7 @@ mr2-onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Eiporavo ne ñe’ẽte
+onboarding-live-language-subtitle = { -brand-short-name } oipuruhína { $appLanguage } pe apopyvusu katu oipuru { $systemLanguage }.
 onboarding-live-language-switch-button-label = Eike { $negotiatedLanguage }-pe
 onboarding-live-language-button-label-downloading = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
 onboarding-live-language-waiting-subtitle = Ha’ete pe nde apopyvusu ha { -brand-short-name } oipuruvahína opaichaguarei ñe’ẽ.
