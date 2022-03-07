@@ -154,3 +154,9 @@ spotlight-total-cookie-protection-body = Total Cookie Protection-ը կանգնե
 spotlight-total-cookie-protection-expanded = { -brand-short-name }-ը սահմանափակում է թխուկների գործածումը, հետագծիչները չեն կարող գործածել դրանք ձեզ հետեւելու համար: Նախնական տարբերակում, դուք կարող էք աւգնել զարգացնել այս յաւելուածը աւելի անվտանգ ցանց կառուցելու համար:
 spotlight-total-cookie-protection-primary-button = Միացնել «Total Cookie Protection»-ը
 spotlight-total-cookie-protection-secondary-button = Ոչ հիմայ
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Որակեալ համացանցը սկսուում է ձեզնից
+spotlight-better-internet-body = { -brand-short-name } ֊ը աւգտագործելով, դուք նպաստում էք ազատ եւ հասանելի համացանցի ապահովմանը։
+spotlight-peace-mind-header = Մենք մտահոգուում ենք ձեր մասին
