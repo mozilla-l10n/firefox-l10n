@@ -363,6 +363,14 @@ update-application-suppress-prompts =
     .label = Ցուցադրել թարմացման աւելի քիչ ծանուցումներ
     .accesskey = n
 update-setting-write-failure-title2 = Թարմացման կարգաւորումների պահպանման սխալ
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name }-ը յայտնաբերել է սխալ եւ չի պահել փոփոխութիւնները։ Թարմացման այս կարգաւորման թարմացման համար հարկաւոր է արտաւնութիւններ ներքեւում առկայ նիշում փոփոխութիւններ իրականացնելու համար։ Դուք կամ համակարգի վարիչը կարող էք լուծել խնդիրը Աւգտատէրերի խմբին ամբողջական հասանելիութիւն տալու միջոցով։
+    
+    Չյաջողուեց գրառումներ անել. { $path }
 update-in-progress-title = Արդիացուում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարուել
@@ -399,6 +407,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Աւգտագործել կոկիկ թերթումը
     .accesskey = ո
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Մշտապէս ցուցադրել ոլորագաւտիները
+    .accesskey = o
 browsing-use-onscreen-keyboard =
     .label = Անհրաժեշտութեան դէպքում ցուցադրել հպաստեղնաշարը
     .accesskey = հ

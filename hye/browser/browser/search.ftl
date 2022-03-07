@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = Որոնում
 searchbar-icon =
     .tooltiptext = Որոնում
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>Որոնման սարքը փոփոխուել է։</strong> { -brand-short-name }-ն այղեւս չի սատարում { $oldEngine } որոնման սարքը։ { $newEngine } գործում է որպէս լռելեայն։ Լռելեայն որոնման սարքի փոփոխման համար, հարկաւոր է անցնել կարգաւորումների դաշտ: <label data-l10n-name="remove-search-engine-article">Իմանալ աւելին</label>
+remove-search-engine-button = Լաւ

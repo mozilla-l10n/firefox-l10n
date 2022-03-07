@@ -160,3 +160,10 @@ spotlight-total-cookie-protection-secondary-button = Ոչ հիմայ
 spotlight-better-internet-header = Որակեալ համացանցը սկսուում է ձեզնից
 spotlight-better-internet-body = { -brand-short-name } ֊ը աւգտագործելով, դուք նպաստում էք ազատ եւ հասանելի համացանցի ապահովմանը։
 spotlight-peace-mind-header = Մենք մտահոգուում ենք ձեր մասին
+spotlight-peace-mind-body = Ամէն ամիս { -brand-short-name }-ն արգեալափակում է միջինում 3,000 հետագծիչ մեկ աւգտատէրի համար։ Անհանգստացնող հանգամանքներ, ինչպիսին աւրինակ հետագծիչներն են՝ չունեն տեղ լավ համացանցի աշխատակերպում։
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Պահել Dock-ում
+       *[other] Կցել խնդրագաւտուն
+    }
+spotlight-pin-secondary-button = Ոչ հիմա
