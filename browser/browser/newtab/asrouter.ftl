@@ -156,3 +156,16 @@ spotlight-total-cookie-protection-body = La protecziun totala cunter cookies imp
 spotlight-total-cookie-protection-expanded = { -brand-short-name } construescha ina saiv enturn cookies, cun als limitar a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar. Cun duvrar gia ussa questa funcziun gidas ti a l'optimar per che nus possian crear in meglier web per ina e mintgin.
 spotlight-total-cookie-protection-primary-button = Activar la protecziun totala cunter cookies
 spotlight-total-cookie-protection-secondary-button = Betg ussa
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = In meglier internet cumenza cun tai
+spotlight-better-internet-body = Sche ti utiliseschas { -brand-short-name } sustegnas ti in internet avert ed accessibel ch'è meglier per tuts.
+spotlight-peace-mind-header = Adina da tia vart
+spotlight-peace-mind-body = Mintga mais blochescha { -brand-short-name } en media passa 3'000 fastizaders per utilisader. Perquai che nagut – ed oravant tut nagins fastizaders mulestus che sutmineschan la protecziun da datas – duain impedir che ti survegnias in bun internet.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Fixar en il dock
+       *[other] Fixar en la taskbar
+    }
+spotlight-pin-secondary-button = Betg ussa

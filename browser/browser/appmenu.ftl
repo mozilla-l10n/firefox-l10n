@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Parameters
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifitgar ils parameters…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Modifitgar ils parameters…
 profiler-popup-disabled =
     Il profiler è actualmain deactivà, probablamain pervia dad ina fanestra da
     navigaziun privata ch'è averta.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Modifitgar ils parameters…
 profiler-popup-recording-screen = Registraziun…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Preselecziun recumandada per il debugadi da las bleras web-apps cun pitschen overhead.
 profiler-popup-presets-web-developer-label =
     .label = Svilup web
-profiler-popup-presets-firefox-platform-description = Preselecziun recumandada per il debugadi intern da la plattafurma Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Plattafurma Firefox
-profiler-popup-presets-firefox-front-end-description = Preselecziun recumandada per il debugadi intern da l'interfatscha da Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Interfatscha da Firefox
-profiler-popup-presets-firefox-graphics-description = Preselecziun recumandada per l'examinaziun da la prestaziun grafica da Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Grafica da Firefox
-profiler-popup-presets-media-description = Preselecziun recumandada per diagnostitgar problems dad audio e video.
 profiler-popup-presets-firefox-description = Preselecziun recumandada per il profiladi da { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -245,6 +235,9 @@ appmenu-help-report-site-issue =
     .label = Rapportar in problem cun la pagina…
 appmenu-help-feedback-page =
     .label = Trametter in resun…
+    .accesskey = s
+appmenu-help-share-ideas =
+    .label = Cundivida ideas e resuns…
     .accesskey = s
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
