@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Números de telefone
 about-addressbook-details-home-address-header = Endereço residencial
 about-addressbook-details-work-address-header = Endereço comercial
 about-addressbook-details-other-info-header = Outras informações
-about-addressbook-prompt-to-save-title = Salvar alterações?
-about-addressbook-prompt-to-save = Quer salvar suas alterações?
+about-addressbook-unsaved-changes-prompt-title = Alterações não salvas
+about-addressbook-unsaved-changes-prompt = Quer salvar suas alterações antes de sair do modo de edição?
 
 # Photo dialog
 
