@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Pengaturan
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edit Pengaturan…
+profiler-popup-disabled = Profiler saat ini dimatikan, kemungkinan besar karena jendela Penjelajahan Pribadi terbuka.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Edit Pengaturan…
-profiler-popup-disabled = Profiler saat ini dimatikan, kemungkinan besar karena jendela Penjelajahan Pribadi terbuka.
 profiler-popup-recording-screen = Merekam…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -234,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Kirim Saran…
     .accesskey = S
+appmenu-help-share-ideas =
+    .label = Bagikan ide dan umpan balik…
+    .accesskey = B
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
