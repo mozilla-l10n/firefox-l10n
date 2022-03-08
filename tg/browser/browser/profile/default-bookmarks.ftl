@@ -10,6 +10,10 @@
 default-bookmarks-title = Хатбаракҳо
 default-bookmarks-heading = Хатбаракҳо
 default-bookmarks-toolbarfolder = Ҷузвдони навори хатбаракҳо
+# link title for https://www.mozilla.org/firefox/central/
+default-bookmarks-getting-started = Оғози кор
+# Firefox links folder name
+default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = Гирифтани кумак
 # link title for https://www.mozilla.org/firefox/customize/
@@ -18,3 +22,17 @@ default-bookmarks-firefox-customize = Фармоишдиҳии Firefox
 default-bookmarks-firefox-community = Ҳамроҳ шавед
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Дар бораи мо
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Манбаъҳои «Firefox Nightly»
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Блоги «Firefox Nightly»
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Пайгирикунандаи нуқсонҳои Mozilla
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Шабакаи барномарезии Mozilla
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Абзорҳои санҷиши нашри «Firefox Nightly»
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Ҳамаи садамаҳои браузери шумо
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Сайёраи Mozilla
