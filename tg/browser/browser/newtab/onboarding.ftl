@@ -308,6 +308,11 @@ mr2-onboarding-start-browsing-button-label = Оғоз кардани тамош�
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Забони худро интихоб намоед
+onboarding-live-language-switch-button-label = Ба забони «{ $negotiatedLanguage }» иваз кардан
+onboarding-live-language-button-label-downloading = Боргирии бастаи забон барои «{ $negotiatedLanguage }»…
+onboarding-live-language-waiting-subtitle = Чунин ба назар мерасад, ки низоми шумо ва { -brand-short-name } аз забонҳои гуногун истифода мебаранд.
+onboarding-live-language-waiting-button = Гирифтани забонҳои дастрас…
+onboarding-live-language-installing = Бастаи забони «{ $negotiatedLanguage }» насб шуда истодааст…
 onboarding-live-language-secondary-cancel-download = Бекор кардан
 onboarding-live-language-not-now-button-label = Ҳоло не
 onboarding-live-language-skip-button-label = Нодида гузарондан
