@@ -7,8 +7,8 @@
 
 <!ENTITY newFeedSettings.label         "Configurações padrão para novos feeds">
 
-<!ENTITY manageSubscriptions.label     "Inscrições RSS…">
-<!ENTITY manageSubscriptions.accesskey "I">
+<!ENTITY manageSubscriptions.label     "Gerenciar inscrições…">
+<!ENTITY manageSubscriptions.accesskey "G">
 
 <!ENTITY feedWindowTitle.label         "Assistente de contas de Feed">
 <!ENTITY feeds.accountName             "RSS de blogs e notícias">
