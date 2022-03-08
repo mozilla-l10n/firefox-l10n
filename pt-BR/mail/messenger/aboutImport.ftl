@@ -19,6 +19,9 @@ button-continue = Continuar
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importar de { $app }
@@ -31,6 +34,14 @@ items-pane-checkbox-accounts = Contas e configurações
 items-pane-checkbox-address-books = Catálogos de endereços
 items-pane-checkbox-calendars = Agendas
 items-pane-checkbox-mail-messages = Mensagens de email
+
+## Import from address book file steps
+
+addr-book-csv-file = Arquivo com valores separados por vírgulas ou tabulações (.csv, .tsv)
+addr-book-ldif-file = Arquivo LDIF (.ldif)
+addr-book-vcard-file = Arquivo vCard (.vcf, .vcard)
+addr-book-mab-file = Arquivo de banco de dados Mork (.mab)
+addr-book-file-picker = Selecione um arquivo de catálogo de endereços
 
 ## Import dialog
 
