@@ -5,18 +5,15 @@
 otr-finger =
     .buttonlabelaccept = Fechar
     .title = Impressões digitais de OTR vistas anteriormente
-
+otr-finger-title = Impressões digitais OTR vistas anteriormente
 finger-intro = Impressões digitais das chaves OTR das conversas anteriores criptografadas de ponta a ponta.
-
 finger-screen-name =
     .label = Contato
 finger-verified =
     .label = Status de verificação
 finger-fingerprint =
     .label = Impressão digital
-
 finger-remove =
     .label = Remover selecionados
-
 finger-remove-all =
     .label = Remover tudo
