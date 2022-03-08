@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Танзимот
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Таҳрир кардани танзимот…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Таҳрир кардани танзимот…
 profiler-popup-disabled =
     Эҳтимол, ба сабаби кушода будани равзанаи тамошокунии махфӣ,
     айни замон профилкунанда ғайрифаъол аст.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Таҳрир кардани танзимот…
 profiler-popup-recording-screen = Сабт шуда истодааст…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои аксари барномаҳои веб бо хароҷоти иловагии паст.
 profiler-popup-presets-web-developer-label =
     .label = Барномарезии сомонаҳо
-profiler-popup-presets-firefox-platform-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои дохилии платформаи Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Платформаи Firefox
-profiler-popup-presets-firefox-front-end-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои дохилии қисмати корбарии Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Қисмати корбарии Firefox
-profiler-popup-presets-firefox-graphics-description = Танзимоти тавсияшуда барои таҳкиқоти самаранокии графикаи Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Графикаи Firefox
-profiler-popup-presets-media-description = Танзимоти тавсияшуда барои муайянкунии мушкилиҳои аудио ва видео.
 profiler-popup-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Ирсоли изҳори назар…
     .accesskey = И
+appmenu-help-share-ideas =
+    .label = Паҳн кардани фикру ақидаҳо…
+    .accesskey = П
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
