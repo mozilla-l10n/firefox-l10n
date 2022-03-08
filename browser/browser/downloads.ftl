@@ -16,11 +16,6 @@ downloads-panel =
 # The style attribute has the width of the Downloads Panel expressed using
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
-downloads-panel-list =
-    .style = width: 70ch
-# The style attribute has the width of the Downloads Panel expressed using
-# a CSS unit. The longest labels that should fit are usually those of
-# in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause =
@@ -48,9 +43,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] แสดงในโฟลเดอร์
         }
     .accesskey = ฟ
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 downloads-cmd-use-system-default =
     .label = เปิดในตัวดูของระบบ
     .accesskey = ต
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = เปิดใน { $handler }
+    .accesskey = I
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -74,6 +79,15 @@ downloads-cmd-show-description =
             [macos] แสดงใน Finder
            *[other] เปิดโฟลเดอร์ที่บรรจุ
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = เปิดใน { $handler } เสมอ
+    .accesskey = w
+
+##
+
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
@@ -118,6 +132,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ล้างการดาวน์โหลด
     .accesskey = ด
+downloads-cmd-delete-file =
+    .label = ลบ
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = อนุญาตการดาวน์โหลด
@@ -163,6 +180,8 @@ downloading-file-opens-in-minutes = จะเปิดในอีก { $minutes
 downloading-file-opens-in-minutes-and-seconds = จะเปิดในอีก { $minutes } นาที { $seconds } วินาที…
 downloading-file-opens-in-seconds = จะเปิดในอีก { $seconds } วินาที…
 downloading-file-opens-in-some-time = จะเปิดเมื่อเสร็จสมบูรณ์แล้ว…
+downloading-file-click-to-open =
+    .value = เปิดเมื่อเสร็จสมบูรณ์แล้ว
 
 ##
 
@@ -184,6 +203,22 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = รายละเอียดการดาวน์โหลด
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ไฟล์ไม่ได้ดาวน์โหลด
+       *[other] { $num } ไฟล์ไม่ได้ดาวน์โหลด
+    }
+downloads-blocked-from-url = การดาวน์โหลดถูกปิดกั้นจาก { $url }
+downloads-blocked-download-detailed-info = { $url } พยายามดาวน์โหลดไฟล์หลายไฟล์โดยอัตโนมัติ ไซต์อาจเสียหายหรือพยายามจัดเก็บสแปมไฟล์ในอุปกรณ์ของคุณ
+
+##
+
 downloads-clear-downloads-button =
     .label = ล้างการดาวน์โหลด
     .tooltiptext = ล้างการดาวน์โหลดที่เสร็จสมบูรณ์ ถูกยกเลิก และล้มเหลว
