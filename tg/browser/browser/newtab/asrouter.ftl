@@ -155,3 +155,14 @@ spotlight-total-cookie-protection-body = «Муҳофизати пурра аз 
 spotlight-total-cookie-protection-expanded = { -brand-short-name } дар атрофи кукиҳо девор месозад ва кукиҳоро бо сомонае, ки шумо дар он ҳастед, маҳдуд мекунад, то васоити пайгирӣ натавонанд онҳоро барои пайгирӣ кардани шумо истифода баранд. Бо дастрасии барвақт, шумо ба раванди беҳтаркунии ин хусусият кумак хоҳед кард, то мо тавонем сохтани Интернети беҳтарро барои ҳамаи корбарон идома диҳем.
 spotlight-total-cookie-protection-primary-button = Фаъол кардани «Муҳофизати пурра аз кукиҳо»
 spotlight-total-cookie-protection-secondary-button = Ҳоло не
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Интернети беҳтар аз шумо оғоз мешавад
+spotlight-better-internet-body = Вақте ки шумо аз «{ -brand-short-name }» истифода мебаред, шумо барои интернети кушод ва дастрас овоз медиҳед, ки барои ҳамаи корбарон беҳтар аст.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Нигоҳ доштан дар мустақар
+       *[other] Васл кардан ба навори вазифа
+    }
+spotlight-pin-secondary-button = Ҳоло не
