@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Simpan artikel dan video dari { -brand-product-nam
 pocket-panel-signup-tagline-story-one = Klik Tombol { -pocket-brand-name } untuk menyimpan artikel, video, atau laman apa saja dari { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tampilkan lewat { -pocket-brand-name } di berbagai perangkat, kapan saja.
 pocket-panel-signup-cta-a = Tombol simpan Anda untuk internet.
+pocket-panel-signup-cta-a-fix = Tombol simpan Anda untuk internet.
 pocket-panel-signup-cta-b = Klik tombol { -pocket-brand-name } untuk menyimpan artikel, video, dan tautan. Lihat daftar Anda di semua perangkat, kapan saja.
+pocket-panel-signup-cta-b-short = Klik tombol { -pocket-brand-name } untuk menyimpan artikel, video, dan tautan.
 pocket-panel-signup-cta-c = Tampilkan daftar Anda di berbagai perangkat, kapan saja.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Jelajahi Topik Populer
 pocket-panel-home-discover-more = Temukan Lebih Banyak
 pocket-panel-home-explore-more = Jelajahi
 pocket-panel-home-most-recent-saves = Berikut adalah simpanan terbaru Anda:
+pocket-panel-home-most-recent-saves-loading = Yang baru-baru ini disimpan sedang dimuat…
 pocket-panel-home-new-user-cta = Klik tombol { -pocket-brand-name } untuk menyimpan artikel, video, dan tautan.
 pocket-panel-home-new-user-message = Lihat simpanan terbaru Anda di sini.
 

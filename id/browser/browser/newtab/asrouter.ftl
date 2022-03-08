@@ -153,3 +153,8 @@ spotlight-total-cookie-protection-body = Perlindungan Kuki Total mencegah pelaca
 spotlight-total-cookie-protection-expanded = { -brand-short-name } membangun pagar di sekitar kuki, dengan membatasi kuki di situs tempat Anda berada, sehingga pelacak tidak dapat menggunakannya untuk mengikuti Anda. Dengan akses awal, Anda akan membantu mengoptimalkan fitur ini agar kami dapat terus membangun web yang lebih baik untuk semua orang.
 spotlight-total-cookie-protection-primary-button = Aktifkan Perlindungan Kuki Total
 spotlight-total-cookie-protection-secondary-button = Jangan sekarang
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Internet yang lebih baik dimulai dari Anda
+spotlight-better-internet-body = Ketika Anda menggunakan { -brand-short-name }, Anda memilih Internet yang terbuka dan dapat diakses secara lebih baik untuk semua orang.
