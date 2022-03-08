@@ -161,3 +161,9 @@ spotlight-better-internet-header = Uma internet melhor começa com você
 spotlight-better-internet-body = Quando você usa o { -brand-short-name }, está votando a favor de uma internet aberta e acessível, melhor para todos.
 spotlight-peace-mind-header = Nós te protegemos
 spotlight-peace-mind-body = Todo mês, o { -brand-short-name } bloqueia em média de mais de 3.000 rastreadores por usuário. Porque nada, especialmente incômodos de privacidade como rastreadores, deve ficar entre você e a boa internet.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Manter no Dock
+       *[other] Fixar na barra de tarefas
+    }
+spotlight-pin-secondary-button = Agora não
