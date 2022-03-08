@@ -21,7 +21,7 @@ about-addressbook-toolbar-import =
 
 ## Books
 
-all-address-books = Tüm adres defterleri
+all-address-books = Tüm Adres Defterleri
 about-addressbook-books-context-properties =
     .label = Özellikler
 about-addressbook-books-context-synchronize =
@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Telefon numaraları
 about-addressbook-details-home-address-header = Ev adresi
 about-addressbook-details-work-address-header = İş adresi
 about-addressbook-details-other-info-header = Diğer bilgiler
-about-addressbook-prompt-to-save-title = Değişiklikler kaydedilsin mi?
-about-addressbook-prompt-to-save = Değişikliklerinizi kaydetmek istiyor musunuz?
+about-addressbook-unsaved-changes-prompt-title = Kaydedilmemiş değişiklikler
+about-addressbook-unsaved-changes-prompt = Düzenleme görünümünden çıkmadan önce değişikliklerinizi kaydetmek ister misiniz?
 
 # Photo dialog
 
