@@ -45,7 +45,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menu cumpact">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Mussar il menu da &brandShortName;">
-<!ENTITY lightning.toolbar.calendarmenu.label        "Trav da chalender">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Lastra da chalender">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "v">
-<!ENTITY lightning.toolbar.calendarpane.label        "Mussar la tav da chalender">
+<!ENTITY lightning.toolbar.calendarpane.label        "Mussar la lastra da chalender">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
