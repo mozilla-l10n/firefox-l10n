@@ -5,7 +5,7 @@
 synced-tabs-sidebar-title = Синхронизирани раздели
 synced-tabs-sidebar-noclients-subtitle = Искате ли да видите свои раздели от други устройства тук?
 synced-tabs-sidebar-intro = Вижте списък с разделите от другите ваши устройства.
-synced-tabs-sidebar-unverified = Сметката ви трябва да бъде потвърдена.
+synced-tabs-sidebar-unverified = Профилът трябва да бъде потвърден.
 synced-tabs-sidebar-notabs = Няма отворени раздели
 synced-tabs-sidebar-tabsnotsyncing = Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.
 synced-tabs-sidebar-connect-another-device = Добавяне на устройство

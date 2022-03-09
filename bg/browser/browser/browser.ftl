@@ -686,7 +686,7 @@ addon-removal-abuse-report-checkbox = Докладване разширение�
 ## Remote / Synced tabs
 
 remote-tabs-manage-account =
-    .label = Управление на сметка
+    .label = Управление на профила
 remote-tabs-sync-now = Синхронизиране
 
 ##
@@ -713,6 +713,13 @@ picture-in-picture-hide-toggle =
     .label = Скриване на бутона за превключване на картина в картината
     .accesskey = с
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -729,9 +736,6 @@ navbar-overflow =
 navbar-print =
     .label = Отпечатване
     .tooltiptext = Отпечатване на страница… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Отпечатване
-    .tooltiptext = Отпечатване на страницата
 navbar-home =
     .label = Начало
     .tooltiptext = Начална страница на { -brand-short-name }
@@ -752,3 +756,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Показване на всички раздели
     .tooltiptext = Показване на всички раздели
+
+## Infobar shown at startup to suggest session-restore
+

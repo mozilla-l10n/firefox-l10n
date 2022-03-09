@@ -58,6 +58,7 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Уязвима парола
 about-logins-list-section-breach = Взломени страници
 about-logins-list-section-vulnerable = Уязвими пароли
+about-logins-list-section-nothing = Няма предупреждение
 about-logins-list-section-today = Днес
 about-logins-list-section-yesterday = Вчера
 about-logins-list-section-week = Последните 7 дни
@@ -107,6 +108,8 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = За да промените регистрацията, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = прави промени в данни за вход
@@ -167,7 +170,7 @@ confirm-discard-changes-dialog-confirm-button = Отхвърляне
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Пробив в страница
-breach-alert-text = Паролите са изтекли или откраднати от този уебсайт, откакто последно сте обновили данните си за вход. Променете паролата си, за да защитите сметката си.
+breach-alert-text = Паролите са изтекли или откраднати от този уебсайт, откакто последно сте обновили данните си за вход. Променете паролата си, за да защитите профила си.
 about-logins-breach-alert-date = Пробивът е станал на { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -177,7 +180,7 @@ about-logins-breach-alert-learn-more-link = Научете повече
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Уязвима парола
-about-logins-vulnerable-alert-text2 = Тази парола е използвана в друга сметка, вероятно жертва на изтичане на данни. Преизползването на информация за удостоверяване излага на риск всички ваши сметки. Сменете паролата.
+about-logins-vulnerable-alert-text2 = Тази парола е използвана в друг профил, вероятно жертва на изтичане на данни. Преизползването на информация за удостоверяване излага на риск всички ваши профили. Сменете паролата си.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Към { $hostname }
