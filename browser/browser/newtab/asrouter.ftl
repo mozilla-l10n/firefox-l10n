@@ -168,6 +168,7 @@ spotlight-total-cookie-protection-secondary-button = Ne zdaj
 spotlight-better-internet-header = Boljši internet se začenja z vami
 spotlight-better-internet-body = Z uporabo { -brand-short-name(sklon: "rodilnik") } daste svoj glas odprtemu in dostopnemu internetu, ki bo boljši za vsakogar.
 spotlight-peace-mind-header = Stojimo vam ob strani
+spotlight-peace-mind-body = { -brand-short-name } vsak mesec v povprečju zavrne več kot 3000 sledilcev na uporabnika. Ker vam nič, še posebej pa ne sledilci in podobne nadloge, ne sme stati na poti do dobrega interneta.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Obdrži v Docku

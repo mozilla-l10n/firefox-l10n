@@ -14,6 +14,7 @@ experimental-features-css-constructable-stylesheets =
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Zagonski predpomnilnik about:home
+experimental-features-cookie-samesite-schemeful-description = Obravnavaj piškotke iste domene, a z različnimi shemami (npr. http://example.com in https://example.com) kot piškotke več spletnih mest, ne le enega. Izboljša varnost, vendar lahko povzroči nedelovanje nekaterih strani.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Orodja za razvijalce: Razhroščevanje Service Workerjev
