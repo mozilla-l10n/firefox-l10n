@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Gemmer artikler og videoer fra { -brand-product-na
 pocket-panel-signup-tagline-story-one = Klik på knappen { -pocket-brand-name } for at gemme en artikel, video eller webside fra { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Se i { -pocket-brand-name } hvor og hvornår, du har lyst.
 pocket-panel-signup-cta-a = Din gem-knap til internettet.
+pocket-panel-signup-cta-a-fix = Din gem-knap til internettet
 pocket-panel-signup-cta-b = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links. Se din liste på alle dine enheder når som helst.
+pocket-panel-signup-cta-b-short = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links.
 pocket-panel-signup-cta-c = Se din liste på alle dine enheder når som helst.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Udforsk populære emner
 pocket-panel-home-discover-more = Opdag mere
 pocket-panel-home-explore-more = Udforsk
 pocket-panel-home-most-recent-saves = Her er de seneste ting, du har gemt:
+pocket-panel-home-most-recent-saves-loading = Indlæser seneste gemte…
 pocket-panel-home-new-user-cta = Klik på { -pocket-brand-name }-knappen for at gemme artikler, videoer og links.
 pocket-panel-home-new-user-message = Se de seneste ting, du har gemt.
 
