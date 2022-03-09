@@ -154,6 +154,8 @@ spotlight-total-cookie-protection-secondary-button = 暂时不要
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = 更好的互联网，始于你我
+spotlight-better-internet-body = 当您使用 { -brand-short-name }，即代表您投票支持一个人人可用、处处可及，能够造福于所有人的的互联网。
 spotlight-peace-mind-header = 保护您是我的职责
 spotlight-peace-mind-body = { -brand-short-name } 为每位用户月均拦截超过 3,000 个跟踪器。您良好的互联网体验，不应受到任何破坏，尤其是影响隐私的跟踪器。
 spotlight-pin-primary-button =
