@@ -19,6 +19,11 @@ button-continue = Συνέχεια
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Εισαγωγή από { $app }
@@ -31,6 +36,11 @@ items-pane-checkbox-accounts = Λογαριασμοί και ρυθμίσεις
 items-pane-checkbox-address-books = Ευρετήρια
 items-pane-checkbox-calendars = Ημερολόγια
 items-pane-checkbox-mail-messages = Μηνύματα email
+
+## Import from address book file steps
+
+addr-book-ldif-file = Αρχείο LDIF (.ldif)
+addr-book-vcard-file = Αρχείο vCard (.vcf, .vcard)
 
 ## Import dialog
 
