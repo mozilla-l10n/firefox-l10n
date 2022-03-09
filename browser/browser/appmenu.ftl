@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Ρυθμίσεις
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Επεξεργασία ρυθμίσεων…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Επεξεργασία ρυθμίσεων…
 profiler-popup-disabled =
     Το εργαλείο προφίλ είναι ανενεργό αυτήν τη στιγμή, πιθανότατα επειδή είναι ανοικτό ένα παράθυρο
     ιδιωτικής περιήγησης.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Επεξεργασία ρυθμίσεων…
 profiler-popup-recording-screen = Εγγραφή…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Προτεινόμενη προεπιλογή για τον έλεγχο σφαλμάτων των περισσότερων εφαρμογών ιστού με χαμηλό κόστος.
 profiler-popup-presets-web-developer-label =
     .label = Ανάπτυξη web
-profiler-popup-presets-firefox-platform-description = Προτεινόμενη προεπιλογή για τον εσωτερικό έλεγχο σφαλμάτων της πλατφόρμας του Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Πλατφόρμα Firefox
-profiler-popup-presets-firefox-front-end-description = Προτεινόμενη προεπιλογή για τον εσωτερικό έλεγχο σφαλμάτων του περιβάλλοντος του Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Περιβάλλον Firefox
-profiler-popup-presets-firefox-graphics-description = Προτεινόμενη προεπιλογή για τη διερεύνηση επιδόσεων γραφικών του Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Γραφικά Firefox
-profiler-popup-presets-media-description = Προτεινόμενη προεπιλογή για τη διάγνωση προβλημάτων ήχου και βίντεο.
 profiler-popup-presets-firefox-description = Προτεινόμενη προεπιλογή για την καταγραφή προφίλ στο { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Υποβολή σχολίων…
     .accesskey = β
+appmenu-help-share-ideas =
+    .label = Κοινοποίηση ιδεών και σχολίων…
+    .accesskey = Κ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
