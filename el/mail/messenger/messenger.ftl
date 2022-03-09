@@ -188,6 +188,18 @@ spaces-toolbar-button-settings =
     .title = Εναλλαγή στην καρτέλα ρυθμίσεων
 spaces-toolbar-button-collapse =
     .title = Σύμπτυξη γραμμής χώρων
+spaces-context-new-tab-item =
+    .label = Άνοιγμα σε νέα καρτέλα
+spaces-context-new-window-item =
+    .label = Άνοιγμα σε νέο παράθυρο
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Εναλλαγή σε { $tabName }
+settings-context-open-settings-item =
+    .label = Άνοιγμα ρυθμίσεων
+settings-context-open-account-settings-item =
+    .label = Άνοιγμα ρυθμίσεων λογαριασμού
 
 ## Spaces toolbar pinned tab menupopup
 
