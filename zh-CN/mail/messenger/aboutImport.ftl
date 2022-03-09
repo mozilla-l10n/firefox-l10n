@@ -32,6 +32,7 @@ profile-file-picker-dir = 选择配置文件夹
 profile-file-picker-zip = 选择 ZIP 文件（小于 2GB）
 items-pane-title = 选择要导入的项目
 items-pane-desc = 从下列位置导入
+items-pane-source = 源位置：
 items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
 items-pane-checkbox-calendars = 日历
@@ -39,6 +40,8 @@ items-pane-checkbox-mail-messages = 邮件消息
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = 选择您要导入的文件类型：
+addr-book-csv-file = Tab 键或逗号分隔文件（.csv、.tsv）
 addr-book-ldif-file = LDIF 文件（.ldif）
 addr-book-vcard-file = vCard 文件（.vcf、.vcard）
 addr-book-mab-file = Mork 数据库文件（.mab）
