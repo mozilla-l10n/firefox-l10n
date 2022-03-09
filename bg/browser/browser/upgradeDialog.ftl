@@ -97,7 +97,7 @@ upgrade-dialog-theme-dark = Тъмна
 upgrade-dialog-theme-alpenglow = Сияйни Алпи
     .title = Динамична, цветна тема за бутони, менюта и прозорци
 upgrade-dialog-theme-keep = Използване на предишната
-    .title = Използване на темата, която сте инсталирали преди обновяване на { -brand-short-name }
+    .title = Темата, която сте инсталирали преди обновяване на { -brand-short-name }
 upgrade-dialog-theme-primary-button = Запазване на тема
 upgrade-dialog-theme-secondary-button = Не сега
 upgrade-dialog-colorway-variation-soft = Мека
@@ -111,3 +111,6 @@ upgrade-dialog-colorway-variation-bold = Ярка
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Благодарим ви, че избрахте нас
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } е независим четец, поддържан от организация с нестопанска цел. Заедно правим мрежата, по-безопасна, здрава и поверителна.

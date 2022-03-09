@@ -127,6 +127,7 @@ mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 mr1-onboarding-import-secondary-button-label = Не сега
+mr2-onboarding-colorway-label-soft = Мека
 mr1-onboarding-theme-header = По свой вкус
 mr1-onboarding-theme-subtitle = Приспособете { -brand-short-name } с тема.
 mr1-onboarding-theme-primary-button-label = Запазване на тема
@@ -156,6 +157,7 @@ mr1-onboarding-theme-label-alpenglow = Сияйни Алпи
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Благодарим ви, че избрахте нас
+mr2-onboarding-thank-you-text = { -brand-short-name } е независим четец, поддържан от организация с нестопанска цел. Заедно правим мрежата, по-безопасна, здрава и поверителна.
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
