@@ -12,13 +12,13 @@
 upgrade-dialog-new-title = Кажете здравей на новия { -brand-short-name }
 upgrade-dialog-new-subtitle = Проектиран да ви заведе, където искате по-бързо
 upgrade-dialog-new-item-menu-title = Опростени инструменти и менюта
-upgrade-dialog-new-item-menu-description = Приоритизираме важните неща, за да намирате каквото ви трябва.
+upgrade-dialog-new-item-menu-description = Подредете нещата по важност, за да намирате каквото ви трябва.
 upgrade-dialog-new-item-tabs-title = Модерни раздели
 upgrade-dialog-new-item-tabs-description = Спретното подреждане на информацията, помагащо за фокусиране и гъвкаво придвижване.
 upgrade-dialog-new-item-icons-title = Свежи икони и по-ясни съобщения
 upgrade-dialog-new-item-icons-description = Ориентиране без усилия.
 upgrade-dialog-new-primary-default-button = Избиране на { -brand-short-name } за стандартен четец
-upgrade-dialog-new-primary-theme-button = Изберете тема
+upgrade-dialog-new-primary-theme-button = Избор на тема
 upgrade-dialog-new-secondary-button = Не сега
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
@@ -67,22 +67,35 @@ upgrade-dialog-theme-system = Системна тема
 
 ## Start screen
 
-upgrade-dialog-start-primary-button = Разгледайте цветовите комбинации
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-start-title = Живот в цвят
+upgrade-dialog-start-subtitle = Изразителни цветни комбинации. Предлагат се за ограничено време.
+upgrade-dialog-start-primary-button = Разглеждане на цветови комбинации
+upgrade-dialog-start-secondary-button = Не сега
 
 ## Colorway screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Изберете вашата палитра
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Превключете към Firefox Home с тематичен фон
+upgrade-dialog-colorway-primary-button = Запазване на палитра
+upgrade-dialog-colorway-secondary-button = Запазване предишната тема
+upgrade-dialog-colorway-theme-tooltip =
+    .title = Разгледайте темите по подразбиране
+# $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
+upgrade-dialog-colorway-colorway-tooltip =
+    .title = Разгледайте цветовите комбинации на { $colorwayName }
 upgrade-dialog-colorway-default-theme = По подразбиране
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Автоматично
     .title = Следва темата на операционната система за бутони, менюта и прозорци
 upgrade-dialog-theme-light = Светла
-    .title = Използване на светла тема за бутони, менюта и прозорци
+    .title = Светла тема за бутони, менюта и прозорци
 upgrade-dialog-theme-dark = Тъмна
-    .title = Използване на тъмна тема за бутони, менюта и прозорци
+    .title = Тъмна тема за бутони, менюта и прозорци
 upgrade-dialog-theme-alpenglow = Сияйни Алпи
-    .title = Използвайте динамична и цветна тема за бутони, менюта и прозорци
+    .title = Динамична, цветна тема за бутони, менюта и прозорци
 upgrade-dialog-theme-keep = Използване на предишната
     .title = Използване на темата, която сте инсталирали преди обновяване на { -brand-short-name }
 upgrade-dialog-theme-primary-button = Запазване на тема
