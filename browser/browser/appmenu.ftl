@@ -92,10 +92,10 @@ appmenu-remote-tabs-noclients = Искате ли да видите свои р�
 appmenu-remote-tabs-connectdevice =
     .label = Добавяне на устройство
 appmenu-remote-tabs-welcome = Вижте списък с разделите от другите ваши устройства.
-appmenu-remote-tabs-unverified = Сметката ви трябва да бъде потвърдена.
+appmenu-remote-tabs-unverified = Профилът ви трябва да бъде потвърден.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
 appmenuitem-fxa-sign-in = Вписване в { -brand-product-name }
-appmenuitem-fxa-manage-account = Управление на сметка
+appmenuitem-fxa-manage-account = Управление на профил
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -140,10 +140,10 @@ profiler-popup-settings =
     .value = Настройки
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Промяна на настройки…
+profiler-popup-disabled = В момента профилаторът е изключен, най-вероятно защото има отворен прозорец за поверително разглеждане.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Промяна на настройки…
-profiler-popup-disabled = В момента профилаторът е изключен, най-вероятно защото има отворен прозорец за поверително разглеждане.
 profiler-popup-recording-screen = Записване…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

@@ -21,12 +21,10 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Навигация">
-
 <!ENTITY fullScreenCmd.label "Цял екран">
 
 <!ENTITY pictureInPictureHideToggle.label "Скриване на бутона за превключване на картина в картината">
 <!ENTITY pictureInPictureHideToggle.accesskey "с">
-
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -89,7 +87,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.welcome.label "Вижте списък с разделите от другите ваши устройства.">
-<!ENTITY appMenuRemoteTabs.unverified.label "Сметката ви трябва да бъде потвърдена.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Профилът трябва да бъде потвърден.">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Добавяне на устройство">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
@@ -140,7 +138,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Раздели на четеца">
-
 
 <!ENTITY uiTour.infoPanel.close "Затваряне">
 
