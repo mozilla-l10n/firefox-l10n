@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = 浏览热门话题
 pocket-panel-home-discover-more = 发现更多
 pocket-panel-home-explore-more = 发现
 pocket-panel-home-most-recent-saves = 以下是您最近保存的内容：
+pocket-panel-home-most-recent-saves-loading = 正在加载近期保存内容…
 pocket-panel-home-new-user-cta = 点击 { -pocket-brand-name } 按钮，即可保存文章、视频和链接。
 pocket-panel-home-new-user-message = 在此查看您最近保存的内容。
 
