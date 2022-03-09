@@ -155,6 +155,7 @@ spotlight-total-cookie-protection-secondary-button = 暂时不要
 ## Emotive Continuous Onboarding
 
 spotlight-peace-mind-header = 保护您是我的职责
+spotlight-peace-mind-body = { -brand-short-name } 为每位用户月均拦截超过 3,000 个跟踪器。您良好的互联网体验，不应受到任何破坏，尤其是影响隐私的跟踪器。
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] 在程序坞中保留
