@@ -64,6 +64,19 @@ upgrade-dialog-default-secondary-button = Не сега
 upgrade-dialog-theme-title-2 = Започнете начисто с ясна тема
 upgrade-dialog-theme-system = Системна тема
     .title = Използване на темата на операционната система за бутони, менюта и прозорци
+
+## Start screen
+
+upgrade-dialog-start-primary-button = Разгледайте цветовите комбинации
+
+## Colorway screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Изберете вашата палитра
+upgrade-dialog-colorway-default-theme = По подразбиране
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Автоматично
+    .title = Следва темата на операционната система за бутони, менюта и прозорци
 upgrade-dialog-theme-light = Светла
     .title = Използване на светла тема за бутони, менюта и прозорци
 upgrade-dialog-theme-dark = Тъмна
@@ -74,3 +87,14 @@ upgrade-dialog-theme-keep = Използване на предишната
     .title = Използване на темата, която сте инсталирали преди обновяване на { -brand-short-name }
 upgrade-dialog-theme-primary-button = Запазване на тема
 upgrade-dialog-theme-secondary-button = Не сега
+upgrade-dialog-colorway-variation-soft = Мека
+    .title = Използвайте тази цветна комбинация
+upgrade-dialog-colorway-variation-balanced = Умерена
+    .title = Използвайте тази цветна комбинация
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+upgrade-dialog-colorway-variation-bold = Ярка
+    .title = Използвайте тази цветна комбинация
+
+## Thank you screen
+

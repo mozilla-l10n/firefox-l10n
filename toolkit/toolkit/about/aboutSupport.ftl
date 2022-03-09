@@ -4,7 +4,6 @@
 
 page-title = Отстраняване на неизправности
 page-subtitle = Тази страница съдържа техническа информация, която може да ви е от полза, когато се опитвате да решите проблем. Ако търсите отговори на често задавани въпроси за { -brand-short-name }, проверете в нашата <a data-l10n-name="support-link">страница за поддръжка</a>.
-
 crashes-title = Доклади за сривове
 crashes-id = Идентификатор на доклад
 crashes-send-date = Изпратен
@@ -103,6 +102,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Вид процес
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Аргументи
+clear-startup-cache-title = Опитайте да изчистите междинната памет за стартиране
 
 ## Media titles
 
@@ -156,7 +156,6 @@ report-crash-for-days =
         [one] Доклади за сривовете през последния { $days } ден
        *[other] Доклади за сривовете през последните { $days } дена
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -164,7 +163,6 @@ crashes-time-minutes =
         [one] преди { $minutes } минута
        *[other] преди { $minutes } минути
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -172,7 +170,6 @@ crashes-time-hours =
         [one] преди { $hours } час
        *[other] преди { $hours } часа
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -180,7 +177,6 @@ crashes-time-days =
         [one] преди { $days } ден
        *[other] преди { $days } дена
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -188,7 +184,6 @@ pending-reports =
         [one] Всички доклади за сривове (включително { $reports } изчакващ срив в дадения времеви диапазон)
        *[other] Всички доклади за сривове (включително { $reports } изчакващи срива в дадения времеви диапазон)
     }
-
 raw-data-copied = Суровите данни са копирани в системния буфер
 text-copied = Текстът е копиран в системния буфер
 
@@ -201,11 +196,9 @@ blocked-mismatched-version = Блокирано поради несъответ�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Вашият графичен драйвер е блокиран. Опитайте да обновите драйвера си до версия { $driverVersion } или по-нова.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметри на ClearType
-
 compositing = Сглобяване
 hardware-h264 = Хардуерно декодиране на H264
 main-thread-no-omtc = главна нишка, без OMTC
@@ -219,7 +212,6 @@ virtual-monitor-disp = Виртуален монитор
 
 found = Наличен
 missing = Липсващ
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Описание
@@ -242,14 +234,11 @@ webgl2-renderer = Рендер на драйвера за WebGL 2
 webgl2-version = Версия на драйвера за WebGL 2
 webgl2-driver-extensions = Разширения на драйвера за WebGL 2
 webgl2-extensions = Разширения на WebGL 2
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = В списъка на блокираните: код на грешка { $failureCode }
-
 d3d11layers-crash-guard = Сглобяване с D3D11
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Анулиране при следващото рестартиране
 gpu-process-kill-button = Прекъсване на процес на GPU
 gpu-device-reset = Нулиране на устройството
@@ -259,10 +248,8 @@ content-uses-tiling = Използване на повтарящо се изоб
 off-main-thread-paint-enabled = Изчертаване в отделна нишка включено
 off-main-thread-paint-worker-count = Брой сервизни нишки, изчертаващи в отделна нишка
 target-frame-rate = Целева честота на кадрите
-
 min-lib-versions = Очаквана минимална версия
 loaded-lib-versions = Използвана версия
-
 has-seccomp-bpf = Seccomp-BPF (филтриране на системни извиквания)
 has-seccomp-tsync = Синхронизиране на нишката на Seccomp
 has-user-namespaces = Потребителски пространства от имена
@@ -274,12 +261,10 @@ effective-content-sandbox-level = Ефективна степен на изол�
 sandbox-proc-type-content = съдържание
 sandbox-proc-type-file = съдържание на файл
 sandbox-proc-type-media-plugin = приставка за медия
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Асинхронно преместване / мащабиране
 apz-none = няма
 wheel-enabled = използване на колелцето на мишката

@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Добавяне на етикети
-
 pocket-panel-saved-error-generic = Получи се грешка при опит за запис в { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Етикетите могат да са до 25 знака
 pocket-panel-saved-error-only-links = Могат да бъдат запазвани само връзки
@@ -44,6 +43,13 @@ pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-br
 
 pocket-panel-home-my-list = Моят списък
 pocket-panel-home-welcome-back = Добре дошли
+pocket-panel-home-paragraph = Можете да използвате { -pocket-brand-name } за да разглеждате и запазвате страници, статии, видео и други или да се върнете към това което сте чели.
 pocket-panel-home-explore-popular-topics = Преглед на популярни теми
 pocket-panel-home-discover-more = Открийте повече
 pocket-panel-home-explore-more = Разгледайте
+
+## Pocket panel header component
+
+
+## Pocket panel buttons
+
