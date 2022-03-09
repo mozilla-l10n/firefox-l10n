@@ -19,6 +19,10 @@ button-continue = 继续
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 从 { $app } 导入
@@ -31,6 +35,9 @@ items-pane-checkbox-accounts = 账户和设置
 items-pane-checkbox-address-books = 通讯录
 items-pane-checkbox-calendars = 日历
 items-pane-checkbox-mail-messages = 邮件消息
+
+## Import from address book file steps
+
 
 ## Import dialog
 
