@@ -41,10 +41,13 @@ items-pane-checkbox-mail-messages = Μηνύματα email
 
 addr-book-ldif-file = Αρχείο LDIF (.ldif)
 addr-book-vcard-file = Αρχείο vCard (.vcf, .vcard)
+addr-book-directories-pane-title = Επιλέξτε τον κατάλογο στον οποίο θέλετε να κάνετε εισαγωγή:
+addr-book-import-into-new-directory = Δημιουργία νέου καταλόγου
 
 ## Import dialog
 
 progress-pane-title = Εισαγωγή
+progress-pane-finished-desc = Ολοκληρώθηκε.
 progress-pane-restart-desc = Κάντε επανεκκίνηση για να ολοκληρώσετε την εισαγωγή.
 error-pane-title = Σφάλμα
 error-message-zip-file-too-big = Το επιλεγμένο αρχείο zip είναι μεγαλύτερο από 2 GB. Παρακαλώ εξαγάγετέ το πρώτα και έπειτα, κάντε εισαγωγή από τον φάκελο εξαγωγής.

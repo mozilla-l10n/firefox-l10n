@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Αριθμοί τηλεφώνο
 about-addressbook-details-home-address-header = Διεύθυνση οικίας
 about-addressbook-details-work-address-header = Διεύθυνση εργασίας
 about-addressbook-details-other-info-header = Άλλες πληροφορίες
-about-addressbook-prompt-to-save-title = Αποθήκευση αλλαγών;
-about-addressbook-prompt-to-save = Θέλετε να αποθηκεύσετε τις αλλαγές σας;
+about-addressbook-unsaved-changes-prompt-title = Μη αποθηκευμένες αλλαγές
+about-addressbook-unsaved-changes-prompt = Θέλετε να αποθηκεύσετε τις αλλαγές σας πριν αποχωρήσετε από την προβολή επεξεργασίας;
 
 # Photo dialog
 
