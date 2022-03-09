@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = 设置
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 编辑设置…
+profiler-popup-disabled = 分析器当前已禁用，可能是因为打开了隐私浏览窗口。
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = 编辑设置…
-profiler-popup-disabled = 分析器当前已禁用，可能是因为打开了隐私浏览窗口。
 profiler-popup-recording-screen = 正在记录…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = 推荐在对大部分 Web 应用程序调试时使用，开销较少。
 profiler-popup-presets-web-developer-label =
     .label = Web 开发者
-profiler-popup-presets-firefox-platform-description = 推荐在 Firefox 内部平台调试时使用。
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox 平台
-profiler-popup-presets-firefox-front-end-description = 推荐在 Firefox 内部前端调试时使用。
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox 前端
-profiler-popup-presets-firefox-graphics-description = 推荐在检查 Firefox 图形性能问题时使用。
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox 图形
-profiler-popup-presets-media-description = 推荐在诊断 Firefox 音视频问题时使用。
 profiler-popup-presets-firefox-description = 推荐在分析 { -brand-shorter-name } 性能时使用。
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -243,6 +233,9 @@ appmenu-help-report-site-issue =
     .label = 反馈网站问题…
 appmenu-help-feedback-page =
     .label = 提交反馈…
+    .accesskey = S
+appmenu-help-share-ideas =
+    .label = 分享想法和意见反馈…
     .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
