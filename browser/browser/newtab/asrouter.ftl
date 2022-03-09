@@ -155,3 +155,14 @@ spotlight-total-cookie-protection-body = Komplet Cookiebeskyttelse forhindrer sp
 spotlight-total-cookie-protection-expanded = { -brand-short-name } bygger et hegn rundt om cookies, sådan at de kun gælder det websted, du besøger. På dén måde kan sporingsmekanismer ikke følge dig. Hvis du tester denne tidlige version, så hjælper du med til at forbedre funktionen - og du hjælper os med at gøre internettet bedre for alle.
 spotlight-total-cookie-protection-primary-button = Slå Komplet Cookiebeskyttelse til
 spotlight-total-cookie-protection-secondary-button = Ikke nu
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Et bedre internet begynder med dig
+spotlight-peace-mind-header = Vi beskytter dig
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Behold i Dock
+       *[other] Fastgør til proceslinjen
+    }
+spotlight-pin-secondary-button = Ikke nu
