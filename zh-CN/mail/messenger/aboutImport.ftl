@@ -23,6 +23,7 @@ app-name-thunderbird = Thunderbird
 app-name-seamonkey = SeaMonkey
 app-name-outlook = Outlook
 app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple 邮件
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = 从 { $app } 导入
@@ -38,10 +39,18 @@ items-pane-checkbox-mail-messages = 邮件消息
 
 ## Import from address book file steps
 
+addr-book-ldif-file = LDIF 文件（.ldif）
+addr-book-vcard-file = vCard 文件（.vcf、.vcard）
+addr-book-mab-file = Mork 数据库文件（.mab）
+addr-book-file-picker = 选择通讯录文件
+addr-book-directories-pane-title = 选择您要导入的文件夹：
+addr-book-directories-pane-source = 源文件：
+addr-book-import-into-new-directory = 新建文件夹
 
 ## Import dialog
 
 progress-pane-title = 正在导入…
+progress-pane-finished-desc = 完成。
 progress-pane-restart-desc = 重启客户端以完成导入。
 error-pane-title = 错误
 error-message-zip-file-too-big = 所选的 ZIP 文件大于 2GB。请先解压缩，然后从解压缩的文件夹中导入。
