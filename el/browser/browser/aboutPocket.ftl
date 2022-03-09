@@ -51,6 +51,7 @@ pocket-panel-home-explore-popular-topics = Εξερεύνηση δημοφιλώ
 pocket-panel-home-discover-more = Ανακάλυψη
 pocket-panel-home-explore-more = Εξερεύνηση
 pocket-panel-home-most-recent-saves = Ακολουθούν οι πιο πρόσφατες αποθηκεύσεις σας:
+pocket-panel-home-most-recent-saves-loading = Φόρτωση πρόσφατων αποθηκεύσεων…
 pocket-panel-home-new-user-cta = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους.
 pocket-panel-home-new-user-message = Δείτε τις πρόσφατες αποθηκεύσεις σας εδώ.
 

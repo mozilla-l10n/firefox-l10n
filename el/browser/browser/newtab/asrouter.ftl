@@ -155,3 +155,12 @@ spotlight-total-cookie-protection-body = Η Ολική προστασία cookie
 spotlight-total-cookie-protection-expanded = Το { -brand-short-name } δημιουργεί έναν φράχτη προστασίας γύρω από τα cookie, περιορίζοντάς τα στον ιστότοπο όπου βρίσκεστε, ώστε οι ιχνηλάτες να μην μπορούν να τα χρησιμοποιήσουν για να σας ακολουθήσουν. Με την πρώιμη πρόσβαση, θα βοηθήσετε στη βελτιστοποίηση αυτής της λειτουργίας, ώστε να συνεχίσουμε να δημιουργούμε ένα καλύτερο διαδίκτυο για όλους.
 spotlight-total-cookie-protection-primary-button = Ενεργοποίηση ολικής προστασίας cookie
 spotlight-total-cookie-protection-secondary-button = Όχι τώρα
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Διατήρηση στο Dock
+       *[other] Καρφίτσωμα στη γραμμή εργασιών
+    }
+spotlight-pin-secondary-button = Όχι τώρα
