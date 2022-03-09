@@ -32,6 +32,7 @@ profile-file-picker-dir = Επιλέξτε ένα φάκελο προφίλ
 profile-file-picker-zip = Επιλέξτε ένα αρχείο zip (μικρότερο από 2 GB)
 items-pane-title = Επιλέξτε τι θα εισαγάγετε
 items-pane-desc = Εισαγωγή από
+items-pane-source = Τοποθεσία πηγής:
 items-pane-checkbox-accounts = Λογαριασμοί και ρυθμίσεις
 items-pane-checkbox-address-books = Ευρετήρια
 items-pane-checkbox-calendars = Ημερολόγια
@@ -39,9 +40,14 @@ items-pane-checkbox-mail-messages = Μηνύματα email
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = Επιλέξτε τον τύπο αρχείου που θέλετε να εισαγάγετε:
+addr-book-csv-file = Αρχείο διαχωρισμένο με κόμμα ή καρτέλα (.csv, .tsv)
 addr-book-ldif-file = Αρχείο LDIF (.ldif)
 addr-book-vcard-file = Αρχείο vCard (.vcf, .vcard)
+addr-book-mab-file = Αρχείο βάσης δεδομένων Mork (.mab)
+addr-book-file-picker = Επιλογή αρχείου ευρετηρίου
 addr-book-directories-pane-title = Επιλέξτε τον κατάλογο στον οποίο θέλετε να κάνετε εισαγωγή:
+addr-book-directories-pane-source = Αρχείο πηγής:
 addr-book-import-into-new-directory = Δημιουργία νέου καταλόγου
 
 ## Import dialog
