@@ -41,6 +41,7 @@ pocket-panel-signup-tagline-story-two = Προβολή στο { -pocket-brand-na
 pocket-panel-signup-cta-a = Το κουμπί αποθήκευσής σας για το διαδίκτυο.
 pocket-panel-signup-cta-a-fix = Το κουμπί αποθήκευσής σας για το διαδίκτυο
 pocket-panel-signup-cta-b = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους. Δείτε τη λίστα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
+pocket-panel-signup-cta-b-short = Κάντε κλικ στο κουμπί του { -pocket-brand-name } για να αποθηκεύσετε άρθρα, βίντεο και συνδέσμους.
 pocket-panel-signup-cta-c = Δείτε τη λίστα σας σε οποιαδήποτε συσκευή, ανά πάσα στιγμή.
 
 ## about:pocket-home panel

@@ -158,6 +158,10 @@ spotlight-total-cookie-protection-secondary-button = Όχι τώρα
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Ένα καλύτερο διαδίκτυο ξεκινά από εσάς
+spotlight-better-internet-body = Όταν χρησιμοποιείτε το { -brand-short-name }, υποστηρίζετε ένα ανοικτό και προσβάσιμο διαδίκτυο που είναι καλύτερο για όλους.
+spotlight-peace-mind-header = Πάντα στο πλευρό σας
+spotlight-peace-mind-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο πάνω από 3.000 ιχνηλάτες ανά χρήστη. Επειδή τίποτα, ειδικά πολέμιοι του απορρήτου όπως οι ιχνηλάτες, δεν θα έπρεπε να στέκεται ανάμεσα σε εσάς και στο καλό διαδίκτυο.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Διατήρηση στο Dock
