@@ -188,6 +188,8 @@ spaces-toolbar-button-settings =
     .title = Εναλλαγή στην καρτέλα ρυθμίσεων
 spaces-toolbar-button-collapse =
     .title = Σύμπτυξη γραμμής χώρων
+spaces-toolbar-button-reveal =
+    .title = Εμφάνιση γραμμής χώρων
 spaces-context-new-tab-item =
     .label = Άνοιγμα σε νέα καρτέλα
 spaces-context-new-window-item =
@@ -200,9 +202,13 @@ settings-context-open-settings-item =
     .label = Άνοιγμα ρυθμίσεων
 settings-context-open-account-settings-item =
     .label = Άνοιγμα ρυθμίσεων λογαριασμού
+settings-context-open-addons-item =
+    .label = Άνοιγμα προσθέτων και θεμάτων
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Άνοιγμα μενού χώρων
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
