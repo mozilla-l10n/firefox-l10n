@@ -69,8 +69,7 @@ perftools-button-edit-settings = سیٹنگز میں تدوین کریں…
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
-perftools-presets-firefox-platform-label = Firefox پلیٹ فارم
-perftools-presets-firefox-graphics-label = Firefox گرافکس
+perftools-presets-graphics-label = گرافکس
 perftools-presets-media-label = میڈیا
 perftools-presets-custom-label = مخصوص
 
