@@ -79,6 +79,17 @@ places-remove-folder =
            *[other] Премахване на папки
         }
     .accesskey = м
+places-edit-folder2 =
+    .label = Редактиране на папката…
+    .accesskey = Р
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Изтриване на папки
+            [one] Изтриване на папка
+           *[other] Изтриване на папки
+        }
+    .accesskey = з
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Служебни отметки
@@ -98,6 +109,16 @@ places-remove-bookmark =
            *[other] Премахване на отметките
         }
     .accesskey = П
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Изтриване на отметки
+            [one] Изтриване на отметка
+           *[other] Изтриване на отметки
+        }
+    .accesskey = И
 places-manage-bookmarks =
     .label = Управление на отметки
     .accesskey = У

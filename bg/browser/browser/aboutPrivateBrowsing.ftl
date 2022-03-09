@@ -7,6 +7,8 @@ privatebrowsingpage-open-private-window-label = Отваряне на повер
 about-private-browsing-search-placeholder = Търсене в интернет
 about-private-browsing-info-title = Вие сте в поверителен прозорец
 about-private-browsing-info-myths = Разпространени легенди относно поверителното разглеждане
+about-private-browsing-search-btn =
+    .title = Търсене в интернет
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -19,10 +21,12 @@ about-private-browsing-handoff-text = Търсете с { $engine } или въ�
 about-private-browsing-handoff-text-no-engine = Търсете или въведете адрес
 about-private-browsing-not-private = В момента не сте в поверителен прозорец.
 about-private-browsing-info-description = { -brand-short-name } изчиства историята на търсенето и разглеждането, когато излезете от приложението или затворите всички раздели и прозорци в поверително разглеждане. Въпреки че това не ви прави анонимни за уеб сайтовете или доставчиците на интернет услуги, това улеснява запазването анонимността на вашите действия онлайн, от останалите ползващи същия компютър.
-
 about-private-browsing-need-more-privacy = Имате нужда от повече поверителност?
 about-private-browsing-turn-on-vpn = Опитайте { -mozilla-vpn-brand-name }
-
+about-private-browsing-learn-more-link = Научете повече
+about-private-browsing-hide-activity = Скрийте активността и местоположението си навсякъде, където разглеждате
+about-private-browsing-get-privacy = Получавайте защита на поверителността навсякъде, където разглеждате
+about-private-browsing-prominent-cta = Останете скрити с { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
