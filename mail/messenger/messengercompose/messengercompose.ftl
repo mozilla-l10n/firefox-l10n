@@ -84,6 +84,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Εμφάνιση του πίνακα συνημμένων ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Απόκρυψη του πίνακα συνημμένων ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } συνημμένο
+       *[other] { $count } συνημμένα
+    }
 attachment-area-show =
     .title = Εμφάνιση πίνακα συνημμένων ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -251,13 +257,6 @@ cloud-file-count-header =
     { $count ->
         [one] Έχω συνδέσει { $count } αρχείο σε αυτό το email:
        *[other] Έχω συνδέσει { $count } αρχεία σε αυτό το email:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Μάθετε περισσότερα σχετικά με το { $lastLink }.
-       *[other] Μάθετε περισσότερα σχετικά με το { $firstLinks } και το { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
