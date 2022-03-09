@@ -154,6 +154,7 @@ spotlight-total-cookie-protection-secondary-button = 暂时不要
 
 ## Emotive Continuous Onboarding
 
+spotlight-peace-mind-header = 保护您是我的职责
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] 在程序坞中保留
