@@ -308,6 +308,7 @@ mr2-onboarding-start-browsing-button-label = Začnite z brskanjem
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Izberite svoj jezik
+onboarding-live-language-switch-button-label = Preklopi na jezik { $negotiatedLanguage }
 onboarding-live-language-waiting-subtitle = Videti je, da sta vaš sistem in { -brand-short-name } nastavljena na različna jezika.
 onboarding-live-language-waiting-button = Pridobivanje razpoložljivih jezikov …
 onboarding-live-language-secondary-cancel-download = Prekliči
