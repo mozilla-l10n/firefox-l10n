@@ -307,6 +307,7 @@ mr2-onboarding-start-browsing-button-label = Έναρξη περιήγησης
 ##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
+onboarding-live-language-header = Επιλέξτε τη γλώσσα σας
 onboarding-live-language-subtitle = Το { -brand-short-name } χρησιμοποιεί { $appLanguage } ενώ το σύστημά σας χρησιμοποιεί { $systemLanguage }.
 onboarding-live-language-switch-button-label = Εναλλαγή σε { $negotiatedLanguage }
 onboarding-live-language-button-label-downloading = Λήψη πακέτου γλώσσας για τα { $negotiatedLanguage }…
