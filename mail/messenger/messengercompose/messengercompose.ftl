@@ -86,6 +86,13 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Het bijlagevenster tonen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Het bijlagevenster verbergen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } bijlage
+        [one] { $count } bijlage
+       *[other] { $count } bijlagen
+    }
 attachment-area-show =
     .title = Het bijlagevenster tonen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -253,13 +260,6 @@ cloud-file-count-header =
     { $count ->
         [one] Ik heb { $count } bestand aan dit e-mailbericht gekoppeld:
        *[other] Ik heb { $count } bestanden aan dit e-mailbericht gekoppeld:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Meer info over { $lastLink }.
-       *[other] Meer info over { $firstLinks } en { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
