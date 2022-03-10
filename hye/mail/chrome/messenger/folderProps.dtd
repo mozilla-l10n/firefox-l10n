@@ -4,7 +4,12 @@
 
 <!ENTITY folderProps.windowtitle.label           "Յատկութիւններ">
 
+<!ENTITY generalInfo.label                       "Ընդհանուր տեղեկութիւն">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
+<!ENTITY retentionUseAccount.label  "Աւգտագործել իմ հաշուի կարգաւորումները">
+<!ENTITY retentionUseAccount.accesskey "U">
 
 
 <!ENTITY offlineFolder.check.label               "Ընտրել այս պանակը անցանց աւգտագործելու համար">
