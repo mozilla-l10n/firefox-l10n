@@ -41,6 +41,8 @@
 <!ENTITY privileges.button.label                 "Արտաւնութիւններ…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "Դուք ունէք հետեւեալ թոյղտուութիւնները.">
+<!ENTITY folderOtherUsers.label                  "Միւսները, ում հասանելի է այս թղթապանակը․">
+<!ENTITY folderType.label                        "Թղթապանակի տեսակը․">
 
 <!ENTITY folderQuotaStatus.label                 "Կարգավիճակ՝">
 
