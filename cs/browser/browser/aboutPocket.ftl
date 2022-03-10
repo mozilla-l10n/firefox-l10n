@@ -84,3 +84,15 @@ pocket-panel-header-sign-in = Přihlásit se
 
 pocket-panel-button-show-all = Zobrazit vše
 pocket-panel-button-add-tags = Přidat štítky
+pocket-panel-button-activate =
+    { -pocket-brand-name.gender ->
+        [masculine] Aktivovat { -pocket-brand-name(case: "acc") }
+        [feminine] Aktivovat { -pocket-brand-name(case: "acc") }
+        [neuter] Aktivovat { -pocket-brand-name(case: "acc") }
+       *[other] Aktivovat službu { -pocket-brand-name }
+    } { -brand-product-name.gender ->
+        [masculine] ve { -brand-product-name(case: "loc") }
+        [feminine] v { -brand-product-name(case: "loc") }
+        [neuter] v { -brand-product-name(case: "loc") }
+       *[other] v aplikaci { -brand-product-name }
+    }
