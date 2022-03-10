@@ -196,6 +196,13 @@ spotlight-total-cookie-protection-secondary-button = Teď ne
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Lepší internet začíná u vás
+spotlight-better-internet-body =
+    { -brand-short-name.gender ->
+        [masculine] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
+        [feminine] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
+        [neuter] Používáním { -brand-short-name(case: "gen") } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
+       *[other] Používáním aplikace { -brand-short-name } vyjadřujete svou podporu otevřenému webu, který je přístupný a lepší pro všechny.
+    }
 spotlight-peace-mind-header = Všechno, co potřebujete
 spotlight-peace-mind-body = Každý měsíc zablokuje { -brand-short-name } pro každého uživatele v průměru přes 3000 sledovacích prvků. A to proto, aby vám nic nesnižovalo kvalitu internetu, tím méně sledovací prvky porušující vaše soukromí.
 spotlight-pin-primary-button =
