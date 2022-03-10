@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Налады
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Змянiць налады...
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Змянiць налады...
 profiler-popup-disabled =
     Прафайлер зараз адключаны, хутчэй за ўсё, з-за адкрытага акна
     прыватнага аглядання.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Змянiць налады...
 profiler-popup-recording-screen = Запіс…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Рэкамендаваны прадусталяваны варыянт для адладкі большасці вэб-прыкладанняў, з невялікімі выдаткамі.
 profiler-popup-presets-web-developer-label =
     .label = Распрацоўшчык Сеціва
-profiler-popup-presets-firefox-platform-description = Рэкамендаваныя папярэднія налады для ўнутранай адладкі платформы Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Платформа Firefox
-profiler-popup-presets-firefox-front-end-description = Рэкамендаваныя папярэднія налады для ўнутранай адладкі кліенцкай часткі Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Кліенцкая частка Firefox
-profiler-popup-presets-firefox-graphics-description = Рэкамендаваныя папярэднія налады для даследавання прадукцыйнасці графікі Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Графіка Firefox
-profiler-popup-presets-media-description = Рэкамендаваныя папярэднія налады для дыягностыкі праблем з гукам і відэа.
 profiler-popup-presets-firefox-description = Рэкамендаваныя налады для прафілявання { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Падаць водгук…
     .accesskey = П
+appmenu-help-share-ideas =
+    .label = Падзяліцца ідэямі ці водгукам…
+    .accesskey = ц
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
