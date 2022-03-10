@@ -21,3 +21,17 @@ default-bookmarks-firefox-customize = Mukauta Firefoxia
 default-bookmarks-firefox-community = Tule mukaan
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Tietoja meistä
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Firefox Nightly -resurssit
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Firefox Nightly -blogi
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozillan vianseurantajärjestelmä
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla Developer Network
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Nightly-testaajan työkalut
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Kaikki kaatumisilmoituksesi
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
