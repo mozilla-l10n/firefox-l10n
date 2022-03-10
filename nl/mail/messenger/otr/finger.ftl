@@ -5,18 +5,15 @@
 otr-finger =
     .buttonlabelaccept = Sluiten
     .title = Eerder bekeken OTR-vingerafdrukken
-
+otr-finger-title = Eerder bekeken OTR-vingerafdrukken
 finger-intro = OTR-vingerafdrukken van eerdere end-to-end-versleutelde gesprekken.
-
 finger-screen-name =
     .label = Contact
 finger-verified =
     .label = Verificatiestatus
 finger-fingerprint =
     .label = Vingerafdruk
-
 finger-remove =
     .label = Geselecteerde verwijderen
-
 finger-remove-all =
     .label = Alle verwijderen

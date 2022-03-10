@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Telefoonnummers
 about-addressbook-details-home-address-header = Adres
 about-addressbook-details-work-address-header = Werkadres
 about-addressbook-details-other-info-header = Andere informatie
-about-addressbook-prompt-to-save-title = Wijzigingen opslaan?
-about-addressbook-prompt-to-save = Wilt u uw wijzigingen opslaan?
+about-addressbook-unsaved-changes-prompt-title = Niet-opgeslagen wijzigingen
+about-addressbook-unsaved-changes-prompt = Wilt u uw wijzigingen opslaan voordat u de bewerkingsweergave verlaat?
 
 # Photo dialog
 
