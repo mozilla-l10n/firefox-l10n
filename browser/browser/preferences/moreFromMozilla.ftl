@@ -43,5 +43,13 @@ more-from-moz-mozilla-rally-description-advanced = Darujte svá data pro výzkum
 more-from-moz-button-mozilla-rally-2 = Zapojte se do projektu { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Pro stažení do svého mobilního zařízení namiřte fotoaparát na QR kód. Poté klepněte na adresu odkazu, která se objeví.
 more-from-moz-qr-code-box-firefox-mobile-button = Nebo si nechte odkaz do mobilu poslat e-mailem
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt =
+        { -brand-product-name.gender ->
+            [masculine] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
+            [feminine] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
+            [neuter] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobily
+           *[other] QR kód pro stažení aplikace { -brand-product-name } pro mobily
+        }
 more-from-moz-button-mozilla-vpn-2 = Získat VPN
 more-from-moz-learn-more-link = Zjistit více
