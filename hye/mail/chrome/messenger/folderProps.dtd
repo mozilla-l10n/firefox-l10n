@@ -10,7 +10,14 @@
 
 <!ENTITY retentionUseAccount.label  "Աւգտագործել իմ հաշուի կարգաւորումները">
 <!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Չջնջել որեւէ հաղորդագրութիւն">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանշուած հաղորդագրութիւնները">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Ընտրել այս պանակը անցանց աւգտագործելու համար">
 <!ENTITY offlineFolder.check.accesskey           "Ը">
@@ -18,11 +25,22 @@
 <!ENTITY offlineFolder.button.accesskey          "Ն">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Ընտրել այս տեղեկատուախումբը անցանց աւգտագործման համար">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Ներբեռնել հիմա">
-<!ENTITY offlineNewsgroup.button.accesskey       "Ն">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
+<!ENTITY folderProps.name.label                  "Անուն՝">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Պատկերակի գոյնը՝">
+<!ENTITY folderProps.color.accesskey             "I">
 <!ENTITY folderProps.reset.tooltip               "Վերականգնել սկզբնադիր գոյնը">
+<!ENTITY folderProps.location.label              "Տեղադրութիւն.">
+<!ENTITY folderProps.location.accesskey          "Լ">
 
+<!ENTITY folderSharingTab.label                  "Տարածում">
+<!ENTITY privileges.button.label                 "Արտաւնութիւններ…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Դուք ունէք հետեւեալ թոյղտուութիւնները.">
 
 <!ENTITY folderQuotaStatus.label                 "Կարգավիճակ՝">
 
