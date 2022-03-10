@@ -3,8 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editContactPanelDeleteContact.label "Ջնջել">
+<!ENTITY editContactPanelDeleteContact.accesskey "I">
 
+<!ENTITY editContactName.label "Անուն.">
+<!ENTITY editContactName.accesskey "N">
 
+<!ENTITY editContactEmail.label "Ել. հասցէ">
+<!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "Հասցէագիրք">
+<!ENTITY editContactAddressBook.accesskey "A">
 
+<!ENTITY editContactPanelDone.label "Կատարուած է">
+<!ENTITY editContactPanelDone.accesskey "D">
 
