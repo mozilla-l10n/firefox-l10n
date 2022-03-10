@@ -159,4 +159,11 @@ spotlight-total-cookie-protection-secondary-button = Daha sonra
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Daha iyi bir interneti seçtiniz
+spotlight-better-internet-body = { -brand-short-name } kullandığınızda tüm insanlık için daha açık ve daha erişilebilir bir interneti savunmuş oluyorsunuz.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Dock’a sabitle
+       *[other] Görev çubuğuna sabitle
+    }
 spotlight-pin-secondary-button = Daha sonra
