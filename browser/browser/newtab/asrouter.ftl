@@ -153,3 +153,8 @@ spotlight-total-cookie-protection-body = La protection totale contre les cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crée une barrière autour des cookies, les limitant au site sur lequel vous vous trouvez afin que les traqueurs ne puissent pas les utiliser pour vous pister. Avec un accès anticipé, vous contribuerez à optimiser cette fonctionnalité afin que nous puissions continuer à bâtir un meilleur Web pour tout le monde.
 spotlight-total-cookie-protection-primary-button = Activer la protection totale contre les cookies
 spotlight-total-cookie-protection-secondary-button = Plus tard
+
+## Emotive Continuous Onboarding
+
+spotlight-peace-mind-header = Nous assurons votre protection
+spotlight-peace-mind-body = Chaque mois, { -brand-short-name } bloque en moyenne au moins 3 000 traqueurs par utilisateur. Car rien, et en particulier des atteintes à la vie privée tels les traqueurs, ne devrait se tenir entre vous et ce qu’Internet offre de meilleur.
