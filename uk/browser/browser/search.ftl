@@ -30,5 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>Ваш типовий засіб пошуку було змінено.</strong> { -brand-short-name } більше не підтримує { $oldEngine }. Тепер ваш типовий засіб пошуку — { $newEngine }. Щоб змінити його, перейдіть до налаштувань. <label data-l10n-name="remove-search-engine-article">Докладніше</label>
+remove-search-engine-message = <strong>Ваш стандартний пошуковий засіб було змінено.</strong> { $oldEngine } більше не доступний як стандартний пошуковий засіб { -brand-short-name }. Тепер ваш пошуковий засіб — { $newEngine }. Щоб змінити його, перейдіть до налаштувань. <label data-l10n-name="remove-search-engine-article">Докладніше</label>
 remove-search-engine-button = Гаразд
