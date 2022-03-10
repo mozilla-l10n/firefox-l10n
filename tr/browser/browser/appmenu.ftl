@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Ayarlar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ayarları düzenle…
+profiler-popup-disabled = Profilleyici şu anda devre dışı. Büyük olasılıkla açık bir gizli gezinti penceresi var.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Ayarları düzenle…
-profiler-popup-disabled = Profilleyici şu anda devre dışı. Büyük olasılıkla açık bir gizli gezinti penceresi var.
 profiler-popup-recording-screen = Kaydediliyor…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük overhead.
 profiler-popup-presets-web-developer-label =
     .label = Web geliştirici
-profiler-popup-presets-firefox-platform-description = Dahili Firefox platformu hata ayıklaması için önerilen ayarlar.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox platformu
-profiler-popup-presets-firefox-front-end-description = Dahili Firefox ön yüz hata ayıklaması için önerilen ayarlar.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox ön yüzü
-profiler-popup-presets-firefox-graphics-description = Firefox grafik performans incelemesi için önerilen ayarlar.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox grafikleri
-profiler-popup-presets-media-description = Ses ve video sorunlarını tanılamak için önerilen ayarlar.
 profiler-popup-presets-firefox-description = { -brand-shorter-name } tarayıcısını profilleme için önerilen ayar.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -244,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Geri bildirim gönder…
     .accesskey = G
+appmenu-help-share-ideas =
+    .label = Fikir ve görüş paylaş…
+    .accesskey = F
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
