@@ -18,7 +18,7 @@ newsletter-title = Ενημέρωση προγραμματιστών Mozilla
 newsletter-message = Λάβετε ειδήσεις, κόλπα και πόρους για προγραμματιστές απευθείας στα εισερχόμενά σας.
 newsletter-email-placeholder =
     .placeholder = Email
-newsletter-privacy-label = Δεν με πειράζει να διαχειρίζεται η Mozilla τις πληροφορίες μου, όπως εξηγείται σε αυτή την <a data-l10n-name="privacy-policy">Πολιτική Απορρήτου</a>.
+newsletter-privacy-label = Δέχομαι την επεξεργασία των πληροφοριών μου από τη Mozilla τις πληροφορίες μου, όπως εξηγεί η <a data-l10n-name="privacy-policy">Πολιτική απορρήτου</a>.
 newsletter-subscribe-button = Εγγραφή
 newsletter-thanks-title = Ευχαριστούμε!
 newsletter-thanks-message = Αν δεν έχετε ήδη επιβεβαιώσει κάποια συνδρομή σε δελτίο ενημερώσεων της Mozilla, ίσως χρειαστεί να το κάνετε. Παρακαλώ ελέγξτε τα εισερχόμενα ή τα ανεπιθύμητα για ένα email από εμάς.
