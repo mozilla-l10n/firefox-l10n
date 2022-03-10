@@ -46,5 +46,8 @@
 
 <!ENTITY folderQuotaStatus.label                 "Կարգավիճակ՝">
 
+<!ENTITY numberOfMessages.label                  "Հաղորդագրութիւնների քանակը՝">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "անյայտ">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "անյայտ">
