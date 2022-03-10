@@ -145,3 +145,8 @@ spotlight-public-wifi-vpn-link = Ei nyt
 ## Total Cookie Protection Rollout
 
 spotlight-total-cookie-protection-secondary-button = Ei nyt
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Parempi internet alkaa sinusta
+spotlight-pin-secondary-button = Ei nyt

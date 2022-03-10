@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Asetukset
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Muokkaa asetuksia…
+profiler-popup-disabled = Profiloija ei ole tällä hetkellä käytössä, todennäköisesti koska yksityisen selauksen ikkuna on auki.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Muokkaa asetuksia…
-profiler-popup-disabled = Profiloija ei ole tällä hetkellä käytössä, todennäköisesti koska yksityisen selauksen ikkuna on auki.
 profiler-popup-recording-screen = Tallennetaan…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Suositeltu esiasetus suurimpaan osaan verkkosovellusten vianjäljityksessä.
 profiler-popup-presets-web-developer-label =
     .label = Web-kehittäjä
-profiler-popup-presets-firefox-platform-description = Suositeltu esiasetus Firefox-alustan sisäiseen vianjäljitykseen.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox-alusta
-profiler-popup-presets-firefox-front-end-description = Suositeltu esiasetus Firefoxin käyttöliittymän sisäiseen vianjäljitykseen.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox-käyttöliittymä
-profiler-popup-presets-firefox-graphics-description = Suositeltu esiasetus Firefoxin grafiikan suorituskyvyn tutkintaan.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox-grafiikka
-profiler-popup-presets-media-description = Suositeltu esiasetus ääni- ja video-ongelmien diagnosointiin.
 profiler-popup-presets-firefox-description = Suositeltu esiasetus { -brand-shorter-name }in profilointiin.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -244,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Anna palautetta…
     .accesskey = A
+appmenu-help-share-ideas =
+    .label = Jaa ideoita ja palautetta…
+    .accesskey = d
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

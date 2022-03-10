@@ -9,10 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Ottaa käyttöön tuen kokeelliselle CSS Masonry Layout -ominaisuudelle. Yleiskuvauksen ominaisuudesta saa englanniksi <a data-l10n-name="explainer">tästä selostuksesta</a>. Palautetta voi antaa englanniksi kommentoimalla <a data-l10n-name="w3c-issue">tähän GitHub-issueen</a> tai <a data-l10n-name="bug">tähän bugiraporttiin</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Tämä uusi API tarjoaaa matalan tason tuen laskennan suorittamiseen ja grafiikan piirtämiseen käyttäen käyttäjän laitteen <a data-l10n-name="wikipedia">grafiikkaprosessoria (GPU)</a>. <a data-l10n-name="spec">Määrittely</a> on vielä keskeneräinen. Lisätietoja on <a data-l10n-name="bugzilla">bugissa 1602129</a>.
@@ -93,3 +89,6 @@ experimental-features-multi-pip-description = Kokeellinen tuki, jonka ansiosta u
 experimental-features-ime-search =
     .label = Osoitepalkki: näytä tulokset IME-koostamisen aikana
 experimental-features-ime-search-description = IME (Input Method Editor, kirjoitustapaeditori) on työkalu, jonka avulla voit kirjoittaa tavallisella näppäimistöllä monimutkaisia symboleja, kuten itäaasialaisia tai intialaisia symboleja. Tämän kokeilun ottaminen käyttöön pitää osoitepalkin auki näyttäen hakutulokset ja -ehdotukset samalla, kun käytät tekstinsyöttöä IME:n avulla. Huomaa, että IME saattaa näyttää paneelin, peittäen osoitepalkin hakutulokset. Siksi tätä asetusta suositellaan vain, kun IME ei käytä tämäntyyppistä paneelia.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = { -brand-product-name }:n käyttäjäagenttitunniste 100 (User-Agent)
