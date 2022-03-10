@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY accountProtocolGetMore.label "Ստանալ աւելին…">
+
+<!ENTITY accountUsernameTitle.label   "Կեղծանուն">
+<!ENTITY accountUsernameDuplicate.label "Այս հաշիւն արդէն կազմաձեւուած է:">
+
+<!ENTITY accountPasswordTitle.label   "Գաղտնաբառ">
+<!ENTITY accountPasswordField.label   "Գաղտնաբառ․">
+
+<!ENTITY accountAliasGroupbox.caption "Տեղական այղանուն">
+<!ENTITY accountAliasField.label      "Այղանուն․">
+<!ENTITY accountProxySettings.change.label     "Փոխել…">
+<!ENTITY accountProxySettings.change.accessKey "C">
+
