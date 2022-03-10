@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Explorer les sujets populaires
 pocket-panel-home-discover-more = En découvrir davantage
 pocket-panel-home-explore-more = Explorer
 pocket-panel-home-most-recent-saves = Voici vos enregistrements les plus récents :
+pocket-panel-home-most-recent-saves-loading = Chargement des sauvegardes récentes…
 pocket-panel-home-new-user-cta = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens.
 pocket-panel-home-new-user-message = Consultez vos enregistrements récents ici.
 
