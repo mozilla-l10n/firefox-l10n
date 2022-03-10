@@ -1098,8 +1098,8 @@ security-block-uncommon-software =
 
 certs-header = Πιστοποιητικά
 certs-enable-ocsp =
-    .label = Ερώτηση στους διακομιστές για OCSP ανταπόκριση, ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών
-    .accesskey = Ρ
+    .label = Αίτημα σε διακομιστές OCSP για την επιβεβαίωση της τρέχουσας εγκυρότητας των πιστοποιητικών
+    .accesskey = δ
 certs-view =
     .label = Προβολή πιστοποιητικών…
     .accesskey = Π
