@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = İstediğiniz cihazda, istediğiniz zaman görmek 
 pocket-panel-signup-tagline-story-one = { -brand-product-name }’ta istediğiniz yazıyı, videoyu veya sayfayı kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
 pocket-panel-signup-tagline-story-two = İstediğiniz cihazda, istediğiniz zaman { -pocket-brand-name }’tan bakın.
 pocket-panel-signup-cta-a = İnterneti kaydetme düğmeniz.
+pocket-panel-signup-cta-a-fix = İnterneti kaydetme düğmeniz
 pocket-panel-signup-cta-b = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın. Listenize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
+pocket-panel-signup-cta-b-short = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
 pocket-panel-signup-cta-c = Listenize istediğiniz zaman, istediğiniz cihazdan bakın.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Popüler konuları keşfedin
 pocket-panel-home-discover-more = Daha fazlasını keşfedin
 pocket-panel-home-explore-more = Keşfet
 pocket-panel-home-most-recent-saves = İşte en son kaydettikleriniz:
+pocket-panel-home-most-recent-saves-loading = Son kaydedilenler yükleniyor…
 pocket-panel-home-new-user-cta = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
 pocket-panel-home-new-user-message = Son kaydettiklerinizi burada görebilirsiniz.
 
