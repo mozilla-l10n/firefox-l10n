@@ -189,3 +189,36 @@ spaces-toolbar-button-settings =
     .title = Midar al tab dals parameters
 spaces-toolbar-button-collapse =
     .title = Reducir la trav da locals
+spaces-toolbar-button-reveal =
+    .title = Mussar la trav d'utensils dals spazis
+spaces-context-new-tab-item =
+    .label = Avrir en in nov tab
+spaces-context-new-window-item =
+    .label = Avrir en ina nova fanestra
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Midar a { $tabName }
+settings-context-open-settings-item =
+    .label = Avrir ils parameters
+settings-context-open-account-settings-item =
+    .label = Avrir ils parameters dal conto
+settings-context-open-addons-item =
+    .label = Avrir ils supplements e designs
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Avrir il menu dals spazis
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }

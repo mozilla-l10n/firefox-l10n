@@ -19,6 +19,11 @@ button-continue = Cuntinuar
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importar da { $app }
@@ -27,14 +32,28 @@ profile-file-picker-dir = Tscherna in ordinatur da profil
 profile-file-picker-zip = Tscherna ina datoteca zip (che na surpassa betg 2GB)
 items-pane-title = Tscherna tge importar
 items-pane-desc = Importar da
+items-pane-source = Lieu da funtauna:
 items-pane-checkbox-accounts = Contos e parameters
 items-pane-checkbox-address-books = Cudeschets d'adressas
 items-pane-checkbox-calendars = Chalenders
 items-pane-checkbox-mail-messages = Messadis dad e-mail
 
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Tscherna il tip da datoteca che ti vulessas importar:
+addr-book-csv-file = Datoteca separada cun commas u tabulaturs (.csv, .tsv)
+addr-book-ldif-file = Datoteca LDIF (.ldif)
+addr-book-vcard-file = Datoteca vCard (.vcf, .vcard)
+addr-book-mab-file = Datoteca da la banca da datas Mork (.mab)
+addr-book-file-picker = Tscherna ina datoteca da cudeschet d'adressas
+addr-book-directories-pane-title = Tscherna l'ordinatur en il qual ti vulessas importar:
+addr-book-directories-pane-source = Datoteca da funtauna:
+addr-book-import-into-new-directory = Crear in nov ordinatur
+
 ## Import dialog
 
 progress-pane-title = Importar
+progress-pane-finished-desc = Finì.
 progress-pane-restart-desc = Reaviar per finir l'import.
 error-pane-title = Errur
 error-message-zip-file-too-big = La datoteca zip tschernida surpassa 2GB. L'extira l'emprim ed importescha lura ord l'ordinatur extratg.
