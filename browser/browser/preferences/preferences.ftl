@@ -82,20 +82,25 @@ restart-later = Riavvia in seguito
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
+extension-controlling-password-saving = Questa impostazione è attualmente gestita da <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
+extension-controlling-web-notifications = Questa impostazione è attualmente gestita da <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Le schede contenitore sono necessarie per il funzionamento di un’estensione (<img data-l10n-name="icon"/> { $name }).
+extension-controlling-privacy-containers = Le schede contenitore sono necessarie per il funzionamento di <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 
 extension-controlled-websites-content-blocking-all-trackers = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
+extension-controlling-websites-content-blocking-all-trackers = Questa impostazione è attualmente gestita da <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Le impostazioni di { -brand-short-name } relative alla connessione a Internet sono attualmente gestite da un’estensione (<img data-l10n-name="icon"/> { $name }).
+extension-controlling-proxy-config = Le impostazioni di { -brand-short-name } relative alla connessione a Internet sono attualmente gestite da <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
