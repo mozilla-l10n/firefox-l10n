@@ -87,6 +87,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Zuppentar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } agiunta
+       *[other] { $count } agiuntas
+    }
 attachment-area-show =
     .title = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -254,13 +260,6 @@ cloud-file-count-header =
     { $count ->
         [one] Jau hai collià { $count } datoteca cun quest e-mail:
        *[other] Jau hai collià { $count } datotecas cun quest e-mail:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Ulteriuras infurmaziuns davart { $lastLink }.
-       *[other] Ulteriuras infurmaziuns davart { $firstLinks } e { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.

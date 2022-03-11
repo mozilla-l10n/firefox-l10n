@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Numers da telefon
 about-addressbook-details-home-address-header = Adressa privata
 about-addressbook-details-work-address-header = Adressa da fatschenta
 about-addressbook-details-other-info-header = Autras infurmaziuns
-about-addressbook-prompt-to-save-title = Memorisar las midadas?
-about-addressbook-prompt-to-save = Vuls ti memorisar tias midadas?
+about-addressbook-unsaved-changes-prompt-title = Midadas betg memorisadas
+about-addressbook-unsaved-changes-prompt = Vuls ti memorisar tias modificaziuns avant che bandunar la vista da redacziun?
 
 # Photo dialog
 
