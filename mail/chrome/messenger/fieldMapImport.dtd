@@ -3,11 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
+
 <!ENTITY fieldMapImport.next.label "Naslednje">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Prejšnje">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Uporabite Premakni gor/dol za ujemanje polj imenika na levi z ustreznimi podatki za uvoz na desni . Odznačite predmete, ki jih ne želite uvoziti.">
+<!ENTITY fieldMapImport.text "Poravnajte polja imenika na levi z odgovarjajočimi podatki za uvoz na desni z gumboma Premakni gor in Premakni dol. Odznačite predmete, ki jih ne želite uvoziti.">
 <!ENTITY fieldMapImport.up.label "Premakni gor">
 <!ENTITY fieldMapImport.up.accesskey "g">
 <!ENTITY fieldMapImport.down.label "Premakni dol">
