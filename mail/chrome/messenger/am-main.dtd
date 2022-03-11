@@ -35,7 +35,7 @@
 <!ENTITY attachVCard.label "Pripájať k správam moju vizitku (vCard)">
 <!ENTITY attachVCard.accesskey "m">
 
-<!ENTITY manageIdentities.label "Správa identity…">
+<!ENTITY manageIdentities.label "Spravovať identity…">
 <!ENTITY manageIdentities.accesskey "S">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
