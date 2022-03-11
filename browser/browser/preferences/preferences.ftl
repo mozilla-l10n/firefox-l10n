@@ -893,7 +893,7 @@ sitedata-settings =
     .label = Spravovať údaje…
     .accesskey = S
 sitedata-cookies-exceptions =
-    .label = Správa výnimiek…
+    .label = Spravovať výnimky…
     .accesskey = v
 
 ## Privacy Section - Address Bar
@@ -1004,7 +1004,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Správa výnimiek…
+    .label = Spravovať výnimky…
     .accesskey = S
 
 ## Privacy Section - Permissions

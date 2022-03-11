@@ -10,7 +10,7 @@ create-login-button = Nové prihlasovacie údaje
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 fxaccounts-sign-in-sync-button = Prihlásiť sa a synchronizovať
 fxaccounts-avatar-button =
-    .title = Správa účtu
+    .title = Spravovať účet
 
 ## The ⋯ menu that is in the top corner of the page
 

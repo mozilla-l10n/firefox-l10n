@@ -203,7 +203,7 @@ profiler-popup-presets-custom-label =
 ## History panel
 
 appmenu-manage-history =
-    .label = Správa histórie
+    .label = Spravovať históriu
 appmenu-reopen-all-tabs = Obnoviť všetky karty
 appmenu-reopen-all-windows = Obnoviť všetky okná
 appmenu-restore-session =
