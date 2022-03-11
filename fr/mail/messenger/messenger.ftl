@@ -184,3 +184,12 @@ spaces-toolbar-button-chat =
     .title = Aller à l’onglet de messagerie instantanée
 spaces-toolbar-button-settings =
     .title = Aller à l’onglet des paramètres
+spaces-context-new-tab-item =
+    .label = Ouvrir dans un nouvel onglet
+spaces-context-new-window-item =
+    .label = Ouvrir dans une nouvelle fenêtre
+settings-context-open-settings-item =
+    .label = Ouvrir les paramètres
+
+## Spaces toolbar pinned tab menupopup
+
