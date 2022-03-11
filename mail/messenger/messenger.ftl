@@ -188,8 +188,30 @@ spaces-context-new-tab-item =
     .label = Ouvrir dans un nouvel onglet
 spaces-context-new-window-item =
     .label = Ouvrir dans une nouvelle fenêtre
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Aller à { $tabName }
 settings-context-open-settings-item =
     .label = Ouvrir les paramètres
+settings-context-open-account-settings-item =
+    .label = Ouvrir les paramètres du compte
+settings-context-open-addons-item =
+    .label = Ouvrir le gestionnaire de modules complémentaires et de thèmes
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Ouvrir le menu des espaces
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
