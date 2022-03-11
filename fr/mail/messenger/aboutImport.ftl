@@ -19,6 +19,11 @@ button-continue = Continuer
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internet Mail
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Importer depuis { $app }
@@ -27,10 +32,20 @@ profile-file-picker-dir = Sélectionnez un dossier de profil
 profile-file-picker-zip = Sélectionnez un fichier zip (de taille inférieure à 2 Go)
 items-pane-title = Sélectionnez quoi importer
 items-pane-desc = Importer depuis
+items-pane-source = Emplacement d’origine :
 items-pane-checkbox-accounts = Comptes et paramètres
 items-pane-checkbox-address-books = Carnets d’adresses
 items-pane-checkbox-calendars = Agendas
 items-pane-checkbox-mail-messages = Courriers
+
+## Import from address book file steps
+
+import-from-addr-book-file-desc = Sélectionnez le type de fichier que vous souhaitez importer :
+addr-book-csv-file = Fichier séparé par des virgules ou des tabulations (.csv, .tsv)
+addr-book-ldif-file = Fichier LDIF (.ldif)
+addr-book-vcard-file = Fichier vCard (.vcf, .vcard)
+addr-book-mab-file = Base de données Mork (.mab)
+addr-book-file-picker = Sélectionner un fichier de carnet d’adresses
 
 ## Import dialog
 
