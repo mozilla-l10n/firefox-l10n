@@ -313,9 +313,13 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Prekliči ključ
 openpgp-key-edit-title = Spremeni ključ OpenPGP
 openpgp-key-edit-date-title = Podaljšaj veljavnost
+openpgp-manager-description = V upravitelju ključev OpenPGP lahko pregledujete in upravljate javne ključe svojih dopisnikov in vseh ostalih ključev, ki niso navedeni zgoraj.
 openpgp-manager-button =
     .label = Upravitelj ključev OpenPGP
     .accesskey = k
+openpgp-key-remove-external =
+    .label = Odstrani ID zunanjega ključa
+    .accesskey = z
 key-external-label = Zunanji ključ GnuPG
 # Strings in keyDetailsDlg.xhtml
 key-type-public = javni ključ
