@@ -46,10 +46,14 @@ addr-book-ldif-file = Fichier LDIF (.ldif)
 addr-book-vcard-file = Fichier vCard (.vcf, .vcard)
 addr-book-mab-file = Base de données Mork (.mab)
 addr-book-file-picker = Sélectionner un fichier de carnet d’adresses
+addr-book-directories-pane-title = Sélectionnez le répertoire depuis lequel vous souhaitez importer :
+addr-book-directories-pane-source = Fichier source :
+addr-book-import-into-new-directory = Créer un nouveau répertoire
 
 ## Import dialog
 
 progress-pane-title = Importation
+progress-pane-finished-desc = Terminé.
 progress-pane-restart-desc = Redémarrez pour terminer l’importation.
 error-pane-title = Erreur
 error-message-zip-file-too-big = La taille du fichier zip sélectionné est supérieure à 2 Go. Veuillez d’abord l’extraire, puis importer les données à partir du dossier d’extraction.

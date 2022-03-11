@@ -86,6 +86,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Afficher le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Masquer le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } pièce jointe
+       *[other] { $count } pièces jointes
+    }
 attachment-area-show =
     .title = Afficher le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -253,13 +259,6 @@ cloud-file-count-header =
     { $count ->
         [one] J’ai lié un fichier à ce message :
        *[other] J’ai lié { $count } fichiers à ce message :
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] En savoir plus sur { $lastLink }.
-       *[other] En savoir plus sur { $firstLinks } et { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
