@@ -172,6 +172,8 @@ decrypt-and-copy-failures = { $failures } des { $total } messages n’ont pas pu
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Barre d’espaces
 spaces-toolbar-button-mail =
     .title = Aller à l’onglet courrier
 spaces-toolbar-button-address-book =
@@ -184,6 +186,10 @@ spaces-toolbar-button-chat =
     .title = Aller à l’onglet de messagerie instantanée
 spaces-toolbar-button-settings =
     .title = Aller à l’onglet des paramètres
+spaces-toolbar-button-collapse =
+    .title = Réduire la barre d’outils des espaces
+spaces-toolbar-button-reveal =
+    .title = Afficher la barre d’outils des espaces
 spaces-context-new-tab-item =
     .label = Ouvrir dans un nouvel onglet
 spaces-context-new-window-item =
