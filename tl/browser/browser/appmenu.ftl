@@ -86,6 +86,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Walang bukas na tabs
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Buksan ang pag-sync ng tab upang makita ang listahan ng mga tab mula sa iba mo pang mga device.
+appmenu-remote-tabs-opensettings =
+    .label = Mga Setting
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?
@@ -146,12 +148,12 @@ profiler-popup-settings =
     .value = Mga Setting
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Baguhin ang Settings…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Baguhin ang Settings…
 profiler-popup-disabled =
     Ang profiler ay kasalukuyang nakapatay, malamang dahil nakabukas ang
     isang Private Browsing window.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Baguhin ang Settings…
 profiler-popup-recording-screen = Nagrerecord…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -184,12 +186,6 @@ profiler-popup-capture-shortcut =
 
 profiler-popup-presets-web-developer-label =
     .label = Web Developer
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox Platform
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox Front-End
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox Graphics
 
 ## History panel
 
