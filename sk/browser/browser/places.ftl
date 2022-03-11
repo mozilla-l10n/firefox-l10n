@@ -128,7 +128,7 @@ places-delete-bookmark =
         }
     .accesskey = d
 places-manage-bookmarks =
-    .label = Správa záložiek
+    .label = Spravovať záložky
     .accesskey = S
 places-forget-about-this-site-confirmation-title = Zabudnúť na túto stránku
 # Variables:

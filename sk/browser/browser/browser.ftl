@@ -525,7 +525,7 @@ urlbar-result-action-search-tabs = Hľadať v otvorených kartách
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -563,7 +563,7 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Správa záložiek
+    .label = Spravovať záložky
 bookmarks-recent-bookmarks-panel-subheader = Nedávno pridané medzi záložky
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobraziť ďalšie záložky
@@ -773,9 +773,6 @@ navbar-overflow =
 navbar-print =
     .label = Tlačiť
     .tooltiptext = Umožní vytlačiť túto stránku… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Tlačiť
-    .tooltiptext = Umožní vytlačiť túto stránku
 navbar-home =
     .label = Domov
     .tooltiptext = Úvodná stránka prehliadača { -brand-short-name }
