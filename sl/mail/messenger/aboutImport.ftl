@@ -19,6 +19,11 @@ button-continue = Nadaljuj
 
 ## Import from app steps
 
+app-name-thunderbird = Thunderbird
+app-name-seamonkey = SeaMonkey
+app-name-outlook = Outlook
+app-name-becky = Becky! Internetna pošta
+app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Uvozi iz programa { $app }
@@ -27,6 +32,7 @@ profile-file-picker-dir = Izberite mapo s profilom
 profile-file-picker-zip = Izberite datoteko .zip (manjšo od 2 GB)
 items-pane-title = Izberite, kaj želite uvoziti
 items-pane-desc = Uvozi iz
+items-pane-source = Izvorno mesto:
 items-pane-checkbox-accounts = Račune in nastavitve
 items-pane-checkbox-address-books = Imenike
 items-pane-checkbox-calendars = Koledarje
@@ -35,6 +41,13 @@ items-pane-checkbox-mail-messages = Poštna sporočila
 ## Import from address book file steps
 
 import-from-addr-book-file-desc = Izberite vrsto datoteke, ki jo želite uvoziti:
+addr-book-csv-file = datoteka z vrednostmi, ločenimi z vejicami ali s tabulatorji (.csv, .tsv)
+addr-book-ldif-file = Datoteka LDIF (.ldif)
+addr-book-vcard-file = Datoteka vCard (.vcf, .vcard)
+addr-book-mab-file = Datoteka podatkovne zbirke Mork (.mab)
+addr-book-file-picker = Izberite datoteko imenika
+addr-book-directories-pane-title = Izberite mapo, iz katere želite uvoziti podatke:
+addr-book-directories-pane-source = Izvorna datoteka:
 addr-book-import-into-new-directory = Ustvari novo mapo
 
 ## Import dialog
