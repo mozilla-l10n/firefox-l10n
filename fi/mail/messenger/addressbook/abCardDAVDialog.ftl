@@ -4,25 +4,21 @@
 
 carddav-window =
     .title = Uusi CardDAV-osoitekirja
-
+carddav-window-title = Uusi CardDAV-osoitekirja
 carddav-dialog =
     .buttonlabelaccept = Jatka
     .buttonaccesskeyaccept = a
-
 carddav-username-label =
     .value = Käyttäjätunnus:
     .accesskey = U
-
 carddav-location-label =
     .value = Sijainti:
     .accesskey = S
 carddav-location =
     .default-placeholder = Osoitekirjapalvelimen URL-osoite tai isäntänimi
-
 carddav-loading = Etsitään asetuksia…
 carddav-known-incompatible = { $url } on yhteensopimaton { -brand-short-name }in kanssa.
 carddav-connection-error = Yhteyden muodostus epäonnistui.
 carddav-none-found = Määritetylle tilille ei löytynyt lisättäviä osoitekirjoja.
 carddav-already-added = Kaikki määritetyn tilin osoitekirjat on jo lisätty.
-
 carddav-available-books = Käytettävissä olevat osoitekirjat:
