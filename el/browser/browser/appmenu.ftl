@@ -263,9 +263,9 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Προσαρμογή γραμμής εργαλειών…
+    .label = Προσαρμογή γραμμής εργαλείων…
 appmenu-taskmanager =
     .label = Διαχείριση εργασιών
-appmenu-developer-tools-subheader = Εργαλεία προγράμματος περιήγησης
+appmenu-developer-tools-subheader = Εργαλεία φυλλομετρητή
 appmenu-developer-tools-extensions =
     .label = Επεκτάσεις για προγραμματιστές
