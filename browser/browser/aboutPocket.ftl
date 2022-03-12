@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Speichern Sie Artikel und Videos aus { -brand-prod
 pocket-panel-signup-tagline-story-one = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um beliebige Artikel, Videos und Seiten aus { -brand-product-name } zu speichern.
 pocket-panel-signup-tagline-story-two = Lesen Sie diese mit { -pocket-brand-name }, jederzeit und auf jedem Gerät.
 pocket-panel-signup-cta-a = Ihre Speichern-Taste für das Internet.
+pocket-panel-signup-cta-a-fix = Ihre Speichern-Taste für das Internet
 pocket-panel-signup-cta-b = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um Artikel, Videos und Links zu speichern. Schauen Sie sich Ihre Liste an, jederzeit und auf jedem Gerät.
+pocket-panel-signup-cta-b-short = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um Artikel, Videos und Links zu speichern.
 pocket-panel-signup-cta-c = Schauen Sie sich Ihre Liste an, jederzeit und auf jedem Gerät.
 
 ## about:pocket-home panel
