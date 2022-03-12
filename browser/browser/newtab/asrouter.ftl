@@ -157,4 +157,12 @@ spotlight-total-cookie-protection-secondary-button = Қазір емес
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Жақсырақ интернет сізден басталады
+spotlight-better-internet-body = { -brand-short-name } пайдаланған кезде сіз әркім үшін қолайлы, ашық және қолжетімді интернетке дауыс бересіз.
+spotlight-peace-mind-header = Сіз үшін қамқорлықпен
+spotlight-peace-mind-body = Ай сайын { -brand-short-name } бір пайдаланушыға орта есеппен 3000-нан астам трекерді блоктайды. Өйткені сіз бен жақсы интернет арасында ешнәрсе, әсіресе трекерлер сияқты жеке өмірге қатысты кедергілер тұрмауы керек.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Dock ішіне қосу
+       *[other] Тапсырмалар панеліне бекіту
+    }
 spotlight-pin-secondary-button = Қазір емес
