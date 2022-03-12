@@ -41,6 +41,7 @@ customize-mode-undo-cmd =
     .label = Titzolïx
 customize-mode-lwthemes-my-themes =
     .value = Taq nuwachinel
+customize-mode-lwthemes-link = Kenuk'samajïx taq Wachinel
 customize-mode-touchbar-cmd =
     .label = Tichinäx ri Na'onel Kajtz'ik…
 customize-mode-downloads-button-autohide =
