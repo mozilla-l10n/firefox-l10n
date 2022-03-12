@@ -142,12 +142,12 @@ profiler-popup-settings =
     .value = Taq nuk'ulem
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kenuk' taq Runuk'ulem…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Kenuk' taq Runuk'ulem…
 profiler-popup-disabled =
     Wakami chupül ri ya'öl ruwäch rub'i', rik'in jub'a' ruma jun ichinan rokem tzuwäch
     nijaq.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Kenuk' taq Runuk'ulem…
 profiler-popup-recording-screen = Niyak…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -178,6 +178,12 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = Nuk'unel ajk'amaya'l
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Taq wachib'äl
 
 ## History panel
 
