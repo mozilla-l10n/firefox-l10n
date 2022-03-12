@@ -184,6 +184,8 @@ profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = Taq wachib'äl
+profiler-popup-presets-media-label =
+    .label = K'ïy k'oxom
 
 ## History panel
 
