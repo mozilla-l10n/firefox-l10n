@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Баптаулар
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Баптауларды түзету…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Баптауларды түзету…
 profiler-popup-disabled =
     Профильдеуші қазір сөндірілген, ол ашық жекелік шолу терезесінің
     салдарынан сияқты болуы мүмкін.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Баптауларды түзету…
 profiler-popup-recording-screen = Жазылуда…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Веб-қолданбалардың көбін жөндеуге арналған, қосымша шығындары аз баптаулар жиынтығы.
 profiler-popup-presets-web-developer-label =
     .label = Веб-әзірлеуші
-profiler-popup-presets-firefox-platform-description = Firefox платформасын ішкі жөндеу үшін ұсынылған баптаулар.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox платформасы
-profiler-popup-presets-firefox-front-end-description = Firefox клиент бөілігін ішкі жөндеу үшін ұсынылған баптаулар.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox клиент бөлігі
-profiler-popup-presets-firefox-graphics-description = Firefox графикасы өнімділігін тексеру үшін ұсынылған баптаулар.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox графикасы
-profiler-popup-presets-media-description = Аудио және видео мәселелерін диагностикалау үшін ұсынылған баптаулар.
 profiler-popup-presets-firefox-description = { -brand-shorter-name } профильдеу үшін ұсынылатын баптаулар жиынтығы.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Кері байланыс хабарламасын жіберу…
     .accesskey = е
+appmenu-help-share-ideas =
+    .label = Идеялар мен кері байланыспен бөлісіңіз…
+    .accesskey = с
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
