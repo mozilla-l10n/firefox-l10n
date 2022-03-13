@@ -318,6 +318,10 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ఆడుతోంది
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = మూగబోయింది
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ఆటోప్లే నిరోధించబడింది
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = చిత్రంలో-చిత్రం
@@ -466,7 +470,7 @@ urlbar-result-action-search-tabs = ట్యాబులలో వెతకం�
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -654,6 +658,13 @@ popups-infobar-dont-show-message =
     .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -665,9 +676,6 @@ navbar-overflow =
 navbar-print =
     .label = ముద్రించు
     .tooltiptext = ఈ పేజీని ముద్రించు… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = ముద్రించు
-    .tooltiptext = ఈ పేజీని ముద్రించు
 navbar-home =
     .label = ముంగిలి
     .tooltiptext = { -brand-short-name } ముంగిలి పేజీ
@@ -688,3 +696,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = అన్ని ట్యాబుల జాబితా చూపించు
     .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు
+
+## Infobar shown at startup to suggest session-restore
+

@@ -5,8 +5,10 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = వ్యవస్థ అలంకారం — స్వీయం
 extension-firefox-compact-light-name = లేత
-extension-firefox-compact-light-description = లేత రంగు అలంకారం.
+extension-firefox-compact-light-description = లేత రంగులో అలంకారం.
 extension-firefox-compact-dark-name = ముదురు
 extension-firefox-compact-dark-description = ముదురు రంగు అలంకారం.
 

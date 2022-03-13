@@ -6,6 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-last-updated = చివరి తాజాకరణ:  { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = ప్రాధాన్యత
 about-unloads-column-host = ఆతిథేయి
 about-unloads-column-last-accessed = చివరిగా చూసినది
