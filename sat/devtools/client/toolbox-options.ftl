@@ -10,41 +10,41 @@
 
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * नितोगाक् टुल बाक्सा जोसतेत् ला़गित् . बाय गोड़ोवाक् आ.
+options-tool-not-supported-label = * ᱱᱤᱛᱚᱜᱟᱜ ᱴᱩᱞ ᱵᱟᱠᱥᱟ ᱴᱟᱨᱜᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱜᱚᱲᱚᱣᱟᱜᱼᱟ
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = एड ऑन दाराय ते लाहायिजाक् टुल को बोहाल येना .
+options-select-additional-tools-label = ᱮᱰᱼᱚᱱ ᱫᱟᱨᱟᱭ ᱛᱮ ᱞᱟᱦᱟᱤᱡᱟᱜ ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱠᱚ ᱵᱚᱦᱟᱞ ᱮᱱᱟ
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = टुल बाक्सा बुता़म को ञामोक् आ .
+options-select-enabled-toolbox-buttons-label = ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱵᱟᱠᱥᱟ ᱵᱩᱛᱟᱹᱢ ᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = ᱩᱭᱦᱟᱹᱨ ᱠᱚ
 
 ## Inspector section
 
 # The heading
-options-context-inspector = ञेञेलिच्
+options-context-inspector = ᱧᱮᱧᱮᱤᱡ
 # The label for the checkbox option to show user agent styles
-options-show-user-agent-styles-label = ब्राउजार  हुना़र को उदुग मे.
+options-show-user-agent-styles-label = ᱯᱟᱱᱛᱮ ᱦᱩᱱᱟᱹᱨ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
 options-show-user-agent-styles-tooltip =
-    .title = नोवा चालु होचो ते हुड़ाक् हुना़र को उदुग आ ओका दो ब्राउजार दाराय ते लादे आ.
+    .title = ᱱᱚᱶᱟ ᱪᱟᱹᱞᱩ ᱦᱚᱪᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱦᱩᱰᱟᱹᱜ ᱦᱩᱱᱟᱹᱨ ᱠᱚ ᱩᱫᱩᱜᱼᱟ ᱚᱠᱟ ᱫᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱟᱨᱟᱭ ᱛᱮ ᱞᱟᱫᱮᱜᱼᱟ ᱾
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-label = हुड़ाक् रोङ मिदाक्
-options-default-color-unit-hex = मोहनी
-options-default-color-unit-hsl = HSL
-options-default-color-unit-rgb = RGB
-options-default-color-unit-name = रोङ ञुतुम को
+options-default-color-unit-label = ᱦᱩᱰᱟᱹᱜ ᱨᱚᱝ ᱢᱤᱫᱟᱜ
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = ᱨᱚᱝ ᱧᱩᱛᱩᱢ ᱠᱚ
 
 ## Style Editor section
 
 # The heading
-options-styleeditor-label = हुना़र सासापड़ायिच्
+options-styleeditor-label = ᱦᱩᱱᱟᱹᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱤᱡ
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
-options-stylesheet-autocompletion-label = आच् ते पुरा़व  CSS
+options-stylesheet-autocompletion-label = ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ CSS
 options-stylesheet-autocompletion-tooltip =
-    .title = ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ  CSS  ᱜᱩᱱ ᱠᱚ , ᱜᱚᱱᱚᱝ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱤᱡ ᱟᱢᱮᱢ ᱴᱟᱭᱤᱯ ᱞᱮᱠᱷᱟ ᱦᱩᱱᱟᱹᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱡ
+    .title = ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ CSS ᱜᱩᱱ ᱠᱚ , ᱜᱚᱱᱚᱝ ᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱤᱡ ᱟᱢᱮᱢ ᱴᱟᱭᱤᱯ ᱞᱮᱠᱷᱟ ᱦᱩᱱᱟᱹᱨ ᱥᱟᱥᱟᱯᱲᱟᱣᱡ
 
 ## Screenshot section
 
@@ -54,21 +54,21 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-sourceeditor-label = ᱥᱟᱥᱟᱯᱲᱟᱣᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 options-sourceeditor-detectindentation-tooltip =
-    .title = सोत बियसोय रे बाय साव साहटा सिमा़ रे बाय सा़व साहटा सिमा़ ऑनमान .
-options-sourceeditor-detectindentation-label = साहटा सिमा़ ञाम एना .
+    .title = ᱥᱨᱚᱛ ᱵᱤᱥᱚᱭ ᱨᱮ ᱵᱟᱹᱭᱥᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱨᱮ ᱵᱟᱹᱭᱥᱟᱹᱣ ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱚᱱᱢᱟᱱ
+options-sourceeditor-detectindentation-label = ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱧᱟᱢ ᱮᱱᱟ ᱾
 options-sourceeditor-autoclosebrackets-tooltip =
-    .title = आच् आच् ते बोंदोवाक् ब्रेकेट को सोगे .
-options-sourceeditor-autoclosebrackets-label = आच् ते बोंदो ब्राकेट
+    .title = ᱟᱡᱼᱟᱡ ᱛᱮ ᱵᱚᱸᱫᱟᱜ ᱵᱽᱨᱮᱠᱮᱴ ᱠᱚ ᱥᱚᱜᱮ
+options-sourceeditor-autoclosebrackets-label = ᱟᱡ ᱛᱮ ᱵᱚᱸᱫᱚ ᱵᱽᱨᱮᱠᱮᱴ
 options-sourceeditor-expandtab-tooltip =
-    .title = टेब आखोर बादाल ते फांक को बेभार मे .
-options-sourceeditor-expandtab-label = साहटा सिमा़ बेभार  फांक को.
-options-sourceeditor-tabsize-label = टेब माराङ तेत्
-options-sourceeditor-keybinding-label = का़ठी तोल को .
+    .title = ᱴᱮᱵᱽ ᱚᱠᱷᱚᱨ ᱵᱚᱫᱚᱞ ᱛᱮ ᱯᱷᱟᱸᱠ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+options-sourceeditor-expandtab-label = ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱯᱷᱟᱸᱠ ᱠᱚ
+options-sourceeditor-tabsize-label = ᱴᱮᱵᱽ ᱢᱟᱯ
+options-sourceeditor-keybinding-label = ᱠᱟᱹᱴᱷᱤ ᱛᱚᱞ ᱠᱚ
 
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
-options-context-advanced-settings = लाहावाक् साजाव को
+options-context-advanced-settings = ᱞᱟᱦᱟᱣᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = जोवा चिकी बाङ हुय होचो  *
 options-disable-javascript-tooltip =
