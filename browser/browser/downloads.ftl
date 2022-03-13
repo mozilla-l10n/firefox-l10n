@@ -42,7 +42,7 @@ downloads-cmd-show-menuitem-2 =
             [macos] Visa i Finder
            *[other] Visa i mapp
         }
-    .accesskey = F
+    .accesskey = V
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
