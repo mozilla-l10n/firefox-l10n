@@ -21,12 +21,10 @@
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "导航">
-
 <!ENTITY fullScreenCmd.label "全屏">
 
 <!ENTITY pictureInPictureHideToggle.label "隐藏画中画切换按钮">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -90,7 +88,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "打开同步首选项">
 <!ENTITY appMenuRemoteTabs.welcome.label "查看您的其他设备上的标签页列表。">
 <!ENTITY appMenuRemoteTabs.unverified.label "您的账号需要验证。">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "关联其他设备">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "连接其他设备">
 
 <!ENTITY customizeMenu.addToToolbar.label "添加到工具栏">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -140,7 +138,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "浏览器标签页">
-
 
 <!ENTITY uiTour.infoPanel.close "关闭">
 
