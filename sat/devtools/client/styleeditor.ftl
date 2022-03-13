@@ -3,20 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = दोलिल रे मित् नावा हुना़र पातार तेयार आर आकाय मे
+    .tooltiptext = ᱫᱚᱞᱤᱞ ᱨᱮ ᱢᱤᱛ ᱱᱟᱣᱟ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱛᱮᱭᱟᱨ ᱟᱨ ᱟᱠᱟᱭ ᱢᱮ
     .accesskey = N
 styleeditor-import-button =
-    .tooltiptext = दोलिल रे मित् मेनागाक् हुना़र पातार आ़गू आर आकाय मे
+    .tooltiptext = ᱫᱚᱞᱤᱞ ᱨᱮ ᱢᱤᱛ ᱢᱮᱱᱟᱜᱟᱜ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱟᱹᱜᱩ ᱟᱨ ᱟᱠᱟᱭ ᱢᱮ
     .accesskey = I
 styleeditor-visibility-toggle =
-    .tooltiptext = हुना़र पातार ञेलोगाक् तोल मे
+    .tooltiptext = ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱧᱮᱞᱚᱚᱜᱟᱜ ᱛᱚᱞ ᱢᱮ
     .accesskey = S
-styleeditor-save-button = सांचाव मे
-    .tooltiptext = मित् रेत् रे नोवा हुना़र पातार सांचाव मे
+styleeditor-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+    .tooltiptext = ᱢᱤᱛ ᱨᱮᱛ ᱨᱮ ᱱᱚᱣᱟ  ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
     .accesskey = S
 styleeditor-editor-textbox =
-    .data-placeholder = नोडे CSS टाइप मे.
-styleeditor-no-stylesheet = नोवा साहटा रे जाहान हुना़र पातार बा़नुक् आ.
-styleeditor-no-stylesheet-tip = पालेन आम सानाम काना<a data-l10n-name="append-new-stylesheet">मित् नावा हुना़र पातार आकाय मे</a>?
+    .data-placeholder = ᱱᱚᱰᱮ CSS ᱱᱚᱰᱮ ᱴᱟᱭᱤᱯ ᱢᱮ ᱾
+styleeditor-no-stylesheet = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱡᱟᱦᱟᱱ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱵᱟᱹᱱᱩᱜ ᱟ ᱾
+styleeditor-no-stylesheet-tip = ᱯᱟᱞᱮ ᱟᱢ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ <a data-l10n-name="append-new-stylesheet"> ᱢᱤᱫ ᱱᱟᱶᱟ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱟᱠᱟᱭ ᱢᱮ </a>?
 styleeditor-open-link-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱢᱮ
+styleeditor-copy-url =
+    .label = URL ᱱᱚᱠᱚᱞ‌ ᱢᱮ
