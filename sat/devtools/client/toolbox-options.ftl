@@ -70,15 +70,15 @@ options-sourceeditor-keybinding-label = ᱠᱟᱹᱴᱷᱤ ᱛᱚᱞ ᱠᱚ
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = ᱞᱟᱦᱟᱣᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = जोवा चिकी बाङ हुय होचो  *
+options-disable-javascript-label = JavaScript ᱵᱚᱸᱫᱚᱭ ᱢᱮ *
 options-disable-javascript-tooltip =
-    .title = नोवा आपनार मोने तेयाक् नितोगाक् टेब ला़गित् जावा चिकी बाय हुय होचो या. जुदी टेब आर टुल बाक्सा बोंदो ताहेनाक् एनखान नोवा साजाव हिंड़िञोक् आ.
+    .title = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ JavaScript ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱟᱭ ᱾ ᱡᱤᱫᱤ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱠᱚᱥ  ᱵᱚᱸᱫ ᱞᱮᱱ ᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱠᱚ ᱦᱤᱲᱤᱧᱚᱜᱼᱟ ᱾
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = सांगिंञ डिबॉगिंग हुय होचो  .
+options-enable-remote-label = ᱥᱟᱹᱝᱜᱤᱧ ᱰᱤᱵᱚᱜᱤᱝ ᱦᱩᱭ ᱦᱚᱪᱚ
 # The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = *एकेन नित आ का़मी ओकतो ,साहटा लादे दोहड़ा .
+options-context-triggers-page-refresh = * ᱮᱠᱷᱮᱱ ᱱᱤᱛᱟᱜ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ, ᱥᱟᱦᱴᱟ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ ᱾
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = गेको प्लेटफोर्म डाटा उदुक
+options-show-platform-data-label = ᱜᱮᱠᱚ ᱯᱞᱮᱴᱯᱷᱚᱨᱢ ᱰᱟᱴᱟ ᱩᱫᱩᱜ
 options-show-platform-data-tooltip =
-    .title = जुदी  आम नोवा  आपनार मोने तेयाक् हुय होचोया जावा चिकी प्रोफाइलार रिपोर्ट मेसाया गेको प्लेटफोर्म चिनहा़ को
+    .title = ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ JavaScript ᱢᱚᱦᱚᱨᱤᱭᱟᱹ ᱠᱷᱚᱵᱚᱨ ᱫᱚ Gecko ᱯᱞᱮᱴᱯᱷᱚᱨᱢ ᱪᱤᱱᱦᱟᱹ ᱦᱚᱸ ᱢᱮᱥᱟ ᱛᱟᱨᱟᱭᱟᱭ
