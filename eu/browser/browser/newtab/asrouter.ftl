@@ -155,3 +155,9 @@ spotlight-total-cookie-protection-body = Cookien erabateko babesarekin jarraipen
 spotlight-total-cookie-protection-expanded = { -brand-short-name }(e)k hesi bat sortzen du cookien inguruan eta zauden gunera mugatzen ditu, hauek zure jarraipena egiteko erabiltzea galarazteko. Sarbide esklusiboarekin, eginbide hau optimizatzen lagunduko duzu, guztiontzat hobea den weba eraikitzen jarraitzeko.
 spotlight-total-cookie-protection-primary-button = Gaitu cookien erabateko babesa
 spotlight-total-cookie-protection-secondary-button = Orain ez
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Internet hobea zurekin hasten da
+spotlight-better-internet-body = { -brand-short-name } erabiltzean, denontzat hobea den Internet ireki eta atzigarri baten alde egiten duzu bozka.
+spotlight-peace-mind-header = Babesean zaitugu
