@@ -13,6 +13,7 @@
 policy-AppAutoUpdate = Навсозии худкори барномаро фаъол ё ғайрифаъол мекунад.
 policy-AppUpdateURL = Нишонии URL-и фармоиширо барои навсозии барнома насб мекунад.
 policy-CertificatesDescription = Гувоҳиномаҳоро илова кунед ё гувоҳиномаҳои дарунсохтро истифода баред.
+policy-DisabledCiphers = Рамзҳоро ғайрифаъол мекунад.
 policy-DisablePrivateBrowsing = Тамошокунии махфиро ғайрифаъол мекунад.
 policy-DisableTelemetry = Санҷиши дурдаст (телеметрия)-ро хомӯш мекунад.
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
