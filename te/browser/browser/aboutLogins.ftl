@@ -8,6 +8,7 @@ login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
+fxaccounts-sign-in-sync-button = Sync లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
     .title = ఖాతా నిర్వహించు
 
@@ -57,6 +58,7 @@ about-logins-list-item-vulnerable-password-icon =
     .title = బలహీనమైన సంకేతపదం
 about-logins-list-section-breach = ఉల్లంఘిత వెబ్‌సైట్లు
 about-logins-list-section-vulnerable = బలహీనమైన సంకేతపదాలు
+about-logins-list-section-nothing = హెచ్చరిక వద్దు
 about-logins-list-section-today = ఈరోజు
 about-logins-list-section-yesterday = నిన్న
 about-logins-list-section-week = గత 7 రోజులు
@@ -111,6 +113,9 @@ about-logins-copy-password-os-auth-dialog-message-win = మీ సంకేత�
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = భద్రపరచిన సంకేతపదాన్ని కాపీచేయడానికి
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = భద్రపరచిన ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 
 ## Primary Password notification
 
