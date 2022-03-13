@@ -723,7 +723,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = 保存
     .accesskey = v
-sync-connect-another-device = 绑定其他设备
+sync-connect-another-device = 连接其他设备
 
 ## Privacy Section
 
