@@ -26,6 +26,8 @@ upgrade-dialog-pin-secondary-button = ఇప్పుడు కాదు
 
 ## Default browser screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-default-title-2 = { -brand-short-name }ని అప్రమేయం చేసుకోండి
 upgrade-dialog-default-primary-button-2 = అప్రమేయ విహరిణిగా చేయి
 upgrade-dialog-default-secondary-button = ఇప్పుడు కాదు
 
@@ -40,6 +42,9 @@ upgrade-dialog-start-secondary-button = ఇప్పుడు కాదు
 
 ## Colorway screen
 
+upgrade-dialog-colorway-secondary-button = మునుపటి అలంకారాన్ని ఉండనివ్వు
+upgrade-dialog-colorway-theme-tooltip =
+    .title = అప్రమేయ అలంకారాలను చూడండి
 upgrade-dialog-colorway-default-theme = అప్రమేయం
 upgrade-dialog-theme-primary-button = అలంకారాన్ని భద్రపరుచు
 upgrade-dialog-theme-secondary-button = ఇప్పుడు కాదు
