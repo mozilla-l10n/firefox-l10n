@@ -71,6 +71,29 @@ downloads-cmd-show-description =
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Juntape' Kejaq Junam Kiwa taq Yakb'äl
+    .accesskey = n
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Tik'ut pan Ilolb'äl
+           *[other] Tik'ut pa Molyakb'äl
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Tik'ut pan Ilob'äl
+           *[other] Tik'ut pan Molyakb'äl
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Tik'ut pan Ilob'äl
+           *[other] Tik'ut pa Molyab'äl
+        }
 downloads-cmd-show-downloads =
     .label = Tik'ut pe Kiyakwuj taq Qasanïk
 downloads-cmd-retry =
@@ -92,6 +115,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Kejosq'ïx taq Qasanïk
     .accesskey = Q
+downloads-cmd-delete-file =
+    .label = Tiyuj
+    .accesskey = y
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Tiya' q'ij chi tiqasäx
