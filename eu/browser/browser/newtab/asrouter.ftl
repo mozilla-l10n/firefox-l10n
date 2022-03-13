@@ -161,3 +161,10 @@ spotlight-total-cookie-protection-secondary-button = Orain ez
 spotlight-better-internet-header = Internet hobea zurekin hasten da
 spotlight-better-internet-body = { -brand-short-name } erabiltzean, denontzat hobea den Internet ireki eta atzigarri baten alde egiten duzu bozka.
 spotlight-peace-mind-header = Babesean zaitugu
+spotlight-peace-mind-body = Hilero, { -brand-short-name }(e)k 3000 jarraipen-elementu baino gehiago blokeatzen ditu erabiltzaileko batez bestean. Izan ere ezerk ez bailuke zure eta Internet onaren artean egon behar — bereziki pribatutasunaren oztopo diren jarraipen-elementuak.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mantendu Dock-ean
+       *[other] Ainguratu ataza-barran
+    }
+spotlight-pin-secondary-button = Une honetan ez
