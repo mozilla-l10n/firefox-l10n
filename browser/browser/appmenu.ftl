@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = การตั้งค่า
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = แก้ไขการตั้งค่า
+profiler-popup-disabled = ขณะนี้ตัวสร้างโปรไฟล์ถูกปิดใช้งาน ซึ่งส่วนใหญ่เกิดจากหน้าต่างการเรียกดูแบบส่วนตัวกำลังถูกเปิด
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = แก้ไขการตั้งค่า
-profiler-popup-disabled = ขณะนี้ตัวสร้างโปรไฟล์ถูกปิดใช้งาน ซึ่งส่วนใหญ่เกิดจากหน้าต่างการเรียกดูแบบส่วนตัวกำลังถูกเปิด
 profiler-popup-recording-screen = กำลังบันทึก…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,22 +185,18 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
 profiler-popup-presets-web-developer-label =
     .label = นักพัฒนาเว็บ
-profiler-popup-presets-firefox-platform-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กแพลตฟอร์ม Firefox ภายใน
-profiler-popup-presets-firefox-platform-label =
-    .label = แพลตฟอร์ม Firefox
-profiler-popup-presets-firefox-front-end-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กฟรอนต์เอนด์ Firefox ภายใน
-profiler-popup-presets-firefox-front-end-label =
-    .label = ฟรอนต์เอนด์ Firefox
-profiler-popup-presets-firefox-graphics-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการตรวจสอบประสิทธิภาพด้านกราฟิกของ Firefox
-profiler-popup-presets-firefox-graphics-label =
-    .label = กราฟิก Firefox
-profiler-popup-presets-media-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการวินิจฉัยปัญหาเกี่ยวกับเสียงและวิดีโอ
+profiler-popup-presets-firefox-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการรวบรวมประวัติ { -brand-shorter-name }
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับกราฟิกใน { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = กราฟิก
+profiler-popup-presets-media-description2 = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับเสียงและวิดีโอใน { -brand-shorter-name }
 profiler-popup-presets-media-label =
     .label = สื่อ
+profiler-popup-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
+profiler-popup-presets-networking-label =
+    .label = ระบบเครือข่าย
 profiler-popup-presets-custom-label =
     .label = กำหนดเอง
 
@@ -238,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = ส่งข้อคิดเห็น…
     .accesskey = ส
+appmenu-help-share-ideas =
+    .label = แบ่งปันแนวคิดและคำติชม…
+    .accesskey = บ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
