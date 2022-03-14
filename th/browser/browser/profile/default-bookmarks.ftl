@@ -7,6 +7,10 @@
 # This approach minimizes issues across multiple release channels and rebranded
 # versions.
 
+default-bookmarks-title = ที่คั่นหน้า
+default-bookmarks-heading = ที่คั่นหน้า
+default-bookmarks-toolbarfolder = โฟลเดอร์แถบเครื่องมือที่คั่นหน้า
+default-bookmarks-toolbarfolder-description = เพิ่มที่คั่นหน้าไปยังโฟลเดอร์นี้เพื่อให้แสดงผลบนแถบเครื่องมือที่คั่นหน้า
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = เริ่มต้นใช้งาน
 # Firefox links folder name
@@ -31,3 +35,5 @@ default-bookmarks-mdn = Mozilla Developer Network
 default-bookmarks-nightly-tester-tools = เครื่องมือทดสอบ Nightly
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = ข้อขัดข้องของคุณทั้งหมด
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planet Mozilla
