@@ -142,5 +142,27 @@ spotlight-public-wifi-vpn-link = ไม่ใช่ตอนนี้
 
 ## Total Cookie Protection Rollout
 
+# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
+# "Join an early experiment". This header text can be explicitly wrapped.
+spotlight-total-cookie-protection-header =
+    ลองสัมผัสประสบการณ์ความเป็นส่วนตัว
+    ที่ทรงพลังที่สุดของเรา
+spotlight-total-cookie-protection-body = การป้องกันคุกกี้ทั้งหมดจะหยุดตัวติดตามไม่ให้ใช้คุกกี้ตามรอยคุณในทุกเว็บ
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } จะสร้างรั้วกั้นคุกกี้ต่าง ๆ โดยจำกัดเฉพาะไซต์ที่คุณใช้ เพื่อไม่ให้ตัวติดตามใช้คุกกี้ติดตามคุณได้ คุณสามารถเข้าถึงคุณลักษณะนี้ล่วงหน้าเพื่อช่วยปรับปรุงให้เราสร้างเว็บที่ดีขึ้นสำหรับทุกคนได้
 spotlight-total-cookie-protection-primary-button = เปิดการป้องกันคุกกี้ทั้งหมด
 spotlight-total-cookie-protection-secondary-button = ไม่ใช่ตอนนี้
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = อินเทอร์เน็ตที่ดีขึ้นเริ่มที่ตัวคุณ
+spotlight-better-internet-body = เมื่อคุณใช้ { -brand-short-name } แสดงว่าคุณสนับสนุนอินเทอร์เน็ตที่เปิดกว้างและเข้าถึงได้ซึ่งดีขึ้นสำหรับทุกคน
+spotlight-peace-mind-header = เราปกป้องคุณอย่างครอบคลุม
+spotlight-peace-mind-body = ทุกเดือน { -brand-short-name } จะปิดกั้นตัวติดตามกว่า 3,000 ตัวโดยเฉลี่ยต่อผู้ใช้หนึ่งคน เพราะไม่ควรมีอะไรมาขวางกั้นระหว่างคุณกับอินเทอร์เน็ตที่ดี โดยเฉพาะปัญหาเกี่ยวกับความเป็นส่วนตัว เช่น ตัวติดตาม
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] เก็บใน Dock
+       *[other] ปักหมุดเข้ากับแถบงาน
+    }
+spotlight-pin-secondary-button = ไม่ใช่ตอนนี้
