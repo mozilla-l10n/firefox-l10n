@@ -38,6 +38,8 @@ pocket-panel-signup-signup-firefox = ลงทะเบียนด้วย { -
 pocket-panel-signup-tagline = บันทึกบทความและวิดีโอจาก { -brand-product-name } เพื่อดูใน { -pocket-brand-name } บนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
 pocket-panel-signup-tagline-story-one = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ หรือหน้าจาก { -brand-product-name }
 pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } บนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-a = ปุ่มบันทึกของคุณสำหรับอินเทอร์เน็ต
+pocket-panel-signup-cta-a-fix = ปุ่มบันทึกของคุณสำหรับอินเทอร์เน็ต
 
 ## about:pocket-home panel
 
@@ -47,6 +49,7 @@ pocket-panel-home-paragraph = คุณสามารถใช้ { -pocket-bra
 pocket-panel-home-explore-popular-topics = สำรวจหัวข้อยอดนิยม
 pocket-panel-home-discover-more = ค้นพบเพิ่มเติม
 pocket-panel-home-explore-more = สำรวจ
+pocket-panel-home-most-recent-saves = นี่คือรายการที่บันทึกล่าสุดของคุณ:
 
 ## Pocket panel header component
 
