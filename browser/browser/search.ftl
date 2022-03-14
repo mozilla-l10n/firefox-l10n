@@ -24,3 +24,11 @@ searchbar-input =
     .placeholder = ค้นหา
 searchbar-icon =
     .tooltiptext = ค้นหา
+
+## Infobar shown when search engine is removed and replaced.
+## Variables
+## $oldEngine (String) - the search engine to be removed.
+## $newEngine (String) - the search engine to replace the removed search engine.
+
+remove-search-engine-message = <strong>เครื่องมือค้นหาเริ่มต้นของคุณถูกเปลี่ยนแล้ว</strong> { -brand-short-name } ไม่รองรับ { $oldEngine } อีกต่อไป { $newEngine } คือเครื่องมือค้นหาเริ่มต้นของคุณในตอนนี้ เมื่อต้องการเปลี่ยนเป็นเครื่องมือค้นหาเริ่มต้นอื่น ให้ไปที่การตั้งค่า <label data-l10n-name="remove-search-engine-article">เรียนรู้เพิ่มเติม</label>
+remove-search-engine-button = ตกลง

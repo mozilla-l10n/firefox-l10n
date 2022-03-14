@@ -56,6 +56,8 @@ mobile-app-links = เบราว์เซอร์ { -brand-product-name } ส
 lockwise-title = จะไม่ลืมรหัสผ่านอีก
 lockwise-title-logged-in2 = การจัดการรหัสผ่าน
 lockwise-header-content = { -lockwise-brand-name } เก็บรหัสผ่านของคุณอย่างปลอดภัยในเบราว์เซอร์ของคุณ
+passwords-title-logged-in = จัดการรหัสผ่านของคุณ
+passwords-header-content = { -brand-product-name } เก็บรหัสผ่านของคุณอย่างปลอดภัยในเบราว์เซอร์ของคุณ
 lockwise-header-content-logged-in = เก็บและซิงค์รหัสผ่านของคุณกับอุปกรณ์ทั้งหมดอย่างปลอดภัย
 protection-report-save-passwords-button = บันทึกรหัสผ่าน
     .title = บันทึกรหัสผ่านบน { -lockwise-brand-short-name }
@@ -64,6 +66,10 @@ protection-report-manage-passwords-button = จัดการรหัสผ่
 lockwise-mobile-app-title = นำรหัสผ่านของคุณไปทุกที่
 lockwise-no-logins-card-content = ใช้รหัสผ่านที่บันทึกใน { -brand-short-name } บนอุปกรณ์อื่น
 lockwise-app-links = { -lockwise-brand-name } สำหรับ <a data-l10n-name="lockwise-android-inline-link">Android</a>และ<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+protection-report-passwords-save-passwords-button = บันทึกรหัสผ่าน
+    .title = บันทึกรหัสผ่าน
+protection-report-passwords-manage-passwords-button = จัดการรหัสผ่าน
+    .title = จัดการรหัสผ่าน
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
