@@ -23,7 +23,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.retry.label                  "Tentar novamente">
 <!ENTITY cmd.retry.accesskey              "T">
 <!ENTITY cmd.removeFromList.label         "Remover da lista">
-<!ENTITY cmd.removeFromList.accesskey     "x">
+<!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
