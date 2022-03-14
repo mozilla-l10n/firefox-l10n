@@ -332,11 +332,11 @@ bookmarks-toolbar-chevron =
 bookmarks-sidebar-content =
     .aria-label = बुकमार्कहरु
 bookmarks-menu-button =
-    .label = पुस्तकचिनोहरूको मेनु
+    .label = बुकमार्क मेनु
 bookmarks-other-bookmarks-menu =
-    .label = अन्य पुस्तकचिनोहरू
+    .label = अन्य बुकमार्कहरू
 bookmarks-mobile-bookmarks-menu =
-    .label = मोबाइल पुस्तकचिनोहरू
+    .label = मोबाइल बुकमार्कहरू
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
