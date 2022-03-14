@@ -166,7 +166,7 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή ανιχνεύθηκε σφάλμα κατά τη μετάδοση δεδομένων.</p><ul><li>Παρακαλώ ενημερώστε τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li></ul>">
 
-<!ENTITY securityOverride.exceptionButton1Label "Αποδοχή ρίσκου και συνέχεια">
+<!ENTITY securityOverride.exceptionButton1Label "Αποδοχή κινδύνου και συνέχεια">
 
 <!ENTITY errorReporting.automatic2 "Αναφορά παρόμοιων σφαλμάτων για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοτόπων">
 <!ENTITY errorReporting.learnMore "Μάθετε περισσότερα…">
