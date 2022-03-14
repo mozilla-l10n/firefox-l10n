@@ -123,14 +123,14 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = นักพัฒนาเว็บ
 perftools-presets-web-developer-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กเว็บแอปส่วนใหญ่ โดยมีโอเวอร์เฮดต่ำ
-perftools-presets-firefox-platform-label = แพลตฟอร์ม Firefox
-perftools-presets-firefox-platform-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กแพลตฟอร์ม Firefox ภายใน
-perftools-presets-firefox-front-end-label = ฟรอนต์เอนด์ Firefox
-perftools-presets-firefox-front-end-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการดีบั๊กฟรอนต์เอนด์ Firefox ภายใน
-perftools-presets-firefox-graphics-label = กราฟิก Firefox
-perftools-presets-firefox-graphics-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการตรวจสอบประสิทธิภาพด้านกราฟิกของ Firefox
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการรวบรวมประวัติ { -brand-shorter-name }
+perftools-presets-graphics-label = กราฟิก
+perftools-presets-graphics-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับกราฟิกใน { -brand-shorter-name }
 perftools-presets-media-label = สื่อ
-perftools-presets-media-description = ค่าที่ตั้งล่วงหน้าที่แนะนำสำหรับการวินิจฉัยปัญหาเกี่ยวกับเสียงและวิดีโอ
+perftools-presets-media-description2 = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับเสียงและวิดีโอใน { -brand-shorter-name }
+perftools-presets-networking-label = ระบบเครือข่าย
+perftools-presets-networking-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับระบบเครือข่ายใน { -brand-shorter-name }
 perftools-presets-custom-label = กำหนดเอง
 
 ##

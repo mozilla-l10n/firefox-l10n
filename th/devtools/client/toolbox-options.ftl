@@ -42,6 +42,7 @@ options-default-color-unit-authored = ตามหน่วยเดิม
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = ชื่อสี
 
 ## Style Editor section
@@ -103,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = เปิดใช้งานการดีบั๊กระยะไกล
 options-enable-remote-tooltip2 =
     .title = การเปิดตัวเลือกนี้จะอนุญาตให้สามารถดีบั๊กอินสแตนซ์เบราว์เซอร์นี้จากระยะไกลได้
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = เปิดใช้งานตัวจัดรูปแบบที่กำหนดเอง
+options-enable-custom-formatters-tooltip =
+    .title = การเปิดตัวเลือกนี้จะทำให้ไซต์ต่าง ๆ สามารถกำหนดตัวจัดรูปแบบที่กำหนดเองสำหรับวัตถุ DOM ได้
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = เปิดใช้งานตัวทำงานบริการผ่าน HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)
 options-enable-service-workers-http-tooltip =
