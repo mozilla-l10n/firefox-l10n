@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = การบันทึก AEC
 about-webrtc-aec-logging-off-state-label = เริ่มการบันทึก AEC
 about-webrtc-aec-logging-on-state-label = หยุดการบันทึก AEC
 about-webrtc-aec-logging-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = การรีเฟรชอัตโนมัติ
 
 ##
 

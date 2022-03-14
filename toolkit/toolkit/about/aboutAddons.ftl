@@ -137,6 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = การอัปเดตล่าสุด
 addon-category-recent-updates-title =
     .title = การอัปเดตล่าสุด
+addon-category-sitepermission = สิทธิอนุญาตไซต์
+addon-category-sitepermission-title =
+    .title = สิทธิอนุญาตไซต์
 
 ## These are global warnings
 
@@ -291,6 +294,8 @@ dictionary-enabled-heading = ถูกเปิดใช้งาน
 dictionary-disabled-heading = ถูกปิดใช้งาน
 locale-enabled-heading = ถูกเปิดใช้งาน
 locale-disabled-heading = ถูกปิดใช้งาน
+sitepermission-enabled-heading = เปิดใช้งานอยู่
+sitepermission-disabled-heading = ปิดใช้งานอยู่
 always-activate-button = เปิดใช้งานเสมอ
 never-activate-button = ไม่เปิดใช้งานเสมอ
 addon-detail-author-label = ผู้สร้าง
@@ -366,6 +371,7 @@ addon-permissions-optional = สิทธิอนุญาตที่เลื
 addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับสิทธิอนุญาต
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
 recommended-themes-heading = ชุดตกแต่งที่แนะนำ
+addon-sitepermissions-required = มอบความสามารถต่อไปนี้ให้ <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างชุดตกแต่งในรูปแบบของคุณเองด้วย Firefox Color</a>
@@ -378,6 +384,7 @@ plugin-heading = จัดการปลั๊กอินของคุณ
 dictionary-heading = จัดการพจนานุกรมของคุณ
 locale-heading = จัดการภาษาของคุณ
 updates-heading = จัดการการอัปเดตของคุณ
+sitepermission-heading = จัดการสิทธิอนุญาตไซต์ของคุณ
 discover-heading = ปรับแต่ง { -brand-short-name } ของคุณ
 shortcuts-heading = จัดการทางลัดส่วนขยาย
 default-heading-search-label = ค้นหาส่วนเสริมเพิ่มเติม
