@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = खोजी गर्नुहोस्
     .aria-label = खोजी गर्नुहोस्
-
 newtab-search-box-search-the-web-input =
     .placeholder = वेबमा खोज्नुहोस्
     .title = वेबमा खोज्नुहोस्
@@ -28,12 +27,10 @@ newtab-topsites-edit-topsites-header = शीर्ष साइट सम्प
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = शीर्षक प्रविष्ट गर्नुहोस्
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
-    .placeholder = URL लेख्नुहोस्
+    .placeholder = URL लेख्नुहोस् वा पेस्ट गर्नुहोस्
 newtab-topsites-url-validation = मान्य URL चाहिन्छ
-
 newtab-topsites-image-url-label = अनुकूल तस्बिर URL
 newtab-topsites-use-image-link = अनुकूल तस्बिर प्रयोग गर्नुहोस्…
 newtab-topsites-image-validation = तस्बिर लोड गर्न असफल भयो । फरक URL प्रयास गर्नुहोस् ।
@@ -46,8 +43,6 @@ newtab-topsites-save-button = सङ्ग्रह गर्नुहोस्
 newtab-topsites-preview-button = पूर्ववलोकन
 newtab-topsites-add-button = थप्नुहोस्
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = के तपाईं पक्का हुनुहुन्छ कि तपाइँ यस पृष्ठको हरेक उदाहरण तपाइँको इतिहासबाट हटाउन चाहनुहुन्छ ?
@@ -55,6 +50,7 @@ newtab-confirm-delete-history-p1 = के तपाईं पक्का हु
 newtab-confirm-delete-history-p2 = यो कार्य पूर्ववत गर्न सकिँदैन ।
 
 ## Top Sites - Sponsored label
+
 
 ## Context Menu - Action Tooltips.
 
@@ -78,15 +74,13 @@ newtab-menu-archive-pocket = { -pocket-brand-name } मा संग्रह �
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = पुस्तकचिनो हटाउनुहोस्
 # Bookmark is a verb here.
 newtab-menu-bookmark = पुस्तकचिनो
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -116,9 +110,6 @@ newtab-label-recommended = प्रचलनमा
 newtab-label-saved = { -pocket-brand-name } मा सङ्ग्रह गरियो
 newtab-label-download = डाउनलोड भयो
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -133,6 +124,7 @@ newtab-section-menu-privacy-notice = गोपनीयता नीति
 
 ## Section aria-labels
 
+
 ## Section Headers.
 
 newtab-section-header-topsites = शीर्ष साइटहरु
@@ -144,19 +136,22 @@ newtab-section-header-pocket = { $provider } द्वारा सिफार�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउज गर्न सुरू गर्नुहोस्, र हामी केहि उत्कृष्ट लेखहरू, भिडियोहरू, र अन्य पृष्ठहरू जुन तपाईंले भर्खरै भ्रमण गर्नुभएको वा पुस्तकचिनो राख्नुभएको छ यहाँ देखाउँछौ ।
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = अहिले यति नै । { $provider } बाट थप शीर्ष कथाहरूको हेर्नका लागि पछि फेरि जाँच गर्नुहोस् । अाफुलाई रोक्न सक्नुहुदैन ? वेबभरिका राम्रा कथाहरु भेटाउन कुनै एउटा लोकप्रिय विषय छान्नुहोस् ।
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = लोकप्रिय शीर्षकहरू:
+
+## Pocket Final Card Section.
+## This is for the final card in the Pocket grid.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
