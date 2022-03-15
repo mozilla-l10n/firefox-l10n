@@ -325,11 +325,7 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
     }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
-    }
+about-logins-import-report-no-change = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported">(आयात गरिएको छैन)</div>
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">त्रुटिहरू</div> <div data-l10n-name="not-imported" >(आयात गरिएको छैन)</div>
