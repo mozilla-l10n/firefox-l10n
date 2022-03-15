@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Beliebte Themen entdecken
 pocket-panel-home-discover-more = Mehr entdecken
 pocket-panel-home-explore-more = Entdecken
 pocket-panel-home-most-recent-saves = Ihre zuletzt hinzugefügten Einträge:
+pocket-panel-home-most-recent-saves-loading = Zuletzt hinzugefügte Einträge werden geladen…
 pocket-panel-home-new-user-cta = Klicken Sie auf die { -pocket-brand-name }-Schaltfläche, um Artikel, Videos und Links zu speichern.
 pocket-panel-home-new-user-message = Ihre zuletzt hinzugefügten Einträge finden Sie hier.
 
