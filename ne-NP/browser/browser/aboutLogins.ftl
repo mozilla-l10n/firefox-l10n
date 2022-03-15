@@ -174,6 +174,12 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] के तपाईँ { $count } सबै यन्त्रहरूबाट लगइन हटाउन चाहानुहुन्छ ?
        *[other] के तपाईँ { $count } सबै यन्त्रहरूबाट लगइनहरु हटाउन चाहानुहुन्छ ?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
+        [one] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
+       *[other] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
+    }
 about-logins-confirm-export-dialog-title = लगइनहरू र पासवर्डहरू निर्यात गर्नुहोस्
 about-logins-confirm-export-dialog-message = तपाईंका पासवर्डहरू पढ्न योग्य अक्षर (जस्तै, BadP@ssw0rd) को रूपमा बचत गरिनेछ, ताकि जो कोहीले निर्यातित फाइलहरु खोल्न र तिनीहरूलाई हेर्न सक्छन्।
 about-logins-confirm-export-dialog-confirm-button = निर्यात गर्नुहोस्…
@@ -204,6 +210,11 @@ about-logins-vulnerable-alert-learn-more-link = थप जान्नुहो�
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = त्यो प्रयोगकर्ता नाम भएको { $loginTitle } को लागि प्रविष्टि पहिले नै अवस्थित छ। <a data-l10n-name="duplicate-link">अवस्थित प्रविष्टिमा जाने हो?</a>
 # This is a generic error message.
 about-logins-error-message-default = यो पासवर्ड सेभ गर्ने क्रममा त्रुटि भयो।
 
@@ -248,16 +259,48 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = आयात सफल भयो
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>नयाँ लगइनहरू थपियो:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>नयाँ लगइनहरू थपियो:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>अवस्थित लगइनहरू अद्यावधिक गरियो:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>अवस्थित लगइनहरू अद्यावधिक गरियो:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>डुप्लिकेट लगइनहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
+       *[other] <span>डुप्लिकेट लगइनहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>त्रुटिहरू:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span>
+       *[other] <span>त्रुटिहरू:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span>
+    }
 about-logins-import-dialog-done = सम्पन्न भयो
 about-logins-import-dialog-error-title = आयात गर्ने क्रममा त्रुटि भयो
 about-logins-import-dialog-error-conflicting-values-title = एक लगइनको लागि बहुविवादित मानहरू
+about-logins-import-dialog-error-conflicting-values-description = उदाहरण को लागी: एक लगइन को लागी धेरै युजरनेमगरू, पासवर्डहरू, URLs, आदि।
+about-logins-import-dialog-error-file-format-title = फाइल ढाँचा मामिला
+about-logins-import-dialog-error-file-format-description = स्तम्भ हेडरहरू गलत वा छुटेका छन्। सुनिश्चित गर्नुहोस् कि फाइलमा प्रयोगकर्ता नाम, पासवर्ड र URL को लागि स्तम्भहरू समावेश छन्।
 about-logins-import-dialog-error-file-permission-title = फाइल पढ्न असमर्थ
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } सँग फाइल पढ्ने अनुमति छैन। फाइल अनुमतिहरू परिवर्तन गर्ने प्रयास गर्नुहोस्।
+about-logins-import-dialog-error-unable-to-read-title = फाइल पार्स गर्न असमर्थ
 about-logins-import-dialog-error-unable-to-read-description = तपाईंले CSV वा TSV फाइल चयन गर्नुभयो भनि निश्चित गर्नुहोस्।
 about-logins-import-dialog-error-no-logins-imported = कुनै लगइनहरू आयात गरिएको छैन
 about-logins-import-dialog-error-learn-more = थप जान्नुहोस्
 about-logins-import-dialog-error-try-import-again = फेरि आयात प्रयास गर्नुहोस्…
 about-logins-import-dialog-error-cancel = रद्द गर्नुहोस्
 about-logins-import-report-title = सारांश आयात गर्नुहोस्
+about-logins-import-report-description = लगइन र पासवर्डहरू { -brand-short-name } मा आयात गरियो।
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = पङ्क्ति { $number }
+about-logins-import-report-row-description-no-change = नक्कल: अवस्थित लगइनको सटीक मिलान
+about-logins-import-report-row-description-modified = अवस्थित लगइन अद्यावधिक गरियो
 about-logins-import-report-row-description-added = नयाँ लगइन थपियो
 about-logins-import-report-row-description-error = त्रुटि: क्षेत्र छुटेको छ
 
@@ -265,12 +308,33 @@ about-logins-import-report-row-description-error = त्रुटि: क्ष
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = त्रुटि: { $field } को लागि धेरै मानहरू
 about-logins-import-report-row-description-error-missing-field = त्रुटि: { $field } छुटेको छ
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ लगइनहरू थपियो</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ लगइनहरू थपियो</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">त्रुटिहरू</div> <div data-l10n-name="not-imported" >(आयात गरिएको छैन)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">त्रुटिहरू</div> <div data-l10n-name="not-imported" >(आयात गरिएको छैन)</div>
+    }
 
 ## Logins import report page
 
