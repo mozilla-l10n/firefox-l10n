@@ -21,7 +21,7 @@ about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firef
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Fjarmælinga skjáborðið</a> sýnir þér hvaða gögn Mozilla tekur á móti í gegnum fjarmælingar.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Rannsóknaorðasafnið</a> útvegar smáatriði og lýsingar um rannsóknarsafn úr fjarmælingum.
 about-telemetry-show-in-Firefox-json-viewer = Opna í JSON skoðara
-about-telemetry-home-section = Heim
+about-telemetry-home-section = Upphafssíða
 about-telemetry-general-data-section = Almenn gögn
 about-telemetry-environment-data-section = Umhverfisgögn
 about-telemetry-session-info-section = Upplýsingar um lotu
