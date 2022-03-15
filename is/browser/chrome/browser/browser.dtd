@@ -42,7 +42,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Upphafssíða">
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; upphafssíða">
+<!ENTITY homeButton.defaultPage.tooltip "Upphafssíða &brandShortName;">
 
 <!ENTITY historyButton.label            "Ferill">
 
