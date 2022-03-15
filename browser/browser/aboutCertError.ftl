@@ -48,6 +48,7 @@ cert-error-code-prefix-link = त्रुटि कोड: <a data-l10n-name="e
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = वेबसाइटहरूले प्रमाणपत्रहरूको माध्यमबाट उनीहरूको पहिचान प्रमाणित गर्दछ, जुन प्रमाणपत्र अधिकारीहरूद्वारा जारी गरिन्छ। अधिकांश ब्राउजरहरूले GeoTrust, RapidSSL, Symantec, Thawte र VeriSign, द्वारा जारी गरिएको विश्वास प्रमाणपत्रहरू स्विकार गर्दैनन्। { $hostname } ले यी अधिकारीहरु मध्ये एकबाट प्रमाणपत्र प्रयोग गर्दछ र त्यसैले वेबसाइटको पहिचान प्रमाणित गर्न सकिँदैन।
 cert-error-symantec-distrust-admin = तपाईं यस समस्याको बारेमा वेबसाइट प्रशासकलाई सूचित गर्न सक्नुहुन्छ।
+cert-error-old-tls-version = यो वेबसाइटले TLS 1.2 प्रोटोकललाई समर्थन नगर्न सक्छ, जुन { -brand-short-name } द्वारा समर्थित न्यूनतम संस्करण हो।
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
