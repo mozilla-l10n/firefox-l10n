@@ -459,7 +459,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Home (sjálfgefið)
+    .label = Upphafssíða Firefox (sjálfgefið)
 home-mode-choice-custom =
     .label = Sérsniðin URL…
 home-mode-choice-blank =
@@ -483,8 +483,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Upphafssíða Firefox
-home-prefs-content-description = Veldu hvaða efni þú vilt á Firefox heimaskjánum þínum.
+home-prefs-content-header = Efni á upphafssíðu Firefox
+home-prefs-content-description = Veldu hvaða efni þú vilt sjá á upphafssíðu Firefox.
 home-prefs-search-header =
     .label = Vefleit
 home-prefs-topsites-header =
@@ -530,8 +530,8 @@ home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
-    .label = Bútar
-home-prefs-snippets-description = Uppfærslur frá { -vendor-short-name } og { -brand-product-name }
+    .label = Molar
+home-prefs-snippets-description = Tíðindi frá { -vendor-short-name } og { -brand-product-name }
 home-prefs-snippets-description-new = Ábendingar og fréttir frá { -vendor-short-name } og { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =

@@ -64,7 +64,7 @@ policy-EncryptedMediaExtensions = Virkja eða slökkva á dulrituðum margmiðlu
 policy-Extensions = Setja upp, fjarlægja eða læsa fyrir viðbætur. Uppsetningarvalkosturinn samþykkir vefslóðir og leiðir sem breytur. Valkostir um að fjarlægja viðbót eða læstir valkostir krefjast auðkennis viðbótarinnar.
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
-policy-FirefoxHome = Stilla Firefox heimasvæðið.
+policy-FirefoxHome = Stilla upphafssíðu Firefox.
 policy-FlashPlugin = Leyfa eða hafna notkun Flash-tengiforritsins.
 policy-Handlers = Stilla meðhöndlun með sjálfgefnum forritum.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
@@ -107,7 +107,7 @@ policy-SearchEngines = Stilla leitarvélar. Þessi stefna er aðeins í boði í
 policy-SearchSuggestEnabled = Virkja eða slökkva á leitarábendingar.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
-policy-ShowHomeButton = Sýna heimahnappinn á verkfæraslánni.
+policy-ShowHomeButton = Sýna upphafshnappinn á verkfæraslánni.
 policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 policy-SupportMenu = Bæta sérsniðinni færslu fyrir aðstoð í hjálparvalmyndina.
