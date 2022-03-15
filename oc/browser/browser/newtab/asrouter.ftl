@@ -156,3 +156,7 @@ spotlight-total-cookie-protection-body = La proteccion totala contra los cookies
 spotlight-total-cookie-protection-expanded = { -brand-short-name } crèa una barrièra a l’entorn dels cookies, per los limitar al site ont vos trobatz per dire que los traçadors pòscan pas vos pistar. En participant d’un biais anticipat, contribuissètz a optimizar aquesta foncionalitat per que poscam téner de bastir un melhor Web per tot lo monde.
 spotlight-total-cookie-protection-primary-button = Activar la proteccion totala contra los cookies
 spotlight-total-cookie-protection-secondary-button = Pas ara
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = Pas ara
