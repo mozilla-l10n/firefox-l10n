@@ -159,4 +159,11 @@ spotlight-total-cookie-protection-secondary-button = Pas ara
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Un melhor internet comença amb vos
+spotlight-peace-mind-header = Asseguram vòstra proteccion
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Gardar al Dock
+       *[other] Penjar a la barra de prètzfaches
+    }
 spotlight-pin-secondary-button = Pas ara
