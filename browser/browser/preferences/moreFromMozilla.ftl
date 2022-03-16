@@ -23,7 +23,7 @@ more-from-moz-mozilla-rally-description = 将您的数据用于为你我建立�
 more-from-moz-mozilla-rally-description-advanced = 捐出您的数据用于研究，以建立更安全、更开放、能够帮助人们，而非大型科技公司的互联网。
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = 加入 { -rally-short-name }
-more-from-moz-qr-code-box-firefox-mobile-title = 扫描二维码，点按出现的链接即可开始下载。
+more-from-moz-qr-code-box-firefox-mobile-title = 扫码后点按链接开始下载。
 more-from-moz-qr-code-box-firefox-mobile-button = 改发电子邮件到您的手机
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = 二维码：下载 { -brand-product-name } 移动版
