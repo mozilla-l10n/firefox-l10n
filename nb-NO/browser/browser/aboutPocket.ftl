@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = Lagre artikler og videoer fra { -brand-product-nam
 pocket-panel-signup-tagline-story-one = Trykk på { -pocket-brand-name }-knappen for å lagre hvilken som helst artikkel, video eller side fra { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Vis i { -pocket-brand-name } på hvilken som helst enhet, når som helst.
 pocket-panel-signup-cta-a = Din lagre-knapp for internett.
+pocket-panel-signup-cta-a-fix = Din lagre-knapp for internett
 pocket-panel-signup-cta-b = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker. Se listen din på hvilken som helst enhet, når som helst.
+pocket-panel-signup-cta-b-short = Klikk på { -pocket-brand-name }-knappen for å lagre artikler, videoer og lenker.
 pocket-panel-signup-cta-c = Se listen din på hvilken som helst enhet, når som helst.
 
 ## about:pocket-home panel
