@@ -276,7 +276,7 @@ glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX - Decoder video
 
 reset-on-next-restart = Reimposta al prossimo avvio
-gpu-process-kill-button = Termina processo GPU
+gpu-process-kill-button = Interrompi processo GPU
 gpu-device-reset = Ripristino dispositivo
 gpu-device-reset-button = Avvia ripristino dispositivo
 uses-tiling = Usa Tiling
