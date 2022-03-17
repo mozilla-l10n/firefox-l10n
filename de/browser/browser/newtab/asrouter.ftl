@@ -161,3 +161,11 @@ spotlight-total-cookie-protection-secondary-button = Nicht jetzt
 
 spotlight-better-internet-header = Ein besseres Internet fängt bei Ihnen an
 spotlight-better-internet-body = Wenn Sie { -brand-short-name } verwenden, stimmen Sie für ein offenes und zugängliches Internet, das für alle besser ist.
+spotlight-peace-mind-header = Wir haben für Sie vorgesorgt
+spotlight-peace-mind-body = { -brand-short-name } blockiert jeden Monat durchschnittlich über 3.000 Elemente zur Aktivitätenverfolgung pro Nutzer. Denn nichts, besonders nicht Störer der Privatsphäre wie Elemente zur Aktivitätenverfolgung, sollte zwischen Ihnen und dem guten Internet stehen.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Im Dock behalten
+       *[other] An die Taskleiste anheften
+    }
+spotlight-pin-secondary-button = Nicht jetzt
