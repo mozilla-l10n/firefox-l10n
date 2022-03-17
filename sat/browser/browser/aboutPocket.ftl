@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = ᱡᱟᱦᱟᱸ ᱛᱤᱥ ᱨᱮᱜᱮ,  { -brand-
 pocket-panel-signup-tagline-story-one = { -brand-product-name } ᱠᱷᱚᱱ ᱡᱟᱦᱟᱸ ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
 pocket-panel-signup-tagline-story-two = ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱝ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ, ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱜᱮ { -pocket-brand-name } ᱧᱮᱞ ᱢᱮ ᱾
 pocket-panel-signup-cta-a = ᱟᱢᱟᱜ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱺᱪᱟᱣ ᱵᱩᱛᱟᱹᱢ ᱾
+pocket-panel-signup-cta-a-fix = ᱟᱢᱟᱜ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱺᱪᱟᱣ ᱵᱩᱛᱟᱹᱢ
 pocket-panel-signup-cta-b = ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱠᱚ, ᱟᱨ ᱞᱤᱝᱠ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾ ᱡᱟᱦᱟᱸ ᱛᱤᱱ ᱨᱮᱜᱮ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱞᱤᱥᱴᱭ ᱧᱮᱞ ᱢᱮ ᱾
+pocket-panel-signup-cta-b-short = ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱠᱚ, ᱟᱨ ᱞᱤᱝᱠ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
 pocket-panel-signup-cta-c = ᱡᱟᱦᱟᱸ ᱛᱤᱱ ᱨᱮᱜᱮ ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱞᱤᱥᱴᱭ ᱧᱮᱞ ᱢᱮ ᱾
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ
 pocket-panel-home-discover-more = ᱟᱨᱦᱚᱸ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱢᱮ
 pocket-panel-home-explore-more = ᱥᱮᱸᱫᱽᱨᱟ
 pocket-panel-home-most-recent-saves = ᱱᱚᱶᱟ ᱠᱚ ᱟᱢᱟᱜ ᱱᱮᱱᱮ ᱥᱟᱺᱪᱟᱣ ᱠᱚ :
+pocket-panel-home-most-recent-saves-loading = ᱱᱮᱱᱮ ᱞᱟᱫᱮᱭᱟᱜ ᱥᱟᱧᱪᱟᱣ ᱠᱚ…
 pocket-panel-home-new-user-cta = ᱚᱱᱚᱞ, ᱣᱤᱰᱤᱭᱚ ᱠᱚ, ᱟᱨ ᱞᱤᱝᱠ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ { -pocket-brand-name } ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾
 pocket-panel-home-new-user-message = ᱟᱢᱟᱜ ᱱᱮᱱᱮ ᱥᱟᱺᱪᱟᱣ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱱᱚᱰᱮ ᱾
 

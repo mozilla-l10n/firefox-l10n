@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = ᱥᱟᱡᱟᱣ ᱠᱚ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
+profiler-popup-disabled = ᱢᱚᱦᱲᱟ ᱫᱚ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚ ᱠᱟᱱᱟ, ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱩᱞᱟᱹ ᱠᱷᱟᱹᱛᱤᱨ ᱯᱟᱞᱮ ᱾
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
-profiler-popup-disabled = ᱢᱚᱦᱲᱟ ᱫᱚ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚ ᱠᱟᱱᱟ, ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱡᱷᱚᱨᱠᱟ ᱠᱷᱩᱞᱟᱹ ᱠᱷᱟᱹᱛᱤᱨ ᱯᱟᱞᱮ ᱾
 profiler-popup-recording-screen = ᱨᱮᱠᱚᱰᱤᱝᱚᱜ ᱠᱟᱱᱟ…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -234,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟ ᱮᱢ …
     .accesskey = ᱮ
+appmenu-help-share-ideas =
+    .label = ᱟᱢᱟᱜ ᱢᱚᱱᱮ ᱵᱤᱪᱟᱹᱨ ᱟᱨ ᱢᱮᱢᱮᱱ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱢᱮ…
+    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

@@ -120,6 +120,10 @@ newtab-privacy-modal-button-done = ᱦᱩᱭᱮᱱᱟ
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = ᱵᱩᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜ ᱢᱮ
+# Bookmark is a verb here.
+newtab-menu-bookmark = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟ.
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -132,12 +136,31 @@ newtab-menu-remove-download = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢ�
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] ᱯᱟᱱᱛᱮᱭᱟᱜ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+       *[other] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
+    }
+newtab-menu-open-file = ᱨᱮᱫ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = ᱧᱮᱞᱟᱜ
+newtab-label-bookmarked = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟ. ᱠᱟᱱ
 newtab-label-removed-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜᱟᱠᱟᱱᱟ
+newtab-label-recommended = ᱴᱨᱮᱱᱰᱤᱝ
+newtab-label-saved = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
+newtab-label-download = ᱰᱟᱩᱱᱞᱚᱰ ᱦᱩᱭ
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · ᱜᱚᱲᱚᱤᱡ
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = ᱜᱚᱲᱚᱤᱡ ᱫᱚ { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

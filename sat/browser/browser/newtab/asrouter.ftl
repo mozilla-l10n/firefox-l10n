@@ -155,3 +155,7 @@ spotlight-total-cookie-protection-header =
     ᱱᱤᱥᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱮᱵᱷᱟᱮ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
 spotlight-total-cookie-protection-primary-button = ᱢᱩᱴ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
