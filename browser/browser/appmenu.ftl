@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = ਸੈਟਿੰਗਾਂ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = …ਸੈਟਿਗਾਂ ਸੋਧੋ
+profiler-popup-disabled = ਪਰੋਫਾਇਲਰ ਇਸ ਵੇਲੇ ਅਸਮਰੱਥ ਹੈ, ਬਹੁਤੀ ਸੰਭਾਵਨਾ ਹੈ ਕਿ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਹੈ।
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = …ਸੈਟਿਗਾਂ ਸੋਧੋ
-profiler-popup-disabled = ਪਰੋਫਾਇਲਰ ਇਸ ਵੇਲੇ ਅਸਮਰੱਥ ਹੈ, ਬਹੁਤੀ ਸੰਭਾਵਨਾ ਹੈ ਕਿ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਹੈ।
 profiler-popup-recording-screen = ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = ਬਹੁਤੀਆਂ ਵੈੱਬ ਐਪ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਘੱਟ ਉਲਝਣਾਂ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-web-developer-label =
     .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
-profiler-popup-presets-firefox-platform-description = ਅੰਦਰੂਨੀ Firefox ਪਲੇਟਫਾਰਮ ਡੀਬੱਗ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox ਮੰਚ
-profiler-popup-presets-firefox-front-end-description = ਅੰਦਰੂਨੀ Firefox ਪਲੇਟਫਾਰਮ ਡੀਬੱਗ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox ਫਰੰਟ-ਐਂਡ
-profiler-popup-presets-firefox-graphics-description = Firefox ਗਰਾਫਿਕਸ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਂਚ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox ਗਰਾਫਿਕਸ
-profiler-popup-presets-media-description = ਆਡੀਓ ਤੇ ਵੀਡੀਓ ਸਮੱਸਿਆਵਾਂ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-description = { -brand-shorter-name } ਪਰੋਫਾਈਲਿੰਗ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -243,6 +233,9 @@ appmenu-help-report-site-issue =
     .label = …ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
 appmenu-help-feedback-page =
     .label = …ਸੁਝਾਅ ਭੇਜੋ
+    .accesskey = S
+appmenu-help-share-ideas =
+    .label = …ਵਿਚਾਰ ਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
     .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode

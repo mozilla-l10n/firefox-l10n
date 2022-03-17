@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = { -brand-product-name } ਤੋਂ ਲੇਖਾਂ 
 pocket-panel-signup-tagline-story-one = ਕਿਸੇ ਵੀ ਲੇਖ, ਵੀਡੀਓ ਜਾਂ ਸਫ਼ੇ ਨੂੰ { -brand-product-name } ਤੋਂ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name }ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।
 pocket-panel-signup-tagline-story-two = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ { -pocket-brand-name } ਵਿੱਚ ਦੇਖੋ।
 pocket-panel-signup-cta-a = ਇੰਟਰਨੈੱਟ ਲਈ ਤੁਹਾਡਾ ਸੰਭਾਲੋ ਬਟਨ ਹੈ।
+pocket-panel-signup-cta-a-fix = ਇੰਟਰਨੈੱਟ ਲਈ ਤੁਹਾਡਾ ਸੰਭਾਲੋ ਬਟਨ
 pocket-panel-signup-cta-b = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕਾਂ ਨੂੰ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ। ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੀ ਸੂਚੀ ਵੇਖੋ।
+pocket-panel-signup-cta-b-short = ਲੇਖ, ਵੀਡੀਓ ਤੇ ਲਿੰਕ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 pocket-panel-signup-cta-c = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੀ ਸੂਚੀ ਵੇਖੋ।
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼
 pocket-panel-home-discover-more = ਹੋਰ ਲੱਭੋ
 pocket-panel-home-explore-more = ਪੜਚੋਲ
 pocket-panel-home-most-recent-saves = ਤੁਹਾਡੇ ਵਲੋਂ ਹਾਲ ਵਿੱਚ ਸੰਭਾਲੇ ਇੱਥੇ ਹਨ:
+pocket-panel-home-most-recent-saves-loading = …ਸੱਜਰੇ ਸੰਭਾਲੇ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
 pocket-panel-home-new-user-cta = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 pocket-panel-home-new-user-message = ਤੁਹਾਡੇ ਵਲੋਂ ਹਾਲ ਵਿੱਚ ਸੰਭਾਲੇ ਇੱਥੇ ਵੇਖੋ।
 
