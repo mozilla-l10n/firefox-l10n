@@ -359,6 +359,9 @@ update-application-warning-cross-user-setting = Aqueste paramètres s’aplicar�
 update-application-use-service =
     .label = Utilizar un servici en rèireplan per installar las mesas a jorn
     .accesskey = z
+update-application-suppress-prompts =
+    .label = Afichar mens de notificacions de mesa a jorn
+    .accesskey = n
 update-setting-write-failure-title2 = Error en enregistrant los paramètres de mesas a jorn
 # Variables:
 #   $path (String) - Path to the configuration file
