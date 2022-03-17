@@ -159,6 +159,8 @@ about-debugging-tmp-extension-reload-button = Ricarica
 
 about-debugging-tmp-extension-remove-button = Rimuovi
 
+about-debugging-tmp-extension-terminate-bgscript-button = Interrompi script in background
+
 about-debugging-tmp-extension-install-message = Seleziona un file manifest.json o un archivio .xpi/.zip
 
 about-debugging-tmp-extension-temporary-id = Questa WebExtension ha un ID temporaneo. <a>Ulteriori informazioni</a>
