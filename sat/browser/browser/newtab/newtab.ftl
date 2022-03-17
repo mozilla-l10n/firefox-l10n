@@ -170,22 +170,36 @@ newtab-label-source-read-time = { $source } · { $timeToRead } ᱴᱤᱯᱤᱡ
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = ᱛᱷᱚᱠ ᱚᱪᱚᱜᱽ ᱢᱮ
+newtab-section-menu-add-search-engine = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
+newtab-section-menu-move-up = ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱥᱟᱦᱟ
+newtab-section-menu-move-down = ᱞᱟᱛᱟᱨ ᱪᱟᱞᱟᱣ
+newtab-section-menu-privacy-notice = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
 
 ## Section aria-labels
 
 
 ## Section Headers.
 
+newtab-section-header-topsites = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ
+newtab-section-header-highlights = ᱪᱤᱱᱦᱟᱹᱯᱟᱜ ᱠᱚ
+newtab-section-header-recent-activity = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
+newtab-discovery-empty-section-topstories-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ …
 
 ## Pocket Content Section.
 
 newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
+newtab-pocket-saved-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
