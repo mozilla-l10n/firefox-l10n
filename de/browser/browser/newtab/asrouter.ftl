@@ -156,3 +156,8 @@ spotlight-total-cookie-protection-body = Der vollständige Cookie-Schutz hindert
 spotlight-total-cookie-protection-expanded = { -brand-short-name } baut einen Zaun um Cookies und beschränkt sie auf die Website, auf der Sie sich befinden, sodass Elemente zur Aktivitätenverfolgung sie nicht verwenden können, um Ihnen zu folgen. Durch die Vorab-Nutzung helfen Sie, diese Funktion zu optimieren, damit wir weiterhin ein besseres Web für alle aufbauen können.
 spotlight-total-cookie-protection-primary-button = Vollständigen Cookie-Schutz aktivieren
 spotlight-total-cookie-protection-secondary-button = Nicht jetzt
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Ein besseres Internet fängt bei Ihnen an
+spotlight-better-internet-body = Wenn Sie { -brand-short-name } verwenden, stimmen Sie für ein offenes und zugängliches Internet, das für alle besser ist.
