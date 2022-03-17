@@ -160,6 +160,7 @@ spotlight-total-cookie-protection-secondary-button = Pas ara
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Un melhor internet comença amb vos
+spotlight-better-internet-body = Quand utilizatz { -brand-short-name }, vos manifestatz per un internet dubèrt e accessible qu’es melhor per totòm.
 spotlight-peace-mind-header = Asseguram vòstra proteccion
 spotlight-pin-primary-button =
     { PLATFORM() ->

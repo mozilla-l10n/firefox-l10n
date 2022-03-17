@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Paramètres
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modificar los paramètres…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Modificar los paramètres…
 profiler-popup-disabled =
     Lo perfilador es actualament desactivat, probablament a causa d’una fenèstra de navegacion privada
     dobèrta
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Modificar los paramètres…
 profiler-popup-recording-screen = Enregistrament...
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Reglatge recomandat pel desbugatge de la màger part de las aplicacions amb pauca subrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desvolopaire web
-profiler-popup-presets-firefox-platform-description = Reglatge recomandat pel desbugatge intèrne de la platafòrma Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Platafòrma Firefox
-profiler-popup-presets-firefox-front-end-description = Reglatge recomandat pel desbugatge intèrne de l’interfàcia Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Interfàcia Firefox
-profiler-popup-presets-firefox-graphics-description = Reglatge recomandat pels estudis de las performanças graficas de Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Grafics de Firefox
-profiler-popup-presets-media-description = Reglatge recomandat pel diagnosticar los problèmas àudio e vidèo.
 profiler-popup-presets-firefox-description = Reglatge recomandat pel perfilatge de { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Balhar vòstre vejaire…
     .accesskey = B
+appmenu-help-share-ideas =
+    .label = Partejar d’idèas e de retorns…
+    .accesskey = P
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

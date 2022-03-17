@@ -23,10 +23,16 @@ default-bookmarks-firefox-customize = Personalizar Firefox
 default-bookmarks-firefox-community = Participar
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = A prepaus de nosautres
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Ressorsas Firefox Nightly
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Blòg Firefox Nightly
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = Traçador d’anomalias Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Ret de desvolopaires Mozilla
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Aisinas de pròva Nightly
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = Totes vòstres plantatges
 # Nightly builds only, link title for https://planet.mozilla.org/
