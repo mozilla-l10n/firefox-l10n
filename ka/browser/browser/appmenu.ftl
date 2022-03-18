@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = პარამეტრები
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = პარამეტრების ჩასწორება…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = პარამეტრების ჩასწორება…
 profiler-popup-disabled =
     მახასიათებლების აღრიცხვა ამჟამად გამორთულია, უმეტესად პირადი ფანჯრის
     გახსნის გამო.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = პარამეტრების ჩასწორება…
 profiler-popup-recording-screen = იწერება…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = მზა პარამეტრები, პროგრამების ხარვეზების გამოსავლენად, ნაკლები დატვირთვით.
 profiler-popup-presets-web-developer-label =
     .label = ვებშემუშავება
-profiler-popup-presets-firefox-platform-description = მზა პარამეტრები, განკუთვნილი Firefox-პლატფორმის შიდა ხარვეზების გამოსავლენად.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox-პლატფორმა
-profiler-popup-presets-firefox-front-end-description = მზა პარამეტრები, განკუთვნილი Firefox-ის კლიენტის მხარის შიდა ხარვეზების გამოსავლენად.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox კლიენტის მხარე
-profiler-popup-presets-firefox-graphics-description = მზა პარამეტრები, განკუთვნილი Firefox-ის გრაფიკული წარმადობის გამოსაკვლევად.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox-გრაფიკა
-profiler-popup-presets-media-description = მზა პარამეტრები, განკუთვნილი ხმოვანი და ვიდეოფაილების ხარვეზების გამოსავლენად.
 profiler-popup-presets-firefox-description = მზა პარამეტრები, რომლითაც აღიწერება { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = გამოგვეხმაურეთ…
     .accesskey = უ
+appmenu-help-share-ideas =
+    .label = გაგვიზიარეთ მოსაზრებები და გამოგვეხმაურეთ…
+    .accesskey = ზ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
