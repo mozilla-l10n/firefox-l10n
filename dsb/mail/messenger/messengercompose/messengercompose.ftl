@@ -265,8 +265,21 @@ encrypted-bcc-ignore-button = Som zrozměł
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstowy stil wótwónoźeś
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Jo se nagrało do njeznatego konta Filelink.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - pśidank Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Dataja { $filename } jo se pśipowjesyła ako Filelink. Dajo se z pomocu slědujuego wótkaza ześěgnuś.
 
 # Template
 
@@ -295,13 +308,13 @@ cloud-file-service-provider-footer-multiple = Dalšne informacije wó { $firstLi
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Pśez gronidło šćitany wótkaz
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Słužba CloudFile:
+cloud-file-template-service-name = Słužba Filelink:
 cloud-file-template-size = Wjelikosć:
 cloud-file-template-link = Wótkaz:
 cloud-file-template-password-protected-link = Pśez gronidło šćitany wótkaz:
@@ -325,3 +338,9 @@ cloud-file-rename-error = Pśi pśemjenowanju { $filename } na { $provider } jo 
 cloud-file-rename-error-with-custom-message-title = Pśemjenowanje { $filename }  na { $provider } njejo se raźiło
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } pśemjenowanje južo nagratych datajow njepódpěra.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Pśidankowa zmólka Filelink
+cloud-file-attachment-error = Pśidank { $filename } Filelink njedajo se aktualizěrowaś, dokulaž jogo lokalna dataja jo se pśesunuła abo wulašowała.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Kontowa zmólka Filelink
+cloud-file-account-error = Pśidank { $filename } Filelink njedajo se aktualizěrowaś, dokulaž jogo lokalna dataja jo se wulašowała.
