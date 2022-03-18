@@ -171,6 +171,8 @@ decrypt-and-copy-failures = Không thể giải mã { $failures } trong tổng s
 
 ## Spaces toolbar
 
+spaces-toolbar =
+    .toolbarname = Thanh công cụ Spaces
 spaces-toolbar-button-mail =
     .title = Chuyển sang thẻ thư
 spaces-toolbar-button-address-book =
@@ -183,6 +185,10 @@ spaces-toolbar-button-chat =
     .title = Chuyển sang thẻ trò chuyện
 spaces-toolbar-button-settings =
     .title = Chuyển sang thẻ cài đặt
+spaces-toolbar-button-collapse =
+    .title = Thu gọn thanh công cụ Spaces
+spaces-toolbar-button-reveal =
+    .title = Hiển thị thanh công cụ Spaces
 spaces-context-new-tab-item =
     .label = Mở trong thẻ mới
 spaces-context-new-window-item =
@@ -200,6 +206,8 @@ settings-context-open-addons-item =
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Mở menu Spaces
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
@@ -212,3 +220,28 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+           *[other] { $count } thư chưa đọc
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Tùy biến…
+spaces-customize-panel-title = Cài đặt thanh công cụ Spaces
+spaces-customize-background-color = Màu nền:
+spaces-customize-icon-color = Màu nút
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Màu nền của Nút đã chọn
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Màu của Nút đã chọn
+spaces-customize-button-restore = Khôi phục về mặc định
+    .accesskey = R
+spaces-customize-button-save = Xong
+    .accesskey = D
