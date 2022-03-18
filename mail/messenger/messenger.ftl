@@ -226,7 +226,18 @@ spaces-pinned-button-menuitem-reveal =
 
 ## Spaces toolbar customize panel
 
+spaces-context-customize =
+    .label = Налаштувати…
+spaces-customize-panel-title = Налаштування панелі просторів
 spaces-customize-background-color = Колір тла
 spaces-customize-icon-color = Колір кнопки
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Вибраний колір тла кнопки
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Вибраний колір кнопки
+spaces-customize-button-restore = Відновити типові
+    .accesskey = В
 spaces-customize-button-save = Готово
     .accesskey = Г
