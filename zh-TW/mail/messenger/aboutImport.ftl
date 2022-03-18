@@ -48,6 +48,8 @@ addr-book-vcard-file = vCard 檔案（.vcf、.vcard）
 addr-book-sqlite-file = SQLite 資料庫檔案（.sqlite）
 addr-book-mab-file = Mork 資料庫檔案（.mab）
 addr-book-file-picker = 選擇通訊錄檔案
+addr-book-csv-field-map-title = 對應欄位名稱
+addr-book-csv-field-map-desc = 選擇來源欄位與通訊錄欄位之間的對應關係，可取消勾選不想匯入的欄位。
 addr-book-directories-pane-title = 請選擇您要匯入的資料夾:
 addr-book-directories-pane-source = 來源檔案:
 addr-book-import-into-new-directory = 建立新目錄
@@ -66,6 +68,10 @@ error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = 第一行為標題
+csv-source-field = 來源欄位
+csv-source-first-record = 第一筆資料
+csv-source-second-record = 第二筆資料
 csv-target-field = 通訊錄欄位
 
 ## Export tab

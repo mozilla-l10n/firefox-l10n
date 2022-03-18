@@ -220,3 +220,27 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+           *[other] { $count } 封未讀訊息
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = 自訂…
+spaces-customize-background-color = 背景色
+spaces-customize-icon-color = 按鈕色
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = 已選擇按鈕的背景色
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = 已選擇按鈕的顏色
+spaces-customize-button-restore = 回復為預設值
+    .accesskey = R
+spaces-customize-button-save = 完成
+    .accesskey = D
