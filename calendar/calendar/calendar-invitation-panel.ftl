@@ -30,7 +30,7 @@ calendar-invitation-panel-prop-title-description = Wopisanje:
 calendar-invitation-panel-partstat-summary =
     { $partStat ->
         [ACCEPTED] { $count } haj
-        [DECLINED] { $count } ně{ $count }
+        [DECLINED] { $count } ně
         [TENTATIVE] { $count } snano
         [NEEDS-ACTION] { $count } wustejacych
         [TOTAL] { $count } wobdźělnikow
