@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = დამალეთ თქვენი 
 about-private-browsing-get-privacy = თან წაიყოლეთ უსაფრთხოება ყველგან
 about-private-browsing-hide-activity-1 = დაფარეთ თქვენი მოქმედებები და ადგილსამყოფელი { -mozilla-vpn-brand-name }-ით. ერთი შეხებით ქმნის უხიფათო კავშირს, საჯარო WiFi-ით სარგებლობის დროსაც კი.
 about-private-browsing-prominent-cta = დაიცავით პირადულობა { -mozilla-vpn-brand-name }-ით
+about-private-browsing-focus-promo-cta = ჩამოტვირთეთ { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: თან წაიყოლეთ პირადულობა
+about-private-browsing-focus-promo-text = პირადულობისთვის განკუთვნილი მობილური ბრაუზერი, ასუფთავებს ისტორიასა და კვალს, ყოველი გამოყენების შემდგომ.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,4 +46,6 @@ about-private-browsing-search-banner-description =
 about-private-browsing-search-banner-close-button =
     .aria-label = დახურვა
 about-private-browsing-dismiss-button =
+    .title = დახურვა
+about-private-browsing-promo-close-button =
     .title = დახურვა
