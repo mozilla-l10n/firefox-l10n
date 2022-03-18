@@ -84,6 +84,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Hiển thị ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Ẩn ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } đính kèm
+       *[other] { $count } đính kèm
+    }
 attachment-area-show =
     .title = Hiển thị ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -231,8 +237,21 @@ encrypted-bcc-ignore-button = Đã hiểu
 compose-tool-button-remove-text-styling =
     .tooltiptext = Xóa kiểu định dạng văn bản
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Đã tải lên tài khoản Filelink không xác định.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Đính kèm Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Tập tin { $filename } đã được đính kèm dưới dạng Filelink. Nó có thể được tải xuống từ liên kết bên dưới.
 
 # Template
 
@@ -244,21 +263,27 @@ cloud-file-count-header =
        *[other] Tôi đã liên kết { $count } tập tin với email này:
     }
 # A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-       *[other] Tìm hiểu thêm về { $firstLinks } và { $lastLink }.
-    }
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Tìm hiểu thêm về { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Tìm hiểu thêm về { $firstLinks } và { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Liên kết được bảo vệ bằng mật khẩu
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Dịch vụ CloudFile:
+cloud-file-template-service-name = Dịch vụ Filelink:
 cloud-file-template-size = Kích cỡ:
 cloud-file-template-link = Liên kết:
 cloud-file-template-password-protected-link = Liên kết được bảo vệ bằng mật khẩu:
@@ -282,3 +307,9 @@ cloud-file-rename-error = Đã xảy ra sự cố khi đổi tên { $filename } 
 cloud-file-rename-error-with-custom-message-title = Không thể đổi tên { $filename } trên { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } không hỗ trợ đổi tên các tập tin đã tải lên.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Lỗi đính kèm Filelink
+cloud-file-attachment-error = Không cập nhật được đính kèm Filelink { $filename } vì tập tin cục bộ của nó đã bị di chuyển hoặc bị xóa.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Lỗi tài khoản Filelink
+cloud-file-account-error = Không cập nhật được đính kèm Filelink { $filename } vì tài khoản Filelink của nó đã bị xóa.
