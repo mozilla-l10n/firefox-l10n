@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
+# $organizer (String) - The participant that created the original invitation.
+calendar-invitation-panel-intro = { $organizer } 已邀請您參加:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = 儲存
