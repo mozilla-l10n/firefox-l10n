@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Αποκρύψτε τη δραστηρι�
 about-private-browsing-get-privacy = Προστασία απορρήτου σε κάθε επίσκεψή σας
 about-private-browsing-hide-activity-1 = Αποκρύψτε τη δραστηριότητα και την τοποθεσία σας με το { -mozilla-vpn-brand-name }. Με ένα κλικ έχετε ασφαλή σύνδεση, ακόμα και σε δημόσιο Wi-Fi.
 about-private-browsing-prominent-cta = Προστατέψτε το απόρρητό σας με το { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Λήψη του { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Ιδιωτική περιήγηση εν κινήσει
+about-private-browsing-focus-promo-text = Η εφαρμογή ιδιωτικής περιήγησής μας για κινητές συσκευές διαγράφει το ιστορικό και τα cookies σας κάθε φορά.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Κλείσιμο
 about-private-browsing-dismiss-button =
     .title = Απόρριψη
+about-private-browsing-promo-close-button =
+    .title = Κλείσιμο

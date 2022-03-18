@@ -63,7 +63,7 @@ about-debugging-sidebar-runtime-item-name =
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
-# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+# (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
 about-debugging-sidebar-support = Υποστήριξη ελέγχου σφαλμάτων
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
@@ -108,13 +108,13 @@ about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστ�
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Συνδέστε τη συσκευή Android στον υπολογιστή σας.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
-# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
 about-debugging-setup-usb-troubleshoot = Προβλήματα σύνδεσης με τη συσκευή USB; <a>Επίλυση προβλημάτων</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Τοποθεσία δικτύου
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
-# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+# The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
 about-debugging-setup-network-troubleshoot = Προβλήματα σύνδεσης μέσω τοποθεσίας δικτύου; <a>Επίλυση προβλημάτων</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
@@ -166,11 +166,11 @@ about-debugging-runtime-processes =
 # runtimes.
 about-debugging-runtime-profile-button2 = Επιδόσεις προφίλ
 # This string is displayed in the runtime page if the current configuration of the
-# target runtime is incompatible with service workers. "Learn more" points to MDN.
-# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+# target runtime is incompatible with service workers. "Learn more" points to:
+# https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = Οι ρυθμίσεις του προγράμματος περιήγησής σας δεν είναι συμβατές με τα service worker. <a>Μάθετε περισσότερα</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Το συνδεδεμένο πρόγραμμα περιήγησης έχει παλιά έκδοση ({ $runtimeVersion }). Η ελάχιστη υποστηριζόμενη έκδοση είναι ({ $minVersion }).  Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το συνδεδεμένο πρόγραμμα περιήγησης. <a>Αντιμετώπιση προβλημάτων</a>
@@ -178,7 +178,7 @@ about-debugging-browser-version-too-old = Το συνδεδεμένο πρόγρ
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Αυτή η έκδοση του Firefox δεν μπορεί να χρησιμοποιηθεί για έλεγχο σφαλμάτων στο Firefox για Android (68). Προτείνουμε να εγκαταστήσετε το Firefox για Android Nightly στο τηλέφωνό σας για δοκιμή. <a>Περισσότερες λεπτομέρειες</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -224,6 +224,11 @@ about-debugging-tmp-extension-reload-button = Ανανέωση
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Αφαίρεση
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will forcefully terminate the extension background script (button
+# only visible in extensions that includes a non-persistent background script, either an
+# event page or a background service worker).
+about-debugging-tmp-extension-terminate-bgscript-button = Τερματισμός σεναρίου παρασκηνίου
 # Message displayed in the file picker that opens to select a temporary extension to load
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
@@ -247,6 +252,15 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID επέκτασης
+# Text displayed for extensions in "runtime" pages, before displaying the status of the
+# extension background script.
+about-debugging-extension-backgroundscript =
+    .label = Σενάριο παρασκηνίου
+# Displayed for extension using a non-persistent background page (either an event page or
+# background service worker) when the background script is currently running.
+about-debugging-extension-backgroundscript-status-running = Εκτελείται
+# Displayed for extension using a non-persistent background page when is currently stopped.
+about-debugging-extension-backgroundscript-status-stopped = Διακόπηκε
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Note this relates to the "Push" API, which is normally not localized so it is
