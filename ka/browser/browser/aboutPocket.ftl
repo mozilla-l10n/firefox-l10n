@@ -39,7 +39,9 @@ pocket-panel-signup-tagline = შეინახეთ სტატიები 
 pocket-panel-signup-tagline-story-one = { -brand-product-name }-იდან ნებისმიერი სტატიის, ვიდეოს ან გვერდის შესანახად დააწკაპეთ { -pocket-brand-name } ღილაკს.
 pocket-panel-signup-tagline-story-two = დაათვალიერეთ { -pocket-brand-name }-ში ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 pocket-panel-signup-cta-a = შენახვის ღილაკი ინტერნეტისთვის.
+pocket-panel-signup-cta-a-fix = გადასანახი ღილაკი ინტერნეტისთვის.
 pocket-panel-signup-cta-b = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოებისა და ბმულების შესანახად. შემდეგ კი იხილეთ ნებისმიერ მოწყობილობაზე, სასურველ დროს.
+pocket-panel-signup-cta-b-short = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოების და ბმულების შესანახად.
 pocket-panel-signup-cta-c = იხილეთ ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 
 ## about:pocket-home panel
@@ -51,6 +53,7 @@ pocket-panel-home-explore-popular-topics = გაეცანით ცნობ
 pocket-panel-home-discover-more = აღმოაჩინეთ მეტი
 pocket-panel-home-explore-more = დათვალიერება
 pocket-panel-home-most-recent-saves = აქ იხილავთ ბოლოს შენახულს:
+pocket-panel-home-most-recent-saves-loading = ბოლოს შენახული იტვირთება…
 pocket-panel-home-new-user-cta = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოების და ბმულების შესანახად.
 pocket-panel-home-new-user-message = ბოლოს შენახული იხილეთ აქ.
 
