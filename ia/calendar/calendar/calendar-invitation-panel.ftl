@@ -3,12 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
+# $organizer (String) - The participant that created the original invitation.
+calendar-invitation-panel-intro = { $organizer } te invitava a:
+# Variables:
 # $summary (String) - A short summary or title of the event.
 calendar-invitation-panel-title = { $summary }
 calendar-invitation-panel-action-button = Salvar
 calendar-invitation-panel-accept-button = Si
 calendar-invitation-panel-decline-button = No
 calendar-invitation-panel-tentative-button = Forsan
+calendar-invitation-panel-reply-status = * Tu ancora non decideva o respondeva
 calendar-invitation-panel-prop-title-when = Quando:
 calendar-invitation-panel-prop-title-location = Loco:
 # Variables:
@@ -21,3 +25,14 @@ calendar-invitation-datetime-date = { $dayOfWeek }, { $date }
 calendar-invitation-datetime-time = { $time } ({ $timezone })
 calendar-invitation-panel-prop-title-attendees = Participantes:
 calendar-invitation-panel-prop-title-description = Description:
+# Variables:
+# $partStat (String) - String indicating the participation status of an attendee.
+calendar-invitation-panel-partstat-summary =
+    { $partStat ->
+        [ACCEPTED] { $count } si
+        [DECLINED] { $count } no
+        [TENTATIVE] { $count } forsan
+        [NEEDS-ACTION] { $count } pendente
+        [TOTAL] { $count } participantes
+       *[OTHER] { $count } altero
+    }
