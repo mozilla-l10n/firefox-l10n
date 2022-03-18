@@ -45,8 +45,11 @@ import-from-addr-book-file-desc = Elige le typo de file que tu vole importar:
 addr-book-csv-file = File separate per virgulas o tabulationes (.csv, .tsv)
 addr-book-ldif-file = file vCard (.vcf, .vcard)
 addr-book-vcard-file = File base de datos Mork (.mab)
+addr-book-sqlite-file = File base de datos SQLite (.sqlite)
 addr-book-mab-file = File base de datos Mork (.mab)
 addr-book-file-picker = Elige un file libro del adresses
+addr-book-csv-field-map-title = Concordar nomines de campo
+addr-book-csv-field-map-desc = Elige le campos de libro de adresses correspondente al campos fonte. Dismarca le campos que tu non vole importar.
 addr-book-directories-pane-title = Elige le directorio in que tu vole importar:
 addr-book-directories-pane-source = File fonte:
 addr-book-import-into-new-directory = Crear un nove directorio
@@ -74,6 +77,7 @@ csv-target-field = Campo del libro de adresses
 
 ## Export tab
 
+export-profile-desc = Exporta contos e-mail, messages e-mail, libros de adresses, parametros a in un file zip. Quando necessari, tu pote importar le file zip pro restaurar tu profilo.
 export-open-profile-folder = Aperir le plica del profilo
 export-file-picker = Exportar a un file zip
 export-brand-name = { -brand-product-name }
