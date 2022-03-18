@@ -10,12 +10,14 @@ import-from-app = Uvozi iz programa
 import-from-app-desc = Izberite uvoz računov, imenikov, koledarjev in drugih podatkov iz:
 import-address-book = Uvozi datoteko z imenikom
 import-calendar = Uvozi datoteko s koledarjem
+export-profile = Izvozi
 
 ## Buttons
 
 button-cancel = Prekliči
 button-back = Nazaj
 button-continue = Nadaljuj
+button-export = Izvozi
 
 ## Import from app steps
 
@@ -31,7 +33,6 @@ profiles-pane-desc = Izberite mesto, s katerega želite uvoziti podatke
 profile-file-picker-dir = Izberite mapo s profilom
 profile-file-picker-zip = Izberite datoteko .zip (manjšo od 2 GB)
 items-pane-title = Izberite, kaj želite uvoziti
-items-pane-desc = Uvozi iz
 items-pane-source = Izvorno mesto:
 items-pane-checkbox-accounts = Račune in nastavitve
 items-pane-checkbox-address-books = Imenike
@@ -44,6 +45,7 @@ import-from-addr-book-file-desc = Izberite vrsto datoteke, ki jo želite uvoziti
 addr-book-csv-file = datoteka z vrednostmi, ločenimi z vejicami ali s tabulatorji (.csv, .tsv)
 addr-book-ldif-file = Datoteka LDIF (.ldif)
 addr-book-vcard-file = Datoteka vCard (.vcf, .vcard)
+addr-book-sqlite-file = Datoteka podatkovne zbirke SQLite (.sqlite)
 addr-book-mab-file = Datoteka podatkovne zbirke Mork (.mab)
 addr-book-file-picker = Izberite datoteko imenika
 addr-book-directories-pane-title = Izberite mapo, iz katere želite uvoziti podatke:
@@ -53,9 +55,22 @@ addr-book-import-into-new-directory = Ustvari novo mapo
 ## Import dialog
 
 progress-pane-title = Uvažanje
+progress-pane-importing = Uvažanje
+progress-pane-exporting = Izvažanje
 progress-pane-finished-desc = Končano.
 progress-pane-restart-desc = Znova zaženite za dokončanje uvoza.
 error-pane-title = Napaka
 error-message-zip-file-too-big = Izbrana datoteka .zip je večja od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
 error-message-extract-zip-file-failed = Datoteke .zip ni bilo mogoče ekstrahirati. Ekstrahirajte jo ročno in nato uvozite iz ekstrahirane mape.
 error-message-failed = Uvoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
+error-export-failed = Izoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
+
+## <csv-field-map> element
+
+csv-first-row-contains-headers = Prva vrstica vsebuje imena polj
+
+## Export tab
+
+export-open-profile-folder = Odpri mapo s profilom
+export-file-picker = Izvozi v datoteko .zip
+export-brand-name = { -brand-product-name }
