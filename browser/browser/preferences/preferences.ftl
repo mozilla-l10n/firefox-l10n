@@ -175,6 +175,7 @@ containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 
 language-and-appearance-header = 언어와 모양
 fonts-and-colors-header = 글꼴과 색상
+preferences-web-appearance-description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
 preferences-web-appearance-choice-browser = { -brand-short-name } 테마
 preferences-web-appearance-choice-system = 시스템 테마
 preferences-web-appearance-choice-light = 밝게
@@ -187,6 +188,9 @@ preferences-web-appearance-choice-tooltip-light =
     .title = 웹 사이트 배경 및 콘텐츠에 밝은 화면 배색을 사용합니다.
 preferences-web-appearance-choice-tooltip-dark =
     .title = 웹 사이트 배경 및 콘텐츠에 어두운 화면 배색을 사용합니다.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다. <a data-l10n-name="colors-link">색상 관리</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">확장 기능 및 테마</a>에서 { -brand-short-name } 테마 관리
