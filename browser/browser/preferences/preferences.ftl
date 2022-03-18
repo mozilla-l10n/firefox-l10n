@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Ett tillägg, <img
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ett tillägg, <img data-l10n-name="icon"/> { $name }, styr hur { -brand-short-name } ansluter till internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> styr den här inställningen.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> styr den här inställningen.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kräver innehållsflikar.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> styr den här inställningen.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> styr hur { -brand-short-name } ansluter till internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,28 @@ containers-remove-cancel-button = Ta inte bort denna behållare
 
 language-and-appearance-header = Språk och utseende
 fonts-and-colors-header = Teckensnitt och färger
+preferences-web-appearance-header = Webbplatsens utseende
+preferences-web-appearance-description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
+preferences-web-appearance-choice-browser = Tema för { -brand-short-name }
+preferences-web-appearance-choice-system = Systemtema
+preferences-web-appearance-choice-light = Ljust
+preferences-web-appearance-choice-dark = Mörkt
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Matcha dina temainställningar för webbplatsbakgrunder och innehåll i { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Matcha dina systeminställningar för webbplatsbakgrunder och innehåll.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Använd ett ljust utseende för webbplatsbakgrunder och innehåll.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Använd ett mörkt utseende för webbplatsbakgrunder och innehåll.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Dina färgval åsidosätter webbplatsens utseende. <a data-l10n-name="colors-link">Hantera färger</a>
+preferences-colors-header = Färger
+preferences-colors-manage-button =
+    .label = Hantera färger…
+    .accesskey = H
+preferences-fonts-header = Teckensnitt
 default-font = Standardteckensnitt
     .accesskey = t
 default-font-size = Storlek
