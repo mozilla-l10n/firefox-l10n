@@ -225,3 +225,31 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] { $count } njecytana powěsć
+            [two] { $count } njecytanej powěsći
+            [few] { $count } njecytane powěsći
+           *[other] { $count } njecytanych powěsćow
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Pśiměriś…
+spaces-customize-panel-title = Nastajenja rědki źělnych programow
+spaces-customize-background-color = Slězynowa barwa
+spaces-customize-icon-color = Tłocaškowa barwa
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Slězynowa barwa wubranego tłocaška
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Barwa wubranego tłocaška
+spaces-customize-button-restore = Standard wótnowiś
+    .accesskey = S
+spaces-customize-button-save = Dokóńcony
+    .accesskey = D

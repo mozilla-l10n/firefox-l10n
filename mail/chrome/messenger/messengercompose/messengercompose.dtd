@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Nowy">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Powěsć">
+<!ENTITY newMessage.accesskey "P">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Adresnikowy kontakt…">
 <!ENTITY newContact.accesskey "A">
