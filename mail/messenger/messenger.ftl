@@ -231,3 +231,31 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] { $count } neprebrano sporočilo
+            [two] { $count } neprebrani sporočili
+            [few] { $count } neprebrana sporočila
+           *[other] { $count } neprebranih sporočil
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Prilagodi …
+spaces-customize-panel-title = Nastavitve vrstice komponent
+spaces-customize-background-color = Barva ozadja
+spaces-customize-icon-color = Barva gumbov
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Barva ozadja izbranega gumba
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Barva izbranega gumba
+spaces-customize-button-restore = Povrni privzeto
+    .accesskey = v
+spaces-customize-button-save = Končaj
+    .accesskey = K
