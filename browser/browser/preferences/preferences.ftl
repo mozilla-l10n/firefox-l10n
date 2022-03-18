@@ -175,6 +175,23 @@ containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 
 language-and-appearance-header = 언어와 모양
 fonts-and-colors-header = 글꼴과 색상
+preferences-web-appearance-choice-browser = { -brand-short-name } 테마
+preferences-web-appearance-choice-system = 시스템 테마
+preferences-web-appearance-choice-light = 밝게
+preferences-web-appearance-choice-dark = 어둡게
+preferences-web-appearance-choice-tooltip-light =
+    .title = 웹 사이트 배경 및 콘텐츠에 밝은 화면 배색을 사용합니다.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = 웹 사이트 배경 및 콘텐츠에 어두운 화면 배색을 사용합니다.
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = <a data-l10n-name="themes-link">확장 기능 및 테마</a>에서 { -brand-short-name } 테마 관리
+preferences-colors-header = 색상
+preferences-colors-description = 텍스트, 웹 사이트 배경 및 링크에 대한 { -brand-short-name }의 기본 색상을 재정의합니다.
+preferences-colors-manage-button =
+    .label = 색상 관리…
+    .accesskey = C
+preferences-fonts-header = 글꼴
 default-font = 기본 글꼴
     .accesskey = D
 default-font-size = 크기
