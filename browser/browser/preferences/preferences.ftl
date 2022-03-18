@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Uma extensão, <im
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar como o { -brand-short-name } se liga à internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta opção.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta opção.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> necessita de Separadores Contentores.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla esta opção.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla como é que { -brand-short-name } se liga à Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,17 @@ containers-remove-cancel-button = Não remover este contentor
 
 language-and-appearance-header = Idioma e aparência
 fonts-and-colors-header = Tipo de letra e cores
+preferences-web-appearance-header = Aparência do site
+preferences-web-appearance-description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
+preferences-web-appearance-choice-browser = tema do { -brand-short-name }
+preferences-web-appearance-choice-system = Tema do sistema
+preferences-web-appearance-choice-light = Claro
+preferences-web-appearance-choice-dark = Escuro
+preferences-colors-header = Cores
+preferences-colors-manage-button =
+    .label = Gerir cores…
+    .accesskey = C
+preferences-fonts-header = Tipos de letra
 default-font = Tipo de letra predefinido
     .accesskey = d
 default-font-size = Tamanho
