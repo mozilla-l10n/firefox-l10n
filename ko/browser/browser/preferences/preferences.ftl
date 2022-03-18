@@ -88,6 +88,18 @@ extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-nam
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } 확장 기능이 { -brand-short-name }가 인터넷에 접근하는 방법을 제어하고 있습니다.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능에는 컨테이너 탭이 필요합니다.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -175,15 +187,16 @@ containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 
 language-and-appearance-header = 언어와 모양
 fonts-and-colors-header = 글꼴과 색상
+preferences-web-appearance-header = 웹 사이트 모양
 preferences-web-appearance-description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
 preferences-web-appearance-choice-browser = { -brand-short-name } 테마
 preferences-web-appearance-choice-system = 시스템 테마
 preferences-web-appearance-choice-light = 밝게
 preferences-web-appearance-choice-dark = 어둡게
 preferences-web-appearance-choice-tooltip-browser =
-    .title = 웹 사이트 배경 및 콘텐츠에 { -brand-short-name } 테마 설정을 일치시킵니다.
+    .title = 웹 사이트 배경 및 콘텐츠를 { -brand-short-name } 테마 설정과 일치시킵니다.
 preferences-web-appearance-choice-tooltip-system =
-    .title = 웹 사이트 배경 및 콘텐츠에 시스템 설정을 일치시킵니다.
+    .title = 웹 사이트 배경 및 콘텐츠를 시스템 설정과 일치시킵니다.
 preferences-web-appearance-choice-tooltip-light =
     .title = 웹 사이트 배경 및 콘텐츠에 밝은 화면 배색을 사용합니다.
 preferences-web-appearance-choice-tooltip-dark =
