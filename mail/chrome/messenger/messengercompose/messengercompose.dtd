@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Νέο">
 <!ENTITY newMenu.accesskey "Ν">
 <!ENTITY newMessage.label "Μήνυμα">
+<!ENTITY newMessage.accesskey "Μ">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Επαφή ευρετηρίου…">
 <!ENTITY newContact.accesskey "Ε">

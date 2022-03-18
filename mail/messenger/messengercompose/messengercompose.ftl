@@ -245,8 +245,14 @@ encrypted-bcc-ignore-button = Κατάλαβα
 compose-tool-button-remove-text-styling =
     .tooltiptext = Κατάργηση μορφοποίησης κειμένου
 
-## FileLink
+## Filelink
 
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Συνημμένο FileLink
 
 # Template
 
@@ -273,13 +279,13 @@ cloud-file-service-provider-footer-multiple = Μάθετε περισσότερ�
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Σύνδεσμος με κωδικό πρόσβασης
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Υπηρεσία CloudFile:
+cloud-file-template-service-name = Υπηρεσία FileLink:
 cloud-file-template-size = Μέγεθος:
 cloud-file-template-link = Σύνδεσμος:
 cloud-file-template-password-protected-link = Σύνδεσμος με κωδικό πρόσβασης:
@@ -303,3 +309,7 @@ cloud-file-rename-error = Παρουσιάστηκε πρόβλημα με τη 
 cloud-file-rename-error-with-custom-message-title = Η μετονομασία του { $filename } στο { $provider } απέτυχε
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = Το { $provider } δεν υποστηρίζει τη μετονομασία των ήδη ανεβασμένων αρχείων.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Σφάλμα συνημμένου FileLink
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Σφάλμα λογαριασμού FileLink
