@@ -223,3 +223,10 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+
+## Spaces toolbar customize panel
+
+spaces-customize-background-color = Колір тла
+spaces-customize-icon-color = Колір кнопки
+spaces-customize-button-save = Готово
+    .accesskey = Г
