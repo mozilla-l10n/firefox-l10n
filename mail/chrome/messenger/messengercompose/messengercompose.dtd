@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Új">
 <!ENTITY newMenu.accesskey "Ú">
 <!ENTITY newMessage.label "Üzenet">
+<!ENTITY newMessage.accesskey "j">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Névjegy…">
 <!ENTITY newContact.accesskey "N">
