@@ -32,6 +32,7 @@ about-private-browsing-hide-activity-1 = Oculte a atividade de navegação e de 
 about-private-browsing-prominent-cta = Mantenha a privacidade com a { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Transferir o { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegação privada em qualquer lugar
+about-private-browsing-focus-promo-text = A nossa app móvel dedicada a uma navegação privada limpa sempre o seu histórico e cookies.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -46,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Fechar
 about-private-browsing-dismiss-button =
     .title = Dispensar
+about-private-browsing-promo-close-button =
+    .title = Fechar
