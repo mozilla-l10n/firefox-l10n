@@ -88,6 +88,12 @@ extension-controlled-websites-content-blocking-all-trackers = Розширенн
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Розширення <img data-l10n-name="icon"/> { $name } контролює спосіб з'єднання { -brand-short-name } з Інтернетом.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> керує цим налаштуванням.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> керує цим налаштуванням.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -190,6 +196,10 @@ containers-remove-cancel-button = Не вилучати цей контейне�
 
 language-and-appearance-header = Мова і зовнішній вигляд
 fonts-and-colors-header = Шрифти й кольори
+preferences-web-appearance-choice-system = Системна тема
+preferences-web-appearance-choice-light = Світла
+preferences-web-appearance-choice-dark = Темна
+preferences-fonts-header = Шрифти
 default-font = Типовий шрифт
     .accesskey = ш
 default-font-size = Розмір
