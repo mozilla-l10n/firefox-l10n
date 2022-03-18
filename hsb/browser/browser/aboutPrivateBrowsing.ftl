@@ -32,6 +32,7 @@ about-private-browsing-hide-activity-1 = Schowajće přehladowansku aktiwitu a s
 about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = { -focus-brand-name } sćahnyć
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus po puću
+about-private-browsing-focus-promo-text = Naše mobilne, za priwatny modus myslene nałoženje wašu historiju a placki kóždy čas prózdni.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
