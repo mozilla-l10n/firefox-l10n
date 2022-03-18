@@ -86,6 +86,12 @@ expand-attachment-pane-tooltip =
     .tooltiptext = დანართის არის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = დანართის არის დამალვა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } დანართი
+       *[other] { $count } დანართი
+    }
 attachment-area-show =
     .title = დანართის არის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -241,8 +247,21 @@ encrypted-bcc-ignore-button = გასაგებია
 compose-tool-button-remove-text-styling =
     .tooltiptext = ტექსტის გაფორმების მოცილება
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = ატვირთულია დაუდგენელ Filelink-ანგარიშზე.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } – Filelink-დანართი
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = ფაილი { $filename } მიმაგრებული იყო Filelink-ზე. მისი ჩამოტვირთვა შესაძლებელია ქვემოთ მოცემული ბმულიდან.
 
 # Template
 
@@ -253,13 +272,6 @@ cloud-file-count-header =
     { $count ->
         [one] დართულია { $count } ფაილი ამ წერილზე:
        *[other] დართულია { $count } ფაილი ამ წერილზე:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] ვრცლად იხილეთ { $lastLink }.
-       *[other] ვრცლად იხილეთ { $firstLinks } და { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
@@ -276,13 +288,13 @@ cloud-file-service-provider-footer-multiple = ვრცლად იხილე
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = პაროლით დაცული ბმული
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile-მომსახურება:
+cloud-file-template-service-name = Filelink-მომსახურება:
 cloud-file-template-size = მოცულობა:
 cloud-file-template-link = ბმული:
 cloud-file-template-password-protected-link = პაროლით დაცული ბმული:
@@ -306,3 +318,9 @@ cloud-file-rename-error = წარმოიშვა ხარვეზი, { $
 cloud-file-rename-error-with-custom-message-title = { $filename } სახელი ვერ შეიცვალა მომსახურებით { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } არ იძლევა უკვე არსებული ფაილების გადარქმევის საშუალებას.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink-დანართის შეცდომა
+cloud-file-attachment-error = Filelink-დანართი { $filename } ვერ განახლდა, ვინაიდან მისი ადგილობრივი ასლი გადაადგილებული ან წაშლილია.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink-ანგარიშის შეცდომა
+cloud-file-account-error = Filelink-დანართი { $filename } ვერ განახლდა, ვინაიდან Filelink-ანგარიში წაშლილია.
