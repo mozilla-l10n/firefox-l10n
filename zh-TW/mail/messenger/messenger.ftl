@@ -232,6 +232,7 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = 自訂…
+spaces-customize-panel-title = 按鈕空間設定
 spaces-customize-background-color = 背景色
 spaces-customize-icon-color = 按鈕色
 # The background color used on the buttons of the spaces toolbar when they are

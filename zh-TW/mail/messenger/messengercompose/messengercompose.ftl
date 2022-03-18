@@ -244,8 +244,21 @@ encrypted-bcc-ignore-button = 知道了！
 compose-tool-button-remove-text-styling =
     .tooltiptext = 刪除文字樣式
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = 上傳至未知的雲端鏈結帳號。
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - 雲端鏈結附件
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = 檔案 { $filename } 已上傳至雲端鏈結，可於下方鏈結下載。
 
 # Template
 
@@ -271,13 +284,13 @@ cloud-file-service-provider-footer-multiple = 了解 { $firstLinks } 與 { $last
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = 密碼保護鏈結
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile 服務:
+cloud-file-template-service-name = 雲端鏈結服務:
 cloud-file-template-size = 大小:
 cloud-file-template-link = 鏈結:
 cloud-file-template-password-protected-link = 密碼保護鏈結:
@@ -301,3 +314,9 @@ cloud-file-rename-error = 在 { $provider } 重新命名 { $filename } 時發生
 cloud-file-rename-error-with-custom-message-title = 在 { $provider } 重新命名 { $filename } 失敗
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } 不支援重新命名已上傳的檔案。
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = 雲端鏈結上傳錯誤
+cloud-file-attachment-error = 由於本機檔案被移動或刪除，雲端鏈結附件 { $filename } 更新失敗。
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = 雲端鏈結帳號錯誤
+cloud-file-account-error = 由於雲端鏈結帳號已遭刪除，雲端鏈結附件 { $filename } 更新失敗。

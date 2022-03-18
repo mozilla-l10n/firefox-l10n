@@ -78,6 +78,7 @@ csv-target-field = 通訊錄欄位
 ## Export tab
 
 export-profile-desc = 將郵件帳號、郵件內容、通訊錄、設定匯出為一包 ZIP 檔案。需要的時候可將該檔案重新匯入，來還原設定檔。
+export-profile-desc2 = 若您目前的設定檔超過 2GB，建議您手動備份。
 export-open-profile-folder = 開啟設定檔目錄
 export-file-picker = 匯出成 zip 檔
 export-brand-name = { -brand-product-name }
