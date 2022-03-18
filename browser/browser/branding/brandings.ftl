@@ -36,3 +36,6 @@
 -rally-brand-name = Mozilla Rally
 -rally-short-name = Rally
 
+
+-focus-brand-name = Firefox Focus
+
