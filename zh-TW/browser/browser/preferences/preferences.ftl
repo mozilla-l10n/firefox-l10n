@@ -94,9 +94,15 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> 此設定�
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> 需要開啟容器分頁功能才可使用 <strong>{ $name }</strong>。
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 會控制 { -brand-short-name } 連線到網際網路的方式。
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -185,10 +191,13 @@ containers-remove-cancel-button = 不要移除此容器
 language-and-appearance-header = 語言與外觀
 fonts-and-colors-header = 字型與色彩
 preferences-web-appearance-header = 網站外觀
+preferences-web-appearance-description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
 preferences-web-appearance-choice-browser = { -brand-short-name } 佈景主題
 preferences-web-appearance-choice-system = 系統佈景主題
 preferences-web-appearance-choice-light = 亮色
 preferences-web-appearance-choice-dark = 暗色
+preferences-web-appearance-choice-tooltip-browser =
+    .title = 在網站背景與內容使用與 { -brand-short-name } 佈景主題設定相符的配色。
 preferences-colors-header = 色彩
 preferences-colors-manage-button =
     .label = 管理色彩…
