@@ -252,13 +252,13 @@ compose-tool-button-remove-text-styling =
 
 # A text used in a tooltip of Filelink attachments, whose account has been
 # removed or is unknown.
-cloud-file-unknown-account-tooltip = Uppladdad till ett okänt Filelink-konto.
+cloud-file-unknown-account-tooltip = Uppladdad till ett okänt fillänkskonto.
 
 # Placeholder file
 
 # Title for the html placeholder file.
 # $filename - name of the file
-cloud-file-placeholder-title = { $filename } - Filelink-bilaga
+cloud-file-placeholder-title = { $filename } - Fillänksbilaga
 # A text describing that the file was attached as a Filelink and can be downloaded
 # from the link shown below.
 # $filename - name of the file
@@ -288,6 +288,14 @@ cloud-file-service-provider-footer-single = Läs mer om { $link }.
 cloud-file-service-provider-footer-multiple = Läs mer om { $firstLinks } och { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lösenordsskyddad länk
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Fillänkstjänst:
 cloud-file-template-size = Storlek:
 cloud-file-template-link = Länk:
 cloud-file-template-password-protected-link = Lösenordsskyddad länk:
@@ -311,3 +319,9 @@ cloud-file-rename-error = Det uppstod ett problem med att byta namn på { $filen
 cloud-file-rename-error-with-custom-message-title = Byte av namn på { $filename } hos { $provider } misslyckades
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } stöder inte namnbyte på redan uppladdade filer.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Fillänksbifogningsfel
+cloud-file-attachment-error = Det gick inte att uppdatera fillänksbilagan { $filename }, eftersom dess lokala fil har flyttats eller tagits bort.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Fillänkskontofel
+cloud-file-account-error = Det gick inte att uppdatera fillänksbilagan { $filename }, eftersom dess fillänkskonto har tagits bort.
