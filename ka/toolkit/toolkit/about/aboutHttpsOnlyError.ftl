@@ -9,7 +9,7 @@ about-httpsonly-title-site-not-available = უსაფრთხო საიტ
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = თქვენ ჩართული გაქვთ მხოლოდ-HTTPS რეჟიმი მაღალი უსაფრთხოებისთვის, მაგრამ <em>{ $websiteUrl }</em> არაა წარმოდგენილი დაცული HTTPS-ვერსიით.
 about-httpsonly-explanation-question = რისი ბრალია?
-about-httpsonly-explanation-nosupport = უმეტესად იმის, რომ საიტს უბრალოდ არ აქვს HTTPS.
+about-httpsonly-explanation-nosupport = უმეტესად იმის, რომ საიტს, უბრალოდ არ აქვს HTTPS.
 about-httpsonly-explanation-risk = არც ისაა გამორიცხული, ვინმე შემტევის ხელი ერიოს. თუ გადაწყვეტთ ეწვიოთ ამ საიტს, აჯობებს არ შეიყვანოთ მნიშვნელოვანი მონაცემები, პაროლები, ელფოსტა ან საკრედიტო ბარათის ნომრები.
 about-httpsonly-explanation-continue = თუ განაგრძობთ, ამ საიტისთვის დროებით გამოირთვება მხოლოდ-HTTPS რეჟიმი.
 about-httpsonly-button-continue-to-site = გადასვლა HTTP-საიტზე
