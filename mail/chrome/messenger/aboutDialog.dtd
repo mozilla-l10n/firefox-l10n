@@ -65,7 +65,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; განახლებულია">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "განახლებები ამორთულია თქვენი სისტემის ადმინის მიერ">
+<!ENTITY update.adminDisabled       "განახლებები ამორთულია თქვენი სისტემის ზედამხედველის მიერ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; უკვე ახლდება">
 
