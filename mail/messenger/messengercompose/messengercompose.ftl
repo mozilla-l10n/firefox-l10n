@@ -248,8 +248,21 @@ encrypted-bcc-ignore-button = Förstått
 compose-tool-button-remove-text-styling =
     .tooltiptext = Ta bort textstyling
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Uppladdad till ett okänt Filelink-konto.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Filelink-bilaga
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Filen { $filename } bifogades som en fillänk. Den kan laddas ner från länken nedan.
 
 # Template
 
@@ -275,14 +288,6 @@ cloud-file-service-provider-footer-single = Läs mer om { $link }.
 cloud-file-service-provider-footer-multiple = Läs mer om { $firstLinks } och { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lösenordsskyddad länk
-# Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
-# Size - the size of the file (Size: 4.2 MB)
-# Link - the link to the file (Link: https://some.provider.com)
-# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
-# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
-#                  (Download Limit: 6)
-cloud-file-template-service = CloudFile-tjänst:
 cloud-file-template-size = Storlek:
 cloud-file-template-link = Länk:
 cloud-file-template-password-protected-link = Lösenordsskyddad länk:
