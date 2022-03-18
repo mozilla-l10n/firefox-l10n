@@ -208,7 +208,22 @@ preferences-web-appearance-choice-browser = tema do { -brand-short-name }
 preferences-web-appearance-choice-system = Tema do sistema
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Escuro
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Corresponda as suas opções de tema do { -brand-short-name } quanto a fundos e conteúdo.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Corresponda as suas opções de tema quanto a fundos e conteúdo.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Utilizar um aspeto claro para fundos e conteúdo de websites.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Utilizar um aspeto escuro para fundos e conteúdo de websites.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = As suas seleções de cores estão a substituir a aparência do website. <a data-l10n-name="colors-link">Gerir cores</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gerir temas do { -brand-short-name } em<a data-l10n-name="themes-link">Extensões e Temas</a>
 preferences-colors-header = Cores
+preferences-colors-description = Subsituir as cores padrão do { -brand-short-name } quanto a texto, fundos de websites e ligações.
 preferences-colors-manage-button =
     .label = Gerir cores…
     .accesskey = C
