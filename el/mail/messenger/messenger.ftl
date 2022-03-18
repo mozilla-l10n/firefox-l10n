@@ -221,3 +221,29 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Ένα μη αναγνωσμένο μήνυμα
+           *[other] { $count } μη αναγνωσμένα μηνύματα
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Προσαρμογή…
+spaces-customize-panel-title = Ρυθμίσεις γραμμής χώρων
+spaces-customize-background-color = Χρώμα φόντου
+spaces-customize-icon-color = Χρώμα κουμπιού
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Επιλεγμένο χρώμα φόντου κουμπιού
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Επιλεγμένο χρώμα κουμπιού
+spaces-customize-button-restore = Επαναφορά προεπιλογών
+    .accesskey = φ
+spaces-customize-button-save = Τέλος
+    .accesskey = Τ
