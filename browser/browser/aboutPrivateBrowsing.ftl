@@ -18,7 +18,14 @@ about-private-browsing-handoff-no-engine =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = { $engine }मा सर्च गर्नुहोस् वा ठेगाना प्रविष्ट गर्नुहोस्
+about-private-browsing-handoff-text-no-engine = ठेगाना खोज्‍नुहोस् वा राखनुहोस्।
 about-private-browsing-not-private = तपाईँ अहिले निजी सञ्झ्याल हुनुहुन्न।
+about-private-browsing-need-more-privacy = थप गोपनीयता चाहिन्छ?
+about-private-browsing-turn-on-vpn = प्रयास गर्नुहोस् { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = थप जान्नुहोस्
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्द गर्नुहोस्
+about-private-browsing-dismiss-button =
+    .title = खारेज गर्नुहोस्
+about-private-browsing-promo-close-button =
+    .title = बन्द गर्नुहोस्
