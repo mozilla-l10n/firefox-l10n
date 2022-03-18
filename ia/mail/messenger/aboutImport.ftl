@@ -78,6 +78,7 @@ csv-target-field = Campo del libro de adresses
 ## Export tab
 
 export-profile-desc = Exporta contos e-mail, messages e-mail, libros de adresses, parametros a in un file zip. Quando necessari, tu pote importar le file zip pro restaurar tu profilo.
+export-profile-desc2 = Si tu actual profilo es major de 2GB, nos te suggere de reservar lo tu mesme.
 export-open-profile-folder = Aperir le plica del profilo
 export-file-picker = Exportar a un file zip
 export-brand-name = { -brand-product-name }

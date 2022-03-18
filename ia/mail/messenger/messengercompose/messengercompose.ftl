@@ -247,8 +247,21 @@ encrypted-bcc-ignore-button = Io comprende
 compose-tool-button-remove-text-styling =
     .tooltiptext = Remover le stilos de texto
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Cargate a in un incognite conto Filelink.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - annexo Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Le file { $filename } era attachate como un Filelink. Illo pote esser discargate ab le ligamine infra.
 
 # Template
 
@@ -275,13 +288,13 @@ cloud-file-service-provider-footer-multiple = Pro saper plus re { $firstLinks } 
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Ligamine de protection contrasigno
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile Servicio:
+cloud-file-template-service-name = Servicio Filelink:
 cloud-file-template-size = Dimension:
 cloud-file-template-link = Ligamine:
 cloud-file-template-password-protected-link = Ligamine de protection contrasigno
@@ -305,3 +318,9 @@ cloud-file-rename-error = Il habeva un problema al renomination de { $filename }
 cloud-file-rename-error-with-custom-message-title = Renomination de { $filename } sur { $provider } fallite
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } non supporta le renomination de files jam cargate.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Error de annexo Filelink
+cloud-file-attachment-error = Impossibile actualisar le annexo Filelink { $filename }, perque su file local ha essite movite o delite.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Error de conto Filelink
+cloud-file-account-error = Impossibile actualisar le annexo de Filelink { $filename }, perque su conto de Filelink ha essite delite.
