@@ -12,7 +12,7 @@
 <!ENTITY privatebrowsingpage.status.private      "&brandShortName; არ დაიმახსოვრებს ამ ფანჯრის ისტორიას.">
 <!ENTITY privatebrowsingpage.status.normal       "ამჟმად პირად ფანჯარაში არ იმყოფებით.">
 
-<!ENTITY privatebrowsingpage.common.description  "პირადი ფანჯრის გამოყენებისას, &brandShortName; არ დაიმახსოვრებს დათვალიერებული გვერდების ისტორიას, ჩამოტვირთვების ისტორიას, შევსებული ველების მონაცემებს და დროებით ფაილებს.  თუმცა, ჩანიშნული გვერდები და ჩამოტვირთული ფაილები შენარჩუნდება.">
+<!ENTITY privatebrowsingpage.common.description  "პირადი ფანჯრის გამოყენებისას, &brandShortName; არ დაიმახსოვრებს დათვალიერებული გვერდების ისტორიას, ჩამოტვირთვების ისტორიას, შევსებული ველების მონაცემებს და დროებით ფაილებს.  თუმცა ჩანიშნული გვერდები და ჩამოტვირთული ფაილები შენარჩუნდება.">
 <!ENTITY privatebrowsingpage.track.warn          "მიუხედავად იმისა, რომ ბრაუზერი არ დაიმახსოვრებს ისტორიას, თქვენს დამსაქმებელს, ან ინტერნეტის მომწოდებელს, მაინც შეეძლებათ თვალი ადევნონ თქვენ მიერ მონახულებულ გვერდებს.">
 <!ENTITY privatebrowsingpage.learnmore.label     "ვრცლად">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "L">
