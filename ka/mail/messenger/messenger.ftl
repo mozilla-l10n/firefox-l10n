@@ -188,3 +188,62 @@ spaces-toolbar-button-settings =
     .title = გადასვლა პარამეტრების ჩანართზე
 spaces-toolbar-button-collapse =
     .title = არეების ზოლის შეკეცვა
+spaces-toolbar-button-reveal =
+    .title = არეების ზოლის გამოჩენა
+spaces-context-new-tab-item =
+    .label = გახსნა ახალ ჩანართში
+spaces-context-new-window-item =
+    .label = გახსნა ახალ ფანჯარაში
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = გადასვლა { $tabName }
+settings-context-open-settings-item =
+    .label = პარამეტრების გახსნა
+settings-context-open-account-settings-item =
+    .label = ანგარიშის პარამეტრების გახსნა
+settings-context-open-addons-item =
+    .label = დამატებები და თემები
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = არეების მენიუს გახსნა
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] ერთი წაუკითხავი წერილია
+           *[other] { $count } წაუკითხავი წერილია
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = მორგება…
+spaces-customize-panel-title = არეების მენიუს პარამეტრები
+spaces-customize-background-color = ფონის ფერი
+spaces-customize-icon-color = ღილაკის ფერი
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = არჩეული ღილაკის ფონის ფერი
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = არჩეული ღილაკის ფერი
+spaces-customize-button-restore = ნაგულისხმევის აღდგენა
+    .accesskey = ნ
+spaces-customize-button-save = მზადაა
+    .accesskey = ზ

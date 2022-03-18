@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = ტელეფონის ნ
 about-addressbook-details-home-address-header = ბინის მისამართი
 about-addressbook-details-work-address-header = სამსახურის მისამართი
 about-addressbook-details-other-info-header = სხვა ინფორმაცია
-about-addressbook-prompt-to-save-title = შეინახოს ცვლილებები?
-about-addressbook-prompt-to-save = გსურთ, ცვლილებების შენახვა?
+about-addressbook-unsaved-changes-prompt-title = შეუნახავი ცვლილებები
+about-addressbook-unsaved-changes-prompt = გსურთ, შეინახოთ ცვლილებები გამოსვლამდე?
 
 # Photo dialog
 

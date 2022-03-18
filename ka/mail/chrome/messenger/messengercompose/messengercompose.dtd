@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "ახალი">
 <!ENTITY newMenu.accesskey "ა">
 <!ENTITY newMessage.label "წერილი">
+<!ENTITY newMessage.accesskey "წ">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "პირი წიგნაკიდან…">
 <!ENTITY newContact.accesskey "კ">
