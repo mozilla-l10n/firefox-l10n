@@ -65,7 +65,10 @@ error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能
 
 ## <csv-field-map> element
 
+csv-target-field = 通訊錄欄位
 
 ## Export tab
 
+export-open-profile-folder = 開啟設定檔目錄
+export-file-picker = 匯出成 zip 檔
 export-brand-name = { -brand-product-name }
