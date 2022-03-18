@@ -187,6 +187,7 @@ containers-remove-cancel-button = Non remover iste contentor
 
 language-and-appearance-header = Lingua e apparentia
 fonts-and-colors-header = Typos de litteras e colores
+preferences-web-appearance-header = Apparentia del sito web
 preferences-web-appearance-choice-browser = Thema de { -brand-short-name }
 preferences-web-appearance-choice-system = Thema del systema
 preferences-web-appearance-choice-light = Clar
