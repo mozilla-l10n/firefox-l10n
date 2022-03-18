@@ -47,8 +47,20 @@ msgevent-rcvdmsg-unencrypted = Tin nhắn sau nhận được từ { $name } kh�
 msgevent-rcvdmsg-unrecognized = Bạn đã nhận được một tin nhắn OTR không xác định từ { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg-for-other-instance = { $name } đã gửi một tin nhắn dành cho một phiên khác. Nếu bạn đăng nhập nhiều lần, một phiên khác có thể đã nhận được thông báo.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-gone-secure-private = Đã bắt đầu cuộc trò chuyện riêng tư với { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone-secure-unverified = Cuộc trò chuyện được mã hóa nhưng chưa được xác thực đã bắt đầu với { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still-secure = Đã làm mới cuộc trò chuyện được mã hóa với { $name }.
 error-enc = Đã xảy ra lỗi khi mã hóa tin nhắn.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Bạn đã gửi dữ liệu được mã hóa đến { $name }, nhưng bên kia không nhận được như mong đợi.
 error-unreadable = Bạn đã truyền đi một tin nhắn được mã hóa không đọc được.
 error-malformed = Bạn đã truyền một tin nhắn dữ liệu không đúng định dạng.
 resent = [đã gửi lại]
