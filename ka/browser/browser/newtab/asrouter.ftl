@@ -162,3 +162,10 @@ spotlight-total-cookie-protection-secondary-button = ახლა არა
 spotlight-better-internet-header = უკეთესი ინტერნეტი თქვენით იწყება
 spotlight-better-internet-body = როცა იყენებთ { -brand-short-name }-ს, ამით მხარს უჭერთ გახნილ და ხელმისაწვდომ საყოველთაო ინტერნეტს.
 spotlight-peace-mind-header = ჩვენ გიცავთ
+spotlight-peace-mind-body = ყოველთვე, { -brand-short-name } ზღუდავს საშუალოდ 3,000-ზე მეტ მეთვალყურეს, თითოეული მომხმარებლისთვის. ვერაფერი, მით უმეტეს მომაბეზრებელი თვალყურის მდევნებლები ვერ ჩადგებიან თქვენსა და ჯანსაღ ინტერნეტს შორის.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] დარჩეს Dock-ზე
+       *[other] სამუშაო ზოლზე მიმაგრება
+    }
+spotlight-pin-secondary-button = ახლა არა
