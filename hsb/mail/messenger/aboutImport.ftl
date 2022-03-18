@@ -77,6 +77,8 @@ csv-target-field = Polo adresnika
 
 ## Export tab
 
+export-profile-desc = Eksportujće e-mejlowe konta, mejlki, adresniki, nastajenja do zip-dataje. Jeli trjeba, móžeće zip-dataju importować, zo byšće swój profil wobnowił.
+export-profile-desc2 = Jeli waš aktualny profil je wjetši hač 2 GB, namjetujemy, zo jón zawěsćeće.
 export-open-profile-folder = Profilowy rjadowak wočinić
 export-file-picker = Jako zip-dataju eksportować
 export-brand-name = { -brand-product-name }
