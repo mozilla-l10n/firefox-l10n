@@ -29,7 +29,7 @@ disable-extension-button = გაფართოების ამორთვ�
 #
 # The extension-icon is the extension's icon, or a fallback image. It should be
 # purely decoration for the actual extension name, with alt="".
-proxy-settings-controlled-by-extension = პარამეტრებს, რომლითც { -brand-short-name } უკავშირდება ინტერნეტს, განსაზღვრავს <img data-l10n-name="extension-icon" alt="" /> { $name } გაფართოება.
+proxy-settings-controlled-by-extension = გაფართოება <img data-l10n-name="extension-icon" alt="" /> { $name } განსაზღვრავს, თუ როგორ უკავშირდება { -brand-short-name } ინტერნეტს.
 connection-proxy-legend = პროქსის გამართვა ინტერნეტ კავშირისთვის
 proxy-type-no =
     .label = პროქსი არაა
