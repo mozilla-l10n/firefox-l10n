@@ -209,11 +209,25 @@ preferences-web-appearance-choice-system = Rendszertéma
 preferences-web-appearance-choice-light = Világos
 preferences-web-appearance-choice-dark = Sötét
 preferences-web-appearance-choice-tooltip-browser =
-    .title = A { -brand-short-name } témabeállításainak a webhely hátteréhez és tartalmához igazítása.
+    .title = A { -brand-short-name } témabeállításainak a webhelyek hátteréhez és tartalmához igazítása.
 preferences-web-appearance-choice-tooltip-system =
     .title = A rendszerbeállítások a webhely hátteréhez és tartalmához igazítása.
 preferences-web-appearance-choice-tooltip-light =
     .title = Világos megjelenés használata a webhelyek hátteréhez és tartalmához.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Sötét megjelenés használata a webhelyek hátteréhez és tartalmához.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Az Ön színválasztásai felülírják a webhely megjelenését. <a data-l10n-name="colors-link">Színek kezelése</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Kezelje a { -brand-short-name } témáit a <a data-l10n-name="themes-link">Kiegészítők és témák</a> lapon
+preferences-colors-header = Színek
+preferences-colors-description = A { -brand-short-name } alapértelmezett színeinek felülírása a szövegnél, a webhelyek hátterénél és a hivatkozásoknál.
+preferences-colors-manage-button =
+    .label = Színek kezelése…
+    .accesskey = S
+preferences-fonts-header = Betűkészletek
 default-font = Alapértelmezett betűkészlet
     .accesskey = A
 default-font-size = Méret
