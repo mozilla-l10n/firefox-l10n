@@ -88,6 +88,9 @@ extension-controlled-websites-content-blocking-all-trackers = Peteĩ jepysokue, 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui { -brand-short-name } ramo ojuajúvo ñanduti rehe.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> ohechameme ko ñemboheko.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +190,14 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
 fonts-and-colors-header = Taity ha sa’ykuéra
+preferences-web-appearance-choice-browser = { -brand-short-name } téma
+preferences-web-appearance-choice-system = Apopyvusu téma
+preferences-web-appearance-choice-light = Tesakã
+preferences-web-appearance-choice-dark = Ypytũ
+preferences-colors-header = Sa’y
+preferences-colors-manage-button =
+    .label = Sa’ýre ñeñangareko…
+    .accesskey = C
 default-font = Teñoiha ijypykuéva:
     .accesskey = D
 default-font-size = Tuichakue:
