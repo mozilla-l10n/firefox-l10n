@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Rozšyrjenje, <img
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Rozšěrjenje <img data-l10n-name="icon"/> { $name } wóźi, kak { -brand-short-name } z internetom zwězujo.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> toś to nastajenje wóźi.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> toś to nastajenje wóźi.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> se kontejnerowe rejtariki pomina.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> toś to nastajenje wóźi.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> wóźi, kak { -brand-short-name } z internetom zwězujo.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -193,6 +208,32 @@ containers-remove-cancel-button = Toś ten kontejner njewótwónoźeś
 
 language-and-appearance-header = Rěc a wuglěd
 fonts-and-colors-header = Pisma a barwy
+preferences-web-appearance-header = Naglěd websedła
+preferences-web-appearance-description = Někotare websedła swóju barwowu šemu na zakłaźe wašych nastajenjow pśiměrjuju. Wubjeŕśo, kótaru barwowu šemu cośo za te sedła wužywaś.
+preferences-web-appearance-choice-browser = Drastwa { -brand-short-name }
+preferences-web-appearance-choice-system = Systemowa drastwa
+preferences-web-appearance-choice-light = Swětły
+preferences-web-appearance-choice-dark = Śamny
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Pśiměŕśo swóje drastwowe nastajenja { -brand-short-name } za slězyny a wopśimjeśe websedłow.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Pśiměŕśo swóje systemowe nastajenja za slězyny a wopśimjeśe websedłow.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Swětły naglěd za slězyny websedłow a wopśimjeśe wužywaś.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Śamny naglěd za slězyny websedłow a wopśimjeśe wužywaś.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Waše barwowe wuběrki naglěd websedła pśepisuju. <a data-l10n-name="colors-link">Barwy zastojaś</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Drastwy { -brand-short-name } w <a data-l10n-name="themes-link">Rozšyrjenja a drastwy</a> zastojaś
+preferences-colors-header = Barwy
+preferences-colors-description = Standardne barwy { -brand-short-name } za tekst, slězyny websedłow a wótkaze pśepisaś.
+preferences-colors-manage-button =
+    .label = Barwy zastojaś…
+    .accesskey = B
+preferences-fonts-header = Pisma
 default-font = Standardne pismo
     .accesskey = S
 default-font-size = Wjelikosć

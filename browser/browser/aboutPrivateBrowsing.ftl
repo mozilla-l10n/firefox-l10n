@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Schowajśo swóju aktiwitu a stojnišćo,
 about-private-browsing-get-privacy = Wobstarajśo se šćit priwatnosći wšuźi, źož pśeglědujośo
 about-private-browsing-hide-activity-1 = Schowajśo pśeglědowańsku aktiwitu a stojnišćo z { -mozilla-vpn-brand-name }. Z jadnym kliknjenim napórajośo zwisk, samo w zjawnem WLAN:
 about-private-browsing-prominent-cta = Šćitajśo swóju priwatnosć z { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = { -focus-brand-name } ześěgnuś
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus pó droze
+about-private-browsing-focus-promo-text = Našo mobilne, za priwatny modus myslone nałoženje wašu historiju a cookieje kuždy cas prozni.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Zacyniś
 about-private-browsing-dismiss-button =
     .title = Zachyśiś
+about-private-browsing-promo-close-button =
+    .title = Zacyniś
