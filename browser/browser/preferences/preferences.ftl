@@ -198,7 +198,20 @@ preferences-web-appearance-choice-light = 亮色
 preferences-web-appearance-choice-dark = 暗色
 preferences-web-appearance-choice-tooltip-browser =
     .title = 在網站背景與內容使用與 { -brand-short-name } 佈景主題設定相符的配色。
+preferences-web-appearance-choice-tooltip-system =
+    .title = 在網站背景與內容使用與您的系統設定相符的配色。
+preferences-web-appearance-choice-tooltip-light =
+    .title = 在網站背景與內容使用亮色外觀。
+preferences-web-appearance-choice-tooltip-dark =
+    .title = 在網站背景與內容使用暗色外觀。
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = 您選擇的配色會蓋過網站外觀的配色。<a data-l10n-name="colors-link">管理色彩</a>。
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = 到<a data-l10n-name="themes-link">擴充套件與佈景主題</a>管理 { -brand-short-name } 的佈景主題
 preferences-colors-header = 色彩
+preferences-colors-description = 覆蓋 { -brand-short-name } 的預設文字、網站背景、鏈結色彩。
 preferences-colors-manage-button =
     .label = 管理色彩…
     .accesskey = C
