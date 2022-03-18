@@ -204,6 +204,30 @@ language-and-appearance-header = Idioma y apariencia
 fonts-and-colors-header = Tipografías y colores
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
+preferences-web-appearance-choice-browser = Tema de { -brand-short-name }
+preferences-web-appearance-choice-system = Tema del sistema
+preferences-web-appearance-choice-light = Claro
+preferences-web-appearance-choice-dark = Oscuro
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Haz coincidir la configuración de tu tema de { -brand-short-name } con los fondos y el contenido del sitio web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Haz coincidir la configuración de tu sistema con los fondos y el contenido del sitio web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Usa una apariencia clara para los fondos y el contenido del sitio web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Usa una apariencia oscura para los fondos y el contenido del sitio web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Tus selecciones de color anulan la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Administra los temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensiones y Temas</a>
+preferences-colors-header = Colores
+preferences-colors-description = Anula los colores predeterminados de { -brand-short-name } para texto, fondos de sitios web y enlaces.
+preferences-colors-manage-button =
+    .label = Administrar Colores…
+    .accesskey = C
+preferences-fonts-header = Fuentes
 default-font = Fuente predeterminada
     .accesskey = D
 default-font-size = Tamaño
