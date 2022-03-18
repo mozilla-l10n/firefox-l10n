@@ -203,6 +203,31 @@ containers-remove-cancel-button = სათავსის დატოვებ
 language-and-appearance-header = ენა და იერსახე
 fonts-and-colors-header = შრიფტები და ფერები
 preferences-web-appearance-header = საიტის იერსახე
+preferences-web-appearance-description = ზოგიერთი ვებსაიტი თავის ფერებს უხამებს თქვენი პარამეტრებით მითითებულს. აირჩიეთ ფერები ამგვარი საიტებისთვის.
+preferences-web-appearance-choice-browser = { -brand-short-name } გაფორმება
+preferences-web-appearance-choice-system = სისტემური გაფორმება
+preferences-web-appearance-choice-light = ნათელი
+preferences-web-appearance-choice-dark = მუქი
+preferences-web-appearance-choice-tooltip-browser =
+    .title = შეუსაბამეთ თქვენი { -brand-short-name } გაფორმების პარამეტრები ვებსაიტის ფონსა და შიგთავსს.
+preferences-web-appearance-choice-tooltip-system =
+    .title = შეუსაბამეთ თქვენი სისტემის პარამეტრები ვებსაიტის ფონსა და შიგთავსს.
+preferences-web-appearance-choice-tooltip-light =
+    .title = გამოიყენეთ ნათელი იერსახე ვებსაიტის ფონისა და შიგთავსისთვის.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = გამოიყენეთ მუქი იერსახე ვებსაიტის ფონისა და შიგთავსისთვის.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას. <a data-l10n-name="colors-link">ფერების მართვა</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = გააფორმეთ { -brand-short-name } <a data-l10n-name="themes-link">გაფართოებებისა და თემების</a> განყოფილებიდან
+preferences-colors-header = ფერები
+preferences-colors-description = ყოველთვის ჩანაცვლდეს ნაწერის, საიტის ფონისა და ბმულების გაფორმება იმ ნაგულისხმევი ფერებით, რომელთაც { -brand-short-name } იყენებს.
+preferences-colors-manage-button =
+    .label = ფერების მართვა…
+    .accesskey = ფ
+preferences-fonts-header = შრიფტები
 default-font = შრიფტის შერჩევა
     .accesskey = შ
 default-font-size = ზომა
@@ -423,6 +448,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = გლუვი გადაადგილების გამოყენება
     .accesskey = გ
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = რბიის ზოლის გამოჩენა ყოველთვის
+    .accesskey = რ
 browsing-use-onscreen-keyboard =
     .label = ეკრანული კლავიატურის ჩვენება საჭიროების შემთხვევაში
     .accesskey = კ
