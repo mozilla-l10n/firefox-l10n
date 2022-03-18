@@ -210,6 +210,25 @@ language-and-appearance-header = Rěč a zwonkowne
 fonts-and-colors-header = Pisma a barby
 preferences-web-appearance-header = Napohlad websydła
 preferences-web-appearance-choice-browser = Drasta { -brand-short-name }
+preferences-web-appearance-choice-system = Systemowa drasta
+preferences-web-appearance-choice-light = Swětły
+preferences-web-appearance-choice-dark = Ćmowy
+preferences-web-appearance-choice-tooltip-light =
+    .title = Swětły napohlad za pozadki websydłow a wobsah wužiwać.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Ćmowy napohlad za pozadki websydłow a wobsah wužiwać.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Waše barbowe wuběry napohlad websydła přepisuja. <a data-l10n-name="colors-link">Barby rjadować</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Drasty { -brand-short-name } w <a data-l10n-name="themes-link">Rozšěrjenja a drasty</a> rjadować
+preferences-colors-header = Barby
+preferences-colors-description = Standardne barby { -brand-short-name } za tekst, pozadki websydłow a wotkazy přepisać.
+preferences-colors-manage-button =
+    .label = Barby rjadować…
+    .accesskey = B
+preferences-fonts-header = Pisma
 default-font = Standardne pismo
     .accesskey = S
 default-font-size = Wulkosć
