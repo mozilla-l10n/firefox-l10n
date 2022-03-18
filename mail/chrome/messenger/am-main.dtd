@@ -39,7 +39,7 @@
 <!ENTITY manageIdentities.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Máy chủ Gửi thư (SMTP):">
+<!ENTITY smtpName.label "Máy chủ gửi thư (SMTP):">
 <!ENTITY smtpName.accesskey "M">
 <!ENTITY smtpDefaultServer.label "Sử dụng Máy chủ Mặc định">
 
