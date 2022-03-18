@@ -94,6 +94,15 @@ extension-controlling-password-saving = Le <img data-l10n-name="icon"/> <strong>
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla iste parametros.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> require le Schedas recipente.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla iste parametros.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = Le <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla como { -brand-short-name } se connecte a internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -194,10 +203,13 @@ containers-remove-cancel-button = Non remover iste contentor
 language-and-appearance-header = Lingua e apparentia
 fonts-and-colors-header = Typos de litteras e colores
 preferences-web-appearance-header = Apparentia del sito web
+preferences-web-appearance-description = Alcun sitos web adapta lor schema de color in base a tu preferentias. Elige que schema de color tu amarea usar pro ille sitos.
 preferences-web-appearance-choice-browser = Thema de { -brand-short-name }
 preferences-web-appearance-choice-system = Thema del systema
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Obscur
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Concorda tu parametros de thema de { -brand-short-name } pro le fundos e contento del sito web.
 preferences-colors-header = Colores
 preferences-colors-manage-button =
     .label = Gerer colores…
