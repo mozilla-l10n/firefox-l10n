@@ -67,6 +67,7 @@ error-message-failed = Не вдалося імпортувати, можлив�
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Перший рядок містить назви полів
 csv-source-field = Джерельне поле
 csv-source-first-record = Перший запис
 csv-source-second-record = Другий запис
@@ -75,4 +76,5 @@ csv-target-field = Поле адресної книги
 ## Export tab
 
 export-open-profile-folder = Відкрити теку профілю
+export-file-picker = Експорт у zip-файл
 export-brand-name = { -brand-product-name }
