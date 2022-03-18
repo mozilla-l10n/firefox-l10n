@@ -44,3 +44,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Lat att
 about-private-browsing-dismiss-button =
     .title = Ignorer
+about-private-browsing-promo-close-button =
+    .title = Lat att
