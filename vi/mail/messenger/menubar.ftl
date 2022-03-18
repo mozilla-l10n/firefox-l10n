@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Chạm
     .accesskey = T
+menu-spaces-toolbar-button =
+    .label = Thanh công cụ Spaces
+    .accesskey = S
 
 ## File
 
