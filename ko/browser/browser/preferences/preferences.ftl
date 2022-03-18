@@ -100,6 +100,9 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 확장 기능이 이 설정을 제어합니다.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> 확장 기능은 { -brand-short-name }가 인터넷에 연결하는 방법을 제어합니다.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
