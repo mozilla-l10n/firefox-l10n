@@ -249,8 +249,21 @@ encrypted-bcc-ignore-button = Értettem
 compose-tool-button-remove-text-styling =
     .tooltiptext = Szövegstílus eltávolítása
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Egy ismeretlen Filelink-fiókba feltöltve.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } – Filelink-melléklet
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = A(z) { $filename } fájlt Filelink-hivatkozásként csatolták. Az alábbi hivatkozásról tölthető le.
 
 # Template
 
@@ -277,13 +290,13 @@ cloud-file-service-provider-footer-multiple = Tudjon meg többet a következőkr
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Jelszóval védett hivatkozás
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile szolgáltatás:
+cloud-file-template-service-name = Filelink szolgáltatás:
 cloud-file-template-size = Méret:
 cloud-file-template-link = Hivatkozás:
 cloud-file-template-password-protected-link = Jelszóval védett hivatkozás:
@@ -307,3 +320,9 @@ cloud-file-rename-error = Probléma lépett fel a(z) { $filename } átnevezések
 cloud-file-rename-error-with-custom-message-title = A(z) { $filename } átnevezése a(z) { $provider } szolgáltatásban sikertelen
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = A(z) { $provider } nem támogatja a már feltöltött fájlok átnevezését.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink melléklethiba
+cloud-file-attachment-error = Nem sikerült frissíteni a(z) { $filename } Filelink mellékletet, mert a helyi fájlt áthelyezték vagy törölték.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink fiókhiba
+cloud-file-account-error = Nem sikerült frissíteni a(z) { $filename } Filelink mellékletet, mert a Filelink-fiókot törölték.

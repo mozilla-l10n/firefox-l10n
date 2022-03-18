@@ -221,3 +221,29 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Egy olvasatlan üzenet
+           *[other] { $count } olvasatlan üzenet
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Testreszabás…
+spaces-customize-panel-title = Helyek eszköztár beállításai
+spaces-customize-background-color = Háttérszín
+spaces-customize-icon-color = Gomb színe
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Kiválasztott gomb háttérszíne
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Kiválasztott gomb színe
+spaces-customize-button-restore = Alapértelmezések helyreállítása
+    .accesskey = h
+spaces-customize-button-save = Kész
+    .accesskey = K

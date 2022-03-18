@@ -49,6 +49,7 @@ addr-book-sqlite-file = SQLite adatbázisfájl (.sqlite)
 addr-book-mab-file = Mork adatbázisfájl (.mab)
 addr-book-file-picker = Címjegyzékfájl kiválasztása
 addr-book-csv-field-map-title = Mezőnevek összerendelése
+addr-book-csv-field-map-desc = Válassza ki a forrásmezőknek megfelelő címjegyzékmezőket. Kapcsolja ki azokat a mezőket, melyeket nem akar importálni.
 addr-book-directories-pane-title = Válassza ki az importálás célkönyvtárát:
 addr-book-directories-pane-source = Forrásfájl:
 addr-book-import-into-new-directory = Új könyvtár létrehozása
@@ -64,9 +65,20 @@ error-pane-title = Hiba
 error-message-zip-file-too-big = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
 error-message-extract-zip-file-failed = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
 error-message-failed = Az importálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
+error-export-failed = Az exportálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Az első sor mezőneveket tartalmaz
+csv-source-field = Forrásmező
+csv-source-first-record = Első rekord
+csv-source-second-record = Második rekord
+csv-target-field = Címjegyzékmező
 
 ## Export tab
 
+export-profile-desc = Postafiókok, e-mail üzenetek, címjegyzékek, beállítások ZIP-fájlba exportálása. Ha szükséges, importálhatja a ZIP-fájlt a profil helyreállításához.
+export-profile-desc2 = Ha a jelenlegi profilja nagyobb, mint 2 GB, javasoljuk, hogy saját kezűleg készítsen biztonsági másolatot.
+export-open-profile-folder = Profilmappa megnyitása
+export-file-picker = Exportálás ZIP-fájlba
+export-brand-name = { -brand-product-name }
