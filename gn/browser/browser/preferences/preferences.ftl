@@ -190,6 +190,7 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
 fonts-and-colors-header = Taity ha sa’ykuéra
+preferences-web-appearance-header = Mba’éicha ojehecha ñanduti renda
 preferences-web-appearance-choice-browser = { -brand-short-name } téma
 preferences-web-appearance-choice-system = Apopyvusu téma
 preferences-web-appearance-choice-light = Tesakã
