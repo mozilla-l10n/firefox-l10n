@@ -198,6 +198,7 @@ preferences-colors-header = Sa’y
 preferences-colors-manage-button =
     .label = Sa’ýre ñeñangareko…
     .accesskey = C
+preferences-fonts-header = Teñoiha
 default-font = Teñoiha ijypykuéva:
     .accesskey = D
 default-font-size = Tuichakue:
