@@ -175,6 +175,15 @@ containers-remove-cancel-button = 不要移除此容器
 
 language-and-appearance-header = 語言與外觀
 fonts-and-colors-header = 字型與色彩
+preferences-web-appearance-choice-browser = { -brand-short-name } 佈景主題
+preferences-web-appearance-choice-system = 系統佈景主題
+preferences-web-appearance-choice-light = 亮色
+preferences-web-appearance-choice-dark = 暗色
+preferences-colors-header = 色彩
+preferences-colors-manage-button =
+    .label = 管理色彩…
+    .accesskey = C
+preferences-fonts-header = 字型
 default-font = 預設字型
     .accesskey = D
 default-font-size = 大小
