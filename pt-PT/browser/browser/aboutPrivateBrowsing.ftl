@@ -30,6 +30,8 @@ about-private-browsing-hide-activity = Esconder a sua atividade e localização,
 about-private-browsing-get-privacy = Obtenha proteções de privacidade onde quer que navegue
 about-private-browsing-hide-activity-1 = Oculte a atividade de navegação e de localização com a { -mozilla-vpn-brand-name }. Com um clique cria uma ligação segura, mesmo em redes sem fios públicas.
 about-private-browsing-prominent-cta = Mantenha a privacidade com a { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Transferir o { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegação privada em qualquer lugar
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
