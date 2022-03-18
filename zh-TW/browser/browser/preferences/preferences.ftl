@@ -88,6 +88,15 @@ extension-controlled-websites-content-blocking-all-trackers = 擴充套件<img d
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = 擴充套件「<img data-l10n-name="icon"/>{ $name }」正在控制您的 { -brand-short-name } 連線至網際網路的方式。
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> 此設定受 <strong>{ $name }</strong> 控制。
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -175,6 +184,7 @@ containers-remove-cancel-button = 不要移除此容器
 
 language-and-appearance-header = 語言與外觀
 fonts-and-colors-header = 字型與色彩
+preferences-web-appearance-header = 網站外觀
 preferences-web-appearance-choice-browser = { -brand-short-name } 佈景主題
 preferences-web-appearance-choice-system = 系統佈景主題
 preferences-web-appearance-choice-light = 亮色
