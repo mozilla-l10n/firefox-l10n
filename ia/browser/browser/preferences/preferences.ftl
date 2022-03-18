@@ -210,7 +210,20 @@ preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Obscur
 preferences-web-appearance-choice-tooltip-browser =
     .title = Concorda tu parametros de thema de { -brand-short-name } pro le fundos e contento del sito web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Concorda tu parametros de systema pro fundos e contento del sito web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Usa un apparentia clar pro fundos e contento del sito web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Usa un apparentia obscur pro fundos e contento del sito web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gere le themas de { -brand-short-name } in <a data-l10n-name="themes-link">Extensiones e themas</a>
 preferences-colors-header = Colores
+preferences-colors-description = Supplanta le colores predefinite de { -brand-short-name } pro texto, fundos e ligamines de sito web.
 preferences-colors-manage-button =
     .label = Gerer colores…
     .accesskey = c
