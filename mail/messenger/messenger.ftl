@@ -234,7 +234,15 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Anpassa…
+spaces-customize-panel-title = Inställningar för flikmeny
 spaces-customize-background-color = Bakgrundsfärg
+spaces-customize-icon-color = Färg för knapp
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Vald bakgrundsfärg för knapp
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Vald knappfärg
 spaces-customize-button-restore = Återställ standard
     .accesskey = t
 spaces-customize-button-save = Klar
