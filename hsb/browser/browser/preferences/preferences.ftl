@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Rozšěrjenje, <im
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Rozšěrjenje <img data-l10n-name="icon"/> { $name } wodźi, kak { -brand-short-name } z internetom zwjazuje.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tute nastajenje wodźi.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tute nastajenje wodźi.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sej kontejnerowe rajtarki wužaduje.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> tute nastajenje wodźi.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> wodźi, kak { -brand-short-name } z internetom zwjazuje.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -193,6 +208,8 @@ containers-remove-cancel-button = Tutón kontejner njewotstronić
 
 language-and-appearance-header = Rěč a zwonkowne
 fonts-and-colors-header = Pisma a barby
+preferences-web-appearance-header = Napohlad websydła
+preferences-web-appearance-choice-browser = Drasta { -brand-short-name }
 default-font = Standardne pismo
     .accesskey = S
 default-font-size = Wulkosć
