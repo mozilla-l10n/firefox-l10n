@@ -65,6 +65,7 @@ error-pane-title = 錯誤
 error-message-zip-file-too-big = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
 error-message-extract-zip-file-failed = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
 error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
+error-export-failed = 發生未預期的匯出失敗，錯誤主控台中可能有更多資訊。
 
 ## <csv-field-map> element
 
@@ -76,6 +77,7 @@ csv-target-field = 通訊錄欄位
 
 ## Export tab
 
+export-profile-desc = 將郵件帳號、郵件內容、通訊錄、設定匯出為一包 ZIP 檔案。需要的時候可將該檔案重新匯入，來還原設定檔。
 export-open-profile-folder = 開啟設定檔目錄
 export-file-picker = 匯出成 zip 檔
 export-brand-name = { -brand-product-name }
