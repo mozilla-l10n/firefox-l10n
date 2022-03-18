@@ -25,3 +25,14 @@ calendar-invitation-datetime-date = { $dayOfWeek }, { $date }
 calendar-invitation-datetime-time = { $time } ({ $timezone })
 calendar-invitation-panel-prop-title-attendees = Wobdźělnicy:
 calendar-invitation-panel-prop-title-description = Wopisanje:
+# Variables:
+# $partStat (String) - String indicating the participation status of an attendee.
+calendar-invitation-panel-partstat-summary =
+    { $partStat ->
+        [ACCEPTED] { $count } haj
+        [DECLINED] { $count } ně{ $count }
+        [TENTATIVE] { $count } snano
+        [NEEDS-ACTION] { $count } wustejacych
+        [TOTAL] { $count } wobdźělnikow
+       *[OTHER] { $count } druhich
+    }
