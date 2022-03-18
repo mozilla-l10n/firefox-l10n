@@ -225,6 +225,33 @@ containers-remove-cancel-button = Non rimuovere questo contenitore
 
 language-and-appearance-header = Lingua e aspetto
 
+preferences-web-appearance-header = Aspetto dei siti web
+
+preferences-web-appearance-description = Alcuni siti web possono adattare il proprio schema di colori in base alle preferenze del visitatore. Scegli lo schema di colori da seguire per questi siti.
+
+preferences-web-appearance-choice-browser = Tema di { -brand-short-name }
+preferences-web-appearance-choice-system = Tema di sistema
+preferences-web-appearance-choice-light = Chiaro
+preferences-web-appearance-choice-dark = Scuro
+
+preferences-web-appearance-choice-tooltip-browser =
+  .title = Segui il tema di { -brand-short-name } per lo sfondo e i contenuti dei siti.
+preferences-web-appearance-choice-tooltip-system =
+  .title = Segui le impostazioni del sistema per lo sfondo e i contenuti dei siti.
+preferences-web-appearance-choice-tooltip-light =
+  .title = Preferisci una combinazione di colori chiara per lo sfondo e i contenuti dei siti.
+preferences-web-appearance-choice-tooltip-dark =
+  .title = Preferisci una combinazione di colori scura per lo sfondo e i contenuti dei siti.
+
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
+
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gestisci i temi di { -brand-short-name } in <a data-l10n-name="themes-link">Estensioni e temi</a>
+
+
 fonts-and-colors-header = Caratteri e colori
 
 preferences-colors-header = Colori
