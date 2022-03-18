@@ -94,6 +94,15 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> керує цим налаштуванням.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Для <img data-l10n-name="icon"/> <strong>{ $name }</strong> потрібні контейнери вкладок.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> керує цим налаштуванням.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> контролює, як { -brand-short-name } під'єднується до інтернету.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -196,9 +205,16 @@ containers-remove-cancel-button = Не вилучати цей контейне�
 
 language-and-appearance-header = Мова і зовнішній вигляд
 fonts-and-colors-header = Шрифти й кольори
+preferences-web-appearance-header = Зовнішній вигляд сайту
+preferences-web-appearance-description = Деякі вебсайти адаптують свою колірну схему відповідно до ваших уподобань. Виберіть, яку колірну схему ви хочете використовувати для цих сайтів.
+preferences-web-appearance-choice-browser = { -brand-short-name } тема
 preferences-web-appearance-choice-system = Системна тема
 preferences-web-appearance-choice-light = Світла
 preferences-web-appearance-choice-dark = Темна
+preferences-colors-header = Кольори
+preferences-colors-manage-button =
+    .label = Керувати кольорами…
+    .accesskey = к
 preferences-fonts-header = Шрифти
 default-font = Типовий шрифт
     .accesskey = ш
