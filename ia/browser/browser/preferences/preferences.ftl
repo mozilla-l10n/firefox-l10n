@@ -187,6 +187,12 @@ containers-remove-cancel-button = Non remover iste contentor
 
 language-and-appearance-header = Lingua e apparentia
 fonts-and-colors-header = Typos de litteras e colores
+preferences-web-appearance-choice-browser = Thema de { -brand-short-name }
+preferences-web-appearance-choice-system = Thema del systema
+preferences-web-appearance-choice-light = Clar
+preferences-web-appearance-choice-dark = Obscur
+preferences-colors-header = Colores
+preferences-fonts-header = Typos de characteres
 default-font = Typo de litteras predefinite
     .accesskey = D
 default-font-size = Dimension

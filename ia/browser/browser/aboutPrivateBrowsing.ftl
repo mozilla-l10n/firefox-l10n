@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Cela tu activitate e tu position, ubicunq
 about-private-browsing-get-privacy = Obtene protectiones de confidentialitate ubicunque tu naviga
 about-private-browsing-hide-activity-1 = Cela tu activate de navigation e tu position con { -mozilla-vpn-brand-name }. Un sol clic pro crear un connexion secur, mesmo sur wi-fi public.
 about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Discargar{ -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Clauder
 about-private-browsing-dismiss-button =
     .title = Dimitter
+about-private-browsing-promo-close-button =
+    .title = Clauder
