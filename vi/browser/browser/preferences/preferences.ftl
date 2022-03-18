@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Một tiện ích 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát cách { -brand-short-name } kết nối internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kiểm soát cài đặt này.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kiểm soát cài đặt này.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> yêu cầu ngăn chứa thẻ.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kiểm soát cài đặt này.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kiểm soát cách { -brand-short-name } kết nối với Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -175,6 +190,32 @@ containers-remove-cancel-button = Không xóa ngăn chứa này
 
 language-and-appearance-header = Ngôn ngữ và chủ đề
 fonts-and-colors-header = Phông & Màu sắc
+preferences-web-appearance-header = Diện mạo trang web
+preferences-web-appearance-description = Một số trang web điều chỉnh bảng màu của họ dựa trên sở thích của bạn. Chọn bảng màu mà bạn muốn sử dụng cho các trang web đó.
+preferences-web-appearance-choice-browser = Chủ đề { -brand-short-name }
+preferences-web-appearance-choice-system = Chủ đề hệ thống
+preferences-web-appearance-choice-light = Sáng
+preferences-web-appearance-choice-dark = Tối
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Khớp cài đặt chủ đề { -brand-short-name } của bạn cho nền và nội dung trang web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Phù hợp với cài đặt hệ thống của bạn cho hình nền và nội dung trang web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Sử dụng giao diện sáng cho hình nền và nội dung trang web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Sử dụng giao diện tối cho hình nền và nội dung trang web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web. <a data-l10n-name="colors-link">Quản lý màu</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Quản lý chủ đề { -brand-short-name } trong <a data-l10n-name="themes-link">Tiện ích mở rộng & chủ đề</a>
+preferences-colors-header = Màu
+preferences-colors-description = Ghi đè màu mặc định của { -brand-short-name } cho văn bản, nền trang web và liên kết.
+preferences-colors-manage-button =
+    .label = Quản lý màu…
+    .accesskey = C
+preferences-fonts-header = Phông chữ
 default-font = Phông mặc định
     .accesskey = D
 default-font-size = Kích thước

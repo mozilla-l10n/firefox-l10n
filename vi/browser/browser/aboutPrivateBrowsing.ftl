@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Ẩn hoạt động và vị trí của b
 about-private-browsing-get-privacy = Nhận các biện pháp bảo vệ quyền riêng tư ở mọi nơi bạn duyệt
 about-private-browsing-hide-activity-1 = Ẩn hoạt động duyệt web và vị trí với { -mozilla-vpn-brand-name }. Một cú nhấp chuột sẽ tạo ra một kết nối an toàn, ngay cả trên Wi-Fi công cộng.
 about-private-browsing-prominent-cta = Giữ riêng tư với { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Tải xuống { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Duyệt web riêng tư khi đang di chuyển
+about-private-browsing-focus-promo-text = Ứng dụng di động duyệt web riêng tư chuyên dụng của chúng tôi sẽ xóa lịch sử và cookie của bạn mọi lúc.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Đóng
 about-private-browsing-dismiss-button =
     .title = Bỏ qua
+about-private-browsing-promo-close-button =
+    .title = Đóng
