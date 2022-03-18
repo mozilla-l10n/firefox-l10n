@@ -10,12 +10,14 @@ import-from-app = Importar ab application
 import-from-app-desc = Seliger de importar contos, libros de adresses, agendas, e altere dato ab:
 import-address-book = Importar le file libro del adresses
 import-calendar = Importar file de agenda
+export-profile = Exportar
 
 ## Buttons
 
 button-cancel = Cancellar
 button-back = Retro
 button-continue = Continuar
+button-export = Exportar
 
 ## Import from app steps
 
@@ -31,7 +33,6 @@ profiles-pane-desc = Selige le position ab le qual importar.
 profile-file-picker-dir = Selige un plica del profilo
 profile-file-picker-zip = Selige un file zip (minor de 2GB)
 items-pane-title = Elige que importar
-items-pane-desc = Importar ab
 items-pane-source = Position del fonte:
 items-pane-checkbox-accounts = Contos e parametros
 items-pane-checkbox-address-books = Libros de adresses
@@ -53,9 +54,26 @@ addr-book-import-into-new-directory = Crear un nove directorio
 ## Import dialog
 
 progress-pane-title = Importation
+progress-pane-importing = Importation
+progress-pane-exporting = Exportation
 progress-pane-finished-desc = Finite.
 progress-pane-restart-desc = Reinitiar pro finir de importar.
 error-pane-title = Error
 error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
 error-message-extract-zip-file-failed = Impossibile extraher le file zip. In vice extrahe lo manualmente, pois importa lo ab le plica extrahite.
 error-message-failed = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
+error-export-failed = Le exportation falleva inspectatemente, altere informationes pote esser disponibile in le Consola de error.
+
+## <csv-field-map> element
+
+csv-first-row-contains-headers = Le prime rango contine le nomine de campos
+csv-source-field = Campo fonte
+csv-source-first-record = Prime registration
+csv-source-second-record = Secunde registration
+csv-target-field = Campo del libro de adresses
+
+## Export tab
+
+export-open-profile-folder = Aperir le plica del profilo
+export-file-picker = Exportar a un file zip
+export-brand-name = { -brand-product-name }

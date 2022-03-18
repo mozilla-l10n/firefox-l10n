@@ -221,3 +221,20 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Personalisar…
+spaces-customize-background-color = Color de fundo
+spaces-customize-icon-color = Color de button
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Color de fundo del button eligite
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Color del button eligite
+spaces-customize-button-restore = Restaurar le predefinitiones
+    .accesskey = R
+spaces-customize-button-save = Facite
+    .accesskey = F
