@@ -221,3 +221,21 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Ett oläst meddelande
+           *[other] { $count } olästa meddelanden
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Anpassa…
+spaces-customize-background-color = Bakgrundsfärg
+spaces-customize-button-restore = Återställ standard
+    .accesskey = t
+spaces-customize-button-save = Klar
+    .accesskey = K
