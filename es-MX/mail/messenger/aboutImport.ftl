@@ -77,3 +77,8 @@ csv-target-field = Campo de la libreta de direcciones
 
 ## Export tab
 
+export-profile-desc = Exporta cuentas de correo, mensajes de correo, libretas de direcciones, configuraciones a un archivo zip. Cuando sea necesario, puedes importar el archivo zip para restaurar tu perfil.
+export-profile-desc2 = Si tu perfil actual tiene más de 2GB, te sugerimos que hagas una copia de seguridad tu mismo.
+export-open-profile-folder = Abrir carpeta de perfil
+export-file-picker = Exportar a un archivo zip
+export-brand-name = { -brand-product-name }
