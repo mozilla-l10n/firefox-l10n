@@ -88,6 +88,12 @@ extension-controlled-websites-content-blocking-all-trackers = Le extension <img 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Un extension, <img data-l10n-name="icon"/> { $name }, controla como { -brand-short-name } se connecte a internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla iste parametros.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = Le <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla iste parametros.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -193,6 +199,9 @@ preferences-web-appearance-choice-system = Thema del systema
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Obscur
 preferences-colors-header = Colores
+preferences-colors-manage-button =
+    .label = Gerer colores…
+    .accesskey = c
 preferences-fonts-header = Typos de characteres
 default-font = Typo de litteras predefinite
     .accesskey = D

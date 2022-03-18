@@ -31,6 +31,8 @@ about-private-browsing-get-privacy = Obtene protectiones de confidentialitate ub
 about-private-browsing-hide-activity-1 = Cela tu activate de navigation e tu position con { -mozilla-vpn-brand-name }. Un sol clic pro crear un connexion secur, mesmo sur wi-fi public.
 about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Discargar{ -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: navigation anonyme al volo
+about-private-browsing-focus-promo-text = Nostre app mobile devote al navigation anonyme, clara tu chronologia e cookies cata vice.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
