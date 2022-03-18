@@ -211,7 +211,18 @@ preferences-web-appearance-choice-browser = { -brand-short-name } тема
 preferences-web-appearance-choice-system = Системна тема
 preferences-web-appearance-choice-light = Світла
 preferences-web-appearance-choice-dark = Темна
+preferences-web-appearance-choice-tooltip-light =
+    .title = Використовувати світлий вигляд для тла та вмісту вебсайту.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Використовувати темний вигляд для тла та вмісту вебсайту.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Вибрані кольори мають перевагу над зовнішнім виглядом вебсайту. <a data-l10n-name="colors-link">Керувати кольорами</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Керуйте темами { -brand-short-name } у розділі <a data-l10n-name="themes-link">Розширення й теми</a>
 preferences-colors-header = Кольори
+preferences-colors-description = Замінити усталені кольори { -brand-short-name } для тексту, тла вебсайту та посилань.
 preferences-colors-manage-button =
     .label = Керувати кольорами…
     .accesskey = к
