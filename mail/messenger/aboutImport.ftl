@@ -49,6 +49,7 @@ addr-book-sqlite-file = Файл бази даних SQLite (.sqlite)
 addr-book-mab-file = Файл бази даних Mork (.mab)
 addr-book-file-picker = Виберіть файл адресної книги
 addr-book-csv-field-map-title = Збіг назв полів
+addr-book-csv-field-map-desc = Виберіть поля адресної книги, що відповідають полям джерела. Приберіть прапорці з полів, які не потрібно імпортувати.
 addr-book-directories-pane-title = Виберіть каталог, до якого потрібно імпортувати:
 addr-book-directories-pane-source = Джерельний файл:
 addr-book-import-into-new-directory = Створити новий каталог
@@ -64,6 +65,7 @@ error-pane-title = Помилка
 error-message-zip-file-too-big = Вибраний zip-файл більший ніж 2 ГБ. Спочатку видобудьте його, а потім імпортуйте з видобутої теки.
 error-message-extract-zip-file-failed = Не вдалося видобути zip-файл. Видобудьте його вручну, а потім імпортуйте з видобутої теки.
 error-message-failed = Не вдалося імпортувати, можливо, більше даних буде доступно у Консолі помилок.
+error-export-failed = Не вдалося експортувати, можливо, більше даних буде доступно в Консолі помилок.
 
 ## <csv-field-map> element
 
@@ -75,6 +77,8 @@ csv-target-field = Поле адресної книги
 
 ## Export tab
 
+export-profile-desc = Експорт поштових облікових записів, поштових повідомлень, адресних книг, налаштувань до zip-файлу. За потреби ви можете імпортувати zip-файл, щоб відновити свій профіль.
+export-profile-desc2 = Якщо ваш поточний профіль понад 2 ГБ, ми радимо вам створити його самостійно.
 export-open-profile-folder = Відкрити теку профілю
 export-file-picker = Експорт у zip-файл
 export-brand-name = { -brand-product-name }
