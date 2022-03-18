@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = 隨處上網，隱藏行為活動與位�
 about-private-browsing-get-privacy = 隨時隨地上網都獲得隱私保護
 about-private-browsing-hide-activity-1 = 使用 { -mozilla-vpn-brand-name } 隱藏上網紀錄與位置資訊。就算使用公用 Wi-Fi，只要輕鬆一點即可建立安全連線。
 about-private-browsing-prominent-cta = 使用 { -mozilla-vpn-brand-name } 保持隱私
+about-private-browsing-focus-promo-cta = 下載 { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = 關閉
 about-private-browsing-dismiss-button =
     .title = 知道了！
+about-private-browsing-promo-close-button =
+    .title = 關閉
