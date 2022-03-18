@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Dölj din aktivitet och plats, var du än
 about-private-browsing-get-privacy = Få integritetsskydd överallt där du surfar
 about-private-browsing-hide-activity-1 = Dölj surfaktivitet och plats med { -mozilla-vpn-brand-name }. Ett klick skapar en säker anslutning, även på offentligt Wi-Fi.
 about-private-browsing-prominent-cta = Håll dig privat med { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Hämta { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat surfning när du är på språng
+about-private-browsing-focus-promo-text = Vår dedikerade mobilapp för privat surfning rensar din historik och kakor varje gång.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Stäng
 about-private-browsing-dismiss-button =
     .title = Ignorera
+about-private-browsing-promo-close-button =
+    .title = Stäng
