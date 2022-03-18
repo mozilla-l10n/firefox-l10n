@@ -247,8 +247,21 @@ encrypted-bcc-ignore-button = Entendido
 compose-tool-button-remove-text-styling =
     .tooltiptext = Eliminar estilo de texto
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Subido a una cuenta de Filelink desconocida.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = Adjunto de Filelink - { $filename }
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = El archivo { $filename } se adjuntó como Filelink. Se puede descargar desde el siguiente enlace.
 
 # Template
 
@@ -275,13 +288,13 @@ cloud-file-service-provider-footer-multiple = Saber más sobre { $firstLinks } y
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Enlace protegido por contraseña
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Servicio CloudFile:
+cloud-file-template-service-name = Servicio de Filelink:
 cloud-file-template-size = Tamaño:
 cloud-file-template-link = Enlace:
 cloud-file-template-password-protected-link = Enlace protegido por contraseña:
@@ -305,3 +318,9 @@ cloud-file-rename-error = Hubo un problema al cambiar el nombre de { $filename }
 cloud-file-rename-error-with-custom-message-title = No se pudo renombrar { $filename } en { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } no admite el cambio de nombre de archivos ya cargados.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Error del adjunto de Filelink
+cloud-file-attachment-error = No se pudo actualizar el archivo adjunto de Filelink { $filename }, porque tu archivo local se movió o eliminó.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Error en la cuenta de Filelink
+cloud-file-account-error = No se pudo actualizar el archivo adjunto de Filelink { $filename }, porque se ha eliminado tu cuenta de Filelink.
