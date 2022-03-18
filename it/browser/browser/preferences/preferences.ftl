@@ -227,6 +227,16 @@ language-and-appearance-header = Lingua e aspetto
 
 fonts-and-colors-header = Caratteri e colori
 
+preferences-colors-header = Colori
+
+preferences-colors-description = Sostituisci i colori predefiniti di { -brand-short-name } per testo, sfondo dei siti e link.
+
+preferences-colors-manage-button =
+    .label = Gestisci colori…
+    .accesskey = r
+
+preferences-fonts-header = Caratteri
+
 default-font = Carattere predefinito
     .accesskey = C
 default-font-size = Dimensioni
