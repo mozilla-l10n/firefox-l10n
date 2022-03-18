@@ -31,6 +31,7 @@ about-private-browsing-get-privacy = 탐색하는 모든 곳에서 개인 정보
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name }으로 탐색 활동 및 위치를 숨기세요. 한 번의 클릭으로 공용 Wi-Fi에서도 보안 연결이 생성됩니다.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name }으로 사생활 보호 유지
 about-private-browsing-focus-promo-cta = { -focus-brand-name } 다운로드
+about-private-browsing-focus-promo-header = { -focus-brand-name }: 열일하는 사생활 보호 모드
 about-private-browsing-focus-promo-text = 전용 사생활 보호 모드 모바일 앱은 매번 기록과 쿠키를 지웁니다.
 # This string is the title for the banner for search engine selection
 # in a private window.
