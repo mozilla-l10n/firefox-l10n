@@ -45,6 +45,7 @@ import-from-addr-book-file-desc = 請選擇您要匯入的檔案類型:
 addr-book-csv-file = 逗點或 Tab 分隔文件（.csv、.tsv）
 addr-book-ldif-file = LDIF 檔案（.ldif）
 addr-book-vcard-file = vCard 檔案（.vcf、.vcard）
+addr-book-sqlite-file = SQLite 資料庫檔案（.sqlite）
 addr-book-mab-file = Mork 資料庫檔案（.mab）
 addr-book-file-picker = 選擇通訊錄檔案
 addr-book-directories-pane-title = 請選擇您要匯入的資料夾:
