@@ -247,6 +247,9 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Μεταφορτώθηκε σε άγνωστο λογαριασμό FileLink.
 
 # Placeholder file
 

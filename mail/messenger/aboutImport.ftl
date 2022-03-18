@@ -64,15 +64,19 @@ error-pane-title = Σφάλμα
 error-message-zip-file-too-big = Το επιλεγμένο αρχείο zip είναι μεγαλύτερο από 2 GB. Παρακαλώ εξαγάγετέ το πρώτα και έπειτα, κάντε εισαγωγή από τον φάκελο εξαγωγής.
 error-message-extract-zip-file-failed = Αποτυχία εξαγωγής του αρχείου zip. Εξαγάγετέ το με μη αυτόματο τρόπο και στη συνέχεια πραγματοποιήστε εισαγωγή από τον φάκελο εξαγωγής.
 error-message-failed = Η εισαγωγή απέτυχε απροσδόκητα, περισσότερες πληροφορίες ενδέχεται να είναι διαθέσιμες στην Κονσόλα Σφαλμάτων.
+error-export-failed = Απρόσμενη αποτυχία εξαγωγής, περισσότερες πληροφορίες θα βρείτε στην κονσόλα σφαλμάτων.
 
 ## <csv-field-map> element
 
 csv-first-row-contains-headers = Η πρώτη σειρά περιέχει ονόματα πεδίων
 csv-source-field = Πεδίο πηγής
+csv-source-first-record = Πρώτη καταχώρηση
+csv-source-second-record = Δεύτερη καταχώρηση
 csv-target-field = Πεδίο ευρετηρίου διευθύνσεων
 
 ## Export tab
 
+export-profile-desc2 = Εάν το τρέχον προφίλ σας είναι μεγαλύτερο από 2 GB, προτείνουμε να δημιουργήσετε χειροκίνητα αντίγραφα ασφαλείας.
 export-open-profile-folder = Άνοιγμα φακέλου προφίλ
 export-file-picker = Εξαγωγή σε αρχείο zip
 export-brand-name = { -brand-product-name }
