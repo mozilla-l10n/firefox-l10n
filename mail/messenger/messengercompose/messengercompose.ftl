@@ -265,8 +265,17 @@ encrypted-bcc-ignore-button = Sym zrozumił
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstowy stil wotstronić
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Je so do njeznateho konta Filelink nahrało.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - přiwěšk Filelink
 
 # Template
 
@@ -295,13 +304,13 @@ cloud-file-service-provider-footer-multiple = Dalše informacije wo { $firstLink
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Přez hesło škitany wotkaz
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Słužba CloudFile:
+cloud-file-template-service-name = Słužba Filelink:
 cloud-file-template-size = Wulkosć:
 cloud-file-template-link = Wotkaz
 cloud-file-template-password-protected-link = Přez hesło škitany wotkaz:
@@ -325,3 +334,7 @@ cloud-file-rename-error = Při přemjenowanju { $filename } na { $provider } je 
 cloud-file-rename-error-with-custom-message-title = Přemjenowanje { $filename }  na { $provider } njeje so poradźiło
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } přemjenowanje hižo nahratych datajow njepodpěruje.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Přiwěškowy zmylk Filelink
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Kontowy zmylk Filelink
