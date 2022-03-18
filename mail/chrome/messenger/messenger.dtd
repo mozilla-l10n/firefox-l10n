@@ -515,7 +515,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Nhận tin nhắn">
+<!ENTITY getMsgButton1.label "Nhận thư">
 <!ENTITY newMsgButton.label "Viết thư">
 <!ENTITY replyButton.label "Trả lời">
 <!ENTITY replyAllButton.label "Trả lời tất cả">
