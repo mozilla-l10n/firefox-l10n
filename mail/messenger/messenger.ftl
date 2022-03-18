@@ -240,3 +240,16 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Přiměrić…
+spaces-customize-panel-title = Nastajenja lajsty dźělnych programow
+spaces-customize-background-color = Pozadkowa barba
+spaces-customize-icon-color = Tłóčatkowa barba
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Pozadkowa barba wubraneho tłóčatka
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Barba wubraneho tłóčatka
+spaces-customize-button-restore = Standard wobnowić
+    .accesskey = b
+spaces-customize-button-save = Dokónčeny
+    .accesskey = D
