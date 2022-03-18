@@ -268,6 +268,10 @@ cloud-file-unknown-account-tooltip = Вивантажено в невідоми�
 # Title for the html placeholder file.
 # $filename - name of the file
 cloud-file-placeholder-title = { $filename } – вкладення Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Файл { $filename } був вкладений як Filelink. Його можна завантажити за посиланням внизу.
 
 # Template
 
@@ -327,5 +331,7 @@ cloud-file-rename-error-with-custom-message-title = Не вдалося пере
 cloud-file-rename-not-supported = { $provider } не підтримує перейменування вже вивантажених файлів.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Помилка вкладення Filelink
+cloud-file-attachment-error = Не вдалося оновити вкладення Filelink { $filename }, оскільки його локальний файл було переміщено або видалено.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Помилка облікового запису Filelink
+cloud-file-account-error = Не вдалося оновити вкладення Filelink { $filename }, оскільки його обліковий запис Filelink було видалено.
