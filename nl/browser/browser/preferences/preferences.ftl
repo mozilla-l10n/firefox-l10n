@@ -187,6 +187,10 @@ containers-remove-cancel-button = Deze container niet verwijderen
 
 language-and-appearance-header = Taal en Vormgeving
 fonts-and-colors-header = Lettertypen en kleuren
+preferences-web-appearance-choice-system = Systeemthema
+preferences-web-appearance-choice-light = Licht
+preferences-web-appearance-choice-dark = Donker
+preferences-fonts-header = Lettertypen
 default-font = Standaardlettertype
     .accesskey = S
 default-font-size = Grootte
