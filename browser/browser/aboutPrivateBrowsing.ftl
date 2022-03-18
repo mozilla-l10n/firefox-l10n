@@ -31,6 +31,8 @@ about-private-browsing-get-privacy = 隨時隨地上網都獲得隱私保護
 about-private-browsing-hide-activity-1 = 使用 { -mozilla-vpn-brand-name } 隱藏上網紀錄與位置資訊。就算使用公用 Wi-Fi，只要輕鬆一點即可建立安全連線。
 about-private-browsing-prominent-cta = 使用 { -mozilla-vpn-brand-name } 保持隱私
 about-private-browsing-focus-promo-cta = 下載 { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: 隨身上網隱私都有保護
+about-private-browsing-focus-promo-text = 我們的隱私瀏覽專用 App 可在每次瀏覽結束時都清除您的上網紀錄與 Cookie。
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
