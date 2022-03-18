@@ -308,6 +308,7 @@ mr2-onboarding-start-browsing-button-label = გვერდების მო�
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = აირჩიეთ თქვენი ენა
+onboarding-live-language-subtitle = { -brand-short-name } წარმოდგენილია { $appLanguage } ენით, მაშინ როცა სისტემაში მითითებულია { $systemLanguage }.
 onboarding-live-language-switch-button-label = ჩაენაცვლოს { $negotiatedLanguage }
 onboarding-live-language-button-label-downloading = ჩამოიტვირთება ენის კრებულად { $negotiatedLanguage }…
 onboarding-live-language-waiting-subtitle = როგორც ჩანს, თქვენი სისტემა და { -brand-short-name } განსხვავებულ ენებზეა.

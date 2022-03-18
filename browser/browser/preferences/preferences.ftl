@@ -75,19 +75,34 @@ restart-later = მოგვიანებით გაშვება
 
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = გაფართოება <img data-l10n-name="icon"/> { $name } მართავს ამ პარამეტრებს.
+extension-controlled-password-saving = გაფართოება <img data-l10n-name="icon"/> { $name } განსაზღვრავს ამ პარამეტრს.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = გაფართოება <img data-l10n-name="icon"/>{ $name } საზღვრავს ამ პარამეტრს.
+extension-controlled-web-notifications = გაფართოება <img data-l10n-name="icon"/> { $name } განსაზღვრავს ამ პარამეტრს.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } გაფართოება საჭიროებს სათავს ჩანართებს.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = გაფართოება <img data-l10n-name="icon"/> { $name } მართავს ამ პარამეტრებს.
+extension-controlled-websites-content-blocking-all-trackers = გაფართოება <img data-l10n-name="icon"/> { $name } განსაზღვრავს ამ პარამეტრს.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = პარამეტრებს, რომლითც { -brand-short-name } უკავშირდება ინტერნეტს, განსაზღვრავს <img data-l10n-name="icon"/> { $name } გაფართოება.
+extension-controlled-proxy-config = გაფართოება <img data-l10n-name="icon"/> { $name } განსაზღვრავს, თუ როგორ უკავშირდება { -brand-short-name } ინტერნეტს.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> განსაზღვრავს ამ პარამეტრს.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> განსაზღვრავს ამ პარამეტრს.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> საჭიროებს სათავს ჩანართებს.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> განსაზღვრავს ამ პარამეტრს.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> განსაზღვრავს, თუ როგორ უკავშირდება { -brand-short-name } ინტერნეტს.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,7 @@ containers-remove-cancel-button = სათავსის დატოვებ
 
 language-and-appearance-header = ენა და იერსახე
 fonts-and-colors-header = შრიფტები და ფერები
+preferences-web-appearance-header = საიტის იერსახე
 default-font = შრიფტის შერჩევა
     .accesskey = შ
 default-font-size = ზომა
