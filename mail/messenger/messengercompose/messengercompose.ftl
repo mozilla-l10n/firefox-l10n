@@ -276,6 +276,10 @@ cloud-file-unknown-account-tooltip = Je so do njeznateho konta Filelink nahrało
 # Title for the html placeholder file.
 # $filename - name of the file
 cloud-file-placeholder-title = { $filename } - přiwěšk Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Dataja { $filename } je so jako Filelink připowěsnyła. Da so z pomocu slědowaceho wotkaza sćahnyć.
 
 # Template
 
@@ -336,5 +340,7 @@ cloud-file-rename-error-with-custom-message-title = Přemjenowanje { $filename }
 cloud-file-rename-not-supported = { $provider } přemjenowanje hižo nahratych datajow njepodpěruje.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Přiwěškowy zmylk Filelink
+cloud-file-attachment-error = Přiwěšk { $filename } Filelink njeda so aktualizować, dokelž jeho lokalna dataja je so přesunyła abo zhašała.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Kontowy zmylk Filelink
+cloud-file-account-error = Přiwěšk { $filename } Filelink njeda so aktualizować, dokelž jeho lokalna dataja je so zhašała.
