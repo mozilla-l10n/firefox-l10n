@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Una extensión, <i
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando como { -brand-short-name } se conecta a internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla este ajuste.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla este ajuste.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> requiere contenedor de pestañas.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla este ajuste.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla copmo { -brand-short-name } se conecta a internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,8 @@ containers-remove-cancel-button = No eliminar este marcador
 
 language-and-appearance-header = Idioma y apariencia
 fonts-and-colors-header = Tipografías y colores
+preferences-web-appearance-header = Apariencia del sitio web
+preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
 default-font = Fuente predeterminada
     .accesskey = D
 default-font-size = Tamaño
