@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Rejtse el tevékenységét és tartózkod
 about-private-browsing-get-privacy = Szerezzen adatvédelmet, bárhol is böngésszen
 about-private-browsing-hide-activity-1 = Rejtse el a böngészési tevékenységét és a tartózkodási helyét a { -mozilla-vpn-brand-name } használatával. Egy kattintással biztonságos kapcsolatot hozhat létre, még nyilvános Wi-Fin is.
 about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-name } használatával
+about-private-browsing-focus-promo-cta = A { -focus-brand-name } letöltése
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Privát böngészés útközben
+about-private-browsing-focus-promo-text = A dedikált privát mobilböngésző alkalmazásunk minden alkalommal törli az előzményeket és a sütiket.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Bezárás
 about-private-browsing-dismiss-button =
     .title = Eltüntetés
+about-private-browsing-promo-close-button =
+    .title = Bezárás

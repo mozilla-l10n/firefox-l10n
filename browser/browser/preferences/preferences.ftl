@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Egy kiegészítő,
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = A(z) <img data-l10n-name="icon"/> { $name } kiegészítő vezérli, hogy a { -brand-short-name } hogy kapcsolódik az internethez
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> vezérli ezt a beállítást.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> vezérli ezt a beállítást.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> kiegészítőhöz szükségesek a konténerlapok.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> vezérli ezt a beállítást.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = A(z) <img data-l10n-name ="icon"/> <strong>{ $name }</strong> vezérli, hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,18 @@ containers-remove-cancel-button = Ne távolítsa el a konténert
 
 language-and-appearance-header = Nyelv és megjelenés
 fonts-and-colors-header = Betűk és színek
+preferences-web-appearance-header = Weboldal megjelenése
+preferences-web-appearance-description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
+preferences-web-appearance-choice-browser = A { -brand-short-name } témája
+preferences-web-appearance-choice-system = Rendszertéma
+preferences-web-appearance-choice-light = Világos
+preferences-web-appearance-choice-dark = Sötét
+preferences-web-appearance-choice-tooltip-browser =
+    .title = A { -brand-short-name } témabeállításainak a webhely hátteréhez és tartalmához igazítása.
+preferences-web-appearance-choice-tooltip-system =
+    .title = A rendszerbeállítások a webhely hátteréhez és tartalmához igazítása.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Világos megjelenés használata a webhelyek hátteréhez és tartalmához.
 default-font = Alapértelmezett betűkészlet
     .accesskey = A
 default-font-size = Méret
