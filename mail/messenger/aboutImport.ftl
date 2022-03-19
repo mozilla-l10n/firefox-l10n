@@ -70,3 +70,7 @@ error-export-failed = 导入意外失败，错误控制台中可能提供更多�
 
 ## Export tab
 
+export-profile-desc2 = 若您当前的配置文件超过 2GB，建议您手动备份。
+export-open-profile-folder = 打开配置文件夹
+export-file-picker = 导出为 zip 文件
+export-brand-name = { -brand-product-name }
