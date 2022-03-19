@@ -6,5 +6,6 @@
 <!ENTITY converterDialog.continueButton "להמשיך">
 <!ENTITY converterDialog.cancelButton "ביטול">
 <!ENTITY converterDialog.finishButton "סיום">
+<!ENTITY converterDialog.complete "ההמרה הושלמה. &brandShortName; יופעל מחדש.">
 <!ENTITY converterDialog.error "ההמרה נכשלה.">
 
