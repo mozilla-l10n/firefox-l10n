@@ -195,6 +195,7 @@ preferences-colors-header = Fargar
 preferences-colors-manage-button =
     .label = Handsam fargar…
     .accesskey = H
+preferences-fonts-header = Skrifttypar
 default-font = Standardskrift
     .accesskey = t
 default-font-size = Storleik

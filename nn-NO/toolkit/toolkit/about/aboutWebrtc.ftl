@@ -185,6 +185,14 @@ about-webrtc-aec-logging-off-state-msg = opptekne loggfiler finn ein i: { $path 
 
 ##
 
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } kanal
+       *[other] { $channels } kanalar
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
