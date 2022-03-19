@@ -90,10 +90,19 @@ extension-controlled-websites-content-blocking-all-trackers = 扩展 <img data-l
 extension-controlled-proxy-config = 扩展 <img data-l10n-name="icon"/> { $name } 正在控制 { -brand-short-name } 如何连接互联网。
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlling-password-saving = <img data-l10n-name="icon"/> 此设置受 <strong>{ $name }</strong> 控制。
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 控制此设置。
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlling-web-notifications = <img data-l10n-name="icon"/> 此设置受 <strong>{ $name }</strong> 控制。
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 控制此设置。
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 需启用身份标签页功能。
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> 控制此设置。
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/>{ $name } 会控制 { -brand-short-name } 如何连接互联网。
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -194,6 +203,10 @@ preferences-web-appearance-choice-browser = { -brand-short-name } 主题
 preferences-web-appearance-choice-system = 系统主题
 preferences-web-appearance-choice-light = 浅色
 preferences-web-appearance-choice-dark = 深色
+preferences-web-appearance-choice-tooltip-light =
+    .title = 在网站背景和内容使用浅色外观。
+preferences-web-appearance-choice-tooltip-dark =
+    .title = 在网站背景和内容使用深色外观。
 preferences-colors-header = 颜色
 preferences-colors-description = 覆盖 { -brand-short-name } 的默认文本、网站背景、链接颜色。
 preferences-colors-manage-button =
