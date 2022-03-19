@@ -243,6 +243,18 @@ preferences-web-appearance-choice-tooltip-light =
 preferences-web-appearance-choice-tooltip-dark =
   .title = Preferisci una combinazione di colori scura per lo sfondo e i contenuti dei siti.
 
+preferences-web-appearance-choice-input-browser =
+  .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+
+preferences-web-appearance-choice-input-system =
+  .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+
+preferences-web-appearance-choice-input-light =
+  .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+
+preferences-web-appearance-choice-input-dark =
+  .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
