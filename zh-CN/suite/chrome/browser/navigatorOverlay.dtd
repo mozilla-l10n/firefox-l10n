@@ -15,7 +15,6 @@
 
 <!ENTITY closeOtherTabs.label "关闭其他标签页">
 <!ENTITY closeOtherTabs.accesskey "T">
-
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -89,7 +88,7 @@ left instead of right. -->
 <!ENTITY addCurPageAsCmd.label "加为书签文件…">
 <!ENTITY addCurPageAsCmd.accesskey "F">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "将此标签组加为书签…">
+<!ENTITY addCurTabsAsCmd.label "将此标签页组加入书签…">
 <!ENTITY addCurTabsAsCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.label "管理书签">
 <!ENTITY manBookmarksCmd.accesskey "M">
