@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Gøym aktiviteten og plasseringa di, same
 about-private-browsing-get-privacy = Få ivaretaking av personvernet overalt der du surfar
 about-private-browsing-hide-activity-1 = Gøym nettlesaraktivitet og plasseringa di med { -mozilla-vpn-brand-name }. Eitt klikk skapar ei trygg tilkopling, sjølv på offentleg Wi-Fi.
 about-private-browsing-prominent-cta = Hald deg privat med { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
