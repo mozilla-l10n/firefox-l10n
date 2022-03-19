@@ -187,6 +187,14 @@ containers-remove-cancel-button = Ikkje fjern denne behaldaren
 
 language-and-appearance-header = Språk og utsjånad
 fonts-and-colors-header = Skrifttypar og fargar
+preferences-web-appearance-choice-browser = { -brand-short-name }-tema
+preferences-web-appearance-choice-system = Systemtema
+preferences-web-appearance-choice-light = Lyst
+preferences-web-appearance-choice-dark = Mørkt
+preferences-colors-header = Fargar
+preferences-colors-manage-button =
+    .label = Handsam fargar…
+    .accesskey = H
 default-font = Standardskrift
     .accesskey = t
 default-font-size = Storleik
