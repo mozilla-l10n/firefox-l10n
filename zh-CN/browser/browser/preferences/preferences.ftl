@@ -88,6 +88,12 @@ extension-controlled-websites-content-blocking-all-trackers = 扩展 <img data-l
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = 扩展 <img data-l10n-name="icon"/> { $name } 正在控制 { -brand-short-name } 如何连接互联网。
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> 此设置受 <strong>{ $name }</strong> 控制。
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> 此设置受 <strong>{ $name }</strong> 控制。
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -183,6 +189,17 @@ containers-remove-cancel-button = 不移除此身份
 
 language-and-appearance-header = 语言与外观
 fonts-and-colors-header = 字体和颜色
+preferences-web-appearance-header = 网站外观
+preferences-web-appearance-choice-browser = { -brand-short-name } 主题
+preferences-web-appearance-choice-system = 系统主题
+preferences-web-appearance-choice-light = 浅色
+preferences-web-appearance-choice-dark = 深色
+preferences-colors-header = 颜色
+preferences-colors-description = 覆盖 { -brand-short-name } 的默认文本、网站背景、链接颜色。
+preferences-colors-manage-button =
+    .label = 管理颜色…
+    .accesskey = C
+preferences-fonts-header = 字体
 default-font = 默认字体
     .accesskey = D
 default-font-size = 字号
