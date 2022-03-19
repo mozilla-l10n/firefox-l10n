@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = 隐藏您的浏览活动和位置
 about-private-browsing-get-privacy = 获得全场景隐私保护
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } 可隐藏您的浏览活动和位置。即使在公共 Wi-Fi 下，也可一键建立安全连接。
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } 可提供隐私保护
+about-private-browsing-focus-promo-cta = 下载 { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = 关闭
 about-private-browsing-dismiss-button =
     .title = 知道了
+about-private-browsing-promo-close-button =
+    .title = 关闭
