@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 privatebrowsingpage-open-private-window-label = Abrir una ventana privada
-    .accesskey = P
+    .accesskey = p
 about-private-browsing-search-placeholder = Buscar en la web
 about-private-browsing-info-title = Está en una ventana privada
 about-private-browsing-info-myths = Mitos comunes sobre la navegación privada
@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Ocultar la actividad y ubicación, en cua
 about-private-browsing-get-privacy = Obtenga protecciones de privacidad dondequiera que navegue
 about-private-browsing-hide-activity-1 = Oculte la actividad de navegación y la ubicación con { -mozilla-vpn-brand-name }. Un clic crea una conexión segura, incluso en Wi-Fi público.
 about-private-browsing-prominent-cta = Manténgase privado con { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Descargar { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegación privada sobre la marcha
+about-private-browsing-focus-promo-text = Nuestra aplicación móvil dedicada de navegación privada borra historial y cookies cada vez.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Cerrar
 about-private-browsing-dismiss-button =
     .title = Descartar
+about-private-browsing-promo-close-button =
+    .title = Cerrar
