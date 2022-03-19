@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "新建">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "新建消息">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "通讯录联系人…">
 <!ENTITY newContact.accesskey "C">
