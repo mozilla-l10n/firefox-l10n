@@ -8,6 +8,7 @@
 more-from-moz-title = עוד מ־{ -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = עוד מ־{ -vendor-short-name }
+more-from-moz-subtitle = עיינו במוצרים אחרים של { -vendor-short-name } שפועלים לתמיכה באינטרנט בריא.
 more-from-moz-firefox-mobile-title = ‏{ -brand-product-name } לניידים
 more-from-moz-firefox-mobile-description = הדפדפן לטלפונים ניידים ששם את הפרטיות שלך בחזית.
 more-from-moz-firefox-mobile-description-advanced = מחסימת רכיבי מעקב ועד להפעלת הבלמים על מטרדי הפעלה אוטומטית של סרטונים, דפדפני ה־{ -brand-product-name } למכשירים הניידים עובדים שעות נוספות כדי לוודא שניתן יהיה להנות מהאינטרנט הטוב.
@@ -17,14 +18,9 @@ more-from-moz-mozilla-vpn-description-advanced = ‏{ -mozilla-vpn-brand-name } 
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-button-mozilla-rally =
-    .label = הצטרפות ל־{ -rally-short-name }
-# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = הצטרפות ל־{ -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = ניתן להוריד באמצעות המכשיר הנייד שלך. פשוט מכוונים את המצלמה לקוד ה־QR, וכשיופיע קישור יש ללחוץ עליו.
 more-from-moz-qr-code-box-firefox-mobile-button = שליחת הודעת דוא״ל לטלפון שלך במקום
-more-from-moz-button-mozilla-vpn =
-    .label = קבלת VPN
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = קוד QR להורדת { -brand-product-name } לנייד
 more-from-moz-button-mozilla-vpn-2 = קבלת VPN

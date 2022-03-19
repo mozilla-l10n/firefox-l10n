@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = ההרחבה <img 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת באופן החיבור של { -brand-short-name } לאינטרנט.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>‏{ $name }</strong> שולטת בהגדרה זו.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>‏{ $name }</strong> שולטת בהגדרה זו.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>‏{ $name }</strong> דורשת שימוש במגירת לשוניות.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>‏{ $name }</strong> שולטת בהגדרה זו.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>‏{ $name }</strong> שולטת באופן החיבור של { -brand-short-name } לאינטרנט.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,25 @@ containers-remove-cancel-button = לא להסיר מגירה זו
 
 language-and-appearance-header = שפה ותצוגה
 fonts-and-colors-header = גופנים וצבעים
+preferences-web-appearance-header = מראה האתר
+preferences-web-appearance-description = חלק מהאתרים מתאימים את ערכת הצבעים שלהם בהתאם להעדפות שלך. ניתן לבחור באיזו ערכת צבעים תרצה להשתמש עבור אתרים אלה.
+preferences-web-appearance-choice-browser = ערכת הנושא של { -brand-short-name }
+preferences-web-appearance-choice-system = ערכת הנושא של המערכת
+preferences-web-appearance-choice-light = בהיר
+preferences-web-appearance-choice-dark = כהה
+preferences-web-appearance-choice-tooltip-browser =
+    .title = התאמת הגדרות ערכת הנושא של { -brand-short-name } עבור רקעים ותכנים של אתרים.
+preferences-web-appearance-choice-tooltip-system =
+    .title = התאמת הגדרות המערכת שלך עבור רקעים ותכנים אחרים של אתרים.
+preferences-web-appearance-choice-tooltip-light =
+    .title = שימוש במראה בהיר עבור רקעים ותכנים של אתרים.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = שימוש במראה כהה עבור רקעים ותכנים של אתרים.
+preferences-colors-header = צבעים
+preferences-colors-manage-button =
+    .label = ניהול צבעים…
+    .accesskey = צ
+preferences-fonts-header = גופנים
 default-font = גופן ברירת מחדל
     .accesskey = ב
 default-font-size = גודל
