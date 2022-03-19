@@ -222,3 +222,29 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Ein ólesin skilaboð
+           *[other] { $count } ólesin skilaboð
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Sérsníða…
+spaces-customize-panel-title = Stillingar Svæða-verkfæraslár
+spaces-customize-background-color = Bakgrunnslitur
+spaces-customize-icon-color = Litur á hnapp
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Valinn bakgrunnslitur fyrir hnapp
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Valinn litur á hnapp
+spaces-customize-button-restore = Endurstilla sjálfgefin gildi
+    .accesskey = r
+spaces-customize-button-save = Lokið
+    .accesskey = k

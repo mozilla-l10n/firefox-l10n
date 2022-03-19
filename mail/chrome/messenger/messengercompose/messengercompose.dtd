@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Nýtt">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Póstur">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Tengiliður í nafnaskrá…">
 <!ENTITY newContact.accesskey "T">
