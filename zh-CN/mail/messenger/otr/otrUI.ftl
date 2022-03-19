@@ -8,7 +8,7 @@ auth-label = 验证联系人的身份
 reauth-label = 重新验证联系人的身份
 auth-cancel = 取消
 auth-cancel-access-key = C
-auth-error = 验证联系人身份时发生错误。
+auth-error = 验证联系人身份时出错。
 auth-success = 已成功验证联系人的身份。
 auth-success-them = 您的联系人已成功验证您的身份。您可能也想问他们问题，来验证其身份。
 auth-fail = 无法验证联系人的身份。
@@ -60,12 +60,6 @@ afterauth-private = 您已验证 { $name } 的身份。
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 afterauth-unverified = { $name } 的身份尚未验证。
-verify-title = 验证联系人的身份
-error-title = 错误
-success-title = 端到端加密
-success-them-title = 验证联系人的身份
-fail-title = 无法验证
-waiting-title = 验证请求已发送
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $error (String) - contains an error message that describes the cause of the failure
