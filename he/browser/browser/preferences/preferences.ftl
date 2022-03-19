@@ -216,7 +216,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = שימוש במראה בהיר עבור רקעים ותכנים של אתרים.
 preferences-web-appearance-choice-tooltip-dark =
     .title = שימוש במראה כהה עבור רקעים ותכנים של אתרים.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = ניהול ערכות נושא של { -brand-short-name } ב<a data-l10n-name="themes-link">הרחבות וערכות נושא</a>
 preferences-colors-header = צבעים
+preferences-colors-description = דריסת צבעי ברירת המחדל של { -brand-short-name } עבור טקסט, רקעי אתרים וקישורים.
 preferences-colors-manage-button =
     .label = ניהול צבעים…
     .accesskey = צ
