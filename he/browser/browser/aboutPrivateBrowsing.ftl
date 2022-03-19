@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = הסתרת הפעילות והמיקום 
 about-private-browsing-get-privacy = קבלת הגנות על הפרטיות בכל מקום שבו גולשים
 about-private-browsing-hide-activity-1 = הסתרת פעילות הגלישה והמיקום שלך עם { -mozilla-vpn-brand-name }. לחיצה אחת יוצרת חיבור מאובטח, אפילו בגלישה ב-Wi-Fi ציבורי.
 about-private-browsing-prominent-cta = להישאר אנונימי עם { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = הורדת { -focus-brand-name }
+about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: גלישה פרטית בדרכים
+about-private-browsing-focus-promo-text = יישומון הגלישה הפרטית הייעודי שלנו לנייד מנקה את ההיסטוריה והעוגיות שלך בכל פעם.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,4 +46,6 @@ about-private-browsing-search-banner-description =
 about-private-browsing-search-banner-close-button =
     .aria-label = סגירה
 about-private-browsing-dismiss-button =
+    .title = סגירה
+about-private-browsing-promo-close-button =
     .title = סגירה
