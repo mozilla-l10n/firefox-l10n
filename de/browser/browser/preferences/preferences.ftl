@@ -100,6 +100,9 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolliert diese Einstellung.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrolliert, wie sich { -brand-short-name } mit dem Internet verbindet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -199,10 +202,16 @@ containers-remove-cancel-button = Umgebung behalten
 
 language-and-appearance-header = Sprache und Erscheinungsbild
 fonts-and-colors-header = Schriftarten & Farben
+preferences-web-appearance-header = Erscheinungsbild der Website
+preferences-web-appearance-description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
+preferences-web-appearance-choice-browser = { -brand-short-name }-Theme
 preferences-web-appearance-choice-system = System-Theme
 preferences-web-appearance-choice-light = Hell
 preferences-web-appearance-choice-dark = Dunkel
 preferences-colors-header = Farben
+preferences-colors-manage-button =
+    .label = Farben verwalten…
+    .accesskey = F
 preferences-fonts-header = Schriftarten
 default-font = Standard-Schriftart
     .accesskey = S
