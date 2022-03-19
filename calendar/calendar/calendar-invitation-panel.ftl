@@ -12,6 +12,7 @@ calendar-invitation-panel-action-button = Lagre
 calendar-invitation-panel-accept-button = Ja
 calendar-invitation-panel-decline-button = Nei
 calendar-invitation-panel-tentative-button = Kanskje
+calendar-invitation-panel-reply-status = Du har ikkje bestemt deg eller svart enno
 calendar-invitation-panel-prop-title-when = Når:
 calendar-invitation-panel-prop-title-location = Plassering:
 # Variables:
