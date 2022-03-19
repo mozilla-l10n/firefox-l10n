@@ -38,6 +38,7 @@ pocket-panel-signup-signup-firefox = Jerred s { -brand-product-name }
 pocket-panel-signup-tagline = Sekles imagraden akked tvidyutin si { -brand-product-name } akken ad twaliḍ di { -pocket-brand-name } ɣef yal ibenk, melmi tebɣiḍ.
 pocket-panel-signup-tagline-story-one = Sit ɣef tqeffalt { -pocket-brand-name } akken ad teskelseḍ yal amagrad, tavidyut neɣ asebter si { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Sken di { -pocket-brand-name } ɣef yal ibenk yellan, melmi tebɣiḍ.
+pocket-panel-signup-cta-c = Wali tabdart-ik ɣef yal ibenk, melmi tebɣiḍ.
 
 ## about:pocket-home panel
 
@@ -51,3 +52,6 @@ pocket-panel-home-explore-more = Snirem
 ## Pocket panel header component
 
 pocket-panel-header-sign-in = Kcem
+
+## Pocket panel buttons
+
