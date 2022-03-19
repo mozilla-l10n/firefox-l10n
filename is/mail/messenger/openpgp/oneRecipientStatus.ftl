@@ -24,4 +24,5 @@ openpgp-key-verified = Samþykkt (staðfest)
 openpgp-key-unverified = Samþykkt (óstaðfest)
 openpgp-key-undecided = Ekki samþykkt (óákveðið)
 openpgp-key-rejected = Ekki samþykkt (hafnað)
+openpgp-key-expired = Útrunnið
 openpgp-intro = Tiltækir dreifilyklar fyrir { $key }

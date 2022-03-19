@@ -247,8 +247,17 @@ encrypted-bcc-ignore-button = Skilið
 compose-tool-button-remove-text-styling =
     .tooltiptext = Fjarlægja stíl texta
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Sent inn á óþekktan Filelink-reikning.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Filelink-viðhengi
 
 # Template
 
@@ -274,14 +283,6 @@ cloud-file-service-provider-footer-single = Frekari upplýsingar um { $link }.
 cloud-file-service-provider-footer-multiple = Frekari upplýsingar um { $firstLinks } og { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lykilorðsvarinn tengill
-# Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
-# Size - the size of the file (Size: 4.2 MB)
-# Link - the link to the file (Link: https://some.provider.com)
-# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
-# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
-#                  (Download Limit: 6)
-cloud-file-template-service = CloudFile-þjónusta:
 cloud-file-template-size = Stærð:
 cloud-file-template-link = Tengill:
 cloud-file-template-password-protected-link = Lykilorðsvarinn tengill:
