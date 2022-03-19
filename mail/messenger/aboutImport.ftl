@@ -55,12 +55,15 @@ addr-book-import-into-new-directory = 新建文件夹
 ## Import dialog
 
 progress-pane-title = 正在导入…
+progress-pane-importing = 正在导入
+progress-pane-exporting = 正在导出
 progress-pane-finished-desc = 完成。
 progress-pane-restart-desc = 重启客户端以完成导入。
 error-pane-title = 错误
 error-message-zip-file-too-big = 所选的 ZIP 文件大于 2GB。请先解压缩，然后从解压缩的文件夹中导入。
 error-message-extract-zip-file-failed = 无法解压缩 ZIP 文件。请手动解压缩，并导入解压缩后的文件夹。
 error-message-failed = 导入意外失败，错误控制台中可能提供有更多信息。
+error-export-failed = 导入意外失败，错误控制台中可能提供更多信息。
 
 ## <csv-field-map> element
 

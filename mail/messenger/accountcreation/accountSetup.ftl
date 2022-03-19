@@ -226,7 +226,7 @@ exit-dialog-confirm-button = 退出设置
 
 ## Alert dialogs
 
-account-setup-creation-error-title = 创建账户时发生错误
+account-setup-creation-error-title = 创建账户时出错
 account-setup-error-server-exists = 收件服务器已存在。
 account-setup-confirm-advanced-title = 确认高级配置
 account-setup-confirm-advanced-description = 此对话框将关闭，即使配置不正确，也会使用当前设置来创建账户。您确定要继续吗？

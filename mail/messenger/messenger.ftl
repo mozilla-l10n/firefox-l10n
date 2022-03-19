@@ -219,3 +219,13 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = 定制…
+spaces-customize-panel-title = 侧工具栏设置
+spaces-customize-button-restore = 恢复默认设置
+    .accesskey = R
+spaces-customize-button-save = 完成
+    .accesskey = D
