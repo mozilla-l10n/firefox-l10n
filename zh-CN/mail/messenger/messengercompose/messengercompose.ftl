@@ -245,9 +245,19 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = 上传至未知的文件快传账户。
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - 文件快传附件
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = 文件 { $filename } 已上传至文件快传，可从下方链接下载。
 
 # Template
 
@@ -303,6 +313,9 @@ cloud-file-rename-error = 在 { $provider } 重命名 { $filename } 时出错。
 cloud-file-rename-error-with-custom-message-title = 在 { $provider } 重命名 { $filename } 失败
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } 不支持重命名已上传的文件。
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = 文件快传附件出错
+cloud-file-attachment-error = 由于本地文件移动或删除，文件快传附件 { $filename } 未能更新。
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = 文件快传账户错误
 cloud-file-account-error = 由于文件快传已被删除，文件快传附件 { $filename } 未能更新。
