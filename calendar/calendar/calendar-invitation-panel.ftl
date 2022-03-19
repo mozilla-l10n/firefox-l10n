@@ -18,7 +18,7 @@ calendar-invitation-panel-prop-title-location = 地点：
 # Variables:
 # $dayOfWeek (String) - The day of the week for a given date.
 # $date (String) - The date example: Tuesday, February 24, 2022.
-calendar-invitation-datetime-date = { $date }，{ $dayOfWeek }
+calendar-invitation-datetime-date = { $date } { $dayOfWeek }
 # Variables:
 # $time (String) - The time part of a datetime using the "short" timeStyle.
 # $timezone (String) - The timezone info for the datetime.
