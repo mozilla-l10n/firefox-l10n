@@ -210,6 +210,9 @@ preferences-web-appearance-choice-tooltip-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您的颜色选择将覆盖网站外观。<a data-l10n-name="colors-link">管理颜色</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = 到<a data-l10n-name="themes-link">扩展和主题</a>管理 { -brand-short-name } 主题
 preferences-colors-header = 颜色
 preferences-colors-description = 覆盖 { -brand-short-name } 的默认文本、网站背景、链接颜色。
 preferences-colors-manage-button =
