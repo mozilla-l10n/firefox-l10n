@@ -31,6 +31,8 @@ about-private-browsing-get-privacy = 获得全场景隐私保护
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } 可隐藏您的浏览活动和位置。即使在公共 Wi-Fi 下，也可一键建立安全连接。
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } 可提供隐私保护
 about-private-browsing-focus-promo-cta = 下载 { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }：随手可得的隐私浏览
+about-private-browsing-focus-promo-text = 我们隐私浏览专用 App，可自动清除您每次上网的浏览记录和 Cookie。
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
