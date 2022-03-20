@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Фаъолият ва макони худ
 about-private-browsing-get-privacy = Дар ҳама ҷое, ки шумо тамошо мекунед, муҳофизати амниятро ба даст оред.
 about-private-browsing-hide-activity-1 = Бо { -mozilla-vpn-brand-name } фаъолияти тамошокунӣ ва ҷойгиршавии худро пинҳон намоед. Як зеркунӣ пайвасти бехатарро эҷод мекунад, ҳатто дар шабакаи ҷамъиятии Wi-Fi.
 about-private-browsing-prominent-cta = Бо { -mozilla-vpn-brand-name } махфӣ бошед
+about-private-browsing-focus-promo-cta = { -focus-brand-name }-ро боргирӣ намоед
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Пӯшидан
 about-private-browsing-dismiss-button =
     .title = Нодида гузарондан
+about-private-browsing-promo-close-button =
+    .title = Пӯшидан
