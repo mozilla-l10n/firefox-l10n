@@ -24,4 +24,5 @@ openpgp-key-verified = Aceptada (verificada)
 openpgp-key-unverified = Aceptada (no verificada)
 openpgp-key-undecided = No aceptada (indecisa)
 openpgp-key-rejected = No aceptada (rechazada)
+openpgp-key-expired = Caducada
 openpgp-intro = Claves públicas disponibles para { $key }
