@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Расширени
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Расширение <img data-l10n-name="icon"/> { $name } контролирует способ соединения { -brand-short-name } с Интернетом.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> управляет этой настройкой.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> управляет этой настройкой.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> требует для своей работы «Вкладки в контейнере».
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> управляет этой настройкой.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> контролирует способ соединения { -brand-short-name } с Интернетом.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -190,6 +205,17 @@ containers-remove-cancel-button = Не удалять этот контейне�
 
 language-and-appearance-header = Язык и внешний вид
 fonts-and-colors-header = Шрифты и цвета
+preferences-web-appearance-header = Внешний вид сайта
+preferences-web-appearance-description = Некоторые веб-сайты адаптируют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
+preferences-web-appearance-choice-browser = Тема { -brand-short-name }
+preferences-web-appearance-choice-system = Системная тема
+preferences-web-appearance-choice-light = Светлая
+preferences-web-appearance-choice-dark = Тёмная
+preferences-colors-header = Цвета
+preferences-colors-manage-button =
+    .label = Управление цветами…
+    .accesskey = м
+preferences-fonts-header = Шрифты
 default-font = Шрифт по умолчанию
     .accesskey = ф
 default-font-size = Размер
