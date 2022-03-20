@@ -48,6 +48,8 @@ addr-book-vcard-file = vCard 文件（.vcf、.vcard）
 addr-book-sqlite-file = SQLite 数据库文件（.sqlite）
 addr-book-mab-file = Mork 数据库文件（.mab）
 addr-book-file-picker = 选择通讯录文件
+addr-book-csv-field-map-title = 匹配字段名称
+addr-book-csv-field-map-desc = 选择与来源字段对应的通讯录字段，可取消勾选不想导入的字段。
 addr-book-directories-pane-title = 选择您要导入的文件夹：
 addr-book-directories-pane-source = 源文件：
 addr-book-import-into-new-directory = 新建文件夹
@@ -67,9 +69,14 @@ error-export-failed = 导入意外失败，错误控制台中可能提供更多�
 
 ## <csv-field-map> element
 
+csv-source-field = 来源字段
+csv-source-first-record = 第一条记录
+csv-source-second-record = 第二条记录
+csv-target-field = 通讯录字段
 
 ## Export tab
 
+export-profile-desc = 将邮件账户、邮件消息、通讯录、设置导出为 ZIP 文件。需要时，您可将此 ZIP 文件导入以恢复配置文件。
 export-profile-desc2 = 若您当前的配置文件超过 2GB，建议您手动备份。
 export-open-profile-folder = 打开配置文件夹
 export-file-picker = 导出为 zip 文件
