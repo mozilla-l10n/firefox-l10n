@@ -69,6 +69,7 @@ error-export-failed = 导入意外失败，错误控制台中可能提供更多�
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = 第一行包含字段名称
 csv-source-field = 来源字段
 csv-source-first-record = 第一条记录
 csv-source-second-record = 第二条记录
