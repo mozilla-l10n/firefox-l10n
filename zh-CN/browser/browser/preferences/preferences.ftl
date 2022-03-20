@@ -199,6 +199,7 @@ containers-remove-cancel-button = 不移除此身份
 language-and-appearance-header = 语言与外观
 fonts-and-colors-header = 字体和颜色
 preferences-web-appearance-header = 网站外观
+preferences-web-appearance-description = 某些网站可根据您的偏好调整自身配色，您可在下方选择要使用的网站配色方案。
 preferences-web-appearance-choice-browser = { -brand-short-name } 主题
 preferences-web-appearance-choice-system = 系统主题
 preferences-web-appearance-choice-light = 浅色
