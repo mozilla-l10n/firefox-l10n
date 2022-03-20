@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Innstillingar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Rediger innstillingar …
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Rediger innstillingar …
 profiler-popup-disabled =
     Profilering er for tida deaktivert, sannsynlegvis på grunn av at eit privat nettlesarvindauge
     er ope.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Rediger innstillingar …
 profiler-popup-recording-screen = Registrerer…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,16 +187,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Tilrådd førehandsinnstilling for dei fleste feilsøkingar i nettappar, med lite tillegg.
 profiler-popup-presets-web-developer-label =
     .label = Nettsideutvikling
-profiler-popup-presets-firefox-platform-description = Tilrådd førehandsinnstilling for intern feilsøking av Firefox-plattforma.
-profiler-popup-presets-firefox-platform-label =
-    .label = Firefox-plattform
-profiler-popup-presets-firefox-front-end-description = Tilrådd førehandsinnstilling for feilsøking av Firefox grenseflate.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox grenseflate
-profiler-popup-presets-firefox-graphics-description = Tilrådd førehandsinnstilling for undersøking av grafikkyting i Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Firefox-grafikk
-profiler-popup-presets-media-description = Tilrådde førehandsinnstillingar for diagnostisering av lyd- og videoproblem.
 profiler-popup-presets-firefox-description = Tilrådd førehandsinnstilling for profilering { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -246,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Gje tilbakemelding…
     .accesskey = G
+appmenu-help-share-ideas =
+    .label = Del idear og tilbakemeldingar...
+    .accesskey = D
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
