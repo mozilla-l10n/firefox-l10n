@@ -283,6 +283,14 @@ cloud-file-service-provider-footer-single = Frekari upplýsingar um { $link }.
 cloud-file-service-provider-footer-multiple = Frekari upplýsingar um { $firstLinks } og { $lastLink }.
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lykilorðsvarinn tengill
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Filelink-þjónusta:
 cloud-file-template-size = Stærð:
 cloud-file-template-link = Tengill:
 cloud-file-template-password-protected-link = Lykilorðsvarinn tengill:
