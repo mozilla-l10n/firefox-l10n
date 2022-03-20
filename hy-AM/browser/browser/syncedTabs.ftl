@@ -7,6 +7,7 @@ synced-tabs-sidebar-noclients-subtitle = Ցանկանու՞մ եք տեսնել 
 synced-tabs-sidebar-intro = Դիտեք այլ սարքերից ավելացրած ներդիրների ցանկը։
 synced-tabs-sidebar-unverified = Ձեր հաշիվը պետք է ստուգվի:
 synced-tabs-sidebar-notabs = Չկան բաց ներդիրներ
+synced-tabs-sidebar-open-settings = Բացել համաժամեցման կարգավորումները
 synced-tabs-sidebar-tabsnotsyncing = Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։
 synced-tabs-sidebar-connect-another-device = Կապակցվել այլ սարքի
 synced-tabs-sidebar-search =

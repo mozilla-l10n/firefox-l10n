@@ -8,6 +8,17 @@ do-not-track-option-default-content-blocking-known =
     .label = Միայն երբ { -brand-short-name }-ը սահմանված է արգելափակել հայտնի վնասները։
 do-not-track-option-always =
     .label = Միշտ
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Գտնել կարգավորումներում
 managed-notice = Ձեր զննիչը կառավարում է ձեր կազմակերպութունը։
 pane-general-title = Ընդհանուր
 category-general =
@@ -21,6 +32,7 @@ category-search =
 pane-privacy-title = Գաղտնիություն և անվտանգություն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = Համաժամեցում
 pane-experimental-title = { -brand-short-name } Փորձեր
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
@@ -589,11 +601,12 @@ prefs-sync-now =
 sync-currently-syncing-heading = Այս պահին համաժամեցնում ենք այս կետերը․
 sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
-sync-currently-syncing-tabs = Բացել ներդիրները
+sync-currently-syncing-tabs = Բաց ներդիրներ
 sync-currently-syncing-logins-passwords = Մուտքանուններ և գաղտնաբառեր
 sync-currently-syncing-addresses = Հասցեներ
 sync-currently-syncing-creditcards = Բանկային քարտեր
 sync-currently-syncing-addons = Հավելումներ
+sync-currently-syncing-settings = Կարգավորումներ
 sync-change-options =
     .label = Փոխել…
     .accesskey = C

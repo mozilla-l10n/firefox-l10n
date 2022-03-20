@@ -5,6 +5,8 @@
 fxa-toolbar-sync-syncing2 = Համաժամեցում…
 sync-disconnect-dialog-body = { -brand-product-name } կդադարի համաժամեցնել ձեր հաշիվը, բայց չի ջնջի այս սարքի ձեր զննարկման ցանկացած տվյալ։
 sync-disconnect-dialog-button = Կապախզել
+fxa-menu-sync-settings =
+    .label = Համաժամեցման կարգավորումներ
 fxa-menu-connect-another-device =
     .label = Կապակցել այլ սարք...
 # This is shown dynamically within "Send tab to device" in fxa menu.
