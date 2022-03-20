@@ -225,6 +225,14 @@ spaces-pinned-button-menuitem-reveal =
 spaces-context-customize =
     .label = 定制…
 spaces-customize-panel-title = 侧工具栏设置
+spaces-customize-background-color = 背景颜色
+spaces-customize-icon-color = 按钮颜色
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = 选定按钮的背景颜色
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = 选定按钮的颜色
 spaces-customize-button-restore = 恢复默认设置
     .accesskey = R
 spaces-customize-button-save = 完成
