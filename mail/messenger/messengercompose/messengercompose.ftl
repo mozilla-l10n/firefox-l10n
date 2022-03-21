@@ -258,7 +258,11 @@ cloud-file-unknown-account-tooltip = Enviado para uma conta Filelink desconhecid
 
 # Title for the html placeholder file.
 # $filename - name of the file
-cloud-file-placeholder-title = { $filename } - Anexo Filelink
+cloud-file-placeholder-title = { $filename } - Anexo online
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = O arquivo { $filename } foi anexado como um anexo online. Ele pode ser baixado a partir do link abaixo.
 
 # Template
 
@@ -291,7 +295,7 @@ cloud-file-tooltip-password-protected-link = Link protegido por senha
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service-name = Serviço Filelink:
+cloud-file-template-service-name = Serviço de anexo online:
 cloud-file-template-size = Tamanho:
 cloud-file-template-link = Link:
 cloud-file-template-password-protected-link = Link protegido por senha:
@@ -316,4 +320,8 @@ cloud-file-rename-error-with-custom-message-title = Falha ao renomear { $filenam
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } não aceita renomear arquivos já enviados.
 # $filename (string) - name of the file that was renamed and caused the error
-cloud-file-attachment-error-title = Erro de anexo Filelink
+cloud-file-attachment-error-title = Erro ao anexar em anexo online
+cloud-file-attachment-error = Falha ao atualizar o anexo online { $filename } porque seu arquivo local foi movido ou excluído.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Erro de conta de anexo online
+cloud-file-account-error = Falha ao atualizar o anexo online { $filename } porque sua conta de anexo online foi excluída.
