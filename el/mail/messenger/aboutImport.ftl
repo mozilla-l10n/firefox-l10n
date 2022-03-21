@@ -49,6 +49,7 @@ addr-book-sqlite-file = Αρχείο βάσης δεδομένων SQLite (.sqli
 addr-book-mab-file = Αρχείο βάσης δεδομένων Mork (.mab)
 addr-book-file-picker = Επιλογή αρχείου ευρετηρίου
 addr-book-csv-field-map-title = Αντιστοίχιση ονομάτων πεδίων
+addr-book-csv-field-map-desc = Επιλέξτε τα ευρετήρια που αντιστοιχούν στα πεδία πηγής. Καταργήστε την επιλογή των πεδίων που δεν θέλετε να εισαγάγετε.
 addr-book-directories-pane-title = Επιλέξτε τον κατάλογο στον οποίο θέλετε να κάνετε εισαγωγή:
 addr-book-directories-pane-source = Αρχείο πηγής:
 addr-book-import-into-new-directory = Δημιουργία νέου καταλόγου
@@ -76,6 +77,7 @@ csv-target-field = Πεδίο ευρετηρίου διευθύνσεων
 
 ## Export tab
 
+export-profile-desc = Εξαγάγετε λογαριασμούς αλληλογραφίας, μηνύματα email, ευρετήρια διευθύνσεων, ρυθμίσεις σε αρχείο zip. Όταν χρειαστεί, μπορείτε να εισαγάγετε το αρχείο .zip για να επαναφέρετε το προφίλ σας.
 export-profile-desc2 = Εάν το τρέχον προφίλ σας είναι μεγαλύτερο από 2 GB, προτείνουμε να δημιουργήσετε χειροκίνητα αντίγραφα ασφαλείας.
 export-open-profile-folder = Άνοιγμα φακέλου προφίλ
 export-file-picker = Εξαγωγή σε αρχείο zip
