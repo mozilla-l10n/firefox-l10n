@@ -234,6 +234,7 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Personalizar…
+spaces-customize-panel-title = Configuración de la barra de Espacios
 spaces-customize-background-color = Color de fondo
 spaces-customize-icon-color = Color del botón
 # The background color used on the buttons of the spaces toolbar when they are
