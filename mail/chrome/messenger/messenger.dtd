@@ -510,7 +510,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Villuleita viðbætur">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY errorConsoleCmd.label "Villugluggi">
+<!ENTITY errorConsoleCmd.label "Villuskjár">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
