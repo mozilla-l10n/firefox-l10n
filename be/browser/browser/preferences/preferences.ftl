@@ -191,7 +191,7 @@ containers-remove-cancel-button = Не выдаляць гэты кантэйн�
 language-and-appearance-header = Мова і выгляд
 fonts-and-colors-header = Шрыфты & колеры
 preferences-web-appearance-header = Выгляд вэб-сайтаў
-preferences-web-appearance-description = Некаторыя вэб-сайты адаптуюць сваю колеравую схему ў залежнасці ад вашых пераваг. Выберыце, якую колеравую схему вы хочаце выкарыстоўваць для гэтых сайтаў.
+preferences-web-appearance-description = Некаторыя вэб-сайты адаптуюць сваю колеравую схему ў залежнасці ад вашых пераваг. Выберыце, якую колеравую схему вы хочаце выкарыстоўваць для гэтых сайтаў.
 preferences-web-appearance-choice-browser = Тэма { -brand-short-name }
 preferences-web-appearance-choice-system = Сістэмная тэма
 preferences-web-appearance-choice-light = Светлая
@@ -201,9 +201,9 @@ preferences-web-appearance-choice-dark = Цёмная
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Кіруйце тэмамі { -brand-short-name } у <a data-l10n-name="themes-link">пашырэннях і тэмах</a>
+preferences-web-appearance-footer = Кіруйце тэмамі { -brand-short-name } у <a data-l10n-name="themes-link">пашырэннях і тэмах</a>
 preferences-colors-header = Колеры
-preferences-colors-description = Перавызначыць звычайныя колеры { -brand-short-name } для тэксту, фону вэб-сайтаў, і спасылак.
+preferences-colors-description = Перавызначыць звычайныя колеры { -brand-short-name } для тэксту, фону вэб-сайтаў, і спасылак.
 preferences-colors-manage-button =
     .label = Кіраваць колерамі…
     .accesskey = К
