@@ -19,6 +19,7 @@ openpgp-view-your-encryption-key =
     .label = Se din dekrypteringsnøgle
 openpgp-openpgp = OpenPGP
 openpgp-no-sig = Ingen digital signatur
+openpgp-no-sig-info = Denne meddelelse indeholder ikke afsenderens digitale signatur. Fraværet af en digital signatur betyder, at meddelelsen kan være sendt af en anden, der udgiver sig for at have denne mailadresse. Det er også muligt at meddelelsen er blevet ændret undervejs.
 openpgp-uncertain-sig = Usikker digital signatur
 openpgp-invalid-sig = Ugyldig digital signatur
 openpgp-good-sig = God digital signatur
