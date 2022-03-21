@@ -322,3 +322,7 @@ cloud-file-rename-error-with-custom-message-title = Fallo al renombrar { $filena
 cloud-file-rename-not-supported = { $provider } no aporta renombrar archivos ya subidos.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Error al adjuntar Filelink
+cloud-file-attachment-error = Fallo la actualización del adjunto Filelink { $filename } porque el archivo local fue movido o borrado.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Error de cuenta Filelink
+cloud-file-account-error = Fallo la actualización del adjunto Filelink { $filename } porque la cuenta Filelink fue borrada.
