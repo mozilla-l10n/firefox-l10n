@@ -222,6 +222,8 @@ many-public-recipients-ignore =
     .label = Lad modtagerene være synlige
     .accesskey = L
 many-public-recipients-prompt-title = For mange offentlige modtagere
+many-public-recipients-prompt-cancel = Annuller afsendelse
+many-public-recipients-prompt-send = Send alligevel
 
 ## Notifications
 
@@ -247,6 +249,31 @@ compose-tool-button-remove-text-styling =
 
 # Template
 
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Læs mere om { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Læs mere om { $firstLinks } og { $lastLink }.
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Adgangskodebeskyttet link
+cloud-file-template-size = Størrelse:
+cloud-file-template-link = Link:
+cloud-file-template-expiry-date = Udløbsdato:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Forbindelsesfejl
+cloud-file-connection-error = { -brand-short-name } er offline. Kunne ikke oprette forbindelse til { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = Uploading af { $filename } til { $provider } mislykkedes
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } understøtter ikke omdøbning af filer, der allerede er uploadet.
