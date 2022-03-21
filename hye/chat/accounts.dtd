@@ -21,13 +21,13 @@
 <!ENTITY account.autoSignOn.label     "Մուտք գործել մեկնարկին">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Կապակցել">
-<!ENTITY account.connect.accesskey    "ա">
+<!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.disconnect.label     "Անջատել">
-<!ENTITY account.disconnect.accesskey "ջ">
+<!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Ջնջել">
-<!ENTITY account.delete.accesskey     "Ջ">
+<!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "Յատկութիւններ">
-<!ENTITY account.edit.accesskey       "Յ">
+<!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Վերեւ">
 <!ENTITY account.movedown.label       "Ներքեւ">
 <!ENTITY account.cancelReconnection.label         "Չեղարկել վերակապակցումը">
