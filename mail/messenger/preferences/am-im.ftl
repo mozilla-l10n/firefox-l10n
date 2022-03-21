@@ -4,3 +4,13 @@
 
 account-settings-title = Indstillinger for godkendelse
 account-channel-title = Standardkanaler
+chat-autologin =
+    .label = Log på ved start
+chat-encryption-generic = Generisk
+chat-encryption-status = Krypteringsstatus
+chat-encryption-placeholder = Kryptering ikke initialiseret.
+chat-encryption-sessions = Sessioner
+chat-encryption-session-verify = bekræft
+    .title = Bekræft denne sessions identitet
+chat-encryption-session-trusted = pålidelig
+    .title = Denne sessions identitet er bekræftet
