@@ -49,6 +49,7 @@ addr-book-sqlite-file = SQLite-gagnagrunnsskrá (.sqlite)
 addr-book-mab-file = Mork-gagnagrunnsskrá (.mab)
 addr-book-file-picker = Veldu nafnaskrá
 addr-book-csv-field-map-title = Samsvarandi nöfn reita
+addr-book-csv-field-map-desc = Veldu nafnaskrárreiti sem samsvara upprunalegum reitum. Afmerktu þá reiti sem þú vilt ekki flytja inn.
 addr-book-directories-pane-title = Veldu möppuna sem þú vilt flytja inn í:
 addr-book-directories-pane-source = Upprunarskrá:
 addr-book-import-into-new-directory = Búa til nýja möppu
@@ -64,6 +65,7 @@ error-pane-title = Villa
 error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar í villuborðinu.
+error-export-failed = Útflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar í villuborðinu.
 
 ## <csv-field-map> element
 
