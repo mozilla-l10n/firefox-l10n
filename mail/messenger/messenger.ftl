@@ -221,3 +221,29 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Uma mensagem não lida
+           *[other] { $count } mensagens não lidas
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Personalizar…
+spaces-customize-panel-title = Configurações da barra de espaços
+spaces-customize-background-color = Cor de fundo
+spaces-customize-icon-color = Cor dos botões
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Cor de fundo do botão selecionado
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Cor do botão selecionado
+spaces-customize-button-restore = Restaurar padrão
+    .accesskey = R
+spaces-customize-button-save = Pronto
+    .accesskey = P
