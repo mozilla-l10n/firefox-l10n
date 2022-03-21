@@ -15,3 +15,24 @@ calendar-invitation-panel-tentative-button = Talvez
 calendar-invitation-panel-reply-status = * Você ainda não decidiu ou não respondeu
 calendar-invitation-panel-prop-title-when = Quando:
 calendar-invitation-panel-prop-title-location = Local:
+# Variables:
+# $dayOfWeek (String) - The day of the week for a given date.
+# $date (String) - The date example: Tuesday, February 24, 2022.
+calendar-invitation-datetime-date = { $dayOfWeek }, { $date }
+# Variables:
+# $time (String) - The time part of a datetime using the "short" timeStyle.
+# $timezone (String) - The timezone info for the datetime.
+calendar-invitation-datetime-time = { $time } ({ $timezone })
+calendar-invitation-panel-prop-title-attendees = Participantes:
+calendar-invitation-panel-prop-title-description = Descrição:
+# Variables:
+# $partStat (String) - String indicating the participation status of an attendee.
+calendar-invitation-panel-partstat-summary =
+    { $partStat ->
+        [ACCEPTED] { $count } sim
+        [DECLINED] { $count } não
+        [TENTATIVE] { $count } talvez
+        [NEEDS-ACTION] { $count } pendente
+        [TOTAL] { $count } participantes
+       *[OTHER] { $count } outro
+    }
