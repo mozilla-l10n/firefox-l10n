@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Cachez vos activités et votre emplacemen
 about-private-browsing-get-privacy = Protégez votre vie privée partout où vous naviguez
 about-private-browsing-hide-activity-1 = Masquez votre navigation et votre emplacement avec { -mozilla-vpn-brand-name }. D’un simple clic, créez une connexion sécurisée, même sur un réseau Wi-Fi public.
 about-private-browsing-prominent-cta = Gardez votre vie privée avec { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Télécharger { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Fermer
 about-private-browsing-dismiss-button =
     .title = Ignorer
+about-private-browsing-promo-close-button =
+    .title = Fermer

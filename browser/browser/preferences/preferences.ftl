@@ -187,6 +187,11 @@ containers-remove-cancel-button = Ne pas supprimer ce conteneur
 
 language-and-appearance-header = Langue et apparence
 fonts-and-colors-header = Polices et couleurs
+preferences-web-appearance-choice-browser = Thème { -brand-short-name }
+preferences-web-appearance-choice-system = Thème du système
+preferences-web-appearance-choice-light = Clair
+preferences-web-appearance-choice-dark = Sombre
+preferences-fonts-header = Polices
 default-font = Police par défaut
     .accesskey = P
 default-font-size = Taille
