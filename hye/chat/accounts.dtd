@@ -28,14 +28,14 @@
 <!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "Յատկութիւններ">
 <!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Վերեւ">
-<!ENTITY account.movedown.label       "Ներքեւ">
+<!ENTITY account.moveup.label         "Բարձրացնել">
+<!ENTITY account.movedown.label       "Իջեցնել">
 <!ENTITY account.cancelReconnection.label         "Չեղարկել վերակապակցումը">
-<!ENTITY account.cancelReconnection.accesskey     "Ե">
+<!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Պատճենել վրիպազերծման գրանցամատեանը">
-<!ENTITY account.copyDebugLog.accesskey "Պ">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.showDebugLog.label     "Ցուցադրել վրիպազերծման գրանցամատեանը">
-<!ENTITY account.showDebugLog.accesskey "Ն">
+<!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Կապակցում…">
 <!ENTITY account.disconnecting        "Անջատում…">
 <!ENTITY account.disconnected         "Կապակցուած չէ">
