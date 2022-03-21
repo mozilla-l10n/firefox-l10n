@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Mae estyniad <img 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Mae <img data-l10n-name="icon"> <strong>{ $name }</strong> angen Tabiau Cynhwysydd.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = Mae estyniad <img data-l10n-name="icon"/> <strong>{ $name }</strong>, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -199,6 +214,32 @@ containers-remove-cancel-button = Peidio Tynnu'r Cynhwysydd Hwn
 
 language-and-appearance-header = Iaith a Gwedd
 fonts-and-colors-header = Ffontiau a Lliwiau
+preferences-web-appearance-header = Ymddangosiad gwefan
+preferences-web-appearance-description = Mae rhai gwefannau yn addasu eu cynllun lliw yn seiliedig ar eich dewisiadau. Dewiswch pa gynllun lliw yr hoffech ei ddefnyddio ar gyfer y gwefannau hynny.
+preferences-web-appearance-choice-browser = Thema { -brand-short-name }
+preferences-web-appearance-choice-system = Thema'r system
+preferences-web-appearance-choice-light = Golau
+preferences-web-appearance-choice-dark = Tywyll
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Cydweddwch eich gosodiadau thema { -brand-short-name } ar gyfer cefndiroedd gwefannau a chynnwys.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Cydweddwch eich gosodiadau system ar gyfer cefndiroedd gwefannau a chynnwys.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Defnyddio gwedd olau ar gyfer cefndiroedd gwefannau a chynnwys.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Defnyddio gwedd dywyll ar gyfer cefndiroedd gwefan a chynnwys.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Mae eich dewisiadau lliw yn drech nag gwedd gwefan. <a data-l10n-name="colors-link">Rheoli lliwiau</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Rheoli themâu { -brand-short-name } yn <a data-l10n-name="themes-link">Estyniadau a Themâu</a>
+preferences-colors-header = Lliwiau
+preferences-colors-description = Diystyru lliwiau rhagosodedig { -brand-short-name } mewn perthynas â thestun, cefndiroedd gwefannau a dolenni.
+preferences-colors-manage-button =
+    .label = Rheoli Lliwiau…
+    .accesskey = R
+preferences-fonts-header = Ffontiau
 default-font = Ffont rhagosodedig:
     .accesskey = F
 default-font-size = Maint:
