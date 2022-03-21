@@ -281,8 +281,21 @@ encrypted-bcc-ignore-button = Wedi Deall
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tynnu Steilio Testun
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Wedi'i lwytho i gyfrif Filelink anhysbys.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Atodiad Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Atodwyd y ffeil { $filename } fel Filelink. Mae modd ei lwytho i lawr o'r ddolen isod.
 
 # Template
 
@@ -313,13 +326,13 @@ cloud-file-service-provider-footer-multiple = Dysgu rhagor am { $firstLinks } a 
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Dolen wedi'i diogelu gan gyfrinair
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Gwasanaeth CloudFile:
+cloud-file-template-service-name = Gwasanaeth Filelink:
 cloud-file-template-size = Maint:
 cloud-file-template-link = Dolen:
 cloud-file-template-password-protected-link = Dolen wedi'i Diogelu gan Gyfrinair
@@ -343,3 +356,9 @@ cloud-file-rename-error = Bu anhawster wrth ailenwi { $filename } ar { $provider
 cloud-file-rename-error-with-custom-message-title = Methodd ail-enwi { $filename } ar { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = Nid yw { $provider } yn cefnogi ailenwi ffeiliau sydd eisoes wedi'u llwytho i fyny.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Gwall Atodi Filelink
+cloud-file-attachment-error = Wedi methu diweddaru'r atodiad Filelink { $filename }, oherwydd bod ei ffeil leol wedi'i symud neu ei dileu.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Gwall Cyfrif Filelink
+cloud-file-account-error = Wedi methu diweddaru'r atodiad Filelink { $filename }, oherwydd bod ei ffeil leol wedi'i symud neu ei dileu.

@@ -229,3 +229,33 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [zero] Dim negeseuon heb eu darllen
+            [one] Un neges neb ei darllen
+            [two] { $count } heb eu darllen
+            [few] { $count } heb eu darllen
+            [many] { $count } heb eu darllen
+           *[other] { $count } heb eu darllen
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Cyfaddasu…
+spaces-customize-panel-title = Gosodiadau Bylchau Bar Offer
+spaces-customize-background-color = Lliw cefndir
+spaces-customize-icon-color = Lliw botwm
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Lliw cefndir botwm a ddewiswyd
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Lliw botwm a ddewiswyd
+spaces-customize-button-restore = Adfer y Rhagosodiadau
+    .accesskey = R
+spaces-customize-button-save = Gorffen
+    .accesskey = G
