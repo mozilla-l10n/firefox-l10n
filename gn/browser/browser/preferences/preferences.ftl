@@ -223,6 +223,7 @@ preferences-web-appearance-override-warning = Sa’y poravopyre omboyke mba’é
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Eñangareko téma { -brand-short-name } mba’ére <a data-l10n-name="themes-link">Jepysokue ha téma</a> rupi
 preferences-colors-header = Sa’y
+preferences-colors-description = Emboyke sa’y ypyguáva { -brand-short-name } mba’e moñe’ẽrã, ñanduti renda rugua ha juajuhápe g̃uarã.
 preferences-colors-manage-button =
     .label = Sa’ýre ñeñangareko…
     .accesskey = C
