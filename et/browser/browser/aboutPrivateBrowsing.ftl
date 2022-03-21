@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Peida oma tegevus ja asukoht kõikjal, ku
 about-private-browsing-get-privacy = Hangi privaatsuse kaitse kõikjale, kus lehitsed veebi
 about-private-browsing-hide-activity-1 = Peida lehitsemise tegevus ja asukoht { -mozilla-vpn-brand-name }iga. Üks klõps loob turvalise ühenduse isegi avalikus WiFis.
 about-private-browsing-prominent-cta = Jää privaatseks { -mozilla-vpn-brand-name }iga
+about-private-browsing-focus-promo-cta = Laadi alla { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: privaatne veebilehtisemine liikvel olles
+about-private-browsing-focus-promo-text = Meie spetsiaalne privaatse veebilehitsemise mobiiliäpp kustutab ajaloo ja küpsised iga kord.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Sulge
 about-private-browsing-dismiss-button =
     .title = Peida
+about-private-browsing-promo-close-button =
+    .title = Sulge

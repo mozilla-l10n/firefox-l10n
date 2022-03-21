@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Seda sätet haldab
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = { -brand-short-name }i internetti ühendumist haldab laiendus <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = Seda sätet juhib laiendus <img data-l10n-name="icon"/><strong>{ $name }</strong>.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = Seda sätet juhib laiendus <img data-l10n-name="icon"/><strong>{ $name }</strong>.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Laiendus <img data-l10n-name="icon"/><strong>{ $name }</strong> nõuab, et konteinerkaardid oleks lubatud.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = Seda sätet juhib laiendus <img data-l10n-name="icon"/><strong>{ $name }</strong>.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = { -brand-short-name }i internetti ühendumist haldab laiendus <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,12 @@ containers-remove-cancel-button = Ära eemalda seda konteinerit
 
 language-and-appearance-header = Keel ja välimus
 fonts-and-colors-header = Fondid ja värvid
+preferences-web-appearance-header = Veebilehe välimus
+preferences-web-appearance-description = Mõned saidid kohandavad oma värviskeemi vastavalt sinu sätetele. Vali, millist värviskeemi soovite nende saitide jaoks kasutada.
+preferences-web-appearance-choice-browser = { -brand-short-name }i teema
+preferences-web-appearance-choice-system = Süsteemi teema
+preferences-web-appearance-choice-light = Hele
+preferences-web-appearance-choice-dark = Tume
 default-font = Vaikefont
     .accesskey = V
 default-font-size = Suurus
