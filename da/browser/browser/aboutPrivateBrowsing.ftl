@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Skjul din aktivitet og din placering
 about-private-browsing-get-privacy = Få beskyttet dine private oplysninger overalt på nettet
 about-private-browsing-hide-activity-1 = Skjul din placering og din aktivitet på nettet med { -mozilla-vpn-brand-name }. Med ét klik får du en sikker forbindelse, selv på offentlige netværk.
 about-private-browsing-prominent-cta = Beskyt dit privatliv med { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Hent { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat browsing på farten
+about-private-browsing-focus-promo-text = Vores browser dedikeret til at beskytte dit privatliv sletter automatisk din historik og dine cookies.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Luk
 about-private-browsing-dismiss-button =
     .title = Afvis
+about-private-browsing-promo-close-button =
+    .title = Luk
