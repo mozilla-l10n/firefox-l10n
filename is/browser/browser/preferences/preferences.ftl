@@ -88,6 +88,18 @@ extension-controlled-websites-content-blocking-all-trackers = Viðbót, <img dat
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Viðbótin <img data-l10n-name="icon"/> { $name }, er að stjórna hvernig { -brand-short-name } tengist við internetið.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> stýrir þessari stillingu.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> stýrir þessari stillingu.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> stýrir þessari stillingu.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = Viðbótin <img data-l10n-name="icon"/> { $name } stýrir hvernig { -brand-short-name } tengist við internetið.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +199,21 @@ containers-remove-cancel-button = Ekki fjarlægja þetta sérefni
 
 language-and-appearance-header = Tungumál og útlit
 fonts-and-colors-header = Letur og litir
+preferences-web-appearance-header = Útlit vefsvæðis
+preferences-web-appearance-description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
+preferences-web-appearance-choice-browser = { -brand-short-name } þema
+preferences-web-appearance-choice-system = Kerfisþema
+preferences-web-appearance-choice-light = Ljóst
+preferences-web-appearance-choice-dark = Dökkt
+preferences-web-appearance-choice-tooltip-light =
+    .title = Nota ljóst útlit fyrir bakgrunn og efni vefsvæðisins.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Nota dökkt útlit fyrir bakgrunn og efni vefsvæðisins.
+preferences-colors-header = Litir
+preferences-colors-manage-button =
+    .label = Stýra litum…
+    .accesskey = l
+preferences-fonts-header = Leturgerðir
 default-font = Sjálfgefin leturgerð
     .accesskey = g
 default-font-size = Stærð
