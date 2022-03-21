@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Window controls
+
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -9,7 +12,6 @@ unread-messages-os-tooltip =
         [one] 1 ulæst meddelelse
        *[other] { $count } ulæste meddelelser
     }
-
 about-rights-notification-text = { -brand-short-name } er gratis open source-software, bygget af tusindvis af ildsjæle fra hele verden.
 
 ## Content tabs
@@ -26,11 +28,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Tilføjelser og temaer
     .tooltiptext = Håndter dine tilføjelser
-
 quick-filter-toolbarbutton =
     .label = Lynfilter
     .tooltiptext = Filtrer meddelelser
-
 redirect-msg-button =
     .label = Omdiriger
     .tooltiptext = Omdiriger valgte meddelelse
@@ -40,10 +40,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Værktøjslinje for mapper
     .accesskey = V
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Indstillinger for mapperude
-
 folder-pane-header-label = Mapper
 
 ## Folder Toolbar Header Popup
@@ -51,27 +49,21 @@ folder-pane-header-label = Mapper
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Skjul værktøjslinjen
     .accesskey = j
-
 show-all-folders-label =
     .label = Alle mapper
     .accesskey = A
-
 show-unread-folders-label =
     .label = Ulæste mapper
     .accesskey = U
-
 show-favorite-folders-label =
     .label = Favoritmapper
     .accesskey = F
-
 show-smart-folders-label =
     .label = Samlede mapper
     .accesskey = S
-
 show-recent-folders-label =
     .label = Seneste mapper
     .accesskey = e
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompakt visning
     .accesskey = K
@@ -81,6 +73,9 @@ folder-toolbar-toggle-folder-compact-view =
 redirect-msg-menuitem =
     .label = Omdiriger
     .accesskey = d
+menu-file-save-as-file =
+    .label = Fil…
+    .accesskey = F
 
 ## AppMenu
 
@@ -88,19 +83,18 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Indstillinger
-
+appmenu-save-as-file =
+    .label = Fil…
+appmenu-settings =
+    .label = Indstillinger
 appmenu-addons-and-themes =
     .label = Tilføjelser og temaer
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Fejlsøgnings-tilstand…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Slå fejlsøgnings-tilstand fra
-
 appmenu-help-more-troubleshooting-info =
     .label = Mere teknisk information
-
 appmenu-redirect-msg =
     .label = Omdiriger
 
@@ -108,11 +102,26 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Omdiriger
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Slet besked
+           *[other] Slet de valgte meddelelser
+        }
+context-menu-decrypt-to-folder =
+    .label = Kopiér som dekrypteret til
+    .accesskey = K
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Omdiriger
+message-header-msg-flagged =
+    .title = Stjernemarkeret
+    .aria-label = Stjernemarkeret
+message-header-msg-not-flagged =
+    .title = Ikke stjernemarkeret
+    .aria-label = Ikke stjernemarkeret
 
 ## Action Button Context Menu
 
@@ -127,7 +136,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adresse er i din adressebogen
-
 message-header-address-not-in-address-book-icon =
     .alt = Adresse er ikke i din adressebogen
 
@@ -138,11 +146,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Fjern { $name }?
 addon-removal-confirmation-button = Fjern
 addon-removal-confirmation-message = Fjern { $name } samt dens konfiguration og data fra { -brand-short-name }?
-
 caret-browsing-prompt-title = Caret Browsing
 caret-browsing-prompt-text = Ved at trykke F7 kan du slå Caret Browsing til eller fra. Denne funktion placerer en bevægelig markør på siden, hvilket giver dig mulighed for at markere tekst med tastaturet. Ønsker du at slå Caret Browsing til?
 caret-browsing-prompt-check-text = Spørg ikke igen.
-
 repair-text-encoding-button =
     .label = Reparer tekstkodning
     .tooltiptext = Fastlæg den korrekte tekstkodning ud fra meddelelsens indhold
@@ -152,3 +158,16 @@ repair-text-encoding-button =
 no-reply-title = Svar understøttes ikke
 no-reply-message = Svaradressen ({ $email }) se ikke ud til at være en overvåget adresse. Meddelelser sendt til denne adresse bliver sandsynligvis ikke læst af nogen.
 no-reply-reply-anyway-button = Svar alligevel
+
+## error messages
+
+decrypt-and-copy-failures = { $failures } af { $total } beskeder kunne ikke dekrypteres og blev ikke kopieret.
+
+## Spaces toolbar
+
+
+## Spaces toolbar pinned tab menupopup
+
+
+## Spaces toolbar customize panel
+
