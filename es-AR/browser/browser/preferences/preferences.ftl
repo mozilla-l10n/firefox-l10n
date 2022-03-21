@@ -208,10 +208,26 @@ preferences-web-appearance-choice-browser = Tema de { -brand-short-name }
 preferences-web-appearance-choice-system = Tema del sistema
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Oscuro
+preferences-web-appearance-choice-tooltip-browser =
+    .title = El tema de { -brand-short-name } coincidirá con la configuración del sistema para fondos y contenido de los sitios web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = La configuración del sistema se usará para fondos y contenido de los sitios web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Usar una apariencia clara para fondos y contenido de los sitios web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Usar una apariencia oscura para fondos y contenido de los sitios web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = La selección de colores cambia la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Administrar temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensiones y temas</a>
 preferences-colors-header = Colores
+preferences-colors-description = Anular los colores predeterminados de { -brand-short-name } para texto, fondo de los sitios web y enlaces.
 preferences-colors-manage-button =
     .label = Administrar colores…
     .accesskey = c
+preferences-fonts-header = Tipografía
 default-font = Fuente por defecto
     .accesskey = D
 default-font-size = Tamaño
