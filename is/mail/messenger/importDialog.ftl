@@ -18,4 +18,4 @@ zip-file-too-big-title = Zip-skrá er of stór
 zip-file-too-big-message = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 wizardpage-failed =
     .label = Innflutningur mistókst
-wizardpage-failed-message = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar í villuborðinu.
+wizardpage-failed-message = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.

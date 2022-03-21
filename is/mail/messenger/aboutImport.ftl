@@ -64,8 +64,8 @@ progress-pane-restart-desc = Endurræstu til að ljúka innflutningi.
 error-pane-title = Villa
 error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
-error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar í villuborðinu.
-error-export-failed = Útflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar í villuborðinu.
+error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
+error-export-failed = Útflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
 
 ## <csv-field-map> element
 
@@ -77,6 +77,8 @@ csv-target-field = Nafnaskrárreitur
 
 ## Export tab
 
+export-profile-desc = Flyttu út póstreikninga, póstskilaboð, nafnaskrár og stillingar í zip-skrá. Þegar þörf krefur geturðu flutt zip-skrána inn til að endurheimta notandasniðið þitt.
+export-profile-desc2 = Ef notkunarsniðið þitt er stærra en 2GB, mælum við með að þú afritir það sjálf/ur.
 export-open-profile-folder = Opna möppu notandasniðs
 export-file-picker = Flytja út í zip-skrá
 export-brand-name = { -brand-product-name }
