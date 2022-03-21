@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = İnternette gezinirken yaptıklarınızı
 about-private-browsing-get-privacy = Gezindiğiniz her yerde gizliliğinizi koruyun
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ile gezdiğiniz sayfaları ve konumunuzu gizleyebilirsiniz. Tek bir tıklamayla halka açık Wi-Fi ağlarında bile güvenli bir bağlantı kurabilirsiniz.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ile gizli kalın
+about-private-browsing-focus-promo-cta = { -focus-brand-name }’u indir
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,4 +44,6 @@ about-private-browsing-search-banner-description =
 about-private-browsing-search-banner-close-button =
     .aria-label = Kapat
 about-private-browsing-dismiss-button =
+    .title = Kapat
+about-private-browsing-promo-close-button =
     .title = Kapat

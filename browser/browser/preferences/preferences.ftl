@@ -187,6 +187,17 @@ containers-remove-cancel-button = Kapsayıcıyı silme
 
 language-and-appearance-header = Dil ve görünüm
 fonts-and-colors-header = Yazı tipleri ve renkler
+preferences-web-appearance-header = Web sitesi görünümü
+preferences-web-appearance-description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
+preferences-web-appearance-choice-browser = { -brand-short-name } teması
+preferences-web-appearance-choice-system = Sistem teması
+preferences-web-appearance-choice-light = Açık
+preferences-web-appearance-choice-dark = Koyu
+preferences-colors-header = Renkler
+preferences-colors-manage-button =
+    .label = Renkleri yönet…
+    .accesskey = R
+preferences-fonts-header = Yazı tipleri
 default-font = Varsayılan yazı tipi
     .accesskey = t
 default-font-size = Boyut
