@@ -70,6 +70,15 @@ error-export-failed = Eksportimine ebaõnnestus ootamatult, rohkem infot võib o
 ## <csv-field-map> element
 
 csv-first-row-contains-headers = Esimene rida sisaldab väljade nimesid
+csv-source-field = Allika väli
+csv-source-first-record = Esimene kirje
+csv-source-second-record = Teine kirje
+csv-target-field = Aadressiraamatu väli
 
 ## Export tab
 
+export-profile-desc = Ekspordi e-posti kontod, kirjad, aadressiraamatud ja sätted ZIP-faili. Vajadusel saad profiili taastamiseks ZIP-faili importida.
+export-profile-desc2 = Kui sinu praegune profiil on suurem kui 2GiB, siis soovitame sul selle ise varundada.
+export-open-profile-folder = Ava profiili kaust
+export-file-picker = Ekspordi ZIP-faili
+export-brand-name = { -brand-product-name }
