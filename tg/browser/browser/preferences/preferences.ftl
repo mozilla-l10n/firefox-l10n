@@ -187,6 +187,15 @@ containers-remove-cancel-button = Ин дарбаргиранда тоза ка�
 
 language-and-appearance-header = Забон ва намуди зоҳирӣ
 fonts-and-colors-header = Шрифтҳо ва рангҳо
+preferences-web-appearance-choice-browser = Мавзуи { -brand-short-name }
+preferences-web-appearance-choice-system = Мавзӯи низомӣ
+preferences-web-appearance-choice-light = Равшан
+preferences-web-appearance-choice-dark = Торик
+preferences-colors-header = Рангҳо
+preferences-colors-manage-button =
+    .label = Идоракунии рангҳо…
+    .accesskey = И
+preferences-fonts-header = Ҳуруф
 default-font = Шрифти пешфарз
     .accesskey = Ш
 default-font-size = Андоза

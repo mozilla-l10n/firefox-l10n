@@ -160,6 +160,7 @@ spotlight-total-cookie-protection-secondary-button = Ҳоло не
 
 spotlight-better-internet-header = Интернети беҳтар аз шумо оғоз мешавад
 spotlight-better-internet-body = Вақте ки шумо аз «{ -brand-short-name }» истифода мебаред, шумо барои интернети кушод ва дастрас овоз медиҳед, ки барои ҳамаи корбарон беҳтар аст.
+spotlight-peace-mind-header = Мо шуморо бо ғамхорӣ фаро гирифтем
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Нигоҳ доштан дар мустақар
