@@ -197,6 +197,18 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Brug lyst udseende for websteders baggrund og indhold.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Brug mørkt udseende for websteders baggrund og indhold.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Håndter { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Udvidelser og temaer</a>
+preferences-colors-header = Farver
+preferences-colors-description = Tilsidesæt { -brand-short-name }' standardfarver for tekst, websteds-baggrunde og links.
+preferences-colors-manage-button =
+    .label = Håndter farver…
+    .accesskey = f
+preferences-fonts-header = Skrifttyper
 default-font = Standardskrifttype:
     .accesskey = k
 default-font-size = Størrelse:
