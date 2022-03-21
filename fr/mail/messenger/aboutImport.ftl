@@ -10,6 +10,7 @@ import-from-app = Importer depuis l’application
 import-from-app-desc = Choisir d’importer comptes, carnets d’adresses, agendas et autres données depuis :
 import-address-book = Importer le fichier d’un carnet d’adresses
 import-calendar = Importer le fichier d’un agenda
+export-profile = Exporter
 
 ## Buttons
 
@@ -31,7 +32,6 @@ profiles-pane-desc = Choisissez l’emplacement à partir duquel importer
 profile-file-picker-dir = Sélectionnez un dossier de profil
 profile-file-picker-zip = Sélectionnez un fichier zip (de taille inférieure à 2 Go)
 items-pane-title = Sélectionnez quoi importer
-items-pane-desc = Importer depuis
 items-pane-source = Emplacement d’origine :
 items-pane-checkbox-accounts = Comptes et paramètres
 items-pane-checkbox-address-books = Carnets d’adresses
@@ -59,3 +59,9 @@ error-pane-title = Erreur
 error-message-zip-file-too-big = La taille du fichier zip sélectionné est supérieure à 2 Go. Veuillez d’abord l’extraire, puis importer les données à partir du dossier d’extraction.
 error-message-extract-zip-file-failed = Échec de l’extraction du fichier zip. Veuillez plutôt l’extraire manuellement, puis l’importer depuis le dossier extrait.
 error-message-failed = L’importation a échoué de manière inattendue, des informations supplémentaires peuvent être disponibles dans la console d’erreurs.
+
+## <csv-field-map> element
+
+
+## Export tab
+
