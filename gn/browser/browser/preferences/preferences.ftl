@@ -216,6 +216,12 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Eipuru jehecharã sakã tugua ha tetepy ñanduti renda pegua.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Eipuru jehecharã pytũva tugua ha tetepy ñanduti renda pegua.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Sa’y poravopyre omboyke mba’éichapa ojehecha ñanduti renda. <a data-l10n-name="colors-link">Eñangareko sa’ýre</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Eñangareko téma { -brand-short-name } mba’ére <a data-l10n-name="themes-link">Jepysokue ha téma</a> rupi
 preferences-colors-header = Sa’y
 preferences-colors-manage-button =
     .label = Sa’ýre ñeñangareko…
