@@ -258,6 +258,10 @@ cloud-file-unknown-account-tooltip = Sent inn á óþekktan Filelink-reikning.
 # Title for the html placeholder file.
 # $filename - name of the file
 cloud-file-placeholder-title = { $filename } - Filelink-viðhengi
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Skráin { $filename } var hengd við sem Filelink. Það er hægt að sækja hana með tenglinum hér fyrir neðan.
 
 # Template
 
@@ -314,3 +318,8 @@ cloud-file-rename-error = Vandamál kom upp við að endurnefna { $filename } á
 cloud-file-rename-error-with-custom-message-title = Mistókst að endurnefna { $filename } á { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } styður ekki að endurnefna skrár sem þegar hafa verið sendar inn.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Villa í Filelink-viðhengi
+cloud-file-attachment-error = Mistókst að uppfæra Filelink-viðhengið { $filename } vegna þess að skrá þess á tækinu hefur verið færð eða henni eytt.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Villa í Filelink-reikningi
