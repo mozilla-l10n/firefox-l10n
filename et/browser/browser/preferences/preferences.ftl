@@ -208,6 +208,26 @@ preferences-web-appearance-choice-browser = { -brand-short-name }i teema
 preferences-web-appearance-choice-system = Süsteemi teema
 preferences-web-appearance-choice-light = Hele
 preferences-web-appearance-choice-dark = Tume
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Sobitatakse { -brand-short-name }i teema sätted saidi tausta ja sisuga.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Sobitatakse süsteemi sätted saidi tausta ja sisuga.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Kasutatakse heledat teemat saidi tausta ja sisu jaoks.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Kasutatakse tumedat teemat saidi tausta ja sisu jaoks.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Sinu värvivalik on saidi välimusele ülemuslik. <a data-l10n-name="colors-link">Halda värve</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Halda { -brand-short-name }i teemasid sektsioonis <a data-l10n-name="themes-link">Laiendused ja teemad</a>
+preferences-colors-header = Värvid
+preferences-colors-description = Kasutatakse { -brand-short-name }i vaikevärve teksti, saidi taustade ja linkide jaoks.
+preferences-colors-manage-button =
+    .label = Halda värve…
+    .accesskey = H
+preferences-fonts-header = Fondid
 default-font = Vaikefont
     .accesskey = V
 default-font-size = Suurus
