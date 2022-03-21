@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY options.title "Developer Tools Options">
-<!ENTITY options.status.label "Status:">
-<!ENTITY options.port.label "Port:">
+<!ENTITY options.title "Valkostir þróunartækja">
+<!ENTITY options.status.label "Staða:">
+<!ENTITY options.port.label "Gátt:">
 <!ENTITY options.forcelocal.label "Leyfa tengingar frá öðrum tölvum">
