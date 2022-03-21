@@ -90,16 +90,16 @@ extension-controlled-websites-content-blocking-all-trackers = Mae estyniad <img 
 extension-controlled-proxy-config = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlling-password-saving = <img data-l10n-name="icon"> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlling-web-notifications = <img data-l10n-name="icon"> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = Mae <img data-l10n-name="icon"> <strong>{ $name }</strong> angen Tabiau Cynhwysydd.
+extension-controlling-privacy-containers = Mae <img data-l10n-name="icon"/> <strong>{ $name }</strong> angen Tabiau Cynhwysydd.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> sy'n rheoli'r gosodiad hwn.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = Mae estyniad <img data-l10n-name="icon"/> <strong>{ $name }</strong>, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
