@@ -187,6 +187,16 @@ containers-remove-cancel-button = Fjern ikke denne kontekst
 
 language-and-appearance-header = Sprog og udseende
 fonts-and-colors-header = Skrifttyper & farver
+preferences-web-appearance-header = Websteds-udseende
+preferences-web-appearance-description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
+preferences-web-appearance-choice-browser = { -brand-short-name }-tema
+preferences-web-appearance-choice-system = Systemets tema
+preferences-web-appearance-choice-light = Lyst
+preferences-web-appearance-choice-dark = Mørkt
+preferences-web-appearance-choice-tooltip-light =
+    .title = Brug lyst udseende for websteders baggrund og indhold.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Brug mørkt udseende for websteders baggrund og indhold.
 default-font = Standardskrifttype:
     .accesskey = k
 default-font-size = Størrelse:
