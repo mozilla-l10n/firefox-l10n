@@ -30,6 +30,8 @@ about-private-browsing-hide-activity = Feldu virkni þína og staðsetningu, hva
 about-private-browsing-get-privacy = Fáðu persónuvernd hvar sem þú vafrar
 about-private-browsing-hide-activity-1 = Feldu vafravirkni og staðsetningu með { -mozilla-vpn-brand-name }. Einn smellur útbýr örugga tengingu, jafnvel á þráðlausum Wi-Fi almenningsnetum.
 about-private-browsing-prominent-cta = Haltu þig til hlés með { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Sækja { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Einkavafur á ferðinni
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +46,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Loka
 about-private-browsing-dismiss-button =
     .title = Hafna
+about-private-browsing-promo-close-button =
+    .title = Loka
