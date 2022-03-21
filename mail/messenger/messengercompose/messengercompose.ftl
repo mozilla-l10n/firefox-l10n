@@ -256,6 +256,10 @@ cloud-file-unknown-account-tooltip = Μεταφορτώθηκε σε άγνωσ�
 # Title for the html placeholder file.
 # $filename - name of the file
 cloud-file-placeholder-title = { $filename } - Συνημμένο FileLink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Το αρχείο «{ $filename }» επισυνάφθηκε ως FileLink. Μπορείτε να κάνετε λήψη του από τον παρακάτω σύνδεσμο.
 
 # Template
 
@@ -314,5 +318,7 @@ cloud-file-rename-error-with-custom-message-title = Η μετονομασία τ
 cloud-file-rename-not-supported = Το { $provider } δεν υποστηρίζει τη μετονομασία των ήδη ανεβασμένων αρχείων.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Σφάλμα συνημμένου FileLink
+cloud-file-attachment-error = Αποτυχία ενημέρωσης του συνημμένου «{ $filename }» στο FileLink, επειδή το τοπικό του αρχείο έχει μετακινηθεί ή διαγραφεί.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Σφάλμα λογαριασμού FileLink
+cloud-file-account-error = Αποτυχία ενημέρωσης του συνημμένου «{ $filename }» στο FileLink, επειδή ο λογαριασμός FileLink του έχει διαγραφεί.
