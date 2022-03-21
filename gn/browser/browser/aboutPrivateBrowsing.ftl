@@ -32,6 +32,7 @@ about-private-browsing-hide-activity-1 = Eñomi ñeikundaha rapykuere ha tendait
 about-private-browsing-prominent-cta = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
 about-private-browsing-focus-promo-cta = Emboguejy { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ñeikundaha ñemi pya’eháicha
+about-private-browsing-focus-promo-text = Ore pumbyry rembipuru’i rojapóva oñeikundaha ñemi hag̃ua ombogue ijehegui tembiasakue ha kookie.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
