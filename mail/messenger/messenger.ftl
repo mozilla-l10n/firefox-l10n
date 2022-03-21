@@ -221,3 +221,9 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Aanpassen…
+spaces-customize-background-color = Achtergrondkleur
