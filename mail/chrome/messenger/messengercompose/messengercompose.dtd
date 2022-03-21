@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Uus">
 <!ENTITY newMenu.accesskey "U">
 <!ENTITY newMessage.label "Kiri">
+<!ENTITY newMessage.accesskey "K">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Aadressiraamatu kontakt...">
 <!ENTITY newContact.accesskey "d">
