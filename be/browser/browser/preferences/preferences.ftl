@@ -147,9 +147,6 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць { -brand-short-name }
     .accesskey = в
-switch-to-new-tabs =
-    .label = Пры адкрыцці спасылкі, выявы ці медыя ў новай картцы адразу пераключацца на яе
-    .accesskey = р
 show-tabs-in-taskbar =
     .label = Паказваць мініяцюры картак у панэлі заданняў Windows
     .accesskey = л
@@ -199,6 +196,15 @@ preferences-web-appearance-choice-dark = Цёмная
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Кіруйце тэмамі { -brand-short-name } у <a data-l10n-name="themes-link">пашырэннях і тэмах</a>
+preferences-colors-header = Колеры
+preferences-colors-description = Перавызначыць звычайныя колеры { -brand-short-name } для тэксту, фону вэб-сайтаў, і спасылак.
+preferences-colors-manage-button =
+    .label = Кіраваць колерамі…
+    .accesskey = К
+preferences-fonts-header = Шрыфты
 default-font = Прадвызначаны шрыфт
     .accesskey = П
 default-font-size = Памер
