@@ -208,6 +208,14 @@ preferences-web-appearance-choice-browser = Θέμα του { -brand-short-name 
 preferences-web-appearance-choice-system = Θέμα συστήματος
 preferences-web-appearance-choice-light = Ανοιχτόχρωμο
 preferences-web-appearance-choice-dark = Σκουρόχρωμο
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Χρήση ρυθμίσεων θέματος { -brand-short-name } για φόντο και περιεχόμενο ιστοτόπων.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Χρήση ρυθμίσεων συστήματος για φόντο και περιεχόμενο ιστοτόπων.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Χρήση ανοιχτόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Χρήση σκουρόχρωμης εμφάνισης για φόντο και περιεχόμενο ιστοτόπων.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
