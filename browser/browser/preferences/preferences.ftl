@@ -214,7 +214,7 @@ containers-remove-cancel-button = Peidio Tynnu'r Cynhwysydd Hwn
 
 language-and-appearance-header = Iaith a Gwedd
 fonts-and-colors-header = Ffontiau a Lliwiau
-preferences-web-appearance-header = Ymddangosiad gwefan
+preferences-web-appearance-header = Gwedd gwefan
 preferences-web-appearance-description = Mae rhai gwefannau yn addasu eu cynllun lliw yn seiliedig ar eich dewisiadau. Dewiswch pa gynllun lliw yr hoffech ei ddefnyddio ar gyfer y gwefannau hynny.
 preferences-web-appearance-choice-browser = Thema { -brand-short-name }
 preferences-web-appearance-choice-system = Thema'r system
