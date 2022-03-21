@@ -49,6 +49,7 @@ addr-book-sqlite-file = Base de datos SQLite (.sqlite)
 addr-book-mab-file = Archivo de base de datos Mork (.mab)
 addr-book-file-picker = Seleccione un archivo de libreta de direcciones
 addr-book-csv-field-map-title = Coincidir nombres de campo
+addr-book-csv-field-map-desc = Seleccione los campos de la libreta de direcciones correspondientes a los campos de origen. Desmarque los campos que no desea importar.
 addr-book-directories-pane-title = Seleccione el directorio al que desea importar:
 addr-book-directories-pane-source = Archivo fuente:
 addr-book-import-into-new-directory = Crear nueva carpeta
@@ -64,9 +65,20 @@ error-pane-title = Error
 error-message-zip-file-too-big = El archivo zip seleccionado tiene más de 2GB. Primero extráigalo y luego impórtelo de la carpeta extraída.
 error-message-extract-zip-file-failed = Falló la extracción del archivo zip. Extráigalo de forma manual y luego impórtelo de la carpeta extraída.
 error-message-failed = La importación falló inesperadamente, puede haber más información disponible en la consola de errores.
+error-export-failed = La exportación falló inesperadamente, puede haber más información disponible en la consola de errores.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = La primera fila contiene nombres de campo
+csv-source-field = Campo origen
+csv-source-first-record = Primer registro
+csv-source-second-record = Segundo registro
+csv-target-field = Campo de la libreta de direcciones
 
 ## Export tab
 
+export-profile-desc = Exportar cuentas de correo, mensajes de correo, libretas de direcciones y configuraciones a un archivo zip. Cuando sea necesario, se puede importar el archivo zip para restaurar el perfil.
+export-profile-desc2 = Si su perfil actual tiene más de 2 GB, sugerimos que haga una copia de seguridad usted mismo.
+export-open-profile-folder = Abrir carpeta de perfil
+export-file-picker = Exportar a un archivo zip
+export-brand-name = { -brand-product-name }
