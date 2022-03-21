@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Een extensie, <img
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over hoe { -brand-short-name } verbinding maakt met het internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheert deze instelling.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheert deze instelling.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> vereist containertabbladen.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheert deze instelling.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheert hoe { -brand-short-name } verbinding maakt met het internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,9 +202,31 @@ containers-remove-cancel-button = Deze container niet verwijderen
 
 language-and-appearance-header = Taal en Vormgeving
 fonts-and-colors-header = Lettertypen en kleuren
+preferences-web-appearance-header = Uiterlijk van de website
+preferences-web-appearance-description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
+preferences-web-appearance-choice-browser = { -brand-short-name }-thema
 preferences-web-appearance-choice-system = Systeemthema
 preferences-web-appearance-choice-light = Licht
 preferences-web-appearance-choice-dark = Donker
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Uw { -brand-short-name }-thema-instellingen toepassen op website-achtergronden en -inhoud.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Uw systeeminstellingen toepassen op website-achtergronden en -inhoud.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Een lichte uitstraling voor website-achtergronden en -inhoud gebruiken.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Een donkere uitstraling voor website-achtergronden en -inhoud gebruiken.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Uw kleurselecties hebben voorrang op het uiterlijk van de website. <a data-l10n-name="colors-link">Kleuren beheren</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = U kunt { -brand-short-name }-thema’s beheren in <a data-l10n-name="themes-link">Extensies en thema’s</a>
+preferences-colors-header = Kleuren
+preferences-colors-description = De standaardkleuren van { -brand-short-name } overschrijven voor tekst, website-achtergronden en koppelingen.
+preferences-colors-manage-button =
+    .label = Kleuren beheren…
+    .accesskey = K
 preferences-fonts-header = Lettertypen
 default-font = Standaardlettertype
     .accesskey = S
