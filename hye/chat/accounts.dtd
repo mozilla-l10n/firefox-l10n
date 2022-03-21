@@ -36,6 +36,6 @@
 <!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.showDebugLog.label     "Ցուցադրել վրիպազերծման գրանցամատեանը">
 <!ENTITY account.showDebugLog.accesskey "H">
-<!ENTITY account.connecting           "Կապակցում…">
-<!ENTITY account.disconnecting        "Անջատում…">
+<!ENTITY account.connecting           "Կապակցվում է…">
+<!ENTITY account.disconnecting        "Անջատվում է…">
 <!ENTITY account.disconnected         "Կապակցուած չէ">
