@@ -5,6 +5,8 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Systemtema — automatisk
 extension-thunderbird-compact-light-name = Lyst
 extension-thunderbird-compact-light-description = Et tema med et lyst farveskema.
 extension-thunderbird-compact-dark-name = Mørkt
