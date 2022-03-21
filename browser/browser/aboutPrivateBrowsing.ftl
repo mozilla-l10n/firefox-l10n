@@ -31,6 +31,8 @@ about-private-browsing-get-privacy = Ontvang privacybescherming overal waar u su
 about-private-browsing-hide-activity-1 = Verberg uw surfactiviteiten en locatie met { -mozilla-vpn-brand-name }. Met één klik maakt u een veilige verbinding, zelfs op openbare wifi.
 about-private-browsing-prominent-cta = Blijf privé met { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = { -focus-brand-name } downloaden
+about-private-browsing-focus-promo-header = { -focus-brand-name }: privénavigatie onderweg
+about-private-browsing-focus-promo-text = Onze speciale mobiele app voor privénavigatie wist elke keer uw geschiedenis en cookies.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
