@@ -32,6 +32,7 @@ about-private-browsing-hide-activity-1 = Feldu vafravirkni og staðsetningu með
 about-private-browsing-prominent-cta = Haltu þig til hlés með { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Sækja { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Einkavafur á ferðinni
+about-private-browsing-focus-promo-text = Einkavafurforritið okkar fyrir farsíma hreinsar feril þinn og vefkökur eftir hvert skipti.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

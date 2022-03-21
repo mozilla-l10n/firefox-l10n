@@ -94,6 +94,9 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> stýrir þessari stillingu.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> þarfnast sérefnisflipa.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> stýrir þessari stillingu.
@@ -205,11 +208,22 @@ preferences-web-appearance-choice-browser = { -brand-short-name } þema
 preferences-web-appearance-choice-system = Kerfisþema
 preferences-web-appearance-choice-light = Ljóst
 preferences-web-appearance-choice-dark = Dökkt
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Láta bakgrunn og innihald vefsvæðisins samsvara þemastillingum { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Láta bakgrunn og innihald vefsvæðisins samsvara kerfisstillingum þínum.
 preferences-web-appearance-choice-tooltip-light =
     .title = Nota ljóst útlit fyrir bakgrunn og efni vefsvæðisins.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Nota dökkt útlit fyrir bakgrunn og efni vefsvæðisins.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Viðbætur og þemu</a>
 preferences-colors-header = Litir
+preferences-colors-description = Taka yfir sjálfgefna liti { -brand-short-name } fyrir texta, bakgrunn vefsíðna og tengla.
 preferences-colors-manage-button =
     .label = Stýra litum…
     .accesskey = l
