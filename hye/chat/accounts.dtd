@@ -6,18 +6,18 @@
 <!ENTITY accounts.title                      "Հաշիւներ՝ &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
-<!ENTITY accountsWindow.title                "Ակընթարթային գրութեան վիճակը">
+<!ENTITY accountsWindow.title                "Ընթացիկ հաղորդագրությունների կարգավիճակը">
 <!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
-<!ENTITY accountManager.newAccount.label     "Նոր փոստարկղ">
-<!ENTITY accountManager.newAccount.accesskey "Ն">
+<!ENTITY accountManager.newAccount.label     "Նոր հաշիւ">
+<!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Փակել">
-<!ENTITY accountManager.close.accesskey      "ա">
+<!ENTITY accountManager.close.accesskey      "l">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "Փոստարկղը դեռ կազմաձեւուած չէ">
-<!ENTITY accountManager.noAccount.description "Սեղմէք &accountManager.newAccount.label; կոճակը, որպէսզի &brandShortName;ն առաջնորդի ձեզ նոր փոստարկղ կազմաձեւելու ժամանակ։">
+<!ENTITY accountManager.noAccount.title      "Ոչ մի հաշիւ դեռ կարգաբերուած չէ">
+<!ENTITY accountManager.noAccount.description "Սեղմէք &accountManager.newAccount.label; կոճակը, որպէսզի &brandShortName;֊ն աւգնի Ձեզ նոր հաշիւ կարգաբերելու ժամանակ։">
 <!ENTITY account.autoSignOn.label     "Մուտք գործել բացելիս">
 <!ENTITY account.autoSignOn.accesskey "Մ">
 <!ENTITY account.connect.label        "Կապակցել">
