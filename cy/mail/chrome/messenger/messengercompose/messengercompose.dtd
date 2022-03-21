@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Newydd">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Neges">
+<!ENTITY newMessage.accesskey "N">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY newContact.accesskey "C">
