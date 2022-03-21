@@ -18,8 +18,8 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ոչ մի հաշիւ դեռ կարգաբերուած չէ">
 <!ENTITY accountManager.noAccount.description "Սեղմէք &accountManager.newAccount.label; կոճակը, որպէսզի &brandShortName;֊ն աւգնի Ձեզ նոր հաշիւ կարգաբերելու ժամանակ։">
-<!ENTITY account.autoSignOn.label     "Մուտք գործել բացելիս">
-<!ENTITY account.autoSignOn.accesskey "Մ">
+<!ENTITY account.autoSignOn.label     "Մուտք գործել մեկնարկին">
+<!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Կապակցել">
 <!ENTITY account.connect.accesskey    "ա">
 <!ENTITY account.disconnect.label     "Անջատել">
