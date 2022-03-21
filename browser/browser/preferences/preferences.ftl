@@ -190,6 +190,15 @@ containers-remove-cancel-button = Не выдаляць гэты кантэйн�
 
 language-and-appearance-header = Мова і выгляд
 fonts-and-colors-header = Шрыфты & колеры
+preferences-web-appearance-header = Выгляд вэб-сайтаў
+preferences-web-appearance-description = Некаторыя вэб-сайты адаптуюць сваю колеравую схему ў залежнасці ад вашых пераваг. Выберыце, якую колеравую схему вы хочаце выкарыстоўваць для гэтых сайтаў.
+preferences-web-appearance-choice-browser = Тэма { -brand-short-name }
+preferences-web-appearance-choice-system = Сістэмная тэма
+preferences-web-appearance-choice-light = Светлая
+preferences-web-appearance-choice-dark = Цёмная
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
 default-font = Прадвызначаны шрыфт
     .accesskey = П
 default-font-size = Памер
