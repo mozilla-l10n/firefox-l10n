@@ -8,13 +8,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Get ekki tengst">
-<!ENTITY connectionFailure.longDesc "<p>Þótt svæðið virðist vera gilt, getur vafrinn ekki tengst því.</p><ul><li>Gæti verið að vefsvæðið sé niðri tímabundið? Reyndu aftur seinna.</li><li>Geturðu ekki tengst við önnur svæði?  Athugaðu netstillingar tölvu.</li><li>Er tölvan þín eða net varið af eldvegg eða milliþjóni? Rangar stillingar geta haft áhrif á netvafra.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Þótt svæðið virðist vera gilt, getur vafrinn ekki tengst því.</p><ul><li>Gæti verið að vefsvæðið sé niðri tímabundið? Reyndu aftur seinna.</li><li>Geturðu ekki tengst við önnur vefsvæði?  Athugaðu netstillingar tölvu.</li><li>Er tölvan þín eða net varið af eldvegg eða milliþjóni? Rangar stillingar geta haft áhrif á netvafra.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Vegna öryggis er aðgangur að þessari gátt ekki leyfður">
 <!ENTITY deniedPortAccess.longDesc "<p>Umbeðið veffang bað um ákveðna gátt (t.d. <q>mozilla.org:80</q> fyrir gátt 80 á mozilla.org) sem er venjulega notað fyrir eitthvað <em>annað</em> að vafra. Vafrinn hefur lokað á beiðnina þér til verndar.</p>">
 
 <!ENTITY dnsNotFound.title "Veffang fannst ekki">
-<!ENTITY dnsNotFound.longDesc "<p>Vafrinn fann ekki vefþjóninn fyrir þetta netfang.</p><ul><li>Slóstu inn rangt netfang? (t.d. <q><strong>ww</strong>.mozilla.org</q> í staðinn fyrir <q><strong>www</strong>.mozilla.org</q>)</li><li>Ertu viss um að þetta vefsvæði sé til?  Vefsvæðið gæti verið útrunnið.</li><li>Geturðu tengst öðrum svæðum?  Athugaðu netstillingar og DNS stillingar tölvu.</li><li>Er tölvan varin af eldvegg eða milliþjóni?  Rangar stillingar geta haft áhrif á vafra.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Vafrinn fann ekki vefþjóninn fyrir þetta netfang.</p><ul><li>Slóstu inn rangt netfang? (t.d. <q><strong>ww</strong>.mozilla.org</q> í staðinn fyrir <q><strong>www</strong>.mozilla.org</q>)</li><li>Ertu viss um að þetta vefsvæði sé til?  Vefsvæðið gæti verið útrunnið.</li><li>Geturðu tengst öðrum vefsvæðum?  Athugaðu netstillingar og DNS stillingar tölvu.</li><li>Er tölvan varin af eldvegg eða milliþjóni?  Rangar stillingar geta haft áhrif á vafra.</li></ul>">
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gæti verið að hluturinn hafi verið endurnefndur, fjarlægður, eða færður til?</li><li>Er stafsetningarvilla, hástafaritun, eða annarskonar stafsetningarvilla í vistfanginu?</li><li>Hefurðu nægar aðgangsheimildir fyrir hlutinn?</li></ul>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Innslegið vistfang er ekki á viðurkenndu sniði. Athugaðu hvort slegið var inn rangt og reyndu aftur.</p>">
 
 <!ENTITY netInterrupt.title "Tenging slitnaði">
-<!ENTITY netInterrupt.longDesc "<p>Vafrinn gat tengst, en tenging var rofin meðan verið var að senda upplýsingar.  Reyndu aftur.</p><ul><li>Geturðu ekki tengst við önnur svæði? Athugaðu netstillingar tölvu.</li><li>Ennþá vandamál? Hafðu samband við kerfisstjóra eða netaðila fyrir hjálp.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Vafrinn gat tengst, en tenging var rofin meðan verið var að senda upplýsingar.  Reyndu aftur.</p><ul><li>Geturðu ekki tengst við önnur vefsvæði? Athugaðu netstillingar tölvu.</li><li>Ennþá vandamál? Hafðu samband við kerfisstjóra eða netþjónustu til að fá aðstoð.</li></ul>">
 
 <!ENTITY notCached.title "Skjal er útrunnið">
 <!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki til í skyndiminni vafrans.</p><ul><li>Vegna öryggisástæðna, nær vafrinn ekki sjálfkrafa aftur í viðkvæm skjöl.</li><li>Smelltu á reyna aftur til að ná aftur í skjalið frá vefsvæðinu.</li></ul>">
@@ -47,16 +47,16 @@
 <!ENTITY netReset.longDesc "<p>Net rofnaði meðan verið var að semja um tengingu. Reynið aftur.</p>">
 
 <!ENTITY netTimeout.title "Tengingin svaraði ekki tímanlega">
-<!ENTITY netTimeout.longDesc "<p>Umbeðið vefsvæði svaraði ekki tengingu og vafrinn hætti að bíða eftir svari.</p><ul><li>Getur verið að svæðið sé í mikilli notkun eða sé niðri tímabundið?  Reyndu aftur seinna.</li><li>Geturðu haft samband við önnur svæði? Athugaðu nettengingu tölvunnar.</li><li>Er tölvan eða netið varið af eldvegg eða milliþjóni?  Rangar stillingar geta haft áhrif á vafra.</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Umbeðið vefsvæði svaraði ekki tengingu og vafrinn hætti að bíða eftir svari.</p><ul><li>Getur verið að svæðið sé í mikilli notkun eða sé niðri tímabundið?  Reyndu aftur seinna.</li><li>Geturðu haft samband við önnur vefsvæði? Athugaðu nettengingu tölvunnar.</li><li>Er tölvan eða netið varið af eldvegg eða milliþjóni? Rangar stillingar geta haft áhrif á vafra.</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netþjónustu til að fá aðstoð.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Óþekkt samskiptaregla">
 <!ENTITY unknownProtocolFound.longDesc "<p>Umbeðið vistfang skilgreinir samskiptareglu (t.d. <q>wxyz://</q>) sem vafrinn kannast ekki við, þannig að vafrinn getur ekki tengst við vefsvæðið.</p><ul><li>Ertu að reyna að tengjast myndefni eða annarskonar gagnaþjónustum? athugaðu á vefsvæðinu hvort þú þurfir fleiri hluti.</li><li>Sumar samskiptareglur þarfnast forrita eða tengiforrita frá þriðja aðila áður en vafrinn getur þekkt þær.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Milliþjónn neitar tengingum">
-<!ENTITY proxyConnectFailure.longDesc "<p>Vafrinn er stilltur til að nota milliþjóna, en milliþjónn hafnaði tengingu.</p><ul><li>Eru vafra stillingar milliþjóns rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir milliþjónn tengingar frá þínu neti?</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Vafrinn er stilltur til að nota milliþjóna, en milliþjónn hafnaði tengingu.</p><ul><li>Eru vafra stillingar milliþjóns rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir milliþjónn tengingar frá þínu neti?</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netþjónustu til að fá aðstoð.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Fann ekki milliþjón">
-<!ENTITY proxyResolveFailure.longDesc "<p>Vafrinn er stilltur til að nota milliþjóna, en milliþjónn fannst ekki.</p><ul><li>Eru vafra stillingar milliþjóns rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir milliþjónn tengingar frá þínu neti?</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netaðila fyrir hjálp.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Vafrinn er stilltur til að nota milliþjóna, en milliþjónn fannst ekki.</p><ul><li>Eru vafra stillingar milliþjóns rétt stilltar? Athugaðu stillingarnar og reyndu aftur.</li><li>Leyfir milliþjónn tengingar frá þínu neti?</li><li>Ennþá vandamál? Hafðu samband við kerfistjóra eða netþjónustu til að fá aðstoð.</li></ul>">
 
 <!ENTITY redirectLoop.title "Lykkja af endurbeiningum">
 <!ENTITY redirectLoop.longDesc "<p>Vafrinn hefur hætt að reyna að ná í umbeðið atriði. Vefsvæðið er að endursenda beiðnina á þann hátt að því mun aldrei ljúka.</p><ul><li>Hefurðu lokað á eða gert vefkökur óvirkar frá þessu vefsvæði?</li><li><em>ATHUGAÐU</em>: Ef þú velur að taka á móti vefkökum frá þessu vefsvæði og það lagar ekki vandamálið, er netþjónninn sjálfur líklega rangt stilltur en ekki tölvan þín.</li></ul>">
