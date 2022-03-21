@@ -100,6 +100,9 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/><strong>{
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong>{ $name }</strong> ohechameme ko ñemboheko.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> oma’ẽag̃ui mba’éichapa ojuaju { -brand-short-name } ñandutíre.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -200,10 +203,13 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
 fonts-and-colors-header = Taity ha sa’ykuéra
 preferences-web-appearance-header = Mba’éicha ojehecha ñanduti renda
+preferences-web-appearance-description = Heta ñanduti renda omohenda isa’y jepurukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jepurukuaa reipotáva umi tendápe g̃uarã.
 preferences-web-appearance-choice-browser = { -brand-short-name } téma
 preferences-web-appearance-choice-system = Apopyvusu téma
 preferences-web-appearance-choice-light = Tesakã
 preferences-web-appearance-choice-dark = Ypytũ
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Emboheko ne téma { -brand-short-name } mba’e tugua ha tetepy ñanduti rendápe g̃uarã.
 preferences-colors-header = Sa’y
 preferences-colors-manage-button =
     .label = Sa’ýre ñeñangareko…
