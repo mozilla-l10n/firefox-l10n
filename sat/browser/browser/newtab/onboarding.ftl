@@ -76,10 +76,20 @@ mr1-onboarding-sign-in-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱛᱮᱭᱟᱨ ᱢᱮ
+mr1-onboarding-default-primary-button-label = ᱢᱩᱞ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = ᱟᱢ ᱥᱟᱶ ᱡᱷᱚᱛᱚ ᱟᱹᱜᱩᱭ ᱢᱮ
+mr1-onboarding-import-subtitle = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, <br/> ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱡᱤᱱᱤᱥ ᱟᱹᱜᱩᱭ ᱢᱮ ᱾
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 mr1-onboarding-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+mr2-onboarding-colorway-header = ᱡᱤᱣᱚᱱ ᱨᱚᱝ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ
 mr2-onboarding-colorway-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 mr2-onboarding-colorway-label-soft = ᱞᱟᱹᱵᱤᱫ
 # "Bold" is used in the sense of bravery or courage, not in the sense of
@@ -123,3 +133,8 @@ mr1-onboarding-theme-label-dark = ᱧᱩᱛ
 ##   $systemLanguage (String) - The name of the OS's language, e.g. "European Spanish"
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
+onboarding-live-language-waiting-button = ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ …
+onboarding-live-language-installing = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠᱮᱴ ᱵᱚᱦᱟᱞᱚᱜ ᱠᱟᱱᱟ …
+onboarding-live-language-secondary-cancel-download = ᱵᱟᱹᱰᱨᱟᱹ
+onboarding-live-language-not-now-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+onboarding-live-language-skip-button-label = ᱟᱲᱟᱜ

@@ -14,6 +14,24 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = O
+places-open-in-window =
+    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = N
+places-open-in-private-window =
+    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = P
+places-add-bookmark =
+    .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱮᱞᱮᱫ ᱢᱮ …
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = ᱯᱚᱴᱚᱢ ᱥᱮᱞᱮᱫᱽ ᱢᱮ …
+    .accesskey = F
+places-add-folder =
+    .label = ᱯᱚᱴᱚᱢ ᱥᱮᱞᱮᱫᱽ ᱢᱮ …
+    .accesskey = o
+places-add-separator =
+    .label = ᱱᱟᱶᱟ ᱵᱷᱮᱜᱟᱨᱟᱜ
+    .accesskey = S
 places-view =
     .label = ᱧᱮᱞ ᱢᱮ
     .accesskey = w
@@ -32,14 +50,66 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ᱢᱟᱹᱦᱤᱛ ᱟᱨ ᱥᱟᱭᱤᱴ ᱫᱟᱨᱟᱭ ᱛᱮ
     .accesskey = t
+places-history-search =
+    .placeholder = ᱱᱟᱜᱟᱢ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 places-history =
     .aria-label = ᱱᱟᱜᱟᱢ
+places-bookmarks-search =
+    .placeholder = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 places-delete-domain-data =
     .label = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ
     .accesskey = F
 places-sortby-name =
     .label = ᱧᱩᱛᱩᱢ ᱫᱟᱨᱟᱭ ᱛᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
+    .accesskey = i
+places-edit-generic =
+    .label = ᱥᱟᱯᱲᱟᱣ …
+    .accesskey = i
+places-edit-folder =
+    .label = ᱯᱚᱴᱚᱢ ᱫᱩᱦᱲᱟᱹ ᱧᱩᱛᱩᱢᱟᱜ ᱢᱮ …
+    .accesskey = e
+places-remove-folder =
+    .label =
+        { $count ->
+            [1] ᱯᱚᱴᱚᱢ ᱚᱪᱚᱜᱽ ᱢᱮ
+            [one] ᱯᱚᱴᱚᱢ ᱚᱪᱚᱜᱽ ᱢᱮ
+            [two] ᱯᱚᱴᱚᱢ ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+           *[other] ᱯᱚᱴᱚᱢ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+        }
+    .accesskey = m
+places-edit-folder2 =
+    .label = ᱯᱚᱴᱚᱢ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
+    .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] ᱯᱚᱴᱚᱢ ᱢᱮᱴᱟᱣ ᱢᱮ
+            [one] ᱯᱚᱴᱚᱢ ᱢᱮᱴᱟᱣ ᱢᱮ
+            [two] ᱯᱚᱴᱚᱢ ᱠᱤᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
+           *[other] ᱯᱚᱴᱚᱢ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ
+        }
+    .accesskey = D
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱥᱚᱢᱵᱷᱵᱲᱟᱣ ᱢᱮ
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = ᱵᱷᱤᱛᱨᱭ ᱯᱚᱴᱚᱢ
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = ᱮᱴᱟᱜᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+places-show-in-folder =
+    .label = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accesskey = F
+places-manage-bookmarks =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+    .accesskey = M
+places-forget-about-this-site-confirmation-title = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱵᱚᱛ ᱛᱮ ᱦᱤᱲᱤᱧ ᱢᱮ
+places-forget-about-this-site-forget = ᱦᱤᱲᱤᱧ
 places-library =
     .title = ᱯᱩᱛᱷᱤ ᱚᱲᱟᱜ
     .style = width:700px; height:500px;
