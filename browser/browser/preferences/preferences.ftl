@@ -187,6 +187,16 @@ containers-remove-cancel-button = Suprimir pas aqueste contenedor
 
 language-and-appearance-header = Lenga e aparéncia
 fonts-and-colors-header = Poliças e colors
+preferences-web-appearance-header = Aparéncia dels sites web
+preferences-web-appearance-choice-browser = Tèma de { -brand-short-name }
+preferences-web-appearance-choice-system = Tèma del sistèma
+preferences-web-appearance-choice-light = Clar
+preferences-web-appearance-choice-dark = Escur
+preferences-colors-header = Colors
+preferences-colors-manage-button =
+    .label = Gestion de las colors…
+    .accesskey = c
+preferences-fonts-header = Poliças
 default-font = Poliça per defaut
     .accesskey = D
 default-font-size = Talha

@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Amagatz vòstras activitats e vòstres em
 about-private-browsing-get-privacy = Protegissètz vòstra vida privada pertot ont navegatz
 about-private-browsing-hide-activity-1 = Amagatz vòstre navegacion e vòstre emplaçament amb { -mozilla-vpn-brand-name }. D’un simple clic, creatz una connexion securizada, amai sus un ret Wi-Fi public.
 about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Telecargar { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Tampar
 about-private-browsing-dismiss-button =
     .title = Ignorar
+about-private-browsing-promo-close-button =
+    .title = Tampar
