@@ -208,6 +208,8 @@ preferences-web-appearance-choice-browser = { -brand-short-name }-Theme
 preferences-web-appearance-choice-system = System-Theme
 preferences-web-appearance-choice-light = Hell
 preferences-web-appearance-choice-dark = Dunkel
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Hintergründe und Inhalte von Websites an die Theme-Einstellungen von { -brand-short-name } anpassen
 preferences-web-appearance-choice-tooltip-system =
     .title = Hintergründe und Inhalte von Websites an die Systemeinstellungen anpassen
 preferences-web-appearance-choice-tooltip-light =
@@ -217,7 +219,11 @@ preferences-web-appearance-choice-tooltip-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ihre Farbauswahl überschreibt das Erscheinungsbild von Websites. <a data-l10n-name="colors-link">Farben verwalten</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Verwalten Sie { -brand-short-name }-Themes in <a data-l10n-name="themes-link">Erweiterungen & Themes</a>
 preferences-colors-header = Farben
+preferences-colors-description = Die Standardfarben von { -brand-short-name } für Text, Website-Hintergründe und Links überschreiben
 preferences-colors-manage-button =
     .label = Farben verwalten…
     .accesskey = F
