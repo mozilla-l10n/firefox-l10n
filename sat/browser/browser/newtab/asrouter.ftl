@@ -158,4 +158,11 @@ spotlight-total-cookie-protection-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵ�
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = ᱢᱤᱫ ᱵᱮᱥ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱫᱚ ᱟᱢ ᱠᱷᱚᱱ ᱮᱛᱦᱚᱵ ᱠᱟᱱᱟ ᱾
+spotlight-peace-mind-header = ᱟᱞᱮ ᱟᱯᱮᱭᱟᱜ ᱡᱚᱛᱱᱟ ᱞᱮ ᱤᱫᱤ ᱟᱠᱟᱫᱼᱟ
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] ᱰᱚᱠ ᱨᱮ ᱫᱚᱦᱚ ᱛᱷᱟᱲ ᱢᱮ
+       *[other] ᱠᱟᱹᱢᱤᱵᱟᱨ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    }
 spotlight-pin-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ

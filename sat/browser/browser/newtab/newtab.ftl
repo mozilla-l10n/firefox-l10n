@@ -117,6 +117,9 @@ newtab-menu-show-privacy-info = ᱟᱞᱮ ᱠᱟᱹᱢᱤᱠᱚ ᱟᱨ ᱟᱢᱟ
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ᱦᱩᱭᱮᱱᱟ
+newtab-privacy-modal-button-manage = ᱜᱚᱲᱚ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
+newtab-privacy-modal-header = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
+newtab-privacy-modal-link = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱱᱤᱥᱚᱱ ᱪᱮᱞᱠᱟ ᱠᱟᱹᱢᱤᱟᱭ ᱵᱟᱲᱟᱭᱢᱮ
 
 ##
 
@@ -171,6 +174,11 @@ newtab-label-source-read-time = { $source } · { $timeToRead } ᱴᱤᱯᱤᱡ
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = ᱛᱷᱚᱠ ᱚᱪᱚᱜᱽ ᱢᱮ
+newtab-section-menu-collapse-section = ᱦᱟᱹᱴᱤᱧ ᱦᱩᱰᱤᱧ ᱪᱷᱚᱭ ᱢᱮ
+newtab-section-menu-expand-section = ᱦᱟᱹᱴᱤᱧ ᱢᱟᱨᱟᱝ ᱪᱷᱚᱭ ᱢᱮ
+newtab-section-menu-manage-section = ᱦᱟᱹᱴᱤᱧ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
+newtab-section-menu-manage-webext = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
+newtab-section-menu-add-topsite = ᱪᱮᱛᱟᱱ ᱨᱤᱱᱟᱜ ᱥᱟᱭᱤᱴ ᱥᱮᱞᱮᱫ ᱢᱮ
 newtab-section-menu-add-search-engine = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 newtab-section-menu-move-up = ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱥᱟᱦᱟ
 newtab-section-menu-move-down = ᱞᱟᱛᱟᱨ ᱪᱟᱞᱟᱣ
@@ -178,12 +186,19 @@ newtab-section-menu-privacy-notice = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = ᱦᱟᱹᱴᱤᱧ ᱦᱩᱰᱤᱧ ᱪᱷᱚᱭ ᱢᱮ
+newtab-section-expand-section-label =
+    .aria-label = ᱦᱟᱹᱴᱤᱧ ᱢᱟᱨᱟᱝ ᱪᱷᱚᱭ ᱢᱮ
 
 ## Section Headers.
 
 newtab-section-header-topsites = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ
 newtab-section-header-highlights = ᱪᱤᱱᱦᱟᱹᱯᱟᱜ ᱠᱚ
 newtab-section-header-recent-activity = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟᱜ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -200,6 +215,8 @@ newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
 newtab-pocket-saved-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
+# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
+newtab-pocket-load-more-stories-button = ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱞᱟᱫᱮ ᱢᱮ
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
@@ -211,5 +228,11 @@ newtab-pocket-saved-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+newtab-custom-shortcuts-subtitle = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
+newtab-custom-sponsored-sites = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
+newtab-custom-pocket-title = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
+newtab-custom-pocket-sponsored = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
+newtab-custom-recent-title = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
