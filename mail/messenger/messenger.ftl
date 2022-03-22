@@ -222,3 +222,29 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Üks lugemata kiri
+           *[other] { $count } lugemata kirja
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Kohanda...
+spaces-customize-panel-title = Rakenduskaartide menüü sätted
+spaces-customize-background-color = Taustavärv
+spaces-customize-icon-color = Nupu värv
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Valitud nupu taustavärv
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Valitud nupu värv
+spaces-customize-button-restore = Taasta vaikeväärtused
+    .accesskey = T
+spaces-customize-button-save = Valmis
+    .accesskey = V
