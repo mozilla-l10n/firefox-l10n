@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Activa la presa en caarga de la foncionalitat experimentala CSS Masonry Layout. Consultatz <a data-l10n-name="explainer">aquesta explicacion</a> per una descripcion de naut nivèl de la foncionalitat. Per enviar vòstres comentaris, mercés de comentar dins <a data-l10n-name="w3c-issue">aqueste senhalament de bug</a> o <a data-l10n-name="bug">aqueste bug</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS : calques en cascada
-experimental-features-css-cascade-layers-description = Activa la presa en carga dels jaces CSS en cascada (cascade layers). Veire l’ <a data-l10n-name="spec">especificacion en cors de creacion</a> per mai de detalhs. Senhalatz tot problèma en creant un bug blocant <a data-l10n-name="bugzilla">bug 1699215</a> s’es ligat a aquesta foncionalitat.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API : WebGPU
 experimental-features-web-gpu-description2 = Aquesta novèla API fornís una presa en carga de nivèl bas per efectuar de calculs e de rendiments grafics amb lo <a data-l10n-name="wikipedia">processor grafic</a> del periferic o de l’ordenador de l’utilizaire. L’<a data-l10n-name="spec">especificacion</a> es encara en òbra. Vejatz lo <a data-l10n-name="bugzilla">bug 1602129</a> per mai de detalhs.
@@ -94,3 +89,6 @@ experimental-features-multi-pip-description = Presa en carga experimentala de la
 experimental-features-ime-search =
     .label = Barra d’adreça : afichar los resultats pendent la composicion IME
 experimental-features-ime-search-description = Un IME (Input Method Editor, editor de metòde de picada) es una aisina que permet la picada de simbòls complexes, tals coma los utilizats per escriure las lengas indianas las d’Asia de l’Èst en utilizant un clavièr ordinari. Activar aquesta experiéncia ten dubèrt lo panèl de la barra d’adreça qu’aficha los resultats de recèrca e de suggestions, pendent que l’IME es utilizat per la picada de tèxtes. Notatz que l’IME poiriá afichar un panèl que cobrís los resultats de recèrca, per consequéncia aquesta preferéncia es sonque suggerida pels IME qu’utilizan pas aquesta mena de panèl.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = Cadena « User-Agent » { -brand-product-name } 100
