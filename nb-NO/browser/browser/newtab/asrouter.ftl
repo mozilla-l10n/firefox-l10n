@@ -155,3 +155,13 @@ spotlight-total-cookie-protection-body = Total beskyttelse mot infokapsler stopp
 spotlight-total-cookie-protection-expanded = { -brand-short-name }bygger et gjerde rundt infokapsler, og begrenser dem til nettstedet du er på, slik at sporere ikke kan bruke dem til å følge deg. Med tidlig tilgang hjelper du med å optimalisere denne funksjonen slik at vi kan fortsette å bygge et bedre nett for alle.
 spotlight-total-cookie-protection-primary-button = Slå på total beskyttelse mot infokapsler
 spotlight-total-cookie-protection-secondary-button = Ikke nå
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Et bedre internett starter med deg
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Behold i Dock
+       *[other] Fest til oppgavelinjen
+    }
+spotlight-pin-secondary-button = Ikke nå
