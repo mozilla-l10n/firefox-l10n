@@ -34,7 +34,13 @@ return-to-amo-add-extension-label = ᱯᱟᱥᱱᱟᱣ ᱥᱮᱞᱮᱫ ᱢᱮ
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> ᱨᱮ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+onboarding-multistage-welcome-primary-button-label = ᱥᱮᱴᱚᱯᱷ ᱮᱛᱦᱚᱵ ᱢᱮ
 onboarding-multistage-welcome-secondary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
+onboarding-multistage-welcome-secondary-button-text = ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱥᱮ ?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ <span data-l10n-name="zap">ᱢᱩᱞ</span> ᱛᱮᱭᱟᱨ ᱢᱮ
+onboarding-multistage-set-default-subtitle = ᱡᱟᱦᱟᱸ ᱛᱤ ᱨᱮ ᱟᱢ ᱵᱽᱨᱟᱩᱡᱽ ᱡᱷᱚᱜ ᱨᱚᱯᱷᱛᱟᱨ, ᱨᱩᱠᱷᱤᱭᱟᱹ , ᱟᱨ ᱩᱠᱩ ᱧᱟᱢ ᱢᱮ ᱾
 onboarding-multistage-set-default-primary-button-label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 onboarding-multistage-set-default-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 onboarding-multistage-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
@@ -57,19 +63,38 @@ mr1-onboarding-reduce-motion-button-label = ᱮᱱᱤᱢᱮᱥᱚᱱ ᱠᱚ ᱵ�
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-welcome-header = { -brand-short-name } ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } ᱫᱚ ᱤᱪᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ
+    .title = { -brand-short-name } ᱫᱚ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱥᱮᱴᱟᱭ ᱟᱨ ᱠᱟᱹᱢᱤᱵᱟᱨ ᱨᱮ ᱴᱷᱚᱠᱟᱣᱟᱭ
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } ᱫᱚ ᱤᱧᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱢᱮ
 mr1-onboarding-set-default-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 mr1-onboarding-sign-in-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱛᱮᱭᱟᱨ ᱢᱮ
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-import-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 mr2-onboarding-colorway-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+mr2-onboarding-colorway-label-soft = ᱞᱟᱹᱵᱤᱫ
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+mr2-onboarding-colorway-label-bold = ᱢᱚᱴᱟ
+# Automatic theme uses operating system color settings
+mr2-onboarding-theme-label-auto = ᱟᱡ ᱛᱮ
+# This string will be used for Default theme
+mr2-onboarding-theme-label-default = ᱢᱩᱞ
+mr1-onboarding-theme-header = ᱟᱢᱟᱜ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
+mr1-onboarding-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ᱥᱭᱥᱴᱟᱹᱢ ᱛᱷᱮᱢ
+mr1-onboarding-theme-label-light = ᱢᱟᱨᱥᱟᱞ
+mr1-onboarding-theme-label-dark = ᱧᱩᱛ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

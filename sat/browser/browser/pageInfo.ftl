@@ -92,7 +92,14 @@ security-view-identity-validity =
 security-view-privacy =
     .value = ᱯᱨᱟᱭᱣᱮᱥᱭ ᱟᱨ ᱦᱤᱛᱟᱹᱞ
 security-view-privacy-history-value = ᱪᱮᱫ ᱤᱧ ᱱᱚᱣᱟ ᱣᱮᱵᱥᱟᱤᱴ ᱛᱮᱦᱮᱧ ᱠᱷᱚᱱ ᱢᱟᱲᱟᱝ ᱤᱧ ᱧᱮᱞ ᱟᱠᱟᱫ ᱟ ?
+security-view-privacy-sitedata-value = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱪᱮᱫ ᱤᱧᱟᱜ ᱵᱤᱵᱨᱚᱬ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱫᱚᱦᱚ ᱮᱫᱟᱭ ᱥᱮ ?
+security-view-privacy-clearsitedata =
+    .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+    .accesskey = C
 security-view-privacy-passwords-value = ᱪᱮᱫ ᱤᱧ ᱱᱚᱣᱟ ᱣᱮᱵ ᱥᱟᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱸᱪᱟᱣ ᱟᱠᱟᱫ ᱟ ?
+security-view-privacy-viewpasswords =
+    .label = ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .accesskey = w
 security-view-technical =
     .value = ᱴᱮᱠᱱᱤᱠᱟᱹᱞ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 help-button =
@@ -104,6 +111,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ᱦᱚᱭ, ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ { $value }{ $unit }
+security-site-data-only = ᱦᱚᱭ, ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ { $value }{ $unit }
+security-site-data-cookies-only = ᱦᱚᱭ, ᱠᱩᱠᱤ ᱠᱚ
+security-site-data-no = ᱵᱟᱝ
 
 ##
 
@@ -171,6 +182,18 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
             [two] { $kb } KB ({ $bytes } byte ᱠᱚ)
            *[other] { $kb } KB ({ $bytes } byte ᱠᱚ)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } ᱪᱤᱛᱟᱹᱨ (ᱮᱱᱤᱢᱮᱴ, { $frames } ᱯᱷᱨᱮᱢ)
+            [two] { $type } ᱪᱤᱛᱟᱹᱨ (ᱮᱱᱤᱢᱮᱴ, { $frames } ᱯᱷᱨᱮᱢ ᱠᱤᱱ)
+           *[other] { $type } ᱪᱤᱛᱟᱹᱨ (ᱮᱱᱤᱢᱮᱴ, { $frames } ᱯᱷᱨᱮᱢ ᱠᱚ)
         }
 # This string is used to display the type of
 # an image
