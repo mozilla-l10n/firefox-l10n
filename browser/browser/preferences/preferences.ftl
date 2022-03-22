@@ -88,6 +88,18 @@ extension-controlled-websites-content-blocking-all-trackers = Laajennus, <img da
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee { -brand-short-name }-selaimen verkkoyhteysasetuksia.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hallitsee tätä asetusta.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hallitsee tätä asetusta.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hallitsee tätä asetusta.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> hallitsee miten { -brand-short-name } yhdistää internetiin.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +199,18 @@ containers-remove-cancel-button = Älä poista eristystilaa
 
 language-and-appearance-header = Kieli ja ulkoasu
 fonts-and-colors-header = Kirjasinlajit ja värit
+preferences-web-appearance-header = Verkkosivuston ulkoasu
+preferences-web-appearance-description = Jotkin verkkosivustot mukauttavat värimaailmaansa valintasi mukaan. Valitse, mitä värimaailmaa haluat käyttää tällaisilla sivustoilla.
+preferences-web-appearance-choice-browser = { -brand-short-name }in teema
+preferences-web-appearance-choice-system = Järjestelmän teema
+preferences-web-appearance-choice-light = Vaalea
+preferences-web-appearance-choice-dark = Tumma
+preferences-colors-header = Värit
+preferences-colors-description = Ohita { -brand-short-name }n oletusvärit tekstille, verkkosivustojen taustoille ja linkeille.
+preferences-colors-manage-button =
+    .label = Hallitse värejä…
+    .accesskey = ä
+preferences-fonts-header = Kirjasimet
 default-font = Oletuskirjasinlaji
     .accesskey = t
 default-font-size = Koko
