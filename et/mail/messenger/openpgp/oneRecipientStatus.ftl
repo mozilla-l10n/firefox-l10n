@@ -24,4 +24,5 @@ openpgp-key-verified = Tunnustatud (kontrollitud)
 openpgp-key-unverified = Tunnustatud (kontrollimata)
 openpgp-key-undecided = Pole tunnustatud (otsustamata)
 openpgp-key-rejected = Pole tunnustatud (tagasi lükatud)
+openpgp-key-expired = Aegunud
 openpgp-intro = Saadaolevad avalikud võtmed võtme { $key } jaoks

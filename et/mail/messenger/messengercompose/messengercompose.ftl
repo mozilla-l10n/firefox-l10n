@@ -322,3 +322,4 @@ cloud-file-attachment-error-title = Filelinki manuse viga
 cloud-file-attachment-error = Filelinki lisatud manust { $filename } polnud võimalik uuendada, sest selle kohalik koopia on minema liigutatud või kustutatud.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Filelinki konto viga
+cloud-file-account-error = Filelinki lisatud manust { $filename } polnud võimalik uuendada, sest Filelinki konto on kustutatud.
