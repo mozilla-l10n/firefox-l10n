@@ -246,8 +246,21 @@ encrypted-bcc-ignore-button = Sain aru
 compose-tool-button-remove-text-styling =
     .tooltiptext = Eemalda teksti stiilid
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Laaditi üles tundmatule Filelinki kontole.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Filelinki manus
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Fail { $filename } lisati teenuse Filelink lingina. Selle saab alla laadida allolevalt lingilt.
 
 # Template
 
@@ -274,13 +287,13 @@ cloud-file-service-provider-footer-multiple = Rohkem teavet teenuste { $firstLin
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Parooliga kaitstud link
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Teenus CloudFile:
+cloud-file-template-service-name = Filelinki teenus:
 cloud-file-template-size = Suurus:
 cloud-file-template-link = Link:
 cloud-file-template-password-protected-link = Parooliga kaitstud link:
@@ -304,3 +317,8 @@ cloud-file-rename-error = Faili { $filename } ümbernimetamisel teenuses { $prov
 cloud-file-rename-error-with-custom-message-title = Faili { $filename } ümbernimetamine teenuses { $provider } ebaõnnestus
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = Teenus { $provider } ei toeta juba üles laaditud failide ümbernimetamist.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelinki manuse viga
+cloud-file-attachment-error = Filelinki lisatud manust { $filename } polnud võimalik uuendada, sest selle kohalik koopia on minema liigutatud või kustutatud.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelinki konto viga
