@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ ᱟ�
 about-private-browsing-get-privacy = ᱟᱢ ᱡᱷᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱽᱨᱟᱩᱡᱽ ᱨᱮᱭᱟᱜ ᱱᱤᱥᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱟᱢ ᱢᱮ
 about-private-browsing-hide-activity-1 = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱟᱨ ᱡᱟᱭᱜᱟ ᱫᱚ { -mozilla-vpn-brand-name } ᱛᱮ ᱩᱠᱩᱭ ᱢᱮ ᱾ ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱣ ᱛᱮᱭᱟᱨ ᱟᱭ, ᱥᱟᱱᱟᱢ Wi-Fi ᱨᱮ ᱦᱚᱸ ᱠᱟᱹᱢᱤᱟᱭ ᱾
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩᱠᱩ ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ
+about-private-browsing-focus-promo-cta = { -focus-brand-name } ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+about-private-browsing-focus-promo-header = { -focus-brand-name }: ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱛᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
+about-private-browsing-focus-promo-text = ᱡᱷᱚᱛᱚ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ ᱟᱞᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱚᱵᱟᱭᱤᱞ ᱮᱯ ᱜᱷᱤᱲ ᱜᱮ ᱟᱹᱵᱤᱱᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱢᱮᱴᱟᱣᱟᱭ ᱾
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 about-private-browsing-dismiss-button =
     .title = ᱵᱚᱸᱫ
+about-private-browsing-promo-close-button =
+    .title = ᱵᱚᱸᱫᱽ
