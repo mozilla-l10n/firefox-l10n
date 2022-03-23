@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Polices
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Polices pour
     .accesskey = o
-
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportionnelle
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
-
 fonts-proportional-size = Taille
     .accesskey = T
-
 fonts-serif = Sérif
     .accesskey = S
-
 fonts-sans-serif = Sans sérif
     .accesskey = n
-
 fonts-monospace = Largeur fixe
     .accesskey = L
-
 fonts-monospace-size = Taille
     .accesskey = e
-
-fonts-minsize = Taille minimale de la police
+fonts-minsize = Taille minimale des polices
     .accesskey = m
-
 fonts-minsize-none =
     .label = Aucune
-
 fonts-allow-own =
     .label = Autoriser les pages web à utiliser leurs propres polices au lieu de celles choisies ci-dessus
     .accesskey = h
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
