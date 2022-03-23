@@ -161,6 +161,7 @@ spotlight-total-cookie-protection-secondary-button = Ҳоло не
 spotlight-better-internet-header = Интернети беҳтар аз шумо оғоз мешавад
 spotlight-better-internet-body = Вақте ки шумо аз «{ -brand-short-name }» истифода мебаред, шумо барои интернети кушод ва дастрас овоз медиҳед, ки барои ҳамаи корбарон беҳтар аст.
 spotlight-peace-mind-header = Мо шуморо бо ғамхорӣ фаро гирифтем
+spotlight-peace-mind-body = Ҳар моҳ, { -brand-short-name } ба ҳисоби миёна зиёда аз 3000 воситаи пайгириро барои як корбар манъ мекунад. Ҳеҷ чиз, алалхусус мушкилиҳои монанди васоити пайгирӣ, набояд байни шумо ва Интернети нек монеъ шавад.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Нигоҳ доштан дар мустақар
