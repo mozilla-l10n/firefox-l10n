@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = An extension, <img
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = An extension, <img data-l10n-name="icon"/> { $name }, is controlling how { -brand-short-name } connects to the internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> requires Container Tabs.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controls how { -brand-short-name } connects to the internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,32 @@ containers-remove-cancel-button = Don’t remove this Container
 
 language-and-appearance-header = Language and Appearance
 fonts-and-colors-header = Fonts and Colours
+preferences-web-appearance-header = Web site appearance
+preferences-web-appearance-description = Some web sites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
+preferences-web-appearance-choice-browser = { -brand-short-name } theme
+preferences-web-appearance-choice-system = System theme
+preferences-web-appearance-choice-light = Light
+preferences-web-appearance-choice-dark = Dark
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Match your { -brand-short-name } theme settings for web site backgrounds and content.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Match your system settings for web site backgrounds and content.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Use a light appearance for web site backgrounds and content.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Use a dark appearance for web site backgrounds and content.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Your colour selections are overriding web site appearance. <a data-l10n-name="colors-link">Manage colours</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Manage { -brand-short-name } themes in <a data-l10n-name="themes-link">Extensions & Themes</a>
+preferences-colors-header = Colours
+preferences-colors-description = Override { -brand-short-name }’s default colours for text, web site backgrounds, and links.
+preferences-colors-manage-button =
+    .label = Manage Colours…
+    .accesskey = C
+preferences-fonts-header = Fonts
 default-font = Default font
     .accesskey = D
 default-font-size = Size
