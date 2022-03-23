@@ -53,6 +53,7 @@ pocket-panel-home-explore-popular-topics = Razišči pogoste teme
 pocket-panel-home-discover-more = Odkrijte več
 pocket-panel-home-explore-more = Razišči
 pocket-panel-home-most-recent-saves = Tukaj so vaši nazadnje shranjeni predmeti:
+pocket-panel-home-most-recent-saves-loading = Nalaganje nedavno shranjene vsebine …
 pocket-panel-home-new-user-cta = Kliknite gumb { -pocket-brand-name } da shranite članke, videoposnetke in povezave.
 pocket-panel-home-new-user-message = Oglejte si svoje nedavne shranjene predmete.
 
