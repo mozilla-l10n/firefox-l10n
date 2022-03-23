@@ -20,7 +20,7 @@ settings-page-title = Stillingar
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = Finna í stillingum
-managed-notice = Vafranum þínum er stjórnað af kerfisstjórum þínum.
+managed-notice = Vafranum er stjórnað af kerfisstjórum þínum.
 category-list =
     .aria-label = Flokkar
 pane-general-title = Almennt
@@ -962,7 +962,7 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 
 content-blocking-enhanced-tracking-protection = Aukin rakningarvörn
 content-blocking-section-top-level-description = Rekjarar fylgjast með þér á netinu til að safna upplýsingum um vafurvenjur þínar og áhugamál. { -brand-short-name } hindrar marga af þessum rekjurum og auk annarra skaðlegra skrifta.
-content-blocking-learn-more = Læra meira
+content-blocking-learn-more = Frekari upplýsingar
 content-blocking-fpi-incompatibility-warning = Þú ert að nota First Party Isolation (FPI), sem er æðra en sumar af vefkökustillingum { -brand-short-name }.
 
 ## These strings are used to define the different levels of
@@ -1096,8 +1096,8 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Gagnasöfnun og notkun
-collection-description = Við reynum alltaf að bjóða upp á valkvæmni og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
+collection-header = Gagnasöfnun { -brand-short-name } og notkun
+collection-description = Við reynum alltaf að bjóða upp á valkosti og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
 collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
 collection-health-report-telemetry-disabled-link = Frekari upplýsingar
