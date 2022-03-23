@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Une extension, <im
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Une extension, <img data-l10n-name="icon"/> { $name }, contrôle la façon dont { -brand-short-name } se connecte à Internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> contrôle ce paramètre.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> contrôle ce paramètre.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> a besoin des onglets conteneurs.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> contrôle ce paramètre.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> contrôle la manière dont { -brand-short-name } se connecte à Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -188,10 +203,15 @@ containers-remove-cancel-button = Ne pas supprimer ce conteneur
 language-and-appearance-header = Langue et apparence
 fonts-and-colors-header = Polices et couleurs
 preferences-web-appearance-header = Apparence des sites web
+preferences-web-appearance-description = Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites.
 preferences-web-appearance-choice-browser = Thème de { -brand-short-name }
 preferences-web-appearance-choice-system = Thème du système
 preferences-web-appearance-choice-light = Clair
 preferences-web-appearance-choice-dark = Sombre
+preferences-web-appearance-choice-tooltip-light =
+    .title = Utiliser un thème clair pour les arrière-plans et le contenu des sites web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Utiliser un thème sombre pour les arrière-plans et le contenu des sites web.
 preferences-fonts-header = Polices
 default-font = Police par défaut
     .accesskey = P
