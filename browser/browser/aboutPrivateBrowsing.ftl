@@ -39,6 +39,11 @@ about-private-browsing-focus-promo-cta = Scarica { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigazione anonima ovunque ti trovi
 about-private-browsing-focus-promo-text = La nostra app mobile disegnata per la navigazione anonima elimina automaticamente cronologia e cookie.
 
+about-private-browsing-focus-promo-header-b = Porta la navigazione anonima sul tuo telefono
+about-private-browsing-focus-promo-text-b = Utilizza { -focus-brand-name } quando hai bisogno di cercare qualcosa senza lasciare tracce nel tuo browser principale.
+about-private-browsing-focus-promo-header-c = Privacy a un livello superiore per i tuoi dispositivi mobili
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } elimina automaticamente la cronologia, oltre a bloccare pubblicità ed elementi traccianti.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
