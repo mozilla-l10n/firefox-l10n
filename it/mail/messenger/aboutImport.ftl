@@ -10,12 +10,14 @@ import-from-app = Importa da applicazione
 import-from-app-desc = Scegli di importare account, rubriche, calendari e altri dati da:
 import-address-book = Importa file della rubrica
 import-calendar = Importa file del calendario
+export-profile = Esporta
 
 ## Buttons
 
 button-cancel = Annulla
 button-back = Indietro
 button-continue = Continua
+button-export = Esporta
 
 ## Import from app steps
 
@@ -31,7 +33,6 @@ profiles-pane-desc = Scegli la posizione da cui importare
 profile-file-picker-dir = Seleziona una cartella del profilo
 profile-file-picker-zip = Seleziona un file zip (dimensione inferiore a 2 GB)
 items-pane-title = Seleziona che cosa importare
-items-pane-desc = Importa da
 items-pane-source = Percorso di origine:
 items-pane-checkbox-accounts = Account e impostazioni
 items-pane-checkbox-address-books = Rubriche
@@ -44,6 +45,7 @@ import-from-addr-book-file-desc = Seleziona il tipo di file da importare:
 addr-book-csv-file = File con valori delimitati da virgole o tabulazioni (.csv, .tsv)
 addr-book-ldif-file = File LDIF (.ldif)
 addr-book-vcard-file = File vCard (.vcf, .vcard)
+addr-book-sqlite-file = File di database SQLite (.sqlite)
 addr-book-mab-file = File di database Mork (.mab)
 addr-book-file-picker = Seleziona un file di rubrica
 addr-book-directories-pane-title = Seleziona la cartella in cui effettuare l’importazione:
@@ -59,3 +61,9 @@ error-pane-title = Errore
 error-message-zip-file-too-big = Il file ZIP selezionato è più grande di 2 GB. Estrarre i file e importarli dalla cartella estratta.
 error-message-extract-zip-file-failed = Estrazione del file ZIP non riuscita. Estrarre i file manualmente, quindi importarli dalla cartella estratta.
 error-message-failed = Importazione non riuscita per un errore inatteso; potrebbero essere disponibili ulteriori informazioni nella console degli errori.
+
+## <csv-field-map> element
+
+
+## Export tab
+
