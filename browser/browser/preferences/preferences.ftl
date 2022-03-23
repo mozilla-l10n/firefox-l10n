@@ -121,7 +121,7 @@ search-results-help-link = Þarftu aðstoð? Skoðaðu <a data-l10n-name="url">{
 
 startup-header = Ræsing
 always-check-default =
-    .label = Alltaf athuga hvort { -brand-short-name } sé sjálfgefin vafri
+    .label = Alltaf athuga hvort { -brand-short-name } sé sjálfgefinn vafri
     .accesskey = l
 is-default = { -brand-short-name } er núna sjálfgefinn vafri
 is-not-default = { -brand-short-name } er ekki sjálfgefinn vafri
