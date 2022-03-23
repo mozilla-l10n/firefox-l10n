@@ -13,6 +13,7 @@ import-from-thunderbird-dir =
     .label = Thunderbird (profilmappe)
     .accesskey = p
 import-select-profile-zip = Vælg en zip-komprimeret profilmappe
+import-select-profile-dir = Vælg en profilmappe
 zip-file-too-big-title = Den ZIP-komprimerede fil er for stor
 zip-file-too-big-message = Den valgte ZIP-komprimerede fil er større end 2 GB. Udpak den først, og importer derefter fra den udpakkede mappe i stedet.
 wizardpage-failed =
