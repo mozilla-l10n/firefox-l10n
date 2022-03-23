@@ -212,6 +212,17 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Utiliser un thème clair pour les arrière-plans et le contenu des sites web.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Utiliser un thème sombre pour les arrière-plans et le contenu des sites web.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Vos sélections de couleurs changent l’apparence des sites web. <a data-l10n-name="colors-link">Gérer les couleurs</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Gérez les thèmes de { -brand-short-name } depuis la section <a data-l10n-name="themes-link">Extensions et thèmes</a>
+preferences-colors-header = Couleurs
+preferences-colors-description = Remplacez les couleurs par défaut de { -brand-short-name } pour le texte, les arrière-plans de sites web et les liens.
+preferences-colors-manage-button =
+    .label = Gérer les couleurs…
+    .accesskey = c
 preferences-fonts-header = Polices
 default-font = Police par défaut
     .accesskey = P
