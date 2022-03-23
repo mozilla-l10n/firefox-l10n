@@ -31,6 +31,8 @@ about-private-browsing-get-privacy = Protégez votre vie privée partout où vou
 about-private-browsing-hide-activity-1 = Masquez votre navigation et votre emplacement avec { -mozilla-vpn-brand-name }. D’un simple clic, créez une connexion sécurisée, même sur un réseau Wi-Fi public.
 about-private-browsing-prominent-cta = Gardez votre vie privée avec { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Télécharger { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name } : navigation privée mobile
+about-private-browsing-focus-promo-text = Notre application mobile dédiée à la navigation privée efface votre historique et vos cookies après chaque utilisation.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
