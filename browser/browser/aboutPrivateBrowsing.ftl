@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Skrijte svojo dejavnost in lokacijo povso
 about-private-browsing-get-privacy = Zaščitite svojo zasebnost, kjerkoli brskate
 about-private-browsing-hide-activity-1 = Skrijte svojo dejavnost in lokacijo z { -mozilla-vpn-brand-name }. Z enim klikom vzpostavite varno povezavo, celo na javnih omrežjih Wi-Fi.
 about-private-browsing-prominent-cta = Ohranite svojo zasebnost z { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Prenesite { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Zapri
 about-private-browsing-dismiss-button =
     .title = Opusti
+about-private-browsing-promo-close-button =
+    .title = Zapri

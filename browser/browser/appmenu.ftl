@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Nastavitve
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi nastavitve …
+profiler-popup-disabled = Spremljanje delovanja je trenutno onemogočeno, najverjetneje zato, ker je odprto okno zasebnega brskanja.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Uredi nastavitve …
-profiler-popup-disabled = Spremljanje delovanja je trenutno onemogočeno, najverjetneje zato, ker je odprto okno zasebnega brskanja.
 profiler-popup-recording-screen = Spremljanje …
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -234,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Povratne informacije …
     .accesskey = v
+appmenu-help-share-ideas =
+    .label = Sporočite ideje in povratne informacije …
+    .accesskey = D
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
