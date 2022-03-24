@@ -211,6 +211,12 @@ preferences-web-appearance-choice-browser = Тэма { -brand-short-name }
 preferences-web-appearance-choice-system = Сістэмная тэма
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Цёмная
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Адпавядаць наладам тэмы { -brand-short-name } для фону і змесціва сайтаў.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Адпавядаць сістэмным наладам для фону і змесціва сайтаў.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Выкарыстоўваць светлы выгляд для фону і змесціва сайтаў.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Выкарыстоўваць цёмны выгляд для фону і змесціва сайтаў.
 # This can appear when using windows HCM or "Override colors: always" without
