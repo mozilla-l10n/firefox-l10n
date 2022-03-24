@@ -25,3 +25,14 @@ calendar-invitation-datetime-date = { $dayOfWeek }, { $date }
 calendar-invitation-datetime-time = { $time } ({ $timezone })
 calendar-invitation-panel-prop-title-attendees = Osallistujat:
 calendar-invitation-panel-prop-title-description = Kuvaus:
+# Variables:
+# $partStat (String) - String indicating the participation status of an attendee.
+calendar-invitation-panel-partstat-summary =
+    { $partStat ->
+        [ACCEPTED] { $count } kyllä
+        [DECLINED] { $count } ei
+        [TENTATIVE] { $count } ehkä
+        [NEEDS-ACTION] { $count } odottaa
+        [TOTAL] { $count } osallistujaa
+       *[OTHER] { $count } muu
+    }
