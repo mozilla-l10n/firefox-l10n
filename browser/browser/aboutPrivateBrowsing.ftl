@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Ferbergje jo aktiviteit en lokaasje, oera
 about-private-browsing-get-privacy = Untfang privacybeskerming oeral wêr’t jo sneupe
 about-private-browsing-hide-activity-1 = Ferbergje jo sneupaktiviteiten en lokaasje mei { -mozilla-vpn-brand-name }. Mei ien klik meitsje jo in feilige ferbining, sels op iepenbiere wifi.
 about-private-browsing-prominent-cta = Bliuw privee mei { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = { -focus-brand-name } downloade
+about-private-browsing-focus-promo-header = { -focus-brand-name }: priveenavigaasje ûnderweis
+about-private-browsing-focus-promo-text = Us spesjale mobile app foar priveenavigaasje wisket elke kear jo skiednis en cookies.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,4 +46,6 @@ about-private-browsing-search-banner-description =
 about-private-browsing-search-banner-close-button =
     .aria-label = Slute
 about-private-browsing-dismiss-button =
+    .title = Slute
+about-private-browsing-promo-close-button =
     .title = Slute
