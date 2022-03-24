@@ -80,3 +80,5 @@ csv-target-field = Adresboekfjld
 export-profile-desc = E-mailaccounts, e-mailberjochten, adresboeken, ynstellingen eksportearje nei in zipbestân. Wannear nedich kinne jo it zipbestân ymportearje om jo profyl te werstellen.
 export-profile-desc2 = As jo aktuele profyl grutter is as 2 GB, riede wy jo oan der sels in reservekopy fan te meitsjen.
 export-open-profile-folder = Profylmap iepenje
+export-file-picker = Eksportearje nei in zipbestân
+export-brand-name = { -brand-product-name }
