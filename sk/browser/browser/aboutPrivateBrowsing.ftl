@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Skryte svoju aktivitu a polohu, nech ste 
 about-private-browsing-get-privacy = Získajte ochranu súkromia všade, kde prehliadate
 about-private-browsing-hide-activity-1 = Skryte svoju aktivitu a polohu pri prehliadaní pomocou služby { -mozilla-vpn-brand-name }. Jedným kliknutím vytvoríte zabezpečené pripojenie, dokonca aj na verejných sieťach Wi-Fi.
 about-private-browsing-prominent-cta = Ochráňte svoje súkromie so službou { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Nainštalujte si { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: súkromné prehliadanie na cestách
+about-private-browsing-focus-promo-text = Naša mobilná aplikácia zameraná na maximálnu ochranu súkromia vymaže vašu históriu a súbory cookie po každom prehliadaní.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,4 +46,6 @@ about-private-browsing-search-banner-description =
 about-private-browsing-search-banner-close-button =
     .aria-label = Zavrieť
 about-private-browsing-dismiss-button =
+    .title = Zavrieť
+about-private-browsing-promo-close-button =
     .title = Zavrieť
