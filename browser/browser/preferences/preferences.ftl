@@ -212,6 +212,13 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Jo { -brand-short-name }-tema-ynstellingen tapasse op website-eftergrûnen en -ynhâld.
 preferences-web-appearance-choice-tooltip-system =
     .title = Jo systeemynstellingen tapasse op website-eftergrûnen en -ynhâld.
+preferences-web-appearance-choice-tooltip-light =
+    .title = In ljochte útstrieling foar website-eftergrûnen en -ynhâld brûke.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = In donkere útstrieling foar website-eftergrûnen en -ynhâld brûke.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website. <a data-l10n-name="colors-link">Kleuren beheare</a>
 default-font = Standertlettertype
     .accesskey = S
 default-font-size = Grutte
