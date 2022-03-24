@@ -146,3 +146,14 @@ spotlight-public-wifi-vpn-link = Mačči tura
 
 spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
 spotlight-total-cookie-protection-secondary-button = Mačči tura
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Internet igerrzen yis-k
+spotlight-peace-mind-header = Ad neḍmen ammesten-ik
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Eǧǧ deg Dock
+       *[other] Senteḍ ɣer ufaggag n twuriwin
+    }
+spotlight-pin-secondary-button = Mačči tura
