@@ -71,6 +71,9 @@ error-export-failed = Eksportearjen is ûnferwacht mislearre, mear ynformaasje i
 
 csv-first-row-contains-headers = Earste rige befettet fjildnammen
 csv-source-field = Boarnefjild
+csv-source-first-record = Earste rekord
+csv-source-second-record = Twadde rekord
+csv-target-field = Adresboekfjld
 
 ## Export tab
 
