@@ -221,3 +221,29 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Ien net-lêzen berjocht
+           *[other] { $count } net-lêzen berjochten
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Oanpasse…
+spaces-customize-panel-title = Taakbalkynstellingen
+spaces-customize-background-color = Eftergrûnkleur
+spaces-customize-icon-color = Knopkleur
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Eftergrûnkleur fan selektearre knop
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Kleur selektearre knop
+spaces-customize-button-restore = Standertwearden werstelle
+    .accesskey = w
+spaces-customize-button-save = Dien
+    .accesskey = D
