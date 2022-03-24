@@ -169,7 +169,7 @@ show-tabs-in-taskbar =
     .label = Паказваць мініяцюры картак у панэлі заданняў Windows
     .accesskey = л
 browser-containers-enabled =
-    .label = Уключыць карткі кантэйнераў
+    .label = Уключыць кантэйнеры картак
     .accesskey = т
 browser-containers-learn-more = Даведацца больш
 browser-containers-settings =
@@ -645,7 +645,7 @@ search-keyword-warning-bookmark = Вы выбралі ключавое слов�
 
 containers-back-button2 =
     .aria-label = Вярнуцца да наладаў
-containers-header = Карткі кантэйнераў
+containers-header = Кантэйнеры картак
 containers-add-button =
     .label = Дадаць новы кантэйнер
     .accesskey = Д
