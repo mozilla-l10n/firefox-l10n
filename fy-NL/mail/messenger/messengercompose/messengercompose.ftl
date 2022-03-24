@@ -248,8 +248,21 @@ encrypted-bcc-ignore-button = Begrepen
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekststyl fuortsmite
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Oplaad nei in ûnbekende Filelink-account.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } – Filelink-bylage
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = It bestân { $filename } is as Filelink tafoege. It is te downloaden fia ûndersteande keppeling.
 
 # Template
 
@@ -276,13 +289,13 @@ cloud-file-service-provider-footer-multiple = Mear ynfo oer { $firstLinks } en {
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Mei wachtwurd befeilige keppeling
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile-tsjinst:
+cloud-file-template-service-name = Filelink-tsjinst:
 cloud-file-template-size = Grutte:
 cloud-file-template-link = Keppeling:
 cloud-file-template-password-protected-link = Mei wachtwurd befeilige keppeling:
@@ -306,3 +319,9 @@ cloud-file-rename-error = Der is in probleem bard by it omneamen fan { $filename
 cloud-file-rename-error-with-custom-message-title = Omneamen fan { $filename } op { $provider } mislearre
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } stipet it omneamen fan al opladen bestannen net.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink-bylageflater
+cloud-file-attachment-error = Kin de Filelink-bylage { $filename } net bywurkje, omdat it lokale bestân ferpleatst of fuortsmiten is.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink-accountflater
+cloud-file-account-error = Kin de Filelink-bylage { $filename } net bywurkje, omdat it de Filelink-account fuortsmiten is.
