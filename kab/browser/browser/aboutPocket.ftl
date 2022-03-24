@@ -58,3 +58,4 @@ pocket-panel-header-sign-in = Kcem
 
 pocket-panel-button-show-all = Sken akk
 pocket-panel-button-add-tags = Rnu tibzimin
+pocket-panel-button-activate = Rmed { -pocket-brand-name } deg { -brand-product-name }

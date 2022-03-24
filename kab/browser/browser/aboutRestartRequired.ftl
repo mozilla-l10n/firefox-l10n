@@ -6,5 +6,6 @@ restart-required-title = Asenker tikkelt-nniḍen yettwasra
 restart-required-header = Suref-aɣ. Mazal kan ciṭ ad t-nseggem uqble ad tkemmleḍ.
 restart-required-intro-brand = { -brand-short-name } yettwalqem deffir ugilal. Sit ɣef { -brand-short-name } akken ad tfakeḍ aleqqem.
 restart-required-description = Ad d-nerr akk isebtar-ik/im, isfuyla akked waccaren ticki yemmed akken ad tuɣaleḍ s zreb ar wanida telliḍ.
-
+restart-required-heading = Sker i tikkelt-nniḍen i wakken ad tkemmleḍ aseqdec n { -brand-short-name }
+window-restoration-info = Isfuyla d waccaren inek ad d-uɣalen s zzerb, slid usligen.
 restart-button-label = Ales asenker n { -brand-short-name }

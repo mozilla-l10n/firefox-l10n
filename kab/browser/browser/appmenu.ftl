@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Iɣewwaren
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ẓreg iɣewwaren
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Ẓreg iɣewwaren
 profiler-popup-disabled =
     Amaɣnay akka tura yensa, ahat ssebba n usfaylu n tunigin tusligt
     yeqqim yeldi.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Ẓreg iɣewwaren
 profiler-popup-recording-screen = Asekles…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -187,20 +187,14 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Uzwirfren yettuwellhen i tuget n tseɣtit n usnas web, s uwzir fessusen maḍi.
 profiler-popup-presets-web-developer-label =
     .label = Aneflay web
-profiler-popup-presets-firefox-platform-description = Uzwirfren yettuwellhen i tseɣtit tagensant n tɣerɣert n Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Tiɣerɣert n Firefox
-profiler-popup-presets-firefox-front-end-description = Uzwirfren yettuwellhen i tseɣtit tagensant n ugrudem n Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Agrudem n Firefox
-profiler-popup-presets-firefox-graphics-description = Uzwirfren yettuwellhen i tezrawt n temlellit n wudlifen n Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Udlifen n Firefox
-profiler-popup-presets-media-description = Uzwirfren yettuwellhen i tesleḍt n wuguren n umeslaw d tvidyut.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
     .label = Udlifen
 profiler-popup-presets-media-label =
     .label = Allalen n teywalt
+profiler-popup-presets-networking-label =
+    .label = Azeṭṭa
 profiler-popup-presets-custom-label =
     .label = Udmawan
 
@@ -238,6 +232,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Efk-d tamuɣli-ik…
     .accesskey = M
+appmenu-help-share-ideas =
+    .label = Bḍu taktiwin d tamawat…
+    .accesskey = B
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
