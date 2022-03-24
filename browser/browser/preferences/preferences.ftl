@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = An extension, <img
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = An extension, <img data-l10n-name="icon"/> { $name }, is controlling how { -brand-short-name } connects to the internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> requires Container Tabs.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controls this setting.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controls how { -brand-short-name } connects to the internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,12 @@ containers-remove-cancel-button = Don’t remove this Container
 
 language-and-appearance-header = Language and Appearance
 fonts-and-colors-header = Fonts and Colours
+preferences-web-appearance-header = Website appearance
+preferences-web-appearance-description = Some websites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
+preferences-web-appearance-choice-browser = { -brand-short-name } theme
+preferences-web-appearance-choice-system = System theme
+preferences-web-appearance-choice-light = Light
+preferences-web-appearance-choice-dark = Dark
 default-font = Default font
     .accesskey = D
 default-font-size = Size
