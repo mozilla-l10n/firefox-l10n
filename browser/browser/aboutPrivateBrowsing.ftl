@@ -32,7 +32,7 @@ about-private-browsing-hide-activity-1 = Verstecken Sie die Surfaktivität und d
 about-private-browsing-prominent-cta = Schützen Sie Ihre Privatsphäre mit { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = { -focus-brand-name } herunterladen
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privates Surfen unterwegs
-about-private-browsing-focus-promo-text = Unsere dedizierte mobile App zum privaten Surfen löscht jedes Mal Ihre Chronik und Ihre Cookies.
+about-private-browsing-focus-promo-text = Unsere speziell für privates Surfen entwickelte mobile App löscht jedes Mal Ihre Chronik und Ihre Cookies.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
