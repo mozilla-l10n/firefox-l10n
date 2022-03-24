@@ -521,7 +521,7 @@ urlbar-result-action-search-tabs = Nadi deg waccaren
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -733,6 +733,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ur d-skan ara izen-a ticki isfuyla udhimen weḥlen
     .accesskey = D
+edit-popup-settings =
+    .label = Sefrek iɣewwaṛen n usfaylu udhim…
+    .accesskey = S
 picture-in-picture-hide-toggle =
     .label = Ffer asfaylu tugna deg tugna
     .accesskey = H
@@ -740,6 +743,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Senkez taqeffalt n udrurem n tvidyut ɣer tama tayeffust
+    .accesskey = F
+picture-in-picture-move-toggle-left =
+    .label = Senkez taqeffalt n udrurem n tvidyut ɣer tama tazelmaḍt
+    .accesskey = Z
 
 ##
 
@@ -760,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Siggez
     .tooltiptext = Siggez asebter-a… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Siggez
-    .tooltiptext = Siggez asebtar-a
 navbar-home =
     .label = Asebter agejdan
     .tooltiptext = Asebter agejdan { -brand-short-name }

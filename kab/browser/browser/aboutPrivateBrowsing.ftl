@@ -30,6 +30,8 @@ about-private-browsing-hide-activity = Ffer armud-ik·im d wadig, anida akk i te
 about-private-browsing-get-privacy = Sεu ammesten n tbaḍnit anida akk tettinigeḍ
 about-private-browsing-hide-activity-1 = Ffer armud d wadig n tunigin s { -mozilla-vpn-brand-name }. Yiwen n usiti, rnu tuqqna , ula ɣef Wi-Fi azayaz.
 about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Sader { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: tunigin tusligt tazirazt
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
