@@ -20,6 +20,13 @@ process-type-webserviceworker = Коркуни хизматрасонии ҷуд
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##
 
+process-type-default = Асосӣ
+process-type-tab = Варақа
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
+# process used to decode media
+process-type-rdd = RDD
 
 ##
 ## Other

@@ -176,6 +176,7 @@ shortcuts-pageAction = Фаъол кардани амал дар саҳифа
 shortcuts-sidebarAction = Нишон/пинҳон кардани навори ҷонибӣ
 shortcuts-modifier-mac = Ctrl, Alt ё аломати «⌘»-ро илова кунед
 shortcuts-modifier-other = Ctrl ё Alt-ро илова кунед
+shortcuts-letter = Ҳарферо ворид кунед
 shortcuts-card-collapse-button = Камтар нишон диҳед
 header-back-button =
     .title = Бозгашт
@@ -194,6 +195,7 @@ install-theme-button = Насб кардани мавзӯъ
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Идоракунӣ
 find-more-addons = Гирифтани ҷузъҳои иловагии бештар
+find-more-themes = Гирифтани мавзӯъҳои бештар
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =

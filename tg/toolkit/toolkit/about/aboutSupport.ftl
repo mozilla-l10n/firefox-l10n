@@ -141,6 +141,9 @@ virtual-monitor-disp = Экрани монитори маҷозӣ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-drivers = Драйверҳо
+gpu-ram = RAM
+gpu-active = Фаъол
 glcontext-crash-guard = OpenGL
 startup-cache-title = Зерҳофизаи оғози кор
 startup-cache-disk-cache-path = Масири зерҳофизаи диск
