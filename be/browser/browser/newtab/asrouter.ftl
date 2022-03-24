@@ -159,3 +159,12 @@ spotlight-total-cookie-protection-body = Поўная ахова кукаў пе
 spotlight-total-cookie-protection-expanded = { -brand-short-name } будуе плот вакол файлаў кукі, абмяжоўваючы іх толькі сайтам, на якім вы знаходзіцеся, таму трэкеры не могуць выкарыстоўваць іх, каб сачыць за вамі. З раннім доступам вы дапаможаце аптымізаваць гэту функцыю, каб мы маглі працягваць ствараць лепшае сеціва для ўсіх.
 spotlight-total-cookie-protection-primary-button = Уключыць поўную ахову кукаў
 spotlight-total-cookie-protection-secondary-button = Не зараз
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Трымаць у доку
+       *[other] Замацаваць на панэлі заданняў
+    }
+spotlight-pin-secondary-button = Не зараз
