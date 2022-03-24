@@ -24,4 +24,5 @@ openpgp-key-verified = Hyväksytty (vahvistettu)
 openpgp-key-unverified = Hyväksytty (ei vahvistettu)
 openpgp-key-undecided = Ei hyväksytty (ei päätetty)
 openpgp-key-rejected = Ei hyväksytty (hylätty)
+openpgp-key-expired = Vanhentunut
 openpgp-intro = Käytettävissä olevat julkiset avaimet kohteelle { $key }

@@ -9,6 +9,8 @@ messenger-window-minimize-button =
     .tooltiptext = Pienennä
 messenger-window-maximize-button =
     .tooltiptext = Suurenna
+messenger-window-restore-down-button =
+    .tooltiptext = Palauta pienemmäksi ikkunaksi
 messenger-window-close-button =
     .tooltiptext = Sulje
 # Variables:
@@ -159,3 +161,44 @@ no-reply-reply-anyway-button = Vastaa silti
 ## error messages
 
 decrypt-and-copy-failures = { $failures }/{ $total } viestin salausta ei voitu purkaa, joten niitä ei kopioitu.
+
+## Spaces toolbar
+
+spaces-context-new-tab-item =
+    .label = Avaa uudessa välilehdessä
+spaces-context-new-window-item =
+    .label = Avaa uudessa ikkunassa
+settings-context-open-settings-item =
+    .label = Avaa asetukset
+settings-context-open-account-settings-item =
+    .label = Avaa tilin asetukset
+settings-context-open-addons-item =
+    .label = Avaa lisäosien hallinta
+
+## Spaces toolbar pinned tab menupopup
+
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Yksi lukematon viesti
+           *[other] { $count } lukematonta viestiä
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Muokkaa…
+spaces-customize-background-color = Taustaväri
+spaces-customize-icon-color = Painikkeen väri
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Valittu painikkeen taustaväri
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Valittu painikkeen väri
+spaces-customize-button-restore = Palauta oletukset
+    .accesskey = o
+spaces-customize-button-save = Valmis
+    .accesskey = V

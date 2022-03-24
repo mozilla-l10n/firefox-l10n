@@ -9,6 +9,7 @@ import-page-title = Tuo
 import-from-app = Tuo sovelluksesta
 import-address-book = Tuo osoitekirjatiedosto
 import-calendar = Tuo kalenteritiedosto
+export-profile = Vie
 
 ## Buttons
 
@@ -30,7 +31,6 @@ profiles-pane-desc = Valitse sijainti, josta tuodaan
 profile-file-picker-dir = Valitse profiilikansio
 profile-file-picker-zip = Valitse zip-tiedosto (pienempi kuin 2 Gt)
 items-pane-title = Valitse tuotavat asiat
-items-pane-desc = Tuo lähteestä
 items-pane-source = Lähteen sijainti:
 items-pane-checkbox-accounts = Tilit ja asetukset
 items-pane-checkbox-address-books = Osoitekirjat
@@ -41,6 +41,7 @@ items-pane-checkbox-mail-messages = Sähköpostiviestit
 
 addr-book-ldif-file = LDIF-tiedosto (.ldif)
 addr-book-vcard-file = vCard-tiedosto (.vcf, .vcard)
+addr-book-sqlite-file = SQLite-tietokantatiedosto (.sqlite)
 addr-book-mab-file = Mork-tietokantatiedosto (.mab)
 addr-book-file-picker = Valitse osoitekirjatiedosto
 addr-book-directories-pane-source = Lähdetiedosto:
@@ -51,3 +52,15 @@ addr-book-import-into-new-directory = Luo uusi kansio
 progress-pane-title = Tuodaan
 progress-pane-finished-desc = Valmis.
 error-pane-title = Virhe
+
+## <csv-field-map> element
+
+csv-first-row-contains-headers = Ensimmäinen rivi sisältää kenttien nimet
+csv-source-field = Lähdekenttä
+csv-target-field = Osoitekirjan kenttä
+
+## Export tab
+
+export-open-profile-folder = Avaa profiilikansio
+export-file-picker = Vie zip-tiedostoon
+export-brand-name = { -brand-product-name }
