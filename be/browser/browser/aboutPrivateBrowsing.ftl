@@ -30,6 +30,7 @@ about-private-browsing-hide-activity = Хавайце сваю актыўнас�
 about-private-browsing-get-privacy = Атрымайце абарону прыватнасці ўсюды, дзе аглядаеце
 about-private-browsing-hide-activity-1 = Хавайце актыўнасць агляду і месцазнаходжанне з дапамогай { -mozilla-vpn-brand-name }. Адзін пстрык стварае бяспечнае злучэнне нават у агульнадаступнай сетцы Wi-Fi.
 about-private-browsing-prominent-cta = Заставайцеся прыватным з { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Сцягнуць { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Закрыць
 about-private-browsing-dismiss-button =
     .title = Схаваць
+about-private-browsing-promo-close-button =
+    .title = Закрыць

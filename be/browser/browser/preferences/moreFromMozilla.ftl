@@ -5,4 +5,9 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-title = Больш ад { -vendor-short-name }
+more-from-moz-category =
+    .tooltiptext = Больш ад { -vendor-short-name }
+more-from-moz-subtitle = Паспрабуйце іншыя прадукты { -vendor-short-name }, якія падтрымліваюць здаровы інтэрнэт.
+more-from-moz-firefox-mobile-title = { -brand-product-name } для мабільных прылад
 more-from-moz-learn-more-link = Даведацца больш
