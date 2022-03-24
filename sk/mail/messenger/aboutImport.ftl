@@ -31,7 +31,6 @@ profiles-pane-desc = Vyberte umiestnenie, z ktorého chcete importovať
 profile-file-picker-dir = Vyberte priečinok profilu
 profile-file-picker-zip = Vyberte súbor zip (menší ako 2 GB)
 items-pane-title = Zvoľte, čo chcete importovať
-items-pane-desc = Importovať z
 items-pane-source = Umiestnenie zdroja:
 items-pane-checkbox-accounts = Účty a nastavenia
 items-pane-checkbox-address-books = Adresáre
@@ -53,9 +52,26 @@ addr-book-import-into-new-directory = Vytvoriť nový priečinok
 ## Import dialog
 
 progress-pane-title = Importuje sa
+progress-pane-importing = Importuje sa
+progress-pane-exporting = Exportuje sa
 progress-pane-finished-desc = Dokončené.
 progress-pane-restart-desc = Reštartovaním dokončíte import.
 error-pane-title = Chyba
 error-message-zip-file-too-big = Zvolený súbor zip je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
 error-message-extract-zip-file-failed = Nepodarilo sa extrahovať súbor zip. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
 error-message-failed = Import neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
+error-export-failed = Export neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
+
+## <csv-field-map> element
+
+csv-first-row-contains-headers = Prvý riadok obsahuje názvy polí
+csv-source-field = Zdrojové pole
+csv-source-first-record = Prvý záznam
+csv-source-second-record = Druhý záznam
+csv-target-field = Pole adresára
+
+## Export tab
+
+export-open-profile-folder = Otvoriť priečinok profilu
+export-file-picker = Exportovať do súboru ZIP
+export-brand-name = { -brand-product-name }
