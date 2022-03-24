@@ -202,7 +202,7 @@ containers-remove-cancel-button = Umgebung behalten
 
 language-and-appearance-header = Sprache und Erscheinungsbild
 fonts-and-colors-header = Schriftarten & Farben
-preferences-web-appearance-header = Erscheinungsbild der Website
+preferences-web-appearance-header = Erscheinungsbild von Websites
 preferences-web-appearance-description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
 preferences-web-appearance-choice-browser = { -brand-short-name }-Theme
 preferences-web-appearance-choice-system = System-Theme
@@ -221,9 +221,9 @@ preferences-web-appearance-choice-tooltip-dark =
 preferences-web-appearance-override-warning = Ihre Farbauswahl überschreibt das Erscheinungsbild von Websites. <a data-l10n-name="colors-link">Farben verwalten</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Verwalten Sie { -brand-short-name }-Themes in <a data-l10n-name="themes-link">Erweiterungen & Themes</a>
+preferences-web-appearance-footer = Verwalten Sie { -brand-short-name }-Themes in <a data-l10n-name="themes-link">Erweiterungen & Themes</a>.
 preferences-colors-header = Farben
-preferences-colors-description = Die Standardfarben von { -brand-short-name } für Text, Website-Hintergründe und Links überschreiben
+preferences-colors-description = Standardfarben von { -brand-short-name } für Text, Website-Hintergründe und Links überschreiben
 preferences-colors-manage-button =
     .label = Farben verwalten…
     .accesskey = F
