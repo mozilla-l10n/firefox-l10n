@@ -52,6 +52,10 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = Ldi deg umeskan n unagraw
     .accesskey = L
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Ldi deg { $handler }
+    .accesskey = D
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -75,6 +79,12 @@ downloads-cmd-show-description =
             [macos] Sken-d di Finder
            *[other] Ldi akaram igebren afaylu
         }
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Ldi yal tikkelt deg { $handler }
+    .accesskey = k
 
 ##
 
@@ -170,6 +180,8 @@ downloading-file-opens-in-minutes = Tawaledyawt deg { $minutes }m…
 downloading-file-opens-in-minutes-and-seconds = Tawaledayawt deg { $minutes }m { $seconds }s…
 downloading-file-opens-in-seconds = Tawaledyawt deg { $seconds }s…
 downloading-file-opens-in-some-time = Tawaledyawt mi ara yemmed…
+downloading-file-click-to-open =
+    .value = Ldi mi ara yemmed
 
 ##
 
@@ -197,6 +209,12 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] Afaylu ur d-yettwasader ara.
+       *[other] { $num } yifuyla ur d-ttwasadren ara.
+    }
+downloads-blocked-from-url = Isadaren ttusweḥlen seg { $url }.
 
 ##
 
