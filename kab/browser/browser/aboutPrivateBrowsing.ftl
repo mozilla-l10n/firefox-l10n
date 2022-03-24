@@ -42,3 +42,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Mdel
+about-private-browsing-dismiss-button =
+    .title = Zgel
+about-private-browsing-promo-close-button =
+    .title = Mdel

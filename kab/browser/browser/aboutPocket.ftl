@@ -51,7 +51,10 @@ pocket-panel-home-explore-more = Snirem
 
 ## Pocket panel header component
 
+pocket-panel-header-my-list = Sken tabdart-iw
 pocket-panel-header-sign-in = Kcem
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Sken akk
+pocket-panel-button-add-tags = Rnu tibzimin
