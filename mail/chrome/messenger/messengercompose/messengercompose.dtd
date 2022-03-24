@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Nová">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Správa">
+<!ENTITY newMessage.accesskey "s">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Kontakt adresára…">
 <!ENTITY newContact.accesskey "K">

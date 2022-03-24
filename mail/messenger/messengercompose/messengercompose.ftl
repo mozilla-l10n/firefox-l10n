@@ -259,6 +259,9 @@ compose-tool-button-remove-text-styling =
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Nahrané do neznámeho účtu Filelink
 
 # Placeholder file
 
@@ -328,5 +331,7 @@ cloud-file-rename-error-with-custom-message-title = Premenovanie súboru { $file
 cloud-file-rename-not-supported = Služba { $provider } nepodporuje premenovanie už nahratých súborov.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-attachment-error-title = Chyba prílohy Filelink
+cloud-file-attachment-error = Aktualizácia prílohy Filelink { $filename } zlyhala, pretože jej lokálny súbor bol presunutý alebo odstránený.
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-account-error-title = Chyba účtu Filelink
+cloud-file-account-error = Prílohu Filelink { $filename } sa nepodarilo aktualizovať, pretože jej účet Filelink bol odstránený.

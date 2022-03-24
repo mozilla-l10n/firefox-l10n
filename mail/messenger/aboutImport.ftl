@@ -10,12 +10,14 @@ import-from-app = Import z aplikácie
 import-from-app-desc = Zvoľte, odkiaľ chcete importovať účty, adresáre, kalendáre a ďalšie údaje:
 import-address-book = Import súboru adresára
 import-calendar = Import súboru s kalendárom
+export-profile = Export
 
 ## Buttons
 
 button-cancel = Zrušiť
 button-back = Naspäť
 button-continue = Pokračovať
+button-export = Exportovať
 
 ## Import from app steps
 
@@ -43,8 +45,11 @@ import-from-addr-book-file-desc = Vyberte typ súboru, ktorý chcete importovať
 addr-book-csv-file = Súbor oddelený čiarkou alebo tabulátorom (.csv, .tsv)
 addr-book-ldif-file = Súbor LDIF (.ldif)
 addr-book-vcard-file = Súbor vCard (.vcf, .vcard)
+addr-book-sqlite-file = Databázový súbor SQLite (.sqlite)
 addr-book-mab-file = Súbor databázy Mork (.mab)
 addr-book-file-picker = Vyberte súbor adresára
+addr-book-csv-field-map-title = Priraďte názvy polí
+addr-book-csv-field-map-desc = Vyberte polia adresára zodpovedajúce zdrojovým poliam. Zrušte začiarknutie polí, ktoré nechcete importovať.
 addr-book-directories-pane-title = Vyberte priečinok, do ktorého chcete importovať:
 addr-book-directories-pane-source = Zdrojový súbor:
 addr-book-import-into-new-directory = Vytvoriť nový priečinok
@@ -72,6 +77,8 @@ csv-target-field = Pole adresára
 
 ## Export tab
 
+export-profile-desc = Exportujte e-mailové účty, e-mailové správy, adresáre, nastavenia ako zálohu do súboru zip. V prípade potreby môžete tento súbor zip importovať a obnoviť svoj profil.
+export-profile-desc2 = Ak je váš aktuálny profil väčší ako 2 GB, odporúčame vám, aby ste si ho zálohovali sami.
 export-open-profile-folder = Otvoriť priečinok profilu
 export-file-picker = Exportovať do súboru ZIP
 export-brand-name = { -brand-product-name }
