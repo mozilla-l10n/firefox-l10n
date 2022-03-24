@@ -49,6 +49,7 @@ addr-book-sqlite-file = SQLite-databasebestân (.sqlite)
 addr-book-mab-file = Mork-databasebestân (.mab)
 addr-book-file-picker = Adresboekbestân selektearje
 addr-book-csv-field-map-title = Fjildnammen oerien komme litte
+addr-book-csv-field-map-desc = Selektearje adresboekfjilden dy’t oerienkomme mei de boarnefjilden. Finkje fjilden út dy’t jo net ymportearje wolle.
 addr-book-directories-pane-title = Selektearje de map dêr’t jo nei ymportearje wolle:
 addr-book-directories-pane-source = Boarnebestân:
 addr-book-import-into-new-directory = Nije map meitsje
@@ -56,15 +57,20 @@ addr-book-import-into-new-directory = Nije map meitsje
 ## Import dialog
 
 progress-pane-title = Ymportearje
+progress-pane-importing = Ymportearje
+progress-pane-exporting = Eksportearje
 progress-pane-finished-desc = Foltôge.
 progress-pane-restart-desc = Opnij starte om it ymportearjen te foltôgjen.
 error-pane-title = Flater
 error-message-zip-file-too-big = It selektearre zip-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
 error-message-extract-zip-file-failed = Kin it zipbestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
 error-message-failed = Ymportearjen is ûnferwachte mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
+error-export-failed = Eksportearjen is ûnferwacht mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Earste rige befettet fjildnammen
+csv-source-field = Boarnefjild
 
 ## Export tab
 
