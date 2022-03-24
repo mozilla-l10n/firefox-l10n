@@ -45,3 +45,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Tutup
 about-private-browsing-dismiss-button =
     .title = Tutup
+about-private-browsing-promo-close-button =
+    .title = Tutup
