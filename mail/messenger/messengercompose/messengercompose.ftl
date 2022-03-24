@@ -248,8 +248,21 @@ encrypted-bcc-ignore-button = Begrepen
 compose-tool-button-remove-text-styling =
     .tooltiptext = Tekstopmaak verwijderen
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Geüpload naar een onbekende Filelink-account.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } – Filelink-bijlage
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Het bestand { $filename } is als Filelink bijgevoegd. Het is te downloaden via onderstaande koppeling.
 
 # Template
 
@@ -276,13 +289,13 @@ cloud-file-service-provider-footer-multiple = Meer info over { $firstLinks } en 
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Met wachtwoord beveiligde koppeling
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = CloudFile-service:
+cloud-file-template-service-name = Filelink-service:
 cloud-file-template-size = Grootte:
 cloud-file-template-link = Koppeling:
 cloud-file-template-password-protected-link = Met wachtwoord beveiligde koppeling:
@@ -306,3 +319,9 @@ cloud-file-rename-error = Er is een probleem opgetreden bij het hernoemen van { 
 cloud-file-rename-error-with-custom-message-title = Hernoemen van { $filename } op { $provider } mislukt
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } ondersteunt het hernoemen van reeds geüploade bestanden niet.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Filelink-bijlagefout
+cloud-file-attachment-error = Kan de Filelink-bijlage { $filename } niet bijwerken, omdat het lokale bestand is verplaatst of verwijderd.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Filelink-accountfout
+cloud-file-account-error = Kan de Filelink-bijlage { $filename } niet bijwerken, omdat de Filelink-account is verwijderd.

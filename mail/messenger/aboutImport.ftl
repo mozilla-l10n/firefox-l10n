@@ -45,8 +45,11 @@ import-from-addr-book-file-desc = Selecteer het bestandstype dat u wilt importer
 addr-book-csv-file = Door komma’s of tabs gescheiden bestand (.csv, .tsv)
 addr-book-ldif-file = LDIF-bestand (.ldif)
 addr-book-vcard-file = vCard-bestand (.vcf, .vcard)
+addr-book-sqlite-file = SQLite-databasebestand (.sqlite)
 addr-book-mab-file = Mork-databasebestand (.mab)
 addr-book-file-picker = Selecteer een adresboekbestand
+addr-book-csv-field-map-title = Veldnamen overeen laten komen
+addr-book-csv-field-map-desc = Selecteer adresboekvelden die overeenkomen met de bronvelden. Vink velden uit die u niet wilt importeren.
 addr-book-directories-pane-title = Selecteer de map waarin u wilt importeren:
 addr-book-directories-pane-source = Bronbestand:
 addr-book-import-into-new-directory = Een nieuwe map maken
@@ -62,6 +65,7 @@ error-pane-title = Fout
 error-message-zip-file-too-big = Het geselecteerde zipbestand is groter dan 2 GB. Pak het eerst uit en importeer het vervolgens uit de uitgepakte map.
 error-message-extract-zip-file-failed = Kan het zipbestand niet uitpakken. Pak het handmatig uit en importeer het vervolgens uit de uitgepakte map.
 error-message-failed = Importeren is onverwacht mislukt, meer informatie is mogelijk beschikbaar in de Foutconsole.
+error-export-failed = Exporteren is onverwacht mislukt, meer informatie is mogelijk beschikbaar in de Foutconsole.
 
 ## <csv-field-map> element
 
@@ -73,6 +77,8 @@ csv-target-field = Adresboekveld
 
 ## Export tab
 
+export-profile-desc = E-mailaccounts, e-mailberichten, adresboeken, instellingen exporteren naar een zipbestand. Indien nodig kunt u het zipbestand importeren om uw profiel te herstellen.
+export-profile-desc2 = Als uw huidige profiel groter is dan 2 GB, raden we u aan er zelf een reservekopie van te maken.
 export-open-profile-folder = Profielmap openen
 export-file-picker = Exporteren naar een zipbestand
 export-brand-name = { -brand-product-name }
