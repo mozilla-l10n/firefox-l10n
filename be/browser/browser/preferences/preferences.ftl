@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Пашырэнне
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Пашырэнне <img data-l10n-name="icon"/> { $name } кантралюе спосаб злучэння { -brand-short-name } з Інтэрнэтам.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> кіруе гэтым параметрам.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> кіруе гэтым параметрам.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> патрабуе кантэйнеры картак.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> кіруе гэтым параметрам.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> кантралюе спосаб злучэння { -brand-short-name } з Інтэрнэтам.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -196,6 +211,8 @@ preferences-web-appearance-choice-browser = Тэма { -brand-short-name }
 preferences-web-appearance-choice-system = Сістэмная тэма
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Цёмная
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Выкарыстоўваць цёмны выгляд для фону і змесціва сайтаў.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
