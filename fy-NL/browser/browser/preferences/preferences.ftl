@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = In útwreiding, <i
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = De útwreiding <img data-l10n-name="icon"/> { $name } bepaalt hoe’t { -brand-short-name } ferbining makket mei it ynternet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheart dizze ynstelling.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheart dizze ynstelling.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> fereasket kontenerljepblêden.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheart dizze ynstelling.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> beheart hoe’t { -brand-short-name } ferbining makket mei it ynternet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,16 @@ containers-remove-cancel-button = Dizze kontener net fuortsmite
 
 language-and-appearance-header = Taal en úterlik
 fonts-and-colors-header = Lettertypen & kleuren
+preferences-web-appearance-header = Uterlik fan de website
+preferences-web-appearance-description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
+preferences-web-appearance-choice-browser = { -brand-short-name }-tema
+preferences-web-appearance-choice-system = Systeemtema
+preferences-web-appearance-choice-light = Ljocht
+preferences-web-appearance-choice-dark = Donker
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Jo { -brand-short-name }-tema-ynstellingen tapasse op website-eftergrûnen en -ynhâld.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Jo systeemynstellingen tapasse op website-eftergrûnen en -ynhâld.
 default-font = Standertlettertype
     .accesskey = S
 default-font-size = Grutte
