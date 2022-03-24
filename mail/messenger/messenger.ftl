@@ -223,3 +223,30 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] 1 neprečítaná správa
+            [few] { $count } neprečítané správy
+           *[other] { $count } neprečítaných správ
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Prispôsobiť…
+spaces-customize-panel-title = Nastavenia panela s nástrojmi Miesta
+spaces-customize-background-color = Farba pozadia
+spaces-customize-icon-color = Farba položky
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Farba pozadia zvolenej položky
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Farba zvolenej položky
+spaces-customize-button-restore = Obnoviť predvolené
+    .accesskey = b
+spaces-customize-button-save = Hotovo
+    .accesskey = H
