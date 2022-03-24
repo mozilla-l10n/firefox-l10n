@@ -219,6 +219,15 @@ preferences-web-appearance-choice-tooltip-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website. <a data-l10n-name="colors-link">Kleuren beheare</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Jo kinne { -brand-short-name }-tema’s beheare yn <a data-l10n-name="themes-link">Utwreidingen en tema’s</a>
+preferences-colors-header = Kleuren
+preferences-colors-description = De standertkleuren fan { -brand-short-name } oerskriuwe foar tekst, website-eftergrûnen en keppelingen.
+preferences-colors-manage-button =
+    .label = Kleuren beheare…
+    .accesskey = K
+preferences-fonts-header = Lettertypen
 default-font = Standertlettertype
     .accesskey = S
 default-font-size = Grutte
