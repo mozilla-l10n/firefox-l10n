@@ -4,6 +4,7 @@
 
 # Dialog close button
 spotlight-dialog-close-button =
+    .title = Chiudi
     .aria-label = Chiudi
 
 ## Mobile download button strings
@@ -16,6 +17,6 @@ spotlight-ios-marketplace-button =
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Ottieni { -focus-brand-name }
-spotlight-focus-promo-subtitle = Scansiona il codice QR per scaricare
+spotlight-focus-promo-subtitle = Scansiona il codice QR per scaricare.
 spotlight-focus-promo-qr-code =
     .alt = Scansiona il codice QR per scaricare { -focus-brand-name }
