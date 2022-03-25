@@ -759,3 +759,10 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } автоматично изпраща данни към { -vendor-short-name }, за да може да подобрим вашето преживяване.
+data-reporting-notification-button =
+    .label = Изберете какво споделяте
+    .accesskey = И
