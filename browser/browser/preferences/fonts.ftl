@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Tiparoj
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Tiparoj por
     .accesskey = T
-
 fonts-langgroup-arabic =
     .label = Araba
 fonts-langgroup-armenian =
@@ -46,7 +44,7 @@ fonts-langgroup-hebrew =
 fonts-langgroup-kannada =
     .label = Kanara
 fonts-langgroup-khmer =
-    .label = Ĥmera
+    .label = Kmera
 fonts-langgroup-korean =
     .label = Korea
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcia
     .accesskey = P
-
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Senserifa
-
 fonts-proportional-size = Grando
     .accesskey = r
-
 fonts-serif = Serifa
     .accesskey = S
-
 fonts-sans-serif = Senserifa
     .accesskey = n
-
 fonts-monospace = Egallarĝa
     .accesskey = E
-
 fonts-monospace-size = Grando
     .accesskey = G
-
 fonts-minsize = Minimuma grando de tiparo
     .accesskey = M
-
 fonts-minsize-none =
     .label = Neniu
-
 fonts-allow-own =
     .label = Permesi al paĝoj elekti siajn proprajn tiparojn, anstataŭ tiujn, kiujn vi supre elektis
     .accesskey = P
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

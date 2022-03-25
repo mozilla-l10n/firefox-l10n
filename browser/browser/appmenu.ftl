@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Agordoj
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifi agordojn…
+profiler-popup-disabled = La rulanalizilo estas nuntempe malaktiva, tre verŝajne pro tio ke fenestro de privata retumo estas malfermita.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modifi agordojn…
-profiler-popup-disabled = La rulanalizilo estas nuntempe malaktiva, tre verŝajne pro tio ke fenestro de privata retumo estas malfermita.
 profiler-popup-recording-screen = Registrado…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -234,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Sendi opiniojn…
     .accesskey = S
+appmenu-help-share-ideas =
+    .label = Dividi ideojn kaj komentojn…
+    .accesskey = D
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

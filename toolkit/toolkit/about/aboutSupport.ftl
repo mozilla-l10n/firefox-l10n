@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Ŝlosilo de la pozicia servo de Google
 app-basics-safebrowsing-key-google = Ŝlosilo de Google Safebrowsing
 app-basics-key-mozilla = Ŝlosilo de la servo de pozicio de Mozilla
 app-basics-safe-mode = Sekura reĝimo
+app-basics-memory-size = Grando de memoro (RAM)
+app-basics-disk-available = Disponebla diska spaco
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Montri en dosierserĉilo

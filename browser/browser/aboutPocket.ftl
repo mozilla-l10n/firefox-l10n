@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Aldoni langetojn
-
 pocket-panel-saved-error-generic = Okazis eraro dum la klopodo konservi en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etikedoj povas enhavi ĝis 25 signojn
 pocket-panel-saved-error-only-links = Nur ligiloj povas esti konservitaj
@@ -48,3 +47,13 @@ pocket-panel-home-paragraph = Vi povas uzi { -pocket-brand-name } por esplori ka
 pocket-panel-home-explore-popular-topics = Esplori popularajn temojn
 pocket-panel-home-discover-more = Malkovri pli da aferoj
 pocket-panel-home-explore-more = Esplori
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Vidi mian liston
+pocket-panel-header-sign-in = Komenci seancon
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Montri ĉion
+pocket-panel-button-add-tags = Aldoni langetojn
