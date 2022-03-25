@@ -777,3 +777,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = Cuiridh { -brand-short-name } beagan dàta dha { -vendor-short-name } ach an urrainn dhuinn piseach a thoirt air.
+data-reporting-notification-button =
+    .label = Co-dhùin na thèid a cho-roinneadh
+    .accesskey = C
