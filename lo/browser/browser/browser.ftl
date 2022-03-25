@@ -367,6 +367,13 @@ popups-infobar-dont-show-message =
     .label = ບໍສະແດງຂໍ້ຄວາມນີ້ເມື່ອປັອບອັບບໍໄດ້ຮັບການບັອກ
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -378,9 +385,6 @@ navbar-overflow =
 navbar-print =
     .label = ພິມ
     .tooltiptext = ພິມຫນ້ານີ້… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = ພິມ
-    .tooltiptext = ພິມຫນ້ານີ້
 navbar-home =
     .label = ຫນ້າຫລັກ
     .tooltiptext = ຫນ້າຫລັກ { -brand-short-name }
@@ -399,3 +403,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = ສະແດງລາຍຊື່ແຖບທັງໝົດ
     .tooltiptext = ສະແດງລາຍຊື່ແຖບທັງໝົດ
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
