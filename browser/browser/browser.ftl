@@ -506,3 +506,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } avtomatik bəzi məlumatları { -vendor-short-name } mərkəzinə göndərir ki, biz sizin səyyahda işləməyinizi daha da asanlaşdıra bilək.
