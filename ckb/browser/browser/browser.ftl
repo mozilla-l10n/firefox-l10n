@@ -509,6 +509,13 @@ picture-in-picture-hide-toggle =
     .label = هێمادانانی وێنە-لەناو-وێنە بشارەوە
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -525,9 +532,6 @@ navbar-overflow =
 navbar-print =
     .label = چاپکردن
     .tooltiptext = ئەم پەڕەیە چاپبکە...({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = چاپکردن
-    .tooltiptext = ئەم پەڕەیە چاپبکە
 navbar-home =
     .label = ماڵەوە
     .tooltiptext = پەڕەی سەرەکی { -brand-short-name }
@@ -548,3 +552,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = هەموو بازدەرەکان لیست بکە
     .tooltiptext = هەموو بازدەرەکان لیست بکە
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
