@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = Seite entfernt
 pocket-panel-saved-page-saved = Bei { -pocket-brand-name } gespeichert
 pocket-panel-saved-page-saved-b = Bei { -pocket-brand-name } gespeichert!
 pocket-panel-saved-processing-remove = Seite wird entfernt…
+pocket-panel-saved-removed = Seite aus Meine Liste entfernt
 pocket-panel-saved-processing-tags = Tags werden hinzugefügt…
 pocket-panel-saved-remove-page = Seite entfernen
 pocket-panel-saved-save-tags = Speichern
@@ -28,6 +29,8 @@ pocket-panel-saved-saving-tags = Speichern…
 pocket-panel-saved-suggested-tags = Vorgeschlagene Tags
 pocket-panel-saved-tags-saved = Tags hinzugefügt
 pocket-panel-signup-view-list = Liste anzeigen
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Tags hinzufügen:
 
 ## about:pocket-signup panel
 
@@ -69,3 +72,4 @@ pocket-panel-header-sign-in = Anmelden
 pocket-panel-button-show-all = Alle anzeigen
 pocket-panel-button-add-tags = Tags hinzufügen
 pocket-panel-button-activate = { -pocket-brand-name } in { -brand-product-name } aktivieren
+pocket-panel-button-remove = Entfernen
