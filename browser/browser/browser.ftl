@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Print
     .tooltiptext = Print this page… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Print
-    .tooltiptext = Print this page
 navbar-home =
     .label = Home
     .tooltiptext = { -brand-short-name } Home Page
@@ -795,3 +792,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Open previous tabs?</strong> You can restore your previous session from the { -brand-short-name } application menu <img data-l10n-name="icon"/>, under History.
 restore-session-startup-suggestion-button = Show me how
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
