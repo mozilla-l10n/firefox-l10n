@@ -473,3 +473,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } ផ្ញើ​ទិន្នន័យ​មួយ​ចំនួន​ដោយ​ស្វ័យប្រវត្តិ​ទៅកាន់ { -vendor-short-name } ដូច្នេះ​យើង​អាច​ធ្វើឲ្យ​បទពិសោធន៍​របស់​អ្នក​ប្រសើរ​ឡើង។
+data-reporting-notification-button =
+    .label = ជ្រើស​អ្វី​ដែល​ខ្ញុំ​ចែករំលែក
+    .accesskey = C
