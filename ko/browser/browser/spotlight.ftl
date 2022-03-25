@@ -11,6 +11,12 @@ spotlight-dialog-close-button =
 
 spotlight-android-marketplace-button =
     .title = Google Play에서 받기
+spotlight-ios-marketplace-button =
+    .title = 앱 스토어에서 다운로드
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = { -focus-brand-name } 받기
+spotlight-focus-promo-subtitle = 다운로드하려면 QR 코드를 스캔하세요.
+spotlight-focus-promo-qr-code =
+    .alt = QR 코드를 스캔하여 { -focus-brand-name } 받기
