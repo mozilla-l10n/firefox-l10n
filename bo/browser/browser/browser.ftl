@@ -427,6 +427,13 @@ popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -438,9 +445,6 @@ navbar-overflow =
 navbar-print =
     .label = པར་འདེབས
     .tooltiptext = དྲ་ངོས་འདི་པར་འདེབས… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = པར་འདེབས
-    .tooltiptext = དྲ་ངོས་འདི་པར་འདེབས
 navbar-home =
     .label = གཅོ་ངོས
     .tooltiptext = { -brand-short-name } ཡི་གཙོ་ངོས
@@ -461,3 +465,13 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
     .tooltiptext = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } automatically sends some data to { -vendor-short-name } so that we can improve your experience.
+data-reporting-notification-button =
+    .label = Choose What I Share
+    .accesskey = C
