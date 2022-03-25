@@ -538,9 +538,6 @@ navbar-overflow =
 navbar-print =
     .label = Priontáil
     .tooltiptext = Priontáil an leathanach seo… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Priontáil
-    .tooltiptext = Priontáil an leathanach seo
 navbar-home =
     .label = Baile
     .tooltiptext = Leathanach Baile { -brand-short-name }
@@ -558,4 +555,7 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = Liostaigh gach cluaisín
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
