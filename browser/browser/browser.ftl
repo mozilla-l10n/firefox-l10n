@@ -802,3 +802,7 @@ restore-session-startup-suggestion-button = Parodyti instrukciją
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = „{ -brand-short-name }“ automatiškai siunčia tam tikrus duomenis į „{ -vendor-short-name }“ programos gerinimo tikslais.
+data-reporting-notification-button =
+    .label = Pasirinkti, kas bus siunčiama
+    .accesskey = s
