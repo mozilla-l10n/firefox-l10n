@@ -213,6 +213,13 @@ popups-infobar-dont-show-message =
     .label = Ɛnnkyerɛ nkrato yi bio sɛ wɔsiw mpɔpap ano kwan a
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -224,9 +231,6 @@ navbar-overflow =
 navbar-print =
     .label = Prente
     .tooltiptext = Prente krataafa yi… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Prente
-    .tooltiptext = Prente krataafa yi
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -237,3 +241,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Kyerɛ ntab nyinara
     .tooltiptext = Kyerɛ ntab nyinara
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
