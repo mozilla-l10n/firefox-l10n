@@ -781,9 +781,6 @@ navbar-overflow =
 navbar-print =
     .label = Moullañ
     .tooltiptext = Moullañ ar bajenn-mañ… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Moullañ
-    .tooltiptext = Moullañ ar bajennad-mañ
 navbar-home =
     .label = D'ar gêr
     .tooltiptext = Pennbajenn { -brand-short-name }
@@ -810,3 +807,7 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Digeriñ an ivinelloù kent?</strong> Gallout a rit assav hoc'h estez kent adalek al lañser arload { -brand-short-name } <img data-l10n-name="icon"/>, dindan Roll istor
 restore-session-startup-suggestion-button = Diskouez din penaos ober
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } a dreuzkas roadennoù ent emgefreek da { -vendor-short-name } evit gwellaat ho skiant-prenet.
