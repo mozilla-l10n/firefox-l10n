@@ -737,6 +737,13 @@ picture-in-picture-hide-toggle =
     .label = Hide Pictur-in-Pictur Toggle
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -753,9 +760,6 @@ navbar-overflow =
 navbar-print =
     .label = Prent
     .tooltiptext = Print this page… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Prent
-    .tooltiptext = Prent this page
 navbar-home =
     .label = Hame
     .tooltiptext = { -brand-short-name } Hame Page
@@ -776,3 +780,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = List aw tabs
     .tooltiptext = List aw tabs
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
