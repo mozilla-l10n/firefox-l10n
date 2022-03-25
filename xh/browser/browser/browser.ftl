@@ -398,3 +398,6 @@ tabs-toolbar-list-all-tabs =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ithumela enye ingcombolo ngokuzenzekelayo kwi-{ -vendor-short-name } ukuze sikwazi ukuphucula amava wakho.
+data-reporting-notification-button =
+    .label = Khetha into endabelana ngayo
+    .accesskey = K
