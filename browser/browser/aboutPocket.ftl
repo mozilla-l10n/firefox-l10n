@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Merki eru takmörkuð við 25 stafi
 pocket-panel-saved-error-only-links = Aðeins er hægt að vista tengla
 pocket-panel-saved-error-not-saved = Ekki tókst að vista síðu
 pocket-panel-saved-error-no-internet = Þú verður að vera tengdur við internetið til að vista í { -pocket-brand-name }. Tengdu þig við internetið og reyndu aftur.
+pocket-panel-saved-error-remove = Villa kom upp þegar reynt var að fjarlægja þessa síðu.
 pocket-panel-saved-page-removed = Síða fjarlægð
 pocket-panel-saved-page-saved = Vistað í { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Vistað í { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Fjarlægi síðu…
+pocket-panel-saved-removed = Síða fjarlægð af listanum mínum
 pocket-panel-saved-processing-tags = Bæti við merkjum...
 pocket-panel-saved-remove-page = Fjarlægja síðu
 pocket-panel-saved-save-tags = Vista
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Vista…
 pocket-panel-saved-suggested-tags = Tillögur að merkjum
 pocket-panel-saved-tags-saved = Merkjum bætt við
 pocket-panel-signup-view-list = Skoða lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Bæta við merkjum:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Skrá inn
 pocket-panel-button-show-all = Sýna allt
 pocket-panel-button-add-tags = Bæta við merkjum
 pocket-panel-button-activate = Virkjaðu { -pocket-brand-name } í { -brand-product-name }
+pocket-panel-button-remove = Fjarlægja
