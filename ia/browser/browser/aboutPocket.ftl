@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = Pagina removite
 pocket-panel-saved-page-saved = Salvate in { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Salvate in { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Remotion del pagina…
+pocket-panel-saved-removed = Pagina removite ab mi lista
 pocket-panel-saved-processing-tags = Addente le etiquettas…
 pocket-panel-saved-remove-page = Remover le pagina
 pocket-panel-saved-save-tags = Salvar
