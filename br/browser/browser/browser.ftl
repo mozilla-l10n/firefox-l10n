@@ -811,3 +811,6 @@ restore-session-startup-suggestion-button = Diskouez din penaos ober
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } a dreuzkas roadennoù ent emgefreek da { -vendor-short-name } evit gwellaat ho skiant-prenet.
+data-reporting-notification-button =
+    .label = Dibab ar pezh a zo rannet ganin
+    .accesskey = D
