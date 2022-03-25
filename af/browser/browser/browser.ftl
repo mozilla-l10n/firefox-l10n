@@ -353,6 +353,13 @@ popups-infobar-dont-show-message =
     .label = Moenie weer wys wanneer opspringers geblokkeer word nie
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -364,9 +371,6 @@ navbar-overflow =
 navbar-print =
     .label = Druk
     .tooltiptext = Druk hierdie bladsy… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Druk
-    .tooltiptext = Druk hierdie bladsy
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -377,3 +381,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Lys alle oortjies
     .tooltiptext = Lys alle oortjies
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
