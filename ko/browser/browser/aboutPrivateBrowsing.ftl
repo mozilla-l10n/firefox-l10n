@@ -33,6 +33,11 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name }으로 사생�
 about-private-browsing-focus-promo-cta = { -focus-brand-name } 다운로드
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 열일하는 사생활 보호 모드
 about-private-browsing-focus-promo-text = 전용 사생활 보호 모드 모바일 앱은 매번 기록과 쿠키를 지웁니다.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-c = 모바일에서 한 차원 높은 개인 정보 보호
+about-private-browsing-focus-promo-text-c = { -focus-brand-name }는 광고와 추적기를 차단하면서 매번 기록을 지웁니다.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
