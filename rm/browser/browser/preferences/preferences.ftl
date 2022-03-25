@@ -216,6 +216,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Utilisar ina apparientscha clera per il fund davos ed il cuntegn da websites.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Utilisar ina apparientscha stgira per il fund davos ed il cuntegn da websites.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tias tschernas da colurs surscrivan l'apparientscha da websites. <a data-l10n-name="colors-link">Administrar las colurs</a>

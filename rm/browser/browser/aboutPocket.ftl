@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Tags èn limitads a 25 caracters
 pocket-panel-saved-error-only-links = Mo colliaziuns pon vegnir memorisadas
 pocket-panel-saved-error-not-saved = Betg memorisà la pagina
 pocket-panel-saved-error-no-internet = Ti stos esser connectà cun l'internet per pudair memorisar en { -pocket-brand-name }. Ta connectescha per plaschair cun l'internet ed emprova anc ina giada.
+pocket-panel-saved-error-remove = Ina errur è succedida durant empruvar dad allontanar questa pagina.
 pocket-panel-saved-page-removed = Allontanà la pagina
 pocket-panel-saved-page-saved = Memorisà en { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Memorisà en { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Allontanar la pagina…
+pocket-panel-saved-removed = Allontanà la pagina da Mia glista
 pocket-panel-saved-processing-tags = Agiuntar tags…
 pocket-panel-saved-remove-page = Allontanar la pagina
 pocket-panel-saved-save-tags = Memorisar
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Memorisar…
 pocket-panel-saved-suggested-tags = Tags proponids
 pocket-panel-saved-tags-saved = Tags agiuntads
 pocket-panel-signup-view-list = Mussar la glista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Agiuntar etichettas:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = S'annunziar
 pocket-panel-button-show-all = Mussar tut
 pocket-panel-button-add-tags = Agiuntar etichettas
 pocket-panel-button-activate = Activar { -pocket-brand-name } en { -brand-product-name }
+pocket-panel-button-remove = Allontanar
