@@ -160,12 +160,22 @@ popups-infobar-dont-show-message =
     .label = Kuterekana ubu butumwa iyo ibyirambura byahagaritswe
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Ibikururwa
-navbar-print-tab-modal-disabled =
-    .label = Gucapa
-    .tooltiptext = Gucapa Iyi Paji
 tabs-toolbar-new-tab =
     .label = Agafishi Gashya
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
