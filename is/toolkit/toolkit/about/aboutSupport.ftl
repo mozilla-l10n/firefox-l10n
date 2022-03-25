@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Google staðsetningarlykill
 app-basics-safebrowsing-key-google = Google lykill fyrir örugga vöfrun
 app-basics-key-mozilla = Mozilla Location Service lykill
 app-basics-safe-mode = Öryggishamur
+app-basics-memory-size = Stærð minnis (RAM)
+app-basics-disk-available = Tiltækt diskapláss
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Sýna í Finder

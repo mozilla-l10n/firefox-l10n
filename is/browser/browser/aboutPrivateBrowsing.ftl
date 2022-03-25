@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = Haltu þig til hlés með { -mozilla-vpn-
 about-private-browsing-focus-promo-cta = Sækja { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Einkavafur á ferðinni
 about-private-browsing-focus-promo-text = Einkavafurforritið okkar fyrir farsíma hreinsar feril þinn og vefkökur eftir hvert skipti.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Fáðu einkavafur í símann þinn
+about-private-browsing-focus-promo-text-b = Notaðu { -focus-brand-name } fyrir þær persónulegu leitir sem þú vilt ekki að aðalfarsímavafrinn þinn sjái.
+about-private-browsing-focus-promo-header-c = Næsta stig persónuverndar í farsímum
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } hreinsar ferilinn þinn eftir hverja notkun, jafnframt því að loka á auglýsingar og rekjara.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
