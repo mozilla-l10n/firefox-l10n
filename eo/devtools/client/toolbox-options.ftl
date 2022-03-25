@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Ebligi foran senerarigon
 options-enable-remote-tooltip2 =
     .title = Ŝalto de tiu ĉi eblo prefero permesos la foran senerarigon de tiu ĉi nuna programo
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Aktivigi personecigitajn montrilojn
+options-enable-custom-formatters-tooltip =
+    .title = Ŝalto de tiu ĉi elekteblo permesos al retejoj difini personecigitajn montrilojn por objektoj DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktivigi Service Workers sur HTTP (kiam la ilujo estas malfermita)
 options-enable-service-workers-http-tooltip =
