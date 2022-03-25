@@ -33,6 +33,12 @@ about-private-browsing-prominent-cta = 使用 { -mozilla-vpn-brand-name } 保持
 about-private-browsing-focus-promo-cta = 下載 { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 隨身上網隱私都有保護
 about-private-browsing-focus-promo-text = 我們的隱私瀏覽專用 App 可在每次瀏覽結束時都清除您的上網紀錄與 Cookie。
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = 隱私上網隨身帶著走
+about-private-browsing-focus-promo-header-c = 讓行動上網的隱私保護更上一層樓
+about-private-browsing-focus-promo-text-c = { -focus-brand-name }{ -focus-brand-name } 會自動為您封鎖廣告與追蹤器，並在結束上網時清除瀏覽紀錄。
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
