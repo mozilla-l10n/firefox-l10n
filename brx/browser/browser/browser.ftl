@@ -344,6 +344,13 @@ popups-infobar-dont-show-message =
     .label = प'पआपखौ ब्लक खालामनाय समाव बे खौरांखौ दिनथिनो नाङा
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -360,9 +367,6 @@ navbar-overflow =
 navbar-print =
     .label = साफाय
     .tooltiptext = बे बिलाइखौ साफाय... ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = साफाय
-    .tooltiptext = बे बिलाइखौ साफाय
 navbar-search =
     .title = नागिर
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -375,3 +379,13 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = गासै टेबखौ लिस्ट खालाम
     .tooltiptext = गासै टेबखौ लिस्ट खालाम
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } आ माखासे डाटाखौ { -vendor-short-name } आव गावनो गाव महरै दैथाय हरो, जाहाते जों नोंथांनि रोंगौथिखौ जौगाहोनो हायो।
+data-reporting-notification-button =
+    .label = आं जायखौ शेयार खालामो बेखौ बासिख
+    .accesskey = C
