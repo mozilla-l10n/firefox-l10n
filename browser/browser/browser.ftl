@@ -480,3 +480,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } automātiski nosūta zināmus datus { -vendor-short-name }, lai uzlabotu interneta pārlūkošanu.
+data-reporting-notification-button =
+    .label = Izvēlēties ar ko dalīties
+    .accesskey = d
