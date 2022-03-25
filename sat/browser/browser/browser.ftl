@@ -800,3 +800,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>ᱢᱟᱲᱟ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱟᱢ?</strong> ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝ ᱠᱟᱹᱢᱤ { -brand-short-name } ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱷᱚᱱ <img data-l10n-name="icon"/> ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 restore-session-startup-suggestion-button = ᱫᱚᱠᱷᱟᱣ ᱟᱹᱧ ᱢᱮ ᱪᱮᱞᱠᱟ
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } ᱟᱡᱼᱟᱡ ᱛᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱰᱟᱴᱟ  { -vendor-short-name } ᱨᱮ ᱠᱩᱞᱟᱹ ᱠᱚᱛᱮ ᱟᱞᱮ ᱟᱢᱟᱜ ᱧᱮᱞ ᱦᱮᱨᱮᱲ ᱞᱮ ᱞᱟᱦᱟ ᱦᱚ ᱪᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+data-reporting-notification-button =
+    .label = ᱪᱮᱫ ᱤᱧᱤᱧ ᱦᱟᱹᱴᱤᱧ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .accesskey = C
