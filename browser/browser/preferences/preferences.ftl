@@ -210,6 +210,32 @@ preferences-web-appearance-choice-light = Hela
 preferences-web-appearance-choice-dark = Malhela
 preferences-web-appearance-choice-tooltip-browser =
     .title = Kongruigi la etosajn agordojn de { -brand-short-name } kun la fono kaj enhavo de retejoj.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Kongruigi viajn sistemajn agordojn por fono kaj enhavo de retejoj.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Uzi helan aspekton por fono enhavo de retejoj.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Uzi malhelan aspekton por fono enhavo de retejoj.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Via elekto de koloroj superregas la aspekton de retejoj. <a data-l10n-name="colors-link">Administri kolorojn</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Administri la etosojn de { -brand-short-name } en <a data-l10n-name="themes-link">Etendaĵoj kaj etosoj</a>
+preferences-colors-header = Koloroj
+preferences-colors-description = Superregi la normajn kolorojn de { -brand-short-name } por teksto, fono de retejoj kaj ligiloj.
+preferences-colors-manage-button =
+    .label = Administri kolorojn…
+    .accesskey = k
+preferences-fonts-header = Tiparoj
 default-font = Norma tiparo
     .accesskey = o
 default-font-size = Grando
@@ -382,6 +408,9 @@ update-application-warning-cross-user-setting = Tiu ĉi agordo estos aplikita al
 update-application-use-service =
     .label = Uzi fonan servon por instali ĝisdatigojn
     .accesskey = f
+update-application-suppress-prompts =
+    .label = Montri malpli da sciigoj pri ĝisdatigoj
+    .accesskey = m
 update-setting-write-failure-title2 = Eraro dum konservo de ĝistadigaj agordoj
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -427,6 +456,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Uzi glatan ŝovadon
     .accesskey = g
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Ĉiam montri ŝovstriojn
+    .accesskey = s
 browsing-use-onscreen-keyboard =
     .label = Montri tuŝklavaron se necesas
     .accesskey = k
