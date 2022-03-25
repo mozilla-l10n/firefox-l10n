@@ -251,6 +251,13 @@ popups-infobar-dont-show-message =
     .label = یئ شیچھ مئ ہٲویو یل۪ی پاپ اَپس بند گژھَن
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -262,9 +269,6 @@ navbar-overflow =
 navbar-print =
     .label = پرینٹ
     .tooltiptext = یہ پیج کْریو پرینٹ ۔ ۔ ۔ ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = پرینٹ
-    .tooltiptext = یئ صفحئ چھپٲویو
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -275,3 +279,13 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = سارنی ٹیبن ہیوند فہرست بنٲویو
     .tooltiptext = سارنی ٹیبن ہیوند فہرست بنٲویو
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = چُھ آٹومیٹیکلی سوزان کینہہ ڈاٹا  { -vendor-short-name } کُن یُتھ ذن أسئ تُہند تجرُب بہتر بنأوتھ ہیکو۔{ -brand-short-name }
+data-reporting-notification-button =
+    .label = ژأریو بْہ کیاہ کرْ شییر&
+    .accesskey = C
