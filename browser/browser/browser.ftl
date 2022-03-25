@@ -741,6 +741,13 @@ picture-in-picture-hide-toggle =
     .label = "ছবিৰ-ওপৰত-ছবি"ৰ ট'গল লুকুৱাওক
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -757,9 +764,6 @@ navbar-overflow =
 navbar-print =
     .label = প্ৰিণ্ট কৰক
     .tooltiptext = এই পৃষ্ঠা প্ৰিণ্ট কৰক… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = প্ৰিণ্ট কৰক
-    .tooltiptext = এই পৃষ্ঠা প্ৰিণ্ট কৰক
 navbar-home =
     .label = মুখ্যপৃষ্ঠা
     .tooltiptext = { -brand-short-name }-ৰ মুখ্যপৃষ্ঠা
@@ -780,3 +784,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = সকলো টেব দেখুৱাওক
     .tooltiptext = সকলো টেব দেখুৱাওক
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
