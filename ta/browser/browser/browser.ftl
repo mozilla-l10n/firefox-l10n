@@ -428,6 +428,13 @@ popups-infobar-dont-show-message =
     .label = பாப்பப்கள் தடுக்கப்படும் போது இந்த செய்தியைக் காட்டாதே
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -439,9 +446,6 @@ navbar-overflow =
 navbar-print =
     .label = அச்சிடு
     .tooltiptext = இப்பக்கத்தை அச்சிடு... ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = அச்சிடு
-    .tooltiptext = இந்தப் பக்கத்தை அச்சிடு
 navbar-home =
     .label = இல்லம்
     .tooltiptext = { -brand-short-name } அகப்பக்கம்
@@ -462,3 +466,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து கீற்றுகளையும் பட்டியலிடு
     .tooltiptext = அனைத்து கீற்றுகளையும் பட்டியலிடு
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
