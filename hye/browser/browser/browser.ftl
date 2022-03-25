@@ -769,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Տպել
     .tooltiptext = Տպել էջը… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Տպել
-    .tooltiptext = Տպել տուեալ էջը
 navbar-home =
     .label = Տուն
     .tooltiptext = { -brand-short-name } Տնէջ
@@ -798,3 +795,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> Բացե՞լ նախորդ ներդիրները </strong> Կարող էք վերագործարկել նախկին աշխատաշրջանը { -brand-short-name } ծրագրային ցանկից <img data-l10n-name="icon"/> , Պատմութիւն բաժնի ներքեւում:
 restore-session-startup-suggestion-button = Ցոյց տալ, թե ինչպէս
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name }-ը ինքնաշխատ ուղարկում է որոշ տուեալներ { -vendor-short-name }-ին, որպէսզի մենք կարողանաք բարելաւել արտադրողականութիւնը։
+data-reporting-notification-button =
+    .label = Ընտրեք այն ինչ ես կիսում եմ
+    .accesskey = C
