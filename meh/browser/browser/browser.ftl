@@ -662,9 +662,6 @@ navbar-overflow =
 navbar-print =
     .label = Nátava
     .tooltiptext = Natava página ya´a…({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Nátava
-    .tooltiptext = Natava página ya´a
 navbar-home =
     .label = Nuu kajie´e
     .tooltiptext = Página nu kajie´e { -brand-short-name }
@@ -687,3 +684,6 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Xituvi kua
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
