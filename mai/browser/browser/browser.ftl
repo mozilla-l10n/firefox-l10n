@@ -314,6 +314,13 @@ popups-infobar-dont-show-message =
     .label = ई संदेश केँ नहि देखाउ जखन पापअप रोकल गेल अछि
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -325,9 +332,6 @@ navbar-overflow =
 navbar-print =
     .label = छापू
     .tooltiptext = ई पृष्ठ छापू… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = छापू
-    .tooltiptext = ई पृष्ठ छापू
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -338,3 +342,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = सभटा टैब सूचीबद्ध करू
     .tooltiptext = सभटा टैब सूचीबद्ध करू
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
