@@ -71,6 +71,7 @@ csv-first-row-contains-headers = Prva vrstica vsebuje imena polj
 
 ## Export tab
 
+export-profile-desc2 = Če je vaš trenutni profil večji od 2 GB, predlagamo, da ga varnostno kopirate sami.
 export-open-profile-folder = Odpri mapo s profilom
 export-file-picker = Izvozi v datoteko .zip
 export-brand-name = { -brand-product-name }
