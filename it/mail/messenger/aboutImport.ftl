@@ -78,3 +78,5 @@ csv-target-field = Campo della rubrica
 
 export-profile-desc = Esporta account di posta, messaggi, rubriche e impostazioni in un file zip. Se necessario, potrai importare il file zip per ripristinare il tuo profilo.
 export-profile-desc2 = Se la cartella del profilo attuale è più grande di 2 GB, ti consigliamo di eseguirne il backup manualmente.
+export-file-picker = Esporta in un file zip
+export-brand-name = { -brand-product-name }
