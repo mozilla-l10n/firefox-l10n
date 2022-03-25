@@ -361,6 +361,13 @@ popups-infobar-dont-show-message =
     .label = Musa ukubonisa lo myalezo xa kunqandiwe okuzivelelayo
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -372,9 +379,6 @@ navbar-overflow =
 navbar-print =
     .label = Printa
     .tooltiptext = Printa eli phepha… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Printa
-    .tooltiptext = Printa eli phepha
 navbar-search =
     .title = Khangela
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -387,3 +391,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Dwelisa zonke iithebhu
     .tooltiptext = Dwelisa zonke iithebhu
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } ithumela enye ingcombolo ngokuzenzekelayo kwi-{ -vendor-short-name } ukuze sikwazi ukuphucula amava wakho.
