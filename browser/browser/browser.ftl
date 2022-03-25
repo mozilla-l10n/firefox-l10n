@@ -762,9 +762,6 @@ navbar-overflow =
 navbar-print =
     .label = 打印
     .tooltiptext = 打印此页… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = 打印
-    .tooltiptext = 打印当前页
 navbar-home =
     .label = 主页
     .tooltiptext = { -brand-short-name } 主页
@@ -791,3 +788,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>想打开先前的标签页？</strong>您可以从 { -brand-short-name } 应用程序菜单 <img data-l10n-name="icon"/> 中的“历史”恢复先前的浏览状态。
 restore-session-startup-suggestion-button = 告诉我如何做
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
