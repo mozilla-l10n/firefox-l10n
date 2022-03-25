@@ -48,6 +48,7 @@ addr-book-vcard-file = File vCard (.vcf, .vcard)
 addr-book-sqlite-file = File di database SQLite (.sqlite)
 addr-book-mab-file = File di database Mork (.mab)
 addr-book-file-picker = Seleziona un file di rubrica
+addr-book-csv-field-map-title = Corrispondenza nomi dei campi
 addr-book-csv-field-map-desc = Seleziona i campi della rubrica corrispondenti ai campi di origine. Deseleziona i campi che non desideri importare.
 addr-book-directories-pane-title = Seleziona la cartella in cui effettuare l’importazione:
 addr-book-directories-pane-source = File di origine:
@@ -78,5 +79,6 @@ csv-target-field = Campo della rubrica
 
 export-profile-desc = Esporta account di posta, messaggi, rubriche e impostazioni in un file zip. Se necessario, potrai importare il file zip per ripristinare il tuo profilo.
 export-profile-desc2 = Se la cartella del profilo attuale è più grande di 2 GB, ti consigliamo di eseguirne il backup manualmente.
+export-open-profile-folder = Apri cartella del profilo
 export-file-picker = Esporta in un file zip
 export-brand-name = { -brand-product-name }
