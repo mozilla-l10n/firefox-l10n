@@ -582,9 +582,6 @@ navbar-overflow =
 navbar-print =
     .label = छापें
     .tooltiptext = यह पृष्ठ छापें… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = छापें
-    .tooltiptext = यह पृष्ठ छापें
 navbar-home =
     .label = घर
     .tooltiptext = { -brand-short-name } होम पेज
@@ -607,4 +604,7 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = सभी टैब सूचीबद्ध करें
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
