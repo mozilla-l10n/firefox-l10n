@@ -694,3 +694,6 @@ restore-session-startup-suggestion-message = <strong>Բացե՞լ նախորդ �
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name }-ը ինքնաշխատ ուղարկում է որոշ տվյալներ { -vendor-short-name }-ին, որպեսզի մենք կարողանաք բարելավենք արտադրողականությունը:
+data-reporting-notification-button =
+    .label = Ընտրել, թե ինչը համօգտագործել
+    .accesskey = C
