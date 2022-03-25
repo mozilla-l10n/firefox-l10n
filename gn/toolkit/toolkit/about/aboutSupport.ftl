@@ -72,6 +72,8 @@ app-basics-location-service-key-google = Google ñemoñe’ẽasa ñe’ẽñemi
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla mba’epytyvõrã rendaite rehegua
 app-basics-safe-mode = Teko jerovia
+app-basics-memory-size = Mandu’arenda tuichakue (RAM)
+app-basics-disk-available = Pa’ũ Ñongatuhaguasu pegua
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)

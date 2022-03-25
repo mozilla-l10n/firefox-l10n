@@ -11,7 +11,10 @@ spotlight-dialog-close-button =
 
 spotlight-android-marketplace-button =
     .title = Eguerekóta Google Play rupi
+spotlight-ios-marketplace-button =
+    .title = Emboguejy App Store rupive
 
 ## Firefox Focus promo message strings
 
 spotlight-focus-promo-title = Eguereko { -focus-brand-name }
+spotlight-focus-promo-subtitle = Emoha’ãnga pe QR ayvu emboguejy hag̃ua
