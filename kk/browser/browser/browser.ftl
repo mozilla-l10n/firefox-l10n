@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Баспаға шығару
     .tooltiptext = Ағымдағы бетті баспаға шығару… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Баспаға шығару
-    .tooltiptext = Ағымдағы бетті баспаға шығару
 navbar-home =
     .label = Үйге
     .tooltiptext = { -brand-short-name } үй беті
@@ -795,3 +792,7 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Алдыңғы беттерді ашу керек пе?</strong> Сіз алдыңғы сессияны { -brand-short-name } қолданба мәзірі ішіндегі <img data-l10n-name="icon"/> Тарих бөлімінен қалпына келтіре аласыз.
 restore-session-startup-suggestion-button = Қалай жасау керектігін көрсету
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } автоматты түрде { -vendor-short-name } адресіне өнімді жақсартуға көмектесетін ақпаратты жібереді.
