@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Tio ĉi aktivigas la subtenon de la eksperimenta trajto CSS Masonry Layout. Vidu la <a data-l10n-name="explainer">klarigon</a> por altnivela priskribo de la trajto. Se vi volas opinii, bonvolu komenti en <a data-l10n-name="w3c-issue">tiu ĉi problemo de GitHub</a> aŭ en <a data-l10n-name="bug">tiu ĉi eraro</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Tio ĉi aktivigas subtenon por CSS Cascade Layers (akvofalaj tavoloj). Detaloj troveblas en la <a data-l10n-name="spec">verkata specifo</a>. Problemoj rilatitaj kun tiu ĉi trajto devus esti raportitaj tiel ke ili blokos la <a data-l10n-name="bugzilla">problemon 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Tiu nova API provizas malaltnivelan subtenon por kalkuloj kaj montro de grafikaĵoj faritaj de <a data-l10n-name="wikipedia">grafika procesoro (GPU)</a> en la aparato aŭ komputilo de la uzanto. La <a data-l10n-name="spec">specifo</a> estas ankoraŭ prilaborata. Vizitu la <a data-l10n-name="bugzilla">problemon 1602129</a> por havi pli da informo.
@@ -94,3 +89,7 @@ experimental-features-multi-pip-description = Eksperimenta subteno por permesi l
 experimental-features-ime-search =
     .label = Adresa strio: montri rezultojn dum komponado IME
 experimental-features-ime-search-description = IME (redaktilo de eniga metodo) estas ilo, kiu permesas al vi, pere de normala klavaro, tajpi malsimplajn signojn, kiel la uzatajn en la skribataj lingvoj de orienta Azio aŭ Barato. Se vi ŝaltas tiun ĉi eksperimenton, la adresa strio restos malfermita dum vi uzas IME por tajpi ion. Notu ke IME povus montri panelon kiu kovras la rezultojn de la adresa strio, tial tiu ĉi prefero estas sugestita por la IME, kiuj ne uzas tiajn panelojn.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = Agento de uzanto por { -brand-product-name }100
+experimental-features-firefox-100-description = Igu { -brand-short-name } sendi al retejoj nomon de agento de uzanto kiu ŝajnigas esti la versio 100 de { -brand-product-name }. Uzu tiun ĉi agordon por kontroli ĉu retejoj misfunkcios kiam { -brand-short-name } atingas triciferan numeron de versio. La vera { -brand-product-name } 100 estos liverita en majo 2022, do ektestu viajn retejojn nun!
