@@ -247,3 +247,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } soma data bi otomatikmu kɔ { -vendor-short-name } ama yɛ atumi atu wo ɛkspiriɛns mpon.
