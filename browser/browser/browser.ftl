@@ -192,15 +192,25 @@ popups-infobar-dont-show-message =
     .label = Жижиг цонх хоригдсон үед энэ мэдээг бүү харуул
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Татаж авсан файлууд
-navbar-print-tab-modal-disabled =
-    .label = Хэвлэ
-    .tooltiptext = Энэ хуудсыг хэвлэ
 tabs-toolbar-new-tab =
     .label = Хөтлөгч самбар
 tabs-toolbar-list-all-tabs =
     .label = Бүх самбарын жагсаалтыг харуул
     .tooltiptext = Бүх самбарын жагсаалтыг харуул
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
