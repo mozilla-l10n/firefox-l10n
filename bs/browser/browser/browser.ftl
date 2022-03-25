@@ -470,6 +470,13 @@ picture-in-picture-hide-toggle =
     .label = Sakrij preklop sa slike u sliku
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -486,9 +493,6 @@ navbar-overflow =
 navbar-print =
     .label = Štampaj
     .tooltiptext = Printaj ovu stranicu… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Štampaj
-    .tooltiptext = Štampaj ovu stranicu
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Prikaži historiju, spašene zabilješke, i više
@@ -506,3 +510,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Izlistaj sve tabove
     .tooltiptext = Izlistaj sve tabove
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } automatski šalje neke podatke { -vendor-short-name }-i kako bi unaprijedili vaše iskustvo.
