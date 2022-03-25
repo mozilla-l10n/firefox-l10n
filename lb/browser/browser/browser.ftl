@@ -272,6 +272,13 @@ ui-tour-info-panel-close =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-overflow =
@@ -281,9 +288,6 @@ navbar-overflow =
 navbar-print =
     .label = Drécken
     .tooltiptext = Dës Säit drécken… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Drécken
-    .tooltiptext = Dës Säit drécken
 navbar-search =
     .title = Sich
 tabs-toolbar-new-tab =
@@ -291,3 +295,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = All Tabs oplëschten
     .tooltiptext = All Tabs oplëschten
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
