@@ -791,6 +791,7 @@ restore-session-startup-suggestion-button = 方法を確認
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = ユーザー体験の向上のため、{ -brand-short-name } は自動的にいくつかのデータを { -vendor-short-name } に送信します。
 data-reporting-notification-button =
     .label = 共有するデータを選択
     .accesskey = C
