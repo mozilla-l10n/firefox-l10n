@@ -403,6 +403,13 @@ popups-infobar-dont-show-message =
     .label = പോപ്പപ്പുകള്‍ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -414,9 +421,6 @@ navbar-overflow =
 navbar-print =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ പ്രിന്റ് ചെയ്യുക… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = പ്രിന്റ് ചെയ്യുക
-    .tooltiptext = ഈ താള്‍ അച്ചടിക്കുക
 navbar-library =
     .label = സംഭരണി
     .tooltiptext = ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക
@@ -434,3 +438,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
