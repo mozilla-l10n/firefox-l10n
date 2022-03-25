@@ -785,9 +785,6 @@ navbar-overflow =
 navbar-print =
     .label = Argraffu
     .tooltiptext = Argraffu'r dudalen… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Argraffu
-    .tooltiptext = Argraffu'r dudalen
 navbar-home =
     .label = Cartref
     .tooltiptext = Cartref { -brand-short-name }
@@ -814,3 +811,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Eisiau agor tabiau blaenorol?</strong> Gallwch adfer eich sesiwn flaenorol o ddewislen ap { -brand-short-name } <img data-l10n-name = "icon" />, o dan Hanes.
 restore-session-startup-suggestion-button = Dangos sut mae gwneud
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
