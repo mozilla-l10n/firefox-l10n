@@ -396,3 +396,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } ga bayhaya fooyaŋ sanba nga boŋ se { -vendor-short-name } do hal'ir ma war goyoo boryandi ka tonton.
+data-reporting-notification-button =
+    .label = Suuba woo kaŋ ay g'a žemna
+    .accesskey = S
