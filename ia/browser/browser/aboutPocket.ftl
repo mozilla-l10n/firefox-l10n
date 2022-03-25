@@ -16,8 +16,10 @@ pocket-panel-saved-error-tag-length = Le etiquettas es limitate a 25 characteres
 pocket-panel-saved-error-only-links = Solmente ligamines pote esser salvate
 pocket-panel-saved-error-not-saved = Pagina non salvate
 pocket-panel-saved-error-no-internet = Tu debe esser connectite a internet pro salvar in { -pocket-brand-name }. Connecte te e retenta.
+pocket-panel-saved-error-remove = Un error occurreva durante le tentativa de remover iste pagina.
 pocket-panel-saved-page-removed = Pagina removite
 pocket-panel-saved-page-saved = Salvate in { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Salvate in { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Remotion del pagina…
 pocket-panel-saved-processing-tags = Addente le etiquettas…
 pocket-panel-saved-remove-page = Remover le pagina
@@ -26,6 +28,8 @@ pocket-panel-saved-saving-tags = Salvamento…
 pocket-panel-saved-suggested-tags = Etiquettas suggerite
 pocket-panel-saved-tags-saved = Etiquettas addite
 pocket-panel-signup-view-list = Vide le lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Adder etiquettas:
 
 ## about:pocket-signup panel
 
@@ -67,3 +71,4 @@ pocket-panel-header-sign-in = Aperir session
 pocket-panel-button-show-all = Monstrar toto
 pocket-panel-button-add-tags = Adder etiquettas
 pocket-panel-button-activate = Activa { -pocket-brand-name } in { -brand-product-name }
+pocket-panel-button-remove = Remover
