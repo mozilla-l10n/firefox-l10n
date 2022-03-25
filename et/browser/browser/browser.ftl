@@ -769,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Prindi
     .tooltiptext = Prindi see leht… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Prindi
-    .tooltiptext = Prindi see leht
 navbar-home =
     .label = Kodu
     .tooltiptext = { -brand-short-name }i avaleht
@@ -798,3 +795,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Kas avada eelmised kaardid?</strong> Sul on võimalus taastada eelmine seanss, avades { -brand-short-name }i rakenduse menüü <img data-l10n-name="icon"/> ja sealt Ajalugu.
 restore-session-startup-suggestion-button = Näita juhiseid
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
