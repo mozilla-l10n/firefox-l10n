@@ -216,6 +216,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Usar uma aparência clara no fundo e conteúdo de sites.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Usar uma aparência escura no fundo e conteúdo de sites.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sua seleção de cores está se sobrepondo à aparência do site. <a data-l10n-name="colors-link">Gerenciar cores</a>
