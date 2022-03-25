@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Nov">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Messadi">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Contact…">
 <!ENTITY newContact.accesskey "C">
