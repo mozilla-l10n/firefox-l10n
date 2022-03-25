@@ -153,3 +153,16 @@ spotlight-total-cookie-protection-body = La totala protekto kontraŭ kuketoj evi
 spotlight-total-cookie-protection-expanded = { -brand-short-name } konstruas barilon ĉirkaŭ kuketojn, limigante ilin al la retejo kie ili estas tiel ke spuriloj ne povas uzi ilin por sekvi vin. Per frua aliro al tiu funkcio, vi helpos nin plibonigi ĝin kaj plu konstrui pli bonan teksaĵon por ĉiuj.
 spotlight-total-cookie-protection-primary-button = Ŝalti totalan protekton kontraŭ kuketoj
 spotlight-total-cookie-protection-secondary-button = Nun ne
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Pli bona interreto komenciĝas kun vi
+spotlight-better-internet-body = Kiam vi uzas { -brand-short-name }, vi esprimas vian subtenon de malfermita kaj alirebla interreto, kiu estas pli bona por ĉiuj.
+spotlight-peace-mind-header = Ni protektas vin
+spotlight-peace-mind-body = Ĉiumonate { -brand-short-name } blokas mezume po pli ol 3,000 spurilojn por ĉiu uzanto, pro tio ke nenio, ĉefe ne privatecaj ĝenoj kiel spuriloj, devus malhelpi vian aliron al la bona interreto.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Alpingli al Dock
+       *[other] Alpingli al la taska ilaro
+    }
+spotlight-pin-secondary-button = Ne nun
