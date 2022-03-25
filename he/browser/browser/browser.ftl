@@ -793,3 +793,4 @@ restore-session-startup-suggestion-button = להראות לך איך
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } יישלח אוטומטית חלק מהנתונים אל { -vendor-short-name } כדי שנוכל לשפר את החוויה שלך.
