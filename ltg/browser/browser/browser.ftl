@@ -438,6 +438,13 @@ popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -449,9 +456,6 @@ navbar-overflow =
 navbar-print =
     .label = Drukōt
     .tooltiptext = Print this page… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Drukōt
-    .tooltiptext = Drukōt itū lopu
 navbar-home =
     .label = Suokumlopa
     .tooltiptext = { -brand-short-name } sōkuma lopa
@@ -472,3 +476,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Vysu ciļņu saroksts
     .tooltiptext = Vysu ciļņu saroksts
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
