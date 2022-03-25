@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = La etendaĵo <img 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = La etendaĵo <img data-l10n-name="icon"/> { $name } regas la manieron, kiel { -brand-short-name } konektiĝas al la reto.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> regas tiun ĉi agordon.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> regas tiun ĉi agordon.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/><strong>{ $name }</strong> postulas ingajn langetojn.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong>{ $name }</strong> regas tiun ĉi agordon.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> regas la manieron, kiel { -brand-short-name } konektiĝas al la reto.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,14 @@ containers-remove-cancel-button = Ne forigi tiun ĉi ingon
 
 language-and-appearance-header = Lingvo kaj aspekto
 fonts-and-colors-header = Tiparoj kaj koloroj
+preferences-web-appearance-header = Aspekto de retejoj
+preferences-web-appearance-description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
+preferences-web-appearance-choice-browser = Etoso de { -brand-short-name }
+preferences-web-appearance-choice-system = Sistema etoso
+preferences-web-appearance-choice-light = Hela
+preferences-web-appearance-choice-dark = Malhela
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Kongruigi la etosajn agordojn de { -brand-short-name } kun la fono kaj enhavo de retejoj.
 default-font = Norma tiparo
     .accesskey = o
 default-font-size = Grando
