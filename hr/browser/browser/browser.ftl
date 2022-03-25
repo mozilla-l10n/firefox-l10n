@@ -782,3 +782,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } automatski šalje određene podatke kako bi { -vendor-short-name } poboljšala tvoje iskustvo.
+data-reporting-notification-button =
+    .label = Odaberi što dijelim
+    .accesskey = O
