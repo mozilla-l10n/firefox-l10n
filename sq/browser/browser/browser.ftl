@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Shtype
     .tooltiptext = Shtypeni këtë faqe… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Shtype
-    .tooltiptext = Shtypeni këtë faqe
 navbar-home =
     .label = Kreu
     .tooltiptext = Faqe Hyrëse e { -brand-short-name }-it
@@ -795,3 +792,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Të hapen skeda të mëparshme?</strong> Sesionin tuaj të mëparshëm mund ta riktheni që nga menuja e aplikacionit { -brand-short-name } <img data-l10n-name="icon"/>, nën Historik.
 restore-session-startup-suggestion-button = Tregomëni se si
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
