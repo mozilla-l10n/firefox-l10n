@@ -78,6 +78,12 @@ app-basics-location-service-key-google = Klíč služby Google Location Service
 app-basics-safebrowsing-key-google = Klíč služby Google Safebrowsing
 app-basics-key-mozilla = Klíč Mozilla Location Service
 app-basics-safe-mode = Nouzový režim
+app-basics-memory-size = Velikost paměti (RAM)
+app-basics-disk-available = Dostupné místo na disku
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Zobrazit ve Finderu
