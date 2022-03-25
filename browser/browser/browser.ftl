@@ -792,3 +792,6 @@ restore-session-startup-suggestion-button = Hướng dẫn cho tôi
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } tự động gửi dữ liệu về { -vendor-short-name } để chúng tôi có thể cải thiện trải nghiệm của bạn.
+data-reporting-notification-button =
+    .label = Chọn những thứ tôi muốn chia sẻ
+    .accesskey = C
