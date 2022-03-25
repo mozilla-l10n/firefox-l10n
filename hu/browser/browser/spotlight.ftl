@@ -9,6 +9,14 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Szerezze be a Google Play-en
+spotlight-ios-marketplace-button =
+    .title = Töltse le az App Store-ból
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = { -focus-brand-name } beszerzése
+spotlight-focus-promo-subtitle = A letöltéshez olvassa le a QR-kódot
+spotlight-focus-promo-qr-code =
+    .alt = Olvassa le a QR-kódot a { -focus-brand-name } beszerzéséhez.
