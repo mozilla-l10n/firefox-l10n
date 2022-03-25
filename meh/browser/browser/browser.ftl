@@ -687,3 +687,6 @@ restore-session-startup-suggestion-button = Xituvi kua
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = Kaji naku kuvi kua´a
+    .accesskey = C
