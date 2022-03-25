@@ -476,6 +476,13 @@ picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -492,9 +499,6 @@ navbar-overflow =
 navbar-print =
     .label = Nari' ña du'ua
     .tooltiptext = Giri' ña du'ua pajinâ na… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Nari' ña du'ua
-    .tooltiptext = Giri' ña du'ua pagina na
 navbar-home =
     .label = Riñan gayi'ij
     .tooltiptext = { -brand-short-name } Riña gayi'ìj
@@ -515,3 +519,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Ni'io' nej rakïj ñanj hua ni'ninj
     .tooltiptext = Ni'io' nej rakïj ñanj hua ni'ninj
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
