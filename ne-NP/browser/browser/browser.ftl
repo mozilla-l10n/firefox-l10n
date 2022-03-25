@@ -484,3 +484,10 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } ले केही डाटा आफै { -vendor-short-name } मा पठाउँछ अनि हामी तपाईँको अनुभव सुधार्न सक्छौँ।
+data-reporting-notification-button =
+    .label = मैले बाँड्ने कुराहरू छान्छु
+    .accesskey = C
