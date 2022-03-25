@@ -699,3 +699,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } స్వయంచాలకంగా కొంత డాటాను { -vendor-short-name } కు పంపును అలా మేము మీ అనుభూతిని మెరుగుపరచగలము.
