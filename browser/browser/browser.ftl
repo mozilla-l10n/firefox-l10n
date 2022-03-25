@@ -773,9 +773,6 @@ navbar-overflow =
 navbar-print =
     .label = Spausdinti
     .tooltiptext = Spausdinti šį tinklalapį… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Spausdinti
-    .tooltiptext = Spausdinti šį tinklalapį
 navbar-home =
     .label = Pradžios tinklalapis
     .tooltiptext = „{ -brand-short-name }“ pradžios tinklalapis
@@ -802,3 +799,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Atverti ankstesnes korteles?</strong> Galite atkurti savo ankstesnį seansą iš „{ -brand-short-name }“ programos meniu <img data-l10n-name="icon"/>, iš žurnalo.
 restore-session-startup-suggestion-button = Parodyti instrukciją
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
