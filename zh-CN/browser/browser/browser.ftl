@@ -791,3 +791,6 @@ restore-session-startup-suggestion-button = 告诉我如何做
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = 我要选择提供哪些信息
+    .accesskey = C
