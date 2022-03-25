@@ -798,3 +798,7 @@ restore-session-startup-suggestion-button = Näita juhiseid
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = Sinu kasutuskogemuse parandamiseks saadab { -brand-short-name } { -vendor-short-name }le mõningaid andmeid.
+data-reporting-notification-button =
+    .label = Vali saadetavad andmed
+    .accesskey = V
