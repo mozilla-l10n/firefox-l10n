@@ -415,6 +415,13 @@ popups-infobar-dont-show-message =
     .label = පොප්-අප් අවහිර කර ඇතිවිට මෙම පණිවිඩය පෙන්වන්න එපා
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -426,9 +433,6 @@ navbar-overflow =
 navbar-print =
     .label = මුද්‍රණය
     .tooltiptext = මෙම පිටුව මුදරණය කරන්න... ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = මුද්‍රණය
-    .tooltiptext = පිටුව මුද්‍රණය
 navbar-home =
     .label = මුල් පිටුව
     .tooltiptext = { -brand-short-name } නිවෙස් පිටුව
@@ -449,3 +453,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = සියළු ටැබ් ලැයිස්තුගත කරන්න
     .tooltiptext = සියළු ටැබ් ලැයිස්තුගත කරන්න
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
