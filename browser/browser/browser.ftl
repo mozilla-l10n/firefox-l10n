@@ -209,13 +209,17 @@ popups-infobar-dont-show-message =
     .label = O se ke wa laetša molaetša wo ge dirunyi di thibetšwe
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Ditaollo
-navbar-print-tab-modal-disabled =
-    .label = Gatiša
-    .tooltiptext = Gatiša letlakala le
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -226,3 +230,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Lokeletša dithepo tšohle
     .tooltiptext = Lokeletša dithepo tšohle
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
