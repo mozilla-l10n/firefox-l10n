@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Kluč stejnišćoweje słužby Google
 app-basics-safebrowsing-key-google = Kluč Safebrowsing Google
 app-basics-key-mozilla = Kluč stejnišćoweje słužby Mozilla
 app-basics-safe-mode = Wěsty modus
+app-basics-memory-size = Wulkosć składa (RAM)
+app-basics-disk-available = K dispoziciji stejacy tačelowy składowak
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] W Finder pokazać

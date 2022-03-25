@@ -18,7 +18,9 @@ pocket-panel-saved-error-not-saved = Strona njeje so składowała
 pocket-panel-saved-error-no-internet = Dyrbiće z internetom zwjazany być, zo byšće do { -pocket-brand-name } składował. Prošu zwjazajće z internetom a spytajće hišće raz.
 pocket-panel-saved-page-removed = Strona je so wotstroniła
 pocket-panel-saved-page-saved = Do { -pocket-brand-name } składowany
+pocket-panel-saved-page-saved-b = Do { -pocket-brand-name } składowany!
 pocket-panel-saved-processing-remove = Strona so wotstronja…
+pocket-panel-saved-removed = Strona je so z mojeje lisćiny wotstroniła
 pocket-panel-saved-processing-tags = Znački so přidawaja…
 pocket-panel-saved-remove-page = Stronu wotstronić
 pocket-panel-saved-save-tags = Składować
@@ -26,6 +28,8 @@ pocket-panel-saved-saving-tags = Składuje so…
 pocket-panel-saved-suggested-tags = Namjetowane znački
 pocket-panel-saved-tags-saved = Znački su so přidali
 pocket-panel-signup-view-list = Lisćinu pokazać
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Znački přidać:
 
 ## about:pocket-signup panel
 
@@ -67,3 +71,4 @@ pocket-panel-header-sign-in = Přizjewić
 pocket-panel-button-show-all = Wšě pokazać
 pocket-panel-button-add-tags = Znački přidać
 pocket-panel-button-activate = { -pocket-brand-name } w { -brand-product-name } aktiwizować
+pocket-panel-button-remove = Wotstronić
