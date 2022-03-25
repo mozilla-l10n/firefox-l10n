@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Чоп кардан
     .tooltiptext = Чоп кардани саҳифаи ҷорӣ… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Чоп кардан
-    .tooltiptext = Чоп кардани саҳифаи ҷорӣ
 navbar-home =
     .label = Саҳифаи асосӣ
     .tooltiptext = Саҳифаи асосии { -brand-short-name }
@@ -795,3 +792,7 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Варақаҳои қаблиро мекушоед?</strong> Шумо метавонед ҷаласаи қаблии худро тавассути менюи барномаи { -brand-short-name } <img data-l10n-name="icon"/>, дар зери «Таърих», кушоед.
 restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ тавр
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } баъзе маълумотро ба { -vendor-short-name } ба таври худкор ирсол мекунад, то ки мо тавонем таҷрибаи шуморо такмил диҳем.
