@@ -798,3 +798,6 @@ restore-session-startup-suggestion-button = Mutassa meg hogyan
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = Megosztandó adatok kiválasztása
+    .accesskey = v
