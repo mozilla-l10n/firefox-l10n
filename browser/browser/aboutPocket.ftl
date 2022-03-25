@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Las etiquetas están limitadas a 25 caract
 pocket-panel-saved-error-only-links = Sólo los enlaces pueden guardarse
 pocket-panel-saved-error-not-saved = Página no guardada
 pocket-panel-saved-error-no-internet = Debes estar conectado al Internet para guardar en { -pocket-brand-name }. Por favor, vuelve a conectarte al Internet e intenta de nuevo.
+pocket-panel-saved-error-remove = Ocurrió un error al intentar eliminar esta página.
 pocket-panel-saved-page-removed = Página eliminada
 pocket-panel-saved-page-saved = Guardado en { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = ¡Guardado en { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Eliminando página…
+pocket-panel-saved-removed = Página eliminada de Mi Lista
 pocket-panel-saved-processing-tags = Agregando etiquetas…
 pocket-panel-saved-remove-page = Eliminar página
 pocket-panel-saved-save-tags = Guardar
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Guardando…
 pocket-panel-saved-suggested-tags = Etiquetas sugeridas
 pocket-panel-saved-tags-saved = Etiquetas agregadas
 pocket-panel-signup-view-list = Ver lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Agregar etiquetas:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Iniciar sesión
 pocket-panel-button-show-all = Mostrar todo
 pocket-panel-button-add-tags = Agregar etiquetas
 pocket-panel-button-activate = Activar { -pocket-brand-name } en { -brand-product-name }
+pocket-panel-button-remove = Eliminar
