@@ -179,6 +179,10 @@ main-context-menu-copy-email =
     .label = Copia indirizzo email
     .accesskey = e
 
+main-context-menu-copy-phone =
+    .label = Copia numero di telefono
+    .accesskey = f
+
 main-context-menu-copy-link-simple =
     .label = Copia link
     .accesskey = a
