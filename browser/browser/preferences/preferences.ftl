@@ -204,6 +204,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Sử dụng giao diện sáng cho hình nền và nội dung trang web.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Sử dụng giao diện tối cho hình nền và nội dung trang web.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web. <a data-l10n-name="colors-link">Quản lý màu</a>

@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Khóa dịch vụ định vị Google
 app-basics-safebrowsing-key-google = Khóa Google Safebrowsing
 app-basics-key-mozilla = Khóa dịch vụ định vị Mozilla
 app-basics-safe-mode = Chế độ an toàn
+app-basics-memory-size = Dung lượng bộ nhớ (RAM)
+app-basics-disk-available = Không gian đĩa có sẵn
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Hiển thị trong Finder

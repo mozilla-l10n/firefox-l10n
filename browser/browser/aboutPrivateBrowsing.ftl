@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = Giữ riêng tư với { -mozilla-vpn-bra
 about-private-browsing-focus-promo-cta = Tải xuống { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Duyệt web riêng tư khi đang di chuyển
 about-private-browsing-focus-promo-text = Ứng dụng di động duyệt web riêng tư chuyên dụng của chúng tôi sẽ xóa lịch sử và cookie của bạn mọi lúc.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Duyệt qua điện thoại của bạn ở chế độ riêng tư
+about-private-browsing-focus-promo-text-b = Sử dụng { -focus-brand-name } cho những tìm kiếm riêng tư mà bạn không muốn trình duyệt chính trên thiết bị di động của mình nhìn thấy.
+about-private-browsing-focus-promo-header-c = Quyền riêng tư nâng cao trên thiết bị di động
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } xóa lịch sử của bạn mọi lúc trong khi chặn quảng cáo và trình theo dõi.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
