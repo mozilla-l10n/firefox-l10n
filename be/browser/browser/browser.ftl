@@ -802,6 +802,7 @@ restore-session-startup-suggestion-button = Паказаць мне як
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } аўтаматычна дасылае асобныя дадзеныя ў { -vendor-short-name }, каб мы маглі палепшыць ваш досвед.
 data-reporting-notification-button =
     .label = Выбраць, чым дзяліцца
     .accesskey = В
