@@ -762,9 +762,6 @@ navbar-overflow =
 navbar-print =
     .label = Cetak
     .tooltiptext = Cetak laman ini… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Cetak
-    .tooltiptext = Cetak laman ini
 navbar-home =
     .label = Beranda
     .tooltiptext = Beranda { -brand-short-name }
@@ -791,3 +788,7 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Buka tab sebelumnya?</strong> Anda dapat memulihkan sesi sebelumnya dari menu aplikasi { -brand-short-name } <img data-l10n-name="icon"/>, di bawah menu Riwayat.
 restore-session-startup-suggestion-button = Tunjukkan caranya
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } mengirimkan beberapa jenis data ke { -vendor-short-name } agar kami dapat meningkatkan pengalaman Anda.
