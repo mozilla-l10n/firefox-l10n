@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Ina extensiun, <im
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la moda da connexiun cun l'internet da { -brand-short-name }.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllescha quest parameter.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllescha quest parameter.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> pretenda tabs da container.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controllescha quest parameter.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controllescha co { -brand-short-name } connectescha cun l'internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,32 @@ containers-remove-cancel-button = Betg allontanar quest container
 
 language-and-appearance-header = Lingua ed apparientscha
 fonts-and-colors-header = Scrittiras & colurs
+preferences-web-appearance-header = Apparientscha da websites
+preferences-web-appearance-description = Tschertas websites adatteschan lur schema da colurs tut tenor tias preferenzas. Tscherna il schema da colur che ti utilisassas gugent per questas websites.
+preferences-web-appearance-choice-browser = Design da { -brand-short-name }
+preferences-web-appearance-choice-system = Design dal sistem
+preferences-web-appearance-choice-light = Cler
+preferences-web-appearance-choice-dark = Stgir
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Adattar il fund davos ed il cuntegn da websites als parameters da design da { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Adattar il fund davos ed il cuntegn da websites als parameters dal sistem.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Utilisar ina apparientscha clera per il fund davos ed il cuntegn da websites.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Utilisar ina apparientscha stgira per il fund davos ed il cuntegn da websites.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Tias tschernas da colurs surscrivan l'apparientscha da websites. <a data-l10n-name="colors-link">Administrar las colurs</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Administrescha ils designs da { -brand-short-name } en <a data-l10n-name="themes-link">Extensiuns e designs</a>
+preferences-colors-header = Colurs
+preferences-colors-description = Surscriver las colurs predefinidas da { -brand-short-name } per text, funds davos da websites e colliaziuns.
+preferences-colors-manage-button =
+    .label = Administrar las colurs…
+    .accesskey = c
+preferences-fonts-header = Scrittiras
 default-font = Scrittira da standard
     .accesskey = S
 default-font-size = Grondezza

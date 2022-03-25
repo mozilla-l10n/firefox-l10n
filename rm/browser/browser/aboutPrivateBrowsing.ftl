@@ -30,6 +30,9 @@ about-private-browsing-hide-activity = Zuppenta tias activitads e tia posiziun, 
 about-private-browsing-get-privacy = Protegia tia sfera privata dapertut nua che ti navigheschas
 about-private-browsing-hide-activity-1 = Zuppenta tia activitad da navigaziun e tia posiziun cun { -mozilla-vpn-brand-name }. In clic creescha ina connexiun segirada, perfin durant utilisar in WLAN public.
 about-private-browsing-prominent-cta = Salva tia sfera privata cun { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Telechargiar { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Navigaziun privata nua ch'i saja
+about-private-browsing-focus-promo-text = Nossa app per apparats mobils concepida per la navigaziun privata stizza automaticamain tia cronologia ed ils cookies.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +47,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Serrar
 about-private-browsing-dismiss-button =
     .title = Ignorar
+about-private-browsing-promo-close-button =
+    .title = Serrar
