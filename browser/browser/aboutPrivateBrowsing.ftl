@@ -30,6 +30,14 @@ about-private-browsing-hide-activity = Kaŝu viajn agojn kaj pozicion, kie ajn v
 about-private-browsing-get-privacy = Protektu vian privatecon kie ajn vi retumas
 about-private-browsing-hide-activity-1 = Kaŝu vian retumon kaj lokon per { -mozilla-vpn-brand-name }. Per simpla alklako vi kreos sekuran konekton, eĉ en publika sendrata reto.
 about-private-browsing-prominent-cta = Protektu vian privatecon per { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Elŝuti { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: privata retumo ie ajn
+about-private-browsing-focus-promo-text = Nia apo dediĉita al privata retumo viŝas vian historion kaj kuketojn post ĉiu uzo.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Retumu private ankaŭ en via telefono
+about-private-browsing-focus-promo-text-b = Uzu { -focus-brand-name } por tiuj privataj serĉoj, kiujn vi ne volas havigi al la ĉefa retumilo de via poŝaparato.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,3 +50,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Fermi
+about-private-browsing-dismiss-button =
+    .title = Ignori
+about-private-browsing-promo-close-button =
+    .title = Fermi
