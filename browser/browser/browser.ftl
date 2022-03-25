@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Skriv ut
     .tooltiptext = Skriv ut denne siden … ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Skriv ut
-    .tooltiptext = Skriv ut denne siden
 navbar-home =
     .label = Startside
     .tooltiptext = { -brand-short-name }-startside
@@ -795,3 +792,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Åpne tidligere faner?</strong> Du kan gjenopprette den forrige økten fra { -brand-short-name }-programmenyen <img data-l10n-name="icon"/>, under Historikk.
 restore-session-startup-suggestion-button = Vis meg hvordan
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
