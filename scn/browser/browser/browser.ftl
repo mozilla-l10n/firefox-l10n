@@ -402,6 +402,13 @@ picture-in-picture-hide-toggle =
     .label = Ammuccia buttuni dâ mmàggini-nnâ-mmàggini
     .accesskey = A
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -418,9 +425,6 @@ navbar-overflow =
 navbar-print =
     .label = Stampa
     .tooltiptext = Stampa sta pàggina… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Stampa
-    .tooltiptext = Stampa sta pàggina
 navbar-home =
     .label = Pàggina mastra
     .tooltiptext = Pàggina mastra di { -brand-short-name }
@@ -441,3 +445,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Lista di tutti i schedi
     .tooltiptext = Lista di tutti i schedi
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
