@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = 페이지가 삭제됨
 pocket-panel-saved-page-saved = { -pocket-brand-name }에 저장됨
 pocket-panel-saved-page-saved-b = { -pocket-brand-name }에 저장됨!
 pocket-panel-saved-processing-remove = 페이지를 삭제하는 중…
+pocket-panel-saved-removed = 내 목록에서 페이지가 삭제됨
 pocket-panel-saved-processing-tags = 태그를 추가하는 중…
 pocket-panel-saved-remove-page = 페이지 삭제
 pocket-panel-saved-save-tags = 저장
