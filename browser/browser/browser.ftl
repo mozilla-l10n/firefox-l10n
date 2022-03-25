@@ -796,3 +796,6 @@ restore-session-startup-suggestion-button = მანახეთ, როგო�
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ავტომატურად აგზავნის გარკვეულ მონაცემებს { -vendor-short-name }-ში, პროდუქტის გასაუმჯობესებლად.
+data-reporting-notification-button =
+    .label = გასაზიარებელ მონაცემთა შერჩევა
+    .accesskey = ზ
