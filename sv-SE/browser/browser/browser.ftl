@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Skriv ut
     .tooltiptext = Skriv ut denna sida… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Skriv ut
-    .tooltiptext = Skriv ut denna sida
 navbar-home =
     .label = Startsida
     .tooltiptext = { -brand-short-name } Hemsida
@@ -795,3 +792,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Öppna tidigare flikar?</strong>Du kan återställa din tidigare session från programmenyn i { -brand-short-name } <img data-l10n-name="icon"/>, under Historik.
 restore-session-startup-suggestion-button = Visa mig hur
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
