@@ -786,3 +786,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } automatically sends some data tae { -vendor-short-name } sae that we can impruive yer experience.
+data-reporting-notification-button =
+    .label = Pick Whit I Share
+    .accesskey = C
