@@ -209,13 +209,17 @@ popups-infobar-dont-show-message =
     .label = Usionyeshe ujumbe huu wakati viibukizi vimezuiliwa
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Upakuzi
-navbar-print-tab-modal-disabled =
-    .label = Chapisha
-    .tooltiptext = Chapisha ukurasa huu
 navbar-search =
     .title = Tafuta
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -228,3 +232,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Orodhesha vichupo vyote
     .tooltiptext = Orodhesha vichupo vyote
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
