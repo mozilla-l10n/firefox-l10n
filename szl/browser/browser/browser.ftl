@@ -720,6 +720,13 @@ picture-in-picture-hide-toggle =
     .label = Skryj szalter ôbrazu we ôbrozie
     .accesskey = S
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -736,9 +743,6 @@ navbar-overflow =
 navbar-print =
     .label = Durkuj
     .tooltiptext = Durkuj ta strōna… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Durkuj
-    .tooltiptext = Durkuj ta strōna
 navbar-home =
     .label = Dōmowo strōna
     .tooltiptext = Dōmowo strōna { -brand-short-name }
@@ -759,3 +763,13 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Wykoz wszyskich kart
     .tooltiptext = Wykoz wszyskich kart
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } autōmatycznie posyło dane do ôrganizacyje { -vendor-short-name }, tak iże mogymy polepszać nasza usuga.
+data-reporting-notification-button =
+    .label = Ôbier, co udostympniać
+    .accesskey = O
