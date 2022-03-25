@@ -32,7 +32,7 @@ about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name }으로 탐�
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name }으로 사생활 보호 유지
 about-private-browsing-focus-promo-cta = { -focus-brand-name } 다운로드
 about-private-browsing-focus-promo-header = { -focus-brand-name }: 열일하는 사생활 보호 모드
-about-private-browsing-focus-promo-text = 전용 사생활 보호 모드 모바일 앱은 매번 기록과 쿠키를 지웁니다.
+about-private-browsing-focus-promo-text = 전용 사생활 보호 모바일 앱은 매번 기록과 쿠키를 지웁니다.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
