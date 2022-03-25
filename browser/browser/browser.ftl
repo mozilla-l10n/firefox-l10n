@@ -505,3 +505,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = Çerte informaçioin se mandan aotomaticamente a { -vendor-short-name } da { -brand-short-name } pe megioane l'uzo.
+data-reporting-notification-button =
+    .label = Çerni cöse condividde
+    .accesskey = s
