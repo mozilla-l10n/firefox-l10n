@@ -432,3 +432,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = ನಿಮ್ಮ ಅನುಭವವನ್ನು ಉತ್ತಮಗೊಳಿಸಲು { -brand-short-name } ಸ್ವಯಂಚಾಲಿತವಾಗಿ { -vendor-short-name } ಗೆ ಕೆಲವು ಮಾಹಿತಿಯನ್ನು ಕಳುಹಿಸುತ್ತದೆ.
