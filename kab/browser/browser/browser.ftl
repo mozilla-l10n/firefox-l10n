@@ -796,6 +796,7 @@ restore-session-startup-suggestion-button = Sken-iyi-d amek
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } yettazen s wudem awurman talɣut i { -vendor-short-name } akken ad nwenneɛ tunigin-inek.
 data-reporting-notification-button =
     .label = Fren ayen ara bḍuɣ
     .accesskey = F
