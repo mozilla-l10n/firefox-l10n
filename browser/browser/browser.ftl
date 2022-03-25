@@ -459,3 +459,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = අපට ඔබේ අත්දැකීම වඩා දියුණු කිරීමට ඉඩදීම සඳහා { -brand-short-name } විසින් ස්වයංක්‍රීයව { -vendor-short-name } වෙත ඇතැම් දත්ත යවන ලදී.
