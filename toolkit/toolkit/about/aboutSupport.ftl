@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Clav dal servetsch da localisaziun da G
 app-basics-safebrowsing-key-google = Clav dal servetsch Google Safebrowsing
 app-basics-key-mozilla = Clav dal servetsch da posiziun da Mozilla
 app-basics-safe-mode = Modus privat
+app-basics-memory-size = Grondezza da la memoria (RAM)
+app-basics-disk-available = Memoria disponibla sin il disc
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Mussar en il finder
