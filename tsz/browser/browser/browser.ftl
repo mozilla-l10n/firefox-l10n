@@ -194,15 +194,25 @@ more-menu-go-offline =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Anchitarakua keskukuecha
-navbar-print-tab-modal-disabled =
-    .label = Uéchantaa
-    .tooltiptext = Ini karakatani uechatantsï
 tabs-toolbar-new-tab =
     .label = Jimbanhi iorhukua
 tabs-toolbar-list-all-tabs =
     .label = Xarhatani iámenduecha ma iorhukua
     .tooltiptext = Xarhatani iámenduecha ma iorhukua
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
