@@ -403,3 +403,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = За да го подобриме вашето доживување { -brand-short-name } автоматски испраќа некои податоци до { -vendor-short-name }.
+data-reporting-notification-button =
+    .label = Што споделувам?
+    .accesskey = с
