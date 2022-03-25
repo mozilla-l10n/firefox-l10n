@@ -777,9 +777,6 @@ navbar-overflow =
 navbar-print =
     .label = Ćišćeć
     .tooltiptext = Tutu stronu ćišćeć... ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Ćišćeć
-    .tooltiptext = Tutu stronu ćišćeć
 navbar-home =
     .label = Startowa strona
     .tooltiptext = Startowa strona { -brand-short-name }
@@ -806,3 +803,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Chceće předchadne rajtarki wočinić?</strong> Móžeće swoje předchadne posedźenje z nałoženskeho menija { -brand-short-name } <img data-l10n-name="icon"/> pod Historija wobnowić.
 restore-session-startup-suggestion-button = Pokazajće kak
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } do { -vendor-short-name } někotre daty sćele, zo bychmy móhli wašu praksu polěpšić.
+data-reporting-notification-button =
+    .label = Wubrać, štož so dźěli
+    .accesskey = u
