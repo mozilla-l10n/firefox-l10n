@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Chave do Serviço de Localização do G
 app-basics-safebrowsing-key-google = Chave do Google Safebrowsing
 app-basics-key-mozilla = Chave do serviço de localização da Mozilla
 app-basics-safe-mode = Modo de segurança
+app-basics-memory-size = Tamanho da memória (RAM)
+app-basics-disk-available = Espaço em disco disponível
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Mostrar no Finder
