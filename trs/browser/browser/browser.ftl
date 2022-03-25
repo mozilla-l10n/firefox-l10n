@@ -525,3 +525,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } a'nîn ma'ān ma dato { -vendor-short-name } da' nahuin hue'e ma.
+data-reporting-notification-button =
+    .label = Naduno' sa ga'ni' ga'anj
+    .accesskey = C
