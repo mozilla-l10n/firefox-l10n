@@ -162,14 +162,24 @@ popups-infobar-dont-show-message =
     .label = Ungabonisi umlayezo lo nakube iinsetjenziswa zeposo ewelako zivaliwe
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Khuphela
-navbar-print-tab-modal-disabled =
-    .label = Gadangisa
-    .tooltiptext = Gadangisa ikhaseli
 navbar-search =
     .title = Rhubhulula
 tabs-toolbar-new-tab =
     .label = Okutjha Isitjhidisi
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
