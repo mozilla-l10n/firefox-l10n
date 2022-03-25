@@ -559,3 +559,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = Seolann { -brand-short-name } sonraí chuig { -vendor-short-name } go huathoibríoch, chun an táirge a fheabhsú.
+data-reporting-notification-button =
+    .label = Roghnaigh Cad a Roinnfidh Mé
+    .accesskey = C
