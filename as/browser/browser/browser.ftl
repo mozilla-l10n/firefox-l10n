@@ -790,3 +790,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } এ স্বচালিতভাৱে কিছুমান তথ্য { -vendor-short-name } লে পঠায় যাতে আমি আপোনাৰ অনুভৱ উন্নত কৰিব পাৰো।
