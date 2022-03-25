@@ -207,11 +207,15 @@ popups-infobar-dont-show-message =
     .label = முன்னெழும் சாளரங்கள் தடைசெய்யப்பட்டிருக்கும்போது இந்த செய்தியைக் காட்டதே.
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
-navbar-print-tab-modal-disabled =
-    .label = அச்சிடுக
-    .tooltiptext = இந்தப் பக்கத்தை அச்சிடுக
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -222,3 +226,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து தத்தல்களையும் பட்டியலிடுக
     .tooltiptext = அனைத்து தத்தல்களையும் பட்டியலிடுக
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
