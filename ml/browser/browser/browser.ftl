@@ -444,3 +444,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } സ്വയമായി ചില ഡേറ്റാ { -vendor-short-name }-ലേക്കു് അയയ്ക്കുന്നു, ഇങ്ങനെ നിങ്ങളുടെ പ്രവര്‍ത്തനം മെച്ചപ്പെടുത്താം.
