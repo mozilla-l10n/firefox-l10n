@@ -769,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Afdrukken
     .tooltiptext = Deze pagina afdrukken… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Afdrukken
-    .tooltiptext = Deze pagina afdrukken
 navbar-home =
     .label = Startpagina
     .tooltiptext = { -brand-short-name }-startpagina
@@ -798,3 +795,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Eerdere tabbladen openen?</strong> U kunt uw vorige sessie herstellen vanuit het toepassingsmenu van { -brand-short-name } <img data-l10n-name="icon"/>, onder Geschiedenis.
 restore-session-startup-suggestion-button = Tonen hoe
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
