@@ -204,6 +204,10 @@ spaces-toolbar-button-overflow =
     .title = Mais espaços…
 spaces-toolbar-button-settings2 =
     .title = Configurações
+spaces-toolbar-button-hide =
+    .title = Ocultar barra de espaços
+spaces-toolbar-button-show =
+    .title = Exibir barra de espaços
 spaces-context-new-tab-item =
     .label = Abrir em nova aba
 spaces-context-new-window-item =
@@ -235,6 +239,10 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
