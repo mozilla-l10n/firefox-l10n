@@ -795,3 +795,7 @@ restore-session-startup-suggestion-button = Wie es funktioniert
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } sendet automatisch einige Daten an { -vendor-short-name }, damit die Benutzerzufriedenheit verbessert werden kann.
+data-reporting-notification-button =
+    .label = Zu übermittelnde Daten festlegen
+    .accesskey = f
