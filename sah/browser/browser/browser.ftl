@@ -244,3 +244,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = Браузер үлэтин тупсараары { -brand-short-name } сорох дааннайдары манна { -vendor-short-name } ыытар.
