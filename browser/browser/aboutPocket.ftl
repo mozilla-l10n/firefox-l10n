@@ -18,6 +18,7 @@ pocket-panel-saved-error-not-saved = Az oldal nem lett mentve
 pocket-panel-saved-error-no-internet = Csatlakoznia kell az internethez a { -pocket-brand-name }re mentéshez. Ellenőrizze az internetkapcsolatot, és próbálja újra.
 pocket-panel-saved-page-removed = Oldal eltávolítva
 pocket-panel-saved-page-saved = Mentve a { -pocket-brand-name }be
+pocket-panel-saved-page-saved-b = Mentve a { -pocket-brand-name }be.
 pocket-panel-saved-processing-remove = Oldal eltávolítása…
 pocket-panel-saved-processing-tags = Címkék hozzáadása…
 pocket-panel-saved-remove-page = Oldal eltávolítása
@@ -26,6 +27,8 @@ pocket-panel-saved-saving-tags = Mentés…
 pocket-panel-saved-suggested-tags = Javasolt címkék
 pocket-panel-saved-tags-saved = Címkék hozzáadva
 pocket-panel-signup-view-list = Lista megjelenítése
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Címkék hozzáadása:
 
 ## about:pocket-signup panel
 
@@ -67,3 +70,4 @@ pocket-panel-header-sign-in = Bejelentkezés
 pocket-panel-button-show-all = Összes megjelenítése
 pocket-panel-button-add-tags = Címkék hozzáadása
 pocket-panel-button-activate = A { -pocket-brand-name } aktiválása a { -brand-product-name }ban
+pocket-panel-button-remove = Eltávolítás
