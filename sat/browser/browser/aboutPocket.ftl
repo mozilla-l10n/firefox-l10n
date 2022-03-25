@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = ᱴᱮᱜᱽ ᱠᱚ 25 ᱟᱠᱷᱚᱨ ᱢ
 pocket-panel-saved-error-only-links = ᱠᱷᱟᱹᱞᱤ ᱞᱤᱸᱠ ᱜᱮ ᱥᱮᱵᱷ ᱜᱟᱱᱚᱜᱼᱟ
 pocket-panel-saved-error-not-saved = ᱥᱟᱦᱴᱟ ᱵᱟᱝ ᱥᱮᱵᱷ ᱟ
 pocket-panel-saved-error-no-internet = { -pocket-brand-name } ᱨᱮ ᱥᱮᱵᱷ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱥᱟᱶ ᱡᱚᱲᱟᱣ ᱛᱟᱸᱦᱮ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾ ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱨᱮ ᱡᱚᱲᱟᱣ ᱢᱮ ᱟᱨ ᱫᱚᱦᱚᱲᱟ ᱨᱤᱠᱟᱹᱭ ᱢᱮ ᱾
+pocket-panel-saved-error-remove = ᱥᱟᱦᱴᱟ ᱚᱪᱚᱜᱽ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱭᱮᱱᱟ ᱾
 pocket-panel-saved-page-removed = ᱥᱟᱦᱴᱟ ᱚᱪᱚᱜ ᱮᱱᱟ
 pocket-panel-saved-page-saved = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
+pocket-panel-saved-page-saved-b = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ!
 pocket-panel-saved-processing-remove = ᱥᱟᱦᱴᱟ ᱚᱪᱚᱜᱚᱜ ᱠᱟᱱᱟ…
+pocket-panel-saved-removed = ᱤᱧᱟᱜ ᱞᱤᱥᱴᱭ ᱠᱷᱚᱱ ᱥᱟᱦᱴᱟ ᱫᱚ ᱚᱪᱚᱜᱽ ᱮᱱᱟ
 pocket-panel-saved-processing-tags = ᱴᱮᱜᱽ ᱥᱮᱞᱮᱫᱚᱜ ᱠᱟᱱᱟ…
 pocket-panel-saved-remove-page = ᱥᱟᱦᱴᱟ ᱚᱪᱚᱜᱽ ᱢᱮ
 pocket-panel-saved-save-tags = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = ᱥᱟᱺᱪᱟᱣᱜ ᱠᱟᱱᱟ…
 pocket-panel-saved-suggested-tags = ᱵᱟᱛᱟᱣᱟᱠᱟᱱ ᱴᱮᱜᱽ ᱠᱚ
 pocket-panel-saved-tags-saved = ᱴᱮᱜᱽ ᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 pocket-panel-signup-view-list = ᱞᱤᱥᱴ ᱧᱮᱞ ᱢᱮ
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = ᱴᱮᱜᱽ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ :
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 pocket-panel-button-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 pocket-panel-button-add-tags = ᱴᱮᱜᱽ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 pocket-panel-button-activate = { -pocket-brand-name } ᱫᱚ{ -brand-product-name } ᱨᱮ ᱮᱛᱦᱚᱵᱽ ᱢᱮ
+pocket-panel-button-remove = ᱚᱪᱚᱜᱽ ᱢᱮ

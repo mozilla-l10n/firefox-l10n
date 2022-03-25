@@ -210,6 +210,8 @@ newtab-discovery-empty-section-topstories-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ᱧᱩᱛᱩᱢᱟᱱ ᱵᱤᱥᱚᱭ ᱠᱚ :
 newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
 # A save to Pocket button that shows over the card thumbnail on hover.
