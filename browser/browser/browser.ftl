@@ -767,9 +767,6 @@ navbar-overflow =
 navbar-print =
     .label = Tulosta
     .tooltiptext = Tulosta sivu… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Tulosta
-    .tooltiptext = Tulosta sivu
 navbar-home =
     .label = Aloitussivu
     .tooltiptext = { -brand-short-name }-aloitussivu
@@ -796,3 +793,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Haluatko avata aiemmat välilehdet?</strong> Voit palauttaa aiemman istunnon { -brand-short-name }in sovellusvalikosta <img data-l10n-name="icon"/> kohdasta Sivuhistoria.
 restore-session-startup-suggestion-button = Näytä ohje
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
