@@ -26,13 +26,17 @@ calendar-invitation-datetime-time = { $time } ({ $timezone })
 calendar-invitation-panel-prop-title-attendees = Þátttakendur:
 calendar-invitation-panel-prop-title-description = Lýsing:
 # Variables:
-# $partStat (String) - String indicating the participation status of an attendee.
-calendar-invitation-panel-partstat-summary =
-    { $partStat ->
-        [ACCEPTED] { $count } já
-        [DECLINED] { $count } nei
-        [TENTATIVE] { $count } kannski
-        [NEEDS-ACTION] { $count } í bið
-        [TOTAL] { $count } þátttakendur
-       *[OTHER] { $count } aðrir
-    }
+# $count (Number) - The number of attendees with the "ACCEPTED" participation status.
+calendar-invitation-panel-partstat-accepted = { $count } já
+# Variables:
+# $count (Number) - The number of attendees with the "DECLINED" participation status.
+calendar-invitation-panel-partstat-declined = { $count } nei
+# Variables:
+# $count (Number) - The number of attendees with the "TENTATIVE" participation status.
+calendar-invitation-panel-partstat-tentative = { $count } kannski
+# Variables:
+# $count (Number) - The number of attendees with the "NEEDS-ACTION" participation status.
+calendar-invitation-panel-partstat-needs-action = { $count } í bið
+# Variables:
+# $count (Number) - The total number of attendees.
+calendar-invitation-panel-partstat-total = { $count } þátttakendur
