@@ -11,6 +11,8 @@ about-unloads-page-title = Asefsex n usali n yiccer
 # with title "Tab Unloading"
 about-unloads-learn-more = Wali ammagrad <a data-l10n-name="doc-link">Tab Unloading</a> i wakken ad tissineḍ ugar
 about-unloads-last-updated = Aleqqem anaggaru: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = Sefsex asali
+    .title = Asefsex n usali n yiccer yesεan azal afellay
 about-unloads-column-priority = Tazwart
 about-unloads-column-host = Asenneftaɣ
 about-unloads-column-last-accessed = Anekcum aneggaru
