@@ -236,3 +236,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } ka maitirišo e romela tsebišo e itšego go { -vendor-short-name } gore re kgone go kaonafatša maitemogelo a gago.
