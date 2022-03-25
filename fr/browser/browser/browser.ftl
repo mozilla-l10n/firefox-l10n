@@ -769,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Imprimer
     .tooltiptext = Imprimer cette page… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Imprimer
-    .tooltiptext = Imprimer cette page
 navbar-home =
     .label = Accueil
     .tooltiptext = Page d’accueil de { -brand-short-name }
@@ -798,3 +795,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Rouvrir les onglets précédents ?</strong> Vous pouvez restaurer votre session précédente depuis le menu de l’application { -brand-short-name } <img data-l10n-name="icon"/>, sous Historique.
 restore-session-startup-suggestion-button = Comment faire
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
