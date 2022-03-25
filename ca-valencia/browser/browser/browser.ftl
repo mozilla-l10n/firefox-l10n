@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Imprimeix
     .tooltiptext = Imprimeix esta pàgina… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Imprimeix
-    .tooltiptext = Imprimeix esta pàgina
 navbar-home =
     .label = Inici
     .tooltiptext = Pàgina d'inici del { -brand-short-name }
@@ -795,3 +792,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Voleu obrir les pestanyes anteriors?</strong> Podeu restaurar la sessió anterior des del menú de l'aplicació del { -brand-short-name } <img data-l10n-name="icon"/>, dins l'«Historial».
 restore-session-startup-suggestion-button = Mostra com fer-ho
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } tramet automàticament algunes dades a { -vendor-short-name } perquè puguem millorar la vostra experiència.
+data-reporting-notification-button =
+    .label = Deixa'm triar què vull compartir
+    .accesskey = c
