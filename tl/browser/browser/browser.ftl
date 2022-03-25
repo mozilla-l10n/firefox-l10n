@@ -764,3 +764,6 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = Piliin ang Ibabahagi
+    .accesskey = D
