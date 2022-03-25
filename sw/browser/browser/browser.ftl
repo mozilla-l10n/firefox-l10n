@@ -238,3 +238,4 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } hutuma kiotomatiki baadhi ya data kwenye { -vendor-short-name } ili tuweze kuboresha uzoefu wako.
