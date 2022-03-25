@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Nyckel Google Location Service
 app-basics-safebrowsing-key-google = Nyckel Google Safe browsing
 app-basics-key-mozilla = Nyckel Mozilla Location Service
 app-basics-safe-mode = Felsäkert läge
+app-basics-memory-size = Minnesstorlek (RAM)
+app-basics-disk-available = Tillgängligt diskutrymme
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Visa i Finder
