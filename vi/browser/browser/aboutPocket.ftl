@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Các tag được giới hạn trong 25 k�
 pocket-panel-saved-error-only-links = Chỉ các các liên kết mới có thể được lưu lại
 pocket-panel-saved-error-not-saved = Trang chưa được lưu
 pocket-panel-saved-error-no-internet = Bạn phải kết nối Internet để lưu vào { -pocket-brand-name }. Vui lòng kết nối Internet và thử lại.
+pocket-panel-saved-error-remove = Đã xảy ra lỗi khi thử xóa trang này.
 pocket-panel-saved-page-removed = Trang đã bị xóa
 pocket-panel-saved-page-saved = Đã lưu vào { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Đã lưu vào { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Đang xóa trang...
+pocket-panel-saved-removed = Đã xóa trang khỏi danh sách của tôi
 pocket-panel-saved-processing-tags = Đang thêm các tag...
 pocket-panel-saved-remove-page = Xóa trang
 pocket-panel-saved-save-tags = Lưu lại
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Đang lưu lại...
 pocket-panel-saved-suggested-tags = Các tag được đề xuất
 pocket-panel-saved-tags-saved = Các tag đã được thêm vào
 pocket-panel-signup-view-list = Xem danh sách
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Thêm tag
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Đăng nhập
 pocket-panel-button-show-all = Hiển thị tất cả
 pocket-panel-button-add-tags = Thêm tag
 pocket-panel-button-activate = Kích hoạt { -pocket-brand-name } trong { -brand-product-name }
+pocket-panel-button-remove = Xóa
