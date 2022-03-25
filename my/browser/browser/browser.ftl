@@ -460,6 +460,13 @@ popups-infobar-dont-show-message =
     .label = ဤစာတန်းအား pop-ups ဝင်းဒိုးများပိတ်ထားပါက ထပ်မပြပါနှင့်။
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -471,9 +478,6 @@ navbar-overflow =
 navbar-print =
     .label = ပုံနှိပ်ရန်
     .tooltiptext = ဤစာမျက်နှာအား ပရင့်ထုတ်ပါ ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = ပုံနှိပ်ရန်
-    .tooltiptext = ဒီစာမျက်နှာကို ပုံနှိပ်ရန်
 navbar-home =
     .label = အဖွင့်စာမျက်နှာ
     .tooltiptext = { -brand-short-name } အဖွင့်စာမျက်နှာ
@@ -494,3 +498,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ
     .tooltiptext = တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
