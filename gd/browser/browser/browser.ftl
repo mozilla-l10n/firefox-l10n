@@ -728,6 +728,13 @@ picture-in-picture-hide-toggle =
     .label = Falaich toglachadh dealbh am broinn deilbh
     .accesskey = h
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -744,9 +751,6 @@ navbar-overflow =
 navbar-print =
     .label = Clò-bhuail
     .tooltiptext = Clò-bhuail an duilleag seo… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Clò-bhuail
-    .tooltiptext = Clò-bhuail an duilleag seo
 navbar-home =
     .label = Dhachaigh
     .tooltiptext = Duilleag-dhachaigh { -brand-short-name }
@@ -767,3 +771,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Liostaich gach taba
     .tooltiptext = Liostaich gach taba
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
