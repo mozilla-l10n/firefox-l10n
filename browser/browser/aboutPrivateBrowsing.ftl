@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = Mantenha a privacidade com a { -mozilla-v
 about-private-browsing-focus-promo-cta = Transferir o { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegação privada em qualquer lugar
 about-private-browsing-focus-promo-text = A nossa app móvel dedicada a uma navegação privada limpa sempre o seu histórico e cookies.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Leve a navegação privada para o seu telefone
+about-private-browsing-focus-promo-text-b = Use o { -focus-brand-name } para as pesquisas privadas que não deseja que o seu navegador principal para dispositivos móveis veja.
+about-private-browsing-focus-promo-header-c = Privacidade do próximo nível em dispositivos móveis
+about-private-browsing-focus-promo-text-c = O { -focus-brand-name } limpa o seu histórico todas as vezes enquanto bloqueia anúncios e rastreadores.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
