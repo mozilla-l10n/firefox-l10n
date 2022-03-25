@@ -769,9 +769,6 @@ navbar-overflow =
 navbar-print =
     .label = Mbokuatia
     .tooltiptext = Embokuatia ko kuatiarogue… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Mbokuatia
-    .tooltiptext = Ko kuatiarogue mbokuatia
 navbar-home =
     .label = Ñepyrũ
     .tooltiptext = Kuatiarogue ñepyrũ { -brand-short-name } mba’éva
@@ -798,3 +795,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>¿Embojuruja tendayke mboyveguáva?</strong> Ehechajeykuaa ne rembiapokue tembipuru’i poravorã guive { -brand-short-name } <img data-l10n-name="icon"/>, Rembiasakuépe.
 restore-session-startup-suggestion-button = Ehechauka mba’éichapa
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
