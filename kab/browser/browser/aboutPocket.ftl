@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Tibzimin ɣur-sent talast n 25 n isekkilen
 pocket-panel-saved-error-only-links = Al iseɣwan i yezmren ad ttwakelsen
 pocket-panel-saved-error-not-saved = Asebter ur yettwakles ara
 pocket-panel-saved-error-no-internet = Ilaq ad teqqneḍ ɣer internet i wakken ad teskelseḍ { -pocket-brand-name }. Ttxil-k·m qqen ɣer Internet syen εreḍ tikkelt-nniḍen.
+pocket-panel-saved-error-remove = Tella-d tuccḍa deg tukksa n usebter-a.
 pocket-panel-saved-page-removed = Asebter yettwakkes
 pocket-panel-saved-page-saved = Yettwakles ɣer { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Yettwasekles deg { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Tukksa n isebtar…
+pocket-panel-saved-removed = Yettwekkes usebter seg tebdart-inu
 pocket-panel-saved-processing-tags = Timerna n tebzimin…
 pocket-panel-saved-remove-page = Kkes asebter
 pocket-panel-saved-save-tags = Sekles
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Asekles…
 pocket-panel-saved-suggested-tags = Tibzimin yettwasumren
 pocket-panel-saved-tags-saved = Tibzimin yettwarnan
 pocket-panel-signup-view-list = Sken tabdart
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Rnu tibzimin:
 
 ## about:pocket-signup panel
 
@@ -38,6 +43,10 @@ pocket-panel-signup-signup-firefox = Jerred s { -brand-product-name }
 pocket-panel-signup-tagline = Sekles imagraden akked tvidyutin si { -brand-product-name } akken ad twaliḍ di { -pocket-brand-name } ɣef yal ibenk, melmi tebɣiḍ.
 pocket-panel-signup-tagline-story-one = Sit ɣef tqeffalt { -pocket-brand-name } akken ad teskelseḍ yal amagrad, tavidyut neɣ asebter si { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Sken di { -pocket-brand-name } ɣef yal ibenk yellan, melmi tebɣiḍ.
+pocket-panel-signup-cta-a = Taqeffalt-ik n usekles i internet.
+pocket-panel-signup-cta-a-fix = Taqeffalt-ik n usekles i internet
+pocket-panel-signup-cta-b = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan. Wali tabdart-ik ɣef yal ibenk, melmi i tebɣiḍ.
+pocket-panel-signup-cta-b-short = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan.
 pocket-panel-signup-cta-c = Wali tabdart-ik ɣef yal ibenk, melmi tebɣiḍ.
 
 ## about:pocket-home panel
@@ -48,6 +57,10 @@ pocket-panel-home-paragraph = Tzemreḍ ad tesqedceḍ { -pocket-brand-name } i 
 pocket-panel-home-explore-popular-topics = Snirem isental yettwassnen
 pocket-panel-home-discover-more = Issin ugar
 pocket-panel-home-explore-more = Snirem
+pocket-panel-home-most-recent-saves = Ha-ten-a iseklas n melmi kan:
+pocket-panel-home-most-recent-saves-loading = Asali n yiseklas n melmi kan…
+pocket-panel-home-new-user-cta = Sit ɣef tqeffalt { -pocket-brand-name } i usekles n yimagraden, n tvidyutin d yiseɣwan.
+pocket-panel-home-new-user-message = Wali iseklas-inek n melmi kan da.
 
 ## Pocket panel header component
 
@@ -59,3 +72,4 @@ pocket-panel-header-sign-in = Kcem
 pocket-panel-button-show-all = Sken akk
 pocket-panel-button-add-tags = Rnu tibzimin
 pocket-panel-button-activate = Rmed { -pocket-brand-name } deg { -brand-product-name }
+pocket-panel-button-remove = Kkes

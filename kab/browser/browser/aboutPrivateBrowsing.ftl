@@ -32,6 +32,10 @@ about-private-browsing-hide-activity-1 = Ffer armud d wadig n tunigin s { -mozil
 about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Sader { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: tunigin tusligt tazirazt
+about-private-browsing-focus-promo-text = Asnas-nneɣ aziraz yettwagen i tunigin tusligt itekkes azray-inek d yinagan n tuqqna seld yal aseqdec.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
