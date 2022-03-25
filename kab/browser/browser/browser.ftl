@@ -793,3 +793,9 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Sken-iyi-d amek
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-button =
+    .label = Fren ayen ara bḍuɣ
+    .accesskey = F
