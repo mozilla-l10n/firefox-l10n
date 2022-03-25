@@ -435,6 +435,13 @@ popups-infobar-dont-show-message =
     .label = পপ-আপ প্রদর্শনে বাধা প্রদান করা হলে এই বার্তাটি প্রদর্শন করা হবে না
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -446,9 +453,6 @@ navbar-overflow =
 navbar-print =
     .label = প্রিন্ট করুন
     .tooltiptext = এই পৃষ্ঠা প্রিন্ট করুন… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = প্রিন্ট করুন
-    .tooltiptext = বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন
 navbar-home =
     .label = হোম
     .tooltiptext = { -brand-short-name } হোম পেজ
@@ -469,3 +473,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
     .tooltiptext = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
