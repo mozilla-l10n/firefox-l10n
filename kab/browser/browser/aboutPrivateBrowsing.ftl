@@ -36,6 +36,10 @@ about-private-browsing-focus-promo-text = Asnas-nneɣ aziraz yettwagen i tunigin
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Fṛes tunigin tusligt ɣef tiliɣri-inek
+about-private-browsing-focus-promo-text-b = Seqdec { -focus-brand-name } i yinadiyen-a usligen ur tebɣiḍ ad ten-iwali iminig-ik aziraz.
+about-private-browsing-focus-promo-header-c = Tabaḍnit izaden ɣef uziraz
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } iseffeḍ azray-ik yal mi ara ttusweḥlen udellel d yineḍfaren.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
