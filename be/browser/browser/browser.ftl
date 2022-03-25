@@ -802,3 +802,6 @@ restore-session-startup-suggestion-button = Паказаць мне як
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = Выбраць, чым дзяліцца
+    .accesskey = В
