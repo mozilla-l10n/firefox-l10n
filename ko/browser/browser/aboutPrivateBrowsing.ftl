@@ -36,6 +36,8 @@ about-private-browsing-focus-promo-text = 전용 사생활 보호 모바일 앱�
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = 휴대폰으로 사생활 보호 모드 사용
+about-private-browsing-focus-promo-text-b = 주 모바일 브라우저에 표시하고 싶지 않은 사생활 검색에는 { -focus-brand-name }를 사용하세요.
 about-private-browsing-focus-promo-header-c = 모바일에서 한 차원 높은 개인 정보 보호
 about-private-browsing-focus-promo-text-c = { -focus-brand-name }는 광고와 추적기를 차단하면서 매번 기록을 지웁니다.
 # This string is the title for the banner for search engine selection
