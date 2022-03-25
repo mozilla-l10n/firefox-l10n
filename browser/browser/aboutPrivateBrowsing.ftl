@@ -38,6 +38,8 @@ about-private-browsing-focus-promo-text = Nia apo dediĉita al privata retumo vi
 
 about-private-browsing-focus-promo-header-b = Retumu private ankaŭ en via telefono
 about-private-browsing-focus-promo-text-b = Uzu { -focus-brand-name } por tiuj privataj serĉoj, kiujn vi ne volas havigi al la ĉefa retumilo de via poŝaparato.
+about-private-browsing-focus-promo-header-c = Altgrada privateco en viaj poŝaparatoj
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } viŝas vian historion post ĉiu uzo, dum ĝi cetere blokas reklamojn kaj spurilojn.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
