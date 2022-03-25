@@ -199,11 +199,15 @@ popups-infobar-dont-show-message =
     .label = Saan a maipakita daytoy a mensahe no malapdan ti tumpuar a tawa
     .accesskey = S
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
-navbar-print-tab-modal-disabled =
-    .label = Imaldit
-    .tooltiptext = Imaldit daytoy a panid
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -214,3 +218,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = List all tabs
     .tooltiptext = List all tabs
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
