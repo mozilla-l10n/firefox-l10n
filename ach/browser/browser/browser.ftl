@@ -536,3 +536,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } cwalo pire kene tic mogo bot { -vendor-short-name } wek wa yub kit me ticci.
+data-reporting-notification-button =
+    .label = Yer ngo ma anywako
+    .accesskey = Y
