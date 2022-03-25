@@ -727,6 +727,13 @@ picture-in-picture-hide-toggle =
     .label = Tewäx Rupitz'b'al Picture-in-Picture
     .accesskey = T
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -743,9 +750,6 @@ navbar-overflow =
 navbar-print =
     .label = Titz'ajb'äx
     .tooltiptext = Titz'ajb'äx re ruxaq re'… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Titz'ajb'äx
-    .tooltiptext = Titz'ajb'äx re ruxaq re'
 navbar-home =
     .label = Tikirib'äl
     .tooltiptext = { -brand-short-name } Rutikirib'al Ruxaq
@@ -766,3 +770,12 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Kecholajïx ronojel taq ruwi'
     .tooltiptext = Kecholajïx ronojel taq ruwi'
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-button =
+    .label = Tincha' na ri ninkomonij
+    .accesskey = T
