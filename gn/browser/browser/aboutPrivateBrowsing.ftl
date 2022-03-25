@@ -37,6 +37,7 @@ about-private-browsing-focus-promo-text = Ore pumbyry rembipuru’i rojapóva o�
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Eguerova kundahára ñemi ne pumbyrýpe
+about-private-browsing-focus-promo-text-b = Eipuru { -focus-brand-name } jeheka ñemiguarã epota’ỹva ohecha ne kundahára pumburygua eipuruvéva.
 about-private-browsing-focus-promo-header-c = Tekoñemi tenondeve gotyo pumbyrýpe
 # This string is the title for the banner for search engine selection
 # in a private window.
