@@ -207,13 +207,17 @@ popups-infobar-dont-show-message =
     .label = Tolaga bubaka buno nga bukyeleeta buzibiridwa
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Ebiwanulwa
-navbar-print-tab-modal-disabled =
-    .label = Fulumya
-    .tooltiptext = Fulumya omuko guno
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -224,3 +228,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Tekawo olukalala kw'awaddirira wonna
     .tooltiptext = Tekawo olukalala kw'awaddirira wonna
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
