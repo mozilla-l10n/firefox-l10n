@@ -773,9 +773,6 @@ navbar-overflow =
 navbar-print =
     .label = Печать
     .tooltiptext = Распечатать эту страницу… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Печать
-    .tooltiptext = Распечатать эту страницу
 navbar-home =
     .label = Домой
     .tooltiptext = Домашняя страница { -brand-short-name }
@@ -802,3 +799,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Открыть предыдущие вкладки?</strong> Вы можете восстановить предыдущий сеанс из меню { -brand-short-name } <img data-l10n-name="icon"/> в разделе История.
 restore-session-startup-suggestion-button = Показать мне как
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
