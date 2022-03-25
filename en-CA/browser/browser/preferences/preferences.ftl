@@ -216,6 +216,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Use a light appearance for website backgrounds and content.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Use a dark appearance for website backgrounds and content.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Your colour selections are overriding website appearance. <a data-l10n-name="colors-link">Manage colours</a>
