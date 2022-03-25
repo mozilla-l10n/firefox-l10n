@@ -204,6 +204,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = 웹 사이트 배경 및 콘텐츠에 밝은 화면 배색을 사용합니다.
 preferences-web-appearance-choice-tooltip-dark =
     .title = 웹 사이트 배경 및 콘텐츠에 어두운 화면 배색을 사용합니다.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다. <a data-l10n-name="colors-link">색상 관리</a>
