@@ -827,9 +827,6 @@ navbar-overflow =
 navbar-print =
     .label = Vytisknout
     .tooltiptext = Vytiskne tuto stránku… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Vytisknout
-    .tooltiptext = Vytiskne tuto stránku
 navbar-home =
     .label = Domů
     .tooltiptext =
@@ -868,3 +865,6 @@ restore-session-startup-suggestion-message =
        *[other] aplikace { -brand-short-name }
     } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
 restore-session-startup-suggestion-button = Jak na to
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
