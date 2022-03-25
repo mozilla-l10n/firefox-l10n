@@ -438,6 +438,13 @@ popups-infobar-dont-show-message =
     .label = Peydalar bloklanğanda bu mesajnı kösterme
     .accesskey = d
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -449,9 +456,6 @@ navbar-overflow =
 navbar-print =
     .label = Bastır
     .tooltiptext = Bu saifeni bastır… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Bastır
-    .tooltiptext = Bu saifeni bastır
 navbar-home =
     .label = Ev
     .tooltiptext = { -brand-short-name } Ev Saifesi
@@ -472,3 +476,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = İlmeklerniñ episini tiz
     .tooltiptext = İlmeklerniñ episini tiz
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
