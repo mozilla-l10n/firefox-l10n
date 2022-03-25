@@ -436,6 +436,13 @@ popups-infobar-dont-show-message =
     .label = Nerādīt šo paziņojumu, bloķējot jaunos logus
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -447,9 +454,6 @@ navbar-overflow =
 navbar-print =
     .label = Drukāt
     .tooltiptext = Drukāt šo lapu… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Drukāt
-    .tooltiptext = Drukāt šo lapu
 navbar-home =
     .label = Sākumlapa
     .tooltiptext = { -brand-short-name } sākumlapa
@@ -470,3 +474,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Visu ciļņu saraksts
     .tooltiptext = Visu ciļņu saraksts
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
