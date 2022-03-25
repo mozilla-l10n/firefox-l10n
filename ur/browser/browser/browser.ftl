@@ -668,3 +668,4 @@ restore-session-startup-suggestion-button = مجھے دکھاؤ کیسے
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } خودکار طور پر { -vendor-short-name } کو کچھ کوائف بھیجتا ہے تاکہ ہم آپ کا تجربہ بہتر کر سکیں۔
