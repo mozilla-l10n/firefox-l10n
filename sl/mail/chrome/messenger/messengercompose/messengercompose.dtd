@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Sporočilo">
+<!ENTITY newMessage.accesskey "S">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Stik iz imenika …">
 <!ENTITY newContact.accesskey "k">
