@@ -349,3 +349,6 @@ tabs-toolbar-list-all-tabs =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } स्वतः किछु आँकड़ा केँ { -vendor-short-name } मे भेजैछ जाहिसँ हम अहाँ अनुभव केँ बढ़ा सकू.
+data-reporting-notification-button =
+    .label = चुनू जकरा हम साझा कएलहुँ (C)
+    .accesskey = C
