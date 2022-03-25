@@ -798,3 +798,7 @@ restore-session-startup-suggestion-button = Ehechauka mba’éichapa
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } oguerahauka ijeheguite heta mba’e { -vendor-short-name }-pe ikatuhápe iñakãpu’ã tembihasakue.
+data-reporting-notification-button =
+    .label = Aiporavo mba’etépa amoherakuãta
+    .accesskey = C
