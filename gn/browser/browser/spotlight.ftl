@@ -9,6 +9,8 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Eguerekóta Google Play rupi
 
 ## Firefox Focus promo message strings
 

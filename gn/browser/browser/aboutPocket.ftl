@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Umi teramoĩme eipurukuaa 25 tai peve añ�
 pocket-panel-saved-error-only-links = Eñongatukuaa juajuha añoite
 pocket-panel-saved-error-not-saved = Kuatiarogue ñongatu’ỹva
 pocket-panel-saved-error-no-internet = Eimeva’erã ñandutípe eñongatukuaa hag̃ua { -pocket-brand-name } ryepýpe. Ehechajey nde jeike ha eha’ãjey uperire.
+pocket-panel-saved-error-remove = Oiko jejavy eñongatukuévo ko kuatiarogue.
 pocket-panel-saved-page-removed = Kuatiarogue mboguetepyre
 pocket-panel-saved-page-saved = { -pocket-brand-name }-pe ñongatupyre
+pocket-panel-saved-page-saved-b = ¡Eñongatu { -pocket-brand-name }-pe!
 pocket-panel-saved-processing-remove = Omboguetehína kuatiarogue…
+pocket-panel-saved-removed = Kuatiarogue oguepyréva Tysýigui
 pocket-panel-saved-processing-tags = Omboguetehína teramoĩ…
 pocket-panel-saved-remove-page = Emboguete kuatiarogue
 pocket-panel-saved-save-tags = Ñongatu
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Oñongatuhína…
 pocket-panel-saved-suggested-tags = Teramoĩ je’epyre
 pocket-panel-saved-tags-saved = Teramoĩ mbojuajupyre
 pocket-panel-signup-view-list = Ehcha tysýi
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Embojuaju teramoĩ:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Eñepyrũ tembiapo
 pocket-panel-button-show-all = Techaukapa
 pocket-panel-button-add-tags = Embojuaju teramoĩ
 pocket-panel-button-activate = Emyandy { -pocket-brand-name } { -brand-product-name }-pe
+pocket-panel-button-remove = Mboguete
