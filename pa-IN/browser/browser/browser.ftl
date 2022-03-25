@@ -774,9 +774,6 @@ navbar-overflow =
 navbar-print =
     .label = ਪਰਿੰਟ ਕਰੋ
     .tooltiptext = …ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = ਪਰਿੰਟ ਕਰੋ
-    .tooltiptext = ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
 navbar-home =
     .label = ਘਰ
     .tooltiptext = { -brand-short-name } ਮੁੱਖ ਸਫ਼ਾ
@@ -803,3 +800,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>ਪਿਛਲੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਣੀਆਂ ਹਨ?</strong> ਤੁਸੀਂ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ { -brand-short-name } ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ <img data-l10n-name="icon"/> ਤੋਂ ਅਤੀਤ ਵਿੱਚੋਂ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਬਹਾਲ ਕਰ ਸਕਦੇ ਹੋ।
 restore-session-startup-suggestion-button = ਮੈਨੂੰ ਦੇਖਿਓ ਕਿਵੇਂ
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
