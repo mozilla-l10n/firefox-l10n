@@ -753,6 +753,13 @@ picture-in-picture-hide-toggle =
     .label = Сакриј прекидач „Слика у слици”
     .accesskey = С
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -769,9 +776,6 @@ navbar-overflow =
 navbar-print =
     .label = Одштампај
     .tooltiptext = Одштампај ову страницу… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Одштампај
-    .tooltiptext = Одштампај ову страницу
 navbar-home =
     .label = Почетна
     .tooltiptext = Отвори почетну страницу програма { -brand-short-name }
@@ -798,3 +802,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Отворити претходне картице?</strong> Можете повратити претходну сесију из менија програма { -brand-short-name } <img data-l10n-name="icon"/>, у одељку Историја.
 restore-session-startup-suggestion-button = Покажи ми како
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
