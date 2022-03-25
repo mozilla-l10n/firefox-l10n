@@ -170,15 +170,25 @@ ui-tour-info-panel-close =
 ##
 
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Yúnua
-navbar-print-tab-modal-disabled =
-    .label = Rábe fɨnoraɨma
-    .tooltiptext = Bíe Rábe fɨno
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Mákara úitɨraɨ
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
