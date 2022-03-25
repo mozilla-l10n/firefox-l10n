@@ -738,12 +738,12 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Sposta selettore Picture-in-Picture a destra
     .accesskey = d
-
 picture-in-picture-move-toggle-left =
     .label = Sposta selettore Picture-in-Picture a sinistra
     .accesskey = s
 
 ##
+
 
 # Navigator Toolbox
 
@@ -787,3 +787,9 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Vuoi riaprire le schede aperte in precedenza?</strong> È possibile ripristinare la sessione precedente dal menu <img data-l10n-name="icon"/> di { -brand-short-name }, nella sezione Cronologia.
 restore-session-startup-suggestion-button = Mostra come fare
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-button =
+    .label = Scegli cosa condividere
+    .accesskey = S
