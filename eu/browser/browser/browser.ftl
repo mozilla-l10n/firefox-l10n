@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Inprimatu
     .tooltiptext = Inprimatu orri hau… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Inprimatu
-    .tooltiptext = Inprimatu orri hau
 navbar-home =
     .label = Hasiera-orria
     .tooltiptext = { -brand-short-name } hasiera-orria
@@ -795,3 +792,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Ireki aurreko fitxak?</strong> Aurreko zure saioa berrezar dezakezu { -brand-short-name } aplikazio-menutik <img data-l10n-name="icon"/>, Historia barnean.
 restore-session-startup-suggestion-button = Erakuts iezadazu nola
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
