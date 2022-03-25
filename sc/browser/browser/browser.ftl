@@ -760,9 +760,6 @@ navbar-overflow =
 navbar-print =
     .label = Imprenta
     .tooltiptext = Imprenta custa pàgina… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Imprenta
-    .tooltiptext = Imprenta custa pàgina
 navbar-home =
     .label = Pàgina printzipale
     .tooltiptext = Pàgina printzipale de { -brand-short-name }
@@ -789,3 +786,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Boles abèrrere is ischedas pretzedentes?</strong> Podes recuperare sa sessione pretzedente dae su menù de is aplicatziones { -brand-short-name } <img data-l10n-name="icon"/>, in sa cronologia.
 restore-session-startup-suggestion-button = Ammustra·mi comente
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
