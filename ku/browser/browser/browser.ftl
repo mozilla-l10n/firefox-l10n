@@ -255,3 +255,6 @@ tabs-toolbar-list-all-tabs =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Ji bo ku em diakribin azmûnên te çêtir bikin { -brand-short-name } hin agahiyan xweber ji { -vendor-short-name }ê re dişîne.
+data-reporting-notification-button =
+    .label = Tiştên ji bo parvekirinê hilbijêre
+    .accesskey = h
