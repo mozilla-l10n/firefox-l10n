@@ -362,6 +362,13 @@ popups-infobar-dont-show-message =
     .label = Не ја покажувај оваа порака кога се блокираат скокачки прозорци
     .accesskey = Н
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
@@ -373,9 +380,6 @@ navbar-overflow =
 navbar-print =
     .label = Печати
     .tooltiptext = Печати ја оваа страница… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Печати
-    .tooltiptext = Ја печати оваа страница
 navbar-library =
     .label = Библиотека
     .tooltiptext = Преглед на историјата на прелистување, снимените обележувачи и друго
@@ -393,3 +397,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Прикажи ги сите јазичиња
     .tooltiptext = Прикажи ги сите јазичиња
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
