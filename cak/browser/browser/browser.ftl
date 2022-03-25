@@ -776,6 +776,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } pa ruyonil yerutäq pa { -vendor-short-name } jujun taq tzij, ruma ri' yojtikïr niqutzilaj ri asamaj.
 data-reporting-notification-button =
     .label = Tincha' na ri ninkomonij
     .accesskey = T
