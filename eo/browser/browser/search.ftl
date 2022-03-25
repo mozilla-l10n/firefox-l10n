@@ -30,4 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-message = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj. <label data-l10n-name="remove-search-engine-article">Pli da informo</label>
+removed-search-engine-message = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj. <label data-l10n-name="remove-search-engine-article">Pli da informo</label>
 remove-search-engine-button = Akcepti

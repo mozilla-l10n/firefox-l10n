@@ -22,10 +22,10 @@ more-from-moz-mozilla-rally-description = Igu viajn datumojn labori por pli bona
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description-advanced = Donacu viajn datumojn por esploraj studoj kiu celas krei pli sekuran, pli malfermitan interreton kiu helpas personojn, ne la grandajn entreprenojn.
 # This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-button-mozilla-rally =
-    .label = Aliĝu al { -rally-short-name }
+more-from-moz-button-mozilla-rally-2 = Aliĝi al { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Elŝutu per via poŝaparato. Celu per via fimilo la kodon QR. Kiam ligilo aperas, tuŝetu ĝin.
 more-from-moz-qr-code-box-firefox-mobile-button = Sendu anstataŭe retpoŝtan mesaĝon al via telefono
-more-from-moz-button-mozilla-vpn =
-    .label = Elŝuti VPN
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = Kodo QR por elŝuti poŝaparatan { -brand-product-name }
+more-from-moz-button-mozilla-vpn-2 = Elŝuti VPN
 more-from-moz-learn-more-link = Pli da informo

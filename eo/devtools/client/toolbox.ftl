@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Komunumo…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Malaktivigi aŭtomatan kaŝon de ŝprucfenestroj
+toolbox-meatball-menu-pseudo-locale-accented = Aktivigi "supersignitan" lingvon
+toolbox-meatball-menu-pseudo-locale-bidi = Aktivigi "ambaŭdirektan" lingvon
 
 ##
 
