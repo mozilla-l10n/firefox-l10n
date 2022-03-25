@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = Schützen Sie Ihre Privatsphäre mit { -m
 about-private-browsing-focus-promo-cta = { -focus-brand-name } herunterladen
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privates Surfen unterwegs
 about-private-browsing-focus-promo-text = Unsere speziell für privates Surfen entwickelte mobile App löscht jedes Mal Ihre Chronik und Ihre Cookies.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Bringen Sie privates Surfen auf Ihr Telefon
+about-private-browsing-focus-promo-text-b = Verwenden Sie { -focus-brand-name } für die privaten Suchanfragen, die Ihr Haupt-Mobilbrowser nicht sehen soll.
+about-private-browsing-focus-promo-header-c = Privatsphäre der nächsten Stufe für Mobilgeräte
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } löscht jedes Mal Ihren Verlauf, und blockiert Werbung und Elemente zur Aktivitätenverfolgung.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
