@@ -551,6 +551,13 @@ picture-in-picture-hide-toggle =
     .label = Amaga lo commutador d'imachen incrustada
     .accesskey = A
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -567,9 +574,6 @@ navbar-overflow =
 navbar-print =
     .label = Imprentar
     .tooltiptext = Imprente ista pachina... ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Imprentar
-    .tooltiptext = Imprentar ista pachina
 navbar-home =
     .label = Inicio
     .tooltiptext = Pachina d'inicio de { -brand-short-name }
@@ -590,3 +594,13 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Amostrar todas as pestanyas
     .tooltiptext = Amostrar todas as pestanyas
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } ninvia automaticament bells datos ta { -vendor-short-name } pa que podamos amillorar a suya experiencia.
+data-reporting-notification-button =
+    .label = Deixar-me trigar o que quiero compartir
+    .accesskey = c
