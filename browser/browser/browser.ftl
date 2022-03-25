@@ -162,14 +162,24 @@ popups-infobar-dont-show-message =
     .label = Se bontshe molaetsa ona ha di-popup di thibetswe
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Tse jarollwang
-navbar-print-tab-modal-disabled =
-    .label = Printa
-    .tooltiptext = Printa leqephe lena
 navbar-search =
     .title = Batla
 tabs-toolbar-new-tab =
     .label = Tab E ntjha
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
