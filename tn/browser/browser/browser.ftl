@@ -331,3 +331,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-message = { -brand-short-name } romela tshedimosetso nngwe ka go itirisa kwa go { -vendor-short-name } gore re kgone go tokafatsa maitemogelo a gago.
+data-reporting-notification-button =
+    .label = Kgetha Se ke se Abang
+    .accesskey = K
