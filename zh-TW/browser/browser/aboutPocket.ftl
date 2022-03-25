@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = 標籤僅能有 25 字元
 pocket-panel-saved-error-only-links = 僅能儲存鏈結
 pocket-panel-saved-error-not-saved = 未儲存頁面
 pocket-panel-saved-error-no-internet = 您必須連線至網際網路才能儲存至 { -pocket-brand-name }。請先連上網路再試一次。
+pocket-panel-saved-error-remove = 嘗試移除此頁面時發生錯誤。
 pocket-panel-saved-page-removed = 已移除頁面
 pocket-panel-saved-page-saved = 已儲存至 { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = 已儲存至 { -pocket-brand-name }！
 pocket-panel-saved-processing-remove = 正在移除頁面…
+pocket-panel-saved-removed = 已從「我的清單」中移除頁面
 pocket-panel-saved-processing-tags = 正在新增標籤…
 pocket-panel-saved-remove-page = 移除頁面
 pocket-panel-saved-save-tags = 儲存
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = 儲存中…
 pocket-panel-saved-suggested-tags = 建議的標籤
 pocket-panel-saved-tags-saved = 已新增標籤
 pocket-panel-signup-view-list = 檢視清單
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = 新增標籤:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = 登入
 pocket-panel-button-show-all = 顯示全部
 pocket-panel-button-add-tags = 新增標籤
 pocket-panel-button-activate = 在 { -brand-product-name } 啟用 { -pocket-brand-name }
+pocket-panel-button-remove = 移除
