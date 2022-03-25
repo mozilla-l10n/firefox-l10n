@@ -46,7 +46,7 @@
 <!ENTITY col.url.label           "Endereço">
 <!ENTITY col.mostrecentvisit.label "Recentemente visitado">
 <!ENTITY col.visitcount.label    "Número de visitas">
-<!ENTITY col.dateadded.label     "Adicionado">
+<!ENTITY col.dateadded.label     "Adicionado em">
 <!ENTITY col.lastmodified.label  "Última modificação">
 
 <!ENTITY cmd.find.key  "F">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para ver e editar as suas propriedades">
-
