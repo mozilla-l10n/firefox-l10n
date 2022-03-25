@@ -799,3 +799,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Chcete otvoriť predchádzajúce karty?</strong> Predchádzajúcu reláciu môžete obnoviť z ponuky { -brand-short-name(case: "gen") } <img data-l10n-name="icon"/>, v časti História.
 restore-session-startup-suggestion-button = Ako na to
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } automaticky odosiela údaje spoločnosti { -vendor-short-name } s cieľom vylepšiť tento produkt.
+data-reporting-notification-button =
+    .label = Zvoliť, aké údaje sa odosielajú
+    .accesskey = v
