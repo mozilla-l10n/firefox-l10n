@@ -756,9 +756,6 @@ navbar-overflow =
 navbar-print =
     .label = Ispiši
     .tooltiptext = Ispiši ovu stranicu … ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Ispiši
-    .tooltiptext = Ispiši ovu stranicu
 navbar-home =
     .label = Početna stranica
     .tooltiptext = { -brand-short-name } početna stranica
@@ -781,4 +778,7 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = Popis svih tabova
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
