@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Stampar
     .tooltiptext = Stampar questa pagina… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Stampar
-    .tooltiptext = Stampar questa pagina
 navbar-home =
     .label = Pagina da partenza
     .tooltiptext = Pagina da partenza da { -brand-short-name }
@@ -795,3 +792,7 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Avrir tabs averts dacurt?</strong> Ti pos restaurar tia sesida precedenta dal menu d'applicaziun <img data-l10n-name="icon"/> da { -brand-short-name }, sut «Cronologia».
 restore-session-startup-suggestion-button = Mussar co
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } trametta automaticamain tschertas datas a { -vendor-short-name } per meglierar il program.
