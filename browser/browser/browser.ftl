@@ -764,9 +764,6 @@ navbar-overflow =
 navbar-print =
     .label = הדפסה
     .tooltiptext = הדפסת דף זה… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = הדפסה
-    .tooltiptext = הדפסת דף זה
 navbar-home =
     .label = דף הבית
     .tooltiptext = דף הבית של { -brand-short-name }
@@ -793,3 +790,6 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>לפתוח את הלשוניות הקודמות?</strong> באפשרותך לשחזר את ההפעלה הקודמת שלך מתפריט היישום של { -brand-short-name } ‏<img data-l10n-name="icon"/>, תחת היסטוריה.
 restore-session-startup-suggestion-button = להראות לך איך
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
