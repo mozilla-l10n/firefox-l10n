@@ -796,3 +796,6 @@ restore-session-startup-suggestion-button = Mussar co
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } trametta automaticamain tschertas datas a { -vendor-short-name } per meglierar il program.
+data-reporting-notification-button =
+    .label = Decider tge cundivider
+    .accesskey = C
