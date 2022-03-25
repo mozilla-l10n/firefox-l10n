@@ -35,3 +35,5 @@ default-bookmarks-mdn = Reto de programistoj de Mozilla
 default-bookmarks-nightly-tester-tools = Iloj por testantoj de Nightly
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = Ĉiuj viaj paneoj
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Planedo Mozilla
