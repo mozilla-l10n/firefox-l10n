@@ -766,9 +766,6 @@ navbar-overflow =
 navbar-print =
     .label = Imprimer
     .tooltiptext = Imprimer iste pagina… ({ $shortcut })
-navbar-print-tab-modal-disabled =
-    .label = Imprimer
-    .tooltiptext = Imprimer iste pagina
 navbar-home =
     .label = Initio
     .tooltiptext = Pagina principal de { -brand-short-name }
@@ -795,3 +792,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Reaperir schedas anterior?</strong> Tu pote restaurar tu previe session a partir del menu <img data-l10n-name="icon"/> de { -brand-short-name }, sub Chronologia.
 restore-session-startup-suggestion-button = Monstrar como
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+data-reporting-notification-message = { -brand-short-name } invia automaticamente datos a { -vendor-short-name } de sorta que nos pote meliorar tu experientia.
+data-reporting-notification-button =
+    .label = Eliger lo que io comparti
+    .accesskey = C
