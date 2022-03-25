@@ -16,16 +16,20 @@ pocket-panel-saved-error-tag-length = 태그의 최대 길이는 25자로 제한
 pocket-panel-saved-error-only-links = 링크만 저장할 수 있음
 pocket-panel-saved-error-not-saved = 페이지를 저장하지 못했음
 pocket-panel-saved-error-no-internet = { -pocket-brand-name }에 저장하려면 인터넷에 연결되어 있어야 합니다. 인터넷에 연결하고 다시 시도하세요.
+pocket-panel-saved-error-remove = 이 페이지를 삭제하는 동안 오류가 발생했습니다.
 pocket-panel-saved-page-removed = 페이지가 삭제됨
 pocket-panel-saved-page-saved = { -pocket-brand-name }에 저장됨
+pocket-panel-saved-page-saved-b = { -pocket-brand-name }에 저장됨!
 pocket-panel-saved-processing-remove = 페이지를 삭제하는 중…
-pocket-panel-saved-processing-tags = 페이지를 추가하는 중…
+pocket-panel-saved-processing-tags = 태그를 추가하는 중…
 pocket-panel-saved-remove-page = 페이지 삭제
 pocket-panel-saved-save-tags = 저장
 pocket-panel-saved-saving-tags = 저장 중…
 pocket-panel-saved-suggested-tags = 추천 태그
 pocket-panel-saved-tags-saved = 태그를 추가함
 pocket-panel-signup-view-list = 목록 보기
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = 태그 추가:
 
 ## about:pocket-signup panel
 
@@ -67,3 +71,4 @@ pocket-panel-header-sign-in = 로그인
 pocket-panel-button-show-all = 모두 보기
 pocket-panel-button-add-tags = 태그 추가
 pocket-panel-button-activate = { -brand-product-name }에서 { -pocket-brand-name } 활성화
+pocket-panel-button-remove = 삭제
