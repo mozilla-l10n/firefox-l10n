@@ -24,6 +24,9 @@ about-private-browsing-info-description = Falamhaichidh { -brand-short-name } ea
 about-private-browsing-need-more-privacy = A bheil thu feumach air barrachd prìobhaideachd?
 about-private-browsing-turn-on-vpn = Feuch { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Barrachd fiosrachaidh
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -36,3 +39,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Dùin
+about-private-browsing-promo-close-button =
+    .title = Dùin
