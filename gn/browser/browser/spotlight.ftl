@@ -18,3 +18,5 @@ spotlight-ios-marketplace-button =
 
 spotlight-focus-promo-title = Eguereko { -focus-brand-name }
 spotlight-focus-promo-subtitle = Emoha’ãnga pe QR ayvu emboguejy hag̃ua
+spotlight-focus-promo-qr-code =
+    .alt = Emoha’ãnga QR ayvu ereko hag̃ua { -focus-brand-name }
