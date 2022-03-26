@@ -162,6 +162,8 @@ spotlight-total-cookie-protection-secondary-button = Не зараз
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Лепшы Інтэрнэт пачынаецца з вас
+spotlight-better-internet-body = Калі вы карыстаецеся { -brand-short-name }, вы галасуеце за адкрыты і даступны Інтэрнэт, лепшы для ўсіх.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Трымаць у доку
