@@ -190,6 +190,10 @@ spaces-toolbar-button-settings =
     .title = Przełącz na kartę ustawień
 spaces-toolbar-button-collapse =
     .title = Zwiń pasek miejsc
+spaces-toolbar-button-reveal =
+    .title = Pokaż pasek miejsc
+spaces-toolbar-button-mail2 =
+    .title = Poczta
 spaces-toolbar-button-address-book2 =
     .title = Książka adresowa
 spaces-toolbar-button-calendar2 =
@@ -198,8 +202,22 @@ spaces-toolbar-button-tasks2 =
     .title = Zadania
 spaces-toolbar-button-chat2 =
     .title = Komunikator
+spaces-toolbar-button-overflow =
+    .title = Więcej miejsc…
 spaces-toolbar-button-settings2 =
     .title = Ustawienia
+spaces-toolbar-button-hide =
+    .title = Ukryj pasek miejsc
+spaces-toolbar-button-show =
+    .title = Pokaż pasek miejsc
+spaces-context-new-tab-item =
+    .label = Otwórz w nowej karcie
+spaces-context-new-window-item =
+    .label = Otwórz w nowym oknie
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Przełącz na kartę „{ $tabName }”
 settings-context-open-settings-item =
     .label = Otwórz ustawienia
 settings-context-open-account-settings-item =
@@ -209,6 +227,8 @@ settings-context-open-addons-item =
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Menu miejsc
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail2.title }
 spaces-pinned-button-menuitem-address-book =
@@ -225,8 +245,30 @@ spaces-pinned-button-menuitem-settings =
     .label = { spaces-toolbar-button-settings2.title }
 spaces-pinned-button-menuitem-show =
     .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Jedna nieprzeczytana wiadomość
+            [few] { $count } nieprzeczytane wiadomości
+           *[many] { $count } nieprzeczytanych wiadomości
+        }
 
 ## Spaces toolbar customize panel
 
+spaces-context-customize =
+    .label = Dostosuj…
+spaces-customize-panel-title = Ustawienia paska miejsc
 spaces-customize-background-color = Kolor tła
 spaces-customize-icon-color = Kolor przycisku
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Kolor tła zaznaczonego przycisku
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Kolor zaznaczonego przycisku
+spaces-customize-button-restore = Przywróć domyślne
+    .accesskey = P
+spaces-customize-button-save = Gotowe
+    .accesskey = G
