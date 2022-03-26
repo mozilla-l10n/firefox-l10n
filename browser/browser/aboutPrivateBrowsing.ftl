@@ -36,6 +36,7 @@ about-private-browsing-focus-promo-text = Nòstra aplicacion dedicada a la naveg
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Metètz de la navegacion privada al vòstre mobil
 about-private-browsing-focus-promo-text-b =
     Utilizatz { -focus-brand-name } per las recèrcas privadas que volètz
     pas veire sus vòstre navegador mobil principal.
