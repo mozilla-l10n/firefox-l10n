@@ -187,6 +187,37 @@ containers-remove-cancel-button = Ikke fjern denne beholderen
 
 language-and-appearance-header = Språk og utseende
 fonts-and-colors-header = Skrifttyper og farger
+preferences-web-appearance-choice-system = Systemtema
+preferences-web-appearance-choice-light = Lyst
+preferences-web-appearance-choice-dark = Mørkt
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Samsvar temainnstillingene for { -brand-short-name } for nettsidebakgrunn og innhold på nettstedet.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Samsvar systeminnstillingene for nettsidebakgrunn og innhold på nettstedet.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Bruk et lyst utseende for nettsidebakgrunn og innhold.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Bruk et mørkt utseende for nettsidebakgrunn og innhold.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Fargevalgene dine overstyrer nettstedets utseende. <a data-l10n-name="colors-link">Behandle farger</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Behandle { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Tillegg og temaer</a>
+preferences-colors-header = Farger
+preferences-colors-description = Overstyr { -brand-short-name } sine standardfarger for tekst, nettsidebakgrunner og lenker.
+preferences-colors-manage-button =
+    .label = Behandle farger…
+    .accesskey = B
+preferences-fonts-header = Skrifttyper
 default-font = Standardskrift
     .accesskey = d
 default-font-size = Størrelse
@@ -407,6 +438,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Bruk jevn rulling
     .accesskey = u
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Vis alltid rullefelt
+    .accesskey = V
 browsing-use-onscreen-keyboard =
     .label = Vis et touch-tastatur når nødvendig
     .accesskey = t

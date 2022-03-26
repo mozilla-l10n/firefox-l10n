@@ -31,6 +31,12 @@ about-private-browsing-get-privacy = Få personvernbeskyttelse overalt der du su
 about-private-browsing-hide-activity-1 = Skjul nettleseraktivitet og plasseringen din med { -mozilla-vpn-brand-name }. Ett klikk skaper en sikker tilkobling, selv på offentlig Wi-Fi.
 about-private-browsing-prominent-cta = Hold deg privat med { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat nettlesing mens du er på farten
+about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat nettlesing sletter historikken og infokapslene hver gang.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen din
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
