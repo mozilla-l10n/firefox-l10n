@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Utwórz">
 <!ENTITY newMenu.accesskey "U">
 <!ENTITY newMessage.label "Wiadomość">
+<!ENTITY newMessage.accesskey "W">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Wizytówkę…">
 <!ENTITY newContact.accesskey "W">
