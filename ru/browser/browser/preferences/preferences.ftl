@@ -211,7 +211,30 @@ preferences-web-appearance-choice-browser = Тема { -brand-short-name }
 preferences-web-appearance-choice-system = Системная тема
 preferences-web-appearance-choice-light = Светлая
 preferences-web-appearance-choice-dark = Тёмная
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Применять настройки темы { -brand-short-name } к фону и содержимому веб-сайтов.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Применять системные настройки к фону и содержимому веб-сайтов.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Использовать светлый вид для фона и содержимого веб-сайтов.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Использовать тёмный вид для фона и содержимого веб-сайтов.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Выбранные вами цвета изменяют внешний вид веб-сайтов. <a data-l10n-name="colors-link">Управлять цветами</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Управляйте темами { -brand-short-name } в разделе <a data-l10n-name="themes-link">«Расширения и темы»</a>
 preferences-colors-header = Цвета
+preferences-colors-description = Переопределяйте цвета { -brand-short-name } по умолчанию для текста, фона веб-сайтов и ссылок.
 preferences-colors-manage-button =
     .label = Управление цветами…
     .accesskey = м
