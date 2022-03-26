@@ -9,6 +9,14 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Отримати з Google Play
+spotlight-ios-marketplace-button =
+    .title = Завантажити з App Store
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Отримати { -focus-brand-name }
+spotlight-focus-promo-subtitle = Зіскануйте QR-код для завантаження
+spotlight-focus-promo-qr-code =
+    .alt = Зіскануйте QR-код, щоб отримати { -focus-brand-name }

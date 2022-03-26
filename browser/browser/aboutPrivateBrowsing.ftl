@@ -39,6 +39,7 @@ about-private-browsing-focus-promo-text = Наш спеціалізований 
 about-private-browsing-focus-promo-header-b = Перейдіть до приватного перегляду на своєму телефоні
 about-private-browsing-focus-promo-text-b = Користуйтеся { -focus-brand-name } для тих приватних пошуків, які ви хочете приховати від основного мобільного браузера.
 about-private-browsing-focus-promo-header-c = Приватність вищого рівня на мобільному пристрої
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } щоразу очищує вашу історію, блокуючи рекламу та елементи стеження.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
