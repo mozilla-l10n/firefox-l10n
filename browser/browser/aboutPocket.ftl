@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Длина тега не должна пр
 pocket-panel-saved-error-only-links = Можно сохранять только ссылки
 pocket-panel-saved-error-not-saved = Страница не сохранена
 pocket-panel-saved-error-no-internet = Для сохранения в { -pocket-brand-name } вы должны быть подключены к Интернету. Пожалуйста, подключитесь к Интернету и попробуйте снова.
+pocket-panel-saved-error-remove = При попытке удаления этой страницы произошла ошибка.
 pocket-panel-saved-page-removed = Страница удалена
 pocket-panel-saved-page-saved = Сохранено в { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Сохранено в { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Удаление страницы…
+pocket-panel-saved-removed = Страница удалена из вашего списка
 pocket-panel-saved-processing-tags = Добавление тегов…
 pocket-panel-saved-remove-page = Удалить страницу
 pocket-panel-saved-save-tags = Сохранить
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Сохранение…
 pocket-panel-saved-suggested-tags = Рекомендуемые теги
 pocket-panel-saved-tags-saved = Теги добавлены
 pocket-panel-signup-view-list = Просмотреть список
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Добавить теги:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Войти
 pocket-panel-button-show-all = Показать всё
 pocket-panel-button-add-tags = Добавить теги
 pocket-panel-button-activate = Активируйте { -pocket-brand-name } в { -brand-product-name }
+pocket-panel-button-remove = Удалить
