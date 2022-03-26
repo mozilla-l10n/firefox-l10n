@@ -38,6 +38,8 @@ about-private-browsing-focus-promo-text = Барномаи мобилии мах
 
 about-private-browsing-focus-promo-header-b = Тамошокунии хусусиро ба телефони худ баред
 about-private-browsing-focus-promo-text-b = Барои он ҷустуҷӯҳои шахсие, ки шумо намехоҳед браузери асосии мобилии шумо бинад, аз { -focus-brand-name } истифода баред.
+about-private-browsing-focus-promo-header-c = Махфияти насли оянда дар дастгоҳҳои мобилӣ
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } ҳар вақте ки реклама ва васоити пайгириро манъ мекунад, ҳам таърихи шуморо пок менамояд.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
