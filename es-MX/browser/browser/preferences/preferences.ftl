@@ -102,7 +102,7 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> controla este ajuste.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla copmo { -brand-short-name } se conecta a internet.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> controla como { -brand-short-name } se conecta a internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
