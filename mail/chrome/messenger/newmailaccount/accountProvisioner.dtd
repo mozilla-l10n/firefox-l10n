@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-<!ENTITY success.title.before "Hej">
+<!ENTITY success.title.before "Hej ">
 <!ENTITY success.title.after ", de følgende mailadresser er tilgængelige:">
 <!ENTITY success.tip "(Du kan også prøve at søge på aliasser eller benytte andre søgeord for at finde flere adresser.)">
 <!ENTITY partnership.description "&brandShortName; kan i samarbejde med flere partnere tilbyde dig en ny mailkonto. Udfyld blot felterne ovenfor med dit for- og efternavn eller med andre ord for at begynde.">
