@@ -31,6 +31,10 @@ about-private-browsing-get-privacy = Атрымайце абарону прыв�
 about-private-browsing-hide-activity-1 = Хавайце актыўнасць агляду і месцазнаходжанне з дапамогай { -mozilla-vpn-brand-name }. Адзін пстрык стварае бяспечнае злучэнне нават у агульнадаступнай сетцы Wi-Fi.
 about-private-browsing-prominent-cta = Заставайцеся прыватным з { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Сцягнуць { -focus-brand-name }
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-c = Новы ўзровень прыватнасці на мабільных прыладах
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
