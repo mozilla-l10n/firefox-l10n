@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = En utvidelse, <img
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = En utvidelse, <img data-l10n-name="icon"/> { $name }, styrer hvordan { -brand-short-name } kobler seg til internett.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillingen.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillingen.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> krever innholdsfaner.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrollerer denne innstillingen.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrollerer hvordan { -brand-short-name } kobler til internett.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,9 @@ containers-remove-cancel-button = Ikke fjern denne beholderen
 
 language-and-appearance-header = Språk og utseende
 fonts-and-colors-header = Skrifttyper og farger
+preferences-web-appearance-header = Utseende på nettstedet
+preferences-web-appearance-description = Noen nettsteder tilpasser fargeskjemaet basert på dine innstillinger. Velg hvilket fargeskjema du vil bruke for disse nettstedene.
+preferences-web-appearance-choice-browser = { -brand-short-name }-tema
 preferences-web-appearance-choice-system = Systemtema
 preferences-web-appearance-choice-light = Lyst
 preferences-web-appearance-choice-dark = Mørkt
