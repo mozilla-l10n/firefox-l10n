@@ -78,18 +78,24 @@ context-menuitem-attach-files =
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } załącznik
-            [one] { $count } załącznik
-            [few] { $count } załączniki
-           *[many] { $count } załączników
-        }
-    .accesskey = z
+    { $count ->
+        [1] { $count } załącznik
+        [one] { $count } załącznik
+        [few] { $count } załączniki
+       *[many] { $count } załączników
+    }
 expand-attachment-pane-tooltip =
     .tooltiptext = Pokaż listę załączników ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Ukryj listę załączników ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+#   $count (Number) - the number of attachments in the attachment bucket
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } załącznik
+        [one] { $count } załącznik
+        [few] { $count } załączniki
+       *[many] { $count } załączników
+    }
 attachment-area-show =
     .title = Pokaż listę załączników ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -249,8 +255,21 @@ encrypted-bcc-ignore-button = Rozumiem
 compose-tool-button-remove-text-styling =
     .tooltiptext = Usuń styl tekstu
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Przesłano do nieznanego konta serwisu przechowywania plików.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } – Załącznik w serwisie przechowywania plików
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Plik { $filename } został załączony jako odnośnik do serwisu przechowywania plików. Można go pobrać za pomocą poniższego odnośnika.
 
 # Template
 
@@ -262,13 +281,6 @@ cloud-file-count-header =
         [one] Połączono { $count } plik z tą wiadomością:
         [few] Połączono { $count } pliki z tą wiadomością:
        *[many] Połączono { $count } plików z tą wiadomością:
-    }
-# A text used in a footer, instructing the reader where to find additional
-# information about the used service providers.
-cloud-file-service-provider-footer =
-    { $count ->
-        [one] Więcej informacji o serwisie { $lastLink }.
-       *[other] Więcej informacji o serwisach { $firstLinks } i { $lastLink }.
     }
 # A text used in a footer, instructing the reader where to find additional
 # information about the used service provider.
@@ -285,13 +297,13 @@ cloud-file-service-provider-footer-multiple = Więcej informacji o serwisach { 
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Odnośnik zabezpieczony hasłem
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Serwis CloudFile:
+cloud-file-template-service-name = Serwis przechowywania plików:
 cloud-file-template-size = Rozmiar:
 cloud-file-template-link = Odnośnik:
 cloud-file-template-password-protected-link = Odnośnik zabezpieczony hasłem:
@@ -315,3 +327,9 @@ cloud-file-rename-error = Wystąpił problem ze zmianą nazwy pliku { $filename 
 cloud-file-rename-error-with-custom-message-title = Zmiana nazwy pliku { $filename } w serwisie { $provider } się nie powiodła
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = Serwis { $provider } nie obsługuje zmiany nazw już przesłanych plików.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Błąd załącznika w serwisie przechowywania plików
+cloud-file-attachment-error = Zaktualizowanie załącznika { $filename } w serwisie przechowywania plików się nie powiodło, ponieważ odpowiadający mu lokalny plik został przeniesiony lub usunięty.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Błąd konta serwisu przechowywania plików
+cloud-file-account-error = Zaktualizowanie załącznika { $filename } w serwisie przechowywania plików się nie powiodło, ponieważ jego konto zostało usunięte.
