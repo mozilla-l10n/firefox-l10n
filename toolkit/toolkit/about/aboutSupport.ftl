@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Κλειδί υπηρεσίας τοπ�
 app-basics-safebrowsing-key-google = Κλειδί ασφαλούς περιήγησης Google
 app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mozilla
 app-basics-safe-mode = Ασφαλής λειτουργία
+app-basics-memory-size = Μέγεθος μνήμης (RAM)
+app-basics-disk-available = Διαθέσιμος χώρος δίσκου
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Προβολή στο Finder

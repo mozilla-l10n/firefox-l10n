@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Οι ετικέτες έχουν όριο 
 pocket-panel-saved-error-only-links = Μόνο οι σύνδεσμοι μπορούν να αποθηκευτούν
 pocket-panel-saved-error-not-saved = Η σελίδα δεν αποθηκεύτηκε
 pocket-panel-saved-error-no-internet = Πρέπει να συνδεθείτε στο Διαδίκτυο για να κάνετε αποθήκευση στο { -pocket-brand-name }. Παρακαλώ συνδεθείτε στο Διαδίκτυο και δοκιμάστε ξανά.
+pocket-panel-saved-error-remove = Προέκυψε σφάλμα κατά την προσπάθεια αφαίρεσης αυτής της σελίδας.
 pocket-panel-saved-page-removed = Η σελίδα αφαιρέθηκε
 pocket-panel-saved-page-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Αποθηκεύτηκε στο { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Αφαίρεση σελίδας…
+pocket-panel-saved-removed = Η σελίδα αφαιρέθηκε από τη λίστα μου
 pocket-panel-saved-processing-tags = Προσθήκη ετικετών…
 pocket-panel-saved-remove-page = Αφαίρεση σελίδας
 pocket-panel-saved-save-tags = Αποθήκευση
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Αποθήκευση…
 pocket-panel-saved-suggested-tags = Προτεινόμενες ετικέτες
 pocket-panel-saved-tags-saved = Προστέθηκαν ετικέτες
 pocket-panel-signup-view-list = Προβολή λίστας
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Προσθήκη ετικετών:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Σύνδεση
 pocket-panel-button-show-all = Εμφάνιση όλων
 pocket-panel-button-add-tags = Προσθήκη ετικετών
 pocket-panel-button-activate = Ενεργοποίηση του { -pocket-brand-name } στο { -brand-product-name }
+pocket-panel-button-remove = Αφαίρεση

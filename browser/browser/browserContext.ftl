@@ -149,7 +149,10 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Αντιγραφή διεύθυνσης email
-    .accesskey = Ε
+    .accesskey = σ
+main-context-menu-copy-phone =
+    .label = Αντιγραφή αριθμού τηλεφώνου
+    .accesskey = τ
 main-context-menu-copy-link-simple =
     .label = Αντιγραφή συνδέσμου
     .accesskey = σ
@@ -368,10 +371,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Άνοιγμα συνδέσμου σε νέα καρτέλα «{ $containerName }»
     .accesskey = κ
-# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
-main-context-menu-toggle-show-password =
-    .label = Εμφάνιση κωδικού πρόσβασης
-    .accesskey = φ
 main-context-menu-reveal-password =
     .label = Εμφάνιση κωδικού πρόσβασης
     .accesskey = φ

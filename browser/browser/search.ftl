@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { -brand-short-name } δεν υποστηρίζει πλέον το { $oldEngine }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις. <label data-l10n-name="remove-search-engine-article">Μάθετε περισσότερα</label>
+removed-search-engine-message = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { $oldEngine } δεν είναι πλέον διαθέσιμο ως προεπιλεγμένη μηχανή αναζήτησης στο { -brand-short-name }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις. <label data-l10n-name="remove-search-engine-article">Μάθετε περισσότερα</label>
 remove-search-engine-button = OK
