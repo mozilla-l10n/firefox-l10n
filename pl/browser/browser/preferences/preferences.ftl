@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Rozszerzenie „{ 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak { -brand-short-name } łączy się z Internetem.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroluje to ustawienie.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroluje to ustawienie.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> wymaga włączonych „Kart z kontekstem”.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroluje to ustawienie.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroluje, jak { -brand-short-name } łączy się z Internetem.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -190,6 +205,31 @@ containers-remove-cancel-button = Nie usuwaj
 
 language-and-appearance-header = Język i wygląd
 fonts-and-colors-header = Czcionki i kolory
+preferences-web-appearance-header = Wygląd witryn internetowych
+preferences-web-appearance-description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
+preferences-web-appearance-choice-browser = Motyw przeglądarki { -brand-short-name }
+preferences-web-appearance-choice-system = Motyw systemu
+preferences-web-appearance-choice-light = Jasny
+preferences-web-appearance-choice-dark = Ciemny
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Używaj ustawień motywu przeglądarki { -brand-short-name } do teł i treści witryn.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Używaj ustawień systemu do teł i treści witryn.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Używaj jasnego wyglądu teł i treści witryn.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Używaj ciemnego wyglądu teł i treści witryn.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
 default-font = Domyślna czcionka:
     .accesskey = D
 default-font-size = Rozmiar:
