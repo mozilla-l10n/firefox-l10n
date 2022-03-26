@@ -518,7 +518,7 @@ urlbar-result-action-search-tabs = Ҷустуҷӯ дар варақаҳо
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -796,3 +796,6 @@ restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } баъзе маълумотро ба { -vendor-short-name } ба таври худкор ирсол мекунад, то ки мо тавонем таҷрибаи шуморо такмил диҳем.
+data-reporting-notification-button =
+    .label = Интихоб кунед, ки чӣ дастрас мешавад
+    .accesskey = И

@@ -33,6 +33,10 @@ about-private-browsing-prominent-cta = Бо { -mozilla-vpn-brand-name } махф
 about-private-browsing-focus-promo-cta = { -focus-brand-name }-ро боргирӣ намоед
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Тамошокунии хусусӣ дар роҳ
 about-private-browsing-focus-promo-text = Барномаи мобилии махсуси мо барои тамошокунии хусусӣ ҳар вақт таърих ва кукиҳои шуморо тоза мекунад.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Тамошокунии хусусиро ба телефони худ баред
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
