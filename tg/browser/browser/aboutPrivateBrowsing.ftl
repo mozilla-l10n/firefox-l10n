@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = Кушодани равзанаи махфӣ
+privatebrowsingpage-open-private-window-label = Кушодани равзанаи хусусӣ
     .accesskey = К
 about-private-browsing-search-placeholder = Ҷустуҷӯ дар Интернет
 about-private-browsing-info-title = Шумо дар равзанаи махфӣ қарор доред
@@ -37,6 +37,7 @@ about-private-browsing-focus-promo-text = Барномаи мобилии мах
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Тамошокунии хусусиро ба телефони худ баред
+about-private-browsing-focus-promo-text-b = Барои он ҷустуҷӯҳои шахсие, ки шумо намехоҳед браузери асосии мобилии шумо бинад, аз { -focus-brand-name } истифода баред.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
