@@ -216,6 +216,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = שימוש במראה בהיר עבור רקעים ותכנים של אתרים.
 preferences-web-appearance-choice-tooltip-dark =
     .title = שימוש במראה כהה עבור רקעים ותכנים של אתרים.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
