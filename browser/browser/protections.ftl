@@ -46,7 +46,7 @@ graph-legend-description = Graf vključuje skupno število posameznih vrst sledi
 social-tab-title = Sledilci družbenih omrežij
 social-tab-contant = Družbena omrežja postavljajo sledilce na druga spletna mesta, da bi spremljali, kaj počnete, vidite in gledate na spletu. To družbenim medijem omogoča, da o vas izvedo več kot le tisto, kar delite na svojih družbenih profilih. <a data-l10n-name="learn-more-link">Več o tem</a>
 cookie-tab-title = Piškotki za sledenje med spletnimi mesti
-cookie-tab-content = Ti piškotki vas spremljajo po straneh in zbirajo podatke o tem, kaj počnete na spletu. Namestijo jih tretje strani, kot so oglaševalci in analitična podjetja. Zavračanje sledilnih piškotkov zmanjša število oglasov, ki vam sledijo. <a data-l10n-name="learn-more-link">Več o tem</a>
+cookie-tab-content = Ti piškotki vas spremljajo od enega spletnega mesta do drugega in zbirajo podatke o tem, kaj počnete na spletu. Namestijo jih tretje strani, kot so oglaševalci in analitična podjetja. Zavračanje piškotkov za sledenje med spletnimi mesti zmanjša pogostost oglasov, ki vam sledijo. <a data-l10n-name="learn-more-link">Več o tem</a>
 tracker-tab-title = Sledilna vsebina
 tracker-tab-description = Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino s kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali. <a data-l10n-name="learn-more-link">Več o tem</a>
 fingerprinter-tab-title = Sledilci prstnih odtisov
@@ -207,13 +207,13 @@ bar-tooltip-social =
            *[other] { $count } sledilcev družbenih omrežij ({ $percentage } %)
         }
 bar-tooltip-cookie =
-    .title = Spletni sledilni piškotki
+    .title = Piškotki za sledenje med spletnimi mesti
     .aria-label =
         { $count ->
-            [one] { $count } spletni sledilni piškotek ({ $percentage } %)
-            [two] { $count } spletna sledilna piškotka ({ $percentage } %)
-            [few] { $count } spletni sledilni piškotki ({ $percentage } %)
-           *[other] { $count } spletnih sledilnih piškotkov ({ $percentage } %)
+            [one] { $count } piškotek za sledenje med spletnimi mesti ({ $percentage } %)
+            [two] { $count } piškotka za sledenje med spletnimi mesti ({ $percentage } %)
+            [few] { $count } piškotki za sledenje med spletnimi mesti ({ $percentage } %)
+           *[other] { $count } piškotkov za sledenje med spletnimi mesti ({ $percentage } %)
         }
 bar-tooltip-tracker =
     .title = Sledilna vsebina

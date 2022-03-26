@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Ključ lokacijskih storitev Google
 app-basics-safebrowsing-key-google = Ključ Google Safebrowsing
 app-basics-key-mozilla = Ključ lokacijskih storitev Mozilla
 app-basics-safe-mode = Varni način
+app-basics-memory-size = Velikost pomnilnika (RAM)
+app-basics-disk-available = Razpoložljiv prostor na disku
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Prikaži v Finderju

@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = To nastavitev nadz
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Razširitev <img data-l10n-name="icon"/> { $name } nadzira, kako { -brand-short-name } vzpostavi povezavo z internetom.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = To nastavitev nadzira <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = To nastavitev nadzira <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> zahteva vsebniške zavihke.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = To nastavitev nadzira <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> nadzira, kako { -brand-short-name } vzpostavlja povezavo z internetom.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -193,6 +208,24 @@ containers-remove-cancel-button = Ne odstrani tega vsebnika
 
 language-and-appearance-header = Jezik in videz
 fonts-and-colors-header = Pisave in barve
+preferences-web-appearance-header = Videz spletnih strani
+preferences-web-appearance-choice-browser = Tema { -brand-short-name(sklon: "rodilnik") }
+preferences-web-appearance-choice-system = Sistemska tema
+preferences-web-appearance-choice-light = Svetla
+preferences-web-appearance-choice-dark = Temna
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = Barve
+preferences-colors-manage-button =
+    .label = Upravljanje barv …
+    .accesskey = b
+preferences-fonts-header = Pisave
 default-font = Privzeta pisava
     .accesskey = P
 default-font-size = Velikost
@@ -877,11 +910,11 @@ sitedata-option-block-cross-site-and-social-media-trackers =
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Piškotke za sledenje med spletnimi mesti – vključuje piškotke družbenih omrežij
 sitedata-option-block-cross-site-cookies-including-social-media =
-    .label = Spletne piškotke – vključuje piškotke družbenih omrežij
+    .label = Medspletne piškotke – vključuje piškotke družbenih omrežij
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Piškotke za sledenje med spletnimi mesti
 sitedata-option-block-cross-site-cookies =
-    .label = Spletne sledilne piškotke in izoliraj ostale spletne piškotke
+    .label = Piškotke za sledenje med spletnimi mesti in izoliraj ostale medspletne piškotke
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Sledilce med spletnimi mesti in sledilce družbenih omrežij ter izoliraj preostale piškotke
 sitedata-option-block-unvisited =
@@ -953,9 +986,9 @@ content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči n
 content-blocking-etp-custom-desc = Izberite, katere sledilce in skripte želite zavračati.
 content-blocking-etp-blocking-desc = { -brand-short-name } zavrača naslednje:
 content-blocking-private-windows = Sledilno vsebino v zasebnih oknih
-content-blocking-cross-site-cookies-in-all-windows = Spletne piškotke v vseh oknih (vključuje sledilne piškotke)
+content-blocking-cross-site-cookies-in-all-windows = Medspletne piškotke v vseh oknih (vključuje sledilne piškotke)
 content-blocking-cross-site-tracking-cookies = Piškotke za sledenje med spletnimi mesti
-content-blocking-all-cross-site-cookies-private-windows = Spletne piškotke v zasebnih oknih
+content-blocking-all-cross-site-cookies-private-windows = Medspletne piškotke v zasebnih oknih
 content-blocking-cross-site-tracking-cookies-plus-isolate = Piškotke za sledenje med spletnimi mesti in izoliraj preostale piškotke
 content-blocking-social-media-trackers = Sledilce družbenih omrežij
 content-blocking-all-cookies = Vse piškotke
