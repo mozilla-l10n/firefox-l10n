@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Las etiquetas an un limit de 25 caractèrs
 pocket-panel-saved-error-only-links = Se pòdon pas enregistrar que los ligams
 pocket-panel-saved-error-not-saved = La pagina es pas estada enregistrada
 pocket-panel-saved-error-no-internet = Vos cal èsser connectat a Internet per salvar de ligams a { -pocket-brand-name }. Reconnectatz-vos e tornatz ensajar.
+pocket-panel-saved-error-remove = Una error s'es producha en ensajant de tirar aquesta pagina.
 pocket-panel-saved-page-removed = La pagina es estada suprimida
 pocket-panel-saved-page-saved = Pagina enregistrada dins { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Enregistrat dins { -pocket-brand-name } !
 pocket-panel-saved-processing-remove = Supression de la pagina…
+pocket-panel-saved-removed = Pagina tirada de Ma lista
 pocket-panel-saved-processing-tags = Apondon de las etiquetas…
 pocket-panel-saved-remove-page = Suprimir la pagina
 pocket-panel-saved-save-tags = Enregistrar
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Enregistrament…
 pocket-panel-saved-suggested-tags = Etiquetas recomandadas
 pocket-panel-saved-tags-saved = Etiquetas apondudas
 pocket-panel-signup-view-list = Afichar la lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Apondre etiquetas :
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Connexion
 pocket-panel-button-show-all = Afichar tot
 pocket-panel-button-add-tags = Apondre d'etiquetas
 pocket-panel-button-activate = Activar { -pocket-brand-name } dins { -brand-product-name }
+pocket-panel-button-remove = Tirar
