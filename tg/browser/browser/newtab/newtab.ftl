@@ -104,7 +104,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Таҳрир кардан
 newtab-menu-open-new-window = Кушодан дар равзанаи нав
-newtab-menu-open-new-private-window = Кушодан дар равзанаи махфии нав
+newtab-menu-open-new-private-window = Кушодан дар равзанаи хусусии нав
 newtab-menu-dismiss = Нодида гузарондан
 newtab-menu-pin = Васл кардан
 newtab-menu-unpin = Ҷудо кардан

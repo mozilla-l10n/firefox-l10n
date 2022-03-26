@@ -678,8 +678,8 @@ toolbar-button-synced-tabs =
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Равзанаи махфии нав
-    .tooltiptext = Кушодани равзанаи тамошокунии махфии нав ({ $shortcut })
+    .label = Равзанаи хусусии нав
+    .tooltiptext = Кушодани равзанаи тамошокунии хусусии нав ({ $shortcut })
 
 ## EME notification panel
 

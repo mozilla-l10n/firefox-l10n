@@ -54,7 +54,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY webDeveloperMenu.label       "Барномарезии сомонаҳо">
 
 <!ENTITY newNavigatorCmd.label        "Равзанаи нав">
-<!ENTITY newPrivateWindow.label     "Равзанаи махфии нав">
+<!ENTITY newPrivateWindow.label     "Равзанаи хусусии нав">
 
 <!ENTITY editMenu.label         "Таҳрир кардан">
 <!ENTITY preferencesCmd2.label       "Имконот">

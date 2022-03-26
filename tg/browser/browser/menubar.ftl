@@ -67,7 +67,7 @@ menu-file-new-window =
     .label = Равзанаи нав
     .accesskey = Р
 menu-file-new-private-window =
-    .label = Равзанаи махфии нав
+    .label = Равзанаи хусусии нав
     .accesskey = Р
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
