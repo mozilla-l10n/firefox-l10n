@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Васеъшави
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Васеъшавии <img data-l10n-name="icon"/> { $name } идора мекунад, ки чӣ тавр { -brand-short-name } ба интернет пайваст мешавад.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ин танзимро идора мекунад.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ин танзимро идора мекунад.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> истифодаи варақаҳои дарбаргирандаро талаб мекунад.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ин танзимро идора мекунад.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> идора мекунад, ки чӣ тавр { -brand-short-name } ба Интернет пайваст мешавад.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,10 +202,19 @@ containers-remove-cancel-button = Ин дарбаргиранда тоза ка�
 
 language-and-appearance-header = Забон ва намуди зоҳирӣ
 fonts-and-colors-header = Шрифтҳо ва рангҳо
+preferences-web-appearance-header = Намуди зоҳирии сомона
 preferences-web-appearance-choice-browser = Мавзуи { -brand-short-name }
 preferences-web-appearance-choice-system = Мавзӯи низомӣ
 preferences-web-appearance-choice-light = Равшан
 preferences-web-appearance-choice-dark = Торик
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-colors-header = Рангҳо
 preferences-colors-manage-button =
     .label = Идоракунии рангҳо…
