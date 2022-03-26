@@ -149,10 +149,13 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Копировать адрес электронной почты
-    .accesskey = э
+    .accesskey = К
+main-context-menu-copy-phone =
+    .label = Копировать номер телефона
+    .accesskey = н
 main-context-menu-copy-link-simple =
     .label = Копировать ссылку
-    .accesskey = л
+    .accesskey = ы
 
 ## Media (video/audio) controls
 ##
@@ -368,10 +371,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Открыть ссылку в новой вкладке в контейнере { $containerName }
     .accesskey = н
-# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
-main-context-menu-toggle-show-password =
-    .label = Показать пароль
-    .accesskey = П
 main-context-menu-reveal-password =
     .label = Показать пароль
     .accesskey = з
