@@ -31,6 +31,12 @@ about-private-browsing-get-privacy = Zaščitite svojo zasebnost, kjerkoli brska
 about-private-browsing-hide-activity-1 = Skrijte svojo dejavnost in lokacijo z { -mozilla-vpn-brand-name }. Z enim klikom vzpostavite varno povezavo, celo na javnih omrežjih Wi-Fi.
 about-private-browsing-prominent-cta = Ohranite svojo zasebnost z { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Prenesite { -focus-brand-name }
+about-private-browsing-focus-promo-text = Naša namenska aplikacija za zasebno brskanje po vsakem brskanju počisti zgodovino in piškotke.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Brskajte zasebno tudi na telefonu
+about-private-browsing-focus-promo-text-b = Uporabite { -focus-brand-name } za tista zasebna iskanja, za katera ne želite, da jih vidi vaš glavni mobilni brskalnik.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

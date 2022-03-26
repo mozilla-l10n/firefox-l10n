@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Oznake so omejene na 25 znakov
 pocket-panel-saved-error-only-links = Shranite lahko samo povezave
 pocket-panel-saved-error-not-saved = Stran ni bila shranjena
 pocket-panel-saved-error-no-internet = Za shranjevanje v { -pocket-brand-name } morate biti povezani na internet. Povežite se z internetom in poskusite znova.
+pocket-panel-saved-error-remove = Pri odstranjevanju te strani je prišlo do napake.
 pocket-panel-saved-page-removed = Stran odstranjena
 pocket-panel-saved-page-saved = Shranjeno na { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Shranjeno v { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Odstranjevanje strani …
+pocket-panel-saved-removed = Stran je odstranjena s seznama
 pocket-panel-saved-processing-tags = Dodajanje oznak …
 pocket-panel-saved-remove-page = Odstrani stran
 pocket-panel-saved-save-tags = Shrani
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Shranjevanje …
 pocket-panel-saved-suggested-tags = Predlagane oznake
 pocket-panel-saved-tags-saved = Oznake dodane
 pocket-panel-signup-view-list = Ogled seznama
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Dodaj oznake:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Prijava
 pocket-panel-button-show-all = Prikaži vse
 pocket-panel-button-add-tags = Dodaj oznake
 pocket-panel-button-activate = Vključi { -pocket-brand-name } v { -brand-product-name(sklon: "mestnik") }
+pocket-panel-button-remove = Odstrani
