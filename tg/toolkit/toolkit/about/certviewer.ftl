@@ -10,14 +10,26 @@ certificate-viewer-certificate-section-title = Гувоҳинома
 ## Certificate information labels
 
 certificate-viewer-common-name = Номи умумӣ
+certificate-viewer-email-address = Нишонии почтаи электронӣ
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Гувоҳинома барои { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Кишвари шахси ҳуқуқӣ
 certificate-viewer-country = Кишвар
+certificate-viewer-dns-name = Номи DNS
+certificate-viewer-ip-address = Нишонии IP
+certificate-viewer-other-name = Номи дигар
 certificate-viewer-location = Ҷойгиршавӣ
+certificate-viewer-name = Ном
 certificate-viewer-organization = Ташкилот
+certificate-viewer-policy = Сиёсат
+certificate-viewer-protocol = Протокол
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Рақами силсилавӣ
+certificate-viewer-value = Қимат
+certificate-viewer-version = Силсила
 certificate-viewer-subject-name = Номи воҳид
 certificate-viewer-issuer-name = Номи бароранда
 certificate-viewer-subject-alt-names = Номи иловагии воҳид
