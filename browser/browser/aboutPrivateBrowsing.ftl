@@ -37,6 +37,9 @@ about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat net
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen din
+about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for de private søkene du ikke vil at din hoved mobilnettleser skal se.
+about-private-browsing-focus-promo-header-c = Personvern på neste nivå på mobile enheter
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } sletter historikken din hver gang mens du blokkerer annonser og sporere.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
