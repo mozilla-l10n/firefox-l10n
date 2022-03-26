@@ -155,7 +155,7 @@ main-context-menu-copy-phone =
     .accesskey = н
 main-context-menu-copy-link-simple =
     .label = Копировать ссылку
-    .accesskey = ы
+    .accesskey = К
 
 ## Media (video/audio) controls
 ##
