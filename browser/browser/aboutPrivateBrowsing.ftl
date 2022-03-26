@@ -32,6 +32,11 @@ about-private-browsing-hide-activity-1 = Oculta la actividad de navegación y la
 about-private-browsing-prominent-cta = Mantente en privado con { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Bajar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Navegación privada en todas partes
+about-private-browsing-focus-promo-text = Nuestra aplicación móvil dedicada a la navegación privada borra tu historial y cookies cada vez.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Lleva la navegación privada a tu teléfono
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
