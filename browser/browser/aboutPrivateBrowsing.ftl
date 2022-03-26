@@ -32,6 +32,7 @@ about-private-browsing-hide-activity-1 = Amagatz vòstre navegacion e vòstre em
 about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Telecargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navegacion privada sul pic
+about-private-browsing-focus-promo-text = Nòstra aplicacion dedicada a la navegacion privada escafa l’istoric e los cookies aprèp cada utilizacion.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -39,7 +40,7 @@ about-private-browsing-focus-promo-text-b =
     Utilizatz { -focus-brand-name } per las recèrcas privadas que volètz
     pas veire sus vòstre navegador mobil principal.
 about-private-browsing-focus-promo-header-c = Nivèl seguent de la confidencialitat sus mobil
-about-private-browsing-focus-promo-text-c = { -focus-brand-name } escafa l’istroric a cada blocatge de reclamas e traçadors.
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } escafa l’istoric a cada blocatge de reclamas e traçadors.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
