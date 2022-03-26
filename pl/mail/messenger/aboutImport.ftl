@@ -47,21 +47,38 @@ addr-book-ldif-file = Plik LDIF (.ldif)
 addr-book-vcard-file = Plik vCard (.vcf, .vcard)
 addr-book-sqlite-file = Plik bazy danych SQLite (.sqlite)
 addr-book-mab-file = Plik bazy danych Mork (.mab)
+addr-book-file-picker = Wybierz plik książki adresowej
+addr-book-csv-field-map-title = Dopasuj nazwy pól
+addr-book-csv-field-map-desc = Wybierz pola książki adresowej odpowiadające polom źródłowym. Odznacz pola, które nie mają być importowane.
+addr-book-directories-pane-title = Wybierz katalog, do którego zaimportować:
+addr-book-directories-pane-source = Plik źródłowy:
+addr-book-import-into-new-directory = Utwórz nowy katalog
 
 ## Import dialog
 
 progress-pane-title = Importowanie
 progress-pane-importing = Importowanie
 progress-pane-exporting = Eksportowanie
+progress-pane-finished-desc = Ukończono.
 progress-pane-restart-desc = Uruchom ponownie, aby dokończyć importowanie.
 error-pane-title = Błąd
 error-message-zip-file-too-big = Wybrany plik ZIP jest większy niż 2 GB. Najpierw go rozpakuj, a następnie zaimportuj z rozpakowanego folderu.
 error-message-extract-zip-file-failed = Rozpakowanie pliku ZIP się nie powiodło. Rozpakuj go ręcznie, a następnie zaimportuj z rozpakowanego folderu.
 error-message-failed = Import nieoczekiwanie się nie powiódł. Więcej informacji może być dostępnych w konsoli błędów.
+error-export-failed = Eksport nieoczekiwanie się nie powiódł. Więcej informacji może być dostępnych w konsoli błędów.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Pierwszy wiersz zawiera nazwy pól
+csv-source-field = Pole źródłowe
+csv-source-first-record = Pierwszy rekord
+csv-source-second-record = Drugi rekord
+csv-target-field = Pole książki adresowej
 
 ## Export tab
 
+export-profile-desc = Eksportuj konta i wiadomości pocztowe, książki adresowe oraz ustawienia do pliku ZIP. W razie potrzeby można zaimportować plik ZIP, aby przywrócić profil.
+export-profile-desc2 = Jeśli obecny profil jest większy niż 2 GB, sugerujemy samodzielne utworzenie kopii zapasowej.
+export-open-profile-folder = Otwórz folder profilu
+export-file-picker = Eksportuj do pliku ZIP
 export-brand-name = { -brand-product-name }
