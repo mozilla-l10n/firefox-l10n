@@ -190,3 +190,43 @@ spaces-toolbar-button-settings =
     .title = Przełącz na kartę ustawień
 spaces-toolbar-button-collapse =
     .title = Zwiń pasek miejsc
+spaces-toolbar-button-address-book2 =
+    .title = Książka adresowa
+spaces-toolbar-button-calendar2 =
+    .title = Kalendarz
+spaces-toolbar-button-tasks2 =
+    .title = Zadania
+spaces-toolbar-button-chat2 =
+    .title = Komunikator
+spaces-toolbar-button-settings2 =
+    .title = Ustawienia
+settings-context-open-settings-item =
+    .label = Otwórz ustawienia
+settings-context-open-account-settings-item =
+    .label = Otwórz ustawienia konta
+settings-context-open-addons-item =
+    .label = Otwórz dodatki i motywy
+
+## Spaces toolbar pinned tab menupopup
+
+spaces-pinned-button-menuitem-mail =
+    .label = { spaces-toolbar-button-mail2.title }
+spaces-pinned-button-menuitem-address-book =
+    .label = { spaces-toolbar-button-address-book2.title }
+spaces-pinned-button-menuitem-calendar =
+    .label = { spaces-toolbar-button-calendar2.title }
+spaces-pinned-button-menuitem-tasks =
+    .label = { spaces-toolbar-button-tasks2.title }
+spaces-pinned-button-menuitem-chat =
+    .label = { spaces-toolbar-button-chat2.title }
+spaces-pinned-button-menuitem-reveal =
+    .label = { spaces-toolbar-button-reveal.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+
+## Spaces toolbar customize panel
+
+spaces-customize-background-color = Kolor tła
+spaces-customize-icon-color = Kolor przycisku
