@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = Προστατέψτε το απόρρη�
 about-private-browsing-focus-promo-cta = Λήψη του { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ιδιωτική περιήγηση εν κινήσει
 about-private-browsing-focus-promo-text = Η εφαρμογή ιδιωτικής περιήγησής μας για κινητές συσκευές διαγράφει το ιστορικό και τα cookies σας κάθε φορά.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Πάρτε την ιδιωτική περιήγηση στο τηλέφωνό σας
+about-private-browsing-focus-promo-text-b = Χρησιμοποιήστε το { -focus-brand-name } για τις ιδιωτικές αναζητήσεις που δεν θέλετε να βλέπει το κύριο πρόγραμμα περιήγησής σας.
+about-private-browsing-focus-promo-header-c = Απόρρητο ανώτερου επιπέδου στο κινητό
+about-private-browsing-focus-promo-text-c = Το { -focus-brand-name } διαγράφει το ιστορικό σας κάθε φορά, ενώ αποκλείει διαφημίσεις και ιχνηλάτες.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
