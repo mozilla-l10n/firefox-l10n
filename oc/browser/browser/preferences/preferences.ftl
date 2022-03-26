@@ -203,10 +203,19 @@ containers-remove-cancel-button = Suprimir pas aqueste contenedor
 language-and-appearance-header = Lenga e aparéncia
 fonts-and-colors-header = Poliças e colors
 preferences-web-appearance-header = Aparéncia dels sites web
+preferences-web-appearance-description = D’unes sites web adaptan lor jòc de colors segon vòstras preferéncias. Causissètz lo jòc de colors que volètz emplegar per aqueles sites.
 preferences-web-appearance-choice-browser = Tèma de { -brand-short-name }
 preferences-web-appearance-choice-system = Tèma del sistèma
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Escur
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Fasètz correspondre los paramètres de tèma de { -brand-short-name } pels rèireplans e lo contengut dels sites web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Fasètz correspondre los paramètres sistèma pels rèireplans e lo contengut dels sites web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Utilizar una aparéncia clara pels rèireplans e lo contengut dels sites web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Utilizar una aparéncia escura pels rèireplans e lo contengut dels sites web.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -215,6 +224,9 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Vòstras seleccion de colors subrecargan l’aparéncia dels sites web. <a data-l10n-name="colors-link">Gerir las colors</a>
 preferences-colors-header = Colors
 preferences-colors-manage-button =
     .label = Gestion de las colors…
