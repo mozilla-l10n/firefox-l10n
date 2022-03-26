@@ -10,12 +10,14 @@ import-from-app = Importuj z aplikacji
 import-from-app-desc = Wybierz import kont, książek adresowych, kalendarzy i innych danych z:
 import-address-book = Importuj plik książki adresowej
 import-calendar = Importuj plik kalendarza
+export-profile = Eksportuj
 
 ## Buttons
 
 button-cancel = Anuluj
 button-back = Wstecz
 button-continue = Kontynuuj
+button-export = Eksportuj
 
 ## Import from app steps
 
@@ -31,6 +33,7 @@ profiles-pane-desc = Wybierz położenie, z którego importować
 profile-file-picker-dir = Wybierz folder profilu
 profile-file-picker-zip = Wybierz plik ZIP (mniejszy niż 2 GB)
 items-pane-title = Wybierz, co importować
+items-pane-source = Położenie źródłowe:
 items-pane-checkbox-accounts = Konta i ustawienia
 items-pane-checkbox-address-books = Książki adresowe
 items-pane-checkbox-calendars = Kalendarze
@@ -38,6 +41,8 @@ items-pane-checkbox-mail-messages = Wiadomości pocztowe
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = Wybierz typ pliku do zaimportowania:
+addr-book-csv-file = Plik z wartościami rozdzielonymi przecinkami lub tabulatorami (.csv, .tsv)
 addr-book-ldif-file = Plik LDIF (.ldif)
 addr-book-vcard-file = Plik vCard (.vcf, .vcard)
 addr-book-sqlite-file = Plik bazy danych SQLite (.sqlite)
