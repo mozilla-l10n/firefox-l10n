@@ -68,6 +68,12 @@ app-basics-location-service-key-google = מפתח עבור שירותי המיק
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = מפתח עבור שירותי המיקום של Mozilla
 app-basics-safe-mode = מצב בטוח
+app-basics-memory-size = גודל זיכרון (RAM)
+app-basics-disk-available = שטח דיסק זמין
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] הצגה ב־Finder
