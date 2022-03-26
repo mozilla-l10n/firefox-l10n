@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Domyślna wyszukiwarka została zmieniona.</strong> { -brand-short-name } nie obsługuje już wyszukiwarki { $oldEngine }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną. <label data-l10n-name="remove-search-engine-article">Więcej informacji</label>
+removed-search-engine-message = <strong>Domyślna wyszukiwarka została zmieniona.</strong> { -brand-short-name } nie obsługuje już wyszukiwarki { $oldEngine }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną. <label data-l10n-name="remove-search-engine-article">Więcej informacji</label>
 remove-search-engine-button = OK
