@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Zarządzaj motywami przeglądarki { -brand-short-name } w <a data-l10n-name="themes-link">Rozszerzenia i motywy</a>
+preferences-colors-header = Kolory
 default-font = Domyślna czcionka:
     .accesskey = D
 default-font-size = Rozmiar:
