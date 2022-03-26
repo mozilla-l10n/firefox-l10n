@@ -33,6 +33,12 @@ about-private-browsing-prominent-cta = Зберігайте приватніст
 about-private-browsing-focus-promo-cta = Завантажити { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватний перегляд у дорозі
 about-private-browsing-focus-promo-text = Наш спеціалізований мобільний застосунок для приватного перегляду щоразу очищає вашу історію та куки.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Перейдіть до приватного перегляду на своєму телефоні
+about-private-browsing-focus-promo-text-b = Користуйтеся { -focus-brand-name } для тих приватних пошуків, які ви хочете приховати від основного мобільного браузера.
+about-private-browsing-focus-promo-header-c = Приватність вищого рівня на мобільному пристрої
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
