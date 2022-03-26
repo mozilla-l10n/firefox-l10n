@@ -11,5 +11,14 @@ more-from-moz-category =
 more-from-moz-subtitle = Паспрабуйце іншыя прадукты { -vendor-short-name }, якія падтрымліваюць здаровы інтэрнэт.
 more-from-moz-firefox-mobile-title = { -brand-product-name } для мабільных прылад
 more-from-moz-firefox-mobile-description = Мабільны браўзер, які ставіць вашу прыватнасць на першае месца.
+more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-button-mozilla-rally-2 = Далучайцеся да { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Сцягніце з дапамогай мабільнай прылады. Накіруйце камеру на QR-код. Калі з'явіцца спасылка, націсніце на яе.
+more-from-moz-qr-code-box-firefox-mobile-button = Замест гэтага адправіць электронны ліст на ваш тэлефон
+more-from-moz-qr-code-firefox-mobile-img =
+    .alt = QR-код для сцягвання { -brand-product-name } для мабільных прылад
+more-from-moz-button-mozilla-vpn-2 = Атрымаць VPN
 more-from-moz-learn-more-link = Даведацца больш
