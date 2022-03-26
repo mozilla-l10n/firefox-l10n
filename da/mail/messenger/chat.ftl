@@ -32,8 +32,8 @@ chat-buddy-identity-status-unverified = Ubekræftet
 #   $conversation (String) - Name of the conversation the user is invited to.
 chat-conv-invite-label = Du er blevet inviteret til at chatte i { $conversation }
 chat-conv-invite-accept =
-    .label = Bekræft
-    .accesskey = B
+    .label = Accepter
+    .accesskey = c
 chat-conv-invite-deny =
     .label = Afvis
     .accesskey = A
