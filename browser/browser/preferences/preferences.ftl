@@ -234,6 +234,11 @@ preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństw
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Zarządzaj motywami przeglądarki { -brand-short-name } w <a data-l10n-name="themes-link">Rozszerzenia i motywy</a>
 preferences-colors-header = Kolory
+preferences-colors-description = Zastąp domyślne kolory przeglądarki { -brand-short-name } dla tekstu, teł witryn i odnośników.
+preferences-colors-manage-button =
+    .label = Zarządzaj kolorami…
+    .accesskey = k
+preferences-fonts-header = Czcionki
 default-font = Domyślna czcionka:
     .accesskey = D
 default-font-size = Rozmiar:
@@ -454,6 +459,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Używaj płynnego przewijania
     .accesskey = n
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Zawsze widoczne paski przewijania
+    .accesskey = p
 browsing-use-onscreen-keyboard =
     .label = Wyświetlaj klawiaturę ekranową, gdy zachodzi taka potrzeba
     .accesskey = e
