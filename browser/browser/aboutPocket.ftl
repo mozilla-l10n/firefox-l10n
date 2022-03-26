@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Мітки мають обмеження �
 pocket-panel-saved-error-only-links = Можна зберігати лише посилання
 pocket-panel-saved-error-not-saved = Сторінку не збережено
 pocket-panel-saved-error-no-internet = Для можливості збереження у { -pocket-brand-name } ви повинні бути під'єднані до Інтернету. Перевірте своє з'єднання і спробуйте знову.
+pocket-panel-saved-error-remove = Під час спроби вилучити цю сторінку сталася помилка.
 pocket-panel-saved-page-removed = Сторінку вилучено
 pocket-panel-saved-page-saved = Збережено в { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Збережено в { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Вилучення сторінки…
+pocket-panel-saved-removed = Сторінку вилучено з мого списку
 pocket-panel-saved-processing-tags = Додавання міток…
 pocket-panel-saved-remove-page = Вилучити сторінку
 pocket-panel-saved-save-tags = Зберегти
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Збереження…
 pocket-panel-saved-suggested-tags = Пропоновані мітки
 pocket-panel-saved-tags-saved = Мітки додано
 pocket-panel-signup-view-list = Перегляд списку
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Додати мітки:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Увійти
 pocket-panel-button-show-all = Показати все
 pocket-panel-button-add-tags = Додати мітки
 pocket-panel-button-activate = Активуйте { -pocket-brand-name } у { -brand-product-name }
+pocket-panel-button-remove = Вилучити
