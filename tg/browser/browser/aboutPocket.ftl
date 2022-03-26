@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Дарози барчаспҳо бояд �
 pocket-panel-saved-error-only-links = Танҳо пайвандҳо метавонанд нигоҳ дошта шаванд
 pocket-panel-saved-error-not-saved = Саҳифа нигоҳ дошта нашуд
 pocket-panel-saved-error-no-internet = Барои нигоҳ доштани мавод ба «{ -pocket-brand-name }» шумо бояд дорои пайвасти интернет бошед. Лутфан, ба интернет пайваст шавед ва аз нав кӯшиш намоед.
+pocket-panel-saved-error-remove = Ҳангоми кӯшиши несткунии ин саҳифа хато ба миён омад.
 pocket-panel-saved-page-removed = Саҳифа тоза карда шуд
 pocket-panel-saved-page-saved = Ба «{ -pocket-brand-name }» нигоҳ дошта шуд
+pocket-panel-saved-page-saved-b = Ба «{ -pocket-brand-name }» нигоҳ дошта шуд!
 pocket-panel-saved-processing-remove = Дар ҳоли тозакунии саҳифа…
+pocket-panel-saved-removed = Саҳифа аз рӯйхати ман тоза карда шуд
 pocket-panel-saved-processing-tags = Иловакунии барчаспҳо…
 pocket-panel-saved-remove-page = Тоза кардани саҳифа
 pocket-panel-saved-save-tags = Нигоҳ доштан
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Нигаҳдорӣ…
 pocket-panel-saved-suggested-tags = Барчаспҳои пешниҳодшуда
 pocket-panel-saved-tags-saved = Барчаспҳо илова карда шуданд
 pocket-panel-signup-view-list = Намоиш додани рӯйхат
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Илова кардани барчаспҳо:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Ворид шудан
 pocket-panel-button-show-all = Ҳамаро намоиш додан
 pocket-panel-button-add-tags = Илова кардани барчаспҳо
 pocket-panel-button-activate = Фаъол кардани { -pocket-brand-name } дар { -brand-product-name }
+pocket-panel-button-remove = Тоза кардан
