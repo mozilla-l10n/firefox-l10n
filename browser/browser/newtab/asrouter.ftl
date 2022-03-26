@@ -161,3 +161,10 @@ spotlight-total-cookie-protection-body = Całkowita ochrona ciasteczek uniemożl
 spotlight-total-cookie-protection-expanded = { -brand-short-name } buduje płot wokół ciasteczek, ograniczając je do odwiedzanej witryny, aby elementy śledzące nie mogły ich używać do śledzenia Cię. Włączając tę funkcję przed innymi pomożesz ją zoptymalizować, abyśmy mogli kontynuować tworzenie lepszego Internetu dla wszystkich.
 spotlight-total-cookie-protection-primary-button = Włącz całkowitą ochronę ciasteczek
 spotlight-total-cookie-protection-secondary-button = Nie teraz
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Lepszy Internet zaczyna się od Ciebie
+spotlight-better-internet-body = Kiedy używasz przeglądarki { -brand-short-name }, głosujesz na otwarty i dostępny Internet, który jest lepszy dla wszystkich.
+spotlight-peace-mind-header = Możesz na nas liczyć
+spotlight-peace-mind-body = Każdego miesiąca { -brand-short-name } blokuje średnio ponad 3000 elementów śledzących na użytkownika. Ponieważ nic, zwłaszcza psujące prywatność elementy śledzące, nie powinno stać między Tobą a dobrym Internetem.
