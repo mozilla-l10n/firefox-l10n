@@ -192,6 +192,18 @@ spaces-toolbar-button-collapse =
     .title = Згорнути панель Простори
 spaces-toolbar-button-reveal =
     .title = Показати панель просторів
+spaces-toolbar-button-mail2 =
+    .title = Пошта
+spaces-toolbar-button-address-book2 =
+    .title = Адресна книга
+spaces-toolbar-button-calendar2 =
+    .title = Календар
+spaces-toolbar-button-tasks2 =
+    .title = Завдання
+spaces-toolbar-button-chat2 =
+    .title = Чат
+spaces-toolbar-button-settings2 =
+    .title = Налаштування
 spaces-context-new-tab-item =
     .label = Відкрити у новій вкладці
 spaces-context-new-window-item =
@@ -223,6 +235,8 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
 # Variables:
 # $count (Number) - Number of unread messages.
 chat-button-unread-messages = { $count }
