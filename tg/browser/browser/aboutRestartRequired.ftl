@@ -8,5 +8,5 @@ restart-required-intro-brand = { -brand-short-name } ҳоли ҳозир дар 
 restart-required-description = Мо ҳамаи саҳифаҳо, равзанаҳо ва варақаҳои шуморо барқарор мекунем, то ки шумо тавонед тез ба кор баргардед.
 restart-required-heading = Барои идомаи истифодаи { -brand-short-name }, онро аз нав оғоз намоед
 restart-required-intro = Навсозӣ барои { -brand-short-name } дар пасзамина оғоз ёфт. Барои ба анҷом расонидани раванди навсозӣ, барномаро аз нав оғоз намоед.
-window-restoration-info = Равзанаҳо ва варақаҳои шумо, ба ғайр аз махфӣ, дарҳол барқарор карда мешаванд.
+window-restoration-info = Равзанаҳо ва варақаҳои шумо, ба ғайр аз хусусӣ, дарҳол барқарор карда мешаванд.
 restart-button-label = Аз нав оғоз кардани { -brand-short-name }

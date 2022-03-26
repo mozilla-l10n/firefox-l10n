@@ -137,7 +137,7 @@ spotlight-learn-more-expanded = Маълумоти бештар
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Чунин менамояд, ки шумо Wi-Fi-и ҷамъиятиро истифода мебаред
 spotlight-public-wifi-vpn-body = Барои пинҳон кардани ҷойгиршавӣ ва фаъолияти тамошокунии худ, истифодаи шабакаи хусусии маҷозиро ба назар гиред. Он барои муҳофизат кардани шумо ҳангоми кор бо сомонаҳо дар ҷойҳои ҷамъиятӣ, масалан дар фурудгоҳҳо ва қаҳвахонаҳо, кумак мерасонад.
-spotlight-public-wifi-vpn-primary-button = Бо { -mozilla-vpn-brand-name } махфӣ бошед
+spotlight-public-wifi-vpn-primary-button = Бо { -mozilla-vpn-brand-name } хусусияти худро нигоҳ доред
     .accesskey = Б
 spotlight-public-wifi-vpn-link = Ҳоло не
     .accesskey = Ҳ

@@ -87,7 +87,7 @@ permissions-exceptions-cookie-desc = Шумо метавонед муайян к
 permissions-exceptions-https-only-window =
     .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. { -brand-short-name } кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба HTTPS-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои махфӣ татбиқ намешаванд.
+permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. { -brand-short-name } кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба HTTPS-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои хусусӣ татбиқ намешаванд.
 
 ## Exceptions - Pop-ups
 

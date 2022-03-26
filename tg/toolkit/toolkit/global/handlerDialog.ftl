@@ -58,4 +58,4 @@ choose-app-btn =
     .accessKey = И
 choose-other-app-window-title = Барномаи дигар…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
-choose-dialog-privatebrowsing-disabled = Ғайрифаъол дар равзанаҳои махфӣ
+choose-dialog-privatebrowsing-disabled = Ғайрифаъол дар равзанаҳои хусусӣ

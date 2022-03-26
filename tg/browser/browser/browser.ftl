@@ -16,9 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Тамошокунии махфӣ)
+    .data-title-private = { -brand-full-name } (Тамошокунии хусусӣ)
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } (Тамошокунии махфӣ)
+    .data-content-title-private = { $content-title } — { -brand-full-name } (Тамошокунии хусусӣ)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — (Тамошокунии махфӣ)
+    .data-title-private = { -brand-full-name } — (Тамошокунии хусусӣ)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — (Тамошокунии махфӣ)
+    .data-content-title-private = { $content-title } — (Тамошокунии хусусӣ)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -188,7 +188,7 @@ search-one-offs-context-set-as-default =
     .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз
     .accesskey = Т
 search-one-offs-context-set-as-default-private =
-    .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз барои равзанаи махфӣ
+    .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз барои равзанаи хусусӣ
     .accesskey = Т
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -295,9 +295,9 @@ identity-description-custom-root = Mozilla ин барорандаи гувоҳ�
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
     .accesskey = Т
-identity-description-insecure = Пайвасти шумо бо ин сомона махфӣ намебошад. Маълумотеро, ки шумо пешниҳод мекунед (монанди ниҳонвожаҳо, паёмҳо, кортҳои кредитӣ ва ғайра) одамони дигар дида метавонанд.
+identity-description-insecure = Пайвасти шумо бо ин сомона хусусӣ намебошад. Маълумотеро, ки шумо пешниҳод мекунед (монанди ниҳонвожаҳо, паёмҳо, кортҳои кредитӣ ва ғайра) одамони дигар дида метавонанд.
 identity-description-insecure-login-forms = Маълумоти воридшавие, ки шумо дар ин саҳифа ворид мекунед, ба таври бехатар нигоҳ дошта намешавад ва метавонад ошкор карда шавад.
-identity-description-weak-cipher-intro = Пайвасти шумо бо ин сомона рамзгузории камқувватро истифода мебарад ва махфӣ намебошад.
+identity-description-weak-cipher-intro = Пайвасти шумо бо ин сомона рамзгузории камқувватро истифода мебарад ва хусусӣ намебошад.
 identity-description-weak-cipher-risk = Одамони дигар метавонанд маълумоти шуморо бинанд ё рафтори сомонаро тағйир диҳанд.
 identity-description-active-blocked = { -brand-short-name } қисмҳои ҳифзнашудаи саҳифаи ҷориро манъ кард. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-passive-loaded = Пайвасти шумо хусусӣ нест ва иттилооте, ки шумо бо ин сомона мубодила мекунед, метавонад аз ҷониби одамони дигар дида шавад.
@@ -464,9 +464,9 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Ҷустуҷӯ тавассути { $engine } дар равзанаи махфӣ
+urlbar-result-action-search-in-private-w-engine = Ҷустуҷӯ тавассути { $engine } дар равзанаи хусусӣ
 # Used when the private browsing engine is the same as the default engine.
-urlbar-result-action-search-in-private = Ҷустуҷӯ дар равзанаи махфӣ
+urlbar-result-action-search-in-private = Ҷустуҷӯ дар равзанаи хусусӣ
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables

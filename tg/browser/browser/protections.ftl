@@ -19,7 +19,7 @@ graph-total-tracker-summary =
        *[other] <b>{ $count }</b> воситаи пайгирӣ аз { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } манъ карда шудаанд
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } манъкунии васоити пайгириро дар равзанаҳои махфӣ идома медиҳад, аммо чизҳои манъшударо ба қайд намегирад.
+graph-private-window = { -brand-short-name } манъкунии васоити пайгириро дар равзанаҳои хусусӣ идома медиҳад, аммо чизҳои манъшударо ба қайд намегирад.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Васоити пайгирие, ки { -brand-short-name } дар ин ҳафта манъ кард
 protection-report-webpage-title = Лавҳаи вазъияти муҳофизат

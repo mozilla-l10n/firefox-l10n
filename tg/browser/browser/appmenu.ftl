@@ -149,7 +149,7 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Таҳрир кардани танзимот…
 profiler-popup-disabled =
-    Эҳтимол, ба сабаби кушода будани равзанаи тамошокунии махфӣ,
+    Эҳтимол, ба сабаби кушода будани равзанаи тамошокунии хусусӣ,
     айни замон профилкунанда ғайрифаъол аст.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =

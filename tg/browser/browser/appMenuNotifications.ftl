@@ -37,15 +37,13 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ҳоло не
     .secondarybuttonaccesskey = Н
 appmenu-update-other-instance-message = Навсозии нави { -brand-shorter-name } дастрас аст, аммо ба сабаби он ки нусхаи дигари { -brand-shorter-name } дар ҳоли иҷро аст, он насб карда намешавад. Барои идома додани навсозӣ, нусхаи дигареро пӯшед ё интихоб кунед, ки навсозӣ ба ҳар ҳол насб карда шавад (нусхаи ҷории дигар метавонад то бозоғозии дубора дуруст кор накунад).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Хуб
     .buttonaccesskey = О
 appmenu-addon-post-install-message3 = Ҷузъҳои иловагӣ ва мавзӯъҳои худро тавассути менюи барномаҳо идора намоед.
 appmenu-addon-post-install-incognito-checkbox =
-    .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи махфӣ
+    .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи хусусӣ
     .accesskey = A
-    
 appmenu-new-tab-controlled-changes =
     .label = Варақаи нави шумо тағйир ёфт.
     .buttonlabel = Нигоҳ доштани тағйирот

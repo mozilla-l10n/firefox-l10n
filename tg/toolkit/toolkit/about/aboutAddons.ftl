@@ -38,18 +38,18 @@ detail-update-manual =
     .label = Ғайрифаъол
     .tooltiptext = Навсозиҳо ба таври худкор насб карда намешаванд
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Иҷро кардан дар равзанаҳои махфӣ
+detail-private-browsing-label = Иҷро кардан дар равзанаҳои хусусӣ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = Дар равзанаҳои махфӣ иҷозат дода намешавад
+detail-private-disallowed-label = Дар равзанаҳои хусусӣ иҷозат дода намешавад
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Дастрасӣ ба равзанаҳои махфӣ лозим аст
+detail-private-required-label = Дастрасӣ ба равзанаҳои хусусӣ лозим аст
 detail-private-browsing-on =
     .label = Иҷозат додан
-    .tooltiptext = Фаъол кардан дар тамошокунии махфӣ
+    .tooltiptext = Фаъол кардан дар тамошокунии хусусӣ
 detail-private-browsing-off =
     .label = Иҷозат дода нашавад
-    .tooltiptext = Ғайрифаъол кардан дар тамошокунии махфӣ
+    .tooltiptext = Ғайрифаъол кардан дар тамошокунии хусусӣ
 detail-home =
     .label = Саҳифаи асосӣ
 detail-home-value =
@@ -259,7 +259,7 @@ install-update-button = Навсозӣ кардан
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Дар равзанаҳои махфӣ иҷозат дода мешавад
+    .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = Иҷозат додан
 addon-detail-private-browsing-disallow = Иҷозат дода нашавад
