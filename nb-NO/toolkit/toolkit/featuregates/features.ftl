@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Aktiverer støtte for den eksperimentelle CSS Masonry Layout-funksjonen. Se denne <a data-l10n-name="explainer">forklaringen</a> for en beskrivelse av funksjonen på høyt nivå. For å gi tilbakemelding, kommenter <a data-l10n-name="w3c-issue">denne GitHub-saken</a> eller <a data-l10n-name="bug">denne feilrapporten</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Aktiverer støtte for CSS Cascade Layers. Se <a data-l10n-name="spec">den midlertidige spesifikasjonen</a> for mer informasjon. Rapporter gjerne feil med denne funksjonen på <a data-l10n-name="bugzilla">bug 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Denne nye API-en gir støtte på lavt nivå for å utføre beregning og grafisk gjengivelse ved å bruke <a data-l10n-name="wikipedia">grafikkprosessoren (GPU)</a> på brukerens enhet eller datamaskin. <a data-l10n-name="spec">Spesifikasjonen</a> er fremdeles under arbeid. Se <a data-l10n-name="bugzilla">bug 1602129</a> for mer informasjon.
@@ -97,3 +92,4 @@ experimental-features-ime-search-description = En IME (Input Method Editor) er e
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 User-Agent-streng
+experimental-features-firefox-100-description = Få { -brand-short-name } til å sende nettsteder en User-Agent-streng som utgir seg for å være { -brand-product-name } versjon 100. Bruk denne innstillingen til å teste om nettsteder feiler når { -brand-short-name } når et tresifret versjonsnummer. Den ekte { -brand-product-name } 100 skal etter planen slippes i mai 2022, så begynn å teste nettsidene dine nå!
