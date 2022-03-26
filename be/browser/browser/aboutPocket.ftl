@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = Старонка выдалена
 pocket-panel-saved-page-saved = Захавана ў { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Захавана ў { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Выдаленне старонкі…
+pocket-panel-saved-removed = Старонка выдалена з вашага спіса
 pocket-panel-saved-processing-tags = Даданне тэгаў…
 pocket-panel-saved-remove-page = Выдаліць старонку
 pocket-panel-saved-save-tags = Захаваць
@@ -28,6 +29,8 @@ pocket-panel-saved-saving-tags = Захаванне…
 pocket-panel-saved-suggested-tags = Прапанаваныя тэгі
 pocket-panel-saved-tags-saved = Тэгі дададзены
 pocket-panel-signup-view-list = Паглядзець спіс
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Дадаць тэгі:
 
 ## about:pocket-signup panel
 
@@ -55,6 +58,7 @@ pocket-panel-home-explore-popular-topics = Паглядзіце папулярн
 pocket-panel-home-discover-more = Адкрыйце для сябе яшчэ больш
 pocket-panel-home-explore-more = Азнаёміцца
 pocket-panel-home-most-recent-saves = Вось вашы апошнія захаванні:
+pocket-panel-home-most-recent-saves-loading = Загрузка апошніх захаванняў…
 pocket-panel-home-new-user-cta = Націсніце кнопку { -pocket-brand-name }, каб захаваць артыкулы, відэа і спасылкі.
 pocket-panel-home-new-user-message = Глядзіце свае апошнія захаванні тут.
 
@@ -68,3 +72,4 @@ pocket-panel-header-sign-in = Увайсці
 pocket-panel-button-show-all = Паказаць усё
 pocket-panel-button-add-tags = Дадаць тэгі
 pocket-panel-button-activate = Актывуйце { -pocket-brand-name } у { -brand-product-name }
+pocket-panel-button-remove = Выдаліць

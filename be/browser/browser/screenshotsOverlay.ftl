@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Скасаваць
+screenshots-overlay-instructions = Пацягніце або пстрыкніце на старонцы для выбару вобласці. Для адмены націсніце ESC.
