@@ -185,6 +185,14 @@ about-webrtc-aec-logging-off-state-msg = opptekne loggfiler finn ein i: { $path 
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } ramme
+       *[other] { $frames } rammer
+    }
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.

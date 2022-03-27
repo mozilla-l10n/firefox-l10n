@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Aktiverer støtte for den eksperimentelle CSS Masonry Layout-funksjonen. Sjå denne <a data-l10n-name="explainer">forklaringa</a> for ei skildring av funksjonen på høgt nivå. For å gi tilbakemelding, kommenter <a data-l10n-name="w3c-issue">denne GitHub-saka</a> eller <a data-l10n-name="bug">denne feilrapporten</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Cascade Layers
-experimental-features-css-cascade-layers-description = Aktiverer støtte for CSS Cascade Layers. Sjå <a data-l10n-name="spec">den mellombelse spesifikasjonen</a> for meir informasjon. Rapporter gjerne feil med denne funksjonen på <a data-l10n-name="bugzilla">bug 1699215</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Denne nye API-en gir støtte på lågt nivå for  utrekning og grafisk attgiving ved å bruke <a data-l10n-name="wikipedia">grafikkprosessoren (GPU)</a> på eininga eller datamaskina til brukaren. <a data-l10n-name="spec">Spesifikasjonen</a> er enno under arbeid. Sjå <a data-l10n-name="bugzilla">bug 1602129</a> for meir informasjon.
@@ -97,3 +92,4 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) er 
 # Firefox 100
 experimental-features-firefox-100 =
     .label = { -brand-product-name } 100 User-Agent-streng
+experimental-features-firefox-100-description = Få { -brand-short-name } til å sende nettstadar ein User-Agent-streng som utgir seg for å vere { -brand-product-name } versjon 100. Bruk denne innstillinga for å teste om nettstadar feilar når { -brand-short-name } når eit tresifret versjonsnummer. Den ekte { -brand-product-name } 100 skal etter planen sleppast i mai 2022, så begynn å teste nettsidene dine no!
