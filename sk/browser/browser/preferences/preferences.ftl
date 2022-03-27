@@ -219,12 +219,20 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Svetlá téma vzhľadu pre pozadie a obsah webových stránok
 preferences-web-appearance-choice-tooltip-dark =
     .title = Tmavá téma vzhľadu pre pozadie a obsah webových stránok
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Váš výber farieb má prednosť pred vzhľadom webových stránok. <a data-l10n-name="colors-link">Spravovať farby</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Spravujte témy vzhľadu { -brand-short-name(case: "gen") } v časti <a data-l10n-name="themes-link">Rozšírenia a témy vzhľadu</a>
+preferences-web-appearance-footer = Témy vzhľadu { -brand-short-name(case: "gen") } môžete spravovať v okne <a data-l10n-name="themes-link">Správcu doplnkov</a>.
 preferences-colors-header = Farby
 preferences-colors-description = Umožňuje zmeniť predvolené farby textu, pozadia webových stránok a odkazov vo { -brand-short-name(case: "loc") }.
 preferences-colors-manage-button =
