@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Panjang karakter maksimum tag adalah 25 ka
 pocket-panel-saved-error-only-links = Hanya tautan yang dapat disimpan
 pocket-panel-saved-error-not-saved = Laman Tidak Disimpan
 pocket-panel-saved-error-no-internet = Anda harus tersambung ke Internet untuk menyimpan ke { -pocket-brand-name }. Periksa sambungan Anda lalu coba lagi.
+pocket-panel-saved-error-remove = Terjadi kesalahan ketika coba menghapus laman ini.
 pocket-panel-saved-page-removed = Laman Dihapus
 pocket-panel-saved-page-saved = Disimpan di { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Disimpan di { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Menghapus Laman…
+pocket-panel-saved-removed = Halaman Dihapus dari Daftar Saya
 pocket-panel-saved-processing-tags = Menambahkan tag…
 pocket-panel-saved-remove-page = Hapus Laman
 pocket-panel-saved-save-tags = Simpan
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Menyimpan…
 pocket-panel-saved-suggested-tags = Saran Tag
 pocket-panel-saved-tags-saved = Tag Ditambahkan
 pocket-panel-signup-view-list = Tampilkan Daftar
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Tambahkan Tag:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Masuk
 pocket-panel-button-show-all = Tampilkan Semua
 pocket-panel-button-add-tags = Tambahkan Tag
 pocket-panel-button-activate = Aktifkan { -pocket-brand-name } di { -brand-product-name }
+pocket-panel-button-remove = Hapus
