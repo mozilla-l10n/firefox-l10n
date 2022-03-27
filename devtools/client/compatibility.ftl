@@ -43,7 +43,14 @@ compatibility-issue-occurrences =
         [few] { $number } выпадкі
        *[many] { $number } выпадкаў
     }
-
 compatibility-no-issues-found = Праблем з сумяшчальнасцю не выяўлена.
 compatibility-close-settings-button =
     .title = Зачыніць налады
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        Праблемы з сумяшчальнасцю ў:
+        { $browsers }
