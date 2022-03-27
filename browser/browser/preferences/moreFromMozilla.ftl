@@ -18,6 +18,10 @@ more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } д�
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Дазвольце сваім звесткам працаваць на лепшы Інтэрнэт для ўсіх.
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Ахвяруйце свае дадзеныя на даследаванні, якія працуюць над стварэннем больш бяспечнага і адкрытага Інтэрнэту, які дапамагае людзям, а не буйным тэхналагічным кампаніям.
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = Далучайцеся да { -rally-short-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Сцягніце з дапамогай мабільнай прылады. Накіруйце камеру на QR-код. Калі з'явіцца спасылка, націсніце на яе.
 more-from-moz-qr-code-box-firefox-mobile-button = Замест гэтага адправіць электронны ліст на ваш тэлефон
