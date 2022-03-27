@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Váš predvolený vyhľadávací modul bol zmenený.</strong> { -brand-short-name } už viac nepodporuje modul { $oldEngine }. Vašim predvoleným vyhľadávacím modulom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávací modul, prejdite do nastavení. <label data-l10n-name="remove-search-engine-article">Ďalšie informácie</label>
+removed-search-engine-message = <strong>Váš predvolený vyhľadávací modul bol zmenený.</strong> { $oldEngine } už nie je k dispozícii ako predvolený vyhľadávací modul prehliadača { -brand-short-name }. Vašim predvoleným vyhľadávacím modulom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávací modul, prejdite do nastavení. <label data-l10n-name="remove-search-engine-article">Ďalšie informácie</label>
 remove-search-engine-button = OK
