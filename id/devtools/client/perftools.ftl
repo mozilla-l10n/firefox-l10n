@@ -94,6 +94,8 @@ perftools-thread-img-decoder =
     .title = Thread dekode gambar
 perftools-thread-dns-resolver =
     .title = Resolusi DNS terjadi di thread ini
+perftools-thread-task-controller =
+    .title = Utas kumpulan utas TaskController
 
 ##
 
