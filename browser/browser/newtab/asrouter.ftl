@@ -159,6 +159,7 @@ spotlight-total-cookie-protection-secondary-button = Jangan sekarang
 spotlight-better-internet-header = Internet yang lebih baik dimulai dari Anda
 spotlight-better-internet-body = Ketika Anda menggunakan { -brand-short-name }, Anda memilih Internet yang terbuka dan dapat diakses secara lebih baik untuk semua orang.
 spotlight-peace-mind-header = Kami membantu Anda
+spotlight-peace-mind-body = Setiap bulan, { -brand-short-name } memblokir rata-rata lebih dari 3000 pelacak per pengguna. Karena tidak ada yang bisa menghalangi antara Anda dengan Internet yang baik, terutama gangguan privasi seperti pelacak.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Sematkan ke Dock
