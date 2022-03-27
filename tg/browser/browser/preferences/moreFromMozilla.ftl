@@ -13,8 +13,12 @@ more-from-moz-firefox-mobile-title = { -brand-product-name }-и мобилӣ
 more-from-moz-firefox-mobile-description = Браузери мобилӣ, ки махфияти шуморо дар ҷойи аввал мегузорад.
 more-from-moz-firefox-mobile-description-advanced = Аз манъкунии васоити пайгирӣ сар карда, то пешгирии халалрасонии пахшҳои худкор, браузерҳои мобилии { -brand-product-name } барои таъмин намудани Интернети нек ҳамеша бepyн аз вақти мyқарраpшyда кор мекунанд.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
+more-from-moz-mozilla-vpn-description = Як қабати нави тамошокунии хусусӣ ва муҳофизатро кашф намоед.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } як қабати дигари тамошокунии хусусӣ ва муҳофизатро илова мекунад. Ва нисбат ба баъзе VPN-ҳои дигар, он бехатар аст ва фаъолияти шуморо пайгирӣ намекунад.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
+# This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description = Ба мақсади таъмини Интернети беҳтар барои ҳамаи корбарон, маълумоти худро ба кор дароред.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = Ба { -rally-short-name } ҳамроҳ шавед
 more-from-moz-qr-code-box-firefox-mobile-button = Ба ивазаш, паёми электрониеро ба телефони худ фиристонед
