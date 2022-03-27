@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Mesin pencari baku Anda telah diubah.</strong> { -brand-short-name } tidak lagi mendukung { $oldEngine }. { $newEngine } sekarang adalah mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan. <label data-l10n-name="remove-search-engine-article">Pelajari lebih lanjut</label>
+removed-search-engine-message = <strong>Mesin pencari baku Anda telah diubah.</strong> { $oldEngine } tidak lagi tersedia sebagai mesin pencari baku di { -brand-short-name }. Kini, { $newEngine } menjadi mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan. <label data-l10n-name="save-search-engine-article">Pelajari lebih lanjut</label>
 remove-search-engine-button = Oke

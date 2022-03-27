@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Ekstensi <img data
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan cara { -brand-short-name } tersambung ke internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> mengendalikan setelan ini.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> mengendalikan setelan ini.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/>{ $name } membutuhkan Tab Kontainer.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong> mengendalikan setelan ini.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> mengendalikan bagaimana { -brand-short-name } terhubung ke Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -175,6 +190,40 @@ containers-remove-cancel-button = Jangan hapus Kontainer ini
 
 language-and-appearance-header = Bahasa dan Tampilan
 fonts-and-colors-header = Huruf & Warna
+preferences-web-appearance-header = Tampilan situs web
+preferences-web-appearance-description = Beberapa situs web menyesuaikan skema warnanya berdasarkan preferensi Anda. Pilih skema warna mana yang ingin Anda gunakan untuk situs tersebut.
+preferences-web-appearance-choice-browser = Tema { -brand-short-name }
+preferences-web-appearance-choice-system = Tema sistem
+preferences-web-appearance-choice-light = Terang
+preferences-web-appearance-choice-dark = Gelap
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Cocokkan pengaturan tema { -brand-short-name } Anda untuk latar belakang dan konten situs web.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Cocokkan pengaturan sistem Anda untuk latar belakang dan konten situs web.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Gunakan tampilan terang untuk latar belakang dan konten situs web.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Gunakan tampilan gelap untuk latar belakang dan konten situs web.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Pilihan warna Anda mengesampingkan tampilan situs web. <a data-l10n-name="colors-link">Kelola warna</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Kelola tema { -brand-short-name } di <a data-l10n-name="themes-link">Ekstensi & Tema</a>
+preferences-colors-header = Warna
+preferences-colors-description = Timpa warna baku { -brand-short-name } untuk teks, latar belakang situs web, dan tautan.
+preferences-colors-manage-button =
+    .label = Kelola Warna…
+    .accesskey = W
+preferences-fonts-header = Fon
 default-font = Fon baku
     .accesskey = F
 default-font-size = Ukuran
