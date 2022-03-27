@@ -9,11 +9,6 @@ experimental-features-css-masonry2 =
 experimental-features-css-masonry-description = Актывуе падтрымку эксперыментальнай функцыі CSS Masonry Layout. Зазірніце ў <a data-l10n-name="explainer"> тлумачальнік </a> для атрымання падрабязнага апісання функцыі. Каб пакінуць водгук, каментуйце ў <a data-l10n-name="w3c-issue"> гэтай тэме на GitHub </a> альбо <a data-l10n-name="bug"> ў гэтым спісе хібаў </a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-cascade-layers =
-    .label = CSS: Каскадныя пласты
-experimental-features-css-cascade-layers-description = Уключае падтрымку каскадных пластоў CSS. Глядзіце <a data-l10n-name="spec">спецыфікацыю ў працэсе</a> для падрабязных звестак. Паведамляйце як памылкі, што блакуюць <a data-l10n-name="bugzilla">хібу 1699215</a>, калі памылкі звязаны з гэтай функцыяй.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 experimental-features-web-gpu-description2 = Гэты новы API забяспечвае нізкаўзроўневую падтрымку для вылічэння і візуалізацыі графікі з дапамогаю <a data-l10n-name="wikipedia">графічнага працэсара (GPU)</a> прылады альбо камп'ютара карыстальніка. <a data-l10n-name="spec">Спецыфікацыя</a> знаходзіцца яшчэ ў распрацоўцы. Гл. <a data-l10n-name="bugzilla">хібу 1602129</a> для больш падрабязнай інфармацыі.
@@ -94,3 +89,6 @@ experimental-features-multi-pip-description = Эксперыментальная
 experimental-features-ime-search =
     .label = Адрасны радок: паказваць вынікі ў час складання IME
 experimental-features-ime-search-description = IME (рэдактар метаду ўводу) - гэта інструмент, які дазваляе ўводзіць складаныя сімвалы, напрыклад, што выкарыстоўваюцца ва ўсходнеазіяцкіх ці індыйскіх пісьмовых мовах, пры дапамозе стандартнай клавіятуры. Уключэнне гэтага эксперыменту дазволіць трымаць панэль адраснага радка адкрытай, паказваючы вынікі пошуку і прапановы, пры ўводзе тэксту з дапамогай IME. Звярніце ўвагу, што IME можа паказваць панэль, якая закрывае вынікі адраснага радка, таму гэта налада рэкамендуецца толькі для IME, якая не выкарыстоўвае гэты тып панэлі.
+# Firefox 100
+experimental-features-firefox-100 =
+    .label = Радок User-Agent { -brand-product-name } 100
