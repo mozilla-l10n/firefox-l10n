@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Маҳсулоти { -vendor-short-name }-и дигареро озмоед, ки барои дастгирии Интернети солим кор мекунанд.
 more-from-moz-firefox-mobile-title = { -brand-product-name }-и мобилӣ
 more-from-moz-firefox-mobile-description = Браузери мобилӣ, ки махфияти шуморо дар ҷойи аввал мегузорад.
+more-from-moz-firefox-mobile-description-advanced = Аз манъкунии васоити пайгирӣ сар карда, то пешгирии халалрасонии пахшҳои худкор, браузерҳои мобилии { -brand-product-name } барои таъмин намудани Интернети нек ҳамеша бepyн аз вақти мyқарраpшyда кор мекунанд.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
