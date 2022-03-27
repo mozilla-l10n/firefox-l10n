@@ -32,12 +32,12 @@ about-private-browsing-hide-activity-1 = Sembunyikan aktivitas dan lokasi penjel
 about-private-browsing-prominent-cta = Jaga privasi dengan { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Unduh { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Penjelajahan pribadi di mana saja
-about-private-browsing-focus-promo-text = Aplkasi penjelajahan private khusus untuk seluler menghapus riwayat dan kuki Anda setiap saat.
+about-private-browsing-focus-promo-text = Aplkasi seluler penjelajahan pribadi khusus dari kami untuk menghapus riwayat dan kuki Anda setiap saat.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Bawa penjelajahan pribadi ke ponsel Anda
-about-private-browsing-focus-promo-text-b = Gunakan { -focus-brand-name } untuk pencarian pribadi yang tidak ingin dilihat peramban utama Anda.
+about-private-browsing-focus-promo-text-b = Gunakan { -focus-brand-name } untuk pencarian pribadi yang tidak ingin terlihat dari peramban utama Anda.
 about-private-browsing-focus-promo-header-c = Privasi tingkat lanjut di ponsel
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } menghapus riwayat Anda setiap saat sekaligus memblokir iklan dan pelacak.
 # This string is the title for the banner for search engine selection
