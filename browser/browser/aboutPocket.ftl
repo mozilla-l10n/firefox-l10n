@@ -18,7 +18,9 @@ pocket-panel-saved-error-not-saved = Bok njejo se składł
 pocket-panel-saved-error-no-internet = Musyśo z internetom zwězany byś, aby do { -pocket-brand-name } składował. Pšosym zwěžćo z internetom a wopytajśo hyšći raz.
 pocket-panel-saved-page-removed = Bok jo se wótwónoźeł
 pocket-panel-saved-page-saved = Do { -pocket-brand-name } skłaźony
+pocket-panel-saved-page-saved-b = Do { -pocket-brand-name } skłaźony!
 pocket-panel-saved-processing-remove = Bok se wótwónoźujo…
+pocket-panel-saved-removed = Bok jo se wótwónoźeł z mójeje lisćiny
 pocket-panel-saved-processing-tags = Wobznamjenja se pśidawaju…
 pocket-panel-saved-remove-page = Bok wótwónoźeś
 pocket-panel-saved-save-tags = Składowaś
@@ -26,6 +28,8 @@ pocket-panel-saved-saving-tags = Składujo se…
 pocket-panel-saved-suggested-tags = Naraźone wobznamjenja
 pocket-panel-saved-tags-saved = Wobznamjenja su se pśidali
 pocket-panel-signup-view-list = Lisćinu pokazaś
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Wobznamjenja pśidaś:
 
 ## about:pocket-signup panel
 
@@ -67,3 +71,4 @@ pocket-panel-header-sign-in = Pśizjawiś
 pocket-panel-button-show-all = Wšykne pokazaś
 pocket-panel-button-add-tags = Wobznamjenja pśidaś
 pocket-panel-button-activate = { -pocket-brand-name } w { -brand-product-name } aktiwěrowaś
+pocket-panel-button-remove = Wótwónoźeś
