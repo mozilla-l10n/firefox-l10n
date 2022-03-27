@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Etikettar er avgrensa til 25 teikn
 pocket-panel-saved-error-only-links = Berre lenker kan lagrast
 pocket-panel-saved-error-not-saved = Sida ikkje lagra
 pocket-panel-saved-error-no-internet = Du må vere kopla til nettet for å lagre til { -pocket-brand-name }. Kople til nettet og prøv igjen.
+pocket-panel-saved-error-remove = Ein feil oppstod under forsøk på å fjerne denne sida.
 pocket-panel-saved-page-removed = Sida fjerna
 pocket-panel-saved-page-saved = Lagrar til { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Lagra til { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Fjernar sida…
+pocket-panel-saved-removed = Side fjerna frå lista mi
 pocket-panel-saved-processing-tags = Legg til etikettar…
 pocket-panel-saved-remove-page = Fjern sida
 pocket-panel-saved-save-tags = Lagre
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Lagrar…
 pocket-panel-saved-suggested-tags = Føreslåtte etikettar
 pocket-panel-saved-tags-saved = Etikettar lagt til
 pocket-panel-signup-view-list = Vis liste
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Legg til etikettar:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Logg inn
 pocket-panel-button-show-all = Vis alle
 pocket-panel-button-add-tags = Legg til etikettar
 pocket-panel-button-activate = Aktiver { -pocket-brand-name } i { -brand-product-name }
+pocket-panel-button-remove = Fjern
