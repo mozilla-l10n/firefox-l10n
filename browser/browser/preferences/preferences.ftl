@@ -96,10 +96,10 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $n
 extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> mengendalikan setelan ini.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = <img data-l10n-name="icon"/>{ $name } membutuhkan Tab Kontainer.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/><strong>{ $name }</strong> membutuhkan Tab Kontainer.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong> mengendalikan setelan ini.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong>{ $name }</strong> mengendalikan setelan ini.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> mengendalikan cara { -brand-short-name } terhubung ke Internet.
