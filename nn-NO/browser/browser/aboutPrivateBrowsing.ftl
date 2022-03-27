@@ -38,6 +38,8 @@ about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat net
 
 about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen din
 about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for dei private søka du ikkje vil at hovudmobilnettlesaren din skal sjå.
+about-private-browsing-focus-promo-header-c = Personvern på neste nivå for mobile einingar
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } slettar historikken din kvar gong medan du blokkerer annonsar og sporarar.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -310,6 +310,7 @@ mr2-onboarding-start-browsing-button-label = Byrj surfinga
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "European Spanish"
 
 onboarding-live-language-header = Vel ditt språk
+onboarding-live-language-subtitle = { -brand-short-name } brukar { $appLanguage } medan systemet ditt brukar { $systemLanguage }.
 onboarding-live-language-switch-button-label = Byt til { $negotiatedLanguage }
 onboarding-live-language-button-label-downloading = Lastar ned språkpakke for { $negotiatedLanguage }…
 onboarding-live-language-waiting-subtitle = Det ser ut til at systemet ditt og { -brand-short-name } brukar ulike språk.

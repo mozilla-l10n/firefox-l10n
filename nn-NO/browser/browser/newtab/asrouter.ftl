@@ -159,6 +159,9 @@ spotlight-total-cookie-protection-secondary-button = Ikkje no
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Eit betre internett byrjar med deg
+spotlight-better-internet-body = Når du brukar { -brand-short-name }, stemmer du for eit ope og tilgjengeleg internett som er betre for alle.
+spotlight-peace-mind-header = Vi beskyttar deg
+spotlight-peace-mind-body = Kvar månad blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporarar per brukar. Fordi ingenting, spesielt personvernplager som sporarar, skal stå mellom deg og eit godt internett.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Behald i dokk
