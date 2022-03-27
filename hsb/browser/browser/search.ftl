@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Waša standardna pytawa je so změniła.</strong> { -brand-short-name } { $oldEngine } hižo njepodpěruje. { $newEngine } je nětko waša standardna pytawa. Zo byšće standardnu pytawu změnił, dźiće do nastajenjow. <label data-l10n-name="remove-search-engine-article">Dalše informacije</label>
+removed-search-engine-message = <strong>Waša standardna pytawa je so změniła.</strong> { $oldEngine } wjace jako standardna pytawa w { -brand-short-name } k dispoziciji njeje. { $newEngine } je nětko waša standardna pytawa. Zo byšće standardnu pytawu změnił, dźiće do nastajenjow. <label data-l10n-name="remove-search-engine-article">Dalše informacije</label>
 remove-search-engine-button = W porjadku
