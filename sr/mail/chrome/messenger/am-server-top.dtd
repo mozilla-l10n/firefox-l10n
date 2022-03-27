@@ -21,7 +21,7 @@
 <!ENTITY biffStart.label "Провери да ли има нових порука на сваких ">
 <!ENTITY biffStart.accesskey "х">
 <!ENTITY biffEnd.label "минута">
-<!ENTITY useIdleNotifications.label "Дозволи хитна обавешетења сервера када стигне нова порука">
+<!ENTITY useIdleNotifications.label "Дозволи хитна обавештења сервера када стигне нова порука">
 <!ENTITY useIdleNotifications.accesskey "г">
 <!ENTITY connectionSecurity.label "Безбедност везе:">
 <!ENTITY connectionSecurity.accesskey "з">
