@@ -18,6 +18,8 @@ about-webrtc-aec-logging-msg-label = Beleženje AEC
 about-webrtc-aec-logging-off-state-label = Začni Beleženje AEC
 about-webrtc-aec-logging-on-state-label = Končaj Beleženje AEC
 about-webrtc-aec-logging-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
+# The autorefresh checkbox causes the page to autorefresh its content when checked
+about-webrtc-auto-refresh-label = Samodejno osvežuj
 
 ##
 
@@ -123,12 +125,15 @@ about-webrtc-discarded-packets-label = Zavrženi paketi:
 about-webrtc-decoder-label = Dekodirnik
 about-webrtc-encoder-label = Kodirnik
 about-webrtc-show-tab-label = Prikaži zavihek
+about-webrtc-current-framerate-label = Frekvenca sličic
 about-webrtc-width-px = Širina (px)
 about-webrtc-height-px = Višina (px)
 about-webrtc-consecutive-frames = Zaporedni okvirji
 about-webrtc-time-elapsed = Pretečen čas (s)
 about-webrtc-estimated-framerate = Ocenjena hitrost sličic
 about-webrtc-rotation-degrees = Vrtenje (stopinj)
+about-webrtc-first-frame-timestamp = Časovni žig sprejema prvega okvirja
+about-webrtc-last-frame-timestamp = Časovni žig sprejema zadnjega okvirja
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -154,6 +159,26 @@ about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdet
 
 ##
 
+# This is the total number of frames encoded or decoded over an RTP stream.
+# Variables:
+#  $frames (Number) - The number of frames encoded or decoded.
+about-webrtc-frames =
+    { $frames ->
+        [one] { $frames } sličica
+        [two] { $frames } sličici
+        [few] { $frames } sličice
+       *[other] { $frames } sličic
+    }
+# This is the number of audio channels encoded or decoded over an RTP stream.
+# Variables:
+#  $channels (Number) - The number of channels encoded or decoded.
+about-webrtc-channels =
+    { $channels ->
+        [one] { $channels } kanal
+        [two] { $channels } kanala
+        [few] { $channels } kanali
+       *[other] { $channels } kanalov
+    }
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
