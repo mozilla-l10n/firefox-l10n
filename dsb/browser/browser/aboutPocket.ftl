@@ -16,6 +16,7 @@ pocket-panel-saved-error-tag-length = Wobznamjenja su na 25 znamuškow wobgranic
 pocket-panel-saved-error-only-links = Jano wótkaze daju se składowaś
 pocket-panel-saved-error-not-saved = Bok njejo se składł
 pocket-panel-saved-error-no-internet = Musyśo z internetom zwězany byś, aby do { -pocket-brand-name } składował. Pšosym zwěžćo z internetom a wopytajśo hyšći raz.
+pocket-panel-saved-error-remove = Pśi wopyśe toś ten bok wótwónoźowaś jo zmólka nastała.
 pocket-panel-saved-page-removed = Bok jo se wótwónoźeł
 pocket-panel-saved-page-saved = Do { -pocket-brand-name } skłaźony
 pocket-panel-saved-page-saved-b = Do { -pocket-brand-name } skłaźony!
