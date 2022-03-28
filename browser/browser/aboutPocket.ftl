@@ -16,8 +16,10 @@ pocket-panel-saved-error-tag-length = Tunnisteet voivat olla enintään 25 merkk
 pocket-panel-saved-error-only-links = Vain linkkejä voidaan tallentaa
 pocket-panel-saved-error-not-saved = Sivua ei ole tallennettu
 pocket-panel-saved-error-no-internet = Tarvitset aktiivisen internetyhteyden tallentaaksesi { -pocket-brand-name }iin. Yhdistä internetiin ja yritä uudelleen.
+pocket-panel-saved-error-remove = Tämän sivun poistamisessa tapahtui virhe.
 pocket-panel-saved-page-removed = Sivu poistettiin
 pocket-panel-saved-page-saved = Tallennettiin { -pocket-brand-name }-palveluun
+pocket-panel-saved-page-saved-b = Tallennettu { -pocket-brand-name }iin!
 pocket-panel-saved-processing-remove = Poistetaan sivu…
 pocket-panel-saved-processing-tags = Lisätään tunnisteet…
 pocket-panel-saved-remove-page = Poista sivu
@@ -26,6 +28,8 @@ pocket-panel-saved-saving-tags = Tallennetaan…
 pocket-panel-saved-suggested-tags = Ehdotetut tunnisteet
 pocket-panel-saved-tags-saved = Tunnisteet lisättiin
 pocket-panel-signup-view-list = Näytä lista
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Lisää tunnisteet:
 
 ## about:pocket-signup panel
 
@@ -40,6 +44,7 @@ pocket-panel-signup-tagline-story-one = Napsauta { -pocket-brand-name }-painiket
 pocket-panel-signup-tagline-story-two = Katsele { -pocket-brand-name }-palvelussa millä tahansa laitteella, koska tahansa.
 pocket-panel-signup-cta-a = Tallennuspainikkeesi Internetiin.
 pocket-panel-signup-cta-a-fix = Tallennuspainikkeesi Internetiin.
+pocket-panel-signup-cta-b = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkeleita, videoita ja linkkejä. Tarkastele luetteloasi millä tahansa laitteella milloin tahansa.
 pocket-panel-signup-cta-b-short = Napsauta { -pocket-brand-name }-painiketta tallentaaksesi artikkeleita, videoita ja linkkejä.
 
 ## about:pocket-home panel
@@ -65,3 +70,4 @@ pocket-panel-header-sign-in = Kirjaudu sisään
 pocket-panel-button-show-all = Näytä kaikki
 pocket-panel-button-add-tags = Lisää tunnisteita
 pocket-panel-button-activate = Aktivoi { -pocket-brand-name } { -brand-product-name }issa
+pocket-panel-button-remove = Poista
