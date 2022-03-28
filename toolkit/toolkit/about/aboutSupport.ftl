@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Google'i asukohateenuse võti
 app-basics-safebrowsing-key-google = Google Safebrowsingu võti
 app-basics-key-mozilla = Mozilla asukohateenuse võti
 app-basics-safe-mode = Ohutu režiim
+app-basics-memory-size = Mälu maht (RAM)
+app-basics-disk-available = Vaba kettaruum
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Näita Finderis
