@@ -31,5 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Su motor de búsqueda predeterminado cambió.</strong> { -brand-short-name } ya no es compatible con { $oldEngine }. { $newEngine } es ahora su motor de búsqueda predeterminado. Para cambiar a otro motor de búsqueda predeterminado, vaya a la configuración. <label data-l10n-name="remove-search-engine-article">Más información</label>
-removed-search-engine-message = <strong>Su buscador predeterminado cambié.</strong> { $oldEngine } ya no está disponible como buscador predeterminado en { -brand-short-name }. { $newEngine } es ahora su buscador predeterminado. Para cambiar a otro buscador predeterminado, vaya a Ajustes. <label data-l10n-name="remove-search-engine-article">Conocer más</label>
+removed-search-engine-message = <strong>Su buscador predeterminado cambió.</strong> { $oldEngine } ya no está disponible como buscador predeterminado en { -brand-short-name }. { $newEngine } es ahora su buscador predeterminado. Para cambiar a otro buscador predeterminado, vaya a la configuración. <label data-l10n-name="remove-search-engine-article">Más información</label>
 remove-search-engine-button = Aceptar
