@@ -228,6 +228,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = Defnyddio gwedd olau ar gyfer cefndiroedd gwefannau a chynnwys.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Defnyddio gwedd dywyll ar gyfer cefndiroedd gwefan a chynnwys.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Mae eich dewisiadau lliw yn drech nag gwedd gwefan. <a data-l10n-name="colors-link">Rheoli lliwiau</a>

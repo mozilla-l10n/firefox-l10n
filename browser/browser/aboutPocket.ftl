@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Mae tagiau wedi eu cyfyngu i 25 nod
 pocket-panel-saved-error-only-links = Dim ond dolenni y mae modd eu cadw
 pocket-panel-saved-error-not-saved = Heb Gadw'r Dudalen
 pocket-panel-saved-error-no-internet = Rhaid eich bod wedi cysylltu i'r rhyngrwyd i gadw i { -pocket-brand-name }. Cysylltwch â'r Rhyngrwyd a cheisiwch eto.
+pocket-panel-saved-error-remove = Bu gwall wrth geisio tynnu'r dudalen.
 pocket-panel-saved-page-removed = Tudalen wedi ei Thynnu
 pocket-panel-saved-page-saved = Cadwyd i { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Cadwyd i { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Tynnu Tudalen…
+pocket-panel-saved-removed = Tudalen Wedi'i Thynnu o Fy Rhestr
 pocket-panel-saved-processing-tags = Ychwanegu tagiau…
 pocket-panel-saved-remove-page = Tynnu Tudalen
 pocket-panel-saved-save-tags = Cadw
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Cadw…
 pocket-panel-saved-suggested-tags = Awgrymiadau o Dagiau
 pocket-panel-saved-tags-saved = Ychwanegwyd Tagiau
 pocket-panel-signup-view-list = Gweld Rhestr
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Ychwanegu Tagiau:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Mewngofnodi
 pocket-panel-button-show-all = Dangos y Cyfan
 pocket-panel-button-add-tags = Ychwanegu Tagiau
 pocket-panel-button-activate = Agor { -pocket-brand-name } yn { -brand-product-name }
+pocket-panel-button-remove = Tynnu
