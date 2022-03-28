@@ -26,13 +26,17 @@ calendar-invitation-datetime-time = { $time } ({ $timezone })
 calendar-invitation-panel-prop-title-attendees = Mynychwyr:
 calendar-invitation-panel-prop-title-description = Disgrifiad:
 # Variables:
-# $partStat (String) - String indicating the participation status of an attendee.
-calendar-invitation-panel-partstat-summary =
-    { $partStat ->
-        [ACCEPTED] { $count } iawn
-        [DECLINED] { $count } na
-        [TENTATIVE] { $count } efallai
-        [NEEDS-ACTION] { $count } yn disgwyl ateb
-        [TOTAL] { $count } mynychwyr
-       *[OTHER] { $count } arall
-    }
+# $count (Number) - The number of attendees with the "ACCEPTED" participation status.
+calendar-invitation-panel-partstat-accepted = { $count } iawn
+# Variables:
+# $count (Number) - The number of attendees with the "DECLINED" participation status.
+calendar-invitation-panel-partstat-declined = { $count } na
+# Variables:
+# $count (Number) - The number of attendees with the "TENTATIVE" participation status.
+calendar-invitation-panel-partstat-tentative = { $count } efallai
+# Variables:
+# $count (Number) - The number of attendees with the "NEEDS-ACTION" participation status.
+calendar-invitation-panel-partstat-needs-action = { $count } yn aros penderfyniad
+# Variables:
+# $count (Number) - The total number of attendees.
+calendar-invitation-panel-partstat-total = { $count } mynychwr
