@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Labels binne beheint ta 25 tekens
 pocket-panel-saved-error-only-links = Allinnich keppelingen kinne bewarre wurde
 pocket-panel-saved-error-not-saved = Side net bewarre
 pocket-panel-saved-error-no-internet = Jo moatte mei it ynternet ferbûn wêze om nei { -pocket-brand-name } bewarje te kinnen. Kontrolearje jo ferbining en probearje it opnij.
+pocket-panel-saved-error-remove = Der is in flater bard by it fuortsmiten fan dizze side.
 pocket-panel-saved-page-removed = Side fuortsmiten
 pocket-panel-saved-page-saved = Bewarre nei { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Bewarre nei { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Side fuortsmite…
+pocket-panel-saved-removed = Side út Myn list fuortsmiten
 pocket-panel-saved-processing-tags = Labels tafoegje…
 pocket-panel-saved-remove-page = Side fuortsmite
 pocket-panel-saved-save-tags = Bewarje
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Bewarje…
 pocket-panel-saved-suggested-tags = Foarstelde labels
 pocket-panel-saved-tags-saved = Labels tafoege
 pocket-panel-signup-view-list = List werjaan
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Labels tafoegje:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Oanmelde
 pocket-panel-button-show-all = Alles toane
 pocket-panel-button-add-tags = Labels tafoegje
 pocket-panel-button-activate = { -pocket-brand-name } yn { -brand-product-name } aktivearje
+pocket-panel-button-remove = Fuortsmite
