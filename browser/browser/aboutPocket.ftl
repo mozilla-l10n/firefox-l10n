@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Siltide pikkus võib olla kuni 25 tähemä
 pocket-panel-saved-error-only-links = Salvestada saab ainult linke
 pocket-panel-saved-error-not-saved = Lehte ei salvestatud
 pocket-panel-saved-error-no-internet = { -pocket-brand-name }isse salvestamiseks on vajalik töötav internetiühendus. Palun kontrolli oma ühendust ja proovi uuesti.
+pocket-panel-saved-error-remove = Selle lehe eemaldamisel esines viga.
 pocket-panel-saved-page-removed = Leht eemaldati
 pocket-panel-saved-page-saved = { -pocket-brand-name }isse salvestatud
+pocket-panel-saved-page-saved-b = Salvesta { -pocket-brand-name }isse!
 pocket-panel-saved-processing-remove = Lehe eemaldamine…
+pocket-panel-saved-removed = Leht eemaldati nimekirjast
 pocket-panel-saved-processing-tags = Siltide lisamine…
 pocket-panel-saved-remove-page = Eemalda leht
 pocket-panel-saved-save-tags = Salvesta
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Salvestamine…
 pocket-panel-saved-suggested-tags = Soovitatud sildid
 pocket-panel-saved-tags-saved = Sildid on lisatud
 pocket-panel-signup-view-list = Vaata nimekirja
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Lisa silte:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Logi sisse
 pocket-panel-button-show-all = Kuva kõiki
 pocket-panel-button-add-tags = Lisa silte
 pocket-panel-button-activate = Aktiveeri { -pocket-brand-name } { -brand-product-name }is
+pocket-panel-button-remove = Eemalda
