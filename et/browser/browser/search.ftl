@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Vaikeotsingumootorit on muudetud.</strong> { -brand-short-name } ei toeta enam otsingumootorit { $oldEngine }. Uueks vaikeotsingumootoriks on { $newEngine }. Mõne muu vaikeotsingumootori määramiseks ava sätted. <label data-l10n-name="remove-search-engine-article">Rohkem teavet</label>
+removed-search-engine-message = <strong>Vaikeotsingumootorit on muudetud</strong>. Otsingumootor { $oldEngine } ei ole enam { -brand-short-name }is vaikeotsingumootorina saadaval. Sinu uueks vaikeotsingumootoriks on { $newEngine }. Teisele vaikeotsingumootorile vahetamiseks ava sätted. <label data-l10n-name="remove-search-engine-article">Rohkem teavet</label>
 remove-search-engine-button = Sobib

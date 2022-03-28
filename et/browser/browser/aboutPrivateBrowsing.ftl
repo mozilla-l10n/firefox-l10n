@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = Jää privaatseks { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Laadi alla { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privaatne veebilehtisemine liikvel olles
 about-private-browsing-focus-promo-text = Meie spetsiaalne privaatse veebilehitsemise mobiiliäpp kustutab ajaloo ja küpsised iga kord.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Kasuta privaatset veebilehitsemist ka oma telefonis
+about-private-browsing-focus-promo-text-b = Kasuta { -focus-brand-name }t nende otsingute jaoks, mida sa ei soovi, et sinu peamine mobiilne brauser näeks.
+about-private-browsing-focus-promo-header-c = Järgmise taseme privaatsus mobiilis
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } kustutab sinu ajaloo iga kord, blokkides samal ajal reklaame ja jälitajaid.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
