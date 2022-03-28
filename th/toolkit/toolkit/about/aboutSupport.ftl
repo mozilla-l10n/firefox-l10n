@@ -72,6 +72,11 @@ app-basics-location-service-key-google = คีย์ Google Location Service
 app-basics-safebrowsing-key-google = คีย์ Google Safebrowsing
 app-basics-key-mozilla = คีย์ Mozilla Location Service
 app-basics-safe-mode = โหมดปลอดภัย
+app-basics-disk-available = พื้นที่ที่เหลือในดิสก์:
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] แสดงใน Finder
