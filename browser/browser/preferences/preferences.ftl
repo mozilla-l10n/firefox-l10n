@@ -208,10 +208,22 @@ preferences-web-appearance-choice-browser = Thème de { -brand-short-name }
 preferences-web-appearance-choice-system = Thème du système
 preferences-web-appearance-choice-light = Clair
 preferences-web-appearance-choice-dark = Sombre
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Accorder les arrières-plans et contenus des sites web aux paramètres du thème de { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Accorder les arrières-plans et contenus des sites web aux paramètres de votre système.
 preferences-web-appearance-choice-tooltip-light =
     .title = Utiliser un thème clair pour les arrière-plans et le contenu des sites web.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Utiliser un thème sombre pour les arrière-plans et le contenu des sites web.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vos sélections de couleurs changent l’apparence des sites web. <a data-l10n-name="colors-link">Gérer les couleurs</a>
