@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Allwedd Google Location Service
 app-basics-safebrowsing-key-google = Allwedd Google Safebrowsing
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Modd Diogel
+app-basics-memory-size = Maint Cof (RAM)
+app-basics-disk-available = Lle ar Ddisg ar Gael
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Dangos yn Finder
