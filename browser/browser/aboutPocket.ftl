@@ -16,6 +16,7 @@ pocket-panel-saved-error-tag-length = Znački su na 25 znamješkow wobmjezowane
 pocket-panel-saved-error-only-links = Jenož wotkazy dadźa so składować
 pocket-panel-saved-error-not-saved = Strona njeje so składowała
 pocket-panel-saved-error-no-internet = Dyrbiće z internetom zwjazany być, zo byšće do { -pocket-brand-name } składował. Prošu zwjazajće z internetom a spytajće hišće raz.
+pocket-panel-saved-error-remove = Při pospyće tutu stronu wotstronjeć je zmylk nastał.
 pocket-panel-saved-page-removed = Strona je so wotstroniła
 pocket-panel-saved-page-saved = Do { -pocket-brand-name } składowany
 pocket-panel-saved-page-saved-b = Do { -pocket-brand-name } składowany!
