@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Google-locatieservicesleutel
 app-basics-safebrowsing-key-google = Google Safe Browsing-sleutel
 app-basics-key-mozilla = Mozilla-locatieservicesleutel
 app-basics-safe-mode = Veilige modus
+app-basics-memory-size = Geheugengrootte (RAM)
+app-basics-disk-available = Beschikbare schijfruimte
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Tonen in Finder
