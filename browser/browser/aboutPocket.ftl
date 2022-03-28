@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Labels zijn beperkt tot 25 tekens
 pocket-panel-saved-error-only-links = Alleen koppelingen kunnen worden opgeslagen
 pocket-panel-saved-error-not-saved = Pagina niet opgeslagen
 pocket-panel-saved-error-no-internet = U moet met het internet zijn verbonden om naar { -pocket-brand-name } te kunnen opslaan. Maak verbinding met het internet en probeer het opnieuw.
+pocket-panel-saved-error-remove = Er is een fout opgetreden bij het verwijderen van deze pagina.
 pocket-panel-saved-page-removed = Pagina verwijderd
 pocket-panel-saved-page-saved = Opgeslagen naar { -pocket-brand-name }
+pocket-panel-saved-page-saved-b = Opgeslagen naar { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Pagina verwijderen…
+pocket-panel-saved-removed = Pagina uit Mijn lijst verwijderd
 pocket-panel-saved-processing-tags = Labels toevoegen…
 pocket-panel-saved-remove-page = Pagina verwijderen
 pocket-panel-saved-save-tags = Opslaan
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Opslaan…
 pocket-panel-saved-suggested-tags = Voorgestelde labels
 pocket-panel-saved-tags-saved = Labels toegevoegd
 pocket-panel-signup-view-list = Lijst weergeven
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Labels toevoegen:
 
 ## about:pocket-signup panel
 
@@ -67,3 +72,4 @@ pocket-panel-header-sign-in = Aanmelden
 pocket-panel-button-show-all = Alles tonen
 pocket-panel-button-add-tags = Labels toevoegen
 pocket-panel-button-activate = { -pocket-brand-name } in { -brand-product-name } activeren
+pocket-panel-button-remove = Verwijderen
