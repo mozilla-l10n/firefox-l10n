@@ -75,6 +75,12 @@ app-basics-location-service-key-google = Google-lokaasjetsjinstkaai
 app-basics-safebrowsing-key-google = Google Safe Browsing-kaai
 app-basics-key-mozilla = Mozilla-lokaasjetsjinstkaai
 app-basics-safe-mode = Feilige modus
+app-basics-memory-size = Unthâldgrutte (RAM)
+app-basics-disk-available = Beskikbere skiifromte:
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Toane yn Finder
