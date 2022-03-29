@@ -36,7 +36,7 @@
 <!ENTITY headersOnly.label "Λήψη μόνο κεφαλίδων">
 <!ENTITY headersOnly.accesskey "φ">
 <!ENTITY deleteByAgeFromServer.label "Για έως">
-<!ENTITY deleteByAgeFromServer.accesskey "π">
+<!ENTITY deleteByAgeFromServer.accesskey "ω">
 <!ENTITY daysEnd.label "ημέρες">
 <!ENTITY deleteOnServer2.label "Μέχρι να τα διαγράψω">
 <!ENTITY deleteOnServer2.accesskey "γ">
