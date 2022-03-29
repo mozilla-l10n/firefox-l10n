@@ -212,6 +212,14 @@ preferences-web-appearance-choice-tooltip-light =
     .title = 在网站背景和内容使用浅色外观。
 preferences-web-appearance-choice-tooltip-dark =
     .title = 在网站背景和内容使用深色外观。
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您的颜色选择将覆盖网站外观。<a data-l10n-name="colors-link">管理颜色</a>
