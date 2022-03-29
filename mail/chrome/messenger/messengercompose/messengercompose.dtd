@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Berria">
 <!ENTITY newMenu.accesskey "B">
 <!ENTITY newMessage.label "Mezua">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Helbide-liburuko kontaktua…">
 <!ENTITY newContact.accesskey "k">
