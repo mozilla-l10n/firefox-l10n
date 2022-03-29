@@ -10,6 +10,7 @@ chat-encryption-generic = Generisk
 chat-encryption-log =
     .label = Inkluder end to end-krypterede beskeder i samtalelogfiler
 chat-encryption-label = Native (oprindelig) end to end-kryptering
+chat-encryption-description = { $protocol } giver end to end-kryptering til chatbeskeder. Dette forhindrer tredjeparter i at aflytte en samtale. Yderligere opsætning kan være nødvendig nedenfor for at krypteringen kan fungere.
 chat-encryption-status = Krypteringsstatus
 chat-encryption-placeholder = Kryptering ikke initialiseret.
 chat-encryption-sessions = Sessioner
