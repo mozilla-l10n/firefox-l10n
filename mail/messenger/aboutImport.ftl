@@ -67,10 +67,14 @@ error-export-failed = Export se nepodařilo provést. Podrobnosti mohou být dos
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = První řádek obsahuje názvy sloupců
 csv-source-field = Zdrojové pole
 csv-source-first-record = První záznam
 csv-source-second-record = Druhý záznam
+csv-target-field = Položka kontaktů
 
 ## Export tab
 
 export-profile-desc2 = Pokud je váš aktuální profil větší než 2 GB, doporučujeme ho zazálohovat ručně.
+export-file-picker = Exportovat do souboru ZIP
+export-brand-name = { -brand-product-name }
