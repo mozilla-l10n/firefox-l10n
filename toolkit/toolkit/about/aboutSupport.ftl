@@ -75,6 +75,7 @@ app-basics-location-service-key-google = Google 位置服务密钥
 app-basics-safebrowsing-key-google = Google 安全浏览密钥
 app-basics-key-mozilla = Mozilla 位置服务密钥
 app-basics-safe-mode = 安全模式
+app-basics-memory-size = 内存大小（RAM）
 show-dir-label =
     { PLATFORM() ->
         [macos] 在 Finder 中显示
