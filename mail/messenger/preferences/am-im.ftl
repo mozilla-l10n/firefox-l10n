@@ -9,6 +9,7 @@ chat-autologin =
 chat-encryption-generic = Generisk
 chat-encryption-log =
     .label = Inkluder end to end-krypterede beskeder i samtalelogfiler
+chat-encryption-label = Native (oprindelig) end to end-kryptering
 chat-encryption-status = Krypteringsstatus
 chat-encryption-placeholder = Kryptering ikke initialiseret.
 chat-encryption-sessions = Sessioner
