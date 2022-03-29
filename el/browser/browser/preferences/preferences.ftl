@@ -229,7 +229,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Διαχείριση θεμάτων του { -brand-short-name } στις <a data-l10n-name="themes-link">Επεκτάσεις & θέματα</a>
+preferences-web-appearance-footer = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα <a data-l10n-name="themes-link">Επεκτάσεις & θέματα</a>
 preferences-colors-header = Χρώματα
 preferences-colors-description = Αντικατάσταση των προεπιλεγμένων χρωμάτων του { -brand-short-name } για κείμενο, παρασκήνια ιστοτόπων και συνδέσμους.
 preferences-colors-manage-button =
