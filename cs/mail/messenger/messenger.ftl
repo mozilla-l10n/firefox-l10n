@@ -198,6 +198,18 @@ spaces-toolbar-button-chat =
     .title = Přepnout na panel s chatem
 spaces-toolbar-button-settings =
     .title = Přepnout na panel s nastavením
+spaces-toolbar-button-mail2 =
+    .title = Pošta
+spaces-toolbar-button-address-book2 =
+    .title = Kontakty
+spaces-toolbar-button-calendar2 =
+    .title = Kalendář
+spaces-toolbar-button-tasks2 =
+    .title = Úkoly
+spaces-toolbar-button-chat2 =
+    .title = Chat
+spaces-toolbar-button-settings2 =
+    .title = Nastavení
 spaces-context-new-tab-item =
     .label = Otevřít v novém panelu
 spaces-context-new-window-item =
@@ -227,3 +239,19 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Jedna nepřečtená zpráva
+            [few] { $count } nepřečtené zprávy
+           *[other] { $count } nepřečtených zpráv
+        }
+
+## Spaces toolbar customize panel
+
