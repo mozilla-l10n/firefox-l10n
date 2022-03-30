@@ -247,8 +247,15 @@ encrypted-bcc-ignore-button = C’est compris
 compose-tool-button-remove-text-styling =
     .tooltiptext = Supprimer le style du texte
 
-## FileLink
+## Filelink
 
+
+# Placeholder file
+
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Le fichier { $filename } a été joint en tant que Filelink. Il peut être téléchargé à partir du lien ci-dessous.
 
 # Template
 
@@ -275,13 +282,13 @@ cloud-file-service-provider-footer-multiple = En savoir plus sur { $firstLinks }
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lien protégé par mot de passe
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Service cloud :
+cloud-file-template-service-name = Service Filelink :
 cloud-file-template-size = Taille :
 cloud-file-template-link = Lien :
 cloud-file-template-password-protected-link = Lien protégé par mot de passe :
@@ -305,3 +312,9 @@ cloud-file-rename-error = Un problème est survenu lors du changement de nom de 
 cloud-file-rename-error-with-custom-message-title = Échec du changement de nom de { $filename } sur { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } ne prend pas en charge le changement de nom des fichiers déjà téléchargés.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Erreur de pièce jointe Filelink
+cloud-file-attachment-error = Échec de la mise à jour de la pièce jointe Filelink { $filename }, car son fichier local a été déplacé ou supprimé.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Erreur de compte Filelink
+cloud-file-account-error = Échec de la mise à jour de la pièce jointe Filelink { $filename }, car son compte Filelink a été supprimé.
