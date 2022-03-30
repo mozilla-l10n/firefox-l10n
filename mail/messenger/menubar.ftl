@@ -68,7 +68,7 @@ mail-uidensity-touch =
     .label = Cyffwrdd
     .accesskey = y
 menu-spaces-toolbar-button =
-    .label = Bar Offer Bylchau
+    .label = Bar Offer Mannau
     .accesskey = B
 
 ## File
