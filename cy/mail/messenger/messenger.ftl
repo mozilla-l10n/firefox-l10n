@@ -181,7 +181,7 @@ decrypt-and-copy-failures = Nid oedd modd dadgryptio { $failures } o { $total } 
 ## Spaces toolbar
 
 spaces-toolbar =
-    .toolbarname = Bar Offer Bylchau
+    .toolbarname = Bar Offer Mannau
 spaces-toolbar-button-mail =
     .title = Symud i'r tab e-bost
 spaces-toolbar-button-address-book =
@@ -197,7 +197,7 @@ spaces-toolbar-button-settings =
 spaces-toolbar-button-collapse =
     .title = Cau'r bar offer bylchau
 spaces-toolbar-button-reveal =
-    .title = Dangos y bar offer bylchau
+    .title = Dangos y bar offer mannau
 spaces-toolbar-button-mail2 =
     .title = E-bost
 spaces-toolbar-button-address-book2 =
@@ -234,7 +234,7 @@ settings-context-open-addons-item =
 ## Spaces toolbar pinned tab menupopup
 
 spaces-toolbar-pinned-tab-button =
-    .tooltiptext = Agor dewislen bylchau
+    .tooltiptext = Dewislen Mannau
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
