@@ -255,3 +255,14 @@ chat-button-unread-messages = { $count }
 spaces-context-customize =
     .label = Personnaliser…
 spaces-customize-panel-title = Paramètres de la barre d’espaces
+spaces-customize-background-color = Couleur du fond
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Couleur de fond du bouton sélectionné
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Couleur du bouton sélectionné
+spaces-customize-button-restore = Configuration par défaut
+    .accesskey = C
+spaces-customize-button-save = Terminé
+    .accesskey = T
