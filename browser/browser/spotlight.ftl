@@ -16,3 +16,7 @@ spotlight-ios-marketplace-button =
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Installer { -focus-brand-name }
+spotlight-focus-promo-subtitle = Scannez le code QR pour lancer le téléchargement.
+spotlight-focus-promo-qr-code =
+    .alt = Scannez le code QR pour obtenir { -focus-brand-name }
