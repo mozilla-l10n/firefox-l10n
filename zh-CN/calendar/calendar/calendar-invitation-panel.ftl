@@ -26,13 +26,17 @@ calendar-invitation-datetime-time = { $time }（{ $timezone }）
 calendar-invitation-panel-prop-title-attendees = 参加者：
 calendar-invitation-panel-prop-title-description = 说明：
 # Variables:
-# $partStat (String) - String indicating the participation status of an attendee.
-calendar-invitation-panel-partstat-summary =
-    { $partStat ->
-        [ACCEPTED] { $count } 人会参加
-        [DECLINED] { $count } 人不参加
-        [TENTATIVE] { $count } 人也许会参加
-        [NEEDS-ACTION] { $count } 人尚未决定
-        [TOTAL] 共 { $count } 位参加者
-       *[OTHER] { $count } 人有其他回复
-    }
+# $count (Number) - The number of attendees with the "ACCEPTED" participation status.
+calendar-invitation-panel-partstat-accepted = { $count } 位接受
+# Variables:
+# $count (Number) - The number of attendees with the "DECLINED" participation status.
+calendar-invitation-panel-partstat-declined = { $count } 位拒接
+# Variables:
+# $count (Number) - The number of attendees with the "TENTATIVE" participation status.
+calendar-invitation-panel-partstat-tentative = { $count } 位暂定接受
+# Variables:
+# $count (Number) - The number of attendees with the "NEEDS-ACTION" participation status.
+calendar-invitation-panel-partstat-needs-action = { $count } 位未回复
+# Variables:
+# $count (Number) - The total number of attendees.
+calendar-invitation-panel-partstat-total = { $count } 位参加者
