@@ -9,6 +9,8 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Last ned frå Google Play
 spotlight-ios-marketplace-button =
     .title = Last ned frå App Store
 
