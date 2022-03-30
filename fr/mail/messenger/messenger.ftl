@@ -198,6 +198,8 @@ spaces-toolbar-button-calendar2 =
     .title = Agenda
 spaces-toolbar-button-tasks2 =
     .title = Tâches
+spaces-toolbar-button-chat2 =
+    .title = Messagerie instantanée
 spaces-toolbar-button-overflow =
     .title = Plus d’espaces…
 spaces-toolbar-button-settings2 =
@@ -256,6 +258,7 @@ spaces-context-customize =
     .label = Personnaliser…
 spaces-customize-panel-title = Paramètres de la barre d’espaces
 spaces-customize-background-color = Couleur du fond
+spaces-customize-icon-color = Couleur des boutons
 # The background color used on the buttons of the spaces toolbar when they are
 # `current`, meaning the related space/tab is active and visible.
 spaces-customize-accent-background-color = Couleur de fond du bouton sélectionné
