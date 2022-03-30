@@ -212,6 +212,10 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Танзимоти мавзӯии { -brand-short-name }-и худро барои заминаҳои ва муҳтавои сомонаҳо мувофиқ кунед.
 preferences-web-appearance-choice-tooltip-system =
     .title = Танзимоти низоми худро барои заминаҳои ва муҳтавои сомонаҳо мувофиқ кунед.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Намуди зоҳирии равшанро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Намуди зоҳирии торикро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -220,6 +224,12 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад. <a data-l10n-name="colors-link">Рангҳоро идора кунед</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Мавзӯъҳои { -brand-short-name }-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзӯъҳо</a> идора кунед
 preferences-colors-header = Рангҳо
 preferences-colors-manage-button =
     .label = Идоракунии рангҳо…
