@@ -20,6 +20,8 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = Ба мақсади таъмини Интернети беҳтар барои ҳамаи корбарон, маълумоти худро ба кор дароред.
 # This string is specific to the product Mozilla Rally which is US only.
+more-from-moz-mozilla-rally-description-advanced = Маълумоти худро ба таҳқиқоти пажӯҳишие хайрия кунед, ки ҳангоми сохтани Интернети бехатартар ва боз ҳам кушодтар ба одамон кумак мерасонад, на «ширкатҳои технологии бузург».
+# This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = Ба { -rally-short-name } ҳамроҳ шавед
 more-from-moz-qr-code-box-firefox-mobile-button = Ба ивазаш, паёми электрониеро ба телефони худ фиристонед
 more-from-moz-qr-code-firefox-mobile-img =
