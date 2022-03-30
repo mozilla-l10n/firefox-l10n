@@ -268,7 +268,7 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Cyfaddasu…
-spaces-customize-panel-title = Gosodiadau Bylchau Bar Offer
+spaces-customize-panel-title = Gosodiadau Bar Offer Mannau
 spaces-customize-background-color = Lliw cefndir
 spaces-customize-icon-color = Lliw botwm
 # The background color used on the buttons of the spaces toolbar when they are
