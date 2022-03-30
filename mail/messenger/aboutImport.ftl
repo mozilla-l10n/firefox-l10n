@@ -48,6 +48,7 @@ addr-book-vcard-file = Fichier vCard (.vcf, .vcard)
 addr-book-sqlite-file = Fichier de base de données SQLite (.sqlite)
 addr-book-mab-file = Base de données Mork (.mab)
 addr-book-file-picker = Sélectionner un fichier de carnet d’adresses
+addr-book-csv-field-map-title = Faire correspondre les noms de champs
 addr-book-directories-pane-title = Sélectionnez le répertoire depuis lequel vous souhaitez importer :
 addr-book-directories-pane-source = Fichier source :
 addr-book-import-into-new-directory = Créer un nouveau répertoire

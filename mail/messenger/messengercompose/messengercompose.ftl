@@ -252,6 +252,9 @@ compose-tool-button-remove-text-styling =
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Pièce jointe Filelink
 # A text describing that the file was attached as a Filelink and can be downloaded
 # from the link shown below.
 # $filename - name of the file
