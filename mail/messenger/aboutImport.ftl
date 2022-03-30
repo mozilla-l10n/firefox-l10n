@@ -17,6 +17,7 @@ export-profile = Exporter
 button-cancel = Annuler
 button-back = Retour
 button-continue = Continuer
+button-export = Exporter
 
 ## Import from app steps
 
@@ -44,6 +45,7 @@ import-from-addr-book-file-desc = Sélectionnez le type de fichier que vous souh
 addr-book-csv-file = Fichier séparé par des virgules ou des tabulations (.csv, .tsv)
 addr-book-ldif-file = Fichier LDIF (.ldif)
 addr-book-vcard-file = Fichier vCard (.vcf, .vcard)
+addr-book-sqlite-file = Fichier de base de données SQLite (.sqlite)
 addr-book-mab-file = Base de données Mork (.mab)
 addr-book-file-picker = Sélectionner un fichier de carnet d’adresses
 addr-book-directories-pane-title = Sélectionnez le répertoire depuis lequel vous souhaitez importer :
@@ -53,15 +55,26 @@ addr-book-import-into-new-directory = Créer un nouveau répertoire
 ## Import dialog
 
 progress-pane-title = Importation
+progress-pane-importing = Importation
+progress-pane-exporting = Exportation
 progress-pane-finished-desc = Terminé.
 progress-pane-restart-desc = Redémarrez pour terminer l’importation.
 error-pane-title = Erreur
 error-message-zip-file-too-big = La taille du fichier zip sélectionné est supérieure à 2 Go. Veuillez d’abord l’extraire, puis importer les données à partir du dossier d’extraction.
 error-message-extract-zip-file-failed = Échec de l’extraction du fichier zip. Veuillez plutôt l’extraire manuellement, puis l’importer depuis le dossier extrait.
 error-message-failed = L’importation a échoué de manière inattendue, des informations supplémentaires peuvent être disponibles dans la console d’erreurs.
+error-export-failed = L’exportation a échoué de manière inattendue, des informations supplémentaires peuvent être disponibles dans la console d’erreurs.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = La première ligne contient le nom des champs
+csv-source-field = Champ source
+csv-source-first-record = Premier enregistrement
+csv-source-second-record = Deuxième enregistrement
+csv-target-field = Champ du carnet d’adresses
 
 ## Export tab
 
+export-open-profile-folder = Ouvrir le dossier de profil
+export-file-picker = Exporter vers un fichier au format Zip
+export-brand-name = { -brand-product-name }

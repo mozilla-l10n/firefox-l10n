@@ -190,6 +190,22 @@ spaces-toolbar-button-collapse =
     .title = Réduire la barre d’outils des espaces
 spaces-toolbar-button-reveal =
     .title = Afficher la barre d’outils des espaces
+spaces-toolbar-button-mail2 =
+    .title = Courrier
+spaces-toolbar-button-address-book2 =
+    .title = Carnet d’adresses
+spaces-toolbar-button-calendar2 =
+    .title = Agenda
+spaces-toolbar-button-tasks2 =
+    .title = Tâches
+spaces-toolbar-button-overflow =
+    .title = Plus d’espaces…
+spaces-toolbar-button-settings2 =
+    .title = Paramètres
+spaces-toolbar-button-hide =
+    .title = Masquer la barre d’espaces
+spaces-toolbar-button-show =
+    .title = Afficher la barre d’espaces
 spaces-context-new-tab-item =
     .label = Ouvrir dans un nouvel onglet
 spaces-context-new-window-item =
@@ -221,3 +237,21 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Un message non lu
+           *[other] { $count } messages non lus
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Personnaliser…
+spaces-customize-panel-title = Paramètres de la barre d’espaces
