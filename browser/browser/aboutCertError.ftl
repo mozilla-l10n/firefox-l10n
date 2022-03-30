@@ -74,7 +74,7 @@ generic-title = ¡Chin!
 captivePortal-title = Iniciar sesión en la red
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Hmm. Esa dirección no se ve bien.
+malformedURI-title = Hmm. Esa dirección no parece correcta.
 netInterrupt-title = La conexión se interrumpió
 notCached-title = Documento expirado
 netOffline-title = Modo sin conexión
@@ -85,7 +85,7 @@ netTimeout-title = La conexión ha caducado
 unknownProtocolFound-title = No se comprende la dirección
 proxyConnectFailure-title = El servidor proxy está rechazando las conexiones
 proxyResolveFailure-title = No se puede encontrar el servidor proxy
-redirectLoop-title = La página no se está redireccionando apropiadamente
+redirectLoop-title = La página no se está redireccionando correctamente
 unknownSocketType-title = Respuesta inesperada del servidor
 nssFailure2-title = Falló la conexión segura
 csp-xfo-error-title = { -brand-short-name } no puede abrir esta página
