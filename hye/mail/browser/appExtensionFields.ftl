@@ -7,4 +7,6 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Համակարգի ձեւ — ինքնաշխատ
+extension-default-theme-description = Հետեւէք գործարկային համակարգի կոճակների, ընտրացանկերի եւ պատուհանների համար նախատեսուած կարգաւորումներին:
+extension-thunderbird-compact-light-name = Լուսաւոր
 extension-thunderbird-compact-dark-name = Մուգ
