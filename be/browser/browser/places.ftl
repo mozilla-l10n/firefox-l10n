@@ -217,4 +217,4 @@ places-back-button =
     .tooltiptext = Вярнуцца назад
 places-forward-button =
     .tooltiptext = Пайсці наперад
-places-details-pane-select-an-item-description = Выбар элемента для прагляду і праўкі яго ўласцівасцяў
+places-details-pane-select-an-item-description = Абярыце элемент для прагляду і праўкі яго ўласцівасцяў
