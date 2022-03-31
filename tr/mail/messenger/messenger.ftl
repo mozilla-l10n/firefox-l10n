@@ -217,3 +217,24 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] Bir okunmamış ileti
+           *[other] { $count } okunmamış ileti
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Özelleştir…
+spaces-customize-background-color = Arka plan rengi
+spaces-customize-icon-color = Düğme rengi
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Seçilen düğme arka plan rengi
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Seçilen düğme rengi

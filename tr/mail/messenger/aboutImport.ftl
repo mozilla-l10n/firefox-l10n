@@ -10,12 +10,14 @@ import-from-app = Uygulamadan içe aktar
 import-from-app-desc = Hesapları, adres defterlerini, takvimleri ve diğer verileri aşağıdaki uygulamalardan içe aktarabilirsiniz:
 import-address-book = Adres defteri dosyasını içe aktar
 import-calendar = Takvim dosyasını içe aktar
+export-profile = Dışa aktar
 
 ## Buttons
 
 button-cancel = Vazgeç
 button-back = Geri
 button-continue = Devam et
+button-export = Dışa aktar
 
 ## Import from app steps
 
@@ -31,7 +33,6 @@ profiles-pane-desc = İçe aktarılacak konumu seçin
 profile-file-picker-dir = Bir profil klasörü seçin
 profile-file-picker-zip = Bir zip dosyası seçin (2 GB'den küçük)
 items-pane-title = Nelerin içe aktarılacağını seçin
-items-pane-desc = Buradan içe aktar
 items-pane-source = Kaynak konumu:
 items-pane-checkbox-accounts = Hesaplar ve ayarlar
 items-pane-checkbox-address-books = Adres defterleri
@@ -44,6 +45,7 @@ import-from-addr-book-file-desc = İçe aktarmak istediğiniz dosya türünü se
 addr-book-csv-file = Virgülle veya sekmeyle ayrılmış dosya (.csv, .tsv)
 addr-book-ldif-file = LDIF dosyası (.ldif)
 addr-book-vcard-file = vCard dosyası (.vcf, .vcard)
+addr-book-sqlite-file = SQLite veritabanı dosyası (.sqlite)
 addr-book-mab-file = Mork veritabanı dosyası (.mab)
 addr-book-file-picker = Bir adres defteri dosyası seçin
 addr-book-directories-pane-title = İçeri aktarmak istediğiniz dizini seçin:
@@ -53,8 +55,26 @@ addr-book-import-into-new-directory = Yeni dizin oluştur
 ## Import dialog
 
 progress-pane-title = İçe aktarılıyor
+progress-pane-importing = İçe aktarılıyor
+progress-pane-exporting = Dışa aktarılıyor
 progress-pane-finished-desc = Tamamlandı.
 progress-pane-restart-desc = İçe aktarmayı bitirmek için yeniden başlatın.
 error-pane-title = Hata
+error-message-zip-file-too-big = Seçilen zip dosyası 2 GB'den büyük. Lütfen önce dosyayı arşivden çıkarıp bunun yerine çıkarılan klasörden içe aktarın.
 error-message-extract-zip-file-failed = Zip dosyası çıkarılamadı. Lütfen elle çıkardıktan sonra klasörden içe aktarın.
 error-message-failed = İçe aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
+error-export-failed = Dışa aktarma beklenmedik bir şekilde başarısız oldu. Hata Konsolu'nda daha fazla bilgi mevcut olabilir.
+
+## <csv-field-map> element
+
+csv-first-row-contains-headers = İlk satır, alan adlarını içerir
+csv-source-field = Kaynak alanı
+csv-source-first-record = İlk kayıt
+csv-source-second-record = İkinci kayıt
+csv-target-field = Adres defteri alanı
+
+## Export tab
+
+export-open-profile-folder = Profil klasörünü aç
+export-file-picker = Zip dosyasına aktar
+export-brand-name = { -brand-product-name }
