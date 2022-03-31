@@ -4,31 +4,39 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "Նիշք">
-<!ENTITY fileMenu.accesskey        "Ն">
+<!ENTITY fileMenu.label          "Նիշ">
+<!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Նոր">
-<!ENTITY newMenu.accesskey          "Ն">
+<!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "Խմբագրել">
-<!ENTITY editMenu.accesskey        "Խ">
+<!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Հետարկել">
-<!ENTITY undoCmd.accesskey          "Հ">
-<!ENTITY redoCmd.label            "Կրկնել">
-<!ENTITY redoCmd.accesskey          "Կ">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Վերարկել">
+<!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Ջնջել">
-<!ENTITY deleteCmd.accesskey        "Ջ">
+<!ENTITY deleteCmd.accesskey        "D">
 <!ENTITY customizeCmd.label "Յարմարեցնել">
-<!ENTITY customizeCmd.accesskey "Յ">
+<!ENTITY customizeCmd.accesskey "t">
 
 <!ENTITY viewMenu.label          "Տեսք">
-<!ENTITY viewMenu.accesskey        "Տ">
+<!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Գործիքագոտիներ">
-<!ENTITY viewToolbarsMenu.accesskey      "Գ">
+<!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY showTaskbarCmd.label          "Վիճակագաւտի">
+<!ENTITY showTaskbarCmd.accesskey        "u">
 
 <!ENTITY closeCmd.label      "Փակել">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "C">
 
 <!ENTITY quitApplicationCmd.label  "Ելք">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "x">
 
+<!ENTITY quitApplicationCmdUnix.label  "Փակել">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
 <!ENTITY quitApplicationCmdMac.label  "Փակել &brandShortName;-ը">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">

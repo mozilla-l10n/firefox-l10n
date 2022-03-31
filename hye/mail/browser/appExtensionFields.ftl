@@ -9,4 +9,6 @@
 extension-default-theme-name-auto = Համակարգի ձեւ — ինքնաշխատ
 extension-default-theme-description = Հետեւէք գործարկային համակարգի կոճակների, ընտրացանկերի եւ պատուհանների համար նախատեսուած կարգաւորումներին:
 extension-thunderbird-compact-light-name = Լուսաւոր
+extension-thunderbird-compact-light-description = Բաց գունային սխեմայով ոճ։
 extension-thunderbird-compact-dark-name = Մուգ
+extension-thunderbird-compact-dark-description = Մուգ գունային սխեմայով ոճ։
