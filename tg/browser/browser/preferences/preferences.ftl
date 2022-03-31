@@ -231,6 +231,7 @@ preferences-web-appearance-override-warning = Интихоби нақшаи ра
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Мавзӯъҳои { -brand-short-name }-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзӯъҳо</a> идора кунед
 preferences-colors-header = Рангҳо
+preferences-colors-description = Рангҳои пешфарзи { -brand-short-name }-ро барои матн, заминаҳои сомонаҳо ва пайвандҳо иваз намоед.
 preferences-colors-manage-button =
     .label = Идоракунии рангҳо…
     .accesskey = И
@@ -454,6 +455,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Истифодаи варақзании мунтазам
     .accesskey = И
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Ҳамеша намоиш додани навори ҳаракат
+    .accesskey = Ҳ
 browsing-use-onscreen-keyboard =
     .label = Намоиши клавиатураи ламсӣ дар вақти лозимӣ
     .accesskey = Н
