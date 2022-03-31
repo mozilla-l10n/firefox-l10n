@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ -brand-short-name }» дигар «{ $oldEngine }»-ро дастгирӣ намекунад. Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред. <label data-l10n-name="remove-search-engine-article">Маълумоти бештар</label>
+removed-search-engine-message = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ $oldEngine }» дигар дар «{ -brand-short-name }» ҳамчун низоми ҷустуҷӯии пешфарз дастнорас аст . Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред. <label data-l10n-name="remove-search-engine-article">Маълумоти бештар</label>
 remove-search-engine-button = ХУБ
