@@ -39,7 +39,7 @@ about-private-browsing-focus-promo-text = 我們的隱私瀏覽專用 App 可在
 about-private-browsing-focus-promo-header-b = 隱私上網隨身帶著走
 about-private-browsing-focus-promo-text-b = 若您想搜尋一些不想被手機內建瀏覽器發現的東西，可使用 { -focus-brand-name } 進行隱私搜尋。
 about-private-browsing-focus-promo-header-c = 讓行動上網的隱私保護更上一層樓
-about-private-browsing-focus-promo-text-c = { -focus-brand-name }{ -focus-brand-name } 會自動為您封鎖廣告與追蹤器，並在結束上網時清除瀏覽紀錄。
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } 會自動為您封鎖廣告與追蹤器，並在結束上網時清除瀏覽紀錄。
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
