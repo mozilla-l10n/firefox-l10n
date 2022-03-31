@@ -26,6 +26,8 @@ pocket-panel-saved-saving-tags = Պահպանում…
 pocket-panel-saved-suggested-tags = Առաջարկուող պիտակներ
 pocket-panel-saved-tags-saved = Պիտակները աւելացուել են
 pocket-panel-signup-view-list = Դիտել ցանկը
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Աւելացնել պիտակներ․
 
 ## about:pocket-signup panel
 
@@ -67,3 +69,4 @@ pocket-panel-header-sign-in = Մուտք գործել
 pocket-panel-button-show-all = Ցուցադրել բոլորը
 pocket-panel-button-add-tags = Աւելացնել պիտակներ
 pocket-panel-button-activate = Ակտիւացնել { -pocket-brand-name } ֊ը { -brand-product-name } ֊ում
+pocket-panel-button-remove = Հեռացնել
