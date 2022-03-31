@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-handleinternally =
-    .label = Адкрываць у { -brand-short-name }
+    .label = Адкрыць у { -brand-short-name }
     .accesskey = у
 unknowncontenttype-settingschange =
     .value =
