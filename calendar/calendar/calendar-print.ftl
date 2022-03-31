@@ -16,4 +16,5 @@ calendar-print-filter-taskswithnoduedate = Aufgaben ohne Fälligkeitsdatum
 calendar-print-range-from = Beginn
 calendar-print-range-to = Ende
 
+calendar-print-back-button = Zurück
 calendar-print-next-button = Weiter

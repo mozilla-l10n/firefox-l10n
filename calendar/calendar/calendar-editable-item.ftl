@@ -8,6 +8,12 @@ calendar-editable-item-privacy-icon-private =
 calendar-editable-item-privacy-icon-confidential =
   .alt = Privatsphäre: Nur Zeit und Datum anzeigen
 
+calendar-editable-item-recurrence =
+  .alt = Wiederholung
+
+calendar-editable-item-recurrence-exception =
+  .alt = Ausnahme für Wiederholung
+
 calendar-editable-item-todo-icon-task =
   .alt = Aufgabe
 

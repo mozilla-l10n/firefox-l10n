@@ -7,3 +7,5 @@ calendar-itip-identity-dialog-title = Keine Eintrittskarte?
 calendar-itip-identity-warning = Sie sind noch nicht auf der Gästeliste.
 
 calendar-itip-identity-label = Antworten als:
+
+calendar-itip-identity-label-none = Termin verknüpfen mit:

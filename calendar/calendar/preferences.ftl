@@ -111,6 +111,11 @@ todaypane-legend = Tagesplan
 soon-label =
     .value = Der Bereich "Demnächst" zeigt:
     .accesskey = m
+
+agenda-days =
+    .value = Anstehende Termine und Aufgaben in Sidebar anzeigen bis:
+    .accesskey = T
+
 event-task-legend = Termine und Aufgaben
 
 default-length-label =
@@ -140,6 +145,11 @@ task-due-label =
 edit-intab-label =
     .label = Termine und Aufgaben in einem Tab anstatt in einem Dialogfenster bearbeiten
     .accesskey = T
+
+prompt-delete-label =
+    .label = Löschen von Terminen und Aufgaben bestätigen
+    .accesskey = b
+
 accessibility-legend = Barrierefreiheit
 accessibility-colors-label =
     .label = Farben für eine barrierefreie Darstellung optimieren
