@@ -10,6 +10,7 @@
 default-bookmarks-title = Хатбаракҳо
 default-bookmarks-heading = Хатбаракҳо
 default-bookmarks-toolbarfolder = Ҷузвдони навори хатбаракҳо
+default-bookmarks-toolbarfolder-description = Барои дидани хатбаракҳо дар Навори хатбаракҳо, онҳоро ба ин ҷузвдон илова намоед
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Оғози кор
 # Firefox links folder name
