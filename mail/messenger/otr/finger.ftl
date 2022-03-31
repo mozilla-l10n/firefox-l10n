@@ -5,18 +5,15 @@
 otr-finger =
     .buttonlabelaccept = Kapat
     .title = Daha önce görülen OTR parmak izleri
-
+otr-finger-title = Daha Önce Görülen OTR Anahtar Parmak İzleri
 finger-intro = Önceki uçtan uca şifrelenmiş görüşmelerin OTR anahtar parmak izleri.
-
 finger-screen-name =
     .label = Kişi
 finger-verified =
     .label = Doğrulama durumu
 finger-fingerprint =
     .label = Parmak izi
-
 finger-remove =
     .label = Seçilenleri sil
-
 finger-remove-all =
     .label = Hepsini sil
