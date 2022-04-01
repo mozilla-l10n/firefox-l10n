@@ -23,10 +23,10 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Перааадкрыць закрытыя карткі
-            [one] Перааадкрыць закрытую картку
-            [few] Перааадкрыць закрытыя карткі
-           *[many] Перааадкрыць закрытыя карткі
+            [1] Пераадкрыць закрытую картку
+            [one] Пераадкрыць закрытую картку
+            [few] Пераадкрыць закрытыя карткі
+           *[many] Пераадкрыць закрытыя карткі
         }
     .accesskey = з
 toolbar-context-menu-manage-extension =
@@ -41,9 +41,9 @@ toolbar-context-menu-remove-extension =
 toolbar-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
     .accesskey = ш
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Замацаваць у меню перапаўнення
     .accesskey = З
