@@ -15,7 +15,7 @@ carddav-location-label =
     .value = Adresa:
     .accesskey = A
 carddav-location =
-    .default-placeholder = URL adresa nebo adresa serveru s adresářem
+    .default-placeholder = URL adresa nebo adresa serveru s kontakty
 carddav-loading = Vyhledávání nastavení…
 carddav-known-incompatible =
     Adresa { $url } je známa jako nekompatibilní s { -brand-short-name.gender ->

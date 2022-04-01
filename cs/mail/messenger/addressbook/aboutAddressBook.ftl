@@ -7,7 +7,7 @@ about-addressbook-title = Kontakty
 ## Toolbar
 
 about-addressbook-toolbar-new-address-book =
-    .label = Nový adresář
+    .label = Nová složka
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Přidat složku kontaktů CardDAV
 about-addressbook-toolbar-add-ldap-address-book =
@@ -50,9 +50,9 @@ about-addressbook-confirm-remove-remote-book = Opravdu chcete odebrat složku ko
 # Variables:
 # $name (String) - Name of the address book that will be searched.
 about-addressbook-search =
-    .placeholder = Najít v adresáři { $name }
+    .placeholder = Najít ve složce { $name }
 about-addressbook-search-all =
-    .placeholder = Prohledat všechny adresáře
+    .placeholder = Prohledat všechny složky kontaktů
 about-addressbook-sort-button =
     .title = Změnit pořadí seznamu
 about-addressbook-name-format-display =
