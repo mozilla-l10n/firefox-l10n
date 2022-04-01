@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Amaynut">
 <!ENTITY newMenu.accesskey "m">
 <!ENTITY newMessage.label "Izen">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Anermis n imedlis n tensa…">
 <!ENTITY newContact.accesskey "n">
