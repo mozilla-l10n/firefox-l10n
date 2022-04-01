@@ -5,6 +5,7 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label "Հաղորդագրութեան անվտանգութիւն">
+<!ENTITY signatureCert.label "Դիտել ստորագրութեան հաւաստագիրը">
 
 <!ENTITY email.address "Ել. հասցէ">
 
