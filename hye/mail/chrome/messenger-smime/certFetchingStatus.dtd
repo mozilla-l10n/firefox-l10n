@@ -5,4 +5,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "Վկայագրերի բեռնում">
+<!ENTITY info.message "Որոնում է վկայագրերի ստացման թղթապանակը: Սա կարող է տեւել մի քանի րոպէ:">
 <!ENTITY stop.label "Դադարեցնել որոնումը">
