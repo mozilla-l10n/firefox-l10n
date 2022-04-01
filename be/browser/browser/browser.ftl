@@ -525,7 +525,7 @@ urlbar-result-action-search-tabs = Шукаць у картках
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -646,8 +646,8 @@ repair-text-encoding-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open the add-ons manager
 toolbar-addons-themes-button =
-    .label = Дадаткі і тэмы
-    .tooltiptext = Кіруйце сваімі дадаткамі і тэмамі ({ $shortcut })
+    .label = Дадаткі і тэмы
+    .tooltiptext = Кіруйце сваімі дадаткамі і тэмамі ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
