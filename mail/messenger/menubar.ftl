@@ -67,6 +67,9 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Pro dotyk
     .accesskey = t
+menu-spaces-toolbar-button =
+    .label = Navigační lišta
+    .accesskey = N
 
 ## File
 
