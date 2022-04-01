@@ -8,20 +8,27 @@
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.accesskey      "F">
+<!ENTITY locationValidate.label      "Վաւերացնել">
+<!ENTITY validateText.label          "Ստուգել եւ ստանալ ճիշտ յղում։">
 
+<!ENTITY feedFolder.label            "Պահել յոդուածները.">
 <!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Ստուգել թարմացումները իւրաքանչիւր՝">
 <!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "րոպէ">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "աւրեր">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Թողարկողը երաշխաւորում է՝">
 
+<!ENTITY quickMode.label             "Ցուցադրել յոդուածի ընդհանուր պատկերը` կայքէջի փոխարէն">
 <!ENTITY quickMode.accesskey         "h">
 
 <!ENTITY autotagEnable.accesskey     "օ">
 <!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Մուտքագրէք պիտակի վերջածանցը">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Աւելացնել">
@@ -34,6 +41,7 @@
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Ներածել">
 <!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Արտածել">
 <!ENTITY button.exportOPML.accesskey "X">
 
 <!ENTITY cmd.close.commandKey        "w">
