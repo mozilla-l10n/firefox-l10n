@@ -6,7 +6,10 @@
 
 <!ENTITY status.label "Հաղորդագրութեան անվտանգութիւն">
 <!ENTITY signatureCert.label "Դիտել ստորագրութեան հաւաստագիրը">
+<!ENTITY encryptionCert.label "Դիտել գաղտնագրման հաւաստագիրը">
 
+<!ENTITY signer.name "Ստորագրուած՝">
+<!ENTITY recipient.name "Գաղտնագրուած՝">
 <!ENTITY email.address "Ել. հասցէ">
 
 <!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
