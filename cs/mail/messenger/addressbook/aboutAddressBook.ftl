@@ -50,7 +50,7 @@ about-addressbook-confirm-remove-remote-book = Opravdu chcete odebrat složku ko
 # Variables:
 # $name (String) - Name of the address book that will be searched.
 about-addressbook-search =
-    .placeholder = Najít { $name }
+    .placeholder = Najít v adresáři { $name }
 about-addressbook-search-all =
     .placeholder = Prohledat všechny adresáře
 about-addressbook-sort-button =
