@@ -293,8 +293,8 @@ account-setup-settings-button = Nastavení účtu
 account-setup-encryption-button = Koncové šifrování
 account-setup-signature-button = Přidat podpis
 account-setup-dictionaries-button = Stáhnout slovníky
-account-setup-address-book-carddav-button = Připojit adresář CardDAV
-account-setup-address-book-ldap-button = Připojit adresář LDAP
+account-setup-address-book-carddav-button = Připojit složku kontaktů CardDAV
+account-setup-address-book-ldap-button = Připojit složku kontaktů LDAP
 account-setup-calendar-button = Připojit vzdálený kalendář
 account-setup-linked-services-title = Připojení propojených služeb
 account-setup-linked-services-description =
@@ -320,9 +320,9 @@ account-setup-found-address-books-description =
         [neuter] { -brand-short-name } našlo
        *[other] Aplikace { -brand-short-name } našla
     } { $count ->
-        [one] jeden adresář propojený s vaším e-mailovým účtem.
-        [few] { $count } adresáře propojené s vaším e-mailovým účtem.
-       *[other] { $count } adresářů propojených s vaším e-mailovým účtem.
+        [one] jednu složku kontaktů propojenou s vaším e-mailovým účtem.
+        [few] { $count } složky kontaktů propojené s vaším e-mailovým účtem.
+       *[other] { $count } složek kontaktů propojených s vaším e-mailovým účtem.
     }
 # Variables:
 # $count (Number) - The number of calendars found during autoconfig.
@@ -339,9 +339,9 @@ account-setup-found-calendars-description =
     }
 account-setup-button-finish = Dokončit
     .accesskey = D
-account-setup-looking-up-address-books = Vyhledávání adresářů…
+account-setup-looking-up-address-books = Vyhledávání složek kontaktů…
 account-setup-looking-up-calendars = Vyhledávání kalendářů…
-account-setup-address-books-button = Adresáře
+account-setup-address-books-button = Složky kontaktů
 account-setup-calendars-button = Kalendáře
 account-setup-connect-link = Připojit
 account-setup-existing-address-book = Připojeno
@@ -349,7 +349,7 @@ account-setup-existing-address-book = Připojeno
 account-setup-existing-calendar = Připojeno
     .title = Kalendář je už připojen
 account-setup-connect-all-calendars = Připojit všechny kalendáře
-account-setup-connect-all-address-books = Připojit všechny adresáře
+account-setup-connect-all-address-books = Připojit všechny složky kontaktů
 
 ## Calendar synchronization dialog
 

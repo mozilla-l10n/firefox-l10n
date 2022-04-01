@@ -48,9 +48,11 @@ addr-book-vcard-file = Soubor vCard (.vcf, .vcard)
 addr-book-sqlite-file = Soubor databáze SQLite (.sqlite)
 addr-book-mab-file = Databáze Mork (.mab)
 addr-book-file-picker = Vyberte soubor s kontakty
-addr-book-directories-pane-title = Vyberte adresář, kam chcete kontakty importovat:
+addr-book-csv-field-map-title = Přiřazení názvů polí
+addr-book-csv-field-map-desc = Vyberte pole odpovídající zdrojovým polím, a zrušte výběr polí, která nechcete importovat.
+addr-book-directories-pane-title = Vyberte složku, kam chcete kontakty importovat:
 addr-book-directories-pane-source = Zdrojový soubor:
-addr-book-import-into-new-directory = Vytvořit nový adresář
+addr-book-import-into-new-directory = Vytvořit novou složku
 
 ## Import dialog
 
@@ -75,6 +77,7 @@ csv-target-field = Položka kontaktů
 
 ## Export tab
 
+export-profile-desc = Exportujte e-mailové účty, zprávy, kontakty a nastavení do souboru zip. V případě potřeby můžete soubor zip importovat a obnovit svůj profil.
 export-profile-desc2 = Pokud je váš aktuální profil větší než 2 GB, doporučujeme ho zazálohovat ručně.
 export-file-picker = Exportovat do souboru ZIP
 export-brand-name = { -brand-product-name }
