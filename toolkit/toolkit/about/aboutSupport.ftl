@@ -72,6 +72,7 @@ app-basics-location-service-key-google = Google орналасулар қызм�
 app-basics-safebrowsing-key-google = Google Safebrowsing кілті
 app-basics-key-mozilla = Mozilla орналасулар қызметінің кілті
 app-basics-safe-mode = Қауіпсіз режимі
+app-basics-memory-size = Жады өлшемі (RAM)
 show-dir-label =
     { PLATFORM() ->
         [macos] Finder ішінен көрсету
