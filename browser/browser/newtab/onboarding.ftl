@@ -316,3 +316,29 @@ onboarding-live-language-installing = Installazione del pacchetto lingua per { $
 onboarding-live-language-secondary-cancel-download = Annulla
 onboarding-live-language-not-now-button-label = Non adesso
 onboarding-live-language-skip-button-label = Salta
+
+## Firefox 100 Thank You screens
+
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+  100
+  volte
+  <span data-l10n-name="zap">grazie</span>
+fx100-thank-you-subtitle = Questa è la nostra centesima versione! Grazie per aiutarci a costruire un Internet migliore e più sano.
+fx100-thank-you-pin-primary-button-label = { PLATFORM() ->
+    [macos] Mantieni { -brand-short-name } nel Dock
+   *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni
+}
+
+fx100-upgrade-thanks-header = 100 volte grazie
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Questa è la nostra centesima versione di { -brand-short-name }. <em>Grazie</em> per aiutarci a costruire un Internet migliore e più sano.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Questa è la nostra centesima versione! Grazie per essere parte della nostra comunità. Tieni { -brand-short-name } a portata di clic per le prossime 100.
