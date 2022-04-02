@@ -45,7 +45,6 @@ pocket-panel-signup-tagline = Salva articoli e video da { -brand-product-name } 
 pocket-panel-signup-tagline-story-one = Fai clic sul pulsante { -pocket-brand-name } per salvare qualunque articolo, video o pagina da { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Visualizza in { -pocket-brand-name } da qualunque dispositivo e in qualunque momento.
 
-pocket-panel-signup-cta-a = Il tuo pulsante “salva” per Internet.
 pocket-panel-signup-cta-a-fix = Il tuo pulsante “salva” per Internet
 pocket-panel-signup-cta-b = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link. Visualizza il tuo elenco su qualsiasi dispositivo, in qualsiasi momento.
 pocket-panel-signup-cta-b-short = Fai clic sul pulsante { -pocket-brand-name } per salvare articoli, video e link.
