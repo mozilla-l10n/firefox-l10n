@@ -26,6 +26,8 @@ pocket-panel-saved-saving-tags = Сақтау…
 pocket-panel-saved-suggested-tags = Ұсынылатын тегтер
 pocket-panel-saved-tags-saved = Тегтер қосылды
 pocket-panel-signup-view-list = Тізімді қарау
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Тегтерді қосу:
 
 ## about:pocket-signup panel
 
@@ -67,3 +69,4 @@ pocket-panel-header-sign-in = Кіру
 pocket-panel-button-show-all = Барлығын көрсету
 pocket-panel-button-add-tags = Тегтерді қосу
 pocket-panel-button-activate = { -brand-product-name } ішінде { -pocket-brand-name } белсендіру
+pocket-panel-button-remove = Өшіру
