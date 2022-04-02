@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Expiración
 openpgp-key-details-usage-label =
     .label = Uso
 openpgp-key-details-fingerprint-label = Huella dactilar
+openpgp-key-details-legend-secret-missing = Para las llaves marcadas con (!), la llave secreta no está disponible.
 openpgp-key-details-sel-action =
     .label = Seleccionar acción…
     .accesskey = S
