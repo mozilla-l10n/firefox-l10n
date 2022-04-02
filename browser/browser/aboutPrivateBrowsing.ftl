@@ -31,6 +31,7 @@ about-private-browsing-get-privacy = Интернеттің кез келген 
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } көмегімен шолу белсенділігін және орналасуыңызды жасырыңыз. Бір шерті қауіпсіз байланысты орнатады, тіпті ашық Wi-Fi желісінде де.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } көмегімен жекелікті сақтаңыз
 about-private-browsing-focus-promo-cta = { -focus-brand-name } жүктеп алу
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Қозғалыстағы жекелік шолу
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -46,7 +47,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Жабу
-about-private-browsing-dismiss-button =
-    .title = Тайдыру
 about-private-browsing-promo-close-button =
     .title = Жабу
