@@ -42,6 +42,9 @@
 <!ENTITY editMenu.accesskey                             "Т">
 <!ENTITY deleteCmd.label                                "Өшіру">
 <!ENTITY deleteAbCmd.label                              "Адрестік кітапшаны өшіру">
+<!ENTITY deleteAbCmd.accesskey                          "р">
+<!ENTITY removeAbCmd.label                              "Адрестік кітапшаны өшіру">
+<!ENTITY removeAbCmd.accesskey                          "ш">
 <!ENTITY deleteContactCmd.label                         "Контактты өшіру">
 <!ENTITY deleteContactsCmd.label                        "Контакттарды өшіру">
 <!ENTITY deleteListCmd.label                            "Тізімді өшіру">
