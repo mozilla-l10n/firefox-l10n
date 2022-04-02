@@ -75,6 +75,7 @@ error-pane-title = Fel
 error-message-zip-file-too-big = Den valda zip-filen är större än 2 GB. Extrahera det först och importera sedan från den extraherade mappen istället.
 error-message-extract-zip-file-failed = Det gick inte att extrahera zip-filen. Extrahera den manuellt och importera sedan från den extraherade mappen istället.
 error-message-failed = Importen misslyckades oväntat, mer information kan finnas tillgänglig i felkonsolen.
+error-failed-to-parse-ics-file = Inga importerbara objekt hittades i filen.
 error-export-failed = Exporten misslyckades oväntat, mer information kan finnas tillgänglig i felkonsolen.
 
 ## <csv-field-map> element
