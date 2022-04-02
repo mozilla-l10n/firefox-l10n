@@ -54,6 +54,10 @@ addr-book-directories-pane-title = Επιλέξτε τον κατάλογο στ
 addr-book-directories-pane-source = Αρχείο πηγής:
 addr-book-import-into-new-directory = Δημιουργία νέου καταλόγου
 
+## Import from address book file steps
+
+calendar-import-into-new-calendar = Δημιουργία νέου ημερολογίου
+
 ## Import dialog
 
 progress-pane-title = Εισαγωγή
