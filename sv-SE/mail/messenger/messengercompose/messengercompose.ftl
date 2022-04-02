@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } finns inte i din adressbok
 pill-action-edit =
     .label = Redigera adress
     .accesskey = R
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Välj alla adresser i { $type }
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Välj alla adresser
+    .accesskey = V
 pill-action-move-to =
     .label = Flytta till Till
     .accesskey = T
@@ -75,24 +82,15 @@ context-menuitem-attach-files =
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } bilaga
-            [one] { $count } bilaga
-           *[other] { $count } bilagor
-        }
-    .accesskey = b
-expand-attachment-pane-tooltip =
-    .tooltiptext = Visa bifogningsfönstret { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }()
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Dölj bifogningsfönstret ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } bilaga
        *[other] { $count } bilagor
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Visa bifogningsfönstret { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }()
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Dölj bifogningsfönstret ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Visa bifogningsfönstret ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
