@@ -52,6 +52,16 @@ addr-book-directories-pane-title = Izberite mapo, iz katere želite uvoziti poda
 addr-book-directories-pane-source = Izvorna datoteka:
 addr-book-import-into-new-directory = Ustvari novo mapo
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Izberite datoteko iCalendar (.ics), ki jo želite uvoziti.
+calendar-items-loading = Nalaganje …
+calendar-items-filter-input =
+    .placeholder = Filtriraj predmete …
+calendar-select-all-items = Izberi vse
+calendar-deselect-all-items = Počisti izbor
+calendar-import-into-new-calendar = Ustvari nov koledar
+
 ## Import dialog
 
 progress-pane-title = Uvažanje
@@ -63,6 +73,7 @@ error-pane-title = Napaka
 error-message-zip-file-too-big = Izbrana datoteka .zip je večja od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
 error-message-extract-zip-file-failed = Datoteke .zip ni bilo mogoče ekstrahirati. Ekstrahirajte jo ročno in nato uvozite iz ekstrahirane mape.
 error-message-failed = Uvoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
+error-failed-to-parse-ics-file = V datoteki ni predmetov, ki bi jih bilo mogoče uvoziti.
 error-export-failed = Izoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.
 
 ## <csv-field-map> element
