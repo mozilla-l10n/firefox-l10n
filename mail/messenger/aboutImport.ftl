@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Chọn thư mục bạn muốn nhập vào:
 addr-book-directories-pane-source = Tập tin nguồn:
 addr-book-import-into-new-directory = Tạo một thư mục mới
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Chọn tập tin iCalendar (.ics) bạn muốn nhập.
+calendar-items-loading = Đang tải các mục…
+calendar-items-filter-input =
+    .placeholder = Lọc các mục…
+calendar-select-all-items = Chọn tất cả
+calendar-deselect-all-items = Bỏ chọn tất cả
+calendar-import-into-new-calendar = Tạo một lịch mới
+
 ## Import dialog
 
 progress-pane-title = Đang nhập
@@ -65,6 +75,7 @@ error-pane-title = Lỗi
 error-message-zip-file-too-big = Tập tin zip đã chọn lớn hơn 2GB. Vui lòng giải nén nó trước, sau đó nhập từ thư mục đã giải nén.
 error-message-extract-zip-file-failed = Không giải nén được tập tin zip. Vui lòng giải nén nó theo cách thủ công, sau đó nhập từ thư mục đã giải nén để thay thế.
 error-message-failed = Nhập không thành công đột ngột, có thể xem thêm thông tin trong bảng điều khiển.
+error-failed-to-parse-ics-file = Không tìm thấy mục có thể nhập trong tập tin.
 error-export-failed = Đã xảy ra lỗi không mong muốn khi xuất, có thể xem thêm thông tin trong bảng điều khiển lỗi.
 
 ## <csv-field-map> element
