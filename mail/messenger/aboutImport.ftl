@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Veldu möppuna sem þú vilt flytja inn í:
 addr-book-directories-pane-source = Upprunarskrá:
 addr-book-import-into-new-directory = Búa til nýja möppu
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Veldu iCalendar-skrána (.ics) sem þú ætlar að flytja inn.
+calendar-items-loading = Hleð inn atriðum...
+calendar-items-filter-input =
+    .placeholder = Sía atriði…
+calendar-select-all-items = Velja allt
+calendar-deselect-all-items = Afvelja allt
+calendar-import-into-new-calendar = Búa til nýtt dagatal
+
 ## Import dialog
 
 progress-pane-title = Flyt inn
@@ -65,6 +75,7 @@ error-pane-title = Villa
 error-message-zip-file-too-big = Valin zip-skrá er stærri en 2GB. Afþjappaðu hana fyrst, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-extract-zip-file-failed = Mistókst að afþjappa zip-skrána. Afþjappaðu hana handvirkt, síðan skaltu í staðinn flytja inn úr afþjöppuðu möppunni.
 error-message-failed = Innflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
+error-failed-to-parse-ics-file = Engin innflutningshæf atriði fundust í skránni.
 error-export-failed = Útflutningur mistókst óvænt, frekari upplýsingar gætu verið tiltækar á villuskjánum.
 
 ## <csv-field-map> element
