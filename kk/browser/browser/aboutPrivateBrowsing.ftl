@@ -35,6 +35,8 @@ about-private-browsing-focus-promo-header = { -focus-brand-name }: Қозғал�
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Телефоныңыздағы жекелік шолу
+about-private-browsing-focus-promo-header-c = Мобильді құрылғыдағы келесі деңгейдегі жекелік
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
