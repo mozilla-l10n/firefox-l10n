@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } er ekki í nafnaskránni þinni
 pill-action-edit =
     .label = Breyta póstfangi
     .accesskey = B
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Veldu öll póstföng í { $type }
+    .accesskey = V
+pill-action-select-all-pills =
+    .label = Velja öll póstföng
+    .accesskey = a
 pill-action-move-to =
     .label = Færa í Til
     .accesskey = T
@@ -75,7 +82,7 @@ context-menuitem-attach-files =
     .accesskey = H
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
+attachment-bucket-count-value =
     { $count ->
         [1] { $count } viðhengi
         [one] { $count } viðhengi
@@ -85,13 +92,6 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Fela viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count-value =
-    { $count ->
-        [1] { $count } viðhengi
-        [one] { $count } viðhengi
-       *[other] { $count } viðhengi
-    }
 attachment-area-show =
     .title = Sýna viðhengjaspjaldið ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =

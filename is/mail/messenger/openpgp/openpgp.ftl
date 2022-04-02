@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Rennur út
 openpgp-key-details-usage-label =
     .label = Notkun
 openpgp-key-details-fingerprint-label = Fingrafar
+openpgp-key-details-legend-secret-missing = Fyrir lykla merkta með (!) er leynilykillinn ekki tiltækur.
 openpgp-key-details-sel-action =
     .label = Veldu aðgerð...
     .accesskey = V
@@ -340,6 +341,7 @@ cannot-encrypt-because-missing = Ekki er hægt að senda þessi skilaboð með e
 window-locked = Skrifgluggi er læstur; hætt við sendingu
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Dulritaður hluti skilaboða
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Þetta er dulritaður hluti skilaboða. Þú þarft að opna það í sérstökum glugga með því að smella á viðhengið.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Hætt við
