@@ -337,3 +337,12 @@ fx100-thank-you-hero-text =
     100
     <span data-l10n-name="zap">감사합니다</span>
 fx100-thank-you-subtitle = 100번째 출시입니다! 더 나은 건강한 인터넷을 구축할 수 있도록 도와주셔서 감사합니다.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }를 Dock에 넣기
+       *[other] { -brand-short-name }를 작업 표시줄에 고정
+    }
+fx100-upgrade-thanks-header = 100 감사합니다
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = 100번째 { -brand-short-name } 출시입니다. 더 나은 건강한 인터넷을 구축할 수 있도록 도와주셔서 <em>감사합니다</em>.
