@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Vyberte složku, kam chcete kontakty importov
 addr-book-directories-pane-source = Zdrojový soubor:
 addr-book-import-into-new-directory = Vytvořit novou složku
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Vyberte soubor iCalendar (.ics), který chcete importovat.
+calendar-items-loading = Načítání položek…
+calendar-items-filter-input =
+    .placeholder = Filtrování položek…
+calendar-select-all-items = Vybrat vše
+calendar-deselect-all-items = Zrušit výběr
+calendar-import-into-new-calendar = Vytvořit nový kalendář
+
 ## Import dialog
 
 progress-pane-title = Probíhá import
@@ -65,6 +75,7 @@ error-pane-title = Chyba
 error-message-zip-file-too-big = Vybraný soubor ZIP je větší než 2 GB. Nejprve ho prosím rozbalte na disk a poté importujte rozbalený adresář.
 error-message-extract-zip-file-failed = Soubor ZIP se nepodařilo rozbalit. Rozbalte ho prosím ručně a naimportujte místo něj výslednou složku.
 error-message-failed = Import se nepodařilo provést. Podrobnosti mohou být dostupné v chybové konzoli.
+error-failed-to-parse-ics-file = V souboru nebylo nalezeno nic k importování.
 error-export-failed = Export se nepodařilo provést. Podrobnosti mohou být dostupné v chybové konzoli.
 
 ## <csv-field-map> element
