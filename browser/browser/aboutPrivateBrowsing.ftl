@@ -31,6 +31,15 @@ about-private-browsing-get-privacy = Gezindiğiniz her yerde gizliliğinizi koru
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ile gezdiğiniz sayfaları ve konumunuzu gizleyebilirsiniz. Tek bir tıklamayla halka açık Wi-Fi ağlarında bile güvenli bir bağlantı kurabilirsiniz.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ile gizli kalın
 about-private-browsing-focus-promo-cta = { -focus-brand-name }’u indir
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Yolda gizli gezinti
+about-private-browsing-focus-promo-text = Mobil gizlilik tarayıcımız her seferinde geçmişinizi ve çerezlerinizi temizler.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Gizli gezintiyi telefonunuza taşıyın
+about-private-browsing-focus-promo-text-b = Ana mobil tarayıcınızda görünmesini istemediğiniz aramalar için { -focus-brand-name } kullanabilirsiniz.
+about-private-browsing-focus-promo-header-c = Mobil cihazlarda üst düzey gizlilik
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } reklamları ve takip kodlarını engeller, her seferinde geçmişinizi temizler.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -43,7 +52,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Kapat
-about-private-browsing-dismiss-button =
-    .title = Kapat
 about-private-browsing-promo-close-button =
     .title = Kapat
