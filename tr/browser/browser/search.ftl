@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz. <label data-l10n-name="remove-search-engine-article">Daha fazla bilgi alın</label>
+removed-search-engine-message = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz. <label data-l10n-name="remove-search-engine-article">Daha fazla bilgi alın</label>
 remove-search-engine-button = Tamam
