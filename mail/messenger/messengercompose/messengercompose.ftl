@@ -32,6 +32,13 @@ pill-tooltip-not-in-address-book = { $email } немає у вашій адре�
 pill-action-edit =
     .label = Змінити адресу
     .accesskey = м
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Виберіть усі адреси в { $type }
+    .accesskey = с
+pill-action-select-all-pills =
+    .label = Вибрати всі адреси
+    .accesskey = В
 pill-action-move-to =
     .label = Перемістити в поле Кому
     .accesskey = П
@@ -77,20 +84,6 @@ context-menuitem-attach-files =
     .accesskey = л
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } вкладення
-            [one] { $count } вкладення
-            [few] { $count } вкладення
-           *[many] { $count } вкладень
-        }
-    .accesskey = в
-expand-attachment-pane-tooltip =
-    .tooltiptext = Показати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Сховати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } вкладення
@@ -98,6 +91,10 @@ attachment-bucket-count-value =
         [few] { $count } вкладень
        *[many] { $count } вкладень
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Показати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Сховати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Показати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
