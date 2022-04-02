@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Välj den katalog du vill importera till:
 addr-book-directories-pane-source = Källfil:
 addr-book-import-into-new-directory = Skapa en ny katalog
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Välj iCalendar-filen (.ics) som du vill importera.
+calendar-items-loading = Laddar objekt...
+calendar-items-filter-input =
+    .placeholder = Filtrera objekt...
+calendar-select-all-items = Markera alla
+calendar-deselect-all-items = Avmarkera alla
+calendar-import-into-new-calendar = Skapa en ny kalender
+
 ## Import dialog
 
 progress-pane-title = Importerar
