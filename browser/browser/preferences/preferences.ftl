@@ -188,6 +188,7 @@ containers-remove-cancel-button = Бұл контейнерді өшірмеу
 language-and-appearance-header = Тіл және сыртқы түрі
 fonts-and-colors-header = Қаріптер мен түстер
 preferences-web-appearance-header = Веб-сайттың сыртқы түрі
+preferences-web-appearance-choice-browser = { -brand-short-name } темасы
 preferences-web-appearance-choice-system = Жүйелік тема
 preferences-web-appearance-choice-light = Ашық түсті
 preferences-web-appearance-choice-dark = Күңгірт түсті
