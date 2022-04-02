@@ -54,6 +54,15 @@ addr-book-directories-pane-title = Wubjerće zapis, kotryž byšće rady importo
 addr-book-directories-pane-source = Žórłowa dataja:
 addr-book-import-into-new-directory = Nowy zapis załožić
 
+## Import from address book file steps
+
+calendar-items-loading = Zapiski so čitaja…
+calendar-items-filter-input =
+    .placeholder = Zapiski filtrować…
+calendar-select-all-items = Wšě wubrać
+calendar-deselect-all-items = Wšě wotwolić
+calendar-import-into-new-calendar = Nowu protyku wutworić
+
 ## Import dialog
 
 progress-pane-title = Importowanje
