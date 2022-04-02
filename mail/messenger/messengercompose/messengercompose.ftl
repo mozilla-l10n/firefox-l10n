@@ -34,6 +34,13 @@ pill-tooltip-not-in-address-book = { $email } we wašim adresniku njeje
 pill-action-edit =
     .label = Adresu wobdźěłać
     .accesskey = A
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Wšě adresy w { $type } wubrać
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Wšě adresy wubrać
+    .accesskey = b
 pill-action-move-to =
     .label = Do Komu přesunyć
     .accesskey = K
@@ -79,21 +86,6 @@ context-menuitem-attach-files =
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } přidatk
-            [one] { $count } přidatk
-            [two] { $count } přidatkaj
-            [few] { $count } přidatki
-           *[other] { $count } přidatkow
-        }
-    .accesskey = d
-expand-attachment-pane-tooltip =
-    .tooltiptext = Wobłuk přiwěškow pokazać ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Wobłuk přiwěškow schować ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } přiwěšk
@@ -102,6 +94,10 @@ attachment-bucket-count-value =
         [few] { $count } přiwěški
        *[other] { $count } přiwěškow
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Wobłuk přiwěškow pokazać ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Wobłuk přiwěškow schować ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Wobłuk přiwěškow pokazać ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
