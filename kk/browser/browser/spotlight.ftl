@@ -9,6 +9,14 @@ spotlight-dialog-close-button =
 
 ## Mobile download button strings
 
+spotlight-android-marketplace-button =
+    .title = Оны Google Play ішінен алыңыз
+spotlight-ios-marketplace-button =
+    .title = App Store ішінен жүктеп алыңыз
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = { -focus-brand-name } алу
+spotlight-focus-promo-subtitle = Жүктеп алу үшін QR кодын сканерлеңіз.
+spotlight-focus-promo-qr-code =
+    .alt = { -focus-brand-name } алу үшін QR кодын сканерлеңіз

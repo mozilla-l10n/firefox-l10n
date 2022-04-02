@@ -187,6 +187,7 @@ containers-remove-cancel-button = Бұл контейнерді өшірмеу
 
 language-and-appearance-header = Тіл және сыртқы түрі
 fonts-and-colors-header = Қаріптер мен түстер
+preferences-web-appearance-header = Веб-сайттың сыртқы түрі
 preferences-web-appearance-choice-system = Жүйелік тема
 preferences-web-appearance-choice-light = Ашық түсті
 preferences-web-appearance-choice-dark = Күңгірт түсті
@@ -420,6 +421,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Тегіс айналдыруды қолдану
     .accesskey = е
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Айналдыру жолағын әрқашан көрсету
+    .accesskey = л
 browsing-use-onscreen-keyboard =
     .label = Керек болған кезде шерту пернетақтасын қолдану
     .accesskey = п
