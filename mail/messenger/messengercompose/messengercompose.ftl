@@ -34,6 +34,13 @@ pill-tooltip-not-in-address-book = Naslova { $email } ni v vašem imeniku
 pill-action-edit =
     .label = Uredi naslov
     .accesskey = U
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Izberi vse naslove v { $type }
+    .accesskey = v
+pill-action-select-all-pills =
+    .label = Izberi vse naslove
+    .accesskey = s
 pill-action-move-to =
     .label = Premakni v Za
     .accesskey = Z
@@ -79,21 +86,6 @@ context-menuitem-attach-files =
     .accesskey = d
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } priponka
-            [one] { $count } priponka
-            [two] { $count } priponki
-            [few] { $count } priponke
-           *[other] { $count } priponke
-        }
-    .accesskey = p
-expand-attachment-pane-tooltip =
-    .tooltiptext = Prikaži podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Skrij podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [one] { $count } priponka
@@ -101,6 +93,10 @@ attachment-bucket-count-value =
         [few] { $count } priponke
        *[other] { $count } priponk
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Prikaži podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Skrij podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Prikaži podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -264,8 +260,21 @@ encrypted-bcc-ignore-button = Razumem
 compose-tool-button-remove-text-styling =
     .tooltiptext = Odstrani oblikovanje besedila
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Naloženo v neznan račun Filelink.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } – priponka Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Datoteka { $filename } je priložena kot Filelink. Prenesete jo lahko s spodnje povezave.
 
 # Template
 
@@ -294,13 +303,13 @@ cloud-file-service-provider-footer-multiple = Več o ponudnikih { $firstLinks } 
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Z geslom zaščitena povezava
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Storitev CloudFile:
+cloud-file-template-service-name = Storitev Filelink:
 cloud-file-template-size = Velikost:
 cloud-file-template-link = Povezava:
 cloud-file-template-password-protected-link = Z geslom zaščitena povezava:
@@ -324,3 +333,9 @@ cloud-file-rename-error = Pri preimenovanju datoteke { $filename } v storitvi { 
 cloud-file-rename-error-with-custom-message-title = Preimenovanje datoteke { $filename } v storitvi { $provider } je spodletelo
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } ne omogoča preimenovanja že naloženih datotek.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Napaka priponke Filelink
+cloud-file-attachment-error = Priponke Filelink { $filename } ni bilo mogoče posodobiti, ker je bila krajevno shranjena datoteka premaknjena ali izbrisana.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Napaka računa Filelink
+cloud-file-account-error = Priponke Filelink { $filename } ni bilo mogoče posodobiti, ker je bil račun za Filelink izbrisan.
