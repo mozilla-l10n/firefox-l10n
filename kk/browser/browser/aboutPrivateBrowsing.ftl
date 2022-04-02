@@ -30,6 +30,10 @@ about-private-browsing-hide-activity = Сіз шолатын барлық жер
 about-private-browsing-get-privacy = Интернеттің кез келген жерінде жекелік қорғанысын алыңыз
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } көмегімен шолу белсенділігін және орналасуыңызды жасырыңыз. Бір шерті қауіпсіз байланысты орнатады, тіпті ашық Wi-Fi желісінде де.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } көмегімен жекелікті сақтаңыз
+about-private-browsing-focus-promo-cta = { -focus-brand-name } жүктеп алу
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,3 +48,5 @@ about-private-browsing-search-banner-close-button =
     .aria-label = Жабу
 about-private-browsing-dismiss-button =
     .title = Тайдыру
+about-private-browsing-promo-close-button =
+    .title = Жабу
