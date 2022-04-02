@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } non è presente nella rubrica
 pill-action-edit =
     .label = Modifica indirizzo
     .accesskey = M
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Seleziona tutti gli indirizzi in { $type }
+    .accesskey = u
+pill-action-select-all-pills =
+    .label = Seleziona tutti gli indirizzi
+    .accesskey = u
 pill-action-move-to =
     .label = Sposta in A
     .accesskey = S
@@ -75,21 +82,15 @@ context-menuitem-attach-files =
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
+attachment-bucket-count-value =
     { $count ->
-        [1] { $count } allegato
+        [one] { $count } allegato
        *[other] { $count } allegati
     }
 expand-attachment-pane-tooltip =
     .tooltiptext = Mostra il pannello degli allegati ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Nascondi il pannello degli allegati ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count-value =
-    { $count ->
-        [one] { $count } allegato
-       *[other] { $count } allegati
-    }
 attachment-area-show =
     .title = Mostra il pannello degli allegati ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
