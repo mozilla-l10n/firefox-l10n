@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Бұл бапта�
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } кеңейтуі { -brand-short-name } интернетке байланысу тәсілін басқарып тұр.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> бұл баптауды басқарады.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> бұл баптауды басқарады.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> контейнерлік беттерді талап етеді.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> бұл баптауды басқарады.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> кеңейтуі { -brand-short-name } интернетке байланысу тәсілін басқарып тұр.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -188,6 +203,7 @@ containers-remove-cancel-button = Бұл контейнерді өшірмеу
 language-and-appearance-header = Тіл және сыртқы түрі
 fonts-and-colors-header = Қаріптер мен түстер
 preferences-web-appearance-header = Веб-сайттың сыртқы түрі
+preferences-web-appearance-description = Кейбір веб-сайттар түс схемасын сіздің қалауыңызға қарай бейімдейді. Сол сайттар үшін қандай түс схемасын пайдаланғыңыз келетінін таңдаңыз.
 preferences-web-appearance-choice-browser = { -brand-short-name } темасы
 preferences-web-appearance-choice-system = Жүйелік тема
 preferences-web-appearance-choice-light = Ашық түсті
