@@ -54,6 +54,16 @@ addr-book-directories-pane-title = 請選擇您要匯入的資料夾:
 addr-book-directories-pane-source = 來源檔案:
 addr-book-import-into-new-directory = 建立新目錄
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = 請選擇您要匯入的 iCalendar（.ics）檔案。
+calendar-items-loading = 正在載入項目…
+calendar-items-filter-input =
+    .placeholder = 過濾項目…
+calendar-select-all-items = 選擇全部
+calendar-deselect-all-items = 取消選擇全部
+calendar-import-into-new-calendar = 建立新的行事曆
+
 ## Import dialog
 
 progress-pane-title = 匯入中
@@ -65,6 +75,7 @@ error-pane-title = 錯誤
 error-message-zip-file-too-big = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
 error-message-extract-zip-file-failed = ZIP 檔解壓縮失敗，請手動解壓縮，並重新匯入解開的資料夾。
 error-message-failed = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
+error-failed-to-parse-ics-file = 檔案中找不到可匯入的項目。
 error-export-failed = 發生未預期的匯出失敗，錯誤主控台中可能有更多資訊。
 
 ## <csv-field-map> element
