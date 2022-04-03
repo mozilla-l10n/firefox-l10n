@@ -330,7 +330,7 @@ fx100-thank-you-hero-text =
   100
   volte
   <span data-l10n-name="zap">grazie</span>
-fx100-thank-you-subtitle = Questa è la nostra centesima versione! Grazie per aiutarci a costruire un Internet migliore e più sano.
+fx100-thank-you-subtitle = Questa è la nostra centesima versione! Grazie al tuo supporto possiamo rendere Internet un luogo migliore e più sano.
 fx100-thank-you-pin-primary-button-label = { PLATFORM() ->
     [macos] Mantieni { -brand-short-name } nel Dock
    *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni
@@ -339,6 +339,6 @@ fx100-thank-you-pin-primary-button-label = { PLATFORM() ->
 fx100-upgrade-thanks-header = 100 volte grazie
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Questa è la nostra centesima versione di { -brand-short-name }. <em>Grazie</em> per aiutarci a costruire un Internet migliore e più sano.
+fx100-upgrade-thank-you-body = Questa è la nostra centesima versione di { -brand-short-name }. Grazie al <em>tuo</em> supporto possiamo rendere Internet un luogo migliore e più sano.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Questa è la nostra centesima versione! Grazie per essere parte della nostra comunità. Tieni { -brand-short-name } a portata di clic per le prossime 100.
