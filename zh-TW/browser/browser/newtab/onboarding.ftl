@@ -311,7 +311,14 @@ fx100-thank-you-hero-text =
     100 倍的
     感謝<span data-l10n-name="zap">您</span>
 fx100-thank-you-subtitle = 這一版是我們的第 100 版！非常感謝您與我們一起打造更好、更健康的網路環境。
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 保留在 Dock
+       *[other] 將 { -brand-short-name } 釘選到工具列
+    }
 fx100-upgrade-thanks-header = 100 倍的感謝您
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = 這一版是 { -brand-short-name } 的第 100 版！非常感謝<em>您</em>與我們一起打造更好、更健康的網路環境。
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = 這一版是我們的第 100 版！非常感謝您參與我們的社群，只要點一下即可進入 { -brand-short-name } 的下一個 100 版旅程。
