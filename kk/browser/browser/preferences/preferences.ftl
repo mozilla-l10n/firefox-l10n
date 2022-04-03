@@ -208,6 +208,14 @@ preferences-web-appearance-choice-browser = { -brand-short-name } темасы
 preferences-web-appearance-choice-system = Жүйелік тема
 preferences-web-appearance-choice-light = Ашық түсті
 preferences-web-appearance-choice-dark = Күңгірт түсті
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Веб-сайттар фоны мен құрамасы үшін { -brand-short-name } тема параметрлерін сәйкестендіру.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Веб-сайттар фоны мен мазмұны үшін жүйе параметрлерін сәйкестендіру.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Веб-сайттар фоны мен мазмұны үшін ашық түсті көріністі пайдалану.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Веб-сайттар фоны мен мазмұны үшін күңгірт түсті көріністі пайдалану.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -216,7 +224,14 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады. <a data-l10n-name="colors-link">Түстерді басқару</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = { -brand-short-name } темаларын <a data-l10n-name="themes-link">Кеңейтулер және темалар</a> ішінен басқарыңыз
 preferences-colors-header = Түстер
+preferences-colors-description = Мәтін, веб-сайттар фоны және сілтемелер үшін { -brand-short-name } үнсіз келісім бойынша түстерін үстінен басу.
 preferences-colors-manage-button =
     .label = Түстерді басқару…
     .accesskey = с
@@ -393,6 +408,9 @@ update-application-warning-cross-user-setting = Бұл баптау бұл { -br
 update-application-use-service =
     .label = Жаңартуларды орнату үшін фон қызметін қолдану
     .accesskey = ф
+update-application-suppress-prompts =
+    .label = Жаңарту хабарландыруларын азырақ көрсету
+    .accesskey = т
 update-setting-write-failure-title2 = Жаңарту баптауларын сақтау қатемен аяқталды
 # Variables:
 #   $path (String) - Path to the configuration file
