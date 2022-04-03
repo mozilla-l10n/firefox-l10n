@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Сіздің негізгі іздеу жүйеңіз өзгертілген.</strong> { -brand-short-name } енді { $oldEngine } жүйесін негізгі ретінде қолдамайды. Негізгі іздеуі жүйеңіз енді { $newEngine }. Басқа іздеу жүйесіне ауысу үшін, баптауларға өтіңіз. <label data-l10n-name="remove-search-engine-article">Көбірек білу</label>
+removed-search-engine-message = <strong>Сіздің негізгі іздеу жүйеңіз өзгертілген.</strong> { $oldEngine } енді { -brand-short-name } ішінде енді қолжетімсіз. Негізгі іздеуі жүйеңіз енді { $newEngine }. Басқа іздеу жүйесіне ауысу үшін, баптауларға өтіңіз. <label data-l10n-name="remove-search-engine-article">Көбірек білу</label>
 remove-search-engine-button = ОК
