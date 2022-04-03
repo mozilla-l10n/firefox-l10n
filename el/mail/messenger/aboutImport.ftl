@@ -56,6 +56,11 @@ addr-book-import-into-new-directory = Δημιουργία νέου καταλό
 
 ## Import from address book file steps
 
+calendar-items-loading = Φόρτωση στοιχείων…
+calendar-items-filter-input =
+    .placeholder = Φιλτράρισμα στοιχείων…
+calendar-select-all-items = Επιλογή όλων
+calendar-deselect-all-items = Αποεπιλογή όλων
 calendar-import-into-new-calendar = Δημιουργία νέου ημερολογίου
 
 ## Import dialog

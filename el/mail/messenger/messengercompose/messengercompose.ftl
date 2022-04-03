@@ -30,6 +30,9 @@ pill-tooltip-not-in-address-book = Το { $email } δεν βρίσκεται σ�
 pill-action-edit =
     .label = Επεξεργασία διεύθυνσης
     .accesskey = ε
+pill-action-select-all-pills =
+    .label = Επιλογή όλων των διευθύνσεων
+    .accesskey = Ε
 pill-action-move-to =
     .label = Μετακίνηση σε «Προς»
     .accesskey = τ
@@ -75,7 +78,7 @@ context-menuitem-attach-files =
     .accesskey = ψ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
+attachment-bucket-count-value =
     { $count ->
         [1] { $count } συνημμένο
        *[other] { $count } συνημμένα
@@ -84,12 +87,6 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Εμφάνιση του πίνακα συνημμένων ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Απόκρυψη του πίνακα συνημμένων ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count-value =
-    { $count ->
-        [1] { $count } συνημμένο
-       *[other] { $count } συνημμένα
-    }
 attachment-area-show =
     .title = Εμφάνιση πίνακα συνημμένων ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
