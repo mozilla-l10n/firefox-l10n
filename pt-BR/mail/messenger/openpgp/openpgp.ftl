@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Validade
 openpgp-key-details-usage-label =
     .label = Uso
 openpgp-key-details-fingerprint-label = Impressão digital
+openpgp-key-details-legend-secret-missing = Nas chaves marcadas com (!), a chave secreta não está disponível.
 openpgp-key-details-sel-action =
     .label = Selecionar ação…
     .accesskey = S
@@ -340,6 +341,7 @@ cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com cri
 window-locked = A janela de edição está bloqueada; envio cancelado
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte criptografada da mensagem
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Esta é uma parte criptografada da mensagem. Você precisa abrir em uma janela separada, clicando no anexo.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Interrompido
