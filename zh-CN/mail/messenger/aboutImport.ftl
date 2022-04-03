@@ -54,6 +54,12 @@ addr-book-directories-pane-title = 选择您要导入的文件夹：
 addr-book-directories-pane-source = 源文件：
 addr-book-import-into-new-directory = 新建文件夹
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = 选择您要导入的 iCalendar（.ics）文件。
+calendar-select-all-items = 全选
+calendar-deselect-all-items = 取消全选
+
 ## Import dialog
 
 progress-pane-title = 正在导入…
