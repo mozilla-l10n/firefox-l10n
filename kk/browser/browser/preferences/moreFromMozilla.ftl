@@ -11,8 +11,10 @@ more-from-moz-category =
 more-from-moz-subtitle = Салауатты интернетті қолдау үшін жұмыс істейтін басқа { -vendor-short-name } өнімдерін қараңыз.
 more-from-moz-firefox-mobile-title = Мобильді { -brand-product-name }
 more-from-moz-firefox-mobile-description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
+more-from-moz-firefox-mobile-description-advanced = Трекерлерді бұғаттаудан бастап, автоматты ойнатуды тежеуге дейін { -brand-product-name } мобильді браузерлері сіз сапалы интернетке қол жеткізіп жатқаныңызды қамтамасыз ету үшін әрдайым жұмыс істейді.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Анонимді шолу мен қорғаныстың қосымша қабатын өзіңіз үшін ашыңыз.
+more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } анонимді шолу мен қорғаудың тағы бір қабатын қосады. Оның кейбір басқа VPN желілерінен айырмашылығы, ол қауіпсіз және сіздің әрекетіңізді бақыламайды.
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
