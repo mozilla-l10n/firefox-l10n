@@ -338,4 +338,15 @@ onboarding-live-language-skip-button-label = Παράλειψη
 fx100-thank-you-hero-text =
     100
     <span data-l10n-name="zap">Ευχαριστώ</span>
+fx100-thank-you-subtitle = Είναι η 100η μας έκδοση! Σας ευχαριστούμε για τη βοήθειά σας για ένα καλύτερο, υγιέστερο διαδίκτυο.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Καρφίτσωμα { -brand-short-name } στο Dock
+       *[other] Καρφίτσωμα { -brand-short-name } στη γραμμή εργασιών
+    }
 fx100-upgrade-thanks-header = 100 Ευχαριστώ
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Είναι η 100η μας έκδοση του { -brand-short-name }. <em>Σας</em> ευχαριστούμε για τη βοήθειά σας για ένα καλύτερο, υγιέστερο διαδίκτυο.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Είναι η 100η μας έκδοση! Σας ευχαριστούμε που είστε μέλος της κοινότητάς μας. Κρατήστε το { -brand-short-name } ένα κλικ μακριά για τις επόμενες 100.
