@@ -222,24 +222,105 @@ many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
     .accesskey = p
 many-public-recipients-prompt-title = Demasiados destinatarios públicos
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Su mensaje tiene un destinatario público. Esto puede ser un problema de privacidad. Puede evitarlo moviendo el destinatario de Para/Cc a Cco.
+       *[other] Su mensaje tiene { $count } destinatarios públicos, que podrán ver las direcciones de los demás. Esto puede ser un problema de privacidad. Puede evitar la divulgación de los destinatarios moviendo los destinatarios de Para/Cc a Cco en su lugar.
+    }
+many-public-recipients-prompt-cancel = Cancelar el envío
+many-public-recipients-prompt-send = Enviar de todos modos
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = No se ha encontrado una identidad única que coincida con la dirección del remitente. El mensaje se enviará utilizando el remitente actual y la configuración de la identidad { $identity }.
+encrypted-bcc-warning = Al enviar un mensaje cifrado, los destinatarios en Cco no están totalmente ocultos. Todos los destinatarios pueden ser capaces de identificarlos.
+encrypted-bcc-ignore-button = Entendido
 
 ## Editing
 
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Eliminar estilo de texto
 
 ## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Subido a una cuenta Filelink desconocida.
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Adjunto Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = El archivo { $filename } se adjuntó como Filelink. Se puede descargar desde el siguiente enlace.
 
 # Template
 
+# A line of text describing how many uploaded files have been appended to this
+# message. Emphasis should be on sharing as opposed to attaching. This item is
+# used as a header to a list, hence the colon.
+cloud-file-count-header =
+    { $count ->
+        [one] He vinculado { $count } archivo a este correo electrónico:
+       *[other] He vinculado { $count } archivos a este correo electrónico:
+    }
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service provider.
+# $link (string) - html a-tag for a link pointing to the web page of the provider
+cloud-file-service-provider-footer-single = Descubra más sobre { $link }.
+# A text used in a footer, instructing the reader where to find additional
+# information about the used service providers. Links for the used providers are
+# split into a comma separated list of the first n-1 providers and a single entry
+# at the end.
+# $firstLinks (string) - comma separated list of html a-tags pointing to web pages
+#                        of the first n-1 used providers
+# $lastLink (string) - html a-tag pointing the web page of the n-th used provider
+cloud-file-service-provider-footer-multiple = Saber más sobre { $firstLinks } y { $lastLink }
+# Tooltip for an icon, indicating that the link is protected by a password.
+cloud-file-tooltip-password-protected-link = Enlace protegido por contraseña
+# Used in a list of stats about a specific file
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
+# Size - the size of the file (Size: 4.2 MB)
+# Link - the link to the file (Link: https://some.provider.com)
+# Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
+# Download Limit - stating the maximum allowed downloads, before the link becomes invalid
+#                  (Download Limit: 6)
+cloud-file-template-service-name = Servicio de Filelink:
+cloud-file-template-size = Tamaño:
+cloud-file-template-link = Enlace:
+cloud-file-template-password-protected-link = Enlace protegido por contraseña:
+cloud-file-template-expiry-date = Fecha de caducidad:
+cloud-file-template-download-limit = Límite de descarga:
 
 # Messages
 
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-connection-error-title = Error de conexión
+cloud-file-connection-error = { -brand-short-name } está sin conexión. No se puede conectar con { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was uploaded and caused the error
+cloud-file-upload-error-with-custom-message-title = No se pudo subir { $filename } a { $provider }
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-title = Error al renombrar
+cloud-file-rename-error = Ha habido un problema al renombrar { $filename } en { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = No se ha podido renombrar { $filename } en { $provider }
+# $provider (string) - name of the online storage service that reported the error
+cloud-file-rename-not-supported = { $provider } no admite el cambio de nombre de los archivos ya subidos.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Error al adjuntar un archivo Filelink
+cloud-file-attachment-error = No se ha podido actualizar el archivo adjunto Filelink { $filename }, porque su archivo local ha sido movido o eliminado.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Error en la cuenta de Filelink
+cloud-file-account-error = No se ha podido actualizar el archivo adjunto Filelink { $filename }, porque su cuenta Filelink ha sido eliminada.
