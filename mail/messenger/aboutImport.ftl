@@ -56,6 +56,7 @@ addr-book-import-into-new-directory = Δημιουργία νέου καταλό
 
 ## Import from address book file steps
 
+import-from-calendar-file-desc = Επιλέξτε το αρχείο iCalendar (.ics) που θέλετε να εισαγάγετε.
 calendar-items-loading = Φόρτωση στοιχείων…
 calendar-items-filter-input =
     .placeholder = Φιλτράρισμα στοιχείων…
@@ -74,6 +75,7 @@ error-pane-title = Σφάλμα
 error-message-zip-file-too-big = Το επιλεγμένο αρχείο zip είναι μεγαλύτερο από 2 GB. Παρακαλώ εξαγάγετέ το πρώτα και έπειτα, κάντε εισαγωγή από τον φάκελο εξαγωγής.
 error-message-extract-zip-file-failed = Αποτυχία εξαγωγής του αρχείου zip. Εξαγάγετέ το με μη αυτόματο τρόπο και στη συνέχεια πραγματοποιήστε εισαγωγή από τον φάκελο εξαγωγής.
 error-message-failed = Η εισαγωγή απέτυχε απροσδόκητα, περισσότερες πληροφορίες ενδέχεται να είναι διαθέσιμες στην Κονσόλα Σφαλμάτων.
+error-failed-to-parse-ics-file = Δεν βρέθηκαν στοιχεία προς εισαγωγή στο αρχείο.
 error-export-failed = Απρόσμενη αποτυχία εξαγωγής, περισσότερες πληροφορίες θα βρείτε στην κονσόλα σφαλμάτων.
 
 ## <csv-field-map> element
