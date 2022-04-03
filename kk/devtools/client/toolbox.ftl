@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Қоғамдастық…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = "Атып шығатын" терезелерді автожасыруды сөндіру
+toolbox-meatball-menu-pseudo-locale-accented = "accented" локалін іске қосу
+toolbox-meatball-menu-pseudo-locale-bidi = "bidi" локалін іске қосу
 
 ##
 
