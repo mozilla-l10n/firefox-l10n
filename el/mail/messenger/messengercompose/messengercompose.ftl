@@ -30,6 +30,10 @@ pill-tooltip-not-in-address-book = Το { $email } δεν βρίσκεται σ�
 pill-action-edit =
     .label = Επεξεργασία διεύθυνσης
     .accesskey = ε
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Επιλογή όλων των διευθύνσεων στο «{ $type }»
+    .accesskey = λ
 pill-action-select-all-pills =
     .label = Επιλογή όλων των διευθύνσεων
     .accesskey = Ε
