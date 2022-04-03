@@ -162,7 +162,7 @@
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Ólesið">
 <!ENTITY unreadFolders.accesskey "l">
-<!ENTITY favoriteFolders.label "Eftirlætismappa">
+<!ENTITY favoriteFolders.label "Eftirlæti">
 <!ENTITY favoriteFolders.accesskey "f">
 <!ENTITY recentFolders.label "Nýlegt">
 <!ENTITY recentFolders.accesskey "N">
