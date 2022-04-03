@@ -302,8 +302,12 @@ onboarding-live-language-skip-button-label = 跳过
 # The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
 # aesthetics of splitting it across multiple lines, the hyphen is omitted.
 fx100-thank-you-hero-text =
-    万分
-    感谢
-    <span data-l10n-name="zap">你们</span>
+    百版之约
+    万分<span data-l10n-name="zap">感谢</span>
 fx100-thank-you-subtitle = 第 100 个版本如约而至。感谢您支持我们建设更好、更健康的互联网。
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] 在程序坞中保留 { -brand-short-name }
+       *[other] 将 { -brand-short-name } 固定到任务栏
+    }
 fx100-upgrade-thanks-header = 百版之约，万分感谢
