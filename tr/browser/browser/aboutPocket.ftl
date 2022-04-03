@@ -16,9 +16,12 @@ pocket-panel-saved-error-tag-length = Etiketler en fazla 25 karakter olabilir
 pocket-panel-saved-error-only-links = Yalnızca bağlantılar kaydedilebilir
 pocket-panel-saved-error-not-saved = Sayfa kaydedilmedi
 pocket-panel-saved-error-no-internet = { -pocket-brand-name }’a kaydetmek için internete bağlı olmalısınız. Lütfen internete bağlanıp yeniden deneyin.
+pocket-panel-saved-error-remove = Bu sayfayı kaldırmaya çalışırken bir hata oluştu.
 pocket-panel-saved-page-removed = Sayfa silindi
 pocket-panel-saved-page-saved = { -pocket-brand-name }’a kaydedildi
+pocket-panel-saved-page-saved-b = { -pocket-brand-name }’a kaydedildi.
 pocket-panel-saved-processing-remove = Sayfa siliniyor…
+pocket-panel-saved-removed = Sayfa listemden kaldırıldı
 pocket-panel-saved-processing-tags = Etiketler ekleniyor…
 pocket-panel-saved-remove-page = Sayfayı sil
 pocket-panel-saved-save-tags = Kaydet
@@ -26,6 +29,8 @@ pocket-panel-saved-saving-tags = Kaydediliyor…
 pocket-panel-saved-suggested-tags = Önerilen etiketler
 pocket-panel-saved-tags-saved = Etiketler eklendi
 pocket-panel-signup-view-list = Listeyi göster
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Etiket ekle:
 
 ## about:pocket-signup panel
 
@@ -38,7 +43,6 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ile kaydol
 pocket-panel-signup-tagline = İstediğiniz cihazda, istediğiniz zaman görmek istediğiniz yazı ve videoları { -brand-product-name }’tan { -pocket-brand-name }’a kaydedin.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }’ta istediğiniz yazıyı, videoyu veya sayfayı kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
 pocket-panel-signup-tagline-story-two = İstediğiniz cihazda, istediğiniz zaman { -pocket-brand-name }’tan bakın.
-pocket-panel-signup-cta-a = İnterneti kaydetme düğmeniz.
 pocket-panel-signup-cta-a-fix = İnterneti kaydetme düğmeniz
 pocket-panel-signup-cta-b = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın. Listenize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
 pocket-panel-signup-cta-b-short = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
@@ -67,3 +71,4 @@ pocket-panel-header-sign-in = Giriş yap
 pocket-panel-button-show-all = Tümünü göster
 pocket-panel-button-add-tags = Etiket ekle
 pocket-panel-button-activate = { -brand-product-name } tarayıcısında { -pocket-brand-name }’ı etkinleştirin
+pocket-panel-button-remove = Kaldır
