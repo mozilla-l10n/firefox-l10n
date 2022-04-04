@@ -69,6 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Ելքային սպասարկիչի տեղեկութիւն">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Նշէք ելքային սպասարկիչի անունը (SMTP) (աւրինակ՝ &quot;smtp.example.net&quot;)։">
 <!ENTITY outgoingServer.label "Ելքային սպասարկիչ.">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.accesskey "U">
