@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Vyberte priečinok, do ktorého chcete import
 addr-book-directories-pane-source = Zdrojový súbor:
 addr-book-import-into-new-directory = Vytvoriť nový priečinok
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Vyberte súbor iCalendar (.ics), ktorý chcete importovať.
+calendar-items-loading = Načítavajú sa položky ...
+calendar-items-filter-input =
+    .placeholder = Filtrovať položky…
+calendar-select-all-items = Vybrať všetko
+calendar-deselect-all-items = Zrušiť výber
+calendar-import-into-new-calendar = Vytvoriť nový kalendár
+
 ## Import dialog
 
 progress-pane-title = Importuje sa
@@ -65,6 +75,7 @@ error-pane-title = Chyba
 error-message-zip-file-too-big = Zvolený súbor zip je väčší ako 2 GB. Najprv ho rozbaľte a potom importujte z extrahovaného priečinka.
 error-message-extract-zip-file-failed = Nepodarilo sa extrahovať súbor zip. Rozbaľte ho ručne a potom ho importujte z extrahovaného priečinka.
 error-message-failed = Import neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
+error-failed-to-parse-ics-file = V súbore sa nenašli žiadne importovateľné položky.
 error-export-failed = Export neočakávane zlyhal, ďalšie informácie môžu byť k dispozícii v Chybovej konzole.
 
 ## <csv-field-map> element
