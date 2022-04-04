@@ -339,4 +339,13 @@ fx100-thank-you-hero-text =
     1000
     Рахмат
     <span data-l10n-name="zap">Ба Шумо</span>
-fx100-thank-you-subtitle = 100-умин нашри мост! Ташаккур барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
+fx100-thank-you-subtitle = Ин 100-умин нашри мост! Ташаккур барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Нигоҳ доштани { -brand-short-name } дар мустақар
+       *[other] Васл кардани { -brand-short-name } ба навори вазифа
+    }
+fx100-upgrade-thanks-header = 1000 рахмат ба Шумо
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Ин 100-умин нашри { -brand-short-name }-и мост! Ташаккур ба <em>Шумо</em> барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
