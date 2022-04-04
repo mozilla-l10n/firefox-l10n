@@ -32,6 +32,13 @@ pill-tooltip-not-in-address-book = { $email } sa nenachádza vo vašom adresári
 pill-action-edit =
     .label = Upraviť adresu
     .accesskey = U
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Vybrať všetky adresy v poli { $type }
+    .accesskey = r
+pill-action-select-all-pills =
+    .label = Vybrať všetky adresy
+    .accesskey = b
 pill-action-move-to =
     .label = Presunúť do poľa Komu
     .accesskey = m
@@ -77,20 +84,6 @@ context-menuitem-attach-files =
     .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } príloha
-            [one] { $count } príloha
-            [few] { $count } prílohy
-           *[other] { $count } príloh
-        }
-    .accesskey = r
-expand-attachment-pane-tooltip =
-    .tooltiptext = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Skryť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } príloha
@@ -98,6 +91,10 @@ attachment-bucket-count-value =
         [few] { $count } prílohy
        *[other] { $count } príloh
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Skryť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
