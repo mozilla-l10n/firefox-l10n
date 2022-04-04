@@ -4,12 +4,12 @@
 
 <!-- extracted from AccountManager.xhtml -->
 
-<!ENTITY accountManagerTitle.label "Փոստարկղի կարգաւորումներ">
+<!ENTITY accountManagerTitle.label "Հաշուի կարգաւորումներ">
 <!ENTITY  accountManagerCloseButton.label "Փակել">
 
 <!ENTITY accountActionsButton.label "Հաշուի գործողութիւններ">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Աւելացնել ել֊հասցէ…">
+<!ENTITY addMailAccountButton.label "Աւելացնել էլ֊հասցէ…">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Աւելացնել զրոյցի հաշիւ…">
 <!ENTITY addIMAccountButton.accesskey "C">
@@ -21,6 +21,7 @@
 <!ENTITY removeButton.label "Ջնջել հաշիւը">
 <!ENTITY removeButton.accesskey "R">
 
+<!ENTITY addonsButton.label "Յաւելումներ &amp; թեմաներ">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

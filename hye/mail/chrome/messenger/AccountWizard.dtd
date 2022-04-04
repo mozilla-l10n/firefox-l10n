@@ -4,25 +4,32 @@
 
 <!-- Entities for AccountWizard -->
 
+<!ENTITY windowTitle.label "Հաշուի խորհրդատու">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
+<!ENTITY accountSetupInfo2.label "Նամակներ ստանալու համար պէտք է ստեղծել հաշիւ։">
 <!ENTITY accountTypeTitle.label "Նոր հաշուի տեղակայում">
-<!ENTITY accountTypeMail.label "Ել֊փոստի հաշիւ">
+<!ENTITY accountTypeDesc2.label "Խորհրդատուն կը հաւաքի անհրաժեշտ տեղեկատուութիւնը՝ հաշիւ ստեղծելու համար։ Եթե չգիտէք, թե ինչ տեղեկութիւններ են պահանջուում՝ կապնուէք համակարգավարի կամ համացանցի ծառայութիւնների մատակարարի հետ։">
+<!ENTITY accountTypeDirections.label "Ընտրէք հաշուի տեսակը.">
+<!ENTITY accountTypeMail.label "Էլ֊փոստի հաշիւ">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Տեղեկատուական հաշիւ">
 <!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "Ինքնութիւն">
+<!ENTITY identityDesc.label "Իւրաքանչիւ հաշիւ անհատական է, այն ուղարկում է նշուած տեղեկութիւնը Ձեր մասին, երբ որեւէ մեկը ստանում է Ձեր նամակը։">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Նշէք այն անունը, որը կերեւայ ուղարկուած նամակների &quot; ումից&quot; դաշտում">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(աւրինակ՝ &quot;John Smith&quot;):">
+<!ENTITY fullnameExample.label "(աւրինակ՝ &quot; John Smith &quot;):">
 <!ENTITY fullnameLabel.label "Ձեր անունը.">
 <!ENTITY fullnameLabel.accesskey "Y">
 
@@ -31,26 +38,36 @@
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Մուտքային սպասարկիչի տեղեկութիւն">
+<!ENTITY incomingServerTypeDesc.label "Ընտրէք մուտքային սպասարկիչի տեսակը։">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Թողնել նամակները սպասարկիչում">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Միացք․">
+<!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Սկզբնադիր․">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Նշէք մուտքային սպասարկիչի անունը (աւրինակ՝ &quot;mail.example.net&quot;)։">
 <!ENTITY incomingServer.label "Մուտքային սպասարկիչ.">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.label "Աւգտանունը.">
+<!ENTITY incomingUsername.description "Նշէք աւգտուողի մուտքային անունը, ինչպէս որ այն տրուել է էլ. փոստի մատակարարի կողմից (աւրինակ՝  &quot;jsmith&quot;)։">
+<!ENTITY incomingUsername.label "Աւգտանուն.">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Նշէք նորութիւնների սպասարկիչի անունը (NNTP) (աւրինակ՝ &quot;news.example.net&quot;)։">
+<!ENTITY newsServerLabel.label "Լուրերի սպասարկիչ.">
 <!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "Ելքային սպասարկիչի տեղեկութիւն">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.label "Ելքային սպասարկիչ.">
 <!ENTITY outgoingServer.accesskey "S">
