@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Lejárat
 openpgp-key-details-usage-label =
     .label = Használat
 openpgp-key-details-fingerprint-label = Ujjlenyomat
+openpgp-key-details-legend-secret-missing = A (!) jelű kulcsoknál a titkos kulcs nem érhető el.
 openpgp-key-details-sel-action =
     .label = Válasszon műveletet…
     .accesskey = V
@@ -340,6 +341,7 @@ cannot-encrypt-because-missing = Az üzenetet nem lehet végpontok közötti tit
 window-locked = Az írási ablak zárolva van; küldés megszakítva
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Titkosított üzenetrész
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Ez egy titkosított üzenetrész. A mellékletre kattintva, egy külön ablakban kell megnyitnia.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Megszakítva
