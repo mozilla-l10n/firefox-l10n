@@ -3,17 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
+
+menu-addons-and-themes =
+    .label = Յաւելումներ եւ Հիմնապատկերներ
+    .accesskey = A
 
 ## Help Menu
 
+
 ## Mail Toolbar
+
 
 ## View
 
+
 ## View / Layout
+
 
 ## File
 

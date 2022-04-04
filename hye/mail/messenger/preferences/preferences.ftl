@@ -39,6 +39,7 @@ update-in-progress-ok-button = Հրաժարուել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = & Շարունակել
+open-addons-sidebar-button = Յաւելումներ ու հիմնապատկերներ
 
 ## OS Authentication dialog
 
@@ -114,6 +115,9 @@ add-cloud-account =
 
 ##
 
+theme-label =
+    .value = Հիմնապատկերներ
+    .accesskey = T
 
 ## Preferences UI Search Results
 

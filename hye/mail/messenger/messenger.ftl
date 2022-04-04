@@ -11,6 +11,9 @@
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Յաւելումներ եւ հիմնապատկերներ
+    .tooltiptext = Կառավարէք Ձեր յաւելումները
 
 ## Folder Pane
 
@@ -23,6 +26,8 @@
 
 ## AppMenu
 
+appmenu-addons-and-themes =
+    .label = Յաւելումներ եւ հիմնապատկերներ
 
 ## Context menu
 
@@ -47,6 +52,11 @@
 
 ## Spaces toolbar
 
+settings-context-open-addons-item =
+    .label = Բացել յաւելումներ եւ հիմնապատկերներ
 
 ## Spaces toolbar pinned tab menupopup
+
+
+## Spaces toolbar customize panel
 
