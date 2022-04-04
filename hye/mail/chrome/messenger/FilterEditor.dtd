@@ -19,24 +19,37 @@
 <!ENTITY contextDesc.label "Կիրառել զտիչը, երբ՝">
 <!ENTITY contextIncomingMail.label "Նոր նամակի ստացում.">
 <!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "գործարկել՝ ոչ ինքնաշխատ կերպով">
 <!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Զտել, մինչեւ թափաւն դասակարգելը">
+<!ENTITY contextAfterCls.label "Զտել թափաւն դասակարգելուց յետոյ">
 <!ENTITY contextOutgoing.label "Ուղարկելուց յետոյ">
 <!ENTITY contextOutgoing.accesskey "Ու">
 <!ENTITY contextArchive.label "Արխիւացում">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextPeriodic.accesskey "e">
 
+<!ENTITY filterActionDesc.label "Կատարել այս գործողութիւնը.">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "Յիշեցում․ զտիչի գործողութիւնները կը կատարուեն տարբեր հրամաններով։">
+<!ENTITY filterActionOrder.label "Դիտել կատարման կարգը">
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Տեղափոխել նամակը՝">
+<!ENTITY copyMessage.label "Պատճենել նամակը՝">
+<!ENTITY forwardTo.label "Փոխանցել նամակը՝">
+<!ENTITY replyWithTemplate.label "Պատասխանել ձեւանմուշով">
 <!ENTITY markMessageRead.label "Նշել որպէս ընթերցուած">
 <!ENTITY markMessageUnread.label "Նշել որպէս չընթերցուած">
+<!ENTITY markMessageStarred.label "Աւելացնել աստղ">
+<!ENTITY setPriority.label "Սահմանել առաջնահերթութիւնը՝">
 <!ENTITY addTag.label "Պիտակուած նամակ">
 <!ENTITY setJunkScore.label "Սահմանել թափաւնի կարգավիճակը՝ ">
 <!ENTITY deleteMessage.label "Ջնջել նամակը">
 <!ENTITY deleteFromPOP.label "Ջնջել POP սպասարկչից">
 <!ENTITY fetchFromPOP.label "Ներբեռնել POP սպասարկչից">
+<!ENTITY ignoreThread.label "Անտեսել շղթան">
 
 <!ENTITY addAction.tooltip "Աւելացնել նոր գործողութիւն">
 <!ENTITY removeAction.tooltip "Հեռացնել գործողութիւնը">

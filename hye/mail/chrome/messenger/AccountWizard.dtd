@@ -118,4 +118,7 @@
 <!ENTITY downloadOnLogin.label "Ներբեռնել նամակները հիմա">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Հանէք ընտրումը՝ այս հաշուի նամակը իր թղթապանակում տեսակաւորելու համար։ Այս հաշիւը կերեւայ, որպէս բարձր մակարդակի հաշիւ։ Այն կը լինի Local Folders Global մուտքային հաշուի մի մասնիկը։">
+<!ENTITY deferStorage.label "Աւգտագործէք ընդհանուր պանակը (պահել նամակները տեղային թղթապանակում)։">
 <!ENTITY deferStorage.accesskey "G">
+<!ENTITY clickFinish.label "Սեղմէք աւարտել՝ պահելու համար կարգաւորումները, եւ փակելու՝ խորհրդատուն։">
+<!ENTITY clickFinish.labelMac "Սեղմէք պատրաստ է՝ պահելու համար կարգաւորումները եւ փակելու՝ խորհրդատուն։">
