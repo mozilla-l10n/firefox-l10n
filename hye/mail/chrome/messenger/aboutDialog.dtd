@@ -22,16 +22,23 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 <!ENTITY warningDesc.version        "&brandShortName;-ը փորձնական է եւ հնարաւոր է կայուն չաշխատի:">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Միանգամից ուղարկում է տեղեկատուութիւն սարքակազմի, աւգտագործման եւ կարգաւորումների մասին &vendorShortName;-ին՝ &brandShortName;-ը էլ աւելի լաւը դարձնելու համար:">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "ընդհանուր համայնք">
+<!ENTITY community.exp.end          "աշխատում է, որ ապահովի համացանցը բաց, հանրային եւ հասանելի բոլորի համար։">
 
+<!ENTITY community.start2           "&brandShortName;-ը մշակուել է">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "ընդհանուր համայնք">
+<!ENTITY community.end3             "աշխատում է, որ ապահովի համացանցը բաց, հանրային եւ հասանելի բոլորի համար։">
 
 <!ENTITY helpus.start               "Ցանկանու՞մ էք աւգնել:">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -41,10 +48,13 @@
 <!ENTITY helpus.getInvolvedLink     "միացէ՛ք">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Թողարկման նշումներ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Տեղեկութիւն արտոնագրի մասին ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Աւգտագործողի իրաւունքները">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Տեղադրուած է &brandShortName;-ի վերջին տարբերակը">
@@ -52,8 +62,9 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Ստուգուում են թարմացումները…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "Տեղադրուած է &brandShortName;-ի վերջին տարբերակը">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Թարմացումներն անջատուած են համակարգավար կողմից">
+<!ENTITY update.adminDisabled       "Թարմացումներն անջատուած են համակարգավարի կողմից">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
