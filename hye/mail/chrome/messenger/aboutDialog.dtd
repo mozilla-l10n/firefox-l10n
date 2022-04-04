@@ -66,13 +66,14 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Թարմացումներն անջատուած են համակարգավարի կողմից">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "Թարմացուում է &brandShortName;-ի այղ աւրինակ">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. https://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Թարմացումը ձախողուեց։">
+<!ENTITY update.failed.start        "Թարմացումը ձախողուել է։">
 <!ENTITY update.failed.linkText     "Ներբեռնել վերջին տարբերակը">
 <!ENTITY update.failed.end          "">
 
@@ -90,6 +91,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "Դուք չէք կարող կատարել յետագայ թարմացումները այս համակարգում:">
 <!ENTITY update.unsupported.linkText "Իմանալ աւելին">
 <!ENTITY update.unsupported.end      "">
 
@@ -101,11 +103,13 @@
 <!ENTITY update.downloading.start   "Թարմացումը ներբեռնուում է —">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "Թարմացման հայցում…">
 <!ENTITY update.restarting          "Վերամեկնարկում…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Դուք այժմ գտնուում էք">
+<!ENTITY channel.description.end    "թարմացնել ալիքը">
 
 <!ENTITY cmdCloseMac.commandKey "w">

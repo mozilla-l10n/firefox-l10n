@@ -2,15 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Պահպանուած նիշքեր">
+<!ENTITY aboutDownloads.title                      "Պահպանուած նիշեր">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.show.label                            "Բացել նիշերով պանակը">
+<!ENTITY cmd.show.accesskey                        "F">
+<!ENTITY cmd.showMac.label                         "Ցուցադրել որոնող֊ում">
 <!ENTITY cmd.showMac.accesskey                     "Ո">
 <!ENTITY cmd.open.label                            "Բացել">
 <!ENTITY cmd.open.accesskey                        "Բ">
-<!ENTITY cmd.removeFromHistory.label               "Ջնջել Պատմութիւնից">
+<!ENTITY cmd.removeFromHistory.label               "Ջնջել պատմութիւնից">
+<!ENTITY cmd.removeFromHistory.accesskey           "e">
+<!ENTITY cmd.clearList.label                       "Մաքրել ցուցակը">
 <!ENTITY cmd.clearList.accesskey                   "Մ">
+<!ENTITY cmd.clearList.tooltip                     "Հեռացնել պահուած նիշերի բոլոր գրառումները, բացի շարունակուող ներբեռնումներից:">
+<!ENTITY cmd.searchDownloads.label                 "Որոնում…">
 <!ENTITY cmd.searchDownloads.key                   "F">
