@@ -49,10 +49,13 @@
 <!ENTITY deleteMessage.label "Ջնջել նամակը">
 <!ENTITY deleteFromPOP.label "Ջնջել POP սպասարկչից">
 <!ENTITY fetchFromPOP.label "Ներբեռնել POP սպասարկչից">
-<!ENTITY ignoreThread.label "Անտեսել շղթան">
+<!ENTITY ignoreThread.label "Անտեսել շղթայն">
+<!ENTITY ignoreSubthread.label "Անտեսել ենթաշղթայն">
+<!ENTITY watchThread.label "Հետեւել շղթային">
+<!ENTITY stopExecution.label "Կանգնեցնել զտիչի գործողութիւնները">
 
 <!ENTITY addAction.tooltip "Աւելացնել նոր գործողութիւն">
-<!ENTITY removeAction.tooltip "Հեռացնել գործողութիւնը">
+<!ENTITY removeAction.tooltip "Հեռացնել այս գործողութիւնը">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.

@@ -4,6 +4,7 @@
 
 <!ENTITY window.title "Հաղորդագրութիւնների զտիչներ">
 <!ENTITY nameColumn.label "Զտիչի անունը">
+<!ENTITY activeColumn.label "Միացուել է">
 <!ENTITY newButton.label "Նոր…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY newButton.popupCopy.label "Պատճենել…">
@@ -14,14 +15,20 @@
 <!ENTITY deleteButton.accesskey "t">
 <!ENTITY reorderTopButton "Տեղափոխել վերեւ">
 <!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "Վերադասաւորել զտիչը, որ այն գործի բոլորից առաջ">
+<!ENTITY reorderUpButton.label "Տեղափոխել վերեւ">
 <!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Տեղափոխել ներքեւ">
 <!ENTITY reorderDownButton.accesskey "D">
-<!ENTITY reorderBottomButton "Յատակ">
+<!ENTITY reorderBottomButton "Տեղափոխել դեպի ներքեւ">
 <!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Վերադասաւորել զտիչը, որ այն գործի բոլորից յետոյ">
+<!ENTITY filterHeader.label "Միացուած զտիչները կը գործարկուէն միանգամից։">
 <!ENTITY filtersForPrefix.label "Զտիչներ՝">
 <!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Զտիչի մատեան">
 <!ENTITY viewLogButton.accesskey "L">
-<!ENTITY runFilters.label "Բացել">
+<!ENTITY runFilters.label "Գործարկել հիմա">
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Կանգնեցնել">
 <!ENTITY stopFilters.accesskey "S">
@@ -30,3 +37,4 @@
 <!ENTITY helpButton.label "Աւգնութիւն">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">
+<!ENTITY searchBox.emptyText "Որոնել զտիչներ անունով…">
