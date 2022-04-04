@@ -246,6 +246,7 @@ openpgp-key-details-expiry-header = Vypršanie platnosti
 openpgp-key-details-usage-label =
     .label = Využitie
 openpgp-key-details-fingerprint-label = Odtlačok
+openpgp-key-details-legend-secret-missing = Pre kľúče označené (!) nie je dostupný tajný kľúč.
 openpgp-key-details-sel-action =
     .label = Vybrať akciu...
     .accesskey = V
@@ -347,6 +348,7 @@ cannot-encrypt-because-missing = Túto správu nie je možné odoslať s obojstr
 window-locked = Okno na napísanie správy je zamknuté; odoslanie zrušené
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Časť zašifrovanej správy
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Toto je šifrovaná časť správy. Musíte ju otvoriť v samostatnom okne kliknutím na prílohu.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prerušené
