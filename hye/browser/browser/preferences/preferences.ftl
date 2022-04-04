@@ -196,10 +196,17 @@ containers-remove-cancel-button = Չհեռացնել այս պարունակը
 
 language-and-appearance-header = Լեզուն եւ տեսքը
 fonts-and-colors-header = Տառատեսակները եւ Գոյները
+preferences-web-appearance-header = Վեբ կայքի տեսքը
 preferences-web-appearance-choice-browser = { -brand-short-name } հիմնապատկեր
 preferences-web-appearance-choice-system = Համակարգի հիմնապատկեր
 preferences-web-appearance-choice-light = Լուսաւոր
 preferences-web-appearance-choice-dark = Մուգ
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Համապատասխանեցրէք Ձեր { -brand-short-name } հիմնապատկերի կարգաւորումները կայքի նախապատմութեան եւ բովանդակութեան համար:
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
 default-font = Սկզբնադիր տառատեսակ
     .accesskey = Ս
 default-font-size = Չափը
