@@ -188,7 +188,7 @@ containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = 언어와 모양
+language-and-appearance-header = 언어 및 외관
 fonts-and-colors-header = 글꼴과 색상
 preferences-web-appearance-header = 웹 사이트 모양
 preferences-web-appearance-description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
