@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xhtml -->
+<!ENTITY searchHeading.label         "Որոնել նամակները հետեւեալում՝">
 <!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Որոնել ենթաթղթապանակներ">
 <!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "Բացել որոնումը սպասարկիչում">
 <!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "Մաքրել">
 <!ENTITY resetButton.accesskey       "C">
@@ -23,6 +26,7 @@
 <!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for abSearchDialog.xhtml -->
+<!ENTITY abSearchHeading.label       "Որոնել հետեւեալում.">
 <!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "Յատկութիւններ">
 <!ENTITY propertiesButton.accesskey  "P">
@@ -30,3 +34,4 @@
 <!ENTITY composeButton.accesskey     "W">
 <!ENTITY deleteCardButton.label      "Ջնջել">
 <!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY abSearchDialogTitle.label   "Ընդլայնուած որոնում հասցէագրքում">
