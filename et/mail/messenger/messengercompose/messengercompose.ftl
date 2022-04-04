@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } pole sinu aadressiraamatus
 pill-action-edit =
     .label = Muuda aadressi
     .accesskey = M
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Vali kõik aadressid väljal { $type }
+    .accesskey = V
+pill-action-select-all-pills =
+    .label = Vali kõik aadressid
+    .accesskey = V
 pill-action-move-to =
     .label = Liiguta väljale Saaja
     .accesskey = L
@@ -75,22 +82,16 @@ context-menuitem-attach-files =
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    { $count ->
-        [1] { $count } manus
-       *[other] { $count } manust
-    }
-expand-attachment-pane-tooltip =
-    .tooltiptext = Kuva manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Peida manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } manus
         [one] { $count } manus
        *[other] { $count } manust
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Kuva manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Peida manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Kuva manuste paneel ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
