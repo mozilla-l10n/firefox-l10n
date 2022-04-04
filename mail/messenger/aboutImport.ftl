@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Selecteer de map waarin u wilt importeren:
 addr-book-directories-pane-source = Bronbestand:
 addr-book-import-into-new-directory = Een nieuwe map maken
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Selecteer het iCalendar (.ics)-bestand dat u wilt importeren.
+calendar-items-loading = Items laden…
+calendar-items-filter-input =
+    .placeholder = Items filteren…
+calendar-select-all-items = Alles selecteren
+calendar-deselect-all-items = Alles deselecteren
+calendar-import-into-new-calendar = Een nieuwe agenda maken
+
 ## Import dialog
 
 progress-pane-title = Importeren
@@ -65,6 +75,7 @@ error-pane-title = Fout
 error-message-zip-file-too-big = Het geselecteerde zipbestand is groter dan 2 GB. Pak het eerst uit en importeer het vervolgens uit de uitgepakte map.
 error-message-extract-zip-file-failed = Kan het zipbestand niet uitpakken. Pak het handmatig uit en importeer het vervolgens uit de uitgepakte map.
 error-message-failed = Importeren is onverwacht mislukt, meer informatie is mogelijk beschikbaar in de Foutconsole.
+error-failed-to-parse-ics-file = Geen te importeren items gevonden in het bestand.
 error-export-failed = Exporteren is onverwacht mislukt, meer informatie is mogelijk beschikbaar in de Foutconsole.
 
 ## <csv-field-map> element

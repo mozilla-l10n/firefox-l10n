@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } staat niet in uw adresboek
 pill-action-edit =
     .label = Adres bewerken
     .accesskey = d
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Alle adressen in { $type } selecteren
+    .accesskey = A
+pill-action-select-all-pills =
+    .label = Alle adressen selecteren
+    .accesskey = c
 pill-action-move-to =
     .label = Verplaatsen naar Aan
     .accesskey = A
@@ -75,24 +82,16 @@ context-menuitem-attach-files =
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [one] { $count } bijlage
-           *[other] { $count } bijlagen
-        }
-    .accesskey = l
-expand-attachment-pane-tooltip =
-    .tooltiptext = Het bijlagevenster tonen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Het bijlagevenster verbergen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } bijlage
         [one] { $count } bijlage
        *[other] { $count } bijlagen
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Het bijlagevenster tonen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Het bijlagevenster verbergen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Het bijlagevenster tonen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
