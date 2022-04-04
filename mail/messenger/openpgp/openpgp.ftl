@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Aegumine
 openpgp-key-details-usage-label =
     .label = Kasutus
 openpgp-key-details-fingerprint-label = Sõrmejälg
+openpgp-key-details-legend-secret-missing = Tähisega (!)  markeeritud võtmetel on puudu salajane võti.
 openpgp-key-details-sel-action =
     .label = Vali tegevus…
     .accesskey = V
