@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Vali kaust, kuhu soovid importida:
 addr-book-directories-pane-source = Lähtefail:
 addr-book-import-into-new-directory = Loo uus kaust
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Vali imporditav iCalendari (.ics) fail.
+calendar-items-loading = Üksuste laadimine…
+calendar-items-filter-input =
+    .placeholder = Filtreeri üksusi…
+calendar-select-all-items = Vali kõik
+calendar-deselect-all-items = Tühista kõik valikud
+calendar-import-into-new-calendar = Loo uus kalender
+
 ## Import dialog
 
 progress-pane-title = Importimine
@@ -65,6 +75,7 @@ error-pane-title = Viga
 error-message-zip-file-too-big = Valitud ZIP-fail on suurem kui 2GiB. Palun paki see esmalt lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-extract-zip-file-failed = ZIP-faili lahtipakkimine ebaõnnestus. Paki see käsitsi lahti ja impordi selle asemel lahtipakitud kaustast.
 error-message-failed = Importimine ebaõnnestus ootamatult, rohkem infot võib olla saadaval veakonsoolis.
+error-failed-to-parse-ics-file = Failist ei leitud imporditavaid asju.
 error-export-failed = Eksportimine ebaõnnestus ootamatult, rohkem infot võib olla saadaval veakonsoolis.
 
 ## <csv-field-map> element
