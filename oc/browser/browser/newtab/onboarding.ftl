@@ -344,3 +344,8 @@ fx100-thank-you-pin-primary-button-label =
        *[other] Penjar { -brand-short-name } a la barra de prètzfaches
     }
 fx100-upgrade-thanks-header = 100 mercés
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Es nòstra 100èna version de { -brand-short-name }. Mercés <em>you</em> de nos ajudar a construire un Internet melhor e mai sanitós.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Es la version 100 ! Mercés de far part de la nòstra comunitat. Gardatz { -brand-short-name } a portada de clic per las 100 venentas.
