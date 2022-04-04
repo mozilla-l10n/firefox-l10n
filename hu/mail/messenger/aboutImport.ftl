@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Válassza ki az importálás célkönyvtárá
 addr-book-directories-pane-source = Forrásfájl:
 addr-book-import-into-new-directory = Új könyvtár létrehozása
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Válassza ki az importálandó iCalendar (.ics) fájlt.
+calendar-items-loading = Elemek betöltése…
+calendar-items-filter-input =
+    .placeholder = Elemek szűrése…
+calendar-select-all-items = Összes kiválasztása
+calendar-deselect-all-items = Összes kiválasztásának megszüntetése
+calendar-import-into-new-calendar = Új naptár létrehozása
+
 ## Import dialog
 
 progress-pane-title = Importálás
@@ -65,6 +75,7 @@ error-pane-title = Hiba
 error-message-zip-file-too-big = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
 error-message-extract-zip-file-failed = A ZIP-fájl kibontása sikertelen. Bontsa ki kézzel, majd importálja a kibontott mappából.
 error-message-failed = Az importálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
+error-failed-to-parse-ics-file = Nem található importálható elem a fájlban.
 error-export-failed = Az exportálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.
 
 ## <csv-field-map> element

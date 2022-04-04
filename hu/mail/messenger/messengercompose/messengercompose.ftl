@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } nincs a címjegyzékében
 pill-action-edit =
     .label = Cím szerkesztése
     .accesskey = e
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Összes cím kiválasztása a következőben: { $type }
+    .accesskey = e
+pill-action-select-all-pills =
+    .label = Összes cím kiválasztása
+    .accesskey = k
 pill-action-move-to =
     .label = Áthelyezés a címzettbe
     .accesskey = t
@@ -75,25 +82,16 @@ context-menuitem-attach-files =
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } melléklet
-            [one] { $count } melléklet
-           *[other] { $count } melléklet
-        }
-    .accesskey = m
-expand-attachment-pane-tooltip =
-    .tooltiptext = A mellékletek ablaktábla megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = A mellékletek ablaktábla elrejtése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } melléklet
         [one] { $count } melléklet
        *[other] { $count } melléklet
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = A mellékletek ablaktábla megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = A mellékletek ablaktábla elrejtése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = A mellékletek ablaktábla megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
