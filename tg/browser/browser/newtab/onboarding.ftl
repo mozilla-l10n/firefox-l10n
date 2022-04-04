@@ -349,3 +349,5 @@ fx100-upgrade-thanks-header = 1000 рахмат ба Шумо
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ин 100-умин нашри { -brand-short-name }-и мост! Ташаккур ба <em>Шумо</em> барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Ин 100-умин нашри мост! Сипосгузорем, ки Шумо қисми ҷамъияти мо мебошед. { -brand-short-name }-ро дар масофаи на дур аз як клик барои 100 нашри дигар нигоҳ доред.
