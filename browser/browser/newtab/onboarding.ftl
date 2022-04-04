@@ -337,5 +337,7 @@ onboarding-live-language-skip-button-label = Überspringen
 # aesthetics of splitting it across multiple lines, the hyphen is omitted.
 fx100-thank-you-hero-text =
     100
-    Dankeschön
-    <span data-l10n-name="zap">an</span>
+    Mal
+    <span data-l10n-name="zap">Danke</span>
+fx100-thank-you-subtitle = Dies ist unsere 100. Version! Danke, dass du uns beim Aufbau eines besseren und gesünderen Internets hilfst.
+fx100-upgrade-thanks-header = 100 Mal Danke
