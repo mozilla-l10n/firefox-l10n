@@ -117,4 +117,5 @@
 <!ENTITY newsServerNamePrefix.label "Լուրերի սպասարկիչի անունը (NNTP).">
 <!ENTITY downloadOnLogin.label "Ներբեռնել նամակները հիմա">
 <!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY deferStorageDesc.label "Հանէք ընտրումը՝ այս հաշուի նամակը իր թղթապանակում տեսակաւորելու համար։ Այս հաշիւը կերեւայ, որպէս բարձր մակարդակի հաշիւ։ Այն կը լինի Local Folders Global մուտքային հաշուի մի մասնիկը։">
 <!ENTITY deferStorage.accesskey "G">
