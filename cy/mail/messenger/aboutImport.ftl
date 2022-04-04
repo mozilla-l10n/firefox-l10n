@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Dewiswch y cyfeiriadur yr hoffech ei fewnfori
 addr-book-directories-pane-source = Ffeil ffynhonnell:
 addr-book-import-into-new-directory = Crëwch gyfeiriadur newydd
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Dewiswch y ffeil iCalendar (.ics) yr hoffech ei mewnforio.
+calendar-items-loading = Wrthi'n llwytho eitemau…
+calendar-items-filter-input =
+    .placeholder = Hidlo eitemau…
+calendar-select-all-items = Dewis y cyfan
+calendar-deselect-all-items = Dad-ddewis y cyfan
+calendar-import-into-new-calendar = Creu calendr newydd
+
 ## Import dialog
 
 progress-pane-title = Yn mewnforio
@@ -65,6 +75,7 @@ error-pane-title = Gwall
 error-message-zip-file-too-big = Mae'r ffeil zip a ddewiswyd yn fwy na 2GB. Echdynnwch hi'n gyntaf, yna ei mewnforio o'r ffolder cafodd ei hechdynnu.
 error-message-extract-zip-file-failed = Wedi methu echdynnu'r ffeil zip. Echdynwch hi â llaw, yna ei mewnforio o'r ffolder wedi'i hechdynnu yn lle hynny.
 error-message-failed = Methodd y mewnforio yn annisgwyl, efallai y bydd mwy o wybodaeth ar gael yn y Consol Gwallau.
+error-failed-to-parse-ics-file = Heb ganfod unrhyw eitemau i'w mewnforio yn y ffeil.
 error-export-failed = Methodd y mewnforio yn annisgwyl, efallai y bydd rhagor o wybodaeth ar gael yn y Consol Gwallau.
 
 ## <csv-field-map> element

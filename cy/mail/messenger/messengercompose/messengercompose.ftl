@@ -38,6 +38,13 @@ pill-tooltip-not-in-address-book = Nid yw { $email } yn eich llyfr cyfeiriadau
 pill-action-edit =
     .label = Golygu Cyfeiriad
     .accesskey = G
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Dewis Pob Cyfeiriad yn { $type }
+    .accesskey = D
+pill-action-select-all-pills =
+    .label = Dewis Pob Cyfeiriad
+    .accesskey = D
 pill-action-move-to =
     .label = Symud i
     .accesskey = S
@@ -83,23 +90,6 @@ context-menuitem-attach-files =
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } Atodiad
-            [zero] { $count } Atodiadau
-            [one] { $count } Atodiad
-            [two] { $count } Atodiad
-            [few] { $count } Atodiad
-            [many] { $count } Atodiad
-           *[other] { $count } Atodiad
-        }
-    .accesskey = A
-expand-attachment-pane-tooltip =
-    .tooltiptext = Dangos y paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Cuddio'r paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } Atodiad
@@ -110,6 +100,10 @@ attachment-bucket-count-value =
         [many] { $count } Atodiad
        *[other] { $count } Atodiad
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Dangos y paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Cuddio'r paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Dangos y paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
