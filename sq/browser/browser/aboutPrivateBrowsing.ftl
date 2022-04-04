@@ -30,6 +30,10 @@ about-private-browsing-hide-activity = Fshihni veprimtarinë dhe vendndodhjen tu
 about-private-browsing-get-privacy = Përfitoni mbrojtje të privatësisë, kudo ku shfletoni
 about-private-browsing-hide-activity-1 = Fshihni me { -mozilla-vpn-brand-name }-in veprimtari shfletimi dhe vendndodhje. Një klikim krijon një lidhje të sigurt, madje edhe në Wi-Fi publik.
 about-private-browsing-prominent-cta = Jini privat, me { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Shkarko { -focus-brand-name }
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,5 +46,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Mbylle
-about-private-browsing-dismiss-button =
-    .title = Hidhe tej
+about-private-browsing-promo-close-button =
+    .title = Mbylle
