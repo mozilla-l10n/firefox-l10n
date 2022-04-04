@@ -18,3 +18,5 @@ spotlight-ios-marketplace-button =
 
 spotlight-focus-promo-title = Ստանալ { -focus-brand-name }
 spotlight-focus-promo-subtitle = Լուսապատճէնել QR այղագիրը։
+spotlight-focus-promo-qr-code =
+    .alt = Լուսապատճէնել QR այղագիրը ստանալու համար { -focus-brand-name }
