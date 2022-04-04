@@ -118,6 +118,7 @@ add-cloud-account =
 theme-label =
     .value = Հիմնապատկերներ
     .accesskey = T
+no-preview-description = Այս հիմնապատկերը վաւեր չէ կամ ներկայումս անհասանելի է։
 
 ## Preferences UI Search Results
 
