@@ -14,13 +14,13 @@ about-telemetry-option-group-yesterday = 어제
 about-telemetry-option-group-older = 이전
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
-about-telemetry-page-title = Telemetry 데이터
+about-telemetry-page-title = 원격 분석 데이터
 about-telemetry-current-store = 현재 저장소:
 about-telemetry-more-information = 자세한 정보를 찾고 계십니까?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 데이터 문서</a>에 데이터 도구를 사용하는 방법에 대한 안내서가 포함되어 있습니다.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry 클라이언트 문서</a>에 개요, API 문서 및 데이터 참조에 대한 정의가 포함되어 있습니다.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry 대시보드</a>를 사용하면 Telemetry를 통해 Mozilla가 받는 데이터를 시각화 할 수 있습니다.
-about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">프로브 사전</a>은 Telemetry에 의해 수집된 조사 내용에 대한 상세 정보와 설명을 제공합니다.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 원격 분석 클라이언트 문서</a>에 개요, API 문서 및 데이터 참조에 대한 정의가 포함되어 있습니다.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">원격 분석 대시보드</a>를 사용하면 원격 분석을 통해 Mozilla가 받는 데이터를 시각화 할 수 있습니다.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">프로브 사전</a>은 원격 분석에 의해 수집된 조사 내용에 대한 상세 정보와 설명을 제공합니다.
 about-telemetry-show-in-Firefox-json-viewer = JSON 뷰어에서 열기
 about-telemetry-home-section = 홈
 about-telemetry-general-data-section = 일반 데이터
@@ -38,7 +38,7 @@ about-telemetry-captured-stacks-section = 스택 캡처
 about-telemetry-late-writes-section = 최종 작성
 about-telemetry-raw-payload-section = 원시 페이로드
 about-telemetry-raw = 원시 JSON
-about-telemetry-full-sql-warning = 참고: 느린 SQL 디버깅이 활성화 되어 있습니다. 전체 SQL 문자열이 아래에 표시될 수 있지만 Telemetry에 제출되지는 않습니다.
+about-telemetry-full-sql-warning = 참고: 느린 SQL 디버깅이 활성화 되어 있습니다. 전체 SQL 문자열이 아래에 표시될 수 있지만 원격 분석에 제출되지는 않습니다.
 about-telemetry-fetch-stack-symbols = 스택에 대한 함수 이름 가져오기
 about-telemetry-hide-stack-symbols = 원시 스택 데이터 보기
 # Selects the correct release version
@@ -68,8 +68,8 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = 이 페이지는 Telemetry에 의해서 수집된 성능, 하드웨어, 사용 현황 및 사용자 정의에 대한 정보를 표시합니다. 이 정보는 { -brand-full-name }의 개선을 위해 { $telemetryServerOwner }에 제출됩니다.
-about-telemetry-settings-explanation = Telemetry가 { about-telemetry-data-type }를 수집 중이며 업로드는 <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>입니다.
+about-telemetry-page-subtitle = 이 페이지는 원격 분석에 의해서 수집된 성능, 하드웨어, 사용 현황 및 사용자 정의에 대한 정보를 표시합니다. 이 정보는 { -brand-full-name }의 개선을 위해 { $telemetryServerOwner }에 제출됩니다.
+about-telemetry-settings-explanation = 원격 분석이 { about-telemetry-data-type }를 수집 중이며 업로드는 <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>입니다.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
