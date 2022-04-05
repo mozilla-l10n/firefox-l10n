@@ -126,6 +126,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Գրել">
 <!ENTITY newmsgButton.accesskey                         "W">
+<!ENTITY newIM.label                                    "Առաջնահերթ նամակ">
 <!ENTITY newIM.accesskey                                "I">
 <!ENTITY printButton.label                              "Տպել…">
 <!ENTITY printButton.accesskey                          "P">
@@ -135,6 +136,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY removeButton.accesskey                         "R">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Ընտրել ցուցադրուող սիւնակները">
+<!ENTITY newContactButton.tooltip                       "Ստեղծել նոր հասցէ">
+<!ENTITY newlistButton.tooltip                          "Ստեղծել նոր ցանկ">
+<!ENTITY editPropertiesButton.tooltip                   "Խմբագրել ընտրուած տարրը">
+<!ENTITY editAbPropertiesButton.tooltip                 "Խմբագրել ընտրուած հասցէագրքի յատկութիւնները">
+<!ENTITY editContactPropertiesButton.tooltip            "Խմբագրել ընտրուած կապորդը">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Խմբագրել ընտրուած փոստացանկը">
+<!ENTITY newmsgButton.tooltip                           "Ուղարկել ել․ փոստի նամակ">
+<!ENTITY newIM.tooltip                                  "Ուղարկել ակնթարթային նամակը կամ զրոյցը">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
@@ -145,13 +155,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "Անուն">
 <!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.label                             "Ել․ փոստ">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Զրուցարանի անուն">
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Կազմակերպութիւն">
 <!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Կեղծանուն">
+<!ENTITY NickName.label                                 "Մականուն">
 <!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.label                              "Լրացուցիչ ել․ փոստ">
 <!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Բաժին">
 <!ENTITY Department.accesskey                           "r">
@@ -165,7 +177,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY HomePhone.accesskey                            "H">
 <!ENTITY WorkPhone.label                                "Աշխատանքային հեռախաւս">
 <!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY sortAscending.label                            "Վերընթաց">
 <!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.label                           "Վարընթաց">
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Հնչիւնաբանական անուն">
 <!ENTITY _PhoneticName.accesskey                        "o">
@@ -182,6 +196,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Նկարագրութիւն">
 <!ENTITY addresses.heading                              "Հասցէներ">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Ստանալ քարտեզը">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
