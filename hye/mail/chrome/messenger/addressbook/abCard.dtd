@@ -27,15 +27,22 @@
 <!ENTITY NameField1.accesskey           "F">
 <!ENTITY NameField2.label               "Վերջին․">
 <!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Արտասանութիւն:">
+<!ENTITY PhoneticField2.label           "Արտասանութիւն:">
+<!ENTITY DisplayName.label              "Ցուցադրիչ․">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Միշտ նամակի անունը ցուցադրել գլխագրից վեր">
 <!ENTITY preferDisplayName.accesskey    "y">
-<!ENTITY NickName.label                 "Կեղծանուն․">
+<!ENTITY NickName.label                 "Մականուն․">
 <!ENTITY NickName.accesskey             "Կ">
 
+<!ENTITY PrimaryEmail.label             "Ել․ փոստ․">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Լրացուցիչ ել֊հասցէ․">
+<!ENTITY SecondEmail.label              "Լրացուցիչ ել․ հասցէ․">
 <!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "Նախընտրում է ստանալ հաղորդագրութիւնները ձեւաչափուած որպէս՝">
 <!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "Պարզ գրուածք">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Անյայտ">
 <!ENTITY chatName.label                 "Զրուցարանի անուանում․">
@@ -44,7 +51,9 @@
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Տուն․">
 <!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Հեռապատճէն.">
 <!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Հեռատող․">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Բջջային․">
 <!ENTITY CellularNumber.accesskey       "b">
