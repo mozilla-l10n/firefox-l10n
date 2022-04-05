@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Թափաւնի կարգաւորումներ">
+<!ENTITY trainingDescription.label "Միացուած լինելու դէպքում նախ պէտք է մարզել &brandShortName; -ը թափաւն փոստը նոյնականացնելու համար՝ աւգտագործելով Junk գործիքագաւտու կոճակը՝ ուղերձները որպէս անպէտք կամ պէտքական նշելու համար: Դուք պետք է նոյնականացնէք ինչպէս անպէտք, այնպէս էլ պէտքական ուղերձները: Դրանից յետոյ &brandShortName; -ը կը կարողանայ ինքնաբերաբար նշել անպէտք նիշը:">
+<!ENTITY level.label "Միացնել այս հաշուի համար թափոն փոստի կառավարները">
 <!ENTITY level.accesskey "E">
 
 <!ENTITY move.accesskey "M">
