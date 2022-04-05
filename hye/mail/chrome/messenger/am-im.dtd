@@ -8,9 +8,9 @@
 <!ENTITY account.advanced              "Յառաջացաց Ընտրանքներ">
 <!ENTITY account.name                  "Աւգտանուն․">
 <!ENTITY account.password              "Գաղտնաբառ․">
-<!ENTITY account.alias                 "Կեղծանուն․">
+<!ENTITY account.alias                 "Այղանուն․">
 <!ENTITY account.newMailNotification   "Տեղեկացնել նոր նամակի մասին">
-<!ENTITY account.autojoin              "Ինքնակապակցման Ալիքներ.">
+<!ENTITY account.autojoin              "Ինքնակապակցման ալիքներ.">
 <!ENTITY account.proxySettings.caption "Միջնորդի Կարգաւորումներ.">
 <!ENTITY account.proxySettings.change.label     "Փոխել․․․">
 <!ENTITY account.proxySettings.change.accessKey "C">
