@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Addressing widget
+## Addressing widget
 
+#   $type (String) - the type of the addressing row
+remove-address-row-button =
+    .title = Fjern { $type }-feltet
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -36,8 +39,11 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Flytt til Blindkopi-feltet
     .accesskey = B
+pill-action-expand-list =
+    .label = Utvid liste
+    .accesskey = v
 
-# Attachment widget
+## Attachment widget
 
 ctrl-cmd-shift-pretty-prefix =
     { PLATFORM() ->
@@ -64,14 +70,6 @@ context-menuitem-attach-files =
     .label = Legg ved fil(er) …
     .accesskey = L
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } vedlegg
-           *[other] { $count } vedlegg
-        }
-    .accesskey = v
 expand-attachment-pane-tooltip =
     .tooltiptext = Vis vedleggspanelet ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
@@ -87,7 +85,7 @@ drop-file-label-inline =
        *[other] Sett inn innebygd
     }
 
-# Reorder Attachment Panel
+## Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Flytt først
@@ -101,10 +99,14 @@ button-return-receipt =
     .label = Kvittering
     .tooltiptext = Be om returkvittering for denne meldingen
 
-# Encryption
+## Encryption
 
+message-to-be-signed-icon =
+    .alt = Signer melding
+message-to-be-encrypted-icon =
+    .alt = Krypter melding
 
-# Addressing Area
+## Addressing Area
 
 to-compose-address-row-label =
     .value = Til
@@ -112,12 +114,70 @@ cc-compose-address-row-label =
     .value = Kopi
 bcc-compose-address-row-label =
     .value = Blindkopi
+to-address-row-label =
+    .value = Til
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Til-felt
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Til
+    .accesskey = T
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Til
+    .title = Vis Til-felt ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kopi
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kopi
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kopi
+    .title = Vis «Kopi»-felt ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Blindkopi
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Blindkopifelt
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Blindkopi
+    .accesskey = B
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Blindkopi
+    .title = Vis blindkopifelt ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+many-public-recipients-bcc =
+    .label = Bruk blindkopi i stedet
+    .accesskey = B
+many-public-recipients-prompt-cancel = Avbryt sending
+many-public-recipients-prompt-send = Send uansett
 
 ## Notifications
 
+encrypted-bcc-ignore-button = Forstått
 
 ## Editing
 
 
 # Tools
+
+
+## Filelink
+
+
+# Placeholder file
+
+
+# Template
+
+
+# Messages
 
