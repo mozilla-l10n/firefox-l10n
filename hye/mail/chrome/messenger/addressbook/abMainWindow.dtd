@@ -145,10 +145,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListPropertiesButton.tooltip        "Խմբագրել ընտրուած փոստացանկը">
 <!ENTITY newmsgButton.tooltip                           "Ուղարկել ել․ փոստի նամակ">
 <!ENTITY newIM.tooltip                                  "Ուղարկել ակնթարթային նամակը կամ զրոյցը">
+<!ENTITY deleteButton2.tooltip                          "Ջնջել ընտրուած տարրը">
+<!ENTITY removeButton.tooltip                           "Հերացնել տուեալ հասցէների գիրքը">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Անուն կամ ել․ փոստ">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY advancedButton.tooltip                         "Բարելաւուած հասցէների որոնում">
 <!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Արագ որոնում">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Հասցէագիրք">
@@ -171,7 +176,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Բջջային">
 <!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Հեռատող">
 <!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "Հեռապատճէն">
 <!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Տնային հեռախաւս">
 <!ENTITY HomePhone.accesskey                            "H">
@@ -197,11 +204,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Հասցէներ">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Ստանալ քարտեզը">
+<!ENTITY mapIt.tooltip                                  "Ցուցադրել այս հացէների քարտեզը ցանցում">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Պատուհան">
+<!ENTITY minimizeWindow.label                           "Փոքրացնել">
 <!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Բոլոր պատուհանները բերել առաջնային մաս">
 <!ENTITY zoomWindow.label                               "Խոշորացոյց">
