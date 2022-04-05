@@ -3,12 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Հասցէագիրք">
+<!ENTITY blankResultsPaneMessage.label                  "Այս հասցէագիրքը ցուցադրում է ցուցակները միայն որոնումից յետոյ">
+<!ENTITY localResultsOnlyMessage.label                  "Հեռակայ հասցէագրքի ցուցակները հասանելի չեն մինչեւ որոնումը">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Նիշ">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Նոր">
 <!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newContact.label                               "Հասցէգրքի կապորդ…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.accesskey                           "L">
