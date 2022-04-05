@@ -490,6 +490,8 @@
 <!ENTITY deleteJunk.accesskey "S">
 <!ENTITY importCmd.label "Importer …">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Eksporter …">
+<!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Slett nylig historikk …">
 <!ENTITY clearRecentHistory.accesskey "n">
 <!ENTITY accountManagerCmd2.label "Kontoinnstillinger">
@@ -696,7 +698,6 @@
 <!ENTITY locationColumn.label "Plassering">
 <!ENTITY idColumn.label "Mottaksrekkefølge">
 <!ENTITY attachmentColumn.label "Vedlegg-status">
-
 <!ENTITY deleteColumn.label "Slett">
 
 <!-- Thread Pane Tooltips -->
@@ -722,7 +723,6 @@
 <!ENTITY locationColumn2.tooltip "Sorter etter plassering">
 <!ENTITY idColumn2.tooltip "Sorter etter mottaksrekkefølge">
 <!ENTITY attachmentColumn2.tooltip "Sorter etter vedlegg">
-
 <!ENTITY deleteColumn.tooltip "Slett en melding">
 
 <!-- Thread Pane Context Menu -->
