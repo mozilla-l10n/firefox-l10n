@@ -3,13 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
+<!ENTITY mailListWindowAdd.title        "Նամակների նոր ցանկ">
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Աւելացնել․">
 <!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.label                 "Ցանկի անունը.">
 <!ENTITY ListName.accesskey             "Լ">
+<!ENTITY ListNickName.label             "Ցանկի մականուն․">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.label          "Նկարագրութիւն. ">
 <!ENTITY ListDescription.accesskey      "D">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Նշէք ել. հասցէներ՝ դրանք նամակների ցանկին աւելացնելու համար․">
 <!ENTITY AddressTitle.accesskey         "m">

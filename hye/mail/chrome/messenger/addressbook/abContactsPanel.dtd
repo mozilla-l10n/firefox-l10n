@@ -41,7 +41,9 @@
 <!ENTITY newListAbContext.label             "Նոր ցանկ">
 <!ENTITY newListAbContext.accesskey         "L">
 
-<!ENTITY toButton.label                     "Ում․">
+<!ENTITY toButton.label                     "Աւելացնել To դաշտում.">
 <!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Աւելացնել CC դաշտում.">
 <!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Աւելացնել Bcc դաշտում.">
 <!ENTITY bccButton.accesskey                "B">
