@@ -116,9 +116,16 @@ restore-default-label =
     .label = Bruk standard
     .accesskey = u
 default-search-engine = Standard søkemotor
+add-web-search-engine =
+    .label = Legg til …
+    .accesskey = L
 remove-search-engine =
     .label = Fjern
     .accesskey = e
+add-opensearch-provider-title = Legg til OpenSearch-tilbyder
+add-opensearch-provider-text = Skriv inn adressen til OpenSearch-tilbyderen du vil legge til. Bruk enten den direkte adressen til OpenSearch-beskrivelsesfilen, eller en adresse der den kan oppdages automatisk.
+adding-opensearch-provider-failed-title = Kunne ikke legge til OpenSearch-tilbyder
+adding-opensearch-provider-failed-text = Kunne ikke legge til OpenSearch-tilbyder for { $url }.
 minimize-to-tray-label =
     .label = Når { -brand-short-name } er minimert, flytt den til systemstatusfeltet
     .accesskey = m
@@ -142,6 +149,7 @@ app-icon-options =
     .label = Innstillinger for app-ikon …
     .accesskey = n
 notification-settings = Varsler og standardlyden kan deaktiveres i Varslinger-panelet i Systemvalg.
+notification-settings2 = Varsler og standardlyden kan deaktiveres i Varslinger-panelet i Systemvalg.
 animated-alert-label =
     .label = Vis en beskjed
     .accesskey = n
@@ -150,6 +158,10 @@ customize-alert-label =
     .accesskey = e
 biff-use-system-alert =
     .label = Bruk systemvarselet
+tray-icon-unread-label =
+    .label = Vis et ikon i systemkurven for uleste meldinger
+    .accesskey = V
+tray-icon-unread-description = Anbefalt ved bruk av små knapper på oppgavelinjen
 mail-system-sound-label =
     .label = Standard systemlyd for ny e-post
     .accesskey = S
@@ -181,6 +193,9 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Bruk jevn rulling
     .accesskey = r
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Vis alltid rullefelt
+    .accesskey = V
 system-integration-legend = Systemintegrasjon
 always-check-default =
     .label = Alltid kontroller om { -brand-short-name } er standard e-postklient ved oppstart
@@ -238,6 +253,9 @@ diskspace-legend = Diskplass
 offline-compact-folder =
     .label = Komprimer alle mapper når det vil spare mer enn
     .accesskey = K
+offline-compact-folder-automatically =
+    .label = Spør hver gang før det optimeres
+    .accesskey = h
 compact-folder-size =
     .value = MB totalt
 
@@ -300,6 +318,10 @@ smaller-size-item =
 quoted-text-color =
     .label = Farge:
     .accesskey = F
+search-handler-table =
+    .placeholder = Filtrer innholdstyper og handlinger
+type-column-header = Innholdstype
+action-column-header = Handling
 save-to-label =
     .label = Lagre filer til
     .accesskey = L
@@ -654,9 +676,31 @@ no-preview-description = Dette temaet er ikke gyldig eller er for øyeblikket ut
 chat-variant-label =
     .value = Variant:
     .accesskey = V
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Finn i Innstillinger
 
 ## Preferences UI Search Results
 
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input2 =
+    .style = width: 15.4em
+    .placeholder = Finn i Innstillinger
 
 ## Settings UI Search Results
 

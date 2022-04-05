@@ -11,8 +11,9 @@
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Melding">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newContact.label "Kontakt …">
+<!ENTITY newContact.label "Adressebokkontakt …">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
