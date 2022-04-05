@@ -14,16 +14,19 @@
 <!ENTITY newContact.label                               "Հասցէգրքի կապորդ…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.label                               "Փոստացանկ…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Հասցէգիրք…">
+<!ENTITY newAddressBookCmd.label                        "Հասցէագիրք…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցէգիրք…">
+<!ENTITY newCardDAVBookCmd.label                        "CardDAV Հասցէագիրք…">
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP գրացուցակ...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Հաղորդագրութիւն">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Աւգտագործել Mac OS X-ի հասցէագիրքը">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Փակել">
 <!ENTITY closeCmd.key                                   "W">
