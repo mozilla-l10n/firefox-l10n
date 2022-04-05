@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Seleccione el directorio al que desea importa
 addr-book-directories-pane-source = Archivo fuente:
 addr-book-import-into-new-directory = Crear nueva carpeta
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Seleccione el archivo iCalendar (.ics) que quiere importar.
+calendar-items-loading = Cargando elementos…
+calendar-items-filter-input =
+    .placeholder = Filtrar elementos…
+calendar-select-all-items = Seleccionar todo
+calendar-deselect-all-items = Deseleccionar todo
+calendar-import-into-new-calendar = Crear un nuevo calendario
+
 ## Import dialog
 
 progress-pane-title = Importando
@@ -65,6 +75,7 @@ error-pane-title = Error
 error-message-zip-file-too-big = El archivo zip seleccionado tiene más de 2GB. Primero extráigalo y luego impórtelo de la carpeta extraída.
 error-message-extract-zip-file-failed = Falló la extracción del archivo zip. Extráigalo de forma manual y luego impórtelo de la carpeta extraída.
 error-message-failed = La importación falló inesperadamente, puede haber más información disponible en la consola de errores.
+error-failed-to-parse-ics-file = No se encontraron elementos importables en el archivo.
 error-export-failed = La exportación falló inesperadamente, puede haber más información disponible en la consola de errores.
 
 ## <csv-field-map> element

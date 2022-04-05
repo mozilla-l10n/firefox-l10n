@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } no está en la libreta de direccio
 pill-action-edit =
     .label = Editar dirección
     .accesskey = e
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Seleccionar todas las direcciones en { $type }
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Seleccionar todas las direcciones
+    .accesskey = S
 pill-action-move-to =
     .label = Mover a Destinatario
     .accesskey = t
@@ -75,25 +82,16 @@ context-menuitem-attach-files =
     .accesskey = j
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } archivo adjunto
-            [one] { $count } archivos adjuntos
-           *[other] { $count } archivos adjuntos
-        }
-    .accesskey = m
-expand-attachment-pane-tooltip =
-    .tooltiptext = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Ocultar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key } )
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } adjunto
         [one] { $count } adjunto
        *[other] { $count } adjuntos
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Ocultar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key } )
 attachment-area-show =
     .title = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
