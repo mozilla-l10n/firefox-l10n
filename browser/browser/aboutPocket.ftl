@@ -26,6 +26,8 @@ pocket-panel-saved-saving-tags = Ukládání…
 pocket-panel-saved-suggested-tags = Doporučené štítky
 pocket-panel-saved-tags-saved = Štítky přidány
 pocket-panel-signup-view-list = Zobrazit seznam
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Přidat štítky:
 
 ## about:pocket-signup panel
 
@@ -56,7 +58,6 @@ pocket-panel-signup-tagline-story-one =
        *[other] aplikace { -brand-product-name }
     }.
 pocket-panel-signup-tagline-story-two = Zobrazení v { -pocket-brand-name(case: "loc") } kdykoliv a na jakémkoliv zařízení.
-pocket-panel-signup-cta-a = Vaše tlačítko „uložit“ pro internet.
 pocket-panel-signup-cta-a-fix = Vaše tlačítko „uložit“ pro internet
 pocket-panel-signup-cta-b = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy. Seznam si můžete kdykoliv zobrazit na kterémkoliv svém zařízení.
 pocket-panel-signup-cta-b-short = Klepnutím na tlačítko { -pocket-brand-name } můžete ukládat články, videa nebo odkazy.

@@ -244,6 +244,52 @@ containers-remove-cancel-button = Neodstraňovat tento kontejner
 
 language-and-appearance-header = Zobrazení a jazyk stránek
 fonts-and-colors-header = Písma a barvy
+preferences-web-appearance-header = Vzhled webových stránek
+preferences-web-appearance-description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
+preferences-web-appearance-choice-browser =
+    { -brand-short-name.gender ->
+        [masculine] Vzhled { -brand-short-name(case: "gen") }
+        [feminine] Vzhled { -brand-short-name(case: "gen") }
+        [neuter] Vzhled { -brand-short-name(case: "gen") }
+       *[other] Vzhled aplikace { -brand-short-name }
+    }
+preferences-web-appearance-choice-system = Podle systému
+preferences-web-appearance-choice-light = Světlý
+preferences-web-appearance-choice-dark = Tmavý
+preferences-web-appearance-choice-tooltip-browser =
+    .title =
+        { -brand-short-name.gender ->
+            [masculine] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
+            [feminine] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
+            [neuter] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu { -brand-short-name(case: "gen") }.
+           *[other] Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vzhledu aplikace { -brand-short-name }.
+        }
+preferences-web-appearance-choice-tooltip-system =
+    .title = Použije pro pozadí a obsah webových stránek vzhled s barevným tématem podle nastavení vašeho systému.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným tématem.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer =
+    { -brand-short-name.gender ->
+        [masculine] Vzhled { -brand-short-name(case: "gen") } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
+        [feminine] Vzhled { -brand-short-name(case: "gen") } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
+        [neuter] Vzhled { -brand-short-name(case: "gen") } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
+       *[other] Vzhled aplikace { -brand-short-name } nastavíte v <a data-l10n-name="themes-link">Doplňky a vzhledy</a>
+    }
+preferences-colors-header = Barvy
+preferences-colors-description = Nastavení výchozích barev pro text, odkazy a pozadí webových stránek.
+preferences-fonts-header = Písma
 default-font = Výchozí písmo
     .accesskey = p
 default-font-size = Velikost
