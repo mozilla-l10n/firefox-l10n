@@ -23,6 +23,13 @@ connection-dialog-window =
         }
 connection-disable-extension =
     .label = Slå av utvidelse
+disable-extension-button = Slå av utvidelse
+# Variables:
+#   $name (String) - The extension that is controlling the proxy settings.
+#
+# The extension-icon is the extension's icon, or a fallback image. It should be
+# purely decoration for the actual extension name, with alt="".
+proxy-settings-controlled-by-extension = En utvidelse, <img data-l10n-name="extension-icon" alt="" /> { $name }, styrer hvordan { -brand-short-name } kobler seg til internett.
 connection-proxy-legend = Konfigurer proxy for tilgang til Internett
 proxy-type-no =
     .label = Ingen proxy
