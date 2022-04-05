@@ -339,10 +339,17 @@ onboarding-live-language-skip-button-label = Pśeskócyś
 # aesthetics of splitting it across multiple lines, the hyphen is omitted.
 fx100-thank-you-hero-text =
     100
-    <span data-l10n-name="zap">źěkowanjow</span>
-fx100-thank-you-subtitle = Jo naša 100. wersija! Wjeliki źěk, až nam pomagaśo, lěpšy a strowšy internet natwariś.
+    raz
+    <span data-l10n-name="zap">wjeliki źěk</span>
+fx100-thank-you-subtitle = Jo naša 100. wersija! Źěkujomy se, až nam pomagaśo, lěpšy a strowšy internet natwariś.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Wobchowajśo { -brand-short-name } w doku
        *[other] Pśipěśo { -brand-short-name } k nadawkowej rědce
     }
+fx100-upgrade-thanks-header = 100 raz wjeliki źěk
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Jo naša 100. wersija { -brand-short-name }. Źěkujomy se <em>wam</em>, až nam pomagaśo, lěpšy, strowšy internet natwariś.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Jo naša 100. wersija! Źěkujomy se wam, až sćo źěl našogo zgromaźeństwa. Źaržćo { -brand-short-name } janož jadno kliknjenje wót pśiducych 100 zdalony.
