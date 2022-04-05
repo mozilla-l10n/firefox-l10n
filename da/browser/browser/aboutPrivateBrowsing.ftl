@@ -33,6 +33,10 @@ about-private-browsing-prominent-cta = Beskyt dit privatliv med { -mozilla-vpn-b
 about-private-browsing-focus-promo-cta = Hent { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat browsing på farten
 about-private-browsing-focus-promo-text = Vores browser dedikeret til at beskytte dit privatliv sletter automatisk din historik og dine cookies.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Bring privat browsing til din telefon
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -45,7 +49,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Luk
-about-private-browsing-dismiss-button =
-    .title = Afvis
 about-private-browsing-promo-close-button =
     .title = Luk
