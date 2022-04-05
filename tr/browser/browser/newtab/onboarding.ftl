@@ -322,4 +322,14 @@ fx100-thank-you-hero-text =
     kere
     <span data-l10n-name="zap">teşekkürler</span>
 fx100-thank-you-subtitle = 100. sürümümüze ulaştık! Daha iyi ve daha sağlıklı bir internet inşa etmemize destek verdiğiniz için teşekkür ederiz.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } tarayıcısını Dock’a sabitla
+       *[other] { -brand-short-name } tarayıcısını görev çubuğuma sabitle
+    }
 fx100-upgrade-thanks-header = 100 Kere Teşekkürler
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = { -brand-short-name } 100. sürüme ulaştı! Daha iyi ve daha sağlıklı bir internet inşa etmemize yardım ettiğiniz için <em>teşekkür ederiz</em>.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = 100. sürüme ulaştık! Topluluğumuzun bir parçası olduğunuz için teşekkür ederiz. Gelecek 100 sürümde daha { -brand-short-name } bir tık kadar yakınınızda olsun.
