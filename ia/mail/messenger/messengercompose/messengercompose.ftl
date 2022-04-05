@@ -30,6 +30,9 @@ pill-tooltip-not-in-address-book = { $e-mail } non es in tu libro del adresses
 pill-action-edit =
     .label = Modificar le adresse
     .accesskey = M
+pill-action-select-all-pills =
+    .label = Seliger tote le adresses
+    .accesskey = S
 pill-action-move-to =
     .label = Mover a A
     .accesskey = A
@@ -75,23 +78,15 @@ context-menuitem-attach-files =
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } Attachamento
-           *[other] { $count } Attachamentos
-        }
-    .accesskey = m
-expand-attachment-pane-tooltip =
-    .tooltiptext = Monstrar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Celar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } Attachamento
        *[other] { $count } Attachamentos
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Monstrar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Celar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Monstrar quadro de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
