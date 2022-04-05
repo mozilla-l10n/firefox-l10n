@@ -5,6 +5,15 @@
 e2e-intro-description = For å sende krypterte eller digitalt signerte meldinger, må du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
 e2e-intro-description-more = Velg din personlige nøkkel for å slå på OpenPGP, eller ditt personlige sertifikat for å slå på S/MIME. For en personlig nøkkel eller sertifikat eier du den tilsvarende hemmelige nøkkelen.
 e2e-advanced-section = Avanserte innstillinger
+e2e-attach-key =
+    .label = Legg ved min offentlige nøkkel når du legger til en digital OpenPGP-signatur
+    .accesskey = L
+e2e-encrypt-subject =
+    .label = Krypter emnet for OpenPGP-meldinger
+    .accesskey = K
+e2e-encrypt-drafts =
+    .label = Lagre utkast til meldinger i kryptert format
+    .accesskey = a
 openpgp-key-user-id-label = Konto / bruker-ID
 openpgp-keygen-title-label =
     .title = Generer OpenPGP-nøkkel
@@ -231,6 +240,7 @@ openpgp-key-details-expiry-header = Utløper
 openpgp-key-details-usage-label =
     .label = Bruk
 openpgp-key-details-fingerprint-label = Fingeravtrykk
+openpgp-key-details-legend-secret-missing = For nøkler merket med (!) er den hemmelige nøkkelen ikke tilgjengelig.
 openpgp-key-details-sel-action =
     .label = Velg handling…
     .accesskey = V
@@ -269,6 +279,8 @@ openpgp-description =
        *[other] Thunderbird fant { $count } personlige OpenPGP-nøkler assosierte med <b>{ $identity }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Din nåværende konfigurasjon bruker nøkkel-ID <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Din nåværende konfigurasjon bruker nøkkelen <b>{ $key }</b>, som er utløpt.
 openpgp-add-key-button =
     .label = Legg til nøkkel…
@@ -283,10 +295,17 @@ openpgp-keygen-external-success = Ekstern GnuPG-nøkkel-ID lagret!
 openpgp-radio-none =
     .label = Ingen
 openpgp-radio-none-desc = Ikke bruk OpenPGP for denne identiteten.
+openpgp-radio-key-not-usable = Denne nøkkelen kan ikke brukes som en personlig nøkkel, fordi den hemmelige nøkkelen mangler!
+openpgp-radio-key-not-accepted = For å bruke denne nøkkelen må du godkjenne den som en personlig nøkkel!
+openpgp-radio-key-not-found = Denne nøkkelen ble ikke funnet! Hvis du vil bruke den, må du importere den til { -brand-short-name }.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Utløper den: { $date }
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Utløpt den: { $date }
+openpgp-key-expires-within-6-months-icon =
+    .title = Nøkkelen utløper om under 6 måneder
+openpgp-key-has-expired-icon =
+    .title = Nøkkel utløpt
 openpgp-key-expand-section =
     .tooltiptext = Mer informasjon
 openpgp-key-revoke-title = Tilbakekall nøkkel
@@ -572,6 +591,12 @@ no-temp-dir =
 possibly-pgp-mime = Mulig PGP-/MIME-kryptert eller signert melding; bruk «Dekrypter/verifiser»-funksjonen for å bekrefte
 cannot-send-sig-because-no-own-key = Kan ikke signere denne meldingen digitalt, fordi du ennå ikke har konfigurert ende-til-ende-kryptering for <{ $key }>
 cannot-send-enc-because-no-own-key = Kan ikke sende denne meldingen kryptert, fordi du ennå ikke har konfigurert ende-til-ende-kryptering for <{ $key }>
+compose-menu-attach-key =
+    .label = Legg ved min offentlige nøkkel
+    .accesskey = L
+compose-menu-encrypt-subject =
+    .label = Emnekryptering
+    .accesskey = E
 # Strings used in decryption.jsm
 do-import-multiple =
     Importere følgende nøkler?
