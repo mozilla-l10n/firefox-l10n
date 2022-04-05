@@ -42,6 +42,9 @@
 <!ENTITY editMenu.accesskey                             "R">
 <!ENTITY deleteCmd.label                                "Slett">
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">
+<!ENTITY deleteAbCmd.accesskey                          "S">
+<!ENTITY removeAbCmd.label                              "Fjern adressebok">
+<!ENTITY removeAbCmd.accesskey                          "S">
 <!ENTITY deleteContactCmd.label                         "Slett kontakt">
 <!ENTITY deleteContactsCmd.label                        "Slett kontakter">
 <!ENTITY deleteListCmd.label                            "Slett liste">
@@ -129,6 +132,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "k">
 <!ENTITY deleteButton2.label                            "Slett">
 <!ENTITY deleteButton2.accesskey                        "S">
+<!ENTITY removeButton.label                             "Fjern">
+<!ENTITY removeButton.accesskey                         "F">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Velg kolonner å vise">
@@ -141,6 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en direktemelding eller chatt">
 <!ENTITY deleteButton2.tooltip                          "Slett valgt element">
+<!ENTITY removeButton.tooltip                           "Fjern den valgte adresseboken">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Navn eller e-post">
