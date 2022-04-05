@@ -19,10 +19,11 @@
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Անուն կամ ել․ հասցէ">
 
-<!ENTITY addtoToFieldMenu.label             "Աւելացնել «To» դաշտում">
+<!ENTITY addtoToFieldMenu.label             "Աւելացնել To դաշտում">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Աւելացնել CC դաշտում">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Աւելացնել Bcc դաշտում">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
@@ -30,9 +31,12 @@
 <!ENTITY propertiesContext.accesskey        "i">
 <!ENTITY abPropertiesContext.label          "Յատկութիւնները">
 <!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Փոփոխել կապորդին">
 <!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Փոփոխել ցանկը">
 <!ENTITY editMailingListContext.accesskey   "E">
 
+<!ENTITY newContactAbContext.label          "Նոր կապորդ">
 <!ENTITY newContactAbContext.accesskey      "C">
 <!ENTITY newListAbContext.label             "Նոր ցանկ">
 <!ENTITY newListAbContext.accesskey         "L">
