@@ -9,14 +9,19 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Կապի հատկութիւներ">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Փոստային ցուցակների յատկութիւներ">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Ցուցադրել հասցէների գրքի համատեքստի ընտրացանկը">
 <!ENTITY addressbookPicker.label            "Հասցէագիրք.">
 <!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "Փնտրել կապորդներ:">
 <!ENTITY searchContacts.accesskey           "n">
-<!ENTITY SearchNameOrEmail.label            "Անուն կամ ել-հասցէ">
+<!ENTITY SearchNameOrEmail.label            "Անուն կամ ել․ հասցէ">
 
+<!ENTITY addtoToFieldMenu.label             "Աւելացնել «To» դաշտում">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Աւելացնել CC դաշտում">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
