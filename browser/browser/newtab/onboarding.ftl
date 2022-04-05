@@ -16,7 +16,7 @@
 ## Welcome page strings
 
 onboarding-welcome-header = Víta vás { -brand-short-name }
-onboarding-start-browsing-button-label = Začať prehliadať
+onboarding-start-browsing-button-label = Poďme prehliadať
 onboarding-not-now-button-label = Teraz nie
 
 ## Custom Return To AMO onboarding strings
