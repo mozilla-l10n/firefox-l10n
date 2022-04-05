@@ -57,8 +57,12 @@ addr-book-import-into-new-directory = 新建文件夹
 ## Import from address book file steps
 
 import-from-calendar-file-desc = 选择您要导入的 iCalendar（.ics）文件。
+calendar-items-loading = 正在加载项目…
+calendar-items-filter-input =
+    .placeholder = 过滤项目…
 calendar-select-all-items = 全选
 calendar-deselect-all-items = 取消全选
+calendar-import-into-new-calendar = 创建新日历
 
 ## Import dialog
 
@@ -71,6 +75,7 @@ error-pane-title = 错误
 error-message-zip-file-too-big = 所选的 ZIP 文件大于 2GB。请先解压缩，然后从解压缩的文件夹中导入。
 error-message-extract-zip-file-failed = 无法解压缩 ZIP 文件。请手动解压缩，并导入解压缩后的文件夹。
 error-message-failed = 导入意外失败，错误控制台中可能提供有更多信息。
+error-failed-to-parse-ics-file = 文件中未找到可导入项目。
 error-export-failed = 导入意外失败，错误控制台中可能提供更多信息。
 
 ## <csv-field-map> element

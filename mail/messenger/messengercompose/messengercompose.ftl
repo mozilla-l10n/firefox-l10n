@@ -29,6 +29,13 @@ pill-tooltip-not-in-address-book = { $email } 不在您的通讯录中
 pill-action-edit =
     .label = 编辑地址
     .accesskey = e
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = 选择所有{ $type }地址
+    .accesskey = A
+pill-action-select-all-pills =
+    .label = 选择所有地址
+    .accesskey = S
 pill-action-move-to =
     .label = 移动到“收件人”
     .accesskey = t
@@ -74,23 +81,15 @@ context-menuitem-attach-files =
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [0] 无附件
-           *[other] { $count } 个附件
-        }
-    .accesskey = m
-expand-attachment-pane-tooltip =
-    .tooltiptext = 显示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
-collapse-attachment-pane-tooltip =
-    .tooltiptext = 隐藏附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } 个附件
        *[other] { $count } 个附件
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = 显示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
+collapse-attachment-pane-tooltip =
+    .tooltiptext = 隐藏附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
 attachment-area-show =
     .title = 显示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
 attachment-area-hide =
