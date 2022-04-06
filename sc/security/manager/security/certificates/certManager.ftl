@@ -2,9 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Gestore de tzertificados
 certmgr-tab-people =
     .label = Pessones
-
 certmgr-cert-server =
     .label = Server
 
@@ -20,12 +21,11 @@ certmgr-cert-server =
 ## For Deleting Certificates
 
 
-## Cert Viewer
-
-
 ## Used to show whether an override is temporary or permanent
 
+
 ## Add Security Exception dialog
+
 
 ## Certificate export "Save as" and error dialogs
 

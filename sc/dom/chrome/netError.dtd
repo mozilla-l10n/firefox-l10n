@@ -9,6 +9,7 @@
 
 <!ENTITY connectionFailure.title "Faddina in sa connessione">
 
+<!ENTITY deniedPortAccess.title "Sa ghenna est istada restrinta pro resones de seguresa">
 
 <!ENTITY dnsNotFound.title "Indiritzu no agatadu">
 
@@ -23,6 +24,7 @@
 <!ENTITY malformedURI.title "Indiritzu non vàlidu">
 
 
+<!ENTITY notCached.title "Documentu iscadidu">
 
 <!ENTITY netOffline.title "Modalidade foras de lìnia">
 
