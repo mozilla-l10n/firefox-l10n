@@ -88,6 +88,12 @@ upgrade-dialog-default-secondary-button = Не сада
 upgrade-dialog-theme-title-2 = Почните изнова са новом темом
 upgrade-dialog-theme-system = Системска тема
     .title = Користите тему оперативног система за дугмад, меније и прозоре
+
+## Start screen
+
+
+## Colorway screen
+
 upgrade-dialog-theme-light = Светла
     .title = Користите светлу тему за дугмад, меније и прозоре
 upgrade-dialog-theme-dark = Тамна
@@ -104,3 +110,10 @@ upgrade-dialog-theme-keep = Задржи претходну
         }
 upgrade-dialog-theme-primary-button = Сачувај тему
 upgrade-dialog-theme-secondary-button = Не сада
+
+## Thank you screen
+
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Хвала вам што сте нас изабрали
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } је независтан прегледач подржан од стране непрофитног удружења. Заједно стварамо безбеднији, здравији и приватнији веб.
+upgrade-dialog-thankyou-primary-button = Започни прегледање
