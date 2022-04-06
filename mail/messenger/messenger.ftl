@@ -164,6 +164,16 @@ decrypt-and-copy-failures = { $failures }/{ $total } viestin salausta ei voitu p
 
 ## Spaces toolbar
 
+spaces-toolbar-button-mail2 =
+    .title = Sähköposti
+spaces-toolbar-button-address-book2 =
+    .title = Osoitekirja
+spaces-toolbar-button-calendar2 =
+    .title = Kalenteri
+spaces-toolbar-button-tasks2 =
+    .title = Tehtävät
+spaces-toolbar-button-chat2 =
+    .title = Keskustelu
 spaces-context-new-tab-item =
     .label = Avaa uudessa välilehdessä
 spaces-context-new-window-item =
