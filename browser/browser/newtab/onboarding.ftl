@@ -321,3 +321,14 @@ fx100-thank-you-hero-text =
     100
     <span data-l10n-name="zap">dankojn</span>
 fx100-thank-you-subtitle = Tiu ĉi estas nia 100a eldono! Dankon pro tio ke vi helpas nin konstrui pli bonan, pli sanan, interreton.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Alpingli { -brand-short-name } al Dock
+       *[other] Alpingli { -brand-short-name } al la taska ilaro
+    }
+fx100-upgrade-thanks-header = 100 dankojn
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Tiu ĉi estas nia 100a eldono de { -brand-short-name }. <em>Dankon</em> pro tio ke vi helpas nin konstrui pli bonan, pli sanan, interreton.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Tiu ĉi estas nia 100a eldono! Dankon pro via partopreno en nia komunumo. Gardu { -brand-short-name } atingebla per unu alklako por la venontaj 100 eldonoj.
