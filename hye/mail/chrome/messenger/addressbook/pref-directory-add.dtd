@@ -23,12 +23,19 @@
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Շրջանակ:">
 <!ENTITY scope.accesskey                   "c">
+<!ENTITY scopeOneLevel.label               "Առաջին մակարդակ">
 <!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeSubtree.label                "Ենթախումբ">
 <!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "Մի՛ վերադարձրեք աւելին, քան․․․">
+<!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "արդիւնքներ">
+<!ENTITY offlineText.label                 "Կարող էք ներբեռնել այս գրացուցակի տեղական պատճէնը ,որպէսզի լինի հասանելի անցանց աւգտագրծման դեպքում։">
+<!ENTITY saslMechanism.label               "Մուտքի եղանակ․">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Հասարակ">
 <!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "Կ">
 
 <!-- Localization note: this is here because the width of the dialog
