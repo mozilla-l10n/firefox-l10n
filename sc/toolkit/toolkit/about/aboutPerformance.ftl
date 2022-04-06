@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = Gestore de tareas
 
 ## Column headers
 
@@ -30,3 +32,5 @@ ghost-windows = Ischedas serradas de reghente
 
 close-tab =
     .title = Serra s'ischeda
+show-addon =
+    .title = Ammustra su gestore de cumplementos

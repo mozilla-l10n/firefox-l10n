@@ -277,4 +277,8 @@ addon-permissions-learnmore = Àteras informatziones subra de is permissos
 
 ## Page headings
 
+theme-heading = Gesti is temas tuos
+plugin-heading = Gesti is cumplementos tuos
+dictionary-heading = Gesti is ditzionàrios tuos
 locale-heading = Gesti is lìnguas
+updates-heading = Gesti is atualizatziones tuas

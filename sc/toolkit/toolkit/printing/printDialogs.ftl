@@ -2,12 +2,49 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = Cunfiguratzione de pàgina
+custom-prompt-title = Personalizada…
+custom-prompt-prompt = Inserta su testu personalizadu pro s'intestada e su fundu
+basic-tab =
+    .label = Formadu e optziones
+advanced-tab =
+    .label = Làcanas, intestada e pee de pàgina
+format-group-label =
+    .value = Formadu
+orientation-label =
+    .value = Orientamentu:
+portrait =
+    .label = Verticale
+    .accesskey = V
+landscape =
+    .label = Orizontale
+    .accesskey = O
+scale =
+    .label = Iscala:
+    .accesskey = I
+scale-percent =
+    .value = %
+shrink-to-fit =
+    .label = Istringhe pro adatare a sa longhesa de sa pàgina
+    .accesskey = I
 options-group-label =
     .value = Optziones
+print-bg =
+    .label = Imprenta isfundu (colores e immàgines)
+    .accesskey = I
+margin-group-label-inches =
+    .value = Làcanas (pòddighes)
+margin-group-label-metric =
+    .value = Làcanas (millìmetros)
+margin-top =
+    .value = Superiore:
+    .accesskey = S
+margin-top-invisible =
+    .value = Superiore:
 hf-title =
     .label = Tìtulu
 hf-url =
     .label = URL
-
 dialog-cancel-label = Annulla
 dialog-close-label = Serra
