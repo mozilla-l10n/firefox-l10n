@@ -48,11 +48,20 @@ protections-close-button2 =
 lockwise-title = Non t'iscaressas mai prus nissuna crae
 lockwise-title-logged-in2 = Gestione de craes
 lockwise-header-content = { -lockwise-brand-name } sarvat is craes in manera segura a intro de su navigadore.
+passwords-title-logged-in = Gesti is craes tuas
+passwords-header-content = { -brand-product-name } sarvat is craes tuas in manera segura a intro de su navigadore.
 lockwise-header-content-logged-in = Sarva e sincroniza in manera segura is craes pro totu is dispositivos tuos.
 protection-report-save-passwords-button = Sarva craes
     .title = Sarva craes in { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Gesti is craes
     .title = Gesti is craes in { -lockwise-brand-short-name }
+lockwise-mobile-app-title = Bati·ti·nche is craes tuas in ònnia logu
+lockwise-no-logins-card-content = Imprea is craes sarvadas in { -brand-short-name } in cale si siat dispositivu.
+lockwise-app-links = { -lockwise-brand-name } pro <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+protection-report-passwords-save-passwords-button = Sarva craes
+    .title = Sarva craes
+protection-report-passwords-manage-passwords-button = Gesti is craes
+    .title = Gesti is craes
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -65,6 +74,8 @@ lockwise-scanned-text-no-breached-logins =
 lockwise-how-it-works-link = Comente funtzionat
 monitor-link = Comente funtzionat
 monitor-no-breaches-title = Noas bellas!
+monitor-manage-breaches-link = Gesti is violatziones
+    .title = Gesti is violatziones in { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
