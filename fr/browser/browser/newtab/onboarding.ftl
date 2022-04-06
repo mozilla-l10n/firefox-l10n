@@ -337,15 +337,15 @@ onboarding-live-language-skip-button-label = Ignorer
 # aesthetics of splitting it across multiple lines, the hyphen is omitted.
 fx100-thank-you-hero-text =
     100
-    mercis à
-    <span data-l10n-name="zap">vous</span>
+    fois
+    <span data-l10n-name="zap">merci</span>
 fx100-thank-you-subtitle = C’est notre 100ᵉ version ! Merci de nous aider à construire un Internet meilleur et plus sain.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Conserver { -brand-short-name } dans le Dock
        *[other] Épingler { -brand-short-name } à la barre des tâches
     }
-fx100-upgrade-thanks-header = 100 mercis
+fx100-upgrade-thanks-header = 100 fois merci
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Il s’agit de notre 100ᵉ version de { -brand-short-name }. <em>Merci</em> de nous aider à construire un Internet meilleur et plus sain.
