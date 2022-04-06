@@ -137,9 +137,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Atualizações recentes
 addon-category-recent-updates-title =
     .title = Atualizações recentes
-addon-category-sitepermission = Permissões do site
+addon-category-sitepermission = Permissões de sites
 addon-category-sitepermission-title =
-    .title = Permissões do site
+    .title = Permissões de sites
 
 ## These are global warnings
 
@@ -386,7 +386,7 @@ plugin-heading = Gerenciamento de plugins
 dictionary-heading = Gerenciamento de dicionários
 locale-heading = Gerenciamento de idiomas
 updates-heading = Gerencie suas atualizações
-sitepermission-heading = Gerenciar suas permissões do site
+sitepermission-heading = Gerenciar permissões de sites
 discover-heading = Personalize o { -brand-short-name }
 shortcuts-heading = Gerenciar atalhos de extensões
 default-heading-search-label = Encontrar mais extensões
