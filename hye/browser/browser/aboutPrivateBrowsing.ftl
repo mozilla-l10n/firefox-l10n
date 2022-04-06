@@ -35,6 +35,7 @@ about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Սկսել գաղտնի դիտարկում հեռախաւսով
+about-private-browsing-focus-promo-text-b = Աւգտագործէք { -focus-brand-name } այն գաղտնի որոնումների համար, որոնք Դուք չէք ցանկանում, որ Ձեր հիմնական բջջային զննարկիչը տեսնի:
 about-private-browsing-focus-promo-header-c = Գաղտնիութեան նոր փուլ հեռախուսում
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } մաքրում է Ձեր պատմութիւնը ամէն անգամ՝ արգելափակելով գովազդներն ու հետագծերը:
 # This string is the title for the banner for search engine selection
