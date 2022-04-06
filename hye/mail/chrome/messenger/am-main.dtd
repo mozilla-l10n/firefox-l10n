@@ -13,13 +13,18 @@
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "էլ֊հասցէ.">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Պատասխանէք այս ինքնութիւնից, երբ ստացած էջագլուխները համընկնում են.">
 <!ENTITY catchAll.accesskey "d">
+<!ENTITY replyTo.label "Պատասխանել հասցէին.">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Ստացողները կը պատասխանեն այս այղ հասցէին">
 <!ENTITY organization.label "Կազմակերպութիւն.">
 <!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Ստորագրութեան գրոյթը․">
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Աւգտագործել HTML (աւր.՝ &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Կցել ստորագրութիւնը նիշից (գրոյթ, HTML կամ պատկեր)․">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Խմբագրել…">
 <!ENTITY choose.label "Ընտրել…">
@@ -30,9 +35,11 @@
 <!ENTITY attachVCard.label "Կցել իմ vCard նամակներին">
 <!ENTITY attachVCard.accesskey "v">
 
+<!ENTITY manageIdentities.label "Կառաւարել իսկութիւնը…">
 <!ENTITY manageIdentities.accesskey "M">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Ելքային սպասարկիչ (SMTP).">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Աւգտագործել սկզբնադիր սպասարկիչը">
 
