@@ -214,6 +214,7 @@ newtab-empty-section-topstories = As giai bidu totu. Torra a chircare prus a tar
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = As giai bidu totu!
 newtab-discovery-empty-section-topstories-content = Controlla prus a tardu si ddoe at a èssere àteras istòrias.
 newtab-discovery-empty-section-topstories-try-again-button = Torra·bi a proare
 newtab-discovery-empty-section-topstories-loading = Carrighende...

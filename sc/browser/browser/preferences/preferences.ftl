@@ -144,18 +144,42 @@ confirm-on-close-multiple-tabs =
 confirm-on-quit-with-key =
     .label = Cunfirma prima de essire cun { $quitKey }
     .accesskey = u
+warn-on-open-many-tabs =
+    .label = Avisa cando abèrrere tropu ischedas potzat allentare { -brand-short-name }
+    .accesskey = v
 switch-to-new-tabs =
     .label = Cando aberis unu ligòngiu, un'immàgine o un'elementu multimediale in un'ischeda noa, cola·bi deretu
     .accesskey = n
 show-tabs-in-taskbar =
     .label = Ammustra previsualizatziones de ischeda in sa barra de tareas de Windows
     .accesskey = t
+browser-containers-enabled =
+    .label = Ativa ischedas cuntenidoras
+    .accesskey = n
 browser-containers-learn-more = Leghe àteru
 browser-containers-settings =
     .label = Cunfiguratzione…
     .accesskey = u
+containers-disable-alert-title = Boles serrare totu is ischedas cuntenidoras?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si disativas custu cuntenidore immoe, s'at a serrare { $count } ischeda cuntenidora. Seguru chi boles disativare custu cuntenidore?
+       *[other] Si disativas custu cuntenidore immoe, s'ant a serrare { $count } ischedas cuntenidoras. Seguru chi boles disativare custu cuntenidore?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Serra { $tabCount } ischeda cuntenidora
+       *[other] Serra { $tabCount } ischedas cuntenidoras
+    }
 containers-disable-alert-cancel-button = Mantene ativadas
 containers-remove-alert-title = Boles bogare custu cuntenidore?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si bogas custu cuntenidore immoe, s'at a serrare { $count } ischeda cuntenidora. Seguru chi boles bogare custu cuntenidore?
+       *[other] Si bogas custu cuntenidore immoe, s'ant a serrare { $count } ischedas cuntenidoras. Seguru chi boles bogare custu cuntenidore?
+    }
 containers-remove-ok-button = Boga custu cuntenidore
 
 ## General Section - Language & Appearance
@@ -232,6 +256,7 @@ download-always-ask-where =
     .label = Pregonta semper su percursu de sarvamentu de archìvios
     .accesskey = D
 applications-header = Aplicatziones
+applications-description = Sèbera comente { -brand-short-name } depet gestire is archìvios chi iscàrrigas dae su web o is aplicatziones chi impreas cando nàvigas.
 applications-filter =
     .placeholder = Chirca genias de archìviu o aplicatziones
 applications-type-column =
@@ -306,6 +331,9 @@ applications-use-os-default-label =
 ##
 
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
+play-drm-content =
+    .label = Reprodue cuntenutu protetu dae DRM
+    .accesskey = R
 play-drm-content-learn-more = Leghe àteru
 update-application-title = Atualizatziones de { -brand-short-name }
 update-application-description = Mantene { -brand-short-name } atualizada pro una seguresa, istabilidade e rendimentu òtimos.
@@ -313,6 +341,7 @@ update-application-version = Versione { $version }<a data-l10n-name="learn-more"
 update-history =
     .label = Ammustra sa cronologia de atualizatziones…
     .accesskey = z
+update-application-allow-description = Permite a { -brand-short-name } de
 update-application-auto =
     .label = Installa atualizatziones in automàticu (cussigiadu)
     .accesskey = I
@@ -329,6 +358,9 @@ update-application-warning-cross-user-setting = Custa cunfiguratzione at a èsse
 update-application-use-service =
     .label = Installa is atualizatziones in segundu pranu
     .accesskey = g
+update-application-suppress-prompts =
+    .label = Ammustra prus pagu notìficas de atualizatzione
+    .accesskey = n
 update-setting-write-failure-title2 = Faddina in su sarvamentu de is cunfiguratziones de atualizatzione
 update-in-progress-title = Atualizatzione in cursu
 update-in-progress-message = Boles chi { -brand-short-name } andet a in antis cun custa atualizatzione?
@@ -365,6 +397,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Imprea iscurrimentu flùidu
     .accesskey = m
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Ammustra semper is barras de iscurrimentu
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = Ammustra unu tecladu tàtile cando siat netzessàriu
     .accesskey = c
@@ -374,6 +409,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Chirca su testu cando cumintzas a iscrìere
     .accesskey = z
+browsing-picture-in-picture-toggle-enabled =
+    .label = Ativa is cumandos vìdeu de immàgine-subra-immàgine
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Àteras informatziones
 browsing-media-control =
     .label = Controlla su cuntenutu multimediale cun su tecladu, is cùfias o s'interfache virtuale
@@ -547,6 +585,13 @@ search-keyword-warning-bookmark = As seberadu unu faeddu crae chi est giai imper
 
 containers-back-button2 =
     .aria-label = Torra a sa cunfiguratzione
+containers-header = Ischedas cuntenidoras
+containers-add-button =
+    .label = Agiunghe unu cuntenidore nou
+    .accesskey = A
+containers-new-tab-check =
+    .label = Sèbera unu cuntenidore pro ònnia ischeda noa
+    .accesskey = S
 containers-settings-button =
     .label = Cunfiguratzione
 containers-remove-button =
@@ -555,6 +600,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Bati·ti·nche·ddu in ònnia logu, su web tuo
 sync-signedout-description2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
 sync-signedout-account-signin3 =
     .label = Identìfica·ti pro sincronizare…
@@ -691,7 +737,14 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Cussìgia e gènera craes fortes
     .accesskey = u
+forms-breach-alerts =
+    .label = Ammustra avisos subra de is craes pro is sitos vìtima de violatzione de datos
+    .accesskey = v
 forms-breach-alerts-learn-more-link = Àteras informatziones
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Cumpleta in automàticu is credentziales e is craes
+    .accesskey = e
 forms-saved-logins =
     .label = Credentziales sarvadas…
     .accesskey = l
@@ -714,11 +767,15 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Prima fiat tzerriada "crae maistra"
 forms-primary-pw-fips-title = Immoe ses in modalidade FIPS. FIPS rechedet una crae printzipale chi non siat bòida.
 forms-master-pw-fips-desc = Faddina in sa modìfica de sa crae
+forms-windows-sso =
+    .label = Permite s'autenticatzione ùnica de Windows pro is contos de traballu o de istrutzione de Microsoft
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pro creare una crae printzipale, inserta is credentziales tuas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -798,10 +855,18 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Testimòngios de sighidura intre sitos (includet testimòngios de retes sotziales)
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Testimòngios intre sitos (includet testimòngios de retes sotziales)
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Testimòngios de sighidura intre sitos
+sitedata-option-block-cross-site-cookies =
+    .label = Testimòngios de sighidura intre sitos, e assola àteros testimòngios intre sitos
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Sighidores intre sitos e de retes sotziales, assola is àteros testimòngios
 sitedata-option-block-unvisited =
     .label = Testimòngios de sitos chi no as bisitadu
+sitedata-option-block-all-third-party =
+    .label = Totu is testimòngios de àteras partes (diat pòdere causare chi unos cantos sitos non funtzionent)
+sitedata-option-block-all =
+    .label = Totu is testimòngios (unos cantos sitos no ant a funtzionare)
 sitedata-clear =
     .label = Isbòida is datos…
     .accesskey = I
@@ -859,6 +924,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Echilìbriu intre amparu e rendimentu. Is pàginas s'ant a carrigare cun normalidade.
+content-blocking-etp-strict-desc = Amparu prus poderosu, però diat pòdere causare chi unos cantos sitos o cuntenutos non funtzionent.
 content-blocking-etp-custom-desc = Sèbera cale elementos de sighidura e scripts depent èssere blocados.
 content-blocking-etp-blocking-desc = { -brand-short-name } blocat:
 content-blocking-private-windows = Cuntenutu de sighimentu in ventanas privadas
@@ -870,6 +936,7 @@ content-blocking-social-media-trackers = Sighidores de retes sotziales
 content-blocking-all-cookies = Totu is testimòngios
 content-blocking-unvisited-cookies = Testimòngios de sitos web chi no as bisitadu
 content-blocking-all-windows-tracking-content = Cuntenutu de sighimentu in totu is ventanas
+content-blocking-all-third-party-cookies = Totu is testimòngios de àteras partes
 content-blocking-cryptominers = Cripto-minadores
 content-blocking-fingerprinters = Generadores de imprentas digitales
 # "Test pilot" is used as a verb. Possible alternatives:
@@ -948,9 +1015,21 @@ permissions-autoplay = Riprodutzione in automàticu
 permissions-autoplay-settings =
     .label = Cunfiguratzione…
     .accesskey = t
+permissions-block-popups =
+    .label = Bloca is ventanas emergentes
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Etzetziones…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Etzetziones…
+    .accesskey = E
+    .searchkeywords = ventanas emergentes
+permissions-addon-install-warning =
+    .label = Avisa si unu situ proat a installare cumplementos
+    .accesskey = A
 permissions-addon-exceptions =
     .label = Etzetziones…
     .accesskey = E
@@ -964,6 +1043,8 @@ collection-health-report =
     .label = Permite chi { -brand-short-name } imbiet datos tècnicos e de interatzione a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Àteras informatziones
+collection-studies =
+    .label = Permite a { -brand-short-name } de installare e aviare istùdios
 collection-studies-link = Ammustra is istùdios de { -brand-short-name }
 addon-recommendations =
     .label = Permite chi { -brand-short-name } cussiget estensiones personalizadas
@@ -986,9 +1067,13 @@ security-enable-safe-browsing-link = Àteras informatziones
 security-block-downloads =
     .label = Bloca is iscarrigamentos perigulosos
     .accesskey = p
+security-block-uncommon-software =
+    .label = Avisa subra de programmas non disigiados e pagu iscarrigados
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
+certs-header = Tzertificados
 certs-view =
     .label = Ammustra is tzertificados…
     .accesskey = A

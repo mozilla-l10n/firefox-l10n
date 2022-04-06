@@ -156,3 +156,15 @@ spotlight-total-cookie-protection-body = S'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-expanded = { -brand-short-name } creat una cresura a inghìriu de is testimòngios, limitende·ddos a su situ in ue ses, in manera chi is sighidores non ddos potzant impreare pro ti sighire. Impreende custa funtzionalidade in antìtzipu, as a agiudare a dda megiorare, pro creare una rete megiore pro totus.
 spotlight-total-cookie-protection-primary-button = Ativa s'amparu totale contra is testimòngios
 spotlight-total-cookie-protection-secondary-button = Immoe nono
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-body = Impreende { -brand-short-name }, ses votende pro unu internet prus abertu e atzessìbile, chi est mègius pro totus.
+spotlight-peace-mind-header = Semus semper cun tue
+spotlight-peace-mind-body = Ònnia mese, { -brand-short-name } blocat una mèdia de prus che 3.000 sighiduras pro ònnia utente. Proite nudda si diat dèpere pònnere in mesu intre tue e s'internet bonu, mescamente genas pro sa riservadesa che a is sighiduras.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Apica a su Dock
+       *[other] Apica a sa barra de is tareas
+    }
+spotlight-pin-secondary-button = Immoe nono

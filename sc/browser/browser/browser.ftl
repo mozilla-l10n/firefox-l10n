@@ -518,7 +518,7 @@ urlbar-result-action-search-tabs = Chirca in ischedas
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -740,6 +740,12 @@ picture-in-picture-hide-toggle =
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Move su butone immàgine-subra-immàgine a dereta
+    .accesskey = d
+picture-in-picture-move-toggle-left =
+    .label = Move su butone immàgine-subra-immàgine a manca
+    .accesskey = m
 
 ##
 

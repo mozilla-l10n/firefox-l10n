@@ -67,6 +67,8 @@ policy-ExtensionUpdate = Ativa o disativa s'atualizatzione automàtica de is est
 policy-FirefoxHome = Cunfigura Firefox Home.
 policy-FlashPlugin = Permite o proibi s'impreu de su cumplementu de Flash.
 policy-HardwareAcceleration = Si su valore est "false", s'atzellerada hardware est istudada.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Cunfigura e, si boles, bloca sa pàgina initziale.
 policy-InstallAddonsPermission = Permite a tzertos sitos de installare cumplementos.
 policy-LegacyProfiles = Istuda sa funtzione chi rechedet unu profilu separadu pro ònnia installatzione.
 
@@ -91,8 +93,23 @@ policy-OverridePostUpdatePage = Càmbia sa pàgina "Novidades" ammustrada a pust
 policy-PasswordManagerEnabled = Ativa su sarvamentu de is craes is su gestore de is craes.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Disativa o cunfigura PDF.js, su visualizadore de PDF inclùdidu in { -brand-short-name }
+policy-Permissions2 = Cunfigura is permissos pro càmera, micròfonu, positzione, notìficas e riprodutzione in automàticu.
+policy-PictureInPicture = Ativa o disativa Immàgine-subra-immàgine
+policy-Preferences = Cunfigura e bloca is valores pro una parte de is preferèntzias.
 policy-PromptForDownloadLocation = Pregunta in ue sarvare is archìvios de iscarrigare.
+policy-Proxy = Cunfiguratzione de serbidore intermediàriu.
+policy-RequestedLocales = Cunfigura sa lista de locales bòlidos pro s'aplicatzione in òrdine de preferèntzia.
 policy-SanitizeOnShutdown2 = Cantzella is datos de navigatzione a s'essida.
+policy-SearchBar = Sèbera su logu predefinidu pro sa barra de chirca. S'utente dda podet semper mudare.
+policy-SearchEngines = Cunfiguratzione de su motore de chirca. Custa polìtica est a disponimentu isceti in sa versione a suportu estèndidu (ESR, Extended Support Release).
 policy-SearchSuggestEnabled = Ativa o disativa is cussìgios de chirca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installa mòdulos de PKCS #11.
+policy-ShowHomeButton = Ammustra su butone pro sa pàgina initziale in sa barra de ainas.
+policy-SSLVersionMax = Sèbera sa versione màssima de SSL.
+policy-SSLVersionMin = Sèbera sa versione mìnima de SSL.
+policy-SupportMenu = Agiunghe un'elementu de menù de assistèntzia personalizadu a su menù de agiudu.
+policy-UserMessaging = No ammustres tzertos messàgios a s'utente.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloca sa bìsita a sitos ispetzìficos. Bide sa documentatzione pro connòschere prus minudas de su formadu.
+policy-Windows10SSO = Permite s'autenticatzione ùnica de Windows pro is contos de traballu o de istrutzione de Microsoft.

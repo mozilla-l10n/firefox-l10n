@@ -62,6 +62,7 @@ onboarding-multistage-import-secondary-button-label = Immoe nono
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Is sitos allistados inoghe sunt istados agatados in custu dispositivu. { -brand-short-name } non sarvat o sincronizat datos dae un'àteru navigadore francu chi tue sèberes de ddos importare.
+return-to-amo-add-theme-label = Agiunghe su tema
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -315,10 +316,15 @@ mr2-onboarding-start-browsing-button-label = Cumintza a navigare
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = Sèbera sa lìngua tua
+onboarding-live-language-subtitle = { -brand-short-name } est in { $appLanguage }, però su sistema tuo est in { $systemLanguage }.
+onboarding-live-language-switch-button-label = Cuncàmbia a { $negotiatedLanguage }
 onboarding-live-language-button-label-downloading = Iscarrighende su pachete de lìngua pro su { $negotiatedLanguage }…
 onboarding-live-language-waiting-subtitle = Paret chi su sistema tuo e { -brand-short-name } sunt impreende lìnguas diferentes.
 onboarding-live-language-waiting-button = Otenende is lìnguas a disponimentu…
 onboarding-live-language-installing = Installende su pachete de lìngua in { $negotiatedLanguage }…
+onboarding-live-language-secondary-cancel-download = Annulla
+onboarding-live-language-not-now-button-label = Immoe nono
+onboarding-live-language-skip-button-label = Brinca
 
 ## Firefox 100 Thank You screens
 

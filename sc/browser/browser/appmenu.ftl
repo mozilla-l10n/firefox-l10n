@@ -148,10 +148,10 @@ profiler-popup-settings =
     .value = Cunfiguratzione
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modìfica sa cunfiguratzione...
+profiler-popup-disabled = S'analizadore est disativadu, forsis ca ddoe at una ventana privada aberta.
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modìfica sa cunfiguratzione...
-profiler-popup-disabled = S'analizadore est disativadu, forsis ca ddoe at una ventana privada aberta.
 profiler-popup-recording-screen = Registrende...
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -185,16 +185,6 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Paràmetros cussigiados pro sa curretzione de faddinas de sa majoria de aplicatziones web, cun subra-càrriga (overhead) bàscia.
 profiler-popup-presets-web-developer-label =
     .label = Isvilupu web
-profiler-popup-presets-firefox-platform-description = Paràmetros cussigiados pro sa curretzione de faddinas interna de sa prataforma Firefox.
-profiler-popup-presets-firefox-platform-label =
-    .label = Prataforma Firefox
-profiler-popup-presets-firefox-front-end-description = Paràmetros cussigiados pro sa curretzione de faddinas interna de s'interfàtzia (front-end) de Firefox.
-profiler-popup-presets-firefox-front-end-label =
-    .label = Firefox Front-end
-profiler-popup-presets-firefox-graphics-description = Paràmetros cussigiados pro s'investigatzione de su rendimentu gràficu de Firefox.
-profiler-popup-presets-firefox-graphics-label =
-    .label = Gràfica de Firefox
-profiler-popup-presets-media-description = Paràmetros cussigiados pro sa diàgnosi de problemas de àudio e de vìdeu.
 profiler-popup-presets-firefox-description = Profilu cussigiadu pro descrìere { -brand-shorter-name }
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
@@ -244,6 +234,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Imbia cummentos
     .accesskey = I
+appmenu-help-share-ideas =
+    .label = Cumpartzi ideas e cummentos…
+    .accesskey = C
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
