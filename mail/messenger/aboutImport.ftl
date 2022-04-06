@@ -16,6 +16,7 @@ export-profile = Vie
 button-cancel = Peruuta
 button-back = Edellinen
 button-continue = Jatka
+button-export = Vie
 
 ## Import from app steps
 
@@ -47,9 +48,17 @@ addr-book-file-picker = Valitse osoitekirjatiedosto
 addr-book-directories-pane-source = Lähdetiedosto:
 addr-book-import-into-new-directory = Luo uusi kansio
 
+## Import from address book file steps
+
+calendar-items-loading = Ladataan kohteita…
+calendar-select-all-items = Valitse kaikki
+calendar-import-into-new-calendar = Luo uusi kalenteri
+
 ## Import dialog
 
 progress-pane-title = Tuodaan
+progress-pane-importing = Tuodaan
+progress-pane-exporting = Viedään
 progress-pane-finished-desc = Valmis.
 error-pane-title = Virhe
 
