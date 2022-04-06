@@ -4,12 +4,21 @@
 
 <!-- extracted from am-copies.xhtml -->
 
+<!ENTITY copyAndFolderTitle.label "Պատճէնուածներ &amp; Թղթապանակներ">
+<!ENTITY sendingPrefix.label "Նամակը ուղարկելիս ինքնաշխատաւրէն.">
+<!ENTITY fccMailFolder.label "Պահել կրկնաւրինակը՝">
 <!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները այնտեղ, որտեղից պատասխանուել է">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc ել․ փոստի այս հասցէները.">
 <!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc ել֊փոստի այս հասցէները.">
 <!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
+<!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահելիս">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;Ուղարկուած&quot; թղթապանակը՝">
@@ -18,9 +27,11 @@
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Նամակի արխիւները">
+<!ENTITY keepArchives.label "Պահել նամակի արխիւները.">
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "Արխիւի ընտրանքներ…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "&quot;Արխիւներ&quot; թղթապանակում՝">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Այլ.">
 <!ENTITY archiveInOtherFolder.accesskey "h">

@@ -5,9 +5,14 @@
 <!-- extracted from am-archiveoptions.xhtml -->
 
 <!ENTITY dialogTitle.label "Արխիւի ընտրանքներ">
+<!ENTITY archiveGranularityPrefix.label "Նամակները արխիւացնելիս, դնել դրանք՝">
+<!ENTITY archiveFlat.label "Թղթապանակ">
 <!ENTITY archiveFlat.accesskey "s">
+<!ENTITY archiveYearly.label "Տարեկան արխիւացուած թղթապանակներ">
 <!ENTITY archiveYearly.accesskey "Y">
+<!ENTITY archiveMonthly.label "Ամսեկան արխիւացուած թղթապանակներ">
 <!ENTITY archiveMonthly.accesskey "M">
+<!ENTITY keepFolderStructure.label "Պահել արխիւացուած նամակների թղթապանակի կառուցուածքը">
 <!ENTITY keepFolderStructure.accesskey "K">
 <!ENTITY archiveExample.label "Աւրինակ">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
