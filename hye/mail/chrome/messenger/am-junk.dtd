@@ -21,8 +21,11 @@
 <!ENTITY whitelistHeader.accesskey "D">
 
 <!ENTITY ispHeadersWarning.label "Եթե միացված է, &brandShortName;-ը ինքնաբերաբար կը նշի ոչ պիտանի նամակները:">
+<!ENTITY ispHeaders.label "Վստահելի թափաւն փոստի գլխագիրը սահմանել է`">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "Ընտրութիւն">
+<!ENTITY junkActions.label "Նպատակ եւ պահում">
 
+<!ENTITY globalJunkPrefs.label "Ընդհանուր թափաւնի նախընտրութիւններ… ">
 <!ENTITY globalJunkPrefs.accesskey "G">

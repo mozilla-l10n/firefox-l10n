@@ -4,9 +4,11 @@
 
 <!-- extracted from am-main.xhtml -->
 
-<!ENTITY accountTitle.label "Փոստարկղի կարգաւորումներ">
+<!ENTITY accountTitle.label "Հաշուի կարգաւորումներ">
 <!ENTITY accountName.label "Հաշուի անուն.">
 <!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "Սկզբնադիր ինքնութիւն">
+<!ENTITY identityDesc.label "Յուրաքանչիւր հաշիւ ունի իր ինքնութիւնը։ Դա այն տեղեկութիւնն է, որ այղ մարդիկ տեսնում են ընթերցելով Ձեր նամակները։">
 <!ENTITY name.label "Ձեր անունը.">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "էլ֊հասցէ.">
