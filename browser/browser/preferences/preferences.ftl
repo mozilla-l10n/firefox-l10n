@@ -205,7 +205,7 @@ containers-remove-cancel-button = Не удалять этот контейне�
 
 language-and-appearance-header = Язык и внешний вид
 fonts-and-colors-header = Шрифты и цвета
-preferences-web-appearance-header = Внешний вид сайта
+preferences-web-appearance-header = Внешний вид сайтов
 preferences-web-appearance-description = Некоторые веб-сайты адаптируют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
 preferences-web-appearance-choice-browser = Тема { -brand-short-name }
 preferences-web-appearance-choice-system = Системная тема
