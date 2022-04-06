@@ -19,6 +19,8 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
+<!ENTITY showTaskbarCmd.label "Վիճակագաւտի">
+<!ENTITY showTaskbarCmd.accesskey "S">
 
 
 <!-- Format Menu -->
