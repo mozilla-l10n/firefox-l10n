@@ -247,6 +247,9 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = Ընդլայնման նոյնացուցիչ
+# Displayed for extension using a non-persistent background page (either an event page or
+# background service worker) when the background script is currently running.
+about-debugging-extension-backgroundscript-status-running = Կատարուում է
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = Դադարեցուած
 # This string is displayed as a label of the button that pushes a test payload
