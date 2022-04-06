@@ -94,9 +94,15 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $n
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> վերահսկում է այս կարգաւորումները:
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/><strong>{ $name }</strong> պահանջում է պարունակիչ ներդիր
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/><strong>{ $name }</strong> վերահսկում է այս կարգաւորումները:
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> վերահսկում է, թե ինչպէս է { -brand-short-name }֊ը միանում համացանցին։
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -197,12 +203,19 @@ containers-remove-cancel-button = Չհեռացնել այս պարունակը
 language-and-appearance-header = Լեզուն եւ տեսքը
 fonts-and-colors-header = Տառատեսակները եւ Գոյները
 preferences-web-appearance-header = Վեբ կայքի տեսքը
+preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գունաւորումը՝ Ձեր նախասիրութիւններին համապատասխան: Ընտրէք գունաւորումը, որը ցանկանում էք աւգտագործել այդ կայքերի համար:
 preferences-web-appearance-choice-browser = { -brand-short-name } հիմնապատկեր
 preferences-web-appearance-choice-system = Համակարգի հիմնապատկեր
 preferences-web-appearance-choice-light = Լուսաւոր
 preferences-web-appearance-choice-dark = Մուգ
 preferences-web-appearance-choice-tooltip-browser =
     .title = Համապատասխանեցրէք Ձեր { -brand-short-name } հիմնապատկերի կարգաւորումները կայքի նախապատմութեան եւ բովանդակութեան համար:
+preferences-web-appearance-choice-tooltip-system =
+    .title = Համապատասխանեցրէք Ձեր համակարգի կարգաւորումները կայքի ետնապատկերի եւ բովանդակութեան հետ:
+preferences-web-appearance-choice-tooltip-light =
+    .title = Աւգտագործէք լուսաւոր տեսք կայքի ետնապատկերի եւ բովանդակաութեան համար։
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Աւգտագործէք մուգ տեսք կայքի ետնապատկերի եւ բովանդակաութեան համար։
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -211,7 +224,14 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Ձեր ընտրած գոյները փոխում են կայքի տեսքը: <a data-l10n-name="colors-link"> Կառավարէք գոյները </a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Կառավարէք { -brand-short-name } հիմնապատկերները <a data-l10n-name="themes-link"> Յաւելումներ եւ հիմնապատկերներ </a>
 preferences-colors-header = Գոյներ
+preferences-colors-description = Անտեսէք { -brand-short-name }֊ի սկզբնադիր գոյները տեքստի, կայքի ետնապատկերի եւ յղումների համար։
 preferences-colors-manage-button =
     .label = Կարգաւորել գոյներ
     .accesskey = C
