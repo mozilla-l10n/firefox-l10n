@@ -4,9 +4,13 @@
 
 <!-- extracted from am-addressing.xhtml -->
 
+<!ENTITY addressing.label          "Յաւրինուածք &amp; հասցէաւորում">
 <!ENTITY addressingGroupTitle.label "Հասցէագրում">
+<!ENTITY addressingText.label      "Հասցէները փնտրելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Այս փոստարկղի համար աւգտագործէք հիմնական LDAP սպասարկիչը">
 <!ENTITY useGlobal.accesskey       "U">
+<!ENTITY editDirectories.label     "Խմբագրել գրացուցակները…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Աւգտագործել այղ LDAP սպասարկիչներ.">
@@ -17,7 +21,9 @@
 
 <!ENTITY compositionGroupTitle.label          "Կազմուածք">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Նամակները կազմել HTML տեսակի">
 <!ENTITY useHtml.accesskey                    "C">
+<!ENTITY autoQuote.label                      "Պատասխանելիս մէջբերել բնաւրինակ նամակը">
 <!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Մէջբերելիս,">
@@ -25,12 +31,17 @@
 <!ENTITY aboveQuote.label                     "պատասխանել մէջբերումից առաջ">
 <!ENTITY belowQuote.label                     "պատասխանել մէջբերումից յետոյ">
 <!ENTITY selectAndQuote.label                 "ընտրել մէջբերումը">
+<!ENTITY place.label                          "եւ դնել իմ ստորագրութիւնը">
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "մէջբերումից յետոյ (խորհուրդ է տրուում)">
 <!ENTITY aboveText.label                      "իմ պատասխանից յետոյ (մեջբերումից առաջ)">
+<!ENTITY includeSigOnReply.label              "Պատասխանելիս ներառել ստորագրութիւնը">
 <!ENTITY includeSigOnReply.accesskey          "I">
+<!ENTITY includeSigOnForward.label            "Փոխանցելիս ներառել ստորագրութիւնը">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
+<!ENTITY globalComposingPrefs.label           "Ընդհանուր յաւրինուածքի նախընտրութիւններ․․․">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
+<!ENTITY globalAddressingPrefs.label          "Ընդհանուր հասցէագրման նախընտրութիւններ…">
 <!ENTITY globalAddressingPrefs.accesskey      "P">
