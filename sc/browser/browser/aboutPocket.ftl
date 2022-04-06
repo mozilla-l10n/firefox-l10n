@@ -38,6 +38,10 @@ pocket-panel-signup-signup-firefox = Registra·ti cun { -brand-product-name }
 pocket-panel-signup-tagline = Sarva artìculos e vìdeos dae { -brand-product-name } pro ddos bìdere in { -pocket-brand-name } cando boles, in su dispositivu chi boles.
 pocket-panel-signup-tagline-story-one = Incarca su butone de { -pocket-brand-name } pro sarvare cale si siat artìculu, vìdeu o pàgina dae { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Ammustra is pàginas tuas in { -pocket-brand-name } cando boles, in su dispositivu chi boles.
+pocket-panel-signup-cta-a-fix = Su butone tuo "Sarva" pro s'Internet
+pocket-panel-signup-cta-b = Incarca su butone { -pocket-brand-name } pro sarvare artìculos, vìdeos e ligòngios. Ammustra sa lista tua cando boles, in su dispositivu chi boles.
+pocket-panel-signup-cta-b-short = Incarca su butone { -pocket-brand-name } pro sarvare artìculos, vìdeos e ligòngios.
+pocket-panel-signup-cta-c = Ammustra sa lista tua cando boles, in su dispositivu chi boles.
 
 ## about:pocket-home panel
 
@@ -47,3 +51,18 @@ pocket-panel-home-paragraph = Podes impreare { -pocket-brand-name } pro esplorar
 pocket-panel-home-explore-popular-topics = Esplora argumentos populares
 pocket-panel-home-discover-more = Iscoberi·nde àteros
 pocket-panel-home-explore-more = Esplora
+pocket-panel-home-most-recent-saves = Inoghe nche sunt is elementos chi as sarvadu de reghente:
+pocket-panel-home-most-recent-saves-loading = Carrighende is elementos sarvados de reghente...
+pocket-panel-home-new-user-cta = Incarca su butone { -pocket-brand-name } pro sarvare artìculos, vìdeos e ligòngios.
+pocket-panel-home-new-user-message = Bide inoghe is elementos chi as sarvadu de reghente.
+
+## Pocket panel header component
+
+pocket-panel-header-my-list = Ammustra sa lista mia
+pocket-panel-header-sign-in = Identìfica·ti
+
+## Pocket panel buttons
+
+pocket-panel-button-show-all = Ammustra totu
+pocket-panel-button-add-tags = Agiunghe etichetas
+pocket-panel-button-activate = Ativa { -pocket-brand-name } in { -brand-product-name }

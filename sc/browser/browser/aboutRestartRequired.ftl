@@ -6,4 +6,7 @@ restart-required-title = Depes torrare a aviare s'aplicatzione
 restart-required-header = Serbit fàghere una cosighedda isceti a in antis de sighire.
 restart-required-intro-brand = { -brand-short-name } s'est atualizadu immoe etotu in modalidade de isfundu. Incarca Torra a aviare { -brand-short-name } pro nde acabbare s'installatzione.
 restart-required-description = Totu is pàginas, bentana e ischedas ant a èssere recuperadas, pro ti fàghere torrare lestru a su chi fias faghende.
+restart-required-heading = Torra a aviare pro sighire a impreare { -brand-short-name }
+restart-required-intro = Un'annoamentu pro { -brand-short-name } est incumentzadu in segundu pranu. As a dèpere torrare a aviare su programma pro ddu portare a cumprimentu.
+window-restoration-info = Is ventanas e ischedas tuas ant a èssere recuperadas, francu cussas privadas.
 restart-button-label = Torra a aviare { -brand-short-name }
