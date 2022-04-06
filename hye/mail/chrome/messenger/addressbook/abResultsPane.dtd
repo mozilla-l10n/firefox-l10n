@@ -10,8 +10,9 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Կազմակերպութիւն">
 <!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "Հնչիւնային անուն">
 <!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Կեղծանուն">
+<!ENTITY NickName.label                        "Մականուն">
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Լրացուցիչ ել-հասցէ">
 <!ENTITY SecondEmail.accesskey                 "I">
@@ -21,9 +22,11 @@
 <!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Բջջային">
 <!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Հեռատող">
 <!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "Հեռապատճէն">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Տնային բջջային">
+<!ENTITY HomePhone.label                       "Տնային հեռախաւս">
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Աշխատանքային հեռախաւս">
 <!ENTITY WorkPhone.accesskey                   "W">

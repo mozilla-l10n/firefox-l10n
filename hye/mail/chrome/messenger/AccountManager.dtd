@@ -21,7 +21,7 @@
 <!ENTITY removeButton.label "Ջնջել հաշիւը">
 <!ENTITY removeButton.accesskey "R">
 
-<!ENTITY addonsButton.label "Յաւելումներ &amp; թեմաներ">
+<!ENTITY addonsButton.label "Յաւելումներ &amp; Հիմնապատկերներ">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
