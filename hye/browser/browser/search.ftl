@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Որոնման սարքը փոփոխուել է։</strong> { -brand-short-name }-ն այղեւս չի սատարում { $oldEngine } որոնման սարքը։ { $newEngine } գործում է որպէս լռելեայն։ Լռելեայն որոնման սարքի փոփոխման համար, հարկաւոր է անցնել կարգաւորումների դաշտ: <label data-l10n-name="remove-search-engine-article">Իմանալ աւելին</label>
+removed-search-engine-message = <strong> Ձեր որոնման համակարգը փոփոխուեց։ </strong>{ $oldEngine } այղեւս հասանելի չէ որպէս հիմնական որոնման համակարգ { -brand-short-name }֊ում։ { $newEngine }֊ը այժմ Ձեր հիմնական որոնման համակարգն է։ Այն կարող էք փոփոխել կարգաւորումներ բաժնում։<label data-l10n-name="remove-search-engine-article"> Իմանալ աւելին </label>
 remove-search-engine-button = Լաւ
