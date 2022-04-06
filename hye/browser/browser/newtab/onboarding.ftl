@@ -316,6 +316,7 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Պահել { -brand-short-name } պանակում
        *[other] Ամրացնել { -brand-short-name } խնդրագաւտում
     }
+fx100-upgrade-thanks-header = 100 Շնորհակալ ենք
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Սա մեր { -brand-short-name }֊ի 100-րդ թողարկումն է: Շնորհակալութիւն <em>Ձեզ</em> մեզ աւգնելու համար ստեղծել աւելի լաւ, առողջ համացանց:

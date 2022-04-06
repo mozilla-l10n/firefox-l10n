@@ -31,6 +31,7 @@ about-private-browsing-get-privacy = Ապահովել անվտանգութիւն
 about-private-browsing-hide-activity-1 = Թաքցնել զննարկիչով ծաւալած գործունեութիւնն ու տեղակայման վայրը { -mozilla-vpn-brand-name } ֊ի աւգնութեամբ։ Այն ստեղծուում է անվտանգ միացում, անգամ հանրային Wi-Fi-ի միացած լինելու դեպքում:
 about-private-browsing-prominent-cta = Անցնել գաղտնիութեան { -mozilla-vpn-brand-name } ֊ի հետ․
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }
+about-private-browsing-focus-promo-text = Մեր գաղտնի զննարկման բջջային հաւելուածը ամէն անգամ մաքրում է Ձեր պատմութիւնը եւ թխուկները:
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
