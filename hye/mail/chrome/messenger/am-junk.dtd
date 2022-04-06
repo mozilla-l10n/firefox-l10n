@@ -3,19 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Թափաւնի կարգաւորումներ">
-<!ENTITY trainingDescription.label "Միացուած լինելու դէպքում նախ պէտք է մարզել &brandShortName; -ը թափաւն փոստը նոյնականացնելու համար՝ աւգտագործելով Junk գործիքագաւտու կոճակը՝ ուղերձները որպէս անպէտք կամ պէտքական նշելու համար: Դուք պետք է նոյնականացնէք ինչպէս անպէտք, այնպէս էլ պէտքական ուղերձները: Դրանից յետոյ &brandShortName; -ը կը կարողանայ ինքնաբերաբար նշել անպէտք նիշը:">
-<!ENTITY level.label "Միացնել այս հաշուի համար թափոն փոստի կառավարները">
+<!ENTITY trainingDescription.label "Միացուած լինելու դէպքում նախ պէտք է մարզել &brandShortName; -ը թափաւն փոստը նոյնականացնելու համար՝ աւգտագործելով Junk գործիքագաւտու կոճակը՝ ուղերձները որպէս անպէտք կամ պէտքական նշելու համար: Դուք պէտք է նոյնականացնէք ինչպէս անպէտք, այնպէս էլ պէտքական ուղերձները: Դրանից յետոյ &brandShortName; -ը կը կարողանայ ինքնաբերաբար նշել անպէտք նիշը:">
+<!ENTITY level.label "Միացնել այս հաշուի համար թափաւն փոստի կառավարները">
 <!ENTITY level.accesskey "E">
 
+<!ENTITY move.label "Տեղափոխել նոր անպիտան ուղերձները`">
 <!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "&quot; Թափաւն &quot; պանակը՝">
 <!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY otherFolder.label "Այղ.">
 <!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Ինքնաբերաբար ջնջել թափաւն փոստից հինը">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "աւրեր">
 
+<!ENTITY whitelistHeader.label "Ինքնաբերաբար մի նշէք փոստը որպէս թափաւն, եթե ուղարկողը գտնուում է.">
 <!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "Եթե միացված է, &brandShortName;-ը ինքնաբերաբար կը նշի ոչ պիտանի նամակները:">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "Ընտրութիւն">
