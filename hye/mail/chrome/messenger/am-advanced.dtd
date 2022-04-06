@@ -8,6 +8,7 @@
 <!ENTITY smtpServer.label "Ելքային սպասարկիչի (SMTP) կարգաւորումներ">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "Կարող էք աւգտագործել սպասարկիչ այս ցանկից՝ այն նշելով որպէս ելքային սպասարկիչ (SMTP) կամ կարող եք աւգտագործել ծրագրային սպասարկիչը հետեւեալ ցանկից՝ նշելով &quot; Աւգտագործէք ծրագրային սպասարկիչը &quot;:">
 
 <!ENTITY smtpListAdd.label  "Աւելացնել…">
 <!ENTITY smtpListAdd.accesskey  "d">
@@ -18,8 +19,10 @@
 <!ENTITY smtpListSetDefault.label "Սահմանել սկզբնադիր">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Ընտրուած սպասարկիչի մանրամասները.">
 <!ENTITY serverDescription.label "Նկարագրութիւն. ">
 <!ENTITY serverName.label "Սպասարկչի անունը. ">
 <!ENTITY serverPort.label "Միացք․ ">
 <!ENTITY userName.label   "Աւգտանուն․ ">
+<!ENTITY connectionSecurity.label "Կապակցուելու անվտանգութիւնը. ">
 <!ENTITY authMethod.label   "Իսկորոշման եղանակ. ">
