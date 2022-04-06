@@ -11,3 +11,5 @@ refresh-profile =
     .label = Agiorna { -brand-short-name }
 troubleshoot-mode-description = Imprea custa modalidade de { -brand-short-name } pro rilevare is problemas. Is estensiones e personalizatziones tuas s'ant a disativare in manera temporànea.
 skip-troubleshoot-refresh-profile = Podes fintzas brincare sa risolutzione de problemas e agiornare { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes.
+auto-safe-mode-description = { -brand-short-name } s'est serradu in manera disabetada in s'aviu. Podet èssere pro more de is cumplementos o pro àteros problemas. Podes proare a risòlvere su problema in modalidade segura.

@@ -15,6 +15,14 @@ screenshots-download-button = Iscàrriga
 screenshots-download-button-tooltip = Iscàrriga sa catura
 screenshots-copy-button = Còpia
 screenshots-copy-button-tooltip = Còpia sa catura in punta de billete
+screenshots-download-button-title =
+    .title = Iscàrriga sa catura
+screenshots-copy-button-title =
+    .title = Còpia sa catura in punta de billete
+screenshots-cancel-button-title =
+    .title = Annulla
+screenshots-retry-button-title =
+    .title = Torra a proare a fàghere sa catura
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

@@ -76,6 +76,12 @@ monitor-link = Comente funtzionat
 monitor-no-breaches-title = Noas bellas!
 monitor-manage-breaches-link = Gesti is violatziones
     .title = Gesti is violatziones in { -monitor-brand-short-name }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% cumpletadu
+monitor-partial-breaches-motivation-title-start = Bonu cumentzu!
+monitor-partial-breaches-motivation-title-middle = Sighi aici!
+monitor-partial-breaches-motivation-title-end = As casi acabbadu! Sighi aici.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

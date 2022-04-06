@@ -125,6 +125,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Modìfica is preferèntzias de su blocu de ventanas emergentes…">
+<!ENTITY editPopupSettings.label "Modìfica is cunfiguratziones de su blocu de ventanas emergentes…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "n">
 

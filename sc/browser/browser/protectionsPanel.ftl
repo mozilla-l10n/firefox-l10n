@@ -21,6 +21,8 @@ protections-popup-footer-protection-label-standard = Istandard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Àteras informatziones a subra de s'amparu contra de sa sighidura megiorada
+protections-panel-etp-on-header = Sa protetzione megiorada contra sa sighidura est ATIVADA pro custu situ
+protections-panel-etp-off-header = Sa protetzione megiorada contra sa sighidura est DISATIVADA pro custu situ
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Su situ non funtzionat?
 # The heading/title of the sub-panel view
@@ -32,6 +34,7 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = Pro ite?
 protections-panel-not-blocking-why-etp-on-tooltip = Si ddos blocas, unos elementos de unos cantos sitos podent non funtzionare. Chene sighidores, unos cantos butones, formulàrios e campos de atzessu podent non funtzionare.
+protections-panel-not-blocking-why-etp-off-tooltip = Totu is sighiduras de custu situ sunt istadas carrigadas, ca is protetziones sunt disativadas.
 
 ##
 
