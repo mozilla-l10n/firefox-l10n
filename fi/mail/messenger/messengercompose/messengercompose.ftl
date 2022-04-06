@@ -27,6 +27,9 @@ pill-tooltip-not-in-address-book = { $email } ei ole osoitekirjassasi
 pill-action-edit =
     .label = Muokkaa osoitetta
     .accesskey = M
+pill-action-select-all-pills =
+    .label = Valitse kaikki osoitteet
+    .accesskey = k
 pill-action-move-to =
     .label = Siirä vastaanottajaksi
     .accesskey = S
@@ -68,14 +71,6 @@ context-menuitem-attach-files =
     .label = Liitä tiedosto(t)…
     .accesskey = i
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-#   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } liite
-           *[other] { $count } liitettä
-        }
-    .accesskey = m
 expand-attachment-pane-tooltip =
     .tooltiptext = Näytä Liite-paneeli ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
@@ -140,7 +135,10 @@ encrypted-bcc-ignore-button = Ymmärretty
 compose-tool-button-remove-text-styling =
     .tooltiptext = Poista tekstin tyyli
 
-## FileLink
+## Filelink
+
+
+# Placeholder file
 
 
 # Template
