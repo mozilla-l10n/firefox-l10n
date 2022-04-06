@@ -91,7 +91,7 @@
 ">
 
 <!ENTITY cspBlocked.title "Blocate per le politica de securitate del contento">
-<!ENTITY cspBlocked.longDesc "<p>Le navigator impedi de cargar iste pagina in iste maniera perque le pagina ha politica de securitate del contento que non lo permitte.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Le navigator ha impedite le cargamento de iste pagina in iste maniera perque le pagina ha un politica de securitate de contento que non lo permitte.</p>">
 
 <!ENTITY xfoBlocked.title "Blocate per politica X-Frame-Options">
 <!ENTITY xfoBlocked.longDesc "<p>Le navigator ha blocate le cargamento de iste pagina in iste contexto perque le pagina ha un politica X-Frame-Options que non lo permitte.</p>">
