@@ -4,18 +4,24 @@
 
 <!ENTITY directoryName.label               "Անուն. ">
 <!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryHostname.label           "Խնամորդի անունը:">
 <!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.label             "Հիմնահաւաքածու DN։">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Գտնել">
 <!ENTITY findButton.accesskey              "f">
 <!ENTITY directorySecure.label             "Աւգտագործել անվտանգ միացում (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directoryLogin.label              "Կապել DN․">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Ընդհանուր">
 <!ENTITY Offline.tab                       "Անցանց">
 <!ENTITY Advanced.tab                      "Բարելաւուած">
+<!ENTITY portNumber.label                  "Միացքի համար։">
 <!ENTITY portNumber.accesskey              "p">
+<!ENTITY searchFilter.label                "Որոնման զտում.">
 <!ENTITY searchFilter.accesskey            "f">
+<!ENTITY scope.label                       "Շրջանակ:">
 <!ENTITY scope.accesskey                   "c">
 <!ENTITY scopeOneLevel.accesskey           "L">
 <!ENTITY scopeSubtree.accesskey            "S">
