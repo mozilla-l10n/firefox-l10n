@@ -364,6 +364,13 @@ fx100-thank-you-hero-text =
     Хвала
     <span data-l10n-name="zap">вам</span>
 fx100-thank-you-subtitle = Ово је наше стото издање! Хвала вам што нам помажете у изградњи бољег и здравијег интернета.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Остави { -brand-short-name } у доку
+       *[other] Закачи { -brand-short-name } на траку
+    }
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ово је стото издање програма { -brand-short-name }. <em>Хвала вам</em> што нам помажете у изградњи бољег и здравијег интернета.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Ово је наше стото издање! Хвала вам што сте део наше заједнице. Нека { -brand-short-name } буде близу вас и у наредних 100 издања.
