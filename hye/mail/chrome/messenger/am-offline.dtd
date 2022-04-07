@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY doNotDownloadPop3Movemail.label "Սկաւառակի տարածքը պահպանելու համար մի ներբեռնէք.">
+<!ENTITY doNotDownloadNntp.label "Սկաւառակի տարածքը պահպանելու համար, մի ներբեռնէք նամակները՝ անցանց աւգտագործելու համար. ">
+<!ENTITY doNotDownloadImap.label "Սկաւառակի տարածքը պահպանելու համար, ներբեռնէք ուղերձները սպասարկչից եւ պահէք տեղային պատճէնները, ցանցից դուրս աւգտագործման համար կարող է սահմանափակուել ըստ տարիքի կամ չափի:">
 <!ENTITY allFoldersOffline2.accesskey "օ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Մի ներբեռնէք հաղորդագրութիւններն աւելի մեծ քան">

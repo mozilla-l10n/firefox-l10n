@@ -20,11 +20,14 @@
 <!ENTITY requestMDN.label             "Երբ ես ստանում եմ հայց վերադարձուած ստացականներց`">
 <!ENTITY returnSome.label             "Թոյղատրել ստացականների վերադարձը մի քանի հաղորդագրութիւններում ">
 <!ENTITY returnSome.accesskey         "e">
+<!ENTITY never.label                  "Երբէք յետ չուղարկէք ստացականը">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Եթե իմ հասցէն ներառուած չէ նամակի «Ում» կամ «Պատճենացանկ» դաշտերում․">
+<!ENTITY notInToCc.label              "Եթե իմ հասցէն ներառուած չէ նամակի «To» կամ «Cc» դաշտերում․">
 <!ENTITY notInToCc.accesskey          "T">
+<!ENTITY outsideDomain.label          "Եթե ուղարկողն իմ տիրոյթից դուրս է ՝">
 <!ENTITY outsideDomain.accesskey      "s">
 <!ENTITY otherCases.label             "Մնացած բոլոր դէպքերում.">
 <!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Հարցրու ինձ">
 <!ENTITY alwaysSend.label             "Միշտ ուղարկել">
+<!ENTITY neverSend.label              "Երբէք չուղարկել">
