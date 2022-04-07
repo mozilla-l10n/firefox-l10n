@@ -132,8 +132,8 @@ about-addressbook-details-phone-numbers-header = Numra Telefonash
 about-addressbook-details-home-address-header = Adresë Shtëpie
 about-addressbook-details-work-address-header = Adresë Pune
 about-addressbook-details-other-info-header = Hollësi të Tjera
-about-addressbook-prompt-to-save-title = Të Ruhen Ndryshimet?
-about-addressbook-prompt-to-save = Doni të ruhen ndryshimet tuaja?
+about-addressbook-unsaved-changes-prompt-title = Ndryshime të Paruajtura
+about-addressbook-unsaved-changes-prompt = Doni të ruhen ndryshimet tuaja, para se të braktiset skena e përpunimeve?
 
 # Photo dialog
 

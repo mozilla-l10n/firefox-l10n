@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "E re">
 <!ENTITY newMenu.accesskey "E">
 <!ENTITY newMessage.label "Mesazh">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Kontakt Nga Libër Adresash…">
 <!ENTITY newContact.accesskey "K">

@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Skadon më
 openpgp-key-details-usage-label =
     .label = Përdorim
 openpgp-key-details-fingerprint-label = Shenja gishtash
+openpgp-key-details-legend-secret-missing = Për kyça të treguar me (!), kyçi i fshehtë s’është i passhëm.
 openpgp-key-details-sel-action =
     .label = Përzgjidhni veprim…
     .accesskey = P
