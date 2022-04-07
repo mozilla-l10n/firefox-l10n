@@ -163,8 +163,8 @@ browser-containers-settings =
 containers-disable-alert-title = Boles serrare totu is ischedas cuntenidoras?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si disativas custu cuntenidore immoe, s'at a serrare { $count } ischeda cuntenidora. Seguru chi boles disativare custu cuntenidore?
-       *[other] Si disativas custu cuntenidore immoe, s'ant a serrare { $count } ischedas cuntenidoras. Seguru chi boles disativare custu cuntenidore?
+        [one] Si disativas custu cuntenidore immoe, s'at a serrare { $tabCount } ischeda cuntenidora. Seguru chi boles disativare custu cuntenidore?
+       *[other] Si disativas custu cuntenidore immoe, s'ant a serrare { $tabCount } ischedas cuntenidoras. Seguru chi boles disativare custu cuntenidore?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
