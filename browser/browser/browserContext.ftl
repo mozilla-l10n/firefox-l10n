@@ -150,6 +150,9 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Kopjo Adresë Email
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = Kopjoni Numrin e Telefonit
+    .accesskey = K
 main-context-menu-copy-link-simple =
     .label = Kopjoji Lidhjen
     .accesskey = K
@@ -367,10 +370,6 @@ main-context-menu-eme-learn-more =
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
     .label = Hape Lidhjen në Skedë të Re { $containerName }
-    .accesskey = S
-# FIXME(emilio): Every single letter has a conflicting accesskey, UX needed.
-main-context-menu-toggle-show-password =
-    .label = Shfaq Fjalëkalimin
     .accesskey = S
 main-context-menu-reveal-password =
     .label = Shfaqe Fjalëkalimin
