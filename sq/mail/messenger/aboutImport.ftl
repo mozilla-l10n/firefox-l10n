@@ -48,6 +48,9 @@ addr-book-vcard-file = Kartelë vCard (.vcf, .vcard)
 addr-book-sqlite-file = Kartelë baze të dhënash SQLite (.sqlite)
 addr-book-mab-file = Kartelë baze të dhënash Mork (.mab)
 addr-book-file-picker = Përzgjidhni një kartelë libri adresash
+addr-book-csv-field-map-title = Përputh emra fushash
+addr-book-csv-field-map-desc = Përzgjidhni fusha libri adresash që u përgjigjen fushave të burimit. Hiquni shenjën fushave që nuk doni të importohen.
+addr-book-directories-pane-title = Përzgjidhni drejtorinë te e cila doni të bëhet importimi:
 addr-book-directories-pane-source = Kartelë burim:
 addr-book-import-into-new-directory = Krijoni një drejtori të re
 
@@ -73,10 +76,20 @@ error-message-zip-file-too-big = Kartela zip e përzgjedhur është më e madhe 
 error-message-extract-zip-file-failed = S’u arrit të përftohet kartela zip. Ju lutemi, përftojeni dorazi, mandej importojeni që nga dosja e përftuar.
 error-message-failed = Importimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
 error-failed-to-parse-ics-file = Te kartela s’u gjetën zëra të importueshëm.
+error-export-failed = Eksportimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Rreshti i parë përmban emra fushe
 csv-source-field = Fushë burimi
+csv-source-first-record = Zëri i parë
+csv-source-second-record = Zëri i dytë
+csv-target-field = Fushë libri adresash
 
 ## Export tab
 
+export-profile-desc = Eksportoni te një kartelë zip llogari poste, mesazhe poste, libra adresash, rregullime. Kur duhet, mund të importoni kartelën që të riktheni profilin tuaj.
+export-profile-desc2 = Nëse profili juaj i tanishëm është më i madh se 2GB, këshillojmë ta kopjeruani vetë.
+export-open-profile-folder = Hapni dosje profili
+export-file-picker = Eksportojeni në një kartelë zip
+export-brand-name = { -brand-product-name }
