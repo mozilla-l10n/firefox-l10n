@@ -4,7 +4,7 @@
 
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Εισάγετε τη διεύθυνση ιστού (URL), ή προσδιορίστε το τοπικό αρχείο που θέλετε να ανοίξετε:">
+<!ENTITY enter.label "Εισαγάγετε τη διεύθυνση ιστού (URL) ή καθορίστε το τοπικό αρχείο που θέλετε να ανοίξετε:">
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->

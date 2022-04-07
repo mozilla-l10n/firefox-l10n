@@ -64,9 +64,9 @@
 <!ENTITY addDevice.showMeHow.label          "Εμφάνιση οδηγιών.">
 <!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω τη συσκευή μαζί μου">
 <!ENTITY addDevice.setup.description.label  "Για ενεργοποίηση, μεταβείτε στις Επιλογές/Προτιμήσεις του &syncBrand.shortName.label; στην άλλη σας συσκευή και επιλέξτε &#x0022;Προσθήκη συσκευής&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτό τον κωδικό:">
+<!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισαγάγετε αυτόν τον κωδικό:">
 <!ENTITY addDevice.dialog.description.label "Για ενεργοποίηση της νέας σας συσκευής, μεταβείτε στις Επιλογές/Προτιμήσεις του &syncBrand.shortName.label; της και επιλέξτε &#x0022;Σύνδεση&#x0022;.">
-<!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
+<!ENTITY addDevice.dialog.enterCode.label   "Εισαγάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και θα ολοκληρωθεί στο παρασκήνιο.">
 <!ENTITY addDevice.dialog.recoveryKey.label "Για να ενεργοποιήσετε τη συσκευή σας, θα πρέπει να εισάγετε το κλειδί ανάκτησης σας. Παρακαλώ εκτυπώστε ή αποθηκεύστε αυτό το κλειδί και έχετέ το μαζί σας.">
