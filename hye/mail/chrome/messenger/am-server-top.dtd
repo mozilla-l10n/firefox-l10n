@@ -21,39 +21,62 @@
 <!ENTITY biffStart.label "Ստուգել իւրաքանչիւր նոր նամակի համար ">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "րոպէներ">
+<!ENTITY useIdleNotifications.label "Թոյղատրել սպասարկչի անմիջական ծանուցումները, երբ նոր հաղորդագրութիւններ էք ստանում">
 <!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Կապակցման անվտանգութիւն.">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Չկայ">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, եթե առկայ է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Իսկորոշման եղանակ.">
 <!ENTITY authMethod.accesskey "i">
+<!ENTITY leaveOnServer.label "Հաղորդագրութիւնները թողնել սպասարկչի վրայ">
 <!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Դուրսբերոել միայն գլխագիրները">
 <!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "Առաւելագոյնի համար">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "աւրեր">
 <!ENTITY deleteOnServer2.label "Մինչ դրանք ջնջեմ">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Ինքնաբերաբար ներբեռնել նոր նամակները">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY deleteMessagePrefix.label "Երբ ես ջնջեմ ուղերձը,">
+<!ENTITY deleteMessagePrefix.label "Երբ ես ջնջեմ հաղորդագրութիւնը,">
+<!ENTITY modelMoveToTrash.label "Տեղափոխէք այն այս պանակում.">
 <!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Պարզապէս նշէք այն որպէս ջնջուած">
 <!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Անմիջապէս հեռացրէք այն ">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Մաքրել (&quot; Expunge &quot;) մուտքի արկղը ելի ժամանակ">
 <!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Դատարկ աղբարկղ ելքի ժամանակ">
 <!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "Ստուգէք նոր հաղորդագրութիւնները մեկնարկի ժամանակ">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
+<!ENTITY maxMessagesStart.label "Հարցրէք ինձ նախքան ներբեռնելն ավելին, քան">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "նամակներ">
+<!ENTITY alwaysAuthenticate.label "Այս սպասարկչին միանալու ժամանակ միշտ հայցէք իսկորոշում">
 <!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath1.label "News.rc նիշը.">
+<!ENTITY newsrcPicker1.label "Նշել News.rc նիշը">
+<!ENTITY abbreviate.label "Ցուցադրել տեղեկատու խմբի անունները այս փոստի պանակում, որպէս փեղկ.">
+<!ENTITY abbreviateOn.label "Ամբողջական անունները (աւրինակ՝ 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Հապաւել անունները (աւրինակ՝ 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Բարելաւուած…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Գրոյթի լռելեայն կոդաւորում․">
+<!ENTITY localPath1.label "Տեղային գրացուցակ.">
+<!ENTITY localFolderPicker.label "Նշէք տեղային գրացուցակը">
+<!ENTITY browseFolder.label "Դիտարկել…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY browseNewsrc.accesskey "e">
 
