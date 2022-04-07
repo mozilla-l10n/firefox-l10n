@@ -78,7 +78,12 @@
 <!ENTITY localFolderPicker.label "Նշէք տեղային գրացուցակը">
 <!ENTITY browseFolder.label "Դիտարկել…">
 <!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseNewsrc.label "Դիտարկել…">
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Հաշուի կարգաւորումներ ">
+<!ENTITY accountSettingsDesc.label "Հետեւեալը յատուկ հաշիւ է։ Այստէղ չկայ դրա հետ համակցուած ինքնութիւններ:">
+<!ENTITY storeType.label "Հաղորդագրութեան պահեստարանի տեսակ.">
 <!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Նիշ պանակի համար (mbox)">
+<!ENTITY maildirStore.label "Նիշ հաղորդագրութեան համար (maildir)">
