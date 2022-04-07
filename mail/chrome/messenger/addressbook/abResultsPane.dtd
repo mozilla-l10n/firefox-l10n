@@ -16,7 +16,7 @@
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Email adicional">
 <!ENTITY SecondEmail.accesskey                 "d">
-<!ENTITY Department.label                      "Setor">
+<!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Cargo">
 <!ENTITY JobTitle.accesskey                    "C">
