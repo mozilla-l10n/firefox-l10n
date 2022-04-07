@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY search.button.label      "Αναζήτηση">
-<!ENTITY search.placeholder       "Εισάγετε κείμενο αναζήτησης">
+<!ENTITY search.placeholder       "Εισαγωγή κειμένου αναζήτησης">
 
 <!ENTITY search.engineManager.label "Διαχείριση μηχανών αναζήτησης…">
