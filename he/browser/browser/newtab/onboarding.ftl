@@ -101,6 +101,12 @@ mr1-onboarding-reduce-motion-button-label = כיבוי הנפשות
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] שמירת { -brand-short-name } ב־Dock לגישה מהירה
+       *[other] הצמדת { -brand-short-name } לשורת המשימות לגישה מהירה
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
