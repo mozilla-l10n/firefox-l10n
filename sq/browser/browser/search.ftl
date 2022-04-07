@@ -31,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 remove-search-engine-message = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { -brand-short-name } s’mbulon më { $oldEngine }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet. <label data-l10n-name="remove-search-engine-article">Mësoni më tepër</label>
+removed-search-engine-message = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { $oldEngine } s’është më motor parazgjedhje kërkimesh në { -brand-short-name }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet. <label data-l10n-name="remove-search-engine-article">Mësoni më tepër</label>
 remove-search-engine-button = OK
