@@ -336,7 +336,7 @@ onboarding-live-language-skip-button-label = Omitir
 fx100-thank-you-hero-text =
     100
     Gracias
-    <span data-l10n-name="zap">Usted</span>
+    <span data-l10n-name="zap">A usted</span>
 fx100-thank-you-subtitle = ¡Es nuestro lanzamiento número 100! Gracias por ayudarnos a construir una Internet mejor y más saludable.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
