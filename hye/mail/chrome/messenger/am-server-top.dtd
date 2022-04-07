@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY messageStorage.label "Հաղորդագրութեան պահոց">
 <!ENTITY securitySettings.label "Անվտանգութեան կարգաւորումներ">
 <!ENTITY serverSettings.label "Սպասարկչի կարգաւորումներ">
 <!ENTITY serverType.label "Սպասարկչի տեսակը.">
@@ -9,6 +10,7 @@
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Աւգտատիրոջ անունը.">
 <!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Միացք.">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Սկզբանդիր․">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
@@ -16,6 +18,7 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
+<!ENTITY biffStart.label "Ստուգել իւրաքանչիւր նոր նամակի համար ">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "րոպէներ">
 <!ENTITY useIdleNotifications.accesskey "w">
