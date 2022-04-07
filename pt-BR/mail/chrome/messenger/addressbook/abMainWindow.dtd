@@ -120,12 +120,12 @@ because displayed names don't have the comma in between. -->
 <!ENTITY abPropertiesContext.accesskey                  "i">
 <!ENTITY syncContext.label                              "Sincronizar">
 <!ENTITY syncContext.accesskey                          "I">
-<!ENTITY editContactContext.label                       "Editar o contato">
+<!ENTITY editContactContext.label                       "Editar contato">
 <!ENTITY editContactContext.accesskey                   "E">
-<!ENTITY editMailingListContext.label                   "Editar a lista">
+<!ENTITY editMailingListContext.label                   "Editar lista">
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Escrever">
-<!ENTITY newmsgButton.accesskey                         "N">
+<!ENTITY newmsgButton.accesskey                         "c">
 <!ENTITY newIM.label                                    "Mensagem instantânea">
 <!ENTITY newIM.accesskey                                "M">
 <!ENTITY printButton.label                              "Imprimir…">
@@ -137,8 +137,8 @@ because displayed names don't have the comma in between. -->
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Selecionar colunas a exibir">
-<!ENTITY newContactButton.tooltip                       "Criar um novo contato no catálogo de endereços">
-<!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
+<!ENTITY newContactButton.tooltip                       "Criar novo contato no catálogo de endereços">
+<!ENTITY newlistButton.tooltip                          "Criar nova lista">
 <!ENTITY editPropertiesButton.tooltip                   "Editar o item selecionado">
 <!ENTITY editAbPropertiesButton.tooltip                 "Editar as propriedades do catálogo de endereços selecionado">
 <!ENTITY editContactPropertiesButton.tooltip            "Editar o contato selecionado">
