@@ -28,10 +28,14 @@
 <!ENTITY signingGroupTitle.label "Թուային ստորագրութիւն">
 <!ENTITY signMessage2.label "Սկզբնադիր աւելացնել իմ թուային ստորագրութիւնը">
 <!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert2.message "Անձնական վկայագիր թուային ստորագրութեան համար.">
 
+<!ENTITY sendingDefaults.label "Սկզբնադիր կարգաւորումներ ուղարկուած հաղորդագրութիւնների համար">
 
+<!ENTITY technologyAutomatic.label "Ինքնաբերաբար նշել հիմնական առկայ բանալիները կամ վկայագրերը">
 
 <!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Կառավարել S/MIME -ի վկայագրերը">
 <!ENTITY manageCerts3.accesskey "M">
 <!ENTITY manageDevices2.label "S/MIME անվտանգութեան սարքեր">
 <!ENTITY manageDevices2.accesskey "y">
@@ -44,5 +48,8 @@
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Նշել վկայագիրը">
 <!ENTITY certPicker.info  "Վկայագիր.">
+<!ENTITY certPicker.detailsLabel "Նշուած վկայագրի մանրամասները.">
 
+<!ENTITY openpgpKey.message "Անձնական բանալին գաղտնագրման եւ թուային ստորագրութեան համար.">
+<!ENTITY openpgpKey.button "Ստեղծել անձնական բանալի…">
 <!ENTITY openpgpKey.accesskey "o">
