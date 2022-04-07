@@ -101,6 +101,12 @@ mr1-onboarding-reduce-motion-button-label = כיבוי הנפשות
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] שמירה ב־Dock
+       *[other] הצמדה לשורת המשימות
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -322,6 +328,11 @@ fx100-thank-you-hero-text =
     פעמים
     <span data-l10n-name="zap">תודה</span>
 fx100-thank-you-subtitle = זוהי המהדורה ה־100 שלנו! תודה שעזרת לנו לבנות אינטרנט בריא וטוב יותר.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] שמירת { -brand-short-name } ב־Dock
+       *[other] הצמדת { -brand-short-name } לשורת המשימות
+    }
 fx100-upgrade-thanks-header = 100 פעמים תודה
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
