@@ -31,26 +31,26 @@
 <!ENTITY closeCmd.label                                 "Fechar">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printContactCmd.label                          "Imprimir o contato…">
+<!ENTITY printContactCmd.label                          "Imprimir contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "p">
-<!ENTITY printAddressBook.label                         "Imprimir o catálogo de endereços…">
+<!ENTITY printAddressBook.label                         "Imprimir catálogo de endereços…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editar">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Excluir">
-<!ENTITY deleteAbCmd.label                              "Excluir o catálogo de endereços">
-<!ENTITY deleteAbCmd.accesskey                          "t">
+<!ENTITY deleteAbCmd.label                              "Excluir catálogo de endereços">
+<!ENTITY deleteAbCmd.accesskey                          "x">
 <!ENTITY removeAbCmd.label                              "Remover catálogo de endereços">
 <!ENTITY removeAbCmd.accesskey                          "t">
-<!ENTITY deleteContactCmd.label                         "Excluir o contato">
-<!ENTITY deleteContactsCmd.label                        "Excluir os contatos">
+<!ENTITY deleteContactCmd.label                         "Excluir contato">
+<!ENTITY deleteContactsCmd.label                        "Excluir contatos">
 <!ENTITY deleteListCmd.label                            "Excluir lista">
 <!ENTITY deleteListsCmd.label                           "Excluir listas">
-<!ENTITY deleteItemsCmd.label                           "Excluir os itens">
-<!ENTITY searchAddressesCmd.key                         "F">
+<!ENTITY deleteItemsCmd.label                           "Excluir itens">
+<!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY propertiesMenu.label                           "Propriedades">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -111,8 +111,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY showAsDefault.label                            "Lista padrão ao abrir o catálogo">
-<!ENTITY showAsDefault.accesskey                        "S">
+<!ENTITY showAsDefault.label                            "Diretório inicial padrão">
+<!ENTITY showAsDefault.accesskey                        "n">
 <!ENTITY editPropertiesButton.label                     "Editar">
 <!ENTITY propertiesContext.label                        "Propriedades">
 <!ENTITY propertiesContext.accesskey                    "i">
