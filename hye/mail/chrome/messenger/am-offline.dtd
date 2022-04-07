@@ -45,7 +45,9 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Համաժամեցնել բոլոր տեղային հաղորդագրութիւններն անկախ ժամկետից">
 <!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Համաժամեցնել ամենավերջինը">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Աւրեր">
