@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
 <!ENTITY blankResultsPaneMessage.label                  "Este catálogo de endereços mostra contatos somente após uma pesquisa">
-<!ENTITY localResultsOnlyMessage.label                  "Contatos dos catálogos de endereços remotos não são mostradas até que você pesquise">
+<!ENTITY localResultsOnlyMessage.label                  "Contatos de catálogos de endereços remotos só aparecem após você pesquisar">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arquivo">
@@ -58,7 +58,7 @@
 <!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Propriedades do contato">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
-<!ENTITY mailingListPropertiesMenu.label                "Propriedades da lista de discussão">
+<!ENTITY mailingListPropertiesMenu.label                "Propriedades da lista de emails">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
@@ -132,7 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Excluir">
 <!ENTITY deleteButton2.accesskey                        "x">
-
 <!ENTITY removeButton.label                             "Remover">
 <!ENTITY removeButton.accesskey                         "R">
 
@@ -143,11 +142,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editPropertiesButton.tooltip                   "Editar o item selecionado">
 <!ENTITY editAbPropertiesButton.tooltip                 "Editar as propriedades do catálogo de endereços selecionado">
 <!ENTITY editContactPropertiesButton.tooltip            "Editar o contato selecionado">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de correios selecionada">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de emails selecionada">
 <!ENTITY newmsgButton.tooltip                           "Enviar um nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem ou conversa instantânea">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
-
 <!ENTITY removeButton.tooltip                           "Remover o catálogo de endereços selecionado">
 
 <!-- Search Bar -->
