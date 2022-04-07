@@ -5,20 +5,39 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Սկաւառակի տարածքը պահպանելու համար մի ներբեռնէք.">
 <!ENTITY doNotDownloadNntp.label "Սկաւառակի տարածքը պահպանելու համար, մի ներբեռնէք նամակները՝ անցանց աւգտագործելու համար. ">
 <!ENTITY doNotDownloadImap.label "Սկաւառակի տարածքը պահպանելու համար, ներբեռնէք ուղերձները սպասարկչից եւ պահէք տեղային պատճէնները, ցանցից դուրս աւգտագործման համար կարող է սահմանափակուել ըստ տարիքի կամ չափի:">
+<!ENTITY allFoldersOffline2.label "Պահէք ուղերձները հին պանակներում՝ այս հաշուի համար, այս համակարգչի մէջ">
 <!ENTITY allFoldersOffline2.accesskey "օ">
+<!ENTITY allFoldersOfflineNote.label "Նշում. Այս հաշուում փոփոխութիւն անելը կը ներազդի բոլոր պանակների վրայ: Առանձին պանակներ սահմանելու համար, աւգտագործէք «Բարելաւուած» … կոճակը.">
+<!ENTITY offlineNotDownload.label "Հաղորդագրությունները աւելի մեծ են, քան">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Մի ներբեռնէք հաղորդագրութիւններն աւելի մեծ քան">
 <!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY kb.label "KB">
+<!ENTITY daysOld.label "հին աւրեր">
 <!ENTITY message.label "հաղորդագրութիւններ">
 <!ENTITY nntpNotDownloadRead.label "Կարդալ հաղորդագրութիւններ">
 <!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "Հաղորդագրութիւններն աւելի են քան ">
 <!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Սկաւառակի տարածքը վերականգնելու համար, հին հաղորդագրութիւնները կարող են մշտապէս ջնջուել:">
+<!ENTITY retentionCleanupImap.label "Սկաւառակի տարածքը վերականգնելու համար, հին հաղորդագրութիւնները կարող են մշտապէս ջնջուել, ինչպէս նաեւ տեղային պատճէնները եւ բնաւրինակները hեռադիր սպասարկչի վրայ:">
+<!ENTITY retentionCleanupPop.label "Սկաւառակի տարածքը վերականգնելու համար, հին հաղորդագրութիւնները կարող են մշտապէս ջնջուել, ներառելով բնաւրինակները հեռադիր սպասարկչի վրայ:">
+<!ENTITY retentionKeepMsg.label "Ջնջել հաղորդագրութիւններն աւելին քան">
 <!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Մի ջնջէք ցանկացած հաղորդագրութիւն">
 <!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Ջնջել բոլորը բացի ամենավերջինից">
 <!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանշուած հաղորդագրութիւնները">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Հեռացնել գրուածքներն հաղորդագրութիւններից աւելին քան">
+<!ENTITY nntpRemoveMsgBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Նշէք տեղեկատու խմբերը՝ անցանց աւգտագործման համար…">
 <!ENTITY offlineSelectNntp.accesskey "Ն">
+<!ENTITY offlineImapAdvancedOffline.label "Բարելաւուած…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY syncGroupTitle.label "Ուղերձի համաժամեցում">
+<!ENTITY diskspaceGroupTitle.label "Սկաւառակի տարածք">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
