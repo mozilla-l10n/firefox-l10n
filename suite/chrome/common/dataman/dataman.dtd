@@ -70,7 +70,7 @@
 <!ENTITY perm.AllowSession "Αποδοχή για τη συνεδρία">
 <!ENTITY perm.Block "Φραγή">
 
-<!ENTITY perm.host.placeholder "Εισάγετε όνομα συστήματος">
+<!ENTITY perm.host.placeholder "Εισαγάγετε όνομα υπολογιστή">
 <!ENTITY perm.button.add.label "Προσθήκη">
 <!ENTITY perm.button.add.accesskey "Π">
 
