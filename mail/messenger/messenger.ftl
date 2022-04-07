@@ -9,6 +9,8 @@ messenger-window-minimize-button =
     .tooltiptext = Minimizoje
 messenger-window-maximize-button =
     .tooltiptext = Maksimizoje
+messenger-window-restore-down-button =
+    .tooltiptext = Riktheje Poshtë
 messenger-window-close-button =
     .tooltiptext = Mbylle
 # Variables:
