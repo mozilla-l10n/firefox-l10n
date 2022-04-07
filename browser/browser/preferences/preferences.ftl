@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Këtë rregullim e
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Se si lidhet në internet { -brand-short-name }-i, e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = Këtë rregullim e kontrollon <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = Këtë rregullim e kontrollon <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> lyp Skeda Kontejnerësh.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = Këtë rregullim e kontrollon <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrollon se si lidhet në internet { -brand-short-name }-i.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,12 @@ containers-remove-cancel-button = Mos e hiq këtë Kontejner
 
 language-and-appearance-header = Gjuhë dhe Dukje
 fonts-and-colors-header = Shkronja & Ngjyra
+preferences-web-appearance-header = Dukje sajti
+preferences-web-appearance-description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
+preferences-web-appearance-choice-browser = Temë { -brand-short-name }-i
+preferences-web-appearance-choice-system = Temë sistemi
+preferences-web-appearance-choice-light = E çelët
+preferences-web-appearance-choice-dark = E errët
 default-font = Shkronja parazgjedhje
     .accesskey = p
 default-font-size = Madhësi
