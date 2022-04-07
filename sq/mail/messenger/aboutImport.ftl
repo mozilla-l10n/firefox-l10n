@@ -45,21 +45,38 @@ import-from-addr-book-file-desc = Përzgjidhni llojin e kartelës që doni të i
 addr-book-csv-file = Kartelë e ndarë me presje, ose me simbol tabulacioni (.csv, .tsv)
 addr-book-ldif-file = Kartelë LDIF (.ldif)
 addr-book-vcard-file = Kartelë vCard (.vcf, .vcard)
+addr-book-sqlite-file = Kartelë baze të dhënash SQLite (.sqlite)
+addr-book-mab-file = Kartelë baze të dhënash Mork (.mab)
+addr-book-file-picker = Përzgjidhni një kartelë libri adresash
+addr-book-directories-pane-source = Kartelë burim:
+addr-book-import-into-new-directory = Krijoni një drejtori të re
 
 ## Import from address book file steps
 
+import-from-calendar-file-desc = Përzgjidhni kartelën iCalendar (.ics) që doni të importohet.
+calendar-items-loading = Po ngarkohen zëra…
+calendar-items-filter-input =
+    .placeholder = Filtroni objekte…
+calendar-select-all-items = Përzgjidhi krejt
+calendar-deselect-all-items = Shpërzgjidhi krejt
+calendar-import-into-new-calendar = Krijoni kalendar të ri
 
 ## Import dialog
 
 progress-pane-title = Importim
+progress-pane-importing = Importim
+progress-pane-exporting = Eksportim
+progress-pane-finished-desc = Përfundoi.
 progress-pane-restart-desc = Riniseni, që të përfundohet importimi.
 error-pane-title = Gabim
 error-message-zip-file-too-big = Kartela zip e përzgjedhur është më e madhe se 2GB. Ju lutemi, së pari çngjesheni, mandej bëni importim prej dosjes së përftuar.
 error-message-extract-zip-file-failed = S’u arrit të përftohet kartela zip. Ju lutemi, përftojeni dorazi, mandej importojeni që nga dosja e përftuar.
 error-message-failed = Importimi dështoi papritmas, më tepër hollësi mund të ketë te Konsola e Gabimeve.
+error-failed-to-parse-ics-file = Te kartela s’u gjetën zëra të importueshëm.
 
 ## <csv-field-map> element
 
+csv-source-field = Fushë burimi
 
 ## Export tab
 
