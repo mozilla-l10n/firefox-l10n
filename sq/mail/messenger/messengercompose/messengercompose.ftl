@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } s’gjendet në librin tuaj të ad
 pill-action-edit =
     .label = Përpunoni Adresë
     .accesskey = P
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Përzgjidh Krejt Adresat te { $type }
+    .accesskey = A
+pill-action-select-all-pills =
+    .label = Përzgjidh Krejt Adresat
+    .accesskey = P
 pill-action-move-to =
     .label = Shpjere te Për
     .accesskey = ë
@@ -75,13 +82,12 @@ context-menuitem-attach-files =
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } Bashkëngjitje
-           *[other] { $count } Bashkëngjitje
-        }
-    .accesskey = B
+attachment-bucket-count-value =
+    { $count ->
+        [1] { $count } Bashkëngjitje
+        [one] { $count } Bashkëngjitje
+       *[other] { $count } Bashkëngjitje
+    }
 expand-attachment-pane-tooltip =
     .tooltiptext = Shfaqni kuadrat bashkëngjitjesh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
@@ -241,8 +247,21 @@ encrypted-bcc-ignore-button = E kuptova
 compose-tool-button-remove-text-styling =
     .tooltiptext = Hiq Stilizim Teksti
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Ngarkuar te një llogari Filelink e panjohur.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Bashkëngjitje Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = Kartela { $filename } qe bashkëngjitur si një lidhje Filelink. Mund të shkarkohet prej lidhjes më poshtë.
 
 # Template
 
@@ -269,13 +288,13 @@ cloud-file-service-provider-footer-multiple = Mësoni më tepër mbi { $firstLin
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Lidhje e mbrojtur me fjalëkalim
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Shërbim CloudFile:
+cloud-file-template-service-name = Shërbim Filelink:
 cloud-file-template-size = Madhësi:
 cloud-file-template-link = Lidhje:
 cloud-file-template-password-protected-link = Lidhje e Mbrojtur Me Fjalëkalim:
@@ -299,3 +318,9 @@ cloud-file-rename-error = Pati një problem me riemërtimin e { $filename } te {
 cloud-file-rename-error-with-custom-message-title = Riemërtimi i { $filename } te { $provider } Dështoi
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } nuk mbulon riemërtim kartelash tashmë të ngarkuara.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Gabim Bashkëngjitjeje Filelink
+cloud-file-attachment-error = S’u arrit të përditësohej bashkëngjitja Filelink { $filename }, ngaqë kartela vendore për të është lëvizur ose fshirë.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Gabim Llogarie Filelink
+cloud-file-account-error = S’u arrit të përditësohej bashkëngjitja Filelink { $filename }, ngaqë llogaria Filelink për të është fshirë.
