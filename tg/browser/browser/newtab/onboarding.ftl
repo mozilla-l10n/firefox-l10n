@@ -337,8 +337,8 @@ onboarding-live-language-skip-button-label = Нодида гузарондан
 # aesthetics of splitting it across multiple lines, the hyphen is omitted.
 fx100-thank-you-hero-text =
     1000
-    Рахмат
-    <span data-l10n-name="zap">Ба Шумо</span>
+    рахмат
+    <span data-l10n-name="zap">ба Шумо</span>
 fx100-thank-you-subtitle = Ин 100-умин нашри мост! Ташаккур барои кумак ба мо дар сохтани Интернети беҳтар ва солим.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
