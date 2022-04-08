@@ -3,9 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY onlineContactsHeader.label    "Առցանց կապորդներ">
+<!ENTITY offlineContactsHeader.label   "Անցանց կապորդներ">
 <!ENTITY conversationsHeader.label     "Խաւսակցութիւններ">
 <!ENTITY searchResultConversation.label "Որոնման արդիւնքներ">
+<!ENTITY chat.noConv.title             "Զրուցաշարերը կը ցուցադրուեն այստեղ:">
+<!ENTITY chat.noConv.description       "Աւգտագործէք ձախ վահանակի կապորդների ցուցակը խաւսակցութիւնը սկսելու համար:">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName;-ում ներկայումս այս կապորդի համար պահուած ոչ մի նախկին խաւսակցութիւն չկայ:">
+<!ENTITY chat.noAccount.title             "Դուք դեռ չէք ստեղծել զրոյցի հաշիւ:">
+<!ENTITY chat.noAccount.description       "Թողնել &brandShortName; -ին առաջնորդել Ձեզ, Ձեր զրոյցի հաշուի գործընթացը կարգաւորելու:">
 <!ENTITY chat.accountWizard.button       "Սկսել">
+<!ENTITY chat.noConnectedAccount.title             "Ձեր զրոյցի հաշիւը միացուած չէ">
+<!ENTITY chat.noConnectedAccount.description       "Դուք կարող էք դրանք միացնել «Զրուցարանի կարգավիճակ» -ի պատուհանից.">
 <!ENTITY chat.showAccountManager.button       "Ցուցադրել զրոյցի կարգավիճակը">
 
 <!ENTITY chat.participants             "Մասնակիցներ.">
@@ -18,11 +26,14 @@
 <!ENTITY closeConversationCmd.accesskey "C">
 <!ENTITY aliasCmd.label                "Վերանուանել">
 <!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY deleteCmd.label               "Ջնջել կապորդը">
 <!ENTITY deleteCmd.accesskey           "v">
 
-<!ENTITY openConversationButton.tooltip  "Մեկնարկել խաւսակցութիւնը">
+<!ENTITY openConversationButton.tooltip  "Սկսել զրոյցը">
 <!ENTITY closeConversationButton.tooltip "Փակել խաւսակցութիւնը">
 
+<!ENTITY addBuddyButton.label          "Աւելացնել կապորդ">
+<!ENTITY joinChatButton.label          "Միանալ զրոյցին">
 <!ENTITY chatAccountsButton.label      "Ցուցադրել հաշիւները">
 
 <!ENTITY status.available          "Հասանելի">
