@@ -33,6 +33,13 @@ about-private-browsing-prominent-cta = დაიცავით პირად�
 about-private-browsing-focus-promo-cta = ჩამოტვირთეთ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: თან წაიყოლეთ პირადულობა
 about-private-browsing-focus-promo-text = პირადულობისთვის განკუთვნილი მობილური ბრაუზერი, ასუფთავებს ისტორიასა და კვალს, ყოველი გამოყენების შემდგომ.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = წაიყოლეთ პირადულობა ტელეფონთან ერთად
+about-private-browsing-focus-promo-text-b = გამოიყენეთ { -focus-brand-name } იმ ინფორმაციის გაუმჟღავნებლად მოძიებისთვის, რომლის მთავარი ბრაუზერით ნახვაც არ გსურთ.
+about-private-browsing-focus-promo-header-c = ახალ დონეზე აყვანილი პირადულობა მობილურზე
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } ყოველი გამოყენების შემდგომ ასუფთავებს თქვენს ისტორიას, რეკლამებისა და მეთვალყურეების შეზღუდვასთან ერთად.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -45,7 +52,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = დახურვა
-about-private-browsing-dismiss-button =
-    .title = დახურვა
 about-private-browsing-promo-close-button =
     .title = დახურვა
