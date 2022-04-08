@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = Siden er fjernet
 pocket-panel-saved-page-saved = Gemt til { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Gemt til { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Fjerner side…
+pocket-panel-saved-removed = Side fjernet fra Min liste
 pocket-panel-saved-processing-tags = Tilføjer tags…
 pocket-panel-saved-remove-page = Fjern side
 pocket-panel-saved-save-tags = Gem
@@ -28,6 +29,8 @@ pocket-panel-saved-saving-tags = Gemmer…
 pocket-panel-saved-suggested-tags = Foreslåede tags
 pocket-panel-saved-tags-saved = Tags tilføjet
 pocket-panel-signup-view-list = Vis liste
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Tilføj tags:
 
 ## about:pocket-signup panel
 
