@@ -8,9 +8,12 @@
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Նախորդը">
 <!ENTITY fieldMapImport.previous.accesskey "P">
+<!ENTITY fieldMapImport.text "Աւգտագործէք տեղաշարժել վերեւ եւ ներքեւ՝ ձախից հասցէագրքի դաշտերը համապատասխանեցնելու համար, աջից ներմուծման ճիշտ տեալների հետ: Հանել նշումը այն կետերից, որոնք չէք ցանկանում ներմուծել։">
 <!ENTITY fieldMapImport.up.label "Տեղաշարժել վերեւ">
 <!ENTITY fieldMapImport.up.accesskey "U">
 <!ENTITY fieldMapImport.down.label "Տեղաշարժել ներքեւ">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Հասցէագրքի դաշտ">
+<!ENTITY fieldMapImport.dataTitle "Գրառէք տուեալները ներմուծման ժամանակ">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Առաջին գրառումը պարունակում է դաշտի անուանումները">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
