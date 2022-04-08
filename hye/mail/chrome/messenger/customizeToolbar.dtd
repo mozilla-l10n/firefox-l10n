@@ -4,9 +4,13 @@
 
 <!ENTITY dialog.title             "Յարմարեցնել գործիքագաւտին">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY instructions.description "Դուք կարող էք աւելացնել կամ հեռացնել միաւորները քաշելով դէպի գործիքագաւտիները կամ դրանցից դուրս:">
 <!ENTITY show.label               "Ցուցադրել․">
-<!ENTITY iconsAndText.label       "Պատկերակներ եւ գրոյթ">
+<!ENTITY iconsAndText.label       "Պատկերներ եւ գրոյթ">
 <!ENTITY icons.label              "Պատկերակներ">
 <!ENTITY text.label               "Գրոյթ">
-<!ENTITY restoreDefaultSet.label  "Վերականգնել սկզբնադիր հաստատումները">
+<!ENTITY iconsBesideText.label    "Պատկերները գրոյթի կողքին">
+<!ENTITY useSmallIcons.label      "Աւգտագործէք փոքր պատկերներ">
+<!ENTITY restoreDefaultSet.label  "Վերականգնել սկզբնադիր սահմանուածը">
+<!ENTITY showTitlebar2.label      "Անուանագաւտի">
 <!ENTITY saveChanges.label        "Կատարուած">
