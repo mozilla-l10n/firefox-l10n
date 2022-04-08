@@ -171,7 +171,7 @@ intl-locales-supported = პროგრამის ენები
 intl-locales-default = ნაგულისხმევი ენა
 intl-os-title = საოპერაციო სისტემა
 intl-os-prefs-system-locales = სისტემის ენები
-intl-regional-prefs = რეგიონალური პარამეტრები
+intl-regional-prefs = რეგიონული პარამეტრები
 
 ## Remote Debugging
 ##
@@ -308,10 +308,10 @@ sandbox-proc-type-file = ფაილის შიგთავსი
 sandbox-proc-type-media-plugin = მედიის მოდული
 sandbox-proc-type-data-decoder = მონაცემთა გამშიფრავი
 startup-cache-title = გაშვების მარაგი
-startup-cache-disk-cache-path = დისკის დროებითი საცავის მისამართი
-startup-cache-ignore-disk-cache = დისკის დროებითი საცავის უგულებელყოფა
-startup-cache-found-disk-cache-on-init = ნაპოვნია დისკის დროებითი საცავი Init-ზე
-startup-cache-wrote-to-disk-cache = ჩაწერილია დისკის დროებით საცავში
+startup-cache-disk-cache-path = დისკის მარაგის მისამართი
+startup-cache-ignore-disk-cache = დისკის მარაგის უგულებელყოფა
+startup-cache-found-disk-cache-on-init = ნაპოვნია დისკის მარაგი Init-ზე
+startup-cache-wrote-to-disk-cache = ჩაწერილია დისკის მარაგში
 launcher-process-status-0 = ჩართულია
 launcher-process-status-1 = გამორთულია ხარვეზის გამო
 launcher-process-status-2 = გამორთულია ძალით
@@ -359,7 +359,7 @@ policies-error = შეცდომა
 
 ## Printing section
 
-support-printing-title = იბეჭდება
+support-printing-title = ამობეჭდვა
 support-printing-troubleshoot = პრობლემის აღმოფხვრა
 support-printing-clear-settings-button = ამობეჭდვის შენახული პარამეტრების გასუფთავება
 support-printing-modified-settings = ამობეჭდვის შეცვლილი პარამეტრები
