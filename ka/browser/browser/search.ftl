@@ -30,5 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-remove-search-engine-message = <strong>თქვენი ნაგულისხმევი საძიებო შეიცვალა.</strong> { $oldEngine } აღარაა მხარდაჭერილი და { -brand-short-name } აღარ გამოიყენებს. ნაგულისხმევი საძიებო ახლა უკვე { $newEngine } გახდება. სხვა საძიებოთი ჩასანაცვლებლად, გადადით პარამეტრებში. <label data-l10n-name="remove-search-engine-article">ვრცლად</label>
+remove-search-engine-message = <strong>თქვენი ნაგულისხმევი საძიებო შეიცვალა.</strong> { $oldEngine } აღარაა მხარდაჭერილი და { -brand-short-name } ნაგულისხმევად აღარ გამოიყენებს. { $newEngine } გახდება ნაგულისხმევი საძიებო. სხვა საძიებოთი ჩასანაცვლებლად, გადადით პარამეტრებში. <label data-l10n-name="remove-search-engine-article">ვრცლად</label>
+removed-search-engine-message = <strong>თქვენი ნაგულისხმევი საძიებო შეიცვალა.</strong> { $oldEngine } აღარაა ხელმისაწვდომი ნაგულისხმევად და აღარ იყენებს { -brand-short-name }. { $newEngine } მიეთითება ნაგულისხმევ საძიებოდ. სხვა საძიებოს ნაგულისხმევად შერჩევისთვის, გადადით პარამეტრებში. <label data-l10n-name="remove-search-engine-article">ვრცლად</label>
 remove-search-engine-button = კარგი
