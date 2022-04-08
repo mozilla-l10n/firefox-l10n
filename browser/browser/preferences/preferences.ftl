@@ -368,7 +368,7 @@ applications-use-os-default-label =
 
 ##
 
-drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
+drm-content-header = 디지털 권한 관리 (DRM) 콘텐츠
 play-drm-content =
     .label = DRM 제어 콘텐츠 재생
     .accesskey = P
