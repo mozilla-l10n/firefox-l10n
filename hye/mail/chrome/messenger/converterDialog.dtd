@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY converterDialog.title "Հաղորդագրութիւնների, պահեստի տեսակի, փոխարկիչ">
 <!ENTITY converterDialog.continueButton "Շարունակել">
 <!ENTITY converterDialog.cancelButton "Չեղարկել">
 <!ENTITY converterDialog.finishButton "Աւարտ">
+<!ENTITY converterDialog.complete "Փոխարկումը աւարտուած է: &brandShortName; -ը այժմ կը վերագործարկուի:">
 <!ENTITY converterDialog.error "Փոխարկումը ձախողուել է">
 
