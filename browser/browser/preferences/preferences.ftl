@@ -891,11 +891,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ფუნთუშები და საიტის მონაცემები
-sitedata-total-size-calculating = საიტის მუდმივი და დროებითი მონაცემების მოცულობის გამოთვლა…
+sitedata-total-size-calculating = ითვლება საიტის მუდმივი და დროებითი მონაცემების მოცულობა…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = თქვენ მიერ შენახულ ფუნთუშებს, ასევე საიტის მუდმივ და დროებით მონაცემებს, ამჟამად დისკზე უკავია { $value } { $unit } მოცულობა.
+sitedata-total-size = თქვენ მიერ შენახულ ფუნთუშებს, ასევე საიტის მუდმივ და დროებით მონაცემებს, ამჟამად დისკზე უკავია { $value } { $unit }.
 sitedata-learn-more = ვრცლად
 sitedata-delete-on-close =
     .label = ფუნთუშებისა და საიტის მონაცემების წაშლა, როცა { -brand-short-name } დაიხურება
