@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } არაა თქვენს �
 pill-action-edit =
     .label = მისამართის ჩასწორება
     .accesskey = ჩ
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = ყველას მისამართის მონიშვნა, რომელთა სახეობაცაა { $type }
+    .accesskey = ყ
+pill-action-select-all-pills =
+    .label = ყველა მისამართის მონიშვნა
+    .accesskey = ს
 pill-action-move-to =
     .label = გადატანა მისამართის ველში
     .accesskey = მ
@@ -75,23 +82,15 @@ context-menuitem-attach-files =
     .accesskey = ფ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } დანართი
-           *[other] { $count } დანართი
-        }
-    .accesskey = ნ
-expand-attachment-pane-tooltip =
-    .tooltiptext = დანართის არის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = დანართის არის დამალვა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } დანართი
        *[other] { $count } დანართი
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = დანართის არის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = დანართის არის დამალვა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = დანართის არის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
