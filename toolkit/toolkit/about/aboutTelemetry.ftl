@@ -24,7 +24,7 @@ about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary
 about-telemetry-show-in-Firefox-json-viewer = JSON მნახველში გახსნა
 about-telemetry-home-section = მთავარი
 about-telemetry-general-data-section = ზოგადი მონაცემები
-about-telemetry-environment-data-section = გარემოს მონაცემები
+about-telemetry-environment-data-section = გარსის მონაცემები
 about-telemetry-session-info-section = სეანსის მონაცემები
 about-telemetry-scalar-section = სიდიდეები
 about-telemetry-keyed-scalar-section = შიფრიანი სიდიდეები

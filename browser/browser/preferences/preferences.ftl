@@ -463,7 +463,7 @@ browsing-use-onscreen-keyboard =
     .label = ეკრანული კლავიატურის ჩვენება საჭიროების შემთხვევაში
     .accesskey = კ
 browsing-use-cursor-navigation =
-    .label = გვერდზე გადასაადგილებელი მაჩვენებლის გამოჩენა ყოველთვის
+    .label = გვერდის ტექსტებში მაჩვენებლის გამოჩენა ყოველთვის
     .accesskey = რ
 browsing-search-on-start-typing =
     .label = ტექსტის ძიება აკრეფის დაწყებისთანავე
@@ -480,7 +480,7 @@ browsing-cfr-recommendations =
     .label = გაფართოებების შემოთავაზებები ძიებისას
     .accesskey = შ
 browsing-cfr-features =
-    .label = შესაძლებლობების შემოთავაზებები, გვერდების მონახულებისას
+    .label = შესაძლებლობების შემოთავაზებები გვერდების მონახულებისას
     .accesskey = ზ
 browsing-cfr-recommendations-learn-more = ვრცლად
 
