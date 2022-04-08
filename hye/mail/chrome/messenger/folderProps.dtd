@@ -5,6 +5,8 @@
 <!ENTITY folderProps.windowtitle.label           "Յատկութիւններ">
 
 <!ENTITY generalInfo.label                       "Ընդհանուր տեղեկութիւն">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել վերջնական ֆայղի ցուցիչը">
+<!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել պանակը">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
