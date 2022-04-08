@@ -11,17 +11,23 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "&brandShorterName; -ի մասին">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY productHelp.label "Աւգնութիւն &brandShortName;- ից">
+<!ENTITY productHelp.label "Աւգնութիւն &brandShortName;-ից">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "արագացուցիչ">
 
+<!ENTITY helpKeyboardShortcuts.label "Ստեղնաշարի դիւրանցումներ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpFeedbackPage.label "Ուղարկել արձագանք…">
 <!ENTITY helpFeedbackPage.accesskey "S">
 
+<!ENTITY helpShowTour2.label "Շրջայց &brandShorterName; -ի հետ">
 <!ENTITY helpShowTour2.accesskey "օ">
 
+<!ENTITY helpGetInvolvedPage.label "Միացե՛ք">
 <!ENTITY helpGetInvolvedPage.accesskey "I">
 
 <!ENTITY helpDonationsPage.label "Կատարել նուիրատուութիւն">
+<!ENTITY helpDonationsPage.accesskey "D">
