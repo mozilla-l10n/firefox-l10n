@@ -5,18 +5,15 @@
 app-manager-window =
     .title = პროგრამის მონაცემები
     .style = width: 30em; min-height: 20em;
-
 app-manager-remove =
     .label = მოცილება
     .accesskey = ც
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = { $type } ბმული შეიძლება გაიხსნას, შემდეგი პროგრამით.
-
+app-manager-handle-protocol = { $type } ბმული შეიძლება გაიხსნას შემდეგი პროგრამით.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = { $type } შიგთავსი შეიძლება გაიხსნას, შემდეგი პროგრამით.
+app-manager-handle-file = { $type } შიგთავსი შეიძლება გაიხსნას შემდეგი პროგრამით.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
