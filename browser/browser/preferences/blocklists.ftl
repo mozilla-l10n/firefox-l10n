@@ -5,7 +5,7 @@
 blocklist-window =
     .title = შეზღუდულთა სია
     .style = width: 50em
-blocklist-description = აირჩიეთ სია, რომელსაც { -brand-short-name } გამოიყენებს ინტერნეტ-მეთვალყურეების შესაზღუდად. სიების მომწოდებელია <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+blocklist-description = აირჩიეთ სია, რომელსაც { -brand-short-name } გამოიყენებს ინტერნეტმეთვალყურეების შესაზღუდად. სიების მომწოდებელია <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
