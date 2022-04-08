@@ -271,7 +271,7 @@ use-cache-after = მბაიტი ბუფერისთვის
 ##
 
 smart-cache-label =
-    .label = კეშის ზომის თვითგანსაზღვრის უგულებელყოფა
+    .label = მარაგის თვითგანსაზღვრის უგულებელყოფა
     .accesskey = ვ
 clear-cache-button =
     .label = გასუფთავება
