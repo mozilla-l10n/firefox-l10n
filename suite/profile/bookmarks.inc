@@ -18,21 +18,9 @@
 # link title for https://www.seamonkey-project.org/ (in normal bookmarks)
 #define seamonkey_long El Proyecto SeaMonkey
 
-# LOCALIZATION NOTE (mozilla_org):
-# link title for http://www.mozilla.org/ (in the personal toolbar)
-#define mozilla_org mozilla.org
-
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for https://www.mozilla.org/ (in normal bookmarks)
 #define mozilla_org_long La Organización Mozilla
-
-# LOCALIZATION NOTE (mozilla_projects):
-# link title for http://www.mozilla.org/projects/
-#define mozilla_projects Proyectos de Mozilla
-
-# LOCALIZATION NOTE (mozilla_about):
-# link title for http://www.mozilla.org/about/
-#define mozilla_about Acerca de Mozilla
 
 #define extend_seamonkey Extendiendo SeaMonkey
 
@@ -52,14 +40,6 @@
 # link title for https://addons.thunderbird.net/en-US/seamonkey/plugins
 #define seamonkey_plugins Plugins para SeaMonkey
 
-# LOCALIZATION NOTE (mozdev):
-# link title for http://www.mozdev.org/
-#define mozdev mozdev.org
-
-# LOCALIZATION NOTE (mozdev_seamonkey):
-# link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
-#define mozdev_seamonkey Extensiones de SeaMonkey de mozdev.org
-
 #define community_support Comunid&ad y soporte
 
 # LOCALIZATION NOTE (seamonkey_community):
@@ -77,11 +57,13 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="https://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n 
+# Do not remove the trailing spaces here or MERGE_FILE in l0n builds will fail!
+#define seamonkey_l10n  
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="https://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long 
+# Do not remove the trailing spaces here or or MERGE_FILE in l0n builds will fail!
+#define seamonkey_l10n_long  
 
 #unfilter emptyLines
