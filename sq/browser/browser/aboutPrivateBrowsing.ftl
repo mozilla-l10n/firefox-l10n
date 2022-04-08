@@ -31,10 +31,14 @@ about-private-browsing-get-privacy = Përfitoni mbrojtje të privatësisë, kudo
 about-private-browsing-hide-activity-1 = Fshihni me { -mozilla-vpn-brand-name }-in veprimtari shfletimi dhe vendndodhje. Një klikim krijon një lidhje të sigurt, madje edhe në Wi-Fi publik.
 about-private-browsing-prominent-cta = Jini privat, me { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Shkarko { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Shfletim privat në lëvizje
+about-private-browsing-focus-promo-text = Aplikacioni ynë enkas për shfletim privat në celular spastron historikun dhe cookie-t tuaja çdo herë.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Merrni shfletim privat në telefonin tuaj
+about-private-browsing-focus-promo-text-b = Përdoreni { -focus-brand-name } për ato kërkime private që s’doni t’i shohë shfletuesi juaj kryesor për celular.
+about-private-browsing-focus-promo-header-c = Privatësi e një shkalle më sipër në celular
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
