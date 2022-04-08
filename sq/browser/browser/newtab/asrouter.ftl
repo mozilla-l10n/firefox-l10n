@@ -155,3 +155,16 @@ spotlight-total-cookie-protection-body = Mbrojtja Tërësore Nga Cookie-t i ndal
 spotlight-total-cookie-protection-expanded = { -brand-short-name }-i thur një gardh përreth cookie-ve, duke i kufizuar te sajti ku gjendeni, që kështu gjurmuesit s’mund t’i përdorin për t’ju ndjekur. Duke e provuar që herët, do të ndihmoni të optimizohet kjo veçori, që kështu të mund të vazhdojmë të ndërtojmë një internet më të mirë për këdo.
 spotlight-total-cookie-protection-primary-button = Aktivizo Mbrojtje Tërësore Nga Cookie-t
 spotlight-total-cookie-protection-secondary-button = Jo tani
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Një internet më i mirë zë fill prej jush
+spotlight-better-internet-body = Kur përdorni { -brand-short-name }, votoni për një internet të hapët dhe të përdorshëm, që është më i mirë për këdo.
+spotlight-peace-mind-header = Mendojmë ne për ju
+spotlight-peace-mind-body = Çdo muaj, { -brand-short-name } bllokon mesatarisht 3 mijë gjurmues për përdorues. Ngaqë mes jush dhe internetit të mbarë s’duhet të ketë asgjë, veçanërisht kokëçarje privatësie, të tilla si gjurmuesit.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mbaje në Panel
+       *[other] Fiksoje te paneli
+    }
+spotlight-pin-secondary-button = Jo tani
