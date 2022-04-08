@@ -37,6 +37,7 @@ about-private-browsing-focus-promo-text = Vores browser dedikeret til at beskytt
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Bring privat browsing til din telefon
+about-private-browsing-focus-promo-header-c = Privatliv på næste niveau for mobilen
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } rydder din historik hver gang, og blokerer samtidig reklamer og sporings-mekanismer.
 # This string is the title for the banner for search engine selection
 # in a private window.
