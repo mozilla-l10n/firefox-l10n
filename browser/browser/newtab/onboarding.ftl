@@ -340,3 +340,14 @@ fx100-thank-you-hero-text =
     მადლობა
     <span data-l10n-name="zap">თქვენ</span>
 fx100-thank-you-subtitle = ეს ჩვენი მე-100 გამოშვებაა! გმადლობთ, რომ გვეხმარებით უკეთესი, ჯანსაღი ინტერნეტის შექმნაში.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] დარჩეს { -brand-short-name } Dock-ზე
+       *[other] განთავსდეს { -brand-short-name } ამოცანათა ზოლზე
+    }
+fx100-upgrade-thanks-header = 100 მადლობა თქვენ
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = ეს არის ჩვენი მე-100 გამოშვების { -brand-short-name }. გმადლობთ <em>თქვენ</em>, რომ გვეხმარებით უკეთესი, ჯანსაღი ინტერნეტის შექმნაში.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = ეს ჩვენი მე-100 გამოშვებაა! გმადლობთ, რომ ჩვენი ერთობის მონაწილე ხართ. დატოვეთ { -brand-short-name } თითის ერთ გაწვდენაზე, მომდევნო 100 ვერსიაც.
