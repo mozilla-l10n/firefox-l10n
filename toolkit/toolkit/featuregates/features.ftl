@@ -53,8 +53,8 @@ experimental-features-cookie-samesite-none-requires-secure2-description = ფუ
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = about:home გაშვების კეში
-experimental-features-abouthome-startup-cache-description = დროებით შენახული მონაცემები, საწყისი about:home დოკუმენტისთვის, რომლებიც იტვირთება გაშვებისას. ამ კეშის მიზანია, მეტად აასწრაფოს პროგრამის გაშვება.
+    .label = about:home გაშვების მარაგი
+experimental-features-abouthome-startup-cache-description = დროებით მომარაგებული მონაცემები, საწყისი about:home გვერდის ჩასატვირთად გაშვების დროს. ამ მარაგის მიზანია, მეტად აასწრაფოს პროგრამის ჩართვა.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
