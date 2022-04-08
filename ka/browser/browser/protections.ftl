@@ -89,7 +89,7 @@ lockwise-scanned-text-no-breached-logins =
        *[other] თქვენი პაროლები ინახება უსაფრთხოდ
     }
 lockwise-how-it-works-link = როგორ მუშაობს
-monitor-title = თვალი ადევნეთ მონაცემების მიტაცების შემთხვევებს
+monitor-title = არ გამოგრჩეთ მონაცემების მიტაცების შემთხვევები
 monitor-link = როგორ მუშაობს
 monitor-header-content-no-account = გამოცადეთ { -monitor-brand-name } და ნახეთ, თქვენი ინფორმაცია აღმოჩენილია თუ არა ცნობილ მიტაცებულ მონაცემებს შორის და მიიღეთ შეტყობინებები, ახალი შემთხვევების შესახებ.
 monitor-header-content-signed-in = { -monitor-brand-name } გაცნობებთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცებულ მონაცემებში აღმოჩნდება.
