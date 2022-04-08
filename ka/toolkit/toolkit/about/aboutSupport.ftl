@@ -72,6 +72,12 @@ app-basics-location-service-key-google = Google Location Service-ის გა�
 app-basics-safebrowsing-key-google = Google Safebrowsing-ის გასაღები
 app-basics-key-mozilla = Mozilla მდებარეობის განსაზღვრის გასაღები
 app-basics-safe-mode = უსაფრთხო რეჟიმი
+app-basics-memory-size = მეხსიერების ზომა (RAM)
+app-basics-disk-available = ხელმისაწვდომი ადგილი დისკზე
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] ჩვენება Finder-ში
