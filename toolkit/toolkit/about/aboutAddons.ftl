@@ -331,7 +331,7 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> მოცილებულია.
 pending-uninstall-undo-button = დაბრუნება
-addon-detail-updates-label = თვითგანახლებების დაშვება
+addon-detail-updates-label = თვითგანახლების ნებართვა
 addon-detail-updates-radio-default = ნაგულისხმევი
 addon-detail-updates-radio-on = ჩართ.
 addon-detail-updates-radio-off = გამორთ.
