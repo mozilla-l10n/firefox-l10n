@@ -75,6 +75,7 @@ error-pane-title = Error
 error-message-zip-file-too-big = Le file zip seligite, es major de 2GB. In vice abstrahe lo antea primo, postea importa lo ab le plicas extrahite.
 error-message-extract-zip-file-failed = Impossibile extraher le file zip. In vice extrahe lo manualmente, pois importa lo ab le plica extrahite.
 error-message-failed = Le importation falleva inspectatemente, Altere informationes pote esser disponibile in le Consola de error.
+error-failed-to-parse-ics-file = Elemento non importabile trovate in le file.
 error-export-failed = Le exportation falleva inspectatemente, altere informationes pote esser disponibile in le Consola de error.
 
 ## <csv-field-map> element
