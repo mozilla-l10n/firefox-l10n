@@ -31,7 +31,7 @@
 <!ENTITY enablePrefetch.accesskey        "P">
 
 <!ENTITY debugCache.label                "გამმართველი">
-<!ENTITY debugEnableMemCache.label       "მეხსიერების დროებითი საცავის ჩართვა">
+<!ENTITY debugEnableMemCache.label       "მეხსიერების მარაგის ჩართვა">
 <!ENTITY debugEnableMemCache.accesskey   "ჩ">
-<!ENTITY debugEnableDiskCache.label      "დისკის დროებითი საცავის ჩართვა">
+<!ENTITY debugEnableDiskCache.label      "დისკის მარაგის ჩართვა">
 <!ENTITY debugEnableDiskCache.accesskey  "დ">
