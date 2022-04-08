@@ -54,6 +54,16 @@ addr-book-directories-pane-title = Selektearje de map dêr’t jo nei ymportearj
 addr-book-directories-pane-source = Boarnebestân:
 addr-book-import-into-new-directory = Nije map meitsje
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Selektearje it iCalendar (.ics)-bestânstype dat jo ymportearje wolle.
+calendar-items-loading = Items lade…
+calendar-items-filter-input =
+    .placeholder = Items filterje…
+calendar-select-all-items = Alles selektearje
+calendar-deselect-all-items = Alle deselektearje
+calendar-import-into-new-calendar = In nije aginda meitsje
+
 ## Import dialog
 
 progress-pane-title = Ymportearje
@@ -65,6 +75,7 @@ error-pane-title = Flater
 error-message-zip-file-too-big = It selektearre zip-bestân is grutter as 2 GB. Pak it earst út en ymportearje it dernei út de útpakte map.
 error-message-extract-zip-file-failed = Kin it zipbestân net útpakke. Pak it hânmjittich út en ymportearje it dernei út de útpakte map.
 error-message-failed = Ymportearjen is ûnferwachte mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
+error-failed-to-parse-ics-file = Gjin te ymportearjen items fûn yn it bestân.
 error-export-failed = Eksportearjen is ûnferwacht mislearre, mear ynformaasje is mooglik beskikber yn de Flaterconsole.
 
 ## <csv-field-map> element
