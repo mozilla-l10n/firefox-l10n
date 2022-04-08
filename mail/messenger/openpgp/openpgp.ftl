@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = ვადა
 openpgp-key-details-usage-label =
     .label = გამოყენება
 openpgp-key-details-fingerprint-label = ანაბეჭდი
+openpgp-key-details-legend-secret-missing = გასაღებებისთვის აღნიშვნით (!) არაა ხელმისაწვდომი საიდუმლო წყვილი.
 openpgp-key-details-sel-action =
     .label = მოქმედების არჩევა…
     .accesskey = რ
@@ -340,6 +341,7 @@ cannot-encrypt-because-missing = წერილი ვერ იგზავნ
 window-locked = შესადგენი ფანჯარა ჩაიკეტა; გაგზავნა გაუქმებულია
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = წერილის დაშიფრული ნაწილი
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = ეს წერილის დაშიფრული ნაწილია. საჭიროა ცალკე ფანჯარაში გახსნა, დანართზე დაწკაპებით.
 # Strings in keyserver.jsm
 keyserver-error-aborted = შეწყვეტილი
