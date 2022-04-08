@@ -13,4 +13,5 @@
 <!ENTITY useSmallIcons.label      "Աւգտագործէք փոքր պատկերներ">
 <!ENTITY restoreDefaultSet.label  "Վերականգնել սկզբնադիր սահմանուածը">
 <!ENTITY showTitlebar2.label      "Անուանագաւտի">
-<!ENTITY saveChanges.label        "Կատարուած">
+<!ENTITY saveChanges.label        "Կատարուած է">
+<!ENTITY undoChanges.label        "Յետարկել փոփոխութիւնները">
