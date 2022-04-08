@@ -319,7 +319,7 @@ applications-action-column =
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ფაილი
 applications-action-save =
-    .label = ფაილის შენახვა
+    .label = ფაილი შეინახება
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =

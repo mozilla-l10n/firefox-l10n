@@ -368,10 +368,10 @@ support-printing-prefs-value = მნიშვნელობა
 
 ## Normandy sections
 
-support-remote-experiments-title = დაშორებული ცდები
+support-remote-experiments-title = დაშორებული კვლევები
 support-remote-experiments-name = სახელი
-support-remote-experiments-branch = ცდის განშტოება
-support-remote-experiments-see-about-studies = ვრცლად, იხილეთ <a data-l10n-name="support-about-studies-link">about:studies</a>, აგრეთვე გაეცანით თუ როგორ შეგიძლიათ გამორთოთ ცალკეული ცდები ან როგორ გამოთიშოთ { -brand-short-name } ამგვარი ცდების გაშვებისგან, მომავალში.
+support-remote-experiments-branch = კვლევის განშტოება
+support-remote-experiments-see-about-studies = ვრცლად იხილეთ <a data-l10n-name="support-about-studies-link">about:studies</a>, აგრეთვე გაეცანით, თუ როგორ შეგიძლიათ გამორთოთ ცალკეული კვლევა ან როგორ გამოთიშოთ { -brand-short-name } ამგვარი კვლევებიდან სამომავლოდ.
 support-remote-features-title = დაშორებული შესაძლებლობები
 support-remote-features-name = სახელი
 support-remote-features-status = მდგომარეობა
