@@ -30,7 +30,7 @@
 <!ENTITY return.label                      "Não retornar mais de">
 <!ENTITY return.accesskey                  "N">
 <!ENTITY results.label                     "resultados">
-<!ENTITY offlineText.label                 "Você pode baixar uma cópia local deste diretório, assim ele vai estar disponível para usar quando estiver trabalhando desconectado.">
+<!ENTITY offlineText.label                 "Você pode baixar uma cópia local deste diretório, assim ele vai estar disponível para uso quando você estiver trabalhando desconectado.">
 <!ENTITY saslMechanism.label               "Método de acesso: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simples">

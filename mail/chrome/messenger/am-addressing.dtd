@@ -8,12 +8,12 @@
 <!ENTITY addressingGroupTitle.label "Endereçamento">
 <!ENTITY addressingText.label      "Ao procurar endereços:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Usar as preferências do meu servidor LDAP global para esta conta">
+<!ENTITY useGlobal.label           "Usar minhas preferências de servidor LDAP global desta conta">
 <!ENTITY useGlobal.accesskey       "s">
 <!ENTITY editDirectories.label     "Editar diretórios…">
 <!ENTITY editDirectories.accesskey "d">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Usar um servidor LDAP diferente:">
+<!ENTITY directories.label         "Usar outro servidor LDAP:">
 <!ENTITY directories.accesskey     "r">
 <!ENTITY directoriesNone.label     "Nenhum">
 
@@ -40,7 +40,7 @@
 <!ENTITY includeSigOnForward.label            "Incluir assinatura ao encaminhar">
 <!ENTITY includeSigOnForward.accesskey        "n">
 
-<!ENTITY globalComposingPrefs.label           "Preferências globais de edição…">
+<!ENTITY globalComposingPrefs.label           "Preferências globais de redação…">
 <!ENTITY globalComposingPrefs.accesskey       "g">
 
 <!ENTITY globalAddressingPrefs.label          "Preferências globais de endereçamento…">
