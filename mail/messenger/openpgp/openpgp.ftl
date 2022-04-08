@@ -240,6 +240,7 @@ openpgp-key-details-expiry-header = Ferrindatum
 openpgp-key-details-usage-label =
     .label = Gebrûk
 openpgp-key-details-fingerprint-label = Fingerôfdruk
+openpgp-key-details-legend-secret-missing = Foar kaaien markearre mei (!) is de geheime kaai net beskikber.
 openpgp-key-details-sel-action =
     .label = Selektearje aksje…
     .accesskey = S
@@ -340,6 +341,7 @@ cannot-encrypt-because-missing = Kin dit berjocht net ferstjoere mei end-to-end-
 window-locked = It opstelfinster is beskoattele; ferstjoeren annulearre
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Fersifere berjochtdiel
+# Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-concealed-data = Dit is in fersifere berjochtdiel. Jo moatte it yn in apart finster iepenje troch op de bylage te klikken.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Ofbrutsen

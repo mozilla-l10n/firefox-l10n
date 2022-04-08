@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } stiet net yn jo adresboek
 pill-action-edit =
     .label = Adres bewurkje
     .accesskey = d
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Alle adressen yn { $type } selektearje
+    .accesskey = A
+pill-action-select-all-pills =
+    .label = Alle adressen selektearje
+    .accesskey = k
 pill-action-move-to =
     .label = Ferpleatse nei Oan
     .accesskey = O
@@ -75,24 +82,16 @@ context-menuitem-attach-files =
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [one] { $count } bylage
-           *[other] { $count } bylagen
-        }
-    .accesskey = l
-expand-attachment-pane-tooltip =
-    .tooltiptext = It bylagefinster toane ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = It bylagefinster ferstopje ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } bylage
         [one] { $count } bylage
        *[other] { $count } bylagen
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = It bylagefinster toane ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = It bylagefinster ferstopje ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = It bylagefinster toane ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
