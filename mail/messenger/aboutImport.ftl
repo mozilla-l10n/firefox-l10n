@@ -54,6 +54,16 @@ addr-book-directories-pane-title = აირჩიეთ საქაღალ�
 addr-book-directories-pane-source = წყაროს ფაილი:
 addr-book-import-into-new-directory = ახალი საქაღალდის შექმნა
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = აირჩიეთ ფაილი iCalendar (.ics), რომლის გადმოტანაც გსურთ.
+calendar-items-loading = იტვირთება ჩანაწერები…
+calendar-items-filter-input =
+    .placeholder = ჩანაწერების გამორჩევა…
+calendar-select-all-items = ყველას მონიშვნა
+calendar-deselect-all-items = მონიშვნის გაუქმება
+calendar-import-into-new-calendar = ახალი კალენდრის შექმნა
+
 ## Import dialog
 
 progress-pane-title = გადმოდის
