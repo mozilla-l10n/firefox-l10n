@@ -39,6 +39,7 @@ about-private-browsing-focus-promo-text = Aplikacioni ynë enkas për shfletim p
 about-private-browsing-focus-promo-header-b = Merrni shfletim privat në telefonin tuaj
 about-private-browsing-focus-promo-text-b = Përdoreni { -focus-brand-name } për ato kërkime private që s’doni t’i shohë shfletuesi juaj kryesor për celular.
 about-private-browsing-focus-promo-header-c = Privatësi e një shkalle më sipër në celular
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } spastron historikun tuaj çdo herë, teksa bllokon reklama dhe gjurmues.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
