@@ -17,3 +17,4 @@
 <!ENTITY editContactPanelDone.label "Կատարուած է">
 <!ENTITY editContactPanelDone.accesskey "D">
 
+<!ENTITY contactMoveDisabledWarning.description "Դուք չէք կարող փոփոխել հասցէագիրքը, քանի որ կապորդը փոստացուցակում է:">
