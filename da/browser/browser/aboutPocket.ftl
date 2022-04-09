@@ -69,6 +69,6 @@ pocket-panel-header-sign-in = Log ind
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Vis alle
-pocket-panel-button-add-tags = Tilføj mærkater
+pocket-panel-button-add-tags = Tilføj tags
 pocket-panel-button-activate = Aktiver { -pocket-brand-name } i { -brand-product-name }
 pocket-panel-button-remove = Fjern
