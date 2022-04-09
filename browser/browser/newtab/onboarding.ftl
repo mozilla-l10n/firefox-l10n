@@ -163,7 +163,7 @@ mr2-onboarding-theme-label-auto = Automatisk
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Standard
 mr1-onboarding-theme-header = Du bestemmer
-mr1-onboarding-theme-subtitle = Gør{ -brand-short-name } mere personlig med et tema.
+mr1-onboarding-theme-subtitle = Gør { -brand-short-name } mere personlig med et tema.
 mr1-onboarding-theme-primary-button-label = Gem tema
 mr1-onboarding-theme-secondary-button-label = Ikke nu
 # System theme uses operating system color settings
