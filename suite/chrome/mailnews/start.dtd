@@ -21,3 +21,5 @@ abierto, que incluye detección avanzada de correo basura y otras útiles caract
 <!ENTITY info.title "Más información">
 <!ENTITY info_bugs.label '<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Nosotros</a> agradecemos los informes
 de fallos y solicitudes de nuevas características, pero, por favor, lea antes las <a id="releaseNotesURL" href="">notas de la versión</a> y consulte primero <a href="http://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
+<!ENTITY info_bugs.label2 '<a href="https://www.seamonkey-project.org/dev/get-involved">Nosotros</a> agradecemos los informes
+de fallos y solicitudes de nuevas características, pero, por favor, lea antes las <a id="releaseNotesURL" href="">notas de la versión</a> y consulte primero <a href="http://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>
