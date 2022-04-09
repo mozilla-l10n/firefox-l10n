@@ -141,20 +141,37 @@ virtual-monitor-disp = Экрани монитори маҷозӣ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Ёфт шуд
+missing = Вуфуд надорад
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
+gpu-description = Тавсиф
+gpu-vendor-id = Рамзи истеҳсолкунанда
+gpu-device-id = Рамзи дастгоҳ
+gpu-subsys-id = Рамзи зернизом
 gpu-drivers = Драйверҳо
 gpu-ram = RAM
+gpu-driver-vendor = Истеҳсолкунандаи драйвер
+gpu-driver-version = Версияи драйвер
+gpu-driver-date = Санаи барномарезии драйвер
 gpu-active = Фаъол
 glcontext-crash-guard = OpenGL
+sandbox-proc-type-content = муҳтаво
+sandbox-proc-type-file = муҳтавои файл
 startup-cache-title = Зерҳофизаи оғози кор
 startup-cache-disk-cache-path = Масири зерҳофизаи диск
 startup-cache-ignore-disk-cache = Рад кардани зерҳофизаи диск
 startup-cache-found-disk-cache-on-init = Ҳангоми омодасозӣ зерҳофизаи диск пайдо шуд
 startup-cache-wrote-to-disk-cache = Ба зерҳофизаи диск сабт карда шуд
+launcher-process-status-0 = Фаъол аст
 launcher-process-status-unknown = Вазъияти номаълум
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+apz-none = ҳеҷ
+keyboard-enabled = клавиатура фаъол аст
+autoscroll-enabled = ҳаракати худкор фаъол аст
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
