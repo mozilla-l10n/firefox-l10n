@@ -647,7 +647,7 @@
   <ul>
     <li><a href="#types_of_private_data">Tipos de datos privados</a></li>
     <li><a href="#private_data_prefs">Preferencias sobre datos privados</a></li>
-    <li><a href="#clear_private_data_now">Limpiar datos privados ahora</a></li>
+    <li><a href="#clear_private_data_now">Diálogo Limpiar datos privados</a></li>
   </ul>
 </div>
 
@@ -758,6 +758,13 @@
         preguntará sus credenciales nuevamente cuando pase a la siguiente página
         una vez se limpie esta información.</td>
     </tr>
+    <tr>
+      <td>Preferencias del sitio</td>
+      <td>Las preferencias del sitio son preferencias guardas localmente para
+        sitios web específicos. Normalmente con el nivel de zoom individual y
+        la última ubicación de un archivo descargado desde este stitio en su
+        disco duro.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -782,34 +789,20 @@
   siguientes opciones:</p>
 
 <ul>
+  <li><strong>Limpiar ahora</strong>: pulse este botón para iniciar la
+    limpieza de los datos privados. Se abrirá el diálogo Limpiar datos privados
+    en el que podrá revisar sus decisiones.
+  </li>
   <li><strong>Limpiar siempre mis datos privados cuando cierre
     &brandShortName;</strong>: marque esta casilla para iniciar siempre la
     limpieza de los datos privados seleccionados cuando se cierre la
     aplicación.</li>
-  <li><strong>Preguntarme antes de borrar datos privados</strong>: marque esta
-    casilla para que &brandShortName; le presente un cuadro de diálogo antes de
-    limpiar los datos privados seleccionados. El cuadro de diálogo también le
-    permite cambiar la selección, en lugar de limpiarlos sin ninguna
-    interacción.</li>
-  <li><strong>Cuando pida a &brandShortName; limpiar mis datos privados,
-    debería borrar</strong>: para cada <a href="#types_of_private_data">tipo
-    de datos privados</a>, se proporciona una opción separada sobre si limpiar
-    o no los elementos guardados de ese tipo específico. Marque la casilla
-    respectiva para cada elemento que debe eliminarse por defecto cuando se
-    solicite por usted o al iniciarse el cierre.</li>
-  <li><strong>Limpiar ahora</strong>: pulse este botón para iniciar la limpieza
-    de los datos privados inmediatamente, dependiendo de las preferencias
-    seleccionadas en este panel:
-    <ul>
-      <li>Cuando está marcada la opción <q>Preguntarme antes de borrar datos
-        privados</q>, &brandShortName; abre un cuadro de diálogo donde puede
-        confirmar y cambiar los elementos que serán eliminados.</li>
-      <li>Cuando <q>Preguntarme antes de borrar datos privados</q> <em>no</em>
-        está marcada, se limpiarán inmediatamente todos los tipos marcados
-        para ser eliminados por defecto, sin que se muestre el cuadro de
-        diálogo.</li>
-    </ul>
-  </li>
+  <li><strong>Limpiar estos datos privados</strong>: para cada
+    <a href="#types_of_private_data">tipo de dato privado</a> se proporciona
+    una opción para elegir limpiar o no cualquier elemento guardado de este
+    tipo específico. Marque la casilla respectiva de cada elemento para que sea
+    eliminado. Las opciones se dividen entre la limpieza manual a través del
+    diálogo y la limpieza automática al cerrar &brandShortName;.</li>
 </ul>
 
 <!-- link up "Data Manager" below once bug 599097 has been taken care of -->
@@ -825,37 +818,37 @@
 
 <p>[<a href="#clearing_private_data">Volver al principio de la sección</a>]</p>
 
-<h2 id="clear_private_data_now">Limpiar datos privados ahora</h2>
+<h2 id="clear_private_data_now">Diálogo Limpiar datos privados</h2>
 
 <p>Los datos privados pueden eliminarse en cualquier momento, ya sea desde las
   <a href="#private_data_prefs">preferencias de datos privados</a> al pulsar el
   botón Limpiar ahora, o seleccionando Limpiar datos privados del menú
-  Herramientas de una ventana del navegador. Esto inicia una de las siguientes
-  acciones:</p>
+  Herramientas de una ventana del navegador.</p>
 
-<ul>
-  <li>Cuando está marcada la <q>Preguntarme antes de borrar datos privados</q>
-    en el <a href="#private_data_prefs">panel de preferencias de datos
-    privados</a>, &brandShortName; abre una ventana de diálogo donde puede
-    confirmar y cambiar los <a href="#types_of_private_data">tipos de datos
-    privados</a> que se deben eliminar, de la siguiente forma:
-    <ul>
-      <li>Los valores por defecto de cada tipo individual se determinan por
-        las <a href="#private_data_prefs">preferencias de datos privados</a>.
-        Observe que las casillas puden estar desactivadas individualmente si
-        no hay elementos disponibles para su eliminación.</li>
-      <li>Marque o desmarque casillas según desee si quiere limpiar una
-        combinación diferente de datos privados.</li>
-      <li>Pulse <q>Limpiar datos privados ahora</q> para limpiar los elementos
-        seleccionados, o Cancelar para salir del diálogo.</li>
-    </ul>
-  </li>
-  <li>Cuando <q>Preguntarme antes de borrar datos privados</q> <em>no</em>
-    está marcada, todos los tipos marcados en las
-    <a href="#private_data_prefs">preferencias de datos privados</a> para ser
-    eliminados por defecto se limpiarán inmediatamente, sin que se muestre el
-    cuadro de diálogo.</li>
-</ul>
+<p>En la ventana de diálogo puede confirmar y cambiar los
+  <a href="#types_of_private_data">tipos de datos privados</a> que deben
+  limpiarse de la siguiente forma:
+  <ul>
+    <li>Seleccione el intervalo de tiempo que debe limpiarse si no desea limpiar
+      todos los datos. Solo los siguientes elementos tienen en cuenta esta
+      configuración:
+      <ul>
+        <li>Historial de navegación</li>
+        <li>Historial de descargas</li>
+        <li>Cookies</li>
+        <li>Historial de formularios y búsquedas guardados</li>
+        <li>Preferencias de sitios</li>
+      </ul>
+      ¡Todos los demás elementos se eliminarán por completo!</li>
+    <li>Los valores por defecto de cada tipo individual se determinan por
+      las <a href="#private_data_prefs">preferencias de datos privados</a>
+      en la columna Limpiar manualmente.</li>
+    <li>Marque o desmarque casillas según desee si quiere limpiar una
+      combinación diferente de datos privados.</li>
+    <li>Pulse <q>Limpiar ahora</q> para limpiar los elementos seleccionados o
+      Cancelar para salir del diálogo.</li>
+  </ul>
+</p>
 
 <p>[<a href="#clearing_private_data">Volver al principio de la
   sección</a>]</p>
