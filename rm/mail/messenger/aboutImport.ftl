@@ -49,22 +49,47 @@ addr-book-sqlite-file = Datoteca da banca da datas SQLite (.sqlite)
 addr-book-mab-file = Datoteca da la banca da datas Mork (.mab)
 addr-book-file-picker = Tscherna ina datoteca da cudeschet d'adressas
 addr-book-csv-field-map-title = Attribuir ils nums dals champs
+addr-book-csv-field-map-desc = Tscherna ils champs dal cudeschet d'adressas che correspundan als champs da la funtauna. Champs betg selecziunads na vegnan betg importads.
 addr-book-directories-pane-title = Tscherna l'ordinatur en il qual ti vulessas importar:
 addr-book-directories-pane-source = Datoteca da funtauna:
 addr-book-import-into-new-directory = Crear in nov ordinatur
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Tscherna la datoteca iCalendar (.ics) che ti vuls importar.
+calendar-items-loading = Chargiar ils elements…
+calendar-items-filter-input =
+    .placeholder = Filtrar ils elements…
+calendar-select-all-items = Selecziunar tut
+calendar-deselect-all-items = Deselecziunar tut
+calendar-import-into-new-calendar = Crear in nov chalender
+
 ## Import dialog
 
 progress-pane-title = Importar
+progress-pane-importing = Importar
+progress-pane-exporting = Exportar
 progress-pane-finished-desc = Finì.
 progress-pane-restart-desc = Reaviar per finir l'import.
 error-pane-title = Errur
 error-message-zip-file-too-big = La datoteca zip tschernida surpassa 2GB. L'extira l'emprim ed importescha lura ord l'ordinatur extratg.
 error-message-extract-zip-file-failed = I n'è betg reussì dad extrair la datoteca zip. L'extira per plaschair manualmain ed importescha lura ord l'ordinatur extratg.
 error-message-failed = L'import n'è betg reussì nunspetgadamain. Ulteriuras infurmaziuns stattan eventualmain a disposiziun en la consola d'errurs.
+error-failed-to-parse-ics-file = Na chattà nagins elements en la datoteca che sa laschan importar.
+error-export-failed = L'export n'è nunspetgadamain betg reussì. Ulteriuras infurmaziuns stattan eventualmain a disposiziun en la consola d'errurs.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = L'emprima lingia cuntegna ils nums dals champs
+csv-source-field = Champ da funtauna
+csv-source-first-record = Emprima endataziun
+csv-source-second-record = Segunda endataziun
+csv-target-field = Champ dal cudeschet d'adressas
 
 ## Export tab
 
+export-profile-desc = Exportar contos dad e-mail, messadis dad e-mail, cudeschets d'adressas e parameters en ina datoteca zip. En cas da necessitad pos ti importar la datoteca zip per restaurar tes profil.
+export-profile-desc2 = Sche tes profil actual è pli grond che 2GB, ta recumandain nus da sez far la copia da segirezza.
+export-open-profile-folder = Avrir l'ordinatur dal profil
+export-file-picker = Exportar en ina datoteca zip
+export-brand-name = { -brand-product-name }
