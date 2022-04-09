@@ -30,6 +30,13 @@ pill-tooltip-not-in-address-book = { $email } na sa chatta betg en tes cudeschet
 pill-action-edit =
     .label = Modifitgar l'adressa
     .accesskey = e
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Tscherner tut las adressas en { $type }
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Tscherner tut las adressas
+    .accesskey = s
 pill-action-move-to =
     .label = Spustar a «a»
     .accesskey = a
@@ -75,24 +82,15 @@ context-menuitem-attach-files =
     .accesskey = d
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } agiunta
-            [one] { $count } agiunta
-           *[other] { $count } agiuntas
-        }
-    .accesskey = n
-expand-attachment-pane-tooltip =
-    .tooltiptext = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Zuppentar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } agiunta
        *[other] { $count } agiuntas
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Zuppentar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
@@ -248,8 +246,21 @@ encrypted-bcc-ignore-button = Chapì
 compose-tool-button-remove-text-styling =
     .tooltiptext = Allontanar la formataziun dal text
 
-## FileLink
+## Filelink
 
+# A text used in a tooltip of Filelink attachments, whose account has been
+# removed or is unknown.
+cloud-file-unknown-account-tooltip = Transferì en in conto da Filelink nunenconuschent.
+
+# Placeholder file
+
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Agiunta Filelink
+# A text describing that the file was attached as a Filelink and can be downloaded
+# from the link shown below.
+# $filename - name of the file
+cloud-file-placeholder-intro = La datoteca { $filename } è vegnida agiuntada cun agid da Filelink. Ella po vegnir telechargiada cun la colliaziun sutvart.
 
 # Template
 
@@ -276,13 +287,13 @@ cloud-file-service-provider-footer-multiple = Ulteriuras infurmaziuns davart { $
 # Tooltip for an icon, indicating that the link is protected by a password.
 cloud-file-tooltip-password-protected-link = Colliaziun protegida cun in pled-clav
 # Used in a list of stats about a specific file
-# Service - the used service provider to host the file (CloudFile Service: BOX.com)
+# Service - the used service provider to host the file (Filelink Service: BOX.com)
 # Size - the size of the file (Size: 4.2 MB)
 # Link - the link to the file (Link: https://some.provider.com)
 # Expiry Date - stating the date the link will expire (Expiry Date: 12.12.2022)
 # Download Limit - stating the maximum allowed downloads, before the link becomes invalid
 #                  (Download Limit: 6)
-cloud-file-template-service = Servetsch CloudFile:
+cloud-file-template-service-name = Servetsch Filelink:
 cloud-file-template-size = Grondezza:
 cloud-file-template-link = Colliaziun:
 cloud-file-template-password-protected-link = Colliaziun protegida cun in pled-clav:
@@ -306,3 +317,9 @@ cloud-file-rename-error = Igl è succedida ina errur durant renumnar { $filename
 cloud-file-rename-error-with-custom-message-title = I n'è betg reussì da renumnar { $filename } sin { $provider }
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } na porscha betg la pussaivladad da renumnar datotecas gia transferidas.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Errur d'agiunta Filelink
+cloud-file-attachment-error = I n'è betg reussì dad actualisar l'agiunta Filelink { $filename } perquai che sia datoteca locala è vegnida spustada u stizzada.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Errur da conto Filelink
+cloud-file-account-error = I n'è betg reussì dad actualisar l'agiunta Filelink { $filename } perquai ch'il conto da Filelink correspundent è vegnì stizzà.

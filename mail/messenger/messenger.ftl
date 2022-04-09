@@ -190,7 +190,29 @@ spaces-toolbar-button-settings =
 spaces-toolbar-button-collapse =
     .title = Reducir la trav da locals
 spaces-toolbar-button-reveal =
-    .title = Mussar la trav d'utensils dals spazis
+    .title = Mussar la trav d'utensils da locals
+spaces-toolbar-element =
+    .toolbarname = Trav da simbols da locals
+    .aria-label = Trav da simbols da locals
+    .aria-description = Trav da simbols verticala per midar tranter differents locals. Utilisescha las tastas da direcziun per navigar en ils buttuns disponibels.
+spaces-toolbar-button-mail2 =
+    .title = E-mail
+spaces-toolbar-button-address-book2 =
+    .title = Cudeschet d'adressas
+spaces-toolbar-button-calendar2 =
+    .title = Chalender
+spaces-toolbar-button-tasks2 =
+    .title = Incumbensas
+spaces-toolbar-button-chat2 =
+    .title = Chat
+spaces-toolbar-button-overflow =
+    .title = Ulteriurs locals…
+spaces-toolbar-button-settings2 =
+    .title = Parameters
+spaces-toolbar-button-hide =
+    .title = Zuppentar la trav d'utensils da locals
+spaces-toolbar-button-show =
+    .title = Mussar la trav d'utensils da locals
 spaces-context-new-tab-item =
     .label = Avrir en in nov tab
 spaces-context-new-window-item =
@@ -209,7 +231,7 @@ settings-context-open-addons-item =
 ## Spaces toolbar pinned tab menupopup
 
 spaces-toolbar-pinned-tab-button =
-    .tooltiptext = Avrir il menu dals spazis
+    .tooltiptext = Avrir il menu dals locals
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail.title }
 spaces-pinned-button-menuitem-address-book =
@@ -222,3 +244,33 @@ spaces-pinned-button-menuitem-chat =
     .label = { spaces-toolbar-button-chat.title }
 spaces-pinned-button-menuitem-reveal =
     .label = { spaces-toolbar-button-reveal.title }
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] In messadi nunlegì
+           *[other] { $count } messadis nunlegids
+        }
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Persunalisar…
+spaces-customize-panel-title = Parameters da la trav d'utensils dals locals
+spaces-customize-background-color = Colur dal fund davos
+spaces-customize-icon-color = Colur dal buttun
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Colur dal fund davos dal buttun tschernì
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Colur dal buttun tschernì
+spaces-customize-button-restore = Restaurar il standard
+    .accesskey = R
+spaces-customize-button-save = Finì
+    .accesskey = F
