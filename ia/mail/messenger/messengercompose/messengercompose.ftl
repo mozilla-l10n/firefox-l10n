@@ -30,6 +30,10 @@ pill-tooltip-not-in-address-book = { $e-mail } non es in tu libro del adresses
 pill-action-edit =
     .label = Modificar le adresse
     .accesskey = M
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Selige tote le adresses in { $type }
+    .accesskey = t
 pill-action-select-all-pills =
     .label = Seliger tote le adresses
     .accesskey = S
