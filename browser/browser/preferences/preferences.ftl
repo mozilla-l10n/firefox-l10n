@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = Hedapen bat, <img 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } hedapenak { -brand-short-name } Internetera nola konektatzen den kontrolatzen du.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hedapenak kontrolatzen du ezarpen hau.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hedapenak kontrolatzen du ezarpen hau.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hedapenak edukiontzi-fitxak behar ditu.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hedapenak kontrolatzen du ezarpen hau.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }</strong> hedapenak { -brand-short-name } Internetera nola konektatzen den kontrolatzen du.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,17 @@ containers-remove-cancel-button = Ez kendu edukiontzia
 
 language-and-appearance-header = Hizkuntza eta itxura
 fonts-and-colors-header = Letra-tipoak eta koloreak
+preferences-web-appearance-header = Webgunearen itxura
+preferences-web-appearance-description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
+preferences-web-appearance-choice-browser = { -brand-short-name } itxura
+preferences-web-appearance-choice-system = Sistemaren itxura
+preferences-web-appearance-choice-light = Argia
+preferences-web-appearance-choice-dark = Iluna
+preferences-colors-header = Koloreak
+preferences-colors-manage-button =
+    .label = Kudeatu koloreak…
+    .accesskey = k
+preferences-fonts-header = Letra-tipoak
 default-font = Letra-tipo lehenetsia
     .accesskey = n
 default-font-size = Tamaina
