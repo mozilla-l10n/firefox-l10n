@@ -30,6 +30,11 @@ about-private-browsing-hide-activity = Ezkutatu zure jarduera eta kokapena, nabi
 about-private-browsing-get-privacy = Eskuratu pribatutasun-babesak nabigatzen duzun toki orotan
 about-private-browsing-hide-activity-1 = Ezkutatu nabigazio-jarduera eta kokapena { -mozilla-vpn-brand-name } erabiliz. Klik bakarrak konexio segurua sortzen du, baita Wi-Fi publikoetan ere.
 about-private-browsing-prominent-cta = Mantendu pribatu { -mozilla-vpn-brand-name } erabiliz
+about-private-browsing-focus-promo-cta = Deskargatu { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: nabigazio pribatua edonon
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,5 +47,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Itxi
-about-private-browsing-dismiss-button =
-    .title = Baztertu
+about-private-browsing-promo-close-button =
+    .title = Itxi
