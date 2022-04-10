@@ -80,6 +80,7 @@ ssl-error-rx-unknown-handshake = SSL паёми дастфишориро бо н
 ssl-error-rx-unknown-alert = SSL сабти огоҳиеро бо тавсифи огоҳии номаълум қабул кард.
 ssl-error-close-notify-alert = Ҳамсони SSL ин пайвастро қатъ кард.
 ssl-error-mac-computation-failure = Хатои ҳисобкунии MAC.
+ssl-error-user-canceled-alert = Корбари ҳамсон дастфишориро бекор кард.
 ssl-error-rx-unexpected-uncompressed-record = SSL сабти ногаҳони фишурданашударо қабул кард.
 ssl-error-feature-not-supported-for-servers = Хусусияти SSL барои серверҳо дастгирӣ намешавад.
 ssl-error-feature-not-supported-for-clients = Хусусияти SSL барои муштариён дастгирӣ намешавад.
