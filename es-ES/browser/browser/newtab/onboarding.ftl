@@ -26,7 +26,7 @@ return-to-amo-subtitle = Genial, ha instalado { -brand-short-name }
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Ahora obtengamos <img data-l10n-name="icon"/> <b>{ $addon-name }</b> para usted.
+return-to-amo-addon-title = Ahora obtenga <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Añadir la extensión
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
@@ -107,8 +107,8 @@ mr1-onboarding-reduce-motion-button-label = Desactivar animaciones
 # Title used on welcome page when Firefox is not pinned
 mr1-onboarding-pin-header =
     { PLATFORM() ->
-        [macos] Mantenga { -brand-short-name } en su Dock para un fácil acceso
-       *[other] Fije { -brand-short-name } a la barra de tareas para un fácil acceso
+        [macos] Mantener { -brand-short-name } en su Dock para un fácil acceso
+       *[other] Fijar { -brand-short-name } a la barra de tareas para un fácil acceso
     }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
