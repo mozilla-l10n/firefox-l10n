@@ -327,12 +327,26 @@ onboarding-live-language-skip-button-label = Saltatu
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    bider
+    <span data-l10n-name="zap">eskerrik asko</span>
 fx100-thank-you-subtitle = Gure 100. bertsioa da! Eskerrik asko Internet hobeago eta osasuntsuago bat eraikitzen laguntzeagatik.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Mantendu { -brand-short-name } Dock-ean
        *[other] Ainguratu { -brand-short-name } ataza-barran
     }
+fx100-upgrade-thanks-header = 100 bider eskerrik asko
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = { -brand-short-name }(e)n gure 100. bertsioa da! <em>Eskerrik asko</em> Internet hobeago eta osasuntsuago bat eraikitzen laguntzeagatik.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Gure 100. bertsioa da! Eskerrik asko gure komunitatearen parte izateagatik. Mantendu { -brand-short-name } klik bakarrera hurrengo 100etan ere bai.

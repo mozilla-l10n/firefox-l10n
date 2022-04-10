@@ -16,3 +16,7 @@ spotlight-ios-marketplace-button =
 
 ## Firefox Focus promo message strings
 
+spotlight-focus-promo-title = Eskuratu { -focus-brand-name }
+spotlight-focus-promo-subtitle = Deskargatzeko, eskaneatu QR kodea.
+spotlight-focus-promo-qr-code =
+    .alt = Eskaneatu QR kodea { -focus-brand-name } lortzeko.

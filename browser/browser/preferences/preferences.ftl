@@ -208,7 +208,30 @@ preferences-web-appearance-choice-browser = { -brand-short-name } itxura
 preferences-web-appearance-choice-system = Sistemaren itxura
 preferences-web-appearance-choice-light = Argia
 preferences-web-appearance-choice-dark = Iluna
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Errespetatu { -brand-short-name }(e)n itxuraren ezarpenak webguneen atzeko plano eta edukiarentzat.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Errespetatu zure sistemaren ezarpenak webguneen atzeko plano eta edukiarentzat.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Erabili itxura argia webguneen atzeko plano eta edukiarentzat.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Erabili itxura iluna webguneen atzeko plano eta edukiarentzat.
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Kudeatu { -brand-short-name }(r)en itxurak <a data-l10n-name="themes-link">Hedapenak eta itxura</a> atalean
 preferences-colors-header = Koloreak
+preferences-colors-description = Baliogabetu { -brand-short-name }(r)en kolore lehenetsiak testu, webguneen atzeko plano eta loturentzat.
 preferences-colors-manage-button =
     .label = Kudeatu koloreak…
     .accesskey = k
