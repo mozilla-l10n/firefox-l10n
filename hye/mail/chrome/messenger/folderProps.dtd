@@ -17,13 +17,20 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "աւրական">
 <!ENTITY message.label "հաղորդագրութիւններ">
+<!ENTITY retentionCleanup.label "Սկաւառակի տարածքը վերականգնելու համար հին հաղորդագրութիւնները կարող են մշտապէս ջնջուել․">
+<!ENTITY retentionCleanupImap.label "Սկաւառակի տարածքը վերականգնելու համար, հին հաղորդագրութիւնները կարող են մշտապէս ջնջուել, տեղական եւ ինքնատիպ պատճէնները  կը մնան հեռակայ սպասարկիչի նեքոյ․․․">
+<!ENTITY retentionCleanupPop.label "Սկաւառակի տարածքը վերականգնելու համար հին հաղորդագրութիւնները կարող են ընդմիշտ ջնջուել, ներառեալ հեռաւոր սպասարկիչի վրայի բնաւրինակները:">
+<!ENTITY retentionDeleteMsg.label "Ջնջել հաղորդագրութիւնները աւելի քան">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որեւէ հաղորդագրութիւն">
 <!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Ջնջել բոլորը, բացի վերջիններից">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանշուած հաղորդագրութիւնները">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
+<!ENTITY folderSynchronizationTab.label          "Համաժամեցում">
+<!ENTITY folderCheckForNewMessages2.label         "Այս հաշուին նոր հաղորդագրութիւններ ստանալիս միշտ ստուգել այս թղթապանակը">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Ընտրել այս պանակը անցանց աւգտագործելու համար">
@@ -51,10 +58,13 @@
 <!ENTITY folderOtherUsers.label                  "Միւսները, ում հասանելի է այս թղթապանակը․">
 <!ENTITY folderType.label                        "Թղթապանակի տեսակը․">
 
+<!ENTITY folderQuotaTab.label                    "Մէջբերում">
+<!ENTITY folderQuotaUsage.label                  "Գործածում՝">
 <!ENTITY folderQuotaStatus.label                 "Կարգավիճակ՝">
 
 <!ENTITY numberOfMessages.label                  "Հաղորդագրութիւնների քանակը՝">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "անյայտ">
+<!ENTITY sizeOnDisk.label                        "Չափը սկաւառակի վրայ՝">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "անյայտ">
