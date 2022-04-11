@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Kõik kalendrid on praegu välja lülitatud. Sündmuste loomiseks ja muutmiseks lülita olemasolev kalender sisse või lisa uus.
 calendar-deactivated-notification-tasks = Kõik kalendrid on praegu välja lülitatud. Ülesannete loomiseks ja muutmiseks lülita olemasolev kalender sisse või lisa uus.
+calendar-notifications-label = Teavituste kuvamine tulevaste sündmuste kohta
+calendar-add-notification-button =
+    .label = Lisa teavitus
