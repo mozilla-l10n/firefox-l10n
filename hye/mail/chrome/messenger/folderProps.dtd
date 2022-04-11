@@ -8,10 +8,15 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել վերջնական ֆայղի ցուցիչը">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել պանակը">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Երբեմն թղթապանակի ինդեքսի ֆայղը (.msf) վնասուում է եւ նամակները կարող են չերեւալ կամ ջնջուել, թղթապանակի վերականգնումը կարող է ուղղել այս սխալը։">
+<!ENTITY folderIncludeInGlobalSearch.label       "Ներառել հաղոդագրութիւները այս պանակում ՝ համաշխարհային որոնման արդիւնքների ներքոյ">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
+<!ENTITY retention.label "Պահպանման քաղաքականութիւն">
 <!ENTITY retentionUseAccount.label  "Աւգտագործել իմ հաշուի կարգաւորումները">
 <!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "աւրական">
+<!ENTITY message.label "հաղորդագրութիւններ">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որեւէ հաղորդագրութիւն">
 <!ENTITY retentionKeepAll.accesskey "A">
