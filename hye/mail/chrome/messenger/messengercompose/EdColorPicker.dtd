@@ -3,4 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Գոյն">
+<!ENTITY chooseColor1.label "Ընտրէք գոյն․">
+<!ENTITY chooseColor2.label "Մուտքագրէք HTML գոյնի տող">
+<!ENTITY setColorExample.label "(աւր․՝ &quot;#0000ff&quot; կամ &quot;կապոյտ&quot;):">
 <!ENTITY default.label "Սկզբնադիր">
+<!ENTITY standardPalette.label "Սովորական">
+<!ENTITY webPalette.label "Բոլոր վեբ գոյները">
