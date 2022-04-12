@@ -54,6 +54,15 @@ addr-book-directories-pane-title = Select the directory you would like to import
 addr-book-directories-pane-source = Source file:
 addr-book-import-into-new-directory = Create a new directory
 
+## Import from address book file steps
+
+import-from-calendar-file-desc = Select the iCalendar (.ics) file you would like to import.
+calendar-items-loading = Loading items…
+calendar-items-filter-input =
+    .placeholder = Filter items…
+calendar-select-all-items = Select all
+calendar-deselect-all-items = Deselect all
+
 ## Import dialog
 
 progress-pane-title = Importing
