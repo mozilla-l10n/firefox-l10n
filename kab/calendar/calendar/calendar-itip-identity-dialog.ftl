@@ -5,3 +5,4 @@
 calendar-itip-identity-dialog-title = Aɣelluy n tmeɣra?
 calendar-itip-identity-warning = Mazal ulac-ik·ikem ɣef tebdart n yinebgawen.
 calendar-itip-identity-label = Err am:
+calendar-itip-identity-label-none = Qqen tadyant-a ɣer:

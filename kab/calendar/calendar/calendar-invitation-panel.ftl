@@ -36,3 +36,6 @@ calendar-invitation-panel-partstat-tentative = { $count } ahat
 # Variables:
 # $count (Number) - The number of attendees with the "NEEDS-ACTION" participation status.
 calendar-invitation-panel-partstat-needs-action = { $count } yettraǧun
+# Variables:
+# $count (Number) - The total number of attendees.
+calendar-invitation-panel-partstat-total = { $count } yimttekkiyen

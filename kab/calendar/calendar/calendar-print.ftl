@@ -13,4 +13,5 @@ calendar-print-filter-completedtasks = Tiwuriwin yyemmden
 calendar-print-filter-taskswithnoduedate = Tiwuriwin s war azemz n taggara
 calendar-print-range-from = Seg
 calendar-print-range-to = Ɣer
+calendar-print-back-button = Tuɣalin
 calendar-print-next-button = Uḍfir

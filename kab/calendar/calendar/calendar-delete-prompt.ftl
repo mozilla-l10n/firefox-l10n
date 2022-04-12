@@ -12,3 +12,8 @@ calendar-delete-event-prompt-message =
         [one] Tebɣiḍ s tidet ad tekkseḍ aneḍru-a?
        *[other] Tebɣiḍ s tidet ad tekkseḍ { $count } agi n yineḍruyen?
     }
+calendar-delete-task-prompt-title =
+    { $count ->
+        [one] Kkes tawuri
+       *[other] Kkes tiwuriwin
+    }
