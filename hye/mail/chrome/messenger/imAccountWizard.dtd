@@ -2,15 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle.label            "Զրոյցի հաշուի խորհրդատու">
 
+<!ENTITY accountProtocolTitle.label   "Զրուցարանի ցանց">
+<!ENTITY accountProtocolInfo.label    "Խնդրում ենք ընտրել ձեր զրոյցի հաշուի ցանցը:">
+<!ENTITY accountProtocolField.label   "Ցանց՝">
 <!ENTITY accountProtocolGetMore.label "Ստանալ աւելին…">
 
-<!ENTITY accountUsernameTitle.label   "Կեղծանուն">
+<!ENTITY accountUsernameTitle.label   "Աւգտանուն">
 <!ENTITY accountUsernameDuplicate.label "Այս հաշիւն արդէն կազմաձեւուած է:">
 
 <!ENTITY accountPasswordTitle.label   "Գաղտնաբառ">
+<!ENTITY accountPasswordInfo.label    "Խնդրում ենք մուտքագրել Ձեր գաղտնաբառը ստորեւ նշուած վանդակում:">
 <!ENTITY accountPasswordField.label   "Գաղտնաբառ․">
+<!ENTITY accountPasswordManager.label "Այստեղ մուտքագրուած գաղտնաբառը կը պահուի գաղտնաբառերի կառավարիչում: Այս տուփը դատարկ թողէք,  եթե ցանկանում էք ամէն անգամ մուտքագրել Ձեր գաղտնաբառը։
+">
 
+<!ENTITY accountAdvancedTitle.label   "Յաւելեալ հնարաւորութիւններ">
+<!ENTITY accountAdvancedInfo.label    "Կարող էք բաց թողնել այս քայղը։">
+<!ENTITY accountAdvanced.newMailNotification.label   "Տեղեկացնել նոր նամակի մասին">
 <!ENTITY accountAliasGroupbox.caption "Տեղական այղանուն">
 <!ENTITY accountAliasField.label      "Այղանուն․">
 <!ENTITY accountProxySettings.change.label     "Փոխել…">
