@@ -286,6 +286,7 @@ dictionary-heading = Идоракунии луғатҳои худ
 locale-heading = Идоракунии забонҳои худ
 updates-heading = Идоракунии навсозиҳои худ
 sitepermission-heading = Идоракунии иҷозатҳои сомонаи худ
+discover-heading = Браузери { -brand-short-name }-и худро шахсӣ кунед
 shortcuts-heading = Идоракунии миёнбурҳои васеъшавӣ
 default-heading-search-label = Гирифтани ҷузъҳои иловагии бештар
 addons-heading-search-input =
