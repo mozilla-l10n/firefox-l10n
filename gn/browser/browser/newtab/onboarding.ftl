@@ -344,3 +344,8 @@ fx100-thank-you-pin-primary-button-label =
        *[other] Emboja { -brand-short-name } tembiapo rendáre
     }
 fx100-upgrade-thanks-header = 100 Aguyje
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Ore ñemyasãi 100 { -brand-short-name } rehegua. Aguyje <em>ndéve</em> orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = ¡Ore ñemyasãi 100! Aguyje reime haguére ore rekohápe. Eguereko { -brand-short-name } nde ykére ouvétava 100 ndiveguápe.
