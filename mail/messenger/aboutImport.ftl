@@ -62,6 +62,7 @@ calendar-items-filter-input =
     .placeholder = Filter items…
 calendar-select-all-items = Select all
 calendar-deselect-all-items = Deselect all
+calendar-import-into-new-calendar = Create a new calendar
 
 ## Import dialog
 
@@ -74,6 +75,7 @@ error-pane-title = Error
 error-message-zip-file-too-big = The selected zip file is larger than 2GB. Please extract it first, then import from the extracted folder instead.
 error-message-extract-zip-file-failed = Failed to extract the zip file. Please extract it manually, then import from the extracted folder instead.
 error-message-failed = Import failed unexpectedly, more information may be available in the Error Console.
+error-failed-to-parse-ics-file = No importable items found in the file.
 error-export-failed = Export failed unexpectedly, more information may be available in the Error Console.
 
 ## <csv-field-map> element
