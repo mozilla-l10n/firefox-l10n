@@ -5,6 +5,9 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-title = Ugar seg { -vendor-short-name }
+more-from-moz-category =
+    .tooltiptext = Ugar seg { -vendor-short-name }
 more-from-moz-subtitle = Senqed ifarisen-nniḍen n { -vendor-short-name } i iteddun i internet zeddigen.
 more-from-moz-firefox-mobile-title = { -brand-product-name } aziraz
 more-from-moz-firefox-mobile-description = Iminig aziraz yettarran tudert-ik tabaḍnit deg umḍiq amezwaru.

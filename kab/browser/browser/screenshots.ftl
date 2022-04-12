@@ -21,6 +21,8 @@ screenshots-copy-button-title =
     .title = Nɣel tuṭṭfa   ɣef afus
 screenshots-cancel-button-title =
     .title = Sefsex
+screenshots-retry-button-title =
+    .title = Ales aneεruḍ n unegzum
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

@@ -88,6 +88,18 @@ extension-controlled-websites-content-blocking-all-trackers = Asiɣzef, <img dat
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Azegrir, <img data-l10n-name="icon"/> { $name }, isefrak amek { -brand-short-name } ad iqqen γer internet.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> issenqad aɣewwar-a.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> issenqad aɣewwar-a.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> yesra accaren imagbaren.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> yessenqad aɣewwar-a.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -136,6 +148,14 @@ warn-on-close-multiple-tabs =
 confirm-on-close-multiple-tabs =
     .label = Sentem send amdal n waṭas n waccaren
     .accesskey = ṭ
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Sentem send ad teffɣeḍ s { $quitKey }
+    .accesskey = n
 warn-on-open-many-tabs =
     .label = Lɣu-id ticki ẓẓay { -brand-short-name } ma ldin ddeqs n yiccaren
     .accesskey = L
@@ -179,6 +199,24 @@ containers-remove-cancel-button = Ur tekkes ara amagbar-a
 
 language-and-appearance-header = Tutlayt d urwes
 fonts-and-colors-header = Tisefsiyin d yiniten
+preferences-web-appearance-header = Arwes n usmel web
+preferences-web-appearance-choice-browser = Asentel n { -brand-short-name }
+preferences-web-appearance-choice-system = Asentel n unagraw
+preferences-web-appearance-choice-light = Acaεlal
+preferences-web-appearance-choice-dark = Aberkan
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = Initen
+preferences-colors-manage-button =
+    .label = Sefrek initen…
+    .accesskey = I
+preferences-fonts-header = Tisefsiyin
 default-font = Tasefsit tamezwarut
     .accesskey = K
 default-font-size = Teɣzi
@@ -856,6 +894,8 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Inagan n tuqqna n uḍfar gar yismal — akked yinagan n tuqqna n umidyat anmetti
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Inagan n tuqqna gar yismal — akked yinagan n tuqqna n umidyat anmetti
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Inagan n tuqqna i uḍfaṛ gar yismal
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Ineḍfaren gar yismal d wid n yiẓeḍwa inmettiyen d uɛzal n yinagan n tuqqna i d-yeqqimen
 sitedata-option-block-unvisited =

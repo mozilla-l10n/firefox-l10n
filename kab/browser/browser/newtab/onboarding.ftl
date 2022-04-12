@@ -316,3 +316,4 @@ fx100-thank-you-hero-text =
     100
     tikkal
     <span data-l10n-name="zap">tanemmirt</span>
+fx100-upgrade-thanks-header = 100 tikkal tanemmirt
