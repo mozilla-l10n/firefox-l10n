@@ -9,9 +9,11 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
+<!ENTITY glodaFacetView.loading.label "Որոնուում է &#8230;֊ը">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
+<!ENTITY glodaFacetView.empty.label "Ոչ մի հաղորդագրութիւն չի համապատասխանում Ձեր որոնմանը">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
