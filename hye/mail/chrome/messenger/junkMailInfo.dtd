@@ -1,0 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title  "Անպիտան փոստի մասին">
+<!ENTITY window.width  "450">
+<!ENTITY info1a.label  "&brandShortName;-ը միանգամից ջնջում է մուտքային նամակները, որոնք որակուում են որպէս թափաւն։ Նամակները, որոնք &brandShortName;-ը որակում է որպէս փոստաղբ, կը ցուցադրվի թափաւնի պատկերով։">
+<!ENTITY info1b.label  "․">

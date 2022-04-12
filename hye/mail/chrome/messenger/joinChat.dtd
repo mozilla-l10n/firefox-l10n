@@ -3,3 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY joinChatWindow.title           "Միանալ զրուցարանին">
+<!ENTITY name.label                     "Զրուցարան">
+<!ENTITY optional.label                 "(ըստ ցանկութեան)">
+<!ENTITY account.label                  "Հաշիւ">
+<!ENTITY autojoin.label                 "Ինքնաշխատ միանալ այս զրուցարան">
+<!ENTITY autojoin.accesskey             "A">
