@@ -326,6 +326,18 @@ onboarding-live-language-skip-button-label = Jepo
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    Aguyje
+    <span data-l10n-name="zap">Ndéve</span>
+fx100-thank-you-subtitle = ¡Ore ñemyasãi 100! Aguyje orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Ereko { -brand-short-name } Dock ndive
