@@ -11,8 +11,11 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Ներածել">
+<!ENTITY importAll.label          "Ներմուծել ամէն ինչ">
 <!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "Ել․ փոստ">
 <!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "Բաժանորդագրութիւններ">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Հասցէագրքեր">
 <!ENTITY importAddressbook.accesskey "A">
@@ -21,10 +24,28 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFilters.label      "Զտիչներ">
 <!ENTITY importFilters.accesskey  "F">
 
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
+<!ENTITY importTitle.label        "&brandShortName; Ներմուծման աւգնագան">
+<!ENTITY importShortDesc.label    "Ներմուծէ՛ք փոստ, հասցէագրքեր, կարգաւորումներ եւ զտիչներ այղ ծրագրերից">
 
+<!ENTITY importDescription1.label "Աւգնականը կը ներմուծի նամակներ, հասցէագրքեր, բաժանորդագրութիւններ եւ/կամ զտիչներ այղ փոստային ծրագրից, եւ ընտրուած հասցէներ &brandShortName;-ում։">
+<!ENTITY importDescription2.label "Երբ դրանք ներմուծուեն, դուք կը կարողանաք մուտք գործել &brandShortName;-ից:">
 
+<!ENTITY selectDescription.label  "Խնդրում ենք ընտրել նիշի տեսակը, որը դուք ցանկանում էք ներմուծել.">
+<!ENTITY selectDescriptionB.label "Խնդրում ենք ընտրել գոյութիւն ունեցող հաշիւ կամ ստեղծել նորը․">
+<!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "Անուն՝">
+<!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Ոչ մի ծրագիր կամ ֆայղ չի գտնուել տուեալների ներմուծման համար:">
 
+<!ENTITY back.label               "&lt; Ետ">
+<!ENTITY forward.label            "Յաջորդ &gt;">
+<!ENTITY finish.label             "Ավարտել">
+<!ENTITY cancel.label             "Չեղարկել">
 
+<!ENTITY select.label             "կամ ընտրէք ներմուծուող նիւթի տեսակը՝">
 
+<!ENTITY title.label              "Կոչում">
 <!ENTITY processing.label         "Ներածում…">
