@@ -201,7 +201,7 @@ newtab-section-header-highlights = Нуқтаҳои асосӣ
 newtab-section-header-recent-activity = Фаъолияти охирин
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Аз тарафи { $provider } тавсия карда мешавад
+newtab-section-header-pocket = Аз тарафи { $provider } тавсия дода мешавад
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -260,7 +260,7 @@ newtab-custom-row-selector =
        *[other] { $num } сатр
     }
 newtab-custom-sponsored-sites = Миёнбурҳои сарпарастӣ
-newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия карда мешавад
+newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия дода мешавад
 newtab-custom-pocket-subtitle = Муҳтавои мустасно аз тарафи { -pocket-brand-name }, қисми оилаи { -brand-product-name } дастгирӣ карда мешавад
 newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-recent-title = Фаъолияти охирин

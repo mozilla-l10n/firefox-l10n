@@ -550,7 +550,7 @@ home-prefs-shortcuts-by-option-sponsored =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
-    .label = Аз тарафи { $provider } тавсия карда мешавад
+    .label = Аз тарафи { $provider } тавсия дода мешавад
 home-prefs-recommended-by-description-update = Муҳтавои мустасно аз Интернет, ки аз тарафи { $provider } интихоб карда шудааст
 home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
 
