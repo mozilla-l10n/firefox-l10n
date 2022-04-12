@@ -73,6 +73,9 @@ upgrade-dialog-start-secondary-button = Mačči tura
 
 ## Colorway screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-colorway-title = Fren initen-ik·im
+upgrade-dialog-colorway-secondary-button = Ḥrez asentel yezrin
 upgrade-dialog-colorway-theme-tooltip =
     .title = Snirem isental imezwar
 upgrade-dialog-colorway-default-theme = Amezwer
@@ -89,4 +92,6 @@ upgrade-dialog-theme-secondary-button = Mačči tura
 
 ## Thank you screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-thankyou-title = Tanemmirt imi d nekkni i tferneḍ
 upgrade-dialog-thankyou-primary-button = Bdu tunigin
