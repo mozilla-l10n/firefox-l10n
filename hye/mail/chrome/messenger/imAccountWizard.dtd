@@ -23,6 +23,11 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Տեղեկացնել նոր նամակի մասին">
 <!ENTITY accountAliasGroupbox.caption "Տեղական այղանուն">
 <!ENTITY accountAliasField.label      "Այղանուն․">
+<!ENTITY accountAliasInfo.label       "Սա կը ցուցադրուի միայն զրուցի ժամանակ, հեռաւոր կապորդներն այն չեն տեսնի:">
+<!ENTITY accountProxySettings.caption "Վստահուած անձի կարգաւորումներ">
 <!ENTITY accountProxySettings.change.label     "Փոխել…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 
+<!ENTITY accountSummaryTitle.label   "Ամփոփում">
+<!ENTITY accountSummaryInfo.label    "Ձեր մուտքագրած տեղեկատուութեան ամփոփագիրը ցուցադրուում է ստորեւ: Խնդրում ենք ստուգել այն նախքան հաշիւը ստեղծելը:">
+<!ENTITY accountSummary.connectNow.label "Կապակցել այս հաշիւը հիմա:">
