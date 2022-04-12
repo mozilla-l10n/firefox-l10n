@@ -85,7 +85,11 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.longDesc "<ul> <li>Гэтая праблема часам вынікае з забароны або адмаўлення ад набывання бірак.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Гэтая праблема часам вынікае з адключэння або адмовы прыняць кукі.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
