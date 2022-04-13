@@ -42,6 +42,8 @@
 <!ENTITY  newContactCmd.label "Հասցէագրքի կապորդ…">
 <!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMenuCmd.label "Բացել">
+<!ENTITY openMenuCmd.accesskey "O">
+<!ENTITY openMessageFileCmd.label "Պահպանուած նամակ…">
 <!ENTITY offlineMenu.label "Անցանց">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
 <!ENTITY offlineGoOfflineCmd.accesskey "ա">
