@@ -100,11 +100,45 @@
 <!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "Ջնջել թղթապանակը">
 <!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Բաժանորդագրութիւնն աւարտել">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
+<!ENTITY selectMenu.label "Ընտրել">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Բոլորը">
+<!ENTITY all.accesskey "A">
+<!ENTITY selectThreadCmd.label "Շղթայ">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Աստղանշուած նամակներ">
+<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY menuFavoriteFolder.label "Ընտրեալ թղթապանակ">
+<!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY folderPropsCmd2.label "Յատկութիւններ...">
+<!ENTITY folderPropsFolderCmd2.label "Թղթապանակի յատկութիւնները">
+<!ENTITY folderPropsNewsgroupCmd2.label "Տեղեկատուախմբերի յատկութիւնները">
+<!ENTITY folderPropsCmd.accesskey "օ">
+<!ENTITY undoDeleteMsgCmd.label "Յետ ջնջել նամակը">
+<!ENTITY redoDeleteMsgCmd.label "Վերարկել՝ ջնջել նամակը">
+<!ENTITY undoMoveMsgCmd.label "Յետ՝ տեղափոխել նամակը">
+<!ENTITY redoMoveMsgCmd.label "Վերարկել՝ տեղափոխել նամակը">
+<!ENTITY undoCopyMsgCmd.label "Յետ՝ պատճէնել նամակը">
+<!ENTITY redoCopyMsgCmd.label "Վերարկել՝ պատճէնել նամակը">
+<!ENTITY undoMarkAllCmd.label "Յետարկել՝ բշել բոլորը ընթերցուած">
+<!ENTITY redoMarkAllCmd.label "Վերարկել՝ նշել բոլորը ընթերցուած">
 <!ENTITY undoDefaultCmd.label "Յետարկել">
-<!ENTITY redoDefaultCmd.label "Կրկնել">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "Վերարկել">
+<!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Ցանկագաւտի">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Փոստային գործիքներ">
+<!ENTITY showMessengerToolbarCmd.accesskey "օ">
+<!ENTITY customizeToolbar.label "Կարգաւորել…">
+<!ENTITY customizeToolbar.accesskey "C">
 
+<!ENTITY messagePaneLayoutStyle.label "Դասաւորութիւն">
 
 
 <!-- Sort Menu -->
