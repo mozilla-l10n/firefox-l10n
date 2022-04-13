@@ -139,13 +139,62 @@
 <!ENTITY customizeToolbar.accesskey "C">
 
 <!ENTITY messagePaneLayoutStyle.label "Դասաւորութիւն">
+<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneClassic.label "Դասական տեսք">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneWide.label "Լայն դիտում">
+<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneVertical.label "Ուղղահայեաց տեսք">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Թղթապանակի փեղկ">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Թղթապանակի վահանակի սիւներ">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showMessageCmd.label "Նամակի վահանակ">
+<!ENTITY showMessageCmd.accesskey "M">
 
+<!ENTITY folderView.label "Թղթապանակներ">
+<!ENTITY folderView.accesskey "F">
+<!ENTITY unifiedFolders.label "Միացեալ">
+<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY allFolders.label "Բոլորը">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "Չընթերցուած">
+<!ENTITY unreadFolders.accesskey "Ս">
+<!ENTITY favoriteFolders.label "Ընտրեալ">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "Վերջին">
+<!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Հաւաք տեսք">
+<!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
+<!ENTITY sortMenu.label "Տեսակաւորել ըստ">
+<!ENTITY sortMenu.accesskey "Տ">
+<!ENTITY sortByDateCmd.label "Ամսաթիւ">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByReceivedCmd.label "Ստացուած">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByStarCmd.label "Աստղ">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Կցորդներ">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
+<!ENTITY sortByPriorityCmd.label "Առաջնահերթ">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Չափը">
+<!ENTITY sortBySizeCmd.accesskey "z">
 <!ENTITY sortByStatusCmd.label "Կարգավիճակ">
 <!ENTITY sortByStatusCmd.accesskey "Կ">
+<!ENTITY sortByTagsCmd.label "Պիտակներ">
+<!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "Թափաւնի կարգավիճակ">
 <!ENTITY sortByJunkStatusCmd.accesskey "Թ">
+<!ENTITY sortBySubjectCmd.label "Թեմայ">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortByFromCmd.label "Ումից">
+<!ENTITY sortByRecipientCmd.label "Ստացողը">
+<!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
+<!ENTITY sortByUnreadCmd.label "Ընթերցել">
 
 
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Սկզբնադիր ձեւաչափ">
