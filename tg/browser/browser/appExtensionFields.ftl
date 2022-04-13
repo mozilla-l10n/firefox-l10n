@@ -6,7 +6,7 @@
 ## Theme names and descriptions used in the Themes panel in about:addons
 
 # "Auto" is short for automatic. It can be localized without limitations.
-extension-default-theme-name-auto = Мавзӯи низом — худкор
+extension-default-theme-name-auto = Мавзуи низом — худкор
 extension-default-theme-description = Истифодаи танзимоти низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо.
 extension-firefox-compact-light-name = Равшан
 extension-firefox-compact-light-description = Мавзуъ бо нақшаи рангҳои равшан.

@@ -639,8 +639,8 @@ repair-text-encoding-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open the add-ons manager
 toolbar-addons-themes-button =
-    .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
-    .tooltiptext = Ҷузъҳои иловагӣ ва мавзӯъҳои худро идора кунед ({ $shortcut })
+    .label = Ҷузъҳои иловагӣ ва мавзуъҳо
+    .tooltiptext = Ҷузъҳои иловагӣ ва мавзуъҳои худро идора кунед ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

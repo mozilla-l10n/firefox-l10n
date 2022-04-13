@@ -223,7 +223,7 @@ newtab-discovery-empty-section-topstories-timed-out = Хуш! Мо ин қисм
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Мавзӯъҳои маъмул:
+newtab-pocket-read-more = Мавзуъҳои маъмул:
 newtab-pocket-new-topics-title = Ҳикоятҳои боз ҳам бештар лозиманд? Ба ҳамин мавзуъҳои оммавӣ аз { -pocket-brand-name } нигаред
 newtab-pocket-more-recommendations = Тавсияҳои бештар
 newtab-pocket-learn-more = Маълумоти бештар

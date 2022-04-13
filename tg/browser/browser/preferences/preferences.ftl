@@ -48,7 +48,7 @@ pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
 help-button-label = Дастгирии { -brand-short-name }
-addons-button-label = Васеъшавиҳо ва мавзӯъҳо
+addons-button-label = Васеъшавиҳо ва мавзуъҳо
 focus-search =
     .key = f
 close-button =
@@ -205,11 +205,11 @@ fonts-and-colors-header = Шрифтҳо ва рангҳо
 preferences-web-appearance-header = Намуди зоҳирии сомона
 preferences-web-appearance-description = Баъзе сомонаҳо нақшаи рангҳои худро дар асоси бартариҳо шумо мутобиқ мекунанд. Интихоб кунед, ки шумо кадом нақшаи рангро барои он сомонаҳо истифода бурдан мехоҳед.
 preferences-web-appearance-choice-browser = Мавзуи { -brand-short-name }
-preferences-web-appearance-choice-system = Мавзӯи низомӣ
+preferences-web-appearance-choice-system = Мавзуи низомӣ
 preferences-web-appearance-choice-light = Равшан
 preferences-web-appearance-choice-dark = Торик
 preferences-web-appearance-choice-tooltip-browser =
-    .title = Танзимоти мавзӯии { -brand-short-name }-и худро барои заминаҳои ва муҳтавои сомонаҳо мувофиқ кунед.
+    .title = Танзимоти мавзуии { -brand-short-name }-и худро барои заминаҳои ва муҳтавои сомонаҳо мувофиқ кунед.
 preferences-web-appearance-choice-tooltip-system =
     .title = Танзимоти низоми худро барои заминаҳои ва муҳтавои сомонаҳо мувофиқ кунед.
 preferences-web-appearance-choice-tooltip-light =
@@ -229,7 +229,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад. <a data-l10n-name="colors-link">Рангҳоро идора кунед</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Мавзӯъҳои { -brand-short-name }-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзӯъҳо</a> идора кунед
+preferences-web-appearance-footer = Мавзуъҳои { -brand-short-name }-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзуъҳо</a> идора кунед
 preferences-colors-header = Рангҳо
 preferences-colors-description = Рангҳои пешфарзи { -brand-short-name }-ро барои матн, заминаҳои сомонаҳо ва пайвандҳо иваз намоед.
 preferences-colors-manage-button =
@@ -760,7 +760,7 @@ sync-engine-creditcards =
     .accesskey = К
 sync-engine-addons =
     .label = Ҷузъҳои иловагӣ
-    .tooltiptext = Ҷузъҳои иловагӣ ва мавзӯъҳо барои Firefox-и мизи корӣ
+    .tooltiptext = Ҷузъҳои иловагӣ ва мавзуъҳо барои Firefox-и мизи корӣ
     .accesskey = Ҷ
 sync-engine-settings =
     .label = Танзимот

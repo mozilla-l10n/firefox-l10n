@@ -75,7 +75,7 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Намуди зоҳириеро</span> интихоб намоед
-onboarding-multistage-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзӯи дилхоҳ иваз намоед.
+onboarding-multistage-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзуи дилхоҳ иваз намоед.
 onboarding-multistage-theme-primary-button-label2 = Тайёр
 onboarding-multistage-theme-secondary-button-label = Ҳоло не
 # Automatic theme uses operating system color settings
@@ -165,11 +165,11 @@ mr2-onboarding-theme-label-auto = Худкор
 # This string will be used for Default theme
 mr2-onboarding-theme-label-default = Пешфарз
 mr1-onboarding-theme-header = Соҳиби он шавед
-mr1-onboarding-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзӯи дилхоҳ иваз намоед.
-mr1-onboarding-theme-primary-button-label = Нигоҳ доштани мавзӯъ
+mr1-onboarding-theme-subtitle = Намуди зоҳирии { -brand-short-name }-ро бо мавзуи дилхоҳ иваз намоед.
+mr1-onboarding-theme-primary-button-label = Нигоҳ доштани мавзуъ
 mr1-onboarding-theme-secondary-button-label = Ҳоло не
 # System theme uses operating system color settings
-mr1-onboarding-theme-label-system = Мавзӯи низомӣ
+mr1-onboarding-theme-label-system = Мавзуи низомӣ
 mr1-onboarding-theme-label-light = Равшан
 mr1-onboarding-theme-label-dark = Торик
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -190,12 +190,12 @@ mr1-onboarding-theme-label-alpenglow = Нури алпӣ
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
-        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
+        мавзуи низоми амалкунандаи шуморо истифода мебарад.
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
-        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
+        мавзуи низоми амалкунандаи шуморо истифода мебарад.
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
@@ -232,42 +232,42 @@ onboarding-multistage-theme-description-alpenglow =
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
-        Истифодаи мавзӯи низоми амалкунанда
+        Истифодаи мавзуи низоми амалкунанда
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
-        Истифодаи мавзӯи низоми амалкунанда
+        Истифодаи мавзуи низоми амалкунанда
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
-        Истифодаи мавзӯи равшан
+        Истифодаи мавзуи равшан
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
-        Истифодаи мавзӯи равшан
+        Истифодаи мавзуи равшан
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
-        Истифодаи мавзӯи торик
+        Истифодаи мавзуи торик
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
-        Истифодаи мавзӯи торик
+        Истифодаи мавзуи торик
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        Истифодаи мавзӯи мутараққӣ ва рангин
+        Истифодаи мавзуи мутараққӣ ва рангин
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
-        Истифодаи мавзӯи мутараққӣ ва рангин
+        Истифодаи мавзуи мутараққӣ ва рангин
         барои тугмаҳо, менюҳо ва равзанаҳо.
 # Tooltip displayed on hover of non-default colorway theme
 # variations e.g. soft, balanced, bold
@@ -288,9 +288,9 @@ mr2-onboarding-colorway-tooltip =
 mr2-onboarding-colorway-label = Нақшу нигори { $colorwayName }-ро озмоед.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
-    .title = Мавзӯъҳои пешфарзро озмоед.
+    .title = Мавзуъҳои пешфарзро озмоед.
 # Selector description for default themes
-mr2-onboarding-default-theme-label = Мавзӯъҳои пешфарзро озмоед.
+mr2-onboarding-default-theme-label = Мавзуъҳои пешфарзро озмоед.
 
 ## Strings for Thank You page
 

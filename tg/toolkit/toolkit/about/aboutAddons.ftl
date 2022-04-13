@@ -186,7 +186,7 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Васеъшавиҳо ва мавзӯъҳо — онҳо мисли барномаҳо дар браузери шумо кор мекунанд, ва имкон медиҳанд, ки шумо тавонед ниҳонвожаҳоро муҳофизат кунед, видеоҳоро боргирӣ намоед, тахфифҳоро ба даст оред, рекламаи безоркунандаро манъ кунед, намуди зоҳирии браузери худро иваз намоед, ва ғайра. Ҳамин барномаҳои хурди
+    Васеъшавиҳо ва мавзуъҳо — онҳо мисли барномаҳо дар браузери шумо кор мекунанд, ва имкон медиҳанд, ки шумо тавонед ниҳонвожаҳоро муҳофизат кунед, видеоҳоро боргирӣ намоед, тахфифҳоро ба даст оред, рекламаи безоркунандаро манъ кунед, намуди зоҳирии браузери худро иваз намоед, ва ғайра. Ҳамин барномаҳои хурди
     нармафзор аксари вақт аз ҷониби тарафҳои сеюм таҳия карда мешаванд. Маҷмӯи зерин аз тарафи { -brand-product-name } нисбат ба амният, самаранокии кор ва фаъолият <a data-l10n-name="learn-more-trigger">тавсия дода мешавад</a>.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
@@ -199,12 +199,12 @@ privacy-policy = Сиёсати махфият
 #   $dailyUsers (number) - The number of daily users.
 user-count = Корбарон: { $dailyUsers }
 install-extension-button = Илова кардан ба { -brand-product-name }
-install-theme-button = Насб кардани мавзӯъ
+install-theme-button = Насб кардани мавзуъ
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Идоракунӣ
 find-more-addons = Гирифтани ҷузъҳои иловагии бештар
-find-more-themes = Гирифтани мавзӯъҳои бештар
+find-more-themes = Гирифтани мавзуъҳои бештар
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =

@@ -9,13 +9,12 @@
 ## Default Developer Tools section
 
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = Мавзӯъҳо
+options-select-dev-tools-theme-label = Мавзуъҳо
 
 ## Inspector section
 
 # The heading
 options-context-inspector = Тафтишкунанда
-
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Намоиш додани услубҳои браузер
 
@@ -30,7 +29,6 @@ options-default-color-unit-name = Номҳои ранг
 
 # The heading
 options-styleeditor-label = Муҳаррири услубҳо
-
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Анҷомдиҳии худкор барои рамзи CSS
 
@@ -44,4 +42,3 @@ options-stylesheet-autocompletion-label = Анҷомдиҳии худкор ба
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Танзимоти иловагӣ
-

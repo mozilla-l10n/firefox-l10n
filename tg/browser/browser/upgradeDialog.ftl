@@ -18,7 +18,7 @@ upgrade-dialog-new-item-tabs-description = Иттилоотро покизако
 upgrade-dialog-new-item-icons-title = Нишонҳои нав ва паёмҳои соф
 upgrade-dialog-new-item-icons-description = Ба шумо барои ёфтани роҳи худ бо як ламси сабук ёрӣ медиҳад.
 upgrade-dialog-new-primary-default-button = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
-upgrade-dialog-new-primary-theme-button = Мавзӯеро интихоб кунед
+upgrade-dialog-new-primary-theme-button = Мавзуеро интихоб кунед
 upgrade-dialog-new-secondary-button = Ҳоло не
 # This string is only shown on Windows 7, where we intentionally suppress the
 # theme selection screen.
@@ -61,9 +61,9 @@ upgrade-dialog-default-secondary-button = Ҳоло не
 ## Theme selection screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title-2 = Аз варақи сафед бо мавзӯи нав оғоз кунед
-upgrade-dialog-theme-system = Мавзӯи низомӣ
-    .title = Истифодаи мавзӯи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
+upgrade-dialog-theme-title-2 = Аз варақи сафед бо мавзуи нав оғоз кунед
+upgrade-dialog-theme-system = Мавзуи низомӣ
+    .title = Истифодаи мавзуи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
 
 ## Start screen
 
@@ -78,9 +78,9 @@ upgrade-dialog-start-secondary-button = Ҳоло не
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Рангубори худро интихоб намоед
 # This is shown to users with a custom home page, so they can switch to default.
-upgrade-dialog-colorway-home-checkbox = Аз саҳифаи асосии «Firefox» бо мавзӯи рангин истифода баред
+upgrade-dialog-colorway-home-checkbox = Аз саҳифаи асосии «Firefox» бо мавзуи рангин истифода баред
 upgrade-dialog-colorway-primary-button = Нигоҳ доштани нақшу нигор
-upgrade-dialog-colorway-secondary-button = Мавзӯи қаблиро нигоҳ доред
+upgrade-dialog-colorway-secondary-button = Мавзуи қаблиро нигоҳ доред
 upgrade-dialog-colorway-theme-tooltip =
     .title = Мавзуъҳои пешфарзро озмоед
 # $colorwayName (String) - Name of colorway, e.g., Abstract, Cheers
@@ -89,16 +89,16 @@ upgrade-dialog-colorway-colorway-tooltip =
 upgrade-dialog-colorway-default-theme = Пешфарз
 # "Auto" is short for "Automatic"
 upgrade-dialog-colorway-theme-auto = Худкор
-    .title = Истифодаи мавзӯи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
+    .title = Истифодаи мавзуи низоми амалкунанда барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-light = Равшан
-    .title = Истифодаи мавзӯи равшан барои тугмаҳо, менюҳо ва равзанаҳо
+    .title = Истифодаи мавзуи равшан барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-dark = Торик
-    .title = Истифодаи мавзӯи торик барои тугмаҳо, менюҳо ва равзанаҳо
+    .title = Истифодаи мавзуи торик барои тугмаҳо, менюҳо ва равзанаҳо
 upgrade-dialog-theme-alpenglow = Нури алпӣ
-    .title = Истифодаи мавзӯи мутараққӣ ва рангин барои тугмаҳо, менюҳо ва равзанаҳо
-upgrade-dialog-theme-keep = Истифодаи мавзӯи қаблӣ
-    .title = Аз мавзӯе истифода баред, ки шумо пеш аз навсозии { -brand-short-name } насб кардед
-upgrade-dialog-theme-primary-button = Нигоҳ доштани мавзӯъ
+    .title = Истифодаи мавзуи мутараққӣ ва рангин барои тугмаҳо, менюҳо ва равзанаҳо
+upgrade-dialog-theme-keep = Истифодаи мавзуи қаблӣ
+    .title = Аз мавзуе истифода баред, ки шумо пеш аз навсозии { -brand-short-name } насб кардед
+upgrade-dialog-theme-primary-button = Нигоҳ доштани мавзуъ
 upgrade-dialog-theme-secondary-button = Ҳоло не
 upgrade-dialog-colorway-variation-soft = Нарм
     .title = Ин нақшу нигорро истифода баред
