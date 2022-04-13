@@ -54,14 +54,52 @@
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "Ստանալ նոր նամակներ՝">
 <!ENTITY getNewMsgForCmd.accesskey "w">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Բոլոր հաշիւները">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ընթացիկ հաշիւ">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.label "Ստացէք յաջորդ նորութիւնների հաղորդագրութիւնները">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Ուղարկել չուղարկուած նամակները">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Բաժանորդագրուել…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Ջնջել թղթապանակը">
+<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY renameFolder.label "Վերանուանել թղթապանակը…">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Սեղմել թղթապանակները">
+<!ENTITY compactFolders.accesskey "F">
+<!ENTITY emptyTrashCmd.label "Դատարկ աղբարկղ">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Անցանց">
+<!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
 <!ENTITY offlineGoOfflineCmd.accesskey "ա">
 <!ENTITY synchronizeOfflineCmd.label "Ներբեռնել/Համաժամեցնել հիմա…">
 <!ENTITY synchronizeOfflineCmd.accesskey "Հ">
 <!ENTITY settingsOfflineCmd2.label "Անցանց կարգաւորումներ">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Ներբեռնել ընտրուած նամակները">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Ստանալ աստղանշուած նամակները">
+<!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY printCmd.label "Տպել…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "p">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Ջնջել նամակը">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Ետարկել հաղորդագրութեան ջնջումը">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY deleteMsgsCmd.label "Ջնջել ընտրուած նամակները">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Ետարկել ընտրուած նամակների ջնջումը">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY deleteFolderCmd.label "Ջնջել թղթապանակը">
+<!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY undoDefaultCmd.label "Յետարկել">
 <!ENTITY redoDefaultCmd.label "Կրկնել">
 
