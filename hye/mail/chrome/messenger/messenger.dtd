@@ -195,6 +195,10 @@
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
 <!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
+<!ENTITY sortByOrderReceivedCmd.label "Պատուերը ստացուել է">
+<!ENTITY sortAscending.label "Աճմամբ">
+<!ENTITY sortDescending.label "Նուազող">
+<!ENTITY sortThreaded.label "Շղթայուած">
 
 
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Սկզբնադիր ձեւաչափ">
