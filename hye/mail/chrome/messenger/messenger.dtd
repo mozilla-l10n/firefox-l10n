@@ -44,6 +44,16 @@
 <!ENTITY openMenuCmd.label "Բացել">
 <!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Պահպանուած նամակ…">
+<!ENTITY openMessageFileCmd.accesskey "M">
+<!ENTITY saveAsMenu.label "Պահպանել որպէս">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Նիշ">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Նմուշ">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgForCmd.label "Ստանալ նոր նամակներ՝">
+<!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY offlineMenu.label "Անցանց">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
 <!ENTITY offlineGoOfflineCmd.accesskey "ա">
