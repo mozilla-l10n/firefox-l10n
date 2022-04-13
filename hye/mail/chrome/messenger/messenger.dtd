@@ -196,7 +196,7 @@
 <!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
 <!ENTITY sortByOrderReceivedCmd.label "Պատուերը ստացուել է">
-<!ENTITY sortAscending.label "Աճմամբ">
+<!ENTITY sortAscending.label "Աճող">
 <!ENTITY sortDescending.label "Նուազող">
 <!ENTITY sortThreaded.label "Շղթայուած">
 
