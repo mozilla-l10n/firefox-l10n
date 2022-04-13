@@ -198,6 +198,8 @@ about-debugging-extension-id =
 about-debugging-extension-backgroundscript-status-running = Иҷро шуда истодааст
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = Қатъ карда шудааст
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Аз қайд гирифтан
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Қабулкунии дурдаст
