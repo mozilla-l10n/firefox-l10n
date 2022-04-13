@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Ҳуруф
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Ҳуруф барои
     .accesskey = Ҳ
-
 fonts-langgroup-arabic =
     .label = Арабӣ
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Мутаносиб
     .accesskey = М
-
 fonts-default-serif =
     .label = Барҷаста
 fonts-default-sans-serif =
     .label = Ғайрибарҷаста
-
 fonts-proportional-size = Андоза
     .accesskey = А
-
 fonts-serif = Барҷаста
     .accesskey = Б
-
 fonts-sans-serif = Ғайрибарҷаста
     .accesskey = Ғ
-
 fonts-monospace = Яклухт
     .accesskey = Я
-
 fonts-monospace-size = Андоза
     .accesskey = А
-
-fonts-minsize = Андозаи ҳадди аққали ҳарф
+fonts-minsize = Андозаи ҳадди ақали ҳарф
     .accesskey = А
-
 fonts-minsize-none =
     .label = Ҳеҷ
-
 fonts-allow-own =
     .label = Ба саҳифаҳои сомонаҳо иҷозат диҳед, то ки онҳо ба ҷойи ҳуруфи интихобкардаи шумо аз ҳуруфи худ истифода баранд
     .accesskey = Б
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -32,5 +32,5 @@ policy-Proxy = Хусусиятҳои проксиро танзим мекуна
 policy-SearchSuggestEnabled = Пешниҳодҳои ҷустуҷӯро фаъол ё ғайрифаъол мекунад.
 policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» дар навори абзорҳо.
 policy-SSLVersionMax = Версия ҳадди аксари SSL-ро танзим мекунад.
-policy-SSLVersionMin = Версия ҳадди аққали SSL-ро танзим мекунад.
+policy-SSLVersionMin = Версия ҳадди ақали SSL-ро танзим мекунад.
 policy-Windows10SSO = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ.
