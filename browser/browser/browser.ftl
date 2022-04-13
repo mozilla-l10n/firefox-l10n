@@ -735,7 +735,7 @@ popups-infobar-block =
 ##
 
 popups-infobar-dont-show-message =
-    .label = Не паказваць гэта паведамленне, калі выплыўныя вокны затрымліваюцца
+    .label = Не паказваць паведамленне, калі выплыўныя вокны заблакаваны
     .accesskey = Н
 edit-popup-settings =
     .label = Кіраваць наладамі ўсплыўных вокнаў…
