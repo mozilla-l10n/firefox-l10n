@@ -110,7 +110,7 @@ other-bookmarks-folder =
 places-remove-bookmark =
     .label =
         { $count ->
-            [1] Выдаліць закладкі
+            [1] Выдаліць закладку
             [one] Выдаліць закладку
             [few] Выдаліць закладкі
            *[many] Выдаліць закладкі
