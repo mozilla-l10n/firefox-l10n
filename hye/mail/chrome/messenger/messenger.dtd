@@ -3,13 +3,45 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label "-">
 
 <!-- File Menu -->
+<!ENTITY newFolderCmd.label "Թղթապանակ…">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY closeTabCmd2.label "Փակել ներդիրը">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Փակել մեւս ներդիրները">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Վերջին փակուած ներդիրները">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY moveToNewWindow.label "Տեղափոխել նոր պատուհան">
+<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY newVirtualFolderCmd.label "Պահպանուած որոնում…">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Այղ հաշիւներ…">
+<!ENTITY newOtherAccountsCmd.accesskey "Օ">
+<!ENTITY newCreateEmailAccountCmd.label "Ստեղծել նոր փոստային հաշիւ…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Առկայ փոստային հաշիւ…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Զրոյցի հաշիւ…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "Զրոյցի կապորդ…">
+<!ENTITY newIMContactCmd.accesskey "հ">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Հաղորդագրութիւն">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Հասցէագրքի կապորդ…">
+<!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Բացել">
 <!ENTITY offlineMenu.label "Անցանց">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
 <!ENTITY offlineGoOfflineCmd.accesskey "ա">
