@@ -24,3 +24,5 @@ devtools-commandkey-storage = VK_F9
 devtools-commandkey-dom = W
 # Key pressed to open a toolbox with the accessibility panel selected
 devtools-commandkey-accessibility-f12 = VK_F12
+# Key pressed to start or stop the performance profiler
+devtools-commandkey-profiler-start-stop = VK_1

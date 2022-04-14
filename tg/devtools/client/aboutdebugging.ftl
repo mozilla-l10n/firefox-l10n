@@ -198,6 +198,9 @@ about-debugging-extension-id =
 about-debugging-extension-backgroundscript-status-running = Иҷро шуда истодааст
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = Қатъ карда шудааст
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Оғоз кардан
+    .disabledTitle = Айни ҳол коркуни хизматрасонӣ барои { -brand-shorter-name }-и серраванд ғайрифаъол аст
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Аз қайд гирифтан
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -208,6 +211,8 @@ about-debugging-worker-fetch-listening =
 about-debugging-worker-fetch-not-listening =
     .label = Қабулкунии дурдаст
     .value = Рӯйдодҳои қабулкунии дурдастро назорат намекунад
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Қатъ карда шудааст
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Раванди асосӣ

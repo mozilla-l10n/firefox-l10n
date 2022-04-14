@@ -34,6 +34,7 @@ perftools-devtools-settings-label = Танзимот
 
 ##
 
+perftools-button-start-recording = Оғози сабт
 perftools-button-cancel-recording = Бекор кардани сабт
 perftools-button-save-settings = Нигоҳ доштани танзимот ва бозгашт
 perftools-button-restart = Аз нав оғоз кардан
