@@ -57,6 +57,12 @@ error-pane-title = Tuccḍa
 ## <csv-field-map> element
 
 csv-source-field = Urti aɣbalu
+csv-source-first-record = Asekles amezwaru
+csv-source-second-record = Asekles wis sin
+csv-target-field = Urtan n imedlis n tensa
 
 ## Export tab
 
+export-open-profile-folder = Ldi akaram n umaɣnu
+export-file-picker = Sifeḍ afaylu s umasal zip
+export-brand-name = { -brand-product-name }
