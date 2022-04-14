@@ -211,6 +211,10 @@ exchange-dialog-cancel-button = Sefsex
 exit-dialog-title = Ulac amiḍan n yimayl yettusawlen
 account-setup-no-account-checkbox = Seqdec { -brand-short-name } s war amiḍan n yimayl
     .accesskey = S
+exit-dialog-cancel-button = Kemmel tawila
+    .accesskey = K
+exit-dialog-confirm-button = Eǧǧ tawila
+    .accesskey = E
 
 ## Alert dialogs
 
@@ -236,6 +240,20 @@ account-setup-calendar-button = Qqen ɣer uwitay anmeggag
 account-setup-linked-services-title = Qqen ɣer yimeẓla-inek·inem yeqqnen
 account-setup-linked-services-description = { -brand-short-name } yufa-d imeɣla-nniḍen yeqqnen ɣer umiḍan-ik·im n yimayl.
 account-setup-no-linked-description = Sesteb imeẓla-nniḍen i wakken ad tfaṛseḍ ugar seg termit n { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } yufa-d yiwen umedlis n tansiwin yeqqen ɣer umiḍan-ik·im n yimayl.
+       *[other] { -brand-short-name } yufa-d { $count } yimedlisen n tansiwin qqnen ɣer umiḍan-ik·im n yimayl.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } yufa-d yiwen uwitay yeqqen ɣer umiḍan-ik·im n yimayl.
+       *[other] { -brand-short-name } yufa-d { $count } yiwitayen qqnen ɣer umiḍan-ik·im n yimayl.
+    }
 account-setup-button-finish = Fak
     .accesskey = F
 account-setup-looking-up-address-books = Anadi n yimedlisen n tansiwin…
