@@ -92,3 +92,4 @@ experimental-features-ime-search-description = IME (Input Method Editor) d afeck
 # Firefox 100
 experimental-features-firefox-100 =
     .label = Azrir n User-Agent { -brand-product-name } 100
+experimental-features-firefox-100-description = Ssuter i { -brand-short-name } ad yazen i yismal web azrir User-Agent i yellan waqil d lqem 100 n { -brand-product-name }. Seqdec aɣewwar-a i usekyed n yismal web ma yella ttruẓun mi ara { -brand-short-name } yewweḍ ɣer wuṭṭun n lqem s tlata yizwilen. Lqem 100 n { -brand-product-name } n tidet ad d-yeffeɣ deg mayyu 2022, ihi bdu asekyed n yismal-ik·im web seg tura!
