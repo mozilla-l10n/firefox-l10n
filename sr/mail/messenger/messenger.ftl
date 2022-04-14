@@ -12,6 +12,9 @@ about-rights-notification-text = { -brand-short-name } је слободан и 
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Додаци и теме
+    .tooltiptext = Управљајте вашим додацима
 quick-filter-toolbarbutton =
     .label = Брзо филтрирање
     .tooltiptext = Филтрира поруке
@@ -84,6 +87,9 @@ other-action-redirect-msg =
 
 ## Add-on removal warning
 
+repair-text-encoding-button =
+    .label = Поправи кодирање текста
+    .tooltiptext = Претпостави исправан кодни распоред текста на основу садржаја поруке
 
 ## no-reply handling
 
@@ -109,3 +115,40 @@ spaces-toolbar-button-settings =
     .title = Пребаци се на подешавања
 spaces-toolbar-button-collapse =
     .title = Скупи просторну траку
+spaces-toolbar-button-mail2 =
+    .title = Пошта
+spaces-toolbar-button-address-book2 =
+    .title = Именик
+spaces-toolbar-button-calendar2 =
+    .title = Календар
+spaces-toolbar-button-tasks2 =
+    .title = Задаци
+spaces-toolbar-button-chat2 =
+    .title = Ћаскање
+settings-context-open-settings-item =
+    .label = Отвори подешавања
+settings-context-open-account-settings-item =
+    .label = Отвори подешавања налога
+settings-context-open-addons-item =
+    .label = Отвори додатке и теме
+
+## Spaces toolbar pinned tab menupopup
+
+
+## Spaces toolbar customize panel
+
+spaces-context-customize =
+    .label = Прилагоди…
+spaces-customize-panel-title = Подешавања просторног страничника
+spaces-customize-background-color = Боја позадине
+spaces-customize-icon-color = Боја дугмета
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Боја позадине изабраног дугмета
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Боја изабраног дугмета
+spaces-customize-button-restore = Врати подразумевано
+    .accesskey = р
+spaces-customize-button-save = Готово
+    .accesskey = Г
