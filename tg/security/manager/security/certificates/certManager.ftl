@@ -25,6 +25,7 @@ exception-mgr-cert-location-download =
 
 ## PKCS#12 file dialogs
 
+file-browse-pkcs12-spec = Файлҳои PKCS12
 
 ## Import certificate(s) file dialog
 

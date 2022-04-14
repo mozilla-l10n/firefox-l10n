@@ -211,6 +211,9 @@ about-debugging-worker-fetch-listening =
 about-debugging-worker-fetch-not-listening =
     .label = Қабулкунии дурдаст
     .value = Рӯйдодҳои қабулкунии дурдастро назорат намекунад
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Иҷро шуда истодааст
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Қатъ карда шудааст
 # Displayed as name for the Main Process debug target in the Processes category. Only for
