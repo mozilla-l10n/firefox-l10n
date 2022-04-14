@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Apri link in nuova scheda
 styleeditor-copy-url =
     .label = Copia URL
+styleeditor-go-to-line =
+    .label = Passa alla riga…
+    .accesskey = P
