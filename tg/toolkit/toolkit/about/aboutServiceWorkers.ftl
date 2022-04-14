@@ -5,6 +5,8 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = Дар бораи коркунони хизматрасонӣ
+about-service-workers-main-title = Коркунони хизматрасонии бақайдгирифташуда
 
 ## These strings are for showing the information of workers.
 ##
