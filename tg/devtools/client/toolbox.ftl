@@ -13,6 +13,8 @@
 
 toolbox-meatball-menu-splitconsole-label = Намоиш додани консоли тақсимшуда
 toolbox-meatball-menu-settings-label = Танзимот
+toolbox-meatball-menu-documentation-label = Ҳуҷҷатҳо…
+toolbox-meatball-menu-community-label = Ҷомеа…
 
 ##
 

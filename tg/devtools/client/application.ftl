@@ -21,6 +21,9 @@ serviceworker-worker-unregister = Аз қайд гирифтан
 # displayed when the link is disabled.
 serviceworker-worker-debug = Ислоҳ кардани хатоҳо
     .title = Танҳо коркунони хизматрасонии ҷорӣ ислоҳ карда мешаванд
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Баррасӣ
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Оғоз кардан

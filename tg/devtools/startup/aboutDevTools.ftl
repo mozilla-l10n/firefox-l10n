@@ -13,4 +13,5 @@ newsletter-thanks-title = Ташаккур!
 footer-learn-more-link = Маълумоти бештар
 features-learn-more = Маълумоти бештар
 features-inspector-title = Тафтишкунанда
+features-debugger-title = Ислоҳкунанда
 newsletter-error-unknown = Хатои ногаҳон ба миён омад.

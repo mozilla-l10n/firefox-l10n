@@ -6,6 +6,10 @@
 devtools-commandkey-toggle-toolbox = I
 # Alternative key pressed to open a toolbox with the default panel selected
 devtools-commandkey-toggle-toolbox-f12 = VK_F12
+# Key pressed to open the Browser Toolbox, used for debugging Firefox itself
+devtools-commandkey-browser-toolbox = I
+# Key pressed to open the Browser Console, used for debugging Firefox itself
+devtools-commandkey-browser-console = J
 # Key pressed to open a toolbox with the inspector panel selected
 devtools-commandkey-inspector = C
 # Key pressed to open a toolbox with the web console panel selected

@@ -42,7 +42,9 @@ about-webrtc-type-remote = Дурдаст
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
-about-webrtc-debug-mode-off-state-label = Оғози реҷаи ислоҳи нуқсонҳо
+about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
+about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо
+about-webrtc-debug-mode-on-state-label = Қатъ кардани реҷаи ислоҳи нуқсонҳо
 about-webrtc-stats-clear = Пок кардани таърих
 
 ## These are used to display a header for a PeerConnection.
