@@ -28,15 +28,35 @@ app-name-apple-mail = Apple Mail
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Kter seg { $app }
 items-pane-title = Fren acu ara tketreḍ
+items-pane-checkbox-address-books = Imedlisen n tensa
+items-pane-checkbox-calendars = Iwitayen
+items-pane-checkbox-mail-messages = Iznan n tirawt
 
 ## Import from address book file steps
 
+addr-book-directories-pane-source = Afaylu aɣbalu:
+addr-book-import-into-new-directory = Snulfu-d akaram amaynut
+
+## Import from address book file steps
+
+calendar-items-loading = Asali n yiferdisen...
+calendar-items-filter-input =
+    .placeholder = Iferdisen n imsizdig…
+calendar-select-all-items = Fren akk
+calendar-deselect-all-items = Kkes akk afran
+calendar-import-into-new-calendar = Rnu awitay amaynut
 
 ## Import dialog
 
+progress-pane-title = Aktar
+progress-pane-importing = Aktar
+progress-pane-exporting = Asifeḍ
+progress-pane-finished-desc = Ifuk.
+error-pane-title = Tuccḍa
 
 ## <csv-field-map> element
 
+csv-source-field = Urti aɣbalu
 
 ## Export tab
 
