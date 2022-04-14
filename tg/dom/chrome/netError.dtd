@@ -16,6 +16,7 @@
 <!ENTITY fileNotFound.title "Файл ёфт нашуд">
 
 <!ENTITY fileAccessDenied.title "Дастрасӣ ба файл манъ карда шуд">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Эҳтимол, он тоза карда шудааст, ба ҷойи дигар интиқол дода шудааст ё иҷозатҳои файл дастрасиро манъ мекунанд.</li></ul>">
 
 <!ENTITY generic.title "Дархостро ба анҷом расонида наметавонад">
 <!ENTITY generic.longDesc "<p>Маълумоти иловагӣ дар бораи ин мушкилӣ ё хато ҳоло дастнорас аст.</p>">
