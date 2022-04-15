@@ -7,6 +7,14 @@
 ### feature.
 
 about-unloads-page-title = Asefsex n usali n yiccer
+about-unloads-intro =
+    { -brand-short-name } ɣur-s tamahilt i d-yessalayen accaren s wudem awurman
+    i wakken ad issewḥel taruẓi n usnas ssebba n lexṣaṣ n tkatut
+    mi ara txaṣ tkatut yellan n unagraw. Iccer uḍfir ara d-yalin
+    yettwafren almend n waṭas n yimrayen. Asebter-a yeskan-d amek
+    { -brand-short-name } iferren tazwar n waccaren akked anwa iccer ara d-yalin
+    mi ara yendeh usali n waccaren. Tzemreḍ ad tgeḍ aya s ufus
+    s usiti ɣef tqeffalt <em>Sali</em> ddaw.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Wali ammagrad <a data-l10n-name="doc-link">Tab Unloading</a> i wakken ad tissineḍ ugar
