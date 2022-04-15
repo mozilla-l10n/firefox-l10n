@@ -108,10 +108,10 @@ legacy-extensions =
     .value = Iseγzaf iqburen
 legacy-extensions-description = Iseγzaf-agi ur sεin ara ilugan n { -brand-short-name } imiranen γef aya ittwasensen. <label data-l10n-name="legacy-learn-more">Issin ugar ɣef usnifel ɣer izegrar</label>
 private-browsing-description2 =
-    { -brand-short-name } ittbeddil tarrayt make iteddu deg tunigt tusrigt. Ula dyiwen n usiɣzef are ternuḍ ɣer 
+    { -brand-short-name } ittbeddil tarrayt ma iteddu deg tunigin tusligt. Ula d asiɣzef ara ternuḍ ɣer 
     { -brand-short-name } ur yettwaselkam swudem amezwer deg usfaylu uslig. Ma yella ur t-termideḍ ara deg yiɣewwaren, 
-    asiɣzef ur iteddu ara deg tunigt tusrigt, daɣen ur ikeččem ara ɣer urmud-ik
-    srid. Nexdem abeddel-a akken akken tunigt-ik tusligt ad teqqim d tabadnit.
+    asiɣzef ur iteddu ara deg tunigin tusligt, daɣen ur ikeččem ara ɣer urmud-ik
+    srid. Nexdem abeddel-a akken tunigin-ik tusligt ad teqqim d tabadnit.
     <label data-l10n-name="private-browsing-learn-more">Issin amek ara tesferkeḍ iɣewwaren n usiɣzef</label>
 addon-category-discover = Iwellihen
 addon-category-discover-title =
@@ -368,6 +368,7 @@ addon-permissions-optional = Tisirag tifrayanin i tmahilin yettwarnan:
 addon-permissions-learnmore = Issin ugar ɣef tsirag
 recommended-extensions-heading = Isiɣzaf ihulen
 recommended-themes-heading = Isental ihulen
+addon-sitepermissions-required = Mudd tizemmar-a i <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Tḥulfaḍ iman-ik tesnulfuyeḍ? <a data-l10n-name="link">Rnu asentel-ik s Firefox Color.</a>
@@ -380,6 +381,7 @@ plugin-heading = Sefrek izegrar-ik/im
 dictionary-heading = Sefrek imawalen-ik/im
 locale-heading = Sefrekl tutlayin-ik/im
 updates-heading = Sefrek ileqman-ik
+sitepermission-heading = Sefrek tisirag-ik•im n usmel
 discover-heading = Err { -brand-short-name }-ik d udmawan
 shortcuts-heading = Sefrek inegzumen n isiɣzaf
 default-heading-search-label = Aff-d ugar n yizegrar

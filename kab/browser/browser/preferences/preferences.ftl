@@ -221,6 +221,7 @@ preferences-web-appearance-override-warning = Tifranin-ik•im n yiniten ttbeddi
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
 preferences-colors-header = Initen
+preferences-colors-description = Snefli initen n wudem amezwer n { -brand-short-name } i uḍris, igilalen n yismal web akked yiseɣwan.
 preferences-colors-manage-button =
     .label = Sefrek initen…
     .accesskey = I
@@ -397,6 +398,9 @@ update-application-warning-cross-user-setting = Aɣewwaṛ-a ad yeḍḍu ɣef y
 update-application-use-service =
     .label = Seqdec ameẓlu n ugilal i usebded n ileqman
     .accesskey = b
+update-application-suppress-prompts =
+    .label = Sken-d kan cwiṭ n yilɣa n uleqqem
+    .accesskey = ɣ
 update-setting-write-failure-title2 = Tuccḍa deg usekles n yiɣewwaren n uleqqem
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -442,6 +446,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Seqdec adrurem aleggwaɣ
     .accesskey = e
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Sken yal tikkelt ifeggagen n udrurem
+    .accesskey = k
 browsing-use-onscreen-keyboard =
     .label = Sken anasiw amennalan ticki terra tmara
     .accesskey = n
@@ -904,6 +911,8 @@ sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Inagan n tuqqna gar yismal — akked yinagan n tuqqna n umidyat anmetti
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Inagan n tuqqna i uḍfaṛ gar yismal
+sitedata-option-block-cross-site-cookies =
+    .label = Inagan n tuqqna n uḍfar gar yismal d uɛzal n yinagan-nniḍen n tuqqna
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Ineḍfaren gar yismal d wid n yiẓeḍwa inmettiyen d uɛzal n yinagan n tuqqna i d-yeqqimen
 sitedata-option-block-unvisited =
@@ -986,6 +995,13 @@ content-blocking-all-windows-tracking-content = Agbur yettwaseqdec i uḍfaṛ d
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
 content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
+# "Test pilot" is used as a verb. Possible alternatives:
+# "Be the first to try", "Join an early experiment".
+content-blocking-etp-standard-tcp-rollout-checkbox =
+    .label =
+        Sekyed s wudem uzwir tamahilt n tbaḍnit iǧehden akk i urǧin i nfeṣṣel
+        tbaḍnit iǧehden akk urǧin i nfeṣṣel yakan
+    .accesskey = S
 content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-and-isolating-etp-warning-description = Asewḥel n yineḍfaren d uɛzal n yinagan n tuqqna yezmer ad iḥaz tamahilt n kra n yismal. Smiren asebter s yineḍfaren akken ad d-yali ugbur meṛṛa.
