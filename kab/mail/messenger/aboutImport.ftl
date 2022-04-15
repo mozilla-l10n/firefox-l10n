@@ -41,11 +41,21 @@ items-pane-checkbox-mail-messages = Iznan n tirawt
 
 ## Import from address book file steps
 
+import-from-addr-book-file-desc = Fren anaw n ufaylu i tebqiḍ ad d-tketreḍ:
+addr-book-csv-file = Afaylu iferqen s tefrayin neɣ s tebzimin (.csv, .tsv)
+addr-book-ldif-file = Afaylu n LDIF (.ldif)
+addr-book-vcard-file = Afaylu n vCard (.vcf, .vcard)
+addr-book-sqlite-file = Afaylu n taffa n yisefka n SQLite (.sqlite)
+addr-book-mab-file = Afaylu n taffa n yisefka s umasal Mork (.mab)
+addr-book-file-picker = Fren afaylu n yimedlis n tensa
+addr-book-csv-field-map-title = Semṣadi gar yismawen n wurti
+addr-book-directories-pane-title = Fren akaram i tebqiḍ ad d-tketreḍ:
 addr-book-directories-pane-source = Afaylu aɣbalu:
 addr-book-import-into-new-directory = Snulfu-d akaram amaynut
 
 ## Import from address book file steps
 
+import-from-calendar-file-desc = Fren afaylu iCalendar (.ics) i tebɣiḍ ad d-tketreḍ.
 calendar-items-loading = Asali n yiferdisen...
 calendar-items-filter-input =
     .placeholder = Iferdisen n imsizdig…
@@ -59,10 +69,12 @@ progress-pane-title = Aktar
 progress-pane-importing = Aktar
 progress-pane-exporting = Asifeḍ
 progress-pane-finished-desc = Ifuk.
+progress-pane-restart-desc = Ales asenker i wakken ad yemmed uktar.
 error-pane-title = Tuccḍa
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Izirig amezwaru yegber ismawen n wurtan
 csv-source-field = Urti aɣbalu
 csv-source-first-record = Asekles amezwaru
 csv-source-second-record = Asekles wis sin
