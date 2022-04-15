@@ -6,9 +6,17 @@ account-provisioner-tab-title = Awi tansa n yimayl seg usaǧǧaw n umeẓlu
 provisioner-searching-icon =
     .alt = Anadi…
 account-provisioner-title = Rnu tansa n yimayl tamaynut
+account-provisioner-description = Seqdec imendaden-nneɣ yettwamanen i wawway n tansa n yimayl tusligt, taɣellsant
+account-provisioner-mail-account-title = Aɣ tansa n yimayl tamaynut
+account-provisioner-mail-account-description = Thunderbird yeddukkel akked <a data-l10n-name="mailfence-home-link">Mailfence</a> i wakken ad ak·am-imudd imayl amaynut uslig aɣellsan. Nettwali ilaq isεu yal yiwen imayl aɣellsan.
+account-provisioner-domain-title = Aɣ imayl d telɣut inek·inem
 
 ## Forms
 
+account-provisioner-search-button = Nadi
+account-provisioner-button-cancel = Sefsex
+account-provisioner-button-existing = Seqdec amiḍan n yimayl yellan yakan
+account-provisioner-button-back = Uɣal ɣer deffir
 
 ## Notifications
 
@@ -18,3 +26,8 @@ account-provisioner-title = Rnu tansa n yimayl tamaynut
 
 ## Search results
 
+account-provisioner-free-account = Baṭel
+account-provision-price-per-year = { $price } i useggas
+account-provisioner-all-results-button = Sken akk igmaḍ
+account-provisioner-open-in-tab-img =
+    .title = Ldi deg yiccer amaynut
