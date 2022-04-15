@@ -78,6 +78,10 @@ abuse-report-broken-suggestions-extension =
     Ittban d akken yufiḍ-d abug. Ɣer tama n tuzna n uneqqis dagi, abrid ufrin
     akken ad tefruḍ ugur n tmahilt, d anermes n uneflay n usiɣzef.
     <a data-l10n-name="support-link">Rzu ɣer usmel n usiɣzef</a> akken ad tawiḍ talɣut ɣef uneflay.
+abuse-report-broken-suggestions-sitepermission =
+    Ittban belli tufiḍ-d abug. Ɣer tama n tuzna n uneqqis dagi, abrid ufrin
+    akken ad tefruḍ ugur n tmahilt, d anermes n uneflay n usmel web.
+    <a data-l10n-name="support-link">Rzu ɣer usmel web</a> i wakken ad tawiḍ talɣut ɣef uneflay.
 abuse-report-broken-suggestions-theme =
     Ittban d akken yufiḍ-d abug. Ɣer tama n tuzna n uneqqis dagi, abrid ufrin
     akken ad tefruḍ ugur n tmahilt, d anermes n uneflay n usentel.
