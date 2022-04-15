@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Tamezdagnut…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Sens tuffra tawurmant n yisfuyla udhimen
+toolbox-meatball-menu-pseudo-locale-accented = Rmed tutlayt “s ufeskil”
+toolbox-meatball-menu-pseudo-locale-bidi = Rmed tutlayt “bidi”
 
 ##
 
