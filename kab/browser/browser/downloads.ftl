@@ -215,6 +215,7 @@ downloads-files-not-downloaded =
        *[other] { $num } yifuyla ur d-ttwasadren ara.
     }
 downloads-blocked-from-url = Isadaren ttusweḥlen seg { $url }.
+downloads-blocked-download-detailed-info = { $url } yeεreḍ ad d-isader s wudem awurman aṭas n yifuyla. Asmel yezmer ad yili yerreẓ neɣ yettaεraḍ ad issekles ifuyla n uspam ɣef yibenk-ik·im.
 
 ##
 
