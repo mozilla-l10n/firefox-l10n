@@ -69,12 +69,15 @@ upgrade-dialog-theme-system = Asentel n unagraw
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Tudert ifeǧǧeǧen
+upgrade-dialog-start-primary-button = Snirem afran n yiniten
 upgrade-dialog-start-secondary-button = Mačči tura
 
 ## Colorway screen
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-colorway-title = Fren initen-ik·im
+# This is shown to users with a custom home page, so they can switch to default.
+upgrade-dialog-colorway-home-checkbox = Uɣal ɣer usebter agejdan n Firefox s yiniten n usentel-inek
 upgrade-dialog-colorway-secondary-button = Ḥrez asentel yezrin
 upgrade-dialog-colorway-theme-tooltip =
     .title = Snirem isental imezwar
