@@ -14,6 +14,16 @@ about-processes-shutdown-process =
     .title = Sefsex asali n waccaren, rnu neɣ akala
 about-processes-shutdown-tab =
     .title = Mdel iccer
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Eg amaɣnu i meṛṛa isqerdcen n usesfer-a i { $duration } tasint
+           *[other] Eg amaɣnu i meṛṛa isqerdcen n usesfer-a i { $duration } tsinin
+        }
 
 ## Column headers
 
