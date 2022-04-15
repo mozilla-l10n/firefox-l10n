@@ -199,6 +199,12 @@
 <!ENTITY sortAscending.label "Աճող">
 <!ENTITY sortDescending.label "Նուազող">
 <!ENTITY sortThreaded.label "Շղթայուած">
+<!ENTITY sortUnthreaded.label "Անթեմատիկ">
+<!ENTITY groupBySort.label "Դասաւորել ըստ տեսակի">
+<!ENTITY groupBySort.accesskey "Դ">
+<!ENTITY msgsMenu.label "Նամակներ">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Քննարկումներ">
 
 
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Սկզբնադիր ձեւաչափ">
