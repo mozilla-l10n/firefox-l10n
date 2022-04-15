@@ -25,9 +25,9 @@
 <!ENTITY account.disconnect.label     "Անջատել">
 <!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Ջնջել">
-<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.delete.accesskey     "Ջ">
 <!ENTITY account.edit.label           "Յատկութիւններ">
-<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.edit.accesskey       "Յ">
 <!ENTITY account.moveup.label         "Բարձրացնել">
 <!ENTITY account.movedown.label       "Իջեցնել">
 <!ENTITY account.cancelReconnection.label         "Չեղարկել վերակապակցումը">
