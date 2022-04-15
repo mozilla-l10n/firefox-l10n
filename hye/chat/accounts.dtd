@@ -10,7 +10,7 @@
 <!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Նոր հաշիւ">
-<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.newAccount.accesskey "Ն">
 <!ENTITY accountManager.close.label          "Փակել">
 <!ENTITY accountManager.close.accesskey      "l">
 <!-- This should match account.commandkey in instantbird.dtd -->
