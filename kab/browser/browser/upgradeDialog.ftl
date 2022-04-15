@@ -79,6 +79,9 @@ upgrade-dialog-colorway-secondary-button = Ḥrez asentel yezrin
 upgrade-dialog-colorway-theme-tooltip =
     .title = Snirem isental imezwar
 upgrade-dialog-colorway-default-theme = Amezwer
+# "Auto" is short for "Automatic"
+upgrade-dialog-colorway-theme-auto = Awurman
+    .title = Ḍfer asentel n unagraw n wammud i tqeffalin, umuqen d yisfuyla
 upgrade-dialog-theme-light = Aceεlal
     .title = Seqdec asentel aceεlal i tqeffalin, umuɣen d yiwfuyla
 upgrade-dialog-theme-dark = Aberkan
@@ -94,4 +97,5 @@ upgrade-dialog-theme-secondary-button = Mačči tura
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-thankyou-title = Tanemmirt imi d nekkni i tferneḍ
+upgrade-dialog-thankyou-subtitle = { -brand-short-name } d iminig ilelli i teḥrez tkebbanit ur nettnadi ɣef tedrimt. Akk akken, ad nerr web d aɣellsan, d azedgan yerna d udlig ugar.
 upgrade-dialog-thankyou-primary-button = Bdu tunigin

@@ -30,4 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-message = <strong>Ammsedday-inek·inem n unadi yettwabeddel.</strong> { $oldEngine } d ayen ur yuɣal ara d amsedday n unadi amezwer deg { -brand-short-name }. { $newEngine } d wagi i d amsedday n unadi amezwer akka turai. I wakken ad tbeddleḍ amsedday-nniḍen n unadi amezwer, ddu ɣer yiɣewwaren. <label data-l10n-name="remove-search-engine-article">Issin ugar</label>
+removed-search-engine-message = <strong>Ammsedday-inek·inem n unadi yettwabeddel.</strong> { $oldEngine } d ayen ur yuɣal ara d amsedday n unadi amezwer deg { -brand-short-name }. { $newEngine } d wagi i d amsedday n unadi amezwer akka turai. I wakken ad tbeddleḍ amsedday-nniḍen n unadi amezwer, ddu ɣer yiɣewwaren. <label data-l10n-name="remove-search-engine-article">Issin ugar</label>
 remove-search-engine-button = IH
