@@ -7,6 +7,8 @@ import-page-title = Kter
 ## Header
 
 import-from-app = Kter seg usnas
+import-from-app-desc = Fren aktar n yimiḍanen, imedlisen n tansiwin, iwitayen akked yisefka-nniḍen seg:
+import-address-book = Kter afaylu n umedlis n tansiwin
 import-calendar = Kter afaylu n uwitay
 export-profile = Sifeḍ
 
@@ -27,7 +29,12 @@ app-name-apple-mail = Apple Mail
 # Variables:
 #   $app (String) - The name of the app to import from
 profiles-pane-title = Kter seg { $app }
+profiles-pane-desc = Fren adig seg wanda ara d-tketreḍ
+profile-file-picker-dir = Fren akaram n umaɣnu
+profile-file-picker-zip = Fren afaylu zip (wezzilen ɣef 2GB)
 items-pane-title = Fren acu ara tketreḍ
+items-pane-source = Adig n uɣbalu:
+items-pane-checkbox-accounts = Imiḍanen d Yiɣewwaren
 items-pane-checkbox-address-books = Imedlisen n tensa
 items-pane-checkbox-calendars = Iwitayen
 items-pane-checkbox-mail-messages = Iznan n tirawt
