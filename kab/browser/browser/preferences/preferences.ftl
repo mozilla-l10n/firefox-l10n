@@ -204,6 +204,8 @@ preferences-web-appearance-choice-browser = Asentel n { -brand-short-name }
 preferences-web-appearance-choice-system = Asentel n unagraw
 preferences-web-appearance-choice-light = Acaεlal
 preferences-web-appearance-choice-dark = Aberkan
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Seqdec arwes aberkan i ugilal akked ugbur n yismal web.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -212,6 +214,12 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web. <a data-l10n-name="colors-link">Sefrek initen</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
 preferences-colors-header = Initen
 preferences-colors-manage-button =
     .label = Sefrek initen…

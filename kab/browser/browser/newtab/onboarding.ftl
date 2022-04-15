@@ -316,4 +316,9 @@ fx100-thank-you-hero-text =
     100
     tikkal
     <span data-l10n-name="zap">tanemmirt</span>
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Eǧǧ { -brand-short-name } deg Dock
+       *[other] Senteḍ { -brand-short-name } deg ufeggag n tiwuriwin
+    }
 fx100-upgrade-thanks-header = 100 tikkal tanemmirt
