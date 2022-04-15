@@ -792,6 +792,8 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Ldi accaren yezrin?</strong> Tzemreḍ ad d-terreḍ tiɣimit-ik·im yezrin seg wumuɣ n usnas { -brand-short-name } <img data-l10n-name="icon"/>, ddaw Uzray.
 restore-session-startup-suggestion-button = Sken-iyi-d amek
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
