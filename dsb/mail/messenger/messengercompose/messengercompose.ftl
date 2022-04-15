@@ -34,6 +34,13 @@ pill-tooltip-not-in-address-book = { $email } njejo we wašom adresniku
 pill-action-edit =
     .label = Adresu wobźěłaś
     .accesskey = A
+#   $type (String) - the type of the addressing row, e.g. Cc, Bcc, etc.
+pill-action-select-all-sibling-pills =
+    .label = Wšykne adrese w { $type } wubraś
+    .accesskey = a
+pill-action-select-all-pills =
+    .label = Wšykne adrese wubraś
+    .accesskey = b
 pill-action-move-to =
     .label = Do Komu pśesunuś
     .accesskey = K
@@ -79,21 +86,6 @@ context-menuitem-attach-files =
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
-attachment-bucket-count =
-    .value =
-        { $count ->
-            [1] { $count } pśidank
-            [one] { $count } pśidank
-            [two] { $count } pśidanka
-            [few] { $count } pśidanki
-           *[other] { $count } pśidankow
-        }
-    .accesskey = d
-expand-attachment-pane-tooltip =
-    .tooltiptext = Pśidankowe wokno pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-collapse-attachment-pane-tooltip =
-    .tooltiptext = Pśidankowe wokno schowaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-#   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
         [1] { $count } pśidank
@@ -102,6 +94,10 @@ attachment-bucket-count-value =
         [few] { $count } pśidanki
        *[other] { $count } pśidankow
     }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Pśidankowe wokno pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Pśidankowe wokno schowaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-show =
     .title = Pśidankowe wokno pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 attachment-area-hide =
