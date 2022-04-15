@@ -279,6 +279,10 @@ mr2-onboarding-theme-description =
 #   $colorwayName (String) - Name of colorway
 mr2-onboarding-colorway-tooltip =
     .title = Snirem afran-a n yiniten { $colorwayName }.
+# Selector description for colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-label = Snirem afran-a n yiniten { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Snirem isental imezwer.
@@ -288,6 +292,7 @@ mr2-onboarding-default-theme-label = Snirem isental imezwer.
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = Tanemmirt imi d nekkni i tferneḍ
+mr2-onboarding-thank-you-text = { -brand-short-name } d iminig ilelli i teḥrez tkebbanit ur nettnadi ɣef tedrimt. Akk akken, ad nerr web d aɣellsan, d azedgan yerna d uslig ugar.
 mr2-onboarding-start-browsing-button-label = Bdu tunigin
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -308,6 +313,7 @@ mr2-onboarding-start-browsing-button-label = Bdu tunigin
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 
 onboarding-live-language-header = Fren tutlayt-ik·im
+onboarding-live-language-subtitle = { -brand-short-name } isseqdac { $appLanguage } ma yesseqdac unagraw-ik { $systemLanguage }.
 onboarding-live-language-switch-button-label = Uɣal ɣer { $negotiatedLanguage }
 onboarding-live-language-button-label-downloading = Asader n ukemmus n tutlayt i { $negotiatedLanguage }…
 onboarding-live-language-waiting-subtitle = Akka d-yettban anagraw-ik·im d { -brand-short-name } mačči kifkif tutlayt i sseqdacen.
