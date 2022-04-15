@@ -7,6 +7,7 @@ provisioner-searching-icon =
     .alt = Anadi…
 account-provisioner-title = Rnu tansa n yimayl tamaynut
 account-provisioner-description = Seqdec imendaden-nneɣ yettwamanen i wawway n tansa n yimayl tusligt, taɣellsant
+account-provisioner-start-help = Awalen n unadi yettusqedcen ttwaznen ɣer { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">Tasertit n tbaḍnit</a>) akked yisaǧǧawen n yimayl n wis kraḍ <strong>mailfence.com</strong> (<a data-l10n-name="mailfence-privacy-link">Tasertit n tbaḍnit</a>, <a data-l10n-name="mailfence-tou-link"> Tiwtilin n useqdec</a>) akked <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">Tasertit n tbaḍnit</a>, <a data-l10n-name="gandi-tou-link"> Tiwtilin n useqdec</a>) i tifin n tansiwin n yimayl yellan.
 account-provisioner-mail-account-title = Aɣ tansa n yimayl tamaynut
 account-provisioner-mail-account-description = Thunderbird yeddukkel akked <a data-l10n-name="mailfence-home-link">Mailfence</a> i wakken ad ak·am-imudd imayl amaynut uslig aɣellsan. Nettwali ilaq isεu yal yiwen imayl aɣellsan.
 account-provisioner-domain-title = Aɣ imayl d telɣut inek·inem
