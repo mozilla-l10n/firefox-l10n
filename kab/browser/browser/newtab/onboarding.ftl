@@ -150,6 +150,7 @@ mr1-onboarding-import-primary-button-label-attribution = Kter seg { $previous }
 mr1-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig wayeḍ
 mr1-onboarding-import-secondary-button-label = Mačči tura
 mr2-onboarding-colorway-header = Tudert ifeǧǧeǧen
+mr2-onboarding-colorway-primary-button-label = Sekles afran n yini
 mr2-onboarding-colorway-secondary-button-label = Mačči tura
 mr2-onboarding-colorway-label-soft = Leqqaq
 mr2-onboarding-colorway-label-balanced = Mnekni
@@ -265,6 +266,19 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Seqdec asentel arurad, s yini aččuran i tqeffalin,
         umuɣen d yiwfuyla.
+# Tooltip displayed on hover of non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-tooltip =
+    .title = Seqdec afran-a n yini.
+# Selector description for non-default colorway theme
+# variations e.g. soft, balanced, bold
+mr2-onboarding-theme-description =
+    .aria-description = Seqdec afran-a n yini.
+# Tooltip displayed on hover of colorway
+# Variables:
+#   $colorwayName (String) - Name of colorway
+mr2-onboarding-colorway-tooltip =
+    .title = Snirem afran-a n yiniten { $colorwayName }.
 # Tooltip displayed on hover of default themes
 mr2-onboarding-default-theme-tooltip =
     .title = Snirem isental imezwer.
