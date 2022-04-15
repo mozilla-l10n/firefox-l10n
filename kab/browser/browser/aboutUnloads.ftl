@@ -13,6 +13,7 @@ about-unloads-learn-more = Wali ammagrad <a data-l10n-name="doc-link">Tab Unload
 about-unloads-last-updated = Aleqqem anaggaru: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Sefsex asali
     .title = Asefsex n usali n yiccer yesεan azal afellay
+about-unloads-no-unloadable-tab = Ulac accaren i yegguman ad d-ttwasadren.
 about-unloads-column-priority = Tazwart
 about-unloads-column-host = Asenneftaɣ
 about-unloads-column-last-accessed = Anekcum aneggaru
