@@ -57,6 +57,7 @@ about-processes-socket-process = Rete ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker per sandbox remota ({ $pid })
 about-processes-fork-server-process = Fork server ({ $pid })
 about-processes-preallocated-process = Preallocato ({ $pid })
+about-processes-utility-process = Utilità ({ $pid })
 
 about-processes-unknown-process = Altro: { $type } ({ $pid })
 
@@ -108,6 +109,10 @@ about-processes-frame-name-one = Sottoframe: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Sottoframe ({ $number }): { $shortUrl }
+
+# Utility process actor names
+about-processes-utility-actor-unknown = Attore sconosciuto
+about-processes-utility-actor-audio-decoder = Decodificatore audio
 
 ## Displaying CPU (percentage and total)
 ## Variables:
