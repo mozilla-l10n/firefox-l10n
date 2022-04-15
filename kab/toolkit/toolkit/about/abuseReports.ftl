@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Aneqqis i { $addon-name }
 abuse-report-title-extension = Mmel asiɣzef-a i { -vendor-short-name }
+abuse-report-title-sitepermission = Mmel azegrir-a n usireg n usmel i { -vendor-short-name }
 abuse-report-title-theme = Mmel asentel-a i { -vendor-short-name }
 abuse-report-subtitle = D acu i d ugur?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Tuzna n uneqqis ɣef <span data-l10n-name="
 abuse-report-messagebar-submitted = Tanmirt ɣef uneqqis id-tuzneḍ. Tebɣiḑ ad tekkseḍ <span data-l10n-name="addon-name">{ $addon-name }</span> ?
 abuse-report-messagebar-submitted-noremove = Tanmirt ɣef uneqqis id-tuzneḍ.
 abuse-report-messagebar-removed-extension = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asiɣzef <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Tanemmirt ɣef uneqqis i d-tuzneḍ. Tekkseḍ azegrir n usireg n usmel <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asentel <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Tella tucḍa deg uzzna n uneqqis i <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Aneqqis n <span data-l10n-name="addon-name">{ $addon-name }</span> ur yettwazen ara acku aneqqis nniḍen yettwazen melmi kan.
