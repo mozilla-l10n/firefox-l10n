@@ -152,6 +152,8 @@ policy-OverridePostUpdatePage = Sostituisci la pagina “Novità” visualizzata
 
 policy-PasswordManagerEnabled = Attiva il salvataggio delle password nel gestore password.
 
+policy-PasswordManagerExceptions = Impedisci a { -brand-short-name } di salvare le password per determinati siti.
+
 policy-PDFjs = Disattiva o configura PDF.js, il lettore integrato di PDF di { -brand-short-name }.
 
 policy-Permissions2 = Configura i permessi per fotocamera, microfono, posizione, notifiche e riproduzione automatica.
