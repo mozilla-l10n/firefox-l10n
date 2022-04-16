@@ -137,6 +137,7 @@ spotlight-learn-more-expanded = Issin ugar
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Akka yettban tseqqdaceḍ Wi-Fi azayaz
+spotlight-public-wifi-vpn-body = I tuffra n wadig-ik•im akked urmud n tunigin, muqel ad tesqedceḍ azeṭṭa uslig uhlis (VPN). Ad ak•akem-yeǧǧ tettummestneḍ mi ara tettinigeḍ deg yimekwan izayazen am deg yinaffagen d tḥuna.
 spotlight-public-wifi-vpn-primary-button = Qqim d uslig s { -mozilla-vpn-brand-name }
     .accesskey = Q
 spotlight-public-wifi-vpn-link = Mačči tura
