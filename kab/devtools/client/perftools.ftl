@@ -83,10 +83,14 @@ perftools-thread-style-thread =
     .title = Asesfer n uɣanib yettwabḍa gar waṭas n yisqerdcen
 pref-thread-stream-trans =
     .title = Asiweḍ n usuddem n uzeṭṭa
+perftools-thread-socket-thread =
+    .title = Asentel ideg tangalt n uzeṭṭa tesselkam akk isawalen n socket imsewḥel
 perftools-thread-img-decoder =
     .title = Asqerdec n usettenggel n tugna
 perftools-thread-dns-resolver =
     .title = Tifrat n DNS tḍerru deg usqerdec-a
+perftools-thread-task-controller =
+    .title = Isental n ugraw n yisental n TaskController
 
 ##
 
