@@ -17,6 +17,7 @@ about-processes-shutdown-tab =
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-file-process = Файлҳо ({ $pid })
 
 ## Isolated process names
 ## Variables:

@@ -13,6 +13,7 @@ unknowncontenttype-settingschange =
         }
 unknowncontenttype-intro = Шумо барои кушодан зеринро интихоб кардед:
 unknowncontenttype-prompt = Шумо мехоҳед, ки ин файлро нигоҳ доред?
+unknowncontenttype-action-question = Аз тарафи { -brand-short-name } бо ин файл чӣ бояд кард?
 unknowncontenttype-open-with =
     .label = Кушодан бо
     .accesskey = o
