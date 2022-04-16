@@ -150,6 +150,7 @@ spotlight-public-wifi-vpn-link = Mačči tura
 spotlight-total-cookie-protection-header =
     Sekyed s wudem uzwir tirmit n
     tbaḍnit iǧehden akk urǧin i nfeṣṣel yakan
+spotlight-total-cookie-protection-body = Ammesten asemday mgal y inagan n tuqqna yessewḥal ineḍfaren ad sqedc inagan n tuqqna i wakken ad ak•akem-ḍefren deg web.
 spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
 spotlight-total-cookie-protection-secondary-button = Mačči tura
 
