@@ -104,6 +104,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Rmed taseɣtit tanmeggagt
 options-enable-remote-tooltip2 =
     .title = Armad n uɣewwar-a ad k-yeǧǧ ad tseɣtiḍ tummant-a n yiminig s wudem anmeggay.
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Rmed imselɣuyen udmawanen
+options-enable-custom-formatters-tooltip =
+    .title = Armad n textiṛt-a ad issireg ismal ara isbadun imselɣuyen udmawanen i tɣawsiwin DOM
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Rmed tanaka Workers s HTTP (ticki tanaka n ifecka teldi)
 options-enable-service-workers-http-tooltip =
