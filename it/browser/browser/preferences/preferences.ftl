@@ -461,6 +461,16 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Che cosa deve fare { -brand-short-name } con altri file?
+
+applications-save-for-new-types =
+    .label = Salva i file
+    .accesskey = S
+
+applications-ask-before-handling =
+    .label = Chiedi se aprire o salvare i file
+    .accesskey = C
+
 drm-content-header = Contenuti con DRM (Digital Rights Management)
 
 play-drm-content =
