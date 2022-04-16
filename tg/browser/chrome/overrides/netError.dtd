@@ -55,7 +55,13 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.longDesc "<p>Ҳуҷҷати дархостшуда дар зерҳофизаи &brandShortName; дастрас нест.</p><ul><li>Мувофиқи чораҳои бехатарӣ &brandShortName; ҳуҷҷатҳои муҳимро ба таври худкор аз нав дархост намекунад.</li><li>Барои аз нав дархост кардани ҳуҷҷат аз сомона, тугмаи «Аз нав кӯшиш кардан»-ро зер кунед.</li></ul>">
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Барои гузариш ба реҷаи онлайн ва аз нав бор кардани саҳифа, тугмаи «Аз нав кӯшиш кардан»-ро зер кунед.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -73,6 +79,11 @@
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Барои кушодани ин нишонӣ, шумо бояд нармафзори дигарро насб кунед.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
