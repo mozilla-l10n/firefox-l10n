@@ -95,12 +95,16 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Zgel afranen-a nnig, teskelseḍ akk isqerdcen
+perftools-tools-threads-input-label =
+    .title = Ismawen-a n usqerdec d tabdart iferqen s tefrayin, yettuseqdacen i urmad n tmeɣna n yisqerdicen deg umaɣnay.  Isem ilaq ad yili d abruyan deg umṣada akked yisem n usqerdec ara yeddun. D amḥulfu i tallunt tamellalt.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
 perftools-onboarding-message = <b>Amaynut</b>: { -profiler-brand-name } yettwasleɣ tura deg yifecka n tneflit. <a>Issin ugar</a> qef ufecku-a amaynut yelhan.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (I tenzagt yesεan talast, tzemreḍ ad teskecmeḍ agalis n temlellit taneẓlit s <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Mdel izen n uslaɣ
 
