@@ -54,7 +54,17 @@
 
 
 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Лутфан, бо соҳибони сомона дар тамос шавед ва дар бораи ин мушкилӣ ба онҳо хабар расонед.</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Лутфан, бо соҳибони сомона дар тамос шавед ва дар бораи ин мушкилӣ ба онҳо хабар расонед.</li>
+</ul>
+">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
