@@ -100,6 +100,9 @@ extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> yessenqad aɣewwar-a.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> issenqaden amek { -brand-short-name } iteqqen ɣer internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -200,6 +203,7 @@ containers-remove-cancel-button = Ur tekkes ara amagbar-a
 language-and-appearance-header = Tutlayt d urwes
 fonts-and-colors-header = Tisefsiyin d yiniten
 preferences-web-appearance-header = Arwes n usmel web
+preferences-web-appearance-description = Kra n yismal web ṭṭafaren aɣanib n yiniten yebnan ɣef yismenyifen-inek•inem. Fren anwa aɣanib n yiniten i tebɣiḍ ad t-tesqedceḍ i yismal-a.
 preferences-web-appearance-choice-browser = Asentel n { -brand-short-name }
 preferences-web-appearance-choice-system = Asentel n unagraw
 preferences-web-appearance-choice-light = Acaεlal
