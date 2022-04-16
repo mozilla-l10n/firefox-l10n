@@ -40,6 +40,9 @@
 </ul>
 ">
 
+<!ENTITY generic.longDesc "
+<p>Ба сабаби номаълум, &brandShortName; ин саҳифаро бор карда наметавонад.</p>
+">
 
 <!ENTITY captivePortal.title "Ворид шудан ба шабака">
 <!ENTITY captivePortal.longDesc2 "
