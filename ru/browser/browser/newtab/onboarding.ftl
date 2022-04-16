@@ -336,10 +336,15 @@ onboarding-live-language-skip-button-label = Пропустить
 fx100-thank-you-hero-text =
     100
     <span data-l10n-name="zap">благодарностей</span>
-fx100-thank-you-subtitle = Это наш 100-й выпуск! Спасибо, что помогаете нам создавать лучший и более здоровый интернет.
+fx100-thank-you-subtitle = Это наш 100-й выпуск! Спасибо, что помогаете нам создавать лучший и более здоровый Интернет.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Оставьте { -brand-short-name } в Dock
        *[other] Закрепите { -brand-short-name } на панели задач
     }
 fx100-upgrade-thanks-header = 100 благодарностей
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Это наш 100-й выпуск { -brand-short-name }. Спасибо <em>Вам</em> за помощь в создании лучшего и более здорового Интернета.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Это наш 100-й выпуск! Спасибо, что являетесь частью нашего сообщества. Держите { -brand-short-name } под рукой для следующих 100.
