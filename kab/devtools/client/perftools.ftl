@@ -28,6 +28,10 @@ perftools-heading-local-build = Lebni adigan
 perftools-description-intro =
     Ikalasen senkaren <a>profiler.firefox.com</a> deg yiccer amaynut. Meṛṛa isefka ttuskelsen
     s wudem adigan, maca tzemreḍ ad tferneḍ ad ten-id-tsaliḍ i wakken ad ten-tebḍuḍ.
+perftools-description-local-build =
+    Ma yella tettheyyiḍ ad tgeḍ afeṣṣel i d-tjemεeḍ kečč·kemm, ɣef
+    tmacint-a, ttxil-k·m rnu akaram 'objdir' n ufeṣṣel-inek·inem ɣer tebdart nnig akken
+    ad yizmir ad yettuseqdec i unadi n telɣut ɣef yizamulen.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -79,6 +83,8 @@ perftools-thread-renderer =
     .title = Mi ara WebRender yetturmed, asqerdec i iselkamen isawalen OpenGL
 perftools-thread-render-backend =
     .title = Asqerdec n WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Mi ara yermed Painting n off-main-thread, asqerdec iɣef Painting iḍerru
 perftools-thread-style-thread =
     .title = Asesfer n uɣanib yettwabḍa gar waṭas n yisqerdcen
 pref-thread-stream-trans =
