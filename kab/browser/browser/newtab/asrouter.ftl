@@ -151,13 +151,18 @@ spotlight-total-cookie-protection-header =
     Sekyed s wudem uzwir tirmit n
     tbaḍnit iǧehden akk urǧin i nfeṣṣel yakan
 spotlight-total-cookie-protection-body = Ammesten asemday mgal y inagan n tuqqna yessewḥal ineḍfaren ad sqedc inagan n tuqqna i wakken ad ak•akem-ḍefren deg web.
+# "Early access" for this feature rollout means it's a "feature preview" or
+# "soft launch" as not everybody will get it yet.
+spotlight-total-cookie-protection-expanded = { -brand-short-name } itegg zzeṛb i yinagan n tuqqna, it eǧǧ-asen talast deg usmel ideg telliḍ i wakken ur ten-sseqdacen ara ineḍfaren. S unekcum zik, ad ak•akem-iɛawen deg usesfer n tmahilt-a, akka ad nessiweḍ ad nebnu web igerrzen i yal yiwen.
 spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
 spotlight-total-cookie-protection-secondary-button = Mačči tura
 
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = Internet igerrzen yis-k
+spotlight-better-internet-body = Mi ara tesqedceḍ { -brand-short-name }, ad tferneḍ web yeldin akked internet igerrzen i yal yiwen.
 spotlight-peace-mind-header = Ad neḍmen ammesten-ik
+spotlight-peace-mind-body = Yal ayyur, { -brand-short-name } issewḥal azal n 3,000 n yineḍfaren i useqdac. Acku ulac, aṭas aṭas ayen yettḍurrun tudert tabaḍnit am yineḍfaren, ur ilaq ara ad ilin gar-k•m akked internet igerrzen.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Eǧǧ deg Dock
