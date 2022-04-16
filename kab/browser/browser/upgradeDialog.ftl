@@ -69,6 +69,7 @@ upgrade-dialog-theme-system = Asentel n unagraw
 
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-start-title = Tudert ifeǧǧeǧen
+upgrade-dialog-start-subtitle = Tafrant n yiniten tamaynut i d-yettakken rruḥ. Llan deg yal akud.
 upgrade-dialog-start-primary-button = Snirem afran n yiniten
 upgrade-dialog-start-secondary-button = Mačči tura
 

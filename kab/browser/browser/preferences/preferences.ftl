@@ -1012,6 +1012,8 @@ content-blocking-etp-standard-tcp-rollout-checkbox =
         Sekyed s wudem uzwir tamahilt n tbaḍnit iǧehden akk i urǧin i nfeṣṣel
         tbaḍnit iǧehden akk urǧin i nfeṣṣel yakan
     .accesskey = S
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Ammesten asemday mgal inagan n tuqqna itegg talast i yinagan n tuqqna ɣef usmel ideg telliḍ, ineḍfaren ur ssawaḍen ara ad ak·akem-ḍefren seg usmel ɣer wayeḍ.
 content-blocking-etp-standard-tcp-rollout-learn-more = Issin ugar
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-and-isolating-etp-warning-description = Asewḥel n yineḍfaren d uɛzal n yinagan n tuqqna yezmer ad iḥaz tamahilt n kra n yismal. Smiren asebter s yineḍfaren akken ad d-yali ugbur meṛṛa.

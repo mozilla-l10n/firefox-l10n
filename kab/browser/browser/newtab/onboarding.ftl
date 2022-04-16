@@ -150,6 +150,7 @@ mr1-onboarding-import-primary-button-label-attribution = Kter seg { $previous }
 mr1-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig wayeḍ
 mr1-onboarding-import-secondary-button-label = Mačči tura
 mr2-onboarding-colorway-header = Tudert ifeǧǧeǧen
+mr2-onboarding-colorway-subtitle = Tafrant n yiniten tamaynut i d-yettakken rruḥ. Llan deg yal akud.
 mr2-onboarding-colorway-primary-button-label = Sekles afran n yini
 mr2-onboarding-colorway-secondary-button-label = Mačči tura
 mr2-onboarding-colorway-label-soft = Leqqaq
@@ -336,9 +337,15 @@ fx100-thank-you-hero-text =
     100
     tikkal
     <span data-l10n-name="zap">tanemmirt</span>
+fx100-thank-you-subtitle = D lqem-nneɣ wis 100! Tanemmirt ɣef tallalt-ik·im i lebni n internet igerrzen, azedgan.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Eǧǧ { -brand-short-name } deg Dock
        *[other] Senteḍ { -brand-short-name } deg ufeggag n tiwuriwin
     }
 fx100-upgrade-thanks-header = 100 tikkal tanemmirt
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = D lqem-nneɣ wis 100 n { -brand-short-name }. <em>Tanemmirt</em> ɣef tallalt-ik·im i lebni n internet igerrzen, azedgan.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = D lqem-nneɣ wis 100! Tanemmirt imi telliḍ d aεeggal deg tɣiwant-nneɣ. Eǧǧ { -brand-short-name } ɣef wafus i 100 i d-iteddun.
