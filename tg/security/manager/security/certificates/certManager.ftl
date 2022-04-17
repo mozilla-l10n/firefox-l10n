@@ -25,6 +25,7 @@ exception-mgr-cert-location-download =
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = Номи файли нусхаи эҳтиётӣ
 file-browse-pkcs12-spec = Файлҳои PKCS12
 
 ## Import certificate(s) file dialog

@@ -42,3 +42,6 @@ options-stylesheet-autocompletion-label = Анҷомдиҳии худкор ба
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Танзимоти иловагӣ
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Намоиш додани иттилооти платформаи Gecko
