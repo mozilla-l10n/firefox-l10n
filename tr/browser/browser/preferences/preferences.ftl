@@ -208,6 +208,14 @@ preferences-web-appearance-choice-browser = { -brand-short-name } teması
 preferences-web-appearance-choice-system = Sistem teması
 preferences-web-appearance-choice-light = Açık
 preferences-web-appearance-choice-dark = Koyu
+preferences-web-appearance-choice-tooltip-browser =
+    .title = Web sitesi arka planları ve içeriği { -brand-short-name } tema ayarlarımla eşleşsin.
+preferences-web-appearance-choice-tooltip-system =
+    .title = Web sitesi arka planları ve içeriği sistem ayarlarımla eşleşsin.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Web sitesi arka planları ve içeriğinde açık bir görünüm kullan.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Web sitesi arka planları ve içeriğinde koyu bir görünüm kullan.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -216,10 +224,14 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor. <a data-l10n-name="colors-link">Renkleri yönet</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } temalarını <a data-l10n-name="themes-link">Uzantılar ve Temalar</a> sayfasından yönetebilirsiniz.
 preferences-colors-header = Renkler
+preferences-colors-description = { -brand-short-name } tarayıcınızın varsayılan metin, site arka planı ve bağlantı renklerini geçersiz kılın.
 preferences-colors-manage-button =
     .label = Renkleri yönet…
     .accesskey = R
