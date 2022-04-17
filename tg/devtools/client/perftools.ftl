@@ -60,6 +60,7 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = Барномарезии сомонаҳо
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
 perftools-presets-graphics-label = Графика
