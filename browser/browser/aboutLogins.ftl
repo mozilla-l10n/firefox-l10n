@@ -56,6 +56,7 @@ about-logins-list-item-breach-icon =
     .title = Пробиена веб-страница
 about-logins-list-item-vulnerable-password-icon =
     .title = Ранлива лозинка
+about-logins-list-section-breach = Пробиени веб-страници
 about-logins-list-section-vulnerable = Ранливи лозинки
 about-logins-list-section-nothing = Без предупредување
 about-logins-list-section-today = Денес
@@ -70,6 +71,9 @@ login-intro-description = Ако ги зачувавте најавувањат�
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-help = Посетете ја <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Поддршка </a> за повеќе помош.
+about-logins-intro-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -lockwise-brand-short-name }</a>
+login-intro-instructions-fxa-passwords-help = За повеќе помош, посетете ја <a data-l10n-name="passwords-help-link">страницата за поддршка за лозинки</a>.
+about-logins-intro-browser-only-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -brand-product-name }</a>
 about-logins-intro-import2 = Ако вашите најавувања се зачувани надвор од { -brand-product-name }, можете да <a data-l10n-name="import-browser-link">ги увезете од друг прелистувач</a> или <a data-l10n-name="import-file-link">од датотека</a>
 
 ## Login
@@ -94,6 +98,7 @@ login-item-copied-password-button-text = Ископирана!
 login-item-save-changes-button = Зачувај промени
 login-item-save-new-button = Сними
 login-item-cancel-button = Откажи
+login-item-time-changed = Последна промена: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Создадено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Последно користено: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
