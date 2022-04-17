@@ -2,17 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = Дознајте повеќе
 do-not-track-option-always =
     .label = Секогаш
 settings-page-title = Поставки
+managed-notice = Вашата организација управува со вашиот прелистувач.
 category-list =
     .aria-label = Категории
 pane-general-title = Централа
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Почетна
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Пребарување
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Приватност и безбедност
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync3 =
@@ -28,7 +34,9 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } мора да се рестартира за да се овозможи оваа особеност.
 feature-disable-requires-restart = { -brand-short-name } мора да се рестартира за да се оневозможи оваа особеност.
 should-restart-title = Рестарирај го { -brand-short-name }
+should-restart-ok = Рестарирај го { -brand-short-name } сега
 cancel-no-restart-button = Откажи
+restart-later = Рестартирај подоцна
 
 ## Extension Control Notifications
 ##
@@ -43,6 +51,8 @@ cancel-no-restart-button = Откажи
 
 ## Preferences UI Search Results
 
+search-results-header = Резултати од пребарувањето
+search-results-help-link = Треба помош? Проверете на <a data-l10n-name="url">Поддршка за { -brand-short-name }</a>
 
 ## General Section
 
@@ -57,12 +67,16 @@ show-tabs-in-taskbar =
     .label = Покажувај преглед на јазичињата во лентата со задачи на Windows
     .accesskey = к
 browser-containers-learn-more = Дознајте повеќе
+browser-containers-settings =
+    .label = Поставки…
+    .accesskey = и
 containers-disable-alert-title = Да ги затворам сите контејнерски јазичиња?
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Затвори { $tabCount } контејнерско јазиче
        *[other] Затвори { $tabCount } контејнерски јазичиња
     }
+containers-disable-alert-cancel-button = Задржи овозможено
 containers-remove-cancel-button = Не го бриши овој контејнер
 
 ## General Section - Language & Appearance
@@ -84,10 +98,14 @@ choose-language-description = Изберете го посакуваниот ј�
 choose-button =
     .label = Изберете…
     .accesskey = О
+confirm-browser-language-change-button = Примени и рестартирај
 fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Преводи на <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Исклучоци…
+    .accesskey = х
 
 ## General Section - Files and Applications
 
@@ -107,6 +125,7 @@ download-choose-folder =
             [macos] е
            *[other] з
         }
+applications-header = Апликации
 applications-type-column =
     .label = Тип на содржина
     .accesskey = Т
