@@ -130,6 +130,27 @@ extension-controlled-proxy-config =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     } k internetu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = Toto nastavení je spravované rozšířením <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = Toto nastavení je spravované rozšířením <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = Rozšíření <img data-l10n-name="icon"/> <strong>{ $name }</strong> vyžaduje kontejnerové panely.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = Toto nastavení je spravované rozšířením <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config =
+    { -brand-short-name.gender ->
+        [masculine] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
+        [feminine] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
+        [neuter] Připojení { -brand-short-name(case: "gen") } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
+       *[other] Připojení aplikace { -brand-short-name } k internetu je spravované rozšířením <img data-l10n-name ="icon"/> <strong>{ $name }</strong>.
+    }
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -278,6 +299,9 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled stránky. <a data-l10n-name="colors-link">Nastavit barvy</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer =
@@ -289,6 +313,9 @@ preferences-web-appearance-footer =
     }
 preferences-colors-header = Barvy
 preferences-colors-description = Nastavení výchozích barev pro text, odkazy a pozadí webových stránek.
+preferences-colors-manage-button =
+    .label = Nastavení barev…
+    .accesskey = b
 preferences-fonts-header = Písma
 default-font = Výchozí písmo
     .accesskey = p
@@ -1096,7 +1123,7 @@ sitedata-clear =
     .label = Vymazat data…
     .accesskey = V
 sitedata-settings =
-    .label = Spravovat data…
+    .label = Správa dat…
     .accesskey = S
 sitedata-cookies-exceptions =
     .label = Výjimky…

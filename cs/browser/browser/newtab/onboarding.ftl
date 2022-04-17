@@ -409,6 +409,23 @@ fx100-thank-you-hero-text =
     Děkujeme
     <span data-l10n-name="zap">100krát</span>
 fx100-thank-you-subtitle = Toto je 100. verze! Děkujeme vám, že pomáháte budovat lepší a zdravější internet.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos]
+            { -brand-short-name.gender ->
+                [masculine] Připnout { -brand-short-name(case: "acc") } do docku
+                [feminine] Připnout { -brand-short-name(case: "acc") } do docku
+                [neuter] Připnout { -brand-short-name(case: "acc") } do docku
+               *[other] Připnout aplikaci { -brand-short-name } do docku
+            }
+       *[other]
+            { -brand-short-name.gender ->
+                [masculine] Připnout { -brand-short-name(case: "acc") } na lištu
+                [feminine] Připnout { -brand-short-name(case: "acc") } na lištu
+                [neuter] Připnout { -brand-short-name(case: "acc") } na lištu
+               *[other] Připnout aplikaci { -brand-short-name } na lištu
+            }
+    }
 fx100-upgrade-thanks-header = Děkujeme 100krát
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.

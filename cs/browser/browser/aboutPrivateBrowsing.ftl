@@ -51,6 +51,10 @@ about-private-browsing-focus-promo-text = Náš speciální mobilní prohlíže�
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Užijte si anonymní prohlížení také ve svém telefonu
+about-private-browsing-focus-promo-text-b = Používejte { -focus-brand-name(case: "acc") } pro anonymní vyhledávání, která nechcete vidět ve svém hlavním mobilním prohlížeči.
+about-private-browsing-focus-promo-header-c = Vyšší úroveň soukromí na mobilu
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } vždy promaže historii vašeho prohlížení a zablokuje reklamy a sledovací prvky.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
