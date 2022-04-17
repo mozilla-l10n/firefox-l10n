@@ -8,6 +8,9 @@
 devmgr-button-unload =
     .label = Холӣ кардан
     .accesskey = Х
+devmgr-button-enable-fips =
+    .label = Фаъол кардани FIPS
+    .accesskey = Ф
 
 ## Strings used for load device
 

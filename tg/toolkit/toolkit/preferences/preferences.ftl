@@ -13,5 +13,7 @@ set-password-new-password = Ниҳонвожаи наверо ворид нам�
 set-password-reenter-password = Ниҳонвожаро аз нав ворид намоед:
 set-password-meter = Дараҷаи сифати ниҳонвожа
 set-password-meter-loading = Бор шуда истодааст
+remove-primary-password =
+    .title = Тоза кардани ниҳонвожаи ибтидоӣ
 remove-password-old-password =
     .value = Ниҳонвожаи ҷорӣ:
