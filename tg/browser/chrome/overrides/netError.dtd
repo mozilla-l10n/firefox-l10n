@@ -16,6 +16,7 @@
 
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Сервер ёфт нашуд">
 <!ENTITY dnsNotFound.longDesc1 "
@@ -106,6 +107,13 @@
 </ul>
 ">
 
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Санҷед ва мутмаин шавед, ки Мудири амнияти шахсӣ (PSM) дар низоми шумо
+    насб карда шудааст.</li>
+  <li>Мумкин аст, ки ин ба сабаби танзими ғайристандартии сервер ба миён омад.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
