@@ -27,6 +27,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
+<!ENTITY performanceUI.loadingNotice "Бор шуда истодааст…">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
@@ -81,4 +82,3 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-

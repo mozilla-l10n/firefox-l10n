@@ -7,11 +7,7 @@
 
 change-password-new = Ниҳонвожаи нав:
 change-password-reenter = Ниҳонвожаи нав (такроран):
-
-## Reset Password dialog
-
 pippki-failed-pw-change = Ниҳонвожа тағйир дода намешавад.
-
 pippki-pw-erased-ok = Шумо ниҳонвожаи худро нест кардед. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
@@ -19,6 +15,8 @@ pippki-pw-erased-ok = Шумо ниҳонвожаи худро нест кард
 
 ## Downloading cert dialog
 
+download-cert-view-cert =
+    .label = Намоиш додан
 
 ## Client Authorization Ask dialog
 
