@@ -349,3 +349,5 @@ fx100-upgrade-thanks-header = 100 Tack
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Det är vår 100:e version av { -brand-short-name }. Tack för att <em>du</em> hjälper oss att bygga ett bättre och hälsosammare internet.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Det är vår 100:e utgåva! Tack för att du är en del av vår gemenskap. Ha { -brand-short-name } ett klick bort för de kommande 100.
