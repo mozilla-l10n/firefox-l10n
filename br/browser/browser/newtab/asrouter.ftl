@@ -163,3 +163,9 @@ spotlight-total-cookie-protection-body = Ar gwarez klok toupinoù a vir an heuli
 spotlight-total-cookie-protection-expanded = { -brand-short-name } a sav ur voger tro-dro d'an toupinoù, ar pezh a vir anezho el lec'hienn lec'h m'emaoc'h ha n'hallont ket bezañ implijet evit heuliañ ac'hanoc'h. Gant an haeziñ abred e c'hallit gwellekaat ar c'heweriuster-mañ evit ma savfemp ur web gwelloc'h evit an holl.
 spotlight-total-cookie-protection-primary-button = Gweredekaat ar gwarez toupinoù klok
 spotlight-total-cookie-protection-secondary-button = Ket bremañ
+
+## Emotive Continuous Onboarding
+
+spotlight-better-internet-header = Un internet gwelloc’h a grog ganeoc’h
+spotlight-better-internet-body = Pa rit gant { -brand-short-name } e roit ur vouezh d'un internet digor hag haezadus, gwelloc’h evit an holl.
+spotlight-peace-mind-header = Ho kwareziñ a reomp

@@ -148,12 +148,12 @@ profiler-popup-settings =
     .value = Arventennoù
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kemmañ an arventennoù…
-# This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings-button =
-    .label = Kemmañ an arventennoù…
 profiler-popup-disabled =
     Diweredekaet eo an aelader evit ar mare, moarvat peogwir eo digoret ur prenestr
     merdeiñ prevez.
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Kemmañ an arventennoù…
 profiler-popup-recording-screen = Oc’h enrollañ…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -236,6 +236,9 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = Reiñ ho meno…
     .accesskey = m
+appmenu-help-share-ideas =
+    .label = Kinnig mennozhioù hag alioù
+    .accesskey = K
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

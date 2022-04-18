@@ -58,6 +58,8 @@ pocket-panel-home-discover-more = Dizoloiñ muioc'h c'hoazh
 pocket-panel-home-explore-more = Merdeiñ
 pocket-panel-home-most-recent-saves = Sed amañ hoc’h enrolladennoù nevesañ:
 pocket-panel-home-most-recent-saves-loading = Kargadennoù an enrolladennoù nevez...
+pocket-panel-home-new-user-cta = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù.
+pocket-panel-home-new-user-message = Gwelit hoc’h enrolladennoù nevez amañ.
 
 ## Pocket panel header component
 
@@ -66,3 +68,7 @@ pocket-panel-header-sign-in = Kennaskañ
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Diskouez pep tra
+pocket-panel-button-add-tags = Ouzhpennañ tikedennoù
+pocket-panel-button-activate = Gweredekaat { -pocket-brand-name } e { -brand-product-name }
+pocket-panel-button-remove = Dilemel

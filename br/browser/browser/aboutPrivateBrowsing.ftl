@@ -30,6 +30,16 @@ about-private-browsing-hide-activity = Kuzhit hoc’h oberiantiz ha lec’hiadur
 about-private-browsing-get-privacy = Gwarezit ho puhez prevez e pep lec’h ma verdeit
 about-private-browsing-hide-activity-1 = Kuzhat hoc’h oberiantiz merdeiñ ha lec’hiadur gant { -mozilla-vpn-brand-name }. Ur c'hlik a grou ur c’hennask suraet, war ar rouedadoù Wi-Fi foran ivez soken.
 about-private-browsing-prominent-cta = Chomit prevez gant { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Pellgargañ { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: merdeiñ prevez hezoug
+about-private-browsing-focus-promo-text = Hon arload hezoug arbennik war ar merdeiñ prevez a skarzh ho roll istor hag ho toupinoù bewech.
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = Kemerit ho puhez prevez gant ho pellgomzer
+about-private-browsing-focus-promo-text-b = Grit gant { -focus-brand-name } evit ar c’hlaskoù prevez na fell ket deoc’h vefe gwelet gant ho merdeer hezoug pennañ.
+about-private-browsing-focus-promo-header-c = Prevezded uhel war hezoug
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } a skarzh ho roll istor bewech ha stankañ a ra ar bruderezh hag an heulierien.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,3 +52,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Serriñ
+about-private-browsing-promo-close-button =
+    .title = Serriñ
