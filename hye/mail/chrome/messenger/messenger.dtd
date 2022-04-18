@@ -325,7 +325,50 @@
 <!ENTITY archiveMsgCmd.accesskey "Ա">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Չեղարկել նամակը">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY cancelNewsMsgCmd.accesskey "Չ">
+<!ENTITY replyMsgCmd.label "Պատասխանել">
+<!ENTITY replyMsgCmd.accesskey "Պ">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Պատասխանել միայն ուղարկողին">
+<!ENTITY replySenderCmd.accesskey "Պ">
+<!ENTITY replyNewsgroupCmd2.label "Յետեւել տեղեկատուախմբին">
+<!ENTITY replyToAllMsgCmd.label "Պատասխանել բոլորին">
+<!ENTITY replyToAllMsgCmd.key "պ">
+<!ENTITY replyToListMsgCmd.label "Պատասխանել ցուցակին">
+<!ENTITY replyToListMsgCmd.accesskey "Պ">
+<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.label "Փոխանցել">
+<!ENTITY forwardMsgCmd.accesskey "Փ">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Փոխանցել որպէս">
+<!ENTITY forwardAsInline.label "Ներտող">
+<!ENTITY forwardAsInline.accesskey "Ն">
+<!ENTITY forwardAsAttachmentCmd.label "Կցորդ">
+<!ENTITY forwardAsAttachmentCmd.accesskey "Կ">
+<!ENTITY editAsNewMsgCmd.label "Խմբագրել որպէս նոր նամակ">
+<!ENTITY editAsNewMsgCmd.accesskey "Խ">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Խմբագրել սեւագիր նամակը">
+<!ENTITY editDraftMsgCmd.accesskey "Ս">
+<!ENTITY editTemplateMsgCmd.label "Խմբագրել ձեւանմուշը">
+<!ENTITY editTemplateMsgCmd.accesskey "Ձ">
+<!ENTITY newMsgFromTemplateCmd.label "Նոր հաղորդագրութիւն՝ ձեւանմուշից">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY createFilter.label "Ստեղծել զտիչ նամակից…">
+<!ENTITY moveMsgToMenu.label "Տեղափոխել՝">
+<!ENTITY moveMsgToMenu.accesskey "Տ">
+<!ENTITY moveCopyMsgRecentMenu.label "Վերջին">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "Վ">
+<!ENTITY copyMessageLocation.label "Պատճէնել նամակի տեղադրութիւնը">
+<!ENTITY copyMessageLocation.accesskey "Ն">
+<!ENTITY copyMsgToMenu.label "Պատճէնել՝">
+<!ENTITY copyMsgToMenu.accesskey "Պ">
+<!ENTITY moveToFolderAgain.label "Կրկին տեղափոխել">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Անտեսել շղթայն">
+<!ENTITY killThreadMenu.accesskey "Ա">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Անտեսել ենթաշղթայն">
 
 <!-- Windows Menu -->
 
