@@ -219,11 +219,37 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "Հ">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Դիտուած թեմաներ՝ չընթերցուածների հետ">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "Դ">
+<!ENTITY ignoredThreadsCmd.label "Բաց թողածներ">
+<!ENTITY ignoredThreadsCmd.accesskey "Բ">
 
+<!ENTITY headersMenu.label "Գլխագրեր">
+<!ENTITY headersMenu.accesskey "Գ">
+<!ENTITY headersAllCmd.label "Բոլորը">
+<!ENTITY headersAllCmd.accesskey "Բ">
+<!ENTITY headersNormalCmd.label "Նորմալ">
+<!ENTITY headersNormalCmd.accesskey "Ն">
+<!ENTITY bodyMenu.label "Նամակի տեքստը ըստ">
+<!ENTITY bodyMenu.accesskey "Տ">
+<!ENTITY bodyAllowHTML.label "Բնաւրինակ HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Պարզ HTML">
+<!ENTITY bodySanitized.accesskey "Պ">
+<!ENTITY bodyAsPlaintext.label "Սովորական գրոյթ">
+<!ENTITY bodyAsPlaintext.accesskey "Ս">
+<!ENTITY bodyAllParts.label "Բոլոր մասերը">
+<!ENTITY bodyAllParts.accesskey "Բ">
 
+<!ENTITY viewFeedWebPage.label "Վեբ էջ">
+<!ENTITY viewFeedWebPage.accesskey "Վ">
+<!ENTITY viewFeedSummary.label "Ընդհանուր">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Սկզբնադիր ձեւաչափ">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "Ս">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Ցուցադրել կցորդները ներտող">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "Կ">
 
+<!ENTITY pageSourceCmd.label "Նամակի աղբեւրը">
+<!ENTITY pageSourceCmd.accesskey "օ">
 
 <!-- Search Menu -->
 
