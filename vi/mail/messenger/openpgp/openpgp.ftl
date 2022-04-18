@@ -292,6 +292,10 @@ key-accept-warning = Tránh chấp nhận một khóa giả mạo. Sử dụng m
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Không thể gửi tin nhắn vì có sự cố với khóa cá nhân của bạn. { $problem }
 cannot-encrypt-because-missing = Không thể gửi thư này bằng mã hóa đầu cuối vì có vấn đề với khóa của những người nhận sau: { $problem }
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Phần thư được mã hóa
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-concealed-data = Đây là một phần tin nhắn được mã hóa. Bạn cần mở nó trong một cửa sổ riêng tư bằng cách nhấp vào đính kèm.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Đã hủy
 keyserver-error-unknown = Đã có lỗi xảy ra
