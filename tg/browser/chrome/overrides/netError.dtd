@@ -164,6 +164,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Таваккалро қабул карда, идома диҳед">
 
+<!ENTITY errorReporting.automatic2 "Барои расонидани кумак ба Mozilla дар фаъолияти муайянкунӣ ва манъкунии сомонаҳои зараровар, дар бораи хатоҳои ба ин монанд гузориш диҳед">
 <!ENTITY errorReporting.learnMore "Маълумоти бештар…">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Лутфан, бо соҳибони сомона дар тамос шавед ва дар бораи ин мушкилӣ ба онҳо хабар диҳед.</li></ul></p>">
