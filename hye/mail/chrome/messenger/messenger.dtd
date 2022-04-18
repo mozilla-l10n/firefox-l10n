@@ -607,12 +607,28 @@
 <!ENTITY folderContextEmptyJunk.label "Դատարկել փոստաղբը">
 <!ENTITY folderContextEmptyJunk.accesskey "Փ">
 <!ENTITY folderContextSendUnsentMessages.label "Ուղարկել չուղարկուած նամակները">
+<!ENTITY folderContextUnsubscribe.label "Չեղարկել բաժանորդագրութիւնը">
+<!ENTITY folderContextUnsubscribe.accesskey "Չ">
+<!ENTITY folderContextMarkNewsgroupRead.label "Նշել տեղեկատուախումբը որպէս ընթերցուած">
+<!ENTITY folderContextMarkMailFolderRead.label "Նշել թղթապանակը, որպէս ընթերցուած">
+<!ENTITY folderContextSubscribe.label "Բաժանորդագրուել…">
+<!ENTITY folderContextSearchForMessages.label "Նամակների որոնում…">
+<!ENTITY folderContextSearchForMessages.accesskey "Ո">
+<!ENTITY folderContextProperties2.label "Յատկութիւններ">
+<!ENTITY folderContextProperties2.accesskey "Յ">
+<!ENTITY folderContextFavoriteFolder.label "Ընտրեալ թղթապանակ">
+<!ENTITY folderContextSettings2.label "Կարգաւորումներ">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Անունը կամ ել․ փոստը պարունակում է՝">
+<!ENTITY SearchNameOrEmail.accesskey "Ա">
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "Նամակների որոնում…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Վերնագիր">
+<!ENTITY searchFromMenu.label "Ումից">
 
 <!-- Thread Pane -->
 <!ENTITY statusColumn.label "Կարգավիճակ">
