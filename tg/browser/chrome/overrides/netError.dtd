@@ -175,6 +175,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Диққат: Эҳтимол, хатари амният вуҷуд дорад">
 <!ENTITY certerror.sts.pagetitle  "Пайваст нашуд: Таҳдиди амнияти эҳтимолӣ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> дорои сиёсати амниятӣ бо номи «Амнияти интиқоли қатъии HTTP» (HSTS) мебошад, ва ин маънои онро дорад, ки &brandShortName; метавонад ба он танҳо тавассути алоқаи бехатар пайваст шавад. Шумо барои ворид шудан ба ин сомона истисноро илова карда наметавонед.">
 <!ENTITY certerror.copyToClipboard.label "Нусха бардоштани матн ба ҳофизаи муваққатӣ">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
