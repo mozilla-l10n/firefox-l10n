@@ -369,6 +369,54 @@
 <!ENTITY killThreadMenu.accesskey "Ա">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Անտեսել ենթաշղթայն">
+<!ENTITY killSubthreadMenu.accesskey "Ե">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Հետեւել քննարկմանը">
+<!ENTITY watchThreadMenu.accesskey "Հ">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY tagMenu.label "Պիտակ">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Նշել">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "Որպէս ընթերցուած">
+<!ENTITY markAsReadCmd.accesskey "Ը">
+<!ENTITY markAsUnreadCmd.label "Որպէս չընթերցուած">
+<!ENTITY markAsUnreadCmd.accesskey "Չ">
+<!ENTITY markThreadAsReadCmd.label "Թեմաները որպէս ընթերցուած">
+<!ENTITY markThreadAsReadCmd.accesskey "Թ">
+<!ENTITY markThreadAsReadCmd.key "ը">
+<!ENTITY markReadByDateCmd.label "Ընթերցուած ըստ ամսաթուի…">
+<!ENTITY markReadByDateCmd.accesskey "Ա">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Բոլորը ընթերցուել են">
+<!ENTITY markAllReadCmd.accesskey "Բ">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Աւելացնել աստղ">
+<!ENTITY markStarredCmd.accesskey "Ա">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Որպէս թափաւն">
+<!ENTITY markAsJunkCmd.accesskey "Թ">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Ոչ որպէս փոստաղբ">
+<!ENTITY markAsNotJunkCmd.accesskey "Ո">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Աշխատեցնել թափաւն փստի կառավարումը">
+<!ENTITY recalculateJunkScoreCmd.accesskey "Կ">
+<!ENTITY openMessageWindowCmd.label "Բացել նամակը">
+<!ENTITY openMessageWindowCmd.accesskey "Բ">
+<!ENTITY openInConversationCmd.label "Բացել հաղորդակցման մէջ">
+<!ENTITY openInConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Կցորդներ">
+<!ENTITY openFeedMessage1.label "Յետադարձ կապի հաղորդագրութիւնները բացելիս">
 
 <!-- Windows Menu -->
 
