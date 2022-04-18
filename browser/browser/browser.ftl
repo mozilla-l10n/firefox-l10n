@@ -445,7 +445,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = O navegador está sob controle remoto (motivo: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Você concedeu permissões adicionais a este site.
+    .tooltiptext = Você definiu permissões neste site.
 urlbar-switch-to-tab =
     .value = Alternar para a aba:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
