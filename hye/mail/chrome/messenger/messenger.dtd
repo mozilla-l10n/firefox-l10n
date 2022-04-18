@@ -530,20 +530,80 @@
 <!ENTITY fileButton.tooltip "Ընտրուած նամակի նիշը">
 <!ENTITY archiveButton.tooltip "Արխիւացնել ընտրուած նամակները">
 <!ENTITY openMsgConversationButton.tooltip "Ցուցադրել ընտրուած հաղորդագրութեան զրոյցը">
+<!ENTITY nextButton.tooltip "Տեղափոխուել դէպի յաջորդ չընթերցուած նամակ">
+<!ENTITY nextMsgButton.tooltip "Տեղափոխուել դէպի յաջորդ նամակ">
+<!ENTITY previousButton.tooltip "Տեղափոխուել դէպի նախորդ չընթերցուած նամակ">
+<!ENTITY previousMsgButton.tooltip "Տեղափոխուել դէպի նախորդ նամակ">
+<!ENTITY goForwardButton.tooltip "Մեկ նամակ առաջ">
+<!ENTITY goBackButton.tooltip "Մեկ նամակ յետ">
+<!ENTITY markButton.tooltip "Նշել նամակներ">
+<!ENTITY printButton.tooltip "Տպել այս նամակը">
+<!ENTITY stopButton.tooltip "Կանգնեցնել փոխանցումը">
+<!ENTITY addressBookButton.tooltip "Գնալ դէպի հասցէագիրք">
+<!ENTITY chatButton.tooltip "Ցուցադրել զրոյցի ներդիրը">
+<!ENTITY tagButton.tooltip "Պիտակաւորել նամակները">
+<!ENTITY compactButton.tooltip "Հեռացնել ջնջուած նամակները ընտրուած թղթապանակից">
+<!ENTITY appmenuButton1.tooltip "Ցուցադրել &brandShortName;-ի ընտրացանկը">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Փոխանցել ներտող">
+<!ENTITY buttonMenuForwardAsAttachment.label "Փոխանցել որպէս կցորդ">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Ցուցադրել այս նամակի հեռակայ բովանդակութիւնը">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "Ց">
+<!ENTITY editRemoteContentSettings.label "Խմբագրել հեռակայ բովանդակութեան ընտրանքները…">
+<!ENTITY editRemoteContentSettings.accesskey "Խ">
+<!ENTITY editRemoteContentSettingsUnix.label "Խմբագրել հեռակայ բովանդակութեան ընտրանքները…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "Խ">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Անտեսել զգուշացումը այս նամակի համար">
+<!ENTITY phishingOptionSettings.label "Խմբագրել խաբեբայութեան յայտնաբերման ընտրանքները…">
+<!ENTITY phishingOptionSettings.accesskey "խ">
+<!ENTITY phishingOptionSettingsUnix.label "Խմբագրել խաբեբայութեան յայտնաբերման կարգաւորումները…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "յ">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Նոր նամակ">
+<!ENTITY appmenuNewContactCmd.label "Հասցէագրքի կապորդ…">
+<!ENTITY appmenuEditMenu.label "Խմբագրել">
+<!ENTITY appmenuToolbarLayout.label "Գործիքագաւտու դասաւորութիւնը…">
+<!ENTITY appmenuSelectThread.label "Ընտրել թեմայն">
+<!ENTITY appmenuSelectFlagged.label "Ընտրել աստղանշուած նամակները">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Նոր պիտակ…">
+<!ENTITY addNewTag.accesskey "Ն">
+<!ENTITY manageTags.label "Կառաւարել պիտակները…">
+<!ENTITY manageTags.accesskey "Կ">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Անուն">
+<!ENTITY folderUnreadColumn.label "Չընթերցուած">
+<!ENTITY folderTotalColumn.label "Ընդամէնը">
+<!ENTITY folderSizeColumn.label "Չափը">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Ստանալ նամակները">
+<!ENTITY folderContextGetMessages.accesskey "Ս">
+<!ENTITY folderContextMarkAllFoldersRead.label "Նշել բոլոր պանակները որպէս ընթերցուած">
+<!ENTITY folderContextPauseAllUpdates.label "Դադարեցրել բոլոր թարմացումները">
+<!ENTITY folderContextPauseUpdates.label "Դադարեցնել թարմացումները">
+<!ENTITY folderContextPauseUpdates.accesskey "Թ">
+<!ENTITY folderContextOpenInNewWindow.label "Բացել նոր պատուհանում">
+<!ENTITY folderContextOpenInNewWindow.accesskey "Բ">
+<!ENTITY folderContextOpenNewTab.label "Բացել նոր ներդիրում">
+<!ENTITY folderContextOpenNewTab.accesskey "Ն">
+<!ENTITY folderContextNew.label "Նոր ենթաթղթապանակ…">
+<!ENTITY folderContextNew.accesskey "Ն">
+<!ENTITY folderContextRename.label "Վերանուանել">
+<!ENTITY folderContextRename.accesskey "Վ">
+<!ENTITY folderContextRemove.label "Ջնջել">
+<!ENTITY folderContextRemove.accesskey "Ջ">
+<!ENTITY folderContextCompact.label "Սեղմել">
+<!ENTITY folderContextCompact.accesskey "Ս">
+<!ENTITY folderContextEmptyTrash.label "Դատարկել աղբարկղը">
 
 <!-- Search Bar -->
 
