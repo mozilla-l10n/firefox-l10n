@@ -471,10 +471,65 @@
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Ծրագրաւորողի գործիքներ">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Ծրագրաւորողի գործիքատուփ">
+<!ENTITY devToolboxCmd.accesskey "Գ">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Վրիպազերծել յաւելումները">
+<!ENTITY debugAddonsCmd.accesskey "Յ">
+<!ENTITY errorConsoleCmd.label "Սխալների ցանկ">
+<!ENTITY errorConsoleCmd.accesskey "Ս">
+<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Ստանալ նամակները">
+<!ENTITY newMsgButton.label "Գրել">
+<!ENTITY replyButton.label "Պատասխանել">
+<!ENTITY replyAllButton.label "Պատասխանել բոլորին">
+<!ENTITY replyListButton.label "Պատասխանել ցուցակին">
+<!ENTITY forwardButton.label "Փոխանցել">
+<!ENTITY fileButton.label "Ֆայղ">
+<!ENTITY archiveButton.label "Արխիւ">
+<!ENTITY openConversationButton.label "Զրոյց">
+<!ENTITY nextButton.label "Յաջորդը">
+<!ENTITY nextButtonToolbarItem.label "Յաջորդ չընթերցուածը">
+<!ENTITY nextMsgButton.label "Յաջորդը">
+<!ENTITY previousButton.label "Նախորդը">
+<!ENTITY previousButtonToolbarItem.label "Նախորդ չընթերցուածը">
+<!ENTITY previousMsgButton.label "Նախորդը">
+<!ENTITY backButton1.label "Յետ">
+<!ENTITY goForwardButton1.label "Փոխանցել">
+<!ENTITY deleteItem.title "Ջնջել">
+<!ENTITY markButton.label "Նշել">
+<!ENTITY printButton.label "Տպել">
+<!ENTITY stopButton.label "Կանգնեցնել">
+<!ENTITY throbberItem.title "Ակտիւութեան ցուցիչ">
+<!ENTITY junkItem.title "Թափաւն">
+<!ENTITY addressBookButton.label "Հասցէագիրք">
+<!ENTITY chatButton.label "Զրոյց">
+<!ENTITY glodaSearch.title "Ընդհանրական որոնում">
+<!ENTITY searchItem.title "Արագ որոնում">
+<!ENTITY mailViewsToolbarItem.title "Նամակի դիտումները">
+<!ENTITY folderLocationToolbarItem.title "Թղթապանակի տեղադրութիւնը">
+<!ENTITY tagButton.label "Պիտակ">
+<!ENTITY compactButton.label "Սեղմել">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Նամակի ընդլայնուած որոնում">
+<!ENTITY getMsgButton.tooltip "Ստանալ նոր նամակներ">
+<!ENTITY getAllNewMsgCmd.label "Ստանալ բոլոր նոր նամակները">
+<!ENTITY getAllNewMsgCmd.accesskey "Ս">
+<!ENTITY newMsgButton.tooltip "Ստեղծել նոր նամակ">
+<!ENTITY replyButton.tooltip "Պատասխանել նամակին">
+<!ENTITY replyAllButton.tooltip "Պատասխանել ուղարկողին եւ մեւսներին">
+<!ENTITY replyListButton.tooltip "Պատասխանել փոստային ցուցակին">
+<!ENTITY forwardButton.tooltip "Փոխանցել ընտրուած նամակները">
+<!ENTITY forwardAsInline.tooltip "Փոխանցել ընտրուած նամակները որպէս ներտող գրոյթ">
+<!ENTITY forwardAsAttachment.tooltip "Ընտրուած հաղորդագրութիւնը փոխանցել որպէս յաւելուած">
+<!ENTITY fileButton.tooltip "Ընտրուած նամակի նիշը">
+<!ENTITY archiveButton.tooltip "Արխիւացնել ընտրուած նամակները">
+<!ENTITY openMsgConversationButton.tooltip "Ցուցադրել ընտրուած հաղորդագրութեան զրոյցը">
 
 <!-- Toolbar Button Popup -->
 
