@@ -604,6 +604,9 @@
 <!ENTITY folderContextCompact.label "Սեղմել">
 <!ENTITY folderContextCompact.accesskey "Ս">
 <!ENTITY folderContextEmptyTrash.label "Դատարկել աղբարկղը">
+<!ENTITY folderContextEmptyJunk.label "Դատարկել փոստաղբը">
+<!ENTITY folderContextEmptyJunk.accesskey "Փ">
+<!ENTITY folderContextSendUnsentMessages.label "Ուղարկել չուղարկուած նամակները">
 
 <!-- Search Bar -->
 
