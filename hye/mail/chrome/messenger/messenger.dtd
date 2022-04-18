@@ -629,10 +629,32 @@
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Վերնագիր">
 <!ENTITY searchFromMenu.label "Ումից">
+<!ENTITY searchSubjectOrFromMenu.label "Վերնագիրը կամ Ումից">
+<!ENTITY searchRecipient.label "To կամ Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Վերնագիրը, To կամ Cc">
+<!ENTITY searchMessageBody.label "Ամբողջական նամակ">
+<!ENTITY saveAsVirtualFolderMenu.label "Պահել որոնումը որպէս թղթապանակ…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Ընտրել Նամակներ">
+<!ENTITY threadColumn.label "Քննարկում">
+<!ENTITY fromColumn.label "Ումից">
+<!ENTITY recipientColumn.label "Ստացողը">
+<!ENTITY correspondentColumn.label "Թղթակիցներ">
+<!ENTITY subjectColumn.label "Վերնագիր">
+<!ENTITY dateColumn.label "Ամսաթիւ">
+<!ENTITY priorityColumn.label "Առաջնահերթը">
+<!ENTITY tagsColumn.label "Պիտակ">
+<!ENTITY accountColumn.label "Հաշիւ">
 <!ENTITY statusColumn.label "Կարգավիճակ">
+<!ENTITY sizeColumn.label "Չափը">
 <!ENTITY junkStatusColumn.label "Թափաւնի կարգավիճակ">
+<!ENTITY unreadColumn.label "Չընթերցուած">
+<!ENTITY totalColumn.label "Ընդամէնը">
+<!ENTITY readColumn.label "Ընթերցուած">
+<!ENTITY receivedColumn.label "Ստացուած">
+<!ENTITY starredColumn.label "Աստղանշուած">
+<!ENTITY locationColumn.label "Տեղադրութիւնը">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY junkStatusColumn2.tooltip "Տեսակաւորել ըստ՝ թափաւնի կարգավիճակի։">
