@@ -655,16 +655,46 @@
 <!ENTITY receivedColumn.label "Ստացուած">
 <!ENTITY starredColumn.label "Աստղանշուած">
 <!ENTITY locationColumn.label "Տեղադրութիւնը">
+<!ENTITY idColumn.label "Ինչպէս ստանալ">
+<!ENTITY attachmentColumn.label "Կցորդներ">
+<!ENTITY deleteColumn.label "Ջնջել">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Ընտրէք, թէ որ սեւները ցուցադրել">
+<!ENTITY selectColumn.tooltip "Համատեղ նշել բոլոր հաղորդագրութիւնները">
+<!ENTITY threadColumn2.tooltip "Ցուցադրել նամակների շարանները">
+<!ENTITY fromColumn2.tooltip "Տեսակաւորել ըստ՝ ումից">
+<!ENTITY recipientColumn2.tooltip "Տեսակաւորել ըստ՝ ստացողի">
+<!ENTITY correspondentColumn2.tooltip "Տեսակաւորել ըստ՝ թղթակիցների">
+<!ENTITY subjectColumn2.tooltip "Տեսակաւորել ըստ՝ վերնագրի">
+<!ENTITY dateColumn2.tooltip "Տեսակաւորել ըստ՝ ամսաթուի">
+<!ENTITY priorityColumn2.tooltip "Տեսակաւորել ըստ՝ առաջնահերթութեան">
+<!ENTITY tagsColumn2.tooltip "Տեսակաւորել ըստ՝ պիտակի">
+<!ENTITY accountColumn2.tooltip "Տեսակաւորել ըստ՝ հաշուի">
+<!ENTITY statusColumn2.tooltip "Տեսակաւորել ըստ՝ կարգավիճակի">
+<!ENTITY sizeColumn2.tooltip "Տեսակաւորել ըստ՝ չափի">
 <!ENTITY junkStatusColumn2.tooltip "Տեսակաւորել ըստ՝ թափաւնի կարգավիճակի։">
+<!ENTITY unreadColumn2.tooltip "Չընթերցուած նամակների քանակը շղթայում">
+<!ENTITY totalColumn2.tooltip "Նամակների ընդհանուր քանակը ըստ շղթայի">
+<!ENTITY readColumn2.tooltip "Տեսակաւորել ըստ՝ ընթերցուածի">
+<!ENTITY receivedColumn2.tooltip "Տեսակաւորել ըստ՝ ստացման ամսաթուի">
+<!ENTITY starredColumn2.tooltip "Տեսակաւորել ըստ՝ աստղանշուածների">
+<!ENTITY locationColumn2.tooltip "Տեսակաւորել ըստ՝ տեղադրութեան">
+<!ENTITY idColumn2.tooltip "Տեսակաւորել ըստ՝ ստացման կարգի">
+<!ENTITY attachmentColumn2.tooltip "Տեսակաւորել ըստ՝ կցորդների">
+<!ENTITY deleteColumn.tooltip "Ջնջել նամակը">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Նոր հաղորդագրութիւն՝ ձեւանմուշից">
+<!ENTITY contextOpenNewWindow.label "Նամակը բացել նոր պատուհանում">
+<!ENTITY contextOpenNewWindow.accesskey "Պ">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Հաղորդագրութիւնը բացել նոր ներդիրում">
+<!ENTITY contextOpenNewTab.accesskey "Ն">
+<!ENTITY contextOpenConversation.label "Բացել նամակը զրուցարանում">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Վերջին">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
