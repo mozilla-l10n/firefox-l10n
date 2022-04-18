@@ -250,10 +250,56 @@
 
 <!ENTITY pageSourceCmd.label "Նամակի աղբեւրը">
 <!ENTITY pageSourceCmd.accesskey "օ">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
+<!ENTITY findMenu.label "Որոնել">
+<!ENTITY findMenu.accesskey "Ո">
+<!ENTITY findCmd.label "Որոնել այս նամակում…">
+<!ENTITY findCmd.accesskey "Ո">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Կրկին որոնել">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Նամակների որոնում…">
+<!ENTITY searchMailCmd.accesskey "Ն">
+<!ENTITY searchMailCmd.key "փ">
+<!ENTITY glodaSearchCmd.label "Ընդհանրական որոնում…">
+<!ENTITY glodaSearchCmd.accesskey "Ը">
+<!ENTITY searchAddressesCmd.label "Հասցէների որոնում…">
+<!ENTITY searchAddressesCmd.accesskey "Ո">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Անցնել">
+<!ENTITY goMenu.accesskey "Ա">
+<!ENTITY nextMenu.label "Յաջորդ">
+<!ENTITY nextMenu.accesskey "Յ">
+<!ENTITY nextMsgCmd.label "Հաղորդագրութիւն">
+<!ENTITY nextMsgCmd.accesskey "Հ">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Չընթերցուած նամակ">
+<!ENTITY nextUnreadMsgCmd.accesskey "Չ">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Աստղանշուած նամակ">
+<!ENTITY nextStarredMsgCmd.accesskey "Ա">
+<!ENTITY nextUnreadThread.label "Չընթերցուած շղթայ">
+<!ENTITY nextUnreadThread.accesskey "Շ">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Նախորդը">
+<!ENTITY prevMenu.accesskey "Ն">
+<!ENTITY prevMsgCmd.label "Հաղորդագրութիւն">
+<!ENTITY prevMsgCmd.accesskey "Հ">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Չընթերցուած հաղորդագրութիւն">
+<!ENTITY prevUnreadMsgCmd.accesskey "Չ">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Փոխանցել">
+<!ENTITY goForwardCmd.accesskey "Փ">
+<!ENTITY goForwardCmd.commandKey "]">
 
 <!-- Message Menu -->
 <!-- do not change "VK_RETURN" -->
