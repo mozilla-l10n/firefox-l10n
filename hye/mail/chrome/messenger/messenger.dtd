@@ -300,8 +300,31 @@
 <!ENTITY goForwardCmd.label "Փոխանցել">
 <!ENTITY goForwardCmd.accesskey "Փ">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Յետ">
+<!ENTITY goBackCmd.accesskey "Յ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Զրոյց">
+<!ENTITY goChatCmd.accesskey "Զ">
+<!ENTITY goChatCmd2.key "H">
+<!ENTITY prevStarredMsgCmd.label "Աստղանշուած նամակ">
+<!ENTITY prevStarredMsgCmd.accesskey "Ա">
+<!ENTITY folderMenu.label "Թղթապանակ">
+<!ENTITY goRecentlyClosedTabs.label "Փակուած վերջին ներդիրները">
+<!ENTITY goRecentlyClosedTabs.accesskey "Վ">
+<!ENTITY startPageCmd.label "Մեկնարկային էջ">
+<!ENTITY startPageCmd.accesskey "Մ">
 
 <!-- Message Menu -->
+<!ENTITY msgMenu.label "Նամակ">
+<!ENTITY msgMenu.accesskey "Ն">
+<!ENTITY newMsgCmd.label "Նոր նամակ">
+<!ENTITY newMsgCmd.accesskey "Ն">
+<!ENTITY newNewMsgCmd.label "Նամակ">
+<!ENTITY newNewMsgCmd.accesskey "Ն">
+<!ENTITY archiveMsgCmd.label "Արխիւ">
+<!ENTITY archiveMsgCmd.accesskey "Ա">
+<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "Չեղարկել նամակը">
 <!-- do not change "VK_RETURN" -->
 
 <!-- Windows Menu -->
