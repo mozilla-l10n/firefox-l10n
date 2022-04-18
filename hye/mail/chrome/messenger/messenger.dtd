@@ -205,6 +205,20 @@
 <!ENTITY msgsMenu.label "Նամակներ">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Քննարկումներ">
+<!ENTITY allMsgsCmd.label "Բոլորը">
+<!ENTITY allMsgsCmd.accesskey "Բ">
+<!ENTITY expandAllThreadsCmd.label "Ընդարձակել բոլորը">
+<!ENTITY expandAllThreadsCmd.accesskey "Ը">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Կոծկել բոլորը">
+<!ENTITY collapseAllThreadsCmd.accesskey "Կ">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Չընթերցուած">
+<!ENTITY unreadMsgsCmd.accesskey "Չ">
+<!ENTITY threadsWithUnreadCmd.label "Չընթերցուած հաղորդագրութիւններ">
+<!ENTITY threadsWithUnreadCmd.accesskey "Հ">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Դիտուած թեմաներ՝ չընթերցուածների հետ">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "Դ">
 
 
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Սկզբնադիր ձեւաչափ">
