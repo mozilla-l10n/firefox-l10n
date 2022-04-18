@@ -417,22 +417,60 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Կցորդներ">
 <!ENTITY openFeedMessage1.label "Յետադարձ կապի հաղորդագրութիւնները բացելիս">
+<!ENTITY openFeedMessage1.accesskey "Բ">
+<!ENTITY openFeedWebPage.label "Բացել որպէս վեբ էջ">
+<!ENTITY openFeedWebPage.accesskey "Վ">
+<!ENTITY openFeedSummary.label "Բացել որպէս սեղմագիր">
+<!ENTITY openFeedSummary.accesskey "Ս">
+<!ENTITY openFeedWebPageInMP.label "Փոփոխել վեբ էջը եւ արդիւնքը գրութեան վահանակում">
+<!ENTITY openFeedWebPageInMP.accesskey "Փ">
 
 <!-- Windows Menu -->
+<!ENTITY windowMenu.label "Պատուհան">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Գործիքներ">
+<!ENTITY tasksMenu.accesskey "Գ">
+<!ENTITY messengerCmd.label "Փոստ &amp; Տեղեկատուաախմբեր">
+<!ENTITY messengerCmd.accesskey "Տ">
+<!ENTITY addressBookCmd.label "Հասցէագիրք">
+<!ENTITY addressBookCmd.accesskey "Գ">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addonNoPrefs.label "Լրացուցիչ կարգաւորումներ չեն գտնուել:">
+<!ENTITY activitymanager.label "Ակտիւութեան կառավարիչ">
+<!ENTITY imAccountsStatus.label "Զրոյցի կարգավիճակը">
 <!ENTITY imAccountsStatus.accesskey "Զ">
 <!ENTITY imStatus.available          "Հասանելի">
 <!ENTITY imStatus.unavailable        "Անհասանելի">
 <!ENTITY imStatus.offline            "Անցանց">
+<!ENTITY imStatus.showAccounts       "Ցուցադրել հաշիւները…">
+<!ENTITY joinChatCmd.label "Միանալ զրուցարան…">
+<!ENTITY savedFiles.label "Պահպանուած նիշեր">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Նամակի զտիչներ">
+<!ENTITY filtersCmd2.accesskey "Զ">
+<!ENTITY filtersApply.label "Աշխատեցնել զտիչները պանակում">
+<!ENTITY filtersApply.accesskey "Ա">
+<!ENTITY filtersApplyToSelection.label "Աշխատեցնել զտիչները ընտրուած նամակներում">
+<!ENTITY filtersApplyToMessage.label "Աշխատեցնել զտիչները նամակում">
+<!ENTITY runJunkControls.label "Աշխատեցնել թափաւնի կառավարումը թղթապանակում">
+<!ENTITY runJunkControls.accesskey "Կ">
+<!ENTITY deleteJunk.label "Ջնջել թափաւն նամակը՝">
+<!ENTITY deleteJunk.accesskey "Ջ">
 <!ENTITY importCmd.label "Ներածել…">
-<!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Արտահանել…">
+<!ENTITY clearRecentHistory.label "Ջնջել վերջին պատմութիւնը…">
+<!ENTITY clearRecentHistory.accesskey "Պ">
+<!ENTITY accountManagerCmd2.label "Հաշուի կարգաւորումներ">
+<!ENTITY accountManagerCmd2.accesskey "Կ">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "Հ">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Ծրագրաւորողի գործիքներ">
 
 <!-- Mail Toolbar -->
 
