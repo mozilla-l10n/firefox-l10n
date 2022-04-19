@@ -4,6 +4,15 @@
 
 e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debes configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
 e2e-intro-description-more = Seleccione tu clave personal para habilitar el uso de OpenPGP, o tu certificado personal para habilitar el uso de S/MIME. Para una clave personal o un certificado, posees la clave secreta correspondiente.
+e2e-sign-message =
+    .label = Firmar mensajes sin cifrar
+    .accesskey = c
+e2e-disable-enc =
+    .label = Deshabilitar el cifrado para mensajes nuevos
+    .accesskey = D
+e2e-enable-enc =
+    .label = Habilitar cifrado para mensajes nuevos
+    .accesskey = n
 e2e-advanced-section = Configuración avanzada
 e2e-attach-key =
     .label = Adjuntar mi clave pública al agregar una firma digital OpenPGP
@@ -44,6 +53,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avanzado…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOTA: La generación de la clave puede tardar varios minutos en completarse.</a> No salgas de la aplicación mientras se está generando la clave. La exploración activa o la realización de operaciones intensivas con un disco durante la generación de claves repondrá el "grupo de aleatoriedad" y acelerará el proceso. Se te avisará cuando se complete la generación de claves.
+openpgp-key-created-label =
+    .label = Creado
 openpgp-key-expiry-label =
     .label = Expiración
 openpgp-key-id-label =
@@ -221,6 +232,7 @@ openpgp-key-details-structure-tab =
     .label = Estructura
 openpgp-key-details-uid-certified-col =
     .label = ID de usuario / Certificado por
+openpgp-key-details-key-id-label = ID de clave
 openpgp-key-details-user-id2-label = Presunto propietario de la clave
 openpgp-key-details-id-label =
     .label = ID

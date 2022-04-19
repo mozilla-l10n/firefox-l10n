@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Adjuntar archivo(s)…
     .accesskey = A
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Mi vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Mi clave pública OpenPGP
+    .accesskey = c
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -127,6 +134,47 @@ message-to-be-signed-icon =
     .alt = Firmar mensaje
 message-to-be-encrypted-icon =
     .alt = Cifrar mensaje
+encryption-menu =
+    .label = Seguridad
+    .accesskey = g
+encryption-toggle =
+    .label = Cifrar
+    .tooltiptext = Usar cifrado de extremo a extremo para este mensaje.
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Ver o cambiar la configuración de cifrado de OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Ver o cambiar la configuración de cifrado de S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Cifrar
+    .accesskey = C
+menu-encrypt-subject =
+    .label = Cifrar asunto
+    .accesskey = B
+menu-sign =
+    .label = Firmar digitalmente
+    .accesskey = i
+menu-manage-keys =
+    .label = Asistente de claves
+    .accesskey = A
+menu-open-key-manager =
+    .label = Gestor de claves
+    .accesskey = G
+key-notification-disable-encryption =
+    .label = No cifrar
+    .accesskey = N
+    .tooltiptext = Deshabilitar el cifrado de extremo a extremo
+key-notification-resolve =
+    .label = Resolver…
+    .accesskey = R
+    .tooltiptext = Abrir el asistente de claves de OpenPGP
 
 ## Addressing Area
 
