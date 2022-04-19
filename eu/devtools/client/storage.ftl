@@ -72,6 +72,7 @@ storage-table-headers-cookies-size = Tamaina
 storage-table-headers-cookies-last-accessed = Azken atzipena
 storage-table-headers-cookies-creation-time = Sortuta
 storage-table-headers-cache-status = Egoera
+storage-table-headers-extension-storage-area = Biltegiratze-eremua
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
