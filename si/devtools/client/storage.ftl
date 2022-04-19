@@ -5,15 +5,22 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = අයිතම පෙරන්න
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = අගයන් පෙරන්න
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = සියල්ල මකන්න
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = නම
 storage-table-headers-cookies-value = අගය
+storage-table-headers-cache-status = තත්ත්වය
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
