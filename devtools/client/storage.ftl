@@ -36,6 +36,9 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Add Item
+# Refresh button title
+storage-refresh-button =
+    .title = Refresh Items
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Delete All
