@@ -27,12 +27,18 @@ storage-table-type-cache-hint = Ehecha ha embogue ñembyatyha jeikekue eiporavó
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Ehecha ha embosako’i ñembyatyha jepysokue eiporavóvo mohendahavusu. <a data-l10n-name="learn-more-link">Kuaave</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Pururã mbogua
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Mboguaha repykue
 # Add Item button title
 storage-add-button =
     .title = Embojuaju pururã
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Emboguepaite
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
