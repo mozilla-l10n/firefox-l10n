@@ -51,6 +51,7 @@ about-processes-socket-process = Мережа ({ $pid })
 about-processes-remote-sandbox-broker-process = Віддалений брокер пісочниці ({ $pid })
 about-processes-fork-server-process = Сервер розгалуження ({ $pid })
 about-processes-preallocated-process = Попередньо розподілено ({ $pid })
+about-processes-utility-process = Утиліта ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -122,6 +123,9 @@ about-processes-frame-name-one = Підфрейм: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Підфрейми ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Невідомий виконавець
+about-processes-utility-actor-audio-decoder = Аудіо декодер
 
 ## Displaying CPU (percentage and total)
 ## Variables:
