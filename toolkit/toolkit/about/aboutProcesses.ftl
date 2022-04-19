@@ -51,6 +51,7 @@ about-processes-socket-process = Sieť ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker vzdialeného sandboxu ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Vopred pridelený ({ $pid })
+about-processes-utility-process = Utilita ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -120,6 +121,9 @@ about-processes-frame-name-one = Podrámec: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Podrámce ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Neznámy actor
+about-processes-utility-actor-audio-decoder = Audio dekodér
 
 ## Displaying CPU (percentage and total)
 ## Variables:
