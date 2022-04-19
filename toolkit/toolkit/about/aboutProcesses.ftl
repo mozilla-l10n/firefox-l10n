@@ -121,6 +121,8 @@ about-processes-frame-name-one = Падфрэйм: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Падфрэймы ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Невядомы выканаўца
 about-processes-utility-actor-audio-decoder = Аўдыё дэкодэр
 
 ## Displaying CPU (percentage and total)
