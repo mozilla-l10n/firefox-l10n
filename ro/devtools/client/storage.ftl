@@ -51,6 +51,10 @@ storage-context-menu-copy =
 
 storage-table-headers-cookies-name = Nume
 storage-table-headers-cookies-value = Valoare
+storage-table-headers-cookies-expires = Expiră / Durată maximă
+storage-table-headers-cookies-size = Mărime
+storage-table-headers-cookies-last-accessed = Ultima accesare
+storage-table-headers-cookies-creation-time = Create
 storage-table-headers-cache-status = Stare
 storage-table-headers-extension-storage-area = Zonă de stocare
 
@@ -61,6 +65,7 @@ storage-tree-labels-local-storage = Stocare locală
 storage-tree-labels-session-storage = Stocare pentru sesiune
 storage-tree-labels-indexed-db = DB indexată
 storage-tree-labels-cache = Stocare cache
+storage-tree-labels-extension-storage = Stocare extensii
 
 ##
 
