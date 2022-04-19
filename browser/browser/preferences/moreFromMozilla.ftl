@@ -20,14 +20,11 @@ more-from-moz-mozilla-rally-title = { -rally-brand-name }
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-mozilla-rally-description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਵਧੀਆ ਇੰਟਰਨੈੱਟ ਵਾਸਤੇ ਕੰਮ ਕਰਨ ਵਾਸਤੇ ਵਰਤੋਂ।
 # This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-button-mozilla-rally =
-    .label = { -rally-short-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
+more-from-moz-mozilla-rally-description-advanced = ਵੱਧ ਸੁਰੱਖਿਅਤ, ਵੱਧ ਆਜ਼ਾਦ ਇੰਟਰਨੈੱਟ, ਜੋ ਕਿ ਵੱਡੀਆਂ ਤਕਨੀਕੀ ਕੰਪਨੀਆਂ ਦੀ ਮਦਦ ਕਰਨ ਦੀ ਬਜਾਏ ਲੋਕਾਂ ਦੀ ਮਦਦ ਕਰੇ, ਬਣਾਉਣ ਵਾਸਤੇ ਜਾਰੀ ਖੋਜੀ ਅਧਿਐਨਾਂ ਵਾਸਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਦਾਨ ਕਰੋ।
 # This string is specific to the product Mozilla Rally which is US only.
 more-from-moz-button-mozilla-rally-2 = { -rally-short-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
 more-from-moz-qr-code-box-firefox-mobile-title = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤ ਕੇ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੇ ਕੈਮਰੇ ਨੂੰ QR ਕੋਡ ਵੱਲ ਕਰੋ। ਜਦੋਂ ਲਿੰਕ ਦਿਖਾਈ ਦੇਵੇ ਤਾਂ ਇਸ ਨੂੰ ਛੂਹੋ।
 more-from-moz-qr-code-box-firefox-mobile-button = ਇਸ ਦੀ ਬਜਾਏ ਆਪਣੇ ਫੋਨ ਤੇ ਈਮੇਲ ਭੇਜੋ
-more-from-moz-button-mozilla-vpn =
-    .label = VPN ਲਵੋ
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } ਮੋਬਾਈਲ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ QR ਕੋਡ
 more-from-moz-button-mozilla-vpn-2 = VPN ਲਵੋ

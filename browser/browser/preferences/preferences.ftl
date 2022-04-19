@@ -88,6 +88,21 @@ extension-controlled-websites-content-blocking-all-trackers = ਇਕਸਟੈਨ
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } ਇਕਸਟੈਸ਼ਨ { -brand-short-name } ਦੇ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਦੀ ਨਿਗਰਾਨੀ ਰੱਖਦੀ ਹੈ।
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ਲਈ ਕਨਟੇਨਰ ਟੈਬਾਂ ਚਾਹੀਦੀਆਂ ਹਨ।
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> { -brand-short-name } ਦੇ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -187,6 +202,7 @@ containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹ
 
 language-and-appearance-header = ਬੋਲੀ ਅਤੇ ਦਿੱਖ
 fonts-and-colors-header = ਫੌਂਟ ਤੇ ਰੰਗ
+preferences-web-appearance-header = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
 default-font = ਡਿਫਾਲਟ ਫੌਂਟ
     .accesskey = D
 default-font-size = ਆਕਾਰ
