@@ -36,6 +36,9 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Add Item
+# Refresh button title
+storage-refresh-button =
+    .title = Refresh Items
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Delete All
@@ -67,6 +70,7 @@ storage-table-headers-cookies-value = Value
 storage-table-headers-cookies-expires = Истиче / максимална старост
 storage-table-headers-cookies-size = Величина
 storage-table-headers-cookies-last-accessed = Последњи пут приступљено
+storage-table-headers-cookies-creation-time = Created
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Складишни простор
 
