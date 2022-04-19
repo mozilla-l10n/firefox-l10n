@@ -340,6 +340,7 @@ key-expired-simple = 金鑰已經過期
 key-revoked-simple = 金鑰已被撤銷
 key-do-you-accept = 您要接受將此金鑰用來驗證數位簽章與加密訊息嗎？
 key-accept-warning = 請先使用電子郵件以外的通訊管道驗證對方的金鑰指紋，不要接受惡意金鑰。
+key-verification = 請使用電子郵件以外的安全通訊方式確認金鑰指紋，以確保這的確是 { $addr } 的金鑰。
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = 您的個人金鑰有問題，無法傳送訊息。{ $problem }
 cannot-encrypt-because-missing = 由於下列收件者的金鑰有問題，無法用端到端加密的方式傳送此訊息: { $problem }
