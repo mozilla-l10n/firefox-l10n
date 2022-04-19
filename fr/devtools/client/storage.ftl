@@ -33,14 +33,26 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrer les valeurs
+# Add Item button title
+storage-add-button =
+    .title = Ajouter un élément
+# Refresh button title
+storage-refresh-button =
+    .title = Actualiser la liste
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Tout supprimer
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copier
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Supprimer « { $itemName } »
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Ajouter un élément
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -52,7 +64,9 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nom
 storage-table-headers-cookies-value = Valeur
+storage-table-headers-cookies-creation-time = Date de création
 storage-table-headers-cache-status = État
+storage-table-headers-extension-storage-area = Zone de stockage
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
