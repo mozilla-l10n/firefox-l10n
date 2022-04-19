@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Ireki lotura fitxa berrian
 styleeditor-copy-url =
     .label = Kopiatu URLa
+styleeditor-go-to-line =
+    .label = Jauzi lerrora…
+    .accesskey = J
