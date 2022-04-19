@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = İlişimni Yañı İlmekte Aç
 styleeditor-copy-url =
     .label = URL kopiyala
+styleeditor-go-to-line =
+    .label = Satırğa sekir…
+    .accesskey = S
