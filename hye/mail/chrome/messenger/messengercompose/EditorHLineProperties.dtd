@@ -23,3 +23,5 @@
 <!ENTITY threeDShading.label "3-D ստուերաւորում">
 <!ENTITY threeDShading.accessKey "Ս">
 <!ENTITY saveSettings.label "Աւգտագործել, որպէս սկզբնադիր">
+<!ENTITY saveSettings.accessKey "Ս">
+<!ENTITY saveSettings.tooltip "Պահպանէք այս կարգաւորումները՝ նոր հորիզոնական գծեր տեղադրելիս աւգտագործելու համար">
