@@ -33,6 +33,9 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtr hodnot
+# Add Item button title
+storage-add-button =
+    .title = Přidat položku
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Smazat vše
@@ -44,6 +47,9 @@ storage-context-menu-delete-all-session-cookies =
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Smazat “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Přidat položku
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
