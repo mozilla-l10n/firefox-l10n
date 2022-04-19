@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Сілтемені жаңа бетте ашу
 styleeditor-copy-url =
     .label = Сілтемесін көшіріп алу
+styleeditor-go-to-line =
+    .label = Жолға өту…
+    .accesskey = Ж
