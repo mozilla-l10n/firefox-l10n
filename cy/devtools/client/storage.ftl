@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Enw
 storage-table-headers-cookies-value = Gwerth
+storage-table-headers-cookies-expires = Daw i ben / Oed-Uchaf
+storage-table-headers-cookies-size = Maint
+storage-table-headers-cookies-last-accessed = Mynediad Diwethaf
+storage-table-headers-cookies-creation-time = Crëwyd
 storage-table-headers-cache-status = Statws
 storage-table-headers-extension-storage-area = Ardal Storio
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Storfa Leol
 storage-tree-labels-session-storage = Storfa Sesiwn
 storage-tree-labels-indexed-db = Cronfa Ddata wedi ei Fynegeio
 storage-tree-labels-cache = Storfa'r Storio Dros Dro
+storage-tree-labels-extension-storage = Storio Estyniad
 
 ##
 
