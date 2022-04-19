@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Anexar arquivos…
     .accesskey = n
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Meu vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Minha chave pública OpenPGP
+    .accesskey = v
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -126,6 +133,9 @@ message-to-be-signed-icon =
     .alt = Assinar mensagem
 message-to-be-encrypted-icon =
     .alt = Criptografar mensagem
+encryption-menu =
+    .label = Segurança
+    .accesskey = g
 
 ## Addressing Area
 
