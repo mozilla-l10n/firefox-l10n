@@ -27,12 +27,27 @@ storage-table-type-cache-hint = Қойманы таңдау арқылы кэш 
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Хостты таңдау арқылы кеңейтулер қоймасын қарау және түзету. <a data-l10n-name="learn-more-link">Көбірек білу</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Нәрселерді сүзгілеу
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Мәндерді сүзгілеу
 # Add Item button title
 storage-add-button =
     .title = Бірдемені қосу
+# Refresh button title
+storage-refresh-button =
+    .title = Нәрселерді жаңарту
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Барлығын өшіру
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Сессияның барлық cookies файлдарын өшіру
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Көшіріп алу
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -53,9 +68,11 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Аты
 storage-table-headers-cookies-value = Мәні
 storage-table-headers-cache-status = Қалып-күйі
+storage-table-headers-extension-storage-area = Қойма аймағы
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = Cookies файлдары
 storage-tree-labels-local-storage = Жергілікті жинақтауыш
 storage-tree-labels-session-storage = Сессия жинақтауышы
 storage-tree-labels-indexed-db = Индекстелген ДҚ
