@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Sem dados existentes para o servidor selecionado
 # Hint shown when the cookies storage type is selected. Clicking the link will open
@@ -28,22 +30,58 @@ storage-table-type-extensionstorage-hint = Visualize e edite o armazenamento das
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrar valores
+# Add Item button title
+storage-add-button =
+    .title = Adicionar item
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Apagar “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Adicionar item
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Apagar tudo de “{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Nome
 storage-table-headers-cookies-value = Valor
+storage-table-headers-cache-status = Estado
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Armazenamento local
+storage-tree-labels-session-storage = Armazenamento da sessão
 storage-tree-labels-indexed-db = BD indexada
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Expandir painel
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Colapsar painel
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Sessão
 # Heading displayed over the item value in the sidebar
 storage-data = Dados
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Valor analisado
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = A base de dados “{ $dbName }” será apagada depois de todas as ligações estarem fechadas.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = A base de dados “{ $dbName }” não pode ser apagada.
