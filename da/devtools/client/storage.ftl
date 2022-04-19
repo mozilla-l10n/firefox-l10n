@@ -33,6 +33,9 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter-værdier
+# Add Item button title
+storage-add-button =
+    .title = Tilføj element
 # Refresh button title
 storage-refresh-button =
     .title = Genindlæs elementer
@@ -50,6 +53,9 @@ storage-context-menu-copy =
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Slet { $itemName }
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Tilføj element
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -74,6 +80,14 @@ storage-tree-labels-cache = Cache Storage
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Fold panel ud
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Fold panel sammen
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Session
 # Heading displayed over the item value in the sidebar
