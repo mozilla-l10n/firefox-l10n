@@ -33,14 +33,23 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Значэнне фільтра
+# Add Item button title
+storage-add-button =
+    .title = Дадаць элемент
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Выдаліць усе
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Выдаліць усе кукі сесіі
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Выдаліць “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Дадаць элемент
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -78,6 +87,10 @@ storage-expires-session = Сесія
 storage-data = Дадзеныя
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Разабранае значэнне
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = База дадзеных “{ $dbName }” будзе выдаленая пасля таго, як усе злучэнні будуць закрыты.
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
