@@ -16,12 +16,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = বিষয় যোগ
+# Refresh button title
+storage-refresh-button =
+    .title = আইটেম রিফ্রেশ করুন
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = সব মুছে ফেলুন
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = সব সেশন কুকিজ মুছে দিন
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = অনুলিপি
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
