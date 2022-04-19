@@ -85,6 +85,10 @@ context-menuitem-attach-files =
     .label = Pripni datoteke …
     .accesskey = d
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Moja vizitka vCard
+    .accesskey = C
 context-menuitem-attach-openpgp-key =
     .label = Moj javni ključ OpenPGP
     .accesskey = k
