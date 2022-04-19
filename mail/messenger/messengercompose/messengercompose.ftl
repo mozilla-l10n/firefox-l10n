@@ -80,6 +80,13 @@ context-menuitem-attach-files =
     .label = 附加檔案…
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = 我的 vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = 我的 OpenPGP 公鑰
+    .accesskey = K
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -123,6 +130,50 @@ message-to-be-signed-icon =
     .alt = 簽署訊息
 message-to-be-encrypted-icon =
     .alt = 加密訊息
+encryption-menu =
+    .label = 安全性
+    .accesskey = c
+encryption-toggle =
+    .label = 加密
+    .tooltiptext = 對此訊息進行端到端加密
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = 檢視或變更 OpenPGP 加密設定
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = 檢視或變更 S/MIME 加密設定
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = 加密
+    .accesskey = E
+menu-encrypt-subject =
+    .label = 加密主旨
+    .accesskey = B
+menu-sign =
+    .label = 數位簽署
+    .accesskey = i
+menu-manage-keys =
+    .label = 金鑰助理
+    .accesskey = A
+menu-view-certificates =
+    .label = 檢視收件憑證
+    .accesskey = V
+menu-open-key-manager =
+    .label = 金鑰管理員
+    .accesskey = M
+key-notification-disable-encryption =
+    .label = 不要加密
+    .accesskey = D
+    .tooltiptext = 關閉端到端加密
+key-notification-resolve =
+    .label = 解決…
+    .accesskey = R
+    .tooltiptext = 開啟 OpenPGP 金鑰助理
 
 ## Addressing Area
 
