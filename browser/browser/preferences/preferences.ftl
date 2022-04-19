@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Wat moat { -brand-short-name } mei oare bestannen dwaan?
+applications-save-for-new-types =
+    .label = Bestannen bewarje
+    .accesskey = b
+applications-ask-before-handling =
+    .label = Freegje oft bestannen iepene of bewarre wurde moatte
+    .accesskey = F
 drm-content-header = Digital Rights Management (DRM)-ynhâld
 play-drm-content =
     .label = DRM-kontrolearre ynhâld ôfspylje

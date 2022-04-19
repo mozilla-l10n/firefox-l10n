@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = De standertwearde ynstelle foar it tastean dat
 policy-OverrideFirstRunPage = De side dy’t foar it earst iepene wurdt ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
 policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
 policy-PasswordManagerEnabled = Bewarjen fan wachtwurden yn de wachtwurdbehearder ynskeakelje.
+policy-PasswordManagerExceptions = Foarkomme dat { -brand-short-name } wachtwurden foar spesifike websites bewarret.
 # PDF.js and PDF should not be translated
 policy-PDFjs = PDF.js, de yn { -brand-short-name } ynboude PDF-lêzer, útskeakelje of ynstelle.
 policy-Permissions2 = Tastimmingen foar kamera, mikrofoan, lokaasje, notifikaasjes en automatysk ôfspyljen konfigurearje.
