@@ -16,6 +16,9 @@ storage-variable-view-search-box =
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = అన్నీ తొలగించు
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = అన్ని సెషన్ కుకీలను తొలగించు
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -32,6 +35,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = పేరు
 storage-table-headers-cookies-value = విలువ
+storage-table-headers-cookies-size = పరిమాణం
 storage-table-headers-cache-status = స్థితి
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
@@ -39,6 +43,7 @@ storage-table-headers-cache-status = స్థితి
 storage-tree-labels-cookies = కుకీలు
 storage-tree-labels-local-storage = స్థానిక నిల్వ
 storage-tree-labels-session-storage = సెషన్ నిల్వ
+storage-tree-labels-indexed-db = ఇండెక్సుడ్ డీబీ
 storage-tree-labels-cache = క్యాషేనిల్వ
 
 ##
@@ -53,3 +58,7 @@ storage-parsed-value = పార్స్‌డ్ విలువలు
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-blocked = అన్ని కనెక్షన్లను మూసివేయబడినప్పుడు డేటాబేస్ “{ $dbName }” తొలగించబడుతుంది.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = “{ $dbName }” డేటాబేసుని తొలగించలేము.
