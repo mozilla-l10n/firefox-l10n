@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = Moɲoo woo ši nda kaymi zuu kul.
 styleeditor-no-stylesheet-tip = A hin ka tee war ga baa ka <a data-l10n-name="append-new-stylesheet">kaymi zuu taaga dobu</a>?
 styleeditor-open-link-new-tab =
     .label = Doboo feeri kanji taaga ra
+styleeditor-go-to-line =
+    .label = Sar žeero ga…
+    .accesskey = S
