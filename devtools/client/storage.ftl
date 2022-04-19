@@ -44,6 +44,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Наименование
 storage-table-headers-cookies-value = Стойност
+storage-table-headers-cookies-size = Размер
 storage-table-headers-cache-status = Състояние
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
