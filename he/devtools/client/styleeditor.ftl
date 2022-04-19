@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = פתיחת קישור בלשונית חדשה
 styleeditor-copy-url =
     .label = העתקת כתובת
+styleeditor-go-to-line =
+    .label = קפיצה לשורה…
+    .accesskey = ק
