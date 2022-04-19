@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nama
 storage-table-headers-cookies-value = Nilai
+storage-table-headers-cookies-expires = Kedaluwarsa / Usia Maksimal
+storage-table-headers-cookies-size = Ukuran
+storage-table-headers-cookies-last-accessed = Diakses Terakhir
+storage-table-headers-cookies-creation-time = Dibuat
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Area Penyimpanan
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Penyimpanan Lokal
 storage-tree-labels-session-storage = Penyimpanan Sesi
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Penyimpanan Tembolok
+storage-tree-labels-extension-storage = Penyimpanan Ekstensi
 
 ##
 
