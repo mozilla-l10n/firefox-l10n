@@ -120,6 +120,7 @@ about-processes-frame-name-one = Subframe: { $url }
 about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 # Utility process actor names
 about-processes-utility-actor-unknown = Onbekende actor
+about-processes-utility-actor-audio-decoder = Audiodecoder
 
 ## Displaying CPU (percentage and total)
 ## Variables:
