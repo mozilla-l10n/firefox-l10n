@@ -316,6 +316,17 @@
 <!ENTITY editMsgAsNewCmd.label "Editar como nova">
 <!ENTITY editMsgAsNewCmd.accesskey "d">
 <!ENTITY editMsgAsNewCmd.key "E">
+<!ENTITY editAsNewMsgCmd.label "Editar como nova mensagem">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Editar rascunho de mensagem">
+<!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "Editar modelo">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
+<!ENTITY newMsgFromTemplateCmd.label "Nova mensagem a partir de um modelo">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Criar filtro para o remetente...">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY archiveMsgCmd.label "Arquivar">
@@ -470,6 +481,12 @@
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextEditAsNew.label "Editar como nova">
 <!ENTITY contextEditAsNew.accesskey "d">
+<!ENTITY contextEditMsgAsNew.label "Editar como nova mensagem">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editar rascunho de mensagem">
+<!ENTITY contextEditTemplate.label "Editar modelo">
+<!ENTITY contextEditTemplate.accesskey "m">
+<!ENTITY contextNewMsgFromTemplate.label "Nova mensagem a partir de um modelo">
 <!ENTITY contextReplySender.label "Responder">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyList.label "Responder à lista">
