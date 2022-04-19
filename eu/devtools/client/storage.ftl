@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Izena
 storage-table-headers-cookies-value = Balioa
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = Tamaina
+storage-table-headers-cookies-last-accessed = Azken atzipena
+storage-table-headers-cookies-creation-time = Sortuta
 storage-table-headers-cache-status = Egoera
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
@@ -76,6 +80,7 @@ storage-tree-labels-local-storage = Biltegiratze lokala
 storage-tree-labels-session-storage = Saioko biltegiratzea
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Cache-biltegiratzea
+storage-tree-labels-extension-storage = Hedapenen biltegiratzea
 
 ##
 
