@@ -15,16 +15,42 @@
 <!ENTITY locationEditField.tooltip "Մուտքագրէք պատկերների նիշի անուանումը կամ գտնուելու վայրը">
 <!ENTITY locationEditField.shortenedDataURI "Կրճատուած տուեալների URI (պատճէնը կը տեղադրի ամբողջական URI-ն կցցադաշտի վրայ)">
 <!ENTITY title.label "Գործիքի տեսակ:">
+<!ENTITY title.accessKey "Գ">
+<!ENTITY title.tooltip "Html «title»-ի յատկանիշ, որը ցուցադրուում է որպես գործիքակազմ">
+<!ENTITY altText.label "Այղընտրանքային գրոյթ․">
+<!ENTITY altText.accessKey "Ա">
+<!ENTITY altTextEditField.tooltip "Մուտքագրէք գրոյթ՝ պատկերի փոխարէն ցուցադրելու համար">
+<!ENTITY noAltText.label "Մի աւգտագործէք այղընտրանքային նիւթ">
+<!ENTITY noAltText.accessKey "Մ">
 
 <!ENTITY previewBox.label "Պատկերի նախադիտում">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Իրական չափը․">
+<!ENTITY actualSizeRadio.label "Իրական չափ">
+<!ENTITY actualSizeRadio.accessKey "Ի">
+<!ENTITY actualSizeRadio.tooltip "Վերադառնալ պատկերի հիմնական չափսերին">
+<!ENTITY customSizeRadio.label "Սահմանուած չափը">
+<!ENTITY customSizeRadio.accessKey "Չ">
+<!ENTITY customSizeRadio.tooltip "Փոփոխել պատկերի չափսերը այնպէս, ինչպէս երեւում է էջում">
+<!ENTITY heightEditField.label "Բարձրութիւն․">
+<!ENTITY heightEditField.accessKey "Բ">
+<!ENTITY widthEditField.label "Լայնութիւն․">
+<!ENTITY widthEditField.accessKey "Լ">
+<!ENTITY constrainCheckbox.label "Պահպանել համամասնութիւնները">
+<!ENTITY constrainCheckbox.accessKey "Հ">
+<!ENTITY constrainCheckbox.tooltip "Պահպանել պատկերի յարաբերակցութիւնը">
 
 <!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Պատկերի քարտէզ">
 <!ENTITY removeImageMapButton.label "Ջնջել">
+<!ENTITY removeImageMapButton.accessKey "Ջ">
 
 <!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Հաւասարեցնել տեքստը պատկերին">
+<!ENTITY bottomPopup.value "Ներքեւում">
+<!ENTITY topPopup.value "Վերեւում">
 
 <!-- These controls are in the Spacing Box -->
 
