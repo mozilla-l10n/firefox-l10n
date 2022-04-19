@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Ouvrir le lien dans un nouvel onglet
 styleeditor-copy-url =
     .label = Copier l’URL
+styleeditor-go-to-line =
+    .label = Aller à la ligne…
+    .accesskey = r
