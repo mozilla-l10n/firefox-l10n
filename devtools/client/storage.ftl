@@ -33,12 +33,18 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtri valorojn
+# Add Item button title
+storage-add-button =
+    .title = Aldoni elementon
 # Refresh button title
 storage-refresh-button =
     .title = Refreŝigi elementojn
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Forigi ĉiujn
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Forigi ĉiujn seancajn kuketojn
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Kopii
@@ -47,6 +53,9 @@ storage-context-menu-copy =
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Forigi “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Aldoni elementon
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
