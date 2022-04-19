@@ -32,6 +32,8 @@ storage-table-headers-cache-status = સ્થિતિ
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = કૂકીઝ
+storage-tree-labels-indexed-db = અનુક્રમિત DB
 
 ##
 
