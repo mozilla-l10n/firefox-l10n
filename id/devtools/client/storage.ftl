@@ -33,6 +33,9 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter nilai
+# Add Item button title
+storage-add-button =
+    .title = Tambah Butir
 # Refresh button title
 storage-refresh-button =
     .title = Segarkan Item
@@ -47,6 +50,9 @@ storage-context-menu-delete-all-session-cookies =
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Hapus “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Tambah Butir
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -71,6 +77,14 @@ storage-tree-labels-cache = Penyimpanan Tembolok
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Bentangkan
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Ciutkan
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Sesi
 # Heading displayed over the item value in the sidebar
