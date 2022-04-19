@@ -68,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = 名称
 storage-table-headers-cookies-value = 值
 storage-table-headers-cache-status = 状态
+storage-table-headers-extension-storage-area = 存储区域
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
