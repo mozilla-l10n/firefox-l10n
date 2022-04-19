@@ -18,29 +18,24 @@
 <!ENTITY biffStart.label             "Ստուգել թարմացումները իւրաքանչիւր՝">
 <!ENTITY biffMinutes.label           "րոպէ">
 <!ENTITY biffDays.label              "աւրեր">
-<!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "Թողարկողը երաշխաւորում է՝">
 
 <!ENTITY quickMode.label             "Ցուցադրել յոդուածի ընդհանուր պատկերը` կայքէջի փոխարէն">
-<!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.accesskey     "օ">
-<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autotagUsePrefix.accesskey  "Պ">
 <!ENTITY autoTagPrefix.placeholder   "Մուտքագրէք պիտակի վերջածանցը">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Աւելացնել">
-<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.addFeed.accesskey    "Ա">
 <!ENTITY button.verifyFeed.label     "Հաստատել">
-<!ENTITY button.verifyFeed.accesskey "V">
+<!ENTITY button.verifyFeed.accesskey "Հ">
 <!ENTITY button.updateFeed.label     "Թարմացնել">
-<!ENTITY button.updateFeed.accesskey "U">
+<!ENTITY button.updateFeed.accesskey "Թ">
 <!ENTITY button.removeFeed.label     "Հեռացնել">
-<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.removeFeed.accesskey "Հ">
 <!ENTITY button.importOPML.label     "Ներածել">
-<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.importOPML.accesskey "Ն">
 <!ENTITY button.exportOPML.label     "Արտածել">
-<!ENTITY button.exportOPML.accesskey "X">
 
-<!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Փակել">
