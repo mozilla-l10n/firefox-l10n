@@ -83,6 +83,13 @@ context-menuitem-attach-files =
     .label = Вкласти файл(и)
     .accesskey = л
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Моя vCard
+    .accesskey = М
+context-menuitem-attach-openpgp-key =
+    .label = Мій відкритий ключ OpenPGP
+    .accesskey = к
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -132,6 +139,33 @@ message-to-be-signed-icon =
     .alt = Підписати повідомлення
 message-to-be-encrypted-icon =
     .alt = Зашифрувати повідомлення
+encryption-menu =
+    .label = Безпека
+    .accesskey = з
+encryption-toggle =
+    .label = Шифрувати
+    .tooltiptext = Захистити це повідомлення наскрізним шифруванням
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Переглянути або змінити налаштування шифрування OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Переглянути або змінити налаштування шифрування S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Шифрувати
+    .accesskey = Ш
+menu-encrypt-subject =
+    .label = Шифрувати тему
+    .accesskey = т
+menu-sign =
+    .label = Цифровий підпис
+    .accesskey = и
 
 ## Addressing Area
 
