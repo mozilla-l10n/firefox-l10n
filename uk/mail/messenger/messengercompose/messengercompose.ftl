@@ -178,6 +178,15 @@ menu-open-key-manager =
 openpgp-key-issue-notification-one = Наскрізне шифрування вимагає розв'язання проблем ключів для { $addr }
 openpgp-key-issue-notification-many = Наскрізне шифрування вимагає розв'язання проблем ключів для { $count } одержувачів
 smime-cert-issue-notification-one = Наскрізне шифрування вимагає розв'язання проблем сертифікату для { $addr }
+smime-cert-issue-notification-many = Наскрізне шифрування вимагає розв'язання проблем сертифікату для { $count } одержувачів
+key-notification-disable-encryption =
+    .label = Не шифрувати
+    .accesskey = Н
+    .tooltiptext = Вимкнути наскрізне шифрування
+key-notification-resolve =
+    .label = Розв'язати
+    .accesskey = Р
+    .tooltiptext = Відкрити менеджер керування ключами OpenPGP
 
 ## Addressing Area
 
