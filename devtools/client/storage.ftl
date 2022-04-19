@@ -30,20 +30,41 @@ storage-table-type-extensionstorage-hint = Xem và chỉnh sửa bộ nhớ ti�
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Lọc các mục
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = Lọc giá trị
+# Add Item button title
+storage-add-button =
+    .title = Thêm mục
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Xoá tất cả
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Xóa “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Thêm mục
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Tên
+storage-table-headers-cookies-value = Giá trị
+storage-table-headers-cache-status = Trạng thái
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = Cookie
+storage-tree-labels-session-storage = Lưu trữ phiên
 
 ##
 
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = Phiên
 # Heading displayed over the item value in the sidebar
 storage-data = Dữ liệu
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Giá trị phân tích
