@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Додати елемент
+# Refresh button title
+storage-refresh-button =
+    .title = Оновити елементи
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Видалити все
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Видалити всі куки сеансу
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Копіювати
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -62,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Ім’я
 storage-table-headers-cookies-value = Значення
 storage-table-headers-cache-status = Стан
+storage-table-headers-extension-storage-area = Обсяг сховища
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -87,6 +94,10 @@ storage-expires-session = Сеанс
 storage-data = Дані
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Розібране значення
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = База даних “{ $dbName }” видалиться після закриття всіх з’єднань.
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
