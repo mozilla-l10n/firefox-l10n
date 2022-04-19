@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = アイテムを追加
+# Refresh button title
+storage-refresh-button =
+    .title = アイテムを再読み込み
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = すべて削除
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = すべてのセッション Cookie を削除
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = コピー
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -61,7 +67,12 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = 名前
 storage-table-headers-cookies-value = 値
+storage-table-headers-cookies-expires = 有効期限
+storage-table-headers-cookies-size = サイズ
+storage-table-headers-cookies-last-accessed = アクセス日時
+storage-table-headers-cookies-creation-time = 作成日時
 storage-table-headers-cache-status = 状態
+storage-table-headers-extension-storage-area = ストレージ領域
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -70,6 +81,7 @@ storage-tree-labels-local-storage = ローカルストレージ
 storage-tree-labels-session-storage = セッションストレージ
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = キャッシュストレージ
+storage-tree-labels-extension-storage = 拡張機能ストレージ
 
 ##
 
