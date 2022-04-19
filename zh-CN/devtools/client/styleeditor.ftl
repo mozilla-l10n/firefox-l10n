@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = 新建标签页打开链接
 styleeditor-copy-url =
     .label = 复制网址
+styleeditor-go-to-line =
+    .label = 跳转到某行…
+    .accesskey = J
