@@ -25,6 +25,9 @@ storage-table-type-cache-hint = Položky ukladacieho priestoru vyrovnávacej pam
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Úložisko rozšírení môžete zobraziť a upraviť výberom servera. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtrovať položky
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrovať hodnoty
@@ -44,6 +47,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Názov
 storage-table-headers-cookies-value = Hodnota
+storage-table-headers-cache-status = Stav
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -51,6 +55,7 @@ storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Lokálne úložisko
 storage-tree-labels-session-storage = Úložisko relácie
 storage-tree-labels-indexed-db = Indexed DB
+storage-tree-labels-cache = Vyrovnávacia pamäť úložiska
 
 ##
 
