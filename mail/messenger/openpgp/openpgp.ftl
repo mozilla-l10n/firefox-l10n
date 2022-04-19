@@ -305,6 +305,7 @@ openpgp-add-key-button =
 e2e-learn-more = Več o tem
 openpgp-keygen-success = Ključ OpenPGP je uspešno ustvarjen!
 openpgp-keygen-import-success = Ključi OpenPGP so uspešno uvoženi!
+openpgp-keygen-external-success = ID zunanjega ključa GnuPG shranjen!
 
 ## OpenPGP Key selection area
 
@@ -461,11 +462,13 @@ openpgp-key-revoke-success = Ključ uspešno preklican.
 key-man-button-import = &Uvozi
 delete-key-title = Izbriši ključ OpenPGP
 delete-external-key-title = Odstrani zunanji ključ GnuPG
+delete-external-key-description = Ali ste prepričani, da želite odstraniti ta ID zunanjega ključa GnuPG?
 key-in-use-title = Ključ OpenPGP je trenutno v uporabi
 import-key-confirm = Ali želite uvoziti javne ključe, vdelane v sporočilo?
 fail-key-import = Napaka – uvažanje ključa ni uspelo
 file-write-failed = Pisanje v datoteko { $output } ni bilo mogoče
 confirm-permissive-import = Uvoz ni uspel. Ključ, ki ga poskušate uvoziti, je morda poškodovan ali uporablja neznane atribute. Ali želite poskusiti uvoziti dele, ki so pravilni? To lahko povzroči uvoz nepopolnih in neuporabnih ključev.
+key-trust-group = (skupina)
 # Strings used in commonWorkflows.js
 import-key-file = Uvozi datoteko ključa OpenPGP
 gnupg-file = Datoteke GnuPG
