@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = 名稱
 storage-table-headers-cookies-value = 值
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = 大小
+storage-table-headers-cookies-last-accessed = 最後存取於
+storage-table-headers-cookies-creation-time = 建立於
 storage-table-headers-cache-status = 狀態
 storage-table-headers-extension-storage-area = 儲存區域
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = 本機儲存空間
 storage-tree-labels-session-storage = 瀏覽階段儲存空間
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = 快取儲存空間
+storage-tree-labels-extension-storage = 擴充套件儲存空間
 
 ##
 
