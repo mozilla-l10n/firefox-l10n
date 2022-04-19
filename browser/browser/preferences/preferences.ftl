@@ -126,7 +126,7 @@ always-check-default =
 is-default = { -brand-short-name } ਇਸ ਸਮੇਂ ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਹੈ
 is-not-default = { -brand-short-name } ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਨਹੀਂ ਹੈ
 set-as-my-default-browser =
-    .label = …ਡਿਫਾਲਟ ਬਣਾਓ
+    .label = …ਮੂਲ ਬਣਾਓ
     .accesskey = D
 startup-restore-previous-session =
     .label = ਪਿਛਲਾ ਸ਼ੈਸ਼ਨ ਬਹਾਲ ਕਰੋ
@@ -137,7 +137,7 @@ startup-restore-windows-and-tabs =
 startup-restore-warn-on-quit =
     .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
 disable-extension =
-    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
 tabs-group-header = ਟੈਬਾਂ
 ctrl-tab-recently-used-order =
     .label = ਤਾਜ਼ਾ ਵਰਤੋਂ ਦੇ ਕ੍ਰਮ ਵਿੱਚ ਟੈਬਾਂ ਵਿੱਚ ਗੇੜੇ ਲਈ Ctrl+Tab ਵਰਤੋ
@@ -203,6 +203,39 @@ containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹ
 language-and-appearance-header = ਬੋਲੀ ਅਤੇ ਦਿੱਖ
 fonts-and-colors-header = ਫੌਂਟ ਤੇ ਰੰਗ
 preferences-web-appearance-header = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
+preferences-web-appearance-description = ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੀਆਂ ਪਸੰਦਾਂ ਦੇ ਮੁਤਾਬਕ ਆਪਣੀ ਰੰਗ ਸਕੀਮ ਨੂੰ ਢਾਲ ਲੈਂਦੀਆਂ ਹਨ। ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ ਕਿਹੜੀ ਰੰਗ ਸਕੀਮ ਵਰਤਣੀ ਚਾਹੋਗੇ।
+preferences-web-appearance-choice-browser = { -brand-short-name } ਥੀਮ
+preferences-web-appearance-choice-system = ਸਿਸਟਮ ਥੀਮ
+preferences-web-appearance-choice-light = ਹਲਕਾ
+preferences-web-appearance-choice-dark = ਗੂੜ੍ਹਾ
+preferences-web-appearance-choice-tooltip-browser =
+    .title = ਆਪਣੇ { -brand-short-name } ਥੀਮ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵੈੱਬਸਾਈਟ ਦੀ ਬੈਕਗਰਾਊਂਡ ਤੇ ਸਮੱਗਰੀ ਨਾਲ ਮਿਲਾਓ।
+preferences-web-appearance-choice-tooltip-system =
+    .title = ਆਪਣੇ ਸਿਸਟਮ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵੈੱਬਸਾਈਟਾਂ ਦੀਆਂ ਬੈਕਗਰਾਊਡਾਂ ਤੇ ਸਮੱਗਰੀ ਨਾਲ ਮਿਲਾਓ।
+preferences-web-appearance-choice-tooltip-light =
+    .title = ਵੈੱਬਸਾਈਟ ਬੈਕਗਰਾਊਂਡ ਤੇ ਸਮੱਗਰੀ ਲਈ ਹਲਕੀ ਦਿੱਖ ਵਰਤੋਂ।
+preferences-web-appearance-choice-tooltip-dark =
+    .title = ਵੈੱਬਸਾਈਟ ਬੈਕਗਰਾਊਂਡ ਤੇ ਸਮੱਗਰੀ ਲਈ ਗੂੜ੍ਹੀ ਦਿੱਖ ਵਰਤੋਂ।
+preferences-web-appearance-choice-input-browser =
+    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
+preferences-web-appearance-choice-input-system =
+    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = ਤੁਹਾਡੀ ਰੰਗ ਚੋਣਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੰਦੀਆਂ ਹਨ। <a data-l10n-name="colors-link">ਰੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = <a data-l10n-name="themes-link">ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ</a> ਵਿੱਚ { -brand-short-name } ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+preferences-colors-header = ਰੰਗ
+preferences-colors-description = ਲਿਖਤ, ਵੈੱਬਸਾਈਟ ਬੈਕਗਰਾਊਂਡ ਤੇ ਲਿੰਕਾਂ ਲਈ { -brand-short-name } ਦੇ ਮੂਲ ਰੰਗਾਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ।
+preferences-colors-manage-button =
+    .label = …ਰੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = C
+preferences-fonts-header = ਫ਼ੌਂਟ
 default-font = ਡਿਫਾਲਟ ਫੌਂਟ
     .accesskey = D
 default-font-size = ਆਕਾਰ
@@ -273,7 +306,7 @@ download-always-ask-where =
     .label = ਹਮੇਸ਼ਾ ਤੁਹਾਨੂੰ ਪੁੱਛੇ ਕਿ ਫਾਈਲਾਂ ਕਿੱਥੇ ਸੰਭਾਲਣੀਆਂ ਹਨ
     .accesskey = A
 applications-header = ਐਪਲੀਕੇਸ਼ਨਾਂ
-applications-description = ਚੁਣੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੈੱਬ ਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨਾਲ { -brand-short-name } ਕਿਵੇਂ ਨਿਪਟੇ।
+applications-description = ਚੁਣੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੈੱਬ ਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨਾਲ { -brand-short-name } ਕਿਵੇਂ ਕੰਮ ਕਰੇ।
 applications-filter =
     .placeholder = ਫਾਈਲ ਕਿਸਮਾਂ ਜਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲੱਭੋ
 applications-type-column =
@@ -363,7 +396,7 @@ update-application-auto =
     .label = ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)
     .accesskey = A
 update-application-check-choose =
-    .label = ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਤਾਂ ਕਰੋ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਚੁਣਨ ਦਿਓ
+    .label = ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਤਾਂ ਕਰੋ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਤੁਹਾਨੂੰ ਕਰਨ ਦੇਵੇ
     .accesskey = C
 update-application-manual =
     .label = ਅੱਪਡੇਟ ਲਈ ਕਦੇ ਵੀ ਜਾਂਚ ਨਾ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ)
@@ -499,8 +532,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = ਫਾਇਰਫਾਕਸ ਮੁੱਖ ਪੰਨਾ
-home-prefs-content-description = ਉਹ ਸਮੱਗਰੀ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਮੁੱਖ ਪੰਨੇ 'ਤੇ ਚਾਹੁੰਦੇ ਹੋ।
+home-prefs-content-header = ਫਾਇਰਫਾਕਸ ਮੁੱਖ ਸਫ਼ਾ ਸਮੱਗਰੀ
+home-prefs-content-description = ਜੋ ਸਮੱਗਰੀ ਤੁਸੀਂ ਆਪਣੇ Firefox ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਵੇਖਣੀ ਚਾਹੁੰਦੇ ਹੋ, ਨੂੰ ਚੁਣੋ।
 home-prefs-search-header =
     .label = ਵੈੱਬ ਖੋਜ
 home-prefs-topsites-header =
