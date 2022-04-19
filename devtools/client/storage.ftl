@@ -70,6 +70,7 @@ storage-table-headers-cookies-value = Τιμή
 storage-table-headers-cookies-expires = Λήξη/Μέγιστος χρόνος
 storage-table-headers-cookies-size = Μέγεθος
 storage-table-headers-cookies-last-accessed = Τελευταία πρόσβαση
+storage-table-headers-cookies-creation-time = Δημιουργήθηκε
 storage-table-headers-cache-status = Κατάσταση
 storage-table-headers-extension-storage-area = Περιοχή αποθήκευσης
 
@@ -80,6 +81,7 @@ storage-tree-labels-local-storage = Τοπική αποθήκευση
 storage-tree-labels-session-storage = Αποθήκευση συνεδρίας
 storage-tree-labels-indexed-db = ΒΔ με ευρετήριο
 storage-tree-labels-cache = Χώρος κρυφής μνήμης
+storage-tree-labels-extension-storage = Αποθήκευση επέκτασης
 
 ##
 
