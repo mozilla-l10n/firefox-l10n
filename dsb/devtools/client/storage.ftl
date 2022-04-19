@@ -27,12 +27,27 @@ storage-table-type-cache-hint = Wubjeŕśo składowak, aby zapiski pufrowaka pok
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Wubjeŕśo host, aby rozšyrjeński składowak pokazał a wobźěłał. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Zapiski filtrowaś
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Gódnoty filtrowaś
 # Add Item button title
 storage-add-button =
     .title = Zapisk pśidaś
+# Refresh button title
+storage-refresh-button =
+    .title = Zapiski aktualizěrowaś
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Wšykne lašowaś
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Wšykne cookieje pósejźenja wulašowaś
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopěrowaś
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -52,7 +67,12 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Mě
 storage-table-headers-cookies-value = Gódnota
+storage-table-headers-cookies-expires = Płaśiwy do / maksimalna płaśiwosć
+storage-table-headers-cookies-size = Wjelikosć
+storage-table-headers-cookies-last-accessed = Slědny pśistup
+storage-table-headers-cookies-creation-time = Napórany
 storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Składowański wobceŕk
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -61,6 +81,7 @@ storage-tree-labels-local-storage = Lokalny składowak
 storage-tree-labels-session-storage = Pósejźeński składowak
 storage-tree-labels-indexed-db = IndexedDB
 storage-tree-labels-cache = Pufrowakowy skład
+storage-tree-labels-extension-storage = Skład rozšyrjenja
 
 ##
 
