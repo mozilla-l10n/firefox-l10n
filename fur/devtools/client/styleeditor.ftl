@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Vierç colegament intune gnove schede
 styleeditor-copy-url =
     .label = Copie URL
+styleeditor-go-to-line =
+    .label = Salte ae rie…
+    .accesskey = S
