@@ -46,6 +46,7 @@
 
 <!ENTITY advance.label "Advanced">
 <!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY scriptsAndWindows2.label "Scripts">
 <!ENTITY keynav.label "Keyboard Navigation">
 <!ENTITY findAsYouType.label "Find As You Type">
 <!ENTITY cache.label "Cache">
@@ -54,7 +55,6 @@
 <!ENTITY httpnetworking.label "HTTP Networking">
 <!ENTITY smart.label "Software Installation">
 <!ENTITY mousewheel.label "Mouse Wheel">
-
 <!ENTITY debugging.label "Debugging">
 
 <!ENTITY focusSearch.key "f">
