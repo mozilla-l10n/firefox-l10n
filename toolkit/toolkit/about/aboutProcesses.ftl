@@ -49,6 +49,7 @@ about-processes-socket-process = 네트워크 ({ $pid })
 about-processes-remote-sandbox-broker-process = 원격 샌드박스 브로커 ({ $pid })
 about-processes-fork-server-process = 포크 서버 ({ $pid })
 about-processes-preallocated-process = 사전 할당 ({ $pid })
+about-processes-utility-process = 유틸리티 ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -114,6 +115,9 @@ about-processes-frame-name-one = 서브 프레임: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = 서브 프레임 ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = 알 수 없는 작업자
+about-processes-utility-actor-audio-decoder = 오디오 디코더
 
 ## Displaying CPU (percentage and total)
 ## Variables:
