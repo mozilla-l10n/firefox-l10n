@@ -5,6 +5,9 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Elementlarni qidirish
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Qiymatlarni filterlash
