@@ -18,3 +18,6 @@ styleeditor-editor-textbox =
     .data-placeholder = Charaza CSS hapa.
 styleeditor-no-stylesheet = Ukurasa huu hauna jalada ya mtindo.
 styleeditor-no-stylesheet-tip = Penginde unependa <a data-l10n-name="append-new-stylesheet">ambatisha jalada mpya ya mtindo</a>?
+styleeditor-go-to-line =
+    .label = Ruka kwa mstari…
+    .accesskey = R
