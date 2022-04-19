@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = ربط نئی ٹیب میں کھولیں
 styleeditor-copy-url =
     .label = URL نقل کریں
+styleeditor-go-to-line =
+    .label = لائن پر جست لگائیں
+    .accesskey = ج
