@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Establecer el valor predeterminado para permit
 policy-OverrideFirstRunPage = Anular la página de la primera ejecución. Establecer esta política en blanco si desea deshabilitar la página de la primera ejecución.
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establecer esta política en blanco si quiere deshabilitar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
+policy-PasswordManagerExceptions = Impedir que { -brand-short-name } guarde contraseñas para sitios específicos.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF incorporado en { -brand-short-name }.
 policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
