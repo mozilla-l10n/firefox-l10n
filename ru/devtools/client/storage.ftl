@@ -67,7 +67,12 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Имя
 storage-table-headers-cookies-value = Значение
+storage-table-headers-cookies-expires = Срок действия / Макс. возраст
+storage-table-headers-cookies-size = Размер
+storage-table-headers-cookies-last-accessed = Последний доступ
+storage-table-headers-cookies-creation-time = Создан
 storage-table-headers-cache-status = Статус
+storage-table-headers-extension-storage-area = Место хранения
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -76,6 +81,7 @@ storage-tree-labels-local-storage = Локальное хранилище
 storage-tree-labels-session-storage = Сессионное хранилище
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Хранилище кэша
+storage-tree-labels-extension-storage = Хранилище расширений
 
 ##
 
