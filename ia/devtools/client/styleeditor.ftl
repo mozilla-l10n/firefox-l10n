@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Aperir le ligamine in un nove scheda
 styleeditor-copy-url =
     .label = Copiar le URL
+styleeditor-go-to-line =
+    .label = Saltar al linea…
+    .accesskey = S
