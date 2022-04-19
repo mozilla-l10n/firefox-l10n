@@ -9,6 +9,7 @@
 <!ENTITY multiline-expand.tooltip   "Preklopi na večvrstični vnos (Ctrl+Gor)">
 <!ENTITY multiline-contract.tooltip "Preklopi na enovrstični vnos (Ctrl+Dol)">
 <!ENTITY multiline-send.tooltip     "Pošlji to besedilo (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "Spremenite vzdevek ali nastavite stanje odsotnosti. Za izostritev vnosnega polja pritisnite Escape.">
 
 <!ENTITY Underline.label             "Podčrtano">
 <!ENTITY Bold.label                  "Krepko">
