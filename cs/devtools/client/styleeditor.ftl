@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Otevřít odkaz v novém panelu
 styleeditor-copy-url =
     .label = Kopírovat URL
+styleeditor-go-to-line =
+    .label = Přejít na řádek…
+    .accesskey = n
