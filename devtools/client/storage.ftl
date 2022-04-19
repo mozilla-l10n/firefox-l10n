@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Ni podatkov izbranega gostitelja
 # Hint shown when the cookies storage type is selected. Clicking the link will open
