@@ -27,14 +27,26 @@ storage-table-type-cache-hint = Sken rnu kkes inekcam n uklas uffir s ufran n uk
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Sken rnu beddel asiɣzef s ufran n usenneftay. <a data-l10n-name="learn-more-link">Issin ugar</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Iferdisen n imzizdig
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Zizdeg azalen
+# Add Item button title
+storage-add-button =
+    .title = Rnu aferdis
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Kkes akk
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Kkes “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Rnu aferdis
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -58,6 +70,14 @@ storage-tree-labels-cache = Asekles n tuffirt
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Snefti agalis
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Fneẓ agalis
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Tiɣimit
 # Heading displayed over the item value in the sidebar
