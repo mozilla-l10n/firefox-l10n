@@ -27,12 +27,21 @@ storage-table-type-cache-hint = Դիտեք և խմբագրեք շտեմի պահ
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Դիտեք և խմբագրեք ընդլայնման պահեստը՝ ընտրելով հանգույցը: <a data-l10n-name="learn-more-link">Իմացեք ավելին</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Զտվող տարրեր
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Զտել արժեքները
 # Add Item button title
 storage-add-button =
     .title = Ավելացնել միույթ
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Ջնջել բոլորը
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Ջնջել բոլոր ա/շրջանների Cookie-ները
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
