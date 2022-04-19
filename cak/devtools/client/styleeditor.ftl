@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Tijaq Ximonel pa K'ak'a' Ruwi'
 styleeditor-copy-url =
     .label = Tiwachib'ëx URL
+styleeditor-go-to-line =
+    .label = Tik'o pa ri cholaj…
+    .accesskey = i
