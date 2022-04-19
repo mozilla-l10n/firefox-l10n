@@ -4,6 +4,17 @@
 
 e2e-intro-description = Om versleutelde of digitaal ondertekende berichten te verzenden, moet u een versleutelingstechnologie instellen, zijnde OpenPGP of S/MIME.
 e2e-intro-description-more = Selecteer uw persoonlijke sleutel om het gebruik van OpenPGP mogelijk te maken, of uw persoonlijke certificaat om het gebruik van S/MIME mogelijk te maken. Voor een persoonlijke sleutel of certificaat bezit u de bijbehorende geheime sleutel.
+e2e-signing-description = Met een digitale handtekening kunnen ontvangers controleren of het bericht door u is verzonden en of de inhoud niet is gewijzigd. Versleutelde berichten worden altijd standaard ondertekend.
+e2e-sign-message =
+    .label = Onversleutelde berichten ondertekenen
+    .accesskey = O
+e2e-disable-enc =
+    .label = Versleuteling voor nieuwe berichten uitschakelen
+    .accesskey = c
+e2e-enable-enc =
+    .label = Versleuteling voor nieuwe berichten inschakelen
+    .accesskey = h
+e2e-enable-description = U kunt versleuteling voor afzonderlijke berichten uitschakelen.
 e2e-advanced-section = Geavanceerde instellingen
 e2e-attach-key =
     .label = Mijn publieke sleutel bijvoegen als ik een digitale OpenPGP-handtekening toevoeg
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Geavanceerd…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OPMERKING: het aanmaken van de sleutel kan enkele minuten in beslag nemen.</a> Sluit de applicatie niet af terwijl het aanmaken van de sleutel bezig is. Actief navigeren of schijfintensieve bewerkingen uitvoeren tijdens het genereren van sleutels zal de ‘willekeurigheidspool’ aanvullen en het proces versnellen. U wordt gewaarschuwd wanneer het aanmaken van de sleutel is voltooid.
+openpgp-key-created-label =
+    .label = Aangemaakt
 openpgp-key-expiry-label =
     .label = Vervaldatum
 openpgp-key-id-label =
@@ -221,6 +234,7 @@ openpgp-key-details-structure-tab =
     .label = Structuur
 openpgp-key-details-uid-certified-col =
     .label = Gebruikers-ID / Gecertificeerd door
+openpgp-key-details-key-id-label = Sleutel-ID
 openpgp-key-details-user-id2-label = Vermeende sleuteleigenaar
 openpgp-key-details-id-label =
     .label = ID
@@ -335,6 +349,7 @@ key-expired-simple = De sleutel is vervallen
 key-revoked-simple = De sleutel is ingetrokken
 key-do-you-accept = Accepteert u deze sleutel voor het verifiëren van digitale handtekeningen en voor het versleutelen van berichten?
 key-accept-warning = Accepteer geen frauduleuze sleutel. Gebruik een ander communicatiekanaal dan e-mail om de vingerafdruk van de sleutel van uw correspondent te verifiëren.
+key-verification = Controleer de vingerafdruk van de sleutel met een ander beveiligd communicatiekanaal dan e-mail om er zeker van te zijn dat het echt de sleutel van { $addr } is.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kan het bericht niet verzenden, omdat er een probleem is met uw persoonlijke sleutel. { $problem }
 cannot-encrypt-because-missing = Kan dit bericht niet verzenden met end-to-end-versleuteling, omdat er problemen zijn met de sleutels van de volgende ontvangers: { $problem }
