@@ -34,6 +34,15 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Agregar ítem
+# Refresh button title
+storage-refresh-button =
+    .title = Actualizar elementos
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Eliminar todo
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Eliminar todas las cookies de la sesión
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -71,3 +80,11 @@ storage-expires-session = Sesión
 storage-data = Datos
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Valor interpretado
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = La base de datos “{ $dbName }” será eliminada después de que se cierren todas las conexiones.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = La base de datos “{ $dbName }” no pudo ser eliminada.
