@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Téra
 storage-table-headers-cookies-value = Tepykue
+storage-table-headers-cookies-expires = Opáta / Aravo pukukue
+storage-table-headers-cookies-size = Tuichakue
+storage-table-headers-cookies-last-accessed = Jeike paháva
+storage-table-headers-cookies-creation-time = Moheñoipyre
 storage-table-headers-cache-status = Tekotee
 storage-table-headers-extension-storage-area = Ñembyatyha rendag̃ua
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Mbyatyrenda pypegua
 storage-tree-labels-session-storage = Tembiapo ñongatuharenda
 storage-tree-labels-indexed-db = DB mbojuapypyre
 storage-tree-labels-cache = Kache mbyatyrendagua
+storage-tree-labels-extension-storage = Jepysokue ñembyaty
 
 ##
 
