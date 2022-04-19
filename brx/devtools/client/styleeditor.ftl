@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = गोदान टेबआव लिंकखौ खेव
 styleeditor-copy-url =
     .label = कपि URL
+styleeditor-go-to-line =
+    .label = सारिआव बारलां...
+    .accesskey = J
