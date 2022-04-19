@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Pangalan
 storage-table-headers-cookies-value = Value
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = Laki
+storage-table-headers-cookies-last-accessed = Huling Na-access
+storage-table-headers-cookies-creation-time = Ginawa
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Lugar ng Imbakan
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Local Storage
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Cache Storage
+storage-tree-labels-extension-storage = Imbakan ng Extension
 
 ##
 
