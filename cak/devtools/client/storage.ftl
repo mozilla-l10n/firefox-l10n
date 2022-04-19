@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = B'i'aj
 storage-table-headers-cookies-value = Retal
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = Nimilem
+storage-table-headers-cookies-last-accessed = Ruk'isib'äl Okem
+storage-table-headers-cookies-creation-time = Xtz'uk
 storage-table-headers-cache-status = B'anikil
 storage-table-headers-extension-storage-area = Ruk'ojlib'al Yakoj
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Aj wawe' yakoj
 storage-tree-labels-session-storage = Ruyakoj moloj
 storage-tree-labels-indexed-db = Nuk'utäl DB
 storage-tree-labels-cache = Ruyakik pa jumejyak
+storage-tree-labels-extension-storage = Ruyakik K'amal
 
 ##
 
