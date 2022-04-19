@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Pavadinimas
 storage-table-headers-cookies-value = Reikšmė
+storage-table-headers-cookies-expires = Pasibaigia / Maks. amžius
+storage-table-headers-cookies-size = Dydis
+storage-table-headers-cookies-last-accessed = Vėliausiai kreiptasi
+storage-table-headers-cookies-creation-time = Sukurta
 storage-table-headers-cache-status = Būsena
 storage-table-headers-extension-storage-area = Saugyklos sritis
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Vietinė saugykla
 storage-tree-labels-session-storage = Seanso saugykla
 storage-tree-labels-indexed-db = Indeksuotoji DB
 storage-tree-labels-cache = Podėlio saugykla
+storage-tree-labels-extension-storage = Priedų saugykla
 
 ##
 
