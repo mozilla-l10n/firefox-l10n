@@ -18,14 +18,32 @@ storage-table-type-localstorage-hint = Seleccioneu un amfitrió per mostrar i ed
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Seleccioneu un amfitrió per mostrar i editar l'emmagatzematge de les extensions. <a data-l10n-name="learn-more-link">Més informació</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtra els elements
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtra els valors
+# Add Item button title
+storage-add-button =
+    .title = Afegeix un element
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Suprimeix-ho tot
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Suprimeix totes les galetes de sessió
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copia
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Suprimeix «{ $itemName }»
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Afegeix un element
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -38,6 +56,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Nom
 storage-table-headers-cookies-value = Valor
 storage-table-headers-cache-status = Estat
+storage-table-headers-extension-storage-area = Àrea d'emmagatzematge
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -49,6 +68,14 @@ storage-tree-labels-cache = Emmagatzematge de memòria cau
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Amplia la subfinestra
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Redueix la subfinestra
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Sessió
 # Heading displayed over the item value in the sidebar
