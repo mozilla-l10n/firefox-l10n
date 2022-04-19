@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Öppna länk i ny flik
 styleeditor-copy-url =
     .label = Kopiera URL
+styleeditor-go-to-line =
+    .label = Gå till rad…
+    .accesskey = G
