@@ -36,28 +36,50 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Προσθήκη στοιχείου
+# Refresh button title
+storage-refresh-button =
+    .title = Ανανέωση στοιχείων
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Διαγραφή όλων
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Διαγραφή όλων των cookies συνεδρίας
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Αντιγραφή
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Διαγραφή «{ $itemName }»
 # Context menu action to add an item
 storage-context-menu-add-item =
     .label = Προσθήκη στοιχείου
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Διαγραφή όλων από «{ $host }»
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Όνομα
 storage-table-headers-cookies-value = Τιμή
+storage-table-headers-cookies-expires = Λήξη/Μέγιστος χρόνος
+storage-table-headers-cookies-size = Μέγεθος
+storage-table-headers-cookies-last-accessed = Τελευταία πρόσβαση
 storage-table-headers-cache-status = Κατάσταση
+storage-table-headers-extension-storage-area = Περιοχή αποθήκευσης
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Τοπική αποθήκευση
 storage-tree-labels-session-storage = Αποθήκευση συνεδρίας
 storage-tree-labels-indexed-db = ΒΔ με ευρετήριο
+storage-tree-labels-cache = Χώρος κρυφής μνήμης
 
 ##
 
