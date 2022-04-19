@@ -380,6 +380,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = D acu ara imahel { -brand-short-name } s yifuyla-nniḍen?
+applications-save-for-new-types =
+    .label = Sekles ifuyla
+    .accesskey = S
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
     .label = Γɣaṛ agbur ittwaḥerzen s DRM-
