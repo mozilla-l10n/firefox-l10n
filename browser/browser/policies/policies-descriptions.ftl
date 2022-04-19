@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Angi standardverdien for å tillate { -brand-s
 policy-OverrideFirstRunPage = Erstatt siden som vises ved første oppstart. La policyen være tom, hvis siden ved første oppstart skal deaktiveres.
 policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist etter en oppdatering. La policyen stå tom hvis sida etter oppdatering skal deaktiveres.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordbehandleren.
+policy-PasswordManagerExceptions = Forhindre { -brand-short-name } fra å lagre passord for bestemte nettsteder.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }.
 policy-Permissions2 = Konfigurer tillatelser for kamera, mikrofon, plassering og auto-avspilling.
