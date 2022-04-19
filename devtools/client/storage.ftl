@@ -76,6 +76,10 @@ storage-tree-labels-cache = Almacenamiento en caché
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Ampliar panel
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Sesión
 # Heading displayed over the item value in the sidebar
