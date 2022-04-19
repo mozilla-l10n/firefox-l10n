@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Nastavi privzeto vrednost, ki dovoljuje shranj
 policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogočiti prikaz strani prvega zagona, nastavite pravilnik na prazno vrednost.
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
 policy-PasswordManagerEnabled = Omogoči shranjevanje gesel v upravitelja gesel.
+policy-PasswordManagerExceptions = { -brand-short-name(sklon: "dajalnik") } prepreči shranjevanje gesel za določena spletna mesta.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Onemogoči ali nastavi PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-Permissions2 = Nastavi dovoljenja za kamero, mikrofon, lokacijo, obvestila in samodejno predvajanje.
