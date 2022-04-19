@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Ychwanegu Eitem
+# Refresh button title
+storage-refresh-button =
+    .title = Adnewyddu eitemau
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Dileu'r Cyfan
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Dileu Pob Cwci Sesiwn
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copïo
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -62,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Enw
 storage-table-headers-cookies-value = Gwerth
 storage-table-headers-cache-status = Statws
+storage-table-headers-extension-storage-area = Ardal Storio
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -69,6 +76,7 @@ storage-tree-labels-cookies = Cwcis
 storage-tree-labels-local-storage = Storfa Leol
 storage-tree-labels-session-storage = Storfa Sesiwn
 storage-tree-labels-indexed-db = Cronfa Ddata wedi ei Fynegeio
+storage-tree-labels-cache = Storfa'r Storio Dros Dro
 
 ##
 
