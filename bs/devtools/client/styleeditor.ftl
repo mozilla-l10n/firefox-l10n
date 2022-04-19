@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = Ova stranica nema style sheet.
 styleeditor-no-stylesheet-tip = Možda biste željeli <a data-l10n-name="append-new-stylesheet">dodati novi style sheet</a>?
 styleeditor-open-link-new-tab =
     .label = Otvori link u novom tabu
+styleeditor-go-to-line =
+    .label = Idi na liniju…
+    .accesskey = j
