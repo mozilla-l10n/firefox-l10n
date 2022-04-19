@@ -21,3 +21,6 @@ styleeditor-editor-textbox =
     .data-placeholder = हांगा CSS टायप करात
 styleeditor-no-stylesheet = या पानात शैलीपत्र ना
 styleeditor-no-stylesheet-tip = तुमका करपाक आवडटले<a data-l10n-name="append-new-stylesheet">नवे शैलीपत्र जोडात</a>?
+styleeditor-go-to-line =
+    .label = ओळीर वचात...
+    .accesskey = J
