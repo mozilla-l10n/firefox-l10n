@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Փոխարկել աղիւսակի">
+<!ENTITY instructions1.label   "Ստեղծողը ընտրուած իւրաքանչիւր պարբերութեան համար ստեղծում է աղիւսակի նոր տող:">
+<!ENTITY instructions2.label   "Ընտրէ՛ք այն նշանը, որը հանդիսանում է բաժանիչ սիւների միջեւ՝">
+<!ENTITY commaRadio.label      "Ստորակէտ">
+<!ENTITY spaceRadio.label      "Բացատ">
+<!ENTITY otherRadio.label      "Այղ նիշ՝">
+<!ENTITY deleteCharCheck.label "Ջնջել բաժանարար նիշը">
+<!ENTITY collapseSpaces.label  "Անտեսել լրացուցիչ բացատները">
+<!ENTITY collapseSpaces.tooltip "Յարակից բացատները փոխարկեք մեկ բաժանարարի">
