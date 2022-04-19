@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = दुवा नवीन टॅबमध्ये उघडा
 styleeditor-copy-url =
     .label = URL ची प्रत बनवा
+styleeditor-go-to-line =
+    .label = ओळ वर जा…
+    .accesskey = J
