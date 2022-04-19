@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = เปิดลิงก์ในแท็บใหม่
 styleeditor-copy-url =
     .label = คัดลอก URL
+styleeditor-go-to-line =
+    .label = กระโดดไปบรรทัดที่…
+    .accesskey = ป
