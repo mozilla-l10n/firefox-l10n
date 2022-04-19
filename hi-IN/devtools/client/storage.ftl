@@ -44,6 +44,14 @@ storage-tree-labels-cache = कैश भंडारण
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = फलक विस्तार करें
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = फलक समेटें
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = सत्र
 # Heading displayed over the item value in the sidebar
