@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = ชื่อ
 storage-table-headers-cookies-value = ค่า
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = ขนาด
+storage-table-headers-cookies-last-accessed = เข้าถึงล่าสุด
+storage-table-headers-cookies-creation-time = สร้างเมื่อ
 storage-table-headers-cache-status = สถานะ
 storage-table-headers-extension-storage-area = พื้นที่เก็บข้อมูล
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = ที่เก็บข้อมูลใ�
 storage-tree-labels-session-storage = ที่เก็บข้อมูลวาระ
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = ที่เก็บข้อมูลแคช
+storage-tree-labels-extension-storage = ที่เก็บข้อมูลส่วนขยาย
 
 ##
 
