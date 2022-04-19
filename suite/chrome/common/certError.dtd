@@ -12,8 +12,21 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara1a "&brandShortName; ste zaprosili za varno
+povezavo z <span class='hostname'/>, vendar ne moremo zagotoviti, da je vaša povezava
+res varna.">
+<!ENTITY certerror.introPara2 "Ko se poskušate varno povezati, se spletna mesta
+običajno predstavijo in tako dokažejo, da ste prišli na pravo mesto. Toda istovetnosti
+tega spletnega mesta žal ni mogoče overiti.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Kaj naj naredim?">
+<!ENTITY certerror.whatShouldIDo.content "Če se na to spletno mesto
+ponavadi povezujete brez težav, ga morda kdo poskuša oponašati,
+zato vam nadaljevanje odsvetujemo.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "To spletno mesto uporablja HSTS
+(HTTP Strict Transport Security), ki določa, da se lahko &brandShortName; nanjo
+poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">
+<!ENTITY certerror.getMeOutOfHere.label "Zveni slabo, odpelji me na domačo stran">
 
 <!ENTITY certerror.expert.heading "Razumem tveganja">
 <!ENTITY certerror.addException.label "Dodaj izjemo …">
