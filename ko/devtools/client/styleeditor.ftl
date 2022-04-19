@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = 링크를 새 탭으로 열기
 styleeditor-copy-url =
     .label = URL 복사
+styleeditor-go-to-line =
+    .label = 지정 행 이동…
+    .accesskey = J
