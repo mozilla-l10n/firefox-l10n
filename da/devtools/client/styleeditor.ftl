@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Åbn link i et nyt faneblad
 styleeditor-copy-url =
     .label = Kopier URL
+styleeditor-go-to-line =
+    .label = Hop til linje…
+    .accesskey = H
