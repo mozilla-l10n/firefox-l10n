@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Mjeno
 storage-table-headers-cookies-value = Hódnota
+storage-table-headers-cookies-expires = Płaćiwy do / maksimalna płaćiwosć
+storage-table-headers-cookies-size = Wulkosć
+storage-table-headers-cookies-last-accessed = Posledni přistup
+storage-table-headers-cookies-creation-time = Wutworjeny
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Składowanski wobwod
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Lokalny składowak
 storage-tree-labels-session-storage = Posedźenski składowak
 storage-tree-labels-indexed-db = IndexedDB
 storage-tree-labels-cache = Pufrowakowy skład
+storage-tree-labels-extension-storage = Skład rozšěrjenja
 
 ##
 
