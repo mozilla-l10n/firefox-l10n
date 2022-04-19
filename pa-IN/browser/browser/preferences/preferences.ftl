@@ -20,7 +20,7 @@ settings-page-title = ਸੈਟਿੰਗਾਂ
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਲੱਭੋ
-managed-notice = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਬੰਦੋਬਸਤ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
+managed-notice = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਇੰਤਜ਼ਾਮ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
 category-list =
     .aria-label = ਵਰਗ
 pane-general-title = ਆਮ
@@ -665,9 +665,9 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
-sync-signedout-description2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
+sync-signedout-description2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸਿੰਕਰੋਨਾਈਜ਼ ਕਰੋ।
 sync-signedout-account-signin3 =
-    .label = …ਸਿੰਕ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+    .label = …ਸਿੰਕ ਲਈ ਸਾਈਨ ਇਨ
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -677,7 +677,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
+sync-mobile-promo = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਲਈ Firefox ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
 
 ## Firefox Account - Signed in
 
@@ -689,7 +689,7 @@ sync-sign-out =
 sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = o
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
-sync-signedin-login-failure = ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ ਜੀ { $email }
+sync-signedin-login-failure = { $email } ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
 sync-resend-verification =
     .label = ਤਸਦੀਕ ਮੁੜ-ਭੇਜੋ
     .accesskey = d
@@ -707,7 +707,7 @@ prefs-syncing-off = ਸਿੰਕ ਕਰਨਾ: ਬੰਦ ਹੈ
 prefs-sync-turn-on-syncing =
     .label = …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .accesskey = s
-prefs-sync-offer-setup-label2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
+prefs-sync-offer-setup-label2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸਿੰਕਰੋਨਾਈਜ਼ ਕਰੋ।
 prefs-sync-now =
     .labelnotsyncing = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskeynotsyncing = N
@@ -725,7 +725,7 @@ sync-currently-syncing-creditcards = ਕਰੈਡਿਟ ਕਾਰਡ
 sync-currently-syncing-addons = ਐਡ-ਆਨ
 sync-currently-syncing-settings = ਸੈਟਿੰਗਾਂ
 sync-change-options =
-    .label = ਬਦਲੋ…
+    .label = …ਬਦਲੋ
     .accesskey = C
 
 ## The "Choose what to sync" dialog.
@@ -820,10 +820,10 @@ forms-primary-pw-learn-more-link = ਹੋਰ ਜਾਣੋ
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
+    .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
     .accesskey = M
 forms-primary-pw-change =
-    .label = …ਮੁੱਖ ਪਾਸਵਰਡ ਬਦਲੋ
+    .label = …ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
     .accesskey = P
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
@@ -885,7 +885,7 @@ history-clear-on-close-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = t
 history-clear-button =
-    .label = …ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .label = …ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
     .accesskey = s
 
 ## Privacy Section - Site Data
@@ -932,13 +932,13 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = ਸਾਰੇ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋਵੇਗਾ)
 sitedata-clear =
-    .label = …ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .label = …ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
     .accesskey = l
 sitedata-settings =
-    .label = …ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .label = …ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
 sitedata-cookies-exceptions =
-    .label = ...ਛੋਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .label = ...ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = x
 
 ## Privacy Section - Address Bar
@@ -1054,7 +1054,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = ...ਛੋਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .label = ...ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = x
 
 ## Privacy Section - Permissions
@@ -1186,4 +1186,4 @@ choose-download-folder-title = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣ�
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
-    .label = ਫ਼ਾਈਲਾਂ { $service-name } 'ਤੇ ਸੰਭਾਲੋ
+    .label = ਫ਼ਾਈਲਾਂ { $service-name } ’ਤੇ ਸੰਭਾਲੋ

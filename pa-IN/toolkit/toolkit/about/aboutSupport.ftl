@@ -75,6 +75,12 @@ app-basics-location-service-key-google = ਗੂਗਲ ਟਿਕਾਣਾ ਸੇ�
 app-basics-safebrowsing-key-google = ਗੂਗਲ ਸੇਫ਼-ਬਰਾਊਜਿੰਗ ਕੁੰਜੀ
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ
+app-basics-memory-size = ਮੈਮੋਰੀ ਆਕਾਰ (RAM)
+app-basics-disk-available = ਮੌਜੂਦ ਡਿਸਕ ਥਾਂ
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = { $value } { $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] Finder ਵਿੱਚ ਵੇਖਾਓ
