@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Agor Dolen mewn Tab Newydd
 styleeditor-copy-url =
     .label = Copïo'r URL
+styleeditor-go-to-line =
+    .label = Neidio i linell…
+    .accesskey = N
