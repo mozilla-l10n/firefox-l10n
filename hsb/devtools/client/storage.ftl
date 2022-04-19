@@ -27,12 +27,27 @@ storage-table-type-cache-hint = Wubjerće składowak, zo byšće zapiski pufrowa
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Wubjerće host, zo byšće rozšěrjenski składowak pokazał a wobdźěłał. <a data-l10n-name="learn-more-link">Dalše informacije</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Zapiski filtrować
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Hódnoty filtrować
 # Add Item button title
 storage-add-button =
     .title = Zapisk přidać
+# Refresh button title
+storage-refresh-button =
+    .title = Zapiski aktualizować
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Wšě zhašeć
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Wšě placki posedźenja zhašeć
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopěrować
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -53,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Mjeno
 storage-table-headers-cookies-value = Hódnota
 storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Składowanski wobwod
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
