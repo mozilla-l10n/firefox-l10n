@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Ime
 storage-table-headers-cookies-value = Vrednost
+storage-table-headers-cookies-expires = Poteče / Max-Age
+storage-table-headers-cookies-size = Velikost
+storage-table-headers-cookies-last-accessed = Zadnji dostop
+storage-table-headers-cookies-creation-time = Ustvarjeno
 storage-table-headers-cache-status = Stanje
 storage-table-headers-extension-storage-area = Shramba
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Lokalna shramba
 storage-tree-labels-session-storage = Shramba seje
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Shramba predpomnilnika
+storage-tree-labels-extension-storage = Shramba razširitev
 
 ##
 
