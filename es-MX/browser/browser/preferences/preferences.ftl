@@ -380,6 +380,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = ¿Qué debería hacer { -brand-short-name } con otros archivos?
 applications-save-for-new-types =
     .label = Guardar archivos
     .accesskey = G
