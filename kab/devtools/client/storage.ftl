@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Isem
 storage-table-headers-cookies-value = Azal
+storage-table-headers-cookies-expires = Ad immet/ awtay/afellay
+storage-table-headers-cookies-size = Teγzi
+storage-table-headers-cookies-last-accessed = Anekcum aneggaru
+storage-table-headers-cookies-creation-time = Yettwarna
 storage-table-headers-cache-status = Addad
 storage-table-headers-extension-storage-area = Tamnaḍt n usekles
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Aklas adigan
 storage-tree-labels-session-storage = Aklas n tɣimit
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Asekles n tuffirt
+storage-tree-labels-extension-storage = Aklas n usiɣzef
 
 ##
 
