@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Buka Tautan di Tab Baru
 styleeditor-copy-url =
     .label = Salin URL
+styleeditor-go-to-line =
+    .label = Loncat ke baris…
+    .accesskey = L
