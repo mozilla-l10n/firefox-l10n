@@ -25,6 +25,9 @@ storage-table-type-cache-hint = ניתן להציג ולמחוק את רשומו
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = ניתן להציג ולערוך את אחסון ההרחבה על־ידי בחירת שרת מארח. <a data-l10n-name="learn-more-link">מידע נוסף</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = סינון פריטים
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = סינון ערכים
@@ -45,15 +48,25 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = שם
 storage-table-headers-cookies-value = ערך
+storage-table-headers-cache-status = מצב
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = עוגיות
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
+storage-tree-labels-cache = אחסון מטמון
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = הרחבת חלונית
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = צמצום חלונית
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = הפעלה
 # Heading displayed over the item value in the sidebar
