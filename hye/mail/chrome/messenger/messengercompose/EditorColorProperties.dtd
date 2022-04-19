@@ -24,3 +24,6 @@
 <!ENTITY background.accessKey "Ե">
 <!ENTITY colon.character "․">
 <!ENTITY backgroundImage.label "Ետնանկարի պատկեր.">
+<!ENTITY backgroundImage.accessKey "ա">
+<!ENTITY backgroundImage.tooltip "Աւգտագործեք պատկերի նիշ՝ որպէս Ձեր էջի ետնանկար">
+<!ENTITY backgroundImage.shortenedDataURI "Կրճատուած տուեալների URI (պատճէնը կը տեղադրի ամբողջական URI-ը կցցադաշտի վրայ)">

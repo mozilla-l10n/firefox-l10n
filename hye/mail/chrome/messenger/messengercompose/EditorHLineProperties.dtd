@@ -4,6 +4,22 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Հորիզոնական գծի յատկութիւններ">
 
+<!ENTITY dimensionsBox.label "Չափեր">
+<!ENTITY heightEditField.label "Բարձրութիւն․">
+<!ENTITY heightEditField.accessKey "Բ">
+<!ENTITY widthEditField.label "Լայնութիւն.">
+<!ENTITY widthEditField.accessKey "Լ">
+<!ENTITY pixelsPopup.value "պատկերատարրեր">
+<!ENTITY alignmentBox.label "Հաւասարեցում">
+<!ENTITY leftRadio.label "Ձախ">
+<!ENTITY leftRadio.accessKey "Ձ">
+<!ENTITY centerRadio.label "Կենտրոն">
+<!ENTITY centerRadio.accessKey "Կ">
+<!ENTITY rightRadio.label "Աջ">
+<!ENTITY rightRadio.accessKey "Ա">
 
+<!ENTITY threeDShading.label "3-D ստուերաւորում">
+<!ENTITY threeDShading.accessKey "Ս">
 <!ENTITY saveSettings.label "Աւգտագործել, որպէս սկզբնադիր">
