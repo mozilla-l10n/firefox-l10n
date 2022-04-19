@@ -87,6 +87,10 @@ storage-expires-session = セッション
 storage-data = データ
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = パース済みの値
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = データベース "{ $dbName }" はすべての接続が切断されてから削除されます。
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
