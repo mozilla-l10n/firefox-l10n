@@ -30,6 +30,18 @@ storage-table-type-extensionstorage-hint = Vezi și editează spațiul de stocar
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Filtrează elementele
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = Filtrează valorile
+# Refresh button title
+storage-refresh-button =
+    .title = Reîmprospătează elementele
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Șterge tot
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Șterge toate cookie-urile sesiunii
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Copiază
@@ -40,13 +52,37 @@ storage-context-menu-copy =
 storage-table-headers-cookies-name = Nume
 storage-table-headers-cookies-value = Valoare
 storage-table-headers-cache-status = Stare
+storage-table-headers-extension-storage-area = Zonă de stocare
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = Cookie-uri
 storage-tree-labels-local-storage = Stocare locală
 storage-tree-labels-session-storage = Stocare pentru sesiune
+storage-tree-labels-indexed-db = DB indexată
+storage-tree-labels-cache = Stocare cache
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Extinde panoul
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Restrânge panoul
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Sesiune
+# Heading displayed over the item value in the sidebar
+storage-data = Date
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Valoare analizată sintactic
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Baza de date “{ $dbName }” va fi ștearsă după închiderea tuturor conexiunilor.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Baza de date “{ $dbName }” nu a putut fi ștearsă.
