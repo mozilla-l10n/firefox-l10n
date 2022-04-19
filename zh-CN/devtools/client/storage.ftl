@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = 名称
 storage-table-headers-cookies-value = 值
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = 大小
+storage-table-headers-cookies-last-accessed = 最后访问
+storage-table-headers-cookies-creation-time = 创建于
 storage-table-headers-cache-status = 状态
 storage-table-headers-extension-storage-area = 存储区域
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = 本地存储
 storage-tree-labels-session-storage = 会话存储
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = 缓存存储
+storage-tree-labels-extension-storage = 扩展存储
 
 ##
 
