@@ -27,6 +27,9 @@ storage-table-type-cache-hint = View and delete the cache storage entries by sel
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = View and edit the extension storage by selecting a host. <a data-l10n-name="learn-more-link">Learn more</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filter Items
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
@@ -64,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Name
 storage-table-headers-cookies-value = Value
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = Size
+storage-table-headers-cookies-last-accessed = Last Accessed
+storage-table-headers-cookies-creation-time = Created
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Storage Area
 
@@ -74,6 +81,7 @@ storage-tree-labels-local-storage = Local Storage
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Cache Storage
+storage-tree-labels-extension-storage = Extension Storage
 
 ##
 
