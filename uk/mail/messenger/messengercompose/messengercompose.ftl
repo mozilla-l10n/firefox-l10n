@@ -166,6 +166,18 @@ menu-encrypt-subject =
 menu-sign =
     .label = Цифровий підпис
     .accesskey = и
+menu-manage-keys =
+    .label = Керувати ключами
+    .accesskey = к
+menu-view-certificates =
+    .label = Переглянути сертифікати одержувачів
+    .accesskey = П
+menu-open-key-manager =
+    .label = Менеджер ключів
+    .accesskey = М
+openpgp-key-issue-notification-one = Наскрізне шифрування вимагає розв'язання проблем ключів для { $addr }
+openpgp-key-issue-notification-many = Наскрізне шифрування вимагає розв'язання проблем ключів для { $count } одержувачів
+smime-cert-issue-notification-one = Наскрізне шифрування вимагає розв'язання проблем сертифікату для { $addr }
 
 ## Addressing Area
 
