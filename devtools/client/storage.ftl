@@ -68,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = ชื่อ
 storage-table-headers-cookies-value = ค่า
 storage-table-headers-cache-status = สถานะ
+storage-table-headers-extension-storage-area = พื้นที่เก็บข้อมูล
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
