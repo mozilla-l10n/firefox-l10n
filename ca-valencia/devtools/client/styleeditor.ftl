@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Obri l'enllaç en una pestanya nova
 styleeditor-copy-url =
     .label = Copia l'URL
+styleeditor-go-to-line =
+    .label = Salta a la línia…
+    .accesskey = S
