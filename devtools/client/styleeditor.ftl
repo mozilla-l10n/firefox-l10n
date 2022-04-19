@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Deschide linkul într-o filă nouă
 styleeditor-copy-url =
     .label = Copiază URL-ul
+styleeditor-go-to-line =
+    .label = Sari la rândul…
+    .accesskey = J
