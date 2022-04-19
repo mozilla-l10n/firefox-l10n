@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Ldi aseɣwen deg iccer amaynut
 styleeditor-copy-url =
     .label = Nɣel URL
+styleeditor-go-to-line =
+    .label = Ddu ɣeṛ uzirig …
+    .accesskey = D
