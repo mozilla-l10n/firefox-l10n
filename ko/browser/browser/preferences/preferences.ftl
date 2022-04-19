@@ -368,6 +368,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name }로 다른 파일은 어떤 작업을 하시겠습니까?
+applications-save-for-new-types =
+    .label = 파일 저장
+    .accesskey = S
+applications-ask-before-handling =
+    .label = 파일을 열지 저장할지 묻기
+    .accesskey = A
 drm-content-header = 디지털 권한 관리 (DRM) 콘텐츠
 play-drm-content =
     .label = DRM 제어 콘텐츠 재생
