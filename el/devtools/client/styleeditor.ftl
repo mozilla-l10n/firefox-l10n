@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Άνοιγμα συνδέσμου σε νέα καρτέλα
 styleeditor-copy-url =
     .label = Αντιγραφή URL
+styleeditor-go-to-line =
+    .label = Μετάβαση στη γραμμή…
+    .accesskey = Μ
