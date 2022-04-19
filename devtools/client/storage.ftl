@@ -33,14 +33,29 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = 過濾值
+# Add Item button title
+storage-add-button =
+    .title = 新增項目
+# Refresh button title
+storage-refresh-button =
+    .title = 重新整理項目
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = 全部刪除
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = 清除所有瀏覽階段 Cookie
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = 複製
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = 刪除「{ $itemName }」
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = 新增項目
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -53,9 +68,11 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = 名稱
 storage-table-headers-cookies-value = 值
 storage-table-headers-cache-status = 狀態
+storage-table-headers-extension-storage-area = 儲存區域
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = Cookie
 storage-tree-labels-local-storage = 本機儲存空間
 storage-tree-labels-session-storage = 瀏覽階段儲存空間
 storage-tree-labels-indexed-db = Indexed DB
@@ -63,6 +80,14 @@ storage-tree-labels-cache = 快取儲存空間
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = 展開窗格
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = 摺疊窗格
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = 瀏覽階段
 # Heading displayed over the item value in the sidebar
