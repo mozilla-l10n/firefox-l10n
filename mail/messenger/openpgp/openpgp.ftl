@@ -53,6 +53,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Rozšěrjeny…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">KEDŹBU: Wutworjenje kluča móže někotre mjeńšiny trać.</a> Njekónčće nałoženje, mjeztym so kluč wutworja. Hdyž aktiwnje přehladujeće abo operacije z intensiwnym wužiwanjom kruteje tačele wuwjedźeće, mjeztym zo so kluč wutworja, so ‚pool připadnosće‘ znowa napjelni a proces pospěši. Dóstanjeće zdźělenku, hdyž wutowrjenje kluča je dokónčene.
+openpgp-key-created-label =
+    .label = Wutworjeny
 openpgp-key-expiry-label =
     .label = Datum spadnjenja
 openpgp-key-id-label =
@@ -242,6 +244,7 @@ openpgp-key-details-structure-tab =
     .label = Struktura
 openpgp-key-details-uid-certified-col =
     .label = Wužiwarski ID / Certifikowany wot
+openpgp-key-details-key-id-label = ID kluča
 openpgp-key-details-user-id2-label = Pozdatny wobsedźer kluča
 openpgp-key-details-id-label =
     .label = ID
