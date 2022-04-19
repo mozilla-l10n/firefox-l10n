@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Bağlantıyı yeni sekmede aç
 styleeditor-copy-url =
     .label = URL’yi kopyala
+styleeditor-go-to-line =
+    .label = Satıra git…
+    .accesskey = r
