@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Yab kakube i tab manyen
 styleeditor-copy-url =
     .label = Lok URL
+styleeditor-go-to-line =
+    .label = Pye irek…
+    .accesskey = P
