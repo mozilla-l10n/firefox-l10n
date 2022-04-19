@@ -5,9 +5,14 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = వడపోత విలువలు
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = అన్నీ తొలగించు
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
@@ -20,6 +25,7 @@ storage-table-headers-cookies-value = విలువ
 storage-tree-labels-cookies = కుకీలు
 storage-tree-labels-local-storage = స్థానిక నిల్వ
 storage-tree-labels-session-storage = సెషన్ నిల్వ
+storage-tree-labels-cache = క్యాషేనిల్వ
 
 ##
 
@@ -29,3 +35,7 @@ storage-expires-session = సెషన్
 storage-data = దత్తాంశము
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = పార్స్‌డ్ విలువలు
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = అన్ని కనెక్షన్లను మూసివేయబడినప్పుడు డేటాబేస్ “{ $dbName }” తొలగించబడుతుంది.
