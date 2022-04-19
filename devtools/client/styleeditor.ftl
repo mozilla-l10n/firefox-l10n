@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Wotkaz w nowym rajtarku wočinić
 styleeditor-copy-url =
     .label = URL kopěrować
+styleeditor-go-to-line =
+    .label = K slědowacej lince skočić…
+    .accesskey = l
