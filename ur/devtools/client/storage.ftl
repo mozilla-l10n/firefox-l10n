@@ -12,11 +12,17 @@ storage-table-empty-text = منتخب میزبان کے لئے کوئی معلو
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = فلٹر قدر
+# Add Item button title
+storage-add-button =
+    .title = شے کا ا ضافہ کریں
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = حذف کریں  “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = شے کا ا ضافہ کریں
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -39,6 +45,14 @@ storage-tree-labels-cache = کیشے سٹوریج
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = پین کو وسیع کریں
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = پینل غائب کریں
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = سیشن
 # Heading displayed over the item value in the sidebar
