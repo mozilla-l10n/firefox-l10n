@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY WindowTitle.label              "Ընդլայնուած սեփականութեան խմբագիր">
+<!ENTITY AttName.label                  "Յատկանիշ՝">
+<!ENTITY AttValue.label                 "Արժէք՝">
+<!ENTITY PropertyName.label             "Սեփականութիւն․">
+<!ENTITY currentattributesfor.label     "Ընթացիկ յատկանիշները՝">
+<!ENTITY tree.attributeHeader.label     "Յատկանիշ">
+<!ENTITY tree.propertyHeader.label      "Սեփականութիւն">
+<!ENTITY tree.valueHeader.label         "Արժէք">
+<!ENTITY tabHTML.label                  "HTML֊ի յատկանիշներ">
+<!ENTITY tabCSS.label                   "Ներտող ոճ">
+<!ENTITY tabJSE.label                   "JavaScript֊ի իրադարձութիւններ">
+
+<!ENTITY editAttribute.label    "Սեղմէ՛ք վերեւում գտնուող տարրի վրայ՝ դրա արժէքը խմբագրելու համար">
+<!ENTITY removeAttribute.label  "Հեռացնել">

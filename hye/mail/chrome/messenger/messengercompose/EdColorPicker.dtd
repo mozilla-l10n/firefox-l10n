@@ -3,9 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Գոյն">
+<!ENTITY lastPickedColor.label "Վերջին֊ընտրուած գոյն">
+<!ENTITY lastPickedColor.accessKey "Վ">
 <!ENTITY chooseColor1.label "Ընտրէք գոյն․">
-<!ENTITY chooseColor2.label "Մուտքագրէք HTML գոյնի տող">
+<!ENTITY chooseColor2.label "Մուտքագրէք դրա HTML կոդը">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(աւր․՝ &quot;#0000ff&quot; կամ &quot;կապոյտ&quot;):">
 <!ENTITY default.label "Սկզբնադիր">
+<!ENTITY default.accessKey "Ս">
+<!ENTITY palette.label "Ներկապնակ՝">
 <!ENTITY standardPalette.label "Սովորական">
 <!ENTITY webPalette.label "Բոլոր վեբ գոյները">
+<!ENTITY background.label "Ետնապատկերը՝">
+<!ENTITY background.accessKey "Ե">
+<!ENTITY table.label "Աղիւսակ">
+<!ENTITY table.accessKey "Ա">
+<!ENTITY cell.label "Բջիջ(ներ)">
+<!ENTITY cell.accessKey "Բ">

@@ -199,10 +199,15 @@
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
 <!ENTITY sortByUnreadCmd.accesskey "Ը">
 <!ENTITY sortByOrderReceivedCmd.label "Պատուերը ստացուել է">
+<!ENTITY sortByOrderReceivedCmd.accesskey "Պ">
 <!ENTITY sortAscending.label "Աճող">
+<!ENTITY sortAscending.accesskey "Ա">
 <!ENTITY sortDescending.label "Նուազող">
+<!ENTITY sortDescending.accesskey "Ն">
 <!ENTITY sortThreaded.label "Շղթայուած">
+<!ENTITY sortThreaded.accesskey "Շ">
 <!ENTITY sortUnthreaded.label "Անթեմատիկ">
+<!ENTITY sortUnthreaded.accesskey "ա">
 <!ENTITY groupBySort.label "Դասաւորել ըստ տեսակի">
 <!ENTITY groupBySort.accesskey "Դ">
 <!ENTITY msgsMenu.label "Նամակներ">
@@ -876,9 +881,26 @@
 <!ENTITY minimizeWindow.label "Փոքրացնել">
 <!ENTITY minimizeWindow.key "փ">
 <!ENTITY bringAllToFront.label "Բոլորից առջեւ">
+<!ENTITY zoomWindow.label "Խոշորացնել">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "Կարգաւորումներ">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Ծառայութիւններ">
+<!ENTITY hideThisAppCmdMac.label        "Թաքցնել &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "Թ">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Թաքցնել մնացածը">
+<!ENTITY hideOtherAppsCmdMac.commandkey "Թ">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Ցուցադրել բոլորը">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Ծրագրի պատկերի ընտրանքներ…">
+<!ENTITY writeNewMessageDock.label      "Գրել նոր նամակ">
+<!ENTITY openAddressBookDock.label      "Բացել հասցէագիրքը">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Գնալ նախորդ էջ">
+<!ENTITY browseForwardButton.tooltip "Գնալ յաջորդ էջ">
