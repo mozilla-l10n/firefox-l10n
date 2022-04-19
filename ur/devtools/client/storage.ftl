@@ -9,12 +9,27 @@
 storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = منتخب میزبان کے لئے کوئی معلومات موجود نہیں ھے
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = اشیاء کو فلٹر کریں
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = فلٹر قدر
 # Add Item button title
 storage-add-button =
     .title = شے کا ا ضافہ کریں
+# Refresh button title
+storage-refresh-button =
+    .title = اشیا کو تازہ کریں
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = تمام حذف کریں
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = تمام سیشن کوکیز کو حذف کریں
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = نقل کریں
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -34,6 +49,9 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = نام
 storage-table-headers-cookies-value = قیمت
+storage-table-headers-cookies-size = سائز
+storage-table-headers-cookies-last-accessed = آخری بار رسائی
+storage-table-headers-cookies-creation-time = بنایا گیا
 storage-table-headers-cache-status = سٹیٹس
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
