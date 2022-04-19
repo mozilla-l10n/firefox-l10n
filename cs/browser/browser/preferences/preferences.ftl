@@ -480,6 +480,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Co má { -brand-short-name } dělat s ostatními soubory?
+applications-save-for-new-types =
+    .label = Ukládat soubory
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Zeptat se, jestli soubor otevřít, nebo uložit
+    .accesskey = a
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
 play-drm-content =
     .label = Přehrávat obsah chráněný pomocí DRM
