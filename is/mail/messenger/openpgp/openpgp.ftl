@@ -349,6 +349,7 @@ key-expired-simple = Lykillinn er útrunninn
 key-revoked-simple = Lykillinn var afturkallaður
 key-do-you-accept = Samþykkir þú þennan lykil til að staðfesta stafrænar undirritanir og til að dulrita skilaboð?
 key-accept-warning = Forðastu að samþykkja hvaða lykil sem er. Notaðu aðra samskiptamáta en tölvupóst til að staðfesta fingrafar lykils viðmælanda þíns.
+key-verification = Staðfestu fingrafar lykilsins með því að nota örugga samskiptaleið aðra en tölvupóst til að ganga úr skugga um að þetta sé raunverulega dulritunarlykill frá { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Ekki er hægt að senda skilaboðin vegna þess að það er vandamál með persónulega lykilinn þinn. { $problem }
 cannot-encrypt-because-missing = Ekki er hægt að senda þessi skilaboð með enda-í-enda dulritun vegna þess að vandamál eru með dulritunarlykla eftirfarandi viðtakenda: { $problem }
