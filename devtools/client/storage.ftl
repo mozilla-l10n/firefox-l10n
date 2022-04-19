@@ -42,6 +42,9 @@ storage-refresh-button =
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Tout supprimer
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Supprimer tous les cookies de session
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Copier
