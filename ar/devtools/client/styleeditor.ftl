@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = افتح الرابط في لسان جديد
 styleeditor-copy-url =
     .label = انسخ المسار
+styleeditor-go-to-line =
+    .label = اقفز إلى سطر…
+    .accesskey = ق
