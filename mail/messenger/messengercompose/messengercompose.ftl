@@ -85,6 +85,9 @@ context-menuitem-attach-files =
     .label = Pripni datoteke …
     .accesskey = d
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-openpgp-key =
+    .label = Moj javni ključ OpenPGP
+    .accesskey = k
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -163,10 +166,23 @@ menu-encrypt-subject =
 menu-sign =
     .label = Digitalno podpiši
     .accesskey = i
+menu-manage-keys =
+    .label = Pomočnik za ključe
+    .accesskey = P
+menu-view-certificates =
+    .label = Prikaži digitalna potrdila prejemnikov
+    .accesskey = g
+menu-open-key-manager =
+    .label = Upravitelj ključev
+    .accesskey = U
 key-notification-disable-encryption =
     .label = Ne šifriraj
     .accesskey = N
     .tooltiptext = Onemogoči šifriranje od konca do konca
+key-notification-resolve =
+    .label = Razreši …
+    .accesskey = R
+    .tooltiptext = Odpri pomočnika za ključe OpenPGP
 
 ## Addressing Area
 
