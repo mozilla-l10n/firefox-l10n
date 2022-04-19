@@ -45,6 +45,9 @@ storage-context-menu-delete-all =
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Delete All Session Cookies
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copy
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -65,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Name
 storage-table-headers-cookies-value = Value
 storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Storage Area
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
