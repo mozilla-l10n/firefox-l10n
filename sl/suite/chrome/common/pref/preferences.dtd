@@ -46,8 +46,15 @@
 
 <!ENTITY advance.label "Napredno">
 <!ENTITY scriptsAndWindows.label "Skripti in vtičniki">
+<!ENTITY scriptsAndWindows2.label "Skripti">
+<!ENTITY keynav.label "Krmarjenje s tipkovnico">
+<!ENTITY findAsYouType.label "Najdi med tipkanjem">
 <!ENTITY cache.label "Predpomnilnik">
+<!ENTITY offlineApps.label "Aplikacije brez povezave">
+<!ENTITY proxies.label "Posredniški strežniki">
+<!ENTITY httpnetworking.label "Omrežje HTTP">
 <!ENTITY smart.label "Namestitev programske opreme">
 <!ENTITY mousewheel.label "Kolesce miške">
+<!ENTITY debugging.label "Odpravljanje napak">
 
 <!ENTITY focusSearch.key "f">
