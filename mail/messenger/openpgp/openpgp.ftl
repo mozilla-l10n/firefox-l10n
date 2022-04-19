@@ -4,6 +4,17 @@
 
 e2e-intro-description = Titkosított vagy digitálisan aláírt üzenetek küldéséhez be kell állítania egy titkosítási technológiát, az OpenPGP-t vagy az S/MIME-ot.
 e2e-intro-description-more = Válassza ki a személyes kulcsát az OpenPGP használatának engedélyezéséhez, vagy a személyes tanúsítványát az S/MIME használatához. Személyes kulcs vagy tanúsítvány esetén Ön a titkos kulcs tulajdonosa.
+e2e-signing-description = A digitális aláírás lehetővé teszi a címzetteknek, hogy ellenőrizzék, hogy az üzenetet Ön küldte, és hogy a tartalom nem változott-e meg. A titkosított üzenetek alapértelmezetten mindig alá vannak írva.
+e2e-sign-message =
+    .label = Titkosítatlan üzenetek aláírása
+    .accesskey = a
+e2e-disable-enc =
+    .label = Az új üzenetek titkosításának letiltása
+    .accesskey = l
+e2e-enable-enc =
+    .label = Az új üzenetek titkosításának engedélyezése
+    .accesskey = e
+e2e-enable-description = Az egyes üzenetek titkosítását ki fogja tudni kapcsolni.
 e2e-advanced-section = Speciális beállítások
 e2e-attach-key =
     .label = Saját nyilvános kulcs csatolása az OpenPGP digitális aláírás hozzáadásakor
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Speciális…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">MEGJEGYZÉS: A kulcs előállítása akár néhány percet is igénybe vehet.</a> Ne zárja be az alkalmazást, amíg a kulcs előállítása folyamatban van. A kulcselőállítás során az aktív böngészés vagy a lemezintenzív műveletek feltöltik a „véletlenszerűségi készletet”, és ez felgyorsítja a folyamatot. Értesítést kap, amikor a kulcselőállítás befejeződött.
+openpgp-key-created-label =
+    .label = Létrehozva
 openpgp-key-expiry-label =
     .label = Lejárat
 openpgp-key-id-label =
@@ -221,6 +234,7 @@ openpgp-key-details-structure-tab =
     .label = Szerkezet
 openpgp-key-details-uid-certified-col =
     .label = Felhasználói azonosító / hitelesítette
+openpgp-key-details-key-id-label = Kulcsazonosító
 openpgp-key-details-user-id2-label = Állítólagos kulcstulajdonos
 openpgp-key-details-id-label =
     .label = Azonosító
@@ -335,6 +349,7 @@ key-expired-simple = A kulcs lejárt
 key-revoked-simple = A kulcsot visszavonták
 key-do-you-accept = Elfogadja ezt a kulcsot a digitális aláírások ellenőrzéséhez és az üzenetek titkosításához?
 key-accept-warning = Kerülje le a hamis kulcsok elfogadását. Használjon egy az e-mailtől eltérő kommunikációs csatornát a levelezőpartner kulcsának ujjlenyomatának ellenőrzéséhez.
+key-verification = Ellenőrizze a kulcs ujjlenyomatát az e-mailtől eltérő biztonságos kommunikációs csatornával, hogy megbizonyosodjon arról, hogy ez valóban a(z) { $addr } kulcsa.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Az üzenet nem küldhető el, mert probléma van a személyes kulcsával. { $problem }
 cannot-encrypt-because-missing = Az üzenetet nem lehet végpontok közötti titkosítással elküldeni, mert problémák vannak a következő címzettek kulcsaival: { $problem }
