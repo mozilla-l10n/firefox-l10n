@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = සබැඳිය නව ටැබයක විවෘත කරන්න
 styleeditor-copy-url =
     .label = URL පිටපත් කරන්න
+styleeditor-go-to-line =
+    .label = මෙම පේලියට පනින්න…
+    .accesskey = J
