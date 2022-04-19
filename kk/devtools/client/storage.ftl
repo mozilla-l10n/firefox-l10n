@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Аты
 storage-table-headers-cookies-value = Мәні
+storage-table-headers-cookies-expires = Мерзімі аяқталады / Max-Age
+storage-table-headers-cookies-size = Өлшемі
+storage-table-headers-cookies-last-accessed = Соңғы қатынаған
+storage-table-headers-cookies-creation-time = Жасалған
 storage-table-headers-cache-status = Қалып-күйі
 storage-table-headers-extension-storage-area = Қойма аймағы
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Жергілікті жинақтауыш
 storage-tree-labels-session-storage = Сессия жинақтауышы
 storage-tree-labels-indexed-db = Индекстелген ДҚ
 storage-tree-labels-cache = Кэш қоймасы
+storage-tree-labels-extension-storage = Кеңейтулер қоймасы
 
 ##
 
