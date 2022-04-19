@@ -36,9 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Titz'aqatisäx rutzijol na'oj
+# Refresh button title
+storage-refresh-button =
+    .title = Ketzolïx taq Na'oj
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Tiyuj Ronojel
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Tiyuj Ronojel Kikaxlanwey Molojri'ïl
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Tiwachib'ëx
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -58,6 +67,8 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = B'i'aj
 storage-table-headers-cookies-value = Retal
+storage-table-headers-cache-status = B'anikil
+storage-table-headers-extension-storage-area = Ruk'ojlib'al Yakoj
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
