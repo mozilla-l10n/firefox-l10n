@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Открыть ссылку в новой вкладке
 styleeditor-copy-url =
     .label = Копировать URL
+styleeditor-go-to-line =
+    .label = Перейти к строке…
+    .accesskey = е
