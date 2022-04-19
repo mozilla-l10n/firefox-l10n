@@ -42,6 +42,9 @@ storage-context-menu-delete-all =
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Smazat všechny cookies z relace
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopírovat
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
