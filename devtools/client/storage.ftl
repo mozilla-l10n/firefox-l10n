@@ -27,12 +27,27 @@ storage-table-type-cache-hint = Visualize e elimine entradas do armazenamento da
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Visualize e edite o armazenamento das extensões selecionando um servidor. <a data-l10n-name="learn-more-link">Saber mais</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtrar itens
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrar valores
 # Add Item button title
 storage-add-button =
     .title = Adicionar item
+# Refresh button title
+storage-refresh-button =
+    .title = Atualizar itens
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Apagar todos
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Apagar todos os cookies da sessão
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copiar
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -60,6 +75,7 @@ storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Armazenamento local
 storage-tree-labels-session-storage = Armazenamento da sessão
 storage-tree-labels-indexed-db = BD indexada
+storage-tree-labels-cache = Armazenamento de cache
 
 ##
 
