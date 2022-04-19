@@ -27,12 +27,21 @@ storage-table-type-cache-hint = Gweld a dileu'r cofnodion storio storfa trwy dde
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Gweld a golygu storfa'r estyniad trwy ddewis gwesteiwr. <a data-l10n-name="learn-more-link">Dysgu mwy</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Hidlo eitemau
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Gwerthoedd hidl
 # Add Item button title
 storage-add-button =
     .title = Ychwanegu Eitem
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Dileu'r Cyfan
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Dileu Pob Cwci Sesiwn
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
