@@ -68,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Isem
 storage-table-headers-cookies-value = Azal
 storage-table-headers-cache-status = Addad
+storage-table-headers-extension-storage-area = Tamnaḍt n usekles
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
