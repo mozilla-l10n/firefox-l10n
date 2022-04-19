@@ -44,6 +44,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = नाम
 storage-table-headers-cookies-value = मान
+storage-table-headers-cookies-size = आकार
 storage-table-headers-cache-status = स्थिति
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
