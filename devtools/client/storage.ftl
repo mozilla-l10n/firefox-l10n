@@ -25,6 +25,12 @@ storage-table-type-cache-hint = Xem và xóa các mục lưu trữ bộ nhớ đ
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Xem và chỉnh sửa bộ nhớ tiện ích mở rộng bằng cách chọn máy chủ. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Lọc các mục
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Xoá tất cả
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
