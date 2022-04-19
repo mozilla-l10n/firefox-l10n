@@ -30,6 +30,7 @@ storage-table-type-extensionstorage-hint = ดูและแก้ไขที�
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = ชื่อ
+storage-table-headers-cookies-value = ค่า
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
