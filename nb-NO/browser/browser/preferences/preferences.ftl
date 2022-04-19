@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Hva skal { -brand-short-name } gjøre med andre filer?
+applications-save-for-new-types =
+    .label = Lagre filer
+    .accesskey = L
+applications-ask-before-handling =
+    .label = Spør om du vil åpne eller lagre filer
+    .accesskey = S
 drm-content-header = Digital Rights Management (DRM) innhold
 play-drm-content =
     .label = Spill DRM-kontrollert innhold
