@@ -64,7 +64,6 @@ calendar-import-into-new-calendar = Ustvari nov koledar
 
 ## Import dialog
 
-progress-pane-title = Uvažanje
 progress-pane-importing = Uvažanje
 progress-pane-exporting = Izvažanje
 progress-pane-finished-desc = Končano.
@@ -79,6 +78,10 @@ error-export-failed = Izoz je nepričakovano spodletel. Več podatkov je morda n
 ## <csv-field-map> element
 
 csv-first-row-contains-headers = Prva vrstica vsebuje imena polj
+csv-source-field = Izvorno polje
+csv-source-first-record = Prvi zapis
+csv-source-second-record = Drugi zapis
+csv-target-field = Polje imenika
 
 ## Export tab
 
