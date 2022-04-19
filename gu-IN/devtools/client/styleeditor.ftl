@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = નવી ટૅબમાં લિંક ખોલો
 styleeditor-copy-url =
     .label = URL ની નકલ
+styleeditor-go-to-line =
+    .label = સીધા વાક્ય પર જાઓ…
+    .accesskey = J
