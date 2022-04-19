@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = 用新分頁開啟鏈結
 styleeditor-copy-url =
     .label = 複製網址
+styleeditor-go-to-line =
+    .label = 跳到某行…
+    .accesskey = J
