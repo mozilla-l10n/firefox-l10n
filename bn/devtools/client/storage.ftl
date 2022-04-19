@@ -47,6 +47,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = নাম
 storage-table-headers-cookies-value = মান
+storage-table-headers-cookies-creation-time = তৈরিকৃত
 storage-table-headers-cache-status = অবস্থা
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
@@ -56,6 +57,7 @@ storage-tree-labels-local-storage = স্থানীয় স্টোরেজ
 storage-tree-labels-session-storage = সেশন স্টোরেজ
 storage-tree-labels-indexed-db = ইনডেক্স করা DB
 storage-tree-labels-cache = ক্যাশে স্টোরেজ
+storage-tree-labels-extension-storage = এক্সটেনশন স্টোরেজ
 
 ##
 
