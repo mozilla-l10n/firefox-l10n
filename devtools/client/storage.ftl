@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Namn
 storage-table-headers-cookies-value = Värde
+storage-table-headers-cookies-expires = Upphör / Max-Age
+storage-table-headers-cookies-size = Storlek
+storage-table-headers-cookies-last-accessed = Senaste åtkomst
+storage-table-headers-cookies-creation-time = Skapad
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Förvaringsutrymme
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Lokal Lagring
 storage-tree-labels-session-storage = Sessionslagring
 storage-tree-labels-indexed-db = Indexerad DB
 storage-tree-labels-cache = Cache-lagring
+storage-tree-labels-extension-storage = Tilläggslagring
 
 ##
 
