@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Hivatkozás megnyitása új lapon
 styleeditor-copy-url =
     .label = URL másolása
+styleeditor-go-to-line =
+    .label = Ugrás sorra…
+    .accesskey = U
