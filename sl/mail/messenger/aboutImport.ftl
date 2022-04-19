@@ -48,6 +48,8 @@ addr-book-vcard-file = Datoteka vCard (.vcf, .vcard)
 addr-book-sqlite-file = Datoteka podatkovne zbirke SQLite (.sqlite)
 addr-book-mab-file = Datoteka podatkovne zbirke Mork (.mab)
 addr-book-file-picker = Izberite datoteko imenika
+addr-book-csv-field-map-title = Poveži imena polj
+addr-book-csv-field-map-desc = Izberite polja v imeniku, ki ustrezajo izvornim poljem. Počistite polja, ki jih ne želite uvoziti.
 addr-book-directories-pane-title = Izberite mapo, iz katere želite uvoziti podatke:
 addr-book-directories-pane-source = Izvorna datoteka:
 addr-book-import-into-new-directory = Ustvari novo mapo
@@ -85,6 +87,7 @@ csv-target-field = Polje imenika
 
 ## Export tab
 
+export-profile-desc = Izvozite poštne račune, sporočila, imenike in nastavitve v datoteko .zip. Z uvozom datoteke .zip lahko obnovite svoj profil.
 export-profile-desc2 = Če je vaš trenutni profil večji od 2 GB, predlagamo, da ga varnostno kopirate sami.
 export-open-profile-folder = Odpri mapo s profilom
 export-file-picker = Izvozi v datoteko .zip
