@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Keppeling iepenje yn nij ljepblêd
 styleeditor-copy-url =
     .label = URL kopiearje
+styleeditor-go-to-line =
+    .label = Ljep nei rigel…
+    .accesskey = L
