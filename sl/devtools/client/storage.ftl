@@ -33,14 +33,23 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter vrednosti
+# Add Item button title
+storage-add-button =
+    .title = Dodaj element
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Izbriši vse
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Izbriši vse piškotke seje
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Izbriši "{ $itemName }"
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Dodaj element
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -64,6 +73,14 @@ storage-tree-labels-cache = Shramba predpomnilnika
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Razširi pano
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Strni pano
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Seja
 # Heading displayed over the item value in the sidebar
