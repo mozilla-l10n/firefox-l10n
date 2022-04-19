@@ -27,24 +27,78 @@ storage-table-type-cache-hint = Tingnan at burahin ang mga cache storage entry s
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Tingnan at baguhin ang extension storage sa pamamagitan ng pagpili ng host. <a data-l10n-name="learn-more-link">Alamin</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Salain ang mga item
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
+# Add Item button title
+storage-add-button =
+    .title = Magdagdag ng Item
+# Refresh button title
+storage-refresh-button =
+    .title = I-refresh ang mga Item
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Burahin Lahat
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Burahin Lahat ng mga Session Cookie
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopyahin
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Burahin ang “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Magdagdag ng Item
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Burahin Lahat Sa “{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Pangalan
+storage-table-headers-cookies-value = Value
+storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Lugar ng Imbakan
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = Mga cookie
+storage-tree-labels-local-storage = Local Storage
+storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
+storage-tree-labels-cache = Cache Storage
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Expand Pane
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Collapse Pane
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Session
 # Heading displayed over the item value in the sidebar
 storage-data = Data
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Parsed Value
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Buburahin ang database na “{ $dbName }” matapos isara lahat ng mga connection.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Hindi mabura ang database na “{ $dbName }”.
