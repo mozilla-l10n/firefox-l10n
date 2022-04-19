@@ -7,27 +7,64 @@
 
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Pre aktuálnu stránku nie sú dostupné žiadne údaje
-
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
 storage-table-type-cookies-hint = Súbory cookie môžete zobraziť a upraviť zvolením servera. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
-
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-localstorage-hint = Miestne úložisko môžete zobraziť a upraviť zvolením servera. <a data-l10n-name="learn-more-link"> Ďalšie informácie </a>
-
 # Hint shown when the session storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-sessionstorage-hint = Úložisko relácie môžete zobraziť a upraviť zvolením servera. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
-
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/IndexedDB
 storage-table-type-indexeddb-hint = Položky IndexedDB môžete zobraziť a odstrániť zvolením databázy. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
-
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
 storage-table-type-cache-hint = Položky ukladacieho priestoru vyrovnávacej pamäte môžete zobraziť a odstrániť zvolením úložiska. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
-
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Úložisko rozšírení môžete zobraziť a upraviť výberom servera. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = Filtrovať hodnoty
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Odstrániť “{ $itemName }”
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Odstrániť všetko z “{ $host }”
+
+## Header names of the columns in the Storage Table for each type of storage available
+## through the Storage Tree to the side.
+
+storage-table-headers-cookies-name = Názov
+storage-table-headers-cookies-value = Hodnota
+
+## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
+
+storage-tree-labels-cookies = Cookies
+storage-tree-labels-local-storage = Lokálne úložisko
+storage-tree-labels-session-storage = Úložisko relácie
+storage-tree-labels-indexed-db = Indexed DB
+
+##
+
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = Relácia
+# Heading displayed over the item value in the sidebar
+storage-data = Údaje
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Analyzovaná hodnota
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Databáza “{ $dbName }” bude odstránená ihneď ako budú všetky pripojenia uzatvorené.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Databáza “{ $dbName }” nemohla byť odstránená.
