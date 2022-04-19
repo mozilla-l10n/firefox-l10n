@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Buksan ang Link sa Bagong Tab
 styleeditor-copy-url =
     .label = Kopyahin ang URL
+styleeditor-go-to-line =
+    .label = Tumalon sa linya…
+    .accesskey = J
