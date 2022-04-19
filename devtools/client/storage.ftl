@@ -22,6 +22,9 @@ storage-add-button =
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Delete All
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Eyða öllum lotukökum
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -39,11 +42,20 @@ storage-context-menu-delete-all-from =
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
+storage-table-headers-cookies-name = Nafn
+storage-table-headers-cookies-value = Gildi
+storage-table-headers-cookies-expires = Rennur út / Hámarksaldur
+storage-table-headers-cookies-size = Stærð
+storage-table-headers-cookies-last-accessed = Síðast sótt
+storage-table-headers-cookies-creation-time = Búið til
 storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Geymslusvæði
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = Vefkökur
 storage-tree-labels-local-storage = Local Storage
+storage-tree-labels-session-storage = Geymsla lotunnar
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Cache Storage
 
@@ -57,6 +69,8 @@ storage-expand-pane =
 # storage UI when the panel is open.
 storage-collapse-pane =
     .title = Collapse Pane
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = Lotukaka
 # Heading displayed over the item value in the sidebar
 storage-data = Data
 # Heading displayed over the item parsed value in the sidebar
