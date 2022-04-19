@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Setja sjálfgefið gildi um að leyfa { -brand
 policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva á opnun síðunnar.
 policy-OverridePostUpdatePage = Setja aðra síðu í stað "Hvað er nýtt"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
+policy-PasswordManagerExceptions = Koma í veg fyrir að { -brand-short-name } visti lykilorð fyrir tiltekin vefsvæði.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
