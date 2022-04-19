@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Engadir elemento
+# Refresh button title
+storage-refresh-button =
+    .title = Actualizar elementos
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Eliminar todo
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Eliminar todas as cookies de sesión
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copiar
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -61,7 +67,12 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nome
 storage-table-headers-cookies-value = Valor
+storage-table-headers-cookies-expires = Caduca / Idade máxima
+storage-table-headers-cookies-size = Tamaño
+storage-table-headers-cookies-last-accessed = Último acceso
+storage-table-headers-cookies-creation-time = Creado
 storage-table-headers-cache-status = Estado
+storage-table-headers-extension-storage-area = Área de almacenamento
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -70,6 +81,7 @@ storage-tree-labels-local-storage = Almacenamento local
 storage-tree-labels-session-storage = Almacenamento da sesión
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Almacenamento na caché
+storage-tree-labels-extension-storage = Almacenamento de extensións
 
 ##
 
