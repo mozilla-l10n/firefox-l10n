@@ -67,6 +67,9 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nom
 storage-table-headers-cookies-value = Valeur
+storage-table-headers-cookies-expires = Expiration / Durée maximum
+storage-table-headers-cookies-size = Taille
+storage-table-headers-cookies-last-accessed = Dernier accès
 storage-table-headers-cookies-creation-time = Date de création
 storage-table-headers-cache-status = État
 storage-table-headers-extension-storage-area = Zone de stockage
@@ -78,6 +81,7 @@ storage-tree-labels-local-storage = Stockage local
 storage-tree-labels-session-storage = Stockage de session
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Stockage cache
+storage-tree-labels-extension-storage = Stockage d’extension
 
 ##
 
