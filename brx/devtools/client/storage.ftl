@@ -22,6 +22,11 @@ storage-context-menu-delete-all-session-cookies =
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = कपि खालाम
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = “{ $itemName }” खोमोर
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
