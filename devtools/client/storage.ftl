@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Անուն
 storage-table-headers-cookies-value = Արժեքը
+storage-table-headers-cookies-expires = Լրանում է / Max-Age
+storage-table-headers-cookies-size = Չափ
+storage-table-headers-cookies-last-accessed = Վերջին մուտքը
+storage-table-headers-cookies-creation-time = Ստեղծված
 storage-table-headers-cache-status = Կարգավիճակ
 storage-table-headers-extension-storage-area = Պահեստի տարածք
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Տեղային պահեստ
 storage-tree-labels-session-storage = Աշխատաշրջանի պահեստ
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Շտեմի պահեստ
+storage-tree-labels-extension-storage = Հավելյալ պահեստ
 
 ##
 
