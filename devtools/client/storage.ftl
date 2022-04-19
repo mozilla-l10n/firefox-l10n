@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nazwa
 storage-table-headers-cookies-value = Wartość
+storage-table-headers-cookies-expires = Wygasa / Max-Age
+storage-table-headers-cookies-size = Rozmiar
+storage-table-headers-cookies-last-accessed = Ostatni dostęp
+storage-table-headers-cookies-creation-time = Utworzono
 storage-table-headers-cache-status = Stan
 storage-table-headers-extension-storage-area = Obszar pamięci
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Lokalna pamięć
 storage-tree-labels-session-storage = Pamięć sesji
 storage-tree-labels-indexed-db = IndexedDB
 storage-tree-labels-cache = Pamięć podręczna
+storage-tree-labels-extension-storage = Pamięć rozszerzenia
 
 ##
 
