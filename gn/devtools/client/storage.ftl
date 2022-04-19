@@ -36,9 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Embojuaju pururã
+# Refresh button title
+storage-refresh-button =
+    .title = Mba’epuru mbohekopyahu
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Emboguepaite
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Tembiapopa’ũ Kookie Mboguepaite
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Monguatia
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -47,6 +56,11 @@ storage-context-menu-delete =
 # Context menu action to add an item
 storage-context-menu-add-item =
     .label = Embojuaju pururã
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Emboguepaite ko’águi “{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
@@ -54,6 +68,7 @@ storage-context-menu-add-item =
 storage-table-headers-cookies-name = Téra
 storage-table-headers-cookies-value = Tepykue
 storage-table-headers-cache-status = Tekotee
+storage-table-headers-extension-storage-area = Ñembyatyha rendag̃ua
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -65,5 +80,25 @@ storage-tree-labels-cache = Kache mbyatyrendagua
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Ta’ãngarupa myasãi
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Ñemomichĩha ra’ãngarupa
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Tembiapo
+# Heading displayed over the item value in the sidebar
+storage-data = Mba’ekuaarã
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Tepy hehesa’ỹijopyre
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Mba’ekuaarã renda “{ $dbName }” oguepáta oñembotypaite rire jeike hague.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Mba’ekuaarã renda “{ $dbName }” ndoguetekuaái.
