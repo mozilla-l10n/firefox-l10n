@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Wótkaz w nowem rejtariku wócyniś
 styleeditor-copy-url =
     .label = URL kopěrowaś
+styleeditor-go-to-line =
+    .label = K slědujucej smužce skócyś…
+    .accesskey = l
