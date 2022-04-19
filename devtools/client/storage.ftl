@@ -27,14 +27,35 @@ storage-table-type-cache-hint = Visa och ta bort cache-lagringsposter genom att 
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Visa och redigera tilläggslagring genom att välja en värd. <a data-l10n-name="learn-more-link">Läs mer</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtrera objekt
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrera värden
+# Add Item button title
+storage-add-button =
+    .title = Lägg till objekt
+# Refresh button title
+storage-refresh-button =
+    .title = Uppdatera objekt
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Ta bort alla
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Ta bort alla sessionskakor
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopiera
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Ta bort “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Lägg till objekt
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -47,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Namn
 storage-table-headers-cookies-value = Värde
 storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Förvaringsutrymme
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -58,6 +80,14 @@ storage-tree-labels-cache = Cache-lagring
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Expandera fönster
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Minimera fönster
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Session
 # Heading displayed over the item value in the sidebar
