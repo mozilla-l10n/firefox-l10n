@@ -79,6 +79,14 @@ storage-tree-labels-cache = 缓存存储
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = 展开窗格
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = 折叠窗格
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = 会话
 # Heading displayed over the item value in the sidebar
