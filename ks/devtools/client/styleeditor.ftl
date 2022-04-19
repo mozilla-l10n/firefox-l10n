@@ -21,3 +21,6 @@ styleeditor-editor-textbox =
     .data-placeholder = CSS كریو یَت۪یتھ ٹایپ
 styleeditor-no-stylesheet = یٹھ صفحس چھُ نئ كہین تئ سٹایل شیٹ
 styleeditor-no-stylesheet-tip = تُہئ ما یژھیو<a data-l10n-name="append-new-stylesheet">نئئ سٹایل شیٹ جوڈیو</a>?
+styleeditor-go-to-line =
+    .label = ریخ۪ی منز گژھیو
+    .accesskey = J
