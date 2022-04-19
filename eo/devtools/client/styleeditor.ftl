@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Malfermi ligilon en nova langeto
 styleeditor-copy-url =
     .label = Kopii retadreson
+styleeditor-go-to-line =
+    .label = Iri al la linio …
+    .accesskey = I
