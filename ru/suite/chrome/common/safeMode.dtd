@@ -20,7 +20,7 @@
 <!ENTITY resetUserPrefs.label         "Сбросить все настройки на настройки &brandShortName; по умолчанию">
 <!ENTITY resetUserPrefs.accesskey     "н">
 
-<!ENTITY restoreSearch.label          "Восстановить набор поисковых систем по умолчанию">
+<!ENTITY restoreSearch.label          "Восстановить поисковые системы по умолчанию">
 <!ENTITY restoreSearch.accesskey      "п">
 
 <!ENTITY changeAndRestartButton.label "Произвести изменения и перезапустить">
