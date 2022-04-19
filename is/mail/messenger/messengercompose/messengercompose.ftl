@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Hengja við skrá(r)...
     .accesskey = H
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Mín vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = OpenPGP-dreifilykillinn minn
+    .accesskey = k
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -127,6 +134,27 @@ message-to-be-signed-icon =
     .alt = Undirrita skilaboð
 message-to-be-encrypted-icon =
     .alt = Dulrita skilaboð
+encryption-menu =
+    .label = Öryggi
+    .accesskey = y
+encryption-toggle =
+    .label = Dulrita
+    .tooltiptext = Nota enda-í-enda dulritun fyrir þessi skilaboð
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Skoða eða breyta stillingum fyrir OpenPGP-dulkritun
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Skoða eða breyta stillingum fyrir S/MIME-dulkritun
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Dulrita
+    .accesskey = D
 
 ## Addressing Area
 
