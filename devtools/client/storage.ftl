@@ -27,12 +27,27 @@ storage-table-type-cache-hint = Peržiūrėkite ir šalinkite podėlio saugyklos
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Peržiūrėkite ir keiskite priedo saugyklą pasirinkę serverį. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtruoti elementus
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtruoti reikšmes
 # Add Item button title
 storage-add-button =
     .title = Pridėti įrašą
+# Refresh button title
+storage-refresh-button =
+    .title = Atnaujinti elementus
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Ištrinti viską
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Pašalinti visus seanso slapukus
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopijuoti
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -53,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Pavadinimas
 storage-table-headers-cookies-value = Reikšmė
 storage-table-headers-cache-status = Būsena
+storage-table-headers-extension-storage-area = Saugyklos sritis
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
