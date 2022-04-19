@@ -7,12 +7,27 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filter items
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
 # Add Item button title
 storage-add-button =
     .title = Add Item
+# Refresh button title
+storage-refresh-button =
+    .title = Refresh Items
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Delete All
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Delete All Session Cookies
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copy
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
