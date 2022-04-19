@@ -35,6 +35,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Si yugui
 storage-table-headers-cookies-value = Dàj du'ue man
+storage-table-headers-cookies-creation-time = Nga girij
 storage-table-headers-cache-status = Daj hua riñaj
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
