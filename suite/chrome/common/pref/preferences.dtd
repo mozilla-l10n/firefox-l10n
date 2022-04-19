@@ -46,6 +46,7 @@
 
 <!ENTITY advance.label "Avançado">
 <!ENTITY scriptsAndWindows.label "Scripts e Plugins">
+<!ENTITY scriptsAndWindows2.label "Scripts">
 <!ENTITY keynav.label "Teclado">
 <!ENTITY findAsYouType.label "Localizar texto ao digitar">
 <!ENTITY cache.label "Cache">
@@ -54,7 +55,6 @@
 <!ENTITY httpnetworking.label "HTTP">
 <!ENTITY smart.label "Instalação de programas">
 <!ENTITY mousewheel.label "Roda do mouse">
-
 <!ENTITY debugging.label "Depuração">
 
 <!ENTITY focusSearch.key "f">
