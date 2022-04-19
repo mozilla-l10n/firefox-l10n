@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Ավելացնել միույթ
+# Refresh button title
+storage-refresh-button =
+    .title = Թարմեցնել տարրերը
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Ջնջել բոլորը
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Ջնջել բոլոր ա/շրջանների Cookie-ները
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Պատճենել
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -62,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Անուն
 storage-table-headers-cookies-value = Արժեքը
 storage-table-headers-cache-status = Կարգավիճակ
+storage-table-headers-extension-storage-area = Պահեստի տարածք
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
