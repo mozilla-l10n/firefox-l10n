@@ -79,3 +79,7 @@ storage-expires-session = Сеанс
 storage-data = Дані
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Розібране значення
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = База даних “{ $dbName }” не може бути видалена.
