@@ -5,9 +5,27 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = پایش مقدارها
+# Add Item button title
+storage-add-button =
+    .title = اضافه کردن
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = حذف «{ $itemName }»
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = اضافه کردن
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = حذف همه از «{ $host }»
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
@@ -26,9 +44,25 @@ storage-tree-labels-cache = فضای ذخیره‌سازی حافظه نهان
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = باز کردن قطعه
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = بستن قطعه
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = جلسه
 # Heading displayed over the item value in the sidebar
 storage-data = اطلاعات
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = مقدارهای تجزیه شده
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = بانک‌اطلاعاتی «{ $dbName }» بعد از بستن تمام ارتباطات حذف خواهد شد.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = بانک‌اطلاعاتی «{ $dbName }» قابل حذف نیست.
