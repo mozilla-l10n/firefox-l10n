@@ -50,6 +50,7 @@ about-processes-socket-process = Red ({ $pid })
 about-processes-remote-sandbox-broker-process = Agente de Espacio Aislado Remoto ({ $pid })
 about-processes-fork-server-process = Servidor de bifurcación ({ $pid })
 about-processes-preallocated-process = Preasignado ({ $pid })
+about-processes-utility-process = Utilidad ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
