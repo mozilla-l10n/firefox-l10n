@@ -52,6 +52,7 @@ storage-tree-labels-cookies = Бисквитки
 storage-tree-labels-local-storage = Локално хранилище
 storage-tree-labels-session-storage = Хранилище за сесии
 storage-tree-labels-indexed-db = Indexed DB
+storage-tree-labels-cache = Склад
 
 ##
 
