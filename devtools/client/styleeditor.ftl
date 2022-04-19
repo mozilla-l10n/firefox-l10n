@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = Ngoo hello alaa hay ɗerewol panni gootol.
 styleeditor-no-stylesheet-tip = Ina gasa tawa aɗa yidi <a data-l10n-name="append-new-stylesheet">ɓeydude ɗerewol panni kesol</a>?
 styleeditor-open-link-new-tab =
     .label = Uddit jokkol nder tabbere hesere
+styleeditor-go-to-line =
+    .label = Ɓennu to diidol…
+    .accesskey = J
