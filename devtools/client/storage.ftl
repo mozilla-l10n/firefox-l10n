@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Adı
 storage-table-headers-cookies-value = Değer
+storage-table-headers-cookies-expires = Sona erme / max-age
+storage-table-headers-cookies-size = Boyut
+storage-table-headers-cookies-last-accessed = Son erişim
+storage-table-headers-cookies-creation-time = Oluşturma
 storage-table-headers-cache-status = Durum
 storage-table-headers-extension-storage-area = Depolama alanı
 
