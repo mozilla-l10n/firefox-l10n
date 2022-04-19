@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Hvernig viltu að { -brand-short-name } meðhöndli aðrar skrár?
+applications-save-for-new-types =
+    .label = Vista skrár
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Spyrja hvort eigi að opna eða vista skrár
+    .accesskey = a
 drm-content-header = Digital Rights Management (DRM) efni
 play-drm-content =
     .label = Spila efni sem notar DRM
