@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Pas cap de donada per l’òste causit
 # Hint shown when the cookies storage type is selected. Clicking the link will open
@@ -31,9 +33,15 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrar las valors
+# Add Item button title
+storage-add-button =
+    .title = Apondre un element
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Suprimir tot
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Apondre un element
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
@@ -52,9 +60,25 @@ storage-tree-labels-cache = Emmagazinatge del cache
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Desvolopar lo panèl
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Reduire lo panèl
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Session
 # Heading displayed over the item value in the sidebar
 storage-data = Donadas
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Valor analizada
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = La basa de donadas «{ $dbName }» serà suprimida quand se tamparàn totas las connexions.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = La basa de donadas « { $dbName } » se pòt pas suprimir.
