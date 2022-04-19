@@ -7,6 +7,9 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = मान फिल्टर करें
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -22,17 +25,25 @@ storage-context-menu-delete-all-from =
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = नाम
+storage-table-headers-cookies-value = मान
 storage-table-headers-cache-status = स्थिति
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = कूकीज
+storage-tree-labels-local-storage = स्थानीय भंडारण
+storage-tree-labels-session-storage = सत्र भंडार
+storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = कैश भंडारण
 
 ##
 
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = सत्र
 # Heading displayed over the item value in the sidebar
 storage-data = आँकड़ा
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = विश्लेषित मान
 # Warning notification when IndexedDB database could not be deleted immediately.
 # Variables:
 #   $dbName (String) - Name of the database
