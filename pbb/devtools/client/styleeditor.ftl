@@ -9,3 +9,6 @@ styleeditor-options-button =
     .tooltiptext = Kuh jwed fxi'nxi's ãate kavxianxi zxiçxkwesa's.
 styleeditor-open-link-new-tab =
     .label = Phanden çxhunden ki'ki'n teeçx u'sesa's
+styleeditor-go-to-line =
+    .label = Sũtxna ũphn...
+    .accesskey = S
