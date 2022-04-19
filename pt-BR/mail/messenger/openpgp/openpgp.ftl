@@ -4,6 +4,16 @@
 
 e2e-intro-description = Para enviar mensagens criptografadas ou assinadas digitalmente, você precisa configurar uma tecnologia de criptografia, pode ser OpenPGP ou S/MIME.
 e2e-intro-description-more = Selecione sua chave pessoal para ativar o uso de OpenPGP, ou seu certificado pessoal para ativar o uso de S/MIME. Para uma chave pessoal ou certificado, você tem a chave secreta correspondente.
+e2e-signing-description = Uma assinatura digital permite que os destinatários verifiquem se a mensagem foi enviada por você e o conteúdo não foi alterado. Mensagens criptografadas por padrão são sempre assinadas.
+e2e-sign-message =
+    .label = Assinar mensagens não criptografadas
+    .accesskey = o
+e2e-disable-enc =
+    .label = Desativar criptografia de novas mensagens
+    .accesskey = D
+e2e-enable-enc =
+    .label = Ativar criptografia de novas mensagens
+    .accesskey = t
 e2e-advanced-section = Configurações avançadas
 e2e-attach-key =
     .label = Anexar minha chave pública ao adicionar uma assinatura digital OpenPGP
