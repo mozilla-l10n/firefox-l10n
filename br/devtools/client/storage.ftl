@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = No data present for selected host
 # Hint shown when the cookies storage type is selected. Clicking the link will open
@@ -28,12 +30,23 @@ storage-table-type-extensionstorage-hint = View and edit the extension storage b
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Delete “{ $itemName }”
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Delete All From “{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Name
 storage-table-headers-cookies-value = Value
+storage-table-headers-cache-status = Status
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -41,6 +54,7 @@ storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Local Storage
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
+storage-tree-labels-cache = Cache Storage
 
 ##
 
@@ -50,3 +64,11 @@ storage-expires-session = Session
 storage-data = Data
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Parsed Value
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Database “{ $dbName }” will be deleted after all connections are closed.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Database “{ $dbName }” could not be deleted.
