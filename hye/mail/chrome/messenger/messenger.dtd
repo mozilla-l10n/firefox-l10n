@@ -841,16 +841,41 @@
 <!ENTITY CopyNameAndEmailAddress.accesskey "Ա">
 <!ENTITY CopyNewsgroupName.label "Պատճէնել տեղեկատուախմբի անունը">
 <!ENTITY CopyNewsgroupName.accesskey "Պ">
+<!ENTITY CopyNewsgroupURL.label "Պատճէնել տեղեկատուախմբի URL֊ը">
+<!ENTITY CopyNewsgroupURL.accesskey "Ս">
+<!ENTITY CreateFilterFrom.label "Ստեղծել զտիչ՝…">
+<!ENTITY CreateFilterFrom.accesskey "Զ">
+<!ENTITY reportPhishingURL.label "Հաղորդել խաբկանքի մասին">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Աւելացնել բառարաններ․․․">
+<!ENTITY spellAddDictionaries.accesskey "Ա">
 
 <!-- Content Pane Context Menu -->
+<!ENTITY saveLinkAsCmd.label "Պահպանել յղումը որպէս…">
 <!ENTITY saveImageAsCmd.label "Պահպանել նկարը որպէս…">
-<!ENTITY copyImageAllCmd.label "Պատճենել նկարը">
+<!ENTITY copyLinkCmd.label "Պատճէնել յղման տեղադրութիւնը">
+<!ENTITY copyLinkCmd.accesskey "Յ">
+<!ENTITY copyImageAllCmd.label "Պատճէնել նկարը">
+<!ENTITY copyImageAllCmd.accesskey "Ն">
+<!ENTITY copyEmailCmd.label "Պատճենել ել. հասցէն">
+<!ENTITY copyEmailCmd.accesskey "Ե">
+<!ENTITY stopCmd.label "Կանգնեցնել">
+<!ENTITY stopCmd.accesskey "Կ">
+<!ENTITY reloadCmd.label "Կրկնել">
+<!ENTITY reloadCmd.accesskey "Կ">
+<!ENTITY openInBrowser.label "Բացել դիտարկիչում">
+<!ENTITY openInBrowser.accesskey "Բ">
+<!ENTITY openLinkInBrowser.label "Բացել յղումը դիտարկիչում">
+<!ENTITY openLinkInBrowser.accesskey "Բ">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "Պատրաստ է">
 
 <!-- Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Փոքրացնել">
+<!ENTITY minimizeWindow.key "փ">
+<!ENTITY bringAllToFront.label "Բոլորից առջեւ">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
