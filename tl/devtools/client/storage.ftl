@@ -27,6 +27,9 @@ storage-table-type-cache-hint = Tingnan at burahin ang mga cache storage entry s
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Tingnan at baguhin ang extension storage sa pamamagitan ng pagpili ng host. <a data-l10n-name="learn-more-link">Alamin</a>
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = Filter values
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
@@ -35,6 +38,13 @@ storage-table-headers-cookies-name = Pangalan
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-indexed-db = Indexed DB
 
 ##
 
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = Session
+# Heading displayed over the item value in the sidebar
+storage-data = Data
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Parsed Value
