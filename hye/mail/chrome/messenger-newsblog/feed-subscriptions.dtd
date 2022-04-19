@@ -5,20 +5,18 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedTitle.label             "Վերնագիր․">
-<!ENTITY feedTitle.accesskey         "T">
+<!ENTITY feedTitle.accesskey         "Վ">
 
-<!ENTITY feedLocation.accesskey      "F">
+<!ENTITY feedLocation.accesskey      "Շ">
 <!ENTITY locationValidate.label      "Վաւերացնել">
 <!ENTITY validateText.label          "Ստուգել եւ ստանալ ճիշտ յղում։">
 
 <!ENTITY feedFolder.label            "Պահել յոդուածները.">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.accesskey        "Պ">
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Ստուգել թարմացումները իւրաքանչիւր՝">
-<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "րոպէ">
-<!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "աւրեր">
 <!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "Թողարկողը երաշխաւորում է՝">

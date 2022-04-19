@@ -29,11 +29,10 @@
 <!ENTITY closeCmd.accesskey    "Փ">
 
 <!ENTITY quitApplicationCmd.label  "Ելք">
-<!ENTITY quitApplicationCmd.key    "Դ">
-<!ENTITY quitApplicationCmd.accesskey  "x">
+<!ENTITY quitApplicationCmd.key    "Փ">
 
 <!ENTITY quitApplicationCmdUnix.label  "Փակել">
-<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Փ">
 
 <!ENTITY quitApplicationCmdMac.label  "Փակել &brandShortName;-ը">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">

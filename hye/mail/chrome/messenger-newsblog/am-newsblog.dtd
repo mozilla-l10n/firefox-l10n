@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY biffAll.label                 "Միացնել բոլոր շղթաների թարմացումները">
-<!ENTITY biffAll.accesskey             "E">
+<!ENTITY biffAll.accesskey             "Մ">
 
 <!ENTITY newFeedSettings.label         "Սկզբնադիր կարգաւորումներ նոր շղթաների համար">
 
