@@ -22,6 +22,7 @@
 
 <!ENTITY quickMode.label             "Ցուցադրել յոդուածի ընդհանուր պատկերը` կայքէջի փոխարէն">
 
+<!ENTITY autotagEnable.accesskey     "ա">
 <!ENTITY autotagUsePrefix.accesskey  "Պ">
 <!ENTITY autoTagPrefix.placeholder   "Մուտքագրէք պիտակի վերջածանցը">
 
