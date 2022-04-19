@@ -39,6 +39,9 @@ storage-add-button =
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Xoá tất cả
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Xóa tất cả cookie của phiên
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
