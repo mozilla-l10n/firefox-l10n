@@ -316,6 +316,17 @@
 <!ENTITY editMsgAsNewCmd.label "Rediger som ny">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Rediger som ny melding">
+<!ENTITY editAsNewMsgCmd.accesskey "e">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Rediger meldingskladd">
+<!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Rediger mal">
+<!ENTITY editTemplateMsgCmd.accesskey "g">
+<!ENTITY newMsgFromTemplateCmd.label "Ny melding fra mal">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Opprett filter fra melding">
 <!ENTITY createFilter.accesskey "O">
 <!ENTITY archiveMsgCmd.label "Arkiver">
@@ -470,6 +481,12 @@
 <!ENTITY contextOpenNewTab.accesskey "Å">
 <!ENTITY contextEditAsNew.label "Rediger som ny …">
 <!ENTITY contextEditAsNew.accesskey "R">
+<!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Rediger meldingskladd">
+<!ENTITY contextEditTemplate.label "Rediger mal">
+<!ENTITY contextEditTemplate.accesskey "m">
+<!ENTITY contextNewMsgFromTemplate.label "Ny melding fra mal">
 <!ENTITY contextReplySender.label "Svar til avsender">
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyList.label "Svar til liste">
