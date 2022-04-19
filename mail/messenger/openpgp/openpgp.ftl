@@ -4,6 +4,17 @@
 
 e2e-intro-description = 若要傳送加密訊息，或經數位簽署過的訊息，必須先設定 OpenPGP 或 S/MIME 的任一種加密方式。
 e2e-intro-description-more = 請選擇您要用於 OpenPGP 的個人金鑰，或用於 S/MIME 的個人憑證。不論是個人金鑰或憑證您都會有對應的私鑰。
+e2e-signing-description = 數位簽章讓收件者可以確認訊息是由您寄出的，並且內容未遭竄改。加密訊息預設將開啟數位簽署。
+e2e-sign-message =
+    .label = 簽署未加密訊息
+    .accesskey = u
+e2e-disable-enc =
+    .label = 對新訊息停用加密
+    .accesskey = D
+e2e-enable-enc =
+    .label = 對新訊息啟用加密
+    .accesskey = n
+e2e-enable-description = 您仍可以針對個別訊息關閉加密。
 e2e-advanced-section = 進階設定
 e2e-attach-key =
     .label = 加入 OpenPGP 數位簽章時也附加我的公鑰
