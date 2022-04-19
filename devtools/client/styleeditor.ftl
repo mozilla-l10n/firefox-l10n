@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = ఈ పేజీకి శైలి షీట్ ఏ
 styleeditor-no-stylesheet-tip = బహశా మీరు కొత్త శైలిషీట్‌ను <a data-l10n-name="append-new-stylesheet">ఒక కొత్త శైలి షీటును జోడించు</a>?
 styleeditor-open-link-new-tab =
     .label = లింకును కొత్త ట్యాబులో తెరువు
+styleeditor-go-to-line =
+    .label = లైనుకు వెళ్ళు…
+    .accesskey = J
