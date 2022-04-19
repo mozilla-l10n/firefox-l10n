@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Keçidi Yeni Vərəqdə Aç
 styleeditor-copy-url =
     .label = URL-u köçür
+styleeditor-go-to-line =
+    .label = Sətrə keç…
+    .accesskey = J
