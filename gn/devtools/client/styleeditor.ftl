@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Tendayke pyahu joajuhápe jeike
 styleeditor-copy-url =
     .label = Emonguatia URL
+styleeditor-go-to-line =
+    .label = Tairendápe jepo...
+    .accesskey = j
