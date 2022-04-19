@@ -27,12 +27,18 @@ storage-table-type-cache-hint = Ketz'et chuqa' keyuj taq rokitz'ib' ruyakoj kach
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Ketz'et chuqa' kenuk' ri yakoj k'amal rik'in nicha' jun ruk'u'x samaj. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Kechayüx taq ch'akulal
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Kichayub'al taq etal
 # Add Item button title
 storage-add-button =
     .title = Titz'aqatisäx rutzijol na'oj
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Tiyuj Ronojel Kikaxlanwey Molojri'ïl
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
