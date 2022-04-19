@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Dodaj element
+# Refresh button title
+storage-refresh-button =
+    .title = Osveži elemente
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Izbriši vse
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Izbriši vse piškotke seje
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopiraj
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -62,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Ime
 storage-table-headers-cookies-value = Vrednost
 storage-table-headers-cache-status = Stanje
+storage-table-headers-extension-storage-area = Shramba
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
