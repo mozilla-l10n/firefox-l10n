@@ -368,6 +368,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } nên làm gì với các tập tin khác?
+applications-save-for-new-types =
+    .label = Lưu tập tin
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Hỏi xem có nên mở hay lưu tập tin hay không
+    .accesskey = A
 drm-content-header = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 play-drm-content =
     .label = Phát nội dung DRM được kiểm soát
