@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Филтриране на елементи
