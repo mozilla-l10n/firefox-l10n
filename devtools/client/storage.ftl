@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Tidak ada data untuk host terpilih
 # Hint shown when the cookies storage type is selected. Clicking the link will open
@@ -66,3 +68,11 @@ storage-expires-session = Sesi
 storage-data = Data
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Nilai yang Diuraikan
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Basis data “{ $dbName }” akan dihapus setelah semua sambungan tertutup.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Basis data “{ $dbName }” tidak dapat dihapus.
