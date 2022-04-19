@@ -30,9 +30,22 @@ storage-table-type-extensionstorage-hint = Wyświetl i modyfikuj pamięć rozsz
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtruj wartości
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Usuń wszystko
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Usuń wszystkie ciasteczka sesji
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Usuń „{ $itemName }”
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Usuń wszystko z „{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
