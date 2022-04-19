@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = Itymā lopā nav stila dokumentu.
 styleeditor-no-stylesheet-tip = Īspiejams jius vālotīs <a data-l10n-name="append-new-stylesheet">pīvīnuot jaunu stila dokumentu</a>?
 styleeditor-open-link-new-tab =
     .label = Attaiseit saiti jaunā cilnē
+styleeditor-go-to-line =
+    .label = Puorīt iz ryndeņu…
+    .accesskey = u
