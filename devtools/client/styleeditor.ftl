@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Ottvori poveznicu u novoj kartici
 styleeditor-copy-url =
     .label = Kopiraj URL
+styleeditor-go-to-line =
+    .label = Skoči na redak…
+    .accesskey = r
