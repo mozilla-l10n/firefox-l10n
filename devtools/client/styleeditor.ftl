@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Atvērt saiti jaunā cilnē
 styleeditor-copy-url =
     .label = Kopēt adresi
+styleeditor-go-to-line =
+    .label = Pāriet uz rindiņu…
+    .accesskey = u
