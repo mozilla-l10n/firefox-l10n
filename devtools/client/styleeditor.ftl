@@ -18,3 +18,6 @@ styleeditor-editor-textbox =
     .data-placeholder = Wpiszë CSS.
 styleeditor-no-stylesheet = Strona nimô sztélu CSS.
 styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
+styleeditor-go-to-line =
+    .label = Biéj do sztrichù…
+    .accesskey = B
