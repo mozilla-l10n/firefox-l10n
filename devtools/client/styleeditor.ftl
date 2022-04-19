@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Koppeling openen in nieuw tabblad
 styleeditor-copy-url =
     .label = URL kopiëren
+styleeditor-go-to-line =
+    .label = Spring naar regel…
+    .accesskey = S
