@@ -46,6 +46,7 @@
 
 <!ENTITY advance.label "Erweitert">
 <!ENTITY scriptsAndWindows.label "Skripte &amp; Plugins">
+<!ENTITY scriptsAndWindows2.label "Skripte">
 <!ENTITY keynav.label "Navigation mit der Tastatur">
 <!ENTITY findAsYouType.label "Suche beim Tippen">
 <!ENTITY cache.label "Cache">

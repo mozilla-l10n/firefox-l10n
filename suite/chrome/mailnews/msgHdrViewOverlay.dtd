@@ -26,6 +26,9 @@
 <!ENTITY editMessage.label                 "Entwurf bearbeiten…">
 <!ENTITY editMessage.accesskey             "E">
 
+<!ENTITY editDraft.label                   "Entwurf bearbeiten…">
+<!ENTITY editTemplate.label                "Vorlage bearbeiten…">
+
 <!ENTITY attachmentsTree.label             "Anhänge:">
 <!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Öffnen">
