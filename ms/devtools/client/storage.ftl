@@ -65,6 +65,8 @@ storage-collapse-pane =
 storage-expires-session = Sesi
 # Heading displayed over the item value in the sidebar
 storage-data = Data
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Nilai Terhurai
 # Warning notification when IndexedDB database could not be deleted immediately.
 # Variables:
 #   $dbName (String) - Name of the database
