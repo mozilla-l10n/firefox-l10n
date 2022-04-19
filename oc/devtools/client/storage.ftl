@@ -25,9 +25,15 @@ storage-table-type-cache-hint = Mostratz e modificatz las entradas d’emmagazin
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Mostratz e modificatz l’emmagazinatge de las extensions en seleccionant un òste. <a data-l10n-name="learn-more-link">Ne saber mai</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtrar los elements
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrar las valors
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Suprimir tot
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
