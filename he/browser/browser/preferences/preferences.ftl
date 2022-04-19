@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = מה על { -brand-short-name } לעשות עם קבצים מסוג אחר?
+applications-save-for-new-types =
+    .label = לשמור קבצים
+    .accesskey = מ
+applications-ask-before-handling =
+    .label = לשאול האם לפתוח או לשמור את הקבצים
+    .accesskey = א
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
     .label = הפעלת תוכן מוגן DRM
