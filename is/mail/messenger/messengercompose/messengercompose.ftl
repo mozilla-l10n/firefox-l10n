@@ -155,6 +155,33 @@ menu-smime =
 menu-encrypt =
     .label = Dulrita
     .accesskey = D
+menu-encrypt-subject =
+    .label = Dulrita viðfangsefni
+    .accesskey = D
+menu-sign =
+    .label = Rafræn undirritun
+    .accesskey = i
+menu-manage-keys =
+    .label = Leiðarvísir fyrir dulritunarlykla
+    .accesskey = a
+menu-view-certificates =
+    .label = Skoða skilríki viðtakenda
+    .accesskey = v
+menu-open-key-manager =
+    .label = Stýring dulritunarlykla
+    .accesskey = k
+openpgp-key-issue-notification-one = Enda-í-enda dulritun krefst þess að leyst séu vandamál með dulritunarlykla fyrir { $addr }
+openpgp-key-issue-notification-many = Enda-í-enda dulritun krefst þess að leyst séu vandamál með dulritunarlykla fyrir { $count } viðtakendur.
+smime-cert-issue-notification-one = Enda-í-enda dulritun krefst þess að leyst séu vandamál með skilríki fyrir { $addr }
+smime-cert-issue-notification-many = Enda-í-enda dulritun krefst þess að leyst séu vandamál með skilríki fyrir { $count } viðtakendur.
+key-notification-disable-encryption =
+    .label = Ekki dulrita
+    .accesskey = d
+    .tooltiptext = Gera enda-í-enda dulritun óvirka
+key-notification-resolve =
+    .label = Leysa…
+    .accesskey = L
+    .tooltiptext = Opna leiðarvísi fyrir OpenPGP dulritunarlykla
 
 ## Addressing Area
 
