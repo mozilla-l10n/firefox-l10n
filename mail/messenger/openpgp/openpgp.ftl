@@ -349,6 +349,7 @@ key-expired-simple = De kaai is ferrûn
 key-revoked-simple = De kaai is ynlutsen
 key-do-you-accept = Akseptearje jo dizze kaai foar it ferifiearjen fan digitale hantekeningen en foar it fersiferjen fan berjochten?
 key-accept-warning = Akseptearje gjin frauduleuze kaai. Brûk in oar kommunikaasjekanaal as e-mail om de fingerôfdruk fan de kaai fan jo korrespondint te ferifiearjen.
+key-verification = Kontrolearje de fingerôfdruk fan de kaai fia in oar befeilige kommunikaasjekanaal dan e-mail om der wis fan te wêzen dat it echt de kaai fan { $addr } is.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kin it berjocht net ferstjoere, omdat der in probleem is mei jo persoanlike kaai. { $problem }
 cannot-encrypt-because-missing = Kin dit berjocht net ferstjoere mei end-to-end-fersifering, omdat der problemen binne mei de kaaien fan de folgjende ûntfangers: { $problem }
