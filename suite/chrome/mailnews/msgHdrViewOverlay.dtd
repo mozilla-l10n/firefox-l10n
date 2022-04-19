@@ -26,6 +26,11 @@
 <!ENTITY editMessage.label                 "Rediger utkast …">
 <!ENTITY editMessage.accesskey             "R">
 
+<!ENTITY editDraft.label                   "Rediger utkast …">
+<!ENTITY editDraft.accesskey               "u">
+<!ENTITY editTemplate.label                "Rediger mal …">
+<!ENTITY editTemplate.accesskey            "d">
+
 <!ENTITY attachmentsTree.label             "Vedlegg:">
 <!ENTITY attachmentsTree.accesskey         "V">
 <!ENTITY openAttachmentCmd.label           "Åpne">
