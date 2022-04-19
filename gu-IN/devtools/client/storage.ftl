@@ -7,9 +7,18 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = ફિલ્ટર આઇટમ્સ
 # Add Item button title
 storage-add-button =
     .title = વસ્તુને ઉમેરો
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = બધું કાઢી નાંખો
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = બધા સત્ર કૂકીઝ કાઢી નાખો
 # Context menu action to add an item
 storage-context-menu-add-item =
     .label = વસ્તુને ઉમેરો
