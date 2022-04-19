@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Open Link in New Tab
 styleeditor-copy-url =
     .label = Копирај URL
+styleeditor-go-to-line =
+    .label = Jump to line…
+    .accesskey = J
