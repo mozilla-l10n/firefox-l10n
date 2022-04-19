@@ -136,6 +136,37 @@ message-to-be-signed-icon =
     .alt = Podpiši sporočilo
 message-to-be-encrypted-icon =
     .alt = Šifriraj sporočilo
+encryption-menu =
+    .label = Varnost
+    .accesskey = a
+encryption-toggle =
+    .label = Šifriraj
+    .tooltiptext = Za to sporočilo uporabi šifriranje od konca do konca
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Preglejte ali spremenite nastavitve šifriranja OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Preglejte ali spremenite nastavitve šifriranja S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Šifriraj
+    .accesskey = Š
+menu-encrypt-subject =
+    .label = Šifriraj zadevo
+    .accesskey = z
+menu-sign =
+    .label = Digitalno podpiši
+    .accesskey = i
+key-notification-disable-encryption =
+    .label = Ne šifriraj
+    .accesskey = N
+    .tooltiptext = Onemogoči šifriranje od konca do konca
 
 ## Addressing Area
 
