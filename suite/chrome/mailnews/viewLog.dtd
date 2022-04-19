@@ -5,6 +5,8 @@
 <!ENTITY viewLog.title "Dnevnik filtrov">
 <!ENTITY viewLogInfo.text "Dnevnik filtrov beleži filtre, ki so bili zagnani s tem računom. Označite spodnje polje, da omogočite beleženje.">
 <!ENTITY clearLog.label "Počisti dnevnik">
+<!ENTITY clearLog.accesskey "č">
 <!ENTITY enableLog.label "Omogoči dnevnik filtrov">
+<!ENTITY enableLog.accesskey "O">
 <!ENTITY closeLog.label "Zapri">
 <!ENTITY closeLog.accesskey "Z">
