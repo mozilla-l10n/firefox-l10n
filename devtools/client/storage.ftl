@@ -27,14 +27,35 @@ storage-table-type-cache-hint = Egy tároló kiválasztásával tekintse meg és
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Egy kiszolgáló kiválasztásával tekintse meg és törölje a kiegészítőtárolót. <a data-l10n-name="learn-more-link">További információk</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Elemek szűrése
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Értékek szűrése
+# Add Item button title
+storage-add-button =
+    .title = Elem hozzáadása
+# Refresh button title
+storage-refresh-button =
+    .title = Elemek frissítése
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Összes törlése
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Összes munkamenet süti törlése
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Másolás
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = „{ $itemName }” törlése
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Elem hozzáadása
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -47,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Név
 storage-table-headers-cookies-value = Érték
 storage-table-headers-cache-status = Állapot
+storage-table-headers-extension-storage-area = Tárterület
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -58,6 +80,14 @@ storage-tree-labels-cache = Gyorsítótár-tároló
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Ablaktábla kibontása
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Ablaktábla összecsukása
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Munkamenet
 # Heading displayed over the item value in the sidebar
