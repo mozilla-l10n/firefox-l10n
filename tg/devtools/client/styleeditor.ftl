@@ -13,3 +13,6 @@ styleeditor-open-link-new-tab =
     .label = Кушодани пайванд дар варақаи нав
 styleeditor-copy-url =
     .label = Нусха бардоштани нишонии URL
+styleeditor-go-to-line =
+    .label = Гузариш ба сатр…
+    .accesskey = J
