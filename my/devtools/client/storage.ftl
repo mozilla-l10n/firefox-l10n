@@ -5,6 +5,9 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = အရာများကို စစ်ထုတ်ရန်
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
