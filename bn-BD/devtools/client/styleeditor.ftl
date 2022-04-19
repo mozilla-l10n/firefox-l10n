@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = নতুন ট্যাবে লিঙ্ক খুলুন
 styleeditor-copy-url =
     .label = URL অনুলিপি
+styleeditor-go-to-line =
+    .label = লাইনে জাম্প করুন… J
+    .accesskey = J
