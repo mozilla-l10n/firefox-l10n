@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = שם
 storage-table-headers-cookies-value = ערך
+storage-table-headers-cookies-expires = תאריך תפוגה / גיל מירבי
+storage-table-headers-cookies-size = גודל
+storage-table-headers-cookies-last-accessed = תאריך גישה אחרון
+storage-table-headers-cookies-creation-time = תאריך יצירה
 storage-table-headers-cache-status = מצב
 storage-table-headers-extension-storage-area = אזור אחסון
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = אחסון מקומי
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = אחסון מטמון
+storage-tree-labels-extension-storage = אחסון הרחבה
 
 ##
 
