@@ -36,19 +36,43 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Apondre un element
+# Refresh button title
+storage-refresh-button =
+    .title = Actualizar la lista
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Suprimir tot
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Suprimir totes los cookies de session
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copiar
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Suprimir « { $itemName } »
 # Context menu action to add an item
 storage-context-menu-add-item =
     .label = Apondre un element
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Suprimir tot de « { $host } »
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Nom
 storage-table-headers-cookies-value = Valor
+storage-table-headers-cookies-expires = Expiracion / Durada maximum
+storage-table-headers-cookies-size = Talha
+storage-table-headers-cookies-last-accessed = Darrièr accès
+storage-table-headers-cookies-creation-time = Fach
 storage-table-headers-cache-status = Estatut
+storage-table-headers-extension-storage-area = Zòna d’emmagazinatge
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -57,6 +81,7 @@ storage-tree-labels-local-storage = Emmagazinatge local
 storage-tree-labels-session-storage = Emmagazinatge de la session
 storage-tree-labels-indexed-db = BD indexada
 storage-tree-labels-cache = Emmagazinatge del cache
+storage-tree-labels-extension-storage = Emmagazinatge d’extension
 
 ##
 
