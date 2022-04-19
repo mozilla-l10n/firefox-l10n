@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Hapeni Lidhjen në Skedë të Re
 styleeditor-copy-url =
     .label = Kopjoji URL-në
+styleeditor-go-to-line =
+    .label = Kaloni te rreshti…
+    .accesskey = K
