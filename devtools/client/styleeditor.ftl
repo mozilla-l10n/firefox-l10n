@@ -11,3 +11,6 @@ styleeditor-open-link-new-tab =
     .label = Abrir l'enllaz nuna llingüeta nueva
 styleeditor-copy-url =
     .label = Copiar la URL
+styleeditor-go-to-line =
+    .label = Saltar a la llinia…
+    .accesskey = S
