@@ -16,6 +16,9 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = વસ્તુને ઉમેરો
+# Refresh button title
+storage-refresh-button =
+    .title = વસ્તુઓ તાજું કરો
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = બધું કાઢી નાંખો
