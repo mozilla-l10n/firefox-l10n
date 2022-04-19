@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Naam
 storage-table-headers-cookies-value = Waarde
+storage-table-headers-cookies-expires = Verloopt / maximale leeftijd
+storage-table-headers-cookies-size = Grootte
+storage-table-headers-cookies-last-accessed = Laatst benaderd
+storage-table-headers-cookies-creation-time = Aangemaakt
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Opslagruimte
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Lokale opslag
 storage-tree-labels-session-storage = Sessieopslag
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Bufferopslag
+storage-tree-labels-extension-storage = Uitbreidingsopslag
 
 ##
 
