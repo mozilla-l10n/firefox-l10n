@@ -29,6 +29,12 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
 <!ENTITY certerror.getMeOutOfHere.label "Zveni slabo, odpelji me na domačo stran">
 
 <!ENTITY certerror.expert.heading "Razumem tveganja">
+<!ENTITY certerror.expert.content "Če razumete, kaj se dogaja, lahko
+&brandShortName;u naročite, da začne zaupati istovetnosti tega spletnega mesta.
+<b>Četudi spletnemu mestu zaupate, pa lahko nekdo še vedno poskuša prestrezati 
+vašo povezavo.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ne dodajajte izjeme, razen če ste 
+prepričani, da obstaja dober razlog, zakaj to spletno mesto ne uporablja zaupljive istovetnosti.">
 <!ENTITY certerror.addException.label "Dodaj izjemo …">
 
 <!ENTITY certerror.technical.heading "Tehnične podrobnosti">
