@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Agregar ítem
+# Refresh button title
+storage-refresh-button =
+    .title = Recargar ítems
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Borrar todo
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Borrar todas las cookies de sesión
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Copiar
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -62,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Nombre
 storage-table-headers-cookies-value = Valor
 storage-table-headers-cache-status = Estado
+storage-table-headers-extension-storage-area = Área de almacenamiento
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -87,6 +94,10 @@ storage-expires-session = Sesión
 storage-data = Datos
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Parsed Value
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = La base de datos “{ $dbName }” se va a borrar después de que se cierren todas las conexiones.
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
