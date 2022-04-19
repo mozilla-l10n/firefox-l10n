@@ -4,6 +4,7 @@
 
 e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debes configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
 e2e-intro-description-more = Seleccione tu clave personal para habilitar el uso de OpenPGP, o tu certificado personal para habilitar el uso de S/MIME. Para una clave personal o un certificado, posees la clave secreta correspondiente.
+e2e-signing-description = Una firma digital permite a los destinatarios verificar que tu enviaste el mensaje y que su contenido no cambió. Los mensaje cifrados de extremo a extremo siempre se firman de forma predeterminada.
 e2e-sign-message =
     .label = Firmar mensajes sin cifrar
     .accesskey = c
@@ -13,6 +14,7 @@ e2e-disable-enc =
 e2e-enable-enc =
     .label = Habilitar cifrado para mensajes nuevos
     .accesskey = n
+e2e-enable-description = Podrás deshabilitar el cifrado de mensajes individuales.
 e2e-advanced-section = Configuración avanzada
 e2e-attach-key =
     .label = Adjuntar mi clave pública al agregar una firma digital OpenPGP
@@ -347,6 +349,7 @@ key-expired-simple = La clave ha caducado
 key-revoked-simple = La clave fue revocada
 key-do-you-accept = ¿Aceptas esta clave para verificar firmas digitales y para cifrar mensajes?
 key-accept-warning = Evita aceptar una clave no autorizada. Utiliza un canal de comunicación que no sea el correo electrónico para verificar la huella digital de la clave de tu corresponsal.
+key-verification = Verifica la huella digital de la clave usando un canal de comunicación seguro que no sea el correo electrónico para asegurarse de que realmente sea la clave de { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = No se puede enviar el mensaje porque hay un problema con tu clave personal. { $problem }
 cannot-encrypt-because-missing = No se puede enviar este mensaje con cifrado de un extremo a extremo porque hay problemas con las claves de los siguientes destinatarios: { $problem }
