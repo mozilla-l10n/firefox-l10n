@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = 이름
 storage-table-headers-cookies-value = 값
+storage-table-headers-cookies-expires = Expires / Max-Age
+storage-table-headers-cookies-size = 크기
+storage-table-headers-cookies-last-accessed = 마지막 액세스
+storage-table-headers-cookies-creation-time = 생성일
 storage-table-headers-cache-status = 상태
 storage-table-headers-extension-storage-area = 저장 영역
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = 로컬 저장소
 storage-tree-labels-session-storage = 세션 저장소
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = 캐시 저장소
+storage-tree-labels-extension-storage = 확장 저장소
 
 ##
 
