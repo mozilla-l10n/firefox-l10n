@@ -36,12 +36,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Rnu aferdis
+# Refresh button title
+storage-refresh-button =
+    .title = Smiren iferdisen
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Kkes akk
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Kkes akk inagan n tuqqna n tɣimit
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Nɣel
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
