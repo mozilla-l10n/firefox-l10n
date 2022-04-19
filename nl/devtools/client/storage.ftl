@@ -68,6 +68,7 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = Naam
 storage-table-headers-cookies-value = Waarde
 storage-table-headers-cache-status = Status
+storage-table-headers-extension-storage-area = Opslagruimte
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
