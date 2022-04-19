@@ -368,6 +368,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } 應如何處理其他檔案？
+applications-save-for-new-types =
+    .label = 儲存檔案
+    .accesskey = S
+applications-ask-before-handling =
+    .label = 詢問要直接開啟還是儲存檔案
+    .accesskey = A
 drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
     .label = 播放 DRM 內容

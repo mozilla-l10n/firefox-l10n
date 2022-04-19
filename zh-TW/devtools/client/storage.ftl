@@ -10,22 +10,22 @@ storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = 選擇的主機中沒有任何資料存在
 # Hint shown when the cookies storage type is selected. Clicking the link will open
-# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cookies/
 storage-table-type-cookies-hint = 選擇主機來檢視或編輯 Cookie。<a data-l10n-name="learn-more-link">了解更多</a>
 # Hint shown when the local storage type is selected. Clicking the link will open
-# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
 storage-table-type-localstorage-hint = 選擇主機來檢視或編輯本機儲存空間。<a data-l10n-name="learn-more-link">了解更多</a>
 # Hint shown when the session storage type is selected. Clicking the link will open
-# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
 storage-table-type-sessionstorage-hint = 選擇主機來檢視或編輯瀏覽階段儲存空間。<a data-l10n-name="learn-more-link">了解更多</a>
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
-# https://developer.mozilla.org/docs/Tools/Storage_Inspector/IndexedDB
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
 storage-table-type-indexeddb-hint = 選擇資料庫來檢視或刪除 IndexedDB 項目。<a data-l10n-name="learn-more-link">了解更多</a>
 # Hint shown when the cache storage type is selected. Clicking the link will open
-# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
 storage-table-type-cache-hint = 選擇儲存空間來檢視或刪除快取項目。<a data-l10n-name="learn-more-link">了解更多</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
-# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
 storage-table-type-extensionstorage-hint = 選擇主機來檢視或編輯擴充套件。<a data-l10n-name="learn-more-link">了解更多</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
@@ -60,7 +60,7 @@ storage-context-menu-add-item =
 # Variables:
 #   $host (String) - Host for which we want to delete the items
 storage-context-menu-delete-all-from =
-    .label = 從「{ $host }」刪除全部
+    .label = 刪除所有「{ $host }」的項目
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
