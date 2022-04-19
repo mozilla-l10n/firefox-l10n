@@ -19,6 +19,12 @@ storage-add-button =
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Премахване на всички
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Изтриване на сесийните
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Копиране
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
