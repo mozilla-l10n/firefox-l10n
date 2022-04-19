@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = Ista pachina no tiene garra fuella d'estilo.
 styleeditor-no-stylesheet-tip = Puestar quiera <a data-l10n-name="append-new-stylesheet">adhibir una fuella d'estilo nueva</a>?
 styleeditor-open-link-new-tab =
     .label = Ubrir o vinclo en una pes&tanya nueva
+styleeditor-go-to-line =
+    .label = Blincar enta la linia…
+    .accesskey = B
