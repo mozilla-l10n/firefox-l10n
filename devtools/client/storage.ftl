@@ -57,6 +57,7 @@ storage-table-headers-cache-status = Κατάσταση
 
 storage-tree-labels-local-storage = Τοπική αποθήκευση
 storage-tree-labels-session-storage = Αποθήκευση συνεδρίας
+storage-tree-labels-indexed-db = ΒΔ με ευρετήριο
 
 ##
 
