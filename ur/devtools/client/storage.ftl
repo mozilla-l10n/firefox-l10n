@@ -38,6 +38,7 @@ storage-table-headers-cache-status = سٹیٹس
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
+storage-tree-labels-cookies = کوکیز
 storage-tree-labels-local-storage = مقامی ذخیرہ.
 storage-tree-labels-session-storage = مقامی ذخیرہ
 storage-tree-labels-indexed-db = اشاریہ ڑی بی
