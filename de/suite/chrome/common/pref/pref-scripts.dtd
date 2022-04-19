@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skripte &amp; Plugins">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Skripte">
+
 <!ENTITY navigator.label                 "Browser">
 <!ENTITY navigator.accesskey             "B">
 
