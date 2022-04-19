@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Mở liên kết trong thẻ mới
 styleeditor-copy-url =
     .label = Sao chép URL
+styleeditor-go-to-line =
+    .label = Nhảy đến dòng…
+    .accesskey = J
