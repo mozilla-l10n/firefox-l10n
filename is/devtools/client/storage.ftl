@@ -10,12 +10,18 @@ storage-filter-key = CmdOrCtrl+F
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
 storage-table-type-cookies-hint = Skoða og breyta vefkökum með því að velja hýsil. <a data-l10n-name="learn-more-link">Frekari upplýsingar</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filter items
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
 # Add Item button title
 storage-add-button =
     .title = Add Item
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Delete All
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
