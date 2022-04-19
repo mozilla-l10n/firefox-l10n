@@ -27,12 +27,21 @@ storage-table-type-cache-hint = Lihat dan hapus entri penyimpanan tembolok denga
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Lihat dan edit penyimpanan ekstensi dengan memilih host. <a data-l10n-name="learn-more-link">Pelajari lebih lanjut</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filter item
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter nilai
 # Refresh button title
 storage-refresh-button =
     .title = Segarkan Item
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Hapus Semua
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Hapus Kuki Semua Sesi
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
