@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Wat moet { -brand-short-name } met andere bestanden doen?
+applications-save-for-new-types =
+    .label = Bestanden opslaan
+    .accesskey = o
+applications-ask-before-handling =
+    .label = Vragen of bestanden geopend of opgeslagen moeten worden
+    .accesskey = V
 drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
     .label = DRM-beheerde inhoud afspelen
