@@ -5,29 +5,92 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Nulle datos presente pro le hospite seligite
-
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
 storage-table-type-cookies-hint = Vider e rediger cookies per selection de un servitor hospite. <a data-l10n-name="learn-more-link">Saper plus</a>
-
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-localstorage-hint = Vider e rediger le local immagazinage per selection de un servitor hospite. <a data-l10n-name="learn-more-link">Saper plus</a>
-
 # Hint shown when the session storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-sessionstorage-hint = Vider e rediger le session immagazinage per selection de un servitor hospite. <a data-l10n-name="learn-more-link">Saper plus</a>
-
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/IndexedDB
 storage-table-type-indexeddb-hint = Vider e deler entratas de IndexedDB per selection de un base de datos. <a data-l10n-name="learn-more-link">Saper plus</a>
-
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
 storage-table-type-cache-hint = Vider e deler le entratas del cache immagazinage per selection de un immagazinage. <a data-l10n-name="learn-more-link">Saper plus</a>
-
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Vider e rediger le immagazinage del extension per selection de un servitor hospite. <a data-l10n-name="learn-more-link">Saper plus</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Filtrar le elementos
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = Filtrar le valores
+# Add Item button title
+storage-add-button =
+    .title = Adder un elemento
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Deler toto
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Deler tote le cookies del session
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Deler “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Adder un elemento
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Deler toto de “{ $host }”
+
+## Header names of the columns in the Storage Table for each type of storage available
+## through the Storage Tree to the side.
+
+storage-table-headers-cookies-name = Nomine
+storage-table-headers-cookies-value = Valor
+storage-table-headers-cache-status = Stato
+
+## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
+
+storage-tree-labels-cookies = Cookies
+storage-tree-labels-local-storage = Immagazinage local
+storage-tree-labels-indexed-db = Base de datos indexate
+storage-tree-labels-cache = Immagazinage in cache
+
+##
+
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Expander le pannello
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Contraher le pannello
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = Session
+# Heading displayed over the item value in the sidebar
+storage-data = Datos
+# Heading displayed over the item parsed value in the sidebar
+storage-parsed-value = Valor interpretate
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = Le base de datos “{ $dbName }” essera delite post que tote le connexiones es claudite.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = Le base de datos “{ $dbName }” non ha potite esser delite.
