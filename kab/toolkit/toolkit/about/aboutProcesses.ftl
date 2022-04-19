@@ -50,6 +50,7 @@ about-processes-socket-process = Azeṭṭa ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Anɣal n uqeddac ({ $pid })
 about-processes-preallocated-process = Adeg uzwir ({ $pid })
+about-processes-utility-process = Tixxuteṛt ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
