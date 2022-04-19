@@ -3,5 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Էջի գոյներ եւ ետնապատկեր">
+<!ENTITY pageColors.label "Էջի գոյներ">
+<!ENTITY defaultColorsRadio.label "Ընթերցողի սկզբնադիր գոյները (էջերում գոյներ մի տեղադրէք)">
+<!ENTITY defaultColorsRadio.accessKey "Ս">
+<!ENTITY defaultColorsRadio.tooltip "Աւգտագործէք գոյնի կարգաւորումները միայն դիտորդի (ընթերցողի) դիտարկիչից">
+<!ENTITY customColorsRadio.label "Աւգտագործել նախընտրելի գոյներ.">
+<!ENTITY customColorsRadio.accessKey "Ն">
+<!ENTITY customColorsRadio.tooltip "Այս գունային կարգաւորումները անտեսում են դիտողի դիտարկիչի կարգաւորումները">
 
+<!ENTITY normalText.label "Նորմալ գրոյթ">
+<!ENTITY normalText.accessKey "Ն">
+<!ENTITY linkText.label "Յղման տեքստ">
+<!ENTITY linkText.accessKey "Յ">
+<!ENTITY activeLinkText.label "Ակտիւ յղման տեքստ">
+<!ENTITY activeLinkText.accessKey "Ա">
+<!ENTITY visitedLinkText.label "Դիտուած յղումը">
+<!ENTITY visitedLinkText.accessKey "Դ">
+<!ENTITY background.label "Ետնապատկեր՝">
+<!ENTITY background.accessKey "Ե">
+<!ENTITY colon.character "․">
 <!ENTITY backgroundImage.label "Ետնանկարի պատկեր.">
