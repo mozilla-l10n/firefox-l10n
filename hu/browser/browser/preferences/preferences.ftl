@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Mit tegyen a { -brand-short-name } más fájlokkal?
+applications-save-for-new-types =
+    .label = Fájlok mentése
+    .accesskey = m
+applications-ask-before-handling =
+    .label = Kérdezze meg, hogy nyissa meg vagy mentse a fájlokat
+    .accesskey = K
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
     .label = DRM-vezérelt tartalom lejátszása

@@ -50,6 +50,7 @@ about-processes-socket-process = Hálózat ({ $pid })
 about-processes-remote-sandbox-broker-process = Távoli homokozóbróker ({ $pid })
 about-processes-fork-server-process = Fork kiszolgáló ({ $pid })
 about-processes-preallocated-process = Előre kiosztott ({ $pid })
+about-processes-utility-process = Segédprogram ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Részkeret: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Részkeretek ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Ismeretlen szereplő
+about-processes-utility-actor-audio-decoder = Hangdekóder
 
 ## Displaying CPU (percentage and total)
 ## Variables:
