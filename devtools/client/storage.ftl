@@ -49,6 +49,7 @@ storage-tree-labels-cookies = કૂકીઝ
 storage-tree-labels-local-storage = સ્થાનિક સંગ્રહ
 storage-tree-labels-session-storage = સત્ર સંગ્રહ
 storage-tree-labels-indexed-db = અનુક્રમિત DB
+storage-tree-labels-cache = કામચલાઉ સંગ્રહ
 
 ##
 
@@ -56,6 +57,10 @@ storage-tree-labels-indexed-db = અનુક્રમિત DB
 # storage UI when the panel is closed.
 storage-expand-pane =
     .title = તકતીને વિસ્તારો
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = તકતીને ભેગી કરો
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = સત્ર
 # Heading displayed over the item value in the sidebar
