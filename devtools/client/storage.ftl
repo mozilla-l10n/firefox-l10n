@@ -36,6 +36,9 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = 添加项目
+# Refresh button title
+storage-refresh-button =
+    .title = 刷新项目
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = 全部删除
