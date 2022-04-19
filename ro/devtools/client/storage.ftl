@@ -33,6 +33,9 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filtrează valorile
+# Add Item button title
+storage-add-button =
+    .title = Adaugă un element
 # Refresh button title
 storage-refresh-button =
     .title = Reîmprospătează elementele
@@ -45,6 +48,19 @@ storage-context-menu-delete-all-session-cookies =
 # Context menu action to copy a storage item
 storage-context-menu-copy =
     .label = Copiază
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = Șterge „{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Adaugă un element
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Șterge tot de la „{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
