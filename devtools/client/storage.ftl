@@ -27,12 +27,27 @@ storage-table-type-cache-hint = Ikusi eta ezabatu cacheko sarrerak biltegiratzea
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Ikusi eta editatu hedapene-biltegiratzea ostalaria aukeratuz. <a data-l10n-name="learn-more-link">Ikasi gehiago</a>
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = Iragazi elementuak
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Iragazi balioak
 # Add Item button title
 storage-add-button =
     .title = Gehitu elementua
+# Refresh button title
+storage-refresh-button =
+    .title = Berritu elementuak
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Ezabatu denak
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Ezabatu saioko cookie guztiak
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Kopiatu
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
