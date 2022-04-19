@@ -16,12 +16,18 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Azonzi Elemento
+# Refresh button title
+storage-refresh-button =
+    .title = Agiorna elementi
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Scancella tutto
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Scancella tutti i cookie da sescion
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = Còpia
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
