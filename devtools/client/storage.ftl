@@ -7,12 +7,21 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Placeholder for the searchbox that allows you to filter the table items
+storage-search-box =
+    .placeholder = ফিল্টার আইটেম
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = ভ্যালু ফিল্টার করুন
 # Add Item button title
 storage-add-button =
     .title = বিষয় যোগ
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = সব মুছে ফেলুন
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = সব সেশন কুকিজ মুছে দিন
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
