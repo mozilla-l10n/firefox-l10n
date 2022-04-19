@@ -30,6 +30,16 @@ about-private-browsing-hide-activity = ਆਪਣੀ ਸਰਗਰਮੀ ਤੇ �
 about-private-browsing-get-privacy = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਹਾਸਲ ਕਰੋ
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਅਤੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ। ਇੱਕ ਕਲਿੱਕ ਰਕੇ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਬਣਾਓ, ਪਬਲਿਕ ਵਾਈ-ਫਾਈ ਵਰਤਣ ਦੌਰਾਨ ਵੀ।
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਕਰੋ
+about-private-browsing-focus-promo-cta = { -focus-brand-name } ਡਾਊਨਲੋਡ ਕਰੋ
+about-private-browsing-focus-promo-header = { -focus-brand-name }: ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰਿੰਗ ਤੁਹਾਡੇ ਨਾਲ ਨਾਲ
+about-private-browsing-focus-promo-text = ਸਾਡੀ ਸਮਰਪਿਤ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਬਾਈਲ ਐਪ ਹਰ ਵਾਰ ਤੁਹਾਡੇ ਅਤੀਤ ਅਟੇ ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾ ਦਿੰਦੀ ਹੈ।
+
+## The following strings will be used for experiments in Fx99 and Fx100
+
+about-private-browsing-focus-promo-header-b = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਨਾਲ ਰੱਖੋ
+about-private-browsing-focus-promo-text-b = ਉਹ ਪ੍ਰਾਈਵੇਟ ਖੋਜਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੁੱਖ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਤਾ ਨਾ ਲੱਗਣ, ਲਈ { -focus-brand-name } ਵਰਤੋਂ।
+about-private-browsing-focus-promo-header-c = ਮੋਬਾਈਲ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਦਾ ਅਗਲਾ ਪੜਾਅ
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਹਰ ਵਾਰ ਮਿਟਾਉਣ ਦੇ ਨਾਲ ਨਾਲ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -42,5 +52,5 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = ਬੰਦ ਕਰੋ
-about-private-browsing-dismiss-button =
-    .title = ਖ਼ਾਰਜ ਕਰੋ
+about-private-browsing-promo-close-button =
+    .title = ਬੰਦ ਕਰੋ
