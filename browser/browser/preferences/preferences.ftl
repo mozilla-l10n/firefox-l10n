@@ -380,6 +380,12 @@ applications-use-os-default-label =
 
 ##
 
+applications-save-for-new-types =
+    .label = Guardar archivos
+    .accesskey = G
+applications-ask-before-handling =
+    .label = Preguntar si abrir o guardar archivos
+    .accesskey = P
 drm-content-header = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
