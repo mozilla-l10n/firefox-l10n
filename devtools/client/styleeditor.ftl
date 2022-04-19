@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Odpri povezavo v novem zavihku
 styleeditor-copy-url =
     .label = Kopiraj URL
+styleeditor-go-to-line =
+    .label = Skoči na vrstico …
+    .accesskey = S
