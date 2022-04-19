@@ -27,11 +27,10 @@
 <!ENTITY account.moveup.label         "Բարձրացնել">
 <!ENTITY account.movedown.label       "Իջեցնել">
 <!ENTITY account.cancelReconnection.label         "Չեղարկել վերակապակցումը">
-<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.cancelReconnection.accesskey     "Ե">
 <!ENTITY account.copyDebugLog.label     "Պատճենել վրիպազերծման գրանցամատեանը">
-<!ENTITY account.copyDebugLog.accesskey "C">
+<!ENTITY account.copyDebugLog.accesskey "Պ">
 <!ENTITY account.showDebugLog.label     "Ցուցադրել վրիպազերծման գրանցամատեանը">
-<!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Կապակցուում է…">
 <!ENTITY account.disconnecting        "Անջատուում է…">
 <!ENTITY account.disconnected         "Կապակցուած չէ">
