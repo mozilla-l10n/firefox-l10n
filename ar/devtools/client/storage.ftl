@@ -64,6 +64,9 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = الاسم
 storage-table-headers-cookies-value = القيمة
+storage-table-headers-cookies-size = الحجم
+storage-table-headers-cookies-last-accessed = تاريخ آخر وصول
+storage-table-headers-cookies-creation-time = تاريخ الإنشاء
 storage-table-headers-cache-status = الحالة
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
