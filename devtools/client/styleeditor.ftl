@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Адкрыць спасылку ў новай картцы
 styleeditor-copy-url =
     .label = Капіяваць URL
+styleeditor-go-to-line =
+    .label = Перайсці да радка…
+    .accesskey = с
