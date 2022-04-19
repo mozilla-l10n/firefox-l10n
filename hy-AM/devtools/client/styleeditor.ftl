@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Հղումը Բացել Նոր Ներդիրում
 styleeditor-copy-url =
     .label = Պատճենել URL
+styleeditor-go-to-line =
+    .label = Անցնել տողին…
+    .accesskey = Ա
