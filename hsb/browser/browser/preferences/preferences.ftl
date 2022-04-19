@@ -386,6 +386,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Što ma { -brand-short-name } z druhimi datajemi činić?
+applications-save-for-new-types =
+    .label = Dataje składować
+    .accesskey = D
+applications-ask-before-handling =
+    .label = Prašeć so, hač so maja dataje wočinić abo składować
+    .accesskey = P
 drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
     .label = Wobsah wodźeny přez DRM wothrać
