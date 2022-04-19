@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Arvi colegamento in neuvo feuggio
 styleeditor-copy-url =
     .label = Còpia URL
+styleeditor-go-to-line =
+    .label = Sata a-a linia…
+    .accesskey = S
