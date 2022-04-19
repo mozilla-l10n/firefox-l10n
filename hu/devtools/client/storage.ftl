@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Nincsenek adatok a kijelölt kiszolgálóhoz
 # Hint shown when the cookies storage type is selected. Clicking the link will open
@@ -28,12 +30,23 @@ storage-table-type-extensionstorage-hint = Egy kiszolgáló kiválasztásával t
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Értékek szűrése
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = „{ $itemName }” törlése
+# Context menu action to delete all storage items from a given host
+# Variables:
+#   $host (String) - Host for which we want to delete the items
+storage-context-menu-delete-all-from =
+    .label = Minden törlése innen: „{ $host }”
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.
 
 storage-table-headers-cookies-name = Név
 storage-table-headers-cookies-value = Érték
+storage-table-headers-cache-status = Állapot
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -41,6 +54,7 @@ storage-tree-labels-cookies = Sütik
 storage-tree-labels-local-storage = Helyi tároló
 storage-tree-labels-session-storage = Munkamenet-tároló
 storage-tree-labels-indexed-db = Indexelt DB
+storage-tree-labels-cache = Gyorsítótár-tároló
 
 ##
 
@@ -50,3 +64,11 @@ storage-expires-session = Munkamenet
 storage-data = Adatok
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = Feldolgozott érték
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = „{ $dbName }” adatbázis törlésre kerül az összes kapcsolat lezárása után.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = „{ $dbName }” adatbázis nem törölhető.
