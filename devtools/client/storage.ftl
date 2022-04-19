@@ -33,14 +33,23 @@ storage-search-box =
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Filter values
+# Add Item button title
+storage-add-button =
+    .title = Add Item
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Delete All
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Delete All Session Cookies
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = Delete “{ $itemName }”
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = Add Item
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -64,6 +73,14 @@ storage-tree-labels-cache = Cache Storage
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Expand Pane
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Collapse Pane
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Session
 # Heading displayed over the item value in the sidebar
