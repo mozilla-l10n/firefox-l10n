@@ -14,3 +14,6 @@ styleeditor-save-button = သိမ်းဆည်းပါ
 styleeditor-editor-textbox =
     .data-placeholder = ဒီနေရာမှာ CSS ကုဒ်များကိုရိုက်ပါ။
 styleeditor-no-stylesheet = ဒီစာမျက်နှာမှာ CSS ဖိုင် မရှိပါ။
+styleeditor-go-to-line =
+    .label = လိုင်း .... သို့သွားပါ
+    .accesskey = လ
