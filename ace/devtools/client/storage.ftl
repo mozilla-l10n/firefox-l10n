@@ -7,6 +7,12 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = Sampôh Ban Mandum
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = Sampôh Ban Mandum Sési Kukis
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
