@@ -26,6 +26,11 @@
 <!ENTITY editMessage.label                 "編輯草稿…">
 <!ENTITY editMessage.accesskey             "d">
 
+<!ENTITY editDraft.label                   "編輯草稿…">
+<!ENTITY editDraft.accesskey               "D">
+<!ENTITY editTemplate.label                "編輯範本…">
+<!ENTITY editTemplate.accesskey            "d">
+
 <!ENTITY attachmentsTree.label             "附件:">
 <!ENTITY attachmentsTree.accesskey         "c">
 <!ENTITY openAttachmentCmd.label           "開啟">
@@ -44,4 +49,3 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label     "全部刪除…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">
-

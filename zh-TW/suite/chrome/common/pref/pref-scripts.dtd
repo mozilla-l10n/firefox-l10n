@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "指令碼與外掛程式">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "指令碼">
+
 <!ENTITY navigator.label                 "網頁瀏覽器">
 <!ENTITY navigator.accesskey             "B">
 
