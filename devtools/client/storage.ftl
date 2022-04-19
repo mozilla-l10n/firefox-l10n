@@ -74,6 +74,7 @@ storage-table-headers-cache-status = สถานะ
 storage-tree-labels-cookies = คุกกี้
 storage-tree-labels-local-storage = ที่เก็บข้อมูลในเครื่อง
 storage-tree-labels-session-storage = ที่เก็บข้อมูลวาระ
+storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = ที่เก็บข้อมูลแคช
 
 ##
