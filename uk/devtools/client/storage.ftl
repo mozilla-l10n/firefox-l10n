@@ -73,6 +73,14 @@ storage-tree-labels-cache = Сховище кешу
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = Розгорнути панель
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = Згорнути панель
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = Сеанс
 # Heading displayed over the item value in the sidebar
