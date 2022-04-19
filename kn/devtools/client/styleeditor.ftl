@@ -23,3 +23,6 @@ styleeditor-no-stylesheet = ಈ ಪುಟವು ಯಾವುದೆ ಶೈಲಿ 
 styleeditor-no-stylesheet-tip = ಬಹುಷಃ ನೀವು <a data-l10n-name="append-new-stylesheet">ಒಂದು ಹೊಸ ಶೈಲಿ ಹಾಳೆಯನ್ನು ಸೇರಿಸಬೇಕು</a>?
 styleeditor-open-link-new-tab =
     .label = ಕೊಂಡಿಯನ್ನು ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ
+styleeditor-go-to-line =
+    .label = ಈ ಸಾಲಿಗೆ ಹೋಗು…
+    .accesskey = J
