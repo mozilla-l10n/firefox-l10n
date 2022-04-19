@@ -70,6 +70,7 @@ storage-table-headers-cookies-value = Value
 storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = Size
 storage-table-headers-cookies-last-accessed = Last Accessed
+storage-table-headers-cookies-creation-time = Created
 storage-table-headers-cache-status = Status
 storage-table-headers-extension-storage-area = Storage Area
 
@@ -80,6 +81,7 @@ storage-tree-labels-local-storage = Local Storage
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Cache Storage
+storage-tree-labels-extension-storage = Extension Storage
 
 ##
 
