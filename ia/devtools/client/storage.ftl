@@ -74,6 +74,7 @@ storage-table-headers-extension-storage-area = Area archivation
 
 storage-tree-labels-cookies = Cookies
 storage-tree-labels-local-storage = Immagazinage local
+storage-tree-labels-session-storage = Immagazinage de session
 storage-tree-labels-indexed-db = Base de datos indexate
 storage-tree-labels-cache = Immagazinage in cache
 
