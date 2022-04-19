@@ -30,9 +30,15 @@ storage-table-type-extensionstorage-hint = 호스트를 선택하여 확장 기�
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = 항목 필터
+# Placeholder text in the sidebar search box
+storage-variable-view-search-box =
+    .placeholder = 값 필터
 # Add Item button title
 storage-add-button =
     .title = 항목 추가​​
+# Refresh button title
+storage-refresh-button =
+    .title = 항목 새로 고침
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = 모두 삭제
@@ -67,6 +73,8 @@ storage-table-headers-extension-storage-area = 저장 영역
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = 쿠키
+storage-tree-labels-local-storage = 로컬 저장소
+storage-tree-labels-session-storage = 세션 저장소
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = 캐시 저장소
 
