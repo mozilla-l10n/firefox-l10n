@@ -44,6 +44,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = 進階…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">註: 可能需要花上幾分鐘金鑰才能產生完成。</a>金鑰產生過程中，請不要關閉應用程式。持續上網，或進行需要頻繁讀寫磁碟的動作，可重新補充「隨機程度池」以加速金鑰產生。完成後將提示您金鑰已經產生。
+openpgp-key-created-label =
+    .label = 建立於
 openpgp-key-expiry-label =
     .label = 到期日
 openpgp-key-id-label =
@@ -215,6 +217,7 @@ openpgp-key-details-structure-tab =
     .label = 結構
 openpgp-key-details-uid-certified-col =
     .label = 使用者 ID / 認證者
+openpgp-key-details-key-id-label = 金鑰 ID
 openpgp-key-details-user-id2-label = 聲稱的金鑰擁有者
 openpgp-key-details-id-label =
     .label = ID
