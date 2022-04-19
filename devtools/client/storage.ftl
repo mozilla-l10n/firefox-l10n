@@ -81,6 +81,7 @@ storage-tree-labels-local-storage = Local Storage
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = Cache Storage
+storage-tree-labels-extension-storage = Меморија додатка
 
 ##
 
