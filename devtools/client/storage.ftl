@@ -30,6 +30,9 @@ storage-table-type-extensionstorage-hint = 호스트를 선택하여 확장 기�
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = 항목 필터
+# Add Item button title
+storage-add-button =
+    .title = 항목 추가​​
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = 모두 삭제
@@ -41,6 +44,9 @@ storage-context-menu-delete-all-session-cookies =
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = “{ $itemName }” 삭제
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = 항목 추가​​
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
@@ -62,6 +68,14 @@ storage-tree-labels-cache = 캐시 저장소
 
 ##
 
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is closed.
+storage-expand-pane =
+    .title = 창 키우기
+# Tooltip for the button that collapses the right panel in the
+# storage UI when the panel is open.
+storage-collapse-pane =
+    .title = 창 줄이기
 # String displayed in the expires column when the cookie is a Session Cookie
 storage-expires-session = 세션
 # Heading displayed over the item value in the sidebar
