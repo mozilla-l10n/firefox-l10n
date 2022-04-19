@@ -22,3 +22,6 @@ styleeditor-open-link-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵ ᱨᱮ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱢᱮ
 styleeditor-copy-url =
     .label = URL ᱱᱚᱠᱚᱞ‌ ᱢᱮ
+styleeditor-go-to-line =
+    .label = ᱜᱟᱨ ᱨᱮ ᱫᱚᱱ …
+    .accesskey = J
