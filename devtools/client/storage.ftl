@@ -5,6 +5,8 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Key shortcut used to focus the filter box on top of the data view
+storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = אין נתונים קיימים עבור השרת המארח הנבחר
 # Hint shown when the cookies storage type is selected. Clicking the link will open
@@ -34,6 +36,23 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = הוספת פריט
+# Refresh button title
+storage-refresh-button =
+    .title = רענון פריטים
+# Context menu action to delete all storage items
+storage-context-menu-delete-all =
+    .label = מחיקת הכל
+# Context menu action to delete all session cookies
+storage-context-menu-delete-all-session-cookies =
+    .label = מחיקת כל העוגיות מההפעלה
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = העתקה
+# Context menu action to delete storage item
+# Variables:
+#   $itemName (String) - Name of the storage item that will be deleted
+storage-context-menu-delete =
+    .label = מחיקת “{ $itemName }”
 # Context menu action to add an item
 storage-context-menu-add-item =
     .label = הוספת פריט
@@ -49,10 +68,12 @@ storage-context-menu-delete-all-from =
 storage-table-headers-cookies-name = שם
 storage-table-headers-cookies-value = ערך
 storage-table-headers-cache-status = מצב
+storage-table-headers-extension-storage-area = אזור אחסון
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = עוגיות
+storage-tree-labels-local-storage = אחסון מקומי
 storage-tree-labels-session-storage = Session Storage
 storage-tree-labels-indexed-db = Indexed DB
 storage-tree-labels-cache = אחסון מטמון
@@ -73,3 +94,11 @@ storage-expires-session = הפעלה
 storage-data = נתונים
 # Heading displayed over the item parsed value in the sidebar
 storage-parsed-value = ערך מפוענח
+# Warning notification when IndexedDB database could not be deleted immediately.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-blocked = מסד הנתונים “{ $dbName }” יימחק לאחר שכל החיבורים ייסגרו.
+# Error notification when IndexedDB database could not be deleted.
+# Variables:
+#   $dbName (String) - Name of the database
+storage-idb-delete-error = לא ניתן למחוק את מסד הנתונים “{ $dbName }”.
