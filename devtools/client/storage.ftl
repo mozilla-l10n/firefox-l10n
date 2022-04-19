@@ -36,6 +36,9 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Přidat položku
+# Refresh button title
+storage-refresh-button =
+    .title = Obnovit položky
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = Smazat vše
@@ -64,12 +67,20 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Název
 storage-table-headers-cookies-value = Hodnota
+storage-table-headers-cookies-expires = Doba platnosti
+storage-table-headers-cookies-size = Velikost
+storage-table-headers-cookies-last-accessed = Poslední přístup
 storage-table-headers-cache-status = Stav
+storage-table-headers-extension-storage-area = Úložiště
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
 storage-tree-labels-cookies = Cookies
+storage-tree-labels-local-storage = Místní úložiště
 storage-tree-labels-session-storage = Session Storage
+storage-tree-labels-indexed-db = Indexovaná databáze
+storage-tree-labels-cache = Úložiště mezipaměti
+storage-tree-labels-extension-storage = Úložiště pro data rozšíření
 
 ##
 
