@@ -10,11 +10,17 @@ storage-filter-key = CmdOrCtrl+F
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = मान फिल्टर करें
+# Add Item button title
+storage-add-button =
+    .title = वस्तु जोड़ें
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
 storage-context-menu-delete =
     .label = “{ $itemName }” मिटाएँ
+# Context menu action to add an item
+storage-context-menu-add-item =
+    .label = वस्तु जोड़ें
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items
