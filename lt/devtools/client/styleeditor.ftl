@@ -25,3 +25,6 @@ styleeditor-open-link-new-tab =
     .label = Atverti saitą naujoje kortelėje
 styleeditor-copy-url =
     .label = Kopijuoti URL
+styleeditor-go-to-line =
+    .label = Eiti į eilutę…
+    .accesskey = E
