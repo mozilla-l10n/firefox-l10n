@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Ім’я
 storage-table-headers-cookies-value = Значення
+storage-table-headers-cookies-expires = Термін дії / Макс. вік
+storage-table-headers-cookies-size = Розмір
+storage-table-headers-cookies-last-accessed = Останній доступ
+storage-table-headers-cookies-creation-time = Створено
 storage-table-headers-cache-status = Стан
 storage-table-headers-extension-storage-area = Обсяг сховища
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Локальне сховище
 storage-tree-labels-session-storage = Сховище сеансу
 storage-tree-labels-indexed-db = Індексована БД
 storage-tree-labels-cache = Сховище кешу
+storage-tree-labels-extension-storage = Сховище розширення
 
 ##
 
