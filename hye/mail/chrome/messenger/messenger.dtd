@@ -192,9 +192,12 @@
 <!ENTITY sortBySubjectCmd.label "Թեմայ">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Ումից">
+<!ENTITY sortByFromCmd.accesskey "Ու">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
+<!ENTITY sortByRecipientCmd.accesskey "բ">
 <!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
+<!ENTITY sortByUnreadCmd.accesskey "Ը">
 <!ENTITY sortByOrderReceivedCmd.label "Պատուերը ստացուել է">
 <!ENTITY sortAscending.label "Աճող">
 <!ENTITY sortDescending.label "Նուազող">
@@ -827,6 +830,17 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "Գ">
 <!ENTITY EditContact1.label "Խմբագրել կապորդը">
 <!ENTITY EditContact1.accesskey "Խ">
+<!ENTITY ViewContact.label "Նայել կապորդը">
+<!ENTITY SubscribeToNewsgroup.label "Բաժանորդագրուել տեղեկատուախմբին">
+<!ENTITY SubscribeToNewsgroup.accesskey "Տ">
+<!ENTITY SendMessageTo.label "Գրել նամակ">
+<!ENTITY SendMessageTo.accesskey "ս">
+<!ENTITY CopyEmailAddress.label "Պատճէնել ել. հասցէն">
+<!ENTITY CopyEmailAddress.accesskey "Պ">
+<!ENTITY CopyNameAndEmailAddress.label "Պատճէնել անունը եւ էլ. հասցէն">
+<!ENTITY CopyNameAndEmailAddress.accesskey "Ա">
+<!ENTITY CopyNewsgroupName.label "Պատճէնել տեղեկատուախմբի անունը">
+<!ENTITY CopyNewsgroupName.accesskey "Պ">
 
 <!-- Spell checker context menu items -->
 
