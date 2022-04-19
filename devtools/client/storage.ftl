@@ -67,6 +67,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nomo
 storage-table-headers-cookies-value = Valoro
+storage-table-headers-cookies-expires = Senvalidiĝo / Maksimuma daŭro
+storage-table-headers-cookies-size = Grando
+storage-table-headers-cookies-last-accessed = Lasta aliro
+storage-table-headers-cookies-creation-time = Kreita
 storage-table-headers-cache-status = Stato
 storage-table-headers-extension-storage-area = Konserveja spaco
 
@@ -77,6 +81,7 @@ storage-tree-labels-local-storage = Loka konservejo
 storage-tree-labels-session-storage = Seanca konservejo
 storage-tree-labels-indexed-db = Indeksita DB
 storage-tree-labels-cache = Stapla konservejo
+storage-tree-labels-extension-storage = Konservejo por etendaĵoj
 
 ##
 
