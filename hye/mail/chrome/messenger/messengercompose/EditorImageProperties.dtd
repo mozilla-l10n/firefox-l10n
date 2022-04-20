@@ -51,6 +51,7 @@
 <!ENTITY alignment.label "Հաւասարեցնել տեքստը պատկերին">
 <!ENTITY bottomPopup.value "Ներքեւում">
 <!ENTITY topPopup.value "Վերեւում">
+<!ENTITY centerPopup.value "Կենտրոնում">
 
 <!-- These controls are in the Spacing Box -->
 

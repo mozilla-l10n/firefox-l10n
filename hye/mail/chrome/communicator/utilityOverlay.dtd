@@ -18,6 +18,7 @@
 <!ENTITY deleteCmd.label          "Ջնջել">
 <!ENTITY deleteCmd.accesskey        "Ջ">
 <!ENTITY customizeCmd.label "Յարմարեցնել">
+<!ENTITY customizeCmd.accesskey "մ">
 
 <!ENTITY viewMenu.label          "Տեսք">
 <!ENTITY viewMenu.accesskey        "Տ">
@@ -35,4 +36,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "Փ">
 
 <!ENTITY quitApplicationCmdMac.label  "Փակել &brandShortName;-ը">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "Փ">

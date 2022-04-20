@@ -8,7 +8,7 @@
 <!ENTITY newFeedSettings.label         "Սկզբնադիր կարգաւորումներ նոր շղթաների համար">
 
 <!ENTITY manageSubscriptions.label     "Կառավարել բաժանորդագրութիւնները…">
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.accesskey "Կ">
 
 <!ENTITY feedWindowTitle.label         "Սնման հաշուի խորհրդատու">
 <!ENTITY feeds.accountName             "Բլոգեր &amp; Նորութիւններ">

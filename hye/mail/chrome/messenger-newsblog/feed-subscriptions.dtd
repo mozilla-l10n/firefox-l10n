@@ -16,11 +16,15 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Ստուգել թարմացումները իւրաքանչիւր՝">
+<!ENTITY biffStart.accesskey         "լ">
 <!ENTITY biffMinutes.label           "րոպէ">
+<!ENTITY biffMinutes.accesskey       "պ">
 <!ENTITY biffDays.label              "աւրեր">
+<!ENTITY biffDays.accesskey          "աւ">
 <!ENTITY recommendedUnits.label      "Թողարկողը երաշխաւորում է՝">
 
 <!ENTITY quickMode.label             "Ցուցադրել յոդուածի ընդհանուր պատկերը` կայքէջի փոխարէն">
+<!ENTITY quickMode.accesskey         "ց">
 
 <!ENTITY autotagEnable.accesskey     "ա">
 <!ENTITY autotagUsePrefix.accesskey  "Պ">
