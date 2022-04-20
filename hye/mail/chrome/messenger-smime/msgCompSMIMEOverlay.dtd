@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityDoNotEncrypt.label "Չծածկագրել">
-<!ENTITY menu_securityDoNotEncrypt.accesskey "o">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "ա">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
@@ -13,24 +13,22 @@
 -->
 
 <!ENTITY menu_securityEncryptRequire2.label "Թոյղ տալ ծածկագրել">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securityEncryptRequire.accesskey "Ծ">
 
-<!ENTITY menu_securitySign.label "Թուայնապէս ստորագրել այս նամակը">
-<!ENTITY menu_securitySign.accesskey "M">
+<!ENTITY menu_securitySign.label "Թուայնապէս ստորագրել այս հաղորդագրութիւնը">
+<!ENTITY menu_securitySign.accesskey "Հ">
 
-<!ENTITY menu_securityTech.label "Ծածկագրման տեխնոլոգիայ">
-<!ENTITY menu_securityTech.accesskey "T">
+<!ENTITY menu_securityTech.label "Ծածկագրման տեխնողոգիայ">
+<!ENTITY menu_securityTech.accesskey "Տ">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
-<!ENTITY menu_techPGP.accesskey "O">
 <!ENTITY menu_techSMIME.label "S/MIME">
-<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Դիտել տեղեկատուութիւն անվտանգութեան մասին">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.accesskey "Տ">
 
 <!ENTITY securityButton.label "Անվտանգութիւն">
 <!ENTITY securityButton.tooltip "Դիտել կամ փոխել անվտանգութեան կարգաւորումները">
 
 <!ENTITY menu_viewSecurityStatus.label "Հաղորդագրութեան անվտանգութեան տեղեկատուութիւն">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.accesskey "Տ">
