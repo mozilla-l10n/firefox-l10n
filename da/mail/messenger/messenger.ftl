@@ -5,6 +5,14 @@
 
 ## Window controls
 
+messenger-window-minimize-button =
+    .tooltiptext = Minimer
+messenger-window-maximize-button =
+    .tooltiptext = Maksimer
+messenger-window-restore-down-button =
+    .tooltiptext = Gendan fra maksimeret
+messenger-window-close-button =
+    .tooltiptext = Luk
 # Variables:
 # $count (Number) - Number of unread messages.
 unread-messages-os-tooltip =
@@ -165,9 +173,55 @@ decrypt-and-copy-failures = { $failures } af { $total } beskeder kunne ikke dekr
 
 ## Spaces toolbar
 
+spaces-toolbar-button-mail2 =
+    .title = Mail
+spaces-toolbar-button-address-book2 =
+    .title = Adressebog
+spaces-toolbar-button-calendar2 =
+    .title = Kalender
+spaces-toolbar-button-tasks2 =
+    .title = Opgaver
+spaces-toolbar-button-chat2 =
+    .title = Chat
+spaces-toolbar-button-settings2 =
+    .title = Indstillinger
+spaces-context-new-tab-item =
+    .label = Åbn i nyt faneblad
+spaces-context-new-window-item =
+    .label = Åbn nyt vindue
+# Variables:
+# $tabName (String) - The name of the tab this item will switch to.
+spaces-context-switch-tab-item =
+    .label = Skift til { $tabName }
+settings-context-open-settings-item =
+    .label = Åbn Indstillinger
+settings-context-open-account-settings-item =
+    .label = Åbn kontoindstillinger
+settings-context-open-addons-item =
+    .label = Åbn tilføjelser og temaer
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-pinned-button-menuitem-settings =
+    .label = { spaces-toolbar-button-settings2.title }
+spaces-pinned-button-menuitem-show =
+    .label = { spaces-toolbar-button-show.title }
+# Variables:
+# $count (Number) - Number of unread messages.
+chat-button-unread-messages = { $count }
+    .title =
+        { $count ->
+            [one] En ulæst meddelelse
+           *[other] { $count } ulæste meddelelser
+        }
 
 ## Spaces toolbar customize panel
 
+spaces-context-customize =
+    .label = Tilpas…
+spaces-customize-background-color = Baggrundsfarve
+spaces-customize-icon-color = Knapfarve
+spaces-customize-button-restore = Gendan standarder
+    .accesskey = G
+spaces-customize-button-save = Færdig
+    .accesskey = F
