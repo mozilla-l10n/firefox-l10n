@@ -11,11 +11,11 @@
 <!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները այնտեղ, որտեղից պատասխանուել է">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc ել․ փոստի այս հասցէները.">
+<!ENTITY ccAddress.label "Աւելացնել այս եղեկտրոնային հասցեները «Պատճէնացանկում».">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc ել֊փոստի այս հասցէները.">
+<!ENTITY bccAddress.label "Այս եղեկտրոնային հասցեները աւելացնել «Կոյր պատճէնացանկում».">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Առանձնացնել հասցէները ստորակետով">
 <!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահելիս">
