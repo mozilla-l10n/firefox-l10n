@@ -7,3 +7,6 @@
 <!ENTITY windowTitle.label "Տեղադրէք նշան">
 <!ENTITY category.label "Բաժին">
 <!ENTITY letter.label "Նամակ:">
+<!ENTITY letter.accessKey "Ն">
+<!ENTITY character.label "Նշանը.">
+<!ENTITY character.accessKey "Ն">
