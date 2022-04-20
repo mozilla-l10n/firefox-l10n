@@ -170,6 +170,17 @@ menu-open-key-manager =
     .label = Gestor de claves
     .accesskey = G
 openpgp-key-issue-notification-one = Le cryptation de extremo-a-extremo require resolver problemas de clave pro { $addr }
+openpgp-key-issue-notification-many = Le cryptation de extremo-a-extremo require resolver problemas de clave pro le destinatarios de { $count }
+smime-cert-issue-notification-one = Le cryptation de extremo-a-extremo require resolver problemas de certificato pro { $addr }.
+smime-cert-issue-notification-many = Le cryptation de extremo-a-extremo require resolver problemas de certificato pro le destinatarios de { $count }.
+key-notification-disable-encryption =
+    .label = Non cryptar
+    .accesskey = N
+    .tooltiptext = Disactiva le cryptation de extremo-a-extremo
+key-notification-resolve =
+    .label = Resolver…
+    .accesskey = R
+    .tooltiptext = Aperi le assistente del claves OpenPGP
 
 ## Addressing Area
 
