@@ -113,7 +113,7 @@ context-menu-redirect-msg =
 mail-context-delete-messages =
     .label =
         { $count ->
-            [one] Slet besked
+            [one] Slet meddelelse
            *[other] Slet de valgte meddelelser
         }
 context-menu-decrypt-to-folder =
@@ -188,7 +188,7 @@ spaces-toolbar-button-settings2 =
 spaces-context-new-tab-item =
     .label = Åbn i nyt faneblad
 spaces-context-new-window-item =
-    .label = Åbn nyt vindue
+    .label = Åbn i nyt vindue
 # Variables:
 # $tabName (String) - The name of the tab this item will switch to.
 spaces-context-switch-tab-item =
