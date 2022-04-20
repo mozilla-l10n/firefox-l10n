@@ -383,6 +383,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Что { -brand-short-name } должен делать с другими файлами?
+applications-save-for-new-types =
+    .label = Сохранять файлы
+    .accesskey = я
+applications-ask-before-handling =
+    .label = Спрашивать, нужно ли открывать или сохранять файлы
+    .accesskey = ш
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
     .label = Воспроизводить защищённое DRM содержимое
