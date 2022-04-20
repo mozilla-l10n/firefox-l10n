@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Ange standardvärdet för att { -brand-short-n
 policy-OverrideFirstRunPage = Åsidosätt sidan som visas första gången. Sätt denna policy till blankt om du vill inaktivera sidan som visas första gången.
 policy-OverridePostUpdatePage = Åsidosätt sidan "Vad är nytt" efter uppdateringar. Sätt denna policy till blankt om du vill inaktivera sidan efter uppdateringar.
 policy-PasswordManagerEnabled = Aktivera att spara lösenord i lösenordshanteraren.
+policy-PasswordManagerExceptions = Förhindra { -brand-short-name } från att spara lösenord för specifika webbplatser.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Inaktivera eller konfigurera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }
 policy-Permissions2 = Konfigurera behörigheter för kamera, mikrofon, plats, aviseringar och autoplay.
