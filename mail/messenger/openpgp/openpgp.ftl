@@ -349,6 +349,7 @@ key-expired-simple = Nøglen er udløbet
 key-revoked-simple = Nøglen er blevet tilbagekaldt
 key-do-you-accept = Accepterer du, at denne nøgle bruges til verificering af digitale signaturer og kryptering af meddelelser?
 key-accept-warning = Undgå at acceptere en uberegnelig nøgle. Brug en anden kommunikationskanal end mail til at bekræfte fingeraftrykket på din korrespondents nøgle.
+key-verification = Bekræft nøglens fingeraftryk gennem en sikker kommunikationskanal (ikke e-mail) for at sikre dig, at nøglen faktisk tilhører { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kunne ikke sende meddelelsen, fordi der er et problem med din personlige nøgle. { $problem }
 cannot-encrypt-because-missing = Kunne ikke sende denne meddelelse med end to end-kryptering, fordi der er problemer med nøglerne for følgende modtagere: { $problem }
