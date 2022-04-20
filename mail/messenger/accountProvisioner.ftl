@@ -10,7 +10,7 @@ account-provisioner-description = Brug vores betroede partnere til at få en ny 
 account-provisioner-start-help = De anvendte søgetermer sendes til { -vendor-short-name } (<a data-l10n-name="mozilla-privacy-link">privatlivspolitik</a>) og tredjeparts mailudbydere <strong>mailfence.com </strong> (<a data-l10n-name="mailfence-privacy-link">privatlivspolitik</a>, <a data-l10n-name="mailfence-tou-link">betingelser for brug</a >) og <strong>gandi.net</strong> (<a data-l10n-name="gandi-privacy-link">privatlivspolitik</a>, <a data-l10n-name="gandi-tou- link">betingelser for brug</a>) for at finde tilgængelige mailadresser.
 account-provisioner-mail-account-title = Køb en ny mailadresse
 account-provisioner-mail-account-description = Thunderbird samarbejder med <a data-l10n-name="mailfence-home-link">Mailfence</a> for at tilbyde dig en ny privat og sikker mail. Vi mener, at alle skal have en sikker mail.
-account-provisioner-domain-title = Køb en e-mail og dit eget domæne
+account-provisioner-domain-title = Køb en mailadresse og dit eget domæne
 account-provisioner-domain-description = Thunderbird samarbejder med <a data-l10n-name="gandi-home-link">Gandi</a> for at tilbyde dig et tilpasset domæne. Herefter kan du bruge enhver adresse på det pågældende domæne.
 
 ## Forms
@@ -30,7 +30,7 @@ account-provisioner-fetching-provisioners = Henter udbydere...
 account-provisioner-connection-issues = Kunnen ikke kommunikere med vores opsætnings-servere. Kontrollér din forbindelse.
 account-provisioner-searching-email = Søger efter tilgængelige mailkonti...
 account-provisioner-searching-domain = Søger efter tilgængelige domæner...
-account-provisioner-searching-error = Kunne ikke finde nogen adresser at foreslå. Prøv at ændre søgekriterierne.
+account-provisioner-searching-error = Kunne ikke finde nogen adresser at foreslå. Prøv at ændre søgeordene.
 
 ## Illustrations
 

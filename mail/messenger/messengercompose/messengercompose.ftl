@@ -211,8 +211,8 @@ extra-address-rows-menu-button =
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
-        [one] Din meddelelse har en offentlig modtager. Du kan undgå at afsløre modtagere ved at bruge BCC i stedet
-       *[other] Modtagerne { $count } i Til og CC kan se hinandens adresse. Du kan undgå at afsløre modtagere ved at bruge BCC i stedet.
+        [one] Din meddelelse har en offentlig modtager. Du kan undgå at afsløre modtagere ved at bruge Skjult kopi til (BCC) i stedet.
+       *[other] De { $count } modtagere i Til og Kopi til (CC)  kan se hinandens adresse. Du kan undgå at afsløre modtagere ved at bruge Skjult kopi til (BCC) i stedet.
     }
 many-public-recipients-bcc =
     .label = Brug Skjult kopi (Bcc) i stedet
