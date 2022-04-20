@@ -130,6 +130,21 @@ message-to-be-signed-icon =
     .alt = Signar le message
 message-to-be-encrypted-icon =
     .alt = Cryptar le message
+encryption-menu =
+    .label = Securitate
+    .accesskey = c
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Cryptar
+    .accesskey = C
+menu-sign =
+    .label = Signar digitalmente:
+    .accesskey = i
 
 ## Addressing Area
 

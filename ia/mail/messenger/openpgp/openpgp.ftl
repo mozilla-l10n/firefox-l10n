@@ -44,6 +44,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avantiate…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Nota: Le generation de clave pote occupar usque plure minutas pro completar.</a> Non exir del application durante que es in curso le generation del clave. Navigar activemente o exequer operationes intensive pro le disco durante le generation del clave replena le 'piscina aleatori' e accelera le procedura. Tu sera alertate quando generation del clave es completate.
+openpgp-key-created-label =
+    .label = Create
 openpgp-key-expiry-label =
     .label = Date de expiration
 openpgp-key-id-label =
@@ -221,6 +223,7 @@ openpgp-key-details-structure-tab =
     .label = Structura
 openpgp-key-details-uid-certified-col =
     .label = ID usator/Certificate per
+openpgp-key-details-key-id-label = ID de clave
 openpgp-key-details-user-id2-label = Presumite proprietario de clave
 openpgp-key-details-id-label =
     .label = ID
