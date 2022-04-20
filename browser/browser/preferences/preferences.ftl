@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Tge duai { -brand-short-name } far cun autras datotecas?
+applications-save-for-new-types =
+    .label = Memorisar las datotecas
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Dumandar sche avrir u memorisar las datotecas
+    .accesskey = a
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
     .label = Far ir cuntegn controllà da DRM
