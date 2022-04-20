@@ -6,13 +6,13 @@
 <!ENTITY windowTitle.label "Անձնական բառարան">
 
 <!ENTITY wordEditField.label "Նոր բառ.">
-<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.accessKey "Ն">
 <!ENTITY AddButton.label "Աւելացնել">
-<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.accessKey "Ա">
 <!ENTITY DictionaryList.label "Բառեր բառարանում.">
-<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY DictionaryList.accessKey "Բ">
 <!ENTITY RemoveButton.label "Հեռացնել">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "Հ">
 
 <!ENTITY CloseButton.label "Փակել">
-<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.accessKey "Փ">

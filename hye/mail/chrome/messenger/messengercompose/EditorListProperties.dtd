@@ -4,6 +4,7 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Ցանկի յատկութիւնները">
 
 <!ENTITY ListType.label "Ցանկի տեսակ">
 <!ENTITY bulletStyle.label "Կետային ոճով.">
@@ -14,3 +15,6 @@
 <!ENTITY numberList.value "Համարակալուած ցուցակ">
 <!ENTITY definitionList.value "Սահմանման ցուցակ">
 <!ENTITY changeEntireListRadio.label "Փոխել ամբողջ ցուցակը">
+<!ENTITY changeEntireListRadio.accessKey "Փ">
+<!ENTITY changeSelectedRadio.label "Փոփոխել ընտրուած տարրերը">
+<!ENTITY changeSelectedRadio.accessKey "Փ">
