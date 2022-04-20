@@ -307,5 +307,9 @@ cloud-file-upload-error-with-custom-message-title = Uploading af { $filename } t
 # $provider (string) - name of the online storage service that reported the error
 # $filename (string) - name of the file that was renamed and caused the error
 cloud-file-rename-error-title = Omdøbningsfejl
+cloud-file-rename-error = Der opstod et problem ved omdøbningen af { $filename } hos { $provider }.
+# $provider (string) - name of the online storage service that reported the error
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-rename-error-with-custom-message-title = Omdøbning af { $filename } hos { $provider } mislykkedes
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } understøtter ikke omdøbning af filer, der allerede er uploadet.
