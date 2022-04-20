@@ -81,6 +81,10 @@ context-menuitem-attach-files =
     .label = Bifoga fil(er)…
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Mitt vCard
+    .accesskey = C
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -126,6 +130,9 @@ message-to-be-signed-icon =
     .alt = Signera meddelande
 message-to-be-encrypted-icon =
     .alt = Kryptera meddelande
+encryption-menu =
+    .label = Säkerhet
+    .accesskey = S
 
 ## Addressing Area
 
