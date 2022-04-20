@@ -11,3 +11,8 @@
 <!ENTITY numColumnsEditField.label "Սիւներ:">
 <!ENTITY numColumnsEditField.accessKey "Ս">
 <!ENTITY widthEditField.label "Լայնութիւն:">
+<!ENTITY widthEditField.accessKey "Լ">
+<!ENTITY borderEditField.label "Եզրագիծ:">
+<!ENTITY borderEditField.accessKey "Ե">
+<!ENTITY borderEditField.tooltip "Մուտքագրէք համարը եզրի սահմանի համար կամ զրոյ(0)՝ առանց սահմանի">
+<!ENTITY pixels.label "Պատկերատարր">
