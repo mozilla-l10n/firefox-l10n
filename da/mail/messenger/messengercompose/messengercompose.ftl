@@ -157,6 +157,9 @@ menu-sign =
 menu-manage-keys =
     .label = Nøgleassistent
     .accesskey = a
+menu-open-key-manager =
+    .label = Nøgleadministration
+    .accesskey = N
 openpgp-key-issue-notification-one = End-to-end-kryptering kræver, at du løser nøgleproblemer for { $addr }
 openpgp-key-issue-notification-many = End-to-end-kryptering kræver, at du løser nøgleproblemer for { $count } modtagere.
 smime-cert-issue-notification-one = End-to-end-kryptering kræver, at du løser certifikatproblemer for { $addr }.
@@ -293,6 +296,9 @@ cloud-file-unknown-account-tooltip = Uploadet til en ukendt Filelink-konto.
 
 # Placeholder file
 
+# Title for the html placeholder file.
+# $filename - name of the file
+cloud-file-placeholder-title = { $filename } - Filelink-vedhæftning
 # A text describing that the file was attached as a Filelink and can be downloaded
 # from the link shown below.
 # $filename - name of the file
@@ -334,6 +340,7 @@ cloud-file-template-size = Størrelse:
 cloud-file-template-link = Link:
 cloud-file-template-password-protected-link = Adgangskodebeskyttet link:
 cloud-file-template-expiry-date = Udløbsdato:
+cloud-file-template-download-limit = Download-begrænsning:
 
 # Messages
 
@@ -352,3 +359,9 @@ cloud-file-rename-error = Der opstod et problem ved omdøbningen af { $filename 
 cloud-file-rename-error-with-custom-message-title = Omdøbning af { $filename } hos { $provider } mislykkedes
 # $provider (string) - name of the online storage service that reported the error
 cloud-file-rename-not-supported = { $provider } understøtter ikke omdøbning af filer, der allerede er uploadet.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-attachment-error-title = Fejl i Filelink-vedhæftning
+cloud-file-attachment-error = Kunne ikke opdatere Filelink-vedhæftningen { $filename }, fordi den lokale fil er blevet slettet eller flyttet.
+# $filename (string) - name of the file that was renamed and caused the error
+cloud-file-account-error-title = Fejl i Filelink-konto
+cloud-file-account-error = Kunne ikke opdatere Filelink-vedhæftningen { $filename }, fordi dens Filelink-konto er blevet slettet.
