@@ -3,11 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "HTML-ի տէղադրում">
+<!ENTITY windowTitle.label "HTML-ի տեղադրում">
 <!ENTITY sourceEditField.label "Գրէք HTML պիտակ կամ նիւթ:">
 <!ENTITY example.label "Աւրինակ:">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
+<!ENTITY exampleText.label "Բարեւ՜ աշխարհ։">
 <!ENTITY insertButton.label "Տեղադրել">
+<!ENTITY insertButton.accesskey "Տ">
