@@ -52,10 +52,24 @@
 <!ENTITY bottomPopup.value "Ներքեւում">
 <!ENTITY topPopup.value "Վերեւում">
 <!ENTITY centerPopup.value "Կենտրոնում">
+<!ENTITY wrapRightPopup.value "Հաւաքել դէպի աջ">
+<!ENTITY wrapLeftPopup.value "Հաւաքել դէպի ձախ">
 
 <!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Բացատում">
+<!ENTITY leftRightEditField.label "Ձախ եւ աջ․">
+<!ENTITY leftRightEditField.accessKey "Ձ">
+<!ENTITY topBottomEditField.label "Վերին եւ ստորին․">
+<!ENTITY topBottomEditField.accessKey "Վ">
+<!ENTITY borderEditField.label "Յստակ սահման.">
+<!ENTITY borderEditField.accessKey "Ս">
 
 <!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Ցուցադրել սահմանը կցուած պատկերի շուրջ">
+<!ENTITY showImageLinkBorder.accessKey "Ս">
+<!ENTITY LinkAdvancedEditButton.label "Կցել ընդլայնուած խմբագրումը…">
+<!ENTITY LinkAdvancedEditButton.accessKey "Կ">
+<!ENTITY LinkAdvancedEditButton.tooltip "Աւելացնել կամ փոփոխել HTML֊ի, ոճի յատկանիշները եւ JavaScript-ը">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Ձեւ">
