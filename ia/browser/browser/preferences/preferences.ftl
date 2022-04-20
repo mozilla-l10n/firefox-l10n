@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Que debe { -brand-short-name } facer con le  altere files?
+applications-save-for-new-types =
+    .label = Salvar le files
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Demandar si aperir o salvar le files
+    .accesskey = D
 drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
 play-drm-content =
     .label = Presentar contento protegite per DRM

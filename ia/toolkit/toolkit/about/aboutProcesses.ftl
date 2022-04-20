@@ -50,6 +50,7 @@ about-processes-socket-process = Rete ({ $pid })
 about-processes-remote-sandbox-broker-process = Agente de spatio isolate remote ({ $pid })
 about-processes-fork-server-process = Servitor de bifurcation ({ $pid })
 about-processes-preallocated-process = Pre-allocate ({ $pid })
+about-processes-utility-process = Utilitate ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Sub-quadro: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Sub-quadros ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Actor incognite
+about-processes-utility-actor-audio-decoder = Decodificator audio
 
 ## Displaying CPU (percentage and total)
 ## Variables:
