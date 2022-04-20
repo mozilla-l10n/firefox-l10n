@@ -4,6 +4,17 @@
 
 e2e-intro-description = For at sende krypterede eller digitalt signerede meddelelser, skal du konfigurere en krypteringsteknologi, enten OpenPGP eller S/MIME.
 e2e-intro-description-more = Vælg din personlige nøgle for at aktivere brugen af OpenPGP, eller dit personlige certifikat for at aktivere brugen af S/MIME. Du ejer selv den tilsvarende hemmelige nøgle til en personlig nøgle eller et certifikat.
+e2e-signing-description = Med en digital signatur kan modtagere af en meddelelse kontrollere, at meddelelsen kommer fra dig, og at dens indhold ikke er blevet ændret. Krypterede meddelelser er altid signeret.
+e2e-sign-message =
+    .label = Signer ukrypterede meddelelser
+    .accesskey = u
+e2e-disable-enc =
+    .label = Deaktiver kryptering for nye meddelelser
+    .accesskey = D
+e2e-enable-enc =
+    .label = Aktiver kryptering for nye meddelelser
+    .accesskey = A
+e2e-enable-description = Du kan deaktivere kryptering for individuelle meddelelser.
 e2e-advanced-section = Avancerede indstillinger
 e2e-attach-key =
     .label = Vedhæft min offentlige nøgle, når jeg tilføjer en OpenPGP digital signatur
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avanceret…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OBS: Nøglegenerering kan tage flere minutter.</a> Luk ikke programmet mens nøglegenereringen er i gang. Hvis du aktivt browser eller udfører diskintensive operationer, mens nøglegenereringen står på, fylder du ‘tilfældigheds-puljen’ op, hvilket får processen til at gå hurtigere. Du får besked, når nøglen er færdig.
+openpgp-key-created-label =
+    .label = Oprettet
 openpgp-key-expiry-label =
     .label = Udløbsdato
 openpgp-key-id-label =
@@ -221,6 +234,7 @@ openpgp-key-details-structure-tab =
     .label = Struktur
 openpgp-key-details-uid-certified-col =
     .label = Bruger-id / Certificeret af
+openpgp-key-details-key-id-label = Nøgle-ID
 openpgp-key-details-user-id2-label = Angivet nøgleejer
 openpgp-key-details-id-label =
     .label = Id
