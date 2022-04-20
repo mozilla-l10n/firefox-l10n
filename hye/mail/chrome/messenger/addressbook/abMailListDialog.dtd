@@ -15,7 +15,7 @@
 <!ENTITY ListDescription.label          "Նկարագրութիւն. ">
 <!ENTITY ListDescription.accesskey      "D">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Նշէք ել. հասցէներ՝ դրանք նամակների ցանկին աւելացնելու համար․">
+<!ENTITY AddressTitle.label             "Նշէք եղեկտրոնային հասցեներ՝ դրանք հաղորդագրութիւնների ցանկին համալրելու համար․">
 <!ENTITY AddressTitle.accesskey         "m">
 <!ENTITY UpButton.label                 "Տեղաշարժել վերեւ">
 <!ENTITY DownButton.label               "Տեղաշարժել ներքեւ">

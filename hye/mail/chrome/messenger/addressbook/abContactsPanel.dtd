@@ -17,7 +17,7 @@
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label               "Փնտրել կապորդներ:">
 <!ENTITY searchContacts.accesskey           "n">
-<!ENTITY SearchNameOrEmail.label            "Անուն կամ ել․ հասցէ">
+<!ENTITY SearchNameOrEmail.label            "Անուն կամ եղեկտրոնային հասցէ">
 
 <!ENTITY addtoToFieldMenu.label             "Աւելացնել To դաշտում">
 <!ENTITY addtoToFieldMenu.accesskey         "A">

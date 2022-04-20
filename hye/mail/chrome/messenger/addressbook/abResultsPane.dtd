@@ -6,16 +6,15 @@
 <!ENTITY Addrbook.accesskey                    "B">
 <!ENTITY GeneratedName.label                   "Անուն">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Էլ֊փոստ">
-<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY PrimaryEmail.label                    "Եղեկտրոնային հասցէ">
+<!ENTITY PrimaryEmail.accesskey                "Ե">
 <!ENTITY Company.label                         "Կազմակերպութիւն">
 <!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Հնչիւնային անուն">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Մականուն">
 <!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "Լրացուցիչ ել-հասցէ">
-<!ENTITY SecondEmail.accesskey                 "I">
+<!ENTITY SecondEmail.label                     "Լրացուցիչ եղեկտրոնային հասցէ">
 <!ENTITY Department.label                      "Բաժին">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Վերնագիր">

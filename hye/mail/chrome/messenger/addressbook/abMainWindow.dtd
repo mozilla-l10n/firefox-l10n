@@ -149,8 +149,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY removeButton.tooltip                           "Հերացնել տուեալ հասցէների գիրքը">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Անուն կամ ել․ փոստ">
-<!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY SearchNameOrEmail.label                        "Անուն կամ եղեկտրոնային հասցէ">
+<!ENTITY SearchNameOrEmail.accesskey                    "Ա">
 <!ENTITY advancedButton.tooltip                         "Բարելաւուած հասցէների որոնում">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Արագ որոնում">
@@ -160,16 +160,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "Անուն">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Ել․ փոստ">
-<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY PrimaryEmail.label                             "Եղեկտրոնային հասցէ">
+<!ENTITY PrimaryEmail.accesskey                         "Ե">
 <!ENTITY ChatName.label                                 "Զրուցարանի անուն">
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Կազմակերպութիւն">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Մականուն">
 <!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Լրացուցիչ ել․ փոստ">
-<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY SecondEmail.label                              "Լրացուցիչ եղեկտրոնային հասցէ">
 <!ENTITY Department.label                               "Բաժին">
 <!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "Վերնագիր">
