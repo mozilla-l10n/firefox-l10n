@@ -52,4 +52,4 @@ account-provisioner-free-account = Fergees
 account-provision-price-per-year = { $price } yn it jier
 account-provisioner-all-results-button = Alle resultaten toane
 account-provisioner-open-in-tab-img =
-    .title = Iepenet yn in nije ljepblêd
+    .title = Iepenet yn in nij ljepblêd
