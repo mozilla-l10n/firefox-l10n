@@ -11,8 +11,8 @@
 <!ENTITY identityDesc.label "Յուրաքանչիւր հաշիւ ունի իր ինքնութիւնը։ Դա այն տեղեկութիւնն է, որ այղ մարդիկ տեսնում են ընթերցելով Ձեր նամակները։">
 <!ENTITY name.label "Ձեր անունը.">
 <!ENTITY name.accesskey "Y">
-<!ENTITY email.label "էլ֊հասցէ.">
-<!ENTITY email.accesskey "E">
+<!ENTITY email.label "Եղեկտրոնային հասցէ․">
+<!ENTITY email.accesskey "Ե">
 <!ENTITY catchAll.label "Պատասխանէք այս ինքնութիւնից, երբ ստացած էջագլուխները համընկնում են.">
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Պատասխանել հասցէին.">

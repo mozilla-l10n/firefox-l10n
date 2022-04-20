@@ -6,16 +6,18 @@
 ">
 <!ENTITY e2eLearnMore.label "Իմանալ աւելին">
 
-<!ENTITY e2eEnc.description "Առանց հաղորդագրութիւնների ծայրեծայր գաղտնագրման, բովանդակութիւնը հեշտութեամբ ենթարկուում է Ձեր ել․փոստի մատակարարին եւ զանգուածային վերահսկողութեանը:">
+<!ENTITY e2eEnc.description "Առանց հաղորդագրութիւնների ծայրեծայր գաղտնագրման, բովանդակութիւնը կարող է հեշտութեամբ հասնել Ձեր եղեկտրոնային հասցէի մատակարարին եւ զանգուածային վերահսկողութեանը:">
 <!ENTITY e2eeReqWarning.description "Եթե Դուք պահանջում էք գաղտնանգրում, հաղորդագրութիւն ուղարկելու համար, Դուք պէտք է ունենաք հանրային բանալի կամ վկայագիր ամէն ստացողի համար:">
 
 <!ENTITY e2eSigning.description "Թուային ստորագրութիւնը, ստացողներին թոյլ է տալիս ստուգել Ձեր կողմից ուղարկուած հաղորդագրութիւնը, եւ որ բովանդակությունը չի փոխուել:">
+
 <!ENTITY e2eTechPref.description "Նախընտրելի գաղտնագրման տեխնոլոգիայ">
 
 <!ENTITY doNotEncrypt.label "Մի միացրէք սկզբնադիր գաղտնագրումը։">
 <!ENTITY doNotEncrypt.accesskey "N">
 <!ENTITY requireEncryptMessage.label "Սկզբնադիր պահանջուում է ծածկագրում">
 <!ENTITY requireEncryptMessage.accesskey "u">
+
 <!ENTITY encryptionCert2.message "Անձնական վկայագիր գաղտնագրման համար.">
 <!ENTITY digitalSign.certificate.button "Նշել…">
 <!ENTITY digitalSign.certificate.accesskey "S">
