@@ -190,6 +190,9 @@ autoscroll-label =
 smooth-scrolling-label =
     .label = Brug blød scrolling
     .accesskey = r
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Vis altid rullebjælker
+    .accesskey = u
 system-integration-legend = Systemintegration
 always-check-default =
     .label = Undersøg altid om { -brand-short-name } er standardmailprogrammet, når det startes
@@ -704,5 +707,11 @@ search-results-empty-message =
     { PLATFORM() ->
         [windows] Beklager! Der er ingen resultater for "<span data-l10n-name="query"></span>" i Indstillingerne.
        *[other] Beklager! Der er ingen resultater for "<span data-l10n-name="query"></span>" i Indstillingerne.
+    }
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 =
+    { PLATFORM() ->
+        [windows] Beklager, der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
+       *[other] Beklager, der er ingen resultater for "<span data-l10n-name="query"></span>" i indstillingerne.
     }
 search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url">Hjælp til { -brand-short-name }</a>
