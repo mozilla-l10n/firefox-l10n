@@ -50,6 +50,7 @@ about-processes-socket-process = Sarea ({ $pid })
 about-processes-remote-sandbox-broker-process = Urruneko isolamenduko artekaria ({ $pid })
 about-processes-fork-server-process = Fork zerbitzaria ({ $pid })
 about-processes-preallocated-process = Aurrez esleitutakoa ({ $pid })
+about-processes-utility-process = Utilitatea ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Azpimarkoa: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Azpimarkoak ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Aktore ezezaguna
+about-processes-utility-actor-audio-decoder = Audio deskodetzailea
 
 ## Displaying CPU (percentage and total)
 ## Variables:
