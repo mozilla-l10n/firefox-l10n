@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Аз тарафи { -brand-short-name } бо файлҳои дигар чӣ бояд кард?
+applications-save-for-new-types =
+    .label = Файлҳо нигоҳ дошта мешаванд
+    .accesskey = Ф
+applications-ask-before-handling =
+    .label = Намоиши дархост барои кушодан ё нигоҳ доштани файлҳо
+    .accesskey = Н
 drm-content-header = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 play-drm-content =
     .label = Пахш кардани муҳтавои идорашавандаи DRM
