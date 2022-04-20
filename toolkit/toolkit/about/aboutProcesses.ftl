@@ -50,6 +50,7 @@ about-processes-socket-process = Nätverk ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Forkserver ({ $pid })
 about-processes-preallocated-process = Förallokerad ({ $pid })
+about-processes-utility-process = Verktyg ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Underram: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Underramar ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Okänd aktör
+about-processes-utility-actor-audio-decoder = Ljudavkodare
 
 ## Displaying CPU (percentage and total)
 ## Variables:
