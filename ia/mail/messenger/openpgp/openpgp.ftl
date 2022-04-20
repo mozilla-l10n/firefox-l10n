@@ -4,6 +4,7 @@
 
 e2e-intro-description = Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.
 e2e-intro-description-more = Elige tu clave personal pro activar le uso de OpenPGP o tu certificato personal pro activar le uso de S/MIME. Pro un clave personal o un certificato tu debe haber le correspondente clave secrete.
+e2e-signing-description = Un firma digital permitte al destinatarios de verificar que le message era inviate per te e su contento non era cambiate. Le messages cryptate es sempre signate de ordinario.
 e2e-advanced-section = Parametros avantiate
 e2e-attach-key =
     .label = Attaccar mi clave public al addition de un firma digital OpenPGP
