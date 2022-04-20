@@ -13,8 +13,8 @@
 <!ENTITY accountTypeTitle.label "Նոր հաշուի տեղակայում">
 <!ENTITY accountTypeDesc2.label "Խորհրդատուն կը հաւաքի անհրաժեշտ տեղեկատուութիւնը՝ հաշիւ ստեղծելու համար։ Եթե չգիտէք, թե ինչ տեղեկութիւններ են պահանջուում՝ կապնուէք համակարգավարի կամ համացանցի ծառայութիւնների մատակարարի հետ։">
 <!ENTITY accountTypeDirections.label "Ընտրէք հաշուի տեսակը.">
-<!ENTITY accountTypeMail.label "Էլ֊փոստի հաշիւ">
-<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeMail.label "Եղեկտրոնային հասցէի հաշիւ">
+<!ENTITY accountTypeMail.accesskey "հ">
 <!ENTITY accountTypeNews.label "Տեղեկատուական հաշիւ">
 <!ENTITY accountTypeNews.accesskey "w">
 
@@ -33,8 +33,8 @@
 <!ENTITY fullnameLabel.label "Ձեր անունը.">
 <!ENTITY fullnameLabel.accesskey "Y">
 
-<!ENTITY emailLabel.label "ել֊փոստի հասցէ․">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.label "Եղեկտրոնային հասցէ․">
+<!ENTITY emailLabel.accesskey "Ե">
 
 <!-- Entities for Incoming Server page -->
 
@@ -57,7 +57,7 @@
 <!ENTITY incomingServer.label "Մուտքային սպասարկիչ.">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Նշէք աւգտուողի մուտքային անունը, ինչպէս որ այն տրուել է էլ. փոստի մատակարարի կողմից (աւրինակ՝  &quot;jsmith&quot;)։">
+<!ENTITY incomingUsername.description "Նշէք աւգտուողի մուտքային անունը, ինչպէս որ այն տրուել է եղեկտրոնային հասցէի մատակարարի կողմից (աւրինակ՝  &quot;jsmith&quot;)։">
 <!ENTITY incomingUsername.label "Աւգտանուն.">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
