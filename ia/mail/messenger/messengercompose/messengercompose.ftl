@@ -85,6 +85,9 @@ context-menuitem-attach-files =
 context-menuitem-attach-vcard =
     .label = Mi vCard
     .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Mi clave public OpenPGP
+    .accesskey = c
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -133,6 +136,9 @@ message-to-be-encrypted-icon =
 encryption-menu =
     .label = Securitate
     .accesskey = c
+encryption-toggle =
+    .label = Cryptar
+    .tooltiptext = Usa cryptation de extremo-a-extremo pro iste message
 menu-openpgp =
     .label = OpenPGP
     .accesskey = O
