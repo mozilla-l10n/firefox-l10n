@@ -10,3 +10,10 @@
 <!ENTITY letter.accessKey "Ն">
 <!ENTITY character.label "Նշանը.">
 <!ENTITY character.accessKey "Ն">
+<!ENTITY accentUpper.label "Ընդգծուած մեծատառեր">
+<!ENTITY accentLower.label "Ընդգծուած փոքրատառեր">
+<!ENTITY otherUpper.label "Այղ մեծատառեր">
+<!ENTITY otherLower.label "Այղ փոքրատառեր">
+<!ENTITY commonSymbols.label "Կրկնուող նշաններ">
+<!ENTITY insertButton.label "Տեղադրել">
+<!ENTITY closeButton.label "Փակել">
