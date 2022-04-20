@@ -173,6 +173,10 @@ decrypt-and-copy-failures = { $failures } af { $total } beskeder kunne ikke dekr
 
 ## Spaces toolbar
 
+spaces-toolbar-element =
+    .toolbarname = Værktøjslinjen Områder
+    .aria-label = Værktøjslinjen Områder
+    .aria-description = Lodret værktøjslinje, hvorfra du kan skifte imellem forskellige området af programmet. Brug piletasterne for at navigerer imellem knapperne.
 spaces-toolbar-button-mail2 =
     .title = Mail
 spaces-toolbar-button-address-book2 =
@@ -183,8 +187,14 @@ spaces-toolbar-button-tasks2 =
     .title = Opgaver
 spaces-toolbar-button-chat2 =
     .title = Chat
+spaces-toolbar-button-overflow =
+    .title = Flere områder...
 spaces-toolbar-button-settings2 =
     .title = Indstillinger
+spaces-toolbar-button-hide =
+    .title = Skjul værktøjslinjen Områder
+spaces-toolbar-button-show =
+    .title = Vis værktøjslinjen Områder
 spaces-context-new-tab-item =
     .label = Åbn i nyt faneblad
 spaces-context-new-window-item =
@@ -202,6 +212,8 @@ settings-context-open-addons-item =
 
 ## Spaces toolbar pinned tab menupopup
 
+spaces-toolbar-pinned-tab-button =
+    .tooltiptext = Menuen Områder
 spaces-pinned-button-menuitem-mail =
     .label = { spaces-toolbar-button-mail2.title }
 spaces-pinned-button-menuitem-address-book =
@@ -229,8 +241,15 @@ chat-button-unread-messages = { $count }
 
 spaces-context-customize =
     .label = Tilpas…
+spaces-customize-panel-title = Indstillinger for værktøjslinjen Områder
 spaces-customize-background-color = Baggrundsfarve
 spaces-customize-icon-color = Knapfarve
+# The background color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-background-color = Baggrundsfarve for markeret knap
+# The icon color used on the buttons of the spaces toolbar when they are
+# `current`, meaning the related space/tab is active and visible.
+spaces-customize-accent-text-color = Farve for markeret knap
 spaces-customize-button-restore = Gendan standarder
     .accesskey = G
 spaces-customize-button-save = Færdig

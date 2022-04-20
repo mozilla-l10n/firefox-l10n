@@ -56,7 +56,12 @@ addr-book-import-into-new-directory = Opret en ny mappe
 
 ## Import from address book file steps
 
+import-from-calendar-file-desc = Vælg den iCalendar (.ics)-fil, du ønsker at importere.
 calendar-items-loading = Indlæser elementer…
+calendar-items-filter-input =
+    .placeholder = Filtrer elementer...
+calendar-select-all-items = Vælg alle
+calendar-deselect-all-items = Fravælg alle
 calendar-import-into-new-calendar = Opret en ny kalender
 
 ## Import dialog
@@ -69,6 +74,7 @@ error-pane-title = Fejl
 error-message-zip-file-too-big = Den valgte ZIP-komprimerede fil er større end 2GB. Udpak først filen, og importer derefter fra den udpakkede mappe i stedet.
 error-message-extract-zip-file-failed = Kunne ikke udpakke den ZIP-komprimerede fil. Udpak filen manuelt, og importer derefter fra den udpakkede mappe i stedet.
 error-message-failed = Importen mislykkedes uventet. Flere oplysninger er muligvis tilgængelige i fejlkonsollen.
+error-failed-to-parse-ics-file = Fandt ingen elementer at importere i filen.
 error-export-failed = Eksporten mislykkedes uventet. Flere oplysninger er muligvis tilgængelige i fejlkonsollen.
 
 ## <csv-field-map> element
