@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Zer egin behar du { -brand-short-name }(e)k beste fitxategiekin?
+applications-save-for-new-types =
+    .label = Gorde fitxategiak
+    .accesskey = G
+applications-ask-before-handling =
+    .label = Galdetu fitxategiak irekitzea edo gordetzea
+    .accesskey = a
 drm-content-header = DRM edukia
 play-drm-content =
     .label = Erreproduzitu DRM bidez kontrolatutako edukia
