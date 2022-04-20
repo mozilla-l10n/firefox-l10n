@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Նշէք ելքային սպասարկիչի անունը (SMTP) (աւրինակ՝ &quot;smtp.example.net&quot;)։">
 <!ENTITY outgoingServer.label "Ելքային սպասարկիչ.">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Մուտքագրէք Ձեր էլ․ փոստի մատակարարի կողմից Ձեզ տրուած ելքային աւգտվողի անունը (դա սովորաբար նոյնն է, ինչ Ձեր մուտքային օգտուողի անունը): ">
+<!ENTITY outgoingUsername.description "Մուտքագրէք Ձեր եղեկտրոնային հասցէի մատակարարի կողմից Ձեզ տրուած ելքային աւգտվողի անունը (դա սովորաբար նոյնն է, ինչ Ձեր մուտքային աւգտուողի անունը):">
 <!ENTITY outgoingUsername.label "Ելքային աւգտանունը.">
 <!ENTITY outgoingUsername.accesskey "U">
 

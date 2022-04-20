@@ -36,10 +36,9 @@
 <!ENTITY NickName.label                 "Մականուն․">
 <!ENTITY NickName.accesskey             "Կ">
 
-<!ENTITY PrimaryEmail.label             "Ել․ փոստ․">
-<!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Լրացուցիչ ել․ հասցէ․">
-<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PrimaryEmail.label             "Եղեկտրոնային հասցէ․">
+<!ENTITY PrimaryEmail.accesskey         "Ե">
+<!ENTITY SecondEmail.label              "Լրացուցիչ եղեկտրոնային հասցէ․">
 <!ENTITY PreferMailFormat.label         "Նախընտրում է ստանալ հաղորդագրութիւնները ձեւաչափուած որպէս՝">
 <!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "Պարզ գրուածք">
