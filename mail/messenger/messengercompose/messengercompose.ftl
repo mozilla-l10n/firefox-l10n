@@ -157,6 +157,14 @@ menu-sign =
 menu-manage-keys =
     .label = Nøgleassistent
     .accesskey = a
+openpgp-key-issue-notification-one = End-to-end-kryptering kræver, at du løser nøgleproblemer for { $addr }
+openpgp-key-issue-notification-many = End-to-end-kryptering kræver, at du løser nøgleproblemer for { $count } modtagere.
+smime-cert-issue-notification-one = End-to-end-kryptering kræver, at du løser certifikatproblemer for { $addr }.
+smime-cert-issue-notification-many = End-to-end-kryptering kræver, at du løser certifikatproblemer for { $count } modtagere.
+key-notification-disable-encryption =
+    .label = Krypter ikke
+    .accesskey = i
+    .tooltiptext = Fravælg end to end-kryptering
 
 ## Addressing Area
 
