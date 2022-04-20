@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Vedhæft fil(er)…
     .accesskey = V
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Mit vCard
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Min offentlige OpenPGP-nøgle
+    .accesskey = n
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -126,6 +133,12 @@ message-to-be-signed-icon =
     .alt = Underskriv meddelelse digitalt
 message-to-be-encrypted-icon =
     .alt = Krypter meddelelse
+encryption-menu =
+    .label = Sikkerhed
+    .accesskey = k
+menu-encrypt =
+    .label = Krypter
+    .accesskey = K
 
 ## Addressing Area
 
