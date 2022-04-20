@@ -136,9 +136,27 @@ message-to-be-encrypted-icon =
 encryption-menu =
     .label = Sikkerhed
     .accesskey = k
+encryption-toggle =
+    .label = Krypter
+    .tooltiptext = Brug end to end-kryptering på denne meddelelse
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
 menu-encrypt =
     .label = Krypter
     .accesskey = K
+menu-encrypt-subject =
+    .label = Krypter emnelinje
+    .accesskey = e
+menu-sign =
+    .label = Underskriv digitalt
+    .accesskey = u
+menu-manage-keys =
+    .label = Nøgleassistent
+    .accesskey = a
 
 ## Addressing Area
 
