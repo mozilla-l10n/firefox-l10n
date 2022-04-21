@@ -8,6 +8,59 @@
 <!ENTITY closeButton.label                "Փակել">
 <!ENTITY tableTab.label                   "Աղիւսակ">
 <!ENTITY cellTab.label                    "Վանդակներ">
+<!ENTITY tableRows.label                  "Տողեր:">
+<!ENTITY tableRows.accessKey              "Տ">
+<!ENTITY tableColumns.label               "Սիւներ.">
+<!ENTITY tableColumns.accessKey           "Ս">
+<!ENTITY tableHeight.label                "Բարձրութիւն.">
+<!ENTITY tableHeight.accessKey            "Բ">
+<!ENTITY tableWidth.label                 "Լայնութիւն․">
+<!ENTITY tableWidth.accessKey             "Լ">
+<!ENTITY tableBorderSpacing.label         "Եզրագծերը եւ բացատները">
+<!ENTITY tableBorderWidth.label           "Եզրագիծ.">
+<!ENTITY tableBorderWidth.accessKey       "Ե">
+<!ENTITY tableSpacing.label               "Բացատում.">
+<!ENTITY tableSpacing.accessKey           "Բ">
+<!ENTITY tablePadding.label               "Լրացում.">
+<!ENTITY tablePadding.accessKey           "Լ">
+<!ENTITY tablePxBetwCells.label           "վանդակների միջեւ պատկերատարրեր">
+<!ENTITY tablePxBetwBrdrCellContent.label "վանդակների եւ եզրագծերի միջեւ պատկերատարրեր">
+<!ENTITY tableAlignment.label             "Աղիւսակի հաւասարեցում.">
+<!ENTITY tableAlignment.accessKey         "Ա">
+<!ENTITY tableCaption.label               "Գլխագիր․">
+<!ENTITY tableCaption.accessKey           "Գ">
+<!ENTITY tableCaptionAbove.label          "Աղիւսակից վեր">
+<!ENTITY tableCaptionBelow.label          "Աղիւսակից վար">
+<!ENTITY tableCaptionLeft.label           "Աղիւսակից ձախ">
+<!ENTITY tableCaptionRight.label          "Աղիւսակից աջ">
+<!ENTITY tableCaptionNone.label           "Չկայ">
+<!ENTITY tableInheritColor.label           "(Թոյղատրել էջի գոյնի ցուցադրումը)">
 
+<!ENTITY cellSelection.label              "Ընտրութիւն">
+<!ENTITY cellSelectCell.label             "Վանդակ">
+<!ENTITY cellSelectRow.label              "Գիծ">
+<!ENTITY cellSelectColumn.label           "Սիւն">
+<!ENTITY cellSelectNext.label             "Յաջորդը">
+<!ENTITY cellSelectNext.accessKey         "Յ">
+<!ENTITY cellSelectPrevious.label         "Նախորդը">
+<!ENTITY cellSelectPrevious.accessKey     "Ն">
+<!ENTITY applyBeforeChange.label          "Ներկայ փոփոխութիւնները կը կիրառուեն նախքան ընտրութիւնների փոփոխուելը։">
+<!ENTITY cellContentAlignment.label       "Բովանդակութեան hաւասարեցում">
+<!ENTITY cellHorizontal.label             "Հորիզոնական.">
+<!ENTITY cellHorizontal.accessKey         "Զ">
+<!ENTITY cellVertical.label               "Ուղղահայեաց.">
+<!ENTITY cellVertical.accessKey           "Ու">
+<!ENTITY cellStyle.label                  "Վանդակի ոճը.">
+<!ENTITY cellStyle.accessKey              "Վ">
+<!ENTITY cellNormal.label                 "Սովորական">
+<!ENTITY cellHeader.label                 "Վերնագիր">
+<!ENTITY cellTextWrap.label               "Տեքստի պտտում.">
+<!ENTITY cellTextWrap.accessKey           "Տ">
+<!ENTITY cellWrap.label                   "Պտտում">
+<!ENTITY cellNoWrap.label                 "Չպտտել">
+<!ENTITY cellAlignTop.label               "Վերեւում">
+<!ENTITY cellAlignMiddle.label            "Մէջտեղում">
+<!ENTITY cellAlignBottom.label            "Ներքեւում">
+<!ENTITY cellAlignJustify.label           "Հաւասարեցում">
 
 <!-- Used in both Table and Cell panels  -->
