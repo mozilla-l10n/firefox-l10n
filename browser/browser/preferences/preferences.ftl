@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Wie soll { -brand-short-name } mit anderen Dateien verfahren?
+applications-save-for-new-types =
+    .label = Dateien speichern
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Fragen, ob Dateien geöffnet oder gespeichert werden sollen
+    .accesskey = F
 drm-content-header = Inhalte mit DRM-Kopierschutz
 play-drm-content =
     .label = Inhalte mit DRM-Kopierschutz wiedergeben
