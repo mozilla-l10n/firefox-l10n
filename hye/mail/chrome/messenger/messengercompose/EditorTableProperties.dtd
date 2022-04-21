@@ -62,5 +62,14 @@
 <!ENTITY cellAlignMiddle.label            "Մէջտեղում">
 <!ENTITY cellAlignBottom.label            "Ներքեւում">
 <!ENTITY cellAlignJustify.label           "Հաւասարեցում">
+<!ENTITY cellInheritColor.label           "(Ցուցադրել աղիւսակի գոյնը)">
+<!ENTITY cellUseCheckboxHelp.label        "Աւգտագործել ընտրադաշտերը՝ որոշելու համար յատկութիւնների կիրառումը ընտրուած վանդակներում">
 
 <!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Չափ">
+<!ENTITY pixels.label                     "պատկերատարրեր">
+<!ENTITY backgroundColor.label            "Յետամասի գոյն․">
+<!ENTITY backgroundColor.accessKey        "Յ">
+<!ENTITY AlignLeft.label                  "Դէպի ձախ">
+<!ENTITY AlignCenter.label                "Կենտրոնում">
+<!ENTITY AlignRight.label                 "Դէպի աջ">
