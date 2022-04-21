@@ -4,6 +4,7 @@
 
 e2e-intro-description = 若要发送经加密或数字签名的消息，需配置 OpenPGP 或 S/MIME 加密技术。
 e2e-intro-description-more = 请选择您要用于 OpenPGP 的个人密钥，或用于 S/MIME 的个人证书。无论是个人密钥或是证书，您都会有对应的私钥。
+e2e-signing-description = 数字签名可让收件人确认消息是您本人发送的，且内容未经窜改。加密消息默认启用数字签名。
 e2e-sign-message =
     .label = 签名未加密消息
     .accesskey = u
@@ -338,6 +339,7 @@ key-expired-simple = 密钥已过期
 key-revoked-simple = 密钥已被吊销
 key-do-you-accept = 您要接受将此密钥用于验证数字签名与加密消息吗？
 key-accept-warning = 请先使用电子邮件之外的通信渠道验证对方的密钥指纹，避免接受恶意密钥。
+key-verification = 请使用电子邮件以外的安全通信方式验证密钥指纹，以保证其确为 { $addr } 的密钥。
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = 您的个人密钥有问题，无法发送消息。{ $problem }
 cannot-encrypt-because-missing = 由于下列收件人的密钥有问题，无法用端到端加密的方式发送此消息：{ $problem }
