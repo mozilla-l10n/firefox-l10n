@@ -14,6 +14,7 @@ e2e-disable-enc =
 e2e-enable-enc =
     .label = 为新消息启用加密
     .accesskey = n
+e2e-enable-description = 您仍可禁用特定消息的加密。
 e2e-advanced-section = 高级设置
 e2e-attach-key =
     .label = 添加 OpenPGP 数字签名时也附加我的公钥
