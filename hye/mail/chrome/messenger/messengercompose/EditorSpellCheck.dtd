@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Ստուգել ուղղագրութիւնը">
+
+<!ENTITY misspelledWord.label "Սխալ գրուած բառ․">
+<!ENTITY wordEditField.label "Փոխարինել․">
+<!ENTITY wordEditField.accessKey "փ">
+<!ENTITY checkwordButton.label "Ստուգել բառը">
+<!ENTITY checkwordButton.accessKey "լ">
+<!ENTITY suggestions.label "Առաջարկութիւններ․">
+<!ENTITY suggestions.accessKey "ա">
+<!ENTITY ignoreButton.label "Արհամարհել">
+<!ENTITY ignoreButton.accessKey "Ա">
+<!ENTITY ignoreAllButton.label "Անտեսել բոլորը">
+<!ENTITY ignoreAllButton.accessKey "տ">
+<!ENTITY replaceButton.label "Փոխարինել">
+<!ENTITY replaceButton.accessKey "Փ">
+<!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
+<!ENTITY replaceAllButton.accessKey "Բ">
+<!ENTITY stopButton.label "Կանգնեցնել">
+<!ENTITY stopButton.accessKey "գ">
+<!ENTITY userDictionary.label "Անձնական բառարան.">
+<!ENTITY moreDictionaries.label "Ներբեռնել աւել բառարաններ…">
+<!ENTITY addToUserDictionaryButton.label "Աւելացնել բառ">
+<!ENTITY addToUserDictionaryButton.accessKey "ա">
+<!ENTITY editUserDictionaryButton.label "Խմբագրել...">
+<!ENTITY editUserDictionaryButton.accessKey "Խ">

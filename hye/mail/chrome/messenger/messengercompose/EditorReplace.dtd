@@ -8,3 +8,20 @@
 <!ENTITY findField.label "Փնտրել գրոյթը.">
 <!ENTITY findField.accesskey "ն">
 <!ENTITY replaceField.label "Փոխարինել՝">
+<!ENTITY replaceField.accesskey "խ">
+<!ENTITY caseSensitiveCheckbox.label "Ըստ համընկման">
+<!ENTITY caseSensitiveCheckbox.accesskey "Հ">
+<!ENTITY wrapCheckbox.label "Տողադարձել">
+<!ENTITY wrapCheckbox.accesskey "Տ">
+<!ENTITY backwardsCheckbox.label "Որոնել յետադարձները">
+<!ENTITY backwardsCheckbox.accesskey "յ">
+<!ENTITY findNextButton.label "Գտնել յաջորդը">
+<!ENTITY findNextButton.accesskey "Գ">
+<!ENTITY replaceButton.label "Փոխարինել">
+<!ENTITY replaceButton.accesskey "Փ">
+<!ENTITY replaceAndFindButton.label "Փոխարինել եւ գտնել">
+<!ENTITY replaceAndFindButton.accesskey "լ">
+<!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
+<!ENTITY replaceAllButton.accesskey "Բ">
+<!ENTITY closeButton.label "Փակել">
+<!ENTITY closeButton.accesskey "Փ">
