@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Σενάρια &amp; αρθρώματα">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Σενάρια">
+
 <!ENTITY navigator.label                 "Πρόγραμμα περιήγησης">
 <!ENTITY navigator.accesskey             "Π">
 

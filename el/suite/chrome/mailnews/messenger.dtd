@@ -317,8 +317,16 @@
 <!ENTITY editMsgAsNewCmd.accesskey "Ε">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "Επεξεργασία ως νέο μήνυμα">
+<!ENTITY editAsNewMsgCmd.accesskey "μ">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
+<!ENTITY editDraftMsgCmd.accesskey "χ">
+<!ENTITY editTemplateMsgCmd.label "Επεξεργασία προτύπου">
+<!ENTITY editTemplateMsgCmd.accesskey "π">
+<!ENTITY newMsgFromTemplateCmd.label "Νέο μήνυμα από πρότυπο">
 <!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
      Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Δημιουργία φίλτρου από μήνυμα…">
 <!ENTITY createFilter.accesskey "φ">
 <!ENTITY archiveMsgCmd.label "Αρχειοθέτηση">
@@ -473,7 +481,11 @@
 <!ENTITY contextOpenNewTab.accesskey "κ">
 <!ENTITY contextEditAsNew.label "Επεξεργασία ως νέο…">
 <!ENTITY contextEditAsNew.accesskey "Ε">
+<!ENTITY contextEditMsgAsNew.label "Επεξεργασία ως νέο μήνυμα">
+<!ENTITY contextEditMsgAsNew.accesskey "Ε">
+<!ENTITY contextEditDraftMsg.label "Επεξεργασία πρόχειρου μηνύματος">
 <!ENTITY contextEditTemplate.label "Επεξεργασία προτύπου">
+<!ENTITY contextEditTemplate.accesskey "π">
 <!ENTITY contextNewMsgFromTemplate.label "Νέο μήνυμα από πρότυπο">
 <!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
 <!ENTITY contextReplySender.accesskey "ο">
