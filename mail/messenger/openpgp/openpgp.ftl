@@ -4,6 +4,15 @@
 
 e2e-intro-description = 若要发送经加密或数字签名的消息，需配置 OpenPGP 或 S/MIME 加密技术。
 e2e-intro-description-more = 请选择您要用于 OpenPGP 的个人密钥，或用于 S/MIME 的个人证书。无论是个人密钥或是证书，您都会有对应的私钥。
+e2e-sign-message =
+    .label = 签名未加密消息
+    .accesskey = u
+e2e-disable-enc =
+    .label = 为新消息禁用加密
+    .accesskey = D
+e2e-enable-enc =
+    .label = 为新消息启用加密
+    .accesskey = n
 e2e-advanced-section = 高级设置
 e2e-attach-key =
     .label = 添加 OpenPGP 数字签名时也附加我的公钥
@@ -44,6 +53,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = 高级…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">注意：密钥生成可能需要几分才能完成。</a></b>密钥生成过程中，请不要关闭应用程序。主动浏览上网，或进行频繁读写磁盘操作，可补充“随机数池”以加速密钥生成。完成后将提示您密钥已生成。
+openpgp-key-created-label =
+    .label = 创建于
 openpgp-key-expiry-label =
     .label = 到期日
 openpgp-key-id-label =
@@ -215,6 +226,7 @@ openpgp-key-details-structure-tab =
     .label = 结构
 openpgp-key-details-uid-certified-col =
     .label = 用户 ID / 颁发者
+openpgp-key-details-key-id-label = 密钥 ID
 openpgp-key-details-user-id2-label = 密钥声称所有者
 openpgp-key-details-id-label =
     .label = ID
