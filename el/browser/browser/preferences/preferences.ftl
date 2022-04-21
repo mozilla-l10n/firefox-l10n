@@ -380,6 +380,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Τι να κάνει το { -brand-short-name } με άλλα αρχεία;
+applications-save-for-new-types =
+    .label = Αποθήκευση αρχείων
+    .accesskey = Α
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
     .label = Αναπαραγωγή περιεχομένου με έλεγχο DRM

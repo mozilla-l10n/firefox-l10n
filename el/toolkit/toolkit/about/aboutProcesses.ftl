@@ -50,6 +50,7 @@ about-processes-socket-process = Δίκτυο ({ $pid })
 about-processes-remote-sandbox-broker-process = Απομακρυσμένο Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Διακομιστής fork ({ $pid })
 about-processes-preallocated-process = Προκατανεμημένο ({ $pid })
+about-processes-utility-process = Εργαλείο ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,7 @@ about-processes-frame-name-one = Υποπλαίσιο: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Υποπλαίσια ({ $number }): { $shortUrl }
+about-processes-utility-actor-audio-decoder = Αποκωδικοποιητής ήχου
 
 ## Displaying CPU (percentage and total)
 ## Variables:
