@@ -27,9 +27,9 @@
 <!ENTITY newOtherAccountsCmd.label "Այղ հաշիւներ…">
 <!ENTITY newOtherAccountsCmd.accesskey "Օ">
 <!ENTITY newCreateEmailAccountCmd.label "Ստեղծել նոր փոստային հաշիւ…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newCreateEmailAccountCmd.accesskey "Ս">
 <!ENTITY newExistingEmailAccountCmd.label "Առկայ փոստային հաշիւ…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newExistingEmailAccountCmd.accesskey "Ա">
 <!ENTITY newIMAccountCmd.label "Զրոյցի հաշիւ…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.accesskey "d">
@@ -273,7 +273,7 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Նամակների որոնում…">
+<!ENTITY searchMailCmd.label "Հաղորդագրութիւններ որոնում…">
 <!ENTITY searchMailCmd.accesskey "Ն">
 <!ENTITY searchMailCmd.key "փ">
 <!ENTITY glodaSearchCmd.label "Ընդհանրական որոնում…">
