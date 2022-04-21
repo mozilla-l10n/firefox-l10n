@@ -81,6 +81,13 @@ context-menuitem-attach-files =
     .label = Επισύναψη αρχείων…
     .accesskey = ψ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Η vCard μου
+    .accesskey = C
+context-menuitem-attach-openpgp-key =
+    .label = Το δημόσιο κλειδί OpenPGP μου
+    .accesskey = κ
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -126,6 +133,47 @@ message-to-be-signed-icon =
     .alt = Υπογραφή μηνύματος
 message-to-be-encrypted-icon =
     .alt = Κρυπτογράφηση μηνύματος
+encryption-menu =
+    .label = Ασφάλεια
+    .accesskey = φ
+encryption-toggle =
+    .label = Κρυπτογράφηση
+    .tooltiptext = Χρήση διατερματικής κρυπτογράφησης για αυτό το μήνυμα
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Προβολή ή αλλαγή ρυθμίσεων της κρυπτογράφησης OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Προβολή ή αλλαγή ρυθμίσεων της κρυπτογράφησης S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt-subject =
+    .label = Κρυπτογράφηση θέματος
+    .accesskey = π
+menu-sign =
+    .label = Ψηφιακή υπογραφή
+    .accesskey = υ
+menu-manage-keys =
+    .label = Βοηθός κλειδιών
+    .accesskey = Β
+menu-view-certificates =
+    .label = Προβολή πιστοποιητικών παραληπτών
+    .accesskey = Π
+menu-open-key-manager =
+    .label = Διαχείριση κλειδιών
+    .accesskey = χ
+key-notification-disable-encryption =
+    .label = Χωρίς κρυπτογράφηση
+    .accesskey = Χ
+    .tooltiptext = Απενεργοποίηση διατερματικής κρυπτογράφησης
+key-notification-resolve =
+    .label = Επίλυση…
+    .accesskey = λ
+    .tooltiptext = Άνοιγμα βοηθού κλειδιών OpenPGP
 
 ## Addressing Area
 

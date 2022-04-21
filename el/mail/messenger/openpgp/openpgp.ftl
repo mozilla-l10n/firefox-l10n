@@ -4,6 +4,15 @@
 
 e2e-intro-description = Για να στείλετε κρυπτογραφημένα ή ψηφιακά υπογεγραμμένα μηνύματα, πρέπει να ρυθμίσετε μια τεχνολογία κρυπτογράφησης, είτε OpenPGP είτε S/MIME.
 e2e-intro-description-more = Επιλέξτε το προσωπικό σας κλειδί για να ενεργοποιήσετε τη χρήση του OpenPGP ή το προσωπικό σας πιστοποιητικό για να ενεργοποιήσετε τη χρήση του S/MIME. Για ένα προσωπικό κλειδί ή πιστοποιητικό έχετε και το αντίστοιχο μυστικό κλειδί.
+e2e-sign-message =
+    .label = Υπογραφή μη κρυπτογραφημένων μηνυμάτων
+    .accesskey = η
+e2e-disable-enc =
+    .label = Απενεργοποίηση κρυπτογράφησης για νέα μηνύματα
+    .accesskey = γ
+e2e-enable-enc =
+    .label = Ενεργοποίηση κρυπτογράφησης για νέα μηνύματα
+    .accesskey = ν
 e2e-advanced-section = Σύνθετες ρυθμίσεις
 e2e-attach-key =
     .label = Επισύναψη δημόσιου κλειδιού κατά την προσθήκη ψηφιακής υπογραφής OpenPGP
@@ -44,6 +53,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Σύνθετα…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">ΣΗΜΕΙΩΣΗ: Η δημιουργία κλειδιού ενδέχεται να διαρκέσει αρκετά λεπτά για να ολοκληρωθεί.</a> Μην κλείσετε την εφαρμογή ενώ είναι σε εξέλιξη η δημιουργία του κλειδιού. Η ενεργή περιήγηση ή η εκτέλεση έντονων εργασιών δίσκου κατά τη δημιουργία του κλειδιού θα αναπληρώσει τη 'δεξαμενή τυχαιότητας' και θα επιταχύνει τη διαδικασία. Θα ενημερωθείτε όταν ολοκληρωθεί η δημιουργία του κλειδιού.
+openpgp-key-created-label =
+    .label = Δημιουργία
 openpgp-key-expiry-label =
     .label = Λήξη
 openpgp-key-id-label =
@@ -221,6 +232,7 @@ openpgp-key-details-structure-tab =
     .label = Δομή
 openpgp-key-details-uid-certified-col =
     .label = Αναγνωριστικό χρήστη / Πιστοποιήθηκε από
+openpgp-key-details-key-id-label = ID κλειδιού
 openpgp-key-details-user-id2-label = Υποτιθέμενος Κάτοχος Κλειδιού
 openpgp-key-details-id-label =
     .label = ID
