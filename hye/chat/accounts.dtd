@@ -12,6 +12,7 @@
 <!ENTITY accountManager.newAccount.label     "Նոր հաշիւ">
 <!ENTITY accountManager.newAccount.accesskey "Ն">
 <!ENTITY accountManager.close.label          "Փակել">
+<!ENTITY accountManager.close.accesskey      "ա">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ոչ մի հաշիւ դեռ կարգաբերուած չէ">
@@ -19,7 +20,9 @@
 <!ENTITY account.autoSignOn.label     "Մուտք գործել մեկնարկին">
 <!ENTITY account.autoSignOn.accesskey "Մ">
 <!ENTITY account.connect.label        "Կապակցել">
+<!ENTITY account.connect.accesskey    "ա">
 <!ENTITY account.disconnect.label     "Անջատել">
+<!ENTITY account.disconnect.accesskey "ջ">
 <!ENTITY account.delete.label         "Ջնջել">
 <!ENTITY account.delete.accesskey     "Ջ">
 <!ENTITY account.edit.label           "Յատկութիւններ">
@@ -31,6 +34,7 @@
 <!ENTITY account.copyDebugLog.label     "Պատճենել վրիպազերծման գրանցամատեանը">
 <!ENTITY account.copyDebugLog.accesskey "Պ">
 <!ENTITY account.showDebugLog.label     "Ցուցադրել վրիպազերծման գրանցամատեանը">
+<!ENTITY account.showDebugLog.accesskey "Ց">
 <!ENTITY account.connecting           "Կապակցուում է…">
 <!ENTITY account.disconnecting        "Անջատուում է…">
 <!ENTITY account.disconnected         "Կապակցուած չէ">

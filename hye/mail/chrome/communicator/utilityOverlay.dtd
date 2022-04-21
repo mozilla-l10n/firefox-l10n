@@ -25,6 +25,7 @@
 <!ENTITY viewToolbarsMenu.label        "Գործիքագոտիներ">
 <!ENTITY viewToolbarsMenu.accesskey      "Գ">
 <!ENTITY showTaskbarCmd.label          "Վիճակագաւտի">
+<!ENTITY showTaskbarCmd.accesskey        "կ">
 
 <!ENTITY closeCmd.label      "Փակել">
 <!ENTITY closeCmd.accesskey    "Փ">

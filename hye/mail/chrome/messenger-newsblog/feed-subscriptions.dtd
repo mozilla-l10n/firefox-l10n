@@ -27,7 +27,7 @@
 <!ENTITY quickMode.accesskey         "ց">
 
 <!ENTITY autotagEnable.accesskey     "ա">
-<!ENTITY autotagUsePrefix.accesskey  "Պ">
+<!ENTITY autotagUsePrefix.accesskey  "Ն">
 <!ENTITY autoTagPrefix.placeholder   "Մուտքագրէք պիտակի վերջածանցը">
 
 <!-- Subscription Dialog -->
@@ -42,5 +42,6 @@
 <!ENTITY button.importOPML.label     "Ներածել">
 <!ENTITY button.importOPML.accesskey "Ն">
 <!ENTITY button.exportOPML.label     "Արտածել">
+<!ENTITY button.exportOPML.accesskey "Ր">
 
 <!ENTITY button.close.label          "Փակել">
