@@ -4,6 +4,17 @@
 
 e2e-intro-description = För att skicka krypterade eller digitalt signerade meddelanden måste du konfigurera en krypteringsteknik, antingen OpenPGP eller S/MIME.
 e2e-intro-description-more = Välj din personliga nyckel för att aktivera användning av OpenPGP eller ditt personliga certifikat för att aktivera användning av S/MIME. För en personlig nyckel eller certifikat äger du motsvarande hemlig nyckel.
+e2e-signing-description = En digital signatur låter mottagarna verifiera att meddelandet skickades av dig och att dess innehåll inte har ändrats. Krypterade meddelanden signeras alltid som standard.
+e2e-sign-message =
+    .label = Signera okrypterade meddelanden
+    .accesskey = o
+e2e-disable-enc =
+    .label = Inaktivera kryptering för nya meddelanden
+    .accesskey = n
+e2e-enable-enc =
+    .label = Aktivera kryptering för nya meddelanden
+    .accesskey = n
+e2e-enable-description = Du kommer att kunna inaktivera kryptering för enskilda meddelanden.
 e2e-advanced-section = Avancerade inställningar
 e2e-attach-key =
     .label = Bifoga min publika nyckel när du lägger till en OpenPGP digital signatur
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avancerat…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">OBS: Nyckelgenerering kan ta upp till flera minuter att slutföra.</a> Stäng inte programmet medan nyckelgenerering pågår. Om du surfar eller utför en hårddiskaktivitet under nyckelgenerering kommer du att fylla på den "slumpmässiga poolen" och påskynda processen. Du får en varning när nyckelgenerering är klar.
+openpgp-key-created-label =
+    .label = Skapad
 openpgp-key-expiry-label =
     .label = Upphör
 openpgp-key-id-label =
@@ -221,6 +234,7 @@ openpgp-key-details-structure-tab =
     .label = Strukturerad
 openpgp-key-details-uid-certified-col =
     .label = Användar-ID / Certifierat av
+openpgp-key-details-key-id-label = Nyckel-ID
 openpgp-key-details-user-id2-label = Påstådd nyckelägare
 openpgp-key-details-id-label =
     .label = ID
@@ -335,6 +349,7 @@ key-expired-simple = Nyckeln har upphört
 key-revoked-simple = Nyckeln återkallades
 key-do-you-accept = Accepterar du den här nyckeln för att verifiera digitala signaturer och för att kryptera meddelanden?
 key-accept-warning = Undvik att acceptera en skurknyckel. Använd en annan kommunikationskanal än e-post för att verifiera fingeravtrycket på din korrespondents nyckel.
+key-verification = Verifiera nyckelns fingeravtryck med en annan säker kommunikationskanal än e-post för att säkerställa att det verkligen är nyckeln till { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Det går inte att skicka meddelandet eftersom det finns ett problem med din personliga nyckel. { $problem }
 cannot-encrypt-because-missing = Det går inte att skicka meddelandet med end-to-end kryptering eftersom det finns problem med nycklarna för följande mottagare: { $problem }
