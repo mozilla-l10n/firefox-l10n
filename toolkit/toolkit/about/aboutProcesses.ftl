@@ -114,6 +114,7 @@ about-processes-frame-name-one = 子帧：{ $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = 子帧（{ $number }）：{ $shortUrl }
+about-processes-utility-actor-audio-decoder = 音频解码器
 
 ## Displaying CPU (percentage and total)
 ## Variables:
