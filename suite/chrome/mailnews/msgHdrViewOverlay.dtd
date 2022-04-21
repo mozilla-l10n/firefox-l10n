@@ -27,7 +27,9 @@
 <!ENTITY editMessage.accesskey             "π">
 
 <!ENTITY editDraft.label                   "Επεξεργασία προσχεδίου…">
+<!ENTITY editDraft.accesskey               "χ">
 <!ENTITY editTemplate.label                "Επεξεργασία προτύπου…">
+<!ENTITY editTemplate.accesskey            "ξ">
 
 <!ENTITY attachmentsTree.label             "Συνημμένα:">
 <!ENTITY attachmentsTree.accesskey         "μ">
