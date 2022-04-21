@@ -320,9 +320,9 @@
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Redigera meddelandeutkast">
-<!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editDraftMsgCmd.accesskey "u">
 <!ENTITY editTemplateMsgCmd.label "Redigera mall">
-<!ENTITY editTemplateMsgCmd.accesskey "T">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
 <!ENTITY newMsgFromTemplateCmd.label "Nytt meddelande från mall">
 <!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
      Do not localize VK_RETURN. -->
@@ -481,6 +481,12 @@
 <!ENTITY contextOpenNewTab.accesskey "f">
 <!ENTITY contextEditAsNew.label "Redigera som nytt…">
 <!ENTITY contextEditAsNew.accesskey "e">
+<!ENTITY contextEditMsgAsNew.label "Redigera som ett nytt meddelande">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Redigera meddelandeutkast">
+<!ENTITY contextEditTemplate.label "Redigera mall">
+<!ENTITY contextEditTemplate.accesskey "m">
+<!ENTITY contextNewMsgFromTemplate.label "Nytt meddelande från mall">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "ä">
 <!ENTITY contextReplyList.label "Svar till lista">
