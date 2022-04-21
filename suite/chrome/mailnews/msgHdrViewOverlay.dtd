@@ -23,24 +23,29 @@
 <!ENTITY inReplyToField.label "Som svar till: ">
 <!ENTITY originalWebsite.label "Webbplats: ">
 
-<!ENTITY editMessage.label "Redigera utkast…">
+<!ENTITY editMessage.label                 "Redigera utkast…">
 <!ENTITY editMessage.accesskey             "u">
 
-<!ENTITY attachmentsTree.label "Bilagor:">
+<!ENTITY editDraft.label                   "Redigera utkast…">
+<!ENTITY editDraft.accesskey               "u">
+<!ENTITY editTemplate.label                "Redigera mall…">
+<!ENTITY editTemplate.accesskey            "m">
+
+<!ENTITY attachmentsTree.label             "Bilagor:">
 <!ENTITY attachmentsTree.accesskey         "i">
-<!ENTITY openAttachmentCmd.label           "Öppna">  
-<!ENTITY openAttachmentCmd.accesskey       "Ö">  
+<!ENTITY openAttachmentCmd.label           "Öppna">
+<!ENTITY openAttachmentCmd.accesskey       "Ö">
 <!ENTITY viewAttachmentCmd.label           "Visa källkoden">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
-<!ENTITY saveAsAttachmentCmd.label         "Spara som…">  
-<!ENTITY saveAsAttachmentCmd.accesskey     "S"> 
+<!ENTITY saveAsAttachmentCmd.label         "Spara som…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "S">
 <!ENTITY detachAttachmentCmd.label         "Avskilj…">
 <!ENTITY detachAttachmentCmd.accesskey     "A">
-<!ENTITY deleteAttachmentCmd.label         "Ta bort">  
+<!ENTITY deleteAttachmentCmd.label         "Ta bort">
 <!ENTITY deleteAttachmentCmd.accesskey     "T">
-<!ENTITY saveAllAttachmentsCmd.label       "Spara alla…">  
-<!ENTITY saveAllAttachmentsCmd.accesskey   "r">  
-<!ENTITY detachAllAttachmentsCmd.label     "Avskilj alla…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey "k">  
-<!ENTITY deleteAllAttachmentsCmd.label     "Ta bort alla…">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey "b">  
+<!ENTITY saveAllAttachmentsCmd.label       "Spara alla…">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "r">
+<!ENTITY detachAllAttachmentsCmd.label     "Avskilj alla…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "k">
+<!ENTITY deleteAllAttachmentsCmd.label     "Ta bort alla…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "b">

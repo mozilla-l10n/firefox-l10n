@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skript &amp; Insticksmoduler">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Skript">
+
 <!ENTITY navigator.label                 "Webbläsare">
 <!ENTITY navigator.accesskey             "W">
 
