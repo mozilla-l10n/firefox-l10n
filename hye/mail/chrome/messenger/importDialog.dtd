@@ -13,8 +13,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Ներածել">
 <!ENTITY importAll.label          "Ներմուծել ամէն ինչ">
 <!ENTITY importAll.accesskey      "E">
-<!ENTITY importMail.label         "Ել․ փոստ">
-<!ENTITY importMail.accesskey     "M">
+<!ENTITY importMail.label         "Եղ․ փոստ">
+<!ENTITY importMail.accesskey     "Ե">
 <!ENTITY importFeeds.label        "Բաժանորդագրութիւններ">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Հասցէագրքեր">
