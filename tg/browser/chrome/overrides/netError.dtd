@@ -180,9 +180,11 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> технологияи амниятиеро истифода мебарад, ки куҳна ва дар зери хатари ҳамла мебошад. Ҳамлакунанда метавонад маълумотеро, ки шумо онро дар ҷойи бехатар мешуморед, ба осонӣ ошкор кунад. Пеш аз он, ки шумо тавонед ба сомона ворид шавед, маъмури сомона бояд аввал хатоҳои серверро ислоҳ кунад.</p><p>Рамзи хато: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Саҳифаи манъшуда">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ба эҳтимоли зиёд сомонаи бехатар аст, аммо пайвасти бехатар устувор карда нашуд. Ин мушкилӣ аз боиси кори <span class='mitm-name'/>, ки нармафзори компютери шумо ё шабакаи шумо мебошад, ба миён омадааст.">
 
 
 <!ENTITY prefReset.label "Барқарор кардани танзимоти пешфарз">
