@@ -271,7 +271,7 @@ about-debugging-worker-action-push2 = Push
 about-debugging-worker-action-start2 = Έναρξη
     .disabledTitle = Η έναρξη του service worker έχει απενεργοποιηθεί για την πολλαπλή διεργασία { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
-about-debugging-worker-action-unregister = Κατάργηση εγγραφής
+about-debugging-worker-action-unregister = Κατάργηση
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Λήψη
