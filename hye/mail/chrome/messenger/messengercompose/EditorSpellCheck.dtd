@@ -28,3 +28,10 @@
 <!ENTITY addToUserDictionaryButton.accessKey "ա">
 <!ENTITY editUserDictionaryButton.label "Խմբագրել...">
 <!ENTITY editUserDictionaryButton.accessKey "Խ">
+<!ENTITY recheckButton2.label "Վերստուգել տեքստը">
+<!ENTITY recheckButton2.accessKey "Տ">
+<!ENTITY closeButton.label "Փակել">
+<!ENTITY closeButton.accessKey "Փ">
+<!ENTITY sendButton.label "Ուղարկել">
+<!ENTITY languagePopup.label "Լեզու.">
+<!ENTITY languagePopup.accessKey "Լ">
