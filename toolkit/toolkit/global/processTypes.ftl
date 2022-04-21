@@ -43,7 +43,7 @@ process-type-socket = 套接字
 # process used to decode media
 process-type-rdd = RDD
 # process used to run some IPC actor in their own sandbox
-process-type-utility = 沙盒化 IPC Actor
+process-type-utility = 沙盒化 IPC 角色
 
 ##
 ## Other
