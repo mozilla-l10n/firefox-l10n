@@ -18,7 +18,7 @@
 
 <!ENTITY contextDesc.label "Կիրառել զտիչը, երբ՝">
 <!ENTITY contextIncomingMail.label "Նոր նամակի ստացում.">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "Ս">
 <!ENTITY contextManual.label "գործարկել՝ ոչ ինքնաշխատ կերպով">
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Զտել, մինչեւ թափաւն դասակարգելը">

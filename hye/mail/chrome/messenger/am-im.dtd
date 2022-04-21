@@ -9,7 +9,7 @@
 <!ENTITY account.name                  "Աւգտանուն․">
 <!ENTITY account.password              "Գաղտնաբառ․">
 <!ENTITY account.alias                 "Այղանուն․">
-<!ENTITY account.newMailNotification   "Տեղեկացնել նոր նամակի մասին">
+<!ENTITY account.newMailNotification   "Տեղեկացնել նոր հաղորդագրութեան մասին">
 <!ENTITY account.autojoin              "Ինքնակապակցման ալիքներ.">
 <!ENTITY account.proxySettings.caption "Միջնորդի կարգաւորումներ.">
 <!ENTITY account.proxySettings.change.label     "Փոխել․․․">

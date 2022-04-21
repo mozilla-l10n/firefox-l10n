@@ -70,7 +70,7 @@
 <!ENTITY newsrcPicker1.label "Նշել News.rc նիշը">
 <!ENTITY abbreviate.label "Ցուցադրել տեղեկատու խմբի անունները այս փոստի պանակում, որպէս փեղկ.">
 <!ENTITY abbreviateOn.label "Ամբողջական անունները (աւրինակ՝ 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Հապաւել անունները (աւրինակ՝ 'n.p.m.mail-news')">
+<!ENTITY abbreviateOff.label "Յապաւել անունները (աւրինակ՝ 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Բարելաւուած…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Գրոյթի լռելեայն կոդաւորում․">

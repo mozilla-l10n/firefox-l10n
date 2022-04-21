@@ -7,7 +7,7 @@
 <!ENTITY copyAndFolderTitle.label "Պատճէնուածներ &amp; Թղթապանակներ">
 <!ENTITY sendingPrefix.label "Նամակը ուղարկելիս ինքնաշխատաւրէն.">
 <!ENTITY fccMailFolder.label "Պահել կրկնաւրինակը՝">
-<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccMailFolder.accesskey "Պ">
 <!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները այնտեղ, որտեղից պատասխանուել է">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
