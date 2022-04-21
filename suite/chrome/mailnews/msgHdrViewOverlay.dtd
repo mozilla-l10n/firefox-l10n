@@ -26,6 +26,9 @@
 <!ENTITY editMessage.label                 "Muokkaa luonnosta…">
 <!ENTITY editMessage.accesskey             "M">
 
+<!ENTITY editDraft.label                   "Muokkaa luonnosta…">
+<!ENTITY editTemplate.label                "Muokkaa mallia…">
+
 <!ENTITY attachmentsTree.label             "Liitteet:">
 <!ENTITY attachmentsTree.accesskey         "L">
 <!ENTITY openAttachmentCmd.label           "Avaa">
