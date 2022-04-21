@@ -316,6 +316,12 @@
 <!ENTITY editMsgAsNewCmd.label "Muokkaa viestiä uutena">
 <!ENTITY editMsgAsNewCmd.accesskey "o">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Muokkaa uutena viestinä">
+<!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
+<!ENTITY editTemplateMsgCmd.label "Muokkaa mallia">
+<!ENTITY newMsgFromTemplateCmd.label "Uusi viesti mallista">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
 <!ENTITY createFilter.label "Luo suodatin viestistä…">
 <!ENTITY createFilter.accesskey "d">
 <!ENTITY archiveMsgCmd.label "Siirrä arkistokansioon">
@@ -470,6 +476,10 @@
 <!ENTITY contextOpenNewTab.accesskey "v">
 <!ENTITY contextEditAsNew.label "Muokkaa uutena…">
 <!ENTITY contextEditAsNew.accesskey "u">
+<!ENTITY contextEditMsgAsNew.label "Muokkaa uutena viestinä">
+<!ENTITY contextEditDraftMsg.label "Muokkaa viestiluonnosta">
+<!ENTITY contextEditTemplate.label "Muokkaa mallia">
+<!ENTITY contextNewMsgFromTemplate.label "Uusi viesti mallista">
 <!ENTITY contextReplySender.label "Vastaa lähettäjälle">
 <!ENTITY contextReplySender.accesskey "l">
 <!ENTITY contextReplyList.label "Vastaa listalle">
