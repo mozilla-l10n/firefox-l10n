@@ -9,7 +9,7 @@
 
 <!ENTITY accountActionsButton.label "Հաշուի գործողութիւններ">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Աւելացնել եղ֊հասցէ…">
+<!ENTITY addMailAccountButton.label "Աւելացնել եղեկտրոնային հասցէ…">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Աւելացնել զրոյցի հաշիւ…">
 <!ENTITY addIMAccountButton.accesskey "C">

@@ -8,7 +8,7 @@
 <!ENTITY signatureCert.label "Դիտել ստորագրութեան հաւաստագիրը">
 <!ENTITY encryptionCert.label "Դիտել գաղտնագրման հաւաստագիրը">
 
-<!ENTITY signer.name "Ստորագրուած՝">
+<!ENTITY signer.name "Ստորագրուած․">
 <!ENTITY recipient.name "Գաղտնագրուած․">
 <!ENTITY email.address "Եղեկրոնային հասցէ․">
 
