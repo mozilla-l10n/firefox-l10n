@@ -412,7 +412,7 @@ update-application-use-service =
     .label = 使用后台服务静默安装更新
     .accesskey = b
 update-application-suppress-prompts =
-    .label = 减少更新通知提示
+    .label = 减少更新通知提醒
     .accesskey = n
 update-setting-write-failure-title2 = 保存“更新”设置时出错
 # Variables:
