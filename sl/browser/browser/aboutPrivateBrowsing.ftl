@@ -39,6 +39,7 @@ about-private-browsing-focus-promo-text = Naša namenska aplikacija za zasebno b
 about-private-browsing-focus-promo-header-b = Brskajte zasebno tudi na telefonu
 about-private-browsing-focus-promo-text-b = Uporabite { -focus-brand-name } za tista zasebna iskanja, za katera ne želite, da jih vidi vaš glavni mobilni brskalnik.
 about-private-browsing-focus-promo-header-c = Zasebnost višjega razreda za mobilne naprave
+about-private-browsing-focus-promo-text-c = { -focus-brand-name }{ -focus-brand-name } vsakič počisti vašo zgodovino ter zavrača oglase in sledilce.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
