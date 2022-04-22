@@ -172,6 +172,16 @@ menu-open-key-manager =
     .accesskey = m
 openpgp-key-issue-notification-one = El cifrado de extremo a extremo requiere resolver problemas de clave de { $addr }
 openpgp-key-issue-notification-many = El cifrado de extremo a extremo requiere resolver problemas de clave para { $count } destinatarios.
+smime-cert-issue-notification-one = El cifrado de extremo a extremo requiere resolver problemas de certificado de { $addr }
+smime-cert-issue-notification-many = El cifrado de extremo a extremo requiere resolver problemas de certificado para { $count } destinatarios.
+key-notification-disable-encryption =
+    .label = No cifrar
+    .accesskey = N
+    .tooltiptext = Deshabilitar cifrado de extremo a extremo
+key-notification-resolve =
+    .label = Resolver…
+    .accesskey = R
+    .tooltiptext = Abrir el asistente de claves de OpenPGP
 
 ## Addressing Area
 
