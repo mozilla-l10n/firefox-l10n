@@ -107,6 +107,7 @@ about-processes-frame-name-one = Podokvir: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Podokviri ({ $number }): { $shortUrl }
+about-processes-utility-actor-audio-decoder = Zvočni dekoder
 
 ## Displaying CPU (percentage and total)
 ## Variables:
