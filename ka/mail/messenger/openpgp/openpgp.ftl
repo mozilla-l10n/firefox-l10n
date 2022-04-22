@@ -4,6 +4,17 @@
 
 e2e-intro-description = დაშიფრული ან ციფრულად ხელმოწერილი წერილის გასაგზავნად, საჭიროა გამართოთ დაშიფვრის საშუალებები, ან OpenPGP ან S/MIME.
 e2e-intro-description-more = შეარჩიეთ პირადი გასაღები, OpenPGP-ის ასამუშავებლად, ან პირადი სერტიფიკატი რომ ჩაირთოს S/MIME. პირადი გასაღებისთვის ან სერტიფიკატისთვის, რომლისთვისაც ფლობთ შესაბამის საიდუმლო გასაღებს.
+e2e-signing-description = ციფრული ხელმოწერა საშუალებას აძლევს მიმღებს დაადასტუროს, რომ წერილი ნამდვილად თქვენ გაუგზავნეთ და მისი შიგთავსი არავის შეუცვლია. დაშიფრული წერილები თავისთავად ხელმოწერილია.
+e2e-sign-message =
+    .label = დაუშიფრავის წერილის ხელმოწერა
+    .accesskey = ხ
+e2e-disable-enc =
+    .label = დაშიფვრის გამორთვა ახალი წერილებისთვის
+    .accesskey = მ
+e2e-enable-enc =
+    .label = დაშიფვრის ჩართვა ახალი წერილებისთვის
+    .accesskey = ჩ
+e2e-enable-description = დაშიფვრა შეგიძლიათ გამორთოთ ცალკეული წერილებისთვის.
 e2e-advanced-section = გაფართოებული პარამეტრები
 e2e-attach-key =
     .label = საჯარო გასაღების დართვა, ციფრული OpenPGP-ხელმოწერის დამატებისას
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = დამატებითი…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">შენიშვნა: გასაღების შედგენა რამდენიმე წუთს გასტანს.</a> არ გამოხვიდეთ პროგრამიდან, შედგენის მიმდინარეობისას. გვერდების ხშირი მონახულება და დისკზე დამტვირთავი მოქმედებები გასაღების შედგენისას, ზრდის შემთხვევით კომბინაციებს და ასწრაფებს ამ საქმის შესრულებას. გეცნობებათ, როცა გასაღების შედგენა დასრულდება.
+openpgp-key-created-label =
+    .label = შექმნილი
 openpgp-key-expiry-label =
     .label = ვადა
 openpgp-key-id-label =
@@ -221,6 +234,7 @@ openpgp-key-details-structure-tab =
     .label = აგებულება
 openpgp-key-details-uid-certified-col =
     .label = მომხმარებლის ID / გამცემი
+openpgp-key-details-key-id-label = გასაღების ID
 openpgp-key-details-user-id2-label = გასაღების სავარაუდო მფლობელი
 openpgp-key-details-id-label =
     .label = ID
@@ -335,6 +349,7 @@ key-expired-simple = გასაღები ვადაგასულია
 key-revoked-simple = გასაღები გაუქმებულია
 key-do-you-accept = გსურთ დაუშვათ ეს გასაღები, ციფრული ხელმოწერებისა და დაშიფრული წერილების დასამოწმებლად?
 key-accept-warning = თავი დაიცავით თაღლითური გასაღების დაშვებისგან. გამოიყენეთ სხვა ელფოსტისგან განსხვავებული დამაკავშირებელი არხები, შესაბამისი გასაღების ანაბეჭდის დასამოწმებლად.
+key-verification = გადაამოწმეთ გასაღების ანაბეჭდი სხვა საურთიერთობო არხით ელფოსტის მიღმა, რომ დარწმუნდეთ მის ნამდვილობაში { $addr }.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = წერილი ვერ იგზავნება, ვინაიდან ხარვეზი აქვს თქვენს პირად გასაღებს. { $problem }
 cannot-encrypt-because-missing = წერილი ვერ იგზავნება გამჭოლი დაშიფვრით, ვინაიდან ხარვეზები აქვს, ამ მიმღებების გასაღებებს: { $problem }
