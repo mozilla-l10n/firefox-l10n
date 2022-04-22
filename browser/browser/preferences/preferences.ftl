@@ -126,6 +126,8 @@ download-choose-folder =
            *[other] з
         }
 applications-header = Апликации
+applications-filter =
+    .placeholder = Пребарувајте типови на датотеки или апликации
 applications-type-column =
     .label = Тип на содржина
     .accesskey = Т
