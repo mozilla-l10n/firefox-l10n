@@ -209,6 +209,7 @@ containers-remove-cancel-button = Ne odstrani tega vsebnika
 language-and-appearance-header = Jezik in videz
 fonts-and-colors-header = Pisave in barve
 preferences-web-appearance-header = Videz spletnih strani
+preferences-web-appearance-description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
 preferences-web-appearance-choice-browser = Tema { -brand-short-name(sklon: "rodilnik") }
 preferences-web-appearance-choice-system = Sistemska tema
 preferences-web-appearance-choice-light = Svetla
@@ -217,6 +218,10 @@ preferences-web-appearance-choice-tooltip-browser =
     .title = Ozadja in vsebina spletnih strani naj se ujemajo z izbrano temo { -brand-short-name(sklon: "rodilnik") }.
 preferences-web-appearance-choice-tooltip-system =
     .title = Ozadja in vsebina spletnih strani naj se ujemajo s sistemsko temo.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Spletna mesta naj uporabljajo svetle barve ozadij in vsebine.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Spletna mesta naj uporabljajo temne barve ozadij in vsebine.
 preferences-web-appearance-choice-input-browser =
     .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
 preferences-web-appearance-choice-input-system =
@@ -381,6 +386,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Kaj naj { -brand-short-name } stori z ostalimi datotekami?
+applications-save-for-new-types =
+    .label = Shrani datoteke
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Vprašaj, ali želite odpreti ali shraniti datoteko
+    .accesskey = V
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
     .label = Predvajaj vsebino, zaščiteno z DRM

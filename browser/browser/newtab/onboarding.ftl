@@ -338,3 +338,15 @@ onboarding-live-language-skip-button-label = Preskoči
 fx100-thank-you-hero-text =
     100-krat
     <span data-l10n-name="zap">hvala</span>
+fx100-thank-you-subtitle = To je naša 100. izdaja! Hvala, ker z nami ustvarjate boljši in bolj zdrav internet.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Obdrži { -brand-short-name } v Docku
+       *[other] Pripni { -brand-short-name } v opravilno vrstico
+    }
+fx100-upgrade-thanks-header = 100-krat hvala
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = To je 100. izdaja { -brand-short-name(sklon: "rodilnik") }. <em>Hvala</em>, ker z nami ustvarjate boljši in bolj zdrav internet.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = To je naša 100. izdaja! Hvala, ker ste del naše skupnosti. Pripnite si { -brand-short-name } na doseg roke za naslednjih 100.
