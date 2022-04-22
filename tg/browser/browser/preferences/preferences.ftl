@@ -850,7 +850,7 @@ primary-password-os-auth-dialog-message-win = Барои эҷод кардани
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = эҷод кардани ниҳонвожаи ибтидоӣ
+primary-password-os-auth-dialog-message-macosx = ниҳонвожаи ибтидоиро эҷод кунад
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
