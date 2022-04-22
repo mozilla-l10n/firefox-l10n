@@ -317,10 +317,16 @@
 <!ENTITY editMsgAsNewCmd.accesskey "ჩ">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY editAsNewMsgCmd.label "ჩასწორება ახალი შეტყობინების სახით">
-<!ENTITY editAsNewMsgCmd.accesskey "წ">
+<!ENTITY editAsNewMsgCmd.accesskey "ხ">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "წინასწარი ნამუშევრის ჩასწორება">
+<!ENTITY editDraftMsgCmd.accesskey "წ">
+<!ENTITY editTemplateMsgCmd.label "ნიმუშის ჩასწორება">
+<!ENTITY editTemplateMsgCmd.accesskey "ნ">
+<!ENTITY newMsgFromTemplateCmd.label "ახალი შეტყობინება ნიმუშიდან">
 <!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
      Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "ფილტრის შექმნა წერილიდან…">
 <!ENTITY createFilter.accesskey "ფ">
 <!ENTITY archiveMsgCmd.label "არქივი">
@@ -475,6 +481,12 @@
 <!ENTITY contextOpenNewTab.accesskey "გ">
 <!ENTITY contextEditAsNew.label "ჩასწორება როგორც ახლის…">
 <!ENTITY contextEditAsNew.accesskey "ჩ">
+<!ENTITY contextEditMsgAsNew.label "ჩასწორება ახალი შეტყობინების სახით">
+<!ENTITY contextEditMsgAsNew.accesskey "ხ">
+<!ENTITY contextEditDraftMsg.label "წინასწარი ნამუშევრის ჩასწორება">
+<!ENTITY contextEditTemplate.label "ნიმუშის ჩასწორება">
+<!ENTITY contextEditTemplate.accesskey "ნ">
+<!ENTITY contextNewMsgFromTemplate.label "ახალი შეტყობინება ნიმუშიდან">
 <!ENTITY contextReplySender.label "პასუხი მხოლოდ გამომგზავნს">
 <!ENTITY contextReplySender.accesskey "პ">
 <!ENTITY contextReplyList.label "პასუხი რამდენიმეს">
