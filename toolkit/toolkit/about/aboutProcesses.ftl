@@ -50,6 +50,7 @@ about-processes-socket-process = ქსელი ({ $pid })
 about-processes-remote-sandbox-broker-process = გარე Sandbox-Broker ({ $pid })
 about-processes-fork-server-process = Fork-სერვერი ({ $pid })
 about-processes-preallocated-process = წინასწარ გამოყოფილი ({ $pid })
+about-processes-utility-process = დამხმარე პროგრამა ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,9 @@ about-processes-frame-name-one = ქვეჩარჩო: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = ქვეჩარჩო ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = უცნობი მოქმედი
+about-processes-utility-actor-audio-decoder = ხმის გამშიფრავი
 
 ## Displaying CPU (percentage and total)
 ## Variables:
