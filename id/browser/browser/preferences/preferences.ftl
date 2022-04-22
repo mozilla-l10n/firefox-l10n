@@ -368,6 +368,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Apa yang sebaiknya { -brand-short-name } lakukan dengan berkas lainnya?
+applications-save-for-new-types =
+    .label = Simpan berkas
+    .accesskey = S
+applications-ask-before-handling =
+    .label = Tanyakan apakah akan membuka atau menyimpan berkas
+    .accesskey = a
 drm-content-header = Konten Digital Rights Management (DRM)
 play-drm-content =
     .label = Putar konten DRM-terkontrol
