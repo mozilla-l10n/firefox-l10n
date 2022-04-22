@@ -316,6 +316,11 @@
 <!ENTITY editMsgAsNewCmd.label "ჩასწორება, როგორც ახლის">
 <!ENTITY editMsgAsNewCmd.accesskey "ჩ">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "ჩასწორება ახალი შეტყობინების სახით">
+<!ENTITY editAsNewMsgCmd.accesskey "წ">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
 <!ENTITY createFilter.label "ფილტრის შექმნა წერილიდან…">
 <!ENTITY createFilter.accesskey "ფ">
 <!ENTITY archiveMsgCmd.label "არქივი">
