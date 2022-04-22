@@ -483,6 +483,10 @@
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextEditMsgAsNew.label "Editar como nuevo mensaje">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editar mensaje borrador">
+<!ENTITY contextEditTemplate.label "Editar plantilla">
+<!ENTITY contextEditTemplate.accesskey "t">
+<!ENTITY contextNewMsgFromTemplate.label "Nuevo mensaje desde plantilla">
 <!ENTITY contextReplySender.label "Responder sólo al remitente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyList.label "Responder a lista">
