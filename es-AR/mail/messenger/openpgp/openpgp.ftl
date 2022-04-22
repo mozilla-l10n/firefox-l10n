@@ -4,6 +4,10 @@
 
 e2e-intro-description = Para enviar mensajes cifrados o firmados digitalmente, debe configurar una tecnología de cifrado, ya sea OpenPGP o S/MIME.
 e2e-intro-description-more = Seleccione su clave personal para habilitar el uso de OpenPGP o su certificado personal para habilitar el uso de S/MIME. Para una clave personal o certificado usted posee la clave secreta correspondiente.
+e2e-signing-description = Una firma digital permite que los destinatarios verifiquen que el mensaje fue enviado por usted y su contenido no fue cambiado. Los mensajes cifrados siempre se firman por defecto.
+e2e-sign-message =
+    .label = Firmar mensajes sin cifrado
+    .accesskey = F
 e2e-advanced-section = Opciones avanzadas
 e2e-attach-key =
     .label = Adjuntar mi clave pública al agregar una firma digital OpenPGP
