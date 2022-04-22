@@ -316,6 +316,17 @@
 <!ENTITY editMsgAsNewCmd.label "Editar mensaje como nuevo">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Editar como nuevo mensaje">
+<!ENTITY editAsNewMsgCmd.accesskey "j">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Editar mensaje borrador">
+<!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Editar plantilla">
+<!ENTITY editTemplateMsgCmd.accesskey "t">
+<!ENTITY newMsgFromTemplateCmd.label "Nuevo mensaje desde plantilla">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Crear filtro a partir del mensaje…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY archiveMsgCmd.label "Archivar">
@@ -470,6 +481,8 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextEditAsNew.label "Editar como nuevo…">
 <!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditMsgAsNew.label "Editar como nuevo mensaje">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Responder sólo al remitente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyList.label "Responder a lista">
