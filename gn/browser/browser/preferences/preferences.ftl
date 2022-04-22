@@ -380,6 +380,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = ¿Mba’e ojapova’erã { -brand-short-name } ambue marandurenda ndive?
 applications-save-for-new-types =
     .label = Eñongatu marandurenda
     .accesskey = S
