@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Dibab ar gwerzh dre ziouer evit aotren { -bran
 policy-OverrideFirstRunPage = Merañ ar bajenn loc'hadur kentañ. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn loc'hadur kentañ.
 policy-OverridePostUpdatePage = Merañ ar pajenn "Petra nevez?" goude un hizivadenn. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn goude un hizivadenn.
 policy-PasswordManagerEnabled = Gweredekaat enrollañ ar gerioù-tremen en ardoer gerioù-tremen.
+policy-PasswordManagerExceptions = Mirout { -brand-short-name } da enrollañ gerioù-tremen evit lec’hiennoù resis.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Diweredekaat pe kefluniañ PDF.js, gweler PDF enkorfet { -brand-short-name }.
 policy-Permissions2 = Kefluniañ an aotreoù evit ar c'hamera, ar glevell, al lec'hiadurezh, ar rebuzadurioù hag al lenn emgefreek.

@@ -349,3 +349,5 @@ fx100-upgrade-thanks-header = 100 a drugarekadennoù
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Hon 100vet ermaeziadenn eus { -brand-short-name } an hini eo. Trugarez <em>deoc’h</em> evit hon skoazellañ da sevel un internet gwelloc'h ha yac’hoc’h.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Hon 100vet ermaeziadenn an hini eo! Trugarez deoc’h evit bezañ ul lodenn eus hor c’humuniezh. Dalc’hit { -brand-short-name } tost ouzhoc’h evit 100 re all.

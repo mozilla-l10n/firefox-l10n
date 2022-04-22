@@ -88,6 +88,9 @@ extension-controlled-websites-content-blocking-all-trackers = Un askouezh, <img 
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Un askouezh, <img data-l10n-name="icon"/> { $name }, a zo o reoliñ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/>{ $name }</strong> reoliañ an arventenn-mañ.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
