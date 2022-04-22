@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "სკრიპტები და მოდულები">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "სკრიპტები">
+
 <!ENTITY navigator.label                 "ბრაუზერი">
 <!ENTITY navigator.accesskey             "ბ">
 
