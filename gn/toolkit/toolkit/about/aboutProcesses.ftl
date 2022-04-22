@@ -50,6 +50,7 @@ about-processes-socket-process = Ñanduti ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Ñeme’ẽmby ({ $pid })
+about-processes-utility-process = Jepururã ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -117,6 +118,9 @@ about-processes-frame-name-one = Kora’ive: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Kora’ive ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Puruha ojekuaa’ỹva
+about-processes-utility-actor-audio-decoder = Mba’epu papapy’oha
 
 ## Displaying CPU (percentage and total)
 ## Variables:
