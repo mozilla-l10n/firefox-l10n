@@ -26,6 +26,11 @@
 <!ENTITY editMessage.label                 "Editar borrador…">
 <!ENTITY editMessage.accesskey             "E">
 
+<!ENTITY editDraft.label                   "Editar borrador…">
+<!ENTITY editDraft.accesskey               "D">
+<!ENTITY editTemplate.label                "Editar plantilla…">
+<!ENTITY editTemplate.accesskey            "d">
+
 <!ENTITY attachmentsTree.label             "Adjuntos:">
 <!ENTITY attachmentsTree.accesskey         "A">
 <!ENTITY openAttachmentCmd.label           "Abrir">
