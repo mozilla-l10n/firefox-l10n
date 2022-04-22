@@ -386,6 +386,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Co ma { -brand-short-name } z drugimi datajami cyniś?
+applications-save-for-new-types =
+    .label = Dataju składowaś
+    .accesskey = D
+applications-ask-before-handling =
+    .label = Pšašaś se, lěc se maju dataje wócyniś abo składowaś
+    .accesskey = P
 drm-content-header = Wopśimjeśe Digital Right Management (DRM)
 play-drm-content =
     .label = Wopśimjeśe wóźone pśez DRM wótgraś

@@ -52,6 +52,7 @@ about-processes-socket-process = Seś ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker zdalonego pěskowego kašćika ({ $pid })
 about-processes-fork-server-process = Serwer Fork ({ $pid })
 about-processes-preallocated-process = Do togo pśipokazany ({ $pid })
+about-processes-utility-process = Pomocny program ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -123,6 +124,9 @@ about-processes-frame-name-one = Pódwobłuk: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Pódwobłuki ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Njeznaty akter
+about-processes-utility-actor-audio-decoder = Awdiodekoder
 
 ## Displaying CPU (percentage and total)
 ## Variables:
