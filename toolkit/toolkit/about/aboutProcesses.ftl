@@ -49,6 +49,7 @@ about-processes-socket-process = Jaringan ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker Kotak Pasir Daring ({ $pid })
 about-processes-fork-server-process = Server Fork ({ $pid })
 about-processes-preallocated-process = Praalokasi ({ $pid })
+about-processes-utility-process = Utilitas ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -114,6 +115,9 @@ about-processes-frame-name-one = Subframe: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Aktor tidak dikenal
+about-processes-utility-actor-audio-decoder = Dekoder Audio
 
 ## Displaying CPU (percentage and total)
 ## Variables:

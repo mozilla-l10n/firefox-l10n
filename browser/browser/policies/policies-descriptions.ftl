@@ -92,6 +92,7 @@ policy-OfferToSaveLoginsDefault = Setel nilai default untuk mengizinkan { -brand
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
 policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
 policy-PasswordManagerEnabled = Aktifkan penyimpanan sandi melalui manajer sandi.
+policy-PasswordManagerExceptions = Cegah { -brand-short-name } menyimpan sandi untuk situs tertentu.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Nonaktifkan atau atur konfigurasi PDF.js, penampil PDF bawaan di { -brand-short-name }.
 policy-Permissions2 = Atur izin untuk kamera, mikrofon, lokasi, notifikasi, dan putar-otomatis.
