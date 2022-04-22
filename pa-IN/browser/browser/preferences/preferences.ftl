@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } ਨੂੰ ਹੋਰ ਫਾਈਲਾਂ ਨਾਲ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+applications-save-for-new-types =
+    .label = ਫਾਈਲਾਂ ਸੰਭਾਲੋ
+    .accesskey = S
+applications-ask-before-handling =
+    .label = ਪੁੱਛੋ ਕਿ ਕੀ ਫਾਈਲਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ ਜਾਂ ਸੰਭਾਲਣਾ?
+    .accesskey = A
 drm-content-header = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
 play-drm-content =
     .label = DRM-ਕੰਟਰੋਲ ਕੀਤੀ ਸਮੱਗਰੀ ਚਲਾਓ
