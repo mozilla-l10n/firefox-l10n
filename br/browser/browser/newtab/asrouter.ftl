@@ -169,3 +169,10 @@ spotlight-total-cookie-protection-secondary-button = Ket bremañ
 spotlight-better-internet-header = Un internet gwelloc’h a grog ganeoc’h
 spotlight-better-internet-body = Pa rit gant { -brand-short-name } e roit ur vouezh d'un internet digor hag haezadus, gwelloc’h evit an holl.
 spotlight-peace-mind-header = Ho kwareziñ a reomp
+spotlight-peace-mind-body = Bep miz, { -brand-short-name } a stank ur geidenn a 3 000 heulier dre implijer. Ne rankfe bezañ netra etrezoc’h hag an internet mat.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Mirout en Dock
+       *[other] Spilhennañ er varrenn an trevelloù
+    }
+spotlight-pin-secondary-button = Ket bremañ
