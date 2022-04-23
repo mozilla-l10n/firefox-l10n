@@ -4,3 +4,18 @@
 
 provisioner-searching-icon =
     .alt = Поиск…
+
+## Forms
+
+account-provisioner-search-button = Поиск
+account-provisioner-button-cancel = Отмена
+account-provisioner-button-back = Вернуться назад
+
+## Notifications
+
+
+## Illustrations
+
+
+## Search results
+

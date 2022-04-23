@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = Уведомления о прочтении
-
-return-receipt-checkbox =
+return-receipt-checkbox-control =
     .label = Всегда запрашивать уведомление о прочтении при отправке сообщений
-    .acceskey = з
-
+    .accesskey = п
 receipt-arrive-label = При получении уведомления о прочтении:
-
-receipt-leave-radio =
+receipt-leave-radio-control =
     .label = Оставлять его в папке «Входящие»
-    .acceskey = с
-
-receipt-move-radio =
+    .accesskey = х
+receipt-move-radio-control =
     .label = Переместить его в папку «Отправленные»
-    .acceskey = м
-
+    .accesskey = п
 receipt-request-label = При получении запроса на уведомление о прочтении:
-
-receipt-return-never-radio =
+receipt-return-never-radio-control =
     .label = Никогда не отправлять уведомление о прочтении
-    .acceskey = к
-
-receipt-return-some-radio =
+    .accesskey = и
+receipt-return-some-radio-control =
     .label = Отправлять уведомления о прочтении для некоторых сообщений
-    .acceskey = у
-
-receipt-not-to-cc =
-    .value = Если я не нахожусь в списке «Кому» или «Копия»:
-    .acceskey = х
-
+    .accesskey = е
+receipt-not-to-cc-label =
+    .value = Если я не в списке «Кому» или «Копия»:
+    .accesskey = е
 receipt-send-never-label =
     .label = Никогда не отправлять
-
 receipt-send-always-label =
     .label = Отправлять
-
 receipt-send-ask-label =
     .label = Спрашивать
-
-sender-outside-domain =
-    .value = Если отправитель не находится в моём домене:
-    .acceskey = м
-
-other-cases-label =
-    .value = Во всех остальных случаях:
-    .acceskey = т
+sender-outside-domain-label =
+    .value = Если отправитель не в моём домене:
+    .accesskey = м
+other-cases-text-label =
+    .value = В остальных случаях:
+    .accesskey = а

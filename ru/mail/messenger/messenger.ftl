@@ -111,11 +111,27 @@ appmenu-redirect-msg =
 
 context-menu-redirect-msg =
     .label = Перенаправить
+mail-context-delete-messages =
+    .label =
+        { $count ->
+            [one] Удалить выбранное сообщение
+            [few] Удалить выбранные сообщения
+           *[many] Удалить выбранные сообщения
+        }
+context-menu-decrypt-to-folder =
+    .label = Копировать в расшифрованном виде в
+    .accesskey = ш
 
 ## Message header pane
 
 other-action-redirect-msg =
     .label = Перенаправить
+message-header-msg-flagged =
+    .title = Отмечено звёздочкой
+    .aria-label = Отмечено звёздочкой
+message-header-msg-not-flagged =
+    .title = Не отмечено звёздочкой
+    .aria-label = Не отмечено звёздочкой
 
 ## Action Button Context Menu
 
