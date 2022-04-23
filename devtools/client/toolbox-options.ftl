@@ -104,6 +104,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Қашықтан жөндеуді іске қосу
 options-enable-remote-tooltip2 =
     .title = Бұл параметрді іске қосу осы браузер экземплярын қашықтан жөндеуге мүмкіндік береді
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = Арнаулы пішімдеушілерді іске қосу
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP арқылы жасайтын қызметтік жұмыс үрдістерін іске қосу (құралдар панелі ашық болған кезде)
 options-enable-service-workers-http-tooltip =

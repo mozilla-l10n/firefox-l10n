@@ -49,6 +49,7 @@ about-processes-socket-process = Желі ({ $pid })
 about-processes-remote-sandbox-broker-process = Құмсалғыштың қашықтағы брокері ({ $pid })
 about-processes-fork-server-process = Форк-сервері ({ $pid })
 about-processes-preallocated-process = Алдын-ала бөлінген ({ $pid })
+about-processes-utility-process = Утилита ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -115,6 +116,9 @@ about-processes-frame-name-one = Ішкі фрейм: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Ішкі фреймдер ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Белгісіз қатысушы
+about-processes-utility-actor-audio-decoder = Аудио декодер
 
 ## Displaying CPU (percentage and total)
 ## Variables:

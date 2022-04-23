@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } басқа файлдармен не істеу керек?
+applications-save-for-new-types =
+    .label = Файлдарды сақтау
+    .accesskey = с
+applications-ask-before-handling =
+    .label = Файлдарды ашу немесе сақтауды сұрау
+    .accesskey = а
 drm-content-header = Цифрлық құқықтарды басқару (DRM) құрамасы
 play-drm-content =
     .label = DRM-басқарылатын құрамасын ойнау
