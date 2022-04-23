@@ -85,6 +85,13 @@ context-menuitem-attach-files =
     .label = Dataje pśipowjesyś…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Mója wizitna kórtka vCard
+    .accesskey = v
+context-menuitem-attach-openpgp-key =
+    .label = Mój zjawny kluc OpenPGP
+    .accesskey = l
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
@@ -137,6 +144,50 @@ message-to-be-signed-icon =
     .alt = Powěsć signěrowaś
 message-to-be-encrypted-icon =
     .alt = Powěsć koděrowaś
+encryption-menu =
+    .label = Wěstota
+    .accesskey = s
+encryption-toggle =
+    .label = Koděrowaś
+    .tooltiptext = Kóděrowanje kóńc do kóńca za toś tu powěsć wužywaś
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Nastajenja za koděrowanje OpenPGP pokazaś abo změniś
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Nastajenja za koděrowanje S/MIME pokazaś abo změniś
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = S
+menu-encrypt =
+    .label = Koděrowaś
+    .accesskey = K
+menu-encrypt-subject =
+    .label = Temu koděrowaś
+    .accesskey = T
+menu-sign =
+    .label = Digitalnje signěrowaś
+    .accesskey = i
+menu-manage-keys =
+    .label = Klucowy asistent
+    .accesskey = K
+menu-view-certificates =
+    .label = Certifikaty dostawrjow pokazaś
+    .accesskey = C
+menu-open-key-manager =
+    .label = Zastojnik klucow
+    .accesskey = Z
+key-notification-disable-encryption =
+    .label = Njekoděrowaś
+    .accesskey = N
+    .tooltiptext = Koděrowanje kóńc do kóńca znjemóžniś
+key-notification-resolve =
+    .label = Rozeznawaś…
+    .accesskey = R
+    .tooltiptext = Klucowy asistent OpenPGP wócyniś
 
 ## Addressing Area
 
