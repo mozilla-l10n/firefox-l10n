@@ -4,6 +4,17 @@
 
 e2e-intro-description = Do wysyłania zaszyfrowanych lub cyfrowo podpisanych wiadomości wymagana jest konfiguracja technologii szyfrowania OpenPGP lub S/MIME.
 e2e-intro-description-more = Wybierz swój klucz osobisty, aby umożliwić korzystanie z OpenPGP, lub certyfikat osobisty, aby umożliwić korzystanie z S/MIME. Dla klucza lub certyfikatu osobistego posiadasz odpowiedni tajny klucz.
+e2e-signing-description = Podpis cyfrowy umożliwia odbiorcom sprawdzenie, czy wiadomość została wysłana przez Ciebie, a jej treść nie została zmieniona. Zaszyfrowane wiadomości są zawsze domyślnie podpisane.
+e2e-sign-message =
+    .label = Podpisz niezaszyfrowane wiadomości
+    .accesskey = n
+e2e-disable-enc =
+    .label = Wyłącz szyfrowanie nowych wiadomości
+    .accesskey = W
+e2e-enable-enc =
+    .label = Włącz szyfrowanie nowych wiadomości
+    .accesskey = s
+e2e-enable-description = Będzie można wyłączać szyfrowanie dla poszczególnych wiadomości.
 e2e-advanced-section = Ustawienia zaawansowane
 e2e-attach-key =
     .label = Dołączaj mój klucz publiczny podczas dodawania podpisu cyfrowego OpenPGP
@@ -44,6 +55,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Zaawansowane…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">UWAGA: generowanie klucza może zająć nawet kilka minut.</a> Nie wyłączaj aplikacji w trakcie generowania. Aktywne przeglądanie Internetu i wykonywanie działań intensywnie korzystających z dysku podczas generowania klucza uzupełni „pulę losowości” i przyspieszy ten proces. Po ukończeniu generowania zostanie wyświetlony komunikat.
+openpgp-key-created-label =
+    .label = Utworzono
 openpgp-key-expiry-label =
     .label = Wygasanie
 openpgp-key-id-label =
@@ -227,6 +240,7 @@ openpgp-key-details-structure-tab =
     .label = Struktura
 openpgp-key-details-uid-certified-col =
     .label = Identyfikator użytkownika/certyfikowane przez
+openpgp-key-details-key-id-label = Identyfikator klucza
 openpgp-key-details-user-id2-label = Domniemany właściciel klucza
 openpgp-key-details-id-label =
     .label = Identyfikator
@@ -341,7 +355,8 @@ key-expired-date = Klucz wygasł w dniu { $keyExpiry }
 key-expired-simple = Klucz wygasł
 key-revoked-simple = Klucz został unieważniony
 key-do-you-accept = Czy akceptujesz ten klucz do weryfikowania podpisów cyfrowych i szyfrowania wiadomości?
-key-accept-warning = Unikaj zaakceptowania fałszywego klucza. Skorzystaj z innego kanału komunikacji niż e-mail, aby zweryfikować odcisk klucza rozmówcy.
+key-accept-warning = Unikaj zaakceptowania fałszywego klucza. Skorzystaj z innego środka komunikacji niż poczta e-mail, aby zweryfikować odcisk klucza rozmówcy.
+key-verification = Zweryfikuj odcisk klucza za pomocą zabezpieczonego środka komunikacji innego niż poczta e-mail, aby upewnić się, że { $addr } na pewno jest właścicielem klucza.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Nie można wysłać wiadomości, ponieważ wystąpił problem z kluczem osobistym. { $problem }
 cannot-encrypt-because-missing = Nie można wysłać tej wiadomości za pomocą szyfrowania typu „end-to-end”, ponieważ wystąpiły problemy z kluczami tych odbiorców: { $problem }
