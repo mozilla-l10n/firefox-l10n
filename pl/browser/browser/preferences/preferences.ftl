@@ -383,6 +383,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Co { -brand-short-name } ma robić z innymi plikami?
+applications-save-for-new-types =
+    .label = Zapisuj pliki
+    .accesskey = s
+applications-ask-before-handling =
+    .label = Pytaj, czy otworzyć lub zapisać pliki
+    .accesskey = P
 drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
     .label = Odtwarzanie treści chronionych przez DRM.
