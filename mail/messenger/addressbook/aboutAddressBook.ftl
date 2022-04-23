@@ -16,6 +16,8 @@ about-addressbook-toolbar-new-contact =
     .label = Новый контакт
 about-addressbook-toolbar-new-list =
     .label = Новый список
+about-addressbook-toolbar-import =
+    .label = Импорт
 
 ## Books
 
@@ -26,10 +28,14 @@ about-addressbook-books-context-synchronize =
     .label = Синхронизовать
 about-addressbook-books-context-print =
     .label = Печать…
+about-addressbook-books-context-export =
+    .label = Экспорт…
 about-addressbook-books-context-delete =
     .label = Удалить
 about-addressbook-books-context-remove =
     .label = Удалить
+about-addressbook-books-context-startup-default =
+    .label = Каталог по умолчанию при открытии
 about-addressbook-confirm-delete-book-title = Удаление адресной книги
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -132,3 +138,15 @@ about-addressbook-details-phone-numbers-header = Телефонные номер
 about-addressbook-details-home-address-header = Домашний адрес
 about-addressbook-details-work-address-header = Рабочий адрес
 about-addressbook-details-other-info-header = Дополнительная информация
+about-addressbook-unsaved-changes-prompt-title = Несохранённые изменения
+about-addressbook-unsaved-changes-prompt = Вы хотите сохранить изменения перед выходом из режима редактирования?
+
+# Photo dialog
+
+about-addressbook-photo-drop-target = Перетащите или вставьте сюда фотографию, или щёлкните, чтобы выбрать файл.
+about-addressbook-photo-drop-loading = Загрузка фото…
+about-addressbook-photo-drop-error = Не удалось загрузить фото.
+about-addressbook-photo-filepicker-title = Выберите файл изображения
+about-addressbook-photo-discard = Удалить существующее фото
+about-addressbook-photo-cancel = Отмена
+about-addressbook-photo-save = Сохранить
