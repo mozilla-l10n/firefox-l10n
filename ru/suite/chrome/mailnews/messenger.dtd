@@ -316,6 +316,13 @@
 <!ENTITY editMsgAsNewCmd.label "Редактировать как новое">
 <!ENTITY editMsgAsNewCmd.accesskey "Р">
 <!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY editAsNewMsgCmd.label "Редактировать как новое сообщение">
+<!ENTITY editAsNewMsgCmd.accesskey "н">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Редактировать черновик сообщения">
+<!ENTITY editDraftMsgCmd.accesskey "ч">
+<!-- LOCALIZATION NOTE (newMsgFromTemplateCmd.keycode):
+     Do not localize VK_RETURN. -->
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "ф">
 <!ENTITY archiveMsgCmd.label "Архивировать">
