@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } diğer dosyalarla ne yapsın?
+applications-save-for-new-types =
+    .label = Dosyaları kaydet
+    .accesskey = D
+applications-ask-before-handling =
+    .label = Dosyaları açmayı veya kaydetmeyi sor
+    .accesskey = o
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
     .label = DRM denetimli içerikleri oynat
