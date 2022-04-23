@@ -11,6 +11,7 @@
 <!ENTITY newMenu.label "Создать">
 <!ENTITY newMenu.accesskey "С">
 <!ENTITY newMessage.label "Сообщение">
+<!ENTITY newMessage.accesskey "б">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newContact.label "Контакт адресной книги…">
 <!ENTITY newContact.accesskey "н">

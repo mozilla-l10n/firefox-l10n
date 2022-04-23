@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-menu-bar =
+    .toolbarname = Панель меню
+    .accesskey = м
 
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
 # and consolidated everything with Preferences.
 menu-tools-preferences =
+    .label = Настройки
+    .accesskey = а
+menu-tools-settings =
     .label = Настройки
     .accesskey = а
 menu-addons-and-themes =
