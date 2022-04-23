@@ -4,5 +4,6 @@
 
 restart-required-title = पुनःसुचारु आवश्यक छ
 restart-required-header = माफ गर्नुहोला । हामीले अगाडि बढिरहनको लागि एउटा सानो कुरा गर्नु पर्दछ ।
+restart-required-intro-brand = { -brand-short-name } भर्खरै पृष्ठभूमिमा अद्यावधिक गरिएको छ। अपडेट पूरा गर्न { -brand-short-name } पुन: सुचारु मा क्लिक गर्नुहोस्।
 restart-required-description = हामी तपाईंका सबै पृष्ठहरू, संझ्यालहरू र ट्याबहरू बहाल गर्नेछौं, ताकि तपाईं चाँडै अगाडि बढ्न सक्नुहुनेछ।
 restart-button-label = { -brand-short-name } पुनःसुचारु गर्नुहोस्
