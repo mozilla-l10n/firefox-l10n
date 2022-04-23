@@ -7,6 +7,9 @@
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Сценарии и плагины">
 
+<!--LOCALIZATION NOTE : FILE The 'Scripts' preferences dialog -->
+<!ENTITY pref.scripts2.title             "Сценарии">
+
 <!ENTITY navigator.label                 "Браузера">
 <!ENTITY navigator.accesskey             "а">
 
