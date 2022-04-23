@@ -4,6 +4,15 @@
 
 e2e-intro-description = Aby skoděrowane abo digitalnje signěrowane powěsći pósłał, musyśo koděrowańsku technologiju konfigurěrowaś, pak OpenPGP pak S/MIME.
 e2e-intro-description-more = Wubjeŕśo swój wósobinski kluc, aby wužywanje OpenPGP zmóžnił, abo wósobinski certifikat, aby wužywanje S/MIME zmóžnił. Za wósobinski kluc abo certifikat maśo wótpowědny pótajmny kluc.
+e2e-sign-message =
+    .label = Njeskoděrowane powěsći signěrowaś
+    .accesskey = e
+e2e-disable-enc =
+    .label = Koděrowanje za nowe powěsći znjemóžniś
+    .accesskey = m
+e2e-enable-enc =
+    .label = Koděrowanje za nowe powěsći zmóžniś
+    .accesskey = z
 e2e-advanced-section = Rozšyrjone nastajenja
 e2e-attach-key =
     .label = Mój zjawny kluc pśipowjesyś, gaž se digitalna signatura OpenPGP pśidawa
@@ -44,6 +53,8 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Rozšyrjony…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">GLĚDAJŚO: Napóranje kluca móžo někotare minuty traś.</a> Njekóńcćo nałoženje, mjaztym až se kluc napórajo. Gaž aktiwnje pśeglědujośo abo operacije z intensiwnym wužywanim kšuteje platy wuwjedujośo, mjaztym až se kluc napórajo, se ‚pool pśipadnosćie‘ zasej napołnijo a proces póspěšyjo. Dostanjośo powěźeńku, gaž napóranje kluca jo dokóńcone.
+openpgp-key-created-label =
+    .label = Napórany
 openpgp-key-expiry-label =
     .label = Datum spadnjenja
 openpgp-key-id-label =
@@ -233,6 +244,7 @@ openpgp-key-details-structure-tab =
     .label = Struktura
 openpgp-key-details-uid-certified-col =
     .label = Wužywaŕski ID / Certificěrowany wót
+openpgp-key-details-key-id-label = ID kluca
 openpgp-key-details-user-id2-label = Pózdatny wobsejźaŕ kluca
 openpgp-key-details-id-label =
     .label = ID
