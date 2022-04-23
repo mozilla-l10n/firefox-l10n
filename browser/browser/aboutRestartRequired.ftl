@@ -5,5 +5,5 @@
 restart-required-title = Потребно е рестартирање
 restart-required-header = Извинете. Треба да направиме една мала работа за да продолжите.
 restart-required-intro-brand = { -brand-short-name } само што беше ажуриран во позадина. Кликнете да го рестартирате { -brand-short-name } за да го комплетирате ажурирањето.
-
+restart-required-description = Потоа ќе ги вратиме сите ваши страници, прозорци и јазициња, за да можете брзо да продолжите.
 restart-button-label = Рестартирај го { -brand-short-name }
