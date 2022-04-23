@@ -49,15 +49,46 @@ addr-book-sqlite-file = Файл базы данных SQLite (.sqlite)
 addr-book-mab-file = Файл базы данных Mork (.mab)
 addr-book-file-picker = Выберите файл адресной книги
 addr-book-csv-field-map-title = Сопоставление имен полей
+addr-book-csv-field-map-desc = Выберите поля адресной книги, соответствующие полям источника. Снимите флажки с полей, которые не хотите импортировать.
+addr-book-directories-pane-title = Выберите каталог, в который необходимо импортировать:
+addr-book-directories-pane-source = Исходный файл:
+addr-book-import-into-new-directory = Создать новый каталог
 
 ## Import from address book file steps
 
+import-from-calendar-file-desc = Выберите файл iCalendar (.ics), который вы хотите импортировать.
+calendar-items-loading = Загрузка элементов…
+calendar-items-filter-input =
+    .placeholder = Фильтр элементов…
+calendar-select-all-items = Выделить все
+calendar-deselect-all-items = Снять выделение со всех
+calendar-import-into-new-calendar = Создать новый календарь
 
 ## Import dialog
 
+progress-pane-importing = Импорт
+progress-pane-exporting = Экспорт
+progress-pane-finished-desc = Завершено.
+progress-pane-restart-desc = Перезапустите, чтобы завершить импорт.
+error-pane-title = Ошибка
+error-message-zip-file-too-big = Размер выбранного zip-файла превышает 2 ГБ. Пожалуйста, сначала распакуйте его, а затем импортируйте из распакованной папки.
+error-message-extract-zip-file-failed = Не удалось распаковать zip-файл. Распакуйте его вручную, а затем импортируйте из распакованной папки.
+error-message-failed = В процессе импорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
+error-failed-to-parse-ics-file = В файле не найдены элементы для импорта.
+error-export-failed = В процессе экспорта произошёл непредвиденный сбой. Более подробная информация может быть доступна в Консоли ошибок.
 
 ## <csv-field-map> element
 
+csv-first-row-contains-headers = Первая строка содержит заголовки полей
+csv-source-field = Исходное поле
+csv-source-first-record = Первая запись
+csv-source-second-record = Вторая запись
+csv-target-field = Поле адресной книги
 
 ## Export tab
 
+export-profile-desc = Экспорт учётных записей почты, почтовых сообщений, адресных книг, настроек в zip-файл. При необходимости вы можете импортировать zip-файл, чтобы восстановить свой профиль.
+export-profile-desc2 = Если размер вашего текущего профиля превышает 2ГБ, мы рекомендуем вам создать его резервную копию самостоятельно.
+export-open-profile-folder = Открыть папку профиля
+export-file-picker = Экспорт в zip-файл
+export-brand-name = { -brand-product-name }
