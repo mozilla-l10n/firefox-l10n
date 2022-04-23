@@ -145,6 +145,54 @@ encryption-menu =
 encryption-toggle =
     .label = Zaszyfruj
     .tooltiptext = Użyj szyfrowania „end-to-end” dla tej wiadomości
+encryption-options-openpgp =
+    .label = OpenPGP
+    .tooltiptext = Wyświetl lub zmień ustawienia szyfrowania OpenPGP
+encryption-options-smime =
+    .label = S/MIME
+    .tooltiptext = Wyświetl lub zmień ustawienia szyfrowania S/MIME
+menu-openpgp =
+    .label = OpenPGP
+    .accesskey = O
+menu-smime =
+    .label = S/MIME
+    .accesskey = E
+menu-encrypt =
+    .label = Zaszyfruj
+    .accesskey = s
+menu-encrypt-subject =
+    .label = Zaszyfruj temat
+    .accesskey = m
+menu-sign =
+    .label = Podpisz cyfrowo
+    .accesskey = P
+menu-manage-keys =
+    .label = Asystent kluczy
+    .accesskey = A
+menu-view-certificates =
+    .label = Wyświetl certyfikaty odbiorców
+    .accesskey = c
+menu-open-key-manager =
+    .label = Menedżer kluczy
+    .accesskey = d
+openpgp-key-issue-notification-one = Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z kluczami dla { $addr }
+openpgp-key-issue-notification-many =
+    { $count ->
+        [one] Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z kluczami dla { $count } odbiorcy.
+        [few] Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z kluczami dla { $count } odbiorców.
+       *[many] Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z kluczami dla { $count } odbiorców.
+    }
+smime-cert-issue-notification-one = Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z certyfikatami dla { $addr }.
+smime-cert-issue-notification-many =
+    { $count ->
+        [one] Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z certyfikatami dla { $count } odbiorcy.
+        [few] Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z certyfikatami dla { $count } odbiorców.
+       *[many] Szyfrowanie typu „end-to-end” wymaga rozwiązania problemów z certyfikatami dla { $count } odbiorców.
+    }
+key-notification-disable-encryption =
+    .label = Nie szyfruj
+    .accesskey = N
+    .tooltiptext = Wyłącz szyfrowanie „end-to-end”
 
 ## Addressing Area
 
