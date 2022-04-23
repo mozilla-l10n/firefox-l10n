@@ -379,6 +379,9 @@ applications-use-os-default-label =
 
 ##
 
+applications-ask-before-handling =
+    .label = Demandar se cal dobrir o salvar los fichièrs
+    .accesskey = D
 drm-content-header = Contengut amb Digital Rights Management (DRM)
 play-drm-content =
     .label = Legir lo contengut contrarotlat per DRM
