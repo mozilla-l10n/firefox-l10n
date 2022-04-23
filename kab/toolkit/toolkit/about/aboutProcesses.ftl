@@ -118,6 +118,8 @@ about-processes-frame-name-one = Akatar n ddaw: { $url }
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
 about-processes-frame-name-many = Ikataren n ddaw ({ $number }): { $shortUrl }
+# Utility process actor names
+about-processes-utility-actor-unknown = Amigaw arussin
 about-processes-utility-actor-audio-decoder = Amakkas n usettengel Ameslaw
 
 ## Displaying CPU (percentage and total)
