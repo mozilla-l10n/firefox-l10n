@@ -5,18 +5,15 @@
 otr-finger =
     .buttonlabelaccept = Закрыть
     .title = Ранее просмотренные отпечатки OTR
-
+otr-finger-title = Ранее замеченные отпечатки OTR
 finger-intro = Отпечатки ключей OTR от предыдущих разговоров со сквозным шифрованием.
-
 finger-screen-name =
     .label = Контакт
 finger-verified =
     .label = Статус подтверждения
 finger-fingerprint =
     .label = Отпечаток
-
 finger-remove =
     .label = Удалить выбранное
-
 finger-remove-all =
     .label = Удалить все
