@@ -380,6 +380,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Kva skal { -brand-short-name } gjere med andre filer?
+applications-save-for-new-types =
+    .label = Lagre filer
+    .accesskey = L
+applications-ask-before-handling =
+    .label = Spør om du vil opne eller lagre filer
+    .accesskey = S
 drm-content-header = Digital Rights Management (DRM) innhald
 play-drm-content =
     .label = Spel DRM-kontrollert innhald
