@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapòrt per { $addon-name }
 abuse-report-title-extension = Senhalar aquesta extension a { -vendor-short-name }
+abuse-report-title-sitepermission = Senhalar aquesta extension d’autorizacion de site a { -vendor-short-name }
 abuse-report-title-theme = Senhalar aqueste tèma a { -vendor-short-name }
 abuse-report-subtitle = Qual es lo problèma ?
 # Variables:
