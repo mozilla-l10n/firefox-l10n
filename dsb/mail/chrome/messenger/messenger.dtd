@@ -490,7 +490,7 @@
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Importěrowaś…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY exportCmd.label "">
+<!ENTITY exportCmd.label "Eksportěrowaś…">
 <!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Aktualnu historiju lašowaś…">
 <!ENTITY clearRecentHistory.accesskey "h">
