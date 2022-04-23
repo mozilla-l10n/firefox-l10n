@@ -193,6 +193,10 @@ key-notification-disable-encryption =
     .label = Nie szyfruj
     .accesskey = N
     .tooltiptext = Wyłącz szyfrowanie „end-to-end”
+key-notification-resolve =
+    .label = Rozwiąż…
+    .accesskey = R
+    .tooltiptext = Otwórz asystenta kluczy OpenPGP
 
 ## Addressing Area
 
