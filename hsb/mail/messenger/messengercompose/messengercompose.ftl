@@ -85,6 +85,13 @@ context-menuitem-attach-files =
     .label = Dataje připowěsnyć…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+# Note: Do not translate the term 'vCard'.
+context-menuitem-attach-vcard =
+    .label = Moja wizitka vCard
+    .accesskey = v
+context-menuitem-attach-openpgp-key =
+    .label = Mój zjawny kluč OpenPGP
+    .accesskey = l
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count-value =
     { $count ->
